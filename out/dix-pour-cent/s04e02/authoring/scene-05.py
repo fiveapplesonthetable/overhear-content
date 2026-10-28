@@ -7,8 +7,7 @@ SCENE = 5
 TITLE = 'La perle rare  (The Rare Pearl)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'gabriel': 'theo'}
-LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel'}
+LABELS = {'arlette': 'Arlette', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At the ASK agency, Camille searches desperately for an unusual actress to satisfy director Valerie Donzelli. Arlette passes on legendary advice from founder Samuel Kerr about scouting authentic faces in the street. Let's listen to their exchange in French first."
@@ -18,15 +17,15 @@ OUTRO = "That's it for this scene around the rare pearl. When you watch the epis
 CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('camille', 'La réalisatrice refuse toutes mes actrices.', 'The director rejects all my actresses.', [(322, 'Elle refuse toutes mes actrices.')], ''),
-    ('gabriel', 'Pourquoi? Tes comédiennes sont pourtant très bien.', 'Why? Your actresses are very good though.', [(323, 'Tes filles sont bien.')], ''),
+    ('arlette', 'Pourquoi? Tes comédiennes sont pourtant très bien.', 'Why? Your actresses are very good though.', [(323, 'Tes filles sont bien.')], ''),
     ('camille', 'Elle les trouve beaucoup trop banales.', 'She finds them much too plain.', [(322, 'trop banales')], ''),
     ('camille', 'Elle cherche une femme avec du relief.', 'She is looking for a woman with character.', [(324, 'pas assez de relief')], ''),
-    ('gabriel', 'Elle veut un personnage à la Almodovar?', 'She wants an Almodovar-style character?', [(318, 'un personnage à la Almodovar')], ''),
+    ('arlette', 'Elle veut un personnage à la Almodovar?', 'She wants an Almodovar-style character?', [(318, 'un personnage à la Almodovar')], ''),
     ('camille', 'Oui, un visage unique et très expressif.', 'Yes, a unique and very expressive face.', [(315, 'elle veut un visage !')], ''),
-    ('gabriel', 'Samuel donnait toujours un très bon conseil.', 'Samuel always gave very good advice.', [(326, 'Samuel disait toujours')], ''),
+    ('arlette', 'Samuel donnait toujours un très bon conseil.', 'Samuel always gave very good advice.', [(326, 'Samuel disait toujours')], ''),
     ('camille', 'Quel conseil? Dis-moi vite, Arlette!', 'What advice? Tell me quickly, Arlette!', [(326, 'cherche dans la rue')], ''),
-    ('gabriel', 'Cherche tes acteurs dans la rue!', 'Look for your actors in the street!', [(326, 'cherche dans la rue')], ''),
-    ('gabriel', 'Il faut observer et les débusquer!', 'You have to observe and track them down!', [(331, 'Les débusquer !')], ''),
+    ('arlette', 'Cherche tes acteurs dans la rue!', 'Look for your actors in the street!', [(326, 'cherche dans la rue')], ''),
+    ('arlette', 'Il faut observer et les débusquer!', 'You have to observe and track them down!', [(331, 'Les débusquer !')], ''),
     ('camille', "Attends, je crois que j'ai trouvé!", 'Wait, I think that I found her!', [(334, "J'ai trouvé.")], ''),
     ('gabriel', 'Qui as-tu trouvé? Une actrice connue?', 'Who did you find? A famous actress?', [(335, "Mais j'ai trouvé !")], ''),
     ('camille', 'Une touriste espagnole croisée dans le métro!', 'A Spanish tourist crossed paths with in the subway!', [(264, "C'est ma première fois à Paris.")], ''),

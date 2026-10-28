@@ -7,7 +7,6 @@ SCENE = 22
 TITLE = 'Le permis de conduire  (The Driving Test)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'examinateur': 'theo', 'norman': 'marcel'}
 LABELS = {'examinateur': "L'examinateur", 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'

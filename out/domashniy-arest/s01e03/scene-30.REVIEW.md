@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Марина | Извините. | Excuse me. | #1023 00:55:05: Извините | adapted: Marina enters Arkady's room and finds him tied to the chair |
-| 2 | Аня | Марина! Развяжите меня, пожалуйста. | Marina! Please untie me. | #1024 00:55:07: меня, пожалуйста | adapted: 'Марина!' added; 'Разведите' (subtitle typo) -> 'Развяжите' |
-| 3 | Марина | Давайте я вас развяжу. | Let me untie you. | #1025 00:55:09: Давайте я вас | adapted: 'разовяжу' (subtitle typo) -> 'развяжу' |
-| 4 | Аня | Буду вам очень признателен. А то я устал сидеть. | I'll be very grateful to you. Because I'm tired of sitting. | #1026 00:55:10: Буду вам очень признателен<br>#1027 00:55:12: А то | adapted: 'затек совсем' -> 'я устал сидеть' (A1) |
-| 5 | Марина | Да оставайтесь сзади лучше. | Just stay leaning back. | #1029 00:55:15: Да оставайтесь сзади лучше | verbatim |
-| 6 | Аня | О, спасибо! И ноги, ноги. | Oh, thank you! And my legs, my legs. | #1031 00:55:23: О, спасибо<br>#1032 00:55:26: Ноги, ноги | adapted: 'И' added; third 'ноги' dropped |
-| 7 | Марина | Сейчас, сейчас. | Just a moment, just a moment. | #1033 00:55:27: Сейчас, сейчас | adapted: while bending down to untie his legs, she secretly sticks the bug in place |
-| 8 | Аня | Ой! | Ouch! | #1034 00:55:32: Ой | verbatim |
-| 9 | Марина | У вас упало это. | You dropped this. | #1035 00:55:40: У вас упало это | adapted: she hands him the empty foil wrapper as a cover |
-| 10 | Аня | Да? Ну, я понял. | Really? Well, I see. | #1022 00:55:02: Да<br>#1037 00:55:46: Ну, я понял | verbatim |
-| 11 | Марина | О, заработала! | Oh, it's working! | #1039 00:56:39: О, заработала | adapted: at the listening post, the bug turns on when Klavdia walks into the room |
-| 12 | Марина | Ну вот! А ты говоришь — старушка! | There you go! And you called her an old lady! | #1040 00:56:42: Ну вот, а ты говоришь | adapted: 'бабка' -> 'старушка'; split into two short sentences |
-| 13 | Марина | Ладно, звони в свою пиццу. Заказывай! | All right, call your pizza place. Go ahead and order! | #1041 00:56:51: Ладно, звони в свою пиццу<br>#1042 00:56:52: Заказывай | adapted: Lavrov's reply folded into Zavarzin's role for the three-voice limit |
+| 1 | Марина | Извините. | Excuse me. | #1023: Извините | adapted: Marina enters Arkady's room and finds him tied to the chair |
+| 2 | Аркадий | Марина! Развяжите меня, пожалуйста. | Marina! Please untie me. | #1024: меня, пожалуйста | adapted: 'Марина!' added; 'Разведите' (subtitle typo) -> 'Развяжите' |
+| 3 | Марина | Давайте я вас развяжу. | Let me untie you. | #1025: Давайте я вас | adapted: 'разовяжу' (subtitle typo) -> 'развяжу' |
+| 4 | Аркадий | Буду вам очень признателен. А то я устал сидеть. | I'll be very grateful to you. Because I'm tired of sitting. | #1026: Буду вам очень признателен<br>#1027: А то | adapted: 'затек совсем' -> 'я устал сидеть' (A1) |
+| 5 | Марина | Да оставайтесь сзади лучше. | Just stay leaning back. | #1029: Да оставайтесь сзади лучше | verbatim |
+| 6 | Аркадий | О, спасибо! И ноги, ноги. | Oh, thank you! And my legs, my legs. | #1031: О, спасибо<br>#1032: Ноги, ноги | adapted: 'И' added; third 'ноги' dropped |
+| 7 | Марина | Сейчас, сейчас. | Just a moment, just a moment. | #1033: Сейчас, сейчас | adapted: while bending down to untie his legs, she secretly sticks the bug in place |
+| 8 | Аркадий | Ой! | Ouch! | #1034: Ой | verbatim |
+| 9 | Марина | У вас упало это. | You dropped this. | #1035: У вас упало это | adapted: she hands him the empty foil wrapper as a cover |
+| 10 | Аркадий | Да? Ну, я понял. | Really? Well, I see. | #1022: Да<br>#1037: Ну, я понял | verbatim |
+| 11 | Заварзин | О, заработала! | Oh, it's working! | #1039: О, заработала | adapted: at the listening post, the bug turns on when Klavdia walks into the room |
+| 12 | Заварзин | Ну вот! А ты говоришь — старушка! | There you go! And you called her an old lady! | #1040: Ну вот, а ты говоришь | adapted: 'бабка' -> 'старушка'; split into two short sentences |
+| 13 | Заварзин | Ладно, звони в свою пиццу. Заказывай! | All right, call your pizza place. Go ahead and order! | #1041: Ладно, звони в свою пиццу<br>#1042: Заказывай | adapted: Lavrov's reply folded into Zavarzin's role for the three-voice limit |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

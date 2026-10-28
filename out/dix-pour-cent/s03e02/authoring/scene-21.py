@@ -7,7 +7,6 @@ SCENE = 21
 TITLE = 'Une cigarette forte  (A Strong Smoke)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'herve': 'marcel'}
 LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'

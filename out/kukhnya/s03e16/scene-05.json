@@ -8,16 +8,10 @@
  "scene": 5,
  "title": "Самое дорогое блюдо Макса  (Max's Most Expensive Dish)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "anya": "alisa",
-  "katya": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
-  "anya": "Макс",
-  "katya": "Катя"
+  "barinov": "Шеф",
+  "katya": "Катя",
+  "max": "Макс"
  },
  "segments": [
   {
@@ -26,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Катя, лежала бы ты дома ещё недельку.",
    "gap": 0.55
   },
@@ -36,52 +30,52 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, смотрите, мы думаем, что дед Кирилл нам мстит.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пойдёмте со мной, я вам тоже кое-что мистическое покажу.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это призрак вашей премии, он только что улетел!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Заказов полно, а на кухне никого нет!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А это что за блюдо, такого нет в меню?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, я наконец придумал своё фирменное блюдо!",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Здесь чёрная икра, трюфели, говядина и шафран.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Боже мой, это самое дорогое безобразие в моей жизни!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всё это я сегодня вычитаю из твоей зарплаты!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Запрещаю прикасаться к дорогим продуктам, иди картошку чистить!",
    "gap": 0.9
   },
@@ -91,13 +85,13 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Катя, лежала бы ты дома ещё недельку.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Katya, you should have rested at home for another week.' The meaning hinges on 'Katya' working together with 'a little week' in spoken Russian.",
+   "t": "'Katya, you should have rested at home for another week.' Explaining that Katya should have rested at home for another week lays the cards on the table for Katya. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -107,111 +101,111 @@
   },
   {
    "v": "narrator",
-   "t": "'No, Dad, I am already going crazy without work!' An emphatic spoken line centered on the verb meaning 'to go'. Max answers right away.",
+   "t": "'No, Dad, I am already going crazy without work!' Declaring that dad she is already going crazy without work brings Katya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, смотрите, мы думаем, что дед Кирилл нам мстит.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, look, we think that Grandpa Kirill is taking revenge on us.' Here the Russian phrasing highlights 'Chef' before landing on 'is taking revenge'.",
+   "t": "'Chef, look, we think that Grandpa Kirill is taking revenge on us.' Claiming that they think that Grandpa Kirill is taking revenge on them sounds confident, even if Barinov has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пойдёмте со мной, я вам тоже кое-что мистическое покажу.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Come with me, I will show you something mystical too.' In Russian, the idea of 'let's go' flows naturally into 'will show' without extra filler words.",
+   "t": "'Come with me, I will show you something mystical too.' Telling Katya to come with him he will show Katya something mystical moves the conversation forward without extra drama. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это призрак вашей премии, он только что улетел!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'That is the ghost of your bonus, it just flew away!' The meaning hinges on 'this' working together with 'to fly away' in spoken Russian.",
+   "t": "'That is the ghost of your bonus, it just flew away!' Barinov declares that that is the ghost of Katya's bonus it just flew away as the tension in the room peaks. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Заказов полно, а на кухне никого нет!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'There are tons of orders, and nobody is in the kitchen!' The grammar packs 'orders' and 'no' into a tight, idiomatic kitchen exchange.",
+   "t": "'There are tons of orders, and nobody is in the kitchen!' Because there are tons of orders and nobody is in the kitchen, Barinov does not bother softening the blow for Katya.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А это что за блюдо, такого нет в меню?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And what is this dish, this is not on the menu?' In everyday Russian, 'dish' flows straight into 'menu' without extra linking words.",
+   "t": "'And what is this dish, this is not on the menu?' Here wondering what this dish this is not on the menu is shows Barinov looking for the real truth. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, я наконец придумал своё фирменное блюдо!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, I finally invented my signature dish!' The '-l' ending on the verb meaning 'came up with' places the action in the masculine past tense.",
+   "t": "'Chef, I finally invented my signature dish!' Over the work and the hospital, Max lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Здесь чёрная икра, трюфели, говядина и шафран.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'In here are black caviar, truffles, beef, and saffron.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'saffron'.",
+   "t": "'In here are black caviar, truffles, beef, and saffron.' Admitting that in here are black caviar truffles beef and saffron shows Max being honest for a change.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Боже мой, это самое дорогое безобразие в моей жизни!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'My God, this is the most expensive mess in my life!' Notice how Russian expresses 'God' and 'life' with crisp inflection rather than helper words.",
+   "t": "'My God, this is the most expensive mess in my life!' Barinov insists that his this is the most expensive mess in his life, leaving Katya no room to argue. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всё это я сегодня вычитаю из твоей зарплаты!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I am deducting all of this from your paycheck today!' An emphatic spoken line centered on the verb meaning 'deduct'.",
+   "t": "'I am deducting all of this from your paycheck today!' Being deducting all of this from Katya's paycheck today shows Barinov is done holding back. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Запрещаю прикасаться к дорогим продуктам, иди картошку чистить!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I forbid you to touch expensive ingredients, go peel potatoes!' Chef Barinov pairs 'forbid' with 'to peel' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I forbid you to touch expensive ingredients, go peel potatoes!' Forbidding Katya to touch expensive ingredients go peel potatoes shows Barinov is done holding back. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Катя, лежала бы ты дома ещё недельку.",
    "gap": 0.5
   },
@@ -221,52 +215,52 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, смотрите, мы думаем, что дед Кирилл нам мстит.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пойдёмте со мной, я вам тоже кое-что мистическое покажу.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это призрак вашей премии, он только что улетел!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Заказов полно, а на кухне никого нет!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А это что за блюдо, такого нет в меню?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, я наконец придумал своё фирменное блюдо!",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Здесь чёрная икра, трюфели, говядина и шафран.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Боже мой, это самое дорогое безобразие в моей жизни!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всё это я сегодня вычитаю из твоей зарплаты!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Запрещаю прикасаться к дорогим продуктам, иди картошку чистить!",
    "gap": 0.9
   },
@@ -276,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пока!",
    "gap": 0.3
   }

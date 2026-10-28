@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Губернатор | Сделайте звук телевизора громче, пожалуйста. | Turn up the volume on the television, please. | #356 00:21:29: звук прибавь | verbatim |
-| 2 | Губернатор | Мы с Иваном оба вышли из народа. | Ivan and I both came from the people. | #357 00:21:36: оба из народа | verbatim |
-| 3 | Губернатор | Мы оба сами многого добились в жизни. | We both achieved a lot in life on our own. | #357 00:21:36: многого добились | verbatim |
-| 4 | Губернатор | Поэтому я поддержу кандидата Ивана Самсонова. | Therefore I will support candidate Ivan Samsonov. | #358 00:21:46: Так что я поддержу Ивана Самсонова | verbatim |
-| 5 | Самсон | Большое спасибо, Виктор Степанович! | Thank you very much, Viktor Stepanovich! | #359 00:21:53: Спасибо | verbatim |
-| 6 | Самсон | Я надеюсь, что мы успешно сработаемся. | I hope that we will work well together. | #360 00:21:53: Надеюсь, мы сработаемся | verbatim |
-| 7 | Самсон | Мы обязательно оправдаем все ожидания людей. | We will certainly live up to all people's expectations. | #361 00:21:57: Оправдаем ожидания людей | verbatim |
-| 8 | Губернатор | Теперь разрешите пригласить вас в баню. | Now allow me to invite you to the bathhouse. | #362 00:21:59: позвольте официально пригласить вас | verbatim |
-| 9 | Губернатор | Это настоящая хорошая русская баня. | It is a genuine, good Russian bathhouse. | #363 00:22:07: Стоящая русская баня | verbatim |
-| 10 | Губернатор | Я слышал, что вы большой любитель. | I heard that you are a big enthusiast. | #364 00:22:09: Я слышал, вы любитель | verbatim |
+| 1 | Губернатор | Сделайте звук телевизора громче, пожалуйста. | Turn up the volume on the television, please. | #356: звук прибавь | verbatim |
+| 2 | Губернатор | Мы с Иваном оба вышли из народа. | Ivan and I both came from the people. | #357: оба из народа | verbatim |
+| 3 | Губернатор | Мы оба сами многого добились в жизни. | We both achieved a lot in life on our own. | #357: многого добились | verbatim |
+| 4 | Губернатор | Поэтому я поддержу кандидата Ивана Самсонова. | Therefore I will support candidate Ivan Samsonov. | #358: Так что я поддержу Ивана Самсонова | verbatim |
+| 5 | Самсон | Большое спасибо, Виктор Степанович! | Thank you very much, Viktor Stepanovich! | #359: Спасибо | verbatim |
+| 6 | Самсон | Я надеюсь, что мы успешно сработаемся. | I hope that we will work well together. | #360: Надеюсь, мы сработаемся | verbatim |
+| 7 | Самсон | Мы обязательно оправдаем все ожидания людей. | We will certainly live up to all people's expectations. | #361: Оправдаем ожидания людей | verbatim |
+| 8 | Губернатор | Теперь разрешите пригласить вас в баню. | Now allow me to invite you to the bathhouse. | #362: позвольте официально пригласить вас | verbatim |
+| 9 | Губернатор | Это настоящая хорошая русская баня. | It is a genuine, good Russian bathhouse. | #363: Стоящая русская баня | verbatim |
+| 10 | Губернатор | Я слышал, что вы большой любитель. | I heard that you are a big enthusiast. | #364: Я слышал, вы любитель | verbatim |
 | 11 | Самсон | Да, русскую баню я очень люблю! | Yes, I love a Russian bathhouse very much! | new | new |
 | 12 | Губернатор | Отлично, тогда поедем прямо сейчас! | Great, then let us go right now! | new | new |
 

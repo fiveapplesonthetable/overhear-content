@@ -1,23 +1,25 @@
+# Authoring module for kukhnya-s06e11-scene-17.
 ID = 'kukhnya-s06e11-scene-17'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 11
 SCENE = 17
-TITLE = "Подготовка сюрприза и честный таксист  (Preparing a Surprise and the Honest Cabbie)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Подготовка сюрприза и честный таксист  (Preparing a Surprise and the Honest Cabbie)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "eleonora": "angelina", "mikhail": "anja"}
-LABELS = {"eleonora": "Элеонора", "mikhail": "Михаил"}
+LABELS = {'eleonora': 'Элеонора', 'katya': 'Катя', 'mikhail': 'Михаил'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.11'
 SOURCE_FILE = 'sources/kukhnya/s06/e11.ru.srt'
-
 INTRO = "Katya asks Eleonora to let her attend tonight's dinner dressed up as Eleonora's society daughter so she can see the look on Dyagilev's face. Down in the lobby, the honest taxi driver arrives carrying the suitcase that Valya forgot in his cab that morning."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'As Mikhail leads the taxi driver upstairs with the suitcase, Barinov bursts into room 202 to warn Dyagilev about his brother. Until next time!'
+CLOSING = ('katya', 'Пока!')
 STORY = [
     ('eleonora', 'Ты хочешь за ужином превратиться из повара в наследницу?', 'You want to turn from a chef into an heiress at dinner?', [(282, 'То есть ты хочешь, чтобы я за ужином из')], 'adapted'),
-    ('eleonora', 'Ну да, мама, мне это сейчас очень нужно.', 'Well yes, mom, I really need this right now.', [(283, 'Ну да')], 'adapted'),
+    ('katya', 'Ну да, мама, мне это сейчас очень нужно.', 'Well yes, mom, I really need this right now.', [(283, 'Ну да')], 'adapted'),
     ('eleonora', 'Если хочешь, мы можем ему сразу правду сказать.', 'If you want, we can tell him the truth right away.', [(284, 'Нет, если хочешь, мы можем ему просто правду сказать')], 'adapted'),
-    ('eleonora', 'Нет, я очень хотела бы увидеть его лицо!', 'No, I would really love to see his face!', [(285, 'Нет, я хотела бы увидеть его лицо')], 'adapted'),
+    ('katya', 'Нет, я очень хотела бы увидеть его лицо!', 'No, I would really love to see his face!', [(285, 'Нет, я хотела бы увидеть его лицо')], 'adapted'),
     ('mikhail', 'Виктор Петрович, его отец вернулся, он в номере на встрече.', 'Viktor Petrovich, his father returned, he is in the room in a meeting.', [(286, 'отец вернулся, он в')], 'adapted'),
     ('eleonora', 'Здравствуйте, скажите, а кто здесь главный в отеле?', 'Hello, tell me, who is in charge of the hotel here?', [(288, 'Здравствуйте'), (289, 'А кто главный')], 'adapted'),
     ('mikhail', 'Я главный управляющий, чем я могу вам помочь?', 'I am the general manager, how can I help you?', [(290, 'Я. Управляющий'), (291, 'Чем могу помочь')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('mikhail', 'Мне кажется, я прекрасно понимаю, про кого вы говорите.', 'It seems to me I understand perfectly whom you are talking about.', [(294, 'Мне кажется, я понимаю, про кого вы говорите')], 'adapted'),
     ('mikhail', 'Пожалуйста, пойдёмте прямо сейчас со мной в номер.', 'Please, come with me to the room right now.', [(295, 'Пойдемте со мной')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'You want to turn from a chef into an heiress at dinner?' In spoken Russian, the words stay in their normal statement order and Eleonora's rising voice at the end turns the line into a question."),
-    (1, None, "'Well yes, mom, I really need this right now.' The grammar packs 'come on' and 'needed' into a tight, idiomatic kitchen exchange. Eleonora answers right away."),
-    (2, None, "'If you want, we can tell him the truth right away.' The meaning hinges on 'if' working together with 'to say' in spoken Russian."),
-    (3, None, "'No, I would really love to see his face!' Notice how Russian expresses 'no' and 'face' with crisp inflection rather than helper words."),
-    (4, None, "'Viktor Petrovich, his father returned, he is in the room in a meeting.' Here the Russian phrasing highlights 'his' before landing on 'meeting'. Eleonora answers right away."),
-    (5, None, "'Hello, tell me, who is in charge of the hotel here?' Here the Russian phrasing highlights 'hello' before landing on 'in the hotel'."),
-    (6, None, "'I am the general manager, how can I help you?' Here the Russian phrasing highlights 'I' before landing on 'to help'."),
-    (7, None, "'This morning I drove a man to your place from the airport.' Notice how Russian expresses 'I' and 'airport' with crisp inflection rather than helper words."),
-    (8, None, "'A mustachioed man in a light-colored nice suit.' Eleonora anchors the line on 'such', while 'suit' completes the thought."),
-    (9, None, "'This morning he forgot his suitcase in my car.' Notice how Russian expresses 'he' and 'to forget' with crisp inflection rather than helper words."),
-    (10, None, "'It seems to me I understand perfectly whom you are talking about.' Here the Russian phrasing highlights 'to me' before landing on 'speak'."),
-    (11, None, "'Please, come with me to the room right now.' In Russian, the idea of 'please' flows naturally into 'number' without extra filler words."),
+    (0, None, '\'You want to turn from a chef into an heiress at dinner?\' Wondering if Katya wants to turn from a into an heiress at dinner shows Eleonora caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (1, None, "'Well yes, mom, I really need this right now.' Claiming that she really needs this right now sounds confident, even if Eleonora has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (2, None, "'If you want, we can tell him the truth right away.' Explaining that if Katya wants they can tell him the truth right away lays the cards on the table for Katya."),
+    (3, None, "'No, I would really love to see his face!' Once she would really love to see his face, Katya makes sure Eleonora hears every word. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (4, None, "'Viktor Petrovich, his father returned, he is in the room in a meeting.' Realizing that his father returned he is in the room in a meeting changes how Mikhail handles the situation."),
+    (5, None, "'Hello, tell me, who is in charge of the hotel here?' Wondering if tell her who is in charge of the hotel here shows Eleonora caught off guard."),
+    (6, None, '\'I am the general manager, how can I help you?\' Being the general manager how can he helps Eleonora is how Mikhail puts Eleonora on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (7, None, '\'This morning I drove a man to your place from the airport.\' Admitting that this morning she drove a man to Katya\'s place from the airport shows Eleonora being honest for a change. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
+    (8, None, "'A mustachioed man in a light-colored nice suit.' With the surprise and dinner in play, Eleonora keeps this short reply brisk and direct."),
+    (9, None, '\'This morning he forgot his suitcase in my car.\' Once this morning he forgot his suitcase in her car, Eleonora can finally tell Katya what she means. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (10, None, '\'It seems to me I understand perfectly whom you are talking about.\' Since it seems to him he understands perfectly whom Eleonora is talking, Mikhail does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (11, None, "'Please, come with me to the room right now.' By coming with him to the room right now, Mikhail keeps his side of the story grounded."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Mikhail leads the taxi driver upstairs with the suitcase, Barinov bursts into room 202 to warn Dyagilev about his brother. Until next time!'
-CLOSING = ("eleonora", "Пока!")

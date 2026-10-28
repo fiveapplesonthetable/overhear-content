@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 10
-TITLE = "Котлеты со спаржей  (Chops with Asparagus)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Котлеты со спаржей  (Chops with Asparagus)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "After Chef Barinov leaves the kitchen without tasting the other dishes, Fedya stands holding his plate of lamb chops. He complains to Senya that his own creation never even got a fair chance in the contest. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Rather than letting the Breton lamb chops go to waste, the two friends decide to enjoy the gourmet meal together for their own lunch. Next time you watch the episode, listen for the Russian expressions for 'tasty' and 'cutlet' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Вот мои вкусные котлеты для шефа.', 'Here are my tasty chops for the Chef.', [(134, 'котлеты')], ''),
     ('senya', 'Шеф уже выбрал моё мясное блюдо.', 'The Chef already chose my meat dish.', [], ''),

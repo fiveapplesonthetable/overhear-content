@@ -1,32 +1,49 @@
-# Review: `dix-pour-cent-s01e06-scene-28` — Menace de faillite chez ASK  (Threat of Bankruptcy at ASK)
+# dix-pour-cent-s01e06-scene-28: review sheet
 
-- **Source**: `sources/dix-pour-cent/s01/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "helene": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"gabriel": "Gabriel", "helene": "Hélène", "mathias": "Mathias"}`
+Title: Menace de faillite chez ASK  (Threat of Bankruptcy at ASK)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S01E06
 
-## Part 1 — Intro
-> Following the devastating conclusion of the tax audit, Colette leaves the agency with a heavy fine and a court summons. In the conference room, Samuel's widow Hélène Kerr confronts Mathias about whether his wealthy father-in-law will still buy her shares, and the partners realize the entire agency is facing bankruptcy. Let's listen to the scene in French first; don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `helene` (Hélène) | Votre femme et votre beau-père étaient au courant de ce contrôle fiscal? | Did your wife and your father-in-law know about this tax audit? | 720:Votre femme et votre beau-père étaient, 720:au courant de ce contrôle fiscal |
-| 1 | `mathias` (Mathias) | Oui. | Yes. | 721:Oui |
-| 2 | `helene` (Hélène) | Ça n'affectera pas leur intention de racheter mes parts? | Won | 722:affectera pas leur intention de racheter mes parts |
-| 3 | `mathias` (Mathias) | Je ne sais pas, Hélène. | I don | 723:Je ne sais pas, Hélène |
-| 4 | `helene` (Hélène) | C'est incroyable! Comment je vais les vendre? | It's unbelievable! How am I going to sell them? | 724:C'est incroyable, 724:Comment je vais les vendre |
-| 5 | `helene` (Hélène) | Sans argent frais, l'agence va fermer après ce contrôle. | Without fresh money, the agency will close after this audit. | 725:s'il n'y a pas de nouveaux fonds, 726:ASK ne survivra pas à ce contrôle fiscal |
-| 6 | `helene` (Hélène) | Vous comprenez tous ça? | Do you all understand that? | 727:Vous comprenez tous ça |
-| 7 | `gabriel` (Gabriel) | Quoi alors? On fait faillite? | What then? Are we going bankrupt? | 728:Quoi alors, 728:On fait faillite |
-| 8 | `gabriel` (Gabriel) | Je vous pose la question! Comment ça, vous ne savez pas? | I'm asking you the question! What do you mean, you don't know? | 729:Je vous pose la question, 730:Comment ça, vous ne savez pas |
-| 9 | `mathias` (Mathias) | Je ne sais pas, Gabriel! | I don | 731:Je ne sais pas, Gabriel |
-| 10 | `gabriel` (Gabriel) | Tu sais toujours tout, toi! | You always know everything! | 732:Tu sais toujours tout, toi |
-| 11 | `gabriel` (Gabriel) | Appelle ta femme, maintenant. Il faut qu'on sache. | Call your wife, now. We have to know. | 733:Appelle ta femme, maintenant. Il faut qu'on sache |
-| 12 | `mathias` (Mathias) | Ça ne servira à rien. Elle ne me parlera pas. | That won't do any good. She won't speak to me. | 734:Ça ne servira à rien. Elle ne me parlera pas |
-| 13 | `mathias` (Mathias) | Ça ressemble à un divorce. | It looks like a divorce. | 735:Ça ressemble à un divorce |
-| 14 | `gabriel` (Gabriel) | Qu'est-ce qu'elle fait? Andréa part en courant! | What is she doing? Andréa is running off! | 736:Qu'est-ce qu'elle fait |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> As Mathias admits his marriage is over and the agency stares into the abyss of bankruptcy, Andréa dashes onto the street outside ASK to find Colette. See you next time!
-- **Closing**: `gabriel`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Hélène | Votre femme et votre beau-père étaient au courant de ce contrôle fiscal? | Did your wife and your father-in-law know about this tax audit? | #720: Votre femme et votre beau-père étaient<br>#720: au courant de ce contrôle fiscal | verbatim |
+| 2 | Mathias | Oui. | Yes. | #721: Oui | verbatim |
+| 3 | Hélène | Ça n'affectera pas leur intention de racheter mes parts? | Won | #722: affectera pas leur intention de racheter mes parts | verbatim |
+| 4 | Mathias | Je ne sais pas, Hélène. | I don | #723: Je ne sais pas, Hélène | verbatim |
+| 5 | Hélène | C'est incroyable! Comment je vais les vendre? | It's unbelievable! How am I going to sell them? | #724: C'est incroyable<br>#724: Comment je vais les vendre | verbatim |
+| 6 | Hélène | Sans argent frais, l'agence va fermer après ce contrôle. | Without fresh money, the agency will close after this audit. | #725: s'il n'y a pas de nouveaux fonds<br>#726: ASK ne survivra pas à ce contrôle fiscal | verbatim |
+| 7 | Hélène | Vous comprenez tous ça? | Do you all understand that? | #727: Vous comprenez tous ça | verbatim |
+| 8 | Gabriel | Quoi alors? On fait faillite? | What then? Are we going bankrupt? | #728: Quoi alors<br>#728: On fait faillite | verbatim |
+| 9 | Gabriel | Je vous pose la question! Comment ça, vous ne savez pas? | I'm asking you the question! What do you mean, you don't know? | #729: Je vous pose la question<br>#730: Comment ça, vous ne savez pas | verbatim |
+| 10 | Mathias | Je ne sais pas, Gabriel! | I don | #731: Je ne sais pas, Gabriel | verbatim |
+| 11 | Gabriel | Tu sais toujours tout, toi! | You always know everything! | #732: Tu sais toujours tout, toi | verbatim |
+| 12 | Gabriel | Appelle ta femme, maintenant. Il faut qu'on sache. | Call your wife, now. We have to know. | #733: Appelle ta femme, maintenant. Il faut qu'on sache | verbatim |
+| 13 | Mathias | Ça ne servira à rien. Elle ne me parlera pas. | That won't do any good. She won't speak to me. | #734: Ça ne servira à rien. Elle ne me parlera pas | verbatim |
+| 14 | Mathias | Ça ressemble à un divorce. | It looks like a divorce. | #735: Ça ressemble à un divorce | verbatim |
+| 15 | Gabriel | Qu'est-ce qu'elle fait? Andréa part en courant! | What is she doing? Andréa is running off! | #736: Qu'est-ce qu'elle fait | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Did your wife and your father-in-law know about this tax audit?' Listen for the expression meaning 'wife', which leads naturally into 'tax'.
+- 'Yes.' Mathias answers quietly to the group.
+- 'Won't that affect their intention to buy out my shares?' Hélène pairs the verb meaning 'will affect' with the noun for 'shares'.
+- 'I don't know, Hélène.' Mathias avoids making any promises.
+- 'It's unbelievable!' The prefix turns the adjective into its opposite.
+- 'Without fresh money, the agency will close after this audit.' The little word for 'them' sits directly before the infinitive verb.
+- 'If there are no new funds, ASK will not survive this tax audit.' Hélène pairs the verb meaning 'is' with the noun for 'audit'.
+- 'Do you all understand that?' Hélène looks around the table at Gabriel and Arlette.
+- 'What then? Are we going bankrupt?' The everyday idiom for going bust or declaring bankruptcy.
+- 'I'm asking you the question!' Gabriel demands an immediate answer from Mathias.
+- 'What do you mean, you don't know?' Literally 'how that, you do not know'.
+- 'I don't know, Gabriel!' Mathias loses his cool under Gabriel's shouting.
+- 'You always know everything!' Gabriel adds the emphasis word at the end for emphasis.
+- 'Call your wife, now.' Gabriel insists that Mathias contact Catherine.
+- 'We have to know.' Listen for the expression meaning 'is necessary', which leads naturally into 'know'.
+- 'That won't do any good.' Literally 'that will serve to nothing'.
+- 'She won't talk to me.' Mathias combines 'she' with 'will speak' in a natural French turn of phrase.
+- 'It looks like a divorce.' Notice how the verb for 'looks like' leads straight into 'divorce'.
+- 'What is she doing? Andréa is running off!' While the partners argue, Andréa suddenly bolts out of the conference room and sprints down the stairs after Colette. Now let's hear the whole scene again from start to finish.

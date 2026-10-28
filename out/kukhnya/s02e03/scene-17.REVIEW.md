@@ -1,41 +1,32 @@
-# Недовольный гость  (A Dissatisfied Guest) — `kukhnya-s02e03-scene-17`
+# kukhnya-s02e03-scene-17: review sheet
 
-**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Недовольный гость  (A Dissatisfied Guest)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.03
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `guest` | anja | Гость |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> At Claude Monet, a demanding guest complains about his food and demands to see the chef. A demanding guest sits in the restaurant and waits for someone to assist him. He becomes increasingly annoyed by the lack of attention and decides to call a waiter. Let's listen closely to the conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Гость | Девушка, можно вас? | Miss, could you come here? | *(added)* |  |
-| 1 | Вика | Да, я вас слушаю. | Yes, I am listening to you. | *(added)* |  |
-| 2 | Гость | У нас проблема с заказом. | We have a problem with our order. | *(added)* |  |
-| 3 | Вика | Что-то не так с едой? | Is something wrong with the food? | *(added)* |  |
-| 4 | Гость | Я просил без лука. | I asked for no onions. | *(added)* |  |
-| 5 | Вика | Извините, сейчас всё исправим. | Sorry, we will fix everything right now. | *(added)* |  |
-| 6 | Гость | И принесите ещё вина. | And bring more wine. | *(added)* |  |
-| 7 | Вика | Конечно, одну минуту. | Of course, one minute. | *(added)* |  |
-| 8 | Гость | Официанты тут вообще работают? | Do waiters even work here? | *(added)* |  |
-| 9 | Гость | Уважаемые. | Excuse me. | #281 "Уважаемые" |  |
-| 10 | Макс | Что вам угодно? | What would you like? | *(added)* |  |
-| 11 | Гость | Я хочу поговорить с поваром. | I want to speak with the chef. | *(added)* |  |
-| 12 | Макс | Я передам вашу просьбу. | I will pass on your request. | *(added)* |  |
+| 1 | Гость | Девушка, можно вас? | Miss, could you come here? | new | new |
+| 2 | Вика | Да, я вас слушаю. | Yes, I am listening to you. | new | new |
+| 3 | Гость | У нас проблема с заказом. | We have a problem with our order. | new | new |
+| 4 | Вика | Что-то не так с едой? | Is something wrong with the food? | new | new |
+| 5 | Гость | Я просил без лука. | I asked for no onions. | new | new |
+| 6 | Вика | Извините, сейчас всё исправим. | Sorry, we will fix everything right now. | new | new |
+| 7 | Гость | И принесите ещё вина. | And bring more wine. | new | new |
+| 8 | Вика | Конечно, одну минуту. | Of course, one minute. | new | new |
+| 9 | Гость | Официанты тут вообще работают? | Do waiters even work here? | new | new |
+| 10 | Гость | Уважаемые. | Excuse me. | #281: Уважаемые | verbatim |
+| 11 | Макс | Что вам угодно? | What would you like? | new | new |
+| 12 | Гость | Я хочу поговорить с поваром. | I want to speak with the chef. | new | new |
+| 13 | Макс | Я передам вашу просьбу. | I will pass on your request. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> The waiter quickly approaches the unhappy customer to resolve the problem and calm him down. Next time you watch the episode, listen for the Russian expressions for 'girl' and 'may' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'We have a problem with our order.' the guest uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'problem' and 'order'.
+- 'I asked for no onions.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Excuse me.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'respected'.
+- 'I want to speak with the chef.' the guest chooses the action verb meaning 'want' for the ongoing action, followed by 'to talk' and 'as a cook'. Now let's listen to the whole conversation again from start to finish.

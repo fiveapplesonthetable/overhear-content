@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 15
-TITLE = "Ставка против своих  (A Bet Against His Own)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ставка против своих  (A Bet Against His Own)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "tamara": "angelina"}
-LABELS = {"chef": "Шеф", "tamara": "Тамара"}
+LABELS = {'barinov': 'Шеф', 'tamara': 'Тамара'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "In his private office at Claude Monet, Chef Viktor Barinov desperately needs a quick financial windfall to pay off debts. Calling bookmaker Tamara, he shocks her by placing a massive hundred-thousand-ruble wager on CSKA to beat his lifelong beloved club Spartak. Let's listen to their phone call in Russian first."
 OPENER = "Let's examine how Chef Barinov places a risky sports bet over the telephone line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Now you know how to talk about sports wagers, financial risks, and moral compromises in Russian. See you next time!'
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Тамара, здравствуй, это Витя Баринов беспокоит.', 'Tamara, hello, this is Vitya Barinov calling.', [(131, 'Тамарочка, здравствуй'), (132, 'Это Витя Баринов тебя беспокоит')], ''),
+    ('barinov', 'Тамара, здравствуй, это Витя Баринов беспокоит.', 'Tamara, hello, this is Vitya Barinov calling.', [(131, 'Тамарочка, здравствуй'), (132, 'Это Витя Баринов тебя беспокоит')], ''),
     ('tamara', 'Привет, Витя, ты хочешь сделать ставку?', 'Hi, Vitya, do you want to place a bet?', [], ''),
-    ('chef', 'Да, поставь деньги на матч Спартака.', 'Yes, put money on the Spartak match.', [(133, 'А я хотел сделать ставочку на Спартак ЦСКА')], ''),
+    ('barinov', 'Да, поставь деньги на матч Спартака.', 'Yes, put money on the Spartak match.', [(133, 'А я хотел сделать ставочку на Спартак ЦСКА')], ''),
     ('tamara', 'Ты ставишь на победу родного Спартака?', "Are you betting on your native Spartak's victory?", [], ''),
-    ('chef', 'Нет, я ставлю на победу ЦСКА!', 'No, I am betting on a CSKA victory!', [(134, 'Не-не, на победу ЦСКА'), (135, 'ЦСКА')], ''),
+    ('barinov', 'Нет, я ставлю на победу ЦСКА!', 'No, I am betting on a CSKA victory!', [(134, 'Не-не, на победу ЦСКА'), (135, 'ЦСКА')], ''),
     ('tamara', 'Ты не шутишь? Это же твои враги!', 'Are you not joking? They are your enemies!', [], ''),
-    ('chef', 'Я ставлю ровно сто тысяч рублей!', 'I bet exactly one hundred thousand rubles!', [(136, 'Сто тысяч')], ''),
+    ('barinov', 'Я ставлю ровно сто тысяч рублей!', 'I bet exactly one hundred thousand rubles!', [(136, 'Сто тысяч')], ''),
     ('tamara', 'У тебя есть с собой такие деньги?', 'Do you have that kind of money with you?', [], ''),
-    ('chef', 'Зарезервируй ставку, я скоро привезу наличные.', 'Reserve the bet, I will bring cash soon.', [(137, 'Ты зарезервируй за мной ставочку, а я по почте денежку завезу')], ''),
+    ('barinov', 'Зарезервируй ставку, я скоро привезу наличные.', 'Reserve the bet, I will bring cash soon.', [(137, 'Ты зарезервируй за мной ставочку, а я по почте денежку завезу')], ''),
     ('tamara', 'Хорошо, твоя ставка принята в конторе.', 'All right, your bet is accepted at the office.', [], ''),
-    ('chef', 'Спасибо, деньги сейчас для меня важнее всего.', 'Thank you, money right now matters more than anything to me.', [(138, 'спасибо')], ''),
+    ('barinov', 'Спасибо, деньги сейчас для меня важнее всего.', 'Thank you, money right now matters more than anything to me.', [(138, 'спасибо')], ''),
     ('tamara', 'Надеюсь, ты понимаешь свой огромный риск.', 'I hope you understand your huge risk.', [], ''),
 ]
 WALK = [

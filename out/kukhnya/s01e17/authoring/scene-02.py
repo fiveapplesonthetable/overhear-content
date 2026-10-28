@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 2
-TITLE = "Возвращение на кухню  (Return to the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Возвращение на кухню  (Return to the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Carrying their market purchases through the street, Viktor and Max head back toward Claude Monet. Max brings up rumors about their competitors, prompting Viktor to vigorously defend the honor of his kitchen. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Arriving at the back entrance of Claude Monet, Viktor and Max step inside, ready to face another demanding day in the restaurant kitchen. Next time you watch the episode, listen for the Russian expressions for 'to hold' and 'fish' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Витя, держи рыбу крепче!', 'Vitya, hold the fish tighter!', [(33, 'Вить!'), (34, 'Сынче,')], ''),
-    ('anya', 'Шеф, я держу всё очень крепко.', 'Chef, I am holding everything very tightly.', [], ''),
-    ('chef', 'Мы уже почти пришли в ресторан.', 'We have already almost arrived at the restaurant.', [], ''),
-    ('anya', 'Вы действительно пойдёте в соседний ресторан?', 'Will you really go to the neighboring restaurant?', [], ''),
-    ('chef', 'Мне делать больше нечего, Макс.', 'I have nothing better to do, Max.', [], ''),
-    ('anya', 'Говорят, там готовят неплохие блюда.', 'They say they cook pretty good dishes there.', [], ''),
-    ('chef', 'Кто тебе сказал такую глупость?', 'Who told you such foolishness?', [], ''),
-    ('anya', 'Один мой хороший друг рассказывал.', 'A good friend of mine told me.', [], ''),
-    ('chef', 'Твой друг ничего не понимает в еде.', 'Your friend understands nothing about food.', [], ''),
-    ('anya', 'Наверное, вы правы, шеф.', 'Probably you are right, chef.', [], ''),
-    ('chef', 'Наш ресторан — самый лучший в городе.', 'Our restaurant is the best in the city.', [], ''),
-    ('anya', 'Я согласен с вами на сто процентов.', 'I agree with you one hundred percent.', [], ''),
-    ('chef', 'Тогда быстро иди работать на кухню.', 'Then quickly go work in the kitchen.', [], ''),
+    ('barinov', 'Витя, держи рыбу крепче!', 'Vitya, hold the fish tighter!', [(33, 'Вить!'), (34, 'Сынче,')], ''),
+    ('max', 'Шеф, я держу всё очень крепко.', 'Chef, I am holding everything very tightly.', [], ''),
+    ('barinov', 'Мы уже почти пришли в ресторан.', 'We have already almost arrived at the restaurant.', [], ''),
+    ('max', 'Вы действительно пойдёте в соседний ресторан?', 'Will you really go to the neighboring restaurant?', [], ''),
+    ('barinov', 'Мне делать больше нечего, Макс.', 'I have nothing better to do, Max.', [], ''),
+    ('max', 'Говорят, там готовят неплохие блюда.', 'They say they cook pretty good dishes there.', [], ''),
+    ('barinov', 'Кто тебе сказал такую глупость?', 'Who told you such foolishness?', [], ''),
+    ('max', 'Один мой хороший друг рассказывал.', 'A good friend of mine told me.', [], ''),
+    ('barinov', 'Твой друг ничего не понимает в еде.', 'Your friend understands nothing about food.', [], ''),
+    ('max', 'Наверное, вы правы, шеф.', 'Probably you are right, chef.', [], ''),
+    ('barinov', 'Наш ресторан — самый лучший в городе.', 'Our restaurant is the best in the city.', [], ''),
+    ('max', 'Я согласен с вами на сто процентов.', 'I agree with you one hundred percent.', [], ''),
+    ('barinov', 'Тогда быстро иди работать на кухню.', 'Then quickly go work in the kitchen.', [], ''),
 ]
 WALK = [
     (0, None, "'Vitya, hold the fish tighter!' Chef Barinov leads with the direct command form meaning 'here you go', pairing it with 'fish' and 'tighter'."),

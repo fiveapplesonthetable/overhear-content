@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 15
-TITLE = "В погоне за вором  (Chasing the Thief)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'В погоне за вором  (Chasing the Thief)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja"}
-LABELS = {"vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Staring at the empty shelf where the vintage cognac was displayed, Kostya panics under Vika's stern questioning. Realizing the bogus repairman stole the valuable bottle, Kostya sprints out to catch the thief before it is too late. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational idioms and fast-paced expressions of alarm."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya dashes out of the restaurant in hot pursuit of the thief to recover the stolen cognac. Great work practicing energetic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bottle' and 'fast' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Куда пропала бутылка дорогого коньяка?', 'Where did the bottle of expensive cognac disappear to?', [(192, 'Я не знаю')], ''),
     ('kostya', 'Честно говоря, я совсем не знаю.', "Honestly speaking, I don't know at all.", [(192, 'Я не знаю')], ''),

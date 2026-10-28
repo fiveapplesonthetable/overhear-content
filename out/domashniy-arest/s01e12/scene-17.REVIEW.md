@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Командир | Всем лежать! Работает специальный отряд! | Everyone down! Special forces at work! | #391 00:36:11: Всем лежать | adapted: adapted |
+| 1 | Командир | Всем лежать! Работает специальный отряд! | Everyone down! Special forces at work! | #391: Всем лежать | adapted: adapted |
 | 2 | Паша | Что здесь происходит? Кто вы такие? | What is happening here? Who are you? | new | new: new |
-| 3 | Командир | Всем лежать на полу, я сказал! | Everyone down on the floor, I said! | #392 00:36:12: Всем лежать, я сказал | adapted: adapted |
+| 3 | Командир | Всем лежать на полу, я сказал! | Everyone down on the floor, I said! | #392: Всем лежать, я сказал | adapted: adapted |
 | 4 | Командир | Бросить оружие! Руки за голову! | Drop weapons! Hands behind head! | new | new: new |
 | 5 | Паша | Мы ничего плохого не делаем! | We are doing nothing bad! | new | new: new |
 | 6 | Командир | Никому не двигаться с этого места! | Nobody move from this spot! | new | new: new |

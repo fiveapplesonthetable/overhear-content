@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 12
 SCENE = 12
-TITLE = "Ссора понарошку  (Pretend Quarrel)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ссора понарошку  (Pretend Quarrel)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'In the restaurant dining room, Nastya is terrified that the sudden ban on workplace romances was provoked by her relationship with Kostya. She urges Kostya to stage a fake quarrel to convince management that they are no longer together. Let us listen to their conversation in Russian first.'
 OPENER = "Now let us examine Nastya and Kostya's secret plan line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Worried about losing their jobs, Nastya convinces Kostya to pretend to fight, setting up their comedic performance in front of Victoria at the bar. Next time you watch the episode, listen for the Russian expressions for 'look' and 'to take' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, этот новый запрет из-за нас!', 'Kostya, this new ban is because of us!', [(101, 'Это из-за нас.')], ''),
     ('kostya', 'Но с чего ты это взяла?', 'But what makes you think that?', [(103, 'С чего ты взяла?')], ''),

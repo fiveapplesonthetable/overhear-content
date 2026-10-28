@@ -7,30 +7,29 @@ SCENE = 3
 TITLE = "Le choc de José  (José's Shock)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
-LABELS = {'jose': 'José', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Left reeling after Laurence walks away, Jose Garcia freezes in complete shock on set. As sudden nervous hiccups overwhelm him, Andrea tries desperately to restore his composure before the director calls the actors to the soundstage. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Jose's urgent conversation line by line."
 TRANSITION = "Now let's listen to Andrea and Jose's dialogue once more from start to finish."
 OUTRO = "That's it for this scene around jose's shock. When you watch the episode, listen out for the expressions meaning 'hear' and 'to believe'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
-    ('lea', "José? Tu m'entends?", 'Jose? Do you hear me?', [(49, 'José ?')], ''),
+    ('andrea', "José? Tu m'entends?", 'Jose? Do you hear me?', [(49, 'José ?')], ''),
     ('jose', 'Je ne peux pas y croire.', 'I cannot believe it.', [], ''),
-    ('lea', "Qu'est-ce qui t'arrive tout à coup?", 'What is happening to you all of a sudden?', [], ''),
+    ('andrea', "Qu'est-ce qui t'arrive tout à coup?", 'What is happening to you all of a sudden?', [], ''),
     ('jose', 'Laurence est mon grand amour de jeunesse.', 'Laurence is my great youth romance.', [], ''),
     ('jose', 'Nous nous sommes quittés très fâchés.', 'We parted on very angry terms.', [], ''),
-    ('lea', 'Cela remonte à vingt ans déjà!', 'That goes back twenty years already!', [], ''),
+    ('andrea', 'Cela remonte à vingt ans déjà!', 'That goes back twenty years already!', [], ''),
     ('jose', 'Je ne peux pas jouer avec elle.', 'I cannot act with her.', [], ''),
     ('jose', 'Mon cœur bat beaucoup trop vite.', 'My heart is beating much too fast.', [], ''),
-    ('lea', 'Respire profondément et calme-toi.', 'Breathe deeply and calm down.', [], ''),
+    ('andrea', 'Respire profondément et calme-toi.', 'Breathe deeply and calm down.', [], ''),
     ('jose', "J'ai un terrible hoquet qui commence.", 'I have terrible hiccups beginning.', [], ''),
     ('jose', 'Le réalisateur va bientôt nous appeler.', 'The director will call us soon.', [], ''),
-    ('lea', "Bois un grand verre d'eau fraîche.", 'Drink a large glass of cool water.', [], ''),
+    ('andrea', "Bois un grand verre d'eau fraîche.", 'Drink a large glass of cool water.', [], ''),
     ('jose', 'Je ne serai jamais prêt à temps.', 'I will never be ready on time.', [], ''),
-    ('lea', 'Tu es un acteur formidable, José.', 'You are a wonderful actor, Jose.', [], ''),
+    ('andrea', 'Tu es un acteur formidable, José.', 'You are a wonderful actor, Jose.', [], ''),
 ]
 WALK = [
     (0, None, "'Jose? Do you hear me?' Andrea snaps her fingers to regain Jose's attention. The clause hinges on the everyday verb meaning 'hear'."),

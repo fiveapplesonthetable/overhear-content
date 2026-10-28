@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 18
-TITLE = "Режим терминатора  (Terminator Mode)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Режим терминатора  (Terminator Mode)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
-LABELS = {"senya": "Сеня", "fedya": "Федя"}
+LABELS = {'fedya': 'Федя', 'lyova': 'Лёва', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Back in the kitchen, Leva tries to assert his new authority as the temporary head chef. He orders the cooks to work faster. Senya and Fedya support him and joke about switching to Terminator mode. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Back in the kitchen, Leva tries to assert his new authority as the temporary head chef. He orders the cooks to work faster. Senya and Fedya support him and joke about switching to Terminator mode. Next time you watch the episode, listen for the Russian expressions for 'guys' and 'to give' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
-    ('senya', 'Ребята, давайте работать быстрее.', "Guys, let's work faster.", [(273, 'Ребят, давайте ускоримся.')], ''),
-    ('senya', 'У нас ещё три блюда.', 'We still have three dishes.', [(274, 'У нас три блюда еще.')], ''),
+    ('lyova', 'Ребята, давайте работать быстрее.', "Guys, let's work faster.", [(273, 'Ребят, давайте ускоримся.')], ''),
+    ('lyova', 'У нас ещё три блюда.', 'We still have three dishes.', [(274, 'У нас три блюда еще.')], ''),
     ('fedya', 'Сейчас мы всё сделаем.', 'We will do everything now.', [(275, 'Сейчас все сделаем.')], ''),
     ('senya', 'Ну, чего вы стоите?', 'Well, why are you standing?', [(276, 'Ну что встали?')], ''),
     ('senya', 'Шеф сказал работать быстрее.', 'The chef said to work faster.', [(276, 'Шеф сказал ускориться.')], ''),
     ('senya', 'Молодец, Лёва.', 'Well done, Leva.', [(277, 'Ай, молодец, Лёва, шеф.')], ''),
     ('senya', 'Ты хороший шеф.', 'You are a good chef.', [(277, 'Ай, молодец, Лёва, шеф.')], ''),
-    ('senya', 'Да, молодец.', 'Yes, well done.', [(278, 'Молодец ты.')], ''),
+    ('lyova', 'Да, молодец.', 'Yes, well done.', [(278, 'Молодец ты.')], ''),
     ('fedya', 'Ну что, мы включаем режим терминатора?', 'Well, are we switching on Terminator mode?', [(279, 'Ну что, включаем режим терминатора?')], ''),
-    ('senya', 'Да, включаем.', 'Yes, we are switching it on.', [], ''),
+    ('lyova', 'Да, включаем.', 'Yes, we are switching it on.', [], ''),
     ('senya', 'Тогда быстрее за работу.', 'Then faster to work.', [], ''),
     ('fedya', 'Терминатор готов готовить еду.', 'The terminator is ready to cook food.', [], ''),
-    ('senya', 'Отлично, давайте быстрее.', "Excellent, let's go faster.", [], ''),
+    ('lyova', 'Отлично, давайте быстрее.', "Excellent, let's go faster.", [], ''),
     ('senya', 'Всё будет готово вовремя.', 'Everything will be ready on time.', [], ''),
 ]
 WALK = [

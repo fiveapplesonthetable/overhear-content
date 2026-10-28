@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Ай, это суперстар! | Oh, he is a superstar! | #95 00:06:29: Ай, это суперстар | verbatim |
-| 2 | Федя | А что? | What about it? | #96 00:06:31: А что | verbatim |
-| 3 | Федя | Ну, ну, ну. | Come on, come on. | #102 00:06:48: ну, ну, ну | verbatim |
-| 4 | Федя | Седя, когда будет стейк? | Senya, when will the steak be ready? | #103 00:06:55: Седя, когда будет стейк | verbatim |
-| 5 | Федя | А у вас чего, работы нет? | What, do you two have no work to do? | #105 00:07:01: А у вас чего, работы нет | verbatim |
-| 6 | Федя | Что-то сегодня никто Турболев не берет. | For some reason nobody is ordering turbot today. | #106 00:07:05: Что-то сегодня никто Турболев не берет | verbatim |
-| 7 | Федя | Не надо мне. | I do not need that. | #108 00:07:11: Не надо мне | verbatim |
-| 8 | Федя | Я тебя слушаю. | I am listening to you. | #109 00:07:13: Я тебя слушаю | verbatim |
-| 9 | Федя | Послушай меня. | Listen to me. | #109 00:07:13: Послушай меня | verbatim |
-| 10 | Федя | А Галкин кто? | And who is Galkin anyway? | #111 00:07:17: А Галкин кто | verbatim |
-| 11 | Федя | Ты дурак что ли совсем? | Are you completely out of your mind? | #112 00:07:21: ты дурак что ли совсем | verbatim |
-| 12 | Федя | Не надо орать за меня! | Do not yell at me! | #113 00:07:24: Не надо орать за меня | verbatim |
-| 13 | Федя | Моду взял! | Look at the habit he picked up! | #114 00:07:27: Моду взял | verbatim |
+| 1 | Федя | Ай, это суперстар! | Oh, he is a superstar! | #95: Ай, это суперстар | verbatim |
+| 2 | Костя | А что? | What about it? | #96: А что | verbatim |
+| 3 | Федя | Ну, ну, ну. | Come on, come on. | #102: ну, ну, ну | verbatim |
+| 4 | Костя | Седя, когда будет стейк? | Senya, when will the steak be ready? | #103: Седя, когда будет стейк | verbatim |
+| 5 | Федя | А у вас чего, работы нет? | What, do you two have no work to do? | #105: А у вас чего, работы нет | verbatim |
+| 6 | Костя | Что-то сегодня никто Турболев не берет. | For some reason nobody is ordering turbot today. | #106: Что-то сегодня никто Турболев не берет | verbatim |
+| 7 | Федя | Не надо мне. | I do not need that. | #108: Не надо мне | verbatim |
+| 8 | Костя | Я тебя слушаю. | I am listening to you. | #109: Я тебя слушаю | verbatim |
+| 9 | Федя | Послушай меня. | Listen to me. | #109: Послушай меня | verbatim |
+| 10 | Костя | А Галкин кто? | And who is Galkin anyway? | #111: А Галкин кто | verbatim |
+| 11 | Федя | Ты дурак что ли совсем? | Are you completely out of your mind? | #112: ты дурак что ли совсем | verbatim |
+| 12 | Костя | Не надо орать за меня! | Do not yell at me! | #113: Не надо орать за меня | verbatim |
+| 13 | Федя | Моду взял! | Look at the habit he picked up! | #114: Моду взял | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, he is a superstar!' Spoken Russian keeps this brisk, leaning on 'ow' and finishing on 'superstar'.
-- 'What about it?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'what'. Fedya answers right away.
-- 'Come on, come on.' The meaning hinges on 'come on' working together with 'come on' in spoken Russian.
-- 'Senya, when will the steak be ready?' Kostya anchors the line on 'Fedya', while 'steak' completes the thought.
-- 'What, do you two have no work to do?' Fedya brings out the contrast between 'and' and 'by' in a few short words. Kostya answers right away.
-- 'For some reason nobody is ordering turbot today.' The grammar packs 'somehow' and 'takes' into a tight, idiomatic kitchen exchange.
-- 'I do not need that.' Here the Russian phrasing highlights 'not' before landing on 'for me'.
-- 'I am listening to you.' Notice how Russian expresses 'I' and 'I'm listening' with crisp inflection rather than helper words. Fedya answers right away.
-- 'Listen to me.' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'me'.
-- 'And who is Galkin anyway?' Here the Russian phrasing highlights 'and' before landing on 'who'.
-- 'Are you completely out of your mind?' The meaning hinges on 'you' working together with 'at all' in spoken Russian. Kostya answers right away.
-- 'Do not yell at me!' In Russian, the idea of 'not' flows naturally into 'me' without extra filler words.
-- 'Look at the habit he picked up!' Here the Russian phrasing highlights 'fashion' before landing on 'got'.
+- 'Oh, he is a superstar!' Insisting that he is a superstar shows Fedya is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'What about it?' Over the plan and the conversation, Kostya presses Fedya for a straight answer.
+- 'Come on, come on.' Explaining that Kostya should come on come lays the cards on the table for Kostya.
+- 'Senya, when will the steak be ready?' By wondering when the steak be ready will, Kostya presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What, do you two have no work to do?' Asking what Kostya two have no work to do cuts straight through the tension between Fedya and Kostya.
+- 'For some reason nobody is ordering turbot today.' Pointing out that for some reason nobody is ordering turbot today gives Fedya a sobering reality check. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'I do not need that.' Fedya explains that he does not need, keeping his voice calm and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'I am listening to you.' Saying that he is listening to Fedya is how Kostya sets the tone with Fedya.
+- 'Listen to me.' Over the truth and the point, Fedya answers Kostya without a second thought.
+- 'And who is Galkin anyway?' Asking who Galkin anyway is is how Kostya puts Fedya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Are you completely out of your mind?' Here asking whether Kostya completely out of Kostya's mind shows Fedya looking for the real truth.
+- 'Do not yell at me!' Kostya declares that do not yell at him as the tension in the room peaks. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Look at the habit he picked up!' With the kitchen and point at stake, Fedya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.

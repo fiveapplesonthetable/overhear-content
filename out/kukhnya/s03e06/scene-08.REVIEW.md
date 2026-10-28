@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Здравствуйте, уважаемый Дмитрий Владимирович. | Hello, dear Dmitry Vladimirovich. | #119 00:08:44: Дмитрий Владимирович | adapted: adapted |
-| 2 | Нагиев | Дима, это не то, что ты подумал. | Dima, this is not what you thought. | #119 00:08:44: Дима, это не то, что ты подумал | adapted: adapted |
-| 3 | Нагиев | Да, а что я должен подумать? | Yes, and what am I supposed to think? | #120 00:08:48: А что я должен подумать | adapted: adapted |
-| 4 | Нагиев | У тебя в ванной стоит мужчина. | There is a man standing in your bathroom. | #121 00:08:50: У тебя в ванной мужчина | adapted: adapted |
-| 5 | Нагиев | Причём он стоит в одних трусах. | And what is more, he is standing in just his underwear. | #122 00:08:53: В трусах | adapted: adapted |
-| 6 | Нагиев | Наверное, он тут кран чинит. | He is probably fixing the faucet here. | #123 00:08:55: Наверное, кран чинит | adapted: adapted |
-| 7 | Нагиев | Да между нами ничего не было. | There was nothing between us. | #124 00:08:57: Да между нами ничего не было | adapted: adapted |
-| 8 | Нагиев | Мы с ним просто старые друзья. | He and I are simply old friends. | #126 00:09:02: Друзья | adapted: adapted |
-| 9 | Аня | Какие мы друзья, мы давно расстались. | What kind of friends are we, we broke up long ago. | #127 00:09:04: Какие мы друзья? Мы расстались | adapted: adapted |
-| 10 | Нагиев | Дима, я тебе клянусь, между нами ничего не было. | Dima, I swear to you, there was nothing between us. | #128 00:09:07: Дим, я тебе клянусь, между нами ничего не было | adapted: adapted |
-| 11 | Нагиев | Он просто вчера пришёл пьяный и уснул. | He simply came over drunk yesterday and fell asleep. | #129 00:09:11: Он просто вчера пришел пьяный и уснул | adapted: adapted |
-| 12 | Нагиев | Ладно, ребята, я сейчас поеду на работу. | Alright, guys, I will drive to work now. | #130 00:09:14: Ладно, ребята, я поеду | adapted: adapted |
+| 1 | Макс | Здравствуйте, уважаемый Дмитрий Владимирович. | Hello, dear Dmitry Vladimirovich. | #119: Дмитрий Владимирович | adapted: adapted |
+| 2 | Вика | Дима, это не то, что ты подумал. | Dima, this is not what you thought. | #119: Дима, это не то, что ты подумал | adapted: adapted |
+| 3 | Нагиев | Да, а что я должен подумать? | Yes, and what am I supposed to think? | #120: А что я должен подумать | adapted: adapted |
+| 4 | Нагиев | У тебя в ванной стоит мужчина. | There is a man standing in your bathroom. | #121: У тебя в ванной мужчина | adapted: adapted |
+| 5 | Нагиев | Причём он стоит в одних трусах. | And what is more, he is standing in just his underwear. | #122: В трусах | adapted: adapted |
+| 6 | Нагиев | Наверное, он тут кран чинит. | He is probably fixing the faucet here. | #123: Наверное, кран чинит | adapted: adapted |
+| 7 | Вика | Да между нами ничего не было. | There was nothing between us. | #124: Да между нами ничего не было | adapted: adapted |
+| 8 | Вика | Мы с ним просто старые друзья. | He and I are simply old friends. | #126: Друзья | adapted: adapted |
+| 9 | Макс | Какие мы друзья, мы давно расстались. | What kind of friends are we, we broke up long ago. | #127: Какие мы друзья? Мы расстались | adapted: adapted |
+| 10 | Вика | Дима, я тебе клянусь, между нами ничего не было. | Dima, I swear to you, there was nothing between us. | #128: Дим, я тебе клянусь, между нами ничего не было | adapted: adapted |
+| 11 | Вика | Он просто вчера пришёл пьяный и уснул. | He simply came over drunk yesterday and fell asleep. | #129: Он просто вчера пришел пьяный и уснул | adapted: adapted |
+| 12 | Нагиев | Ладно, ребята, я сейчас поеду на работу. | Alright, guys, I will drive to work now. | #130: Ладно, ребята, я поеду | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, dear Dmitry Vladimirovich.' In Russian, the idea of 'hello' flows naturally into 'esteemed' without extra filler words.
-- 'Dima, this is not what you thought.' The grammar packs 'Dima' and 'to think' into a tight, idiomatic kitchen exchange. Dmitry Nagiyev answers right away.
-- 'Yes, and what am I supposed to think?' Dmitry Nagiyev anchors the line on 'yes', while 'to think' completes the thought.
-- 'There is a man standing in your bathroom.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'And what is more, he is standing in just his underwear.' Dmitry Nagiyev brings out the contrast between 'and that' and 'he' in a few short words.
-- 'He is probably fixing the faucet here.' Dmitry Nagiyev anchors the line on 'probably', while 'fixes' completes the thought.
-- 'There was nothing between us.' The meaning hinges on 'yes' working together with 'was' in spoken Russian.
-- 'He and I are simply old friends.' The meaning hinges on 'we' working together with 'friend' in spoken Russian. Max answers right away.
-- 'What kind of friends are we, we broke up long ago.' Max brings out the contrast between 'what' and 'we' in a few short words.
-- 'Dima, I swear to you, there was nothing between us.' Notice how Russian expresses 'Dima' and 'was' with crisp inflection rather than helper words.
-- 'He simply came over drunk yesterday and fell asleep.' Vika brings out the contrast between 'he' and 'simply' in a few short words. Dmitry Nagiyev answers right away.
-- 'Alright, guys, I will drive to work now.' Here the Russian phrasing highlights 'all right' before landing on 'work'.
+- 'Hello, dear Dmitry Vladimirovich.' Between the conversation and the work, Max gives Nagiyev a quick, grounded response.
+- 'Dima, this is not what you thought.' Even though this is not what Max thought, Vika keeps a steady face in front of Max. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Yes, and what am I supposed to think?' With the truth and kitchen hanging in the air, Nagiyev puts Max on the spot.
+- 'There is a man standing in your bathroom.' Saying that there is a man standing in Max's bathroom is how Nagiyev sets the tone with Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'And what is more, he is standing in just his underwear.' Once what is more he is standing in just his underwear, Nagiyev can finally tell Max what he means.
+- 'He is probably fixing the faucet here.' Being probably fixing the faucet here moves the conversation forward without extra drama.
+- 'There was nothing between us.' Vika tells Max that there was nothing between them without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'He and I are simply old friends.' Since he and she are simply old friends, Vika does not waste words on excuses.
+- 'What kind of friends are we, we broke up long ago.' Mentioning that what kind of friends are they they broke up long ago moves the talk in a new direction.
+- 'Dima, I swear to you, there was nothing between us.' Here swearing to Max there was nothing between them sets up the next turn in their exchange. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'He simply came over drunk yesterday and fell asleep.' Because he simply came over drunk yesterday and fell asleep, Vika treats the matter as settled.
+- 'Alright, guys, I will drive to work now.' Explaining that Alright guys he will drive to work now lays the cards on the table for Max.

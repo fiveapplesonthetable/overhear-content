@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 22
-TITLE = "Мой долг  (My duty)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Мой долг  (My duty)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja", "anya": "alisa"}
-LABELS = {"nastya": "Настя", "chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "The fire inspector makes a harsh decision. Let's listen closely to their exchange in Russian first, and then walk through each line together at Claude Monet. Let's listen closely to the Russian exchange first, and then walk through every line together."
 OPENER = "Now let's go back through the exchange around My duty line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The fire inspector makes a harsh decision. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'to leave' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "До свидания!")
+CLOSING = ('nastya', 'До свидания!')
 STORY = [
-    ('chef', 'Что он сказал?', 'What did he say?', [], ''),
+    ('barinov', 'Что он сказал?', 'What did he say?', [], ''),
     ('nastya', 'Он сказал нам уходить.', 'He told us to leave.', [], ''),
-    ('chef', 'Я не верю в это.', 'I do not believe this.', [], ''),
+    ('barinov', 'Я не верю в это.', 'I do not believe this.', [], ''),
     ('nastya', 'Это конец?', 'Is this the end?', [], ''),
-    ('chef', 'Я не знаю.', 'I do not know.', [], ''),
-    ('anya', 'Шеф, что делать?', 'Chef, what to do?', [], ''),
-    ('chef', 'Мы должны уйти.', 'We must leave.', [], ''),
+    ('barinov', 'Я не знаю.', 'I do not know.', [], ''),
+    ('max', 'Шеф, что делать?', 'Chef, what to do?', [], ''),
+    ('barinov', 'Мы должны уйти.', 'We must leave.', [], ''),
     ('nastya', 'Мне очень жаль.', 'I am very sorry.', [], ''),
     ('nastya', 'Собирайтесь.', 'Pack your things.', [(285, 'Собирайтесь.')], ''),
     ('nastya', 'Извините.', 'I am sorry.', [(286, 'Извините,')], ''),
     ('nastya', 'Это мой долг.', 'It is my duty.', [(286, 'это мой долг.')], ''),
-    ('chef', 'Хорошо.', 'Good.', [], ''),
+    ('barinov', 'Хорошо.', 'Good.', [], ''),
 ]
 WALK = [
     (0, None, "'What did he say?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'said'."),

@@ -4,29 +4,28 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 11
-TITLE = "Охотник на нелегалов  (Hunter of Illegals)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Охотник на нелегалов  (Hunter of Illegals)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lanovsky": "angelina", "chef": "anja"}
-LABELS = {"lanovsky": "Лановский", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'lanovsky': 'Лановский'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Viktor says he needs to work. Lanovsky starts monologuing about how people call him a scary person because he hunts people without documents. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Viktor says he needs to work. Lanovsky starts monologuing about how people call him a scary person because he hunts people without documents. Next time you watch the episode, listen for the Russian expressions for 'well' and 'to give' — you will catch every word right away. See you next time!"
-CLOSING = ("lanovsky", "Пока!")
+CLOSING = ('lanovsky', 'Пока!')
 STORY = [
-    ('chef', 'Хорошо, давайте только быстро.', 'Alright, let us just do it quickly.', [(132, 'Хорошо. Давайте только быстро.')], ''),
+    ('barinov', 'Хорошо, давайте только быстро.', 'Alright, let us just do it quickly.', [(132, 'Хорошо. Давайте только быстро.')], ''),
     ('lanovsky', 'Я перейду сразу к делу.', 'I will get straight to the point.', [], ''),
     ('lanovsky', 'Вы слышали что-нибудь обо мне?', 'Have you heard anything about me?', [], ''),
-    ('chef', 'Да, слышали во всех странах.', 'Yes, heard in all countries.', [], ''),
+    ('barinov', 'Да, слышали во всех странах.', 'Yes, heard in all countries.', [], ''),
     ('lanovsky', 'Знаете, как меня называют?', 'Do you know what they call me?', [], ''),
     ('lanovsky', 'Меня называют страшным человеком.', 'They call me a scary person.', [], ''),
-    ('chef', 'Месяц назад была проверка.', 'A month ago there was an inspection.', [], ''),
-    ('chef', 'Они ничего тут не нашли.', 'They did not find anything here.', [], ''),
+    ('barinov', 'Месяц назад была проверка.', 'A month ago there was an inspection.', [], ''),
+    ('barinov', 'Они ничего тут не нашли.', 'They did not find anything here.', [], ''),
     ('lanovsky', 'Мятную конфету не желаете?', 'Do you want a mint candy?', [], ''),
-    ('chef', 'Нет, мне не нужно.', 'No, I do not need it.', [], ''),
+    ('barinov', 'Нет, мне не нужно.', 'No, I do not need it.', [], ''),
     ('lanovsky', 'Наша служба похожа на птиц.', 'Our service is like birds.', [], ''),
     ('lanovsky', 'Мы всегда смотрим на вас сверху.', 'We always look at you from above.', [], ''),
 ]

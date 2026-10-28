@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Война  это великое дело. | War is a matter of vital importance. | #96 00:06:09: Война  это великое дело | verbatim |
-| 2 | Настя | Люди стали выбрасывать книги. | People have started throwing books into the trash. | #97 00:06:21: Люди стали выбрасывать книги | verbatim |
-| 3 | Костя | Это из страны осталось недолго. | This country does not have long left. | #98 00:06:24: Это из страны осталось недолго | verbatim |
-| 4 | Настя | Я в душ. | I am going to take a shower. | #100 00:06:31: Я в душ | verbatim |
-| 5 | Костя | Вот и пицца. | That must be the pizza. | #102 00:06:40: Вот и пицца | verbatim |
-| 6 | Настя | Иду, иду! | Coming, I am coming! | #103 00:06:43: Иду, иду | verbatim |
-| 7 | Костя | Что сколько с меня? | How much do I owe you? | #105 00:06:50: Что сколько с меня | verbatim |
-| 8 | Настя | Держи, без сдачи. | Here you go, keep the change. | #106 00:06:53: Держи, без сдачи | verbatim |
-| 9 | Костя | Какую пиццу? | What pizza are you talking about? | #107 00:06:56: Какую пиццу | verbatim |
-| 10 | Настя | Вы вообще кто? | Who on earth are you? | #108 00:06:58: Вы вообще кто | verbatim |
-| 11 | Костя | Куда лечишь? | Where do you think you are barging in? | #109 00:06:59: Куда лечишь | verbatim |
-| 12 | Настя | Ой, да от тебя еще и пахнет. | Oh, and you reek of alcohol too. | #110 00:07:01: Ой, да от тебя еще и пахнет | verbatim |
-| 13 | Костя | Не хочешь по-хорошему, будет больно. | If you do not want to do this the easy way, it is going to hurt. | #112 00:07:06: Не хочешь по-хорошему, будет больно | verbatim |
+| 1 | Костя | Война  это великое дело. | War is a matter of vital importance. | #96: Война  это великое дело | verbatim |
+| 2 | Настя | Люди стали выбрасывать книги. | People have started throwing books into the trash. | #97: Люди стали выбрасывать книги | verbatim |
+| 3 | Костя | Это из страны осталось недолго. | This country does not have long left. | #98: Это из страны осталось недолго | verbatim |
+| 4 | Настя | Я в душ. | I am going to take a shower. | #100: Я в душ | verbatim |
+| 5 | Костя | Вот и пицца. | That must be the pizza. | #102: Вот и пицца | verbatim |
+| 6 | Настя | Иду, иду! | Coming, I am coming! | #103: Иду, иду | verbatim |
+| 7 | Костя | Что сколько с меня? | How much do I owe you? | #105: Что сколько с меня | verbatim |
+| 8 | Настя | Держи, без сдачи. | Here you go, keep the change. | #106: Держи, без сдачи | verbatim |
+| 9 | Костя | Какую пиццу? | What pizza are you talking about? | #107: Какую пиццу | verbatim |
+| 10 | Настя | Вы вообще кто? | Who on earth are you? | #108: Вы вообще кто | verbatim |
+| 11 | Костя | Куда лечишь? | Where do you think you are barging in? | #109: Куда лечишь | verbatim |
+| 12 | Настя | Ой, да от тебя еще и пахнет. | Oh, and you reek of alcohol too. | #110: Ой, да от тебя еще и пахнет | verbatim |
+| 13 | Костя | Не хочешь по-хорошему, будет больно. | If you do not want to do this the easy way, it is going to hurt. | #112: Не хочешь по-хорошему, будет больно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'War is a matter of vital importance.' The grammar packs 'a war' and 'matter' into a tight, idiomatic kitchen exchange.
-- 'People have started throwing books into the trash.' Spoken Russian keeps this brisk, leaning on 'people' and finishing on 'books'.
-- 'This country does not have long left.' Kostya pairs 'country' with 'not for long' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'I am going to take a shower.' The meaning hinges on 'I' working together with 'shower' in spoken Russian.
-- 'That must be the pizza.' Notice how Russian expresses 'there you go' and 'pizza' with crisp inflection rather than helper words.
-- 'Coming, I am coming!' Notice how Russian expresses 'going' and 'going' with crisp inflection rather than helper words. Kostya answers right away.
-- 'How much do I owe you?' In Russian, the idea of 'what' flows naturally into 'me' without extra filler words.
-- 'Here you go, keep the change.' Here the Russian phrasing highlights 'grab' before landing on 'change'.
-- 'What pizza are you talking about?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'pizza'. Nastya answers right away.
-- 'Who on earth are you?' Nastya anchors the line on 'you', while 'who' completes the thought.
-- 'Where do you think you are barging in?' Kostya anchors the line on 'where to', while 'to treat' completes the thought.
-- 'Oh, and you reek of alcohol too.' Nastya addresses the listener with the informal singular 'you' alongside 'it smells'. Kostya answers right away.
-- 'If you do not want to do this the easy way, it is going to hurt.' The grammar packs 'not' and 'it hurts' into a tight, idiomatic kitchen exchange.
+- 'War is a matter of vital importance.' Kostya tells Nastya that war is a matter of vital importance without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'People have started throwing books into the trash.' Since people have started throwing books into the trash, Nastya does not waste words on excuses.
+- 'This country does not have long left.' Mentioning that this country does not have long left moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I am going to take a shower.' Nastya mentions that she is going to take a shower so Kostya sees what is at stake.
+- 'That must be the pizza.' Because that must be the pizza, Kostya treats the matter as settled.
+- 'Coming, I am coming!' Nastya insists that coming she is coming, leaving Kostya no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'How much do I owe you?' Asking whether how much do he owes Nastya puts Nastya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Here you go, keep the change.' Claiming that here Kostya goes keep the change sounds confident, even if Kostya has doubts.
+- 'What pizza are you talking about?' Questioning whether what pizza are Nastya talking is how Kostya tests Nastya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Who on earth are you?' When Nastya asks if who on earth are Kostya, Kostya has to answer fast. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Where do you think you are barging in?' Asking where Nastya thinks Nastya is barging is how Kostya puts Nastya on the spot.
+- 'Oh, and you reek of alcohol too.' Between the room and the kitchen, Nastya gives Kostya a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'If you do not want to do this the easy way, it is going to hurt.' Even though if Nastya does not want to do this the easy way it is going to hurt, Kostya keeps a steady face in front of Nastya.

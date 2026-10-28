@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | А то человек есть, а блюда нет. | Otherwise the person is here, and the dish is not. | #15 00:01:22: А то человек есть, а блюда нет | verbatim |
-| 2 | Шеф | Убью! | I will kill him! | #16 00:01:30: Убью | verbatim |
-| 3 | Елена | А я приготовлю для тебя железное алиби. | And I will prepare an ironclad alibi for you. | #17 00:01:32: А я приготовлю для тебя железное алиби | verbatim |
-| 4 | Шеф | Хотел тебя предупредить, мы завтра идём в кино. | I wanted to let you know, tomorrow we are going to the cinema. | #18 00:01:40: Хотел тебя предупредить, мы завтра идем в кино | verbatim |
-| 5 | Елена | Везёт же вам! | Lucky you! | #19 00:01:43: Везет же вам | verbatim |
-| 6 | Елена | Мы с тобой идём в кино, ничего не планируй. | You and I are going to the cinema, don't plan anything. | #19 00:01:43: Мы с тобой идем в кино<br>#19 00:01:43: ничего не планируй | adapted: adapted |
-| 7 | Елена | А почему ты слоника не носишь, который я тебе подарила? | And why aren't you carrying the little elephant that I gave you? | #21 00:01:50: слоника не носишь, который | adapted: adapted |
-| 8 | Елена | Он же удачу приносит. | It brings good luck, after all. | #22 00:01:52: Он же удачу приносит | verbatim |
-| 9 | Шеф | Всё. Да, пока. | That is all. Yes, bye. | #23 00:01:54: Всё. Да, пока | verbatim |
-| 10 | Шеф | Думаю, всё. | I think that is everything. | #24 00:02:00: Думаю, всё | verbatim |
-| 11 | Елена | Да, Витя! | Yes, Vitya! | #26 00:02:03: Да, Витя | verbatim |
-| 12 | Елена | А, всё, нашла. | Ah, that's it, I found it. | #27 00:02:05: нашла | adapted: adapted |
+| 1 | Шеф | А то человек есть, а блюда нет. | Otherwise the person is here, and the dish is not. | #15: А то человек есть, а блюда нет | verbatim |
+| 2 | Шеф | Убью! | I will kill him! | #16: Убью | verbatim |
+| 3 | Елена | А я приготовлю для тебя железное алиби. | And I will prepare an ironclad alibi for you. | #17: А я приготовлю для тебя железное алиби | verbatim |
+| 4 | Шеф | Хотел тебя предупредить, мы завтра идём в кино. | I wanted to let you know, tomorrow we are going to the cinema. | #18: Хотел тебя предупредить, мы завтра идем в кино | verbatim |
+| 5 | Елена | Везёт же вам! | Lucky you! | #19: Везет же вам | verbatim |
+| 6 | Елена | Мы с тобой идём в кино, ничего не планируй. | You and I are going to the cinema, don't plan anything. | #19: Мы с тобой идем в кино<br>#19: ничего не планируй | adapted: adapted |
+| 7 | Елена | А почему ты слоника не носишь, который я тебе подарила? | And why aren't you carrying the little elephant that I gave you? | #21: слоника не носишь, который | adapted: adapted |
+| 8 | Елена | Он же удачу приносит. | It brings good luck, after all. | #22: Он же удачу приносит | verbatim |
+| 9 | Шеф | Всё. Да, пока. | That is all. Yes, bye. | #23: Всё. Да, пока | verbatim |
+| 10 | Шеф | Думаю, всё. | I think that is everything. | #24: Думаю, всё | verbatim |
+| 11 | Елена | Да, Витя! | Yes, Vitya! | #26: Да, Витя | verbatim |
+| 12 | Елена | А, всё, нашла. | Ah, that's it, I found it. | #27: нашла | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Otherwise the person is here, and the dish is not.' Notice how Russian expresses 'and' and 'no' with crisp inflection rather than helper words.
-- 'I will kill him!' Notice how Russian expresses 'will kill' and 'will kill' with crisp inflection rather than helper words. Elena answers right away.
-- 'And I will prepare an ironclad alibi for you.' Here the Russian phrasing highlights 'and' before landing on 'alibi'.
-- 'I wanted to let you know, tomorrow we are going to the cinema.' Here the Russian phrasing highlights 'wanted' before landing on 'cinema'.
-- 'Lucky you!' Notice how Russian expresses 'is lucky' and 'you' with crisp inflection rather than helper words.
-- 'You and I are going to the cinema, don't plan anything.' Here the Russian phrasing highlights 'we' before landing on 'plan'.
-- 'And why aren't you carrying the little elephant that I gave you?' In Russian, the idea of 'and' flows naturally into 'gave as a gift' without extra filler words.
-- 'It brings good luck, after all.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'brings'. Chef Barinov answers right away.
-- 'That is all. Yes, bye.' Notice how Russian expresses 'everything' and 'for now' with crisp inflection rather than helper words.
-- 'I think that is everything.' Here the Russian phrasing highlights 'think' before landing on 'everything'.
-- 'Yes, Vitya!' Elena brings out the contrast between 'yes' and 'Vitya' in a few short words.
-- 'Ah, that's it, I found it.' Here the Russian phrasing highlights 'and' before landing on 'found'.
+- 'Otherwise the person is here, and the dish is not.' Mentioning that otherwise the person is here and the dish is not moves the talk in a new direction.
+- 'I will kill him!' Once he will kill him, Barinov makes sure Elena hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'And I will prepare an ironclad alibi for you.' Because she will prepare an ironclad alibi for Barinov, Elena treats the matter as settled.
+- 'I wanted to let you know, tomorrow we are going to the cinema.' Explaining that he wanted to let Elena knows tomorrow they are going to the cinema lays the cards on the table for Elena. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Lucky you!' Around the date and plan, Elena makes her point loud and clear. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'You and I are going to the cinema, don't plan anything.' Claiming that Barinov and she are going to the cinema do not plan anything sounds confident, even if Barinov has doubts.
+- 'And why aren't you carrying the little elephant that I gave you?' Asking why not Barinov carrying the little elephant that she gave Barinov are is how Elena puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It brings good luck, after all.' Elena explains that it brings good luck after all, keeping her voice calm and direct.
+- 'That is all. Yes, bye.' Realizing that that is all changes how Barinov handles the situation.
+- 'I think that is everything.' Mentioning that he thinks that is everything moves the talk in a new direction.
+- 'Yes, Vitya!' Over the luck and the date, Elena lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Ah, that's it, I found it.' Admitting that that is it she found it shows Elena being honest for a change.

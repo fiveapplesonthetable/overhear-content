@@ -7,8 +7,7 @@ SCENE = 26
 TITLE = 'Une offre sérieuse  (A Serious Offer)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'uba': 'emilie', 'lea': 'lucie', 'hicham': 'marcel'}
-LABELS = {'uba': 'Directrice UBA', 'lea': 'Andréa', 'hicham': 'Hicham'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham', 'uba': 'Directrice UBA'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the villa reception, Andréa learns that director Gillières accepted Juliette Binoche's decision gracefully. Soon after, an American executive from agency UBA approaches Andréa with an unexpected career proposition. Let's listen to the scene in French first."
@@ -19,18 +18,18 @@ CLOSING = ('uba', 'Bonne journée!')
 STORY = [
     ('hicham', "J'ai reçu un message très positif de Gillières.", 'I received a very positive message from Gillières.', [(739, "J'ai reçu un message de Jean-Denis Gillières.")], ''),
     ('hicham', 'Il comprend parfaitement la situation de Juliette.', 'He perfectly understands Juliette', [(742, "Et il comprend parfaitement l'indisponibilité de Juliette.")], ''),
-    ('lea', "J'ai trouvé les bons mots pour le convaincre.", 'I found the right words to convince him.', [(744, 'Elle a trouvé les mots justes pour rester dans ses bonnes grâces.')], ''),
+    ('andrea', "J'ai trouvé les bons mots pour le convaincre.", 'I found the right words to convince him.', [(744, 'Elle a trouvé les mots justes pour rester dans ses bonnes grâces.')], ''),
     ('uba', 'Bonsoir Andréa, je me suis renseignée sur vous.', 'Good evening Andréa, I looked into your background.', [(745, 'Je me suis renseignée sur vous.')], ''),
     ('uba', 'Votre travail avec Luchini est très impressionnant.', 'Your work with Luchini is very impressive.', [(746, "L'arrivée de Luchini dans votre agence a fait du bruit."), (747, 'Vous êtes assez impressionnante.')], ''),
     ('uba', 'Vous parlez un anglais remarquable, apparemment.', 'You speak remarkable English, apparently.', [(748, 'Vous parlez bien anglais, apparemment.')], ''),
     ('uba', 'Voudriez-vous venir travailler à New York?', 'Would you like to come work in New York?', [(749, 'Vous voudriez venir travailler à New York ?')], ''),
     ('uba', 'Mon mari dirige la grande agence UBA.', 'My husband manages the large agency UBA.', [(750, "Mon mari dirige l'agence UBA.")], ''),
     ('uba', "C'est une offre tout à fait sérieuse.", 'It is an entirely serious offer.', [(752, "C'est une offre sérieuse.")], ''),
-    ('lea', 'Merci beaucoup, je suis sincèrement flattée.', 'Thank you very much, I am genuinely flattered.', [(754, 'Merci. Je suis vraiment flattée.')], ''),
-    ('lea', 'Mais je suis très attachée à mes comédiens.', 'But I am deeply attached to my actors.', [(755, 'Mais je suis très attachée à ASK'), (756, 'et à mes comédiens.')], ''),
+    ('andrea', 'Merci beaucoup, je suis sincèrement flattée.', 'Thank you very much, I am genuinely flattered.', [(754, 'Merci. Je suis vraiment flattée.')], ''),
+    ('andrea', 'Mais je suis très attachée à mes comédiens.', 'But I am deeply attached to my actors.', [(755, 'Mais je suis très attachée à ASK'), (756, 'et à mes comédiens.')], ''),
     ('uba', "Et que pensez-vous vraiment d'Hicham Janowski?", 'And what do you really think of Hicham Janowski?', [(758, 'Et Hicham Janowski ?')], ''),
     ('uba', 'Est-il un atout ou un véritable handicap?', 'Is he an asset or a real handicap?', [(760, "C'est un atout ou un handicap ?")], ''),
-    ('lea', 'Hicham est notre nouveau patron chez ASK.', 'Hicham is our new boss at ASK.', [(761, "C'est surtout mon patron.")], ''),
+    ('andrea', 'Hicham est notre nouveau patron chez ASK.', 'Hicham is our new boss at ASK.', [(761, "C'est surtout mon patron.")], ''),
     ('uba', 'Réfléchissez bien à votre avenir professionnel, Andréa.', 'Think carefully about your professional future, Andréa.', [(762, 'Que va devenir ASK avec lui comme patron ?'), (763, 'Tu veux te faire diriger par un type comme ça ?')], ''),
 ]
 WALK = [

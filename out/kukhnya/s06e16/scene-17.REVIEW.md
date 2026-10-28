@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Лена, а ты что здесь делаешь? | Lena, what are you doing here? | #249 00:18:39: что здесь делаешь | adapted: adapted |
-| 2 | Елена | Я достала билет через редакцию журнала. | I got a ticket through the magazine's editorial office. | #249 00:18:39: Достала пригласительный через редакцию нашего журнала | adapted: adapted |
-| 3 | Елена | Оказалось, это не такое закрытое мероприятие. | It turned out it is not such a closed event. | #250 00:18:45: Оказалось, не такое закрытое мероприятие | adapted: adapted |
-| 4 | Елена | Почему ты к телефону не подходишь? | Why are you not answering your phone? | #251 00:18:52: Чего ты к телефону не подходишь | adapted: adapted |
-| 5 | Шеф | Мы к банкету готовимся, не слышал. | We are preparing for the banquet, I did not hear it. | #251 00:18:52: К банкету готовимся, не слышал | adapted: adapted |
-| 6 | Шеф | Мужчина, подождите, а вы вообще кто? | Sir, wait, who are you anyway? | #255 00:19:16: Мужчина, вы кто | adapted: adapted |
-| 7 | Шеф | Скажи мне, где этот рыжий обманщик? | Tell me, where is that red-haired cheater? | #257 00:19:20: Где эта | adapted: adapted |
-| 8 | Шеф | Уходите, я сейчас охрану сюда позову! | Leave, I will call security in here right now! | #258 00:19:23: Я сейчас охрану позову | adapted: adapted |
-| 9 | Шеф | Степан Андреевич, подождите, пожалуйста, одну секунду! | Stepan Andreyevich, please wait one second! | #260 00:19:27: Степан Андреевич | adapted: adapted |
-| 10 | Шеф | Я вам сейчас всё честно объясню! | I will explain everything honestly to you right now! | #261 00:19:28: Я вам сейчас все объясню | adapted: adapted |
-| 11 | Шеф | У жены ещё слёзы не высохли! | Your wife's tears have not even dried yet! | #262 00:19:31: У жены слезы на глазах | adapted: adapted |
-| 12 | Шеф | А ты уже опять за старое! | And you are already back to your old tricks! | #263 00:19:35: Ты опять за свое | adapted: adapted |
+| 1 | Шеф | Лена, а ты что здесь делаешь? | Lena, what are you doing here? | #249: что здесь делаешь | adapted: adapted |
+| 2 | Елена | Я достала билет через редакцию журнала. | I got a ticket through the magazine's editorial office. | #249: Достала пригласительный через редакцию нашего журнала | adapted: adapted |
+| 3 | Елена | Оказалось, это не такое закрытое мероприятие. | It turned out it is not such a closed event. | #250: Оказалось, не такое закрытое мероприятие | adapted: adapted |
+| 4 | Елена | Почему ты к телефону не подходишь? | Why are you not answering your phone? | #251: Чего ты к телефону не подходишь | adapted: adapted |
+| 5 | Шеф | Мы к банкету готовимся, не слышал. | We are preparing for the banquet, I did not hear it. | #251: К банкету готовимся, не слышал | adapted: adapted |
+| 6 | Шеф | Мужчина, подождите, а вы вообще кто? | Sir, wait, who are you anyway? | #255: Мужчина, вы кто | adapted: adapted |
+| 7 | Гость | Скажи мне, где этот рыжий обманщик? | Tell me, where is that red-haired cheater? | #257: Где эта | adapted: adapted |
+| 8 | Шеф | Уходите, я сейчас охрану сюда позову! | Leave, I will call security in here right now! | #258: Я сейчас охрану позову | adapted: adapted |
+| 9 | Шеф | Степан Андреевич, подождите, пожалуйста, одну секунду! | Stepan Andreyevich, please wait one second! | #260: Степан Андреевич | adapted: adapted |
+| 10 | Шеф | Я вам сейчас всё честно объясню! | I will explain everything honestly to you right now! | #261: Я вам сейчас все объясню | adapted: adapted |
+| 11 | Гость | У жены ещё слёзы не высохли! | Your wife's tears have not even dried yet! | #262: У жены слезы на глазах | adapted: adapted |
+| 12 | Гость | А ты уже опять за старое! | And you are already back to your old tricks! | #263: Ты опять за свое | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, what are you doing here?' Here the Russian phrasing highlights 'Lena' before landing on 'are doing'.
-- 'I got a ticket through the magazine's editorial office.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'log'.
-- 'It turned out it is not such a closed event.' Here the Russian phrasing highlights 'turned out' before landing on 'event'.
-- 'Why are you not answering your phone?' Elena brings out the contrast between 'why' and 'you' in a few short words.
-- 'We are preparing for the banquet, I did not hear it.' The '-l' ending on the verb meaning 'heard' places the action in the masculine past tense.
-- 'Sir, wait, who are you anyway?' Notice how Russian expresses 'man' and 'who' with crisp inflection rather than helper words.
-- 'Tell me, where is that red-haired cheater?' The meaning hinges on 'say' working together with 'cheat' in spoken Russian.
-- 'Leave, I will call security in here right now!' An emphatic spoken line centered on the verb meaning 'are leaving'.
-- 'Stepan Andreyevich, please wait one second!' Chef Barinov brings out the contrast between 'wait' and 'please' in a few short words.
-- 'I will explain everything honestly to you right now!' Notice how Russian expresses 'I' and 'will explain' with crisp inflection rather than helper words.
-- 'Your wife's tears have not even dried yet!' The grammar packs 'at' and 'dried' into a tight, idiomatic kitchen exchange.
-- 'And you are already back to your old tricks!' the guest anchors the line on 'and', while 'old' completes the thought.
+- 'Lena, what are you doing here?' Questioning whether someone what are Elena doing here is how Barinov tests Elena's story. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I got a ticket through the magazine's editorial office.' Because she got a ticket through the magazine editorial office, Elena treats the matter as settled.
+- 'It turned out it is not such a closed event.' Explaining that it turned out it is not such a closed event lays the cards on the table for Barinov.
+- 'Why are you not answering your phone?' By wondering why Barinov not answering Barinov's phone is, Elena presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'We are preparing for the banquet, I did not hear it.' Claiming that they are preparing for the banquet he did not hear it sounds confident, even if Elena has doubts.
+- 'Sir, wait, who are you anyway?' Wondering if sir wait who are Elena anyway shows Barinov caught off guard.
+- 'Tell me, where is that red-haired cheater?' Questioning whether tell him where is that red cheater is how the guest tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Leave, I will call security in here right now!' Barinov insists that Elena should leave he will call security in here right now, leaving Elena no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Stepan Andreyevich, please wait one second!' Over the office and the room, Barinov lets his real feelings show.
+- 'I will explain everything honestly to you right now!' Because he will explain everything honestly to Elena right now, Barinov does not bother softening the blow for Elena. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Your wife's tears have not even dried yet!' The guest declares that Barinov's wife tears have not even dried yet as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'And you are already back to your old tricks!' Because Barinov is already back to Barinov's old tricks, the guest does not bother softening the blow for Barinov.

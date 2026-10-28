@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Марина, послушай меня очень внимательно. | Marina, listen to me very carefully. | #676 00:37:20: Я уезжаю | verbatim |
-| 2 | Марина | Аркадий, что ты опять хочешь сказать? | Arkady, what do you want to say again? | #677 00:37:22: Отстань от нас | verbatim |
-| 3 | Аня | Я уезжаю сегодня навсегда из города. | I am leaving the city forever today. | #676 00:37:20: Я уезжаю | verbatim |
-| 4 | Марина | И куда же ты теперь поедешь? | And where will you go now? | #676 00:37:20: Я уезжаю | verbatim |
-| 5 | Аня | Я улетаю за границу, поехали вместе! | I am flying abroad, let's go together! | #676 00:37:20: Поехали со мной | verbatim |
-| 6 | Марина | Пожалуйста, немедленно отстань от нашей семьи! | Please, immediately leave our family alone! | #677 00:37:22: Отстань от нас | verbatim |
-| 7 | Аня | Я не шучу и реально сваливаю отсюда. | I am not joking and am seriously getting out of here. | #678 00:37:23: Я реально сваливаю | verbatim |
-| 8 | Марина | Мне совершенно не интересны твои планы. | I am completely not interested in your plans. | #679 00:37:25: все равно | verbatim |
-| 9 | Аня | Неужели тебе действительно всё равно? | Do you really not care at all? | #679 00:37:25: Неужели тебе действительно все равно | verbatim |
-| 10 | Марина | Да, мне совсем всё равно на тебя. | Yes, I completely do not care about you. | #677 00:37:22: Отстань от нас | verbatim |
-| 11 | Аня | Там нас ждут огромные деньги и свобода. | Huge money and freedom await us there. | #676 00:37:20: Поехали со мной | verbatim |
-| 12 | Марина | Уходи отсюда, твои деньги мне не нужны! | Go away from here, I do not need your money! | #677 00:37:22: Отстань | verbatim |
-| 13 | Аня | Тогда прощай, я должен срочно уйти. | Then farewell, I must urgently leave. | #678 00:37:23: Я реально сваливаю | verbatim |
+| 1 | Аркадий | Марина, послушай меня очень внимательно. | Marina, listen to me very carefully. | #676: Я уезжаю | verbatim |
+| 2 | Марина | Аркадий, что ты опять хочешь сказать? | Arkady, what do you want to say again? | #677: Отстань от нас | verbatim |
+| 3 | Аркадий | Я уезжаю сегодня навсегда из города. | I am leaving the city forever today. | #676: Я уезжаю | verbatim |
+| 4 | Марина | И куда же ты теперь поедешь? | And where will you go now? | #676: Я уезжаю | verbatim |
+| 5 | Аркадий | Я улетаю за границу, поехали вместе! | I am flying abroad, let's go together! | #676: Поехали со мной | verbatim |
+| 6 | Марина | Пожалуйста, немедленно отстань от нашей семьи! | Please, immediately leave our family alone! | #677: Отстань от нас | verbatim |
+| 7 | Аркадий | Я не шучу и реально сваливаю отсюда. | I am not joking and am seriously getting out of here. | #678: Я реально сваливаю | verbatim |
+| 8 | Марина | Мне совершенно не интересны твои планы. | I am completely not interested in your plans. | #679: все равно | verbatim |
+| 9 | Аркадий | Неужели тебе действительно всё равно? | Do you really not care at all? | #679: Неужели тебе действительно все равно | verbatim |
+| 10 | Марина | Да, мне совсем всё равно на тебя. | Yes, I completely do not care about you. | #677: Отстань от нас | verbatim |
+| 11 | Аркадий | Там нас ждут огромные деньги и свобода. | Huge money and freedom await us there. | #676: Поехали со мной | verbatim |
+| 12 | Марина | Уходи отсюда, твои деньги мне не нужны! | Go away from here, I do not need your money! | #677: Отстань | verbatim |
+| 13 | Аркадий | Тогда прощай, я должен срочно уйти. | Then farewell, I must urgently leave. | #678: Я реально сваливаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну что, ещё раз пройдёмся по плану? | Well then, shall we go over the plan one more time? | #268 00:17:40: Ну что, ещё раз пройдёмся по плану | verbatim |
-| 2 | Родион | Повторение — мать учения. | Repetition is the mother of learning. | #271 00:17:47: повторение, мать учения | verbatim |
-| 3 | Родион | Итак, я аккуратно попадаю под колёса. | So, I carefully get under the wheels. | #272 00:17:51: Итак, я аккуратно попадаю под колеса | verbatim |
-| 4 | Родион | Тут появляетесь вы, Максим Леонидович. | Then you appear, Maxim Leonidovich. | #273 00:17:54: Тут появляетесь вы, Максим Леонидович | verbatim |
-| 5 | Родион | Говорите, что происшествие записано на телефон. | You say that the incident is recorded on the phone. | #274 00:17:57: Говорите, что происшествие записано на телефон | verbatim |
-| 6 | Родион | И выдвигаете свои требования. | And you put forward your demands. | #275 00:18:00: свои требования | adapted: adapted |
-| 7 | Аня | Отлично. Вперёд! | Excellent. Go ahead! | #276 00:18:03: Отлично. Вперед | verbatim |
-| 8 | Аня | Вон её машина. Давайте, Родион Сергеевич! | There is her car. Go on, Rodion Sergeyevich! | #277 00:18:06: Вон ее машина. Давайте, Родион Сергеевич | verbatim |
-| 9 | Аня | Тебе голову оторвать? | Should I tear your head off? | #278 00:18:22: оторвать | adapted: adapted |
-| 10 | Родион | А где дамочка? | And where is the little lady? | #279 00:18:24: А где дамочка | verbatim |
-| 11 | Аня | Я тебе покажу сейчас дамочку! Вали отсюда! | I'll show you a little lady right now! Get out of here! | #279 00:18:24: Я тебе покажу сейчас<br>#280 00:18:27: отсюда | adapted: adapted |
-| 12 | Родион | Купят джипов, не поймёшь, под какой падать. | They buy all these SUVs, you can't tell which one to fall under. | #281 00:18:31: джипов<br>#282 00:18:33: не поймешь, под какой падать | adapted: adapted |
+| 1 | Макс | Ну что, ещё раз пройдёмся по плану? | Well then, shall we go over the plan one more time? | #268: Ну что, ещё раз пройдёмся по плану | verbatim |
+| 2 | Родион | Повторение — мать учения. | Repetition is the mother of learning. | #271: повторение, мать учения | verbatim |
+| 3 | Родион | Итак, я аккуратно попадаю под колёса. | So, I carefully get under the wheels. | #272: Итак, я аккуратно попадаю под колеса | verbatim |
+| 4 | Родион | Тут появляетесь вы, Максим Леонидович. | Then you appear, Maxim Leonidovich. | #273: Тут появляетесь вы, Максим Леонидович | verbatim |
+| 5 | Родион | Говорите, что происшествие записано на телефон. | You say that the incident is recorded on the phone. | #274: Говорите, что происшествие записано на телефон | verbatim |
+| 6 | Родион | И выдвигаете свои требования. | And you put forward your demands. | #275: свои требования | adapted: adapted |
+| 7 | Макс | Отлично. Вперёд! | Excellent. Go ahead! | #276: Отлично. Вперед | verbatim |
+| 8 | Макс | Вон её машина. Давайте, Родион Сергеевич! | There is her car. Go on, Rodion Sergeyevich! | #277: Вон ее машина. Давайте, Родион Сергеевич | verbatim |
+| 9 | Макс | Тебе голову оторвать? | Should I tear your head off? | #278: оторвать | adapted: adapted |
+| 10 | Родион | А где дамочка? | And where is the little lady? | #279: А где дамочка | verbatim |
+| 11 | Макс | Я тебе покажу сейчас дамочку! Вали отсюда! | I'll show you a little lady right now! Get out of here! | #279: Я тебе покажу сейчас<br>#280: отсюда | adapted: adapted |
+| 12 | Родион | Купят джипов, не поймёшь, под какой падать. | They buy all these SUVs, you can't tell which one to fall under. | #281: джипов<br>#282: не поймешь, под какой падать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, shall we go over the plan one more time?' In Russian, the idea of 'come on' flows naturally into 'plan' without extra filler words.
-- 'Repetition is the mother of learning.' Spoken Russian keeps this brisk, leaning on 'repetition' and finishing on 'learning'.
-- 'So, I carefully get under the wheels.' Notice how Russian expresses 'so' and 'wheels' with crisp inflection rather than helper words.
-- 'Then you appear, Maxim Leonidovich.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'Leonidovich'.
-- 'You say that the incident is recorded on the phone.' Rodion brings out the contrast between 'speak' and 'what' in a few short words.
-- 'And you put forward your demands.' Rodion anchors the line on 'and', while 'demands' completes the thought. Max answers right away.
-- 'Excellent. Go ahead!' The grammar packs 'perfectly' and 'forward' into a tight, idiomatic kitchen exchange.
-- 'There is her car. Go on, Rodion Sergeyevich!' In Russian, the idea of 'over there' flows naturally into 'Rodion' without extra filler words.
-- 'Should I tear your head off?' In Russian, the idea of 'to you' flows naturally into 'to tear off' without extra filler words. Rodion answers right away.
-- 'And where is the little lady?' Rodion anchors the line on 'and', while 'little lady' completes the thought.
-- 'I'll show you a little lady right now! Get out of here!' In Russian, the idea of 'I' flows naturally into 'from here' without extra filler words.
-- 'They buy all these SUVs, you can't tell which one to fall under.' Notice how Russian expresses 'to buy' and 'to fall' with crisp inflection rather than helper words.
+- 'Well then, shall we go over the plan one more time?' With the work and plan hanging in the air, Max puts Rodion on the spot.
+- 'Repetition is the mother of learning.' Claiming that repetition is the mother of learning sounds confident, even if Max has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'So, I carefully get under the wheels.' With the car and plan in play, Rodion keeps this short reply brisk and direct.
+- 'Then you appear, Maxim Leonidovich.' Rodion explains that Max appears Maxim, keeping his voice calm and direct.
+- 'You say that the incident is recorded on the phone.' Realizing that Max says that the incident is recorded on the phone changes how Rodion handles the situation.
+- 'And you put forward your demands.' Noting that Max puts forward Max's demands keeps Rodion's side of the story simple and clear.
+- 'Excellent. Go ahead!' With the work and moment at stake, Max reacts without holding back.
+- 'There is her car. Go on, Rodion Sergeyevich!' Declaring that there is her car brings Max's temper right to the surface. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Should I tear your head off?' Max asks whether should he tear Rodion's head off, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And where is the little lady?' By wondering where the little lady is, Rodion presses Max for a straight answer.
+- 'I'll show you a little lady right now! Get out of here!' Max declares that he will show Rodion a little lady right now as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'They buy all these SUVs, you can't tell which one to fall under.' Rodion explains that they buy all these Max cannot tell which one to fall, keeping his voice calm and direct.

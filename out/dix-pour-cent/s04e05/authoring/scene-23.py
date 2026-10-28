@@ -7,8 +7,7 @@ SCENE = 23
 TITLE = 'Règlement de comptes  (Settling of Accounts)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
-LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Face to face in the empty agency corridor, Andrea corners Elise Formain after the catastrophic raid. Refusing to show remorse, Elise sneers at Andrea's sentimental devotion to her actors, pushing Andrea past her breaking point. Let's listen to their confrontation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career. When you watch the episode, listen out for the expressions meaning 'been able' and 'to betray'. You'll catch them now. See you next time!"
 CLOSING = ('elise', 'À demain!')
 STORY = [
-    ('lea', 'Comment as-tu pu trahir notre agence?', 'How could you betray our agency?', [(853, 'Comment tu as pu faire une chose pareille ?')], ''),
+    ('andrea', 'Comment as-tu pu trahir notre agence?', 'How could you betray our agency?', [(853, 'Comment tu as pu faire une chose pareille ?')], ''),
     ('elise', 'Ce sont seulement les affaires, Andréa.', 'It is only business, Andrea.', [(854, "c'est juste des affaires")], ''),
-    ('lea', 'Tu as volé tous mes comédiens!', 'You stole all my actors!', [(858, "Les talents que tu m'as volés")], ''),
+    ('andrea', 'Tu as volé tous mes comédiens!', 'You stole all my actors!', [(858, "Les talents que tu m'as volés")], ''),
     ('elise', 'Pourquoi rendre cette situation si personnelle?', 'Why make this situation so personal?', [(855, 'Pourquoi tu en fais quelque chose de personnel ?')], ''),
-    ('lea', "J'ai passé des nuits à veiller.", 'I spent nights staying awake.', [(859, "J'ai passé des nuits à les réconforter")], ''),
+    ('andrea', "J'ai passé des nuits à veiller.", 'I spent nights staying awake.', [(859, "J'ai passé des nuits à les réconforter")], ''),
     ('elise', 'Tu es beaucoup trop émotive, ma chère.', 'You are far too emotional, my dear.', [(852, 'Tu es tellement émotif')], ''),
-    ('lea', "J'ai perdu ma propre famille pour eux.", 'I lost my own family for them.', [(860, "je perds même ma famille à cause d'eux")], ''),
+    ('andrea', "J'ai perdu ma propre famille pour eux.", 'I lost my own family for them.', [(860, "je perds même ma famille à cause d'eux")], ''),
     ('elise', "C'est très touchant, mais c'est fini.", 'It is very touching, but it is over.', [(864, "C'est très touchant")], ''),
-    ('lea', 'Je suis fière de mon travail accompli.', 'I am proud of my accomplished work.', [(863, "Je suis fière du travail qu'on a accompli")], ''),
+    ('andrea', 'Je suis fière de mon travail accompli.', 'I am proud of my accomplished work.', [(863, "Je suis fière du travail qu'on a accompli")], ''),
     ('elise', 'Tu vas te sentir bien seule désormais.', 'You are going to feel very lonely from now on.', [(867, 'Tu risques de te sentir un peu seule')], ''),
-    ('lea', "Tu n'as aucun respect pour les artistes.", 'You have no respect for the artists.', [(853, 'Comment tu peux être aussi méprisable ?')], ''),
+    ('andrea', "Tu n'as aucun respect pour les artistes.", 'You have no respect for the artists.', [(853, 'Comment tu peux être aussi méprisable ?')], ''),
     ('elise', 'Ils préfèrent tous signer avec moi.', 'They all prefer to sign with me.', [(866, 'Si tu cherches un agent')], ''),
-    ('lea', 'Répète ça en face si tu oses!', 'Repeat that to my face if you dare!', [(868, "Qu'est-ce qui te prend")], ''),
+    ('andrea', 'Répète ça en face si tu oses!', 'Repeat that to my face if you dare!', [(868, "Qu'est-ce qui te prend")], ''),
     ('elise', 'Lâche-moi immédiatement le bras, arrête!', 'Let go of my arm immediately, stop!', [(869, 'Lâche-moi !'), (870, 'Arrête ! Arrête !')], ''),
 ]
 WALK = [

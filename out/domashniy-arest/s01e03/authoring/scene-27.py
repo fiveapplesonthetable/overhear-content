@@ -1,35 +1,37 @@
-# domashniy-arest/s01e03/scene-27.py
-ID = "domashniy-arest-s01e03-scene-27"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-27.
+ID = 'domashniy-arest-s01e03-scene-27'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 27
 TITLE = "Не трогай собаку  (Don't Touch the Dog)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "judge": "anja", "sofochka": "angelina"}
-LABELS = {"anya": "Аркадий", "judge": "Илья Олегович", "sofochka": "Софочка"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'judge': 'Илья Олегович', 'sofochka': 'Софочка'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Over at Judge Berg's house that same evening. Last time, Slavik brought the judge's tiny white dog to Arkady in the communal flat. Now Judge Berg's young daughter Polina is in tears because her beloved Lyutik is missing, and his wife Sofochka is furious with him when Arkady rings. Let's hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("judge", "Полина, доченька, ну не плачь ты. Найдём мы Лютика.", "Polina, sweetheart, please don't cry. We'll find Lyutik.", [(923, 'Полина, доченька'), (924, 'Ну не плачь ты'), (926, 'Найдем мы Лютика')], ""),
-    ("sofochka", "Это ты виноват! Лютику надо вставить чип.", "It's your fault! Lyutik needs a microchip.", [(928, 'Это ты'), (929, 'Лютику надо вставить чип')], "cue 928 has the transcription slip 'виновата' for masculine 'виноват'"),
-    ("anya", "Алло, Илюша, это я. А ваш Лютик сейчас у меня.", "Hello, Ilyusha, it's me. And your Lyutik is with me right now.", [(930, 'Алло, Илюша'), (930, 'это я, а ваш Лютик сейчас у меня')], ""),
-    ("judge", "Да как ты посмел? Это собака маленькой девочки!", "How dare you! That's a little girl's dog!", [(931, 'Да как ты посмел'), (932, 'это собака маленькой девочки')], ""),
-    ("anya", "Ты мне выбора не оставил, Илюша.", "You left me no choice, Ilyusha.", [(933, 'ты мне выбора не оставил, Илюша')], ""),
-    ("judge", "Семьи это не касается. Это не по правилам!", "Family is off-limits. That's against the rules!", [(934, 'это не касается, это не по правилам')], "cue 934 has 'семье' for genitive 'семьи'"),
-    ("anya", "Где же ты такие правила вычитал? В «Крёстном отце»?", "Where did you read rules like that? In The Godfather?", [(935, 'где же ты такие правила вычитал? В крестном отце')], "'что ли' dropped"),
-    ("anya", "Знаешь, что я сейчас Лютику дам? Я ему дам курицу.", "Know what I'm going to give Lyutik now? I'll give him chicken.", [(936, 'знаешь, что я сейчас Лютику дам'), (938, 'Я ему дам курицу')], ""),
-    ("judge", "Только не курицу, я прошу тебя!", "Anything but chicken, I beg you!", [(939, 'Только не курицу, я прошу тебя')], ""),
-    ("anya", "А потом копчёную колбаску. И хозяйственным мылом вымою.", "And then smoked sausage. And I'll wash him with laundry soap.", [(940, 'А потом копченую колбаску'), (943, 'Хозяйственным мылом вымою')], "crude cue 942 dropped"),
-    ("judge", "Ты садист! Чего ты хочешь?", "You're a sadist! What do you want?", [(941, 'Ты садист'), (945, 'Чего ты хочешь')], ""),
-    ("anya", "Ты знаешь, что я хочу. Мне терять нечего.", "You know what I want. I have nothing to lose.", [(946, 'Ты знаешь, что я хочу'), (953, 'мне терять нечего')], ""),
-    ("anya", "Если я не выйду под подписку о невыезде?", "What if I don't get out on a travel ban?", [(947, 'под подписку о невыезде'), (954, 'Если я не выйду под подписку')], "cues 955-959 (pruning-shears threat) omitted; left as a pointed question"),
-    ("judge", "Всё, хорошо, я тебя выпущу! Только собаку не трогай!", "All right, fine, I'll let you out! Just don't touch the dog!", [(962, 'Все, хорошо, я тебя выпущу'), (963, 'Только собаку не трогай')], ""),
-    ("anya", "Никогда не сдавайся! Сегодня я выйду отсюда под подписку!", "Never give up! Today I'm getting out of here on a travel ban!", [(964, 'Никогда не сдавайся'), (966, 'Сегодня я выйду отсюда'), (967, 'Под подписку')], ""),
-]
 OPENER = "Let's go through the call line by line. First, Judge Berg tries to comfort his crying daughter."
+TRANSITION = "Let's hear the whole scene once more, straight through."
+OUTRO = 'So without spending a rouble on lawyers, Arkady has blackmailed the judge over a pampered lapdog and won his release on a travel ban. Great job following that phone call in Russian. See you next time!'
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('judge', 'Полина, доченька, ну не плачь ты. Найдём мы Лютика.', "Polina, sweetheart, please don't cry. We'll find Lyutik.", [(923, 'Полина, доченька'), (924, 'Ну не плачь ты'), (926, 'Найдем мы Лютика')], ''),
+    ('sofochka', 'Это ты виноват! Лютику надо вставить чип.', "It's your fault! Lyutik needs a microchip.", [(928, 'Это ты'), (929, 'Лютику надо вставить чип')], "cue 928 has the transcription slip 'виновата' for masculine 'виноват'"),
+    ('arkady', 'Алло, Илюша, это я. А ваш Лютик сейчас у меня.', "Hello, Ilyusha, it's me. And your Lyutik is with me right now.", [(930, 'Алло, Илюша'), (930, 'это я, а ваш Лютик сейчас у меня')], ''),
+    ('judge', 'Да как ты посмел? Это собака маленькой девочки!', "How dare you! That's a little girl's dog!", [(931, 'Да как ты посмел'), (932, 'это собака маленькой девочки')], ''),
+    ('arkady', 'Ты мне выбора не оставил, Илюша.', 'You left me no choice, Ilyusha.', [(933, 'ты мне выбора не оставил, Илюша')], ''),
+    ('judge', 'Семьи это не касается. Это не по правилам!', "Family is off-limits. That's against the rules!", [(934, 'это не касается, это не по правилам')], "cue 934 has 'семье' for genitive 'семьи'"),
+    ('arkady', 'Где же ты такие правила вычитал? В «Крёстном отце»?', 'Where did you read rules like that? In The Godfather?', [(935, 'где же ты такие правила вычитал? В крестном отце')], "'что ли' dropped"),
+    ('arkady', 'Знаешь, что я сейчас Лютику дам? Я ему дам курицу.', "Know what I'm going to give Lyutik now? I'll give him chicken.", [(936, 'знаешь, что я сейчас Лютику дам'), (938, 'Я ему дам курицу')], ''),
+    ('judge', 'Только не курицу, я прошу тебя!', 'Anything but chicken, I beg you!', [(939, 'Только не курицу, я прошу тебя')], ''),
+    ('arkady', 'А потом копчёную колбаску. И хозяйственным мылом вымою.', "And then smoked sausage. And I'll wash him with laundry soap.", [(940, 'А потом копченую колбаску'), (943, 'Хозяйственным мылом вымою')], 'crude cue 942 dropped'),
+    ('judge', 'Ты садист! Чего ты хочешь?', "You're a sadist! What do you want?", [(941, 'Ты садист'), (945, 'Чего ты хочешь')], ''),
+    ('arkady', 'Ты знаешь, что я хочу. Мне терять нечего.', 'You know what I want. I have nothing to lose.', [(946, 'Ты знаешь, что я хочу'), (953, 'мне терять нечего')], ''),
+    ('arkady', 'Если я не выйду под подписку о невыезде?', "What if I don't get out on a travel ban?", [(947, 'под подписку о невыезде'), (954, 'Если я не выйду под подписку')], 'cues 955-959 (pruning-shears threat) omitted; left as a pointed question'),
+    ('judge', 'Всё, хорошо, я тебя выпущу! Только собаку не трогай!', "All right, fine, I'll let you out! Just don't touch the dog!", [(962, 'Все, хорошо, я тебя выпущу'), (963, 'Только собаку не трогай')], ''),
+    ('arkady', 'Никогда не сдавайся! Сегодня я выйду отсюда под подписку!', "Never give up! Today I'm getting out of here on a travel ban!", [(964, 'Никогда не сдавайся'), (966, 'Сегодня я выйду отсюда'), (967, 'Под подписку')], ''),
+]
 WALK = [
     (0, None, "'Polina, sweetheart, please don't cry. We'll find Lyutik.' The word for 'sweetheart' is a tender diminutive of 'daughter'. Putting 'we'll find' before 'we' makes the promise sound warm and reassuring. His wife Sofochka snaps at him."),
     (1, None, "'It's your fault! Lyutik needs a microchip.' Literally, 'it is you guilty', using the short masculine form for a man. The dog's name takes the 'to/for' ending, 'to Lyutik'. Then the judge's phone rings."),
@@ -47,6 +49,3 @@ WALK = [
     (13, None, "'All right, fine, I'll let you out! Just don't touch the dog!' He uses a negative command: 'don't touch'. Back in the flat, Arkady bursts into song."),
     (14, None, "'Never give up! Today I'm getting out of here on a travel ban!' In Russian, 'never' still needs 'not' before the verb: 'never don't give up'."),
 ]
-TRANSITION = "Let's hear the whole scene once more, straight through."
-OUTRO = "So without spending a rouble on lawyers, Arkady has blackmailed the judge over a pampered lapdog and won his release on a travel ban. Great job following that phone call in Russian. See you next time!"
-CLOSING = ("anya", "Пока!")

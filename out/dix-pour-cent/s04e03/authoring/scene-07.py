@@ -7,8 +7,7 @@ SCENE = 7
 TITLE = "L'arrivée d'Élise  (Élise's Arrival)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Behind closed doors at ASK, Andrea confronts Hicham about Elise Formain's presence in the building. Hicham reveals that Elise is joining the agency with her roster, forcing a high-stakes partners' vote. Let's listen to their conversation in French first."
@@ -17,17 +16,17 @@ TRANSITION = "Now let's listen to the partners' crucial vote once more from star
 OUTRO = "That's it for this scene around elise's arrival. When you watch the episode, listen out for the expressions meaning 'is doing' and 'offices?'. You'll catch them now. See you next time!"
 CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
-    ('lea', 'Que fait Élise Formain dans nos bureaux?', 'What is Elise Formain doing in our offices?', [(204, "Qu'est-ce qu'Elise Formain fait ici ?")], ''),
-    ('lea', 'Fermez la porte avant cette réunion urgente.', 'Close the door before this urgent meeting.', [(205, "La porte, s'il vous plaît.")], ''),
+    ('andrea', 'Que fait Élise Formain dans nos bureaux?', 'What is Elise Formain doing in our offices?', [(204, "Qu'est-ce qu'Elise Formain fait ici ?")], ''),
+    ('andrea', 'Fermez la porte avant cette réunion urgente.', 'Close the door before this urgent meeting.', [(205, "La porte, s'il vous plaît.")], ''),
     ('gabriel', 'StarMédia essaie-t-il de racheter notre agence?', 'Is StarMedia trying to buy out our agency?', [(214, 'racheter ASK.')], ''),
     ('hicham', 'Personne ne nous rachète, nous la recrutons!', 'Nobody is buying us, we are hiring her!', [(215, 'On recrute.')], ''),
     ('hicham', 'Élise Formain nous rejoint avec ses clients.', 'Elise Formain is joining us with her clients.', [(216, 'Elise Formain nous rejoint chez ASK.')], ''),
-    ('lea', "C'est une mauvaise blague, j'espère?", 'This is a bad joke, I hope?', [(218, "C'est une plaisanterie ?")], ''),
-    ('lea', 'Cette femme est un monstre sans scrupules!', 'This woman is a monster without scruples!', [(226, "ce n'est pas un monstre")], ''),
+    ('andrea', "C'est une mauvaise blague, j'espère?", 'This is a bad joke, I hope?', [(218, "C'est une plaisanterie ?")], ''),
+    ('andrea', 'Cette femme est un monstre sans scrupules!', 'This woman is a monster without scruples!', [(226, "ce n'est pas un monstre")], ''),
     ('gabriel', 'Elle possède pourtant un portefeuille de stars impressionnant.', 'She possesses an impressive portfolio of stars though.', [(221, 'portefeuille de clients impressionnant')], ''),
     ('hicham', "Je n'ai plus aucune trésorerie disponible.", 'I have no available cash left.', [(232, 'liquidité disponible.')], ''),
     ('hicham', 'Sans elle, notre agence est ruinée.', 'Without her, our agency is ruined.', [(233, "c'est terminé.")], ''),
-    ('lea', 'Il faut voter entre associés maintenant.', 'We must vote between partners now.', [(228, 'Et si on votait ?')], ''),
+    ('andrea', 'Il faut voter entre associés maintenant.', 'We must vote between partners now.', [(228, 'Et si on votait ?')], ''),
     ('hicham', 'Qui vote pour sauver nos emplois?', 'Who votes to save our jobs?', [(238, 'payer le loyer, les salaires')], ''),
     ('gabriel', 'Je vote pour accueillir Élise chez nous.', 'I vote to welcome Elise into our firm.', [(237, 'Qui est pour recruter Elise')], ''),
 ]

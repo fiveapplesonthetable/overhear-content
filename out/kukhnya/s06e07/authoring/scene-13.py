@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e07-scene-13.
 ID = 'kukhnya-s06e07-scene-13'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 13
-TITLE = "Неожиданное новоселье  (The Unexpected Housewarming)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданное новоселье  (The Unexpected Housewarming)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
-
 INTRO = "At the apartment, Nastya rests after her rough night with the Cherry cocktail, until Katya calls and exposes both spouses' secret plans for the evening. Listen to the full conversation in Russian first, and then we will walk through every line together."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Without telling the other, Kostya has also invited Denis to the housewarming while Nastya has invited Nikita. Until next time!'
+CLOSING = ('kostya', 'До завтра!')
 STORY = [
     ('kostya', 'Ну как ты себя сейчас чувствуешь?', 'Well, how are you feeling right now?', [(222, 'Ну ты как')], 'adapted'),
     ('nastya', 'Спасибо, сегодня мне уже намного получше.', 'Thank you, today I feel much better already.', [(223, 'Получше')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('kostya', 'Да всё нормально будет, дорогая Настя.', 'Everything will be just fine, dear Nastya.', [(233, 'Да все нормально, Костя')], 'adapted'),
     ('nastya', 'Дело в том, что я тоже Катю позвала.', 'The thing is that I invited Katya too.', [(234, 'Я тоже Катю позвала')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Well, how are you feeling right now?' Kostya raises the pitch on 'feel' to turn the phrase into a direct spoken question."),
-    (1, None, "'Thank you, today I feel much better already.' Notice how Russian expresses 'thank you' and 'a bit better' with crisp inflection rather than helper words."),
-    (2, None, "'I lay down quietly at home for a bit.' In everyday Russian, 'at home' flows straight into 'rested in bed / recovered' without extra linking words."),
-    (3, None, "'It is a good thing I asked for today off from work.' Nastya brings out the contrast between 'well' and 'what' in a few short words."),
-    (4, None, "'Hello, hi, Katya, how are you doing?' Kostya raises the pitch on 'things to do' to turn the phrase into a direct spoken question."),
-    (5, None, "'Yes, we are having a housewarming party tonight.' Notice how Russian expresses 'yes' and 'housewarming party' with crisp inflection rather than helper words."),
-    (6, None, "'Nastya, I just invited Katya over.' Here the Russian phrasing highlights 'Nastya' before landing on 'invited'."),
-    (7, None, "'Did you invite her for our housewarming?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question."),
-    (8, None, "'What kind of housewarming are we having today?' Nastya raises the pitch on 'tonight' to turn the phrase into a direct spoken question."),
-    (9, None, "'We should have set the table first!' Nastya brings out the contrast between 'need' and 'but' in a few short words."),
-    (10, None, "'Everything will be just fine, dear Nastya.' Here the Russian phrasing highlights 'yes' before landing on 'Nastya'."),
-    (11, None, "'The thing is that I invited Katya too.' Spoken Russian keeps this brisk, leaning on 'business' and finishing on 'calls'."),
+    (0, None, "'Well, how are you feeling right now?' Asking how Nastya feeling right now is is how Kostya puts Nastya on the spot."),
+    (1, None, "'Thank you, today I feel much better already.' Nastya mentions that today she feels much better already so Kostya sees what is at stake."),
+    (2, None, "'I lay down quietly at home for a bit.' Claiming that she lay down quietly at home for a bit sounds confident, even if Kostya has doubts."),
+    (3, None, "'It is a good thing I asked for today off from work.' Explaining that it is a good thing she asked for today off from work lays the cards on the table for Kostya."),
+    (4, None, '\'Hello, hi, Katya, how are you doing?\' Wondering how Nastya doing is is how Kostya puts Nastya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (5, None, '\'Yes, we are having a housewarming party tonight.\' Claiming that they are having a housewarming party tonight sounds confident, even if Nastya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (6, None, "'Nastya, I just invited Katya over.' Around the secret and truth, Kostya sets a calm, everyday tone with Nastya."),
+    (7, None, '\'Did you invite her for our housewarming?\' Checking whether Kostya invites her for their housewarming cuts straight through the tension between Nastya and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (8, None, '\'What kind of housewarming are we having today?\' Questioning whether what kind of housewarming are they having today is how Nastya tests Kostya\'s story. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (9, None, "'We should have set the table first!' Nastya declares that they should have set the table first as the tension in the room peaks."),
+    (10, None, "'Everything will be just fine, dear Nastya.' Once everything will be just fine dear Nastya, Kostya can finally tell Nastya what he means."),
+    (11, None, "'The thing is that I invited Katya too.' Admitting that the thing is that she invited Katya shows Nastya being honest for a change."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Without telling the other, Kostya has also invited Denis to the housewarming while Nastya has invited Nikita. Until next time!'
-CLOSING = ("kostya", "До завтра!")

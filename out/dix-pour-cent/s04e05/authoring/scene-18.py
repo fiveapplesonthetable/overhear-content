@@ -7,7 +7,6 @@ SCENE = 18
 TITLE = 'La passerelle Debilly  (The Debilly Footbridge)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'vendeur': 'theo'}
 LABELS = {'sigourney': 'Sigourney', 'vendeur': 'Le vendeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'

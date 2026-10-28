@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Скажите, вы на самом деле инвалид? | Tell me, are you really disabled? | #33 00:03:46: Вы инвалид | adapted: adapted |
-| 2 | Настя | Я об этом совсем не знал. | I did not know about that at all. | #34 00:03:50: Я не знал | adapted: adapted |
-| 3 | Михаил | Виктор не любит об этом говорить. | Viktor does not like to talk about this. | #35 00:03:53: Виктор не любит об этом говорить | adapted: adapted |
-| 4 | Михаил | У него полностью парализовало ноги. | His legs were completely paralyzed. | #36 00:03:57: у него полностью парализовало ноги | adapted: adapted |
-| 5 | Михаил | Но наш шеф не сдаётся. | But our chef does not give up. | #37 00:04:02: Но он не сдается | adapted: adapted |
-| 6 | Михаил | Он каждый день здесь работает. | He works here every day. | #38 00:04:05: Работает | adapted: adapted |
-| 7 | Настя | Ваше мужество достойно большого восхищения. | Your courage is worthy of great admiration. | #39 00:04:07: ваше мужество достойно восхищения | adapted: adapted |
-| 8 | Настя | Бабушка сказала, это не отец Кости. | Grandmother said this is not Kostya's father. | #42 00:04:18: бабушка ясно сказала, это не отец Кости | adapted: adapted |
-| 9 | Настя | Она старенькая, могла и перепутать. | She is elderly, she could have mixed it up. | #45 00:04:24: Она старенькая, могла<br>#45 00:04:24: перепутать | adapted: adapted |
-| 10 | Настя | Ты же сама его недавно нашла. | You found him recently yourself, after all. | #46 00:04:26: Ты же сама его нашла | adapted: adapted |
-| 11 | Настя | Он подтвердил, что он отец Кости. | He confirmed that he is Kostya's father. | #46 00:04:26: И он подтвердил, что он отец Кости | adapted: adapted |
-| 12 | Михаил | Значит, этот человек хитрый аферист! | That means this man is a sly swindler! | #47 00:04:29: он аферист | adapted: adapted |
+| 1 | Инспектор | Скажите, вы на самом деле инвалид? | Tell me, are you really disabled? | #33: Вы инвалид | adapted: adapted |
+| 2 | Инспектор | Я об этом совсем не знал. | I did not know about that at all. | #34: Я не знал | adapted: adapted |
+| 3 | Михаил | Виктор не любит об этом говорить. | Viktor does not like to talk about this. | #35: Виктор не любит об этом говорить | adapted: adapted |
+| 4 | Михаил | У него полностью парализовало ноги. | His legs were completely paralyzed. | #36: у него полностью парализовало ноги | adapted: adapted |
+| 5 | Михаил | Но наш шеф не сдаётся. | But our chef does not give up. | #37: Но он не сдается | adapted: adapted |
+| 6 | Михаил | Он каждый день здесь работает. | He works here every day. | #38: Работает | adapted: adapted |
+| 7 | Инспектор | Ваше мужество достойно большого восхищения. | Your courage is worthy of great admiration. | #39: ваше мужество достойно восхищения | adapted: adapted |
+| 8 | Настя | Бабушка сказала, это не отец Кости. | Grandmother said this is not Kostya's father. | #42: бабушка ясно сказала, это не отец Кости | adapted: adapted |
+| 9 | Настя | Она старенькая, могла и перепутать. | She is elderly, she could have mixed it up. | #45: Она старенькая, могла<br>#45: перепутать | adapted: adapted |
+| 10 | Настя | Ты же сама его недавно нашла. | You found him recently yourself, after all. | #46: Ты же сама его нашла | adapted: adapted |
+| 11 | Настя | Он подтвердил, что он отец Кости. | He confirmed that he is Kostya's father. | #46: И он подтвердил, что он отец Кости | adapted: adapted |
+| 12 | Михаил | Значит, этот человек хитрый аферист! | That means this man is a sly swindler! | #47: он аферист | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, are you really disabled?' the inspector raises the pitch on 'disabled person' to turn the phrase into a direct spoken question.
-- 'I did not know about that at all.' the inspector brings out the contrast between 'I' and 'about' in a few short words.
-- 'Viktor does not like to talk about this.' The grammar packs 'not' and 'to speak' into a tight, idiomatic kitchen exchange.
-- 'His legs were completely paralyzed.' Notice how Russian expresses 'at' and 'legs' with crisp inflection rather than helper words.
-- 'But our chef does not give up.' The negative particle sits right before the verb meaning 'gives up' to negate the statement.
-- 'He works here every day.' Mikhail brings out the contrast between 'he' and 'every' in a few short words.
-- 'Your courage is worthy of great admiration.' the inspector chooses the respectful plural 'you' alongside 'admiration' to keep a polite distance. Nastya answers right away.
-- 'Grandmother said this is not Kostya's father.' Nastya brings out the contrast between 'old lady' and 'told' in a few short words.
-- 'She is elderly, she could have mixed it up.' In Russian, the idea of 'she' flows naturally into 'to mix up' without extra filler words.
-- 'You found him recently yourself, after all.' Nastya brings out the contrast between 'you' and 'but' in a few short words.
-- 'He confirmed that he is Kostya's father.' Nastya anchors the line on 'he', while 'bones' completes the thought.
-- 'That means this man is a sly swindler!' Notice how Russian expresses 'so' and 'swindler' with crisp inflection rather than helper words.
+- 'Tell me, are you really disabled?' Over the story and the car, the inspector presses Mikhail for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I did not know about that at all.' Mentioning that he did not know about that at all moves the talk in a new direction.
+- 'Viktor does not like to talk about this.' Mikhail tells the inspector that Viktor does not like to talk about this without dressing it up.
+- 'His legs were completely paralyzed.' Claiming that his legs were completely paralyzed sounds confident, even if the inspector has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'But our chef does not give up.' Pointing out that their does not give up gives the inspector a sobering reality check.
+- 'He works here every day.' Mikhail explains that he works here every day, keeping his voice calm and direct.
+- 'Your courage is worthy of great admiration.' Realizing that Mikhail's courage is worthy of great admiration changes how the inspector handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Grandmother said this is not Kostya's father.' Noting that grandmother said this is not Kostya father keeps Nastya's side of the story simple and clear.
+- 'She is elderly, she could have mixed it up.' Being elderly she could have mixed it up moves the conversation forward without extra drama.
+- 'You found him recently yourself, after all.' Admitting that the inspector found him recently themselves after all shows Nastya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'He confirmed that he is Kostya's father.' Saying that he confirmed that he is Kostya father is how Nastya sets the tone with the inspector.
+- 'That means this man is a sly swindler!' Mikhail declares that that means this man is a sly swindler as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.

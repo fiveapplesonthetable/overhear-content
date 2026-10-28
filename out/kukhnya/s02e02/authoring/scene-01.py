@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 1
-TITLE = "Новый грузчик  (The New Loader)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новый грузчик  (The New Loader)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "timur": "angelina", "chef": "anja"}
-LABELS = {"timur": "Тимур", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'suslan': 'Суслан', 'timur': 'Тимур'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Focused on the new loader, Timur brings fish instead of what the Chef ordered. He also introduces his nephew Suslan, who is a law student. Let's listen closely to the staff and Chef Viktor's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Timur brings fish instead of what the Chef ordered. He also introduces his nephew Suslan, who is a law student. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'well' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Дела хорошо пошли?', 'Business is going well?', [(1, 'дела хорошо пошли,')], ''),
+    ('barinov', 'Дела хорошо пошли?', 'Business is going well?', [(1, 'дела хорошо пошли,')], ''),
     ('timur', 'Много работы.', 'A lot of work.', [(2, 'Много работы, много стресса.')], ''),
     ('timur', 'Я взял племянника.', 'I hired my nephew.', [(3, 'Вот решил племянника на работу взять.')], ''),
     ('timur', 'Его зовут Суслан.', 'His name is Suslan.', [(6, 'Суслан.')], ''),
-    ('chef', 'Что ты привёз?', 'What did you bring?', [(8, 'Что ты там привез?')], ''),
+    ('barinov', 'Что ты привёз?', 'What did you bring?', [(8, 'Что ты там привез?')], ''),
     ('timur', 'Суслан, разгружай.', 'Suslan, unload.', [(10, 'Иди давай разгружай.')], ''),
-    ('timur', 'Я нанимался водителем.', 'I was hired as a driver.', [(10, 'я к вам водителем нанимался,')], ''),
-    ('timur', 'А не грузчиком.', 'Not as a loader.', [(11, 'а не грузчиком.')], ''),
+    ('suslan', 'Я нанимался водителем.', 'I was hired as a driver.', [(10, 'я к вам водителем нанимался,')], ''),
+    ('suslan', 'А не грузчиком.', 'Not as a loader.', [(11, 'а не грузчиком.')], ''),
     ('timur', 'Вот скотина.', 'What a bastard.', [(12, 'Вот скотина, а.')], ''),
     ('timur', 'Вот ваша рыба, шеф.', 'Here is your fish, Chef.', [(13, 'Вот, шеф-брат, как просил рыбу?')], ''),
-    ('chef', 'Зачем мне рыба?', 'Why do I need fish?', [(15, 'На кой черт мне столько рыбы?')], ''),
-    ('chef', 'Увози обратно.', 'Take it back.', [(17, 'а это увози обратно.')], ''),
+    ('barinov', 'Зачем мне рыба?', 'Why do I need fish?', [(15, 'На кой черт мне столько рыбы?')], ''),
+    ('barinov', 'Увози обратно.', 'Take it back.', [(17, 'а это увози обратно.')], ''),
 ]
 WALK = [
     (0, None, "'Business is going well?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'let's go'."),

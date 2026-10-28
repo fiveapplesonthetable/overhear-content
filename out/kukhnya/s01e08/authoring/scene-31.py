@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 31
-TITLE = "Начало отношений  (The Beginning of Love)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Начало отношений  (The Beginning of Love)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "As the hectic shift at Claude Monet winds down, waitress Nastya joins bartender Kostya at the counter. While they assure each other that their connection is strictly platonic friendship, their warm glances reveal that a genuine romance has already quietly sparked between them. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Nastya and Kostya's tender conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Believing they are merely close friends, Nastya and Kostya fail to see that love is already blossoming. Next time you watch the episode, listen for the Russian expressions for 'madness' and 'madly' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, этот сумасшедший рабочий день наконец закончился.', 'Kostya, this crazy workday has finally ended.', [], ''),
     ('kostya', 'Да, Настя, на кухне творилось настоящее безумие.', 'Yes, Nastya, real madness was happening in the kitchen.', [], ''),

@@ -7,8 +7,7 @@ SCENE = 2
 TITLE = "Le bilan de fin d'année  (The Year-End Review)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'camille': 'emilie'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'camille': 'Camille'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the ASK agency reception area, agents and assistants discuss the looming annual financial audit. Determined to outperform rival agent Mathias, pregnant Andrea pushes herself hard before suffering a sudden contraction. Let's listen to the scene in French first."
@@ -19,18 +18,18 @@ CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('camille', "Le bilan de fin d'année approche rapidement.", 'The year-end review is approaching quickly.', [(25, "c'est ce bilan de fin d'année qui arrive, ça me stresse.")], ''),
     ('gabriel', 'Tout le monde est très stressé ici.', 'Everyone is very stressed here.', [(27, 'ça stresse tout le monde.')], ''),
-    ('lea', 'La clôture des comptes a lieu vendredi.', 'The account closing takes place on Friday.', [(37, "la clôture des comptes pour le bilan de fin d'année,"), (39, 'Vendredi.')], ''),
+    ('andrea', 'La clôture des comptes a lieu vendredi.', 'The account closing takes place on Friday.', [(37, "la clôture des comptes pour le bilan de fin d'année,"), (39, 'Vendredi.')], ''),
     ('camille', 'Il nous reste seulement quatre petits jours.', 'We have only four short days left.', [(40, 'dans quatre jours ?')], ''),
     ('gabriel', 'Mathias a signé de très gros contrats.', 'Mathias has signed very big contracts.', [(45, 'Il a fait combien, Mathias ?')], ''),
-    ('lea', "Je dois absolument battre son chiffre d'affaires!", 'I must absolutely beat his revenue!', [(49, "ce qu'a fait Mathias.")], ''),
+    ('andrea', "Je dois absolument battre son chiffre d'affaires!", 'I must absolutely beat his revenue!', [(49, "ce qu'a fait Mathias.")], ''),
     ('camille', 'Tu as déjà signé beaucoup de projets.', 'You have already signed many projects.', [(28, "Moi, j'ai signé que cinq contrats")], ''),
-    ('lea', "Ce n'est pas encore suffisant pour gagner.", 'It is not yet enough to win.', [(42, "fait bien partie des comptes de l'année ?")], ''),
+    ('andrea', "Ce n'est pas encore suffisant pour gagner.", 'It is not yet enough to win.', [(42, "fait bien partie des comptes de l'année ?")], ''),
     ('gabriel', "Pense d'abord à ta santé, Andréa.", 'Think first of your health, Andrea.', [(50, 'Ça va ?')], ''),
-    ('lea', "Aïe, j'ai une contraction assez douloureuse!", 'Ouch, I have a rather painful contraction!', [(52, "des fois, j'ai des contractions.")], ''),
+    ('andrea', "Aïe, j'ai une contraction assez douloureuse!", 'Ouch, I have a rather painful contraction!', [(52, "des fois, j'ai des contractions.")], ''),
     ('camille', 'Andréa, assieds-toi immédiatement sur ce fauteuil!', 'Andrea, sit down immediately on this armchair!', [(54, 'Assieds-toi.')], ''),
-    ('lea', "C'est juste une petite contraction passagère.", 'It is just a minor passing contraction.', [(52, "C'est juste que, ouais, des fois, j'ai des contractions.")], ''),
+    ('andrea', "C'est juste une petite contraction passagère.", 'It is just a minor passing contraction.', [(52, "C'est juste que, ouais, des fois, j'ai des contractions.")], ''),
     ('gabriel', "Je vais te chercher un verre d'eau.", 'I am going to get you a glass of water.', [(53, "Je veux bien, peut-être, juste un verre d'eau.")], ''),
-    ('lea', "Merci Gabriel, c'est très gentil à toi.", 'Thank you Gabriel, that is very kind of you.', [(56, 'Ouais, super.')], ''),
+    ('andrea', "Merci Gabriel, c'est très gentil à toi.", 'Thank you Gabriel, that is very kind of you.', [(56, 'Ouais, super.')], ''),
 ]
 WALK = [
     (0, None, "'The year-end review is approaching quickly.' The verb meaning 'approaches' pairs naturally with the noun for 'annual review' in everyday conversation."),

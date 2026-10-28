@@ -4,37 +4,36 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 19
-TITLE = "Угнанная машина  (The Stolen Car)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Угнанная машина  (The Stolen Car)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
-LABELS = {"chef": "Шеф", "elena": "Елена"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Focused on the stolen car, Elena discovers her car is missing and threatens Barinov, who then forces a confession from Fedya. Let's listen closely to Chef Barinov and Elena's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Stolen Car line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Elena discovers her car is missing and threatens Barinov, who then forces a confession from Fedya. Next time you watch the episode, listen for the Russian expressions for 'to knock' and 'to learn' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Постучаться не учили?', "Didn't they teach you to knock?", [], ''),
+    ('barinov', 'Постучаться не учили?', "Didn't they teach you to knock?", [], ''),
     ('elena', 'Я звоню в полицию.', 'I am calling the police.', [], ''),
     ('elena', 'Где моя машина?', 'Where is my car?', [], ''),
-    ('chef', 'Понятия не имею.', 'I have no idea.', [], ''),
+    ('barinov', 'Понятия не имею.', 'I have no idea.', [], ''),
     ('elena', 'Значит так, мне все это надоело.', 'That is it. I have had enough.', [(272, 'так')], ''),
     ('elena', 'Если через пять минут...', 'If in five minutes...', [(259, 'если')], ''),
     ('elena', 'моей машины не будет на месте...', 'my car is not back...', [(259, 'моей')], ''),
     ('elena', 'я заявляю об угоне.', 'I am reporting it stolen.', [(259, 'заявляю')], ''),
     ('elena', 'Вы меня хорошо поняли?', 'Do you understand me?', [(260, 'меня')], ''),
     ('elena', 'Все.', 'That is all.', [(260, 'все')], ''),
-    ('chef', 'Перед тем, как я тебя убью...', 'Before I kill you...', [(261, 'перед')], ''),
-    ('chef', 'ответь мне на вопрос.', 'answer one question.', [(261, 'ответь')], ''),
-    ('chef', 'Ты зачем увез машину?', 'Why did you take the car?', [(262, 'зачем')], ''),
-    ('chef', 'Шеф, у него не получилось приехать.', 'Boss, he could not make it.', [(262, 'шеф')], ''),
-    ('chef', 'Он сказал, чтобы я машину привез.', 'He told me to bring the car.', [(262, 'сказал')], ''),
-    ('chef', 'Как ты ее вообще завел?', 'How did you even start it?', [(261, 'как')], ''),
-    ('chef', 'Ну, чем открыл, тем и завел.', 'Well, whatever I used to unlock it, I used to start it.', [(264, 'чем')], ''),
-    ('chef', 'Ты зеркало починил?', 'Did you fix the mirror?', [(266, 'зеркало')], ''),
+    ('barinov', 'Перед тем, как я тебя убью...', 'Before I kill you...', [(261, 'перед')], ''),
+    ('barinov', 'ответь мне на вопрос.', 'answer one question.', [(261, 'ответь')], ''),
+    ('barinov', 'Ты зачем увез машину?', 'Why did you take the car?', [(262, 'зачем')], ''),
+    ('fedya', 'Шеф, у него не получилось приехать.', 'Boss, he could not make it.', [(262, 'шеф')], ''),
+    ('fedya', 'Он сказал, чтобы я машину привез.', 'He told me to bring the car.', [(262, 'сказал')], ''),
+    ('barinov', 'Как ты ее вообще завел?', 'How did you even start it?', [(261, 'как')], ''),
+    ('fedya', 'Ну, чем открыл, тем и завел.', 'Well, whatever I used to unlock it, I used to start it.', [(264, 'чем')], ''),
+    ('barinov', 'Ты зеркало починил?', 'Did you fix the mirror?', [(266, 'зеркало')], ''),
 ]
 WALK = [
     (0, None, "'Didn't they teach you to knock?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'to knock', followed by 'taught'."),

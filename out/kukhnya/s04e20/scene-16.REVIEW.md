@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Плохой из меня получился папа, да? | I turned out to be a bad dad, didn't I? | #240 00:18:27: из меня получился папа, да | adapted: adapted |
-| 2 | Катя | Ну, если честно, не очень хороший. | Well, to be honest, not a very good one. | #241 00:18:31: Ну, если честно, не очень хороший | verbatim |
-| 3 | Катя | Ты не пропускал ни одного футбольного матча. | You never missed a single soccer match. | #242 00:18:35: не пропускала ни одну игру Спартака | adapted: adapted |
-| 4 | Катя | Быть отцом — это не твоё дело. | Being a father is not your strong suit. | #244 00:18:46: что быть отцом – это не твоя фишка | adapted: adapted |
-| 5 | Катя | Твоё призвание — быть крутым шеф-поваром. | Your calling is to be a great head chef. | #245 00:18:52: быть крутым поваром | adapted: adapted |
-| 6 | Катя | Создавать шедевры — вот в чём твоя сила. | Creating masterpieces—that is where your strength lies. | #247 00:18:59: Создавать кулинарные шедевры<br>#248 00:19:01: Вот в чем твоя сила | adapted: adapted |
-| 7 | Катя | Именно это меня восхищает в тебе. | That is the exact thing I admire in you. | #249 00:19:04: И это то, что меня восхищает | adapted: adapted |
-| 8 | Катя | Но если ты сейчас опустишь руки... | But if you give up right now... | #250 00:19:09: И если ты сейчас опустишь руки | adapted: adapted |
-| 9 | Катя | То ты меня больше никогда не увидишь. | Then you will never see me again. | #251 00:19:13: то ты меня больше никогда не увидишь | verbatim |
-| 10 | Шеф | Ты же понимаешь, Нагиев не даст победить. | You understand that Nagiyev will not let me win. | #252 00:19:15: Ты же понимаешь, что я не смогу победить<br>#253 00:19:22: этого не допустит | adapted: adapted |
-| 11 | Катя | А может быть, это тебе поможет? | And perhaps this will help you? | #254 00:19:28: Может быть, это тебе поможет | adapted: adapted |
-| 12 | Катя | Что это? Это маленький подарок тебе. | What is this? It is a little gift for you. | #255 00:19:30: Что это? Подарок | adapted: adapted |
+| 1 | Шеф | Плохой из меня получился папа, да? | I turned out to be a bad dad, didn't I? | #240: из меня получился папа, да | adapted: adapted |
+| 2 | Катя | Ну, если честно, не очень хороший. | Well, to be honest, not a very good one. | #241: Ну, если честно, не очень хороший | verbatim |
+| 3 | Катя | Ты не пропускал ни одного футбольного матча. | You never missed a single soccer match. | #242: не пропускала ни одну игру Спартака | adapted: adapted |
+| 4 | Катя | Быть отцом — это не твоё дело. | Being a father is not your strong suit. | #244: что быть отцом – это не твоя фишка | adapted: adapted |
+| 5 | Катя | Твоё призвание — быть крутым шеф-поваром. | Your calling is to be a great head chef. | #245: быть крутым поваром | adapted: adapted |
+| 6 | Катя | Создавать шедевры — вот в чём твоя сила. | Creating masterpieces—that is where your strength lies. | #247: Создавать кулинарные шедевры<br>#248: Вот в чем твоя сила | adapted: adapted |
+| 7 | Катя | Именно это меня восхищает в тебе. | That is the exact thing I admire in you. | #249: И это то, что меня восхищает | adapted: adapted |
+| 8 | Катя | Но если ты сейчас опустишь руки... | But if you give up right now... | #250: И если ты сейчас опустишь руки | adapted: adapted |
+| 9 | Катя | То ты меня больше никогда не увидишь. | Then you will never see me again. | #251: то ты меня больше никогда не увидишь | verbatim |
+| 10 | Шеф | Ты же понимаешь, Нагиев не даст победить. | You understand that Nagiyev will not let me win. | #252: Ты же понимаешь, что я не смогу победить<br>#253: этого не допустит | adapted: adapted |
+| 11 | Катя | А может быть, это тебе поможет? | And perhaps this will help you? | #254: Может быть, это тебе поможет | adapted: adapted |
+| 12 | Катя | Что это? Это маленький подарок тебе. | What is this? It is a little gift for you. | #255: Что это? Подарок | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I turned out to be a bad dad, didn't I?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.
-- 'Well, to be honest, not a very good one.' Katya answers with gentle honesty using a parenthetical phrase and masculine adjective.
-- 'You never missed a single soccer match.' She recalls how he never missed a Spartak game while forgetting her birthdays.
-- 'Being a father is not your strong suit.' In everyday Russian, 'father' flows straight into 'business' without extra linking words.
-- 'Your calling is to be a great head chef.' Katya pairs 'great' with 'head chef' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Creating masterpieces—that is where your strength lies.' Notice how Russian puts 'to create, cause' and 'strength, power, force' together in a short, direct phrase where word endings show how the ideas connect.
-- 'That is the exact thing I admire in you.' Katya centers this short reply on 'admire', letting a few direct words carry the whole meaning.
-- 'But if you give up right now...' Literally meaning lower your hands, this Russian idiom means losing heart and giving up.
-- 'Then you will never see me again.' Katya gives her father a firm ultimatum to make him fight for his kitchen.
-- 'You understand that Nagiyev will not let me win.' Barinov explains that the rigged jury will vote against him no matter what he cooks.
-- 'And perhaps this will help you?' Having noticed the earlier clip on Denis's tablet, Katya hands the screen to her father.
-- 'What is this? It is a little gift for you.' Barinov's eyes light up as he watches the video of Nagiyev and finalist Oksana in Vika's office.
+- 'I turned out to be a bad dad, didn't I?' When Barinov asks if he turned out to be a bad dad did not he, Katya has to answer fast.
+- 'Well, to be honest, not a very good one.' Around the gift and plan, Katya sets a calm, everyday tone with Barinov.
+- 'You never missed a single soccer match.' Turning from the gift to the room, Katya keeps the exchange moving. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Being a father is not your strong suit.' Saying that being a father is not Barinov's strong suit is how Katya sets the tone with Barinov.
+- 'Your calling is to be a great head chef.' Once Barinov's calling is to be a great head, Katya can finally tell Barinov what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Creating masterpieces—that is where your strength lies.' Adding that creating masterpieces that is where Barinov's strength lies fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'That is the exact thing I admire in you.' Saying that that is the exact thing she admire in Barinov is how Katya sets the tone with Barinov.
+- 'But if you give up right now...' Since if Barinov gives up right now, Katya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Then you will never see me again.' Mentioning that Barinov will never see her again moves the talk in a new direction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'You understand that Nagiyev will not let me win.' Barinov reminds Katya that Katya understands that Nagiyev will not let him win before the moment passes.
+- 'And perhaps this will help you?' When Katya asks if perhaps this will help Barinov, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What is this? It is a little gift for you.' Over the point and the gift, Katya presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.

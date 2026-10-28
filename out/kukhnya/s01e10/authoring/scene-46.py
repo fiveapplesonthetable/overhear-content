@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 46
-TITLE = "Вкусное утро  (Delicious Morning)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Вкусное утро  (Delicious Morning)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "host": "anja", "anya": "alisa"}
-LABELS = {"host": "Ведущий", "anya": "Макс"}
+LABELS = {'host': 'Ведущий', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "As the sun rises over Moscow, the cheerful host of the morning TV show 'Delicious Morning' whips up a simple breakfast on air. Watching the broadcast, Max reflects on the importance of seizing every opportunity, because fate rarely grants a second chance."
 OPENER = "Let's tune into the early morning cooking program and listen to Max's final reflections on fate and second chances."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A new day dawns at Claude Monet, reminding everyone to treasure every opportunity before it slips away. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'appetizing' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('host', 'Доброе утро всем ранним зрителям нашего шоу!', 'Good morning to all early viewers of our show!', [(342, 'Доброе утро всем тем, кому не спится в такую рань.')], ''),
     ('host', 'С вами снова любимая передача Вкусное утро.', 'With you again is your favorite show Delicious Morning.', [(343, 'Вкусное утро.')], ''),
     ('host', 'Сегодня мы приготовим простую аппетитную глазунью.', 'Today we will prepare simple appetizing sunny-side-up eggs.', [(343, 'Мы сегодня будем готовить глазунью.')], ''),
-    ('anya', 'Каждое утро открывает перед нами новый день.', 'Every morning opens a new day before us.', [], ''),
+    ('max', 'Каждое утро открывает перед нами новый день.', 'Every morning opens a new day before us.', [], ''),
     ('host', 'Берём свежие яйца и разогреваем сковороду.', 'We take fresh eggs and heat the frying pan.', [], ''),
-    ('anya', 'Иногда простые вещи оказываются самыми важными.', 'Sometimes simple things turn out to be the most important.', [], ''),
+    ('max', 'Иногда простые вещи оказываются самыми важными.', 'Sometimes simple things turn out to be the most important.', [], ''),
     ('host', 'Добавляем немного сливочного масла и соли.', 'We add a little butter and salt.', [], ''),
-    ('anya', 'Мы часто ищем сложных ответов на вопросы.', 'We often look for complex answers to questions.', [], ''),
+    ('max', 'Мы часто ищем сложных ответов на вопросы.', 'We often look for complex answers to questions.', [], ''),
     ('host', 'Несколько минут — и великолепный завтрак готов!', 'A few minutes and a wonderful breakfast is ready!', [], ''),
-    ('anya', 'Главное — никогда не упускать свои возможности.', 'The main thing is never to miss your opportunities.', [(344, 'Главное, не упускать эти возможности.')], ''),
-    ('anya', 'Судьба может не дать нам второй шанс.', 'Fate might not give us a second chance.', [(345, 'Ведь может получиться так, что второго шанса судьба не даст.')], ''),
+    ('max', 'Главное — никогда не упускать свои возможности.', 'The main thing is never to miss your opportunities.', [(344, 'Главное, не упускать эти возможности.')], ''),
+    ('max', 'Судьба может не дать нам второй шанс.', 'Fate might not give us a second chance.', [(345, 'Ведь может получиться так, что второго шанса судьба не даст.')], ''),
     ('host', 'Приятного аппетита и хорошего дня всем!', 'Bon appetit and have a good day everyone!', [], ''),
-    ('anya', 'Цените каждый миг своей настоящей жизни.', 'Value every moment of your real life.', [], ''),
+    ('max', 'Цените каждый миг своей настоящей жизни.', 'Value every moment of your real life.', [], ''),
 ]
 WALK = [
     (0, None, "'Good morning to all early viewers of our show!' The upbeat TV host greets early risers brightly."),

@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s04e20-scene-12.
 ID = 'kukhnya-s04e20-scene-12'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 20
 SCENE = 12
 TITLE = "Возвращение Германа  (German's Return)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "german": "anja", "nagiyev": "angelina"}
-LABELS = {"german": "Герман", "nagiyev": "Нагиев"}
+LABELS = {'barinov': 'Шеф', 'german': 'Герман', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.20'
 SOURCE_FILE = 'sources/kukhnya/s04/e20.ru.srt'
-
 INTRO = "As the grand finale of the cooking competition begins, Dmitry Nagiyev announces a shocking replacement on the judging panel. Because critic Mikhail Kochetkov was burned in the previous round, Nagiyev invites Barinov's bitter enemy German Land to judge the final—and German reveals that Barinov no longer has leverage over him. Let's listen to this dramatic twist in Russian."
-
+OPENER = "Now let's break down German's surprise return to the restaurant line by line."
+TRANSITION = "Let's hear the studio confrontation with German again from start to finish."
+OUTRO = 'German gloats that he bought the only copy of the Riga fight video directly from Senya and Fedya, leaving Barinov powerless. Listen for the verbs meaning will judge, forgot, and bought out. See you next time!'
+CLOSING = ('german', 'До завтра!')
 STORY = [
     ('nagiyev', 'Здравствуйте, дорогие друзья, это финал шоу!', 'Hello, dear friends, this is the finale of the show!', [(178, 'Здравствуйте, дорогие друзья')], 'adapted'),
     ('nagiyev', 'Наш третий судья сегодня не пришёл.', 'Our third judge did not come today.', [(181, 'нашего жюри был Михаил Кочетков')], 'adapted'),
     ('nagiyev', 'Финальный раунд будет судить Герман Ланд!', 'German Land will judge the final round!', [(184, 'финальный раунд нашего шоу будет судить Герман')], 'adapted'),
     ('nagiyev', 'Бывший шеф-повар нашего ресторана «Клод Моне».', 'The former head chef of our restaurant Claude Monet.', [(185, 'бывший шеф-повар ресторана')], 'adapted'),
-    ('german', 'Стоп, снято, сделаем перерыв на минуту!', "Stop, cut, let's take a break for a minute!", [(186, 'Стоп, стоп, стоп, снято')], 'adapted'),
-    ('german', 'Ты что здесь вообще сейчас делаешь?', 'What on earth are you doing here right now?', [(187, 'Ты что здесь делаешь')], 'adapted'),
+    ('barinov', 'Стоп, снято, сделаем перерыв на минуту!', "Stop, cut, let's take a break for a minute!", [(186, 'Стоп, стоп, стоп, снято')], 'adapted'),
+    ('barinov', 'Ты что здесь вообще сейчас делаешь?', 'What on earth are you doing here right now?', [(187, 'Ты что здесь делаешь')], 'adapted'),
     ('german', 'Я очень рад вас снова видеть.', 'I am very glad to see you again.', [(187, 'Я очень рад вас видеть, Виктор Петрович')], 'adapted'),
-    ('german', 'Тебе что, на свободе уже надоело?', 'What, have you gotten tired of being free already?', [(188, 'Тебе что, на воле надоело')], 'adapted'),
+    ('barinov', 'Тебе что, на свободе уже надоело?', 'What, have you gotten tired of being free already?', [(188, 'Тебе что, на воле надоело')], 'adapted'),
     ('german', 'Синяки у того парня давно прошли.', "That guy's bruises healed a long time ago.", [(190, 'синяки у того парня давно уже прошли')], 'adapted'),
-    ('german', 'А про нашу видеозапись ты забыл?', 'And did you forget about our video recording?', [(191, 'А про видеозапись забыл')], 'adapted'),
+    ('barinov', 'А про нашу видеозапись ты забыл?', 'And did you forget about our video recording?', [(191, 'А про видеозапись забыл')], 'adapted'),
     ('german', 'Вы разве ещё совсем не знаете?', 'Do you really not know at all yet?', [(192, 'Вы не в курсе, да, Виктор Петрович')], 'adapted'),
     ('german', 'Я купил эту запись у поваров.', 'I bought that recording from your cooks.', [(193, 'Я выкупил ее у ваших')], 'adapted'),
 ]
-
-OPENER = "Now let's break down German's surprise return to the restaurant line by line."
-
 WALK = [
-    (0, None, "'Hello, dear friends, this is the finale of the show!' Nagiyev welcomes the audience to the championship round of the competition."),
-    (1, None, "'Our third judge did not come today.' He explains that restaurant critic Kochetkov is in the hospital after his kitchen mishap."),
-    (2, None, "'German Land will judge the final round!' Here Nagiyev anchors the thought on 'german' and finishes on 'to judge, to try in court', keeping the spoken rhythm brisk and natural."),
-    (3, None, "'The former head chef of our restaurant Claude Monet.' Nagiyev grins at Viktor Petrovich as his vengeful rival takes a seat on the jury."),
-    (4, None, "'Stop, cut, let's take a break for a minute!' As soon as the director calls a makeup break, Barinov marches straight over to German."),
-    (5, None, "'What on earth are you doing here right now?' Barinov confronts German bluntly in the second-person singular."),
-    (6, None, "'I am very glad to see you again.' Here German anchors the thought on 'very, really' and finishes on 'to see', keeping the spoken rhythm brisk and natural."),
-    (7, None, "'What, have you gotten tired of being free already?' In everyday Russian, 'freedom, liberty' flows straight into 'has got boring, I'm fed up' without extra linking words."),
-    (8, None, "'That guy's bruises healed a long time ago.' German shrugs off the beating he gave Markus in the office last week."),
-    (9, None, "'And did you forget about our video recording?' Barinov reminds him of the incriminating video from Riga."),
-    (10, None, "'Do you really not know at all yet?' German chuckles and asks a mocking question in the polite plural."),
-    (11, None, "'I bought that recording from your cooks.' He reveals that Senya and Fedya sold him the tablet with the video for cash."),
+    (0, None, '\'Hello, dear friends, this is the finale of the show!\' Declaring that dear friends this is the finale of the show brings Nagiyev\'s temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (1, None, "'Our third judge did not come today.' Even though their third judge did not come today, Nagiyev keeps a steady face in front of Barinov."),
+    (2, None, "'German Land will judge the final round!' Saying that German land will judge the final round is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (3, None, "'The former head chef of our restaurant Claude Monet.' Over the guest and the kitchen, Nagiyev answers Barinov without a second thought."),
+    (4, None, "'Stop, cut, let's take a break for a minute!' Declaring that German should stop cut let them take a break for a minute brings Barinov's temper right to the surface."),
+    (5, None, '\'What on earth are you doing here right now?\' With the work and guest hanging in the air, Barinov puts German on the spot. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (6, None, '\'I am very glad to see you again.\' Saying that he is very glad to see Barinov again is how German sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (7, None, "'What, have you gotten tired of being free already?' Questioning whether what have German gotten tired of being free already is how Barinov tests German's story."),
+    (8, None, "'That guy's bruises healed a long time ago.' With the guest and plan in play, German keeps this short reply brisk and direct."),
+    (9, None, '\'And did you forget about our video recording?\' Here checking whether German forgets about their video recording shows Barinov looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (10, None, "'Do you really not know at all yet?' By asking whether Barinov really not know at all yet, German presses Barinov for a straight answer."),
+    (11, None, "'I bought that recording from your cooks.' Explaining that he bought that recording from Barinov's cooks lays the cards on the table for Barinov."),
 ]
-
-TRANSITION = "Let's hear the studio confrontation with German again from start to finish."
-OUTRO = 'German gloats that he bought the only copy of the Riga fight video directly from Senya and Fedya, leaving Barinov powerless. Listen for the verbs meaning will judge, forgot, and bought out. See you next time!'
-CLOSING = ("german", "До завтра!")

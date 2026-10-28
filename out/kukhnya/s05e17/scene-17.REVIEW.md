@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ну, я правда сделал это случайно. | Well, I really did it by accident. | #310 00:19:22: Ну, я правду случайно | adapted: adapted |
-| 2 | Элеонора | Витенька, ничего случайного не бывает. | Vitenka, nothing ever happens by accident. | #311 00:19:24: Витенька<br>#312 00:19:25: ничего случайного не бывает | adapted: adapted |
-| 3 | Элеонора | Чего ты меня весь день достаёшь? | Why have you been pestering me all day? | #313 00:19:28: А чего ты меня сегодня весь день достаёшь | adapted: adapted |
-| 4 | Элеонора | Ты бесишься, что я теперь с Димой. | You are furious that I am with Dima now. | #314 00:19:30: Ты так бесишься, что я теперь с Димой | adapted: adapted |
-| 5 | Шеф | Какой же это полный бред! | What complete nonsense that is! | #315 00:19:33: Бред какой | adapted: adapted |
-| 6 | Элеонора | У тебя в руках ключи от его машины. | You have the keys to his car in your hands. | #316 00:19:37: У тебя ключи от его машины | adapted: adapted |
-| 7 | Элеонора | После этого скажешь, что не ревнуешь? | After that will you say that you are not jealous? | #318 00:19:41: После этого будешь говорить, что не ревнуешь | adapted: adapted |
-| 8 | Шеф | Эля, не путай ревность с жалостью. | Elya, do not confuse jealousy with pity. | #319 00:19:43: Эля, не путай ревность с жалостью | adapted: adapted |
-| 9 | Шеф | Могла бы найти кого-то поприличнее. | You could have found someone more decent. | #320 00:19:46: Могла бы найти кого-то поприличнее | adapted: adapted |
-| 10 | Элеонора | Интересно, например, кого именно? | Interesting, for example, who exactly? | #321 00:19:51: Например, кого | adapted: adapted |
-| 11 | Шеф | Ну, например, нашего Михаила Джековича. | Well, for example, our Mikhail Dzhekovich. | #322 00:19:52: Ну, например, Михаила | adapted: adapted |
-| 12 | Шеф | Нормальный мужик, работает много, пьёт мало. | A normal guy, works a lot, drinks little. | #325 00:20:02: Нормальный мужик<br>#326 00:20:04: Работает много, пьет мало | adapted: adapted |
-| 13 | Элеонора | Я не ищу мужа среди персонала. | I am not looking for a husband among the staff. | #330 00:20:16: искать себе мужа среди обслуживающего персонала | adapted: adapted |
+| 1 | Шеф | Ну, я правда сделал это случайно. | Well, I really did it by accident. | #310: Ну, я правду случайно | adapted: adapted |
+| 2 | Элеонора | Витенька, ничего случайного не бывает. | Vitenka, nothing ever happens by accident. | #311: Витенька<br>#312: ничего случайного не бывает | adapted: adapted |
+| 3 | Элеонора | Чего ты меня весь день достаёшь? | Why have you been pestering me all day? | #313: А чего ты меня сегодня весь день достаёшь | adapted: adapted |
+| 4 | Элеонора | Ты бесишься, что я теперь с Димой. | You are furious that I am with Dima now. | #314: Ты так бесишься, что я теперь с Димой | adapted: adapted |
+| 5 | Шеф | Какой же это полный бред! | What complete nonsense that is! | #315: Бред какой | adapted: adapted |
+| 6 | Элеонора | У тебя в руках ключи от его машины. | You have the keys to his car in your hands. | #316: У тебя ключи от его машины | adapted: adapted |
+| 7 | Элеонора | После этого скажешь, что не ревнуешь? | After that will you say that you are not jealous? | #318: После этого будешь говорить, что не ревнуешь | adapted: adapted |
+| 8 | Шеф | Эля, не путай ревность с жалостью. | Elya, do not confuse jealousy with pity. | #319: Эля, не путай ревность с жалостью | adapted: adapted |
+| 9 | Шеф | Могла бы найти кого-то поприличнее. | You could have found someone more decent. | #320: Могла бы найти кого-то поприличнее | adapted: adapted |
+| 10 | Элеонора | Интересно, например, кого именно? | Interesting, for example, who exactly? | #321: Например, кого | adapted: adapted |
+| 11 | Шеф | Ну, например, нашего Михаила Джековича. | Well, for example, our Mikhail Dzhekovich. | #322: Ну, например, Михаила | adapted: adapted |
+| 12 | Шеф | Нормальный мужик, работает много, пьёт мало. | A normal guy, works a lot, drinks little. | #325: Нормальный мужик<br>#326: Работает много, пьет мало | adapted: adapted |
+| 13 | Элеонора | Я не ищу мужа среди персонала. | I am not looking for a husband among the staff. | #330: искать себе мужа среди обслуживающего персонала | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, I really did it by accident.' In Russian, the idea of 'come on' flows naturally into 'by chance' without extra filler words.
-- 'Vitenka, nothing ever happens by accident.' Spoken Russian keeps this brisk, leaning on 'Vitenka' and finishing on 'it is'.
-- 'Why have you been pestering me all day?' Here the Russian phrasing highlights 'what' before landing on 'to reach'.
-- 'You are furious that I am with Dima now.' Notice how Russian expresses 'you' and 'Dima' with crisp inflection rather than helper words.
-- 'What complete nonsense that is!' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'nonsense'. Eleonora answers right away.
-- 'You have the keys to his car in your hands.' Notice how Russian expresses 'at' and 'cars' with crisp inflection rather than helper words.
-- 'After that will you say that you are not jealous?' Here the Russian phrasing highlights 'after' before landing on 'are jealous'.
-- 'Elya, do not confuse jealousy with pity.' The negative particle sits right before the verb meaning 'to confuse' to negate the statement.
-- 'You could have found someone more decent.' Chef Barinov brings out the contrast between 'could' and 'would' in a few short words.
-- 'Interesting, for example, who exactly?' In Russian, the idea of 'interesting' flows naturally into 'specifically' without extra filler words.
-- 'Well, for example, our Mikhail Dzhekovich.' The meaning hinges on 'come on' working together with 'proper name' in spoken Russian.
-- 'A normal guy, works a lot, drinks little.' In Russian, the idea of 'normal' flows naturally into 'little' without extra filler words.
-- 'I am not looking for a husband among the staff.' The grammar packs 'I' and 'staff' into a tight, idiomatic kitchen exchange.
+- 'Well, I really did it by accident.' Noting that he really did it by accident keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Vitenka, nothing ever happens by accident.' Even though someone nothing ever happens by accident, Eleonora keeps a steady face in front of Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Why have you been pestering me all day?' Eleonora asks whether why have Barinov been pestering her all day, refusing to let the point slide.
+- 'You are furious that I am with Dima now.' Saying that Barinov is furious that she is with Dima now is how Eleonora sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What complete nonsense that is!' Declaring that what complete nonsense that is brings Barinov's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You have the keys to his car in your hands.' Adding that Barinov has the keys to his car in Barinov's hands fills in the missing piece for Barinov.
+- 'After that will you say that you are not jealous?' When Eleonora asks if after that will Barinov says that Barinov is not jealous, Barinov has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Elya, do not confuse jealousy with pity.' Since someone do not confuse jealousy with pity, Barinov does not waste words on excuses.
+- 'You could have found someone more decent.' Mentioning that Eleonora could have found someone more decent moves the talk in a new direction.
+- 'Interesting, for example, who exactly?' With the moment and car hanging in the air, Eleonora puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, for example, our Mikhail Dzhekovich.' Around the car and kitchen, Barinov sets a calm, everyday tone with Eleonora.
+- 'A normal guy, works a lot, drinks little.' Explaining that a normal guy works a lot drinks little lays the cards on the table for Eleonora.
+- 'I am not looking for a husband among the staff.' Claiming that she is not looking for a husband among the staff sounds confident, even if Barinov has doubts.

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Расскажите, как вы к нему относитесь. | Tell him how you feel about him. | #311 00:20:00: Расскажите, как вы к нему относитесь | verbatim |
-| 2 | Вика | Доброе утро, Виктор Петрович! | Good morning, Viktor Petrovich! | #313 00:20:06: Доброе утро, Виктор Петрович | verbatim |
-| 3 | Шеф | Игру-то смотрели вчера? | Did you watch the game yesterday? | #314 00:20:08: Игру-то смотрели вчера | verbatim |
-| 4 | Вика | Очень смешно. | Very funny. | #315 00:20:10: Очень смешно | verbatim |
-| 5 | Шеф | Вы издеваетесь. | You are making fun of me. | #316 00:20:12: вы издеваетесь | verbatim |
-| 6 | Вика | Ну, конечно, давно. | Well, of course, for a long time now. | #318 00:20:16: Ну, конечно, давно | verbatim |
-| 7 | Шеф | А вы что, не в курсе? | Wait, did you not know? | #319 00:20:18: А вы что, не в курсе | verbatim |
-| 8 | Вика | Да уже все нормально. | Everything is fine already. | #321 00:20:27: Да уже все нормально | verbatim |
-| 9 | Шеф | Ну, спит просто. | He is just sleeping. | #322 00:20:30: Ну, спит просто | verbatim |
-| 10 | Вика | Как это? | How can that be? | #324 00:20:34: Как это | verbatim |
-| 11 | Шеф | Вот так. | Just like that. | #325 00:20:36: Вот так | verbatim |
-| 12 | Вика | Ну, хватит, хватит. | All right, enough, that is enough. | #326 00:20:38: Ну, хватит, хватит | verbatim |
-| 13 | Шеф | Нормально все со мной. | Everything is fine with me. | #327 00:20:40: Нормально все со мной | verbatim |
+| 1 | Шеф | Расскажите, как вы к нему относитесь. | Tell him how you feel about him. | #311: Расскажите, как вы к нему относитесь | verbatim |
+| 2 | Вика | Доброе утро, Виктор Петрович! | Good morning, Viktor Petrovich! | #313: Доброе утро, Виктор Петрович | verbatim |
+| 3 | Шеф | Игру-то смотрели вчера? | Did you watch the game yesterday? | #314: Игру-то смотрели вчера | verbatim |
+| 4 | Вика | Очень смешно. | Very funny. | #315: Очень смешно | verbatim |
+| 5 | Шеф | Вы издеваетесь. | You are making fun of me. | #316: вы издеваетесь | verbatim |
+| 6 | Вика | Ну, конечно, давно. | Well, of course, for a long time now. | #318: Ну, конечно, давно | verbatim |
+| 7 | Шеф | А вы что, не в курсе? | Wait, did you not know? | #319: А вы что, не в курсе | verbatim |
+| 8 | Вика | Да уже все нормально. | Everything is fine already. | #321: Да уже все нормально | verbatim |
+| 9 | Шеф | Ну, спит просто. | He is just sleeping. | #322: Ну, спит просто | verbatim |
+| 10 | Вика | Как это? | How can that be? | #324: Как это | verbatim |
+| 11 | Шеф | Вот так. | Just like that. | #325: Вот так | verbatim |
+| 12 | Вика | Ну, хватит, хватит. | All right, enough, that is enough. | #326: Ну, хватит, хватит | verbatim |
+| 13 | Шеф | Нормально все со мной. | Everything is fine with me. | #327: Нормально все со мной | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell him how you feel about him.' Chef Viktor chooses the respectful plural 'you' alongside 'treat' to keep a polite distance.
-- 'Good morning, Viktor Petrovich!' Notice how Russian expresses 'kind' and 'Petrovich' with crisp inflection rather than helper words.
-- 'Did you watch the game yesterday?' The meaning hinges on 'game' working together with 'yesterday' in spoken Russian. Vika answers right away.
-- 'Very funny.' In Russian, the idea of 'very' flows naturally into 'funny' without extra filler words.
-- 'You are making fun of me.' Here the Russian phrasing highlights 'you' before landing on 'are you mocking'.
-- 'Well, of course, for a long time now.' The grammar packs 'come on' and 'for a long time' into a tight, idiomatic kitchen exchange. Chef Viktor answers right away.
-- 'Wait, did you not know?' Chef Viktor anchors the line on 'and', while 'course' completes the thought.
-- 'Everything is fine already.' Vika brings out the contrast between 'yes' and 'now' in a few short words.
-- 'He is just sleeping.' The meaning hinges on 'come on' working together with 'just' in spoken Russian. Vika answers right away.
-- 'How can that be?' The grammar packs 'how' and 'this' into a tight, idiomatic kitchen exchange.
-- 'Just like that.' Chef Viktor anchors the line on 'there you go', while 'like this' completes the thought.
-- 'All right, enough, that is enough.' In Russian, the idea of 'come on' flows naturally into 'enough' without extra filler words. Chef Viktor answers right away.
-- 'Everything is fine with me.' Here the Russian phrasing highlights 'fine' before landing on 'me'.
+- 'Tell him how you feel about him.' Telling him how Vika feels about him moves the conversation forward without extra drama.
+- 'Good morning, Viktor Petrovich!' With the conversation and moment at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Did you watch the game yesterday?' Asking whether Vika watches the game yesterday cuts straight through the tension between Barinov and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Very funny.' Over the kitchen and the truth, Vika answers Barinov without a second thought.
+- 'You are making fun of me.' Saying that Vika is making fun of him is how Barinov sets the tone with Vika. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Well, of course, for a long time now.' Between the kitchen and the truth, Vika gives Barinov a quick, grounded response.
+- 'Wait, did you not know?' Checking whether Vika not know cuts straight through the tension between Barinov and Vika.
+- 'Everything is fine already.' Vika mentions that everything is fine already so Barinov sees what is at stake.
+- 'He is just sleeping.' Saying that he is just sleeping is how Barinov sets the tone with Vika.
+- 'How can that be?' By wondering how that be can, Vika presses Barinov for a straight answer.
+- 'Just like that.' Between the shift and the plan, Barinov gives Vika a quick, grounded response.
+- 'All right, enough, that is enough.' Realizing that all right enough that is enough changes how Vika handles the situation.
+- 'Everything is fine with me.' Noting that everything is fine with him keeps Barinov's side of the story simple and clear.

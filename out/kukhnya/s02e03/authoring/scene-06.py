@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 6
-TITLE = "Кожаный ремень  (The Leather Belt)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Кожаный ремень  (The Leather Belt)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina", "anya": "alisa"}
-LABELS = {"fedya": "Федя", "senya": "Сеня", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Fedya is doing a strange experiment in the kitchen. He is trying to cook and eat a leather belt. Senya thinks he is crazy. Let's listen. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Let's review the conversation line by line."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the leather belt, and for the words meaning 'look' and 'leather'. You'll catch them now. See you next time."
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('fedya', 'Смотри, это кожаный ремень.', 'Look, this is a leather belt.', [], ''),
     ('senya', 'Зачем он тебе на кухне?', 'Why do you have it in the kitchen?', [], ''),

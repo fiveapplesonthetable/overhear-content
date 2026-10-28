@@ -7,8 +7,7 @@ SCENE = 10
 TITLE = 'Je vois tout dans vos notes  (I See Everything in Your Bills)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'Colette Brancillon is still furious with Andréa after recognising her from the dating site, and she is checking every single receipt the agents have ever claimed. After a frantic warning from Gabriel at the office, Andréa spots Colette in a clothes shop and tries one more time to charm her. Listen to the French first without worrying about catching every word.'
@@ -18,21 +17,21 @@ OUTRO = 'Just as Andréa tries to show her softer side, someone from her past is
 CLOSING = ('colette', 'À bientôt!')
 STORY = [
     ('gabriel', 'Andréa! Brancillon est venue chez moi à sept heures du matin!', 'Andréa! Brancillon came to my place at seven in the morning!', [(263, 'Andréa ! Brancillon'), (263, 'chez moi à sept heures du matin')], ''),
-    ('lea', 'Quoi? Chez toi?', 'What? To your place?', [(264, 'Quoi ? Chez toi')], ''),
+    ('andrea', 'Quoi? Chez toi?', 'What? To your place?', [(264, 'Quoi ? Chez toi')], ''),
     ('gabriel', 'Pour vérifier mes costumes et mes notes de frais. Bonne chance!', 'To check my suits and my expense claims. Good luck!', [(265, 'Pour vérifier'), (265, 'mes costumes'), (266, 'mes notes de frais'), (267, 'Bonne chance')], ''),
-    ('lea', 'Colette? Bonjour! Cette veste est très belle.', 'Colette? Hello! This jacket is very nice.', [(271, 'Colette'), (272, 'Bonjour')], ''),
-    ('lea', 'Vous voulez dîner avec moi ce soir?', 'Do you want to have dinner with me tonight?', [(275, 'ce soir')], ''),
+    ('andrea', 'Colette? Bonjour! Cette veste est très belle.', 'Colette? Hello! This jacket is very nice.', [(271, 'Colette'), (272, 'Bonjour')], ''),
+    ('andrea', 'Vous voulez dîner avec moi ce soir?', 'Do you want to have dinner with me tonight?', [(275, 'ce soir')], ''),
     ('colette', 'Arrête, Andréa. Je sais qui tu es.', 'Stop it, Andréa. I know who you are.', [(275, 'Arrête, Andréa'), (276, 'Je sais qui tu es')], ''),
-    ('lea', 'Ah bon?', 'Really?', [(277, 'Ah bon')], ''),
+    ('andrea', 'Ah bon?', 'Really?', [(277, 'Ah bon')], ''),
     ('colette', 'Oui. Je vois tout dans tes factures.', 'Yes. I see everything in your bills.', [(277, 'Oui'), (278, 'Je vois tout dans tes factures')], ''),
-    ('lea', 'Quoi?', 'What?', [(279, 'Quoi')], ''),
+    ('andrea', 'Quoi?', 'What?', [(279, 'Quoi')], ''),
     ('colette', 'Tout. Tu manges très mal, et tu ne prends jamais de vacances.', 'Everything. You eat very badly, and you never take a holiday.', [(279, 'Tout')], ''),
     ('colette', "Tu paies un club de sport, mais tu n'y vas jamais.", 'You pay for a gym, but you never go there.', [(282, "d'une salle de sport très chère, mais tu n'y vas jamais")], ''),
     ('colette', 'Et tu as un problème avec tes cheveux.', 'And you have a problem with your hair.', [(283, 'Et tu as un problème avec tes cheveux')], ''),
-    ('lea', 'Non!', 'No!', [(284, 'Non')], ''),
+    ('andrea', 'Non!', 'No!', [(284, 'Non')], ''),
     ('colette', 'Si. Toujours un coiffeur différent.', 'Yes, you do. Always a different hairdresser.', [(284, 'Si. Toujours un coiffeur différent')], ''),
     ('colette', 'Et tu as beaucoup de petites amies.', 'And you have lots of girlfriends.', [(286, 'Et tu as beaucoup de petites amies')], ''),
-    ('lea', "C'est faux. Je suis souvent seule.", 'That', [(286, 'Faux'), (290, 'Je suis souvent')], ''),
+    ('andrea', "C'est faux. Je suis souvent seule.", 'That', [(286, 'Faux'), (290, 'Je suis souvent')], ''),
     ('colette', "De toute façon, tu n'es pas quelqu'un pour moi.", 'Anyway, you', [(287, "De toute façon, tu n'es pas quelqu'un pour moi")], ''),
 ]
 WALK = [

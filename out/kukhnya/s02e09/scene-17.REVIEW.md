@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Виктор Петрович. | Viktor Petrovich. | #278 00:19:45: Виктор Петрович | verbatim |
-| 2 | Вика | Да, мне все рассказали ваши... | Yes, your staff told me everything... | #279 00:19:50: Да, мне все рассказали ваши | verbatim |
-| 3 | Шеф | Ну перестаньте. | Oh, stop it now. | #280 00:19:53: ну перестаньте | verbatim |
-| 4 | Шеф | Они действительно за вас переживают. | They really do worry about you. | #281 00:19:55: Они действительно за вас переживают | verbatim |
-| 5 | Вика | В девять у выхода. | At nine by the exit. | #282 00:19:58: В девять у выхода | verbatim |
-| 6 | Шеф | Кристина, я вообще-то поговорить пришел. | Kristina, I actually came here to talk. | #283 00:20:07: Кристина, я вообще-то поговорить пришел | verbatim |
-| 7 | Шеф | Ну вот после и поговорим. | Well, we can talk afterwards. | #284 00:20:09: Ну вот после и поговорим | verbatim |
-| 8 | Вика | Как дела? | How are things going? | #287 00:20:36: Как дела | verbatim |
-| 9 | Шеф | Это хорошо. | That is good. | #289 00:20:40: Это хорошо | verbatim |
-| 10 | Шеф | Интересно, кроме меня здесь кто-то шастал? | I wonder if anyone else has been snooping around here besides me? | #290 00:20:45: Интересно, кроме меня здесь кто-то шастал | verbatim |
-| 11 | Вика | Ты такой. | You are so... | #291 00:20:49: ты такой | verbatim |
-| 12 | Шеф | Ты такой сексуальный, когда ревнуешь. | You are so sexy when you get jealous. | #293 00:20:53: Ты такой сексуальный, когда ревнуешь | verbatim |
-| 13 | Шеф | Ты тоже такая сексуальная, когда я ревную. | You are so sexy too when I get jealous. | #294 00:20:59: Ты тоже такая сексуальная, когда я ревную | verbatim |
+| 1 | Шеф | Виктор Петрович. | Viktor Petrovich. | #278: Виктор Петрович | verbatim |
+| 2 | Вика | Да, мне все рассказали ваши... | Yes, your staff told me everything... | #279: Да, мне все рассказали ваши | verbatim |
+| 3 | Кристина | Ну перестаньте. | Oh, stop it now. | #280: ну перестаньте | verbatim |
+| 4 | Шеф | Они действительно за вас переживают. | They really do worry about you. | #281: Они действительно за вас переживают | verbatim |
+| 5 | Вика | В девять у выхода. | At nine by the exit. | #282: В девять у выхода | verbatim |
+| 6 | Кристина | Кристина, я вообще-то поговорить пришел. | Kristina, I actually came here to talk. | #283: Кристина, я вообще-то поговорить пришел | verbatim |
+| 7 | Шеф | Ну вот после и поговорим. | Well, we can talk afterwards. | #284: Ну вот после и поговорим | verbatim |
+| 8 | Вика | Как дела? | How are things going? | #287: Как дела | verbatim |
+| 9 | Кристина | Это хорошо. | That is good. | #289: Это хорошо | verbatim |
+| 10 | Шеф | Интересно, кроме меня здесь кто-то шастал? | I wonder if anyone else has been snooping around here besides me? | #290: Интересно, кроме меня здесь кто-то шастал | verbatim |
+| 11 | Вика | Ты такой. | You are so... | #291: ты такой | verbatim |
+| 12 | Кристина | Ты такой сексуальный, когда ревнуешь. | You are so sexy when you get jealous. | #293: Ты такой сексуальный, когда ревнуешь | verbatim |
+| 13 | Шеф | Ты тоже такая сексуальная, когда я ревную. | You are so sexy too when I get jealous. | #294: Ты тоже такая сексуальная, когда я ревную | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich.' Notice how Russian expresses 'Viktor' and 'Petrovich' with crisp inflection rather than helper words.
-- 'Yes, your staff told me everything...' Vika chooses the respectful plural 'you' alongside 'your' to keep a polite distance. Kristina answers right away.
-- 'Oh, stop it now.' In Russian, the idea of 'come on' flows naturally into 'stop it' without extra filler words.
-- 'They really do worry about you.' Here the Russian phrasing highlights 'they' before landing on 'to worry'.
-- 'At nine by the exit.' The grammar packs 'nine' and 'exit' into a tight, idiomatic kitchen exchange. Kristina answers right away.
-- 'Kristina, I actually came here to talk.' The meaning hinges on 'Kristina' working together with 'came' in spoken Russian.
-- 'Well, we can talk afterwards.' Chef Viktor brings out the contrast between 'come on' and 'there you go' in a few short words.
-- 'How are things going?' Vika raises the pitch on 'things' to turn the phrase into a direct spoken question. Kristina answers right away.
-- 'That is good.' Notice how Russian expresses 'this' and 'fine' with crisp inflection rather than helper words.
-- 'I wonder if anyone else has been snooping around here besides me?' Spoken Russian keeps this brisk, leaning on 'interesting' and finishing on 'to prowl'.
-- 'You are so...' Notice how Russian expresses 'you' and 'such' with crisp inflection rather than helper words. Kristina answers right away.
-- 'You are so sexy when you get jealous.' Kristina pairs 'sexy, attractive' with 'are jealous' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'You are so sexy too when I get jealous.' Here the Russian phrasing highlights 'you' before landing on 'am jealous of'.
+- 'Viktor Petrovich.' Over the point and the call, Barinov answers Kristina without a second thought.
+- 'Yes, your staff told me everything...' Even though Barinov's staff told her everything, Vika keeps a steady face in front of Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Oh, stop it now.' Claiming that Barinov should stop it now sounds confident, even if Barinov has doubts.
+- 'They really do worry about you.' Saying that they really do worry about Kristina is how Barinov sets the tone with Kristina. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'At nine by the exit.' Over the point and the shift, Vika answers Barinov without a second thought.
+- 'Kristina, I actually came here to talk.' Adding that she actually came here to talk fills in the missing piece for Barinov.
+- 'Well, we can talk afterwards.' Barinov tells Kristina that they can talk afterwards without dressing it up.
+- 'How are things going?' Here asking how things going are shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'That is good.' Mentioning that that is good moves the talk in a new direction.
+- 'I wonder if anyone else has been snooping around here besides me?' Barinov asks whether he wonders if anyone else has been snooping around here besides him, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You are so...' Over the call and the shift, Vika answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You are so sexy when you get jealous.' Explaining that Barinov is so sexy when Barinov gets jealous lays the cards on the table for Barinov.
+- 'You are so sexy too when I get jealous.' Barinov mentions that Kristina is so sexy too when he gets jealous so Kristina sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 18
-TITLE = "Неожиданное признание  (An Unexpected Confession)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданное признание  (An Unexpected Confession)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "guest": "anja"}
-LABELS = {"vika": "Вика", "guest": "Гость"}
+LABELS = {'guest': 'Гость', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = 'Near the reception desk of Claude Monet, the husband of the ailing female diner steps up to settle their bill. Expecting an angry complaint or a scandal over food poisoning, Victoria is astonished when the customer offers an earnest apology and reveals a touching personal secret. Let us listen to their conversation in Russian first.'
 OPENER = "Now let us examine Victoria and the gentleman's polite discussion line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Deeply relieved to discover that pregnancy rather than food poisoning was the cause, Victoria happily confirms that the restaurant's reputation remains untarnished. Next time you watch the episode, listen for the Russian expressions for 'pregnant' and 'dish' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Здравствуйте, вам понравился наш ресторан сегодня?', 'Hello, did you like our restaurant today?', [], ''),
     ('guest', 'Вы уж извините нас, ради бога.', 'Please forgive us, for the love of God.', [(221, 'Вы уж извините нас, ради бога')], ''),

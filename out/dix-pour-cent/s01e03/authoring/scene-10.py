@@ -7,8 +7,7 @@ SCENE = 10
 TITLE = 'Trois mois sur un bateau  (Three Months on a Boat)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'laura': 'emilie', 'gabriel': 'theo'}
-LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel'}
+LABELS = {'gabriel': 'Gabriel', 'laura': 'Laura'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Then Laura found out that Mathias had given the very same script to her mother, Nathalie Baye: the director wants them both, to play a mother and her daughter. Laura loves the script. The problem is somewhere else, and she's about to tell Gabriel where. First, the French. Don't try to hold on to every word; just listen to how they sound."
@@ -34,21 +33,21 @@ STORY = [
     ('laura', 'Bon. Je vais lui parler.', 'Okay. I', [], ''),
 ]
 WALK = [
-    (0, None, "'What?' Short and blunt, the everyday way to react to a surprise."),
-    (1, None, "'Don't you like the script?' The negative goes around the verb for 'like'; before a vowel the first little word shrinks. Now listen carefully to the first word of Laura's answer."),
-    (2, None, "'Yes, I love it.' That's the special yes again, the one you use to contradict a negative question. Gabriel asked 'don't you like it?', so a plain yes would sound wrong. And the little word for 'it' sits before the verb."),
-    (3, None, "'But three months of shooting, on a boat, out at sea!' Literally 'in full sea'. You can hear she isn't thrilled."),
-    (4, None, "'I can't stand that.' This everyday French sentence pairs 'I' with 'that'."),
-    (5, None, "'I know an excellent acupuncturist for seasickness.' Literally 'against the sickness of the sea'. Gabriel, ever helpful, has completely misunderstood."),
-    (6, None, "'No. I'm talking about my mother.' In French you 'talk of' something. And the word for 'my' is feminine here, to go with 'mother'."),
-    (7, None, "'Three months! Do you know an acupuncturist for that?' She throws his own words back at him."),
-    (8, None, "'But you were happy!' The verb 'to be' in the form for describing how things were. And 'happy' has a feminine ending for Laura."),
+    (0, 'Quoi?', "'What?' Short and blunt, the everyday way to react to a surprise."),
+    (0, "Tu n'aimes pas le scénario?", "'Don't you like the script?' The negative goes around the verb for 'like'; before a vowel the first little word shrinks. Now listen carefully to the first word of Laura's answer."),
+    (1, None, "'Yes, I love it.' That's the special yes again, the one you use to contradict a negative question. Gabriel asked 'don't you like it?', so a plain yes would sound wrong. And the little word for 'it' sits before the verb."),
+    (2, None, "'But three months of shooting, on a boat, out at sea!' Literally 'in full sea'. You can hear she isn't thrilled."),
+    (3, None, "'I can't stand that.' This everyday French sentence pairs 'I' with 'that'."),
+    (4, None, "'I know an excellent acupuncturist for seasickness.' Literally 'against the sickness of the sea'. Gabriel, ever helpful, has completely misunderstood."),
+    (5, None, "'No. I'm talking about my mother.' In French you 'talk of' something. And the word for 'my' is feminine here, to go with 'mother'."),
+    (6, None, "'Three months! Do you know an acupuncturist for that?' She throws his own words back at him."),
+    (7, None, "'But you were happy!' The verb 'to be' in the form for describing how things were. And 'happy' has a feminine ending for Laura."),
     (9, None, "'But I cannot stay with her on a boat!' Same verb as 'like', and once more the little object word goes before the verb. Here it means 'her'."),
     (10, None, "'But I can't be with her on a boat, day and night!' The word for 'her' after 'with' is the same as the word for 'she'."),
-    (11, None, "'Wait.' A casual command; you'll hear it all the time."),
-    (12, None, "'Talk to Akerfelt first.' The phrase in the middle means 'first of all'. Gabriel thinks the director will win her over."),
-    (13, None, "'Afterwards, you'll see things differently.' The verb 'to go' plus 'see' talks about the near future: you are going to see."),
-    (14, None, "'If she's a genius, it'll be even harder to say no.' That's the real future tense: 'it will be'. And 'even more hard' is how French says 'even harder'. Laura is afraid of liking it too much."),
-    (15, None, "'Laura, you can't say no!' The agent's cry from the heart. A film with mother and daughter would be a big deal for the agency."),
-    (16, None, "'Okay. I'll talk to her.' Near future again, and that small word before the verb means 'to her'. For now, Laura gives in. Good. Let's listen to the whole call once more."),
+    (10, 'Attends.', "'Wait.' A casual command; you'll hear it all the time."),
+    (10, "Parle d'abord à Akerfelt.", "'Talk to Akerfelt first.' The phrase in the middle means 'first of all'. Gabriel thinks the director will win her over."),
+    (11, None, "'Afterwards, you'll see things differently.' The verb 'to go' plus 'see' talks about the near future: you are going to see."),
+    (12, None, "'If she's a genius, it'll be even harder to say no.' That's the real future tense: 'it will be'. And 'even more hard' is how French says 'even harder'. Laura is afraid of liking it too much."),
+    (13, None, "'Laura, you can't say no!' The agent's cry from the heart. A film with mother and daughter would be a big deal for the agency."),
+    (14, None, "'Okay. I'll talk to her.' Near future again, and that small word before the verb means 'to her'. For now, Laura gives in. Good. Let's listen to the whole call once more."),
 ]

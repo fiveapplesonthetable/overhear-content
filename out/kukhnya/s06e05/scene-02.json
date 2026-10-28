@@ -8,12 +8,10 @@
  "scene": 2,
  "title": "Проигрыш Михаила  (Mikhail's Gambling Loss)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja"
- },
  "labels": {
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "kostya": "Костя",
+  "mikhail": "Михаил"
  },
  "segments": [
   {
@@ -22,62 +20,62 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прошу прощения, здесь мой друг.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Витя, это правда ты пришёл?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Ты представляешь, я всё проиграл.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Я проиграл всё, что у меня было.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Зачем я вообще с ним сел играть?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вы его самого не выиграли?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Жаль, тогда я его забираю.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Настя, ты телефон дома забыла.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Спасибо тебе большое, дорогой.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Скажи мне правду, пожалуйста.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Гости за столиком уже ждут.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Иди быстрее прими у них заказ.",
    "gap": 0.9
   },
@@ -87,182 +85,182 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прошу прощения, здесь мой друг.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Excuse me, my friend is in here.' Notice how Russian expresses 'ask for' and 'friend' with crisp inflection rather than helper words.",
+   "t": "'Excuse me, my friend is in here.' Admitting that his friend is in here shows Barinov being honest for a change.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Витя, это правда ты пришёл?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vitya, is it really you who came?' The meaning hinges on 'this' working together with 'arrived' in spoken Russian.",
+   "t": "'Vitya, is it really you who came?' By checking whether it really Barinov who came, Mikhail presses Barinov for a straight answer. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Ты представляешь, я всё проиграл.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Can you imagine, I lost everything.' Notice how Russian expresses 'you' and 'lost' with crisp inflection rather than helper words.",
+   "t": "'Can you imagine, I lost everything.' Once can Barinov imagines he lost everything, Mikhail can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Я проиграл всё, что у меня было.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I lost everything that I had.' Here the Russian phrasing highlights 'I' before landing on 'was'.",
+   "t": "'I lost everything that I had.' Adding that he lost everything that he had fills in the missing piece for Barinov. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Зачем я вообще с ним сел играть?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Why did I even sit down to play with him?' Notice how Russian expresses 'why' and 'to play' with crisp inflection rather than helper words. Chef Barinov answers right away.",
+   "t": "'Why did I even sit down to play with him?' Here wondering why he even sits down to play with him shows Mikhail looking for the real truth. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вы его самого не выиграли?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Did you not win him too?' Here the Russian phrasing highlights 'you' before landing on 'won'.",
+   "t": "'Did you not win him too?' By asking whether Kostya not win him, Barinov presses Kostya for a straight answer.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Жаль, тогда я его забираю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Too bad, then I am taking him away.' In Russian, the idea of 'it is a pity' flows naturally into 'am taking' without extra filler words.",
+   "t": "'Too bad, then I am taking him away.' Mentioning that too bad then he is taking him away moves the talk in a new direction.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Настя, ты телефон дома забыла.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Nastya, you forgot your phone at home.' Here the Russian phrasing highlights 'Nastya' before landing on 'forgot'. Chef Barinov answers right away.",
+   "t": "'Nastya, you forgot your phone at home.' Kostya reminds Barinov that Barinov forgot Barinov's phone at home before the moment passes. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Спасибо тебе большое, дорогой.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Thank you very much, my dear.' Chef Barinov anchors the line on 'thank you', while 'expensive' completes the thought.",
+   "t": "'Thank you very much, my dear.' Over the room and the phone, Barinov answers Kostya without a second thought.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Скажи мне правду, пожалуйста.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Tell me the truth, please.' Here the Russian phrasing highlights 'say' before landing on 'please'.",
+   "t": "'Tell me the truth, please.' Telling Barinov to tell him the truth please is how Kostya lays out the situation for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Гости за столиком уже ждут.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'The guests at the table are already waiting.' Chef Barinov brings out the contrast between 'guests' and 'for' in a few short words.",
+   "t": "'The guests at the table are already waiting.' Barinov mentions that the guests at the table are already waiting so Kostya sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Иди быстрее прими у них заказ.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Go quickly and take their order.' Here the Russian phrasing highlights 'go' before landing on 'order'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Go quickly and take their order.' Going quickly and take their order moves the conversation forward without extra drama. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прошу прощения, здесь мой друг.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Витя, это правда ты пришёл?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Ты представляешь, я всё проиграл.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Я проиграл всё, что у меня было.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Зачем я вообще с ним сел играть?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вы его самого не выиграли?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Жаль, тогда я его забираю.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Настя, ты телефон дома забыла.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Спасибо тебе большое, дорогой.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Скажи мне правду, пожалуйста.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Гости за столиком уже ждут.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Иди быстрее прими у них заказ.",
    "gap": 0.9
   },
@@ -272,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Всего хорошего!",
    "gap": 0.3
   }

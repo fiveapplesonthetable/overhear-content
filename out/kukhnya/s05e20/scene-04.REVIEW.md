@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Тимур | Привет, Витя, свежая рыба из Японии нужна? | Hi, Vitya, do you need fresh fish from Japan? | #49 00:04:22: Привет<br>#50 00:04:26: Утром из Японии привезли | adapted: adapted |
-| 2 | Шеф | Подожди, это же ядовитая рыба фугу! | Wait, that is poisonous fugu fish! | #51 00:04:28: рыба фугу<br>#52 00:04:30: она ж ядовитая | adapted: adapted |
-| 3 | Тимур | Так я тебе отдам в два раза дешевле. | I will give it to you for half the price. | #53 00:04:33: Так я тебе отдам в два раза дешевле | adapted: adapted |
-| 4 | Шеф | Нет, Тимур, забирай её обратно. | No, Timur, take it back with you. | #54 00:04:37: Нет, забирай | adapted: adapted |
-| 5 | Шеф | Огузок, почему ты снова опаздываешь на смену? | Oguzok, why are you late for your shift again? | #56 00:04:43: Агузок<br>#57 00:04:47: ты теперь можешь опаздывать | adapted: adapted |
-| 6 | Аня | Вообще-то, шеф, мой паштет критику понравился. | Actually, Chef, the critic liked my pâté. | #58 00:04:49: Вообще-то, шеф, мой паштет<br>#58 00:04:49: критику понравился | adapted: adapted |
-| 7 | Аня | Именно из-за меня нас упомянули в гиде. | It was because of me that we were mentioned in the guide. | #59 00:04:52: И нас упомянули в гиде | adapted: adapted |
-| 8 | Шеф | Может, ему просто хлеб понравился или вода? | Maybe he simply liked the bread or the water? | #60 00:04:56: Может, ему хлеб понравился или вода | adapted: adapted |
-| 9 | Аня | Вы так говорите, потому что мне завидуете. | You say that because you are jealous of me. | #61 00:04:58: потому что вы мне завидуете | adapted: adapted |
-| 10 | Шеф | Ты решил, что готовишь лучше меня? | Have you decided that you cook better than me? | #65 00:05:06: решил, что ты лучше меня | adapted: adapted |
-| 11 | Шеф | Тогда я предлагаю тебе честное пари. | Then I propose an honest bet to you. | #68 00:05:14: Тогда предлагаю пари | adapted: adapted |
-| 12 | Шеф | Если ты лучше меня, ты приготовишь фугу. | If you are better than me, you will prepare fugu. | #69 00:05:15: Если ты действительно лучше меня, ты без проблем приготовишь фугу | adapted: adapted |
+| 1 | Тимур | Привет, Витя, свежая рыба из Японии нужна? | Hi, Vitya, do you need fresh fish from Japan? | #49: Привет<br>#50: Утром из Японии привезли | adapted: adapted |
+| 2 | Шеф | Подожди, это же ядовитая рыба фугу! | Wait, that is poisonous fugu fish! | #51: рыба фугу<br>#52: она ж ядовитая | adapted: adapted |
+| 3 | Тимур | Так я тебе отдам в два раза дешевле. | I will give it to you for half the price. | #53: Так я тебе отдам в два раза дешевле | adapted: adapted |
+| 4 | Шеф | Нет, Тимур, забирай её обратно. | No, Timur, take it back with you. | #54: Нет, забирай | adapted: adapted |
+| 5 | Шеф | Огузок, почему ты снова опаздываешь на смену? | Oguzok, why are you late for your shift again? | #56: Агузок<br>#57: ты теперь можешь опаздывать | adapted: adapted |
+| 6 | Макс | Вообще-то, шеф, мой паштет критику понравился. | Actually, Chef, the critic liked my pâté. | #58: Вообще-то, шеф, мой паштет<br>#58: критику понравился | adapted: adapted |
+| 7 | Макс | Именно из-за меня нас упомянули в гиде. | It was because of me that we were mentioned in the guide. | #59: И нас упомянули в гиде | adapted: adapted |
+| 8 | Шеф | Может, ему просто хлеб понравился или вода? | Maybe he simply liked the bread or the water? | #60: Может, ему хлеб понравился или вода | adapted: adapted |
+| 9 | Макс | Вы так говорите, потому что мне завидуете. | You say that because you are jealous of me. | #61: потому что вы мне завидуете | adapted: adapted |
+| 10 | Шеф | Ты решил, что готовишь лучше меня? | Have you decided that you cook better than me? | #65: решил, что ты лучше меня | adapted: adapted |
+| 11 | Шеф | Тогда я предлагаю тебе честное пари. | Then I propose an honest bet to you. | #68: Тогда предлагаю пари | adapted: adapted |
+| 12 | Шеф | Если ты лучше меня, ты приготовишь фугу. | If you are better than me, you will prepare fugu. | #69: Если ты действительно лучше меня, ты без проблем приготовишь фугу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vitya, do you need fresh fish from Japan?' Timur brings out the contrast between 'hello' and 'proper name' in a few short words.
-- 'Wait, that is poisonous fugu fish!' In Russian, the idea of 'wait' flows naturally into 'fugu' without extra filler words.
-- 'I will give it to you for half the price.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'cheaper'. Chef Barinov answers right away.
-- 'No, Timur, take it back with you.' The meaning hinges on 'no' working together with 'back' in spoken Russian.
-- 'Oguzok, why are you late for your shift again?' The grammar packs 'Rump' and 'shift' into a tight, idiomatic kitchen exchange.
-- 'Actually, Chef, the critic liked my pâté.' Max anchors the line on 'actually', while 'pleased' completes the thought.
-- 'It was because of me that we were mentioned in the guide.' Here the Russian phrasing highlights 'specifically' before landing on 'guide'.
-- 'Maybe he simply liked the bread or the water?' Chef Barinov anchors the line on 'maybe', while 'water' completes the thought.
-- 'You say that because you are jealous of me.' Max chooses the respectful plural 'you' alongside 'to envy' to keep a polite distance. Chef Barinov answers right away.
-- 'Have you decided that you cook better than me?' Notice how Russian puts 'to decide; to solve' and 'better' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Then I propose an honest bet to you.' In Russian, the idea of 'then' flows naturally into 'bet' without extra filler words.
-- 'If you are better than me, you will prepare fugu.' Spoken Russian keeps this brisk, leaning on 'if' and finishing on 'fugu'.
+- 'Hi, Vitya, do you need fresh fish from Japan?' Asking whether Barinov needs fresh fish is how Timur puts Barinov on the spot.
+- 'Wait, that is poisonous fugu fish!' Because that is poisonous fugu fish, Barinov does not bother softening the blow for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I will give it to you for half the price.' Since he will give it to Barinov for half the price, Timur does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'No, Timur, take it back with you.' Because Max should take it back with Max, Barinov treats the matter as settled.
+- 'Oguzok, why are you late for your shift again?' When Barinov asks if Oguzok why are Max late for Max's shift again, Max has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Actually, Chef, the critic liked my pâté.' Because the critic liked, Max treats the matter as settled.
+- 'It was because of me that we were mentioned in the guide.' Explaining that it was because of him that they were mentioned in the guide lays the cards on the table for Barinov.
+- 'Maybe he simply liked the bread or the water?' Wondering if maybe he simply liked the bread or the water shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You say that because you are jealous of me.' Claiming that Barinov says that because Barinov is jealous of him sounds confident, even if Barinov has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Have you decided that you cook better than me?' Here asking whether Max decided that Max cooks better than him shows Barinov looking for the real truth.
+- 'Then I propose an honest bet to you.' Between the shift and the bet, Barinov gives Max a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'If you are better than me, you will prepare fugu.' Realizing that if Max is better than him Max will prepare fugu changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.

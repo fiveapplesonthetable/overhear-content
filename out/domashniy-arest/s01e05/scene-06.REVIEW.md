@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Дядя Гриша | Женщина, вы мелкими буквами не читаете. Наша фирма в этом не виновата. | Ma'am, you don't read the small print. Our firm isn't to blame for that. | #203 00:11:14: Женщина<br>#203 00:11:14: вы мелкими буквами не читаете<br>#203 00:11:14: в этом не виновата | adapted: split into two short sentences |
-| 2 | Марина | Я уже вам сто раз говорила. Я брала двадцать тысяч, вернула тридцать! | I've already told you a hundred times. I borrowed twenty thousand, paid back thirty! | #204 00:11:20: Я уже вам сто раз говорила | adapted: numbers written out as words |
-| 3 | Марина | Кредит закрыт! | The loan is closed! | #204 00:11:20: кредит закрыт | verbatim |
-| 4 | Дядя Гриша | Будьте добры, верните сто пятьдесят тысяч рублей. | Be so kind, return one hundred and fifty thousand roubles. | #205 00:11:25: Будьте добры, верните<br>#205 00:11:25: тысяч рублей | adapted: number written out as words |
-| 5 | Марина | Я не понимаю, вы мне угрожаете? Что вы сделаете? | I don't understand, are you threatening me? What will you do? | #206 00:11:30: Я не понимаю<br>#206 00:11:30: мне угрожаете<br>#207 00:11:33: Что вы сделаете | verbatim |
-| 6 | Дядя Гриша | А мы многое что можем сделать. Вот, например, мальчик. | Oh, there's plenty we can do. Here, for example, is the boy. | #208 00:11:35: А мы многое что можем сделать<br>#209 00:11:38: Вот, например, мальчик | adapted: omitted crude threats in cues 210 and 213 |
-| 7 | Марина | Лёша! Давай, Лёша, уйди. | Lyosha! Come on, Lyosha, go inside. | #211 00:11:45: Леша<br>#220 00:12:05: Давай, Леша, уйди | verbatim |
-| 8 | Марина | Я сейчас в полицию позвоню! Пошли вон отсюда! | I'll call the police right now! Get out of here! | #214 00:11:52: полицию позвоню<br>#217 00:12:00: пошли вон отсюда | verbatim |
-| 9 | Марина | Убирайтесь отсюда! | Clear out of here! | #222 00:12:09: Убирайтесь отсюда | verbatim |
-| 10 | Марина | Верните деньги! | Return the money! | #224 00:12:11: Верните деньги | verbatim |
-| 11 | Марина | Ни копейки от меня не получите! | You won't get a single kopek from me! | #225 00:12:12: копейки от меня не получите | verbatim |
-| 12 | Дядя Гриша | Мы вернёмся! | We'll be back! | #229 00:12:17: Мы вернёмся | verbatim |
-| 13 | Марина | Ну, а вы что смотрите? | Well, and what are you staring at? | #230 00:12:18: Ну, а вы что смотрите | verbatim |
-| 14 | Марина | Я, между прочим, кредит на лечение сына брала! | By the way, I took the loan for my son's treatment! | #236 00:12:30: Я между прочим кредит на лечение сына брала | verbatim |
+| 1 | Дядя Гриша | Женщина, вы мелкими буквами не читаете. Наша фирма в этом не виновата. | Ma'am, you don't read the small print. Our firm isn't to blame for that. | #203: Женщина<br>#203: вы мелкими буквами не читаете<br>#203: в этом не виновата | adapted: split into two short sentences |
+| 2 | Марина | Я уже вам сто раз говорила. Я брала двадцать тысяч, вернула тридцать! | I've already told you a hundred times. I borrowed twenty thousand, paid back thirty! | #204: Я уже вам сто раз говорила | adapted: numbers written out as words |
+| 3 | Марина | Кредит закрыт! | The loan is closed! | #204: кредит закрыт | verbatim |
+| 4 | Дядя Гриша | Будьте добры, верните сто пятьдесят тысяч рублей. | Be so kind, return one hundred and fifty thousand roubles. | #205: Будьте добры, верните<br>#205: тысяч рублей | adapted: number written out as words |
+| 5 | Марина | Я не понимаю, вы мне угрожаете? Что вы сделаете? | I don't understand, are you threatening me? What will you do? | #206: Я не понимаю<br>#206: мне угрожаете<br>#207: Что вы сделаете | verbatim |
+| 6 | Дядя Гриша | А мы многое что можем сделать. Вот, например, мальчик. | Oh, there's plenty we can do. Here, for example, is the boy. | #208: А мы многое что можем сделать<br>#209: Вот, например, мальчик | adapted: omitted crude threats in cues 210 and 213 |
+| 7 | Марина | Лёша! Давай, Лёша, уйди. | Lyosha! Come on, Lyosha, go inside. | #211: Леша<br>#220: Давай, Леша, уйди | verbatim |
+| 8 | Марина | Я сейчас в полицию позвоню! Пошли вон отсюда! | I'll call the police right now! Get out of here! | #214: полицию позвоню<br>#217: пошли вон отсюда | verbatim |
+| 9 | Марина | Убирайтесь отсюда! | Clear out of here! | #222: Убирайтесь отсюда | verbatim |
+| 10 | Костик | Верните деньги! | Return the money! | #224: Верните деньги | verbatim |
+| 11 | Марина | Ни копейки от меня не получите! | You won't get a single kopek from me! | #225: копейки от меня не получите | verbatim |
+| 12 | Дядя Гриша | Мы вернёмся! | We'll be back! | #229: Мы вернёмся | verbatim |
+| 13 | Марина | Ну, а вы что смотрите? | Well, and what are you staring at? | #230: Ну, а вы что смотрите | verbatim |
+| 14 | Марина | Я, между прочим, кредит на лечение сына брала! | By the way, I took the loan for my son's treatment! | #236: Я между прочим кредит на лечение сына брала | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

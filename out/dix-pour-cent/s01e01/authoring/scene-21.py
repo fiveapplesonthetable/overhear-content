@@ -7,30 +7,29 @@ SCENE = 21
 TITLE = "Laisse-lui un peu d'espace  (Give Her Some Space)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "While Mathias was having tea with Miranda Jones, who told him firmly that Cécile, at forty-one, is too old for Tarantino, Gabriel was back at the agency, lost. Cécile has walked out on him, and he goes to the one colleague who never runs out of ideas: Andréa. Today we hear things from her side. As usual, the French comes first, and it's fine to understand only part of it."
 OPENER = "Let's walk through it. Gabriel comes into Andréa's office and admits, quite simply, that he is stuck."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's all for this scene; Gabriel will try to follow the advice, and his assistant Hervé will soon drag him out for a drink to take his mind off things. You followed a real office argument in French, so be pleased with yourself. See you next time!"
-CLOSING = ('lea', 'À demain, Gabriel!')
+CLOSING = ('andrea', 'À demain, Gabriel!')
 STORY = [
     ('gabriel', 'Andréa, je ne sais pas quoi faire.', 'Andréa, I don', [(604, 'Je ne sais pas quoi faire')], ''),
     ('gabriel', "Cécile est partie. Elle veut changer d'agent.", 'Cécile has left. She wants to change agents.', [], ''),
     ('gabriel', 'Tu ne peux pas lui parler?', 'Can', [(606, 'Tu ne peux pas lui parler')], ''),
-    ('lea', "Moi? Qu'est-ce que je peux lui dire?", 'Me? What can I say to her?', [(607, 'Moi ?')], ''),
+    ('andrea', "Moi? Qu'est-ce que je peux lui dire?", 'Me? What can I say to her?', [(607, 'Moi ?')], ''),
     ('gabriel', 'Je ne sais pas. Vous avez le même âge, non?', 'I do not know. You are the same age, right?', [(608, 'Je ne sais pas'), (609, 'Tu es une femme, vous avez le même âge')], ''),
-    ('lea', 'Le même âge?', 'The same age?', [], ''),
-    ('lea', "Toutes les vieilles dames s'entendent bien, c'est ça?", 'All old ladies get along, is that it?', [(610, "Toutes les vieilles dames s'entendent bien, c'est ça")], ''),
-    ('lea', "J'ai seulement trente-quatre ans. Merci beaucoup!", 'I', [(611, "j'ai seulement"), (611, 'Merci beaucoup')], ''),
+    ('andrea', 'Le même âge?', 'The same age?', [], ''),
+    ('andrea', "Toutes les vieilles dames s'entendent bien, c'est ça?", 'All old ladies get along, is that it?', [(610, "Toutes les vieilles dames s'entendent bien, c'est ça")], ''),
+    ('andrea', "J'ai seulement trente-quatre ans. Merci beaucoup!", 'I', [(611, "j'ai seulement"), (611, 'Merci beaucoup')], ''),
     ('gabriel', "Désolé, ce n'est pas ce que je voulais dire.", 'Sorry, that', [(612, 'Désolé'), (612, 'ce que je voulais dire')], ''),
     ('gabriel', 'Mais tu es tellement douée!', 'But you', [(613, 'Mais tu es tellement douée')], ''),
-    ('lea', "Écoute, laisse-lui un peu d'espace.", 'Listen, give her a bit of space.', [(614, "Laisse-lui un peu d'espace")], ''),
-    ('lea', "Tu vas seulement l'agacer.", 'You', [(615, "Tu vas seulement l'agacer")], ''),
+    ('andrea', "Écoute, laisse-lui un peu d'espace.", 'Listen, give her a bit of space.', [(614, "Laisse-lui un peu d'espace")], ''),
+    ('andrea', "Tu vas seulement l'agacer.", 'You', [(615, "Tu vas seulement l'agacer")], ''),
     ('gabriel', 'Alors, je ne fais rien?', 'So I don', [(616, 'Alors')], ''),
-    ('lea', "Attends. Au moins jusqu'à demain.", 'Wait. Until tomorrow at least.', [(617, "Attends. Au moins jusqu'à demain")], ''),
+    ('andrea', "Attends. Au moins jusqu'à demain.", 'Wait. Until tomorrow at least.', [(617, "Attends. Au moins jusqu'à demain")], ''),
 ]
 WALK = [
     (0, None, "'Andréa, I don't know what to do.' The verb for 'to know' is wrapped in the two-part negative, and then comes 'what to do'. A line you can use any time you're stuck."),

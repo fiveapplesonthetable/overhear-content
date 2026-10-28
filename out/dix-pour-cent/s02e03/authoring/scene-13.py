@@ -7,7 +7,6 @@ SCENE = 13
 TITLE = "L'échange de date  (Swapping Test Dates)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'norman': 'marcel', 'violaine': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman', 'violaine': 'Violaine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вика, а ты чего трубку не берёшь? | Vika, why are you not picking up the phone? | #193 00:15:02: Вика, а ты чего трубку не берешь | adapted: adapted |
-| 2 | Аня | Я сейчас всё объясню. | I will explain everything right now. | #194 00:15:05: Я сейчас все объясню | adapted: adapted |
-| 3 | Аня | Вчера я захожу в раздевалку. | Yesterday I walk into the locker room. | #195 00:15:07: вчера я захожу в раздевалку | adapted: adapted |
-| 4 | Аня | И вижу, как кто-то роется в наших вещах. | And I see someone rummaging through our things. | #195 00:15:07: и вижу, как кто-то роется в наших вещах | adapted: adapted |
-| 5 | Аня | Наверное, вор. Я за ним! | Probably a thief. I ran after him! | #196 00:15:12: Наверное, вор<br>#196 00:15:12: я за ним | adapted: adapted |
-| 6 | Аня | Когда я перебегал дорогу, меня сбил Иосиф Пригожин. | When I was running across the road, Iosif Prigozhin hit me. | #197 00:15:15: Когда я перебегал дорогу, меня сбил Иосиф Пригожин | adapted: adapted |
-| 7 | Вика | Лавров, теряешь квалификацию. | Lavrov, you are losing your touch. | #198 00:15:21: Лавров, теряешь квалификацию | adapted: adapted |
-| 8 | Вика | Какое-то некачественное враньё. | Some kind of low-quality lying. | #198 00:15:21: какое-то некачественное вранье | adapted: adapted |
-| 9 | Аня | Я тебе правду сказал! Что мне сделать? | I told you the truth! What should I do? | #199 00:15:25: Я тебе правда сказал<br>#200 00:15:27: Что мне сделать | adapted: adapted |
-| 10 | Вика | А вот пусть Иосиф Пригожин приедет и расскажет. | Well let Iosif Prigozhin come here and tell it. | #201 00:15:29: А вот пусть Иосиф Пригожин приедет и расскажет | adapted: adapted |
-| 11 | Аня | То есть Пригожину ты поверишь, а мне нет? | So you will believe Prigozhin, and not me? | #202 00:15:32: То есть, Пригожину ты поверишь, а мне нет | adapted: adapted |
-| 12 | Костя | Слушай, ты не мог сказать, что Пригожин коньяк разбил? | Listen, could you not say that Prigozhin broke the cognac? | #203 00:15:37: Слушай, ты не мог вчера сказать, что Иосиф Пригожин коньяк разбил | adapted: adapted |
+| 1 | Макс | Вика, а ты чего трубку не берёшь? | Vika, why are you not picking up the phone? | #193: Вика, а ты чего трубку не берешь | adapted: adapted |
+| 2 | Макс | Я сейчас всё объясню. | I will explain everything right now. | #194: Я сейчас все объясню | adapted: adapted |
+| 3 | Макс | Вчера я захожу в раздевалку. | Yesterday I walk into the locker room. | #195: вчера я захожу в раздевалку | adapted: adapted |
+| 4 | Макс | И вижу, как кто-то роется в наших вещах. | And I see someone rummaging through our things. | #195: и вижу, как кто-то роется в наших вещах | adapted: adapted |
+| 5 | Макс | Наверное, вор. Я за ним! | Probably a thief. I ran after him! | #196: Наверное, вор<br>#196: я за ним | adapted: adapted |
+| 6 | Макс | Когда я перебегал дорогу, меня сбил Иосиф Пригожин. | When I was running across the road, Iosif Prigozhin hit me. | #197: Когда я перебегал дорогу, меня сбил Иосиф Пригожин | adapted: adapted |
+| 7 | Вика | Лавров, теряешь квалификацию. | Lavrov, you are losing your touch. | #198: Лавров, теряешь квалификацию | adapted: adapted |
+| 8 | Вика | Какое-то некачественное враньё. | Some kind of low-quality lying. | #198: какое-то некачественное вранье | adapted: adapted |
+| 9 | Макс | Я тебе правду сказал! Что мне сделать? | I told you the truth! What should I do? | #199: Я тебе правда сказал<br>#200: Что мне сделать | adapted: adapted |
+| 10 | Вика | А вот пусть Иосиф Пригожин приедет и расскажет. | Well let Iosif Prigozhin come here and tell it. | #201: А вот пусть Иосиф Пригожин приедет и расскажет | adapted: adapted |
+| 11 | Макс | То есть Пригожину ты поверишь, а мне нет? | So you will believe Prigozhin, and not me? | #202: То есть, Пригожину ты поверишь, а мне нет | adapted: adapted |
+| 12 | Костя | Слушай, ты не мог сказать, что Пригожин коньяк разбил? | Listen, could you not say that Prigozhin broke the cognac? | #203: Слушай, ты не мог вчера сказать, что Иосиф Пригожин коньяк разбил | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, why are you not picking up the phone?' Max addresses the listener with the informal singular 'you' alongside 'do you take'.
-- 'I will explain everything right now.' Notice how Russian expresses 'I' and 'will explain' with crisp inflection rather than helper words.
-- 'Yesterday I walk into the locker room.' Here the Russian phrasing highlights 'yesterday' before landing on 'locker room'.
-- 'And I see someone rummaging through our things.' Max anchors the line on 'and', while 'thing' completes the thought.
-- 'Probably a thief. I ran after him!' Max anchors the line on 'probably', while 'him' completes the thought.
-- 'When I was running across the road, Iosif Prigozhin hit me.' Max brings out the contrast between 'when' and 'I' in a few short words. Vika answers right away.
-- 'Lavrov, you are losing your touch.' The meaning hinges on 'proper name' working together with 'qualification' in spoken Russian.
-- 'Some kind of low-quality lying.' In Russian, the idea of 'some kind of' flows naturally into 'lying' without extra filler words.
-- 'I told you the truth! What should I do?' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to do'. Vika answers right away.
-- 'Well let Iosif Prigozhin come here and tell it.' Notice how Russian expresses 'and' and 'will tell' with crisp inflection rather than helper words.
-- 'So you will believe Prigozhin, and not me?' Max raises the pitch on 'no' to turn the phrase into a direct spoken question.
-- 'Listen, could you not say that Prigozhin broke the cognac?' The '-l' ending on the verb meaning 'broke' places the action in the masculine past tense.
+- 'Vika, why are you not picking up the phone?' Here wondering why Kostya not picking up the phone is shows Max looking for the real truth.
+- 'I will explain everything right now.' Realizing that he will explain everything right now changes how Max handles the situation.
+- 'Yesterday I walk into the locker room.' Noting that yesterday he walks into the locker room keeps Max's side of the story simple and clear.
+- 'And I see someone rummaging through our things.' Seeing someone rummaging through their things is how Max lays out the situation for Kostya.
+- 'Probably a thief. I ran after him!' Around the hotel and room, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'When I was running across the road, Iosif Prigozhin hit me.' Saying that when he was running across the road Iosif Prigozhin hit him is how Max sets the tone with Kostya.
+- 'Lavrov, you are losing your touch.' Once Kostya is losing Kostya's touch, Vika can finally tell Kostya what she means.
+- 'Some kind of low-quality lying.' Over the point and the car, Vika answers Kostya without a second thought.
+- 'I told you the truth! What should I do?' Max asks whether he told Kostya the truth, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well let Iosif Prigozhin come here and tell it.' Explaining that Kostya should let Iosif Prigozhin come here and tell it lays the cards on the table for Kostya.
+- 'So you will believe Prigozhin, and not me?' Wondering if Kostya will believe Prigozhin and not him shows Max caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Listen, could you not say that Prigozhin broke the cognac?' Here checking whether Max not say that Prigozhin broke the cognac shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

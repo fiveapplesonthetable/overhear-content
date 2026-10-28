@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s04e07-scene-13.
 ID = 'kukhnya-s04e07-scene-13'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 7
 SCENE = 13
-TITLE = "Коварный уксус  (Treacherous Vinegar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Коварный уксус  (Treacherous Vinegar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "german": "anja", "senya": "angelina"}
-LABELS = {"german": "Герман", "senya": "Сеня"}
+LABELS = {'german': 'Герман', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.07'
 SOURCE_FILE = 'sources/kukhnya/s04/e07.ru.srt'
-
 INTRO = "Once Barinov's onion soup is ready, German Land pulls Senya aside. Reminding Senya that he has been acting as German's kitchen informant—and that Barinov will leave tomorrow while German remains head chef—German orders Senya to pour vinegar into Barinov's soup!"
-
+OPENER = "Let's break down German's blackmail of Senya in the kitchen line by line."
+TRANSITION = "Now let's listen to German pressuring Senya in the kitchen again."
+OUTRO = "Intimidated by German's threat, Senya pours the vinegar into the soup—right as Fedya catches him in the act. Until next time!"
+CLOSING = ('german', 'Увидимся!')
 STORY = [
     ('senya', 'Фирменный луковый суп для гостя полностью готов.', 'The signature onion soup for the guest is completely ready.', [(201, 'Луковый суп готов.')], 'adapted'),
     ('german', 'Арсений, вы были моими ушами и глазами.', 'Arseny, you have been my ears and eyes.', [(203, 'Вы были моими ушами и глазами.')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('german', 'И как долго, зависит только от меня!', 'And for how long depends only on me!', [(214, 'И как долго, зависит только от меня.')], ''),
     ('senya', 'Ладно, давайте сюда ваш уксус, я налью.', 'Fine, give me your vinegar here, I will pour it.', [], 'new'),
 ]
-
-OPENER = "Let's break down German's blackmail of Senya in the kitchen line by line."
-
 WALK = [
-    (0, None, "'The signature onion soup for the guest is completely ready.' Masculine short adjective 'ready' agrees with 'soup'."),
-    (1, None, "'Arseny, you have been my ears and eyes.' Here German anchors the thought on 'to be; there is' and finishes on 'eyes', keeping the spoken rhythm brisk and natural."),
-    (2, None, "'Now the time has come to become my right hand.' In everyday Russian, 'now, nowadays' flows straight into 'hand' without extra linking words."),
-    (3, None, "'I need one small favor from you.' Neuter short adjective 'needed' agrees with the neuter noun 'matter/favor'."),
-    (4, None, "'Pour this sour vinegar into the onion soup.' Notice how Russian puts 'to pour' and 'soup' together in a short, direct phrase where word endings show how the ideas connect."),
-    (5, None, "'German Mikhailovich, I cannot do that!' Even prankster Senya balks at sabotaging Chef Barinov's dish."),
-    (6, None, "'After all, that is not decent at all, right?' Manner adverb expresses a moral standard of behavior."),
-    (7, None, "'Wait, Arseny, Barinov will leave here tomorrow already.' German switches to a cold, practical threat."),
-    (8, None, "'And I will remain here as your head chef!' Notice how Russian puts 'will stay' and 'chef' together in a short, direct phrase where word endings show how the ideas connect."),
-    (9, None, "'And all of you still have to work with me.' Here German anchors the thought on 'still, yet, more' and finishes on 'to work', keeping the spoken rhythm brisk and natural."),
-    (10, None, "'And for how long depends only on me!' In everyday Russian, 'how / as' flows straight into 'depends' without extra linking words."),
-    (11, None, "'Fine, give me your vinegar here, I will pour it.' Caught between two bosses, Senya reluctantly takes the bottle of vinegar."),
+    (0, None, "'The signature onion soup for the guest is completely ready.' Even though the signature onion soup for the guest is completely ready, Senya keeps a steady face in front of German."),
+    (1, None, '\'Arseny, you have been my ears and eyes.\' Admitting that someone Senya has been his ears and eyes shows German being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (2, None, "'Now the time has come to become my right hand.' Saying that the time has come to become his right hand is how German sets the tone with Senya."),
+    (3, None, "'I need one small favor from you.' Needing one small favor from Senya moves the conversation forward without extra drama."),
+    (4, None, "'Pour this sour vinegar into the onion soup.' Here pouring this sour vinegar into the onion soup sets up the next turn in their exchange."),
+    (5, None, "'German Mikhailovich, I cannot do that!' Saying that he cannot do is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (6, None, "'After all, that is not decent at all, right?' Asking whether after all that is not decent at all right puts German right on the defensive."),
+    (7, None, "'Wait, Arseny, Barinov will leave here tomorrow already.' Mentioning that someone Barinov will leave here tomorrow already moves the talk in a new direction."),
+    (8, None, "'And I will remain here as your head chef!' Insisting that he will remain here as Senya's head shows German is not backing down. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (9, None, "'And all of you still have to work with me.' Because all of Senya still have to work with him, German treats the matter as settled."),
+    (10, None, "'And for how long depends only on me!' Around the soup and truth, German makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (11, None, '\'Fine, give me your vinegar here, I will pour it.\' Senya mentions that fine give him German\'s vinegar here he will pour it so German sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
 ]
-
-TRANSITION = "Now let's listen to German pressuring Senya in the kitchen again."
-OUTRO = "Intimidated by German's threat, Senya pours the vinegar into the soup—right as Fedya catches him in the act. Until next time!"
-CLOSING = ("german", "Увидимся!")

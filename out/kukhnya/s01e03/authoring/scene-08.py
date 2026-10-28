@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 8
-TITLE = "Знакомься, это Макс  (Meet Max)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Знакомься, это Макс  (Meet Max)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "vadim": "anja"}
-LABELS = {"vika": "Вика", "anya": "Макс", "vadim": "Вадим"}
+LABELS = {'max': 'Макс', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'Outside the dining hall, Max attempts an awkward conversation with art director Victoria about keeping their private encounter secret. Irritated by his clumsy assumptions, Victoria uses him to ward off her persistent ex-husband Vadim by introducing Max as her new boyfriend. Listen to the dialogue in Russian first.'
 OPENER = "Let's review this awkward hallway confrontation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Trapped in a spontaneous romance of convenience, Max and Victoria must now play the part in front of Vadim. See you next time!'
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Вика, нам нужно спокойно поговорить.', 'Vika, we need to talk calmly.', [], ''),
+    ('max', 'Вика, нам нужно спокойно поговорить.', 'Vika, we need to talk calmly.', [], ''),
     ('vika', 'Моя личная жизнь тебя не касается.', 'My personal life is none of your business.', [(199, 'Моя личная жизнь тебя не касается')], ''),
-    ('anya', 'Давай не будем никому ничего рассказывать.', 'Let us not tell anyone anything.', [(202, 'не надо им об этом рассказывать')], ''),
+    ('max', 'Давай не будем никому ничего рассказывать.', 'Let us not tell anyone anything.', [(202, 'не надо им об этом рассказывать')], ''),
     ('vika', 'Ты боишься, что я расскажу коллегам?', 'Are you afraid that I will tell colleagues?', [(204, 'Ты боишься, что я расскажу')], ''),
-    ('anya', 'Я? Нет, мне вообще всё равно.', 'Me? No, I do not care at all.', [(205, 'Я? Да прям')], ''),
-    ('anya', 'Между нами всё равно ничего серьёзного нет.', 'There is nothing serious between us anyway.', [(207, 'у нас'), (208, 'а так')], ''),
+    ('max', 'Я? Нет, мне вообще всё равно.', 'Me? No, I do not care at all.', [(205, 'Я? Да прям')], ''),
+    ('max', 'Между нами всё равно ничего серьёзного нет.', 'There is nothing serious between us anyway.', [(207, 'у нас'), (208, 'а так')], ''),
     ('vika', 'Ах вот как ты заговорил!', 'Oh, so that is how you speak now!', [], ''),
     ('vadim', 'Вика, постой! Кто этот молодой человек?', 'Vika, wait! Who is this young man?', [(210, 'ты хотел знать')], ''),
     ('vika', 'Вадим, ты хотел знать правду?', 'Vadim, did you want to know the truth?', [(210, 'Вадим, ты хотел знать')], ''),
     ('vadim', 'Да, я хочу знать всё.', 'Yes, I want to know everything.', [], ''),
     ('vika', 'Вот, познакомься с моим парнем.', 'Here, meet my boyfriend.', [(211, 'Вот, познакомься')], ''),
     ('vika', 'Это мой Макс, мы теперь вместе!', 'This is my Max, we are together now!', [(212, 'Это мой Максик')], ''),
-    ('anya', 'Очень приятно познакомиться, уважаемый Вадим.', 'Very nice to meet you, esteemed Vadim.', [], ''),
+    ('max', 'Очень приятно познакомиться, уважаемый Вадим.', 'Very nice to meet you, esteemed Vadim.', [], ''),
 ]
 WALK = [
     (0, None, "'Vika, we need to talk calmly.' Max puts the word for 'it is necessary' together with 'calmly' and 'to talk' in a crisp, natural spoken turn of phrase."),

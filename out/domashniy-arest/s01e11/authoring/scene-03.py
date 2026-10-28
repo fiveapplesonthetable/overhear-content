@@ -1,33 +1,35 @@
-# domashniy-arest/s01e11/scene-03.py
-ID = "domashniy-arest-s01e11-scene-03"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e11-scene-03.
+ID = 'domashniy-arest-s01e11-scene-03'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 11
 SCENE = 3
-TITLE = "Согласие Нины  (Nina Says Yes)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.11"
-SOURCE_FILE = "sources/domashniy-arest/s01/e11.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "nina": "angelina"}
-LABELS = {"samson": "Самсон", "nina": "Нина"}
+TITLE = 'Согласие Нины  (Nina Says Yes)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.11'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e11.ru.dual.srt'
 INTRO = "In this concluding scene of the nineteen-nineties flashback, Samson continues to wait patiently for Nina. Moved by his stubborn dedication, Nina steps back outside to talk to him once more. When Ivan asks her one last time if her answer might be yes, Nina smiles and accepts his proposal. Let's listen to their conversation in Russian first."
-STORY = [
-    ("samson", "Нина, ты вернулась ко мне назад?", "Nina, did you come back to me?", [], "transition from previous scene"),
-    ("nina", "Ты всё ещё стоишь на холоде.", "You are still standing in the cold.", [], ""),
-    ("samson", "Я же обещал, что буду ждать.", "I promised that I would wait.", [], ""),
-    ("nina", "Ты действительно совершенно неисправимый человек.", "You are truly a completely incorrigible person.", [], ""),
-    ("samson", "Так может быть, всё-таки да?", "So maybe after all it is yes?", [(54, 'так может все-таки да')], ""),
-    ("nina", "Ну хорошо, может быть и да!", "Well alright, maybe it is yes!", [(55, 'Может и да')], ""),
-    ("samson", "Ты правда согласна стать моей женой?", "Are you truly willing to become my wife?", [], ""),
-    ("nina", "Да, я согласна выйти за тебя.", "Yes, I agree to marry you.", [], ""),
-    ("samson", "Тогда надевай скорее это кольцо!", "Then put on this ring quickly!", [], ""),
-    ("nina", "Оно действительно очень красивое и блестит.", "It really is very beautiful and shines.", [], ""),
-    ("samson", "Теперь мы вместе пойдём в ЗАГС.", "Now we will go to the registry office together.", [], ""),
-    ("nina", "И подадим наше первое общее заявление.", "And submit our first joint application.", [], ""),
-    ("samson", "Я обещаю быть самым лучшим мужем!", "I promise to be the very best husband!", [], ""),
-]
 OPENER = "Now let's examine Nina's decision to accept Samson's proposal line by line."
+TRANSITION = "Now let's listen to their reconciliation once more without pause."
+OUTRO = "Nina accepts Ivan's proposal, marking the beginning of their long and tumultuous marriage. Next comes the opening credits and the satirical theme song. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Нина, ты вернулась ко мне назад?', 'Nina, did you come back to me?', [], 'transition from previous scene'),
+    ('nina', 'Ты всё ещё стоишь на холоде.', 'You are still standing in the cold.', [], ''),
+    ('samson', 'Я же обещал, что буду ждать.', 'I promised that I would wait.', [], ''),
+    ('nina', 'Ты действительно совершенно неисправимый человек.', 'You are truly a completely incorrigible person.', [], ''),
+    ('samson', 'Так может быть, всё-таки да?', 'So maybe after all it is yes?', [(54, 'так может все-таки да')], ''),
+    ('nina', 'Ну хорошо, может быть и да!', 'Well alright, maybe it is yes!', [(55, 'Может и да')], ''),
+    ('samson', 'Ты правда согласна стать моей женой?', 'Are you truly willing to become my wife?', [], ''),
+    ('nina', 'Да, я согласна выйти за тебя.', 'Yes, I agree to marry you.', [], ''),
+    ('samson', 'Тогда надевай скорее это кольцо!', 'Then put on this ring quickly!', [], ''),
+    ('nina', 'Оно действительно очень красивое и блестит.', 'It really is very beautiful and shines.', [], ''),
+    ('samson', 'Теперь мы вместе пойдём в ЗАГС.', 'Now we will go to the registry office together.', [], ''),
+    ('nina', 'И подадим наше первое общее заявление.', 'And submit our first joint application.', [], ''),
+    ('samson', 'Я обещаю быть самым лучшим мужем!', 'I promise to be the very best husband!', [], ''),
+]
 WALK = [
     (0, None, "'Nina, did you come back to me?' Samson greets her return with an affectionate past verb."),
     (1, None, "'You are still standing in the cold.' Nina observes his enduring patience."),
@@ -43,6 +45,3 @@ WALK = [
     (11, None, "'And submit our first joint application.' Nina looks forward to formalizing their marriage."),
     (12, None, "'I promise to be the very best husband!' Samson makes an earnest vow using a superlative adjective phrase."),
 ]
-TRANSITION = "Now let's listen to their reconciliation once more without pause."
-OUTRO = "Nina accepts Ivan's proposal, marking the beginning of their long and tumultuous marriage. Next comes the opening credits and the satirical theme song. See you next time!"
-CLOSING = ("samson", "Пока!")

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Немедленно покиньте это заведение. | Immediately leave this establishment. | #272 00:19:19: Немедленно покиньте это заведение | adapted: adapted |
-| 2 | Гость | Вы нам тут очень сильно мешаете. | You are bothering us very much here. | #273 00:19:21: Вы нам мешаете | adapted: adapted |
-| 3 | Аня | Почему это мы должны покинуть заведение? | Why is it that we must leave the establishment? | #273 00:19:21: мы должны покинуть заведение | adapted: adapted |
-| 4 | Гость | Нам вообще обещали весь этот ресторан. | We were promised this entire restaurant. | #274 00:19:25: обещали, что ресторан будет | adapted: adapted |
-| 5 | Вика | Пожалуйста, идите к себе за столик. | Please, go to your table. | #275 00:19:28: идите к себе за столик | adapted: adapted |
-| 6 | Вика | И друзей своих тоже заберите, пожалуйста. | And take your friends with you too, please. | #275 00:19:28: и друзей своих заберите | adapted: adapted |
-| 7 | Гость | Да я обязательно буду на вас жаловаться! | I will definitely complain about you! | #276 00:19:33: Да я буду жаловаться | adapted: adapted |
-| 8 | Вика | Друзья, давайте мирно уладим это недоразумение. | Friends, let us peacefully settle this misunderstanding. | #277 00:19:34: Друзья, давайте как-то мирно уладим это недоразумение | adapted: adapted |
-| 9 | Гость | Если вы не против, вы сами и уходите. | If you do not mind, you leave yourselves. | #278 00:19:38: Если вы не против, вы и уходите | adapted: adapted |
-| 10 | Аня | Положите, пожалуйста, этот острый нож. | Please put down that sharp knife. | #283 00:19:54: Нож | adapted: adapted |
-| 11 | Гость | Честное слово, я это совсем случайно. | Honestly, I did that completely by accident. | #284 00:19:56: я случайно | adapted: adapted |
-| 12 | Аня | Что здесь у вас происходит? | What is going on here with you? | #285 00:19:59: Что здесь происходит | adapted: adapted |
+| 1 | Гость | Немедленно покиньте это заведение. | Immediately leave this establishment. | #272: Немедленно покиньте это заведение | adapted: adapted |
+| 2 | Гость | Вы нам тут очень сильно мешаете. | You are bothering us very much here. | #273: Вы нам мешаете | adapted: adapted |
+| 3 | Макс | Почему это мы должны покинуть заведение? | Why is it that we must leave the establishment? | #273: мы должны покинуть заведение | adapted: adapted |
+| 4 | Гость | Нам вообще обещали весь этот ресторан. | We were promised this entire restaurant. | #274: обещали, что ресторан будет | adapted: adapted |
+| 5 | Вика | Пожалуйста, идите к себе за столик. | Please, go to your table. | #275: идите к себе за столик | adapted: adapted |
+| 6 | Вика | И друзей своих тоже заберите, пожалуйста. | And take your friends with you too, please. | #275: и друзей своих заберите | adapted: adapted |
+| 7 | Гость | Да я обязательно буду на вас жаловаться! | I will definitely complain about you! | #276: Да я буду жаловаться | adapted: adapted |
+| 8 | Вика | Друзья, давайте мирно уладим это недоразумение. | Friends, let us peacefully settle this misunderstanding. | #277: Друзья, давайте как-то мирно уладим это недоразумение | adapted: adapted |
+| 9 | Гость | Если вы не против, вы сами и уходите. | If you do not mind, you leave yourselves. | #278: Если вы не против, вы и уходите | adapted: adapted |
+| 10 | Макс | Положите, пожалуйста, этот острый нож. | Please put down that sharp knife. | #283: Нож | adapted: adapted |
+| 11 | Гость | Честное слово, я это совсем случайно. | Honestly, I did that completely by accident. | #284: я случайно | adapted: adapted |
+| 12 | Макс | Что здесь у вас происходит? | What is going on here with you? | #285: Что здесь происходит | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Immediately leave this establishment.' the guest anchors the line on 'immediately', while 'establishment' completes the thought.
-- 'You are bothering us very much here.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'bother'. Max answers right away.
-- 'Why is it that we must leave the establishment?' Max anchors the line on 'why', while 'establishment' completes the thought.
-- 'We were promised this entire restaurant.' The grammar packs 'us' and 'restaurant' into a tight, idiomatic kitchen exchange.
-- 'Please, go to your table.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'table'.
-- 'And take your friends with you too, please.' Notice how Russian expresses 'and' and 'please' with crisp inflection rather than helper words.
-- 'I will definitely complain about you!' In everyday Russian, 'definitely' flows straight into 'complain' without extra linking words.
-- 'Friends, let us peacefully settle this misunderstanding.' Vika brings out the contrast between 'friend' and 'let's' in a few short words. the guest answers right away.
-- 'If you do not mind, you leave yourselves.' Here the Russian phrasing highlights 'if' before landing on 'leave'.
-- 'Please put down that sharp knife.' The grammar packs 'put' and 'knife' into a tight, idiomatic kitchen exchange.
-- 'Honestly, I did that completely by accident.' The meaning hinges on 'honest' working together with 'by accident' in spoken Russian. Max answers right away.
-- 'What is going on here with you?' In Russian, the idea of 'what' flows naturally into 'is happening' without extra filler words.
+- 'Immediately leave this establishment.' With the peace and scandal in play, the guest keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You are bothering us very much here.' Even though Max is bothering them very much here, the guest keeps a steady face in front of Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Why is it that we must leave the establishment?' Wondering why it that they must leave the establishment is cuts straight through the tension between Max and the guest.
+- 'We were promised this entire restaurant.' Saying that they were promised this entire restaurant is how the guest sets the tone with Max.
+- 'Please, go to your table.' Pointing out that the guest should go to the guest's table gives the guest a sobering reality check.
+- 'And take your friends with you too, please.' Vika explains that the guest should take the guest's friends with the guest too please, keeping her voice calm and direct.
+- 'I will definitely complain about you!' Once he will definitely complain about Max, the guest makes sure Max hears every word. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Friends, let us peacefully settle this misunderstanding.' Mentioning that they should peacefully settle this misunderstanding moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'If you do not mind, you leave yourselves.' Mentioning that if Max does not mind Max leaves yourselves moves the talk in a new direction.
+- 'Please put down that sharp knife.' Realizing that the guest should put down that sharp knife changes how Max handles the situation.
+- 'Honestly, I did that completely by accident.' Because he did that completely by accident, the guest treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'What is going on here with you?' Asking what going on here with the guest is is how Max puts the guest on the spot.

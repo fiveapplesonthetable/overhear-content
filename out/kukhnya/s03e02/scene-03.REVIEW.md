@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Якорь мне в душу! | Well, blow me down! | #34 00:03:17: Якорь мне в душу | verbatim |
-| 2 | Сеня | Оставила сама, не помню где. | I left it myself, I don't remember where. | #36 00:03:24: Оставила сама, не помню где | verbatim |
-| 3 | Костя | Настя, ты где? | Nastya, where are you? | #37 00:03:56: Настя, ты где | verbatim |
-| 4 | Сеня | Яблочко захотелось. | I felt like having a little apple. | #38 00:04:01: Яблочко захотелось | verbatim |
-| 5 | Костя | Давай почищу. | Let me peel it. | #39 00:04:03: Давай почищу | verbatim |
-| 6 | Сеня | Нет, иди спать. | No, go to sleep. | #40 00:04:06: Иди спать | adapted: adapted |
-| 7 | Сеня | Принесли ему эту рыбу фугу. | They brought him that fugu fish. | #41 00:04:23: Принесли ему эту рыбу-фугу | adapted: adapted |
-| 8 | Сеня | Он съел и помер. | He ate it and died. | #42 00:04:25: Он съел и помер | verbatim |
-| 9 | Сеня | Потом оказался инсульт. | Then it turned out to be a stroke. | #43 00:04:26: Потом оказался инсульт | verbatim |
-| 10 | Сеня | Но штуку я всё равно выиграл. | But I still won a grand anyway. | #44 00:04:28: Но штуку я все равно выиграл | verbatim |
-| 11 | Сеня | Отдай! | Hand it over! | #44 00:04:28: отдай | adapted: adapted |
-| 12 | Костя | Красиво! | Nicely done! | #45 00:04:41: Красиво | verbatim |
+| 1 | Сеня | Якорь мне в душу! | Well, blow me down! | #34: Якорь мне в душу | verbatim |
+| 2 | Сеня | Оставила сама, не помню где. | I left it myself, I don't remember where. | #36: Оставила сама, не помню где | verbatim |
+| 3 | Костя | Настя, ты где? | Nastya, where are you? | #37: Настя, ты где | verbatim |
+| 4 | Настя | Яблочко захотелось. | I felt like having a little apple. | #38: Яблочко захотелось | verbatim |
+| 5 | Костя | Давай почищу. | Let me peel it. | #39: Давай почищу | verbatim |
+| 6 | Настя | Нет, иди спать. | No, go to sleep. | #40: Иди спать | adapted: adapted |
+| 7 | Сеня | Принесли ему эту рыбу фугу. | They brought him that fugu fish. | #41: Принесли ему эту рыбу-фугу | adapted: adapted |
+| 8 | Сеня | Он съел и помер. | He ate it and died. | #42: Он съел и помер | verbatim |
+| 9 | Сеня | Потом оказался инсульт. | Then it turned out to be a stroke. | #43: Потом оказался инсульт | verbatim |
+| 10 | Сеня | Но штуку я всё равно выиграл. | But I still won a grand anyway. | #44: Но штуку я все равно выиграл | verbatim |
+| 11 | Сеня | Отдай! | Hand it over! | #44: отдай | adapted: adapted |
+| 12 | Костя | Красиво! | Nicely done! | #45: Красиво | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, blow me down!' The meaning hinges on 'anchor' working together with 'soul' in spoken Russian.
-- 'I left it myself, I don't remember where.' Senya brings out the contrast between 'left' and 'myself' in a few short words.
-- 'Nastya, where are you?' Kostya raises the pitch on 'where' to turn the phrase into a direct spoken question.
-- 'I felt like having a little apple.' Notice how Russian expresses 'little apple' and 'felt like having' with crisp inflection rather than helper words. Kostya answers right away.
-- 'Let me peel it.' Here the Russian phrasing highlights 'come on' before landing on 'will peel'.
-- 'No, go to sleep.' Nastya brings out the contrast between 'no' and 'go' in a few short words.
-- 'They brought him that fugu fish.' The plural past ending '-li' on the verb for 'brought' covers a group or the polite 'you'.
-- 'He ate it and died.' Senya brings out the contrast between 'he' and 'ate' in a few short words.
-- 'Then it turned out to be a stroke.' In everyday Russian, 'then, afterwards' flows straight into 'stroke' without extra linking words.
-- 'But I still won a grand anyway.' Spoken Russian keeps this brisk, leaning on 'but' and finishing on 'won'.
-- 'Hand it over!' Senya anchors the line on 'hand over', while 'hand over' completes the thought.
-- 'Nicely done!' Notice how Russian expresses 'beautifully' and 'beautifully' with crisp inflection rather than helper words.
+- 'Well, blow me down!' With the truth and conversation at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I left it myself, I don't remember where.' Noting that he left it himself he does not remember keeps Senya's side of the story simple and clear.
+- 'Nastya, where are you?' Over the restaurant and the morning, Kostya presses Nastya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I felt like having a little apple.' Admitting that she felt like having a little apple shows Nastya being honest for a change.
+- 'Let me peel it.' Saying that Nastya should let him peel it is how Kostya sets the tone with Nastya.
+- 'No, go to sleep.' Once Kostya should go to sleep, Nastya can finally tell Kostya what she means.
+- 'They brought him that fugu fish.' Adding that they brought him that fugu fish fills in the missing piece for Kostya.
+- 'He ate it and died.' Senya tells Kostya that he ate it and died without dressing it up.
+- 'Then it turned out to be a stroke.' Since it turned out to be a stroke, Senya does not waste words on excuses.
+- 'But I still won a grand anyway.' Mentioning that he still won a grand anyway moves the talk in a new direction.
+- 'Hand it over!' Senya declares that Kostya should hand it as the tension in the room peaks.
+- 'Nicely done!' Around the morning and work, Kostya makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.

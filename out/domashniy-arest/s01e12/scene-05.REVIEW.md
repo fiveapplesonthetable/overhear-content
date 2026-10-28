@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Нина, выпей чаю и успокойся. | Nina, drink some tea and calm down. | #91 00:09:19: Выпей. Расслабься | adapted: adapted |
-| 2 | Самсон | Никто же не умер от этого. | Nobody died from this after all. | #92 00:09:23: Ну никто же не умер | verbatim |
+| 1 | Самсон | Нина, выпей чаю и успокойся. | Nina, drink some tea and calm down. | #91: Выпей. Расслабься | adapted: adapted |
+| 2 | Самсон | Никто же не умер от этого. | Nobody died from this after all. | #92: Ну никто же не умер | verbatim |
 | 3 | Нина | Мне стыдно выходить на улицу! | I am ashamed to go out onto the street! | new | new: new |
-| 4 | Самсон | Всё будет абсолютно нормально, Нина. | Everything will be absolutely fine, Nina. | #93 00:09:27: Да все нормально, Нин | verbatim |
-| 5 | Самсон | Ты ни в чём не виновата. | You are not guilty of anything. | #104 00:13:05: Ни в чем ты не виновата | verbatim |
-| 6 | Нина | А что теперь скажут наши дети? | And what will our children say now? | #94 00:09:32: Детей в другую школу | adapted: adapted |
-| 7 | Самсон | Мы переведём детей в другую школу. | We will transfer the children to another school. | #94 00:09:32: Детей в другую школу переведешь | adapted: adapted |
-| 8 | Нина | Иван, ты понимаешь, что говоришь? | Ivan, do you understand what you are saying? | #98 00:09:47: Ты чего, Самсонов | adapted: adapted |
-| 9 | Самсон | Мы пережили девяностые годы вместе. | We survived the nineteen-nineties together. | #106 00:13:25: Помнишь деньги с продажи | adapted: adapted |
-| 10 | Самсон | Мы обязательно справимся и с этим. | We will definitely cope with this too. | #114 00:13:53: Раскрутимся | adapted: adapted |
-| 11 | Самсон | Мы купим большой красивый дом. | We will buy a big beautiful house. | #116 00:13:57: Дом купим | verbatim |
+| 4 | Самсон | Всё будет абсолютно нормально, Нина. | Everything will be absolutely fine, Nina. | #93: Да все нормально, Нин | verbatim |
+| 5 | Самсон | Ты ни в чём не виновата. | You are not guilty of anything. | #104: Ни в чем ты не виновата | verbatim |
+| 6 | Нина | А что теперь скажут наши дети? | And what will our children say now? | #94: Детей в другую школу | adapted: adapted |
+| 7 | Самсон | Мы переведём детей в другую школу. | We will transfer the children to another school. | #94: Детей в другую школу переведешь | adapted: adapted |
+| 8 | Нина | Иван, ты понимаешь, что говоришь? | Ivan, do you understand what you are saying? | #98: Ты чего, Самсонов | adapted: adapted |
+| 9 | Самсон | Мы пережили девяностые годы вместе. | We survived the nineteen-nineties together. | #106: Помнишь деньги с продажи | adapted: adapted |
+| 10 | Самсон | Мы обязательно справимся и с этим. | We will definitely cope with this too. | #114: Раскрутимся | adapted: adapted |
+| 11 | Самсон | Мы купим большой красивый дом. | We will buy a big beautiful house. | #116: Дом купим | verbatim |
 | 12 | Нина | Ты всегда умеешь поддержать меня. | You always know how to support me. | new | new: new |
 | 13 | Самсон | Я никогда не оставлю свою семью. | I will never abandon my family. | new | new: new |
 

@@ -1,34 +1,49 @@
-# Review: `dix-pour-cent-s01e04-scene-10` — Je vois tout dans vos notes  (I See Everything in Your Bills)
+# dix-pour-cent-s01e04-scene-10: review sheet
 
-- **Source**: `sources/dix-pour-cent/s01/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "colette": "emilie", "lea": "lucie", "gabriel": "theo"}`
-- **Labels**: `{"colette": "Colette", "lea": "Andréa", "gabriel": "Gabriel"}`
+Title: Je vois tout dans vos notes  (I See Everything in Your Bills)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S01E04
 
-## Part 1 — Intro
-> Colette Brancillon is still furious with Andréa after recognising her from the dating site, and she is checking every single receipt the agents have ever claimed. After a frantic warning from Gabriel at the office, Andréa spots Colette in a clothes shop and tries one more time to charm her. Listen to the French first without worrying about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Andréa! Brancillon est venue chez moi à sept heures du matin! | Andréa! Brancillon came to my place at seven in the morning! | 263:Andréa ! Brancillon, 263:chez moi à sept heures du matin |
-| 1 | `lea` (Andréa) | Quoi? Chez toi? | What? To your place? | 264:Quoi ? Chez toi |
-| 2 | `gabriel` (Gabriel) | Pour vérifier mes costumes et mes notes de frais. Bonne chance! | To check my suits and my expense claims. Good luck! | 265:Pour vérifier, 265:mes costumes, 266:mes notes de frais, 267:Bonne chance |
-| 3 | `lea` (Andréa) | Colette? Bonjour! Cette veste est très belle. | Colette? Hello! This jacket is very nice. | 271:Colette, 272:Bonjour |
-| 4 | `lea` (Andréa) | Vous voulez dîner avec moi ce soir? | Do you want to have dinner with me tonight? | 275:ce soir |
-| 5 | `colette` (Colette) | Arrête, Andréa. Je sais qui tu es. | Stop it, Andréa. I know who you are. | 275:Arrête, Andréa, 276:Je sais qui tu es |
-| 6 | `lea` (Andréa) | Ah bon? | Really? | 277:Ah bon |
-| 7 | `colette` (Colette) | Oui. Je vois tout dans tes factures. | Yes. I see everything in your bills. | 277:Oui, 278:Je vois tout dans tes factures |
-| 8 | `lea` (Andréa) | Quoi? | What? | 279:Quoi |
-| 9 | `colette` (Colette) | Tout. Tu manges très mal, et tu ne prends jamais de vacances. | Everything. You eat very badly, and you never take a holiday. | 279:Tout |
-| 10 | `colette` (Colette) | Tu paies un club de sport, mais tu n'y vas jamais. | You pay for a gym, but you never go there. | 282:d'une salle de sport très chère, mais tu n'y vas jamais |
-| 11 | `colette` (Colette) | Et tu as un problème avec tes cheveux. | And you have a problem with your hair. | 283:Et tu as un problème avec tes cheveux |
-| 12 | `lea` (Andréa) | Non! | No! | 284:Non |
-| 13 | `colette` (Colette) | Si. Toujours un coiffeur différent. | Yes, you do. Always a different hairdresser. | 284:Si. Toujours un coiffeur différent |
-| 14 | `colette` (Colette) | Et tu as beaucoup de petites amies. | And you have lots of girlfriends. | 286:Et tu as beaucoup de petites amies |
-| 15 | `lea` (Andréa) | C'est faux. Je suis souvent seule. | That | 286:Faux, 290:Je suis souvent |
-| 16 | `colette` (Colette) | De toute façon, tu n'es pas quelqu'un pour moi. | Anyway, you | 287:De toute façon, tu n'es pas quelqu'un pour moi |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Just as Andréa tries to show her softer side, someone from her past is about to ruin everything outside the shop. See you next time!
-- **Closing**: `colette`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Andréa! Brancillon est venue chez moi à sept heures du matin! | Andréa! Brancillon came to my place at seven in the morning! | #263: Andréa ! Brancillon<br>#263: chez moi à sept heures du matin | verbatim |
+| 2 | Andréa | Quoi? Chez toi? | What? To your place? | #264: Quoi ? Chez toi | verbatim |
+| 3 | Gabriel | Pour vérifier mes costumes et mes notes de frais. Bonne chance! | To check my suits and my expense claims. Good luck! | #265: Pour vérifier<br>#265: mes costumes<br>#266: mes notes de frais<br>#267: Bonne chance | verbatim |
+| 4 | Andréa | Colette? Bonjour! Cette veste est très belle. | Colette? Hello! This jacket is very nice. | #271: Colette<br>#272: Bonjour | verbatim |
+| 5 | Andréa | Vous voulez dîner avec moi ce soir? | Do you want to have dinner with me tonight? | #275: ce soir | verbatim |
+| 6 | Colette | Arrête, Andréa. Je sais qui tu es. | Stop it, Andréa. I know who you are. | #275: Arrête, Andréa<br>#276: Je sais qui tu es | verbatim |
+| 7 | Andréa | Ah bon? | Really? | #277: Ah bon | verbatim |
+| 8 | Colette | Oui. Je vois tout dans tes factures. | Yes. I see everything in your bills. | #277: Oui<br>#278: Je vois tout dans tes factures | verbatim |
+| 9 | Andréa | Quoi? | What? | #279: Quoi | verbatim |
+| 10 | Colette | Tout. Tu manges très mal, et tu ne prends jamais de vacances. | Everything. You eat very badly, and you never take a holiday. | #279: Tout | verbatim |
+| 11 | Colette | Tu paies un club de sport, mais tu n'y vas jamais. | You pay for a gym, but you never go there. | #282: d'une salle de sport très chère, mais tu n'y vas jamais | verbatim |
+| 12 | Colette | Et tu as un problème avec tes cheveux. | And you have a problem with your hair. | #283: Et tu as un problème avec tes cheveux | verbatim |
+| 13 | Andréa | Non! | No! | #284: Non | verbatim |
+| 14 | Colette | Si. Toujours un coiffeur différent. | Yes, you do. Always a different hairdresser. | #284: Si. Toujours un coiffeur différent | verbatim |
+| 15 | Colette | Et tu as beaucoup de petites amies. | And you have lots of girlfriends. | #286: Et tu as beaucoup de petites amies | verbatim |
+| 16 | Andréa | C'est faux. Je suis souvent seule. | That | #286: Faux<br>#290: Je suis souvent | verbatim |
+| 17 | Colette | De toute façon, tu n'es pas quelqu'un pour moi. | Anyway, you | #287: De toute façon, tu n'es pas quelqu'un pour moi | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past tense, so 'came' has a feminine ending for Brancillon.
+- 'What? To your place?' The little linking word for 'at someone's home' followed by 'you'.
+- 'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that she's next.
+- 'Colette? Hello! This jacket is very nice.' Later, in a clothes shop, Andréa approaches Colette by the racks.
+- 'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out.
+- 'Stop it, Andréa. I know who you are.' Colette switches straight to the informal 'you'.
+- 'Really?' Two short words that mean 'oh really?' or 'is that so?'.
+- 'Yes. I see everything in your bills.' Every restaurant receipt and shop bill is sitting in Colette's audit file.
+- 'What?' Andréa is caught off guard.
+- 'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'.
+- 'You pay for a gym, but you never go there.' Literally 'a room of sport', and the tiny word before 'go' means 'there'.
+- 'And you have a problem with your hair.' Notice how 'and' sets up the clause and leads naturally into 'hair'.
+- 'No!' Andréa protests.
+- 'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's 'no'.
+- 'And you have lots of girlfriends.' Literally 'little friends' in the feminine.
+- 'That's false. I'm often alone.' For once, Andréa drops her tough act and speaks honestly.
+- 'Anyway, you're not someone for me.' The three-word phrase at the start means 'in any case' or 'anyway'.

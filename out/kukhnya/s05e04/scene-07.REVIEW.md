@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Тогда наших сожителей дома не будет. | Good thing our partners are not home right now. | #96 00:07:40: Тогда наших сожителей | adapted: adapted |
-| 2 | Шеф | Мой главный герой уже здесь! | My main hero is already in here! | #97 00:07:55: Мой<br>#97 00:07:55: герой здесь | adapted: adapted |
-| 3 | Шеф | Сеня, ты где? | Senya, where are you? | #98 00:07:57: Ты где | adapted: adapted |
-| 4 | Шеф | Только он это на рум-сервисе остался. | Except Senya stayed behind on room service. | #99 00:08:00: Только он это | adapted: adapted |
-| 5 | Шеф | Так ты же должен был работать. | Wait, you were supposed to work it. | #100 00:08:02: Так ты же | adapted: adapted |
-| 6 | Шеф | Да, ну он попросил меня с ним поменяться. | Yes, well, he asked me to swap shifts with him. | #100 00:08:02: Так ты же | adapted: adapted |
-| 7 | Шеф | И что теперь делать? | And what do we do now? | #101 00:08:08: И? А, да | adapted: adapted |
-| 8 | Шеф | Виктор Петрович, счет один на один унижает нас обоих. | Mikhail, a one-to-one score humiliates us both. | #102 00:08:23: Виктор Петрович, счет | adapted: adapted |
-| 9 | Шеф | Давайте я уже у вас выиграю и покончим с этим. | Let me just beat you already and be done with this. | #103 00:08:27: Давайте я уже | adapted: adapted |
-| 10 | Шеф | Отвали от меня, Витя. | Back off from me, Vitya. | #104 00:08:29: Отвали, Миша | adapted: adapted |
-| 11 | Шеф | Никакого реванша не будет. | There will be no rematch. | #104 00:08:29: Отвали, Миша | adapted: adapted |
-| 12 | Шеф | Хочешь картами пошлепать, разложи пасьянцы. | If you want to slap cards around, go play solitaire. | #105 00:08:31: Хочешь картами пошлепать | adapted: adapted |
+| 1 | Федя | Тогда наших сожителей дома не будет. | Good thing our partners are not home right now. | #96: Тогда наших сожителей | adapted: adapted |
+| 2 | Гость | Мой главный герой уже здесь! | My main hero is already in here! | #97: Мой<br>#97: герой здесь | adapted: adapted |
+| 3 | Гость | Сеня, ты где? | Senya, where are you? | #98: Ты где | adapted: adapted |
+| 4 | Федя | Только он это на рум-сервисе остался. | Except Senya stayed behind on room service. | #99: Только он это | adapted: adapted |
+| 5 | Гость | Так ты же должен был работать. | Wait, you were supposed to work it. | #100: Так ты же | adapted: adapted |
+| 6 | Федя | Да, ну он попросил меня с ним поменяться. | Yes, well, he asked me to swap shifts with him. | #100: Так ты же | adapted: adapted |
+| 7 | Гость | И что теперь делать? | And what do we do now? | #101: И? А, да | adapted: adapted |
+| 8 | Шеф | Виктор Петрович, счет один на один унижает нас обоих. | Mikhail, a one-to-one score humiliates us both. | #102: Виктор Петрович, счет | adapted: adapted |
+| 9 | Шеф | Давайте я уже у вас выиграю и покончим с этим. | Let me just beat you already and be done with this. | #103: Давайте я уже | adapted: adapted |
+| 10 | Шеф | Отвали от меня, Витя. | Back off from me, Vitya. | #104: Отвали, Миша | adapted: adapted |
+| 11 | Шеф | Никакого реванша не будет. | There will be no rematch. | #104: Отвали, Миша | adapted: adapted |
+| 12 | Шеф | Хочешь картами пошлепать, разложи пасьянцы. | If you want to slap cards around, go play solitaire. | #105: Хочешь картами пошлепать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good thing our partners are not home right now.' Fedya anchors the line on 'then', while 'will be' completes the thought.
-- 'My main hero is already in here!' the guest pairs 'main, chief' with 'already, now' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Senya, where are you?' Here the Russian phrasing highlights 'Senya' before landing on 'where'. Fedya answers right away.
-- 'Except Senya stayed behind on room service.' Notice how Russian expresses 'only' and 'remained' with crisp inflection rather than helper words.
-- 'Wait, you were supposed to work it.' Here the Russian phrasing highlights 'so' before landing on 'to work'.
-- 'Yes, well, he asked me to swap shifts with him.' Notice how Russian expresses 'yes' and 'to swap' with crisp inflection rather than helper words. the guest answers right away.
-- 'And what do we do now?' the guest brings out the contrast between 'and' and 'what' in a few short words.
-- 'Mikhail, a one-to-one score humiliates us both.' Notice how Russian expresses 'proper name' and 'both' with crisp inflection rather than helper words.
-- 'Let me just beat you already and be done with this.' Here the Russian phrasing highlights 'let's' before landing on 'this'.
-- 'Back off from me, Vitya.' Chef Barinov anchors the line on 'back off', while 'proper name' completes the thought.
-- 'There will be no rematch.' The grammar packs 'no' and 'will be' into a tight, idiomatic kitchen exchange.
-- 'If you want to slap cards around, go play solitaire.' The grammar packs 'want' and 'solitaire games' into a tight, idiomatic kitchen exchange.
+- 'Good thing our partners are not home right now.' Even though good thing their partners are not home right now, Fedya keeps a steady face in front of Barinov.
+- 'My main hero is already in here!' Insisting that his main hero is already in here shows the guest is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senya, where are you?' By asking where Barinov is, the guest presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Except Senya stayed behind on room service.' Once except Senya stayed behind on room service, Fedya can finally tell Barinov what he means.
+- 'Wait, you were supposed to work it.' Adding that Barinov was supposed to work it fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Yes, well, he asked me to swap shifts with him.' Fedya tells Barinov that he asked him to swap shifts with him without dressing it up.
+- 'And what do we do now?' Wondering what they do now cuts straight through the tension between the guest and Barinov.
+- 'Mikhail, a one-to-one score humiliates us both.' With the match and moment in play, Barinov keeps this short reply brisk and direct.
+- 'Let me just beat you already and be done with this.' Because Fedya should let him just beat Fedya already and be done with this, Barinov treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Back off from me, Vitya.' With the match and point in play, Barinov keeps this short reply brisk and direct.
+- 'There will be no rematch.' Explaining that there will be no rematch lays the cards on the table for Fedya.
+- 'If you want to slap cards around, go play solitaire.' Barinov mentions that if Fedya wants to slap cards around go play solitaire so Fedya sees what is at stake.

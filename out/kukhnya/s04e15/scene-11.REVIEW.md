@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Ой, папа, ты меня так сильно напугал! | Oh, Dad, you startled me so badly! | #152 00:12:22: Катя. Папа, ты меня | adapted: adapted |
-| 2 | Катя | Скажи, а что ты вообще тут делаешь? | Tell me, what are you even doing here? | #153 00:12:25: А ты что тут | adapted: adapted |
-| 3 | Шеф | Хотел посмотреть, как тебе на месте работается. | I wanted to see how work is going for you here. | #154 00:12:26: Ну, хотел посмотреть, как | adapted: adapted |
-| 4 | Шеф | Я смотрю, ты тут с Евой подружилась. | I see you have become friends with Eva here. | #155 00:12:31: Я смотрю, ты тут | adapted: adapted |
-| 5 | Шеф | Хочу поговорить о том, что она рассказывала. | I want to talk about what she was telling you. | #157 00:12:37: Нет, скорее о том, | adapted: adapted |
-| 6 | Катя | Папа, Ева, конечно, девушка со странностями. | Dad, Eva is, of course, a girl with quirks. | #158 00:12:41: Ну, пап, Ева, конечно, | adapted: adapted |
-| 7 | Катя | Но я совсем не разделяю её интересов! | But I do not share her interests at all! | #161 00:12:54: Но поверь, я не | adapted: adapted |
-| 8 | Катя | Встречаться со старыми мужчинами я не планирую. | I do not plan to date old men. | #162 00:12:58: И встречаться со старыми | adapted: adapted |
-| 9 | Шеф | Виктор Петрович, добрый день, вы снова у нас? | Viktor Petrovich, good afternoon, are you at our place again? | #164 00:13:03: Виктор Петрович, добрый день. | adapted: adapted |
-| 10 | Шеф | Для срочных новостей давно изобрели обычный телефон! | For urgent news they invented the ordinary telephone long ago! | #167 00:13:13: то специально для вас | adapted: adapted |
-| 11 | Шеф | Катя, действительно, давай я тебе лучше позвоню! | Katya, indeed, let me better give you a call! | #168 00:13:17: Катя, а действительно, давай-ка | adapted: adapted |
-| 12 | Шеф | Бедный Герман, как сильно он страдает из-за меня! | Poor German, how badly he is suffering because of me! | #170 00:13:29: Традает. | adapted: adapted |
+| 1 | Катя | Ой, папа, ты меня так сильно напугал! | Oh, Dad, you startled me so badly! | #152: Катя. Папа, ты меня | adapted: adapted |
+| 2 | Катя | Скажи, а что ты вообще тут делаешь? | Tell me, what are you even doing here? | #153: А ты что тут | adapted: adapted |
+| 3 | Шеф | Хотел посмотреть, как тебе на месте работается. | I wanted to see how work is going for you here. | #154: Ну, хотел посмотреть, как | adapted: adapted |
+| 4 | Шеф | Я смотрю, ты тут с Евой подружилась. | I see you have become friends with Eva here. | #155: Я смотрю, ты тут | adapted: adapted |
+| 5 | Шеф | Хочу поговорить о том, что она рассказывала. | I want to talk about what she was telling you. | #157: Нет, скорее о том, | adapted: adapted |
+| 6 | Катя | Папа, Ева, конечно, девушка со странностями. | Dad, Eva is, of course, a girl with quirks. | #158: Ну, пап, Ева, конечно, | adapted: adapted |
+| 7 | Катя | Но я совсем не разделяю её интересов! | But I do not share her interests at all! | #161: Но поверь, я не | adapted: adapted |
+| 8 | Катя | Встречаться со старыми мужчинами я не планирую. | I do not plan to date old men. | #162: И встречаться со старыми | adapted: adapted |
+| 9 | Герман | Виктор Петрович, добрый день, вы снова у нас? | Viktor Petrovich, good afternoon, are you at our place again? | #164: Виктор Петрович, добрый день. | adapted: adapted |
+| 10 | Герман | Для срочных новостей давно изобрели обычный телефон! | For urgent news they invented the ordinary telephone long ago! | #167: то специально для вас | adapted: adapted |
+| 11 | Шеф | Катя, действительно, давай я тебе лучше позвоню! | Katya, indeed, let me better give you a call! | #168: Катя, а действительно, давай-ка | adapted: adapted |
+| 12 | Герман | Бедный Герман, как сильно он страдает из-за меня! | Poor German, how badly he is suffering because of me! | #170: Традает. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Dad, you startled me so badly!' Katya jumps when she spots her father lurking in the kitchen.
-- 'Tell me, what are you even doing here?' She asks a direct question using the second-person singular present tense.
-- 'I wanted to see how work is going for you here.' Notice how Russian puts 'wanted' and 'to going' together in a short, direct phrase where word endings show how the ideas connect.
-- 'I see you have become friends with Eva here.' Here Chef Barinov anchors the thought on 'watch, look' and finishes on 'to make friends', keeping the spoken rhythm brisk and natural.
-- 'I want to talk about what she was telling you.' In everyday Russian, 'want' flows straight into 'to tell, to talk about' without extra linking words.
-- 'Dad, Eva is, of course, a girl with quirks.' Katya pairs 'dad' with 'quirks' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'But I do not share her interests at all!' Notice how Russian puts 'at all' and 'interest' together in a short, direct phrase where word endings show how the ideas connect.
-- 'I do not plan to date old men.' Hearing how Katya views older men, Barinov decides to keep his mouth shut.
-- 'Viktor Petrovich, good afternoon, are you at our place again?' German interrupts with icy politeness.
-- 'For urgent news they invented the ordinary telephone long ago!' German sarcastically suggests calling Katya instead of walking into his kitchen.
-- 'Katya, indeed, let me better give you a call!' Relieved to have an excuse to leave, Barinov beats a hasty retreat.
-- 'Poor German, how badly he is suffering because of me!' Watching from the sink, Ainura assumes German is angry out of heartbreak.
+- 'Oh, Dad, you startled me so badly!' Over the truth and the date, Katya lets her real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Tell me, what are you even doing here?' Katya asks whether tell her what are Barinov even doing here, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I wanted to see how work is going for you here.' Adding that he wanted to see how work is going for German here fills in the missing piece for German.
+- 'I see you have become friends with Eva here.' Seeing German has become friends with Eva here moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I want to talk about what she was telling you.' Because he wants to talk about what she was telling German, Barinov treats the matter as settled.
+- 'Dad, Eva is, of course, a girl with quirks.' Mentioning that dad Eva is of course a girl with quirks moves the talk in a new direction.
+- 'But I do not share her interests at all!' Katya declares that she does not share her interests at all as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'I do not plan to date old men.' Because she does not plan to date old men, Katya treats the matter as settled.
+- 'Viktor Petrovich, good afternoon, are you at our place again?' By checking whether Barinov at their place again, German presses Barinov for a straight answer.
+- 'For urgent news they invented the ordinary telephone long ago!' With the plan and date at stake, German reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Katya, indeed, let me better give you a call!' Declaring that indeed let him better give German a call brings Barinov's temper right to the surface. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Poor German, how badly he is suffering because of me!' German insists that poor German how badly he is suffering because of him, leaving Barinov no room to argue.

@@ -1,40 +1,41 @@
-# Спор на кухне  (An Argument in the Kitchen) — `kukhnya-s02e03-scene-13`
+# kukhnya-s02e03-scene-13: review sheet
 
-**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Спор на кухне  (An Argument in the Kitchen)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.03
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `fedya` | anja | Федя |
-| `senya` | angelina | Сеня |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the kitchen of Claude Monet, Senya prepares to eat a leather belt after losing a bet to Fedya. Fedya mocks him by telling him to tenderize the leather first so it is not as tough as Senya's steak from yesterday.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Федя | Сеня, ты уже принёс этот ремень? | Senya, did you already bring that belt? | #198 "оставь кусочек" |  |
-| 1 | Федя | Только весь сразу один не ешь! | Just do not eat it all at once by yourself! | #198 "Только весь сразу не ешь" |  |
-| 2 | Федя | Оставь и мне маленький кусочек. | Leave a small piece for me too. | #198 "мне, оставь кусочек" |  |
-| 3 | Сеня | Очень смешно ты сегодня шутишь. | You are joking very amusingly today. | #199 "Я его сначала нарежу" |  |
-| 4 | Сеня | Я его сначала мелко нарежу ножом. | I will slice it finely with a knife first. | #199 "Я его сначала нарежу" |  |
-| 5 | Сеня | А потом спокойно всё съем. | And then I will calmly eat it all. | #199 "потом съем" |  |
-| 6 | Федя | Да, ты всё правильно придумал. | Yes, you thought of everything rightly. | #200 "Да, все правильно" |  |
-| 7 | Федя | Только отбей его хорошо сначала! | Just tenderize it well first! | #200 "только отбей сначала" |  |
-| 8 | Федя | Иначе он будет очень жёсткий. | Otherwise it will be very tough. | #200 "а то будет жесткий" |  |
-| 9 | Федя | Прямо как твой вчерашний стейк! | Just like your steak from yesterday! | #201 "как в вашей вчерашней стыке" |  |
-| 10 | Сеня | Мои мясные блюда всегда вкусные! | My meat dishes are always delicious! | #201 "вчерашней" |  |
-| 11 | Сеня | Отстань от меня, ты понял? | Leave me alone, did you understand? | #202 "понял?" |  |
-| 12 | Федя | Понял, желаю тебе приятного аппетита! | Got it, I wish you a good appetite! | #202 "Понял" |  |
+| 1 | Федя | Сеня, ты уже принёс этот ремень? | Senya, did you already bring that belt? | #198: оставь кусочек | verbatim |
+| 2 | Федя | Только весь сразу один не ешь! | Just do not eat it all at once by yourself! | #198: Только весь сразу не ешь | verbatim |
+| 3 | Федя | Оставь и мне маленький кусочек. | Leave a small piece for me too. | #198: мне, оставь кусочек | verbatim |
+| 4 | Сеня | Очень смешно ты сегодня шутишь. | You are joking very amusingly today. | #199: Я его сначала нарежу | verbatim |
+| 5 | Сеня | Я его сначала мелко нарежу ножом. | I will slice it finely with a knife first. | #199: Я его сначала нарежу | verbatim |
+| 6 | Сеня | А потом спокойно всё съем. | And then I will calmly eat it all. | #199: потом съем | verbatim |
+| 7 | Федя | Да, ты всё правильно придумал. | Yes, you thought of everything rightly. | #200: Да, все правильно | verbatim |
+| 8 | Федя | Только отбей его хорошо сначала! | Just tenderize it well first! | #200: только отбей сначала | verbatim |
+| 9 | Федя | Иначе он будет очень жёсткий. | Otherwise it will be very tough. | #200: а то будет жесткий | verbatim |
+| 10 | Федя | Прямо как твой вчерашний стейк! | Just like your steak from yesterday! | #201: как в вашей вчерашней стыке | verbatim |
+| 11 | Сеня | Мои мясные блюда всегда вкусные! | My meat dishes are always delicious! | #201: вчерашней | verbatim |
+| 12 | Сеня | Отстань от меня, ты понял? | Leave me alone, did you understand? | #202: понял? | verbatim |
+| 13 | Федя | Понял, желаю тебе приятного аппетита! | Got it, I wish you a good appetite! | #202: Понял | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> To avoid chewing raw leather alone, Senya decides to disguise the sliced belt inside a fresh green salad. Next time you watch the episode, listen for the Russian expressions for 'to bring' and 'belt' — you will catch every word right away. See you next time!
-
-**Сеня:** Пока!
+- 'Senya, did you already bring that belt?' Fedya turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'brought' and 'belt'.
+- 'Just do not eat it all at once by yourself!' Fedya leads with the direct command form meaning 'eat', combining 'only' with 'at once' and 'one'.
+- 'Leave a small piece for me too.' Fedya leads with the direct command form meaning 'keep', pairing it with 'short' and 'slice'.
+- 'You are joking very amusingly today.' Senya expresses this naturally by combining the word for 'very much' with 'ridiculous' and 'today'.
+- 'I will slice it finely with a knife first.' Senya plans to cut the leather into tiny strips.
+- 'And then I will calmly eat it all.' The action verb verb means 'I will eat it all up'.
+- 'Yes, you thought of everything rightly.' The phrasing opens with 'right' before bringing in 'came up with' to make the point clear.
+- 'Just tenderize it well first!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Otherwise it will be very tough.' Fedya warns that the leather will be hard to chew.
+- 'Just like your steak from yesterday!' Russian omits the present-tense verb 'to be' here, linking 'right' directly with 'how', combining 'right' with 'how' and 'yesterday's'.
+- 'My meat dishes are always delicious!' As the meat chef, Senya proudly defends his steaks.
+- 'Leave me alone, did you understand?' Senya leads with the direct command form meaning 'leave alone', followed by 'understood?'.
+- 'Got it, I wish you a good appetite!' Fedya leaves him with a parting joke.

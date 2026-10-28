@@ -8,14 +8,10 @@
  "scene": 10,
  "title": "Триумф Кати на веранде  (Katya's Triumph on the Terrace)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "katya": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "katya": "Катя",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "guest": "Гость",
+  "katya": "Катя"
  },
  "segments": [
   {
@@ -29,12 +25,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Пожалуй, я съем ещё что-нибудь.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Какой божественный вкус, браво!",
    "gap": 0.55
   },
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты уже себя шефом считаешь?",
    "gap": 0.55
   },
@@ -64,7 +60,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот как, и что ты ответила?",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не знаю, Катя, это твоё дело.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это только твой личный выбор.",
    "gap": 0.9
   },
@@ -95,27 +91,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Thank you, I will definitely get in touch with you.' Katya uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.",
+   "t": "'Thank you, I will definitely get in touch with you.' Once she will definitely get in touch with Barinov, Katya can finally tell Barinov what she means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Пожалуй, я съем ещё что-нибудь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Perhaps I will eat something else.' Here the Russian phrasing highlights 'perhaps' before landing on 'anything'.",
+   "t": "'Perhaps I will eat something else.' Adding that perhaps he will eat something else fills in the missing piece for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Какой божественный вкус, браво!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What a divine taste, bravo!' the guest brings out the contrast between 'what' and 'divine' in a few short words. Katya answers right away.",
+   "t": "'What a divine taste, bravo!' With the moment and work at stake, the guest reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
@@ -125,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Thank you very much, eat to your health.' Katya anchors the line on 'very much', while 'health' completes the thought.",
+   "t": "'Thank you very much, eat to your health.' Between the restaurant and the work, Katya gives Barinov a quick, grounded response.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты уже себя шефом считаешь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do you already consider yourself the head chef?' Chef Barinov addresses the listener with the informal singular 'you' alongside 'to count'.",
+   "t": "'Do you already consider yourself the head chef?' Here asking whether the guest already consider themselves the head shows Barinov looking for the real truth. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -145,7 +141,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Well, that is not me, that is the guests.' The meaning hinges on 'come on' working together with 'guests' in spoken Russian.",
+   "t": "'Well, that is not me, that is the guests.' Saying that that is not her that is the guests is how Katya sets the tone with Barinov. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -155,7 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'By the way, I must inform you of something.' Katya anchors the line on 'by the way', while 'inform' completes the thought.",
+   "t": "'By the way, I must inform you of something.' Because she must inform Barinov of something, Katya treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -165,17 +161,17 @@
   },
   {
    "v": "narrator",
-   "t": "'They offered me a job at a new restaurant.' The grammar packs 'to me' and 'restaurant' into a tight, idiomatic kitchen exchange.",
+   "t": "'They offered me a job at a new restaurant.' Over the job and the kitchen, Katya answers Barinov without a second thought.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот как, и что ты ответила?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Is that so, and what did you answer?' Chef Barinov addresses the listener with the informal singular 'you' alongside 'answered'. Katya answers right away.",
+   "t": "'Is that so, and what did you answer?' Here checking whether that so and what did the guest answers shows Barinov looking for the real truth. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -185,27 +181,27 @@
   },
   {
    "v": "narrator",
-   "t": "'And what do you think, what should I do?' The meaning hinges on 'and' working together with 'to do' in spoken Russian.",
+   "t": "'And what do you think, what should I do?' By asking what Barinov thinks what should she does, Katya presses Barinov for a straight answer.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не знаю, Катя, это твоё дело.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I do not know, Katya, it is your business.' The negative particle sits right before the verb meaning 'know' to negate the statement.",
+   "t": "'I do not know, Katya, it is your business.' Because he does not know Katya it is the guest's business, Barinov treats the matter as settled. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это только твой личный выбор.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It is only your personal choice.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'choice'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'It is only your personal choice.' Barinov explains that it is only the guest's personal choice, keeping his voice calm and direct. Speaking with the close, informal \"you\" strips away any polite distance between them. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -214,12 +210,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Пожалуй, я съем ещё что-нибудь.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Какой божественный вкус, браво!",
    "gap": 0.5
   },
@@ -229,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты уже себя шефом считаешь?",
    "gap": 0.5
   },
@@ -249,7 +245,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот как, и что ты ответила?",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не знаю, Катя, это твоё дело.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это только твой личный выбор.",
    "gap": 0.9
   },

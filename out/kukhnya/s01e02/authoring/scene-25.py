@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 25
-TITLE = "Две стороны медали  (Two Sides of the Coin)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Две стороны медали  (Two Sides of the Coin)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "nagiyev": "angelina"}
-LABELS = {"anya": "Макс", "chef": "Шеф", "nagiyev": "Нагиев"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'In the restaurant office, art director Vika shows owner Dmitry Nagiyev a video of Max fighting in the courtyard, hoping to get him fired, leading to surprising revelations.'
 OPENER = "Let's explore the courtyard video inquiry and Max's philosophical reflections."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Saved from dismissal, Max reflects on how fortunes shift and enemies can turn into allies. Next time you watch the episode, listen for the Russian expressions for 'art director' and 'former' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('nagiyev', 'Вика говорит, что ты устроил драку.', 'Vika says that you started a fight.', [(310, 'Еще он сегодня устроил драку.')], ''),
-    ('anya', 'Мы просто дурачились на заднем дворе.', 'We were simply fooling around in the backyard.', [(313, 'Да мы так дурачились.')], ''),
+    ('max', 'Мы просто дурачились на заднем дворе.', 'We were simply fooling around in the backyard.', [(313, 'Да мы так дурачились.')], ''),
     ('nagiyev', 'Покажите мне видео этой вашей драки.', 'Show me the video of this fight of yours.', [(315, 'Я все сняла.')], ''),
     ('nagiyev', 'Разве это драка? Ты даже не дрался!', 'Is that really a fight? You did not even fight back!', [(322, 'Ну какая же это драка, а?')], ''),
     ('nagiyev', 'Так что увольнять повара пока не за что.', 'So there is no reason to fire the cook yet.', [(324, 'Так что увольнять пока его не за что.')], ''),
-    ('chef', 'Дмитрий, спасибо вам за справедливое решение.', 'Dmitry, thank you for the fair decision.', [(325, 'Спасибо большое.')], ''),
-    ('chef', 'Слушайте меня все: забудьте об этом видео!', 'Listen to me everyone: forget about this video!', [(331, 'Чтобы об этом больше никто не знал.')], ''),
-    ('chef', 'Вике ещё работать здесь арт-директором.', 'Vika still has to work here as art director.', [(332, 'но арт-директор не самый плохой')], ''),
-    ('chef', 'Кто посмеет смеяться, сразу пойдёт вон!', 'Whoever dares laugh will immediately get out!', [(333, 'Ей еще здесь работать. Понятно?')], ''),
-    ('anya', 'У каждой медали есть две стороны.', 'Every coin has two sides.', [(335, 'У каждой медали есть две стороны,')], ''),
-    ('anya', 'Однажды всё вокруг может резко измениться.', 'One day everything around can change drastically.', [(335, 'и однажды все может перевернуться.')], ''),
-    ('anya', 'Бывший враг неожиданно становится твоим другом.', 'A former enemy unexpectedly becomes your friend.', [(337, 'становится твоим другом.')], ''),
-    ('anya', 'А строгий тиран становится немного добрее.', 'And a strict tyrant becomes a little bit kinder.', [(338, 'Ну а тот, кто казался злобным тираном,')], ''),
-    ('anya', 'Жизнь продолжается, и завтра новый день!', 'Life goes on, and tomorrow is a new day!', [(334, 'Вот как-то так.')], ''),
+    ('barinov', 'Дмитрий, спасибо вам за справедливое решение.', 'Dmitry, thank you for the fair decision.', [(325, 'Спасибо большое.')], ''),
+    ('barinov', 'Слушайте меня все: забудьте об этом видео!', 'Listen to me everyone: forget about this video!', [(331, 'Чтобы об этом больше никто не знал.')], ''),
+    ('barinov', 'Вике ещё работать здесь арт-директором.', 'Vika still has to work here as art director.', [(332, 'но арт-директор не самый плохой')], ''),
+    ('barinov', 'Кто посмеет смеяться, сразу пойдёт вон!', 'Whoever dares laugh will immediately get out!', [(333, 'Ей еще здесь работать. Понятно?')], ''),
+    ('max', 'У каждой медали есть две стороны.', 'Every coin has two sides.', [(335, 'У каждой медали есть две стороны,')], ''),
+    ('max', 'Однажды всё вокруг может резко измениться.', 'One day everything around can change drastically.', [(335, 'и однажды все может перевернуться.')], ''),
+    ('max', 'Бывший враг неожиданно становится твоим другом.', 'A former enemy unexpectedly becomes your friend.', [(337, 'становится твоим другом.')], ''),
+    ('max', 'А строгий тиран становится немного добрее.', 'And a strict tyrant becomes a little bit kinder.', [(338, 'Ну а тот, кто казался злобным тираном,')], ''),
+    ('max', 'Жизнь продолжается, и завтра новый день!', 'Life goes on, and tomorrow is a new day!', [(334, 'Вот как-то так.')], ''),
 ]
 WALK = [
     (0, None, "'Vika says that you started a fight.' Dmitry questions Max about the backstage conflict."),

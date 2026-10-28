@@ -1,34 +1,36 @@
-# domashniy-arest/s01e03/scene-34.py
-ID = "domashniy-arest-s01e03-scene-34"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-34.
+ID = 'domashniy-arest-s01e03-scene-34'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 34
-TITLE = "Вечер в коммуналке  (Evening in the Flat)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "nina": "angelina", "samson": "anja", "anya": "alisa"}
-LABELS = {"nina": "Нина", "samson": "Самсон", "anya": "Аркадий"}
+TITLE = 'Вечер в коммуналке  (Evening in the Flat)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Back at the communal flat that evening. Meanwhile, inside the flat, old Klavdia and the family fuss over the little dog, Marina scolds Arkady over the dean's wine, and Nina and Samson argue over the three-room flat they just lost. Let's listen in Russian first."
-STORY = [
-    ("nina", "Ты такой смешной, Тузик! Кто такой сладкий?", "You're so funny, Tuzik! Who's so sweet?", [(1098, 'Ты такой смешной'), (1099, 'Тузик'), (1104, 'Кто такой сладкий')], "spoken by old Klavdia in the flat; folded into Nina's role for the three-voice limit"),
-    ("samson", "Ну, Тузик, давай встаём!", "Come on, Tuzik, let's get up!", [(1099, 'Ну, Тузик'), (1101, 'Тузик, давай встаем')], ""),
-    ("anya", "Помолчите, пожалуйста. Не видите, человеку плохо?", "Please be quiet. Can't you see someone isn't feeling well?", [(1109, 'Помолчите, пожалуйста'), (1110, 'Не видите человеку плохо')], ""),
-    ("nina", "Вы так и берёте чужое без спроса, да?", "So you just take other people's things without asking, yes?", [(1108, 'Вы так и берете чужое без спроса, да')], "Marina's line in the kitchen (scolding Arkady for taking the dean's wine); folded into Nina's role"),
-    ("anya", "Это хорошее вино. Мне сейчас очень грустно.", "It's good wine. I feel very sad right now.", [], "new: Arkady's reply after losing his appeal in court"),
-    ("nina", "Славик, садись. Ешь.", "Slavik, sit down. Eat.", [(1111, 'Ешь')], "'Славик, садись.' added for clarity (to heart-broken Slavik)"),
-    ("nina", "Три комнаты, кухня, ремонт. Какая квартира была!", "Three rooms, a kitchen, renovated. What a flat it was!", [(1112, 'Три комнаты, кухня, ремонт')], "'Какая квартира была!' added as Nina looks at the photos of the lost three-room flat"),
-    ("samson", "Нин, ну что мы могли сделать?", "Nina, well what could we have done?", [(1113, 'ну что мы могли сделать')], "'Блин, нет' -> 'Нин'; '-то' dropped"),
-    ("nina", "Что мы, мы? Тебе надо было как мужик!", "What do you mean, we? You should have acted like a man!", [(1114, 'что мы, мы'), (1115, 'тебе надо было'), (1115, 'мужик')], "'как-то, я не знаю, как не мужик прям' -> 'как мужик'"),
-    ("samson", "Такая интересная. Я тебе не бандит.", "Funny you should say that. I'm no gangster for you.", [(1116, 'Такая интересная')], "second sentence is a clean stand-in for cue 1117 ('Ну выйди тогда за бандюка...')"),
-    ("nina", "А где мы теперь будем жить?", "And where are we going to live now?", [], "new: Nina's frustration over staying in the communal flat"),
-    ("samson", "Ну всё, успокойся уже. Успокойся.", "All right, calm down already. Calm down.", [(1118, 'Ну все, успокойся уже'), (1119, 'Успокойся')], ""),
-    ("anya", "Тихо! Кто это там стучит?", "Quiet! Who is knocking there?", [], "new: someone knocks loudly at the front door"),
-    ("anya", "Я сейчас буду открывать.", "I'm going to open it now.", [(1121, 'Я сейчас буду открывать')], ""),
-]
 OPENER = "Let's take the scene line by line. First, everyone in the flat is playing with the stolen little dog."
+TRANSITION = "Now let's listen to the whole scene again, start to finish."
+OUTRO = "So while the flat fusses over 'Tuzik' and Nina mourns the three-room flat, someone is knocking at the door — and it is Judge Berg coming for his dog. See you in the final scene. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('nina', 'Ты такой смешной, Тузик! Кто такой сладкий?', "You're so funny, Tuzik! Who's so sweet?", [(1098, 'Ты такой смешной'), (1099, 'Тузик'), (1104, 'Кто такой сладкий')], "spoken by old Klavdia in the flat; folded into Nina's role for the three-voice limit"),
+    ('samson', 'Ну, Тузик, давай встаём!', "Come on, Tuzik, let's get up!", [(1099, 'Ну, Тузик'), (1101, 'Тузик, давай встаем')], ''),
+    ('arkady', 'Помолчите, пожалуйста. Не видите, человеку плохо?', "Please be quiet. Can't you see someone isn't feeling well?", [(1109, 'Помолчите, пожалуйста'), (1110, 'Не видите человеку плохо')], ''),
+    ('nina', 'Вы так и берёте чужое без спроса, да?', "So you just take other people's things without asking, yes?", [(1108, 'Вы так и берете чужое без спроса, да')], "Marina's line in the kitchen (scolding Arkady for taking the dean's wine); folded into Nina's role"),
+    ('arkady', 'Это хорошее вино. Мне сейчас очень грустно.', "It's good wine. I feel very sad right now.", [], "new: Arkady's reply after losing his appeal in court"),
+    ('nina', 'Славик, садись. Ешь.', 'Slavik, sit down. Eat.', [(1111, 'Ешь')], "'Славик, садись.' added for clarity (to heart-broken Slavik)"),
+    ('nina', 'Три комнаты, кухня, ремонт. Какая квартира была!', 'Three rooms, a kitchen, renovated. What a flat it was!', [(1112, 'Три комнаты, кухня, ремонт')], "'Какая квартира была!' added as Nina looks at the photos of the lost three-room flat"),
+    ('samson', 'Нин, ну что мы могли сделать?', 'Nina, well what could we have done?', [(1113, 'ну что мы могли сделать')], "'Блин, нет' -> 'Нин'; '-то' dropped"),
+    ('nina', 'Что мы, мы? Тебе надо было как мужик!', 'What do you mean, we? You should have acted like a man!', [(1114, 'что мы, мы'), (1115, 'тебе надо было'), (1115, 'мужик')], "'как-то, я не знаю, как не мужик прям' -> 'как мужик'"),
+    ('samson', 'Такая интересная. Я тебе не бандит.', "Funny you should say that. I'm no gangster for you.", [(1116, 'Такая интересная')], "second sentence is a clean stand-in for cue 1117 ('Ну выйди тогда за бандюка...')"),
+    ('nina', 'А где мы теперь будем жить?', 'And where are we going to live now?', [], "new: Nina's frustration over staying in the communal flat"),
+    ('samson', 'Ну всё, успокойся уже. Успокойся.', 'All right, calm down already. Calm down.', [(1118, 'Ну все, успокойся уже'), (1119, 'Успокойся')], ''),
+    ('arkady', 'Тихо! Кто это там стучит?', 'Quiet! Who is knocking there?', [], 'new: someone knocks loudly at the front door'),
+    ('arkady', 'Я сейчас буду открывать.', "I'm going to open it now.", [(1121, 'Я сейчас буду открывать')], ''),
+]
 WALK = [
     (0, 'Ты такой смешной, Тузик!', "'You're so funny, Tuzik!' In the flat, old Klavdia has given the judge's little dog a classic Russian dog name, Tuzik, instead of Lyutik. Both adjectives take the masculine ending for a male dog."),
     (0, 'Кто такой сладкий?', "'Who's so sweet?' The word for 'sweet' is used just like in English when talking to a pet or a baby."),
@@ -50,6 +52,3 @@ WALK = [
     (12, None, "'Quiet! Who is knocking there?' Even when asking about several people outside, the word 'who' always takes a singular verb in Russian. Arkady gets up."),
     (13, None, "'I'm going to open it now.' Again, the compound future: 'I will' plus 'open'. He has no idea who is waiting on the other side of that door."),
 ]
-TRANSITION = "Now let's listen to the whole scene again, start to finish."
-OUTRO = "So while the flat fusses over 'Tuzik' and Nina mourns the three-room flat, someone is knocking at the door — and it is Judge Berg coming for his dog. See you in the final scene. See you next time!"
-CLOSING = ("samson", "Пока!")

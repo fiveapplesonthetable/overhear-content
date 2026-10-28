@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 23
-TITLE = "Максим молодец  (Maxim Did Great)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Максим молодец  (Maxim Did Great)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "Nastya and Kostya watch from the bar. They discuss Max and Victoria. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Let's go through it line by line. Kostya nods toward Max."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "They watch Victoria preparing a drink for Max. Next time you watch the episode, listen for the Russian expressions for 'well done' and 'to help' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Максим молодец.', 'Maxim did great.', [(309, 'Максим молодец')], ''),
     ('kostya', 'Он помог Вике.', 'He helped Vika.', [(309, 'он помог Вике')], ''),

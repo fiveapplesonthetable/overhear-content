@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e07-scene-18.
 ID = 'kukhnya-s02e07-scene-18'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 18
 TITLE = "Прощальные стихи Родиона  (Rodion's Parting Verses)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "rodion": "anja"}
-LABELS = {"nastya": "Настя", "rodion": "Родион"}
+LABELS = {'nastya': 'Настя', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
 SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
-
 INTRO = "Pretending to be shocked by Nastya's sudden strictness, Max and Kostya accuse her of being heartless as she insists that Rodion is healthy enough to leave. Bowing gallantly, Rodion Sergeyevich thanks them for their hospitality in verse and walks out the door."
-
+OPENER = "Right, let's take their exchange slowly and unpack the Russian."
+TRANSITION = "Now let's listen to the entire scene again without interruption."
+OUTRO = "That wraps up this scene as while Max and Kostya pretend to protest Nastya's decision, a cured Rodion Sergeyevich recites farewell poetry to Nastya and departs. See you next time!"
+CLOSING = ('nastya', 'До завтра!')
 STORY = [
     ('nastya', 'Человека на улицу ты бессердешная, Настя.', 'Throwing a man out on the street—you are heartless, Nastya.', [(284, 'Человека на улицу ты бессердешная, Настя')], ''),
     ('rodion', 'Он вообще готовит аль денте.', 'He even cooks vegetables al dente.', [(285, 'Он вообще готовит аль денте')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('rodion', 'И жаль, что в путь иду.', 'And it is a pity that I set off on my way.', [(294, 'И жаль, что в путь иду')], ''),
     ('nastya', 'Не с вами.', 'Without your company.', [(295, 'Не с вами')], ''),
 ]
-
-OPENER = "Right, let's take their exchange slowly and unpack the Russian."
-
 WALK = [
-    (0, None, "'Throwing a man out on the street—you are heartless, Nastya.' The grammar packs 'a person' and 'Nastya' into a tight, idiomatic kitchen exchange."),
-    (1, None, "'He even cooks vegetables al dente.' Rodion brings out the contrast between 'he' and 'at all' in a few short words."),
-    (2, None, "'And he is still coughing.' The meaning hinges on 'both' working together with 'to cough' in spoken Russian. Rodion answers right away."),
-    (3, None, "'All homeless people cough.' Notice how Russian expresses 'all' and 'to cough' with crisp inflection rather than helper words."),
-    (4, None, "'Look, he already feels like singing.' Here the Russian phrasing highlights 'to him' before landing on 'feel like it'."),
-    (5, None, "'So really, Rodion Sergeyevich, it is best that you leave.' Spoken Russian keeps this brisk, leaning on 'like this' and finishing on 'to leave'. Nastya answers right away."),
-    (6, None, "'I understand, believe me.' Here the Russian phrasing highlights 'understand' before landing on 'understand'."),
-    (7, None, "'Nothing lasts forever under the moon.' The grammar packs 'nothing' and 'the Moon' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'And for the shelter.' Nastya centers this short reply on 'blood', letting a few direct words carry the whole meaning."),
-    (9, None, "'That you shared with me here.' The grammar packs 'what' and 'me' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'Thank you for being here with me.' Nastya uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
-    (11, None, "'And it is a pity that I set off on my way.' Notice how Russian expresses 'both' and 'going' with crisp inflection rather than helper words. Nastya answers right away."),
-    (12, None, "'Without your company.' In Russian, the idea of 'not' flows naturally into 'with you' without extra filler words."),
+    (0, None, '\'Throwing a man out on the street—you are heartless, Nastya.\' Mentioning that throwing a man out on the street Rodion is heartless moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (1, None, "'He even cooks vegetables al dente.' Rodion reminds Nastya that he even cooks vegetables al dente before the moment passes."),
+    (2, None, "'And he is still coughing.' Because he is still coughing, Nastya treats the matter as settled."),
+    (3, None, "'All homeless people cough.' Over the room and the shift, Rodion answers Nastya without a second thought."),
+    (4, None, "'Look, he already feels like singing.' Nastya mentions that he already feels like singing so Rodion sees what is at stake."),
+    (5, None, '\'So really, Rodion Sergeyevich, it is best that you leave.\' Claiming that really Rodion Sergeyevich it is best that Nastya leaves sounds confident, even if Nastya has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (6, None, "'I understand, believe me.' Claiming that she understands believe sounds confident, even if Rodion has doubts."),
+    (7, None, "'Nothing lasts forever under the moon.' Turning from the room to the truth, Rodion keeps the exchange moving."),
+    (8, None, "'And for the shelter.' Over the room and the situation, Nastya answers Rodion without a second thought."),
+    (9, None, '\'That you shared with me here.\' Between the situation and the kitchen, Rodion gives Nastya a quick, grounded response. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (10, None, "'Thank you for being here with me.' With the situation and moment in play, Nastya keeps this short reply brisk and direct."),
+    (11, None, "'And it is a pity that I set off on my way.' Admitting that it is a pity that he sets off on his way shows Rodion being honest for a change."),
+    (12, None, '\'Without your company.\' Turning from the situation to the work, Nastya keeps the exchange moving. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
 ]
-
-TRANSITION = "Now let's listen to the entire scene again without interruption."
-OUTRO = "That wraps up this scene as while Max and Kostya pretend to protest Nastya's decision, a cured Rodion Sergeyevich recites farewell poetry to Nastya and departs. See you next time!"
-CLOSING = ("nastya", "До завтра!")

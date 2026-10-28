@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 11
-TITLE = "Мусорные баки  (The Trash Bins)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Мусорные баки  (The Trash Bins)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "elena": "angelina", "chef": "anja"}
-LABELS = {"elena": "Елена", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'timur': 'Тимур'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "At Claude Monet, chef Barinov and Elena argue about the trash bins and Timur the supplier. Outside the restaurant, Chef Viktor Petrovich is arguing with the rival chef Elena about the trash bins. Let's listen to their confrontation in Russian first."
 OPENER = "Now let's examine their argument line by line in this scene."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Timur stays loyal to Viktor Petrovich, mostly because he still wants his money back. The restaurant war continues! Next time you watch the episode, listen for the Russian expressions for 'trash bin' and 'to manage' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'С одной вашей мусоркой я справился.', 'I handled one of your trash bins.', [(145, 'С одной вашей мусоркой справился')], ''),
+    ('barinov', 'С одной вашей мусоркой я справился.', 'I handled one of your trash bins.', [(145, 'С одной вашей мусоркой справился')], ''),
     ('elena', 'Вот документ, который это подтверждает.', 'Here is a document that proves it.', [(147, 'Вот, кстати, документ, который это подтверждает.')], ''),
     ('elena', 'Это план из управы.', 'This is the plan from the district office.', [(148, 'Это план из управы')], ''),
     ('elena', 'Баки должны стоять именно в этом месте.', 'The bins must stand exactly in this place.', [(148, 'баки должны стоять именно вот в этом'), (149, 'месте.')], ''),
     ('elena', 'Вопросы ко мне есть еще?', 'Are there any more questions for me?', [(149, 'Вопросы ко мне есть еще?')], ''),
-    ('chef', 'Тимур? Ты решил поставлять ей продукты?', 'Timur? You decided to supply her with food?', [(152, 'Тимур?'), (156, 'будешь ей поставлять продукты')], ''),
-    ('elena', 'Виктор Петрович, моё почтение.', 'Viktor Petrovich, my respects.', [(153, 'Виктор Петрович, мое почтение.')], ''),
-    ('chef', 'Учти, я долг не верну.', 'Keep in mind, I will not return the debt.', [(156, 'учти,'), (156, 'долг не верну.')], ''),
-    ('elena', 'Извините, наше сотрудничество подошло к концу.', 'Excuse me, our cooperation has come to an end.', [(157, 'Извините,'), (157, 'наше сотрудничество подошло к концу.')], ''),
-    ('elena', 'Я не могу перечить старшему.', 'I cannot contradict an older man.', [(158, 'не могу перечить старшему')], ''),
-    ('elena', 'Тем более, вы должны мне пятнадцать тысяч.', 'Especially since you owe me fifteen thousand.', [(158, 'тем более,'), (159, 'у меня торчит 15 штук.')], ''),
-    ('chef', 'Десять.', 'Ten.', [], ''),
+    ('barinov', 'Тимур? Ты решил поставлять ей продукты?', 'Timur? You decided to supply her with food?', [(152, 'Тимур?'), (156, 'будешь ей поставлять продукты')], ''),
+    ('timur', 'Виктор Петрович, моё почтение.', 'Viktor Petrovich, my respects.', [(153, 'Виктор Петрович, мое почтение.')], ''),
+    ('barinov', 'Учти, я долг не верну.', 'Keep in mind, I will not return the debt.', [(156, 'учти,'), (156, 'долг не верну.')], ''),
+    ('timur', 'Извините, наше сотрудничество подошло к концу.', 'Excuse me, our cooperation has come to an end.', [(157, 'Извините,'), (157, 'наше сотрудничество подошло к концу.')], ''),
+    ('timur', 'Я не могу перечить старшему.', 'I cannot contradict an older man.', [(158, 'не могу перечить старшему')], ''),
+    ('timur', 'Тем более, вы должны мне пятнадцать тысяч.', 'Especially since you owe me fifteen thousand.', [(158, 'тем более,'), (159, 'у меня торчит 15 штук.')], ''),
+    ('barinov', 'Десять.', 'Ten.', [], ''),
 ]
 WALK = [
     (0, None, "'I handled one of your trash bins.' Chef Barinov puts the word for 'one' together with 'trash bin' and 'to manage' in a crisp, natural spoken turn of phrase."),

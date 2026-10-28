@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лидия Алексеевна | Аркадий Борисович, извините, тут к вам человек. | Arkady Borisovich, I'm sorry, there's a man here to see you. | #212 00:13:09: Аркадий Борисович, извините | adapted: 'тут к вам человек' new (cue 213 'вот человек, который...') |
-| 2 | Лидия Алексеевна | Я ему сказала, что сегодня вы не принимаете. | I told him you're not seeing anyone today. | #214 00:13:15: я ему сказала, что | adapted: 'у вас сегодня неприёмный день' -> 'сегодня вы не принимаете' |
-| 3 | Аня | Всё нормально, Лидия Алексеевна. | It's all right, Lidia Alekseyevna. | #216 00:13:19: Все нормально | adapted: garbled name 'Олегия' -> 'Лидия' |
-| 4 | Аня | Ну, здравствуй, Самсон. | Well, hello, Samson. | #217 00:13:23: Ну, здравствуй, Самсон | verbatim |
-| 5 | Самсон | Узнал. Спасибо, что принял меня. | You recognised me. Thanks for seeing me. | #219 00:14:00: Узнал<br>#220 00:14:02: Спасибо, что принял меня | verbatim |
-| 6 | Самсон | Я думал, может, не примешь. | I thought maybe you wouldn't see me. | #221 00:14:26: Я думал, может | adapted: 'пошлёшь' (tell me to get lost) -> 'не примешь' |
-| 7 | Аня | Ну что ты? Я очень рад тебя видеть. | Oh, come on! I'm very glad to see you. | #222 00:14:27: Ну что ты<br>#224 00:14:31: Я очень рад тебя видеть | verbatim |
-| 8 | Аня | Ну, рассказывай, как дела? | So, tell me, how are you doing? | #225 00:14:33: Ну, рассказывай, как дела | verbatim |
-| 9 | Самсон | Всё нормально. Работаю на стройке. | Everything's fine. I work on a building site. | #226 00:14:38: Все нормально<br>#239 00:15:09: Работаю на стройке | verbatim |
-| 10 | Самсон | Аркаш, попросить тебя хотел. | Arkash, I wanted to ask you something. | #250 00:15:39: Аркаш<br>#251 00:15:58: Попросить тебя хотел | verbatim |
-| 11 | Самсон | Экскаваторщик — это не мой уровень. Может, поможешь? | Excavator driver isn't my level. Maybe you could help? | #253 00:16:08: экскаваторщик не мой уровень<br>#254 00:16:16: Может, поможешь | adapted: 'это' added |
-| 12 | Аня | Конечно, помогу. Кто у вас сейчас начальник? | Of course I'll help. Who's your boss now? | #256 00:16:20: Конечно, помогу<br>#261 00:16:30: у вас сейчас начальник | adapted: 'там' dropped |
-| 13 | Самсон | Ну, это Головамзюк. | Well, it's Golovamzyuk. | #262 00:16:32: Ну, это Головамзюк | verbatim |
-| 14 | Аня | Давай мы его уволим, а тебя на его место назначим. | Let's fire him and put you in his place. | #264 00:16:38: мы его уволим<br>#265 00:16:43: а тебя на его место назначим | adapted: 'давай-ка' -> 'давай', crude 'к чертям' dropped |
-| 15 | Самсон | Да ладно, что, серьёзно? | No way, what, seriously? | #267 00:16:46: Да ладно, что серьезно | verbatim |
-| 16 | Аня | Конечно. Звони ему. | Of course. Call him. | #268 00:16:48: конечно<br>#272 00:17:00: Звони ему | verbatim |
-| 17 | Самсон | Николай Филиппович, я сейчас в кабинете у мэра. | Nikolai Filippovich, I'm in the mayor's office right now. | #280 00:17:18: Николай Филиппович<br>#283 00:17:25: Я сейчас<br>#283 00:17:25: в кабинете у мэра | adapted: 'нахожусь' dropped |
-| 18 | Самсон | Теперь я начальник нашей стройки. Ты уволен! | Now I'm the boss of our building site. You're fired! | #285 00:17:31: теперь я начальник нашей стройки<br>#286 00:17:36: Ты уволен | adapted: crude insults at 287-289 dropped |
+| 1 | Лидия Алексеевна | Аркадий Борисович, извините, тут к вам человек. | Arkady Borisovich, I'm sorry, there's a man here to see you. | #212: Аркадий Борисович, извините | adapted: 'тут к вам человек' new (cue 213 'вот человек, который...') |
+| 2 | Лидия Алексеевна | Я ему сказала, что сегодня вы не принимаете. | I told him you're not seeing anyone today. | #214: я ему сказала, что | adapted: 'у вас сегодня неприёмный день' -> 'сегодня вы не принимаете' |
+| 3 | Аркадий | Всё нормально, Лидия Алексеевна. | It's all right, Lidia Alekseyevna. | #216: Все нормально | adapted: garbled name 'Олегия' -> 'Лидия' |
+| 4 | Аркадий | Ну, здравствуй, Самсон. | Well, hello, Samson. | #217: Ну, здравствуй, Самсон | verbatim |
+| 5 | Самсон | Узнал. Спасибо, что принял меня. | You recognised me. Thanks for seeing me. | #219: Узнал<br>#220: Спасибо, что принял меня | verbatim |
+| 6 | Самсон | Я думал, может, не примешь. | I thought maybe you wouldn't see me. | #221: Я думал, может | adapted: 'пошлёшь' (tell me to get lost) -> 'не примешь' |
+| 7 | Аркадий | Ну что ты? Я очень рад тебя видеть. | Oh, come on! I'm very glad to see you. | #222: Ну что ты<br>#224: Я очень рад тебя видеть | verbatim |
+| 8 | Аркадий | Ну, рассказывай, как дела? | So, tell me, how are you doing? | #225: Ну, рассказывай, как дела | verbatim |
+| 9 | Самсон | Всё нормально. Работаю на стройке. | Everything's fine. I work on a building site. | #226: Все нормально<br>#239: Работаю на стройке | verbatim |
+| 10 | Самсон | Аркаш, попросить тебя хотел. | Arkash, I wanted to ask you something. | #250: Аркаш<br>#251: Попросить тебя хотел | verbatim |
+| 11 | Самсон | Экскаваторщик — это не мой уровень. Может, поможешь? | Excavator driver isn't my level. Maybe you could help? | #253: экскаваторщик не мой уровень<br>#254: Может, поможешь | adapted: 'это' added |
+| 12 | Аркадий | Конечно, помогу. Кто у вас сейчас начальник? | Of course I'll help. Who's your boss now? | #256: Конечно, помогу<br>#261: у вас сейчас начальник | adapted: 'там' dropped |
+| 13 | Самсон | Ну, это Головамзюк. | Well, it's Golovamzyuk. | #262: Ну, это Головамзюк | verbatim |
+| 14 | Аркадий | Давай мы его уволим, а тебя на его место назначим. | Let's fire him and put you in his place. | #264: мы его уволим<br>#265: а тебя на его место назначим | adapted: 'давай-ка' -> 'давай', crude 'к чертям' dropped |
+| 15 | Самсон | Да ладно, что, серьёзно? | No way, what, seriously? | #267: Да ладно, что серьезно | verbatim |
+| 16 | Аркадий | Конечно. Звони ему. | Of course. Call him. | #268: конечно<br>#272: Звони ему | verbatim |
+| 17 | Самсон | Николай Филиппович, я сейчас в кабинете у мэра. | Nikolai Filippovich, I'm in the mayor's office right now. | #280: Николай Филиппович<br>#283: Я сейчас<br>#283: в кабинете у мэра | adapted: 'нахожусь' dropped |
+| 18 | Самсон | Теперь я начальник нашей стройки. Ты уволен! | Now I'm the boss of our building site. You're fired! | #285: теперь я начальник нашей стройки<br>#286: Ты уволен | adapted: crude insults at 287-289 dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

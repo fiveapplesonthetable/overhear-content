@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Спасибо, Луи. | Thank you, Louis. | #196 00:12:42: Спасибо, Луи | adapted: exact |
-| 2 | Шеф | Неплохо, но хрустит слишком сильно. | Not bad, but it crunches too hard. | #198 00:12:51: Неплохо. Хрустит | adapted: adapted |
-| 3 | Шеф | Честно? | Honestly? | #200 00:12:57: Честно? | adapted: exact |
-| 4 | Шеф | Извини, какой зять, такое печенье. | Sorry, like son-in-law, like cookies. | #202 00:13:00: Извини, какой зять, такое печенье | adapted: exact |
-| 5 | Шеф | Вы что, собираетесь готовить на моей кухне? | Are you planning to cook in my kitchen? | #204 00:13:06: Вы что, собираетесь готовить на моей кухне? | adapted: exact |
-| 6 | Шеф | Витя, ты не видел мои очки? | Vitya, have you seen my glasses? | #206 00:13:12: Витя, ты не видел мои очки? | adapted: exact |
-| 7 | Шеф | Ну где они? | Well where are they? | #208 00:13:18: Ну где они? | adapted: exact |
-| 8 | Шеф | Кажется, я их нашел. | I think I found them. | #209 00:13:22: Кажется, я их нашел | adapted: exact |
-| 9 | Шеф | Какой ты молодец, Витя. | Good for you, Vitya. | #210 00:13:25: Какой ты молодец, Витя | adapted: exact |
-| 10 | Шеф | Теперь ты будешь делать это печенье. | Now you will make these cookies. | #212 00:13:32: Теперь ты будешь делать это печенье | adapted: exact |
-| 11 | Шеф | Дела в ресторане я принял. | I have taken over the restaurant affairs. | #213 00:13:35: Дела в ресторане я принял | adapted: exact |
-| 12 | Шеф | На кухне нужно срочно заменить холодильник. | In the kitchen we urgently need to replace the refrigerator. | #214 00:13:36: На кухне нужно срочно заменить холодильник | adapted: exact |
+| 1 | Шеф | Спасибо, Луи. | Thank you, Louis. | #196: Спасибо, Луи | adapted: exact |
+| 2 | Гость | Неплохо, но хрустит слишком сильно. | Not bad, but it crunches too hard. | #198: Неплохо. Хрустит | adapted: adapted |
+| 3 | Шеф | Честно? | Honestly? | #200: Честно? | adapted: exact |
+| 4 | Шеф | Извини, какой зять, такое печенье. | Sorry, like son-in-law, like cookies. | #202: Извини, какой зять, такое печенье | adapted: exact |
+| 5 | Шеф | Вы что, собираетесь готовить на моей кухне? | Are you planning to cook in my kitchen? | #204: Вы что, собираетесь готовить на моей кухне? | adapted: exact |
+| 6 | Гость | Витя, ты не видел мои очки? | Vitya, have you seen my glasses? | #206: Витя, ты не видел мои очки? | adapted: exact |
+| 7 | Гость | Ну где они? | Well where are they? | #208: Ну где они? | adapted: exact |
+| 8 | Шеф | Кажется, я их нашел. | I think I found them. | #209: Кажется, я их нашел | adapted: exact |
+| 9 | Гость | Какой ты молодец, Витя. | Good for you, Vitya. | #210: Какой ты молодец, Витя | adapted: exact |
+| 10 | Гость | Теперь ты будешь делать это печенье. | Now you will make these cookies. | #212: Теперь ты будешь делать это печенье | adapted: exact |
+| 11 | Никита | Дела в ресторане я принял. | I have taken over the restaurant affairs. | #213: Дела в ресторане я принял | adapted: exact |
+| 12 | Никита | На кухне нужно срочно заменить холодильник. | In the kitchen we urgently need to replace the refrigerator. | #214: На кухне нужно срочно заменить холодильник | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Louis.' The meaning hinges on 'thank you' working together with 'Louis' in spoken Russian.
-- 'Not bad, but it crunches too hard.' In Russian, the idea of 'not bad' flows naturally into 'strongly' without extra filler words. Chef Barinov answers right away.
-- 'Honestly?' Here the Russian phrasing highlights 'honestly' before landing on 'honestly'.
-- 'Sorry, like son-in-law, like cookies.' Notice how Russian expresses 'sorry' and 'cookies' with crisp inflection rather than helper words.
-- 'Are you planning to cook in my kitchen?' The grammar packs 'you' and 'kitchen' into a tight, idiomatic kitchen exchange. the guest answers right away.
-- 'Vitya, have you seen my glasses?' the guest brings out the contrast between 'you' and 'not' in a few short words.
-- 'Well where are they?' In Russian, the idea of 'come on' flows naturally into 'they' without extra filler words.
-- 'I think I found them.' In Russian, the idea of 'it seems' flows naturally into 'to find' without extra filler words. the guest answers right away.
-- 'Good for you, Vitya.' the guest anchors the line on 'what', while 'well done' completes the thought.
-- 'Now you will make these cookies.' The grammar packs 'now' and 'cookies' into a tight, idiomatic kitchen exchange.
-- 'I have taken over the restaurant affairs.' Notice how Russian expresses 'things to do' and 'accepted' with crisp inflection rather than helper words.
-- 'In the kitchen we urgently need to replace the refrigerator.' Notice how Russian expresses 'on' and 'refrigerator' with crisp inflection rather than helper words.
+- 'Thank you, Louis.' Over the plan and the wedding, Barinov answers the guest without a second thought.
+- 'Not bad, but it crunches too hard.' Around the point and plan, the guest sets a calm, everyday tone with Barinov.
+- 'Honestly?' With the conversation and wedding hanging in the air, Barinov puts the guest on the spot.
+- 'Sorry, like son-in-law, like cookies.' By liking son in law like cookies, Barinov keeps his side of the story grounded.
+- 'Are you planning to cook in my kitchen?' Checking whether the guest planning to cook in his kitchen is how Barinov puts the guest on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Vitya, have you seen my glasses?' Here checking whether Barinov seen his glasses shows the guest looking for the real truth.
+- 'Well where are they?' By asking where they are, the guest presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I think I found them.' Thinking he found them is how Barinov lays out the situation for the guest.
+- 'Good for you, Vitya.' Around the plan and wedding, the guest sets a calm, everyday tone with Barinov.
+- 'Now you will make these cookies.' Because Barinov will make these cookies, the guest treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I have taken over the restaurant affairs.' Admitting that he has taken over the restaurant affairs shows Nikita being honest for a change.
+- 'In the kitchen we urgently need to replace the refrigerator.' With the room and wedding in play, Nikita keeps this short reply brisk and direct.

@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 3
-TITLE = "Незнакомая гостья  (An Unknown Guest)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Незнакомая гостья  (An Unknown Guest)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja"}
-LABELS = {"kostya": "Костя"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "In the corridor outside the bustling kitchen of Claude Monet, bartender Kostya approaches Chef Viktor Barinov with a message. An unfamiliar young woman has arrived at the restaurant specifically asking for the head chef, claiming to have an important proposal. Let's listen to their brief exchange in Russian first."
 OPENER = "Now let's examine Kostya and Barinov's corridor conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Curious despite his lingering hangover, Chef Barinov heads toward the entrance to discover what the television representative wants, while Kostya hurries to brew his tea. Next time you watch the episode, listen for the Russian expressions for 'important' and 'time' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Шеф, вас там какая-то девушка зовёт.', 'Chef, some young woman is calling for you over there.', [(6, 'Вас там какая-то девушка зовет.')], ''),
-    ('kostya', 'Кто она такая и что ей нужно?', 'Who is she and what does she need?', [], ''),
+    ('barinov', 'Кто она такая и что ей нужно?', 'Who is she and what does she need?', [], ''),
     ('kostya', 'Она сказала, что пришла с телевидения.', 'She said that she came from television.', [], ''),
-    ('kostya', 'Я не хочу ни с кем говорить.', 'I do not want to talk to anyone.', [], ''),
+    ('barinov', 'Я не хочу ни с кем говорить.', 'I do not want to talk to anyone.', [], ''),
     ('kostya', 'Она говорит, что дело очень важное.', 'She says that the matter is very important.', [], ''),
-    ('kostya', 'У меня сейчас совершенно нет времени.', 'I currently have absolutely no time.', [], ''),
+    ('barinov', 'У меня сейчас совершенно нет времени.', 'I currently have absolutely no time.', [], ''),
     ('kostya', 'Она ждёт вас возле главного входа.', 'She is waiting for you near the main entrance.', [], ''),
-    ('kostya', 'Пусть зайдёт ко мне в кабинет.', 'Let her come into my office.', [], ''),
+    ('barinov', 'Пусть зайдёт ко мне в кабинет.', 'Let her come into my office.', [], ''),
     ('kostya', 'Она просила выйти на одну минуту.', 'She asked you to come out for one minute.', [], ''),
-    ('kostya', 'Ладно, Костя, я сейчас подойду сам.', 'Fine, Kostya, I will come over myself now.', [], ''),
+    ('barinov', 'Ладно, Костя, я сейчас подойду сам.', 'Fine, Kostya, I will come over myself now.', [], ''),
     ('kostya', 'Спасибо, шеф, я передам ваши слова.', 'Thank you, chef, I will convey your words.', [], ''),
-    ('kostya', 'И налей мне крепкого чёрного чая.', 'And pour me some strong black tea.', [], ''),
+    ('barinov', 'И налей мне крепкого чёрного чая.', 'And pour me some strong black tea.', [], ''),
     ('kostya', 'Конечно, шеф, сделаю прямо сейчас.', 'Of course, chef, I will do it right now.', [], ''),
 ]
 WALK = [

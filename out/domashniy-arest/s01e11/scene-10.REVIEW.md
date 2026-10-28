@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Генерал Круглов | На кого ты сейчас намекаешь, майор? | Who are you hinting at right now, Major? | #267 00:15:25: Это ты сейчас на кого намекаешь, майор Лавров | verbatim |
-| 2 | Лавров | А я ни на кого не намекаю. | And I am not hinting at anyone. | #268 00:15:30: А я не намекаю | verbatim |
-| 3 | Лавров | Я прямо говорю вам в глаза. | I am telling you straight to your face. | #269 00:15:32: Я прямо говорю | verbatim |
-| 4 | Лавров | Неужели президент накажет вас за правду? | Will the president really punish you for the truth? | #271 00:15:36: Ну что он вас съест | verbatim |
-| 5 | Лавров | Мы просто хотим вернуть деньги государству. | We simply want to return the money to the state. | #272 00:15:41: Деньги в бюджет вернуть | verbatim |
-| 6 | Лавров | Вы постоянно боитесь любого риска. | You are constantly afraid of any risk. | #274 00:15:44: Ничего не происходит | verbatim |
-| 7 | Лавров | Поэтому у нас ничего не происходит! | That is why nothing ever happens with us! | #274 00:15:44: Ничего не происходит | verbatim |
-| 8 | Генерал Круглов | Ты сейчас сильно перебрал, майор Лавров! | You have really overstepped now, Major Lavrov! | #275 00:15:46: Ты сейчас перебрал | verbatim |
-| 9 | Генерал Круглов | Немедленно пиши свой рапорт об отставке! | Write your resignation report immediately! | #276 00:15:52: Пиши рапорт об отставке | verbatim |
-| 10 | Лавров | Да ради бога, прямо сейчас напишу! | For goodness' sake, I will write it right now! | #277 00:15:55: Да ради бога | verbatim |
-| 11 | Генерал Круглов | Твоё поведение очень смелое, но глупое. | Your behavior is very brave, but foolish. | #278 00:15:57: Смело, но глупо | verbatim |
-| 12 | Генерал Круглов | Ты только что разрушил свою карьеру. | You have just destroyed your own career. | #278 00:15:57: Смело, но глупо | verbatim |
-| 13 | Лавров | Зато моя совесть останется полностью чистой. | At least my conscience will remain completely clean. | #277 00:15:55: Да ради бога | verbatim |
-| 14 | Генерал Круглов | Смело, но очень глупо, майор. | Brave, but very foolish, Major. | #278 00:15:57: Смело, но глупо | verbatim |
+| 1 | Генерал Круглов | На кого ты сейчас намекаешь, майор? | Who are you hinting at right now, Major? | #267: Это ты сейчас на кого намекаешь, майор Лавров | verbatim |
+| 2 | Лавров | А я ни на кого не намекаю. | And I am not hinting at anyone. | #268: А я не намекаю | verbatim |
+| 3 | Лавров | Я прямо говорю вам в глаза. | I am telling you straight to your face. | #269: Я прямо говорю | verbatim |
+| 4 | Лавров | Неужели президент накажет вас за правду? | Will the president really punish you for the truth? | #271: Ну что он вас съест | verbatim |
+| 5 | Лавров | Мы просто хотим вернуть деньги государству. | We simply want to return the money to the state. | #272: Деньги в бюджет вернуть | verbatim |
+| 6 | Лавров | Вы постоянно боитесь любого риска. | You are constantly afraid of any risk. | #274: Ничего не происходит | verbatim |
+| 7 | Лавров | Поэтому у нас ничего не происходит! | That is why nothing ever happens with us! | #274: Ничего не происходит | verbatim |
+| 8 | Генерал Круглов | Ты сейчас сильно перебрал, майор Лавров! | You have really overstepped now, Major Lavrov! | #275: Ты сейчас перебрал | verbatim |
+| 9 | Генерал Круглов | Немедленно пиши свой рапорт об отставке! | Write your resignation report immediately! | #276: Пиши рапорт об отставке | verbatim |
+| 10 | Лавров | Да ради бога, прямо сейчас напишу! | For goodness' sake, I will write it right now! | #277: Да ради бога | verbatim |
+| 11 | Генерал Круглов | Твоё поведение очень смелое, но глупое. | Your behavior is very brave, but foolish. | #278: Смело, но глупо | verbatim |
+| 12 | Генерал Круглов | Ты только что разрушил свою карьеру. | You have just destroyed your own career. | #278: Смело, но глупо | verbatim |
+| 13 | Лавров | Зато моя совесть останется полностью чистой. | At least my conscience will remain completely clean. | #277: Да ради бога | verbatim |
+| 14 | Генерал Круглов | Смело, но очень глупо, майор. | Brave, but very foolish, Major. | #278: Смело, но глупо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

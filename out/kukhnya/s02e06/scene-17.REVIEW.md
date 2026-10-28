@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Выдай мне это чертово кольцо, семя. | Give me back that damned ring right now, Senya. | #281 00:18:22: Выдай мне это чертово кольцо, семя | verbatim |
-| 2 | Сеня | Не давите на меня. | Do not pressure me like this. | #282 00:18:25: не давите на меня | verbatim |
-| 3 | Сеня | А то как? | Or else how am I supposed to? | #283 00:18:28: А то как | verbatim |
-| 4 | Шеф | Шеф, давайте я завтра нам это кольцо отдам. | Chef, let me give this ring back to you tomorrow. | #285 00:18:32: Шеф, давайте я завтра нам это кольцо отдам | verbatim |
-| 5 | Сеня | Я знаю свой организм. | I know my own digestive system. | #286 00:18:35: Я знаю свой организм | verbatim |
-| 6 | Сеня | Ты до завтра не доживешь. | You will not live until tomorrow. | #287 00:18:38: Ты до завтра не доживешь | verbatim |
-| 7 | Шеф | Да какой завтра? | What do you mean tomorrow? | #287 00:18:38: Да какой завтра | verbatim |
-| 8 | Сеня | Вика, что происходит? | Vika, what is going on in here? | #288 00:18:43: Вика, что происходит | verbatim |
-| 9 | Сеня | Ничего, а что? | Nothing, why do you ask? | #289 00:18:45: Ничего, а что | verbatim |
-| 10 | Шеф | Где мое кольцо? | Where is my ring? | #289 00:18:45: Где мое кольцо | verbatim |
-| 11 | Сеня | А откуда ты знаешь о кольце? | Wait, how do you know about the ring? | #290 00:18:50: А откуда ты знаешь о кольце | verbatim |
-| 12 | Сеня | Вы что думаете? | What do you people think? | #291 00:18:52: Вы что думаете | verbatim |
-| 13 | Шеф | Я над этим целый год работаю. | I have been working toward this for a whole year. | #292 00:18:54: Я над этим целый год работаю | verbatim |
+| 1 | Шеф | Выдай мне это чертово кольцо, семя. | Give me back that damned ring right now, Senya. | #281: Выдай мне это чертово кольцо, семя | verbatim |
+| 2 | Вика | Не давите на меня. | Do not pressure me like this. | #282: не давите на меня | verbatim |
+| 3 | Сеня | А то как? | Or else how am I supposed to? | #283: А то как | verbatim |
+| 4 | Шеф | Шеф, давайте я завтра нам это кольцо отдам. | Chef, let me give this ring back to you tomorrow. | #285: Шеф, давайте я завтра нам это кольцо отдам | verbatim |
+| 5 | Вика | Я знаю свой организм. | I know my own digestive system. | #286: Я знаю свой организм | verbatim |
+| 6 | Сеня | Ты до завтра не доживешь. | You will not live until tomorrow. | #287: Ты до завтра не доживешь | verbatim |
+| 7 | Шеф | Да какой завтра? | What do you mean tomorrow? | #287: Да какой завтра | verbatim |
+| 8 | Вика | Вика, что происходит? | Vika, what is going on in here? | #288: Вика, что происходит | verbatim |
+| 9 | Сеня | Ничего, а что? | Nothing, why do you ask? | #289: Ничего, а что | verbatim |
+| 10 | Шеф | Где мое кольцо? | Where is my ring? | #289: Где мое кольцо | verbatim |
+| 11 | Вика | А откуда ты знаешь о кольце? | Wait, how do you know about the ring? | #290: А откуда ты знаешь о кольце | verbatim |
+| 12 | Сеня | Вы что думаете? | What do you people think? | #291: Вы что думаете | verbatim |
+| 13 | Шеф | Я над этим целый год работаю. | I have been working toward this for a whole year. | #292: Я над этим целый год работаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me back that damned ring right now, Senya.' The meaning hinges on 'to issue' working together with 'seven' in spoken Russian.
-- 'Do not pressure me like this.' The negative particle sits right before the verb meaning 'to press' to negate the statement. Senya answers right away.
-- 'Or else how am I supposed to?' Spoken Russian keeps this brief and expressive, built right around 'how / what do you mean' without extra helper words.
-- 'Chef, let me give this ring back to you tomorrow.' In Russian, the idea of 'chef' flows naturally into 'I give back' without extra filler words.
-- 'I know my own digestive system.' Here the Russian phrasing highlights 'I' before landing on 'organism'. Senya answers right away.
-- 'You will not live until tomorrow.' The grammar packs 'you' and 'to live until' into a tight, idiomatic kitchen exchange.
-- 'What do you mean tomorrow?' Here the Russian phrasing highlights 'yes' before landing on 'tomorrow'.
-- 'Vika, what is going on in here?' Spoken Russian keeps this brisk, leaning on 'Vika' and finishing on 'is going on'. Senya answers right away.
-- 'Nothing, why do you ask?' The meaning hinges on 'nothing' working together with 'what' in spoken Russian.
-- 'Where is my ring?' Chef Viktor anchors the line on 'where', while 'ring' completes the thought.
-- 'Wait, how do you know about the ring?' Vika anchors the line on 'and', while 'ring' completes the thought. Senya answers right away.
-- 'What do you people think?' Senya chooses the respectful plural 'you' alongside 'think' to keep a polite distance.
-- 'I have been working toward this for a whole year.' Here the Russian phrasing highlights 'I' before landing on 'work'.
+- 'Give me back that damned ring right now, Senya.' Barinov explains that Senya should give him back that damned ring right now, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Do not pressure me like this.' Claiming that do not pressure her like this sounds confident, even if Barinov has doubts.
+- 'Or else how am I supposed to?' With the plan and work hanging in the air, Senya puts Barinov on the spot.
+- 'Chef, let me give this ring back to you tomorrow.' Telling Senya to let him give this ring back to Senya tomorrow is how Barinov lays out the situation for Senya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'I know my own digestive system.' Even though she knows her own digestive system, Vika keeps a steady face in front of Barinov.
+- 'You will not live until tomorrow.' Noting that Barinov will not live until tomorrow keeps Senya's side of the story simple and clear.
+- 'What do you mean tomorrow?' Wondering what Senya means tomorrow cuts straight through the tension between Barinov and Senya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Vika, what is going on in here?' Asking what going on in here is is how Vika puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Nothing, why do you ask?' Senya asks whether nothing why do Barinov asks, refusing to let the point slide.
+- 'Where is my ring?' By wondering where his ring is, Barinov presses Senya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Wait, how do you know about the ring?' Asking how Barinov knows about the ring cuts straight through the tension between Vika and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What do you people think?' Wondering what Barinov people think is how Senya puts Barinov on the spot.
+- 'I have been working toward this for a whole year.' Having been working toward this for a whole year is how Barinov lays out the situation for Senya.

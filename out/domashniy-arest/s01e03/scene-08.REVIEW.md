@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Ну что, ты его напугал? | Well then, did you scare him? | #291 00:15:19: Его напугал | adapted: 'Ну что, ты' added |
-| 2 | Самсон | Я ему всё сказал! Сказал, что ухо отрежу. | I told him everything! I told him I'd cut his ear off. | #293 00:15:38: ему сказал<br>#293 00:15:38: ухо отрежу | adapted: cues 292-293 ('Че только не говорил. Я вообще ему сказал, там эти ухо отрежу') simplified |
-| 3 | Самсон | И ложкой глаз достану. | And take his eye out with a spoon. | #294 00:15:40: Ложкой глаз | adapted: rare 'выковырю' (gouge out) -> 'достану' |
+| 1 | Нина | Ну что, ты его напугал? | Well then, did you scare him? | #291: Его напугал | adapted: 'Ну что, ты' added |
+| 2 | Самсон | Я ему всё сказал! Сказал, что ухо отрежу. | I told him everything! I told him I'd cut his ear off. | #293: ему сказал<br>#293: ухо отрежу | adapted: cues 292-293 ('Че только не говорил. Я вообще ему сказал, там эти ухо отрежу') simplified |
+| 3 | Самсон | И ложкой глаз достану. | And take his eye out with a spoon. | #294: Ложкой глаз | adapted: rare 'выковырю' (gouge out) -> 'достану' |
 | 4 | Нина | И что он? | And what did he do? | new | new: link between Samson's threat and Arkady's reaction |
-| 5 | Самсон | Ничего! Сидит и улыбается. | Nothing! He just sits there smiling. | #295 00:15:43: Сидит | adapted: slang 'лыбится' (grins) -> 'и улыбается' |
-| 6 | Нина | А ты таким голосом его и пугал? | And did you try to scare him in that voice? | #297 00:15:48: пугал | adapted: cues 296-297 ('А че-то вот с этой вот интонацией / Ей пугал что ли?') simplified |
-| 7 | Самсон | Нет, я нормально его пугал, строго! | No, I scared him properly, sternly! | #298 00:15:50: Нормально его пугал, нет | adapted: 'сурово' -> 'строго' |
-| 8 | Нина | Вот она, наша новая квартира, Самсон, понимаешь? | There it is, our new flat, Samson, do you understand? | #299 00:15:53: Вот она<br>#299 00:15:53: понимаешь | adapted: 'квартирка, вот Самсонов' -> 'наша новая квартира, Самсон' |
-| 9 | Нина | А ты ничего сделать не можешь! | And you can't do a thing! | #300 00:15:57: А ты ничего сделать не можешь | verbatim |
-| 10 | Нина | Какой-то детский лепет несёшь. | You're talking some kind of childish nonsense. | #301 00:15:58: Какой-то детский лепет несешь | verbatim |
-| 11 | Самсон | А что ты предлагаешь? Чтобы я ему правда ухо отрезал? | Well, what are you suggesting? That I really cut his ear off? | #302 00:15:59: ты<br>#302 00:15:59: предлагаешь, чтобы<br>#302 00:15:59: ему ухо<br>#302 00:15:59: отрезал | adapted: 'Че ... вообще' -> 'А что'; 'по-настоящему' -> 'правда' |
-| 12 | Самсон | Ты же у нас такая умная! Скажи, что сделать, я сделаю. | You're the clever one here! Tell me what to do, and I'll do it. | #303 00:16:02: Такая умная<br>#304 00:16:02: Скажи, что сделать, я сделаю | adapted: 'Ты же у нас' added |
+| 5 | Самсон | Ничего! Сидит и улыбается. | Nothing! He just sits there smiling. | #295: Сидит | adapted: slang 'лыбится' (grins) -> 'и улыбается' |
+| 6 | Нина | А ты таким голосом его и пугал? | And did you try to scare him in that voice? | #297: пугал | adapted: cues 296-297 ('А че-то вот с этой вот интонацией / Ей пугал что ли?') simplified |
+| 7 | Самсон | Нет, я нормально его пугал, строго! | No, I scared him properly, sternly! | #298: Нормально его пугал, нет | adapted: 'сурово' -> 'строго' |
+| 8 | Нина | Вот она, наша новая квартира, Самсон, понимаешь? | There it is, our new flat, Samson, do you understand? | #299: Вот она<br>#299: понимаешь | adapted: 'квартирка, вот Самсонов' -> 'наша новая квартира, Самсон' |
+| 9 | Нина | А ты ничего сделать не можешь! | And you can't do a thing! | #300: А ты ничего сделать не можешь | verbatim |
+| 10 | Нина | Какой-то детский лепет несёшь. | You're talking some kind of childish nonsense. | #301: Какой-то детский лепет несешь | verbatim |
+| 11 | Самсон | А что ты предлагаешь? Чтобы я ему правда ухо отрезал? | Well, what are you suggesting? That I really cut his ear off? | #302: ты<br>#302: предлагаешь, чтобы<br>#302: ему ухо<br>#302: отрезал | adapted: 'Че ... вообще' -> 'А что'; 'по-настоящему' -> 'правда' |
+| 12 | Самсон | Ты же у нас такая умная! Скажи, что сделать, я сделаю. | You're the clever one here! Tell me what to do, and I'll do it. | #303: Такая умная<br>#304: Скажи, что сделать, я сделаю | adapted: 'Ты же у нас' added |
 | 13 | Нина | Что сделать? Пойдём в магазин. | What to do? Let's go to the shop. | new | new: expands cue 305 ('Чё?') to point to their hardware-shop trip in Scene 12 |
 
 ## Walk-through narration (English only, no target-language words quoted)

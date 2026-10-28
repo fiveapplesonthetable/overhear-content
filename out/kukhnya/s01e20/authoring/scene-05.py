@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 5
-TITLE = "Серьёзный разговор  (Serious Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Серьёзный разговор  (Serious Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Nastya approaches Kostya at work for a serious conversation. Kostya is terrified that she wants to talk about marriage. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Serious Conversation line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya successfully dodges the conversation by faking a sudden illness, buying himself a little more time. Next time you watch the episode, listen for the Russian expressions for 'necessary' and 'seriously' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, нам нужно серьёзно поговорить.', 'Kostya, we need to talk seriously.', [(135, 'Костя')], ''),
     ('nastya', 'Я хотела с тобой кое-что обсудить.', 'I wanted to discuss something with you.', [(135, 'я хотела с тобой кое-что обсудить')], ''),

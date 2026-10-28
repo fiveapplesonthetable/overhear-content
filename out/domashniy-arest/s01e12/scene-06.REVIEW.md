@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Ты как всё подпишешь, сразу позвони. | As soon as you sign everything, call right away. | #122 00:14:14: Ты как все подпишешь, позвони | verbatim |
-| 2 | Самсон | Хорошо, я пошёл на важное дело. | Alright, I am heading out on an important job. | #123 00:14:16: пошел на дело | verbatim |
-| 3 | Нина | Самсонов, подожди ещё одну минуту! | Samsonov, wait one more minute! | #124 00:14:30: Самсонов | verbatim |
-| 4 | Самсон | Да, Нинок, что ты хотела сказать? | Yes, Ninok, what did you want to say? | #125 00:14:31: Да | verbatim |
-| 5 | Нина | Ты у меня сегодня такой красивый! | You are so handsome today! | #126 00:14:33: Ты у меня такой красивый | verbatim |
+| 1 | Нина | Ты как всё подпишешь, сразу позвони. | As soon as you sign everything, call right away. | #122: Ты как все подпишешь, позвони | verbatim |
+| 2 | Самсон | Хорошо, я пошёл на важное дело. | Alright, I am heading out on an important job. | #123: пошел на дело | verbatim |
+| 3 | Нина | Самсонов, подожди ещё одну минуту! | Samsonov, wait one more minute! | #124: Самсонов | verbatim |
+| 4 | Самсон | Да, Нинок, что ты хотела сказать? | Yes, Ninok, what did you want to say? | #125: Да | verbatim |
+| 5 | Нина | Ты у меня сегодня такой красивый! | You are so handsome today! | #126: Ты у меня такой красивый | verbatim |
 | 6 | Самсон | Правда? А на кого я похож? | Really? And who do I look like? | new | new |
-| 7 | Нина | Прямо как знаменитый актёр Стивен Снегов! | Just like the famous actor Steven Snegov! | #126 00:14:33: прям как Стивен Снегов | verbatim |
+| 7 | Нина | Прямо как знаменитый актёр Стивен Снегов! | Just like the famous actor Steven Snegov! | #126: прям как Стивен Снегов | verbatim |
 | 8 | Самсон | Тогда эта поездка точно будет удачной. | Then this trip will definitely be successful. | new | new |
 | 9 | Нина | Мы наконец-то уедем из этой коммуналки. | We will finally leave this communal flat. | new | new |
 | 10 | Нина | Мы обязательно купим большой новый дом! | We will definitely buy a big new house! | new | new |
-| 11 | Самсон | У нас сейчас открываются большие карты. | Big cards are opening up for us now. | #127 00:14:37: Большие карты | verbatim |
+| 11 | Самсон | У нас сейчас открываются большие карты. | Big cards are opening up for us now. | #127: Большие карты | verbatim |
 | 12 | Самсон | Я заработаю для нашей семьи много денег. | I will earn a lot of money for our family. | new | new |
 | 13 | Нина | Главное, будь очень осторожен в дороге. | The main thing is, be very careful on the road. | new | new |
 | 14 | Самсон | Не волнуйся, всё будет просто отлично! | Do not worry, everything will be simply great! | new | new |

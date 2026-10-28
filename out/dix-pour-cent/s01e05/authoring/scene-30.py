@@ -7,8 +7,7 @@ SCENE = 30
 TITLE = "J'ai quelque chose à te dire  (I Have Something to Tell You)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie', 'hippolyte': 'theo'}
-LABELS = {'mathias': 'Mathias', 'camille': 'Camille', 'hippolyte': 'Hippolyte'}
+LABELS = {'camille': 'Camille', 'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = 'Late at night at the agency, Camille is getting ready to go home when Mathias knocks on her office door. All day long, Camille thought her father had forgotten her twenty-third birthday — and meanwhile, across town, Catherine and Hippolyte are waiting for Mathias outside the opera house, unable to reach him on his phone. Listen to the French first, without worrying about catching every word.'
@@ -25,14 +24,14 @@ STORY = [
     ('camille', "J'ai blessé la main de l'examinateur avec la portière.", 'I hurt the examiner', [(713, "Quand je suis arrivée au centre d'examen"), (714, "j'ai coincé la portière sur la main de l'examinateur")], ''),
     ('mathias', 'Non!', 'No!', [(715, 'Non')], ''),
     ('camille', 'Si! Il avait deux doigts cassés.', 'Yes! He had two broken fingers.', [(715, 'Si'), (716, 'Il avait deux doigts cassés')], ''),
-    ('hippolyte', "Je pensais vous voir à l'opéra. J'ai laissé des messages.", 'I thought I', [(718, "Je pensais vous voir à l'opéra"), (719, "J'ai laissé des messages")], ''),
+    ('catherine', "Je pensais vous voir à l'opéra. J'ai laissé des messages.", 'I thought I', [(718, "Je pensais vous voir à l'opéra"), (719, "J'ai laissé des messages")], ''),
     ('mathias', 'Mon téléphone était silencieux. Tu veux un peu de champagne?', 'My phone was on silent. Do you want some champagne?', [(720, 'Il était en mode silencieux'), (721, 'Tu veux une coupe'), (721, 'On a sorti le champagne')], ''),
     ('mathias', "Camille m'a beaucoup aidé cette semaine. On fête ça!", 'Camille helped me a lot this week. We are celebrating!', [(722, "Camille m'a beaucoup aidé sur une affaire délicate cette semaine"), (723, 'Et on fête ça')], ''),
-    ('hippolyte', "Camille n'est pas l'assistante d'Andréa?", 'Isn', [(724, "Camille n'est pas l'assistante d'Andréa")], ''),
+    ('catherine', "Camille n'est pas l'assistante d'Andréa?", 'Isn', [(724, "Camille n'est pas l'assistante d'Andréa")], ''),
     ('mathias', 'Elle peut quand même aider les autres.', 'She can still help the others.', [(724, 'Elle peut quand même aider les autres')], ''),
     ('mathias', "Arrête! C'est une assistante, je voulais juste la remercier.", 'Stop! She is an assistant, I just wanted to thank her.', [(726, "C'est pas ce que tu crois"), (728, "Arrête ! C'est son assistante, je voulais juste la remercier, c'est tout")], ''),
     ('camille', "C'est pour ça que tu m'as mise en garde?", 'Is that why you warned me?', [(736, "C'est pour ça que tu m'as mise en garde")], ''),
-    ('hippolyte', 'Mathias... explique-moi.', 'Mathias... explain this to me.', [(737, 'Mathias'), (738, 'explique-moi')], ''),
+    ('catherine', 'Mathias... explique-moi.', 'Mathias... explain this to me.', [(737, 'Mathias'), (738, 'explique-moi')], ''),
     ('mathias', "J'ai quelque chose à te dire.", 'I have something to tell you.', [(739, "J'ai quelque chose à te dire")], ''),
 ]
 WALK = [
@@ -41,7 +40,7 @@ WALK = [
     (2, None, "'Your birthday.' Quietly, Mathias admits what he forgot all day."),
     (3, None, "'Oh, yes. It's no big deal. And I'm not six years old!' Remember that French expresses age with the verb 'to have': 'I don't have six years'."),
     (4, None, "'Anyway, what would make you happy? You must have some idea.' He asks what she would like as a birthday present — and what Camille really wants is simply to spend a little time with her father."),
-    (5, None, "'I hurt the examiner's hand with the car door.'s hand.' Mathias opens a bottle of champagne in his office, and for the first time they laugh together like father and daughter as Camille tells the story of her fifth driving test."),
+    (5, None, "'I hurt the examiner's hand with the car door.'s hand.' In response, Mathias opens a bottle of champagne in his office, and for the first time they laugh together like father and daughter as Camille tells the story of her fifth driving test."),
     (6, None, "'No!' Mathias bursts out laughing in disbelief."),
     (7, None, "'Yes! He had two broken fingers.' Notice the word for 'yes' used to contradict a negative exclamation."),
     (8, None, "'I thought I'd see you at the opera. I left messages.' Suddenly the office door opens: Catherine and Hippolyte are standing there in their evening clothes, stunned to find Mathias and Camille laughing over champagne in the dark office."),

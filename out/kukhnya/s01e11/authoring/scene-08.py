@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 8
-TITLE = "Потерянный телефон  (The Lost Phone)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Потерянный телефон  (The Lost Phone)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "guest": "anja"}
-LABELS = {"guest": "Гость"}
+LABELS = {'guest': 'Гость', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = "At the Claude Monet bar counter, an exhausted and hungover visitor approaches bartender Kostya. Relieved to recover the mobile phone he left behind the night before, he unburdens his romantic sorrows to the sympathetic bartender. Let's listen to their friendly bar exchange in Russian."
 OPENER = "Now let's examine how Kostya assists the forgetful guest at the bar line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Comforted by the bartender's hospitality, the customer rests at the bar before facing the rest of his day. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to come back' — you will catch every word right away. See you next time!"
-CLOSING = ("guest", "Пока!")
+CLOSING = ('guest', 'Пока!')
 STORY = [
     ('guest', 'Привет! Как твои дела, бармен?', 'Hello! How are things, bartender?', [(100, 'Здрасте.')], ''),
-    ('guest', 'Здравствуйте! Как вы себя сегодня чувствуете?', 'Hello! How are you feeling today?', [(101, 'Как себя чувствуете?')], ''),
+    ('kostya', 'Здравствуйте! Как вы себя сегодня чувствуете?', 'Hello! How are you feeling today?', [(101, 'Как себя чувствуете?')], ''),
     ('guest', 'Эх, сегодня мне хуже, чем вчера.', 'Ugh, today I feel worse than yesterday.', [(101, 'Эх, хуже, чем вчера.')], ''),
     ('guest', 'Ты случайно не находил мой телефон?', 'Did you happen to find my phone?', [(102, 'Ты мой телефон не находил?')], ''),
-    ('guest', 'Да, я нашёл его возле стойки.', 'Yes, I found it near the counter.', [(103, 'Находил.')], ''),
+    ('kostya', 'Да, я нашёл его возле стойки.', 'Yes, I found it near the counter.', [(103, 'Находил.')], ''),
     ('guest', 'Огромное спасибо за помощь, друг!', 'Huge thanks for the help, friend!', [(103, 'О, спасибо.')], ''),
     ('guest', 'Скажи честно, моя девушка не звонила?', 'Tell me honestly, did my girlfriend not call?', [(104, 'Она не звонила?')], ''),
-    ('guest', 'Нет, сюда пока никто не звонил.', 'No, no one has called here yet.', [(104, 'Нет.')], ''),
+    ('kostya', 'Нет, сюда пока никто не звонил.', 'No, no one has called here yet.', [(104, 'Нет.')], ''),
     ('guest', 'Она ещё не вернулась из Саратова.', 'She has not returned from Saratov yet.', [(105, 'Наверное, еще не вернулась из Саратова.')], ''),
-    ('guest', 'Вы вчера долго говорили про неё.', 'Yesterday you spoke about her for a long time.', [(107, 'Ну, вы же мне вчера рассказывали.')], ''),
+    ('kostya', 'Вы вчера долго говорили про неё.', 'Yesterday you spoke about her for a long time.', [(107, 'Ну, вы же мне вчера рассказывали.')], ''),
     ('guest', 'Да, память медленно возвращается ко мне.', 'Yes, my memory is slowly returning to me.', [(108, 'Да.')], ''),
-    ('guest', 'Вот вам напиток за счёт заведения.', 'Here is a drink for you on the house.', [(110, 'За счет заведения.')], ''),
+    ('kostya', 'Вот вам напиток за счёт заведения.', 'Here is a drink for you on the house.', [(110, 'За счет заведения.')], ''),
     ('guest', 'Спасибо тебе за доброту, дружище!', 'Thank you for your kindness, buddy!', [(111, 'Спасибо тебе, дружище.')], ''),
 ]
 WALK = [

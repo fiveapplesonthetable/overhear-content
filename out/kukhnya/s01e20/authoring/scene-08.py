@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 8
-TITLE = "Утренний сюрприз  (A Morning Surprise)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Утренний сюрприз  (A Morning Surprise)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Kostya wakes up in a good mood and misinterprets the situation completely, and we will listen to their dialogue in Russian first; do not worry about catching every single word.'
 OPENER = "Now let's go back through the exchange around A Morning Surprise line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Nastya quickly ruins his playful mood by bringing up their previous serious chat in this scene. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Доброе утро, моя дорогая.', 'Good morning, my dear.', [(141, 'проснулся и хочешь поиграть со мной?')], ''),
     ('nastya', 'Это не доброе утро.', 'It is not a good morning.', [], ''),

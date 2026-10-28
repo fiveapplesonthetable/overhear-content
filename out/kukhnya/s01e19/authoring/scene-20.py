@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 20
-TITLE = "Сомнения  (Doubts)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сомнения  (Doubts)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Focused on doubts, Max reflects on how people value what they have. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max reflects on how people value what they have. Next time you watch the episode, listen for the Russian expressions for 'person' and 'often' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Люди часто сомневаются.', 'People often doubt.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
+    ('max', 'Люди часто сомневаются.', 'People often doubt.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
     ('vika', 'В чем?', 'In what?', [], ''),
-    ('anya', 'В том, что они имеют.', 'In what they have.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
+    ('max', 'В том, что они имеют.', 'In what they have.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
     ('vika', 'Это правда.', 'That is true.', [], ''),
-    ('anya', 'Они не знают.', 'They do not know.', [], ''),
+    ('max', 'Они не знают.', 'They do not know.', [], ''),
     ('vika', 'Чего не знают?', 'What do they not know?', [], ''),
-    ('anya', 'Насколько им дорого то, что есть.', 'How dear is what there is.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
+    ('max', 'Насколько им дорого то, что есть.', 'How dear is what there is.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
     ('vika', 'Мы знаем.', 'We know.', [], ''),
-    ('anya', 'Да, мы знаем.', 'Yes, we know.', [], ''),
+    ('max', 'Да, мы знаем.', 'Yes, we know.', [], ''),
     ('vika', 'Это хорошо.', 'This is good.', [], ''),
-    ('anya', 'Очень хорошо.', 'Very good.', [], ''),
+    ('max', 'Очень хорошо.', 'Very good.', [], ''),
     ('vika', 'Я согласна.', 'I agree.', [], ''),
 ]
 WALK = [

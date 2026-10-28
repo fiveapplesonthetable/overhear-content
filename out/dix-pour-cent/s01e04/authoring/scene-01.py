@@ -7,8 +7,7 @@ SCENE = 1
 TITLE = 'Vingt-trois mois de retard  (Twenty-Three Months Late)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel', 'inspecteur': 'theo'}
-LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias', 'inspecteur': "L'inspecteur"}
+LABELS = {'audrey': 'Audrey', 'inspecteur': "L'inspecteur", 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "First, in the agency kitchen, Camille tries to blend in with Hervé and Noémie. You'll hear the whole scene in French first — don't worry about catching every word."
@@ -35,22 +34,22 @@ STORY = [
     ('inspecteur', "J'attends votre chèque cette semaine, avec dix pour cent de plus.", 'I expect your cheque this week, with ten percent extra.', [(47, "J'attends votre chèque cette semaine"), (48, "Et comme c'est en retard")], ''),
 ]
 WALK = [
-    (0, None, "'Wait, you're walking too fast.' A casual command from the verb 'to wait', followed by 'you walk too fast'."),
-    (1, None, "'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the verb 'to wake'."),
-    (2, None, "'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a negative."),
-    (3, None, "'He's teething.' Literally 'he is making his teeth'."),
-    (4, None, "'We're not taking any risks. Let me do the talking.' The negative word after the verb means 'no' or 'not any'. Mathias thinks the friendly inspector Mr Jarron is still in charge, but a much stricter man is sitting at the desk."),
-    (5, None, "'Is he your husband?' The inspector uses the polite 'your' as they sit down."),
-    (6, None, "'No, her agent.' The word for 'his' or 'her' takes the masculine form here because 'agent' is a masculine noun."),
-    (7, None, "'Madam, you are twenty-three months late.' Literally 'you have twenty-three months of delay'. French uses 'to have' with a noun for being late."),
-    (8, None, "'Yes, but at least I pay my taxes in France!' Unlike rich stars who move abroad. Her proud defence doesn't impress the inspector at all."),
-    (9, None, "'Audrey had two children in three years.' The everyday past tense of 'to have', 'has had'."),
-    (10, None, "'Now she wants to find work again and pay her taxes.' The prefix on 'to find again' works just like 're-' in English."),
-    (11, None, "'You can't find work, madam?' After a negative, the word for 'some' becomes the simple short word for 'of' or 'any'."),
-    (12, None, "'Of course she can!' Notice how 'well' sets up the clause and leads naturally into 'yes!'."),
-    (13, None, "'But you turned down a role in an action film.' The inspector has been reading the newspapers."),
-    (14, None, "'I couldn't run after zombies!' She had just given birth when that part was offered to her. The verb 'could' is in the past tense used for how things were."),
-    (15, None, "'Audrey's return to a film shoot is imminent.' Mathias invents a big comeback on the spot."),
-    (16, None, "'Yes, it's a huge project.' Audrey plays along with her agent's lie."),
-    (17, None, "'I expect your cheque this week, with ten percent extra.' The lie backfires: if she has a big film coming, she doesn't need any more time to pay. Now let's hear the whole scene at the tax office again."),
+    (0, 'Attends, tu marches trop vite.', "'Wait, you're walking too fast.' A casual command from the verb 'to wait', followed by 'you walk too fast'."),
+    (0, 'Je ne veux pas le réveiller.', "'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the verb 'to wake'."),
+    (1, "Il n'a pas dormi de la nuit.", "'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a negative."),
+    (1, 'Il fait ses dents.', "'He's teething.' Literally 'he is making his teeth'."),
+    (2, None, "'We're not taking any risks. Let me do the talking.' The negative word after the verb means 'no' or 'not any'. Mathias thinks the friendly inspector Mr Jarron is still in charge, but a much stricter man is sitting at the desk."),
+    (3, None, "'Is he your husband?' The inspector uses the polite 'your' as they sit down."),
+    (4, None, "'No, her agent.' The word for 'his' or 'her' takes the masculine form here because 'agent' is a masculine noun."),
+    (5, None, "'Madam, you are twenty-three months late.' Literally 'you have twenty-three months of delay'. French uses 'to have' with a noun for being late."),
+    (6, None, "'Yes, but at least I pay my taxes in France!' Unlike rich stars who move abroad. Her proud defence doesn't impress the inspector at all."),
+    (7, None, "'Audrey had two children in three years.' The everyday past tense of 'to have', 'has had'."),
+    (8, None, "'Now she wants to find work again and pay her taxes.' The prefix on 'to find again' works just like 're-' in English."),
+    (9, None, "'You can't find work, madam?' After a negative, the word for 'some' becomes the simple short word for 'of' or 'any'."),
+    (10, None, "'Of course she can!' Notice how 'well' sets up the clause and leads naturally into 'yes!'."),
+    (11, None, "'But you turned down a role in an action film.' The inspector has been reading the newspapers."),
+    (12, None, "'I couldn't run after zombies!' She had just given birth when that part was offered to her. The verb 'could' is in the past tense used for how things were."),
+    (13, None, "'Audrey's return to a film shoot is imminent.' Mathias invents a big comeback on the spot."),
+    (14, None, "'Yes, it's a huge project.' Audrey plays along with her agent's lie."),
+    (15, None, "'I expect your cheque this week, with ten percent extra.' The lie backfires: if she has a big film coming, she doesn't need any more time to pay. Now let's hear the whole scene at the tax office again."),
 ]

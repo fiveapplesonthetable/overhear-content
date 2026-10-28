@@ -5,30 +5,29 @@ SEASON = 2
 EPISODE = 3
 SCENE = 1
 TITLE = "Сюрприз судьбы  (Fate's Surprise)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = 'As the episode begins, Max philosophizes about life, destiny, and the choices we make, while Chef Viktor Barinov is already busy shouting orders at his suppliers.'
 OPENER = "Let's listen to their conversation."
 TRANSITION = "Now let's hear the whole thing once more."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around fate's surprise, and for the words meaning 'consider' and 'a man'. You'll catch them now. See you next time."
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('anya', 'Считают, что человек – хозяин судьбы.', 'They say we are masters of our fate.', [(1, 'считают, что человек – хозяин своей судьбы.')], ''),
-    ('anya', 'Мы сами всё решаем.', 'We decide everything ourselves.', [(2, 'Мы сами решаем, когда и с кем нам быть.')], ''),
-    ('anya', 'Мы решаем, с кем нам быть.', 'We decide who we want to be with.', [(2, 'Мы сами решаем, когда и с кем нам быть.')], ''),
-    ('anya', 'Всё зависит только от нас.', 'Everything depends only on us.', [(3, 'Что абсолютно всё в нашей жизни зависит только от нас самих.')], ''),
-    ('anya', 'Но судьба преподносит нам сюрприз.', 'But fate brings us a surprise.', [(5, 'судьба обычно преподносит нам сюрприз.')], ''),
-    ('anya', 'Когда мы начинаем в это верить.', 'When we start believing in this.', [(5, 'вот как только мы начинаем в это верить')], ''),
-    ('anya', 'Она делает это обычно.', 'It usually does this.', [(5, 'судьба обычно преподносит нам сюрприз.')], ''),
-    ('chef', 'Хорошо, Тимур.', 'All right, Timur.', [(6, 'Хорошо, Тимур')], ''),
-    ('chef', 'Привези мне мясо ягнёнка.', 'Bring me some lamb meat.', [(6, 'и привези мне мясо молодого ягнёнка')], ''),
-    ('chef', 'Молодого ягнёнка, а не пенсионера.', 'A young lamb, not a pensioner.', [(6, 'а не ягнёнка пенсионера')], ''),
-    ('chef', 'Не как вчера.', 'Not like yesterday.', [(7, 'как вчера.')], ''),
-    ('chef', 'Вчера было плохое мясо.', 'Yesterday the meat was bad.', [], ''),
+    ('max', 'Считают, что человек – хозяин судьбы.', 'They say we are masters of our fate.', [(1, 'считают, что человек – хозяин своей судьбы.')], ''),
+    ('max', 'Мы сами всё решаем.', 'We decide everything ourselves.', [(2, 'Мы сами решаем, когда и с кем нам быть.')], ''),
+    ('max', 'Мы решаем, с кем нам быть.', 'We decide who we want to be with.', [(2, 'Мы сами решаем, когда и с кем нам быть.')], ''),
+    ('max', 'Всё зависит только от нас.', 'Everything depends only on us.', [(3, 'Что абсолютно всё в нашей жизни зависит только от нас самих.')], ''),
+    ('max', 'Но судьба преподносит нам сюрприз.', 'But fate brings us a surprise.', [(5, 'судьба обычно преподносит нам сюрприз.')], ''),
+    ('max', 'Когда мы начинаем в это верить.', 'When we start believing in this.', [(5, 'вот как только мы начинаем в это верить')], ''),
+    ('max', 'Она делает это обычно.', 'It usually does this.', [(5, 'судьба обычно преподносит нам сюрприз.')], ''),
+    ('barinov', 'Хорошо, Тимур.', 'All right, Timur.', [(6, 'Хорошо, Тимур')], ''),
+    ('barinov', 'Привези мне мясо ягнёнка.', 'Bring me some lamb meat.', [(6, 'и привези мне мясо молодого ягнёнка')], ''),
+    ('barinov', 'Молодого ягнёнка, а не пенсионера.', 'A young lamb, not a pensioner.', [(6, 'а не ягнёнка пенсионера')], ''),
+    ('barinov', 'Не как вчера.', 'Not like yesterday.', [(7, 'как вчера.')], ''),
+    ('barinov', 'Вчера было плохое мясо.', 'Yesterday the meat was bad.', [], ''),
 ]
 WALK = [
     (0, None, "'They say we are masters of our fate.' The question word for 'what' comes right at the start, followed directly by 'fate'."),

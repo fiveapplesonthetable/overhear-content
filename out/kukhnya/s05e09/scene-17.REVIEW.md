@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | А вот и я. | And here I am. | #255 00:20:18: А вот и я | adapted: adapted |
-| 2 | Елена | Ой, молодой человек, я еле вас узнала! | Oh, young man, I barely recognized you! | #256 00:20:19: Ой, молодой человек, я еле вас узнала | adapted: adapted |
-| 3 | Елена | У меня есть тост. | I have a toast. | #257 00:20:29: У меня есть тост | adapted: adapted |
-| 4 | Шеф | Какое совпадение! А у меня есть желание выпить. | What a coincidence! And I have a desire to drink. | #257 00:20:29: Какое совпадение<br>#258 00:20:32: А у меня есть желание выпить | adapted: adapted |
-| 5 | Елена | Давай за нас выпьем? | Shall we drink to us? | #259 00:20:37: Давай за нас выпьем | adapted: adapted |
-| 6 | Елена | Знаешь, я очень рада, что мы вместе. | You know, I am very glad that we are together. | #260 00:20:39: Знаешь, я очень рада, что мы вместе | adapted: adapted |
-| 7 | Елена | Мне приятно, что ты ко мне прислушиваешься. | I am pleased that you listen to me. | #261 00:20:41: Мне приятно, что ты ко мне прислушиваешься | adapted: adapted |
-| 8 | Елена | Я тебя полюбила таким, какой ты есть. | I fell in love with you just the way you are. | #262 00:20:46: я тебя полюбила таким, какой ты есть | adapted: adapted |
-| 9 | Елена | И мне не важно, сколько в тебе килограмм. | And it does not matter to me how many kilograms are in you. | #263 00:20:50: И мне не важно, сколько в тебе килограмм | adapted: adapted |
-| 10 | Шеф | Погоди, ты не считаешь меня толстяком? | Wait, you do not consider me a fat man? | #265 00:20:56: Погоди. Ты что, не считаешь меня толстяком | adapted: adapted |
-| 11 | Елена | Господи, ну конечно нет! | Goodness, well of course not! | #266 00:20:59: Господи, ну, конечно, нет | adapted: adapted |
-| 12 | Шеф | Значит, я зря целую неделю мучил себя диетами! Ты просто чудо! | So for a whole week I tormented myself with diets in vain! You are simply a miracle! | #267 00:21:01: Значит, я зря целую неделю<br>#267 00:21:01: мучил всякими диетами<br>#269 00:21:07: Ты просто чудо | adapted: adapted |
+| 1 | Шеф | А вот и я. | And here I am. | #255: А вот и я | adapted: adapted |
+| 2 | Елена | Ой, молодой человек, я еле вас узнала! | Oh, young man, I barely recognized you! | #256: Ой, молодой человек, я еле вас узнала | adapted: adapted |
+| 3 | Елена | У меня есть тост. | I have a toast. | #257: У меня есть тост | adapted: adapted |
+| 4 | Шеф | Какое совпадение! А у меня есть желание выпить. | What a coincidence! And I have a desire to drink. | #257: Какое совпадение<br>#258: А у меня есть желание выпить | adapted: adapted |
+| 5 | Елена | Давай за нас выпьем? | Shall we drink to us? | #259: Давай за нас выпьем | adapted: adapted |
+| 6 | Елена | Знаешь, я очень рада, что мы вместе. | You know, I am very glad that we are together. | #260: Знаешь, я очень рада, что мы вместе | adapted: adapted |
+| 7 | Елена | Мне приятно, что ты ко мне прислушиваешься. | I am pleased that you listen to me. | #261: Мне приятно, что ты ко мне прислушиваешься | adapted: adapted |
+| 8 | Елена | Я тебя полюбила таким, какой ты есть. | I fell in love with you just the way you are. | #262: я тебя полюбила таким, какой ты есть | adapted: adapted |
+| 9 | Елена | И мне не важно, сколько в тебе килограмм. | And it does not matter to me how many kilograms are in you. | #263: И мне не важно, сколько в тебе килограмм | adapted: adapted |
+| 10 | Шеф | Погоди, ты не считаешь меня толстяком? | Wait, you do not consider me a fat man? | #265: Погоди. Ты что, не считаешь меня толстяком | adapted: adapted |
+| 11 | Елена | Господи, ну конечно нет! | Goodness, well of course not! | #266: Господи, ну, конечно, нет | adapted: adapted |
+| 12 | Шеф | Значит, я зря целую неделю мучил себя диетами! Ты просто чудо! | So for a whole week I tormented myself with diets in vain! You are simply a miracle! | #267: Значит, я зря целую неделю<br>#267: мучил всякими диетами<br>#269: Ты просто чудо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here I am.' Chef Barinov anchors the line on 'and', while 'I' completes the thought.
-- 'Oh, young man, I barely recognized you!' Spoken Russian keeps this brisk, leaning on 'oh' and finishing on 'to recognise'.
-- 'I have a toast.' Elena anchors the line on 'at', while 'toast' completes the thought.
-- 'What a coincidence! And I have a desire to drink.' The grammar packs 'which' and 'to drink' into a tight, idiomatic kitchen exchange.
-- 'Shall we drink to us?' Notice how Russian expresses 'come on' and 'let's drink' with crisp inflection rather than helper words.
-- 'You know, I am very glad that we are together.' Notice how Russian expresses 'know' and 'together' with crisp inflection rather than helper words.
-- 'I am pleased that you listen to me.' Here the Russian phrasing highlights 'to me' before landing on 'listen to'.
-- 'I fell in love with you just the way you are.' Notice how Russian expresses 'I' and 'there is' with crisp inflection rather than helper words.
-- 'And it does not matter to me how many kilograms are in you.' Elena brings out the contrast between 'and' and 'to me' in a few short words.
-- 'Wait, you do not consider me a fat man?' Chef Barinov anchors the line on 'to wait a little', while 'fat man' completes the thought.
-- 'Goodness, well of course not!' The meaning hinges on 'Lord' working together with 'no' in spoken Russian. Chef Barinov answers right away.
-- 'So for a whole week I tormented myself with diets in vain! You are simply a miracle!' In Russian, the idea of 'so' flows naturally into 'miracle' without extra filler words.
+- 'And here I am.' Barinov explains that here he is, keeping his voice calm and direct.
+- 'Oh, young man, I barely recognized you!' Between the kitchen and the date, Elena delivers a sharp reaction. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'I have a toast.' Once she has a toast, Elena can finally tell Barinov what she means.
+- 'What a coincidence! And I have a desire to drink.' With the shift and dinner at stake, Barinov reacts without holding back. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Shall we drink to us?' With the shift and dinner hanging in the air, Elena puts Barinov on the spot. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'You know, I am very glad that we are together.' Pointing out that she is very glad that they are together gives Barinov a sobering reality check.
+- 'I am pleased that you listen to me.' Elena explains that she is pleased that Barinov listens, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I fell in love with you just the way you are.' Adding that she fell in love with Barinov just the way Barinov is fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And it does not matter to me how many kilograms are in you.' Elena tells Barinov that it does not matter to her how many kilograms are in Barinov without dressing it up.
+- 'Wait, you do not consider me a fat man?' Asking whether Elena does not consider him a fat man puts Elena right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Goodness, well of course not!' With the moment and dinner at stake, Elena reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'So for a whole week I tormented myself with diets in vain! You are simply a miracle!' Over the moment and the date, Barinov lets his real feelings show.

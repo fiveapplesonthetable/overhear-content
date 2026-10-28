@@ -8,13 +8,9 @@
  "scene": 12,
  "title": "Украденная коляска  (The Stolen Wheelchair)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "inspector": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
+  "barinov": "Шеф",
+  "elena": "Елена",
   "inspector": "Инспектор"
  },
  "segments": [
@@ -24,22 +20,22 @@
    "gap": 0.8
   },
   {
-   "v": "inspector",
+   "v": "elena",
    "t": "Витя, мы договаривались на два часа.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лена, прости, я сегодня замотался.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я как раз домой собирался.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всё нормально, вы не беспокойтесь.",
    "gap": 0.55
   },
@@ -54,7 +50,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У меня её только что украли.",
    "gap": 0.55
   },
@@ -64,17 +60,17 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Патрик, познакомься, это моя жена Елена.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А это главный инспектор Мишлен.",
    "gap": 0.55
   },
   {
-   "v": "inspector",
+   "v": "elena",
    "t": "Инспектор, мне очень приятно познакомиться.",
    "gap": 0.55
   },
@@ -89,43 +85,43 @@
    "gap": 0.4
   },
   {
-   "v": "inspector",
+   "v": "elena",
    "t": "Витя, мы договаривались на два часа.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vitya, we agreed on two hours.' Notice how Russian expresses 'we' and 'hours' with crisp inflection rather than helper words. Chef Barinov answers right away.",
+   "t": "'Vitya, we agreed on two hours.' Between the moment and the work, Elena gives Barinov a quick, grounded response.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лена, прости, я сегодня замотался.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lena, forgive me, I got caught up today.' Here the Russian phrasing highlights 'Lena' before landing on 'got caught up'.",
+   "t": "'Lena, forgive me, I got caught up today.' Explaining that someone forgive him he got caught up today lays the cards on the table for Elena.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я как раз домой собирался.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I was just getting ready to go home.' Notice how Russian expresses 'I' and 'to intend' with crisp inflection rather than helper words.",
+   "t": "'I was just getting ready to go home.' Barinov mentions that he was just getting ready to go home so Elena sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всё нормально, вы не беспокойтесь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Everything is fine, do not worry.' Here the Russian phrasing highlights 'everything' before landing on 'to worry'. the inspector answers right away.",
+   "t": "'Everything is fine, do not worry.' Claiming that everything is fine do not worry sounds confident, even if Elena has doubts. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -135,7 +131,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Viktor, what happened to you?' Notice how Russian expresses 'what' and 'happened' with crisp inflection rather than helper words.",
+   "t": "'Viktor, what happened to you?' Around the point and situation, the inspector wants to know where Barinov really stands.",
    "gap": 0.4
   },
   {
@@ -145,17 +141,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Tell me, where is your wheelchair?' Here the Russian phrasing highlights 'say' before landing on 'wheelchair'.",
+   "t": "'Tell me, where is your wheelchair?' Around the truth and situation, the inspector wants to know where Barinov really stands. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У меня её только что украли.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Someone just stole it from me.' Notice how Russian expresses 'at' and 'stole' with crisp inflection rather than helper words. the inspector answers right away.",
+   "t": "'Someone just stole it from me.' Realizing that someone just stole it from him changes how Barinov handles the situation. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
@@ -165,37 +161,37 @@
   },
   {
    "v": "narrator",
-   "t": "'Stolen here, that is simply outrageous!' Here the Russian phrasing highlights 'stole' before landing on 'outrageous'.",
+   "t": "'Stolen here, that is simply outrageous!' Because stolen here that is simply outrageous, the inspector does not bother softening the blow for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Патрик, познакомься, это моя жена Елена.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Patrick, meet my wife Elena.' In Russian, the idea of 'Patrick' flows naturally into 'Elena' without extra filler words.",
+   "t": "'Patrick, meet my wife Elena.' Over the conversation and the plan, Barinov answers Elena without a second thought. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А это главный инспектор Мишлен.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And this is the chief Michelin inspector.' Chef Barinov anchors the line on 'and', while 'Michelin' completes the thought. Elena answers right away.",
+   "t": "'And this is the chief Michelin inspector.' Admitting that this is the chief Michelin inspector shows Barinov being honest for a change. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "inspector",
+   "v": "elena",
    "t": "Инспектор, мне очень приятно познакомиться.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Inspector, I am very pleased to meet you.' Elena anchors the line on 'inspector', while 'to get acquainted' completes the thought.",
+   "t": "'Inspector, I am very pleased to meet you.' Saying that inspector she is very pleased to meet Barinov is how Elena sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -205,26 +201,26 @@
   },
   {
    "v": "narrator",
-   "t": "'Elena, you are simply lovely today.' The grammar packs 'Elena' and 'lovely' into a tight, idiomatic kitchen exchange. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Elena, you are simply lovely today.' Once Barinov is simply lovely today, the inspector can finally tell Barinov what he means. Notice how he sticks to the formal \"you\", keeping a professional line between them. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "inspector",
+   "v": "elena",
    "t": "Витя, мы договаривались на два часа.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лена, прости, я сегодня замотался.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я как раз домой собирался.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всё нормально, вы не беспокойтесь.",
    "gap": 0.5
   },
@@ -239,7 +235,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У меня её только что украли.",
    "gap": 0.5
   },
@@ -249,17 +245,17 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Патрик, познакомься, это моя жена Елена.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А это главный инспектор Мишлен.",
    "gap": 0.5
   },
   {
-   "v": "inspector",
+   "v": "elena",
    "t": "Инспектор, мне очень приятно познакомиться.",
    "gap": 0.5
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До встречи!",
    "gap": 0.3
   }

@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Самсон | Ты думала только о чужих деньгах! | You only thought about other people's money! | new | new: opening accusation |
 | 2 | Нина | Я думала о благополучии наших детей. | I thought about the well-being of our children. | new | new: Nina's defense |
-| 3 | Самсон | Раньше надо было думать головой! | Earlier you should have thought with your head! | #1075 01:01:34: Раньше нужно было | adapted: adapted cue |
+| 3 | Самсон | Раньше надо было думать головой! | Earlier you should have thought with your head! | #1075: Раньше нужно было | adapted: adapted cue |
 | 4 | Нина | Перестань кричать на меня при всех. | Stop shouting at me in front of everyone. | new | new: Nina's objection |
 | 5 | Самсон | Ты разрушила всё наше семейное счастье. | You destroyed all our family happiness. | new | new: Samson's bitter reproach |
 | 6 | Нина | Ты сам виноват в наших бедах! | You are to blame yourself for our troubles! | new | new: counter-accusation |

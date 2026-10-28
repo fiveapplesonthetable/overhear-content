@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e05-scene-14` — La clause de nudité  (The Nudity Clause)
+# dix-pour-cent-s03e05-scene-14: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "birag": "theo", "lea": "lucie"}`
-- **Labels**: `{"birag": "Jean-Luc Birag", "lea": "Andréa"}`
+Title: La clause de nudité  (The Nudity Clause)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E05
 
-## Part 1 — Intro
-> Armed with sticky notes and the signed contract, director Jean-Luc Birag tries to justify an unscripted nude scene. He claims that a cold sequence set in a morgue counts as an essential love scene. Let's listen to Andrea's sharp defense in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `birag` (Jean-Luc Birag) | Voici le contrat signé de Béatrice Dalle. | Here is the signed contract of Beatrice Dalle. | 461:C'est le contrat de Béatrice |
-| 1 | `birag` (Jean-Luc Birag) | L'actrice accepte de se dénuder au tournage. | The actress agrees to appear nude during shooting. | 467:L'actrice acceptera de se dénuder |
-| 2 | `birag` (Jean-Luc Birag) | Cette décision est à ma seule discrétion. | This decision is at my sole discretion. | 468:à la discrétion du metteur en scène |
-| 3 | `lea` (Andréa) | Seulement pour une vraie scène d'amour! | Only for a true love scene! | 470:qu'il s'agisse d'une scène d'amour |
-| 4 | `lea` (Andréa) | Or votre scène se passe à la morgue. | Yet your scene takes place in the morgue. | 474:C'est une scène de morgue |
-| 5 | `birag` (Jean-Luc Birag) | L'homme regarde son grand amour décédé. | The man gazes upon his deceased great love. | 479:corps mort, 480:femme qu'il aime |
-| 6 | `birag` (Jean-Luc Birag) | C'est une scène d'amour très pure. | It is a very pure love scene. | 484:Avec amour, 487:c'est une scène d'amour |
-| 7 | `lea` (Andréa) | Arrêtez, vous jouez sur les mots! | Stop, you are playing on words! | 490:Mais arrête, 492:Tu joues sur les mots |
-| 8 | `lea` (Andréa) | Une scène d'amour signifie une scène intime. | A love scene means an intimate scene. | 494:ça veut dire une scène de sexe |
-| 9 | `birag` (Jean-Luc Birag) | Le contrat indique bien une scène d'amour. | The contract clearly indicates a love scene. | 496:Sauf qu'il y a écrit scène d'amour |
-| 10 | `lea` (Andréa) | Béatrice refuse de tourner nue dans ce sac. | Beatrice refuses to shoot naked in this bag. | 485:sac mortuaire, 486:scène nue si je veux |
-| 11 | `birag` (Jean-Luc Birag) | Béatrice doit reprendre le tournage cet après-midi. | Beatrice must resume shooting this afternoon. | 502:reprend ça par midi avec Béatrice |
-| 12 | `birag` (Jean-Luc Birag) | Sinon, nous déclarerons une rupture de contrat. | Otherwise, we will declare a breach of contract. | 504:que c'est une rupture de contrat |
-| 13 | `lea` (Andréa) | Nous défendrons notre actrice jusqu'au bout! | We will defend our actress all the way! | 505:pas envie d'en arriver là |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andrea Martel stands up courageously against artistic manipulation and legal intimidation. When you watch the episode, listen out for the expressions meaning 'acting contract' and 'signed'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *À demain!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Jean-Luc Birag | Voici le contrat signé de Béatrice Dalle. | Here is the signed contract of Beatrice Dalle. | #461: C'est le contrat de Béatrice | verbatim |
+| 2 | Jean-Luc Birag | L'actrice accepte de se dénuder au tournage. | The actress agrees to appear nude during shooting. | #467: L'actrice acceptera de se dénuder | verbatim |
+| 3 | Jean-Luc Birag | Cette décision est à ma seule discrétion. | This decision is at my sole discretion. | #468: à la discrétion du metteur en scène | verbatim |
+| 4 | Andréa | Seulement pour une vraie scène d'amour! | Only for a true love scene! | #470: qu'il s'agisse d'une scène d'amour | verbatim |
+| 5 | Andréa | Or votre scène se passe à la morgue. | Yet your scene takes place in the morgue. | #474: C'est une scène de morgue | verbatim |
+| 6 | Jean-Luc Birag | L'homme regarde son grand amour décédé. | The man gazes upon his deceased great love. | #479: corps mort<br>#480: femme qu'il aime | verbatim |
+| 7 | Jean-Luc Birag | C'est une scène d'amour très pure. | It is a very pure love scene. | #484: Avec amour<br>#487: c'est une scène d'amour | verbatim |
+| 8 | Andréa | Arrêtez, vous jouez sur les mots! | Stop, you are playing on words! | #490: Mais arrête<br>#492: Tu joues sur les mots | verbatim |
+| 9 | Andréa | Une scène d'amour signifie une scène intime. | A love scene means an intimate scene. | #494: ça veut dire une scène de sexe | verbatim |
+| 10 | Jean-Luc Birag | Le contrat indique bien une scène d'amour. | The contract clearly indicates a love scene. | #496: Sauf qu'il y a écrit scène d'amour | verbatim |
+| 11 | Andréa | Béatrice refuse de tourner nue dans ce sac. | Beatrice refuses to shoot naked in this bag. | #485: sac mortuaire<br>#486: scène nue si je veux | verbatim |
+| 12 | Jean-Luc Birag | Béatrice doit reprendre le tournage cet après-midi. | Beatrice must resume shooting this afternoon. | #502: reprend ça par midi avec Béatrice | verbatim |
+| 13 | Jean-Luc Birag | Sinon, nous déclarerons une rupture de contrat. | Otherwise, we will declare a breach of contract. | #504: que c'est une rupture de contrat | verbatim |
+| 14 | Andréa | Nous défendrons notre actrice jusqu'au bout! | We will defend our actress all the way! | #505: pas envie d'en arriver là | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Here is the signed contract of Beatrice Dalle.' Director Birag presents the binding legal document. Notice how 'signed' leads directly into the noun meaning 'acting contract'.
+- 'The actress agrees to appear nude during shooting.' Birag points directly to the controversial nudity clause. The short 'self' word sits right in front of the verb for 'agrees', turning the action back onto the subject.
+- 'This decision is at my sole discretion.' Birag asserts his unilateral creative authority. The adjective meaning 'sole' takes its feminine form here to match the noun it describes.
+- 'Only for a true love scene!' Andrea firmly challenges the director's interpretation. The key noun here means 'dramatic scene', anchored by its matching French article.
+- 'Yet your scene takes place in the morgue.' Andrea exposes the absurd setting for a supposed romance. The verb meaning 'takes place' pairs naturally with the noun for 'film scene' in everyday conversation.
+- 'The man gazes upon his deceased great love.' Birag attempts to romanticize the chilling sequence. The descriptive adjective for 'great' agrees in gender and number with its noun.
+- 'It is a very pure love scene.' The director insists on the emotional essence of the moment. The adjective meaning 'pure' takes its feminine form here to match the noun it describes.
+- 'Stop, you are playing on words!' Andrea furiously cuts through his rhetorical sophistry. The formal 'you' pronoun sets a courteous, professional distance around 'stop'.
+- 'A love scene means an intimate scene.' Andrea clarifies what standard contract language intended. The verb meaning 'means' pairs naturally with the noun for 'scene' in everyday conversation.
+- 'The contract clearly indicates a love scene.' Birag clings tightly to the literal phrasing. Notice how 'indicates' leads directly into the noun meaning 'contract'.
+- 'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal. The adjective meaning 'naked' takes its feminine form here to match the noun it describes.
+- 'Beatrice must resume shooting this afternoon.' The director issues a non-negotiable ultimatum. Notice how 'must' leads directly into the noun meaning 'filming'.
+- 'Otherwise, we will declare a breach of contract.' Birag threatens formal legal retaliation. The verb meaning 'will declare' pairs naturally with the noun for 'breach' in everyday conversation.
+- 'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice. Notice how 'will defend' leads directly into the noun meaning 'actress'.

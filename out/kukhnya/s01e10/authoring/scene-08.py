@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 8
-TITLE = "Звонок Нагиеву  (Phone Call to Nagiyev)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Звонок Нагиеву  (Phone Call to Nagiyev)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
-LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the restaurant office, Chef Viktor Barinov urgently needs money to place a guaranteed bet on a football derby. He calls restaurant owner Dmitry Nagiyev, hoping to secure an advance, but Dmitry sees right through him. Listen to their phone conversation in Russian first, and then we will examine each sentence.'
 OPENER = 'Now, let us examine the vocabulary and phrasing of this sharp phone exchange.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A comedic interaction highlighting Dmitry Nagiyev's stubborn refusal to fund Barinov's gambling habits. Next time you watch the episode, listen for the Russian expressions for 'advance' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Дмитрий Владимирович, доброе вам утро!', 'Dmitry Vladimirovich, good morning to you!', [(67, 'Дмитрий Владимирович, доброе вам утро.')], ''),
+    ('barinov', 'Дмитрий Владимирович, доброе вам утро!', 'Dmitry Vladimirovich, good morning to you!', [(67, 'Дмитрий Владимирович, доброе вам утро.')], ''),
     ('nagiyev', 'Здорово, Виктор, денег не дам!', 'Hey, Viktor, I am not giving you money!', [(68, 'Здорово, денег не дам,')], ''),
     ('nagiyev', 'Я тебе две зарплаты уже выдал.', 'I already paid you two paychecks.', [(68, 'я тебе две зарплаты уже вперед выдал.')], ''),
     ('nagiyev', 'Чего ты хотел?', 'What did you want?', [(69, 'Чего хотел?')], ''),
-    ('chef', 'Да я не за деньгами звоню!', 'Why, I am not calling for money!', [(70, 'Да я не зачем звоню.')], ''),
+    ('barinov', 'Да я не за деньгами звоню!', 'Why, I am not calling for money!', [(70, 'Да я не зачем звоню.')], ''),
     ('nagiyev', 'Да? А зачем тогда звонишь?', 'Really? Then why are you calling?', [(71, 'Да зачем?')], ''),
-    ('chef', 'Сегодня вечером важный футбольный матч.', 'Tonight is an important football match.', [], ''),
+    ('barinov', 'Сегодня вечером важный футбольный матч.', 'Tonight is an important football match.', [], ''),
     ('nagiyev', 'Опять твой любимый Спартак играет?', 'Is your beloved Spartak playing again?', [], ''),
-    ('chef', 'Да, и у меня есть верная информация!', 'Yes, and I have reliable insider info!', [], ''),
+    ('barinov', 'Да, и у меня есть верная информация!', 'Yes, and I have reliable insider info!', [], ''),
     ('nagiyev', 'Виктор, ставки на спорт опасны.', 'Viktor, sports betting is dangerous.', [], ''),
-    ('chef', 'Мне нужен небольшой аванс до завтра.', 'I need a small advance until tomorrow.', [], ''),
+    ('barinov', 'Мне нужен небольшой аванс до завтра.', 'I need a small advance until tomorrow.', [], ''),
     ('nagiyev', 'Я знаю твои авансы, Виктор.', 'I know your advances, Viktor.', [], ''),
     ('nagiyev', 'Ни копейки ты не получишь!', 'You will not get a single kopeck!', [], ''),
-    ('chef', 'Дмитрий, ты пожалеешь об этом!', 'Dmitry, you will regret this!', [], ''),
+    ('barinov', 'Дмитрий, ты пожалеешь об этом!', 'Dmitry, you will regret this!', [], ''),
 ]
 WALK = [
     (0, None, "'Dmitry Vladimirovich, good morning to you!' Viktor greets his boss on the phone with polite cheerfulness."),

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Что я пил? Шипучку! | What was I drinking? Fizzy wine! | #1 00:00:27: Что пил<br>#3 00:00:29: Шипучку | adapted: police officer's 'Что пил?' echoed by Samson as 'Что я пил?' |
-| 2 | Самсон | Надо дышать? В трубку дышать? | Do I have to breathe? Breathe into the tube? | #8 00:00:44: Надо дышать<br>#10 00:00:46: В трубку дышать | adapted: officer's prompts turned into Samson's questions |
-| 3 | Самсон | Отпустите, пожалуйста! Отпустите меня! | Let me go, please! Let me go! | #11 00:00:50: Отпустите, пожалуйста<br>#12 00:00:55: Отпустите | adapted: 'меня' added |
-| 4 | Самсон | Три с половиной промилле? У меня семь кредитов! | Three and a half per mille? I have seven loans! | #17 00:01:05: Три с половиной промилле<br>#18 00:01:06: У меня семь кредитов | adapted: officer's reading (17) echoed by Samson |
-| 5 | Самсон | Нет, не надо! Дань, ну скажи им! | No, don't! Danya, come on, tell them! | #26 00:01:25: Нет<br>#7 00:00:42: Не надо<br>#13 00:00:56: Дань, ну скажи | adapted: 'им' added; Samson appeals to his lawyer friend Danila Golovkin |
-| 6 | Аня | Смотри новости! | Look at the news! | #37 00:01:49: смотри | adapted: Arkady points at the television screen |
-| 7 | Аня | У общества слепых произошла страшная авария! | A terrible crash happened at the Society for the Blind! | #40 00:01:58: общества слепых<br>#41 00:02:02: произошла страшная авария | adapted: TV news report (40-41) voiced by Arkady watching television |
-| 8 | Аня | На огромной скорости машина врезалась в здание! | At huge speed the car crashed into the building! | #42 00:02:07: на огромной скорости<br>#43 00:02:10: в здании | adapted: cue 43 garbled 'обрезалась в здании' -> 'машина врезалась в здание' |
-| 9 | Аня | Там начался пожар! Везде пожарные машины и полиция! | A fire started there! Fire engines and police are everywhere! | #44 00:02:13: начался пожар<br>#44 00:02:13: пожарных машин | adapted: cue 44 adapted |
-| 10 | Илона | Ну что я тебе скажу, Аркаша? Это полный кошмар! | Well, what can I tell you, Arkasha? This is a total nightmare! | #45 00:02:18: ну что я тебе скажу, Аркаша, это полный | adapted: slang 'полярный лис / песец' replaced with 'кошмар' |
-| 11 | Илона | Вот я дура! Надо было работать на Осипенко. | What a fool I am! I should have worked for Osipenko. | #46 00:02:25: вот я дура, надо было работать на Осипенко | verbatim |
-| 12 | Аня | Тихо, тихо! Ещё не всё потеряно! | Easy, easy! Not everything is lost yet! | #25 00:01:22: Тихо, тихо | adapted: Arkady tries to calm Ilona down |
+| 1 | Самсон | Что я пил? Шипучку! | What was I drinking? Fizzy wine! | #1: Что пил<br>#3: Шипучку | adapted: police officer's 'Что пил?' echoed by Samson as 'Что я пил?' |
+| 2 | Самсон | Надо дышать? В трубку дышать? | Do I have to breathe? Breathe into the tube? | #8: Надо дышать<br>#10: В трубку дышать | adapted: officer's prompts turned into Samson's questions |
+| 3 | Самсон | Отпустите, пожалуйста! Отпустите меня! | Let me go, please! Let me go! | #11: Отпустите, пожалуйста<br>#12: Отпустите | adapted: 'меня' added |
+| 4 | Самсон | Три с половиной промилле? У меня семь кредитов! | Three and a half per mille? I have seven loans! | #17: Три с половиной промилле<br>#18: У меня семь кредитов | adapted: officer's reading (17) echoed by Samson |
+| 5 | Самсон | Нет, не надо! Дань, ну скажи им! | No, don't! Danya, come on, tell them! | #26: Нет<br>#7: Не надо<br>#13: Дань, ну скажи | adapted: 'им' added; Samson appeals to his lawyer friend Danila Golovkin |
+| 6 | Аркадий | Смотри новости! | Look at the news! | #37: смотри | adapted: Arkady points at the television screen |
+| 7 | Аркадий | У общества слепых произошла страшная авария! | A terrible crash happened at the Society for the Blind! | #40: общества слепых<br>#41: произошла страшная авария | adapted: TV news report (40-41) voiced by Arkady watching television |
+| 8 | Аркадий | На огромной скорости машина врезалась в здание! | At huge speed the car crashed into the building! | #42: на огромной скорости<br>#43: в здании | adapted: cue 43 garbled 'обрезалась в здании' -> 'машина врезалась в здание' |
+| 9 | Аркадий | Там начался пожар! Везде пожарные машины и полиция! | A fire started there! Fire engines and police are everywhere! | #44: начался пожар<br>#44: пожарных машин | adapted: cue 44 adapted |
+| 10 | Илона | Ну что я тебе скажу, Аркаша? Это полный кошмар! | Well, what can I tell you, Arkasha? This is a total nightmare! | #45: ну что я тебе скажу, Аркаша, это полный | adapted: slang 'полярный лис / песец' replaced with 'кошмар' |
+| 11 | Илона | Вот я дура! Надо было работать на Осипенко. | What a fool I am! I should have worked for Osipenko. | #46: вот я дура, надо было работать на Осипенко | verbatim |
+| 12 | Аркадий | Тихо, тихо! Ещё не всё потеряно! | Easy, easy! Not everything is lost yet! | #25: Тихо, тихо | adapted: Arkady tries to calm Ilona down |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

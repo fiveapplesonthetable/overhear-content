@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Губернатор | Поехали скорее со мной на зимнее озеро. | Come quickly with me to the winter lake. | #734 00:58:35: Уж поехали на озеро. | verbatim |
-| 2 | Аня | На улице сейчас очень сильный холод. | There is very severe cold outside right now. | #736 00:58:40: Так холодно же. | verbatim |
-| 3 | Губернатор | Мы посидим на льду и половим рыбу. | We will sit on the ice and catch fish. | #735 00:58:37: Посидим, рыбку<br>#736 00:58:40: половим. | verbatim |
-| 4 | Губернатор | Заодно без лишних ушей обсудим твоё назначение. | At the same time without extra ears we will discuss your appointment. | #739 00:58:49: А заодно и обсудим назначение твое<br>#740 00:58:52: Без лишних ушей | verbatim |
-| 5 | Аня | Хорошо, Виктор Степанович, я с удовольствием поеду. | Fine, Viktor Stepanovich, I will go with pleasure. | new | new |
-| 6 | Губернатор | Давай нальём в рюмки хорошей водки. | Let's pour good vodka into the shot glasses. | #748 00:59:56: Ну давай, Аркаш<br>#752 01:00:01: Очень хорошая водка | verbatim |
-| 7 | Губернатор | Поднимем этот тост за твой будущий успех! | Let's raise this toast to your future success! | #749 00:59:57: За тебя | verbatim |
-| 8 | Аня | За ваше высокое министерское назначение! | To your high ministerial appointment! | #750 00:59:58: За вас, Виктор Степанович<br>#751 00:59:59: Ваше назначение | verbatim |
-| 9 | Губернатор | Только почему-то рыба здесь совсем не клюёт. | Only for some reason the fish do not bite here at all. | #753 01:00:06: Чего-то рыба-то и не клюет совсем. | verbatim |
-| 10 | Аня | Это же теперь ваше профильное министерство. | This is your specialized ministry now after all. | #754 01:00:11: Так это же теперь ваше министерство. | verbatim |
-| 11 | Аня | Вы сможете строго наказать местных чиновников. | You will be able to punish local officials strictly. | #755 01:00:14: Настучите им по голове | verbatim |
-| 12 | Губернатор | Да, я наведу здесь железный порядок. | Yes, I will establish iron order here. | #757 01:00:21: Да-да-да. | verbatim |
-| 13 | Аня | Мы создадим идеальную команду для работы. | We will create an ideal team for work. | new | new |
+| 1 | Губернатор | Поехали скорее со мной на зимнее озеро. | Come quickly with me to the winter lake. | #734: Уж поехали на озеро. | verbatim |
+| 2 | Аркадий | На улице сейчас очень сильный холод. | There is very severe cold outside right now. | #736: Так холодно же. | verbatim |
+| 3 | Губернатор | Мы посидим на льду и половим рыбу. | We will sit on the ice and catch fish. | #735: Посидим, рыбку<br>#736: половим. | verbatim |
+| 4 | Губернатор | Заодно без лишних ушей обсудим твоё назначение. | At the same time without extra ears we will discuss your appointment. | #739: А заодно и обсудим назначение твое<br>#740: Без лишних ушей | verbatim |
+| 5 | Аркадий | Хорошо, Виктор Степанович, я с удовольствием поеду. | Fine, Viktor Stepanovich, I will go with pleasure. | new | new |
+| 6 | Губернатор | Давай нальём в рюмки хорошей водки. | Let's pour good vodka into the shot glasses. | #748: Ну давай, Аркаш<br>#752: Очень хорошая водка | verbatim |
+| 7 | Губернатор | Поднимем этот тост за твой будущий успех! | Let's raise this toast to your future success! | #749: За тебя | verbatim |
+| 8 | Аркадий | За ваше высокое министерское назначение! | To your high ministerial appointment! | #750: За вас, Виктор Степанович<br>#751: Ваше назначение | verbatim |
+| 9 | Губернатор | Только почему-то рыба здесь совсем не клюёт. | Only for some reason the fish do not bite here at all. | #753: Чего-то рыба-то и не клюет совсем. | verbatim |
+| 10 | Аркадий | Это же теперь ваше профильное министерство. | This is your specialized ministry now after all. | #754: Так это же теперь ваше министерство. | verbatim |
+| 11 | Аркадий | Вы сможете строго наказать местных чиновников. | You will be able to punish local officials strictly. | #755: Настучите им по голове | verbatim |
+| 12 | Губернатор | Да, я наведу здесь железный порядок. | Yes, I will establish iron order here. | #757: Да-да-да. | verbatim |
+| 13 | Аркадий | Мы создадим идеальную команду для работы. | We will create an ideal team for work. | new | new |
 | 14 | Губернатор | Сначала выслушай меня очень внимательно, Аркаша. | First listen to me very carefully, Arkasha. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

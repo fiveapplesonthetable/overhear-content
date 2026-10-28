@@ -8,14 +8,10 @@
  "scene": 6,
  "title": "Катя приглашает Макса  (Katya Invites Max)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "lyova": "angelina",
-  "anya": "alisa"
- },
  "labels": {
+  "katya": "Катя",
   "lyova": "Лёва",
-  "anya": "Макс"
+  "max": "Макс"
  },
  "segments": [
   {
@@ -24,32 +20,32 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Не расстраивайся, ну не получилось сегодня.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Может, ещё не всё потеряно?",
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Привет, Макс, я хотела тебе сказать.",
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Может, пойдём вечером кофе попьём?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Привет, чего? Кофе вечером попьём?",
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Да, вот мы и договорились.",
    "gap": 0.55
   },
@@ -69,7 +65,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Честно говоря, я сам не знаю почему.",
    "gap": 0.55
   },
@@ -89,63 +85,63 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Не расстраивайся, ну не получилось сегодня.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do not be upset, so it did not work out today.' In Russian, the idea of 'not' flows naturally into 'tonight' without extra filler words.",
+   "t": "'Do not be upset, so it did not work out today.' Even though do not be upset so it did not work out today, Max keeps a steady face in front of Katya.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Может, ещё не всё потеряно?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Maybe not everything is lost yet?' Spoken Russian keeps this brisk, leaning on 'maybe' and finishing on 'is lost'.",
+   "t": "'Maybe not everything is lost yet?' Max asks whether maybe not everything is lost yet, refusing to let the point slide.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Привет, Макс, я хотела тебе сказать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hi, Max, I wanted to tell you something.' In Russian, the idea of 'hello' flows naturally into 'to say' without extra filler words.",
+   "t": "'Hi, Max, I wanted to tell you something.' Saying that she wanted to tell Lyova something is how Katya sets the tone with Lyova. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Может, пойдём вечером кофе попьём?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Maybe we could go have some coffee tonight?' Katya raises the pitch on 'we will have a drink' to turn the phrase into a direct spoken question. Max answers right away.",
+   "t": "'Maybe we could go have some coffee tonight?' Wondering if maybe they could go have some coffee tonight shows Katya caught off guard. In Russian, she does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Привет, чего? Кофе вечером попьём?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hi, what? Have coffee tonight?' Max brings out the contrast between 'hello' and 'what' in a few short words.",
+   "t": "'Hi, what? Have coffee tonight?' Checking whether coffee tonight is how Max puts Katya on the spot.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Да, вот мы и договорились.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Yes, then it is settled between us.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'agreed'.",
+   "t": "'Yes, then it is settled between us.' Saying that it is settled between them is how Katya sets the tone with Lyova.",
    "gap": 0.4
   },
   {
@@ -155,7 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I do not understand anything at all now.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'understand'.",
+   "t": "'I do not understand anything at all now.' Since he does not understand anything at all now, Lyova does not waste words on excuses. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
@@ -165,7 +161,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I did everything according to your recipe.' Lyova anchors the line on 'I', while 'recipe' completes the thought.",
+   "t": "'I did everything according to your recipe.' Mentioning that he did everything according to Katya's recipe moves the talk in a new direction.",
    "gap": 0.4
   },
   {
@@ -175,17 +171,17 @@
   },
   {
    "v": "narrator",
-   "t": "'You did nothing at all, and she is going with you.' Here the Russian phrasing highlights 'you' before landing on 'with'.",
+   "t": "'You did nothing at all, and she is going with you.' Saying that Katya did nothing at all and she is going with Katya is how Lyova sets the tone with Katya. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Честно говоря, я сам не знаю почему.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Honestly, I do not know why myself.' Notice how Russian expresses 'honestly' and 'why' with crisp inflection rather than helper words. Lyova answers right away.",
+   "t": "'Honestly, I do not know why myself.' Because he does not know why himself, Max treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -195,7 +191,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Tell me, why did it turn out like this?' Here the Russian phrasing highlights 'say' before landing on 'turned out'.",
+   "t": "'Tell me, why did it turn out like this?' Asking whether tell him why did it turn out like this puts Katya right on the defensive.",
    "gap": 0.4
   },
   {
@@ -205,36 +201,36 @@
   },
   {
    "v": "narrator",
-   "t": "'Because I am completely worthless.' Spoken Russian keeps this brisk, leaning on 'that is why' and finishing on 'worthless'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Because I am completely worthless.' Lyova mentions that because he is completely worthless so Katya sees what is at stake. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Не расстраивайся, ну не получилось сегодня.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Может, ещё не всё потеряно?",
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Привет, Макс, я хотела тебе сказать.",
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Может, пойдём вечером кофе попьём?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Привет, чего? Кофе вечером попьём?",
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "Да, вот мы и договорились.",
    "gap": 0.5
   },
@@ -254,7 +250,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Честно говоря, я сам не знаю почему.",
    "gap": 0.5
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "katya",
    "t": "До свидания!",
    "gap": 0.3
   }

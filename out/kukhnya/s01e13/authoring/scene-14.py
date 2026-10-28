@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 14
-TITLE = "Честный разговор  (An Honest Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Честный разговор  (An Honest Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Visiting Nastya at her apartment, Kostya expects a romantic evening together. However, Nastya candidly confesses that she feels uncomfortable acting out of obligation or gratitude rather than genuine love, leading to a tender and respectful agreement. Let's listen to their conversation in Russian."
 OPENER = "Now let's examine how Nastya and Kostya navigate their personal feelings and boundaries line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Finding mutual respect and emotional clarity, Kostya and Nastya spend a quiet, peaceful night together. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'second' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди секунду, не спеши.', 'Kostya, wait a second, do not rush.', [], ''),
     ('kostya', 'Настя, что случилось, почему ты грустная?', 'Nastya, what happened, why are you sad?', [(192, 'Что')], ''),

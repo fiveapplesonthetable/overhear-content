@@ -4,36 +4,36 @@ Title: Приезд мамы и платок  (Mom's Arrival and the Shawl)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S4.08
-Cues 69-85. Max's mother arrives at the apartment wearing a knitted shawl and warmly thanks Vika for knitting it for her birthday, leaving Vika baffled by Max's fib.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Мама | Викочка, здравствуйте, как же я рада вас видеть! | Vikochka, hello, how glad I am to see you! | #69 00:05:56: Викочка. Здравствуйте. | adapted: adapted |
-| 2 | Вика | С приездом вас, как вы сегодня добрались? | Welcome on your arrival, how did you get here today? | #70 00:05:58: С приездом. Как добрались? | adapted: adapted |
-| 3 | Мама | Добралась нормально, спасибо большое, мои хорошие. | I got here fine, thank you very much, my dears. | #71 00:06:01: Нормально. | adapted: adapted |
-| 4 | Вика | Проходите, пожалуйста, в комнату, давайте вашу сумку. | Please come into the room, give me your bag. | #71 00:06:01: Проходите.<br>#72 00:06:03: Давайте. | adapted: adapted |
-| 5 | Мама | Вика, ты видишь, в чём я сегодня приехала? | Vika, do you see what I arrived wearing today? | #74 00:06:08: Вика. Да?<br>#75 00:06:10: Видишь, в чем я приехала? | adapted: adapted |
-| 6 | Вика | Да, это очень красивый тёплый платок! | Yes, that is a very beautiful warm shawl! | #76 00:06:12: Да. Очень красиво. | adapted: adapted |
-| 7 | Вика | А скажите, где вы такой красивый купили? | And tell me, where did you buy such a pretty one? | #77 00:06:15: Где купили? | adapted: adapted |
-| 8 | Мама | Очень смешно, Вика, ты же сама его связала! | Very funny, Vika, after all you knitted it yourself! | #78 00:06:17: Очень смешно, Вика. Ты же сама его связала. | adapted: adapted |
-| 9 | Аня | Да, это наш подарок маме на день рождения! | Yes, that was our gift to Mom for her birthday! | #79 00:06:20: Маме на день рождения. | adapted: adapted |
-| 10 | Аня | Вика, ты же помнишь, как мы его послали? | Vika, surely you remember how we sent it to her? | #80 00:06:22: Помнишь, мы ей послали? Да. | adapted: adapted |
-| 11 | Мама | Я его постоянно ношу, ты у меня умница! | I wear it constantly, you are such a clever girl! | #81 00:06:24: Я его постоянно ношу.<br>#83 00:06:27: Ты мне такая умница. | adapted: adapted |
-| 12 | Мама | Ой, я же ещё руки с дороги не помыла! | Oh, I have not even washed my hands from the trip yet! | #84 00:06:29: Ой, в руки-то не помыла. | adapted: adapted |
+| 1 | Мама | Викочка, здравствуйте, как же я рада вас видеть! | Vikochka, hello, how glad I am to see you! | #69: Викочка. Здравствуйте. | adapted: adapted |
+| 2 | Вика | С приездом вас, как вы сегодня добрались? | Welcome on your arrival, how did you get here today? | #70: С приездом. Как добрались? | adapted: adapted |
+| 3 | Мама | Добралась нормально, спасибо большое, мои хорошие. | I got here fine, thank you very much, my dears. | #71: Нормально. | adapted: adapted |
+| 4 | Вика | Проходите, пожалуйста, в комнату, давайте вашу сумку. | Please come into the room, give me your bag. | #71: Проходите.<br>#72: Давайте. | adapted: adapted |
+| 5 | Мама | Вика, ты видишь, в чём я сегодня приехала? | Vika, do you see what I arrived wearing today? | #74: Вика. Да?<br>#75: Видишь, в чем я приехала? | adapted: adapted |
+| 6 | Вика | Да, это очень красивый тёплый платок! | Yes, that is a very beautiful warm shawl! | #76: Да. Очень красиво. | adapted: adapted |
+| 7 | Вика | А скажите, где вы такой красивый купили? | And tell me, where did you buy such a pretty one? | #77: Где купили? | adapted: adapted |
+| 8 | Мама | Очень смешно, Вика, ты же сама его связала! | Very funny, Vika, after all you knitted it yourself! | #78: Очень смешно, Вика. Ты же сама его связала. | adapted: adapted |
+| 9 | Макс | Да, это наш подарок маме на день рождения! | Yes, that was our gift to Mom for her birthday! | #79: Маме на день рождения. | adapted: adapted |
+| 10 | Макс | Вика, ты же помнишь, как мы его послали? | Vika, surely you remember how we sent it to her? | #80: Помнишь, мы ей послали? Да. | adapted: adapted |
+| 11 | Мама | Я его постоянно ношу, ты у меня умница! | I wear it constantly, you are such a clever girl! | #81: Я его постоянно ношу.<br>#83: Ты мне такая умница. | adapted: adapted |
+| 12 | Мама | Ой, я же ещё руки с дороги не помыла! | Oh, I have not even washed my hands from the trip yet! | #84: Ой, в руки-то не помыла. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vikochka, hello, how glad I am to see you!' Affectionate diminutive 'Vikochka' shows warm maternal approval.
-- 'Welcome on your arrival, how did you get here today?' Here Vika anchors the thought on 'arrival' and finishes on 'to today', keeping the spoken rhythm brisk and natural.
-- 'I got here fine, thank you very much, my dears.' the speaker uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
-- 'Please come into the room, give me your bag.' Polite plural imperatives welcome the guest inside.
-- 'Vika, do you see what I arrived wearing today?' In spoken Russian, the words stay in their normal statement order and the speaker's rising voice at the end turns the line into a question.
-- 'Yes, that is a very beautiful warm shawl!' Masculine noun 'shawl/headscarf' takes masculine adjective endings.
-- 'And tell me, where did you buy such a pretty one?' Vika has never seen the shawl in her life and asks an innocent question.
-- 'Very funny, Vika, after all you knitted it yourself!' Max's mother takes Vika's question as a modest joke.
-- 'Yes, that was our gift to Mom for her birthday!' Max jumps in frantically to signal Vika to play along.
-- 'Vika, surely you remember how we sent it to her?' Past plural verb 'sent' cues Vika into the cover story.
-- 'I wear it constantly, you are such a clever girl!' Indeterminate verb 'I wear' expresses habitual action.
-- 'Oh, I have not even washed my hands from the trip yet!' As soon as Mom steps into the bathroom, Vika corners Max.
+- 'Vikochka, hello, how glad I am to see you!' Mama declares that someone hello how glad she is to see Max as the tension in the room peaks. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Welcome on your arrival, how did you get here today?' Asking whether welcome on Mama's arrival how did Mama gets here today puts Mama right on the defensive. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'I got here fine, thank you very much, my dears.' Realizing that she got here fine thank Max very much her dears changes how Mama handles the situation.
+- 'Please come into the room, give me your bag.' Coming into the room give her Mama's bag is how Vika lays out the situation for Mama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Vika, do you see what I arrived wearing today?' Checking whether Max sees what she arrived wearing today cuts straight through the tension between Mama and Max. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Yes, that is a very beautiful warm shawl!' Vika insists that that is a very beautiful warm shawl, leaving Mama no room to argue.
+- 'And tell me, where did you buy such a pretty one?' Asking whether tell her where did Mama buys such a pretty one puts Mama right on the defensive. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Very funny, Vika, after all you knitted it yourself!' With the room and apartment at stake, Mama reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Yes, that was our gift to Mom for her birthday!' Because that was their gift to Mom for her birthday, Max does not bother softening the blow for Mama.
+- 'Vika, surely you remember how we sent it to her?' When Max asks if surely Mama remembers how they sent it, Mama has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I wear it constantly, you are such a clever girl!' Once she wears it constantly Max is such a clever girl, Mama makes sure Max hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Oh, I have not even washed my hands from the trip yet!' Once she has not even washed her hands from the trip yet, Mama makes sure Max hears every word.

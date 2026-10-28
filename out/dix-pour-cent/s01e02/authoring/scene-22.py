@@ -7,7 +7,6 @@ SCENE = 22
 TITLE = 'Je déteste les actrices  (I Hate Actresses)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'helene': 'emilie', 'mathias': 'marcel'}
 LABELS = {'helene': 'Hélène', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
@@ -50,10 +49,10 @@ WALK = [
     (10, None, "'Samuel cheated on me a lot, mostly with actresses.' The past tense once more. There's an extra letter on the end of the past form, silent, because the person cheated on is a woman: Hélène herself."),
     (11, None, "'But you knew that, didn't you?' A different past tense, for something that went on over time. The little 'no?' at the end works like 'didn't you?' in English."),
     (12, None, "'Not really, no.' Mathias tries to look innocent."),
-    (13, None, "'I'll tell you something.' The near future: 'I am going' plus 'to tell'. The little word in the middle means 'to you', and it sits before the verb."),
-    (14, None, "'I hate actresses.' Short and brutal, for a woman whose husband ran a talent agency full of them."),
-    (15, None, "'Sorry, Mathias, but I have to look at the other offers.' The word for 'sorry' takes its feminine spelling because Hélène is a woman, though it sounds the same. Then 'I must' plus an infinitive."),
-    (16, None, "'The bill, please.' A sentence worth knowing for any restaurant. The last part is the polite 'please'."),
-    (17, None, "'Other offers?' Mathias didn't see that coming at all."),
-    (18, None, "'Oh, yes. Everyone wants Samuel's place.' The phrase for 'everyone' is literally 'all the world', and it takes a singular verb. In the show she puts it much more darkly, about people jumping on dead bodies. Let's hear the whole dinner once more, without stopping."),
+    (13, 'Je vais vous dire quelque chose.', "'I'll tell you something.' The near future: 'I am going' plus 'to tell'. The little word in the middle means 'to you', and it sits before the verb."),
+    (13, 'Je déteste les actrices.', "'I hate actresses.' Short and brutal, for a woman whose husband ran a talent agency full of them."),
+    (14, None, "'Sorry, Mathias, but I have to look at the other offers.' The word for 'sorry' takes its feminine spelling because Hélène is a woman, though it sounds the same. Then 'I must' plus an infinitive."),
+    (15, None, "'The bill, please.' A sentence worth knowing for any restaurant. The last part is the polite 'please'."),
+    (16, None, "'Other offers?' Mathias didn't see that coming at all."),
+    (17, None, "'Oh, yes. Everyone wants Samuel's place.' The phrase for 'everyone' is literally 'all the world', and it takes a singular verb. In the show she puts it much more darkly, about people jumping on dead bodies. Let's hear the whole dinner once more, without stopping."),
 ]

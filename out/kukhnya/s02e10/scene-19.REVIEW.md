@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ваш столик. | Here is your table. | #307 00:21:58: Ваш столик | verbatim |
-| 2 | Аня | Пожалуйста, меню. | Here is the menu, please. | #308 00:22:00: Пожалуйста, меню | verbatim |
-| 3 | Шеф | Передайте шеф-повару, пусть подает черепаховый суп, окей? | Tell the head chef to serve the turtle soup, okay? | #309 00:22:05: Передайте шеф-повару, пусть подает черепаховый суп, окей | verbatim |
-| 4 | Аня | Пятьсот рублей. | Five hundred rubles. | #311 00:22:21: пятьсот рублей | verbatim |
-| 5 | Шеф | Сто тысяч долларов. | A hundred thousand dollars. | #314 00:22:28: Сто тысяч долларов | verbatim |
-| 6 | Аня | И что? | And so what? | #315 00:23:00: И что | verbatim |
-| 7 | Шеф | А ты бросай сковородку! | And you drop that frying pan! | #317 00:23:14: А ты бросай сковородку | verbatim |
-| 8 | Аня | Никто и не видел? | Did nobody see it at all? | #318 00:23:22: никто и не видел | verbatim |
-| 9 | Шеф | Ваш черепаховый суп. | Your turtle soup. | #320 00:23:31: Ваш черепаховый суп | verbatim |
-| 10 | Аня | Для некоторых этот путь полон приключений. | For some people, this path is full of adventures. | #322 00:23:39: Для некоторых этот путь полон приключений | verbatim |
-| 11 | Шеф | Но чудом успевает удержаться. | Yet by a miracle they manage to hold on. | #324 00:23:50: но чудом успевает удержаться | verbatim |
-| 12 | Аня | А кто-то, оказавшись на перепуте, выбирает направление. | While someone else, standing at a crossroads, chooses a direction. | #325 00:23:55: А кто-то, оказавшись на перепуте, выбирает направление | verbatim |
-| 13 | Шеф | Которое пока неизвестно, куда привезет. | Without knowing yet where it will lead. | #326 00:24:00: которое пока неизвестно, куда привезет | verbatim |
+| 1 | Шеф | Ваш столик. | Here is your table. | #307: Ваш столик | verbatim |
+| 2 | Макс | Пожалуйста, меню. | Here is the menu, please. | #308: Пожалуйста, меню | verbatim |
+| 3 | Шеф | Передайте шеф-повару, пусть подает черепаховый суп, окей? | Tell the head chef to serve the turtle soup, okay? | #309: Передайте шеф-повару, пусть подает черепаховый суп, окей | verbatim |
+| 4 | Макс | Пятьсот рублей. | Five hundred rubles. | #311: пятьсот рублей | verbatim |
+| 5 | Шеф | Сто тысяч долларов. | A hundred thousand dollars. | #314: Сто тысяч долларов | verbatim |
+| 6 | Макс | И что? | And so what? | #315: И что | verbatim |
+| 7 | Шеф | А ты бросай сковородку! | And you drop that frying pan! | #317: А ты бросай сковородку | verbatim |
+| 8 | Макс | Никто и не видел? | Did nobody see it at all? | #318: никто и не видел | verbatim |
+| 9 | Шеф | Ваш черепаховый суп. | Your turtle soup. | #320: Ваш черепаховый суп | verbatim |
+| 10 | Макс | Для некоторых этот путь полон приключений. | For some people, this path is full of adventures. | #322: Для некоторых этот путь полон приключений | verbatim |
+| 11 | Шеф | Но чудом успевает удержаться. | Yet by a miracle they manage to hold on. | #324: но чудом успевает удержаться | verbatim |
+| 12 | Макс | А кто-то, оказавшись на перепуте, выбирает направление. | While someone else, standing at a crossroads, chooses a direction. | #325: А кто-то, оказавшись на перепуте, выбирает направление | verbatim |
+| 13 | Шеф | Которое пока неизвестно, куда привезет. | Without knowing yet where it will lead. | #326: которое пока неизвестно, куда привезет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your table.' Chef Viktor brings out the contrast between 'your' and 'table' in a few short words.
-- 'Here is the menu, please.' In Russian, the idea of 'there you go' flows naturally into 'menu' without extra filler words. Chef Viktor answers right away.
-- 'Tell the head chef to serve the turtle soup, okay?' In Russian, the idea of 'to pass on' flows naturally into 'okay' without extra filler words.
-- 'Five hundred rubles.' The grammar packs 'five hundred' and 'roubles' into a tight, idiomatic kitchen exchange.
-- 'A hundred thousand dollars.' Spoken Russian keeps this brisk, leaning on 'one hundred' and finishing on 'dollars'. Max answers right away.
-- 'And so what?' The meaning hinges on 'both' working together with 'what' in spoken Russian.
-- 'And you drop that frying pan!' Here the Russian phrasing highlights 'and' before landing on 'frying pan'.
-- 'Did nobody see it at all?' The meaning hinges on 'nobody' working together with 'saw' in spoken Russian. Chef Viktor answers right away.
-- 'Your turtle soup.' The grammar packs 'your' and 'soup' into a tight, idiomatic kitchen exchange.
-- 'For some people, this path is full of adventures.' In Russian, the idea of 'for' flows naturally into 'adventure' without extra filler words.
-- 'Yet by a miracle they manage to hold on.' Notice how Russian expresses 'but' and 'to hold back' with crisp inflection rather than helper words. Max answers right away.
-- 'While someone else, standing at a crossroads, chooses a direction.' In Russian, the idea of 'and' flows naturally into 'referral slip' without extra filler words.
-- 'Without knowing yet where it will lead.' Spoken Russian keeps this brisk, leaning on 'which' and finishing on 'will bring'.
+- 'Here is your table.' Claiming that here is Max's table sounds confident, even if Max has doubts.
+- 'Here is the menu, please.' Pointing out that here is the menu please gives Barinov a sobering reality check.
+- 'Tell the head chef to serve the turtle soup, okay?' Turning from the exchange to the kitchen, Barinov asks Max directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Five hundred rubles.' With the soup and point in play, Max keeps this short reply brisk and direct.
+- 'A hundred thousand dollars.' Around the guest and soup, Barinov sets a calm, everyday tone with Max.
+- 'And so what?' Over the kitchen and the soup, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And you drop that frying pan!' Barinov insists that Max drops that frying pan, leaving Max no room to argue.
+- 'Did nobody see it at all?' By checking whether nobody see it at all, Max presses Barinov for a straight answer. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Your turtle soup.' With the guest and conversation in play, Barinov keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'For some people, this path is full of adventures.' Adding that for some people this path is full of adventures fills in the missing piece for Barinov.
+- 'Yet by a miracle they manage to hold on.' Turning from the guest to the point, Barinov keeps the exchange moving.
+- 'While someone else, standing at a crossroads, chooses a direction.' Since while someone else standing at a crossroads chooses a direction, Max does not waste words on excuses.
+- 'Without knowing yet where it will lead.' Mentioning that without knowing yet where it will lead moves the talk in a new direction.

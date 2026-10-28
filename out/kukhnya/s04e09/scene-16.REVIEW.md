@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Герман | Макс недоступен, трубку не берёт. | Max is unreachable, he is not picking up the phone. | #237 00:17:53: Макс недоступен, трубку не берет | verbatim |
-| 2 | Герман | Откуда у Стёпы красные ботинки? | Where did Styopa get red boots from? | #241 00:18:10: откуда у Степы красные ботинки | verbatim |
-| 3 | Герман | Дед, наверное, купил ему. | Grandpa probably bought them for him. | #242 00:18:16: Дед, наверное, купил | adapted: adapted for A1 clarity |
-| 4 | Герман | Вы вообще в своём уме? | Are you in your right mind at all? | #243 00:18:27: Вы вообще в своем уме | verbatim |
-| 5 | Герман | Вы что тут сделали? | What have you done here? | #244 00:18:29: Вы что сделали | adapted: adapted for A1 clarity |
-| 6 | Герман | А вы ж меня видели, я тут стоял. | You saw me, I was standing right here. | #246 00:18:32: Вы ж меня видели, я тут стоял | adapted: adapted for A1 clarity |
-| 7 | Герман | Я эту штуку один не подниму. | I could never lift this thing alone. | #247 00:18:34: Я эту штуку сроду один не подниму | adapted: adapted for A1 clarity |
-| 8 | Герман | Тут человека три надо. | You need about three people here. | #248 00:18:37: Тут человек три надо | adapted: adapted for A1 clarity |
-| 9 | Герман | Теперь уже полиция пусть разбирается. | Now let the police sort it out. | #249 00:18:42: теперь уже полиция разбирается | adapted: adapted for A1 clarity |
-| 10 | Герман | Ты значит тут у нас мужик, да? | So you are a tough guy here, are you? | #254 00:18:56: Ты значит тут у нас мужик, да | verbatim |
-| 11 | Герман | Хочешь по-мужски разобраться? | Do you want to settle this like men? | #255 00:18:59: хочешь по-мужски разобраться | verbatim |
-| 12 | Герман | С удовольствием, держи удар! | With pleasure, take this punch! | #256 00:19:02: С удовольствием | adapted: adapted for A1 clarity |
+| 1 | Костя | Макс недоступен, трубку не берёт. | Max is unreachable, he is not picking up the phone. | #237: Макс недоступен, трубку не берет | verbatim |
+| 2 | Костя | Откуда у Стёпы красные ботинки? | Where did Styopa get red boots from? | #241: откуда у Степы красные ботинки | verbatim |
+| 3 | Костя | Дед, наверное, купил ему. | Grandpa probably bought them for him. | #242: Дед, наверное, купил | adapted: adapted for A1 clarity |
+| 4 | Герман | Вы вообще в своём уме? | Are you in your right mind at all? | #243: Вы вообще в своем уме | verbatim |
+| 5 | Герман | Вы что тут сделали? | What have you done here? | #244: Вы что сделали | adapted: adapted for A1 clarity |
+| 6 | Шеф | А вы ж меня видели, я тут стоял. | You saw me, I was standing right here. | #246: Вы ж меня видели, я тут стоял | adapted: adapted for A1 clarity |
+| 7 | Шеф | Я эту штуку один не подниму. | I could never lift this thing alone. | #247: Я эту штуку сроду один не подниму | adapted: adapted for A1 clarity |
+| 8 | Шеф | Тут человека три надо. | You need about three people here. | #248: Тут человек три надо | adapted: adapted for A1 clarity |
+| 9 | Герман | Теперь уже полиция пусть разбирается. | Now let the police sort it out. | #249: теперь уже полиция разбирается | adapted: adapted for A1 clarity |
+| 10 | Шеф | Ты значит тут у нас мужик, да? | So you are a tough guy here, are you? | #254: Ты значит тут у нас мужик, да | verbatim |
+| 11 | Герман | Хочешь по-мужски разобраться? | Do you want to settle this like men? | #255: хочешь по-мужски разобраться | verbatim |
+| 12 | Герман | С удовольствием, держи удар! | With pleasure, take this punch! | #256: С удовольствием | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max is unreachable, he is not picking up the phone.' Literally 'he does not take the receiver', this is the everyday idiom for not answering a phone call.
-- 'Where did Styopa get red boots from?' Combining the question word 'where from' with 'by Styopa' asks where he got something.
-- 'Grandpa probably bought them for him.' The parenthetical word for 'probably' sits neatly in the middle of the sentence.
-- 'Are you in your right mind at all?' Literally 'in your own mind?', this classic idiom asks if someone has gone crazy.
-- 'What have you done here?' German centers this short reply on 'made', letting a few direct words carry the whole meaning.
-- 'You saw me, I was standing right here.' Notice how Russian puts 'saw' and 'stood' together in a short, direct phrase where word endings show how the ideas connect.
-- 'I could never lift this thing alone.' The masculine numeral 'one' used with a subject means 'alone' or 'by oneself'.
-- 'You need about three people here.' In Russian, flipping the noun before the number ('people three') means 'approximately three people'.
-- 'Now let the police sort it out.' German pairs 'now, nowadays' with 'understands, knows about' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'So you are a tough guy here, are you?' The colloquial word for 'man' carries the nuance of a real tough guy.
-- 'Do you want to settle this like men?' Adverbs with the prefix 'po-' and ending '-ski' mean 'in the manner of' — here, 'man-to-man'.
-- 'With pleasure, take this punch!' In everyday Russian, 'pleasure' flows straight into 'blow, strike' without extra linking words.
+- 'Max is unreachable, he is not picking up the phone.' Because Max is unreachable he is not picking up the phone, Kostya treats the matter as settled.
+- 'Where did Styopa get red boots from?' Asking where Styopa get red boots is how Kostya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Grandpa probably bought them for him.' Kostya mentions that Grandpa probably bought them for him so Barinov sees what is at stake.
+- 'Are you in your right mind at all?' By checking whether Barinov in Barinov's right mind at all, German presses Barinov for a straight answer.
+- 'What have you done here?' Wondering if what have Barinov done here shows German caught off guard. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'You saw me, I was standing right here.' Barinov explains that German saw him he was standing right here, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I could never lift this thing alone.' Realizing that he could never lift this thing alone changes how Barinov handles the situation.
+- 'You need about three people here.' Noting that German needs about three people here keeps Barinov's side of the story simple and clear. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Now let the police sort it out.' Telling Barinov to let the police sort it out moves the conversation forward without extra drama.
+- 'So you are a tough guy here, are you?' Wondering if German is a tough guy here are German shows Barinov caught off guard.
+- 'Do you want to settle this like men?' Checking whether Barinov wants to settle this like men is how German puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'With pleasure, take this punch!' Between the moment and the office, German delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.

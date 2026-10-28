@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 14
-TITLE = "Сим-карта в десерте  (SIM Card in Dessert)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сим-карта в десерте  (SIM Card in Dessert)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "lyova": "angelina"}
-LABELS = {"kostya": "Костя", "lyova": "Лёва"}
+LABELS = {'kostya': 'Костя', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "In the kitchen, Kostya tells Lyova about a problem with a customer's dessert. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around SIM Card in Dessert line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya pushes Lyova to take responsibility for the kitchen. Next time you watch the episode, listen for the Russian expressions for 'necessary' and 'client' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('lyova', 'Я никому не нужен.', 'I am not needed by anyone.', [(214, 'никому')], ''),
     ('kostya', 'Люба, клиент нашел сим-карту в десерте.', 'Lyuba, a customer found a SIM card in the dessert.', [(216, 'люба')], ''),

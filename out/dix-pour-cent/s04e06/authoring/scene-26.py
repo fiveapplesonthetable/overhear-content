@@ -7,8 +7,7 @@ SCENE = 26
 TITLE = "Le panneau d'ASK  (The ASK Sign)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Standing by the agency entrance, Andrea and Gabriel pause in front of the glass doors bearing the famous Samuel Kerr lettering. Remembering their late mentor and the ten intense years of cinema history created within these walls, they prepare to close the door for the very last time. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Before closing the doors forever, Andrea and Gabriel pause with deep respect before the ASK logo, proud of their shared history and ready for the future. When you watch the episode, listen out for the expressions meaning 'stop' and 'instant'. You'll catch them now. See you next time!"
 CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
-    ('lea', 'Arrête-toi un instant devant la porte.', 'Stop for a moment in front of the door.', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', 'Arrête-toi un instant devant la porte.', 'Stop for a moment in front of the door.', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Regarde les lettres sur la vitre.', 'Look at the letters on the glass.', [(1041, 'AGENCE SAMUEL KERR')], ''),
-    ('lea', 'Agence Samuel Kerr.', 'Samuel Kerr Agency.', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', 'Agence Samuel Kerr.', 'Samuel Kerr Agency.', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Samuel serait très fier de nous.', 'Samuel would be very proud of us.', [(1041, 'AGENCE SAMUEL KERR')], ''),
-    ('lea', 'Nous avons sauvé tellement de films.', 'We saved so many films.', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', 'Nous avons sauvé tellement de films.', 'We saved so many films.', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Et nous avons aimé nos acteurs.', 'And we loved our actors.', [(1041, 'AGENCE SAMUEL KERR')], ''),
-    ('lea', 'Même quand ils étaient difficiles!', 'Even when they were difficult!', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', 'Même quand ils étaient difficiles!', 'Even when they were difficult!', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Surtout quand ils étaient difficiles!', 'Especially when they were difficult!', [(1041, 'AGENCE SAMUEL KERR')], ''),
-    ('lea', 'Est-ce que tu as des regrets?', 'Do you have any regrets?', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', 'Est-ce que tu as des regrets?', 'Do you have any regrets?', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Non, aucun regret ce soir.', 'No, no regret tonight.', [(1041, 'AGENCE SAMUEL KERR')], ''),
-    ('lea', "L'histoire d'ASK se termine ici.", 'The story of ASK ends here.', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', "L'histoire d'ASK se termine ici.", 'The story of ASK ends here.', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Mais notre amitié reste intacte.', 'But our friendship remains intact.', [(1041, 'AGENCE SAMUEL KERR')], ''),
-    ('lea', 'Fermons cette porte pour toujours.', 'Let us close this door forever.', [(1041, 'AGENCE SAMUEL KERR')], ''),
+    ('andrea', 'Fermons cette porte pour toujours.', 'Let us close this door forever.', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Une nouvelle page commence.', 'A new page begins.', [(1041, 'AGENCE SAMUEL KERR')], ''),
 ]
 WALK = [

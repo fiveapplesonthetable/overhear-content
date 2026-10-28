@@ -4,29 +4,28 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 1
-TITLE = "Свободные отношения  (Open relationship)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Свободные отношения  (Open relationship)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Max arrives at Vika's apartment drunk in the middle of the night. Vika is furious and demands an explanation. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Open relationship line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika is fed up with his behavior and locks him out of her apartment. Next time you watch the episode, listen for the Russian expressions for 'to wake up' and 'to forgive' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "До свидания.")
+CLOSING = ('vika', 'До свидания.')
 STORY = [
     ('vika', 'Разбудил?', 'Did I wake you?', [(1, 'Расбудил? Конечно, нет.')], ''),
-    ('anya', 'Прости меня, пожалуйста.', 'Please forgive me.', [(5, 'Прости меня, пожалуйста, я так устал.')], ''),
+    ('max', 'Прости меня, пожалуйста.', 'Please forgive me.', [(5, 'Прости меня, пожалуйста, я так устал.')], ''),
     ('vika', 'Где ты вообще был?', 'Where were you, anyway?', [(7, 'И где ты вообще был?')], ''),
-    ('anya', 'Что тут допрос такой?', 'What is this, an interrogation?', [(8, 'А, что вообще тут допрос такой, а?')], ''),
+    ('max', 'Что тут допрос такой?', 'What is this, an interrogation?', [(8, 'А, что вообще тут допрос такой, а?')], ''),
     ('vika', 'Ты считаешь, что можешь шляться где угодно?', 'You think you can wander off anywhere?', [(9, 'Ты считаешь, что ты можешь шляться, черт знает где, бухать,')], ''),
     ('vika', 'И приходить в три часа?', "And stroll in at three o'clock?", [(10, 'а потом приходить спокойно ко мне в три часа?')], ''),
-    ('anya', 'Без пятнадцати.', 'Quarter to.', [(11, 'Без пятнадцати.')], ''),
+    ('max', 'Без пятнадцати.', 'Quarter to.', [(11, 'Без пятнадцати.')], ''),
     ('vika', 'Что у нас за отношения?', 'What kind of relationship do we have?', [(12, 'Что у нас за отношения?')], ''),
-    ('anya', 'У нас свободные отношения.', 'We have an open relationship.', [(13, 'У нас свободные отношения.')], ''),
-    ('anya', 'Все хорошо.', 'Everything is fine.', [(14, 'Все хорошо. Чего ты серьезная такая?')], ''),
+    ('max', 'У нас свободные отношения.', 'We have an open relationship.', [(13, 'У нас свободные отношения.')], ''),
+    ('max', 'Все хорошо.', 'Everything is fine.', [(14, 'Все хорошо. Чего ты серьезная такая?')], ''),
     ('vika', 'Раз у нас свободные отношения,', 'Since we have an open relationship,', [(15, 'Раз у нас свободные отношения, на сегодня ты свободен.')], ''),
     ('vika', 'На сегодня ты свободен.', 'You are free for tonight.', [(15, 'Раз у нас свободные отношения, на сегодня ты свободен.')], ''),
 ]

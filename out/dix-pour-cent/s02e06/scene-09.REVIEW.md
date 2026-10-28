@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s02e06-scene-09` — Le problème du smoking  (The Tuxedo Problem)
+# dix-pour-cent-s02e06-scene-09: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "juliette": "emilie"}`
-- **Labels**: `{"lea": "Andréa", "juliette": "Juliette"}`
+Title: Le problème du smoking  (The Tuxedo Problem)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E06
 
-## Part 1 — Intro
-> At a luxury Cannes hotel suite, Andréa arrives with frustrating news for client Juliette Binoche. Another major international star has chosen the exact same tuxedo for the opening red carpet. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Bienvenue à Cannes, Juliette. | Welcome to Cannes, Juliette. | 171:Bienvenue à Cannes. |
-| 1 | `juliette` (Juliette) | Bonjour Andréa, comment vas-tu? | Hello Andréa, how are you? | 170:Bonjour. |
-| 2 | `lea` (Andréa) | Nous avons un problème avec le smoking. | We have a problem with the tuxedo. | 173:Nous avons un problème avec le smoking. |
-| 3 | `lea` (Andréa) | L'actrice chinoise Gong Li en porte un pour la cérémonie d'ouverture. | The Chinese actress Gong Li is wearing one for the opening ceremony. | 174:L'actrice chinoise Gong Li,, 175:pour la cérémonie d'ouverture. |
-| 4 | `juliette` (Juliette) | Un Armani aussi? | An Armani too? | 176:Un Armani aussi ? |
-| 5 | `lea` (Andréa) | Non, un autre créateur. Mais c'est quand même un smoking. | No, another designer. But it is still a tuxedo. | 176:Non, un autre créateur., 177:Mais c'est quand même un smoking. |
-| 6 | `lea` (Andréa) | Deux femmes ne peuvent pas porter la même robe! | Two women cannot wear the same dress! | 178:On ne peut pas avoir deux femmes dans la même tenue en même temps. |
-| 7 | `juliette` (Juliette) | Mais tous les hommes peuvent s'habiller pareil! | But all the men can dress the same! | 179:Mais tous les hommes peuvent s'habiller pareil ! |
-| 8 | `juliette` (Juliette) | Je me sentais très bien dans ce smoking. | I felt very good in that tuxedo. | 182:Je me sentais très bien dans ce smoking. |
-| 9 | `lea` (Andréa) | Je vais appeler son agent et on en discutera. | I will call her agent and we will discuss it. | 184:Je vais appeler l'agent de Gong Li et on en discutera. |
-| 10 | `juliette` (Juliette) | Ça ne servira à rien. | That will be useless. | 185:Ça ne servira à rien. |
-| 11 | `lea` (Andréa) | Gong Li est l'icône de L'Oréal, le partenaire principal du festival. | Gong Li is the icon of L | 187:Gong Li est l'icône de L'Oréal en Chine., 188:Le partenaire principal du festival. |
-| 12 | `lea` (Andréa) | Mais nous avons une bonne nouvelle. Votre second choix a été réparé. | But we have good news. Your second choice has been repaired. | 190:Mais nous avons une bonne nouvelle., 191:Votre second choix a été réparé. |
-| 13 | `juliette` (Juliette) | Et j'ai besoin de chaussures à talons hauts. | And I need high-heeled shoes. | 192:Mais c'est toute une production, avec ça., 193:Et j'ai besoin de talons de quinze centimètres. |
-| 14 | `lea` (Andréa) | On pourrait organiser un nouvel essayage avec trois tenues. | We could arrange a new fitting with three outfits. | 194:On pourrait organiser un nouvel essayage avec Dune,, 195:avec seulement trois tenues. |
-| 15 | `juliette` (Juliette) | Non, je pense que ça ira très bien. | No, I think that will be very fine. | 197:Non, ça ira très bien., 198:Je pense que ça ira très bien. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. See you next time!
-- **Closing**: `lea`: *À demain!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Bienvenue à Cannes, Juliette. | Welcome to Cannes, Juliette. | #171: Bienvenue à Cannes. | verbatim |
+| 2 | Juliette | Bonjour Andréa, comment vas-tu? | Hello Andréa, how are you? | #170: Bonjour. | verbatim |
+| 3 | Andréa | Nous avons un problème avec le smoking. | We have a problem with the tuxedo. | #173: Nous avons un problème avec le smoking. | verbatim |
+| 4 | Andréa | L'actrice chinoise Gong Li en porte un pour la cérémonie d'ouverture. | The Chinese actress Gong Li is wearing one for the opening ceremony. | #174: L'actrice chinoise Gong Li,<br>#175: pour la cérémonie d'ouverture. | verbatim |
+| 5 | Juliette | Un Armani aussi? | An Armani too? | #176: Un Armani aussi ? | verbatim |
+| 6 | Andréa | Non, un autre créateur. Mais c'est quand même un smoking. | No, another designer. But it is still a tuxedo. | #176: Non, un autre créateur.<br>#177: Mais c'est quand même un smoking. | verbatim |
+| 7 | Andréa | Deux femmes ne peuvent pas porter la même robe! | Two women cannot wear the same dress! | #178: On ne peut pas avoir deux femmes dans la même tenue en même temps. | verbatim |
+| 8 | Juliette | Mais tous les hommes peuvent s'habiller pareil! | But all the men can dress the same! | #179: Mais tous les hommes peuvent s'habiller pareil ! | verbatim |
+| 9 | Juliette | Je me sentais très bien dans ce smoking. | I felt very good in that tuxedo. | #182: Je me sentais très bien dans ce smoking. | verbatim |
+| 10 | Andréa | Je vais appeler son agent et on en discutera. | I will call her agent and we will discuss it. | #184: Je vais appeler l'agent de Gong Li et on en discutera. | verbatim |
+| 11 | Juliette | Ça ne servira à rien. | That will be useless. | #185: Ça ne servira à rien. | verbatim |
+| 12 | Andréa | Gong Li est l'icône de L'Oréal, le partenaire principal du festival. | Gong Li is the icon of L | #187: Gong Li est l'icône de L'Oréal en Chine.<br>#188: Le partenaire principal du festival. | verbatim |
+| 13 | Andréa | Mais nous avons une bonne nouvelle. Votre second choix a été réparé. | But we have good news. Your second choice has been repaired. | #190: Mais nous avons une bonne nouvelle.<br>#191: Votre second choix a été réparé. | verbatim |
+| 14 | Juliette | Et j'ai besoin de chaussures à talons hauts. | And I need high-heeled shoes. | #192: Mais c'est toute une production, avec ça.<br>#193: Et j'ai besoin de talons de quinze centimètres. | verbatim |
+| 15 | Andréa | On pourrait organiser un nouvel essayage avec trois tenues. | We could arrange a new fitting with three outfits. | #194: On pourrait organiser un nouvel essayage avec Dune,<br>#195: avec seulement trois tenues. | verbatim |
+| 16 | Juliette | Non, je pense que ça ira très bien. | No, I think that will be very fine. | #197: Non, ça ira très bien.<br>#198: Je pense que ça ira très bien. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Welcome to Cannes, Juliette.' Andréa arrives at the hotel with an affectionate greeting. The key word here means 'welcome', paired with 'welcome' to make the point clear.
+- 'Hello Andréa, how are you?' Juliette welcomes her agent warmly. Listen for the expression meaning 'how', which leads naturally into 'are you doing'.
+- 'We have a problem with the tuxedo.' Andréa delivers the diplomatic wardrobe dilemma. The masculine noun 'tuxedo' refers specifically to a formal tuxedo or dinner jacket.
+- 'The Chinese actress Gong Li is wearing one for the opening ceremony.' Andréa explains the conflict. Andréa pairs the verb meaning 'is wearing' with the noun for 'opening'.
+- 'An Armani too?' Juliette checks the specific fashion house. Listen for the expression meaning 'too', which leads naturally into 'too'.
+- 'No, another designer. But it is still a tuxedo.' Andréa insists on the visual clash. The concessive locution 'still' underscores the visual redundancy on the red carpet.
+- 'Two women cannot wear the same dress!' Andréa states the red-carpet protocol. The adjective meaning 'same' agrees in gender and number with feminine noun 'women'.
+- 'But all the men can dress the same!' Juliette points out the unfair double standard. Listen for the expression meaning 'men', which leads naturally into 'the same'.
+- 'I felt very good in that tuxedo.' Juliette expresses her disappointment. The key word here means 'felt', paired with 'tuxedo' to make the point clear.
+- 'I will call her agent and we will discuss it.' Andréa offers to negotiate a resolution. The near future 'I' promises immediate intervention.
+- 'That will be useless.' Juliette realistically assesses the balance of power. The verb meaning 'will serve' anchors the whole remark.
+- 'Gong Li is the icon of L'Oreal, the main partner of the festival.' Andréa admits the corporate clout. The adjective meaning 'main' agrees in gender and number with feminine noun 'icon'.
+- 'But we have good news. Your second choice has been repaired.' Andréa presents an alternative. The passive structure 'a ete repare' uses the compound past helping verb.
+- 'And I need high-heeled shoes.' Juliette highlights the complexity. The expression 'a whole' denotes an elaborate and exhausting undertaking.
+- 'We could arrange a new fitting with three outfits.' Andréa proposes a quick styling session. The key word here means 'could', paired with 'outfits' to make the point clear.
+- 'No, I think that will be very fine.' Juliette decides to make the best of the backup gown. The colloquial future 'that' accepts the solution cheerfully.

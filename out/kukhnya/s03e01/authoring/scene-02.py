@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s03e01-scene-02.
 ID = 'kukhnya-s03e01-scene-02'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 2
-TITLE = "Оборудование для кухни  (Equipment for the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Оборудование для кухни  (Equipment for the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
-LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
-
 INTRO = 'Back in the kitchen of Claude Monet, celebrity owner Dmitry Nagiyev shows off shiny boxes of high-tech culinary equipment, while head chef Viktor Barinov stubbornly defends classic French cooking.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'That brings the kitchen clash to a close. Watch for Nagiyev unveiling the molecular cuisine gear and Barinov insisting that classic French food never goes out of style. See you next time!'
+CLOSING = ('barinov', 'Увидимся!')
 STORY = [
     ('nagiyev', 'Красота! Даже в коробках.', 'Beauty! Even in the boxes.', [(16, 'Красота даже в коробках')], 'adapted'),
-    ('chef', 'Дима, что это?', 'Dima, what is this?', [(17, 'Дима, что это')], ''),
+    ('barinov', 'Дима, что это?', 'Dima, what is this?', [(17, 'Дима, что это')], ''),
     ('nagiyev', 'Ты же хочешь быть модным.', "You want to be fashionable, don't you.", [(18, 'Ты же хочешь быть модным')], 'adapted'),
     ('nagiyev', 'Это оборудование для молекулярной кухни.', 'This is equipment for molecular cuisine.', [(19, 'Это оборудование для молекулярной кухни')], ''),
     ('nagiyev', 'Для молекулярной кухни. Ясно?', 'For molecular cuisine. Clear?', [(20, 'Для молекулярной кухни'), (21, 'Ясно')], 'adapted'),
     ('nagiyev', 'Кому я говорю о моде?', 'Who am I talking to about fashion?', [(22, 'кому я говорю о моде')], 'adapted'),
-    ('chef', 'Мы классический французский ресторан.', 'We are a classic French restaurant.', [(23, 'мы классический французский ресторан')], ''),
-    ('chef', 'А классика никогда не уходит из моды.', 'And classics never go out of fashion.', [(24, 'а классика никогда не уходит из моды')], ''),
-    ('chef', 'Эта кухня нам не нужна.', 'We do not need this cuisine.', [(25, 'нам не нужна')], 'adapted'),
+    ('barinov', 'Мы классический французский ресторан.', 'We are a classic French restaurant.', [(23, 'мы классический французский ресторан')], ''),
+    ('barinov', 'А классика никогда не уходит из моды.', 'And classics never go out of fashion.', [(24, 'а классика никогда не уходит из моды')], ''),
+    ('barinov', 'Эта кухня нам не нужна.', 'We do not need this cuisine.', [(25, 'нам не нужна')], 'adapted'),
     ('nagiyev', 'Устали люди есть одно и то же.', 'People are tired of eating the same thing.', [(27, 'Устали люди. Есть одно и то же')], 'adapted'),
     ('nagiyev', 'Сегодня же ищи человека.', 'Look for a person this very day.', [(28, 'сегодня же ищи человека')], 'adapted'),
-    ('chef', 'Да, моя курочка.', 'Yes, my little chicken.', [(31, 'Да, моя курочка')], ''),
+    ('barinov', 'Да, моя курочка.', 'Yes, my little chicken.', [(31, 'Да, моя курочка')], ''),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Beauty! Even in the boxes.' Notice how Russian expresses 'beauty' and 'boxes' with crisp inflection rather than helper words."),
-    (1, None, "'Dima, what is this?' Notice how Russian expresses 'Dima' and 'this' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away."),
-    (2, None, "'You want to be fashionable, don't you.' Here the Russian phrasing highlights 'you' before landing on 'fashionable'."),
-    (3, None, "'This is equipment for molecular cuisine.' Dmitry Nagiyev anchors the line on 'this', while 'kitchen' completes the thought."),
-    (4, None, "'For molecular cuisine. Clear?' Dmitry Nagiyev raises the pitch on 'clear' to turn the phrase into a direct spoken question."),
-    (5, None, "'Who am I talking to about fashion?' Dmitry Nagiyev brings out the contrast between 'to whom' and 'I' in a few short words."),
-    (6, None, "'We are a classic French restaurant.' In Russian, the idea of 'we' flows naturally into 'restaurant' without extra filler words."),
-    (7, None, "'And classics never go out of fashion.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'fashion'."),
-    (8, None, "'We do not need this cuisine.' Notice how Russian expresses 'this' and 'needed' with crisp inflection rather than helper words."),
-    (9, None, "'People are tired of eating the same thing.' The grammar packs 'got tired' and 'but' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'Look for a person this very day.' Dmitry Nagiyev brings out the contrast between 'tonight' and 'but' in a few short words. Chef Barinov answers right away."),
-    (11, None, "'Yes, my little chicken.' Chef Barinov anchors the line on 'yes', while 'little chicken' completes the thought."),
+    (0, None, "'Beauty! Even in the boxes.' With the room and moment at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (1, None, '\'Dima, what is this?\' Wondering what this is is how Barinov puts Nagiyev on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (2, None, "'You want to be fashionable, don't you.' Adding that Barinov wants to be fashionable do not Barinov fills in the missing piece for Barinov."),
+    (3, None, '\'This is equipment for molecular cuisine.\' Saying that this is equipment for molecular cuisine is how Nagiyev sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (4, None, '\'For molecular cuisine. Clear?\' With the situation and kitchen hanging in the air, Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (5, None, "'Who am I talking to about fashion?' With the situation and moment hanging in the air, Nagiyev puts Barinov on the spot."),
+    (6, None, "'We are a classic French restaurant.' Barinov reminds Nagiyev that they are a classic French restaurant before the moment passes."),
+    (7, None, '\'And classics never go out of fashion.\' Between the kitchen and the situation, Barinov gives Nagiyev a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
+    (8, None, "'We do not need this cuisine.' Explaining that they do not need this cuisine lays the cards on the table for Nagiyev."),
+    (9, None, "'People are tired of eating the same thing.' Nagiyev mentions that people are tired of eating the same thing so Barinov sees what is at stake."),
+    (10, None, "'Look for a person this very day.' With the truth and shift in play, Nagiyev keeps this short reply brisk and direct."),
+    (11, None, "'Yes, my little chicken.' Around the truth and moment, Barinov sets a calm, everyday tone with Nagiyev."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings the kitchen clash to a close. Watch for Nagiyev unveiling the molecular cuisine gear and Barinov insisting that classic French food never goes out of style. See you next time!'
-CLOSING = ("chef", "Увидимся!")

@@ -7,8 +7,7 @@ SCENE = 7
 TITLE = "Le pitch du Déserteur  (The Deserter's Story)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'maxime': 'theo'}
-LABELS = {'lea': 'Andréa', 'maxime': 'Maxime'}
+LABELS = {'andrea': 'Andréa', 'maxime': 'Maxime'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In her office, Andrea tries to soothe producer Maxime's impatience by pitching the artistic premise of Jean Dujardin's latest film. Describing the harrowing story of a wartime deserter, she prepares him to watch confidential footage. Let's listen to the scene in French first."
@@ -18,17 +17,17 @@ OUTRO = "That's it for this scene around the deserter's story. When you watch th
 CLOSING = ('maxime', 'Au revoir!')
 STORY = [
     ('maxime', 'Alors Andréa, parle-moi de ce fameux film.', 'So Andrea, tell me about this famous movie.', [], ''),
-    ('lea', "C'est l'histoire d'un brave soldat blessé.", 'It is the story of a brave wounded soldier.', [(157, "C'est l'histoire d'un soldat blessé")], ''),
-    ('lea', 'Ce pauvre homme déserte pendant la guerre.', 'This poor man deserts during the war.', [(157, 'qui a déserté pendant la guerre de 14')], ''),
+    ('andrea', "C'est l'histoire d'un brave soldat blessé.", 'It is the story of a brave wounded soldier.', [(157, "C'est l'histoire d'un soldat blessé")], ''),
+    ('andrea', 'Ce pauvre homme déserte pendant la guerre.', 'This poor man deserts during the war.', [(157, 'qui a déserté pendant la guerre de 14')], ''),
     ('maxime', "Pendant la Première Guerre mondiale, c'est ça?", 'During the First World War, is that it?', [(157, 'pendant la guerre de 14')], ''),
-    ('lea', 'Oui, pendant la terrible guerre de quatorze.', 'Yes, during the terrible war of nineteen fourteen.', [(157, 'guerre de 14')], ''),
-    ('lea', 'Il se cache seul dans une grande forêt.', 'He hides alone in a vast forest.', [(158, 'et qui se cache dans la forêt pendant des années')], ''),
+    ('andrea', 'Oui, pendant la terrible guerre de quatorze.', 'Yes, during the terrible war of nineteen fourteen.', [(157, 'guerre de 14')], ''),
+    ('andrea', 'Il se cache seul dans une grande forêt.', 'He hides alone in a vast forest.', [(158, 'et qui se cache dans la forêt pendant des années')], ''),
     ('maxime', 'Pourquoi se cache-t-il dans les bois sauvages?', 'Why is he hiding in the wild woods?', [(159, 'pour échapper à la peine de mort.')], ''),
-    ('lea', 'Il veut échapper à la peine de mort.', 'He wants to escape the death penalty.', [(159, 'pour échapper à la peine de mort.')], ''),
+    ('andrea', 'Il veut échapper à la peine de mort.', 'He wants to escape the death penalty.', [(159, 'pour échapper à la peine de mort.')], ''),
     ('maxime', "C'est une histoire tragique et très sombre.", 'It is a tragic and very dark story.', [(160, 'On connaît ça.')], ''),
-    ('lea', 'Jean Dujardin y joue avec une intensité folle.', 'Jean Dujardin acts with wild intensity in it.', [], ''),
+    ('andrea', 'Jean Dujardin y joue avec une intensité folle.', 'Jean Dujardin acts with wild intensity in it.', [], ''),
     ('maxime', 'Le public aime ce genre de drame historique.', 'The audience loves this genre of historical drama.', [], ''),
-    ('lea', "Regarde cet extrait vidéo sur mon écran d'ordinateur.", 'Watch this video excerpt on my computer screen.', [], ''),
+    ('andrea', "Regarde cet extrait vidéo sur mon écran d'ordinateur.", 'Watch this video excerpt on my computer screen.', [], ''),
     ('maxime', 'Montre-moi ces images secrètes du tournage.', 'Show me these secret shots from the film set.', [], ''),
 ]
 WALK = [

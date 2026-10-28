@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = 'Coupez!  (Cut!)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'arlette': 'Arlette', 'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Back at ASK in Paris, Mathias's bouquet of flowers has fared no better: he walks into Arlette's office to press her again about saving Jonathan Joubert's character on Happy Ever After, and even tries to intimidate her now that Samuel Kerr is dead. Listen to the French first; it's fine to catch just the main idea."
@@ -29,10 +28,10 @@ STORY = [
     ('arlette', "Je ne parle pas d'argent, je parle de dignité et de loyauté.", 'I', [(226, "Je ne parle pas d'argent, je parle de dignité et de loyauté")], ''),
     ('arlette', 'Marie-Sophie vaut mille fois cet idiot de Jonathan Joubert!', 'Marie-Sophie is worth a thousand of that idiot Jonathan Joubert!', [(229, 'vaut mille fois'), (229, 'de Jonathan Joubert')], ''),
     ('arlette', 'Alors votre Ryan, coupez!', 'So as for your Ryan, cut!', [(230, 'Alors votre Ryan'), (231, 'Coupez')], ''),
-    ('lea', 'Excusez-moi, il faut penser aux vrais fans de la série.', 'Excuse me, we have to think of the real fans of the series.', [(232, 'penser aux vrais fans de')], ''),
+    ('camille', 'Excusez-moi, il faut penser aux vrais fans de la série.', 'Excuse me, we have to think of the real fans of the series.', [(232, 'penser aux vrais fans de')], ''),
     ('mathias', 'Oui, Camille?', 'Yes, Camille?', [(234, 'Oui, Camille')], ''),
-    ('lea', 'Andréa voulait vous montrer quelque chose, mais pas maintenant.', 'Andréa wanted to show you something, but not now.', [(235, 'Andréa voulait vous montrer quelque chose, mais'), (235, 'pas maintenant')], ''),
-    ('lea', 'Je vais revenir plus tard.', 'I', [], ''),
+    ('camille', 'Andréa voulait vous montrer quelque chose, mais pas maintenant.', 'Andréa wanted to show you something, but not now.', [(235, 'Andréa voulait vous montrer quelque chose, mais'), (235, 'pas maintenant')], ''),
+    ('camille', 'Je vais revenir plus tard.', 'I', [], ''),
 ]
 WALK = [
     (0, None, "'Arlette, I want to talk to you about Jonathan Joubert.' Mathias and Arlette use the formal 'you' here."),

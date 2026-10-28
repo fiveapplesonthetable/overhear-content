@@ -7,8 +7,7 @@ SCENE = 3
 TITLE = 'Bon anniversaire, ma chérie!  (Happy Birthday, Darling!)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
-LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Today is Camille's twenty-third birthday. As she rides the metro and arrives at the ASK office, her family calls to wish her a happy birthday, receptionist Sofia prepares for her own small role opposite JoeyStarr, and Mathias hands Camille an envelope without realizing what day it is. Listen to the scene in French first; don't worry about catching every word."
@@ -21,11 +20,11 @@ STORY = [
     ('camille', "Arrête! J'ai du travail ici.", 'Stop it! I have work here.', [(44, 'Arrête'), (45, "J'ai du travail ici")], ''),
     ('camille', "J'essaierai de descendre un week-end bientôt.", 'I', [(48, "J'essaierai de descendre un week-end bientôt")], ''),
     ('camille', 'Maman, ça suffit!', 'Mum, that', [(50, 'Maman, ça suffit !')], ''),
-    ('mathias', 'Salut, Camille.', 'Hi, Camille.', [(51, 'Salut, Camille')], ''),
-    ('mathias', "J'ai une scène avec JoeyStarr, je dois vraiment me concentrer.", 'I have a scene with JoeyStarr, I really have to focus.', [(52, "J'ai une scène avec JoeyStarr, je dois vraiment me concentrer")], ''),
-    ('mathias', 'Tu veux un autographe?', 'Do you want an autograph?', [(53, 'Tu veux un autographe ?')], ''),
+    ('sofia', 'Salut, Camille.', 'Hi, Camille.', [(51, 'Salut, Camille')], ''),
+    ('sofia', "J'ai une scène avec JoeyStarr, je dois vraiment me concentrer.", 'I have a scene with JoeyStarr, I really have to focus.', [(52, "J'ai une scène avec JoeyStarr, je dois vraiment me concentrer")], ''),
+    ('sofia', 'Tu veux un autographe?', 'Do you want an autograph?', [(53, 'Tu veux un autographe ?')], ''),
     ('camille', 'Le tien?', 'Yours?', [(53, 'Le tien ?')], ''),
-    ('mathias', 'Non, celui de JoeyStarr.', 'No, JoeyStarr', [(54, 'Non, celui de JoeyStarr')], ''),
+    ('sofia', 'Non, celui de JoeyStarr.', 'No, JoeyStarr', [(54, 'Non, celui de JoeyStarr')], ''),
     ('camille', 'Oui, bien sûr. À plus!', 'Yes, of course. See you later!', [(54, 'bien sûr'), (55, 'à plus')], ''),
     ('camille', "Merci, Mamie. C'est vraiment une belle attention.", 'Thank you, Gran. That', [(56, "Merci, mamie. C'est vraiment une belle attention")], ''),
     ('mathias', 'Camille, tu as un moment?', 'Camille, do you have a moment?', [(58, 'Camille'), (58, 'un moment')], ''),

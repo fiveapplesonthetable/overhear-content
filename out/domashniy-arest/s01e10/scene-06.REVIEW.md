@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Начальник | Вы совсем не умеете работать! | You do not know how to work at all! | #186 00:10:45: Потому что вы мышей не ловите | adapted: idiom softened to standard A1 |
-| 2 | Начальник | Скоро вас обоих просто уволят. | Soon both of you will simply be fired. | #188 00:10:49: Вот вас снимут | verbatim |
-| 3 | Лёва | Я могу быстро найти эти деньги. | I can quickly find that money. | #190 00:10:53: А я быстро эти бабки вытащу | verbatim |
-| 4 | Начальник | И как же ты их найдёшь? | And how exactly will you find it? | #191 00:10:55: Да ты что, и как же | verbatim |
-| 5 | Лёва | С помощью силы и угроз! | With the help of force and threats! | #192 00:10:57: Силовыми методами<br>#194 00:11:01: угрозы | verbatim |
-| 6 | Начальник | Соколов, тебе детского сада мало? | Sokolov, wasn't the kindergarten enough for you? | #195 00:11:05: Соколов, тебе детского сада мало | verbatim |
-| 7 | Начальник | Ты находишься в моём подчинении. | You are under my command. | #197 00:11:10: Ты находишься в прямом моем подчинении | verbatim |
-| 8 | Начальник | Ноги со стола быстро убери! | Take your feet off the table quickly! | #199 00:11:13: ноги убрал | verbatim |
-| 9 | Начальник | Ты сейчас идёшь на задание. | You are going on an assignment now. | #200 00:11:18: сейчас идешь | verbatim |
-| 10 | Начальник | Установи наблюдение за домом Аникеева. | Set up surveillance on Anikeyev's house. | #200 00:11:18: устанавливаешь наблюдение<br>#201 00:11:23: За бывшим домом Аникиева | verbatim |
-| 11 | Лёва | Вы что, просто сливаете меня? | Are you just throwing me under the bus? | #205 00:11:28: Вы что, меня сливаете | verbatim |
-| 12 | Начальник | Да, но приказы не обсуждаются! | Yes, but orders are not discussed! | #206 00:11:29: Да<br>#207 00:11:30: Но приказы не обсуждаются | verbatim |
-| 13 | Лёва | Ладно, я всё понял. | Fine, I understood everything. | #208 00:11:33: Ладно | verbatim |
-| 14 | Начальник | Не ладно, а так точно! | Not fine, but yes sir! | #209 00:11:34: Не ладно, а есть | adapted: military response |
+| 1 | Начальник | Вы совсем не умеете работать! | You do not know how to work at all! | #186: Потому что вы мышей не ловите | adapted: idiom softened to standard A1 |
+| 2 | Начальник | Скоро вас обоих просто уволят. | Soon both of you will simply be fired. | #188: Вот вас снимут | verbatim |
+| 3 | Лёва | Я могу быстро найти эти деньги. | I can quickly find that money. | #190: А я быстро эти бабки вытащу | verbatim |
+| 4 | Начальник | И как же ты их найдёшь? | And how exactly will you find it? | #191: Да ты что, и как же | verbatim |
+| 5 | Лёва | С помощью силы и угроз! | With the help of force and threats! | #192: Силовыми методами<br>#194: угрозы | verbatim |
+| 6 | Начальник | Соколов, тебе детского сада мало? | Sokolov, wasn't the kindergarten enough for you? | #195: Соколов, тебе детского сада мало | verbatim |
+| 7 | Начальник | Ты находишься в моём подчинении. | You are under my command. | #197: Ты находишься в прямом моем подчинении | verbatim |
+| 8 | Начальник | Ноги со стола быстро убери! | Take your feet off the table quickly! | #199: ноги убрал | verbatim |
+| 9 | Начальник | Ты сейчас идёшь на задание. | You are going on an assignment now. | #200: сейчас идешь | verbatim |
+| 10 | Начальник | Установи наблюдение за домом Аникеева. | Set up surveillance on Anikeyev's house. | #200: устанавливаешь наблюдение<br>#201: За бывшим домом Аникиева | verbatim |
+| 11 | Лёва | Вы что, просто сливаете меня? | Are you just throwing me under the bus? | #205: Вы что, меня сливаете | verbatim |
+| 12 | Начальник | Да, но приказы не обсуждаются! | Yes, but orders are not discussed! | #206: Да<br>#207: Но приказы не обсуждаются | verbatim |
+| 13 | Лёва | Ладно, я всё понял. | Fine, I understood everything. | #208: Ладно | verbatim |
+| 14 | Начальник | Не ладно, а так точно! | Not fine, but yes sir! | #209: Не ладно, а есть | adapted: military response |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

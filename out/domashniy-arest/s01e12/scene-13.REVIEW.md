@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Нина, меня на самом деле никто не грабил. | Nina, in fact nobody robbed me. | #214 00:22:03: Никто меня, короче, не грабил | verbatim |
-| 2 | Нина | А почему ты сразу ничего не сказал? | And why did you say nothing to me right away? | #215 00:22:07: А что ты мне сразу ничего не сказал | verbatim |
-| 3 | Самсон | Я очень сильно боялся, что ты уйдёшь. | I was very much afraid that you would leave. | #216 00:22:12: Боялся, что ты уйдёшь | verbatim |
-| 4 | Нина | Зачем ты скрывал правду от своей жены? | Why did you hide the truth from your wife? | #215 00:22:07: А что ты мне сразу ничего не сказал | verbatim |
-| 5 | Самсон | Мне было очень стыдно перед тобой, Нина. | I felt very ashamed in front of you, Nina. | #217 00:22:13: Хотя надо было сказать | verbatim |
-| 6 | Нина | Да никуда бы я от тебя не ушла! | I would never have walked away from you anywhere! | #220 00:22:23: Да никуда бы я от тебя не ушла | verbatim |
-| 7 | Самсон | Ты правда останешься со мной после этого? | Will you truly stay with me after this? | #220 00:22:23: Да никуда бы я от тебя не ушла | verbatim |
-| 8 | Нина | Мы столько лет живём вместе в коммуналке. | We have lived together in the communal flat for so many years. | #220 00:22:23: Да никуда бы я от тебя не ушла | verbatim |
-| 9 | Самсон | Я обещаю вернуть все потерянные деньги обратно. | I promise to return all the lost money back. | #220 00:22:23: Да никуда бы я от тебя не ушла | verbatim |
-| 10 | Нина | Главное, чтобы ты всегда говорил мне правду. | The main thing is that you always tell me the truth. | #215 00:22:07: А что ты мне сразу ничего не сказал | verbatim |
-| 11 | Самсон | Спасибо тебе большое за прощение и любовь. | Thank you very much for your forgiveness and love. | #220 00:22:23: Да никуда бы я от тебя не ушла | verbatim |
-| 12 | Нина | Пойдём пить чай, мы со всем справимся. | Let's go drink tea, we will handle everything. | #220 00:22:23: Да никуда бы я от тебя не ушла | verbatim |
+| 1 | Самсон | Нина, меня на самом деле никто не грабил. | Nina, in fact nobody robbed me. | #214: Никто меня, короче, не грабил | verbatim |
+| 2 | Нина | А почему ты сразу ничего не сказал? | And why did you say nothing to me right away? | #215: А что ты мне сразу ничего не сказал | verbatim |
+| 3 | Самсон | Я очень сильно боялся, что ты уйдёшь. | I was very much afraid that you would leave. | #216: Боялся, что ты уйдёшь | verbatim |
+| 4 | Нина | Зачем ты скрывал правду от своей жены? | Why did you hide the truth from your wife? | #215: А что ты мне сразу ничего не сказал | verbatim |
+| 5 | Самсон | Мне было очень стыдно перед тобой, Нина. | I felt very ashamed in front of you, Nina. | #217: Хотя надо было сказать | verbatim |
+| 6 | Нина | Да никуда бы я от тебя не ушла! | I would never have walked away from you anywhere! | #220: Да никуда бы я от тебя не ушла | verbatim |
+| 7 | Самсон | Ты правда останешься со мной после этого? | Will you truly stay with me after this? | #220: Да никуда бы я от тебя не ушла | verbatim |
+| 8 | Нина | Мы столько лет живём вместе в коммуналке. | We have lived together in the communal flat for so many years. | #220: Да никуда бы я от тебя не ушла | verbatim |
+| 9 | Самсон | Я обещаю вернуть все потерянные деньги обратно. | I promise to return all the lost money back. | #220: Да никуда бы я от тебя не ушла | verbatim |
+| 10 | Нина | Главное, чтобы ты всегда говорил мне правду. | The main thing is that you always tell me the truth. | #215: А что ты мне сразу ничего не сказал | verbatim |
+| 11 | Самсон | Спасибо тебе большое за прощение и любовь. | Thank you very much for your forgiveness and love. | #220: Да никуда бы я от тебя не ушла | verbatim |
+| 12 | Нина | Пойдём пить чай, мы со всем справимся. | Let's go drink tea, we will handle everything. | #220: Да никуда бы я от тебя не ушла | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

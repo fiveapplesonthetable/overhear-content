@@ -7,8 +7,7 @@ SCENE = 25
 TITLE = 'Éteindre les lumières  (Turning Off the Lights)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the empty offices of ASK after the farewell gathering, Andrea and Gabriel linger alone in the quiet hallways. Looking around at the dark desks and deserted corridors, they share a poignant moment before Gabriel turns off the agency lights forever. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Standing in the quiet darkness of ASK, Andrea and Gabriel share a final nostalgic moment together before turning off the office lights and walking away. When you watch the episode, listen out for the expressions meaning 'world' and 'left'. You'll catch them now. See you next time!"
 CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
-    ('lea', 'Tout le monde est parti maintenant.', 'Everyone has left now.', [], ''),
+    ('andrea', 'Tout le monde est parti maintenant.', 'Everyone has left now.', [], ''),
     ('gabriel', 'Oui, le bureau est enfin vide.', 'Yes, the office is finally empty.', [], ''),
-    ('lea', 'Regarde toutes ces chaises vides.', 'Look at all these empty chairs.', [], ''),
+    ('andrea', 'Regarde toutes ces chaises vides.', 'Look at all these empty chairs.', [], ''),
     ('gabriel', "C'est étrange sans tout ce bruit.", 'It is strange without all this noise.', [], ''),
-    ('lea', 'Nous avons vécu des moments formidables.', 'We experienced wonderful moments.', [], ''),
+    ('andrea', 'Nous avons vécu des moments formidables.', 'We experienced wonderful moments.', [], ''),
     ('gabriel', 'Dix ans de travail ensemble.', 'Ten years of work together.', [], ''),
-    ('lea', "Je n'oublierai jamais cette aventure.", 'I will never forget this adventure.', [], ''),
+    ('andrea', "Je n'oublierai jamais cette aventure.", 'I will never forget this adventure.', [], ''),
     ('gabriel', 'Moi non plus, chère Andréa.', 'Me neither, dear Andrea.', [], ''),
-    ('lea', 'Tu es prêt à partir maintenant?', 'Are you ready to leave now?', [], ''),
+    ('andrea', 'Tu es prêt à partir maintenant?', 'Are you ready to leave now?', [], ''),
     ('gabriel', 'Oui, prenons nos manteaux.', 'Yes, let us take our coats.', [], ''),
-    ('lea', 'Attends! Les lumières!', 'Wait! The lights!', [(1040, 'Attends ! Les lumières')], ''),
+    ('andrea', 'Attends! Les lumières!', 'Wait! The lights!', [(1040, 'Attends ! Les lumières')], ''),
     ('gabriel', "Ah oui, j'allais oublier.", 'Oh yes, I was going to forget.', [(1040, 'lumières')], ''),
-    ('lea', 'Éteins le grand couloir.', 'Turn off the big hallway.', [(1040, 'lumières')], ''),
+    ('andrea', 'Éteins le grand couloir.', 'Turn off the big hallway.', [(1040, 'lumières')], ''),
     ('gabriel', 'Voilà, tout est sombre maintenant.', 'There, everything is dark now.', [(1040, 'lumières')], ''),
 ]
 WALK = [

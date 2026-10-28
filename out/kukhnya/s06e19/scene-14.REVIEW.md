@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ребята, вы мне все нужны! | Guys, I need all of you! | #211 00:15:21: Ребята, вы мне все нужны | adapted: adapted |
-| 2 | Шеф | Все быстро бегом на кухню! | Everyone run quickly to the kitchen! | #212 00:15:25: Быстро на кухню | adapted: adapted |
-| 3 | Сеня | Шеф, продуктов тут очень мало. | Chef, there are very few groceries here. | #215 00:15:39: Шеф, ну, продуктов очень мало | adapted: adapted |
-| 4 | Шеф | Спокойно, только без всякой паники. | Easy now, just without any panic. | #216 00:15:43: Без паники | adapted: adapted |
-| 5 | Сеня | Не успел вчера всё забрать. | I did not manage to take everything yesterday. | #218 00:15:53: не успел все забрать | adapted: adapted |
-| 6 | Сеня | Меня слишком быстро отсюда уволили. | They fired me from here too quickly. | #219 00:15:58: Уволили | adapted: adapted |
-| 7 | Шеф | Давайте, ребята, быстро за работу! | Come on, guys, get to work quickly! | #221 00:16:15: мы поработаем | adapted: adapted |
-| 8 | Шеф | Другого места для разговора нет? | Is there no other place for a talk? | #222 00:16:25: Другого места для разговора не нашел | adapted: adapted |
-| 9 | Шеф | Света, пожалуйста, ты сотрёшь видео. | Sveta, please, you will delete the video. | #223 00:16:30: Света, я тебя прошу<br>#224 00:16:34: ты сотрешь это видео | adapted: adapted |
-| 10 | Шеф | Никому его не будешь отправлять. | You will not send it to anyone. | #224 00:16:34: и никому его не будешь отправлять | adapted: adapted |
-| 11 | Сеня | Ты прямо переговорщик от бога. | You are a born negotiator. | #225 00:16:39: переговорщик от бога | adapted: adapted |
-| 12 | Шеф | Придётся отобрать у тебя телефон. | I will have to take the phone away from you. | #227 00:16:46: придется отобрать у тебя телефон | adapted: adapted |
+| 1 | Шеф | Ребята, вы мне все нужны! | Guys, I need all of you! | #211: Ребята, вы мне все нужны | adapted: adapted |
+| 2 | Шеф | Все быстро бегом на кухню! | Everyone run quickly to the kitchen! | #212: Быстро на кухню | adapted: adapted |
+| 3 | Сеня | Шеф, продуктов тут очень мало. | Chef, there are very few groceries here. | #215: Шеф, ну, продуктов очень мало | adapted: adapted |
+| 4 | Шеф | Спокойно, только без всякой паники. | Easy now, just without any panic. | #216: Без паники | adapted: adapted |
+| 5 | Сеня | Не успел вчера всё забрать. | I did not manage to take everything yesterday. | #218: не успел все забрать | adapted: adapted |
+| 6 | Сеня | Меня слишком быстро отсюда уволили. | They fired me from here too quickly. | #219: Уволили | adapted: adapted |
+| 7 | Шеф | Давайте, ребята, быстро за работу! | Come on, guys, get to work quickly! | #221: мы поработаем | adapted: adapted |
+| 8 | Денис | Другого места для разговора нет? | Is there no other place for a talk? | #222: Другого места для разговора не нашел | adapted: adapted |
+| 9 | Денис | Света, пожалуйста, ты сотрёшь видео. | Sveta, please, you will delete the video. | #223: Света, я тебя прошу<br>#224: ты сотрешь это видео | adapted: adapted |
+| 10 | Денис | Никому его не будешь отправлять. | You will not send it to anyone. | #224: и никому его не будешь отправлять | adapted: adapted |
+| 11 | Сеня | Ты прямо переговорщик от бога. | You are a born negotiator. | #225: переговорщик от бога | adapted: adapted |
+| 12 | Денис | Придётся отобрать у тебя телефон. | I will have to take the phone away from you. | #227: придется отобрать у тебя телефон | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, I need all of you!' The meaning hinges on 'guys' working together with 'needed' in spoken Russian.
-- 'Everyone run quickly to the kitchen!' The meaning hinges on 'all' working together with 'kitchen' in spoken Russian. Senya answers right away.
-- 'Chef, there are very few groceries here.' In Russian, the idea of 'Chef Barinov' flows naturally into 'little' without extra filler words.
-- 'Easy now, just without any panic.' Spoken Russian keeps this brisk, leaning on 'calmly' and finishing on 'panic'.
-- 'I did not manage to take everything yesterday.' The grammar packs 'not' and 'to take away' into a tight, idiomatic kitchen exchange.
-- 'They fired me from here too quickly.' Senya anchors the line on 'me', while 'to fire' completes the thought.
-- 'Come on, guys, get to work quickly!' The grammar packs 'let's' and 'work' into a tight, idiomatic kitchen exchange.
-- 'Is there no other place for a talk?' Notice how Russian expresses 'other' and 'no' with crisp inflection rather than helper words.
-- 'Sveta, please, you will delete the video.' Here the Russian phrasing highlights 'Sveta' before landing on 'video'.
-- 'You will not send it to anyone.' The meaning hinges on 'anyone' working together with 'to send' in spoken Russian.
-- 'You are a born negotiator.' Senya addresses the listener with the informal singular 'you' alongside 'God'. Denis answers right away.
-- 'I will have to take the phone away from you.' Denis brings out the contrast between 'it will be necessary' and 'to take away' in a few short words.
+- 'Guys, I need all of you!' Once he needs all of Denis, Barinov makes sure Denis hears every word. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Everyone run quickly to the kitchen!' Over the team and the work, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Chef, there are very few groceries here.' Realizing that there are very few groceries here changes how Senya handles the situation.
+- 'Easy now, just without any panic.' Between the team and the shift, Barinov gives Denis a quick, grounded response.
+- 'I did not manage to take everything yesterday.' Even though he did not manage to take everything yesterday, Senya keeps a steady face in front of Barinov.
+- 'They fired me from here too quickly.' Around the team and work, Senya sets a calm, everyday tone with Barinov.
+- 'Come on, guys, get to work quickly!' Coming on guys get to work quickly shows Barinov is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Is there no other place for a talk?' By asking whether there no other place for a talk, Denis presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Sveta, please, you will delete the video.' Adding that Barinov will delete the video fills in the missing piece for Barinov.
+- 'You will not send it to anyone.' Saying that Barinov will not send it to anyone is how Denis sets the tone with Barinov.
+- 'You are a born negotiator.' Since Barinov is a born negotiator, Senya does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I will have to take the phone away from you.' Mentioning that he will have to take the phone away from Barinov moves the talk in a new direction.

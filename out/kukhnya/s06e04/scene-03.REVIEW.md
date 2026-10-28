@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Нет, мы договаривались именно на сегодня. | No, we agreed specifically on today. | #38 00:03:18: мы договаривались именно на сегодня | adapted: adapted |
-| 2 | Лёва | Гуля, да не съест она тебя. | Gulya, she is not going to eat you up. | #39 00:03:22: да не съест она тебя | adapted: adapted |
-| 3 | Лёва | Да, до встречи. | Yes, see you soon. | #40 00:03:25: Да. До встречи | adapted: exact |
-| 4 | Лёва | Я тоже тебя очень люблю. | I love you very much too. | #41 00:03:29: Да, и я тебя | adapted: adapted |
-| 5 | Лёва | Все, пока, жду тебя. | Alright, bye, I am waiting for you. | #43 00:03:36: Все, пока | adapted: adapted |
-| 6 | Гость | О, доброе утро! | Oh, good morning! | #44 00:03:39: О, доброе утро | adapted: exact |
-| 7 | Гость | Проснулся наконец, сынок. | You finally woke up, son. | #45 00:03:41: Проснулся наконец | adapted: adapted |
-| 8 | Гость | Хоть у тебя и выходной, мог бы маме помочь. | Even though you have a day off, you could have helped your mom. | #46 00:03:42: Хоть у тебя и выходной мог бы маме помочь | adapted: exact |
-| 9 | Гость | Я уже все полы вымыла. | I have already washed all the floors. | #47 00:03:45: Я уже все полы вымыла | adapted: exact |
-| 10 | Лёва | Ну и зачем, мама? | Well and why did you do that, Mom? | #48 00:03:47: Ну и зачем, мам? | adapted: adapted |
-| 11 | Лёва | Я бы потом все сам сделал. | I would have done everything myself later. | #49 00:03:48: Я бы потом все сам сделал | adapted: exact |
-| 12 | Гость | Да, у тебя все потом. | Yes, with you everything is later. | #50 00:03:50: Да, у тебя все потом | adapted: exact |
+| 1 | Лёва | Нет, мы договаривались именно на сегодня. | No, we agreed specifically on today. | #38: мы договаривались именно на сегодня | adapted: adapted |
+| 2 | Лёва | Гуля, да не съест она тебя. | Gulya, she is not going to eat you up. | #39: да не съест она тебя | adapted: adapted |
+| 3 | Лёва | Да, до встречи. | Yes, see you soon. | #40: Да. До встречи | adapted: exact |
+| 4 | Лёва | Я тоже тебя очень люблю. | I love you very much too. | #41: Да, и я тебя | adapted: adapted |
+| 5 | Лёва | Все, пока, жду тебя. | Alright, bye, I am waiting for you. | #43: Все, пока | adapted: adapted |
+| 6 | Гость | О, доброе утро! | Oh, good morning! | #44: О, доброе утро | adapted: exact |
+| 7 | Гость | Проснулся наконец, сынок. | You finally woke up, son. | #45: Проснулся наконец | adapted: adapted |
+| 8 | Гость | Хоть у тебя и выходной, мог бы маме помочь. | Even though you have a day off, you could have helped your mom. | #46: Хоть у тебя и выходной мог бы маме помочь | adapted: exact |
+| 9 | Гость | Я уже все полы вымыла. | I have already washed all the floors. | #47: Я уже все полы вымыла | adapted: exact |
+| 10 | Лёва | Ну и зачем, мама? | Well and why did you do that, Mom? | #48: Ну и зачем, мам? | adapted: adapted |
+| 11 | Лёва | Я бы потом все сам сделал. | I would have done everything myself later. | #49: Я бы потом все сам сделал | adapted: exact |
+| 12 | Гость | Да, у тебя все потом. | Yes, with you everything is later. | #50: Да, у тебя все потом | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, we agreed specifically on today.' In everyday Russian, 'agree' flows straight into 'tonight' without extra linking words.
-- 'Gulya, she is not going to eat you up.' Lyova brings out the contrast between 'Gulya' and 'yes' in a few short words.
-- 'Yes, see you soon.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'meeting'.
-- 'I love you very much too.' Notice how Russian expresses 'I' and 'like' with crisp inflection rather than helper words.
-- 'Alright, bye, I am waiting for you.' Here the Russian phrasing highlights 'all' before landing on 'you'.
-- 'Oh, good morning!' the guest brings out the contrast between 'about' and 'good' in a few short words.
-- 'You finally woke up, son.' Notice how Russian puts 'woke up' and 'son' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Even though you have a day off, you could have helped your mom.' the guest brings out the contrast between 'at least' and 'at' in a few short words.
-- 'I have already washed all the floors.' In Russian, the idea of 'I' flows naturally into 'washed' without extra filler words.
-- 'Well and why did you do that, Mom?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'mom'.
-- 'I would have done everything myself later.' Lyova anchors the line on 'I', while 'made' completes the thought.
-- 'Yes, with you everything is later.' the guest brings out the contrast between 'yes' and 'at' in a few short words.
+- 'No, we agreed specifically on today.' Over the work and the visit, Lyova answers the guest without a second thought.
+- 'Gulya, she is not going to eat you up.' Since she is not going to eat the guest up, Lyova does not waste words on excuses.
+- 'Yes, see you soon.' Here seeing the guest soon sets up the next turn in their exchange.
+- 'I love you very much too.' Saying that he loves the guest very much is how Lyova sets the tone with the guest. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Alright, bye, I am waiting for you.' Because Alright bye he is waiting for the guest, Lyova treats the matter as settled.
+- 'Oh, good morning!' Around the shift and conversation, the guest makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'You finally woke up, son.' The guest mentions that Lyova finally woke up son so Lyova sees what is at stake.
+- 'Even though you have a day off, you could have helped your mom.' Claiming that even though Lyova has a day off Lyova could have helped sounds confident, even if Lyova has doubts.
+- 'I have already washed all the floors.' The guest mentions that he has already washed all the floors so Lyova sees what is at stake.
+- 'Well and why did you do that, Mom?' By wondering why the guest does that Mom, Lyova presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I would have done everything myself later.' Realizing that he would have done everything himself later changes how Lyova handles the situation.
+- 'Yes, with you everything is later.' Noting that with Lyova everything is later keeps the guest's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.

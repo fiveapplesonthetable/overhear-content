@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Инспектор | Виктор Петрович, почему это вы пьёте в рабочее время? | Viktor Petrovich, why are you drinking during work hours? | #192 00:13:10: Почему это вы пьете в рабочее время | adapted: adapted |
-| 2 | Шеф | А я праздную ваше скорое увольнение, Сергей Владимирович! | I am celebrating your imminent resignation, Sergey Vladimirovich! | #193 00:13:14: А я праздную ваше увольнение, Сергей Владимирович | adapted: adapted |
-| 3 | Инспектор | Интересно, с какой это стати я должен уволиться? | Interesting, why on earth should I resign? | #194 00:13:21: стати я должен уволиться | adapted: adapted |
-| 4 | Шеф | А вот именно из-за этой красивой вещички! | Because of this pretty little thing right here! | #195 00:13:24: А вот из-за этого | adapted: adapted |
-| 5 | Шеф | Посмотри внимательно на неё, ты её узнаёшь? | Look closely at it, do you recognize it? | #196 00:13:28: Узнаешь | adapted: adapted |
-| 6 | Аня | Ой, неужели я вчера случайно её потеряла? | Oh, did I really lose it by accident yesterday? | #197 00:13:30: Неужели я ее потеряла | adapted: adapted |
-| 7 | Инспектор | Не вижу логики, почему я должен уволиться из-за серёжки? | I see no logic, why should I resign because of an earring? | #198 00:13:33: Не вижу логики. Почему я должен уволиться из-за этой сережки | adapted: adapted |
-| 8 | Шеф | А ты знаешь, где именно я её вчера нашёл? | And do you know where exactly I found it yesterday? | #199 00:13:37: А ты знаешь, где я ее нашел | adapted: adapted |
-| 9 | Шеф | Я нашёл её на полу, когда уронил пробку у тебя! | I found it on the floor when I dropped the cork at your place! | #200 00:13:40: Сергей, нам надо прояснить ситуацию<br>#202 00:13:48: Виноват | adapted: adapted |
-| 10 | Инспектор | Вы обнаружили её в моём номере, это ничего не значит. | You found it in my room, and that means nothing. | #203 00:13:55: вы обнаружили ее в моем номере | adapted: adapted |
-| 11 | Шеф | А я знал, что ты так скажешь, поэтому пришёл снова! | And I knew you would say that, which is why I came a second time! | #204 00:14:00: А я знал, что ты так скажешь, поэтому и пришел к тебе | adapted: adapted |
-| 12 | Шеф | Именно поэтому я тогда и спросил, где у вас туалет! | That is precisely why I asked where your restroom was back then! | #205 00:14:05: Где у вас туалет | adapted: adapted |
+| 1 | Инспектор | Виктор Петрович, почему это вы пьёте в рабочее время? | Viktor Petrovich, why are you drinking during work hours? | #192: Почему это вы пьете в рабочее время | adapted: adapted |
+| 2 | Шеф | А я праздную ваше скорое увольнение, Сергей Владимирович! | I am celebrating your imminent resignation, Sergey Vladimirovich! | #193: А я праздную ваше увольнение, Сергей Владимирович | adapted: adapted |
+| 3 | Инспектор | Интересно, с какой это стати я должен уволиться? | Interesting, why on earth should I resign? | #194: стати я должен уволиться | adapted: adapted |
+| 4 | Шеф | А вот именно из-за этой красивой вещички! | Because of this pretty little thing right here! | #195: А вот из-за этого | adapted: adapted |
+| 5 | Шеф | Посмотри внимательно на неё, ты её узнаёшь? | Look closely at it, do you recognize it? | #196: Узнаешь | adapted: adapted |
+| 6 | Макс | Ой, неужели я вчера случайно её потеряла? | Oh, did I really lose it by accident yesterday? | #197: Неужели я ее потеряла | adapted: adapted |
+| 7 | Инспектор | Не вижу логики, почему я должен уволиться из-за серёжки? | I see no logic, why should I resign because of an earring? | #198: Не вижу логики. Почему я должен уволиться из-за этой сережки | adapted: adapted |
+| 8 | Шеф | А ты знаешь, где именно я её вчера нашёл? | And do you know where exactly I found it yesterday? | #199: А ты знаешь, где я ее нашел | adapted: adapted |
+| 9 | Шеф | Я нашёл её на полу, когда уронил пробку у тебя! | I found it on the floor when I dropped the cork at your place! | #200: Сергей, нам надо прояснить ситуацию<br>#202: Виноват | adapted: adapted |
+| 10 | Инспектор | Вы обнаружили её в моём номере, это ничего не значит. | You found it in my room, and that means nothing. | #203: вы обнаружили ее в моем номере | adapted: adapted |
+| 11 | Шеф | А я знал, что ты так скажешь, поэтому пришёл снова! | And I knew you would say that, which is why I came a second time! | #204: А я знал, что ты так скажешь, поэтому и пришел к тебе | adapted: adapted |
+| 12 | Шеф | Именно поэтому я тогда и спросил, где у вас туалет! | That is precisely why I asked where your restroom was back then! | #205: Где у вас туалет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, why are you drinking during work hours?' Spoken Russian keeps this brisk, leaning on 'why' and finishing on 'time'.
-- 'I am celebrating your imminent resignation, Sergey Vladimirovich!' In Russian, the idea of 'and' flows naturally into 'Vladimirovich' without extra filler words. the inspector answers right away.
-- 'Interesting, why on earth should I resign?' Spoken Russian keeps this brisk, leaning on 'interesting' and finishing on 'to resign'.
-- 'Because of this pretty little thing right here!' Notice how Russian expresses 'and' and 'little thing' with crisp inflection rather than helper words.
-- 'Look closely at it, do you recognize it?' Spoken Russian keeps this brisk, leaning on 'look' and finishing on 'you recognize'. Max answers right away.
-- 'Oh, did I really lose it by accident yesterday?' In Russian, the idea of 'oh' flows naturally into 'lost' without extra filler words.
-- 'I see no logic, why should I resign because of an earring?' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'earring'.
-- 'And do you know where exactly I found it yesterday?' Chef Barinov raises the pitch on 'to find' to turn the phrase into a direct spoken question.
-- 'I found it on the floor when I dropped the cork at your place!' Chef Barinov anchors the line on 'I', while 'you' completes the thought.
-- 'You found it in my room, and that means nothing.' the inspector pairs 'to discover, detect, find' with 'then, so' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'And I knew you would say that, which is why I came a second time!' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'again'.
-- 'That is precisely why I asked where your restroom was back then!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Viktor Petrovich, why are you drinking during work hours?' Here wondering why Barinov drinking during work hours is shows the inspector looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I am celebrating your imminent resignation, Sergey Vladimirovich!' By being celebrating the inspector's imminent resignation Sergey Vladimirovich, Barinov raises the stakes in the room at once. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Interesting, why on earth should I resign?' Asking whether interesting why on earth should he resign puts Barinov right on the defensive.
+- 'Because of this pretty little thing right here!' Over the work and the hotel, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Look closely at it, do you recognize it?' Questioning whether closely at it do the inspector recognizes it is how Barinov tests the inspector's story. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Oh, did I really lose it by accident yesterday?' By checking whether he really loses it by accident yesterday, Max presses Barinov for a straight answer.
+- 'I see no logic, why should I resign because of an earring?' Seeing no logic why should he resign because of an earring cuts straight through the tension between the inspector and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And do you know where exactly I found it yesterday?' Checking whether the inspector knows where exactly he found it yesterday is how Barinov puts the inspector on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I found it on the floor when I dropped the cork at your place!' Declaring that he found it on the floor when he dropped the cork at the inspector's place brings Barinov's temper right to the surface.
+- 'You found it in my room, and that means nothing.' Once Barinov found it in his room and that means nothing, the inspector can finally tell Barinov what he means. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'And I knew you would say that, which is why I came a second time!' Saying that he knew the inspector would say that which is why he came a second time is how Barinov takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'That is precisely why I asked where your restroom was back then!' Barinov declares that that is precisely why he asked where the inspector's restroom was back then as the tension in the room peaks.

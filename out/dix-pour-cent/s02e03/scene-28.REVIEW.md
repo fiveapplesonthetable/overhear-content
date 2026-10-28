@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e03-scene-28` — Sofia en studio  (Sofia Sings)
+# dix-pour-cent-s02e03-scene-28: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "julien": "marcel", "sofia": "emilie", "gabriel": "theo"}`
-- **Labels**: `{"julien": "Julien", "sofia": "Sofia", "gabriel": "Gabriel"}`
+Title: Sofia en studio  (Sofia Sings)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E03
 
-## Part 1 — Intro
-> In a professional music studio, Sofia Leprince steps up to the microphone with Julien Dore. Her stunning singing voice leaves the famous musician completely amazed. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `julien` (Julien) | C'est beau, non? | It is beautiful, is it not? | 722:C'est beau, non ? |
-| 1 | `sofia` (Sofia) | Oui, c'est vraiment très beau. | Yes, it is really very beautiful. | 723:Oui, c'est beau. |
-| 2 | `julien` (Julien) | Tu as une voix magnifique. | You have a magnificent voice. | adapted |
-| 3 | `sofia` (Sofia) | Merci, c'est gentil. | Thank you, that is kind. | 724:Merci. |
-| 4 | `julien` (Julien) | Bravo, c'était vraiment bien. | Bravo, that was really good. | 726:Bravo !, 727:Vraiment bien. |
-| 5 | `sofia` (Sofia) | Merci beaucoup, Julien. | Thank you very much, Julien. | 725:Merci beaucoup. |
-| 6 | `julien` (Julien) | C'est génial, j'adore cette mélodie. | It is awesome, I love this melody. | 728:Génial. |
-| 7 | `gabriel` (Gabriel) | La voix de Sofia est incroyable. | Sofia | 730:La voix de Sofia est incroyable. |
-| 8 | `julien` (Julien) | Oui, elle a un timbre unique. | Yes, she has a unique timbre. | 731:Ouais. |
-| 9 | `gabriel` (Gabriel) | Je vous l'avais dit! | I had told you so! | 731:Je vous l'avais dit. |
-| 10 | `julien` (Julien) | Je suis époustouflé par sa prestation. | I am blown away by her performance. | 732:Je suis époustouflé. |
-| 11 | `sofia` (Sofia) | Je suis très heureuse de chanter avec vous. | I am very happy to sing with you. | adapted |
-| 12 | `julien` (Julien) | Nous allons faire un disque formidable. | We are going to make a wonderful record. | adapted |
-| 13 | `gabriel` (Gabriel) | C'est le début d'un grand succès. | It is the beginning of a great success. | adapted |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Sofia has dazzled Julien Dore in the recording studio, opening the door to a music career. Gabriel watches with joy as Sofia's artistic dream begins to take flight. See you next time!
-- **Closing**: `sofia`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Julien | C'est beau, non? | It is beautiful, is it not? | #722: C'est beau, non ? | verbatim |
+| 2 | Sofia | Oui, c'est vraiment très beau. | Yes, it is really very beautiful. | #723: Oui, c'est beau. | verbatim |
+| 3 | Julien | Tu as une voix magnifique. | You have a magnificent voice. | new | new |
+| 4 | Sofia | Merci, c'est gentil. | Thank you, that is kind. | #724: Merci. | verbatim |
+| 5 | Julien | Bravo, c'était vraiment bien. | Bravo, that was really good. | #726: Bravo !<br>#727: Vraiment bien. | verbatim |
+| 6 | Sofia | Merci beaucoup, Julien. | Thank you very much, Julien. | #725: Merci beaucoup. | verbatim |
+| 7 | Julien | C'est génial, j'adore cette mélodie. | It is awesome, I love this melody. | #728: Génial. | verbatim |
+| 8 | Gabriel | La voix de Sofia est incroyable. | Sofia | #730: La voix de Sofia est incroyable. | verbatim |
+| 9 | Julien | Oui, elle a un timbre unique. | Yes, she has a unique timbre. | #731: Ouais. | verbatim |
+| 10 | Gabriel | Je vous l'avais dit! | I had told you so! | #731: Je vous l'avais dit. | verbatim |
+| 11 | Julien | Je suis époustouflé par sa prestation. | I am blown away by her performance. | #732: Je suis époustouflé. | verbatim |
+| 12 | Sofia | Je suis très heureuse de chanter avec vous. | I am very happy to sing with you. | new | new |
+| 13 | Julien | Nous allons faire un disque formidable. | We are going to make a wonderful record. | new | new |
+| 14 | Gabriel | C'est le début d'un grand succès. | It is the beginning of a great success. | new | new |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'It is beautiful, is it not?' A short tag question inviting confirmation.
+- 'Yes, it is really very beautiful.' An enthusiastic affirmative response.
+- 'You have a magnificent voice.' Julien pairs the verb meaning 'have' with the noun for 'voice'.
+- 'Thank you, that is kind.' A modest and gracious response to praise.
+- 'Bravo, that was really good.' An exclamation followed by an imperfect description.
+- 'Thank you very much, Julien.' A polite formula including the musician's name.
+- 'It is awesome, I love this melody.' Listen for the expression meaning 'it is', which leads naturally into 'melody'.
+- 'Sofia's voice is incredible.' Gabriel points out Sofia's unique talent.
+- 'Yes, she has a unique timbre.' Julien pairs the verb meaning 'has' with the noun for 'timbre'.
+- 'I had told you so!' The pluperfect tense recalling an earlier prediction.
+- 'I am blown away by her performance.' The colourful adjective epoustoufle meaning astonished.
+- 'I am very happy to sing with you.' An expression of happiness followed by de and an infinitive.
+- 'We are going to make a wonderful record.' The near future tense announcing a joint album.
+- 'It is the beginning of a great success.' Gabriel predicts a bright future.

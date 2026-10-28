@@ -7,8 +7,7 @@ SCENE = 13
 TITLE = 'Le showcase du conservatoire  (The Conservatory Showcase)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'valentin': 'theo', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'valentin': 'Valentin', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'eleve': 'Élève', 'valentin': 'Valentin'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = 'At a drama school showcase in Paris, Camille scouts for fresh acting talent. After congratulating a student actress and handing her a business card, she bumps into a charming young actor named Valentin. Listen to the scene in French first.'
@@ -18,9 +17,9 @@ OUTRO = "Scouting drama showcases brings unexpected encounters and exciting new 
 CLOSING = ('valentin', 'À bientôt!')
 STORY = [
     ('camille', 'Votre scène avec Créon était magnifique.', 'Your scene with Creon was magnificent.', [(739, 'scène avec Créon')], ''),
-    ('lea', "Merci beaucoup, c'est très gentil.", 'Thank you very much, that is very kind.', [(740, "merci, c'est gentil")], ''),
+    ('eleve', "Merci beaucoup, c'est très gentil.", 'Thank you very much, that is very kind.', [(740, "merci, c'est gentil")], ''),
     ('camille', 'Est-ce que vous avez un agent?', 'Do you have an agent?', [(741, 'Vous avez un agent')], ''),
-    ('lea', "Non, je n'en ai pas encore.", 'No, I do not have one yet.', [(743, 'pas encore')], ''),
+    ('eleve', "Non, je n'en ai pas encore.", 'No, I do not have one yet.', [(743, 'pas encore')], ''),
     ('camille', 'Tenez, voici ma carte professionnelle.', 'Here, this is my business card.', [(746, 'Ma carte')], ''),
     ('valentin', "Attention, vous m'avez touché l'épaule!", 'Watch out, you touched my shoulder!', [(749, "l'épaule"), (750, 'touché')], ''),
     ('camille', 'Pardon, je contrôle mal ma force.', 'Sorry, I do not control my strength well.', [(751, 'contrôle pas trop ma force')], ''),

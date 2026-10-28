@@ -8,14 +8,10 @@
  "scene": 8,
  "title": "Сбережения Лёвы  (Lyova's Life Savings)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "lyova": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "lyova": "Лёва",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "inspector": "Инспектор",
+  "lyova": "Лёва"
  },
  "segments": [
   {
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты готов отдать эти деньги?",
    "gap": 0.55
   },
@@ -64,22 +60,22 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, ты точно попадёшь в рай.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, быстро лети в банк.",
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "inspector",
    "t": "Сначала я получу свои деньги.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я должен увидеть ваш отзыв.",
    "gap": 0.9
   },
@@ -95,7 +91,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I put my salary in the bank.' In Russian, the idea of 'I' flows naturally into 'bank' without extra filler words.",
+   "t": "'I put my salary in the bank.' Putting his salary in the bank moves the conversation forward without extra drama.",
    "gap": 0.4
   },
   {
@@ -105,7 +101,7 @@
   },
   {
    "v": "narrator",
-   "t": "'After all, I live with my mother.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'Mum'.",
+   "t": "'After all, I live with my mother.' Saying that after all he lives with his mother is how Lyova sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -115,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'And Gulya also earns well.' Notice how Russian expresses 'and' and 'earns' with crisp inflection rather than helper words.",
+   "t": "'And Gulya also earns well.' Since Gulya also earns well, Lyova does not waste words on excuses.",
    "gap": 0.4
   },
   {
@@ -125,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'And there came to be even more money.' Here the Russian phrasing highlights 'and' before landing on 'to become'.",
+   "t": "'And there came to be even more money.' Mentioning that there came to be even more money moves the talk in a new direction.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты готов отдать эти деньги?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Are you ready to give away this money?' Chef Barinov brings out the contrast between 'you' and 'ready' in a few short words. Lyova answers right away.",
+   "t": "'Are you ready to give away this money?' Asking whether the inspector ready to give away this money cuts straight through the tension between Barinov and the inspector. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -145,7 +141,7 @@
   },
   {
    "v": "narrator",
-   "t": "'This is your life's work, after all.' Lyova anchors the line on 'this', while 'life' completes the thought.",
+   "t": "'This is your life's work, after all.' Because this is Barinov's life work after all, Lyova treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -155,7 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'For the sake of the restaurant I grudge nothing.' The grammar packs 'for the sake of' and 'feel sorry for' into a tight, idiomatic kitchen exchange.",
+   "t": "'For the sake of the restaurant I grudge nothing.' With the inspector and restaurant in play, Lyova keeps this short reply brisk and direct. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
@@ -165,47 +161,47 @@
   },
   {
    "v": "narrator",
-   "t": "'And I will save up more for myself.' The meaning hinges on 'and' working together with 'I will save up' in spoken Russian. Chef Barinov answers right away.",
+   "t": "'And I will save up more for myself.' Lyova mentions that he will save up more for himself so Barinov sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, ты точно попадёшь в рай.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lyova, you will definitely go to heaven.' Chef Barinov brings out the contrast between 'Lyova' and 'you' in a few short words.",
+   "t": "'Lyova, you will definitely go to heaven.' Claiming that the inspector will definitely go to heaven sounds confident, even if the inspector has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, быстро лети в банк.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lyova, fly quickly to the bank.' Spoken Russian keeps this brisk, leaning on 'Lyova' and finishing on 'bank'.",
+   "t": "'Lyova, fly quickly to the bank.' Barinov reminds the inspector that the inspector should fly quickly to the bank before the moment passes.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "inspector",
    "t": "Сначала я получу свои деньги.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'First I will receive my money.' Notice how Russian expresses 'at first' and 'money' with crisp inflection rather than helper words. Chef Barinov answers right away.",
+   "t": "'First I will receive my money.' The inspector explains that first he will receive his money, keeping his voice calm and direct.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я должен увидеть ваш отзыв.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I must see your review.' Chef Barinov anchors the line on 'I', while 'review' completes the thought. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I must see your review.' Realizing that he must see the inspector's review changes how Barinov handles the situation. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -229,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты готов отдать эти деньги?",
    "gap": 0.5
   },
@@ -249,22 +245,22 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, ты точно попадёшь в рай.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, быстро лети в банк.",
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "inspector",
    "t": "Сначала я получу свои деньги.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я должен увидеть ваш отзыв.",
    "gap": 0.9
   },

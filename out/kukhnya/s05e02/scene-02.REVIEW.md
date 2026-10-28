@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Я сегодня на работе поем. | I will eat at work today. | #11 00:02:16: На работе поем | adapted: adapted |
-| 2 | Шеф | Живее, живее, работаем! | Livelier, livelier, let's work! | #12 00:02:34: Живее, живее | adapted: adapted |
-| 3 | Шеф | Давайте, быстрее просыпаемся. | Come on, wake up faster. | #13 00:02:35: Давайте, просыпаемся | adapted: adapted |
-| 4 | Шеф | Побыстрее, ну где наш бекон? | A bit faster, well, where is our bacon? | #15 00:02:39: Побыстрее, ну<br>#15 00:02:39: где бекон? | adapted: adapted |
-| 5 | Сеня | Жарим, жарим наш бекон. | We are frying, frying our bacon. | #16 00:02:42: Жарим, жарим | adapted: adapted |
-| 6 | Шеф | Проснулись все, утро уже наступило. | Wake up everyone, morning has already arrived. | #16 00:02:42: Проснулись все, утро уже наступило | adapted: verbatim |
-| 7 | Шеф | Что ты забыл на моей кухне? | What did you lose in my kitchen? | #17 00:02:45: забыл на моей кухне? | adapted: adapted |
-| 8 | Шеф | Я делаю за тебя твою работу. | I am doing your job for you. | #18 00:02:48: Я делаю за тебя твою работу | adapted: verbatim |
-| 9 | Шеф | Кто такой этот тайный гость? | Who is this secret guest? | #19 00:02:54: тайный гость? | adapted: adapted |
-| 10 | Шеф | Это способ проверки в отеле. | It is a method of inspection in a hotel. | #20 00:02:56: проверки | adapted: adapted |
-| 11 | Шеф | Проверяющий живёт здесь как обычный гость. | The inspector stays here like an ordinary guest. | #21 00:02:58: Проверяющий<br>#21 00:02:58: гостя | adapted: adapted |
-| 12 | Шеф | Он проверяет работу всех служб отеля. | He inspects the work of all hotel departments. | #21 00:02:58: проверяет<br>#21 00:02:58: всех служб отеля | adapted: adapted |
+| 1 | Сеня | Я сегодня на работе поем. | I will eat at work today. | #11: На работе поем | adapted: adapted |
+| 2 | Шеф | Живее, живее, работаем! | Livelier, livelier, let's work! | #12: Живее, живее | adapted: adapted |
+| 3 | Шеф | Давайте, быстрее просыпаемся. | Come on, wake up faster. | #13: Давайте, просыпаемся | adapted: adapted |
+| 4 | Шеф | Побыстрее, ну где наш бекон? | A bit faster, well, where is our bacon? | #15: Побыстрее, ну<br>#15: где бекон? | adapted: adapted |
+| 5 | Сеня | Жарим, жарим наш бекон. | We are frying, frying our bacon. | #16: Жарим, жарим | adapted: adapted |
+| 6 | Шеф | Проснулись все, утро уже наступило. | Wake up everyone, morning has already arrived. | #16: Проснулись все, утро уже наступило | adapted: verbatim |
+| 7 | Шеф | Что ты забыл на моей кухне? | What did you lose in my kitchen? | #17: забыл на моей кухне? | adapted: adapted |
+| 8 | Михаил | Я делаю за тебя твою работу. | I am doing your job for you. | #18: Я делаю за тебя твою работу | adapted: verbatim |
+| 9 | Шеф | Кто такой этот тайный гость? | Who is this secret guest? | #19: тайный гость? | adapted: adapted |
+| 10 | Михаил | Это способ проверки в отеле. | It is a method of inspection in a hotel. | #20: проверки | adapted: adapted |
+| 11 | Михаил | Проверяющий живёт здесь как обычный гость. | The inspector stays here like an ordinary guest. | #21: Проверяющий<br>#21: гостя | adapted: adapted |
+| 12 | Михаил | Он проверяет работу всех служб отеля. | He inspects the work of all hotel departments. | #21: проверяет<br>#21: всех служб отеля | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat at work today.' Notice how Russian expresses 'I' and 'will eat' with crisp inflection rather than helper words.
-- 'Livelier, livelier, let's work!' Notice how Russian expresses 'livelier' and 'let's work' with crisp inflection rather than helper words.
-- 'Come on, wake up faster.' Here the Russian phrasing highlights 'let's' before landing on 'we wake up'.
-- 'A bit faster, well, where is our bacon?' The meaning hinges on 'a bit faster' working together with 'bacon' in spoken Russian.
-- 'We are frying, frying our bacon.' The grammar packs 'we fry' and 'bacon' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
-- 'Wake up everyone, morning has already arrived.' Here the Russian phrasing highlights 'woke up' before landing on 'arrived'.
-- 'What did you lose in my kitchen?' The grammar packs 'what' and 'kitchen' into a tight, idiomatic kitchen exchange.
-- 'I am doing your job for you.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'work'. Chef Barinov answers right away.
-- 'Who is this secret guest?' Chef Barinov anchors the line on 'who', while 'guest' completes the thought.
-- 'It is a method of inspection in a hotel.' Here the Russian phrasing highlights 'this' before landing on 'in the hotel'.
-- 'The inspector stays here like an ordinary guest.' Mikhail brings out the contrast between 'inspector' and 'lives' in a few short words.
-- 'He inspects the work of all hotel departments.' Mikhail anchors the line on 'he', while 'of the hotel' completes the thought.
+- 'I will eat at work today.' Saying that he will eat at work today is how Senya sets the tone with Barinov.
+- 'Livelier, livelier, let's work!' Declaring that livelier livelier let them work brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Come on, wake up faster.' Because Mikhail should come on wake up faster, Barinov treats the matter as settled.
+- 'A bit faster, well, where is our bacon?' Asking whether a bit faster well where is their bacon puts Mikhail right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'We are frying, frying our bacon.' Claiming that they are frying frying their bacon sounds confident, even if Barinov has doubts.
+- 'Wake up everyone, morning has already arrived.' Because Mikhail should wake up everyone morning has already arrived, Barinov treats the matter as settled.
+- 'What did you lose in my kitchen?' By wondering what Mikhail loses in his kitchen, Barinov presses Mikhail for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I am doing your job for you.' Realizing that he is doing Barinov's job for Barinov changes how Mikhail handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Who is this secret guest?' Wondering who this secret guest is is how Barinov puts Mikhail on the spot.
+- 'It is a method of inspection in a hotel.' Even though it is a method of inspection in a hotel, Mikhail keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'The inspector stays here like an ordinary guest.' Admitting that the inspector stays here like an ordinary guest shows Mikhail being honest for a change.
+- 'He inspects the work of all hotel departments.' With the morning and secret in play, Mikhail keeps this short reply brisk and direct.

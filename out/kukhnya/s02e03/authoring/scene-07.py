@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 7
-TITLE = "Вонь на кухне  (The Stink in the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Вонь на кухне  (The Stink in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "senya": "angelina", "louis": "anja"}
-LABELS = {"anya": "Макс", "senya": "Сеня", "louis": "Луи"}
+LABELS = {'barinov': 'Шеф', 'louis': 'Луи', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Viktor Petrovich arrives at work in a cast. Louis is shocked. Meanwhile, Fedya is boiling his leather belt, and the smell is terrible. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Let's review the conversation line by line."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the stink in the kitchen, and for the words meaning 'happened' and 'said'. You'll catch them now. See you next time."
-CLOSING = ("senya", "До встречи!")
+CLOSING = ('senya', 'До встречи!')
 STORY = [
     ('louis', 'Что случилось?', 'What happened?', [(95, 'киски спас')], ''),
     ('senya', 'Кто бы говорил про инвалидов.', "You're one to talk about cripples.", [(100, 'Кто бы говорил про инвалидов')], ''),
-    ('anya', 'Я на больничном.', 'I am on sick leave.', [(101, 'Я на больничном')], ''),
-    ('anya', 'Меня нет.', 'I am not here.', [(101, 'меня нет')], ''),
+    ('barinov', 'Я на больничном.', 'I am on sick leave.', [(101, 'Я на больничном')], ''),
+    ('barinov', 'Меня нет.', 'I am not here.', [(101, 'меня нет')], ''),
     ('louis', 'Вы травите тараканов?', 'Are you fumigating cockroaches?', [(102, 'Вы что, тут тараканов травите')], ''),
     ('louis', 'В зале стоит вонь.', 'There is a stink in the dining room.', [(103, 'Эта вонь уже в зале стоит')], ''),
     ('senya', 'Это Федя готовит завтрак.', 'It is Fedya making breakfast.', [(109, 'Это Федя себе низкокалорийный завтрак готовит')], ''),
     ('senya', 'Он варит ремень.', 'He is boiling a belt.', [], ''),
-    ('anya', 'Зачем он варит ремень?', 'Why is he boiling a belt?', [], ''),
+    ('barinov', 'Зачем он варит ремень?', 'Why is he boiling a belt?', [], ''),
     ('senya', 'Он поспорил на деньги.', 'He made a bet for money.', [], ''),
-    ('anya', 'Вы как дети.', 'You are like children.', [], ''),
-    ('anya', 'Идите работать!', 'Go to work!', [], ''),
+    ('barinov', 'Вы как дети.', 'You are like children.', [], ''),
+    ('barinov', 'Идите работать!', 'Go to work!', [], ''),
 ]
 WALK = [
     (0, None, "'What happened?' Listen for the word meaning 'what' right alongside 'happened' in this line."),

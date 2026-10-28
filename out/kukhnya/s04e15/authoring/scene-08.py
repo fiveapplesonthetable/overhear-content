@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s04e15-scene-08.
 ID = 'kukhnya-s04e15-scene-08'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 15
 SCENE = 8
-TITLE = "Разговор с Айнурой  (The Talk with Ainura)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Разговор с Айнурой  (The Talk with Ainura)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "ainura": "angelina", "german": "anja"}
-LABELS = {"ainura": "Айнура", "german": "Герман"}
+LABELS = {'ainura': 'Айнура', 'german': 'Герман'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.15'
 SOURCE_FILE = 'sources/kukhnya/s04/e15.ru.srt'
-
 INTRO = 'Inside his office at Claude Monet, German dreads what will happen when Ainura walks in and closes the door behind her to talk about them. Before German can finish explaining that they cannot be a couple, Ainura puts a finger to his lips and dumps him first—claiming he seduced her with flowers and smiles.'
-
+OPENER = "Let's examine how Ainura turns the breakup speech around on German."
+TRANSITION = "Now let's hear the complete office breakup scene again at natural speed."
+OUTRO = 'Leaving a bewildered German clutching his jacket button, Ainura walks out with her head held high. Next, Eva gets her revenge on Chef Barinov in front of his daughter Katya. See you next time!'
+CLOSING = ('ainura', 'Всего хорошего!')
 STORY = [
     ('ainura', 'Герман Михайлович, можно к вам на минуту?', 'German Mikhailovich, may I come in for a minute?', [(108, 'Герман Михайлович. Айнура, я')], 'adapted'),
     ('german', 'Айнура, простите, но я сейчас очень занят.', 'Ainura, excuse me, but I am very busy right now.', [(108, 'Герман Михайлович. Айнура, я')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('ainura', 'Пойми, мы с тобой слишком разные люди!', 'Understand, you and I are overly different people!', [(122, 'Мы слишком разные.')], 'adapted'),
     ('ainura', 'Отпусти меня, пожалуйста, и больше не держи!', 'Let me go, please, and do not hold on anymore!', [(123, 'Отпусти меня.')], 'adapted'),
 ]
-
-OPENER = "Let's examine how Ainura turns the breakup speech around on German."
-
 WALK = [
-    (0, None, "'German Mikhailovich, may I come in for a minute?' In spoken Russian, the words stay in their normal statement order and Ainura's rising voice at the end turns the line into a question."),
-    (1, None, "'Ainura, excuse me, but I am very busy right now.' German tries to avoid the conversation using a short masculine adjective."),
-    (2, None, "'I want to talk seriously about us today.' Here Ainura anchors the thought on 'want' and finishes on 'today', keeping the spoken rhythm brisk and natural."),
-    (3, None, "'Ainura, I respect you as a valuable employee.' In everyday Russian, 'to respect' flows straight into 'employee' without extra linking words."),
-    (4, None, "'And as a person I find you very likable.' German pairs 'how / as' with 'likable' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (5, None, "'Hush, do not say anything, just listen to me!' Notice how Russian puts 'quiet' and 'listen' together in a short, direct phrase where word endings show how the ideas connect."),
-    (6, None, "'What happened at night was a big mistake.' Here Ainura anchors the thought on 'happened' and finishes on 'freak', keeping the spoken rhythm brisk and natural."),
-    (7, None, "'Yesterday you gave me beautiful flowers on purpose.' Ainura reminds him of the rejected bouquet he handed her."),
-    (8, None, "'You smiled tenderly at me the whole day!' Ainura pairs 'tenderly' with 'day' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (9, None, "'But we cannot be together any longer.' Notice how Russian puts 'can' and 'together' together in a short, direct phrase where word endings show how the ideas connect."),
-    (10, None, "'Understand, you and I are overly different people!' The comitative subject phrase pairs with a plural adjective."),
-    (11, None, "'Let me go, please, and do not hold on anymore!' When her sleeve catches on his button, she tells him not to hold her back."),
+    (0, None, "'German Mikhailovich, may I come in for a minute?' Questioning whether may she comes in for a minute is how Ainura tests German's story. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (1, None, "'Ainura, excuse me, but I am very busy right now.' Claiming that he is very busy right now sounds confident, even if Ainura has doubts."),
+    (2, None, "'I want to talk seriously about us today.' By wanting to talk seriously about them today, Ainura keeps her side of the story grounded."),
+    (3, None, '\'Ainura, I respect you as a valuable employee.\' Because he respects Ainura as a valuable employee, German treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (4, None, '\'And as a person I find you very likable.\' Since as a person he finds Ainura very likable, German does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (5, None, "'Hush, do not say anything, just listen to me!' Insisting that hush do not say anything just listen shows Ainura is not backing down."),
+    (6, None, '\'What happened at night was a big mistake.\' Ainura reminds German that what happened at night was a big mistake before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (7, None, '\'Yesterday you gave me beautiful flowers on purpose.\' Because yesterday German gave her beautiful flowers on purpose, Ainura treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (8, None, "'You smiled tenderly at me the whole day!' With the truth and office at stake, Ainura reacts without holding back."),
+    (9, None, "'But we cannot be together any longer.' Even though they cannot be together any longer, Ainura keeps a steady face in front of German."),
+    (10, None, '\'Understand, you and I are overly different people!\' Once German should understand German and she are overly different people, Ainura makes sure German hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (11, None, "'Let me go, please, and do not hold on anymore!' Insisting that German should let her go please and do not hold on anymore shows Ainura is not backing down."),
 ]
-
-TRANSITION = "Now let's hear the complete office breakup scene again at natural speed."
-OUTRO = 'Leaving a bewildered German clutching his jacket button, Ainura walks out with her head held high. Next, Eva gets her revenge on Chef Barinov in front of his daughter Katya. See you next time!'
-CLOSING = ("ainura", "Всего хорошего!")

@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Эдуард Владимирович | Всё по-новому. Нам сейчас никто не будет мешать. | Everything is new now. No one is going to bother us right now. | #734 00:37:44: Все по-новому<br>#734 00:37:44: нам сейчас никто не будет мешать | verbatim |
-| 2 | Марина | Ой! Что такое? | Oh! What is the matter? | #737 00:37:57: Что такое | adapted: Arkady accidentally bangs the door open with his plaster cast |
-| 3 | Аня | Извините, ради бога! Я хотел постучаться и не рассчитал. | Forgive me, for goodness' sake! I wanted to knock and misjudged it. | #738 00:38:03: Извините, ради бога<br>#738 00:38:03: Я хотел постучаться и не рассчитал | verbatim |
-| 4 | Аня | Я хочу извиниться за вчерашнее. Просто отошёл наркоз, и были дикие боли. | I want to apologise for yesterday. The anaesthesia just wore off, and I had wild pain. | #740 00:38:07: Я хочу извиниться за вчерашнее<br>#741 00:38:10: Просто отошел наркоз и были дикие боли | verbatim |
-| 5 | Марина | Ничего страшного, Аркадий Борисович. | It is alright, Arkady Borisovich. | #743 00:38:15: Ничего страшного | verbatim |
-| 6 | Эдуард Владимирович | Ну, хорошо, вы извинились. Пожалуйста, уже можно закрыть дверь. | Well, fine, you have apologised. Now please, you can close the door. | #744 00:38:16: Ну, хорошо. Извинились<br>#744 00:38:16: пожалуйста, уже можно закрыть дверь | verbatim |
-| 7 | Аня | Свежие ягоды, кофе! У вас тут романтический завтрак. | Fresh berries, coffee! You are having a romantic breakfast here. | #745 00:38:21: Свежие ягоды<br>#746 00:38:22: Кофе<br>#747 00:38:24: У вас романтический завтрак | verbatim |
-| 8 | Аня | Я тоже очень хочу завтракать. Но ничего, будем худеть. | I really want to have breakfast too. But that is alright, we will lose weight. | #749 00:38:29: Я тоже очень хочу завтракать<br>#751 00:38:33: Но ничего<br>#752 00:38:35: Будем худеть | verbatim |
-| 9 | Эдуард Владимирович | Пожалуйста, худейте там, за дверью. Закройте дверь, пожалуйста! | Please, lose weight out there, behind the door. Close the door, please! | #755 00:38:37: Пожалуйста, худейте<br>#759 00:38:40: Закройте дверь, пожалуйста | verbatim |
-| 10 | Марина | Эдик, а давай угостим Аркадия круассанами. | Edik, let's offer Arkady some croissants. | #764 00:38:44: Эдик<br>#766 00:38:46: А давай угостим Аркадия круассанами | verbatim |
-| 11 | Эдуард Владимирович | Почему мы должны угощать кого-то нашими круассанами? | Why should we treat anyone to our croissants? | #767 00:38:48: Почему мы должны угощать кого-то нашими круассанами | verbatim |
-| 12 | Аня | Вы ничего не должны, это правда. Он абсолютно прав. | You do not owe anything, that is true. He is absolutely right. | #769 00:38:51: Вы ничего не должны, это правда, он абсолютно прав | verbatim |
-| 13 | Эдуард Владимирович | Хорошо, вот, возьмите круассан! И, пожалуйста, только уходите. | Fine, here, take a croissant! And please, just leave. | #771 00:38:55: Хорошо, вот, возьмите<br>#772 00:38:57: пожалуйста, только уходите | verbatim |
-| 14 | Аня | Больно мне! Зачем вы мне руку прищемили? | That hurts me! Why did you pinch my arm in the door? | #779 00:39:04: больно мне<br>#780 00:39:06: Зачем вы мне руку прищемили | adapted: Eduard tries to shut the door on Arkady's plaster cast |
-| 15 | Эдуард Владимирович | Я не прищемил! Вы её здесь оставили специально. | I did not pinch it! You left it right here on purpose. | #781 00:39:08: Я не прищемил, вы ее здесь оставили специально | verbatim |
-| 16 | Аня | Вы очень щедрый, а я неловкий. Я пойду приготовить себе кашу. | Forgive me, you are very generous, and I am clumsy. I will go try to cook myself some porridge. | #782 00:39:10: вы очень щедрый, а я<br>#782 00:39:10: неловкий<br>#783 00:39:14: приготовить себе кашу | verbatim |
+| 1 | Эдуард Владимирович | Всё по-новому. Нам сейчас никто не будет мешать. | Everything is new now. No one is going to bother us right now. | #734: Все по-новому<br>#734: нам сейчас никто не будет мешать | verbatim |
+| 2 | Марина | Ой! Что такое? | Oh! What is the matter? | #737: Что такое | adapted: Arkady accidentally bangs the door open with his plaster cast |
+| 3 | Аркадий | Извините, ради бога! Я хотел постучаться и не рассчитал. | Forgive me, for goodness' sake! I wanted to knock and misjudged it. | #738: Извините, ради бога<br>#738: Я хотел постучаться и не рассчитал | verbatim |
+| 4 | Аркадий | Я хочу извиниться за вчерашнее. Просто отошёл наркоз, и были дикие боли. | I want to apologise for yesterday. The anaesthesia just wore off, and I had wild pain. | #740: Я хочу извиниться за вчерашнее<br>#741: Просто отошел наркоз и были дикие боли | verbatim |
+| 5 | Марина | Ничего страшного, Аркадий Борисович. | It is alright, Arkady Borisovich. | #743: Ничего страшного | verbatim |
+| 6 | Эдуард Владимирович | Ну, хорошо, вы извинились. Пожалуйста, уже можно закрыть дверь. | Well, fine, you have apologised. Now please, you can close the door. | #744: Ну, хорошо. Извинились<br>#744: пожалуйста, уже можно закрыть дверь | verbatim |
+| 7 | Аркадий | Свежие ягоды, кофе! У вас тут романтический завтрак. | Fresh berries, coffee! You are having a romantic breakfast here. | #745: Свежие ягоды<br>#746: Кофе<br>#747: У вас романтический завтрак | verbatim |
+| 8 | Аркадий | Я тоже очень хочу завтракать. Но ничего, будем худеть. | I really want to have breakfast too. But that is alright, we will lose weight. | #749: Я тоже очень хочу завтракать<br>#751: Но ничего<br>#752: Будем худеть | verbatim |
+| 9 | Эдуард Владимирович | Пожалуйста, худейте там, за дверью. Закройте дверь, пожалуйста! | Please, lose weight out there, behind the door. Close the door, please! | #755: Пожалуйста, худейте<br>#759: Закройте дверь, пожалуйста | verbatim |
+| 10 | Марина | Эдик, а давай угостим Аркадия круассанами. | Edik, let's offer Arkady some croissants. | #764: Эдик<br>#766: А давай угостим Аркадия круассанами | verbatim |
+| 11 | Эдуард Владимирович | Почему мы должны угощать кого-то нашими круассанами? | Why should we treat anyone to our croissants? | #767: Почему мы должны угощать кого-то нашими круассанами | verbatim |
+| 12 | Аркадий | Вы ничего не должны, это правда. Он абсолютно прав. | You do not owe anything, that is true. He is absolutely right. | #769: Вы ничего не должны, это правда, он абсолютно прав | verbatim |
+| 13 | Эдуард Владимирович | Хорошо, вот, возьмите круассан! И, пожалуйста, только уходите. | Fine, here, take a croissant! And please, just leave. | #771: Хорошо, вот, возьмите<br>#772: пожалуйста, только уходите | verbatim |
+| 14 | Аркадий | Больно мне! Зачем вы мне руку прищемили? | That hurts me! Why did you pinch my arm in the door? | #779: больно мне<br>#780: Зачем вы мне руку прищемили | adapted: Eduard tries to shut the door on Arkady's plaster cast |
+| 15 | Эдуард Владимирович | Я не прищемил! Вы её здесь оставили специально. | I did not pinch it! You left it right here on purpose. | #781: Я не прищемил, вы ее здесь оставили специально | verbatim |
+| 16 | Аркадий | Вы очень щедрый, а я неловкий. Я пойду приготовить себе кашу. | Forgive me, you are very generous, and I am clumsy. I will go try to cook myself some porridge. | #782: вы очень щедрый, а я<br>#782: неловкий<br>#783: приготовить себе кашу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -56,4 +56,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I didn't pinch it!' Eduard protests.
 - 'You left it here on purpose.' The adverb means 'deliberately' or 'on purpose'.
 - 'You are very generous, and I am clumsy.' Contrast the two masculine adjectives: 'generous' and 'clumsy'.
-- 'I will go cook myself some porridge.' Eduard tells him to go right ahead and finally shuts the door.
+- 'I will go cook myself some porridge.' Here, Eduard tells him to go right ahead and finally shuts the door.

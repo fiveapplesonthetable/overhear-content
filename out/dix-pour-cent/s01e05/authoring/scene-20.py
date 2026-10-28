@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = "Elle n'est pas faite pour toi  (She's Not Right for You)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'mathias': 'marcel', 'catherine': 'emilie'}
-LABELS = {'hippolyte': 'Hippolyte', 'mathias': 'Mathias', 'catherine': 'Catherine'}
+LABELS = {'catherine': 'Catherine', 'hippolyte': 'Hippolyte', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Mathias goes down to the kitchen and catches his son Hippolyte taking bottles of wine to bring back to Camille's flat. Panicking at the thought that his son and his secret daughter are seeing each other, Mathias invents a lie to break them up. Let's listen to the scene in French first."
@@ -38,7 +37,7 @@ WALK = [
     (0, None, "'What's that?' A short, natural question for everyday speech."),
     (1, None, "'Stay there, I'll go and see.' An informal command to his wife, followed by the near future. Down in the dark kitchen, Mathias surprises Hippolyte."),
     (2, None, "'You scared me!' Literally 'you made fear to me'. French uses 'to make' with 'fear' for 'to scare'."),
-    (3, None, "'What are you doing?' Hippolyte is holding bottles from his father's wine cellar."),
+    (3, None, "'What are you doing?' Right then, Hippolyte is holding bottles from his father's wine cellar."),
     (4, None, "'Nothing, I was a bit thirsty.' Just like hunger or shame, thirst uses 'to have': literally 'I had a little thirst'."),
     (5, None, "'My friends came round, we had nothing to drink.' The first verb is in the past with 'are', and the second uses the negative pair for 'nothing'."),
     (6, None, "'Are you with Camille?' Mathias guesses who the wine is really for."),

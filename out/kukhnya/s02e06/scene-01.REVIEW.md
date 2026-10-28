@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Верить теории буддистов. | If you believe the theory of the Buddhists. | #2 00:01:05: верить теории буддистов | verbatim |
-| 2 | Аня | Наверное, даже был Гитлером. | I was probably even Hitler in a past life. | #3 00:01:11: Наверное, даже был Гитлером | verbatim |
-| 3 | Шеф | Иначе я не понимаю? | Otherwise I just do not understand it? | #4 00:01:14: Иначе я не понимаю | verbatim |
-| 4 | Аня | За что мне такое наказание? | What did I do to deserve such punishment? | #4 00:01:14: за что мне такое наказание | verbatim |
-| 5 | Шеф | Как ты? | How are you holding up? | #4 00:01:14: как ты | verbatim |
-| 6 | Аня | А ведь если бы я туда попал. | And yet if I ever made it in there. | #7 00:01:27: А ведь если бы я туда попал | verbatim |
-| 7 | Шеф | Шеф, а можно с вами? | Chef, can I come along with you? | #8 00:01:34: Шеф, а можно с вами | verbatim |
-| 8 | Аня | Даже не мечтаю. | Do not even dream about it. | #9 00:01:50: Даже не мечтаю | verbatim |
-| 9 | Шеф | Они никого с собой не берут. | They never bring anyone along with them. | #10 00:01:52: Они никого с собой не берут | verbatim |
-| 10 | Аня | Мы для них никто. | To them, we are nobodies. | #11 00:01:53: Мы для них никто | verbatim |
-| 11 | Шеф | Это элита. | That is the elite. | #11 00:01:53: Это элита | verbatim |
-| 12 | Аня | А ты-то кто? | And who do you think you are? | #12 00:01:57: А ты-то кто | verbatim |
-| 13 | Шеф | Я здесь уже три года работаю. | I have been working here for three years already. | #14 00:02:01: Я здесь уже три года работаю | verbatim |
+| 1 | Шеф | Верить теории буддистов. | If you believe the theory of the Buddhists. | #2: верить теории буддистов | verbatim |
+| 2 | Макс | Наверное, даже был Гитлером. | I was probably even Hitler in a past life. | #3: Наверное, даже был Гитлером | verbatim |
+| 3 | Шеф | Иначе я не понимаю? | Otherwise I just do not understand it? | #4: Иначе я не понимаю | verbatim |
+| 4 | Макс | За что мне такое наказание? | What did I do to deserve such punishment? | #4: за что мне такое наказание | verbatim |
+| 5 | Шеф | Как ты? | How are you holding up? | #4: как ты | verbatim |
+| 6 | Макс | А ведь если бы я туда попал. | And yet if I ever made it in there. | #7: А ведь если бы я туда попал | verbatim |
+| 7 | Шеф | Шеф, а можно с вами? | Chef, can I come along with you? | #8: Шеф, а можно с вами | verbatim |
+| 8 | Макс | Даже не мечтаю. | Do not even dream about it. | #9: Даже не мечтаю | verbatim |
+| 9 | Шеф | Они никого с собой не берут. | They never bring anyone along with them. | #10: Они никого с собой не берут | verbatim |
+| 10 | Макс | Мы для них никто. | To them, we are nobodies. | #11: Мы для них никто | verbatim |
+| 11 | Шеф | Это элита. | That is the elite. | #11: Это элита | verbatim |
+| 12 | Макс | А ты-то кто? | And who do you think you are? | #12: А ты-то кто | verbatim |
+| 13 | Шеф | Я здесь уже три года работаю. | I have been working here for three years already. | #14: Я здесь уже три года работаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you believe the theory of the Buddhists.' The meaning hinges on 'to believe' working together with 'Buddhist' in spoken Russian.
-- 'I was probably even Hitler in a past life.' Here the Russian phrasing highlights 'probably' before landing on 'Hitler'.
-- 'Otherwise I just do not understand it?' Here the Russian phrasing highlights 'otherwise' before landing on 'understand'. Max answers right away.
-- 'What did I do to deserve such punishment?' The meaning hinges on 'behind' working together with 'punishment' in spoken Russian.
-- 'How are you holding up?' Chef Viktor anchors the line on 'how', while 'you' completes the thought.
-- 'And yet if I ever made it in there.' The '-l' ending on the verb meaning 'ended up' places the action in the masculine past tense. Chef Viktor answers right away.
-- 'Chef, can I come along with you?' Spoken Russian keeps this brisk, leaning on 'chef' and finishing on 'with you'.
-- 'Do not even dream about it.' Max brings out the contrast between 'even' and 'not' in a few short words.
-- 'They never bring anyone along with them.' Notice how Russian expresses 'they' and 'to take' with crisp inflection rather than helper words. Max answers right away.
-- 'To them, we are nobodies.' Notice how Russian expresses 'we' and 'nobody' with crisp inflection rather than helper words.
-- 'That is the elite.' Chef Viktor anchors the line on 'this', while 'elite' completes the thought.
-- 'And who do you think you are?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'who'. Chef Viktor answers right away.
-- 'I have been working here for three years already.' Here the Russian phrasing highlights 'I' before landing on 'work'.
+- 'If you believe the theory of the Buddhists.' Barinov mentions that if Max believes the theory so Max sees what is at stake.
+- 'I was probably even Hitler in a past life.' Claiming that he was probably even in a past life sounds confident, even if Barinov has doubts.
+- 'Otherwise I just do not understand it?' Wondering if otherwise he just does not understand it shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What did I do to deserve such punishment?' Wondering what he does to deserve such punishment is how Max puts Barinov on the spot.
+- 'How are you holding up?' Here wondering how Max holding up is shows Barinov looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'And yet if I ever made it in there.' Noting that yet if he ever made it in there keeps Max's side of the story simple and clear.
+- 'Chef, can I come along with you?' Checking whether he comes along with Max cuts straight through the tension between Barinov and Max.
+- 'Do not even dream about it.' Admitting that do not even dream about it shows Max being honest for a change.
+- 'They never bring anyone along with them.' Between the moment and the restaurant, Barinov gives Max a quick, grounded response.
+- 'To them, we are nobodies.' Once to them they are nobodies, Max can finally tell Barinov what he means.
+- 'That is the elite.' Adding that that is the elite fills in the missing piece for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'And who do you think you are?' Wondering who Barinov thinks Barinov is is how Max puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I have been working here for three years already.' Having been working here for three years already is how Barinov lays out the situation for Max.

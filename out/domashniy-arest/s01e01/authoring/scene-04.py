@@ -1,38 +1,40 @@
-# domashniy-arest/s01e01/scene-04.py
-ID = "domashniy-arest-s01e01-scene-04"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e01-scene-04.
+ID = 'domashniy-arest-s01e01-scene-04'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 1
 SCENE = 4
-TITLE = "Стена монастыря  (The Monastery Wall)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.01"
-SOURCE_FILE = "sources/domashniy-arest/s01/e01.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "marina": "angelina", "pasha": "anja"}
-LABELS = {"anya": "Аркадий", "marina": "Марина", "pasha": "Паша"}
+TITLE = 'Стена монастыря  (The Monastery Wall)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'marina': 'Марина', 'pasha': 'Паша'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.01'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
 INTRO = "We're still on the square in front of the town hall. Last time, Mayor Arkady told the crowd he grew up in a communal flat and announced he'll run for a second term. Now a young lecturer, Marina, and her students block his way: an old monastery wall is being knocked down, and they blame him. Let's listen in Russian first."
-STORY = [
-    ("anya", "Простите, вы кто?", "Excuse me, who are you?", [(125, 'кто')], "'Вы, собственно, кто?' simplified; 'Простите' added"),
-    ("marina", "Я Марина Сергеевна. А это мои студенты.", "I'm Marina Sergeyevna. And these are my students.", [(126, 'Марина Сергеевна'), (128, 'А это мои студенты')], "surname 'Валинкина' dropped"),
-    ("anya", "Очень приятно. А в чём дело?", "Pleased to meet you. So what's the matter?", [(129, 'Очень приятно'), (130, 'в чем')], "'И в чём, собственно, дело?' simplified"),
-    ("marina", "А вы не знаете?", "Don't you know?", [(131, 'А вы не знаете')], ""),
-    ("anya", "Нет, я не знаю.", "No, I don't.", [(132, 'Нет, я не знаю')], ""),
-    ("marina", "Не надо врать. Стену монастыря сносят!", "Don't lie. They're pulling down the monastery wall!", [(133, 'Не надо врать'), (134, 'сносят'), (139, 'монастыря')], "cues 134 and 139 combined: 'сносят культурный памятник' + 'Стену ... монастыря'"),
-    ("marina", "Там хотят построить торговый центр.", "They want to build a shopping centre there.", [(135, 'хотят построить торговый центр')], "'на его месте' -> 'Там'"),
-    ("anya", "Этого не может быть. Это наша история.", "That can't be. It's our history.", [(145, 'Этого не может быть'), (147, 'Это наша история')], ""),
-    ("anya", "Как странно, я ничего об этом не слышал.", "How strange, I've heard nothing about it.", [(152, 'Как странно, я ничего об этом не слышал')], ""),
-    ("anya", "Павел Юрьевич, это что такое?", "Pavel Yuryevich, what is this?", [(154, 'Павел Юрьевич, это что такое')], ""),
-    ("pasha", "Мы просто не хотели вас беспокоить. Всё отменим!", "We just didn't want to bother you. We'll cancel it all!", [(156, 'Просто не хотели вас беспокоить'), (164, 'Все отменим')], "'Мы' added"),
-    ("anya", "Марина, я вам обещаю: со стеной ничего не случится.", "Marina, I promise you: nothing will happen to the wall.", [(166, 'Марина, обещаю'), (167, 'ничего не случится')], "'с нашей исторической ценностью' -> 'со стеной'; 'я вам' word order made simple"),
-    ("marina", "Хорошо. Мы со студентами проследим.", "All right. My students and I will keep an eye on it.", [(168, 'со студентами'), (169, 'мы проследим')], "'Хорошо.' new"),
-    ("anya", "Это правильно. Я приглашаю вас в общественный совет.", "That's right. I'm inviting you onto the public council.", [(170, 'это правильно'), (171, 'я приглашаю вас'), (171, 'в общественный совет')], "'войти' dropped"),
-    ("anya", "Спасибо вам, Марина. Извините, тороплюсь.", "Thank you, Marina. Sorry, I'm in a hurry.", [(174, 'Спасибо вам, Марина'), (175, 'Извините, тороплюсь')], ""),
-    ("anya", "Паша, я больше не хочу о ней слышать. Понял?", "Pasha, I don't want to hear about her again. Understood?", [(177, 'понял')], "cue 177 'Сделай так, чтоб я о ней больше не слышал никогда' simplified; crude cue 176 dropped"),
-    ("pasha", "Сделаю.", "I'll take care of it.", [(178, 'Сделаю')], ""),
-    ("anya", "И не тяни с торговым центром!", "And don't drag your feet with the shopping centre!", [(179, 'с торговым центром')], "'не затягивайтесь' -> 'не тяни' (ты, in private); crude cue 180 dropped"),
-]
 OPENER = "Let's take it slowly. Arkady stops his driver and turns to the woman with the papers."
+TRANSITION = "Now let's listen to the whole scene again."
+OUTRO = "So that's Arkady: one face for the crowd, and quite another for his deputy. When you watch, listen for Marina's 'Don't lie', you'll catch it now. See you next time!"
+CLOSING = ('marina', 'До свидания!')
+STORY = [
+    ('arkady', 'Простите, вы кто?', 'Excuse me, who are you?', [(125, 'кто')], "'Вы, собственно, кто?' simplified; 'Простите' added"),
+    ('marina', 'Я Марина Сергеевна. А это мои студенты.', "I'm Marina Sergeyevna. And these are my students.", [(126, 'Марина Сергеевна'), (128, 'А это мои студенты')], "surname 'Валинкина' dropped"),
+    ('arkady', 'Очень приятно. А в чём дело?', "Pleased to meet you. So what's the matter?", [(129, 'Очень приятно'), (130, 'в чем')], "'И в чём, собственно, дело?' simplified"),
+    ('marina', 'А вы не знаете?', "Don't you know?", [(131, 'А вы не знаете')], ''),
+    ('arkady', 'Нет, я не знаю.', "No, I don't.", [(132, 'Нет, я не знаю')], ''),
+    ('marina', 'Не надо врать. Стену монастыря сносят!', "Don't lie. They're pulling down the monastery wall!", [(133, 'Не надо врать'), (134, 'сносят'), (139, 'монастыря')], "cues 134 and 139 combined: 'сносят культурный памятник' + 'Стену ... монастыря'"),
+    ('marina', 'Там хотят построить торговый центр.', 'They want to build a shopping centre there.', [(135, 'хотят построить торговый центр')], "'на его месте' -> 'Там'"),
+    ('arkady', 'Этого не может быть. Это наша история.', "That can't be. It's our history.", [(145, 'Этого не может быть'), (147, 'Это наша история')], ''),
+    ('arkady', 'Как странно, я ничего об этом не слышал.', "How strange, I've heard nothing about it.", [(152, 'Как странно, я ничего об этом не слышал')], ''),
+    ('arkady', 'Павел Юрьевич, это что такое?', 'Pavel Yuryevich, what is this?', [(154, 'Павел Юрьевич, это что такое')], ''),
+    ('pasha', 'Мы просто не хотели вас беспокоить. Всё отменим!', "We just didn't want to bother you. We'll cancel it all!", [(156, 'Просто не хотели вас беспокоить'), (164, 'Все отменим')], "'Мы' added"),
+    ('arkady', 'Марина, я вам обещаю: со стеной ничего не случится.', 'Marina, I promise you: nothing will happen to the wall.', [(166, 'Марина, обещаю'), (167, 'ничего не случится')], "'с нашей исторической ценностью' -> 'со стеной'; 'я вам' word order made simple"),
+    ('marina', 'Хорошо. Мы со студентами проследим.', 'All right. My students and I will keep an eye on it.', [(168, 'со студентами'), (169, 'мы проследим')], "'Хорошо.' new"),
+    ('arkady', 'Это правильно. Я приглашаю вас в общественный совет.', "That's right. I'm inviting you onto the public council.", [(170, 'это правильно'), (171, 'я приглашаю вас'), (171, 'в общественный совет')], "'войти' dropped"),
+    ('arkady', 'Спасибо вам, Марина. Извините, тороплюсь.', "Thank you, Marina. Sorry, I'm in a hurry.", [(174, 'Спасибо вам, Марина'), (175, 'Извините, тороплюсь')], ''),
+    ('arkady', 'Паша, я больше не хочу о ней слышать. Понял?', "Pasha, I don't want to hear about her again. Understood?", [(177, 'понял')], "cue 177 'Сделай так, чтоб я о ней больше не слышал никогда' simplified; crude cue 176 dropped"),
+    ('pasha', 'Сделаю.', "I'll take care of it.", [(178, 'Сделаю')], ''),
+    ('arkady', 'И не тяни с торговым центром!', "And don't drag your feet with the shopping centre!", [(179, 'с торговым центром')], "'не затягивайтесь' -> 'не тяни' (ты, in private); crude cue 180 dropped"),
+]
 WALK = [
     (0, None, "'Excuse me, who are you?' Two words do the asking: the polite 'you' and 'who'. He is polite because she is a stranger. She introduces herself."),
     (1, 'Я Марина Сергеевна.', "'I'm Marina Sergeyevna.' There is no word for 'am' here: you just say 'I' and your name. Her second name comes from her father's name, and that's the respectful way to address her. Then she points at the young people."),
@@ -55,6 +57,3 @@ WALK = [
     (16, None, "'I'll take care of it.' One word: 'I will do'. It's the future of the verb 'to do'. And one last order."),
     (17, None, "'And don't drag your feet with the shopping centre!' So the wall was never safe: Arkady wants that shopping centre built."),
 ]
-TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = "So that's Arkady: one face for the crowd, and quite another for his deputy. When you watch, listen for Marina's 'Don't lie', you'll catch it now. See you next time!"
-CLOSING = ("marina", "До свидания!")

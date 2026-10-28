@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костик | Господи, Иисусе Христе, спаси нас! | Lord Jesus Christ, save us! | #29 00:03:46: Господи, судьи Христи | adapted: adapted |
-| 2 | Костик | Отец Григорий, нам надо бежать! | Father Grigory, we must run! | #30 00:03:47: Бежим, отец Григорий, бежим | verbatim |
-| 3 | Отец Григорий | Куда же нам теперь бежать? | Where can we run now? | #31 00:03:48: Куда игра | adapted: adapted |
+| 1 | Костик | Господи, Иисусе Христе, спаси нас! | Lord Jesus Christ, save us! | #29: Господи, судьи Христи | adapted: adapted |
+| 2 | Костик | Отец Григорий, нам надо бежать! | Father Grigory, we must run! | #30: Бежим, отец Григорий, бежим | verbatim |
+| 3 | Отец Григорий | Куда же нам теперь бежать? | Where can we run now? | #31: Куда игра | adapted: adapted |
 | 4 | Костик | Враги уже ворвались в монастырь! | The enemies have already broken into the monastery! | new | new: new |
 | 5 | Отец Григорий | Мы уже никуда не убежим. | We won't escape anywhere now. | new | new: adapted |
 | 6 | Костик | Они поджигают наши деревянные стены! | They are setting our wooden walls on fire! | new | new: adapted |
 | 7 | Отец Григорий | Спасай скорее священную книгу! | Save the sacred book quickly! | new | new: adapted |
-| 8 | Костик | А как же вы, отец Григорий? | And what about you, Father Grigory? | #30 00:03:47: отец | verbatim |
+| 8 | Костик | А как же вы, отец Григорий? | And what about you, Father Grigory? | #30: отец | verbatim |
 | 9 | Отец Григорий | Обо мне не думай сейчас. | Don't think about me right now. | new | new: new |
 | 10 | Отец Григорий | Иди немедленно и прячь летопись! | Go immediately and hide the chronicle! | new | new: adapted |
 | 11 | Костик | Я спрячу её в каменном подвале! | I will hide it in the stone cellar! | new | new: new |

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Наша проблема сейчас в клубе в трёх кварталах отсюда. | Our problem is currently at a club three blocks from here. | #101 00:06:59: Наша проблема сейчас в<br>#101 00:06:59: в трёх кварталах отсюда | adapted: adapted |
-| 2 | Вика | Откуда ты знаешь? | How do you know? | #102 00:07:03: ты знаешь | adapted: adapted |
-| 3 | Аня | Элементарно! Пришла утром, значит, не работает. | Elementary! She came in the morning, which means she doesn't work. | #103 00:07:05: Элементарно<br>#104 00:07:08: Значит, не работает | adapted: adapted |
-| 4 | Аня | Была практически без косметики и в джинсах. | She had almost no makeup on and was in jeans. | #105 00:07:10: Была практически без косметики<br>#106 00:07:14: И в джинсах | adapted: adapted |
-| 5 | Аня | То есть встречаться ни с кем не собиралась. | That means she wasn't planning to meet with anyone. | #106 00:07:14: То есть встречаться ни с кем не собиралась | verbatim |
-| 6 | Аня | Заказала только салат. Это лёгкий перекус. | She ordered only a salad. That is a light snack. | #107 00:07:17: Заказала только салат<br>#107 00:07:17: это лёгкий перекус | adapted: adapted |
-| 7 | Аня | В её годы такая фигура только через спортзал. | At her age, such a figure only comes through the gym. | #108 00:07:20: В её годы такая фигура только через спортзал | verbatim |
-| 8 | Аня | А ближайший приличный клуб в трёх кварталах. | And the nearest decent club is three blocks away. | #109 00:07:24: А ближайший приличный<br>#109 00:07:24: в трёх кварталах | adapted: adapted |
-| 9 | Вика | То есть вот так ты и догадался? | So that is how you figured it out? | #110 00:07:28: То есть вот так ты и догадался | verbatim |
-| 10 | Аня | Ну, почти. Ангелина вместе с ней на йогу ходит. | Well, almost. Angelina goes to yoga with her. | #111 00:07:30: Ну, почти. А еще Ангелина вместе с ней на йогу ходит | adapted: adapted |
-| 11 | Аня | Я еду туда просить для нас прощение. | I am heading there to ask forgiveness for us. | #112 00:07:34: для нас прощение | adapted: adapted |
-| 12 | Вика | Увольнение уже попросил. В этот раз я сама. | You already got us fired. This time I will do it myself. | #113 00:07:38: Увольнение<br>#113 00:07:38: В этот раз я сама | adapted: adapted |
+| 1 | Макс | Наша проблема сейчас в клубе в трёх кварталах отсюда. | Our problem is currently at a club three blocks from here. | #101: Наша проблема сейчас в<br>#101: в трёх кварталах отсюда | adapted: adapted |
+| 2 | Вика | Откуда ты знаешь? | How do you know? | #102: ты знаешь | adapted: adapted |
+| 3 | Макс | Элементарно! Пришла утром, значит, не работает. | Elementary! She came in the morning, which means she doesn't work. | #103: Элементарно<br>#104: Значит, не работает | adapted: adapted |
+| 4 | Макс | Была практически без косметики и в джинсах. | She had almost no makeup on and was in jeans. | #105: Была практически без косметики<br>#106: И в джинсах | adapted: adapted |
+| 5 | Макс | То есть встречаться ни с кем не собиралась. | That means she wasn't planning to meet with anyone. | #106: То есть встречаться ни с кем не собиралась | verbatim |
+| 6 | Макс | Заказала только салат. Это лёгкий перекус. | She ordered only a salad. That is a light snack. | #107: Заказала только салат<br>#107: это лёгкий перекус | adapted: adapted |
+| 7 | Макс | В её годы такая фигура только через спортзал. | At her age, such a figure only comes through the gym. | #108: В её годы такая фигура только через спортзал | verbatim |
+| 8 | Макс | А ближайший приличный клуб в трёх кварталах. | And the nearest decent club is three blocks away. | #109: А ближайший приличный<br>#109: в трёх кварталах | adapted: adapted |
+| 9 | Вика | То есть вот так ты и догадался? | So that is how you figured it out? | #110: То есть вот так ты и догадался | verbatim |
+| 10 | Макс | Ну, почти. Ангелина вместе с ней на йогу ходит. | Well, almost. Angelina goes to yoga with her. | #111: Ну, почти. А еще Ангелина вместе с ней на йогу ходит | adapted: adapted |
+| 11 | Макс | Я еду туда просить для нас прощение. | I am heading there to ask forgiveness for us. | #112: для нас прощение | adapted: adapted |
+| 12 | Вика | Увольнение уже попросил. В этот раз я сама. | You already got us fired. This time I will do it myself. | #113: Увольнение<br>#113: В этот раз я сама | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our problem is currently at a club three blocks from here.' Here the Russian phrasing highlights 'our' before landing on 'from here'.
-- 'How do you know?' Notice how Russian expresses 'where from' and 'know' with crisp inflection rather than helper words.
-- 'Elementary! She came in the morning, which means she doesn't work.' Here the Russian phrasing highlights 'elementary' before landing on 'works'.
-- 'She had almost no makeup on and was in jeans.' Here the Russian phrasing highlights 'was' before landing on 'jeans'.
-- 'That means she wasn't planning to meet with anyone.' The meaning hinges on 'that' working together with 'to intend' in spoken Russian.
-- 'She ordered only a salad. That is a light snack.' The '-a' ending on the past-tense verb for 'to order' marks a female speaker or subject.
-- 'At her age, such a figure only comes through the gym.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'gym'.
-- 'And the nearest decent club is three blocks away.' Notice how Russian expresses 'and' and 'blocks' with crisp inflection rather than helper words.
-- 'So that is how you figured it out?' Vika raises the pitch on 'guessed' to turn the phrase into a direct spoken question. Max answers right away.
-- 'Well, almost. Angelina goes to yoga with her.' Max brings out the contrast between 'come on' and 'almost' in a few short words.
-- 'I am heading there to ask forgiveness for us.' Max anchors the line on 'I', while 'forgiveness' completes the thought.
-- 'You already got us fired. This time I will do it myself.' Notice how Russian expresses 'firing' and 'myself' with crisp inflection rather than helper words.
+- 'Our problem is currently at a club three blocks from here.' Max mentions that their problem is currently at a club three blocks from here so Vika sees what is at stake.
+- 'How do you know?' By wondering how Max knows, Vika presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Elementary! She came in the morning, which means she doesn't work.' Because she came in the morning which means she does not work, Max does not bother softening the blow for Vika. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'She had almost no makeup on and was in jeans.' Max explains that she had almost no makeup on and was in jeans, keeping his voice calm and direct.
+- 'That means she wasn't planning to meet with anyone.' Realizing that that means she was not planning to meet with anyone changes how Max handles the situation.
+- 'She ordered only a salad. That is a light snack.' With the room and work in play, Max keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'At her age, such a figure only comes through the gym.' Even though at her age such a figure only comes through the gym, Max keeps a steady face in front of Vika.
+- 'And the nearest decent club is three blocks away.' Admitting that the nearest decent club is three blocks away shows Max being honest for a change.
+- 'So that is how you figured it out?' Questioning whether that is how Max figured it out is how Vika tests Max's story. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well, almost. Angelina goes to yoga with her.' Once Angelina goes to yoga, Max can finally tell Vika what he means.
+- 'I am heading there to ask forgiveness for us.' Being heading there to ask forgiveness for them is how Max lays out the situation for Vika.
+- 'You already got us fired. This time I will do it myself.' Vika tells Max that Max already got them fired without dressing it up.

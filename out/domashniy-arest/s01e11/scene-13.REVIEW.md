@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | А вы называйте меня просто Вика. | And you call me simply Vika. | #345 00:19:45: А вы меня Вика | verbatim |
-| 2 | Лев | Хорошо, Вика, с большим удовольствием. | Alright, Vika, with great pleasure. | #346 00:19:47: Хорошо | verbatim |
-| 3 | Вика | Мне давно не было так спокойно. | I have not felt so peaceful in a long time. | #345 00:19:45: А вы меня Вика | verbatim |
-| 4 | Лев | Вам нужно хорошенько отдохнуть дома. | You need to have a proper rest at home. | #346 00:19:47: Хорошо | verbatim |
-| 5 | Вика | Все мужчины вокруг только требуют денег. | All the men around only demand money. | #345 00:19:45: А вы меня Вика | verbatim |
-| 6 | Лев | Я здесь только для вашей безопасности. | I am here solely for your safety. | #346 00:19:47: Хорошо | verbatim |
-| 7 | Вика | Вы очень надёжный и добрый человек. | You are a very dependable and kind person. | #345 00:19:45: А вы меня Вика | verbatim |
-| 8 | Лев | Я всегда держу своё мужское слово. | I always keep my word as a man. | #346 00:19:47: Хорошо | verbatim |
-| 9 | Вика | Спасибо, что вы рядом со мной. | Thank you for being here beside me. | #345 00:19:45: А вы меня Вика | verbatim |
-| 10 | Лев | Я не оставлю вас в беде. | I will not leave you in trouble. | #346 00:19:47: Хорошо | verbatim |
-| 11 | Вика | Давайте выпьем ещё горячего чаю. | Let us drink some more hot tea. | #345 00:19:45: А вы меня Вика | verbatim |
-| 12 | Лев | С удовольствием, я налью свежий чай. | With pleasure, I will pour fresh tea. | #346 00:19:47: Хорошо | verbatim |
+| 1 | Вика | А вы называйте меня просто Вика. | And you call me simply Vika. | #345: А вы меня Вика | verbatim |
+| 2 | Лев | Хорошо, Вика, с большим удовольствием. | Alright, Vika, with great pleasure. | #346: Хорошо | verbatim |
+| 3 | Вика | Мне давно не было так спокойно. | I have not felt so peaceful in a long time. | #345: А вы меня Вика | verbatim |
+| 4 | Лев | Вам нужно хорошенько отдохнуть дома. | You need to have a proper rest at home. | #346: Хорошо | verbatim |
+| 5 | Вика | Все мужчины вокруг только требуют денег. | All the men around only demand money. | #345: А вы меня Вика | verbatim |
+| 6 | Лев | Я здесь только для вашей безопасности. | I am here solely for your safety. | #346: Хорошо | verbatim |
+| 7 | Вика | Вы очень надёжный и добрый человек. | You are a very dependable and kind person. | #345: А вы меня Вика | verbatim |
+| 8 | Лев | Я всегда держу своё мужское слово. | I always keep my word as a man. | #346: Хорошо | verbatim |
+| 9 | Вика | Спасибо, что вы рядом со мной. | Thank you for being here beside me. | #345: А вы меня Вика | verbatim |
+| 10 | Лев | Я не оставлю вас в беде. | I will not leave you in trouble. | #346: Хорошо | verbatim |
+| 11 | Вика | Давайте выпьем ещё горячего чаю. | Let us drink some more hot tea. | #345: А вы меня Вика | verbatim |
+| 12 | Лев | С удовольствием, я налью свежий чай. | With pleasure, I will pour fresh tea. | #346: Хорошо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

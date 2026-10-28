@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s05e10-scene-18.
 ID = 'kukhnya-s05e10-scene-18'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 18
-TITLE = "Спор о пяти звёздах  (Arguing for Five Stars)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спор о пяти звёздах  (Arguing for Five Stars)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "mikhail": "anja", "inspector": "angelina"}
-LABELS = {"mikhail": "Михаил", "inspector": "Инспектор"}
+LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'mikhail': 'Михаил'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
-
 INTRO = 'In the lobby, the chairwoman tells Mikhail she can barely stretch the rating to four stars, while Mikhail desperately insists they need five. Just then, the injured inspector Pavel Vladimirovich wakes up and walks out to greet them, exposing the cover-up.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'That concludes the lobby confrontation. Notice how Mikhail panics when the inspector walks out alive and well, asking what fractures he is talking about. See you next time!'
+CLOSING = ('mikhail', 'Хорошего дня!')
 STORY = [
     ('inspector', 'Три звезды у вас точно есть.', 'You definitely have three stars.', [(254, 'Три звезды у вас точно есть')], 'adapted'),
     ('inspector', 'Постараюсь дотянуть до четырёх.', 'I will try to stretch it to four.', [(255, 'Постараюсь дотянуть до четырех')], 'adapted'),
@@ -22,29 +24,22 @@ STORY = [
     ('inspector', 'Комиссия вообще отказалась давать заключение.', 'The commission refused to give an official report at all.', [(260, 'вообще отказалась давать заключение')], 'adapted'),
     ('mikhail', 'Ради вас я пошёл на преступление!', 'For your sake I committed a crime!', [(261, 'ради вас я пошел на преступление')], 'adapted'),
     ('mikhail', 'У нас отличный отель на пять звёзд!', 'We have an excellent five-star hotel!', [(262, 'у нас отличный отель на пять звезд')], 'adapted'),
-    ('mikhail', 'О, какие люди! А вы уже закончили проверять отель?', 'Oh, look who is here! Have you already finished inspecting the hotel?', [(264, 'О, какие люди'), (265, 'А вы уже закончили проверять')], 'adapted'),
+    ('barinov', 'О, какие люди! А вы уже закончили проверять отель?', 'Oh, look who is here! Have you already finished inspecting the hotel?', [(264, 'О, какие люди'), (265, 'А вы уже закончили проверять')], 'adapted'),
     ('mikhail', 'Боже мой, вам же нельзя ходить! У вас везде переломы.', 'My goodness, you must not walk! You have fractures everywhere.', [(266, 'Боже мой, вам же нельзя ходить'), (267, 'У вас везде переломы')], 'adapted'),
-    ('mikhail', 'Вить, какие переломы? Я в порядке!', 'Vitya, what fractures? I am fine!', [(268, 'Вить, какие переломы'), (269, 'Я в порядке')], 'adapted'),
-    ('mikhail', 'Вить, а нам пять звёзд дали или нет?', 'Vitya, did they give us five stars or not?', [(270, 'Вить, а нам пять звезд'), (270, 'или нет')], 'adapted'),
+    ('barinov', 'Вить, какие переломы? Я в порядке!', 'Vitya, what fractures? I am fine!', [(268, 'Вить, какие переломы'), (269, 'Я в порядке')], 'adapted'),
+    ('barinov', 'Вить, а нам пять звёзд дали или нет?', 'Vitya, did they give us five stars or not?', [(270, 'Вить, а нам пять звезд'), (270, 'или нет')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'You definitely have three stars.' the inspector brings out the contrast between 'three' and 'stars' in a few short words."),
-    (1, None, "'I will try to stretch it to four.' the inspector brings out the contrast between 'to try' and 'to stretch' in a few short words."),
-    (2, None, "'We need five!' Mikhail brings out the contrast between 'us' and 'needed' in a few short words."),
-    (3, None, "'Are you in your right mind?' the inspector raises the pitch on 'mind' to turn the phrase into a direct spoken question."),
-    (4, None, "'Do you even imagine what is going on in your hotel?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (5, None, "'The commission refused to give an official report at all.' In everyday Russian, 'commission, inspection board' flows straight into 'conclusion, official report' without extra linking words."),
-    (6, None, "'For your sake I committed a crime!' The meaning hinges on 'for the sake of' working together with 'crime' in spoken Russian."),
-    (7, None, "'We have an excellent five-star hotel!' Here the Russian phrasing highlights 'at' before landing on 'stars'."),
-    (8, None, "'Oh, look who is here! Have you already finished inspecting the hotel?' Notice how Russian expresses 'about' and 'hotel' with crisp inflection rather than helper words."),
-    (9, None, "'My goodness, you must not walk! You have fractures everywhere.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (10, None, "'Vitya, what fractures? I am fine!' Chef Barinov brings out the contrast between 'Vitya' and 'what' in a few short words."),
-    (11, None, "'Vitya, did they give us five stars or not?' Chef Barinov raises the pitch on 'no' to turn the phrase into a direct spoken question."),
+    (0, None, '\'You definitely have three stars.\' Explaining that Barinov definitely have three stars lays the cards on the table for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (1, None, "'I will try to stretch it to four.' The inspector mentions that he will try to stretch it to four so Barinov sees what is at stake."),
+    (2, None, "'We need five!' By needing five, Mikhail raises the stakes in the room at once. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (3, None, '\'Are you in your right mind?\' Checking whether Barinov in Barinov\'s right mind cuts straight through the tension between the inspector and Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (4, None, "'Do you even imagine what is going on in your hotel?' Asking whether Barinov even imagine what is going on in Barinov's hotel is how the inspector puts Barinov on the spot."),
+    (5, None, "'The commission refused to give an official report at all.' Around the inspector and moment, the inspector sets a calm, everyday tone with Barinov."),
+    (6, None, '\'For your sake I committed a crime!\' Over the point and the inspector, Mikhail lets his real feelings show. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (7, None, "'We have an excellent five-star hotel!' Saying that they have an excellent five star hotel is how Mikhail takes charge of the moment."),
+    (8, None, '\'Oh, look who is here! Have you already finished inspecting the hotel?\' Wondering who here is cuts straight through the tension between Barinov and the inspector. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (9, None, '\'My goodness, you must not walk! You have fractures everywhere.\' Because his goodness Barinov must not walk, Mikhail does not bother softening the blow for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (10, None, "'Vitya, what fractures? I am fine!' Barinov asks whether he is fine, refusing to let the point slide."),
+    (11, None, '\'Vitya, did they give us five stars or not?\' Checking whether they give them five stars or not cuts straight through the tension between Barinov and the inspector. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That concludes the lobby confrontation. Notice how Mikhail panics when the inspector walks out alive and well, asking what fractures he is talking about. See you next time!'
-CLOSING = ("mikhail", "Хорошего дня!")

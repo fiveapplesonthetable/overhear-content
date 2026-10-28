@@ -7,7 +7,6 @@ SCENE = 9
 TITLE = 'La nouvelle affiche  (The New Movie Poster)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'

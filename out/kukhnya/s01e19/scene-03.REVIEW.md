@@ -1,39 +1,39 @@
-# Снова допрос  (Interrogation again) — `kukhnya-s01e19-scene-03`
+# kukhnya-s01e19-scene-03: review sheet
 
-**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Снова допрос  (Interrogation again)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.19
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `kostya` | anja | Костя |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Max and Kostya talk in the morning. Max is surprised to see Kostya still at the apartment instead of at work. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Что ты здесь делаешь? | What are you doing here? | #29 "Что ты здесь делаешь? Что не на работе?" |  |
-| 1 | Макс | Что не на работе? | Why aren't you at work? | #29 "Что ты здесь делаешь? Что не на работе?" |  |
-| 2 | Костя | Опять допрос. | Another interrogation. | #31 "Опять допрос. Вы что, сговорились что ли?" |  |
-| 3 | Костя | Вы сговорились что ли? | Did you plan this or something? | #31 "Опять допрос. Вы что, сговорились что ли?" |  |
-| 4 | Макс | Я сегодня во вторую смену. | I am on the second shift today. | #32 "Я сегодня в вторую смену." |  |
-| 5 | Костя | Отлично. Я с тобой поеду. | Great. I will go with you. | #33 "Отлично. Я с тобой поеду." |  |
-| 6 | Макс | Может ты забыл, | Maybe you forgot, | #34 "Костян, может ты забыл, но у тебя вроде это." |  |
-| 7 | Костя | Да, я помню. | Yeah, I remember. | #35 "Да, да, я помню, меня уволили. Мне надо забрать кое-что." |  |
-| 8 | Костя | Меня уволили. | I got fired. | #35 "Да, да, я помню, меня уволили. Мне надо забрать кое-что." |  |
-| 9 | Макс | А что ты не у Вики остался? | Why didn't you stay at Vika's? | #36 "А что ты у Викини остался? Она меня не пустила." |  |
-| 10 | Макс | Она меня не пустила. | She wouldn't let me in. | #36 "А что ты у Викини остался? Она меня не пустила." |  |
-| 11 | Костя | Она все усложнять начала. | She started making everything complicated. | #39 "Она все усложнять начала." |  |
+| 1 | Макс | Что ты здесь делаешь? | What are you doing here? | #29: Что ты здесь делаешь? Что не на работе? | verbatim |
+| 2 | Макс | Что не на работе? | Why aren't you at work? | #29: Что ты здесь делаешь? Что не на работе? | verbatim |
+| 3 | Костя | Опять допрос. | Another interrogation. | #31: Опять допрос. Вы что, сговорились что ли? | verbatim |
+| 4 | Костя | Вы сговорились что ли? | Did you plan this or something? | #31: Опять допрос. Вы что, сговорились что ли? | verbatim |
+| 5 | Макс | Я сегодня во вторую смену. | I am on the second shift today. | #32: Я сегодня в вторую смену. | verbatim |
+| 6 | Костя | Отлично. Я с тобой поеду. | Great. I will go with you. | #33: Отлично. Я с тобой поеду. | verbatim |
+| 7 | Макс | Может ты забыл, | Maybe you forgot, | #34: Костян, может ты забыл, но у тебя вроде это. | verbatim |
+| 8 | Костя | Да, я помню. | Yeah, I remember. | #35: Да, да, я помню, меня уволили. Мне надо забрать кое-что. | verbatim |
+| 9 | Костя | Меня уволили. | I got fired. | #35: Да, да, я помню, меня уволили. Мне надо забрать кое-что. | verbatim |
+| 10 | Макс | А что ты не у Вики остался? | Why didn't you stay at Vika's? | #36: А что ты у Викини остался? Она меня не пустила. | verbatim |
+| 11 | Макс | Она меня не пустила. | She wouldn't let me in. | #36: А что ты у Викини остался? Она меня не пустила. | verbatim |
+| 12 | Костя | Она все усложнять начала. | She started making everything complicated. | #39: Она все усложнять начала. | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Kostya explains that he was fired, and they both complain about their recent relationship struggles. Next time you watch the episode, listen for the Russian expressions for 'here' and 'to do' — you will catch every word right away. See you next time!
-
-**Костя:** До свидания.
+- 'What are you doing here?' Max puts the word for 'here' together with 'are you doing' in a crisp, natural spoken turn of phrase.
+- 'Why aren't you at work?' Max delivers a punchy one-word reaction built around the Russian word meaning 'work'.
+- 'Another interrogation.' Russian omits the present-tense verb 'to be' here, linking 'again' directly with 'interrogation', combining 'again' with 'interrogation'.
+- 'Did you plan this or something?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'conspired'.
+- 'I am on the second shift today.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'second', combining 'today' with 'second' and 'shift'.
+- 'Great. I will go with you.' Here Kostya anchors the line on the word meaning 'perfect' and builds the thought around 'will go'.
+- 'Maybe you forgot,' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Yeah, I remember.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'remember'.
+- 'I got fired.' Here the verb for 'to fire' takes the everyday past-tense ending '-li', which is also used for the polite 'you'.
+- 'Why didn' t you stay at Vika's?' Max uses the informal everyday 'you' here with 'remained', as friends and close colleagues do.
+- 'She wouldn' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'She started making everything complicated.' Kostya chooses the action verb meaning 'complicate' for the ongoing action, followed by 'beginning'.

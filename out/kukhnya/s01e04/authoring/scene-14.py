@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 14
-TITLE = "Кудрявая причёска  (The Curly Hairstyle)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Кудрявая причёска  (The Curly Hairstyle)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "While delivering drinks, Kostya attempts to pay waitress Nastya a romantic compliment about her new curls. Unfortunately, comparing her hair to a little sheep backfires completely when an insulted Nastya retaliates. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational compliments, expressive adjectives, and humorous misunderstandings."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya's clumsy animal comparison ruins his romantic moment, leaving him scrambling to apologize to an annoyed Nastya. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'stupid' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, посмотри на меня одну секунду.', 'Nastya, look at me for one second.', [(173, 'Настя')], ''),
     ('nastya', 'Что случилось, Костя?', 'What happened, Kostya?', [(173, 'Что')], ''),

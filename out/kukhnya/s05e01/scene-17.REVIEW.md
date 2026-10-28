@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Сейчас префект перережет нашу ленту. | Right now the prefect will cut our ribbon. | #261 00:19:44: префект<br>#262 00:19:49: перережет ленту | adapted: adapted |
-| 2 | Шеф | Аплодисменты, дамы и господа! | Applause, ladies and gentlemen! | #263 00:19:53: Аплодисменты, дамы и господа | adapted: verbatim |
-| 3 | Шеф | Добро пожаловать в отель! | Welcome to the hotel! | #264 00:19:55: Добро пожаловать | adapted: adapted |
-| 4 | Шеф | А где моя пицца? | And where is my pizza? | #265 00:20:24: А где пицца? | adapted: adapted |
-| 5 | Шеф | Всё будет. Не беспокойся. | Everything will be ready. Do not worry. | #266 00:20:26: Все будет. Не беспокойся | adapted: verbatim |
-| 6 | Сеня | Приехала горячая пицца, доставка. | The hot pizza arrived, delivery. | #267 00:20:29: Пицца<br>#267 00:20:29: Доставка | adapted: adapted |
-| 7 | Сеня | Кто здесь шеф Баринов? | Who here is Chef Barinov? | #268 00:20:31: Кто баринов? | adapted: adapted |
-| 8 | Шеф | Давайте сюда, проверяйте заказ. | Hand it here, check the order. | #269 00:20:35: Проверяйте | adapted: adapted |
-| 9 | Шеф | У меня всё готово. | I have everything ready. | #270 00:20:51: У меня все готово | adapted: verbatim |
-| 10 | Сеня | Где наши красивые лепестки? | Where are our beautiful rose petals? | #271 00:20:53: Где лепестки? | adapted: adapted |
-| 11 | Шеф | Они на складе в коробке. | They are in the storage room in a box. | #271 00:20:53: На складе в<br>#271 00:20:53: коробке | adapted: adapted |
-| 12 | Сеня | Я сейчас принесу эту коробку. | I will bring that box right now. | #271 00:20:53: коробке | adapted: adapted |
+| 1 | Михаил | Сейчас префект перережет нашу ленту. | Right now the prefect will cut our ribbon. | #261: префект<br>#262: перережет ленту | adapted: adapted |
+| 2 | Михаил | Аплодисменты, дамы и господа! | Applause, ladies and gentlemen! | #263: Аплодисменты, дамы и господа | adapted: verbatim |
+| 3 | Михаил | Добро пожаловать в отель! | Welcome to the hotel! | #264: Добро пожаловать | adapted: adapted |
+| 4 | Михаил | А где моя пицца? | And where is my pizza? | #265: А где пицца? | adapted: adapted |
+| 5 | Шеф | Всё будет. Не беспокойся. | Everything will be ready. Do not worry. | #266: Все будет. Не беспокойся | adapted: verbatim |
+| 6 | Сеня | Приехала горячая пицца, доставка. | The hot pizza arrived, delivery. | #267: Пицца<br>#267: Доставка | adapted: adapted |
+| 7 | Сеня | Кто здесь шеф Баринов? | Who here is Chef Barinov? | #268: Кто баринов? | adapted: adapted |
+| 8 | Шеф | Давайте сюда, проверяйте заказ. | Hand it here, check the order. | #269: Проверяйте | adapted: adapted |
+| 9 | Шеф | У меня всё готово. | I have everything ready. | #270: У меня все готово | adapted: verbatim |
+| 10 | Сеня | Где наши красивые лепестки? | Where are our beautiful rose petals? | #271: Где лепестки? | adapted: adapted |
+| 11 | Шеф | Они на складе в коробке. | They are in the storage room in a box. | #271: На складе в<br>#271: коробке | adapted: adapted |
+| 12 | Сеня | Я сейчас принесу эту коробку. | I will bring that box right now. | #271: коробке | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now the prefect will cut our ribbon.' Mikhail anchors the line on 'now', while 'ribbon' completes the thought.
-- 'Applause, ladies and gentlemen!' The grammar packs 'applause' and 'gentlemen' into a tight, idiomatic kitchen exchange.
-- 'Welcome to the hotel!' Mikhail anchors the line on 'good', while 'hotel' completes the thought.
-- 'And where is my pizza?' Mikhail pairs 'where' with 'pizza' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Everything will be ready. Do not worry.' Here the Russian phrasing highlights 'everything' before landing on 'worry'. Senya answers right away.
-- 'The hot pizza arrived, delivery.' Here the Russian phrasing highlights 'came' before landing on 'delivery'.
-- 'Who here is Chef Barinov?' The meaning hinges on 'who' working together with 'proper name' in spoken Russian.
-- 'Hand it here, check the order.' Chef Barinov brings out the contrast between 'let's' and 'here' in a few short words.
-- 'I have everything ready.' Chef Barinov brings out the contrast between 'at' and 'me' in a few short words.
-- 'Where are our beautiful rose petals?' In Russian, the idea of 'where' flows naturally into 'rose petals' without extra filler words.
-- 'They are in the storage room in a box.' The meaning hinges on 'they' working together with 'in the box' in spoken Russian. Senya answers right away.
-- 'I will bring that box right now.' In Russian, the idea of 'I' flows naturally into 'box' without extra filler words.
+- 'Right now the prefect will cut our ribbon.' Claiming that right now the prefect will cut their ribbon sounds confident, even if Barinov has doubts.
+- 'Applause, ladies and gentlemen!' With the work and hotel at stake, Mikhail reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Welcome to the hotel!' Over the point and the hotel, Mikhail lets his real feelings show.
+- 'And where is my pizza?' Here asking where his pizza is shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Everything will be ready. Do not worry.' Noting that everything will be ready keeps Barinov's side of the story simple and clear.
+- 'The hot pizza arrived, delivery.' With the moment and hotel in play, Senya keeps this short reply brisk and direct.
+- 'Who here is Chef Barinov?' Questioning whether who here is Chef Barinov is how Senya tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Hand it here, check the order.' Here handing it here check the order sets up the next turn in their exchange. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'I have everything ready.' Noting that he has everything ready keeps Barinov's side of the story simple and clear.
+- 'Where are our beautiful rose petals?' Wondering where their beautiful rose petals are cuts straight through the tension between Senya and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'They are in the storage room in a box.' Saying that they are in the storage room in a box is how Barinov sets the tone with Mikhail.
+- 'I will bring that box right now.' Since he will bring that box right now, Senya does not waste words on excuses.

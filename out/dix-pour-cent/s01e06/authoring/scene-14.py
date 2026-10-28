@@ -7,8 +7,7 @@ SCENE = 14
 TITLE = 'Un message pour Berléand  (A Message for Berléand)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'christophe': 'theo', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'christophe': 'Christophe', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'christophe': 'Christophe', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Over dinner at the bistro, Christophe challenges Andréa to demonstrate her powers of persuasion. Smiling, she takes his smartphone, types a quick text pretending to be Christophe, and sends an invitation directly to François Berléand. When Andréa arrives home at three in the morning, an angry Colette is waiting for her with an ultimatum. Let's hear the scene in French first."
@@ -18,16 +17,16 @@ OUTRO = "Andréa pulled off a brilliant trick by texting Berléand, but now she 
 CLOSING = ('christophe', 'Au revoir!')
 STORY = [
     ('christophe', "Par exemple, qu'est-ce que tu veux?", 'For example, what do you want?', [(382, "Par exemple, qu'est-ce que"), (382, 'je veux')], ''),
-    ('lea', 'Je veux que tu appelles François.', 'I want you to call François.', [(384, 'Je veux que tu appelles François')], ''),
-    ('lea', 'Regarde comment je fais.', 'Look at how I do it.', [(385, "comment je m'y prends"), (385, 'comment')], ''),
-    ('lea', 'Je glisse ma main ici et je prends ton téléphone.', 'I slide my hand in here and take your phone.', [(388, 'Je glisse ma main ici'), (388, 'et je prends ça')], ''),
-    ('lea', "Je fais glisser mes doigts sur l'écran.", 'I slide my fingers across the screen.', [(389, 'je fais glisser'), (390, "mes jolis petits doigts sur l'écran")], ''),
-    ('lea', "Je termine en l'envoyant. Résultat!", 'I finish by sending it. Result!', [(391, "Je termine en l'envoyant"), (392, 'Résultat')], ''),
+    ('andrea', 'Je veux que tu appelles François.', 'I want you to call François.', [(384, 'Je veux que tu appelles François')], ''),
+    ('andrea', 'Regarde comment je fais.', 'Look at how I do it.', [(385, "comment je m'y prends"), (385, 'comment')], ''),
+    ('andrea', 'Je glisse ma main ici et je prends ton téléphone.', 'I slide my hand in here and take your phone.', [(388, 'Je glisse ma main ici'), (388, 'et je prends ça')], ''),
+    ('andrea', "Je fais glisser mes doigts sur l'écran.", 'I slide my fingers across the screen.', [(389, 'je fais glisser'), (390, "mes jolis petits doigts sur l'écran")], ''),
+    ('andrea', "Je termine en l'envoyant. Résultat!", 'I finish by sending it. Result!', [(391, "Je termine en l'envoyant"), (392, 'Résultat')], ''),
     ('christophe', "Qu'est-ce que tu as fait?", 'What did you do?', [(393, "Qu'est-ce que tu as fait")], ''),
     ('christophe', 'Tu as envoyé un message à Berléand!', 'You sent a message to Berléand!', [(395, 'Tu as envoyé un message'), (396, 'À Berléand')], ''),
     ('christophe', "Ce n'est pas vrai!", 'It is not true!', [(397, "C'est pas vrai")], ''),
     ('colette', "Tu m'as dit d'attendre, et tu n'es pas rentrée.", 'You told me to wait, and you did not come home.', [(399, "Tu m'as dit d'attendre, et tu n'es pas rentré")], ''),
-    ('lea', "C'était strictement professionnel, tu le sais.", 'It was strictly professional, you know that.', [(402, "C'était strictement professionnel, tu le sais")], ''),
+    ('andrea', "C'était strictement professionnel, tu le sais.", 'It was strictly professional, you know that.', [(402, "C'était strictement professionnel, tu le sais")], ''),
     ('colette', 'On fait ce que je veux ce soir.', 'We do what I want this evening.', [(405, 'On fait ce que je veux ce soir')], ''),
     ('colette', 'On retrouve mes amies.', 'We meet my friends.', [(406, 'On retrouve mes amies')], ''),
 ]

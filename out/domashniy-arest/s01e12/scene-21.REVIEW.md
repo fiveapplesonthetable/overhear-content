@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Отец Григорий | Марина, я узнаю в тебе твоего отца. | Marina, I recognize your father in you. | #540 00:47:06: Узнаю твоего отца | adapted: recognizing resemblance |
+| 1 | Отец Григорий | Марина, я узнаю в тебе твоего отца. | Marina, I recognize your father in you. | #540: Узнаю твоего отца | adapted: recognizing resemblance |
 | 2 | Марина | Спасибо за эти добрые слова, отец Григорий. | Thank you for these kind words, Father Grigory. | new | new: thanking priest |
 | 3 | Отец Григорий | Твой отец тоже всегда смело защищал правду. | Your father also always boldly defended the truth. | new | new: praising father |
 | 4 | Марина | Я всегда стараюсь поступать честно, как он. | I always try to act honestly, like him. | new | new: explaining values |

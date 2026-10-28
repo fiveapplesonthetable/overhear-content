@@ -4,27 +4,26 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 21
-TITLE = "Короткий разговор  (Brief Exchange)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Короткий разговор  (Brief Exchange)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
-LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "Max's dangerous stunt goes horribly wrong when he accidentally slips. He finds himself actually hanging and cries out for help. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max calls out to Vika in the hallway before discussing the plan. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to know' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Я хочу, чтобы ты знала.', 'I want you to know.', [], ''),
-    ('anya', 'Я люблю тебя.', 'I love you.', [], ''),
+    ('max', 'Я хочу, чтобы ты знала.', 'I want you to know.', [], ''),
+    ('max', 'Я люблю тебя.', 'I love you.', [], ''),
     ('vika', 'Прекрати.', 'Stop it.', [], ''),
     ('vika', 'Ты хочешь вешаться?', 'Do you want to hang yourself?', [], ''),
     ('vika', 'Мне все равно.', "I don't care.", [], ''),
-    ('anya', 'Постой.', 'Wait.', [], ''),
-    ('anya', 'Я не шучу.', 'I am not joking.', [], ''),
-    ('anya', 'Помоги!', 'Help!', [], ''),
+    ('max', 'Постой.', 'Wait.', [], ''),
+    ('max', 'Я не шучу.', 'I am not joking.', [], ''),
+    ('max', 'Помоги!', 'Help!', [], ''),
     ('kostya', 'Что вы наделали, Виктория?', 'What have you done, Victoria?', [(264, 'Вик')], ''),
     ('kostya', 'Вы убили его.', 'You killed him.', [], ''),
     ('vika', 'Костя, помоги ему!', 'Kostya, help him!', [], ''),

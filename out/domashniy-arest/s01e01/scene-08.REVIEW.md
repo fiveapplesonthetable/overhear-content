@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста. | What a lovely morning! Lidia Alekseyevna, a cup of coffee, please. | #323 00:19:57: Какое хорошее утро<br>#324 00:20:02: Лидия Алексеевна<br>#324 00:20:02: пожалуйста | adapted: 'чашечку Американо' -> 'чашку кофе' |
-| 2 | Лидия Алексеевна | Хорошо, Аркадий Борисович. | Of course, Arkady Borisovich. | #325 00:20:04: Хорошо, Аркадий Борисович | verbatim |
-| 3 | Паша | Аркаш, можно? | Arkasha, may I come in? | #326 00:20:19: Аркаш, можно | verbatim |
-| 4 | Аня | Заходи. | Come in. | #327 00:20:19: Заходи | verbatim |
-| 5 | Паша | Реакция положительная. Людям нравится. | The reaction is positive. People like it. | #328 00:20:22: Реакция<br>#328 00:20:22: положительная | adapted: 'на вступление' dropped; 'Людям нравится' new, after cue 329 (the voters are in a good mood) |
-| 6 | Аня | Хорошо. А что с торговым центром? | Good. And what about the shopping centre? | #330 00:20:26: с торговым центром что | adapted: word order made standard, 'у нас' dropped, 'Хорошо' added |
-| 7 | Паша | Аракелян просит время. Сумма очень большая. | Arakelyan is asking for more time. The sum is very large. | #331 00:20:28: просит<br>#331 00:20:28: сумма очень большая | adapted: name normalised (Саракелян -> Аракелян); 'отсрочек' -> 'время' |
-| 8 | Аня | Три дня ему даём. Всё. | We give him three days. That's it. | #332 00:20:32: три дня ему даем<br>#333 00:20:33: Все | verbatim |
-| 9 | Паша | Аркаш, мне москвичи звонят каждый день. Может, всё-таки передумаем? | Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all? | #337 00:20:39: мне москвичи звонят каждый день<br>#339 00:20:52: все-таки передумаем | adapted: 'слушай' and 'мы' dropped |
-| 10 | Аня | Я же сказал: нет. | I told you: no. | #341 00:20:55: сказал нет | adapted: 'чётко' (clearly) dropped |
-| 11 | Паша | Там такие деньги! Деньги рекой потекут. | There's so much money in it! Money will flow like a river. | #342 00:20:57: там такие<br>#344 00:21:02: рекой потекут | adapted: 'суммы' -> 'деньги', slang 'бабки' -> 'деньги' |
-| 12 | Аня | А потом отходы потекут. | And then waste will flow. | #345 00:21:03: А потом отходы потекут | verbatim |
-| 13 | Паша | Мы же бизнесом здесь занимаемся. | But we're in business here. | #346 00:21:05: бизнесом здесь занимаемся | adapted: 'вроде как' dropped, 'же' added |
-| 14 | Аня | Жадность, Паша, должна быть умеренная. Комнатной температуры. | Greed, Pasha, should be moderate. Room temperature. | #359 00:21:45: Жадность, Паша, должна быть умеренная<br>#360 00:21:51: Комнатной температуры | verbatim |
-| 15 | Аня | Посмотри, какой у нас город прекрасный. Озёра, луга. | Look what a beautiful town we have. Lakes, meadows. | #349 00:21:16: посмотри, какой у нас<br>#349 00:21:16: прекрасный<br>#350 00:21:22: Озера, луга | adapted: 'городок' -> 'город' |
-| 16 | Аня | Мы же здесь выросли. И о людях тоже надо думать. | After all, we grew up here. And you have to think about people too. | #352 00:21:26: здесь выросли<br>#354 00:21:30: И о людях тоже | adapted: 'все-таки' -> 'же'; 'думать надо' -> 'надо думать', 'Паш' dropped |
-| 17 | Паша | Я бы на твоём месте подумал. | If I were you, I'd think about it. | #361 00:21:53: я бы на твоем месте подумал | verbatim |
-| 18 | Аня | Вот поэтому ты и не на моём месте. | And that's exactly why you're not in my place. | #362 00:21:57: Вот поэтому<br>#362 00:21:57: ты и не на моём месте | adapted: 'Паш' dropped |
+| 1 | Аркадий | Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста. | What a lovely morning! Lidia Alekseyevna, a cup of coffee, please. | #323: Какое хорошее утро<br>#324: Лидия Алексеевна<br>#324: пожалуйста | adapted: 'чашечку Американо' -> 'чашку кофе' |
+| 2 | Лидия Алексеевна | Хорошо, Аркадий Борисович. | Of course, Arkady Borisovich. | #325: Хорошо, Аркадий Борисович | verbatim |
+| 3 | Паша | Аркаш, можно? | Arkasha, may I come in? | #326: Аркаш, можно | verbatim |
+| 4 | Аркадий | Заходи. | Come in. | #327: Заходи | verbatim |
+| 5 | Паша | Реакция положительная. Людям нравится. | The reaction is positive. People like it. | #328: Реакция<br>#328: положительная | adapted: 'на вступление' dropped; 'Людям нравится' new, after cue 329 (the voters are in a good mood) |
+| 6 | Аркадий | Хорошо. А что с торговым центром? | Good. And what about the shopping centre? | #330: с торговым центром что | adapted: word order made standard, 'у нас' dropped, 'Хорошо' added |
+| 7 | Паша | Аракелян просит время. Сумма очень большая. | Arakelyan is asking for more time. The sum is very large. | #331: просит<br>#331: сумма очень большая | adapted: name normalised (Саракелян -> Аракелян); 'отсрочек' -> 'время' |
+| 8 | Аркадий | Три дня ему даём. Всё. | We give him three days. That's it. | #332: три дня ему даем<br>#333: Все | verbatim |
+| 9 | Паша | Аркаш, мне москвичи звонят каждый день. Может, всё-таки передумаем? | Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all? | #337: мне москвичи звонят каждый день<br>#339: все-таки передумаем | adapted: 'слушай' and 'мы' dropped |
+| 10 | Аркадий | Я же сказал: нет. | I told you: no. | #341: сказал нет | adapted: 'чётко' (clearly) dropped |
+| 11 | Паша | Там такие деньги! Деньги рекой потекут. | There's so much money in it! Money will flow like a river. | #342: там такие<br>#344: рекой потекут | adapted: 'суммы' -> 'деньги', slang 'бабки' -> 'деньги' |
+| 12 | Аркадий | А потом отходы потекут. | And then waste will flow. | #345: А потом отходы потекут | verbatim |
+| 13 | Паша | Мы же бизнесом здесь занимаемся. | But we're in business here. | #346: бизнесом здесь занимаемся | adapted: 'вроде как' dropped, 'же' added |
+| 14 | Аркадий | Жадность, Паша, должна быть умеренная. Комнатной температуры. | Greed, Pasha, should be moderate. Room temperature. | #359: Жадность, Паша, должна быть умеренная<br>#360: Комнатной температуры | verbatim |
+| 15 | Аркадий | Посмотри, какой у нас город прекрасный. Озёра, луга. | Look what a beautiful town we have. Lakes, meadows. | #349: посмотри, какой у нас<br>#349: прекрасный<br>#350: Озера, луга | adapted: 'городок' -> 'город' |
+| 16 | Аркадий | Мы же здесь выросли. И о людях тоже надо думать. | After all, we grew up here. And you have to think about people too. | #352: здесь выросли<br>#354: И о людях тоже | adapted: 'все-таки' -> 'же'; 'думать надо' -> 'надо думать', 'Паш' dropped |
+| 17 | Паша | Я бы на твоём месте подумал. | If I were you, I'd think about it. | #361: я бы на твоем месте подумал | verbatim |
+| 18 | Аркадий | Вот поэтому ты и не на моём месте. | And that's exactly why you're not in my place. | #362: Вот поэтому<br>#362: ты и не на моём месте | adapted: 'Паш' dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Come in.' Arkady uses the familiar form with Pasha. Pasha starts with the campaign news.
 - 'The reaction is positive. People like it.' Yesterday Arkady announced that he's running for mayor again, and the voters seem pleased. Notice the second sentence: literally, 'to people it is pleasing'. Arkady moves on to money.
 - 'Good. And what about the shopping centre?' A businessman, Arakelyan, has to pay a large sum to get the land for a new shopping centre.
-- 'Arakelyan is asking for more time. The sum is very large.' Arkady is not impressed.
+- 'Arakelyan is asking for more time. The sum is very large.' Right then, Arkady is not impressed.
 - 'We give him three days. That's it.' If the money doesn't come, Arkady says, the land goes to someone else. Now Pasha comes to what he really wants.
 - 'Arkasha, the people from Moscow call me every day.' Literally, 'to me Muscovites call'. Some Moscow investors want to build a huge industrial complex, a 'cluster', near the town.
 - 'Maybe we should reconsider after all?' It's the same verb Arkady used yesterday with Samson, about changing your mind. Arkady has already said no.

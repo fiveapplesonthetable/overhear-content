@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 2
-TITLE = "Спор в прямом эфире  (On-Air Debate)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спор в прямом эфире  (On-Air Debate)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
-LABELS = {"chef": "Шеф", "elena": "Елена"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Live on the morning culinary broadcast 'A Tasty Morning', Chef Viktor Barinov demonstrates preparing a delicate young lamb dish. As the cameras roll, Barinov provokes rival head chef Elena Sokolova by claiming that male chefs inherently prepare meat better and asserting that women lack the stamina for professional restaurant leadership. Let's listen to their heated television exchange in Russian first."
 OPENER = "Now let's examine Barinov and Elena's on-air debate line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Elena bristles at Barinov's arrogant chauvinism, setting the stage for an explosive confrontation as the live broadcast continues into the commercial break. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Сегодня я приготовлю мясо молодого ягнёнка.', 'Today I will prepare meat of a young lamb.', [(20, 'Я приготовлю сегодня жигой гненка')], ''),
+    ('barinov', 'Сегодня я приготовлю мясо молодого ягнёнка.', 'Today I will prepare meat of a young lamb.', [(20, 'Я приготовлю сегодня жигой гненка')], ''),
     ('elena', 'Какое интересное и сложное мясное блюдо!', 'What an interesting and complex meat dish!', [(22, 'Это блюдо')], ''),
-    ('chef', 'Такое блюдо лучше всего готовят мужчины.', 'Men prepare such a dish best of all.', [(22, 'лучше всего удается поварам-мужчинам')], ''),
+    ('barinov', 'Такое блюдо лучше всего готовят мужчины.', 'Men prepare such a dish best of all.', [(22, 'лучше всего удается поварам-мужчинам')], ''),
     ('elena', 'Почему вы говорите такие странные вещи?', 'Why do you say such strange things?', [(28, 'вы действительно считаете, что')], ''),
-    ('chef', 'Женщины часто режут мясо совсем неправильно.', 'Women often cut meat completely incorrectly.', [(25, 'а женщинам что-то норовят поперек')], ''),
+    ('barinov', 'Женщины часто режут мясо совсем неправильно.', 'Women often cut meat completely incorrectly.', [(25, 'а женщинам что-то норовят поперек')], ''),
     ('elena', 'Вы просто не уважаете женский талант.', 'You simply do not respect female talent.', [], ''),
-    ('chef', 'Женщина не способна стать великим шефом.', 'A woman is not capable of becoming a great chef.', [(26, 'женщина априори не может быть хорошим поваром')], ''),
+    ('barinov', 'Женщина не способна стать великим шефом.', 'A woman is not capable of becoming a great chef.', [(26, 'женщина априори не может быть хорошим поваром')], ''),
     ('elena', 'Я руковожу кухней известного ресторана Аркабалено!', 'I run the kitchen of the famous Arcobaleno restaurant!', [], ''),
-    ('chef', 'Настоящий шеф-повар требует сильной воли.', 'A real head chef requires strong willpower.', [(27, 'Женщина на кухне — это кухарка')], ''),
+    ('barinov', 'Настоящий шеф-повар требует сильной воли.', 'A real head chef requires strong willpower.', [(27, 'Женщина на кухне — это кухарка')], ''),
     ('elena', 'У меня есть опыт и сильная воля.', 'I have experience and strong willpower.', [], ''),
-    ('chef', 'Для вас кухня остаётся обычной работой.', 'For you the kitchen remains an ordinary job.', [], ''),
+    ('barinov', 'Для вас кухня остаётся обычной работой.', 'For you the kitchen remains an ordinary job.', [], ''),
     ('elena', 'Кухня — это вся моя жизнь, Виктор!', 'The kitchen is my whole life, Viktor!', [], ''),
-    ('chef', 'Мы скоро проверим ваши смелые слова.', 'We will soon check your bold words.', [], ''),
+    ('barinov', 'Мы скоро проверим ваши смелые слова.', 'We will soon check your bold words.', [], ''),
 ]
 WALK = [
     (0, None, "'Today I will prepare meat of a young lamb.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

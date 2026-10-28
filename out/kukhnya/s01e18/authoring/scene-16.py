@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 16
-TITLE = "Неуклюжий бармен  (The Clumsy Bartender)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неуклюжий бармен  (The Clumsy Bartender)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja"}
-LABELS = {"kostya": "Костя"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Kostya approaches Viktor's table to try and swap the poisoned cognac bottle back. Viktor gets angry and tells him to go away. Let us listen to their conversation in Russian first."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya approaches Viktor's table to try and swap the poisoned cognac bottle back. Viktor gets angry and tells him to go away. Next time you watch the episode, listen for the Russian expressions for 'to excuse' and 'pleasant' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('kostya', 'Извините, приятного вам вечера.', 'Excuse me, have a pleasant evening.', [(295, 'Извини, приятного вечера.')], ''),
-    ('kostya', 'Что тебе нужно от меня?', 'What do you need from me?', [(296, 'Че тебе надо?')], ''),
+    ('barinov', 'Что тебе нужно от меня?', 'What do you need from me?', [(296, 'Че тебе надо?')], ''),
     ('kostya', 'Мне нужна эта бутылка.', 'I need this bottle.', [(297, 'Я бутылку...')], ''),
-    ('kostya', 'О чём ты говоришь?', 'What are you talking about?', [(298, 'это... Чего я бутылка?')], ''),
+    ('barinov', 'О чём ты говоришь?', 'What are you talking about?', [(298, 'это... Чего я бутылка?')], ''),
     ('kostya', 'Я возьму эту бутылку.', 'I will take this bottle.', [(299, 'Я вот эту вот возьму,')], ''),
     ('kostya', 'А вам поставлю другую.', 'And I will put another one for you.', [(299, 'а эту поставлю.')], ''),
-    ('kostya', 'Тебе что, совсем нечего делать?', 'Do you have absolutely nothing to do?', [(300, 'Тебе заняться нечем?')], ''),
+    ('barinov', 'Тебе что, совсем нечего делать?', 'Do you have absolutely nothing to do?', [(300, 'Тебе заняться нечем?')], ''),
     ('kostya', 'Нет, я просто хочу дать другую.', 'No, I just want to give another one.', [(300, 'Нет, я вот эту вот возьму, а эту поставлю.')], ''),
-    ('kostya', 'Не трогай ничего, иди отсюда!', 'Do not touch anything, get out of here!', [(301, 'Иди отсюда.')], ''),
+    ('barinov', 'Не трогай ничего, иди отсюда!', 'Do not touch anything, get out of here!', [(301, 'Иди отсюда.')], ''),
     ('kostya', 'Но я должен её забрать.', 'But I must take it.', [], ''),
-    ('kostya', 'Я сказал, иди отсюда!', 'I said, get out of here!', [], ''),
+    ('barinov', 'Я сказал, иди отсюда!', 'I said, get out of here!', [], ''),
     ('kostya', 'Понятно, давай дальше.', "Got it, let's move on.", [], ''),
 ]
 WALK = [

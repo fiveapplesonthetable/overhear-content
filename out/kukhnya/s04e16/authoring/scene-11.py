@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s04e16-scene-11.
 ID = 'kukhnya-s04e16-scene-11'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 16
 SCENE = 11
-TITLE = "Меню на Хэллоуин  (The Halloween Menu)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Меню на Хэллоуин  (The Halloween Menu)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "german": "anja", "vika": "angelina"}
-LABELS = {"german": "Герман", "vika": "Вика"}
+LABELS = {'german': 'Герман', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.16'
 SOURCE_FILE = 'sources/kukhnya/s04/e16.ru.srt'
-
 INTRO = 'In the kitchen, German unveils his special Halloween tasting menu for Vika. Every dish is crafted to look delightfully eerie, from eclairs shaped like fingers with almond fingernails to Belgian chocolate spiders—until Vika points at a plate of ordinary roasted chicken legs.'
-
+OPENER = "Let's step through German's spooky culinary creations for the Halloween banquet."
+TRANSITION = 'Now listen to the complete Halloween menu tasting at natural speed.'
+OUTRO = 'With the Halloween menu approved, the restaurant prepares for the big corporate show—while Nagiyev arrives wearing his prized Italian shoes. Until next time!'
+CLOSING = ('german', 'До встречи!')
 STORY = [
     ('german', 'Посмотрите, Вика, наше праздничное меню уже готово.', 'Look, Vika, our festive menu is already ready.', [(129, 'Эклеры в виде пальцев')], 'adapted'),
     ('german', 'Вот сладкие эклеры в виде длинных пальцев.', 'Here are sweet eclairs in the shape of long fingers.', [(129, 'Эклеры в виде пальцев')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('vika', 'Понятно, это просто обед для наших поваров!', 'Got it, that is simply lunch for our cooks!', [(133, 'Из куриных ножек?')], 'adapted'),
     ('german', 'Совершенно верно, поварам тоже нужно хорошо обедать!', 'Quite right, the cooks also need to eat a good lunch!', [(133, 'Из куриных ножек?')], 'adapted'),
 ]
-
-OPENER = "Let's step through German's spooky culinary creations for the Halloween banquet."
-
 WALK = [
-    (0, None, "'Look, Vika, our festive menu is already ready.' German invites Vika to inspect the tasting plates with a short neuter adjective."),
-    (1, None, "'Here are sweet eclairs in the shape of long fingers.' German pairs 'sweet' with 'finger; toe' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (2, None, "'The sharp fingernails are made of thin white almond.' Notice how Russian puts 'sharp; spicy' and 'almond, almonds' together in a short, direct phrase where word endings show how the ideas connect."),
-    (3, None, "'And here are black spiders made of Belgian chocolate.' Here German anchors the thought on 'black' and finishes on 'chocolate', keeping the spoken rhythm brisk and natural."),
-    (4, None, "'It looks very scary and appetizing at the same time!' Vika admires the desserts using two contrasting adverbs."),
-    (5, None, "'Next we have a hot soup made of seafood.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (6, None, "'On top lies a scary octopus made of unleavened dough.' Notice how Russian puts 'upstairs, from above' and 'dough' together in a short, direct phrase where word endings show how the ideas connect."),
-    (7, None, "'Our guests from the bank will definitely like this!' Here Vika anchors the thought on 'guests' and finishes on 'is liked, pleases', keeping the spoken rhythm brisk and natural."),
-    (8, None, "'And what are these chicken legs made of?' Vika points curiously at a platter of drumsticks."),
-    (9, None, "'Ordinary chicken legs are made of chicken legs.' German pairs 'ordinary' with 'are placed, made' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (10, None, "'Got it, that is simply lunch for our cooks!' Vika laughs as she realizes that plate belongs to the staff meal."),
-    (11, None, "'Quite right, the cooks also need to eat a good lunch!' Here German anchors the thought on 'completely' and finishes on 'to have lunch', keeping the spoken rhythm brisk and natural."),
+    (0, None, "'Look, Vika, our festive menu is already ready.' Realizing that their festive menu is already ready changes how German handles the situation."),
+    (1, None, "'Here are sweet eclairs in the shape of long fingers.' Noting that here are sweet eclairs in the shape of long fingers keeps German's side of the story simple and clear."),
+    (2, None, "'The sharp fingernails are made of thin white almond.' Even though the sharp fingernails are made of thin white almond, German keeps a steady face in front of Vika."),
+    (3, None, "'And here are black spiders made of Belgian chocolate.' Admitting that here are black spiders made of Belgian chocolate shows German being honest for a change."),
+    (4, None, "'It looks very scary and appetizing at the same time!' Once it looks very scary and appetizing at the same time, Vika makes sure German hears every word. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (5, None, "'Next we have a hot soup made of seafood.' Once next they have a hot soup made of seafood, German can finally tell Vika what he means."),
+    (6, None, "'On top lies a scary octopus made of unleavened dough.' Adding that on top lies a scary octopus made of unleavened dough fills in the missing piece for Vika."),
+    (7, None, '\'Our guests from the bank will definitely like this!\' Saying that their guests from the bank will definitely like this is how Vika takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (8, None, "'And what are these chicken legs made of?' Here wondering what these chicken legs made are shows Vika looking for the real truth."),
+    (9, None, "'Ordinary chicken legs are made of chicken legs.' Mentioning that ordinary chicken legs are made of chicken legs moves the talk in a new direction."),
+    (10, None, '\'Got it, that is simply lunch for our cooks!\' Insisting that got it that is simply lunch for their cooks shows Vika is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (11, None, "'Quite right, the cooks also need to eat a good lunch!' Once quite right the cooks also need to eat a good lunch, German makes sure Vika hears every word."),
 ]
-
-TRANSITION = 'Now listen to the complete Halloween menu tasting at natural speed.'
-OUTRO = 'With the Halloween menu approved, the restaurant prepares for the big corporate show—while Nagiyev arrives wearing his prized Italian shoes. Until next time!'
-CLOSING = ("german", "До встречи!")

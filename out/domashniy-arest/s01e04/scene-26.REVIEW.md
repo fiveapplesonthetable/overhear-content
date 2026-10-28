@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Ну что же, неплохо. Ты молодец. | Well then, not bad. Good job. | #1053 00:59:31: Ну что же, неплохо | adapted: 'Будем считать, что справилась' (1054) -> 'Ты молодец.' |
+| 1 | Паша | Ну что же, неплохо. Ты молодец. | Well then, not bad. Good job. | #1053: Ну что же, неплохо | adapted: 'Будем считать, что справилась' (1054) -> 'Ты молодец.' |
 | 2 | Паша | Сейчас мы выложим это видео в интернет. | Now we'll upload this video to the internet. | new | new: new: clean A1 for cue 1055 'Давай-ка заливает в сеть' |
-| 3 | Илона | Павел Юрьевич, у меня ещё к вам вопрос. | Pavel Yuryevich, I have one more question for you. | #1056 00:59:51: Павел Юрьевич, у меня еще к вам вопрос | verbatim |
-| 4 | Паша | Какой вопрос? | What question? | #1057 00:59:53: Какой | adapted: 'вопрос' added |
-| 5 | Илона | По поводу Аникеева. | About Anikeev. | #1058 00:59:55: По поводу | adapted: mistranscribed 'Никеева' -> 'Аникеева' |
-| 6 | Паша | А что с ним такое? | And what's the matter with him? | #1059 00:59:56: А что с ним такое | verbatim |
-| 7 | Илона | Он живёт в ужасных условиях. | He's living in terrible conditions. | #1060 00:59:58: он живет в<br>#1060 00:59:58: условиях | adapted: 'каких-то нечеловеческих' -> 'ужасных' |
-| 8 | Илона | У него даже постельного белья нет. | He doesn't even have bed linen. | #1062 01:00:01: У него даже постельного белья нет | verbatim |
-| 9 | Илона | Может, вы перевезёте его в другое место? | Maybe you will move him to another place? | #1064 01:00:04: Может, вы<br>#1064 01:00:04: его<br>#1064 01:00:04: в другое место | adapted: 'могли бы куда-то его перевезти' -> 'перевезёте его' |
-| 10 | Паша | Нет. Ничего такого я делать не буду. | No. I'm not going to do anything like that. | #1066 01:00:10: Нет<br>#1067 01:00:12: Ничего<br>#1067 01:00:12: я делать не буду | adapted: 'подобного' -> 'такого' |
-| 11 | Илона | Но вы же с ним учились вместе! | But you studied together with him! | #1070 01:00:20: Вы же с ним | adapted: 'вроде как однокурсники' -> 'учились вместе' |
-| 12 | Илона | Без него вы бы возили сувениры из Китая. | Without him you would be hauling souvenirs from China. | #1072 01:00:23: вы бы<br>#1072 01:00:23: из Китая возили | adapted: shortened from cue 1072 ('Насколько я знаю, если бы не он, вы бы до сих пор сувенирку из Китая возили') |
-| 13 | Паша | Я что-то не понял. Ты кто такая? | I don't quite understand. Who do you think you are? | #1073 01:00:26: Я что-то не понял | adapted: clean stand-in for Pasha's slur in cue 1074 |
-| 14 | Илона | Я в клубе танцевала. | I danced in a club. | #1076 01:00:33: Я в | adapted: garbled 'в трепете станцевала' -> 'в клубе танцевала' |
-| 15 | Паша | Иди работай давай! | Go on, get to work! | #1079 01:00:39: Иди работай давай | adapted: crude lines 1077-1078 omitted |
-| 16 | Паша | Привезёшь ему подушку — сразу уволю! Ясно? Иди! | Bring him a pillow and I'll fire you at once! Clear? Go! | #1080 01:00:41: ему<br>#1080 01:00:41: подушку<br>#1081 01:00:43: ясно<br>#1082 01:00:48: Иди | adapted: clean A1 for cues 1080-1082 ('А если я узнаю, что ты ему хотя бы подушку привезла, вылетишь отсюда...') |
-| 17 | Илона | Всего доброго. До свидания. | All the best. Goodbye. | #1083 01:00:53: Всего доброго<br>#1084 01:00:54: До свидания | verbatim |
+| 3 | Илона | Павел Юрьевич, у меня ещё к вам вопрос. | Pavel Yuryevich, I have one more question for you. | #1056: Павел Юрьевич, у меня еще к вам вопрос | verbatim |
+| 4 | Паша | Какой вопрос? | What question? | #1057: Какой | adapted: 'вопрос' added |
+| 5 | Илона | По поводу Аникеева. | About Anikeev. | #1058: По поводу | adapted: mistranscribed 'Никеева' -> 'Аникеева' |
+| 6 | Паша | А что с ним такое? | And what's the matter with him? | #1059: А что с ним такое | verbatim |
+| 7 | Илона | Он живёт в ужасных условиях. | He's living in terrible conditions. | #1060: он живет в<br>#1060: условиях | adapted: 'каких-то нечеловеческих' -> 'ужасных' |
+| 8 | Илона | У него даже постельного белья нет. | He doesn't even have bed linen. | #1062: У него даже постельного белья нет | verbatim |
+| 9 | Илона | Может, вы перевезёте его в другое место? | Maybe you will move him to another place? | #1064: Может, вы<br>#1064: его<br>#1064: в другое место | adapted: 'могли бы куда-то его перевезти' -> 'перевезёте его' |
+| 10 | Паша | Нет. Ничего такого я делать не буду. | No. I'm not going to do anything like that. | #1066: Нет<br>#1067: Ничего<br>#1067: я делать не буду | adapted: 'подобного' -> 'такого' |
+| 11 | Илона | Но вы же с ним учились вместе! | But you studied together with him! | #1070: Вы же с ним | adapted: 'вроде как однокурсники' -> 'учились вместе' |
+| 12 | Илона | Без него вы бы возили сувениры из Китая. | Without him you would be hauling souvenirs from China. | #1072: вы бы<br>#1072: из Китая возили | adapted: shortened from cue 1072 ('Насколько я знаю, если бы не он, вы бы до сих пор сувенирку из Китая возили') |
+| 13 | Паша | Я что-то не понял. Ты кто такая? | I don't quite understand. Who do you think you are? | #1073: Я что-то не понял | adapted: clean stand-in for Pasha's slur in cue 1074 |
+| 14 | Илона | Я в клубе танцевала. | I danced in a club. | #1076: Я в | adapted: garbled 'в трепете станцевала' -> 'в клубе танцевала' |
+| 15 | Паша | Иди работай давай! | Go on, get to work! | #1079: Иди работай давай | adapted: crude lines 1077-1078 omitted |
+| 16 | Паша | Привезёшь ему подушку — сразу уволю! Ясно? Иди! | Bring him a pillow and I'll fire you at once! Clear? Go! | #1080: ему<br>#1080: подушку<br>#1081: ясно<br>#1082: Иди | adapted: clean A1 for cues 1080-1082 ('А если я узнаю, что ты ему хотя бы подушку привезла, вылетишь отсюда...') |
+| 17 | Илона | Всего доброго. До свидания. | All the best. Goodbye. | #1083: Всего доброго<br>#1084: До свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

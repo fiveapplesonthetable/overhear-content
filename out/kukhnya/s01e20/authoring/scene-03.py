@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 3
-TITLE = "Скрытый смысл  (Hidden Meaning)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Скрытый смысл  (Hidden Meaning)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Kostya tells Max about Nastya's weird staircase metaphor. Max explains the true meaning of her words and then receives a surprising message from Vika. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Hidden Meaning line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max realizes Vika expects an extremely expensive gift, leaving him stressed about his financial situation. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'to go' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Настя сказала, что мы идём по лестнице.', 'Nastya said that we are walking on a staircase.', [(79, 'поднимаемся по какой-то лестнице')], ''),
     ('kostya', 'И если мы остановимся, то разобьёмся.', 'And if we stop, then we will break.', [(79, 'можем разбиться')], ''),
     ('kostya', 'Я ничего не понял.', 'I did not understand anything.', [(81, 'ничего не понял')], ''),
-    ('anya', 'А чё ты не понял?', 'And what did you not understand?', [(82, 'чё ты не понял')], ''),
-    ('anya', 'Она тебе на свадьбу намекает.', 'She is hinting at a wedding to you.', [(82, 'на свадьбу намекает')], ''),
+    ('max', 'А чё ты не понял?', 'And what did you not understand?', [(82, 'чё ты не понял')], ''),
+    ('max', 'Она тебе на свадьбу намекает.', 'She is hinting at a wedding to you.', [(82, 'на свадьбу намекает')], ''),
     ('kostya', 'Да ладно, ты серьёзно?', 'Come on, are you serious?', [(83, 'Да ладно')], ''),
-    ('anya', 'Сделай вид, что ты ничего не понял.', 'Pretend that you did not understand anything.', [(85, 'Сделай вид, что ты ничего не понял')], ''),
+    ('max', 'Сделай вид, что ты ничего не понял.', 'Pretend that you did not understand anything.', [(85, 'Сделай вид, что ты ничего не понял')], ''),
     ('kostya', 'Так я и так ничего не понял.', 'But I already did not understand anything.', [(87, 'Так я и так ничего не понял')], ''),
-    ('anya', 'Ну вот, тебе даже врать не придётся.', 'Well there, you will not even have to lie.', [(88, 'даже врать не придётся')], ''),
+    ('max', 'Ну вот, тебе даже врать не придётся.', 'Well there, you will not even have to lie.', [(88, 'даже врать не придётся')], ''),
     ('kostya', 'Чего там? Что она прислала?', 'What is there? What did she send?', [(93, 'Чего там')], ''),
-    ('anya', 'Она прислала мне фото красивого кольца.', 'She sent me a photo of a beautiful ring.', [(96, 'Красивое кольцо')], ''),
-    ('anya', 'Она мне на дорогой подарок намекает.', 'She is hinting at an expensive gift to me.', [(95, 'на подарок намекает')], ''),
-    ('anya', 'Мне на него год работать надо.', 'I need to work a year for it.', [(97, 'Мне на него год работать надо')], ''),
+    ('max', 'Она прислала мне фото красивого кольца.', 'She sent me a photo of a beautiful ring.', [(96, 'Красивое кольцо')], ''),
+    ('max', 'Она мне на дорогой подарок намекает.', 'She is hinting at an expensive gift to me.', [(95, 'на подарок намекает')], ''),
+    ('max', 'Мне на него год работать надо.', 'I need to work a year for it.', [(97, 'Мне на него год работать надо')], ''),
 ]
 WALK = [
     (0, None, "'Nastya said that we are walking on a staircase.' Kostya uses the action verb meaning 'told' to focus on the single completed result, pairing it with 'are going' and 'stairs'."),

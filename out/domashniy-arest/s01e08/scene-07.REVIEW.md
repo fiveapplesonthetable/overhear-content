@@ -11,19 +11,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Илона | Где Самсонов? Он не берёт трубку. | Where is Samsonov? He is not answering his phone. | new | new |
-| 2 | Илона | Я не знаю. Он не ночевал дома. | I do not know. He did not spend the night at home. | new | new |
-| 3 | Илона | У нас завтра дебаты! | We have the debate tomorrow! | #98 00:06:16: У нас завтра дебаты | verbatim |
-| 4 | Илона | Я знаю. Я очень волнуюсь за него. | I know. I am very worried about him. | new | new |
-| 5 | Илона | Он совсем не подготовлен. | He is completely unprepared. | #99 00:06:18: Он не подготовлен | verbatim |
-| 6 | Илона | Ваня очень переживает из-за слухов. | Vanya is very upset because of the rumors. | new | new |
+| 2 | Нина | Я не знаю. Он не ночевал дома. | I do not know. He did not spend the night at home. | new | new |
+| 3 | Илона | У нас завтра дебаты! | We have the debate tomorrow! | #98: У нас завтра дебаты | verbatim |
+| 4 | Нина | Я знаю. Я очень волнуюсь за него. | I know. I am very worried about him. | new | new |
+| 5 | Илона | Он совсем не подготовлен. | He is completely unprepared. | #99: Он не подготовлен | verbatim |
+| 6 | Нина | Ваня очень переживает из-за слухов. | Vanya is very upset because of the rumors. | new | new |
 | 7 | Илона | Слухи про дедушку — это провокация Осипенко. | The rumors about his grandfather are Osipenko's provocation. | new | new |
-| 8 | Илона | Но люди верят этой лжи. | But people believe this lie. | new | new |
+| 8 | Нина | Но люди верят этой лжи. | But people believe this lie. | new | new |
 | 9 | Илона | Мы должны выиграть эти выборы! | We must win this election! | new | new |
-| 10 | Илона | Без Вани мы ничего не сделаем. | Without Vanya we will do nothing. | new | new |
-| 11 | Илона | Его надо срочно найти! | We need to find him urgently! | #100 00:06:20: Его надо срочно найти | verbatim |
-| 12 | Илона | Где мы будем его искать? | Where are we going to look for him? | new | new |
+| 10 | Нина | Без Вани мы ничего не сделаем. | Without Vanya we will do nothing. | new | new |
+| 11 | Илона | Его надо срочно найти! | We need to find him urgently! | #100: Его надо срочно найти | verbatim |
+| 12 | Нина | Где мы будем его искать? | Where are we going to look for him? | new | new |
 | 13 | Илона | Проверьте все бары и старых друзей. | Check all the bars and old friends. | new | new |
-| 14 | Илона | Я сейчас же позвоню знакомым. | I will call acquaintances right now. | new | new |
+| 14 | Нина | Я сейчас же позвоню знакомым. | I will call acquaintances right now. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

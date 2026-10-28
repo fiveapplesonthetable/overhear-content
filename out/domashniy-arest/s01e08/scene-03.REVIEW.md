@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Славик, выключи телевизор, пожалуйста! | Slavik, turn off the television, please! | #47 00:03:07: Слав, да выключишь | verbatim |
-| 2 | Славик | Да, мама. Я выключил. | Yes, Mama. I turned it off. | #48 00:03:09: Да | verbatim |
-| 3 | Нина | Я позвонила в больницы. В морге его нет. | I called the hospitals. He is not in the morgue. | #49 00:03:11: Спасибо<br>#50 00:03:15: Морги его нет | adapted: cue 50 restored to 'В морге его нет' |
-| 4 | Нина | В каком смысле его нет? | In what sense is he not there? | #52 00:03:17: В смысле | verbatim |
-| 5 | Нина | В том смысле, что его нигде нет! | In the sense that he is nowhere to be found! | #53 00:03:18: В смысле, что его нигде нет | verbatim |
-| 6 | Нина | Ну и что теперь делать? | Well, and what are we to do now? | #54 00:03:22: Ну и что | adapted: 'теперь делать' added |
-| 7 | Нина | Я не знаю, где он сейчас. | I don't know where he is right now. | #55 00:03:26: Я не знаю, где он | verbatim |
-| 8 | Нина | А в каких местах он обычно пьёт? | And in what places does he usually drink? | #56 00:03:29: А в каких местах он обычно пьет | verbatim |
-| 9 | Нина | Я везде уже была! | I have already been everywhere! | #57 00:03:31: Везде была | verbatim |
-| 10 | Славик | Мама, надо звонить в полицию! | Mama, we need to call the police! | #58 00:03:32: надо звонить в полицию | verbatim |
-| 11 | Славик | Я серьёзно говорю, кроме шуток! | I am speaking seriously, no joking! | #59 00:03:36: шутки | adapted: cue 59 garbled 'Треть шутки' -> 'кроме шуток' |
-| 12 | Нина | Нет, в полицию нам звонить нельзя. | No, we must not call the police. | #60 00:03:37: Нет, туда нам сейчас не надо | verbatim |
-| 13 | Нина | Если кандидат в полиции, кампания проиграна! | If the candidate is in the police station, the campaign is lost! | new | new: added for context on campaign stakes |
-| 14 | Нина | Подождём ещё немного. Он должен вернуться! | Let's wait a little longer. He must return! | #61 00:03:39: Подождем еще немного | adapted: 'Он должен вернуться' added |
+| 1 | Нина | Славик, выключи телевизор, пожалуйста! | Slavik, turn off the television, please! | #47: Слав, да выключишь | verbatim |
+| 2 | Славик | Да, мама. Я выключил. | Yes, Mama. I turned it off. | #48: Да | verbatim |
+| 3 | Нина | Я позвонила в больницы. В морге его нет. | I called the hospitals. He is not in the morgue. | #49: Спасибо<br>#50: Морги его нет | adapted: cue 50 restored to 'В морге его нет' |
+| 4 | Илона | В каком смысле его нет? | In what sense is he not there? | #52: В смысле | verbatim |
+| 5 | Нина | В том смысле, что его нигде нет! | In the sense that he is nowhere to be found! | #53: В смысле, что его нигде нет | verbatim |
+| 6 | Илона | Ну и что теперь делать? | Well, and what are we to do now? | #54: Ну и что | adapted: 'теперь делать' added |
+| 7 | Нина | Я не знаю, где он сейчас. | I don't know where he is right now. | #55: Я не знаю, где он | verbatim |
+| 8 | Илона | А в каких местах он обычно пьёт? | And in what places does he usually drink? | #56: А в каких местах он обычно пьет | verbatim |
+| 9 | Нина | Я везде уже была! | I have already been everywhere! | #57: Везде была | verbatim |
+| 10 | Славик | Мама, надо звонить в полицию! | Mama, we need to call the police! | #58: надо звонить в полицию | verbatim |
+| 11 | Славик | Я серьёзно говорю, кроме шуток! | I am speaking seriously, no joking! | #59: шутки | adapted: cue 59 garbled 'Треть шутки' -> 'кроме шуток' |
+| 12 | Илона | Нет, в полицию нам звонить нельзя. | No, we must not call the police. | #60: Нет, туда нам сейчас не надо | verbatim |
+| 13 | Илона | Если кандидат в полиции, кампания проиграна! | If the candidate is in the police station, the campaign is lost! | new | new: added for context on campaign stakes |
+| 14 | Нина | Подождём ещё немного. Он должен вернуться! | Let's wait a little longer. He must return! | #61: Подождем еще немного | adapted: 'Он должен вернуться' added |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -7,15 +7,14 @@ SCENE = 16
 TITLE = 'Petites coupures  (Small Bills)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "At the ASK agency reception, Herve brings an envelope filled with small banknotes as Gabriel urgently requested to resolve a talent crisis. Relieved that the plan worked, Gabriel thanks his faithful assistant. Let's listen to their conversation in French first."
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around small bills, and for the words meaning 'have' and 'done'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('herve', "J'ai fait ce que vous m'avez demandé.", 'I did what you asked me.', [(733, "J'ai fait ce que vous m'avez demandé")], ''),
     ('gabriel', "C'est bien.", 'It is good.', [], ''),

@@ -1,41 +1,43 @@
-# Возвращение на кухню  (Return to the Kitchen) — `kukhnya-s01e11-scene-04`
+# kukhnya-s01e11-scene-04: review sheet
 
-**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Возвращение на кухню  (Return to the Kitchen)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.11
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the hallway, Chef Viktor Barinov spots Max sitting idle after Victoria suspended him. Furious that someone else is giving orders to his cooks, Viktor fiercely asserts his kitchen authority and sends Max back to work. Listen to their conversation in Russian first, and then we will examine each sentence.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Макс, ты что здесь прохлаждаешься? | Max, why are you slacking off here? | #58 "Ты что это здесь прохлаждаешься?" |  |
-| 1 | Макс | Что мне еще делать, шеф? | What else am I to do, chef? | #59 "Что мне еще делать, шеф?" |  |
-| 2 | Макс | Меня сегодня отстранили от работы. | I was suspended from work today. | #60 "Меня же сегодня отстранили от работы." |  |
-| 3 | Шеф | Кто тебя отстранил? Я? | Who suspended you? Me? | #61 "Кто тебя отстранил? Я?" |  |
-| 4 | Макс | Виктория Сергеевна сказала сидеть здесь. | Viktoria Sergeyevna told me to sit here. | *(added)* |  |
-| 5 | Шеф | С каких пор ты её слушаешь? | Since when do you listen to her? | #62 "С каких пор ты стал слушать" |  |
-| 6 | Шеф | На этой кухне главный только я! | In this kitchen, only I am the boss! | *(added)* |  |
-| 7 | Макс | Она обещала меня уволить, шеф. | She promised to fire me, chef. | *(added)* |  |
-| 8 | Шеф | Увольнять поваров могу только я! | Only I can fire cooks! | *(added)* |  |
-| 9 | Шеф | А ну марш на кухню! | Now march to the kitchen! | #63 "марш на кухне" |  |
-| 10 | Шеф | Там тебя куча чеков дожидается. | A pile of orders is waiting for you there. | #63 "там тебе куча чеков дождается." |  |
-| 11 | Макс | Спасибо, шеф, я бегу! | Thank you, chef, I am running! | #64 "Спасибо, шеф." |  |
-| 12 | Шеф | Стой, куда ты понес сковороду? | Wait, where are you carrying that pan? | #65 "Куда понес?" |  |
-| 13 | Макс | На рабочее место, шеф! | To the workstation, chef! | *(added)* |  |
+| 1 | Шеф | Макс, ты что здесь прохлаждаешься? | Max, why are you slacking off here? | #58: Ты что это здесь прохлаждаешься? | verbatim |
+| 2 | Макс | Что мне еще делать, шеф? | What else am I to do, chef? | #59: Что мне еще делать, шеф? | verbatim |
+| 3 | Макс | Меня сегодня отстранили от работы. | I was suspended from work today. | #60: Меня же сегодня отстранили от работы. | verbatim |
+| 4 | Шеф | Кто тебя отстранил? Я? | Who suspended you? Me? | #61: Кто тебя отстранил? Я? | verbatim |
+| 5 | Макс | Виктория Сергеевна сказала сидеть здесь. | Viktoria Sergeyevna told me to sit here. | new | new |
+| 6 | Шеф | С каких пор ты её слушаешь? | Since when do you listen to her? | #62: С каких пор ты стал слушать | verbatim |
+| 7 | Шеф | На этой кухне главный только я! | In this kitchen, only I am the boss! | new | new |
+| 8 | Макс | Она обещала меня уволить, шеф. | She promised to fire me, chef. | new | new |
+| 9 | Шеф | Увольнять поваров могу только я! | Only I can fire cooks! | new | new |
+| 10 | Шеф | А ну марш на кухню! | Now march to the kitchen! | #63: марш на кухне | verbatim |
+| 11 | Шеф | Там тебя куча чеков дожидается. | A pile of orders is waiting for you there. | #63: там тебе куча чеков дождается. | verbatim |
+| 12 | Макс | Спасибо, шеф, я бегу! | Thank you, chef, I am running! | #64: Спасибо, шеф. | verbatim |
+| 13 | Шеф | Стой, куда ты понес сковороду? | Wait, where are you carrying that pan? | #65: Куда понес? | verbatim |
+| 14 | Макс | На рабочее место, шеф! | To the workstation, chef! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> A lively scene demonstrating Chef Barinov's fiery defiance of restaurant management. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'always' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Max, why are you slacking off here?' Viktor scolds his idle apprentice with sharp irritation.
+- 'What else am I to do, chef?' Max defends his inactivity with a helpless gesture.
+- 'I was suspended from work today.' Max explains the disciplinary action taken against him.
+- 'Who suspended you? Me?' Viktor bristles at hearing about someone else giving orders.
+- 'Viktoria Sergeyevna told me to sit here.' Max names the management authority responsible.
+- 'Since when do you listen to her?' Viktor angrily rejects any of her administrative interference.
+- 'In this kitchen, only I am the boss!' Viktor asserts his absolute control over the crew.
+- 'She promised to fire me, chef.' Max recalls her strict warning about being fired.
+- 'Only I can fire cooks!' Viktor insists on his exclusive right to dismiss staff.
+- 'Now march to the kitchen!' Viktor barks a direct order to return to duty.
+- 'A pile of orders is waiting for you there.' Viktor points out the growing queue of tickets.
+- 'Thank you, chef, I am running!' Max expresses his relief at getting back to work.
+- 'Wait, where are you carrying that pan?' Chef Barinov leads with the direct command form meaning 'stop', pairing it with 'where' and 'carried'.
+- 'To the workstation, chef!' Max replies eagerly as he hurries toward the stoves. Now, let us listen to the complete scene again to practice your comprehension.

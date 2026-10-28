@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s04e19-scene-03.
 ID = 'kukhnya-s04e19-scene-03'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 19
 SCENE = 3
-TITLE = "Знакомство с продюсером  (Meeting the Producer)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Знакомство с продюсером  (Meeting the Producer)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina"}
-LABELS = {"nagiyev": "Нагиев"}
+LABELS = {'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.19'
 SOURCE_FILE = 'sources/kukhnya/s04/e19.ru.srt'
-
 INTRO = "Just as Nagiyev finishes explaining the rules of the show, a television producer walks into the dining room. Nagiyev grandly introduces his friend Vyacheslav Aleksandrovich as a guru of television and show business. Let's listen to the introduction in Russian."
-
+OPENER = "Now let's break down the producer's arrival in the dining room line by line."
+TRANSITION = "Let's hear the introduction scene again from beginning to end."
+OUTRO = 'With the producer on site, the restaurant will soon transform into a bustling television studio. Listen for the polite imperative meaning allow me and the plural noun meaning gentlemen. Until next time!'
+CLOSING = ('nagiyev', 'До свидания!')
 STORY = [
     ('nagiyev', 'Добрый день, проходите к нам.', 'Good afternoon, come on over to us.', [(37, 'Добрый день')], 'adapted'),
     ('nagiyev', 'Здравствуйте, позвольте представить вам человека.', 'Hello, allow me to introduce a man to you.', [(38, 'Здравствуйте. Позвольте представить человека')], 'adapted'),
     ('nagiyev', 'Он будет делать наше новое шоу.', 'He will produce our new show.', [(39, 'который будет продюсировать наше шоу')], 'adapted'),
     ('nagiyev', 'Это настоящий мастер нашего телевидения.', 'He is a true master of our television.', [(40, 'телевидения')], 'adapted'),
     ('nagiyev', 'Это мой друг Вячеслав Александрович.', 'This is my friend Vyacheslav Aleksandrovich.', [(42, 'Просто мой друг Вячеслав Александрович')], 'adapted'),
-    ('nagiyev', 'Нам очень приятно с вами познакомиться.', 'We are very pleased to meet you.', [], 'new'),
+    ('vika', 'Нам очень приятно с вами познакомиться.', 'We are very pleased to meet you.', [], 'new'),
     ('nagiyev', 'А чего мы просто так стоим?', 'And why are we just standing around?', [(43, 'А что мы стоим')], 'adapted'),
     ('nagiyev', 'Давайте активно работать, господа.', "Let's work actively, gentlemen.", [(44, 'Давайте работать, господа')], 'adapted'),
     ('nagiyev', 'Будем трудиться на общее благо.', 'We will work for the common good.', [(45, 'На общее благо')], 'adapted'),
     ('nagiyev', 'Ну что, с ведущим уже решили?', 'Well then, have you decided on the host yet?', [(46, 'Ну что, с ведущим определились')], 'adapted'),
-    ('nagiyev', 'Извините, мне сейчас нужно ответить.', 'Excuse me, I need to answer this right now.', [], 'new'),
-    ('nagiyev', 'Алло, да, я вас внимательно слушаю.', 'Hello, yes, I am listening to you closely.', [(47, 'Алло')], 'adapted'),
+    ('vika', 'Извините, мне сейчас нужно ответить.', 'Excuse me, I need to answer this right now.', [], 'new'),
+    ('vika', 'Алло, да, я вас внимательно слушаю.', 'Hello, yes, I am listening to you closely.', [(47, 'Алло')], 'adapted'),
 ]
-
-OPENER = "Now let's break down the producer's arrival in the dining room line by line."
-
 WALK = [
-    (0, None, "'Good afternoon, come on over to us.' Nagiyev greets the arriving producer with the standard masculine daytime greeting."),
-    (1, None, "'Hello, allow me to introduce a man to you.' Nagiyev uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
-    (2, None, "'He will produce our new show.' Notice how Russian puts 'will be' and 'show' together in a short, direct phrase where word endings show how the ideas connect."),
-    (3, None, "'He is a true master of our television.' Here Nagiyev anchors the thought on 'real' and finishes on 'television', keeping the spoken rhythm brisk and natural."),
-    (4, None, "'This is my friend Vyacheslav Aleksandrovich.' Nagiyev introduces the producer formally by his first name and patronymic."),
-    (5, None, "'We are very pleased to meet you.' Vika pairs 'very, really' with 'to get acquainted, to meet' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (6, None, "'And why are we just standing around?' The producer claps his hands and asks a brisk rhetorical question in the first-person plural."),
-    (7, None, "'Let's work actively, gentlemen.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together."),
-    (8, None, "'We will work for the common good.' In everyday Russian, 'to common' flows straight into 'good' without extra linking words."),
-    (9, None, "'Well then, have you decided on the host yet?' Nagiyev pairs 'to yet' with 'decided' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (10, None, "'Excuse me, I need to answer this right now.' Vika uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
-    (11, None, "'Hello, yes, I am listening to you closely.' She answers the call using the standard telephone greeting and a present-tense verb."),
+    (0, None, "'Good afternoon, come on over to us.' Because Vika should come on over to them, Nagiyev treats the matter as settled."),
+    (1, None, "'Hello, allow me to introduce a man to you.' Because Vika should allow him to introduce a man to Vika, Nagiyev treats the matter as settled."),
+    (2, None, "'He will produce our new show.' Saying that he will produce their new show is how Nagiyev sets the tone with Vika."),
+    (3, None, '\'He is a true master of our television.\' Mentioning that he is a true master of their television moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (4, None, "'This is my friend Vyacheslav Aleksandrovich.' Mentioning that this is his friend Vyacheslav Aleksandrovich moves the talk in a new direction."),
+    (5, None, '\'We are very pleased to meet you.\' Saying that they are very pleased to meet Nagiyev is how Vika sets the tone with Nagiyev. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
+    (6, None, '\'And why are we just standing around?\' Wondering why they just standing around are is how Nagiyev puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (7, None, "'Let's work actively, gentlemen.' Saying that they should work actively gentlemen is how Nagiyev sets the tone with Vika."),
+    (8, None, "'We will work for the common good.' Saying that they will work for the common good is how Nagiyev sets the tone with Vika."),
+    (9, None, '\'Well then, have you decided on the host yet?\' Checking whether Vika decided on the host yet cuts straight through the tension between Nagiyev and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (10, None, "'Excuse me, I need to answer this right now.' Needing to answer this right now moves the conversation forward without extra drama."),
+    (11, None, '\'Hello, yes, I am listening to you closely.\' Claiming that she is listening to Nagiyev closely sounds confident, even if Nagiyev has doubts. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
 ]
-
-TRANSITION = "Let's hear the introduction scene again from beginning to end."
-OUTRO = 'With the producer on site, the restaurant will soon transform into a bustling television studio. Listen for the polite imperative meaning allow me and the plural noun meaning gentlemen. Until next time!'
-CLOSING = ("nagiyev", "До свидания!")

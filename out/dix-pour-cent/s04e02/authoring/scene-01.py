@@ -7,18 +7,17 @@ SCENE = 1
 TITLE = 'Dubosc en plein doute  (Dubosc in Doubt)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'franck': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'franck': 'Franck', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'franck': 'Franck', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "With ASK struggling to hold onto its roster of stars, Andrea Martel orders Gabriel to check on popular actor Franck Dubosc. Arriving on the set of an avant-garde arthouse movie, Gabriel finds the famous comedian thoroughly demoralized by an eccentric director and an arrogant young co-star. Ready to abandon both the film and his agents, Dubosc pours out his grievances. Let's listen to the scene in French first."
 OPENER = "Let's observe as Gabriel tries to comfort a demoralized Franck Dubosc on set."
 TRANSITION = "Now let's listen to Andrea, Gabriel, and Franck talking again at full speed."
 OUTRO = "Confronted with Franck Dubosc's deep creative despair and threat to abandon ASK, Gabriel realizes he faces a major crisis. When you watch the episode, listen out for the expressions meaning 'must' and 'look after'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
-    ('lea', 'Gabriel, nous devons garder Franck chez nous.', 'Gabriel, we must keep Franck with us.', [(6, 'perdre Franck Dubosc')], ''),
-    ('lea', "Il tourne un beau film d'auteur.", 'He is shooting a fine arthouse film.', [(10, 'de super bonne humeur')], ''),
+    ('andrea', 'Gabriel, nous devons garder Franck chez nous.', 'Gabriel, we must keep Franck with us.', [(6, 'perdre Franck Dubosc')], ''),
+    ('andrea', "Il tourne un beau film d'auteur.", 'He is shooting a fine arthouse film.', [(10, 'de super bonne humeur')], ''),
     ('gabriel', 'Bonjour Franck, je viens parler de ton avenir.', 'Hello Franck, I come to talk about your future.', [(31, 'ton avenir chez ASK')], ''),
     ('franck', "C'est le pire tournage de ma vie!", 'It is the worst shoot of my life!', [(39, 'le pire tournage de ma vie')], ''),
     ('franck', 'La réalisatrice réécrit constamment toutes les scènes.', 'The director constantly rewrites all the scenes.', [(42, 'réécrit les scènes')], ''),

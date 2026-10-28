@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Где здесь находится операционная? | Where is the operating room located here? | #851 00:51:44: Операционная где | verbatim |
-| 2 | Доктор | Она находится прямо по коридору. | It is located straight down the corridor. | #852 00:51:45: Там | verbatim |
-| 3 | Аня | Остановите операцию немедленно! | Stop the operation immediately! | #854 00:51:51: Остановите операцию | verbatim |
-| 4 | Доктор | В чём дело? Покиньте операционную! | What is the matter? Leave the operating room! | #855 00:51:53: В чем дело<br>#857 00:51:56: Покиньте операционную | verbatim |
-| 5 | Аня | Где мальчик? Ему нельзя делать операцию! | Where is the boy? He must not have surgery! | #856 00:51:55: А мальчик где | verbatim |
-| 6 | Доктор | Здесь нет никакого мальчика. | There is no boy here. | #858 00:52:17: Мужчина, вы куда | verbatim |
-| 7 | Пациент | Доктор, почему вы меня не оперируете? | Doctor, why aren't you operating on me? | #860 00:52:44: вы чего меня не закругляете | adapted: 'не закругляете' -> 'не оперируете' |
-| 8 | Пациент | Мы с сыном враги народа. | My son and I are enemies of the people. | #862 00:52:52: Мы враги народа | verbatim |
-| 9 | Доктор | Успокойтесь, Осипенко просто выступает по телевизору. | Calm down, Osipenko is simply speaking on television. | #864 00:52:55: осьпенко по телевизору так сказал | verbatim |
-| 10 | Пациент | Сын сказал, что нам пора домой. | My son said that it is time for us to go home. | #859 00:52:34: пошли домой<br>#869 00:53:10: Пошли, пап | verbatim |
-| 11 | Аня | Значит, Лёши здесь нет? | So Lyosha is not here? | #856 00:51:55: А мальчик где | verbatim |
-| 12 | Доктор | Мальчик в другой палате на втором этаже. | The boy is in another room on the second floor. | #856 00:51:55: мальчик | verbatim |
-| 13 | Аня | Спасибо! Я должен срочно найти Марину! | Thank you! I must find Marina urgently! | #854 00:51:51: Остановите операцию | verbatim |
+| 1 | Аркадий | Где здесь находится операционная? | Where is the operating room located here? | #851: Операционная где | verbatim |
+| 2 | Доктор | Она находится прямо по коридору. | It is located straight down the corridor. | #852: Там | verbatim |
+| 3 | Аркадий | Остановите операцию немедленно! | Stop the operation immediately! | #854: Остановите операцию | verbatim |
+| 4 | Доктор | В чём дело? Покиньте операционную! | What is the matter? Leave the operating room! | #855: В чем дело<br>#857: Покиньте операционную | verbatim |
+| 5 | Аркадий | Где мальчик? Ему нельзя делать операцию! | Where is the boy? He must not have surgery! | #856: А мальчик где | verbatim |
+| 6 | Доктор | Здесь нет никакого мальчика. | There is no boy here. | #858: Мужчина, вы куда | verbatim |
+| 7 | Пациент | Доктор, почему вы меня не оперируете? | Doctor, why aren't you operating on me? | #860: вы чего меня не закругляете | adapted: 'не закругляете' -> 'не оперируете' |
+| 8 | Пациент | Мы с сыном враги народа. | My son and I are enemies of the people. | #862: Мы враги народа | verbatim |
+| 9 | Доктор | Успокойтесь, Осипенко просто выступает по телевизору. | Calm down, Osipenko is simply speaking on television. | #864: осьпенко по телевизору так сказал | verbatim |
+| 10 | Пациент | Сын сказал, что нам пора домой. | My son said that it is time for us to go home. | #859: пошли домой<br>#869: Пошли, пап | verbatim |
+| 11 | Аркадий | Значит, Лёши здесь нет? | So Lyosha is not here? | #856: А мальчик где | verbatim |
+| 12 | Доктор | Мальчик в другой палате на втором этаже. | The boy is in another room on the second floor. | #856: мальчик | verbatim |
+| 13 | Аркадий | Спасибо! Я должен срочно найти Марину! | Thank you! I must find Marina urgently! | #854: Остановите операцию | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

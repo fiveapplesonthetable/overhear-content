@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Аркаша, я понимаю, тебе сейчас тяжело. Но… | Arkasha, I understand, it's hard for you right now. But... | #862 00:47:31: Аркаша, я понимаю, тебе сейчас<br>#862 00:47:31: тяжело | adapted: 'без этого' dropped |
-| 2 | Вика | Мы с Пашей вместе уже месяц. | Pasha and I have been together for a month now. | #863 00:47:36: Мы с Пашей | adapted: 'в месяц как любовники' -> 'вместе уже месяц' |
-| 3 | Аня | Что? Как ты можешь, Вика? | What? How could you, Vika? | #865 00:47:54: Как ты можешь, Вика | adapted: 'Что?' added |
-| 4 | Вика | Кто бы говорил. | Look who's talking. | #866 00:47:55: Кто бы говорил | verbatim |
-| 5 | Аня | Ты жена моя, Вика! | You're my wife, Vika! | #870 00:48:04: Ты жена моя<br>#870 00:48:04: Вика | adapted: 'Законная' dropped |
-| 6 | Вика | Вспомнил? Я давно тебя не интересую. | Now you remember? You haven't been interested in me for a long time. | #871 00:48:07: Вспомнил<br>#872 00:48:08: Я давно тебя не интересую | verbatim |
-| 7 | Вика | А с Пашей я снова чувствую себя женщиной. | And with Pasha I feel like a woman again. | #873 00:48:14: А с Пашей я<br>#874 00:48:16: Снова | adapted: past 'почувствовала' -> present 'чувствую' |
-| 8 | Аня | Вика, посмотри на него. | Vika, look at him. | #875 00:48:17: посмотри на него | adapted: 'да ты' dropped |
-| 9 | Аня | Ему нужны только твои деньги. | All he wants is your money. | #877 00:48:25: только твои | adapted: 'бабки' (slang) -> 'деньги'; word order made standard |
-| 10 | Вика | То есть меня можно любить только за деньги? | So you mean I can only be loved for my money? | #879 00:48:28: То есть<br>#879 00:48:28: только за деньги | adapted: 'полюбить' -> 'любить'; 'ты хочешь сказать, что' dropped |
-| 11 | Аня | Нет, Вика, я совсем не это хочу сказать. | No, Vika, that's not what I mean at all. | #880 00:48:31: Нет<br>#880 00:48:31: я совсем не это | adapted: 'Виктория' -> 'Вика'; 'тебе' dropped |
-| 12 | Вика | Какой ты ужасный человек! | What a horrible person you are! | #883 00:48:35: Какой ты | adapted: the insult 'козёл' retold cleanly as 'ужасный человек' |
-| 13 | Аня | Викуля, постой! | Vikulya, wait! | #885 00:48:39: Викуля, постой | verbatim |
-| 14 | Паша | Ладно, Аркашенька. Мы поедем, пора. | All right, Arkashenka. We'll be off, it's time. | #887 00:48:46: Ладно, Аркашенька<br>#888 00:48:47: пора | adapted: 'поедем мы' -> 'Мы поедем' |
-| 15 | Паша | У меня много дел. Выборы мэра… | I've got a lot to do. The mayoral election... | #890 00:48:55: Выборы мэра | adapted: 'дел по горло' -> 'много дел' |
-| 16 | Паша | Потом надо отдать москвичам твои деньги из подвала. | Then I have to give your money from the basement to the Moscow people. | #890 00:48:55: москвичам | adapted: 'передать эти деньги твои из подвальчика' simplified |
-| 17 | Паша | Ну и кластер, конечно. Пока! | And the cluster, of course. Bye! | #891 00:48:59: Ну и кластер<br>#891 00:48:59: конечно<br>#892 00:49:01: Пока | adapted: 'устроить' dropped |
+| 1 | Вика | Аркаша, я понимаю, тебе сейчас тяжело. Но… | Arkasha, I understand, it's hard for you right now. But... | #862: Аркаша, я понимаю, тебе сейчас<br>#862: тяжело | adapted: 'без этого' dropped |
+| 2 | Вика | Мы с Пашей вместе уже месяц. | Pasha and I have been together for a month now. | #863: Мы с Пашей | adapted: 'в месяц как любовники' -> 'вместе уже месяц' |
+| 3 | Аркадий | Что? Как ты можешь, Вика? | What? How could you, Vika? | #865: Как ты можешь, Вика | adapted: 'Что?' added |
+| 4 | Вика | Кто бы говорил. | Look who's talking. | #866: Кто бы говорил | verbatim |
+| 5 | Аркадий | Ты жена моя, Вика! | You're my wife, Vika! | #870: Ты жена моя<br>#870: Вика | adapted: 'Законная' dropped |
+| 6 | Вика | Вспомнил? Я давно тебя не интересую. | Now you remember? You haven't been interested in me for a long time. | #871: Вспомнил<br>#872: Я давно тебя не интересую | verbatim |
+| 7 | Вика | А с Пашей я снова чувствую себя женщиной. | And with Pasha I feel like a woman again. | #873: А с Пашей я<br>#874: Снова | adapted: past 'почувствовала' -> present 'чувствую' |
+| 8 | Аркадий | Вика, посмотри на него. | Vika, look at him. | #875: посмотри на него | adapted: 'да ты' dropped |
+| 9 | Аркадий | Ему нужны только твои деньги. | All he wants is your money. | #877: только твои | adapted: 'бабки' (slang) -> 'деньги'; word order made standard |
+| 10 | Вика | То есть меня можно любить только за деньги? | So you mean I can only be loved for my money? | #879: То есть<br>#879: только за деньги | adapted: 'полюбить' -> 'любить'; 'ты хочешь сказать, что' dropped |
+| 11 | Аркадий | Нет, Вика, я совсем не это хочу сказать. | No, Vika, that's not what I mean at all. | #880: Нет<br>#880: я совсем не это | adapted: 'Виктория' -> 'Вика'; 'тебе' dropped |
+| 12 | Вика | Какой ты ужасный человек! | What a horrible person you are! | #883: Какой ты | adapted: the insult 'козёл' retold cleanly as 'ужасный человек' |
+| 13 | Аркадий | Викуля, постой! | Vikulya, wait! | #885: Викуля, постой | verbatim |
+| 14 | Паша | Ладно, Аркашенька. Мы поедем, пора. | All right, Arkashenka. We'll be off, it's time. | #887: Ладно, Аркашенька<br>#888: пора | adapted: 'поедем мы' -> 'Мы поедем' |
+| 15 | Паша | У меня много дел. Выборы мэра… | I've got a lot to do. The mayoral election... | #890: Выборы мэра | adapted: 'дел по горло' -> 'много дел' |
+| 16 | Паша | Потом надо отдать москвичам твои деньги из подвала. | Then I have to give your money from the basement to the Moscow people. | #890: москвичам | adapted: 'передать эти деньги твои из подвальчика' simplified |
+| 17 | Паша | Ну и кластер, конечно. Пока! | And the cluster, of course. Bye! | #891: Ну и кластер<br>#891: конечно<br>#892: Пока | adapted: 'устроить' dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -46,5 +46,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vikulya, wait!' Vikulya is a tender form of Vika, the name he uses when he wants her back. Now Pasha is the one who speaks.
 - 'All right, Arkashenka. We'll be off, it's time.' He uses the sweetest form of Arkady's name, and he doesn't mean it kindly. 'We' means him and Vika. Then he lists his plans.
 - 'I've got a lot to do. The mayoral election...' To say 'I have', it's 'at me there is', like last time. Pasha is going to run for mayor himself.
-- 'Then I have to give your money from the basement to the Moscow people.' Arkady's cash, hidden in the basement, is going to his Moscow partners. The people come first, with an ending that means 'to'.
+- 'Then I have to give your money from the basement to the Moscow people.' Right then, Arkady's cash, hidden in the basement, is going to his Moscow partners. The people come first, with an ending that means 'to'.
 - 'And the cluster, of course. Bye!' The project Arkady blocked, and then a cheerful goodbye. Pasha has taken everything.

@@ -1,36 +1,38 @@
-# domashniy-arest/s01e02/scene-06.py
-ID = "domashniy-arest-s01e02-scene-06"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-06.
+ID = 'domashniy-arest-s01e02-scene-06'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 6
-TITLE = "Очередь в туалет  (The Toilet Queue)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "lyosha": "anja", "marina": "angelina"}
-LABELS = {"anya": "Аркадий", "lyosha": "Лёша", "marina": "Марина"}
+TITLE = 'Очередь в туалет  (The Toilet Queue)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'lyosha': 'Лёша', 'marina': 'Марина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Last time, Arkady spent a sleepless first night in his old room, while at his big house his deputy Pasha woke Arkady's wife Vika and demanded the money. She showed him a stash of about three million, but the rest was gone. Now it's morning in the communal flat, and there's a queue for the only toilet. Let's listen in Russian first."
-STORY = [
-    ("anya", "Маленькие умеют терпеть, а взрослые нет, понял?", "Little ones can hold on, but grown-ups can't, got it?", [(149, 'Маленькие умеют терпеть, а взрослые нет, понял')], ""),
-    ("lyosha", "Так нечестно.", "That's not fair.", [(150, 'Так нечестно')], ""),
-    ("anya", "Как тебя зовут, мальчик?", "What's your name, boy?", [(151, 'Как тебя зовут, мальчик')], ""),
-    ("lyosha", "Лёха.", "Lyokha.", [(152, 'Лёха')], ""),
-    ("anya", "Всё честно, Лёха. Взрослые не умеют ждать.", "It's all fair, Lyokha. Grown-ups can't wait.", [(153, 'Всё честно, Лёха')], "second sentence new: a clean stand-in for the crude reason in cue 154"),
-    ("lyosha", "Мама! Он идёт без очереди!", "Mum! He's jumping the queue!", [], "the boy calls his mother, who then comes to the door (her protest starts at cue 158)"),
-    ("anya", "Послушайте, в чём дело, женщина? Здесь занято.", "Listen, what's the matter, woman? It's occupied.", [(158, 'Послушайте, в чём дело, женщина'), (159, 'занято')], "cue 159 'Не видите, занято здесь' simplified to 'Здесь занято'"),
-    ("marina", "Вы взяточник! Вы лезете вперёд больного ребёнка.", "You're a bribe-taker! You're pushing in ahead of a sick child.", [(160, 'вы, взяточник'), (162, 'Вперёд больного ребёнка')], "cue 162 simplified: 'лезть' kept as 'Вы лезете'; 'в туалет' and 'это совсем гнусность' (a disgrace) dropped"),
-    ("anya", "Я вас где-то видел, кажется.", "I think I've seen you somewhere.", [(163, 'Я вас где-то видел, кажется')], ""),
-    ("marina", "Я ваш советник по историческому наследию. Забыли?", "I'm your adviser on historical heritage. Have you forgotten?", [(164, 'Я ваш советник по историческому наследию'), (165, 'Забыли')], "the town name dropped"),
-    ("anya", "Да, да. Но туалет — это пока не историческое наследие.", "Yes, yes. But the toilet isn't historical heritage yet.", [(166, 'Да, да')], "second sentence simplifies cue 167 (none of this counts as historical heritage yet)"),
-    ("anya", "Всё, извините.", "That's it, excuse me.", [(168, 'Извините')], "'Всё' added: he shuts the door on her"),
-    ("marina", "Запомните: зло всегда возвращается к правителю.", "Remember: evil always comes back to the ruler.", [(169, 'Запомните, зло всегда возвращается')], "the cue's 'от правителя' (a slip) -> 'к правителю', as in the English subtitle"),
-    ("anya", "Сталину расскажите.", "Tell that to Stalin.", [(171, 'Сталину расскажите')], "'вот это' dropped"),
-    ("lyosha", "Мама, а кто это?", "Mum, who is that?", [], "the boy asks about the stranger"),
-    ("marina", "Это наш мэр, Лёша.", "That's our mayor, Lyosha.", [], "she knows him from the protest (cues 160, 164)"),
-]
 OPENER = "Let's go back through it slowly. Arkady has just shoved his way to the toilet door, past a little boy on crutches, and he explains himself without any shame."
+TRANSITION = "Now let's hear the whole scene once more, from the start of the queue."
+OUTRO = "That's the toilet queue, and Arkady's first morning didn't end well. Listen out for the complaint about jumping the queue and the word you hear through every locked door. See you next time!"
+CLOSING = ('lyosha', 'Пока!')
+STORY = [
+    ('arkady', 'Маленькие умеют терпеть, а взрослые нет, понял?', "Little ones can hold on, but grown-ups can't, got it?", [(149, 'Маленькие умеют терпеть, а взрослые нет, понял')], ''),
+    ('lyosha', 'Так нечестно.', "That's not fair.", [(150, 'Так нечестно')], ''),
+    ('arkady', 'Как тебя зовут, мальчик?', "What's your name, boy?", [(151, 'Как тебя зовут, мальчик')], ''),
+    ('lyosha', 'Лёха.', 'Lyokha.', [(152, 'Лёха')], ''),
+    ('arkady', 'Всё честно, Лёха. Взрослые не умеют ждать.', "It's all fair, Lyokha. Grown-ups can't wait.", [(153, 'Всё честно, Лёха')], 'second sentence new: a clean stand-in for the crude reason in cue 154'),
+    ('lyosha', 'Мама! Он идёт без очереди!', "Mum! He's jumping the queue!", [], 'the boy calls his mother, who then comes to the door (her protest starts at cue 158)'),
+    ('arkady', 'Послушайте, в чём дело, женщина? Здесь занято.', "Listen, what's the matter, woman? It's occupied.", [(158, 'Послушайте, в чём дело, женщина'), (159, 'занято')], "cue 159 'Не видите, занято здесь' simplified to 'Здесь занято'"),
+    ('marina', 'Вы взяточник! Вы лезете вперёд больного ребёнка.', "You're a bribe-taker! You're pushing in ahead of a sick child.", [(160, 'вы, взяточник'), (162, 'Вперёд больного ребёнка')], "cue 162 simplified: 'лезть' kept as 'Вы лезете'; 'в туалет' and 'это совсем гнусность' (a disgrace) dropped"),
+    ('arkady', 'Я вас где-то видел, кажется.', "I think I've seen you somewhere.", [(163, 'Я вас где-то видел, кажется')], ''),
+    ('marina', 'Я ваш советник по историческому наследию. Забыли?', "I'm your adviser on historical heritage. Have you forgotten?", [(164, 'Я ваш советник по историческому наследию'), (165, 'Забыли')], 'the town name dropped'),
+    ('arkady', 'Да, да. Но туалет — это пока не историческое наследие.', "Yes, yes. But the toilet isn't historical heritage yet.", [(166, 'Да, да')], 'second sentence simplifies cue 167 (none of this counts as historical heritage yet)'),
+    ('arkady', 'Всё, извините.', "That's it, excuse me.", [(168, 'Извините')], "'Всё' added: he shuts the door on her"),
+    ('marina', 'Запомните: зло всегда возвращается к правителю.', 'Remember: evil always comes back to the ruler.', [(169, 'Запомните, зло всегда возвращается')], "the cue's 'от правителя' (a slip) -> 'к правителю', as in the English subtitle"),
+    ('arkady', 'Сталину расскажите.', 'Tell that to Stalin.', [(171, 'Сталину расскажите')], "'вот это' dropped"),
+    ('lyosha', 'Мама, а кто это?', 'Mum, who is that?', [], 'the boy asks about the stranger'),
+    ('marina', 'Это наш мэр, Лёша.', "That's our mayor, Lyosha.", [], 'she knows him from the protest (cues 160, 164)'),
+]
 WALK = [
     (0, None, "'Little ones can hold on, but grown-ups can't, got it?' The verb that follows 'little ones' means 'can', in the sense of 'know how to'. At the end he checks the boy has understood, with a masculine past form, because he's talking to a boy. The boy protests."),
     (1, None, "'That's not fair.' Notice that 'not' is glued to the word for 'fair' here, and it makes one word: 'unfair'. Arkady pretends to be friendly."),
@@ -54,6 +56,3 @@ WALK = [
     (14, None, "'Mum, who is that?' A small word for 'and' or 'but' in front of 'who' makes it a curious, natural question. His mother tells him."),
     (15, None, "'That's our mayor, Lyosha.' Just 'this is our mayor', with no word for 'is'. A moment later Arkady's own former bodyguards burst in while he's still in there; they apologise, then drag him away 'with frightening rudeness', exactly as ordered."),
 ]
-TRANSITION = "Now let's hear the whole scene once more, from the start of the queue."
-OUTRO = "That's the toilet queue, and Arkady's first morning didn't end well. Listen out for the complaint about jumping the queue and the word you hear through every locked door. See you next time!"
-CLOSING = ("lyosha", "Пока!")

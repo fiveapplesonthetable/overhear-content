@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 32
-TITLE = "Щучья пасха  (Pike Caviar Dish)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Щучья пасха  (Pike Caviar Dish)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
-LABELS = {"senya": "Сеня", "fedya": "Федя"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the Claude Monet kitchen, Fedya and Senya marvel at their newly dyed caviar as it gleams under the lights. Senya jokes that their creation looks like a traditional festive pike delicacy, perfectly disguised for the banquet. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around Pike Caviar Dish line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Fedya and Senya marvel at the dyed black caviar glistening in the bowl, joking that the festive pike delicacy will easily pass as real caviar for the banquet. Next time you watch the episode, listen for the Russian expressions for 'that's why' and 'caviar' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, посмотри, как блестит икра!', 'Senya, look how the caviar shines!', [], ''),
     ('senya', 'Я же говорил тебе, краска отличная.', 'I told you, the dye is great.', [], ''),
@@ -35,9 +34,9 @@ WALK = [
     (1, None, "'I told you, the dye is great.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
     (2, None, "'It looks like genuine black caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
     (3, None, "'This dish is called pike easter.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'Because it is a real culinary miracle!' — causal conjunction followed by an emphatic noun phrase."),
-    (5, None, "'Give me a spoon, I want to taste.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Listen, the taste is simply magnificent.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'Our guests will be in total delight.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Chef will not find out anything, hide the jar!' — negative future word paired with an command form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (5, None, "'Because it is a real culinary miracle!' — causal conjunction followed by an emphatic noun phrase."),
+    (6, None, "'Give me a spoon, I want to taste.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (8, None, "'Listen, the taste is simply magnificent.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (9, None, "'Our guests will be in total delight.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (11, None, "'Chef will not find out anything, hide the jar!' — negative future word paired with an command form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]

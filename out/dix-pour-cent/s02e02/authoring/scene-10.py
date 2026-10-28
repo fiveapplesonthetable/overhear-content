@@ -7,8 +7,7 @@ SCENE = 10
 TITLE = 'Un secret au bar  (A Secret at the Bar)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'herve': 'Hervé', 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At a Parisian bar after work, Camille, Hervé, and Sofia relax over drinks. The conversation turns playful until Hervé blabs a huge agency secret about Camille's parentage. Let's listen to the scene in French first."
@@ -19,13 +18,13 @@ CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('herve', 'Santé à tout le monde!', 'Cheers to everyone!', [(293, 'Santé.')], ''),
     ('sofia', 'Comment tu vas ce soir, Camille?', 'How are you doing tonight, Camille?', [(298, 'Comment tu vas ?')], ''),
-    ('lea', 'Ça va très bien, merci beaucoup.', 'I am doing very well, thank you very much.', [(298, 'Comment tu vas ?')], ''),
+    ('camille', 'Ça va très bien, merci beaucoup.', 'I am doing very well, thank you very much.', [(298, 'Comment tu vas ?')], ''),
     ('sofia', 'Pourquoi tu ne sors pas avec Hippolyte?', 'Why don', [(307, 'Pourquoi tu ne sors pas avec Hippolyte')], ''),
-    ('lea', "Ne dis pas n'importe quoi, Sofia.", 'Do not say foolish things, Sofia.', [(308, "ne dis pas n'importe quoi.")], ''),
-    ('lea', "On est amis, c'est tout.", 'We are friends, that is all.', [(310, "On est amis, c'est tout.")], ''),
+    ('camille', "Ne dis pas n'importe quoi, Sofia.", 'Do not say foolish things, Sofia.', [(308, "ne dis pas n'importe quoi.")], ''),
+    ('camille', "On est amis, c'est tout.", 'We are friends, that is all.', [(310, "On est amis, c'est tout.")], ''),
     ('herve', "Tu plaisantes? Vous êtes faits l'un pour l'autre!", 'Are you kidding? You are made for each other!', [(311, 'Tu plaisantes ?'), (312, "faits l'un pour l'autre !")], ''),
-    ('lea', 'Non, on se ressemble trop.', 'No, we are too similar.', [(313, 'Non, on se ressemble trop.')], ''),
-    ('lea', 'Non, je vais juste aux toilettes.', 'No, I am just going to the restroom.', [(316, 'Non, je vais juste aux toilettes.')], ''),
+    ('camille', 'Non, on se ressemble trop.', 'No, we are too similar.', [(313, 'Non, on se ressemble trop.')], ''),
+    ('camille', 'Non, je vais juste aux toilettes.', 'No, I am just going to the restroom.', [(316, 'Non, je vais juste aux toilettes.')], ''),
     ('herve', 'Leurs pères se connaissent très bien.', 'Their fathers know each other very well.', [(322, 'Leurs pères se connaissent bien.')], ''),
     ('sofia', 'Pourquoi elle ne le dit pas?', 'Why does she not say it?', [(326, 'Pourquoi elle ne le dit pas ?')], ''),
     ('herve', "C'est un grand secret de famille.", 'It is a big family secret.', [(327, "C'est un secret de famille.")], ''),

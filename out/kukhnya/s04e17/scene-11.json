@@ -8,14 +8,10 @@
  "scene": 11,
  "title": "Новая квартира для Евы  (A New Apartment for Eva)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "eva": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
-  "eva": "Ева"
+  "barinov": "Шеф",
+  "eva": "Ева",
+  "katya": "Катя"
  },
  "segments": [
   {
@@ -24,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот здесь теперь ты будешь жить.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Метро за углом, до ресторана близко.",
    "gap": 0.55
   },
@@ -39,7 +35,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Надеюсь, это останется между нами?",
    "gap": 0.55
   },
@@ -54,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "eva",
+   "v": "katya",
    "t": "Денис, пора ехать, жду на улице!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну что, тебе уже стало полегче?",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я никогда не жалел денег на детей.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Родишь ребёнка, тогда куплю.",
    "gap": 0.9
   },
@@ -89,23 +85,23 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот здесь теперь ты будешь жить.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Right here is where you will live now.' Chef Barinov shows off the apartment using the compound future tense.",
+   "t": "'Right here is where you will live now.' Barinov mentions that right here is where Eva will live now so Eva sees what is at stake. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Метро за углом, до ресторана близко.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'The metro is around the corner, the restaurant is close.' Chef Barinov pairs 'metro' with 'closely' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.",
+   "t": "'The metro is around the corner, the restaurant is close.' Claiming that the metro is around the corner the restaurant is close sounds confident, even if Eva has doubts.",
    "gap": 0.4
   },
   {
@@ -115,17 +111,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I knew that you are a noble man.' Eva flatters his generosity with a descriptive masculine adjective meaning noble.",
+   "t": "'I knew that you are a noble man.' Pointing out that she knew that Barinov is a noble man gives Barinov a sobering reality check.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Надеюсь, это останется между нами?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I hope this will remain between us?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.",
+   "t": "'I hope this will remain between us?' Barinov asks whether he hopes this will remain between them, refusing to let the point slide. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -135,7 +131,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Oh, I suddenly felt sick all of a sudden.' In everyday Russian, 'suddenly, what if' flows straight into 'badly' without extra linking words.",
+   "t": "'Oh, I suddenly felt sick all of a sudden.' Realizing that she suddenly felt sick all of a sudden changes how Eva handles the situation.",
    "gap": 0.4
   },
   {
@@ -145,27 +141,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Won't you drive me to work?' A prefixed verb of vehicular motion means to drive someone all the way to a destination.",
+   "t": "'Won't you drive me to work?' Here checking whether not Barinov drives her to work shows Eva looking for the real truth.",
    "gap": 0.4
   },
   {
-   "v": "eva",
+   "v": "katya",
    "t": "Денис, пора ехать, жду на улице!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Denis, it is time to go, I am waiting outside!' Notice how Russian puts 'it's time' and 'street; outside' together in a short, direct phrase where word endings show how the ideas connect.",
+   "t": "'Denis, it is time to go, I am waiting outside!' Once it is time to go she is waiting outside, Katya makes sure Barinov hears every word. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну что, тебе уже стало полегче?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well, are you feeling a bit better already?' Here Chef Barinov anchors the thought on 'already' and finishes on 'easier, better', keeping the spoken rhythm brisk and natural.",
+   "t": "'Well, are you feeling a bit better already?' Checking whether Eva feeling a bit better already cuts straight through the tension between Barinov and Eva. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Viktor Petrovich, buy me a car!' Emboldened by the apartment, Eva asks for a car with a direct request.",
+   "t": "'Viktor Petrovich, buy me a car!' Here buying her a car lets Eva's real feelings break through.",
    "gap": 0.4
   },
   {
@@ -185,36 +181,36 @@
   },
   {
    "v": "narrator",
-   "t": "'Do you begrudge money for our child?' In spoken Russian, the words stay in their normal statement order and Eva's rising voice at the end turns the line into a question.",
+   "t": "'Do you begrudge money for our child?' Here asking whether Barinov begrudge money for their child shows Eva looking for the real truth. Even in the middle of the drama, she keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я никогда не жалел денег на детей.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I never begrudged money for my children.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.",
+   "t": "'I never begrudged money for my children.' Around the moment and morning, Barinov sets a calm, everyday tone with Eva. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Родишь ребёнка, тогда куплю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Give birth to the child, then I will buy it.' Here Chef Barinov anchors the thought on 'to give' and finishes on 'will buy', keeping the spoken rhythm brisk and natural. Now let's hear the entire scene again without interruption.",
+   "t": "'Give birth to the child, then I will buy it.' Here telling Eva to give birth to the child then he will buy it sets up the next turn in their exchange. Now let's hear the entire scene again without interruption.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот здесь теперь ты будешь жить.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Метро за углом, до ресторана близко.",
    "gap": 0.5
   },
@@ -224,7 +220,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Надеюсь, это останется между нами?",
    "gap": 0.5
   },
@@ -239,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "eva",
+   "v": "katya",
    "t": "Денис, пора ехать, жду на улице!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну что, тебе уже стало полегче?",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я никогда не жалел денег на детей.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Родишь ребёнка, тогда куплю.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До встречи!",
    "gap": 0.3
   }

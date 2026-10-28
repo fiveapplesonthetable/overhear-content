@@ -7,7 +7,6 @@ SCENE = 17
 TITLE = 'Aveux mutuels  (Mutual Confessions)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
 LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'

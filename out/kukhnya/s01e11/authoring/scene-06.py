@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 6
-TITLE = "Отказ от салата  (The Rejected Salad)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Отказ от салата  (The Rejected Salad)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja"}
-LABELS = {"kostya": "Костя"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = 'In the kitchen, waiter Kostya rushes to Chef Viktor Barinov with terrifying news. A guest at table seven, suspected of being a secret food critic, has just sent back her salad, complaining about the sour dressing. Listen to their panicked conversation in Russian first, and then we will examine each sentence.'
 OPENER = 'Now, let us examine the vocabulary and phrasing of this dramatic kitchen crisis.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A tense comedic moment as Chef Barinov prepares to defend his kitchen's reputation against a ruthless reviewer. Next time you watch the episode, listen for the Russian expressions for 'author's' and 'notepad' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('kostya', 'Шеф, внимание! На кухне чрезвычайная ситуация.', 'Chef, attention! An emergency situation in the kitchen.', [(72, 'внимание')], ''),
-    ('kostya', 'Костя, что случилось в зале?', 'Kostya, what happened in the dining room?', [], ''),
+    ('barinov', 'Костя, что случилось в зале?', 'Kostya, what happened in the dining room?', [], ''),
     ('kostya', 'Обнаружен предполагаемый ресторанный критик!', 'A suspected restaurant critic has been spotted!', [(73, 'Обнаружен предполагаемый критик.')], ''),
     ('kostya', 'Она сидит за седьмым столиком.', 'She is sitting at table seven.', [(74, 'сидит за седьмым столиком.')], ''),
     ('kostya', 'И у меня отказ от салата!', 'And I have a salad rejection!', [(75, 'У меня отказ от салата.')], ''),
-    ('kostya', 'Как отказ? Мой идеальный салат?', 'How, a rejection? My perfect salad?', [(76, 'Как отказ?')], ''),
+    ('barinov', 'Как отказ? Мой идеальный салат?', 'How, a rejection? My perfect salad?', [(76, 'Как отказ?')], ''),
     ('kostya', 'Она вернула тарелку назад, шеф.', 'She sent the plate back, chef.', [], ''),
-    ('kostya', 'Какой столик? Точно седьмой?', 'Which table? Definitely the seventh?', [(77, 'Какой столик? Седьмой.')], ''),
+    ('barinov', 'Какой столик? Точно седьмой?', 'Which table? Definitely the seventh?', [(77, 'Какой столик? Седьмой.')], ''),
     ('kostya', 'Да, строгая дама в очках.', 'Yes, a strict lady in glasses.', [], ''),
-    ('kostya', 'Что именно ей не понравилось?', 'What exactly did she not like?', [], ''),
+    ('barinov', 'Что именно ей не понравилось?', 'What exactly did she not like?', [], ''),
     ('kostya', 'Сказала, что соус слишком кислый.', 'She said the sauce was too sour.', [], ''),
-    ('kostya', 'Это авторский рецепт высокой кухни!', 'This is an author recipe of haute cuisine!', [], ''),
+    ('barinov', 'Это авторский рецепт высокой кухни!', 'This is an author recipe of haute cuisine!', [], ''),
     ('kostya', 'Шеф, она уже открыла блокнот.', 'Chef, she has already opened a notepad.', [], ''),
-    ('kostya', 'Я лично приготовлю ей десерт!', 'I will personally prepare her a dessert!', [], ''),
+    ('barinov', 'Я лично приготовлю ей десерт!', 'I will personally prepare her a dessert!', [], ''),
 ]
 WALK = [
     (0, None, "'Chef, attention! There is an emergency in the kitchen.' Kostya bursts into the workspace with urgent news."),

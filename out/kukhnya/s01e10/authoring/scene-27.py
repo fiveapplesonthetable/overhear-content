@@ -5,31 +5,30 @@ SEASON = 1
 EPISODE = 10
 SCENE = 27
 TITLE = "В кабинете шефа  (In the Chef's Office)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'Behind closed doors in his private office, Chef Viktor Petrovich confronts Max about Victoria. Drawing on his own painful past experience with her family, the veteran chef scolds the panicked young cook and strictly forbids him from running away to Voronezh. Let us listen to their heated exchange in Russian first.'
 OPENER = "Now let us examine Viktor's firm life lecture to Max line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Faced with Viktor's strict refusal to let him run away, Max realizes that he cannot escape his responsibilities and must confront whatever lies ahead. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Вот это ты сильно попал, парень.', 'Now you are in deep trouble, lad.', [(189, 'Вот это ты попал')], ''),
-    ('anya', 'Шеф, поверьте, так случайно получилось.', 'Chef, believe me, it just happened accidentally.', [(192, 'Шеф, так получилось')], ''),
-    ('chef', 'Надо было заранее думать головой.', 'You had to think with your head in advance.', [(190, 'Надо было как-то думать')], ''),
-    ('anya', 'Что же мне теперь делать?', 'What am I to do now?', [], ''),
-    ('chef', 'Их семья теперь не отстанет от тебя.', 'Their family will not leave you alone now.', [(194, 'Теперь они с тебя')], ''),
-    ('anya', 'Вы так хорошо знаете эту семью?', 'Do you know this family so well?', [], ''),
-    ('chef', 'Я сам раньше жил в этой семье.', 'I myself used to live in this family.', [(196, 'в их семье'), (198, 'О себе')], ''),
-    ('anya', 'И они выгнали вас из дома?', 'And did they drive you out of the house?', [(197, 'Выжили')], ''),
-    ('chef', 'Они забрали у меня все силы.', 'They took all strength from me.', [(195, 'Все соки выжмут')], ''),
-    ('anya', 'Может, мне просто уехать в Воронеж?', 'Maybe I should just leave for Voronezh?', [(199, 'Может, обратно в Воронич свалить')], ''),
-    ('chef', 'Никуда ты сейчас не поедешь.', 'You will not go anywhere now.', [(200, 'Я тебе свалю')], ''),
-    ('anya', 'Но я очень боюсь такой ответственности.', 'But I am very afraid of such responsibility.', [], ''),
-    ('chef', 'Мужчина обязан отвечать за свои поступки.', 'A man is obliged to answer for his actions.', [(201, 'За свои поступки надо отвечать')], ''),
+    ('barinov', 'Вот это ты сильно попал, парень.', 'Now you are in deep trouble, lad.', [(189, 'Вот это ты попал')], ''),
+    ('max', 'Шеф, поверьте, так случайно получилось.', 'Chef, believe me, it just happened accidentally.', [(192, 'Шеф, так получилось')], ''),
+    ('barinov', 'Надо было заранее думать головой.', 'You had to think with your head in advance.', [(190, 'Надо было как-то думать')], ''),
+    ('max', 'Что же мне теперь делать?', 'What am I to do now?', [], ''),
+    ('barinov', 'Их семья теперь не отстанет от тебя.', 'Their family will not leave you alone now.', [(194, 'Теперь они с тебя')], ''),
+    ('max', 'Вы так хорошо знаете эту семью?', 'Do you know this family so well?', [], ''),
+    ('barinov', 'Я сам раньше жил в этой семье.', 'I myself used to live in this family.', [(196, 'в их семье'), (198, 'О себе')], ''),
+    ('max', 'И они выгнали вас из дома?', 'And did they drive you out of the house?', [(197, 'Выжили')], ''),
+    ('barinov', 'Они забрали у меня все силы.', 'They took all strength from me.', [(195, 'Все соки выжмут')], ''),
+    ('max', 'Может, мне просто уехать в Воронеж?', 'Maybe I should just leave for Voronezh?', [(199, 'Может, обратно в Воронич свалить')], ''),
+    ('barinov', 'Никуда ты сейчас не поедешь.', 'You will not go anywhere now.', [(200, 'Я тебе свалю')], ''),
+    ('max', 'Но я очень боюсь такой ответственности.', 'But I am very afraid of such responsibility.', [], ''),
+    ('barinov', 'Мужчина обязан отвечать за свои поступки.', 'A man is obliged to answer for his actions.', [(201, 'За свои поступки надо отвечать')], ''),
 ]
 WALK = [
     (0, None, "'Now you are in deep trouble, lad.' Chef Barinov puts the word for 'badly' together with 'got into trouble' and 'lad' in a crisp, natural spoken turn of phrase."),

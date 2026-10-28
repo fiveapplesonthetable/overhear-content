@@ -1,39 +1,39 @@
-# Сомнения  (Doubts) — `kukhnya-s01e19-scene-20`
+# kukhnya-s01e19-scene-20: review sheet
 
-**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Сомнения  (Doubts)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.19
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Focused on doubts, Max reflects on how people value what they have. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Люди часто сомневаются. | People often doubt. | #379 "Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь." |  |
-| 1 | Вика | В чем? | In what? | *(added)* |  |
-| 2 | Макс | В том, что они имеют. | In what they have. | #379 "Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь." |  |
-| 3 | Вика | Это правда. | That is true. | *(added)* |  |
-| 4 | Макс | Они не знают. | They do not know. | *(added)* |  |
-| 5 | Вика | Чего не знают? | What do they not know? | *(added)* |  |
-| 6 | Макс | Насколько им дорого то, что есть. | How dear is what there is. | #379 "Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь." |  |
-| 7 | Вика | Мы знаем. | We know. | *(added)* |  |
-| 8 | Макс | Да, мы знаем. | Yes, we know. | *(added)* |  |
-| 9 | Вика | Это хорошо. | This is good. | *(added)* |  |
-| 10 | Макс | Очень хорошо. | Very good. | *(added)* |  |
-| 11 | Вика | Я согласна. | I agree. | *(added)* |  |
+| 1 | Макс | Люди часто сомневаются. | People often doubt. | #379: Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь. | verbatim |
+| 2 | Вика | В чем? | In what? | new | new |
+| 3 | Макс | В том, что они имеют. | In what they have. | #379: Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь. | verbatim |
+| 4 | Вика | Это правда. | That is true. | new | new |
+| 5 | Макс | Они не знают. | They do not know. | new | new |
+| 6 | Вика | Чего не знают? | What do they not know? | new | new |
+| 7 | Макс | Насколько им дорого то, что есть. | How dear is what there is. | #379: Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь. | verbatim |
+| 8 | Вика | Мы знаем. | We know. | new | new |
+| 9 | Макс | Да, мы знаем. | Yes, we know. | new | new |
+| 10 | Вика | Это хорошо. | This is good. | new | new |
+| 11 | Макс | Очень хорошо. | Very good. | new | new |
+| 12 | Вика | Я согласна. | I agree. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Max reflects on how people value what they have. Next time you watch the episode, listen for the Russian expressions for 'person' and 'often' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'People often doubt.' the self-directed ending on the verb for 'to doubt' turns the action back onto the subject.
+- 'In what?' Vika asks this with a single word meaning 'than', using rising intonation to turn it into a quick question.
+- 'In what they have.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to have'.
+- 'That is true.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'honestly'.
+- 'They do not know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
+- 'What do they not know?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'know'.
+- 'How dear is what there is.' The phrasing opens with 'as far as' before bringing in 'expensive' and 'there is' to make the point clear.
+- 'We know.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'know'.
+- 'Yes, we know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
+- 'This is good.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'good'.
+- 'Very good.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'good', combining 'very much' with 'good'.
+- 'I agree.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'I' straight to 'agree'.

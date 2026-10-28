@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 10
-TITLE = "Плохая рыба  (Bad Fish)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Плохая рыба  (Bad Fish)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "In the locker room, Fedya checks on Senya, who feels terrible after eating spoiled fish he had hidden away. Fedya recalls his Navy days and suggests a strong drink as a remedy. Let's listen to their conversation in Russian first."
 OPENER = "Let's walk through Fedya and Senya's conversation line by line."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = 'Regretting the spoiled fish, Senya heads toward the bar while promising never to steal food again. See you next time!'
-CLOSING = ("fedya", "Удачи!")
+CLOSING = ('fedya', 'Удачи!')
 STORY = [
     ('fedya', 'Сеня, у тебя всё хорошо?', 'Senya, are you all right?', [(229, 'У тебя все хорошо')], ''),
     ('senya', 'Нет, мне очень плохо.', 'No, I feel really bad.', [(230, 'Нет')], ''),
     ('fedya', 'Я же тебе говорил, не ешь эту рыбу.', 'I told you not to eat that fish.', [(230, 'Я тебе говорил, не ешь эту рыбу')], ''),
     ('fedya', 'Ты пил активированный уголь?', 'Did you take activated charcoal?', [(231, 'Ты уголь пил')], ''),
     ('senya', 'Да, я уже выпил две пачки.', 'Yes, I already took two packs.', [(231, 'две пачки')], ''),
-    ('senya', 'Но мне это совсем не помогло.', 'But it did not help me at all.', [], ''),
+    ('fedya', 'Но мне это совсем не помогло.', 'But it did not help me at all.', [], ''),
     ('fedya', 'Я когда на флоте служил, медузу нечаянно съел.', 'When I served in the Navy, I accidentally ate a jellyfish.', [(233, 'я когда на флоте служил'), (233, 'медузу один раз нечаянно съел')], ''),
     ('fedya', 'Тогда боцман сразу налил мне крепкого.', 'Back then the boatswain immediately poured me a strong drink.', [(234, 'сразу не налил')], ''),
     ('fedya', 'Слышишь, что я говорю?', 'Do you hear what I am saying?', [(235, 'Слышишь, что говорю')], ''),
     ('fedya', 'Тебе надо выпить чего-нибудь крепкого.', 'You need to drink something strong.', [(235, 'чего-нибудь крепкого надо')], ''),
     ('senya', 'Хорошо, сейчас пойду поищу в баре.', 'Alright, I will go look for some at the bar now.', [(236, 'сейчас пойду поищу')], ''),
-    ('senya', 'Если выживу, воровать продукты перестану!', 'If I survive, I will stop stealing food!', [(237, 'Если выживу, воровать перестану')], ''),
+    ('fedya', 'Если выживу, воровать продукты перестану!', 'If I survive, I will stop stealing food!', [(237, 'Если выживу, воровать перестану')], ''),
 ]
 WALK = [
     (0, None, "'Senya, are you all right?' Fedya checks on his friend in the locker room."),

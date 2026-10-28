@@ -7,8 +7,7 @@ SCENE = 9
 TITLE = "La négociation d'Arlette  (Arlette's Negotiation)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie'}
-LABELS = {'arlette': 'Arlette', 'lea': 'Andréa'}
+LABELS = {'arlette': 'Arlette', 'laurence': 'Laurence'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In a production office, veteran agent Arlette Azemar meets with respected producer Laurence. Arlette urgently needs Laurence to endorse a contract under a homonym name to protect the agency, prompting an intense negotiation over top French talent. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Arlette's legendary dealmaking skills win over a tough producer once again. When you watch the episode, listen out for the expressions meaning 'story' and 'homonym'. You'll catch them now. See you next time!"
 CLOSING = ('arlette', 'Bonne soirée!')
 STORY = [
-    ('lea', "Votre histoire d'homonyme ne marchera jamais.", 'Your lookalike scheme will never work.', [(463, "Ça marchera jamais, votre histoire d'homonyme.")], ''),
+    ('laurence', "Votre histoire d'homonyme ne marchera jamais.", 'Your lookalike scheme will never work.', [(463, "Ça marchera jamais, votre histoire d'homonyme.")], ''),
     ('arlette', "Tu penses complètement à l'envers, Laurence.", 'You are thinking completely backwards, Laurence.', [(466, "Tu penses à l'envers, Laurence.")], ''),
-    ('lea', 'Je ne connais pas cette dame.', 'I do not know this lady.', [(468, 'Arlette, je la connais pas, cette dame.')], ''),
+    ('laurence', 'Je ne connais pas cette dame.', 'I do not know this lady.', [(468, 'Arlette, je la connais pas, cette dame.')], ''),
     ('arlette', "Elle sauvera toute notre agence aujourd'hui.", 'She will save our entire agency today.', [(467, "C'est si tu cautionnes pas que ça peut pas marcher.")], ''),
-    ('lea', 'Je refuse de signer un faux contrat.', 'I refuse to sign a fake contract.', [(469, "J'ai pas lu signer un faux contrat de travail.")], ''),
+    ('laurence', 'Je refuse de signer un faux contrat.', 'I refuse to sign a fake contract.', [(469, "J'ai pas lu signer un faux contrat de travail.")], ''),
     ('arlette', 'Que veux-tu en échange de ton aide?', 'What do you want in exchange for your help?', [(472, "C'est ce que tu veux ?")], ''),
-    ('lea', 'Je veux Guillaume Canet pour mon film.', 'I want Guillaume Canet for my film.', [(474, 'On est en égo avec Guillaume Canet pour le film de Nicole Garcia ?')], ''),
+    ('laurence', 'Je veux Guillaume Canet pour mon film.', 'I want Guillaume Canet for my film.', [(474, 'On est en égo avec Guillaume Canet pour le film de Nicole Garcia ?')], ''),
     ('arlette', 'Impossible, il est chez Barneville maintenant.', 'Impossible, he is with Barneville now.', [(477, 'Il est chez Barneville.')], ''),
-    ('lea', 'Alors je ne signe rien du tout.', 'Then I am not signing anything at all.', [(475, 'Non, pas possible.')], ''),
+    ('laurence', 'Alors je ne signe rien du tout.', 'Then I am not signing anything at all.', [(475, 'Non, pas possible.')], ''),
     ('arlette', 'Et si je te propose Cécile de France?', 'And what if I offer you Cecile de France?', [(480, "Par contre, Cécile de France, dans l'institutrice...")], ''),
-    ('lea', "Pour le rôle principal de l'institutrice?", 'For the leading role of the schoolteacher?', [(480, "dans l'institutrice")], ''),
+    ('laurence', "Pour le rôle principal de l'institutrice?", 'For the leading role of the schoolteacher?', [(480, "dans l'institutrice")], ''),
     ('arlette', 'Exactement, avec un accord de principe rapide.', 'Exactly, with a quick agreement in principle.', [(482, 'Un accord de principe pour lancer le financement du film.')], ''),
-    ('lea', "Ajoute une participation de Balasko et j'accepte.", 'Add an appearance by Balasko and I accept.', [(487, 'Balasco, en participation exceptionnelle.')], ''),
+    ('laurence', "Ajoute une participation de Balasko et j'accepte.", 'Add an appearance by Balasko and I accept.', [(487, 'Balasco, en participation exceptionnelle.')], ''),
     ('arlette', 'Marché conclu, signe ce papier maintenant.', 'Deal done, sign this paper now.', [(489, 'Allez, signe.')], ''),
 ]
 WALK = [

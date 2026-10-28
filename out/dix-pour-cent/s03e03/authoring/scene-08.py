@@ -7,7 +7,6 @@ SCENE = 8
 TITLE = "L'engagement de Camille  (Camille's Commitment)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'samy': 'marcel'}
 LABELS = {'camille': 'Camille', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
@@ -33,18 +32,18 @@ STORY = [
     ('camille', "Moi aussi, je t'aime beaucoup.", 'I love you very much too.', [(390, 'Moi aussi.')], ''),
 ]
 WALK = [
-    (0, None, "'We are going to do it together.' Camille announces their joint decision. French forms the near future by pairing the present tense of 'to go' directly with 'do'."),
+    (0, None, "'We are going to do it together.' Samy announces their joint decision. French forms the near future by pairing the present tense of 'to go' directly with 'do'."),
     (1, None, "'Are you really sure about it?' Camille Valentini asks for certainty. The informal 'you' form around 'this line' marks a direct, personal relationship."),
-    (2, None, "'Yes, Camille and Valentini, both of us.' Camille emphasizes their union. The adverb meaning 'yes' gives the reply its conversational emphasis."),
+    (2, None, "'Yes, Camille and Valentini, both of us.' Samy emphasizes their union. The adverb meaning 'yes' gives the reply its conversational emphasis."),
     (3, None, "'I completely agree.' Camille Valentini gives wholehearted assent. The adverb meaning 'completely' gives the reply its conversational emphasis."),
-    (4, None, "'I love you, I want to marry you.' Camille declares his love and intention to marry. The clause hinges on the everyday verb meaning 'love'."),
+    (4, None, "'I love you, I want to marry you.' Samy declares his love and intention to marry. The clause hinges on the everyday verb meaning 'love'."),
     (5, None, "'That works out very well for us.' Camille Valentini notes the happy coincidence. The clause hinges on the everyday verb meaning 'falls'."),
     (6, None, "'We already share the same first name.' Camille Valentini jokes about their identical names. Notice how 'have' leads directly into the noun meaning 'first name'."),
-    (7, None, "'Our life is going to change completely.' Camille foresees exciting transformations ahead. French forms the near future by pairing the present tense of 'to go' directly with 'change'."),
+    (7, None, "'Our life is going to change completely.' Samy foresees exciting transformations ahead. French forms the near future by pairing the present tense of 'to go' directly with 'change'."),
     (8, None, "'Yours will change too.' Camille Valentini replies in kind. French forms the near future by pairing the present tense of 'to go' directly with 'change'."),
     (9, None, "'Now, you must hurry to the casting.' Camille Valentini directs him to take action. Notice how 'must' leads directly into the noun meaning 'casting'."),
-    (10, None, "'What are you saying?' Camille is taken aback by the sudden shift. Notice how the short vowel drops before a vowel sound around 'say', making the phrase flow smoothly as one unit."),
+    (10, None, "'What are you saying?' Samy is taken aback by the sudden shift. Notice how the short vowel drops before a vowel sound around 'say', making the phrase flow smoothly as one unit."),
     (11, None, "'Go there quickly to fix things.' Camille Valentini urges him to save the day. The verb meaning 'go there' pairs naturally with the noun for 'situation' in everyday conversation."),
-    (12, None, "'I love you with all my heart.' Camille reaffirms his love before leaving. The verb meaning 'love' pairs naturally with the noun for 'heart' in everyday conversation."),
+    (12, None, "'I love you with all my heart.' Samy reaffirms his love before leaving. The verb meaning 'love' pairs naturally with the noun for 'heart' in everyday conversation."),
     (13, None, "'I love you very much too.' Camille Valentini returns the sentiment warmly. The clause hinges on the everyday verb meaning 'love'."),
 ]

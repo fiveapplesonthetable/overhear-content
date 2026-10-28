@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Держитесь меня, и всё у вас будет хорошо. Потому что я кто? | Stick with me, and everything will be fine for you. Because who am I? | #1052 00:57:58: и всё у вас будет хорошо<br>#1053 00:58:01: Потому что я кто | adapted: «Вы меня, ребятки, держитесь» -> «Держитесь меня» (address word dropped, normal word order) |
+| 1 | Аркадий | Держитесь меня, и всё у вас будет хорошо. Потому что я кто? | Stick with me, and everything will be fine for you. Because who am I? | #1052: и всё у вас будет хорошо<br>#1053: Потому что я кто | adapted: «Вы меня, ребятки, держитесь» -> «Держитесь меня» (address word dropped, normal word order) |
 | 2 | Лёша | Взяточник! | A bribe-taker! | new | new: the cue is garbled («В яточник!», 1054); speaker unclear, given to Lyosha |
-| 3 | Аня | Во-первых, суда ещё не было. | First of all, there hasn't been a trial yet. | #1056 00:58:05: Во-первых, суда ещё не было | verbatim |
+| 3 | Аркадий | Во-первых, суда ещё не было. | First of all, there hasn't been a trial yet. | #1056: Во-первых, суда ещё не было | verbatim |
 | 4 | Лёша | А во-вторых? | And second? | new | new: new: the boy prompts the 'second' point (1057) |
-| 5 | Аня | А во-вторых, я тебе могу игрушку купить, а твоя мама нет. | And second, I can buy you a toy, and your mum can't. | #1057 00:58:08: А во-вторых<br>#1059 00:58:11: Я тебе могу игрушку купить, а твоя мама нет | verbatim |
-| 6 | Лёша | Почему? | Why? | #1060 00:58:14: Почему | verbatim |
-| 7 | Аня | Потому что она простая. Её все обманывают. | Because she's naive. Everybody cheats her. | #1061 00:58:15: потому что она | adapted: «лохушка» (sucker) -> «простая»; «Она овца, и все её стригут» (1063) -> «Её все обманывают» |
-| 8 | Лёша | Мама хорошая! | My mum is good! | #1065 00:58:25: Мама хорошая | verbatim |
-| 9 | Аня | Хорошая, никто же не говорит. Эй, ты что? | She is good, nobody's saying she isn't. Hey, what's wrong? | #1066 00:58:26: никто же не говорит | adapted: 'Хорошая' replaces «Да отличная мама твоя»; «Ты чё, пацан?» (1068) -> «Эй, ты что?» |
-| 10 | Марина | Лёша, что случилось? Дыши, сынок, дыши! | Lyosha, what happened? Breathe, son, breathe! | #1079 00:58:51: Лёша, что случилось<br>#1080 00:58:53: дыши, сынок, дыши | verbatim |
-| 11 | Аня | Мы только икру ели! | We were only eating caviar! | new | new: new: tells Marina what happened (the allergy attack follows the caviar, scene 28) |
-| 12 | Марина | Вам же ребёнок сказал, что у него аллергия. | The child told you he has an allergy. | #1087 00:59:34: Вам же ребенок сказал, что у него аллергия | verbatim |
-| 13 | Аня | Я думал, вы ему врёте, потому что икра дорогая. | I thought you were lying to him because caviar is expensive. | #1088 00:59:37: Я думал, вы ему врете, потому что икра дорогая | verbatim |
-| 14 | Марина | Я своему ребёнку никогда не вру. | I never lie to my child. | #1089 00:59:39: Я своему ребенку никогда не вру | verbatim |
-| 15 | Лёша | Мама, я ему копилку отдал за приставку. | Mum, I gave him my piggy bank for a games console. | #1096 00:59:53: Я ему копилку отдал за | adapted: 'Мама' added as address; ПСП -> приставка (the plain word for a games console) |
-| 16 | Аня | В чём дело? Куплю я ему приставку. | What's the problem? I'll buy him the console. | #1098 01:00:02: В чём дело? Куплю я ему | adapted: «это ПСП» -> «приставку» |
-| 17 | Марина | Нам не нужна ваша приставка! Ещё раз подойдёте к ребёнку, пожалеете! | We don't need your console! Come near my child again and you'll be sorry! | #1101 01:00:09: Нам не нужно ваше<br>#1107 01:00:29: ребенку | adapted: «ваше ПСП» -> «ваша приставка» (agreement follows the noun); the threat (1107-1109) is retold cleanly, ты -> вы |
-| 18 | Аня | Я ухожу. Ваш сын будет бедным и честным. | I'm leaving. Your son will be poor and honest. | #1116 01:00:49: будет бедным и честным | adapted: «Я покидаю вас» (1115) -> «Я ухожу»; the garbled «безопасности» dropped |
+| 5 | Аркадий | А во-вторых, я тебе могу игрушку купить, а твоя мама нет. | And second, I can buy you a toy, and your mum can't. | #1057: А во-вторых<br>#1059: Я тебе могу игрушку купить, а твоя мама нет | verbatim |
+| 6 | Лёша | Почему? | Why? | #1060: Почему | verbatim |
+| 7 | Аркадий | Потому что она простая. Её все обманывают. | Because she's naive. Everybody cheats her. | #1061: потому что она | adapted: «лохушка» (sucker) -> «простая»; «Она овца, и все её стригут» (1063) -> «Её все обманывают» |
+| 8 | Лёша | Мама хорошая! | My mum is good! | #1065: Мама хорошая | verbatim |
+| 9 | Аркадий | Хорошая, никто же не говорит. Эй, ты что? | She is good, nobody's saying she isn't. Hey, what's wrong? | #1066: никто же не говорит | adapted: 'Хорошая' replaces «Да отличная мама твоя»; «Ты чё, пацан?» (1068) -> «Эй, ты что?» |
+| 10 | Марина | Лёша, что случилось? Дыши, сынок, дыши! | Lyosha, what happened? Breathe, son, breathe! | #1079: Лёша, что случилось<br>#1080: дыши, сынок, дыши | verbatim |
+| 11 | Аркадий | Мы только икру ели! | We were only eating caviar! | new | new: new: tells Marina what happened (the allergy attack follows the caviar, scene 28) |
+| 12 | Марина | Вам же ребёнок сказал, что у него аллергия. | The child told you he has an allergy. | #1087: Вам же ребенок сказал, что у него аллергия | verbatim |
+| 13 | Аркадий | Я думал, вы ему врёте, потому что икра дорогая. | I thought you were lying to him because caviar is expensive. | #1088: Я думал, вы ему врете, потому что икра дорогая | verbatim |
+| 14 | Марина | Я своему ребёнку никогда не вру. | I never lie to my child. | #1089: Я своему ребенку никогда не вру | verbatim |
+| 15 | Лёша | Мама, я ему копилку отдал за приставку. | Mum, I gave him my piggy bank for a games console. | #1096: Я ему копилку отдал за | adapted: 'Мама' added as address; ПСП -> приставка (the plain word for a games console) |
+| 16 | Аркадий | В чём дело? Куплю я ему приставку. | What's the problem? I'll buy him the console. | #1098: В чём дело? Куплю я ему | adapted: «это ПСП» -> «приставку» |
+| 17 | Марина | Нам не нужна ваша приставка! Ещё раз подойдёте к ребёнку, пожалеете! | We don't need your console! Come near my child again and you'll be sorry! | #1101: Нам не нужно ваше<br>#1107: ребенку | adapted: «ваше ПСП» -> «ваша приставка» (agreement follows the noun); the threat (1107-1109) is retold cleanly, ты -> вы |
+| 18 | Аркадий | Я ухожу. Ваш сын будет бедным и честным. | I'm leaving. Your son will be poor and honest. | #1116: будет бедным и честным | adapted: «Я покидаю вас» (1115) -> «Я ухожу»; the garbled «безопасности» dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

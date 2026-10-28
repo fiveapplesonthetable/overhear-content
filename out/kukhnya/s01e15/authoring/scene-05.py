@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 5
-TITLE = "Утренние сборы  (Morning Preparations)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Утренние сборы  (Morning Preparations)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa"}
-LABELS = {"nastya": "Настя", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Nastya wakes up and complains to Max about his exhausting morning routine. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Morning Preparations line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max is left to consider Nastya's romantic offer. Next time you watch the episode, listen for the Russian expressions for 'where' and 'it's time' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Ну ты куда?', 'Where are you going?', [(25, 'Ну ты куда?')], ''),
-    ('anya', 'Мне пора.', 'I have to go.', [], ''),
+    ('max', 'Мне пора.', 'I have to go.', [], ''),
     ('nastya', 'Останься со мной ещё на одну минуту.', 'Stay with me for one more minute.', [], ''),
-    ('anya', 'Я не могу, я очень сильно спешу.', 'I cannot, I am rushing very much.', [], ''),
+    ('max', 'Я не могу, я очень сильно спешу.', 'I cannot, I am rushing very much.', [], ''),
     ('nastya', 'У тебя опять очень много важных дел?', 'Do you again have many important things?', [], ''),
-    ('anya', 'Надо заехать домой, принять душ, переодеться.', 'I need to stop by home, take a shower, change.', [], ''),
+    ('max', 'Надо заехать домой, принять душ, переодеться.', 'I need to stop by home, take a shower, change.', [], ''),
     ('nastya', 'Слушай, тебе не надоело?', 'Listen, are you not tired of this?', [], ''),
-    ('anya', 'Что именно мне должно было сильно надоесть?', 'What exactly should have strongly tired me?', [], ''),
+    ('max', 'Что именно мне должно было сильно надоесть?', 'What exactly should have strongly tired me?', [], ''),
     ('nastya', 'Спать здесь, а принимать душ далеко отсюда.', 'Sleeping here, but taking a shower far from here.', [], ''),
-    ('anya', 'Да, это занимает очень много моего времени.', 'Yes, it takes a lot of my time.', [], ''),
+    ('max', 'Да, это занимает очень много моего времени.', 'Yes, it takes a lot of my time.', [], ''),
     ('nastya', 'Тогда зачем ты это делаешь каждый день?', 'Then why do you do this every day?', [], ''),
-    ('anya', 'Потому что там лежат все мои вещи.', 'Because all my things lie there.', [], ''),
+    ('max', 'Потому что там лежат все мои вещи.', 'Because all my things lie there.', [], ''),
     ('nastya', 'Может быть, ты ко мне переедешь?', 'Maybe you should move in with me?', [], ''),
 ]
 WALK = [

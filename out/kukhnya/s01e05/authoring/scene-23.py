@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 23
-TITLE = "Конец трудного дня  (End of a Difficult Day)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Конец трудного дня  (End of a Difficult Day)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = 'After a turbulent day of kitchen rush, burned dishes, and fiery shouting from Chef Barinov, the staff of Claude Monet finally wrap up their evening shift. Max reflects on life, friendship, and the sweet relief of surviving another chaotic day.'
 OPENER = "Let's explore Max's closing reflections on surviving a chaotic day at Claude Monet."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With the stressful day behind him, Max heads home ready to face tomorrow's kitchen trials. Next time you watch the episode, listen for the Russian expressions for 'to happen' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Бывают дни, когда всё идёт не так.', 'There are days when everything goes wrong.', [(314, 'бывают дни, когда у тебя все идет не так.')], ''),
-    ('anya', 'На кухне сегодня была настоящая запара.', 'In the kitchen today there was real rush.', [], ''),
-    ('anya', 'Шеф кричал, а заказы не заканчивались.', 'The chef shouted, and the orders did not end.', [], ''),
-    ('anya', 'Но такие трудные дни всегда заканчиваются.', 'But such difficult days always end.', [(315, 'такие дни всегда заканчиваются.')], ''),
-    ('anya', 'Кому-то этот день принёс что-то новое.', 'To someone this day brought something new.', [(316, 'Кому-то этот день принес что-то новое.')], ''),
-    ('anya', 'Для кого-то всё остаётся по-старому.', 'For someone everything stays the same.', [(317, 'Для кого-то все остается по-старому.')], ''),
-    ('chef', 'Привет, Настя, рад тебя видеть.', 'Hi, Nastya, glad to see you.', [(318, 'Привет.')], ''),
-    ('chef', 'Надеюсь, твоя смена прошла хорошо.', 'I hope your shift went well.', [], ''),
-    ('chef', 'Семь тысяч рублей на Спартак!', 'Seven thousand rubles on Spartak!', [(319, 'Семь тысяч на Спартак.')], ''),
-    ('chef', 'Моя любимая команда обязательно победит!', 'My favorite team will definitely win!', [], ''),
-    ('anya', 'Кто-то искренне рад этому дню.', 'Someone is sincerely happy with this day.', [(320, 'Кто-то рад этому дню.')], ''),
-    ('anya', 'А я счастлив, что он закончился.', 'And I am happy that it ended.', [(321, 'А'), (322, 'я счастлив, что он закончился.')], ''),
-    ('anya', 'Завтра на кухне начнётся новая работа.', 'Tomorrow in the kitchen new work will begin.', [], ''),
-    ('anya', 'А сегодня пора немного отдохнуть.', 'And today it is time to rest a little.', [], ''),
+    ('max', 'Бывают дни, когда всё идёт не так.', 'There are days when everything goes wrong.', [(314, 'бывают дни, когда у тебя все идет не так.')], ''),
+    ('max', 'На кухне сегодня была настоящая запара.', 'In the kitchen today there was real rush.', [], ''),
+    ('max', 'Шеф кричал, а заказы не заканчивались.', 'The chef shouted, and the orders did not end.', [], ''),
+    ('max', 'Но такие трудные дни всегда заканчиваются.', 'But such difficult days always end.', [(315, 'такие дни всегда заканчиваются.')], ''),
+    ('max', 'Кому-то этот день принёс что-то новое.', 'To someone this day brought something new.', [(316, 'Кому-то этот день принес что-то новое.')], ''),
+    ('max', 'Для кого-то всё остаётся по-старому.', 'For someone everything stays the same.', [(317, 'Для кого-то все остается по-старому.')], ''),
+    ('kostya', 'Привет, Настя, рад тебя видеть.', 'Hi, Nastya, glad to see you.', [(318, 'Привет.')], ''),
+    ('kostya', 'Надеюсь, твоя смена прошла хорошо.', 'I hope your shift went well.', [], ''),
+    ('barinov', 'Семь тысяч рублей на Спартак!', 'Seven thousand rubles on Spartak!', [(319, 'Семь тысяч на Спартак.')], ''),
+    ('barinov', 'Моя любимая команда обязательно победит!', 'My favorite team will definitely win!', [], ''),
+    ('max', 'Кто-то искренне рад этому дню.', 'Someone is sincerely happy with this day.', [(320, 'Кто-то рад этому дню.')], ''),
+    ('max', 'А я счастлив, что он закончился.', 'And I am happy that it ended.', [(321, 'А'), (322, 'я счастлив, что он закончился.')], ''),
+    ('max', 'Завтра на кухне начнётся новая работа.', 'Tomorrow in the kitchen new work will begin.', [], ''),
+    ('max', 'А сегодня пора немного отдохнуть.', 'And today it is time to rest a little.', [], ''),
 ]
 WALK = [
     (0, None, "'There are days when everything goes wrong.' Max reflects on the turbulent shift in the kitchen."),

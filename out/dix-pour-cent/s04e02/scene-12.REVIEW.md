@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e02-scene-12` — Coincée à Bergues  (Stuck in Bergues)
+# dix-pour-cent-s04e02-scene-12: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "colette": "emilie", "lea": "lucie"}`
-- **Labels**: `{"colette": "Colette", "lea": "Andréa"}`
+Title: Coincée à Bergues  (Stuck in Bergues)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E02
 
-## Part 1 — Intro
-> After enduring a colossal homemade feast with Dany Boon's mother, Andrea steps into the quiet street to call Colette. Expected home in Paris for date night, Andrea must break the difficult news of her whereabouts. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Ce repas du nord était délicieux! | This northern meal was delicious! | 677:Ça ne vous plaît pas |
-| 1 | `colette` (Colette) | Allô Andréa, la baby-sitter est là. | Hello Andrea, the babysitter is here. | 689:La baby-sitter est là |
-| 2 | `lea` (Andréa) | Bonsoir mon amour, comment vas-tu? | Good evening my love, how are you? | 687:Au revoir |
-| 3 | `colette` (Colette) | On se retrouve bientôt au restaurant? | Are we meeting soon at the restaurant? | 690:au restaurant |
-| 4 | `lea` (Andréa) | Le restaurant, ça va être compliqué. | The restaurant, that will be complicated. | 691:ça va être compliqué |
-| 5 | `colette` (Colette) | Tu es encore coincée au bureau? | Are you still stuck at the office? | 691:ça va être compliqué |
-| 6 | `lea` (Andréa) | Non, pas cette fois-ci, justement. | No, not this time, actually. | 694:Tu es où |
-| 7 | `colette` (Colette) | Mais où es-tu en ce moment? | Where are you right now? | 694:Tu es où |
-| 8 | `lea` (Andréa) | Je suis actuellement à Bergues. | I am currently in Bergues. | 695:Bergues |
-| 9 | `colette` (Colette) | Bergues? C'est quelle ligne de métro? | Bergues? Which metro line is that? | 695:Bergues |
-| 10 | `lea` (Andréa) | C'est loin, dans les Hauts-de-France! | It is far, in Hauts-de-France! | 697:dans les Hauts-de-France |
-| 11 | `colette` (Colette) | Tu plaisantes? J'en peux plus! | Are you joking? I can | 699:j'en peux plus |
-| 12 | `lea` (Andréa) | Je devais sauver un gros contrat. | I had to save a major contract. | 699:j'en peux plus |
-| 13 | `colette` (Colette) | Rentre à Paris le plus vite! | Return to Paris as fast as possible! | 687:Au revoir |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andrea faces Colette's frustration over her sudden trip to northern France. When you watch the episode, listen out for the expressions meaning 'meal' and 'north'. You'll catch them now. See you next time!
-- **Closing**: `colette`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Ce repas du nord était délicieux! | This northern meal was delicious! | #677: Ça ne vous plaît pas | verbatim |
+| 2 | Colette | Allô Andréa, la baby-sitter est là. | Hello Andrea, the babysitter is here. | #689: La baby-sitter est là | verbatim |
+| 3 | Andréa | Bonsoir mon amour, comment vas-tu? | Good evening my love, how are you? | #687: Au revoir | verbatim |
+| 4 | Colette | On se retrouve bientôt au restaurant? | Are we meeting soon at the restaurant? | #690: au restaurant | verbatim |
+| 5 | Andréa | Le restaurant, ça va être compliqué. | The restaurant, that will be complicated. | #691: ça va être compliqué | verbatim |
+| 6 | Colette | Tu es encore coincée au bureau? | Are you still stuck at the office? | #691: ça va être compliqué | verbatim |
+| 7 | Andréa | Non, pas cette fois-ci, justement. | No, not this time, actually. | #694: Tu es où | verbatim |
+| 8 | Colette | Mais où es-tu en ce moment? | Where are you right now? | #694: Tu es où | verbatim |
+| 9 | Andréa | Je suis actuellement à Bergues. | I am currently in Bergues. | #695: Bergues | verbatim |
+| 10 | Colette | Bergues? C'est quelle ligne de métro? | Bergues? Which metro line is that? | #695: Bergues | verbatim |
+| 11 | Andréa | C'est loin, dans les Hauts-de-France! | It is far, in Hauts-de-France! | #697: dans les Hauts-de-France | verbatim |
+| 12 | Colette | Tu plaisantes? J'en peux plus! | Are you joking? I can | #699: j'en peux plus | verbatim |
+| 13 | Andréa | Je devais sauver un gros contrat. | I had to save a major contract. | #699: j'en peux plus | verbatim |
+| 14 | Colette | Rentre à Paris le plus vite! | Return to Paris as fast as possible! | #687: Au revoir | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'This northern meal was delicious!' Andrea appreciates the hearty hospitality. Dropping the subject pronoun turns the verb for 'was' into a direct, punchy command.
+- 'Hello Andrea, the babysitter is here.' Colette calls to coordinate the evening. The key noun here means 'babysitter', anchored by its matching French article.
+- 'Good evening my love, how are you?' Andrea tries to soothe her partner gently. Notice how 'go' leads directly into the noun meaning 'good evening'.
+- 'Are we meeting soon at the restaurant?' Colette anticipates their date night. In everyday spoken French, rising intonation on 'meet up' at the end is enough to turn the sentence into a question.
+- 'The restaurant, that will be complicated.' Andrea delivers the disappointing news. French forms the near future by pairing the present tense of 'to go' directly with 'be'.
+- 'Are you still stuck at the office?' Colette assumes standard agency delays. The informal 'you' form around 'stuck' marks a direct, personal relationship.
+- 'No, not this time, actually.' Andrea prepares to reveal the surprise. The key noun here means 'this time', anchored by its matching French article.
+- 'Where are you right now?' Colette asks with mounting suspicion. The adverb meaning 'where' gives the reply its conversational emphasis.
+- 'I am currently in Bergues.' Andrea confesses her unexpected location. The adverb meaning 'currently' gives the reply its conversational emphasis.
+- 'Bergues? Which metro line is that?' Colette mistakes the distant town for a Parisian station. The key noun here means 'line', anchored by its matching French article.
+- 'It is far, in Hauts-de-France!' Andrea clarifies the geography. The adverb meaning 'far' gives the reply its conversational emphasis.
+- 'Are you joking? I can't take it!' Colette vents her frustration at the broken promise. The clause hinges on the everyday verb meaning 'are joking'.
+- 'I had to save a major contract.' Andrea justifies the emergency business trip. The descriptive adjective for 'major' agrees in gender and number with its noun.
+- 'Return to Paris as fast as possible!' Colette demands her immediate return home. The clause hinges on the everyday verb meaning 'return'.

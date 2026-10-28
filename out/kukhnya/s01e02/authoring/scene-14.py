@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 14
-TITLE = "Пропажа коньяка  (The Missing Cognac)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Пропажа коньяка  (The Missing Cognac)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja"}
-LABELS = {"vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Bartender Kostya rushes over to the bar counter after being called by Vika, finding her thoroughly unimpressed. Demanding to know why an unsupervised stranger was left behind the bar, Vika notices an expensive bottle missing. Let's listen to their confrontation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the past tense verbs of action and the negative constructions."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika points out the empty shelf where the expensive cognac used to be, leaving Kostya in deep trouble. Wonderful work practicing situational Russian dialogue! Next time you watch the episode, listen for the Russian expressions for 'bar' and 'disorder' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('kostya', 'Да, Виктория Сергеевна, вы звали меня?', 'Yes, Viktoria Sergeyevna, did you call me?', [(187, 'Да Виктория Сергеевна')], ''),
     ('vika', 'Костя, объясни, что за беспорядок в баре?', 'Kostya, explain what this mess in the bar is?', [(187, 'Костя это что нормально'), (188, 'Почему у тебя бардак')], ''),

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Прошу, присаживайтесь. Позвольте, я сделаю удобнее. | Please, have a seat. Allow me, I'll make it more comfortable. | #113 00:09:19: Прошу, присаживайтесь<br>#115 00:09:24: Позвольте | adapted: 'Поудобнее вам сделать' (116) -> 'я сделаю удобнее' |
-| 2 | Самсон | Так лучше? | Is that better? | #117 00:09:27: Так лучше | verbatim |
-| 3 | Самсон | Да, по-моему, здорово! Сколько сил в этой машине? | Yes, I think it's great! How much power does this car have? | #118 00:09:27: Да, по-моему, здорово<br>#119 00:09:31: сколько | adapted: slang 'кобыл в аппарате' (mares in the machine) -> 'сил в этой машине' |
-| 4 | Самсон | Извините, пожалуйста, я сейчас работаю с клиентами. | Excuse me, please, I'm working with clients right now. | #120 00:09:34: Извините, пожалуйста, я сейчас работаю с клиентами | verbatim |
-| 5 | Нина | Самсонов, ты так покурить вышел? | Samsonov, is this how you stepped out for a smoke? | #121 00:09:37: Самсонов, ты так покурить вышел | verbatim |
-| 6 | Нина | Пошли, у нас очередь подходит. | Let's go, our turn in the queue is coming up. | #121 00:09:37: Пошли, у нас очередь подходит | verbatim |
-| 7 | Самсон | Слушай, смотри, какая машина! | Listen, look what a car! | #122 00:09:41: Слушай, смотри | adapted: slang 'какой аппарат' -> 'какая машина' |
-| 8 | Самсон | Тест-драйв можно сделать. | We can do a test drive. | #123 00:09:42: Тест-драйв можно сделать | verbatim |
-| 9 | Самсон | Молодой человек, а как на тест-драйв записаться? | Young man, how do I sign up for a test drive? | #124 00:09:44: Молодой человек, а<br>#124 00:09:44: как на тест-драйв записаться | adapted: 'что' dropped |
-| 10 | Самсон | Тест-драйв у нас только для постоянных клиентов. | Our test drive is only for regular clients. | #125 00:09:49: Тест-драйв у нас<br>#125 00:09:49: для постоянных клиентов | adapted: 'только' added; 'Синикар' dropped |
-| 11 | Самсон | Я тоже могу быть постоянным клиентом! | I can be a regular client too! | #126 00:09:52: Я тоже могу быть постоянным клиентом | verbatim |
-| 12 | Нина | Постоянный клиент гастронома! Пошли. | Regular client of the grocery shop! Let's go. | #127 00:09:54: Постоянный клиент гастронома. Пошли | verbatim |
-| 13 | Нина | Юля, я перезвоню. | Yulia, I'll call you back. | #128 00:09:56: Юля, я перезвоню | verbatim |
+| 1 | Менеджер | Прошу, присаживайтесь. Позвольте, я сделаю удобнее. | Please, have a seat. Allow me, I'll make it more comfortable. | #113: Прошу, присаживайтесь<br>#115: Позвольте | adapted: 'Поудобнее вам сделать' (116) -> 'я сделаю удобнее' |
+| 2 | Менеджер | Так лучше? | Is that better? | #117: Так лучше | verbatim |
+| 3 | Самсон | Да, по-моему, здорово! Сколько сил в этой машине? | Yes, I think it's great! How much power does this car have? | #118: Да, по-моему, здорово<br>#119: сколько | adapted: slang 'кобыл в аппарате' (mares in the machine) -> 'сил в этой машине' |
+| 4 | Менеджер | Извините, пожалуйста, я сейчас работаю с клиентами. | Excuse me, please, I'm working with clients right now. | #120: Извините, пожалуйста, я сейчас работаю с клиентами | verbatim |
+| 5 | Нина | Самсонов, ты так покурить вышел? | Samsonov, is this how you stepped out for a smoke? | #121: Самсонов, ты так покурить вышел | verbatim |
+| 6 | Нина | Пошли, у нас очередь подходит. | Let's go, our turn in the queue is coming up. | #121: Пошли, у нас очередь подходит | verbatim |
+| 7 | Самсон | Слушай, смотри, какая машина! | Listen, look what a car! | #122: Слушай, смотри | adapted: slang 'какой аппарат' -> 'какая машина' |
+| 8 | Самсон | Тест-драйв можно сделать. | We can do a test drive. | #123: Тест-драйв можно сделать | verbatim |
+| 9 | Самсон | Молодой человек, а как на тест-драйв записаться? | Young man, how do I sign up for a test drive? | #124: Молодой человек, а<br>#124: как на тест-драйв записаться | adapted: 'что' dropped |
+| 10 | Менеджер | Тест-драйв у нас только для постоянных клиентов. | Our test drive is only for regular clients. | #125: Тест-драйв у нас<br>#125: для постоянных клиентов | adapted: 'только' added; 'Синикар' dropped |
+| 11 | Самсон | Я тоже могу быть постоянным клиентом! | I can be a regular client too! | #126: Я тоже могу быть постоянным клиентом | verbatim |
+| 12 | Нина | Постоянный клиент гастронома! Пошли. | Regular client of the grocery shop! Let's go. | #127: Постоянный клиент гастронома. Пошли | verbatim |
+| 13 | Нина | Юля, я перезвоню. | Yulia, I'll call you back. | #128: Юля, я перезвоню | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

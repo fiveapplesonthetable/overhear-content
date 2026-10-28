@@ -7,8 +7,7 @@ SCENE = 4
 TITLE = "Dîner chez Gabriel  (Dinner at Gabriel's)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "He also hinted that Andréa isn't calm or reassuring enough for her clients, and it stung. Tonight the two old friends talk about work, then about something much more personal. We'll hear it in French first; just follow the feeling of it."
@@ -17,23 +16,23 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Nothing is decided yet, but something has changed between Andréa and Gabriel. If you heard the soft 'would' forms, you've got the heart of the scene. See you next time!"
 CLOSING = ('gabriel', 'Bonne nuit, Andréa.')
 STORY = [
-    ('lea', "Je te jure, c'est un film magnifique.", 'I swear, it', [(152, "Je te jure, c'est un film magnifique")], ''),
+    ('andrea', "Je te jure, c'est un film magnifique.", 'I swear, it', [(152, "Je te jure, c'est un film magnifique")], ''),
     ('gabriel', 'Quel gâchis.', 'What a waste.', [(153, 'Quel gâchis')], ''),
     ('gabriel', "Tu trouveras quelqu'un d'autre.", 'You', [(154, "Tu trouveras quelqu'un d'autre")], ''),
-    ('lea', 'Le tournage commence dans trois semaines.', 'Shooting starts in three weeks.', [(155, 'Le tournage commence dans trois semaines')], ''),
-    ('lea', 'Tu crois que Mathias a raison?', 'Do you think Mathias is right?', [(156, 'Tu crois que Mathias a raison ?')], ''),
-    ('lea', 'Je ne suis pas rassurante pour mes clients?', 'I', [(157, 'pas rassurante pour mes clients')], ''),
+    ('andrea', 'Le tournage commence dans trois semaines.', 'Shooting starts in three weeks.', [(155, 'Le tournage commence dans trois semaines')], ''),
+    ('andrea', 'Tu crois que Mathias a raison?', 'Do you think Mathias is right?', [(156, 'Tu crois que Mathias a raison ?')], ''),
+    ('andrea', 'Je ne suis pas rassurante pour mes clients?', 'I', [(157, 'pas rassurante pour mes clients')], ''),
     ('gabriel', 'Non, non, pas du tout.', 'No, no, not at all.', [(158, 'Non, non, pas du tout')], ''),
     ('gabriel', 'À table!', 'Dinner', [(163, 'À table !')], ''),
-    ('lea', "C'est qui?", 'Who', [(166, "C'est qui ?")], ''),
+    ('andrea', "C'est qui?", 'Who', [(166, "C'est qui ?")], ''),
     ('gabriel', "Florence, mon ex. Mais c'était il y a longtemps.", 'Florence, my ex. But that was a long time ago.', [(167, 'Florence, mon ex'), (170, "Mais c'était il y a longtemps")], ''),
-    ('lea', "Pourquoi elle t'a quitté?", 'Why did she leave you?', [(172, "t'a quitté")], ''),
+    ('andrea', "Pourquoi elle t'a quitté?", 'Why did she leave you?', [(172, "t'a quitté")], ''),
     ('gabriel', 'Je voulais un enfant, et pas elle.', 'I wanted a child, and she didn', [(175, 'Je voulais un enfant et pas elle')], ''),
     ('gabriel', "C'est du passé. J'ai tourné la page.", 'It', [(176, "C'est du passé. J'ai tourné la page")], ''),
-    ('lea', 'Je crois que je pourrais avoir un enfant avec toi.', 'I think I could have a child with you.', [(180, 'Je crois que je pourrais avoir un enfant avec toi')], ''),
+    ('andrea', 'Je crois que je pourrais avoir un enfant avec toi.', 'I think I could have a child with you.', [(180, 'Je crois que je pourrais avoir un enfant avec toi')], ''),
     ('gabriel', "C'est le vin qui parle.", 'That', [(181, "C'est le vin qui parle")], ''),
-    ('lea', 'Je suis sûre que tu serais un super papa.', 'I', [(182, 'Je suis sûre que tu serais un super papa')], ''),
-    ('lea', "Entre un donneur anonyme et un ami, je choisis l'ami.", 'Between an anonymous donor and a friend, I choose the friend.', [(196, 'donneur'), (196, 'anonyme'), (197, 'et un ami'), (197, "l'ami")], ''),
+    ('andrea', 'Je suis sûre que tu serais un super papa.', 'I', [(182, 'Je suis sûre que tu serais un super papa')], ''),
+    ('andrea', "Entre un donneur anonyme et un ami, je choisis l'ami.", 'Between an anonymous donor and a friend, I choose the friend.', [(196, 'donneur'), (196, 'anonyme'), (197, 'et un ami'), (197, "l'ami")], ''),
     ('gabriel', "C'est une offre? Je suis touché.", 'Is that an offer? I', [(198, "C'est une offre ?"), (199, 'Je suis touché')], ''),
 ]
 WALK = [

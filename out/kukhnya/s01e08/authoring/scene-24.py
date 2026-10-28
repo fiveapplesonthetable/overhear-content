@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 24
-TITLE = "Кухонный бунт  (Kitchen Rebellion)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Кухонный бунт  (Kitchen Rebellion)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "elena": "angelina", "louis": "anja"}
-LABELS = {"elena": "Елена", "louis": "Луи"}
+LABELS = {'elena': 'Елена', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "At the kitchen pass, guest chef Elena inspects every dish with uncompromising scrutiny before sending it to guests. When pastry chef Louis presents a dessert that looks half-eaten, Elena refuses to allow it into the dining room. Offended by her harsh criticism, Louis protests, while Elena demands immediate perfection from the entire brigade. Let's listen to their heated kitchen clash in Russian first."
 OPENER = "Let's examine how professional standards collide with culinary pride in this scene. Notice the stark contrast between Elena's exacting demands and Louis's indignant reactions."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Tempers flare as the cooks miss Barinov's boisterous leadership, while Elena refuses to lower her culinary bar. Brilliant work finishing this slice of conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
-CLOSING = ("elena", "Пока!")
+CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Я не собираюсь отдавать это блюдо!', 'I am not going to send out this dish!', [(275, 'Я это не собираюсь забирать')], ''),
     ('louis', 'Почему? Десерт получился очень красивым, шеф.', 'Why? The dessert turned out very pretty, Chef.', [], ''),

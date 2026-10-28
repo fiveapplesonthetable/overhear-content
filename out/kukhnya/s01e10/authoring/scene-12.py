@@ -5,17 +5,16 @@ SEASON = 1
 EPISODE = 10
 SCENE = 12
 TITLE = "Странное поведение Макса  (Max's Strange Behavior)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja"}
-LABELS = {"vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "At the restaurant bar counter, art director Victoria firmly interrogates bartender Kostya about his friend Max's awkward behavior. Kostya attempts to feign ignorance, but accidentally lets slip that Max is deliberately avoiding Victoria, instantly confirming her deepest suspicions. Let's listen to their tense exchange in Russian first."
 OPENER = "Let's review how Victoria questions Kostya in the dining room line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Now you know how to talk about evasive answers, secret avoidance, and direct questioning in Russian. See you next time!'
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, что происходит с нашим Максом?', 'Kostya, what is happening with our Max?', [(88, 'А что происходит с Максом')], ''),
     ('kostya', 'А что вообще происходит с Максом?', 'And what is happening with Max at all?', [(89, 'А что происходит с Максом')], ''),

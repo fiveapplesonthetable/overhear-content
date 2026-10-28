@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 17
-TITLE = "Назойливый клиент  (The Pushy Customer)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Назойливый клиент  (The Pushy Customer)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "guest": "anja"}
-LABELS = {"nastya": "Настя", "guest": "Гость"}
+LABELS = {'guest': 'Гость', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = 'At an intimate dining table, waitress Nastya attends to a demanding male customer whom management suspects of being an undercover restaurant critic. When the diner crosses the line and pressures her to sit and flirt with him, Nastya defends her professional boundaries. Let us listen to their awkward exchange in Russian first.'
 OPENER = "Now let us examine Nastya's tense interaction with the customer line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Firmly refusing to compromise her self-respect, Nastya walks away from the arrogant diner and heads toward the kitchen to report the intolerable behavior to management. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'politely' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Что вы хотите заказать сегодня у нас?', 'What do you want to order with us today?', [(192, 'вы что-нибудь покушаете у нас?')], ''),
     ('guest', 'Принеси мне любое блюдо на твой вкус.', 'Bring me any dish to your taste.', [(193, 'на твое усмотрение')], ''),

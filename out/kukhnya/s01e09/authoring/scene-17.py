@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 9
 SCENE = 17
-TITLE = "Где Алиса?  (Where Is Alisa?)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Где Алиса?  (Where Is Alisa?)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja"}
-LABELS = {"chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'tanya': 'Таня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = "In the dining room of Claude Monet, Chef Barinov's ex-wife Tanya arrives to pick up their young daughter Alisa. Barinov scrambles to make up excuses to keep Tanya from discovering that Alisa had an allergic reaction under his care. Listen to their conversation in Russian first, then we will break down each line in English."
 OPENER = "Now let's go back through the exchange around Where Is Alisa? line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Chef Barinov's ex-wife Tanya arrives to pick up their daughter Alisa, but Barinov scrambles to make up excuses to keep Tanya from discovering that Alisa had an allergic reaction under his care. Next time you watch the episode, listen for the Russian expressions for 'to decide' and 'kind' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Виктор, добрый вечер. Где Алиса?', 'Viktor, good evening. Where is Alisa?', [(314, 'Где Алиса?')], ''),
-    ('chef', 'А мы с ней решили остаться.', 'And she and I decided to stay.', [(314, 'А мы с ней решили, что она еще со мной на денек останется.')], ''),
-    ('chef', 'Она побудет со мной ещё денёк.', 'She will stay with me one more day.', [(314, 'на денек останется.')], ''),
-    ('chef', 'Ты же не возражаешь, Таня?', 'You do not mind, Tanya?', [(315, 'Ты же не возражаешь.')], ''),
-    ('chef', 'Ну, если она сама так решила.', 'Well, if she decided so herself.', [(316, 'Ну, если она так решила сама.')], ''),
-    ('chef', 'Пойдём, я быстро с ней попрощаюсь.', 'Let us go, I will quickly say goodbye to her.', [(317, 'Ладно, пойдем, я с ней попрощаюсь.')], ''),
-    ('chef', 'Зачем? Я сам всё передам!', 'What for? I will pass on everything myself!', [(317, 'Ну, зачем?'), (318, 'Я передам.')], ''),
-    ('chef', 'Она там на кухне развлекается.', 'She is having fun there in the kitchen.', [(318, 'Она там на кухне развлекается.')], ''),
-    ('chef', 'Она просила передать тебе пока.', 'She asked me to say goodbye to you.', [(319, 'Кстати, она просила передать тебе пока.')], ''),
-    ('chef', 'Так, что с ней случилось?', 'Wait, what happened to her?', [(320, 'Что с ней случилось?')], ''),
-    ('chef', 'Всё нормально, она просто играет.', 'Everything is fine, she is just playing.', [(320, 'Все нормально.'), (321, 'На кухне играется.')], ''),
-    ('chef', 'А врать ты так и не научился.', 'And you still have not learned how to lie.', [(322, 'А вот врать ты до сих пор не научился.')], ''),
-    ('chef', 'Таня, подожди, я всё объясню!', 'Tanya, wait, I will explain everything!', [], ''),
+    ('tanya', 'Виктор, добрый вечер. Где Алиса?', 'Viktor, good evening. Where is Alisa?', [(314, 'Где Алиса?')], ''),
+    ('barinov', 'А мы с ней решили остаться.', 'And she and I decided to stay.', [(314, 'А мы с ней решили, что она еще со мной на денек останется.')], ''),
+    ('barinov', 'Она побудет со мной ещё денёк.', 'She will stay with me one more day.', [(314, 'на денек останется.')], ''),
+    ('barinov', 'Ты же не возражаешь, Таня?', 'You do not mind, Tanya?', [(315, 'Ты же не возражаешь.')], ''),
+    ('tanya', 'Ну, если она сама так решила.', 'Well, if she decided so herself.', [(316, 'Ну, если она так решила сама.')], ''),
+    ('tanya', 'Пойдём, я быстро с ней попрощаюсь.', 'Let us go, I will quickly say goodbye to her.', [(317, 'Ладно, пойдем, я с ней попрощаюсь.')], ''),
+    ('barinov', 'Зачем? Я сам всё передам!', 'What for? I will pass on everything myself!', [(317, 'Ну, зачем?'), (318, 'Я передам.')], ''),
+    ('barinov', 'Она там на кухне развлекается.', 'She is having fun there in the kitchen.', [(318, 'Она там на кухне развлекается.')], ''),
+    ('barinov', 'Она просила передать тебе пока.', 'She asked me to say goodbye to you.', [(319, 'Кстати, она просила передать тебе пока.')], ''),
+    ('tanya', 'Так, что с ней случилось?', 'Wait, what happened to her?', [(320, 'Что с ней случилось?')], ''),
+    ('barinov', 'Всё нормально, она просто играет.', 'Everything is fine, she is just playing.', [(320, 'Все нормально.'), (321, 'На кухне играется.')], ''),
+    ('tanya', 'А врать ты так и не научился.', 'And you still have not learned how to lie.', [(322, 'А вот врать ты до сих пор не научился.')], ''),
+    ('barinov', 'Таня, подожди, я всё объясню!', 'Tanya, wait, I will explain everything!', [], ''),
 ]
 WALK = [
     (0, None, "'Viktor, good evening. Where is Alisa?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

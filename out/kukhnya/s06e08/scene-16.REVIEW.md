@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Всё понятно, спасибо за поздравление и прощай! | Everything is clear, thanks for the birthday wishes and goodbye! | #261 00:17:02: Понятно | adapted: adapted |
-| 2 | Нагиев | Катя, подожди, да я же просто пошутил! | Katya, wait, I was only joking! | #261 00:17:02: да я пошутил | adapted: adapted |
-| 3 | Шеф | Говори немедленно, где ты её сейчас прячешь? | Speak immediately, where are you hiding her right now? | #264 00:17:14: Где она | adapted: adapted |
-| 4 | Нагиев | Я просто спать лёг, ты что, не видишь? | I simply lay down to sleep, do you not see? | #264 00:17:14: Я спать лег | adapted: adapted |
-| 5 | Шеф | Дима, лучше не зли меня сейчас! | Dima, you had better not make me angry right now! | #265 00:17:17: Дима | adapted: adapted |
-| 6 | Нагиев | Ладно, признаюсь честно, она сейчас в душе. | Fine, I admit it honestly, she is in the shower right now. | #266 00:17:19: Ладно, в душе | adapted: adapted |
-| 7 | Нагиев | Но ты же меня Эле не выдашь, правда? | But you will not give me away to Elya, right? | #267 00:17:22: не выдашь, правда | adapted: adapted |
-| 8 | Нагиев | Ты же мужчина, ты должен меня понять! | You are a man, you must understand me! | #268 00:17:24: Ты же мужчина, ты же меня понимаешь | adapted: adapted |
-| 9 | Нагиев | Ведь ты уже прикрыл меня один раз. | After all, you already covered for me once. | #269 00:17:26: Ты же меня прикрыл уже один раз | adapted: adapted |
-| 10 | Шеф | Ах ты бессовестный негодяй, я тебя убью! | Oh you shameless scoundrel, I will kill you! | #270 00:17:27: Да, сволочь | adapted: adapted |
-| 11 | Нагиев | Витя, остановись, ты совсем с ума сошёл? | Vitya, stop, have you completely lost your mind? | #272 00:17:31: Ты поганая | adapted: adapted |
-| 12 | Шеф | Я тебе сейчас покажу, как обижать дочь! | I will show you right now what happens when you wrong my daughter! | #273 00:17:34: Сволочь | adapted: adapted |
+| 1 | Катя | Всё понятно, спасибо за поздравление и прощай! | Everything is clear, thanks for the birthday wishes and goodbye! | #261: Понятно | adapted: adapted |
+| 2 | Нагиев | Катя, подожди, да я же просто пошутил! | Katya, wait, I was only joking! | #261: да я пошутил | adapted: adapted |
+| 3 | Шеф | Говори немедленно, где ты её сейчас прячешь? | Speak immediately, where are you hiding her right now? | #264: Где она | adapted: adapted |
+| 4 | Нагиев | Я просто спать лёг, ты что, не видишь? | I simply lay down to sleep, do you not see? | #264: Я спать лег | adapted: adapted |
+| 5 | Шеф | Дима, лучше не зли меня сейчас! | Dima, you had better not make me angry right now! | #265: Дима | adapted: adapted |
+| 6 | Нагиев | Ладно, признаюсь честно, она сейчас в душе. | Fine, I admit it honestly, she is in the shower right now. | #266: Ладно, в душе | adapted: adapted |
+| 7 | Нагиев | Но ты же меня Эле не выдашь, правда? | But you will not give me away to Elya, right? | #267: не выдашь, правда | adapted: adapted |
+| 8 | Нагиев | Ты же мужчина, ты должен меня понять! | You are a man, you must understand me! | #268: Ты же мужчина, ты же меня понимаешь | adapted: adapted |
+| 9 | Нагиев | Ведь ты уже прикрыл меня один раз. | After all, you already covered for me once. | #269: Ты же меня прикрыл уже один раз | adapted: adapted |
+| 10 | Шеф | Ах ты бессовестный негодяй, я тебя убью! | Oh you shameless scoundrel, I will kill you! | #270: Да, сволочь | adapted: adapted |
+| 11 | Нагиев | Витя, остановись, ты совсем с ума сошёл? | Vitya, stop, have you completely lost your mind? | #272: Ты поганая | adapted: adapted |
+| 12 | Шеф | Я тебе сейчас покажу, как обижать дочь! | I will show you right now what happens when you wrong my daughter! | #273: Сволочь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is clear, thanks for the birthday wishes and goodbye!' In Russian, the idea of 'everything' flows naturally into 'farewell' without extra filler words.
-- 'Katya, wait, I was only joking!' Spoken Russian keeps this brisk, leaning on 'Katya' and finishing on 'to joke'.
-- 'Speak immediately, where are you hiding her right now?' In Russian, the idea of 'to speak' flows naturally into 'hide' without extra filler words. Dmitry Nagiyev answers right away.
-- 'I simply lay down to sleep, do you not see?' Dmitry Nagiyev addresses the listener with the informal singular 'you' alongside 'see'.
-- 'Dima, you had better not make me angry right now!' In Russian, the idea of 'Dima' flows naturally into 'now' without extra filler words.
-- 'Fine, I admit it honestly, she is in the shower right now.' Notice how Russian puts 'all right' and 'soul' together in a short, direct phrase where word endings show how the ideas connect.
-- 'But you will not give me away to Elya, right?' Notice how Russian expresses 'but' and 'really' with crisp inflection rather than helper words.
-- 'You are a man, you must understand me!' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to understand'.
-- 'After all, you already covered for me once.' In Russian, the idea of 'after all' flows naturally into 'time' without extra filler words. Chef Barinov answers right away.
-- 'Oh you shameless scoundrel, I will kill you!' Spoken Russian keeps this brisk, leaning on 'ah' and finishing on 'will kill'.
-- 'Vitya, stop, have you completely lost your mind?' The grammar packs 'to stop' and 'went off' into a tight, idiomatic kitchen exchange.
-- 'I will show you right now what happens when you wrong my daughter!' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'daughter'.
+- 'Everything is clear, thanks for the birthday wishes and goodbye!' Katya declares that everything is clear thanks for the birthday wishes and goodbye as the tension in the room peaks.
+- 'Katya, wait, I was only joking!' Because he was only joking, Nagiyev does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Speak immediately, where are you hiding her right now?' When Barinov asks if speak immediately where are Katya hiding her right now, Katya has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I simply lay down to sleep, do you not see?' Nagiyev asks whether he simply lay down to sleep do Barinov not see, refusing to let the point slide.
+- 'Dima, you had better not make me angry right now!' Declaring that Katya had better not make him angry right now brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev mentions that fine he admits it honestly she is in the shower right now so Barinov sees what is at stake.
+- 'But you will not give me away to Elya, right?' Questioning whether Barinov will not give him away right is how Nagiyev tests Barinov's story.
+- 'You are a man, you must understand me!' Insisting that Barinov is a man Barinov must understand him shows Nagiyev is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'After all, you already covered for me once.' Over the hotel and the truth, Nagiyev answers Barinov without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Oh you shameless scoundrel, I will kill you!' Insisting that Katya shameless scoundrel he will kill Katya shows Barinov is not backing down.
+- 'Vitya, stop, have you completely lost your mind?' Wondering if stop have Barinov completely lost Barinov's mind shows Nagiyev caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I will show you right now what happens when you wrong my daughter!' Declaring that he will show Katya right now what happens when Katya wrong his daughter brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.

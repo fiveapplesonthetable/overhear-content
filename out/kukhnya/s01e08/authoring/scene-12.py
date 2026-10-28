@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 12
-TITLE = "Воспоминания о Провансе  (Memories of Provence)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Воспоминания о Провансе  (Memories of Provence)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "louis": "anja", "elena": "angelina"}
-LABELS = {"louis": "Луи", "elena": "Елена"}
+LABELS = {'elena': 'Елена', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Elena Sokolova approaches pastry station where French chef Louis is delicately assembling gourmet desserts. Recognizing his regional accent, Elena strikes a chord by reminiscing about his native home of Provence and the famous desserts in Saint-Paul-de-Vence. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this heartwarming conversation about France line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Completely won over by Elena's knowledge and charm, Louis happily presents his finest pastries for the dining room. See you next time!"
-CLOSING = ("louis", "Пока!")
+CLOSING = ('louis', 'Пока!')
 STORY = [
     ('elena', 'Луи, чем вы сейчас занимаетесь на десертах?', 'Louis, what are you doing on the desserts right now?', [], ''),
     ('louis', 'Какое вам вообще дело до моих десертов?', 'What business is it of yours regarding my desserts?', [], ''),

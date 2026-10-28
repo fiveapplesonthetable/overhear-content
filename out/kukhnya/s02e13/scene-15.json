@@ -8,16 +8,10 @@
  "scene": 15,
  "title": "Возвращение беглеца  (Return of the Runaway)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "anya": "alisa",
-  "chef": "anja",
-  "lyova": "angelina"
- },
  "labels": {
-  "anya": "Макс",
-  "chef": "Шеф",
-  "lyova": "Лёва"
+  "barinov": "Шеф",
+  "lyova": "Лёва",
+  "max": "Макс"
  },
  "segments": [
   {
@@ -26,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Максим. Не знаю.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вегетарианские рулетики не понравились.",
    "gap": 0.55
   },
@@ -41,12 +35,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Максим, он просил сделать, как утром.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "В общем, вспомни, пожалуйста.",
    "gap": 0.55
   },
@@ -56,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Очень хорошо.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что привезли его прямо сюда.",
    "gap": 0.55
   },
@@ -71,12 +65,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "А я вам говорил.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Документы надо с собой носить.",
    "gap": 0.55
   },
@@ -86,7 +80,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Нам помогает.",
    "gap": 0.9
   },
@@ -96,23 +90,23 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Максим. Не знаю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Maksim. I do not know.' In Russian, the idea of 'Maxim' flows naturally into 'know' without extra filler words.",
+   "t": "'Maksim. I do not know.' Even though he does not know, Max keeps a steady face in front of Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вегетарианские рулетики не понравились.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'He did not like the vegetarian rolls.' Chef Barinov pairs 'vegetarian' with 'pleased, made a good impression' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.",
+   "t": "'He did not like the vegetarian rolls.' Admitting that he did not like the vegetarian rolls shows Barinov being honest for a change.",
    "gap": 0.4
   },
   {
@@ -122,27 +116,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Just the way he asked.' Spoken Russian keeps this brisk, leaning on 'how' and finishing on 'ask for'. Max answers right away.",
+   "t": "'Just the way he asked.' Saying that just the way he asked is how Lyova sets the tone with Barinov.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Максим, он просил сделать, как утром.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Maksim, he asked you to make them just like this morning.' The meaning hinges on 'Maxim' working together with 'in the morning' in spoken Russian.",
+   "t": "'Maksim, he asked you to make them just like this morning.' Once he asked Barinov to make them just like this morning, Max can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "В общем, вспомни, пожалуйста.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Anyway, please try to remember how you made them.' In Russian, the idea of 'short' flows naturally into 'there you go' without extra filler words.",
+   "t": "'Anyway, please try to remember how you made them.' Adding that anyway please try to remember how Lyova made them fills in the missing piece for Lyova.",
    "gap": 0.4
   },
   {
@@ -152,27 +146,27 @@
   },
   {
    "v": "narrator",
-   "t": "'What kind of vegetarian is he?' Lyova raises the pitch on 'vegetarian' to turn the phrase into a direct spoken question. Max answers right away.",
+   "t": "'What kind of vegetarian is he?' Asking whether what kind of vegetarian is he puts Barinov right on the defensive. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Очень хорошо.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Very good.' The grammar packs 'very' and 'fine' into a tight, idiomatic kitchen exchange.",
+   "t": "'Very good.' With the police and conversation in play, Max keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что привезли его прямо сюда.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Good thing you brought him straight here.' Chef Viktor brings out the contrast between 'what' and 'delivered' in a few short words.",
+   "t": "'Good thing you brought him straight here.' Mentioning that good thing Lyova brought him straight here moves the talk in a new direction.",
    "gap": 0.4
   },
   {
@@ -182,27 +176,27 @@
   },
   {
    "v": "narrator",
-   "t": "'I never would have guessed.' In Russian, the idea of 'never' flows naturally into 'would think' without extra filler words. Max answers right away.",
+   "t": "'I never would have guessed.' Lyova reminds Barinov that he never would have guessed before the moment passes. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "А я вам говорил.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I told you so.' Here the Russian phrasing highlights 'and' before landing on 'talk'.",
+   "t": "'I told you so.' Because he told Barinov, Max treats the matter as settled. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Документы надо с собой носить.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You need to carry your documents with you.' Notice how Russian expresses 'the documents' and 'wear' with crisp inflection rather than helper words.",
+   "t": "'You need to carry your documents with you.' Explaining that Lyova needs to carry Lyova's documents with Lyova lays the cards on the table for Lyova.",
    "gap": 0.4
   },
   {
@@ -212,26 +206,26 @@
   },
   {
    "v": "narrator",
-   "t": "'Goodbye.' Lyova anchors the line on 'until', while 'meeting' completes the thought. Max answers right away.",
+   "t": "'Goodbye.' With the restaurant and shift in play, Lyova keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Нам помогает.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'That helps us out.' In Russian, the idea of 'for us' flows naturally into 'helps' without extra filler words. Alright, let's listen to all those lines again from the top.",
+   "t": "'That helps us out.' Claiming that that helps them out sounds confident, even if Barinov has doubts. Alright, let's listen to all those lines again from the top.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Максим. Не знаю.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вегетарианские рулетики не понравились.",
    "gap": 0.5
   },
@@ -241,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Максим, он просил сделать, как утром.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "В общем, вспомни, пожалуйста.",
    "gap": 0.5
   },
@@ -256,12 +250,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Очень хорошо.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что привезли его прямо сюда.",
    "gap": 0.5
   },
@@ -271,12 +265,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "А я вам говорил.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Документы надо с собой носить.",
    "gap": 0.5
   },
@@ -286,7 +280,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Нам помогает.",
    "gap": 0.9
   },
@@ -296,7 +290,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Пока!",
    "gap": 0.3
   }

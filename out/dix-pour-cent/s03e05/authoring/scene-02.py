@@ -7,30 +7,29 @@ SCENE = 2
 TITLE = "L'appel de Béatrice  (Béatrice's Call)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'beatrice': 'emilie'}
-LABELS = {'lea': 'Andréa', 'beatrice': 'Béatrice'}
+LABELS = {'andrea': 'Andréa', 'beatrice': 'Béatrice'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At home with her newborn baby, Andrea Martel receives an urgent phone call from Beatrice Dalle. Facing an unannounced script modification on set, Beatrice asks her agent to step in immediately and protect her contractual boundaries. Let's listen to the scene in French first."
 OPENER = "Let's observe as Beatrice alerts Andrea to the dispute on set."
 TRANSITION = "Now let's listen to Beatrice and Andrea again at full speed."
 OUTRO = "Andrea hangs up the phone, determined to resolve the creative impasse and stand up for Beatrice's artistic rights. When you watch the episode, listen out for the expressions meaning 'how are you doing' and 'large'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('beatrice', "Allô Andréa, c'est Béatrice.", 'Hello Andrea, it is Beatrice.', [(25, "Allô, c'est Béatrice")], ''),
-    ('lea', 'Bonjour Béatrice, comment vas-tu?', 'Hello Beatrice, how are you doing?', [(26, "T'es toujours en congé mat, toi ?")], ''),
+    ('andrea', 'Bonjour Béatrice, comment vas-tu?', 'Hello Beatrice, how are you doing?', [(26, "T'es toujours en congé mat, toi ?")], ''),
     ('beatrice', "J'ai un gros problème sur le tournage.", 'I have a big problem on the shoot.', [(34, "C'est sous le film de Pascal Birad, là")], ''),
-    ('lea', 'Que se passe-t-il avec Pascal?', 'What is happening with Pascal?', [(35, "qu'est-ce qui se passe ?")], ''),
+    ('andrea', 'Que se passe-t-il avec Pascal?', 'What is happening with Pascal?', [(35, "qu'est-ce qui se passe ?")], ''),
     ('beatrice', 'Pascal veut modifier la scène prévue.', 'Pascal wants to change the planned scene.', [(37, "c'était pas du tout prévu")], ''),
-    ('lea', "Cette modification n'était pas convenue.", 'This modification was not agreed upon.', [(37, "c'était pas du tout prévu")], ''),
+    ('andrea', "Cette modification n'était pas convenue.", 'This modification was not agreed upon.', [(37, "c'était pas du tout prévu")], ''),
     ('beatrice', 'Il impose des changements inacceptables.', 'He is imposing unacceptable changes.', [(39, "ils m'ont demandé")], ''),
-    ('lea', 'Tu as tout à fait raison de refuser.', 'You are completely right to refuse.', [(43, 'il en est même pas question')], ''),
+    ('andrea', 'Tu as tout à fait raison de refuser.', 'You are completely right to refuse.', [(43, 'il en est même pas question')], ''),
     ('beatrice', "Peux-tu venir m'aider sur le plateau?", 'Can you come help me on the set?', [(41, 'ramène-toi, Andréa')], ''),
-    ('lea', 'Je quitte la maison dès maintenant.', 'I am leaving home right now.', [(40, 'je vais tout faire pour venir')], ''),
+    ('andrea', 'Je quitte la maison dès maintenant.', 'I am leaving home right now.', [(40, 'je vais tout faire pour venir')], ''),
     ('beatrice', "Merci Andréa, j'ai besoin de toi.", 'Thank you Andrea, I need you.', [(41, 'ramène-toi, Andréa')], ''),
-    ('lea', 'Garde ton calme face au réalisateur.', 'Keep your cool when dealing with the director.', [(45, 'allez, calme')], ''),
+    ('andrea', 'Garde ton calme face au réalisateur.', 'Keep your cool when dealing with the director.', [(45, 'allez, calme')], ''),
     ('beatrice', "Je t'attends pour quinze heures.", 'I will expect you at three o', [(45, '15 heures')], ''),
-    ('lea', "J'arrive pour défendre tes droits.", 'I am coming to defend your rights.', [(44, "T'inquiète, je serai là")], ''),
+    ('andrea', "J'arrive pour défendre tes droits.", 'I am coming to defend your rights.', [(44, "T'inquiète, je serai là")], ''),
 ]
 WALK = [
     (0, None, "'Hello Andrea, it is Beatrice.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally."),

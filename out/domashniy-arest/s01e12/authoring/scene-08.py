@@ -1,34 +1,36 @@
-# domashniy-arest/s01e12/scene-08.py
-ID = "domashniy-arest-s01e12-scene-08"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e12-scene-08.
+ID = 'domashniy-arest-s01e12-scene-08'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 12
 SCENE = 8
-TITLE = "Встреча в аэропорту  (Meeting at the Airport)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.12"
-SOURCE_FILE = "sources/domashniy-arest/s01/e12.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "tarachkov": "angelina"}
-LABELS = {"samson": "Самсон", "tarachkov": "Тарачков"}
+TITLE = 'Встреча в аэропорту  (Meeting at the Airport)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'samson': 'Самсон', 'tarachkov': 'Тарачков'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.12'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e12.ru.dual.srt'
 INTRO = "Meanwhile, Samson learns that his connecting flight will be delayed for three hours. While waiting in the terminal, he unexpectedly crosses paths with his former army buddy Tarachkov. Delighted to meet after years apart, Tarachkov invites Samson to kill time at a nearby casino. Let's listen to their conversation in Russian first."
-STORY = [
-    ("samson", "Михалыч, я на месте, что там с самолётом?", "Mikhalych, I am on site, what is with the plane?", [(134, 'Михалыч'), (134, 'на месте'), (134, 'самолёт')], ""),
-    ("samson", "Хорошо, я спокойно подожду три часа.", "Fine, I will wait three hours calmly.", [(136, 'три часа подожду')], ""),
-    ("tarachkov", "Самсон, неужели это ты здесь стоишь?", "Samson, can it really be you standing here?", [(139, 'Самсон')], ""),
-    ("samson", "Рожок! Здорово, старый армейский братан!", "Rozhok! Hello, old army brother!", [(140, 'Рожжок'), (144, 'Здорово, братан')], ""),
-    ("samson", "Какими судьбами ты оказался в этом месте?", "What brings you to this place?", [(145, 'Какими судьбами')], ""),
-    ("tarachkov", "Мой военный контракт закончился, теперь я гражданин.", "My military contract ended, now I am a civilian.", [(146, 'контракт закончился')], ""),
-    ("samson", "Ты всё ещё наш храбрый капитан Тарачков?", "Are you still our brave Captain Tarachkov?", [(147, 'Капитан Тарачков')], ""),
-    ("tarachkov", "Какой капитан? Уже целый подполковник Тарачков!", "What captain? Already a whole Lieutenant Colonel Tarachkov!", [(148, 'Какой капитан'), (148, 'Подполковник Тарачков')], ""),
-    ("samson", "Ого, я очень рад тебя видеть!", "Wow, I am very glad to see you!", [(150, 'Рад тебя видеть')], ""),
-    ("tarachkov", "Ты сейчас свободен, может, посидим где-нибудь?", "Are you free right now, maybe sit somewhere?", [(151, 'свободен сейчас'), (151, 'посидим где')], ""),
-    ("samson", "У меня есть целых три свободных часа.", "I have a whole three free hours.", [(136, 'три часа подожду')], ""),
-    ("tarachkov", "Здесь рядом есть одно хорошее казино.", "Right nearby there is one good casino.", [(156, 'есть только казино')], ""),
-    ("tarachkov", "Там наливают бесплатно, если сделать ставку.", "They pour for free there if you make a bet.", [(158, 'там наливают бесплатно')], ""),
-    ("samson", "Отличная идея, тогда я тебя угощаю!", "Great idea, then I will treat you!", [(159, 'угощаю'), (160, 'Пошли')], ""),
-]
 OPENER = "Now let's examine Samson and Tarachkov's army reunion line by line. Notice the warm informal greetings, military ranks, and casual invitations."
+TRANSITION = "Now let's listen to Samson and Tarachkov's reunion once more without pauses."
+OUTRO = 'Reunited with his old comrade, Samson heads into the casino lounge to wait out the flight delay. See you next time!'
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Михалыч, я на месте, что там с самолётом?', 'Mikhalych, I am on site, what is with the plane?', [(134, 'Михалыч'), (134, 'на месте'), (134, 'самолёт')], ''),
+    ('samson', 'Хорошо, я спокойно подожду три часа.', 'Fine, I will wait three hours calmly.', [(136, 'три часа подожду')], ''),
+    ('tarachkov', 'Самсон, неужели это ты здесь стоишь?', 'Samson, can it really be you standing here?', [(139, 'Самсон')], ''),
+    ('samson', 'Рожок! Здорово, старый армейский братан!', 'Rozhok! Hello, old army brother!', [(140, 'Рожжок'), (144, 'Здорово, братан')], ''),
+    ('samson', 'Какими судьбами ты оказался в этом месте?', 'What brings you to this place?', [(145, 'Какими судьбами')], ''),
+    ('tarachkov', 'Мой военный контракт закончился, теперь я гражданин.', 'My military contract ended, now I am a civilian.', [(146, 'контракт закончился')], ''),
+    ('samson', 'Ты всё ещё наш храбрый капитан Тарачков?', 'Are you still our brave Captain Tarachkov?', [(147, 'Капитан Тарачков')], ''),
+    ('tarachkov', 'Какой капитан? Уже целый подполковник Тарачков!', 'What captain? Already a whole Lieutenant Colonel Tarachkov!', [(148, 'Какой капитан'), (148, 'Подполковник Тарачков')], ''),
+    ('samson', 'Ого, я очень рад тебя видеть!', 'Wow, I am very glad to see you!', [(150, 'Рад тебя видеть')], ''),
+    ('tarachkov', 'Ты сейчас свободен, может, посидим где-нибудь?', 'Are you free right now, maybe sit somewhere?', [(151, 'свободен сейчас'), (151, 'посидим где')], ''),
+    ('samson', 'У меня есть целых три свободных часа.', 'I have a whole three free hours.', [(136, 'три часа подожду')], ''),
+    ('tarachkov', 'Здесь рядом есть одно хорошее казино.', 'Right nearby there is one good casino.', [(156, 'есть только казино')], ''),
+    ('tarachkov', 'Там наливают бесплатно, если сделать ставку.', 'They pour for free there if you make a bet.', [(158, 'там наливают бесплатно')], ''),
+    ('samson', 'Отличная идея, тогда я тебя угощаю!', 'Great idea, then I will treat you!', [(159, 'угощаю'), (160, 'Пошли')], ''),
+]
 WALK = [
     (0, None, "'Mikhalych, I am on site, what is with the plane?' Samson addresses his dispatcher using a patronymic direct-address."),
     (1, None, "'Fine, I will wait three hours calmly.' The future-tense form governs an object-form time duration phrase."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'They pour for free there if you make a bet.' The impersonal 3rd person plural verb denotes complimentary drinks."),
     (13, None, "'Great idea, then I will treat you!' Samson warmly offers hospitality using a present tense action verb."),
 ]
-TRANSITION = "Now let's listen to Samson and Tarachkov's reunion once more without pauses."
-OUTRO = "Reunited with his old comrade, Samson heads into the casino lounge to wait out the flight delay. See you next time!"
-CLOSING = ("samson", "Пока!")

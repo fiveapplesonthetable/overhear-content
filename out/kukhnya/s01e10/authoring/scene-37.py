@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 37
-TITLE = "Внезапное предложение  (A Sudden Proposal)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Внезапное предложение  (A Sudden Proposal)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Furious about the false rumor, Victoria confronts Chef Barinov and Max in the dining area. To turn the tables on Vika in front of her sister Tanya, Max steps up boldly, introduces himself as the future father, and suddenly asks Victoria to marry him. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the romantic bluffing, bold public theatricals, and marriage proposal idioms."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Trapped by his own dramatic theatricals in front of Tanya and Chef Barinov, Max takes a bold gamble by publicly proposing to Victoria. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to bluff' and 'close' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Витя, зачем ты обманул Таню про меня?', 'Vitya, why did you lie to Tanya about me?', [(259, 'что Таня про меня')], ''),
-    ('anya', 'Шеф, я могу всё подробно объяснить сейчас.', 'Chef, I can explain everything in detail now.', [(263, 'колись')], ''),
+    ('max', 'Шеф, я могу всё подробно объяснить сейчас.', 'Chef, I can explain everything in detail now.', [(263, 'колись')], ''),
     ('vika', 'Ты, мальчик, сегодня выбрал не ту девушку!', 'You, boy, picked the wrong girl today!', [(264, 'мальчик, не на ту нарвался')], ''),
-    ('anya', 'А сейчас мы устроим настоящее весёлое шоу.', 'And now we will put on a real fun show.', [(266, 'будем делать шоу')], ''),
-    ('anya', 'Здравствуйте, Татьяна, давайте знакомиться, я Максим.', "Hello, Tatyana, let's get acquainted, I am Maxim.", [(267, 'познакомиться. Максим'), (268, 'Татьяна')], ''),
+    ('max', 'А сейчас мы устроим настоящее весёлое шоу.', 'And now we will put on a real fun show.', [(266, 'будем делать шоу')], ''),
+    ('max', 'Здравствуйте, Татьяна, давайте знакомиться, я Максим.', "Hello, Tatyana, let's get acquainted, I am Maxim.", [(267, 'познакомиться. Максим'), (268, 'Татьяна')], ''),
     ('vika', 'Макс, прекрати немедленно этот глупый цирк!', 'Max, stop this silly circus immediately!', [(266, 'доигралась')], ''),
-    ('anya', 'Я отец вашего будущего прекрасного племянника!', 'I am the father of your future wonderful nephew!', [(269, 'Отец вашего будущего племянника')], ''),
+    ('max', 'Я отец вашего будущего прекрасного племянника!', 'I am the father of your future wonderful nephew!', [(269, 'Отец вашего будущего племянника')], ''),
     ('vika', 'Ты ведёшь себя как полный сумасшедший!', 'You are behaving like a complete madman!', [(274, 'Ты же блефуешь')], ''),
-    ('anya', 'Мы же теперь самые близкие родные люди.', 'We are now the closest family members.', [(271, 'мы ж теперь родственники')], ''),
-    ('anya', 'Я хочу сказать всем вам кое-что важное.', 'I want to say something important to you all.', [(272, 'кое-что важное')], ''),
-    ('anya', 'Вика, выходи за меня замуж прямо сейчас!', 'Vika, marry me right now!', [(273, 'выходи за меня замуж')], ''),
+    ('max', 'Мы же теперь самые близкие родные люди.', 'We are now the closest family members.', [(271, 'мы ж теперь родственники')], ''),
+    ('max', 'Я хочу сказать всем вам кое-что важное.', 'I want to say something important to you all.', [(272, 'кое-что важное')], ''),
+    ('max', 'Вика, выходи за меня замуж прямо сейчас!', 'Vika, marry me right now!', [(273, 'выходи за меня замуж')], ''),
     ('vika', 'Ты просто нагло и открыто сейчас блефуешь!', 'You are simply insolently and openly bluffing now!', [(274, 'Ты же блефуешь')], ''),
-    ('anya', 'Я говорю совершенно серьёзно перед твоей сестрой!', 'I am speaking completely seriously in front of your sister!', [(274, 'блефуешь')], ''),
+    ('max', 'Я говорю совершенно серьёзно перед твоей сестрой!', 'I am speaking completely seriously in front of your sister!', [(274, 'блефуешь')], ''),
 ]
 WALK = [
     (0, None, "'Vitya, why did you lie to Tanya about me?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

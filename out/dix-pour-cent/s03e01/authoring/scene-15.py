@@ -7,29 +7,28 @@ SCENE = 15
 TITLE = "La réunion d'agence  (The Agency Meeting)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Gathered in the agency conference room, Andrea and the agents hold an urgent meeting about star client Jean Dujardin's method acting crisis. As Hicham demands to know whether Jean signed his new film contract, Mathias lectures the room on how famous actors struggle to shed intense roles. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Comparing Jean Dujardin's crisis to Daniel Day-Lewis, the agency team debates how to coax their wild actor back into civilized society. When you watch the episode, listen out for the expressions meaning 'movie filming' and 'finished'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne journée!')
+CLOSING = ('andrea', 'Bonne journée!')
 STORY = [
-    ('lea', 'Le tournage est fini depuis deux semaines.', 'Filming wrapped two weeks ago.', [(442, 'Le tournage est fini depuis deux semaines')], ''),
-    ('lea', "Et il doit enchaîner avec l'autre film!", 'And he has to jump straight into the next film!', [(443, "il doit enchaîner avec l'autre film")], ''),
-    ('lea', "C'est un cauchemar, les gars.", 'It is a nightmare, guys.', [(444, "C'est un cauchemar, les gars")], ''),
-    ('gabriel', 'Il ne veut pas se laver?', 'He does not want to wash?', [(445, 'veut pas se laver ou se raser')], ''),
-    ('lea', 'Non, il ne veut rien faire!', 'No, he does not want to do anything!', [(447, 'Non, rien. Rien')], ''),
-    ('lea', "J'ai un acteur en pleine Delewis!", 'I have an actor in full Day-Lewis mode!', [(458, 'un acteur en pleine Delewis')], ''),
-    ('gabriel', "Daniel Delewis, l'acteur anglais?", 'Daniel Day-Lewis, the English actor?', [(460, 'Daniel Delewis')], ''),
+    ('andrea', 'Le tournage est fini depuis deux semaines.', 'Filming wrapped two weeks ago.', [(442, 'Le tournage est fini depuis deux semaines')], ''),
+    ('andrea', "Et il doit enchaîner avec l'autre film!", 'And he has to jump straight into the next film!', [(443, "il doit enchaîner avec l'autre film")], ''),
+    ('andrea', "C'est un cauchemar, les gars.", 'It is a nightmare, guys.', [(444, "C'est un cauchemar, les gars")], ''),
+    ('hicham', 'Il ne veut pas se laver?', 'He does not want to wash?', [(445, 'veut pas se laver ou se raser')], ''),
+    ('andrea', 'Non, il ne veut rien faire!', 'No, he does not want to do anything!', [(447, 'Non, rien. Rien')], ''),
+    ('andrea', "J'ai un acteur en pleine Delewis!", 'I have an actor in full Day-Lewis mode!', [(458, 'un acteur en pleine Delewis')], ''),
+    ('hicham', "Daniel Delewis, l'acteur anglais?", 'Daniel Day-Lewis, the English actor?', [(460, 'Daniel Delewis')], ''),
     ('mathias', 'Il ne peut plus en sortir.', 'He can no longer come out of it.', [(462, 'il peut plus en sortir')], ''),
     ('mathias', "C'est utile pour diriger une agence!", 'It is useful for running an agency!', [(464, 'quand on dirige une agence artistique')], ''),
     ('mathias', 'Day-Lewis a vécu six mois en forêt.', 'Day-Lewis lived six months in the forest.', [(466, 'vécu comme un Indien pendant six mois')], ''),
     ('mathias', "C'est la méthode de l'Actor Studio.", 'It is the Actor Studio method.', [(471, 'Méthode acteur studio')], ''),
-    ('gabriel', 'Finalement, il a signé son contrat?', 'Finally, did he sign his contract?', [(479, 'il a signé son contrat')], ''),
-    ('lea', "Non, mais c'est en cours.", 'No, but it is in progress.', [(481, "c'est en cours")], ''),
+    ('hicham', 'Finalement, il a signé son contrat?', 'Finally, did he sign his contract?', [(479, 'il a signé son contrat')], ''),
+    ('andrea', "Non, mais c'est en cours.", 'No, but it is in progress.', [(481, "c'est en cours")], ''),
     ('mathias', "Fabriquer des chaussures aide beaucoup l'acteur.", 'Making shoes helps the actor a lot.', [(498, "Ça l'aide à se retrouver lui-même")], ''),
     ('mathias', 'Depardieu buvait pour quitter Rodin!', 'Depardieu drank heavily to leave Rodin!', [(501, 'sortir du personnage de Rodin')], ''),
 ]

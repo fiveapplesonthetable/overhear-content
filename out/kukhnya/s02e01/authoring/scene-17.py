@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 17
-TITLE = "Секретный ингредиент  (The Secret Ingredient)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Секретный ингредиент  (The Secret Ingredient)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
-LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'The chef tastes the spiked tea and immediately recognizes the hidden alcohol. He praises his sous-chef for the clever trick while Kostya delivers a note to Victoria.'
 OPENER = "Now let's go back through the exchange around The Secret Ingredient line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The kitchen staff successfully manages the boss's temper, allowing the restaurant service to continue smoothly without any further screaming. Next time you watch the episode, listen for the Russian expressions for 'excellent' and 'sencha' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
-    ('chef', 'Отличный чай!', 'Excellent tea!', [(233, 'Чай. Чай.')], ''),
-    ('chef', 'А что это за чай-то?', 'And what kind of tea is this?', [(234, 'А что за чай-то')], ''),
+    ('barinov', 'Отличный чай!', 'Excellent tea!', [(233, 'Чай. Чай.')], ''),
+    ('barinov', 'А что это за чай-то?', 'And what kind of tea is this?', [(234, 'А что за чай-то')], ''),
     ('lyova', 'Это Сенча.', 'This is Sencha.', [(235, 'Сенча')], ''),
-    ('chef', 'Молодцы, действуем по нашему плану.', 'Good job, we are acting according to our plan.', [(236, 'Молодцы. Действуем по плану.')], ''),
+    ('barinov', 'Молодцы, действуем по нашему плану.', 'Good job, we are acting according to our plan.', [(236, 'Молодцы. Действуем по плану.')], ''),
     ('lyova', 'Давай, Костян, давай, давай!', 'Come on, Kostyan, come on, come on!', [(237, 'Давай, Костян, давай, давай, давай.')], ''),
-    ('chef', 'Всё понятно.', 'Everything is understood.', [(238, 'Понятно.')], ''),
+    ('kostya', 'Всё понятно.', 'Everything is understood.', [(238, 'Понятно.')], ''),
     ('lyova', 'Займись седьмым столиком, пожалуйста.', 'Take care of the seventh table, please.', [(238, 'Займи седьмым столиком, пожалуйста.')], ''),
-    ('chef', 'Виктория Сергеевна, это записка вам.', 'Victoria Sergeyevna, this is a note for you.', [(239, 'Виктория Сергеевна, записка вам.')], ''),
-    ('chef', 'Этот чай очень хорошо успокаивает.', 'This tea calms very well.', [], ''),
+    ('kostya', 'Виктория Сергеевна, это записка вам.', 'Victoria Sergeyevna, this is a note for you.', [(239, 'Виктория Сергеевна, записка вам.')], ''),
+    ('barinov', 'Этот чай очень хорошо успокаивает.', 'This tea calms very well.', [], ''),
     ('lyova', 'Я рад, что вам понравилось.', 'I am glad that you liked it.', [], ''),
-    ('chef', 'Заварите мне ещё одну чашку.', 'Brew me one more cup.', [], ''),
+    ('barinov', 'Заварите мне ещё одну чашку.', 'Brew me one more cup.', [], ''),
     ('lyova', 'Сейчас всё сделаем.', 'We will do everything now.', [], ''),
-    ('chef', 'А от кого эта записка?', 'And from whom is this note?', [], ''),
+    ('kostya', 'А от кого эта записка?', 'And from whom is this note?', [], ''),
     ('lyova', 'Просто передай её Виктории Сергеевне.', 'Just pass it to Victoria Sergeyevna.', [], ''),
 ]
 WALK = [

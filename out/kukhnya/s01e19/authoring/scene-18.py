@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 18
-TITLE = "Признание  (The Confession)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Признание  (The Confession)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Focused on the confession, Max tells Vika that he does not want an open relationship. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max tells Vika that he does not want an open relationship. Next time you watch the episode, listen for the Russian expressions for 'to think' and 'to want' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Вика.', 'Vika.', [], ''),
+    ('max', 'Вика.', 'Vika.', [], ''),
     ('vika', 'Что?', 'What?', [], ''),
-    ('anya', 'Я думал о нас.', 'I thought about us.', [], ''),
+    ('max', 'Я думал о нас.', 'I thought about us.', [], ''),
     ('vika', 'И что?', 'And what?', [], ''),
-    ('anya', 'Я не хочу свободные отношения.', 'I do not want an open relationship.', [(375, 'Вик, я не хочу, чтобы у нас были свободные отношения.')], ''),
+    ('max', 'Я не хочу свободные отношения.', 'I do not want an open relationship.', [(375, 'Вик, я не хочу, чтобы у нас были свободные отношения.')], ''),
     ('vika', 'Правда?', 'Really?', [], ''),
-    ('anya', 'Да.', 'Yes.', [], ''),
+    ('max', 'Да.', 'Yes.', [], ''),
     ('vika', 'Я тоже не хочу.', 'I also do not want it.', [], ''),
-    ('anya', 'Ты мне нравишься.', 'I like you.', [], ''),
+    ('max', 'Ты мне нравишься.', 'I like you.', [], ''),
     ('vika', 'Ты мне тоже.', 'I like you too.', [], ''),
-    ('anya', 'Ты не против быть моей девушкой?', 'Would you be my girlfriend?', [(376, 'Ты не против быть моей девушкой?')], ''),
+    ('max', 'Ты не против быть моей девушкой?', 'Would you be my girlfriend?', [(376, 'Ты не против быть моей девушкой?')], ''),
     ('vika', 'Это...', 'Does...', [(377, 'Это')], ''),
 ]
 WALK = [

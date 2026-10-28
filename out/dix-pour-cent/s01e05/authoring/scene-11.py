@@ -7,7 +7,6 @@ SCENE = 11
 TITLE = 'Un pote dans la panade  (A Friend in Trouble)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'joey': 'marcel', 'julie': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'

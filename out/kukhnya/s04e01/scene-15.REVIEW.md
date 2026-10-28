@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Быстро! Быстро всё собрали! | Quickly! Pack everything up fast! | #196 00:17:39: Быстро! Быстро все собрали! | verbatim |
-| 2 | Шеф | Дима, я тебе сейчас объясню. | Dima, I will explain everything to you right now. | #200 00:17:49: Дима, я тебе сейчас объясню. | verbatim |
-| 3 | Шеф | Сейчас быстренько накормим твоих гостей. | We will feed your guests properly right away. | #201 00:17:51: Сейчас быстренько накормим твоих гостей. | verbatim |
-| 4 | Нагиев | Не надо. Ты уже накормил всех. | Don't bother. You have already fed everyone. | #202 00:17:54: Не надо. Ты уж накормил всех. | verbatim |
-| 5 | Нагиев | Открой дверь, я тебе сказал! | Open the door, I told you! | #203 00:18:05: Дверь открой, я тебе сказал. | verbatim |
-| 6 | Нагиев | Я тебя уволил! Открой дверь, я считаю до трёх. | You are fired! Open the door, I am counting to three. | #204 00:18:07: Я тебя уволил. Открой дверь, я считаю, до трех. | verbatim |
-| 7 | Нагиев | Полгода. | Six months. | #207 00:18:24: Полгода. | verbatim |
-| 8 | Нагиев | Работаешь без зарплаты. | You are working without a salary. | #208 00:18:25: Работаешь без зарплаты. | verbatim |
-| 9 | Нагиев | Ты меня понял? | Did you understand me? | #209 00:18:28: Ты меня понял? | verbatim |
-| 10 | Шеф | Абсолютный псих. | He is an absolute madman. | #210 00:18:45: Абсолютный псих. | verbatim |
-| 11 | Нагиев | Да постоянно! | Yes, all the time! | #211 00:18:48: Да постоянно! | verbatim |
-| 12 | Шеф | Достал, плантатор! | I have had enough of this slave driver! | #212 00:18:50: Достал, плантатор! | verbatim |
+| 1 | Шеф | Быстро! Быстро всё собрали! | Quickly! Pack everything up fast! | #196: Быстро! Быстро все собрали! | verbatim |
+| 2 | Шеф | Дима, я тебе сейчас объясню. | Dima, I will explain everything to you right now. | #200: Дима, я тебе сейчас объясню. | verbatim |
+| 3 | Шеф | Сейчас быстренько накормим твоих гостей. | We will feed your guests properly right away. | #201: Сейчас быстренько накормим твоих гостей. | verbatim |
+| 4 | Нагиев | Не надо. Ты уже накормил всех. | Don't bother. You have already fed everyone. | #202: Не надо. Ты уж накормил всех. | verbatim |
+| 5 | Нагиев | Открой дверь, я тебе сказал! | Open the door, I told you! | #203: Дверь открой, я тебе сказал. | verbatim |
+| 6 | Нагиев | Я тебя уволил! Открой дверь, я считаю до трёх. | You are fired! Open the door, I am counting to three. | #204: Я тебя уволил. Открой дверь, я считаю, до трех. | verbatim |
+| 7 | Нагиев | Полгода. | Six months. | #207: Полгода. | verbatim |
+| 8 | Нагиев | Работаешь без зарплаты. | You are working without a salary. | #208: Работаешь без зарплаты. | verbatim |
+| 9 | Нагиев | Ты меня понял? | Did you understand me? | #209: Ты меня понял? | verbatim |
+| 10 | Шеф | Абсолютный псих. | He is an absolute madman. | #210: Абсолютный псих. | verbatim |
+| 11 | Лёва | Да постоянно! | Yes, all the time! | #211: Да постоянно! | verbatim |
+| 12 | Шеф | Достал, плантатор! | I have had enough of this slave driver! | #212: Достал, плантатор! | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly! Pack everything up fast!' Chef Viktor delivers this line as an emphatic exclamation, putting strong stress on the main word.
-- 'Dima, I will explain everything to you right now.' Chef Viktor addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'We will feed your guests properly right away.' Notice how Russian puts 'right now' and 'will feed' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Don't bother. You have already fed everyone.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Open the door, I told you!' In everyday Russian, 'to open' flows straight into 'said' without extra linking words.
-- 'You are fired! Open the door, I am counting to three.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Six months.' Spoken Russian keeps this brief and expressive, built right around 'six months' without extra helper words.
-- 'You are working without a salary.' Here Nagiyev anchors the thought on 'are working' and finishes on 'paychecks', keeping the spoken rhythm brisk and natural.
-- 'Did you understand me?' Dmitry raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'He is an absolute madman.' Chef Barinov pairs 'absolute, complete' with 'madman' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Yes, all the time!' Spoken Russian keeps this brief and expressive, built right around 'constantly' without extra helper words.
-- 'I have had enough of this slave driver!' The past-tense verb ending marks the grammatical gender and number of the subject directly.
+- 'Quickly! Pack everything up fast!' By packing everything up fast, Barinov raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Dima, I will explain everything to you right now.' Noting that he will explain everything to Lyova right now keeps Barinov's side of the story simple and clear.
+- 'We will feed your guests properly right away.' Because they will feed Lyova's guests properly right away, Barinov treats the matter as settled.
+- 'Don't bother. You have already fed everyone.' Explaining that do not bother lays the cards on the table for Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Open the door, I told you!' Opening the door he told Barinov is Nagiyev's blunt reaction in front of Barinov.
+- 'You are fired! Open the door, I am counting to three.' Insisting that Barinov is fired shows Nagiyev is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Six months.' Over the point and the plan, Nagiyev answers Barinov without a second thought.
+- 'You are working without a salary.' Nagiyev explains that Barinov is working without a salary, keeping his voice calm and direct.
+- 'Did you understand me?' Checking whether Barinov understands him cuts straight through the tension between Nagiyev and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'He is an absolute madman.' By being an absolute madman, Barinov keeps his side of the story grounded.
+- 'Yes, all the time!' With the point and plan at stake, Lyova reacts without holding back.
+- 'I have had enough of this slave driver!' Having had enough of this slave driver is Barinov's blunt reaction in front of Lyova. Russian puts the key word right up front so his emotion lands on the first beat.

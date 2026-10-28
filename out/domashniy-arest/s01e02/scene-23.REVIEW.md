@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вот это что такое, я вас спрашиваю! | What is this, I'm asking you! | #711 00:38:43: Вот это что такое, я вас спрашиваю | adapted: Arkady playing Tretyakov |
-| 2 | Аня | Что смотрите, бандерлоги? Вы совсем страх потеряли? | What are you staring at, you monkeys? Have you lost all fear? | #712 00:38:46: смотрите, бандерлоги<br>#713 00:38:49: Вы совсем страх потеряли | adapted: 'Че' -> 'Что' |
-| 3 | Аня | Ну как я позвоню этому Третьякову? Что я ему скажу? | So how can I call this Tretyakov? What will I say to him? | #729 00:39:47: Ну как я позвоню этому Третьякову? Что я ему скажу | verbatim |
-| 4 | Аня | Здравствуйте, Пётр Олегович, это Аникеев. | Hello, Pyotr Olegovich, it's Anikeev. | #730 00:39:50: здравствуйте, Петр Олегович, это Аникеев | adapted: 'Скажу,' dropped |
-| 5 | Аня | Аникеев? Ну что, проворовался? Да я тебя посажу! | Anikeev? Well then, caught stealing? I'll put you in prison! | #731 00:39:55: Аникеев? Ну что, проворовался<br>#732 00:40:00: Да я тебя посажу | adapted: the insults in cues 731-732 and the threat in 733 dropped |
-| 6 | Славик | Очень похоже! | That's just like him! | #736 00:40:10: Очень похоже | adapted: speaker of cue 736 given to Slavik |
-| 7 | Юля | Правда похоже. А может, вы сами позвоните губернатору? | It really is. Why don't you call the governor yourself? | #737 00:40:11: похоже<br>#738 00:40:14: может, вы сами позвоните | adapted: 'Да, реально похоже' (737) -> 'Правда похоже'; 'этому вашему губернатору' (738) -> 'губернатору' |
-| 8 | Аня | И что? | And then what? | #739 00:40:17: И что | verbatim |
-| 9 | Юля | Я один раз позвонила как директор и отменила контрольную. | Once I phoned pretending to be the headmistress and cancelled a test. | #741 00:40:21: отменила контрольную | adapted: adapted from cues 740-741 ('развела', 'от имени директрисы' -> 'позвонила как директор') |
-| 10 | Аня | Со своего телефона? И все поверили? | From your own phone? And everyone believed it? | #742 00:40:23: со своего телефона<br>#743 00:40:26: все поверили | adapted: the rest of cues 742-743 dropped |
-| 11 | Юля | Нет, есть такие программы. Они меняют номер. | No, there are apps for that. They change the number. | #745 00:40:31: номер | adapted: adapted from cues 744-745 ('программ куча всяких', 'подменяют номер' -> 'меняют номер'); the app names dropped |
-| 12 | Аня | Бред какой-то. Но, с другой стороны, чем я рискую? | What nonsense. But on the other hand, what have I got to lose? | #748 00:40:38: Бред какой-то<br>#750 00:40:48: Но, с другой стороны, чем я рискую | adapted: cue 749 dropped |
-| 13 | Аня | Так, давай свою программу попробуем. | Right, let's try your app. | #751 00:40:51: Так<br>#751 00:40:51: давай свою программу попробуем | adapted: 'слушай' dropped |
-| 14 | Юля | А у меня её нет. Я её удалила. | But I haven't got it. I deleted it. | #752 00:40:55: у меня её нет<br>#753 00:40:56: удалила | adapted: 'Так' -> 'А'; 'там такой скандал был, ... нафиг' dropped |
-| 15 | Юля | Теперь новую надо покупать. | Now you'd have to buy a new one. | #754 00:40:59: Теперь новую надо покупать | verbatim |
-| 16 | Аня | Сколько? | How much? | #755 00:41:00: Сколько | verbatim |
-| 17 | Юля | Рублей пятьсот. | About five hundred roubles. | #756 00:41:01: Рублей пятьсот | verbatim |
-| 18 | Аня | Пятьсот. А у меня ни копейки. | Five hundred. And I haven't got a penny. | #757 00:41:03: Пятьсот | adapted: 'Копейки нету. Чёрт.' -> 'А у меня ни копейки.' |
+| 1 | Аркадий | Вот это что такое, я вас спрашиваю! | What is this, I'm asking you! | #711: Вот это что такое, я вас спрашиваю | adapted: Arkady playing Tretyakov |
+| 2 | Аркадий | Что смотрите, бандерлоги? Вы совсем страх потеряли? | What are you staring at, you monkeys? Have you lost all fear? | #712: смотрите, бандерлоги<br>#713: Вы совсем страх потеряли | adapted: 'Че' -> 'Что' |
+| 3 | Аркадий | Ну как я позвоню этому Третьякову? Что я ему скажу? | So how can I call this Tretyakov? What will I say to him? | #729: Ну как я позвоню этому Третьякову? Что я ему скажу | verbatim |
+| 4 | Аркадий | Здравствуйте, Пётр Олегович, это Аникеев. | Hello, Pyotr Olegovich, it's Anikeev. | #730: здравствуйте, Петр Олегович, это Аникеев | adapted: 'Скажу,' dropped |
+| 5 | Аркадий | Аникеев? Ну что, проворовался? Да я тебя посажу! | Anikeev? Well then, caught stealing? I'll put you in prison! | #731: Аникеев? Ну что, проворовался<br>#732: Да я тебя посажу | adapted: the insults in cues 731-732 and the threat in 733 dropped |
+| 6 | Славик | Очень похоже! | That's just like him! | #736: Очень похоже | adapted: speaker of cue 736 given to Slavik |
+| 7 | Юля | Правда похоже. А может, вы сами позвоните губернатору? | It really is. Why don't you call the governor yourself? | #737: похоже<br>#738: может, вы сами позвоните | adapted: 'Да, реально похоже' (737) -> 'Правда похоже'; 'этому вашему губернатору' (738) -> 'губернатору' |
+| 8 | Аркадий | И что? | And then what? | #739: И что | verbatim |
+| 9 | Юля | Я один раз позвонила как директор и отменила контрольную. | Once I phoned pretending to be the headmistress and cancelled a test. | #741: отменила контрольную | adapted: adapted from cues 740-741 ('развела', 'от имени директрисы' -> 'позвонила как директор') |
+| 10 | Аркадий | Со своего телефона? И все поверили? | From your own phone? And everyone believed it? | #742: со своего телефона<br>#743: все поверили | adapted: the rest of cues 742-743 dropped |
+| 11 | Юля | Нет, есть такие программы. Они меняют номер. | No, there are apps for that. They change the number. | #745: номер | adapted: adapted from cues 744-745 ('программ куча всяких', 'подменяют номер' -> 'меняют номер'); the app names dropped |
+| 12 | Аркадий | Бред какой-то. Но, с другой стороны, чем я рискую? | What nonsense. But on the other hand, what have I got to lose? | #748: Бред какой-то<br>#750: Но, с другой стороны, чем я рискую | adapted: cue 749 dropped |
+| 13 | Аркадий | Так, давай свою программу попробуем. | Right, let's try your app. | #751: Так<br>#751: давай свою программу попробуем | adapted: 'слушай' dropped |
+| 14 | Юля | А у меня её нет. Я её удалила. | But I haven't got it. I deleted it. | #752: у меня её нет<br>#753: удалила | adapted: 'Так' -> 'А'; 'там такой скандал был, ... нафиг' dropped |
+| 15 | Юля | Теперь новую надо покупать. | Now you'd have to buy a new one. | #754: Теперь новую надо покупать | verbatim |
+| 16 | Аркадий | Сколько? | How much? | #755: Сколько | verbatim |
+| 17 | Юля | Рублей пятьсот. | About five hundred roubles. | #756: Рублей пятьсот | verbatim |
+| 18 | Аркадий | Пятьсот. А у меня ни копейки. | Five hundred. And I haven't got a penny. | #757: Пятьсот | adapted: 'Копейки нету. Чёрт.' -> 'А у меня ни копейки.' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Алло, Елена Павловна, я должен вам кое-что передать. | Hello, Elena Pavlovna, I need to pass something along to you. | #74 00:05:15: Алло, Елена Павловна, я должен вам кое-что передать | verbatim |
-| 2 | Елена | Нет, это не Виктор Петрович. | No, this is not Viktor Petrovich. | #75 00:05:22: Нет, это не Виктор Петрович | verbatim |
-| 3 | Елена | Это ваш тайный поклонник. | This is your secret admirer. | #76 00:05:24: Это ваш тайный поклонник | verbatim |
-| 4 | Шеф | Нет, я не повар, что вы. | No, I am not a cook, not at all. | #78 00:05:31: Нет, я не повар, что вы | verbatim |
-| 5 | Елена | Я занимаюсь обычно дайвингом. | I usually go scuba diving. | #79 00:05:34: Я занимаюсь обычно дайвингом | verbatim |
-| 6 | Елена | Да, я знаю, что это очень опасно. | Yes, I know that it is very dangerous. | #80 00:05:39: Да, я знаю, что это очень опасно | verbatim |
-| 7 | Шеф | Человек должен в жизни испытать все. | A person must experience everything in life. | #81 00:05:41: Человек должен в жизни испытать все | verbatim |
-| 8 | Елена | Мне плевать. | I do not care. | #81 00:05:41: Мне плевать | verbatim |
-| 9 | Елена | У меня очень важный разговор. | I am having a very important conversation. | #83 00:05:50: У меня очень важный разговор | verbatim |
-| 10 | Шеф | Иди отсюда! | Get out of here! | #83 00:05:50: Иди отсюда | verbatim |
-| 11 | Елена | Потом зайдешь. | Come back later. | #84 00:05:52: Потом зайдешь | verbatim |
-| 12 | Елена | Ну так. | Well, just like that. | #85 00:05:57: Ну так | verbatim |
-| 13 | Шеф | Больше ничего. | Nothing else. | #88 00:06:27: больше ничего | verbatim |
+| 1 | Шеф | Алло, Елена Павловна, я должен вам кое-что передать. | Hello, Elena Pavlovna, I need to pass something along to you. | #74: Алло, Елена Павловна, я должен вам кое-что передать | verbatim |
+| 2 | Вика | Нет, это не Виктор Петрович. | No, this is not Viktor Petrovich. | #75: Нет, это не Виктор Петрович | verbatim |
+| 3 | Елена | Это ваш тайный поклонник. | This is your secret admirer. | #76: Это ваш тайный поклонник | verbatim |
+| 4 | Шеф | Нет, я не повар, что вы. | No, I am not a cook, not at all. | #78: Нет, я не повар, что вы | verbatim |
+| 5 | Вика | Я занимаюсь обычно дайвингом. | I usually go scuba diving. | #79: Я занимаюсь обычно дайвингом | verbatim |
+| 6 | Елена | Да, я знаю, что это очень опасно. | Yes, I know that it is very dangerous. | #80: Да, я знаю, что это очень опасно | verbatim |
+| 7 | Шеф | Человек должен в жизни испытать все. | A person must experience everything in life. | #81: Человек должен в жизни испытать все | verbatim |
+| 8 | Вика | Мне плевать. | I do not care. | #81: Мне плевать | verbatim |
+| 9 | Елена | У меня очень важный разговор. | I am having a very important conversation. | #83: У меня очень важный разговор | verbatim |
+| 10 | Шеф | Иди отсюда! | Get out of here! | #83: Иди отсюда | verbatim |
+| 11 | Вика | Потом зайдешь. | Come back later. | #84: Потом зайдешь | verbatim |
+| 12 | Елена | Ну так. | Well, just like that. | #85: Ну так | verbatim |
+| 13 | Шеф | Больше ничего. | Nothing else. | #88: больше ничего | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Elena Pavlovna, I need to pass something along to you.' Chef Viktor anchors the line on 'hello', while 'to pass on' completes the thought.
-- 'No, this is not Viktor Petrovich.' The negative particle sits right before the verb meaning 'there is no' to negate the statement. Elena answers right away.
-- 'This is your secret admirer.' The grammar packs 'this' and 'admirer' into a tight, idiomatic kitchen exchange.
-- 'No, I am not a cook, not at all.' Here the Russian phrasing highlights 'there is no' before landing on 'you'.
-- 'I usually go scuba diving.' Notice how Russian expresses 'I' and 'scuba diving' with crisp inflection rather than helper words. Elena answers right away.
-- 'Yes, I know that it is very dangerous.' Elena anchors the line on 'yes', while 'dangerous' completes the thought.
-- 'A person must experience everything in life.' In Russian, the idea of 'man' flows naturally into 'all' without extra filler words.
-- 'I do not care.' Here the Russian phrasing highlights 'for me' before landing on 'do not care'. Elena answers right away.
-- 'I am having a very important conversation.' The meaning hinges on 'by' working together with 'conversation' in spoken Russian.
-- 'Get out of here!' Chef Viktor anchors the line on 'go', while 'from here' completes the thought.
-- 'Come back later.' Vika brings out the contrast between 'later' and 'to come in' in a few short words. Elena answers right away.
-- 'Well, just like that.' The meaning hinges on 'come on' working together with 'like this' in spoken Russian.
-- 'Nothing else.' Notice how Russian expresses 'more' and 'nothing' with crisp inflection rather than helper words.
+- 'Hello, Elena Pavlovna, I need to pass something along to you.' Barinov explains that he needs to pass something along to Elena, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'No, this is not Viktor Petrovich.' Even though this is not Viktor Petrovich, Vika keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'This is your secret admirer.' Admitting that this is Barinov's secret admirer shows Elena being honest for a change.
+- 'No, I am not a cook, not at all.' Mentioning that he is not a cook not at all moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'I usually go scuba diving.' Between the conversation and the moment, Vika gives Barinov a quick, grounded response.
+- 'Yes, I know that it is very dangerous.' Adding that she knows that it is very dangerous fills in the missing piece for Barinov.
+- 'A person must experience everything in life.' Barinov tells Elena that a person must experience everything in life without dressing it up.
+- 'I do not care.' Since she does not care, Vika does not waste words on excuses.
+- 'I am having a very important conversation.' Being having a very important conversation is how Elena lays out the situation for Barinov.
+- 'Get out of here!' Barinov declares that Elena should get out of here as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Come back later.' Coming back later is how Vika lays out the situation for Barinov.
+- 'Well, just like that.' With the work and call in play, Elena keeps this short reply brisk and direct.
+- 'Nothing else.' Over the work and the kitchen, Barinov answers Elena without a second thought.

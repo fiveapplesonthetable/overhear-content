@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Это элементарный развод, дорогой Аркашенька! | This is an elementary setup, dear Arkashenka! | #838 00:50:54: Развод, Аркашенька, элементарный развод. | verbatim |
-| 2 | Аня | Ты всё это подстроил заранее? | Did you set all this up in advance? | new | new |
-| 3 | Паша | Как же ты этого не просëк? | How did you not figure this out? | #839 00:51:04: Как же ты со своей знаменитой чуйкой-то это не просек? | verbatim |
-| 4 | Паша | Не тот ты стал, совсем не тот! | You are not the same man, not at all! | #840 00:51:07: Не тот ты стал, совсем же не тот, да? | verbatim |
-| 5 | Аня | Мы же заключили честный договор. | We made an honest agreement after all. | #845 00:51:21: У нас договор. | verbatim |
-| 6 | Паша | Твои миллионы теперь останутся у меня. | Your millions will now stay with me. | #846 00:51:22: Миллион сразу. | verbatim |
-| 7 | Аня | Отдай мне хотя бы мою долю. | Give me at least my share. | new | new |
+| 1 | Паша | Это элементарный развод, дорогой Аркашенька! | This is an elementary setup, dear Arkashenka! | #838: Развод, Аркашенька, элементарный развод. | verbatim |
+| 2 | Аркадий | Ты всё это подстроил заранее? | Did you set all this up in advance? | new | new |
+| 3 | Паша | Как же ты этого не просëк? | How did you not figure this out? | #839: Как же ты со своей знаменитой чуйкой-то это не просек? | verbatim |
+| 4 | Паша | Не тот ты стал, совсем не тот! | You are not the same man, not at all! | #840: Не тот ты стал, совсем же не тот, да? | verbatim |
+| 5 | Аркадий | Мы же заключили честный договор. | We made an honest agreement after all. | #845: У нас договор. | verbatim |
+| 6 | Паша | Твои миллионы теперь останутся у меня. | Your millions will now stay with me. | #846: Миллион сразу. | verbatim |
+| 7 | Аркадий | Отдай мне хотя бы мою долю. | Give me at least my share. | new | new |
 | 8 | Паша | Ты больше не получишь ни рубля. | You will not get another single ruble. | new | new |
-| 9 | Аня | Я могу сейчас же вызвать полицию. | I can call the police right now. | #848 00:51:27: Я все равно ментам могу сообщить | verbatim |
-| 10 | Паша | У тебя нет никаких доказательств против меня. | You have no proof whatsoever against me. | #849 00:51:36: А где доказательства? | verbatim |
-| 11 | Аня | Ты ответишь за это подлое предательство. | You will answer for this vile betrayal. | new | new |
-| 12 | Паша | Пора возвращаться в твою тесную коммуналку. | Time to return to your cramped communal flat. | #851 00:51:39: пора тебе уже возвращаться в свой уютный | verbatim |
-| 13 | Аня | Я никогда не прощу тебе этот обман. | I will never forgive you for this deception. | new | new |
+| 9 | Аркадий | Я могу сейчас же вызвать полицию. | I can call the police right now. | #848: Я все равно ментам могу сообщить | verbatim |
+| 10 | Паша | У тебя нет никаких доказательств против меня. | You have no proof whatsoever against me. | #849: А где доказательства? | verbatim |
+| 11 | Аркадий | Ты ответишь за это подлое предательство. | You will answer for this vile betrayal. | new | new |
+| 12 | Паша | Пора возвращаться в твою тесную коммуналку. | Time to return to your cramped communal flat. | #851: пора тебе уже возвращаться в свой уютный | verbatim |
+| 13 | Аркадий | Я никогда не прощу тебе этот обман. | I will never forgive you for this deception. | new | new |
 | 14 | Паша | Привыкай к своей новой скромной жизни. | Get used to your new modest life. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

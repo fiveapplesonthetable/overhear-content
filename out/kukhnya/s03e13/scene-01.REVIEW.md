@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мы старательно собираем пазлы. | We carefully put jigsaw puzzles together. | #1 00:00:28: Собирая пазлы | adapted: adapted |
-| 2 | Аня | Хочется составить картинку своего счастья. | We want to put together a picture of our happiness. | #2 00:00:32: составить картинку своего счастья | adapted: adapted |
-| 3 | Аня | Не всегда пазлы складываются правильно. | Puzzles do not always come together the right way. | #3 00:00:35: не всегда пазлы складываются | adapted: adapted |
-| 4 | Аня | Нифига себе, где это я? | Holy cow, where am I? | #4 00:00:52: Нифига себе | adapted: adapted |
-| 5 | Нагиев | Доброе утро, Макс. | Good morning, Max. | #5 00:01:05: Доброе утро | adapted: adapted |
-| 6 | Аня | Доброе утро, Катя. | Good morning, Katya. | #6 00:01:26: Доброе утро | adapted: adapted |
-| 7 | Нагиев | Ну, кому как сегодня. | Well, that depends on who you ask today. | #7 00:01:28: Ну, кому как | adapted: adapted |
-| 8 | Нагиев | Знал бы я про свою судьбу. | If only I had known about my fate. | #8 00:01:30: Знал бы, что судьба | adapted: adapted |
-| 9 | Нагиев | Судьба повернулась ко мне спиной. | Fate turned its back on me. | #9 00:01:34: так повернется | adapted: adapted |
-| 10 | Нагиев | Конечно, диван бы купил раскладной. | Of course, I would have bought a fold-out sofa. | #10 00:01:38: Конечно, диван бы купил раскладной | adapted: adapted |
-| 11 | Нагиев | Как спалось сегодня ночью? | How did you sleep last night? | #11 00:01:42: Как почивались | adapted: adapted |
-| 12 | Аня | Неплохо, спасибо тебе. | Not bad, thank you. | #12 00:01:44: Неплохо | adapted: adapted |
-| 13 | Аня | Ты мои джинсы не видела? | Have you seen my jeans? | #13 00:01:47: Ты мои джинсы не видела | adapted: adapted |
+| 1 | Макс | Мы старательно собираем пазлы. | We carefully put jigsaw puzzles together. | #1: Собирая пазлы | adapted: adapted |
+| 2 | Макс | Хочется составить картинку своего счастья. | We want to put together a picture of our happiness. | #2: составить картинку своего счастья | adapted: adapted |
+| 3 | Макс | Не всегда пазлы складываются правильно. | Puzzles do not always come together the right way. | #3: не всегда пазлы складываются | adapted: adapted |
+| 4 | Макс | Нифига себе, где это я? | Holy cow, where am I? | #4: Нифига себе | adapted: adapted |
+| 5 | Катя | Доброе утро, Макс. | Good morning, Max. | #5: Доброе утро | adapted: adapted |
+| 6 | Макс | Доброе утро, Катя. | Good morning, Katya. | #6: Доброе утро | adapted: adapted |
+| 7 | Нагиев | Ну, кому как сегодня. | Well, that depends on who you ask today. | #7: Ну, кому как | adapted: adapted |
+| 8 | Нагиев | Знал бы я про свою судьбу. | If only I had known about my fate. | #8: Знал бы, что судьба | adapted: adapted |
+| 9 | Нагиев | Судьба повернулась ко мне спиной. | Fate turned its back on me. | #9: так повернется | adapted: adapted |
+| 10 | Нагиев | Конечно, диван бы купил раскладной. | Of course, I would have bought a fold-out sofa. | #10: Конечно, диван бы купил раскладной | adapted: adapted |
+| 11 | Катя | Как спалось сегодня ночью? | How did you sleep last night? | #11: Как почивались | adapted: adapted |
+| 12 | Макс | Неплохо, спасибо тебе. | Not bad, thank you. | #12: Неплохо | adapted: adapted |
+| 13 | Макс | Ты мои джинсы не видела? | Have you seen my jeans? | #13: Ты мои джинсы не видела | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We carefully put jigsaw puzzles together.' Max anchors the line on 'we', while 'jigsaw puzzles' completes the thought.
-- 'We want to put together a picture of our happiness.' The meaning hinges on 'want' working together with 'happiness' in spoken Russian.
-- 'Puzzles do not always come together the right way.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'correctly'.
-- 'Holy cow, where am I?' Max brings out the contrast between 'holy cow' and 'to oneself' in a few short words.
-- 'Good morning, Max.' Spoken Russian keeps this brisk, leaning on 'good' and finishing on 'Max'.
-- 'Good morning, Katya.' Notice how Russian expresses 'good' and 'Katya' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away.
-- 'Well, that depends on who you ask today.' Here the Russian phrasing highlights 'come on' before landing on 'tonight'.
-- 'If only I had known about my fate.' The grammar packs 'knew' and 'destiny' into a tight, idiomatic kitchen exchange.
-- 'Fate turned its back on me.' Spoken Russian keeps this brisk, leaning on 'fate' and finishing on 'back'.
-- 'Of course, I would have bought a fold-out sofa.' Here the Russian phrasing highlights 'of course' before landing on 'fold-out'.
-- 'How did you sleep last night?' Spoken Russian keeps this brisk, leaning on 'how' and finishing on 'at night'.
-- 'Not bad, thank you.' Max addresses the listener with the informal singular 'you' alongside 'to you'.
-- 'Have you seen my jeans?' Max anchors the line on 'you', while 'saw' completes the thought.
+- 'We carefully put jigsaw puzzles together.' Max tells Katya that they carefully put jigsaw puzzles together without dressing it up.
+- 'We want to put together a picture of our happiness.' Max tells Katya that they want to put together a picture of their happiness without dressing it up.
+- 'Puzzles do not always come together the right way.' Mentioning that puzzles do not always come together the right way moves the talk in a new direction.
+- 'Holy cow, where am I?' Over the morning and the work, Max presses Katya for a straight answer.
+- 'Good morning, Max.' Around the kitchen and morning, Katya sets a calm, everyday tone with Max.
+- 'Good morning, Katya.' Between the kitchen and the morning, Max gives Katya a quick, grounded response.
+- 'Well, that depends on who you ask today.' Nagiyev mentions that that depends on who Katya asks today so Katya sees what is at stake.
+- 'If only I had known about my fate.' Claiming that if only he had known about his fate sounds confident, even if Katya has doubts.
+- 'Fate turned its back on me.' Pointing out that fate turned its back on him gives Katya a sobering reality check.
+- 'Of course, I would have bought a fold-out sofa.' Nagiyev explains that he would have bought a fold out sofa, keeping his voice calm and direct.
+- 'How did you sleep last night?' Wondering how Max sleeps last night is how Katya puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Not bad, thank you.' With the shift and morning in play, Max keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Have you seen my jeans?' By asking whether Katya seen his jeans, Max presses Katya for a straight answer.

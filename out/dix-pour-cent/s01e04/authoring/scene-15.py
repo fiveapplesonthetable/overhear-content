@@ -7,15 +7,14 @@ SCENE = 15
 TITLE = 'Un mois au Canada  (A Month in Canada)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'augustin': 'theo', 'audrey': 'emilie', 'lea': 'lucie'}
-LABELS = {'augustin': 'Augustin', 'audrey': 'Audrey', 'lea': 'Andréa'}
+LABELS = {'audrey': 'Audrey', 'augustin': 'Augustin', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "At that very moment Mathias steps outside, phones François at the rival agency StarMédia to accept his offer, and is overheard by a heartbroken Noémie. Back inside Mathias's office, Augustin reveals a detail of the shoot that Mathias carefully hid from Audrey. Listen to the French first; you don't need to catch every word."
 OPENER = "Let's go through it step by step. Augustin is delighted that Audrey likes his script, and starts talking about the shooting schedule."
 TRANSITION = "Now let's listen to the whole scene again."
 OUTRO = 'So Gabriel has won Sofia an audition, while Audrey has just learned that the role means a month in Canada. And Augustin still has one more question for her: can she really pole dance? See you next time!'
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('augustin', 'Moi aussi, je suis très content.', 'I', [(361, 'moi aussi, je suis content')], ''),
     ('augustin', "On va tourner d'abord la partie canadienne.", 'We', [(362, "d'abord la partie canadienne")], ''),
@@ -30,9 +29,9 @@ STORY = [
     ('audrey', 'Ah, je vois.', 'Oh, I see.', [(376, 'Ah, je vois')], ''),
     ('augustin', 'Donc je veux vraiment tourner là-bas.', 'So I really want to shoot over there.', [(377, 'Donc je'), (377, 'tourner là-bas')], ''),
     ('audrey', 'Oui, bien sûr.', 'Yes, of course.', [(377, 'Oui')], ''),
-    ('lea', 'Je ne dis pas de remplacer Julie Gayet par une actrice noire.', 'I', [(380, 'Je ne dis pas de remplacer Julie Gayet par une actrice noire')], ''),
-    ('lea', 'Je peux vous proposer Sofia Leprince pour jouer la comtesse.', 'I can suggest Sofia Leprince to play the countess.', [(382, 'je peux'), (382, 'vous envoyer Sofia Leprince'), (383, 'pour jouer le rôle de la comtesse')], ''),
-    ('lea', "C'est parfait! À bientôt.", 'That', [(384, "C'est parfait"), (385, 'À bientôt')], ''),
+    ('gabriel', 'Je ne dis pas de remplacer Julie Gayet par une actrice noire.', 'I', [(380, 'Je ne dis pas de remplacer Julie Gayet par une actrice noire')], ''),
+    ('gabriel', 'Je peux vous proposer Sofia Leprince pour jouer la comtesse.', 'I can suggest Sofia Leprince to play the countess.', [(382, 'je peux'), (382, 'vous envoyer Sofia Leprince'), (383, 'pour jouer le rôle de la comtesse')], ''),
+    ('gabriel', "C'est parfait! À bientôt.", 'That', [(384, "C'est parfait"), (385, 'À bientôt')], ''),
 ]
 WALK = [
     (0, None, "'I'm very pleased too.' Literally 'me too, I am very pleased', using the masculine form of the adjective."),
@@ -48,7 +47,7 @@ WALK = [
     (10, None, "'Oh, I see.' Three simple words when you finally understand."),
     (11, None, "'So I really want to shoot over there.' The hyphenated word at the end means 'over there'."),
     (12, None, "'Yes, of course.' Meanwhile, in the next office, Gabriel is pitching Sofia to a director making an eighteenth-century costume film."),
-    (13, None, "'I'm not saying to replace Julie Gayet with a Black actress.' Julie Gayet is a well-known French star."),
+    (13, None, "'I'm not saying to replace Julie Gayet with a Black actress.' Here, Julie Gayet is a well-known French star."),
     (14, None, "'I can suggest Sofia Leprince to play the countess.' Gabriel tries to get Sofia a noble part."),
     (15, None, "'That's perfect! See you soon.' The director agrees to see her, and Gabriel is thrilled."),
 ]

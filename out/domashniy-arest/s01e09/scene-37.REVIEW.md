@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лавров | Почему вы просто сидите здесь? | Why are you just sitting here? | #1045 01:00:48: Ну что вы сидите? | verbatim |
-| 2 | Лавров | Нужно пойти туда и всё прекратить. | We need to go in there and stop everything. | #1045 01:00:48: прекратить этот | verbatim |
-| 3 | Лавров | Спокойно, специальная операция продолжается. | Calm down, the special operation continues. | #1046 01:00:54: Операция продолжается | verbatim |
-| 4 | Лавров | Отстегните меня, моя рука затекла. | Uncuff me, my hand has gone numb. | #1048 01:00:59: рука затекла | verbatim |
-| 5 | Лавров | Ты подождёшь, пока операция идёт. | You will wait while the operation goes on. | #1049 01:01:01: Повисишь, пока | verbatim |
-| 6 | Лавров | Тихо! Мой телефон звонит. | Quiet! My phone is ringing. | #1055 01:01:18: Солнышко лесное | verbatim |
-| 7 | Лавров | Алло, да, Алла Евгеньевна. | Hello, yes, Alla Yevgenyevna. | #1058 01:01:35: Да, Алла Евгеньевна | verbatim |
-| 8 | Лавров | Нет, здесь никто не стонет. | No, nobody is groaning here. | #1060 01:01:40: Нет, никто не стонет | verbatim |
-| 9 | Лавров | Я скоро буду дома, дорогая. | I will be home soon, darling. | #1063 01:01:46: скоро буду | verbatim |
-| 10 | Лавров | Овощное рагу на ужин? | Vegetable stew for dinner? | #1065 01:01:52: Овощной рагу? | verbatim |
-| 11 | Лавров | Да, конечно, это прекрасно. | Yes, of course, that sounds wonderful. | #1066 01:01:54: Да, конечно, это прекрасно | verbatim |
-| 12 | Лавров | А я могу пойти домой? | And can I go home? | #1069 01:02:01: Я могу пойти? | verbatim |
-| 13 | Лавров | Моя жена тоже очень волнуется. | My wife is also very worried. | #1070 01:02:03: жена волнуется | verbatim |
-| 14 | Лавров | Хорошо, идите скорее отсюда. | Fine, go away from here quickly. | #1072 01:02:07: Идите | verbatim |
+| 1 | Паша | Почему вы просто сидите здесь? | Why are you just sitting here? | #1045: Ну что вы сидите? | verbatim |
+| 2 | Паша | Нужно пойти туда и всё прекратить. | We need to go in there and stop everything. | #1045: прекратить этот | verbatim |
+| 3 | Лавров | Спокойно, специальная операция продолжается. | Calm down, the special operation continues. | #1046: Операция продолжается | verbatim |
+| 4 | Паша | Отстегните меня, моя рука затекла. | Uncuff me, my hand has gone numb. | #1048: рука затекла | verbatim |
+| 5 | Лавров | Ты подождёшь, пока операция идёт. | You will wait while the operation goes on. | #1049: Повисишь, пока | verbatim |
+| 6 | Лавров | Тихо! Мой телефон звонит. | Quiet! My phone is ringing. | #1055: Солнышко лесное | verbatim |
+| 7 | Лавров | Алло, да, Алла Евгеньевна. | Hello, yes, Alla Yevgenyevna. | #1058: Да, Алла Евгеньевна | verbatim |
+| 8 | Лавров | Нет, здесь никто не стонет. | No, nobody is groaning here. | #1060: Нет, никто не стонет | verbatim |
+| 9 | Лавров | Я скоро буду дома, дорогая. | I will be home soon, darling. | #1063: скоро буду | verbatim |
+| 10 | Лавров | Овощное рагу на ужин? | Vegetable stew for dinner? | #1065: Овощной рагу? | verbatim |
+| 11 | Лавров | Да, конечно, это прекрасно. | Yes, of course, that sounds wonderful. | #1066: Да, конечно, это прекрасно | verbatim |
+| 12 | Паша | А я могу пойти домой? | And can I go home? | #1069: Я могу пойти? | verbatim |
+| 13 | Паша | Моя жена тоже очень волнуется. | My wife is also very worried. | #1070: жена волнуется | verbatim |
+| 14 | Лавров | Хорошо, идите скорее отсюда. | Fine, go away from here quickly. | #1072: Идите | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

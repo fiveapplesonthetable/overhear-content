@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = 'Coincée à Bergues  (Stuck in Bergues)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "After enduring a colossal homemade feast with Dany Boon's mother, Andrea steps into the quiet street to call Colette. Expected home in Paris for date night, Andrea must break the difficult news of her whereabouts. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Andrea faces Colette's frustration over her sudden trip to northern France. When you watch the episode, listen out for the expressions meaning 'meal' and 'north'. You'll catch them now. See you next time!"
 CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Ce repas du nord était délicieux!', 'This northern meal was delicious!', [(677, 'Ça ne vous plaît pas')], ''),
+    ('andrea', 'Ce repas du nord était délicieux!', 'This northern meal was delicious!', [(677, 'Ça ne vous plaît pas')], ''),
     ('colette', 'Allô Andréa, la baby-sitter est là.', 'Hello Andrea, the babysitter is here.', [(689, 'La baby-sitter est là')], ''),
-    ('lea', 'Bonsoir mon amour, comment vas-tu?', 'Good evening my love, how are you?', [(687, 'Au revoir')], ''),
+    ('andrea', 'Bonsoir mon amour, comment vas-tu?', 'Good evening my love, how are you?', [(687, 'Au revoir')], ''),
     ('colette', 'On se retrouve bientôt au restaurant?', 'Are we meeting soon at the restaurant?', [(690, 'au restaurant')], ''),
-    ('lea', 'Le restaurant, ça va être compliqué.', 'The restaurant, that will be complicated.', [(691, 'ça va être compliqué')], ''),
+    ('andrea', 'Le restaurant, ça va être compliqué.', 'The restaurant, that will be complicated.', [(691, 'ça va être compliqué')], ''),
     ('colette', 'Tu es encore coincée au bureau?', 'Are you still stuck at the office?', [(691, 'ça va être compliqué')], ''),
-    ('lea', 'Non, pas cette fois-ci, justement.', 'No, not this time, actually.', [(694, 'Tu es où')], ''),
+    ('andrea', 'Non, pas cette fois-ci, justement.', 'No, not this time, actually.', [(694, 'Tu es où')], ''),
     ('colette', 'Mais où es-tu en ce moment?', 'Where are you right now?', [(694, 'Tu es où')], ''),
-    ('lea', 'Je suis actuellement à Bergues.', 'I am currently in Bergues.', [(695, 'Bergues')], ''),
+    ('andrea', 'Je suis actuellement à Bergues.', 'I am currently in Bergues.', [(695, 'Bergues')], ''),
     ('colette', "Bergues? C'est quelle ligne de métro?", 'Bergues? Which metro line is that?', [(695, 'Bergues')], ''),
-    ('lea', "C'est loin, dans les Hauts-de-France!", 'It is far, in Hauts-de-France!', [(697, 'dans les Hauts-de-France')], ''),
+    ('andrea', "C'est loin, dans les Hauts-de-France!", 'It is far, in Hauts-de-France!', [(697, 'dans les Hauts-de-France')], ''),
     ('colette', "Tu plaisantes? J'en peux plus!", 'Are you joking? I can', [(699, "j'en peux plus")], ''),
-    ('lea', 'Je devais sauver un gros contrat.', 'I had to save a major contract.', [(699, "j'en peux plus")], ''),
+    ('andrea', 'Je devais sauver un gros contrat.', 'I had to save a major contract.', [(699, "j'en peux plus")], ''),
     ('colette', 'Rentre à Paris le plus vite!', 'Return to Paris as fast as possible!', [(687, 'Au revoir')], ''),
 ]
 WALK = [

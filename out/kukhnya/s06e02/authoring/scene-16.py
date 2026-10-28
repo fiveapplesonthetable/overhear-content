@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e02-scene-16.
 ID = 'kukhnya-s06e02-scene-16'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 16
 TITLE = "Первый поцелуй Лёвы и Гули  (Lyova and Gulya's First Kiss)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "gulya": "anja"}
-LABELS = {"lyova": "Лёва", "gulya": "Гуля"}
+LABELS = {'gulya': 'Гуля', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
-
 INTRO = 'When Lyova ducks behind a bench to hide from his mother in the park, Gulya thinks he is ashamed of being seen with her—until Lyova confesses the truth and kisses her.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Lyova finally overcomes his shyness and kisses Gulya, while across town Denis and Nikita walk into a double coffee date. See you next time!'
+CLOSING = ('lyova', 'Всего хорошего!')
 STORY = [
     ('gulya', 'Лёва, ты жив?', 'Lyova, are you alive?', [(263, 'ты жив?')], 'adapted'),
     ('lyova', 'Да, подожди секунду.', 'Yes, wait a second.', [(263, 'Да, да, да, подожди')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('lyova', 'Хочу тебя поцеловать.', 'I want to kiss you.', [(276, 'Сейчас увидишь')], 'adapted'),
     ('lyova', 'Сейчас сама увидишь.', 'You will see for yourself right now.', [(276, 'Сейчас увидишь')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Lyova, are you alive?' In Russian, the idea of 'Lyova' flows naturally into 'alive' without extra filler words."),
-    (1, None, "'Yes, wait a second.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'second'."),
-    (2, None, "'She almost spotted me.' In Russian, the idea of 'almost' flows naturally into 'me' without extra filler words. Gulya answers right away."),
-    (3, None, "'Who almost spotted you?' The negative particle sits right before the verb meaning 'noticed' to negate the statement."),
-    (4, None, "'Why, my mom.' Lyova brings out the contrast between 'yes' and 'mom' in a few short words."),
-    (5, None, "'Ah, I get it, are you ashamed of me?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'are ashamed'."),
-    (6, None, "'Must we meet so that nobody sees us?' The negative particle sits right before the verb meaning 'to date' to negate the statement."),
-    (7, None, "'No, you are the most beautiful girl in the world.' In Russian, the idea of 'no' flows naturally into 'world' without extra filler words."),
-    (8, None, "'I simply lied to my mom that I was at work.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'work'. Gulya answers right away."),
-    (9, None, "'Lyova, what are you doing?' Spoken Russian keeps this brisk, leaning on 'Lyova' and finishing on 'are doing'."),
-    (10, None, "'I want to kiss you.' The grammar packs 'want' and 'to kiss' into a tight, idiomatic kitchen exchange."),
-    (11, None, "'You will see for yourself right now.' Here the Russian phrasing highlights 'now' before landing on 'see'."),
+    (0, None, "'Lyova, are you alive?' By checking whether Lyova alive, Gulya presses Lyova for a straight answer."),
+    (1, None, "'Yes, wait a second.' Over the room and the situation, Lyova answers Gulya without a second thought."),
+    (2, None, "'She almost spotted me.' Between the situation and the truth, Lyova gives Gulya a quick, grounded response."),
+    (3, None, "'Who almost spotted you?' With the point and work hanging in the air, Gulya puts Lyova on the spot."),
+    (4, None, "'Why, my mom.' With the situation and work in play, Lyova keeps this short reply brisk and direct."),
+    (5, None, '\'Ah, I get it, are you ashamed of me?\' Questioning whether she gets it are Lyova ashamed is how Gulya tests Lyova\'s story. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (6, None, "'Must we meet so that nobody sees us?' Wondering if must they meet so that nobody sees them shows Gulya caught off guard."),
+    (7, None, '\'No, you are the most beautiful girl in the world.\' Once Gulya is the most beautiful girl in the world, Lyova can finally tell Gulya what he means. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (8, None, "'I simply lied to my mom that I was at work.' Adding that he simply lied to his that he was at work fills in the missing piece for Gulya."),
+    (9, None, "'Lyova, what are you doing?' Asking what Lyova doing is cuts straight through the tension between Gulya and Lyova."),
+    (10, None, '\'I want to kiss you.\' Admitting that he wants to kiss Gulya shows Lyova being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (11, None, "'You will see for yourself right now.' Mentioning that Gulya will see for themselves right now moves the talk in a new direction."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Lyova finally overcomes his shyness and kisses Gulya, while across town Denis and Nikita walk into a double coffee date. See you next time!'
-CLOSING = ("lyova", "Всего хорошего!")

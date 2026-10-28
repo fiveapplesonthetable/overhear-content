@@ -1,39 +1,41 @@
-# domashniy-arest/s01e04/scene-17.py
-ID = "domashniy-arest-s01e04-scene-17"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e04-scene-17.
+ID = 'domashniy-arest-s01e04-scene-17'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 4
 SCENE = 17
-TITLE = "Наш главный враг  (Our Main Enemy)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.04"
-SOURCE_FILE = "sources/domashniy-arest/s01/e04.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "ilona": "angelina", "samson": "anja"}
-LABELS = {"anya": "Аркадий", "ilona": "Илона", "samson": "Самсон"}
+TITLE = 'Наш главный враг  (Our Main Enemy)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'ilona': 'Илона', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.04'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e04.ru.dual.srt'
 INTRO = "At the door of the communal flat, Samson and Nina are just heading out when a stylish visitor from Moscow arrives. Now Ilona, the strategist running Pasha's campaign, has come to make Samson an offer—until Arkady steps out and recognises an old friend. Let's listen in Russian first."
-STORY = [
-    ("ilona", "Господин Самсонов, добрый день. Меня зовут Илона.", "Mr Samsonov, good afternoon. My name is Ilona.", [(651, 'Господин Самсонов'), (653, 'Добрый день'), (656, 'Меня зовут Илона')], ""),
-    ("ilona", "Я возглавляю предвыборный штаб Павла Юрьевича Осипенко. Разрешите войти?", "I head the campaign team of Pavel Yuryevich Osipenko. May I come in?", [(657, 'Я возглавляю предвыборный штаб Павла Юрьевича Осипенко'), (658, 'Разрешите войти')], ""),
-    ("samson", "Зачем? Мы вообще сейчас уходим.", "What for? We're leaving right now anyway.", [(659, 'Зачем'), (663, 'мы вообще сейчас уходим')], ""),
-    ("ilona", "У нас для вас есть очень интересное предложение.", "We have a very interesting offer for you.", [(660, 'У нас для вас есть очень интересное предложение')], ""),
-    ("samson", "А все предложения к Аникееву. Нам провокации не нужны.", "All offers go to Anikeev. We don't need provocations.", [(661, 'А все предложения'), (662, 'Нам провокации не')], "cue 661 'Каникееву' is a transcription slip for 'к Аникееву'; 'не надо' -> 'не нужны'"),
-    ("ilona", "Что вы, никаких провокаций! Просто пять минут вашего времени.", "Not at all, no provocations! Just five minutes of your time.", [(664, 'что вы, никаких провокаций'), (665, 'Просто пять минут вашего времени')], ""),
-    ("ilona", "Ого! Аркаша, какие люди!", "Whoa! Arkasha, look who it is!", [(666, 'Ого'), (667, 'Аркаша'), (668, 'Какие люди')], ""),
-    ("anya", "Ничего себе! Запомните эту женщину.", "Well I never! Remember this woman.", [(669, 'Ничего себе'), (670, 'Запомните эту женщину')], ""),
-    ("anya", "С ней вообще нельзя разговаривать. Это наш самый главный враг.", "You mustn't talk to her at all. She is our number-one enemy.", [(671, 'С ней вообще нельзя разговаривать'), (672, 'Это наш самый главный враг')], ""),
-    ("samson", "Я так и понял.", "I gathered that.", [(673, 'Я так'), (673, 'понял')], "'и' added"),
-    ("anya", "Враг умный и коварный.", "A smart and cunning enemy.", [(674, 'Умный и коварный')], "'Враг' repeated for clarity"),
-    ("ilona", "Аркаша, а ты что, меня боишься?", "Arkasha, what, are you afraid of me?", [(675, 'Аркаша, а ты что'), (675, 'меня боишься')], ""),
-    ("anya", "Ну конечно! Иди сюда, дай поцелую.", "Of course I am! Come here, let me give you a kiss.", [(676, 'Ну конечно'), (677, 'Иди'), (677, 'дай поцелую')], "'сюда' added"),
-    ("anya", "А вы чего стоите? Идите, делайте добрые дела.", "And why are you standing there? Go on, do good deeds.", [(678, 'вы стоите'), (679, 'Идите'), (679, 'делайте добрые дела')], ""),
-    ("anya", "Пойдём поговорим, Илона. Прошу.", "Let's go and talk, Ilona. After you.", [(683, 'Пойдем поговорим'), (685, 'Прошу')], "'Илона' added"),
-]
 OPENER = "Let's go through it line by line. Samson and Nina open the door of the communal flat and find a well-dressed woman standing on the landing."
+TRANSITION = "Now let's listen to the whole meeting at the front door again."
+OUTRO = "So Samson loyally refused to talk to Pasha's strategist, while Arkady kissed her on the cheek and invited her into his room. Next time we'll hear what the two of them talk about behind closed doors. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('ilona', 'Господин Самсонов, добрый день. Меня зовут Илона.', 'Mr Samsonov, good afternoon. My name is Ilona.', [(651, 'Господин Самсонов'), (653, 'Добрый день'), (656, 'Меня зовут Илона')], ''),
+    ('ilona', 'Я возглавляю предвыборный штаб Павла Юрьевича Осипенко. Разрешите войти?', 'I head the campaign team of Pavel Yuryevich Osipenko. May I come in?', [(657, 'Я возглавляю предвыборный штаб Павла Юрьевича Осипенко'), (658, 'Разрешите войти')], ''),
+    ('samson', 'Зачем? Мы вообще сейчас уходим.', "What for? We're leaving right now anyway.", [(659, 'Зачем'), (663, 'мы вообще сейчас уходим')], ''),
+    ('ilona', 'У нас для вас есть очень интересное предложение.', 'We have a very interesting offer for you.', [(660, 'У нас для вас есть очень интересное предложение')], ''),
+    ('samson', 'А все предложения к Аникееву. Нам провокации не нужны.', "All offers go to Anikeev. We don't need provocations.", [(661, 'А все предложения'), (662, 'Нам провокации не')], "cue 661 'Каникееву' is a transcription slip for 'к Аникееву'; 'не надо' -> 'не нужны'"),
+    ('ilona', 'Что вы, никаких провокаций! Просто пять минут вашего времени.', 'Not at all, no provocations! Just five minutes of your time.', [(664, 'что вы, никаких провокаций'), (665, 'Просто пять минут вашего времени')], ''),
+    ('ilona', 'Ого! Аркаша, какие люди!', 'Whoa! Arkasha, look who it is!', [(666, 'Ого'), (667, 'Аркаша'), (668, 'Какие люди')], ''),
+    ('arkady', 'Ничего себе! Запомните эту женщину.', 'Well I never! Remember this woman.', [(669, 'Ничего себе'), (670, 'Запомните эту женщину')], ''),
+    ('arkady', 'С ней вообще нельзя разговаривать. Это наш самый главный враг.', "You mustn't talk to her at all. She is our number-one enemy.", [(671, 'С ней вообще нельзя разговаривать'), (672, 'Это наш самый главный враг')], ''),
+    ('samson', 'Я так и понял.', 'I gathered that.', [(673, 'Я так'), (673, 'понял')], "'и' added"),
+    ('arkady', 'Враг умный и коварный.', 'A smart and cunning enemy.', [(674, 'Умный и коварный')], "'Враг' repeated for clarity"),
+    ('ilona', 'Аркаша, а ты что, меня боишься?', 'Arkasha, what, are you afraid of me?', [(675, 'Аркаша, а ты что'), (675, 'меня боишься')], ''),
+    ('arkady', 'Ну конечно! Иди сюда, дай поцелую.', 'Of course I am! Come here, let me give you a kiss.', [(676, 'Ну конечно'), (677, 'Иди'), (677, 'дай поцелую')], "'сюда' added"),
+    ('arkady', 'А вы чего стоите? Идите, делайте добрые дела.', 'And why are you standing there? Go on, do good deeds.', [(678, 'вы стоите'), (679, 'Идите'), (679, 'делайте добрые дела')], ''),
+    ('arkady', 'Пойдём поговорим, Илона. Прошу.', "Let's go and talk, Ilona. After you.", [(683, 'Пойдем поговорим'), (685, 'Прошу')], "'Илона' added"),
+]
 WALK = [
     (0, 'Господин Самсонов, добрый день.', "'Mr Samsonov, good afternoon.' It is the polite title for a gentleman, and nobody has ever called Samson that in his life."),
     (0, 'Меня зовут Илона.', "'My name is Ilona.' Literally 'they call me Ilona'. Then she states her job."),
-    (1, 'Я возглавляю предвыборный штаб Павла Юрьевича Осипенко.', "'I head the campaign team of Pavel Yuryevich Osipenko.' Osipenko is Pasha, the acting mayor. The word for 'headquarters' or 'campaign team' is followed by Pasha's full name in the 'of' form."),
+    (1, 'Я возглавляю предвыборный штаб Павла Юрьевича Осипенко.', "'I head the campaign team of Pavel Yuryevich Osipenko.' Meanwhile, Osipenko is Pasha, the acting mayor. The word for 'headquarters' or 'campaign team' is followed by Pasha's full name in the 'of' form."),
     (1, 'Разрешите войти?', "'May I come in?' Literally 'permit to enter?'. Samson is immediately on his guard."),
     (2, None, "'What for? We're leaving right now anyway.' He and Nina are on their way out to film campaign videos in town. Ilona tries to tempt them."),
     (3, None, "'We have a very interesting offer for you.' Notice the chain at the start: 'by us, for you, there is'. Samson remembers Arkady's strict instructions."),
@@ -55,6 +57,3 @@ WALK = [
     (13, 'Идите, делайте добрые дела.', "'Go on, do good deeds.' Both verbs are plural commands. Once Samson and Nina head out the door, Arkady turns back to Ilona."),
     (14, None, "'Let's go and talk, Ilona. After you.' He leads his 'number-one enemy' straight into his room."),
 ]
-TRANSITION = "Now let's listen to the whole meeting at the front door again."
-OUTRO = "So Samson loyally refused to talk to Pasha's strategist, while Arkady kissed her on the cheek and invited her into his room. Next time we'll hear what the two of them talk about behind closed doors. See you next time!"
-CLOSING = ("anya", "Пока!")

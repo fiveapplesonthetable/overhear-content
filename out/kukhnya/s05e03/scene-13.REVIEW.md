@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | А где наш морской котик? | And where is our fur seal? | #237 00:16:00: А где морской котик? | adapted: adapted |
-| 2 | Нагиев | Где норка? Я же договорилась с директором зоопарка. | Where is the mink? I made an arrangement with the zoo director. | #238 00:16:02: Где норка? Я же договорилась с директором<br>#238 00:16:02: зоопарка | adapted: adapted |
-| 3 | Михаил | Там оборудование сломалось, а норка заболела. | The equipment broke down there, and the mink got sick. | #239 00:16:06: оборудование сломалось, а норка заболела | adapted: verbatim |
-| 4 | Нагиев | Мне на вечере нужны милые животные. | I need cute animals at the evening. | #241 00:16:16: Мне нужны милые животные | adapted: adapted |
-| 5 | Михаил | Многие считают змей очень милыми. | Many people consider snakes very cute. | #242 00:16:20: Многие считают<br>#242 00:16:20: очень милыми | adapted: adapted |
-| 6 | Нагиев | Кто, как не мы, поддержит природу? | Who if not we will support nature? | #244 00:16:27: кто как не мы<br>#244 00:16:27: природу | adapted: adapted |
-| 7 | Нагиев | Сегодня у нас морской котик и норка. | Today we have a fur seal and a mink. | #246 00:16:37: Котик и норка | adapted: adapted |
-| 8 | Нагиев | И ещё наш дальневосточный полоз. | And also our Far Eastern rat snake. | #247 00:16:41: полос | adapted: adapted |
-| 9 | Нагиев | Но их сегодня, к сожалению, с нами нет. | But unfortunately they are not with us today. | #248 00:16:48: Сегодня, к сожалению, с нами нет | adapted: adapted |
-| 10 | Нагиев | Ни котика, ни норки — не доехали. | Neither the fur seal nor the mink made it here. | #249 00:16:51: Ни котика, ни норки не доехали | adapted: verbatim |
-| 11 | Нагиев | Они просто падают как мухи. | They are simply dropping like flies. | #250 00:16:54: как мухи | adapted: adapted |
-| 12 | Нагиев | Но на змею придётся сегодня скинуться. | But we will have to chip in for the snake today. | #251 00:16:56: придется скинуться | adapted: adapted |
+| 1 | Элеонора | А где наш морской котик? | And where is our fur seal? | #237: А где морской котик? | adapted: adapted |
+| 2 | Элеонора | Где норка? Я же договорилась с директором зоопарка. | Where is the mink? I made an arrangement with the zoo director. | #238: Где норка? Я же договорилась с директором<br>#238: зоопарка | adapted: adapted |
+| 3 | Михаил | Там оборудование сломалось, а норка заболела. | The equipment broke down there, and the mink got sick. | #239: оборудование сломалось, а норка заболела | adapted: verbatim |
+| 4 | Элеонора | Мне на вечере нужны милые животные. | I need cute animals at the evening. | #241: Мне нужны милые животные | adapted: adapted |
+| 5 | Михаил | Многие считают змей очень милыми. | Many people consider snakes very cute. | #242: Многие считают<br>#242: очень милыми | adapted: adapted |
+| 6 | Нагиев | Кто, как не мы, поддержит природу? | Who if not we will support nature? | #244: кто как не мы<br>#244: природу | adapted: adapted |
+| 7 | Нагиев | Сегодня у нас морской котик и норка. | Today we have a fur seal and a mink. | #246: Котик и норка | adapted: adapted |
+| 8 | Нагиев | И ещё наш дальневосточный полоз. | And also our Far Eastern rat snake. | #247: полос | adapted: adapted |
+| 9 | Нагиев | Но их сегодня, к сожалению, с нами нет. | But unfortunately they are not with us today. | #248: Сегодня, к сожалению, с нами нет | adapted: adapted |
+| 10 | Нагиев | Ни котика, ни норки — не доехали. | Neither the fur seal nor the mink made it here. | #249: Ни котика, ни норки не доехали | adapted: verbatim |
+| 11 | Нагиев | Они просто падают как мухи. | They are simply dropping like flies. | #250: как мухи | adapted: adapted |
+| 12 | Нагиев | Но на змею придётся сегодня скинуться. | But we will have to chip in for the snake today. | #251: придется скинуться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is our fur seal?' Eleonora brings out the contrast between 'and' and 'where' in a few short words.
-- 'Where is the mink? I made an arrangement with the zoo director.' Eleonora brings out the contrast between 'where' and 'mink' in a few short words.
-- 'The equipment broke down there, and the mink got sick.' The '-a' ending on the past-tense verb for 'got sick' marks a female speaker or subject. Eleonora answers right away.
-- 'I need cute animals at the evening.' Eleonora brings out the contrast between 'to me' and 'on' in a few short words.
-- 'Many people consider snakes very cute.' Mikhail anchors the line on 'many', while 'cute' completes the thought.
-- 'Who if not we will support nature?' Dmitry Nagiyev brings out the contrast between 'who' and 'how' in a few short words.
-- 'Today we have a fur seal and a mink.' Here the Russian phrasing highlights 'tonight' before landing on 'mink'.
-- 'And also our Far Eastern rat snake.' In Russian, the idea of 'and' flows naturally into 'rat snake' without extra filler words.
-- 'But unfortunately they are not with us today.' Spoken Russian keeps this brisk, leaning on 'but' and finishing on 'no'.
-- 'Neither the fur seal nor the mink made it here.' Dmitry Nagiyev brings out the contrast between 'not even' and 'of the fur seal' in a few short words.
-- 'They are simply dropping like flies.' Here the Russian phrasing highlights 'they' before landing on 'flies'.
-- 'But we will have to chip in for the snake today.' Dmitry Nagiyev brings out the contrast between 'but' and 'on' in a few short words.
+- 'And where is our fur seal?' Asking where their fur seal is is how Eleonora puts Mikhail on the spot.
+- 'Where is the mink? I made an arrangement with the zoo director.' Here asking where the mink is shows Eleonora looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'The equipment broke down there, and the mink got sick.' Since the equipment broke down there and the mink got sick, Mikhail does not waste words on excuses.
+- 'I need cute animals at the evening.' Pointing out that she needs cute animals at the evening gives Mikhail a sobering reality check.
+- 'Many people consider snakes very cute.' Over the moment and the situation, Mikhail answers Eleonora without a second thought.
+- 'Who if not we will support nature?' Asking whether who if not they will support nature puts Eleonora right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Today we have a fur seal and a mink.' Explaining that today they have a fur seal and a mink lays the cards on the table for Eleonora.
+- 'And also our Far Eastern rat snake.' Around the conversation and work, Nagiyev sets a calm, everyday tone with Eleonora.
+- 'But unfortunately they are not with us today.' Claiming that they are not with them today sounds confident, even if Eleonora has doubts.
+- 'Neither the fur seal nor the mink made it here.' Pointing out that neither the fur seal nor the mink made it here gives Eleonora a sobering reality check.
+- 'They are simply dropping like flies.' Nagiyev explains that they are simply dropping like flies, keeping his voice calm and direct.
+- 'But we will have to chip in for the snake today.' Realizing that they will have to chip in for the snake today changes how Nagiyev handles the situation.

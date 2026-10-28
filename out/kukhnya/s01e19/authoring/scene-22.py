@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 22
-TITLE = "Здесь и сейчас  (Here and Now)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Здесь и сейчас  (Here and Now)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Focused on here and now, Max concludes that it is important to cherish the present. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max concludes that it is important to cherish the present. Next time you watch the episode, listen for the Russian expressions for 'to know' and 'main' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Знаешь, что главное?', 'Do you know what is the main thing?', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
+    ('max', 'Знаешь, что главное?', 'Do you know what is the main thing?', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
     ('vika', 'Что?', 'What?', [], ''),
-    ('anya', 'Главное — ценить.', 'The main thing is to cherish.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
+    ('max', 'Главное — ценить.', 'The main thing is to cherish.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
     ('vika', 'Ценить что?', 'Cherish what?', [], ''),
-    ('anya', 'То, что у нас есть.', 'What we have.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
+    ('max', 'То, что у нас есть.', 'What we have.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
     ('vika', 'Где?', 'Where?', [], ''),
-    ('anya', 'Здесь.', 'Here.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
+    ('max', 'Здесь.', 'Here.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
     ('vika', 'И когда?', 'And when?', [], ''),
-    ('anya', 'И сейчас.', 'And now.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
+    ('max', 'И сейчас.', 'And now.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
     ('vika', 'Здесь и сейчас.', 'Here and now.', [], ''),
-    ('anya', 'Точно.', 'Exactly.', [], ''),
+    ('max', 'Точно.', 'Exactly.', [], ''),
     ('vika', 'Хорошо.', 'Good.', [], ''),
 ]
 WALK = [

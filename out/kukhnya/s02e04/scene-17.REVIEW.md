@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | В общем. | In short. | #285 00:19:14: В общем | verbatim |
-| 2 | Шеф | Я сказал правду. | I told the truth. | #288 00:19:24: я сказал правду | verbatim |
-| 3 | Аня | Либо правды. | Or the truth. | #288 00:19:24: либо правды | verbatim |
-| 4 | Шеф | Витя уволили. | Vitya was fired. | #289 00:19:33: Витя уволили | verbatim |
-| 5 | Аня | Спросите меня, жалею ли я об этом поступке? | Ask me whether I regret that action? | #291 00:19:39: Спросите меня, жалею ли я об этом поступке | verbatim |
-| 6 | Шеф | Поступил бы иначе. | Would I have acted differently. | #293 00:19:47: Поступил бы иначе | verbatim |
-| 7 | Аня | А вы как поступили бы на моем месте? | And how would you have acted in my place? | #295 00:19:55: А вы как поступили бы на моем месте | verbatim |
-| 8 | Шеф | У вас рулет приготовился. | Your meat roll is done cooking. | #296 00:20:01: У вас рулет приготовился | verbatim |
-| 9 | Аня | Ну да. | Well, yes. | #297 00:20:06: Ну да | verbatim |
-| 10 | Шеф | Ну вот мы и дождались. | Well, the wait is finally over. | #298 00:20:09: Ну вот мы и дождались | verbatim |
-| 11 | Аня | Фирменный рулет от Вальдемара Барани готов. | The signature meat roll by Valdemar Barani is ready. | #299 00:20:11: Фирменный рулет от Вальдемара Барани готов | verbatim |
-| 12 | Шеф | И сейчас мы его попробуем. | And right now we are going to taste it. | #300 00:20:14: И сейчас мы его попробуем | verbatim |
+| 1 | Макс | В общем. | In short. | #285: В общем | verbatim |
+| 2 | Шеф | Я сказал правду. | I told the truth. | #288: я сказал правду | verbatim |
+| 3 | Макс | Либо правды. | Or the truth. | #288: либо правды | verbatim |
+| 4 | Шеф | Витя уволили. | Vitya was fired. | #289: Витя уволили | verbatim |
+| 5 | Макс | Спросите меня, жалею ли я об этом поступке? | Ask me whether I regret that action? | #291: Спросите меня, жалею ли я об этом поступке | verbatim |
+| 6 | Шеф | Поступил бы иначе. | Would I have acted differently. | #293: Поступил бы иначе | verbatim |
+| 7 | Макс | А вы как поступили бы на моем месте? | And how would you have acted in my place? | #295: А вы как поступили бы на моем месте | verbatim |
+| 8 | Шеф | У вас рулет приготовился. | Your meat roll is done cooking. | #296: У вас рулет приготовился | verbatim |
+| 9 | Макс | Ну да. | Well, yes. | #297: Ну да | verbatim |
+| 10 | Шеф | Ну вот мы и дождались. | Well, the wait is finally over. | #298: Ну вот мы и дождались | verbatim |
+| 11 | Макс | Фирменный рулет от Вальдемара Барани готов. | The signature meat roll by Valdemar Barani is ready. | #299: Фирменный рулет от Вальдемара Барани готов | verbatim |
+| 12 | Шеф | И сейчас мы его попробуем. | And right now we are going to taste it. | #300: И сейчас мы его попробуем | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In short.' Max anchors the line on 'short', while 'short' completes the thought. Chef Viktor answers right away.
-- 'I told the truth.' The grammar packs 'I' and 'truth' into a tight, idiomatic kitchen exchange.
-- 'Or the truth.' Here the Russian phrasing highlights 'or' before landing on 'truth'.
-- 'Vitya was fired.' Notice how Russian expresses 'Vitya' and 'to fire' with crisp inflection rather than helper words. Max answers right away.
-- 'Ask me whether I regret that action?' In Russian, the idea of 'ask' flows naturally into 'act' without extra filler words.
-- 'Would I have acted differently.' Here the Russian phrasing highlights 'acted' before landing on 'otherwise'.
-- 'And how would you have acted in my place?' Max anchors the line on 'and', while 'place' completes the thought. Chef Viktor answers right away.
-- 'Your meat roll is done cooking.' The grammar packs 'by' and 'to prepare' into a tight, idiomatic kitchen exchange.
-- 'Well, yes.' Max anchors the line on 'come on', while 'yes' completes the thought.
-- 'Well, the wait is finally over.' In Russian, the idea of 'come on' flows naturally into 'to wait for' without extra filler words. Max answers right away.
-- 'The signature meat roll by Valdemar Barani is ready.' Here the Russian phrasing highlights 'signature' before landing on 'ready'.
-- 'And right now we are going to taste it.' The grammar packs 'both' and 'try' into a tight, idiomatic kitchen exchange.
+- 'In short.' Over the kitchen and the point, Max answers Barinov without a second thought.
+- 'I told the truth.' Once he told the truth, Barinov can finally tell Max what he means.
+- 'Or the truth.' With the shift and meat in play, Max keeps this short reply brisk and direct.
+- 'Vitya was fired.' Barinov tells Max that Vitya was fired without dressing it up.
+- 'Ask me whether I regret that action?' When Max asks if ask him whether he regrets that action, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Would I have acted differently.' Mentioning that would he has acted differently moves the talk in a new direction.
+- 'And how would you have acted in my place?' Here asking how Barinov has acted in his place would shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Your meat roll is done cooking.' Because Max's meat roll is done cooking, Barinov treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Well, yes.' Around the moment and truth, Max sets a calm, everyday tone with Barinov.
+- 'Well, the wait is finally over.' Barinov mentions that the wait is finally so Max sees what is at stake.
+- 'The signature meat roll by Valdemar Barani is ready.' Claiming that the signature meat roll by Valdemar Barani is ready sounds confident, even if Barinov has doubts.
+- 'And right now we are going to taste it.' Pointing out that right now they are going to taste it gives Max a sobering reality check.

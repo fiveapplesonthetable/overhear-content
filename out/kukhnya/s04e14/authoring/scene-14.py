@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s04e14-scene-14.
 ID = 'kukhnya-s04e14-scene-14'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 14
 SCENE = 14
-TITLE = "Пятьсот тысяч в конверте  (Five Hundred Thousand in an Envelope)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Пятьсот тысяч в конверте  (Five Hundred Thousand in an Envelope)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "guest": "anja", "senya": "angelina"}
-LABELS = {"guest": "Гость", "senya": "Сеня"}
+LABELS = {'guest': 'Гость', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.14'
 SOURCE_FILE = 'sources/kukhnya/s04/e14.ru.srt'
-
 INTRO = 'While mingling at the buffet, a wealthy charity guest approaches Senya and asks where to leave his cash contribution. Ever the opportunist, Senya volunteers to pass the envelope along and brags that he chipped in five hundred himself—before learning that the guest meant five hundred thousand rubles.'
-
+OPENER = "Let's look closely at the comical mix-up over the donation envelope."
+TRANSITION = 'Now listen to the complete donation exchange again without pause.'
+OUTRO = 'Staring at an envelope stuffed with half a million rubles, Senya cannot believe his luck. Next, we return to Claude Monet where German invites Vika to his office. See you next time!'
+CLOSING = ('guest', 'Хорошего дня!')
 STORY = [
     ('guest', 'Простите, пожалуйста, можно вас на минуту?', 'Excuse me, please, may I have a word for a minute?', [(203, 'Простите, пожалуйста. Ага.')], 'adapted'),
     ('senya', 'Да, конечно, я вас внимательно слушаю.', 'Yes, of course, I am listening to you closely.', [(203, 'Простите, пожалуйста. Ага.')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('guest', 'И главное, вы очень благородный гость.', 'And most importantly, you are a very noble guest.', [(210, 'Главное, очень благородный.')], 'adapted'),
     ('guest', 'Ведь пятьсот тысяч — это серьёзная сумма!', 'After all, five hundred thousand is a serious sum!', [(211, 'Пятьсот тысяч – это')], 'adapted'),
 ]
-
-OPENER = "Let's look closely at the comical mix-up over the donation envelope."
-
 WALK = [
-    (0, None, "'Excuse me, please, may I have a word for a minute?' A well-dressed guest politely stops Senya near the buffet table."),
-    (1, None, "'Yes, of course, I am listening to you closely.' Senya answers smoothly using a first-person singular present verb."),
-    (2, None, "'Do you happen to know where to leave money here?' the guest pairs 'know' with 'money' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (3, None, "'In principle, you can hand the envelope to me.' Notice how Russian puts 'principle' and 'the envelope' together in a short, direct phrase where word endings show how the ideas connect."),
-    (4, None, "'I will definitely pass it on to the right person.' Here Senya anchors the thought on 'definitely' and finishes on 'need to, must', keeping the spoken rhythm brisk and natural."),
-    (5, None, "'Forgive me for my indiscretion.' the guest uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
-    (6, None, "'And how much did you put in yourself today?' Curious about standard contributions, the guest asks Senya in the plural past."),
-    (7, None, "'I am here for the first time, I put in only a hundred.' The guest modestly mentions a hundred, leaving the unit unspoken."),
-    (8, None, "'And I put in a whole five hundred today!' Thinking of his five-hundred-ruble gift share, Senya boasts proudly."),
-    (9, None, "'Whoa, you are a very generous person!' In everyday Russian, 'very, really' flows straight into 'man' without extra linking words."),
-    (10, None, "'And most importantly, you are a very noble guest.' The parenthetical word for main thing introduces a second compliment."),
-    (11, None, "'After all, five hundred thousand is a serious sum!' The guest reveals he meant thousands, leaving Senya wide-eyed."),
+    (0, None, "'Excuse me, please, may I have a word for a minute?' When the guest asks if may he has a word for a minute, Senya has to answer fast. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (1, None, '\'Yes, of course, I am listening to you closely.\' Admitting that he is listening to the guest closely shows Senya being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (2, None, "'Do you happen to know where to leave money here?' By checking whether Senya happens to know where to leave money here, the guest presses Senya for a straight answer."),
+    (3, None, "'In principle, you can hand the envelope to me.' Because in principle the guest can hand the envelope to him, Senya treats the matter as settled."),
+    (4, None, "'I will definitely pass it on to the right person.' Explaining that he will definitely pass it on to the right person lays the cards on the table for the guest. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (5, None, "'Forgive me for my indiscretion.' Around the work and room, the guest sets a calm, everyday tone with Senya."),
+    (6, None, '\'And how much did you put in yourself today?\' The guest asks whether how much did Senya puts in themselves today, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (7, None, "'I am here for the first time, I put in only a hundred.' Because he is here for the first time he puts in only a hundred, the guest treats the matter as settled."),
+    (8, None, "'And I put in a whole five hundred today!' Putting in a whole five hundred today shows Senya is done holding back."),
+    (9, None, '\'Whoa, you are a very generous person!\' Insisting that someone Senya is a very generous person shows the guest is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (10, None, '\'And most importantly, you are a very noble guest.\' Noting that most importantly Senya is a very noble guest keeps the guest\'s side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (11, None, "'After all, five hundred thousand is a serious sum!' Declaring that after all five hundred thousand is a serious sum brings the guest's temper right to the surface."),
 ]
-
-TRANSITION = 'Now listen to the complete donation exchange again without pause.'
-OUTRO = 'Staring at an envelope stuffed with half a million rubles, Senya cannot believe his luck. Next, we return to Claude Monet where German invites Vika to his office. See you next time!'
-CLOSING = ("guest", "Хорошего дня!")

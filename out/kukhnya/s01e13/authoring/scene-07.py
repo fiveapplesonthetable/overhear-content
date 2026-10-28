@@ -4,26 +4,25 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 7
-TITLE = "Разбитое зеркало  (A Broken Mirror)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Разбитое зеркало  (A Broken Mirror)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
-LABELS = {"nastya": "Настя", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'eleonora': 'Элеонора', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Nastya accidentally broke Chef Barinov's side mirror. Outside the restaurant, the owner Eleonora points out the damage to Barinov. Believing she did it, he takes revenge. We will hear it in Russian first; don't worry about catching every word."
 OPENER = "Now let's go back through the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "That's it for this scene! The broken mirror will cause more trouble soon. Next time you watch the episode, listen for the Russian expressions for 'mirror' and 'broken' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('nastya', 'Виктор Петрович, у вас тут зеркало сломанное.', 'Viktor Petrovich, you have a broken mirror here.', [(93, 'вас тут зеркало сломанное')], ''),
-    ('chef', 'Да надо же!', 'Well, would you look at that!', [(94, 'Да надо же')], ''),
-    ('chef', 'А вы не заметили?', "Didn't you notice?", [(94, 'А вы не заметили')], ''),
-    ('chef', 'Что у вас тоже?', 'That yours is too?', [(94, 'что у вас тоже')], ''),
-    ('nastya', 'У меня? Как? Где?', 'Mine? How? Where?', [(95, 'У меня'), (95, 'Как'), (96, 'Где')], ''),
-    ('chef', 'Ну вот же.', 'Right there.', [(97, 'Ну вот же')], ''),
-    ('chef', 'Теперь мы квиты.', "Now we're even.", [(99, 'Теперь мы квиты')], ''),
+    ('eleonora', 'Виктор Петрович, у вас тут зеркало сломанное.', 'Viktor Petrovich, you have a broken mirror here.', [(93, 'вас тут зеркало сломанное')], ''),
+    ('barinov', 'Да надо же!', 'Well, would you look at that!', [(94, 'Да надо же')], ''),
+    ('barinov', 'А вы не заметили?', "Didn't you notice?", [(94, 'А вы не заметили')], ''),
+    ('barinov', 'Что у вас тоже?', 'That yours is too?', [(94, 'что у вас тоже')], ''),
+    ('eleonora', 'У меня? Как? Где?', 'Mine? How? Where?', [(95, 'У меня'), (95, 'Как'), (96, 'Где')], ''),
+    ('barinov', 'Ну вот же.', 'Right there.', [(97, 'Ну вот же')], ''),
+    ('barinov', 'Теперь мы квиты.', "Now we're even.", [(99, 'Теперь мы квиты')], ''),
     ('nastya', 'Костя, ты видел?', 'Kostya, did you see?', [], ''),
     ('nastya', 'Он разбивает зеркало её машины.', 'He smashes the mirror on her car.', [(100, 'зеркало ее машины')], ''),
     ('nastya', 'А она типа не при делах.', 'And she acts like she had nothing to do with it.', [(101, 'А она'), (101, 'типа не при делах')], ''),

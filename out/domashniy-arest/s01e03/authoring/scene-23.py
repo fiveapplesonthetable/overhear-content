@@ -1,36 +1,38 @@
-# domashniy-arest/s01e03/scene-23.py
-ID = "domashniy-arest-s01e03-scene-23"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-23.
+ID = 'domashniy-arest-s01e03-scene-23'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 23
 TITLE = "Скальпель медсестры  (The Nurse's Scalpel)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "nina": "angelina", "samson": "anja"}
-LABELS = {"anya": "Аркадий", "nina": "Нина", "samson": "Самсон"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Back in the communal flat, Arkady is still tied to a chair in front of Samson and Nina. Here, Samson tries to look scary so Arkady will tell them where the money is, but things quickly go wrong. Let's listen in Russian first."
-STORY = [
-    ("samson", "Ну что, успокоился? Где деньги?", "Well, have you calmed down? Where's the money?", [(754, 'Успокоился'), (756, 'Где')], "'Ну что' added; slang 'бабки' -> 'деньги'"),
-    ("anya", "Я тебе говорю, у меня нет никаких денег. Вас обманывают!", "I'm telling you, I don't have any money. They're tricking you!", [(758, 'Я тебе говорю, у меня нет никаких денег'), (759, 'Вас')], "slang 'разводят' -> 'обманывают'; insult in 757 dropped"),
-    ("samson", "Ну всё. Я сейчас сжимаю палец!", "Right, that's it. I'm squeezing your finger right now!", [(760, 'Ну все'), (765, 'Я сейчас сжимаю'), (766, 'палец')], ""),
-    ("anya", "Нет, не надо! Не надо, мне больно!", "No, don't! Don't, it hurts!", [(762, 'Нет, не надо'), (763, 'Не надо мне больно')], ""),
-    ("samson", "Ну всё, хватит. Я так не могу.", "Okay, that's enough. I can't do this.", [(770, 'Ну всё')], "'хватит. Я так не могу' sums up Samson letting go and sitting down in 767-770"),
-    ("nina", "Ваня, ты что? Он только начал бояться, а ты остановился!", "Vanya, what is wrong with you? He just started getting scared, and you stopped!", [(779, 'Он только начал бояться, а ты остановился')], "cue 778 'Ты чё дебил что ли, Вань?' -> 'Ваня, ты что?'"),
-    ("samson", "Ну что мне делать? Мы договорились его просто напугать!", "Well, what am I supposed to do? We agreed to just scare him!", [(781, 'ну что мне'), (782, 'Мы договорились его просто напугать')], "'Блин' dropped; 'палец ему откусить что ли' -> 'делать'"),
-    ("nina", "Ваня, ты глупый? Зачем ты сейчас это при нём сказал?", "Vanya, are you stupid? Why did you just say that in front of him?", [(785, 'зачем ты сейчас это при нем сказал')], "cue 784 'Вань, ты чё дебил?' -> 'Ваня, ты глупый?'"),
-    ("nina", "Теперь он уже всё понял!", "Now he has worked everything out!", [(786, 'Теперь он уже все понял')], ""),
-    ("anya", "Я всё понял! Развяжите меня, пожалуйста.", "I get it now! Untie me, please.", [(789, 'Я все понял'), (791, 'Развяжите меня, пожалуйста')], ""),
-    ("anya", "Самсон, я устал. Мне сегодня ещё в суд идти!", "Samson, I'm tired. I still have to go to court today!", [(793, 'Самсон'), (793, 'я устал'), (804, 'мне сегодня еще в суд идти')], ""),
-    ("nina", "Послушай ты, очкарик! Если он тряпка, то я нет.", "Listen here, four-eyes! If he's a pushover, I'm not.", [(796, 'Послушай ты'), (797, 'Если он тряпка'), (798, 'то я нет')], "cue 796 'Очконавт' is a transcription slip for 'очкарик'"),
-    ("nina", "Я медицинский работник. Вот это скальпель.", "I'm a medical worker. This right here is a scalpel.", [(800, 'Я медицинский работник'), (808, 'Вот это скальпель')], ""),
-    ("nina", "Я тебе сейчас отрежу ухо!", "I'm going to cut off your ear right now!", [(809, 'я тебе сейчас отрежу ухо')], ""),
-    ("anya", "Ой, два лузера! Быстро развязали меня!", "Oh, two losers! Untie me, fast!", [(813, 'Ой, два лузера'), (803, 'быстро развязали меня')], "crude 802 and insult in 814 dropped"),
-    ("anya", "Что это? Это кровь?", "What is this? Is this blood?", [(817, 'Что это'), (818, 'Это кровь')], ""),
-]
 OPENER = "Let's go back through the scene. Arkady has stopped shouting for the neighbours, and Samson asks if he is ready to talk."
+TRANSITION = "Let's listen to the whole scene again from the beginning."
+OUTRO = "So Samson gave the bluff away, and then Nina's scalpel drew real blood from Arkady's ear. Next time we'll check in on the surveillance post across the courtyard, and then see how Samson reacts to the blood. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('samson', 'Ну что, успокоился? Где деньги?', "Well, have you calmed down? Where's the money?", [(754, 'Успокоился'), (756, 'Где')], "'Ну что' added; slang 'бабки' -> 'деньги'"),
+    ('arkady', 'Я тебе говорю, у меня нет никаких денег. Вас обманывают!', "I'm telling you, I don't have any money. They're tricking you!", [(758, 'Я тебе говорю, у меня нет никаких денег'), (759, 'Вас')], "slang 'разводят' -> 'обманывают'; insult in 757 dropped"),
+    ('samson', 'Ну всё. Я сейчас сжимаю палец!', "Right, that's it. I'm squeezing your finger right now!", [(760, 'Ну все'), (765, 'Я сейчас сжимаю'), (766, 'палец')], ''),
+    ('arkady', 'Нет, не надо! Не надо, мне больно!', "No, don't! Don't, it hurts!", [(762, 'Нет, не надо'), (763, 'Не надо мне больно')], ''),
+    ('samson', 'Ну всё, хватит. Я так не могу.', "Okay, that's enough. I can't do this.", [(770, 'Ну всё')], "'хватит. Я так не могу' sums up Samson letting go and sitting down in 767-770"),
+    ('nina', 'Ваня, ты что? Он только начал бояться, а ты остановился!', 'Vanya, what is wrong with you? He just started getting scared, and you stopped!', [(779, 'Он только начал бояться, а ты остановился')], "cue 778 'Ты чё дебил что ли, Вань?' -> 'Ваня, ты что?'"),
+    ('samson', 'Ну что мне делать? Мы договорились его просто напугать!', 'Well, what am I supposed to do? We agreed to just scare him!', [(781, 'ну что мне'), (782, 'Мы договорились его просто напугать')], "'Блин' dropped; 'палец ему откусить что ли' -> 'делать'"),
+    ('nina', 'Ваня, ты глупый? Зачем ты сейчас это при нём сказал?', 'Vanya, are you stupid? Why did you just say that in front of him?', [(785, 'зачем ты сейчас это при нем сказал')], "cue 784 'Вань, ты чё дебил?' -> 'Ваня, ты глупый?'"),
+    ('nina', 'Теперь он уже всё понял!', 'Now he has worked everything out!', [(786, 'Теперь он уже все понял')], ''),
+    ('arkady', 'Я всё понял! Развяжите меня, пожалуйста.', 'I get it now! Untie me, please.', [(789, 'Я все понял'), (791, 'Развяжите меня, пожалуйста')], ''),
+    ('arkady', 'Самсон, я устал. Мне сегодня ещё в суд идти!', "Samson, I'm tired. I still have to go to court today!", [(793, 'Самсон'), (793, 'я устал'), (804, 'мне сегодня еще в суд идти')], ''),
+    ('nina', 'Послушай ты, очкарик! Если он тряпка, то я нет.', "Listen here, four-eyes! If he's a pushover, I'm not.", [(796, 'Послушай ты'), (797, 'Если он тряпка'), (798, 'то я нет')], "cue 796 'Очконавт' is a transcription slip for 'очкарик'"),
+    ('nina', 'Я медицинский работник. Вот это скальпель.', "I'm a medical worker. This right here is a scalpel.", [(800, 'Я медицинский работник'), (808, 'Вот это скальпель')], ''),
+    ('nina', 'Я тебе сейчас отрежу ухо!', "I'm going to cut off your ear right now!", [(809, 'я тебе сейчас отрежу ухо')], ''),
+    ('arkady', 'Ой, два лузера! Быстро развязали меня!', 'Oh, two losers! Untie me, fast!', [(813, 'Ой, два лузера'), (803, 'быстро развязали меня')], 'crude 802 and insult in 814 dropped'),
+    ('arkady', 'Что это? Это кровь?', 'What is this? Is this blood?', [(817, 'Что это'), (818, 'Это кровь')], ''),
+]
 WALK = [
     (0, None, "'Well, have you calmed down? Where's the money?' The verb has the masculine past ending plus the self-action verb form at the end. Arkady gives the same answer as before."),
     (1, 'Я тебе говорю, у меня нет никаких денег.', "'I'm telling you, I don't have any money.' After 'there isn't', both 'any' and 'money' take the plural 'of' form ending. Then he warns both of them."),
@@ -58,6 +60,3 @@ WALK = [
     (14, 'Быстро развязали меня!', "'Untie me, fast!' Here he uses the plural past tense as a barked order—a bossy Russian way to say 'get it done this instant!'. As he jerks his head and mocks her, the scalpel slips and nicks his ear."),
     (15, None, "'What is this? Is this blood?' He feels something warm on his neck, and all three of them freeze."),
 ]
-TRANSITION = "Let's listen to the whole scene again from the beginning."
-OUTRO = "So Samson gave the bluff away, and then Nina's scalpel drew real blood from Arkady's ear. Next time we'll check in on the surveillance post across the courtyard, and then see how Samson reacts to the blood. See you next time!"
-CLOSING = ("anya", "Пока!")

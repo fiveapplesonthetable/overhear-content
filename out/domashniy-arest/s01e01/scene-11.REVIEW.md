@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | О, Самсон. Зачем пришёл? | Oh, Samson. What have you come for? | #445 00:26:55: О, Самсон<br>#447 00:27:00: пришел | adapted: slangy 'Че' -> 'Зачем' |
-| 2 | Самсон | Один раз. | Just once. | #448 00:27:11: Один раз | verbatim |
-| 3 | Аня | Что один раз? | What do you mean, once? | #449 00:27:12: Что один раз | verbatim |
-| 4 | Самсон | Ну, то, что ты говорил. | Well, the thing you said. | #450 00:27:15: то, что ты говорил | adapted: 'это' dropped; the word 'kiss' left to the narrator |
-| 5 | Аня | Ну, как хочешь. Лидия Алексеевна, зайдите, пожалуйста! | Well, as you like. Lidia Alekseyevna, come in, please! | #451 00:27:20: Ну, как хочешь<br>#455 00:27:39: Лидия Алексеевна, зайдите, пожалуйста | adapted: two cues joined; 'и охрану пригласите' (and call security) dropped |
-| 6 | Самсон | Зачем это? | What's that for? | #456 00:27:42: Зачем это | verbatim |
-| 7 | Аня | Чтобы свидетели были, Самсон. | So that there are witnesses, Samson. | #457 00:27:43: свидетели были, Самсон | adapted: colloquial 'Чтоб' -> 'Чтобы' |
-| 8 | Аня | Лидия Алексеевна, вы всё видели? | Lidia Alekseyevna, did you see everything? | new | new: new: a clean stand-in for cue 463 (the crude question about 'contact') |
+| 1 | Аркадий | О, Самсон. Зачем пришёл? | Oh, Samson. What have you come for? | #445: О, Самсон<br>#447: пришел | adapted: slangy 'Че' -> 'Зачем' |
+| 2 | Самсон | Один раз. | Just once. | #448: Один раз | verbatim |
+| 3 | Аркадий | Что один раз? | What do you mean, once? | #449: Что один раз | verbatim |
+| 4 | Самсон | Ну, то, что ты говорил. | Well, the thing you said. | #450: то, что ты говорил | adapted: 'это' dropped; the word 'kiss' left to the narrator |
+| 5 | Аркадий | Ну, как хочешь. Лидия Алексеевна, зайдите, пожалуйста! | Well, as you like. Lidia Alekseyevna, come in, please! | #451: Ну, как хочешь<br>#455: Лидия Алексеевна, зайдите, пожалуйста | adapted: two cues joined; 'и охрану пригласите' (and call security) dropped |
+| 6 | Самсон | Зачем это? | What's that for? | #456: Зачем это | verbatim |
+| 7 | Аркадий | Чтобы свидетели были, Самсон. | So that there are witnesses, Samson. | #457: свидетели были, Самсон | adapted: colloquial 'Чтоб' -> 'Чтобы' |
+| 8 | Аркадий | Лидия Алексеевна, вы всё видели? | Lidia Alekseyevna, did you see everything? | new | new: new: a clean stand-in for cue 463 (the crude question about 'contact') |
 | 9 | Лидия Алексеевна | Да, Аркадий Борисович. Всё видела. | Yes, Arkady Borisovich. I saw everything. | new | new: new: stands in for her one-word answer in cue 464 |
-| 10 | Аня | Вот теперь мир. | Now we're at peace. | #468 00:28:57: Вот теперь мир | verbatim |
-| 11 | Самсон | Мир, мир. А когда на работу? | Peace, peace. So when do I start work? | #469 00:29:02: Мир, мир | adapted: second sentence new: a clean version of cues 470-472 (when do I take over the post?) |
-| 12 | Аня | Слушай, Самсон, я тут подумал. Твой начальник — такой опытный специалист. | Listen, Samson, I've been thinking. Your boss is such an experienced specialist. | #474 00:29:11: Слушай, Самсон, я тут подумал<br>#475 00:29:13: такой опытный специалист | adapted: the boss's surname replaced by 'Твой начальник' |
-| 13 | Аня | Мы не можем его уволить. Это нехорошо. | We can't fire him. It's not nice. | #476 00:29:16: уволить<br>#479 00:29:23: Нехорошо | adapted: cue 476 simplified ('Не можем мы с тобой его взять и уволить'); 'Это' added |
-| 14 | Самсон | А кем тогда я буду? | Then what am I going to be? | #480 00:29:28: Кем тогда я | adapted: 'А' and 'буду' added |
-| 15 | Аня | А ты иди на биржу труда. Там есть работа. | You go to the job centre. There's work there. | #482 00:29:33: на биржу труда | adapted: 'ступай' -> 'иди'; second sentence simplifies cue 483 (there'll surely be some vacancies) |
-| 16 | Самсон | Ты же слово дал! | But you gave your word! | #484 00:29:37: Ты же слово дал | verbatim |
-| 17 | Аня | А что я за мэр такой, который держит своё слово? | And what kind of mayor would I be if I kept my word? | #485 00:29:44: что я за мэр такой, который держит свое слово | verbatim |
+| 10 | Аркадий | Вот теперь мир. | Now we're at peace. | #468: Вот теперь мир | verbatim |
+| 11 | Самсон | Мир, мир. А когда на работу? | Peace, peace. So when do I start work? | #469: Мир, мир | adapted: second sentence new: a clean version of cues 470-472 (when do I take over the post?) |
+| 12 | Аркадий | Слушай, Самсон, я тут подумал. Твой начальник — такой опытный специалист. | Listen, Samson, I've been thinking. Your boss is such an experienced specialist. | #474: Слушай, Самсон, я тут подумал<br>#475: такой опытный специалист | adapted: the boss's surname replaced by 'Твой начальник' |
+| 13 | Аркадий | Мы не можем его уволить. Это нехорошо. | We can't fire him. It's not nice. | #476: уволить<br>#479: Нехорошо | adapted: cue 476 simplified ('Не можем мы с тобой его взять и уволить'); 'Это' added |
+| 14 | Самсон | А кем тогда я буду? | Then what am I going to be? | #480: Кем тогда я | adapted: 'А' and 'буду' added |
+| 15 | Аркадий | А ты иди на биржу труда. Там есть работа. | You go to the job centre. There's work there. | #482: на биржу труда | adapted: 'ступай' -> 'иди'; second sentence simplifies cue 483 (there'll surely be some vacancies) |
+| 16 | Самсон | Ты же слово дал! | But you gave your word! | #484: Ты же слово дал | verbatim |
+| 17 | Аркадий | А что я за мэр такой, который держит своё слово? | And what kind of mayor would I be if I kept my word? | #485: что я за мэр такой, который держит свое слово | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

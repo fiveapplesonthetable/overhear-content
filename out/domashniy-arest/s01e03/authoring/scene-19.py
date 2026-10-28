@@ -1,33 +1,35 @@
-# domashniy-arest/s01e03/scene-19.py
-ID = "domashniy-arest-s01e03-scene-19"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-19.
+ID = 'domashniy-arest-s01e03-scene-19'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 19
-TITLE = "Ревнивый Самсон  (Jealous Samson)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "nina": "angelina"}
-LABELS = {"samson": "Самсон", "nina": "Нина"}
+TITLE = 'Ревнивый Самсон  (Jealous Samson)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Out in the corridor, Samson calls Arkady a thief and takes the bottle off him, then marches into his own room to have it out with Nina over her friendly chat with her old classmate, the lawyer Danila Golovkin. We'll hear the conversation in Russian first; don't worry about catching every word."
-STORY = [
-    ("samson", "Ну и что это такое?", "Well, and what is all this?", [(628, 'Ну и что это такое')], ""),
-    ("nina", "Чего? Ты же сам всё покупал.", "What? You bought everything yourself.", [(629, 'Чего')], "cue 629 'При тебе же все покупало' simplified to 'Ты же сам всё покупал' (the tools on the table)"),
-    ("samson", "Да я не про это. Кто этот тип в коридоре?", "That's not what I mean. Who was that guy in the corridor?", [(630, 'Да я не про это')], "cue 631 'какого урожая здесь этот ущербный нарисовался' retold cleanly"),
-    ("nina", "Какой? Даня, что ли? Ну, он же адвокат Аникеева.", "Which one? You mean Danya? Well, he's Anikeev's lawyer.", [(632, 'Какой'), (634, 'что ли'), (635, 'Ну, он же адвокат Аникеева')], "cue 634 mistranscribes 'Даня' as 'Дальше'"),
-    ("samson", "Даня, Данюша! Какая ты стала красивая!", "Danya, Danyusha! Look how beautiful you've become!", [(636, 'Даня, Данюша'), (637, 'стала, какая красивая')], "Samson mimics Golovkin's compliment from the corridor"),
-    ("nina", "Ты что, Самсонов? Мы просто одноклассники.", "What's wrong with you, Samsonov? We're just classmates.", [(639, 'Самсонов'), (639, 'мы одноклассники')], "dropped 'придурок'"),
-    ("samson", "Одноклассники, ага! Я не понимаю, как ты с ним могла.", "Classmates, right! I don't understand how you could be with him.", [(640, 'Я'), (640, 'не понимаю, как ты с ним могла')], "'Одноклассник' -> plural; 'вообще' trimmed"),
-    ("nina", "Чего могла? Он мне как подружка был.", "Could what? He was like a girlfriend to me.", [(641, 'Чего могла'), (643, 'Он мне как подружка был')], ""),
-    ("samson", "Подружка! Знаем мы таких подружек.", "A girlfriend! We know that kind of girlfriend.", [(644, 'Подружка, знаем таких подружек')], "'мы' added"),
-    ("samson", "Я тебе серьёзно говорю. Пусть только ещё раз здесь появится!", "I'm telling you seriously. Let him just show up here one more time!", [(645, 'Я тебе серьёзно говорю, ещё раз здесь появится')], "split into two short sentences"),
-    ("samson", "Он у меня не только заикаться будет! Вот.", "Stuttering won't be his only problem with me! So there.", [(645, 'он не только заикаться будет'), (647, 'Вот')], "crude cue 646 dropped"),
-    ("nina", "Чего?", "What?", [(648, 'Чего')], ""),
-    ("nina", "Вот с таким настроением и иди к Аникееву. Паяльник проверь.", "Go to Anikeev in just that mood. Check the soldering iron.", [(649, 'Вот с таким настроением и'), (650, 'Паяльник проверь')], "cue 649 'надо идти к Винникееву-то' -> 'иди к Аникееву'"),
-]
 OPENER = "Let's walk through it together. Samson comes into the room where the hardware-shop tools are laid out, fuming with jealousy."
+TRANSITION = "Let's listen to the whole exchange again from the top."
+OUTRO = "So Nina channels Samson's jealousy straight into their plan to scare the mayor with a soldering iron. Listen for 'classmates' and 'girlfriend' when you watch. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Ну и что это такое?', 'Well, and what is all this?', [(628, 'Ну и что это такое')], ''),
+    ('nina', 'Чего? Ты же сам всё покупал.', 'What? You bought everything yourself.', [(629, 'Чего')], "cue 629 'При тебе же все покупало' simplified to 'Ты же сам всё покупал' (the tools on the table)"),
+    ('samson', 'Да я не про это. Кто этот тип в коридоре?', "That's not what I mean. Who was that guy in the corridor?", [(630, 'Да я не про это')], "cue 631 'какого урожая здесь этот ущербный нарисовался' retold cleanly"),
+    ('nina', 'Какой? Даня, что ли? Ну, он же адвокат Аникеева.', "Which one? You mean Danya? Well, he's Anikeev's lawyer.", [(632, 'Какой'), (634, 'что ли'), (635, 'Ну, он же адвокат Аникеева')], "cue 634 mistranscribes 'Даня' as 'Дальше'"),
+    ('samson', 'Даня, Данюша! Какая ты стала красивая!', "Danya, Danyusha! Look how beautiful you've become!", [(636, 'Даня, Данюша'), (637, 'стала, какая красивая')], "Samson mimics Golovkin's compliment from the corridor"),
+    ('nina', 'Ты что, Самсонов? Мы просто одноклассники.', "What's wrong with you, Samsonov? We're just classmates.", [(639, 'Самсонов'), (639, 'мы одноклассники')], "dropped 'придурок'"),
+    ('samson', 'Одноклассники, ага! Я не понимаю, как ты с ним могла.', "Classmates, right! I don't understand how you could be with him.", [(640, 'Я'), (640, 'не понимаю, как ты с ним могла')], "'Одноклассник' -> plural; 'вообще' trimmed"),
+    ('nina', 'Чего могла? Он мне как подружка был.', 'Could what? He was like a girlfriend to me.', [(641, 'Чего могла'), (643, 'Он мне как подружка был')], ''),
+    ('samson', 'Подружка! Знаем мы таких подружек.', 'A girlfriend! We know that kind of girlfriend.', [(644, 'Подружка, знаем таких подружек')], "'мы' added"),
+    ('samson', 'Я тебе серьёзно говорю. Пусть только ещё раз здесь появится!', "I'm telling you seriously. Let him just show up here one more time!", [(645, 'Я тебе серьёзно говорю, ещё раз здесь появится')], 'split into two short sentences'),
+    ('samson', 'Он у меня не только заикаться будет! Вот.', "Stuttering won't be his only problem with me! So there.", [(645, 'он не только заикаться будет'), (647, 'Вот')], 'crude cue 646 dropped'),
+    ('nina', 'Чего?', 'What?', [(648, 'Чего')], ''),
+    ('nina', 'Вот с таким настроением и иди к Аникееву. Паяльник проверь.', 'Go to Anikeev in just that mood. Check the soldering iron.', [(649, 'Вот с таким настроением и'), (650, 'Паяльник проверь')], "cue 649 'надо идти к Винникееву-то' -> 'иди к Аникееву'"),
+]
 WALK = [
     (0, None, "'Well, and what is all this?' A classic angry opening question. Nina thinks he is looking at the tools on the table."),
     (1, None, "'What? You bought everything yourself.' The little word after 'you' means 'after all', and 'yourself' is masculine for Samson. Samson waves that away."),
@@ -50,6 +52,3 @@ WALK = [
     (12, 'Вот с таким настроением и иди к Аникееву.', "'Go to Anikeev in just that mood.' After 'with', both 'such' and 'mood' take the 'with/as' ending. And after 'towards', Anikeev's surname takes the '-u' ending. Then the practical reminder."),
     (12, 'Паяльник проверь.', "'Check the soldering iron.' A brisk command at the end. Remember, they only want to scare Arkady into telling where the forty million roubles are."),
 ]
-TRANSITION = "Let's listen to the whole exchange again from the top."
-OUTRO = "So Nina channels Samson's jealousy straight into their plan to scare the mayor with a soldering iron. Listen for 'classmates' and 'girlfriend' when you watch. See you next time!"
-CLOSING = ("samson", "Пока!")

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ну как тебе такой отличный план? | Well, how do you like such a great plan? | #30 00:02:45: как тебе такой план | adapted: adapted |
-| 2 | Настя | Шеф, у Тимура есть голова тунца. | Chef, Timur has a tuna head. | #31 00:02:49: есть голова тунца | adapted: adapted |
-| 3 | Шеф | Нет, эта рыба слишком быстро заметна. | No, that fish is noticeable too quickly. | #32 00:02:52: чем-нибудь заметно | adapted: adapted |
-| 4 | Настя | Михаил снял себе номер в гостинице. | Mikhail rented a room for himself in the hotel. | #33 00:02:56: снял номер в гостинице | adapted: adapted |
-| 5 | Настя | Он сегодня точно будет ночевать здесь. | He will definitely spend the night here today. | #33 00:02:56: будет ночевать здесь | adapted: adapted |
-| 6 | Шеф | Отлично, у Тимура есть голова лося. | Excellent, Timur has a moose head. | #34 00:03:01: есть голова лося | adapted: adapted |
-| 7 | Шеф | Надо только быстро отпилить большие рога. | We just need to quickly saw off the big antlers. | #35 00:03:04: надо рога отпилить | adapted: adapted |
-| 8 | Настя | Посмотри, что это такое на бумаге? | Look, what is this on the paper? | #37 00:03:13: Что такое | adapted: adapted |
-| 9 | Настя | В его возрасте такое непросто нарисовать. | At his age it is not easy to draw something like this. | #38 00:03:16: В его возрасте такое нарисовать | adapted: adapted |
-| 10 | Настя | Стёпа сказал, что рисунок как у дедушки. | Styopa said that the drawing is like grandpa's. | #40 00:03:23: рисунок, как у дедушки | adapted: adapted |
-| 11 | Настя | Ой, большое спасибо за горячий чай. | Oh, thank you very much for the hot tea. | #42 00:03:28: Ой, спасибо | adapted: adapted |
-| 12 | Настя | Пойдём сейчас вместе помоем чистые руки. | Let us go wash our hands clean together right now. | #43 00:03:29: пойдём ручки помоем | adapted: adapted |
-| 13 | Настя | Он ещё маленький, чего он понимает? | He is still little, what does he understand? | #44 00:03:33: он же маленький | adapted: adapted |
+| 1 | Шеф | Ну как тебе такой отличный план? | Well, how do you like such a great plan? | #30: как тебе такой план | adapted: adapted |
+| 2 | Сеня | Шеф, у Тимура есть голова тунца. | Chef, Timur has a tuna head. | #31: есть голова тунца | adapted: adapted |
+| 3 | Шеф | Нет, эта рыба слишком быстро заметна. | No, that fish is noticeable too quickly. | #32: чем-нибудь заметно | adapted: adapted |
+| 4 | Сеня | Михаил снял себе номер в гостинице. | Mikhail rented a room for himself in the hotel. | #33: снял номер в гостинице | adapted: adapted |
+| 5 | Сеня | Он сегодня точно будет ночевать здесь. | He will definitely spend the night here today. | #33: будет ночевать здесь | adapted: adapted |
+| 6 | Шеф | Отлично, у Тимура есть голова лося. | Excellent, Timur has a moose head. | #34: есть голова лося | adapted: adapted |
+| 7 | Шеф | Надо только быстро отпилить большие рога. | We just need to quickly saw off the big antlers. | #35: надо рога отпилить | adapted: adapted |
+| 8 | Настя | Посмотри, что это такое на бумаге? | Look, what is this on the paper? | #37: Что такое | adapted: adapted |
+| 9 | Настя | В его возрасте такое непросто нарисовать. | At his age it is not easy to draw something like this. | #38: В его возрасте такое нарисовать | adapted: adapted |
+| 10 | Настя | Стёпа сказал, что рисунок как у дедушки. | Styopa said that the drawing is like grandpa's. | #40: рисунок, как у дедушки | adapted: adapted |
+| 11 | Настя | Ой, большое спасибо за горячий чай. | Oh, thank you very much for the hot tea. | #42: Ой, спасибо | adapted: adapted |
+| 12 | Настя | Пойдём сейчас вместе помоем чистые руки. | Let us go wash our hands clean together right now. | #43: пойдём ручки помоем | adapted: adapted |
+| 13 | Настя | Он ещё маленький, чего он понимает? | He is still little, what does he understand? | #44: он же маленький | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like such a great plan?' Chef Barinov raises the pitch on 'plan' to turn the phrase into a direct spoken question. Senya answers right away.
-- 'Chef, Timur has a tuna head.' In Russian, the idea of 'Chef Barinov' flows naturally into 'tuna' without extra filler words.
-- 'No, that fish is noticeable too quickly.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'noticeable'.
-- 'Mikhail rented a room for himself in the hotel.' Notice how Russian expresses 'Mikhail' and 'hotel' with crisp inflection rather than helper words.
-- 'He will definitely spend the night here today.' Here the Russian phrasing highlights 'he' before landing on 'here'.
-- 'Excellent, Timur has a moose head.' Chef Barinov brings out the contrast between 'perfectly' and 'at' in a few short words.
-- 'We just need to quickly saw off the big antlers.' Chef Barinov anchors the line on 'need', while 'horns' completes the thought. Nastya answers right away.
-- 'Look, what is this on the paper?' Nastya brings out the contrast between 'look' and 'what' in a few short words.
-- 'At his age it is not easy to draw something like this.' The meaning hinges on 'his' working together with 'to draw' in spoken Russian.
-- 'Styopa said that the drawing is like grandpa's.' Spoken Russian keeps this brisk, leaning on 'Styopa' and finishing on 'grandfathers'.
-- 'Oh, thank you very much for the hot tea.' Spoken Russian keeps this brisk, leaning on 'oh' and finishing on 'tea'.
-- 'Let us go wash our hands clean together right now.' Notice how Russian expresses 'let's go' and 'hands' with crisp inflection rather than helper words.
-- 'He is still little, what does he understand?' Notice how Russian expresses 'he' and 'understands' with crisp inflection rather than helper words.
+- 'Well, how do you like such a great plan?' Wondering how Nastya likes such a great plan is how Barinov puts Nastya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Chef, Timur has a tuna head.' Adding that Timur has a tuna head fills in the missing piece for Barinov.
+- 'No, that fish is noticeable too quickly.' Barinov tells Nastya that that fish is noticeable too quickly without dressing it up.
+- 'Mikhail rented a room for himself in the hotel.' With the kitchen and fish in play, Senya keeps this short reply brisk and direct.
+- 'He will definitely spend the night here today.' Mentioning that he will definitely spend the night here today moves the talk in a new direction.
+- 'Excellent, Timur has a moose head.' Barinov reminds Nastya that excellent Timur has a moose head before the moment passes.
+- 'We just need to quickly saw off the big antlers.' Because they just need to quickly saw off the big antlers, Barinov treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Look, what is this on the paper?' Asking what this on the paper is cuts straight through the tension between Nastya and Barinov.
+- 'At his age it is not easy to draw something like this.' Nastya mentions that at his age it is not easy to draw something like this so Barinov sees what is at stake.
+- 'Styopa said that the drawing is like grandpa's.' Claiming that Styopa said that the drawing is like sounds confident, even if Barinov has doubts.
+- 'Oh, thank you very much for the hot tea.' Over the kitchen and the fish, Nastya answers Barinov without a second thought.
+- 'Let us go wash our hands clean together right now.' Proposing that they go wash their hands clean together right now is how Nastya lays out the situation for Barinov.
+- 'He is still little, what does he understand?' Questioning whether he is still little what does he understand is how Nastya tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

@@ -7,7 +7,6 @@ SCENE = 4
 TITLE = 'Mathias et Camille au café  (Mathias and Camille at the Café)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
 LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'

@@ -7,7 +7,6 @@ SCENE = 1
 TITLE = "Norman s'entraîne à conduire  (Norman's Driving Practice)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'norman': 'marcel'}
 LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'

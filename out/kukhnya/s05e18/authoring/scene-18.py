@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s05e18-scene-18.
 ID = 'kukhnya-s05e18-scene-18'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 18
-TITLE = "Элеонора прогоняет гитариста  (Eleonora Chases Away the Guitarist)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Элеонора прогоняет гитариста  (Eleonora Chases Away the Guitarist)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "eleonora": "angelina", "denis": "anja"}
-LABELS = {"eleonora": "Элеонора", "denis": "Денис"}
+LABELS = {'denis': 'Денис', 'eleonora': 'Элеонора', 'katya': 'Катя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
-
 INTRO = "Sitting in the dark restaurant with his guitar waiting for Nikita's cue, Denis is ambushed by Eleonora, who assumes he snuck in to see Katya and throws him out before Katya arrives."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Nikita leads Katya into the dining room expecting romantic guitar music, only to find total silence. See you next time!'
+CLOSING = ('denis', 'Хорошего дня!')
 STORY = [
     ('eleonora', 'Опять ты здесь, в моём ресторане?', 'Are you here again in my restaurant?', [(273, 'Опять ты')], 'adapted'),
     ('denis', 'Послушайте, это не то, что вы подумали!', 'Listen, this is not what you thought!', [(273, 'Послушайте, это не то, что вы подумали')], 'adapted'),
@@ -23,28 +25,21 @@ STORY = [
     ('eleonora', 'Немедленно пошёл вон из ресторана!', 'Get out of the restaurant immediately!', [(277, 'Пошел вон')], 'adapted'),
     ('denis', 'Всё, успокойтесь, я уже ухожу.', 'Alright, calm down, I am leaving already.', [(278, 'Все, все, все. Я ухожу')], 'adapted'),
     ('eleonora', 'Чтобы я тебя здесь больше не видела!', 'Let me never see you here again!', [(279, 'Чтобы я тебя здесь больше никогда не видела')], 'adapted'),
-    ('eleonora', 'Никита, нам долго ещё идти?', 'Nikita, do we still have far to walk?', [(280, 'Долго еще')], 'adapted'),
+    ('katya', 'Никита, нам долго ещё идти?', 'Nikita, do we still have far to walk?', [(280, 'Долго еще')], 'adapted'),
     ('denis', 'Нет, совсем чуть-чуть нам осталось.', 'No, we have just a tiny bit left.', [(280, 'Нет, чуть-чуть осталось')], 'adapted'),
-    ('eleonora', 'Поводырь из тебя, честно говоря, так себе.', 'You make a rather mediocre guide, honestly.', [(282, 'Поводырь из тебя так себе')], 'adapted'),
+    ('katya', 'Поводырь из тебя, честно говоря, так себе.', 'You make a rather mediocre guide, honestly.', [(282, 'Поводырь из тебя так себе')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Are you here again in my restaurant?' Eleonora brings out the contrast between 'again' and 'you' in a few short words. Denis answers right away."),
-    (1, None, "'Listen, this is not what you thought!' Here the Russian phrasing highlights 'listen' before landing on 'thought'."),
-    (2, None, "'I asked you never to come near Katya!' An emphatic spoken line centered on the verb meaning 'asked for'."),
-    (3, None, "'Listen, I am not here because of Katya at all.' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'Katya'. Eleonora answers right away."),
-    (4, None, "'Of course, you simply came to play the guitar!' Eleonora brings out the contrast between 'of course' and 'you' in a few short words."),
-    (5, None, "'Wait, what are you doing right now?' Denis raises the pitch on 'are doing' to turn the phrase into a direct spoken question."),
-    (6, None, "'Get out of the restaurant immediately!' Eleonora brings out the contrast between 'immediately' and 'went' in a few short words. Denis answers right away."),
-    (7, None, "'Alright, calm down, I am leaving already.' Here the Russian phrasing highlights 'everything' before landing on 'leave'."),
-    (8, None, "'Let me never see you here again!' The grammar packs 'so that' and 'saw' into a tight, idiomatic kitchen exchange."),
-    (9, None, "'Nikita, do we still have far to walk?' Katya raises the pitch on 'to go' to turn the phrase into a direct spoken question. Denis answers right away."),
-    (10, None, "'No, we have just a tiny bit left.' Denis brings out the contrast between 'no' and 'at all' in a few short words."),
-    (11, None, "'You make a rather mediocre guide, honestly.' In Russian, the idea of 'guide' flows naturally into 'to oneself' without extra filler words."),
+    (0, None, '\'Are you here again in my restaurant?\' Checking whether Denis here again in her restaurant is how Eleonora puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (1, None, "'Listen, this is not what you thought!' Denis insists that this is not what Eleonora thought, leaving Eleonora no room to argue."),
+    (2, None, '\'I asked you never to come near Katya!\' Saying that she asked Denis never to come near Katya is how Eleonora takes charge of the moment. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
+    (3, None, "'Listen, I am not here because of Katya at all.' Because he is not here because of Katya at all, Denis treats the matter as settled."),
+    (4, None, "'Of course, you simply came to play the guitar!' Because Denis simply came to play the guitar, Eleonora does not bother softening the blow for Denis."),
+    (5, None, '\'Wait, what are you doing right now?\' Wondering what Eleonora doing right now is is how Denis puts Eleonora on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (6, None, "'Get out of the restaurant immediately!' Getting out of the restaurant immediately is Eleonora's blunt reaction in front of Denis. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (7, None, "'Alright, calm down, I am leaving already.' Saying that Alright calm down he is leaving already is how Denis sets the tone with Eleonora."),
+    (8, None, '\'Let me never see you here again!\' Declaring that Denis should let her never see Denis here again brings Eleonora\'s temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (9, None, '\'Nikita, do we still have far to walk?\' Here checking whether they still have far to walk shows Katya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (10, None, "'No, we have just a tiny bit left.' Saying that they have just a tiny bit left is how Denis sets the tone with Eleonora."),
+    (11, None, '\'You make a rather mediocre guide, honestly.\' Since Denis makes a rather mediocre guide honestly, Katya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Nikita leads Katya into the dining room expecting romantic guitar music, only to find total silence. See you next time!'
-CLOSING = ("denis", "Хорошего дня!")

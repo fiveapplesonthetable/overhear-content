@@ -7,8 +7,7 @@ SCENE = 8
 TITLE = 'Gabriel défend Sofia  (Gabriel Defends Sofia)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'constance': 'Constance', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Inside Gabriel's office, Sofia is furious after an audition that turned into a shouting match with casting director Constance. When Constance calls in a rage to complain, Gabriel must walk a delicate line between defending his client and calming an industry heavyweight. Let's listen to the scene in French first."
@@ -26,7 +25,7 @@ STORY = [
     ('sofia', 'Dites-lui la vérité!', 'Tell her the truth!', [(233, '-On va arranger ça. -Dites-lui la vérité !')], ''),
     ('gabriel', "Je m'en occupe.", 'I will handle it.', [(235, "Je m'en occupe.")], ''),
     ('gabriel', 'Allô, Constance, ça va?', 'Hello, Constance, how are you?', [(236, 'Allô, Constance, ça va ?')], ''),
-    ('lea', 'Vous plaisantez! Je suis complètement défigurée!', 'Are you joking! I am completely disfigured!', [(238, 'Vous plaisantez ! Je suis complètement défigurée !')], ''),
+    ('constance', 'Vous plaisantez! Je suis complètement défigurée!', 'Are you joking! I am completely disfigured!', [(238, 'Vous plaisantez ! Je suis complètement défigurée !')], ''),
     ('sofia', "Je l'ai à peine touchée!", 'I barely touched her!', [(240, "Je l'ai à peine touchée !")], ''),
     ('gabriel', "Désolé, Constance... C'est bon, je gère.", 'Sorry, Constance... It is fine, I will handle it.', [(243, 'Désolé, Constance...'), (247, "C'est bon, je gère.")], ''),
     ('gabriel', 'Calme-toi, Sofia, elle est très puissante.', 'Calm down, Sofia, she is very powerful.', [(249, 'Elle est très puissante.')], ''),

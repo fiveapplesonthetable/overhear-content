@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Самсон | Брось своё оружие прямо сейчас! | Drop your weapon right now! | new | new: confronting gunman |
-| 2 | Самсон | Паша, ты зачем всех убиваешь? | Pasha, why are you killing everyone? | #1029 01:17:36: Паша, ты зачем всех убиваешь? | adapted: demanding explanation |
-| 3 | Самсон | Они все хотели меня предать! | They all wanted to betray me! | new | new: Pasha's justification |
-| 4 | Самсон | У тебя совесть есть вообще? | Have you no conscience at all? | #1030 01:17:39: У тебя совесть есть вообще? | adapted: appealing to conscience |
-| 5 | Самсон | В этом городе нет никакой совести. | In this city there is no conscience. | new | new: cynical response |
+| 2 | Самсон | Паша, ты зачем всех убиваешь? | Pasha, why are you killing everyone? | #1029: Паша, ты зачем всех убиваешь? | adapted: demanding explanation |
+| 3 | Паша | Они все хотели меня предать! | They all wanted to betray me! | new | new: Pasha's justification |
+| 4 | Самсон | У тебя совесть есть вообще? | Have you no conscience at all? | #1030: У тебя совесть есть вообще? | adapted: appealing to conscience |
+| 5 | Паша | В этом городе нет никакой совести. | In this city there is no conscience. | new | new: cynical response |
 | 6 | Самсон | Ты сам выбрал этот страшный путь. | You chose this terrible path yourself. | new | new: holding accountable |
-| 7 | Самсон | Мне просто нужны были эти деньги! | I simply needed that money! | new | new: greed admitted |
+| 7 | Паша | Мне просто нужны были эти деньги! | I simply needed that money! | new | new: greed admitted |
 | 8 | Самсон | Деньги не стоят человеческой жизни. | Money is not worth a human life. | new | new: value of life |
-| 9 | Самсон | Теперь для меня уже всё кончено. | Now everything is already over for me. | new | new: defeat realized |
+| 9 | Паша | Теперь для меня уже всё кончено. | Now everything is already over for me. | new | new: defeat realized |
 | 10 | Самсон | Подними руки и сдайся властям. | Raise your hands and surrender to the authorities. | new | new: order to surrender |
-| 11 | Самсон | Я не хочу идти в тюрьму. | I do not want to go to prison. | new | new: fear of prison |
+| 11 | Паша | Я не хочу идти в тюрьму. | I do not want to go to prison. | new | new: fear of prison |
 | 12 | Самсон | Ты должен ответить за свои преступления. | You must answer for your crimes. | new | new: insisting on justice |
-| 13 | Самсон | Ты победил, Самсонов, забирай пистолет. | You won, Samsonov, take the pistol. | new | new: surrendering weapon |
+| 13 | Паша | Ты победил, Самсонов, забирай пистолет. | You won, Samsonov, take the pistol. | new | new: surrendering weapon |
 | 14 | Самсон | Справедливость всегда побеждает в конце. | Justice always triumphs in the end. | new | new: final moral affirmation |
 
 ## Walk-through narration (English only, no target-language words quoted)

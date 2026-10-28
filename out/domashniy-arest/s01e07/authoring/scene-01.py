@@ -1,35 +1,37 @@
-# domashniy-arest/s01e07/scene-01.py
-ID = "domashniy-arest-s01e07-scene-01"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-01.
+ID = 'domashniy-arest-s01e07-scene-01'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 1
-TITLE = "Положительная динамика  (Positive Dynamics)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.07"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "marina": "angelina", "samson": "anja"}
-LABELS = {"anya": "Аркадий", "marina": "Марина", "samson": "Самсон"}
+TITLE = 'Положительная динамика  (Positive Dynamics)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'marina': 'Марина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.07'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
 INTRO = "Today the neighbors are gathered around the communal kitchen table for a small party celebrating Ivan Samsonov's official registration as a candidate for city mayor. While Nina politely says goodbye to her lawyer friend Danya and Ilona reports that the campaign posters will be printed tomorrow, Arkady raises a glass and flirts shamelessly with his neighbor Marina Sergeyevna. Let's listen in Russian first."
-STORY = [
-    ("samson", "У нас сегодня праздник! Меня официально зарегистрировали кандидатом в мэры.", "We have a celebration today! They officially registered me as a candidate for mayor.", [(4, 'У нас сегодня'), (4, 'официально зарегистрировали')], "Nina's announcement in cues 4-5 folded into Samson's role; 'фуршет по случаю того' -> 'праздник'"),
-    ("samson", "А мне вообще всё равно! Нет, я кандидат, я чай!", "I don't care at all! No, I am a candidate, I'm having tea!", [(10, 'А мне вообще все равно'), (20, 'Нет, я кандидат, я чай')], "cues 7-9 (Danya leaving) narrated"),
-    ("anya", "Друзья, я предлагаю выпить за успех! Все вместе, как одна большая семья.", "Dear friends, I propose we drink to success! All together, like one big family.", [(30, 'друзья'), (31, 'я предлагаю выпить за успех'), (37, 'Все вместе, как одна'), (38, 'большая семья')], "cues 22-29 (Klavdia's dream and Ilona's print shop news) narrated"),
-    ("marina", "Вы что делаете? Вы прекрасно знаете, что вы делаете!", "What are you doing? You know perfectly well what you are doing!", [(42, 'Вы что делаете'), (44, 'Вы прекрасно знаете, что вы делаете')], ""),
-    ("marina", "Вы ведёте себя как подросток! Вы приударяете за мной.", "You are behaving like a teenager! You are flirting with me.", [(45, 'Вы ведете себя, как подросток, вы приударяете за мной')], ""),
-    ("anya", "Что за слово такое глупое — приударяете?", "What kind of silly word is that — flirting?", [(46, 'Что за слово такое глупое'), (47, 'Приударяете')], ""),
-    ("anya", "Да, я оказываю вам знаки внимания. Потому что вы мне нравитесь!", "Yes, I am showing you signs of attention. Because I like you!", [(48, 'Да, я оказываю вам знаки внимания, потому что'), (49, 'потому что вы мне нравитесь')], ""),
-    ("marina", "Как интересно! Но между нами ничего быть не может.", "How interesting! But nothing can happen between us.", [(50, 'Как интересно'), (52, 'между нами'), (52, 'быть не может')], "cue 52 garbled 'чего' -> 'ничего'"),
-    ("anya", "Да, конечно, понимаю. А почему? Из-за Эдуарда Валентиновича?", "Yes, of course, I understand. But why? Because of Eduard Valentinovich?", [(53, 'Да, конечно, понимаю'), (54, 'А почему'), (55, 'Эдуардом Валентиновичем')], "cue 55 'порочной связи с' simplified"),
-    ("marina", "При чём здесь Эдуард Валентинович? Я ничего к вам не чувствую.", "What does Eduard Valentinovich have to do with it? I feel nothing toward you.", [(56, 'при чем здесь Эдуард Валентинович'), (58, 'ничего'), (58, 'к вам не чувствую')], ""),
-    ("anya", "Так это замечательно! Раньше вы чувствовали ко мне отвращение.", "Well, that is wonderful! Before, you felt disgust toward me.", [(59, 'Так это замечательно'), (60, 'Раньше вы чувствовали ко мне отвращение')], ""),
-    ("anya", "А теперь ничего не чувствуете! Значит, скоро влюбитесь.", "And now you feel nothing! That means you will fall in love soon.", [(60, 'а теперь ничего не чувствуете'), (61, 'Значит, скоро влюбитесь')], ""),
-    ("anya", "Динамика положительная!", "The trend is positive!", [], "cue 61 garbled 'Динамик-то положительный' -> 'Динамика положительная!'"),
-    ("marina", "Ой, разговор окончен! Фу на вас!", "Oh, the conversation is over! Shame on you!", [(62, 'Ой, разговор окончен'), (64, 'Фу на вас')], ""),
-    ("anya", "Я всё равно вас добьюсь, Марина!", "I will win you over anyway, Marina!", [(63, 'Я все равно вас добьюсь, Марина')], ""),
-]
 OPENER = "Now let's walk through the kitchen celebration and Arkady's conversation with Marina line by line. Nina invites the neighbors into the kitchen to celebrate."
+TRANSITION = "Now let's listen to the full kitchen scene again from start to finish."
+OUTRO = "From disgust to indifference — in Arkady's mind, that is unmistakable progress toward true love. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('samson', 'У нас сегодня праздник! Меня официально зарегистрировали кандидатом в мэры.', 'We have a celebration today! They officially registered me as a candidate for mayor.', [(4, 'У нас сегодня'), (4, 'официально зарегистрировали')], "Nina's announcement in cues 4-5 folded into Samson's role; 'фуршет по случаю того' -> 'праздник'"),
+    ('samson', 'А мне вообще всё равно! Нет, я кандидат, я чай!', "I don't care at all! No, I am a candidate, I'm having tea!", [(10, 'А мне вообще все равно'), (20, 'Нет, я кандидат, я чай')], 'cues 7-9 (Danya leaving) narrated'),
+    ('arkady', 'Друзья, я предлагаю выпить за успех! Все вместе, как одна большая семья.', 'Dear friends, I propose we drink to success! All together, like one big family.', [(30, 'друзья'), (31, 'я предлагаю выпить за успех'), (37, 'Все вместе, как одна'), (38, 'большая семья')], "cues 22-29 (Klavdia's dream and Ilona's print shop news) narrated"),
+    ('marina', 'Вы что делаете? Вы прекрасно знаете, что вы делаете!', 'What are you doing? You know perfectly well what you are doing!', [(42, 'Вы что делаете'), (44, 'Вы прекрасно знаете, что вы делаете')], ''),
+    ('marina', 'Вы ведёте себя как подросток! Вы приударяете за мной.', 'You are behaving like a teenager! You are flirting with me.', [(45, 'Вы ведете себя, как подросток, вы приударяете за мной')], ''),
+    ('arkady', 'Что за слово такое глупое — приударяете?', 'What kind of silly word is that — flirting?', [(46, 'Что за слово такое глупое'), (47, 'Приударяете')], ''),
+    ('arkady', 'Да, я оказываю вам знаки внимания. Потому что вы мне нравитесь!', 'Yes, I am showing you signs of attention. Because I like you!', [(48, 'Да, я оказываю вам знаки внимания, потому что'), (49, 'потому что вы мне нравитесь')], ''),
+    ('marina', 'Как интересно! Но между нами ничего быть не может.', 'How interesting! But nothing can happen between us.', [(50, 'Как интересно'), (52, 'между нами'), (52, 'быть не может')], "cue 52 garbled 'чего' -> 'ничего'"),
+    ('arkady', 'Да, конечно, понимаю. А почему? Из-за Эдуарда Валентиновича?', 'Yes, of course, I understand. But why? Because of Eduard Valentinovich?', [(53, 'Да, конечно, понимаю'), (54, 'А почему'), (55, 'Эдуардом Валентиновичем')], "cue 55 'порочной связи с' simplified"),
+    ('marina', 'При чём здесь Эдуард Валентинович? Я ничего к вам не чувствую.', 'What does Eduard Valentinovich have to do with it? I feel nothing toward you.', [(56, 'при чем здесь Эдуард Валентинович'), (58, 'ничего'), (58, 'к вам не чувствую')], ''),
+    ('arkady', 'Так это замечательно! Раньше вы чувствовали ко мне отвращение.', 'Well, that is wonderful! Before, you felt disgust toward me.', [(59, 'Так это замечательно'), (60, 'Раньше вы чувствовали ко мне отвращение')], ''),
+    ('arkady', 'А теперь ничего не чувствуете! Значит, скоро влюбитесь.', 'And now you feel nothing! That means you will fall in love soon.', [(60, 'а теперь ничего не чувствуете'), (61, 'Значит, скоро влюбитесь')], ''),
+    ('arkady', 'Динамика положительная!', 'The trend is positive!', [], "cue 61 garbled 'Динамик-то положительный' -> 'Динамика положительная!'"),
+    ('marina', 'Ой, разговор окончен! Фу на вас!', 'Oh, the conversation is over! Shame on you!', [(62, 'Ой, разговор окончен'), (64, 'Фу на вас')], ''),
+    ('arkady', 'Я всё равно вас добьюсь, Марина!', 'I will win you over anyway, Marina!', [(63, 'Я все равно вас добьюсь, Марина')], ''),
+]
 WALK = [
     (0, 'У нас сегодня праздник!', "'We have a celebration today!' Literally 'by us today is a holiday'."),
     (0, 'Меня официально зарегистрировали кандидатом в мэры.', "'They officially registered me as a candidate for mayor.' Notice the 'with/as' form on 'candidate' after the registration verb."),
@@ -53,6 +55,3 @@ WALK = [
     (13, None, "'Oh, the conversation is over! Shame on you!' The short passive form marks the discussion as finished."),
     (14, None, "'I will win you over anyway, Marina!' This phrase means 'I will achieve my goal' or 'win you over'."),
 ]
-TRANSITION = "Now let's listen to the full kitchen scene again from start to finish."
-OUTRO = "From disgust to indifference — in Arkady's mind, that is unmistakable progress toward true love. See you next time!"
-CLOSING = ("anya", "Пока!")

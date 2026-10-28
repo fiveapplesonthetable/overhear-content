@@ -1,39 +1,39 @@
-# Утренние игры  (Morning Games) — `kukhnya-s01e14-scene-01`
+# kukhnya-s01e14-scene-01: review sheet
 
-**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Утренние игры  (Morning Games)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.14
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Max wakes up in Vika's apartment and tries to be playful, but Vika is focused on her day. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Вика, ты уже проснулась сегодня? | Vika, are you awake already today? | *(added)* |  |
-| 1 | Вика | Да, я уже давно не сплю. | Yes, I have not been sleeping for a long time. | *(added)* |  |
-| 2 | Макс | Почему ты так рано встала? | Why did you get up so early? | *(added)* |  |
-| 3 | Вика | У меня сегодня очень много дел. | I have a lot of things today. | *(added)* |  |
-| 4 | Макс | А как же наш вкусный завтрак? | And what about our tasty breakfast? | *(added)* |  |
-| 5 | Вика | Ты можешь приготовить его сам. | You can prepare it yourself. | *(added)* |  |
-| 6 | Макс | И Макс, я озабоченный человек-паук. | And Max, I am a horny Spider-Man. | #1 "И Макс, я озабоченный человек-паук." |  |
-| 7 | Вика | Очень смешно, но мне надо идти. | Very funny, but I need to go. | *(added)* |  |
-| 8 | Макс | Сейчас я тебя. Какой я тебя? | I will get you now. What am I getting you? | #2 "Сейчас я тебя. Какой я тебя?" |  |
-| 9 | Вика | Макс, прекрати это немедленно! | Max, stop this immediately! | *(added)* |  |
-| 10 | Макс | Хорошо, я иду варить нам кофе. | Alright, I am going to brew coffee for us. | *(added)* |  |
-| 11 | Вика | Пока ты не сходишь в душ. | Before you go take a shower. | #3 "Пока ты не сходишь в душ." |  |
+| 1 | Макс | Вика, ты уже проснулась сегодня? | Vika, are you awake already today? | new | new |
+| 2 | Вика | Да, я уже давно не сплю. | Yes, I have not been sleeping for a long time. | new | new |
+| 3 | Макс | Почему ты так рано встала? | Why did you get up so early? | new | new |
+| 4 | Вика | У меня сегодня очень много дел. | I have a lot of things today. | new | new |
+| 5 | Макс | А как же наш вкусный завтрак? | And what about our tasty breakfast? | new | new |
+| 6 | Вика | Ты можешь приготовить его сам. | You can prepare it yourself. | new | new |
+| 7 | Макс | И Макс, я озабоченный человек-паук. | And Max, I am a horny Spider-Man. | #1: И Макс, я озабоченный человек-паук. | verbatim |
+| 8 | Вика | Очень смешно, но мне надо идти. | Very funny, but I need to go. | new | new |
+| 9 | Макс | Сейчас я тебя. Какой я тебя? | I will get you now. What am I getting you? | #2: Сейчас я тебя. Какой я тебя? | verbatim |
+| 10 | Вика | Макс, прекрати это немедленно! | Max, stop this immediately! | new | new |
+| 11 | Макс | Хорошо, я иду варить нам кофе. | Alright, I am going to brew coffee for us. | new | new |
+| 12 | Вика | Пока ты не сходишь в душ. | Before you go take a shower. | #3: Пока ты не сходишь в душ. | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Max heads to the shower while Vika prepares for her busy day at the restaurant. Next time you watch the episode, listen for the Russian expressions for 'wake up' and 'today' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'Vika, are you awake already today?' Max turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'wake up' and 'today'.
+- 'Yes, I have not been sleeping for a long time.' Here Vika anchors the line on the word meaning 'already' and builds the thought around 'for a long time' and 'sleep'.
+- 'Why did you get up so early?' The phrasing opens with 'why' before bringing in 'early' and 'get up!' to make the point clear.
+- 'I have a lot of things today.' Vika uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'today' and 'very much'.
+- 'And what about our tasty breakfast?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'delicious', combining 'how' with 'delicious' and 'breakfast'.
+- 'You can prepare it yourself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'And Max, I am a horny Spider-Man.' Max delivers a punchy conversational reaction built around the Russian word meaning 'preoccupied'.
+- 'Very funny, but I need to go.' Vika expresses this naturally by combining the word for 'very much' with 'ridiculous' and 'it is necessary'.
+- 'I will get you now. What am I getting you?' Max delivers a punchy one-word reaction built around the Russian word meaning 'now'.
+- 'Max, stop this immediately!' Vika leads with the direct command form meaning 'stop it', followed by 'immediately'.
+- 'Alright, I am going to brew coffee for us.' The phrasing opens with 'good' before bringing in 'going' and 'to boil' to make the point clear.
+- 'Before you go take a shower.' Vika expresses this naturally by combining the word for 'bye' with 'to go' and 'shower'.

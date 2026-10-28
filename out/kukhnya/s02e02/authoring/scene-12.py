@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 12
-TITLE = "Сладкая ложь  (Sweet Lie)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сладкая ложь  (Sweet Lie)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "valya": "anja", "nastya": "angelina"}
-LABELS = {"anya": "Макс", "valya": "Валя", "nastya": "Настя"}
+LABELS = {'max': 'Макс', 'nastya': 'Настя', 'valya': 'Валя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Focused on sweet lie, Max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Let's listen closely to Max and Nastya's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Next time you watch the episode, listen for the Russian expressions for 'to have a talk' and 'dad' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('anya', 'Пожалуйста, поговори с папой.', 'Please talk to dad.', [(219, 'ты, пожалуйста, с папой поговори, ладно?')], ''),
+    ('max', 'Пожалуйста, поговори с папой.', 'Please talk to dad.', [(219, 'ты, пожалуйста, с папой поговори, ладно?')], ''),
     ('nastya', 'Я постараюсь.', 'I will try.', [], ''),
-    ('anya', 'А что это такое?', 'And what is this?', [], ''),
+    ('max', 'А что это такое?', 'And what is this?', [], ''),
     ('valya', 'Это мой десерт.', 'This is my dessert.', [], ''),
-    ('anya', 'Прямо как у шефа.', "Just like the Chef's.", [(221, 'Прям как у шефа.')], ''),
+    ('max', 'Прямо как у шефа.', "Just like the Chef's.", [(221, 'Прям как у шефа.')], ''),
     ('valya', 'Спасибо большое.', 'Thank you very much.', [], ''),
-    ('anya', 'Можно попробовать?', 'Can I taste it?', [], ''),
+    ('max', 'Можно попробовать?', 'Can I taste it?', [], ''),
     ('valya', 'Конечно, бери.', 'Of course, take it.', [], ''),
-    ('anya', 'Это очень вкусно.', 'This is very tasty.', [], ''),
+    ('max', 'Это очень вкусно.', 'This is very tasty.', [], ''),
     ('nastya', 'Да, мне тоже нравится.', 'Yes, I like it too.', [], ''),
     ('valya', 'Я долго учился этому.', 'I studied this for a long time.', [], ''),
-    ('anya', 'Ты молодец, Валя.', 'Well done, Valya.', [], ''),
+    ('max', 'Ты молодец, Валя.', 'Well done, Valya.', [], ''),
     ('nastya', 'Шеф будет рад.', 'The Chef will be happy.', [], ''),
 ]
 WALK = [

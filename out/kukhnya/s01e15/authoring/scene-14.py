@@ -4,20 +4,19 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 14
-TITLE = "Извинения  (Apologies)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Извинения  (Apologies)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
-LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Lyova comes back home and he finds Viktor Petrovich sleeping in his room. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Apologies line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Lyova pours his heart out, and he hopes his old friend can hear the apology. Next time you watch the episode, listen for the Russian expressions for 'to close' and 'door' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
-    ('chef', 'Лёва, закрой дверь, я уже сплю.', 'Lyova, close the door, I am already sleeping.', [(318, 'Лева, закрой дверь, я сплю уже.')], ''),
+    ('barinov', 'Лёва, закрой дверь, я уже сплю.', 'Lyova, close the door, I am already sleeping.', [(318, 'Лева, закрой дверь, я сплю уже.')], ''),
     ('lyova', 'Ой, Виктор Петрович, вы дома.', 'Oh, Viktor Petrovich, you are home.', [], ''),
     ('lyova', 'Слава богу.', 'Thank god.', [], ''),
     ('lyova', 'Я так боялся, что вы уйдёте.', 'I was so afraid that you would leave.', [], ''),

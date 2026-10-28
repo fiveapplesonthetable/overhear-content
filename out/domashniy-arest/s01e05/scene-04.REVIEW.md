@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ты видишь, он не помнит ничего. Пусть так и остаётся. | You see, he doesn't remember anything. Let it stay that way. | #146 00:08:41: Ты видишь, он не помнит ничего<br>#146 00:08:41: Пусть так и остаётся | verbatim |
-| 2 | Аня | Но здесь он всё равно узнает. Кто-нибудь на улице скажет. | But here he'll find out anyway. Somebody on the street will tell him. | #147 00:08:45: он всё равно узнает<br>#148 00:08:47: кто-нибудь на улице скажет | adapted: folded Nina's warning into Arkady's realization |
-| 3 | Аня | Его нужно куда-то увезти, понимаете? | We need to take him away somewhere, do you understand? | #150 00:08:51: Его нужно куда-то увезти, понимаете | verbatim |
-| 4 | Головкин | Может, его ко мне на дачу? | Maybe to my place, to the dacha? | #151 00:08:54: Может его ко мне на дачу | verbatim |
-| 5 | Аня | Вот, отлично! Езжайте на дачу. | There, excellent! Go to the dacha. | #152 00:08:58: Вот, отлично<br>#152 00:08:58: на дачу | verbatim |
-| 6 | Клавдия Викторовна | Что, стыдно тебе, пьяница? | What, are you ashamed of yourself, you drunkard? | #157 00:09:11: Что, стыдно тебе | adapted: replaced slang 'алкашандра' with 'пьяница' |
-| 7 | Аня | Клавдия Викторовна, пойдёмте со мной. | Klavdia Viktorovna, come with me. | #160 00:09:21: Клавдия Викторовна, пойдемте | verbatim |
-| 8 | Аня | Я вам сюрприз покажу один. | I'll show you one surprise. | #160 00:09:21: я вам сюрприз покажу один | verbatim |
-| 9 | Клавдия Викторовна | Какой? | What kind? | #161 00:09:26: Какой | verbatim |
-| 10 | Аня | Фокус. | A magic trick. | #162 00:09:27: Фокус | verbatim |
-| 11 | Клавдия Викторовна | Какой сюрприз? | What surprise? | #166 00:09:38: Какой сюрприз | verbatim |
-| 12 | Аня | Клавдия Викторовна, послушайте. Будете лезть не в своё дело, телевизоры отберём! | Klavdia Viktorovna, listen. If you meddle in what's not your business, we'll take the TVs away! | #167 00:09:39: Клавдия Викторовна<br>#167 00:09:39: будете лезть не в свое дело, телевизоры отберем | adapted: split into two short sentences |
-| 13 | Аня | И место на кладбище тоже, ясно? | And the cemetery plot too, is that clear? | #168 00:09:43: И место на кладбище тоже, ясно | verbatim |
-| 14 | Клавдия Викторовна | Сейчас отберут они! | Oh sure, right now they'll take them away! | #169 00:09:52: Сейчас отберут они | verbatim |
+| 1 | Аркадий | Ты видишь, он не помнит ничего. Пусть так и остаётся. | You see, he doesn't remember anything. Let it stay that way. | #146: Ты видишь, он не помнит ничего<br>#146: Пусть так и остаётся | verbatim |
+| 2 | Аркадий | Но здесь он всё равно узнает. Кто-нибудь на улице скажет. | But here he'll find out anyway. Somebody on the street will tell him. | #147: он всё равно узнает<br>#148: кто-нибудь на улице скажет | adapted: folded Nina's warning into Arkady's realization |
+| 3 | Аркадий | Его нужно куда-то увезти, понимаете? | We need to take him away somewhere, do you understand? | #150: Его нужно куда-то увезти, понимаете | verbatim |
+| 4 | Головкин | Может, его ко мне на дачу? | Maybe to my place, to the dacha? | #151: Может его ко мне на дачу | verbatim |
+| 5 | Аркадий | Вот, отлично! Езжайте на дачу. | There, excellent! Go to the dacha. | #152: Вот, отлично<br>#152: на дачу | verbatim |
+| 6 | Клавдия Викторовна | Что, стыдно тебе, пьяница? | What, are you ashamed of yourself, you drunkard? | #157: Что, стыдно тебе | adapted: replaced slang 'алкашандра' with 'пьяница' |
+| 7 | Аркадий | Клавдия Викторовна, пойдёмте со мной. | Klavdia Viktorovna, come with me. | #160: Клавдия Викторовна, пойдемте | verbatim |
+| 8 | Аркадий | Я вам сюрприз покажу один. | I'll show you one surprise. | #160: я вам сюрприз покажу один | verbatim |
+| 9 | Клавдия Викторовна | Какой? | What kind? | #161: Какой | verbatim |
+| 10 | Аркадий | Фокус. | A magic trick. | #162: Фокус | verbatim |
+| 11 | Клавдия Викторовна | Какой сюрприз? | What surprise? | #166: Какой сюрприз | verbatim |
+| 12 | Аркадий | Клавдия Викторовна, послушайте. Будете лезть не в своё дело, телевизоры отберём! | Klavdia Viktorovna, listen. If you meddle in what's not your business, we'll take the TVs away! | #167: Клавдия Викторовна<br>#167: будете лезть не в свое дело, телевизоры отберем | adapted: split into two short sentences |
+| 13 | Аркадий | И место на кладбище тоже, ясно? | And the cemetery plot too, is that clear? | #168: И место на кладбище тоже, ясно | verbatim |
+| 14 | Клавдия Викторовна | Сейчас отберут они! | Oh sure, right now they'll take them away! | #169: Сейчас отберут они | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

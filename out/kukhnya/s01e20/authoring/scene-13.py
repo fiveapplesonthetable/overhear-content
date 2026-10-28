@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 13
-TITLE = "Важный вопрос  (Important Question)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Важный вопрос  (Important Question)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "senya": "angelina"}
-LABELS = {"anya": "Макс", "kostya": "Костя", "senya": "Сеня"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Max and Kostya are talking in the kitchen about the beautiful rings they bought for their girlfriends. Senya overhears them and makes a stupid joke about them getting married to each other.'
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya decides to go and give the ring to Nastya right away. Max wishes his friend good luck with his romantic proposal. Next time you watch the episode, listen for the Russian expressions for 'to buy' and 'ring' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Костя, ты купил кольцо для Насти?', 'Kostya, did you buy a ring for Nastya?', [(207, 'Ну что, купил кольцо? Да.')], ''),
+    ('max', 'Костя, ты купил кольцо для Насти?', 'Kostya, did you buy a ring for Nastya?', [(207, 'Ну что, купил кольцо? Да.')], ''),
     ('kostya', 'Да, я купил. А ты купил?', 'Yes, I bought it. And did you buy?', [], ''),
-    ('anya', 'Да, я тоже купил кольцо для Вики.', 'Yes, I also bought a ring for Vika.', [], ''),
+    ('max', 'Да, я тоже купил кольцо для Вики.', 'Yes, I also bought a ring for Vika.', [], ''),
     ('kostya', 'Покажи мне свое кольцо, пожалуйста.', 'Show me your ring, please.', [], ''),
     ('senya', 'Вы покупаете кольца друг для друга?', 'Are you buying rings for each other?', [], ''),
-    ('anya', 'Тебе какое дело, Сеня? Уйди.', 'What is it to you, Senya? Go away.', [], ''),
+    ('max', 'Тебе какое дело, Сеня? Уйди.', 'What is it to you, Senya? Go away.', [], ''),
     ('senya', 'Просто интересно, когда будет ваша свадьба?', 'Just interesting, when will be your wedding?', [], ''),
     ('kostya', 'Это не твоя проблема. Замолчи.', 'This is not your problem. Shut up.', [], ''),
     ('senya', 'Ладно, ладно. Я просто пошутил.', 'Okay, okay. I just joked.', [], ''),
-    ('anya', 'Ты уже подарил кольцо Насте?', 'Did you already give the ring to Nastya?', [], ''),
+    ('max', 'Ты уже подарил кольцо Насте?', 'Did you already give the ring to Nastya?', [], ''),
     ('kostya', 'Еще нет. Я хочу сделать это сейчас.', 'Not yet. I want to do this now.', [], ''),
-    ('anya', 'Удачи тебе, Костя. Это важный момент.', 'Good luck to you, Kostya. This is an important moment.', [], ''),
+    ('max', 'Удачи тебе, Костя. Это важный момент.', 'Good luck to you, Kostya. This is an important moment.', [], ''),
     ('kostya', 'Спасибо, Макс. Тебе тоже удачи с Викой.', 'Thank you, Max. Good luck to you with Vika too.', [], ''),
-    ('anya', 'Да, мне нужна большая удача сегодня.', 'Yes, I need big luck today.', [], ''),
+    ('max', 'Да, мне нужна большая удача сегодня.', 'Yes, I need big luck today.', [], ''),
 ]
 WALK = [
     (0, None, "'Kostya, did you buy a ring for Nastya?' Max turns a statement into a question purely through rising intonation on the word meaning 'bought', followed by 'ring'."),

@@ -3,11 +3,9 @@
 ## Timing Gap Warnings (`validate.py`)
 - `tools/validate.py` emits `WARN ... gap to prev is ...s (> 10s)` when music montages, kitchen prep sequences, or exterior transitions occur between subtitle cues in `.dual.srt` or `.ru.srt`. All spoken subtitle cues from cue 1 to the final cue of each episode are covered contiguously in `scenes.json` with `merge: null` on active scenes, and 100% of `source.lines` cues sit within their scene's `[start, end]` window.
 
-## Show-Wide Canonical Voice & Role-Key Assignment (`P1.7` & `out/kukhnya/characters.md`)
-- Per `spec/recipe.md` and `out/kukhnya/characters.md`, every recurring character across all 120 episodes (`s01e01`–`s06e20`) has one fixed canonical role key and Russian display label, and scenes avoid assigning the same TTS voice (`alisa`, `anja`, `angelina`) to two characters in the same scene:
-  - `anya` -> `alisa` (`Макс`, plus non-overlapping viewpoint/guest speakers `Костя`, `Федя`, `Луи`, `Илья`, `Тимур`, `Алиса`, `Инспектор`, `Гость`, `Денис`, `Катя`, `Герман`)
-  - `chef` (`Шеф`), `nastya` (`Настя`), `lyova` (`Лёва`), `nagiev` (`Нагиев`), `ainura` (`Айнура`), `kristina` (`Кристина`), `sasha` (`Саша`), `rodion` (`Родион`), `eleonora` (`Элеонора`), `mikhail` (`Михаил`) -> `anja`
-  - `vika` (`Вика`), `senya` (`Сеня`), `elena` (`Елена`), `tanya` (`Таня`), `angelina` (`Ангелина`), `eva` (`Ева`), `gulnara` (`Гульнара`), `nikita` (`Никита`), `sveta` (`Света`) -> `angelina`
+## Show-Wide Canonical Cast & Role-Key Assignment (`P-1` & `out/kukhnya/cast.json`)
+- Per `FEEDBACK.md` P-1, `out/kukhnya/cast.json`, and `out/kukhnya/characters.md`, every recurring character across all 120 episodes (`s01e01`–`s06e20`) has one fixed canonical lowercase Latin role key (`max`, `barinov`, `vika`, `kostya`, `nastya`, `senya`, `fedya`, `lyova`, `nagiyev`, `elena`, `eleonora`, `mikhail`, `katya`, `denis`, `sasha`, `kristina`, `ainura`, `louis`, `german`, `rodion`, `ilya`, `timur`, `nikita`, `gulya`, `sveta`, `eva`, `tanya`, `alisa`, etc.), Russian display name (`ru`), accepted English narration names (`en`), and `gender` (`m` or `f`).
+- Scripts carry no `voices` map (`voices` is omitted from `scene-NN.json` and `VOICES` from `authoring/scene-NN.py`, as voice casting is driven by `cast.json` `gender` at render time), and there are no viewpoint slot keys (`anya`/`lea`).
 - Every scene ends with a short Russian farewell (`Пока!`, `До свидания!`, `До встречи!`, `До завтра!`, `Увидимся!`, `Хорошего дня!`, `Всего хорошего!`) spoken by one of the scene's dialogue characters and annotated in `scene-NN.notes.json`.
 - Coarse/vulgar expressions in the raw transcript are softened or omitted in the authored A1–A2 lines while preserving natural kitchen banter.
 

@@ -1,33 +1,35 @@
-# domashniy-arest/s01e03/scene-08.py
-ID = "domashniy-arest-s01e03-scene-08"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-08.
+ID = 'domashniy-arest-s01e03-scene-08'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 8
-TITLE = "Детский лепет  (Childish Nonsense)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "nina": "angelina"}
-LABELS = {"samson": "Самсон", "nina": "Нина"}
+TITLE = 'Детский лепет  (Childish Nonsense)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Back in the communal flat, in the Samsonovs' room. Last time, in the park, Pasha ordered Judge Berg to keep Arkady under house arrest and promised to deal with his Moscow lawyer. Meanwhile, Samson has come back from Arkady's room empty-handed, and Nina is waiting to hear how it went. We'll hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("nina", "Ну что, ты его напугал?", "Well then, did you scare him?", [(291, 'Его напугал')], "'Ну что, ты' added"),
-    ("samson", "Я ему всё сказал! Сказал, что ухо отрежу.", "I told him everything! I told him I'd cut his ear off.", [(293, 'ему сказал'), (293, 'ухо отрежу')], "cues 292-293 ('Че только не говорил. Я вообще ему сказал, там эти ухо отрежу') simplified"),
-    ("samson", "И ложкой глаз достану.", "And take his eye out with a spoon.", [(294, 'Ложкой глаз')], "rare 'выковырю' (gouge out) -> 'достану'"),
-    ("nina", "И что он?", "And what did he do?", [], "link between Samson's threat and Arkady's reaction"),
-    ("samson", "Ничего! Сидит и улыбается.", "Nothing! He just sits there smiling.", [(295, 'Сидит')], "slang 'лыбится' (grins) -> 'и улыбается'"),
-    ("nina", "А ты таким голосом его и пугал?", "And did you try to scare him in that voice?", [(297, 'пугал')], "cues 296-297 ('А че-то вот с этой вот интонацией / Ей пугал что ли?') simplified"),
-    ("samson", "Нет, я нормально его пугал, строго!", "No, I scared him properly, sternly!", [(298, 'Нормально его пугал, нет')], "'сурово' -> 'строго'"),
-    ("nina", "Вот она, наша новая квартира, Самсон, понимаешь?", "There it is, our new flat, Samson, do you understand?", [(299, 'Вот она'), (299, 'понимаешь')], "'квартирка, вот Самсонов' -> 'наша новая квартира, Самсон'"),
-    ("nina", "А ты ничего сделать не можешь!", "And you can't do a thing!", [(300, 'А ты ничего сделать не можешь')], ""),
-    ("nina", "Какой-то детский лепет несёшь.", "You're talking some kind of childish nonsense.", [(301, 'Какой-то детский лепет несешь')], ""),
-    ("samson", "А что ты предлагаешь? Чтобы я ему правда ухо отрезал?", "Well, what are you suggesting? That I really cut his ear off?", [(302, 'ты'), (302, 'предлагаешь, чтобы'), (302, 'ему ухо'), (302, 'отрезал')], "'Че ... вообще' -> 'А что'; 'по-настоящему' -> 'правда'"),
-    ("samson", "Ты же у нас такая умная! Скажи, что сделать, я сделаю.", "You're the clever one here! Tell me what to do, and I'll do it.", [(303, 'Такая умная'), (304, 'Скажи, что сделать, я сделаю')], "'Ты же у нас' added"),
-    ("nina", "Что сделать? Пойдём в магазин.", "What to do? Let's go to the shop.", [], "expands cue 305 ('Чё?') to point to their hardware-shop trip in Scene 12"),
-]
 OPENER = "Let's go back through the conversation. Nina has been waiting by the door, hoping the new flat is already theirs."
+TRANSITION = "Now let's listen to the whole scene again, start to finish."
+OUTRO = "So Samson's bloodthirsty threats only made Arkady smile, and now Nina is taking charge of the intimidation herself. Next we'll follow Slavik to school; see you then. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('nina', 'Ну что, ты его напугал?', 'Well then, did you scare him?', [(291, 'Его напугал')], "'Ну что, ты' added"),
+    ('samson', 'Я ему всё сказал! Сказал, что ухо отрежу.', "I told him everything! I told him I'd cut his ear off.", [(293, 'ему сказал'), (293, 'ухо отрежу')], "cues 292-293 ('Че только не говорил. Я вообще ему сказал, там эти ухо отрежу') simplified"),
+    ('samson', 'И ложкой глаз достану.', 'And take his eye out with a spoon.', [(294, 'Ложкой глаз')], "rare 'выковырю' (gouge out) -> 'достану'"),
+    ('nina', 'И что он?', 'And what did he do?', [], "link between Samson's threat and Arkady's reaction"),
+    ('samson', 'Ничего! Сидит и улыбается.', 'Nothing! He just sits there smiling.', [(295, 'Сидит')], "slang 'лыбится' (grins) -> 'и улыбается'"),
+    ('nina', 'А ты таким голосом его и пугал?', 'And did you try to scare him in that voice?', [(297, 'пугал')], "cues 296-297 ('А че-то вот с этой вот интонацией / Ей пугал что ли?') simplified"),
+    ('samson', 'Нет, я нормально его пугал, строго!', 'No, I scared him properly, sternly!', [(298, 'Нормально его пугал, нет')], "'сурово' -> 'строго'"),
+    ('nina', 'Вот она, наша новая квартира, Самсон, понимаешь?', 'There it is, our new flat, Samson, do you understand?', [(299, 'Вот она'), (299, 'понимаешь')], "'квартирка, вот Самсонов' -> 'наша новая квартира, Самсон'"),
+    ('nina', 'А ты ничего сделать не можешь!', "And you can't do a thing!", [(300, 'А ты ничего сделать не можешь')], ''),
+    ('nina', 'Какой-то детский лепет несёшь.', "You're talking some kind of childish nonsense.", [(301, 'Какой-то детский лепет несешь')], ''),
+    ('samson', 'А что ты предлагаешь? Чтобы я ему правда ухо отрезал?', 'Well, what are you suggesting? That I really cut his ear off?', [(302, 'ты'), (302, 'предлагаешь, чтобы'), (302, 'ему ухо'), (302, 'отрезал')], "'Че ... вообще' -> 'А что'; 'по-настоящему' -> 'правда'"),
+    ('samson', 'Ты же у нас такая умная! Скажи, что сделать, я сделаю.', "You're the clever one here! Tell me what to do, and I'll do it.", [(303, 'Такая умная'), (304, 'Скажи, что сделать, я сделаю')], "'Ты же у нас' added"),
+    ('nina', 'Что сделать? Пойдём в магазин.', "What to do? Let's go to the shop.", [], "expands cue 305 ('Чё?') to point to their hardware-shop trip in Scene 12"),
+]
 WALK = [
     (0, None, "'Well then, did you scare him?' The prefix on the verb makes it single-action form: did you actually manage to frighten him? Samson boasts about his terrible threats."),
     (1, 'Я ему всё сказал!', "'I told him everything!' Literally, 'I to him everything said', masculine past tense."),
@@ -46,6 +48,3 @@ WALK = [
     (11, 'Скажи, что сделать, я сделаю.', "'Tell me what to do, and I'll do it.' Notice the pair: the basic verb form 'what to do', and then the future 'I will do it'. Nina takes him at his word."),
     (12, None, "'What to do? Let's go to the shop.' And in a few scenes we'll see what kind of shop she means."),
 ]
-TRANSITION = "Now let's listen to the whole scene again, start to finish."
-OUTRO = "So Samson's bloodthirsty threats only made Arkady smile, and now Nina is taking charge of the intimidation herself. Next we'll follow Slavik to school; see you then. See you next time!"
-CLOSING = ("samson", "Пока!")

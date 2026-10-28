@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 4
-TITLE = "Опасный разговор  (A Dangerous Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Опасный разговор  (A Dangerous Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vadim": "anja", "anya": "alisa"}
-LABELS = {"vadim": "Вадим", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vadim': 'Вадим'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'Outside restaurant Claude Monet in the third episode. A stern prosecutor named Vadim confronts Max and demands to know who Vika is dating. Listen to their tense conversation in Russian first, and then we will break it down together.'
 OPENER = "Let's examine this threatening interrogation step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That is our fourth scene. In Kukhnya, running into an angry prosecutor is the last thing Max needed. See you next time!'
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
     ('vadim', 'Слышь, малой, есть разговор.', 'Listen, kid, I want to talk.', [(132, 'разговор есть')], ''),
-    ('anya', 'Что вам нужно?', 'What do you need?', [], ''),
+    ('max', 'Что вам нужно?', 'What do you need?', [], ''),
     ('vadim', 'Тут у вас работает Вика.', 'Vika works here with you.', [(133, 'Тут у вас работает Вика')], ''),
     ('vadim', 'Виктория Сергеевна.', 'Viktoria Sergeyevna.', [(133, 'Виктория Сергеевна')], ''),
     ('vadim', 'С кем она тут встречается?', 'Who is she seeing here?', [(134, 'с кем она у вас тут встречается')], ''),
     ('vadim', 'Ну, почему молчим?', 'Well, why are we silent?', [], ''),
-    ('anya', 'Почему я должен отвечать?', 'Why should I answer?', [(136, 'я тебе должен отвечать')], ''),
+    ('max', 'Почему я должен отвечать?', 'Why should I answer?', [(136, 'я тебе должен отвечать')], ''),
     ('vadim', 'Не хочешь отвечать здесь?', "Don't want to answer here?", [(137, 'Не хочешь отвечать здесь')], ''),
     ('vadim', 'Ответишь у меня в прокуратуре.', "You'll answer in my prosecutor's office.", [(138, 'у меня в прокуратуре')], ''),
     ('vadim', 'Ты меня понял?', 'Did you understand me?', [(139, 'Понял')], ''),
-    ('anya', 'Понял, всё понял.', 'Understood, understood everything.', [(140, 'Понял, понял')], ''),
-    ('anya', 'Она ни с кем не встречается.', 'She is not seeing anyone.', [(141, 'она здесь ни с кем не встречается')], ''),
+    ('max', 'Понял, всё понял.', 'Understood, understood everything.', [(140, 'Понял, понял')], ''),
+    ('max', 'Она ни с кем не встречается.', 'She is not seeing anyone.', [(141, 'она здесь ни с кем не встречается')], ''),
     ('vadim', 'Ну, смотри у меня.', 'Well, you watch yourself.', [(142, 'Ну, смотри')], ''),
-    ('anya', 'Надо срочно предупредить всех.', 'Must urgently warn everyone.', [(160, 'Надо предупредить')], ''),
+    ('max', 'Надо срочно предупредить всех.', 'Must urgently warn everyone.', [(160, 'Надо предупредить')], ''),
 ]
 WALK = [
     (0, None, "'Listen, kid, I want to talk.' A gruff stranger corners Max outside the restaurant."),

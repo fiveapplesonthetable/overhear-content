@@ -5,30 +5,29 @@ SEASON = 1
 EPISODE = 13
 SCENE = 5
 TITLE = "Опоздание Макса  (Max's Tardiness)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "vika": "angelina"}
-LABELS = {"chef": "Шеф", "anya": "Макс", "vika": "Вика"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Max arrives late to the kitchen, claiming he just overslept. The Chef immediately punishes him with warehouse duty and asks Victoria for her opinion. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's join the kitchen staff as Max finally arrives to work."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Sent to the stockroom for the day, Max learns that arriving late has immediate consequences. Next time you watch the episode, listen for the Russian expressions for 'to excuse' and 'just' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('anya', 'Привет всем.', 'Hi to everyone.', [(64, 'Привет всем.')], ''),
-    ('anya', 'Шеф, извините, я просто проспал.', 'Boss, excuse me, I simply overslept.', [(66, 'Шеф, извините.'), (71, 'Я просто проспал.')], ''),
-    ('anya', 'Больше такое не повторится.', 'Such a thing will not happen again.', [(72, 'больше такое не повторится.')], ''),
-    ('chef', 'Сегодня ты работаешь на складе.', 'Today you are working in the stockroom.', [(61, 'сегодня')], ''),
-    ('chef', 'Ещё раз проспишь — я тебя уволю.', 'Oversleep one more time — I will fire you.', [(59, 'еще')], ''),
-    ('anya', 'Но шеф, я отличный повар.', 'But boss, I am an excellent cook.', [], ''),
-    ('chef', 'Повар должен приходить на работу вовремя.', 'A cook must arrive at work on time.', [], ''),
-    ('anya', 'Я обещаю больше никогда не опаздывать.', 'I promise to never be late again.', [], ''),
-    ('chef', 'Я сказал своё слово.', 'I have said my word.', [], ''),
-    ('chef', 'Виктория Сергеевна, почему вы так молчите?', 'Victoria Sergeyevna, why are you so silent?', [], ''),
+    ('max', 'Привет всем.', 'Hi to everyone.', [(64, 'Привет всем.')], ''),
+    ('max', 'Шеф, извините, я просто проспал.', 'Boss, excuse me, I simply overslept.', [(66, 'Шеф, извините.'), (71, 'Я просто проспал.')], ''),
+    ('max', 'Больше такое не повторится.', 'Such a thing will not happen again.', [(72, 'больше такое не повторится.')], ''),
+    ('barinov', 'Сегодня ты работаешь на складе.', 'Today you are working in the stockroom.', [(61, 'сегодня')], ''),
+    ('barinov', 'Ещё раз проспишь — я тебя уволю.', 'Oversleep one more time — I will fire you.', [(59, 'еще')], ''),
+    ('max', 'Но шеф, я отличный повар.', 'But boss, I am an excellent cook.', [], ''),
+    ('barinov', 'Повар должен приходить на работу вовремя.', 'A cook must arrive at work on time.', [], ''),
+    ('max', 'Я обещаю больше никогда не опаздывать.', 'I promise to never be late again.', [], ''),
+    ('barinov', 'Я сказал своё слово.', 'I have said my word.', [], ''),
+    ('barinov', 'Виктория Сергеевна, почему вы так молчите?', 'Victoria Sergeyevna, why are you so silent?', [], ''),
     ('vika', 'Надо раньше ложиться спать, чтобы не проспать.', 'It is necessary to go to bed earlier to not oversleep.', [(61, 'надо')], ''),
-    ('chef', 'Вот видите, она со мной согласна.', 'Here you see, she agrees with me.', [], ''),
+    ('barinov', 'Вот видите, она со мной согласна.', 'Here you see, she agrees with me.', [], ''),
 ]
 WALK = [
     (0, None, "'Hi to everyone.' Max enters the busy kitchen looking slightly guilty."),

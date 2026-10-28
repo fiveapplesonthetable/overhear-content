@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 8
-TITLE = "Новый план  (The New Plan)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новый план  (The New Plan)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "At the bar, Kostya tries to cheer up Max after Victoria receives a huge bouquet of roses from another man. When Kostya quotes a poetic line about boats and the ocean, Max realizes Kostya read it from Nastya's online status. Let's listen in Russian first."
 OPENER = "Let's walk through Kostya and Max's bar conversation line by line."
 TRANSITION = "Now let's hear the whole scene once more from start to finish."
 OUTRO = "Kostya's attempt to comfort Max with a quote from Nastya's online status leaves both friends wondering about their relationships. See you next time!"
-CLOSING = ("kostya", "До встречи!")
+CLOSING = ('vika', 'До встречи!')
 STORY = [
     ('kostya', 'Макс, ты только не переживай.', 'Max, just do not worry.', [(174, 'Ты только не переживай')], ''),
-    ('anya', 'А как тут не переживать?', 'And how can I not worry here?', [], ''),
-    ('anya', 'Ты видел этот огромный букет?', 'Did you see that huge bouquet?', [], ''),
+    ('max', 'А как тут не переживать?', 'And how can I not worry here?', [], ''),
+    ('max', 'Ты видел этот огромный букет?', 'Did you see that huge bouquet?', [], ''),
     ('kostya', 'Размер букета совсем не важен.', 'The size of the bouquet is not important at all.', [], ''),
     ('kostya', 'Главное — это не размер лодки.', 'The main thing is not the size of the boat.', [(175, 'Главное же, это не размер лодки')], ''),
-    ('kostya', 'Главное — это волнение океана.', 'The main thing is the swell of the ocean.', [(175, 'волнение океана')], ''),
-    ('anya', 'Подожди, откуда такие красивые слова?', 'Wait, where are such beautiful words from?', [], ''),
-    ('anya', 'Ты что, чей-то статус в интернете прочитал?', "Did you read someone's status on the internet?", [(176, 'Ты что, чей-то статус в интернете прочитал?')], ''),
+    ('vika', 'Главное — это волнение океана.', 'The main thing is the swell of the ocean.', [(175, 'волнение океана')], ''),
+    ('max', 'Подожди, откуда такие красивые слова?', 'Wait, where are such beautiful words from?', [], ''),
+    ('max', 'Ты что, чей-то статус в интернете прочитал?', "Did you read someone's status on the internet?", [(176, 'Ты что, чей-то статус в интернете прочитал?')], ''),
     ('kostya', 'Да, это Настин новый статус.', "Yes, it is Nastya's new status.", [(177, 'Настин')], ''),
-    ('kostya', 'Она написала это сегодня утром.', 'She wrote it this morning.', [], ''),
-    ('kostya', 'Интересно, о чём это она?', 'I wonder what she is hinting at?', [(178, 'Интересно, о чем')], ''),
-    ('anya', 'Наверное, она пишет про ваши отношения.', 'Probably she is writing about your relationship.', [], ''),
+    ('vika', 'Она написала это сегодня утром.', 'She wrote it this morning.', [], ''),
+    ('vika', 'Интересно, о чём это она?', 'I wonder what she is hinting at?', [(178, 'Интересно, о чем')], ''),
+    ('max', 'Наверное, она пишет про ваши отношения.', 'Probably she is writing about your relationship.', [], ''),
 ]
 WALK = [
     (0, None, "'Max, just do not worry.' Kostya tries to comfort his friend after the flower incident."),

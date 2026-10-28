@@ -7,30 +7,29 @@ SCENE = 2
 TITLE = 'Le retour du passé  (The Return of the Past)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jose': 'theo', 'laurence': 'emilie'}
-LABELS = {'lea': 'Andréa', 'jose': 'José', 'laurence': 'Laurence'}
+LABELS = {'andrea': 'Andréa', 'jose': 'José', 'laurence': 'Laurence'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Devastated to find a farewell note from Colette, Andrea heads straight to the film studio. On set, an enthusiastic Jose Garcia describes his passionate new role, before a sudden encounter with his former partner Laurence completely throws him off balance. Let's listen to their conversation in French first."
 OPENER = "Let's explore this dramatic encounter line by line."
 TRANSITION = "Now let's listen to the full exchange once more from start to finish."
 OUTRO = "That's it for this scene around the return of the past. When you watch the episode, listen out for the expressions meaning 'left' and 'note'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne journée!')
+CLOSING = ('andrea', 'Bonne journée!')
 STORY = [
-    ('lea', "Colette m'a laissé un mot terrible.", 'Colette left me a terrible note.', [(13, "On n'a plus de couches")], ''),
-    ('lea', 'Ce que tu fais est irresponsable!', 'What you are doing is irresponsible!', [(17, 'Ce que tu fais est irresponsable.')], ''),
+    ('andrea', "Colette m'a laissé un mot terrible.", 'Colette left me a terrible note.', [(13, "On n'a plus de couches")], ''),
+    ('andrea', 'Ce que tu fais est irresponsable!', 'What you are doing is irresponsible!', [(17, 'Ce que tu fais est irresponsable.')], ''),
     ('jose', 'Ça va être une bonne journée!', 'It is going to be a good day!', [(26, 'ça va être une bonne journée.')], ''),
     ('jose', "Ce nouveau rôle m'emballe vraiment.", 'This new role truly excites me.', [(28, "Ce rôle m'emballe vraiment.")], ''),
     ('jose', 'Je vais donner envie de manger.', 'I will make people want to eat.', [(29, 'donner envie de manger.')], ''),
     ('jose', "Tu as l'air bizarre ce matin.", 'You look strange this morning.', [(36, "T'as l'air bizarre.")], ''),
-    ('lea', "C'est un peu tendu avec Colette.", 'It is a bit tense with Colette.', [(37, "C'est un peu tendu")], ''),
-    ('lea', 'Sans Colette, tu veux dire.', 'Without Colette, you mean.', [(39, 'tu veux dire.')], ''),
+    ('andrea', "C'est un peu tendu avec Colette.", 'It is a bit tense with Colette.', [(37, "C'est un peu tendu")], ''),
+    ('andrea', 'Sans Colette, tu veux dire.', 'Without Colette, you mean.', [(39, 'tu veux dire.')], ''),
     ('laurence', 'José? Comment tu vas?', 'Jose? How are you?', [(41, 'Comment tu vas ?')], ''),
     ('laurence', 'Ça fait vraiment une éternité!', 'It has truly been ages!', [(41, 'Ça fait une éternité.')], ''),
     ('laurence', "Je suis ravie d'être sur ce tournage.", 'I am delighted to be on this shoot.', [(44, 'sur ce tournage.')], ''),
     ('laurence', "À tout à l'heure sur le plateau.", 'See you shortly on the movie set.', [(47, 'sur le plateau.')], ''),
     ('jose', 'Laurence... Que fait-elle ici?', 'Laurence... What is she doing here?', [(40, 'Laurence.')], ''),
-    ('lea', 'Tu la connais depuis longtemps?', 'Have you known her for a long time?', [], ''),
+    ('andrea', 'Tu la connais depuis longtemps?', 'Have you known her for a long time?', [], ''),
 ]
 WALK = [
     (0, None, "'Colette left me a terrible note.' Andrea struggles to accept that Colette packed her bags and left. The verb meaning 'has' pairs naturally with the noun for 'note' in everyday conversation."),

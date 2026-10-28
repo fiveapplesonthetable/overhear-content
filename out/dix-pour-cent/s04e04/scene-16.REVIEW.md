@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e04-scene-16` — La reconnaissance de paternité  (The Paternity Recognition)
+# dix-pour-cent-s04e04-scene-16: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"camille": "Camille", "mathias": "Mathias"}`
+Title: La reconnaissance de paternité  (The Paternity Recognition)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E04
 
-## Part 1 — Intro
-> Camille arrives at Mathias's apartment to discuss her lost book contract and share an unexpected decision. She tells Mathias that she is finally ready to accept official paternity recognition. Let's listen to their emotional conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `mathias` (Mathias) | Bonjour Camille! Comment tu vas? | Hello Camille! How are you doing? | 1003:Comment tu vas |
-| 1 | `camille` (Camille) | Ça va. Noémie n'est pas là? | I am fine. Is Noemie not here? | 1005:Noémie n'est pas là |
-| 2 | `mathias` (Mathias) | Non. Qu'est-ce qui se passe? | No. What is going on? | 1004:Qu'est-ce qui se passe |
-| 3 | `camille` (Camille) | J'ai des problèmes au travail. | I am having problems at work. | 1007:J'ai des problèmes au travail |
-| 4 | `camille` (Camille) | J'ai perdu mon premier grand contrat. | I lost my first big contract. | 1010:mon premier grand contrat |
-| 5 | `mathias` (Mathias) | Ne t'inquiète pas, d'autres contrats viendront. | Do not worry, other contracts will come. | 1011:D'autres contrats viendront |
-| 6 | `camille` (Camille) | Mais je voulais te parler d'autre chose. | But I wanted to talk to you about something else. | 1012:je voulais te parler |
-| 7 | `camille` (Camille) | J'ai réfléchi à la reconnaissance de paternité. | I thought about the paternity recognition. | 1013:reconnaissance de paternité |
-| 8 | `mathias` (Mathias) | Vraiment? Qu'est-ce qui t'a fait changer d'avis? | Really? What made you change your mind? | 1016:changer d'avis |
-| 9 | `camille` (Camille) | Je veux le faire, on se ressemble. | I want to do it, we resemble each other. | 1020:Je veux le faire, 1020:on se ressemble |
-| 10 | `mathias` (Mathias) | On peut aller à la mairie demain! | We can go to town hall tomorrow! | 1021:aller à la mairie |
-| 11 | `camille` (Camille) | On peut télécharger le formulaire maintenant? | Can we download the form now? | 1022:télécharger le formulaire |
-| 12 | `mathias` (Mathias) | Tu as raison, assieds-toi à mon bureau! | You are right, sit down at my desk! | 1022:Tu as raison, 1024:assieds-toi |
-| 13 | `mathias` (Mathias) | On trinque? Je vais chercher à boire! | Shall we drink to it? I will get something to drink! | 1026:On trinque |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Deeply touched by Camille's decision, Mathias leads her to his computer and goes to fetch drinks. When you watch the episode, listen out for the expressions meaning 'is going on' and 'problems'. You'll catch them now. See you next time!
-- **Closing**: `camille`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Mathias | Bonjour Camille! Comment tu vas? | Hello Camille! How are you doing? | #1003: Comment tu vas | verbatim |
+| 2 | Camille | Ça va. Noémie n'est pas là? | I am fine. Is Noemie not here? | #1005: Noémie n'est pas là | verbatim |
+| 3 | Mathias | Non. Qu'est-ce qui se passe? | No. What is going on? | #1004: Qu'est-ce qui se passe | verbatim |
+| 4 | Camille | J'ai des problèmes au travail. | I am having problems at work. | #1007: J'ai des problèmes au travail | verbatim |
+| 5 | Camille | J'ai perdu mon premier grand contrat. | I lost my first big contract. | #1010: mon premier grand contrat | verbatim |
+| 6 | Mathias | Ne t'inquiète pas, d'autres contrats viendront. | Do not worry, other contracts will come. | #1011: D'autres contrats viendront | verbatim |
+| 7 | Camille | Mais je voulais te parler d'autre chose. | But I wanted to talk to you about something else. | #1012: je voulais te parler | verbatim |
+| 8 | Camille | J'ai réfléchi à la reconnaissance de paternité. | I thought about the paternity recognition. | #1013: reconnaissance de paternité | verbatim |
+| 9 | Mathias | Vraiment? Qu'est-ce qui t'a fait changer d'avis? | Really? What made you change your mind? | #1016: changer d'avis | verbatim |
+| 10 | Camille | Je veux le faire, on se ressemble. | I want to do it, we resemble each other. | #1020: Je veux le faire<br>#1020: on se ressemble | verbatim |
+| 11 | Mathias | On peut aller à la mairie demain! | We can go to town hall tomorrow! | #1021: aller à la mairie | verbatim |
+| 12 | Camille | On peut télécharger le formulaire maintenant? | Can we download the form now? | #1022: télécharger le formulaire | verbatim |
+| 13 | Mathias | Tu as raison, assieds-toi à mon bureau! | You are right, sit down at my desk! | #1022: Tu as raison<br>#1024: assieds-toi | verbatim |
+| 14 | Mathias | On trinque? Je vais chercher à boire! | Shall we drink to it? I will get something to drink! | #1026: On trinque | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hello Camille! How are you doing?' Mathias welcomes his daughter into his apartment. Mathias uses the casual singular 'you' with 'go', showing close familiarity.
+- 'I am fine. Is Noemie not here?' Camille checks whether Mathias is currently alone. The adverb meaning 'there' gives the reply its conversational emphasis.
+- 'No. What is going on?' Mathias wonders what brings Camille to his home so unexpectedly. The standard spoken question formula at the front turns the statement about 'is going on' into a natural inquiry.
+- 'I am having problems at work.' Camille mentions that things have gone wrong at the agency. The verb meaning 'have' pairs naturally with the noun for 'problems' in everyday conversation.
+- 'I lost my first big contract.' Camille explains the loss of her promising book adaptation. This conversational past tense combines a helper verb with the past verb form for 'have'.
+- 'Do not worry, other contracts will come.' The verb meaning 'worry' pairs naturally with the noun for 'contracts' in everyday conversation.
+- 'But I wanted to talk to you about something else.' Camille steers the conversation toward a personal matter. The verb meaning 'wanted' pairs naturally with the noun for 'thing' in everyday conversation.
+- 'I thought about the paternity recognition.' Camille announces her willingness to make their bond official. Notice how 'have' leads directly into the noun meaning 'recognition'.
+- 'Really? What made you change your mind?' Mathias is pleasantly surprised by her change of heart. Notice how 'has' leads directly into the noun meaning 'mind'.
+- 'I want to do it, we resemble each other.' Camille notes their shared traits and personality. The clause hinges on the everyday verb meaning 'want'.
+- 'We can go to town hall tomorrow!' Mathias eagerly suggests making the declaration immediately. Notice how 'can' leads directly into the noun meaning 'town hall'.
+- 'Can we download the form now?' Camille suggests preparing the paperwork right away. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question.
+- 'You are right, sit down at my desk!' Mathias invites her to use his personal computer. This conversational past tense combines a helper verb with the past verb form for 'sit down'.
+- 'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment. The clause hinges on the everyday verb meaning 'toast'.

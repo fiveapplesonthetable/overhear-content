@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s05e18-scene-05.
 ID = 'kukhnya-s05e18-scene-05'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 5
-TITLE = "Билеты на концерт в мусорке  (Concert Tickets in the Trash)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Билеты на концерт в мусорке  (Concert Tickets in the Trash)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "katya": "angelina", "denis": "anja"}
-LABELS = {"katya": "Катя", "denis": "Денис"}
+LABELS = {'denis': 'Денис', 'katya': 'Катя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
-
 INTRO = "Trying to clean up Denis's messy locker area, Katya throws a bag of old junk into the dumpster. Denis arrives right after and reveals that he had hidden two Eric Clapton concert tickets inside."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Disappointed that Katya cannot attend the concert, Denis climbs into the bin to rescue the tickets. Until next time!'
+CLOSING = ('katya', 'Всего хорошего!')
 STORY = [
     ('denis', 'Доброе утро, Катя, привет тебе.', 'Good morning, Katya, hello to you.', [(84, 'привет')], 'adapted'),
     ('katya', 'Ой, ну и бардак у тебя здесь.', 'Oh, what a mess you have here.', [(85, 'О, ну и бардак у тебя')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('katya', 'Извини меня ещё раз, ладно?', 'Forgive me once again, alright?', [(91, 'Извини еще раз')], 'adapted'),
     ('denis', 'Ладно, ничего страшного, сам достану.', 'Alright, no big deal, I will get them myself.', [(90, 'Сам достанешь')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Good morning, Katya, hello to you.' The meaning hinges on 'good' working together with 'to you' in spoken Russian."),
-    (1, None, "'Oh, what a mess you have here.' Katya addresses the listener with the informal singular 'you' alongside 'here'."),
-    (2, None, "'This junk should have been thrown out long ago.' Here the Russian phrasing highlights 'for a long time' before landing on 'junk'."),
-    (3, None, "'Listen, I hid two tickets in there.' In Russian, the idea of 'listen' flows naturally into 'hid' without extra filler words."),
-    (4, None, "'Those are tickets for tonight's concert.' Denis anchors the line on 'this', while 'a concert' completes the thought."),
-    (5, None, "'And you just threw them away.' The '-a' ending on the past-tense verb for 'to throw out' marks a female speaker or subject."),
-    (6, None, "'Oh, Denis, forgive me, please.' The meaning hinges on 'oh' working together with 'please' in spoken Russian."),
-    (7, None, "'I would have gone with great pleasure.' Notice how Russian expresses 'I' and 'pleasure' with crisp inflection rather than helper words."),
-    (8, None, "'But I have the evening shift today.' Here the Russian phrasing highlights 'but' before landing on 'shift on duty'."),
-    (9, None, "'Will you get them out of there yourself?' Katya addresses the listener with the informal singular 'you' alongside 'from there'."),
-    (10, None, "'Forgive me once again, alright?' Katya raises the pitch on 'all right' to turn the phrase into a direct spoken question. Denis answers right away."),
-    (11, None, "'Alright, no big deal, I will get them myself.' Denis brings out the contrast between 'all right' and 'nothing' in a few short words."),
+    (0, None, '\'Good morning, Katya, hello to you.\' With the point and surprise in play, Denis keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (1, None, '\'Oh, what a mess you have here.\' Pointing out that what a mess Denis has here gives Denis a sobering reality check. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (2, None, "'This junk should have been thrown out long ago.' Katya explains that this junk should have been thrown out long ago, keeping her voice calm and direct."),
+    (3, None, "'Listen, I hid two tickets in there.' Realizing that he hid two tickets in there changes how Denis handles the situation."),
+    (4, None, '\'Those are tickets for tonight\'s concert.\' Noting that those are tickets for tonight concert keeps Denis\'s side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (5, None, "'And you just threw them away.' Even though Katya just threw them away, Denis keeps a steady face in front of Katya."),
+    (6, None, "'Oh, Denis, forgive me, please.' Around the point and surprise, Katya sets a calm, everyday tone with Denis."),
+    (7, None, "'I would have gone with great pleasure.' Saying that she would have gone with great pleasure is how Katya sets the tone with Denis."),
+    (8, None, "'But I have the evening shift today.' Once she has the evening shift today, Katya can finally tell Denis what she means."),
+    (9, None, '\'Will you get them out of there yourself?\' By asking whether Denis gets them out of there themselves, Katya presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (10, None, '\'Forgive me once again, alright?\' Over the surprise and the kitchen, Katya presses Denis for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (11, None, "'Alright, no big deal, I will get them myself.' Since Alright no big deal he will get them himself, Denis does not waste words on excuses."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Disappointed that Katya cannot attend the concert, Denis climbs into the bin to rescue the tickets. Until next time!'
-CLOSING = ("katya", "Всего хорошего!")

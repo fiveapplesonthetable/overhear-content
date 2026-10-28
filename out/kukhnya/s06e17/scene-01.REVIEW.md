@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Не смотри на меня так. | Do not look at me like that. | #2 00:00:19: Не смотри на меня так | adapted: adapted |
-| 2 | Шеф | Тебя нельзя сейчас перекормить. | You must not be overfed right now. | #3 00:00:21: Если тебя перекормить | adapted: adapted |
-| 3 | Инспектор | Здравствуйте, Виктор Петрович. | Hello, Viktor Petrovich. | #5 00:00:27: Здравствуйте, Виктор Петрович | adapted: adapted |
-| 4 | Инспектор | Я инспектирую ваш ресторан. | I am inspecting your restaurant. | #6 00:00:29: Я инспектирую ваш ресторан | adapted: adapted |
-| 5 | Шеф | С вами всё в порядке? | Is everything alright with you? | #7 00:00:34: С вами все в порядке | adapted: adapted |
-| 6 | Инспектор | Да, просто так неожиданно. | Yes, it is just so unexpected. | #8 00:00:37: Просто так неожиданно | adapted: adapted |
-| 7 | Шеф | Здравствуйте, мне очень приятно. | Hello, I am very pleased to meet you. | #10 00:00:47: Очень приятно | adapted: adapted |
-| 8 | Инспектор | Ваш авторский сет просто отличный. | Your signature set is simply excellent. | #11 00:00:48: ваш авторский сет просто | adapted: adapted |
-| 9 | Инспектор | Он закрыл этот неприятный случай. | It overshadowed that unpleasant incident. | #11 00:00:48: этот неприятный | adapted: adapted |
-| 10 | Шеф | Спасибо вам за добрые слова. | Thank you for the kind words. | #12 00:00:53: Спасибо | adapted: adapted |
-| 11 | Шеф | Вы только не волнуйтесь. | Just do not worry. | #12 00:00:53: Но вы не волнуйтесь | adapted: adapted |
-| 12 | Шеф | Мы всё быстро отстираем. | We will wash everything out quickly. | #12 00:00:53: мы все отстираем | adapted: adapted |
+| 1 | Шеф | Не смотри на меня так. | Do not look at me like that. | #2: Не смотри на меня так | adapted: adapted |
+| 2 | Шеф | Тебя нельзя сейчас перекормить. | You must not be overfed right now. | #3: Если тебя перекормить | adapted: adapted |
+| 3 | Инспектор | Здравствуйте, Виктор Петрович. | Hello, Viktor Petrovich. | #5: Здравствуйте, Виктор Петрович | adapted: adapted |
+| 4 | Инспектор | Я инспектирую ваш ресторан. | I am inspecting your restaurant. | #6: Я инспектирую ваш ресторан | adapted: adapted |
+| 5 | Шеф | С вами всё в порядке? | Is everything alright with you? | #7: С вами все в порядке | adapted: adapted |
+| 6 | Инспектор | Да, просто так неожиданно. | Yes, it is just so unexpected. | #8: Просто так неожиданно | adapted: adapted |
+| 7 | Шеф | Здравствуйте, мне очень приятно. | Hello, I am very pleased to meet you. | #10: Очень приятно | adapted: adapted |
+| 8 | Инспектор | Ваш авторский сет просто отличный. | Your signature set is simply excellent. | #11: ваш авторский сет просто | adapted: adapted |
+| 9 | Инспектор | Он закрыл этот неприятный случай. | It overshadowed that unpleasant incident. | #11: этот неприятный | adapted: adapted |
+| 10 | Шеф | Спасибо вам за добрые слова. | Thank you for the kind words. | #12: Спасибо | adapted: adapted |
+| 11 | Шеф | Вы только не волнуйтесь. | Just do not worry. | #12: Но вы не волнуйтесь | adapted: adapted |
+| 12 | Шеф | Мы всё быстро отстираем. | We will wash everything out quickly. | #12: мы все отстираем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not look at me like that.' Here the Russian phrasing highlights 'not' before landing on 'so'.
-- 'You must not be overfed right now.' The meaning hinges on 'you' working together with 'to overfeed' in spoken Russian.
-- 'Hello, Viktor Petrovich.' The meaning hinges on 'hello' working together with 'hello' in spoken Russian.
-- 'I am inspecting your restaurant.' the inspector brings out the contrast between 'I' and 'I inspect' in a few short words.
-- 'Is everything alright with you?' Spoken Russian keeps this brisk, leaning on 'with' and finishing on 'order'.
-- 'Yes, it is just so unexpected.' Notice how Russian expresses 'yes' and 'unexpectedly' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'Hello, I am very pleased to meet you.' Here the Russian phrasing highlights 'hello' before landing on 'pleasant'.
-- 'Your signature set is simply excellent.' The grammar packs 'your' and 'excellent' into a tight, idiomatic kitchen exchange.
-- 'It overshadowed that unpleasant incident.' Notice how Russian expresses 'he' and 'case' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'Thank you for the kind words.' Here the Russian phrasing highlights 'thank you' before landing on 'words'.
-- 'Just do not worry.' The negative particle sits right before the verb meaning 'worry' to negate the statement.
-- 'We will wash everything out quickly.' In Russian, the idea of 'we' flows naturally into 'we will wash out' without extra filler words.
+- 'Do not look at me like that.' Adding that do not look at him like fills in the missing piece for the inspector.
+- 'You must not be overfed right now.' Barinov tells the inspector that the inspector must not be overfed right now without dressing it up. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Hello, Viktor Petrovich.' Between the conversation and the inspector, the inspector gives Barinov a quick, grounded response.
+- 'I am inspecting your restaurant.' Being inspecting Barinov's restaurant is how the inspector lays out the situation for Barinov.
+- 'Is everything alright with you?' By asking whether everything alright with the inspector, Barinov presses the inspector for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Yes, it is just so unexpected.' Because it is just so unexpected, the inspector treats the matter as settled.
+- 'Hello, I am very pleased to meet you.' Realizing that he is very pleased to meet the inspector changes how Barinov handles the situation.
+- 'Your signature set is simply excellent.' The inspector mentions that Barinov's signature set is simply excellent so Barinov sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'It overshadowed that unpleasant incident.' Around the work and inspector, the inspector sets a calm, everyday tone with Barinov.
+- 'Thank you for the kind words.' With the inspector and menu in play, Barinov keeps this short reply brisk and direct.
+- 'Just do not worry.' Barinov explains that just do not worry, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'We will wash everything out quickly.' Realizing that they will wash everything out quickly changes how Barinov handles the situation.

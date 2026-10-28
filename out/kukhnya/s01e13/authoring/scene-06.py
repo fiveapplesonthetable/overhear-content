@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 6
-TITLE = "Берите сети  (Get the Nets)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Берите сети  (Get the Nets)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "While working his punishment shift in the stockroom, Max accidentally creates a huge mess, prompting the Chef to desperately call for all available nets. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's join Max and the Chef as chaos breaks out in the back."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max's clumsy mistake turns his stockroom punishment into an emergency for the whole kitchen. Next time you watch the episode, listen for the Russian expressions for 'pancake' and 'to drop' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Блин, блин, блин, блин.', 'Damn, damn, damn, damn.', [(86, 'Блин')], ''),
-    ('anya', 'Я уронил коробку на пол.', 'I dropped the box onto the floor.', [], ''),
-    ('anya', 'Они очень быстро бегают.', 'They run very fast.', [], ''),
-    ('chef', 'Что ты опять натворил, Макс?', 'What did you do again, Max?', [], ''),
-    ('anya', 'Я просто хотел взять продукты.', 'I just wanted to take the products.', [], ''),
-    ('chef', 'Быстро берите все сети!', 'Quickly get all the nets!', [], ''),
-    ('chef', 'Берите большие и маленькие.', 'Take the big and small ones.', [], ''),
-    ('chef', 'Берите всё, что у нас есть.', 'Take everything that we have.', [], ''),
-    ('chef', 'Нам надо поймать их всех.', 'We need to catch them all.', [], ''),
-    ('anya', 'Один спрятался под столом.', 'One hid under the table.', [], ''),
-    ('chef', 'Не стойте просто так, ищите!', 'Do not just stand like that, search!', [], ''),
-    ('anya', 'Я сейчас его поймаю.', 'I will catch it now.', [], ''),
+    ('max', 'Блин, блин, блин, блин.', 'Damn, damn, damn, damn.', [(86, 'Блин')], ''),
+    ('max', 'Я уронил коробку на пол.', 'I dropped the box onto the floor.', [], ''),
+    ('max', 'Они очень быстро бегают.', 'They run very fast.', [], ''),
+    ('barinov', 'Что ты опять натворил, Макс?', 'What did you do again, Max?', [], ''),
+    ('max', 'Я просто хотел взять продукты.', 'I just wanted to take the products.', [], ''),
+    ('barinov', 'Быстро берите все сети!', 'Quickly get all the nets!', [], ''),
+    ('barinov', 'Берите большие и маленькие.', 'Take the big and small ones.', [], ''),
+    ('barinov', 'Берите всё, что у нас есть.', 'Take everything that we have.', [], ''),
+    ('barinov', 'Нам надо поймать их всех.', 'We need to catch them all.', [], ''),
+    ('max', 'Один спрятался под столом.', 'One hid under the table.', [], ''),
+    ('barinov', 'Не стойте просто так, ищите!', 'Do not just stand like that, search!', [], ''),
+    ('max', 'Я сейчас его поймаю.', 'I will catch it now.', [], ''),
 ]
 WALK = [
     (0, None, "'Damn, damn, damn, damn.' Russian omits the present-tense verb 'to be' here, linking 'damn' directly with 'damn', combining 'damn' with 'damn'."),

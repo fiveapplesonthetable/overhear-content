@@ -7,8 +7,7 @@ SCENE = 24
 TITLE = 'Au bord du précipice  (On the Edge of the Precipice)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In a quiet Parisian bar, Andrea enjoys her first night out since giving birth, having drinks with Hicham. Confronted by the mounting turmoil at ASK, they both admit that walking away right now would be a terrible mistake. Let's listen to the scene in French first."
@@ -18,18 +17,18 @@ OUTRO = "In a relaxed Parisian bar, Andrea and Hicham realize that staying toget
 CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('hicham', 'Tu as laissé Colette seule ce soir?', 'Did you leave Colette alone tonight?', [(1004, 'tu plantes ta femme')], ''),
-    ('lea', 'Sa mère est présente à la maison.', 'Her mother is present at the house.', [(1005, 'sa mère à la maison')], ''),
-    ('lea', "C'est ma première sortie depuis un mois.", 'It is my first outing in a month.', [(1010, 'Première sortie depuis un mois')], ''),
+    ('andrea', 'Sa mère est présente à la maison.', 'Her mother is present at the house.', [(1005, 'sa mère à la maison')], ''),
+    ('andrea', "C'est ma première sortie depuis un mois.", 'It is my first outing in a month.', [(1010, 'Première sortie depuis un mois')], ''),
     ('hicham', "Nous devons pourtant parler de l'agence.", 'Yet we must talk about the agency.', [(1007, "il faut qu'on parle boulot"), (1011, "parle de l'agence")], ''),
-    ('lea', 'Laisse-moi savourer mon verre deux minutes.', 'Let me savor my drink two minutes.', [(1009, 'deux minutes là')], ''),
+    ('andrea', 'Laisse-moi savourer mon verre deux minutes.', 'Let me savor my drink two minutes.', [(1009, 'deux minutes là')], ''),
     ('hicham', 'La situation chez ASK devient très critique.', 'The situation at ASK is becoming critical.', [(1015, 'chez la SK')], ''),
-    ('lea', "Ce n'est plus le moment de partir.", 'It is no longer the time to leave.', [(1016, 'plus du tout le moment de partir')], ''),
+    ('andrea', "Ce n'est plus le moment de partir.", 'It is no longer the time to leave.', [(1016, 'plus du tout le moment de partir')], ''),
     ('hicham', 'As-tu parlé de cela avec Mathias?', 'Did you speak about that with Mathias?', [(1017, 'parlé avec Mathias')], ''),
-    ('lea', 'Non, mais je vois bien les problèmes.', 'No, but I clearly see the problems.', [(1018, 'je vois bien')], ''),
+    ('andrea', 'Non, mais je vois bien les problèmes.', 'No, but I clearly see the problems.', [(1018, 'je vois bien')], ''),
     ('hicham', "Nous ne pouvons pas abandonner l'équipe.", 'We cannot abandon the team.', [(1019, 'on peut pas partir')], ''),
-    ('lea', 'Je ne veux rien gâcher entre nous.', 'I do not want to ruin anything between us.', [(1021, 'pas trop envie de tout gâcher')], ''),
+    ('andrea', 'Je ne veux rien gâcher entre nous.', 'I do not want to ruin anything between us.', [(1021, 'pas trop envie de tout gâcher')], ''),
     ('hicham', "Je suis profondément soulagé de t'entendre.", 'I am deeply relieved to hear you.', [(1022, 'je suis soulagé')], ''),
-    ('lea', 'Nous étions vraiment au bord du précipice.', 'We were truly on the edge of the cliff.', [(1025, 'au bord du bord')], ''),
+    ('andrea', 'Nous étions vraiment au bord du précipice.', 'We were truly on the edge of the cliff.', [(1025, 'au bord du bord')], ''),
     ('hicham', "Finalement, personne ne veut sauter dans l'inconnu.", 'Ultimately, nobody wants to jump into the unknown.', [(1025, 'envie de sauter')], ''),
 ]
 WALK = [

@@ -1,40 +1,43 @@
-# Отказ от салата  (The Rejected Salad) — `kukhnya-s01e11-scene-06`
+# kukhnya-s01e11-scene-06: review sheet
 
-**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Отказ от салата  (The Rejected Salad)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.11
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the kitchen, waiter Kostya rushes to Chef Viktor Barinov with terrifying news. A guest at table seven, suspected of being a secret food critic, has just sent back her salad, complaining about the sour dressing. Listen to their panicked conversation in Russian first, and then we will examine each sentence.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Костя | Шеф, внимание! На кухне чрезвычайная ситуация. | Chef, attention! An emergency situation in the kitchen. | #72 "внимание" |  |
-| 1 | Костя | Костя, что случилось в зале? | Kostya, what happened in the dining room? | *(added)* |  |
-| 2 | Костя | Обнаружен предполагаемый ресторанный критик! | A suspected restaurant critic has been spotted! | #73 "Обнаружен предполагаемый критик." |  |
-| 3 | Костя | Она сидит за седьмым столиком. | She is sitting at table seven. | #74 "сидит за седьмым столиком." |  |
-| 4 | Костя | И у меня отказ от салата! | And I have a salad rejection! | #75 "У меня отказ от салата." |  |
-| 5 | Костя | Как отказ? Мой идеальный салат? | How, a rejection? My perfect salad? | #76 "Как отказ?" |  |
-| 6 | Костя | Она вернула тарелку назад, шеф. | She sent the plate back, chef. | *(added)* |  |
-| 7 | Костя | Какой столик? Точно седьмой? | Which table? Definitely the seventh? | #77 "Какой столик? Седьмой." |  |
-| 8 | Костя | Да, строгая дама в очках. | Yes, a strict lady in glasses. | *(added)* |  |
-| 9 | Костя | Что именно ей не понравилось? | What exactly did she not like? | *(added)* |  |
-| 10 | Костя | Сказала, что соус слишком кислый. | She said the sauce was too sour. | *(added)* |  |
-| 11 | Костя | Это авторский рецепт высокой кухни! | This is an author recipe of haute cuisine! | *(added)* |  |
-| 12 | Костя | Шеф, она уже открыла блокнот. | Chef, she has already opened a notepad. | *(added)* |  |
-| 13 | Костя | Я лично приготовлю ей десерт! | I will personally prepare her a dessert! | *(added)* |  |
+| 1 | Костя | Шеф, внимание! На кухне чрезвычайная ситуация. | Chef, attention! An emergency situation in the kitchen. | #72: внимание | verbatim |
+| 2 | Шеф | Костя, что случилось в зале? | Kostya, what happened in the dining room? | new | new |
+| 3 | Костя | Обнаружен предполагаемый ресторанный критик! | A suspected restaurant critic has been spotted! | #73: Обнаружен предполагаемый критик. | verbatim |
+| 4 | Костя | Она сидит за седьмым столиком. | She is sitting at table seven. | #74: сидит за седьмым столиком. | verbatim |
+| 5 | Костя | И у меня отказ от салата! | And I have a salad rejection! | #75: У меня отказ от салата. | verbatim |
+| 6 | Шеф | Как отказ? Мой идеальный салат? | How, a rejection? My perfect salad? | #76: Как отказ? | verbatim |
+| 7 | Костя | Она вернула тарелку назад, шеф. | She sent the plate back, chef. | new | new |
+| 8 | Шеф | Какой столик? Точно седьмой? | Which table? Definitely the seventh? | #77: Какой столик? Седьмой. | verbatim |
+| 9 | Костя | Да, строгая дама в очках. | Yes, a strict lady in glasses. | new | new |
+| 10 | Шеф | Что именно ей не понравилось? | What exactly did she not like? | new | new |
+| 11 | Костя | Сказала, что соус слишком кислый. | She said the sauce was too sour. | new | new |
+| 12 | Шеф | Это авторский рецепт высокой кухни! | This is an author recipe of haute cuisine! | new | new |
+| 13 | Костя | Шеф, она уже открыла блокнот. | Chef, she has already opened a notepad. | new | new |
+| 14 | Шеф | Я лично приготовлю ей десерт! | I will personally prepare her a dessert! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> A tense comedic moment as Chef Barinov prepares to defend his kitchen's reputation against a ruthless reviewer. Next time you watch the episode, listen for the Russian expressions for 'author's' and 'notepad' — you will catch every word right away. See you next time!
-
-**Костя:** Пока!
+- 'Chef, attention! There is an emergency in the kitchen.' Kostya bursts into the workspace with urgent news.
+- 'Kostya, what happened in the dining room?' Chef Barinov uses the action verb meaning 'happened' to focus on the single completed result, pairing it with 'dining room'.
+- 'A presumed restaurant critic has been spotted!' Kostya uses the action verb meaning 'detected' to focus on the single completed result, pairing it with 'presumed' and 'restaurant'.
+- 'She is sitting at table seven.' Kostya identifies the exact location of the threat.
+- 'And I have a refusal of the salad!' Kostya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'refusal' with 'salad'.
+- 'What do you mean a refusal? My perfect salad?' Viktor gasps in personal and professional shock.
+- 'She sent the plate back, chef.' Kostya uses the action verb meaning 'returned' to focus on the single completed result, pairing it with 'plate' and 'back'.
+- 'Which table? Definitely the seventh?' Viktor demands precise confirmation of the customer.
+- 'Yes, a stern lady in glasses.' Kostya describes the appearance of the difficult diner.
+- 'What exactly did she dislike?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'pleased'.
+- 'She said that the sauce is too sour.' Kostya uses the action verb meaning 'she said' to focus on the single completed result, pairing it with 'sauce' and 'too'.
+- 'This is a signature recipe of haute cuisine!' Russian omits the present-tense verb 'to be' here, linking 'signature' directly with 'recipe', combining 'signature' with 'recipe' and 'high'.
+- 'Chef, she has already opened a notepad.' Kostya puts the word for 'already' together with 'opened' and 'notepad' in a crisp, natural spoken turn of phrase.
+- 'I personally will make dessert for her!' Viktor vows to win over the critic with sweet culinary mastery. Now, let us listen to the complete scene again to practice your comprehension.

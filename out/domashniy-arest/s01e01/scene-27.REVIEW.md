@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Как я сразу не догадался! | Why didn't I think of it right away! | #1026 00:59:02: я сразу не догадался | adapted: 'Блин, как же' dropped |
-| 2 | Аня | Самсон, ты русский? | Samson, are you Russian? | #1028 00:59:07: Самсон, ты русский | verbatim |
-| 3 | Самсон | Нет, эфиоп! | No, Ethiopian! | #1029 00:59:09: Эфиоп | adapted: 'Нет,' added to make the joke clear |
-| 4 | Аня | Не сидел? | Never been in prison? | #1030 00:59:10: Не сидел | verbatim |
+| 1 | Аркадий | Как я сразу не догадался! | Why didn't I think of it right away! | #1026: я сразу не догадался | adapted: 'Блин, как же' dropped |
+| 2 | Аркадий | Самсон, ты русский? | Samson, are you Russian? | #1028: Самсон, ты русский | verbatim |
+| 3 | Самсон | Нет, эфиоп! | No, Ethiopian! | #1029: Эфиоп | adapted: 'Нет,' added to make the joke clear |
+| 4 | Аркадий | Не сидел? | Never been in prison? | #1030: Не сидел | verbatim |
 | 5 | Самсон | Нет, слава богу. | No, thank God. | new | new: new; plain form of cue 1032 'Бог миловал' (God spared me) |
-| 6 | Аня | Православный? | Orthodox? | #1033 00:59:17: Православный | verbatim |
-| 7 | Самсон | Ну а какой? | Well, what else? | #1034 00:59:19: Ну, а какой | verbatim |
-| 8 | Аня | Русский. Православный. Не сидел. | Russian. Orthodox. Never been in prison. | #1035 00:59:20: Русский. Православный. Не сидел | verbatim |
-| 9 | Самсон | Ну да. Жена, двое детей. | Well, yes. A wife, two kids. | #1036 00:59:26: Жена, двое детей | adapted: 'Ну да.' added; in the show Arkady says the whole list, here Samson adds this part |
-| 10 | Аня | Работал на стройке. Служил? | Worked on a building site. Did you serve in the army? | #1036 00:59:26: Работал на стройке<br>#1037 00:59:30: Служил | verbatim |
+| 6 | Аркадий | Православный? | Orthodox? | #1033: Православный | verbatim |
+| 7 | Самсон | Ну а какой? | Well, what else? | #1034: Ну, а какой | verbatim |
+| 8 | Аркадий | Русский. Православный. Не сидел. | Russian. Orthodox. Never been in prison. | #1035: Русский. Православный. Не сидел | verbatim |
+| 9 | Самсон | Ну да. Жена, двое детей. | Well, yes. A wife, two kids. | #1036: Жена, двое детей | adapted: 'Ну да.' added; in the show Arkady says the whole list, here Samson adds this part |
+| 10 | Аркадий | Работал на стройке. Служил? | Worked on a building site. Did you serve in the army? | #1036: Работал на стройке<br>#1037: Служил | verbatim |
 | 11 | Самсон | Служил, конечно. | Of course I served. | new | new: new: Samson is ex-army (characters.md) |
-| 12 | Аня | Вот оно! Самсон, ты будешь новым мэром. | That's it! Samson, you're going to be the new mayor. | #1038 00:59:31: Вот оно<br>#1039 00:59:43: Самсон, ты будешь новым мэром | verbatim |
-| 13 | Самсон | Согласен. | Agreed. | #1040 00:59:47: Согласен | verbatim |
-| 14 | Аня | Ты не понял меня. Я тебя сделаю новым мэром. | You don't understand me. I'm going to make you the new mayor. | #1041 00:59:49: Ты не понял меня<br>#1042 00:59:52: Я тебя сделаю новым мэром | verbatim |
+| 12 | Аркадий | Вот оно! Самсон, ты будешь новым мэром. | That's it! Samson, you're going to be the new mayor. | #1038: Вот оно<br>#1039: Самсон, ты будешь новым мэром | verbatim |
+| 13 | Самсон | Согласен. | Agreed. | #1040: Согласен | verbatim |
+| 14 | Аркадий | Ты не понял меня. Я тебя сделаю новым мэром. | You don't understand me. I'm going to make you the new mayor. | #1041: Ты не понял меня<br>#1042: Я тебя сделаю новым мэром | verbatim |
 | 15 | Самсон | Меня? Мэром? | Me? Mayor? | new | new: new: Samson finally takes it seriously |
-| 16 | Аня | Через два месяца выборы. Ты же хотел новый уровень. | The election is in two months. You wanted a new level, didn't you? | #1043 00:59:56: Через два месяца<br>#1044 00:59:57: Ты же хотел новый уровень | adapted: 'выбора' (transcription error) -> 'выборы' |
+| 16 | Аркадий | Через два месяца выборы. Ты же хотел новый уровень. | The election is in two months. You wanted a new level, didn't you? | #1043: Через два месяца<br>#1044: Ты же хотел новый уровень | adapted: 'выбора' (transcription error) -> 'выборы' |
 | 17 | Самсон | Ну, хотел. | Well, I did. | new | new: new |
-| 18 | Аня | Я помогу тебе, а ты поможешь мне. | I'll help you, and you'll help me. | #1047 01:00:04: я помогу тебе<br>#1048 01:00:06: а ты поможешь мне | verbatim |
+| 18 | Аркадий | Я помогу тебе, а ты поможешь мне. | I'll help you, and you'll help me. | #1047: я помогу тебе<br>#1048: а ты поможешь мне | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

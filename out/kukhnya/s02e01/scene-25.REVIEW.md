@@ -1,43 +1,40 @@
-# Смена власти  (Shift of Power) — `kukhnya-s02e01-scene-25`
+# kukhnya-s02e01-scene-25: review sheet
 
-**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Смена власти  (Shift of Power)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.01
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `igor` | angelina | Игорь |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Igor Valentinovich tries to fire Fedya and take full control of the kitchen. But Elena arrives with documents proving she owns the restaurant. Let's listen closely to the conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Виктор Петрович, не стыдно мне. | Viktor Petrovich, aren't you ashamed of me? | #278 "не стыдно мне" |  |
-| 1 | Шеф | Да не особо. | Not really. | #279 "Да не особо" |  |
-| 2 | Шеф | Здорово, когда начальство понятливое. | It is great when the boss is understanding. | #281 "когда начальство понятливое" |  |
-| 3 | Игорь | Шеф, Федю уволили. | Boss, Fedya has been fired. | #282 "Федю уволили" |  |
-| 4 | Шеф | Ты что себе позволяешь? | What do you think you are doing? | #283 "что себе позволяешь" |  |
-| 5 | Шеф | Ты зачем Федю уволил? | Why did you fire Fedya? | #284 "зачем Федю уволил" |  |
-| 6 | Шеф | Я не позволю увольнять моих людей. | I will not let you fire my people. | #286 "не позволю увольнять моих людей" |  |
-| 7 | Игорь | Здесь я хозяин. | I am in charge here. | #290 "я хозяин" |  |
-| 8 | Игорь | Я решаю, кого увольнять, а кого нет. | I decide who gets fired and who doesn't. | #291 "кого увольнять, а кого нет" |  |
-| 9 | Шеф | С меня хватит. | I have had enough. | #295 "С меня хватит" |  |
-| 10 | Игорь | Вы все уволены. | You are all fired. | #296 "Вы все уволены" |  |
-| 11 | Игорь | Я так не думаю. | I do not think so. | #296 "Я так не думаю" |  |
-| 12 | Игорь | Это бумаги, которые подтверждают. | These are the papers that prove it. | #298 "бумаги, которые подтверждают" |  |
-| 13 | Игорь | Я являюсь владелицей. | I am the owner. | #298 "являюсь владелицей" |  |
-| 14 | Игорь | Этого не может быть. | That cannot be. | #300 "Этого не может быть" |  |
-| 15 | Игорь | А пока я буду решать. | And for now, I will decide. | #304 "я буду решать" |  |
+| 1 | Шеф | Виктор Петрович, не стыдно мне. | Viktor Petrovich, aren't you ashamed of me? | #278: не стыдно мне | verbatim |
+| 2 | Шеф | Да не особо. | Not really. | #279: Да не особо | verbatim |
+| 3 | Шеф | Здорово, когда начальство понятливое. | It is great when the boss is understanding. | #281: когда начальство понятливое | verbatim |
+| 4 | Игорь | Шеф, Федю уволили. | Boss, Fedya has been fired. | #282: Федю уволили | verbatim |
+| 5 | Шеф | Ты что себе позволяешь? | What do you think you are doing? | #283: что себе позволяешь | verbatim |
+| 6 | Шеф | Ты зачем Федю уволил? | Why did you fire Fedya? | #284: зачем Федю уволил | verbatim |
+| 7 | Шеф | Я не позволю увольнять моих людей. | I will not let you fire my people. | #286: не позволю увольнять моих людей | verbatim |
+| 8 | Игорь | Здесь я хозяин. | I am in charge here. | #290: я хозяин | verbatim |
+| 9 | Игорь | Я решаю, кого увольнять, а кого нет. | I decide who gets fired and who doesn't. | #291: кого увольнять, а кого нет | verbatim |
+| 10 | Шеф | С меня хватит. | I have had enough. | #295: С меня хватит | verbatim |
+| 11 | Игорь | Вы все уволены. | You are all fired. | #296: Вы все уволены | verbatim |
+| 12 | Елена | Я так не думаю. | I do not think so. | #296: Я так не думаю | verbatim |
+| 13 | Елена | Это бумаги, которые подтверждают. | These are the papers that prove it. | #298: бумаги, которые подтверждают | verbatim |
+| 14 | Елена | Я являюсь владелицей. | I am the owner. | #298: являюсь владелицей | verbatim |
+| 15 | Игорь | Этого не может быть. | That cannot be. | #300: Этого не может быть | verbatim |
+| 16 | Елена | А пока я буду решать. | And for now, I will decide. | #304: я буду решать | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Elena takes control of the restaurant, saving the kitchen staff and forcing Igor to step down. Next time you watch the episode, listen for the Russian expressions for 'shameful' and 'particularly' — you will catch every word right away. See you next time!
-
-**Игорь:** Пока!
+- 'Boss, Fedya has been fired.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'to fire'.
+- 'What do you think you are doing?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to allow'.
+- 'I will not let you fire my people.' Chef Barinov uses the action verb meaning 'will allow' to focus on the single completed result, pairing it with 'to fire' and 'people'.
+- 'I am in charge here.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'owner', combining 'here' with 'owner'.
+- 'I have had enough.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'enough'.
+- 'You are all fired.' The character uses the polite everyday 'you' alongside 'fired', keeping a formal or respectful register. Then Elena responds.
+- 'I do not think so.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'I think'.
+- 'I am the owner.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'That cannot be.' the speaker chooses the action verb meaning 'can' for the ongoing action, followed by 'be'. Now let's listen to the whole conversation again from start to finish.

@@ -1,25 +1,27 @@
+# Authoring module for kukhnya-s03e15-scene-19.
 ID = 'kukhnya-s03e15-scene-19'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 19
 TITLE = "Разоблачение обмана Кости  (Kostya's Deception Exposed)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
-
 INTRO = "Kostya secretly meets Nastya's father to confess that Nastya spent all six hundred thousand rubles of wedding money on a car. Then Nastya finds an insurance paper in the glovebox with her father's name on it and realizes Kostya lied! Listen first."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Heartbroken by Kostya's deception, Nastya cancels the wedding. Until next time!"
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('anya', 'Здравствуйте, что за дело, которое по телефону нельзя обсудить?', 'Hello, what is this matter that cannot be discussed over the phone?', [(307, 'Здравствуйте. Что за дело, которое по телефону нельзя обсудить')], 'adapted'),
+    ('max', 'Здравствуйте, что за дело, которое по телефону нельзя обсудить?', 'Hello, what is this matter that cannot be discussed over the phone?', [(307, 'Здравствуйте. Что за дело, которое по телефону нельзя обсудить')], 'adapted'),
     ('kostya', 'На деньги, которые вы мне дали, Настя купила машину.', 'With the money that you gave me, Nastya bought a car.', [(308, 'на деньги, которые вы мне дали, Настя купила')], 'adapted'),
-    ('anya', 'Ну молодец, ты же сам ей не можешь купить.', 'Well good for her, since you cannot buy her one yourself.', [(309, 'Ну, молодец. Ты же ей не можешь купить')], 'adapted'),
+    ('max', 'Ну молодец, ты же сам ей не можешь купить.', 'Well good for her, since you cannot buy her one yourself.', [(309, 'Ну, молодец. Ты же ей не можешь купить')], 'adapted'),
     ('kostya', 'Получается, что у нас снова нет денег на свадьбу.', 'It turns out that we again have no money for the wedding.', [(311, 'Получается, что у нас снова нет денег на свадьбу')], 'adapted'),
     ('nastya', 'Папа, чья это бумага в машине?', 'Dad, whose paper is this in the car?', [(312, 'Это не мое')], 'adapted'),
-    ('anya', 'Это не моё, это уже твоё, дочка.', 'It is not mine, it is already yours, sweetheart.', [(312, 'Это не мое'), (313, 'уже твое')], 'adapted'),
+    ('max', 'Это не моё, это уже твоё, дочка.', 'It is not mine, it is already yours, sweetheart.', [(312, 'Это не мое'), (313, 'уже твое')], 'adapted'),
     ('nastya', 'Ах, вот откуда взялись все эти деньги, да?', 'Ah, so that is where all that money came from, right?', [(314, 'Вот откуда все деньги, да')], 'adapted'),
     ('nastya', 'Выигранный спор, старая заначка и премии!', 'The bet you won, the old stash, and the bonuses!', [(315, 'Спор, заначка, премии')], 'adapted'),
     ('kostya', 'Настя, послушай, я могу тебе всё это объяснить!', 'Nastya, listen, I can explain all of this to you!', [(316, 'Настя, я могу это объяснить')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nastya', 'Ты просто бессовестный обманщик!', 'You are simply a shameless liar!', [(319, 'Ты бессовестный обманщик')], 'adapted'),
     ('nastya', 'И никакой свадьбы у нас теперь не будет!', 'And we are not going to have any wedding now!', [(320, 'И свадьбы не будет')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Hello, what is this matter that cannot be discussed over the phone?' Here the Russian phrasing highlights 'hello' before landing on 'to discuss'."),
-    (1, None, "'With the money that you gave me, Nastya bought a car.' Kostya pairs 'money' with 'car' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (2, None, "'Well good for her, since you cannot buy her one yourself.' Max anchors the line on 'come on', while 'to buy' completes the thought. Kostya answers right away."),
-    (3, None, "'It turns out that we again have no money for the wedding.' The grammar packs 'to work out' and 'wedding' into a tight, idiomatic kitchen exchange."),
-    (4, None, "'Dad, whose paper is this in the car?' In Russian, the idea of 'dad' flows naturally into 'car' without extra filler words."),
-    (5, None, "'It is not mine, it is already yours, sweetheart.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'daughter'. Nastya answers right away."),
-    (6, None, "'Ah, so that is where all that money came from, right?' Notice how Russian puts 'where from' and 'money' together in a short, direct phrase where word endings show how the ideas connect."),
-    (7, None, "'The bet you won, the old stash, and the bonuses!' The grammar packs 'won' and 'bonus' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'Nastya, listen, I can explain all of this to you!' Kostya anchors the line on 'Nastya', while 'to explain' completes the thought. Nastya answers right away."),
-    (9, None, "'Do not explain anything to me, Kostya, everything is clear as it is!' The grammar packs 'not' and 'understood' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'You are simply a shameless liar!' The meaning hinges on 'you' working together with 'deceiver' in spoken Russian."),
-    (11, None, "'And we are not going to have any wedding now!' Nastya anchors the line on 'and', while 'will be' completes the thought."),
+    (0, None, "'Hello, what is this matter that cannot be discussed over the phone?' By asking what this matter that cannot be discussed over the phone is, Max presses Kostya for a straight answer."),
+    (1, None, '\'With the money that you gave me, Nastya bought a car.\' Realizing that with the money that Max gave him Nastya bought a car changes how Kostya handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (2, None, '\'Well good for her, since you cannot buy her one yourself.\' Noting that good for her since Kostya cannot buy her one themselves keeps Max\'s side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (3, None, "'It turns out that we again have no money for the wedding.' Even though it turns out that they again have no money for the wedding, Kostya keeps a steady face in front of Max."),
+    (4, None, '\'Dad, whose paper is this in the car?\' When Nastya asks if dad whose paper is this in the car, Kostya has to answer fast. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (5, None, '\'It is not mine, it is already yours, sweetheart.\' Noting that it is not his it is already Kostya\'s sweetheart keeps Max\'s side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (6, None, "'Ah, so that is where all that money came from, right?' Asking whether that is where all that money came from right puts Kostya right on the defensive."),
+    (7, None, "'The bet you won, the old stash, and the bonuses!' Nastya insists that the bet Kostya won the old stash and the bonuses, leaving Kostya no room to argue. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (8, None, '\'Nastya, listen, I can explain all of this to you!\' Saying that he can explain all of this to Max is how Kostya takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (9, None, "'Do not explain anything to me, Kostya, everything is clear as it is!' Nastya declares that do not explain anything to her Kostya everything is clear as it is as the tension in the room peaks."),
+    (10, None, '\'You are simply a shameless liar!\' Because Kostya is simply a shameless liar, Nastya does not bother softening the blow for Kostya. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (11, None, '\'And we are not going to have any wedding now!\' Insisting that they are not going to have any wedding now shows Nastya is not backing down. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Heartbroken by Kostya's deception, Nastya cancels the wedding. Until next time!"
-CLOSING = ("nastya", "Пока!")

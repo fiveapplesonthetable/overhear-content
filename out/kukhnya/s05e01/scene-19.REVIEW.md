@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Дай мне микрофон на минуту. | Give me the microphone for a minute. | #290 00:22:23: микрофон | adapted: adapted |
-| 2 | Денис | С тех пор мы всегда вместе. | Since then we have always been together. | #291 00:22:32: С тех пор, как мы вместе | adapted: adapted |
-| 3 | Денис | Ты наполняешь мою жизнь смыслом! | You fill my life with meaning! | #292 00:22:35: ты наполняешь мою жизнь смыслом! | adapted: verbatim |
-| 4 | Денис | Вика, смотри, что он делает! | Vika, look what he is doing! | #293 00:22:47: Вика! | adapted: adapted |
-| 5 | Денис | Ты моя жизнь! | You are my life! | #294 00:23:04: Ты моя жизнь! | adapted: verbatim |
-| 6 | Денис | Ты мой мир! | You are my world! | #295 00:23:06: Ты мой мир! | adapted: verbatim |
-| 7 | Денис | Ты мне очень нужна, Катя. | I need you so much, Katya. | #296 00:23:11: Ты | adapted: adapted |
-| 8 | Катя | Что ты делаешь, Денис? | What are you doing, Denis? | #297 00:23:22: что делаешь | adapted: adapted |
-| 9 | Денис | Я сейчас всё тебе скажу. | I will tell you everything right now. | #297 00:23:22: сейчас | adapted: adapted |
-| 10 | Денис | Катя, выходи за меня! | Katya, marry me! | #298 00:23:29: Катя, выходи за меня | adapted: verbatim |
-| 11 | Катя | Что это падает сверху? | What is that falling from above? | #297 00:23:22: что делаешь, а? | adapted: adapted |
-| 12 | Денис | Откуда здесь эти тараканы?! | Where did these cockroaches come from?! | #293 00:22:47: Вика! | adapted: adapted |
+| 1 | Денис | Дай мне микрофон на минуту. | Give me the microphone for a minute. | #290: микрофон | adapted: adapted |
+| 2 | Денис | С тех пор мы всегда вместе. | Since then we have always been together. | #291: С тех пор, как мы вместе | adapted: adapted |
+| 3 | Денис | Ты наполняешь мою жизнь смыслом! | You fill my life with meaning! | #292: ты наполняешь мою жизнь смыслом! | adapted: verbatim |
+| 4 | Шеф | Вика, смотри, что он делает! | Vika, look what he is doing! | #293: Вика! | adapted: adapted |
+| 5 | Денис | Ты моя жизнь! | You are my life! | #294: Ты моя жизнь! | adapted: verbatim |
+| 6 | Денис | Ты мой мир! | You are my world! | #295: Ты мой мир! | adapted: verbatim |
+| 7 | Денис | Ты мне очень нужна, Катя. | I need you so much, Katya. | #296: Ты | adapted: adapted |
+| 8 | Катя | Что ты делаешь, Денис? | What are you doing, Denis? | #297: что делаешь | adapted: adapted |
+| 9 | Денис | Я сейчас всё тебе скажу. | I will tell you everything right now. | #297: сейчас | adapted: adapted |
+| 10 | Денис | Катя, выходи за меня! | Katya, marry me! | #298: Катя, выходи за меня | adapted: verbatim |
+| 11 | Катя | Что это падает сверху? | What is that falling from above? | #297: что делаешь, а? | adapted: adapted |
+| 12 | Шеф | Откуда здесь эти тараканы?! | Where did these cockroaches come from?! | #293: Вика! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me the microphone for a minute.' The meaning hinges on 'give' working together with 'a minute' in spoken Russian.
-- 'Since then we have always been together.' In Russian, the idea of 'with' flows naturally into 'together' without extra filler words.
-- 'You fill my life with meaning!' Denis anchors the line on 'you', while 'with meaning' completes the thought. Chef Barinov answers right away.
-- 'Vika, look what he is doing!' Chef Barinov brings out the contrast between 'Vika' and 'watch' in a few short words.
-- 'You are my life!' Spoken Russian keeps this brief and expressive, built right around 'life' without extra helper words.
-- 'You are my world!' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'world'.
-- 'I need you so much, Katya.' Denis anchors the line on 'you', while 'Katya' completes the thought.
-- 'What are you doing, Denis?' The grammar packs 'what' and 'Denis' into a tight, idiomatic kitchen exchange.
-- 'I will tell you everything right now.' Notice how Russian expresses 'I' and 'will say' with crisp inflection rather than helper words.
-- 'Katya, marry me!' Here the Russian phrasing highlights 'Katya' before landing on 'me'.
-- 'What is that falling from above?' The meaning hinges on 'what' working together with 'upstairs' in spoken Russian.
-- 'Where did these cockroaches come from?!' Notice how Russian expresses 'where from' and 'cockroaches' with crisp inflection rather than helper words.
+- 'Give me the microphone for a minute.' Pointing out that Barinov should give him the microphone for a minute gives Barinov a sobering reality check.
+- 'Since then we have always been together.' Pointing out that since then they have always been together gives Barinov a sobering reality check.
+- 'You fill my life with meaning!' Declaring that Barinov fills his life with meaning brings Denis's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Vika, look what he is doing!' Barinov insists that what he is doing, leaving Denis no room to argue.
+- 'You are my life!' Saying that Barinov is his life is how Denis takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You are my world!' Denis declares that Barinov is his world as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I need you so much, Katya.' Denis explains that he needs Barinov so much, keeping his voice calm and direct.
+- 'What are you doing, Denis?' With the truth and hotel hanging in the air, Katya puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I will tell you everything right now.' Denis explains that he will tell Barinov everything right now, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Katya, marry me!' Denis declares that Barinov should marry him as the tension in the room peaks.
+- 'What is that falling from above?' By asking what that falling from above is, Katya presses Barinov for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Where did these cockroaches come from?!' Wondering where these cockroaches come cuts straight through the tension between Barinov and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

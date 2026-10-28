@@ -7,8 +7,7 @@ SCENE = 23
 TITLE = 'Arrivée au Laser Game  (Arrival at the Laser Game)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'norman': 'marcel', 'elvis': 'theo', 'lea': 'lucie'}
-LABELS = {'norman': 'Norman', 'elvis': 'Elvis', 'lea': 'Andréa'}
+LABELS = {'elvis': 'Elvis', 'hicham': 'Hicham', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the laser game arena, young guests eagerly await the guest of honor for Elvis's tenth birthday party. When internet star Norman Thavaud arrives, the excitement peaks as he meets the birthday boy and gets ready for battle. Listen to the scene in French first. Don't worry about catching every word."
@@ -17,7 +16,7 @@ TRANSITION = "Now let's listen to the entire exchange once more from beginning t
 OUTRO = 'Surrounded by cheering kids, Norman dives into the laser tag arena to give Elvis an unforgettable birthday match. Notice how the near future is formed with aller followed by an infinitive: on va gagner. See you next time!'
 CLOSING = ('norman', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Regardez, Norman est enfin là!', 'Look, Norman is finally here!', [(599, 'Norman ! Regardez, Norman est là !')], ''),
+    ('hicham', 'Regardez, Norman est enfin là!', 'Look, Norman is finally here!', [(599, 'Norman ! Regardez, Norman est là !')], ''),
     ('norman', 'Bonjour à tous les enfants!', 'Hello to all the children!', [(601, '-Ça va, les enfants ?')], ''),
     ('elvis', 'Je peux avoir un autographe?', 'Can I have an autograph?', [(601, '-Je peux avoir un autographe ?')], ''),
     ('norman', 'Oui bien sûr, avec plaisir.', 'Yes of course, with pleasure.', [(602, 'Tout le monde va bien ?')], ''),
@@ -26,10 +25,10 @@ STORY = [
     ('norman', "Tu m'as défié au jeu?", 'You challenged me to the game?', [(604, "Le gamin de 10 ans qui m'a défié au laser game ?")], ''),
     ('elvis', "Oui, j'ai une super équipe.", 'Yes, I have a great team.', [(606, "T'as une bonne équipe ?")], ''),
     ('norman', 'Je suis très fort aussi.', 'I am very good too.', [(606, 'Je suis très fort là-dedans.')], ''),
-    ('lea', "C'est ton anniversaire aujourd'hui, Elvis.", 'It is your birthday today, Elvis.', [(611, "C'est ton anniversaire, ta fête.")], ''),
+    ('hicham', "C'est ton anniversaire aujourd'hui, Elvis.", 'It is your birthday today, Elvis.', [(611, "C'est ton anniversaire, ta fête.")], ''),
     ('elvis', 'On va gagner la partie!', 'We are going to win the game!', [(607, '-Allez, on se bat !')], ''),
     ('norman', 'Ne sois pas trop timide.', 'Do not be too shy.', [(610, 'Fais pas le timide.')], ''),
-    ('lea', 'Amusez-vous bien tous ensemble.', 'Have good fun all together.', [(612, 'Allez.')], ''),
+    ('hicham', 'Amusez-vous bien tous ensemble.', 'Have good fun all together.', [(612, 'Allez.')], ''),
     ('norman', "C'est parti pour le combat!", 'Here we go for the fight!', [(607, '-Allez, on se bat !')], ''),
 ]
 WALK = [

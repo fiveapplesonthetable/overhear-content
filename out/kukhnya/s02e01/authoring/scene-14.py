@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 14
-TITLE = "Утренний комплимент  (A Morning Compliment)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Утренний комплимент  (A Morning Compliment)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "igor": "angelina"}
-LABELS = {"igor": "Игорь"}
+LABELS = {'igor': 'Игорь', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "In the dining room at Claude Monet, the polite new owner Igor Valentinovich greets art director Vika Goncharova. He compliments her stylish appearance and jokes gallantly about competing with her charm. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Charmed by Igor Valentinovich's polite compliments and gentle humor, Vika begins her shift in a bright mood, unaware of the crazy stunt Max is preparing. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ("igor", "Пока!")
+CLOSING = ('igor', 'Пока!')
 STORY = [
     ('igor', 'Доброе утро, дорогая Виктория Сергеевна.', 'Good morning, dear Victoria Sergeyevna.', [(192, 'Доброе утро')], ''),
-    ('igor', 'Доброе утро, уважаемый Игорь Валентинович.', 'Good morning, respected Igor Valentinovich.', [(193, 'Игорь Валентинович')], ''),
+    ('vika', 'Доброе утро, уважаемый Игорь Валентинович.', 'Good morning, respected Igor Valentinovich.', [(193, 'Игорь Валентинович')], ''),
     ('igor', 'Вы сегодня просто прекрасно выглядите!', 'You look simply wonderful today!', [(193, 'Прекрасно выглядите')], ''),
-    ('igor', 'Большое спасибо вам за комплимент.', 'Thank you very much for the compliment.', [(193, 'Прекрасно')], ''),
-    ('igor', 'Я стараюсь не отставать от вас.', 'I try not to fall behind you.', [(193, 'Стараюсь не отставать от вас')], ''),
+    ('vika', 'Большое спасибо вам за комплимент.', 'Thank you very much for the compliment.', [(193, 'Прекрасно')], ''),
+    ('vika', 'Я стараюсь не отставать от вас.', 'I try not to fall behind you.', [(193, 'Стараюсь не отставать от вас')], ''),
     ('igor', 'От меня? Вы очень добры ко мне.', 'Behind me? You are very kind to me.', [(193, 'от вас')], ''),
-    ('igor', 'Вы всегда носите отличный строгий костюм.', 'You always wear an excellent formal suit.', [(193, 'выглядите')], ''),
+    ('vika', 'Вы всегда носите отличный строгий костюм.', 'You always wear an excellent formal suit.', [(193, 'выглядите')], ''),
     ('igor', 'Значит, для вас это как соревнование?', 'So for you this is like a competition?', [(194, 'как соревнование')], ''),
-    ('igor', 'Может быть, только совсем немного.', 'Maybe, only just a little bit.', [(194, 'если вы')], ''),
+    ('vika', 'Может быть, только совсем немного.', 'Maybe, only just a little bit.', [(194, 'если вы')], ''),
     ('igor', 'Тогда я, пожалуй, сдамся прямо сразу.', 'Then I think I will surrender right away.', [(194, 'сдамся сразу')], ''),
-    ('igor', 'Почему вы так быстро сдаётесь?', 'Why do you surrender so quickly?', [(194, 'сразу')], ''),
+    ('vika', 'Почему вы так быстро сдаётесь?', 'Why do you surrender so quickly?', [(194, 'сразу')], ''),
     ('igor', 'Потому что с вами невозможно спорить.', 'Because it is impossible to argue with you.', [(194, 'соревнование')], ''),
-    ('igor', 'Хорошего вам рабочего дня в ресторане.', 'Have a good workday in the restaurant.', [(192, 'Доброе утро')], ''),
+    ('vika', 'Хорошего вам рабочего дня в ресторане.', 'Have a good workday in the restaurant.', [(192, 'Доброе утро')], ''),
     ('igor', 'Спасибо, Вика, и вам удачного дня!', 'Thank you, Vika, and have a successful day too!', [(194, 'пожалуй')], ''),
 ]
 WALK = [

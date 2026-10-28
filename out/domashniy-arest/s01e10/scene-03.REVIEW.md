@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Семейство Самсоновых, всем большой привет! | Samsonov family, big greetings to everyone! | #31 00:02:39: Семейство, привет | verbatim |
-| 2 | Аня | Я взял костюмы в детском театре. | I took costumes from the children's theater. | #33 00:02:43: Взяла костюмы в тюзи | verbatim |
-| 3 | Аня | Послезавтра вы споёте песню на празднике. | The day after tomorrow you will sing a song at the festival. | #33 00:02:43: послезавтра на дне города<br>#34 00:02:47: вы поете вашу песню | verbatim |
-| 4 | Аня | Телевидение покажет сюжет про вашу дружную семью. | Television will show a story about your united family. | #35 00:02:50: по телевизору дадут сюжет про вашу дружную семью | verbatim |
-| 5 | Аня | Подождите, а что здесь происходит? | Wait, what is happening here? | #36 00:02:55: А что у нас тут такое происходит | verbatim |
-| 6 | Самсон | Мы с Ниной решили развестись. | Nina and I decided to get divorced. | #37 00:02:56: Мама с папой разводятся | verbatim |
-| 7 | Нина | Аркадий, закрой дверь, нам нужно поговорить. | Arkady, close the door, we need to talk. | #38 00:02:57: Закрой дверь с той стороны, нам поговорить надо | verbatim |
-| 8 | Аня | Вы что, совсем сошли с ума? | Have you completely gone out of your mind? | #47 00:03:26: Вы что, вообще охренели | adapted: crude idiom replaced with clean A1 colloquial expression |
-| 9 | Аня | У нас сейчас очень трудное положение. | We have a very difficult situation right now. | #59 00:03:49: У нас сложное положение | verbatim |
-| 10 | Аня | Это выступление — наш единственный шанс! | This performance is our only chance! | #61 00:03:55: Это выступление наш шанс | verbatim |
-| 11 | Аня | Вы двадцать лет живёте вместе. | You have lived together for twenty years. | #65 00:04:08: Вы двадцать лет вместе | verbatim |
-| 12 | Нина | Аркадий, пожалуйста, не дави на нас. | Arkady, please don't pressure us. | #69 00:04:15: не передавливай | verbatim |
-| 13 | Самсон | Это наше личное семейное дело! | This is our personal family matter! | #49 00:03:33: Это вообще не твое дело | verbatim |
-| 14 | Аня | Я ухожу, а вы спокойно поговорите. | I am leaving, and you speak calmly. | #70 00:04:18: я сейчас ухожу, а вы сидите тут<br>#71 00:04:27: выясняйте отношения, только по-взрослому | verbatim |
-| 15 | Аня | И обязательно примерьте эти костюмы! | And definitely try on these costumes! | #74 00:04:37: померяй | verbatim |
+| 1 | Аркадий | Семейство Самсоновых, всем большой привет! | Samsonov family, big greetings to everyone! | #31: Семейство, привет | verbatim |
+| 2 | Аркадий | Я взял костюмы в детском театре. | I took costumes from the children's theater. | #33: Взяла костюмы в тюзи | verbatim |
+| 3 | Аркадий | Послезавтра вы споёте песню на празднике. | The day after tomorrow you will sing a song at the festival. | #33: послезавтра на дне города<br>#34: вы поете вашу песню | verbatim |
+| 4 | Аркадий | Телевидение покажет сюжет про вашу дружную семью. | Television will show a story about your united family. | #35: по телевизору дадут сюжет про вашу дружную семью | verbatim |
+| 5 | Аркадий | Подождите, а что здесь происходит? | Wait, what is happening here? | #36: А что у нас тут такое происходит | verbatim |
+| 6 | Самсон | Мы с Ниной решили развестись. | Nina and I decided to get divorced. | #37: Мама с папой разводятся | verbatim |
+| 7 | Нина | Аркадий, закрой дверь, нам нужно поговорить. | Arkady, close the door, we need to talk. | #38: Закрой дверь с той стороны, нам поговорить надо | verbatim |
+| 8 | Аркадий | Вы что, совсем сошли с ума? | Have you completely gone out of your mind? | #47: Вы что, вообще охренели | adapted: crude idiom replaced with clean A1 colloquial expression |
+| 9 | Аркадий | У нас сейчас очень трудное положение. | We have a very difficult situation right now. | #59: У нас сложное положение | verbatim |
+| 10 | Аркадий | Это выступление — наш единственный шанс! | This performance is our only chance! | #61: Это выступление наш шанс | verbatim |
+| 11 | Аркадий | Вы двадцать лет живёте вместе. | You have lived together for twenty years. | #65: Вы двадцать лет вместе | verbatim |
+| 12 | Нина | Аркадий, пожалуйста, не дави на нас. | Arkady, please don't pressure us. | #69: не передавливай | verbatim |
+| 13 | Самсон | Это наше личное семейное дело! | This is our personal family matter! | #49: Это вообще не твое дело | verbatim |
+| 14 | Аркадий | Я ухожу, а вы спокойно поговорите. | I am leaving, and you speak calmly. | #70: я сейчас ухожу, а вы сидите тут<br>#71: выясняйте отношения, только по-взрослому | verbatim |
+| 15 | Аркадий | И обязательно примерьте эти костюмы! | And definitely try on these costumes! | #74: померяй | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -5,32 +5,31 @@ SEASON = 1
 EPISODE = 14
 SCENE = 7
 TITLE = "Байки Макса  (Max's Tall Tales)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
-LABELS = {"anya": "Макс", "sasha": "Саша"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'In the dining room, Max shows off in front of the waitresses, pretending to be a famous chef who cooked for the actor Gerard Depardieu in Paris. Enchanted by his lies, the girls beg him for more stories. Let us listen to his tall tales in Russian first.'
 OPENER = "Now let us examine Max's fabricated stories line by line in this scene."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max enjoys the attention of the dining room staff, spinning wild tales about his fake career until he is suddenly reminded of his real responsibilities in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'finish eating' and 'dish' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Жерар Депардье доедает моё блюдо и говорит.', 'Gerard Depardieu finishes my dish and says.', [(136, 'доедает Депардье ему родоту и говорит.')], ''),
+    ('max', 'Жерар Депардье доедает моё блюдо и говорит.', 'Gerard Depardieu finishes my dish and says.', [(136, 'доедает Депардье ему родоту и говорит.')], ''),
     ('sasha', 'Неужели ему так сильно всё понравилось?', 'Did he really like everything so much?', [], ''),
-    ('anya', 'Он сказал, что это просто невероятно вкусно!', 'He said that it is simply incredibly tasty!', [(137, 'офигеть!')], ''),
+    ('max', 'Он сказал, что это просто невероятно вкусно!', 'He said that it is simply incredibly tasty!', [(137, 'офигеть!')], ''),
     ('sasha', 'Что, он прямо так тебе и сказал?', 'What, did he say it to you exactly like that?', [(139, 'Что, прям так и сказала?')], ''),
-    ('anya', 'Да, именно так, только на французском языке.', 'Yes, exactly like that, only in the French language.', [(140, 'Да. Ну, то по-французски.')], ''),
+    ('max', 'Да, именно так, только на французском языке.', 'Yes, exactly like that, only in the French language.', [(140, 'Да. Ну, то по-французски.')], ''),
     ('sasha', 'Какой же ты талантливый повар, Макс!', 'What a talented cook you are, Max!', [], ''),
-    ('anya', 'Такую вкусную еду не готовит даже мама!', 'Even a mother does not cook such tasty food!', [(138, 'Такой родоту не готовит даже моя мама!')], ''),
+    ('max', 'Такую вкусную еду не готовит даже мама!', 'Even a mother does not cook such tasty food!', [(138, 'Такой родоту не готовит даже моя мама!')], ''),
     ('sasha', 'Вы с ним теперь хорошие друзья?', 'Are you now good friends with him?', [], ''),
-    ('anya', 'С тех пор мы с Жераром дружим.', 'Since then Gerard and I are friends.', [(141, 'С тех пор мы с Жераром дружим.')], ''),
+    ('max', 'С тех пор мы с Жераром дружим.', 'Since then Gerard and I are friends.', [(141, 'С тех пор мы с Жераром дружим.')], ''),
     ('sasha', 'Расскажи нам ещё что-нибудь интересное, пожалуйста!', 'Tell us something else interesting, please!', [(145, 'расскажите еще что-нибудь там?')], ''),
-    ('anya', 'С большим удовольствием, милые дамы.', 'With great pleasure, lovely ladies.', [(143, 'дамы'), (146, 'Удовольствие.')], ''),
-    ('anya', 'Однажды, когда я работал в Париже...', 'Once, when I worked in Paris...', [(146, 'Как-то раз в Париже.')], ''),
+    ('max', 'С большим удовольствием, милые дамы.', 'With great pleasure, lovely ladies.', [(143, 'дамы'), (146, 'Удовольствие.')], ''),
+    ('max', 'Однажды, когда я работал в Париже...', 'Once, when I worked in Paris...', [(146, 'Как-то раз в Париже.')], ''),
     ('sasha', 'Какой чудесный и невероятно красивый город!', 'What a wonderful and incredibly beautiful city!', [], ''),
-    ('anya', 'Ой, прошу прощения, мне пора бежать.', 'Oh, I beg your pardon, it is time for me to run.', [(147, 'Прошу прощения')], ''),
+    ('max', 'Ой, прошу прощения, мне пора бежать.', 'Oh, I beg your pardon, it is time for me to run.', [(147, 'Прошу прощения')], ''),
 ]
 WALK = [
     (0, None, "'Gerard Depardieu finishes my dish and says.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

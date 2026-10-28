@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 8
-TITLE = "Переезд  (Moving Out)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Переезд  (Moving Out)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Max tells Vika that he moved out, but their conversation quickly turns into an argument. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Moving Out line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max talks about moving out. Next time you watch the episode, listen for the Russian expressions for 'to have a talk' and 'to beg' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Ну что? Поговорил с Костей?', 'Well? Did you talk to Kostya?', [(156, 'Ну что? Поговорил с Костей?')], ''),
-    ('anya', 'Да, он умоляет меня не переезжать.', 'Yes, he begs me not to move.', [], ''),
+    ('max', 'Да, он умоляет меня не переезжать.', 'Yes, he begs me not to move.', [], ''),
     ('vika', 'Почему он так сильно этого не хочет?', 'Why does he strongly not want this?', [], ''),
-    ('anya', 'У него сейчас с деньгами проблема.', 'He has a problem with money now.', [], ''),
+    ('max', 'У него сейчас с деньгами проблема.', 'He has a problem with money now.', [], ''),
     ('vika', 'Но ты все-таки решился и съехал.', 'But you still decided and moved out.', [], ''),
-    ('anya', 'Да так быстро, что я забыл бумажник.', 'Yes so fast that I forgot the wallet.', [], ''),
+    ('max', 'Да так быстро, что я забыл бумажник.', 'Yes so fast that I forgot the wallet.', [], ''),
     ('vika', 'И где ты живешь?', 'And where do you live?', [], ''),
-    ('anya', 'Пока нигде.', 'Nowhere for now.', [], ''),
+    ('max', 'Пока нигде.', 'Nowhere for now.', [], ''),
     ('vika', 'То есть лучше нигде, чем со мной?', 'So better nowhere than with me?', [], ''),
-    ('anya', 'Ну ладно, давай к тебе приеду.', 'Well alright, let me come to you.', [], ''),
+    ('max', 'Ну ладно, давай к тебе приеду.', 'Well alright, let me come to you.', [], ''),
     ('vika', 'Нет, мне одолжение делать не надо.', 'No, you do not need to do me a favor.', [], ''),
-    ('anya', 'То есть ты не приедешь?', 'So you will not come?', [], ''),
+    ('max', 'То есть ты не приедешь?', 'So you will not come?', [], ''),
     ('vika', 'Ты пойми, важно, чтобы мы хотели.', 'You understand, it is important that we want.', [], ''),
 ]
 WALK = [

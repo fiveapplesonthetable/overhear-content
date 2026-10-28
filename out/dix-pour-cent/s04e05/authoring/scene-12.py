@@ -7,7 +7,6 @@ SCENE = 12
 TITLE = 'Trop de pas  (Too Many Steps)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'bernard': 'theo', 'sigourney': 'emilie'}
 LABELS = {'bernard': 'Bernard', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'

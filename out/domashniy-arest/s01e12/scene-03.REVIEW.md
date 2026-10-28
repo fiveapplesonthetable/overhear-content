@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Профессор | Эта стена — наш главный исторический памятник. | This wall is our main historical monument. | #40 00:05:18: Эта стена – это настоящий памятник | adapted: adapted |
-| 2 | Профессор | Она осталась от древнего монастыря. | It remained from an ancient monastery. | #41 00:05:21: осталось от сожженного татарами монастыря | adapted: adapted |
-| 3 | Профессор | Здесь была написана великая летопись. | A great chronicle was written here. | #39 00:04:49: подлинник повести временных лет | adapted: adapted |
-| 4 | Профессор | Каждый студент должен помнить историю. | Every student must remember history. | #42 00:05:25: привожу своих студентов | adapted: adapted |
-| 5 | Профессор | Что вы здесь делаете, гражданин? | What are you doing here, citizen? | #50 00:05:56: Вы что здесь делаете | verbatim |
-| 6 | Строитель | Я собираюсь сносить эту старую стену. | I am going to demolish this old wall. | #53 00:06:02: Стену сносить буду | adapted: adapted |
-| 7 | Профессор | Как вы можете разрушать историю? | How can you destroy history? | #56 00:06:09: Как строить? Да это же | adapted: adapted |
-| 8 | Строитель | Мы построим здесь большой торговый центр. | We will build a big shopping center here. | #55 00:06:06: Торговый центр тут буду строить | adapted: adapted |
-| 9 | Профессор | Это же наше национальное достояние! | This is our national heritage! | #57 00:06:11: Это же историческое достояние | adapted: adapted |
+| 1 | Профессор | Эта стена — наш главный исторический памятник. | This wall is our main historical monument. | #40: Эта стена – это настоящий памятник | adapted: adapted |
+| 2 | Профессор | Она осталась от древнего монастыря. | It remained from an ancient monastery. | #41: осталось от сожженного татарами монастыря | adapted: adapted |
+| 3 | Профессор | Здесь была написана великая летопись. | A great chronicle was written here. | #39: подлинник повести временных лет | adapted: adapted |
+| 4 | Аркадий | Каждый студент должен помнить историю. | Every student must remember history. | #42: привожу своих студентов | adapted: adapted |
+| 5 | Профессор | Что вы здесь делаете, гражданин? | What are you doing here, citizen? | #50: Вы что здесь делаете | verbatim |
+| 6 | Строитель | Я собираюсь сносить эту старую стену. | I am going to demolish this old wall. | #53: Стену сносить буду | adapted: adapted |
+| 7 | Профессор | Как вы можете разрушать историю? | How can you destroy history? | #56: Как строить? Да это же | adapted: adapted |
+| 8 | Строитель | Мы построим здесь большой торговый центр. | We will build a big shopping center here. | #55: Торговый центр тут буду строить | adapted: adapted |
+| 9 | Профессор | Это же наше национальное достояние! | This is our national heritage! | #57: Это же историческое достояние | adapted: adapted |
 | 10 | Строитель | У меня есть официальное разрешение на снос. | I have official permission for demolition. | new | new: new |
-| 11 | Строитель | Все ваши вопросы задавайте в мэрию! | Address all your questions to the mayor's office! | #60 00:06:16: все вопросы в мэрию | adapted: adapted |
-| 12 | Профессор | Это настоящий произвол городских властей! | This is true arbitrariness by city authorities! | #64 00:06:23: Беспредел | adapted: adapted |
-| 13 | Профессор | Мэр города разрушает наши памятники! | The city mayor is destroying our monuments! | #65 00:06:28: Мэр-вандал | adapted: adapted |
-| 14 | Строитель | Отойдите в сторону от техники! | Step aside away from the equipment! | #62 00:06:20: Вот идите, давайте | adapted: adapted |
+| 11 | Строитель | Все ваши вопросы задавайте в мэрию! | Address all your questions to the mayor's office! | #60: все вопросы в мэрию | adapted: adapted |
+| 12 | Профессор | Это настоящий произвол городских властей! | This is true arbitrariness by city authorities! | #64: Беспредел | adapted: adapted |
+| 13 | Профессор | Мэр города разрушает наши памятники! | The city mayor is destroying our monuments! | #65: Мэр-вандал | adapted: adapted |
+| 14 | Строитель | Отойдите в сторону от техники! | Step aside away from the equipment! | #62: Вот идите, давайте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

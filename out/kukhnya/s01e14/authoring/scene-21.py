@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 21
-TITLE = "Дегустатор  (The Taster)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Дегустатор  (The Taster)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina"}
-LABELS = {"nagiyev": "Нагиев"}
+LABELS = {'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "In the dining room, the French guest Jacques is singing La Marseillaise after drinking too much. Owner Dmitry Nagiyev steps in and announces that he will taste Max's dish himself. Let's listen to the scene in Russian first."
 OPENER = "Let's go through the Dmitry Nagiyev's announcement line by line."
 TRANSITION = "Now let's hear the whole scene once more from start to finish."
 OUTRO = 'With Jacques out of commission, Dmitry Nagiyev takes it upon himself to judge the dish. See you next time!'
-CLOSING = ("nagiyev", "До встречи!")
+CLOSING = ('nagiyev', 'До встречи!')
 STORY = [
     ('nagiyev', 'Гости громко исполняют Марсельезу.', 'The guests are loudly singing La Marseillaise.', [(302, 'Исполняют Марсельезу')], ''),
-    ('nagiyev', 'Кажется, наш французский гость устал.', 'It seems our French guest is tired.', [], ''),
+    ('vika', 'Кажется, наш французский гость устал.', 'It seems our French guest is tired.', [], ''),
     ('nagiyev', 'Давайте дружно извиним Жака.', 'Let us all forgive Jacques.', [(303, 'Давайте извиним Жак')], ''),
     ('nagiyev', 'Он, видимо, сегодня сильно накушался.', 'He apparently had too much today.', [(303, 'он, видимо'), (303, 'сильно накушался')], ''),
     ('nagiyev', 'Даже без нашего главного блюда.', 'Even without our main dish.', [(303, 'и без нашего блюда')], ''),
-    ('nagiyev', 'Он уже не может оценивать еду.', 'He can no longer judge the food.', [], ''),
+    ('vika', 'Он уже не может оценивать еду.', 'He can no longer judge the food.', [], ''),
     ('nagiyev', 'Поэтому он сейчас просто поёт.', 'That is why he is just singing right now.', [], ''),
     ('nagiyev', 'Ну что ж, дорогие друзья.', 'Well then, dear friends.', [(304, 'Ну что ж')], ''),
     ('nagiyev', 'Тогда главным дегустатором буду я.', 'Then I will be the main taster.', [(304, 'тогда дегустатором буду я')], ''),
     ('nagiyev', 'Я сам попробую это блюдо.', 'I will taste this dish myself.', [], ''),
-    ('nagiyev', 'Надеюсь, блюдо вам очень понравится.', 'I hope you will really like the dish.', [], ''),
+    ('vika', 'Надеюсь, блюдо вам очень понравится.', 'I hope you will really like the dish.', [], ''),
     ('nagiyev', 'Посмотрим, что приготовил наш повар.', 'Let us see what our chef cooked.', [], ''),
 ]
 WALK = [

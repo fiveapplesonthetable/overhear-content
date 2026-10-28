@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что вы здесь делаете, Марина Сергеевна? | What are you doing in here, Marina Sergeyevna? | #329 00:18:00: Что вы здесь делаете | adapted: cue 329 'женщина' replaced with her name and patronymic |
-| 2 | Марина | А я извиниться зашла. | I dropped in to apologise. | #330 00:18:04: А я извиниться зашла | verbatim |
-| 3 | Аня | За что это? | For what, exactly? | #331 00:18:05: За что это | verbatim |
-| 4 | Марина | Вчера я наговорила вам лишнего. | Yesterday I said too much to you. | #332 00:18:07: вчера наговорила вам лишнего | verbatim |
-| 5 | Аня | А, да. Вам должно быть стыдно. | Ah, yes. You ought to be ashamed. | #333 00:18:10: А, да. Вам должно быть стыдно | verbatim |
-| 6 | Марина | Мне не стыдно. Я пойду. | I'm not ashamed. I'll go. | #334 00:18:12: Не стыдно. Я пойду | adapted: 'Мне' added for clarity |
-| 7 | Аня | Стойте! Что вы делаете в моей комнате? Что-то моё взяли? | Stop! What are you doing in my room? Did you take something of mine? | #335 00:18:13: Стойте<br>#337 00:18:18: Что вы делаете в моей комнате<br>#338 00:18:19: Что-то мое взяли | verbatim |
-| 8 | Аня | Ну, покажите руки. Что у вас за спиной? | Well, show me your hands. What is behind your back? | #339 00:18:21: Ну, покажите руки<br>#341 00:18:22: Что у вас за спиной | verbatim |
-| 9 | Марина | Я ничего не брала. | I didn't take anything. | #342 00:18:24: Ничего не брала | adapted: 'Я' added |
-| 10 | Аня | Покажите правую руку! Ну? | Show me your right hand! Well? | #343 00:18:24: Покажите<br>#345 00:18:26: Правую руку<br>#347 00:18:29: Ну | verbatim |
-| 11 | Аня | Ага! Вот оно в чём дело. | Aha! So that's what this is about. | #348 00:18:40: Вот оно в чем дело | adapted: 'Ага!' added as he sees the small foil packet in her hand |
-| 12 | Марина | Да нет, это не то, что вы подумали! | No, it isn't what you thought! | #349 00:18:42: Да нет, это не то, что вы подумали | verbatim |
-| 13 | Аня | А что тут думать? Всё понятно. | What is there to think about? Everything is clear. | #350 00:18:46: А что тут думать<br>#351 00:18:49: Все понятно | verbatim |
-| 14 | Аня | Я рад вам помочь. Но вы, к сожалению, не в моём вкусе. | I would be glad to help you. But unfortunately you are not my type. | #354 00:18:57: рад вам помочь<br>#355 00:19:05: К сожалению, вы не в моем вкусе | adapted: crude lines 352 and 356-357 dropped; second half of 354 replaced by 355 |
-| 15 | Аня | К сожалению, я занят. Ко мне Мишкин пришёл. Дела! | Unfortunately, I'm busy. Mishkin has come to see me. Business! | #355 00:19:05: К сожалению<br>#359 00:19:17: ко мне Мишкин пришел<br>#361 00:19:20: Дела | adapted: clean pompous refusal closing the scene |
+| 1 | Аркадий | Что вы здесь делаете, Марина Сергеевна? | What are you doing in here, Marina Sergeyevna? | #329: Что вы здесь делаете | adapted: cue 329 'женщина' replaced with her name and patronymic |
+| 2 | Марина | А я извиниться зашла. | I dropped in to apologise. | #330: А я извиниться зашла | verbatim |
+| 3 | Аркадий | За что это? | For what, exactly? | #331: За что это | verbatim |
+| 4 | Марина | Вчера я наговорила вам лишнего. | Yesterday I said too much to you. | #332: вчера наговорила вам лишнего | verbatim |
+| 5 | Аркадий | А, да. Вам должно быть стыдно. | Ah, yes. You ought to be ashamed. | #333: А, да. Вам должно быть стыдно | verbatim |
+| 6 | Марина | Мне не стыдно. Я пойду. | I'm not ashamed. I'll go. | #334: Не стыдно. Я пойду | adapted: 'Мне' added for clarity |
+| 7 | Аркадий | Стойте! Что вы делаете в моей комнате? Что-то моё взяли? | Stop! What are you doing in my room? Did you take something of mine? | #335: Стойте<br>#337: Что вы делаете в моей комнате<br>#338: Что-то мое взяли | verbatim |
+| 8 | Аркадий | Ну, покажите руки. Что у вас за спиной? | Well, show me your hands. What is behind your back? | #339: Ну, покажите руки<br>#341: Что у вас за спиной | verbatim |
+| 9 | Марина | Я ничего не брала. | I didn't take anything. | #342: Ничего не брала | adapted: 'Я' added |
+| 10 | Аркадий | Покажите правую руку! Ну? | Show me your right hand! Well? | #343: Покажите<br>#345: Правую руку<br>#347: Ну | verbatim |
+| 11 | Аркадий | Ага! Вот оно в чём дело. | Aha! So that's what this is about. | #348: Вот оно в чем дело | adapted: 'Ага!' added as he sees the small foil packet in her hand |
+| 12 | Марина | Да нет, это не то, что вы подумали! | No, it isn't what you thought! | #349: Да нет, это не то, что вы подумали | verbatim |
+| 13 | Аркадий | А что тут думать? Всё понятно. | What is there to think about? Everything is clear. | #350: А что тут думать<br>#351: Все понятно | verbatim |
+| 14 | Аркадий | Я рад вам помочь. Но вы, к сожалению, не в моём вкусе. | I would be glad to help you. But unfortunately you are not my type. | #354: рад вам помочь<br>#355: К сожалению, вы не в моем вкусе | adapted: crude lines 352 and 356-357 dropped; second half of 354 replaced by 355 |
+| 15 | Аркадий | К сожалению, я занят. Ко мне Мишкин пришёл. Дела! | Unfortunately, I'm busy. Mishkin has come to see me. Business! | #355: К сожалению<br>#359: ко мне Мишкин пришел<br>#361: Дела | adapted: clean pompous refusal closing the scene |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

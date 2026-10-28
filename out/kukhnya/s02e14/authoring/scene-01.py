@@ -1,52 +1,47 @@
+# Authoring module for kukhnya-s02e14-scene-01.
 ID = 'kukhnya-s02e14-scene-01'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 1
-TITLE = "Возвращение старого официанта  (Return of the Former Waiter)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Возвращение старого официанта  (Return of the Former Waiter)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
-LABELS = {"senya": "Сеня", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'senya': 'Сеня', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
 SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
-
 INTRO = 'At Claude Monet, Max muses on the strange laws of the universe that bring people from the past back into our lives. Right on cue, handsome former waiter Ilya walks into the kitchen and greets the veterans while waiting to ask Vika for his old job back.'
-
-STORY = [
-    ('chef', 'Не знаю, по каким законам вселенная это работает.', 'I do not know by what laws of the universe this works.', [(1, 'Не знаю, по каким законам вселенная это работает')], ''),
-    ('senya', 'Как тебе казалось.', 'Just as it seemed to you.', [(3, 'как тебе казалось')], ''),
-    ('senya', 'Возвращается жизнь, которую ты мог потерять.', 'The life you could have lost comes back to you.', [(4, 'Возвращается жизнь, которую ты мог потерять')], ''),
-    ('chef', 'Но иногда случается возвращение.', 'But sometimes a return happens.', [(6, 'Но иногда случается возвращение')], ''),
-    ('senya', 'Ты что, новенький, что ли?', 'Are you a new guy here or what?', [(7, 'Ты что, новенький, что ли')], ''),
-    ('senya', 'А вот!', 'Here you go!', [(9, 'А вот')], ''),
-    ('chef', 'Сеня, фрикасе по готовности.', 'Senya, how is the fricassee coming along.', [(10, 'Сеня, фрикасе по готовности')], ''),
-    ('senya', 'А это кто?', 'Wait, who is that?', [(12, 'А это кто')], ''),
-    ('senya', 'Раньше у нас официантом работал.', 'He used to work here as a waiter.', [(13, 'Раньше у нас официантом работал')], ''),
-    ('chef', 'Мне почти как сын был.', 'He was almost like a son to me.', [(14, 'Мне почти как сын был')], ''),
-    ('senya', 'Не как ты.', 'Not like you.', [(15, 'не как ты')], ''),
-    ('senya', 'Виктория Сергеевна возьмет меня назад?', 'Will Viktoriya Sergeyevna take me back?', [(16, 'Виктория Сергеевна возьмет меня назад')], ''),
-    ('chef', 'Как ты ушел.', 'Ever since you left.', [(18, 'как ты ушел')], ''),
-]
-
 OPENER = "Now let's break down each line of their conversation."
-
-WALK = [
-    (0, None, "'I do not know by what laws of the universe this works.' The negative particle sits right before the verb meaning 'know' to negate the statement. Vika answers right away."),
-    (1, None, "'Just as it seemed to you.' The grammar packs 'how' and 'to seem' into a tight, idiomatic kitchen exchange."),
-    (2, None, "'The life you could have lost comes back to you.' The meaning hinges on 'comes back' working together with 'to lose' in spoken Russian."),
-    (3, None, "'But sometimes a return happens.' Notice how Russian expresses 'but' and 'return' with crisp inflection rather than helper words. Vika answers right away."),
-    (4, None, "'Are you a new guy here or what?' Here the Russian phrasing highlights 'you' before landing on 'really'."),
-    (5, None, "'Here you go!' Senya keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
-    (6, None, "'Senya, how is the fricassee coming along.' Spoken Russian keeps this brisk, leaning on 'Senya' and finishing on 'readiness'. Vika answers right away."),
-    (7, None, "'Wait, who is that?' The meaning hinges on 'and' working together with 'who' in spoken Russian."),
-    (8, None, "'He used to work here as a waiter.' Spoken Russian keeps this brisk, leaning on 'before' and finishing on 'worked'."),
-    (9, None, "'He was almost like a son to me.' The '-l' ending on the verb meaning 'there was' places the action in the masculine past tense. Vika answers right away."),
-    (10, None, "'Not like you.' The grammar packs 'not' and 'you' into a tight, idiomatic kitchen exchange."),
-    (11, None, "'Will Viktoriya Sergeyevna take me back?' Senya brings out the contrast between 'Viktoriya' and 'Sergeyevna' in a few short words."),
-    (12, None, "'Ever since you left.' The meaning hinges on 'how' working together with 'left' in spoken Russian."),
-]
-
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
 OUTRO = 'That wraps up this scene as max reflects on how people from the past suddenly return just as former waiter Ilya walks into Claude Monet hoping Vika will hire him back. Until next time!'
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
+STORY = [
+    ('barinov', 'Не знаю, по каким законам вселенная это работает.', 'I do not know by what laws of the universe this works.', [(1, 'Не знаю, по каким законам вселенная это работает')], ''),
+    ('vika', 'Как тебе казалось.', 'Just as it seemed to you.', [(3, 'как тебе казалось')], ''),
+    ('senya', 'Возвращается жизнь, которую ты мог потерять.', 'The life you could have lost comes back to you.', [(4, 'Возвращается жизнь, которую ты мог потерять')], ''),
+    ('barinov', 'Но иногда случается возвращение.', 'But sometimes a return happens.', [(6, 'Но иногда случается возвращение')], ''),
+    ('vika', 'Ты что, новенький, что ли?', 'Are you a new guy here or what?', [(7, 'Ты что, новенький, что ли')], ''),
+    ('senya', 'А вот!', 'Here you go!', [(9, 'А вот')], ''),
+    ('barinov', 'Сеня, фрикасе по готовности.', 'Senya, how is the fricassee coming along.', [(10, 'Сеня, фрикасе по готовности')], ''),
+    ('vika', 'А это кто?', 'Wait, who is that?', [(12, 'А это кто')], ''),
+    ('senya', 'Раньше у нас официантом работал.', 'He used to work here as a waiter.', [(13, 'Раньше у нас официантом работал')], ''),
+    ('barinov', 'Мне почти как сын был.', 'He was almost like a son to me.', [(14, 'Мне почти как сын был')], ''),
+    ('vika', 'Не как ты.', 'Not like you.', [(15, 'не как ты')], ''),
+    ('senya', 'Виктория Сергеевна возьмет меня назад?', 'Will Viktoriya Sergeyevna take me back?', [(16, 'Виктория Сергеевна возьмет меня назад')], ''),
+    ('barinov', 'Как ты ушел.', 'Ever since you left.', [(18, 'как ты ушел')], ''),
+]
+WALK = [
+    (0, None, "'I do not know by what laws of the universe this works.' Pointing out that he does not know by what laws of the universe this works gives Senya a sobering reality check."),
+    (1, None, '\'Just as it seemed to you.\' With the room and kitchen in play, Vika keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (2, None, '\'The life you could have lost comes back to you.\' Realizing that the life Barinov could have lost comes back to Barinov changes how Senya handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (3, None, "'But sometimes a return happens.' Noting that sometimes a return happens keeps Barinov's side of the story simple and clear."),
+    (4, None, '\'Are you a new guy here or what?\' Here checking whether Barinov a new guy here shows Vika looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (5, None, "'Here you go!' Senya declares that here Barinov goes as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (6, None, "'Senya, how is the fricassee coming along.' Saying that how is the fricassee coming along is how Barinov sets the tone with Senya."),
+    (7, None, '\'Wait, who is that?\' With the shift and kitchen hanging in the air, Vika puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (8, None, '\'He used to work here as a waiter.\' Adding that he used to work here as a waiter fills in the missing piece for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (9, None, "'He was almost like a son to me.' Barinov tells Senya that he was almost like a son to him without dressing it up."),
+    (10, None, '\'Not like you.\' Between the kitchen and the job, Vika gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (11, None, '\'Will Viktoriya Sergeyevna take me back?\' Checking whether Viktoriya Sergeyevna take him back is how Senya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (12, None, "'Ever since you left.' Barinov reminds Senya that ever since Senya left before the moment passes."),
+]

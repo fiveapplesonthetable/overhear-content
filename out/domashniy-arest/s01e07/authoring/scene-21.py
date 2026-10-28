@@ -1,33 +1,35 @@
-# domashniy-arest/s01e07/scene-21.py
-ID = "domashniy-arest-s01e07-scene-21"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-21.
+ID = 'domashniy-arest-s01e07-scene-21'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 21
-TITLE = "Как вы кашу будете варить?  (How Are You Going to Cook Porridge?)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.07"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "marina": "angelina", "anya": "alisa", "dean": "anja"}
-LABELS = {"marina": "Марина", "anya": "Аркадий", "dean": "Эдуард Владимирович"}
-INTRO = "Now in the communal kitchen, Marina and Eduard walk in to find Arkady dumping dry rice and milk everywhere with his two plaster casts. Listen to the Russian first, and do not worry about catching every word."
-STORY = [
-    ("marina", "Боже! Что вы тут делаете?", "Good lord! What are you doing here?", [(801, 'Боже'), (802, 'Что вы'), (802, 'делаете')], ""),
-    ("marina", "Как вы кашу готовить будете? Дайте сюда!", "How are you going to cook porridge? Give it here!", [(803, 'Как вы кашу'), (803, 'будете'), (804, 'Дайте сюда')], "ASR 'к этому' -> 'готовить'"),
-    ("dean", "Что это такое? Это просто кошмар!", "What is this? This is simply a nightmare!", [(805, 'Что это такое'), (811, 'Кошмар')], ""),
-    ("marina", "Аркадий Борисович, дайте пакет сюда.", "Arkady Borisovich, give the packet here.", [(806, 'Дайте сюда')], ""),
-    ("anya", "Я не могу. И рис в глаза попал!", "I cannot. And rice got into my eyes!", [(807, 'Я не могу'), (808, 'в глаза попал')], "ASR 'Ирис' restored to 'И рис'"),
-    ("anya", "Простите, я сейчас приберу. Я всё сам приберу!", "Forgive me, I will clean up now. I will clean everything up myself!", [(809, 'Простите, я приберу'), (810, 'Я все приберу')], ""),
-    ("dean", "Подожди, Марина. Оставь это всё в покое.", "Wait, Marina. Leave all of this alone.", [(812, 'Подожди, Марина'), (813, 'Оставь это все в покое')], ""),
-    ("dean", "Сейчас нужно вызвать социальную службу. Они всё сделают.", "Right now we need to call social services. They will do everything.", [(814, 'Сейчас нужно вызвать социальную службу'), (815, 'Они все сделают')], ""),
-    ("marina", "Что вы опять делаете? Осторожно, там молоко!", "What are you doing again? Careful, there is milk there!", [(816, 'Что вы делаете'), (821, 'Осторожно')], ""),
-    ("anya", "Ой, я падаю! Помогите мне!", "Oh, I am falling! Help me!", [], "new A1 line for cue 818 as Arkady slips on the spilled milk and rice"),
-    ("dean", "Смотри, не трогай его! Его сейчас нельзя трогать.", "Look, do not touch him! One must not touch him right now.", [(817, 'Смотри'), (819, 'Его нельзя трогать')], "ASR 'если слова поддаваете' dropped"),
-    ("anya", "Не трогайте меня так! Поднимите меня скорее!", "Do not touch me like that! Help me up quickly!", [(820, 'Не трогайте меня, поднимите меня скорее')], ""),
-    ("marina", "Держитесь, Аркадий Борисович! Осторожно!", "Hold on, Arkady Borisovich! Careful!", [(821, 'Осторожно')], ""),
-]
+TITLE = 'Как вы кашу будете варить?  (How Are You Going to Cook Porridge?)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'dean': 'Эдуард Владимирович', 'marina': 'Марина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.07'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
+INTRO = 'Now in the communal kitchen, Marina and Eduard walk in to find Arkady dumping dry rice and milk everywhere with his two plaster casts. Listen to the Russian first, and do not worry about catching every word.'
 OPENER = "Let's step into the kitchen and unpack each line."
+TRANSITION = "Let's hear the whole kitchen disaster once more."
+OUTRO = 'While Marina and Eduard haul Arkady off the milk-soaked floor, Samsonov and his family are heading out to the snowy forest for their winter barbecue. See you next time!'
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('marina', 'Боже! Что вы тут делаете?', 'Good lord! What are you doing here?', [(801, 'Боже'), (802, 'Что вы'), (802, 'делаете')], ''),
+    ('marina', 'Как вы кашу готовить будете? Дайте сюда!', 'How are you going to cook porridge? Give it here!', [(803, 'Как вы кашу'), (803, 'будете'), (804, 'Дайте сюда')], "ASR 'к этому' -> 'готовить'"),
+    ('dean', 'Что это такое? Это просто кошмар!', 'What is this? This is simply a nightmare!', [(805, 'Что это такое'), (811, 'Кошмар')], ''),
+    ('marina', 'Аркадий Борисович, дайте пакет сюда.', 'Arkady Borisovich, give the packet here.', [(806, 'Дайте сюда')], ''),
+    ('arkady', 'Я не могу. И рис в глаза попал!', 'I cannot. And rice got into my eyes!', [(807, 'Я не могу'), (808, 'в глаза попал')], "ASR 'Ирис' restored to 'И рис'"),
+    ('arkady', 'Простите, я сейчас приберу. Я всё сам приберу!', 'Forgive me, I will clean up now. I will clean everything up myself!', [(809, 'Простите, я приберу'), (810, 'Я все приберу')], ''),
+    ('dean', 'Подожди, Марина. Оставь это всё в покое.', 'Wait, Marina. Leave all of this alone.', [(812, 'Подожди, Марина'), (813, 'Оставь это все в покое')], ''),
+    ('dean', 'Сейчас нужно вызвать социальную службу. Они всё сделают.', 'Right now we need to call social services. They will do everything.', [(814, 'Сейчас нужно вызвать социальную службу'), (815, 'Они все сделают')], ''),
+    ('marina', 'Что вы опять делаете? Осторожно, там молоко!', 'What are you doing again? Careful, there is milk there!', [(816, 'Что вы делаете'), (821, 'Осторожно')], ''),
+    ('arkady', 'Ой, я падаю! Помогите мне!', 'Oh, I am falling! Help me!', [], 'new A1 line for cue 818 as Arkady slips on the spilled milk and rice'),
+    ('dean', 'Смотри, не трогай его! Его сейчас нельзя трогать.', 'Look, do not touch him! One must not touch him right now.', [(817, 'Смотри'), (819, 'Его нельзя трогать')], "ASR 'если слова поддаваете' dropped"),
+    ('arkady', 'Не трогайте меня так! Поднимите меня скорее!', 'Do not touch me like that! Help me up quickly!', [(820, 'Не трогайте меня, поднимите меня скорее')], ''),
+    ('marina', 'Держитесь, Аркадий Борисович! Осторожно!', 'Hold on, Arkady Borisovich! Careful!', [(821, 'Осторожно')], ''),
+]
 WALK = [
     (0, 'Боже!', "'Good lord!' Marina gasps as she sees the state of the communal kitchen."),
     (0, 'Что вы тут делаете?', "'What are you doing here?' Rice and milk are scattered all over the stove and floor."),
@@ -54,6 +56,3 @@ WALK = [
     (11, 'Поднимите меня скорее!', "'Lift me up quickly!' The comparative adverb means 'more quickly' or 'right away'."),
     (12, None, "'Hold on, Arkady Borisovich! Careful!' Together they struggle to get the mayor back on his feet."),
 ]
-TRANSITION = "Let's hear the whole kitchen disaster once more."
-OUTRO = "While Marina and Eduard haul Arkady off the milk-soaked floor, Samsonov and his family are heading out to the snowy forest for their winter barbecue. See you next time!"
-CLOSING = ("anya", "Пока!")

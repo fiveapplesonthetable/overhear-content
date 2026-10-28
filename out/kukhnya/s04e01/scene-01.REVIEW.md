@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я по-прежнему работаю поваром. | I still work as a cook. | #1 00:00:35: я по-прежнему работаю поваром | verbatim |
-| 2 | Аня | Мы недавно вернулись из Парижа. | We recently returned from Paris. | #2 00:00:40: недавно мы вернулись из Парижа | verbatim |
-| 3 | Аня | Я наконец-то сделал Вике предложение. | I finally proposed to Vika. | #4 00:00:49: я наконец-то сделал Вике предложение | verbatim |
-| 4 | Аня | Мы вернулись в Россию и поженились. | We returned to Russia and got married. | #5 00:00:54: Мы вернулись в Россию и поженились. | verbatim |
-| 5 | Аня | У нас идеальная семья. | We have an ideal family. | #6 00:00:58: у нас идеальная | verbatim |
-| 6 | Вика | Вика! Ты вообще меня не слушаешь? | Wait, are you not listening to me at all? | #8 00:01:18: Ты вообще меня не слушаешь? | verbatim |
-| 7 | Вика | Или я для тебя пустое место? | Or am I invisible to you? | #9 00:01:20: Или я для тебя пустое место? | verbatim |
-| 8 | Аня | Я раскрыл секрет семейной жизни. | I discovered the secret of married life. | #12 00:01:30: я раскрыл секрет | verbatim |
-| 9 | Вика | Я что, со стеной разговариваю? | Am I talking to a wall? | #13 00:01:35: Я что, со стеной разговариваю? | verbatim |
-| 10 | Аня | Вика, ты что-то хотела сказать? | Vika, did you want to say something? | #20 00:01:59: Вика, ты что-то хотела сказать? | verbatim |
-| 11 | Вика | Да нет, ничего. | No, nothing at all. | #21 00:02:05: Да нет, ничего. | verbatim |
-| 12 | Вика | Не важно. | It does not matter. | #22 00:02:10: Не важно. | verbatim |
+| 1 | Макс | Я по-прежнему работаю поваром. | I still work as a cook. | #1: я по-прежнему работаю поваром | verbatim |
+| 2 | Макс | Мы недавно вернулись из Парижа. | We recently returned from Paris. | #2: недавно мы вернулись из Парижа | verbatim |
+| 3 | Макс | Я наконец-то сделал Вике предложение. | I finally proposed to Vika. | #4: я наконец-то сделал Вике предложение | verbatim |
+| 4 | Макс | Мы вернулись в Россию и поженились. | We returned to Russia and got married. | #5: Мы вернулись в Россию и поженились. | verbatim |
+| 5 | Макс | У нас идеальная семья. | We have an ideal family. | #6: у нас идеальная | verbatim |
+| 6 | Вика | Вика! Ты вообще меня не слушаешь? | Wait, are you not listening to me at all? | #8: Ты вообще меня не слушаешь? | verbatim |
+| 7 | Вика | Или я для тебя пустое место? | Or am I invisible to you? | #9: Или я для тебя пустое место? | verbatim |
+| 8 | Макс | Я раскрыл секрет семейной жизни. | I discovered the secret of married life. | #12: я раскрыл секрет | verbatim |
+| 9 | Вика | Я что, со стеной разговариваю? | Am I talking to a wall? | #13: Я что, со стеной разговариваю? | verbatim |
+| 10 | Макс | Вика, ты что-то хотела сказать? | Vika, did you want to say something? | #20: Вика, ты что-то хотела сказать? | verbatim |
+| 11 | Вика | Да нет, ничего. | No, nothing at all. | #21: Да нет, ничего. | verbatim |
+| 12 | Вика | Не важно. | It does not matter. | #22: Не важно. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I still work as a cook.' Notice how Russian puts 'still, as before' and 'as a cook' together in a short, direct phrase where word endings show how the ideas connect.
-- 'We recently returned from Paris.' Here Max anchors the thought on 'returned' and finishes on 'paris', keeping the spoken rhythm brisk and natural.
-- 'I finally proposed to Vika.' In everyday Russian, 'at last, finally' flows straight into 'offer, proposal; sentence' without extra linking words.
-- 'We returned to Russia and got married.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'We have an ideal family.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Wait, are you not listening to me at all?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Or am I invisible to you?' Vika uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'I discovered the secret of married life.' Max pairs 'to solve, to uncover' with 'life' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Am I talking to a wall?' Notice how Russian puts 'wall' and 'to talk, to speak' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Vika, did you want to say something?' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'No, nothing at all.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
-- 'It does not matter.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'I still work as a cook.' Mentioning that he still works as a cook moves the talk in a new direction.
+- 'We recently returned from Paris.' Turning from the family to the work, Max keeps the exchange moving.
+- 'I finally proposed to Vika.' Over the news and the family, Max answers Vika without a second thought.
+- 'We returned to Russia and got married.' Explaining that they returned to Russia and got married lays the cards on the table for Vika.
+- 'We have an ideal family.' Max mentions that they have an ideal family so Vika sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Wait, are you not listening to me at all?' Checking whether Max not listening to her at all cuts straight through the tension between Vika and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Or am I invisible to you?' Over the family and the news, Vika presses Max for a straight answer.
+- 'I discovered the secret of married life.' Over the news and the work, Max answers Vika without a second thought.
+- 'Am I talking to a wall?' With the family and news hanging in the air, Vika puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Vika, did you want to say something?' Checking whether Vika wants to say something is how Max puts Vika on the spot.
+- 'No, nothing at all.' Around the secret and exchange, Vika sets a calm, everyday tone with Max.
+- 'It does not matter.' Admitting that it does not matter shows Vika being honest for a change.

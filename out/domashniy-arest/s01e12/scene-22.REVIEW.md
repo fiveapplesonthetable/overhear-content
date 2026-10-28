@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Юрист | Повреждение старинных памятников строго запрещено законом. | Damaging ancient monuments is strictly forbidden by law. | #541 00:47:15: Порчи исторического наследия | verbatim |
-| 2 | Кристиан | Что теперь будет с этим старым зданием? | What will happen to this old building now? | #541 00:47:15: исторического наследия | verbatim |
-| 3 | Юрист | За порчу исторического наследия грозит реальная тюрьма. | For damaging historical heritage, real prison threatens. | #541 00:47:15: Порчи исторического наследия<br>#542 00:47:18: Это тюрьма | verbatim |
-| 4 | Кристиан | Неужели людей правда могут посадить в тюрьму? | Can people really be put in prison? | #542 00:47:18: Это тюрьма | verbatim |
-| 5 | Юрист | Да, закон очень сурово защищает культуру. | Yes, the law protects culture very strictly. | #541 00:47:15: исторического наследия | verbatim |
-| 6 | Кристиан | Я очень сильно беспокоюсь о наших проектах. | I worry very much about our projects. | #543 00:47:20: Ничего, Кристиан | verbatim |
-| 7 | Юрист | Не волнуйся, Кристиан, мы во всём разберёмся. | Do not worry, Christian, we will sort everything out. | #543 00:47:20: Ничего, Кристиан | verbatim |
-| 8 | Кристиан | Мы должны строго соблюдать все правила безопасности. | We must strictly follow all safety rules. | #541 00:47:15: исторического наследия | verbatim |
-| 9 | Юрист | Эксперты уже начали проверку состояния старой стены. | Experts have already begun checking the condition of the old wall. | #541 00:47:15: исторического наследия | verbatim |
-| 10 | Кристиан | Главное сохранить этот уникальный древний монастырь. | The main thing is to preserve this unique ancient monastery. | #541 00:47:15: исторического наследия | verbatim |
-| 11 | Юрист | Полиция уже контролирует всю территорию вокруг. | The police are already controlling the entire territory around. | #542 00:47:18: Это тюрьма | verbatim |
-| 12 | Кристиан | Тогда я могу спокойно продолжать свою работу. | Then I can calmly continue my work. | #543 00:47:20: Ничего, Кристиан | verbatim |
-| 13 | Юрист | Да, идём в кабинет и оформим документы. | Yes, let us go into the office and prepare the documents. | #543 00:47:20: Ничего | verbatim |
+| 1 | Юрист | Повреждение старинных памятников строго запрещено законом. | Damaging ancient monuments is strictly forbidden by law. | #541: Порчи исторического наследия | verbatim |
+| 2 | Кристиан | Что теперь будет с этим старым зданием? | What will happen to this old building now? | #541: исторического наследия | verbatim |
+| 3 | Юрист | За порчу исторического наследия грозит реальная тюрьма. | For damaging historical heritage, real prison threatens. | #541: Порчи исторического наследия<br>#542: Это тюрьма | verbatim |
+| 4 | Кристиан | Неужели людей правда могут посадить в тюрьму? | Can people really be put in prison? | #542: Это тюрьма | verbatim |
+| 5 | Юрист | Да, закон очень сурово защищает культуру. | Yes, the law protects culture very strictly. | #541: исторического наследия | verbatim |
+| 6 | Кристиан | Я очень сильно беспокоюсь о наших проектах. | I worry very much about our projects. | #543: Ничего, Кристиан | verbatim |
+| 7 | Юрист | Не волнуйся, Кристиан, мы во всём разберёмся. | Do not worry, Christian, we will sort everything out. | #543: Ничего, Кристиан | verbatim |
+| 8 | Кристиан | Мы должны строго соблюдать все правила безопасности. | We must strictly follow all safety rules. | #541: исторического наследия | verbatim |
+| 9 | Юрист | Эксперты уже начали проверку состояния старой стены. | Experts have already begun checking the condition of the old wall. | #541: исторического наследия | verbatim |
+| 10 | Кристиан | Главное сохранить этот уникальный древний монастырь. | The main thing is to preserve this unique ancient monastery. | #541: исторического наследия | verbatim |
+| 11 | Юрист | Полиция уже контролирует всю территорию вокруг. | The police are already controlling the entire territory around. | #542: Это тюрьма | verbatim |
+| 12 | Кристиан | Тогда я могу спокойно продолжать свою работу. | Then I can calmly continue my work. | #543: Ничего, Кристиан | verbatim |
+| 13 | Юрист | Да, идём в кабинет и оформим документы. | Yes, let us go into the office and prepare the documents. | #543: Ничего | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

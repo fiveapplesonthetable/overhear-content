@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 19
-TITLE = "Проблемный гость  (A Difficult Guest)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Проблемный гость  (A Difficult Guest)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = 'At the bar in Claude Monet, Kostya tries to apologize to Nastya for their recent disagreement. Nastya is visibly stressed and explains that an influential restaurant critic at her table is bothering her, warning Kostya not to start a fight. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around A Difficult Guest line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "At the bar, Nastya confides to Kostya that an influential restaurant critic is harassing her at table, urging Kostya not to provoke him with a confrontation. Next time you watch the episode, listen for the Russian expressions for 'why' and 'guest' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, ну прости меня за вчерашнее.', 'Nastya, please forgive me for yesterday.', [(232, 'Ну, прости меня.')], ''),
     ('nastya', 'Костя, сейчас вообще не до этого.', 'Kostya, now is really not the time.', [(233, 'Костя, давай потом поговорим, ладно?'), (234, 'Сейчас вообще не до этого.')], ''),
@@ -34,11 +33,11 @@ STORY = [
 WALK = [
     (0, None, "'Nastya, please forgive me for yesterday.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
     (1, None, "'Kostya, now is really not the time.' — colloquial negative idiom expressing inappropriate timing."),
-    (2, None, "'I have a difficult guest at the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Worse. He is constantly bothering me.' — comparative adverb paired with a verb of unwelcome attention."),
-    (4, None, "'What? I will go sort it out right now!' — interjection followed by future verbs of intention."),
-    (5, None, "'Kostya, stop! Do not go there.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'This man is an important restaurant critic.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (7, None, "'He can write a terrible article.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Make the order faster, I will go to the hall.' — compound sentence with command form and future motion. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (3, None, "'I have a difficult guest at the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'Worse. He is constantly bothering me.' — comparative adverb paired with a verb of unwelcome attention."),
+    (6, None, "'What? I will go sort it out right now!' — interjection followed by future verbs of intention."),
+    (7, None, "'Kostya, stop! Do not go there.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (9, None, "'This man is an important restaurant critic.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (11, None, "'He can write a terrible article.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (12, None, "'Make the order faster, I will go to the hall.' — compound sentence with command form and future motion. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]

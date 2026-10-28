@@ -7,21 +7,20 @@ SCENE = 21
 TITLE = "Le visage de Gabriel  (Gabriel's Face)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the quiet hallway of ASK, Andrea Martel confronts Gabriel Sarda about his behind-the-scenes deal with rival agent Elise Formain. Pushing back against Andrea's accusations, Gabriel passionately defends his choices as the agency faces inevitable dissolution. Let's listen to their confrontation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
 OUTRO = "In the fading halls of ASK, Gabriel and Andrea lay bare their fears and loyalty to one another. When you watch the episode, listen out for the expressions meaning 'to have' and 'to do'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('lea', 'Pourquoi tu as fait ça, Gabriel?', 'Why did you do that, Gabriel?', [(886, 'Pourquoi tu as fait ça, Gabriel ?')], ''),
+    ('andrea', 'Pourquoi tu as fait ça, Gabriel?', 'Why did you do that, Gabriel?', [(886, 'Pourquoi tu as fait ça, Gabriel ?')], ''),
     ('gabriel', 'De quoi tu parles exactement?', 'What are you talking about exactly?', [(887, "Qu'est-ce que j'ai fait ?")], ''),
-    ('lea', 'Tu as négocié avec Élise Formain!', 'You negotiated with Elise Formain!', [(888, "Élise... Le film d'Ozon...")], ''),
+    ('andrea', 'Tu as négocié avec Élise Formain!', 'You negotiated with Elise Formain!', [(888, "Élise... Le film d'Ozon...")], ''),
     ('gabriel', "Je l'ai fait pour te protéger.", 'I did it to protect you.', [(894, 'Tu ne pouvais pas rater ce rôle, pas à cause de moi.')], ''),
-    ('lea', 'Comment peux-tu trahir notre agence?', 'How can you betray our agency?', [(898, 'Comment tu peux te regarder dans la glace si tu trahis ASK ?')], ''),
+    ('andrea', 'Comment peux-tu trahir notre agence?', 'How can you betray our agency?', [(898, 'Comment tu peux te regarder dans la glace si tu trahis ASK ?')], ''),
     ('gabriel', 'Cette agence est morte, Andréa!', 'This agency is dead, Andrea!', [(900, 'Cette agence est morte ! Tu ne le vois pas ?')], ''),
     ('gabriel', "C'est fini et tout le monde le sait.", 'It is over and everyone knows it.', [(901, "C'est fini, tout le monde le sait.")], ''),
     ('gabriel', "J'en ai assez d'être le gentil!", 'I have had enough of being nice!', [(902, "Et j'en ai marre d'être le gentil !"), (903, "J'en ai assez !")], ''),
@@ -29,7 +28,7 @@ STORY = [
     ('gabriel', 'Je vais travailler avec elle.', 'I am going to work with her.', [(905, 'Alors oui, je vais bosser avec cette garce')], ''),
     ('gabriel', 'Je vais surveiller cette peste.', 'I will keep an eye on that pest.', [(906, 'Et je vais surveiller cette peste.')], ''),
     ('gabriel', 'Même si je perds la face!', 'Even if I lose face!', [(908, 'Même si ça doit me coûter la face !')], ''),
-    ('lea', "Mais j'aime ton vrai visage.", 'But I love your true face.', [(909, "Mais j'aime ton visage.")], ''),
+    ('andrea', "Mais j'aime ton vrai visage.", 'But I love your true face.', [(909, "Mais j'aime ton visage.")], ''),
     ('gabriel', "Moi aussi j'adore ton visage.", 'I adore your face too.', [(910, "Moi aussi j'aime ton visage."), (911, "J'adore ton visage...")], ''),
 ]
 WALK = [

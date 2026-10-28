@@ -7,8 +7,7 @@ SCENE = 25
 TITLE = "Une nouvelle vie à l'agence  (A New Life at the Agency)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'camille': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'camille': 'Camille'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Immediately following the dramatic birth at ASK, Andrea rests with her newborn while Mathias quietly cleans the office floor in the dead of night. Listen to the scene in French first. Don't worry about catching every word."
@@ -20,12 +19,12 @@ STORY = [
     ('mathias', 'Prenez-le doucement dans vos bras.', 'Take him gently in your arms.', [(1369, 'Agnez-le')], ''),
     ('mathias', 'Il sort tout seul maintenant.', 'He is coming out on his own now.', [(1370, 'il va sortir tout seul')], ''),
     ('mathias', "Directement sur le ventre d'Andréa!", 'Directly onto Andrea', [(1372, 'Directement sur le ventre de la mer')], ''),
-    ('lea', 'Merci infiniment pour votre aide précieuse.', 'Thank you so much for your precious help.', [(1377, 'Merci'), (1378, "merci de m'avoir accompagnée")], ''),
-    ('lea', 'Je suis complètement épuisée maintenant.', 'I am completely exhausted now.', [(1379, 'Je suis épuisée')], ''),
-    ('lea', "Je vais m'écrouler de fatigue.", 'I am going to collapse from tiredness.', [(1380, "Je vais m'écrouler, je crois")], ''),
+    ('andrea', 'Merci infiniment pour votre aide précieuse.', 'Thank you so much for your precious help.', [(1377, 'Merci'), (1378, "merci de m'avoir accompagnée")], ''),
+    ('andrea', 'Je suis complètement épuisée maintenant.', 'I am completely exhausted now.', [(1379, 'Je suis épuisée')], ''),
+    ('andrea', "Je vais m'écrouler de fatigue.", 'I am going to collapse from tiredness.', [(1380, "Je vais m'écrouler, je crois")], ''),
     ('mathias', "C'est Andréa qui est vraiment exceptionnelle.", 'It is Andrea who is truly exceptional.', [(1384, "c'est Andrea qui est exceptionnelle")], ''),
     ('mathias', "C'est elle qui a tout fait.", 'She is the one who did everything.', [(1385, "C'est elle qui a tout fait")], ''),
-    ('lea', 'Bonne nuit à tous, merci.', 'Good night to everyone, thank you.', [(1386, 'bonne nuit, Mathias')], ''),
+    ('andrea', 'Bonne nuit à tous, merci.', 'Good night to everyone, thank you.', [(1386, 'bonne nuit, Mathias')], ''),
     ('camille', "Mathias, qu'est-ce que tu fais?", 'Mathias, what are you doing?', [(1387, "Qu'est-ce que tu fais")], ''),
     ('mathias', 'Tu vois bien, je nettoie.', 'You can see, I am cleaning.', [(1388, 'tu vois, je nettoie')], ''),
     ('camille', "Ce n'est pas à toi de faire ça.", 'That is not for you to do.', [(1389, "ce n'est pas à toi de faire ça")], ''),

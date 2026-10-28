@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s02e02-scene-18` — Une pause agent  (An Agent Break)
+# dix-pour-cent-s02e02-scene-18: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "fabrice": "theo", "lea": "lucie"}`
-- **Labels**: `{"fabrice": "Fabrice", "lea": "Andréa"}`
+Title: Une pause agent  (An Agent Break)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E02
 
-## Part 1 — Intro
-> Determined to sign iconic actor Fabrice Luchini, Andréa visits him at his Paris apartment. Luchini admits he has quit his rival agent Bréhier, but unexpectedly reveals that he plans to manage his own career without any agency. Listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `fabrice` (Fabrice) | C'est ouvert! Tu veux du thé? | It | 625:C'est ouvert, 627:Tu veux du thé |
-| 1 | `lea` (Andréa) | Non merci, ça va. | No thanks, I | 628:Non merci, ça va |
-| 2 | `fabrice` (Fabrice) | Comment tu vas? Tu as l'air dans tous tes états. | How are you? You seem in a state. | 629:Comment tu vas ? T'as l'air dans tous tes états |
-| 3 | `fabrice` (Fabrice) | Moi, je suis plutôt déprimé. J'ai raté un film de James Bond. | Me, I | 630:Non, je suis plutôt déprimée, 631:J'ai raté un film de James Bond |
-| 4 | `fabrice` (Fabrice) | Alors j'ai quitté Bréhier. | So I left Bréhier. | 633:Alors j'ai quitté Bréhier |
-| 5 | `lea` (Andréa) | C'est bien! | That | 634:C'est bien |
-| 6 | `fabrice` (Fabrice) | Ne t'emballe pas. Je vais faire une pause agent. | Don | 635:Ne t'emballe pas, 637:Je vais faire une pause agent |
-| 7 | `lea` (Andréa) | C'est-à-dire? | Meaning? | 638:C'est-à-dire |
-| 8 | `fabrice` (Fabrice) | Je n'ai aucun film de prévu. | I have no films planned. | 639:J'ai aucun film de prévu |
-| 9 | `fabrice` (Fabrice) | Je fais du théâtre, je n'ai besoin de personne. | I | 640:je fais du théâtre, 641:je n'ai besoin de personne |
-| 10 | `fabrice` (Fabrice) | Je suis désolé, je t'aimais vraiment bien, Andréa. | I am sorry, I really liked you, Andréa. | 642:Je suis désolée, je t'aimais vraiment bien, Andréa |
-| 11 | `lea` (Andréa) | C'est comme se faire larguer alors qu'on n'a jamais été ensemble. | It | 643:C'est comme se faire larguer alors qu'on n'a jamais été ensemble |
-| 12 | `fabrice` (Fabrice) | Oui, c'est un peu ça. | Yes, that | 644:Ouais, c'est un peu ça |
-| 13 | `lea` (Andréa) | Je l'ai perdue pour toujours. | I lost her forever. | 671:Je l'ai perdue pour toujours |
-| 14 | `fabrice` (Fabrice) | Et si on allait au théâtre ce soir, puis dîner? | What if we went to the theatre tonight, then had dinner? | 672:Et si on allait au théâtre ce soir, puis dîner |
-| 15 | `lea` (Andréa) | Ça me plairait. | I would like that. | 675:Ça me plairait |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Although Luchini refuses to sign immediately, Andréa has built a genuine friendship with him. Remember the everyday idiom for getting carried away: s'emballer. See you next time!
-- **Closing**: `fabrice`: *À demain!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Fabrice | C'est ouvert! Tu veux du thé? | It | #625: C'est ouvert<br>#627: Tu veux du thé | verbatim |
+| 2 | Andréa | Non merci, ça va. | No thanks, I | #628: Non merci, ça va | verbatim |
+| 3 | Fabrice | Comment tu vas? Tu as l'air dans tous tes états. | How are you? You seem in a state. | #629: Comment tu vas ? T'as l'air dans tous tes états | verbatim |
+| 4 | Fabrice | Moi, je suis plutôt déprimé. J'ai raté un film de James Bond. | Me, I | #630: Non, je suis plutôt déprimée<br>#631: J'ai raté un film de James Bond | verbatim |
+| 5 | Fabrice | Alors j'ai quitté Bréhier. | So I left Bréhier. | #633: Alors j'ai quitté Bréhier | verbatim |
+| 6 | Andréa | C'est bien! | That | #634: C'est bien | verbatim |
+| 7 | Fabrice | Ne t'emballe pas. Je vais faire une pause agent. | Don | #635: Ne t'emballe pas<br>#637: Je vais faire une pause agent | verbatim |
+| 8 | Andréa | C'est-à-dire? | Meaning? | #638: C'est-à-dire | verbatim |
+| 9 | Fabrice | Je n'ai aucun film de prévu. | I have no films planned. | #639: J'ai aucun film de prévu | verbatim |
+| 10 | Fabrice | Je fais du théâtre, je n'ai besoin de personne. | I | #640: je fais du théâtre<br>#641: je n'ai besoin de personne | verbatim |
+| 11 | Fabrice | Je suis désolé, je t'aimais vraiment bien, Andréa. | I am sorry, I really liked you, Andréa. | #642: Je suis désolée, je t'aimais vraiment bien, Andréa | verbatim |
+| 12 | Andréa | C'est comme se faire larguer alors qu'on n'a jamais été ensemble. | It | #643: C'est comme se faire larguer alors qu'on n'a jamais été ensemble | verbatim |
+| 13 | Fabrice | Oui, c'est un peu ça. | Yes, that | #644: Ouais, c'est un peu ça | verbatim |
+| 14 | Andréa | Je l'ai perdue pour toujours. | I lost her forever. | #671: Je l'ai perdue pour toujours | verbatim |
+| 15 | Fabrice | Et si on allait au théâtre ce soir, puis dîner? | What if we went to the theatre tonight, then had dinner? | #672: Et si on allait au théâtre ce soir, puis dîner | verbatim |
+| 16 | Andréa | Ça me plairait. | I would like that. | #675: Ça me plairait | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'It's open! Would you like tea?' Luchini welcomes Andréa into his chaotic apartment. Fabrice pairs the verb meaning 'is' with the noun for 'hot tea'.
+- 'No thanks, I'm fine.' Andréa politely declines refreshment. Notice how the verb for 'are fine' leads straight into 'thank you'.
+- 'How are you? You seem in a state.' Luchini notices her agitated expression. The adverb meaning 'how' sharpens the verb for 'are doing' here.
+- 'Me, I'm pretty depressed. I missed out on a James Bond movie.' The star shares his disappointment. The key word here means 'am', paired with 'motion picture' to make the point clear.
+- 'So I left Bréhier.' Luchini drops the bombshell about firing his agent. The adverb meaning 'consequently' sharpens the verb for 'have' here.
+- 'That's good!' Andréa can barely contain her excitement for ASK. Andréa opens with the word for 'is' and lands on 'great news' at the close.
+- 'Don't get carried away. I am going to take an agent break.' Luchini immediately dampens her hopes. The key word here means 'not', paired with 'representation' to make the point clear.
+- 'Meaning?' Andréa asks him to clarify his strange decision. Listen for the expression meaning 'what do you mean', which leads naturally into 'what do you mean'.
+- 'I have no films planned.' Luchini explains his schedule. The adverb meaning 'not' sharpens the verb for 'have' here.
+- 'I'm doing theatre, I don't need anyone.' The actor boasts of his theatrical independence. Fabrice opens with the word for 'perform in' and lands on 'necessity' at the close.
+- 'I am sorry, I really liked you, Andréa.' Luchini expresses genuine fondness for her. Fabrice opens with the word for 'am' and lands on 'much' at the close.
+- 'It's like getting dumped when you were never even together.' Andréa laments the strange situation. The key word here means 'is', paired with 'a couple' to make the point clear.
+- 'Yes, that's kind of it.' Luchini chuckles at her candid observation. The verb meaning 'is' anchors the whole remark.
+- 'I lost her forever.' Andréa opens up about her heartbreak over Colette. Listen for the expression meaning 'have', which leads naturally into 'all eternity'.
+- 'What if we went to the theatre tonight, then had dinner?' Luchini offers a platonic evening out. The adverb meaning 'afterwards' sharpens the verb for 'went' here.
+- 'I would like that.' Andréa accepts the warm invitation. The key word here means 'would delight', paired with 'would delight' to make the point clear.

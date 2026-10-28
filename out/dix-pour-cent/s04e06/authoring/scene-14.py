@@ -7,30 +7,29 @@ SCENE = 14
 TITLE = 'La vérité brutale  (The Brutal Truth)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jean': 'theo'}
-LABELS = {'lea': 'Andréa', 'jean': 'Jean'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Sitting down with Jean Reno in her office, Andrea listens as the famous actor praises Xavier Beauvois's powerful screenplay. Rather than disguising the agency's desperate financial distress, Andrea decides to lay all their cards on the table. Let's listen to their conversation in French first."
 OPENER = "Let's look at Andrea choosing complete honesty with Jean Reno step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Refusing to spin illusions for Jean Reno, Andrea boldly confesses that ASK is bankrupt, lacking six million euros to produce Xavier Beauvois's film, earning the actor's deepest respect. When you watch the episode, listen out for the expressions meaning 'script' and 'intense'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne journée!')
+CLOSING = ('andrea', 'Bonne journée!')
 STORY = [
     ('jean', "C'est un scénario très intense, puissant.", 'It is a very intense, powerful script.', [(659, 'très intense, puissant')], ''),
-    ('lea', "C'est un projet magnifique et rare.", 'It is a magnificent and rare project.', [(660, "C'est un beau scénario")], ''),
+    ('andrea', "C'est un projet magnifique et rare.", 'It is a magnificent and rare project.', [(660, "C'est un beau scénario")], ''),
     ('jean', 'Où en êtes-vous pour le financement?', 'How are you coming along with financing?', [(661, 'le financement'), (662, 'Où en êtes-vous')], ''),
-    ('lea', 'Jean, je refuse de vous mentir.', 'Jean, I refuse to lie to you.', [(661, 'le financement')], ''),
+    ('andrea', 'Jean, je refuse de vous mentir.', 'Jean, I refuse to lie to you.', [(661, 'le financement')], ''),
     ('jean', 'Dites-moi tout en toute franchise.', 'Tell me everything with complete candor.', [(662, 'Où en êtes-vous')], ''),
-    ('lea', "Il nous manque six millions d'euros.", 'We are missing six million euros.', [(667, 'Il nous manque')], ''),
+    ('andrea', "Il nous manque six millions d'euros.", 'We are missing six million euros.', [(667, 'Il nous manque')], ''),
     ('jean', "Six millions? C'est une grosse somme.", 'Six million? That is a large sum.', [(667, 'Il nous manque')], ''),
-    ('lea', 'Notre agence a déposé le bilan.', 'Our agency has filed for bankruptcy.', [(668, 'a déposé le bilan')], ''),
+    ('andrea', 'Notre agence a déposé le bilan.', 'Our agency has filed for bankruptcy.', [(668, 'a déposé le bilan')], ''),
     ('jean', "Vous n'avez donc aucune garantie financière?", 'You therefore have no financial guarantee?', [(669, 'garanties sur le film')], ''),
-    ('lea', 'Non, notre agence est en train de couler.', 'No, our agency is sinking.', [(670, 'en train de couler')], ''),
+    ('andrea', 'Non, notre agence est en train de couler.', 'No, our agency is sinking.', [(670, 'en train de couler')], ''),
     ('jean', 'Vous me parlez avec grand courage.', 'You speak to me with great courage.', [(670, 'en train de couler')], ''),
-    ('lea', 'Je préfère la vérité aux faux espoirs.', 'I prefer truth to false hopes.', [(670, 'en train de couler')], ''),
+    ('andrea', 'Je préfère la vérité aux faux espoirs.', 'I prefer truth to false hopes.', [(670, 'en train de couler')], ''),
     ('jean', 'Votre honnêteté est tout à fait admirable.', 'Your honesty is entirely admirable.', [(670, 'en train de couler')], ''),
-    ('lea', "Merci d'écouter la réalité, Jean.", 'Thank you for listening to reality, Jean.', [(670, 'en train de couler')], ''),
+    ('andrea', "Merci d'écouter la réalité, Jean.", 'Thank you for listening to reality, Jean.', [(670, 'en train de couler')], ''),
 ]
 WALK = [
     (0, None, "'It is a very intense, powerful script.' Jean gives his glowing initial impression of the screenplay. The descriptive adjective for 'intense' agrees in gender and number with its noun."),

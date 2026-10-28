@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 5
-TITLE = "Обед для персонала  (Staff Lunch)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Обед для персонала  (Staff Lunch)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Chef Viktor Barinov gives Max his very first cooking assignment: making lunch for the restaurant staff. However, the chef warns him that if the food tastes bad, the hungry cooks will eat Max instead. Listen to their lively exchange in Russian first, and then we will break it down together.'
 OPENER = "Let's break down this high-stakes kitchen assignment step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our fifth scene. In Kukhnya, cooking staff lunch is the ultimate rite of passage for every newcomer. See you next time!'
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
-    ('chef', 'Здесь не ночлежка, а работа!', 'This is not a shelter, but work!', [(37, 'Здесь не ночлежка, работа')], ''),
-    ('anya', 'Шеф, вы всё равно не даёте мне готовить.', "Chef, you still won't let me cook.", [(38, 'вы все равно мне готовить не даете')], ''),
-    ('anya', 'Я уже отклеил все этикетки от бананов.', 'I already peeled all labels from the bananas.', [(39, 'этикетки от бананов я уже')], ''),
-    ('chef', 'Хорошо, хочешь готовить — будешь готовить!', 'Fine, you want to cook — you will cook!', [(40, 'Хочешь готовить, будешь готовить')], ''),
-    ('chef', 'Внимание, повара ресторана!', 'Attention, cooks of the restaurant!', [(41, 'Внимание')], ''),
-    ('chef', 'Сегодня обед для персонала готовит наш огузок.', 'Today our runt is cooking lunch for the staff.', [(42, 'Сегодня обед для персонала готовит')], ''),
-    ('chef', 'Это очень ответственное задание.', 'This is a very important assignment.', [(43, 'Это очень ответственное задание')], ''),
-    ('chef', 'Если им не понравится, они съедят тебя.', "If they don't like it, they will eat you.", [(44, 'Если им не понравится'), (44, 'съесть тебя')], ''),
-    ('chef', 'Ты меня понял?', 'Did you understand me?', [(45, 'Понял')], ''),
-    ('anya', 'Да, шеф, я всё понял.', 'Yes, Chef, I understood everything.', [(45, 'Понял')], ''),
-    ('anya', 'Я так мечтал готовить на кухне.', 'I dreamed so much of cooking in the kitchen.', [(47, 'Я так мечтал')], ''),
-    ('chef', 'Ну что, ты доволен?', 'Well, are you pleased?', [(49, 'Ну, ты доволен')], ''),
-    ('anya', 'Я очень рад, шеф, только выпью кофе.', 'I am very glad, Chef, just let me drink coffee.', [(49, 'Я очень рад, шеф, только')], ''),
-    ('chef', 'Быстро переодевайся, работаем!', "Quickly change clothes, let's get to work!", [(50, 'Переодевайся'), (51, 'Работаем')], ''),
+    ('barinov', 'Здесь не ночлежка, а работа!', 'This is not a shelter, but work!', [(37, 'Здесь не ночлежка, работа')], ''),
+    ('max', 'Шеф, вы всё равно не даёте мне готовить.', "Chef, you still won't let me cook.", [(38, 'вы все равно мне готовить не даете')], ''),
+    ('max', 'Я уже отклеил все этикетки от бананов.', 'I already peeled all labels from the bananas.', [(39, 'этикетки от бананов я уже')], ''),
+    ('barinov', 'Хорошо, хочешь готовить — будешь готовить!', 'Fine, you want to cook — you will cook!', [(40, 'Хочешь готовить, будешь готовить')], ''),
+    ('barinov', 'Внимание, повара ресторана!', 'Attention, cooks of the restaurant!', [(41, 'Внимание')], ''),
+    ('barinov', 'Сегодня обед для персонала готовит наш огузок.', 'Today our runt is cooking lunch for the staff.', [(42, 'Сегодня обед для персонала готовит')], ''),
+    ('barinov', 'Это очень ответственное задание.', 'This is a very important assignment.', [(43, 'Это очень ответственное задание')], ''),
+    ('barinov', 'Если им не понравится, они съедят тебя.', "If they don't like it, they will eat you.", [(44, 'Если им не понравится'), (44, 'съесть тебя')], ''),
+    ('barinov', 'Ты меня понял?', 'Did you understand me?', [(45, 'Понял')], ''),
+    ('max', 'Да, шеф, я всё понял.', 'Yes, Chef, I understood everything.', [(45, 'Понял')], ''),
+    ('max', 'Я так мечтал готовить на кухне.', 'I dreamed so much of cooking in the kitchen.', [(47, 'Я так мечтал')], ''),
+    ('barinov', 'Ну что, ты доволен?', 'Well, are you pleased?', [(49, 'Ну, ты доволен')], ''),
+    ('max', 'Я очень рад, шеф, только выпью кофе.', 'I am very glad, Chef, just let me drink coffee.', [(49, 'Я очень рад, шеф, только')], ''),
+    ('barinov', 'Быстро переодевайся, работаем!', "Quickly change clothes, let's get to work!", [(50, 'Переодевайся'), (51, 'Работаем')], ''),
 ]
 WALK = [
     (0, None, "'This is not a shelter, but work!' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'shelter', combining 'here' with 'shelter' and 'work'."),

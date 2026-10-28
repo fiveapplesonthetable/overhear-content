@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | По которой ты идешь. | Along which you walk. | #1 00:00:21: по которой ты идешь | verbatim |
-| 2 | Шеф | А кого-то туда. | And leads someone else over there. | #3 00:00:30: А кого-то туда | verbatim |
-| 3 | Аня | У каждого свой путь. | Everyone has their own path. | #4 00:00:37: У каждого свой путь | verbatim |
-| 4 | Шеф | Кто это? | Who is that? | #5 00:00:44: Кто это | verbatim |
-| 5 | Аня | Не знаю. | I do not know. | #5 00:00:44: Не знаю | verbatim |
-| 6 | Шеф | Наверное, хозяйка. | Probably the landlady. | #8 00:00:52: Наверное, хозяйка | verbatim |
-| 7 | Аня | А что, прятаться у меня зачем? | Why would you need to hide me? | #9 00:00:55: А что, прятаться у меня зачем | verbatim |
-| 8 | Шеф | Ну, любят, когда я мужиков вожу. | Well, she does not like it when I bring men over. | #10 00:00:57: Ну, любят, когда я мужиков вожу | verbatim |
-| 9 | Аня | Ты мужиков водишь? | You bring men over? | #11 00:00:59: Ты мужиков водишь | verbatim |
-| 10 | Шеф | А что-то случилось? | Did something happen? | #13 00:01:03: А что-то случилось | verbatim |
-| 11 | Аня | Вот что случилось. | Here is what happened. | #15 00:01:07: Вот что случилось | verbatim |
-| 12 | Шеф | А я, между прочим, только ремонт сделала. | And by the way, I just redid the renovations. | #15 00:01:07: А я, между прочим, только ремонт сделала | verbatim |
-| 13 | Аня | Год назад. | A year ago. | #16 00:01:11: Год назад | verbatim |
+| 1 | Макс | По которой ты идешь. | Along which you walk. | #1: по которой ты идешь | verbatim |
+| 2 | Шеф | А кого-то туда. | And leads someone else over there. | #3: А кого-то туда | verbatim |
+| 3 | Макс | У каждого свой путь. | Everyone has their own path. | #4: У каждого свой путь | verbatim |
+| 4 | Шеф | Кто это? | Who is that? | #5: Кто это | verbatim |
+| 5 | Макс | Не знаю. | I do not know. | #5: Не знаю | verbatim |
+| 6 | Шеф | Наверное, хозяйка. | Probably the landlady. | #8: Наверное, хозяйка | verbatim |
+| 7 | Макс | А что, прятаться у меня зачем? | Why would you need to hide me? | #9: А что, прятаться у меня зачем | verbatim |
+| 8 | Шеф | Ну, любят, когда я мужиков вожу. | Well, she does not like it when I bring men over. | #10: Ну, любят, когда я мужиков вожу | verbatim |
+| 9 | Макс | Ты мужиков водишь? | You bring men over? | #11: Ты мужиков водишь | verbatim |
+| 10 | Шеф | А что-то случилось? | Did something happen? | #13: А что-то случилось | verbatim |
+| 11 | Макс | Вот что случилось. | Here is what happened. | #15: Вот что случилось | verbatim |
+| 12 | Шеф | А я, между прочим, только ремонт сделала. | And by the way, I just redid the renovations. | #15: А я, между прочим, только ремонт сделала | verbatim |
+| 13 | Макс | Год назад. | A year ago. | #16: Год назад | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Along which you walk.' Max brings out the contrast between 'on' and 'who' in a few short words.
-- 'And leads someone else over there.' Chef Barinov keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
-- 'Everyone has their own path.' Spoken Russian keeps this brisk, leaning on 'by' and finishing on 'path'.
-- 'Who is that?' Here the Russian phrasing highlights 'who' before landing on 'this'.
-- 'I do not know.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'know'. Chef Viktor answers right away.
-- 'Probably the landlady.' Notice how Russian expresses 'probably' and 'owner' with crisp inflection rather than helper words.
-- 'Why would you need to hide me?' Max brings out the contrast between 'and' and 'what' in a few short words.
-- 'Well, she does not like it when I bring men over.' In Russian, the idea of 'come on' flows naturally into 'to drive' without extra filler words. Max answers right away.
-- 'You bring men over?' Here the Russian phrasing highlights 'you' before landing on 'are driving'.
-- 'Did something happen?' Chef Viktor brings out the contrast between 'and' and 'somehow' in a few short words.
-- 'Here is what happened.' Notice how Russian expresses 'there you go' and 'to happen' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'And by the way, I just redid the renovations.' In Russian, the idea of 'and' flows naturally into 'have done' without extra filler words.
-- 'A year ago.' The meaning hinges on 'year' working together with 'back' in spoken Russian.
+- 'Along which you walk.' Claiming that along which Barinov walks sounds confident, even if Barinov has doubts.
+- 'And leads someone else over there.' Pointing out that leads someone else over there gives Max a sobering reality check.
+- 'Everyone has their own path.' Max explains that everyone has their own path, keeping his voice calm and direct.
+- 'Who is that?' Over the truth and the kitchen, Barinov presses Max for a straight answer.
+- 'I do not know.' Noting that he does not know keeps Max's side of the story simple and clear.
+- 'Probably the landlady.' With the point and apartment in play, Barinov keeps this short reply brisk and direct.
+- 'Why would you need to hide me?' Asking why Barinov needs to hide him would cuts straight through the tension between Max and Barinov.
+- 'Well, she does not like it when I bring men over.' Saying that she does not like it when he brings men is how Barinov sets the tone with Max.
+- 'You bring men over?' Wondering if Barinov brings men shows Max caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Did something happen?' By asking whether something happen, Barinov presses Max for a straight answer.
+- 'Here is what happened.' Saying that here is what happened is how Max sets the tone with Barinov.
+- 'And by the way, I just redid the renovations.' Around the point and room, Barinov sets a calm, everyday tone with Max.
+- 'A year ago.' Around the truth and kitchen, Max sets a calm, everyday tone with Barinov.

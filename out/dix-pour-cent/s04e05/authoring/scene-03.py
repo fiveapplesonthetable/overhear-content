@@ -7,7 +7,6 @@ SCENE = 3
 TITLE = 'Une carte pour Mathias  (A Card for Mathias)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'gabriel': 'theo'}
 LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'

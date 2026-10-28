@@ -7,8 +7,7 @@ SCENE = 24
 TITLE = 'À la recherche de Gabriel  (Looking for Gabriel)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Following her successful audition, Sofia arrives late at the nearly empty agency party. Looking around the quiet room, she urgently asks Camille where Gabriel has gone. Let's listen to the scene in French first."
@@ -18,19 +17,19 @@ OUTRO = "Hoping to share the triumph of her casting audition with Gabriel, Sofia
 CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('sofia', 'Camille, as-tu vu Gabriel ici?', 'Camille, did you see Gabriel here?', [(1103, "T'as vu Gabriel")], ''),
-    ('lea', 'Bonsoir Sofia, tu arrives bien tard.', 'Good evening Sofia, you arrive quite late.', [(1103, 'Camille')], ''),
+    ('camille', 'Bonsoir Sofia, tu arrives bien tard.', 'Good evening Sofia, you arrive quite late.', [(1103, 'Camille')], ''),
     ('sofia', "Je cherchais Gabriel dans l'agence.", 'I was looking for Gabriel in the agency.', [(1103, "T'as vu Gabriel")], ''),
-    ('lea', 'La fête est presque terminée maintenant.', 'The party is almost over now.', [(1103, 'Camille')], ''),
+    ('camille', 'La fête est presque terminée maintenant.', 'The party is almost over now.', [(1103, 'Camille')], ''),
     ('sofia', 'Je voulais lui parler ce soir.', 'I wanted to speak to him tonight.', [(1103, "T'as vu Gabriel")], ''),
-    ('lea', "Tu as fini ton travail aujourd'hui?", 'Did you finish your work today?', [(1103, 'Camille')], ''),
+    ('camille', "Tu as fini ton travail aujourd'hui?", 'Did you finish your work today?', [(1103, 'Camille')], ''),
     ('sofia', "Oui, mon audition s'est bien passée.", 'Yes, my audition went very well.', [(1103, 'Camille')], ''),
-    ('lea', "C'est une excellente nouvelle pour toi.", 'That is excellent news for you.', [(1103, 'Camille')], ''),
+    ('camille', "C'est une excellente nouvelle pour toi.", 'That is excellent news for you.', [(1103, 'Camille')], ''),
     ('sofia', 'Je voulais fêter cela avec lui.', 'I wanted to celebrate that with him.', [(1103, "T'as vu Gabriel")], ''),
-    ('lea', 'Tout le monde est déjà parti.', 'Everyone has already left.', [(1103, 'Camille')], ''),
+    ('camille', 'Tout le monde est déjà parti.', 'Everyone has already left.', [(1103, 'Camille')], ''),
     ('sofia', "Il n'est plus dans son bureau?", 'He is no longer in his office?', [(1103, "T'as vu Gabriel")], ''),
-    ('lea', 'Non, son bureau est tout noir.', 'No, his office is completely dark.', [(1103, 'Camille')], ''),
+    ('camille', 'Non, son bureau est tout noir.', 'No, his office is completely dark.', [(1103, 'Camille')], ''),
     ('sofia', 'Alors, où est-il allé maintenant?', 'So, where did he go now?', [(1103, "T'as vu Gabriel")], ''),
-    ('lea', 'Attends, je vais tout te raconter.', 'Wait, I will tell you everything.', [(1103, 'Camille')], ''),
+    ('camille', 'Attends, je vais tout te raconter.', 'Wait, I will tell you everything.', [(1103, 'Camille')], ''),
 ]
 WALK = [
     (0, None, "'Camille, did you see Gabriel here?' Sofia searches the room and asks about Gabriel. This conversational past tense combines a helper verb with the past verb form for 'seen'."),

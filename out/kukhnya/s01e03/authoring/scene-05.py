@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 5
-TITLE = "Паника на кухне  (Panic in the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Паника на кухне  (Panic in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "Max runs into the kitchen terrified that Vika's ex-husband, a powerful prosecutor, will destroy him. Chef Viktor Barinov does not offer much sympathy and jokingly begins reciting Max's eulogy. Listen to the story in Russian first, and then we will review each line."
 OPENER = "Let's review this funny kitchen panic step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "That concludes our fifth scene. In Kukhnya, Chef Barinov's cynical wit is always on display, even when his staff is in serious trouble. See you next time!"
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
-    ('anya', 'Шеф, у меня большие проблемы.', 'Chef, I have big problems.', [], ''),
-    ('chef', 'Что опять стряслось, огузок?', 'What happened again, runt?', [], ''),
-    ('anya', 'Меня ищет грозный прокурор.', 'A terrible prosecutor is looking for me.', [], ''),
-    ('chef', 'И за что же он тебя ищет?', 'And why is he looking for you?', [], ''),
-    ('anya', 'Он знает про меня и Вику.', 'He knows about me and Vika.', [], ''),
-    ('chef', 'Ты спал с чужой женщиной?', "You slept with someone else's woman?", [(162, 'спал с чужой')], ''),
-    ('anya', 'Я не знал, что она замужем.', 'I did not know that she is married.', [], ''),
-    ('chef', 'Это был самый талантливый повар.', 'He was the most talented cook.', [(161, 'Это был самый талантливый')], ''),
-    ('chef', 'Которого я когда-либо знал.', 'Whom I ever knew.', [(161, 'которого я знал')], ''),
-    ('anya', 'Шеф, вы меня уже хороните?', 'Chef, are you already burying me?', [], ''),
-    ('chef', 'С прокурором шутки плохи.', "You don't mess with a prosecutor.", [], ''),
-    ('chef', 'Он тебя быстро за решётку отправит.', 'He will quickly send you behind bars.', [], ''),
-    ('anya', 'Что же мне теперь делать?', 'What should I do now?', [], ''),
-    ('chef', 'Иди работай и не болтай.', 'Go work and do not chat.', [], ''),
+    ('max', 'Шеф, у меня большие проблемы.', 'Chef, I have big problems.', [], ''),
+    ('barinov', 'Что опять стряслось, огузок?', 'What happened again, runt?', [], ''),
+    ('max', 'Меня ищет грозный прокурор.', 'A terrible prosecutor is looking for me.', [], ''),
+    ('barinov', 'И за что же он тебя ищет?', 'And why is he looking for you?', [], ''),
+    ('max', 'Он знает про меня и Вику.', 'He knows about me and Vika.', [], ''),
+    ('barinov', 'Ты спал с чужой женщиной?', "You slept with someone else's woman?", [(162, 'спал с чужой')], ''),
+    ('max', 'Я не знал, что она замужем.', 'I did not know that she is married.', [], ''),
+    ('barinov', 'Это был самый талантливый повар.', 'He was the most talented cook.', [(161, 'Это был самый талантливый')], ''),
+    ('barinov', 'Которого я когда-либо знал.', 'Whom I ever knew.', [(161, 'которого я знал')], ''),
+    ('max', 'Шеф, вы меня уже хороните?', 'Chef, are you already burying me?', [], ''),
+    ('barinov', 'С прокурором шутки плохи.', "You don't mess with a prosecutor.", [], ''),
+    ('barinov', 'Он тебя быстро за решётку отправит.', 'He will quickly send you behind bars.', [], ''),
+    ('max', 'Что же мне теперь делать?', 'What should I do now?', [], ''),
+    ('barinov', 'Иди работай и не болтай.', 'Go work and do not chat.', [], ''),
 ]
 WALK = [
     (0, None, "'Chef, I have big problems.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'chef' with 'big' and 'problems'."),

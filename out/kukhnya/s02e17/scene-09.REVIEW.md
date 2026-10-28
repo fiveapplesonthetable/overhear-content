@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Как вы себя чувствуете? | How are you feeling today? | #129 00:09:11: Как вы себя чувствуете | verbatim |
-| 2 | Аня | Спасибо, хорошо. | Thank you, quite well. | #130 00:09:14: Спасибо, хорошо | verbatim |
-| 3 | Елена | Ничего не беспокоит. | Nothing is bothering you? | #131 00:09:16: Ничего не беспокоит | verbatim |
-| 4 | Аня | Нет, все нормально. | No, everything is fine. | #132 00:09:21: Нет, все нормально | verbatim |
-| 5 | Елена | Вы говорили, что вам нужен банкет, да? | You mentioned that you needed a banquet, right? | #133 00:09:23: Вы говорили, что вам нужен банкет, да | verbatim |
-| 6 | Аня | Ну, Елена сказала. | Well, Elena told me. | #134 00:09:27: Ну, Елена сказала | verbatim |
-| 7 | Елена | Подождите. Это что же? | Wait a second. What is going on here? | #135 00:09:34: Подождите. Это что же | verbatim |
-| 8 | Аня | Так, так, так, Витя. | Now, now, Vitya, calm down. | #136 00:09:39: Так, так, так, Витя | verbatim |
-| 9 | Елена | В конце концов, то... | After all, otherwise... | #140 00:09:51: в конце концов, то | verbatim |
-| 10 | Аня | Да ты сядешь за этот черт в стол! | Sit down at this damn table right now! | #141 00:09:53: Да ты сядешь за этот черт в стол | verbatim |
-| 11 | Елена | Если вы не будете контролировать свой гнев. | If you do not learn to control your anger. | #142 00:10:03: Если вы не будете контролировать свой гнев | verbatim |
-| 12 | Аня | А что делать? | Then what am I supposed to do? | #144 00:10:07: А что делать | verbatim |
-| 13 | Елена | Нет. У меня есть один способ. | No. I have one special method. | #145 00:10:09: Нет. У меня есть один способ | verbatim |
+| 1 | Елена | Как вы себя чувствуете? | How are you feeling today? | #129: Как вы себя чувствуете | verbatim |
+| 2 | Макс | Спасибо, хорошо. | Thank you, quite well. | #130: Спасибо, хорошо | verbatim |
+| 3 | Елена | Ничего не беспокоит. | Nothing is bothering you? | #131: Ничего не беспокоит | verbatim |
+| 4 | Макс | Нет, все нормально. | No, everything is fine. | #132: Нет, все нормально | verbatim |
+| 5 | Елена | Вы говорили, что вам нужен банкет, да? | You mentioned that you needed a banquet, right? | #133: Вы говорили, что вам нужен банкет, да | verbatim |
+| 6 | Макс | Ну, Елена сказала. | Well, Elena told me. | #134: Ну, Елена сказала | verbatim |
+| 7 | Елена | Подождите. Это что же? | Wait a second. What is going on here? | #135: Подождите. Это что же | verbatim |
+| 8 | Макс | Так, так, так, Витя. | Now, now, Vitya, calm down. | #136: Так, так, так, Витя | verbatim |
+| 9 | Елена | В конце концов, то... | After all, otherwise... | #140: в конце концов, то | verbatim |
+| 10 | Макс | Да ты сядешь за этот черт в стол! | Sit down at this damn table right now! | #141: Да ты сядешь за этот черт в стол | verbatim |
+| 11 | Елена | Если вы не будете контролировать свой гнев. | If you do not learn to control your anger. | #142: Если вы не будете контролировать свой гнев | verbatim |
+| 12 | Макс | А что делать? | Then what am I supposed to do? | #144: А что делать | verbatim |
+| 13 | Елена | Нет. У меня есть один способ. | No. I have one special method. | #145: Нет. У меня есть один способ | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you feeling today?' Elena brings out the contrast between 'how' and 'you' in a few short words.
-- 'Thank you, quite well.' Max anchors the line on 'thank you', while 'fine' completes the thought. Elena answers right away.
-- 'Nothing is bothering you?' The meaning hinges on 'nothing' working together with 'is disturbing' in spoken Russian.
-- 'No, everything is fine.' Here the Russian phrasing highlights 'there is no' before landing on 'fine'.
-- 'You mentioned that you needed a banquet, right?' Elena anchors the line on 'you', while 'yes' completes the thought. Max answers right away.
-- 'Well, Elena told me.' The grammar packs 'come on' and 'to say' into a tight, idiomatic kitchen exchange.
-- 'Wait a second. What is going on here?' Elena brings out the contrast between 'wait' and 'this' in a few short words.
-- 'Now, now, Vitya, calm down.' The meaning hinges on 'like this' working together with 'Vitya' in spoken Russian. Elena answers right away.
-- 'After all, otherwise...' Notice how Russian expresses 'end' and 'then' with crisp inflection rather than helper words.
-- 'Sit down at this damn table right now!' Here the Russian phrasing highlights 'yes' before landing on 'table'.
-- 'If you do not learn to control your anger.' Elena brings out the contrast between 'if' and 'you' in a few short words. Max answers right away.
-- 'Then what am I supposed to do?' The meaning hinges on 'and' working together with 'what is one to do' in spoken Russian.
-- 'No. I have one special method.' Elena anchors the line on 'there is no', while 'a way' completes the thought.
+- 'How are you feeling today?' By wondering how Max feeling today is, Elena presses Max for a straight answer. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Thank you, quite well.' With the anger and kitchen in play, Max keeps this short reply brisk and direct.
+- 'Nothing is bothering you?' When Elena asks if nothing is bothering Max, Max has to answer fast. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'No, everything is fine.' Adding that everything is fine fills in the missing piece for Elena.
+- 'You mentioned that you needed a banquet, right?' Asking whether Max mentioned that Max needed a banquet right puts Max right on the defensive.
+- 'Well, Elena told me.' Since Elena told him, Max does not waste words on excuses.
+- 'Wait a second. What is going on here?' By asking what going on here is, Elena presses Max for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Now, now, Vitya, calm down.' Admitting that Elena should calm down shows Max being honest for a change.
+- 'After all, otherwise...' Over the restaurant and the shift, Elena answers Max without a second thought.
+- 'Sit down at this damn table right now!' Telling Elena to sit down at this damn table right now is Max's blunt reaction in front of Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'If you do not learn to control your anger.' Elena mentions that if Max does not learn to control Max's anger so Max sees what is at stake.
+- 'Then what am I supposed to do?' Max asks whether what am he supposed to do, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'No. I have one special method.' Elena tells Max that she has one special method without dressing it up. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.

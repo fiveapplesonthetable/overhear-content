@@ -7,8 +7,7 @@ SCENE = 11
 TITLE = "Le sabotage d'Eugénie  (Sabotaging Eugenie)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel'}
-LABELS = {'noemie': 'Noémie', 'herve': 'Hervé'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the ASK offices, Camille is terrified by the impressive resumes of outside applicants for the junior agent post. Her friends Noémie and Hervé spot a top contender and consider dirty tricks to help Camille. Let's listen to the scene in French first."
@@ -19,19 +18,19 @@ CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('herve', 'Attends, viens là, Camille.', 'Wait, come over here, Camille.', [(313, 'Attends... viens là.')], ''),
     ('herve', 'Imiter Hicham à ton entretien? Tu ne devrais pas être toi-même?', 'Imitate Hicham at your interview? Shouldn', [(326, 'Imiter Hicham à ton entretien ?'), (327, 'Tu ne devrais pas être toi-même ?')], ''),
-    ('herve', "J'ai la tête qui tourne.", 'My head is spinning.', [(328, "J'ai la tête qui tourne.")], ''),
-    ('herve', "Les CV des candidats, c'est du niveau Harvard!", 'The candidates', [(329, "Les CV des candidats, c'est du niveau Harvard !")], ''),
+    ('camille', "J'ai la tête qui tourne.", 'My head is spinning.', [(328, "J'ai la tête qui tourne.")], ''),
+    ('camille', "Les CV des candidats, c'est du niveau Harvard!", 'The candidates', [(329, "Les CV des candidats, c'est du niveau Harvard !")], ''),
     ('noemie', "Tu as l'avantage de travailler ici.", 'You have the advantage of working here.', [(336, "Tu as l'avantage de travailler ici.")], ''),
     ('noemie', "Regarde, c'est Eugénie Léon-Brun.", 'Look, that is Eugenie Leon-Brun.', [(330, "C'est Eugénie Léon-Brun.")], ''),
     ('noemie', 'Droit, spécialisée en propriété intellectuelle.', 'Law school, specialized in intellectual property.', [(331, 'Droit, spécialisée en propriété intellectuelle.')], ''),
     ('noemie', 'Trois ans en production, puis deux chez VMA.', 'Three years in production, then two at VMA.', [(332, 'Trois ans en production, puis deux chez VMA.')], ''),
     ('noemie', 'Et en plus elle est mignonne, Hicham va adorer.', 'And plus she is pretty, Hicham is going to love her.', [(333, 'Et en plus elle est mignonne, Hicham va adorer.')], ''),
     ('noemie', 'Je peux la déstabiliser si tu veux.', 'I can destabilize her if you want.', [(334, 'Je peux la déstabiliser si tu veux.')], ''),
-    ('herve', 'Tu ne peux pas faire ça, ça ne se fait pas!', 'You cannot do that, it is not done!', [(335, 'Tu ne peux pas faire ça, ça ne se fait pas !')], ''),
+    ('camille', 'Tu ne peux pas faire ça, ça ne se fait pas!', 'You cannot do that, it is not done!', [(335, 'Tu ne peux pas faire ça, ça ne se fait pas !')], ''),
     ('noemie', 'Oui, ce serait ignoble. Quand même...', 'Yes, that would be disgraceful. Still...', [(337, 'Oui, ce serait ignoble.'), (338, 'Quand même...')], ''),
     ('herve', 'Allez, Noémie, démolis la rivale!', 'Go on, Noémie, crush the rival!', [(339, 'Allez, Noémie')], ''),
     ('noemie', 'Je vais lui parler de la PNL et du langage corporel.', 'I will talk to her about NLP and body language.', [(316, 'langage corporel'), (322, "c'est la PNL.")], ''),
-    ('herve', 'Tu as vraiment fait une formation?', 'Did you really take a training course?', [(324, "j'ai fait une formation.")], ''),
+    ('camille', 'Tu as vraiment fait une formation?', 'Did you really take a training course?', [(324, "j'ai fait une formation.")], ''),
     ('noemie', "C'est comme ça que j'ai appris à contrôler mes émotions.", 'That is how I learned to control my emotions.', [(325, "C'est comme ça que j'ai appris à contrôler mes émotions.")], ''),
 ]
 WALK = [

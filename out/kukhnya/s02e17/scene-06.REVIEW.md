@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | А ты чего же не предупредил? | Why did you not warn me you were coming? | #84 00:06:31: а ты чего же не предупредил | verbatim |
-| 2 | Костя | А что, нужно обязательно предупреждать? | Why, is it strictly necessary to give a warning? | #85 00:06:35: А что, нужно обязательно предупреждать | verbatim |
-| 3 | Елена | Да нет. | Well, no. | #86 00:06:37: Да нет | verbatim |
-| 4 | Костя | Новый аквариум. | A brand-new aquarium. | #87 00:06:39: Новый аквариум | verbatim |
-| 5 | Елена | А ты чего зашла? | So why did you stop by? | #88 00:06:42: А ты чего зашла | verbatim |
-| 6 | Костя | Вечеринку. Но кто как не ты. | A party. And who else if not you. | #89 00:06:46: вечеринку. Но кто как не ты | verbatim |
-| 7 | Елена | Ну ладно, пусть приезжает. | Alright then, let her come over here. | #90 00:06:52: Ну ладно, пусть приезжает | verbatim |
-| 8 | Костя | Нет, она просила, чтобы мы подъехали. | No, she asked for us to drive over to her place. | #91 00:06:54: Нет, она просила, чтобы мы подъехали | verbatim |
-| 9 | Елена | У нее совершенно нет времени. | She has no free time at all. | #92 00:06:55: У нее совершенно нет времени | verbatim |
-| 10 | Костя | Ну, Витя, Витя. | Come on, Vitya, please. | #93 00:06:57: Ну, Витя, Витя | verbatim |
-| 11 | Елена | И там все. | And everything will be right there. | #94 00:07:00: И там все | verbatim |
-| 12 | Костя | А потом мне, ну и... | And then for me, well... | #95 00:07:02: А потом мне, ну и | verbatim |
-| 13 | Елена | Вот, вот. | There you go, just like that. | #97 00:07:06: Вот, вот | verbatim |
+| 1 | Елена | А ты чего же не предупредил? | Why did you not warn me you were coming? | #84: а ты чего же не предупредил | verbatim |
+| 2 | Костя | А что, нужно обязательно предупреждать? | Why, is it strictly necessary to give a warning? | #85: А что, нужно обязательно предупреждать | verbatim |
+| 3 | Елена | Да нет. | Well, no. | #86: Да нет | verbatim |
+| 4 | Костя | Новый аквариум. | A brand-new aquarium. | #87: Новый аквариум | verbatim |
+| 5 | Елена | А ты чего зашла? | So why did you stop by? | #88: А ты чего зашла | verbatim |
+| 6 | Костя | Вечеринку. Но кто как не ты. | A party. And who else if not you. | #89: вечеринку. Но кто как не ты | verbatim |
+| 7 | Елена | Ну ладно, пусть приезжает. | Alright then, let her come over here. | #90: Ну ладно, пусть приезжает | verbatim |
+| 8 | Костя | Нет, она просила, чтобы мы подъехали. | No, she asked for us to drive over to her place. | #91: Нет, она просила, чтобы мы подъехали | verbatim |
+| 9 | Елена | У нее совершенно нет времени. | She has no free time at all. | #92: У нее совершенно нет времени | verbatim |
+| 10 | Костя | Ну, Витя, Витя. | Come on, Vitya, please. | #93: Ну, Витя, Витя | verbatim |
+| 11 | Елена | И там все. | And everything will be right there. | #94: И там все | verbatim |
+| 12 | Костя | А потом мне, ну и... | And then for me, well... | #95: А потом мне, ну и | verbatim |
+| 13 | Елена | Вот, вот. | There you go, just like that. | #97: Вот, вот | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you not warn me you were coming?' Here the Russian phrasing highlights 'and' before landing on 'warned'.
-- 'Why, is it strictly necessary to give a warning?' Notice how Russian expresses 'and' and 'to warn' with crisp inflection rather than helper words. Elena answers right away.
-- 'Well, no.' Elena anchors the line on 'yes', while 'there is no' completes the thought.
-- 'A brand-new aquarium.' In Russian, the idea of 'new' flows naturally into 'aquarium' without extra filler words.
-- 'So why did you stop by?' In spoken Russian, the words stay in their normal statement order and Elena's rising voice at the end turns the line into a question.
-- 'A party. And who else if not you.' The meaning hinges on 'party' working together with 'you' in spoken Russian.
-- 'Alright then, let her come over here.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'is arriving'.
-- 'No, she asked for us to drive over to her place.' Kostya brings out the contrast between 'there is no' and 'she' in a few short words. Elena answers right away.
-- 'She has no free time at all.' The meaning hinges on 'by' working together with 'time' in spoken Russian.
-- 'Come on, Vitya, please.' Notice how Russian expresses 'come on' and 'Vitya' with crisp inflection rather than helper words.
-- 'And everything will be right there.' Elena anchors the line on 'both', while 'all' completes the thought. Kostya answers right away.
-- 'And then for me, well...' In Russian, the idea of 'and' flows naturally into 'both' without extra filler words.
-- 'There you go, just like that.' Here the Russian phrasing highlights 'there you go' before landing on 'there you go'.
+- 'Why did you not warn me you were coming?' Here asking why Kostya not warn her Kostya was coming shows Elena looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why, is it strictly necessary to give a warning?' By wondering why it strictly necessary to give a warning is, Kostya presses Elena for a straight answer.
+- 'Well, no.' Between the friend and the work, Elena gives Kostya a quick, grounded response.
+- 'A brand-new aquarium.' With the friend and truth in play, Kostya keeps this short reply brisk and direct.
+- 'So why did you stop by?' Here wondering why Kostya stops shows Elena looking for the real truth.
+- 'A party. And who else if not you.' With the kitchen and friend in play, Kostya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Alright then, let her come over here.' Mentioning that Alright then let her come over here moves the talk in a new direction.
+- 'No, she asked for us to drive over to her place.' Kostya reminds Elena that she asked for them to drive over to her place before the moment passes.
+- 'She has no free time at all.' Adding that she has no free time at all fills in the missing piece for Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Come on, Vitya, please.' Once Elena should come on Vitya please, Kostya can finally tell Elena what he means.
+- 'And everything will be right there.' Elena mentions that everything will be right there so Kostya sees what is at stake.
+- 'And then for me, well...' Over the shift and the visit, Kostya answers Elena without a second thought.
+- 'There you go, just like that.' Explaining that there Kostya goes just like lays the cards on the table for Kostya.

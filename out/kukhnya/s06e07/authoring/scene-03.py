@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e07-scene-03.
 ID = 'kukhnya-s06e07-scene-03'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 3
-TITLE = "Мужское плечо для Кати  (A Shoulder for Katya to Lean On)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Мужское плечо для Кати  (A Shoulder for Katya to Lean On)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
-
 INTRO = "At home, Nastya and Kostya talk about how upset Katya is after Olivier's betrayal and debate which coworker deserves a chance with her. Listen to the full conversation in Russian first, and then we will walk through every line together."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Despite promising each other not to play matchmaker, both Nastya and Kostya secretly resolve to push their preferred candidate the next morning. Until next time!'
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Ей сейчас очень плохо после этой истории.', 'She feels awful right now after that whole story.', [(47, 'очень плохо после этой истории')], 'adapted'),
     ('nastya', 'Кате точно нужно надёжное мужское плечо.', "Katya definitely needs a reliable man's shoulder.", [(48, 'Ей точно нужно надежное мужское плечо')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nastya', 'Нет, конечно, мы вмешиваться не будем.', 'No, of course, we will not interfere.', [(58, 'Нет, конечно')], 'adapted'),
     ('kostya', 'Пусть они лучше сами во всём разбираются.', 'Let them figure everything out by themselves.', [(59, 'Вообще пусть сами разбираются')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'She feels awful right now after that whole story.' The meaning hinges on 'to her' working together with 'stories' in spoken Russian."),
-    (1, None, "'Katya definitely needs a reliable man's shoulder.' In Russian, the idea of 'exactly' flows naturally into 'shoulder' without extra filler words."),
-    (2, None, "'Maybe this is the right time for Denis to approach her?' The grammar packs 'maybe' and 'her' into a tight, idiomatic kitchen exchange."),
-    (3, None, "'What are you talking about, anyone but Denis!' Notice how Russian expresses 'you' and 'Denis' with crisp inflection rather than helper words."),
-    (4, None, "'Now Nikita is a completely different matter.' Here the Russian phrasing highlights 'and' before landing on 'business'."),
-    (5, None, "'There is no telling what to expect from him.' Kostya brings out the contrast between 'at all' and 'unclear' in a few short words."),
-    (6, None, "'Denis left her once and will leave her again.' The '-l' ending on the verb meaning 'quit' places the action in the masculine past tense."),
-    (7, None, "'No, Nikita suits her much better.' The grammar packs 'no' and 'better' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'Nastya, let us stay out of other people's lives.' In Russian, the idea of 'Nastya' flows naturally into 'life' without extra filler words."),
-    (9, None, "'You and I are not matchmakers after all.' Spoken Russian keeps this brisk, leaning on 'we' and finishing on 'matchmakers'. Nastya answers right away."),
-    (10, None, "'No, of course, we will not interfere.' The negative particle sits right before the verb meaning 'to interfere' to negate the statement."),
-    (11, None, "'Let them figure everything out by themselves.' The grammar packs 'let' and 'understand' into a tight, idiomatic kitchen exchange."),
+    (0, None, "'She feels awful right now after that whole story.' Explaining that she feels awful right now after that whole story lays the cards on the table for Kostya."),
+    (1, None, "'Katya definitely needs a reliable man's shoulder.' Nastya mentions that Katya definitely needs a reliable man shoulder so Kostya sees what is at stake."),
+    (2, None, '\'Maybe this is the right time for Denis to approach her?\' Wondering if maybe this is the right time for Denis to approach shows Kostya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (3, None, '\'What are you talking about, anyone but Denis!\' Declaring that what are Kostya talking about anyone but Denis brings Nastya\'s temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (4, None, "'Now Nikita is a completely different matter.' Saying that Nikita is a completely different matter is how Nastya sets the tone with Kostya."),
+    (5, None, "'There is no telling what to expect from him.' Realizing that there is no telling what to expect from him changes how Kostya handles the situation."),
+    (6, None, "'Denis left her once and will leave her again.' Noting that Denis left her once and will leave her again keeps Nastya's side of the story simple and clear."),
+    (7, None, "'No, Nikita suits her much better.' With the match and kitchen in play, Nastya keeps this short reply brisk and direct."),
+    (8, None, '\'Nastya, let us stay out of other people\'s lives.\' Because they should stay out of other people lives, Kostya treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
+    (9, None, '\'You and I are not matchmakers after all.\' Saying that Nastya and he are not matchmakers after all is how Kostya sets the tone with Nastya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (10, None, "'No, of course, we will not interfere.' Once they will not interfere, Nastya can finally tell Kostya what she means."),
+    (11, None, "'Let them figure everything out by themselves.' Letting them figure everything out by themselves is how Kostya lays out the situation for Nastya."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Despite promising each other not to play matchmaker, both Nastya and Kostya secretly resolve to push their preferred candidate the next morning. Until next time!'
-CLOSING = ("nastya", "Пока!")

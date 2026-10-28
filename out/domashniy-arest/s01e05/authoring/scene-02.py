@@ -1,33 +1,35 @@
-# domashniy-arest/s01e05/scene-02.py
-ID = "domashniy-arest-s01e05-scene-02"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e05-scene-02.
+ID = 'domashniy-arest-s01e05-scene-02'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 5
 SCENE = 2
-TITLE = "Пьяный за рулём  (Drunk at the Wheel)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.05"
-SOURCE_FILE = "sources/domashniy-arest/s01/e05.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "ilona": "angelina"}
-LABELS = {"anya": "Аркадий", "ilona": "Илона"}
+TITLE = 'Пьяный за рулём  (Drunk at the Wheel)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'ilona': 'Илона', 'nina': 'Нина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.05'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e05.ru.dual.srt'
 INTRO = "It's the next morning in the communal kitchen. Listen as Arkady scolds Samson's wife Nina for drinking wine with Samson instead of keeping an eye on him, Ilona despairs over their ruined campaign, and Nina warns them what will happen when Samson wakes up."
-STORY = [
-    ("anya", "Ну он-то понятно! От него я ничего больше не ждал.", "Well, with him it's obvious! I didn't expect anything more from him.", [(61, 'Ну он-то понятно'), (62, 'От него я ничего больше не ждал')], ""),
-    ("anya", "Но вы, Нина! Я же просил вас всё проконтролировать!", "But you, Nina! I asked you to keep everything under control!", [(63, 'Но вы, Нина, я же просил вас проконтролировать')], "'всё' added; split into two short sentences"),
-    ("ilona", "Я пыталась!", "I tried!", [(65, 'Пыталась')], "'Я' added"),
-    ("anya", "Пыталась? С бутылкой вина в руке?", "You tried? With a bottle of wine in your hand?", [(66, 'Пыталась? С бутылкой вина в руке')], ""),
-    ("anya", "У нас выборы, ты понимаешь?", "We have an election, do you understand?", [(70, 'У нас выборы, ты понимаешь')], "insult 'дебил' in cue 70 omitted"),
-    ("anya", "Надо придумать какую-то другую версию событий.", "We need to think up some other version of events.", [(71, 'надо придумать какую-то'), (71, 'версию событий')], "'альтернативную' simplified to 'другую'"),
-    ("ilona", "А что тут придумывать? Всё, приехали, это финиш!", "And what is there to think up? That's it, we've arrived, this is the finish!", [(72, 'А что тут придумывать? Все, приехали, это финиш')], ""),
-    ("ilona", "Пьяный за рулём врезался в общество слепых! В инвалидов!", "Drunk at the wheel, he crashed into the Society for the Blind! Into disabled people!", [(73, 'Пьяный за рулем'), (74, 'Врезался'), (74, 'в общество слепых, в инвалидов')], "brand name 'БМВ' in cue 73 omitted"),
-    ("anya", "Нет, отступать некуда! Впереди тюрьма!", "No, there is nowhere to retreat! Ahead is prison!", [(76, 'Нет, отступать некуда'), (76, 'впереди'), (76, 'тюрьма')], ""),
-    ("anya", "Скажи журналистам. Пресс-конференция будет сегодня вечером.", "Tell the journalists. The press conference will be this evening.", [(77, 'скажи журналистам, пресс-конференция будет сегодня вечером')], ""),
-    ("ilona", "Слушайте, да забудьте вы уже про свои выборы!", "Listen, just forget about your election already!", [(78, 'Слушайте, да забудьте вы уже про свои выборы')], ""),
-    ("ilona", "Это ещё почему?", "And why is that?", [(79, 'Это еще почему')], ""),
-    ("ilona", "Потому что я знаю Самсонова. Он как всё вспомнит, со стыда умрёт!", "Because I know Samsonov. Once he remembers everything, he'll die of shame!", [(80, 'Потому что я знаю Самсонова. Он как все'), (80, 'стыда')], "cue 80 'вспомнится, стыда помрет' -> 'вспомнит, со стыда умрёт'; cue 81 'бухать' omitted"),
-]
 OPENER = "Let's go back through the scene step by step. While Nina's daughter Yulia washes dishes at the sink, Arkady glares across the kitchen table at Nina."
+TRANSITION = "Now let's hear the whole kitchen argument again from the start."
+OUTRO = 'So Arkady refuses to give up on the election, while Nina is sure Samson will die of shame as soon as he remembers what he did. See you next time!'
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Ну он-то понятно! От него я ничего больше не ждал.', "Well, with him it's obvious! I didn't expect anything more from him.", [(61, 'Ну он-то понятно'), (62, 'От него я ничего больше не ждал')], ''),
+    ('arkady', 'Но вы, Нина! Я же просил вас всё проконтролировать!', 'But you, Nina! I asked you to keep everything under control!', [(63, 'Но вы, Нина, я же просил вас проконтролировать')], "'всё' added; split into two short sentences"),
+    ('nina', 'Я пыталась!', 'I tried!', [(65, 'Пыталась')], "'Я' added"),
+    ('arkady', 'Пыталась? С бутылкой вина в руке?', 'You tried? With a bottle of wine in your hand?', [(66, 'Пыталась? С бутылкой вина в руке')], ''),
+    ('arkady', 'У нас выборы, ты понимаешь?', 'We have an election, do you understand?', [(70, 'У нас выборы, ты понимаешь')], "insult 'дебил' in cue 70 omitted"),
+    ('arkady', 'Надо придумать какую-то другую версию событий.', 'We need to think up some other version of events.', [(71, 'надо придумать какую-то'), (71, 'версию событий')], "'альтернативную' simplified to 'другую'"),
+    ('ilona', 'А что тут придумывать? Всё, приехали, это финиш!', "And what is there to think up? That's it, we've arrived, this is the finish!", [(72, 'А что тут придумывать? Все, приехали, это финиш')], ''),
+    ('ilona', 'Пьяный за рулём врезался в общество слепых! В инвалидов!', 'Drunk at the wheel, he crashed into the Society for the Blind! Into disabled people!', [(73, 'Пьяный за рулем'), (74, 'Врезался'), (74, 'в общество слепых, в инвалидов')], "brand name 'БМВ' in cue 73 omitted"),
+    ('arkady', 'Нет, отступать некуда! Впереди тюрьма!', 'No, there is nowhere to retreat! Ahead is prison!', [(76, 'Нет, отступать некуда'), (76, 'впереди'), (76, 'тюрьма')], ''),
+    ('arkady', 'Скажи журналистам. Пресс-конференция будет сегодня вечером.', 'Tell the journalists. The press conference will be this evening.', [(77, 'скажи журналистам, пресс-конференция будет сегодня вечером')], ''),
+    ('nina', 'Слушайте, да забудьте вы уже про свои выборы!', 'Listen, just forget about your election already!', [(78, 'Слушайте, да забудьте вы уже про свои выборы')], ''),
+    ('ilona', 'Это ещё почему?', 'And why is that?', [(79, 'Это еще почему')], ''),
+    ('nina', 'Потому что я знаю Самсонова. Он как всё вспомнит, со стыда умрёт!', "Because I know Samsonov. Once he remembers everything, he'll die of shame!", [(80, 'Потому что я знаю Самсонова. Он как все'), (80, 'стыда')], "cue 80 'вспомнится, стыда помрет' -> 'вспомнит, со стыда умрёт'; cue 81 'бухать' omitted"),
+]
 WALK = [
     (0, 'Ну он-то понятно!', "'Well, with him it's obvious!' The particle attached with a hyphen adds emphasis and contrast: 'as for him, that's understandable'."),
     (0, 'От него я ничего больше не ждал.', "'I didn't expect anything more from him.' Notice the double negative with 'nothing' and 'did not wait'."),
@@ -46,6 +48,3 @@ WALK = [
     (12, 'Потому что я знаю Самсонова.', "'Because I know Samsonov.' Nina refers to her husband by his surname in the direct-object form."),
     (12, 'Он как всё вспомнит, со стыда умрёт!', "'Once he remembers everything, he'll die of shame!' Literally 'how he will remember everything, from shame he will die'."),
 ]
-TRANSITION = "Now let's hear the whole kitchen argument again from the start."
-OUTRO = "So Arkady refuses to give up on the election, while Nina is sure Samson will die of shame as soon as he remembers what he did. See you next time!"
-CLOSING = ("anya", "Пока!")

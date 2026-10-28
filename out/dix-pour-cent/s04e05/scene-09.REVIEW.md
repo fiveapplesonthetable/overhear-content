@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e05-scene-09` — Renvoi de la crèche  (Expelled from Daycare)
+# dix-pour-cent-s04e05-scene-09: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "directrice": "emilie"}`
-- **Labels**: `{"lea": "Andréa", "directrice": "Directrice"}`
+Title: Renvoi de la crèche  (Expelled from Daycare)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E05
 
-## Part 1 — Intro
-> At the daycare center Les Coccinelles, the director angrily confronts Andrea Martel for arriving very late. Because Andrea left baby Flora behind without notifying the staff, the director makes an uncompromising decision. Let's listen to their confrontation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `directrice` (Directrice) | Vous êtes en retard, madame Martel! | You are late, Madame Martel! | 425:Comment avez-vous pu la laisser ici sans nous prévenir ? |
-| 1 | `lea` (Andréa) | Je sais, j'ai eu une urgence. | I know, I had an emergency. | 425:sans nous prévenir ? |
-| 2 | `directrice` (Directrice) | Vous avez laissé votre fille seule! | You left your daughter alone! | 425:Comment avez-vous pu la laisser ici |
-| 3 | `lea` (Andréa) | Elle était en sécurité ici. | She was safe here. | 426:Vous avez évoqué le lien de confiance. |
-| 4 | `directrice` (Directrice) | C'est un manque de respect total. | It is a complete lack of respect. | 426:C'était un signe de confiance. |
-| 5 | `lea` (Andréa) | C'était une preuve de confiance! | It was proof of trust! | 426:C'était un signe de confiance. |
-| 6 | `directrice` (Directrice) | Non, c'est inacceptable pour nous. | No, it is unacceptable for us. | 427:Dites au revoir à la crèche Les Coccinelles. |
-| 7 | `directrice` (Directrice) | Dites au revoir à la crèche! | Say goodbye to the daycare! | 427:Dites au revoir à la crèche Les Coccinelles. |
-| 8 | `lea` (Andréa) | Vous renvoyez Flora pour ça? | Are you expelling Flora for that? | 428:Sans blague. Salut, Capu. |
-| 9 | `directrice` (Directrice) | Oui, nous appliquons le règlement. | Yes, we enforce the rules. | 431:Je vais en informer le siège. |
-| 10 | `lea` (Andréa) | Très bien, au revoir, madame. | Very well, goodbye, madame. | 428:Sans blague. Salut, Capu., 432:Faites donc. |
-| 11 | `directrice` (Directrice) | Vous êtes vraiment folle! | You are really crazy! | 429:Tu es folle ! Elle est folle. |
-| 12 | `lea` (Andréa) | Viens, Flora, on rentre à la maison. | Come, Flora, we are going home. | 433:Bonne nuit, ma chérie. |
-| 13 | `lea` (Andréa) | Bonne nuit, mon petit bébé. | Goodnight, my little baby. | 433:Bonne nuit, ma chérie. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> After facing the strict director's anger, Andrea walks away with Flora in her arms. When you watch the episode, listen out for the expressions meaning 'late' and 'madam'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Directrice | Vous êtes en retard, madame Martel! | You are late, Madame Martel! | #425: Comment avez-vous pu la laisser ici sans nous prévenir ? | verbatim |
+| 2 | Andréa | Je sais, j'ai eu une urgence. | I know, I had an emergency. | #425: sans nous prévenir ? | verbatim |
+| 3 | Directrice | Vous avez laissé votre fille seule! | You left your daughter alone! | #425: Comment avez-vous pu la laisser ici | verbatim |
+| 4 | Andréa | Elle était en sécurité ici. | She was safe here. | #426: Vous avez évoqué le lien de confiance. | verbatim |
+| 5 | Directrice | C'est un manque de respect total. | It is a complete lack of respect. | #426: C'était un signe de confiance. | verbatim |
+| 6 | Andréa | C'était une preuve de confiance! | It was proof of trust! | #426: C'était un signe de confiance. | verbatim |
+| 7 | Directrice | Non, c'est inacceptable pour nous. | No, it is unacceptable for us. | #427: Dites au revoir à la crèche Les Coccinelles. | verbatim |
+| 8 | Directrice | Dites au revoir à la crèche! | Say goodbye to the daycare! | #427: Dites au revoir à la crèche Les Coccinelles. | verbatim |
+| 9 | Andréa | Vous renvoyez Flora pour ça? | Are you expelling Flora for that? | #428: Sans blague. Salut, Capu. | verbatim |
+| 10 | Directrice | Oui, nous appliquons le règlement. | Yes, we enforce the rules. | #431: Je vais en informer le siège. | verbatim |
+| 11 | Andréa | Très bien, au revoir, madame. | Very well, goodbye, madame. | #428: Sans blague. Salut, Capu.<br>#432: Faites donc. | verbatim |
+| 12 | Directrice | Vous êtes vraiment folle! | You are really crazy! | #429: Tu es folle ! Elle est folle. | verbatim |
+| 13 | Andréa | Viens, Flora, on rentre à la maison. | Come, Flora, we are going home. | #433: Bonne nuit, ma chérie. | verbatim |
+| 14 | Andréa | Bonne nuit, mon petit bébé. | Goodnight, my little baby. | #433: Bonne nuit, ma chérie. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'You are late, Madame Martel!' The director expresses her immediate frustration. Directrice uses the polite 'you' form alongside 'late' to keep a respectful professional tone.
+- 'I know, I had an emergency.' Andrea justifies her arrival with a serious excuse. The verb meaning 'know' pairs naturally with the noun for 'emergency' in everyday conversation.
+- 'You left your daughter alone!' The director reproaches Andrea for leaving Flora unattended. Notice how 'have' leads directly into the noun meaning 'daughter'.
+- 'She was safe here.' Andrea argues that the daycare is a protected place. The verb meaning 'was' pairs naturally with the noun for 'safety' in everyday conversation.
+- 'It is a complete lack of respect.' The director condemns the late pickup. The key noun here means 'lack', anchored by its matching French article.
+- 'It was proof of trust!' Andrea reframes her lateness as total confidence in the staff. Notice how 'was' leads directly into the noun meaning 'proof'.
+- 'No, it is unacceptable for us.' The director rejects Andrea's rationalization. The adverb meaning 'no' gives the reply its conversational emphasis.
+- 'Say goodbye to the daycare!' The director delivers the severe consequence. The verb meaning 'say' pairs naturally with the noun for 'daycare' in everyday conversation.
+- 'Are you expelling Flora for that?' The formal 'you' pronoun sets a courteous, professional distance around 'expel'.
+- 'Yes, we enforce the rules.' The director insists on strict administrative regulations. The verb meaning 'enforce' pairs naturally with the noun for 'regulations' in everyday conversation.
+- 'Very well, goodbye, madame.' Andrea accepts the verdict coldly without pleading. The key noun here means 'madam', anchored by its matching French article.
+- 'You are really crazy!' The director watches Andrea leave in bewilderment. The adjective meaning 'crazy' takes its feminine form here to match the noun it describes.
+- 'Come, Flora, we are going home.' Notice how 'come' leads directly into the noun meaning 'house'. Notice how 'come' leads directly into the noun meaning 'house'.
+- 'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night. The adjective meaning 'good' takes its feminine form here to match the noun it describes.

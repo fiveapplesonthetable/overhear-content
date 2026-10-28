@@ -150,14 +150,14 @@ One character (label) = one role key = one voice across the entire show:
 ## Camille Valentini (new assistant, Mathias's secret daughter, arrives from the Côte d'Azur; first seen s01e01)
 - Appearance for the art: early 20s, slim, light skin #F6D2B5 with a few freckles, long wavy chestnut-brown hair worn
   loose, mustard-yellow cardigan over a white T-shirt, coral skirt with small cream flowers, brown canvas tote bag.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint (most of her scenes); otherwise `emilie`. Label: Camille.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint (most of her scenes); otherwise `emilie`. Label: Camille.
 - Speech: warm, direct, a bit naive; *tu* with Mathias (her father) and Hervé, *vous* with Noémie at first, with Andréa,
   Arlette and stars. Lines to reuse: "Je veux juste voir Mathias.", "Il me connaît.", "Je suis bien ici."
 
 ## Andréa Martel (agent; tough, funny, always on the phone; first seen s01e01)
 - Appearance for the art: around 35, light skin #F6D2B5, short tousled dark-brown hair (side-swept, ears visible),
   black leather jacket over a grey T-shirt, dark jeans, smartphone in hand.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Andréa.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Andréa.
 - Speech: fast, bossy, informal; *tu* with Gabriel, Arlette and Hervé, *vous* with Camille; with Mathias the cues use
   *vous* (s01e02 meeting). "Improvise!"
 
@@ -217,7 +217,7 @@ One character (label) = one role key = one voice across the entire show:
 - Appearance for the art (stylised cartoon, not a portrait): about 40, light skin #F6D2B5, short platinum-blonde pixie
   hair, big smile; in town a white shirt and light-blue jeans; riding scenes: black riding helmet, beige jodhpurs,
   navy jacket, chestnut horse.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Cécile.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Cécile.
 - Speech: open, emotional; *vous* with Gabriel in the s01e01 opening call, then *tu*; *vous* then *tu* with Mathias
   (garden scene).
 
@@ -230,13 +230,13 @@ One character (label) = one role key = one voice across the entire show:
 ## Françoise Fabian (star client, plays herself; Samuel's client and old friend, about 80; first seen s01e02)
 - Appearance for the art (stylised cartoon, not a portrait): slim, upright, light skin #F6D2B5, short swept-back
   silver-white hair (no bun), dark elegant coat over a black polo neck, plum silk scarf, small dark handbag.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Françoise.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Françoise.
 - Speech: cool, refined, *vous* with agents; art-house grande dame.
 
 ## Line Renaud (star client, plays herself; singer and actress, about 85; Samuel's old friend; first seen s01e02)
 - Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, voluminous platinum-blonde coiffed
   hair, big smile, bright fuchsia suit jacket, pearl earrings, sunglasses in hand.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Line.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Line.
 - Speech: warm, bubbly, loves life and music hall. Says *tu* to Gabriel ("Gabi") from s01e02 scene 9 on, while he keeps
   *vous*; both are on *vous* at their first lunch (scene 6).
 
@@ -272,13 +272,13 @@ One character (label) = one role key = one voice across the entire show:
 ## Laura Smet (star client, plays herself; Nathalie Baye's daughter, about 30; Gabriel's client; first seen s01e03)
 - Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, long straight dark-blonde hair, smoky
   eyes, oversized camel coat over a black top, chunky silver rings.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Laura.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Laura.
 - Speech: *tu* with Gabriel and her mother (calls her "Maman"); intense, a bit rebellious.
 
 ## Nathalie Baye (star client, plays herself; Laura's mother, in her 60s; Mathias's client; first seen s01e03)
 - Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, short feathered ash-blonde hair,
   cream silk blouse, navy blazer, small gold earrings.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Nathalie.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Nathalie.
 - Speech: warm but bossy mother ("Tiens-toi droite!"), *tu* with Mathias and Laura.
 
 ## Solveig Akerfelt (Scandinavian art-house director; first seen s01e03)
@@ -319,7 +319,7 @@ One character (label) = one role key = one voice across the entire show:
 - Appearance for the art (stylised cartoon, not a portrait): tall, slim, pale porcelain skin #F6D2B5, long wavy fiery
   copper-red hair, emerald-green top or emerald-green dress (or dark emerald blazer over a cream blouse; in the dance
   studio / flat: black athletic leggings and emerald top), warm expressive face.
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Audrey.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Audrey.
 - Speech: warm, witty, exhausted new mother; *tu* with Mathias, *vous* with the tax inspector, Augustin, and Armelle.
 
 ## Tax inspector (auditing Audrey's personal taxes; first seen s01e04)
@@ -344,7 +344,7 @@ One character (label) = one role key = one voice across the entire show:
 ## Julie Gayet (star client, plays herself; Andréa's client, around 43, starring in the 18th-century costume drama *L'Enclos*; first seen s01e05)
 - Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, wavy honey-blonde hair (in a powdered
   or pinned 18th-century updo on set), pale-blue silk 18th-century corset gown (or white bathrobe over the period gown).
-- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Julie.
+- Role key: `andrea` (see `cast.json`). when she is the viewpoint; otherwise `emilie`. Label: Julie.
 - Speech: refined, articulate; *tu* with Andréa, formal *vous* with JoeyStarr at first before switching to *tu*.
 
 ## JoeyStarr / Didier Morville (star client, plays himself; Gabriel's client, around 47, rapper and actor playing an 18th-century servant in *L'Enclos*; first seen s01e05)
@@ -362,7 +362,7 @@ One character (label) = one role key = one voice across the entire show:
 ## Marie-Sophie Garnier (head screenwriter of the daytime soap *Heureux pour toujours*, Arlette's loyal longtime client; first seen s01e05)
 - Appearance for the art: 50s, light skin #F6D2B5, short copper-red hair, rectangular glasses, colourful patterned
   scarf over a cardigan.
-- Story role key / voice: `lea` -> lucie or `emilie`. Label: Marie-Sophie.
+- Role key: `andrea` (see `cast.json`). or `emilie`. Label: Marie-Sophie.
 
 ## Jonathan Joubert (vain soap-opera star who plays Dr "Ryan" on *Heureux pour toujours*, Mathias's client; first seen s01e05)
 - Appearance for the art: late 30s, tanned light skin #F6D2B5, blow-dried dark-brown hair, white doctor's coat over an
@@ -437,27 +437,27 @@ One character (label) = one role key = one voice across the entire show:
 
 ## Hicham Janowski (new ASK majority shareholder; first seen s02e01)
 - Appearance for the art: early 40s, handsome, medium skin `#D9A074`, short neatly styled dark hair `#221A18` and close dark beard/stubble, sleek midnight-blue designer suit `#1B3B5A` over a black crew-neck shirt `#24242C`, confident posture.
-- Story role key / voice: `hicham` -> `marcel` or `theo` (or `lea` -> `lucie` when viewpoint). Label: Hicham.
+- Role key: `hicham` (see `cast.json`). or `theo` (or `lea` -> `lucie` when viewpoint). Label: Hicham.
 - Speech: fast, assertive, impulsive, wealthy tech-entrepreneur energy; *tu* with the agents.
 
 ## Virginie Efira (star client, plays herself; guest star s02e01)
 - Appearance for the art (stylised cartoon, not a portrait): late 30s, light skin `#F6D2B5`, wavy golden-blonde shoulder-length hair `#E8C36A`, warm bright smile, chic navy-blue silk blouse `#2E3A5E` under a camel coat `#C9956A`.
-- Story role key / voice: `lea` -> `lucie` or `emilie`. Label: Virginie.
+- Role key: `andrea` (see `cast.json`). or `emilie`. Label: Virginie.
 - Speech: informal, warm, self-deprecating; *tu* with Ramzy, Mathias, and Gabriel.
 
 ## Ramzy Bedia (star client, plays himself; guest star s02e01)
 - Appearance for the art (stylised cartoon, not a portrait): tall, medium skin `#D9A074`, closely cropped dark hair and neat beard `#221815`, expressive eyebrows, olive bomber jacket `#5A6B4C` over a cream tee `#FFF6EA`.
-- Story role key / voice: `ramzy` -> `marcel` or `theo`. Label: Ramzy.
+- Role key: `ramzy` (see `cast.json`). or `theo`. Label: Ramzy.
 - Speech: comedic, defensive, emotional; *tu* with Virginie and Gabriel.
 
 ## Fabrice Luchini (star client, plays himself; guest star s02e02)
 - Appearance for the art (stylised cartoon, not a portrait): 60s, light skin `#F6D2B5`, receding silver-grey hair `#9A9EA6` brushed back at the sides, expressive raised eyebrows, dark plum blazer `#4A3360` with a burgundy cashmere scarf `#8E2F3B` draped around his neck, gesturing theatrical hands.
-- Story role key / voice: `fabrice` -> `theo` or `marcel`. Label: Fabrice.
+- Role key: `fabrice` (see `cast.json`). or `marcel`. Label: Fabrice.
 - Speech: highly theatrical, quotes Flaubert and Céline, shifting from whisper to exclamation.
 
 ## Christophe Lambert (star client, plays himself; guest star s02e02)
 - Appearance for the art (stylised cartoon, not a portrait): late 50s, tanned light skin `#D9A074`, tousled sandy-grey hair `#8C8275`, light stubble, cool slate-blue suede jacket `#3B5368` over a white shirt.
-- Story role key / voice: `christophe` -> `theo`. Label: Christophe.
+- Role key: `christophe` (see `cast.json`).. Label: Christophe.
 
 ## Linda Gérard (actress client posing as English casting director Debbie MacWilliams; s02e02)
 - Appearance for the art: 40s, light skin `#F6D2B5`, auburn hair pinned up `#8B3A2B`, oversized round glasses and tweed blazer `#7A6855`.
@@ -465,7 +465,7 @@ One character (label) = one role key = one voice across the entire show:
 
 ## Norman Thavaud (star client, plays himself; guest star s02e03)
 - Appearance for the art (stylised cartoon, not a portrait): late 20s, light skin `#F6D2B5`, tousled wavy medium-brown hair `#6B4423`, casual maroon hoodie `#8E3B46` under a denim jacket `#4B6B8A`, wide expressive eyes.
-- Story role key / voice: `norman` -> `theo` (or `lea` -> `lucie` when viewpoint). Label: Norman.
+- Role key: `norman` (see `cast.json`). (or `lea` -> `lucie` when viewpoint). Label: Norman.
 - Speech: informal, energetic, anxious about his driving test.
 
 ## Aymar / L'examinateur (driving instructor & examiner; s02e03)
@@ -474,68 +474,68 @@ One character (label) = one role key = one voice across the entire show:
 
 ## Isabelle Adjani (star client, plays herself; guest star s02e04)
 - Appearance for the art (stylised cartoon, not a portrait): 60s, pale porcelain skin `#F6D2B5`, long dark-brown hair `#2B1B17`, wide-brimmed dark plum hat `#4A3360`, large dark sunglasses, flowing lavender-grey silk scarf and coat `#7A6B8A`.
-- Story role key / voice: `isabelle` -> `emilie` or `lea` -> `lucie`. Label: Isabelle.
+- Role key: `isabelle` (see `cast.json`). or `lea` -> `lucie`. Label: Isabelle.
 - Speech: breathy, enigmatic, mercurial diva charm.
 
 ## Julien Doré (star client, plays himself; singer and aspiring director; guest star s02e05, recurring s03)
 - Appearance for the art (stylised cartoon, not a portrait): mid 30s, light skin `#F6D2B5`, long wavy golden-blonde hair `#D4A459` reaching his shoulders, light beard, black open-collar shirt `#24242C` under a mustard-tan suede jacket `#C98B5E`.
-- Story role key / voice: `julien` -> `theo` or `marcel`. Label: Julien.
+- Role key: `julien` (see `cast.json`). or `marcel`. Label: Julien.
 
 ## Guy Marchand (star client, plays himself; veteran crooner and actor; guest star s02e05)
 - Appearance for the art (stylised cartoon, not a portrait): late 70s, light skin `#F6D2B5`, distinguished silver-white hair `#D0D4DC` and trim silver moustache, camel blazer `#B88B5A` with a silk ascot scarf `#8E2F3B` and fedora hat.
-- Story role key / voice: `guy` -> `marcel` or `theo`. Label: Guy.
+- Role key: `guy` (see `cast.json`). or `theo`. Label: Guy.
 
 ## Juliette Binoche (star client, plays herself; Cannes festival president; guest star s02e06)
 - Appearance for the art (stylised cartoon, not a portrait): early 50s, light skin `#F6D2B5`, sleek dark-chestnut hair `#3B2219` swept back, radiant warm smile, dramatic royal-blue or crimson Cannes evening gown `#A62B4C` (or crisp white silk shirt by day).
-- Story role key / voice: `juliette` -> `emilie` or `lea` -> `lucie`. Label: Juliette.
+- Role key: `juliette` (see `cast.json`). or `lea` -> `lucie`. Label: Juliette.
 
 ## Jean Dujardin (star client, plays himself; method-acting as a World War I deserter living in the woods; guest star s03e01)
 - Appearance for the art (stylised cartoon, not a portrait): mid 40s, medium-tanned skin `#D9A074`, tousled dark hair and thick overgrown beard `#3B261E`, vintage distressed olive-brown wool greatcoat `#5A523C` and mud-splattered boots.
-- Story role key / voice: `jean` -> `theo` or `marcel`. Label: Jean.
+- Role key: `jean` (see `cast.json`). or `marcel`. Label: Jean.
 
 ## Monica Bellucci (star client, plays herself; guest star s03e02)
 - Appearance for the art (stylised cartoon, not a portrait): 50s, warm light skin `#F6D2B5`, long lustrous dark-espresso hair `#1F1614` with soft bangs, classic black lace-trimmed Italian dress `#24242C` with a ruby-red coat `#A62B4C` and gold drop earrings.
-- Story role key / voice: `monica` -> `emilie` or `lea` -> `lucie`. Label: Monica.
+- Role key: `monica` (see `cast.json`). or `lea` -> `lucie`. Label: Monica.
 
 ## Gérard Lanvin (star client, plays himself; guest star s03e03)
 - Appearance for the art (stylised cartoon, not a portrait): 60s, tanned skin `#D9A074`, short salt-and-pepper hair and rugged grey-streaked stubble `#7A7E85`, dark brown leather aviator jacket `#4E3629` over a charcoal henley shirt `#36404A`.
-- Story role key / voice: `gerard` -> `theo` or `marcel`. Label: Gérard.
+- Role key: `gerard` (see `cast.json`). or `marcel`. Label: Gérard.
 
 ## Isabelle Huppert (star client, plays herself; tireless actress shooting two films at once; guest star s03e04)
 - Appearance for the art (stylised cartoon, not a portrait): 60s, pale light skin `#F6D2B5` with freckles, shoulder-length straight copper-strawberry-blonde hair `#C96A42`, sharp tailored emerald-teal pantsuit `#2E7D7A` over a cream blouse, dark sunglasses in hand.
-- Story role key / voice: `isabelle` -> `emilie` or `lea` -> `lucie`. Label: Isabelle.
+- Role key: `isabelle` (see `cast.json`). or `lea` -> `lucie`. Label: Isabelle.
 
 ## Béatrice Dalle (star client, plays herself; fiery rebel actress; guest star s03e05)
 - Appearance for the art (stylised cartoon, not a portrait): 50s, light skin `#F6D2B5`, long wild jet-black hair `#181518`, bold red lips and wide gap-toothed grin, black rock-and-roll leather jacket `#24242C` over a leopard/gold top `#D4A459`.
-- Story role key / voice: `beatrice` -> `emilie` or `lea` -> `lucie`. Label: Béatrice.
+- Role key: `beatrice` (see `cast.json`). or `lea` -> `lucie`. Label: Béatrice.
 
 ## Charlotte Gainsbourg (star client, plays herself; guest star s04e01)
 - Appearance for the art (stylised cartoon, not a portrait): late 40s, slim, light skin `#F6D2B5`, long straight chestnut-brown hair `#4A2E26` parted in the middle, understated Parisian chic navy pea coat `#2A3B5C` over a striped shirt and jeans.
-- Story role key / voice: `charlotte` -> `emilie` or `lea` -> `lucie`. Label: Charlotte.
+- Role key: `charlotte` (see `cast.json`). or `lea` -> `lucie`. Label: Charlotte.
 
 ## Élise Formain (ambitious new agent hired by Hicham from StarMédia; recurring S4, first seen s04e01)
 - Appearance for the art: late 30s, light skin `#F6D2B5`, sleek honey-blonde bob `#D9B25F`, sharp tailored burgundy-plum blazer `#7A2E4D` over a cream blouse, calculating smile.
-- Story role key / voice: `elise` -> `emilie` (or `lea` -> `lucie` when viewpoint). Label: Élise.
+- Role key: `elise` (see `cast.json`). (or `lea` -> `lucie` when viewpoint). Label: Élise.
 
 ## Franck Dubosc (star client, plays himself; comedy star seeking a gritty dramatic role; guest star s04e02)
 - Appearance for the art (stylised cartoon, not a portrait): 50s, tanned skin `#D9A074`, swept-back silver-brown hair `#6E6A66`, expressive blue-eyed grin, sky-blue open-collar shirt `#78B9E8` under a navy blazer `#2E3A5E`.
-- Story role key / voice: `franck` -> `theo` or `marcel` (or `lea` -> `lucie`). Label: Franck.
+- Role key: `franck` (see `cast.json`). or `marcel` (or `lea` -> `lucie`). Label: Franck.
 
 ## José Garcia (star client, plays himself; energetic actor; guest star s04e03)
 - Appearance for the art (stylised cartoon, not a portrait): 50s, medium skin `#D9A074`, short dark hair with silver temples and neat goatee `#3A3638`, lively theatrical grin, terracotta-rust jacket `#B85A44` over a dark shirt.
-- Story role key / voice: `jose` -> `theo`. Label: José.
+- Role key: `jose` (see `cast.json`).. Label: José.
 
 ## Sandrine Kiberlain (star client, plays herself; actress trying stand-up comedy; guest star s04e04)
 - Appearance for the art (stylised cartoon, not a portrait): 50s, slim, light skin `#F6D2B5`, tousled short-to-medium golden-blonde hair `#E8C36A`, warm expressive face, oversized mustard blazer `#E0B456` over a white tee, holding a stand-up microphone.
-- Story role key / voice: `sandrine` -> `emilie` or `lea` -> `lucie`. Label: Sandrine.
+- Role key: `sandrine` (see `cast.json`). or `lea` -> `lucie`. Label: Sandrine.
 
 ## Sigourney Weaver (star client, plays herself; tall Hollywood legend visiting Paris; guest star s04e05)
 - Appearance for the art (stylised cartoon, not a portrait): tall, statuesque, light skin `#F6D2B5`, wavy auburn-chestnut hair `#7A3B2E`, regal posture, tailored royal-red blazer `#C8373B` over a cream silk blouse `#FFF6EA` and gold scarf.
-- Story role key / voice: `sigourney` -> `emilie` or `lea` -> `lucie`. Label: Sigourney.
+- Role key: `sigourney` (see `cast.json`). or `lea` -> `lucie`. Label: Sigourney.
 
 ## Jean Reno (star client, plays himself; legendary French actor retiring; guest star s04e06)
 - Appearance for the art (stylised cartoon, not a portrait): 70, stocky, medium-light skin `#D9A074`, closely cropped silver hair and neat white-grey stubble beard `#B0B4BC`, iconic small round glasses, dark olive-charcoal overcoat `#3B423E` and burgundy scarf.
-- Story role key / voice: `jean` -> `theo` or `marcel`. Label: Jean.
+- Role key: `jean` (see `cast.json`). or `marcel`. Label: Jean.
 
 ## Sacha Hartman & Elvis Janowski (recurring S3–S4)
 - **Sacha Hartman (veteran film producer; s03–s04)**: 65, light skin `#F6D2B5`, silver hair and glasses, navy cashmere sweater over a collared shirt `#2E3A5E`. Label: Sacha.
@@ -546,133 +546,133 @@ One character (label) = one role key = one voice across the entire show:
 
 Every role key used in any episode of this show is listed below with its character label, visual appearance notes, and fixed voice:
 
-- **Andréa** (label: `Andréa`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `lea` -> lucie
-- **Gabriel** (label: `Gabriel`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `gabriel` -> theo
-- **Mathias** (label: `Mathias`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `mathias` -> marcel
-- **Camille** (label: `Camille`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `camille` -> emilie
-- **Noémie** (label: `Noémie`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `noemie` -> emilie
-- **Sofia** (label: `Sofia`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `sofia` -> emilie
-- **Hicham** (label: `Hicham`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `hicham` -> marcel
-- **Hervé** (label: `Hervé`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `herve` -> marcel
-- **Arlette** (label: `Arlette`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `arlette` -> emilie
-- **Colette** (label: `Colette`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `colette` -> emilie
-- **Catherine** (label: `Catherine`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `catherine` -> emilie
-- **Isabelle** (label: `Isabelle`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `isabelle` -> emilie
-- **Élise** (label: `Élise`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `elise` -> emilie
-- **Hippolyte** (label: `Hippolyte`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `hippolyte` -> theo
-- **Jean** (label: `Jean`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `jean` -> theo
-- **Virginie** (label: `Virginie`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `virginie` -> emilie
-- **Julien** (label: `Julien`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `julien` -> marcel
-- **Cécile** (label: `Cécile`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `cecile` -> emilie
-- **Audrey** (label: `Audrey`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `audrey` -> emilie
-- **Christophe** (label: `Christophe`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `christophe` -> theo
-- **Guy** (label: `Guy`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `guy` -> marcel
-- **José** (label: `José`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `jose` -> theo
-- **JoeyStarr** (label: `JoeyStarr`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `joey` -> marcel
-- **François** (label: `François`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `francois` -> marcel
-- **Norman** (label: `Norman`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `norman` -> marcel
-- **Annick** (label: `Annick`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `annick` -> emilie
-- **Juliette** (label: `Juliette`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `juliette` -> emilie
-- **Monica** (label: `Monica`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `monica` -> emilie
-- **Samy** (label: `Samy`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `samy` -> marcel
-- **Le réalisateur** (label: `Le réalisateur`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `realisateur` -> marcel
-- **Sigourney** (label: `Sigourney`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `sigourney` -> emilie
-- **Laura** (label: `Laura`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `laura` -> emilie
-- **Nathalie** (label: `Nathalie`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `nathalie` -> emilie
-- **Julie** (label: `Julie`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `julie` -> emilie
-- **Fabrice** (label: `Fabrice`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `fabrice` -> theo
-- **Gérard** (label: `Gérard`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `gerard` -> theo
-- **Franck** (label: `Franck`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `franck` -> marcel
-- **Ramzy** (label: `Ramzy`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `ramzy` -> theo
-- **Sacha** (label: `Sacha`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `sacha` -> theo
-- **Charlotte** (label: `Charlotte`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `charlotte` -> emilie
-- **Sandrine** (label: `Sandrine`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `sandrine` -> emilie
-- **Hélène** (label: `Hélène`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `helene` -> emilie
-- **Valentin** (label: `Valentin`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `valentin` -> theo
-- **Béatrice** (label: `Béatrice`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `beatrice` -> emilie
-- **Line** (label: `Line`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `line` -> emilie
-- **Solveig** (label: `Solveig`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `solveig` -> emilie
-- **Samir** (label: `Samir`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `samir` -> theo
-- **Constance** (label: `Constance`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `constance` -> emilie
-- **Dylan** (label: `Dylan`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `dylan` -> theo
-- **Miranda** (label: `Miranda`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `miranda` -> emilie
-- **Françoise** (label: `Françoise`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `francoise` -> emilie
-- **Emma** (label: `Emma`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `emma` -> emilie
-- **Augustin** (label: `Augustin`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `augustin` -> theo
-- **L'assistant** (label: `L'assistant`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `assistant` -> theo
-- **Le serveur** (label: `Le serveur`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `serveur` -> marcel
-- **Michel** (label: `Michel`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `michel` -> marcel
-- **Jean-Denis** (label: `Jean-Denis`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `gillieres` -> theo
-- **Corinne** (label: `Corinne`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `corinne` -> emilie
-- **Oscar** (label: `Oscar`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `oscar` -> marcel
-- **Magali** (label: `Magali`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `magali` -> emilie
-- **Réceptionniste** (label: `Réceptionniste`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `receptionniste` -> emilie
-- **Le directeur** (label: `Le directeur`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `directeur` -> theo
-- **Le journaliste** (label: `Le journaliste`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `journaliste` -> marcel
-- **Elvis** (label: `Elvis`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `elvis` -> theo
-- **Le policier** (label: `Le policier`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `policier` -> marcel
-- **Véra** (label: `Véra`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `vera` -> emilie
-- **Élisabeth** (label: `Élisabeth`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `elisabeth` -> emilie
-- **Renard** (label: `Renard`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `renard` -> theo
-- **Maxime** (label: `Maxime`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `maxime` -> theo
-- **Sharon** (label: `Sharon`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `sharon` -> emilie
-- **Laurence** (label: `Laurence`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `laurence` -> emilie
-- **Le vendeur** (label: `Le vendeur`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `vendeur` -> theo
-- **Paco** (label: `Paco`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `paco` -> theo
-- **Mimie** (label: `Mimie`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `mimie` -> emilie
-- **Igor** (label: `Igor`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `igor` -> theo
-- **Sarah** (label: `Sarah`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `sarah` -> emilie
-- **Chauffeur** (label: `Chauffeur`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `chauffeur` -> theo
-- **Valérie** (label: `Valérie`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `valerie` -> emilie
-- **Ulrika** (label: `Ulrika`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `ulrika` -> emilie
-- **La journaliste** (label: `La journaliste`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `la_journaliste` -> emilie
-- **Samuel** (label: `Samuel`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `samuel` -> marcel
-- **Le consul** (label: `Le consul`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `consul` -> theo
-- **Damien** (label: `Damien`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `damien` -> theo
-- **Gabor** (label: `Gabor`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `gabor` -> marcel
-- **Clément** (label: `Clément`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `clement` -> theo
-- **Maman** (label: `Maman`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `maman` -> emilie
-- **Dominique** (label: `Dominique`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `dominique` -> theo
-- **L'inspecteur** (label: `L'inspecteur`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `inspecteur` -> theo
-- **Clémentine** (label: `Clémentine`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `clementine` -> emilie
-- **Armelle** (label: `Armelle`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `armelle` -> emilie
-- **Marie-Sophie** (label: `Marie-Sophie`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `marie_sophie` -> emilie
-- **Costumière** (label: `Costumière`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `costumiere` -> emilie
-- **Le maire** (label: `Le maire`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `maire` -> theo
-- **Karine** (label: `Karine`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `karine` -> emilie
-- **Dario** (label: `Dario`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `dario` -> theo
-- **Linda** (label: `Linda`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `linda` -> emilie
-- **Aymeline** (label: `Aymeline`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `aymeline` -> emilie
-- **Violaine** (label: `Violaine`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `violaine` -> emilie
-- **L'examinateur** (label: `L'examinateur`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `examinateur` -> theo
-- **Eugénie** (label: `Eugénie`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `eugenie` -> emilie
-- **L'animateur** (label: `L'animateur`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `animateur` -> marcel
-- **Benoît** (label: `Benoît`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `benoit` -> theo
-- **Léopoldine** (label: `Léopoldine`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `leopoldine` -> emilie
-- **Le médecin** (label: `Le médecin`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `medecin` -> theo
-- **Eva** (label: `Eva`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `eva` -> emilie
-- **L'écrivain** (label: `L'écrivain`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `writer` -> theo
-- **Le technicien** (label: `Le technicien`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `technicien` -> theo
-- **Directrice UBA** (label: `Directrice UBA`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `uba` -> emilie
-- **Brian** (label: `Brian`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `brian` -> theo
-- **Chantal** (label: `Chantal`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `chantal` -> emilie
-- **Assistante de casting** (label: `Assistante de casting`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `casting_asst` -> emilie
-- **Charles** (label: `Charles`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `charles` -> theo
-- **Élève** (label: `Élève`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `eleve` -> emilie
-- **Cédric** (label: `Cédric`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `cedric` -> marcel
-- **Maquilleuse** (label: `Maquilleuse`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `maquilleuse` -> emilie
-- **Jean-Luc Birag** (label: `Jean-Luc Birag`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `birag` -> theo
-- **Carlotta** (label: `Carlotta`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `carlotta` -> emilie
-- **Pascal** (label: `Pascal`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `pascal` -> theo
-- **Xavier** (label: `Xavier`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `xavier` -> marcel
-- **Justine** (label: `Justine`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `justine` -> emilie
-- **Madame Bonnero** (label: `Madame Bonnero`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `bonnero` -> emilie
-- **Suzanne** (label: `Suzanne`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `suzanne` -> emilie
-- **Véro** (label: `Véro`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `vero` -> emilie
-- **Chanteuse** (label: `Chanteuse`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `chanteuse` -> emilie
-- **Directrice** (label: `Directrice`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `directrice` -> emilie
-- **Bernard** (label: `Bernard`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `bernard` -> theo
-- **Guillaume** (label: `Guillaume`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `guillaume` -> theo
-- **Le distributeur** (label: `Le distributeur`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `distributeur` -> theo
-- **Le vétérinaire** (label: `Le vétérinaire`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `veto` -> theo
+- **Andréa** (label: `Andréa`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `andrea` (see `cast.json`).
+- **Gabriel** (label: `Gabriel`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `gabriel` (see `cast.json`).
+- **Mathias** (label: `Mathias`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `mathias` (see `cast.json`).
+- **Camille** (label: `Camille`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `camille` (see `cast.json`).
+- **Noémie** (label: `Noémie`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `noemie` (see `cast.json`).
+- **Sofia** (label: `Sofia`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `sofia` (see `cast.json`).
+- **Hicham** (label: `Hicham`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `hicham` (see `cast.json`).
+- **Hervé** (label: `Hervé`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `herve` (see `cast.json`).
+- **Arlette** (label: `Arlette`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `arlette` (see `cast.json`).
+- **Colette** (label: `Colette`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `colette` (see `cast.json`).
+- **Catherine** (label: `Catherine`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `catherine` (see `cast.json`).
+- **Isabelle** (label: `Isabelle`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `isabelle` (see `cast.json`).
+- **Élise** (label: `Élise`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `elise` (see `cast.json`).
+- **Hippolyte** (label: `Hippolyte`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `hippolyte` (see `cast.json`).
+- **Jean** (label: `Jean`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `jean` (see `cast.json`).
+- **Virginie** (label: `Virginie`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `virginie` (see `cast.json`).
+- **Julien** (label: `Julien`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `julien` (see `cast.json`).
+- **Cécile** (label: `Cécile`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `cecile` (see `cast.json`).
+- **Audrey** (label: `Audrey`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `audrey` (see `cast.json`).
+- **Christophe** (label: `Christophe`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `christophe` (see `cast.json`).
+- **Guy** (label: `Guy`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `guy` (see `cast.json`).
+- **José** (label: `José`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `jose` (see `cast.json`).
+- **JoeyStarr** (label: `JoeyStarr`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `joey` (see `cast.json`).
+- **François** (label: `François`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `francois` (see `cast.json`).
+- **Norman** (label: `Norman`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `norman` (see `cast.json`).
+- **Annick** (label: `Annick`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `annick` (see `cast.json`).
+- **Juliette** (label: `Juliette`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `juliette` (see `cast.json`).
+- **Monica** (label: `Monica`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `monica` (see `cast.json`).
+- **Samy** (label: `Samy`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `samy` (see `cast.json`).
+- **Le réalisateur** (label: `Le réalisateur`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `realisateur` (see `cast.json`).
+- **Sigourney** (label: `Sigourney`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `sigourney` (see `cast.json`).
+- **Laura** (label: `Laura`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `laura` (see `cast.json`).
+- **Nathalie** (label: `Nathalie`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `nathalie` (see `cast.json`).
+- **Julie** (label: `Julie`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `julie` (see `cast.json`).
+- **Fabrice** (label: `Fabrice`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `fabrice` (see `cast.json`).
+- **Gérard** (label: `Gérard`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `gerard` (see `cast.json`).
+- **Franck** (label: `Franck`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `franck` (see `cast.json`).
+- **Ramzy** (label: `Ramzy`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `ramzy` (see `cast.json`).
+- **Sacha** (label: `Sacha`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `sacha` (see `cast.json`).
+- **Charlotte** (label: `Charlotte`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `charlotte` (see `cast.json`).
+- **Sandrine** (label: `Sandrine`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `sandrine` (see `cast.json`).
+- **Hélène** (label: `Hélène`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `helene` (see `cast.json`).
+- **Valentin** (label: `Valentin`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `valentin` (see `cast.json`).
+- **Béatrice** (label: `Béatrice`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `beatrice` (see `cast.json`).
+- **Line** (label: `Line`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `line` (see `cast.json`).
+- **Solveig** (label: `Solveig`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `solveig` (see `cast.json`).
+- **Samir** (label: `Samir`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `samir` (see `cast.json`).
+- **Constance** (label: `Constance`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `constance` (see `cast.json`).
+- **Dylan** (label: `Dylan`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `dylan` (see `cast.json`).
+- **Miranda** (label: `Miranda`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `miranda` (see `cast.json`).
+- **Françoise** (label: `Françoise`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `francoise` (see `cast.json`).
+- **Emma** (label: `Emma`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `emma` (see `cast.json`).
+- **Augustin** (label: `Augustin`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `augustin` (see `cast.json`).
+- **L'assistant** (label: `L'assistant`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `assistant` (see `cast.json`).
+- **Le serveur** (label: `Le serveur`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `serveur` (see `cast.json`).
+- **Michel** (label: `Michel`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `michel` (see `cast.json`).
+- **Jean-Denis** (label: `Jean-Denis`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `gillieres` (see `cast.json`).
+- **Corinne** (label: `Corinne`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `corinne` (see `cast.json`).
+- **Oscar** (label: `Oscar`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `oscar` (see `cast.json`).
+- **Magali** (label: `Magali`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `magali` (see `cast.json`).
+- **Réceptionniste** (label: `Réceptionniste`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `receptionniste` (see `cast.json`).
+- **Le directeur** (label: `Le directeur`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `directeur` (see `cast.json`).
+- **Le journaliste** (label: `Le journaliste`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `journaliste` (see `cast.json`).
+- **Elvis** (label: `Elvis`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `elvis` (see `cast.json`).
+- **Le policier** (label: `Le policier`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `policier` (see `cast.json`).
+- **Véra** (label: `Véra`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `vera` (see `cast.json`).
+- **Élisabeth** (label: `Élisabeth`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `elisabeth` (see `cast.json`).
+- **Renard** (label: `Renard`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `renard` (see `cast.json`).
+- **Maxime** (label: `Maxime`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `maxime` (see `cast.json`).
+- **Sharon** (label: `Sharon`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `sharon` (see `cast.json`).
+- **Laurence** (label: `Laurence`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `laurence` (see `cast.json`).
+- **Le vendeur** (label: `Le vendeur`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `vendeur` (see `cast.json`).
+- **Paco** (label: `Paco`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `paco` (see `cast.json`).
+- **Mimie** (label: `Mimie`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `mimie` (see `cast.json`).
+- **Igor** (label: `Igor`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `igor` (see `cast.json`).
+- **Sarah** (label: `Sarah`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `sarah` (see `cast.json`).
+- **Chauffeur** (label: `Chauffeur`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `chauffeur` (see `cast.json`).
+- **Valérie** (label: `Valérie`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `valerie` (see `cast.json`).
+- **Ulrika** (label: `Ulrika`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `ulrika` (see `cast.json`).
+- **La journaliste** (label: `La journaliste`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `la_journaliste` (see `cast.json`).
+- **Samuel** (label: `Samuel`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `samuel` (see `cast.json`).
+- **Le consul** (label: `Le consul`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `consul` (see `cast.json`).
+- **Damien** (label: `Damien`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `damien` (see `cast.json`).
+- **Gabor** (label: `Gabor`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `gabor` (see `cast.json`).
+- **Clément** (label: `Clément`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `clement` (see `cast.json`).
+- **Maman** (label: `Maman`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `maman` (see `cast.json`).
+- **Dominique** (label: `Dominique`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `dominique` (see `cast.json`).
+- **L'inspecteur** (label: `L'inspecteur`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `inspecteur` (see `cast.json`).
+- **Clémentine** (label: `Clémentine`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `clementine` (see `cast.json`).
+- **Armelle** (label: `Armelle`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `armelle` (see `cast.json`).
+- **Marie-Sophie** (label: `Marie-Sophie`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `marie_sophie` (see `cast.json`).
+- **Costumière** (label: `Costumière`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `costumiere` (see `cast.json`).
+- **Le maire** (label: `Le maire`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `maire` (see `cast.json`).
+- **Karine** (label: `Karine`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `karine` (see `cast.json`).
+- **Dario** (label: `Dario`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `dario` (see `cast.json`).
+- **Linda** (label: `Linda`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `linda` (see `cast.json`).
+- **Aymeline** (label: `Aymeline`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `aymeline` (see `cast.json`).
+- **Violaine** (label: `Violaine`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `violaine` (see `cast.json`).
+- **L'examinateur** (label: `L'examinateur`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `examinateur` (see `cast.json`).
+- **Eugénie** (label: `Eugénie`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `eugenie` (see `cast.json`).
+- **L'animateur** (label: `L'animateur`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `animateur` (see `cast.json`).
+- **Benoît** (label: `Benoît`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `benoit` (see `cast.json`).
+- **Léopoldine** (label: `Léopoldine`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `leopoldine` (see `cast.json`).
+- **Le médecin** (label: `Le médecin`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `medecin` (see `cast.json`).
+- **Eva** (label: `Eva`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `eva` (see `cast.json`).
+- **L'écrivain** (label: `L'écrivain`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `writer` (see `cast.json`).
+- **Le technicien** (label: `Le technicien`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `technicien` (see `cast.json`).
+- **Directrice UBA** (label: `Directrice UBA`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `uba` (see `cast.json`).
+- **Brian** (label: `Brian`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `brian` (see `cast.json`).
+- **Chantal** (label: `Chantal`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `chantal` (see `cast.json`).
+- **Assistante de casting** (label: `Assistante de casting`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `casting_asst` (see `cast.json`).
+- **Charles** (label: `Charles`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `charles` (see `cast.json`).
+- **Élève** (label: `Élève`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `eleve` (see `cast.json`).
+- **Cédric** (label: `Cédric`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `cedric` (see `cast.json`).
+- **Maquilleuse** (label: `Maquilleuse`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `maquilleuse` (see `cast.json`).
+- **Jean-Luc Birag** (label: `Jean-Luc Birag`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `birag` (see `cast.json`).
+- **Carlotta** (label: `Carlotta`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `carlotta` (see `cast.json`).
+- **Pascal** (label: `Pascal`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `pascal` (see `cast.json`).
+- **Xavier** (label: `Xavier`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `xavier` (see `cast.json`).
+- **Justine** (label: `Justine`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `justine` (see `cast.json`).
+- **Madame Bonnero** (label: `Madame Bonnero`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `bonnero` (see `cast.json`).
+- **Suzanne** (label: `Suzanne`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `suzanne` (see `cast.json`).
+- **Véro** (label: `Véro`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `vero` (see `cast.json`).
+- **Chanteuse** (label: `Chanteuse`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `chanteuse` (see `cast.json`).
+- **Directrice** (label: `Directrice`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `directrice` (see `cast.json`).
+- **Bernard** (label: `Bernard`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `bernard` (see `cast.json`).
+- **Guillaume** (label: `Guillaume`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `guillaume` (see `cast.json`).
+- **Le distributeur** (label: `Le distributeur`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `distributeur` (see `cast.json`).
+- **Le vétérinaire** (label: `Le vétérinaire`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `veto` (see `cast.json`).
 <!-- CANONICAL_EXTRAS_END -->

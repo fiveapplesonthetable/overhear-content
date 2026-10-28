@@ -8,14 +8,10 @@
  "scene": 12,
  "title": "Мастер по кофемашинам  (The Coffee Machine Repairman)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "guest": "anja",
-  "anya": "alisa"
- },
  "labels": {
   "guest": "Гость",
-  "anya": "Макс"
+  "kostya": "Костя",
+  "max": "Макс"
  },
  "segments": [
   {
@@ -24,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Ну что, Костя, как тут дела?",
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Тишина, никто тобой не интересовался.",
    "gap": 0.55
   },
@@ -44,12 +40,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Так, дружище, пойдём скорее на выход.",
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Здравствуйте, вы кого-то ищете?",
    "gap": 0.55
   },
@@ -64,12 +60,12 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Здравствуйте, Виктория вас уже ждёт.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Слушай, друг, а ты зачем приходил?",
    "gap": 0.55
   },
@@ -89,23 +85,23 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Ну что, Костя, как тут дела?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'So, Kostya, how are things going here?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'things to do'. Kostya answers right away.",
+   "t": "'So, Kostya, how are things going here?' Asking how things going here are cuts straight through the tension between Max and the guest. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Тишина, никто тобой не интересовался.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'All quiet, nobody asked for you.' Kostya anchors the line on 'silence', while 'asked about' completes the thought.",
+   "t": "'All quiet, nobody asked for you.' Since all quiet nobody asked for the guest, Kostya does not waste words on excuses.",
    "gap": 0.4
   },
   {
@@ -115,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Miss, will you let me kiss your hand?' The grammar packs 'miss' and 'to kiss' into a tight, idiomatic kitchen exchange.",
+   "t": "'Miss, will you let me kiss your hand?' Asking whether miss will Kostya lets him kiss Kostya's hand puts Kostya right on the defensive. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -125,27 +121,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Or maybe your pretty little foot?' Notice how Russian expresses 'and' and 'little foot' with crisp inflection rather than helper words. Max answers right away.",
+   "t": "'Or maybe your pretty little foot?' Around the kitchen and work, the guest wants to know where Kostya really stands. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Так, дружище, пойдём скорее на выход.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Alright, buddy, let's head for the exit quickly.' In Russian, the idea of 'so' flows naturally into 'exit' without extra filler words.",
+   "t": "'Alright, buddy, let's head for the exit quickly.' Because Alright buddy let them head for the exit quickly, Max treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Здравствуйте, вы кого-то ищете?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hello, are you looking for someone?' Here the Russian phrasing highlights 'hello' before landing on 'to look for'.",
+   "t": "'Hello, are you looking for someone?' Asking whether the guest looking for someone is how Kostya puts the guest on the spot. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -155,7 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Could you tell me where to find Viktoria Sergeyevna?' the guest raises the pitch on 'Sergeyevna' to turn the phrase into a direct spoken question.",
+   "t": "'Could you tell me where to find Viktoria Sergeyevna?' Here asking whether Kostya tells him where to find Viktoria Sergeyevna shows the guest looking for the real truth. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -165,27 +161,27 @@
   },
   {
    "v": "narrator",
-   "t": "'I am here about repairing the video surveillance system.' Here the Russian phrasing highlights 'I' before landing on 'video surveillance'.",
+   "t": "'I am here about repairing the video surveillance system.' Being here about repairing the video surveillance system is how the guest lays out the situation for Kostya.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Здравствуйте, Виктория вас уже ждёт.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hello, Viktoria is already waiting for you.' In Russian, the idea of 'hello' flows naturally into 'is waiting for' without extra filler words.",
+   "t": "'Hello, Viktoria is already waiting for you.' Pointing out that Viktoria is already waiting for the guest gives the guest a sobering reality check. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Слушай, друг, а ты зачем приходил?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Listen, friend, why did you come here anyway?' Max brings out the contrast between 'listen' and 'friend' in a few short words. the guest answers right away.",
+   "t": "'Listen, friend, why did you come here anyway?' Questioning whether friend why did the guest comes here anyway is how Max tests the guest's story. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -195,7 +191,7 @@
   },
   {
    "v": "narrator",
-   "t": "'To repair your coffee machine, of course!' the guest anchors the line on 'so', while 'to repair' completes the thought.",
+   "t": "'To repair your coffee machine, of course!' With the moment and restaurant at stake, the guest reacts without holding back.",
    "gap": 0.4
   },
   {
@@ -205,16 +201,16 @@
   },
   {
    "v": "narrator",
-   "t": "'And you fixed it yourselves, well done!' The meaning hinges on 'and' working together with 'handsome man' in spoken Russian. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'And you fixed it yourselves, well done!' Around the moment and room, the guest makes his point loud and clear. Notice how he sticks to the formal \"you\", keeping a professional line between them. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Ну что, Костя, как тут дела?",
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Тишина, никто тобой не интересовался.",
    "gap": 0.5
   },
@@ -229,12 +225,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Так, дружище, пойдём скорее на выход.",
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Здравствуйте, вы кого-то ищете?",
    "gap": 0.5
   },
@@ -249,12 +245,12 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "kostya",
    "t": "Здравствуйте, Виктория вас уже ждёт.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Слушай, друг, а ты зачем приходил?",
    "gap": 0.5
   },

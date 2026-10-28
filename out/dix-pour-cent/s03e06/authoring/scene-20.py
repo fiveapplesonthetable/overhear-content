@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = "Le sosie d'Isabelle  (Isabelle's Double)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie'}
-LABELS = {'noemie': 'Noémie', 'lea': 'Andréa'}
+LABELS = {'corinne': 'Corinne', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At the ASK anniversary party, Corinne arrives and strikes up a conversation with Noemie. Corinne innocently reveals that she acted as the secret double for Isabelle Huppert, causing Noemie to panic over what the producers might discover. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Noemie leaves Corinne in the party crowd as panic spreads through ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'am looking for'. You'll catch them now. See you next time!"
 CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
-    ('lea', 'Bonsoir, je cherche les organisateurs.', 'Good evening, I am looking for the organizers.', [(981, 'Bonsoir')], ''),
+    ('corinne', 'Bonsoir, je cherche les organisateurs.', 'Good evening, I am looking for the organizers.', [(981, 'Bonsoir')], ''),
     ('noemie', 'Bonsoir, je suis Noémie, assistante.', 'Good evening, I am Noemie, assistant.', [(983, 'Je suis Noémie')], ''),
-    ('lea', "C'est moi le fameux fantôme.", 'I am the famous ghost.', [(991, "c'est moi le fantôme")], ''),
+    ('corinne', "C'est moi le fameux fantôme.", 'I am the famous ghost.', [(991, "c'est moi le fantôme")], ''),
     ('noemie', "Vous êtes le double d'Isabelle?", 'Are you Isabelle', [(988, 'je sais qui vous êtes')], ''),
-    ('lea', "Oui, j'ai fait de mon mieux.", 'Yes, I did my best.', [(992, "fait ce que j'ai pu")], ''),
+    ('corinne', "Oui, j'ai fait de mon mieux.", 'Yes, I did my best.', [(992, "fait ce que j'ai pu")], ''),
     ('noemie', 'Vous êtes une actrice de théâtre?', 'Are you a theater actress?', [(993, 'pas mon métier')], ''),
-    ('lea', 'Non, je suis une simple infirmière.', 'No, I am an ordinary nurse.', [(993, 'pas mon métier')], ''),
+    ('corinne', 'Non, je suis une simple infirmière.', 'No, I am an ordinary nurse.', [(993, 'pas mon métier')], ''),
     ('noemie', "Vous n'êtes pas comédienne professionnelle?", 'You are not a professional actress?', [(993, 'pas mon métier')], ''),
-    ('lea', "Pas du tout, c'était un dépannage.", 'Not at all, it was a favor.', [(994, 'leur rends du service')], ''),
+    ('corinne', "Pas du tout, c'était un dépannage.", 'Not at all, it was a favor.', [(994, 'leur rends du service')], ''),
     ('noemie', 'Vous savez qui nous sommes vraiment?', 'Do you know who we really are?', [(988, 'je sais qui vous êtes')], ''),
-    ('lea', 'Oui, je sais tout maintenant.', 'Yes, I know everything now.', [(1005, 'elle savait tout')], ''),
+    ('corinne', 'Oui, je sais tout maintenant.', 'Yes, I know everything now.', [(1005, 'elle savait tout')], ''),
     ('noemie', "C'est une catastrophe pour l'agence!", 'This is a disaster for the agency!', [(1000, 'On a un problème')], ''),
-    ('lea', 'Je viens juste pour la fête.', 'I just came for the party.', [(998, 'Noémie')], ''),
+    ('corinne', 'Je viens juste pour la fête.', 'I just came for the party.', [(998, 'Noémie')], ''),
     ('noemie', 'Attendez ici, je cherche Andréa!', 'Wait here, I am finding Andrea!', [(999, 'Attends, Andréa')], ''),
 ]
 WALK = [

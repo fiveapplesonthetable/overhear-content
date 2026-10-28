@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = 'Le mystère du contrat  (The Damaged Contract)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'camille': 'Camille', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In Gabriel's office, panic sets in as Jean Dujardin goes completely unreachable and his contract arrives in terrible condition. When the film's producer arrives expecting the signed agreement, Andrea steps in to stall for time. Let's listen to the scene in French first."
@@ -26,9 +25,9 @@ STORY = [
     ('camille', "Ça n'existe pas, un produit pour le papier!", 'There is no such thing as a cleaner for paper!', [(105, "Ça n'existe pas, un produit qui lave le papier.")], ''),
     ('camille', 'Et que va dire la productrice pour la signature?', 'And what will the producer say about the signature?', [(107, 'Et pour la signature Émile Berthier, tu vas dire quoi ?')], ''),
     ('gabriel', 'Arrête de faire ta maligne avec moi!', 'Stop acting clever with me!', [(110, 'Arrête de faire ta maligne')], ''),
-    ('lea', 'Gabriel, ton rendez-vous avec la productrice arrive.', 'Gabriel, your meeting with the producer is arriving.', [(113, 'Ton rendez-vous est arrivé.')], ''),
+    ('andrea', 'Gabriel, ton rendez-vous avec la productrice arrive.', 'Gabriel, your meeting with the producer is arriving.', [(113, 'Ton rendez-vous est arrivé.')], ''),
     ('gabriel', 'Dis-lui que le service juridique a du retard.', 'Tell her that the legal department has a delay.', [(121, "c'est le service juridique.")], ''),
-    ('lea', 'Je vais la faire patienter dans mon bureau.', 'I am going to keep her waiting in my office.', [(126, 'Mais ça me fait plaisir de te voir.')], ''),
+    ('andrea', 'Je vais la faire patienter dans mon bureau.', 'I am going to keep her waiting in my office.', [(126, 'Mais ça me fait plaisir de te voir.')], ''),
     ('gabriel', 'Trouvons une solution très vite pour ce contrat.', 'Let us find a solution very quickly for this contract.', [(124, "donc on l'aura ce soir.")], ''),
 ]
 WALK = [

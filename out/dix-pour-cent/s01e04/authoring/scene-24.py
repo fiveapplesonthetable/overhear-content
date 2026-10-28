@@ -7,22 +7,21 @@ SCENE = 24
 TITLE = 'Trahison et Hôtel Saint-Georges  (Betrayal and the Hotel Saint-Georges)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'arlette': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'arlette': 'Arlette'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "When Mathias walks back into the agency, Andréa, Gabriel and Arlette are waiting for him, and Arlette's little dog Jean Gabin goes straight for his ankle. Gabriel's lines are told by me. Let's hear the confrontation in French first."
 OPENER = "Let's go through it step by step. First, Mathias tries to shake Arlette's dog off his trouser leg."
 TRANSITION = 'Now listen to the whole confrontation again.'
 OUTRO = "So while Andréa and Gabriel hurry to the Hotel Saint-Georges to cover up Samuel's secret room, back at the assistants' desks Hervé explains a strange phone call to Camille: a Russian billionaire named Kadropov is in Paris for his birthday and pays famous actresses a small fortune just to come to his party. We'll soon see who takes that offer. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('mathias', 'Mais lâche-moi!', 'Let go of me!', [(640, 'Lâche-moi')], ''),
     ('arlette', 'Jean Gabin, arrête! Il mord les jambes des traîtres!', 'Jean Gabin, stop it! He bites traitors', [(641, 'Jean Gabin, arrête'), (642, 'des traîtres')], ''),
-    ('lea', "Tu quittes l'agence, c'est ça?", 'You', [(643, "Tu quittes l'agence, c'est ça")], ''),
+    ('andrea', "Tu quittes l'agence, c'est ça?", 'You', [(643, "Tu quittes l'agence, c'est ça")], ''),
     ('mathias', "J'allais te le dire.", 'I was going to tell you.', [(643, "J'allais te le dire")], ''),
     ('mathias', "Ce n'est rien de personnel. L'agence ne peut pas continuer comme ça.", 'It', [(646, 'rien de personnel'), (647, 'peut continuer comme ça')], ''),
-    ('lea', 'Si tu pars avec tes acteurs, on va au tribunal!', 'If you leave with your actors, we', [(648, 'Si tu pars avec tes acteurs')], ''),
+    ('andrea', 'Si tu pars avec tes acteurs, on va au tribunal!', 'If you leave with your actors, we', [(648, 'Si tu pars avec tes acteurs')], ''),
     ('mathias', 'Je suis dans mon droit. Je pars à la fin du mois.', 'I', [(649, 'Je suis dans mon droit'), (650, 'fin')], ''),
     ('arlette', 'Tu dors bien la nuit?', 'Do you sleep well at night?', [(651, 'Tu dors'), (651, 'la nuit')], ''),
     ('mathias', "Une dernière chose. Ça concerne Samuel et c'est important.", 'One last thing. It concerns Samuel and it', [(652, 'Une dernière chose'), (653, "Ça concerne Samuel et c'est important")], ''),
@@ -30,7 +29,7 @@ STORY = [
     ('mathias', "Il la payait avec l'argent de l'agence.", 'He was paying for it with the agency', [(655, "il la payait avec l'argent de l'agence")], ''),
     ('mathias', 'Colette Brancillon va le découvrir. Je voulais juste vous prévenir.', 'Colette Brancillon is going to find out. I just wanted to warn you.', [(657, 'Brancillon va le découvrir'), (658, 'Je voulais juste vous prévenir')], ''),
     ('arlette', "Oh, Samuel, qu'est-ce que tu as fait?", 'Oh, Samuel, what did you do?', [(661, "Samuel, qu'est-ce que tu as fait")], ''),
-    ('lea', "On connaît le patron de l'hôtel. On va lui parler.", 'We know the owner of the hotel. We', [(663, 'On connaît le patron'), (664, 'On va lui parler')], ''),
+    ('andrea', "On connaît le patron de l'hôtel. On va lui parler.", 'We know the owner of the hotel. We', [(663, 'On connaît le patron'), (664, 'On va lui parler')], ''),
 ]
 WALK = [
     (0, None, "'Let go of me!' An informal command with 'me' attached by a hyphen: you always talk to a dog with the casual 'you'."),

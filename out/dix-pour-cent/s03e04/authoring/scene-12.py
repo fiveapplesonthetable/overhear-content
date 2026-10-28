@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = 'Les répliques coupées  (Cut Lines)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'mathias': 'marcel'}
-LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias'}
+LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias', 'sharon': 'Sharon'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Upon arriving on the American film set late at night, Isabelle is handed a freshly revised script by assistant Sharon. To her outrage, Gary has cut nearly all of her dialogue to speed up the scene. Let's listen to her fiery reaction in French first."
@@ -17,11 +16,11 @@ TRANSITION = "Now let's listen to the entire dialogue once more to lock in what 
 OUTRO = "Isabelle refuses to compromise her craft or let a director trim away her artistic essence. When you watch the episode, listen out for the expressions meaning 'script scene' and 'know'. You'll catch them now. See you next time!"
 CLOSING = ('isabelle', 'Bonne journée!')
 STORY = [
-    ('mathias', "Bonsoir Isabelle, voici la scène d'aujourd'hui.", 'Good evening Isabelle, here is today', [(704, 'Bonsoir, Isabelle'), (707, "c'est la scène d'aujourd'hui")], ''),
+    ('sharon', "Bonsoir Isabelle, voici la scène d'aujourd'hui.", 'Good evening Isabelle, here is today', [(704, 'Bonsoir, Isabelle'), (707, "c'est la scène d'aujourd'hui")], ''),
     ('isabelle', 'Mais je connais déjà mon texte.', 'But I already know my lines.', [(708, 'je connais mon texte')], ''),
     ('isabelle', "Attendez, ce n'est pas du tout pareil!", 'Wait, this is not at all the same!', [(710, 'attendez, attendez'), (711, "c'est pas du tout pareil")], ''),
     ('isabelle', 'Ce nouveau texte est beaucoup plus court.', 'This new text is much shorter.', [(712, "C'est beaucoup plus court")], ''),
-    ('mathias', 'Le réalisateur Gary veut une scène plus dynamique.', 'Director Gary wants a more dynamic scene.', [(714, "Gary pense que c'est mieux"), (715, 'plus dynamique')], ''),
+    ('sharon', 'Le réalisateur Gary veut une scène plus dynamique.', 'Director Gary wants a more dynamic scene.', [(714, "Gary pense que c'est mieux"), (715, 'plus dynamique')], ''),
     ('isabelle', 'Mais il a coupé toutes mes répliques!', 'But he cut all my lines!', [(716, "il m'a coupé toutes mes répliques")], ''),
     ('mathias', "Isabelle, le dynamisme est très important aujourd'hui.", 'Isabelle, dynamism is very important today.', [(717, "c'est important, le dynamisme"), (719, "Surtout aujourd'hui")], ''),
     ('isabelle', 'Mathias, je ne fais pas de la figuration!', 'Mathias, I do not do background work!', [(721, 'Je ne suis pas venue ici')], ''),
@@ -30,7 +29,7 @@ STORY = [
     ('isabelle', 'Il a supprimé tout mon grand monologue.', 'He deleted my entire big monologue.', [(727, 'Il y avait tout un monologue dont il reste quasiment plus rien')], ''),
     ('isabelle', 'Cette séquence est maintenant vide de substance.', 'This sequence is now empty of substance.', [(728, 'complètement vide de sa substance')], ''),
     ('isabelle', 'Où est Gary, je veux lui parler!', 'Where is Gary, I want to talk to him!', [(730, 'il est où, Gary ?'), (732, "Il faut qu'on parle de ça")], ''),
-    ('mathias', "D'accord, je vais appeler Gary immédiatement.", 'Alright, I will call Gary immediately.', [(733, 'Pouvez-vous envoyer Gary ici ?'), (735, "Maintenant, s'il vous plaît")], ''),
+    ('sharon', "D'accord, je vais appeler Gary immédiatement.", 'Alright, I will call Gary immediately.', [(733, 'Pouvez-vous envoyer Gary ici ?'), (735, "Maintenant, s'il vous plaît")], ''),
 ]
 WALK = [
     (0, None, "'Good evening Isabelle, here is today's scene.' Sharon presents the revised pages for the night shoot. Notice how the short vowel drops before a vowel sound around 'script scene', making the phrase flow smoothly as one unit."),

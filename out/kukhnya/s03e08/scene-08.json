@@ -8,16 +8,10 @@
  "scene": 8,
  "title": "Помощник уборщика или курьер  (Cleaner's Assistant or Courier)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "anya": "alisa",
-  "ainura": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
-  "anya": "Макс",
-  "ainura": "Айнура"
+  "ainura": "Айнура",
+  "barinov": "Шеф",
+  "max": "Макс"
  },
  "segments": [
   {
@@ -31,12 +25,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Так наш шеф меня на кухню взял.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я теперь снова здесь повар.",
    "gap": 0.55
   },
@@ -46,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Подожди, значит, я теперь уборщик?",
    "gap": 0.55
   },
@@ -56,32 +50,32 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А чего ты хочешь, мне сказали тебя взять, я взял.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А кем ты будешь работать на моей кухне, это мне решать.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Или ты не хочешь быть уборщиком?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Нет, я совсем не хочу.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну а что же ты сразу не сказал, я тебя повышаю!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Будешь курьером по доставке еды, всё, разговор окончен.",
    "gap": 0.9
   },
@@ -97,27 +91,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Max, why did you put that on right now?' Ainura anchors the line on 'Max', while 'put on' completes the thought.",
+   "t": "'Max, why did you put that on right now?' Asking why Barinov puts that on right now is how Ainura puts Barinov on the spot. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Так наш шеф меня на кухню взял.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well our chef took me back into the kitchen.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'took'.",
+   "t": "'Well our chef took me back into the kitchen.' Because their took him back into the kitchen, Max treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я теперь снова здесь повар.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Now I am a cook here again.' Notice how Russian expresses 'I' and 'cook' with crisp inflection rather than helper words.",
+   "t": "'Now I am a cook here again.' Mentioning that he is a cook here again moves the talk in a new direction.",
    "gap": 0.4
   },
   {
@@ -127,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'What cook, the chef said that you are my assistant.' Ainura addresses the listener with the informal singular 'you' alongside 'assistant'.",
+   "t": "'What cook, the chef said that you are my assistant.' Ainura mentions that what cook the said that Barinov is her assistant so Barinov sees what is at stake. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Подожди, значит, я теперь уборщик?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Wait, so I am a cleaner now?' Notice how Russian expresses 'wait' and 'cleaner' with crisp inflection rather than helper words. Ainura answers right away.",
+   "t": "'Wait, so I am a cleaner now?' Here being a cleaner now shows Max looking for the real truth. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -147,67 +141,67 @@
   },
   {
    "v": "narrator",
-   "t": "'I am the cleaner, and you are the cleaner's assistant.' Here the Russian phrasing highlights 'cleaner' before landing on 'assistant'.",
+   "t": "'I am the cleaner, and you are the cleaner's assistant.' Being the cleaner and Barinov is the cleaner assistant is how Ainura lays out the situation for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А чего ты хочешь, мне сказали тебя взять, я взял.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And what do you want, they told me to take you, I took you.' The '-l' ending on the verb meaning 'took' places the action in the masculine past tense.",
+   "t": "'And what do you want, they told me to take you, I took you.' Barinov reminds Ainura that what do Ainura wants they told him to take Ainura he took Ainura before the moment passes. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А кем ты будешь работать на моей кухне, это мне решать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And what you will work as in my kitchen is up to me to decide.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'to decide'.",
+   "t": "'And what you will work as in my kitchen is up to me to decide.' Realizing that what Ainura will work as in his kitchen is up to him to decide changes how Barinov handles the situation. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Или ты не хочешь быть уборщиком?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Or do you not want to be a cleaner?' The negative particle sits right before the verb meaning 'want' to negate the statement.",
+   "t": "'Or do you not want to be a cleaner?' By asking whether Ainura not want to be a cleaner, Barinov presses Ainura for a straight answer.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Нет, я совсем не хочу.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'No, I do not want to at all.' In Russian, the idea of 'no' flows naturally into 'want' without extra filler words.",
+   "t": "'No, I do not want to at all.' Even though he does not want to at all, Max keeps a steady face in front of Ainura.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну а что же ты сразу не сказал, я тебя повышаю!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well why did you not say so right away, I am promoting you!' Notice how Russian expresses 'come on' and 'promote' with crisp inflection rather than helper words.",
+   "t": "'Well why did you not say so right away, I am promoting you!' Barinov insists that why did Ainura not say so right away he is promoting Ainura, leaving Ainura no room to argue. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Будешь курьером по доставке еды, всё, разговор окончен.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You will be a food delivery courier, that is all, the conversation is over.' Here the Russian phrasing highlights 'will' before landing on 'finished'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'You will be a food delivery courier, that is all, the conversation is over.' Saying that Ainura will be a food delivery courier that is all the conversation is is how Barinov sets the tone with Ainura. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -216,12 +210,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Так наш шеф меня на кухню взял.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я теперь снова здесь повар.",
    "gap": 0.5
   },
@@ -231,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Подожди, значит, я теперь уборщик?",
    "gap": 0.5
   },
@@ -241,32 +235,32 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А чего ты хочешь, мне сказали тебя взять, я взял.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А кем ты будешь работать на моей кухне, это мне решать.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Или ты не хочешь быть уборщиком?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Нет, я совсем не хочу.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну а что же ты сразу не сказал, я тебя повышаю!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Будешь курьером по доставке еды, всё, разговор окончен.",
    "gap": 0.9
   },
@@ -276,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До завтра!",
    "gap": 0.3
   }

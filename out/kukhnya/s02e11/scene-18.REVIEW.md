@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Костя, а у тебя ничего не болит? | Kostya, does anything hurt? | #298 00:22:38: Костя, а у тебя ничего не болит | verbatim |
-| 2 | Костя | Моя сломанная рука. | My broken arm. | #299 00:22:43: Моя сломанная рука | verbatim |
-| 3 | Костя | Костя, ну ты артист, а? | Kostya, you really are an actor, huh? | #300 00:22:47: Костя, ну ты | adapted: adapted |
-| 4 | Костя | Отличный план. | Great plan. | #302 00:22:53: Отличный план | verbatim |
-| 5 | Костя | Ну, друзья, что тут сказать? | Well, friends, what can you say? | #303 00:22:56: что сказать | adapted: adapted |
-| 6 | Костя | Мы просто хотели сделать как лучше. | We just wanted to make things better. | #305 00:23:00: Мы просто хотели сделать как лучше | verbatim |
-| 7 | Костя | Как лучше для вас? | Better for the two of you? | #306 00:23:02: Как лучше для вас | verbatim |
-| 8 | Костя | Очень по-мужски. | Very manly of you. | #307 00:23:06: Очень по-мужски | verbatim |
-| 9 | Костя | Ты всегда рискуешь проиграть сам. | You always risk losing yourself. | #308 00:23:11: ты всегда рискуешь проиграть сам | verbatim |
-| 10 | Костя | Победить в чужом споре можно одним способом. | There is only one way to win someone else's argument. | #309 00:23:27: Победить в чужом споре можно одним способом | verbatim |
-| 11 | Костя | Принести в жертву себя. | To sacrifice yourself. | #310 00:23:29: Принести в жертву себя | verbatim |
-| 12 | Костя | Мало, но они есть. | There are few of them, but they exist. | #312 00:23:36: Мало, но они есть | verbatim |
-| 13 | Костя | И порой ты побеждаешь. | And sometimes you win. | #313 00:23:38: И порой ты побеждаешь | verbatim |
+| 1 | Костя | Костя, а у тебя ничего не болит? | Kostya, does anything hurt? | #298: Костя, а у тебя ничего не болит | verbatim |
+| 2 | Родион | Моя сломанная рука. | My broken arm. | #299: Моя сломанная рука | verbatim |
+| 3 | Костя | Костя, ну ты артист, а? | Kostya, you really are an actor, huh? | #300: Костя, ну ты | adapted: adapted |
+| 4 | Родион | Отличный план. | Great plan. | #302: Отличный план | verbatim |
+| 5 | Костя | Ну, друзья, что тут сказать? | Well, friends, what can you say? | #303: что сказать | adapted: adapted |
+| 6 | Родион | Мы просто хотели сделать как лучше. | We just wanted to make things better. | #305: Мы просто хотели сделать как лучше | verbatim |
+| 7 | Костя | Как лучше для вас? | Better for the two of you? | #306: Как лучше для вас | verbatim |
+| 8 | Родион | Очень по-мужски. | Very manly of you. | #307: Очень по-мужски | verbatim |
+| 9 | Костя | Ты всегда рискуешь проиграть сам. | You always risk losing yourself. | #308: ты всегда рискуешь проиграть сам | verbatim |
+| 10 | Родион | Победить в чужом споре можно одним способом. | There is only one way to win someone else's argument. | #309: Победить в чужом споре можно одним способом | verbatim |
+| 11 | Костя | Принести в жертву себя. | To sacrifice yourself. | #310: Принести в жертву себя | verbatim |
+| 12 | Родион | Мало, но они есть. | There are few of them, but they exist. | #312: Мало, но они есть | verbatim |
+| 13 | Костя | И порой ты побеждаешь. | And sometimes you win. | #313: И порой ты побеждаешь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, does anything hurt?' Kostya anchors the line on 'Kostya', while 'hurts' completes the thought.
-- 'My broken arm.' In Russian, the idea of 'my' flows naturally into 'hand' without extra filler words. Kostya answers right away.
-- 'Kostya, you really are an actor, huh?' In spoken Russian, the words stay in their normal statement order and Kostya's rising voice at the end turns the line into a question.
-- 'Great plan.' The grammar packs 'excellent' and 'plan' into a tight, idiomatic kitchen exchange.
-- 'Well, friends, what can you say?' Here Kostya anchors the thought on 'friends' and finishes on 'tell', keeping the spoken rhythm brisk and natural.
-- 'We just wanted to make things better.' In Russian, the idea of 'we' flows naturally into 'better' without extra filler words.
-- 'Better for the two of you?' Kostya anchors the line on 'how', while 'you' completes the thought.
-- 'Very manly of you.' Notice how Russian expresses 'very' and 'like a man' with crisp inflection rather than helper words. Kostya answers right away.
-- 'You always risk losing yourself.' The meaning hinges on 'you' working together with 'himself' in spoken Russian.
-- 'There is only one way to win someone else's argument.' In Russian, the idea of 'to win' flows naturally into 'way' without extra filler words.
-- 'To sacrifice yourself.' Here the Russian phrasing highlights 'to bring' before landing on 'yourself'. Rodion answers right away.
-- 'There are few of them, but they exist.' The grammar packs 'little' and 'there is' into a tight, idiomatic kitchen exchange.
-- 'And sometimes you win.' Kostya brings out the contrast between 'both' and 'at times' in a few short words.
+- 'Kostya, does anything hurt?' Asking whether anything hurt cuts straight through the tension between Kostya and Rodion. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'My broken arm.' With the argument and kitchen in play, Rodion keeps this short reply brisk and direct.
+- 'Kostya, you really are an actor, huh?' Asking whether Rodion really are an actor huh puts Rodion right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Great plan.' With the argument and moment in play, Rodion keeps this short reply brisk and direct.
+- 'Well, friends, what can you say?' Questioning whether friends what can Rodion says is how Kostya tests Rodion's story.
+- 'We just wanted to make things better.' Pointing out that they just wanted to make things better gives Kostya a sobering reality check.
+- 'Better for the two of you?' With the shift and truth hanging in the air, Kostya puts Rodion on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Very manly of you.' Around the kitchen and peace, Rodion sets a calm, everyday tone with Kostya.
+- 'You always risk losing yourself.' With the kitchen and hospital in play, Kostya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'There is only one way to win someone else's argument.' Even though there is only one way to win someone else argument, Rodion keeps a steady face in front of Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'To sacrifice yourself.' Around the kitchen and point, Kostya sets a calm, everyday tone with Rodion.
+- 'There are few of them, but they exist.' Saying that there are few of them but they exist is how Rodion sets the tone with Kostya.
+- 'And sometimes you win.' Once sometimes Rodion wins, Kostya can finally tell Rodion what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

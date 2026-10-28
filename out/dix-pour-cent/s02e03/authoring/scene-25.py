@@ -7,8 +7,7 @@ SCENE = 25
 TITLE = 'Partie de laser game  (Laser Tag Battle)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'norman': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'norman': 'Norman', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At a lively laser game arena, the ASK team gathers to celebrate Elvis's birthday party. Between rounds of laser tag, Gabriel takes Norman aside to discuss his new movie role. Let's listen to the scene in French first."
@@ -17,11 +16,11 @@ TRANSITION = "Now let's listen to the whole discussion again without stopping."
 OUTRO = 'Gabriel encourages Norman as he transitions from web comedy to serious cinema. See you next time!'
 CLOSING = ('norman', 'À bientôt!')
 STORY = [
-    ('lea', 'Viens jouer au laser game!', 'Come and play laser games!', [(642, 'Viens jouer au laser game.')], ''),
+    ('andrea', 'Viens jouer au laser game!', 'Come and play laser games!', [(642, 'Viens jouer au laser game.')], ''),
     ('norman', "Se déguiser et se faire tirer dessus, ce n'est pas mon truc.", 'Dressing up and being shot at is not my thing.', [(643, "Me déguiser en GI et me faire tirer dessus, c'est pas mon truc.")], ''),
-    ('lea', "Tu vas voir l'ambiance de l'agence.", 'You will see the agency', [(644, "Elle va voir ce qu'est ASK.")], ''),
-    ('lea', 'Où sont les gilets?', 'Where are the vests?', [(646, 'Où sont les gilets pare-balles ?')], ''),
-    ('lea', 'Janowski, à toi de jouer!', 'Janowski, your turn to play!', [(647, 'Hé, Janowski !'), (649, 'À toi !')], ''),
+    ('andrea', "Tu vas voir l'ambiance de l'agence.", 'You will see the agency', [(644, "Elle va voir ce qu'est ASK.")], ''),
+    ('andrea', 'Où sont les gilets?', 'Where are the vests?', [(646, 'Où sont les gilets pare-balles ?')], ''),
+    ('andrea', 'Janowski, à toi de jouer!', 'Janowski, your turn to play!', [(647, 'Hé, Janowski !'), (649, 'À toi !')], ''),
     ('gabriel', 'Salut, Norman. Félicitations pour ton film.', 'Hi, Norman. Congratulations on your movie.', [(654, 'Salut, Norman.'), (655, "Félicitations pour le film d'Audiard.")], ''),
     ('norman', 'Merci, Gabriel.', 'Thanks, Gabriel.', [(654, 'Salut.'), (655, 'Merci.')], ''),
     ('gabriel', "Je ne t'imaginais pas dans ce rôle.", 'I did not imagine you in that role.', [(656, "Je ne t'imaginais pas dans un rôle comme ça.")], ''),

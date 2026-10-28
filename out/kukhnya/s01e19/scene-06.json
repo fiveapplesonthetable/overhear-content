@@ -8,16 +8,10 @@
  "scene": 6,
  "title": "Извинения гостя  (A Guest's Apology)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "guest": "anja",
-  "vika": "angelina",
-  "anya": "alisa"
- },
  "labels": {
   "guest": "Гость",
-  "vika": "Вика",
-  "anya": "Макс"
+  "igor": "Игорь",
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -26,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "guest",
+   "v": "igor",
    "t": "Виктория Сергеевна, подождите минуту.",
    "gap": 0.55
   },
@@ -46,17 +40,17 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "guest",
    "t": "Ни мужа, ни парня у меня нет.",
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "vika",
    "t": "Тогда я буду ждать нашей следующей встречи.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "guest",
    "t": "Вика, я не понял, что это было?",
    "gap": 0.55
   },
@@ -66,7 +60,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "vika",
    "t": "Нет, почему ты про меня не сказала?",
    "gap": 0.55
   },
@@ -81,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "vika",
    "t": "Да, но мне это совсем не нравится.",
    "gap": 0.9
   },
@@ -91,7 +85,7 @@
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "igor",
    "t": "Виктория Сергеевна, подождите минуту.",
    "gap": 0.55
   },
@@ -131,7 +125,7 @@
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "guest",
    "t": "Ни мужа, ни парня у меня нет.",
    "gap": 0.55
   },
@@ -141,7 +135,7 @@
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "vika",
    "t": "Тогда я буду ждать нашей следующей встречи.",
    "gap": 0.55
   },
@@ -151,13 +145,13 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "guest",
    "t": "Вика, я не понял, что это было?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vika, I did not understand, what was that?' Max steps out from behind the doorway after overhearing everything.",
+   "t": "'Vika, I did not understand, what was that?' In this moment, Max steps out from behind the doorway after overhearing everything.",
    "gap": 0.4
   },
   {
@@ -171,13 +165,13 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "vika",
    "t": "Нет, почему ты про меня не сказала?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'No, why did you not mention me?' Max denies being jealous while asking why she said she was single.",
+   "t": "'No, why did you not mention me?' In response, Max denies being jealous while asking why she said she was single.",
    "gap": 0.4
   },
   {
@@ -201,17 +195,17 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "vika",
    "t": "Да, но мне это совсем не нравится.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Yes, but I do not like this at all.' Max realizes that an open relationship is not what he truly wants. Now let's hear the whole scene once more from start to finish.",
+   "t": "'Yes, but I do not like this at all.' In response, Max realizes that an open relationship is not what he truly wants. Now let's hear the whole scene once more from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "guest",
+   "v": "igor",
    "t": "Виктория Сергеевна, подождите минуту.",
    "gap": 0.5
   },
@@ -231,17 +225,17 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "guest",
    "t": "Ни мужа, ни парня у меня нет.",
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "vika",
    "t": "Тогда я буду ждать нашей следующей встречи.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "guest",
    "t": "Вика, я не понял, что это было?",
    "gap": 0.5
   },
@@ -251,7 +245,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "vika",
    "t": "Нет, почему ты про меня не сказала?",
    "gap": 0.5
   },
@@ -266,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "vika",
    "t": "Да, но мне это совсем не нравится.",
    "gap": 0.9
   },
@@ -276,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "guest",
    "t": "До встречи!",
    "gap": 0.3
   }

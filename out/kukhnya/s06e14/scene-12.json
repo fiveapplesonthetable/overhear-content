@@ -8,14 +8,10 @@
  "scene": 12,
  "title": "Каннибалы и пророчество  (Cannibals and the Prophecy)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "senya": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "senya": "Сеня",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "katya": "Катя",
+  "senya": "Сеня"
  },
  "segments": [
   {
@@ -24,17 +20,17 @@
    "gap": 0.8
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Я не знаю, это не моё.",
    "gap": 0.55
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Кому ещё нужно выбирать между вами?",
    "gap": 0.55
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Может, Костя выбирает себе лучшего друга.",
    "gap": 0.55
   },
@@ -49,12 +45,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну наконец-то вы включили свои мозги!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Подождите, вы что, надо мной издеваетесь?",
    "gap": 0.55
   },
@@ -79,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пошли вон отсюда, пока я добрый!",
    "gap": 0.9
   },
@@ -89,33 +85,33 @@
    "gap": 0.4
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Я не знаю, это не моё.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I do not know, this is not mine.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'my'.",
+   "t": "'I do not know, this is not mine.' Because she does not know this is not, Katya treats the matter as settled. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Кому ещё нужно выбирать между вами?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Who else needs to choose between you two?' Here the Russian phrasing highlights 'to whom' before landing on 'you'.",
+   "t": "'Who else needs to choose between you two?' Asking whether who else needs to choose between Barinov two puts Barinov right on the defensive.",
    "gap": 0.4
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Может, Костя выбирает себе лучшего друга.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Maybe Kostya is choosing a best friend for himself.' The grammar packs 'maybe' and 'friend' into a tight, idiomatic kitchen exchange.",
+   "t": "'Maybe Kostya is choosing a best friend for himself.' Admitting that maybe Kostya is choosing a best friend for himself shows Katya being honest for a change.",
    "gap": 0.4
   },
   {
@@ -125,7 +121,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Chef, you were completely right today.' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'right'.",
+   "t": "'Chef, you were completely right today.' Pointing out that Barinov was completely right today gives Barinov a sobering reality check. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -135,27 +131,27 @@
   },
   {
    "v": "narrator",
-   "t": "'That meat was definitely not a dog.' Notice how Russian expresses 'this' and 'dog' with crisp inflection rather than helper words.",
+   "t": "'That meat was definitely not a dog.' Once that meat was definitely not a dog, Senya can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну наконец-то вы включили свои мозги!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well finally you turned on your brains!' The grammar packs 'come on' and 'brains' into a tight, idiomatic kitchen exchange.",
+   "t": "'Well finally you turned on your brains!' Declaring that finally Katya turned on Katya's brains brings Barinov's temper right to the surface. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Подождите, вы что, надо мной издеваетесь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Wait, are you making fun of me?' In Russian, the idea of 'wait' flows naturally into 'are you mocking' without extra filler words. Senya answers right away.",
+   "t": "'Wait, are you making fun of me?' Asking whether Katya making fun of him is how Barinov puts Katya on the spot. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.",
    "gap": 0.4
   },
   {
@@ -165,7 +161,7 @@
   },
   {
    "v": "narrator",
-   "t": "'No, chef, we read it on the internet.' Senya brings out the contrast between 'no' and 'we' in a few short words.",
+   "t": "'No, chef, we read it on the internet.' By reading it on the internet, Senya keeps his side of the story grounded.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'If my wife finds out, I am done for.' Senya brings out the contrast between 'if' and 'wife' in a few short words.",
+   "t": "'If my wife finds out, I am done for.' Mentioning that if his wife finds out he is done moves the talk in a new direction.",
    "gap": 0.4
   },
   {
@@ -185,7 +181,7 @@
   },
   {
    "v": "narrator",
-   "t": "'And it also says here about the prophet.' Senya anchors the line on 'and', while 'prophet' completes the thought.",
+   "t": "'And it also says here about the prophet.' Senya reminds Barinov that it also says here about the prophet before the moment passes.",
    "gap": 0.4
   },
   {
@@ -195,31 +191,31 @@
   },
   {
    "v": "narrator",
-   "t": "'His spirit is reborn from the sacred flame.' Senya anchors the line on 'his', while 'flame' completes the thought.",
+   "t": "'His spirit is reborn from the sacred flame.' Because his spirit is reborn from the sacred flame, Senya treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пошли вон отсюда, пока я добрый!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Get out of here while I am still in a good mood!' Here the Russian phrasing highlights 'to go' before landing on 'good'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Get out of here while I am still in a good mood!' Getting out of here while he is still in a good mood shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Я не знаю, это не моё.",
    "gap": 0.5
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Кому ещё нужно выбирать между вами?",
    "gap": 0.5
   },
   {
-   "v": "senya",
+   "v": "katya",
    "t": "Может, Костя выбирает себе лучшего друга.",
    "gap": 0.5
   },
@@ -234,12 +230,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну наконец-то вы включили свои мозги!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Подождите, вы что, надо мной издеваетесь?",
    "gap": 0.5
   },
@@ -264,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пошли вон отсюда, пока я добрый!",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До встречи!",
    "gap": 0.3
   }

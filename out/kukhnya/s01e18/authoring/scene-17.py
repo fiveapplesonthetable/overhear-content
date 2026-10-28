@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 17
-TITLE = "Увольнения  (Firings)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Увольнения  (Firings)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
-LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Nagiyev and Viktor have a heated argument in the office about the restaurant's budget. Nagiyev wants to save money by firing the most expensive kitchen staff. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Firings line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Angry and feeling betrayed, Viktor threatens to resign rather than lose his best kitchen team. Next time you watch the episode, listen for the Russian expressions for 'must' and 'to fire' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Я должен уволить твоих поваров.', 'I must fire your cooks.', [(308, 'уволить')], ''),
-    ('chef', 'Ты совсем сошёл с ума?', 'Have you gone completely crazy?', [], ''),
+    ('barinov', 'Ты совсем сошёл с ума?', 'Have you gone completely crazy?', [], ''),
     ('nagiyev', 'Они слишком дорого стоят.', 'They cost too much.', [], ''),
     ('nagiyev', 'Это почти полмиллиона каждый месяц.', 'This is almost half a million every month.', [(305, 'полмиллиона каждый месяц')], ''),
-    ('chef', 'Ты не можешь их увольнять.', 'You cannot fire them.', [(309, 'нельзя увольнять')], ''),
-    ('chef', 'Это лучшая команда в Москве.', 'This is the best team in Moscow.', [(312, 'лучшие в Москве')], ''),
+    ('barinov', 'Ты не можешь их увольнять.', 'You cannot fire them.', [(309, 'нельзя увольнять')], ''),
+    ('barinov', 'Это лучшая команда в Москве.', 'This is the best team in Moscow.', [(312, 'лучшие в Москве')], ''),
     ('nagiyev', 'Дешевле найти новых людей.', 'It is cheaper to find new people.', [(314, 'Дешевле')], ''),
     ('nagiyev', 'Какая разница, кто режет морковь?', 'What difference does it make who cuts carrots?', [(313, 'какая разница, кто будет морковь')], ''),
-    ('chef', 'Это моя команда!', 'This is my team!', [(315, 'моя команда')], ''),
-    ('chef', 'Если ты их уволишь, ты потеряешь меня.', 'If you fire them, you will lose me.', [], ''),
+    ('barinov', 'Это моя команда!', 'This is my team!', [(315, 'моя команда')], ''),
+    ('barinov', 'Если ты их уволишь, ты потеряешь меня.', 'If you fire them, you will lose me.', [], ''),
     ('nagiyev', 'Витя, просто сядь и успокойся.', 'Vitya, just sit and calm down.', [(318, 'Витя, сядь')], ''),
-    ('chef', 'Хорошо, разбирайтесь сами.', 'Alright, sort it out yourselves.', [(320, 'Разбирайтесь')], ''),
-    ('chef', 'А я пока увольняюсь.', 'And I am quitting in the meantime.', [(320, 'А я пока увольняюсь')], ''),
+    ('barinov', 'Хорошо, разбирайтесь сами.', 'Alright, sort it out yourselves.', [(320, 'Разбирайтесь')], ''),
+    ('barinov', 'А я пока увольняюсь.', 'And I am quitting in the meantime.', [(320, 'А я пока увольняюсь')], ''),
     ('nagiyev', 'Подожди, мы всё решим.', 'Wait, we will solve everything.', [], ''),
 ]
 WALK = [

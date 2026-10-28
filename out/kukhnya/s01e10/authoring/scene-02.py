@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 2
-TITLE = "Утренний рассол  (Morning Brine)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Утренний рассол  (Morning Brine)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
-LABELS = {"senya": "Сеня", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Early in the morning in the kitchen of Claude Monet, Chef Viktor Barinov is suffering from an agonizing headache after an exhausting night. Seeing his boss in distress, line cook Senya rushes over with the ultimate traditional remedy: a cold glass of pickle brine. Let's listen to their short kitchen exchange in Russian first."
 OPENER = "Now let's examine the morning hangover remedy line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With his headache slowly easing thanks to Senya's timely brine, Chef Barinov readies himself to supervise the busy lunch service at Claude Monet. Next time you watch the episode, listen for the Russian expressions for 'to be ill' and 'more' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, как ваше здоровье сегодня утром?', 'Chef, how is your health this morning?', [(4, 'Шеф!')], ''),
-    ('chef', 'Сеня, отойди, у меня болит голова.', 'Senya, step back, my head hurts.', [], ''),
+    ('barinov', 'Сеня, отойди, у меня болит голова.', 'Senya, step back, my head hurts.', [], ''),
     ('senya', 'Я принёс вам холодный свежий рассол.', 'I brought you cold fresh brine.', [(5, 'Рассольчик!')], ''),
-    ('chef', 'О, Сеня, ты настоящий верный друг.', 'Oh, Senya, you are a true loyal friend.', [], ''),
+    ('barinov', 'О, Сеня, ты настоящий верный друг.', 'Oh, Senya, you are a true loyal friend.', [], ''),
     ('senya', 'Выпей немного, сразу станет гораздо легче.', 'Drink a little, it will immediately become much easier.', [], ''),
-    ('chef', 'Этот напиток очень помогает мне.', 'This drink helps me very much.', [], ''),
+    ('barinov', 'Этот напиток очень помогает мне.', 'This drink helps me very much.', [], ''),
     ('senya', 'Вчера Спартак снова проиграл важный матч?', 'Did Spartak lose an important match again yesterday?', [], ''),
-    ('chef', 'Не говори мне про этот кошмар.', 'Do not talk to me about that nightmare.', [], ''),
+    ('barinov', 'Не говори мне про этот кошмар.', 'Do not talk to me about that nightmare.', [], ''),
     ('senya', 'Понятно, шеф, больше никаких лишних слов.', 'Understood, chef, no more unnecessary words.', [], ''),
-    ('chef', 'Принеси мне ещё один стакан рассола.', 'Bring me one more glass of brine.', [], ''),
+    ('barinov', 'Принеси мне ещё один стакан рассола.', 'Bring me one more glass of brine.', [], ''),
     ('senya', 'Сейчас быстро принесу из нашей кухни.', 'I will quickly bring it now from our kitchen.', [], ''),
-    ('chef', 'И начинайте готовить обед для гостей.', 'And begin preparing lunch for the guests.', [], ''),
+    ('barinov', 'И начинайте готовить обед для гостей.', 'And begin preparing lunch for the guests.', [], ''),
     ('senya', 'Всё будет готово вовремя, шеф.', 'Everything will be ready on time, chef.', [], ''),
 ]
 WALK = [

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Значит, на самом деле было вот так. | So, in reality it happened like this. | #202 00:19:00: Значит, было так | adapted: adapted |
-| 2 | Сеня | Он сам полез целоваться к этой Саше! | He tried to kiss that Sasha himself! | #203 00:19:02: сам полез целоваться к Саше | adapted: adapted |
-| 3 | Сеня | На этом у меня всё, Ваша честь. | That is all I have to say, Your Honor. | #206 00:19:08: У меня все | adapted: adapted |
-| 4 | Аня | Да, Костя, классно ты его подкупил! | Yeah, Kostya, you bribed him so well! | #207 00:19:10: классно ты его подкупил | adapted: adapted |
-| 5 | Костя | Не переживай, Макс, всё будет в порядке. | Do not worry, Max, everything will be fine. | #208 00:19:12: Макс | adapted: adapted |
-| 6 | Костя | У меня есть ещё один надёжный свидетель. | I have one more reliable witness. | #208 00:19:12: У меня есть один свидетель | adapted: adapted |
-| 7 | Костя | Этот человек точно на твоей стороне. | This person is definitely on your side. | #209 00:19:14: который точно на твоей стороне | adapted: adapted |
-| 8 | Костя | Ваша честь, я вызываю лучшего друга Максима. | Your Honor, I call Maxim's best friend. | #210 00:19:17: Ваша честь, я вызываю свидетеля лучшего друга Максима | adapted: adapted |
-| 9 | Костя | В зал приглашается свидетель Константин Анисимов! | Witness Konstantin Anisimov is called to the hall! | #211 00:19:21: Константин Константинович Анисимов | adapted: adapted |
-| 10 | Костя | Скажите, Константин, что вы думаете о подсудимом? | Tell us, Konstantin, what do you think of the defendant? | #212 00:19:25: Скажите, Константин, что вы думаете о подсудимом | adapted: adapted |
-| 11 | Аня | Костя, только ничего лишнего там не сболтни! | Kostya, just do not blurt out anything extra up there! | #208 00:19:12: Макс | adapted: adapted |
-| 12 | Костя | Доверься мне, я же твой лучший друг. | Trust me, I am your best friend after all. | #210 00:19:17: лучшего друга | adapted: adapted |
+| 1 | Сеня | Значит, на самом деле было вот так. | So, in reality it happened like this. | #202: Значит, было так | adapted: adapted |
+| 2 | Сеня | Он сам полез целоваться к этой Саше! | He tried to kiss that Sasha himself! | #203: сам полез целоваться к Саше | adapted: adapted |
+| 3 | Сеня | На этом у меня всё, Ваша честь. | That is all I have to say, Your Honor. | #206: У меня все | adapted: adapted |
+| 4 | Макс | Да, Костя, классно ты его подкупил! | Yeah, Kostya, you bribed him so well! | #207: классно ты его подкупил | adapted: adapted |
+| 5 | Костя | Не переживай, Макс, всё будет в порядке. | Do not worry, Max, everything will be fine. | #208: Макс | adapted: adapted |
+| 6 | Костя | У меня есть ещё один надёжный свидетель. | I have one more reliable witness. | #208: У меня есть один свидетель | adapted: adapted |
+| 7 | Костя | Этот человек точно на твоей стороне. | This person is definitely on your side. | #209: который точно на твоей стороне | adapted: adapted |
+| 8 | Костя | Ваша честь, я вызываю лучшего друга Максима. | Your Honor, I call Maxim's best friend. | #210: Ваша честь, я вызываю свидетеля лучшего друга Максима | adapted: adapted |
+| 9 | Костя | В зал приглашается свидетель Константин Анисимов! | Witness Konstantin Anisimov is called to the hall! | #211: Константин Константинович Анисимов | adapted: adapted |
+| 10 | Костя | Скажите, Константин, что вы думаете о подсудимом? | Tell us, Konstantin, what do you think of the defendant? | #212: Скажите, Константин, что вы думаете о подсудимом | adapted: adapted |
+| 11 | Макс | Костя, только ничего лишнего там не сболтни! | Kostya, just do not blurt out anything extra up there! | #208: Макс | adapted: adapted |
+| 12 | Костя | Доверься мне, я же твой лучший друг. | Trust me, I am your best friend after all. | #210: лучшего друга | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, in reality it happened like this.' Here the Russian phrasing highlights 'so' before landing on 'here'.
-- 'He tried to kiss that Sasha himself!' Senya pairs 'climbed, reached into' with 'to kiss' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'That is all I have to say, Your Honor.' The meaning hinges on 'on' working together with 'honor' in spoken Russian.
-- 'Yeah, Kostya, you bribed him so well!' The meaning hinges on 'yes' working together with 'bribe' in spoken Russian. Kostya answers right away.
-- 'Do not worry, Max, everything will be fine.' Kostya brings out the contrast between 'not' and 'to worry' in a few short words.
-- 'I have one more reliable witness.' In Russian, the idea of 'at' flows naturally into 'witness' without extra filler words.
-- 'This person is definitely on your side.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'side'.
-- 'Your Honor, I call Maxim's best friend.' Kostya anchors the line on 'your', while 'proper name' completes the thought.
-- 'Witness Konstantin Anisimov is called to the hall!' The meaning hinges on 'hall' working together with 'proper name' in spoken Russian.
-- 'Tell us, Konstantin, what do you think of the defendant?' Kostya chooses the respectful plural 'you' alongside 'defendant' to keep a polite distance. Max answers right away.
-- 'Kostya, just do not blurt out anything extra up there!' The meaning hinges on 'Kostya' working together with 'blurt out' in spoken Russian.
-- 'Trust me, I am your best friend after all.' Here Kostya anchors the thought on 'trust' and finishes on 'friend', keeping the spoken rhythm brisk and natural.
+- 'So, in reality it happened like this.' Between the call and the friend, Senya gives Kostya a quick, grounded response.
+- 'He tried to kiss that Sasha himself!' Declaring that he tried to kiss that Sasha himself brings Senya's temper right to the surface.
+- 'That is all I have to say, Your Honor.' Even though that is all he has to say Kostya's honor, Senya keeps a steady face in front of Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Yeah, Kostya, you bribed him so well!' With the point and friend at stake, Max reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Do not worry, Max, everything will be fine.' Saying that do not worry Max everything will be fine is how Kostya sets the tone with Max.
+- 'I have one more reliable witness.' Admitting that he has one more reliable witness shows Kostya being honest for a change. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'This person is definitely on your side.' Adding that this person is definitely on Max's side fills in the missing piece for Max.
+- 'Your Honor, I call Maxim's best friend.' Saying that Max's honor he calls Maxim best friend is how Kostya sets the tone with Max.
+- 'Witness Konstantin Anisimov is called to the hall!' Declaring that witness Konstantin Anisimov is called to the hall brings Kostya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Tell us, Konstantin, what do you think of the defendant?' Kostya asks whether tell them Konstantin what do Max thinks of the defendant, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Kostya, just do not blurt out anything extra up there!' Saying that just do not blurt out anything extra up there is how Max takes charge of the moment.
+- 'Trust me, I am your best friend after all.' Telling Max to trust him he is Max's best friend after all moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

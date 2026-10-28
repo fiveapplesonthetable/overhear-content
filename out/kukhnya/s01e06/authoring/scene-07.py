@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 6
 SCENE = 7
-TITLE = "Шутки на кухне  (Jokes in the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Шутки на кухне  (Jokes in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "louis": "anja"}
-LABELS = {"anya": "Макс", "louis": "Луи"}
+LABELS = {'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, the staff must clean every corner ahead of a surprise health inspection. Pastry chef Louis playfully pretends to duel Max with a giant stick of sausage before they start wiping down the dusty storage shelves. Let's listen to their playful exchange in Russian first."
 OPENER = "Let's review this humorous kitchen exchange line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'After their playful banter, Max and Louis roll up their sleeves and tackle the dusty kitchen shelves. See you next time!'
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('louis', 'Осторожно, ты пронзил меня своей колбасой!', 'Careful, you impaled me with your sausage!', [(75, 'Ты пронзил меня своей колбасой')], ''),
-    ('anya', 'Луи, перестань так громко кричать.', 'Louis, stop screaming so loudly.', [], ''),
+    ('max', 'Луи, перестань так громко кричать.', 'Louis, stop screaming so loudly.', [], ''),
     ('louis', 'Скажи Марии, что я любил её!', 'Tell Maria that I loved her!', [(76, 'Скажи Марию, что я любил ее друг')], ''),
-    ('anya', 'Хватит умирать, нам нужно убирать кухню.', 'Stop dying, we need to clean the kitchen.', [], ''),
+    ('max', 'Хватит умирать, нам нужно убирать кухню.', 'Stop dying, we need to clean the kitchen.', [], ''),
     ('louis', 'Шеф заставляет нас мыть эти полки?', 'Does Chef force us to wash these shelves?', [], ''),
-    ('anya', 'Да, шеф требует идеальной чистоты везде.', 'Yes, Chef demands perfect cleanliness everywhere.', [], ''),
+    ('max', 'Да, шеф требует идеальной чистоты везде.', 'Yes, Chef demands perfect cleanliness everywhere.', [], ''),
     ('louis', 'Тут пыль лежит уже целый год!', 'Dust has been lying here for a whole year!', [], ''),
-    ('anya', 'С открытия ресторана здесь никто не убирался.', 'Since the restaurant opened nobody cleaned here.', [(77, 'Тут, наверное, с открытия никто не убирался')], ''),
+    ('max', 'С открытия ресторана здесь никто не убирался.', 'Since the restaurant opened nobody cleaned here.', [(77, 'Тут, наверное, с открытия никто не убирался')], ''),
     ('louis', 'Тогда бери скорее тряпку и воду.', 'Then take a rag and water quickly.', [], ''),
-    ('anya', 'Я готов, давай закончим эту работу.', "I am ready, let's finish this work.", [], ''),
+    ('max', 'Я готов, давай закончим эту работу.', "I am ready, let's finish this work.", [], ''),
     ('louis', 'Главное, чтобы шеф был очень доволен.', 'The main thing is that Chef is very pleased.', [], ''),
-    ('anya', 'Точно, иначе нам сильно достанется!', 'Exactly, otherwise we will really get it!', [], ''),
+    ('max', 'Точно, иначе нам сильно достанется!', 'Exactly, otherwise we will really get it!', [], ''),
 ]
 WALK = [
     (0, None, "'Careful, you impaled me with your sausage!' Louis dramatically pretends to be mortally wounded in a playful duel."),

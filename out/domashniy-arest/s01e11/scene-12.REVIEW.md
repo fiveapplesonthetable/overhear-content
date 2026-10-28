@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Знаете, Лев, я поправляюсь очень быстро. | You know, Lev, I gain weight very quickly. | #341 00:19:22: знаете | verbatim |
+| 1 | Вика | Знаете, Лев, я поправляюсь очень быстро. | You know, Lev, I gain weight very quickly. | #341: знаете | verbatim |
 | 2 | Лев | Не говорите так, вы прекрасно выглядите! | Do not say that, you look wonderful! | new | new |
-| 3 | Вика | А кто полюбит меня, если растолстею? | And who will love me if I get fat? | #344 00:19:32: меня | verbatim |
+| 3 | Вика | А кто полюбит меня, если растолстею? | And who will love me if I get fat? | #344: меня | verbatim |
 | 4 | Лев | Любят человека не за фигуру. | People love a person not for their figure. | new | new |
-| 5 | Лев | Вас любят просто за доброе сердце. | They love you simply for your kind heart. | #344 00:19:32: просто | verbatim |
-| 6 | Вика | Вы правда так искренне думаете? | Do you truly think so sincerely? | #341 00:19:22: А знаете что | verbatim |
-| 7 | Лев | Да, я говорю чистую правду. | Yes, I am speaking the pure truth. | #341 00:19:22: А знаете что | verbatim |
-| 8 | Вика | Тогда положите мне ещё парочку блинов! | Then serve me a couple more pancakes! | #341 00:19:22: а давайте еще парочку | verbatim |
-| 9 | Лев | Вот, совсем другое дело, кушайте! | There, that is much better, eat up! | #342 00:19:27: Вот, другое дело | verbatim |
-| 10 | Вика | Большое спасибо вам за вкусные блины. | Thank you very much for the delicious pancakes. | #343 00:19:30: Спасибо | verbatim |
-| 11 | Лев | Называйте меня теперь просто Лев. | Call me simply Lev from now on. | #344 00:19:32: Называйте меня просто Лев | verbatim |
-| 12 | Вика | Договорились, просто Лев, без отчества. | Agreed, simply Lev, without a patronymic. | #344 00:19:32: Называйте меня просто Лев | verbatim |
+| 5 | Лев | Вас любят просто за доброе сердце. | They love you simply for your kind heart. | #344: просто | verbatim |
+| 6 | Вика | Вы правда так искренне думаете? | Do you truly think so sincerely? | #341: А знаете что | verbatim |
+| 7 | Лев | Да, я говорю чистую правду. | Yes, I am speaking the pure truth. | #341: А знаете что | verbatim |
+| 8 | Вика | Тогда положите мне ещё парочку блинов! | Then serve me a couple more pancakes! | #341: а давайте еще парочку | verbatim |
+| 9 | Лев | Вот, совсем другое дело, кушайте! | There, that is much better, eat up! | #342: Вот, другое дело | verbatim |
+| 10 | Вика | Большое спасибо вам за вкусные блины. | Thank you very much for the delicious pancakes. | #343: Спасибо | verbatim |
+| 11 | Лев | Называйте меня теперь просто Лев. | Call me simply Lev from now on. | #344: Называйте меня просто Лев | verbatim |
+| 12 | Вика | Договорились, просто Лев, без отчества. | Agreed, simply Lev, without a patronymic. | #344: Называйте меня просто Лев | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

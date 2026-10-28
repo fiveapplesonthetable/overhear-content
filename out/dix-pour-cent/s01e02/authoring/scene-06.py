@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = 'Déjeuner avec Line Renaud  (Lunch with Line Renaud)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'line': 'emilie', 'gabriel': 'theo'}
-LABELS = {'line': 'Line', 'gabriel': 'Gabriel'}
+LABELS = {'gabriel': 'Gabriel', 'line': 'Line'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Gabriel's guest is Line Renaud, the famous singer and actress, playing herself. She was one of Samuel's oldest friends and clients, and we sit with her. Gabriel expects a sad lunch, but Line has other plans. As always, the French comes first; relax and listen."
@@ -36,22 +35,22 @@ STORY = [
     ('line', 'Quel idiot!', 'What an idiot!', [(238, 'Quel idiot !')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Line.' He uses her first name, but listen: all through lunch they'll use the polite 'you' with each other. That's the first thing to notice today. Then he thanks her."),
-    (1, None, "'It's really kind of you to come.' The last word has a feminine ending, because the person who came is a woman. Line answers with a smile."),
-    (2, None, "'I'm really happy to be here.' Literally 'I'm really pleased', and again the feminine ending. Gabriel apologises."),
-    (3, None, "'Sorry, it's a bit last-minute.' The last word looks like 'improvised', and it means exactly that. Line waves it away."),
-    (4, None, "'Not at all. It was a good idea.' 'It was' is a past form you'll hear constantly. And she adds something gracious."),
-    (5, None, "'It's lovely to see you.' Literally 'it makes pleasure to see you'. A warm, slightly old-fashioned phrase. Then she speaks about their friend."),
-    (6, None, "'Our Samuel... It's hard to believe.' Samuel died on holiday in Rio a few days ago, and his funeral is coming up. Line turns to Gabriel."),
-    (7, None, "'He was your mentor, wasn't he?' The little tag at the end works like 'isn't it' or 'wasn't he' in English, and it never changes. Gabriel answers sadly."),
+    (0, 'Bonjour, Line.', "'Hello, Line.' He uses her first name, but listen: all through lunch they'll use the polite 'you' with each other. That's the first thing to notice today. Then he thanks her."),
+    (0, "C'est vraiment gentil d'être venue.", "'It's really kind of you to come.' The last word has a feminine ending, because the person who came is a woman. Line answers with a smile."),
+    (1, None, "'I'm really happy to be here.' Literally 'I'm really pleased', and again the feminine ending. Gabriel apologises."),
+    (2, None, "'Sorry, it's a bit last-minute.' The last word looks like 'improvised', and it means exactly that. Line waves it away."),
+    (3, None, "'Not at all. It was a good idea.' 'It was' is a past form you'll hear constantly. And she adds something gracious."),
+    (4, None, "'It's lovely to see you.' Literally 'it makes pleasure to see you'. A warm, slightly old-fashioned phrase. Then she speaks about their friend."),
+    (5, None, "'Our Samuel... It's hard to believe.' At this point, Samuel died on holiday in Rio a few days ago, and his funeral is coming up. Line turns to Gabriel."),
+    (6, None, "'He was your mentor, wasn't he?' The little tag at the end works like 'isn't it' or 'wasn't he' in English, and it never changes. Gabriel answers sadly."),
     (8, None, "'Two months ago, we had lunch here together.'re all orphans now.' He means that without Samuel, the whole agency feels like children who have lost their father. Line remembers something."),
     (9, None, "'Two months ago, he and I had lunch at this table.' Second grammar point: the everyday past is a helper verb plus a past form, here 'have' plus 'lunched'. Then she praises him."),
-    (10, None, "'What a good friend. What a gentleman!' The same little exclamation word twice: it means 'what a'. The last word is borrowed straight from English. Then a surprise."),
-    (11, None, "'I felt one foot slip towards the grave.' When she heard the news, she says, she felt close to death herself. The past again: 'have' plus 'felt'. But then she laughs."),
-    (12, None, "'But I quickly pulled it back.' The little word for 'it', meaning the foot, sits in front of the helper verb. Gabriel can't help smiling."),
-    (13, None, "'You're not the melancholy type.' The negative wraps around the verb 'are', and the formal 'you' again. Line agrees cheerfully."),
-    (14, None, "'Melancholy? No, no!' She repeats his word as a question, almost offended. Then she leans in for the gossip."),
-    (15, None, "'And the rumours from Rio, are they true?' People in Paris are telling wild stories about how Samuel died. Gabriel sets the record straight."),
-    (16, None, "'No, I swear, he really did swallow a wasp.' The past once more: 'has' plus 'swallowed'. As strange as it sounds, it's true. And Line has the last word."),
-    (17, None, "'What an idiot!' The same exclamation word as before. She says it with love, the way you'd talk about a dear old friend. Here's the whole lunch one more time. Now listen to the whole conversation one more time."),
+    (9, None, "'What a good friend. What a gentleman!' The same little exclamation word twice: it means 'what a'. The last word is borrowed straight from English. Then a surprise."),
+    (10, None, "'I felt one foot slip towards the grave.' When she heard the news, she says, she felt close to death herself. The past again: 'have' plus 'felt'. But then she laughs."),
+    (11, None, "'But I quickly pulled it back.' The little word for 'it', meaning the foot, sits in front of the helper verb. Gabriel can't help smiling."),
+    (12, None, "'You're not the melancholy type.' The negative wraps around the verb 'are', and the formal 'you' again. Line agrees cheerfully."),
+    (13, None, "'Melancholy? No, no!' She repeats his word as a question, almost offended. Then she leans in for the gossip."),
+    (14, None, "'And the rumours from Rio, are they true?' People in Paris are telling wild stories about how Samuel died. Gabriel sets the record straight."),
+    (15, None, "'No, I swear, he really did swallow a wasp.' The past once more: 'has' plus 'swallowed'. As strange as it sounds, it's true. And Line has the last word."),
+    (16, None, "'What an idiot!' The same exclamation word as before. She says it with love, the way you'd talk about a dear old friend. Here's the whole lunch one more time. Now listen to the whole conversation one more time."),
 ]

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 1
 SCENE = 16
-TITLE = "Новое меню  (The New Menu)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новое меню  (The New Menu)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "sasha": "anja"}
-LABELS = {"vika": "Вика", "sasha": "Саша"}
+LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = "In the hallway of Claude Monet, restaurant art director Vika catches up with waitress Sasha. Anxious to update the dining room offerings, Vika asks whether the head chef has prepared the requested new menu. Hearing that the temperamental chef simply shouted in response, Vika prepares to confront him directly. Let's listen to their conversation in Russian first."
 OPENER = "Let's examine the dialogue line by line. Notice the workplace requests and expressions of concern regarding the chef's temper."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika prepares to face the formidable head chef to keep the restaurant running smoothly. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Саша, ты передала шефу мою важную просьбу?', 'Sasha, did you pass my important request to the chef?', [(146, 'ты сказал у шефа')], ''),
     ('sasha', 'Да, Виктория Сергеевна, я всё ему сказала.', 'Yes, Viktoriya Sergeyevna, I told him everything.', [(147, 'Я сказала')], ''),

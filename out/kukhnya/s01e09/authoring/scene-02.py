@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 9
 SCENE = 2
-TITLE = "Семейный выбор  (A Family Choice)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Семейный выбор  (A Family Choice)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "chef": "anja"}
-LABELS = {"vika": "Вика", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = "In the dining room of Claude Monet, restaurant administrator Victoria agrees to watch her young niece Alisa during a busy shift. But when Chef Viktor Barinov spots his ex-wife and daughter, an emotional argument erupts over who should care for the girl. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Victoria and Chef Barinov's conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With Alisa eagerly choosing to stay with her father, Chef Barinov takes charge of his daughter for the day, promising to keep her entertained while Victoria returns to managing the dining room. Next time you watch the episode, listen for the Russian expressions for 'evening' and 'tasty' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Виктор, у меня сегодня много работы.', 'Viktor, I have a lot of work today.', [(38, 'у меня еще сегодня банкет.')], ''),
-    ('chef', 'В чём дело, дорогая Виктория?', 'What is the matter, dear Victoria?', [(70, 'в чем дело?')], ''),
+    ('barinov', 'В чём дело, дорогая Виктория?', 'What is the matter, dear Victoria?', [(70, 'в чем дело?')], ''),
     ('vika', 'Сестра попросила меня посидеть с Алисой.', 'My sister asked me to babysit Alisa.', [(71, 'Алиса побудет с тетей.')], ''),
-    ('chef', 'А почему с тобой, а не со мной?', 'And why with you and not with me?', [(72, 'А почему с тетей, а не с папой?')], ''),
+    ('barinov', 'А почему с тобой, а не со мной?', 'And why with you and not with me?', [(72, 'А почему с тетей, а не с папой?')], ''),
     ('vika', 'Потому что ты всегда занят на кухне.', 'Because you are always busy in the kitchen.', [], ''),
-    ('chef', 'Я хочу сам провести время с дочерью.', 'I want to spend time with my daughter myself.', [], ''),
+    ('barinov', 'Я хочу сам провести время с дочерью.', 'I want to spend time with my daughter myself.', [], ''),
     ('vika', 'Алиса, с кем ты хочешь остаться?', 'Alisa, who do you want to stay with?', [(75, 'ты хочешь остаться с папой или с теткой')], ''),
-    ('chef', 'Дочка хочет остаться со своим папой.', 'My daughter wants to stay with her dad.', [(77, 'Но останусь с папой.')], ''),
+    ('barinov', 'Дочка хочет остаться со своим папой.', 'My daughter wants to stay with her dad.', [(77, 'Но останусь с папой.')], ''),
     ('vika', 'Ну вот, вы всё решили сами.', 'Well, you decided everything yourselves.', [(78, 'Ну вот и решили.')], ''),
-    ('chef', 'Я куплю ей вкусный сладкий шоколад.', 'I will buy her delicious sweet chocolate.', [(80, 'Я тебе шоколадку дам.')], ''),
+    ('barinov', 'Я куплю ей вкусный сладкий шоколад.', 'I will buy her delicious sweet chocolate.', [(80, 'Я тебе шоколадку дам.')], ''),
     ('vika', 'Помни, ей нельзя есть шоколад.', 'Remember, she is not allowed to eat chocolate.', [(81, 'Ей нельзя шоколадку.')], ''),
-    ('chef', 'Не волнуйся, Вика, я всё знаю.', 'Do not worry, Vika, I know everything.', [(81, 'Я знаю.')], ''),
+    ('barinov', 'Не волнуйся, Вика, я всё знаю.', 'Do not worry, Vika, I know everything.', [(81, 'Я знаю.')], ''),
     ('vika', 'Смотри за ней внимательно до вечера.', 'Watch her attentively until the evening.', [(82, 'Вика, до вечера.')], ''),
 ]
 WALK = [

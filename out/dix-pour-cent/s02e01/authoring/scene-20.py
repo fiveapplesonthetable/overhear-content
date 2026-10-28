@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = "Le caprice d'Hicham  (Hicham's Whim)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'karine': 'emilie', 'hicham': 'marcel', 'lea': 'lucie'}
-LABELS = {'karine': 'Karine', 'hicham': 'Hicham', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham', 'karine': 'Karine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Andréa brings Hicham onto the chaotic film set of Léa Seydoux's latest movie. When a key vehicle breaks down, Hicham generously volunteers his own sports car to help. However, his impulsive demands quickly clash with the reality of film production. Listen to the scene in French first."
@@ -18,8 +17,8 @@ OUTRO = 'Hicham proved that while he has immense resources, his temper and whims
 CLOSING = ('karine', 'Bonne soirée!')
 STORY = [
     ('hicham', 'Je peux jeter un œil?', 'Can I take a look around?', [(551, 'Je peux jeter un œil')], ''),
-    ('lea', "C'est un film institutionnel pour ASK.", 'This is a major film for ASK.', [(553, "C'est un film institutionnel pour ASK")], ''),
-    ('lea', "On a le réalisateur et l'actrice principale, Léa Seydoux.", 'We have the director and the lead actress, Léa Seydoux.', [(554, 'On a le réalisateur'), (556, "et l'actrice principale, Léa Seydoux")], ''),
+    ('andrea', "C'est un film institutionnel pour ASK.", 'This is a major film for ASK.', [(553, "C'est un film institutionnel pour ASK")], ''),
+    ('andrea', "On a le réalisateur et l'actrice principale, Léa Seydoux.", 'We have the director and the lead actress, Léa Seydoux.', [(554, 'On a le réalisateur'), (556, "et l'actrice principale, Léa Seydoux")], ''),
     ('karine', "Léa est rentrée à l'hôtel.", 'Léa went back to the hotel.', [(561, "moi c'est Karine"), (562, "Léa est rentrée à l'hôtel")], ''),
     ('karine', 'Hier, notre voiture est tombée en panne sur la route.', 'Yesterday, our car broke down on the road.', [(599, 'depuis hier'), (602, 'Quand la voiture a lâché')], ''),
     ('hicham', 'Vous pourriez utiliser ma voiture?', 'Could you use my car?', [(605, 'Vous pourriez utiliser ma voiture')], ''),
@@ -33,7 +32,7 @@ STORY = [
     ('hicham', "Mon cousin s'en sortira très bien.", 'My cousin will do very well.', [(627, "il s'en sortira très bien")], ''),
     ('hicham', 'Bon, laissez tomber. Au revoir!', 'Okay, forget it. Goodbye!', [(630, 'Bon, laissez tomber'), (632, 'Au revoir')], ''),
     ('karine', 'Il est fou ce mec.', 'The guy', [(637, 'Il est fou ce mec')], ''),
-    ('lea', 'Non, attendez, Hicham! Hicham!', 'No, wait, Hicham! Hicham!', [(634, 'Non, attendez, Hicham'), (639, 'Hicham')], ''),
+    ('andrea', 'Non, attendez, Hicham! Hicham!', 'No, wait, Hicham! Hicham!', [(634, 'Non, attendez, Hicham'), (639, 'Hicham')], ''),
 ]
 WALK = [
     (0, None, "'Can I take a look around?' Hicham asks eagerly as they arrive on the set. Hicham pairs the verb meaning 'can' with the noun for 'look'."),

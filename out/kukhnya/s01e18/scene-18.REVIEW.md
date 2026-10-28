@@ -1,39 +1,39 @@
-# Счета  (Bills) — `kukhnya-s01e18-scene-18`
+# kukhnya-s01e18-scene-18: review sheet
 
-**Source:** Кухня (Kukhnya) S1.18 · `sources/kukhnya/s01/e18.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Счета  (Bills)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.18
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `nagiyev` | angelina | Нагиев |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Nagiyev stops Viktor from leaving and tries to convince him that quitting is a terrible idea. He reminds the chef about his heavy financial responsibilities. Let's listen closely to the conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Нагиев | Почему ты ведёшь себя как девочка? | Why are you acting like a little girl? | #327 "ведёшь себя как девочка" |  |
-| 1 | Шеф | Давай, делайте, что хотите. | Go ahead, do whatever you want. | #349 "Давай, делайте, что хотите" |  |
-| 2 | Нагиев | Ты можешь уволиться в любой момент. | You can quit at any moment. | #336 "уволиться можешь в любой момент" |  |
-| 3 | Нагиев | Но кто будет платить по твоим счетам? | But who will pay your bills? | #338 "По счетам" |  |
-| 4 | Шеф | Я всегда смогу найти работу. | I will always be able to find work. | #343 "работу я найду" |  |
-| 5 | Нагиев | Твоя дочь учится в Париже. | Your daughter studies in Paris. | #340 "В Париже" |  |
-| 6 | Нагиев | Это стоит двадцать тысяч в год. | This costs twenty thousand a year. | #340 "тысяч 20 в год" |  |
-| 7 | Шеф | Я знаю свои долги. | I know my debts. | *(added)* |  |
-| 8 | Нагиев | Тебя выгонят после первой пьянки. | They will kick you out after the first drinking binge. | #347 "после первой пьянки" |  |
-| 9 | Нагиев | Никто не будет терпеть твой характер. | No one will tolerate your character. | *(added)* |  |
-| 10 | Шеф | Ладно, наливай. | Alright, pour. | *(added)* |  |
-| 11 | Нагиев | Вот, давай просто выпьем и поговорим. | Here, let's just drink and talk. | #330 "выпьем, поговорим" |  |
+| 1 | Нагиев | Почему ты ведёшь себя как девочка? | Why are you acting like a little girl? | #327: ведёшь себя как девочка | verbatim |
+| 2 | Шеф | Давай, делайте, что хотите. | Go ahead, do whatever you want. | #349: Давай, делайте, что хотите | verbatim |
+| 3 | Нагиев | Ты можешь уволиться в любой момент. | You can quit at any moment. | #336: уволиться можешь в любой момент | verbatim |
+| 4 | Нагиев | Но кто будет платить по твоим счетам? | But who will pay your bills? | #338: По счетам | verbatim |
+| 5 | Шеф | Я всегда смогу найти работу. | I will always be able to find work. | #343: работу я найду | verbatim |
+| 6 | Нагиев | Твоя дочь учится в Париже. | Your daughter studies in Paris. | #340: В Париже | verbatim |
+| 7 | Нагиев | Это стоит двадцать тысяч в год. | This costs twenty thousand a year. | #340: тысяч 20 в год | verbatim |
+| 8 | Шеф | Я знаю свои долги. | I know my debts. | new | new |
+| 9 | Нагиев | Тебя выгонят после первой пьянки. | They will kick you out after the first drinking binge. | #347: после первой пьянки | verbatim |
+| 10 | Нагиев | Никто не будет терпеть твой характер. | No one will tolerate your character. | new | new |
+| 11 | Шеф | Ладно, наливай. | Alright, pour. | new | new |
+| 12 | Нагиев | Вот, давай просто выпьем и поговорим. | Here, let's just drink and talk. | #330: выпьем, поговорим | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Realizing he has no other choice, Viktor reluctantly stays and accepts a drink from his boss. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to lead' — you will catch every word right away. See you next time!
-
-**Нагиев:** Пока!
+- 'Why are you acting like a little girl?' Dmitry uses the informal everyday 'you' here with 'girl', as friends and close colleagues do.
+- 'Go ahead, do whatever you want.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'do' and 'want'.
+- 'You can quit at any moment.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'But who will pay your bills?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I will always be able to find work.' Chef Barinov puts the word for 'always' together with 'will be able to' and 'to find' in a crisp, natural spoken turn of phrase.
+- 'Your daughter studies in Paris.' Here Nagiyev anchors the line on the word meaning 'daughter' and builds the thought around 'to study'.
+- 'This costs twenty thousand a year.' Nagiyev chooses the action verb meaning 'is parked' for the ongoing action, followed by 'twenty' and 'thousand'.
+- 'I know my debts.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'They will kick you out after the first drinking binge.' Dmitry uses the informal everyday 'you' here with 'drinking party', as friends and close colleagues do.
+- 'No one will tolerate your character.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Alright, pour.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to pour'.
+- 'Here, let's just drink and talk.' The key word here means 'let's', which Dmitry combines with 'just'.

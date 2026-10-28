@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 9
-TITLE = "Возвращение поваров  (Return of the Cooks)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Возвращение поваров  (Return of the Cooks)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja"}
-LABELS = {"chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "In his private office at Claude Monet, Chef Viktor is on the phone with Fedya. Desperate to assemble his original kitchen crew after their wrongful firing, Viktor tries to persuade Fedya to return. Let's listen to their phone call in Russian first."
 OPENER = "Now let's examine the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With Fedya agreeing to return to Claude Monet, Viktor prepares his next call, ready to reunite his talented kitchen crew step by step. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'to be enough' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Алло, Федя, привет!', 'Hello, Fedya, hi!', [(182, 'Алло, Федь, привет.')], ''),
-    ('chef', 'Здравствуйте, шеф, как ваши дела?', 'Hello, chef, how are you?', [(183, 'Как дела? Эктор Петрович, приветствую.')], ''),
-    ('chef', 'Федя, хватит ломать комедию.', 'Fedya, quit acting.', [(194, 'Биль, хватит ломать комедию.')], ''),
-    ('chef', 'Возвращайся назад, ты мне очень нужен.', 'Come back, I really need you.', [(195, 'Возвращайся, ты мне нужен.')], ''),
-    ('chef', 'Шеф, я не вернусь на кухню.', 'Chef, I will not return to the kitchen.', [(196, 'Шеф, знаете, скорее всего, нет.')], ''),
-    ('chef', 'Я знаю, что я был виноват.', 'I know that I was at fault.', [(198, 'Я знаю, я виноват.')], ''),
-    ('chef', 'Извини, но Сеня уже согласился вернуться.', 'Sorry, but Senya has already agreed to return.', [(199, 'Извини. Сеня с Лёвой уже согласились вернуться.')], ''),
-    ('chef', 'Неужели Сеня правда согласился?', 'Did Senya really agree?', [(200, 'Да ладно, и Сеня?')], ''),
-    ('chef', 'Сеня первый согласился на всё.', 'Senya was the first to agree to everything.', [(200, 'Сеня первый согласился.')], ''),
-    ('chef', 'Тогда сделайте меня новым су-шефом.', 'Then make me the new sous-chef.', [(202, 'Вы сделаете меня су-шефом.')], ''),
-    ('chef', 'Нет, никаких су-шефов, Федя.', 'No, no sous-chefs, Fedya.', [(203, 'Нет. Поднимите зарплату.'), (204, 'Нет.')], ''),
-    ('chef', 'Хорошо, тогда я приду завтра утром.', 'Fine, then I will come tomorrow morning.', [(205, 'Ну ладно. Тогда завтра в десять.')], ''),
-    ('chef', 'Жду тебя ровно в десять часов.', "I expect you at exactly ten o'clock.", [(205, 'Тогда завтра в десять.')], ''),
+    ('barinov', 'Алло, Федя, привет!', 'Hello, Fedya, hi!', [(182, 'Алло, Федь, привет.')], ''),
+    ('fedya', 'Здравствуйте, шеф, как ваши дела?', 'Hello, chef, how are you?', [(183, 'Как дела? Эктор Петрович, приветствую.')], ''),
+    ('barinov', 'Федя, хватит ломать комедию.', 'Fedya, quit acting.', [(194, 'Биль, хватит ломать комедию.')], ''),
+    ('barinov', 'Возвращайся назад, ты мне очень нужен.', 'Come back, I really need you.', [(195, 'Возвращайся, ты мне нужен.')], ''),
+    ('fedya', 'Шеф, я не вернусь на кухню.', 'Chef, I will not return to the kitchen.', [(196, 'Шеф, знаете, скорее всего, нет.')], ''),
+    ('barinov', 'Я знаю, что я был виноват.', 'I know that I was at fault.', [(198, 'Я знаю, я виноват.')], ''),
+    ('barinov', 'Извини, но Сеня уже согласился вернуться.', 'Sorry, but Senya has already agreed to return.', [(199, 'Извини. Сеня с Лёвой уже согласились вернуться.')], ''),
+    ('fedya', 'Неужели Сеня правда согласился?', 'Did Senya really agree?', [(200, 'Да ладно, и Сеня?')], ''),
+    ('barinov', 'Сеня первый согласился на всё.', 'Senya was the first to agree to everything.', [(200, 'Сеня первый согласился.')], ''),
+    ('fedya', 'Тогда сделайте меня новым су-шефом.', 'Then make me the new sous-chef.', [(202, 'Вы сделаете меня су-шефом.')], ''),
+    ('barinov', 'Нет, никаких су-шефов, Федя.', 'No, no sous-chefs, Fedya.', [(203, 'Нет. Поднимите зарплату.'), (204, 'Нет.')], ''),
+    ('fedya', 'Хорошо, тогда я приду завтра утром.', 'Fine, then I will come tomorrow morning.', [(205, 'Ну ладно. Тогда завтра в десять.')], ''),
+    ('barinov', 'Жду тебя ровно в десять часов.', "I expect you at exactly ten o'clock.", [(205, 'Тогда завтра в десять.')], ''),
 ]
 WALK = [
     (0, None, "'Hello, Fedya, hi!' Russian omits the present-tense verb 'to be' here, linking 'hello?' directly with 'hi', combining 'hello?' with 'hi'."),

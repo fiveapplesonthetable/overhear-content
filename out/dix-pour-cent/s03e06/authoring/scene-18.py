@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = "L'amie d'Hervé  (Hervé's Friend)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'corinne': 'Corinne', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At ASK's thirtieth anniversary party, Camille spots an eccentric woman in a bright red dress chatting up all the agency's famous clients. Herve explains that the guest is his dear former friend Corinne, before news arrives that star client Isabelle Huppert has vanished. Listen to the scene in French first."
@@ -24,7 +23,7 @@ STORY = [
     ('herve', 'Elle ne va pas très bien actuellement.', 'She is not doing very well right now.', [(929, 'elle va pas très fort')], ''),
     ('herve', 'Je voulais lui présenter des invités sympathiques.', 'I wanted to introduce her to nice guests.', [(930, 'présenter des invités')], ''),
     ('camille', "D'accord, laisse-la profiter de la soirée.", 'Alright, let her enjoy the party.', [(931, 'tu la laisses tranquille')], ''),
-    ('lea', 'Vous avez les yeux de Bella Darvy!', 'You have the eyes of Bella Darvy!', [(938, 'les yeux de Bella Darvy')], ''),
+    ('corinne', 'Vous avez les yeux de Bella Darvy!', 'You have the eyes of Bella Darvy!', [(938, 'les yeux de Bella Darvy')], ''),
     ('camille', 'Hervé, où est passée Isabelle Huppert?', 'Herve, where did Isabelle Huppert go?', [(950, 'Elle est où, Isabelle')], ''),
     ('herve', 'Je ne sais pas du tout où!', 'I do not know at all where!', [(954, 'je sais pas')], ''),
     ('camille', 'Les producteurs américains sont déjà en bas.', 'The American producers are already downstairs.', [(958, 'Les Américains sont en bas')], ''),

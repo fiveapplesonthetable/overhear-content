@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Охранник | Аркадий, что делать будем? Самсонов пропал. | Arkady, what are we going to do? Samsonov is missing. | #101 00:06:23: что делать-то будем | verbatim |
-| 2 | Аня | Она меня ненавидит! Не хочет разговаривать. | She hates me! She doesn't want to talk. | #102 00:06:25: Она меня ненавидит<br>#104 00:06:27: Не хочет со мной разговаривать | verbatim |
-| 3 | Охранник | Кто? Марина? У нас кампания валится! | Who? Marina? Our campaign is falling apart! | #103 00:06:26: Кто<br>#104 00:06:27: Марина<br>#106 00:06:31: У нас все валится | verbatim |
-| 4 | Аня | Посоветуй мне что-нибудь полезное. | Give me some useful advice. | #112 00:06:50: посоветовала бы мне что-нибудь | verbatim |
-| 5 | Лёша | Здравствуйте! Вы можете починить мой танк? | Hello! Can you fix my tank? | #114 00:06:56: Здрасте | adapted: cue 116 garbled 'танец' corrected to 'танк' |
-| 6 | Охранник | Не могу. Уходи отсюда и закрой дверь! | I can't. Get out of here and close the door! | #117 00:07:01: Не могу<br>#117 00:07:01: и дверь закрой | adapted: crude insult 'Сдрись' replaced with clean 'Уходи' |
-| 7 | Аня | Зачем ты его прогнал? Это ошибка. | Why did you chase him away? That is a mistake. | new | new |
-| 8 | Охранник | Это ведь её сын. | After all, that is her son. | #121 00:07:11: Это ведь не просто ребенок<br>#122 00:07:14: Это ее сын | verbatim |
-| 9 | Охранник | Хочешь понравиться женщине? Подружись с её ребёнком. | Want a woman to like you? Make friends with her child. | #125 00:07:18: Если ты хочешь, чтобы баба тебя полюбила<br>#126 00:07:20: подружись с ее ребенком | adapted: 'баба' -> polite 'женщина' |
-| 10 | Аня | Я не люблю детей. С ними скучно. | I do not like children. It is boring with them. | #127 00:07:22: Я ненавижу детей<br>#128 00:07:23: с ними скучно | adapted: 'ненавижу' -> 'не люблю' |
-| 11 | Охранник | Но мальчик идёт с ней в комплекте. | But the boy comes with her in the package. | #129 00:07:24: что этот идет с ней в комплекте | verbatim |
-| 12 | Аня | Ладно. Потом отправлю его учиться в Англию. | Fine. Later I will send him to study in England. | #131 00:07:28: Отправлю в Англию учиться | verbatim |
-| 13 | Охранник | Англия — это слишком дорого. | England is too expensive. | #132 00:07:31: в Англию жирно | adapted: colloquial 'жирно' glossed as expensive |
-| 14 | Аня | Тогда поедет учиться в Болгарию. | Then he will go study in Bulgaria. | #133 00:07:32: В Болгарию поедем | verbatim |
+| 1 | Охранник | Аркадий, что делать будем? Самсонов пропал. | Arkady, what are we going to do? Samsonov is missing. | #101: что делать-то будем | verbatim |
+| 2 | Аркадий | Она меня ненавидит! Не хочет разговаривать. | She hates me! She doesn't want to talk. | #102: Она меня ненавидит<br>#104: Не хочет со мной разговаривать | verbatim |
+| 3 | Охранник | Кто? Марина? У нас кампания валится! | Who? Marina? Our campaign is falling apart! | #103: Кто<br>#104: Марина<br>#106: У нас все валится | verbatim |
+| 4 | Аркадий | Посоветуй мне что-нибудь полезное. | Give me some useful advice. | #112: посоветовала бы мне что-нибудь | verbatim |
+| 5 | Лёша | Здравствуйте! Вы можете починить мой танк? | Hello! Can you fix my tank? | #114: Здрасте | adapted: cue 116 garbled 'танец' corrected to 'танк' |
+| 6 | Охранник | Не могу. Уходи отсюда и закрой дверь! | I can't. Get out of here and close the door! | #117: Не могу<br>#117: и дверь закрой | adapted: crude insult 'Сдрись' replaced with clean 'Уходи' |
+| 7 | Аркадий | Зачем ты его прогнал? Это ошибка. | Why did you chase him away? That is a mistake. | new | new |
+| 8 | Охранник | Это ведь её сын. | After all, that is her son. | #121: Это ведь не просто ребенок<br>#122: Это ее сын | verbatim |
+| 9 | Охранник | Хочешь понравиться женщине? Подружись с её ребёнком. | Want a woman to like you? Make friends with her child. | #125: Если ты хочешь, чтобы баба тебя полюбила<br>#126: подружись с ее ребенком | adapted: 'баба' -> polite 'женщина' |
+| 10 | Аркадий | Я не люблю детей. С ними скучно. | I do not like children. It is boring with them. | #127: Я ненавижу детей<br>#128: с ними скучно | adapted: 'ненавижу' -> 'не люблю' |
+| 11 | Охранник | Но мальчик идёт с ней в комплекте. | But the boy comes with her in the package. | #129: что этот идет с ней в комплекте | verbatim |
+| 12 | Аркадий | Ладно. Потом отправлю его учиться в Англию. | Fine. Later I will send him to study in England. | #131: Отправлю в Англию учиться | verbatim |
+| 13 | Охранник | Англия — это слишком дорого. | England is too expensive. | #132: в Англию жирно | adapted: colloquial 'жирно' glossed as expensive |
+| 14 | Аркадий | Тогда поедет учиться в Болгарию. | Then he will go study in Bulgaria. | #133: В Болгарию поедем | verbatim |
 | 15 | Охранник | Сначала почини его игрушечный танк. | First fix his toy tank. | new | new |
-| 16 | Аня | Хорошая идея! Я сейчас же попробую. | Good idea! I will try right now. | new | new |
+| 16 | Аркадий | Хорошая идея! Я сейчас же попробую. | Good idea! I will try right now. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

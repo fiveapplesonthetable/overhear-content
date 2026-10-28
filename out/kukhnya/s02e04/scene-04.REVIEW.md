@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Я Кристина. | I am Kristina. | #53 00:03:11: Я Кристина | verbatim |
-| 2 | Вика | Здравствуйте, Кристина. | Hello, Kristina. | #54 00:03:13: Здравствуйте, Кристина | verbatim |
-| 3 | Шеф | Проходите, ознакомьтесь, это команда моих поваров. | Come on in and take a look, this is my team of cooks. | #57 00:03:25: Проходите, ознакомьтесь, это команда моих поваров | verbatim |
-| 4 | Шеф | Очень приятно, отличные парни. | Very nice to meet you, great guys. | #58 00:03:30: Очень приятно, отличные парни | verbatim |
-| 5 | Вика | Я сам отвечу. | I will answer it myself. | #60 00:03:38: я сам отвечу | verbatim |
-| 6 | Шеф | А во-вторых. | And secondly. | #62 00:03:42: А во-вторых | verbatim |
-| 7 | Шеф | Ну, как после этого не приезжать в Россию? | Well, how could one not visit Russia after that? | #63 00:03:46: Ну, как после этого не приезжать в Россию | verbatim |
-| 8 | Вика | Вот, Вальдемар, проходите. | Right this way, Valdemar, come in. | #65 00:03:52: Вот, Вальдемар, проходите | verbatim |
-| 9 | Шеф | Это наша прекрасная кухня. | This is our wonderful kitchen. | #66 00:03:53: Это наша прекрасная кухня | verbatim |
-| 10 | Шеф | Ну, разве что чуть-чуть больше. | Well, maybe just a little bit bigger. | #68 00:03:59: Ну, разве что чуть-чуть больше | verbatim |
-| 11 | Вика | Ну, чтобы готовить и такой достаточно. | Well, for cooking, even one like this is enough. | #69 00:04:02: Ну, чтобы готовить и такой достаточно | verbatim |
-| 12 | Шеф | А чтобы книги писать. | Whereas for writing books. | #70 00:04:04: А чтобы книги писать | verbatim |
-| 13 | Шеф | А это наш шеф-повар Виктор Петрович. | And this is our head chef, Viktor Petrovich. | #71 00:04:07: А это наш шеф-повар Виктор Петрович | verbatim |
+| 1 | Шеф | Я Кристина. | I am Kristina. | #53: Я Кристина | verbatim |
+| 2 | Вика | Здравствуйте, Кристина. | Hello, Kristina. | #54: Здравствуйте, Кристина | verbatim |
+| 3 | Кристина | Проходите, ознакомьтесь, это команда моих поваров. | Come on in and take a look, this is my team of cooks. | #57: Проходите, ознакомьтесь, это команда моих поваров | verbatim |
+| 4 | Шеф | Очень приятно, отличные парни. | Very nice to meet you, great guys. | #58: Очень приятно, отличные парни | verbatim |
+| 5 | Вика | Я сам отвечу. | I will answer it myself. | #60: я сам отвечу | verbatim |
+| 6 | Кристина | А во-вторых. | And secondly. | #62: А во-вторых | verbatim |
+| 7 | Шеф | Ну, как после этого не приезжать в Россию? | Well, how could one not visit Russia after that? | #63: Ну, как после этого не приезжать в Россию | verbatim |
+| 8 | Вика | Вот, Вальдемар, проходите. | Right this way, Valdemar, come in. | #65: Вот, Вальдемар, проходите | verbatim |
+| 9 | Кристина | Это наша прекрасная кухня. | This is our wonderful kitchen. | #66: Это наша прекрасная кухня | verbatim |
+| 10 | Шеф | Ну, разве что чуть-чуть больше. | Well, maybe just a little bit bigger. | #68: Ну, разве что чуть-чуть больше | verbatim |
+| 11 | Вика | Ну, чтобы готовить и такой достаточно. | Well, for cooking, even one like this is enough. | #69: Ну, чтобы готовить и такой достаточно | verbatim |
+| 12 | Кристина | А чтобы книги писать. | Whereas for writing books. | #70: А чтобы книги писать | verbatim |
+| 13 | Шеф | А это наш шеф-повар Виктор Петрович. | And this is our head chef, Viktor Petrovich. | #71: А это наш шеф-повар Виктор Петрович | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am Kristina.' In Russian, the idea of 'I' flows naturally into 'Kristina' without extra filler words.
-- 'Hello, Kristina.' Here the Russian phrasing highlights 'hello' before landing on 'Kristina'. Kristina answers right away.
-- 'Come on in and take a look, this is my team of cooks.' The grammar packs 'come in' and 'cooks' into a tight, idiomatic kitchen exchange.
-- 'Very nice to meet you, great guys.' Spoken Russian keeps this brisk, leaning on 'very' and finishing on 'guys'.
-- 'I will answer it myself.' Vika brings out the contrast between 'I' and 'himself' in a few short words. Kristina answers right away.
-- 'And secondly.' The meaning hinges on 'and' working together with 'secondly' in spoken Russian.
-- 'Well, how could one not visit Russia after that?' In Russian, the idea of 'come on' flows naturally into 'Russia' without extra filler words.
-- 'Right this way, Valdemar, come in.' Vika anchors the line on 'there you go', while 'come in' completes the thought. Kristina answers right away.
-- 'This is our wonderful kitchen.' Kristina pairs 'wonderful' with 'kitchen' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Well, maybe just a little bit bigger.' Here the Russian phrasing highlights 'come on' before landing on 'more'.
-- 'Well, for cooking, even one like this is enough.' The grammar packs 'come on' and 'enough' into a tight, idiomatic kitchen exchange. Kristina answers right away.
-- 'Whereas for writing books.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to write'.
-- 'And this is our head chef, Viktor Petrovich.' Chef Viktor brings out the contrast between 'and' and 'this' in a few short words.
+- 'I am Kristina.' Noting that he is Kristina keeps Barinov's side of the story simple and clear.
+- 'Hello, Kristina.' With the restaurant and conversation in play, Vika keeps this short reply brisk and direct.
+- 'Come on in and take a look, this is my team of cooks.' Realizing that Barinov should come on in and take a look this is her team of cooks changes how Kristina handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Very nice to meet you, great guys.' Between the restaurant and the point, Barinov gives Kristina a quick, grounded response.
+- 'I will answer it myself.' Since she will answer it herself, Vika does not waste words on excuses.
+- 'And secondly.' Around the restaurant and room, Kristina sets a calm, everyday tone with Barinov.
+- 'Well, how could one not visit Russia after that?' By wondering how one not visit Russia could, Barinov presses Kristina for a straight answer.
+- 'Right this way, Valdemar, come in.' Over the shift and the moment, Vika answers Barinov without a second thought.
+- 'This is our wonderful kitchen.' Explaining that this is their wonderful kitchen lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Well, maybe just a little bit bigger.' With the shift and point in play, Barinov keeps this short reply brisk and direct.
+- 'Well, for cooking, even one like this is enough.' Claiming that for cooking even one like this is enough sounds confident, even if Barinov has doubts.
+- 'Whereas for writing books.' Turning from the shift to the plan, Kristina keeps the exchange moving.
+- 'And this is our head chef, Viktor Petrovich.' Barinov explains that this is their head Viktor Petrovich, keeping his voice calm and direct.

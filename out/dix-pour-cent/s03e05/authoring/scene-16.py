@@ -7,7 +7,6 @@ SCENE = 16
 TITLE = 'Les préparatifs de la fête  (Party Preparations)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'valentin': 'theo'}
 LABELS = {'noemie': 'Noémie', 'valentin': 'Valentin'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'

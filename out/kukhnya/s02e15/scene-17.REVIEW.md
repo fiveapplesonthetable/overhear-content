@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это сделал я. | I am the one who did it. | #289 00:17:24: это сделал я | verbatim |
-| 2 | Саша | Не Лавров украл у вас деньги. | Lavrov did not steal your money. | #289 00:17:24: Не Лавров украл у вас деньги | verbatim |
-| 3 | Нагиев | Дмитрий Владимирович, простите меня. | Dmitry Vladimirovich, please forgive me. | #292 00:17:33: Дмитрий Владимирович, простите меня | verbatim |
-| 4 | Аня | Я очень сильно хотел. | I wanted this so badly. | #293 00:17:34: Я очень сильно хотел | verbatim |
-| 5 | Саша | Что если его здесь не будет. | I thought that if he were no longer working here. | #294 00:17:37: что если его здесь не будет | verbatim |
-| 6 | Нагиев | Это девушка моя, бывшая. | She is my ex-girlfriend. | #295 00:17:41: это девушка моя, бывшая | verbatim |
-| 7 | Аня | Она вернется ко мне. | That she would come back to me. | #296 00:17:46: она вернется ко мне | verbatim |
-| 8 | Саша | Я тебя очень люблю. | I love you so much. | #297 00:17:49: я тебя очень люблю | verbatim |
-| 9 | Нагиев | Я понимаю. | I understand. | #299 00:17:57: Я понимаю | verbatim |
-| 10 | Аня | То я пойму. | Then I will understand. | #301 00:18:04: то я пойму | verbatim |
-| 11 | Саша | Потому что это правильно. | Because it is the right thing to do. | #302 00:18:08: потому что это правильно | verbatim |
-| 12 | Нагиев | Ну, ты дал жару, Илья. | Well, Ilya, you really put on a show. | #303 00:18:12: Ну, ты дал жару, Илья | verbatim |
-| 13 | Аня | Раз деньги на месте. | Since the money is back where it belongs. | #305 00:18:16: Раз деньги на месте | verbatim |
+| 1 | Макс | Это сделал я. | I am the one who did it. | #289: это сделал я | verbatim |
+| 2 | Саша | Не Лавров украл у вас деньги. | Lavrov did not steal your money. | #289: Не Лавров украл у вас деньги | verbatim |
+| 3 | Нагиев | Дмитрий Владимирович, простите меня. | Dmitry Vladimirovich, please forgive me. | #292: Дмитрий Владимирович, простите меня | verbatim |
+| 4 | Макс | Я очень сильно хотел. | I wanted this so badly. | #293: Я очень сильно хотел | verbatim |
+| 5 | Саша | Что если его здесь не будет. | I thought that if he were no longer working here. | #294: что если его здесь не будет | verbatim |
+| 6 | Нагиев | Это девушка моя, бывшая. | She is my ex-girlfriend. | #295: это девушка моя, бывшая | verbatim |
+| 7 | Макс | Она вернется ко мне. | That she would come back to me. | #296: она вернется ко мне | verbatim |
+| 8 | Саша | Я тебя очень люблю. | I love you so much. | #297: я тебя очень люблю | verbatim |
+| 9 | Нагиев | Я понимаю. | I understand. | #299: Я понимаю | verbatim |
+| 10 | Макс | То я пойму. | Then I will understand. | #301: то я пойму | verbatim |
+| 11 | Саша | Потому что это правильно. | Because it is the right thing to do. | #302: потому что это правильно | verbatim |
+| 12 | Нагиев | Ну, ты дал жару, Илья. | Well, Ilya, you really put on a show. | #303: Ну, ты дал жару, Илья | verbatim |
+| 13 | Макс | Раз деньги на месте. | Since the money is back where it belongs. | #305: Раз деньги на месте | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the one who did it.' Max anchors the line on 'this', while 'I' completes the thought.
-- 'Lavrov did not steal your money.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Dmitry Vladimirovich, please forgive me.' The grammar packs 'Dmitry' and 'me' into a tight, idiomatic kitchen exchange.
-- 'I wanted this so badly.' Max brings out the contrast between 'I' and 'very' in a few short words.
-- 'I thought that if he were no longer working here.' Notice how Russian expresses 'what' and 'will' with crisp inflection rather than helper words. Dmitry answers right away.
-- 'She is my ex-girlfriend.' The meaning hinges on 'this' working together with 'former' in spoken Russian.
-- 'That she would come back to me.' Here the Russian phrasing highlights 'she' before landing on 'for me'.
-- 'I love you so much.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'love'. Dmitry answers right away.
-- 'I understand.' In Russian, the idea of 'I' flows naturally into 'understand' without extra filler words.
-- 'Then I will understand.' Here the Russian phrasing highlights 'then' before landing on 'to understand'.
-- 'Because it is the right thing to do.' The grammar packs 'because' and 'serves you right' into a tight, idiomatic kitchen exchange. Dmitry answers right away.
-- 'Well, Ilya, you really put on a show.' Dmitry anchors the line on 'come on', while 'Ilya' completes the thought.
-- 'Since the money is back where it belongs.' Max brings out the contrast between 'time' and 'money' in a few short words.
+- 'I am the one who did it.' Noting that he is the one who did it keeps Max's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Lavrov did not steal your money.' Explaining that Lavrov did not steal Max's money lays the cards on the table for Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Dmitry Vladimirovich, please forgive me.' Mentioning that Max should forgive him moves the talk in a new direction.
+- 'I wanted this so badly.' Claiming that he wanted this so badly sounds confident, even if Nagiyev has doubts.
+- 'I thought that if he were no longer working here.' Pointing out that she thought that if he were no longer working here gives Max a sobering reality check.
+- 'She is my ex-girlfriend.' Nagiyev explains that she is his ex girlfriend, keeping his voice calm and direct.
+- 'That she would come back to me.' Realizing that that she would come back to him changes how Max handles the situation.
+- 'I love you so much.' Sasha reminds Max that she loves Max so much before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I understand.' With the point and money in play, Nagiyev keeps this short reply brisk and direct.
+- 'Then I will understand.' Admitting that he will understand shows Max being honest for a change.
+- 'Because it is the right thing to do.' Saying that because it is the right thing to do is how Sasha sets the tone with Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Well, Ilya, you really put on a show.' Once Max really put on a show, Nagiyev can finally tell Max what he means.
+- 'Since the money is back where it belongs.' Adding that since the money is back where it belongs fills in the missing piece for Nagiyev.

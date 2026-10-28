@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Лёва, можно я пораньше сегодня домой пойду? | Lyova, may I go home a bit earlier today? | #246 00:18:35: можно я пораньше сегодня домой пойду | adapted: adapted |
-| 2 | Сеня | Зуб болит, я прямо не могу. | My tooth hurts, I really cannot stand it. | #247 00:18:37: Да, зуб болит, не могу прямо | adapted: adapted |
-| 3 | Сеня | Да, конечно, иди домой. | Yes, of course, go home. | #248 00:18:40: Да, конечно | adapted: adapted |
-| 4 | Федя | Слушай, у нашего друга зубки болят. | Listen, our friend's teeth hurt. | #250 00:18:42: зубки болят | adapted: adapted |
-| 5 | Федя | Сейчас он твой рот бесплатно посмотрит. | Right now he will examine your mouth for free. | #251 00:18:46: Сейчас он твой рот бесплатно посмотрит | adapted: adapted |
-| 6 | Сеня | Да нет, большое вам спасибо. | Oh no, thank you very much. | #252 00:18:49: Да нет, спасибо | adapted: adapted |
-| 7 | Сеня | Он же ветеринар, а я повар. | He is a veterinarian, and I am a cook. | #253 00:18:51: Он ветеринар, я же | adapted: adapted |
-| 8 | Сеня | А ты почему так сильно нервничаешь? | And why are you so very nervous? | #255 00:18:58: Ты почему так нервничаешь | adapted: adapted |
-| 9 | Сеня | Может, у тебя не болит ничего? | Maybe nothing hurts you at all? | #256 00:19:02: Может, у тебя не болит ничего | adapted: adapted |
-| 10 | Сеня | Как это у меня не болит? | What do you mean it does not hurt? | #257 00:19:06: Как это не болит | adapted: adapted |
-| 11 | Сеня | Честное слово, это совсем не моё. | Honestly, this is not mine at all. | #258 00:19:16: Это не мое | adapted: adapted |
-| 12 | Сеня | Клянусь, меня просто подставили. | I swear, they simply framed me. | #259 00:19:18: Меня подставили | adapted: adapted |
+| 1 | Сеня | Лёва, можно я пораньше сегодня домой пойду? | Lyova, may I go home a bit earlier today? | #246: можно я пораньше сегодня домой пойду | adapted: adapted |
+| 2 | Сеня | Зуб болит, я прямо не могу. | My tooth hurts, I really cannot stand it. | #247: Да, зуб болит, не могу прямо | adapted: adapted |
+| 3 | Лёва | Да, конечно, иди домой. | Yes, of course, go home. | #248: Да, конечно | adapted: adapted |
+| 4 | Федя | Слушай, у нашего друга зубки болят. | Listen, our friend's teeth hurt. | #250: зубки болят | adapted: adapted |
+| 5 | Федя | Сейчас он твой рот бесплатно посмотрит. | Right now he will examine your mouth for free. | #251: Сейчас он твой рот бесплатно посмотрит | adapted: adapted |
+| 6 | Сеня | Да нет, большое вам спасибо. | Oh no, thank you very much. | #252: Да нет, спасибо | adapted: adapted |
+| 7 | Сеня | Он же ветеринар, а я повар. | He is a veterinarian, and I am a cook. | #253: Он ветеринар, я же | adapted: adapted |
+| 8 | Лёва | А ты почему так сильно нервничаешь? | And why are you so very nervous? | #255: Ты почему так нервничаешь | adapted: adapted |
+| 9 | Лёва | Может, у тебя не болит ничего? | Maybe nothing hurts you at all? | #256: Может, у тебя не болит ничего | adapted: adapted |
+| 10 | Сеня | Как это у меня не болит? | What do you mean it does not hurt? | #257: Как это не болит | adapted: adapted |
+| 11 | Сеня | Честное слово, это совсем не моё. | Honestly, this is not mine at all. | #258: Это не мое | adapted: adapted |
+| 12 | Сеня | Клянусь, меня просто подставили. | I swear, they simply framed me. | #259: Меня подставили | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, may I go home a bit earlier today?' In Russian, the idea of 'Lyova' flows naturally into 'will go' without extra filler words.
-- 'My tooth hurts, I really cannot stand it.' Spoken Russian keeps this brisk, leaning on 'tooth' and finishing on 'can'. Lyova answers right away.
-- 'Yes, of course, go home.' The meaning hinges on 'yes' working together with 'home' in spoken Russian.
-- 'Listen, our friend's teeth hurt.' In Russian, the idea of 'listen' flows naturally into 'hurt' without extra filler words.
-- 'Right now he will examine your mouth for free.' Notice how Russian expresses 'now' and 'will examine' with crisp inflection rather than helper words. Senya answers right away.
-- 'Oh no, thank you very much.' Here the Russian phrasing highlights 'yes' before landing on 'thank you'.
-- 'He is a veterinarian, and I am a cook.' In everyday Russian, 'veterinarian' flows straight into 'chef, cook' without extra linking words.
-- 'And why are you so very nervous?' Notice how Russian expresses 'and' and 'are nervous' with crisp inflection rather than helper words.
-- 'Maybe nothing hurts you at all?' Lyova anchors the line on 'maybe', while 'nothing' completes the thought.
-- 'What do you mean it does not hurt?' Senya anchors the line on 'how', while 'hurts' completes the thought.
-- 'Honestly, this is not mine at all.' The meaning hinges on 'honest' working together with 'my' in spoken Russian.
-- 'I swear, they simply framed me.' Notice how Russian expresses 'swear' and 'framed' with crisp inflection rather than helper words.
+- 'Lyova, may I go home a bit earlier today?' Asking whether may he goes home a bit earlier today puts Fedya right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'My tooth hurts, I really cannot stand it.' Adding that his tooth hurts he really cannot stand it fills in the missing piece for Fedya.
+- 'Yes, of course, go home.' Going home is how Lyova lays out the situation for Fedya.
+- 'Listen, our friend's teeth hurt.' Since their friend teeth hurt, Fedya does not waste words on excuses.
+- 'Right now he will examine your mouth for free.' Mentioning that right now he will examine Lyova's mouth for free moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Oh no, thank you very much.' With the shift and friend in play, Senya keeps this short reply brisk and direct.
+- 'He is a veterinarian, and I am a cook.' Being a veterinarian and he is a cook is how Senya lays out the situation for Fedya.
+- 'And why are you so very nervous?' Here asking why Fedya so very nervous is shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Maybe nothing hurts you at all?' When Lyova asks if maybe nothing hurts Fedya at all, Fedya has to answer fast.
+- 'What do you mean it does not hurt?' Asking what Fedya means it does not hurt cuts straight through the tension between Senya and Fedya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Honestly, this is not mine at all.' Pointing out that this is not his at all gives Fedya a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I swear, they simply framed me.' Realizing that he swears they simply framed him changes how Senya handles the situation.

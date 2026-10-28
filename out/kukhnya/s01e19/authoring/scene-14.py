@@ -5,31 +5,30 @@ SEASON = 1
 EPISODE = 19
 SCENE = 14
 TITLE = "День рождения ресторана  (The Restaurant's Birthday)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
-LABELS = {"chef": "Шеф", "vika": "Вика"}
+LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = 'Vika confronts Chef Barinov. The restaurant owner, Dima, gave the Chef two weeks to attract more customers, and half the time is already gone. Vika wants to know his plan.'
 OPENER = "Now let's go back through the exchange around The Restaurant's Birthday line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The Chef has a grand plan, but things rarely go smoothly at Claude Monet. See you later. Next time you watch the episode, listen for the Russian expressions for 'to intend' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "До встречи!")
+CLOSING = ('vika', 'До встречи!')
 STORY = [
     ('vika', 'Что собираешься делать?', 'What are you going to do?', [(236, 'собираешься делать')], ''),
-    ('chef', 'Ты насчет ресторана?', 'Are you talking about the restaurant?', [(237, 'Ты насчет')], ''),
+    ('barinov', 'Ты насчет ресторана?', 'Are you talking about the restaurant?', [(237, 'Ты насчет')], ''),
     ('vika', 'Дима дал тебе две недели.', 'Dima gave you two weeks.', [(238, 'Дима тебе дал две недели')], ''),
     ('vika', 'Уже неделя прошла.', "A week's already gone by.", [(239, 'Уже неделя прошла')], ''),
-    ('chef', 'Не переживай, у меня есть идея.', "Don't worry, I have an idea.", [(240, 'Не переживай, есть у меня одна идея')], ''),
+    ('barinov', 'Не переживай, у меня есть идея.', "Don't worry, I have an idea.", [(240, 'Не переживай, есть у меня одна идея')], ''),
     ('vika', 'Дай угадаю. Ты напьешься?', "Let me guess. You'll get drunk?", [(241, 'Дай угадаю. Напьешься')], ''),
-    ('chef', 'Естественно. Такой повод.', 'Naturally. Such an occasion.', [(242, 'Естественно. Такой повод')], ''),
-    ('chef', 'День рождения ресторана Клод Моне.', 'The birthday of the Claude Monet restaurant.', [(242, 'День рождения ресторана Клод Мане')], ''),
-    ('chef', 'Устроим пир на весь мир.', "We'll throw a party for the whole world.", [(243, 'устроим пир на весь мир')], ''),
+    ('barinov', 'Естественно. Такой повод.', 'Naturally. Such an occasion.', [(242, 'Естественно. Такой повод')], ''),
+    ('barinov', 'День рождения ресторана Клод Моне.', 'The birthday of the Claude Monet restaurant.', [(242, 'День рождения ресторана Клод Мане')], ''),
+    ('barinov', 'Устроим пир на весь мир.', "We'll throw a party for the whole world.", [(243, 'устроим пир на весь мир')], ''),
     ('vika', 'И как мир об этом узнает?', 'And how will the world hear about it?', [(244, 'И как весь мир об этом узнает')], ''),
-    ('chef', 'А это я беру на себя.', "I'll take care of that.", [(245, 'А это я беру на себя')], ''),
+    ('barinov', 'А это я беру на себя.', "I'll take care of that.", [(245, 'А это я беру на себя')], ''),
     ('vika', 'Понятно. Удачи.', 'Got it. Good luck.', [(246, 'Понятно. Удачи')], ''),
-    ('chef', 'Спасибо.', 'Thanks.', [(247, 'Спасибо')], ''),
+    ('barinov', 'Спасибо.', 'Thanks.', [(247, 'Спасибо')], ''),
 ]
 WALK = [
     (0, None, "'What are you going to do?' Vika asks directly. Notice the word for 'to do' is at the end."),

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Лёва, хорошо, что ты встал. | Lyova, it is good that you stood up. | #298 00:23:23: Лёва, хорошо, что ты встал | adapted: adapted |
-| 2 | Шеф | Я должен сделать важное заявление. | I must make an important announcement. | #301 00:23:29: Я должен сделать заявление | adapted: adapted |
-| 3 | Шеф | Я больше не работаю шефом. | I am no longer working as head chef. | #302 00:23:32: я больше не буду работать | adapted: adapted |
-| 4 | Шеф | Я за ресторан не переживаю. | I am not worried about the restaurant. | #305 00:23:42: Я за ресторан не переживаю | adapted: adapted |
-| 5 | Шеф | Лёва большой профессионал и друг. | Lyova is a great professional and friend. | #306 00:23:46: он большой профессионал и большой друг | adapted: adapted |
-| 6 | Шеф | Он мой самый лучший друг. | He is my very best friend. | #307 00:23:51: Мой лучший друг | adapted: adapted |
-| 7 | Шеф | Пришла пора вам стать шефом. | The time has come for you to become head chef. | #309 00:23:58: Пришла пора вам стать лучшим | adapted: adapted |
-| 8 | Лёва | Шеф, простите, я не могу. | Chef, forgive me, I cannot. | #313 00:24:10: Шеф, я не могу | adapted: adapted |
-| 9 | Лёва | Я сейчас улетаю в Бишкек. | I am flying to Bishkek right now. | #314 00:24:11: Я улетаю в Бишкек | adapted: adapted |
-| 10 | Лёва | Улетаю, может, на пять лет. | I am flying away, perhaps for five years. | #315 00:24:15: Может быть, на пять лет | adapted: adapted |
-| 11 | Лёва | Извините меня за это решение. | Excuse me for this decision. | #316 00:24:16: Извините | adapted: adapted |
-| 12 | Шеф | Виктор Петрович, это настоящая любовь. | Viktor Petrovich, this is true love. | #317 00:24:21: Виктор Петрович, это любовь | adapted: adapted |
+| 1 | Шеф | Лёва, хорошо, что ты встал. | Lyova, it is good that you stood up. | #298: Лёва, хорошо, что ты встал | adapted: adapted |
+| 2 | Шеф | Я должен сделать важное заявление. | I must make an important announcement. | #301: Я должен сделать заявление | adapted: adapted |
+| 3 | Шеф | Я больше не работаю шефом. | I am no longer working as head chef. | #302: я больше не буду работать | adapted: adapted |
+| 4 | Шеф | Я за ресторан не переживаю. | I am not worried about the restaurant. | #305: Я за ресторан не переживаю | adapted: adapted |
+| 5 | Шеф | Лёва большой профессионал и друг. | Lyova is a great professional and friend. | #306: он большой профессионал и большой друг | adapted: adapted |
+| 6 | Шеф | Он мой самый лучший друг. | He is my very best friend. | #307: Мой лучший друг | adapted: adapted |
+| 7 | Шеф | Пришла пора вам стать шефом. | The time has come for you to become head chef. | #309: Пришла пора вам стать лучшим | adapted: adapted |
+| 8 | Лёва | Шеф, простите, я не могу. | Chef, forgive me, I cannot. | #313: Шеф, я не могу | adapted: adapted |
+| 9 | Лёва | Я сейчас улетаю в Бишкек. | I am flying to Bishkek right now. | #314: Я улетаю в Бишкек | adapted: adapted |
+| 10 | Лёва | Улетаю, может, на пять лет. | I am flying away, perhaps for five years. | #315: Может быть, на пять лет | adapted: adapted |
+| 11 | Лёва | Извините меня за это решение. | Excuse me for this decision. | #316: Извините | adapted: adapted |
+| 12 | Шеф | Виктор Петрович, это настоящая любовь. | Viktor Petrovich, this is true love. | #317: Виктор Петрович, это любовь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, it is good that you stood up.' Chef Barinov anchors the line on 'Lyova', while 'stood up' completes the thought.
-- 'I must make an important announcement.' In Russian, the idea of 'I' flows naturally into 'statement' without extra filler words.
-- 'I am no longer working as head chef.' The negative particle sits right before the verb meaning 'work' to negate the statement.
-- 'I am not worried about the restaurant.' Chef Barinov brings out the contrast between 'I' and 'for' in a few short words.
-- 'Lyova is a great professional and friend.' Here the Russian phrasing highlights 'Lyova' before landing on 'friend'.
-- 'He is my very best friend.' Chef Barinov brings out the contrast between 'he' and 'my' in a few short words.
-- 'The time has come for you to become head chef.' Chef Barinov anchors the line on 'came', while 'to become' completes the thought.
-- 'Chef, forgive me, I cannot.' The grammar packs 'Chef Barinov' and 'can' into a tight, idiomatic kitchen exchange.
-- 'I am flying to Bishkek right now.' The meaning hinges on 'I' working together with 'Bishkek' in spoken Russian.
-- 'I am flying away, perhaps for five years.' In Russian, the idea of 'am flying away' flows naturally into 'years' without extra filler words.
-- 'Excuse me for this decision.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'decision'.
-- 'Viktor Petrovich, this is true love.' Notice how Russian expresses 'this' and 'love' with crisp inflection rather than helper words.
+- 'Lyova, it is good that you stood up.' Pointing out that it is good that Lyova stood up gives Lyova a sobering reality check.
+- 'I must make an important announcement.' Barinov explains that he must make an important announcement, keeping his voice calm and direct.
+- 'I am no longer working as head chef.' Being no longer working as head is how Barinov lays out the situation for Lyova.
+- 'I am not worried about the restaurant.' Adding that he is not worried about the restaurant fills in the missing piece for Lyova.
+- 'Lyova is a great professional and friend.' Even though Lyova is a great professional and friend, Barinov keeps a steady face in front of Lyova.
+- 'He is my very best friend.' Admitting that he is his very best friend shows Barinov being honest for a change.
+- 'The time has come for you to become head chef.' Noting that the time has come for Lyova to become head keeps Barinov's side of the story simple and clear.
+- 'Chef, forgive me, I cannot.' Around the moment and choice, Lyova sets a calm, everyday tone with Barinov.
+- 'I am flying to Bishkek right now.' Being flying to Bishkek right now moves the conversation forward without extra drama.
+- 'I am flying away, perhaps for five years.' Claiming that he is flying away perhaps for five years sounds confident, even if Barinov has doubts.
+- 'Excuse me for this decision.' With the conversation and choice in play, Lyova keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Viktor Petrovich, this is true love.' Mentioning that this is true love moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.

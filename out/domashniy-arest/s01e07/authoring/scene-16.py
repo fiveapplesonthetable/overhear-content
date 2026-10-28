@@ -1,37 +1,39 @@
-# domashniy-arest/s01e07/scene-16.py
-ID = "domashniy-arest-s01e07-scene-16"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-16.
+ID = 'domashniy-arest-s01e07-scene-16'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 16
-TITLE = "Ну не шуршите!  (Stop Rustling!)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.07"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "anya": "alisa", "marina": "angelina"}
-LABELS = {"samson": "Самсон", "anya": "Аркадий", "marina": "Марина"}
+TITLE = 'Ну не шуршите!  (Stop Rustling!)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'marina': 'Марина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.07'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
 INTRO = "Now it is late at night in the communal flat: Arkady is listening through the thin wall of Marina's room to spoil Eduard's romantic evening, while Samsonov phones Danya to set his trap in motion. Listen to the Russian first, and don't worry about catching every word."
-STORY = [
-    ("marina", "А вдруг мы его разбудим? И у него начнутся боли?", "What if we wake him up? And what if his pains start?", [(618, 'А вдруг мы его разбудим'), (618, 'и у него начнутся боли')], ""),
-    ("marina", "Ему в больнице всё сделали. Ну а вдруг ему станет хуже?", "They did everything for him at the hospital. Well, what if he gets worse?", [(619, 'в больнице'), (621, 'Ну а вдруг ему станет хуже')], "Eduard's reassurance in 619-620 echoed by Marina"),
-    ("marina", "Ты думаешь только о себе! Просто день был сложный, давай спать.", "You only think about yourself! It was just a tough day, let's go to sleep.", [(623, 'Ты думаешь только о'), (630, 'Просто день был сложный'), (631, 'давай спать')], "adult pill joke in 624-629 omitted"),
-    ("anya", "Ай, да что ж такое? Ну только я задремал!", "Oh, what is going on? I had only just dozed off!", [(634, 'Ай, да что ж такое'), (635, 'Ну только я задремал')], ""),
-    ("anya", "Вы можете помолчать ради больного человека? Мне нужен покой!", "Can you be quiet for the sake of a sick person? I need peace and quiet!", [(637, 'ради больного человека')], "crude 'неуемную похоть' in 637 cleaned to 'помолчать'"),
-    ("anya", "Ну не шуршите там за стеной!", "Stop rustling behind the wall!", [(638, 'Ну не шуршите')], ""),
-    ("anya", "Ну будет тишина или нет?", "Will there be silence or not?", [(639, 'Ну будет тишина или нет')], ""),
-    ("marina", "Да спим мы уже, спим!", "We are sleeping already, we are sleeping!", [(640, 'Да спим мы')], ""),
-    ("samson", "Алло, Даня, привет! Это Самсонов. Как дела?", "Hello, Danya, hi! This is Samsonov. How are things?", [(641, 'Алло, Даня, привет'), (641, 'Самсонов')], ""),
-    ("samson", "Слушай, ты прости меня сегодня. Я был неправ.", "Listen, forgive me for today. I was wrong.", [(643, 'Слушай, ты прости меня сегодня')], ""),
-    ("samson", "Славик сказал, ты завтра придёшь? Хочешь фондю принести?", "Slavik said you are coming over tomorrow? Do you want to bring fondue?", [(645, 'ты завтра'), (646, 'фондю'), (646, 'принести')], ""),
-    ("samson", "Не передумал ещё? Давай, приходи к нам в гости!", "Haven't you changed your mind yet? Come on, come visit us!", [(647, 'Не передумал еще'), (648, 'давай, приходи')], ""),
-    ("samson", "Не бойся, всё в порядке! Посидим дружно за столом.", "Don't be afraid, everything is fine! We will sit together in a friendly way at the table.", [(650, 'все в порядке')], "crude 'По писярику накатим' / 'не бздо' (649-650) cleaned"),
-    ("samson", "Ждём тебя завтра! Спокойной ночи, Даня.", "We are waiting for you tomorrow! Good night, Danya.", [(651, 'Спокойной ночи')], ""),
-]
 OPENER = "Did you hear how Arkady ruined Eduard's night and how Samsonov invited Danya over? Let's break it down."
+TRANSITION = "Now let's listen to the whole scene again from start to finish."
+OUTRO = "While Arkady grins in the dark after ruining Eduard's evening through the wall, Samsonov hangs up the phone satisfied that Danya has walked right into his invitation. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('marina', 'А вдруг мы его разбудим? И у него начнутся боли?', 'What if we wake him up? And what if his pains start?', [(618, 'А вдруг мы его разбудим'), (618, 'и у него начнутся боли')], ''),
+    ('marina', 'Ему в больнице всё сделали. Ну а вдруг ему станет хуже?', 'They did everything for him at the hospital. Well, what if he gets worse?', [(619, 'в больнице'), (621, 'Ну а вдруг ему станет хуже')], "Eduard's reassurance in 619-620 echoed by Marina"),
+    ('marina', 'Ты думаешь только о себе! Просто день был сложный, давай спать.', "You only think about yourself! It was just a tough day, let's go to sleep.", [(623, 'Ты думаешь только о'), (630, 'Просто день был сложный'), (631, 'давай спать')], 'adult pill joke in 624-629 omitted'),
+    ('arkady', 'Ай, да что ж такое? Ну только я задремал!', 'Oh, what is going on? I had only just dozed off!', [(634, 'Ай, да что ж такое'), (635, 'Ну только я задремал')], ''),
+    ('arkady', 'Вы можете помолчать ради больного человека? Мне нужен покой!', 'Can you be quiet for the sake of a sick person? I need peace and quiet!', [(637, 'ради больного человека')], "crude 'неуемную похоть' in 637 cleaned to 'помолчать'"),
+    ('arkady', 'Ну не шуршите там за стеной!', 'Stop rustling behind the wall!', [(638, 'Ну не шуршите')], ''),
+    ('arkady', 'Ну будет тишина или нет?', 'Will there be silence or not?', [(639, 'Ну будет тишина или нет')], ''),
+    ('marina', 'Да спим мы уже, спим!', 'We are sleeping already, we are sleeping!', [(640, 'Да спим мы')], ''),
+    ('samson', 'Алло, Даня, привет! Это Самсонов. Как дела?', 'Hello, Danya, hi! This is Samsonov. How are things?', [(641, 'Алло, Даня, привет'), (641, 'Самсонов')], ''),
+    ('samson', 'Слушай, ты прости меня сегодня. Я был неправ.', 'Listen, forgive me for today. I was wrong.', [(643, 'Слушай, ты прости меня сегодня')], ''),
+    ('samson', 'Славик сказал, ты завтра придёшь? Хочешь фондю принести?', 'Slavik said you are coming over tomorrow? Do you want to bring fondue?', [(645, 'ты завтра'), (646, 'фондю'), (646, 'принести')], ''),
+    ('samson', 'Не передумал ещё? Давай, приходи к нам в гости!', "Haven't you changed your mind yet? Come on, come visit us!", [(647, 'Не передумал еще'), (648, 'давай, приходи')], ''),
+    ('samson', 'Не бойся, всё в порядке! Посидим дружно за столом.', "Don't be afraid, everything is fine! We will sit together in a friendly way at the table.", [(650, 'все в порядке')], "crude 'По писярику накатим' / 'не бздо' (649-650) cleaned"),
+    ('samson', 'Ждём тебя завтра! Спокойной ночи, Даня.', 'We are waiting for you tomorrow! Good night, Danya.', [(651, 'Спокойной ночи')], ''),
+]
 WALK = [
     (0, 'А вдруг мы его разбудим?', "In Marina's bedroom, Marina whispers anxiously about Arkady in the next room: 'What if we wake him up?'"),
-    (0, 'И у него начнутся боли?', "'And what if his pains start?' Eduard grumbles that the hospital already took care of everything."),
+    (0, 'И у него начнутся боли?', "'And what if his pains start?' Right then, Eduard grumbles that the hospital already took care of everything."),
     (1, 'Ему в больнице всё сделали.', "'They did everything for him at the hospital,' Marina repeats Eduard's excuse."),
     (1, 'Ну а вдруг ему станет хуже?', "'Well, what if he gets worse?' Notice the 'to me/you' pronoun with the impersonal verb for feeling worse."),
     (2, 'Ты думаешь только о себе!', "When Eduard complains that Marina only thinks about Arkady, she snaps back: 'You only think about yourself!'"),
@@ -56,6 +58,3 @@ WALK = [
     (13, 'Ждём тебя завтра!', "'We are waiting for you tomorrow!' The adverb meaning 'tomorrow' modifies the verb for 'we are waiting for' to sharpen the tone."),
     (13, 'Спокойной ночи, Даня.', "'Good night, Danya,' Samsonov says with a sly smile."),
 ]
-TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "While Arkady grins in the dark after ruining Eduard's evening through the wall, Samsonov hangs up the phone satisfied that Danya has walked right into his invitation. See you next time!"
-CLOSING = ("anya", "Пока!")

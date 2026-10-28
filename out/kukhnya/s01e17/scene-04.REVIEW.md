@@ -1,41 +1,41 @@
-# Дисциплина в зале  (Discipline in the Hall) — `kukhnya-s01e17-scene-04`
+# kukhnya-s01e17-scene-04: review sheet
 
-**Source:** Кухня (Kukhnya) S1.17 · `sources/kukhnya/s01/e17.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Дисциплина в зале  (Discipline in the Hall)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.17
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the dining hall of Claude Monet, Victoria reprimands the waitstaff for flirting during work hours. Seeing her visibly stressed, Max approaches Victoria to invite her out for a relaxing evening, hoping to brighten her mood. Let's listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Вика | Настя, быстро убери пятый столик! | Nastya, quickly clear the fifth table! | #48 "Настя, убери пятый столик." |  |
-| 1 | Вика | Вы совсем обнаглели на этой работе? | Have you completely lost your nerve at this job? | #50 "На работе вы должны работать" |  |
-| 2 | Вика | Здесь надо работать, а не обжиматься. | One must work here, not cuddle. | #50 "На работе вы должны работать, а не обжиматься и ржать." |  |
-| 3 | Костя | Мы просто спокойно разговаривали, Виктория Сергеевна. | We were just calmly talking, Victoria Sergeevna. | *(added)* |  |
-| 4 | Вика | У нас строго запрещены любые отношения! | Any relationships are strictly forbidden here! | #51 "Или вам напомнить, что у нас запрещены отношения?" |  |
-| 5 | Костя | Мы ничего плохого не сделали. | We did nothing bad. | #55 "Да мы ничего такого и не сделали." |  |
-| 6 | Вика | Быстро идите работать в зал. | Quickly go work in the hall. | #56 "Настя, быстро в зал." |  |
-| 7 | Макс | Вика, почему ты такая напряжённая? | Vika, why are you so tense? | #58 "Мне кажется, какая-то напряженная." |  |
-| 8 | Вика | У меня очень много сложных дел. | I have very many difficult matters. | *(added)* |  |
-| 9 | Макс | Пойдём сегодня вечером в классное место? | Shall we go to an awesome place tonight? | #59 "вечером мы с тобой идем в одно офигенное место?" |  |
-| 10 | Вика | Макс, я слишком сильно устала. | Max, I am too tired. | #60 "Я как-то устала." |  |
-| 11 | Макс | Там ты отлично отдохнёшь со мной. | There you will rest wonderfully with me. | #60 "Ну, ты отдохнешь?" |  |
-| 12 | Вика | Посмотрим, мне надо подумать об этом. | We will see, I need to think about this. | *(added)* |  |
+| 1 | Вика | Настя, быстро убери пятый столик! | Nastya, quickly clear the fifth table! | #48: Настя, убери пятый столик. | verbatim |
+| 2 | Вика | Вы совсем обнаглели на этой работе? | Have you completely lost your nerve at this job? | #50: На работе вы должны работать | verbatim |
+| 3 | Вика | Здесь надо работать, а не обжиматься. | One must work here, not cuddle. | #50: На работе вы должны работать, а не обжиматься и ржать. | verbatim |
+| 4 | Костя | Мы просто спокойно разговаривали, Виктория Сергеевна. | We were just calmly talking, Victoria Sergeevna. | new | new |
+| 5 | Вика | У нас строго запрещены любые отношения! | Any relationships are strictly forbidden here! | #51: Или вам напомнить, что у нас запрещены отношения? | verbatim |
+| 6 | Костя | Мы ничего плохого не сделали. | We did nothing bad. | #55: Да мы ничего такого и не сделали. | verbatim |
+| 7 | Вика | Быстро идите работать в зал. | Quickly go work in the hall. | #56: Настя, быстро в зал. | verbatim |
+| 8 | Макс | Вика, почему ты такая напряжённая? | Vika, why are you so tense? | #58: Мне кажется, какая-то напряженная. | verbatim |
+| 9 | Вика | У меня очень много сложных дел. | I have very many difficult matters. | new | new |
+| 10 | Макс | Пойдём сегодня вечером в классное место? | Shall we go to an awesome place tonight? | #59: вечером мы с тобой идем в одно офигенное место? | verbatim |
+| 11 | Вика | Макс, я слишком сильно устала. | Max, I am too tired. | #60: Я как-то устала. | verbatim |
+| 12 | Макс | Там ты отлично отдохнёшь со мной. | There you will rest wonderfully with me. | #60: Ну, ты отдохнешь? | verbatim |
+| 13 | Вика | Посмотрим, мне надо подумать об этом. | We will see, I need to think about this. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Leaving Victoria to finish her duties, Max hopes she will accept his invitation tonight, while Victoria tries to keep her focus on managing the busy restaurant. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to remove' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'Nastya, quickly clear the fifth table!' Vika leads with the direct command form meaning 'take away', pairing it with 'quickly' and 'fifth'.
+- 'Have you completely lost your nerve at this job?' Vika turns a statement into a question purely through rising intonation on the word meaning 'at all', pairing it with 'lost nerve' and 'work'.
+- 'One must work here, not cuddle.' The phrasing opens with 'here' before bringing in 'it is necessary' and 'to work' to make the point clear.
+- 'We were just calmly talking, Victoria Sergeevna.' Kostya expresses this naturally by combining the word for 'just' with 'calmly' and 'were talking'.
+- 'Any relationships are strictly forbidden here!' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'sternly' and 'are forbidden'.
+- 'We did nothing bad.' Here Kostya anchors the line on the word meaning 'bad' and builds the thought around 'did'.
+- 'Quickly go work in the hall.' Vika leads with the direct command form meaning 'come', pairing it with 'quickly' and 'to work'.
+- 'Vika, why are you so tense?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'tense' to make the point directly in conversation.
+- 'I have very many difficult matters.' Vika uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'very much' and 'a lot'.
+- 'Shall we go to an awesome place tonight?' Max turns a statement into a question purely through rising intonation on the word meaning 'let's go', pairing it with 'today' and 'in the evening'.
+- 'Max, I am too tired.' The phrasing opens with 'too' before bringing in 'strongly' and 'are tired' to make the point clear.
+- 'There you will rest wonderfully with me.' Max expresses this naturally by combining the word for 'there' with 'perfect' and 'will rest'.
+- 'We will see, I need to think about this.' Vika uses the action verb meaning 'have a look' to focus on the single completed result, pairing it with 'it is necessary' and 'to think'.

@@ -7,29 +7,28 @@ SCENE = 6
 TITLE = 'Le choix des prénoms  (Choosing Baby Names)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "In their apartment bedroom, talent agent Andrea Martel and her partner Colette discuss baby names for their future child. When Andrea's suggestions trigger memories of old relationships, Colette questions Andrea's readiness for parenthood. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea and Colette discuss their future child step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "That's it for this scene around choosing baby names. When you watch the episode, listen out for the expressions meaning 'were supposed to' and 'to compare'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('colette', 'Nous devions comparer nos listes de prénoms.', 'We were supposed to compare our lists of first names.', [(435, "On avait dit qu'on se montrait nos listes, ce soir."), (436, 'Les prénoms.')], ''),
-    ('lea', "J'ai oublié ma liste écrite au bureau.", 'I forgot my written list at the office.', [(437, "t'as oublié la liste au bureau.")], ''),
-    ('lea', "Mais j'ai tous les noms en tête.", 'But I have all the names in my head.', [(438, "parce que je l'ai bien en tête.")], ''),
-    ('lea', 'Que penses-tu du joli prénom Clélia?', 'What do you think of the pretty first name Clelia?', [(443, 'Alors, Clélia.'), (444, "C'est joli.")], ''),
+    ('andrea', "J'ai oublié ma liste écrite au bureau.", 'I forgot my written list at the office.', [(437, "t'as oublié la liste au bureau.")], ''),
+    ('andrea', "Mais j'ai tous les noms en tête.", 'But I have all the names in my head.', [(438, "parce que je l'ai bien en tête.")], ''),
+    ('andrea', 'Que penses-tu du joli prénom Clélia?', 'What do you think of the pretty first name Clelia?', [(443, 'Alors, Clélia.'), (444, "C'est joli.")], ''),
     ('colette', 'Je suis déjà sortie avec une Clélia.', 'I have already dated a Clelia.', [(446, 'Mais je suis sortie avec une Clélia')], ''),
-    ('lea', 'Et que dis-tu de Natacha alors?', 'And what do you say about Natacha then?', [(450, 'Natacha ? La Russie, Tolstoy...')], ''),
+    ('andrea', 'Et que dis-tu de Natacha alors?', 'And what do you say about Natacha then?', [(450, 'Natacha ? La Russie, Tolstoy...')], ''),
     ('colette', "C'est encore une de tes anciennes amoureuses?", 'Is that another one of your former lovers?', [(451, "C'est aussi une fille avec qui t'as couché, c'est ça ?")], ''),
-    ('lea', "Non, c'était juste une camarade d'école!", 'No, she was just a school classmate!', [(453, 'y avait une Natacha dans notre classe en prépa.')], ''),
+    ('andrea', "Non, c'était juste une camarade d'école!", 'No, she was just a school classmate!', [(453, 'y avait une Natacha dans notre classe en prépa.')], ''),
     ('colette', "Nous n'avons toujours aucun prénom choisi.", 'We still do not have any name chosen.', [(464, 'On est près de sur rien.'), (466, "Pas de chambre d'enfant, pas de prénom, rien.")], ''),
     ('colette', "Tu n'es pas investie dans cette grossesse.", 'You are not invested in this pregnancy.', [(467, "c'était pas du tout investi dans cette grossesse.")], ''),
-    ('lea', 'Et mes rendez-vous médicaux tous les quinze jours?', 'And my medical appointments every two weeks?', [(472, 'Et les rendez-vous médicaux, là, tous les quinze jours,')], ''),
-    ('lea', "Notre petite fille n'est pas encore née!", 'Our little girl is not born yet!', [(477, 'Non, mais elle est pas encore née, la petite.')], ''),
-    ('lea', 'Je veux profiter un peu de notre liberté.', 'I want to enjoy our freedom a little bit.', [(478, 'on peut pas profiter encore un tout petit peu de notre liberté.')], ''),
+    ('andrea', 'Et mes rendez-vous médicaux tous les quinze jours?', 'And my medical appointments every two weeks?', [(472, 'Et les rendez-vous médicaux, là, tous les quinze jours,')], ''),
+    ('andrea', "Notre petite fille n'est pas encore née!", 'Our little girl is not born yet!', [(477, 'Non, mais elle est pas encore née, la petite.')], ''),
+    ('andrea', 'Je veux profiter un peu de notre liberté.', 'I want to enjoy our freedom a little bit.', [(478, 'on peut pas profiter encore un tout petit peu de notre liberté.')], ''),
 ]
 WALK = [
     (0, None, "'We were supposed to compare our lists of first names.' Colette reminds Andrea that they planned to choose baby names tonight. The verb meaning 'were supposed to' pairs naturally with the noun for 'lists' in everyday conversation."),

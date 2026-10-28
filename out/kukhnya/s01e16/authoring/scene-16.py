@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 16
-TITLE = "Пряность Айнура  (Aynura Spice)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Пряность Айнура  (Aynura Spice)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "inspector": "angelina", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "inspector": "Инспектор", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Focused on aynura spice, Another illegal worker is hidden. The inspector concludes the kitchen is clean. Max offers his pâté. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Another illegal worker is hidden. The inspector concludes the kitchen is clean. Max offers his pâté. Next time you watch the episode, listen for the Russian expressions for 'to take' and 'illegal immigrant' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Ты с чего взял?', 'Where did you get that?', [(191, 'Ты с чего?')], ''),
-    ('anya', 'Ещё один нелегал.', 'Another illegal.', [(192, 'Еще один. Господи, куда вас всех девать?')], ''),
-    ('chef', 'Господи, куда вас девать?', 'Lord, where to put you?', [(192, 'Еще один. Господи, куда вас всех девать?')], ''),
-    ('chef', 'Вы отсидитесь в туалете.', 'You will sit in the toilet.', [(193, 'Да сейчас вы в туалете отсидитесь, потом через главный день.')], ''),
-    ('chef', 'Потом уйдёте через вход.', 'Then leave through the entrance.', [(193, 'Да сейчас вы в туалете отсидитесь, потом через главный день.')], ''),
-    ('anya', 'Они дежурят на входе.', 'They are on guard at the entrance.', [(194, 'Ты самоумный, да? Они на входе дежурят.')], ''),
-    ('chef', 'Сядет в зал.', 'He will sit in the hall.', [(195, 'Боже мой, сядет в зал, как и Анюра.')], ''),
-    ('chef', 'Сходи в бар, возьми одежду.', 'Go to the bar, take clothes.', [(196, 'Пойди, сходи в Костя на бар, возьми для него одежду.')], ''),
-    ('chef', 'Терпи, давай.', 'Endure, come on.', [(198, 'Давай, давай, терпи, давай.')], ''),
+    ('barinov', 'Ты с чего взял?', 'Where did you get that?', [(191, 'Ты с чего?')], ''),
+    ('max', 'Ещё один нелегал.', 'Another illegal.', [(192, 'Еще один. Господи, куда вас всех девать?')], ''),
+    ('barinov', 'Господи, куда вас девать?', 'Lord, where to put you?', [(192, 'Еще один. Господи, куда вас всех девать?')], ''),
+    ('barinov', 'Вы отсидитесь в туалете.', 'You will sit in the toilet.', [(193, 'Да сейчас вы в туалете отсидитесь, потом через главный день.')], ''),
+    ('barinov', 'Потом уйдёте через вход.', 'Then leave through the entrance.', [(193, 'Да сейчас вы в туалете отсидитесь, потом через главный день.')], ''),
+    ('max', 'Они дежурят на входе.', 'They are on guard at the entrance.', [(194, 'Ты самоумный, да? Они на входе дежурят.')], ''),
+    ('barinov', 'Сядет в зал.', 'He will sit in the hall.', [(195, 'Боже мой, сядет в зал, как и Анюра.')], ''),
+    ('barinov', 'Сходи в бар, возьми одежду.', 'Go to the bar, take clothes.', [(196, 'Пойди, сходи в Костя на бар, возьми для него одежду.')], ''),
+    ('barinov', 'Терпи, давай.', 'Endure, come on.', [(198, 'Давай, давай, терпи, давай.')], ''),
     ('inspector', 'Поздравляю вас.', 'I congratulate you.', [(203, 'Все ж, поздравляю вас. У вас все чисто.')], ''),
     ('inspector', 'У вас все чисто.', 'Everything is clean with you.', [(203, 'Все ж, поздравляю вас. У вас все чисто.')], ''),
-    ('chef', 'Я же вам сразу сказал.', 'I told you right away.', [(204, 'Ну, я же вам сразу сказал.')], ''),
+    ('barinov', 'Я же вам сразу сказал.', 'I told you right away.', [(204, 'Ну, я же вам сразу сказал.')], ''),
     ('inspector', 'Я не имею права верить.', 'I have no right to believe.', [(205, 'Ну, вы простите меня, конечно, но я не имею права верить на слово.')], ''),
-    ('chef', 'Мы профессионалы.', 'We are professionals.', [(208, 'Мы профессионалы.')], ''),
+    ('barinov', 'Мы профессионалы.', 'We are professionals.', [(208, 'Мы профессионалы.')], ''),
 ]
 WALK = [
     (0, None, "'Where did you get that?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'got'."),

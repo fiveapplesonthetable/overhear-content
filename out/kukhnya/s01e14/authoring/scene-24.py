@@ -4,27 +4,26 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 24
-TITLE = "Храбрый круассан  (The Brave Croissant)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Храбрый круассан  (The Brave Croissant)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "Max approaches Victoria at the bar. She pours him a strong drink to say thank you. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's go through it line by line. Max asks Vika a playful question."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "They share a warm moment of mutual respect. Next time you watch the episode, listen for the Russian expressions for 'croissant' and 'celery' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'А я кто?', 'And what am I?', [(313, 'А я кто')], ''),
-    ('anya', 'Круассан или сельдерей?', 'A croissant or celery?', [(313, 'Круассан или сельдерей')], ''),
+    ('max', 'А я кто?', 'And what am I?', [(313, 'А я кто')], ''),
+    ('max', 'Круассан или сельдерей?', 'A croissant or celery?', [(313, 'Круассан или сельдерей')], ''),
     ('vika', 'Ну, конечно, круассан.', 'Well, of course a croissant.', [(314, 'Ну, конечно, круассан')], ''),
-    ('anya', 'Почему круассан?', 'Why a croissant?', [], ''),
-    ('anya', 'Я же не ем мучное.', "I don't eat flour products.", [(315, 'Я же не ем мучную')], ''),
+    ('max', 'Почему круассан?', 'Why a croissant?', [], ''),
+    ('max', 'Я же не ем мучное.', "I don't eat flour products.", [(315, 'Я же не ем мучную')], ''),
     ('vika', 'Ты спас наш ресторан.', 'You saved our restaurant.', [], ''),
     ('vika', 'Ты молодец, Макс.', 'You did great, Max.', [], ''),
-    ('anya', 'Я просто сделал свою работу.', 'I just did my job.', [], ''),
+    ('max', 'Я просто сделал свою работу.', 'I just did my job.', [], ''),
     ('vika', 'Нет, это было круто.', 'No, it was cool.', [], ''),
     ('vika', 'Ты очень помог мне.', 'You helped me a lot.', [], ''),
     ('vika', 'Спасибо тебе.', 'Thank you.', [(316, 'Спасибо тебе')], ''),

@@ -1,34 +1,36 @@
-# domashniy-arest/s01e10/scene-10.py
-ID = "domashniy-arest-s01e10-scene-10"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e10-scene-10.
+ID = 'domashniy-arest-s01e10-scene-10'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 10
 SCENE = 10
-TITLE = "Один-один  (One-One)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.10"
-SOURCE_FILE = "sources/domashniy-arest/s01/e10.ru.dual.srt"
-VOICES = {"narrator": "sky", "nina": "angelina", "samson": "anja"}
-LABELS = {"nina": "Нина", "samson": "Самсон"}
+TITLE = 'Один-один  (One-One)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.10'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e10.ru.dual.srt'
 INTRO = "A moment later, Samsonov gets cold feet about the upcoming televised family performance and suggests canceling it entirely. Frustrated by Nina's lingering distrust, Samsonov absurdly offers that she cheat on him too, so they can be even at one-one. Nina sarcastically names local candidates before telling him to pull himself together. Let's listen to their argument in Russian first."
-STORY = [
-    ("samson", "Может, вообще не будем выступать?", "Maybe we will not perform at all?", [(269, 'Может, вообще выступать не будем')], ""),
-    ("nina", "Самсон, мы же обо всём договорились!", "Samson, we agreed on everything!", [(271, 'Мы же договорились')], ""),
-    ("samson", "Я ведь тоже живой человек.", "I am a living person too, after all.", [(272, 'я тоже живой человек')], ""),
-    ("nina", "Тогда постарайся ради наших детей.", "Then try for the sake of our children.", [(273, 'Постарайся')], ""),
-    ("samson", "Знаешь что? Измени мне тоже!", "You know what? Cheat on me too!", [(275, 'Ну, хочешь, измени меня')], ""),
-    ("nina", "Чего? Что ты такое говоришь?", "What? What are you saying?", [(276, 'Чего')], ""),
-    ("samson", "Чтобы у нас счёт был один-один!", "So that our score is one-one!", [(277, 'чтобы у нас один-один был')], ""),
-    ("nina", "Тогда это никогда не закончится.", "Then this will never end.", [(279, 'Тогда это вечно будет продолжаться')], ""),
-    ("samson", "Иди, я тебе серьёзно говорю.", "Go, I am telling you seriously.", [(280, 'Я тебе серьезно говорю')], ""),
-    ("nina", "И с кем мне изменить?", "And with whom should I cheat?", [(281, 'С кем')], ""),
-    ("samson", "С продавцом из продуктового магазина!", "With the clerk from the grocery store!", [(282, 'с продуктового')], ""),
-    ("nina", "Ты совсем с ума сошёл, Самсон?", "Have you completely lost your mind, Samson?", [], "Nina questions Samsonov's sanity"),
-    ("nina", "Прекрати глупости и просто соберись!", "Stop the foolishness and just pull yourself together!", [(284, 'Ну, тогда соберись')], ""),
-    ("samson", "Ладно, я готов к выступлению.", "Alright, I am ready for the performance.", [], "Samsonov concedes"),
-]
 OPENER = "Now let's examine Samsonov and Nina's argument line by line. Samsonov makes a bizarre proposal to resolve their marital distrust."
+TRANSITION = "Now let's listen to Samsonov and Nina's argument once more without interruption."
+OUTRO = "Nina successfully deflects Samsonov's absurdity and refocuses him on the performance. See you next time!"
+CLOSING = ('nina', 'Пока!')
+STORY = [
+    ('samson', 'Может, вообще не будем выступать?', 'Maybe we will not perform at all?', [(269, 'Может, вообще выступать не будем')], ''),
+    ('nina', 'Самсон, мы же обо всём договорились!', 'Samson, we agreed on everything!', [(271, 'Мы же договорились')], ''),
+    ('samson', 'Я ведь тоже живой человек.', 'I am a living person too, after all.', [(272, 'я тоже живой человек')], ''),
+    ('nina', 'Тогда постарайся ради наших детей.', 'Then try for the sake of our children.', [(273, 'Постарайся')], ''),
+    ('samson', 'Знаешь что? Измени мне тоже!', 'You know what? Cheat on me too!', [(275, 'Ну, хочешь, измени меня')], ''),
+    ('nina', 'Чего? Что ты такое говоришь?', 'What? What are you saying?', [(276, 'Чего')], ''),
+    ('samson', 'Чтобы у нас счёт был один-один!', 'So that our score is one-one!', [(277, 'чтобы у нас один-один был')], ''),
+    ('nina', 'Тогда это никогда не закончится.', 'Then this will never end.', [(279, 'Тогда это вечно будет продолжаться')], ''),
+    ('samson', 'Иди, я тебе серьёзно говорю.', 'Go, I am telling you seriously.', [(280, 'Я тебе серьезно говорю')], ''),
+    ('nina', 'И с кем мне изменить?', 'And with whom should I cheat?', [(281, 'С кем')], ''),
+    ('samson', 'С продавцом из продуктового магазина!', 'With the clerk from the grocery store!', [(282, 'с продуктового')], ''),
+    ('nina', 'Ты совсем с ума сошёл, Самсон?', 'Have you completely lost your mind, Samson?', [], "Nina questions Samsonov's sanity"),
+    ('nina', 'Прекрати глупости и просто соберись!', 'Stop the foolishness and just pull yourself together!', [(284, 'Ну, тогда соберись')], ''),
+    ('samson', 'Ладно, я готов к выступлению.', 'Alright, I am ready for the performance.', [], 'Samsonov concedes'),
+]
 WALK = [
     (0, None, "'Maybe we will not perform at all?' Samsonov suggests canceling the television performance."),
     (1, None, "'Samson, we agreed on everything!' Nina reminds him of their mutual agreement."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'Stop the foolishness and just pull yourself together!' Nina orders him to focus on the performance."),
     (13, None, "'Alright, I am ready for the performance.' Samsonov relents and confirms his readiness."),
 ]
-TRANSITION = "Now let's listen to Samsonov and Nina's argument once more without interruption."
-OUTRO = "Nina successfully deflects Samsonov's absurdity and refocuses him on the performance. See you next time!"
-CLOSING = ("nina", "Пока!")

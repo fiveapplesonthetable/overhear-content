@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | То это его дело. | Then that is his own business. | #327 00:20:35: то это его дело | verbatim |
-| 2 | Настя | И не надо на Настю орать. | And there is no need to yell at Nastya. | #328 00:20:37: И не надо на Настю орать | verbatim |
-| 3 | Костя | Настя, Костя, перестаньте. | Nastya, Kostya, please stop. | #330 00:20:42: Настя, Костя, перестаньте | verbatim |
-| 4 | Настя | Ты кто такой? | Who do you think you are? | #331 00:20:44: Ты кто такой | verbatim |
-| 5 | Костя | Ну-ка, пойдем выйдем. | Come on, let us step outside. | #332 00:20:48: Ну-ка, пойдем выйдем | verbatim |
-| 6 | Настя | Ты что думаешь? | What do you think you are doing? | #333 00:20:51: Ты что думаешь | verbatim |
-| 7 | Костя | А она тебя что? | And what will she do for you? | #333 00:20:51: а она тебя что | verbatim |
-| 8 | Настя | Любить больше? | Love you more for it? | #334 00:20:56: любить больше | verbatim |
-| 9 | Костя | Это ее принципы? | Those are her principles, right? | #334 00:20:56: это ее принципы | verbatim |
-| 10 | Настя | Я их уважаю, и вы должны уважать. | I respect them, and you ought to respect them too. | #335 00:20:59: Я их уважаю, и вы должны уважать | verbatim |
-| 11 | Костя | Просить долго не придется. | You will not have to beg me for long. | #338 00:21:06: просить долго не придется | verbatim |
-| 12 | Настя | Папа, мы не пьем. | Dad, we do not drink alcohol. | #339 00:21:10: Папа, мы не пьем | verbatim |
-| 13 | Костя | Коньяк будешь? | Want some cognac? | #339 00:21:10: Коньяк будешь | verbatim |
+| 1 | Костя | То это его дело. | Then that is his own business. | #327: то это его дело | verbatim |
+| 2 | Настя | И не надо на Настю орать. | And there is no need to yell at Nastya. | #328: И не надо на Настю орать | verbatim |
+| 3 | Костя | Настя, Костя, перестаньте. | Nastya, Kostya, please stop. | #330: Настя, Костя, перестаньте | verbatim |
+| 4 | Настя | Ты кто такой? | Who do you think you are? | #331: Ты кто такой | verbatim |
+| 5 | Костя | Ну-ка, пойдем выйдем. | Come on, let us step outside. | #332: Ну-ка, пойдем выйдем | verbatim |
+| 6 | Настя | Ты что думаешь? | What do you think you are doing? | #333: Ты что думаешь | verbatim |
+| 7 | Костя | А она тебя что? | And what will she do for you? | #333: а она тебя что | verbatim |
+| 8 | Настя | Любить больше? | Love you more for it? | #334: любить больше | verbatim |
+| 9 | Костя | Это ее принципы? | Those are her principles, right? | #334: это ее принципы | verbatim |
+| 10 | Настя | Я их уважаю, и вы должны уважать. | I respect them, and you ought to respect them too. | #335: Я их уважаю, и вы должны уважать | verbatim |
+| 11 | Костя | Просить долго не придется. | You will not have to beg me for long. | #338: просить долго не придется | verbatim |
+| 12 | Настя | Папа, мы не пьем. | Dad, we do not drink alcohol. | #339: Папа, мы не пьем | verbatim |
+| 13 | Костя | Коньяк будешь? | Want some cognac? | #339: Коньяк будешь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then that is his own business.' Here the Russian phrasing highlights 'then' before landing on 'matter'. Nastya answers right away.
-- 'And there is no need to yell at Nastya.' In Russian, the idea of 'both' flows naturally into 'to yell' without extra filler words.
-- 'Nastya, Kostya, please stop.' Spoken Russian keeps this brisk, leaning on 'Nastya' and finishing on 'stop it'.
-- 'Who do you think you are?' Notice how Russian expresses 'you' and 'such' with crisp inflection rather than helper words. Kostya answers right away.
-- 'Come on, let us step outside.' The meaning hinges on 'go on' working together with 'to go out' in spoken Russian.
-- 'What do you think you are doing?' The grammar packs 'you' and 'think' into a tight, idiomatic kitchen exchange.
-- 'And what will she do for you?' The meaning hinges on 'and' working together with 'what' in spoken Russian. Nastya answers right away.
-- 'Love you more for it?' The grammar packs 'love' and 'more' into a tight, idiomatic kitchen exchange.
-- 'Those are her principles, right?' Kostya brings out the contrast between 'this' and 'her' in a few short words.
-- 'I respect them, and you ought to respect them too.' Notice how Russian expresses 'I' and 'respect' with crisp inflection rather than helper words. Kostya answers right away.
-- 'You will not have to beg me for long.' Kostya anchors the line on 'to ask', while 'it will be necessary' completes the thought.
-- 'Dad, we do not drink alcohol.' Here the Russian phrasing highlights 'Dad' before landing on 'to drink'.
-- 'Want some cognac?' Spoken Russian keeps this brisk, leaning on 'cognac' and finishing on 'will you?'.
+- 'Then that is his own business.' Once that is his own business, Kostya can finally tell Nastya what he means.
+- 'And there is no need to yell at Nastya.' Adding that there is no need to yell at Nastya fills in the missing piece for Kostya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Nastya, Kostya, please stop.' With the truth and table in play, Kostya keeps this short reply brisk and direct.
+- 'Who do you think you are?' Asking who Kostya thinks Kostya is is how Nastya puts Kostya on the spot.
+- 'Come on, let us step outside.' By telling Nastya to come on let them step outside, Kostya keeps his side of the story grounded.
+- 'What do you think you are doing?' By wondering what Kostya thinks Kostya is doing, Nastya presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And what will she do for you?' Asking what she do for Nastya will cuts straight through the tension between Kostya and Nastya.
+- 'Love you more for it?' Over the meat and the shift, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Those are her principles, right?' Asking whether those are her principles right puts Nastya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I respect them, and you ought to respect them too.' Nastya reminds Kostya that she respects them and Kostya ought to respect them before the moment passes.
+- 'You will not have to beg me for long.' Pointing out that Nastya will not have to beg him for long gives Nastya a sobering reality check.
+- 'Dad, we do not drink alcohol.' Nastya explains that dad they do not drink alcohol, keeping her voice calm and direct.
+- 'Want some cognac?' Around the kitchen and moment, Kostya wants to know where Nastya really stands.

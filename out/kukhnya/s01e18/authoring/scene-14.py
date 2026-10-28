@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 14
-TITLE = "Секретный разговор  (Secret Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Секретный разговор  (Secret Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kristina": "anja", "vika": "angelina"}
-LABELS = {"kristina": "Кристина", "vika": "Вика"}
+LABELS = {'barinov': 'Шеф', 'kristina': 'Кристина', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Kristina talks with Victoria and Viktor about the restaurant's finances. She asks Victoria to leave them alone. Let us listen to their conversation in Russian first."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kristina talks with Victoria and Viktor about the restaurant's finances. She asks Victoria to leave them alone. Next time you watch the episode, listen for the Russian expressions for 'to discuss' and 'matter' — you will catch every word right away. See you next time!"
-CLOSING = ("kristina", "Пока!")
+CLOSING = ('kristina', 'Пока!')
 STORY = [
     ('kristina', 'Мы с Димой обсудили дела.', 'Dima and I discussed the affairs.', [(265, 'Мы с Димочкой обсудили дела в ресторане,')], ''),
     ('kristina', 'У меня есть хорошая идея.', 'I have a good idea.', [(265, 'и у меня есть пара мыслей,')], ''),
@@ -24,10 +23,10 @@ STORY = [
     ('kristina', 'Только с вами, Виктор Петрович.', 'Only with you, Viktor Petrovich.', [(267, 'Виктор Петрович,')], ''),
     ('kristina', 'Если вы не против, Виктория Сергеевна?', 'If you do not mind, Victoria Sergeyevna?', [(268, 'если вы, конечно, не против.'), (269, 'А вы не против, Виктория Сергеевна?')], ''),
     ('vika', 'Да, конечно, я не против.', 'Yes, of course, I do not mind.', [(270, 'Да, конечно.')], ''),
-    ('kristina', 'Замечательно, я вас слушаю.', 'Great, I am listening to you.', [(271, 'Замечательно. Ну, я слышу.')], ''),
+    ('barinov', 'Замечательно, я вас слушаю.', 'Great, I am listening to you.', [(271, 'Замечательно. Ну, я слышу.')], ''),
     ('kristina', 'Я посмотрела зарплаты сотрудников.', 'I looked at the employees salaries.', [], ''),
     ('kristina', 'Нам нужно сделать увольнения.', 'We need to make layoffs.', [(266, 'сделать')], ''),
-    ('kristina', 'О чём вы говорите?', 'What are you talking about?', [], ''),
+    ('barinov', 'О чём вы говорите?', 'What are you talking about?', [], ''),
     ('kristina', 'Вика получает очень много денег.', 'Vika receives a lot of money.', [], ''),
 ]
 WALK = [

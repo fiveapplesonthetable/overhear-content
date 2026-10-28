@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Вань, давай капусточки тебе. Извини, Вань, была неправа. | Vanya, let me give you some cabbage. Sorry, Vanya, I was wrong. | #687 00:36:13: Вань, давай капусточки тебе<br>#689 00:36:30: извини, Вань<br>#689 00:36:30: была неправа | verbatim |
-| 2 | Самсон | Лидер! Я вообще с детства чувствовал. | A leader! I've felt it since childhood, actually. | #691 00:36:40: Лидер<br>#692 00:36:41: я вообще с детства чувствовал | verbatim |
-| 3 | Самсон | Я человек особенный. | I am a special person. | #693 00:36:47: человек<br>#693 00:36:47: особенный | adapted: simplified from 693 |
-| 4 | Нина | Ты считай, Вань, как мой избранный. | Consider yourself, Vanya, like my chosen one. | #694 00:36:51: ты считай, Вань, как мой избранный | verbatim |
-| 5 | Самсон | А что ты сидишь, улыбаешься? | And why are you sitting there smiling? | #698 00:37:05: А что ты сидишь, улыбаешься | verbatim |
-| 6 | Самсон | Что ты в телефон свой тычешь? | Why are you poking at your phone? | #698 00:37:05: в телефон свой тычешь | adapted: 'Что ты' repeated for split question |
-| 7 | Самсон | Папа город от преступников очищает! | Dad is cleaning the city of criminals! | #699 00:37:10: город от преступников очищает | adapted: 'он' -> 'Папа' for clarity |
-| 8 | Нина | Юля, телефон отложи. | Yulia, put the phone aside. | #700 00:37:14: Юля, телефон отложи | verbatim |
-| 9 | Нина | С матерью как разговариваешь? Ты вообще почему здесь? | How are you talking to your mother? Why are you even here? | #702 00:37:19: С матерью как разговариваешь<br>#704 00:37:22: Ты вообще почему здесь | verbatim |
-| 10 | Нина | Почему ты не в школе? | Why aren't you at school? | #705 00:37:24: в школе | adapted: cue 705 'Что они в школе?' is a transcription slip for 'Почему ты не в школе?' |
-| 11 | Нина | А у меня учительница по математике заболела. | My maths teacher fell ill. | #707 00:37:26: а у меня учительница по математике заболела | verbatim |
-| 12 | Нина | А я всё выучила. Я хорошо учусь. | And I've learned everything. I do well at school. | #709 00:37:30: А я все выучила<br>#710 00:37:31: Я хорошо учусь | verbatim |
-| 13 | Нина | Юля, встала и пошла мыть посуду! | Yulia, get up and go wash the dishes! | #716 00:37:37: Юля<br>#716 00:37:37: встала и пошла мыть посуду | adapted: crude 'рот закрыла' omitted |
-| 14 | Самсон | Подожди, Нина. Телефончик дай сюда! | Hold on, Nina. Hand the little phone over here! | #717 00:37:41: Подожди, Нина. Телефончик дай сюда | verbatim |
-| 15 | Нина | Пожалуйста. | Here you go. | #720 00:37:48: Пожалуйста | verbatim |
-| 16 | Самсон | Пока ещё на мои деньги куплен! Встала и мыть посуду, шагом марш! | It's still bought with my money! Get up and wash the dishes, forward march! | #721 00:37:51: Пока еще на мои деньги куплен<br>#722 00:37:55: Встала и мыть посуду, шагом марш | verbatim |
+| 1 | Нина | Вань, давай капусточки тебе. Извини, Вань, была неправа. | Vanya, let me give you some cabbage. Sorry, Vanya, I was wrong. | #687: Вань, давай капусточки тебе<br>#689: извини, Вань<br>#689: была неправа | verbatim |
+| 2 | Самсон | Лидер! Я вообще с детства чувствовал. | A leader! I've felt it since childhood, actually. | #691: Лидер<br>#692: я вообще с детства чувствовал | verbatim |
+| 3 | Самсон | Я человек особенный. | I am a special person. | #693: человек<br>#693: особенный | adapted: simplified from 693 |
+| 4 | Нина | Ты считай, Вань, как мой избранный. | Consider yourself, Vanya, like my chosen one. | #694: ты считай, Вань, как мой избранный | verbatim |
+| 5 | Самсон | А что ты сидишь, улыбаешься? | And why are you sitting there smiling? | #698: А что ты сидишь, улыбаешься | verbatim |
+| 6 | Самсон | Что ты в телефон свой тычешь? | Why are you poking at your phone? | #698: в телефон свой тычешь | adapted: 'Что ты' repeated for split question |
+| 7 | Самсон | Папа город от преступников очищает! | Dad is cleaning the city of criminals! | #699: город от преступников очищает | adapted: 'он' -> 'Папа' for clarity |
+| 8 | Нина | Юля, телефон отложи. | Yulia, put the phone aside. | #700: Юля, телефон отложи | verbatim |
+| 9 | Нина | С матерью как разговариваешь? Ты вообще почему здесь? | How are you talking to your mother? Why are you even here? | #702: С матерью как разговариваешь<br>#704: Ты вообще почему здесь | verbatim |
+| 10 | Нина | Почему ты не в школе? | Why aren't you at school? | #705: в школе | adapted: cue 705 'Что они в школе?' is a transcription slip for 'Почему ты не в школе?' |
+| 11 | Юля | А у меня учительница по математике заболела. | My maths teacher fell ill. | #707: а у меня учительница по математике заболела | verbatim |
+| 12 | Юля | А я всё выучила. Я хорошо учусь. | And I've learned everything. I do well at school. | #709: А я все выучила<br>#710: Я хорошо учусь | verbatim |
+| 13 | Нина | Юля, встала и пошла мыть посуду! | Yulia, get up and go wash the dishes! | #716: Юля<br>#716: встала и пошла мыть посуду | adapted: crude 'рот закрыла' omitted |
+| 14 | Самсон | Подожди, Нина. Телефончик дай сюда! | Hold on, Nina. Hand the little phone over here! | #717: Подожди, Нина. Телефончик дай сюда | verbatim |
+| 15 | Юля | Пожалуйста. | Here you go. | #720: Пожалуйста | verbatim |
+| 16 | Самсон | Пока ещё на мои деньги куплен! Встала и мыть посуду, шагом марш! | It's still bought with my money! Get up and wash the dishes, forward march! | #721: Пока еще на мои деньги куплен<br>#722: Встала и мыть посуду, шагом марш | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And why are you sitting there smiling?' He glares across the table at his daughter.
 - 'Why are you poking at your phone?' The verb means to poke or jab at a screen.
 - 'Dad is cleaning the city of criminals!' Samson still believes Danila's lie that he rammed a getaway car full of robbers. Afraid that Yulia will read the real news about Samson's drunken crash into the Society of the Blind, Nina quickly steps in.
-- 'Yulia, put the phone aside.' Yulia clicks her tongue in annoyance, and Nina snaps at her.
+- 'Yulia, put the phone aside.' Here, Yulia clicks her tongue in annoyance, and Nina snaps at her.
 - 'How are you talking to your mother?' After 'with', the irregular noun 'mother' takes the 'with/as' ending.
 - 'Why are you even here?' Nina realises it is the middle of a school day.
 - 'Why aren't you at school?' In Russian, 'at school' uses the preposition 'in' with the location form.

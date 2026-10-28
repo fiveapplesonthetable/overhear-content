@@ -8,15 +8,9 @@
  "scene": 16,
  "title": "Визит Вики в больницу  (Vika's Visit to the Hospital)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "anya": "alisa",
-  "chef": "anja",
-  "vika": "angelina"
- },
  "labels": {
-  "anya": "Макс",
-  "chef": "Шеф",
+  "barinov": "Шеф",
+  "max": "Макс",
   "vika": "Вика"
  },
  "segments": [
@@ -26,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Там футболист вчерашний приехал.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не бойся.",
    "gap": 0.55
   },
@@ -41,12 +35,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, ну, надеюсь, вы не собираете его?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лев, я тебя умоляю.",
    "gap": 0.55
   },
@@ -56,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Зачем мне сейчас?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот это правильно, Виктор Петрович.",
    "gap": 0.55
   },
@@ -71,12 +65,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Как ты себя чувствуешь?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "vika",
    "t": "Лавров, я бы вам советовала прилечь.",
    "gap": 0.55
   },
@@ -86,7 +80,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "А где твоя палата?",
    "gap": 0.9
   },
@@ -96,23 +90,23 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Там футболист вчерашний приехал.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'That football player from yesterday just arrived.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'came'. Chef Viktor answers right away.",
+   "t": "'That football player from yesterday just arrived.' With the kitchen and dish in play, Max keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не бойся.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do not be afraid.' Spoken Russian keeps this brief and expressive, built right around 'be afraid' without extra helper words.",
+   "t": "'Do not be afraid.' Noting that do not be afraid keeps Barinov's side of the story simple and clear.",
    "gap": 0.4
   },
   {
@@ -122,27 +116,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Thank you for warning me.' Vika anchors the line on 'thank you', while 'warned' completes the thought.",
+   "t": "'Thank you for warning me.' With the kitchen and conversation in play, Vika keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, ну, надеюсь, вы не собираете его?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, I hope you are not planning to poison him again?' Notice how Russian expresses 'chef' and 'him' with crisp inflection rather than helper words. Chef Viktor answers right away.",
+   "t": "'Chef, I hope you are not planning to poison him again?' Asking whether he hopes Barinov is not planning to poison him again puts Barinov right on the defensive.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лев, я тебя умоляю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lyova, I beg of you.' The grammar packs 'Lev' and 'I beg' into a tight, idiomatic kitchen exchange.",
+   "t": "'Lyova, I beg of you.' Begging of Max is how Barinov lays out the situation for Max. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -152,27 +146,27 @@
   },
   {
    "v": "narrator",
-   "t": "'I did not even succeed before the match.' The grammar packs 'I' and 'to do' into a tight, idiomatic kitchen exchange.",
+   "t": "'I did not even succeed before the match.' Once she did not even succeed before the match, Vika can finally tell Barinov what she means.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Зачем мне сейчас?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Why would I do it now?' Notice how Russian expresses 'what for' and 'any minute' with crisp inflection rather than helper words. Chef Viktor answers right away.",
+   "t": "'Why would I do it now?' Here asking why he does it now would shows Max looking for the real truth.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот это правильно, Виктор Петрович.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Now that is the right attitude, Viktor Petrovich.' Notice how Russian expresses 'there you go' and 'Petrovich' with crisp inflection rather than helper words.",
+   "t": "'Now that is the right attitude, Viktor Petrovich.' Barinov tells Max that that is the right attitude Viktor Petrovich without dressing it up. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -182,27 +176,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Oh, there he is.' Vika anchors the line on 'and', while 'he' completes the thought.",
+   "t": "'Oh, there he is.' Since there he is, Vika does not waste words on excuses.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Как ты себя чувствуешь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'How are you feeling?' Max brings out the contrast between 'how' and 'you' in a few short words. Chef Viktor answers right away.",
+   "t": "'How are you feeling?' Wondering how Barinov feeling is is how Max puts Barinov on the spot.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "vika",
    "t": "Лавров, я бы вам советовала прилечь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lavrov, I would advise you to lie back down.' Chef Viktor anchors the line on 'Lavrov', while 'will lie down briefly' completes the thought.",
+   "t": "'Lavrov, I would advise you to lie back down.' Vika reminds Barinov that she would advise Barinov to lie back down before the moment passes. Even in the middle of the drama, she keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
@@ -212,26 +206,26 @@
   },
   {
    "v": "narrator",
-   "t": "'All right, yes, let us get you into bed.' The grammar packs 'really?!' and 'will lie down' into a tight, idiomatic kitchen exchange.",
+   "t": "'All right, yes, let us get you into bed.' Because all right yes let them get Barinov into bed, Vika treats the matter as settled. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\".",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "А где твоя палата?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Where is your hospital room?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'hospital room'. Now let's put it all back together and hear the whole scene again.",
+   "t": "'Where is your hospital room?' Wondering where Barinov's hospital room is cuts straight through the tension between Max and Barinov. Now let's put it all back together and hear the whole scene again.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Там футболист вчерашний приехал.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не бойся.",
    "gap": 0.5
   },
@@ -241,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, ну, надеюсь, вы не собираете его?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лев, я тебя умоляю.",
    "gap": 0.5
   },
@@ -256,12 +250,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Зачем мне сейчас?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот это правильно, Виктор Петрович.",
    "gap": 0.5
   },
@@ -271,12 +265,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Как ты себя чувствуешь?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "vika",
    "t": "Лавров, я бы вам советовала прилечь.",
    "gap": 0.5
   },
@@ -286,7 +280,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "А где твоя палата?",
    "gap": 0.9
   },
@@ -296,7 +290,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "До свидания!",
    "gap": 0.3
   }

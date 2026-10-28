@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Хостес | Ну как тебе моя квартирка? | Well, how do you like my little apartment? | #138 00:08:46: Ну как тебе квартирка | adapted: adapted |
-| 2 | Аня | Ладно, тут жить можно. | Alright, one can live here. | #139 00:08:48: Ладно<br>#140 00:08:50: Жить можно | adapted: adapted |
-| 3 | Хостес | Кому тут жить можно? | Who can live here? | #141 00:08:52: Кому жить можно | adapted: adapted |
-| 4 | Аня | Мне здесь жить можно. | I can live here. | #141 00:08:52: Мне | adapted: adapted |
-| 5 | Хостес | А тебе здесь жить нельзя. | You are not allowed to live here. | #142 00:08:54: Тебе нельзя | adapted: adapted |
-| 6 | Аня | Но почему мне нельзя? | But why am I not allowed? | #142 00:08:54: Почему | adapted: adapted |
-| 7 | Хостес | Я квартиру только девочкам сдаю. | I only rent the apartment out to girls. | #143 00:08:56: Я только девочкам сдаю | adapted: adapted |
-| 8 | Аня | А зачем мне тогда квартиру показывали? | Then why did you show me the apartment? | #145 00:09:01: мне тогда квартиру показывали | adapted: adapted |
-| 9 | Хостес | Так ты же деньги за просмотр заплатил. | Because you paid the money for the viewing. | #146 00:09:02: заплатил | adapted: adapted |
-| 10 | Хостес | И так всё хорошо получилось. | And everything turned out so well. | #147 00:09:05: И так все получилось | adapted: adapted |
-| 11 | Хостес | Ему дали новенький мотоцикл. | They gave him a brand-new motorcycle. | #148 00:09:09: мотоцикл<br>#149 00:09:15: Новенький | adapted: adapted |
-| 12 | Хостес | Ну что, Кирилл Ильич, теперь мир? | Well then, Kirill Ilyich, is it peace now? | #150 00:09:20: Ну что, Кирилл Ильич, мир | adapted: adapted |
+| 1 | Хостес | Ну как тебе моя квартирка? | Well, how do you like my little apartment? | #138: Ну как тебе квартирка | adapted: adapted |
+| 2 | Макс | Ладно, тут жить можно. | Alright, one can live here. | #139: Ладно<br>#140: Жить можно | adapted: adapted |
+| 3 | Хостес | Кому тут жить можно? | Who can live here? | #141: Кому жить можно | adapted: adapted |
+| 4 | Макс | Мне здесь жить можно. | I can live here. | #141: Мне | adapted: adapted |
+| 5 | Хостес | А тебе здесь жить нельзя. | You are not allowed to live here. | #142: Тебе нельзя | adapted: adapted |
+| 6 | Макс | Но почему мне нельзя? | But why am I not allowed? | #142: Почему | adapted: adapted |
+| 7 | Хостес | Я квартиру только девочкам сдаю. | I only rent the apartment out to girls. | #143: Я только девочкам сдаю | adapted: adapted |
+| 8 | Макс | А зачем мне тогда квартиру показывали? | Then why did you show me the apartment? | #145: мне тогда квартиру показывали | adapted: adapted |
+| 9 | Хостес | Так ты же деньги за просмотр заплатил. | Because you paid the money for the viewing. | #146: заплатил | adapted: adapted |
+| 10 | Шеф | И так всё хорошо получилось. | And everything turned out so well. | #147: И так все получилось | adapted: adapted |
+| 11 | Шеф | Ему дали новенький мотоцикл. | They gave him a brand-new motorcycle. | #148: мотоцикл<br>#149: Новенький | adapted: adapted |
+| 12 | Шеф | Ну что, Кирилл Ильич, теперь мир? | Well then, Kirill Ilyich, is it peace now? | #150: Ну что, Кирилл Ильич, мир | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like my little apartment?' the hostess anchors the line on 'come on', while 'little apartment' completes the thought. Max answers right away.
-- 'Alright, one can live here.' The grammar packs 'all right' and 'may' into a tight, idiomatic kitchen exchange.
-- 'Who can live here?' In Russian, the idea of 'to whom' flows naturally into 'may' without extra filler words.
-- 'I can live here.' In Russian, the idea of 'to me' flows naturally into 'may' without extra filler words. the hostess answers right away.
-- 'You are not allowed to live here.' the hostess anchors the line on 'and', while 'one must not' completes the thought.
-- 'But why am I not allowed?' The grammar packs 'but' and 'one must not' into a tight, idiomatic kitchen exchange.
-- 'I only rent the apartment out to girls.' Here the Russian phrasing highlights 'I' before landing on 'I rent out'. Max answers right away.
-- 'Then why did you show me the apartment?' Max pairs 'why' with 'showed' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Because you paid the money for the viewing.' the hostess anchors the line on 'so', while 'to pay' completes the thought.
-- 'And everything turned out so well.' Chef Barinov centers this short reply on 'turned out', letting a few direct words carry the whole meaning.
-- 'They gave him a brand-new motorcycle.' Chef Barinov brings out the contrast between 'to him' and 'to give' in a few short words.
-- 'Well then, Kirill Ilyich, is it peace now?' In Russian, the idea of 'come on' flows naturally into 'world' without extra filler words.
+- 'Well, how do you like my little apartment?' Wondering how Barinov likes her little apartment cuts straight through the tension between the hostess and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Alright, one can live here.' Explaining that Alright one can live here lays the cards on the table for Barinov.
+- 'Who can live here?' Here asking who live here can shows the hostess looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I can live here.' Claiming that he can live here sounds confident, even if Barinov has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'You are not allowed to live here.' Explaining that Barinov is not allowed to live here lays the cards on the table for Barinov.
+- 'But why am I not allowed?' Over the moment and the peace, Max presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'I only rent the apartment out to girls.' Around the work and conversation, the hostess sets a calm, everyday tone with Barinov.
+- 'Then why did you show me the apartment?' By asking why Barinov shows him the apartment, Max presses Barinov for a straight answer.
+- 'Because you paid the money for the viewing.' Even though because Barinov paid the money for the viewing, the hostess keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'And everything turned out so well.' Admitting that everything turned out so well shows Barinov being honest for a change.
+- 'They gave him a brand-new motorcycle.' Saying that they gave him a brand new motorcycle is how Barinov sets the tone with the hostess.
+- 'Well then, Kirill Ilyich, is it peace now?' Questioning whether Kirill Ilyich is it peace now is how Barinov tests the hostess's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

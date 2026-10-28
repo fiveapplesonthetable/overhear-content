@@ -1,40 +1,41 @@
-# Время перемен  (Time for Changes) — `kukhnya-s01e12-scene-01`
+# kukhnya-s01e12-scene-01: review sheet
 
-**Source:** Кухня (Kukhnya) S1.12 · `sources/kukhnya/s01/e12.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Время перемен  (Time for Changes)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.12
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Getting ready for his shift in the locker room, Max reflects on the inevitability of change, telling Kostya that he is determined to actively pursue the changes he wants in his life. Let's listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | В жизни каждого человека нужны изменения. | Changes are needed in every person's life. | #1 "Рано или поздно в жизни каждого человека наступают перемены." |  |
-| 1 | Костя | Ты абсолютно прав, Макс. | You are absolutely right, Max. | *(added)* |  |
-| 2 | Макс | Я хочу изменить свою судьбу сегодня. | I want to change my destiny today. | *(added)* |  |
-| 3 | Костя | Надо действовать смело и не бояться. | One must act boldly and not be afraid. | *(added)* |  |
-| 4 | Макс | Моя цель — стать лучшим поваром. | My goal is to become the best cook. | *(added)* |  |
-| 5 | Костя | Это очень хорошая мечта для тебя. | This is a very good dream for you. | *(added)* |  |
-| 6 | Макс | Я сделаю важный шаг прямо сейчас. | I will make an important step right now. | *(added)* |  |
-| 7 | Костя | Какой сюрприз ты приготовил для нас? | What surprise have you prepared for us? | *(added)* |  |
-| 8 | Макс | Этот сюрприз ждёт только одну Вику. | This surprise awaits only one Vika. | *(added)* |  |
-| 9 | Костя | Удачи тебе, мой смелый друг. | Good luck to you, my brave friend. | *(added)* |  |
-| 10 | Макс | Спасибо, Костя, я пойду к ней. | Thank you, Kostya, I will go to her. | *(added)* |  |
-| 11 | Костя | Главное — ничего не испортить сегодня. | The main thing is not to ruin anything today. | *(added)* |  |
-| 12 | Макс | Не волнуйся, всё будет просто отлично. | Do not worry, everything will be simply great. | *(added)* |  |
+| 1 | Макс | В жизни каждого человека нужны изменения. | Changes are needed in every person's life. | #1: Рано или поздно в жизни каждого человека наступают перемены. | verbatim |
+| 2 | Костя | Ты абсолютно прав, Макс. | You are absolutely right, Max. | new | new |
+| 3 | Макс | Я хочу изменить свою судьбу сегодня. | I want to change my destiny today. | new | new |
+| 4 | Костя | Надо действовать смело и не бояться. | One must act boldly and not be afraid. | new | new |
+| 5 | Макс | Моя цель — стать лучшим поваром. | My goal is to become the best cook. | new | new |
+| 6 | Костя | Это очень хорошая мечта для тебя. | This is a very good dream for you. | new | new |
+| 7 | Макс | Я сделаю важный шаг прямо сейчас. | I will make an important step right now. | new | new |
+| 8 | Костя | Какой сюрприз ты приготовил для нас? | What surprise have you prepared for us? | new | new |
+| 9 | Макс | Этот сюрприз ждёт только одну Вику. | This surprise awaits only one Vika. | new | new |
+| 10 | Костя | Удачи тебе, мой смелый друг. | Good luck to you, my brave friend. | new | new |
+| 11 | Макс | Спасибо, Костя, я пойду к ней. | Thank you, Kostya, I will go to her. | new | new |
+| 12 | Костя | Главное — ничего не испортить сегодня. | The main thing is not to ruin anything today. | new | new |
+| 13 | Макс | Не волнуйся, всё будет просто отлично. | Do not worry, everything will be simply great. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Filled with determination and armed with a bold plan to impress Victoria, Max leaves the locker room to put his romantic surprise into action. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to be afraid' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Changes are needed in every person's life.' Russian omits the present-tense verb 'to be' here, linking 'life' directly with 'every', pairing it with 'person' and 'needed'.
+- 'You are absolutely right, Max.' Russian omits the present-tense verb 'to be' here, linking 'absolutely' directly with 'right' to make the point directly in conversation.
+- 'I want to change my destiny today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'One must act boldly and not be afraid.' Kostya expresses this naturally by combining the word for 'must' with 'to act' and 'boldly'.
+- 'My goal is to become the best cook.' Max puts the word for 'goal' together with 'to become' and 'best' in a crisp, natural spoken turn of phrase.
+- 'This is a very good dream for you.' Russian omits the present-tense verb 'to be' here, linking 'very' directly with 'good', followed by 'dream'.
+- 'I will make an important step right now.' Max uses the action verb meaning 'will make' to focus on the single completed result, pairing it with 'important' and 'step'.
+- 'What surprise have you prepared for us?' Kostya expresses this naturally by combining the word for 'surprise' with 'prepared'.
+- 'This surprise awaits only one Vika.' Max puts the word for 'surprise' together with 'awaits' and 'only' in a crisp, natural spoken turn of phrase.
+- 'Good luck to you, my brave friend.' Russian omits the present-tense verb 'to be' here, linking 'good luck' directly with 'brave', followed by 'friend'.
+- 'Thank you, Kostya, I will go to her.' The phrasing opens with 'thank you' before bringing in 'will go' to make the point clear.
+- 'The main thing is not to ruin anything today.' Kostya expresses this naturally by combining the word for 'the main thing' with 'to ruin' and 'today'.
+- 'Do not worry, everything will be simply great.' Max leads with the direct command form meaning 'worry', pairing it with 'will be' and 'simply'.

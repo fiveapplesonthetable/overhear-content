@@ -1,20 +1,22 @@
+# Authoring module for kukhnya-s06e08-scene-15.
 ID = 'kukhnya-s06e08-scene-15'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 8
 SCENE = 15
-TITLE = "Колье от Никиты  (The Necklace from Nikita)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Колье от Никиты  (The Necklace from Nikita)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
-LABELS = {"nikita": "Никита", "katya": "Катя"}
+LABELS = {'barinov': 'Шеф', 'katya': 'Катя', 'nikita': 'Никита'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.08'
 SOURCE_FILE = 'sources/kukhnya/s06/e08.ru.srt'
-
 INTRO = "While Chef Barinov pounds on Nagiyev's door down the hall, Nikita welcomes Katya into his suite with champagne and a velvet jewelry box. Listen to the full conversation in Russian first, and then we will walk through every line together."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Nikita's arrogant assumption that an expensive necklace buys Katya's affection instantly ruins his chances with her. Until next time!"
+CLOSING = ('nikita', 'Хорошего дня!')
 STORY = [
-    ('nikita', 'Дима, немедленно открывай, я знаю, что ты здесь!', 'Dima, open up immediately, I know that you are in here!', [(246, 'Дима, открывай! Я знаю, что ты здесь')], 'adapted'),
+    ('barinov', 'Дима, немедленно открывай, я знаю, что ты здесь!', 'Dima, open up immediately, I know that you are in here!', [(246, 'Дима, открывай! Я знаю, что ты здесь')], 'adapted'),
     ('nikita', 'Скажи честно, тебе здесь у меня нравится?', 'Tell me honestly, do you like it here at my place?', [(247, 'Нравится')], 'adapted'),
     ('nikita', 'Подожди, ведь это ещё далеко не всё.', 'Wait, after all that is far from everything.', [(248, 'Это еще не все')], 'adapted'),
     ('nikita', 'Я от души поздравляю тебя с днём рождения!', 'I congratulate you from the heart on your birthday!', [(249, 'Я поздравляю тебя с днем рождения')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nikita', 'Я снял номер и купил дорогой подарок.', 'I rented a room and bought an expensive gift.', [(258, 'Снял номер, купил дорогой подарок')], 'adapted'),
     ('nikita', 'Ты явно рассчитывала остаться тут со мной.', 'You clearly expected to stay here with me.', [(259, 'рассчитывала, что я останусь тут с тобой')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Dima, open up immediately, I know that you are in here!' The meaning hinges on 'Dima' working together with 'here' in spoken Russian. Nikita answers right away."),
-    (1, None, "'Tell me honestly, do you like it here at my place?' Nikita brings out the contrast between 'say' and 'honestly' in a few short words."),
-    (2, None, "'Wait, after all that is far from everything.' The meaning hinges on 'wait' working together with 'everything' in spoken Russian."),
-    (3, None, "'I congratulate you from the heart on your birthday!' Nikita addresses the listener with the informal singular 'you' alongside 'birthday'."),
-    (4, None, "'I believe that extra words are unnecessary here.' Nikita brings out the contrast between 'consider' and 'what' in a few short words."),
-    (5, None, "'This gift will say everything for itself.' Nikita pairs 'gift, present' with 'will tell, will say' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (6, None, "'Well and what exactly is it saying?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'to speak'. Nikita answers right away."),
-    (7, None, "'It is a very beautiful and expensive necklace.' Notice how Russian expresses 'this' and 'necklace' with crisp inflection rather than helper words."),
-    (8, None, "'It is much more expensive than your new motorcycle.' Here the Russian phrasing highlights 'it' before landing on 'motorcycle'."),
-    (9, None, "'Well and how am I supposed to react to this?' Notice how Russian expresses 'come on' and 'to react' with crisp inflection rather than helper words. Nikita answers right away."),
-    (10, None, "'I rented a room and bought an expensive gift.' The meaning hinges on 'I' working together with 'gift' in spoken Russian."),
-    (11, None, "'You clearly expected to stay here with me.' Nikita addresses the listener with the informal singular 'you' alongside 'me'."),
+    (0, None, '\'Dima, open up immediately, I know that you are in here!\' Declaring that Katya should open up immediately he knows that Katya is in here brings Barinov\'s temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (1, None, "'Tell me honestly, do you like it here at my place?' Asking whether tell him honestly do Barinov likes it here at his place puts Barinov right on the defensive."),
+    (2, None, '\'Wait, after all that is far from everything.\' Saying that after all that is far from everything is how Nikita sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (3, None, '\'I congratulate you from the heart on your birthday!\' Here congratulating Barinov from the heart on Barinov\'s birthday lets Nikita\'s real feelings break through. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (4, None, "'I believe that extra words are unnecessary here.' Noting that he believes that extra words are unnecessary here keeps Nikita's side of the story simple and clear."),
+    (5, None, "'This gift will say everything for itself.' Nikita mentions that this gift will say everything for itself so Barinov sees what is at stake."),
+    (6, None, '\'Well and what exactly is it saying?\' Asking whether what exactly is it saying puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (7, None, "'It is a very beautiful and expensive necklace.' Mentioning that it is a very beautiful and expensive necklace moves the talk in a new direction."),
+    (8, None, "'It is much more expensive than your new motorcycle.' Nikita explains that it is much more expensive than Barinov's new motorcycle, keeping his voice calm and direct."),
+    (9, None, '\'Well and how am I supposed to react to this?\' With the work and hotel hanging in the air, Katya puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (10, None, "'I rented a room and bought an expensive gift.' Noting that he rented a room and bought an expensive gift keeps Nikita's side of the story simple and clear."),
+    (11, None, '\'You clearly expected to stay here with me.\' Between the hotel and the point, Nikita gives Barinov a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nikita's arrogant assumption that an expensive necklace buys Katya's affection instantly ruins his chances with her. Until next time!"
-CLOSING = ("nikita", "Хорошего дня!")

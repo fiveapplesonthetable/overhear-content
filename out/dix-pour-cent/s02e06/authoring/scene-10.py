@@ -7,8 +7,7 @@ SCENE = 10
 TITLE = 'Le garde du corps  (The Jewelry Bodyguard)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'renard': 'theo', 'lea': 'lucie'}
-LABELS = {'renard': 'Renard', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'renard': 'Renard'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Outside Juliette Binoche's hotel room in Cannes, Andréa encounters an unyielding private security guard. Tasked with protecting multi-million euro festival jewels, the guard refuses to let anyone pass without strict clearance. Let's listen to the scene in French first."
@@ -17,21 +16,21 @@ TRANSITION = "Now let's listen to the entire dialogue once more to lock in what 
 OUTRO = "Andréa encounters rigorous security outside Juliette Binoche's suite. After radioing for clearance, the taciturn bodyguard Renard grants Andréa access to her star. See you next time!"
 CLOSING = ('renard', 'Bonne soirée!')
 STORY = [
-    ('lea', "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.", 'I deduce that the Chopard jewelry has arrived. Hello.', [(213, "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.")], ''),
+    ('andrea', "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.", 'I deduce that the Chopard jewelry has arrived. Hello.', [(213, "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.")], ''),
     ('renard', 'Qui êtes-vous, madame?', 'Who are you, madam?', [(217, 'Qui êtes-vous, madame ?')], ''),
-    ('lea', "Andréa Martel, l'agent de Juliette Binoche.", 'Andréa Martel, Juliette Binoche', [(218, "Andréa Martel, l'agent de Juliette Binoche.")], ''),
+    ('andrea', "Andréa Martel, l'agent de Juliette Binoche.", 'Andréa Martel, Juliette Binoche', [(218, "Andréa Martel, l'agent de Juliette Binoche.")], ''),
     ('renard', 'Vous devez attendre ici, madame.', 'You must wait here, madam.', [(217, 'madame ?')], ''),
-    ('lea', "Vous n'êtes pas le garde du corps des bijoux?", 'Aren', [(215, "Vous n'êtes pas le garde du corps des bijoux ?")], ''),
+    ('andrea', "Vous n'êtes pas le garde du corps des bijoux?", 'Aren', [(215, "Vous n'êtes pas le garde du corps des bijoux ?")], ''),
     ('renard', 'Je protège la sécurité de la chambre.', 'I protect the security of the room.', [(222, 'la chambre 403.')], ''),
-    ('lea', 'Quoi, alors? Antiterrorisme?', 'What then? Counter-terrorism?', [(216, 'Quoi, alors ? Antiterrorisme ?')], ''),
+    ('andrea', 'Quoi, alors? Antiterrorisme?', 'What then? Counter-terrorism?', [(216, 'Quoi, alors ? Antiterrorisme ?')], ''),
     ('renard', "Ici Renard. J'ai une certaine Martel à la chambre 403.", 'Renard here. I have a certain Martel at room 403.', [(222, "Ici Renard. J'ai une certaine Martel à la chambre 403.")], ''),
-    ('lea', 'Une certaine Martel? Je suis son agent exclusif!', 'A certain Martel? I am her exclusive agent!', [(218, "l'agent de Juliette Binoche.")], ''),
+    ('andrea', 'Une certaine Martel? Je suis son agent exclusif!', 'A certain Martel? I am her exclusive agent!', [(218, "l'agent de Juliette Binoche.")], ''),
     ('renard', 'Je vérifie les autorisations.', 'I am checking the authorizations.', [(223, "D'accord, j'ai compris.")], ''),
-    ('lea', 'Ne mettez pas vos grosses pattes partout.', 'Do not put your big paws everywhere.', [(220, 'Ne mettez pas vos grosses pattes partout.')], ''),
-    ('lea', 'Pas vous, bien sûr.', 'Not you, of course.', [(221, 'Pas vous, bien sûr.')], ''),
+    ('andrea', 'Ne mettez pas vos grosses pattes partout.', 'Do not put your big paws everywhere.', [(220, 'Ne mettez pas vos grosses pattes partout.')], ''),
+    ('andrea', 'Pas vous, bien sûr.', 'Not you, of course.', [(221, 'Pas vous, bien sûr.')], ''),
     ('renard', "D'accord, j'ai compris.", 'Okay, I understand.', [(223, "D'accord, j'ai compris.")], ''),
     ('renard', "C'est bon, vous pouvez entrer.", 'It is all right, you can go in.', [(227, "C'est bon, vous pouvez entrer.")], ''),
-    ('lea', 'Merci beaucoup, Renard.', 'Thank you very much, Renard.', [(228, 'Merci... Renard.')], ''),
+    ('andrea', 'Merci beaucoup, Renard.', 'Thank you very much, Renard.', [(228, 'Merci... Renard.')], ''),
     ('renard', 'Bonne journée, madame.', 'Have a good day, madam.', [(217, 'madame ?')], ''),
 ]
 WALK = [

@@ -1,32 +1,45 @@
-# Review: `dix-pour-cent-s02e03-scene-25` — Partie de laser game  (Laser Tag Battle)
+# dix-pour-cent-s02e03-scene-25: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "norman": "marcel", "gabriel": "theo", "lea": "lucie"}`
-- **Labels**: `{"norman": "Norman", "gabriel": "Gabriel", "lea": "Andréa"}`
+Title: Partie de laser game  (Laser Tag Battle)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E03
 
-## Part 1 — Intro
-> At a lively laser game arena, the ASK team gathers to celebrate Elvis's birthday party. Between rounds of laser tag, Gabriel takes Norman aside to discuss his new movie role. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Viens jouer au laser game! | Come and play laser games! | 642:Viens jouer au laser game. |
-| 1 | `norman` (Norman) | Se déguiser et se faire tirer dessus, ce n'est pas mon truc. | Dressing up and being shot at is not my thing. | 643:Me déguiser en GI et me faire tirer dessus, c'est pas mon truc. |
-| 2 | `lea` (Andréa) | Tu vas voir l'ambiance de l'agence. | You will see the agency | 644:Elle va voir ce qu'est ASK. |
-| 3 | `lea` (Andréa) | Où sont les gilets? | Where are the vests? | 646:Où sont les gilets pare-balles ? |
-| 4 | `lea` (Andréa) | Janowski, à toi de jouer! | Janowski, your turn to play! | 647:Hé, Janowski !, 649:À toi ! |
-| 5 | `gabriel` (Gabriel) | Salut, Norman. Félicitations pour ton film. | Hi, Norman. Congratulations on your movie. | 654:Salut, Norman., 655:Félicitations pour le film d'Audiard. |
-| 6 | `norman` (Norman) | Merci, Gabriel. | Thanks, Gabriel. | 654:Salut., 655:Merci. |
-| 7 | `gabriel` (Gabriel) | Je ne t'imaginais pas dans ce rôle. | I did not imagine you in that role. | 656:Je ne t'imaginais pas dans un rôle comme ça. |
-| 8 | `norman` (Norman) | Un rôle comme quoi? | A role like what? | 657:Un rôle comme quoi ? |
-| 9 | `gabriel` (Gabriel) | Un vrai rôle dans un film dramatique. | A real role in a dramatic film. | 658:Je veux dire, jouer un vrai rôle, dans un film. |
-| 10 | `gabriel` (Gabriel) | Où tu dois vraiment jouer la comédie. | Where you must really act. | 659:Où tu dois vraiment jouer la comédie. |
-| 11 | `norman` (Norman) | Oui, c'est un grand changement pour moi. | Yes, it is a big change for me. | 660:Ouais. |
-| 12 | `norman` (Norman) | De toute façon, c'est très cool. | Anyway, it is very cool. | 661:De toute façon, c'est cool. |
-| 13 | `gabriel` (Gabriel) | Tu as beaucoup de talent, Norman. | You have a lot of talent, Norman. | adapted |
-| 14 | `norman` (Norman) | J'espère que le public va aimer. | I hope the public will like it. | adapted |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Gabriel encourages Norman as he transitions from web comedy to serious cinema. See you next time!
-- **Closing**: `norman`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Viens jouer au laser game! | Come and play laser games! | #642: Viens jouer au laser game. | verbatim |
+| 2 | Norman | Se déguiser et se faire tirer dessus, ce n'est pas mon truc. | Dressing up and being shot at is not my thing. | #643: Me déguiser en GI et me faire tirer dessus, c'est pas mon truc. | verbatim |
+| 3 | Andréa | Tu vas voir l'ambiance de l'agence. | You will see the agency | #644: Elle va voir ce qu'est ASK. | verbatim |
+| 4 | Andréa | Où sont les gilets? | Where are the vests? | #646: Où sont les gilets pare-balles ? | verbatim |
+| 5 | Andréa | Janowski, à toi de jouer! | Janowski, your turn to play! | #647: Hé, Janowski !<br>#649: À toi ! | verbatim |
+| 6 | Gabriel | Salut, Norman. Félicitations pour ton film. | Hi, Norman. Congratulations on your movie. | #654: Salut, Norman.<br>#655: Félicitations pour le film d'Audiard. | verbatim |
+| 7 | Norman | Merci, Gabriel. | Thanks, Gabriel. | #654: Salut.<br>#655: Merci. | verbatim |
+| 8 | Gabriel | Je ne t'imaginais pas dans ce rôle. | I did not imagine you in that role. | #656: Je ne t'imaginais pas dans un rôle comme ça. | verbatim |
+| 9 | Norman | Un rôle comme quoi? | A role like what? | #657: Un rôle comme quoi ? | verbatim |
+| 10 | Gabriel | Un vrai rôle dans un film dramatique. | A real role in a dramatic film. | #658: Je veux dire, jouer un vrai rôle, dans un film. | verbatim |
+| 11 | Gabriel | Où tu dois vraiment jouer la comédie. | Where you must really act. | #659: Où tu dois vraiment jouer la comédie. | verbatim |
+| 12 | Norman | Oui, c'est un grand changement pour moi. | Yes, it is a big change for me. | #660: Ouais. | verbatim |
+| 13 | Norman | De toute façon, c'est très cool. | Anyway, it is very cool. | #661: De toute façon, c'est cool. | verbatim |
+| 14 | Gabriel | Tu as beaucoup de talent, Norman. | You have a lot of talent, Norman. | new | new |
+| 15 | Norman | J'espère que le public va aimer. | I hope the public will like it. | new | new |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Come and play laser games!' An command form urging participation in the game.
+- 'Dressing up and being shot at is not my thing.' The adverb meaning 'at' sharpens the verb for 'dressing up' here.
+- 'You will see the agency's atmosphere.' The near future tense expressing immediate experience.
+- 'Where are the vests?' Listen for the expression meaning 'where', which leads naturally into 'vests'.
+- 'Janowski, your turn to play!' The key word here means 'play', paired with 'play' to make the point clear.
+- 'Hi, Norman. Congratulations on your movie.' Gabriel offers congratulations on a new film.
+- 'Thanks, Gabriel.' A standard polite acknowledgment.
+- 'I did not imagine you in that role.' An imperfect tense expressing past expectations.
+- 'A role like what?' Norman combines 'role' with 'what' in a natural French turn of phrase.
+- 'A real role in a dramatic film.' Listen for the expression meaning 'real', which leads naturally into 'dramatic'.
+- 'Where you must really act.' The key word here means 'where', paired with 'acting' to make the point clear.
+- 'Yes, it is a big change for me.' Norman reflects on his career transition.
+- 'Anyway, it is very cool.' The key word here means 'way', paired with 'cool' to make the point clear.
+- 'You have a lot of talent, Norman.' Gabriel offers sincere professional praise.
+- 'I hope the public will like it.' Listen for the expression meaning 'I hope', which leads naturally into 'to like'.

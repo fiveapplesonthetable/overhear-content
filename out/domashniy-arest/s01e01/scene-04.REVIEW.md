@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Простите, вы кто? | Excuse me, who are you? | #125 00:08:21: кто | adapted: 'Вы, собственно, кто?' simplified; 'Простите' added |
-| 2 | Марина | Я Марина Сергеевна. А это мои студенты. | I'm Marina Sergeyevna. And these are my students. | #126 00:08:23: Марина Сергеевна<br>#128 00:08:27: А это мои студенты | adapted: surname 'Валинкина' dropped |
-| 3 | Аня | Очень приятно. А в чём дело? | Pleased to meet you. So what's the matter? | #129 00:08:30: Очень приятно<br>#130 00:08:31: в чем | adapted: 'И в чём, собственно, дело?' simplified |
-| 4 | Марина | А вы не знаете? | Don't you know? | #131 00:08:33: А вы не знаете | verbatim |
-| 5 | Аня | Нет, я не знаю. | No, I don't. | #132 00:08:34: Нет, я не знаю | verbatim |
-| 6 | Марина | Не надо врать. Стену монастыря сносят! | Don't lie. They're pulling down the monastery wall! | #133 00:08:35: Не надо врать<br>#134 00:08:36: сносят<br>#139 00:08:47: монастыря | adapted: cues 134 and 139 combined: 'сносят культурный памятник' + 'Стену ... монастыря' |
-| 7 | Марина | Там хотят построить торговый центр. | They want to build a shopping centre there. | #135 00:08:39: хотят построить торговый центр | adapted: 'на его месте' -> 'Там' |
-| 8 | Аня | Этого не может быть. Это наша история. | That can't be. It's our history. | #145 00:08:59: Этого не может быть<br>#147 00:09:04: Это наша история | verbatim |
-| 9 | Аня | Как странно, я ничего об этом не слышал. | How strange, I've heard nothing about it. | #152 00:09:18: Как странно, я ничего об этом не слышал | verbatim |
-| 10 | Аня | Павел Юрьевич, это что такое? | Pavel Yuryevich, what is this? | #154 00:09:26: Павел Юрьевич, это что такое | verbatim |
-| 11 | Паша | Мы просто не хотели вас беспокоить. Всё отменим! | We just didn't want to bother you. We'll cancel it all! | #156 00:09:30: Просто не хотели вас беспокоить<br>#164 00:09:46: Все отменим | adapted: 'Мы' added |
-| 12 | Аня | Марина, я вам обещаю: со стеной ничего не случится. | Marina, I promise you: nothing will happen to the wall. | #166 00:09:51: Марина, обещаю<br>#167 00:09:58: ничего не случится | adapted: 'с нашей исторической ценностью' -> 'со стеной'; 'я вам' word order made simple |
-| 13 | Марина | Хорошо. Мы со студентами проследим. | All right. My students and I will keep an eye on it. | #168 00:10:03: со студентами<br>#169 00:10:06: мы проследим | adapted: 'Хорошо.' new |
-| 14 | Аня | Это правильно. Я приглашаю вас в общественный совет. | That's right. I'm inviting you onto the public council. | #170 00:10:07: это правильно<br>#171 00:10:12: я приглашаю вас<br>#171 00:10:12: в общественный совет | adapted: 'войти' dropped |
-| 15 | Аня | Спасибо вам, Марина. Извините, тороплюсь. | Thank you, Marina. Sorry, I'm in a hurry. | #174 00:10:23: Спасибо вам, Марина<br>#175 00:10:26: Извините, тороплюсь | verbatim |
-| 16 | Аня | Паша, я больше не хочу о ней слышать. Понял? | Pasha, I don't want to hear about her again. Understood? | #177 00:10:33: понял | adapted: cue 177 'Сделай так, чтоб я о ней больше не слышал никогда' simplified; crude cue 176 dropped |
-| 17 | Паша | Сделаю. | I'll take care of it. | #178 00:10:36: Сделаю | verbatim |
-| 18 | Аня | И не тяни с торговым центром! | And don't drag your feet with the shopping centre! | #179 00:10:44: с торговым центром | adapted: 'не затягивайтесь' -> 'не тяни' (ты, in private); crude cue 180 dropped |
+| 1 | Аркадий | Простите, вы кто? | Excuse me, who are you? | #125: кто | adapted: 'Вы, собственно, кто?' simplified; 'Простите' added |
+| 2 | Марина | Я Марина Сергеевна. А это мои студенты. | I'm Marina Sergeyevna. And these are my students. | #126: Марина Сергеевна<br>#128: А это мои студенты | adapted: surname 'Валинкина' dropped |
+| 3 | Аркадий | Очень приятно. А в чём дело? | Pleased to meet you. So what's the matter? | #129: Очень приятно<br>#130: в чем | adapted: 'И в чём, собственно, дело?' simplified |
+| 4 | Марина | А вы не знаете? | Don't you know? | #131: А вы не знаете | verbatim |
+| 5 | Аркадий | Нет, я не знаю. | No, I don't. | #132: Нет, я не знаю | verbatim |
+| 6 | Марина | Не надо врать. Стену монастыря сносят! | Don't lie. They're pulling down the monastery wall! | #133: Не надо врать<br>#134: сносят<br>#139: монастыря | adapted: cues 134 and 139 combined: 'сносят культурный памятник' + 'Стену ... монастыря' |
+| 7 | Марина | Там хотят построить торговый центр. | They want to build a shopping centre there. | #135: хотят построить торговый центр | adapted: 'на его месте' -> 'Там' |
+| 8 | Аркадий | Этого не может быть. Это наша история. | That can't be. It's our history. | #145: Этого не может быть<br>#147: Это наша история | verbatim |
+| 9 | Аркадий | Как странно, я ничего об этом не слышал. | How strange, I've heard nothing about it. | #152: Как странно, я ничего об этом не слышал | verbatim |
+| 10 | Аркадий | Павел Юрьевич, это что такое? | Pavel Yuryevich, what is this? | #154: Павел Юрьевич, это что такое | verbatim |
+| 11 | Паша | Мы просто не хотели вас беспокоить. Всё отменим! | We just didn't want to bother you. We'll cancel it all! | #156: Просто не хотели вас беспокоить<br>#164: Все отменим | adapted: 'Мы' added |
+| 12 | Аркадий | Марина, я вам обещаю: со стеной ничего не случится. | Marina, I promise you: nothing will happen to the wall. | #166: Марина, обещаю<br>#167: ничего не случится | adapted: 'с нашей исторической ценностью' -> 'со стеной'; 'я вам' word order made simple |
+| 13 | Марина | Хорошо. Мы со студентами проследим. | All right. My students and I will keep an eye on it. | #168: со студентами<br>#169: мы проследим | adapted: 'Хорошо.' new |
+| 14 | Аркадий | Это правильно. Я приглашаю вас в общественный совет. | That's right. I'm inviting you onto the public council. | #170: это правильно<br>#171: я приглашаю вас<br>#171: в общественный совет | adapted: 'войти' dropped |
+| 15 | Аркадий | Спасибо вам, Марина. Извините, тороплюсь. | Thank you, Marina. Sorry, I'm in a hurry. | #174: Спасибо вам, Марина<br>#175: Извините, тороплюсь | verbatim |
+| 16 | Аркадий | Паша, я больше не хочу о ней слышать. Понял? | Pasha, I don't want to hear about her again. Understood? | #177: понял | adapted: cue 177 'Сделай так, чтоб я о ней больше не слышал никогда' simplified; crude cue 176 dropped |
+| 17 | Паша | Сделаю. | I'll take care of it. | #178: Сделаю | verbatim |
+| 18 | Аркадий | И не тяни с торговым центром! | And don't drag your feet with the shopping centre! | #179: с торговым центром | adapted: 'не затягивайтесь' -> 'не тяни' (ты, in private); crude cue 180 dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = "Le silence du fantôme  (The Ghost's Silence)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'realisateur': 'marcel', 'lea': 'lucie'}
-LABELS = {'isabelle': 'Isabelle', 'realisateur': 'Le réalisateur', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'isabelle': 'Isabelle', 'realisateur': 'Le réalisateur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Shivering in the cold during their outdoor take, lookalike nurse Isabelle struggles to articulate her lines. Exasperated by the director's complaints, she threatens to walk away back to her hospital job until Camille finds an artistic compromise that saves the shoot. Let's listen to their conversation in French first."
@@ -23,13 +22,13 @@ STORY = [
     ('isabelle', 'Je ne peux plus parler du tout.', 'I cannot speak at all anymore.', [(595, "J'arrive même plus à dire mon texte.")], ''),
     ('realisateur', 'Vous sauvez des gens et vous bloquez?', 'You save people and you freeze up?', [(598, 'Vous arrivez à recoudre des gens, et puis vous pouvez pas parler en marchant ?')], ''),
     ('isabelle', "Chacun son métier, je retourne à l'hôpital.", 'To each their own trade, I am going back to the hospital.', [(599, 'Ben non, chacun son métier, voilà.'), (601, "Je vais retourner à l'hôpital.")], ''),
-    ('lea', 'Attendez Isabelle, ne partez pas comme ça!', 'Wait Isabelle, do not leave like that!', [(603, 'Non, mais attends.')], ''),
-    ('lea', 'En réalité, ce texte est trop compliqué.', 'In reality, this text is too complicated.', [(604, 'En même temps, il est nul, ce texte, aussi.')], ''),
+    ('camille', 'Attendez Isabelle, ne partez pas comme ça!', 'Wait Isabelle, do not leave like that!', [(603, 'Non, mais attends.')], ''),
+    ('camille', 'En réalité, ce texte est trop compliqué.', 'In reality, this text is too complicated.', [(604, 'En même temps, il est nul, ce texte, aussi.')], ''),
     ('realisateur', "Ce texte est parfait, je l'ai écrit!", 'This text is perfect, I wrote it!', [(607, 'Il est très bien, ce texte.'), (608, "C'est moi qui l'ai écrit.")], ''),
     ('isabelle', 'Elle a raison, les mots ne coulent pas.', 'She is right, the words do not flow.', [(609, 'Non, mais elle a raison.'), (610, 'Ça coule pas.')], ''),
-    ('lea', "Un fantôme ne parle jamais dans l'histoire.", 'A ghost never speaks in the story.', [(611, 'Oui, un fantôme, ça dit rien, normalement.')], ''),
+    ('camille', "Un fantôme ne parle jamais dans l'histoire.", 'A ghost never speaks in the story.', [(611, 'Oui, un fantôme, ça dit rien, normalement.')], ''),
     ('realisateur', 'Vous voulez supprimer toutes les répliques?', 'You want to delete all the lines?', [(617, 'Ah non, non, mais moi, je change pas le texte.')], ''),
-    ('lea', 'Oui, un regard silencieux sera beaucoup plus fort.', 'Yes, a silent gaze will be much stronger.', [(613, "Un fantôme, ça apparaît, c'est tout.")], ''),
+    ('camille', 'Oui, un regard silencieux sera beaucoup plus fort.', 'Yes, a silent gaze will be much stronger.', [(613, "Un fantôme, ça apparaît, c'est tout.")], ''),
     ('isabelle', 'Parfait, je peux enfin jouer ce rôle.', 'Perfect, I can finally play this role.', [(615, "Et peut-être que comme ça, Isabelle, elle pourra un petit peu s'épanouir")], ''),
 ]
 WALK = [

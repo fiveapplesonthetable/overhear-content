@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Татьяна | Я видела, как он идёт на дно. | I saw how he was going to the bottom. | #778 00:42:12: Я вижу, как он идет на дно | verbatim |
+| 1 | Татьяна | Я видела, как он идёт на дно. | I saw how he was going to the bottom. | #778: Я вижу, как он идет на дно | verbatim |
 | 2 | Дядя Гриша | И что он сказал тебе? | And what did he say to you? | new | new: Grisha listens quietly |
-| 3 | Татьяна | Он сказал, что любит меня. | He said that he loves me. | #779 00:42:15: последнее, что он сказал мне, что я тебя люблю | verbatim |
+| 3 | Татьяна | Он сказал, что любит меня. | He said that he loves me. | #779: последнее, что он сказал мне, что я тебя люблю | verbatim |
 | 4 | Дядя Гриша | Это очень грустная история. | This is a very sad story. | new | new: Grisha feels for her |
-| 5 | Татьяна | Я долго не могла прийти в себя. | For a long time I could not recover. | #781 00:42:27: я утонула в своем горе | verbatim |
-| 6 | Дядя Гриша | Но теперь ты вернулась к жизни. | But now you have returned to life. | #782 00:42:28: Я почнулась через пять лет | verbatim |
+| 5 | Татьяна | Я долго не могла прийти в себя. | For a long time I could not recover. | #781: я утонула в своем горе | verbatim |
+| 6 | Дядя Гриша | Но теперь ты вернулась к жизни. | But now you have returned to life. | #782: Я почнулась через пять лет | verbatim |
 | 7 | Татьяна | Да, прошло целых пять лет. | Yes, a whole five years passed. | new | new: Tanya sighs softly |
-| 8 | Дядя Гриша | Ну что, поехали отсюда? | Well, shall we drive away from here? | #784 00:42:42: Ну что, поехали? | verbatim |
-| 9 | Татьяна | Да ладно, подожди немного. | Oh come on, wait a little. | #785 00:42:44: Да ладно, что ты | verbatim |
-| 10 | Дядя Гриша | Время не ждёт нас. | Time does not wait for us. | #786 00:42:45: Время терпит нас | adapted: adapted to standard idiom |
+| 8 | Дядя Гриша | Ну что, поехали отсюда? | Well, shall we drive away from here? | #784: Ну что, поехали? | verbatim |
+| 9 | Татьяна | Да ладно, подожди немного. | Oh come on, wait a little. | #785: Да ладно, что ты | verbatim |
+| 10 | Дядя Гриша | Время не ждёт нас. | Time does not wait for us. | #786: Время терпит нас | adapted: adapted to standard idiom |
 | 11 | Татьяна | Давай просто посидим вместе. | Let's just sit together. | new | new: she gestures to the table |
-| 12 | Дядя Гриша | Мы теперь как товарищи по несчастью. | We are like comrades in misfortune now. | #801 00:43:26: товарищи по несчастью | verbatim |
+| 12 | Дядя Гриша | Мы теперь как товарищи по несчастью. | We are like comrades in misfortune now. | #801: товарищи по несчастью | verbatim |
 | 13 | Татьяна | Спасибо за понимание, Гриша. | Thank you for the understanding, Grisha. | new | new: Tanya smiles gently |
 
 ## Walk-through narration (English only, no target-language words quoted)

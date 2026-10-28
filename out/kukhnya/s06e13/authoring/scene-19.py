@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e13-scene-19.
 ID = 'kukhnya-s06e13-scene-19'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 19
 TITLE = "Совет Элеоноры и расплата  (Eleonora's Advice and Payback)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "eleonora": "angelina", "mikhail": "anja"}
-LABELS = {"eleonora": "Элеонора", "mikhail": "Михаил"}
+LABELS = {'barinov': 'Шеф', 'eleonora': 'Элеонора', 'mikhail': 'Михаил'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
-
 INTRO = "At the bar, Eleonora tells Kostya how much she regrets waiting years to forgive her own father, urging him to make peace while he can. Meanwhile, Mikhail's fake gangster terrifies Chef Barinov and Timofey in the locked room as payback for the fish head."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'After giving Chef Barinov the scare of his life, Mikhail finally unlocks the door and lets them go. Until next time!'
+CLOSING = ('eleonora', 'До встречи!')
 STORY = [
     ('eleonora', 'Костя, я не знаю, что произошло.', 'Kostya, I do not know what happened.', [(269, 'я не знаю, что там у вас произошло')], 'adapted'),
     ('eleonora', 'Но я хочу сказать тебе одно.', 'But I want to tell you one thing.', [(270, 'Но скажу тебе одно')], 'adapted'),
@@ -21,30 +23,23 @@ STORY = [
     ('eleonora', 'Я очень жалею, что ждала долго.', 'I deeply regret that I waited so long.', [(274, 'Я очень жалею')], 'adapted'),
     ('eleonora', 'Но помни, что время летит незаметно.', 'But remember that time flies by unnoticed.', [(275, 'время летит незаметно')], 'adapted'),
     ('mikhail', 'Я сегодня так не дождался денег.', 'I never got the money today.', [(277, 'Не дождался денег')], 'adapted'),
-    ('mikhail', 'Простите нас, пожалуйста, мы всё отдадим.', 'Forgive us, please, we will pay everything back.', [(278, 'Простите')], 'adapted'),
+    ('barinov', 'Простите нас, пожалуйста, мы всё отдадим.', 'Forgive us, please, we will pay everything back.', [(278, 'Простите')], 'adapted'),
     ('mikhail', 'Хватит тут громко плакать и кричать.', 'Stop crying and shouting loudly in here.', [(281, 'Хватит ныть')], 'adapted'),
     ('mikhail', 'И с одной почкой люди живут.', 'People live with one kidney too.', [(282, 'И с одной почкой люди живут')], 'adapted'),
     ('mikhail', 'А у тебя сейчас их две.', 'And right now you have two of them.', [(283, 'А у тебя их две')], 'adapted'),
     ('mikhail', 'В следующий раз я шутить не буду.', 'Next time I will not be joking.', [(285, 'В следующий раз шутить не буду')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Kostya, I do not know what happened.' Here the Russian phrasing highlights 'Kostya' before landing on 'happened'."),
-    (1, None, "'But I want to tell you one thing.' The meaning hinges on 'but' working together with 'one' in spoken Russian."),
-    (2, None, "'Many years ago I quarreled with my father.' Eleonora anchors the line on 'much', while 'father' completes the thought."),
-    (3, None, "'But recently, as you know, we made up.' The grammar packs 'but' and 'reconciled' into a tight, idiomatic kitchen exchange."),
-    (4, None, "'I deeply regret that I waited so long.' In Russian, the idea of 'I' flows naturally into 'for a long time' without extra filler words."),
-    (5, None, "'But remember that time flies by unnoticed.' Eleonora brings out the contrast between 'but' and 'remember' in a few short words. Mikhail answers right away."),
-    (6, None, "'I never got the money today.' Notice how Russian puts 'tonight' and 'money' together in a short, direct phrase where word endings show how the ideas connect."),
-    (7, None, "'Forgive us, please, we will pay everything back.' The grammar packs 'forgive' and 'will give' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'Stop crying and shouting loudly in here.' The meaning hinges on 'enough' working together with 'to shout' in spoken Russian."),
-    (9, None, "'People live with one kidney too.' In Russian, the idea of 'and' flows naturally into 'live' without extra filler words."),
-    (10, None, "'And right now you have two of them.' Mikhail anchors the line on 'and', while 'two' completes the thought."),
-    (11, None, "'Next time I will not be joking.' The negative particle sits right before the verb meaning 'to joke' to negate the statement."),
+    (0, None, "'Kostya, I do not know what happened.' Once she does not know what happened, Eleonora can finally tell Barinov what she means."),
+    (1, None, '\'But I want to tell you one thing.\' Since she wants to tell Barinov one thing, Eleonora does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (2, None, "'Many years ago I quarreled with my father.' Over the truth and the peace, Eleonora answers Barinov without a second thought."),
+    (3, None, "'But recently, as you know, we made up.' Since recently as Barinov knows they made up, Eleonora does not waste words on excuses."),
+    (4, None, "'I deeply regret that I waited so long.' Mentioning that she deeply regret that she waited so long moves the talk in a new direction."),
+    (5, None, "'But remember that time flies by unnoticed.' By remembering that time flies by unnoticed, Eleonora keeps her side of the story grounded."),
+    (6, None, "'I never got the money today.' Because he never got the money today, Mikhail treats the matter as settled."),
+    (7, None, "'Forgive us, please, we will pay everything back.' Forgiving them please they will pay everything back is how Barinov lays out the situation for Eleonora."),
+    (8, None, "'Stop crying and shouting loudly in here.' Pointing out that Barinov should stop crying and shouting loudly in here gives Barinov a sobering reality check."),
+    (9, None, "'People live with one kidney too.' Between the peace and the room, Mikhail gives Barinov a quick, grounded response."),
+    (10, None, '\'And right now you have two of them.\' Pointing out that right now Barinov has two of them gives Barinov a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (11, None, "'Next time I will not be joking.' Mikhail explains that next time he will not be joking, keeping his voice calm and direct."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'After giving Chef Barinov the scare of his life, Mikhail finally unlocks the door and lets them go. Until next time!'
-CLOSING = ("eleonora", "До встречи!")

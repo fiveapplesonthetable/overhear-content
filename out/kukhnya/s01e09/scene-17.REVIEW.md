@@ -1,39 +1,40 @@
-# Где Алиса?  (Where Is Alisa?) — `kukhnya-s01e09-scene-17`
+# kukhnya-s01e09-scene-17: review sheet
 
-**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Где Алиса?  (Where Is Alisa?)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.09
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the dining room of Claude Monet, Chef Barinov's ex-wife Tanya arrives to pick up their young daughter Alisa. Barinov scrambles to make up excuses to keep Tanya from discovering that Alisa had an allergic reaction under his care. Listen to their conversation in Russian first, then we will break down each line in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Виктор, добрый вечер. Где Алиса? | Viktor, good evening. Where is Alisa? | #314 "Где Алиса?" |  |
-| 1 | Шеф | А мы с ней решили остаться. | And she and I decided to stay. | #314 "А мы с ней решили, что она еще со мной на денек останется." |  |
-| 2 | Шеф | Она побудет со мной ещё денёк. | She will stay with me one more day. | #314 "на денек останется." |  |
-| 3 | Шеф | Ты же не возражаешь, Таня? | You do not mind, Tanya? | #315 "Ты же не возражаешь." |  |
-| 4 | Шеф | Ну, если она сама так решила. | Well, if she decided so herself. | #316 "Ну, если она так решила сама." |  |
-| 5 | Шеф | Пойдём, я быстро с ней попрощаюсь. | Let us go, I will quickly say goodbye to her. | #317 "Ладно, пойдем, я с ней попрощаюсь." |  |
-| 6 | Шеф | Зачем? Я сам всё передам! | What for? I will pass on everything myself! | #317 "Ну, зачем?", #318 "Я передам." |  |
-| 7 | Шеф | Она там на кухне развлекается. | She is having fun there in the kitchen. | #318 "Она там на кухне развлекается." |  |
-| 8 | Шеф | Она просила передать тебе пока. | She asked me to say goodbye to you. | #319 "Кстати, она просила передать тебе пока." |  |
-| 9 | Шеф | Так, что с ней случилось? | Wait, what happened to her? | #320 "Что с ней случилось?" |  |
-| 10 | Шеф | Всё нормально, она просто играет. | Everything is fine, she is just playing. | #320 "Все нормально.", #321 "На кухне играется." |  |
-| 11 | Шеф | А врать ты так и не научился. | And you still have not learned how to lie. | #322 "А вот врать ты до сих пор не научился." |  |
-| 12 | Шеф | Таня, подожди, я всё объясню! | Tanya, wait, I will explain everything! | *(added)* |  |
+| 1 | Таня | Виктор, добрый вечер. Где Алиса? | Viktor, good evening. Where is Alisa? | #314: Где Алиса? | verbatim |
+| 2 | Шеф | А мы с ней решили остаться. | And she and I decided to stay. | #314: А мы с ней решили, что она еще со мной на денек останется. | verbatim |
+| 3 | Шеф | Она побудет со мной ещё денёк. | She will stay with me one more day. | #314: на денек останется. | verbatim |
+| 4 | Шеф | Ты же не возражаешь, Таня? | You do not mind, Tanya? | #315: Ты же не возражаешь. | verbatim |
+| 5 | Таня | Ну, если она сама так решила. | Well, if she decided so herself. | #316: Ну, если она так решила сама. | verbatim |
+| 6 | Таня | Пойдём, я быстро с ней попрощаюсь. | Let us go, I will quickly say goodbye to her. | #317: Ладно, пойдем, я с ней попрощаюсь. | verbatim |
+| 7 | Шеф | Зачем? Я сам всё передам! | What for? I will pass on everything myself! | #317: Ну, зачем?<br>#318: Я передам. | verbatim |
+| 8 | Шеф | Она там на кухне развлекается. | She is having fun there in the kitchen. | #318: Она там на кухне развлекается. | verbatim |
+| 9 | Шеф | Она просила передать тебе пока. | She asked me to say goodbye to you. | #319: Кстати, она просила передать тебе пока. | verbatim |
+| 10 | Таня | Так, что с ней случилось? | Wait, what happened to her? | #320: Что с ней случилось? | verbatim |
+| 11 | Шеф | Всё нормально, она просто играет. | Everything is fine, she is just playing. | #320: Все нормально.<br>#321: На кухне играется. | verbatim |
+| 12 | Таня | А врать ты так и не научился. | And you still have not learned how to lie. | #322: А вот врать ты до сих пор не научился. | verbatim |
+| 13 | Шеф | Таня, подожди, я всё объясню! | Tanya, wait, I will explain everything! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Chef Barinov's ex-wife Tanya arrives to pick up their daughter Alisa, but Barinov scrambles to make up excuses to keep Tanya from discovering that Alisa had an allergic reaction under his care. Next time you watch the episode, listen for the Russian expressions for 'to decide' and 'kind' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'Viktor, good evening. Where is Alisa?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'And she and I decided to stay.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'She will stay with me one more day.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'You do not mind, Tanya?' — negative present verb in a conversational tag question.
+- 'Well, if she decided so herself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Let us go, I will quickly say goodbye to her.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'What for? I will pass on everything myself!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'She is having fun there in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'She asked me to say goodbye to you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Wait, what happened to her?' — an abrupt change of tone expressing suspicion.
+- 'Everything is fine, she is just playing.' — short reassurance followed by a continuous present action.
+- 'And you still have not learned how to lie.' — past negative verb describing a persistent shortcoming. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.

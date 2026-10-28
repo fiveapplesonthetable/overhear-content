@@ -7,8 +7,7 @@ SCENE = 5
 TITLE = "La dernière réunion de Samuel  (Samuel's Last Meeting)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'samuel': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'samuel': 'Samuel', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'samuel': 'Samuel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "We sit next to Andréa. Gabriel still hasn't told anyone that Tarantino doesn't want Cécile. Today it comes out, and Mathias, who doesn't speak in our version, is quick to blame him. We'll hear the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
@@ -18,29 +17,29 @@ OUTRO = "That's the end of the meeting, and of Gabriel's secret. If you caught t
 CLOSING = ('samuel', 'Au revoir, tout le monde!')
 STORY = [
     ('samuel', 'Je pars en vacances, pas à la retraite.', 'I', [(176, 'Je pars en vacances, pas à la retraite')], ''),
-    ('lea', 'Tes premières vacances en huit ans!', 'Your first holiday in eight years!', [(177, 'Premières vacances en huit ans')], ''),
+    ('andrea', 'Tes premières vacances en huit ans!', 'Your first holiday in eight years!', [(177, 'Premières vacances en huit ans')], ''),
     ('samuel', 'Merci à tous. Bon, dernière réunion avant mon départ.', 'Thank you, everyone. Right, last meeting before I go.', [(183, 'Merci à tous'), (184, 'Bon, dernière réunion avant mon départ')], ''),
     ('samuel', 'Des nouvelles importantes?', 'Any important news?', [(185, 'Des nouvelles importantes ?')], ''),
-    ('lea', 'Oui! Mon préféré, Pierre Niney, a un nouveau rôle.', 'Yes! My favourite, Pierre Niney, has a new part.', [(186, 'Mon préféré, Pierre Niney')], ''),
-    ('lea', 'Il joue le frère de Guillaume Canet.', 'He plays Guillaume Canet', [(187, 'frère de Guillaume Canet')], ''),
+    ('andrea', 'Oui! Mon préféré, Pierre Niney, a un nouveau rôle.', 'Yes! My favourite, Pierre Niney, has a new part.', [(186, 'Mon préféré, Pierre Niney')], ''),
+    ('andrea', 'Il joue le frère de Guillaume Canet.', 'He plays Guillaume Canet', [(187, 'frère de Guillaume Canet')], ''),
     ('samuel', 'Excellent! Deux de nos acteurs.', 'Excellent! Two of our actors.', [(188, 'Excellent !'), (190, 'Deux de nos acteurs')], ''),
     ('samuel', 'Autre chose? Gabriel?', 'Anything else? Gabriel?', [(193, 'Autre chose ? Gabriel ?')], ''),
-    ('lea', 'Cécile de France et Tarantino?', 'Cécile de France and Tarantino?', [(194, 'Cécile de France et Tarantino ?')], ''),
+    ('andrea', 'Cécile de France et Tarantino?', 'Cécile de France and Tarantino?', [(194, 'Cécile de France et Tarantino ?')], ''),
     ('samuel', 'Ça ne se passe pas bien?', 'It', [(195, 'Ça ne se passe pas bien ?')], ''),
     ('gabriel', 'Je ne dirais pas ça.', 'I wouldn', [(196, 'Je ne dirais pas ça')], ''),
     ('gabriel', 'Ça ne se passe pas du tout.', 'It', [(197, 'Ça ne se passe pas du tout')], ''),
-    ('lea', "Ce n'est pas possible!", 'That', [(198, 'pas possible')], ''),
+    ('andrea', "Ce n'est pas possible!", 'That', [(198, 'pas possible')], ''),
     ('gabriel', 'Ils ne veulent pas Cécile.', 'They don', [(202, 'veulent pas')], ''),
     ('gabriel', 'Elle est trop vieille pour le rôle.', 'She', [(203, 'elle est trop vieille pour le rôle')], ''),
-    ('lea', "Trop vieille? C'est quoi le rôle, une gamine?", 'Too old? What', [(205, "Trop vieille ? C'est quoi le rôle, une gamine ?")], ''),
+    ('andrea', "Trop vieille? C'est quoi le rôle, une gamine?", 'Too old? What', [(205, "Trop vieille ? C'est quoi le rôle, une gamine ?")], ''),
     ('samuel', 'Mathias, ça suffit!', 'Mathias, that', [(211, 'Mathias, ça suffit !')], ''),
 ]
 WALK = [
     (0, None, "'I'm going on holiday, not retiring.' Notice that the word for holiday is always plural in French, as if you always take several of them at once. Andréa teases him."),
     (1, None, "'Your first holiday in eight years!' Because the holiday word is plural, the words in front of it are plural too: your, first, all with a plural ending. Samuel thanks everyone and gets down to business."),
-    (2, None, "'Right, last meeting before I go.' Literally 'before my departure'. The little opening word is how French speakers say 'right' or 'okay then' when they move on. He asks for news."),
+    (2, 'Bon, dernière réunion avant mon départ.', "'Right, last meeting before I go.' Literally 'before my departure'. The little opening word is how French speakers say 'right' or 'okay then' when they move on. He asks for news."),
     (3, None, "'Any important news?' News is plural here as well, like in English 'the news'. Andréa has something good."),
-    (4, None, "'My favourite, Pierre Niney, has a new part.' In the show the line is that he has been cast in a big new film. And there's more."),
+    (4, 'Mon préféré, Pierre Niney, a un nouveau rôle.', "'My favourite, Pierre Niney, has a new part.' In the show the line is that he has been cast in a big new film. And there's more."),
     (5, None, "'He plays Guillaume Canet's brother.' French has no apostrophe s: you say 'the brother of Guillaume Canet'. Canet is an agency client too, so Samuel is pleased."),
     (6, None, "'Excellent! Two of our actors.' Two clients in one film is a good day for an agency. Then Samuel turns to Gabriel."),
     (7, None, "'Anything else? Gabriel?' Literally 'other thing?'. Andréa says out loud what everyone wants to know."),

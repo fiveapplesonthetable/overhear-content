@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ты мне из-за Нагиева отказала? | Did you turn me down because of Nagiyev? | #98 00:07:11: Ты мне из-за Нагиева отказала | adapted: adapted |
-| 2 | Вика | Даже если это так, тебе какое дело? | Even if that is so, what business is it of yours? | #100 00:07:16: Даже если это так, тебе какое дело | adapted: adapted |
-| 3 | Аня | Мне уже никакого дела нет. | It is none of my business anymore. | #101 00:07:19: Никакого | adapted: adapted |
-| 4 | Аня | Костя, сделай, пожалуйста, коктейль. | Kostya, please make a cocktail. | #102 00:07:22: Костя, сделай, пожалуйста | adapted: adapted |
-| 5 | Вика | Вика, у меня к тебе предложение. | Vika, I have a proposal for you. | #104 00:07:44: У меня к тебе предложение | adapted: adapted |
-| 6 | Вика | Да, я вас внимательно слушаю. | Yes, I am listening to you attentively. | #104 00:07:44: Я вас слушаю | adapted: adapted |
-| 7 | Вика | Меня друзья в Париж пригласили. | My friends invited me to Paris. | #105 00:07:47: Меня друзья в Париж пригласили | adapted: adapted |
-| 8 | Вика | Поехали со мной, Париж — город любви. | Come with me, Paris is the city of love. | #106 00:07:49: Поехали со мной. Париж, город любви | adapted: adapted |
-| 9 | Вика | Где твой положительный ответ? | Where is your positive answer? | #107 00:07:52: положительный ответ | adapted: adapted |
-| 10 | Вика | Мне кажется, я буду полезнее здесь. | It seems to me I will be more useful here. | #108 00:07:57: Мне кажется, что я буду полезнее здесь | adapted: adapted |
-| 11 | Вика | У нас завтра летняя веранда открывается. | Our summer terrace opens tomorrow. | #109 00:08:01: И у нас завтра летняя веранда открывается | adapted: adapted |
-| 12 | Вика | Извините меня, пожалуйста. | Excuse me, please. | #110 00:08:07: Извините | adapted: adapted |
+| 1 | Макс | Ты мне из-за Нагиева отказала? | Did you turn me down because of Nagiyev? | #98: Ты мне из-за Нагиева отказала | adapted: adapted |
+| 2 | Вика | Даже если это так, тебе какое дело? | Even if that is so, what business is it of yours? | #100: Даже если это так, тебе какое дело | adapted: adapted |
+| 3 | Макс | Мне уже никакого дела нет. | It is none of my business anymore. | #101: Никакого | adapted: adapted |
+| 4 | Макс | Костя, сделай, пожалуйста, коктейль. | Kostya, please make a cocktail. | #102: Костя, сделай, пожалуйста | adapted: adapted |
+| 5 | Нагиев | Вика, у меня к тебе предложение. | Vika, I have a proposal for you. | #104: У меня к тебе предложение | adapted: adapted |
+| 6 | Вика | Да, я вас внимательно слушаю. | Yes, I am listening to you attentively. | #104: Я вас слушаю | adapted: adapted |
+| 7 | Нагиев | Меня друзья в Париж пригласили. | My friends invited me to Paris. | #105: Меня друзья в Париж пригласили | adapted: adapted |
+| 8 | Нагиев | Поехали со мной, Париж — город любви. | Come with me, Paris is the city of love. | #106: Поехали со мной. Париж, город любви | adapted: adapted |
+| 9 | Нагиев | Где твой положительный ответ? | Where is your positive answer? | #107: положительный ответ | adapted: adapted |
+| 10 | Вика | Мне кажется, я буду полезнее здесь. | It seems to me I will be more useful here. | #108: Мне кажется, что я буду полезнее здесь | adapted: adapted |
+| 11 | Вика | У нас завтра летняя веранда открывается. | Our summer terrace opens tomorrow. | #109: И у нас завтра летняя веранда открывается | adapted: adapted |
+| 12 | Вика | Извините меня, пожалуйста. | Excuse me, please. | #110: Извините | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you turn me down because of Nagiyev?' The grammar packs 'you' and 'turned down' into a tight, idiomatic kitchen exchange.
-- 'Even if that is so, what business is it of yours?' Notice how Russian expresses 'even' and 'business' with crisp inflection rather than helper words.
-- 'It is none of my business anymore.' Max anchors the line on 'to me', while 'things to do' completes the thought.
-- 'Kostya, please make a cocktail.' The grammar packs 'Kostya' and 'cocktail' into a tight, idiomatic kitchen exchange.
-- 'Vika, I have a proposal for you.' Here the Russian phrasing highlights 'Vika' before landing on 'offer'.
-- 'Yes, I am listening to you attentively.' Vika chooses the respectful plural 'you' alongside 'to listen' to keep a polite distance. Dmitry Nagiyev answers right away.
-- 'My friends invited me to Paris.' Dmitry Nagiyev brings out the contrast between 'me' and 'friend' in a few short words.
-- 'Come with me, Paris is the city of love.' In Russian, the idea of 'here we go' flows naturally into 'love' without extra filler words.
-- 'Where is your positive answer?' Here the Russian phrasing highlights 'where' before landing on 'answer'. Vika answers right away.
-- 'It seems to me I will be more useful here.' Vika anchors the line on 'to me', while 'here' completes the thought.
-- 'Our summer terrace opens tomorrow.' Here the Russian phrasing highlights 'at' before landing on 'opens'.
-- 'Excuse me, please.' The grammar packs 'excuse me' and 'please' into a tight, idiomatic kitchen exchange.
+- 'Did you turn me down because of Nagiyev?' Checking whether Nagiyev turns him down because of Nagiyev is how Max puts Nagiyev on the spot.
+- 'Even if that is so, what business is it of yours?' Wondering if even if that is so what business is it shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It is none of my business anymore.' Saying that it is none of his business anymore is how Max sets the tone with Nagiyev.
+- 'Kostya, please make a cocktail.' Adding that Nagiyev should make a cocktail fills in the missing piece for Nagiyev.
+- 'Vika, I have a proposal for you.' Even though he has a proposal for Max, Nagiyev keeps a steady face in front of Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Yes, I am listening to you attentively.' Pointing out that she is listening to Max attentively gives Max a sobering reality check. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'My friends invited me to Paris.' With the trip and shift in play, Nagiyev keeps this short reply brisk and direct.
+- 'Come with me, Paris is the city of love.' Here telling Max to come with him Paris is the city of love sets up the next turn in their exchange. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Where is your positive answer?' Wondering where Max's positive answer is is how Nagiyev puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'It seems to me I will be more useful here.' Claiming that it seems to her she will be more useful here sounds confident, even if Max has doubts.
+- 'Our summer terrace opens tomorrow.' Pointing out that their summer terrace opens tomorrow gives Max a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Excuse me, please.' With the conversation and trip in play, Vika keeps this short reply brisk and direct.

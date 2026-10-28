@@ -8,16 +8,10 @@
  "scene": 12,
  "title": "Перебор с маслом и просьба Кости  (Too Much Oil and Kostya's Request)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "nagiyev": "angelina",
-  "chef": "anja",
-  "anya": "alisa"
- },
  "labels": {
-  "nagiyev": "Нагиев",
-  "chef": "Шеф",
-  "anya": "Макс"
+  "barinov": "Шеф",
+  "max": "Макс",
+  "nagiyev": "Нагиев"
  },
  "segments": [
   {
@@ -26,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Костя, у нас уже двести тысяч набралось.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Осталось придумать ещё про четыреста тысяч.",
    "gap": 0.55
   },
@@ -46,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Скорее всего, ты просто с маслом переборщил.",
    "gap": 0.55
   },
@@ -56,7 +50,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Специи нормальные, баланс специй ты тоже не чувствуешь.",
    "gap": 0.55
   },
@@ -76,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего страшного, сейчас мы что-нибудь придумаем.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Дмитрий Владимирович, извините, а не могли бы вы мне помочь?",
    "gap": 0.9
   },
@@ -91,23 +85,23 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Костя, у нас уже двести тысяч набралось.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Kostya, we have already accumulated two hundred thousand.' Notice how Russian expresses 'Kostya' and 'accumulated' with crisp inflection rather than helper words.",
+   "t": "'Kostya, we have already accumulated two hundred thousand.' Max explains that they have already accumulated two hundred thousand, keeping his voice calm and direct. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Осталось придумать ещё про четыреста тысяч.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We still have to come up with a story for four hundred thousand.' Max anchors the line on 'remained', while 'thousand' completes the thought.",
+   "t": "'We still have to come up with a story for four hundred thousand.' Realizing that they still have to come up with a story for four hundred thousand changes how Max handles the situation.",
    "gap": 0.4
   },
   {
@@ -117,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'What you spent your whole life learning, I mastered in one day!' The grammar packs 'that' and 'day' into a tight, idiomatic kitchen exchange.",
+   "t": "'What you spent your whole life learning, I mastered in one day!' Nagiyev declares that what Barinov spent Barinov's whole life learning he mastered in one day as the tension in the room peaks. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
@@ -127,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'And why is that, because I am a true genius!' The meaning hinges on 'and' working together with 'genius' in spoken Russian. Chef Barinov answers right away.",
+   "t": "'And why is that, because I am a true genius!' Because why is that because he is a true genius, Nagiyev does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Скорее всего, ты просто с маслом переборщил.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Most likely, you simply went overboard with the oil.' Notice how Russian expresses 'quickly' and 'overdid it' with crisp inflection rather than helper words.",
+   "t": "'Most likely, you simply went overboard with the oil.' Admitting that most likely Max simply went overboard with the oil shows Barinov being honest for a change.",
    "gap": 0.4
   },
   {
@@ -147,17 +141,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I think maybe the spices were not fresh?' The grammar packs 'I' and 'to be' into a tight, idiomatic kitchen exchange.",
+   "t": "'I think maybe the spices were not fresh?' Thinking maybe the spices were not fresh is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Специи нормальные, баланс специй ты тоже не чувствуешь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'The spices are fine, you do not feel the balance of spices either.' Notice how Russian expresses 'spices' and 'feel' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away.",
+   "t": "'The spices are fine, you do not feel the balance of spices either.' Once the spices are fine Max does not feel the balance of spices either, Barinov can finally tell Max what he means. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -167,7 +161,7 @@
   },
   {
    "v": "narrator",
-   "t": "'The last time I tasted something like this was in the army!' Here the Russian phrasing highlights 'at' before landing on 'was'.",
+   "t": "'The last time I tasted something like this was in the army!' Nagiyev insists that the last time he tasted something like this was in the army, leaving Barinov no room to argue.",
    "gap": 0.4
   },
   {
@@ -177,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Vitya, why am I worrying so much?' In Russian, the idea of 'Vitya' flows naturally into 'worry' without extra filler words.",
+   "t": "'Vitya, why am I worrying so much?' Over the truth and the dish, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -187,36 +181,36 @@
   },
   {
    "v": "narrator",
-   "t": "'And what if it does not work out for me tonight?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'will work out'. Chef Barinov answers right away.",
+   "t": "'And what if it does not work out for me tonight?' Nagiyev asks whether what if it does not work out for him tonight, refusing to let the point slide. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего страшного, сейчас мы что-нибудь придумаем.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'No problem, we will think of something right now.' The grammar packs 'nothing' and 'to think up' into a tight, idiomatic kitchen exchange.",
+   "t": "'No problem, we will think of something right now.' Mentioning that problem they will think of something right now moves the talk in a new direction.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Дмитрий Владимирович, извините, а не могли бы вы мне помочь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Dmitry Vladimirovich, excuse me, could you help me out?' The meaning hinges on 'Dmitry' working together with 'to help' in spoken Russian. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Dmitry Vladimirovich, excuse me, could you help me out?' Checking whether Barinov helps him out is how Max puts Barinov on the spot. Notice how he sticks to the formal \"you\", keeping a professional line between them. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Костя, у нас уже двести тысяч набралось.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Осталось придумать ещё про четыреста тысяч.",
    "gap": 0.5
   },
@@ -231,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Скорее всего, ты просто с маслом переборщил.",
    "gap": 0.5
   },
@@ -241,7 +235,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Специи нормальные, баланс специй ты тоже не чувствуешь.",
    "gap": 0.5
   },
@@ -261,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего страшного, сейчас мы что-нибудь придумаем.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Дмитрий Владимирович, извините, а не могли бы вы мне помочь?",
    "gap": 0.9
   },
@@ -276,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пока!",
    "gap": 0.3
   }

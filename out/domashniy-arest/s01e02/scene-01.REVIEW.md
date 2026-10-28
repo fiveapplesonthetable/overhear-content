@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Викуля! Прости, милая, я опоздал. | Vikulya! Sorry, darling, I'm late. | #12 00:01:07: Викуля<br>#15 00:01:12: прости, милая | adapted: 'за опоздание' (for being late) -> 'я опоздал' (I'm late) |
-| 2 | Вика | Привет. | Hi. | #18 00:01:16: Привет | adapted: speaker not marked in the subtitles; given to Vika |
-| 3 | Аня | Дела, дела. Всё ради нас. | Work, work. It's all for us. | #16 00:01:13: дела, дела<br>#16 00:01:13: Все ради нас | adapted: 'Ну, все' dropped |
-| 4 | Вика | Ты же обещал: Новый год только вдвоём. | But you promised: New Year just the two of us. | #20 00:01:19: Ты же обещал | adapted: adapted: 'что мы будем Новый год отмечать вдвоем' shortened to 'Новый год только вдвоём' |
-| 5 | Аня | Вика, ну он одинокий. Я же не оставлю его одного. | Vika, come on, he's all alone. I can't just leave him on his own. | #21 00:01:21: Вика, ну он одинокий<br>#21 00:01:21: Я же не оставлю его | adapted: the cue's ungrammatical second 'одинокий' -> 'одного' |
-| 6 | Паша | Добрый вечер, Вика. С Новым годом! | Good evening, Vika. Happy New Year! | #26 00:01:31: С Новым годом | adapted: 'Добрый вечер, Вика' new; speaker of cue 26 not marked, given to Pasha |
-| 7 | Аня | Пашуля, проходи, проходи! | Pashulya, come in, come in! | #34 00:01:50: Пашуля<br>#23 00:01:25: Проходи, проходи | adapted: 'любимая' (said to Vika) -> 'Пашуля' (cue 22 garbles the nickname) |
-| 8 | Вика | Подождите, а вы куда? | Wait, where are you two going? | #27 00:01:32: Подождите, а вы куда | verbatim |
-| 9 | Аня | Мы сейчас. Пойдём, Паша. | We'll be right back. Come on, Pasha. | #24 00:01:28: Мы сейчас<br>#25 00:01:29: Пойдем | adapted: 'пойдём' (cue 24) shortened to 'Мы сейчас'; 'Паша' added |
-| 10 | Вика | Там же президент выступает! Надо открыть шампанское. | But the president is on TV! We have to open the champagne. | #28 00:01:33: выступает<br>#28 00:01:33: шампанское | adapted: the president's name -> 'президент'; 'надо шампанское успеть открыть' simplified |
-| 11 | Аня | Успеем! Президент долго выступает. | We'll make it! The president always talks for a long time. | #29 00:01:36: Успеем<br>#29 00:01:36: долго выступает | adapted: the president's name -> 'Президент' |
-| 12 | Аня | Это семейный праздник. Как в детстве, с подарками! | It's a family holiday. Like when we were kids, with presents! | #30 00:01:39: Семейный праздник<br>#30 00:01:39: в детстве<br>#31 00:01:43: С подарками | adapted: 'Мы отмечаем его, как было в детстве' shortened; 'и с красотой теплотой' dropped |
-| 13 | Аня | Паша, давай, не отставай! | Pasha, come on, keep up! | #32 00:01:48: не отставай | adapted: 'Паша' added |
+| 1 | Аркадий | Викуля! Прости, милая, я опоздал. | Vikulya! Sorry, darling, I'm late. | #12: Викуля<br>#15: прости, милая | adapted: 'за опоздание' (for being late) -> 'я опоздал' (I'm late) |
+| 2 | Вика | Привет. | Hi. | #18: Привет | adapted: speaker not marked in the subtitles; given to Vika |
+| 3 | Аркадий | Дела, дела. Всё ради нас. | Work, work. It's all for us. | #16: дела, дела<br>#16: Все ради нас | adapted: 'Ну, все' dropped |
+| 4 | Вика | Ты же обещал: Новый год только вдвоём. | But you promised: New Year just the two of us. | #20: Ты же обещал | adapted: adapted: 'что мы будем Новый год отмечать вдвоем' shortened to 'Новый год только вдвоём' |
+| 5 | Аркадий | Вика, ну он одинокий. Я же не оставлю его одного. | Vika, come on, he's all alone. I can't just leave him on his own. | #21: Вика, ну он одинокий<br>#21: Я же не оставлю его | adapted: the cue's ungrammatical second 'одинокий' -> 'одного' |
+| 6 | Паша | Добрый вечер, Вика. С Новым годом! | Good evening, Vika. Happy New Year! | #26: С Новым годом | adapted: 'Добрый вечер, Вика' new; speaker of cue 26 not marked, given to Pasha |
+| 7 | Аркадий | Пашуля, проходи, проходи! | Pashulya, come in, come in! | #34: Пашуля<br>#23: Проходи, проходи | adapted: 'любимая' (said to Vika) -> 'Пашуля' (cue 22 garbles the nickname) |
+| 8 | Вика | Подождите, а вы куда? | Wait, where are you two going? | #27: Подождите, а вы куда | verbatim |
+| 9 | Аркадий | Мы сейчас. Пойдём, Паша. | We'll be right back. Come on, Pasha. | #24: Мы сейчас<br>#25: Пойдем | adapted: 'пойдём' (cue 24) shortened to 'Мы сейчас'; 'Паша' added |
+| 10 | Вика | Там же президент выступает! Надо открыть шампанское. | But the president is on TV! We have to open the champagne. | #28: выступает<br>#28: шампанское | adapted: the president's name -> 'президент'; 'надо шампанское успеть открыть' simplified |
+| 11 | Аркадий | Успеем! Президент долго выступает. | We'll make it! The president always talks for a long time. | #29: Успеем<br>#29: долго выступает | adapted: the president's name -> 'Президент' |
+| 12 | Аркадий | Это семейный праздник. Как в детстве, с подарками! | It's a family holiday. Like when we were kids, with presents! | #30: Семейный праздник<br>#30: в детстве<br>#31: С подарками | adapted: 'Мы отмечаем его, как было в детстве' shortened; 'и с красотой теплотой' dropped |
+| 13 | Аркадий | Паша, давай, не отставай! | Pasha, come on, keep up! | #32: не отставай | adapted: 'Паша' added |
 | 14 | Паша | Иду, Аркаша, иду! | Coming, Arkasha, coming! | new | new: new: Pasha follows Arkady |
 
 ## Walk-through narration (English only, no target-language words quoted)

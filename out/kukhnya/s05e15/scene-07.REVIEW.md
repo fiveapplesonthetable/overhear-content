@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Давайте не будем нагнетать, перейдём сразу к делу. | Let's not escalate things, let's get straight to business. | #119 00:06:48: давайте не будем нагнетать | adapted: adapted |
-| 2 | Шеф | Елена сказала, что вы очень перспективный художник. | Elena said that you are a very promising artist. | #121 00:06:56: Елена сказала, что вы художник перспективный | adapted: adapted |
-| 3 | Елена | Гена, нам с тобой нужно срочно развестись. | Gena, you and I need to get divorced urgently. | #124 00:07:03: Гена, нам нужно развестись | adapted: adapted |
-| 4 | Шеф | Да я совсем не против, я только за! | Why, I am not against it at all, I am all for it! | #125 00:07:06: не против | adapted: adapted |
-| 5 | Шеф | Почему ты пытаешься унизить меня перед новым мужем? | Why are you trying to humiliate me in front of your new husband? | #127 00:07:09: почему ты все время пытаешься унизить меня перед своим новым мужем | adapted: adapted |
-| 6 | Елена | Мне стыдно, что у меня такой бывший муж! | I am ashamed that I have such an ex-husband! | #128 00:07:13: А мне стыдно, что у меня бывший муж такой | adapted: adapted |
-| 7 | Шеф | Лена, ну зачем ты сейчас так сильно заводишься? | Lena, why are you getting so worked up right now? | #131 00:07:20: Лен, что ты заводишься | adapted: adapted |
-| 8 | Шеф | Давай мы всё нормально и спокойно обсудим. | Let's discuss everything normally and calmly. | #132 00:07:21: Давай все нормально, спокойно поговорим | adapted: adapted |
-| 9 | Шеф | Ну ты же действительно сама его сейчас цепляешь! | Well, you really are provoking him yourself right now! | #133 00:07:23: ты же сама его цепляешь | adapted: adapted |
-| 10 | Елена | Ах, это я цепляю? Тогда я могу уйти! | Oh, I am the one provoking him? Then I can leave! | #134 00:07:26: Я цепляю? Да я могу уйти | adapted: adapted |
-| 11 | Елена | Оставлю вас тут вдвоём наедине, всего хорошего! | I will leave the two of you alone together here, all the best! | #135 00:07:28: Оставлю вас наедине | adapted: adapted |
-| 12 | Шеф | Так что, товарищ, развода пока не предвидится! | So, comrade, no divorce is in sight for now! | #139 00:07:40: развода пока не предвидится | adapted: adapted |
+| 1 | Шеф | Давайте не будем нагнетать, перейдём сразу к делу. | Let's not escalate things, let's get straight to business. | #119: давайте не будем нагнетать | adapted: adapted |
+| 2 | Шеф | Елена сказала, что вы очень перспективный художник. | Elena said that you are a very promising artist. | #121: Елена сказала, что вы художник перспективный | adapted: adapted |
+| 3 | Елена | Гена, нам с тобой нужно срочно развестись. | Gena, you and I need to get divorced urgently. | #124: Гена, нам нужно развестись | adapted: adapted |
+| 4 | Гость | Да я совсем не против, я только за! | Why, I am not against it at all, I am all for it! | #125: не против | adapted: adapted |
+| 5 | Гость | Почему ты пытаешься унизить меня перед новым мужем? | Why are you trying to humiliate me in front of your new husband? | #127: почему ты все время пытаешься унизить меня перед своим новым мужем | adapted: adapted |
+| 6 | Елена | Мне стыдно, что у меня такой бывший муж! | I am ashamed that I have such an ex-husband! | #128: А мне стыдно, что у меня бывший муж такой | adapted: adapted |
+| 7 | Шеф | Лена, ну зачем ты сейчас так сильно заводишься? | Lena, why are you getting so worked up right now? | #131: Лен, что ты заводишься | adapted: adapted |
+| 8 | Шеф | Давай мы всё нормально и спокойно обсудим. | Let's discuss everything normally and calmly. | #132: Давай все нормально, спокойно поговорим | adapted: adapted |
+| 9 | Шеф | Ну ты же действительно сама его сейчас цепляешь! | Well, you really are provoking him yourself right now! | #133: ты же сама его цепляешь | adapted: adapted |
+| 10 | Елена | Ах, это я цепляю? Тогда я могу уйти! | Oh, I am the one provoking him? Then I can leave! | #134: Я цепляю? Да я могу уйти | adapted: adapted |
+| 11 | Елена | Оставлю вас тут вдвоём наедине, всего хорошего! | I will leave the two of you alone together here, all the best! | #135: Оставлю вас наедине | adapted: adapted |
+| 12 | Гость | Так что, товарищ, развода пока не предвидится! | So, comrade, no divorce is in sight for now! | #139: развода пока не предвидится | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's not escalate things, let's get straight to business.' Chef Barinov anchors the line on 'let's', while 'case' completes the thought.
-- 'Elena said that you are a very promising artist.' Notice how Russian expresses 'Elena' and 'artist' with crisp inflection rather than helper words.
-- 'Gena, you and I need to get divorced urgently.' Here the Russian phrasing highlights 'gene' before landing on 'to get divorced'. the guest answers right away.
-- 'Why, I am not against it at all, I am all for it!' The grammar packs 'yes' and 'for' into a tight, idiomatic kitchen exchange.
-- 'Why are you trying to humiliate me in front of your new husband?' the guest brings out the contrast between 'why' and 'you' in a few short words.
-- 'I am ashamed that I have such an ex-husband!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Lena, why are you getting so worked up right now?' The meaning hinges on 'Lena' working together with 'get worked up' in spoken Russian.
-- 'Let's discuss everything normally and calmly.' Notice how Russian expresses 'come on' and 'will discuss' with crisp inflection rather than helper words.
-- 'Well, you really are provoking him yourself right now!' Here the Russian phrasing highlights 'come on' before landing on 'provoke'. Elena answers right away.
-- 'Oh, I am the one provoking him? Then I can leave!' Elena anchors the line on 'ah', while 'to leave' completes the thought.
-- 'I will leave the two of you alone together here, all the best!' Here the Russian phrasing highlights 'will leave' before landing on 'good'.
-- 'So, comrade, no divorce is in sight for now!' The grammar packs 'so' and 'be foreseen' into a tight, idiomatic kitchen exchange.
+- 'Let's not escalate things, let's get straight to business.' Pointing out that they should not escalate things let them get straight to business gives Elena a sobering reality check.
+- 'Elena said that you are a very promising artist.' Noting that Elena said that Elena is a very promising artist keeps Barinov's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Gena, you and I need to get divorced urgently.' Because someone Barinov and she needs to get divorced urgently, Elena treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Why, I am not against it at all, I am all for it!' Once why he is not against it at all he is all for it, the guest makes sure Barinov hears every word.
+- 'Why are you trying to humiliate me in front of your new husband?' By asking why Barinov trying to humiliate him in front of Barinov's new husband is, the guest presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am ashamed that I have such an ex-husband!' Declaring that she is ashamed that she has such an ex husband brings Elena's temper right to the surface. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Lena, why are you getting so worked up right now?' Wondering if someone why are Elena getting so worked up right now shows Barinov caught off guard.
+- 'Let's discuss everything normally and calmly.' Here discussing everything normally and calmly together sets up the next turn in their exchange. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Well, you really are provoking him yourself right now!' Because Elena really are provoking him themselves right now, Barinov does not bother softening the blow for Elena. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Oh, I am the one provoking him? Then I can leave!' Elena asks whether she is the one provoking him, refusing to let the point slide.
+- 'I will leave the two of you alone together here, all the best!' Once she will leave the two of Barinov alone together here all the best, Elena makes sure Barinov hears every word. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'So, comrade, no divorce is in sight for now!' Declaring that comrade no divorce is in sight for now brings the guest's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.

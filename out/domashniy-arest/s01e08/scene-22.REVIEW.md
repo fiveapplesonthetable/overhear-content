@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Клавдия Викторовна | Семь дней его искали. Весь наш район. | They searched for him for seven days. Our whole neighborhood. | #333 00:21:41: Семь дней его искали<br>#334 00:21:44: Весь район | adapted: combined cues 333 and 334 |
-| 2 | Клавдия Викторовна | Даже милиция с собаками искала. | Even the police with dogs searched. | #335 00:21:47: Милиция с собаками | adapted: added Даже and искала |
-| 3 | Клавдия Викторовна | А что с ним случилось? | And what happened to him? | #336 00:21:50: А что случилось-то? | adapted: simplified cue 336 |
-| 4 | Клавдия Викторовна | Он с мостика упал в реку. | He fell from the footbridge into the river. | #338 00:21:53: С мостика упал | adapted: added в реку |
-| 5 | Клавдия Викторовна | И головой ударился о камень. | And he hit his head against a stone. | #339 00:21:55: И головой об штырек ударился | adapted: simplified cue 339 |
-| 6 | Клавдия Викторовна | Рыбаки потом нашли его на дне. | Fishermen later found him on the riverbed. | #340 00:21:58: Ребята там рыбачили, нашли | adapted: adapted cue 340 |
-| 7 | Клавдия Викторовна | Сначала думали, это большой сом. | At first they thought it was a large catfish. | #341 00:22:01: Думали, сом | adapted: added Сначала and это большой |
-| 8 | Клавдия Викторовна | А это был дядя Никита. | And it was Uncle Nikita. | #342 00:22:02: А нет<br>#343 00:22:04: Дядя Никита | adapted: combined cues 342 and 343 |
-| 9 | Клавдия Викторовна | Его там раки очень любили. | The crayfish were very fond of him down there. | #344 00:22:07: Так раки его вот всего обожали | adapted: adapted cue 344 |
-| 10 | Клавдия Викторовна | Какой кошмар! Зачем вы это говорите? | What a nightmare! Why are you saying that? | #345 00:22:10: Кошмар какой-то | adapted: added Зачем вы это говорите? |
-| 11 | Клавдия Викторовна | Здесь на кухне дети сидят! | There are children sitting here in the kitchen! | #349 00:22:17: Тут вообще дети сидят | adapted: adapted cue 349 |
-| 12 | Клавдия Викторовна | Я просто вспоминаю старые истории. | I am just recalling old stories. | #350 00:22:20: Я просто вспоминаю<br>#351 00:22:21: похожие ситуации | adapted: adapted cues 350-351 |
-| 13 | Клавдия Викторовна | Пожалуйста, хватит таких страшных историй. | Please, enough of such scary stories. | new | new: transitional dialogue line |
+| 1 | Клавдия Викторовна | Семь дней его искали. Весь наш район. | They searched for him for seven days. Our whole neighborhood. | #333: Семь дней его искали<br>#334: Весь район | adapted: combined cues 333 and 334 |
+| 2 | Клавдия Викторовна | Даже милиция с собаками искала. | Even the police with dogs searched. | #335: Милиция с собаками | adapted: added Даже and искала |
+| 3 | Нина | А что с ним случилось? | And what happened to him? | #336: А что случилось-то? | adapted: simplified cue 336 |
+| 4 | Клавдия Викторовна | Он с мостика упал в реку. | He fell from the footbridge into the river. | #338: С мостика упал | adapted: added в реку |
+| 5 | Клавдия Викторовна | И головой ударился о камень. | And he hit his head against a stone. | #339: И головой об штырек ударился | adapted: simplified cue 339 |
+| 6 | Клавдия Викторовна | Рыбаки потом нашли его на дне. | Fishermen later found him on the riverbed. | #340: Ребята там рыбачили, нашли | adapted: adapted cue 340 |
+| 7 | Клавдия Викторовна | Сначала думали, это большой сом. | At first they thought it was a large catfish. | #341: Думали, сом | adapted: added Сначала and это большой |
+| 8 | Клавдия Викторовна | А это был дядя Никита. | And it was Uncle Nikita. | #342: А нет<br>#343: Дядя Никита | adapted: combined cues 342 and 343 |
+| 9 | Клавдия Викторовна | Его там раки очень любили. | The crayfish were very fond of him down there. | #344: Так раки его вот всего обожали | adapted: adapted cue 344 |
+| 10 | Нина | Какой кошмар! Зачем вы это говорите? | What a nightmare! Why are you saying that? | #345: Кошмар какой-то | adapted: added Зачем вы это говорите? |
+| 11 | Нина | Здесь на кухне дети сидят! | There are children sitting here in the kitchen! | #349: Тут вообще дети сидят | adapted: adapted cue 349 |
+| 12 | Клавдия Викторовна | Я просто вспоминаю старые истории. | I am just recalling old stories. | #350: Я просто вспоминаю<br>#351: похожие ситуации | adapted: adapted cues 350-351 |
+| 13 | Нина | Пожалуйста, хватит таких страшных историй. | Please, enough of such scary stories. | new | new: transitional dialogue line |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

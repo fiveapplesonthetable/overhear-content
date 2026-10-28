@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = 'Le monde du showbiz  (A Wonderful Showbiz World)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'annick': 'emilie', 'lea': 'lucie'}
-LABELS = {'annick': 'Annick', 'lea': 'Andréa'}
+LABELS = {'annick': 'Annick', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Back in the south of France, Camille helps her mother Annick at the family hair salon. Annick gossips about celebrities and scolds Camille for ever trusting Mathias and his agency partners. Let's listen to the scene in French first."
@@ -18,16 +17,16 @@ OUTRO = "Camille faces the harsh truth about her brief career at ASK as her moth
 CLOSING = ('annick', 'Bonne journée!')
 STORY = [
     ('annick', 'Raconte-moi des histoires sur tes acteurs!', 'Tell me stories about your actors!', [(111, '-Raconte-nous des trucs.')], ''),
-    ('lea', 'Je ne sais vraiment rien, maman.', 'I really know nothing, Mom.', [(111, '-Je sais vraiment pas.')], ''),
+    ('camille', 'Je ne sais vraiment rien, maman.', 'I really know nothing, Mom.', [(111, '-Je sais vraiment pas.')], ''),
     ('annick', 'Ce sont juste des bêtes de foire.', 'They are just fairground animals.', [(124, 'pas des bêtes de foire !')], ''),
-    ('lea', 'Ce sont des gens qui travaillent dur.', 'They are people who work hard.', [(125, 'Ce sont des gens intéressants, qui font un métier')], ''),
+    ('camille', 'Ce sont des gens qui travaillent dur.', 'They are people who work hard.', [(125, 'Ce sont des gens intéressants, qui font un métier')], ''),
     ('annick', "Alors pourquoi n'es-tu pas restée là-bas?", 'Then why did you not stay there?', [(126, "pourquoi tu n'es pas restée ?")], ''),
     ('annick', 'Dans ton merveilleux monde du showbiz!', 'In your wonderful world of showbiz!', [(127, 'Dans ton merveilleux monde du showbiz,')], ''),
     ('annick', "Ni ton patron ni ton père n'ont réagi!", 'Neither your boss nor your father reacted!', [(128, "ni ton patron ni ton père n'ont cherché à te retenir !")], ''),
     ('annick', "Personne n'a cherché à te retenir!", 'Nobody tried to keep you there!', [(128, "n'ont cherché à te retenir !")], ''),
-    ('lea', "J'ai menti à Andréa pendant des mois.", 'I lied to Andréa for months.', [(129, "J'ai menti à Andréa pendant des mois")], ''),
-    ('lea', 'Elle ne me fait plus du tout confiance.', 'She does not trust me at all anymore.', [(129, 'elle ne me fait plus confiance.')], ''),
-    ('lea', 'Et Mathias est très occupé par son divorce.', 'And Mathias is very busy with his divorce.', [(130, 'Et Mathias est occupé avec son divorce.')], ''),
+    ('camille', "J'ai menti à Andréa pendant des mois.", 'I lied to Andréa for months.', [(129, "J'ai menti à Andréa pendant des mois")], ''),
+    ('camille', 'Elle ne me fait plus du tout confiance.', 'She does not trust me at all anymore.', [(129, 'elle ne me fait plus confiance.')], ''),
+    ('camille', 'Et Mathias est très occupé par son divorce.', 'And Mathias is very busy with his divorce.', [(130, 'Et Mathias est occupé avec son divorce.')], ''),
     ('annick', "C'est comme ça qu'il te remercie?", 'Is that how he thanks you?', [(131, "C'est comme ça qu'il te remercie ?")], ''),
     ('annick', "Ce milieu n'est que de la façade.", 'This world is nothing but a facade.', [(132, "Tout ça c'est de la façade.")], ''),
 ]

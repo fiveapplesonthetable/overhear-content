@@ -5,31 +5,30 @@ SEASON = 1
 EPISODE = 10
 SCENE = 44
 TITLE = "Гнев шефа  (The Chef's Fury)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Following Spartak's bitter failure on the pitch, Chef Barinov retreats into his private office in sheer fury. When Max walks in with fresh kitchen aprons, Barinov explodes with anger and drives him straight back to the prep line."
 OPENER = "Let's witness Barinov's explosive office rage after his favorite football team concedes a heartbreaking goal."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Even as sports heartbreak shakes Barinov's world, dinner service at Claude Monet moves relentlessly forward. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'dish' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Шеф, вы почему так громко кричите?', 'Chef, why are you shouting so loudly?', [], ''),
-    ('chef', 'Быстро уйди отсюда и закрой дверь!', 'Quickly get out of here and close the door!', [(323, 'Уйди отсюда!')], ''),
-    ('anya', 'Я просто принёс чистые поварские фартуки.', 'I just brought clean chef aprons.', [], ''),
-    ('chef', 'Мне сейчас не нужны никакие фартуки, огузок!', 'I do not need any aprons right now, runt!', [], ''),
-    ('anya', 'Неужели Спартак опять проиграл этот матч?', 'Did Spartak really lose this match again?', [], ''),
-    ('chef', 'Они пропустили гол на последней минуте!', 'They conceded a goal in the last minute!', [], ''),
-    ('anya', 'Шеф, это всего лишь обычная спортивная игра.', 'Chef, it is only an ordinary sports game.', [], ''),
-    ('chef', 'Для меня футбол — это вся моя жизнь!', 'For me football is all my life!', [], ''),
-    ('anya', 'Но гости в зале ждут горячие блюда.', 'But guests in the hall are waiting for hot dishes.', [], ''),
-    ('chef', 'Пусть Лёва сам командует на горячем цеху!', 'Let Lyova command the hot station himself!', [], ''),
-    ('anya', 'Лёва очень волнуется без ваших строгих указаний.', 'Lyova is very anxious without your strict instructions.', [], ''),
-    ('chef', 'Ладно, иди чистить картошку и не мешай!', 'Fine, go peel potatoes and do not bother me!', [], ''),
-    ('anya', 'Слушаюсь, шеф, уже бегу обратно на кухню.', 'Right away, chef, I am already running back to the kitchen.', [], ''),
+    ('max', 'Шеф, вы почему так громко кричите?', 'Chef, why are you shouting so loudly?', [], ''),
+    ('barinov', 'Быстро уйди отсюда и закрой дверь!', 'Quickly get out of here and close the door!', [(323, 'Уйди отсюда!')], ''),
+    ('max', 'Я просто принёс чистые поварские фартуки.', 'I just brought clean chef aprons.', [], ''),
+    ('barinov', 'Мне сейчас не нужны никакие фартуки, огузок!', 'I do not need any aprons right now, runt!', [], ''),
+    ('max', 'Неужели Спартак опять проиграл этот матч?', 'Did Spartak really lose this match again?', [], ''),
+    ('barinov', 'Они пропустили гол на последней минуте!', 'They conceded a goal in the last minute!', [], ''),
+    ('max', 'Шеф, это всего лишь обычная спортивная игра.', 'Chef, it is only an ordinary sports game.', [], ''),
+    ('barinov', 'Для меня футбол — это вся моя жизнь!', 'For me football is all my life!', [], ''),
+    ('max', 'Но гости в зале ждут горячие блюда.', 'But guests in the hall are waiting for hot dishes.', [], ''),
+    ('barinov', 'Пусть Лёва сам командует на горячем цеху!', 'Let Lyova command the hot station himself!', [], ''),
+    ('max', 'Лёва очень волнуется без ваших строгих указаний.', 'Lyova is very anxious without your strict instructions.', [], ''),
+    ('barinov', 'Ладно, иди чистить картошку и не мешай!', 'Fine, go peel potatoes and do not bother me!', [], ''),
+    ('max', 'Слушаюсь, шеф, уже бегу обратно на кухню.', 'Right away, chef, I am already running back to the kitchen.', [], ''),
 ]
 WALK = [
     (0, None, "'Chef, why are you shouting so loudly?' Max steps cautiously into the office hallway."),

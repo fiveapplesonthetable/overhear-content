@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ты вообще кто такой будешь? | Who on earth are you supposed to be? | #259 00:18:22: Ты кто | adapted: adapted |
-| 2 | Костя | Что тебе надо от моей жены? | What do you want from my wife? | #260 00:18:23: Че тебе надо от нее, Костя | adapted: adapted |
-| 3 | Катя | Денис, что вы здесь делаете? | Denis, what are you doing here? | #262 00:19:03: Денис<br>#270 00:19:35: А что происходит | adapted: adapted |
-| 4 | Костя | В этом номере сейчас живёт француз. | The Frenchman is staying in this room right now. | #263 00:19:10: этом номере Оливье | adapted: adapted |
-| 5 | Костя | Он там сидит с другой девушкой. | He is sitting in there with another girl. | #263 00:19:10: Он там с девушкой | adapted: adapted |
-| 6 | Костя | Мы решили, что ты должна это знать. | We decided that you should know this. | #264 00:19:15: Мы с Никитой решили<br>#265 00:19:19: что ты должна это знать | adapted: adapted |
-| 7 | Костя | Этот француз тебя просто обманывает. | This Frenchman is simply deceiving you. | #266 00:19:23: Оливье тебя обманывает | adapted: adapted |
-| 8 | Катя | Что здесь вообще сейчас происходит? | What is going on here right now? | #270 00:19:35: А что происходит | adapted: adapted |
-| 9 | Костя | Катя, познакомься, это мой партнёр. | Katya, meet her, this is my partner. | #271 00:19:38: Катя, познакомься, это Аня, мой бизнес-партнер | adapted: adapted |
-| 10 | Костя | Мы вместе учились в Париже. | We studied together in Paris. | #272 00:19:40: мы учились в Париже | adapted: adapted |
-| 11 | Катя | Мне тоже сейчас очень приятно. | Nice to meet you too right now. | #273 00:19:44: Очень приятно | adapted: adapted |
-| 12 | Костя | Подожди пару минут, и мы поговорим. | Wait a couple of minutes, and we will talk. | #273 00:19:44: Подожди пару минут, я закончу, и мы поговорим | adapted: adapted |
+| 1 | Костя | Ты вообще кто такой будешь? | Who on earth are you supposed to be? | #259: Ты кто | adapted: adapted |
+| 2 | Костя | Что тебе надо от моей жены? | What do you want from my wife? | #260: Че тебе надо от нее, Костя | adapted: adapted |
+| 3 | Катя | Денис, что вы здесь делаете? | Denis, what are you doing here? | #262: Денис<br>#270: А что происходит | adapted: adapted |
+| 4 | Денис | В этом номере сейчас живёт француз. | The Frenchman is staying in this room right now. | #263: этом номере Оливье | adapted: adapted |
+| 5 | Денис | Он там сидит с другой девушкой. | He is sitting in there with another girl. | #263: Он там с девушкой | adapted: adapted |
+| 6 | Денис | Мы решили, что ты должна это знать. | We decided that you should know this. | #264: Мы с Никитой решили<br>#265: что ты должна это знать | adapted: adapted |
+| 7 | Денис | Этот француз тебя просто обманывает. | This Frenchman is simply deceiving you. | #266: Оливье тебя обманывает | adapted: adapted |
+| 8 | Катя | Что здесь вообще сейчас происходит? | What is going on here right now? | #270: А что происходит | adapted: adapted |
+| 9 | Костя | Катя, познакомься, это мой партнёр. | Katya, meet her, this is my partner. | #271: Катя, познакомься, это Аня, мой бизнес-партнер | adapted: adapted |
+| 10 | Костя | Мы вместе учились в Париже. | We studied together in Paris. | #272: мы учились в Париже | adapted: adapted |
+| 11 | Катя | Мне тоже сейчас очень приятно. | Nice to meet you too right now. | #273: Очень приятно | adapted: adapted |
+| 12 | Костя | Подожди пару минут, и мы поговорим. | Wait a couple of minutes, and we will talk. | #273: Подожди пару минут, я закончу, и мы поговорим | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who on earth are you supposed to be?' Here the Russian phrasing highlights 'you' before landing on 'will'.
-- 'What do you want from my wife?' Notice how Russian expresses 'what' and 'wife' with crisp inflection rather than helper words. Katya answers right away.
-- 'Denis, what are you doing here?' Here the Russian phrasing highlights 'Denis' before landing on 'are doing'.
-- 'The Frenchman is staying in this room right now.' Denis pairs 'number; phone number; hotel room' with 'Frenchman' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'He is sitting in there with another girl.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'girl'.
-- 'We decided that you should know this.' Notice how Russian expresses 'we' and 'to know' with crisp inflection rather than helper words.
-- 'This Frenchman is simply deceiving you.' The meaning hinges on 'this' working together with 'deceives' in spoken Russian.
-- 'What is going on here right now?' Katya raises the pitch on 'is happening' to turn the phrase into a direct spoken question. Kostya answers right away.
-- 'Katya, meet her, this is my partner.' Kostya brings out the contrast between 'Katya' and 'to get acquainted' in a few short words.
-- 'We studied together in Paris.' Notice how Russian expresses 'we' and 'studied' with crisp inflection rather than helper words.
-- 'Nice to meet you too right now.' The meaning hinges on 'to me' working together with 'pleasant' in spoken Russian. Kostya answers right away.
-- 'Wait a couple of minutes, and we will talk.' In Russian, the idea of 'wait' flows naturally into 'talk' without extra filler words.
+- 'Who on earth are you supposed to be?' Asking whether who on earth are Denis supposed to be puts Denis right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What do you want from my wife?' Wondering what Denis wants from his wife cuts straight through the tension between Kostya and Denis. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Denis, what are you doing here?' With the room and hotel hanging in the air, Katya puts Denis on the spot.
+- 'The Frenchman is staying in this room right now.' Adding that the Frenchman is staying in this room right now fills in the missing piece for Katya.
+- 'He is sitting in there with another girl.' Being sitting in there with another girl is how Denis lays out the situation for Katya.
+- 'We decided that you should know this.' Since they decided that Katya should know this, Denis does not waste words on excuses.
+- 'This Frenchman is simply deceiving you.' Mentioning that this Frenchman is simply deceiving Katya moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What is going on here right now?' Asking what going on here right now is is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Katya, meet her, this is my partner.' Meeting her this is his partner is how Kostya lays out the situation for Denis.
+- 'We studied together in Paris.' Between the hotel and the work, Kostya gives Denis a quick, grounded response.
+- 'Nice to meet you too right now.' Around the hotel and point, Katya sets a calm, everyday tone with Denis.
+- 'Wait a couple of minutes, and we will talk.' Claiming that a couple of minutes and they will talk sounds confident, even if Denis has doubts.

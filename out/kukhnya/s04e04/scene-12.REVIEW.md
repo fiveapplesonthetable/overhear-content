@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Елена Павловна, вы бы шли отдыхать. | Elena Pavlovna, you should go get some rest. | #185 00:13:38: Елена Павловна, вы бы шли отдыхать. | verbatim |
-| 2 | Шеф | Мы тут справимся. | We will manage fine here. | #186 00:13:40: Мы тут справимся | verbatim |
-| 3 | Елена | Да я вижу, у вас много времени. | Yes, I can see that you have plenty of free time. | #187 00:13:42: Да я вижу, у вас много времени. | verbatim |
-| 4 | Елена | Хватает на разговоры, на всё прочее. | Enough for conversations and everything else. | #188 00:13:44: Хватает на разговоры, на все прочее. | verbatim |
-| 5 | Елена | Возьмите ещё заказ. | Take another order. | #189 00:13:46: Возьмите еще заказ. | verbatim |
-| 6 | Елена | Вот, летний салат, болоньезе. | Here, a summer salad and bolognese. | #190 00:13:50: Вот, летний салат | verbatim |
-| 7 | Аня | Значит, не хочешь поговорить? | So you don't want to talk? | #191 00:14:19: Значит,<br>#191 00:14:19: хочешь поговорить? | verbatim |
-| 8 | Аня | Окей, давай поговорим. | Okay, let's talk this way. | #192 00:14:21: Окей, давай поговорим. | verbatim |
-| 9 | Аня | Вчера ты была не права. Я тоже был не прав. | Yesterday you were wrong. I was wrong too. | #193 00:14:23: Вчера ты была не права. Я тоже был не прав. | verbatim |
-| 10 | Аня | Но так как мы с тобой серьёзные взрослые люди... | But since you and I are serious adults... | #194 00:14:26: Но так как мы с тобой серьезные взрослые люди... | verbatim |
-| 11 | Аня | Прямо сейчас? | Right now? | #196 00:14:41: Прямо сейчас? | verbatim |
-| 12 | Аня | Класс, погнали. | Awesome, let's go. | #197 00:14:46: Класс, погнали. | verbatim |
+| 1 | Шеф | Елена Павловна, вы бы шли отдыхать. | Elena Pavlovna, you should go get some rest. | #185: Елена Павловна, вы бы шли отдыхать. | verbatim |
+| 2 | Шеф | Мы тут справимся. | We will manage fine here. | #186: Мы тут справимся | verbatim |
+| 3 | Елена | Да я вижу, у вас много времени. | Yes, I can see that you have plenty of free time. | #187: Да я вижу, у вас много времени. | verbatim |
+| 4 | Елена | Хватает на разговоры, на всё прочее. | Enough for conversations and everything else. | #188: Хватает на разговоры, на все прочее. | verbatim |
+| 5 | Елена | Возьмите ещё заказ. | Take another order. | #189: Возьмите еще заказ. | verbatim |
+| 6 | Елена | Вот, летний салат, болоньезе. | Here, a summer salad and bolognese. | #190: Вот, летний салат | verbatim |
+| 7 | Макс | Значит, не хочешь поговорить? | So you don't want to talk? | #191: Значит,<br>#191: хочешь поговорить? | verbatim |
+| 8 | Макс | Окей, давай поговорим. | Okay, let's talk this way. | #192: Окей, давай поговорим. | verbatim |
+| 9 | Макс | Вчера ты была не права. Я тоже был не прав. | Yesterday you were wrong. I was wrong too. | #193: Вчера ты была не права. Я тоже был не прав. | verbatim |
+| 10 | Макс | Но так как мы с тобой серьёзные взрослые люди... | But since you and I are serious adults... | #194: Но так как мы с тобой серьезные взрослые люди... | verbatim |
+| 11 | Макс | Прямо сейчас? | Right now? | #196: Прямо сейчас? | verbatim |
+| 12 | Макс | Класс, погнали. | Awesome, let's go. | #197: Класс, погнали. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, you should go get some rest.' Chef Barinov pairs 'were going, were leading' with 'to rest, to relax, to vacation' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'We will manage fine here.' Spoken Russian keeps this brief and expressive, built right around 'will cope' without extra helper words.
-- 'Yes, I can see that you have plenty of free time.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Enough for conversations and everything else.' In everyday Russian, 'is enough, suffices' flows straight into 'other' without extra linking words.
-- 'Take another order.' Elena pairs 'take' with 'order' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Here, a summer salad and bolognese.' Notice how Russian puts 'summer' and 'bolognese' together in a short, direct phrase where word endings show how the ideas connect.
-- 'So you don't want to talk?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Okay, let's talk this way.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
-- 'Yesterday you were wrong. I was wrong too.' Max pairs 'yesterday' with 'also, too' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'But since you and I are serious adults...' Notice how Russian puts 'so, like this' and 'people' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Right now?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
-- 'Awesome, let's go.' In everyday Russian, 'caliber' flows straight into 'to let's' without extra linking words.
+- 'Elena Pavlovna, you should go get some rest.' Claiming that Elena should go get some rest sounds confident, even if Elena has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'We will manage fine here.' Pointing out that they will manage fine here gives Elena a sobering reality check.
+- 'Yes, I can see that you have plenty of free time.' Elena explains that she can see that Barinov has plenty of free time, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Enough for conversations and everything else.' Around the truth and room, Elena sets a calm, everyday tone with Barinov.
+- 'Take another order.' Adding that Barinov should take another order fills in the missing piece for Barinov.
+- 'Here, a summer salad and bolognese.' Over the plan and the work, Elena answers Barinov without a second thought.
+- 'So you don't want to talk?' Wondering if Barinov does not want to talk shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Okay, let's talk this way.' Saying that Okay let them talk this way is how Max sets the tone with Barinov.
+- 'Yesterday you were wrong. I was wrong too.' Once yesterday Barinov was wrong, Max can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'But since you and I are serious adults...' Adding that since Barinov and he are serious adults fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Right now?' Over the plan and the conversation, Max presses Barinov for a straight answer.
+- 'Awesome, let's go.' Since awesome let them go, Max does not waste words on excuses.

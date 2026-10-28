@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Максим, можно тебя на минуточку? | Maksim, can I have a word with you for a minute? | #20 00:01:54: Максим, можно тебя на минуточку | verbatim |
-| 2 | Саша | Давай попозже поговорим. | Let us talk a little later. | #21 00:02:01: Давай попозже поговорим | verbatim |
-| 3 | Саша | Чего не хватает, шеф? | What is missing, Chef? | #24 00:02:20: Чего не хватает, шеф | verbatim |
-| 4 | Аня | Все идеально. | Everything is ideal. | #25 00:02:24: Все идеально | verbatim |
-| 5 | Саша | Федя, извини, что долго не отдавал. | Fedya, sorry it took me so long to pay you back. | #28 00:02:38: Федя, извини, что долго не отдавал | verbatim |
-| 6 | Саша | Крис, ну что рассказывать? | Kris, well what is there to tell? | #30 00:02:58: Крис, ну что рассказывать | verbatim |
-| 7 | Аня | А я-то знаю сколько... | And I know just how much... | #32 00:03:02: А я-то знаю сколько | verbatim |
-| 8 | Саша | Крис, ты меня слышишь или нет? | Kris, are you listening to me or not? | #33 00:03:03: Крис, ты меня слышишь или нет | verbatim |
-| 9 | Саша | Прости, Саша, мне просто мужик нужен. | Sorry, Sasha, I just need a man. | #34 00:03:06: Прости, Саша, мне просто мужик нужен | verbatim |
-| 10 | Аня | Этот что ли? | This guy, or what? | #35 00:03:09: Этот что ли | verbatim |
-| 11 | Саша | Не за что на свете. | Not for anything in the world. | #37 00:03:13: не за что на свете | verbatim |
-| 12 | Саша | Ну одно дело там. | Well, that is one thing over there. | #38 00:03:17: ну одно дело там | verbatim |
-| 13 | Аня | А что у вас там с Максом? | And what is going on with you and Max? | #39 00:03:23: А что у вас там с Максом | verbatim |
+| 1 | Макс | Максим, можно тебя на минуточку? | Maksim, can I have a word with you for a minute? | #20: Максим, можно тебя на минуточку | verbatim |
+| 2 | Шеф | Давай попозже поговорим. | Let us talk a little later. | #21: Давай попозже поговорим | verbatim |
+| 3 | Саша | Чего не хватает, шеф? | What is missing, Chef? | #24: Чего не хватает, шеф | verbatim |
+| 4 | Макс | Все идеально. | Everything is ideal. | #25: Все идеально | verbatim |
+| 5 | Шеф | Федя, извини, что долго не отдавал. | Fedya, sorry it took me so long to pay you back. | #28: Федя, извини, что долго не отдавал | verbatim |
+| 6 | Саша | Крис, ну что рассказывать? | Kris, well what is there to tell? | #30: Крис, ну что рассказывать | verbatim |
+| 7 | Макс | А я-то знаю сколько... | And I know just how much... | #32: А я-то знаю сколько | verbatim |
+| 8 | Шеф | Крис, ты меня слышишь или нет? | Kris, are you listening to me or not? | #33: Крис, ты меня слышишь или нет | verbatim |
+| 9 | Саша | Прости, Саша, мне просто мужик нужен. | Sorry, Sasha, I just need a man. | #34: Прости, Саша, мне просто мужик нужен | verbatim |
+| 10 | Макс | Этот что ли? | This guy, or what? | #35: Этот что ли | verbatim |
+| 11 | Шеф | Не за что на свете. | Not for anything in the world. | #37: не за что на свете | verbatim |
+| 12 | Саша | Ну одно дело там. | Well, that is one thing over there. | #38: ну одно дело там | verbatim |
+| 13 | Макс | А что у вас там с Максом? | And what is going on with you and Max? | #39: А что у вас там с Максом | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim, can I have a word with you for a minute?' Here the Russian phrasing highlights 'Maxim' before landing on 'a minute'.
-- 'Let us talk a little later.' The grammar packs 'let's' and 'we'll have a talk' into a tight, idiomatic kitchen exchange. Sasha answers right away.
-- 'What is missing, Chef?' Sasha anchors the line on 'why', while 'chef' completes the thought.
-- 'Everything is ideal.' Max brings out the contrast between 'all' and 'perfectly' in a few short words.
-- 'Fedya, sorry it took me so long to pay you back.' Spoken Russian keeps this brisk, leaning on 'Fedya' and finishing on 'to hand over'. Sasha answers right away.
-- 'Kris, well what is there to tell?' The grammar packs 'Kris' and 'to tell' into a tight, idiomatic kitchen exchange.
-- 'And I know just how much...' Max anchors the line on 'and', while 'how much' completes the thought.
-- 'Kris, are you listening to me or not?' The grammar packs 'Kris' and 'there is no' into a tight, idiomatic kitchen exchange. Sasha answers right away.
-- 'Sorry, Sasha, I just need a man.' Here the Russian phrasing highlights 'sorry' before landing on 'needed'.
-- 'This guy, or what?' Here the Russian phrasing highlights 'this' before landing on 'really'.
-- 'Not for anything in the world.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'world'. Sasha answers right away.
-- 'Well, that is one thing over there.' Sasha brings out the contrast between 'come on' and 'one' in a few short words.
-- 'And what is going on with you and Max?' In Russian, the idea of 'and' flows naturally into 'Max' without extra filler words.
+- 'Maksim, can I have a word with you for a minute?' Here checking whether he has a word with Barinov for a minute shows Max looking for the real truth. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Let us talk a little later.' Proposing that they talk a little later is how Barinov lays out the situation for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'What is missing, Chef?' Wondering what missing is cuts straight through the tension between Sasha and Barinov.
+- 'Everything is ideal.' Saying that everything is ideal is how Max sets the tone with Barinov.
+- 'Fedya, sorry it took me so long to pay you back.' Once it took him so long to pay Max back, Barinov can finally tell Max what he means.
+- 'Kris, well what is there to tell?' Sasha asks whether someone well what is there to tell, refusing to let the point slide.
+- 'And I know just how much...' Realizing that he knows just how much changes how Max handles the situation.
+- 'Kris, are you listening to me or not?' Wondering if someone are Max listening to him or not shows Barinov caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Sorry, Sasha, I just need a man.' Mentioning that she just needs a man moves the talk in a new direction.
+- 'This guy, or what?' Over the plan and the truth, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Not for anything in the world.' Over the truth and the moment, Barinov answers Max without a second thought.
+- 'Well, that is one thing over there.' Explaining that that is one thing over there lays the cards on the table for Barinov.
+- 'And what is going on with you and Max?' Here asking what going on with Barinov and Max is shows Max looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.

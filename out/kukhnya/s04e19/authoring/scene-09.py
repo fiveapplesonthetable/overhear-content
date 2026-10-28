@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s04e19-scene-09.
 ID = 'kukhnya-s04e19-scene-09'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 19
 SCENE = 9
-TITLE = "Синие киты и второй ребёнок  (Blue Whales and a Second Child)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Синие киты и второй ребёнок  (Blue Whales and a Second Child)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.19'
 SOURCE_FILE = 'sources/kukhnya/s04/e19.ru.srt'
-
 INTRO = "At home in bed, Nastya tells her husband Kostya about a television documentary she watched on blue whales. When Kostya misses her subtle hint about family size, Nastya comes right out and asks to have a second baby. Let's listen to their bedtime conversation in Russian."
-
+OPENER = "Now let's break down Nastya and Kostya's debate about a second child line by line."
+TRANSITION = "Let's hear the bedroom conversation between Nastya and Kostya from start to finish."
+OUTRO = "Offended by Kostya's casual attitude toward having another baby, Nastya turns her back on him in bed. Listen for the plural noun meaning whales and the ordinal numeral meaning second. Until next time!"
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Сегодня была программа про синих китов.', 'Today there was a program about blue whales.', [(117, 'была программа про синих китов')], 'adapted'),
     ('nastya', 'Мне их стало так жалко.', 'I felt so sorry for them.', [(118, 'Так жалко')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nastya', 'У тебя всё так просто получается!', 'Everything is so simple with you!', [(131, 'Так у тебя все просто')], 'adapted'),
     ('nastya', 'А обо мне ты вообще подумал?', 'And did you think about me at all?', [(133, 'Обо мне ты подумал')], 'adapted'),
 ]
-
-OPENER = "Now let's break down Nastya and Kostya's debate about a second child line by line."
-
 WALK = [
-    (0, None, "'Today there was a program about blue whales.' Notice how Russian puts 'today' and 'whales' together in a short, direct phrase where word endings show how the ideas connect."),
-    (1, None, "'I felt so sorry for them.' Here Nastya anchors the thought on 'to become' and finishes on 'feel sorry for; it's a pity', keeping the spoken rhythm brisk and natural."),
-    (2, None, "'They stay with each other forever.' In everyday Russian, 'remain, stay' flows straight into 'forever' without extra linking words."),
-    (3, None, "'That really is very sweet.' Nastya pairs 'really' with 'nice, sweet' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (4, None, "'But there are very few of these whales right now.' Notice how Russian puts 'whales' and 'little' together in a short, direct phrase where word endings show how the ideas connect."),
-    (5, None, "'Kostya heard you carefully, dear.' Half-reading his magazine, Kostya insists that he was paying attention to her story."),
-    (6, None, "'Maybe we should have a second child?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question."),
-    (7, None, "'Nastya, we are not whales, after all.' Kostya keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
-    (8, None, "'We already have one son.' He reminds her that they are already raising their young son Styopa."),
-    (9, None, "'If we need to, we will have another one later.' Kostya brushes the question off casually with an impersonal future condition."),
-    (10, None, "'Everything is so simple with you!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (11, None, "'And did you think about me at all?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question."),
+    (0, None, "'Today there was a program about blue whales.' Once today there was a program about blue whales, Nastya can finally tell Kostya what she means."),
+    (1, None, "'I felt so sorry for them.' Adding that she felt so sorry for them fills in the missing piece for Kostya."),
+    (2, None, "'They stay with each other forever.' By staying with each other forever, Nastya keeps her side of the story grounded."),
+    (3, None, '\'That really is very sweet.\' Since that really is very sweet, Nastya does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (4, None, "'But there are very few of these whales right now.' Mentioning that there are very few of these whales right now moves the talk in a new direction."),
+    (5, None, '\'Kostya heard you carefully, dear.\' Kostya reminds Nastya that Kostya heard Nastya carefully before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (6, None, '\'Maybe we should have a second child?\' Asking whether maybe they should have a second child puts Kostya right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (7, None, "'Nastya, we are not whales, after all.' Explaining that they are not whales after all lays the cards on the table for Nastya."),
+    (8, None, '\'We already have one son.\' Kostya mentions that they already have one son so Nastya sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (9, None, "'If we need to, we will have another one later.' Claiming that if they need to they will have another one later sounds confident, even if Nastya has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (10, None, "'Everything is so simple with you!' Nastya insists that everything is so simple with Kostya, leaving Kostya no room to argue."),
+    (11, None, '\'And did you think about me at all?\' Asking whether Kostya thinks about her at all cuts straight through the tension between Nastya and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
 ]
-
-TRANSITION = "Let's hear the bedroom conversation between Nastya and Kostya from start to finish."
-OUTRO = "Offended by Kostya's casual attitude toward having another baby, Nastya turns her back on him in bed. Listen for the plural noun meaning whales and the ordinal numeral meaning second. Until next time!"
-CLOSING = ("nastya", "Пока!")

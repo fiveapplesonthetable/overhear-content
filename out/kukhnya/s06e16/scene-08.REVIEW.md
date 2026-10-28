@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Значит, это ваша будущая жена? | So this is your future wife? | #108 00:07:42: Ваша будущая жена | adapted: adapted |
-| 2 | Гость | Она сегодня действительно прекрасно выглядит. | She really looks wonderful today. | #109 00:07:44: Она прекрасно выглядит | adapted: adapted |
-| 3 | Гость | У вас русских очень сложные фамилии. | You Russians have very complicated last names. | #112 00:07:57: У вас русских сложные фамилии | adapted: adapted |
-| 4 | Гость | Моя Елена будет просто очень счастлива. | My Elena will simply be very happy. | #113 00:08:01: Елена будет счастлива | adapted: adapted |
-| 5 | Гость | Благодарю, когда она придёт на примерку? | Thank you, when will she come for a fitting? | #114 00:08:04: Благодарю. Когда она сможет прийти на примерку | adapted: adapted |
-| 6 | Гость | К сожалению, прийти сама она не сможет. | Unfortunately, she will not be able to come herself. | #115 00:08:10: прийти она не сможет | adapted: adapted |
-| 7 | Гость | Она сейчас каждый день очень занята. | She is very busy every day right now. | #116 00:08:13: Очень занята | adapted: adapted |
-| 8 | Гость | У неё постоянные концерты и съёмки. | She has constant concerts and filming. | #117 00:08:15: съемки | adapted: adapted |
-| 9 | Гость | Но я обязательно что-нибудь сегодня придумаю. | But I will definitely think of something today. | #118 00:08:17: Но я что-нибудь придумаю | adapted: adapted |
-| 10 | Гость | Девушка, вам уже хватит сегодня пить. | Miss, you have had enough to drink today. | #119 00:08:23: Хватит | adapted: adapted |
-| 11 | Гость | Ты за меня не переживай, Костя. | Do not worry about me, Kostya. | #120 00:08:25: ты не переживай, Костя | adapted: adapted |
-| 12 | Гость | Я знаю, сколько мне можно пить. | I know how much I can drink. | #121 00:08:27: Я знаю, сколько | adapted: adapted |
+| 1 | Гость | Значит, это ваша будущая жена? | So this is your future wife? | #108: Ваша будущая жена | adapted: adapted |
+| 2 | Гость | Она сегодня действительно прекрасно выглядит. | She really looks wonderful today. | #109: Она прекрасно выглядит | adapted: adapted |
+| 3 | Гость | У вас русских очень сложные фамилии. | You Russians have very complicated last names. | #112: У вас русских сложные фамилии | adapted: adapted |
+| 4 | Шеф | Моя Елена будет просто очень счастлива. | My Elena will simply be very happy. | #113: Елена будет счастлива | adapted: adapted |
+| 5 | Гость | Благодарю, когда она придёт на примерку? | Thank you, when will she come for a fitting? | #114: Благодарю. Когда она сможет прийти на примерку | adapted: adapted |
+| 6 | Шеф | К сожалению, прийти сама она не сможет. | Unfortunately, she will not be able to come herself. | #115: прийти она не сможет | adapted: adapted |
+| 7 | Шеф | Она сейчас каждый день очень занята. | She is very busy every day right now. | #116: Очень занята | adapted: adapted |
+| 8 | Шеф | У неё постоянные концерты и съёмки. | She has constant concerts and filming. | #117: съемки | adapted: adapted |
+| 9 | Шеф | Но я обязательно что-нибудь сегодня придумаю. | But I will definitely think of something today. | #118: Но я что-нибудь придумаю | adapted: adapted |
+| 10 | Костя | Девушка, вам уже хватит сегодня пить. | Miss, you have had enough to drink today. | #119: Хватит | adapted: adapted |
+| 11 | Гость | Ты за меня не переживай, Костя. | Do not worry about me, Kostya. | #120: ты не переживай, Костя | adapted: adapted |
+| 12 | Гость | Я знаю, сколько мне можно пить. | I know how much I can drink. | #121: Я знаю, сколько | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So this is your future wife?' the guest brings out the contrast between 'so' and 'this' in a few short words.
-- 'She really looks wonderful today.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'looks'.
-- 'You Russians have very complicated last names.' the guest brings out the contrast between 'at' and 'you' in a few short words.
-- 'My Elena will simply be very happy.' Here the Russian phrasing highlights 'my' before landing on 'happy'.
-- 'Thank you, when will she come for a fitting?' Notice how Russian expresses 'to thank' and 'fitting' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'Unfortunately, she will not be able to come herself.' Here the Russian phrasing highlights 'regret' before landing on 'will be able to'.
-- 'She is very busy every day right now.' The grammar packs 'she' and 'busy' into a tight, idiomatic kitchen exchange.
-- 'She has constant concerts and filming.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'But I will definitely think of something today.' In Russian, the idea of 'but' flows naturally into 'will come up with' without extra filler words.
-- 'Miss, you have had enough to drink today.' In Russian, the idea of 'miss' flows naturally into 'drink' without extra filler words.
-- 'Do not worry about me, Kostya.' the guest brings out the contrast between 'you' and 'for' in a few short words.
-- 'I know how much I can drink.' Here the Russian phrasing highlights 'I' before landing on 'drink'.
+- 'So this is your future wife?' When the guest asks if this is Barinov's future wife, Barinov has to answer fast. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'She really looks wonderful today.' Because she really looks wonderful today, the guest treats the matter as settled.
+- 'You Russians have very complicated last names.' Explaining that Barinov Russians have very complicated last names lays the cards on the table for Barinov.
+- 'My Elena will simply be very happy.' Barinov mentions that his Elena will simply be very happy so the guest sees what is at stake.
+- 'Thank you, when will she come for a fitting?' Asking when she come for a fitting will is how the guest puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Unfortunately, she will not be able to come herself.' Explaining that she will not be able to come herself lays the cards on the table for the guest.
+- 'She is very busy every day right now.' Barinov explains that she is very busy every day right now, keeping his voice calm and direct.
+- 'She has constant concerts and filming.' Realizing that she has constant concerts and filming changes how Barinov handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'But I will definitely think of something today.' Noting that he will definitely think of something today keeps Barinov's side of the story simple and clear.
+- 'Miss, you have had enough to drink today.' Here telling Barinov to miss Barinov has had enough to drink today sets up the next turn in their exchange. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Do not worry about me, Kostya.' Admitting that do not worry about him shows the guest being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I know how much I can drink.' The guest mentions that he knows how much he can drink so Barinov sees what is at stake.

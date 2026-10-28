@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s05e02-scene-08.
 ID = 'kukhnya-s05e02-scene-08'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 8
 TITLE = "Опасный вопрос Кости для Насти  (Kostya's Dangerous Question for Nastya)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'denis': 'Денис', 'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
-
 INTRO = 'To prove to Denis that any woman would forgive a breakup fling if told honestly, Kostya asks Nastya a supposedly hypothetical question—which backfires immediately. Listen to the conversation.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "And that shows how fast Kostya's hypothetical experiment blew up in his face. Notice the imperative 'predstav' meaning 'imagine'. See you next time!"
+CLOSING = ('denis', 'До встречи!')
 STORY = [
     ('kostya', 'Лучше сразу всё ей расскажи.', 'Better tell her everything right away.', [(79, 'лучше расскажи')], 'adapted'),
     ('nastya', 'О чём вы тут говорите?', 'What are you talking about here?', [(80, 'Костик?')], 'adapted'),
@@ -29,26 +31,19 @@ STORY = [
     ('nastya', 'А теперь боишься мне рассказать, да?', 'And now you are afraid to tell me, right?', [(90, 'А теперь боишься мне рассказать, да?')], 'verbatim'),
     ('nastya', 'Какой же ты трус!', 'What a coward you are!', [(91, 'Трус')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Better tell her everything right away.' In Russian, the idea of 'better' flows naturally into 'tell' without extra filler words."),
-    (1, None, "'What are you talking about here?' Nastya raises the pitch on 'speak' to turn the phrase into a direct spoken question. Kostya answers right away."),
-    (2, None, "'Imagine that you and I broke up.' In Russian, the idea of 'imagine' flows naturally into 'broke up' without extra filler words."),
-    (3, None, "'Are you a complete fool?' Nastya raises the pitch on 'fool' to turn the phrase into a direct spoken question."),
-    (4, None, "'No, just imagine it.' Notice how Russian expresses 'yes' and 'imagine' with crisp inflection rather than helper words."),
-    (5, None, "'I am saying this purely figuratively.' Kostya anchors the line on 'I', while 'figuratively' completes the thought."),
-    (6, None, "'Suppose I slept with another girl.' The meaning hinges on 'I' working together with 'girl' in spoken Russian."),
-    (7, None, "'And then told you all about it.' Kostya addresses the listener with the informal singular 'you' alongside 'told'. Nastya answers right away."),
-    (8, None, "'Wait, did you cheat on me?' The '-l' ending on the verb meaning 'cheated on' places the action in the masculine past tense."),
-    (9, None, "'Well, you have not imagined it yet!' The negative particle sits right before the verb meaning 'imagined' to negate the statement."),
-    (10, None, "'When? When did that happen?' Spoken Russian keeps this brisk, leaning on 'when' and finishing on 'was'. Kostya answers right away."),
-    (11, None, "'That never happened, Nastya!' An emphatic spoken line centered on the verb meaning 'was'."),
-    (12, None, "'And now you are afraid to tell me, right?' Nastya brings out the contrast between 'and' and 'now' in a few short words."),
-    (13, None, "'What a coward you are!' Notice how Russian expresses 'what' and 'coward' with crisp inflection rather than helper words."),
+    (0, None, "'Better tell her everything right away.' With the point and breakup in play, Kostya keeps this short reply brisk and direct."),
+    (1, None, '\'What are you talking about here?\' Wondering what Denis talking about here is cuts straight through the tension between Nastya and Denis. Notice how she sticks to the formal "you", keeping a professional line between them.'),
+    (2, None, "'Imagine that you and I broke up.' Explaining that Denis should imagine that Denis and he broke up lays the cards on the table for Denis."),
+    (3, None, '\'Are you a complete fool?\' Here asking whether Denis a complete fool shows Nastya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (4, None, '\'No, just imagine it.\' With the breakup and point in play, Kostya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (5, None, "'I am saying this purely figuratively.' Explaining that he is saying this purely figuratively lays the cards on the table for Denis."),
+    (6, None, "'Suppose I slept with another girl.' Telling Denis to suppose he slept with another girl moves the conversation forward without extra drama."),
+    (7, None, '\'And then told you all about it.\' Realizing that told Denis all about it changes how Kostya handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (8, None, "'Wait, did you cheat on me?' By asking whether Denis cheat, Nastya presses Denis for a straight answer."),
+    (9, None, '\'Well, you have not imagined it yet!\' Saying that Denis has not imagined it yet is how Kostya takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (10, None, '\'When? When did that happen?\' Asking when that happen is how Nastya puts Denis on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (11, None, "'That never happened, Nastya!' Over the moment and the breakup, Kostya lets his real feelings show."),
+    (12, None, '\'And now you are afraid to tell me, right?\' Wondering if Denis is afraid to tell her right shows Nastya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (13, None, '\'What a coward you are!\' Once what a coward Denis is, Nastya makes sure Denis hears every word. Speaking with the close, informal "you" strips away any polite distance between them.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows how fast Kostya's hypothetical experiment blew up in his face. Notice the imperative 'predstav' meaning 'imagine'. See you next time!"
-CLOSING = ("kostya", "До встречи!")

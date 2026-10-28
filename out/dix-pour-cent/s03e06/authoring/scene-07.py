@@ -7,8 +7,7 @@ SCENE = 7
 TITLE = "La confidence d'Andréa  (Andréa's Breakdown)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'isabelle': 'emilie'}
-LABELS = {'lea': 'Andréa', 'isabelle': 'Isabelle'}
+LABELS = {'andrea': 'Andréa', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Outside the hospital, Andrea Martel continues trying to persuade nurse Isabelle Huppert to help her agency. When the nurse firmly refuses, Andrea's professional armor cracks, revealing her exhaustion as a new mother. Let's listen to their conversation in French first."
@@ -17,16 +16,16 @@ TRANSITION = "Now let's listen to this touching conversation once more to reinfo
 OUTRO = "That's it for this scene around andrea's breakdown. When you watch the episode, listen out for the expressions meaning 'have just' and 'the actress'. You'll catch them now. See you next time!"
 CLOSING = ('isabelle', 'Au revoir!')
 STORY = [
-    ('lea', "Je viens d'avoir l'actrice au téléphone.", 'I just had the actress on the phone.', [(388, "Je viens d'avoir Isabelle Huppert au téléphone.")], ''),
-    ('lea', "C'est vraiment très important pour elle.", 'It is really very important to her.', [(389, "C'est très important pour elle.")], ''),
+    ('andrea', "Je viens d'avoir l'actrice au téléphone.", 'I just had the actress on the phone.', [(388, "Je viens d'avoir Isabelle Huppert au téléphone.")], ''),
+    ('andrea', "C'est vraiment très important pour elle.", 'It is really very important to her.', [(389, "C'est très important pour elle.")], ''),
     ('isabelle', "Les patients à l'hôpital sont importants aussi!", 'Patients at the hospital are important too!', [(392, "Les patients qui m'attendent à l'hôpital, eux aussi, ils sont importants.")], ''),
-    ('lea', 'Je peux vous offrir des places gratuites.', 'I can offer you free tickets.', [(394, 'places pour des avant-premières ?')], ''),
+    ('andrea', 'Je peux vous offrir des places gratuites.', 'I can offer you free tickets.', [(394, 'places pour des avant-premières ?')], ''),
     ('isabelle', 'Nous avons surtout besoin de personnel ici.', 'We mostly need staff here.', [(396, 'on a surtout besoin de moyens et de personnel.')], ''),
-    ('lea', 'Venez à notre grande fête ce soir!', 'Come to our big party tonight!', [(402, 'ce soir, il y a une grosse fête. Je vous invite.')], ''),
+    ('andrea', 'Venez à notre grande fête ce soir!', 'Come to our big party tonight!', [(402, 'ce soir, il y a une grosse fête. Je vous invite.')], ''),
     ('isabelle', 'Je serais beaucoup trop embarrassée là-bas.', 'I would be much too embarrassed there.', [(404, 'Moi, je serais trop embarrassée.')], ''),
-    ('lea', 'Mon agence traverse une crise terrible.', 'My agency is going through a terrible crisis.', [(411, 'Je suis dans la merde.')], ''),
-    ('lea', 'Je suis tellement fatiguée ces jours-ci.', 'I am so exhausted these days.', [(412, 'Je suis fatiguée.')], ''),
-    ('lea', 'Mon bébé ne dort pas la nuit!', 'My baby does not sleep at night!', [(413, 'mon bébé, il dort pas la nuit.')], ''),
+    ('andrea', 'Mon agence traverse une crise terrible.', 'My agency is going through a terrible crisis.', [(411, 'Je suis dans la merde.')], ''),
+    ('andrea', 'Je suis tellement fatiguée ces jours-ci.', 'I am so exhausted these days.', [(412, 'Je suis fatiguée.')], ''),
+    ('andrea', 'Mon bébé ne dort pas la nuit!', 'My baby does not sleep at night!', [(413, 'mon bébé, il dort pas la nuit.')], ''),
     ('isabelle', "Vous venez d'avoir un nouveau-né?", 'Did you just have a newborn?', [(418, "Vous venez d'avoir un bébé, c'est ça ?")], ''),
     ('isabelle', "C'est normal de se sentir épuisée.", 'It is normal to feel exhausted.', [(419, "C'est normal, hein, de se sentir à cran")], ''),
     ('isabelle', 'Tenez, prenez cette petite pastille douce.', 'Here, take this sweet little mint.', [(420, 'je vais vous donner une petite pastille')], ''),

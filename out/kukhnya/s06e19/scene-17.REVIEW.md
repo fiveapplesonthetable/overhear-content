@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | До свидания, хотя подождите минуту. | Goodbye, although wait a minute. | #268 00:21:29: До свидания. Хотя подождите | adapted: adapted |
-| 2 | Шеф | Лена, может, мы сейчас поженимся? | Lena, maybe we should get married right now? | #270 00:21:33: Может, мы поженимся | adapted: adapted |
-| 3 | Елена | Витя, имей хоть немного совести. | Vitya, have at least a little conscience. | #271 00:21:35: Витя, имей совесть | adapted: adapted |
-| 4 | Елена | Твоя дочь сбежала из-под венца. | Your daughter just ran away from the altar. | #272 00:21:37: У тебя дочь только что сбежала из-под венца | adapted: adapted |
-| 5 | Шеф | Она вспомнит это с улыбкой. | She will remember this with a smile. | #273 00:21:39: будет вспоминать эту ситуацию с<br>#274 00:21:44: улыбкой | adapted: adapted |
-| 6 | Шеф | Она молодая и сильная женщина. | She is a young and strong woman. | #274 00:21:44: Она молодая, сильная женщина | adapted: adapted |
-| 7 | Шеф | А я уже не молодой. | And I am no longer young. | #275 00:21:46: А я уже не очень молодой | adapted: adapted |
-| 8 | Шеф | Надо беречь каждую нашу минуту. | We must treasure every minute of ours. | #277 00:21:50: как надо беречь каждую минуту | adapted: adapted |
-| 9 | Шеф | И наслаждаться каждым новым мгновением. | And savor every new moment. | #277 00:21:50: и наслаждаться каждым мгновением | adapted: adapted |
-| 10 | Шеф | Давай будем как муж и жена. | Let us be together as husband and wife. | #278 00:21:55: как муж и жена | adapted: adapted |
-| 11 | Шеф | Скажи, ты согласна или нет? | Tell me, do you agree or not? | #279 00:22:00: Ты согласна или нет | adapted: adapted |
-| 12 | Елена | Объявляю вас мужем и женой! | I pronounce you husband and wife! | #280 00:22:04: Объявляю вас мужем и женой | adapted: adapted |
+| 1 | Шеф | До свидания, хотя подождите минуту. | Goodbye, although wait a minute. | #268: До свидания. Хотя подождите | adapted: adapted |
+| 2 | Шеф | Лена, может, мы сейчас поженимся? | Lena, maybe we should get married right now? | #270: Может, мы поженимся | adapted: adapted |
+| 3 | Елена | Витя, имей хоть немного совести. | Vitya, have at least a little conscience. | #271: Витя, имей совесть | adapted: adapted |
+| 4 | Елена | Твоя дочь сбежала из-под венца. | Your daughter just ran away from the altar. | #272: У тебя дочь только что сбежала из-под венца | adapted: adapted |
+| 5 | Шеф | Она вспомнит это с улыбкой. | She will remember this with a smile. | #273: будет вспоминать эту ситуацию с<br>#274: улыбкой | adapted: adapted |
+| 6 | Шеф | Она молодая и сильная женщина. | She is a young and strong woman. | #274: Она молодая, сильная женщина | adapted: adapted |
+| 7 | Шеф | А я уже не молодой. | And I am no longer young. | #275: А я уже не очень молодой | adapted: adapted |
+| 8 | Шеф | Надо беречь каждую нашу минуту. | We must treasure every minute of ours. | #277: как надо беречь каждую минуту | adapted: adapted |
+| 9 | Шеф | И наслаждаться каждым новым мгновением. | And savor every new moment. | #277: и наслаждаться каждым мгновением | adapted: adapted |
+| 10 | Шеф | Давай будем как муж и жена. | Let us be together as husband and wife. | #278: как муж и жена | adapted: adapted |
+| 11 | Шеф | Скажи, ты согласна или нет? | Tell me, do you agree or not? | #279: Ты согласна или нет | adapted: adapted |
+| 12 | Елена | Объявляю вас мужем и женой! | I pronounce you husband and wife! | #280: Объявляю вас мужем и женой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Goodbye, although wait a minute.' Chef Barinov anchors the line on 'until', while 'a minute' completes the thought.
-- 'Lena, maybe we should get married right now?' Notice how Russian expresses 'Lena' and 'we will get married' with crisp inflection rather than helper words. Elena answers right away.
-- 'Vitya, have at least a little conscience.' The meaning hinges on 'have' working together with 'conscience' in spoken Russian.
-- 'Your daughter just ran away from the altar.' Notice how Russian expresses 'your' and 'wedding altar' with crisp inflection rather than helper words.
-- 'She will remember this with a smile.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'smile'.
-- 'She is a young and strong woman.' Notice how Russian expresses 'she' and 'woman' with crisp inflection rather than helper words.
-- 'And I am no longer young.' Here the Russian phrasing highlights 'and' before landing on 'young'.
-- 'We must treasure every minute of ours.' Chef Barinov brings out the contrast between 'need' and 'to treasure' in a few short words.
-- 'And savor every new moment.' Chef Barinov brings out the contrast between 'and' and 'to enjoy' in a few short words.
-- 'Let us be together as husband and wife.' The grammar packs 'come on' and 'wife' into a tight, idiomatic kitchen exchange.
-- 'Tell me, do you agree or not?' Here the Russian phrasing highlights 'say' before landing on 'no'. Elena answers right away.
-- 'I pronounce you husband and wife!' Notice how Russian expresses 'I declare' and 'wife' with crisp inflection rather than helper words.
+- 'Goodbye, although wait a minute.' Over the wedding and the moment, Barinov answers Elena without a second thought.
+- 'Lena, maybe we should get married right now?' Asking whether someone maybe they should get married right now puts Elena right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Vitya, have at least a little conscience.' Realizing that have at least a little conscience changes how Elena handles the situation.
+- 'Your daughter just ran away from the altar.' Noting that Barinov's daughter just ran away from the altar keeps Elena's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'She will remember this with a smile.' Even though she will remember this with a smile, Barinov keeps a steady face in front of Elena. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'She is a young and strong woman.' Admitting that she is a young and strong woman shows Barinov being honest for a change.
+- 'And I am no longer young.' Mentioning that he is no longer young moves the talk in a new direction.
+- 'We must treasure every minute of ours.' Once they must treasure every minute, Barinov can finally tell Elena what he means. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'And savor every new moment.' Around the wedding and moment, Barinov sets a calm, everyday tone with Elena.
+- 'Let us be together as husband and wife.' Saying that they should be together as husband and wife is how Barinov sets the tone with Elena. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Tell me, do you agree or not?' With the wedding and moment hanging in the air, Barinov puts Elena on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I pronounce you husband and wife!' With the truth and wedding at stake, Elena reacts without holding back.

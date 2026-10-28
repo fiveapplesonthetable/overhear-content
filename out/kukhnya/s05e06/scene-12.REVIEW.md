@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | До свадьбы нельзя. | Not before the wedding. | #186 00:13:37: До свадьбы нельзя | adapted: adapted |
-| 2 | Шеф | Кто-нибудь видел Катю? | Has anyone seen Katya? | #188 00:13:41: Кто-нибудь видел | adapted: adapted |
-| 3 | Аня | Шеф, в холодильнике были? | Chef, were you in the walk-in cooler? | #189 00:13:43: Шеф, в холодильнике были | adapted: adapted |
-| 4 | Шеф | Отвали! Где Катя? | Buzz off! Where is Katya? | #189 00:13:43: Отвали<br>#191 00:13:46: Где Катя | adapted: adapted |
-| 5 | Катя | Мы приглашаем всех на нашу свадьбу. | We invite everyone to our wedding. | #192 00:13:50: Мы приглашаем всех на нашу свадьбу | adapted: adapted |
-| 6 | Шеф | Катя, что за цирк? | Katya, what is this circus? | #193 00:13:54: Катя, что за цирк | adapted: adapted |
-| 7 | Аня | Виктор Петрович, я прошу у вас руки вашей дочери. | Victor Petrovich, I ask you for your daughter's hand. | #193 00:13:54: Виктор Петрович, я прошу у вас руки, вашей дочери | adapted: adapted |
-| 8 | Шеф | Огузок, ты ещё, между прочим, женат. | Rookie, by the way, you are still married. | #194 00:13:58: ты еще, между прочим<br>#194 00:13:58: женат | adapted: adapted |
-| 9 | Аня | А мы через месяц разведёмся, я женюсь на вашей дочери. | We will get divorced in a month, and I will marry your daughter. | #195 00:14:01: А мы через месяц разведемся<br>#196 00:14:04: а я женюсь на вашей дочери | adapted: adapted |
-| 10 | Шеф | Я в курсе, что у Нагиева свадьба, но не с Викой. | I know that Nagiyev is having a wedding, but not with Vika. | #199 00:14:14: Я в курсе, что у Нагиева свадьба, но не с Викой | adapted: adapted |
-| 11 | Аня | Вика беременна, а он на другой женится? | Vika is pregnant, and he is marrying another woman? | #201 00:14:21: беременна, а на другой женится | adapted: adapted |
-| 12 | Аня | Кать, извини, всё отменяется, я не могу на тебе жениться. | Katya, sorry, everything is off, I cannot marry you. | #202 00:14:25: Кать, извини, все отменяется, и я не могу на тебя жениться | adapted: adapted |
+| 1 | Макс | До свадьбы нельзя. | Not before the wedding. | #186: До свадьбы нельзя | adapted: adapted |
+| 2 | Шеф | Кто-нибудь видел Катю? | Has anyone seen Katya? | #188: Кто-нибудь видел | adapted: adapted |
+| 3 | Макс | Шеф, в холодильнике были? | Chef, were you in the walk-in cooler? | #189: Шеф, в холодильнике были | adapted: adapted |
+| 4 | Шеф | Отвали! Где Катя? | Buzz off! Where is Katya? | #189: Отвали<br>#191: Где Катя | adapted: adapted |
+| 5 | Катя | Мы приглашаем всех на нашу свадьбу. | We invite everyone to our wedding. | #192: Мы приглашаем всех на нашу свадьбу | adapted: adapted |
+| 6 | Шеф | Катя, что за цирк? | Katya, what is this circus? | #193: Катя, что за цирк | adapted: adapted |
+| 7 | Макс | Виктор Петрович, я прошу у вас руки вашей дочери. | Victor Petrovich, I ask you for your daughter's hand. | #193: Виктор Петрович, я прошу у вас руки, вашей дочери | adapted: adapted |
+| 8 | Шеф | Огузок, ты ещё, между прочим, женат. | Rookie, by the way, you are still married. | #194: ты еще, между прочим<br>#194: женат | adapted: adapted |
+| 9 | Макс | А мы через месяц разведёмся, я женюсь на вашей дочери. | We will get divorced in a month, and I will marry your daughter. | #195: А мы через месяц разведемся<br>#196: а я женюсь на вашей дочери | adapted: adapted |
+| 10 | Шеф | Я в курсе, что у Нагиева свадьба, но не с Викой. | I know that Nagiyev is having a wedding, but not with Vika. | #199: Я в курсе, что у Нагиева свадьба, но не с Викой | adapted: adapted |
+| 11 | Макс | Вика беременна, а он на другой женится? | Vika is pregnant, and he is marrying another woman? | #201: беременна, а на другой женится | adapted: adapted |
+| 12 | Макс | Кать, извини, всё отменяется, я не могу на тебе жениться. | Katya, sorry, everything is off, I cannot marry you. | #202: Кать, извини, все отменяется, и я не могу на тебя жениться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not before the wedding.' Max brings out the contrast between 'until' and 'wedding' in a few short words. Chef Barinov answers right away.
-- 'Has anyone seen Katya?' Here the Russian phrasing highlights 'somebody' before landing on 'proper name'.
-- 'Chef, were you in the walk-in cooler?' Notice how Russian expresses 'Chef Barinov' and 'to be' with crisp inflection rather than helper words.
-- 'Buzz off! Where is Katya?' Here the Russian phrasing highlights 'buzz off' before landing on 'Katya'. Katya answers right away.
-- 'We invite everyone to our wedding.' In Russian, the idea of 'we' flows naturally into 'wedding' without extra filler words.
-- 'Katya, what is this circus?' The meaning hinges on 'Katya' working together with 'circus' in spoken Russian.
-- 'Victor Petrovich, I ask you for your daughter's hand.' Notice how Russian expresses 'proper name' and 'daughter' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'Rookie, by the way, you are still married.' Chef Barinov brings out the contrast between 'greenhorn' and 'you' in a few short words.
-- 'We will get divorced in a month, and I will marry your daughter.' Notice how Russian expresses 'and' and 'daughter' with crisp inflection rather than helper words.
-- 'I know that Nagiyev is having a wedding, but not with Vika.' Chef Barinov anchors the line on 'I', while 'Vika' completes the thought. Max answers right away.
-- 'Vika is pregnant, and he is marrying another woman?' Notice how Russian expresses 'Vika' and 'is marrying' with crisp inflection rather than helper words.
-- 'Katya, sorry, everything is off, I cannot marry you.' The meaning hinges on 'Katya' working together with 'to marry' in spoken Russian.
+- 'Not before the wedding.' Between the point and the wedding, Max gives Barinov a quick, grounded response. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Has anyone seen Katya?' Checking whether anyone seen Katya cuts straight through the tension between Barinov and Katya.
+- 'Chef, were you in the walk-in cooler?' Asking whether Barinov in the walk in cooler is how Max puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Buzz off! Where is Katya?' Over the room and the wedding, Barinov presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'We invite everyone to our wedding.' By inviting everyone to their wedding, Katya keeps her side of the story grounded.
+- 'Katya, what is this circus?' Asking what this circus is cuts straight through the tension between Barinov and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Victor Petrovich, I ask you for your daughter's hand.' Max reminds Barinov that he asks Barinov for Barinov's daughter hand before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Rookie, by the way, you are still married.' Noting that rookie by the way Katya is still married keeps Barinov's side of the story simple and clear.
+- 'We will get divorced in a month, and I will marry your daughter.' Even though they will get divorced in a month and he will marry Barinov's daughter, Max keeps a steady face in front of Barinov.
+- 'I know that Nagiyev is having a wedding, but not with Vika.' Admitting that he knows that Nagiyev is having a wedding but not with Vika shows Barinov being honest for a change.
+- 'Vika is pregnant, and he is marrying another woman?' Wondering if Vika is pregnant and he is marrying another woman shows Max caught off guard.
+- 'Katya, sorry, everything is off, I cannot marry you.' Once everything is off he cannot marry Barinov, Max can finally tell Barinov what he means. Speaking with the close, informal "you" strips away any polite distance between them.

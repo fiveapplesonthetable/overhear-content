@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Кать, прости, пожалуйста, неудобно получилось. | Katya, forgive me, please, that turned out awkward. | #98 00:06:26: Кать, ну прости, пожалуйста, неудобно<br>#98 00:06:26: получилось | adapted: adapted |
-| 2 | Лёва | А лифчик мой у себя в носках прятать удобно? | And hiding my bra in your socks was convenient? | #99 00:06:31: мой, у себя в носках прятать удобно | adapted: adapted |
-| 3 | Лёва | Простила тебя твоя Маринка? | Did your Marinka forgive you? | #101 00:06:37: тебя твоя Маринка | adapted: adapted |
-| 4 | Лёва | Она как в отпуск вышла, прямо не продохнуть от неё. | Ever since she went on vacation, I cannot catch a breath around her. | #102 00:06:40: Она как в отпуск вышла<br>#102 00:06:40: не продохнуть от нее | adapted: adapted |
-| 5 | Лёва | Шеф, нужно срочно что-то делать с этим мясом. | Chef, we urgently need to do something with this meat. | #107 00:06:59: Шеф, нужно срочно что-то делать с этим мясом | adapted: adapted |
-| 6 | Лёва | У него срок годности месяц. | Its shelf life is one month. | #108 00:07:02: У него срок годности месяц | adapted: adapted |
-| 7 | Шеф | Лёва, я же тебе денег должен. | Lyova, I owe you money, after all. | #109 00:07:05: Лева, я же тебе денег должен | adapted: adapted |
-| 8 | Лёва | Не к спеху. | There is no rush. | #110 00:07:08: Не к спеху | adapted: adapted |
-| 9 | Шеф | Нет, Лёва, нет. | No, Lyova, no. | #110 00:07:08: Нет, Лева, нет | adapted: adapted |
-| 10 | Шеф | Баринов всегда платит свои долги. | Barinov always pays his debts. | #113 00:07:15: Всегда платит свои долги | adapted: adapted |
-| 11 | Шеф | Не надо, не благодари меня. | No need, do not thank me. | #114 00:07:20: Не надо, не благодари меня | adapted: adapted |
-| 12 | Лёва | Спасибо большое, шеф. | Thank you very much, Chef. | #107 00:06:59: Шеф | adapted: adapted |
+| 1 | Сеня | Кать, прости, пожалуйста, неудобно получилось. | Katya, forgive me, please, that turned out awkward. | #98: Кать, ну прости, пожалуйста, неудобно<br>#98: получилось | adapted: adapted |
+| 2 | Лёва | А лифчик мой у себя в носках прятать удобно? | And hiding my bra in your socks was convenient? | #99: мой, у себя в носках прятать удобно | adapted: adapted |
+| 3 | Лёва | Простила тебя твоя Маринка? | Did your Marinka forgive you? | #101: тебя твоя Маринка | adapted: adapted |
+| 4 | Сеня | Она как в отпуск вышла, прямо не продохнуть от неё. | Ever since she went on vacation, I cannot catch a breath around her. | #102: Она как в отпуск вышла<br>#102: не продохнуть от нее | adapted: adapted |
+| 5 | Лёва | Шеф, нужно срочно что-то делать с этим мясом. | Chef, we urgently need to do something with this meat. | #107: Шеф, нужно срочно что-то делать с этим мясом | adapted: adapted |
+| 6 | Лёва | У него срок годности месяц. | Its shelf life is one month. | #108: У него срок годности месяц | adapted: adapted |
+| 7 | Шеф | Лёва, я же тебе денег должен. | Lyova, I owe you money, after all. | #109: Лева, я же тебе денег должен | adapted: adapted |
+| 8 | Лёва | Не к спеху. | There is no rush. | #110: Не к спеху | adapted: adapted |
+| 9 | Шеф | Нет, Лёва, нет. | No, Lyova, no. | #110: Нет, Лева, нет | adapted: adapted |
+| 10 | Шеф | Баринов всегда платит свои долги. | Barinov always pays his debts. | #113: Всегда платит свои долги | adapted: adapted |
+| 11 | Шеф | Не надо, не благодари меня. | No need, do not thank me. | #114: Не надо, не благодари меня | adapted: adapted |
+| 12 | Лёва | Спасибо большое, шеф. | Thank you very much, Chef. | #107: Шеф | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, forgive me, please, that turned out awkward.' Notice how Russian expresses 'Katya' and 'turned out' with crisp inflection rather than helper words. Lyova answers right away.
-- 'And hiding my bra in your socks was convenient?' Here the Russian phrasing highlights 'and' before landing on 'convenient'.
-- 'Did your Marinka forgive you?' Lyova raises the pitch on 'Marinka' to turn the phrase into a direct spoken question.
-- 'Ever since she went on vacation, I cannot catch a breath around her.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'from'. Lyova answers right away.
-- 'Chef, we urgently need to do something with this meat.' Notice how Russian expresses 'Chef Barinov' and 'meat' with crisp inflection rather than helper words.
-- 'Its shelf life is one month.' In Russian, the idea of 'at' flows naturally into 'month' without extra filler words.
-- 'Lyova, I owe you money, after all.' Spoken Russian keeps this brisk, leaning on 'Lyova' and finishing on 'must'. Lyova answers right away.
-- 'There is no rush.' Lyova anchors the line on 'not', while 'hurry' completes the thought.
-- 'No, Lyova, no.' The grammar packs 'no' and 'Lyova' into a tight, idiomatic kitchen exchange.
-- 'Barinov always pays his debts.' The meaning hinges on 'proper name' working together with 'debts' in spoken Russian.
-- 'No need, do not thank me.' Here the Russian phrasing highlights 'not' before landing on 'me'.
-- 'Thank you very much, Chef.' Spoken Russian keeps this brisk, leaning on 'thank you' and finishing on 'proper name'.
+- 'Katya, forgive me, please, that turned out awkward.' Senya tells Barinov that that turned out awkward without dressing it up.
+- 'And hiding my bra in your socks was convenient?' Wondering if hiding his bra in Barinov's socks was convenient shows Lyova caught off guard.
+- 'Did your Marinka forgive you?' Here asking whether Barinov's forgive Barinov shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Ever since she went on vacation, I cannot catch a breath around her.' Senya tells Barinov that ever since she went on vacation he cannot catch a breath around without dressing it up.
+- 'Chef, we urgently need to do something with this meat.' Because they urgently need to do something with this meat, Lyova treats the matter as settled.
+- 'Its shelf life is one month.' Explaining that its shelf life is one month lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Lyova, I owe you money, after all.' Owing Lyova money after all is how Barinov lays out the situation for Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'There is no rush.' Claiming that there is no rush sounds confident, even if Barinov has doubts.
+- 'No, Lyova, no.' Around the work and meat, Barinov sets a calm, everyday tone with Lyova.
+- 'Barinov always pays his debts.' Barinov explains that Barinov always pays his debts, keeping his voice calm and direct.
+- 'No need, do not thank me.' Even though Lyova should need do not thank him, Barinov keeps a steady face in front of Lyova.
+- 'Thank you very much, Chef.' With the point and meat in play, Lyova keeps this short reply brisk and direct.

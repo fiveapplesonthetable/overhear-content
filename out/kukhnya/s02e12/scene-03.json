@@ -8,14 +8,10 @@
  "scene": 3,
  "title": "Визит Елены и представление нового шефа  (Elena's Visit and Introducing the New Chef)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "vika": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "vika": "Вика",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "elena": "Елена",
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -24,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Виктор Петрович, к вам посетитель.",
    "gap": 0.55
   },
@@ -34,12 +30,12 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "Я не хочу ее видеть, я не могу.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Скажи, что меня нет, что я умер.",
    "gap": 0.55
   },
@@ -49,12 +45,12 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "Же вы мне сказали, что можно?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну, немного можно.",
    "gap": 0.55
   },
@@ -64,12 +60,12 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "В самый...",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну и что?",
    "gap": 0.55
   },
@@ -79,12 +75,12 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "У нас просто обязан появиться новый шеф-повар.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Поэтому, позвольте мне представить вам нового шеф-повара.",
    "gap": 0.9
   },
@@ -94,13 +90,13 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Виктор Петрович, к вам посетитель.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Viktor Petrovich, you have a visitor.' Spoken Russian keeps this brisk, leaning on 'Viktor' and finishing on 'visitor'. Vika answers right away.",
+   "t": "'Viktor Petrovich, you have a visitor.' Adding that Elena has a visitor fills in the missing piece for Elena. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -110,27 +106,27 @@
   },
   {
    "v": "narrator",
-   "t": "'She says she is an acquaintance of yours, Elena Sokolova.' The meaning hinges on 'talks' working together with 'Sokolova' in spoken Russian.",
+   "t": "'She says she is an acquaintance of yours, Elena Sokolova.' Vika tells Barinov that she says she is an acquaintance of Barinov's Elena Sokolova without dressing it up.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "Я не хочу ее видеть, я не могу.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I do not want to see her, I cannot.' Elena anchors the line on 'I', while 'can' completes the thought.",
+   "t": "'I do not want to see her, I cannot.' Since she does not want to see her she cannot, Elena does not waste words on excuses.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Скажи, что меня нет, что я умер.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Tell her I am not here, tell her I died.' In Russian, the idea of 'say' flows naturally into 'died' without extra filler words. Vika answers right away.",
+   "t": "'Tell her I am not here, tell her I died.' Mentioning that Elena should tell her he is not here tell her he died moves the talk in a new direction.",
    "gap": 0.4
   },
   {
@@ -140,27 +136,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Wait, why.' Here the Russian phrasing highlights 'and' before landing on 'what'.",
+   "t": "'Wait, why.' Between the truth and the visit, Vika gives Barinov a quick, grounded response.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "Же вы мне сказали, что можно?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Did you not tell me yourself that it was allowed?' Elena chooses the respectful plural 'you' alongside 'it is possible' to keep a polite distance.",
+   "t": "'Did you not tell me yourself that it was allowed?' By asking whether Barinov not tell her themselves that it was allowed, Elena presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну, немного можно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well, a little bit is allowed.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'it is possible'. Vika answers right away.",
+   "t": "'Well, a little bit is allowed.' Explaining that a little bit is allowed lays the cards on the table for Elena. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room.",
    "gap": 0.4
   },
   {
@@ -170,27 +166,27 @@
   },
   {
    "v": "narrator",
-   "t": "'I will not hide the truth from you.' In Russian, the idea of 'not' flows naturally into 'to hide' without extra filler words.",
+   "t": "'I will not hide the truth from you.' Vika mentions that she will not hide the truth from Barinov so Barinov sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "В самый...",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'At the very...' The meaning hinges on 'the very' working together with 'the very' in spoken Russian.",
+   "t": "'At the very...' Around the truth and work, Elena sets a calm, everyday tone with Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну и что?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And so what?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'what'. Vika answers right away.",
+   "t": "'And so what?' Around the hospital and visit, Barinov wants to know where Elena really stands. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -200,31 +196,31 @@
   },
   {
    "v": "narrator",
-   "t": "'We sailed without a captain for half a year.' The meaning hinges on 'we' working together with 'walked' in spoken Russian.",
+   "t": "'We sailed without a captain for half a year.' With the plan and visit in play, Vika keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "У нас просто обязан появиться новый шеф-повар.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We simply must bring in a new head chef.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.",
+   "t": "'We simply must bring in a new head chef.' Realizing that they simply must bring in a new head changes how Elena handles the situation. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Поэтому, позвольте мне представить вам нового шеф-повара.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'So allow me to introduce our new head chef to you.' Chef Viktor chooses the respectful plural 'you' alongside 'head chef' to keep a polite distance. Now let's put it all back together and hear the whole scene again.",
+   "t": "'So allow me to introduce our new head chef to you.' Explaining that Elena should allow him to introduce their new head to Elena lays the cards on the table for Elena. Notice how he sticks to the formal \"you\", keeping a professional line between them. Now let's put it all back together and hear the whole scene again.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Виктор Петрович, к вам посетитель.",
    "gap": 0.5
   },
@@ -234,12 +230,12 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "Я не хочу ее видеть, я не могу.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Скажи, что меня нет, что я умер.",
    "gap": 0.5
   },
@@ -249,12 +245,12 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "Же вы мне сказали, что можно?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну, немного можно.",
    "gap": 0.5
   },
@@ -264,12 +260,12 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "В самый...",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну и что?",
    "gap": 0.5
   },
@@ -279,12 +275,12 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "elena",
    "t": "У нас просто обязан появиться новый шеф-повар.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Поэтому, позвольте мне представить вам нового шеф-повара.",
    "gap": 0.9
   },

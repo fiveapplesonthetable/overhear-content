@@ -7,8 +7,7 @@ SCENE = 10
 TITLE = 'La menace de procès  (The Threat of a Lawsuit)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'directeur': 'theo'}
-LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'directeur': 'Le directeur'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'directeur': 'Le directeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "After François Berléand punches young theatre director Christophe Bel in a fury over the swimming pool staging, the theatre director threatens to sue ASK for cancelling the production. Andréa is terrified of a public scandal, while Camille suggests offering a commercial gesture. Let's listen to the scene in French first."
@@ -19,16 +18,16 @@ CLOSING = ('directeur', 'À demain!')
 STORY = [
     ('directeur', 'Faites quelque chose.', 'Do something.', [(267, 'Faites quelque chose')], ''),
     ('directeur', "Sinon je vais devoir vous poursuivre, je n'ai pas le choix.", 'Otherwise I will have to sue you, I have no choice.', [(268, 'Sinon je vais devoir vous poursuivre'), (268, "je n'ai pas le choix")], ''),
-    ('lea', 'Oui, bien sûr. Vous pouvez compter sur moi.', 'Yes, of course. You can count on me.', [(269, 'Vous pouvez compter sur moi')], ''),
-    ('lea', "C'est une catastrophe pour l'agence.", 'It is a disaster for the agency.', [], ''),
+    ('andrea', 'Oui, bien sûr. Vous pouvez compter sur moi.', 'Yes, of course. You can count on me.', [(269, 'Vous pouvez compter sur moi')], ''),
+    ('andrea', "C'est une catastrophe pour l'agence.", 'It is a disaster for the agency.', [], ''),
     ('camille', "C'est si grave que ça? C'est du théâtre, quand même.", 'Is it that bad? It is only theatre, after all.', [(271, "C'est si grave que ça"), (271, "C'est du théâtre, quand même")], ''),
-    ('lea', 'Vous savez ce que ça pourrait coûter?', 'Do you know what this could cost?', [(272, 'Vous savez ce que ça pourrait coûter')], ''),
-    ('lea', 'On ne peut pas laisser filtrer cette histoire de coup de poing.', 'We cannot let this punch story get out.', [(274, 'on ne peut pas laisser filtrer cette histoire de coup de poing')], ''),
-    ('lea', 'Il faut étouffer ça maintenant.', 'We must stifle this right now.', [(277, 'Il faut étouffer ça maintenant')], ''),
+    ('andrea', 'Vous savez ce que ça pourrait coûter?', 'Do you know what this could cost?', [(272, 'Vous savez ce que ça pourrait coûter')], ''),
+    ('andrea', 'On ne peut pas laisser filtrer cette histoire de coup de poing.', 'We cannot let this punch story get out.', [(274, 'on ne peut pas laisser filtrer cette histoire de coup de poing')], ''),
+    ('andrea', 'Il faut étouffer ça maintenant.', 'We must stifle this right now.', [(277, 'Il faut étouffer ça maintenant')], ''),
     ('camille', 'Pour un client mécontent, ma mère offre toujours un cadeau.', 'For an unhappy client, my mother always offers a gift.', [(278, 'Quand ma mère a un client mécontent'), (278, 'elle fait un geste pour ses amis')], ''),
     ('camille', 'Elle ne perd pas de clientèle.', 'She does not lose any customers.', [(279, 'Elle ne perd pas de clientèle')], ''),
-    ('lea', 'Donc on baisse les tarifs pour toutes nos stars?', 'So we lower the rates for all our stars?', [(280, 'Donc on baisse les tarifs pour toutes nos stars')], ''),
-    ('lea', 'Appelez-les vous-même, alors!', 'Call them yourself, then!', [(281, 'Appelez-les vous-même, alors')], ''),
+    ('andrea', 'Donc on baisse les tarifs pour toutes nos stars?', 'So we lower the rates for all our stars?', [(280, 'Donc on baisse les tarifs pour toutes nos stars')], ''),
+    ('andrea', 'Appelez-les vous-même, alors!', 'Call them yourself, then!', [(281, 'Appelez-les vous-même, alors')], ''),
     ('camille', "Allô, Hippolyte? Bonjour, c'est Camille, d'ASK.", 'Hello, Hippolyte? Hello, this is Camille from ASK.', [(284, "Allô, Hippolyte ? Bonjour, c'est Camille, d'ASK")], ''),
     ('camille', "Andréa m'a demandé de vous appeler au sujet de vos contrats.", 'Andréa asked me to call you about your contracts.', [(285, "Andréa m'a demandé de vous appeler au sujet de vos contrats")], ''),
     ('camille', 'Vous pouvez passer les vérifier et les signer?', 'Can you come by to check them and sign them?', [(287, 'Vous pouvez passer les vérifier et les signer')], ''),

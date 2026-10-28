@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 15
-TITLE = "В ресторане  (In the Restaurant)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'В ресторане  (In the Restaurant)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "guest": "anja"}
-LABELS = {"anya": "Макс", "vika": "Вика", "guest": "Гость"}
+LABELS = {'guest': 'Гость', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Victoria drags Max outside after he interrupts her conversation with the important guest. They have a big argument about jealousy and expensive gifts. Max is too drunk to listen to her.'
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Victoria gets very angry at Max's stupid words and decides to leave him. Max realizes he made a big mistake, but it is already too late. Next time you watch the episode, listen for the Russian expressions for 'let's go' and 'street' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Пойдем, Макс, пойдем на улицу сейчас.', "Come on, Max, let's go outside now.", [(271, 'Пойдем. Пойдем. Пойдем. Пойдем.')], ''),
-    ('anya', 'Что я сделал? Я просто дал тебе подарок.', 'What did I do? I just gave you a gift.', [], ''),
+    ('max', 'Что я сделал? Я просто дал тебе подарок.', 'What did I do? I just gave you a gift.', [], ''),
     ('vika', 'Как ты себя ведешь? Мне очень стыдно.', 'How are you behaving? I am very ashamed.', [], ''),
-    ('anya', 'А тебе не стыдно, что он целует твои руки?', "And aren't you ashamed that he kisses your hands?", [], ''),
+    ('max', 'А тебе не стыдно, что он целует твои руки?', "And aren't you ashamed that he kisses your hands?", [], ''),
     ('vika', 'Он хороший человек и он нормально себя ведет.', 'He is a good man and he behaves normally.', [], ''),
-    ('anya', 'Может быть, ты будешь встречаться с ним?', 'Maybe you will date him?', [], ''),
+    ('max', 'Может быть, ты будешь встречаться с ним?', 'Maybe you will date him?', [], ''),
     ('vika', 'Ты говоришь глупости, Макс. Я не понимаю тебя.', "You speak nonsense, Max. I don't understand you.", [], ''),
-    ('anya', 'Он дарит тебе дорогие подарки. Будь благодарной.', 'He gives you expensive gifts. Be grateful.', [], ''),
+    ('max', 'Он дарит тебе дорогие подарки. Будь благодарной.', 'He gives you expensive gifts. Be grateful.', [], ''),
     ('vika', 'Хорошо, если ты так хочешь, я так сделаю.', 'Fine, if you want so, I will do so.', [], ''),
-    ('anya', 'Отлично, иди к нему и целуй его руки.', 'Excellent, go to him and kiss his hands.', [], ''),
+    ('max', 'Отлично, иди к нему и целуй его руки.', 'Excellent, go to him and kiss his hands.', [], ''),
     ('vika', 'Ты просто дурак, Макс. Я ухожу отсюда.', 'You are just a fool, Max. I am leaving here.', [], ''),
-    ('anya', 'Извините, это нормально? Вы думаете, это нормально?', 'Excuse me, is this normal? Do you think this is normal?', [], ''),
+    ('max', 'Извините, это нормально? Вы думаете, это нормально?', 'Excuse me, is this normal? Do you think this is normal?', [], ''),
     ('guest', 'Я думаю, что ты просто пьяный дурак.', 'I think that you are just a drunken fool.', [], ''),
-    ('anya', 'Никто меня не понимает сегодня. Я пойду спать.', 'Nobody understands me today. I will go sleep.', [], ''),
+    ('max', 'Никто меня не понимает сегодня. Я пойду спать.', 'Nobody understands me today. I will go sleep.', [], ''),
 ]
 WALK = [
     (0, None, "'Come on, Max, let' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

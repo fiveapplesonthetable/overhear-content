@@ -7,8 +7,7 @@ SCENE = 23
 TITLE = 'La fête à Saint-Ouen  (The Party in Saint-Ouen)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sarah': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'sarah': 'Sarah', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel', 'sarah': 'Sarah'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "As the gathering at ASK begins to wind down, Sarah thanks Camille before Gabriel excitedly invites her to continue the evening at an afterparty in Saint-Ouen. Let's listen to the scene in French first."
@@ -19,7 +18,7 @@ CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('sarah', 'Au revoir, Camille, merci pour tout.', 'Goodbye, Camille, thank you for everything.', [(1095, 'Au revoir, Camille')], ''),
     ('sarah', 'La soirée était super sympa ici.', 'The party was really nice here.', [(1095, 'super sympa')], ''),
-    ('lea', "Merci d'être venue ce soir, Sarah.", 'Thank you for coming tonight, Sarah.', [(1095, 'Au revoir, Camille')], ''),
+    ('camille', "Merci d'être venue ce soir, Sarah.", 'Thank you for coming tonight, Sarah.', [(1095, 'Au revoir, Camille')], ''),
     ('gabriel', 'Te voilà enfin, tout va bien?', 'There you are at last, is everything okay?', [(1096, 'Te voilà, tout va bien')], ''),
     ('gabriel', 'Il y a une fête à Saint-Ouen.', 'There is a party in Saint-Ouen.', [(1097, 'fête à Saint-Ouen')], ''),
     ('sarah', 'Quelle est la grande urgence maintenant?', 'What is the big rush now?', [(1098, "l'urgence")], ''),
@@ -30,7 +29,7 @@ STORY = [
     ('sarah', "D'accord, partons tout de suite.", 'All right, let', [(1101, 'on y va')], ''),
     ('gabriel', 'Parfait, nous y allons ensemble.', 'Perfect, we are going there together.', [(1101, 'on y va')], ''),
     ('gabriel', 'Allez, viens avec moi, Sarah!', 'Come on, come with me, Sarah!', [(1102, 'Allez, viens')], ''),
-    ('lea', 'Passez une très bonne nuit!', 'Have a very good night!', [(1095, 'Au revoir, Camille')], ''),
+    ('camille', 'Passez une très bonne nuit!', 'Have a very good night!', [(1095, 'Au revoir, Camille')], ''),
 ]
 WALK = [
     (0, None, "'Goodbye, Camille, thank you for everything.' Sarah thanks Camille warmly before leaving. A short, idiomatic conversational reply that keeps the exchange moving naturally."),

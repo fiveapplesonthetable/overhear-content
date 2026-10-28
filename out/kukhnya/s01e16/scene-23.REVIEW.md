@@ -1,39 +1,39 @@
-# Один в один  (Exactly the Same) — `kukhnya-s01e16-scene-23`
+# kukhnya-s01e16-scene-23: review sheet
 
-**Source:** Кухня (Kukhnya) S1.16 · `sources/kukhnya/s01/e16.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Один в один  (Exactly the Same)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.16
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Шеф, я сделал это. | Chef, I did it. | #287 "Шеф, я сделал это." |  |
-| 1 | Шеф | Что ты сделал? | What did you make? | *(added)* |  |
-| 2 | Макс | Я сделал ваш паштет. | I made your pâté. | *(added)* |  |
-| 3 | Шеф | Мой паштет? | My pâté? | *(added)* |  |
-| 4 | Макс | Получилось один в один. | It came out exactly the same. | #288 "Получилось один в один." |  |
-| 5 | Шеф | Я должен попробовать. | I must taste it. | *(added)* |  |
-| 6 | Макс | Даже чуть-чуть лучше. | Even a little better. | #289 "Даже чуть-чуть лучше." |  |
-| 7 | Шеф | Да ладно? | No way! | #289 "Да ладно?" |  |
-| 8 | Макс | Да. | Yeah. | #290 "Да." |  |
-| 9 | Шеф | Это невозможно. | This is impossible. | *(added)* |  |
-| 10 | Макс | Я хороший повар. | I am a good cook. | *(added)* |  |
-| 11 | Шеф | Мы посмотрим. | We will see. | *(added)* |  |
+| 1 | Макс | Шеф, я сделал это. | Chef, I did it. | #287: Шеф, я сделал это. | verbatim |
+| 2 | Шеф | Что ты сделал? | What did you make? | new | new |
+| 3 | Макс | Я сделал ваш паштет. | I made your pâté. | new | new |
+| 4 | Шеф | Мой паштет? | My pâté? | new | new |
+| 5 | Макс | Получилось один в один. | It came out exactly the same. | #288: Получилось один в один. | verbatim |
+| 6 | Шеф | Я должен попробовать. | I must taste it. | new | new |
+| 7 | Макс | Даже чуть-чуть лучше. | Even a little better. | #289: Даже чуть-чуть лучше. | verbatim |
+| 8 | Шеф | Да ладно? | No way! | #289: Да ладно? | verbatim |
+| 9 | Макс | Да. | Yeah. | #290: Да. | verbatim |
+| 10 | Шеф | Это невозможно. | This is impossible. | new | new |
+| 11 | Макс | Я хороший повар. | I am a good cook. | new | new |
+| 12 | Шеф | Мы посмотрим. | We will see. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'to do' and 'pâté' — you will catch every word right away. See you next time!
-
-**Макс:** До свидания!
+- 'Chef, I did it.' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end.
+- 'What did you make?' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end.
+- 'I made your pâté.' Max uses the polite everyday 'you' alongside 'pâté', keeping a formal or respectful register.
+- 'My pâté?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'pâté'. Then Max responds.
+- 'It came out exactly the same.' Max uses the action verb meaning 'worked out' to focus on the single completed result, pairing it with 'one'.
+- 'I must taste it.' Here Chef Barinov anchors the line on the word meaning 'has to' and builds the thought around 'to taste'.
+- 'Even a little better.' Russian omits the present-tense verb 'to be' here, linking 'a little bit' directly with 'better', combining 'a little bit' with 'better'.
+- 'No way!' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'yes', followed by 'all right'.
+- 'Yeah.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
+- 'This is impossible.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'impossible'.
+- 'I am a good cook.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'chef', combining 'good' with 'chef'.
+- 'We will see.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'have a look'.

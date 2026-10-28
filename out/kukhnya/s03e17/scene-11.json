@@ -8,16 +8,10 @@
  "scene": 11,
  "title": "Темнота на кухне  (Darkness in the Kitchen)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "katya": "angelina",
-  "anya": "alisa",
-  "chef": "anja"
- },
  "labels": {
+  "barinov": "Шеф",
   "katya": "Катя",
-  "anya": "Макс",
-  "chef": "Шеф"
+  "max": "Макс"
  },
  "segments": [
   {
@@ -26,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что это было? Луи, не трогай меня!",
    "gap": 0.55
   },
@@ -36,12 +30,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Катя, ты случайно недавно не поправилась?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Что-то мне совсем тяжело тебя держать.",
    "gap": 0.55
   },
@@ -51,17 +45,17 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что у нас случилось со светом?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, у нас в ресторане электричество накрылось.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Но этого мало, пойди и быстро проверь.",
    "gap": 0.55
   },
@@ -71,7 +65,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Живой, я совершенно живой, всё нормально.",
    "gap": 0.55
   },
@@ -91,13 +85,13 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что это было? Луи, не трогай меня!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What was that? Louis, do not touch me!' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'me'.",
+   "t": "'What was that? Louis, do not touch me!' With the situation and shift hanging in the air, Barinov puts Katya on the spot. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -107,27 +101,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Now I understand why you are not an electrician.' Notice how Russian expresses 'now' and 'electrician' with crisp inflection rather than helper words. Max answers right away.",
+   "t": "'Now I understand why you are not an electrician.' Katya mentions that she understands why Barinov is not an electrician so Barinov sees what is at stake. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Катя, ты случайно недавно не поправилась?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Katya, did you happen to gain weight recently?' The negative particle sits right before the verb meaning 'gained weight' to negate the statement.",
+   "t": "'Katya, did you happen to gain weight recently?' By asking whether Barinov happens to gain weight recently, Max presses Barinov for a straight answer.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Что-то мне совсем тяжело тебя держать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It is somehow quite heavy for me to hold you.' The meaning hinges on 'something' working together with 'to keep' in spoken Russian.",
+   "t": "'It is somehow quite heavy for me to hold you.' Because it is somehow quite heavy for him to hold Barinov, Max treats the matter as settled. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -137,37 +131,37 @@
   },
   {
    "v": "narrator",
-   "t": "'You are being rude to me like a plumber right now.' Katya addresses the listener with the informal singular 'you' alongside 'plumber'. Chef Barinov answers right away.",
+   "t": "'You are being rude to me like a plumber right now.' Explaining that Barinov is being rude to her like a plumber right now lays the cards on the table for Barinov. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что у нас случилось со светом?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What happened to our lights?' In Russian, the idea of 'what' flows naturally into 'light' without extra filler words.",
+   "t": "'What happened to our lights?' With the situation and point hanging in the air, Barinov puts Katya on the spot.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, у нас в ресторане электричество накрылось.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, the electricity in our restaurant broke down.' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'broke down'.",
+   "t": "'Chef, the electricity in our restaurant broke down.' Over the shift and the conversation, Max answers Barinov without a second thought. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Но этого мало, пойди и быстро проверь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'But that is not enough, go and check quickly.' The grammar packs 'but' and 'check' into a tight, idiomatic kitchen exchange. Katya answers right away.",
+   "t": "'But that is not enough, go and check quickly.' Pointing out that that is not enough go and check quickly gives Katya a sobering reality check.",
    "gap": 0.4
   },
   {
@@ -177,17 +171,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Max, tell me, are you even alive over there?' Spoken Russian keeps this brisk, leaning on 'Max' and finishing on 'alive'.",
+   "t": "'Max, tell me, are you even alive over there?' Katya asks whether tell her are Barinov even alive over there, refusing to let the point slide.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Живой, я совершенно живой, всё нормально.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Alive, I am completely alive, everything is fine.' In Russian, the idea of 'alive' flows naturally into 'normally' without extra filler words.",
+   "t": "'Alive, I am completely alive, everything is fine.' Realizing that alive he is completely alive everything is fine changes how Max handles the situation.",
    "gap": 0.4
   },
   {
@@ -197,7 +191,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I even feel a little sorry for you right now.' Notice how Russian expresses 'to me' and 'feel sorry for' with crisp inflection rather than helper words.",
+   "t": "'I even feel a little sorry for you right now.' Noting that she even feels a little sorry for Barinov right now keeps Katya's side of the story simple and clear. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -207,11 +201,11 @@
   },
   {
    "v": "narrator",
-   "t": "'Come on, run from here before Chef sees.' In Russian, the idea of 'come on' flows naturally into 'saw' without extra filler words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Come on, run from here before Chef sees.' Because Barinov should come on run from here before Chef sees, Katya treats the matter as settled. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что это было? Луи, не трогай меня!",
    "gap": 0.5
   },
@@ -221,12 +215,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Катя, ты случайно недавно не поправилась?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Что-то мне совсем тяжело тебя держать.",
    "gap": 0.5
   },
@@ -236,17 +230,17 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что у нас случилось со светом?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф, у нас в ресторане электричество накрылось.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Но этого мало, пойди и быстро проверь.",
    "gap": 0.5
   },
@@ -256,7 +250,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Живой, я совершенно живой, всё нормально.",
    "gap": 0.5
   },

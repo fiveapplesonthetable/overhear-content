@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Да я работаю тут. | Yes, I work right here. | #39 00:03:20: Да я работаю тут | verbatim |
-| 2 | Аня | А ты? | And what about you? | #40 00:03:22: А ты | verbatim |
-| 3 | Нагиев | Ой, нет, ты что, это Александр. | Oh no, what are you talking about, this is Aleksandr. | #42 00:03:32: Ой, нет, ты что, это Александр | verbatim |
-| 4 | Аня | Он занимается нашей свадьбой. | He is organizing our wedding reception. | #43 00:03:34: Он занимается нашей свадьбой | verbatim |
-| 5 | Нагиев | Ты представляешь, нашу свадьбу будет вести сам Нагиев. | Can you imagine, Dmitriy Nagiyev himself is going to host our wedding. | #44 00:03:36: Ты представляешь, нашу свадьбу будет вести сам Нагиев | verbatim |
-| 6 | Аня | Ну ладно, что я себе. | Well anyway, enough about me. | #45 00:03:38: Ну ладно, что я себе | verbatim |
-| 7 | Нагиев | Замуж-то вышла? | Did you get married yet? | #46 00:03:41: Замуж-то вышла | verbatim |
-| 8 | Аня | Да, пока нет. | Well, not just yet. | #47 00:03:42: Да, пока нет | verbatim |
-| 9 | Нагиев | Почему это последняя? | Why would I be the last one? | #49 00:03:47: Почему это последняя | verbatim |
-| 10 | Аня | Так она бы в Израиль уехала. | Otherwise she would have moved away to Israel. | #51 00:03:52: Так она бы в Израиль уехала | verbatim |
-| 11 | Нагиев | Выглядит теперь как швабра. | She looks like a mop these days. | #53 00:03:58: Выглядит теперь как швабра | verbatim |
-| 12 | Аня | Ты всегда какая-то такая странная была. | You were always a little bit strange like that. | #56 00:04:05: Ты всегда какая-то такая странная была | verbatim |
-| 13 | Нагиев | Ой, а можно ли тебя попросить? | Oh, could I ask you for a small favor? | #57 00:04:09: Ой, а можно ли тебя попросить | verbatim |
+| 1 | Нагиев | Да я работаю тут. | Yes, I work right here. | #39: Да я работаю тут | verbatim |
+| 2 | Макс | А ты? | And what about you? | #40: А ты | verbatim |
+| 3 | Нагиев | Ой, нет, ты что, это Александр. | Oh no, what are you talking about, this is Aleksandr. | #42: Ой, нет, ты что, это Александр | verbatim |
+| 4 | Макс | Он занимается нашей свадьбой. | He is organizing our wedding reception. | #43: Он занимается нашей свадьбой | verbatim |
+| 5 | Нагиев | Ты представляешь, нашу свадьбу будет вести сам Нагиев. | Can you imagine, Dmitriy Nagiyev himself is going to host our wedding. | #44: Ты представляешь, нашу свадьбу будет вести сам Нагиев | verbatim |
+| 6 | Макс | Ну ладно, что я себе. | Well anyway, enough about me. | #45: Ну ладно, что я себе | verbatim |
+| 7 | Нагиев | Замуж-то вышла? | Did you get married yet? | #46: Замуж-то вышла | verbatim |
+| 8 | Макс | Да, пока нет. | Well, not just yet. | #47: Да, пока нет | verbatim |
+| 9 | Нагиев | Почему это последняя? | Why would I be the last one? | #49: Почему это последняя | verbatim |
+| 10 | Макс | Так она бы в Израиль уехала. | Otherwise she would have moved away to Israel. | #51: Так она бы в Израиль уехала | verbatim |
+| 11 | Нагиев | Выглядит теперь как швабра. | She looks like a mop these days. | #53: Выглядит теперь как швабра | verbatim |
+| 12 | Макс | Ты всегда какая-то такая странная была. | You were always a little bit strange like that. | #56: Ты всегда какая-то такая странная была | verbatim |
+| 13 | Нагиев | Ой, а можно ли тебя попросить? | Oh, could I ask you for a small favor? | #57: Ой, а можно ли тебя попросить | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I work right here.' The meaning hinges on 'yes' working together with 'here' in spoken Russian.
-- 'And what about you?' Max brings out the contrast between 'and' and 'you' in a few short words. Dmitry answers right away.
-- 'Oh no, what are you talking about, this is Aleksandr.' In Russian, the idea of 'oh no' flows naturally into 'Alexander' without extra filler words.
-- 'He is organizing our wedding reception.' Here the Russian phrasing highlights 'he' before landing on 'wedding'.
-- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'Nagiyev'. Max answers right away.
-- 'Well anyway, enough about me.' The grammar packs 'come on' and 'to oneself' into a tight, idiomatic kitchen exchange.
-- 'Did you get married yet?' Dmitry raises the pitch on 'to go out' to turn the phrase into a direct spoken question.
-- 'Well, not just yet.' Max brings out the contrast between 'yes' and 'for now' in a few short words. Dmitry answers right away.
-- 'Why would I be the last one?' The grammar packs 'why' and 'last' into a tight, idiomatic kitchen exchange.
-- 'Otherwise she would have moved away to Israel.' Max brings out the contrast between 'like this' and 'she' in a few short words.
-- 'She looks like a mop these days.' Dmitry anchors the line on 'looks', while 'mop' completes the thought. Max answers right away.
-- 'You were always a little bit strange like that.' Max brings out the contrast between 'you' and 'always' in a few short words.
-- 'Oh, could I ask you for a small favor?' Dmitry anchors the line on 'oh no', while 'to ask' completes the thought.
+- 'Yes, I work right here.' Since he works right here, Nagiyev does not waste words on excuses.
+- 'And what about you?' With the point and truth hanging in the air, Max puts Nagiyev on the spot.
+- 'Oh no, what are you talking about, this is Aleksandr.' Nagiyev reminds Max that what are Max talking about this is Aleksandr before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'He is organizing our wedding reception.' Noting that he is organizing their wedding reception keeps Max's side of the story simple and clear.
+- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Explaining that can Max imagines Dmitriy Nagiyev himself is going to host their wedding lays the cards on the table for Max.
+- 'Well anyway, enough about me.' With the conversation and wedding in play, Max keeps this short reply brisk and direct.
+- 'Did you get married yet?' Checking whether Max gets married yet cuts straight through the tension between Nagiyev and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, not just yet.' With the work and wedding in play, Max keeps this short reply brisk and direct.
+- 'Why would I be the last one?' Here asking why he is the last one would shows Nagiyev looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Otherwise she would have moved away to Israel.' Realizing that otherwise she would have moved away changes how Max handles the situation.
+- 'She looks like a mop these days.' Noting that she looks like a mop these days keeps Nagiyev's side of the story simple and clear.
+- 'You were always a little bit strange like that.' Even though Nagiyev was always a little bit strange like, Max keeps a steady face in front of Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Oh, could I ask you for a small favor?' Here checking whether he asks Max for a small favor shows Nagiyev looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.

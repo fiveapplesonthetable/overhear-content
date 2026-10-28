@@ -7,30 +7,29 @@ SCENE = 1
 TITLE = 'Panique matinale  (Morning Panic)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'chauffeur': 'theo'}
-LABELS = {'lea': 'Andréa', 'chauffeur': 'Chauffeur'}
+LABELS = {'andrea': 'Andréa', 'chauffeur': 'Chauffeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Early in the morning on the Parisian streets, Andrea Martel faces an acute childcare crisis when her nanny abruptly resigns. Left stranded on the pavement with baby Flora, she struggles in vain to hail a taxi without a mandatory infant car seat. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and the taxi driver's stressful morning exchange line by line."
 TRANSITION = "Now let's listen to Andrea's morning dilemma once more from start to finish."
 OUTRO = "That's it for this scene around morning panic. When you watch the episode, listen out for the expressions meaning 'seat' and 'baby'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('chauffeur', 'Pas de siège bébé, pas de taxi!', 'No baby seat, no taxi!', [(7, 'Pas de siège bébé, pas de taxi')], ''),
-    ('lea', 'Mais je suis vraiment très pressée!', 'But I am truly in a great hurry!', [], ''),
+    ('andrea', 'Mais je suis vraiment très pressée!', 'But I am truly in a great hurry!', [], ''),
     ('chauffeur', "Ce n'est pas moi qui fais les règles.", 'It is not me who makes the rules.', [(7, "Ce n'est pas moi qui fais les règles.")], ''),
-    ('lea', 'Je vais commander une autre voiture.', 'I am going to order another car.', [], ''),
+    ('andrea', 'Je vais commander une autre voiture.', 'I am going to order another car.', [], ''),
     ('chauffeur', 'Ils vous diront exactement la même chose.', 'They will tell you exactly the same thing.', [(9, 'Ils vous diront la même chose.')], ''),
-    ('lea', 'Ma nounou vient de me lâcher!', 'My nanny just bailed on me!', [], ''),
-    ('lea', 'Et la petite Flora est très triste.', 'And little Flora is very sad.', [(4, 'Et Flora est très triste.')], ''),
-    ('lea', 'Je dois aller chercher Sigourney Weaver!', 'I must go pick up Sigourney Weaver!', [(10, 'Sigourney Weaver')], ''),
+    ('andrea', 'Ma nounou vient de me lâcher!', 'My nanny just bailed on me!', [], ''),
+    ('andrea', 'Et la petite Flora est très triste.', 'And little Flora is very sad.', [(4, 'Et Flora est très triste.')], ''),
+    ('andrea', 'Je dois aller chercher Sigourney Weaver!', 'I must go pick up Sigourney Weaver!', [(10, 'Sigourney Weaver')], ''),
     ('chauffeur', 'Prenez le métro avec votre poussette.', 'Take the metro with your stroller.', [], ''),
-    ('lea', "Flora, tu n'as jamais pris le métro.", 'Flora, you have never taken the metro.', [(13, "T'as jamais pris le métro")], ''),
-    ('lea', 'Tu vas détester ce long voyage.', 'You will hate this long trip.', [(14, 'Tu vas détester ça.')], ''),
-    ('lea', "Le trajet dure plus d'une heure!", 'The journey takes more than an hour!', [], ''),
-    ('lea', "Qu'est-ce que je fais maintenant?", 'What do I do now?', [(16, "Qu'est-ce que je fais maintenant ?")], ''),
-    ('lea', 'Je dois appeler Camille au secours.', 'I must call Camille for help.', [], ''),
+    ('andrea', "Flora, tu n'as jamais pris le métro.", 'Flora, you have never taken the metro.', [(13, "T'as jamais pris le métro")], ''),
+    ('andrea', 'Tu vas détester ce long voyage.', 'You will hate this long trip.', [(14, 'Tu vas détester ça.')], ''),
+    ('andrea', "Le trajet dure plus d'une heure!", 'The journey takes more than an hour!', [], ''),
+    ('andrea', "Qu'est-ce que je fais maintenant?", 'What do I do now?', [(16, "Qu'est-ce que je fais maintenant ?")], ''),
+    ('andrea', 'Je dois appeler Camille au secours.', 'I must call Camille for help.', [], ''),
 ]
 WALK = [
     (0, None, "'No baby seat, no taxi!' The taxi driver firmly explains that safety regulations forbid transporting babies without proper seats. The key noun here means 'seat', anchored by its matching French article."),

@@ -7,7 +7,6 @@ SCENE = 12
 TITLE = "J'ai encore un agent?  (Do I Still Have an Agent?)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo', 'herve': 'marcel'}
 LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
@@ -35,7 +34,7 @@ STORY = [
     ('cecile', 'Bon. Alors, je vais attendre.', 'Fine. Then I', [], ''),
 ]
 WALK = [
-    (0, None, "'I'm here to see Gabriel.' Word for word: I am there, to see Gabriel. The French often say 'there' when they mean 'here'. Hervé is buried in his work and doesn't even look up."),
+    (0, 'Je suis là pour voir Gabriel.', "'I'm here to see Gabriel.' Word for word: I am there, to see Gabriel. The French often say 'there' when they mean 'here'. Hervé is buried in his work and doesn't even look up."),
     (1, None, "'Not now!' Two words, and no verb at all. He has no idea who he's talking to. So she calls him again."),
     (2, None, "'Hervé! Hervé! (she calls him, louder)' Just his name, twice, a little louder. And this time he looks up."),
     (3, None, "'Oh! Hello, Cécile.' He uses her first name: in this world, agents and stars are on first-name terms. Then comes her question."),
@@ -43,15 +42,15 @@ WALK = [
     (5, None, "'Yes, why?' Hervé plays innocent, as if he had no idea. So Cécile explains, carefully."),
     (6, None, "'Maybe it's all in my head.' Literally 'it's perhaps in my head'. The word for 'maybe' sits right after the verb."),
     (7, None, "'But I have the feeling Gabriel is avoiding me.' French says 'I have the impression that' for 'I feel that'. And just then Gabriel walks past, very busy all of a sudden."),
-    (8, None, "'It's one o'clock.' For the time, French says 'it is one hour'."),
-    (9, None, "'I'm going to lunch.' Here's a pattern you'll use every day: the verb 'to go' plus another verb in its basic form talks about what you're about to do. I'm going to eat lunch."),
-    (10, None, "'Sofia, do you want to come with me?' He asks Sofia, the receptionist, using the casual 'you'. She happily accepts, and the two of them head for the door. But Cécile isn't fooled."),
-    (11, None, "'Gabriel? What's going on here?' A very useful question whenever something feels odd. Gabriel grabs his phone."),
-    (12, None, "'I'm sorry.' He's a man, so the word for 'sorry' is in its masculine form. A woman writes it with an extra letter at the end."),
-    (13, None, "'I have to answer, it's urgent.' Another verb plus a basic-form verb: I must, then 'answer'. And he starts talking to someone, or perhaps to no one."),
-    (14, None, "'Yes, hello?' This greeting is only used on the phone."),
-    (15, None, "'I've been waiting for your call for months!' Literally 'it makes months that I wait for your call'. A bit much, for a call that may not exist."),
-    (16, None, "'An urgent call? Really?' Cécile has seen this act before."),
-    (17, None, "'He has a lot of work, Cécile.' Loyal Hervé covers for his boss. The phrase for 'a lot of' is followed by a small word meaning 'of', just like in English."),
-    (18, None, "'Fine. Then I'll wait.' The 'go plus verb' pattern once more: I'm going to wait. Cécile isn't going anywhere. Right, here's the whole scene again, a little faster. Now let's hear the full exchange again from beginning to end."),
+    (8, 'Il est une heure.', "'It's one o'clock.' For the time, French says 'it is one hour'."),
+    (8, 'Je vais déjeuner.', "'I'm going to lunch.' Here's a pattern you'll use every day: the verb 'to go' plus another verb in its basic form talks about what you're about to do. I'm going to eat lunch."),
+    (9, None, "'Sofia, do you want to come with me?' He asks Sofia, the receptionist, using the casual 'you'. She happily accepts, and the two of them head for the door. But Cécile isn't fooled."),
+    (10, None, "'Gabriel? What's going on here?' A very useful question whenever something feels odd. Gabriel grabs his phone."),
+    (11, 'Je suis désolé.', "'I'm sorry.' He's a man, so the word for 'sorry' is in its masculine form. A woman writes it with an extra letter at the end."),
+    (11, "Je dois répondre, c'est urgent.", "'I have to answer, it's urgent.' Another verb plus a basic-form verb: I must, then 'answer'. And he starts talking to someone, or perhaps to no one."),
+    (12, 'Oui, allô?', "'Yes, hello?' This greeting is only used on the phone."),
+    (12, "Ça fait des mois que j'attends ton appel!", "'I've been waiting for your call for months!' Literally 'it makes months that I wait for your call'. A bit much, for a call that may not exist."),
+    (13, None, "'An urgent call? Really?' Cécile has seen this act before."),
+    (14, None, "'He has a lot of work, Cécile.' Loyal Hervé covers for his boss. The phrase for 'a lot of' is followed by a small word meaning 'of', just like in English."),
+    (15, None, "'Fine. Then I'll wait.' The 'go plus verb' pattern once more: I'm going to wait. Cécile isn't going anywhere. Right, here's the whole scene again, a little faster. Now let's hear the full exchange again from beginning to end."),
 ]

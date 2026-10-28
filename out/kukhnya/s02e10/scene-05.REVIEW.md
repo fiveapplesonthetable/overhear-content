@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Чем могу помочь? | How may I help you? | #72 00:04:24: Чем могу помочь | verbatim |
-| 2 | Вика | Завтра в вашем ресторане будет ужинать мой босс. | Tomorrow my boss will be having dinner at your restaurant. | #74 00:04:28: Завтра в вашем ресторане будет ужинать мой босс | verbatim |
-| 3 | Шеф | Да, тот самый. | Yes, the very one. | #76 00:04:41: Да, тот самый | verbatim |
-| 4 | Вика | Тот самый? Да? | The very one? Really? | #76 00:04:41: тот самый? Да | verbatim |
-| 5 | Шеф | Это большая честь для нас. | That is a great honor for us. | #77 00:04:46: Это большая честь для нас | verbatim |
-| 6 | Вика | Это большая честь для любого ресторана. | It is a great honor for any restaurant. | #78 00:04:48: Это большая честь для любого ресторана | verbatim |
-| 7 | Шеф | Где тут у вас кухня? | Where is your kitchen in here? | #81 00:04:56: Где тут у вас кухня | verbatim |
-| 8 | Вика | К сожалению, Виктор Петрович очень занят. | Unfortunately, Viktor Petrovich is very busy right now. | #81 00:04:56: К сожалению, Виктор Петрович очень занят | verbatim |
-| 9 | Шеф | Может быть, я могу вам чем-то помочь? | Perhaps I can help you with something instead? | #82 00:05:01: Может быть, я могу вам чем-то помочь | verbatim |
-| 10 | Вика | Ну ладно, ничего страшного. | All right, no big deal. | #84 00:05:09: Ну ладно, ничего страшного | verbatim |
-| 11 | Шеф | Я что-нибудь придумаю. | I will figure something out. | #85 00:05:11: Я что-нибудь придумаю | verbatim |
-| 12 | Вика | Спасибо вам. | Thank you. | #85 00:05:11: Спасибо вам | verbatim |
-| 13 | Шеф | До свидания. | Goodbye. | #86 00:05:13: До свидания | verbatim |
+| 1 | Шеф | Чем могу помочь? | How may I help you? | #72: Чем могу помочь | verbatim |
+| 2 | Вика | Завтра в вашем ресторане будет ужинать мой босс. | Tomorrow my boss will be having dinner at your restaurant. | #74: Завтра в вашем ресторане будет ужинать мой босс | verbatim |
+| 3 | Шеф | Да, тот самый. | Yes, the very one. | #76: Да, тот самый | verbatim |
+| 4 | Вика | Тот самый? Да? | The very one? Really? | #76: тот самый? Да | verbatim |
+| 5 | Шеф | Это большая честь для нас. | That is a great honor for us. | #77: Это большая честь для нас | verbatim |
+| 6 | Вика | Это большая честь для любого ресторана. | It is a great honor for any restaurant. | #78: Это большая честь для любого ресторана | verbatim |
+| 7 | Шеф | Где тут у вас кухня? | Where is your kitchen in here? | #81: Где тут у вас кухня | verbatim |
+| 8 | Вика | К сожалению, Виктор Петрович очень занят. | Unfortunately, Viktor Petrovich is very busy right now. | #81: К сожалению, Виктор Петрович очень занят | verbatim |
+| 9 | Шеф | Может быть, я могу вам чем-то помочь? | Perhaps I can help you with something instead? | #82: Может быть, я могу вам чем-то помочь | verbatim |
+| 10 | Вика | Ну ладно, ничего страшного. | All right, no big deal. | #84: Ну ладно, ничего страшного | verbatim |
+| 11 | Шеф | Я что-нибудь придумаю. | I will figure something out. | #85: Я что-нибудь придумаю | verbatim |
+| 12 | Вика | Спасибо вам. | Thank you. | #85: Спасибо вам | verbatim |
+| 13 | Шеф | До свидания. | Goodbye. | #86: До свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How may I help you?' Notice how Russian expresses 'what' and 'to help' with crisp inflection rather than helper words. Vika answers right away.
-- 'Tomorrow my boss will be having dinner at your restaurant.' Notice how Russian expresses 'tomorrow' and 'boss' with crisp inflection rather than helper words.
-- 'Yes, the very one.' Chef Viktor anchors the line on 'yes', while 'the very' completes the thought.
-- 'The very one? Really?' Spoken Russian keeps this brisk, leaning on 'that' and finishing on 'yes'. Chef Viktor answers right away.
-- 'That is a great honor for us.' Here the Russian phrasing highlights 'this' before landing on 'us'.
-- 'It is a great honor for any restaurant.' The grammar packs 'this' and 'restaurant' into a tight, idiomatic kitchen exchange.
-- 'Where is your kitchen in here?' Chef Viktor anchors the line on 'where', while 'kitchen' completes the thought. Vika answers right away.
-- 'Unfortunately, Viktor Petrovich is very busy right now.' Vika brings out the contrast between 'regret' and 'Viktor' in a few short words.
-- 'Perhaps I can help you with something instead?' Chef Viktor raises the pitch on 'to help' to turn the phrase into a direct spoken question.
-- 'All right, no big deal.' Notice how Russian expresses 'come on' and 'terrible' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'I will figure something out.' Chef Viktor anchors the line on 'I', while 'will come up with' completes the thought.
-- 'Thank you.' Here the Russian phrasing highlights 'thank you' before landing on 'for you'.
-- 'Goodbye.' Here the Russian phrasing highlights 'until' before landing on 'meeting'.
+- 'How may I help you?' Wondering if how may he helps Vika shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Tomorrow my boss will be having dinner at your restaurant.' Pointing out that tomorrow her boss will be having dinner at Barinov's restaurant gives Barinov a sobering reality check.
+- 'Yes, the very one.' With the moment and guest in play, Barinov keeps this short reply brisk and direct.
+- 'The very one? Really?' Over the conversation and the hospital, Vika presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'That is a great honor for us.' Noting that that is a great honor for them keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'It is a great honor for any restaurant.' Even though it is a great honor for any restaurant, Vika keeps a steady face in front of Barinov.
+- 'Where is your kitchen in here?' Wondering where Vika's kitchen in here is cuts straight through the tension between Barinov and Vika. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Unfortunately, Viktor Petrovich is very busy right now.' Saying that Viktor Petrovich is very busy right now is how Vika sets the tone with Barinov.
+- 'Perhaps I can help you with something instead?' Barinov asks whether perhaps he can help Vika with something instead, refusing to let the point slide.
+- 'All right, no big deal.' With the conversation and guest in play, Vika keeps this short reply brisk and direct.
+- 'I will figure something out.' Saying that he will figure something out is how Barinov sets the tone with Vika.
+- 'Thank you.' By thanking Barinov, Vika keeps her side of the story grounded.
+- 'Goodbye.' Over the conversation and the dinner, Barinov answers Vika without a second thought.

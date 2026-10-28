@@ -7,25 +7,24 @@ SCENE = 4
 TITLE = "L'audition chez Constance  (The Audition at Constance's)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'constance': 'emilie', 'lea': 'lucie'}
-LABELS = {'constance': 'Constance', 'lea': 'Andréa'}
+LABELS = {'constance': 'Constance', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "In the casting director's studio, Sofia performs a test scene for an upcoming movie. However, the harsh casting director Constance brutally interrupts her, questioning her talent and insinuating favoritism. Let's listen to the intense confrontation in French first."
 OPENER = "Let's examine how Constance criticizes Sofia during the audition."
 TRANSITION = "Now let's listen to the cruel casting session again without stopping."
 OUTRO = "Constance's vicious remarks deeply wound Sofia, attacking both her personal life and talent. Sofia must decide whether to endure the humiliation or stand up for herself. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Tiens, quelle surprise de vous croiser ici!', 'Fancy meeting you here!', [(130, 'Tiens, quelle surprise de vous croiser ici.')], ''),
-    ('lea', 'La saucisse de Morteau est spectaculaire.', 'The Morteau sausage is spectacular.', [(132, 'La saucisse de Morteau est spectaculaire.')], ''),
+    ('sofia', 'Tiens, quelle surprise de vous croiser ici!', 'Fancy meeting you here!', [(130, 'Tiens, quelle surprise de vous croiser ici.')], ''),
+    ('sofia', 'La saucisse de Morteau est spectaculaire.', 'The Morteau sausage is spectacular.', [(132, 'La saucisse de Morteau est spectaculaire.')], ''),
     ('constance', "Stop! Vous m'avez coupé l'appétit.", 'Stop! You ruined my appetite.', [(134, 'Stop.'), (134, "vous m'avez coupé l'appétit.")], ''),
     ('constance', 'Votre regard est vide, il ne se passe rien.', 'Your look is blank, nothing is happening.', [(135, 'Votre regard est vide, il ne se passe rien.')], ''),
     ('constance', "Franchement, c'est très ennuyeux.", 'Frankly, it is very boring.', [(137, "Franchement, c'est ennuyeux.")], ''),
     ('constance', "Le personnage n'est pas compliqué.", 'The character is not complicated.', [(138, "Ce n'est pas compliqué.")], ''),
     ('constance', 'Elle est mignonne et elle couche pour réussir.', 'She is cute and sleeps her way to success.', [(139, 'Elle est mignonne, elle couche pour réussir...')], ''),
     ('constance', "Elle n'est pas si différente de vous.", 'She is not so different from you.', [(140, 'Pas si différente de vous.')], ''),
-    ('lea', "Pardon? Qu'est-ce que vous avez dit?", 'Excuse me? What did you say?', [(142, 'Pardon ?'), (143, "Qu'est-ce que vous avez dit ?")], ''),
+    ('sofia', "Pardon? Qu'est-ce que vous avez dit?", 'Excuse me? What did you say?', [(142, 'Pardon ?'), (143, "Qu'est-ce que vous avez dit ?")], ''),
     ('constance', 'Calmez-vous, tout le monde le sait.', 'Calm down, everyone knows it.', [(145, 'Bon, calmez-vous !'), (146, 'tout le monde le sait.')], ''),
     ('constance', 'Une actrice qui couche avec son agent pour des rôles.', 'An actress who sleeps with her agent for roles.', [(147, 'Une actrice qui couche avec son agent')], ''),
     ('constance', "Ce rôle ne demande pas beaucoup d'efforts.", 'This role does not require much effort.', [(148, "Ce rôle ne devrait pas vous demander beaucoup d'efforts.")], ''),

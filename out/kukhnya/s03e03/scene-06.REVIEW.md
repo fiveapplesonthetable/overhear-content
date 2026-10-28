@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | А что эта особа здесь делает? | And what is this person doing here? | #88 00:06:26: А что эта<br>#88 00:06:26: особа здесь делает | adapted: adapted |
-| 2 | Шеф | Работает. Поваром. | She works here. As a cook. | #89 00:06:30: Работает. Поваром | verbatim |
-| 3 | Елена | Женщина-повар у тебя? | A female cook in your kitchen? | #90 00:06:32: Женщина-повар у тебя | adapted: adapted |
-| 4 | Шеф | Ну, Нагиев навязал, она специалист по молекулярной кухне. | Well, Nagiyev forced her on me, she is a molecular cuisine specialist. | #91 00:06:34: навязал, она специалист по молекулярной кухне | adapted: adapted |
-| 5 | Шеф | А что ты, собственно, зашла? | And why did you actually drop by? | #93 00:06:39: А что ты, собственно, зашла | verbatim |
-| 6 | Елена | Машина нужна на пару часов. | I need a car for a couple of hours. | #94 00:06:41: Машина нужна на пару часов | verbatim |
-| 7 | Елена | Дашь свою? | Will you lend me yours? | #95 00:06:43: Дашь свою | verbatim |
-| 8 | Шеф | Ради бога, аккуратнее. | For heaven's sake, be careful. | #95 00:06:43: ради бога, аккуратнее | verbatim |
-| 9 | Елена | Ты сейчас за кого переживаешь? | Who are you worrying about right now? | #96 00:06:47: Ты сейчас за кого переживаешь | verbatim |
-| 10 | Елена | За машину или за меня? | About the car or about me? | #97 00:06:49: За машину или за меня | verbatim |
-| 11 | Шеф | Вы мне обе по-разному дорогие. | Both of you are dear to me in different ways. | #98 00:06:51: Вы мне обе<br>#99 00:06:53: По-разному<br>#100 00:06:55: Дорогие | adapted: adapted |
-| 12 | Елена | Спасибо, Витя. | Thank you, Vitya. | #88 00:06:26: что эта | adapted: adapted |
+| 1 | Елена | А что эта особа здесь делает? | And what is this person doing here? | #88: А что эта<br>#88: особа здесь делает | adapted: adapted |
+| 2 | Шеф | Работает. Поваром. | She works here. As a cook. | #89: Работает. Поваром | verbatim |
+| 3 | Елена | Женщина-повар у тебя? | A female cook in your kitchen? | #90: Женщина-повар у тебя | adapted: adapted |
+| 4 | Шеф | Ну, Нагиев навязал, она специалист по молекулярной кухне. | Well, Nagiyev forced her on me, she is a molecular cuisine specialist. | #91: навязал, она специалист по молекулярной кухне | adapted: adapted |
+| 5 | Шеф | А что ты, собственно, зашла? | And why did you actually drop by? | #93: А что ты, собственно, зашла | verbatim |
+| 6 | Елена | Машина нужна на пару часов. | I need a car for a couple of hours. | #94: Машина нужна на пару часов | verbatim |
+| 7 | Елена | Дашь свою? | Will you lend me yours? | #95: Дашь свою | verbatim |
+| 8 | Шеф | Ради бога, аккуратнее. | For heaven's sake, be careful. | #95: ради бога, аккуратнее | verbatim |
+| 9 | Елена | Ты сейчас за кого переживаешь? | Who are you worrying about right now? | #96: Ты сейчас за кого переживаешь | verbatim |
+| 10 | Елена | За машину или за меня? | About the car or about me? | #97: За машину или за меня | verbatim |
+| 11 | Шеф | Вы мне обе по-разному дорогие. | Both of you are dear to me in different ways. | #98: Вы мне обе<br>#99: По-разному<br>#100: Дорогие | adapted: adapted |
+| 12 | Елена | Спасибо, Витя. | Thank you, Vitya. | #88: что эта | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what is this person doing here?' Notice how Russian expresses 'and' and 'does' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'She works here. As a cook.' The meaning hinges on 'works' working together with 'as a cook' in spoken Russian.
-- 'A female cook in your kitchen?' Elena raises the pitch on 'you' to turn the phrase into a direct spoken question.
-- 'Well, Nagiyev forced her on me, she is a molecular cuisine specialist.' The '-l' ending on the verb meaning 'forced on' places the action in the masculine past tense.
-- 'And why did you actually drop by?' Chef Barinov addresses the listener with the informal singular 'you' alongside 'dropped by'.
-- 'I need a car for a couple of hours.' Here the Russian phrasing highlights 'machine' before landing on 'hours'.
-- 'Will you lend me yours?' Spoken Russian keeps this brisk, leaning on 'will give' and finishing on 'your'. Chef Barinov answers right away.
-- 'For heaven's sake, be careful.' Chef Barinov anchors the line on 'for the sake of', while 'more carefully' completes the thought.
-- 'Who are you worrying about right now?' In spoken Russian, the words stay in their normal statement order and Elena's rising voice at the end turns the line into a question.
-- 'About the car or about me?' Notice how Russian expresses 'for' and 'me' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'Both of you are dear to me in different ways.' Here the Russian phrasing highlights 'you' before landing on 'dear'.
-- 'Thank you, Vitya.' Spoken Russian keeps this brisk, leaning on 'thank you' and finishing on 'Vitya'.
+- 'And what is this person doing here?' Asking what this person doing here is cuts straight through the tension between Elena and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'She works here. As a cook.' Claiming that she works here sounds confident, even if Elena has doubts.
+- 'A female cook in your kitchen?' With the kitchen and office hanging in the air, Elena puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Well, Nagiyev forced her on me, she is a molecular cuisine specialist.' Barinov explains that Nagiyev forced her on him she is a molecular cuisine specialist, keeping his voice calm and direct.
+- 'And why did you actually drop by?' Wondering why Elena actually drop cuts straight through the tension between Barinov and Elena.
+- 'I need a car for a couple of hours.' Claiming that she needs a car for a couple of hours sounds confident, even if Barinov has doubts.
+- 'Will you lend me yours?' Here asking whether Barinov lends shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'For heaven's sake, be careful.' With the plan and car in play, Barinov keeps this short reply brisk and direct.
+- 'Who are you worrying about right now?' Asking who Barinov worrying about right now is cuts straight through the tension between Elena and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'About the car or about me?' Over the moment and the car, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Both of you are dear to me in different ways.' Adding that both of Elena is dear to him in different ways fills in the missing piece for Elena.
+- 'Thank you, Vitya.' Between the plan and the car, Elena gives Barinov a quick, grounded response.

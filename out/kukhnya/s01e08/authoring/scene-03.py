@@ -5,31 +5,30 @@ SEASON = 1
 EPISODE = 8
 SCENE = 3
 TITLE = "Мужская профессия  (A Man's Profession)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
-LABELS = {"chef": "Шеф", "elena": "Елена"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Continuing his provocative commentary on the morning cooking broadcast, Chef Viktor Barinov declares that he would never allow a female chef to work in the Claude Monet kitchen. He argues that women talk too much and cannot withstand the grueling pressure of haute cuisine, but Elena Sokolova fiercely defends the competence and discipline of her staff. Let's listen to their argument in Russian first."
 OPENER = "Now let's examine Barinov and Elena's debate on kitchen discipline line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With neither chef backing down from their entrenched positions, Elena prepares to challenge Barinov to put his pride on the line before the entire television audience. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to be afraid' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Я никогда не возьму женщину на кухню.', 'I will never take a woman into the kitchen.', [(29, 'Я бы себе на кухню поварику бы не взял')], ''),
+    ('barinov', 'Я никогда не возьму женщину на кухню.', 'I will never take a woman into the kitchen.', [(29, 'Я бы себе на кухню поварику бы не взял')], ''),
     ('elena', 'Что за глупые мысли, Виктор?', 'What foolish thoughts, Viktor?', [(31, 'Что вы говорите')], ''),
-    ('chef', 'Женщины слишком много говорят на работе.', 'Women talk too much at work.', [(30, 'Они слишком много болтают')], ''),
+    ('barinov', 'Женщины слишком много говорят на работе.', 'Women talk too much at work.', [(30, 'Они слишком много болтают')], ''),
     ('elena', 'На моей кухне всегда идеальный порядок.', 'In my kitchen there is always perfect order.', [], ''),
-    ('chef', 'На кухне ресторана нужен строгий контроль.', 'In a restaurant kitchen strict control is needed.', [], ''),
+    ('barinov', 'На кухне ресторана нужен строгий контроль.', 'In a restaurant kitchen strict control is needed.', [], ''),
     ('elena', 'Мои повара работают спокойно и аккуратно.', 'My cooks work calmly and neatly.', [], ''),
-    ('chef', 'Вы не справитесь с нашей тяжёлой работой.', 'You will not cope with our hard work.', [], ''),
+    ('barinov', 'Вы не справитесь с нашей тяжёлой работой.', 'You will not cope with our hard work.', [], ''),
     ('elena', 'Я справляюсь с любой трудной задачей.', 'I cope with any difficult task.', [], ''),
-    ('chef', 'В ресторане Клод Моне очень тяжело.', 'At Claude Monet restaurant it is very hard.', [], ''),
+    ('barinov', 'В ресторане Клод Моне очень тяжело.', 'At Claude Monet restaurant it is very hard.', [], ''),
     ('elena', 'Я не боюсь тяжёлой работы, шеф!', 'I am not afraid of hard work, chef!', [], ''),
-    ('chef', 'Вы не понимаете наших мужских правил.', 'You do not understand our male rules.', [], ''),
+    ('barinov', 'Вы не понимаете наших мужских правил.', 'You do not understand our male rules.', [], ''),
     ('elena', 'Правила на кухне одинаковы для всех.', 'The rules in the kitchen are the same for everyone.', [], ''),
-    ('chef', 'Тогда докажите это на деле, Елена!', 'Then prove it in deed, Elena!', [], ''),
+    ('barinov', 'Тогда докажите это на деле, Елена!', 'Then prove it in deed, Elena!', [], ''),
 ]
 WALK = [
     (0, None, "'I will never take a woman into the kitchen.' Barinov expresses his dogmatic hiring rule with a negated future verb."),

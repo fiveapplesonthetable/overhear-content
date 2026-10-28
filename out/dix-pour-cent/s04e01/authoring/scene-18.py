@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = 'Sur le tapis rouge  (On the Red Carpet)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'charlotte': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'charlotte': 'Charlotte', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'charlotte': 'Charlotte', 'gabriel': 'Gabriel', 'mimie': 'Mimie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the prestigious Cesars ceremony, Charlotte Gainsbourg warmly invites Mimie Mathy onto the red carpet. As photographers clamor for photos, Gabriel steps aside so that the two actresses can share the glamorous spotlight. Let's listen to their conversation in French first."
@@ -18,17 +17,17 @@ OUTRO = "With generous warmth, Charlotte Gainsbourg and Mimie Mathy turn the red
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('charlotte', 'Mimie, viens faire des photos avec moi!', 'Mimie, come take photos with me!', [], ''),
-    ('lea', 'Tu es vraiment sûre, Charlotte?', 'Are you really sure, Charlotte?', [], ''),
+    ('mimie', 'Tu es vraiment sûre, Charlotte?', 'Are you really sure, Charlotte?', [], ''),
     ('charlotte', 'Bien sûr, nous formons une équipe.', 'Of course, we are a team.', [], ''),
     ('gabriel', 'Les photographes attendent votre arrivée!', 'The photographers are waiting for your arrival!', [], ''),
-    ('lea', "C'est un moment magique pour moi.", 'It is a magical moment for me.', [], ''),
+    ('mimie', "C'est un moment magique pour moi.", 'It is a magical moment for me.', [], ''),
     ('charlotte', 'Tu mérites toute cette belle attention.', 'You deserve all this fine attention.', [], ''),
     ('gabriel', 'Je vous laisse briller ensemble!', 'I leave you to shine together!', [(897, 'Je vous laisse')], ''),
     ('charlotte', 'Regarde vers les caméras, Mimie.', 'Look toward the cameras, Mimie.', [], ''),
-    ('lea', "Je n'ai pas l'habitude de ça.", 'I am not used to this.', [], ''),
+    ('mimie', "Je n'ai pas l'habitude de ça.", 'I am not used to this.', [], ''),
     ('charlotte', 'Souris, tu es magnifique ce soir!', 'Smile, you are stunning tonight!', [], ''),
     ('gabriel', 'Cette montée des marches est superbe.', 'This red carpet arrival is superb.', [], ''),
-    ('lea', 'Merci mille fois pour ce geste.', 'Thank you a thousand times for this gesture.', [], ''),
+    ('mimie', 'Merci mille fois pour ce geste.', 'Thank you a thousand times for this gesture.', [], ''),
     ('charlotte', 'Le cinéma adore ta belle énergie.', 'Cinema loves your wonderful energy.', [], ''),
     ('gabriel', 'Profitez pleinement de votre grand succès!', 'Enjoy your great success to the fullest!', [(897, 'Je vous laisse')], ''),
 ]

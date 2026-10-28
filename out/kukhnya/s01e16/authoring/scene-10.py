@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 10
-TITLE = "Побег через зал  (Escape Through the Hall)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Побег через зал  (Escape Through the Hall)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "lanovsky": "angelina", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "lanovsky": "Лановский", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'lanovsky': 'Лановский', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Viktor tells the kitchen staff to leave through the back and front doors. But the back door is blocked. An immigration major introduces himself to Viktor. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Viktor tells the kitchen staff to leave through the back and front doors. But the back door is blocked. An immigration major introduces himself to Viktor. Next time you watch the episode, listen for the Russian expressions for 'to try' and 'new' — you will catch every word right away. See you next time!"
-CLOSING = ("lanovsky", "Пока!")
+CLOSING = ('lanovsky', 'Пока!')
 STORY = [
-    ('anya', 'Попробуй новый вариант блюда.', 'Try the new version of the dish.', [(88, 'попробуй новый вариант, а?')], ''),
-    ('anya', 'Шеф, выход через зал закрыт.', 'Chef, the exit through the hall is closed.', [(108, 'Шеф, с парадом не вариант.')], ''),
-    ('chef', 'Мы выходим по одному человеку.', 'We exit one person at a time.', [(92, 'Не ломимся толпой, выходим по одному человеку.')], ''),
-    ('chef', 'Половина идёт через зал.', 'Half goes through the hall.', [(97, 'Половина через зал.')], ''),
-    ('chef', 'Что вы за идиоты?', 'What kind of idiots are you?', [(110, 'Что вы за инвалиды?')], ''),
-    ('chef', 'Быстро ко мне в кабинет.', 'Quickly to my office.', [(113, 'Ко мне в кабинет, только тихо.')], ''),
+    ('max', 'Попробуй новый вариант блюда.', 'Try the new version of the dish.', [(88, 'попробуй новый вариант, а?')], ''),
+    ('max', 'Шеф, выход через зал закрыт.', 'Chef, the exit through the hall is closed.', [(108, 'Шеф, с парадом не вариант.')], ''),
+    ('barinov', 'Мы выходим по одному человеку.', 'We exit one person at a time.', [(92, 'Не ломимся толпой, выходим по одному человеку.')], ''),
+    ('barinov', 'Половина идёт через зал.', 'Half goes through the hall.', [(97, 'Половина через зал.')], ''),
+    ('barinov', 'Что вы за идиоты?', 'What kind of idiots are you?', [(110, 'Что вы за инвалиды?')], ''),
+    ('barinov', 'Быстро ко мне в кабинет.', 'Quickly to my office.', [(113, 'Ко мне в кабинет, только тихо.')], ''),
     ('lanovsky', 'Добрый день, Виктор Петрович.', 'Good afternoon, Viktor Petrovich.', [(117, 'О, Виктор Петрович, чрезвычайно рад с вами лично познакомиться.')], ''),
     ('lanovsky', 'Я майор миграционной службы.', 'I am a major of the migration service.', [(121, 'майор федеральной миграционной службы.')], ''),
     ('lanovsky', 'Мы можем пройти в кабинет?', 'Can we go to the office?', [(124, 'Виктор Петрович, мы не могли бы пройти в ваш кабинет и обсудить все там?')], ''),
-    ('chef', 'К сожалению, я не могу.', 'Unfortunately, I cannot.', [(125, 'К сожалению, не могу.')], ''),
-    ('chef', 'Мне нужно готовить для гостей.', 'I need to cook for the guests.', [(127, 'Простите, мне нужно готовить для гостей нашего замечательного ареста.')], ''),
+    ('barinov', 'К сожалению, я не могу.', 'Unfortunately, I cannot.', [(125, 'К сожалению, не могу.')], ''),
+    ('barinov', 'Мне нужно готовить для гостей.', 'I need to cook for the guests.', [(127, 'Простите, мне нужно готовить для гостей нашего замечательного ареста.')], ''),
     ('lanovsky', 'Хорошо, я подожду вас здесь.', 'Alright, I will wait for you here.', [(131, 'Я, с вашего позволения, подожду вас здесь.')], ''),
 ]
 WALK = [

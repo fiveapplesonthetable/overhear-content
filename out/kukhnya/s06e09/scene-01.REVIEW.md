@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Она машину совсем не заметила. | She did not notice the car at all. | #1 00:00:44: Машину-то не заметила | adapted: adapted |
-| 2 | Шеф | Денис, дыши спокойно, сейчас вызовем скорую. | Denis, breathe calmly, we will call an ambulance now. | #1 00:00:44: Денис, дыши<br>#2 00:00:46: давай скорую | adapted: adapted |
-| 3 | Шеф | Всё нормально, я просто конфетой подавился. | Everything is fine, I just choked on a candy. | #3 00:00:52: нормально, я просто конфетой подавился | adapted: adapted |
-| 4 | Шеф | Алло, скорая, у нас тут авария. | Hello, ambulance, we have an accident here. | #3 00:00:52: Алло, скорая, у нас тут ДТП | adapted: adapted |
-| 5 | Шеф | И правая рука у меня сильно болит. | And my right arm hurts badly. | #5 00:01:00: И рука у него болит | adapted: adapted |
-| 6 | Шеф | Что тут непонятного, приезжайте скорее. | What is unclear here, come quickly. | #5 00:01:00: Что тут непонятного | adapted: adapted |
-| 7 | Шеф | Виктор, ты этот тонкий намёк понял? | Viktor, did you understand that subtle hint? | #6 00:01:19: намек понял | adapted: adapted |
-| 8 | Шеф | Завтра ваша команда снова играет со Спартаком. | Tomorrow your team plays against Spartak again. | #7 00:01:21: завтра играется Спартаком | adapted: adapted |
-| 9 | Шеф | Мы завтра ваших коней легко обыграем. | Tomorrow we will easily beat your horses. | #9 00:01:33: Мы завтра ваших коней | adapted: adapted |
-| 10 | Шеф | Жалко, я твоего позора не увижу. | It is a pity I will not see your disgrace. | #10 00:01:36: Жалко только я твоего позора не увижу | adapted: adapted |
-| 11 | Шеф | Я завтра утром женюсь, потом банкет. | I am getting married tomorrow morning, then the banquet. | #11 00:01:38: Я завтра в 10 утра женюсь, потом банкет | adapted: adapted |
-| 12 | Шеф | Женись спокойно, а я поставил деньги. | Get married in peace, and I placed a bet. | #12 00:01:41: Женись | adapted: adapted |
-| 13 | Шеф | Ой, это просто настоящий детский сад. | Oh, this is just a real kindergarten. | #13 00:01:45: Ой, детский сад | adapted: adapted |
+| 1 | Денис | Она машину совсем не заметила. | She did not notice the car at all. | #1: Машину-то не заметила | adapted: adapted |
+| 2 | Шеф | Денис, дыши спокойно, сейчас вызовем скорую. | Denis, breathe calmly, we will call an ambulance now. | #1: Денис, дыши<br>#2: давай скорую | adapted: adapted |
+| 3 | Денис | Всё нормально, я просто конфетой подавился. | Everything is fine, I just choked on a candy. | #3: нормально, я просто конфетой подавился | adapted: adapted |
+| 4 | Шеф | Алло, скорая, у нас тут авария. | Hello, ambulance, we have an accident here. | #3: Алло, скорая, у нас тут ДТП | adapted: adapted |
+| 5 | Денис | И правая рука у меня сильно болит. | And my right arm hurts badly. | #5: И рука у него болит | adapted: adapted |
+| 6 | Шеф | Что тут непонятного, приезжайте скорее. | What is unclear here, come quickly. | #5: Что тут непонятного | adapted: adapted |
+| 7 | Саша | Виктор, ты этот тонкий намёк понял? | Viktor, did you understand that subtle hint? | #6: намек понял | adapted: adapted |
+| 8 | Шеф | Завтра ваша команда снова играет со Спартаком. | Tomorrow your team plays against Spartak again. | #7: завтра играется Спартаком | adapted: adapted |
+| 9 | Саша | Мы завтра ваших коней легко обыграем. | Tomorrow we will easily beat your horses. | #9: Мы завтра ваших коней | adapted: adapted |
+| 10 | Шеф | Жалко, я твоего позора не увижу. | It is a pity I will not see your disgrace. | #10: Жалко только я твоего позора не увижу | adapted: adapted |
+| 11 | Саша | Я завтра утром женюсь, потом банкет. | I am getting married tomorrow morning, then the banquet. | #11: Я завтра в 10 утра женюсь, потом банкет | adapted: adapted |
+| 12 | Шеф | Женись спокойно, а я поставил деньги. | Get married in peace, and I placed a bet. | #12: Женись | adapted: adapted |
+| 13 | Саша | Ой, это просто настоящий детский сад. | Oh, this is just a real kindergarten. | #13: Ой, детский сад | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She did not notice the car at all.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'to notice'.
-- 'Denis, breathe calmly, we will call an ambulance now.' The grammar packs 'Denis' and 'ambulance' into a tight, idiomatic kitchen exchange.
-- 'Everything is fine, I just choked on a candy.' Spoken Russian keeps this brisk, leaning on 'everything' and finishing on 'choked'. Chef Barinov answers right away.
-- 'Hello, ambulance, we have an accident here.' Chef Barinov brings out the contrast between 'hello' and 'ambulance' in a few short words.
-- 'And my right arm hurts badly.' In Russian, the idea of 'and' flows naturally into 'hurts' without extra filler words.
-- 'What is unclear here, come quickly.' Notice how Russian expresses 'what' and 'quickly' with crisp inflection rather than helper words. Sasha answers right away.
-- 'Viktor, did you understand that subtle hint?' In spoken Russian, the words stay in their normal statement order and Sasha's rising voice at the end turns the line into a question.
-- 'Tomorrow your team plays against Spartak again.' The grammar packs 'tomorrow' and 'Spartak' into a tight, idiomatic kitchen exchange.
-- 'Tomorrow we will easily beat your horses.' Sasha anchors the line on 'we', while 'we will beat' completes the thought. Chef Barinov answers right away.
-- 'It is a pity I will not see your disgrace.' Here the Russian phrasing highlights 'feel sorry for' before landing on 'I will see'.
-- 'I am getting married tomorrow morning, then the banquet.' The meaning hinges on 'I' working together with 'banquet' in spoken Russian.
-- 'Get married in peace, and I placed a bet.' In Russian, the idea of 'to marry' flows naturally into 'money' without extra filler words. Sasha answers right away.
-- 'Oh, this is just a real kindergarten.' Spoken Russian keeps this brisk, leaning on 'oh' and finishing on 'the park'.
+- 'She did not notice the car at all.' Saying that she did not notice the car at all is how Denis sets the tone with Barinov.
+- 'Denis, breathe calmly, we will call an ambulance now.' Once breathe calmly they will call an ambulance now, Barinov can finally tell Denis what he means.
+- 'Everything is fine, I just choked on a candy.' Adding that everything is fine he just choked on a candy fills in the missing piece for Barinov.
+- 'Hello, ambulance, we have an accident here.' Barinov tells Denis that ambulance they have an accident here without dressing it up.
+- 'And my right arm hurts badly.' Since his right arm hurts badly, Denis does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'What is unclear here, come quickly.' Mentioning that what is unclear here come quickly moves the talk in a new direction.
+- 'Viktor, did you understand that subtle hint?' Asking whether Barinov understands that subtle hint is how Sasha puts Barinov on the spot.
+- 'Tomorrow your team plays against Spartak again.' Because tomorrow Denis's team plays against Spartak again, Barinov treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Tomorrow we will easily beat your horses.' Explaining that tomorrow they will easily beat Barinov's horses lays the cards on the table for Barinov.
+- 'It is a pity I will not see your disgrace.' Explaining that it is a pity he will not see Denis's disgrace lays the cards on the table for Denis.
+- 'I am getting married tomorrow morning, then the banquet.' Being getting married tomorrow morning then the banquet is how Sasha lays out the situation for Barinov.
+- 'Get married in peace, and I placed a bet.' Getting married in peace and he placed a bet is how Barinov lays out the situation for Denis.
+- 'Oh, this is just a real kindergarten.' Sasha explains that this is just a real kindergarten, keeping her voice calm and direct.

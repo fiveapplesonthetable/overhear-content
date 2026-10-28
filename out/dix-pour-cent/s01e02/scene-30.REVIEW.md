@@ -1,31 +1,44 @@
-# Review: `dix-pour-cent-s01e02-scene-30` — Désolée pour hier  (Sorry About Yesterday)
+# dix-pour-cent-s01e02-scene-30: review sheet
 
-- **Source**: `sources/dix-pour-cent/s01/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "gabriel": "theo", "mathias": "marcel"}`
-- **Labels**: `{"lea": "Andréa", "gabriel": "Gabriel", "mathias": "Mathias"}`
+Title: Désolée pour hier  (Sorry About Yesterday)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S01E02
 
-## Part 1 — Intro
-> But the day before, Andréa and Gabriel had a furious row about those two actresses, and they said some hurtful things. First, young Hippolyte catches Andréa to ask about roles. Then she goes to find Gabriel. We'll hear it all in French first; just follow the feeling of it.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `mathias` (Mathias) | Un film de Tavernier? Super! | A Tavernier film? Great! | 812:Un film de Tavernier, 812:Super |
-| 1 | `lea` (Andréa) | Il n'y a pas de rôle pour toi. | There | 813:Il n'y a pas de rôle pour toi |
-| 2 | `mathias` (Mathias) | Et le film de Gallienne? Je peux lire le scénario? | And Gallienne's film? Can I read the script? | 815:Et le film de Gallienne ? Je peux lire le scénario |
-| 3 | `lea` (Andréa) | Pas maintenant, Hippolyte. | Not now, Hippolyte. | adapted |
-| 4 | `mathias` (Mathias) | Dis-moi au moins de quoi ça parle! | At least tell me what it | 817:Dis-moi au moins de quoi ça parle |
-| 5 | `lea` (Andréa) | Gabriel? Désolée pour hier. | Gabriel? Sorry about yesterday. | 818:Désolée pour hier |
-| 6 | `lea` (Andréa) | Line Renaud, c'était une idée de génie. | Line Renaud was a stroke of genius. | 819:Line Renaud, c'était une idée de génie |
-| 7 | `gabriel` (Gabriel) | Merci, Andréa. | Thank you, Andréa. | adapted |
-| 8 | `gabriel` (Gabriel) | Moi aussi, je suis désolé. | I | 820:Moi aussi, je suis |
-| 9 | `gabriel` (Gabriel) | Je ne t'abandonnerai pas. | I won | 821:Je ne t'abandonnerai pas |
-| 10 | `gabriel` (Gabriel) | Quand tu voudras un enfant, je t'emmènerai en Hollande. | When you want a child, I | 821:un enfant, 822:Je t'emmènerai en Hollande |
-| 11 | `lea` (Andréa) | Oh, Gabriel! Tu es bête! | Oh, Gabriel! You | adapted |
-| 12 | `lea` (Andréa) | Sans toi, je crois que j'arrêterais ce métier. | Without you, I think I | 824:Sans toi, je crois que j'arrêterais ce métier |
-| 13 | `gabriel` (Gabriel) | Oui, Sue Ellen! | Yes, Sue Ellen! | 825:Oui, Sue Ellen |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> And just like that, the two friends are back together. When you watch, listen for 'me too' and the future tense of 'to take': you'll hear them clearly now. See you next time!
-- **Closing**: `lea`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Hippolyte | Un film de Tavernier? Super! | A Tavernier film? Great! | #812: Un film de Tavernier<br>#812: Super | verbatim |
+| 2 | Andréa | Il n'y a pas de rôle pour toi. | There | #813: Il n'y a pas de rôle pour toi | verbatim |
+| 3 | Hippolyte | Et le film de Gallienne? Je peux lire le scénario? | And Gallienne's film? Can I read the script? | #815: Et le film de Gallienne ? Je peux lire le scénario | verbatim |
+| 4 | Andréa | Pas maintenant, Hippolyte. | Not now, Hippolyte. | new | new |
+| 5 | Hippolyte | Dis-moi au moins de quoi ça parle! | At least tell me what it | #817: Dis-moi au moins de quoi ça parle | verbatim |
+| 6 | Andréa | Gabriel? Désolée pour hier. | Gabriel? Sorry about yesterday. | #818: Désolée pour hier | verbatim |
+| 7 | Andréa | Line Renaud, c'était une idée de génie. | Line Renaud was a stroke of genius. | #819: Line Renaud, c'était une idée de génie | verbatim |
+| 8 | Gabriel | Merci, Andréa. | Thank you, Andréa. | new | new |
+| 9 | Gabriel | Moi aussi, je suis désolé. | I | #820: Moi aussi, je suis | verbatim |
+| 10 | Gabriel | Je ne t'abandonnerai pas. | I won | #821: Je ne t'abandonnerai pas | verbatim |
+| 11 | Gabriel | Quand tu voudras un enfant, je t'emmènerai en Hollande. | When you want a child, I | #821: un enfant<br>#822: Je t'emmènerai en Hollande | verbatim |
+| 12 | Andréa | Oh, Gabriel! Tu es bête! | Oh, Gabriel! You | new | new |
+| 13 | Andréa | Sans toi, je crois que j'arrêterais ce métier. | Without you, I think I | #824: Sans toi, je crois que j'arrêterais ce métier | verbatim |
+| 14 | Gabriel | Oui, Sue Ellen! | Yes, Sue Ellen! | #825: Oui, Sue Ellen | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'A Tavernier film? Great!' Tavernier is a famous French director, so Hippolyte is excited. The second word is borrowed from English, and the French use it all the time.
+- 'There's no part for you.' Andréa uses the informal 'tu' form with 'you', showing familiarity.
+- 'And Gallienne's film?' French has no apostrophe-s: you say 'the film of Gallienne'.
+- 'Can I read the script?' The verb 'can' is followed directly by the verb 'to read', in its basic form.
+- 'Not now, Hippolyte.' Andréa has no time for him. She has someone more important to talk to.
+- 'At least tell me what it's about!' A casual command, with the word for 'me' joined on after it. He uses the casual 'you' with Andréa straight away; that's Hippolyte.
+- 'Gabriel? Sorry about yesterday.' The word for 'sorry' has an extra letter on the end in writing because Andréa is a woman. You can't hear it, but it's there.
+- 'Line Renaud was a stroke of genius.' Literally 'Line Renaud, it was an idea of genius'. French often names the topic first, then sums it up with 'it was'.
+- 'Thank you, Andréa.' Gabriel is touched; Andréa doesn't often admit she was wrong.
+- 'I'm sorry too.' The first two words, 'me too', are the simplest way to say you feel the same. This time the word for 'sorry' has no extra letter, because Gabriel is a man.
+- 'I won't abandon you.' This verb is in the future tense: you add an ending that sounds like 'ay' to the whole verb. During their row he told her to find someone else when she wants a baby. Now he takes it back.
+- 'When you want a child, I'll take you to Holland.' Another future verb at the end. It's a gentle joke between friends: in the Netherlands, clinics can help a woman have a baby on her own, and Gabriel offers to go with her.
+- 'Oh, Gabriel! You're silly!' In the show, Andréa calls him something ruder, but with a big smile. It's affection.
+- 'Without you, I think I'd quit this job.' The last verb means 'would stop'. Its ending makes it something that would happen, not something that will. A big confession from tough Andréa.
+- 'Yes, Sue Ellen!' Gabriel teases her with the name of a very dramatic heroine from an old American soap opera. They're friends again. Good. Let's listen to the whole scene again.

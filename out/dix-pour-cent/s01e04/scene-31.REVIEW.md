@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s01e04-scene-31` — L'Allemand se retire  (The German Pulls Out)
+# dix-pour-cent-s01e04-scene-31: review sheet
 
-- **Source**: `sources/dix-pour-cent/s01/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "arlette": "emilie", "lea": "lucie", "mathias": "marcel"}`
-- **Labels**: `{"arlette": "Arlette", "lea": "Andréa", "mathias": "Mathias"}`
+Title: L'Allemand se retire  (The German Pulls Out)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S01E04
 
-## Part 1 — Intro
-> After Audrey Fleurot's triumph at the UNICEF gala, the next morning back at ASK begins in panic. Andréa and Gabriel are scrambling to keep Mathias's famous clients from following him to the rival agency StarMédia. Then Arlette walks in with news about Jonas Hirsch, the German businessman who wanted to buy the agency from Samuel's widow Hélène. Listen to the French first; don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Fais une liste des acteurs de Mathias. Il faut faire vite. | Make a list of Mathias | 804:Fais une liste des acteurs de Mathias, 805:mais il faut faire vite |
-| 1 | `arlette` (Arlette) | L'Allemand se retire. | The German is pulling out. | 808:L'Allemand se retire |
-| 2 | `lea` (Andréa) | Quoi? | What? | 809:Quoi |
-| 3 | `arlette` (Arlette) | Il a appris que Mathias rejoint StarMédia. | He heard that Mathias is joining StarMédia. | 810:Il a appris que Mathias rejoint StarMédia |
-| 4 | `arlette` (Arlette) | Il dit que sans lui, l'agence va perdre trop de valeur. | He says that without him, the agency is going to lose too much value. | 811:Il dit que sans lui, l'agence va perdre trop de valeur |
-| 5 | `lea` (Andréa) | Tu en es sûre? Qu'est-ce qu'Hélène dit? | Are you sure about it? What does Hélène say? | 812:Tu en es, 814:Qu'est-ce qu'Hélène dit |
-| 6 | `arlette` (Arlette) | Elle est furieuse contre Mathias. | She | 815:Elle est furieuse contre Mathias |
-| 7 | `lea` (Andréa) | Et s'il l'avait fait exprès? Pour sauver l'agence! | And what if he did it on purpose? To save the agency! | 819:Et s'il l'avait fait exprès, 816:Il l'a fait exprès |
-| 8 | `lea` (Andréa) | Un acte généreux de Mathias? Quelle blague! | A generous act from Mathias? What a joke! | 821:Un acte généreux de Mathias ? Quelle blague |
-| 9 | `arlette` (Arlette) | Peut-être pas généreux, mais c'est un stratège. | Maybe not generous, but he | 822:Peut-être pas généreux, mais c'est un stratège |
-| 10 | `mathias` (Mathias) | Il se retire? | He | 826:Il se retire |
-| 11 | `mathias` (Mathias) | Non, je n'ai pas dit à monsieur Hirsch que je rejoignais StarMédia. | No, I didn | 827:Non, je n'ai pas dit à, 827:Hirsch que je rejoignais StarMédia |
-| 12 | `mathias` (Mathias) | Je ne sais pas comment il l'a appris. Hélène, calme-toi. | I don | 828:Je ne sais pas comment il l'a appris, 829:Hélène, calme-toi |
-| 13 | `arlette` (Arlette) | Bravo, Mathias! Laisse-moi t'embrasser. | Bravo, Mathias! Let me kiss you. | 831:Bravo, Mathias, 834:Laisse-moi t'embrasser |
-| 14 | `mathias` (Mathias) | Merci, Hélène. Je te rappelle. | Thank you, Hélène. I | 833:Merci, 833:Je te rappelle |
-| 15 | `lea` (Andréa) | Super, Mathias! Tu as fait quelque chose de formidable. Bravo! | Great, Mathias! You did something wonderful. Bravo! | 835:Super, Mathias, 836:Tu as fait quelque chose de formidable, 837:Bravo |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Mathias wanted to leave ASK in secret, and instead his leak scared away the German buyer and made him look like a hero. See you next time!
-- **Closing**: `arlette`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Fais une liste des acteurs de Mathias. Il faut faire vite. | Make a list of Mathias | #804: Fais une liste des acteurs de Mathias<br>#805: mais il faut faire vite | verbatim |
+| 2 | Arlette | L'Allemand se retire. | The German is pulling out. | #808: L'Allemand se retire | verbatim |
+| 3 | Andréa | Quoi? | What? | #809: Quoi | verbatim |
+| 4 | Arlette | Il a appris que Mathias rejoint StarMédia. | He heard that Mathias is joining StarMédia. | #810: Il a appris que Mathias rejoint StarMédia | verbatim |
+| 5 | Arlette | Il dit que sans lui, l'agence va perdre trop de valeur. | He says that without him, the agency is going to lose too much value. | #811: Il dit que sans lui, l'agence va perdre trop de valeur | verbatim |
+| 6 | Andréa | Tu en es sûre? Qu'est-ce qu'Hélène dit? | Are you sure about it? What does Hélène say? | #812: Tu en es<br>#814: Qu'est-ce qu'Hélène dit | verbatim |
+| 7 | Arlette | Elle est furieuse contre Mathias. | She | #815: Elle est furieuse contre Mathias | verbatim |
+| 8 | Andréa | Et s'il l'avait fait exprès? Pour sauver l'agence! | And what if he did it on purpose? To save the agency! | #819: Et s'il l'avait fait exprès<br>#816: Il l'a fait exprès | verbatim |
+| 9 | Andréa | Un acte généreux de Mathias? Quelle blague! | A generous act from Mathias? What a joke! | #821: Un acte généreux de Mathias ? Quelle blague | verbatim |
+| 10 | Arlette | Peut-être pas généreux, mais c'est un stratège. | Maybe not generous, but he | #822: Peut-être pas généreux, mais c'est un stratège | verbatim |
+| 11 | Mathias | Il se retire? | He | #826: Il se retire | verbatim |
+| 12 | Mathias | Non, je n'ai pas dit à monsieur Hirsch que je rejoignais StarMédia. | No, I didn | #827: Non, je n'ai pas dit à<br>#827: Hirsch que je rejoignais StarMédia | verbatim |
+| 13 | Mathias | Je ne sais pas comment il l'a appris. Hélène, calme-toi. | I don | #828: Je ne sais pas comment il l'a appris<br>#829: Hélène, calme-toi | verbatim |
+| 14 | Arlette | Bravo, Mathias! Laisse-moi t'embrasser. | Bravo, Mathias! Let me kiss you. | #831: Bravo, Mathias<br>#834: Laisse-moi t'embrasser | verbatim |
+| 15 | Mathias | Merci, Hélène. Je te rappelle. | Thank you, Hélène. I | #833: Merci<br>#833: Je te rappelle | verbatim |
+| 16 | Andréa | Super, Mathias! Tu as fait quelque chose de formidable. Bravo! | Great, Mathias! You did something wonderful. Bravo! | #835: Super, Mathias<br>#836: Tu as fait quelque chose de formidable<br>#837: Bravo | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Make a list of Mathias's actors. We have to be quick.' A casual command at the start, and at the end the impersonal phrase for 'it is necessary to act fast'.
+- 'The German is pulling out.' A reflexive verb that literally means 'withdraws himself'.
+- 'What?' Andréa can hardly believe her ears.
+- 'He heard that Mathias is joining StarMédia.' Literally 'he learned that Mathias joins StarMédia'.
+- 'He says that without him, the agency is going to lose too much value.' Because Mathias represents the biggest stars at ASK, the German buyer no longer wants the company without him.
+- 'Are you sure about it? What does Hélène say?' The little word before 'are' means 'of it'.
+- 'She's furious with Mathias.' In this moment, Hélène was hoping to sell the agency for millions, and now the deal is dead.
+- 'And what if he did it on purpose? To save the agency!' The phrase at the end of the question means 'on purpose'. Suddenly the agents imagine that Mathias only pretended to leave in order to scare off the German buyer.
+- 'A generous act from Mathias? What a joke!' Andréa isn't convinced so easily.
+- 'Maybe not generous, but he's a strategist.' Arlette thinks Mathias planned the whole thing like a chess game.
+- 'He's pulling out?' At that very moment, the lift doors open and Mathias steps out on the phone with Hélène, who is shouting at him.
+- 'No, I didn't tell Mr Hirsch that I was joining StarMédia.' Poor Mathias is telling the complete truth: he really was planning to leave, and never meant for the German buyer to find out!
+- 'I don't know how he found out. Hélène, calm down.' A reflexive command at the end: 'calm yourself'.
+- 'Bravo, Mathias! Let me kiss you.' Before Mathias can even understand what is happening, Arlette throws her arms around his neck.
+- 'Thank you, Hélène. I'll call you back.' Baffled, Mathias hangs up the phone.
+- 'Great, Mathias! You did something wonderful. Bravo!' Notice how 'something' is linked to the adjective 'wonderful' with the little word for 'of'. Without meaning to, Mathias has become the saviour of the agency.

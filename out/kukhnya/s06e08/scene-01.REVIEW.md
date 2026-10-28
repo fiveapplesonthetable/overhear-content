@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Сеня, ты чего там вдруг завис? | Senya, why did you freeze up over there? | #1 00:00:34: Сень, ты чего завис | adapted: adapted |
-| 2 | Сеня | Шеф, вы не хотите мне палец сломать? | Chef, would you like to break my finger? | #2 00:00:36: Шеф, вы не хотите мне палец сломать | adapted: adapted |
-| 3 | Шеф | Не будешь работать, я тебе спину сломаю! | If you do not work, I will break your back! | #3 00:00:38: Не будешь работать, я тебе хребет сломаю | adapted: adapted |
-| 4 | Сеня | Я четыре года назад порезал себе палец. | Four years ago I cut my finger. | #6 00:00:44: я четыре года назад себе слайсером отрезал палец | adapted: adapted |
-| 5 | Шеф | А на следующий день он страховку оформил. | And the very next day he took out an insurance policy. | #8 00:00:49: А на следующий день это животное себе страховку оформил | adapted: adapted |
-| 6 | Шеф | И за четыре года нет ни одной царапины. | And in four years he has not had a single scratch. | #9 00:00:52: И за 4 года | adapted: adapted |
-| 7 | Сеня | А сегодня последний день этой моей страховки. | And today is the very last day of this insurance of mine. | #10 00:00:54: А сегодня последний день этой страховки | adapted: adapted |
-| 8 | Сеня | Если палец будет сломан, я получу деньги. | If my finger is broken, I will get money. | #12 00:01:00: А если палец будет сломан, я получу | adapted: adapted |
-| 9 | Сеня | По-моему, это просто отличный и выгодный бизнес. | In my opinion, it is simply great and profitable business. | #13 00:01:02: просто нормальный бизнес | adapted: adapted |
-| 10 | Шеф | Да ты лучше себе сразу голову сломай! | You might as well break your own head right away! | #13 00:01:02: Да ты себе голову сломай | adapted: adapted |
-| 11 | Шеф | За голову тебе явно больше денег заплатят. | They will clearly pay you more money for your head. | #14 00:01:05: Явно больше заплатил | adapted: adapted |
-| 12 | Шеф | За его пустую голову дадут совсем немного. | They will give very little for his empty head. | #14 00:01:05: За его голову тысяч семь дадут | adapted: adapted |
+| 1 | Шеф | Сеня, ты чего там вдруг завис? | Senya, why did you freeze up over there? | #1: Сень, ты чего завис | adapted: adapted |
+| 2 | Сеня | Шеф, вы не хотите мне палец сломать? | Chef, would you like to break my finger? | #2: Шеф, вы не хотите мне палец сломать | adapted: adapted |
+| 3 | Шеф | Не будешь работать, я тебе спину сломаю! | If you do not work, I will break your back! | #3: Не будешь работать, я тебе хребет сломаю | adapted: adapted |
+| 4 | Сеня | Я четыре года назад порезал себе палец. | Four years ago I cut my finger. | #6: я четыре года назад себе слайсером отрезал палец | adapted: adapted |
+| 5 | Федя | А на следующий день он страховку оформил. | And the very next day he took out an insurance policy. | #8: А на следующий день это животное себе страховку оформил | adapted: adapted |
+| 6 | Федя | И за четыре года нет ни одной царапины. | And in four years he has not had a single scratch. | #9: И за 4 года | adapted: adapted |
+| 7 | Сеня | А сегодня последний день этой моей страховки. | And today is the very last day of this insurance of mine. | #10: А сегодня последний день этой страховки | adapted: adapted |
+| 8 | Сеня | Если палец будет сломан, я получу деньги. | If my finger is broken, I will get money. | #12: А если палец будет сломан, я получу | adapted: adapted |
+| 9 | Сеня | По-моему, это просто отличный и выгодный бизнес. | In my opinion, it is simply great and profitable business. | #13: просто нормальный бизнес | adapted: adapted |
+| 10 | Шеф | Да ты лучше себе сразу голову сломай! | You might as well break your own head right away! | #13: Да ты себе голову сломай | adapted: adapted |
+| 11 | Шеф | За голову тебе явно больше денег заплатят. | They will clearly pay you more money for your head. | #14: Явно больше заплатил | adapted: adapted |
+| 12 | Федя | За его пустую голову дадут совсем немного. | They will give very little for his empty head. | #14: За его голову тысяч семь дадут | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, why did you freeze up over there?' Spoken Russian keeps this brisk, leaning on 'Senya' and finishing on 'froze up'.
-- 'Chef, would you like to break my finger?' The negative particle sits right before the verb meaning 'want' to negate the statement.
-- 'If you do not work, I will break your back!' Notice how Russian expresses 'not' and 'will break' with crisp inflection rather than helper words. Senya answers right away.
-- 'Four years ago I cut my finger.' Senya brings out the contrast between 'I' and 'four' in a few short words.
-- 'And the very next day he took out an insurance policy.' In Russian, the idea of 'and' flows naturally into 'to register officially' without extra filler words.
-- 'And in four years he has not had a single scratch.' Notice how Russian expresses 'and' and 'scratch' with crisp inflection rather than helper words. Senya answers right away.
-- 'And today is the very last day of this insurance of mine.' Here the Russian phrasing highlights 'and' before landing on 'insurance'.
-- 'If my finger is broken, I will get money.' Senya brings out the contrast between 'if' and 'finger' in a few short words.
-- 'In my opinion, it is simply great and profitable business.' Senya anchors the line on 'in my opinion', while 'business' completes the thought. Chef Barinov answers right away.
-- 'You might as well break your own head right away!' In Russian, the idea of 'yes' flows naturally into 'to break' without extra filler words.
-- 'They will clearly pay you more money for your head.' The meaning hinges on 'for' working together with 'to pay' in spoken Russian.
-- 'They will give very little for his empty head.' In Russian, the idea of 'for' flows naturally into 'a little' without extra filler words.
+- 'Senya, why did you freeze up over there?' Wondering why Fedya freeze up over there cuts straight through the tension between Barinov and Fedya.
+- 'Chef, would you like to break my finger?' Asking whether Barinov likes to break his finger is how Senya puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'If you do not work, I will break your back!' Once if Fedya does not work he will break Fedya's back, Barinov makes sure Fedya hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Four years ago I cut my finger.' Because four years ago he cuts his finger, Senya treats the matter as settled.
+- 'And the very next day he took out an insurance policy.' Explaining that the very next day he took out an insurance policy lays the cards on the table for Barinov.
+- 'And in four years he has not had a single scratch.' Fedya mentions that in four years he has not had a single scratch so Barinov sees what is at stake.
+- 'And today is the very last day of this insurance of mine.' Claiming that today is the very last day of this insurance sounds confident, even if Barinov has doubts.
+- 'If my finger is broken, I will get money.' Pointing out that if his finger is broken he will get money gives Barinov a sobering reality check.
+- 'In my opinion, it is simply great and profitable business.' Senya explains that in his opinion it is simply great and profitable business, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You might as well break your own head right away!' Once Fedya might as well break Fedya's own head right away, Barinov makes sure Fedya hears every word.
+- 'They will clearly pay you more money for your head.' Noting that they will clearly pay Fedya more money for Fedya's head keeps Barinov's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'They will give very little for his empty head.' Even though they will give very little for his empty head, Fedya keeps a steady face in front of Barinov.

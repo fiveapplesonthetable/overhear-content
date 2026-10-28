@@ -7,8 +7,7 @@ SCENE = 1
 TITLE = 'Le poste à New York  (The New York Position)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In their Paris apartment, talent agent Andrea Martel discusses her legal battle with partner Colette Brancillon. American agency UBA withdrew its New York executive offer after learning Andrea is expecting a baby. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to Andrea and Colette again at full speed."
 OUTRO = "Andrea and Colette resolve to fight the unfair hiring discrimination, finding strength in their growing family. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'says'. You'll catch them now. See you next time!"
 CLOSING = ('colette', 'À bientôt!')
 STORY = [
-    ('lea', 'Mon avocat dit que la situation est compliquée.', 'My lawyer says the situation is complicated.', [(6, 'Alors, il dit quoi, ton avocat ?'), (7, 'Il dit que ça sent pas bon,')], ''),
+    ('andrea', 'Mon avocat dit que la situation est compliquée.', 'My lawyer says the situation is complicated.', [(6, 'Alors, il dit quoi, ton avocat ?'), (7, 'Il dit que ça sent pas bon,')], ''),
     ('colette', "Qu'est-ce que l'agence UBA essaie de prouver?", 'What is agency UBA trying to prove?', [(7, "UBA est en train d'essayer de prouver")], ''),
-    ('lea', "Ils disent que d'autres candidates voulaient le poste.", 'They say other candidates wanted the position.', [(8, "que j'étais pas la seule candidate pour le poste à New York.")], ''),
+    ('andrea', "Ils disent que d'autres candidates voulaient le poste.", 'They say other candidates wanted the position.', [(8, "que j'étais pas la seule candidate pour le poste à New York.")], ''),
     ('colette', "C'est faux, ils mentent complètement!", 'That is false, they are lying completely!', [(2, "Oui, mais vous savez qu'ils mentent.")], ''),
-    ('lea', 'Ils refusent une femme enceinte à New York.', 'They refuse a pregnant woman in New York.', [(9, "c'est quand tu leur as dit que t'étais enceinte")], ''),
+    ('andrea', 'Ils refusent une femme enceinte à New York.', 'They refuse a pregnant woman in New York.', [(9, "c'est quand tu leur as dit que t'étais enceinte")], ''),
     ('colette', "C'est une vraie discrimination à l'embauche.", 'That is real hiring discrimination.', [(11, "alors il n'y a plus de discrimination à l'embauche.")], ''),
-    ('lea', 'Mais nous allons devoir nous battre en justice.', 'But we will have to fight in court.', [(3, "je veux qu'ils paient pour ce qu'ils ont fait.")], ''),
+    ('andrea', 'Mais nous allons devoir nous battre en justice.', 'But we will have to fight in court.', [(3, "je veux qu'ils paient pour ce qu'ils ont fait.")], ''),
     ('colette', "Ne t'inquiète pas, nous allons gagner.", 'Do not worry, we are going to win.', [(13, 'On va gagner.')], ''),
-    ('lea', 'Tu es vraiment très optimiste, Colette.', 'You are really very optimistic, Colette.', [(14, 'Tu sais pourquoi ?')], ''),
+    ('andrea', 'Tu es vraiment très optimiste, Colette.', 'You are really very optimistic, Colette.', [(14, 'Tu sais pourquoi ?')], ''),
     ('colette', 'Regarde plutôt cette belle échographie!', 'Look instead at this lovely ultrasound!', [(14, 'Regarde.'), (16, 'Laisse ta main, regarde.')], ''),
-    ('lea', 'Notre petite fille bouge déjà beaucoup.', 'Our baby girl is already moving a lot.', [(19, 'notre fille.')], ''),
+    ('andrea', 'Notre petite fille bouge déjà beaucoup.', 'Our baby girl is already moving a lot.', [(19, 'notre fille.')], ''),
     ('colette', 'Pose ta main ici sur ton ventre.', 'Place your hand here on your belly.', [(16, 'Laisse ta main, regarde.')], ''),
-    ('lea', 'Elle a déjà un fort caractère!', 'She already has a strong personality!', [(18, "elle fait un doigt d'honneur.")], ''),
+    ('andrea', 'Elle a déjà un fort caractère!', 'She already has a strong personality!', [(18, "elle fait un doigt d'honneur.")], ''),
     ('colette', 'Elle ressemble beaucoup à sa maman.', 'She looks a lot like her mother.', [(19, 'notre fille.')], ''),
 ]
 WALK = [

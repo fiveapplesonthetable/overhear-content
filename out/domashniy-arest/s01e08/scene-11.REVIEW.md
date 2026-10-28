@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёша | Уже целый час прошёл! | A whole hour has passed already! | #146 00:09:48: Уже час прошел | verbatim |
-| 2 | Аня | И что? Это сложная работа. | So what? This is complex work. | #147 00:09:50: И что<br>#148 00:09:50: долго чините | verbatim |
-| 3 | Лёша | Вы очень долго чините мой танк. | You are taking very long to fix my tank. | #148 00:09:50: Это долго чините | verbatim |
-| 4 | Аня | Ты думаешь, это делается за пятнадцать минут? | Do you think this is done in fifteen minutes? | #149 00:09:52: за 15 минут делается | adapted: ASR 'кето' corrected to 'это' |
-| 5 | Аня | Это сложная современная техника! | This is sophisticated modern equipment! | #150 00:09:55: Это сложная современная техника | verbatim |
-| 6 | Лёша | Я сам его уже раскручивал. | I took it apart myself before. | #151 00:09:57: Я уже так раскручивал | verbatim |
-| 7 | Аня | Одно дело ты, а другое — взрослый человек. | One thing is you, another is a grown adult. | #152 00:09:59: Одно дело ты раскручивал<br>#153 00:10:01: а другое взрослый опытный человек | verbatim |
-| 8 | Аня | У тебя тут больно? | Does it hurt you here? | #154 00:10:03: Больно | verbatim |
-| 9 | Лёша | Нет, мне просто щекотно. | No, it just tickles. | #155 00:10:05: Хикотно | adapted: ASR 'хикотно' normalized to 'щекотно' |
-| 10 | Аня | Что ты стоишь над душой? | Why are you hovering over me? | #156 00:10:06: Что ты стал над душой | verbatim |
-| 11 | Аня | Дядя Аркадий всё починит и позовёт. | Uncle Arkady will fix everything and call you. | #157 00:10:08: Дядя Аркадий починит и позовет | verbatim |
-| 12 | Аня | Иди в комнату и не мешай! | Go into the room and don't get in the way! | #158 00:10:10: Иди, не мешай | verbatim |
+| 1 | Лёша | Уже целый час прошёл! | A whole hour has passed already! | #146: Уже час прошел | verbatim |
+| 2 | Аркадий | И что? Это сложная работа. | So what? This is complex work. | #147: И что<br>#148: долго чините | verbatim |
+| 3 | Лёша | Вы очень долго чините мой танк. | You are taking very long to fix my tank. | #148: Это долго чините | verbatim |
+| 4 | Аркадий | Ты думаешь, это делается за пятнадцать минут? | Do you think this is done in fifteen minutes? | #149: за 15 минут делается | adapted: ASR 'кето' corrected to 'это' |
+| 5 | Аркадий | Это сложная современная техника! | This is sophisticated modern equipment! | #150: Это сложная современная техника | verbatim |
+| 6 | Лёша | Я сам его уже раскручивал. | I took it apart myself before. | #151: Я уже так раскручивал | verbatim |
+| 7 | Аркадий | Одно дело ты, а другое — взрослый человек. | One thing is you, another is a grown adult. | #152: Одно дело ты раскручивал<br>#153: а другое взрослый опытный человек | verbatim |
+| 8 | Аркадий | У тебя тут больно? | Does it hurt you here? | #154: Больно | verbatim |
+| 9 | Лёша | Нет, мне просто щекотно. | No, it just tickles. | #155: Хикотно | adapted: ASR 'хикотно' normalized to 'щекотно' |
+| 10 | Аркадий | Что ты стоишь над душой? | Why are you hovering over me? | #156: Что ты стал над душой | verbatim |
+| 11 | Аркадий | Дядя Аркадий всё починит и позовёт. | Uncle Arkady will fix everything and call you. | #157: Дядя Аркадий починит и позовет | verbatim |
+| 12 | Аркадий | Иди в комнату и не мешай! | Go into the room and don't get in the way! | #158: Иди, не мешай | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

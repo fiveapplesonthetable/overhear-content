@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 11
-TITLE = "Комплимент от шефа  (A Compliment from the Chef)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Комплимент от шефа  (A Compliment from the Chef)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "elena": "angelina"}
-LABELS = {"fedya": "Федя", "elena": "Елена"}
+LABELS = {'elena': 'Елена', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Acting as guest head chef for the day, Elena Sokolova observes fish specialist Fedya at his cooking station. She surprises the defensive line cook by offering expert praise for his frying technique, comparing his craft to the legendary Paul Bocuse in Lyon. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this flattering kitchen exchange line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Charmed by Elena's generous compliments, Fedya happily redoubles his efforts at the fish station. See you next time!"
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('elena', 'Федя, скажите, вы случайно учились во Франции?', 'Fedya, tell me, did you by chance study in France?', [(125, 'Федя, вы учились во Франции')], ''),
     ('fedya', 'Делать мне больше нечего, чем учиться там!', 'Like I had nothing better to do than study there!', [(126, 'Дел с меня больше нечего')], ''),

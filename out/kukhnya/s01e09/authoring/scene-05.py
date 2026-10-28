@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 9
 SCENE = 5
-TITLE = "Прятки с дядей Лёвой  (Hide and Seek with Uncle Lyova)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Прятки с дядей Лёвой  (Hide and Seek with Uncle Lyova)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "alisa": "angelina", "chef": "anja"}
-LABELS = {"alisa": "Алиса", "chef": "Шеф"}
+LABELS = {'alisa': 'Алиса', 'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = 'In the restaurant, Chef Viktor Barinov entrusts his lively daughter Alisa to sous-chef Lyova. Alisa quickly takes control of the situation and convinces Lyova to play hide-and-seek. Listen to their amusing dialogue in Russian first, and then we will examine each sentence.'
 OPENER = 'Now, let us examine the vocabulary and phrasing of this entertaining exchange sentence by sentence.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A hilarious situation where little Alisa easily outsmarts the tall sous-chef. Next time you watch the episode, listen for the Russian expressions for 'allergy' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("alisa", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
-    ('chef', 'Лёва, сиди здесь и смотри за Алисой.', 'Lyova, sit here and watch over Alisa.', [(93, 'Сиди здесь.'), (94, 'Смотри за Алисой.')], ''),
-    ('chef', 'Глаз с нее не спускай.', 'Do not take your eyes off her.', [(95, 'Глаз с нее не спускай.')], ''),
-    ('chef', 'И не давай шоколад, у нее аллергия.', 'And do not give her chocolate, she has an allergy.', [(96, 'И не давай шоколад. У нее аллергия.')], ''),
+    ('barinov', 'Лёва, сиди здесь и смотри за Алисой.', 'Lyova, sit here and watch over Alisa.', [(93, 'Сиди здесь.'), (94, 'Смотри за Алисой.')], ''),
+    ('barinov', 'Глаз с нее не спускай.', 'Do not take your eyes off her.', [(95, 'Глаз с нее не спускай.')], ''),
+    ('barinov', 'И не давай шоколад, у нее аллергия.', 'And do not give her chocolate, she has an allergy.', [(96, 'И не давай шоколад. У нее аллергия.')], ''),
     ('alisa', 'Дядя Лёва, давай играть!', 'Uncle Lyova, let us play!', [(97, 'Давай играть.')], ''),
-    ('alisa', 'Может, лучше просто посидим?', 'Maybe we could just sit here instead?', [(98, 'Может, лучше просто посидим?')], ''),
+    ('lyova', 'Может, лучше просто посидим?', 'Maybe we could just sit here instead?', [(98, 'Может, лучше просто посидим?')], ''),
     ('alisa', 'Я папе скажу, он тебя уволит!', 'I will tell Dad, he will fire you!', [(99, 'Я папе скажу. Он тебя уволит.')], ''),
-    ('alisa', 'Хорошо, во что будем играть?', 'All right, what should we play?', [(101, 'Во что будем играть?')], ''),
+    ('lyova', 'Хорошо, во что будем играть?', 'All right, what should we play?', [(101, 'Во что будем играть?')], ''),
     ('alisa', 'Давай в прятки!', 'Let us play hide and seek!', [], ''),
-    ('alisa', 'А кто будет прятаться?', 'And who will hide?', [(103, 'А кто будет прятаться?')], ''),
+    ('lyova', 'А кто будет прятаться?', 'And who will hide?', [(103, 'А кто будет прятаться?')], ''),
     ('alisa', 'Конечно, я буду прятаться!', 'Of course, I will hide!', [(104, 'Конечно, я.')], ''),
     ('alisa', 'Тебя такого длинного нигде не спрячешь.', 'You are so tall, you cannot be hidden anywhere.', [(104, 'Тебя такого длинного нигде не спрячешь.')], ''),
     ('alisa', 'Закрывай глаза, считай до ста.', 'Close your eyes, count to a hundred.', [(105, 'Закрывай глаза, считай до ста.')], ''),
-    ('alisa', 'Раз, два, три, четыре...', 'One, two, three, four...', [(106, 'Раз, два.')], ''),
+    ('lyova', 'Раз, два, три, четыре...', 'One, two, three, four...', [(106, 'Раз, два.')], ''),
     ('alisa', 'Считай медленно, я иду прятаться!', 'Count slowly, I am going to hide!', [], ''),
 ]
 WALK = [

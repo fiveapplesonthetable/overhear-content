@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ты что, совсем совесть потеряла? | Have you completely lost your conscience? | #313 00:21:38: Ты что, совсем совесть потеряла | adapted: adapted |
-| 2 | Шеф | А ну быстро ко мне в кабинет! | March into my office right now! | #314 00:21:43: ко мне в кабинет | adapted: adapted |
-| 3 | Лёва | Виктор Петрович, не кричите на Катю! | Victor Petrovich, do not shout at Katya! | #317 00:21:48: Виктор Петрович, не кричите на Катю | adapted: adapted |
-| 4 | Лёва | Ей нельзя нервничать, у неё обострение! | She must not get nervous, she is having a flare-up! | #318 00:21:52: Ей нельзя нервничать, у нее обострение | adapted: adapted |
-| 5 | Шеф | Какое ещё у тебя обострение, дочка? | What kind of flare-up are you having, daughter? | #319 00:21:54: Какое у тебя обострение | adapted: adapted |
-| 6 | Шеф | Лёва, у тебя с головой всё в порядке? | Lyova, is everything alright with your head? | #321 00:22:01: У тебя с головой все в порядке | adapted: adapted |
-| 7 | Лёва | Это Макс наговорил про неё! | It was Max who told me all that about her! | #322 00:22:03: Это Макс, он наговорил | adapted: adapted |
-| 8 | Аня | Я ничего, просто Лёва неправильно понял. | I said nothing, Lyova simply misunderstood me. | #324 00:22:09: Я ничего, просто Лёв, меня неправильно понял | adapted: adapted |
-| 9 | Лёва | Так это всё неправда была, да? | So all of that was untrue, right? | #325 00:22:12: Так это всё неправда была, да | adapted: adapted |
-| 10 | Шеф | И что она в клинике лежала? | And that she stayed in a clinic? | #327 00:22:16: И что, она в клинике лежала | adapted: adapted |
-| 11 | Аня | Виктор Петрович, пожалуйста, только не надо! | Victor Petrovich, please, just do not! | #328 00:22:20: Виктор Петрович, не надо | adapted: adapted |
-| 12 | Шеф | Беги отсюда скорее, ну же, стой! | Run away from here quickly, come on, stop! | #329 00:22:24: Беги<br>#330 00:22:26: Стой! | adapted: adapted |
+| 1 | Шеф | Ты что, совсем совесть потеряла? | Have you completely lost your conscience? | #313: Ты что, совсем совесть потеряла | adapted: adapted |
+| 2 | Шеф | А ну быстро ко мне в кабинет! | March into my office right now! | #314: ко мне в кабинет | adapted: adapted |
+| 3 | Лёва | Виктор Петрович, не кричите на Катю! | Victor Petrovich, do not shout at Katya! | #317: Виктор Петрович, не кричите на Катю | adapted: adapted |
+| 4 | Лёва | Ей нельзя нервничать, у неё обострение! | She must not get nervous, she is having a flare-up! | #318: Ей нельзя нервничать, у нее обострение | adapted: adapted |
+| 5 | Шеф | Какое ещё у тебя обострение, дочка? | What kind of flare-up are you having, daughter? | #319: Какое у тебя обострение | adapted: adapted |
+| 6 | Шеф | Лёва, у тебя с головой всё в порядке? | Lyova, is everything alright with your head? | #321: У тебя с головой все в порядке | adapted: adapted |
+| 7 | Лёва | Это Макс наговорил про неё! | It was Max who told me all that about her! | #322: Это Макс, он наговорил | adapted: adapted |
+| 8 | Макс | Я ничего, просто Лёва неправильно понял. | I said nothing, Lyova simply misunderstood me. | #324: Я ничего, просто Лёв, меня неправильно понял | adapted: adapted |
+| 9 | Лёва | Так это всё неправда была, да? | So all of that was untrue, right? | #325: Так это всё неправда была, да | adapted: adapted |
+| 10 | Шеф | И что она в клинике лежала? | And that she stayed in a clinic? | #327: И что, она в клинике лежала | adapted: adapted |
+| 11 | Макс | Виктор Петрович, пожалуйста, только не надо! | Victor Petrovich, please, just do not! | #328: Виктор Петрович, не надо | adapted: adapted |
+| 12 | Шеф | Беги отсюда скорее, ну же, стой! | Run away from here quickly, come on, stop! | #329: Беги<br>#330: Стой! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your conscience?' Chef Barinov anchors the line on 'you', while 'lost' completes the thought.
-- 'March into my office right now!' In Russian, the idea of 'and' flows naturally into 'office' without extra filler words.
-- 'Victor Petrovich, do not shout at Katya!' Lyova anchors the line on 'not', while 'Katya' completes the thought.
-- 'She must not get nervous, she is having a flare-up!' The grammar packs 'to her' and 'flare-up' into a tight, idiomatic kitchen exchange.
-- 'What kind of flare-up are you having, daughter?' Chef Barinov raises the pitch on 'daughter' to turn the phrase into a direct spoken question.
-- 'Lyova, is everything alright with your head?' Chef Barinov brings out the contrast between 'Lyova' and 'at' in a few short words. Lyova answers right away.
-- 'It was Max who told me all that about her!' Lyova anchors the line on 'this', while 'she' completes the thought.
-- 'I said nothing, Lyova simply misunderstood me.' The grammar packs 'I' and 'understood' into a tight, idiomatic kitchen exchange.
-- 'So all of that was untrue, right?' Lyova anchors the line on 'so', while 'yes' completes the thought. Chef Barinov answers right away.
-- 'And that she stayed in a clinic?' Chef Barinov pairs 'clinic' with 'to lie, to rest' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Victor Petrovich, please, just do not!' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'need'.
-- 'Run away from here quickly, come on, stop!' Here Chef Barinov anchors the thought on 'run' and finishes on 'stop, wait', keeping the spoken rhythm brisk and natural.
+- 'Have you completely lost your conscience?' Checking whether Lyova completely lost Lyova's conscience cuts straight through the tension between Barinov and Lyova.
+- 'March into my office right now!' With the moment and plan at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Victor Petrovich, do not shout at Katya!' Once do not shout at Katya, Lyova makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'She must not get nervous, she is having a flare-up!' Declaring that she must not get nervous she is having a flare up brings Lyova's temper right to the surface.
+- 'What kind of flare-up are you having, daughter?' Asking whether what kind of flare up are Lyova having daughter puts Lyova right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Lyova, is everything alright with your head?' Checking whether everything alright with Lyova's head is how Barinov puts Lyova on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'It was Max who told me all that about her!' Lyova declares that it was Max who told him all as the tension in the room peaks.
+- 'I said nothing, Lyova simply misunderstood me.' Mentioning that he said nothing Lyova simply misunderstood him moves the talk in a new direction.
+- 'So all of that was untrue, right?' Questioning whether all of that was untrue right is how Lyova tests Barinov's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'And that she stayed in a clinic?' When Barinov asks if that she stayed in a clinic, Lyova has to answer fast.
+- 'Victor Petrovich, please, just do not!' Declaring that just do not brings Max's temper right to the surface. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Run away from here quickly, come on, stop!' Saying that Lyova should run away from here quickly come on stop is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.

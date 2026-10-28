@@ -7,8 +7,7 @@ SCENE = 14
 TITLE = 'Panique sur le plateau américain  (Panic on the American Set)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'isabelle': 'emilie', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'isabelle': 'Isabelle', 'lea': 'Andréa'}
+LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias', 'sharon': 'Sharon'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = 'On the bustling American movie set in Paris, star actress Isabelle Huppert and agent Mathias race against time. Disaster strikes when co-star Ben Stiller refuses to leave his trailer after script revisions, threatening the entire evening schedule. Listen to the scene in French first.'
@@ -22,9 +21,9 @@ STORY = [
     ('mathias', 'Avez-vous besoin de quelque chose?', 'Do you need anything?', [(806, 'besoin de quelque chose')], ''),
     ('isabelle', 'Non, merci, tout est prêt.', 'No, thank you, everything is ready.', [(807, 'Non, merci')], ''),
     ('mathias', 'Sharon, avez-vous vu Ben Stiller?', 'Sharon, have you seen Ben Stiller?', [(811, 'vu Ben'), (817, 'Ben Stiller')], ''),
-    ('lea', 'Ben ne sort pas de sa loge.', 'Ben is not leaving his trailer.', [(820, 'not coming out of his trailer'), (824, "Ben n'aime pas")], ''),
-    ('lea', "Il n'aime pas la nouvelle version.", 'He does not like the new version.', [(824, 'dernière version')], ''),
-    ('lea', 'Il dit que son texte est coupé.', 'He says his lines were cut.', [(826, 'coupé tout son texte')], ''),
+    ('sharon', 'Ben ne sort pas de sa loge.', 'Ben is not leaving his trailer.', [(820, 'not coming out of his trailer'), (824, "Ben n'aime pas")], ''),
+    ('sharon', "Il n'aime pas la nouvelle version.", 'He does not like the new version.', [(824, 'dernière version')], ''),
+    ('sharon', 'Il dit que son texte est coupé.', 'He says his lines were cut.', [(826, 'coupé tout son texte')], ''),
     ('isabelle', 'Moi, je suis prête à tourner!', 'As for me, I am ready to shoot!', [(827, 'starting blocks')], ''),
     ('mathias', "Qu'est-ce qu'il nous fait là?", 'What is he doing to us now?', [(828, "Qu'est-ce qu'il nous fait")], ''),
     ('isabelle', 'Ben est un véritable perfectionniste.', 'Ben is a true perfectionist.', [(829, 'Control freak')], ''),

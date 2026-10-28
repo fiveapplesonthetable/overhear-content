@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Губернатор | Ну привет, артист. | Well, hello, performer. | #1128 01:01:55: Ну привет, артист | adapted: «пародист» left out |
-| 2 | Аня | Здравствуйте. | Hello. | #1129 01:02:10: Здравствуйте | verbatim |
-| 3 | Губернатор | Садись, не бойся. Я ведь сам чуть тебя не отпустил. | Sit down, don't be afraid. I very nearly let you go myself. | #1130 01:02:11: не бойся<br>#1131 01:02:21: чуть тебя не отпустил | adapted: присаживайся -> садись (plain word) |
-| 4 | Аня | И что случилось? | So what happened? | new | new: new: Arkady's question links the governor's story |
-| 5 | Губернатор | Повезло: Третьяков перезвонил. | A lucky break: Tretyakov called back. | #1132 01:02:32: повезло<br>#1133 01:02:36: Третьяков перезвонил | adapted: «Представляешь» dropped |
-| 6 | Аня | И что вы ему сказали? | And what did you tell him? | new | new: new |
-| 7 | Губернатор | Я говорю: всё нормально, отпускаем Аникеева. Как же он кричал! | I say: everything's fine, we're releasing Anikeev. How he yelled! | #1136 01:02:45: Все нормально<br>#1137 01:02:47: Отпускаем Аникеева<br>#1138 01:02:49: Как же он | adapted: «рапортую» -> «говорю»; «орал» -> «кричал» (plain word) |
-| 8 | Аня | Ну, извините. | Well, sorry. | #1139 01:02:53: Ну извините | verbatim |
-| 9 | Губернатор | Ну ты молодец, очень похоже. А давай-ка ещё разок! | Well, good for you, it sounded just like him. Come on, do it once more! | #1140 01:02:56: Ну ты молодец<br>#1141 01:02:58: Очень похоже<br>#1142 01:03:00: А давай-ка еще разок | verbatim |
-| 10 | Аня | Ну что ты молчишь? Ты толстый, ты не спортсмен! | Well, why are you so quiet? You're fat, you're no athlete! | new | new: new: a clean stand-in for the crude impression (1146-1151); «молчишь» echoes the Tretyakov call (945) |
-| 11 | Губернатор | Хватит, хватит! | Enough, enough! | #1152 01:03:28: Хватит, хватит | verbatim |
-| 12 | Аня | Простите. | I'm sorry. | #1153 01:03:30: Простите | verbatim |
-| 13 | Губернатор | Один в один. А теперь отдай деньги. | Spot on. And now, give back the money. | #1154 01:03:31: Один в один<br>#1157 01:03:52: отдай | adapted: «Ну ты денежку-то отдай» -> «А теперь отдай деньги» |
-| 14 | Аня | А если не отдам? | And if I don't? | #1164 01:04:24: А если не отдам | verbatim |
-| 15 | Губернатор | Ты сейчас один против всех. Счастливого конца не будет. | Right now you're alone against everyone. There won't be a happy ending. | #1166 01:04:28: сейчас один против всех<br>#1167 01:04:33: не будет | adapted: «Хэппи-энда» -> «Счастливого конца» (Russian words) |
-| 16 | Аня | А ничего я вам не отдам. | Well, I'm not giving you anything. | #1170 01:04:47: А ничего | adapted: «А ничего-то я вам и не отдам» simplified (particles dropped) |
-| 17 | Губернатор | Клоун. | Clown. | #1174 01:05:17: Клоун | verbatim |
+| 1 | Губернатор | Ну привет, артист. | Well, hello, performer. | #1128: Ну привет, артист | adapted: «пародист» left out |
+| 2 | Аркадий | Здравствуйте. | Hello. | #1129: Здравствуйте | verbatim |
+| 3 | Губернатор | Садись, не бойся. Я ведь сам чуть тебя не отпустил. | Sit down, don't be afraid. I very nearly let you go myself. | #1130: не бойся<br>#1131: чуть тебя не отпустил | adapted: присаживайся -> садись (plain word) |
+| 4 | Аркадий | И что случилось? | So what happened? | new | new: new: Arkady's question links the governor's story |
+| 5 | Губернатор | Повезло: Третьяков перезвонил. | A lucky break: Tretyakov called back. | #1132: повезло<br>#1133: Третьяков перезвонил | adapted: «Представляешь» dropped |
+| 6 | Аркадий | И что вы ему сказали? | And what did you tell him? | new | new: new |
+| 7 | Губернатор | Я говорю: всё нормально, отпускаем Аникеева. Как же он кричал! | I say: everything's fine, we're releasing Anikeev. How he yelled! | #1136: Все нормально<br>#1137: Отпускаем Аникеева<br>#1138: Как же он | adapted: «рапортую» -> «говорю»; «орал» -> «кричал» (plain word) |
+| 8 | Аркадий | Ну, извините. | Well, sorry. | #1139: Ну извините | verbatim |
+| 9 | Губернатор | Ну ты молодец, очень похоже. А давай-ка ещё разок! | Well, good for you, it sounded just like him. Come on, do it once more! | #1140: Ну ты молодец<br>#1141: Очень похоже<br>#1142: А давай-ка еще разок | verbatim |
+| 10 | Аркадий | Ну что ты молчишь? Ты толстый, ты не спортсмен! | Well, why are you so quiet? You're fat, you're no athlete! | new | new: new: a clean stand-in for the crude impression (1146-1151); «молчишь» echoes the Tretyakov call (945) |
+| 11 | Губернатор | Хватит, хватит! | Enough, enough! | #1152: Хватит, хватит | verbatim |
+| 12 | Аркадий | Простите. | I'm sorry. | #1153: Простите | verbatim |
+| 13 | Губернатор | Один в один. А теперь отдай деньги. | Spot on. And now, give back the money. | #1154: Один в один<br>#1157: отдай | adapted: «Ну ты денежку-то отдай» -> «А теперь отдай деньги» |
+| 14 | Аркадий | А если не отдам? | And if I don't? | #1164: А если не отдам | verbatim |
+| 15 | Губернатор | Ты сейчас один против всех. Счастливого конца не будет. | Right now you're alone against everyone. There won't be a happy ending. | #1166: сейчас один против всех<br>#1167: не будет | adapted: «Хэппи-энда» -> «Счастливого конца» (Russian words) |
+| 16 | Аркадий | А ничего я вам не отдам. | Well, I'm not giving you anything. | #1170: А ничего | adapted: «А ничего-то я вам и не отдам» simplified (particles dropped) |
+| 17 | Губернатор | Клоун. | Clown. | #1174: Клоун | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

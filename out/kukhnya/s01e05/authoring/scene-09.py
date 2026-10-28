@@ -5,17 +5,16 @@ SEASON = 1
 EPISODE = 5
 SCENE = 9
 TITLE = "Поддержка подруги  (A Friend's Support)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "sasha": "anja"}
-LABELS = {"nastya": "Настя", "sasha": "Саша"}
+LABELS = {'nastya': 'Настя', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "In the quiet service area, waitress Nastya is sobbing after her painful breakup with Max. Her close colleague Sasha comes over to comfort her, telling her not to waste tears on a careless cook and reminding her of her worth. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this supportive conversation between colleagues line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With Sasha's sincere support, Nastya begins to recover her dignity and self-confidence. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('sasha', 'Настя, перестань так сильно расстраиваться!', 'Nastya, stop being so deeply upset!', [(137, 'Да не расстраивайся ты')], ''),
     ('nastya', 'Мне очень больно, он разбил мне сердце.', 'It hurts me very much, he broke my heart.', [], ''),

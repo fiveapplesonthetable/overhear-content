@@ -8,16 +8,10 @@
  "scene": 16,
  "title": "Шеф увольняется  (The Chef Quits)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "vika": "angelina",
-  "anya": "alisa"
- },
  "labels": {
-  "chef": "Шеф",
-  "vika": "Вика",
-  "anya": "Макс"
+  "barinov": "Шеф",
+  "max": "Макс",
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -31,12 +25,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф тут на плите новое меню жжёт.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего особенного не происходит, жжём твоё меню!",
    "gap": 0.55
   },
@@ -46,12 +40,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну уж нет, сейчас поставим огонь в центре.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И будем весело прыгать через этот костёр!",
    "gap": 0.55
   },
@@ -61,17 +55,17 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего у тебя из этого не получится!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Потому что я прямо сейчас сам увольняюсь!",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вика, да не волнуйся ты, он просто пьяный.",
    "gap": 0.55
   },
@@ -81,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я его не защищаю, просто не хочу, чтобы ты расстраивалась.",
    "gap": 0.9
   },
@@ -97,27 +91,27 @@
   },
   {
    "v": "narrator",
-   "t": "'What is going on in the kitchen here?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'kitchen'.",
+   "t": "'What is going on in the kitchen here?' By asking what going on in the kitchen here is, Vika presses Barinov for a straight answer.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф тут на плите новое меню жжёт.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef is burning the new menu on the stove here.' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'is burning'.",
+   "t": "'Chef is burning the new menu on the stove here.' Once Chef is burning the new menu on the stove here, Max can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего особенного не происходит, жжём твоё меню!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Nothing special is happening, we are burning your menu!' Chef Barinov brings out the contrast between 'nothing' and 'special' in a few short words. Vika answers right away.",
+   "t": "'Nothing special is happening, we are burning your menu!' Declaring that nothing special is happening they are burning Max's menu brings Barinov's temper right to the surface. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
@@ -127,27 +121,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Vitya, you are drunk, stop this circus immediately!' Spoken Russian keeps this brisk, leaning on 'Vitya' and finishing on 'noise'.",
+   "t": "'Vitya, you are drunk, stop this circus immediately!' Vika insists that Barinov is drunk stop this circus immediately, leaving Barinov no room to argue.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну уж нет, сейчас поставим огонь в центре.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'No way, right now we will put the fire in the center.' Chef Barinov brings out the contrast between 'come on' and 'certainly' in a few short words.",
+   "t": "'No way, right now we will put the fire in the center.' Since way right now they will put the fire in the center, Barinov does not waste words on excuses.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И будем весело прыгать через этот костёр!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And we will merrily jump over this bonfire!' An emphatic spoken line centered on the verb meaning 'will'. Vika answers right away.",
+   "t": "'And we will merrily jump over this bonfire!' Barinov declares that they will merrily jump over this bonfire as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
@@ -157,37 +151,37 @@
   },
   {
    "v": "narrator",
-   "t": "'If you do not stop right now, I will fine you.' In Russian, the idea of 'if' flows naturally into 'will fine' without extra filler words.",
+   "t": "'If you do not stop right now, I will fine you.' Vika reminds Barinov that if Barinov does not stop right now she will fine Barinov before the moment passes.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего у тебя из этого не получится!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Nothing of the sort will work out for you!' The meaning hinges on 'nothing' working together with 'will work out' in spoken Russian.",
+   "t": "'Nothing of the sort will work out for you!' Insisting that nothing of the sort will work out for Max shows Barinov is not backing down. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Потому что я прямо сейчас сам увольняюсь!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Because I am quitting on my own right now!' In Russian, the idea of 'that is why' flows naturally into 'I quit' without extra filler words. Max answers right away.",
+   "t": "'Because I am quitting on my own right now!' Once because he is quitting on his own right now, Barinov makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вика, да не волнуйся ты, он просто пьяный.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vika, do not worry, he is just drunk.' The grammar packs 'Vika' and 'drunk' into a tight, idiomatic kitchen exchange.",
+   "t": "'Vika, do not worry, he is just drunk.' Max mentions that do not worry he is just drunk so Barinov sees what is at stake.",
    "gap": 0.4
   },
   {
@@ -197,17 +191,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Max, stop constantly defending him in front of me!' The grammar packs 'Max' and 'me' into a tight, idiomatic kitchen exchange.",
+   "t": "'Max, stop constantly defending him in front of me!' By telling Barinov to stop constantly defending him in front, Vika raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я его не защищаю, просто не хочу, чтобы ты расстраивалась.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I am not defending him, I just do not want you to get upset.' Max addresses the listener with the informal singular 'you' alongside 'got upset'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I am not defending him, I just do not want you to get upset.' By being not defending him he just does not want Barinov to get upset, Max keeps his side of the story grounded. Speaking with the close, informal \"you\" strips away any polite distance between them. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -216,12 +210,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Шеф тут на плите новое меню жжёт.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего особенного не происходит, жжём твоё меню!",
    "gap": 0.5
   },
@@ -231,12 +225,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну уж нет, сейчас поставим огонь в центре.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И будем весело прыгать через этот костёр!",
    "gap": 0.5
   },
@@ -246,17 +240,17 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ничего у тебя из этого не получится!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Потому что я прямо сейчас сам увольняюсь!",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вика, да не волнуйся ты, он просто пьяный.",
    "gap": 0.5
   },
@@ -266,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я его не защищаю, просто не хочу, чтобы ты расстраивалась.",
    "gap": 0.9
   },
@@ -276,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Увидимся!",
    "gap": 0.3
   }

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 34
-TITLE = "Проверка икры  (Checking the Caviar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Проверка икры  (Checking the Caviar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
-LABELS = {"senya": "Сеня", "fedya": "Федя"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the Claude Monet kitchen, Fedya and Senya finish preparing the caviar for the VIP table. Fedya inspects the bowl and worries they did not add enough dye, but Senya insists it looks perfectly authentic. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around Checking the Caviar line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "In the kitchen, Fedya worries they did not add enough black dye to the caviar, but Senya reassures him that it looks completely authentic before sending it to the dining room. Next time you watch the episode, listen for the Russian expressions for 'real' and 'suddenly' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, подойди сюда на секунду.', 'Senya, come over here for a second.', [], ''),
     ('senya', 'Что такое, Федя? Всё готово?', 'What is it, Fedya? Is everything ready?', [], ''),
@@ -32,11 +31,11 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Senya, come over here for a second.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'I think we did not finish dyeing it.' — impersonal verb with a negated prefix verb."),
-    (2, None, "'Come on, it is completely black!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'What if Chef sees light caviar eggs?' — hypothetical conjunction followed by a future verb."),
-    (4, None, "'Nobody will notice anything suspicious.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'All right, all right, you convinced me.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Then call the waiter, it is time to serve the dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'Come on, let us bring the caviar into the hall.' — hortative word with a present verb of carrying. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (2, None, "'I think we did not finish dyeing it.' — impersonal verb with a negated prefix verb."),
+    (3, None, "'Come on, it is completely black!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'What if Chef sees light caviar eggs?' — hypothetical conjunction followed by a future verb."),
+    (5, None, "'Nobody will notice anything suspicious.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (8, None, "'All right, all right, you convinced me.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (9, None, "'Then call the waiter, it is time to serve the dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (11, None, "'Come on, let us bring the caviar into the hall.' — hortative word with a present verb of carrying. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]

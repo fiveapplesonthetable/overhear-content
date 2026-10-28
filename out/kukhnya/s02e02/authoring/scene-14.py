@@ -5,29 +5,28 @@ SEASON = 2
 EPISODE = 2
 SCENE = 14
 TITLE = "Разговор подруг  (Friends' Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kristina": "anja"}
-LABELS = {"kristina": "Кристина"}
+LABELS = {'kristina': 'Кристина', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Focused on friends' conversation, Kristina and Sasha chat in the dining room. Sasha asks about the new chef and Kristina says she's going to the doctor. Let's listen closely to Sasha and Kristina's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kristina and Sasha chat in the dining room. Sasha asks about the new chef and Kristina says she's going to the doctor. Next time you watch the episode, listen for the Russian expressions for 'pleasant' and 'appetite' — you will catch every word right away. See you next time!"
-CLOSING = ("kristina", "Пока!")
+CLOSING = ('kristina', 'Пока!')
 STORY = [
-    ('kristina', 'Приятного аппетита.', 'Enjoy your meal.', [(233, 'Приятного аппетита.')], ''),
-    ('kristina', 'Что у тебя с поваром?', "What's going on with the chef?", [(234, 'что у тебя с этим симпатичным поваром.')], ''),
+    ('sasha', 'Приятного аппетита.', 'Enjoy your meal.', [(233, 'Приятного аппетита.')], ''),
+    ('sasha', 'Что у тебя с поваром?', "What's going on with the chef?", [(234, 'что у тебя с этим симпатичным поваром.')], ''),
     ('kristina', 'Поговорим после работы.', "Let's talk after work.", [(235, 'Давай с тобой поговорим после работы.')], ''),
-    ('kristina', 'А что случилось?', 'And what happened?', [(237, 'А что случилось?')], ''),
+    ('sasha', 'А что случилось?', 'And what happened?', [(237, 'А что случилось?')], ''),
     ('kristina', 'Я иду к врачу.', 'I am going to the doctor.', [(236, 'иду к врачу.')], ''),
-    ('kristina', 'Ты беременна?', 'Are you pregnant?', [(237, 'Ты что, беременна, что ли?')], ''),
+    ('sasha', 'Ты беременна?', 'Are you pregnant?', [(237, 'Ты что, беременна, что ли?')], ''),
     ('kristina', 'С ума сошла?', 'Are you crazy?', [(238, 'С ума сошла?')], ''),
     ('kristina', 'Это просто сыпь.', "It's just a rash.", [(239, 'Так сыпь')], ''),
-    ('kristina', 'Хорошо, я поняла.', 'Okay, I got it.', [], ''),
+    ('sasha', 'Хорошо, я поняла.', 'Okay, I got it.', [], ''),
     ('kristina', 'Закажи мне роллы.', 'Order me some rolls.', [(240, 'попроси, чтобы сделали мои любимые роллы')], ''),
-    ('kristina', 'И зелёный чай?', 'And green tea?', [(240, 'и зеленый чай.')], ''),
+    ('sasha', 'И зелёный чай?', 'And green tea?', [(240, 'и зеленый чай.')], ''),
     ('kristina', 'Да, пожалуйста.', 'Yes, please.', [], ''),
 ]
 WALK = [

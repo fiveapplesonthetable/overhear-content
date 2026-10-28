@@ -7,8 +7,7 @@ SCENE = 5
 TITLE = 'Des entretiens dans mon bureau  (Interviews in My Office)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In Gabriel's office, new agency owner Hicham Janowski informs the agents that candidate interviews will take place in his office. Andréa immediately resists his top-down commands, forcing a tense negotiation over who controls the hiring process. Let's listen to the scene in French first."
@@ -21,13 +20,13 @@ STORY = [
     ('hicham', 'Je veux un agent avec moi.', 'I want an agent with me.', [(121, "je veux l'un d'entre vous avec moi.")], ''),
     ('hicham', 'On choisira ensemble le meilleur candidat.', 'We will choose the best candidate together.', [(122, 'On choisira alors le meilleur candidat.')], ''),
     ('hicham', 'On commence tout de suite, Marteau?', 'Shall we start right away, Marteau?', [(123, 'On commence par le premier, Marteau ?')], ''),
-    ('lea', 'Non, je ne suis pas disponible.', 'No, I am not available.', [(124, 'Non, désolé, je ne suis pas disponible.')], ''),
+    ('andrea', 'Non, je ne suis pas disponible.', 'No, I am not available.', [(124, 'Non, désolé, je ne suis pas disponible.')], ''),
     ('hicham', 'Bien, avec un autre candidat alors.', 'Fine, with another candidate then.', [(125, 'Bien, avec un autre candidat alors.')], ''),
-    ('lea', 'Pas avant la semaine prochaine.', 'Not before next week.', [(126, 'Pas avant la semaine prochaine.')], ''),
+    ('andrea', 'Pas avant la semaine prochaine.', 'Not before next week.', [(126, 'Pas avant la semaine prochaine.')], ''),
     ('gabriel', 'Nous avons dix candidats au total.', 'We have ten candidates in total.', [(128, 'Nous avons neuf candidats.'), (129, '-Dix.')], ''),
     ('hicham', 'Tu en fais trois avec moi.', 'You do three of them with me.', [(130, 'Tu en fais au moins trois'), (131, 'avec moi, dans mon bureau.')], ''),
-    ('lea', "D'accord, je ferai deux candidats.", 'All right, I will do two candidates.', [(132, "D'accord. Deux candidats.")], ''),
-    ('lea', "Mais c'est moi qui décide quand.", 'But I am the one who decides when.', [(133, "C'est moi qui décide quand.")], ''),
+    ('andrea', "D'accord, je ferai deux candidats.", 'All right, I will do two candidates.', [(132, "D'accord. Deux candidats.")], ''),
+    ('andrea', "Mais c'est moi qui décide quand.", 'But I am the one who decides when.', [(133, "C'est moi qui décide quand.")], ''),
     ('hicham', 'Parfait, les entretiens dans mon bureau.', 'Perfect, interviews in my office.', [(134, 'Les entretiens dans mon bureau.')], ''),
     ('gabriel', 'Tiens, prends un peu de café.', 'Here, have some coffee.', [(135, 'Tiens... du café.')], ''),
 ]

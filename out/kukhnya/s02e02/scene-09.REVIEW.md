@@ -1,40 +1,41 @@
-# Бездомные  (The Homeless) — `kukhnya-s02e02-scene-09`
+# kukhnya-s02e02-scene-09: review sheet
 
-**Source:** Кухня (Kukhnya) S2.02 · `sources/kukhnya/s02/e02.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Бездомные  (The Homeless)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.02
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Kostya and Max are getting ready to distribute food to the homeless. A colleague makes a snarky comment. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Костя | Все, я готов. | All right, I am ready. | #158 "Все, я готов" |  |
-| 1 | Костя | Пойдем. | Let's go. | #159 "Пойдем" |  |
-| 2 | Макс | Все, давайте. | All right, see you. | #159 "Все, давайте" |  |
-| 3 | Макс | Привет бомжам. | Say hi to the bums. | #160 "Привет бомжам" |  |
-| 4 | Костя | Не бомжам, а бездомным. | Not bums, but homeless. | #160 "не бомжам, а бездомным" |  |
-| 5 | Макс | Смотрите. | Look. | #161 "Смотрите" |  |
-| 6 | Макс | Заразу не принесите в дом. | Do not bring infection home. | #161 "заразу", #161 "не принесите в дом" |  |
-| 7 | Костя | От кого? | From whom? | *(added)* |  |
-| 8 | Макс | От бездомных. | From the homeless. | #162 "От бездомных" |  |
-| 9 | Костя | Мы будем осторожны. | We will be careful. | *(added)* |  |
-| 10 | Макс | Надеюсь. | I hope. | *(added)* |  |
-| 11 | Костя | До вечера. | Until evening. | *(added)* |  |
-| 12 | Макс | Пока. | Bye. | *(added)* |  |
+| 1 | Костя | Все, я готов. | All right, I am ready. | #158: Все, я готов | verbatim |
+| 2 | Костя | Пойдем. | Let's go. | #159: Пойдем | verbatim |
+| 3 | Макс | Все, давайте. | All right, see you. | #159: Все, давайте | verbatim |
+| 4 | Макс | Привет бомжам. | Say hi to the bums. | #160: Привет бомжам | verbatim |
+| 5 | Костя | Не бомжам, а бездомным. | Not bums, but homeless. | #160: не бомжам, а бездомным | verbatim |
+| 6 | Макс | Смотрите. | Look. | #161: Смотрите | verbatim |
+| 7 | Макс | Заразу не принесите в дом. | Do not bring infection home. | #161: заразу<br>#161: не принесите в дом | verbatim |
+| 8 | Костя | От кого? | From whom? | new | new |
+| 9 | Макс | От бездомных. | From the homeless. | #162: От бездомных | verbatim |
+| 10 | Костя | Мы будем осторожны. | We will be careful. | new | new |
+| 11 | Макс | Надеюсь. | I hope. | new | new |
+| 12 | Костя | До вечера. | Until evening. | new | new |
+| 13 | Макс | Пока. | Bye. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Kostya and Max are getting ready to distribute food to the homeless. Next time you watch the episode, listen for the Russian expressions for 'ready' and 'let's go' — you will catch every word right away. See you next time!
-
-**Макс:** До свидания!
+- 'All right, I am ready.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'ready'.
+- 'Let's go.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'let's go'.
+- 'All right, see you.' Max leads with the direct command form meaning 'let's' to make the point directly in conversation.
+- 'Say hi to the bums.' Russian omits the present-tense verb 'to be' here, linking 'hi' directly with 'homeless person', combining 'hi' with 'homeless person'.
+- 'Not bums, but homeless.' Russian omits the present-tense verb 'to be' here, linking 'homeless person' directly with 'homeless person', combining 'homeless person' with 'homeless person'.
+- 'Look.' Max leads with the direct command form meaning 'look' to make the point directly in conversation.
+- 'Do not bring infection home.' Max leads with the direct command form meaning 'bring', pairing it with 'infection' and 'building'.
+- 'From whom?' Russian omits the present-tense verb 'to be' here, linking 'of' directly with 'whom', combining 'of' with 'whom'.
+- 'From the homeless.' Max delivers a punchy one-word reaction built around the Russian word meaning 'homeless person'.
+- 'We will be careful.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I hope.' Max delivers a punchy one-word reaction built around the Russian word meaning 'hope so'.
+- 'Until evening.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'evening'.
+- 'Bye.' Max delivers a punchy one-word reaction built around the Russian word meaning 'bye'.

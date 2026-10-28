@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = 'Appel à la maternité  (Call at the Maternity Ward)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the maternity clinic, Andrea Martel has just given birth to her baby daughter with her partner Colette by her side. When prominent client Fabrice Luchini calls her phone, Andrea answers immediately despite the hospital setting. Let's listen to their conversation in French first."
@@ -18,17 +17,17 @@ OUTRO = "That's it for this scene around call at the maternity ward. When you wa
 CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
     ('colette', "Tu n'es pas obligée de répondre.", 'You do not have to answer.', [(259, "T'es pas obligée de répondre")], ''),
-    ('lea', 'Je ne veux pas disparaître du jour au lendemain.', 'I do not want to disappear overnight.', [(260, 'disparaître du jour au lendemain.')], ''),
+    ('andrea', 'Je ne veux pas disparaître du jour au lendemain.', 'I do not want to disappear overnight.', [(260, 'disparaître du jour au lendemain.')], ''),
     ('colette', 'Mais si, tu es à la maternité!', 'Oh yes, you are in the maternity ward!', [(261, 'Mais si.')], ''),
-    ('lea', 'Je ne peux pas perdre Fabrice!', 'I cannot afford to lose Fabrice!', [(262, 'perdre le Kini.')], ''),
-    ('lea', 'Allô Fabrice? Tu vas bien?', 'Hello Fabrice? Are you doing well?', [(263, 'Tu vas bien ?')], ''),
-    ('lea', "Merci, c'est vraiment très gentil.", 'Thank you, that is truly very kind.', [(264, "c'est gentil.")], ''),
-    ('lea', 'Écoute, tout se passe super bien.', 'Listen, everything is going super well.', [(265, "c'est super.")], ''),
-    ('lea', 'La petite fille est vraiment magnifique.', 'The little girl is truly magnificent.', [(266, 'La petite est vraiment')], ''),
-    ('lea', "Ne t'inquiète pas du tout.", 'Do not worry at all.', [(272, "t'inquiète pas.")], ''),
+    ('andrea', 'Je ne peux pas perdre Fabrice!', 'I cannot afford to lose Fabrice!', [(262, 'perdre le Kini.')], ''),
+    ('andrea', 'Allô Fabrice? Tu vas bien?', 'Hello Fabrice? Are you doing well?', [(263, 'Tu vas bien ?')], ''),
+    ('andrea', "Merci, c'est vraiment très gentil.", 'Thank you, that is truly very kind.', [(264, "c'est gentil.")], ''),
+    ('andrea', 'Écoute, tout se passe super bien.', 'Listen, everything is going super well.', [(265, "c'est super.")], ''),
+    ('andrea', 'La petite fille est vraiment magnifique.', 'The little girl is truly magnificent.', [(266, 'La petite est vraiment')], ''),
+    ('andrea', "Ne t'inquiète pas du tout.", 'Do not worry at all.', [(272, "t'inquiète pas.")], ''),
     ('colette', "Andréa, s'il te plaît, raccroche maintenant.", 'Andrea, please hang up right now.', [(258, 'je te laisse finir')], ''),
-    ('lea', 'Fabrice, je peux te rappeler?', 'Fabrice, can I call you back?', [(284, 'je peux te rappeler ?')], ''),
-    ('lea', "J'ai un imprévu en ce moment.", 'I have an unexpected situation right now.', [(285, "j'ai un imprévu.")], ''),
+    ('andrea', 'Fabrice, je peux te rappeler?', 'Fabrice, can I call you back?', [(284, 'je peux te rappeler ?')], ''),
+    ('andrea', "J'ai un imprévu en ce moment.", 'I have an unexpected situation right now.', [(285, "j'ai un imprévu.")], ''),
     ('colette', 'Merci, pensons enfin à notre bébé.', 'Thank you, let', [(287, 'Non.')], ''),
 ]
 WALK = [

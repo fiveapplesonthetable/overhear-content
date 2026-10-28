@@ -7,30 +7,29 @@ SCENE = 15
 TITLE = "L'ultimatum du producteur  (The Producer's Ultimatum)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'michel': 'marcel', 'camille': 'emilie'}
-LABELS = {'michel': 'Michel', 'camille': 'Camille'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'michel': 'Michel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "In Mathias's office, the telephone rings with an explosive call from movie producer Michel. Ramzy Bedia has vanished just one week before the premiere, and Michel delivers an uncompromising threat. Let's listen to the scene in French first."
 OPENER = 'The producer loses his temper. Let us examine the lines with English notes.'
 TRANSITION = 'Now listen to the heated exchange once more from beginning to end.'
 OUTRO = 'With a lawsuit looming over ASK, Mathias urgently needs to track down Ramzy and calm the producer. Soon after, Gabriel approaches Mathias to propose a truce. See you next time!'
-CLOSING = ('camille', 'Bonne soirée!')
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('michel', "Mathias, tu as l'air d'avoir mal compris.", 'Mathias, you seem to have misunderstood.', [(422, "tu as l'air d'avoir mal compris")], ''),
     ('michel', 'Ramzy ne répond plus jamais à mes appels!', 'Ramzy never answers my calls anymore!', [(423, 'Ramzy ne répond plus à mes appels et je suis le producteur du film')], ''),
     ('michel', 'Il a disparu une semaine avant la sortie.', 'He has disappeared a week before the release.', [(424, 'Il a disparu une semaine avant la sortie')], ''),
-    ('camille', 'Virginie fait la promotion, non?', 'Virginie is doing the promotion, right?', [(426, 'Virginie fait la promotion, non')], ''),
+    ('mathias', 'Virginie fait la promotion, non?', 'Virginie is doing the promotion, right?', [(426, 'Virginie fait la promotion, non')], ''),
     ('michel', 'Tu plaisantes? Elle est comme un zombie!', 'Are you kidding? She is like a zombie!', [(427, 'Tu plaisantes ? Elle est comme un zombie')], ''),
     ('michel', 'Pas une seule photo utilisable!', 'Not a single usable photo!', [(428, 'Pas une seule photo utilisable')], ''),
     ('michel', 'On sort une comédie la semaine prochaine!', 'We are releasing a comedy next week!', [(430, 'On sort une comédie, la semaine prochaine')], ''),
     ('michel', 'Agissez de manière responsable!', 'Act in a responsible manner!', [(431, 'Agissez de manière responsable')], ''),
-    ('camille', 'Michel, tu as tout à fait raison.', 'Michel, you are completely right.', [(432, 'Michel, tu as tout à fait raison')], ''),
-    ('camille', 'Je raccroche et je trouve Ramzy.', 'I hang up and I find Ramzy.', [(432, 'Je raccroche')], ''),
+    ('mathias', 'Michel, tu as tout à fait raison.', 'Michel, you are completely right.', [(432, 'Michel, tu as tout à fait raison')], ''),
+    ('mathias', 'Je raccroche et je trouve Ramzy.', 'I hang up and I find Ramzy.', [(432, 'Je raccroche')], ''),
     ('michel', "S'il ne fait pas l'émission de Drucker cette semaine, je l'attaque!", 'If he does not do Drucker', [(434, "S'il ne fait pas l'émission de Drucker cette semaine"), (435, "je l'attaque pour rupture de contrat")], ''),
-    ('camille', "Ne t'inquiète pas, il sera là.", 'Do not worry, he will be there.', [], ''),
+    ('mathias', "Ne t'inquiète pas, il sera là.", 'Do not worry, he will be there.', [], ''),
     ('camille', "C'est une catastrophe, Mathias!", 'It is a disaster, Mathias!', [], ''),
-    ('camille', 'Je dois régler ce problème immédiatement.', 'I must settle this problem immediately.', [], ''),
+    ('mathias', 'Je dois régler ce problème immédiatement.', 'I must settle this problem immediately.', [], ''),
 ]
 WALK = [
     (0, None, "'Mathias, you seem to have misunderstood.' Michel opens with the word for 'have' and lands on 'understood' at the close."),

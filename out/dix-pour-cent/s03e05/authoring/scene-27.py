@@ -7,7 +7,6 @@ SCENE = 27
 TITLE = "L'hésitation de Gabriel  (Gabriel's Hesitation)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'gabriel': 'theo'}
 LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'

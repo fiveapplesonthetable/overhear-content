@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Доктор | Доктор, подождите минутку, пожалуйста! | Doctor, wait a minute, please! | new | new: added opening request |
+| 1 | Лёша | Доктор, подождите минутку, пожалуйста! | Doctor, wait a minute, please! | new | new: added opening request |
 | 2 | Доктор | Что такое, малыш? У тебя что-то болит? | What is the matter, sweetie? Does something hurt you? | new | new: added doctor reaction |
-| 3 | Доктор | У меня танк сломался. | My tank broke. | #80 00:04:39: У меня танк сломался | verbatim |
-| 4 | Доктор | Можете починить? | Can you fix it? | #80 00:04:39: Можете починить | verbatim |
-| 5 | Доктор | Танк? Ну-ка, покажи мне. | A tank? Let me see. | #81 00:04:42: Танк? Ну-ка | adapted: 'покажи мне' added |
-| 6 | Доктор | Нет, брат, танк я не могу чинить. | No, buddy, I cannot fix tanks. | #82 00:04:45: Нет, брат, танк я не могу чинить | verbatim |
-| 7 | Доктор | Я ведь только людей лечу. | I only treat people, after all. | #82 00:04:45: Я только людей | adapted: 'лечу' supplied for elliptical phrase |
-| 8 | Доктор | А государство может починить танк? | And can the state fix a tank? | #83 00:04:48: А государство может | adapted: 'починить танк' added |
-| 9 | Доктор | Вот танк государство точно может! | Now a tank — the state certainly can fix that! | #84 00:04:50: Вот танк государство может | adapted: 'точно' added for emphasis |
+| 3 | Лёша | У меня танк сломался. | My tank broke. | #80: У меня танк сломался | verbatim |
+| 4 | Лёша | Можете починить? | Can you fix it? | #80: Можете починить | verbatim |
+| 5 | Доктор | Танк? Ну-ка, покажи мне. | A tank? Let me see. | #81: Танк? Ну-ка | adapted: 'покажи мне' added |
+| 6 | Доктор | Нет, брат, танк я не могу чинить. | No, buddy, I cannot fix tanks. | #82: Нет, брат, танк я не могу чинить | verbatim |
+| 7 | Доктор | Я ведь только людей лечу. | I only treat people, after all. | #82: Я только людей | adapted: 'лечу' supplied for elliptical phrase |
+| 8 | Лёша | А государство может починить танк? | And can the state fix a tank? | #83: А государство может | adapted: 'починить танк' added |
+| 9 | Доктор | Вот танк государство точно может! | Now a tank — the state certainly can fix that! | #84: Вот танк государство может | adapted: 'точно' added for emphasis |
 | 10 | Доктор | На танки у государства деньги всегда есть. | For tanks the state always has money. | new | new: added ironic contrast |
-| 11 | Доктор | Спасибо, доктор! Я сам попробую починить. | Thank you, Doctor! I will try to fix it myself. | new | new: added polite child reply |
+| 11 | Лёша | Спасибо, доктор! Я сам попробую починить. | Thank you, Doctor! I will try to fix it myself. | new | new: added polite child reply |
 | 12 | Доктор | Иди к маме, малыш! Не грусти. | Go to your mama, sweetie! Don't be sad. | new | new: added encouraging doctor closing |
 
 ## Walk-through narration (English only, no target-language words quoted)

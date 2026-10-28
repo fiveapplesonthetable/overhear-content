@@ -1,36 +1,38 @@
-# domashniy-arest/s01e07/scene-11.py
-ID = "domashniy-arest-s01e07-scene-11"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-11.
+ID = 'domashniy-arest-s01e07-scene-11'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 11
-TITLE = "Мэр на коленях  (Mayor on His Knees)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест, Сезон 1, Эпизод 7"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja", "ilona": "angelina"}
-LABELS = {"anya": "Аркадий", "doctor": "Доктор", "ilona": "Илона"}
+TITLE = 'Мэр на коленях  (Mayor on His Knees)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'doctor': 'Доктор', 'ilona': 'Илона'}
+SOURCE_NAME = 'Домашний арест, Сезон 1, Эпизод 7'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
 INTRO = "Previously, at the FSB office, Major Lavrov and Captain Zavarzin were assigned young Lieutenant Lyova Sokolov to help search the archives for information on Samsonov's grandparents. Now, at the hospital trauma clinic, Arkady pretends his arms are badly injured so the doctor will put casts on them, while Ilona stands beside him ready to pay."
-STORY = [
-    ("doctor", "А здесь?", "And here?", [(445, 'А здесь?')], ""),
-    ("anya", "Больно, больно! Очень больно, доктор!", "It hurts, it hurts! It hurts very much, Doctor!", [(446, 'Больно, больно'), (448, 'Очень больно'), (452, 'Доктор, больно')], "combined cues 446, 448, and 452"),
-    ("anya", "Доктор, мне срочно нужен гипс.", "Doctor, I urgently need a cast.", [(452, 'Доктор'), (453, 'Мне нужен гипс')], "added срочно"),
-    ("doctor", "У вас даже синяка нет. Вы меня за идиота держите?", "You don't even have a bruise. Do you take me for an idiot?", [(455, 'У вас даже'), (455, 'нет'), (456, 'Вы меня за')], "simplified гематомы to синяка; fixed ASR идиоты принимаете to идиота держите"),
-    ("anya", "Тихо, вы правы. Да, я здоров.", "Quiet, you're right. Yes, I'm healthy.", [(458, 'Тихо, вы правы'), (459, 'Да, я здоров')], ""),
-    ("anya", "Но мне всё равно нужен этот гипс. Так надо.", "But I still need this cast. It has to be this way.", [(460, 'Но мне все равно нужен этот гипс. Так надо')], ""),
-    ("doctor", "Он ненормальный.", "He is crazy.", [(461, 'Он ненормальный')], ""),
-    ("anya", "Я скоро освобожусь. И сразу сделаю вас главврачом этой больницы!", "I will be free soon. And I'll immediately make you chief doctor of this hospital!", [(463, 'освобожусь, я сразу сделаю вас главврачом этой больницы')], "split into two short sentences"),
-    ("ilona", "Давайте так. Мы поможем вам, а вы поможете нам.", "Let's do it this way. We'll help you, and you'll help us.", [(465, 'давайте так. Мы поможем вам, а вы поможете нам')], ""),
-    ("doctor", "Вы мне ещё и взятку предлагаете, да?", "You're offering me a bribe too, aren't you?", [(466, 'Вы мне еще и взятку предлагаете, да?')], ""),
-    ("ilona", "Нет, что вы! Это просто благодарность. Двадцать тысяч.", "No, not at all! This is just gratitude. Twenty thousand.", [(467, 'Нет, что вы. Это просто благодарность. Двадцать тысяч')], ""),
-    ("doctor", "Пожалуйста, покиньте кабинет!", "Please leave the office!", [(468, 'Пожалуйста, покиньте кабинет')], ""),
-    ("anya", "Я умоляю вас, доктор! Это всё ради любви!", "I beg you, Doctor! This is all for love!", [(469, 'вас, доктор. Я умоляю'), (470, 'Это все ради любви')], "combined cues 469-470"),
-    ("anya", "Вы любили когда-нибудь? Смотрите, мэр стоит на коленях!", "Have you ever loved? Look, the mayor is on his knees!", [(470, 'Вы любили когда-нибудь'), (473, 'Мэр на коленях')], "combined cues 470 and 473"),
-    ("doctor", "Аркадий Борисович, ну что же вы делаете? Прекратите этот спектакль!", "Arkady Borisovich, what are you doing? Stop this performance!", [(477, 'Аркадий Борисович, ну что же вы делаете?'), (478, 'это спектакль')], "fixed ASR Возвратите это спектакль to Прекратите этот спектакль"),
-    ("doctor", "Ладно, вставайте! Пройдите в перевязочную.", "All right, get up! Go into the dressing room.", [(480, 'Ладно'), (481, 'Пройдите'), (481, 'Перевязочную')], "restored preposition в before перевязочную"),
-]
 OPENER = "Let's unpack how Arkady begs the doctor for a fake cast."
+TRANSITION = 'Now listen to the whole trauma office scene again.'
+OUTRO = "The embarrassed doctor finally agrees to put casts on Arkady's healthy arms. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('doctor', 'А здесь?', 'And here?', [(445, 'А здесь?')], ''),
+    ('arkady', 'Больно, больно! Очень больно, доктор!', 'It hurts, it hurts! It hurts very much, Doctor!', [(446, 'Больно, больно'), (448, 'Очень больно'), (452, 'Доктор, больно')], 'combined cues 446, 448, and 452'),
+    ('arkady', 'Доктор, мне срочно нужен гипс.', 'Doctor, I urgently need a cast.', [(452, 'Доктор'), (453, 'Мне нужен гипс')], 'added срочно'),
+    ('doctor', 'У вас даже синяка нет. Вы меня за идиота держите?', "You don't even have a bruise. Do you take me for an idiot?", [(455, 'У вас даже'), (455, 'нет'), (456, 'Вы меня за')], 'simplified гематомы to синяка; fixed ASR идиоты принимаете to идиота держите'),
+    ('arkady', 'Тихо, вы правы. Да, я здоров.', "Quiet, you're right. Yes, I'm healthy.", [(458, 'Тихо, вы правы'), (459, 'Да, я здоров')], ''),
+    ('arkady', 'Но мне всё равно нужен этот гипс. Так надо.', 'But I still need this cast. It has to be this way.', [(460, 'Но мне все равно нужен этот гипс. Так надо')], ''),
+    ('doctor', 'Он ненормальный.', 'He is crazy.', [(461, 'Он ненормальный')], ''),
+    ('arkady', 'Я скоро освобожусь. И сразу сделаю вас главврачом этой больницы!', "I will be free soon. And I'll immediately make you chief doctor of this hospital!", [(463, 'освобожусь, я сразу сделаю вас главврачом этой больницы')], 'split into two short sentences'),
+    ('ilona', 'Давайте так. Мы поможем вам, а вы поможете нам.', "Let's do it this way. We'll help you, and you'll help us.", [(465, 'давайте так. Мы поможем вам, а вы поможете нам')], ''),
+    ('doctor', 'Вы мне ещё и взятку предлагаете, да?', "You're offering me a bribe too, aren't you?", [(466, 'Вы мне еще и взятку предлагаете, да?')], ''),
+    ('ilona', 'Нет, что вы! Это просто благодарность. Двадцать тысяч.', 'No, not at all! This is just gratitude. Twenty thousand.', [(467, 'Нет, что вы. Это просто благодарность. Двадцать тысяч')], ''),
+    ('doctor', 'Пожалуйста, покиньте кабинет!', 'Please leave the office!', [(468, 'Пожалуйста, покиньте кабинет')], ''),
+    ('arkady', 'Я умоляю вас, доктор! Это всё ради любви!', 'I beg you, Doctor! This is all for love!', [(469, 'вас, доктор. Я умоляю'), (470, 'Это все ради любви')], 'combined cues 469-470'),
+    ('arkady', 'Вы любили когда-нибудь? Смотрите, мэр стоит на коленях!', 'Have you ever loved? Look, the mayor is on his knees!', [(470, 'Вы любили когда-нибудь'), (473, 'Мэр на коленях')], 'combined cues 470 and 473'),
+    ('doctor', 'Аркадий Борисович, ну что же вы делаете? Прекратите этот спектакль!', 'Arkady Borisovich, what are you doing? Stop this performance!', [(477, 'Аркадий Борисович, ну что же вы делаете?'), (478, 'это спектакль')], 'fixed ASR Возвратите это спектакль to Прекратите этот спектакль'),
+    ('doctor', 'Ладно, вставайте! Пройдите в перевязочную.', 'All right, get up! Go into the dressing room.', [(480, 'Ладно'), (481, 'Пройдите'), (481, 'Перевязочную')], 'restored preposition в before перевязочную'),
+]
 WALK = [
     (1, 'Больно, больно!', "'It hurts, it hurts!' Arkady cries out as the doctor touches his healthy arm."),
     (2, None, "'Doctor, I urgently need a cast.' He states the real reason for his visit to the clinic."),
@@ -47,6 +49,3 @@ WALK = [
     (14, 'Прекратите этот спектакль!', "'Stop this performance!' Literally, put an end to this theatrical show."),
     (15, None, "'All right, get up! Go into the dressing room.' The embarrassed doctor finally gives in."),
 ]
-TRANSITION = "Now listen to the whole trauma office scene again."
-OUTRO = "The embarrassed doctor finally agrees to put casts on Arkady's healthy arms. See you next time!"
-CLOSING = ("anya", "Пока!")

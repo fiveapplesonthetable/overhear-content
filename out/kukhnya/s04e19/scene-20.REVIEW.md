@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Привет, Денис, ты сегодня в порядке? | Hi, Denis, are you all right today? | #293 00:22:03: Привет, Денис<br>#294 00:22:06: Ты в порядке | adapted: adapted |
-| 2 | Вика | Ты не мог бы мне помочь? | Could you possibly help me? | #295 00:22:08: Ты не мог бы мне помочь | verbatim |
-| 3 | Вика | В кабинете надо диван немного передвинуть. | We need to move the couch a little in the office. | #296 00:22:10: В кабинете<br>#297 00:22:12: Там надо диван передвинуть | adapted: adapted |
-| 4 | Вика | Ну, скажи, как твои кошмары? | Well, tell me, how are your nightmares? | #303 00:22:35: Как твои кошмары | adapted: adapted |
-| 5 | Костя | Настя, то, что ты делаешь, — безумие! | Nastya, what you are doing is madness! | #299 00:22:25: Настя, это маразм | adapted: adapted |
-| 6 | Вика | Костя, ты что, с ума сошёл? | Kostya, what, have you lost your mind? | #311 00:22:57: Ты с ума сошел | adapted: adapted |
-| 7 | Вика | Ай, я же говорила, что руку сломаешь! | Oh my, I told you that you would break your arm! | #316 00:23:22: я же тебе говорила, что ты рук сломаешь | adapted: adapted |
-| 8 | Костя | Ради счастья нужно каждый день жертвовать. | For the sake of happiness we must make sacrifices every day. | #314 00:23:11: счастью нам каждый день приходится чем-то жертвовать | adapted: adapted |
-| 9 | Костя | У нас тут неожиданная ситуация на шоу. | We have an unexpected situation here on the show. | #319 00:23:44: У нас непредвиденная ситуация | adapted: adapted |
-| 10 | Костя | Виктор Баринов сам ушёл с конкурса. | Viktor Barinov left the contest himself. | #320 00:23:46: Виктор Баринов уволился | adapted: adapted |
-| 11 | Вика | Он сказал, что вы сейчас свободны. | He said that you are available right now. | #321 00:23:50: Он сказал, что вы сейчас в России свободны | adapted: adapted |
-| 12 | Костя | Любую боль можно ради любви потерпеть. | Any pain can be endured for the sake of love. | #322 00:23:53: боль<br>#323 00:24:00: ее можно стерпеть | adapted: adapted |
+| 1 | Вика | Привет, Денис, ты сегодня в порядке? | Hi, Denis, are you all right today? | #293: Привет, Денис<br>#294: Ты в порядке | adapted: adapted |
+| 2 | Вика | Ты не мог бы мне помочь? | Could you possibly help me? | #295: Ты не мог бы мне помочь | verbatim |
+| 3 | Вика | В кабинете надо диван немного передвинуть. | We need to move the couch a little in the office. | #296: В кабинете<br>#297: Там надо диван передвинуть | adapted: adapted |
+| 4 | Вика | Ну, скажи, как твои кошмары? | Well, tell me, how are your nightmares? | #303: Как твои кошмары | adapted: adapted |
+| 5 | Костя | Настя, то, что ты делаешь, — безумие! | Nastya, what you are doing is madness! | #299: Настя, это маразм | adapted: adapted |
+| 6 | Вика | Костя, ты что, с ума сошёл? | Kostya, what, have you lost your mind? | #311: Ты с ума сошел | adapted: adapted |
+| 7 | Вика | Ай, я же говорила, что руку сломаешь! | Oh my, I told you that you would break your arm! | #316: я же тебе говорила, что ты рук сломаешь | adapted: adapted |
+| 8 | Денис | Ради счастья нужно каждый день жертвовать. | For the sake of happiness we must make sacrifices every day. | #314: счастью нам каждый день приходится чем-то жертвовать | adapted: adapted |
+| 9 | Костя | У нас тут неожиданная ситуация на шоу. | We have an unexpected situation here on the show. | #319: У нас непредвиденная ситуация | adapted: adapted |
+| 10 | Костя | Виктор Баринов сам ушёл с конкурса. | Viktor Barinov left the contest himself. | #320: Виктор Баринов уволился | adapted: adapted |
+| 11 | Вика | Он сказал, что вы сейчас свободны. | He said that you are available right now. | #321: Он сказал, что вы сейчас в России свободны | adapted: adapted |
+| 12 | Денис | Любую боль можно ради любви потерпеть. | Any pain can be endured for the sake of love. | #322: боль<br>#323: ее можно стерпеть | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Denis, are you all right today?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
-- 'Could you possibly help me?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'We need to move the couch a little in the office.' Here Vika anchors the thought on 'office' and finishes on 'to office', keeping the spoken rhythm brisk and natural.
-- 'Well, tell me, how are your nightmares?' Inside the office, Vika repeats the exact line from Denis's dream, making him jump out the window in panic.
-- 'Nastya, what you are doing is madness!' At home, Kostya climbs onto the windowsill during their argument about a second baby.
-- 'Kostya, what, have you lost your mind?' Alarmed, Nastya uses the classic Russian idiom meaning went crazy and pulls him back inside.
-- 'Oh my, I told you that you would break your arm!' Back at the restaurant, Ainura sees Denis's cast and reminds him of her dream prophecy.
-- 'For the sake of happiness we must make sacrifices every day.' In everyday Russian, 'happiness' flows straight into 'to every' without extra linking words.
-- 'We have an unexpected situation here on the show.' Meanwhile, the producer informs Nagiyev of a sudden development in the competition.
-- 'Viktor Barinov left the contest himself.' Having proven he could beat Nagiyev's blind test, Barinov voluntarily withdraws.
-- 'He said that you are available right now.' Instead, Barinov recommended Elena Pavlovna for a head chef opening at a prestigious restaurant.
-- 'Any pain can be endured for the sake of love.' In everyday Russian, 'pain, ache' flows straight into 'to be patient' without extra linking words.
+- 'Hi, Denis, are you all right today?' Here asking whether Denis all right today shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Could you possibly help me?' By checking whether Denis possibly help, Vika presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'We need to move the couch a little in the office.' By needing to move the couch a little in the office, Vika keeps her side of the story grounded.
+- 'Well, tell me, how are your nightmares?' Wondering if tell her how are Denis's nightmares shows Vika caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Nastya, what you are doing is madness!' Insisting that what Denis is doing is madness shows Kostya is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Kostya, what, have you lost your mind?' Asking whether what have Denis lost Denis's mind puts Denis right on the defensive.
+- 'Oh my, I told you that you would break your arm!' Declaring that her she told Denis that Denis would break Denis's arm brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'For the sake of happiness we must make sacrifices every day.' Explaining that for the sake of happiness they must make sacrifices every day lays the cards on the table for Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'We have an unexpected situation here on the show.' Saying that they have an unexpected situation here on the show is how Kostya sets the tone with Denis.
+- 'Viktor Barinov left the contest himself.' Claiming that Viktor Barinov left the contest himself sounds confident, even if Denis has doubts.
+- 'He said that you are available right now.' Pointing out that he said that Denis is available right now gives Denis a sobering reality check. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Any pain can be endured for the sake of love.' Denis explains that any pain can be endured for the sake of love, keeping his voice calm and direct.

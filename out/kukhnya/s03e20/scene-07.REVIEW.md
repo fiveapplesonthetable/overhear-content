@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Да не надо никаких вариантов, я могу на вокзале ночевать. | No need for any options, I can spend the night at the train station. | #126 00:08:37: Да не надо никаких вариантов<br>#127 00:08:39: Я могу и на вокзале ночевать | adapted: adapted |
-| 2 | Вика | Хорошо, он поживёт у меня до вашей свадьбы. | Fine, he will stay at my place until your wedding. | #128 00:08:41: Хорошо<br>#129 00:08:44: Он поживет у меня до вашей свадьбы | adapted: adapted |
-| 3 | Вика | А сразу после свадьбы вы его к себе заберёте. | And right after the wedding you will take him to your place. | #129 00:08:44: а потом вы его заберете | adapted: adapted |
-| 4 | Аня | Конечно, сразу заберём! Спасибо вам большое, доктор! | Of course we will take him! Thank you very much, Doctor! | #130 00:08:49: Конечно, заберем. Спасибо | adapted: adapted |
-| 5 | Шеф | Добрый вечер, Сергей! Могу я к вам войти? | Good evening, Sergey! May I come in? | #134 00:09:09: Могу войти | adapted: adapted |
-| 6 | Шеф | Сергей, нам надо спокойно прояснить нашу ситуацию. | Sergey, we need to calmly clear up our situation. | #135 00:09:13: Сергей, нам надо прояснить ситуацию | adapted: adapted |
-| 7 | Шеф | Между нами сегодня произошло какое-то недопонимание. | Some misunderstanding happened between us today. | #136 00:09:15: Между нами произошло какое-то недопонимание | adapted: adapted |
-| 8 | Шеф | Ой, виноват, я случайно уронил свою пробку. | Oh, my fault, I accidentally dropped my cork. | #137 00:09:19: Ой, виноват | adapted: adapted |
-| 9 | Аня | Ситуацию между нами действительно надо сразу прояснить. | The situation between us really does need to be cleared up right away. | #138 00:09:32: Ситуацию и<br>#138 00:09:32: надо прояснить | adapted: adapted |
-| 10 | Аня | Во-первых, я для вас не Сергей, а Сергей Владимирович. | First, to you I am not Sergey, but Sergey Vladimirovich. | #139 00:09:34: Во-первых, я для вас не Сергей, а<br>#139 00:09:34: Владимировича | adapted: adapted |
-| 11 | Аня | А во-вторых, я никогда не пью с подчинёнными. | And second, I never drink with subordinates. | #140 00:09:40: Во-вторых, я не пью с подчиненными | adapted: adapted |
-| 12 | Аня | Постарайтесь завтра утром не опаздывать на работу. | Try not to be late for work tomorrow morning. | #142 00:09:46: Постарайтесь завтра не опаздывать на работу | adapted: adapted |
+| 1 | Макс | Да не надо никаких вариантов, я могу на вокзале ночевать. | No need for any options, I can spend the night at the train station. | #126: Да не надо никаких вариантов<br>#127: Я могу и на вокзале ночевать | adapted: adapted |
+| 2 | Вика | Хорошо, он поживёт у меня до вашей свадьбы. | Fine, he will stay at my place until your wedding. | #128: Хорошо<br>#129: Он поживет у меня до вашей свадьбы | adapted: adapted |
+| 3 | Вика | А сразу после свадьбы вы его к себе заберёте. | And right after the wedding you will take him to your place. | #129: а потом вы его заберете | adapted: adapted |
+| 4 | Макс | Конечно, сразу заберём! Спасибо вам большое, доктор! | Of course we will take him! Thank you very much, Doctor! | #130: Конечно, заберем. Спасибо | adapted: adapted |
+| 5 | Шеф | Добрый вечер, Сергей! Могу я к вам войти? | Good evening, Sergey! May I come in? | #134: Могу войти | adapted: adapted |
+| 6 | Шеф | Сергей, нам надо спокойно прояснить нашу ситуацию. | Sergey, we need to calmly clear up our situation. | #135: Сергей, нам надо прояснить ситуацию | adapted: adapted |
+| 7 | Шеф | Между нами сегодня произошло какое-то недопонимание. | Some misunderstanding happened between us today. | #136: Между нами произошло какое-то недопонимание | adapted: adapted |
+| 8 | Шеф | Ой, виноват, я случайно уронил свою пробку. | Oh, my fault, I accidentally dropped my cork. | #137: Ой, виноват | adapted: adapted |
+| 9 | Макс | Ситуацию между нами действительно надо сразу прояснить. | The situation between us really does need to be cleared up right away. | #138: Ситуацию и<br>#138: надо прояснить | adapted: adapted |
+| 10 | Макс | Во-первых, я для вас не Сергей, а Сергей Владимирович. | First, to you I am not Sergey, but Sergey Vladimirovich. | #139: Во-первых, я для вас не Сергей, а<br>#139: Владимировича | adapted: adapted |
+| 11 | Макс | А во-вторых, я никогда не пью с подчинёнными. | And second, I never drink with subordinates. | #140: Во-вторых, я не пью с подчиненными | adapted: adapted |
+| 12 | Макс | Постарайтесь завтра утром не опаздывать на работу. | Try not to be late for work tomorrow morning. | #142: Постарайтесь завтра не опаздывать на работу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No need for any options, I can spend the night at the train station.' Max anchors the line on 'yes', while 'to spend the night' completes the thought.
-- 'Fine, he will stay at my place until your wedding.' The grammar packs 'well' and 'wedding' into a tight, idiomatic kitchen exchange.
-- 'And right after the wedding you will take him to your place.' Notice how Russian expresses 'and' and 'you will pick up' with crisp inflection rather than helper words. Max answers right away.
-- 'Of course we will take him! Thank you very much, Doctor!' Notice how Russian expresses 'of course' and 'Doctor' with crisp inflection rather than helper words.
-- 'Good evening, Sergey! May I come in?' Here the Russian phrasing highlights 'good' before landing on 'to come in'.
-- 'Sergey, we need to calmly clear up our situation.' In Russian, the idea of 'Sergey' flows naturally into 'situation' without extra filler words.
-- 'Some misunderstanding happened between us today.' Spoken Russian keeps this brisk, leaning on 'between' and finishing on 'misunderstanding'.
-- 'Oh, my fault, I accidentally dropped my cork.' In Russian, the idea of 'oh' flows naturally into 'traffic jam' without extra filler words.
-- 'The situation between us really does need to be cleared up right away.' Here the Russian phrasing highlights 'situation' before landing on 'to clarify'.
-- 'First, to you I am not Sergey, but Sergey Vladimirovich.' Max anchors the line on 'first of all', while 'Vladimirovich' completes the thought.
-- 'And second, I never drink with subordinates.' Notice how Russian puts 'second' and 'with subordinates' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Try not to be late for work tomorrow morning.' Notice how Russian expresses 'try' and 'work' with crisp inflection rather than helper words.
+- 'No need for any options, I can spend the night at the train station.' Even though Barinov should need for any options he can spend the night at the train station, Max keeps a steady face in front of Barinov.
+- 'Fine, he will stay at my place until your wedding.' Claiming that fine he will stay at her place until Barinov's wedding sounds confident, even if Barinov has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'And right after the wedding you will take him to your place.' Pointing out that right after the wedding Barinov will take him to Barinov's place gives Barinov a sobering reality check. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Of course we will take him! Thank you very much, Doctor!' Once they will take him, Max makes sure Barinov hears every word.
+- 'Good evening, Sergey! May I come in?' Barinov asks whether may he comes, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Sergey, we need to calmly clear up our situation.' Between the hotel and the kitchen, Barinov gives Max a quick, grounded response. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Some misunderstanding happened between us today.' With the hotel and moment in play, Barinov keeps this short reply brisk and direct.
+- 'Oh, my fault, I accidentally dropped my cork.' Around the hotel and conversation, Barinov sets a calm, everyday tone with Max.
+- 'The situation between us really does need to be cleared up right away.' Saying that the situation between them really does need to be cleared up right away is how Max sets the tone with Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'First, to you I am not Sergey, but Sergey Vladimirovich.' Once first to Barinov he is not Sergey but Sergey Vladimirovich, Max can finally tell Barinov what he means.
+- 'And second, I never drink with subordinates.' Adding that second he never drinks with subordinates fills in the missing piece for Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Try not to be late for work tomorrow morning.' Claiming that Barinov should try not to be late for work tomorrow morning sounds confident, even if Barinov has doubts.

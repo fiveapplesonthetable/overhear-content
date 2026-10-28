@@ -7,31 +7,30 @@ SCENE = 11
 TITLE = 'Un monstre de séduction  (A Monster of Seduction)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'clementine': 'emilie'}
-LABELS = {'lea': 'Andréa', 'clementine': 'Clémentine'}
+LABELS = {'andrea': 'Andréa', 'clementine': 'Clémentine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Andréa denied everything. Yet the moment the two women step out onto the pavement, Andréa's dramatic ex-girlfriend Clémentine ambushes her right in front of Colette. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through it line by line. Andréa steps out of the shop with Colette and walks straight into Clémentine."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So much for convincing Colette that she doesn't have a string of ex-girlfriends. Back at the agency, Audrey Fleurot is arriving for her meeting with Augustin. See you next time!"
-CLOSING = ('lea', 'Merci, au revoir.')
+CLOSING = ('andrea', 'Merci, au revoir.')
 STORY = [
-    ('lea', "Clémentine! Qu'est-ce que tu fais ici?", 'Clémentine! What are you doing here?', [(291, "Clémentine ! Qu'est-ce que tu")], ''),
+    ('andrea', "Clémentine! Qu'est-ce que tu fais ici?", 'Clémentine! What are you doing here?', [(291, "Clémentine ! Qu'est-ce que tu")], ''),
     ('clementine', 'Je dois faire ça pour guérir.', 'I have to do this in order to heal.', [(292, 'Je dois faire ça pour guérir')], ''),
-    ('lea', "D'accord, mais une autre fois!", 'Okay, but another time!', [(293, 'mais une autre fois')], ''),
+    ('andrea', "D'accord, mais une autre fois!", 'Okay, but another time!', [(293, 'mais une autre fois')], ''),
     ('clementine', 'Tu es un monstre de séduction.', 'You', [(294, 'Tu es un monstre de séduction')], ''),
-    ('lea', 'Clémentine, écoute.', 'Clémentine, listen.', [(295, 'Clémentine, écoute')], ''),
+    ('andrea', 'Clémentine, écoute.', 'Clémentine, listen.', [(295, 'Clémentine, écoute')], ''),
     ('clementine', "Tu m'as dévorée comme une hyène!", 'You devoured me like a hyena!', [(296, "Tu m'as dévorée comme une hyène")], ''),
-    ('lea', "C'est ridicule. Ça n'a pas duré un mois!", 'That', [(298, "C'est ridicule"), (299, "Ça n'a pas duré un mois")], ''),
+    ('andrea', "C'est ridicule. Ça n'a pas duré un mois!", 'That', [(298, "C'est ridicule"), (299, "Ça n'a pas duré un mois")], ''),
     ('clementine', "Je parle de sentiments! J'avais des sentiments pour toi.", 'I', [(299, 'Je parle de sentiments'), (300, "J'avais des sentiments pour toi")], ''),
     ('clementine', 'Et tu as demandé à ton assistante de me quitter!', 'And you asked your assistant to break up with me!', [(301, 'et tu as demandé à ton')], ''),
-    ('lea', "Non, c'est faux!", 'No, that', [(302, "Non, c'est faux")], ''),
+    ('andrea', "Non, c'est faux!", 'No, that', [(302, "Non, c'est faux")], ''),
     ('clementine', "Tu es pourrie! Mais c'est fini.", 'You', [(302, 'Pourri')], ''),
     ('clementine', 'Je te pardonne.', 'I forgive you.', [(305, 'Je te pardonne')], ''),
-    ('lea', "Tu as besoin d'un nouveau médecin, tu es folle!", 'You need a new doctor, you', [(306, "besoin d'un nouveau")], ''),
-    ('lea', 'Les gens sont malades, non?', 'People are crazy, aren', [(307, 'Les gens sont malades')], ''),
-    ('lea', 'Oui? Allô?', 'Yes? Hello?', [(309, 'Oui')], ''),
+    ('andrea', "Tu as besoin d'un nouveau médecin, tu es folle!", 'You need a new doctor, you', [(306, "besoin d'un nouveau")], ''),
+    ('andrea', 'Les gens sont malades, non?', 'People are crazy, aren', [(307, 'Les gens sont malades')], ''),
+    ('andrea', 'Oui? Allô?', 'Yes? Hello?', [(309, 'Oui')], ''),
 ]
 WALK = [
     (0, None, "'Clémentine! What are you doing here?' The long question phrase after Clémentine's name is the everyday spoken way to ask 'what'."),

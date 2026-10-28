@@ -1,34 +1,49 @@
-# Review: `dix-pour-cent-s02e01-scene-27` — Règlement de comptes en direct  (Live Settling of Scores)
+# dix-pour-cent-s02e01-scene-27: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e01.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "virginie": "emilie", "ramzy": "theo", "michel": "marcel"}`
-- **Labels**: `{"virginie": "Virginie", "ramzy": "Ramzy", "michel": "Michel"}`
+Title: Règlement de comptes en direct  (Live Settling of Scores)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E01
 
-## Part 1 — Intro
-> On the bright studio set of Vivement Dimanche, host Michel Drucker welcomes celebrity couple Ramzy Bedia and Virginie Efira to the famous red sofa. While promoting their new romantic comedy, the couple trade barbed remarks and settle their secret financial dispute live on air. Listen to the scene in French first. Don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `michel` (Michel) | Virginie Efira! | Introducing Virginie Efira! | 791:Virginie Efira |
-| 1 | `virginie` (Virginie) | Michel, bonjour. Bonjour, mon amour. | Michel, hello. Hello, my love. | 793:Michel, bonjour. Bonjour, mon amour |
-| 2 | `ramzy` (Ramzy) | C'est super que tu sois là. | It | 795:c'est super que tu sois là |
-| 3 | `virginie` (Virginie) | Les surprises, c'est important. | Surprises are important. | 797:les surprises, c'est important |
-| 4 | `ramzy` (Ramzy) | Il y a pire que l'ennui dans une relation. | There are worse things than boredom in a relationship. | 800:il y a pire que l'ennui dans une relation |
-| 5 | `virginie` (Virginie) | Certaines surprises sont indésirables. | Some surprises are unwelcome. | 804:Certaines surprises sont indésirables |
-| 6 | `ramzy` (Ramzy) | Comme là, maintenant. | Like right now. | 808:Comme là, maintenant |
-| 7 | `michel` (Michel) | Regardons un extrait du film. | Let | 809:Regardons un extrait du film |
-| 8 | `ramzy` (Ramzy) | Qu'est-ce que tu fais là? C'est tellement gênant. | What are you doing here? It | 812:Qu'est-ce que tu fais là, 812:C'est tellement gênant |
-| 9 | `virginie` (Virginie) | T'es tellement horrible. | You are so horrible. | 814:T'es tellement horrible |
-| 10 | `ramzy` (Ramzy) | Je suis horrible? | I am horrible? | 815:Je suis horrible |
-| 11 | `virginie` (Virginie) | Complètement! | Totally! | 815:Complètement |
-| 12 | `michel` (Michel) | On est en direct... | We are live on air... | 822:On est en direct |
-| 13 | `ramzy` (Ramzy) | Tu peux garder l'argent. | You can keep the money. | 824:Tu peux garder l'argent |
-| 14 | `virginie` (Virginie) | Parce que je t'aime. | Because I love you. | 831:Parce que je t'aime |
-| 15 | `michel` (Michel) | Quel couple volcanique! | What a volcanic couple! | 832:Quel couple volcanique |
-| 16 | `virginie` (Virginie) | Oui, ça en vaut la peine. | Yes, it | 844:Oui, ça en vaut la peine |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Virginie and Ramzy turned their real marital crisis into compelling television, leaving Michel Drucker delighted by their passion. See you next time!
-- **Closing**: `virginie`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Michel | Virginie Efira! | Introducing Virginie Efira! | #791: Virginie Efira | verbatim |
+| 2 | Virginie | Michel, bonjour. Bonjour, mon amour. | Michel, hello. Hello, my love. | #793: Michel, bonjour. Bonjour, mon amour | verbatim |
+| 3 | Ramzy | C'est super que tu sois là. | It | #795: c'est super que tu sois là | verbatim |
+| 4 | Virginie | Les surprises, c'est important. | Surprises are important. | #797: les surprises, c'est important | verbatim |
+| 5 | Ramzy | Il y a pire que l'ennui dans une relation. | There are worse things than boredom in a relationship. | #800: il y a pire que l'ennui dans une relation | verbatim |
+| 6 | Virginie | Certaines surprises sont indésirables. | Some surprises are unwelcome. | #804: Certaines surprises sont indésirables | verbatim |
+| 7 | Ramzy | Comme là, maintenant. | Like right now. | #808: Comme là, maintenant | verbatim |
+| 8 | Michel | Regardons un extrait du film. | Let | #809: Regardons un extrait du film | verbatim |
+| 9 | Ramzy | Qu'est-ce que tu fais là? C'est tellement gênant. | What are you doing here? It | #812: Qu'est-ce que tu fais là<br>#812: C'est tellement gênant | verbatim |
+| 10 | Virginie | T'es tellement horrible. | You are so horrible. | #814: T'es tellement horrible | verbatim |
+| 11 | Ramzy | Je suis horrible? | I am horrible? | #815: Je suis horrible | verbatim |
+| 12 | Virginie | Complètement! | Totally! | #815: Complètement | verbatim |
+| 13 | Michel | On est en direct... | We are live on air... | #822: On est en direct | verbatim |
+| 14 | Ramzy | Tu peux garder l'argent. | You can keep the money. | #824: Tu peux garder l'argent | verbatim |
+| 15 | Virginie | Parce que je t'aime. | Because I love you. | #831: Parce que je t'aime | verbatim |
+| 16 | Michel | Quel couple volcanique! | What a volcanic couple! | #832: Quel couple volcanique | verbatim |
+| 17 | Virginie | Oui, ça en vaut la peine. | Yes, it | #844: Oui, ça en vaut la peine | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Introducing Virginie Efira!' Michel Drucker introduces his special guest to the television audience.
+- 'Michel, hello. Hello, my love.' Virginie greets both the host and her partner.
+- 'It's great that you're here.' Ramzy opens with the word for 'it is' and lands on 'there' at the close.
+- 'Surprises are important.' Virginie pairs the verb meaning 'it is' with the noun for 'surprise'.
+- 'There are worse things than boredom in a relationship.' The comparative 'worse' means 'worse than'.
+- 'Some surprises are unwelcome.' The adjective meaning 'unwelcome' agrees in gender and number with feminine noun 'surprise'.
+- 'Like right now.' The adverbial phrase 'like' points to the present moment.
+- 'Let's watch a clip of the film.' Listen for the expression meaning 'let's look at', which leads naturally into 'movie'.
+- 'What are you doing here? It's so awkward.' Ramzy whispers furiously while the clip rolls.
+- 'You are so horrible.' The verb meaning 'you are' anchors the whole remark.
+- 'I am horrible?' Ramzy questions Virginie's blunt accusation.
+- 'Totally!' The key word here means 'completely', paired with 'completely' to make the point clear.
+- 'We are live on air...' Michel urgently warns the arguing couple as the cameras return.
+- 'You can keep the money.' The modal verb 'can' is followed by the infinitive 'keep'.
+- 'Because I love you.' The connecting word 'because' introduces the real reason for her passion.
+- 'What a volcanic couple!' The exclamative adjective 'what a' agrees with the masculine noun 'couple'.
+- 'Yes, it's worth it.' Virginie pairs the verb meaning 'is worth' with the noun for 'trouble'.

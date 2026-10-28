@@ -1,34 +1,36 @@
-# domashniy-arest/s01e04/scene-25.py
-ID = "domashniy-arest-s01e04-scene-25"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e04-scene-25.
+ID = 'domashniy-arest-s01e04-scene-25'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 4
 SCENE = 25
-TITLE = "Ужин в ресторане  (Dinner at the Restaurant)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.04"
-SOURCE_FILE = "sources/domashniy-arest/s01/e04.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "nina": "angelina"}
-LABELS = {"samson": "Самсон", "nina": "Нина"}
+TITLE = 'Ужин в ресторане  (Dinner at the Restaurant)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон', 'waiter': 'Официант'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.04'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e04.ru.dual.srt'
 INTRO = "Across town that evening, outside an expensive Italian restaurant. Last time, Ilona locked herself in the bathroom and forwarded Klavdia's video of drunk Samson to Pasha's campaign team. Meanwhile, Samson and Nina are out in the luxury car from the dealership, and Samson spots the restaurant that invited him for a free dinner worth seven thousand roubles. Let's listen in Russian first."
-STORY = [
-    ("samson", "Слушай, Нина, это же тот самый ресторан!", "Listen, Nina, this is that very restaurant!", [(1020, 'Слушай'), (1020, 'это же')], "'Нинка ... та самая Франческа' -> 'Нина ... тот самый ресторан'"),
-    ("samson", "У нас там подарок на семь тысяч! Пошли сходим!", "We have a gift for seven thousand there! Come on, let's go!", [(1020, 'у нас'), (1022, 'пошли сходим')], "cue 1020 'депозит на святых' (garbled 'на семь тысяч') -> 'подарок на семь тысяч'"),
-    ("nina", "Аникеев же запретил! Нам нельзя пить.", "But Anikeev forbade it! We mustn't drink.", [(1023, 'запретил')], "cue 1023 'А не кейв' (garbled 'Аникеев') -> 'Аникеев же'; 'Нам нельзя пить.' added"),
-    ("samson", "Ну ладно, брось! Мы только поедим.", "Oh come on, stop it! We'll only eat.", [(1024, 'Ну ладно'), (1024, 'брось')], "'Мы только поедим.' added"),
-    ("samson", "Добрый вечер! Мы очень рады видеть вас в нашем ресторане.", "Good evening! We are very glad to see you in our restaurant.", [(1028, 'Добрый вечер'), (1029, 'Мы рады'), (1029, 'вас в нашем ресторане')], "'приветствовать' -> 'очень ... видеть'"),
-    ("samson", "Вот наше лучшее розовое шампанское.", "Here is our best pink champagne.", [(1031, 'шампанское')], "cue 1031 simplified to A1"),
-    ("samson", "Отлично! Давай розовое.", "Great! Give us the pink one.", [(1036, 'отлично'), (1033, 'Давай')], "'розовый' -> 'розовое'"),
-    ("samson", "У нас есть большая тарелка рыбы и крабов.", "We have a big platter of fish and crabs.", [(1035, 'краб')], "cues 1034-1035 ('башня из морепродуктов...') simplified to A1"),
-    ("samson", "А потом итальянские пельмени. Все гости их очень любят.", "And then Italian dumplings. All the guests love them very much.", [(1037, 'А')], "cues 1037-1040 (the waiter explaining ravioli as little dumplings) simplified to A1"),
-    ("samson", "Пельмени мы будем, да, Нина? Неси всё!", "We'll have the dumplings, right, Nina? Bring everything!", [(1042, 'будем, да, Нина'), (1044, 'все')], "'Пельмеши' -> 'Пельмени мы'; 'Тащи' -> 'Неси'"),
-    ("samson", "Хорошо! Приятного вечера.", "Very well! Have a pleasant evening.", [(1046, 'Приятного вечера')], "'Хорошо!' added"),
-    ("nina", "Ваня, может, не надо шампанское?", "Vanya, maybe we shouldn't have champagne?", [(1047, 'может, не надо')], "cue 1047 'Бен' (garbled 'Вань') -> 'Ваня'; 'шампанское' added"),
-    ("samson", "Нина, это же просто сладкая вода!", "Nina, it's just sweet water!", [(1048, 'Нина, это')], "cues 1048-1049 ('шипучка. Барбариска.') -> 'же просто сладкая вода!'"),
-    ("samson", "Давай, за нашу новую жизнь! Очень вкусно!", "Come on, to our new life! Very tasty!", [(1050, 'Давай, за нашу новую жизнь'), (1051, 'Вкусно')], "'Очень' added"),
-]
 OPENER = "Let's go through it line by line. Samson slows down in front of the restaurant lights and points through the window."
+TRANSITION = "Now let's hear the whole restaurant scene once more, start to finish."
+OUTRO = "So while Arkady has no idea where his candidate is, Samson and Nina are clinking glasses of pink champagne — with the dealership's luxury car parked outside. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Слушай, Нина, это же тот самый ресторан!', 'Listen, Nina, this is that very restaurant!', [(1020, 'Слушай'), (1020, 'это же')], "'Нинка ... та самая Франческа' -> 'Нина ... тот самый ресторан'"),
+    ('samson', 'У нас там подарок на семь тысяч! Пошли сходим!', "We have a gift for seven thousand there! Come on, let's go!", [(1020, 'у нас'), (1022, 'пошли сходим')], "cue 1020 'депозит на святых' (garbled 'на семь тысяч') -> 'подарок на семь тысяч'"),
+    ('nina', 'Аникеев же запретил! Нам нельзя пить.', "But Anikeev forbade it! We mustn't drink.", [(1023, 'запретил')], "cue 1023 'А не кейв' (garbled 'Аникеев') -> 'Аникеев же'; 'Нам нельзя пить.' added"),
+    ('samson', 'Ну ладно, брось! Мы только поедим.', "Oh come on, stop it! We'll only eat.", [(1024, 'Ну ладно'), (1024, 'брось')], "'Мы только поедим.' added"),
+    ('waiter', 'Добрый вечер! Мы очень рады видеть вас в нашем ресторане.', 'Good evening! We are very glad to see you in our restaurant.', [(1028, 'Добрый вечер'), (1029, 'Мы рады'), (1029, 'вас в нашем ресторане')], "'приветствовать' -> 'очень ... видеть'"),
+    ('waiter', 'Вот наше лучшее розовое шампанское.', 'Here is our best pink champagne.', [(1031, 'шампанское')], 'cue 1031 simplified to A1'),
+    ('samson', 'Отлично! Давай розовое.', 'Great! Give us the pink one.', [(1036, 'отлично'), (1033, 'Давай')], "'розовый' -> 'розовое'"),
+    ('waiter', 'У нас есть большая тарелка рыбы и крабов.', 'We have a big platter of fish and crabs.', [(1035, 'краб')], "cues 1034-1035 ('башня из морепродуктов...') simplified to A1"),
+    ('waiter', 'А потом итальянские пельмени. Все гости их очень любят.', 'And then Italian dumplings. All the guests love them very much.', [(1037, 'А')], 'cues 1037-1040 (the waiter explaining ravioli as little dumplings) simplified to A1'),
+    ('samson', 'Пельмени мы будем, да, Нина? Неси всё!', "We'll have the dumplings, right, Nina? Bring everything!", [(1042, 'будем, да, Нина'), (1044, 'все')], "'Пельмеши' -> 'Пельмени мы'; 'Тащи' -> 'Неси'"),
+    ('waiter', 'Хорошо! Приятного вечера.', 'Very well! Have a pleasant evening.', [(1046, 'Приятного вечера')], "'Хорошо!' added"),
+    ('nina', 'Ваня, может, не надо шампанское?', "Vanya, maybe we shouldn't have champagne?", [(1047, 'может, не надо')], "cue 1047 'Бен' (garbled 'Вань') -> 'Ваня'; 'шампанское' added"),
+    ('samson', 'Нина, это же просто сладкая вода!', "Nina, it's just sweet water!", [(1048, 'Нина, это')], "cues 1048-1049 ('шипучка. Барбариска.') -> 'же просто сладкая вода!'"),
+    ('samson', 'Давай, за нашу новую жизнь! Очень вкусно!', 'Come on, to our new life! Very tasty!', [(1050, 'Давай, за нашу новую жизнь'), (1051, 'Вкусно')], "'Очень' added"),
+]
 WALK = [
     (0, None, "'Listen, Nina, this is that very restaurant!' The two words before 'restaurant' mean 'that very, the exact same'."),
     (1, 'У нас там подарок на семь тысяч!', "'We have a gift for seven thousand there!' Earlier, Yulia told them the restaurant had given candidate Samsonov a seven-thousand-rouble dinner voucher."),
@@ -46,6 +48,3 @@ WALK = [
     (12, None, "'Nina, it's just sweet water!' In the show he calls pink champagne fizzy candy-water, not real alcohol at all."),
     (13, None, "'Come on, to our new life! Very tasty!' A Russian toast always uses the preposition 'for' with the direct-object form: 'for our new life!'"),
 ]
-TRANSITION = "Now let's hear the whole restaurant scene once more, start to finish."
-OUTRO = "So while Arkady has no idea where his candidate is, Samson and Nina are clinking glasses of pink champagne — with the dealership's luxury car parked outside. See you next time!"
-CLOSING = ("samson", "Пока!")

@@ -7,8 +7,7 @@ SCENE = 1
 TITLE = "Le tournage de Béatrice  (Béatrice's Shoot)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'beatrice': 'emilie', 'lea': 'lucie'}
-LABELS = {'beatrice': 'Béatrice', 'lea': 'Andréa'}
+LABELS = {'beatrice': 'Béatrice', 'maquilleuse': 'Maquilleuse'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "On a grueling movie set, iconic actress Beatrice Dalle catches her breath after twenty-seven exhausting takes. When the makeup artist insists on applying full-body makeup for a body bag scene, Beatrice suspects director Pascal of bad faith. Let's listen to the scene in French first."
@@ -18,19 +17,19 @@ OUTRO = "Convinced that director Pascal intends to film her unclothed without pr
 CLOSING = ('beatrice', 'Bonne journée!')
 STORY = [
     ('beatrice', "Ce tournage est particulièrement rude aujourd'hui.", 'This shoot is particularly rough today.', [(9, "C'est rude, 27 prises")], ''),
-    ('lea', 'Vous avez fait vingt-sept prises difficiles.', 'You did twenty-seven difficult takes.', [(9, "C'est rude, 27 prises")], ''),
+    ('maquilleuse', 'Vous avez fait vingt-sept prises difficiles.', 'You did twenty-seven difficult takes.', [(9, "C'est rude, 27 prises")], ''),
     ('beatrice', "J'ai défoncé cette porte vingt-sept fois!", 'I smashed through that door twenty-seven times!', [(10, "27 fois, j'ai défoncé cette")], ''),
-    ('lea', 'Il faut préparer la scène suivante.', 'We must prepare the next scene.', [(16, "ce serait bien qu'on y aille")], ''),
+    ('maquilleuse', 'Il faut préparer la scène suivante.', 'We must prepare the next scene.', [(16, "ce serait bien qu'on y aille")], ''),
     ('beatrice', "J'ai encore quelques minutes de repos.", 'I still have a few minutes of rest.', [(17, 'On a le temps')], ''),
-    ('lea', 'Nous devons maquiller tout votre corps.', 'We have to do your whole body with makeup.', [(19, 'on a tout le corps à faire')], ''),
+    ('maquilleuse', 'Nous devons maquiller tout votre corps.', 'We have to do your whole body with makeup.', [(19, 'on a tout le corps à faire')], ''),
     ('beatrice', "C'est la scène de la mort?", 'Is this the death scene?', [(20, "C'est la scène de la mort, oui ?")], ''),
-    ('lea', "Oui, exactement, c'est cette scène.", 'Yes, exactly, it is that scene.', [(21, 'Bah oui')], ''),
+    ('maquilleuse', "Oui, exactement, c'est cette scène.", 'Yes, exactly, it is that scene.', [(21, 'Bah oui')], ''),
     ('beatrice', 'Mais mon personnage est dans un sac!', 'But my character is inside a bag!', [(22, 'Mais je suis dans un sac')], ''),
-    ('lea', 'Pascal a demandé un maquillage complet.', 'Pascal asked for full-body makeup.', [(23, "Pascal m'a dit maquillage corps entier")], ''),
+    ('maquilleuse', 'Pascal a demandé un maquillage complet.', 'Pascal asked for full-body makeup.', [(23, "Pascal m'a dit maquillage corps entier")], ''),
     ('beatrice', 'Pourquoi maquiller mon corps entier?', 'Why put makeup on my entire body?', [(23, "Pascal m'a dit maquillage corps entier")], ''),
-    ('lea', 'Je ne sais pas, ce sont les ordres.', 'I do not know, these are orders.', [(23, "Pascal m'a dit maquillage corps entier")], ''),
+    ('maquilleuse', 'Je ne sais pas, ce sont les ordres.', 'I do not know, these are orders.', [(23, "Pascal m'a dit maquillage corps entier")], ''),
     ('beatrice', 'Pascal prépare une mauvaise surprise.', 'Pascal is preparing a nasty surprise.', [(24, 'je ressens pas cet embrouille')], ''),
-    ('lea', 'Venez vous installer au maquillage.', 'Come and sit down in makeup.', [(16, "ce serait bien qu'on y aille")], ''),
+    ('maquilleuse', 'Venez vous installer au maquillage.', 'Come and sit down in makeup.', [(16, "ce serait bien qu'on y aille")], ''),
 ]
 WALK = [
     (0, None, "'This shoot is particularly rough today.' In spoken French, the little word before 'filming' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'filming' drops its final vowel and attaches with an apostrophe."),

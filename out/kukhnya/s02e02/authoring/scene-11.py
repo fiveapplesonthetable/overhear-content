@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 11
-TITLE = "Злой папа  (Angry Dad)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Злой папа  (Angry Dad)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"anya": "Макс", "nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Focused on angry dad, Max finds out that Nastya's dad came looking for Kostya but mistook Max for him and threatened him. Max is terrified. Let's listen closely to Max and Kostya's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max finds out that Nastya's dad came looking for Kostya but mistook Max for him and threatened him. Max is terrified. Next time you watch the episode, listen for the Russian expressions for 'telephone' and 'can' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Что с телефонами?', "What's with your phones?", [(183, 'Че с телефонами?')], ''),
-    ('anya', 'Я не могу дозвониться.', "I can't get through.", [(184, 'Я до вас дозвониться не могу.')], ''),
+    ('max', 'Что с телефонами?', "What's with your phones?", [(183, 'Че с телефонами?')], ''),
+    ('max', 'Я не могу дозвониться.', "I can't get through.", [(184, 'Я до вас дозвониться не могу.')], ''),
     ('kostya', 'Мой телефон украли.', 'My phone was stolen.', [(185, 'телефон сперли.')], ''),
     ('nastya', 'Мне звонила мама.', 'Mom called me.', [(188, 'мне мама звонила.')], ''),
     ('nastya', 'Папа познакомился с Костей.', 'Dad met Kostya.', [(192, 'я вчера познакомился с отцом Настей.')], ''),
     ('nastya', 'Но он думает, что это ты.', "But he thinks it's you.", [(193, 'Но он думает, что это ты с ним познакомился.')], ''),
-    ('anya', 'Я не понял.', "I don't get it.", [(194, 'Не понял.')], ''),
+    ('max', 'Я не понял.', "I don't get it.", [(194, 'Не понял.')], ''),
     ('nastya', 'Он думает, что ты — Костя.', 'He thinks that you are Kostya.', [], ''),
-    ('anya', 'Зачем он приходил?', 'Why did he come?', [], ''),
+    ('max', 'Зачем он приходил?', 'Why did he come?', [], ''),
     ('kostya', 'Он угрожал мне.', 'He threatened me.', [(208, 'Угрожал мне.')], ''),
-    ('anya', 'Скажи ему правду.', 'Tell him the truth.', [(209, 'Ты, пожалуйста, скажи ему про это.')], ''),
+    ('max', 'Скажи ему правду.', 'Tell him the truth.', [(209, 'Ты, пожалуйста, скажи ему про это.')], ''),
     ('nastya', 'Я не могу.', "I can't.", [(213, 'Папе я сказать не могу.')], ''),
     ('nastya', 'Он очень жестокий.', 'He is very cruel.', [(214, 'Он очень жестокий человек.')], ''),
-    ('anya', 'Что же мне делать?', 'What should I do?', [], ''),
+    ('max', 'Что же мне делать?', 'What should I do?', [], ''),
 ]
 WALK = [
     (0, None, "'What's with your phones?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'telephone'."),

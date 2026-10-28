@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Поздравляю. Но по разводам я веду. | Congratulations. But in divorces I am ahead. | #114 00:07:19: Поздравляю. Но по разводам | adapted: adapted |
-| 2 | Нагиев | Я тебя ещё догоню. Я помоложе буду. | I will catch up to you yet. I am younger. | #115 00:07:22: я тебя еще<br>#116 00:07:26: Я помоложе | adapted: adapted |
-| 3 | Шеф | Дима, а можешь по такому радостному случаю поднять зарплату? | Dima, on such a joyful occasion can you raise my salary? | #117 00:07:29: а можешь по такому радостному случаю<br>#118 00:07:34: поднять зарплату | adapted: adapted |
-| 4 | Нагиев | Да. Я думал об этом. | Yes. I thought about that. | #119 00:07:36: Да<br>#120 00:07:38: Я думал об этом | adapted: adapted |
-| 5 | Нагиев | Думал, думал и передумал. | I thought and thought and changed my mind. | #122 00:07:41: Думал, думал и передумал | verbatim |
-| 6 | Нагиев | Ты достоин большего. Я тебе прощаю все долги! | You are worthy of more. I forgive you all your debts! | #123 00:07:43: Ты достоин большего<br>#123 00:07:43: прощаю, все долги | adapted: adapted |
-| 7 | Шеф | Дима, я так рад, что ты развёлся! | Dima, I am so glad that you got divorced! | #124 00:07:50: Дим, я так рад, что ты развелся | adapted: adapted |
-| 8 | Нагиев | Есть хочется. Чего они на кухне копаются? | I am hungry. Why are they dawdling in the kitchen? | #125 00:07:52: хочется<br>#125 00:07:52: на кухне копаются | adapted: adapted |
-| 9 | Шеф | Похоже, не ты один пришёл праздновать развод. | It looks like you are not the only one who came to celebrate the divorce. | #126 00:08:00: Похоже, не ты один пришел праздновать развод | verbatim |
-| 10 | Шеф | Мне пора работать. | It is time for me to work. | #127 00:08:03: Мне пора работать | verbatim |
-| 11 | Нагиев | Сидеть! Сейчас, сейчас. | Sit! Right now, right now. | #127 00:08:03: Сидеть<br>#128 00:08:05: Сейчас, сейчас | adapted: adapted |
-| 12 | Шеф | Дмитрий Владимирович! | Dmitry Vladimirovich! | #129 00:08:07: Дмитрий | adapted: adapted |
+| 1 | Шеф | Поздравляю. Но по разводам я веду. | Congratulations. But in divorces I am ahead. | #114: Поздравляю. Но по разводам | adapted: adapted |
+| 2 | Нагиев | Я тебя ещё догоню. Я помоложе буду. | I will catch up to you yet. I am younger. | #115: я тебя еще<br>#116: Я помоложе | adapted: adapted |
+| 3 | Шеф | Дима, а можешь по такому радостному случаю поднять зарплату? | Dima, on such a joyful occasion can you raise my salary? | #117: а можешь по такому радостному случаю<br>#118: поднять зарплату | adapted: adapted |
+| 4 | Нагиев | Да. Я думал об этом. | Yes. I thought about that. | #119: Да<br>#120: Я думал об этом | adapted: adapted |
+| 5 | Нагиев | Думал, думал и передумал. | I thought and thought and changed my mind. | #122: Думал, думал и передумал | verbatim |
+| 6 | Нагиев | Ты достоин большего. Я тебе прощаю все долги! | You are worthy of more. I forgive you all your debts! | #123: Ты достоин большего<br>#123: прощаю, все долги | adapted: adapted |
+| 7 | Шеф | Дима, я так рад, что ты развёлся! | Dima, I am so glad that you got divorced! | #124: Дим, я так рад, что ты развелся | adapted: adapted |
+| 8 | Нагиев | Есть хочется. Чего они на кухне копаются? | I am hungry. Why are they dawdling in the kitchen? | #125: хочется<br>#125: на кухне копаются | adapted: adapted |
+| 9 | Шеф | Похоже, не ты один пришёл праздновать развод. | It looks like you are not the only one who came to celebrate the divorce. | #126: Похоже, не ты один пришел праздновать развод | verbatim |
+| 10 | Шеф | Мне пора работать. | It is time for me to work. | #127: Мне пора работать | verbatim |
+| 11 | Нагиев | Сидеть! Сейчас, сейчас. | Sit! Right now, right now. | #127: Сидеть<br>#128: Сейчас, сейчас | adapted: adapted |
+| 12 | Шеф | Дмитрий Владимирович! | Dmitry Vladimirovich! | #129: Дмитрий | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations. But in divorces I am ahead.' Chef Barinov anchors the line on 'congratulations', while 'lead' completes the thought. Dmitry Nagiyev answers right away.
-- 'I will catch up to you yet. I am younger.' Dmitry Nagiyev brings out the contrast between 'I' and 'you' in a few short words.
-- 'Dima, on such a joyful occasion can you raise my salary?' In Russian, the idea of 'Dima' flows naturally into 'salary' without extra filler words.
-- 'Yes. I thought about that.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'this'.
-- 'I thought and thought and changed my mind.' Spoken Russian keeps this brisk, leaning on 'thought' and finishing on 'changed my mind'.
-- 'You are worthy of more. I forgive you all your debts!' The grammar packs 'you' and 'debts' into a tight, idiomatic kitchen exchange.
-- 'Dima, I am so glad that you got divorced!' An emphatic spoken line centered on the verb meaning 'got divorced'. Dmitry Nagiyev answers right away.
-- 'I am hungry. Why are they dawdling in the kitchen?' In spoken Russian, the words stay in their normal statement order and Nagiyev's rising voice at the end turns the line into a question.
-- 'It looks like you are not the only one who came to celebrate the divorce.' The meaning hinges on 'looks like' working together with 'divorce' in spoken Russian.
-- 'It is time for me to work.' The grammar packs 'to me' and 'to work' into a tight, idiomatic kitchen exchange. Dmitry Nagiyev answers right away.
-- 'Sit! Right now, right now.' The meaning hinges on 'to sit' working together with 'now' in spoken Russian.
-- 'Dmitry Vladimirovich!' In Russian, the idea of '' flows naturally into '' without extra filler words.
+- 'Congratulations. But in divorces I am ahead.' Mentioning that but in divorces he is ahead moves the talk in a new direction.
+- 'I will catch up to you yet. I am younger.' Saying that he will catch up to Barinov yet is how Nagiyev sets the tone with Barinov.
+- 'Dima, on such a joyful occasion can you raise my salary?' Asking whether on such a joyful occasion can Nagiyev raises his salary puts Nagiyev right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Yes. I thought about that.' Between the room and the restaurant, Nagiyev gives Barinov a quick, grounded response.
+- 'I thought and thought and changed my mind.' Nagiyev mentions that he thought and thought and changed his mind so Barinov sees what is at stake.
+- 'You are worthy of more. I forgive you all your debts!' Nagiyev declares that Barinov is worthy as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Dima, I am so glad that you got divorced!' Declaring that he is so glad that Nagiyev got divorced brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am hungry. Why are they dawdling in the kitchen?' Questioning whether he is hungry is how Nagiyev tests Barinov's story.
+- 'It looks like you are not the only one who came to celebrate the divorce.' Realizing that it looks like Nagiyev is not the only one who came to celebrate the divorce changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'It is time for me to work.' Noting that it is time for him to work keeps Barinov's side of the story simple and clear. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Sit! Right now, right now.' With the conversation and truth at stake, Nagiyev reacts without holding back.
+- 'Dmitry Vladimirovich!' With the work and room at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.

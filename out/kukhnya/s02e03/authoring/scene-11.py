@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 11
-TITLE = "Поездка домой  (Riding Home)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Поездка домой  (Riding Home)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
-LABELS = {"anya": "Макс", "sasha": "Саша"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = 'Outside the restaurant after their evening shift, Max tells Sasha not to worry because he can catch a cab home. Sasha insists on driving him herself, though she grows annoyed when Max asks why she seems upset.'
 OPENER = 'Listen to Max and Sasha talking outside the restaurant before driving home.'
 TRANSITION = "Now listen to the conversation between Max and Sasha again. Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Even though Sasha claims they are only friends, offering Max a ride home shows she still cares about him. Next time you watch the episode, listen for the Russian expressions for 'to worry' and 'strongly' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Да ты не волнуйся так сильно.', 'Do not worry so much.', [(181, 'Да ты не парься')], ''),
-    ('anya', 'Я сейчас быстро поймаю машину.', 'I will quickly catch a car right now.', [(182, 'Тачку сломлю')], ''),
+    ('max', 'Да ты не волнуйся так сильно.', 'Do not worry so much.', [(181, 'Да ты не парься')], ''),
+    ('max', 'Я сейчас быстро поймаю машину.', 'I will quickly catch a car right now.', [(182, 'Тачку сломлю')], ''),
     ('sasha', 'Я сама отвезу тебя до дома.', 'I will drive you home myself.', [(183, 'Саша, все нормально?')], ''),
-    ('anya', 'Саша, у тебя всё нормально?', 'Sasha, is everything alright with you?', [(183, 'Саша, все нормально?')], ''),
+    ('max', 'Саша, у тебя всё нормально?', 'Sasha, is everything alright with you?', [(183, 'Саша, все нормально?')], ''),
     ('sasha', 'Да, у меня всё хорошо.', 'Yes, everything is fine with me.', [(183, 'все нормально')], ''),
-    ('anya', 'Ты почему такая грустная весь вечер?', 'Why are you so sad all evening?', [(183, 'Саша, все нормально?')], ''),
+    ('max', 'Ты почему такая грустная весь вечер?', 'Why are you so sad all evening?', [(183, 'Саша, все нормально?')], ''),
     ('sasha', 'Ну вот ты опять начинаешь!', 'Well here you go starting again!', [(184, 'Ну ты опять')], ''),
     ('sasha', 'Мы же сегодня утром уже поговорили.', 'After all, we already talked this morning.', [(184, 'Ну мы же утром поговорили')], ''),
-    ('anya', 'Я просто хотел тебя спросить.', 'I just wanted to ask you.', [(183, 'все нормально')], ''),
+    ('max', 'Я просто хотел тебя спросить.', 'I just wanted to ask you.', [(183, 'все нормально')], ''),
     ('sasha', 'Мы с тобой просто хорошие друзья.', 'You and I are just good friends.', [(184, 'утром поговорили')], ''),
-    ('anya', 'Ладно, я тебя прекрасно понял.', 'Fine, I understood you very well.', [(181, 'Да ты не парься')], ''),
+    ('max', 'Ладно, я тебя прекрасно понял.', 'Fine, I understood you very well.', [(181, 'Да ты не парься')], ''),
     ('sasha', 'Тогда садись скорее в машину.', 'Then get into the car quickly.', [(182, 'Тачку')], ''),
-    ('anya', 'Спасибо, что отвезёшь меня домой.', 'Thank you for driving me home.', [(183, 'Саша')], ''),
+    ('max', 'Спасибо, что отвезёшь меня домой.', 'Thank you for driving me home.', [(183, 'Саша')], ''),
 ]
 WALK = [
     (0, None, "'Do not worry so much.' Max leads with the direct command form meaning 'worry', followed by 'strongly'."),

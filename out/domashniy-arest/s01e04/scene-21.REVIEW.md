@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Данила, пойдём. Смотри, ничего сложного. | Danila, let's go. Look, there's nothing complicated. | #825 00:45:08: Данила, пойдем<br>#826 00:45:12: Смотри<br>#826 00:45:12: ничего сложного | verbatim |
-| 2 | Аня | Там на кладбище центральный вход. | There at the cemetery is the main entrance. | #826 00:45:12: Там на кладбище центральный вход | verbatim |
-| 3 | Аня | Входишь сразу налево, к администратору. Там сидит такой Лисицын. | You go in and turn straight left, to the administrator. A fellow named Lisitsyn sits there. | #827 00:45:16: Входишь сразу налево, к администратору<br>#828 00:45:18: Там<br>#828 00:45:18: лисицын такой сидит | adapted: 'мордатый' dropped |
-| 4 | Аня | Он тебе сразу грубо скажет: мест нет, уходите. | He'll tell you rudely right away: there are no plots, go away. | #829 00:45:21: Он тебе сразу грубо<br>#829 00:45:21: скажет, мест нет, уходите | adapted: 'так' dropped |
-| 5 | Аня | А ты скажи: куда же я пойду? Понимаешь? | And you say: where am I supposed to go? Understand? | #830 00:45:24: А ты<br>#830 00:45:24: куда же я пойду<br>#831 00:45:26: Понимаешь | adapted: 'ему,' -> 'скажи:' |
-| 6 | Аня | А сам конверт ему двигай. И главное, в глаза ему смотри. | And slide the envelope over to him yourself. And above all, look him in the eyes. | #832 00:45:27: А сам конверт ему<br>#833 00:45:29: И главное, в глаза ему<br>#833 00:45:29: смотри | adapted: 'пододвигай' -> 'двигай'; 'так' dropped |
-| 7 | Головкин | А по-моему, это гадость! Я не буду давать взятку. | In my opinion, this is disgusting! I won't pay a bribe. | #835 00:45:33: А | adapted: garbled cue 835 ('А я мне мерзость') retold cleanly at A1 |
-| 8 | Аня | Пошёл вон! Ты больше не мой адвокат. | Get out! You're no longer my lawyer. | #836 00:45:37: Пошел вон<br>#837 00:45:38: Ты больше не мой адвокат | verbatim |
-| 9 | Аня | И Нину свою ты больше не увидишь! | And you'll never see your Nina again! | #838 00:45:40: И Нину свою ты больше не увидишь | verbatim |
-| 10 | Головкин | Согласен! Согласен! | I agree! I agree! | #839 00:45:43: Согласен<br>#840 00:45:44: Согласен | verbatim |
-| 11 | Аня | Тогда смотри. В конверте должно быть сто пятьдесят тысяч. | Then listen. There must be a hundred and fifty thousand in the envelope. | #841 00:45:45: Тогда смотри<br>#842 00:45:46: В конверте должно быть<br>#842 00:45:46: тысяч | adapted: '150' written out as 'сто пятьдесят' |
-| 12 | Головкин | Вы пользуетесь моей слабостью! | You're taking advantage of my weakness! | #844 00:45:52: мой | adapted: garbled cue 844 ('Пользуйтесь, мой слабый') restored |
-| 13 | Аня | Конечно, пользуюсь. Это шантаж. | Of course I am. It's blackmail. | #845 00:45:53: Конечно, пользуюсь. Это шантаж | verbatim |
-| 14 | Аня | Давай, Даня, иди. Действуй! | Come on, Danya, go. Get to work! | #846 00:45:56: Давай<br>#847 00:45:58: Иди. Действуй | adapted: 'Данечка' -> 'Даня'; 'злодействуй' dropped |
+| 1 | Аркадий | Данила, пойдём. Смотри, ничего сложного. | Danila, let's go. Look, there's nothing complicated. | #825: Данила, пойдем<br>#826: Смотри<br>#826: ничего сложного | verbatim |
+| 2 | Аркадий | Там на кладбище центральный вход. | There at the cemetery is the main entrance. | #826: Там на кладбище центральный вход | verbatim |
+| 3 | Аркадий | Входишь сразу налево, к администратору. Там сидит такой Лисицын. | You go in and turn straight left, to the administrator. A fellow named Lisitsyn sits there. | #827: Входишь сразу налево, к администратору<br>#828: Там<br>#828: лисицын такой сидит | adapted: 'мордатый' dropped |
+| 4 | Аркадий | Он тебе сразу грубо скажет: мест нет, уходите. | He'll tell you rudely right away: there are no plots, go away. | #829: Он тебе сразу грубо<br>#829: скажет, мест нет, уходите | adapted: 'так' dropped |
+| 5 | Аркадий | А ты скажи: куда же я пойду? Понимаешь? | And you say: where am I supposed to go? Understand? | #830: А ты<br>#830: куда же я пойду<br>#831: Понимаешь | adapted: 'ему,' -> 'скажи:' |
+| 6 | Аркадий | А сам конверт ему двигай. И главное, в глаза ему смотри. | And slide the envelope over to him yourself. And above all, look him in the eyes. | #832: А сам конверт ему<br>#833: И главное, в глаза ему<br>#833: смотри | adapted: 'пододвигай' -> 'двигай'; 'так' dropped |
+| 7 | Головкин | А по-моему, это гадость! Я не буду давать взятку. | In my opinion, this is disgusting! I won't pay a bribe. | #835: А | adapted: garbled cue 835 ('А я мне мерзость') retold cleanly at A1 |
+| 8 | Аркадий | Пошёл вон! Ты больше не мой адвокат. | Get out! You're no longer my lawyer. | #836: Пошел вон<br>#837: Ты больше не мой адвокат | verbatim |
+| 9 | Аркадий | И Нину свою ты больше не увидишь! | And you'll never see your Nina again! | #838: И Нину свою ты больше не увидишь | verbatim |
+| 10 | Головкин | Согласен! Согласен! | I agree! I agree! | #839: Согласен<br>#840: Согласен | verbatim |
+| 11 | Аркадий | Тогда смотри. В конверте должно быть сто пятьдесят тысяч. | Then listen. There must be a hundred and fifty thousand in the envelope. | #841: Тогда смотри<br>#842: В конверте должно быть<br>#842: тысяч | adapted: '150' written out as 'сто пятьдесят' |
+| 12 | Головкин | Вы пользуетесь моей слабостью! | You're taking advantage of my weakness! | #844: мой | adapted: garbled cue 844 ('Пользуйтесь, мой слабый') restored |
+| 13 | Аркадий | Конечно, пользуюсь. Это шантаж. | Of course I am. It's blackmail. | #845: Конечно, пользуюсь. Это шантаж | verbatim |
+| 14 | Аркадий | Давай, Даня, иди. Действуй! | Come on, Danya, go. Get to work! | #846: Давай<br>#847: Иди. Действуй | adapted: 'Данечка' -> 'Даня'; 'злодействуй' dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

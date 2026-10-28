@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e11-scene-01.
 ID = 'kukhnya-s02e11-scene-01'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 1
-TITLE = "Война порядков в квартире  (A War of House Rules in the Apartment)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Война порядков в квартире  (A War of House Rules in the Apartment)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
 SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
-
 INTRO = 'Welcome to Kukhnya Season 2, Episode 11. At the shared apartment, tensions flare between Nastya and Sasha as Sasha rearranges the kitchen and poisons the cockroaches without asking, causing Nastya to worry that the poison has made Pashka the turtle sluggish.'
-
+OPENER = "Now let's go back through the conversation line by line."
+TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
+OUTRO = 'That wraps up this scene as nastya and Sasha clash in the apartment kitchen over reorganizing the shelves, poisoning cockroaches, and worrying that Pashka the turtle looks sluggish. Until next time!'
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Спасибо тебе, Настенька.', 'Thank you, Nastenka.', [(5, 'Спасибо тебе, Настенька')], ''),
     ('nastya', 'Я их не нашла.', 'I did not find them.', [(6, 'я их не нашла')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('nastya', 'Решет. Костя.', 'Wait a second, Kostya.', [(16, 'Решет. Костя')], ''),
     ('kostya', 'Не трогай.', 'Do not touch him.', [(16, 'не трогай')], ''),
 ]
-
-OPENER = "Now let's go back through the conversation line by line."
-
 WALK = [
-    (0, None, "'Thank you, Nastenka.' Spoken Russian keeps this brisk, leaning on 'thank you' and finishing on 'Nastenka'. Nastya answers right away."),
-    (1, None, "'I did not find them.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'found'."),
-    (2, None, "'By the way, that is a cool color.' Notice how Russian expresses 'by the way' and 'colour' with crisp inflection rather than helper words."),
-    (3, None, "'Wait, where is the trash can?' Nastya raises the pitch on 'trash bin' to turn the phrase into a direct spoken question. Kostya answers right away."),
-    (4, None, "'Right where it belongs.' In Russian, the idea of 'where' flows naturally into 'maybe' without extra filler words."),
-    (5, None, "'Listen, stop imposing your own rules around here.' Here the Russian phrasing highlights 'listen' before landing on 'rules'."),
-    (6, None, "'You know what?' Notice how Russian expresses 'know' and 'what' with crisp inflection rather than helper words. Nastya answers right away."),
-    (7, None, "'Do not worry, I already poisoned them.' Nastya brings out the contrast between 'you' and 'not' in a few short words."),
-    (8, None, "'And what about you.' Here the Russian phrasing highlights 'and' before landing on 'you'."),
-    (9, None, "'Of course, I knew that turtles are slow.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'slow'. Kostya answers right away."),
-    (10, None, "'I think our Pashka looks completely sluggish.' Notice how Russian expresses 'in my opinion' and 'sluggish' with crisp inflection rather than helper words."),
-    (11, None, "'Wait a second, Kostya.' Nastya anchors the line on 'to decide', while 'Kostya' completes the thought."),
-    (12, None, "'Do not touch him.' The negative particle sits right before the verb meaning 'touch' to negate the statement."),
+    (0, None, "'Thank you, Nastenka.' Around the point and apartment, Kostya sets a calm, everyday tone with Nastya."),
+    (1, None, "'I did not find them.' Because she did not find them, Nastya treats the matter as settled."),
+    (2, None, "'By the way, that is a cool color.' Explaining that that is a cool color lays the cards on the table for Nastya."),
+    (3, None, "'Wait, where is the trash can?' Asking where the trash can is cuts straight through the tension between Nastya and Kostya."),
+    (4, None, "'Right where it belongs.' Between the point and the room, Kostya gives Nastya a quick, grounded response."),
+    (5, None, "'Listen, stop imposing your own rules around here.' Noting that Kostya should stop imposing Kostya's own rules around here keeps Nastya's side of the story simple and clear."),
+    (6, None, "'You know what?' With the plan and truth hanging in the air, Kostya puts Nastya on the spot."),
+    (7, None, '\'Do not worry, I already poisoned them.\' Realizing that do not worry she already poisoned them changes how Nastya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (8, None, '\'And what about you.\' With the truth and moment in play, Kostya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (9, None, "'Of course, I knew that turtles are slow.' Even though she knew that turtles are slow, Nastya keeps a steady face in front of Kostya."),
+    (10, None, "'I think our Pashka looks completely sluggish.' Once he thinks their Pashka looks completely sluggish, Kostya can finally tell Nastya what he means."),
+    (11, None, "'Wait a second, Kostya.' With the truth and plan in play, Nastya keeps this short reply brisk and direct."),
+    (12, None, "'Do not touch him.' Once do not touch him, Kostya can finally tell Nastya what he means."),
 ]
-
-TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-OUTRO = 'That wraps up this scene as nastya and Sasha clash in the apartment kitchen over reorganizing the shelves, poisoning cockroaches, and worrying that Pashka the turtle looks sluggish. Until next time!'
-CLOSING = ("kostya", "Пока!")

@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = "La promotion de Noémie  (Noémie's Promotion)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
+LABELS = {'justine': 'Justine', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At lunch in Mathias Barneville's new production offices, Noemie meets her new colleagues. She clarifies that she is no longer an assistant but a development executive, before Mathias greets her warmly. Let's listen to their conversation in French first."
@@ -17,16 +16,16 @@ TRANSITION = "Now let's listen to Noemie's workplace exchange once more from sta
 OUTRO = "That's it for this scene around noemie's promotion. When you watch the episode, listen out for the expressions meaning 'attention' and 'speaks'. You'll catch them now. See you next time!"
 CLOSING = ('noemie', 'À demain!')
 STORY = [
-    ('mathias', 'Fais attention quand Vincent parle à midi.', 'Watch out when Vincent speaks at lunchtime.', [(342, "C'est Vincent, fais attention, quand il parle")], ''),
+    ('justine', 'Fais attention quand Vincent parle à midi.', 'Watch out when Vincent speaks at lunchtime.', [(342, "C'est Vincent, fais attention, quand il parle")], ''),
     ('noemie', 'Pourquoi? Quel est son problème?', 'Why? What is his problem?', [(343, 'Pas juste un tunnel')], ''),
-    ('mathias', 'Il a une mauvaise haleine terrible!', 'He has terrible bad breath!', [(343, 'un tunnel de mauvaise haleine.')], ''),
+    ('justine', 'Il a une mauvaise haleine terrible!', 'He has terrible bad breath!', [(343, 'un tunnel de mauvaise haleine.')], ''),
     ('noemie', 'Merci beaucoup pour cette mise en garde.', 'Thank you very much for this warning.', [(345, 'Merci pour la mise en garde.')], ''),
-    ('mathias', 'Entre assistants, il faut se serrer les coudes.', 'Between assistants, we must stick together.', [(346, 'Nous les assistants, il faut se serrer les coudes.')], ''),
+    ('justine', 'Entre assistants, il faut se serrer les coudes.', 'Between assistants, we must stick together.', [(346, 'Nous les assistants, il faut se serrer les coudes.')], ''),
     ('noemie', 'Mais je ne suis plus une assistante!', 'But I am no longer an assistant!', [(347, "Je ne suis plus l'assistante de Mathias.")], ''),
-    ('mathias', 'Ah bon? Quel poste occupes-tu maintenant?', 'Really? What job do you hold now?', [(348, 'Non ?')], ''),
+    ('justine', 'Ah bon? Quel poste occupes-tu maintenant?', 'Really? What job do you hold now?', [(348, 'Non ?')], ''),
     ('noemie', 'Je suis responsable du développement des projets.', 'I am head of project development.', [(350, 'sa Responsable du Développement.')], ''),
-    ('mathias', 'Félicitations pour cette belle promotion rapide!', 'Congratulations on this fine quick promotion!', [(352, 'félicitations.')], ''),
-    ('mathias', 'Certains disent que tu as été propulsée.', 'Some people say that you were fast-tracked.', [(354, 'propulsée')], ''),
+    ('justine', 'Félicitations pour cette belle promotion rapide!', 'Congratulations on this fine quick promotion!', [(352, 'félicitations.')], ''),
+    ('justine', 'Certains disent que tu as été propulsée.', 'Some people say that you were fast-tracked.', [(354, 'propulsée')], ''),
     ('noemie', 'Je travaille dur depuis des années.', 'I have been working hard for years.', [(349, 'pendant six ans, chez ASK.')], ''),
     ('mathias', 'Bon appétit chérie, passe une bonne journée!', 'Enjoy your lunch darling, have a good day!', [(358, 'Bon appétit, chérie !')], ''),
     ('noemie', 'Merci monsieur Barneville, bon appétit aussi.', 'Thank you Mr. Barneville, enjoy your lunch too.', [(359, 'Merci, monsieur Barneville.')], ''),

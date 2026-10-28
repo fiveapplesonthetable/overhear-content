@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Настя, скажи, зачем ты меня звала? | Nastya, tell me, why did you call me? | #83 00:06:37: звала | adapted: adapted |
-| 2 | Настя | Тебе нужно выбрать между двумя парнями. | You need to choose between two guys. | #84 00:06:40: выбрать между парнями | adapted: adapted |
-| 3 | Настя | Для этого нужно составить список недостатков. | For that we need to make a list of flaws. | #84 00:06:40: нужно составить список их недостатков | adapted: adapted |
-| 4 | Настя | Я такой глупостью заниматься не буду. | I am not going to occupy myself with such nonsense. | #85 00:06:44: заниматься не буду | adapted: adapted |
-| 5 | Настя | Конечно, поэтому я сама всё составила. | Of course, that is why I put it all together myself. | #86 00:06:47: я сама все составила | adapted: adapted |
-| 6 | Настя | Вот, посмотри внимательно на этот листок. | Here, look closely at this sheet of paper. | #87 00:06:49: Вот, смотри | adapted: adapted |
-| 7 | Настя | Денис у нас ветреный и ненадёжный. | Denis is flighty and unreliable. | #89 00:06:54: Денис<br>#90 00:06:55: Изменник | adapted: adapted |
-| 8 | Настя | Ну, с этим ещё можно жить. | Well, one can still live with that. | #94 00:07:05: Ну, с этим можно жить | adapted: adapted |
-| 9 | Настя | Катя, зато этот список очень объективный. | Katya, on the other hand this list is very objective. | #95 00:07:08: Катя, это объективно | adapted: adapted |
-| 10 | Настя | Большое спасибо тебе за помощь, Настя. | Thank you very much for your help, Nastya. | #95 00:07:08: Спасибо, Настя | adapted: adapted |
-| 11 | Настя | Но я как-нибудь сама во всём разберусь. | But I will figure everything out myself somehow. | #96 00:07:10: Но я как-нибудь | adapted: adapted |
-| 12 | Настя | Смотри, не потеряй этот важный листок. | Mind you do not lose this important sheet of paper. | #88 00:06:50: Пожалуйста | adapted: adapted |
+| 1 | Катя | Настя, скажи, зачем ты меня звала? | Nastya, tell me, why did you call me? | #83: звала | adapted: adapted |
+| 2 | Настя | Тебе нужно выбрать между двумя парнями. | You need to choose between two guys. | #84: выбрать между парнями | adapted: adapted |
+| 3 | Настя | Для этого нужно составить список недостатков. | For that we need to make a list of flaws. | #84: нужно составить список их недостатков | adapted: adapted |
+| 4 | Катя | Я такой глупостью заниматься не буду. | I am not going to occupy myself with such nonsense. | #85: заниматься не буду | adapted: adapted |
+| 5 | Настя | Конечно, поэтому я сама всё составила. | Of course, that is why I put it all together myself. | #86: я сама все составила | adapted: adapted |
+| 6 | Настя | Вот, посмотри внимательно на этот листок. | Here, look closely at this sheet of paper. | #87: Вот, смотри | adapted: adapted |
+| 7 | Настя | Денис у нас ветреный и ненадёжный. | Denis is flighty and unreliable. | #89: Денис<br>#90: Изменник | adapted: adapted |
+| 8 | Катя | Ну, с этим ещё можно жить. | Well, one can still live with that. | #94: Ну, с этим можно жить | adapted: adapted |
+| 9 | Настя | Катя, зато этот список очень объективный. | Katya, on the other hand this list is very objective. | #95: Катя, это объективно | adapted: adapted |
+| 10 | Катя | Большое спасибо тебе за помощь, Настя. | Thank you very much for your help, Nastya. | #95: Спасибо, Настя | adapted: adapted |
+| 11 | Катя | Но я как-нибудь сама во всём разберусь. | But I will figure everything out myself somehow. | #96: Но я как-нибудь | adapted: adapted |
+| 12 | Настя | Смотри, не потеряй этот важный листок. | Mind you do not lose this important sheet of paper. | #88: Пожалуйста | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, tell me, why did you call me?' The grammar packs 'Nastya' and 'to call' into a tight, idiomatic kitchen exchange.
-- 'You need to choose between two guys.' The grammar packs 'to you' and 'boyfriend' into a tight, idiomatic kitchen exchange.
-- 'For that we need to make a list of flaws.' Notice how Russian puts 'needed' and 'flaws / shortcomings' together in a short, direct phrase where word endings show how the ideas connect.
-- 'I am not going to occupy myself with such nonsense.' Notice how Russian expresses 'I' and 'will be' with crisp inflection rather than helper words.
-- 'Of course, that is why I put it all together myself.' The meaning hinges on 'of course' working together with 'put together' in spoken Russian.
-- 'Here, look closely at this sheet of paper.' In Russian, the idea of 'here' flows naturally into 'sheet of paper' without extra filler words.
-- 'Denis is flighty and unreliable.' Nastya brings out the contrast between 'Denis' and 'at' in a few short words.
-- 'Well, one can still live with that.' Notice how Russian expresses 'come on' and 'to live' with crisp inflection rather than helper words.
-- 'Katya, on the other hand this list is very objective.' Here the Russian phrasing highlights 'Katya' before landing on 'objective'. Katya answers right away.
-- 'Thank you very much for your help, Nastya.' Katya anchors the line on 'very much', while 'Nastya' completes the thought.
-- 'But I will figure everything out myself somehow.' The grammar packs 'but' and 'I will sort it out' into a tight, idiomatic kitchen exchange.
-- 'Mind you do not lose this important sheet of paper.' Notice how Russian expresses 'watch' and 'sheet of paper' with crisp inflection rather than helper words.
+- 'Nastya, tell me, why did you call me?' Asking whether tell her why did Nastya calls puts Nastya right on the defensive.
+- 'You need to choose between two guys.' Even though Katya needs to choose between two guys, Nastya keeps a steady face in front of Katya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'For that we need to make a list of flaws.' With the truth and conversation in play, Nastya keeps this short reply brisk and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I am not going to occupy myself with such nonsense.' Being not going to occupy herself with such nonsense is how Katya lays out the situation for Nastya.
+- 'Of course, that is why I put it all together myself.' Once that is why she puts it all together herself, Nastya can finally tell Katya what she means.
+- 'Here, look closely at this sheet of paper.' Around the plan and point, Nastya sets a calm, everyday tone with Katya.
+- 'Denis is flighty and unreliable.' Saying that Denis is flighty and unreliable is how Nastya sets the tone with Katya.
+- 'Well, one can still live with that.' Since one can still live, Katya does not waste words on excuses. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Katya, on the other hand this list is very objective.' Mentioning that on the other hand this list is very objective moves the talk in a new direction. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
+- 'Thank you very much for your help, Nastya.' With the plan and truth in play, Katya keeps this short reply brisk and direct.
+- 'But I will figure everything out myself somehow.' Because she will figure everything out herself somehow, Katya treats the matter as settled.
+- 'Mind you do not lose this important sheet of paper.' Telling Katya to mind Katya does not lose this important sheet of paper moves the conversation forward without extra drama.

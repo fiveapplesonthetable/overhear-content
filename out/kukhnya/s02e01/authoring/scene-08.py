@@ -5,31 +5,30 @@ SEASON = 2
 EPISODE = 1
 SCENE = 8
 TITLE = "Побег Вики  (Vika's Escape)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'Outside the restaurant, Max chains himself in a foolish attempt to prove his devotion and force Victoria to talk. Instead of being moved, Victoria calls him a complete fool and walks away, leaving him stuck alone.'
 OPENER = "Listen to Victoria reacting to Max's ridiculous stunt outside Claude Monet."
 TRANSITION = "Now listen to the entire scene outside the restaurant again. Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max's grand romantic gesture backfires completely, leaving him trapped outside while Victoria goes back to work. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'now' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Видишь, теперь я никуда не уйду.', 'See, now I am not going anywhere.', [(137, 'Ну ты придурок')], ''),
+    ('max', 'Видишь, теперь я никуда не уйду.', 'See, now I am not going anywhere.', [(137, 'Ну ты придурок')], ''),
     ('vika', 'Макс, что это у тебя на руке?', 'Max, what is that on your hand?', [(137, 'Ну ты придурок')], ''),
-    ('anya', 'Я сделал это только ради тебя!', 'I did this only for your sake!', [(138, 'Ты куда, Вик?')], ''),
+    ('max', 'Я сделал это только ради тебя!', 'I did this only for your sake!', [(138, 'Ты куда, Вик?')], ''),
     ('vika', 'Ну ты просто полный дурак!', 'You are just a complete fool!', [(137, 'Ну ты придурок')], ''),
-    ('anya', 'Зато теперь у нас есть время.', 'At least now we have time.', [(138, 'Вик, ты куда?')], ''),
+    ('max', 'Зато теперь у нас есть время.', 'At least now we have time.', [(138, 'Вик, ты куда?')], ''),
     ('vika', 'У меня нет времени на твои глупости.', 'I have no time for your nonsense.', [(137, 'ты придурок')], ''),
-    ('anya', 'Подожди, не уходи от меня!', 'Wait, do not walk away from me!', [(138, 'Ты куда, Вик?')], ''),
+    ('max', 'Подожди, не уходи от меня!', 'Wait, do not walk away from me!', [(138, 'Ты куда, Вик?')], ''),
     ('vika', 'Сиди здесь один со своими идеями.', 'Sit here alone with your ideas.', [(137, 'Ну ты придурок')], ''),
-    ('anya', 'Ты куда идёшь, Вика?', 'Where are you going, Vika?', [(138, 'Ты куда, Вик?')], ''),
-    ('anya', 'Вика, ну ты куда пошла?', 'Vika, well where did you go?', [(138, 'Вик, ты куда?')], ''),
+    ('max', 'Ты куда идёшь, Вика?', 'Where are you going, Vika?', [(138, 'Ты куда, Вик?')], ''),
+    ('max', 'Вика, ну ты куда пошла?', 'Vika, well where did you go?', [(138, 'Вик, ты куда?')], ''),
     ('vika', 'Я иду обратно на свою работу!', 'I am going back to my work!', [(138, 'Ты куда, Вик?')], ''),
-    ('anya', 'Стой, пожалуйста, вернись ко мне!', 'Stop, please come back to me!', [(139, 'Стой!')], ''),
-    ('anya', 'Не оставляй меня тут одного!', 'Do not leave me here alone!', [(139, 'Стой!')], ''),
+    ('max', 'Стой, пожалуйста, вернись ко мне!', 'Stop, please come back to me!', [(139, 'Стой!')], ''),
+    ('max', 'Не оставляй меня тут одного!', 'Do not leave me here alone!', [(139, 'Стой!')], ''),
 ]
 WALK = [
     (0, None, "'See, now I am not going anywhere.' Max proudly shows that he has locked himself in place."),

@@ -1,52 +1,47 @@
+# Authoring module for kukhnya-s02e14-scene-12.
 ID = 'kukhnya-s02e14-scene-12'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 12
-TITLE = "Стычка с Ильёй в зале  (Clash with Ilya in the Dining Room)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Стычка с Ильёй в зале  (Clash with Ilya in the Dining Room)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "sasha": "anja"}
-LABELS = {"sasha": "Саша"}
+LABELS = {'barinov': 'Шеф', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
 SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
-
 INTRO = "Marching out into the dining room, Max confronts Ilya face to face and warns him to stay away from Sasha. Before a fight can break out in front of Elena Pavlovna's table, Vika steps in and orders Ilya to serve the vip guest immediately."
-
-STORY = [
-    ('sasha', 'Поговорить надо.', 'We need to talk.', [(204, 'Поговорить надо')], ''),
-    ('sasha', 'Саша, не лезь, она моя девушка.', 'Sasha, stay out of this, she is my girlfriend.', [(205, 'Саша, не лезь, она моя девушка')], ''),
-    ('sasha', 'И ты не радуйся, это не надолго.', 'And do not get too happy, that will not last long.', [(206, 'И ты не радуйся, это не надолго')], ''),
-    ('sasha', 'Я вижу, ты не понял.', 'I see you did not get the message.', [(207, 'Я вижу, ты не понял')], ''),
-    ('sasha', 'Ну, объясни.', 'Well, explain it to me then.', [(208, 'Ну, объясни')], ''),
-    ('sasha', 'На, ну-ка, прекратили немедленно.', 'Hey, stop this immediately, both of you.', [(209, 'На, ну-ка, прекратили немедленно')], ''),
-    ('sasha', 'С тобой еще закончили, понял?', 'We are not finished here yet, got it?', [(210, 'С тобой еще закончили, понял')], ''),
-    ('sasha', 'Извините, пожалуйста.', 'Excuse me, please.', [(211, 'Извините, пожалуйста')], ''),
-    ('sasha', 'Я же вам говорила.', 'Just like I told you.', [(212, 'Я же вам говорила')], ''),
-    ('sasha', 'Здесь всегда что-то происходит.', 'There is always something dramatic happening here.', [(213, 'Здесь всегда что-то происходит')], ''),
-    ('sasha', 'Вот этого гостя надо очень быстро обслужить.', 'This guest right here needs to be served very quickly.', [(214, 'Вот этого гостя надо очень быстро обслужить')], ''),
-    ('sasha', 'Понял меня?', 'Do you understand me?', [(215, 'Понял меня')], ''),
-    ('sasha', 'Не вопрос.', 'No problem at all.', [(216, 'Не вопрос')], ''),
-]
-
 OPENER = "Let's walk back through the scene line by line."
-
-WALK = [
-    (0, None, "'We need to talk.' Notice how Russian expresses 'to talk' and 'at' with crisp inflection rather than helper words."),
-    (1, None, "'Sasha, stay out of this, she is my girlfriend.' Spoken Russian keeps this brisk, leaning on 'Sasha' and finishing on 'girl'. Sasha answers right away."),
-    (2, None, "'And do not get too happy, that will not last long.' The meaning hinges on 'both' working together with 'for long' in spoken Russian."),
-    (3, None, "'I see you did not get the message.' Chef Viktor addresses the listener with the informal singular 'you' alongside 'understood?'."),
-    (4, None, "'Well, explain it to me then.' The grammar packs 'come on' and 'explain' into a tight, idiomatic kitchen exchange. Chef Viktor answers right away."),
-    (5, None, "'Hey, stop this immediately, both of you.' The grammar packs 'on' and 'immediately' into a tight, idiomatic kitchen exchange."),
-    (6, None, "'We are not finished here yet, got it?' Sasha brings out the contrast between 'with' and 'you' in a few short words."),
-    (7, None, "'Excuse me, please.' The meaning hinges on 'excuse me' working together with 'there you go' in spoken Russian. Sasha answers right away."),
-    (8, None, "'Just like I told you.' The '-a' ending on the past-tense verb for 'used to say' marks a female speaker or subject."),
-    (9, None, "'There is always something dramatic happening here.' Chef Viktor anchors the line on 'here', while 'is going on' completes the thought."),
-    (10, None, "'This guest right here needs to be served very quickly.' In Russian, the idea of 'there you go' flows naturally into 'to serve' without extra filler words. Chef Viktor answers right away."),
-    (11, None, "'Do you understand me?' Chef Viktor raises the pitch on 'me' to turn the phrase into a direct spoken question."),
-    (12, None, "'No problem at all.' The grammar packs 'not' and 'question' into a tight, idiomatic kitchen exchange."),
-]
-
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
 OUTRO = "That wraps up this scene as max confronts Ilya in the dining room to warn him away from Sasha until Vika breaks them up and orders Ilya to serve Elena Pavlovna's table quickly. See you next time!"
-CLOSING = ("sasha", "Увидимся!")
+CLOSING = ('sasha', 'Увидимся!')
+STORY = [
+    ('sasha', 'Поговорить надо.', 'We need to talk.', [(204, 'Поговорить надо')], ''),
+    ('barinov', 'Саша, не лезь, она моя девушка.', 'Sasha, stay out of this, she is my girlfriend.', [(205, 'Саша, не лезь, она моя девушка')], ''),
+    ('sasha', 'И ты не радуйся, это не надолго.', 'And do not get too happy, that will not last long.', [(206, 'И ты не радуйся, это не надолго')], ''),
+    ('barinov', 'Я вижу, ты не понял.', 'I see you did not get the message.', [(207, 'Я вижу, ты не понял')], ''),
+    ('sasha', 'Ну, объясни.', 'Well, explain it to me then.', [(208, 'Ну, объясни')], ''),
+    ('barinov', 'На, ну-ка, прекратили немедленно.', 'Hey, stop this immediately, both of you.', [(209, 'На, ну-ка, прекратили немедленно')], ''),
+    ('sasha', 'С тобой еще закончили, понял?', 'We are not finished here yet, got it?', [(210, 'С тобой еще закончили, понял')], ''),
+    ('barinov', 'Извините, пожалуйста.', 'Excuse me, please.', [(211, 'Извините, пожалуйста')], ''),
+    ('sasha', 'Я же вам говорила.', 'Just like I told you.', [(212, 'Я же вам говорила')], ''),
+    ('barinov', 'Здесь всегда что-то происходит.', 'There is always something dramatic happening here.', [(213, 'Здесь всегда что-то происходит')], ''),
+    ('sasha', 'Вот этого гостя надо очень быстро обслужить.', 'This guest right here needs to be served very quickly.', [(214, 'Вот этого гостя надо очень быстро обслужить')], ''),
+    ('barinov', 'Понял меня?', 'Do you understand me?', [(215, 'Понял меня')], ''),
+    ('sasha', 'Не вопрос.', 'No problem at all.', [(216, 'Не вопрос')], ''),
+]
+WALK = [
+    (0, None, "'We need to talk.' By needing to talk, Sasha keeps her side of the story grounded. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (1, None, "'Sasha, stay out of this, she is my girlfriend.' Staying out of this she is his girlfriend is how Barinov lays out the situation for Sasha."),
+    (2, None, '\'And do not get too happy, that will not last long.\' Realizing that do not get too happy that will not last long changes how Sasha handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (3, None, '\'I see you did not get the message.\' Barinov explains that he sees Sasha did not get the message, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (4, None, "'Well, explain it to me then.' Saying that Barinov should explain it to her then is how Sasha sets the tone with Barinov."),
+    (5, None, "'Hey, stop this immediately, both of you.' Once Sasha should stop this immediately both of Sasha, Barinov can finally tell Sasha what he means."),
+    (6, None, '\'We are not finished here yet, got it?\' Asking whether they are not finished here yet got it puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (7, None, "'Excuse me, please.' With the guest and point in play, Barinov keeps this short reply brisk and direct."),
+    (8, None, '\'Just like I told you.\' Adding that just like she told Barinov fills in the missing piece for Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
+    (9, None, "'There is always something dramatic happening here.' Saying that there is always something dramatic happening here is how Barinov sets the tone with Sasha."),
+    (10, None, "'This guest right here needs to be served very quickly.' Since this guest right here needs to be served very quickly, Sasha does not waste words on excuses."),
+    (11, None, '\'Do you understand me?\' Here checking whether Sasha understands him shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (12, None, "'No problem at all.' With the shift and table in play, Sasha keeps this short reply brisk and direct."),
+]

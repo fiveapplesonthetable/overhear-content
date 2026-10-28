@@ -7,7 +7,6 @@ SCENE = 6
 TITLE = 'Une strip-teaseuse écolo  (An Ecologist Stripper)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
@@ -40,7 +39,7 @@ WALK = [
     (3, None, "'I don't know anything about all that. I even turned off the Wi-Fi!' Literally 'I have even cut the Wi-Fi'."),
     (4, None, "'It's bad for young brains.' Audrey is a very protective new mother. Mathias holds up his phone."),
     (5, None, "'Look, this is the best of his videos.' The word for 'the best' has a feminine ending here to match 'videos'."),
-    (6, None, "'Mathias, he's twelve years old!' Augustin is actually twenty-four, but to Audrey he looks like a schoolboy."),
+    (6, None, "'Mathias, he's twelve years old!' At this point, Augustin is actually twenty-four, but to Audrey he looks like a schoolboy."),
     (7, None, "'He's young, but very talented. Like Xavier Dolan.' Mathias compares him to the famous young Canadian director."),
     (8, None, "'Really? Sweetheart, do you want a fruit compote?' Audrey is only half listening as she feeds her daughter."),
     (9, None, "'It's the story of an ecologist stripper. Very funny, very modern.' Notice the short casual word for 'ecologist' or 'green'."),

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Это финал, и пусть победит сильнейший! | This is the finale, and may the strongest win! | #213 00:16:14: Это финал. И пусть победит сильнейший | verbatim |
-| 2 | Нагиев | Стоп, что там у нас происходит? | Stop, what is going on over there? | #214 00:16:19: Стоп<br>#215 00:16:43: стоп, стоп. Что происходит | adapted: adapted |
-| 3 | Нагиев | Тихо, ребята, я сейчас сам разберусь. | Quiet, guys, I will handle this myself right now. | #216 00:16:45: Тихо, тихо. Я сам | adapted: adapted |
-| 4 | Нагиев | Витя, ты что сейчас тут творишь? | Vitya, what are you doing right here? | #217 00:16:50: Ты что творишь | adapted: adapted |
-| 5 | Шеф | По договору я должен только сниматься. | According to the contract I only have to appear on camera. | #219 00:16:56: По договору я должен сниматься | adapted: adapted |
-| 6 | Шеф | Вот я честно стою и снимаюсь. | So here I am honestly standing and being filmed. | #219 00:16:56: я и снимаюсь | adapted: adapted |
-| 7 | Шеф | А готовить я сегодня не буду. | But I am not going to cook today. | #220 00:16:58: А готовить я не буду | verbatim |
-| 8 | Нагиев | По какому ещё договору, ты слышишь? | According to what contract, do you hear me? | #220 00:16:58: По какому договору | adapted: adapted |
-| 9 | Нагиев | Быстро готовь тут любое блюдо! | Quickly cook any dish right here! | #221 00:17:01: Быстро готовь | adapted: adapted |
-| 10 | Нагиев | А потом иди на все четыре стороны! | And then go wherever you please! | #222 00:17:03: на все четыре стороны | adapted: adapted |
-| 11 | Шеф | Угадай, какой палец у меня в кармане? | Guess which finger is in my pocket? | #223 00:17:07: Какой пальчик | adapted: adapted |
-| 12 | Шеф | Дима, давай сегодня только без скандалов. | Dima, let's just have no scandals today. | #225 00:17:13: Дим, давай без скандалов | adapted: adapted |
+| 1 | Нагиев | Это финал, и пусть победит сильнейший! | This is the finale, and may the strongest win! | #213: Это финал. И пусть победит сильнейший | verbatim |
+| 2 | Нагиев | Стоп, что там у нас происходит? | Stop, what is going on over there? | #214: Стоп<br>#215: стоп, стоп. Что происходит | adapted: adapted |
+| 3 | Нагиев | Тихо, ребята, я сейчас сам разберусь. | Quiet, guys, I will handle this myself right now. | #216: Тихо, тихо. Я сам | adapted: adapted |
+| 4 | Нагиев | Витя, ты что сейчас тут творишь? | Vitya, what are you doing right here? | #217: Ты что творишь | adapted: adapted |
+| 5 | Шеф | По договору я должен только сниматься. | According to the contract I only have to appear on camera. | #219: По договору я должен сниматься | adapted: adapted |
+| 6 | Шеф | Вот я честно стою и снимаюсь. | So here I am honestly standing and being filmed. | #219: я и снимаюсь | adapted: adapted |
+| 7 | Шеф | А готовить я сегодня не буду. | But I am not going to cook today. | #220: А готовить я не буду | verbatim |
+| 8 | Нагиев | По какому ещё договору, ты слышишь? | According to what contract, do you hear me? | #220: По какому договору | adapted: adapted |
+| 9 | Нагиев | Быстро готовь тут любое блюдо! | Quickly cook any dish right here! | #221: Быстро готовь | adapted: adapted |
+| 10 | Нагиев | А потом иди на все четыре стороны! | And then go wherever you please! | #222: на все четыре стороны | adapted: adapted |
+| 11 | Шеф | Угадай, какой палец у меня в кармане? | Guess which finger is in my pocket? | #223: Какой пальчик | adapted: adapted |
+| 12 | Шеф | Дима, давай сегодня только без скандалов. | Dima, let's just have no scandals today. | #225: Дим, давай без скандалов | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is the finale, and may the strongest win!' Here Nagiyev anchors the thought on 'to may' and finishes on 'win', keeping the spoken rhythm brisk and natural.
-- 'Stop, what is going on over there?' Seeing Barinov pull out a newspaper instead of picking up a knife, the director halts filming.
-- 'Quiet, guys, I will handle this myself right now.' Nagiyev marches over to Barinov's cooking table to confront him.
-- 'Vitya, what are you doing right here?' He glares at the newspaper in Barinov's hands and demands an explanation.
-- 'According to the contract I only have to appear on camera.' Here Chef Barinov anchors the thought on 'contract, agreement, treaty' and finishes on 'to camera', keeping the spoken rhythm brisk and natural.
-- 'So here I am honestly standing and being filmed.' Barinov smiles calmly, fulfilling the letter of the law without lifting a finger.
-- 'But I am not going to cook today.' Chef Barinov pairs 'to cook' with 'will be' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'According to what contract, do you hear me?' Nagiyev splutters in outrage at the legal loophole.
-- 'Quickly cook any dish right here!' He orders Barinov to throw anything together on a plate so they can finish the show.
-- 'And then go wherever you please!' Literally meaning to all four sides, this Russian idiom tells someone to go wherever they want.
-- 'Guess which finger is in my pocket?' Barinov replies with the same defiant joke he used that morning.
-- 'Dima, let's just have no scandals today.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'This is the finale, and may the strongest win!' Insisting that this is the finale and may the strongest win shows Nagiyev is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Stop, what is going on over there?' Asking whether stop what is going on over there puts Barinov right on the defensive. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Quiet, guys, I will handle this myself right now.' Admitting that quiet guys he will handle this himself right now shows Nagiyev being honest for a change.
+- 'Vitya, what are you doing right here?' Here wondering what Barinov doing right here is shows Nagiyev looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'According to the contract I only have to appear on camera.' Once according to the contract he only has to appear on camera, Barinov can finally tell Nagiyev what he means.
+- 'So here I am honestly standing and being filmed.' Adding that here he is honestly standing and being filmed fills in the missing piece for Nagiyev.
+- 'But I am not going to cook today.' Being not going to cook today is how Barinov lays out the situation for Nagiyev.
+- 'According to what contract, do you hear me?' Wondering if according to what contract do Barinov hears him shows Nagiyev caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Quickly cook any dish right here!' Between the shift and the table, Nagiyev delivers a sharp reaction.
+- 'And then go wherever you please!' Insisting that Barinov should go wherever Barinov pleases shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Guess which finger is in my pocket?' Barinov asks whether guess which finger is in his pocket, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Dima, let's just have no scandals today.' Adding that they should just have no scandals today fills in the missing piece for Nagiyev.

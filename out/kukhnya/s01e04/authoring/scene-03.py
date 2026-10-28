@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 3
-TITLE = "Сон на смене  (Asleep on the Shift)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сон на смене  (Asleep on the Shift)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "During a high-pressure rush at Claude Monet, Chef Viktor Barinov barks orders across the kitchen line. Noticing that Max is missing from his station, Barinov searches the back storage area and discovers him sound asleep on vegetable crates. Caught red-handed, Max struggles to excuse his midday nap. Let's listen to their fiery confrontation in Russian first."
 OPENER = "Now let's examine Barinov and Max's heated storage room exchange line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('chef', 'На кухне сегодня страшная спешка!', 'There is a terrible rush in the kitchen today!', [(21, 'Быстрее, девочки, двигаемся')], ''),
-    ('anya', 'Шеф, я не слышал ваших криков.', 'Chef, I did not hear your shouts.', [], ''),
-    ('chef', 'Ты что здесь делаешь в темноте?', 'What are you doing here in the dark?', [(24, 'Ты что здесь шляешься')], ''),
-    ('anya', 'Я просто прилёг на пять минут.', 'I simply lay down for five minutes.', [(22, 'минут')], ''),
-    ('chef', 'Огузок, ты спишь прямо на ящиках?!', 'Oguzok, are you sleeping right on the crates?!', [], ''),
-    ('anya', 'Простите, шеф, я очень сильно устал.', 'Forgive me, chef, I was very tired.', [], ''),
-    ('chef', 'У тебя идёт дневная рабочая смена!', 'You have a daytime work shift going on!', [], ''),
-    ('anya', 'Я не мог заснуть всю ночь.', 'I could not fall asleep all night.', [], ''),
-    ('chef', 'Меня совершенно не волнуют твои ночи.', 'Your nights do not concern me at all.', [], ''),
-    ('anya', 'Наверное, у меня сложная акклиматизация.', 'Probably I have difficult acclimatization.', [], ''),
-    ('chef', 'Какая ещё к чёрту акклиматизация?!', 'What on earth kind of acclimatization?!', [], ''),
-    ('chef', 'А ну живо вставай и иди работать!', 'Now get up immediately and go to work!', [], ''),
-    ('anya', 'Уже встаю, шеф, всё понял.', 'Already getting up, chef, understood everything.', [], ''),
+    ('barinov', 'На кухне сегодня страшная спешка!', 'There is a terrible rush in the kitchen today!', [(21, 'Быстрее, девочки, двигаемся')], ''),
+    ('max', 'Шеф, я не слышал ваших криков.', 'Chef, I did not hear your shouts.', [], ''),
+    ('barinov', 'Ты что здесь делаешь в темноте?', 'What are you doing here in the dark?', [(24, 'Ты что здесь шляешься')], ''),
+    ('max', 'Я просто прилёг на пять минут.', 'I simply lay down for five minutes.', [(22, 'минут')], ''),
+    ('barinov', 'Огузок, ты спишь прямо на ящиках?!', 'Oguzok, are you sleeping right on the crates?!', [], ''),
+    ('max', 'Простите, шеф, я очень сильно устал.', 'Forgive me, chef, I was very tired.', [], ''),
+    ('barinov', 'У тебя идёт дневная рабочая смена!', 'You have a daytime work shift going on!', [], ''),
+    ('max', 'Я не мог заснуть всю ночь.', 'I could not fall asleep all night.', [], ''),
+    ('barinov', 'Меня совершенно не волнуют твои ночи.', 'Your nights do not concern me at all.', [], ''),
+    ('max', 'Наверное, у меня сложная акклиматизация.', 'Probably I have difficult acclimatization.', [], ''),
+    ('barinov', 'Какая ещё к чёрту акклиматизация?!', 'What on earth kind of acclimatization?!', [], ''),
+    ('barinov', 'А ну живо вставай и иди работать!', 'Now get up immediately and go to work!', [], ''),
+    ('max', 'Уже встаю, шеф, всё понял.', 'Already getting up, chef, understood everything.', [], ''),
 ]
 WALK = [
     (0, None, "'There is a terrible rush in the kitchen today!' Barinov barks about kitchen urgency with an exclamatory phrase."),

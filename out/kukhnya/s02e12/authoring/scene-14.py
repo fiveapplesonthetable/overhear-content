@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e12-scene-14.
 ID = 'kukhnya-s02e12-scene-14'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 14
-TITLE = "Предупреждение для Вики  (A Warning for Vika)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Предупреждение для Вики  (A Warning for Vika)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja"}
-LABELS = {"vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
 SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
-
 INTRO = "After discovering that Aleksandr's stories are all fabrications, Max heads into the dining room to warn Vika that the new head chef is a shameless liar. Vika, however, assumes Max is speaking out of jealousy and coldly tells him to mind his own business."
-
+OPENER = "Let's walk back through the scene line by line."
+TRANSITION = "Let's hear the full exchange one more time at natural speed."
+OUTRO = 'That wraps up this scene as having realized that Aleksandr steals stories and lies to impress women, Max tries to warn Vika in the dining room, but she brushes him off as jealous. See you next time!'
+CLOSING = ('vika', 'Всего хорошего!')
 STORY = [
     ('vika', 'Рады вас видеть.', 'We are glad to see you.', [(228, 'Рады вас видеть')], ''),
     ('kostya', 'Добрый вечер.', 'Good evening.', [(229, 'Добрый вечер')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('kostya', 'А ты мне кто?', 'And who are you to me?', [(240, 'А ты мне кто')], ''),
     ('vika', 'Не твое дело.', 'None of your business.', [(241, 'Не твое дело')], ''),
 ]
-
-OPENER = "Let's walk back through the scene line by line."
-
 WALK = [
-    (0, None, "'We are glad to see you.' Vika brings out the contrast between 'glad' and 'you' in a few short words."),
-    (1, None, "'Good evening.' Kostya anchors the line on 'good', while 'evening' completes the thought. Vika answers right away."),
-    (2, None, "'Right this way. Give it a try.' In Russian, the idea of 'come in' flows naturally into 'try' without extra filler words."),
-    (3, None, "'Vika, I need to talk to you.' Here the Russian phrasing highlights 'Vika' before landing on 'to talk'."),
-    (4, None, "'Get out of the dining room.' Spoken Russian keeps this brisk, leaning on 'go' and finishing on 'hall'. Kostya answers right away."),
-    (5, None, "'I wanted to warn you.' Kostya addresses the listener with the informal singular 'you' alongside 'to warn'."),
-    (6, None, "'There is this guy here.' Vika brings out the contrast between 'here' and 'one' in a few short words."),
-    (7, None, "'He is lying.' The meaning hinges on 'he' working together with 'is lying' in spoken Russian. Vika answers right away."),
-    (8, None, "'Are you talking about yourself?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question."),
-    (9, None, "'And what business is it of yours?' Here the Russian phrasing highlights 'and' before landing on 'matter'."),
-    (10, None, "'Well, I am worried about you.' In Russian, the idea of 'come on' flows naturally into 'worry' without extra filler words. Kostya answers right away."),
-    (11, None, "'And who are you to me?' Kostya anchors the line on 'and', while 'who' completes the thought."),
-    (12, None, "'None of your business.' The grammar packs 'not' and 'matter' into a tight, idiomatic kitchen exchange."),
+    (0, None, '\'We are glad to see you.\' Adding that they are glad to see Kostya fills in the missing piece for Kostya. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
+    (1, None, "'Good evening.' With the room and plan in play, Kostya keeps this short reply brisk and direct."),
+    (2, None, "'Right this way. Give it a try.' Around the room and situation, Vika sets a calm, everyday tone with Kostya."),
+    (3, None, '\'Vika, I need to talk to you.\' Realizing that he needs to talk to Vika changes how Kostya handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
+    (4, None, "'Get out of the dining room.' Explaining that Kostya should get out of the dining room lays the cards on the table for Kostya."),
+    (5, None, "'I wanted to warn you.' Because he wanted to warn Vika, Kostya treats the matter as settled."),
+    (6, None, "'There is this guy here.' Explaining that there is this guy here lays the cards on the table for Kostya."),
+    (7, None, "'He is lying.' Because he is lying, Kostya treats the matter as settled."),
+    (8, None, "'Are you talking about yourself?' By checking whether Kostya talking about themselves, Vika presses Kostya for a straight answer."),
+    (9, None, '\'And what business is it of yours?\' Asking whether what business is it puts Vika right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (10, None, "'Well, I am worried about you.' Saying that she is worried about Kostya is how Vika sets the tone with Kostya."),
+    (11, None, "'And who are you to me?' Here wondering who Vika to him is shows Kostya looking for the real truth."),
+    (12, None, "'None of your business.' Around the shift and plan, Vika sets a calm, everyday tone with Kostya."),
 ]
-
-TRANSITION = "Let's hear the full exchange one more time at natural speed."
-OUTRO = 'That wraps up this scene as having realized that Aleksandr steals stories and lies to impress women, Max tries to warn Vika in the dining room, but she brushes him off as jealous. See you next time!'
-CLOSING = ("vika", "Всего хорошего!")

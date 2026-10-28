@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Айнура | Ну и лицо у тебя, прямо как тарелка. | What a face you have, just like a plate. | #123 00:09:26: Ну и лицо у тебя, прямо как тарелка | adapted: adapted |
-| 2 | Айнура | Убирайся на родину. | Go back to your homeland. | #124 00:09:30: Убирайся на родину | adapted: adapted |
-| 3 | Айнура | Айнура! Ну что они написали? | Ainura! Well what did they write? | #125 00:09:43: Айнура<br>#126 00:09:45: Ну написали | adapted: adapted |
-| 4 | Айнура | Чего ты написал-то? | What on earth did you write? | #127 00:09:48: Чего ты написал-то | adapted: adapted |
-| 5 | Айнура | Я прикольнуться хотел, ребят. | I wanted to pull a prank, guys. | #129 00:09:53: Я прикольнуться хотел, ребят | adapted: adapted |
-| 6 | Айнура | Это возмутительно! Лёв, прости, пожалуйста. | That is outrageous! Lyova, forgive me, please. | #130 00:09:58: Это возмутительно<br>#131 00:10:00: Лев, прости, пожалуйста | adapted: adapted |
-| 7 | Айнура | Мне очень стыдно за этого человека. | I am very ashamed of this person. | #132 00:10:02: Мне очень стыдно за этого | adapted: adapted |
-| 8 | Айнура | Давай я помогу. Хочешь пригласить её на свидание? | Let me help. Do you want to invite her on a date? | #133 00:10:05: Давайте я помогу. Может, хочешь пригласить ее на свидание | adapted: adapted |
-| 9 | Айнура | Она со мной даже разговаривать не хочет. | She does not even want to talk to me. | #134 00:10:09: Она со мной даже разговаривать не хочет | adapted: adapted |
-| 10 | Айнура | А ты напиши, а я передам. | You write it down, and I will pass it along. | #135 00:10:13: А ты напиши, а я передам | adapted: adapted |
-| 11 | Айнура | Заодно объясню, почему всё так вышло. | At the same time I will explain why it all happened this way. | #136 00:10:16: Заодно объясню, почему все так вышло | adapted: adapted |
-| 12 | Айнура | Ну ничего, пиши. Девушки любят долго собираться. | Never mind, write. Girls love taking a long time to get ready. | #138 00:10:27: Ну ничего, пиши<br>#139 00:10:29: Девушки же любят долго собираться | adapted: adapted |
+| 1 | Лёва | Ну и лицо у тебя, прямо как тарелка. | What a face you have, just like a plate. | #123: Ну и лицо у тебя, прямо как тарелка | adapted: adapted |
+| 2 | Лёва | Убирайся на родину. | Go back to your homeland. | #124: Убирайся на родину | adapted: adapted |
+| 3 | Лёва | Айнура! Ну что они написали? | Ainura! Well what did they write? | #125: Айнура<br>#126: Ну написали | adapted: adapted |
+| 4 | Айнура | Чего ты написал-то? | What on earth did you write? | #127: Чего ты написал-то | adapted: adapted |
+| 5 | Сеня | Я прикольнуться хотел, ребят. | I wanted to pull a prank, guys. | #129: Я прикольнуться хотел, ребят | adapted: adapted |
+| 6 | Айнура | Это возмутительно! Лёв, прости, пожалуйста. | That is outrageous! Lyova, forgive me, please. | #130: Это возмутительно<br>#131: Лев, прости, пожалуйста | adapted: adapted |
+| 7 | Айнура | Мне очень стыдно за этого человека. | I am very ashamed of this person. | #132: Мне очень стыдно за этого | adapted: adapted |
+| 8 | Айнура | Давай я помогу. Хочешь пригласить её на свидание? | Let me help. Do you want to invite her on a date? | #133: Давайте я помогу. Может, хочешь пригласить ее на свидание | adapted: adapted |
+| 9 | Лёва | Она со мной даже разговаривать не хочет. | She does not even want to talk to me. | #134: Она со мной даже разговаривать не хочет | adapted: adapted |
+| 10 | Айнура | А ты напиши, а я передам. | You write it down, and I will pass it along. | #135: А ты напиши, а я передам | adapted: adapted |
+| 11 | Айнура | Заодно объясню, почему всё так вышло. | At the same time I will explain why it all happened this way. | #136: Заодно объясню, почему все так вышло | adapted: adapted |
+| 12 | Айнура | Ну ничего, пиши. Девушки любят долго собираться. | Never mind, write. Girls love taking a long time to get ready. | #138: Ну ничего, пиши<br>#139: Девушки же любят долго собираться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a face you have, just like a plate.' Lyova anchors the line on 'come on', while 'platter' completes the thought.
-- 'Go back to your homeland.' Lyova brings out the contrast between 'get out' and 'on' in a few short words.
-- 'Ainura! Well what did they write?' Lyova anchors the line on 'Ainura', while 'to write' completes the thought.
-- 'What on earth did you write?' The grammar packs 'what' and 'wrote' into a tight, idiomatic kitchen exchange. Senya answers right away.
-- 'I wanted to pull a prank, guys.' Senya anchors the line on 'I', while 'guys' completes the thought.
-- 'That is outrageous! Lyova, forgive me, please.' Notice how Russian expresses 'this' and 'please' with crisp inflection rather than helper words.
-- 'I am very ashamed of this person.' In everyday Russian, 'very much' flows straight into 'a man, a person' without extra linking words.
-- 'Let me help. Do you want to invite her on a date?' Here the Russian phrasing highlights 'come on' before landing on 'date'.
-- 'She does not even want to talk to me.' The meaning hinges on 'she' working together with 'wants' in spoken Russian.
-- 'You write it down, and I will pass it along.' Ainura addresses the listener with the informal singular 'you' alongside 'will pass on'.
-- 'At the same time I will explain why it all happened this way.' The meaning hinges on 'at the same time' working together with 'turned out' in spoken Russian.
-- 'Never mind, write. Girls love taking a long time to get ready.' In Russian, the idea of 'come on' flows naturally into 'to get ready' without extra filler words.
+- 'What a face you have, just like a plate.' Lyova explains that what a face Ainura has just like a plate, keeping his voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Go back to your homeland.' Telling Ainura to go back to Ainura's homeland is how Lyova lays out the situation for Ainura.
+- 'Ainura! Well what did they write?' Asking whether well what did they write puts Ainura right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What on earth did you write?' Wondering if what on earth did Lyova writes shows Ainura caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I wanted to pull a prank, guys.' Admitting that he wanted to pull a prank guys shows Senya being honest for a change.
+- 'That is outrageous! Lyova, forgive me, please.' Because that is outrageous, Ainura does not bother softening the blow for Lyova. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I am very ashamed of this person.' Explaining that she is very ashamed of this person lays the cards on the table for Lyova.
+- 'Let me help. Do you want to invite her on a date?' Asking whether let her help puts Lyova right on the defensive.
+- 'She does not even want to talk to me.' Noting that she does not even want to talk to him keeps Lyova's side of the story simple and clear.
+- 'You write it down, and I will pass it along.' Since Lyova writes it down and she will pass it along, Ainura does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'At the same time I will explain why it all happened this way.' Mentioning that at the same time she will explain why it all happened this way moves the talk in a new direction.
+- 'Never mind, write. Girls love taking a long time to get ready.' With the room and date in play, Ainura keeps this short reply brisk and direct.

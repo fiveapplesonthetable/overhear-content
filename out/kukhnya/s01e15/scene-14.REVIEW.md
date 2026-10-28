@@ -1,39 +1,39 @@
-# Извинения  (Apologies) — `kukhnya-s01e15-scene-14`
+# kukhnya-s01e15-scene-14: review sheet
 
-**Source:** Кухня (Kukhnya) S1.15 · `sources/kukhnya/s01/e15.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Извинения  (Apologies)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.15
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `lyova` | angelina | Лёва |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Lyova comes back home and he finds Viktor Petrovich sleeping in his room. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Лёва, закрой дверь, я уже сплю. | Lyova, close the door, I am already sleeping. | #318 "Лева, закрой дверь, я сплю уже." |  |
-| 1 | Лёва | Ой, Виктор Петрович, вы дома. | Oh, Viktor Petrovich, you are home. | *(added)* |  |
-| 2 | Лёва | Слава богу. | Thank god. | *(added)* |  |
-| 3 | Лёва | Я так боялся, что вы уйдёте. | I was so afraid that you would leave. | *(added)* |  |
-| 4 | Лёва | Я был очень неправ. | I was very wrong. | *(added)* |  |
-| 5 | Лёва | Я не должен был вас выгонять. | I should not have kicked you out. | *(added)* |  |
-| 6 | Лёва | Мы знакомы тысячи лет. | We have known each other for thousands of years. | *(added)* |  |
-| 7 | Лёва | Всякое может случиться. | Anything can happen. | *(added)* |  |
-| 8 | Лёва | Надо просто попросить прощения. | We just need to ask for forgiveness. | *(added)* |  |
-| 9 | Лёва | Надо забыть эту дурацкую историю. | We need to forget this stupid story. | *(added)* |  |
-| 10 | Лёва | Я прошу у вас прощения. | I ask for your forgiveness. | *(added)* |  |
-| 11 | Лёва | Виктор Петрович, вы меня слышите? | Viktor Petrovich, do you hear me? | *(added)* |  |
+| 1 | Шеф | Лёва, закрой дверь, я уже сплю. | Lyova, close the door, I am already sleeping. | #318: Лева, закрой дверь, я сплю уже. | verbatim |
+| 2 | Лёва | Ой, Виктор Петрович, вы дома. | Oh, Viktor Petrovich, you are home. | new | new |
+| 3 | Лёва | Слава богу. | Thank god. | new | new |
+| 4 | Лёва | Я так боялся, что вы уйдёте. | I was so afraid that you would leave. | new | new |
+| 5 | Лёва | Я был очень неправ. | I was very wrong. | new | new |
+| 6 | Лёва | Я не должен был вас выгонять. | I should not have kicked you out. | new | new |
+| 7 | Лёва | Мы знакомы тысячи лет. | We have known each other for thousands of years. | new | new |
+| 8 | Лёва | Всякое может случиться. | Anything can happen. | new | new |
+| 9 | Лёва | Надо просто попросить прощения. | We just need to ask for forgiveness. | new | new |
+| 10 | Лёва | Надо забыть эту дурацкую историю. | We need to forget this stupid story. | new | new |
+| 11 | Лёва | Я прошу у вас прощения. | I ask for your forgiveness. | new | new |
+| 12 | Лёва | Виктор Петрович, вы меня слышите? | Viktor Petrovich, do you hear me? | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Lyova pours his heart out, and he hopes his old friend can hear the apology. Next time you watch the episode, listen for the Russian expressions for 'to close' and 'door' — you will catch every word right away. See you next time!
-
-**Лёва:** Пока!
+- 'Lyova, close the door, I am already sleeping.' Chef Barinov leads with the direct command form meaning 'shut', pairing it with 'the door' and 'already'.
+- 'Oh, Viktor Petrovich, you are home.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'at home', combining 'oh' with 'at home'.
+- 'Thank god.' Russian omits the present-tense verb 'to be' here, linking 'glory' directly with 'to God', combining 'glory' with 'to God'.
+- 'I was so afraid that you would leave.' Lyova uses the polite everyday 'you' alongside 'to leave', keeping a formal or respectful register.
+- 'I was very wrong.' The verb for 'was' is in the matching past tense, marked by the '-l' ending.
+- 'I should not have kicked you out.' The verb for 'was' is in the matching past tense, marked by the '-l' ending.
+- 'We have known each other for thousands of years.' Russian omits the present-tense verb 'to be' here, linking 'acquainted' directly with 'thousands', combining 'acquainted' with 'thousands' and 'years'.
+- 'Anything can happen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'We just need to ask for forgiveness.' Lyova puts the word for 'it is necessary' together with 'just' and 'to ask' in a crisp, natural spoken turn of phrase.
+- 'We need to forget this stupid story.' Here Lyova anchors the line on the word meaning 'it is necessary' and builds the thought around 'forget' and 'foolish'.
+- 'I ask for your forgiveness.' Lyova uses the polite everyday 'you' alongside 'forgiveness', keeping a formal or respectful register.
+- 'Viktor Petrovich, do you hear me?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'hear'.

@@ -5,29 +5,28 @@ SEASON = 1
 EPISODE = 5
 SCENE = 7
 TITLE = "Слёзы Насти  (Nastya's Tears)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina"}
-LABELS = {"nastya": "Настя"}
+LABELS = {'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "In the staff hallway behind the dining room, art director Victoria finds waitress Nastya crying after an argument with Max. Victoria gives her practical advice on dealing with heartbreak and urges her to focus on work. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this comforting conversation in the hallway line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Encouraged by Victoria's supportive words, Nastya returns to her duties in the restaurant. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('nastya', 'Настя, почему ты так горько плачешь?', 'Nastya, why are you crying so bitterly?', [(111, 'Настя, что случилось')], ''),
+    ('vika', 'Настя, почему ты так горько плачешь?', 'Nastya, why are you crying so bitterly?', [(111, 'Настя, что случилось')], ''),
     ('nastya', 'Макс поступил со мной очень плохо.', 'Max treated me very badly.', [(113, 'Максим бросил')], ''),
-    ('nastya', 'Что этот парень опять натворил?', 'What did this guy do again?', [], ''),
+    ('vika', 'Что этот парень опять натворил?', 'What did this guy do again?', [], ''),
     ('nastya', 'Он сказал, что мы просто друзья.', 'He said that we are just friends.', [(115, 'Использовал и бросил')], ''),
-    ('nastya', 'Не расстраивайся из-за глупого повара.', 'Do not be upset over a foolish cook.', [], ''),
+    ('vika', 'Не расстраивайся из-за глупого повара.', 'Do not be upset over a foolish cook.', [], ''),
     ('nastya', 'Мне очень обидно и тяжело.', 'I feel very hurt and sad.', [(116, 'Знаете, как это неприятно')], ''),
-    ('nastya', 'Умойся холодной водой и успокойся.', 'Wash your face with cold water and calm down.', [(118, 'Успокойся, умойся')], ''),
+    ('vika', 'Умойся холодной водой и успокойся.', 'Wash your face with cold water and calm down.', [(118, 'Успокойся, умойся')], ''),
     ('nastya', 'Спасибо за поддержку, Виктория Сергеевна.', 'Thank you for the support, Victoria Sergeevna.', [], ''),
-    ('nastya', 'Возвращайся в зал, гости ждут заказ.', 'Return to the dining hall, the guests are waiting for their order.', [(119, 'возвращайся в работу')], ''),
+    ('vika', 'Возвращайся в зал, гости ждут заказ.', 'Return to the dining hall, the guests are waiting for their order.', [(119, 'возвращайся в работу')], ''),
     ('nastya', 'Я уже вытерла слёзы и готова.', 'I already dried my tears and am ready.', [], ''),
-    ('nastya', 'Вот и умница, работа лечит всё!', 'Good girl, work cures everything!', [], ''),
+    ('vika', 'Вот и умница, работа лечит всё!', 'Good girl, work cures everything!', [], ''),
     ('nastya', 'Вы абсолютно правы, иду работать!', 'You are absolutely right, I am going to work!', [], ''),
 ]
 WALK = [

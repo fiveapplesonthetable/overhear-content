@@ -7,7 +7,6 @@ SCENE = 24
 TITLE = 'La musique dans la tête  (Music in the head)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'chanteuse': 'emilie'}
 LABELS = {'chanteuse': 'Chanteuse'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'

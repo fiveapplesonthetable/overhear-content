@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 34
-TITLE = "Неудачные дубли  (Outtakes and Bloopers)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неудачные дубли  (Outtakes and Bloopers)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = 'As the shift winds down and credits roll, the restaurant crew unwinds with playful teasing and hilarious outtakes. Kostya works up the courage to ask Nastya to the movies, while Chef Barinov vents loudly about his beloved football match.'
 OPENER = "Let's enjoy the post-shift banter between Kostya and Nastya alongside Chef Barinov's fiery football passion."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A demanding shift at Claude Monet comes to an end with laughter, plans for romance, and endless passion for football. Next time you watch the episode, listen for the Russian expressions for 'to be ill' and 'cheerful' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, прекрати так громко смеяться на кухне!', 'Nastya, stop laughing so loudly in the kitchen!', [], ''),
     ('nastya', 'Костя, ты сегодня очень сердитый и смешной.', 'Kostya, you are very angry and funny today.', [], ''),
@@ -24,11 +23,11 @@ STORY = [
     ('kostya', 'Пойдёшь со мной сегодня вечером в кино?', 'Will you go to the cinema with me tonight?', [(379, 'Пойдешь к кино?')], ''),
     ('nastya', 'Ну ты настоящий чудак, конечно пойду!', 'Well you are a real oddball, of course I will go!', [(380, 'Ну ты придурок.')], ''),
     ('kostya', 'Тогда встречаемся в семь часов около метро.', "Then we meet at seven o'clock near the metro.", [(381, 'Ладно, пойдем. Тогда до вечера.')], ''),
-    ('kostya', 'Кто опять трогал мою любимую кастрюлю?!', 'Who touched my favorite pot again?!', [(382, 'Подонки!')], ''),
-    ('kostya', 'Ты за кого сегодня болел на матче?!', 'Who were you rooting for today at the match?!', [(383, 'Ты за кого болел? Ты за кого болел?')], ''),
+    ('barinov', 'Кто опять трогал мою любимую кастрюлю?!', 'Who touched my favorite pot again?!', [(382, 'Подонки!')], ''),
+    ('barinov', 'Ты за кого сегодня болел на матче?!', 'Who were you rooting for today at the match?!', [(383, 'Ты за кого болел? Ты за кого болел?')], ''),
     ('kostya', 'Шеф опять кричит про свой любимый футбол.', 'The chef is shouting again about his favorite football.', [], ''),
     ('nastya', 'Он всегда так громко переживает за Спартак.', 'He always worries so loudly about Spartak.', [], ''),
-    ('kostya', 'Футбол — это самое главное в жизни!', 'Football is the most important thing in life!', [], ''),
+    ('barinov', 'Футбол — это самое главное в жизни!', 'Football is the most important thing in life!', [], ''),
     ('kostya', 'Пойдём скорее отсюда, пока он спокоен.', "Let's go quickly from here while he is calm.", [], ''),
     ('nastya', 'Да, идём скорее смотреть весёлый фильм!', "Yes, let's go quickly to watch a fun movie!", [], ''),
 ]

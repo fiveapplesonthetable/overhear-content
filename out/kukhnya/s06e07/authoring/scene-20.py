@@ -1,20 +1,22 @@
+# Authoring module for kukhnya-s06e07-scene-20.
 ID = 'kukhnya-s06e07-scene-20'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 20
-TITLE = "Правда об анализах  (The Truth About the Tests)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Правда об анализах  (The Truth About the Tests)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "gulya": "anja"}
-LABELS = {"lyova": "Лёва", "gulya": "Гуля"}
+LABELS = {'gulya': 'Гуля', 'lyova': 'Лёва', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
-
 INTRO = 'In the final scene of episode seven, Chef Barinov calls Lyova at the worst possible moment and puts him on the line with Elena to clear up the clinic mix-up.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Realizing that Lyova is in peak health after she already gave herself to him out of pity leaves Gulya both relieved and mortified. See you next time!'
+CLOSING = ('gulya', 'До завтра!')
 STORY = [
-    ('lyova', 'Значит, ты считаешь меня некрасивой, понял?', 'So you think I am unattractive, got it?', [(340, 'понял')], 'adapted'),
+    ('nastya', 'Значит, ты считаешь меня некрасивой, понял?', 'So you think I am unattractive, got it?', [(340, 'понял')], 'adapted'),
     ('lyova', 'Алло, да, шеф, я вас слушаю.', 'Hello, yes, chef, I am listening to you.', [(342, 'Да, шеф')], 'adapted'),
     ('lyova', 'Ну хорошо, давайте я ей всё скажу.', 'Well alright, let me tell her everything.', [(343, 'Ну, хорошо, давайте')], 'adapted'),
     ('lyova', 'Здравствуйте, уважаемая Елена Павловна.', 'Hello, respected Elena Pavlovna.', [(344, 'здрасте')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('gulya', 'Да нет, ничего, всё очень хорошо.', 'Oh no, nothing, everything is very good.', [(351, 'Да нет, ничего, все хорошо')], 'adapted'),
     ('lyova', 'Какой же странный сегодня получился вечер!', 'What a strange evening it has turned out to be today!', [(351, 'все хорошо')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'So you think I am unattractive, got it?' Here the Russian phrasing highlights 'so' before landing on 'understood'."),
-    (1, None, "'Hello, yes, chef, I am listening to you.' Notice how Russian expresses 'hello' and 'to listen' with crisp inflection rather than helper words."),
-    (2, None, "'Well alright, let me tell her everything.' The grammar packs 'come on' and 'will say' into a tight, idiomatic kitchen exchange."),
-    (3, None, "'Hello, respected Elena Pavlovna.' The meaning hinges on 'hello' working together with 'Elena' in spoken Russian."),
-    (4, None, "'I really did go take the medical tests in the chef's place.' The '-l' ending on the verb meaning 'to go' places the action in the masculine past tense."),
-    (5, None, "'Forgive us, please, for this deception.' Spoken Russian keeps this brisk, leaning on 'forgive' and finishing on 'deception'."),
-    (6, None, "'Yes, all the best, goodbye.' Notice how Russian expresses 'yes' and 'goodbye' with crisp inflection rather than helper words."),
-    (7, None, "'So you did not go to the hospital because of an illness?' Gulya raises the pitch on 'disease' to turn the phrase into a direct spoken question. Lyova answers right away."),
-    (8, None, "'No, on the contrary, my test results are excellent!' Lyova anchors the line on 'yes', while 'test' completes the thought."),
-    (9, None, "'And why did you suddenly ask about that?' The '-a' ending on the past-tense verb for 'asked' marks a female speaker or subject."),
-    (10, None, "'Oh no, nothing, everything is very good.' The grammar packs 'yes' and 'well' into a tight, idiomatic kitchen exchange. Lyova answers right away."),
-    (11, None, "'What a strange evening it has turned out to be today!' Here the Russian phrasing highlights 'what' before landing on 'evening'."),
+    (0, None, '\'So you think I am unattractive, got it?\' When Nastya asks if Gulya thinks she is unattractive got it, Gulya has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (1, None, '\'Hello, yes, chef, I am listening to you.\' Even though he is listening to Gulya, Lyova keeps a steady face in front of Gulya. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (2, None, "'Well alright, let me tell her everything.' Claiming that alright let him tell her everything sounds confident, even if Gulya has doubts."),
+    (3, None, "'Hello, respected Elena Pavlovna.' With the conversation and point in play, Lyova keeps this short reply brisk and direct."),
+    (4, None, "'I really did go take the medical tests in the chef's place.' Lyova mentions that he really did go take the medical tests in the place so Gulya sees what is at stake."),
+    (5, None, "'Forgive us, please, for this deception.' Forgiving them please for this deception is how Lyova lays out the situation for Gulya."),
+    (6, None, "'Yes, all the best, goodbye.' With the work and moment in play, Lyova keeps this short reply brisk and direct."),
+    (7, None, '\'So you did not go to the hospital because of an illness?\' Asking whether Lyova did not go to the hospital because of an illness puts Lyova right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (8, None, "'No, on the contrary, my test results are excellent!' Saying that on the contrary his test results are excellent is how Lyova takes charge of the moment."),
+    (9, None, '\'And why did you suddenly ask about that?\' By asking why Gulya suddenly ask, Lyova presses Gulya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (10, None, "'Oh no, nothing, everything is very good.' Once nothing everything is very good, Gulya can finally tell Lyova what she means."),
+    (11, None, "'What a strange evening it has turned out to be today!' Insisting that what a strange evening it has turned out to be today shows Lyova is not backing down."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Realizing that Lyova is in peak health after she already gave herself to him out of pity leaves Gulya both relieved and mortified. See you next time!'
-CLOSING = ("gulya", "До завтра!")

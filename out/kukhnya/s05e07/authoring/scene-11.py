@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s05e07-scene-11.
 ID = 'kukhnya-s05e07-scene-11'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 11
-TITLE = "Очередная ссора с Мариной  (Another Quarrel with Marina)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Очередная ссора с Мариной  (Another Quarrel with Marina)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "gulya": "anja"}
-LABELS = {"senya": "Сеня", "gulya": "Гуля"}
+LABELS = {'gulya': 'Гуля', 'katya': 'Катя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
-
 INTRO = "In the kitchen, Katya accidentally bumps into Marina's mop bucket, setting off another jealous explosion. Marina corners Senya and demands he tell Katya to her face that there is nothing between them."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'After Marina storms off, Fedya comforts a crying Katya and they come up with a plan to trick Marina into leaving for good. Until next time!'
+CLOSING = ('senya', 'Хорошего дня!')
 STORY = [
     ('gulya', 'Тебе под ноги смотреть не учили?', 'Did they not teach you to watch your step?', [(180, 'Тебе под ноги смотреть не учили')], 'adapted'),
     ('senya', 'Ты опять завелась?', 'Are you worked up again?', [(181, 'Ты опять завелась')], 'adapted'),
@@ -25,26 +27,19 @@ STORY = [
     ('gulya', 'Почему я за тебя должна это говорить?', 'Why do I have to say this for you?', [(186, 'Почему я за тебя должна это говорить')], 'adapted'),
     ('gulya', 'А может, ты всё-таки её хочешь?', 'Or maybe you still want her after all?', [(187, 'А может ты всё-таки её хочешь')], 'adapted'),
     ('senya', 'Да что ты заладила!', 'Why do you keep repeating that!', [(188, 'Да что ты заладила')], 'adapted'),
-    ('senya', 'Дура ненормальная!', 'Crazy fool!', [(189, 'Дура')], 'adapted'),
+    ('katya', 'Дура ненормальная!', 'Crazy fool!', [(189, 'Дура')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Did they not teach you to watch your step?' The meaning hinges on 'to you' working together with 'taught' in spoken Russian."),
-    (1, None, "'Are you worked up again?' The '-a' ending on the past-tense verb for 'got worked up' marks a female speaker or subject. Gulya answers right away."),
-    (2, None, "'I got worked up? She kicked my bucket on purpose!' Gulya anchors the line on 'I', while 'kicked' completes the thought."),
-    (3, None, "'Just leave her alone already!' In Russian, the idea of 'yes' flows naturally into 'she' without extra filler words."),
-    (4, None, "'There is nothing and never was anything between Katya and me.' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'was'. Gulya answers right away."),
-    (5, None, "'And never will be!' In Russian, the idea of 'and' flows naturally into 'will be' without extra filler words."),
-    (6, None, "'Of course there never will be.' In Russian, the idea of 'yes' flows naturally into 'will be' without extra filler words."),
-    (7, None, "'Why did you not say right away: there was not, is not, and will not be?' Notice how Russian expresses 'why' and 'will be' with crisp inflection rather than helper words."),
-    (8, None, "'Why do I have to say this for you?' Spoken Russian keeps this brisk, leaning on 'why' and finishing on 'to speak'."),
-    (9, None, "'Or maybe you still want her after all?' In Russian, the idea of 'and' flows naturally into 'want' without extra filler words."),
-    (10, None, "'Why do you keep repeating that!' The meaning hinges on 'yes' working together with 'keep repeating' in spoken Russian. Katya answers right away."),
-    (11, None, "'Crazy fool!' Notice how Russian expresses 'fool' and 'crazy' with crisp inflection rather than helper words."),
+    (0, None, '\'Did they not teach you to watch your step?\' By asking whether they not teach Katya to watch Katya\'s step, Gulya presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (1, None, '\'Are you worked up again?\' Checking whether Gulya worked up again cuts straight through the tension between Senya and Gulya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (2, None, "'I got worked up? She kicked my bucket on purpose!' Questioning whether she got worked up is how Gulya tests Katya's story."),
+    (3, None, '\'Just leave her alone already!\' Between the situation and the moment, Senya delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (4, None, '\'There is nothing and never was anything between Katya and me.\' Because there is nothing and never was anything between Katya and him, Senya treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (5, None, "'And never will be!' Once never will be, Gulya makes sure Katya hears every word."),
+    (6, None, "'Of course there never will be.' Senya mentions that there never will be so Gulya sees what is at stake."),
+    (7, None, '\'Why did you not say right away: there was not, is not, and will not be?\' Here wondering why Katya not say right away there was not is not and will not be shows Gulya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (8, None, "'Why do I have to say this for you?' By asking why she has to say this for Katya, Gulya presses Katya for a straight answer."),
+    (9, None, '\'Or maybe you still want her after all?\' With the kitchen and point hanging in the air, Gulya puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (10, None, '\'Why do you keep repeating that!\' Because why do Gulya keeps repeating, Senya does not bother softening the blow for Gulya. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (11, None, "'Crazy fool!' With the kitchen and situation at stake, Katya reacts without holding back."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'After Marina storms off, Fedya comforts a crying Katya and they come up with a plan to trick Marina into leaving for good. Until next time!'
-CLOSING = ("senya", "Хорошего дня!")

@@ -7,8 +7,7 @@ SCENE = 4
 TITLE = 'Une nouvelle agence  (A New Agency)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Outside the agency, Camille reveals her new business plans to Herve, who hints at a surprising career change. Meanwhile, Mathias makes an important decision about his future in film production alongside Noemie. Let's listen to their conversation in French first."
@@ -29,8 +28,8 @@ STORY = [
     ('herve', "Je sais pas, c'est trop risqué.", 'FIXME translation', [(177, "Je sais pas, c'est trop risqué.")], ''),
     ('camille', 'De toute façon, il y aura toujours un bureau pour toi.', 'FIXME translation', [(178, 'De toute façon, il y aura toujours un bureau pour toi dans mon agence.')], ''),
     ('camille', 'Tu vas vraiment me laisser produire le film?', 'FIXME translation', [(184, 'Tu vas vraiment me laisser produire le film de Beauvois?')], ''),
-    ('lea', 'Je te laisse produire le film parce que tu en es capable.', 'FIXME translation', [(189, 'Je te laisse produire le film parce que tu en es capable.')], ''),
-    ('lea', "Mon vrai cadeau, c'est que tu prennes soin de toi.", 'FIXME translation', [(196, "Mon vrai cadeau, c'est... que tu prennes soin de toi.")], ''),
+    ('mathias', 'Je te laisse produire le film parce que tu en es capable.', 'FIXME translation', [(189, 'Je te laisse produire le film parce que tu en es capable.')], ''),
+    ('mathias', "Mon vrai cadeau, c'est que tu prennes soin de toi.", 'FIXME translation', [(196, "Mon vrai cadeau, c'est... que tu prennes soin de toi.")], ''),
 ]
 WALK = [
     (0, None, "'FIXME translation' Outside the agency, Camille shares a hopeful quote from her mother with Herve. The verb meaning 'to say' pairs naturally with the noun for 'mother' in everyday conversation."),

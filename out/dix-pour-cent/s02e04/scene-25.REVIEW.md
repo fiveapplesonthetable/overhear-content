@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e04-scene-25` — L'entretien d'embauche  (The Job Interview)
+# dix-pour-cent-s02e04-scene-25: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "herve": "marcel", "gabriel": "theo"}`
-- **Labels**: `{"herve": "Hervé", "gabriel": "Gabriel"}`
+Title: L'entretien d'embauche  (The Job Interview)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E04
 
-## Part 1 — Intro
-> In Hicham's office, Gabriel steps out with his dog so Hicham can interview Hervé privately. Hervé pitches his unique talents, dedication, and keen sense of observation for the junior agent position. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Jean Gabin, viens avec moi! | Jean Gabin, come with me! | 736:Jean Gabin, viens ici ! |
-| 1 | `gabriel` (Gabriel) | Maintenant, nous sommes entre hommes. | Now, we are man-to-man. | 737:Maintenant, c'est entre hommes. |
-| 2 | `gabriel` (Gabriel) | Comment tu envisages ce poste? | How do you envisage this position? | 738:Comment tu envisages le poste ? |
-| 3 | `herve` (Hervé) | Je ne veux pas quitter Gabriel. | I do not want to leave Gabriel. | 739:-En quittant Gabriel ? -Oh non. |
-| 4 | `herve` (Hervé) | Je continuerai à travailler avec lui. | I will continue to work with him. | 740:Je continuerai à travailler avec lui |
-| 5 | `herve` (Hervé) | Je peux faire plusieurs choses ensemble. | I can do several things together. | 741:Je suis très ouvert à faire plusieurs choses en même temps. |
-| 6 | `herve` (Hervé) | Si vous m'engagez, je serai parfait. | If you hire me, I will be perfect. | 742:Si vous m'engagez, je me donnerai à fond. |
-| 7 | `gabriel` (Gabriel) | Qu'est-ce que vous aimez dans ce métier? | What do you like about this profession? | 743:Et... qu'est-ce que vous aimez le plus dans ce métier ? |
-| 8 | `herve` (Hervé) | J'aime l'excitation de la découverte. | I like the excitement of discovery. | 744:L'excitation de la découverte. |
-| 9 | `gabriel` (Gabriel) | Et quelle est votre plus grande qualité? | And what is your greatest quality? | 745:Votre plus grande qualité ? |
-| 10 | `herve` (Hervé) | J'ai un grand sens de l'observation. | I have a great sense of observation. | 746:Mon sens de l'observation. |
-| 11 | `gabriel` (Gabriel) | Qu'allez-vous améliorer chez ASK? | What will you improve at ASK? | 747:Qu'amélioreriez-vous chez ASK ? |
-| 12 | `herve` (Hervé) | La communication, sans aucune hésitation. | Communication, without any hesitation. | 748:La communication, sans hésiter. |
-| 13 | `gabriel` (Gabriel) | Merci, nous recommencerons les entretiens demain. | Thank you, we will resume the interviews tomorrow. | 763:-À partir d'où ? -On recommence. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Hervé presents his case with characteristic wit and passion, showing his ambition to become a full agent. See you next time!
-- **Closing**: `herve`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Jean Gabin, viens avec moi! | Jean Gabin, come with me! | #736: Jean Gabin, viens ici ! | verbatim |
+| 2 | Hicham | Maintenant, nous sommes entre hommes. | Now, we are man-to-man. | #737: Maintenant, c'est entre hommes. | verbatim |
+| 3 | Hicham | Comment tu envisages ce poste? | How do you envisage this position? | #738: Comment tu envisages le poste ? | verbatim |
+| 4 | Hervé | Je ne veux pas quitter Gabriel. | I do not want to leave Gabriel. | #739: -En quittant Gabriel ? -Oh non. | verbatim |
+| 5 | Hervé | Je continuerai à travailler avec lui. | I will continue to work with him. | #740: Je continuerai à travailler avec lui | verbatim |
+| 6 | Hervé | Je peux faire plusieurs choses ensemble. | I can do several things together. | #741: Je suis très ouvert à faire plusieurs choses en même temps. | verbatim |
+| 7 | Hervé | Si vous m'engagez, je serai parfait. | If you hire me, I will be perfect. | #742: Si vous m'engagez, je me donnerai à fond. | verbatim |
+| 8 | Hicham | Qu'est-ce que vous aimez dans ce métier? | What do you like about this profession? | #743: Et... qu'est-ce que vous aimez le plus dans ce métier ? | verbatim |
+| 9 | Hervé | J'aime l'excitation de la découverte. | I like the excitement of discovery. | #744: L'excitation de la découverte. | verbatim |
+| 10 | Hicham | Et quelle est votre plus grande qualité? | And what is your greatest quality? | #745: Votre plus grande qualité ? | verbatim |
+| 11 | Hervé | J'ai un grand sens de l'observation. | I have a great sense of observation. | #746: Mon sens de l'observation. | verbatim |
+| 12 | Hicham | Qu'allez-vous améliorer chez ASK? | What will you improve at ASK? | #747: Qu'amélioreriez-vous chez ASK ? | verbatim |
+| 13 | Hervé | La communication, sans aucune hésitation. | Communication, without any hesitation. | #748: La communication, sans hésiter. | verbatim |
+| 14 | Hicham | Merci, nous recommencerons les entretiens demain. | Thank you, we will resume the interviews tomorrow. | #763: -À partir d'où ? -On recommence. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Jean Gabin, come with me!' Gabriel calls his faithful dog as he steps out of the office.
+- 'Now, we are man-to-man.' Hicham sets an informal tone for their private discussion.
+- 'How do you envisage this position?' Hicham asks how Hervé plans to handle the responsibilities.
+- 'I do not want to leave Gabriel.' Hervé immediately makes clear that he remains loyal to his mentor.
+- 'I will continue to work with him.' The key word here means 'will continue', paired with 'to work' to make the point clear.
+- 'I can do several things together.' Hervé highlights his ability to multitask across different agency tasks.
+- 'If you hire me, I will be perfect.' Hervé opens with the word for 'hire me' and lands on 'perfect' at the close.
+- 'What do you like about this profession?' Hicham probes Hervé's passion for talent representation.
+- 'I like the excitement of discovery.' Hervé identifies scouting new talents as his main thrill.
+- 'And what is your greatest quality?' Hicham asks a classic job interview question about personal virtues.
+- 'I have a great sense of observation.' Hervé emphasizes how attentively he watches everyone in the agency.
+- 'What will you improve at ASK?' Hicham challenges him to identify internal agency weaknesses.
+- 'Communication, without any hesitation.' Hervé points directly to the lack of transparent communication.
+- 'Thank you, we will resume the interviews tomorrow.' Hicham wraps up the meeting with polite reserve.

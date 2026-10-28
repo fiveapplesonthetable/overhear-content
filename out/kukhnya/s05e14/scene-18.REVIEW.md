@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илья | Хорошо, что такая симпатичная девушка пришла к нам. | It is nice that such a pretty girl came to work with us. | #317 00:19:56: Это хорошо, что такая симпатичная девушка | adapted: adapted |
-| 2 | Илья | Большое спасибо вам за такие добрые слова. | Thank you very much for such kind words. | #319 00:20:03: Спасибо | adapted: adapted |
-| 3 | Илья | Нам надо будет обязательно познакомиться с вами поближе. | We will definitely need to get to know each other better. | #320 00:20:06: Нам надо будет познакомиться поближе | adapted: adapted |
-| 4 | Илья | Послушайте, что вы себе вообще тут позволяете? | Listen, what on earth are you allowing yourself here? | #321 00:20:10: Что вы позволяете себе вообще | adapted: adapted |
-| 5 | Илья | Если хотите работать в ресторане, вам придётся согласиться. | If you want to work in the restaurant, you will have to agree. | #322 00:20:11: если вы хотите работать в этом ресторане | adapted: adapted |
-| 6 | Илья | Если будете вести себя хорошо, сделаете быструю карьеру. | If you behave well, you will make a fast career. | #324 00:20:20: Если будете вести себя хорошо | adapted: adapted |
-| 7 | Илья | Смотрите, вот у нашего директора отличная карьера получилась! | Look, our director's career turned out great! | #326 00:20:28: Вот у вашего директора карьера получилась | adapted: adapted |
-| 8 | Илья | Вы просто наглый хам, я ухожу отсюда! | You are simply an insolent jerk, I am leaving! | #321 00:20:10: позволяете себе | adapted: adapted |
-| 9 | Илья | Ай, за что вы меня так сильно ударили? | Ouch, what did you hit me so hard for? | #327 00:20:32: Видишь | adapted: adapted |
-| 10 | Илья | Оксана, извините нас, что тут у вас случилось? | Oksana, excuse us, what happened here with you? | #328 00:20:34: Извините. Что такое | adapted: adapted |
-| 11 | Илья | Она вдруг ни с того ни с сего драться начала! | She suddenly started fighting out of nowhere! | #328 00:20:34: Что такое | adapted: adapted |
-| 12 | Илья | Терпи, Илья, у богатых людей свои причуды. | Endure it, Ilya, rich people have their own quirks. | #329 00:20:41: У богатых свои причуды | adapted: adapted |
+| 1 | Илья | Хорошо, что такая симпатичная девушка пришла к нам. | It is nice that such a pretty girl came to work with us. | #317: Это хорошо, что такая симпатичная девушка | adapted: adapted |
+| 2 | Хостес | Большое спасибо вам за такие добрые слова. | Thank you very much for such kind words. | #319: Спасибо | adapted: adapted |
+| 3 | Илья | Нам надо будет обязательно познакомиться с вами поближе. | We will definitely need to get to know each other better. | #320: Нам надо будет познакомиться поближе | adapted: adapted |
+| 4 | Хостес | Послушайте, что вы себе вообще тут позволяете? | Listen, what on earth are you allowing yourself here? | #321: Что вы позволяете себе вообще | adapted: adapted |
+| 5 | Илья | Если хотите работать в ресторане, вам придётся согласиться. | If you want to work in the restaurant, you will have to agree. | #322: если вы хотите работать в этом ресторане | adapted: adapted |
+| 6 | Илья | Если будете вести себя хорошо, сделаете быструю карьеру. | If you behave well, you will make a fast career. | #324: Если будете вести себя хорошо | adapted: adapted |
+| 7 | Илья | Смотрите, вот у нашего директора отличная карьера получилась! | Look, our director's career turned out great! | #326: Вот у вашего директора карьера получилась | adapted: adapted |
+| 8 | Хостес | Вы просто наглый хам, я ухожу отсюда! | You are simply an insolent jerk, I am leaving! | #321: позволяете себе | adapted: adapted |
+| 9 | Илья | Ай, за что вы меня так сильно ударили? | Ouch, what did you hit me so hard for? | #327: Видишь | adapted: adapted |
+| 10 | Михаил | Оксана, извините нас, что тут у вас случилось? | Oksana, excuse us, what happened here with you? | #328: Извините. Что такое | adapted: adapted |
+| 11 | Илья | Она вдруг ни с того ни с сего драться начала! | She suddenly started fighting out of nowhere! | #328: Что такое | adapted: adapted |
+| 12 | Михаил | Терпи, Илья, у богатых людей свои причуды. | Endure it, Ilya, rich people have their own quirks. | #329: У богатых свои причуды | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is nice that such a pretty girl came to work with us.' The '-a' ending on the past-tense verb for 'came' marks a female speaker or subject. the hostess answers right away.
-- 'Thank you very much for such kind words.' the hostess brings out the contrast between 'very much' and 'thank you' in a few short words.
-- 'We will definitely need to get to know each other better.' Ilya brings out the contrast between 'us' and 'need' in a few short words.
-- 'Listen, what on earth are you allowing yourself here?' the hostess raises the pitch on 'to allow' to turn the phrase into a direct spoken question. Ilya answers right away.
-- 'If you want to work in the restaurant, you will have to agree.' Ilya brings out the contrast between 'if' and 'want' in a few short words.
-- 'If you behave well, you will make a fast career.' The meaning hinges on 'if' working together with 'career' in spoken Russian.
-- 'Look, our director's career turned out great!' The meaning hinges on 'look' working together with 'turned out' in spoken Russian. the hostess answers right away.
-- 'You are simply an insolent jerk, I am leaving!' An emphatic spoken line centered on the verb meaning 'leave'.
-- 'Ouch, what did you hit me so hard for?' Notice how Russian expresses 'ouch' and 'to hit' with crisp inflection rather than helper words.
-- 'Oksana, excuse us, what happened here with you?' Mikhail raises the pitch on 'happened' to turn the phrase into a direct spoken question. Ilya answers right away.
-- 'She suddenly started fighting out of nowhere!' Ilya brings out the contrast between 'she' and 'suddenly' in a few short words.
-- 'Endure it, Ilya, rich people have their own quirks.' Mikhail anchors the line on 'bear', while 'quirks' completes the thought.
+- 'It is nice that such a pretty girl came to work with us.' Ilya mentions that it is nice that such a pretty girl came to work with them so the hostess sees what is at stake.
+- 'Thank you very much for such kind words.' Around the moment and interview, the hostess sets a calm, everyday tone with Ilya.
+- 'We will definitely need to get to know each other better.' Pointing out that they will definitely need to get to know each other better gives the hostess a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Listen, what on earth are you allowing yourself here?' The hostess asks whether what on earth are Ilya allowing themselves here, refusing to let the point slide. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'If you want to work in the restaurant, you will have to agree.' Realizing that if the hostess wants to work in the restaurant the hostess will have to agree changes how Ilya handles the situation.
+- 'If you behave well, you will make a fast career.' Noting that if the hostess behave well the hostess will make a fast career keeps Ilya's side of the story simple and clear.
+- 'Look, our director's career turned out great!' Declaring that their director career turned out great brings Ilya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'You are simply an insolent jerk, I am leaving!' The hostess insists that Ilya is simply an insolent jerk she is leaving, leaving Ilya no room to argue.
+- 'Ouch, what did you hit me so hard for?' Ilya asks whether ouch what did the hostess hits him so hard, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Oksana, excuse us, what happened here with you?' Turning from the interview to the shift, Mikhail asks the hostess directly. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'She suddenly started fighting out of nowhere!' Because she suddenly started fighting out of nowhere, Ilya does not bother softening the blow for the hostess.
+- 'Endure it, Ilya, rich people have their own quirks.' Mikhail tells the hostess that endure it Ilya rich people have their own quirks without dressing it up.

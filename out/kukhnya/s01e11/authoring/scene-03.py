@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 3
-TITLE = "Свидание на митинге  (A Date at the Rally)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Свидание на митинге  (A Date at the Rally)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = "Standing behind the bar at Claude Monet, Kostya notices waitress Nastya looking upset about cut flowers in the dining room. Hoping to cheer her up and ask her out on a romantic weekend date, he is caught completely off guard when she eagerly invites him to a forest protest rally. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this conversation at the bar line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Swapping movie popcorn for protest banners out of affection for Nastya, Kostya accepts her unconventional date proposal with bemused devotion. Next time you watch the episode, listen for the Russian expressions for 'big' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Привет, Настя, почему ты без настроения?', 'Hi, Nastya, why are you in a bad mood?', [(41, 'Привет.'), (43, 'без настроения?')], ''),
     ('nastya', 'Люди сорвали живые цветы ради удовольствия.', 'People tore live flowers for pleasure.', [(44, 'выбьют живые цветы?')], ''),

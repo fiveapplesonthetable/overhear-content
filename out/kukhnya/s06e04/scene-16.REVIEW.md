@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Папа об этом знает? | Does Dad know about this? | #252 00:18:37: Папа знает? | adapted: adapted |
-| 2 | Шеф | А вот и ваше блюдо, почти такое же, как у вашей бабушки! | And here is your dish, almost the same as your grandmother's! | #253 00:18:39: А вот и ваш<br>#254 00:18:42: Почти такой же, как у вашей бабушки | adapted: adapted |
-| 3 | Шеф | Спасибо, но я уже сыт. | Thank you, but I am already full. | #255 00:18:45: Спасибо, я сыт | adapted: adapted |
-| 4 | Шеф | Я вас умоляю, хотя бы понюхайте! | I beg you, at least smell it! | #256 00:18:48: Я вас умоляю, хотя бы понюхайте | adapted: exact |
-| 5 | Шеф | Будьте так добры, понюхайте блюдо. | Be so kind, smell the dish. | #257 00:18:52: Будьте так добры | adapted: adapted |
-| 6 | Шеф | Мои глаза, мои глаза! | My eyes, my eyes! | #259 00:19:00: глаза! Глаза! | adapted: adapted |
-| 7 | Катя | Вы оба просто сумасшедшие! | You are both simply crazy! | #260 00:19:06: Вы оба | adapted: adapted |
-| 8 | Шеф | Не волнуйся, я куплю тебе темные очки. | Do not worry, I will buy you dark glasses. | #261 00:19:09: Не волнуйся, я куплю тебе<br>#261 00:19:09: темные очки | adapted: adapted |
-| 9 | Катя | Папа, я тебе все сейчас объясню. | Dad, I will explain everything to you right now. | #262 00:19:13: Папа, я тебе все объясню | adapted: adapted |
-| 10 | Шеф | Что ты мне можешь объяснить? | What can you possibly explain to me? | #262 00:19:13: Что ты мне можешь объяснить? | adapted: exact |
-| 11 | Катя | Это просто шутка была! | It was just a joke! | #263 00:19:16: Это шутка была | adapted: adapted |
-| 12 | Катя | Папа, что с тобой, Витя? | Dad, what is wrong with you, Vitya? | #264 00:19:24: Папа, Витя? | adapted: adapted |
+| 1 | Катя | Папа об этом знает? | Does Dad know about this? | #252: Папа знает? | adapted: adapted |
+| 2 | Шеф | А вот и ваше блюдо, почти такое же, как у вашей бабушки! | And here is your dish, almost the same as your grandmother's! | #253: А вот и ваш<br>#254: Почти такой же, как у вашей бабушки | adapted: adapted |
+| 3 | Гость | Спасибо, но я уже сыт. | Thank you, but I am already full. | #255: Спасибо, я сыт | adapted: adapted |
+| 4 | Шеф | Я вас умоляю, хотя бы понюхайте! | I beg you, at least smell it! | #256: Я вас умоляю, хотя бы понюхайте | adapted: exact |
+| 5 | Шеф | Будьте так добры, понюхайте блюдо. | Be so kind, smell the dish. | #257: Будьте так добры | adapted: adapted |
+| 6 | Гость | Мои глаза, мои глаза! | My eyes, my eyes! | #259: глаза! Глаза! | adapted: adapted |
+| 7 | Катя | Вы оба просто сумасшедшие! | You are both simply crazy! | #260: Вы оба | adapted: adapted |
+| 8 | Шеф | Не волнуйся, я куплю тебе темные очки. | Do not worry, I will buy you dark glasses. | #261: Не волнуйся, я куплю тебе<br>#261: темные очки | adapted: adapted |
+| 9 | Катя | Папа, я тебе все сейчас объясню. | Dad, I will explain everything to you right now. | #262: Папа, я тебе все объясню | adapted: adapted |
+| 10 | Шеф | Что ты мне можешь объяснить? | What can you possibly explain to me? | #262: Что ты мне можешь объяснить? | adapted: exact |
+| 11 | Катя | Это просто шутка была! | It was just a joke! | #263: Это шутка была | adapted: adapted |
+| 12 | Катя | Папа, что с тобой, Витя? | Dad, what is wrong with you, Vitya? | #264: Папа, Витя? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does Dad know about this?' Katya anchors the line on 'dad', while 'knows' completes the thought.
-- 'And here is your dish, almost the same as your grandmother's!' Notice how Russian puts 'dish' and 'grandmother' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Thank you, but I am already full.' Notice how Russian expresses 'thank you' and 'full' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'I beg you, at least smell it!' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'smell'.
-- 'Be so kind, smell the dish.' Chef Barinov brings out the contrast between 'be' and 'so' in a few short words.
-- 'My eyes, my eyes!' the guest anchors the line on 'my', while 'eyes' completes the thought. Katya answers right away.
-- 'You are both simply crazy!' Katya brings out the contrast between 'you' and 'both' in a few short words.
-- 'Do not worry, I will buy you dark glasses.' Here the Russian phrasing highlights 'not' before landing on 'glasses'.
-- 'Dad, I will explain everything to you right now.' Spoken Russian keeps this brisk, leaning on 'dad' and finishing on 'will explain'. Chef Barinov answers right away.
-- 'What can you possibly explain to me?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'to explain'.
-- 'It was just a joke!' Here Katya anchors the thought on 'simply' and finishes on 'joke', keeping the spoken rhythm brisk and natural.
-- 'Dad, what is wrong with you, Vitya?' Spoken Russian keeps this brisk, leaning on 'dad' and finishing on 'you'.
+- 'Does Dad know about this?' Asking whether dad know about this is how Katya puts Barinov on the spot.
+- 'And here is your dish, almost the same as your grandmother's!' Insisting that here is the guest's dish almost the same as the guest's grandmother shows Barinov is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Thank you, but I am already full.' Saying that he is already full is how the guest sets the tone with Barinov.
+- 'I beg you, at least smell it!' Barinov declares that he begs the guest at least smell it as the tension in the room peaks.
+- 'Be so kind, smell the dish.' Over the room and the chaos, Barinov answers the guest without a second thought.
+- 'My eyes, my eyes!' Over the conversation and the chaos, the guest lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'You are both simply crazy!' Katya declares that Barinov is both simply crazy as the tension in the room peaks.
+- 'Do not worry, I will buy you dark glasses.' Barinov reminds the guest that do not worry he will buy the guest dark glasses before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Dad, I will explain everything to you right now.' Pointing out that dad she will explain everything to Barinov right now gives Barinov a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What can you possibly explain to me?' Here asking what the guest possibly explain to him can shows Barinov looking for the real truth.
+- 'It was just a joke!' Declaring that it was just a joke brings Katya's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Dad, what is wrong with you, Vitya?' When Katya asks if dad what is wrong with Barinov, Barinov has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.

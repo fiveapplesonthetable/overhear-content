@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 15
-TITLE = "Обед для персонала  (Staff Lunch)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Обед для персонала  (Staff Lunch)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "In Chef Barinov's office, the head chef corners young cook Max Lavrov to check if the staff lunch has been prepared. Caught lying by the polygraph results, Max tries flattery by declaring the chef is like a father to him, before being ordered back to the kitchen. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace confrontations, kitchen idioms, and comic excuses."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max narrowly escapes Chef Barinov's wrath and sprints back to the stoves to finish cooking staff lunch. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to run' and 'fast' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('chef', 'Лавров, подойди сюда прямо сейчас.', 'Lavrov, come here right now.', [(180, 'соседний ресторан')], ''),
-    ('anya', 'Шеф, я могу уже идти на кухню?', 'Chef, can I already go to the kitchen?', [(188, 'я могу идти')], ''),
-    ('chef', 'Подожди! Ты приготовил обед для поваров?', 'Wait! Did you cook lunch for the cooks?', [(190, 'ты обед приготовил')], ''),
-    ('anya', 'Да, конечно, я всё уже сделал.', 'Yes, of course, I already made everything.', [(191, 'Да')], ''),
-    ('chef', 'Точно всё готово? Ты не обманываешь меня?', "Is everything definitely ready? You aren't deceiving me?", [(193, 'мне врешь')], ''),
-    ('anya', 'Ну, почти приготовил, осталось совсем немного.', 'Well, almost cooked, very little is left.', [(192, 'Почти приготовил')], ''),
-    ('chef', 'Ты опять врёшь мне в лицо!', 'You are lying to my face again!', [(193, 'мне врешь')], ''),
-    ('anya', 'Шеф, я никогда не вру вам.', 'Chef, I never lie to you.', [(195, 'никогда не обману')], ''),
-    ('chef', 'Детектор лжи показывает совсем другое!', 'The lie detector shows something completely different!', [(196, 'полюбуйтесь')], ''),
-    ('anya', 'Эта глупая машина просто сломалась.', 'This stupid machine simply broke.', [(194, 'да что')], ''),
-    ('anya', 'Шеф, вы для меня как родной отец.', 'Chef, you are like my own father to me.', [(197, 'вы для меня'), (198, 'Как отец')], ''),
-    ('chef', 'Быстро беги на кухню и корми людей!', 'Quickly run to the kitchen and feed people!', [(189, 'Вали отсюда')], ''),
-    ('anya', 'Слушаюсь, шеф, я сделаю всё моментально.', 'Understood, chef, I will do everything instantly.', [(195, 'не обману')], ''),
+    ('barinov', 'Лавров, подойди сюда прямо сейчас.', 'Lavrov, come here right now.', [(180, 'соседний ресторан')], ''),
+    ('max', 'Шеф, я могу уже идти на кухню?', 'Chef, can I already go to the kitchen?', [(188, 'я могу идти')], ''),
+    ('barinov', 'Подожди! Ты приготовил обед для поваров?', 'Wait! Did you cook lunch for the cooks?', [(190, 'ты обед приготовил')], ''),
+    ('max', 'Да, конечно, я всё уже сделал.', 'Yes, of course, I already made everything.', [(191, 'Да')], ''),
+    ('barinov', 'Точно всё готово? Ты не обманываешь меня?', "Is everything definitely ready? You aren't deceiving me?", [(193, 'мне врешь')], ''),
+    ('max', 'Ну, почти приготовил, осталось совсем немного.', 'Well, almost cooked, very little is left.', [(192, 'Почти приготовил')], ''),
+    ('barinov', 'Ты опять врёшь мне в лицо!', 'You are lying to my face again!', [(193, 'мне врешь')], ''),
+    ('max', 'Шеф, я никогда не вру вам.', 'Chef, I never lie to you.', [(195, 'никогда не обману')], ''),
+    ('barinov', 'Детектор лжи показывает совсем другое!', 'The lie detector shows something completely different!', [(196, 'полюбуйтесь')], ''),
+    ('max', 'Эта глупая машина просто сломалась.', 'This stupid machine simply broke.', [(194, 'да что')], ''),
+    ('max', 'Шеф, вы для меня как родной отец.', 'Chef, you are like my own father to me.', [(197, 'вы для меня'), (198, 'Как отец')], ''),
+    ('barinov', 'Быстро беги на кухню и корми людей!', 'Quickly run to the kitchen and feed people!', [(189, 'Вали отсюда')], ''),
+    ('max', 'Слушаюсь, шеф, я сделаю всё моментально.', 'Understood, chef, I will do everything instantly.', [(195, 'не обману')], ''),
 ]
 WALK = [
     (0, None, "'Lavrov, come here right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

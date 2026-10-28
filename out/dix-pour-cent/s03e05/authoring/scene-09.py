@@ -7,30 +7,29 @@ SCENE = 9
 TITLE = "La fuite de Béatrice  (Béatrice's Escape)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'arlette': 'Arlette'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Outside the agency, Arlette rushes to Andrea with alarming news from the film set. Beatrice Dalle has walked out on director Pascal after a deceitful nude scene demand. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Andrea breathes a sigh of relief as Beatrice finally reaches out by phone. When you watch the episode, listen out for the expressions meaning 'just' and 'call'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('arlette', "Andréa, Pascal vient de m'appeler.", 'Andrea, Pascal just called me.', [(306, "Pascal m'a appelé")], ''),
     ('arlette', 'Béatrice est partie du tournage en colère.', 'Beatrice left the shoot in anger.', [(307, 'Béatrice est barrée du tournage')], ''),
-    ('lea', "Mais qu'est-ce qui s'est passé?", 'But what happened?', [(308, "Qu'est-ce qui lui a pris encore assez de l'âme ?")], ''),
+    ('andrea', "Mais qu'est-ce qui s'est passé?", 'But what happened?', [(308, "Qu'est-ce qui lui a pris encore assez de l'âme ?")], ''),
     ('arlette', 'Le réalisateur a menti à Béatrice.', 'The director lied to Beatrice.', [(316, 'Il a menti à Béatrice,')], ''),
     ('arlette', 'Il voulait la forcer à se déshabiller.', 'He wanted to force her to undress.', [(316, 'il a demandé à un acteur de la foutre à poil')], ''),
-    ('lea', "C'est scandaleux, elle a eu raison.", 'That is outrageous, she was right.', [(317, 'Oh merde, le con')], ''),
+    ('andrea', "C'est scandaleux, elle a eu raison.", 'That is outrageous, she was right.', [(317, 'Oh merde, le con')], ''),
     ('arlette', 'Mais où est Béatrice maintenant?', 'But where is Beatrice now?', [(319, 'Et elle est où, la Béatrice ?')], ''),
-    ('lea', 'Elle est montée dans un taxi rapidement.', 'She jumped into a taxi quickly.', [(322, 'elle a foncé dans un taxi')], ''),
-    ('lea', "Je n'ai pas pu la rattraper.", 'I could not catch up with her.', [(323, "c'était pas pratique de courir derrière")], ''),
+    ('andrea', 'Elle est montée dans un taxi rapidement.', 'She jumped into a taxi quickly.', [(322, 'elle a foncé dans un taxi')], ''),
+    ('andrea', "Je n'ai pas pu la rattraper.", 'I could not catch up with her.', [(323, "c'était pas pratique de courir derrière")], ''),
     ('arlette', 'Tu as essayé de lui téléphoner?', 'Did you try phoning her?', [(324, 'Appelle-la')], ''),
-    ('lea', "J'arrête pas de tomber sur sa messagerie.", 'I keep reaching her voicemail.', [(325, "J'arrête pas de l'appeler, je tombe sur sa messagerie")], ''),
+    ('andrea', "J'arrête pas de tomber sur sa messagerie.", 'I keep reaching her voicemail.', [(325, "J'arrête pas de l'appeler, je tombe sur sa messagerie")], ''),
     ('arlette', 'La production menace de faire un procès.', 'The production threatens a lawsuit.', [(328, "Qu'est-ce qu'on fait en attendant aussi un procès pour rupture de contrats")], ''),
-    ('lea', 'Attends, mon téléphone sonne enfin.', 'Wait, my phone is ringing at last.', [(331, 'Ah putain, ça sonne')], ''),
-    ('lea', 'Allô Béatrice? Où es-tu exactement?', 'Hello Beatrice? Where are you exactly?', [(333, "Allô Béatrice, ça va ? T'es où là ?")], ''),
+    ('andrea', 'Attends, mon téléphone sonne enfin.', 'Wait, my phone is ringing at last.', [(331, 'Ah putain, ça sonne')], ''),
+    ('andrea', 'Allô Béatrice? Où es-tu exactement?', 'Hello Beatrice? Where are you exactly?', [(333, "Allô Béatrice, ça va ? T'es où là ?")], ''),
 ]
 WALK = [
     (0, None, "'Andrea, Pascal just called me.' Arlette breaks the urgent news. The clause hinges on the everyday verb meaning 'just'."),

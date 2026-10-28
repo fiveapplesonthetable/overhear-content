@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 20
-TITLE = "Синий супчик  (The Blue Soup)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Синий супчик  (The Blue Soup)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "senya": "angelina", "louis": "anja"}
-LABELS = {"anya": "Макс", "senya": "Сеня", "louis": "Луи"}
+LABELS = {'louis': 'Луи', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Max serves his special soup to the Claude Monet kitchen crew, but it turns out to be an alarming bright blue color. The cooks are skeptical, pastry chef Louis suddenly notices his missing food dye, but the bizarre soup turns out to be surprisingly delicious. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = 'Now let us go through each phrase to see how it works in Russian.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Despite the shock of Louis's blue food dye, the staff lunch turns out to be a surprising hit. Until then! Next time you watch the episode, listen for the Russian expressions for 'author's' and 'dish' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Что это за странное блюдо?', 'What kind of strange dish is this?', [(269, 'Что за фигня')], ''),
-    ('anya', 'Это мой новый вкусный суп!', 'This is my new delicious soup!', [], ''),
+    ('max', 'Это мой новый вкусный суп!', 'This is my new delicious soup!', [], ''),
     ('senya', 'Почему он такого синего цвета?', 'Why is it such a blue color?', [], ''),
-    ('anya', 'Это оригинальный авторский рецепт.', "This is an original creator's recipe.", [], ''),
+    ('max', 'Это оригинальный авторский рецепт.', "This is an original creator's recipe.", [], ''),
     ('senya', 'Спасибо, я сегодня на диете.', 'Thanks, I am on a diet today.', [(270, 'Спасибо, я сегодня на диете')], ''),
-    ('anya', 'Подожди, это действительно очень вкусно!', 'Wait, this is really very delicious!', [(271, 'Подожди, это вкусно')], ''),
+    ('max', 'Подожди, это действительно очень вкусно!', 'Wait, this is really very delicious!', [(271, 'Подожди, это вкусно')], ''),
     ('louis', 'Пардон, это же мой краситель!', 'Pardon, that is my food coloring!', [(275, 'Пардон, это же мой краситель')], ''),
     ('louis', 'Я так долго его искал!', 'I looked for it for so long!', [(276, 'я искал, я потерял')], ''),
-    ('anya', 'Подождите, вы куда все уходите?', 'Wait, where are you all going?', [(277, 'Подождите, вы куда')], ''),
+    ('max', 'Подождите, вы куда все уходите?', 'Wait, where are you all going?', [(277, 'Подождите, вы куда')], ''),
     ('senya', 'Мы не хотим есть химию.', 'We do not want to eat chemicals.', [], ''),
-    ('anya', 'Но это же реально вкусно!', 'But this is actually delicious!', [(277, 'Это же реально вкусно')], ''),
+    ('max', 'Но это же реально вкусно!', 'But this is actually delicious!', [(277, 'Это же реально вкусно')], ''),
     ('senya', 'Какой интересный красивый супчик.', 'What an interesting pretty little soup.', [(273, 'Какой красивый супчик')], ''),
     ('senya', 'Как будто прямо море ешь.', 'Like you are eating the sea directly.', [(278, 'как будто море ешь')], ''),
-    ('anya', 'Я же говорил, что вкусно!', 'I told you it was delicious!', [(278, 'Правда, вкусно')], ''),
+    ('max', 'Я же говорил, что вкусно!', 'I told you it was delicious!', [(278, 'Правда, вкусно')], ''),
 ]
 WALK = [
     (0, None, "'What kind of strange dish is this?' The cook stares in disbelief at the oddly colored food."),

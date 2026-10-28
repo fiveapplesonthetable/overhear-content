@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Славик | Так, давай повторим. | Right, let's go over it again. | #974 00:51:39: Так, давай повторим | verbatim |
-| 2 | Лёля | Я твоя девушка, мы встречаемся уже месяц. | I'm your girlfriend, we've been dating for a month. | #975 00:51:40: Я твоя | adapted: crude cues 975-978 retold cleanly |
-| 3 | Лёля | Я всё время тебя спрашиваю: можно то, можно это. | I ask you all the time: may I do this, may I do that. | #979 00:51:51: Я всё время тебя спрашиваю, можно то, можно это | verbatim |
-| 4 | Славик | Ага. | Uh-huh. | #980 00:51:55: Ага | verbatim |
-| 5 | Лёля | И через десять минут я ухожу. | And after ten minutes I leave. | #981 00:51:56: И через<br>#981 00:51:56: минут я | adapted: '10' written out as 'десять'; crude ending of 981 and slang 'сваливаю' (982) -> 'ухожу' |
-| 6 | Лёля | Не бойся, всё будет хорошо. | Don't be afraid, everything will be fine. | #984 00:52:05: всё будет хорошо | adapted: crude 'Да не ссы' -> 'Не бойся' |
-| 7 | Лёля | Ребята, Самсон пришёл! | Guys, Samson's here! | #985 00:52:12: Самсон пришёл | adapted: 'Ребят' -> 'Ребята' |
-| 8 | Славик | Знакомься, Дим. Это моя девушка Лёля. | Meet her, Dim. This is my girlfriend Lyolya. | #986 00:52:14: Знакомься, Дим. Это моя девушка Лёля | verbatim |
-| 9 | Лёля | Всегда мечтала познакомиться с друзьями моего парня. | I've always dreamed of meeting my boyfriend's friends. | #987 00:52:21: Всегда мечтала познакомиться с друзьями моего | adapted: 'бойфренда' -> 'парня'; crude cue 988 dropped |
-| 10 | Лёля | А выпить есть что? | And is there anything to drink? | #989 00:52:35: выпить есть что | adapted: 'что,' dropped |
-| 11 | Лёля | Только пиво. | Only beer. | #990 00:52:36: Только пиво | verbatim |
-| 12 | Лёля | Пиво так пиво. Ой, забыла. | Beer it is. Oh, I forgot. | #991 00:52:38: Пиво так пиво<br>#992 00:52:43: Забыла | adapted: 'Ух, дети, а.' dropped; 'Ой,' added |
-| 13 | Лёля | Милый, можно я выпью капельку пива? | Darling, may I drink a tiny drop of beer? | #993 00:52:44: Милый, можно я выпью капельку пива | verbatim |
-| 14 | Славик | Да. | Yes. | #994 00:52:49: Да | verbatim |
-| 15 | Лёля | Спасибо, малыш. | Thank you, baby. | #995 00:52:50: Спасибо, малыш | verbatim |
+| 1 | Славик | Так, давай повторим. | Right, let's go over it again. | #974: Так, давай повторим | verbatim |
+| 2 | Лёля | Я твоя девушка, мы встречаемся уже месяц. | I'm your girlfriend, we've been dating for a month. | #975: Я твоя | adapted: crude cues 975-978 retold cleanly |
+| 3 | Лёля | Я всё время тебя спрашиваю: можно то, можно это. | I ask you all the time: may I do this, may I do that. | #979: Я всё время тебя спрашиваю, можно то, можно это | verbatim |
+| 4 | Славик | Ага. | Uh-huh. | #980: Ага | verbatim |
+| 5 | Лёля | И через десять минут я ухожу. | And after ten minutes I leave. | #981: И через<br>#981: минут я | adapted: '10' written out as 'десять'; crude ending of 981 and slang 'сваливаю' (982) -> 'ухожу' |
+| 6 | Лёля | Не бойся, всё будет хорошо. | Don't be afraid, everything will be fine. | #984: всё будет хорошо | adapted: crude 'Да не ссы' -> 'Не бойся' |
+| 7 | Димон | Ребята, Самсон пришёл! | Guys, Samson's here! | #985: Самсон пришёл | adapted: 'Ребят' -> 'Ребята' |
+| 8 | Славик | Знакомься, Дим. Это моя девушка Лёля. | Meet her, Dim. This is my girlfriend Lyolya. | #986: Знакомься, Дим. Это моя девушка Лёля | verbatim |
+| 9 | Лёля | Всегда мечтала познакомиться с друзьями моего парня. | I've always dreamed of meeting my boyfriend's friends. | #987: Всегда мечтала познакомиться с друзьями моего | adapted: 'бойфренда' -> 'парня'; crude cue 988 dropped |
+| 10 | Лёля | А выпить есть что? | And is there anything to drink? | #989: выпить есть что | adapted: 'что,' dropped |
+| 11 | Димон | Только пиво. | Only beer. | #990: Только пиво | verbatim |
+| 12 | Лёля | Пиво так пиво. Ой, забыла. | Beer it is. Oh, I forgot. | #991: Пиво так пиво<br>#992: Забыла | adapted: 'Ух, дети, а.' dropped; 'Ой,' added |
+| 13 | Лёля | Милый, можно я выпью капельку пива? | Darling, may I drink a tiny drop of beer? | #993: Милый, можно я выпью капельку пива | verbatim |
+| 14 | Славик | Да. | Yes. | #994: Да | verbatim |
+| 15 | Лёля | Спасибо, малыш. | Thank you, baby. | #995: Спасибо, малыш | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

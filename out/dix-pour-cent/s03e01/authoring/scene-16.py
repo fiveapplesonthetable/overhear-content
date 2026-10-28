@@ -7,7 +7,6 @@ SCENE = 16
 TITLE = 'La fin du Déserteur  (The End of The Deserter)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'solveig': 'emilie'}
 LABELS = {'jean': 'Jean', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'

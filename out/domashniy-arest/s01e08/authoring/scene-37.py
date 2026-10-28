@@ -1,33 +1,35 @@
-# domashniy-arest/s01e08/scene-37.py
-ID = "domashniy-arest-s01e08-scene-37"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e08-scene-37.
+ID = 'domashniy-arest-s01e08-scene-37'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 8
 SCENE = 37
-TITLE = "Иван в лесу  (Ivan in Woods)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.08"
-SOURCE_FILE = "sources/domashniy-arest/s01/e08.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "voice": "angelina"}
-LABELS = {"samson": "Самсон", "voice": "Голос"}
+TITLE = 'Иван в лесу  (Ivan in Woods)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'samson': 'Самсон', 'voice': 'Голос'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.08'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e08.ru.dual.srt'
 INTRO = "In the snowy pine forest on the edge of town that afternoon. Shaken by the smear campaign alleging his grandfather was a fascist collaborator, Ivan wandered into the woods alone. Intoxicated and distressed, he begins hallucinating and arguing with disembodied voices in the trees before staggering back home. Let's listen to the scene in Russian first."
-STORY = [
-    ("voice", "Иван, перестань винить себя во всём!", "Ivan, stop blaming yourself for everything!", [(835, 'себя грызть. Ты ни в чем не виноват')], "'себя грызть' -> 'перестань винить себя' for clean A1"),
-    ("samson", "Ты ничего не понимаешь!", "You don't understand anything!", [(836, 'Ты что, этого не понимаешь'), (837, 'Да ты не понимаешь')], ""),
-    ("samson", "Я предатель и внук фашиста!", "I am a traitor and the grandson of a fascist!", [(838, 'Я фашист, полицай')], "'полицай' -> 'предатель и внук фашиста'"),
-    ("voice", "Это неправда! У тебя сегодня важные дебаты.", "That is not true! You have an important debate today.", [(841, 'У тебя там дебаты')], ""),
-    ("samson", "В моих генах живёт зло.", "Evil lives in my genes.", [(839, 'У меня гены')], ""),
-    ("samson", "Здесь в снегу сидят крокодилы!", "Here in the snow sit crocodiles!", [(840, 'тут крокодилы')], ""),
-    ("voice", "Пойдём скорее на телевизионную студию!", "Let's go quickly to the television studio!", [(842, 'Пошли')], ""),
-    ("samson", "Стоять! Кто стреляет в лесу?", "Freeze! Who is shooting in the forest?", [(843, 'Стоять'), (845, 'стрелер')], ""),
-    ("samson", "Оставьте меня в покое!", "Leave me alone!", [(847, 'Да пошли вы все лесом')], "idiomatic 'лесом' -> clean 'в покое'"),
-    ("voice", "Посмотри вокруг, здесь никого нет.", "Look around, there is no one here.", [(848, 'Ух ты')], ""),
-    ("samson", "У меня разбита губа и болит голова.", "My lip is cut and my head hurts.", [(849, 'Что с губой')], ""),
-    ("samson", "Я иду спать на чердак.", "I am going to sleep in the attic.", [(850, 'папаша на чердаке')], ""),
-    ("samson", "Передайте Нине, что я дома.", "Tell Nina that I am at home.", [(850, 'Маме вашей передайте')], ""),
-]
 OPENER = "Let's go through the scene line by line. First, an imaginary voice echoes through the snowy trees."
+TRANSITION = "Now let's hear the whole scene once more, from start to finish."
+OUTRO = "Next time, Arkady races to the municipal hospital to prevent Lyoshka's surgery before it is too late. Well done following this poignant monologue in Russian. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('voice', 'Иван, перестань винить себя во всём!', 'Ivan, stop blaming yourself for everything!', [(835, 'себя грызть. Ты ни в чем не виноват')], "'себя грызть' -> 'перестань винить себя' for clean A1"),
+    ('samson', 'Ты ничего не понимаешь!', "You don't understand anything!", [(836, 'Ты что, этого не понимаешь'), (837, 'Да ты не понимаешь')], ''),
+    ('samson', 'Я предатель и внук фашиста!', 'I am a traitor and the grandson of a fascist!', [(838, 'Я фашист, полицай')], "'полицай' -> 'предатель и внук фашиста'"),
+    ('voice', 'Это неправда! У тебя сегодня важные дебаты.', 'That is not true! You have an important debate today.', [(841, 'У тебя там дебаты')], ''),
+    ('samson', 'В моих генах живёт зло.', 'Evil lives in my genes.', [(839, 'У меня гены')], ''),
+    ('samson', 'Здесь в снегу сидят крокодилы!', 'Here in the snow sit crocodiles!', [(840, 'тут крокодилы')], ''),
+    ('voice', 'Пойдём скорее на телевизионную студию!', "Let's go quickly to the television studio!", [(842, 'Пошли')], ''),
+    ('samson', 'Стоять! Кто стреляет в лесу?', 'Freeze! Who is shooting in the forest?', [(843, 'Стоять'), (845, 'стрелер')], ''),
+    ('samson', 'Оставьте меня в покое!', 'Leave me alone!', [(847, 'Да пошли вы все лесом')], "idiomatic 'лесом' -> clean 'в покое'"),
+    ('voice', 'Посмотри вокруг, здесь никого нет.', 'Look around, there is no one here.', [(848, 'Ух ты')], ''),
+    ('samson', 'У меня разбита губа и болит голова.', 'My lip is cut and my head hurts.', [(849, 'Что с губой')], ''),
+    ('samson', 'Я иду спать на чердак.', 'I am going to sleep in the attic.', [(850, 'папаша на чердаке')], ''),
+    ('samson', 'Передайте Нине, что я дома.', 'Tell Nina that I am at home.', [(850, 'Маме вашей передайте')], ''),
+]
 WALK = [
     (0, None, "'Ivan, stop blaming yourself for everything!' The opening command command expresses an urgent plea to cease self-blame."),
     (1, None, "'You don't understand anything!' In Russian, double negative structures are standard and grammatically required."),
@@ -43,6 +45,3 @@ WALK = [
     (11, None, "'I am going to sleep in the attic.' Ivan chooses the dusty communal attic as a hiding place from shame."),
     (12, None, "'Tell Nina that I am at home.' Even in despair, he thinks of his estranged wife waiting in the apartment."),
 ]
-TRANSITION = "Now let's hear the whole scene once more, from start to finish."
-OUTRO = "Next time, Arkady races to the municipal hospital to prevent Lyoshka's surgery before it is too late. Well done following this poignant monologue in Russian. See you next time!"
-CLOSING = ("samson", "Пока!")

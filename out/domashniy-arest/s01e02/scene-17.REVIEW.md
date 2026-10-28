@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что за меню здесь? Как позвонить? | What's this menu here? How do I make a call? | #503 00:29:38: меню здесь | adapted: 'дебильное' (idiotic) dropped; 'Как позвонить?' simplifies cue 504 'Ну как выйти в номера?' |
-| 2 | Славик | Вот так, и трубочка. | Like this, and there's the little phone. | #505 00:29:42: Вот так<br>#505 00:29:42: и трубочка | adapted: 'вот проводите' dropped |
-| 3 | Аня | Так, дай айфон. | Right, give me the iPhone. | #506 00:29:45: Так, дай айфон | verbatim |
-| 4 | Славик | Зачем? Мы поменялись, он мой. | What for? We swapped, it's mine. | #507 00:29:47: Зачем<br>#507 00:29:47: Поменялись, он мой | adapted: 'Мы' added |
-| 5 | Аня | Мне нужно посмотреть телефон губернатора. Дай сюда. | I need to look up the governor's number. Give it here. | #508 00:29:49: телефон губернатора<br>#508 00:29:49: Дай сюда | adapted: word order of cue 508 made standard (нужно before the verb) |
-| 6 | Славик | Только из моих рук. | Only if I hold it. | #509 00:29:51: Только из моих рук | verbatim |
-| 7 | Аня | Ну ты и жадина! | You're such a greedy little thing! | new | new: new: clean stand-in for cue 510 'зажилоб у тебя страшный' (what a miser you are) |
-| 8 | Аня | Губернатор... Вот он. Свин. | The governor... Here he is. 'Pig'. | #511 00:29:55: Губернатор<br>#513 00:29:58: Свин | adapted: 'Вот он' new: Arkady finds the contact |
-| 9 | Славик | Свин? Это свинка Пеппа! | 'Pig'? That's Peppa Pig! | #514 00:29:59: Свинка | adapted: the cue spells 'Пепа'; standard 'Пеппа' used, so only 'Свинка' is cited |
-| 10 | Аня | Не смейся. Диктуй номер. | Don't laugh. Read me the number. | new | new: new: links to cues 515-520, where the digits are read out |
+| 1 | Аркадий | Что за меню здесь? Как позвонить? | What's this menu here? How do I make a call? | #503: меню здесь | adapted: 'дебильное' (idiotic) dropped; 'Как позвонить?' simplifies cue 504 'Ну как выйти в номера?' |
+| 2 | Славик | Вот так, и трубочка. | Like this, and there's the little phone. | #505: Вот так<br>#505: и трубочка | adapted: 'вот проводите' dropped |
+| 3 | Аркадий | Так, дай айфон. | Right, give me the iPhone. | #506: Так, дай айфон | verbatim |
+| 4 | Славик | Зачем? Мы поменялись, он мой. | What for? We swapped, it's mine. | #507: Зачем<br>#507: Поменялись, он мой | adapted: 'Мы' added |
+| 5 | Аркадий | Мне нужно посмотреть телефон губернатора. Дай сюда. | I need to look up the governor's number. Give it here. | #508: телефон губернатора<br>#508: Дай сюда | adapted: word order of cue 508 made standard (нужно before the verb) |
+| 6 | Славик | Только из моих рук. | Only if I hold it. | #509: Только из моих рук | verbatim |
+| 7 | Аркадий | Ну ты и жадина! | You're such a greedy little thing! | new | new: new: clean stand-in for cue 510 'зажилоб у тебя страшный' (what a miser you are) |
+| 8 | Аркадий | Губернатор... Вот он. Свин. | The governor... Here he is. 'Pig'. | #511: Губернатор<br>#513: Свин | adapted: 'Вот он' new: Arkady finds the contact |
+| 9 | Славик | Свин? Это свинка Пеппа! | 'Pig'? That's Peppa Pig! | #514: Свинка | adapted: the cue spells 'Пепа'; standard 'Пеппа' used, so only 'Свинка' is cited |
+| 10 | Аркадий | Не смейся. Диктуй номер. | Don't laugh. Read me the number. | new | new: new: links to cues 515-520, where the digits are read out |
 | 11 | Славик | Восемь, девять, шесть, шесть... | Eight, nine, six, six... | new | new: cues 515-516 '8' / '966' written out as words (digits are not allowed in spoken lines) |
-| 12 | Аня | Так, ребята, выйдите из комнаты. | Right, kids, go out of the room. | #522 00:30:08: ребята, выйдите из комнаты | adapted: 'Ну-ка' -> 'Так' (from cue 521) |
-| 13 | Аня | Мне с губернатором нужно поговорить. | I need to talk to the governor. | #523 00:30:09: Мне с губернатором нужно поговорить | verbatim |
-| 14 | Юля | Это наша комната. | This is our room. | #525 00:30:12: Это наша комната | adapted: speaker not marked in the subtitles; given to Yulia |
-| 15 | Аня | Слово мэра уже ничего не значит? | Doesn't the mayor's word mean anything any more? | #528 00:30:16: Слово мэра уже ничего не значит | adapted: said as a question, as in the English subtitle |
-| 16 | Юля | А вы мне тоже айфон подарите? | Will you give me an iPhone too? | #530 00:30:18: А вы мне тоже<br>#530 00:30:18: айфон подарите | adapted: 'седьмой' (seventh, the model) dropped |
-| 17 | Аня | Подарю, всё вам подарю! | I will, I'll give you everything! | #531 00:30:20: Подарю<br>#531 00:30:20: вам подарю | adapted: the cue's 'все' read as 'всё' (everything) |
+| 12 | Аркадий | Так, ребята, выйдите из комнаты. | Right, kids, go out of the room. | #522: ребята, выйдите из комнаты | adapted: 'Ну-ка' -> 'Так' (from cue 521) |
+| 13 | Аркадий | Мне с губернатором нужно поговорить. | I need to talk to the governor. | #523: Мне с губернатором нужно поговорить | verbatim |
+| 14 | Юля | Это наша комната. | This is our room. | #525: Это наша комната | adapted: speaker not marked in the subtitles; given to Yulia |
+| 15 | Аркадий | Слово мэра уже ничего не значит? | Doesn't the mayor's word mean anything any more? | #528: Слово мэра уже ничего не значит | adapted: said as a question, as in the English subtitle |
+| 16 | Юля | А вы мне тоже айфон подарите? | Will you give me an iPhone too? | #530: А вы мне тоже<br>#530: айфон подарите | adapted: 'седьмой' (seventh, the model) dropped |
+| 17 | Аркадий | Подарю, всё вам подарю! | I will, I'll give you everything! | #531: Подарю<br>#531: вам подарю | adapted: the cue's 'все' read as 'всё' (everything) |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

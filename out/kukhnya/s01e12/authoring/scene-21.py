@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 12
 SCENE = 21
-TITLE = "Пожар напротив  (Fire Across the Street)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Пожар напротив  (Fire Across the Street)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = "As the kitchen staff take a quick smoke break, they suddenly notice that the brand new competing restaurant across the street is engulfed in flames. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's join Senya and Fedya outside as they notice something alarming."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Shocked by the sudden blaze, the staff realize that their new rival is literally going up in smoke. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'to throw' — you will catch every word right away. See you next time!"
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Эта сигарета уже горчит на вкус.', 'This cigarette already tastes bitter.', [(278, 'Горчит уже.')], ''),
     ('senya', 'Да выбрось её скорее в урну.', 'Just throw it out quickly into the trash bin.', [(278, 'Да выбрось ее.')], ''),

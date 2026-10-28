@@ -7,7 +7,6 @@ SCENE = 22
 TITLE = "Le talent de Samy  (Samy's Talent)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel'}
 LABELS = {'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'

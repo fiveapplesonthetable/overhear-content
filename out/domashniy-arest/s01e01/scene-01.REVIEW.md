@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Привет, папа! | Dialogue line. | #20 00:02:10: Привет | verbatim |
-| 2 | Отец Самсона | Привет! Смотри, что у меня есть. | Dialogue line. | #52 00:03:02: смотри | verbatim |
-| 3 | Самсон | Ого, магнитофон! Японский! | Dialogue line. | #58 00:03:13: Ого | verbatim |
-| 4 | Аня | Здравствуйте! Как там в Венгрии? | Dialogue line. | #27 00:02:16: как там в Венгрии | verbatim |
-| 5 | Отец Самсона | Хорошо! Там всё нормально. | Dialogue line. | #49 00:02:51: нормально | verbatim |
-| 6 | Самсон | Папа, а жвачку ты привёз? | Dialogue line. | #31 00:02:21: привез | verbatim |
-| 7 | Отец Самсона | Жвачку? Денег не хватило. | Dialogue line. | #32 00:02:24: не хватило | verbatim |
-| 8 | Самсон | Ну, папа! | Dialogue line. | #33 00:02:26: Ну, пап | verbatim |
-| 9 | Отец Самсона | Ладно, держи. Вот, смотри. | Dialogue line. | #35 00:02:29: Ладно<br>#52 00:03:02: держи, вот, смотри | verbatim |
-| 10 | Самсон | Сколько жвачки! Класс! | Dialogue line. | #47 00:02:48: Класс | verbatim |
-| 11 | Отец Самсона | А это тебе. Машинка! | Dialogue line. | #38 00:02:36: это тебе | verbatim |
+| 1 | Самсон | Привет, папа! | Dialogue line. | #20: Привет | verbatim |
+| 2 | Отец Самсона | Привет! Смотри, что у меня есть. | Dialogue line. | #52: смотри | verbatim |
+| 3 | Самсон | Ого, магнитофон! Японский! | Dialogue line. | #58: Ого | verbatim |
+| 4 | Аркадий | Здравствуйте! Как там в Венгрии? | Dialogue line. | #27: как там в Венгрии | verbatim |
+| 5 | Отец Самсона | Хорошо! Там всё нормально. | Dialogue line. | #49: нормально | verbatim |
+| 6 | Самсон | Папа, а жвачку ты привёз? | Dialogue line. | #31: привез | verbatim |
+| 7 | Отец Самсона | Жвачку? Денег не хватило. | Dialogue line. | #32: не хватило | verbatim |
+| 8 | Самсон | Ну, папа! | Dialogue line. | #33: Ну, пап | verbatim |
+| 9 | Отец Самсона | Ладно, держи. Вот, смотри. | Dialogue line. | #35: Ладно<br>#52: держи, вот, смотри | verbatim |
+| 10 | Самсон | Сколько жвачки! Класс! | Dialogue line. | #47: Класс | verbatim |
+| 11 | Отец Самсона | А это тебе. Машинка! | Dialogue line. | #38: это тебе | verbatim |
 | 12 | Самсон | Спасибо, папа! | Dialogue line. | new | new |
-| 13 | Отец Самсона | Со всеми поделись поровну, понял? | Dialogue line. | #61 00:03:18: со всеми<br>#61 00:03:18: поровну<br>#61 00:03:18: понял | verbatim |
+| 13 | Отец Самсона | Со всеми поделись поровну, понял? | Dialogue line. | #61: со всеми<br>#61: поровну<br>#61: понял | verbatim |
 | 14 | Самсон | Понял. | Dialogue line. | new | new |
-| 15 | Аня | А можно я пойду посмотрю? | Dialogue line. | #65 00:03:36: А можно я пойду посмотрю | verbatim |
-| 16 | Аня | Нельзя? Ладно, пойду учить уроки. | Dialogue line. | #66 00:03:39: Уроки | verbatim |
+| 15 | Аркадий | А можно я пойду посмотрю? | Dialogue line. | #65: А можно я пойду посмотрю | verbatim |
+| 16 | Аркадий | Нельзя? Ладно, пойду учить уроки. | Dialogue line. | #66: Уроки | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

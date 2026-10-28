@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 6
 SCENE = 8
-TITLE = "Гнилая картошка  (Rotten Potato)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Гнилая картошка  (Rotten Potato)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "While cleaning out the darkest corner behind the kitchen storage shelves, Max and Kostya discover an old blue plastic bag. Unaware that it contains Chef's prized luxury truffles, they examine the strange lumpy objects and assume they are rotten potatoes. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this fateful kitchen misunderstanding line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Unwittingly tossing away Chef Barinov's expensive truffles, Kostya heads outside to the garbage bin. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, посмотри, что это такое лежит?', 'Max, look, what is that lying there?', [(79, 'Что это такое')], ''),
-    ('anya', 'Похоже, это какая-то гнилая картошка.', 'It looks like some rotten potato.', [(80, 'Да картошка какая-то гнилая')], ''),
+    ('max', 'Похоже, это какая-то гнилая картошка.', 'It looks like some rotten potato.', [(80, 'Да картошка какая-то гнилая')], ''),
     ('kostya', 'Она выглядит очень странно и грязно.', 'It looks very strange and dirty.', [], ''),
-    ('anya', 'Давай просто выкинем этот старый пакет.', "Let's just throw out this old bag.", [(81, 'Выкинуть? Да нет')], ''),
+    ('max', 'Давай просто выкинем этот старый пакет.', "Let's just throw out this old bag.", [(81, 'Выкинуть? Да нет')], ''),
     ('kostya', 'А может, продадим её через интернет?', 'Or maybe we will sell it online?', [(82, 'Продать через интернет')], ''),
-    ('anya', 'Кому нужна гнилая и чёрная картошка?', 'Who needs rotten and black potatoes?', [], ''),
+    ('max', 'Кому нужна гнилая и чёрная картошка?', 'Who needs rotten and black potatoes?', [], ''),
     ('kostya', 'Люди в интернете покупают абсолютно всё!', 'People on the internet buy absolutely everything!', [(83, 'Могут купить')], ''),
-    ('anya', 'Костян, не тупи, брось эти шутки.', 'Kostyan, do not be silly, drop these jokes.', [(84, 'Косян, не тупя')], ''),
+    ('max', 'Костян, не тупи, брось эти шутки.', 'Kostyan, do not be silly, drop these jokes.', [(84, 'Косян, не тупя')], ''),
     ('kostya', 'Ладно, я отнесу её на помойку.', 'Okay, I will take it to the dumpster.', [], ''),
-    ('anya', 'Отнеси скорее в мусорный бак на улицу.', 'Take it quickly to the garbage bin outside.', [], ''),
+    ('max', 'Отнеси скорее в мусорный бак на улицу.', 'Take it quickly to the garbage bin outside.', [], ''),
     ('kostya', 'Сейчас быстро вернусь и продолжим уборку.', 'I will return quickly now and we will continue cleaning.', [], ''),
-    ('anya', 'Отлично, нам ещё много мыть сегодня.', 'Great, we still have a lot to wash today.', [], ''),
+    ('max', 'Отлично, нам ещё много мыть сегодня.', 'Great, we still have a lot to wash today.', [], ''),
 ]
 WALK = [
     (0, None, "'Max, look, what is that lying there?' Kostya spots an unnoticed blue bag tucked away in the shadows."),

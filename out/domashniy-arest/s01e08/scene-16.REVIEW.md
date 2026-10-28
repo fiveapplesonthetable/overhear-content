@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёша | Ну что, где мой танк? | Well now, where is my tank? | #226 00:14:47: где мой танк | verbatim |
-| 2 | Аня | С твоим танком всё в порядке. | Everything is fine with your tank. | #227 00:14:48: С твоим танком все в порядке | verbatim |
-| 3 | Аня | Давай лучше поиграем в другую игру! | Let's play another game instead! | #228 00:14:51: А давай поиграем в другую игру | verbatim |
-| 4 | Аня | Давай играть в войну! | Let's play war! | #232 00:15:00: Тогда давай играть в войнушку | verbatim |
-| 5 | Аня | Смотри: руки вверх, сдавайся! | Look: hands up, surrender! | #235 00:15:10: Сдавайся | verbatim |
-| 6 | Лёша | А где всё-таки мой танк? | And where is my tank after all? | #236 00:15:10: А где мой танк | verbatim |
-| 7 | Аня | В шахматы умеешь играть? Я научу! | Do you know how to play chess? I'll teach you! | #238 00:15:18: В шахматы умеешь играть? Я тебе научу | adapted: colloquial 'тебе научу' corrected to 'научу' |
-| 8 | Аня | Это конь, а это ферзь. | This is a knight, and this is a queen. | #240 00:15:26: Это конь, это ферзь | verbatim |
-| 9 | Лёша | Пожалуйста, отдайте мой танк. | Please give me back my tank. | #241 00:15:30: Отдайте мой танк | verbatim |
-| 10 | Аня | Я его склеил, он сейчас сохнет. | I glued it, it's drying right now. | #242 00:15:32: Я его склеил, он сохнет | verbatim |
-| 11 | Лёша | Я пошёл звонить маме! | I'm going to call mum! | #245 00:15:39: Я пошел звонить маме | verbatim |
-| 12 | Аня | Ты что, ябеда, что ли? | What, are you a tattletale? | #246 00:15:41: Ты что, ябеда, что ли | verbatim |
-| 13 | Аня | Ну ладно, твой танк здесь. | Well alright, your tank is here. | #247 00:15:43: Ну ладно, хорошо | verbatim |
-| 14 | Аня | Он лежит под подушкой. | It is lying under the pillow. | #249 00:15:49: Под подушкой | verbatim |
-| 15 | Аня | Дядя Аркадий на него случайно наступил. | Uncle Arkady stepped on it by accident. | #250 00:15:52: на него немножко наступил | verbatim |
+| 1 | Лёша | Ну что, где мой танк? | Well now, where is my tank? | #226: где мой танк | verbatim |
+| 2 | Аркадий | С твоим танком всё в порядке. | Everything is fine with your tank. | #227: С твоим танком все в порядке | verbatim |
+| 3 | Аркадий | Давай лучше поиграем в другую игру! | Let's play another game instead! | #228: А давай поиграем в другую игру | verbatim |
+| 4 | Аркадий | Давай играть в войну! | Let's play war! | #232: Тогда давай играть в войнушку | verbatim |
+| 5 | Аркадий | Смотри: руки вверх, сдавайся! | Look: hands up, surrender! | #235: Сдавайся | verbatim |
+| 6 | Лёша | А где всё-таки мой танк? | And where is my tank after all? | #236: А где мой танк | verbatim |
+| 7 | Аркадий | В шахматы умеешь играть? Я научу! | Do you know how to play chess? I'll teach you! | #238: В шахматы умеешь играть? Я тебе научу | adapted: colloquial 'тебе научу' corrected to 'научу' |
+| 8 | Аркадий | Это конь, а это ферзь. | This is a knight, and this is a queen. | #240: Это конь, это ферзь | verbatim |
+| 9 | Лёша | Пожалуйста, отдайте мой танк. | Please give me back my tank. | #241: Отдайте мой танк | verbatim |
+| 10 | Аркадий | Я его склеил, он сейчас сохнет. | I glued it, it's drying right now. | #242: Я его склеил, он сохнет | verbatim |
+| 11 | Лёша | Я пошёл звонить маме! | I'm going to call mum! | #245: Я пошел звонить маме | verbatim |
+| 12 | Аркадий | Ты что, ябеда, что ли? | What, are you a tattletale? | #246: Ты что, ябеда, что ли | verbatim |
+| 13 | Аркадий | Ну ладно, твой танк здесь. | Well alright, your tank is here. | #247: Ну ладно, хорошо | verbatim |
+| 14 | Аркадий | Он лежит под подушкой. | It is lying under the pillow. | #249: Под подушкой | verbatim |
+| 15 | Аркадий | Дядя Аркадий на него случайно наступил. | Uncle Arkady stepped on it by accident. | #250: на него немножко наступил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

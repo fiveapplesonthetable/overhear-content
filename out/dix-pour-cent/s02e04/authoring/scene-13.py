@@ -7,7 +7,6 @@ SCENE = 13
 TITLE = 'Le scénario de Hartman  (Mathias and Isabelle)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'mathias': 'marcel'}
 LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'

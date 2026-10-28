@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Слушай, Нина, это же тот самый ресторан! | Listen, Nina, this is that very restaurant! | #1020 00:57:01: Слушай<br>#1020 00:57:01: это же | adapted: 'Нинка ... та самая Франческа' -> 'Нина ... тот самый ресторан' |
-| 2 | Самсон | У нас там подарок на семь тысяч! Пошли сходим! | We have a gift for seven thousand there! Come on, let's go! | #1020 00:57:01: у нас<br>#1022 00:57:13: пошли сходим | adapted: cue 1020 'депозит на святых' (garbled 'на семь тысяч') -> 'подарок на семь тысяч' |
-| 3 | Нина | Аникеев же запретил! Нам нельзя пить. | But Anikeev forbade it! We mustn't drink. | #1023 00:57:15: запретил | adapted: cue 1023 'А не кейв' (garbled 'Аникеев') -> 'Аникеев же'; 'Нам нельзя пить.' added |
-| 4 | Самсон | Ну ладно, брось! Мы только поедим. | Oh come on, stop it! We'll only eat. | #1024 00:57:16: Ну ладно<br>#1024 00:57:16: брось | adapted: 'Мы только поедим.' added |
-| 5 | Самсон | Добрый вечер! Мы очень рады видеть вас в нашем ресторане. | Good evening! We are very glad to see you in our restaurant. | #1028 00:57:23: Добрый вечер<br>#1029 00:57:25: Мы рады<br>#1029 00:57:25: вас в нашем ресторане | adapted: 'приветствовать' -> 'очень ... видеть' |
-| 6 | Самсон | Вот наше лучшее розовое шампанское. | Here is our best pink champagne. | #1031 00:57:31: шампанское | adapted: cue 1031 simplified to A1 |
-| 7 | Самсон | Отлично! Давай розовое. | Great! Give us the pink one. | #1036 00:57:47: отлично<br>#1033 00:57:37: Давай | adapted: 'розовый' -> 'розовое' |
-| 8 | Самсон | У нас есть большая тарелка рыбы и крабов. | We have a big platter of fish and crabs. | #1035 00:57:43: краб | adapted: cues 1034-1035 ('башня из морепродуктов...') simplified to A1 |
-| 9 | Самсон | А потом итальянские пельмени. Все гости их очень любят. | And then Italian dumplings. All the guests love them very much. | #1037 00:57:50: А | adapted: cues 1037-1040 (the waiter explaining ravioli as little dumplings) simplified to A1 |
-| 10 | Самсон | Пельмени мы будем, да, Нина? Неси всё! | We'll have the dumplings, right, Nina? Bring everything! | #1042 00:58:01: будем, да, Нина<br>#1044 00:58:06: все | adapted: 'Пельмеши' -> 'Пельмени мы'; 'Тащи' -> 'Неси' |
-| 11 | Самсон | Хорошо! Приятного вечера. | Very well! Have a pleasant evening. | #1046 00:58:10: Приятного вечера | adapted: 'Хорошо!' added |
-| 12 | Нина | Ваня, может, не надо шампанское? | Vanya, maybe we shouldn't have champagne? | #1047 00:58:12: может, не надо | adapted: cue 1047 'Бен' (garbled 'Вань') -> 'Ваня'; 'шампанское' added |
-| 13 | Самсон | Нина, это же просто сладкая вода! | Nina, it's just sweet water! | #1048 00:58:14: Нина, это | adapted: cues 1048-1049 ('шипучка. Барбариска.') -> 'же просто сладкая вода!' |
-| 14 | Самсон | Давай, за нашу новую жизнь! Очень вкусно! | Come on, to our new life! Very tasty! | #1050 00:58:18: Давай, за нашу новую жизнь<br>#1051 00:58:24: Вкусно | adapted: 'Очень' added |
+| 1 | Самсон | Слушай, Нина, это же тот самый ресторан! | Listen, Nina, this is that very restaurant! | #1020: Слушай<br>#1020: это же | adapted: 'Нинка ... та самая Франческа' -> 'Нина ... тот самый ресторан' |
+| 2 | Самсон | У нас там подарок на семь тысяч! Пошли сходим! | We have a gift for seven thousand there! Come on, let's go! | #1020: у нас<br>#1022: пошли сходим | adapted: cue 1020 'депозит на святых' (garbled 'на семь тысяч') -> 'подарок на семь тысяч' |
+| 3 | Нина | Аникеев же запретил! Нам нельзя пить. | But Anikeev forbade it! We mustn't drink. | #1023: запретил | adapted: cue 1023 'А не кейв' (garbled 'Аникеев') -> 'Аникеев же'; 'Нам нельзя пить.' added |
+| 4 | Самсон | Ну ладно, брось! Мы только поедим. | Oh come on, stop it! We'll only eat. | #1024: Ну ладно<br>#1024: брось | adapted: 'Мы только поедим.' added |
+| 5 | Официант | Добрый вечер! Мы очень рады видеть вас в нашем ресторане. | Good evening! We are very glad to see you in our restaurant. | #1028: Добрый вечер<br>#1029: Мы рады<br>#1029: вас в нашем ресторане | adapted: 'приветствовать' -> 'очень ... видеть' |
+| 6 | Официант | Вот наше лучшее розовое шампанское. | Here is our best pink champagne. | #1031: шампанское | adapted: cue 1031 simplified to A1 |
+| 7 | Самсон | Отлично! Давай розовое. | Great! Give us the pink one. | #1036: отлично<br>#1033: Давай | adapted: 'розовый' -> 'розовое' |
+| 8 | Официант | У нас есть большая тарелка рыбы и крабов. | We have a big platter of fish and crabs. | #1035: краб | adapted: cues 1034-1035 ('башня из морепродуктов...') simplified to A1 |
+| 9 | Официант | А потом итальянские пельмени. Все гости их очень любят. | And then Italian dumplings. All the guests love them very much. | #1037: А | adapted: cues 1037-1040 (the waiter explaining ravioli as little dumplings) simplified to A1 |
+| 10 | Самсон | Пельмени мы будем, да, Нина? Неси всё! | We'll have the dumplings, right, Nina? Bring everything! | #1042: будем, да, Нина<br>#1044: все | adapted: 'Пельмеши' -> 'Пельмени мы'; 'Тащи' -> 'Неси' |
+| 11 | Официант | Хорошо! Приятного вечера. | Very well! Have a pleasant evening. | #1046: Приятного вечера | adapted: 'Хорошо!' added |
+| 12 | Нина | Ваня, может, не надо шампанское? | Vanya, maybe we shouldn't have champagne? | #1047: может, не надо | adapted: cue 1047 'Бен' (garbled 'Вань') -> 'Ваня'; 'шампанское' added |
+| 13 | Самсон | Нина, это же просто сладкая вода! | Nina, it's just sweet water! | #1048: Нина, это | adapted: cues 1048-1049 ('шипучка. Барбариска.') -> 'же просто сладкая вода!' |
+| 14 | Самсон | Давай, за нашу новую жизнь! Очень вкусно! | Come on, to our new life! Very tasty! | #1050: Давай, за нашу новую жизнь<br>#1051: Вкусно | adapted: 'Очень' added |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

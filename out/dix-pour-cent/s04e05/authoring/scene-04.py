@@ -7,29 +7,28 @@ SCENE = 4
 TITLE = "Exigences de star  (A Star's Demands)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'lea': 'lucie'}
-LABELS = {'sigourney': 'Sigourney', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Settling into her luxurious suite at the Hotel de Crillon, Sigourney Weaver immediately expresses dissatisfaction with the quiet room assigned to her. Refusing to be treated as a sedate senior citizen, the energetic actress demands a view of the bustling Place de la Concorde along with fitness equipment. Let's listen to their conversation in French first."
 OPENER = "Let's explore Camille and Sigourney's hotel suite conversation line by line."
 TRANSITION = "Now let's listen to Camille and Sigourney's exchange once more from start to finish."
 OUTRO = "That's it for this scene around a star's demands. When you watch the episode, listen out for the expressions meaning 'splendid' and 'suite'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Voici votre splendide suite au Crillon.', 'Here is your splendid suite at the Crillon.', [(68, "l'hôtel de Crillon.")], ''),
+    ('camille', 'Voici votre splendide suite au Crillon.', 'Here is your splendid suite at the Crillon.', [(68, "l'hôtel de Crillon.")], ''),
     ('sigourney', "Pourquoi m'avoir donné une chambre si calme?", 'Why give me such a quiet room?', [(69, 'chambres les plus calmes'), (71, 'besoin de me reposer ?')], ''),
-    ('lea', "L'hôtel réserve ces chambres aux clients âgés.", 'The hotel reserves these rooms for elderly guests.', [(72, 'clients les plus âgés')], ''),
+    ('camille', "L'hôtel réserve ces chambres aux clients âgés.", 'The hotel reserves these rooms for elderly guests.', [(72, 'clients les plus âgés')], ''),
     ('sigourney', "Mais je n'ai pas besoin de repos!", 'But I do not need rest!', [(71, 'besoin de me reposer ?')], ''),
     ('sigourney', 'Je veux voir la Place de la Concorde!', 'I want to see the Place de la Concorde!', [(73, 'Place de la Concorde.')], ''),
-    ('lea', 'Je vais demander un changement de chambre.', 'I will request a change of room.', [], ''),
+    ('camille', 'Je vais demander un changement de chambre.', 'I will request a change of room.', [], ''),
     ('sigourney', "Faites monter un bon vélo d'appartement.", 'Have a good stationary bicycle brought up.', [(74, 'vélo elliptique.')], ''),
     ('sigourney', 'Et apportez aussi un tapis de course.', 'And bring up a treadmill as well.', [(74, 'tapis de course')], ''),
-    ('lea', 'Je transmets vos demandes au personnel.', 'I will pass your requests to the staff.', [], ''),
+    ('camille', 'Je transmets vos demandes au personnel.', 'I will pass your requests to the staff.', [], ''),
     ('sigourney', 'Et quand arrive votre patronne Andréa?', 'And when is your boss Andrea arriving?', [(76, 'Et Andréa ? Elle vient ?')], ''),
-    ('lea', 'Elle arrive très bientôt, madame Weaver.', 'She is arriving very soon, Madame Weaver.', [(77, 'Bientôt.')], ''),
+    ('camille', 'Elle arrive très bientôt, madame Weaver.', 'She is arriving very soon, Madame Weaver.', [(77, 'Bientôt.')], ''),
     ('sigourney', "J'ai hâte de discuter de mon contrat.", 'I look forward to discussing my contract.', [], ''),
-    ('lea', 'Elle vous expliquera tous les détails.', 'She will explain all the details to you.', [], ''),
+    ('camille', 'Elle vous expliquera tous les détails.', 'She will explain all the details to you.', [], ''),
     ('sigourney', 'Parfait, je vais commencer ma gymnastique.', 'Perfect, I will start my exercises.', [], ''),
 ]
 WALK = [

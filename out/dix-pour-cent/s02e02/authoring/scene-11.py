@@ -7,8 +7,7 @@ SCENE = 11
 TITLE = 'La piste de Luchini  (The Luchini Lead)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Determined to recruit prestigious actor Fabrice Luchini, Andréa interrogates Hervé for useful intel. Hervé discovers that Luchini works out at a local gym, prompting an intense and hilarious training session. Let's listen to the scene in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more to lock in what 
 OUTRO = "Armed with Hervé's gym discovery and an agonizing workout session, Andréa prepares to stage a chance encounter. See you next time!"
 CLOSING = ('herve', 'À bientôt!')
 STORY = [
-    ('lea', 'Tu as des infos sur Luchini?', 'Do you have info on Luchini?', [(336, 'Des infos sur Luchini ?')], ''),
+    ('andrea', 'Tu as des infos sur Luchini?', 'Do you have info on Luchini?', [(336, 'Des infos sur Luchini ?')], ''),
     ('herve', "Il n'est pas en couple actuellement.", 'He is not currently in a relationship.', [(337, "Il n'est pas en couple.")], ''),
     ('herve', "Il vient de s'installer dans un immeuble à Montmartre.", 'He just moved into a building in Montmartre.', [(338, "Il vient de s'installer dans un immeuble à Montmartre")], ''),
     ('herve', 'Et il est allergique à la noix de coco.', 'And he is allergic to coconut.', [(340, 'Et il est allergique à la noix de coco.')], ''),
-    ('lea', 'On ne prépare pas un homicide!', 'We are not planning a homicide!', [(341, 'On ne prépare pas un homicide.')], ''),
+    ('andrea', 'On ne prépare pas un homicide!', 'We are not planning a homicide!', [(341, 'On ne prépare pas un homicide.')], ''),
     ('herve', "Il s'entraîne dans une salle de sport.", 'He works out at a gym.', [(342, "Il s'entraîne dans une salle")], ''),
-    ('lea', 'Bien! Quel jour, à quelle heure?', 'Good! Which day, at what time?', [(343, 'Bien ! Quel jour, à quelle heure ?')], ''),
+    ('andrea', 'Bien! Quel jour, à quelle heure?', 'Good! Which day, at what time?', [(343, 'Bien ! Quel jour, à quelle heure ?')], ''),
     ('herve', 'Aucune idée pour le moment.', 'No idea for the moment.', [(344, 'Aucune idée.')], ''),
-    ('lea', 'Alors renseigne-toi vite!', 'Then find out quickly!', [(345, 'Alors renseigne-toi')], ''),
+    ('andrea', 'Alors renseigne-toi vite!', 'Then find out quickly!', [(345, 'Alors renseigne-toi')], ''),
     ('herve', "Tirez, relâchez! C'est un peu mou.", 'Pull, release! It is a bit slack.', [(349, "Tirez, relâchez... C'est un peu mou.")], ''),
-    ('lea', 'Cette machine est trop lourde pour moi.', 'This machine is too heavy for me.', [(350, 'Trop lourd pour moi.')], ''),
+    ('andrea', 'Cette machine est trop lourde pour moi.', 'This machine is too heavy for me.', [(350, 'Trop lourd pour moi.')], ''),
     ('herve', "Je n'ai mis aucun poids!", 'I did not put any weight on it!', [(350, "Je n'ai mis aucun poids !")], ''),
-    ('lea', 'La machine doit être cassée.', 'The machine must be broken.', [(351, 'Ça doit être cassé.')], ''),
+    ('andrea', 'La machine doit être cassée.', 'The machine must be broken.', [(351, 'Ça doit être cassé.')], ''),
     ('herve', 'Transpirez ou ça ne sera pas crédible.', 'Sweat or it will not look credible.', [(351, 'Transpirez ou ça ne sera pas crédible.')], ''),
     ('herve', "Tu es aussi raide qu'un marteau!", 'You are as stiff as a hammer!', [(352, "T'es aussi raide qu'un marteau.")], ''),
     ('herve', 'Maintenant courez, chaque seconde compte! Allez!', 'Now run, every second counts! Come on!', [(354, 'Maintenant courez, chaque seconde compte ! Allez !')], ''),

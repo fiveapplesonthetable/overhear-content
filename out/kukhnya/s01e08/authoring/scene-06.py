@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 6
-TITLE = "Новый шеф на кухне  (A New Chef in the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новый шеф на кухне  (A New Chef in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "elena": "Елена", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "In the restaurant kitchen, Chef Viktor Barinov introduces Elena Pavlovna Sokolova to his rebellious kitchen brigade. Elena immediately takes command of the tickets, criticizes Lyova's slow cooking, and demands absolute perfection on the dinner orders. Listen to their sharp dialogue in Russian first, and then we will examine every line."
 OPENER = "Let's examine this kitchen takeover step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our sixth scene. In Kukhnya, welcoming a rival head chef onto the pass instantly turns standard dinner service into a clash of culinary egos. See you next time!'
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
-    ('chef', 'Внимание всем, на кухне важный гость!', 'Attention everyone, in the kitchen is an important guest!', [(84, 'У кухни, внимание, это Елена Павловна')], ''),
-    ('chef', 'Это шеф Елена Павловна Соколова.', 'This is Chef Elena Pavlovna Sokolova.', [(84, 'это Елена Павловна')], ''),
+    ('barinov', 'Внимание всем, на кухне важный гость!', 'Attention everyone, in the kitchen is an important guest!', [(84, 'У кухни, внимание, это Елена Павловна')], ''),
+    ('barinov', 'Это шеф Елена Павловна Соколова.', 'This is Chef Elena Pavlovna Sokolova.', [(84, 'это Елена Павловна')], ''),
     ('elena', 'Здравствуйте, дорогие повара ресторана.', 'Hello, dear chefs of the restaurant.', [], ''),
-    ('chef', 'Сегодня она работает вместе с нами.', 'Today she works together with us.', [(85, 'Она будет сегодня')], ''),
+    ('barinov', 'Сегодня она работает вместе с нами.', 'Today she works together with us.', [(85, 'Она будет сегодня')], ''),
     ('elena', 'Надеюсь, вы умеете готовить вкусно и быстро.', 'I hope you know how to cook tasty and fast.', [(80, 'ты уже час готовишь')], ''),
-    ('chef', 'Мои ребята умеют абсолютно всё!', 'My guys know how to do absolutely everything!', [(82, 'а не работали')], ''),
+    ('barinov', 'Мои ребята умеют абсолютно всё!', 'My guys know how to do absolutely everything!', [(82, 'а не работали')], ''),
     ('elena', 'Тогда почему Лёва варит суп уже час?', 'Then why has Lyova been cooking soup for an hour already?', [(80, 'ты уже час готовишь')], ''),
-    ('chef', 'Лёва, отвечай шефу быстро и чётко!', 'Lyova, answer the chef quickly and clearly!', [(81, 'Заснул, что ли')], ''),
+    ('barinov', 'Лёва, отвечай шефу быстро и чётко!', 'Lyova, answer the chef quickly and clearly!', [(81, 'Заснул, что ли')], ''),
     ('elena', 'Так, официант принёс первый большой заказ.', 'Right, the waiter brought the first big order.', [(87, 'Заказ')], ''),
     ('elena', 'Одна телятина, треска и свежий салат!', 'One veal, cod, and fresh salad!', [(89, 'Телятина по трюфельным соусам, одна треска')], ''),
-    ('chef', 'Всем всё понятно? Начинайте готовить!', 'Is everything clear to everyone? Start cooking!', [(91, 'Всем все понятно')], ''),
+    ('barinov', 'Всем всё понятно? Начинайте готовить!', 'Is everything clear to everyone? Start cooking!', [(91, 'Всем все понятно')], ''),
     ('elena', 'Я лично проверю каждое готовое блюдо.', 'I will personally check every finished dish.', [(92, 'Хорошо')], ''),
-    ('chef', 'Не командуй слишком громко, Елена.', "Don't boss around too loudly, Elena.", [(85, 'ну вы все сами слышали')], ''),
+    ('barinov', 'Не командуй слишком громко, Елена.', "Don't boss around too loudly, Elena.", [(85, 'ну вы все сами слышали')], ''),
     ('elena', 'Настоящий шеф всегда следит за качеством!', 'A true chef always watches over quality!', [(85, 'ну вы все сами слышали')], ''),
 ]
 WALK = [

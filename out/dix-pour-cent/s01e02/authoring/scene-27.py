@@ -7,33 +7,32 @@ SCENE = 27
 TITLE = 'Pourquoi pas les deux?  (Why Not Both?)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabor': 'marcel', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabor': 'Gabor', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabor': 'Gabor', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Now, side by side for once, they corner Gabor and his producer Emma with a bold idea. Here's the scene in French first. Don't chase every word; just follow the mood. Let's listen to the scene in French first."
 OPENER = "Let's go through it slowly. Andréa opens with a question that sounds simple, but changes everything."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Two rival agents, one bold idea, and a toast nobody understands. Keep the trick with 'why not' plus a verb; it's a lovely way to make a suggestion. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
-    ('lea', 'Pourquoi ne pas prendre les deux?', 'Why not take them both?', [(750, 'Pourquoi ne pas prendre les deux')], ''),
+    ('andrea', 'Pourquoi ne pas prendre les deux?', 'Why not take them both?', [(750, 'Pourquoi ne pas prendre les deux')], ''),
     ('gabor', 'Les deux?', 'Both of them?', [], ''),
-    ('lea', 'Bonnie et Clyde à quatre-vingts ans, avec deux femmes!', 'Bonnie and Clyde at eighty, with two women!', [(751, 'Bonnie et Clyde à'), (752, 'avec deux femmes')], ''),
-    ('lea', 'Ça devient moderne.', 'It becomes modern.', [(753, 'ça devient moderne')], ''),
+    ('andrea', 'Bonnie et Clyde à quatre-vingts ans, avec deux femmes!', 'Bonnie and Clyde at eighty, with two women!', [(751, 'Bonnie et Clyde à'), (752, 'avec deux femmes')], ''),
+    ('andrea', 'Ça devient moderne.', 'It becomes modern.', [(753, 'ça devient moderne')], ''),
     ('gabor', 'Vous voulez dire un vrai couple de femmes?', 'You mean a real couple of women?', [(755, 'Vous voulez dire un vrai couple de femmes')], ''),
-    ('lea', 'Oui. Line Renaud et Françoise Fabian.', 'Yes. Line Renaud and Françoise Fabian.', [(755, 'Oui'), (757, 'Line Renaud, Françoise Fabian')], ''),
+    ('andrea', 'Oui. Line Renaud et Françoise Fabian.', 'Yes. Line Renaud and Françoise Fabian.', [(755, 'Oui'), (757, 'Line Renaud, Françoise Fabian')], ''),
     ('gabriel', 'On vient de les voir.', 'We', [(757, 'On vient de les voir')], ''),
     ('gabriel', 'Chacune est une star.', 'Each one is a star.', [(758, 'Chacune est une star')], ''),
     ('gabriel', 'Mais ensemble…', 'But together…', [(759, 'Mais ensemble')], ''),
-    ('lea', 'Vous avez vu ça?', 'Did you see that?', [(760, 'Vous avez vu')], ''),
+    ('andrea', 'Vous avez vu ça?', 'Did you see that?', [(760, 'Vous avez vu')], ''),
     ('gabor', "Ce n'est pas mal.", 'That', [(764, 'pas mal')], ''),
     ('gabor', "C'est totalement inattendu.", 'It', [(765, "C'est totalement inattendu")], ''),
     ('gabor', 'Tout le monde en parlera.', 'Everyone will talk about it.', [(767, 'Tout le monde en parlera')], ''),
-    ('lea', 'Et vous avez deux stars!', 'And you get two stars!', [(768, 'Et vous avez deux stars')], ''),
+    ('andrea', 'Et vous avez deux stars!', 'And you get two stars!', [(768, 'Et vous avez deux stars')], ''),
     ('gabriel', 'On vous fait un bon prix.', 'We', [(769, 'On vous fait un bon prix')], ''),
     ('gabor', 'Outjet!', 'Outjet! (a made-up toast)', [(770, 'Outjet')], ''),
-    ('lea', 'Euh, oui, outjet!', 'Er, yes!', [(771, 'Oui, outjet')], ''),
+    ('andrea', 'Euh, oui, outjet!', 'Er, yes!', [(771, 'Oui, outjet')], ''),
     ('gabriel', 'Eh bien, outjet!', 'Well then.', [(772, 'Eh bien... Outjet')], ''),
 ]
 WALK = [

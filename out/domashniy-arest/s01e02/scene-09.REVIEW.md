@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Паша, что всё это значит? | Pasha, what does all this mean? | new | new: Arkady has just been dragged in by the guards |
-| 2 | Паша | Мы все скидываемся на кластер. Мне сегодня надо отдать сто пятьдесят. | You see, Arkasha, we're all chipping in for this cluster. I have to give the Moscow people a hundred and fifty today. | #230 00:16:45: мы все скидываемся на<br>#231 00:16:49: сегодня | adapted: 'Аркашенька' -> 'Аркаша'; cue 231 '150 отдавать надо' -> 'надо отдать сто пятьдесят' |
-| 3 | Аня | Ну и что? | So what? | new | new: Arkady's shrug |
-| 4 | Паша | Без твоих сорока у меня сто десять. Я на твои деньги рассчитывал. | And without your forty I've only got a hundred and ten. I was counting on your money. | #232 00:16:52: без твоих<br>#233 00:16:55: Я на твои деньги рассчитывал | adapted: 'только' added |
-| 5 | Аня | В следующий раз на мои деньги не рассчитывай. И всё будет хорошо. | Well, next time don't count on my money. And everything will be fine. | #234 00:16:58: в следующий раз на мои деньги не рассчитывай<br>#235 00:17:01: И все будет хорошо | verbatim |
-| 6 | Аня | Ты что, мафия? Ты же завхоз в третьем поколении. | What are you, the mafia? You're a supply manager, third generation. | #237 00:17:06: Ты же завхоз в третьем поколении | adapted: cue 236 'Чего ты из себя мафиози строишь?' (why are you playing the mafia boss) simplified to 'Ты что, мафия?' |
-| 7 | Паша | Значит, предложение такое. Ты мне говоришь, где твои сорок миллионов. | So, here's the offer. You tell me where your forty million is. | #240 00:17:14: Значит, предложение такое<br>#241 00:17:17: Ты мне говоришь, где твои | adapted: slang 'лямов' -> 'миллионов' |
-| 8 | Аня | А ты мне что? | And what do I get from you? | new | new: a link between the two halves of cue 241 |
-| 9 | Паша | А я тебе делаю условный срок. Плюс ты забираешь все деньги Вики. | And I get you a suspended sentence. Plus you take all of Vika's money. | #241 00:17:17: я тебе делаю<br>#242 00:17:21: Плюс ты забираешь все | adapted: slang 'условку' -> 'условный срок', 'бабки, которые в комоде лежат у Вики' -> 'деньги Вики'; cue 243 (Vika herself thrown in) left out |
-| 10 | Аня | Предложение, конечно, хорошее. Знаешь, что я тебе скажу? | It's a good offer, of course. Do you know what I'll tell you? | #245 00:17:31: Предложение, конечно, хорошее<br>#246 00:17:33: Знаешь, что я тебе скажу | verbatim |
-| 11 | Паша | Что? | What? | #247 00:17:34: Что | verbatim |
-| 12 | Аня | Я выйду отсюда, меня оправдают. Аракелян заявление заберёт. | I'll get out of here, they'll acquit me. Arakelyan will withdraw his statement. | #249 00:17:39: Я выйду отсюда, меня оправдают<br>#250 00:17:41: заявление заберет | adapted: the cue's 'Ракелян' is a slip for Arakelyan |
-| 13 | Аня | Ай! Больно, больно! | Ow! It hurts, it hurts! | #251 00:17:45: больно, больно | adapted: 'Ай!' added; the guards twist his hand |
-| 14 | Паша | Значит так, срок у тебя до вечера, понял? | Right then, you've got until tonight, understood? | #252 00:17:48: Значит так, срок у тебя до вечера, понял | adapted: 'Аркадий Борисович' moved to the goodbye |
-| 15 | Аня | А если нет? | And if not? | new | new: a simpler stand-in for cue 254 'А если не приму?' (and if I don't [make that decision]?) |
-| 16 | Паша | Тогда ребята с тобой поработают. До свидания, Аркадий Борисович. | Then the boys will have a little word with you. Goodbye, Arkady Borisovich. | #256 00:18:01: с тобой поработают<br>#259 00:18:09: До свидания, Аркадий Борисович | adapted: cue 255 ('then we move on to physical threats') folded into 'Тогда' |
-| 17 | Аня | До свидания. | Goodbye. | #260 00:18:17: До свидания | verbatim |
+| 1 | Аркадий | Паша, что всё это значит? | Pasha, what does all this mean? | new | new: Arkady has just been dragged in by the guards |
+| 2 | Паша | Мы все скидываемся на кластер. Мне сегодня надо отдать сто пятьдесят. | You see, Arkasha, we're all chipping in for this cluster. I have to give the Moscow people a hundred and fifty today. | #230: мы все скидываемся на<br>#231: сегодня | adapted: 'Аркашенька' -> 'Аркаша'; cue 231 '150 отдавать надо' -> 'надо отдать сто пятьдесят' |
+| 3 | Аркадий | Ну и что? | So what? | new | new: Arkady's shrug |
+| 4 | Паша | Без твоих сорока у меня сто десять. Я на твои деньги рассчитывал. | And without your forty I've only got a hundred and ten. I was counting on your money. | #232: без твоих<br>#233: Я на твои деньги рассчитывал | adapted: 'только' added |
+| 5 | Аркадий | В следующий раз на мои деньги не рассчитывай. И всё будет хорошо. | Well, next time don't count on my money. And everything will be fine. | #234: в следующий раз на мои деньги не рассчитывай<br>#235: И все будет хорошо | verbatim |
+| 6 | Аркадий | Ты что, мафия? Ты же завхоз в третьем поколении. | What are you, the mafia? You're a supply manager, third generation. | #237: Ты же завхоз в третьем поколении | adapted: cue 236 'Чего ты из себя мафиози строишь?' (why are you playing the mafia boss) simplified to 'Ты что, мафия?' |
+| 7 | Паша | Значит, предложение такое. Ты мне говоришь, где твои сорок миллионов. | So, here's the offer. You tell me where your forty million is. | #240: Значит, предложение такое<br>#241: Ты мне говоришь, где твои | adapted: slang 'лямов' -> 'миллионов' |
+| 8 | Аркадий | А ты мне что? | And what do I get from you? | new | new: a link between the two halves of cue 241 |
+| 9 | Паша | А я тебе делаю условный срок. Плюс ты забираешь все деньги Вики. | And I get you a suspended sentence. Plus you take all of Vika's money. | #241: я тебе делаю<br>#242: Плюс ты забираешь все | adapted: slang 'условку' -> 'условный срок', 'бабки, которые в комоде лежат у Вики' -> 'деньги Вики'; cue 243 (Vika herself thrown in) left out |
+| 10 | Аркадий | Предложение, конечно, хорошее. Знаешь, что я тебе скажу? | It's a good offer, of course. Do you know what I'll tell you? | #245: Предложение, конечно, хорошее<br>#246: Знаешь, что я тебе скажу | verbatim |
+| 11 | Паша | Что? | What? | #247: Что | verbatim |
+| 12 | Аркадий | Я выйду отсюда, меня оправдают. Аракелян заявление заберёт. | I'll get out of here, they'll acquit me. Arakelyan will withdraw his statement. | #249: Я выйду отсюда, меня оправдают<br>#250: заявление заберет | adapted: the cue's 'Ракелян' is a slip for Arakelyan |
+| 13 | Аркадий | Ай! Больно, больно! | Ow! It hurts, it hurts! | #251: больно, больно | adapted: 'Ай!' added; the guards twist his hand |
+| 14 | Паша | Значит так, срок у тебя до вечера, понял? | Right then, you've got until tonight, understood? | #252: Значит так, срок у тебя до вечера, понял | adapted: 'Аркадий Борисович' moved to the goodbye |
+| 15 | Аркадий | А если нет? | And if not? | new | new: a simpler stand-in for cue 254 'А если не приму?' (and if I don't [make that decision]?) |
+| 16 | Паша | Тогда ребята с тобой поработают. До свидания, Аркадий Борисович. | Then the boys will have a little word with you. Goodbye, Arkady Borisovich. | #256: с тобой поработают<br>#259: До свидания, Аркадий Борисович | adapted: cue 255 ('then we move on to physical threats') folded into 'Тогда' |
+| 17 | Аркадий | До свидания. | Goodbye. | #260: До свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

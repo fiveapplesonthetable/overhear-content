@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Нужно срочно решить, что дарить шефу. | We need to urgently decide what to give the chef. | #64 00:04:52: Нужно срочно решить, что | adapted: adapted |
-| 2 | Федя | До вечера времени почти не остаётся. | There is almost no time left until evening. | #65 00:04:55: Времени совсем не остается. | adapted: adapted |
-| 3 | Сеня | Тут всего два варианта: лимузин или яхта! | There are only two options here: a limousine or a yacht! | #66 00:04:57: А что тут решать? | adapted: adapted |
-| 4 | Сеня | Давайте скинемся по пятьсот рублей с каждого. | Let's chip in five hundred rubles from each person. | #67 00:05:00: Значит так, предлагаю, как | adapted: adapted |
-| 5 | Федя | Нет, для шефа нужен особенный подарок. | No, we need a special gift for the chef. | #68 00:05:04: Нужен особенный подарок. | adapted: adapted |
-| 6 | Сеня | Ладно, у меня есть отличный вариант. | All right, I have an excellent option. | #70 00:05:10: Ладно, есть вариант. | adapted: adapted |
-| 7 | Сеня | Мне этот пузырёк Тимур недавно подарил. | Timur recently gave me this little bottle. | #71 00:05:13: О, Тимур на днях | adapted: adapted |
-| 8 | Сеня | Две капли в чай — и готово! | Two drops into tea, and it is done! | #73 00:05:20: Две капли в чай, | adapted: adapted |
-| 9 | Федя | Это же очень сильное средство для любви! | That is a very strong remedy for love! | #74 00:05:22: Слушай, а ты без | adapted: adapted |
-| 10 | Федя | Вы что здесь странные капли обсуждаете? | Why are you discussing strange drops here? | #76 00:05:28: Вы что, наркотики здесь | adapted: adapted |
-| 11 | Сеня | Нет, это лекарство для моей больной бабушки! | No, this is medicine for my sick grandmother! | #77 00:05:31: Нет. Это для бабушки, | adapted: adapted |
-| 12 | Федя | Я всё слышал, быстро за работу! | I heard everything, get to work quickly! | #78 00:05:35: Так, я все слышал. | adapted: adapted |
+| 1 | Федя | Нужно срочно решить, что дарить шефу. | We need to urgently decide what to give the chef. | #64: Нужно срочно решить, что | adapted: adapted |
+| 2 | Луи | До вечера времени почти не остаётся. | There is almost no time left until evening. | #65: Времени совсем не остается. | adapted: adapted |
+| 3 | Сеня | Тут всего два варианта: лимузин или яхта! | There are only two options here: a limousine or a yacht! | #66: А что тут решать? | adapted: adapted |
+| 4 | Сеня | Давайте скинемся по пятьсот рублей с каждого. | Let's chip in five hundred rubles from each person. | #67: Значит так, предлагаю, как | adapted: adapted |
+| 5 | Федя | Нет, для шефа нужен особенный подарок. | No, we need a special gift for the chef. | #68: Нужен особенный подарок. | adapted: adapted |
+| 6 | Сеня | Ладно, у меня есть отличный вариант. | All right, I have an excellent option. | #70: Ладно, есть вариант. | adapted: adapted |
+| 7 | Сеня | Мне этот пузырёк Тимур недавно подарил. | Timur recently gave me this little bottle. | #71: О, Тимур на днях | adapted: adapted |
+| 8 | Сеня | Две капли в чай — и готово! | Two drops into tea, and it is done! | #73: Две капли в чай, | adapted: adapted |
+| 9 | Федя | Это же очень сильное средство для любви! | That is a very strong remedy for love! | #74: Слушай, а ты без | adapted: adapted |
+| 10 | Луи | Вы что здесь странные капли обсуждаете? | Why are you discussing strange drops here? | #76: Вы что, наркотики здесь | adapted: adapted |
+| 11 | Сеня | Нет, это лекарство для моей больной бабушки! | No, this is medicine for my sick grandmother! | #77: Нет. Это для бабушки, | adapted: adapted |
+| 12 | Луи | Я всё слышал, быстро за работу! | I heard everything, get to work quickly! | #78: Так, я все слышал. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to urgently decide what to give the chef.' Here Fedya anchors the thought on 'necessary, need to' and finishes on 'chef', keeping the spoken rhythm brisk and natural.
-- 'There is almost no time left until evening.' In everyday Russian, 'in the evening' flows straight into 'to stay, to remain' without extra linking words.
-- 'There are only two options here: a limousine or a yacht!' Senya pairs 'only, in all' with 'a yacht' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Let's chip in five hundred rubles from each person.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
-- 'No, we need a special gift for the chef.' Here Fedya anchors the thought on 'chef' and finishes on 'gift, present', keeping the spoken rhythm brisk and natural.
-- 'All right, I have an excellent option.' Senya reaches into his pocket and announces his idea.
-- 'Timur recently gave me this little bottle.' Senya pairs 'vial, small medicine bottle' with 'gifted' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Two drops into tea, and it is done!' Notice how Russian puts 'drop' and 'ready' together in a short, direct phrase where word endings show how the ideas connect.
-- 'That is a very strong remedy for love!' Here Fedya anchors the thought on 'very, really' and finishes on 'love', keeping the spoken rhythm brisk and natural.
-- 'Why are you discussing strange drops here?' German walks over suspiciously and questions the group.
-- 'No, this is medicine for my sick grandmother!' Senya pairs 'medicine' with 'grandmothers' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'I heard everything, get to work quickly!' They scatter back to their stations with a polite French thank-you from Louis.
+- 'We need to urgently decide what to give the chef.' Needing to urgently decide what to give is how Fedya lays out the situation for Louis. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'There is almost no time left until evening.' Mentioning that there is almost no time left until evening moves the talk in a new direction.
+- 'There are only two options here: a limousine or a yacht!' Once there are only two options here a limousine or a yacht, Senya makes sure Fedya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Let's chip in five hundred rubles from each person.' Proposing that they chip in five hundred rubles from each person moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'No, we need a special gift for the chef.' Needing a special gift is how Fedya lays out the situation for Louis.
+- 'All right, I have an excellent option.' Senya mentions that all right he has an excellent option so Fedya sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Timur recently gave me this little bottle.' Claiming that Timur recently gave him this little bottle sounds confident, even if Fedya has doubts.
+- 'Two drops into tea, and it is done!' Because two drops into tea and it is done, Senya does not bother softening the blow for Fedya.
+- 'That is a very strong remedy for love!' Insisting that that is a very strong remedy for love shows Fedya is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Why are you discussing strange drops here?' Here asking why Fedya discussing strange drops here is shows Louis looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'No, this is medicine for my sick grandmother!' Declaring that this is medicine for his sick grandmother brings Senya's temper right to the surface.
+- 'I heard everything, get to work quickly!' Louis insists that he heard everything get to work quickly, leaving Fedya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.

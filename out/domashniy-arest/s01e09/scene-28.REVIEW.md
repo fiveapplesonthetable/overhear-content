@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Сотрудник | Товарищ командир, здание полностью окружено. | Comrade commander, the building is completely surrounded. | new | new: added operational opening |
 | 2 | Командир | Отлично. Быстро заходим внутрь. | Excellent. We go inside quickly. | new | new: added commander order |
 | 3 | Сотрудник | Здесь в коридоре маленькие дети! | Here in the corridor are small children! | new | new: added children sighting |
-| 4 | Командир | Так, детей сразу в автобус! | Right, put the children into the bus immediately! | #751 00:41:04: Так, детей в автобус | adapted: adapted cue 751 |
-| 5 | Командир | Отвезите их в аквапарк. | Take them to the water park. | #751 00:41:04: в аквапарк | adapted: adapted cue 751 |
-| 6 | Командир | Всё за счёт ФСБ! | Everything is on the FSB! | #751 00:41:04: за счет ФСБ | adapted: verbatim cue 751 with yo |
-| 7 | Сотрудник | У них же плавочек нет! | But they do not have swimsuits! | #752 00:41:08: У них же плавочек нет | adapted: verbatim cue 752 |
-| 8 | Командир | Ничего страшного. | No big deal. | #753 00:41:09: Ничего страшного | adapted: verbatim cue 753 |
-| 9 | Командир | На берегу спокойно посидят. | They will sit quietly on the shore. | #753 00:41:09: на берегу посидят | adapted: adapted cue 753 |
-| 10 | Сотрудник | Понял. Я посажу их в автобус. | Understood. I will put them into the bus. | #754 00:41:12: Так | adapted: expanded cue 754 |
+| 4 | Командир | Так, детей сразу в автобус! | Right, put the children into the bus immediately! | #751: Так, детей в автобус | adapted: adapted cue 751 |
+| 5 | Командир | Отвезите их в аквапарк. | Take them to the water park. | #751: в аквапарк | adapted: adapted cue 751 |
+| 6 | Командир | Всё за счёт ФСБ! | Everything is on the FSB! | #751: за счет ФСБ | adapted: verbatim cue 751 with yo |
+| 7 | Сотрудник | У них же плавочек нет! | But they do not have swimsuits! | #752: У них же плавочек нет | adapted: verbatim cue 752 |
+| 8 | Командир | Ничего страшного. | No big deal. | #753: Ничего страшного | adapted: verbatim cue 753 |
+| 9 | Командир | На берегу спокойно посидят. | They will sit quietly on the shore. | #753: на берегу посидят | adapted: adapted cue 753 |
+| 10 | Сотрудник | Понял. Я посажу их в автобус. | Understood. I will put them into the bus. | #754: Так | adapted: expanded cue 754 |
 | 11 | Сотрудник | А что делать с этой дверью? | And what should we do with this door? | new | new: added breach question |
-| 12 | Командир | Ну-ка, дай кувалду! | Come on, hand me the sledgehammer! | #755 00:41:20: Ну-ка, дай кувалду | adapted: verbatim cue 755 |
+| 12 | Командир | Ну-ка, дай кувалду! | Come on, hand me the sledgehammer! | #755: Ну-ка, дай кувалду | adapted: verbatim cue 755 |
 | 13 | Командир | Мы сейчас откроем этот вход. | We will open this entrance right now. | new | new: added breach command |
 
 ## Walk-through narration (English only, no target-language words quoted)

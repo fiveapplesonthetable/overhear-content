@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 3
-TITLE = "Будильник  (The Alarm Clock)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Будильник  (The Alarm Clock)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
-LABELS = {"anya": "Макс", "sasha": "Саша"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Max and Sasha are in bed when the alarm goes off. They are both exhausted and want to keep sleeping. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Let's listen to their conversation."
 TRANSITION = "Now let's hear the whole thing once more."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the alarm clock, and for the words meaning 'let's' and 'minutes'. You'll catch them now. See you next time."
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Давай еще на десять минут переведем.', "Let's snooze it for another ten minutes.", [(14, 'Давай еще на 10 минут переведем, а?')], ''),
+    ('max', 'Давай еще на десять минут переведем.', "Let's snooze it for another ten minutes.", [(14, 'Давай еще на 10 минут переведем, а?')], ''),
     ('sasha', 'Опять?', 'Again?', [(15, 'Опять?')], ''),
-    ('anya', 'Ага.', 'Yeah.', [(15, 'Ага.')], ''),
+    ('max', 'Ага.', 'Yeah.', [(15, 'Ага.')], ''),
     ('sasha', 'Давай вообще на работу не пойдем.', "Let's just skip work altogether.", [(16, 'Давай вообще на работу не пойдем.')], ''),
-    ('anya', 'Давай.', "Let's.", [(17, 'Давай.')], ''),
-    ('anya', 'Я так хочу спать.', 'I want to sleep so much.', [], ''),
+    ('max', 'Давай.', "Let's.", [(17, 'Давай.')], ''),
+    ('max', 'Я так хочу спать.', 'I want to sleep so much.', [], ''),
     ('sasha', 'Я тоже.', 'Me too.', [], ''),
-    ('anya', 'Можно просто остаться дома.', 'We can just stay home.', [], ''),
+    ('max', 'Можно просто остаться дома.', 'We can just stay home.', [], ''),
     ('sasha', 'Это плохая идея.', 'That is a bad idea.', [], ''),
     ('sasha', 'Нас уволят.', 'They will fire us.', [], ''),
-    ('anya', 'Тогда надо вставать.', 'Then we need to get up.', [], ''),
+    ('max', 'Тогда надо вставать.', 'Then we need to get up.', [], ''),
     ('sasha', 'Доброе утро.', 'Good morning.', [], ''),
 ]
 WALK = [

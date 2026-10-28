@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Шеф, не нужно было вам Нагиева оскорблять. | Chef, you should not have insulted Nagiyev. | #87 00:07:47: Шеф, не нужно было вам Нагиева оскорблять. | verbatim |
-| 2 | Шеф | А тебе никто слова не давал. | And nobody gave you the floor to speak. | #88 00:07:51: никто слова не давал. | verbatim |
-| 3 | Сеня | Шеф, вот из-за вашего характера все проблемы. | Chef, all your problems come from your temper. | #89 00:07:53: Шеф, вот из-за вашего характера все проблемы. | verbatim |
-| 4 | Шеф | И тебе никто слова не давал. | And nobody asked for your opinion either. | #90 00:07:56: И тебе<br>#90 00:07:56: никто слова не давал. | verbatim |
-| 5 | Шеф | Зато теперь вы не имеете права оскорблять. | At least now you have no right to insult us. | #91 00:07:59: Зато теперь вы не имеете<br>#91 00:07:59: оскорблять. | verbatim |
-| 6 | Шеф | Молчи, когда мужики разбираются. | Keep quiet when grown men are sorting things out. | #92 00:08:02: Молчи, когда мужики разбираются. | verbatim |
-| 7 | Шеф | Хорошо, что вас уволили. | It is a good thing they fired you. | #93 00:08:05: Хорошо, что вас уволили. | verbatim |
-| 8 | Шеф | Что ты сказал? | What did you just say? | #94 00:08:07: Что ты сказал? | verbatim |
-| 9 | Шеф | Да пошли вы все. | To hell with all of you. | #94 00:08:07: Да пошли вы все. | verbatim |
-| 10 | Шеф | Меня-то в любой ресторан возьмут. | Any restaurant will gladly hire me. | #95 00:08:12: Меня-то в любой ресторан возьмут. | verbatim |
-| 11 | Шеф | А вы тут сгниёте. | And you will rot here without me. | #96 00:08:14: А вы тут | verbatim |
-| 12 | Сеня | Шеф ушёл. | The Chef walked out. | #89 00:07:53: Шеф | verbatim |
+| 1 | Сеня | Шеф, не нужно было вам Нагиева оскорблять. | Chef, you should not have insulted Nagiyev. | #87: Шеф, не нужно было вам Нагиева оскорблять. | verbatim |
+| 2 | Шеф | А тебе никто слова не давал. | And nobody gave you the floor to speak. | #88: никто слова не давал. | verbatim |
+| 3 | Сеня | Шеф, вот из-за вашего характера все проблемы. | Chef, all your problems come from your temper. | #89: Шеф, вот из-за вашего характера все проблемы. | verbatim |
+| 4 | Шеф | И тебе никто слова не давал. | And nobody asked for your opinion either. | #90: И тебе<br>#90: никто слова не давал. | verbatim |
+| 5 | Луи | Зато теперь вы не имеете права оскорблять. | At least now you have no right to insult us. | #91: Зато теперь вы не имеете<br>#91: оскорблять. | verbatim |
+| 6 | Шеф | Молчи, когда мужики разбираются. | Keep quiet when grown men are sorting things out. | #92: Молчи, когда мужики разбираются. | verbatim |
+| 7 | Луи | Хорошо, что вас уволили. | It is a good thing they fired you. | #93: Хорошо, что вас уволили. | verbatim |
+| 8 | Шеф | Что ты сказал? | What did you just say? | #94: Что ты сказал? | verbatim |
+| 9 | Шеф | Да пошли вы все. | To hell with all of you. | #94: Да пошли вы все. | verbatim |
+| 10 | Шеф | Меня-то в любой ресторан возьмут. | Any restaurant will gladly hire me. | #95: Меня-то в любой ресторан возьмут. | verbatim |
+| 11 | Шеф | А вы тут сгниёте. | And you will rot here without me. | #96: А вы тут | verbatim |
+| 12 | Сеня | Шеф ушёл. | The Chef walked out. | #89: Шеф | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you should not have insulted Nagiyev.' In everyday Russian, 'chef' flows straight into 'to insult' without extra linking words.
-- 'And nobody gave you the floor to speak.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Chef, all your problems come from your temper.' Notice how Russian puts 'chef' and 'problems' together in a short, direct phrase where word endings show how the ideas connect.
-- 'And nobody asked for your opinion either.' Here Chef Barinov anchors the thought on 'words' and finishes on 'gave', keeping the spoken rhythm brisk and natural.
-- 'At least now you have no right to insult us.' In everyday Russian, 'now, nowadays' flows straight into 'to insult' without extra linking words.
-- 'Keep quiet when grown men are sorting things out.' Chef Barinov pairs 'be silent' with 'understand' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'It is a good thing they fired you.' Notice how Russian puts 'good, well, all right' and 'to fire, to dismiss' together in a short, direct phrase where word endings show how the ideas connect.
-- 'What did you just say?' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'To hell with all of you.' Chef Viktor uses the polite plural form of address to maintain a respectful or ironic distance.
-- 'Any restaurant will gladly hire me.' Chef Barinov pairs 'any' with 'to take' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'And you will rot here without me.' Spoken Russian keeps this brief and expressive, built right around 'without' without extra helper words.
-- 'The Chef walked out.' Here Senya anchors the thought on 'chef' and finishes on 'left, would leave', keeping the spoken rhythm brisk and natural.
+- 'Chef, you should not have insulted Nagiyev.' Once Barinov should not have insulted Nagiyev, Senya can finally tell Barinov what he means.
+- 'And nobody gave you the floor to speak.' Adding that nobody gave Louis the floor to speak fills in the missing piece for Louis. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Chef, all your problems come from your temper.' With the shift and pride in play, Senya keeps this short reply brisk and direct.
+- 'And nobody asked for your opinion either.' Since nobody asked for Louis's opinion either, Barinov does not waste words on excuses.
+- 'At least now you have no right to insult us.' Mentioning that at least now Barinov has no right to insult them moves the talk in a new direction. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
+- 'Keep quiet when grown men are sorting things out.' Saying that Louis should keep quiet when grown men are sorting things out is how Barinov sets the tone with Louis.
+- 'It is a good thing they fired you.' Because it is a good thing they fired Barinov, Louis treats the matter as settled.
+- 'What did you just say?' Wondering what Louis just say is how Barinov puts Louis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'To hell with all of you.' Around the moment and pride, Barinov sets a calm, everyday tone with Louis. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Any restaurant will gladly hire me.' Claiming that any restaurant will gladly hire him sounds confident, even if Louis has doubts.
+- 'And you will rot here without me.' Pointing out that Louis will rot here without him gives Louis a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'The Chef walked out.' Senya explains that the Chef walked out, keeping his voice calm and direct.

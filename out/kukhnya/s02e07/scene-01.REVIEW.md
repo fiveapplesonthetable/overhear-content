@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | С днем рождения. | Happy birthday. | #1 00:00:26: С днем рождения | verbatim |
-| 2 | Вика | Может, вам таблеток дать? | Maybe I should give you some pills? | #3 00:00:42: Может, вам таблеток дать | verbatim |
-| 3 | Шеф | Не стоит. | There is no need. | #4 00:00:45: Не стоит | verbatim |
-| 4 | Шеф | Доброе утро, Виктор Петрович. | Good morning, Viktor Petrovich. | #5 00:00:49: Доброе утро, Виктор Петрович | verbatim |
-| 5 | Вика | Родион Сергеевич. | Rodion Sergeyevich. | #6 00:00:51: Родион Сергеевич | verbatim |
-| 6 | Шеф | Подсказать, куда труп спрятать? | Should I suggest where to hide the body? | #7 00:00:56: Подсказать, куда труп спрятать | verbatim |
-| 7 | Шеф | Уж не скажете ли вы, что занимаетесь спортом? | You are not going to tell me that you play sports, are you? | #9 00:01:02: Уж не скажете ли вы, что занимаетесь спортом | verbatim |
-| 8 | Вика | А вы сомневаетесь. | Do you doubt it? | #10 00:01:05: А вы сомневаетесь | verbatim |
-| 9 | Шеф | Я не имею. | I have no doubts. | #13 00:01:12: Я не имею | verbatim |
-| 10 | Шеф | Что вы говорите? | You do not say? | #15 00:01:18: Что вы говорите | verbatim |
-| 11 | Вика | А может, мы с вами вместе побегаем? | Maybe the two of us should go jogging together? | #16 00:01:20: А может, мы с вами вместе побегаем | verbatim |
-| 12 | Шеф | Вот прямо завтра и побегаем. | We will go for a run first thing tomorrow. | #17 00:01:23: Вот прямо завтра и побегаем | verbatim |
-| 13 | Шеф | Вот здесь, в парке. | Right here in the park. | #18 00:01:25: Вот здесь, в парке | verbatim |
+| 1 | Шеф | С днем рождения. | Happy birthday. | #1: С днем рождения | verbatim |
+| 2 | Вика | Может, вам таблеток дать? | Maybe I should give you some pills? | #3: Может, вам таблеток дать | verbatim |
+| 3 | Родион | Не стоит. | There is no need. | #4: Не стоит | verbatim |
+| 4 | Шеф | Доброе утро, Виктор Петрович. | Good morning, Viktor Petrovich. | #5: Доброе утро, Виктор Петрович | verbatim |
+| 5 | Вика | Родион Сергеевич. | Rodion Sergeyevich. | #6: Родион Сергеевич | verbatim |
+| 6 | Родион | Подсказать, куда труп спрятать? | Should I suggest where to hide the body? | #7: Подсказать, куда труп спрятать | verbatim |
+| 7 | Шеф | Уж не скажете ли вы, что занимаетесь спортом? | You are not going to tell me that you play sports, are you? | #9: Уж не скажете ли вы, что занимаетесь спортом | verbatim |
+| 8 | Вика | А вы сомневаетесь. | Do you doubt it? | #10: А вы сомневаетесь | verbatim |
+| 9 | Родион | Я не имею. | I have no doubts. | #13: Я не имею | verbatim |
+| 10 | Шеф | Что вы говорите? | You do not say? | #15: Что вы говорите | verbatim |
+| 11 | Вика | А может, мы с вами вместе побегаем? | Maybe the two of us should go jogging together? | #16: А может, мы с вами вместе побегаем | verbatim |
+| 12 | Родион | Вот прямо завтра и побегаем. | We will go for a run first thing tomorrow. | #17: Вот прямо завтра и побегаем | verbatim |
+| 13 | Шеф | Вот здесь, в парке. | Right here in the park. | #18: Вот здесь, в парке | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Happy birthday.' In Russian, the idea of 'with' flows naturally into 'of birth' without extra filler words.
-- 'Maybe I should give you some pills?' Here the Russian phrasing highlights 'maybe' before landing on 'to give'. Rodion answers right away.
-- 'There is no need.' The grammar packs 'not' and 'costs' into a tight, idiomatic kitchen exchange.
-- 'Good morning, Viktor Petrovich.' Spoken Russian keeps this brisk, leaning on 'kind' and finishing on 'Petrovich'.
-- 'Rodion Sergeyevich.' Vika brings out the contrast between 'Rodion' and 'Sergeyevich' in a few short words. Rodion answers right away.
-- 'Should I suggest where to hide the body?' In Russian, the idea of 'to prompt' flows naturally into 'to hide' without extra filler words.
-- 'You are not going to tell me that you play sports, are you?' Chef Viktor chooses the respectful plural 'you' alongside 'sport' to keep a polite distance.
-- 'Do you doubt it?' Vika chooses the respectful plural 'you' alongside 'to doubt' to keep a polite distance. Rodion answers right away.
-- 'I have no doubts.' The meaning hinges on 'I' working together with 'have' in spoken Russian.
-- 'You do not say?' The meaning hinges on 'what' working together with 'tell' in spoken Russian.
-- 'Maybe the two of us should go jogging together?' In Russian, the idea of 'and' flows naturally into 'runs around' without extra filler words. Rodion answers right away.
-- 'We will go for a run first thing tomorrow.' Spoken Russian keeps this brisk, leaning on 'there you go' and finishing on 'runs around'.
-- 'Right here in the park.' Chef Viktor brings out the contrast between 'there you go' and 'here' in a few short words.
+- 'Happy birthday.' Turning from the morning to the work, Barinov keeps the exchange moving.
+- 'Maybe I should give you some pills?' Wondering if maybe she should give Barinov some pills shows Vika caught off guard. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'There is no need.' Because there is no need, Rodion treats the matter as settled.
+- 'Good morning, Viktor Petrovich.' With the kitchen and morning in play, Barinov keeps this short reply brisk and direct.
+- 'Rodion Sergeyevich.' Between the kitchen and the shift, Vika gives Barinov a quick, grounded response.
+- 'Should I suggest where to hide the body?' Asking whether should he suggests where to hide the body puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You are not going to tell me that you play sports, are you?' Wondering if Rodion is not going to tell him that Rodion plays sports are Rodion shows Barinov caught off guard.
+- 'Do you doubt it?' Asking whether Barinov doubts it cuts straight through the tension between Vika and Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'I have no doubts.' Rodion mentions that he has no doubts so Barinov sees what is at stake.
+- 'You do not say?' Barinov asks whether Rodion does not say, refusing to let the point slide.
+- 'Maybe the two of us should go jogging together?' Asking whether maybe the two of them should go jogging together puts Barinov right on the defensive. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'We will go for a run first thing tomorrow.' Admitting that they will go for a run first thing tomorrow shows Rodion being honest for a change.
+- 'Right here in the park.' Between the shift and the conversation, Barinov gives Rodion a quick, grounded response.

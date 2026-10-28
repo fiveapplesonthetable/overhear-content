@@ -7,7 +7,6 @@ SCENE = 19
 TITLE = 'Une plaidoirie passionnée  (A Passionate Defense)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'igor': 'theo', 'noemie': 'emilie'}
 LABELS = {'igor': 'Igor', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'

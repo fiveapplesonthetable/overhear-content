@@ -7,29 +7,28 @@ SCENE = 30
 TITLE = "Le whisky de Samuel et le cinéma  (Samuel's Whiskey and the Movies)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'mathias': 'marcel'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Night has fallen over ASK after Colette's devastating tax audit verdict. Camille, Noémie, and Hervé search the empty building and find the four partners—Mathias, Andréa, Gabriel, and Arlette—sitting together in Samuel Kerr's old office with a bottle of his finest whiskey. Listen to the French first."
 OPENER = "Let's walk through the scene line by line. Gabriel explains to the assistants what the partners are doing on the floor of Samuel's office."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
 OUTRO = 'That concludes Episode 6 and Season 1 of Dix pour cent! Even with a tax audit and personal heartbreak, the ASK family sticks together for the love of cinema. See you next time!'
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('gabriel', 'Au début, nous étions vraiment très tristes tous les trois.', 'At first, all three of us were really very sad.', [(769, "D'abord, on a pensé à un suicide collectif"), (770, 'Enfin, moi. Un suicide collectif tout seul')], ''),
-    ('lea', 'Puis nous avons trouvé le bon whisky de Samuel.', 'Then we found Samuel', [(774, 'Mais finalement, on a trouvé le whisky de Samuel, donc on ne se tue pas')], ''),
-    ('lea', "Tu es ivre, Mathias. Je ne t'ai jamais vu ivre!", 'You are drunk, Mathias. I have never seen you drunk!', [(780, 'Tu es ivre, Mathias'), (781, "Je ne t'ai jamais vu ivre")], ''),
+    ('andrea', 'Puis nous avons trouvé le bon whisky de Samuel.', 'Then we found Samuel', [(774, 'Mais finalement, on a trouvé le whisky de Samuel, donc on ne se tue pas')], ''),
+    ('andrea', "Tu es ivre, Mathias. Je ne t'ai jamais vu ivre!", 'You are drunk, Mathias. I have never seen you drunk!', [(780, 'Tu es ivre, Mathias'), (781, "Je ne t'ai jamais vu ivre")], ''),
     ('mathias', 'Je ne suis pas ivre, pas du tout!', 'I am not drunk, not at all!', [(782, 'Je ne suis pas ivre, pas du tout')], ''),
     ('gabriel', 'À ton premier Festival de Cannes, tu as disparu trois jours.', 'At your first Cannes Festival, you disappeared for three days.', [(783, "C'est comme ton premier Festival de Cannes"), (785, 'Tu avais disparu pendant trois jours')], ''),
-    ('lea', "C'était un jeune homme sobre, toujours très professionnel...", 'He was a sober young man, always very professional...', [(788, "C'était un jeune homme sobre, toujours très professionnel")], ''),
+    ('andrea', "C'était un jeune homme sobre, toujours très professionnel...", 'He was a sober young man, always very professional...', [(788, "C'était un jeune homme sobre, toujours très professionnel")], ''),
     ('gabriel', 'Mais il y avait cette fête dans une villa avec une piscine...', 'But there was this party in a villa with a swimming pool...', [(789, 'Mais il y avait cette fête'), (790, 'dans une villa avec une piscine')], ''),
-    ('lea', "Ne parlez pas de piscine, s'il vous plaît!", 'Don', [(791, "Ne parlez pas de piscine, s'il vous plaît")], ''),
+    ('andrea', "Ne parlez pas de piscine, s'il vous plaît!", 'Don', [(791, "Ne parlez pas de piscine, s'il vous plaît")], ''),
     ('gabriel', "Qu'est-ce que tu as fait pendant trois jours? On veut savoir!", 'What did you do for three days? We want to know!', [(798, "Qu'est-ce que tu as fait pendant trois jours"), (800, 'On veut savoir')], ''),
     ('mathias', 'Je ne me souviens pas, Gabriel.', 'I don', [(799, 'Je ne me souviens pas, Gabriel')], ''),
-    ('lea', "On va s'en sortir, les enfants. On l'a toujours fait.", 'We', [(805, "On va s'en sortir, les enfants. On l'a toujours fait")], ''),
+    ('andrea', "On va s'en sortir, les enfants. On l'a toujours fait.", 'We', [(805, "On va s'en sortir, les enfants. On l'a toujours fait")], ''),
     ('mathias', 'Bonne nuit. À bientôt, Camille.', 'Good night. See you soon, Camille.', [(806, 'Bonne nuit'), (811, 'À bientôt, Camille')], ''),
-    ('lea', 'Quand tout va mal, il y a toujours le cinéma.', 'When everything is going badly, there is always the movies.', [(821, 'Quand tout va mal'), (822, 'il y a toujours le cinéma')], ''),
+    ('andrea', 'Quand tout va mal, il y a toujours le cinéma.', 'When everything is going badly, there is always the movies.', [(821, 'Quand tout va mal'), (822, 'il y a toujours le cinéma')], ''),
 ]
 WALK = [
     (0, None, "'At first, all three of us were really very sad.' The adjective meaning 'collective' agrees in gender and number with masculine noun 'suicide'."),

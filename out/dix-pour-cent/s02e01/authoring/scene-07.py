@@ -7,29 +7,28 @@ SCENE = 7
 TITLE = 'Réunion de crise financière  (Financial Crisis Meeting)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "In the ASK conference room, Mathias calls an urgent meeting of the agency partners to discuss their dire finances. Between sluggish film productions and a massive five hundred thousand euro tax bill, drastic measures are needed immediately. Let's listen to the scene in French first."
 OPENER = "Let's examine how the partners react to the emergency financial proposal step by step."
 TRANSITION = "Now let's listen to the tense partners meeting once more."
 OUTRO = "The partners are in open revolt against Mathias's austerity plan, refusing to accept any salary reductions. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('mathias', 'Tout le monde est là? On peut commencer.', 'Is everyone here? We can get started.', [(150, 'Tout le monde est là ?')], ''),
-    ('lea', "Tu vois bien que oui. Qu'est-ce qui se passe?", 'You can see we are. What is going on?', [(151, 'Tu vois bien que oui.')], ''),
+    ('andrea', "Tu vois bien que oui. Qu'est-ce qui se passe?", 'You can see we are. What is going on?', [(151, 'Tu vois bien que oui.')], ''),
     ('mathias', 'Voilà, on a eu six mois difficiles.', 'Well, we have had six difficult months.', [(152, 'Voilà, on a eu six mois difficiles.')], ''),
     ('mathias', 'Monter des films est compliqué, et on a des contrats en suspens.', 'Setting up films is complicated, and we have contracts on hold.', [(153, 'on a des contrats en suspens...')], ''),
     ('mathias', 'Cette année, nos bénéfices sont vraiment en baisse.', 'This year, our profits are really down.', [(154, 'Sans compter le nouveau cadre sur les salaires des comédiens...'), (155, 'Nos bénéfices sont en baisse sur le premier semestre.')], ''),
     ('mathias', 'Nous devons payer une amende de cinq cent mille euros.', 'We must pay a fine of five hundred thousand euros.', [(156, "On pourrait s'en sortir"), (157, 'si Mme Brancillon ne nous avait pas frappés'), (158, 'avec un redressement fiscal de 500 000 €.')], ''),
     ('gabriel', "Cinq cent mille euros? C'est absurde!", 'Five hundred thousand euros? That is absurd!', [(168, "C'est absurde.")], ''),
-    ('lea', "Dommage que la femme de Mathias n'ait pas pris de parts.", 'Too bad Mathias\\', [(160, "Dommage que la femme de Mathias n'ait pas pris de parts.")], ''),
+    ('andrea', "Dommage que la femme de Mathias n'ait pas pris de parts.", 'Too bad Mathias\\', [(160, "Dommage que la femme de Mathias n'ait pas pris de parts.")], ''),
     ('mathias', "Mais elle n'en a pas pris. En conclusion...", 'But she did not take any. In conclusion...', [(161, "Mais elle n'en a pas pris."), (162, 'En conclusion...')], ''),
     ('mathias', 'Notre seule option est de réduire les salaires pendant deux mois.', 'Our only option is to reduce salaries for two months.', [(164, 'Notre seule option est de réduire les salaires pendant deux mois.')], ''),
     ('gabriel', 'Pardon? Les salaires de qui?', 'Excuse me? Whose salaries?', [(165, 'Pardon ?'), (166, '-Les salaires de qui ? -De tout le monde.')], ''),
     ('mathias', "Les salaires de tout le monde. Il n'y a pas d'autre solution.", 'Everyone\\', [(166, '-Les salaires de qui ? -De tout le monde.')], ''),
-    ('lea', 'Hors de question! Ne baissez pas mon salaire!', 'Out of the question! Do not lower my salary!', [(167, 'Hors de question, si vous réduisez le mien, je vais crever de faim.')], ''),
+    ('andrea', 'Hors de question! Ne baissez pas mon salaire!', 'Out of the question! Do not lower my salary!', [(167, 'Hors de question, si vous réduisez le mien, je vais crever de faim.')], ''),
     ('gabriel', "C'est absurde, je suis d'accord!", 'It is absurd, I agree!', [(168, "C'est absurde."), (170, "Je suis d'accord !")], ''),
 ]
 WALK = [

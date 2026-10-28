@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Что за странные документы ты мне прислал? | What strange documents did you send me? | #377 00:23:05: что за фигню ты мне прислал | verbatim |
-| 2 | Самсон | Это официальные документы о нашем разводе. | These are official documents regarding our divorce. | #379 00:23:10: Документы | verbatim |
-| 3 | Нина | Ваня, это уже совсем не смешно. | Vanya, this is not funny at all anymore. | #380 00:23:12: Вань, не смешно | verbatim |
-| 4 | Самсон | Если я обидел тебя, то прости. | If I offended you, then forgive me. | #381 00:23:13: чем напрости | verbatim |
-| 5 | Самсон | Пойдём скорее домой, Нина. | Let us go home right away, Nina. | #382 00:23:15: Идем домой | verbatim |
-| 6 | Самсон | Я приготовил твои любимые макароны по-флотски. | I cooked your favourite navy-style pasta. | #384 00:23:20: Макарон твои по-флотски сделал | verbatim |
-| 7 | Нина | Спасибо, но я поем сегодня в ресторане. | Thanks, but I will eat at a restaurant today. | #386 00:23:22: я в ресторане поем | verbatim |
-| 8 | Самсон | Хочешь, мы пойдём в ресторан вместе? | If you want, we can go to a restaurant together. | #387 00:23:24: Хочешь, пошли в ресторан | verbatim |
-| 9 | Нина | Нет, я иду туда не одна. | No, I am not going there alone. | #388 00:23:28: Я не один туда иду | verbatim |
-| 10 | Самсон | В каком смысле ты идёшь не одна? | In what sense are you not going alone? | #389 00:23:29: В смысле | verbatim |
-| 11 | Нина | Мне нужно как-то устраивать новую жизнь. | I need to arrange a new life somehow. | #390 00:23:32: мне дальше жизнь устраивать | verbatim |
-| 12 | Самсон | Самсонова, прекрати эти глупости и иди домой! | Samsonova, stop this nonsense and go home! | #392 00:23:37: Нина, иди домой | verbatim |
+| 1 | Нина | Что за странные документы ты мне прислал? | What strange documents did you send me? | #377: что за фигню ты мне прислал | verbatim |
+| 2 | Самсон | Это официальные документы о нашем разводе. | These are official documents regarding our divorce. | #379: Документы | verbatim |
+| 3 | Нина | Ваня, это уже совсем не смешно. | Vanya, this is not funny at all anymore. | #380: Вань, не смешно | verbatim |
+| 4 | Самсон | Если я обидел тебя, то прости. | If I offended you, then forgive me. | #381: чем напрости | verbatim |
+| 5 | Самсон | Пойдём скорее домой, Нина. | Let us go home right away, Nina. | #382: Идем домой | verbatim |
+| 6 | Самсон | Я приготовил твои любимые макароны по-флотски. | I cooked your favourite navy-style pasta. | #384: Макарон твои по-флотски сделал | verbatim |
+| 7 | Нина | Спасибо, но я поем сегодня в ресторане. | Thanks, but I will eat at a restaurant today. | #386: я в ресторане поем | verbatim |
+| 8 | Самсон | Хочешь, мы пойдём в ресторан вместе? | If you want, we can go to a restaurant together. | #387: Хочешь, пошли в ресторан | verbatim |
+| 9 | Нина | Нет, я иду туда не одна. | No, I am not going there alone. | #388: Я не один туда иду | verbatim |
+| 10 | Самсон | В каком смысле ты идёшь не одна? | In what sense are you not going alone? | #389: В смысле | verbatim |
+| 11 | Нина | Мне нужно как-то устраивать новую жизнь. | I need to arrange a new life somehow. | #390: мне дальше жизнь устраивать | verbatim |
+| 12 | Самсон | Самсонова, прекрати эти глупости и иди домой! | Samsonova, stop this nonsense and go home! | #392: Нина, иди домой | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Мужики, неправильный разговор у нас получился. | Fellas, our conversation went the wrong way. | #163 00:11:22: Мужики, неправильный базар получился | adapted: adapted |
-| 2 | Гость | Я искренне извиняюсь перед вами. | I sincerely apologize to you. | #164 00:11:25: Я извиняюсь | adapted: adapted |
-| 3 | Гость | У меня просто нервы и сильный недосып. | It is just my nerves and severe lack of sleep. | #164 00:11:25: нервы, недосыпь | adapted: adapted |
-| 4 | Гость | Давайте я вам лучше помогу. | Let me just help you instead. | #165 00:11:28: Давайте я вам помогу | adapted: adapted |
-| 5 | Гость | Вы быстрее кроватку соберёте и уйдёте. | You will assemble the crib faster and leave. | #166 00:11:30: Вы быстрее кроватку соберете | adapted: adapted |
-| 6 | Гость | А я спокойно спать лягу. | And I will calmly go to sleep. | #166 00:11:30: а я спать | adapted: adapted |
-| 7 | Гость | Ну хорошо, тогда заходи к нам. | Well alright, come on in then. | #167 00:11:37: Заходи | adapted: adapted |
-| 8 | Гость | Слушай, дай мне схему посмотреть. | Listen, let me take a look at the diagram. | #168 00:11:41: Слушай, дай посмотреть | adapted: adapted |
-| 9 | Гость | Налей мне водички на кухне, пожалуйста. | Pour me some water in the kitchen, please. | #169 00:11:44: Налей водички<br>#170 00:11:45: пожалуйста | adapted: adapted |
-| 10 | Аня | Сейчас принесу стакан холодной воды. | I will bring a glass of cold water right now. | #169 00:11:44: Налей водички | adapted: adapted |
-| 11 | Гость | Я тоже пойду руки помою. | I will go wash my hands too. | #168 00:11:41: дай посмотреть | adapted: adapted |
-| 12 | Гость | Отлично, сейчас я тут быстро разберусь. | Great, I will sort things out quickly here right now. | #165 00:11:28: Давайте я вам помогу | adapted: adapted |
+| 1 | Гость | Мужики, неправильный разговор у нас получился. | Fellas, our conversation went the wrong way. | #163: Мужики, неправильный базар получился | adapted: adapted |
+| 2 | Гость | Я искренне извиняюсь перед вами. | I sincerely apologize to you. | #164: Я извиняюсь | adapted: adapted |
+| 3 | Гость | У меня просто нервы и сильный недосып. | It is just my nerves and severe lack of sleep. | #164: нервы, недосыпь | adapted: adapted |
+| 4 | Гость | Давайте я вам лучше помогу. | Let me just help you instead. | #165: Давайте я вам помогу | adapted: adapted |
+| 5 | Гость | Вы быстрее кроватку соберёте и уйдёте. | You will assemble the crib faster and leave. | #166: Вы быстрее кроватку соберете | adapted: adapted |
+| 6 | Гость | А я спокойно спать лягу. | And I will calmly go to sleep. | #166: а я спать | adapted: adapted |
+| 7 | Шеф | Ну хорошо, тогда заходи к нам. | Well alright, come on in then. | #167: Заходи | adapted: adapted |
+| 8 | Гость | Слушай, дай мне схему посмотреть. | Listen, let me take a look at the diagram. | #168: Слушай, дай посмотреть | adapted: adapted |
+| 9 | Гость | Налей мне водички на кухне, пожалуйста. | Pour me some water in the kitchen, please. | #169: Налей водички<br>#170: пожалуйста | adapted: adapted |
+| 10 | Макс | Сейчас принесу стакан холодной воды. | I will bring a glass of cold water right now. | #169: Налей водички | adapted: adapted |
+| 11 | Шеф | Я тоже пойду руки помою. | I will go wash my hands too. | #168: дай посмотреть | adapted: adapted |
+| 12 | Гость | Отлично, сейчас я тут быстро разберусь. | Great, I will sort things out quickly here right now. | #165: Давайте я вам помогу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fellas, our conversation went the wrong way.' Notice how Russian expresses 'lads' and 'to turn out' with crisp inflection rather than helper words.
-- 'I sincerely apologize to you.' The meaning hinges on 'I' working together with 'you' in spoken Russian.
-- 'It is just my nerves and severe lack of sleep.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Let me just help you instead.' the guest brings out the contrast between 'let's' and 'I' in a few short words.
-- 'You will assemble the crib faster and leave.' Here the guest anchors the thought on 'faster' and finishes on 'to leave, to go away', keeping the spoken rhythm brisk and natural.
-- 'And I will calmly go to sleep.' The meaning hinges on 'and' working together with 'will lie down' in spoken Russian. Chef Barinov answers right away.
-- 'Well alright, come on in then.' In Russian, the idea of 'come on' flows naturally into 'us' without extra filler words.
-- 'Listen, let me take a look at the diagram.' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'to look up'.
-- 'Pour me some water in the kitchen, please.' Notice how Russian expresses 'pour' and 'please' with crisp inflection rather than helper words. Max answers right away.
-- 'I will bring a glass of cold water right now.' Here the Russian phrasing highlights 'now' before landing on 'water'.
-- 'I will go wash my hands too.' Chef Barinov brings out the contrast between 'I' and 'also' in a few short words.
-- 'Great, I will sort things out quickly here right now.' Notice how Russian puts 'perfectly' and 'I will sort it out' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Fellas, our conversation went the wrong way.' Claiming that fellas their conversation went the wrong way sounds confident, even if Barinov has doubts.
+- 'I sincerely apologize to you.' Around the conversation and smile, the guest sets a calm, everyday tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'It is just my nerves and severe lack of sleep.' The guest explains that it is just his nerves and severe lack of sleep, keeping his voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Let me just help you instead.' Since Barinov should let him just help Barinov instead, the guest does not waste words on excuses.
+- 'You will assemble the crib faster and leave.' Noting that Barinov will assemble the crib faster and leave keeps the guest's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'And I will calmly go to sleep.' Even though he will calmly go to sleep, the guest keeps a steady face in front of Barinov.
+- 'Well alright, come on in then.' Around the work and smile, Barinov sets a calm, everyday tone with the guest.
+- 'Listen, let me take a look at the diagram.' Once Barinov should let him take a look at the diagram, the guest can finally tell Barinov what he means.
+- 'Pour me some water in the kitchen, please.' Since Barinov should pour him some water in the kitchen please, the guest does not waste words on excuses.
+- 'I will bring a glass of cold water right now.' Adding that he will bring a glass of cold water right now fills in the missing piece for Barinov.
+- 'I will go wash my hands too.' Saying that he will go wash his hands is how Barinov sets the tone with the guest.
+- 'Great, I will sort things out quickly here right now.' Since great he will sort things out quickly here right now, the guest does not waste words on excuses.

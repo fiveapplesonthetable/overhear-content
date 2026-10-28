@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Ты такой смешной, Тузик! Кто такой сладкий? | You're so funny, Tuzik! Who's so sweet? | #1098 01:01:32: Ты такой смешной<br>#1099 01:01:36: Тузик<br>#1104 01:01:45: Кто такой сладкий | adapted: spoken by old Klavdia in the flat; folded into Nina's role for the three-voice limit |
-| 2 | Самсон | Ну, Тузик, давай встаём! | Come on, Tuzik, let's get up! | #1099 01:01:36: Ну, Тузик<br>#1101 01:01:39: Тузик, давай встаем | verbatim |
-| 3 | Аня | Помолчите, пожалуйста. Не видите, человеку плохо? | Please be quiet. Can't you see someone isn't feeling well? | #1109 01:02:00: Помолчите, пожалуйста<br>#1110 01:02:02: Не видите человеку плохо | verbatim |
-| 4 | Нина | Вы так и берёте чужое без спроса, да? | So you just take other people's things without asking, yes? | #1108 01:01:58: Вы так и берете чужое без спроса, да | adapted: Marina's line in the kitchen (scolding Arkady for taking the dean's wine); folded into Nina's role |
-| 5 | Аня | Это хорошее вино. Мне сейчас очень грустно. | It's good wine. I feel very sad right now. | new | new: new: Arkady's reply after losing his appeal in court |
-| 6 | Нина | Славик, садись. Ешь. | Slavik, sit down. Eat. | #1111 01:02:04: Ешь | adapted: 'Славик, садись.' added for clarity (to heart-broken Slavik) |
-| 7 | Нина | Три комнаты, кухня, ремонт. Какая квартира была! | Three rooms, a kitchen, renovated. What a flat it was! | #1112 01:02:10: Три комнаты, кухня, ремонт | adapted: 'Какая квартира была!' added as Nina looks at the photos of the lost three-room flat |
-| 8 | Самсон | Нин, ну что мы могли сделать? | Nina, well what could we have done? | #1113 01:02:16: ну что мы могли сделать | adapted: 'Блин, нет' -> 'Нин'; '-то' dropped |
-| 9 | Нина | Что мы, мы? Тебе надо было как мужик! | What do you mean, we? You should have acted like a man! | #1114 01:02:18: что мы, мы<br>#1115 01:02:19: тебе надо было<br>#1115 01:02:19: мужик | adapted: 'как-то, я не знаю, как не мужик прям' -> 'как мужик' |
-| 10 | Самсон | Такая интересная. Я тебе не бандит. | Funny you should say that. I'm no gangster for you. | #1116 01:02:23: Такая интересная | adapted: second sentence is a clean stand-in for cue 1117 ('Ну выйди тогда за бандюка...') |
+| 1 | Нина | Ты такой смешной, Тузик! Кто такой сладкий? | You're so funny, Tuzik! Who's so sweet? | #1098: Ты такой смешной<br>#1099: Тузик<br>#1104: Кто такой сладкий | adapted: spoken by old Klavdia in the flat; folded into Nina's role for the three-voice limit |
+| 2 | Самсон | Ну, Тузик, давай встаём! | Come on, Tuzik, let's get up! | #1099: Ну, Тузик<br>#1101: Тузик, давай встаем | verbatim |
+| 3 | Аркадий | Помолчите, пожалуйста. Не видите, человеку плохо? | Please be quiet. Can't you see someone isn't feeling well? | #1109: Помолчите, пожалуйста<br>#1110: Не видите человеку плохо | verbatim |
+| 4 | Нина | Вы так и берёте чужое без спроса, да? | So you just take other people's things without asking, yes? | #1108: Вы так и берете чужое без спроса, да | adapted: Marina's line in the kitchen (scolding Arkady for taking the dean's wine); folded into Nina's role |
+| 5 | Аркадий | Это хорошее вино. Мне сейчас очень грустно. | It's good wine. I feel very sad right now. | new | new: new: Arkady's reply after losing his appeal in court |
+| 6 | Нина | Славик, садись. Ешь. | Slavik, sit down. Eat. | #1111: Ешь | adapted: 'Славик, садись.' added for clarity (to heart-broken Slavik) |
+| 7 | Нина | Три комнаты, кухня, ремонт. Какая квартира была! | Three rooms, a kitchen, renovated. What a flat it was! | #1112: Три комнаты, кухня, ремонт | adapted: 'Какая квартира была!' added as Nina looks at the photos of the lost three-room flat |
+| 8 | Самсон | Нин, ну что мы могли сделать? | Nina, well what could we have done? | #1113: ну что мы могли сделать | adapted: 'Блин, нет' -> 'Нин'; '-то' dropped |
+| 9 | Нина | Что мы, мы? Тебе надо было как мужик! | What do you mean, we? You should have acted like a man! | #1114: что мы, мы<br>#1115: тебе надо было<br>#1115: мужик | adapted: 'как-то, я не знаю, как не мужик прям' -> 'как мужик' |
+| 10 | Самсон | Такая интересная. Я тебе не бандит. | Funny you should say that. I'm no gangster for you. | #1116: Такая интересная | adapted: second sentence is a clean stand-in for cue 1117 ('Ну выйди тогда за бандюка...') |
 | 11 | Нина | А где мы теперь будем жить? | And where are we going to live now? | new | new: new: Nina's frustration over staying in the communal flat |
-| 12 | Самсон | Ну всё, успокойся уже. Успокойся. | All right, calm down already. Calm down. | #1118 01:02:29: Ну все, успокойся уже<br>#1119 01:02:31: Успокойся | verbatim |
-| 13 | Аня | Тихо! Кто это там стучит? | Quiet! Who is knocking there? | new | new: new: someone knocks loudly at the front door |
-| 14 | Аня | Я сейчас буду открывать. | I'm going to open it now. | #1121 01:02:36: Я сейчас буду открывать | verbatim |
+| 12 | Самсон | Ну всё, успокойся уже. Успокойся. | All right, calm down already. Calm down. | #1118: Ну все, успокойся уже<br>#1119: Успокойся | verbatim |
+| 13 | Аркадий | Тихо! Кто это там стучит? | Quiet! Who is knocking there? | new | new: new: someone knocks loudly at the front door |
+| 14 | Аркадий | Я сейчас буду открывать. | I'm going to open it now. | #1121: Я сейчас буду открывать | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

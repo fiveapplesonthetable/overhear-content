@@ -1,39 +1,39 @@
-# В погоне за вором  (Chasing the Thief) — `kukhnya-s01e02-scene-15`
+# kukhnya-s01e02-scene-15: review sheet
 
-**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: В погоне за вором  (Chasing the Thief)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.02
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Staring at the empty shelf where the vintage cognac was displayed, Kostya panics under Vika's stern questioning. Realizing the bogus repairman stole the valuable bottle, Kostya sprints out to catch the thief before it is too late. Let's listen to their conversation in Russian.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Вика | Куда пропала бутылка дорогого коньяка? | Where did the bottle of expensive cognac disappear to? | #192 "Я не знаю" |  |
-| 1 | Костя | Честно говоря, я совсем не знаю. | Honestly speaking, I don't know at all. | #192 "Я не знаю" |  |
-| 2 | Вика | А кто должен знать, если не ты? | And who should know if not you? | #193 "А кто знает" |  |
-| 3 | Вика | Костя, тебя нужно немедленно уволить с работы! | Kostya, you need to be fired from your job immediately! | #193 "Костя тебя что уволить" |  |
-| 4 | Костя | Он точно стоял здесь, я сам помню. | It definitely stood here, I remember myself. | #194 "Он здесь стоял я видел его" |  |
-| 5 | Вика | Значит, этот фальшивый мастер украл его. | So that fake repairman stole it. | #195 "Вот падла" |  |
-| 6 | Костя | Вот же наглый подлый вор! | What an insolent, vile thief! | #195 "Вот падла" |  |
-| 7 | Вика | Эта бутылка стоит огромных денег. | This bottle costs huge money. | #193 "тебя что уволить" |  |
-| 8 | Костя | Извините меня, я сейчас всё исправлю. | Excuse me, I will fix everything right now. | #196 "Извините я сейчас" |  |
-| 9 | Вика | Куда ты так быстро побежал? | Where did you run so fast? | #196 "я сейчас" |  |
-| 10 | Костя | Я догоню этого вора и верну коньяк! | I will catch up with that thief and return the cognac! | #196 "я сейчас" |  |
-| 11 | Вика | Попробуй только не вернуть его назад! | Just you dare not bring it back! | #193 "уволить" |  |
+| 1 | Вика | Куда пропала бутылка дорогого коньяка? | Where did the bottle of expensive cognac disappear to? | #192: Я не знаю | verbatim |
+| 2 | Костя | Честно говоря, я совсем не знаю. | Honestly speaking, I don't know at all. | #192: Я не знаю | verbatim |
+| 3 | Вика | А кто должен знать, если не ты? | And who should know if not you? | #193: А кто знает | verbatim |
+| 4 | Вика | Костя, тебя нужно немедленно уволить с работы! | Kostya, you need to be fired from your job immediately! | #193: Костя тебя что уволить | verbatim |
+| 5 | Костя | Он точно стоял здесь, я сам помню. | It definitely stood here, I remember myself. | #194: Он здесь стоял я видел его | verbatim |
+| 6 | Вика | Значит, этот фальшивый мастер украл его. | So that fake repairman stole it. | #195: Вот падла | verbatim |
+| 7 | Костя | Вот же наглый подлый вор! | What an insolent, vile thief! | #195: Вот падла | verbatim |
+| 8 | Вика | Эта бутылка стоит огромных денег. | This bottle costs huge money. | #193: тебя что уволить | verbatim |
+| 9 | Костя | Извините меня, я сейчас всё исправлю. | Excuse me, I will fix everything right now. | #196: Извините я сейчас | verbatim |
+| 10 | Вика | Куда ты так быстро побежал? | Where did you run so fast? | #196: я сейчас | verbatim |
+| 11 | Костя | Я догоню этого вора и верну коньяк! | I will catch up with that thief and return the cognac! | #196: я сейчас | verbatim |
+| 12 | Вика | Попробуй только не вернуть его назад! | Just you dare not bring it back! | #193: уволить | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Kostya dashes out of the restaurant in hot pursuit of the thief to recover the stolen cognac. Great work practicing energetic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bottle' and 'fast' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'Where did the bottle of expensive cognac disappear to?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Honestly speaking, I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'And who should know if not you?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Kostya, you need to be fired from your job immediately!' Vika expresses this naturally by combining the word for 'one needs' with 'immediately' and 'to fire'.
+- 'It definitely stood here, I remember myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'So that fake repairman stole it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'What an insolent, vile thief!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'This bottle costs huge money.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Excuse me, I will fix everything right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Where did you run so fast?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I will catch up with that thief and return the cognac!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Just you dare not bring it back!' Vika leads with the direct command form meaning 'try', pairing it with 'to return' and 'back'.

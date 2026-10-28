@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 1
-TITLE = "Утренние игры  (Morning Games)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Утренние игры  (Morning Games)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "Max wakes up in Vika's apartment and tries to be playful, but Vika is focused on her day. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Morning Games line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max heads to the shower while Vika prepares for her busy day at the restaurant. Next time you watch the episode, listen for the Russian expressions for 'wake up' and 'today' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Вика, ты уже проснулась сегодня?', 'Vika, are you awake already today?', [], ''),
+    ('max', 'Вика, ты уже проснулась сегодня?', 'Vika, are you awake already today?', [], ''),
     ('vika', 'Да, я уже давно не сплю.', 'Yes, I have not been sleeping for a long time.', [], ''),
-    ('anya', 'Почему ты так рано встала?', 'Why did you get up so early?', [], ''),
+    ('max', 'Почему ты так рано встала?', 'Why did you get up so early?', [], ''),
     ('vika', 'У меня сегодня очень много дел.', 'I have a lot of things today.', [], ''),
-    ('anya', 'А как же наш вкусный завтрак?', 'And what about our tasty breakfast?', [], ''),
+    ('max', 'А как же наш вкусный завтрак?', 'And what about our tasty breakfast?', [], ''),
     ('vika', 'Ты можешь приготовить его сам.', 'You can prepare it yourself.', [], ''),
-    ('anya', 'И Макс, я озабоченный человек-паук.', 'And Max, I am a horny Spider-Man.', [(1, 'И Макс, я озабоченный человек-паук.')], ''),
+    ('max', 'И Макс, я озабоченный человек-паук.', 'And Max, I am a horny Spider-Man.', [(1, 'И Макс, я озабоченный человек-паук.')], ''),
     ('vika', 'Очень смешно, но мне надо идти.', 'Very funny, but I need to go.', [], ''),
-    ('anya', 'Сейчас я тебя. Какой я тебя?', 'I will get you now. What am I getting you?', [(2, 'Сейчас я тебя. Какой я тебя?')], ''),
+    ('max', 'Сейчас я тебя. Какой я тебя?', 'I will get you now. What am I getting you?', [(2, 'Сейчас я тебя. Какой я тебя?')], ''),
     ('vika', 'Макс, прекрати это немедленно!', 'Max, stop this immediately!', [], ''),
-    ('anya', 'Хорошо, я иду варить нам кофе.', 'Alright, I am going to brew coffee for us.', [], ''),
+    ('max', 'Хорошо, я иду варить нам кофе.', 'Alright, I am going to brew coffee for us.', [], ''),
     ('vika', 'Пока ты не сходишь в душ.', 'Before you go take a shower.', [(3, 'Пока ты не сходишь в душ.')], ''),
 ]
 WALK = [

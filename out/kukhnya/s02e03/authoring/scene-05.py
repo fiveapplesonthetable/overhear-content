@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 5
-TITLE = "Спор на ремень  (Betting on a Belt)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спор на ремень  (Betting on a Belt)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'louis': 'Луи', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Fedya and Senya are arguing about cooking meat in the kitchen. Senya says Fedya's meat is tough, but Fedya claims he ate boots in the navy. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Let's listen to their conversation."
 TRANSITION = "Now let's hear the whole thing once more."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around betting on a belt, and for the words meaning 'fry' and 'know how to'. You'll catch them now. See you next time."
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Ты жарить не умеешь.', 'You cannot fry.', [(58, 'Жарить не умеешь.')], ''),
     ('senya', 'Мясо жёсткое, как подошва.', 'The meat is tough as a shoe sole.', [(59, 'Жёсткая, как подошва.')], ''),
@@ -27,7 +26,7 @@ STORY = [
     ('senya', 'Съешь мой ремень за пять штук?', "You'll eat my belt for five grand?", [(66, 'Съешь мой ремень? За пять тонн?')], ''),
     ('fedya', 'Ну, съем.', "Well, I'll eat it.", [(67, 'Ну, съем.')], ''),
     ('senya', 'Луи, разбей.', 'Louis, break it.', [(68, 'Луи.')], ''),
-    ('fedya', 'Хорошо.', 'Okay.', [], ''),
+    ('louis', 'Хорошо.', 'Okay.', [], ''),
     ('senya', 'Держи ремень.', 'Here is the belt.', [(70, 'Держи.')], ''),
 ]
 WALK = [

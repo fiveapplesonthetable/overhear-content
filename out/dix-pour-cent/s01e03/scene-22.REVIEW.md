@@ -1,35 +1,53 @@
-# Review: `dix-pour-cent-s01e03-scene-22` — Un Bardot pour rien  (A Bardot for Nothing)
+# dix-pour-cent-s01e03-scene-22: review sheet
 
-- **Source**: `sources/dix-pour-cent/s01/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "camille": "emilie", "lea": "lucie"}`
-- **Labels**: `{"gabriel": "Gabriel", "camille": "Camille", "lea": "Andréa"}`
+Title: Un Bardot pour rien  (A Bardot for Nothing)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S01E03
 
-## Part 1 — Intro
-> Meanwhile, the partners have surprising news about the director Solveig Akerfelt. Both Laura Smet and her mother Nathalie Baye tried to sabotage their auditions so they wouldn't have to spend three months on a boat together, and Gabriel hasn't dared to tell anyone that Laura was rejected. First, let's listen to the whole scene in French; don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Je me sens mal pour Nathalie. | I feel bad for Nathalie. | 556:Je me sens mal pour Nathalie |
-| 1 | `lea` (Andréa) | Comment ça s'est passé avec Laura Smet? | How did it go with Laura Smet? | 557:comment ça s'est passé, 557:avec Laura Smet |
-| 2 | `gabriel` (Gabriel) | Bien. Pas mal. Je n'ai pas encore de réponse. | Fine. Not bad. I don | 558:Bien, 559:Pas mal, 560:de réponse |
-| 3 | `lea` (Andréa) | Elle ne veut pas de Nathalie Baye. | She doesn | 562:Elle ne veut pas de Nathalie Baye |
-| 4 | `gabriel` (Gabriel) | Ce n'est pas possible! | That | 562:pas possible |
-| 5 | `lea` (Andréa) | Akerfelt n'a pas aimé son essai. Ils sont complètement fous? | Akerfelt didn't like her audition. Are they completely crazy? | 565:Akerfelt n'a pas aimé, 566:Ils sont complètement fous |
-| 6 | `gabriel` (Gabriel) | C'est dur. Ce n'est pas bon pour l'agence. | That | 568:C'est dur, 569:pour l'agence |
-| 7 | `camille` (Camille) | Bonjour. Vous avez beaucoup d'appels. | Hello. You have lots of calls. | 571:Bonjour, 572:beaucoup d'appels |
-| 8 | `camille` (Camille) | Isabelle Adjani a un problème de cheveux très urgent. | Isabelle Adjani has a very urgent hair problem. | 575:Isabelle Adjani a un problème de cheveux très urgent |
-| 9 | `camille` (Camille) | On commence par qui? | Who do we start with? | 576:On commence par qui |
-| 10 | `gabriel` (Gabriel) | Solveig Akerfelt. | Solveig Akerfelt. | 576:Solveig Akerfelt |
-| 11 | `camille` (Camille) | Elle n'est pas sur ma liste. | She isn | 577:Elle n'est pas sur ma liste |
-| 12 | `lea` (Andréa) | C'est méchant! Tu as fait faire un Bardot à Laura pour rien! | That's mean! You made Laura do a Bardot for nothing! | 578:C'est méchant, 579:Tu as fait faire un Bardot à Laura pour rien |
-| 13 | `lea` (Andréa) | Sans Nathalie, Laura peut jouer la fille maintenant. | Without Nathalie, Laura can play the daughter now. | 580:Sans Nathalie, Laura peut jouer la fille maintenant |
-| 14 | `camille` (Camille) | Je suis virée? | Am I fired? | 581:Je suis virée |
-| 15 | `gabriel` (Gabriel) | Oui. Je suis désolé. | Yes. I | 581:Oui. Je suis désolé |
-| 16 | `camille` (Camille) | Je suis vraiment virée? | Am I really fired? | 582:Je suis vraiment virée |
-| 17 | `gabriel` (Gabriel) | Non, je fais un Bardot! | No, I | 583:Non, je fais un Bardot |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Right after this, in the agency kitchen, the actor Zinedine Soualem proudly demonstrates the new Portuguese coffee machine to prove he can play a Portuguese role. See you next time!
-- **Closing**: `lea`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Je me sens mal pour Nathalie. | I feel bad for Nathalie. | #556: Je me sens mal pour Nathalie | verbatim |
+| 2 | Andréa | Comment ça s'est passé avec Laura Smet? | How did it go with Laura Smet? | #557: comment ça s'est passé<br>#557: avec Laura Smet | verbatim |
+| 3 | Gabriel | Bien. Pas mal. Je n'ai pas encore de réponse. | Fine. Not bad. I don | #558: Bien<br>#559: Pas mal<br>#560: de réponse | verbatim |
+| 4 | Andréa | Elle ne veut pas de Nathalie Baye. | She doesn | #562: Elle ne veut pas de Nathalie Baye | verbatim |
+| 5 | Gabriel | Ce n'est pas possible! | That | #562: pas possible | verbatim |
+| 6 | Andréa | Akerfelt n'a pas aimé son essai. Ils sont complètement fous? | Akerfelt didn't like her audition. Are they completely crazy? | #565: Akerfelt n'a pas aimé<br>#566: Ils sont complètement fous | verbatim |
+| 7 | Gabriel | C'est dur. Ce n'est pas bon pour l'agence. | That | #568: C'est dur<br>#569: pour l'agence | verbatim |
+| 8 | Camille | Bonjour. Vous avez beaucoup d'appels. | Hello. You have lots of calls. | #571: Bonjour<br>#572: beaucoup d'appels | verbatim |
+| 9 | Camille | Isabelle Adjani a un problème de cheveux très urgent. | Isabelle Adjani has a very urgent hair problem. | #575: Isabelle Adjani a un problème de cheveux très urgent | verbatim |
+| 10 | Camille | On commence par qui? | Who do we start with? | #576: On commence par qui | verbatim |
+| 11 | Gabriel | Solveig Akerfelt. | Solveig Akerfelt. | #576: Solveig Akerfelt | verbatim |
+| 12 | Camille | Elle n'est pas sur ma liste. | She isn | #577: Elle n'est pas sur ma liste | verbatim |
+| 13 | Andréa | C'est méchant! Tu as fait faire un Bardot à Laura pour rien! | That's mean! You made Laura do a Bardot for nothing! | #578: C'est méchant<br>#579: Tu as fait faire un Bardot à Laura pour rien | verbatim |
+| 14 | Andréa | Sans Nathalie, Laura peut jouer la fille maintenant. | Without Nathalie, Laura can play the daughter now. | #580: Sans Nathalie, Laura peut jouer la fille maintenant | verbatim |
+| 15 | Camille | Je suis virée? | Am I fired? | #581: Je suis virée | verbatim |
+| 16 | Gabriel | Oui. Je suis désolé. | Yes. I | #581: Oui. Je suis désolé | verbatim |
+| 17 | Camille | Je suis vraiment virée? | Am I really fired? | #582: Je suis vraiment virée | verbatim |
+| 18 | Gabriel | Non, je fais un Bardot! | No, I | #583: Non, je fais un Bardot | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'I feel bad for Nathalie.' Literally 'I feel myself badly for Nathalie'. Gabriel thinks only Laura was rejected.
+- 'How did it go with Laura Smet?' Literally 'how did it pass itself'. A very common everyday way to ask how something went.
+- 'Fine. Not bad. I don't have an answer yet.' Gabriel lies to cover up Laura's disaster. Notice the negative with the word for 'yet' right after the verb.
+- 'She doesn't want Nathalie Baye.' Here comes the shock: Nathalie's tragic audition worked all too well, and the director rejected her.
+- 'That's not possible!' Standard negative around the verb 'is'. Now Gabriel realizes both actresses have lost their parts.
+- 'Akerfelt didn't like her audition.' The past tense made negative, with the two negative words wrapping around the helper verb 'has'.
+- 'Are they completely crazy?' The adjective at the end is in the masculine plural form.
+- 'That's tough. It's not good for the agency.' Two short sentences with 'it is' and 'it is not'.
+- 'Hello. You have lots of calls.' Back at Andréa's desk, Camille reads out the morning messages using the polite 'you'.
+- 'Isabelle Adjani has a very urgent hair problem.' Notice how French links 'problem of hair' with the little word for 'of', and puts 'very urgent' at the end.
+- 'Who do we start with?' Literally 'we start by whom?', using the everyday word for 'we'.
+- 'Solveig Akerfelt.' Gabriel rushes in, still thinking about the Scandinavian director.
+- 'She isn't on my list.' Camille checks her notepad, puzzled.
+- 'That's mean!' Andréa is shocked that the director rejected a star like Nathalie Baye.
+- 'You made Laura do a Bardot for nothing!' Earlier, Gabriel told Laura to act like an impossible diva, like Brigitte Bardot, so she wouldn't have to act with her mother.
+- 'Without Nathalie, Laura can play the daughter now.' Now that her mother is out of the film, Laura would gladly take the part—if Gabriel hadn't ruined her audition!
+- 'Am I fired?' Right then, Gabriel plays a grim joke on Camille, telling her she is fired, and poor Camille believes him.
+- 'Yes. I'm sorry.' He keeps a completely straight face.
+- 'Am I really fired?' Notice the word for 'really' placed right between 'am' and 'fired'.
+- 'No, I'm doing a Bardot!' He was just pretending, to let off steam, though Camille says her blood froze in her veins. Now let's hear the whole scene again from beginning to end.

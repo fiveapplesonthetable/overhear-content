@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Спасибо, Тимур. | Thank you, Timur. | #83 00:05:26: Спасибо, Тимур | verbatim |
-| 2 | Тимур | Не за что, шеф. С тебя три тысячи. | Don't mention it, Chef. You owe me three thousand. | #83 00:05:26: Не за что, шеф<br>#84 00:05:28: С тебя три тысячи | adapted: adapted |
-| 3 | Шеф | Какие три тысячи? Ты же сказал подарок! | What three thousand? You said it was a gift! | #84 00:05:28: Какие три тысячи<br>#85 00:05:30: Ты же сказал подарок | adapted: adapted |
-| 4 | Тимур | Шеф, ну ты же знаешь, сколько стоят билеты. | Chef, well you know how much the tickets cost. | #85 00:05:30: Шеф, ну ты же знаешь, сколько стоят билеты | adapted: adapted |
-| 5 | Тимур | За три тысячи считай, что дарю. | For three thousand, consider it a gift. | #86 00:05:34: За три тысячи считай, что дарю | verbatim |
-| 6 | Шеф | Десять тысяч на Спартак на завтрашнюю игру. | Ten thousand on Spartak for tomorrow's game. | #89 00:05:50: тысяч на Спартак на завтрашнюю игру | adapted: adapted |
-| 7 | Шеф | А мне просто сегодня везёт! | I am just having a lucky day today! | #90 00:05:53: А мне просто сегодня везет | verbatim |
-| 8 | Тимур | Шеф, вы в порядке? | Chef, are you all right? | #91 00:06:02: вы в порядке | adapted: adapted |
-| 9 | Шеф | Ещё в каком! Это же моя золотая вещь для сигар. | Better than ever! This is my gold cutter for cigars. | #92 00:06:06: Еще в каком<br>#93 00:06:08: моя золотая<br>#93 00:06:08: для сигар | adapted: adapted |
-| 10 | Шеф | Я её год ищу, а она здесь валяется. | I have been looking for it for a year, and it is lying around here. | #94 00:06:10: Я ее год ищу, она здесь валяется | adapted: adapted |
-| 11 | Тимур | А вы думали, это я её украл! Шеф, я требую извинений. | And you thought I stole it! Chef, I demand an apology. | #95 00:06:13: а вы думали, это я ее<br>#96 00:06:15: Шеф, я требую извинений | adapted: adapted |
-| 12 | Шеф | Всё, что не съедобно, он не ворует. | Anything that is not edible, he doesn't steal. | #97 00:06:17: все, что не съедобно, он не ворует | verbatim |
+| 1 | Шеф | Спасибо, Тимур. | Thank you, Timur. | #83: Спасибо, Тимур | verbatim |
+| 2 | Тимур | Не за что, шеф. С тебя три тысячи. | Don't mention it, Chef. You owe me three thousand. | #83: Не за что, шеф<br>#84: С тебя три тысячи | adapted: adapted |
+| 3 | Шеф | Какие три тысячи? Ты же сказал подарок! | What three thousand? You said it was a gift! | #84: Какие три тысячи<br>#85: Ты же сказал подарок | adapted: adapted |
+| 4 | Тимур | Шеф, ну ты же знаешь, сколько стоят билеты. | Chef, well you know how much the tickets cost. | #85: Шеф, ну ты же знаешь, сколько стоят билеты | adapted: adapted |
+| 5 | Тимур | За три тысячи считай, что дарю. | For three thousand, consider it a gift. | #86: За три тысячи считай, что дарю | verbatim |
+| 6 | Шеф | Десять тысяч на Спартак на завтрашнюю игру. | Ten thousand on Spartak for tomorrow's game. | #89: тысяч на Спартак на завтрашнюю игру | adapted: adapted |
+| 7 | Шеф | А мне просто сегодня везёт! | I am just having a lucky day today! | #90: А мне просто сегодня везет | verbatim |
+| 8 | Сеня | Шеф, вы в порядке? | Chef, are you all right? | #91: вы в порядке | adapted: adapted |
+| 9 | Шеф | Ещё в каком! Это же моя золотая вещь для сигар. | Better than ever! This is my gold cutter for cigars. | #92: Еще в каком<br>#93: моя золотая<br>#93: для сигар | adapted: adapted |
+| 10 | Шеф | Я её год ищу, а она здесь валяется. | I have been looking for it for a year, and it is lying around here. | #94: Я ее год ищу, она здесь валяется | adapted: adapted |
+| 11 | Сеня | А вы думали, это я её украл! Шеф, я требую извинений. | And you thought I stole it! Chef, I demand an apology. | #95: а вы думали, это я ее<br>#96: Шеф, я требую извинений | adapted: adapted |
+| 12 | Шеф | Всё, что не съедобно, он не ворует. | Anything that is not edible, he doesn't steal. | #97: все, что не съедобно, он не ворует | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Timur.' Here the Russian phrasing highlights 'thank you' before landing on 'Timur'.
-- 'Don't mention it, Chef. You owe me three thousand.' The grammar packs 'not' and 'thousand' into a tight, idiomatic kitchen exchange.
-- 'What three thousand? You said it was a gift!' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'gift'. Timur answers right away.
-- 'Chef, well you know how much the tickets cost.' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'tickets'.
-- 'For three thousand, consider it a gift.' The meaning hinges on 'for' working together with 'am giving as a gift' in spoken Russian.
-- 'Ten thousand on Spartak for tomorrow's game.' In Russian, the idea of 'ten' flows naturally into 'game' without extra filler words.
-- 'I am just having a lucky day today!' Chef Barinov brings out the contrast between 'and' and 'to me' in a few short words.
-- 'Chef, are you all right?' Notice how Russian expresses 'Chef Barinov' and 'order' with crisp inflection rather than helper words.
-- 'Better than ever! This is my gold cutter for cigars.' Here the Russian phrasing highlights 'else' before landing on 'cigars'.
-- 'I have been looking for it for a year, and it is lying around here.' Chef Barinov anchors the line on 'I', while 'is lying around' completes the thought.
-- 'And you thought I stole it! Chef, I demand an apology.' Senya anchors the line on 'and', while 'apologies' completes the thought.
-- 'Anything that is not edible, he doesn't steal.' Notice how Russian expresses 'everything' and 'steals' with crisp inflection rather than helper words.
+- 'Thank you, Timur.' With the plan and luck in play, Barinov keeps this short reply brisk and direct.
+- 'Don't mention it, Chef. You owe me three thousand.' Timur reminds Barinov that do not mention it Chef before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What three thousand? You said it was a gift!' Over the moment and the luck, Barinov presses Senya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Chef, well you know how much the tickets cost.' Over the plan and the luck, Timur answers Barinov without a second thought.
+- 'For three thousand, consider it a gift.' Around the plan and luck, Timur sets a calm, everyday tone with Barinov.
+- 'Ten thousand on Spartak for tomorrow's game.' Over the plan and the bet, Barinov answers Senya without a second thought.
+- 'I am just having a lucky day today!' Insisting that he is just having a lucky day today shows Barinov is not backing down.
+- 'Chef, are you all right?' Asking whether Barinov all right is how Senya puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Better than ever! This is my gold cutter for cigars.' With the moment and truth at stake, Barinov reacts without holding back. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I have been looking for it for a year, and it is lying around here.' Adding that he has been looking for it for a year and it is lying around here fills in the missing piece for Senya.
+- 'And you thought I stole it! Chef, I demand an apology.' Senya declares that Barinov thought he stole it as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Anything that is not edible, he doesn't steal.' Admitting that anything that is not edible he does not steal shows Barinov being honest for a change.

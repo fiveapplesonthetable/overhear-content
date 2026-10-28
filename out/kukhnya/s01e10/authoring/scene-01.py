@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 1
-TITLE = "Поздний вечер  (A Late Evening)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Поздний вечер  (A Late Evening)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "son": "angelina", "mama": "anja"}
-LABELS = {"son": "Сын", "mama": "Мама"}
+LABELS = {'mama': 'Мама', 'son': 'Сын'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "In a family home late in the evening, a schoolboy creeps into the apartment long after his classes have ended. He nervously apologizes to his mother for the delay, only to learn that his father has once again lost all their money in a game of chance. Let's listen to their quiet conversation in Russian first."
 OPENER = "Now let's examine the mother and son's late evening exchange line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With heartfelt promises to find work and face hardships together, the mother and son conclude their quiet conversation, ready to support each other through family adversity. Next time you watch the episode, listen for the Russian expressions for 'to walk' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ("son", "Пока!")
+CLOSING = ('son', 'Пока!')
 STORY = [
     ('son', 'Извини, мама, я сильно опоздал сегодня.', 'Sorry, mom, I was very late today.', [(1, 'Извини')], ''),
     ('mama', 'Почему ты пришёл так поздно домой?', 'Why did you come home so late?', [], ''),

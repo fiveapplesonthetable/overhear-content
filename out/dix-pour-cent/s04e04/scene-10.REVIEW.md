@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e04-scene-10` — Une mafia de nounous  (A Nanny Mafia)
+# dix-pour-cent-s04e04-scene-10: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "elise": "emilie", "lea": "lucie"}`
-- **Labels**: `{"elise": "Élise", "lea": "Andréa"}`
+Title: Une mafia de nounous  (A Nanny Mafia)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E04
 
-## Part 1 — Intro
-> After losing her daycare spot, Andrea Martel is exhausted from bringing baby Flora to the ASK agency every day. Rival agent Elise Formain steps into her office and observes her colleague's mounting distress. Rather than exploiting Andrea's weakness, Elise offers unexpected maternal advice and a surprising solution. Let's listen to their exchange in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `elise` (Élise) | C'est quoi tout ce va-et-vient ici? | What is all this coming and going here? | 836:C'est quoi tout ce va-et-vient ? |
-| 1 | `lea` (Andréa) | Je cherche une nounou pour ma fille. | I am looking for a nanny for my daughter. | 840:une |
-| 2 | `elise` (Élise) | Tu amènes Flora au bureau depuis lundi. | You bring Flora to the office since Monday. | 840:Ça fait une semaine que vous amenez votre fille |
-| 3 | `lea` (Andréa) | Nous avons perdu notre place en crèche. | We lost our place at daycare. | 844:Un malentendu avec la crèche |
-| 4 | `elise` (Élise) | Tu as l'air complètement épuisée, Andréa. | You seem completely exhausted, Andrea. | 841:Tu as l'air… Complètement stressé. |
-| 5 | `lea` (Andréa) | Les crèches demandent deux ans d'attente! | Daycare centers ask two years of waiting! | 857:Les, 845:avant la conception |
-| 6 | `elise` (Élise) | Tu peux me parler en toute confiance. | You can talk to me in full confidence. | 842:Tu peux me parler, tu sais. |
-| 7 | `lea` (Andréa) | J'ai l'impression de tout faire mal. | I feel like I do everything wrong. | 857:J'ai l'impression que tout ce que je fais est faux |
-| 8 | `elise` (Élise) | J'ai eu trois enfants toute seule. | I had three children all alone. | 850:J'ai eu trois enfants de trois pères différents. |
-| 9 | `lea` (Andréa) | Comment fais-tu pour tout organiser? | How do you manage to organize everything? | 851:donner des conseils |
-| 10 | `elise` (Élise) | Pour rendre Flora heureuse, sois heureuse. | To make Flora happy, be happy. | 852:si tu veux que ton enfant soit heureux,, 853:tu dois l'être toi-même. |
-| 11 | `lea` (Andréa) | J'ai juste besoin d'une bonne nounou. | I just need a good nanny. | 856:Si j'avais quelqu'un pour s'occuper de Flora |
-| 12 | `elise` (Élise) | Les nounous à Paris, c'est une mafia! | Nannies in Paris are a mafia! | 859:Les nounous, c'est une mafia. |
-| 13 | `elise` (Élise) | Laisse-moi faire, je connais du monde. | Leave it to me, I know people. | 858:Tu veux que je te trouve une nounou ?, 860:Moi, oui. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Grateful for Elise's surprising warmth and support, Andrea feels a glimmer of hope amidst her chaotic week. When you watch the episode, listen out for the expressions meaning 'bustle' and 'look for'. You'll catch them now. See you next time!
-- **Closing**: `elise`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Élise | C'est quoi tout ce va-et-vient ici? | What is all this coming and going here? | #836: C'est quoi tout ce va-et-vient ? | verbatim |
+| 2 | Andréa | Je cherche une nounou pour ma fille. | I am looking for a nanny for my daughter. | #840: une | verbatim |
+| 3 | Élise | Tu amènes Flora au bureau depuis lundi. | You bring Flora to the office since Monday. | #840: Ça fait une semaine que vous amenez votre fille | verbatim |
+| 4 | Andréa | Nous avons perdu notre place en crèche. | We lost our place at daycare. | #844: Un malentendu avec la crèche | verbatim |
+| 5 | Élise | Tu as l'air complètement épuisée, Andréa. | You seem completely exhausted, Andrea. | #841: Tu as l'air… Complètement stressé. | verbatim |
+| 6 | Andréa | Les crèches demandent deux ans d'attente! | Daycare centers ask two years of waiting! | #857: Les<br>#845: avant la conception | verbatim |
+| 7 | Élise | Tu peux me parler en toute confiance. | You can talk to me in full confidence. | #842: Tu peux me parler, tu sais. | verbatim |
+| 8 | Andréa | J'ai l'impression de tout faire mal. | I feel like I do everything wrong. | #857: J'ai l'impression que tout ce que je fais est faux | verbatim |
+| 9 | Élise | J'ai eu trois enfants toute seule. | I had three children all alone. | #850: J'ai eu trois enfants de trois pères différents. | verbatim |
+| 10 | Andréa | Comment fais-tu pour tout organiser? | How do you manage to organize everything? | #851: donner des conseils | verbatim |
+| 11 | Élise | Pour rendre Flora heureuse, sois heureuse. | To make Flora happy, be happy. | #852: si tu veux que ton enfant soit heureux,<br>#853: tu dois l'être toi-même. | verbatim |
+| 12 | Andréa | J'ai juste besoin d'une bonne nounou. | I just need a good nanny. | #856: Si j'avais quelqu'un pour s'occuper de Flora | verbatim |
+| 13 | Élise | Les nounous à Paris, c'est une mafia! | Nannies in Paris are a mafia! | #859: Les nounous, c'est une mafia. | verbatim |
+| 14 | Élise | Laisse-moi faire, je connais du monde. | Leave it to me, I know people. | #858: Tu veux que je te trouve une nounou ?<br>#860: Moi, oui. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'What is all this coming and going here?' Elise asks about the steady stream of candidates outside Andrea's door. In everyday spoken French, rising intonation on 'bustle' at the end is enough to turn the sentence into a question.
+- 'I am looking for a nanny for my daughter.' Andrea explains that she has been conducting interviews all morning. Notice how 'look for' leads directly into the noun meaning 'nanny'.
+- 'You bring Flora to the office since Monday.' Elise points out that the baby has been sleeping by Andrea's desk. Elise uses the casual singular 'you' with 'bring', showing close familiarity.
+- 'We lost our place at daycare.' Andrea explains her sudden child care emergency. The verb meaning 'have' pairs naturally with the noun for 'spot' in everyday conversation.
+- 'You seem completely exhausted, Andrea.' Elise recognizes the signs of maternal burnout. The verb meaning 'have' pairs naturally with the noun for 'look' in everyday conversation.
+- 'Daycare centers ask two years of waiting!' Andrea complains about absurd registration delays in Paris. Dropping the subject pronoun turns the verb for 'ask' into a direct, punchy command.
+- 'You can talk to me in full confidence.' Elise offers a rare moment of genuine vulnerability and support. The short 'self' word sits right in front of the verb for 'can', turning the action back onto the subject.
+- 'I feel like I do everything wrong.' Andrea admits her deep feelings of maternal guilt and inadequacy. Notice how 'have' leads directly into the noun meaning 'impression'.
+- 'I had three children all alone.' Elise shares her experience raising children from three previous marriages. The verb meaning 'have' pairs naturally with the noun for 'children' in everyday conversation.
+- 'How do you manage to organize everything?' Andrea asks for practical advice on balancing work and family. The clause hinges on the everyday verb meaning 'do you manage'.
+- 'To make Flora happy, be happy.' Elise offers wise perspective on prioritizing personal well-being. The adjective meaning 'happy' takes its feminine form here to match the noun it describes.
+- 'I just need a good nanny.' Andrea focuses on her immediate practical obstacle. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
+- 'Nannies in Paris are a mafia!' Elise jokes about the hyper-competitive and secretive nanny market. The key noun here means 'nannies', anchored by its matching French article.
+- 'Leave it to me, I know people.' Elise promises to unlock her secret contact list to find the ideal caregiver. Notice how 'leave it to me' leads directly into the noun meaning 'people'.

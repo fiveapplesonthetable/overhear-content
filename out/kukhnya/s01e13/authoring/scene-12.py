@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 12
-TITLE = "Признание  (The Confession)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Признание  (The Confession)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Inside the kitchen, Nastya is very worried about breaking the Chef's car mirror earlier. Kostya wants their date to happen, so he offers a brave sacrifice. Let's hear them in Russian."
 OPENER = "Now let's go back through the exchange around The Confession line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya was ready to lose his job to save Nastya, but she bravely confessed the truth. Let's see what happens next! Next time you watch the episode, listen for the Russian expressions for 'again' and 'to quarrel' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Шеф опять с ней ругается.', 'The boss is arguing with her again.', [(164, 'Шеф опять с ней рукается.')], ''),
     ('kostya', 'Да ладно, Настя, всё образуется.', 'Come on, Nastya, everything will work out.', [(165, 'Да ладно, Нась, все образуется.')], ''),

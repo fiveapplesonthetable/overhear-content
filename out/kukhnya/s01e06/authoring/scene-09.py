@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 6
 SCENE = 9
-TITLE = "Волос в тарелке  (A Hair on the Plate)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Волос в тарелке  (A Hair on the Plate)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "guest": "anja"}
-LABELS = {"nastya": "Настя", "guest": "Гость"}
+LABELS = {'guest': 'Гость', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the elegant dining room of Claude Monet, an indignant diner summons waitress Nastya over to his table. He points out a long stray hair in his meal, sparking a hilariously deadpan exchange with the unflappable waitress. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this hilarious confrontation in the dining room line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Leaving the infuriated guest waiting at his table, Nastya heads into the kitchen to alert Chef Barinov. See you next time!'
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('guest', 'Девушка, подойдите немедленно к нашему столу!', 'Miss, come over to our table immediately!', [(85, 'Бевушка')], ''),
     ('nastya', 'Добрый день, слушаю вас очень внимательно.', 'Good day, I am listening to you very attentively.', [(86, 'Слушаю вас')], ''),

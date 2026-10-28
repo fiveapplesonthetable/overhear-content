@@ -7,8 +7,7 @@ SCENE = 16
 TITLE = "La vérité sur l'audition  (The Truth About the Audition)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'herve': 'marcel'}
-LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'herve': 'Hervé'}
+LABELS = {'constance': 'Constance', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "At her audition, Sofia discovers to her horror that the role requires hip-hop dancing, something she cannot do at all. When the audition ends in disaster, Gabriel confronts Sofia back at the agency, and a furious argument erupts between them. Let's listen to the scene in French first; don't worry about catching every word."
@@ -17,8 +16,8 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Furious at Gabriel's stereotypes, Sofia tells him to take her off his client list and walks out. See you next time!"
 CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
-    ('herve', "Ce n'est pas du tout ce que j'avais demandé.", 'That', [(438, "pas du tout ce que j'avais demandé")], ''),
-    ('herve', "La danse d'abord. On reprend depuis le début. Prête?", 'The dance first. We start again from the beginning. Ready?', [(441, "La danse d'abord"), (443, 'On reprend depuis le début. Prête')], ''),
+    ('constance', "Ce n'est pas du tout ce que j'avais demandé.", 'That', [(438, "pas du tout ce que j'avais demandé")], ''),
+    ('constance', "La danse d'abord. On reprend depuis le début. Prête?", 'The dance first. We start again from the beginning. Ready?', [(441, "La danse d'abord"), (443, 'On reprend depuis le début. Prête')], ''),
     ('sofia', "Écoutez, ce sont les flics! Il faut partir d'ici!", 'Listen, it', [(444, 'Écoutez'), (444, 'les flics'), (445, 'Il faut'), (445, "d'ici")], ''),
     ('gabriel', "Mais qu'est-ce que tu as fait?", 'But what did you do?', [(447, "Mais qu'est-ce que"), (447, 'as fait')], ''),
     ('gabriel', "Je suis désolé. Je t'aime beaucoup, Sofia, mais ça ne va pas.", 'I', [(450, "Je suis désolé. Je t'aime beaucoup, Sofia, mais ça ne va pas")], ''),
@@ -36,20 +35,20 @@ STORY = [
 ]
 WALK = [
     (0, None, "'That's not at all what I had asked for.' The key word here means 'is not', paired with 'asked for' to make the point clear."),
-    (1, None, "'The dance first.' Constance wants Sofia to start with the choreography."),
-    (2, None, "'We start again from the beginning. Ready?' Notice the feminine ending on the adjective for 'ready'."),
-    (3, None, "'Listen, it's the cops! We have to get out of here!' Instead of dancing, Sofia launches into her lines and accidentally knocks over the assistant. Back at ASK, Gabriel confronts her."),
-    (4, None, "'But what did you do?' Gabriel is horrified by Constance's phone call."),
-    (5, None, "'I'm sorry. I like you a lot, Sofia, but this isn't working.' Literally 'that does not go'."),
-    (6, None, "'Either you explain to me what happened, or...' Repeating the word for 'either' at the start of each clause means 'either... or...'."),
-    (7, None, "'It's hip-hop. I don't know how to dance.' In French, 'to know how to do something' is simply the verb 'know' followed by the infinitive."),
-    (8, None, "'Why didn't you tell me?' Literally 'why did you not tell it to me'."),
-    (9, None, "'I had told you that it was condition number one!' Gabriel links 'I' directly with 'you + had' to express the thought clearly."),
-    (10, None, "'But you came to offer me a hip-hop role!' The key word here means 'are', paired with 'hip-hop' to make the point clear."),
-    (11, None, "'Because I'm black, I know how to dance hip-hop?' Sofia realizes Gabriel assumed she could dance hip-hop without even asking."),
-    (12, None, "'Excuse me? You're crossing the line!' Literally 'you pass beyond the boundary markers'."),
-    (13, None, "'And that doesn't explain why you hit her assistant!' This everyday French sentence pairs 'and' with 'assistant'."),
-    (14, None, "'There are rules! The agency has a reputation! So do I!' Gabriel loses his temper and says people don't behave like a savage."),
+    (1, "La danse d'abord.", "'The dance first.' Constance wants Sofia to start with the choreography."),
+    (1, 'On reprend depuis le début. Prête?', "'We start again from the beginning. Ready?' Notice the feminine ending on the adjective for 'ready'."),
+    (2, None, "'Listen, it's the cops! We have to get out of here!' Instead of dancing, Sofia launches into her lines and accidentally knocks over the assistant. Back at ASK, Gabriel confronts her."),
+    (3, None, "'But what did you do?' Gabriel is horrified by Constance's phone call."),
+    (4, None, "'I'm sorry. I like you a lot, Sofia, but this isn't working.' Literally 'that does not go'."),
+    (5, None, "'Either you explain to me what happened, or...' Repeating the word for 'either' at the start of each clause means 'either... or...'."),
+    (6, None, "'It's hip-hop. I don't know how to dance.' In French, 'to know how to do something' is simply the verb 'know' followed by the infinitive."),
+    (7, None, "'Why didn't you tell me?' Literally 'why did you not tell it to me'."),
+    (8, None, "'I had told you that it was condition number one!' Gabriel links 'I' directly with 'you + had' to express the thought clearly."),
+    (9, None, "'But you came to offer me a hip-hop role!' The key word here means 'are', paired with 'hip-hop' to make the point clear."),
+    (10, None, "'Because I'm black, I know how to dance hip-hop?' Sofia realizes Gabriel assumed she could dance hip-hop without even asking."),
+    (11, None, "'Excuse me? You're crossing the line!' Literally 'you pass beyond the boundary markers'."),
+    (12, None, "'And that doesn't explain why you hit her assistant!' This everyday French sentence pairs 'and' with 'assistant'."),
+    (13, None, "'There are rules! The agency has a reputation! So do I!' Gabriel loses his temper and says people don't behave like a savage."),
     (15, None, "'Why do people only offer me these cliché roles?' Sofia is stunned by his word choice."),
-    (16, None, "'So I'm either a slave, or a hip-hop dancer, or a savage?' Sofia combines 'so' with 'savage' in a natural French turn of phrase. Now let's hear the whole scene again from start to finish."),
+    (15, None, "'So I'm either a slave, or a hip-hop dancer, or a savage?' Sofia combines 'so' with 'savage' in a natural French turn of phrase. Now let's hear the whole scene again from start to finish."),
 ]

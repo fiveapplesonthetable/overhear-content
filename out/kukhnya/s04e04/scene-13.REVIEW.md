@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Я так не могу. На меня это всё давит. | I cannot do it like this. All of this is weighing on me. | #199 00:15:27: Я так не могу. На меня это все давит. | verbatim |
-| 2 | Аня | Что на тебя давит? | What is weighing on you? | #200 00:15:29: Что на тебя давит? | verbatim |
-| 3 | Аня | Прорвало? Прекрасно. | Did your voice finally come back? Wonderful. | #201 00:15:31: Прорвало? Прекрасно. | verbatim |
-| 4 | Вика | Что ты молчишь, пишешь эти дурацкие записки. | That you stay silent and write these foolish notes. | #202 00:15:33: что ты молчишь, пишешь эти дурацкие записки. | verbatim |
-| 5 | Вика | Я не хочу, чтобы наш ребёнок был зачат таким способом. | I do not want our child to be conceived in this way. | #203 00:15:36: я не хочу, чтобы наш ребенок был зачат таким способом. | verbatim |
-| 6 | Вика | Может быть, ты вообще не хочешь ребёнка? | Maybe you do not want a child at all? | #204 00:15:40: Может быть, ты вообще не хочешь ребенка? | verbatim |
-| 7 | Аня | Вик, ну прекрати. | Vika, come on, stop it. | #205 00:15:41: Вик, ну прекрати. | verbatim |
-| 8 | Аня | Что ты за глупости говоришь, а? | What kind of nonsense are you saying, huh? | #205 00:15:41: Что ты за глупости говоришь, а? | verbatim |
-| 9 | Вика | Глупости всегда говоришь ты. | You are the one who always talks nonsense. | #206 00:15:44: Глупости всегда говоришь ты. | verbatim |
-| 10 | Аня | Вик, ну подожди. | Vika, come on, wait. | #207 00:15:46: Вик, ну подожди. | verbatim |
-| 11 | Аня | Вик, стой. | Vika, stop. | #207 00:15:46: Вик, стой. | verbatim |
-| 12 | Аня | Вика, стой! | Vika, wait! | #208 00:15:51: Вика, стой. | verbatim |
+| 1 | Вика | Я так не могу. На меня это всё давит. | I cannot do it like this. All of this is weighing on me. | #199: Я так не могу. На меня это все давит. | verbatim |
+| 2 | Макс | Что на тебя давит? | What is weighing on you? | #200: Что на тебя давит? | verbatim |
+| 3 | Макс | Прорвало? Прекрасно. | Did your voice finally come back? Wonderful. | #201: Прорвало? Прекрасно. | verbatim |
+| 4 | Вика | Что ты молчишь, пишешь эти дурацкие записки. | That you stay silent and write these foolish notes. | #202: что ты молчишь, пишешь эти дурацкие записки. | verbatim |
+| 5 | Вика | Я не хочу, чтобы наш ребёнок был зачат таким способом. | I do not want our child to be conceived in this way. | #203: я не хочу, чтобы наш ребенок был зачат таким способом. | verbatim |
+| 6 | Вика | Может быть, ты вообще не хочешь ребёнка? | Maybe you do not want a child at all? | #204: Может быть, ты вообще не хочешь ребенка? | verbatim |
+| 7 | Макс | Вик, ну прекрати. | Vika, come on, stop it. | #205: Вик, ну прекрати. | verbatim |
+| 8 | Макс | Что ты за глупости говоришь, а? | What kind of nonsense are you saying, huh? | #205: Что ты за глупости говоришь, а? | verbatim |
+| 9 | Вика | Глупости всегда говоришь ты. | You are the one who always talks nonsense. | #206: Глупости всегда говоришь ты. | verbatim |
+| 10 | Макс | Вик, ну подожди. | Vika, come on, wait. | #207: Вик, ну подожди. | verbatim |
+| 11 | Макс | Вик, стой. | Vika, stop. | #207: Вик, стой. | verbatim |
+| 12 | Макс | Вика, стой! | Vika, wait! | #208: Вика, стой. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot do it like this. All of this is weighing on me.' Notice how Russian puts 'so, like this' and 'to press, to put pressure on' together in a short, direct phrase where word endings show how the ideas connect.
-- 'What is weighing on you?' Max centers this short reply on 'to press, to put pressure on', letting a few direct words carry the whole meaning.
-- 'Did your voice finally come back? Wonderful.' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
-- 'That you stay silent and write these foolish notes.' Vika addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'I do not want our child to be conceived in this way.' Notice how Russian puts 'want' and 'way, method, means' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Maybe you do not want a child at all?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Vika, come on, stop it.' In everyday Russian, 'Vika' flows straight into 'to stop, quit' without extra linking words.
-- 'What kind of nonsense are you saying, huh?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'You are the one who always talks nonsense.' Vika addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Vika, come on, wait.' Here Max anchors the thought on 'Vika' and finishes on 'wait', keeping the spoken rhythm brisk and natural.
-- 'Vika, stop.' In everyday Russian, 'Vika' flows straight into 'stop' without extra linking words.
-- 'Vika, wait!' Max delivers this line as an emphatic exclamation, putting strong stress on the main word.
+- 'I cannot do it like this. All of this is weighing on me.' Because she cannot do it like this, Vika treats the matter as settled.
+- 'What is weighing on you?' Asking what weighing on Vika is is how Max puts Vika on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Did your voice finally come back? Wonderful.' Here asking whether Vika's voice finally come back shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'That you stay silent and write these foolish notes.' Realizing that that Max stays silent and write these foolish notes changes how Vika handles the situation.
+- 'I do not want our child to be conceived in this way.' Explaining that she does not want their child to be conceived in this way lays the cards on the table for Max.
+- 'Maybe you do not want a child at all?' Wondering if maybe Max does not want a child at all shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Vika, come on, stop it.' By coming on stop it, Max keeps his side of the story grounded.
+- 'What kind of nonsense are you saying, huh?' Over the plan and the tears, Max presses Vika for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You are the one who always talks nonsense.' Once Max is the one who always talks nonsense, Vika can finally tell Max what she means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Vika, come on, wait.' Because Vika should come on wait, Max treats the matter as settled.
+- 'Vika, stop.' With the room and tears in play, Max keeps this short reply brisk and direct.
+- 'Vika, wait!' With the plan and tears at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.

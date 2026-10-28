@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 6
-TITLE = "Трудный разговор  (A Difficult Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Трудный разговор  (A Difficult Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "At Claude Monet, kostya explains why he can't move in with Nastya. Kostya explains to Nastya why he can't move in with her. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around A Difficult Conversation line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya promises to talk to Max about moving out. Next time you watch the episode, listen for the Russian expressions for 'where' and 'to go' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Ну ты куда?', 'Where are you going?', [(31, 'Ну ты куда?')], ''),
-    ('anya', 'Я иду к Насте.', 'I am going to Nastya.', [], ''),
+    ('max', 'Я иду к Насте.', 'I am going to Nastya.', [], ''),
     ('kostya', 'Понимаешь, я не могу переехать к ней.', 'You see, I cannot move in with her.', [], ''),
-    ('anya', 'Почему ты не хочешь жить с ней?', 'Why do you not want to live with her?', [], ''),
+    ('max', 'Почему ты не хочешь жить с ней?', 'Why do you not want to live with her?', [], ''),
     ('kostya', 'Мы с Максом вместе за квартиру платим.', 'Max and I split the rent together.', [], ''),
-    ('anya', 'Это очень глупая и плохая отговорка.', 'This is a very stupid and bad excuse.', [], ''),
+    ('max', 'Это очень глупая и плохая отговорка.', 'This is a very stupid and bad excuse.', [], ''),
     ('kostya', 'Один он ее не потянет.', 'He cannot afford it on his own.', [], ''),
-    ('anya', 'Если ты не хочешь жить со мной, скажи.', 'If you do not want to live with me, say so.', [], ''),
+    ('max', 'Если ты не хочешь жить со мной, скажи.', 'If you do not want to live with me, say so.', [], ''),
     ('kostya', 'Да я хочу. Это Макс не хочет.', 'I do want to. Max does not want to.', [], ''),
-    ('anya', 'Она тебе не поверит.', 'She will not believe you.', [], ''),
+    ('max', 'Она тебе не поверит.', 'She will not believe you.', [], ''),
     ('kostya', 'Я его понимаю. Но я с ним поговорю.', 'I understand him. But I will talk to him.', [], ''),
-    ('anya', 'Тебе нужно сделать это сегодня.', 'You need to do this today.', [], ''),
+    ('max', 'Тебе нужно сделать это сегодня.', 'You need to do this today.', [], ''),
     ('kostya', 'Обещаю.', 'I promise.', [], ''),
 ]
 WALK = [

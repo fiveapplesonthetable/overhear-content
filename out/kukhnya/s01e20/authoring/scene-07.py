@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 7
-TITLE = "Неожиданный поворот  (An Unexpected Turn)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданный поворот  (An Unexpected Turn)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'The tense conversation between the young couple continues as Kostya tries to understand her demands, and we will listen to them in Russian first; do not worry about catching every single word.'
 OPENER = "Now let's go back through the exchange around An Unexpected Turn line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya is genuinely worried that she might not be happy with him. Next time you watch the episode, listen for the Russian expressions for 'now' and 'seriously' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Ты сейчас серьёзно?', 'Are you serious right now?', [(140, 'Ты больше')], ''),
     ('nastya', 'Да, я абсолютно серьёзна.', 'Yes, I am completely serious.', [], ''),

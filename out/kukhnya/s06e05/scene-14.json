@@ -8,13 +8,9 @@
  "scene": 14,
  "title": "Где взять миллион  (Where to Get a Million)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "nastya": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
+  "barinov": "Шеф",
+  "mikhail": "Михаил",
   "nastya": "Настя"
  },
  "segments": [
@@ -24,17 +20,17 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Думаешь, этот хитрый план сработает?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Откуда у него такие большие деньги?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Вернёт он тебе это старое меню.",
    "gap": 0.55
   },
@@ -49,37 +45,37 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты куда это собралась, Настя?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Витя, деньги нам нужны уже завтра.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ясно, я тебя прекрасно услышал.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Что, у тебя совсем нет денег?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да нет, есть как раз миллион.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мы его с Леной на свадьбу откладывали.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Я бы тебе обязательно помог, друг.",
    "gap": 0.9
   },
@@ -89,33 +85,33 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Думаешь, этот хитрый план сработает?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do you think this clever plan will work?' The meaning hinges on 'think' working together with 'will work' in spoken Russian.",
+   "t": "'Do you think this clever plan will work?' Here checking whether Mikhail thinks this clever plan will work shows Barinov looking for the real truth. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Откуда у него такие большие деньги?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Where would he get that kind of big money?' Mikhail anchors the line on 'where from', while 'money' completes the thought.",
+   "t": "'Where would he get that kind of big money?' By asking where he get that kind of big money would, Mikhail presses Barinov for a straight answer. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Вернёт он тебе это старое меню.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'He will bring that old menu back to you.' Mikhail brings out the contrast between 'will reimburse' and 'he' in a few short words.",
+   "t": "'He will bring that old menu back to you.' Once he will bring that old menu back to Barinov, Mikhail can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
@@ -125,7 +121,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Kostik, I am stepping out for a little while now.' In Russian, the idea of 'I' flows naturally into 'for a short time' without extra filler words.",
+   "t": "'Kostik, I am stepping out for a little while now.' Adding that someone she is stepping out for a little while now fills in the missing piece for Barinov.",
    "gap": 0.4
   },
   {
@@ -135,91 +131,91 @@
   },
   {
    "v": "narrator",
-   "t": "'I already asked Nikita for time off myself.' The grammar packs 'at' and 'asked for time off' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.",
+   "t": "'I already asked Nikita for time off myself.' Nastya tells Barinov that she already asked Nikita for time off herself without dressing it up.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты куда это собралась, Настя?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Where are you heading off to, Nastya?' Here the Russian phrasing highlights 'you' before landing on 'Nastya'.",
+   "t": "'Where are you heading off to, Nastya?' By wondering where Mikhail heading off is, Barinov presses Mikhail for a straight answer.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Витя, деньги нам нужны уже завтра.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vitya, we need the money tomorrow already.' Mikhail brings out the contrast between 'money' and 'us' in a few short words.",
+   "t": "'Vitya, we need the money tomorrow already.' Needing the money tomorrow already moves the conversation forward without extra drama.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ясно, я тебя прекрасно услышал.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Clear, I heard you loud and clear.' Chef Barinov anchors the line on 'clear', while 'heard' completes the thought. Mikhail answers right away.",
+   "t": "'Clear, I heard you loud and clear.' Barinov reminds Mikhail that clear he heard Mikhail loud and clear before the moment passes. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Что, у тебя совсем нет денег?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What, do you have no money at all?' In Russian, the idea of 'what' flows naturally into 'money' without extra filler words.",
+   "t": "'What, do you have no money at all?' Here wondering what Barinov has no money at all shows Mikhail looking for the real truth.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да нет, есть как раз миллион.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Actually no, I have a million right there.' The meaning hinges on 'yes' working together with 'a million' in spoken Russian.",
+   "t": "'Actually no, I have a million right there.' Saying that he has a million right there is how Barinov sets the tone with Mikhail.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мы его с Леной на свадьбу откладывали.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lena and I were saving it for our wedding.' The plural past ending '-li' on the verb for 'were setting aside' covers a group or the polite 'you'. Mikhail answers right away.",
+   "t": "'Lena and I were saving it for our wedding.' Barinov mentions that someone and he were saving it for their wedding so Mikhail sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Я бы тебе обязательно помог, друг.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I would definitely help you, my friend.' Mikhail brings out the contrast between 'I' and 'would' in a few short words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I would definitely help you, my friend.' Claiming that he would definitely help Barinov sounds confident, even if Barinov has doubts. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Думаешь, этот хитрый план сработает?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Откуда у него такие большие деньги?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Вернёт он тебе это старое меню.",
    "gap": 0.5
   },
@@ -234,37 +230,37 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ты куда это собралась, Настя?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Витя, деньги нам нужны уже завтра.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ясно, я тебя прекрасно услышал.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Что, у тебя совсем нет денег?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да нет, есть как раз миллион.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мы его с Леной на свадьбу откладывали.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Я бы тебе обязательно помог, друг.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Увидимся!",
    "gap": 0.3
   }

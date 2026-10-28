@@ -8,13 +8,9 @@
  "scene": 14,
  "title": "Тяжёлый сейф  (The Heavy Safe)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "senya": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
+  "barinov": "Шеф",
+  "fedya": "Федя",
   "senya": "Сеня"
  },
  "segments": [
@@ -24,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Эти ключи не подходят.",
    "gap": 0.55
   },
@@ -34,7 +30,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "fedya",
    "t": "А что теперь делать?",
    "gap": 0.55
   },
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Значит так, надо сейф украсть.",
    "gap": 0.55
   },
@@ -54,42 +50,42 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да кому он нужен?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Он здесь сто лет стоит пустой.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "fedya",
    "t": "Вынести его незаметно не получится.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "К тому же он очень тяжёлый.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Давайте сбросим его в окно!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Если он сломается, ещё лучше.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Иди на кухню и смотри.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Можно сбрасывать, давай!",
    "gap": 0.9
   },
@@ -99,13 +95,13 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Эти ключи не подходят.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'These keys do not fit.' When a key fits a lock, Russian uses the motion verb for 'to approach' or 'suit'.",
+   "t": "'These keys do not fit.' Because these keys do not fit, Barinov treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -115,17 +111,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Oh, I forgot to check the second one.' The ordinal number 'second' acts as a noun here for the second pocket.",
+   "t": "'Oh, I forgot to check the second one.' Explaining that he forgot to check the second one lays the cards on the table for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "fedya",
    "t": "А что теперь делать?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And what are we supposed to do now?' Fedya pairs 'now, nowadays' with 'to do' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.",
+   "t": "'And what are we supposed to do now?' Asking what they supposed to do now are cuts straight through the tension between Fedya and Barinov.",
    "gap": 0.4
   },
   {
@@ -135,17 +131,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Guys, we need to get out of here.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.",
+   "t": "'Guys, we need to get out of here.' Needing to get out of here is how Senya lays out the situation for Barinov. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Значит так, надо сейф украсть.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Here is the plan, we have to steal the safe.' The two-word opener 'so like this' is how a boss announces a new plan of action.",
+   "t": "'Here is the plan, we have to steal the safe.' Explaining that here is the plan they have to steal the safe lays the cards on the table for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.",
    "gap": 0.4
   },
   {
@@ -155,91 +151,91 @@
   },
   {
    "v": "narrator",
-   "t": "'Chef, they will put us in prison!' In Russian, the third-person plural of 'to seat' is the standard colloquial way to say 'they will jail us'.",
+   "t": "'Chef, they will put us in prison!' Because they will put them in prison, Senya does not bother softening the blow for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да кому он нужен?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Who even needs it?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.",
+   "t": "'Who even needs it?' Barinov asks whether who even needs it, refusing to let the point slide. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Он здесь сто лет стоит пустой.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It has stood here empty for a hundred years.' Russian uses the present tense for an action that started in the past and continues right up to now.",
+   "t": "'It has stood here empty for a hundred years.' Noting that it has stood here empty for a hundred years keeps Barinov's side of the story simple and clear.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "fedya",
    "t": "Вынести его незаметно не получится.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Carrying it out unnoticed will not work.' Here Fedya anchors the thought on 'issue, hand down, carry out' and finishes on 'will work out', keeping the spoken rhythm brisk and natural.",
+   "t": "'Carrying it out unnoticed will not work.' Even though carrying it out unnoticed will not work, Fedya keeps a steady face in front of Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "К тому же он очень тяжёлый.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Besides, it is very heavy.' The three-word connector at the front is a useful phrase meaning 'moreover' or 'besides'.",
+   "t": "'Besides, it is very heavy.' Admitting that besides it is very heavy shows Barinov being honest for a change.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Давайте сбросим его в окно!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Let's drop it out the window!' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.",
+   "t": "'Let's drop it out the window!' Here proposing that they drop it out the window lets Barinov's real feelings break through. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\".",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Если он сломается, ещё лучше.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'If it breaks open, even better.' Notice how Russian puts 'to break down, get broken' and 'better' together in a short, direct phrase where word endings show how the ideas connect.",
+   "t": "'If it breaks open, even better.' Once if it breaks open even better, Barinov can finally tell Fedya what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Иди на кухню и смотри.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Go to the kitchen and keep watch.' Two singular imperatives send Senya to act as the lookout.",
+   "t": "'Go to the kitchen and keep watch.' Realizing that Fedya should go to the kitchen and keep watch changes how Barinov handles the situation.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Можно сбрасывать, давай!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We can drop it now, go!' The modal word for 'it is clear/possible' gives the green light to push the safe. Now listen to the whole scene again from start to finish.",
+   "t": "'We can drop it now, go!' Insisting that they can drop it now go shows Barinov is not backing down. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\". Now listen to the whole scene again from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Эти ключи не подходят.",
    "gap": 0.5
   },
@@ -249,7 +245,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "fedya",
    "t": "А что теперь делать?",
    "gap": 0.5
   },
@@ -259,7 +255,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Значит так, надо сейф украсть.",
    "gap": 0.5
   },
@@ -269,42 +265,42 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да кому он нужен?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Он здесь сто лет стоит пустой.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "fedya",
    "t": "Вынести его незаметно не получится.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "К тому же он очень тяжёлый.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Давайте сбросим его в окно!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Если он сломается, ещё лучше.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Иди на кухню и смотри.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Можно сбрасывать, давай!",
    "gap": 0.9
   },
@@ -314,7 +310,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Хорошего дня!",
    "gap": 0.3
   }

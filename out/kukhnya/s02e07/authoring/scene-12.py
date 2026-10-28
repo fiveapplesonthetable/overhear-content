@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e07-scene-12.
 ID = 'kukhnya-s02e07-scene-12'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 12
 TITLE = "Кошачья аллергия Родиона  (Rodion's Cat Allergy)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "rodion": "anja"}
-LABELS = {"nastya": "Настя", "rodion": "Родион"}
+LABELS = {'nastya': 'Настя', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
 SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
-
 INTRO = 'When Nastya rescues a stray kitten in the courtyard, Rodion Sergeyevich starts sneezing violently, giving Max and Kostya the exact opening they needed. Realizing that Nastya will never let a helpless kitten stay on the street, they wait for her to bring the kitten home where Rodion cannot tolerate it.'
-
+OPENER = "Right, let's take their exchange slowly and unpack the Russian."
+TRANSITION = "Now let's listen to the entire scene again without interruption."
+OUTRO = 'That wraps up this scene as nastya rescues a stray kitten from dogs outside and brings it into the restaurant, unaware that Max and Kostya discovered Rodion is allergic to cats. See you next time!'
+CLOSING = ('rodion', 'Увидимся!')
 STORY = [
     ('nastya', 'Откуда здесь кот?', 'Where did this cat come from?', [(187, 'Откуда здесь кот')], ''),
     ('rodion', 'Его чуть не растерзали собаки.', 'It was nearly torn apart by stray dogs.', [(188, 'его чуть не растерзали собаки')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('rodion', 'А ты что?', 'Wait, what did you do?', [(200, 'А ты что')], ''),
     ('nastya', 'Настя, ты у меня такая умничка.', 'Nastya, you are such a clever girl.', [(203, 'Настя, ты у меня такая умничка')], ''),
 ]
-
-OPENER = "Right, let's take their exchange slowly and unpack the Russian."
-
 WALK = [
-    (0, None, "'Where did this cat come from?' In Russian, the idea of 'where from' flows naturally into 'a boy cat' without extra filler words."),
-    (1, None, "'It was nearly torn apart by stray dogs.' In Russian, the idea of 'him' flows naturally into 'dog' without extra filler words."),
-    (2, None, "'All right, I will carry it back out to the dumpster.' Spoken Russian keeps this brisk, leaning on 'really?!' and finishing on 'dumpster'. Rodion answers right away."),
-    (3, None, "'Yes, yes. Look at you.' The meaning hinges on 'yes' working together with 'you' in spoken Russian."),
-    (4, None, "'You are totally healthy now.' The meaning hinges on 'already' working together with 'healthy' in spoken Russian."),
-    (5, None, "'Rodion Sergeyevich.' Notice how Russian expresses 'Rodion' and 'Sergeyevich' with crisp inflection rather than helper words. Nastya answers right away."),
-    (6, None, "'Well, thank you kindly.' Nastya anchors the line on 'come on', while 'to thank' completes the thought."),
-    (7, None, "'Wait, did you throw the kitten out?' Notice how Russian expresses 'come on' and 'kitten' with crisp inflection rather than helper words."),
-    (8, None, "'I took it to a pet hotel.' Notice how Russian expresses 'to carry to' and 'animals' with crisp inflection rather than helper words. Rodion answers right away."),
-    (9, None, "'Let it live there for the time being.' The grammar packs 'let' and 'to live for a while' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'Until we find an owner for it.' The meaning hinges on 'for now' working together with 'can be found' in spoken Russian."),
-    (11, None, "'Wait, what did you do?' In Russian, the idea of 'and' flows naturally into 'what' without extra filler words. Nastya answers right away."),
-    (12, None, "'Nastya, you are such a clever girl.' Here the Russian phrasing highlights 'Nastya' before landing on 'clever one'."),
+    (0, None, '\'Where did this cat come from?\' Here wondering where this cat come shows Nastya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (1, None, "'It was nearly torn apart by stray dogs.' Rodion reminds Nastya that it was nearly torn apart by stray dogs before the moment passes."),
+    (2, None, "'All right, I will carry it back out to the dumpster.' Because all right she will carry it back out to the dumpster, Nastya treats the matter as settled."),
+    (3, None, '\'Yes, yes. Look at you.\' Between the point and the moment, Rodion gives Nastya a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (4, None, "'You are totally healthy now.' Nastya mentions that Rodion is totally healthy now so Rodion sees what is at stake."),
+    (5, None, "'Rodion Sergeyevich.' Around the point and truth, Rodion sets a calm, everyday tone with Nastya."),
+    (6, None, "'Well, thank you kindly.' With the point and room in play, Nastya keeps this short reply brisk and direct."),
+    (7, None, "'Wait, did you throw the kitten out?' Checking whether Nastya throws the kitten out is how Rodion puts Nastya on the spot."),
+    (8, None, "'I took it to a pet hotel.' Realizing that she took it to a pet hotel changes how Nastya handles the situation."),
+    (9, None, "'Let it live there for the time being.' Letting it live there for the time being moves the conversation forward without extra drama."),
+    (10, None, "'Until we find an owner for it.' Between the truth and the conversation, Nastya gives Rodion a quick, grounded response."),
+    (11, None, '\'Wait, what did you do?\' Asking what Nastya does is how Rodion puts Nastya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (12, None, '\'Nastya, you are such a clever girl.\' Saying that Rodion is such a clever girl is how Nastya sets the tone with Rodion. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
 ]
-
-TRANSITION = "Now let's listen to the entire scene again without interruption."
-OUTRO = 'That wraps up this scene as nastya rescues a stray kitten from dogs outside and brings it into the restaurant, unaware that Max and Kostya discovered Rodion is allergic to cats. See you next time!'
-CLOSING = ("rodion", "Увидимся!")

@@ -7,8 +7,7 @@ SCENE = 23
 TITLE = 'Des soupçons et des douleurs  (Suspicions and Pains)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie'}
-LABELS = {'arlette': 'Arlette', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Arlette enters Andrea's office to reminisce about Samuel Kerr and asks probing questions about Andrea's secret plans, just as labor contractions strike. Listen to the scene in French first. Don't worry about catching every word."
@@ -17,20 +16,20 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "While Arlette confronts Andrea about her secret plan to abandon ASK, she suddenly realizes Andrea is in active labor right inside the office. When you watch the episode, listen out for the expressions meaning 'come in' and 'strained'. You'll catch them now. See you next time!"
 CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
-    ('lea', "Entrez, c'est tendu en ce moment.", 'Come in, it is tense right now.', [(1268, 'Entrée'), (1270, "c'est tendu")], ''),
+    ('andrea', "Entrez, c'est tendu en ce moment.", 'Come in, it is tense right now.', [(1268, 'Entrée'), (1270, "c'est tendu")], ''),
     ('arlette', "Tu ne penses pas à l'après?", 'Do you not think about what comes after?', [(1273, "Tu penses pas trop à l'après")], ''),
-    ('lea', "À l'après quoi, Arlette?", 'After what, Arlette?', [(1274, "À l'après")], ''),
+    ('andrea', "À l'après quoi, Arlette?", 'After what, Arlette?', [(1274, "À l'après")], ''),
     ('arlette', 'Quand tu seras enfin maman.', 'When you will finally be a mother.', [(1277, 'Quand tu seras maman')], ''),
-    ('lea', "C'est encore très abstrait pour moi.", 'It is still very abstract for me.', [(1281, "C'est assez abstrait, pour l'instant")], ''),
+    ('andrea', "C'est encore très abstrait pour moi.", 'It is still very abstract for me.', [(1281, "C'est assez abstrait, pour l'instant")], ''),
     ('arlette', 'Samuel Kerr attendait aussi un enfant.', 'Samuel Kerr was expecting a child too.', [(1287, 'il allait avoir un gosse')], ''),
     ('arlette', 'Quand il a monté son agence.', 'When he set up his agency.', [(1289, 'pour monter à Esca')], ''),
     ('arlette', "Ce n'était pas un appartement avec Gabriel.", 'It was not an apartment with Gabriel.', [(1294, "C'est pas un appartement")], ''),
     ('arlette', 'Vous visitiez de nouveaux bureaux!', 'You were visiting new offices!', [(1297, "C'était des bureaux")], ''),
     ('arlette', 'Vous voulez partir en secret?', 'Do you want to leave in secret?', [(1300, 'Vous voulez partir')], ''),
-    ('lea', 'Arlette, je ne peux rien dire.', 'Arlette, I cannot say anything.', [(1306, 'Dis-moi la vérité')], ''),
+    ('andrea', 'Arlette, je ne peux rien dire.', 'Arlette, I cannot say anything.', [(1306, 'Dis-moi la vérité')], ''),
     ('arlette', 'Attends, est-ce que tu accouches?', 'Wait, are you giving birth?', [(1311, 'Ta couche')], ''),
-    ('lea', 'Je ne sais pas du tout.', 'I do not know at all.', [(1312, 'Je sais pas')], ''),
-    ('lea', 'Disons que ça contracte très fort!', 'Let us say the contractions are getting intense!', [(1315, 'Ça contracte'), (1316, "ça s'est intensifié")], ''),
+    ('andrea', 'Je ne sais pas du tout.', 'I do not know at all.', [(1312, 'Je sais pas')], ''),
+    ('andrea', 'Disons que ça contracte très fort!', 'Let us say the contractions are getting intense!', [(1315, 'Ça contracte'), (1316, "ça s'est intensifié")], ''),
     ('arlette', 'Non, le bébé arrive tout de suite!', 'No, the baby is arriving right now!', [(1317, "T'es sûre")], ''),
 ]
 WALK = [

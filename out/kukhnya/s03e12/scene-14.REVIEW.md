@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Вы что тут вообще делаете? | What on earth are you doing here? | #214 00:14:15: Вы че | adapted: adapted |
-| 2 | Нагиев | Это же моя новая машина! | That is my new car! | #215 00:14:17: моя машина | adapted: adapted |
-| 3 | Нагиев | А если бы я внутри сидел? | And what if I had been sitting inside? | #216 00:14:18: я внутри сидел | adapted: adapted |
-| 4 | Аня | У этого деда граната была реальная! | That old man had a real grenade! | #217 00:14:23: У деда граната была реальная | adapted: adapted |
-| 5 | Нагиев | Держите скорее этих бандитов! | Catch these bandits quickly! | #219 00:14:29: Держите | adapted: adapted |
-| 6 | Нагиев | Это они тут взрыв устроили! | They are the ones who caused the explosion here! | #220 00:14:31: Это они взрыв устроили | adapted: adapted |
-| 7 | Аня | Катя, а если хозяйка снова вернётся? | Katya, what if the landlady comes back again? | #222 00:14:42: а если она вернется | adapted: adapted |
-| 8 | Нагиев | Это твоя квартира и твои проблемы. | It is your apartment and your problems. | #223 00:14:45: Твоя квартира, твои проблемы | adapted: adapted |
-| 9 | Аня | Ну останься хоть на пару часов. | Well stay for at least a couple of hours. | #224 00:14:47: останься хоть на пару часов | adapted: adapted |
-| 10 | Нагиев | Я из-за тебя тоже чуть не попала. | I almost got in trouble because of you too. | #225 00:14:50: тоже чуть не попал | adapted: adapted |
-| 11 | Нагиев | Ты же сам сказал, что мы в расчете. | You said yourself that we are even. | #226 00:14:53: Ты сам сказал, что мы в расчете | adapted: adapted |
-| 12 | Аня | Катя, погоди, не уходи сейчас. | Katya, wait a moment, do not leave right now. | #227 00:14:56: Катя, погоди | adapted: adapted |
+| 1 | Нагиев | Вы что тут вообще делаете? | What on earth are you doing here? | #214: Вы че | adapted: adapted |
+| 2 | Нагиев | Это же моя новая машина! | That is my new car! | #215: моя машина | adapted: adapted |
+| 3 | Нагиев | А если бы я внутри сидел? | And what if I had been sitting inside? | #216: я внутри сидел | adapted: adapted |
+| 4 | Макс | У этого деда граната была реальная! | That old man had a real grenade! | #217: У деда граната была реальная | adapted: adapted |
+| 5 | Нагиев | Держите скорее этих бандитов! | Catch these bandits quickly! | #219: Держите | adapted: adapted |
+| 6 | Нагиев | Это они тут взрыв устроили! | They are the ones who caused the explosion here! | #220: Это они взрыв устроили | adapted: adapted |
+| 7 | Макс | Катя, а если хозяйка снова вернётся? | Katya, what if the landlady comes back again? | #222: а если она вернется | adapted: adapted |
+| 8 | Катя | Это твоя квартира и твои проблемы. | It is your apartment and your problems. | #223: Твоя квартира, твои проблемы | adapted: adapted |
+| 9 | Макс | Ну останься хоть на пару часов. | Well stay for at least a couple of hours. | #224: останься хоть на пару часов | adapted: adapted |
+| 10 | Катя | Я из-за тебя тоже чуть не попала. | I almost got in trouble because of you too. | #225: тоже чуть не попал | adapted: adapted |
+| 11 | Катя | Ты же сам сказал, что мы в расчете. | You said yourself that we are even. | #226: Ты сам сказал, что мы в расчете | adapted: adapted |
+| 12 | Макс | Катя, погоди, не уходи сейчас. | Katya, wait a moment, do not leave right now. | #227: Катя, погоди | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth are you doing here?' The grammar packs 'you' and 'are doing' into a tight, idiomatic kitchen exchange.
-- 'That is my new car!' The meaning hinges on 'this' working together with 'machine' in spoken Russian.
-- 'And what if I had been sitting inside?' In spoken Russian, the words stay in their normal statement order and Nagiyev's rising voice at the end turns the line into a question.
-- 'That old man had a real grenade!' Max anchors the line on 'at', while 'real' completes the thought.
-- 'Catch these bandits quickly!' Spoken Russian keeps this brisk, leaning on 'are holding' and finishing on 'bandits'.
-- 'They are the ones who caused the explosion here!' Dmitry Nagiyev anchors the line on 'this', while 'caused' completes the thought.
-- 'Katya, what if the landlady comes back again?' The grammar packs 'Katya' and 'will return' into a tight, idiomatic kitchen exchange.
-- 'It is your apartment and your problems.' Notice how Russian expresses 'this' and 'problems' with crisp inflection rather than helper words. Max answers right away.
-- 'Well stay for at least a couple of hours.' Here the Russian phrasing highlights 'come on' before landing on 'hours'.
-- 'I almost got in trouble because of you too.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'got hit'.
-- 'You said yourself that we are even.' The grammar packs 'you' and 'even' into a tight, idiomatic kitchen exchange. Max answers right away.
-- 'Katya, wait a moment, do not leave right now.' Max brings out the contrast between 'Katya' and 'wait a moment' in a few short words.
+- 'What on earth are you doing here?' With the shift and car hanging in the air, Nagiyev puts Katya on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'That is my new car!' Once that is his new car, Nagiyev makes sure Katya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'And what if I had been sitting inside?' Nagiyev asks whether what if he had been sitting inside, refusing to let the point slide.
+- 'That old man had a real grenade!' Max insists that that old man had a real grenade, leaving Katya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Catch these bandits quickly!' Telling Katya to catch these bandits quickly is Nagiyev's blunt reaction in front of Katya. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'They are the ones who caused the explosion here!' Nagiyev declares that they are the ones who caused the explosion here as the tension in the room peaks.
+- 'Katya, what if the landlady comes back again?' Questioning whether what if the landlady comes back again is how Max tests Katya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'It is your apartment and your problems.' Noting that it is Max's apartment and Max's problems keeps Katya's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well stay for at least a couple of hours.' Staying for at least a couple of hours is how Max lays out the situation for Katya.
+- 'I almost got in trouble because of you too.' Admitting that she almost got in trouble because of Max shows Katya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You said yourself that we are even.' Saying that Max said themselves that they are even is how Katya sets the tone with Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Katya, wait a moment, do not leave right now.' Once a moment do not leave right now, Max can finally tell Katya what he means.

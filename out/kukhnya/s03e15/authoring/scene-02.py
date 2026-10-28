@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s03e15-scene-02.
 ID = 'kukhnya-s03e15-scene-02'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 2
 TITLE = "Кулинарный спор Нагиева  (Nagiyev's Culinary Bet)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "guest": "anja", "nagiyev": "angelina", "anya": "alisa"}
-LABELS = {"guest": "Гость", "nagiyev": "Нагиев", "anya": "Макс"}
+LABELS = {'guest': 'Гость', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
-
 INTRO = 'When the restaurateur claims that management is everything and any fool can cook, Nagiyev boasts about his army kitchen days and bets thirty thousand dollars that he can personally cook baked rabbit in almond sauce with truffles by tonight! Listen first.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Nagiyev just shook hands on cooking a complex gourmet rabbit dish by tonight—without knowing the first thing about French cuisine! Next, let's visit Max, Kostya, and Nastya at home. See you next time!"
+CLOSING = ('nagiyev', 'Увидимся!')
 STORY = [
     ('guest', 'Я тебя умоляю, главное в ресторане — управление!', 'I beg you, the main thing in a restaurant is management!', [(17, 'Я тебя умоляю'), (18, 'Главное управление')], 'adapted'),
     ('guest', 'Состряпать еду каждый дурак может, даже я.', 'Any fool can whip up food, even I can.', [(19, 'Состряпать каждый дурак может. Даже я')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nagiyev', 'Я тебе обещаю, старик, блюдо будет отличное!', 'I promise you, old pal, the dish will be excellent!', [(30, 'Я тебе обещаю, старик')], 'adapted'),
     ('guest', 'Отлично, тогда договорились, по рукам!', 'Great, then it is a deal, shake on it!', [(31, 'По рукам')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'I beg you, the main thing in a restaurant is management!' Notice how Russian expresses 'I' and 'management' with crisp inflection rather than helper words."),
-    (1, None, "'Any fool can whip up food, even I can.' Here the Russian phrasing highlights 'to whip up' before landing on 'I'. Dmitry Nagiyev answers right away."),
-    (2, None, "'Any fool can whip something up, but try to actually cook!' Notice how Russian expresses 'to whip up' and 'to prepare' with crisp inflection rather than helper words."),
-    (3, None, "'Believe me, I know what I am talking about!' The meaning hinges on 'believe' working together with 'speak' in spoken Russian."),
-    (4, None, "'What did you do there, just boil eggs?' Notice how Russian expresses 'what' and 'to boil' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away."),
-    (5, None, "'Let's you and I make a bet right now!' Here the Russian phrasing highlights 'and' before landing on 'let's make a bet'."),
-    (6, None, "'Rabbit baked under almond sauce with rosemary and truffles.' In Russian, the idea of 'rabbit' flows naturally into 'with truffles' without extra filler words."),
-    (7, None, "'Try to cook a dish like that yourself by evening!' Spoken Russian keeps this brisk, leaning on 'taste' and finishing on 'evening'. Dmitry Nagiyev answers right away."),
-    (8, None, "'When you die, not a single germ will be left on you.' Spoken Russian keeps this brisk, leaning on 'when' and finishing on 'remains'."),
-    (9, None, "'I hope I do not die from your dish!' An emphatic spoken line centered on the verb meaning 'hope'."),
-    (10, None, "'I promise you, old pal, the dish will be excellent!' Notice how Russian expresses 'I' and 'excellent' with crisp inflection rather than helper words. the guest answers right away."),
-    (11, None, "'Great, then it is a deal, shake on it!' Notice how Russian puts 'perfectly' and 'hand; arm' together in a short, direct phrase where word endings show how the ideas connect."),
+    (0, None, '\'I beg you, the main thing in a restaurant is management!\' Because he begs Nagiyev the main thing in a restaurant is management, the guest does not bother softening the blow for Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (1, None, "'Any fool can whip up food, even I can.' Realizing that any fool can whip up food even he can changes how the guest handles the situation."),
+    (2, None, "'Any fool can whip something up, but try to actually cook!' Once any fool can whip something up but try to actually cook, Nagiyev makes sure the guest hears every word."),
+    (3, None, "'Believe me, I know what I am talking about!' Here believing him he knows what he is talking lets Nagiyev's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (4, None, '\'What did you do there, just boil eggs?\' Wondering what Nagiyev does there just boil eggs cuts straight through the tension between the guest and Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (5, None, "'Let's you and I make a bet right now!' Because they should you and he makes a bet right now, Nagiyev does not bother softening the blow for the guest."),
+    (6, None, "'Rabbit baked under almond sauce with rosemary and truffles.' Over the work and the bet, the guest answers Nagiyev without a second thought."),
+    (7, None, "'Try to cook a dish like that yourself by evening!' By trying to cook a dish like that themselves by evening, the guest raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (8, None, "'When you die, not a single germ will be left on you.' Nagiyev tells the guest that when the guest dies not a single germ will be left on the guest without dressing it up."),
+    (9, None, "'I hope I do not die from your dish!' Because he hopes he does not die from Nagiyev's dish, the guest does not bother softening the blow for Nagiyev. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (10, None, '\'I promise you, old pal, the dish will be excellent!\' Because he promises the guest old pal the dish will be excellent, Nagiyev does not bother softening the blow for the guest. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (11, None, "'Great, then it is a deal, shake on it!' The guest insists that great then it is a deal shake on it, leaving Nagiyev no room to argue."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev just shook hands on cooking a complex gourmet rabbit dish by tonight—without knowing the first thing about French cuisine! Next, let's visit Max, Kostya, and Nastya at home. See you next time!"
-CLOSING = ("nagiyev", "Увидимся!")

@@ -7,30 +7,29 @@ SCENE = 21
 TITLE = 'Le double artistique  (The Artistic Double)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At the ASK anniversary party, Andrea and Gabriel face furious questions about Isabelle Huppert's secret schedule. To defuse the accusations, Andrea and Gabriel explain that director Cedric Kahn hired an artistic double to create a poetic ghost. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
 OUTRO = "Armed with an artistic explanation, Andrea and Gabriel head toward the screening room to convince the American producers. When you watch the episode, listen out for the expressions meaning 'producers' and 'American'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('gabriel', 'Les producteurs américains posent des questions.', 'The American producers are asking questions.', [(1018, 'de quoi vous nous accusiez')], ''),
-    ('lea', "Ils pensent qu'Isabelle a triché?", 'Do they think that Isabelle cheated?', [(1020, 'Isabelle Huppert ne pouvait pas tourner')], ''),
+    ('andrea', "Ils pensent qu'Isabelle a triché?", 'Do they think that Isabelle cheated?', [(1020, 'Isabelle Huppert ne pouvait pas tourner')], ''),
     ('gabriel', 'Ils ont vu le tournage nocturne.', 'They saw the night shoot.', [(1031, 'tournage de Marie de Médicis')], ''),
-    ('lea', 'Isabelle était au mariage de son fils!', 'Isabelle was at her son', [(1022, 'mariage de son fils')], ''),
+    ('andrea', 'Isabelle était au mariage de son fils!', 'Isabelle was at her son', [(1022, 'mariage de son fils')], ''),
     ('gabriel', "Il s'agit d'un énorme malentendu.", 'This is a huge misunderstanding.', [(1028, 'énorme malentendu')], ''),
-    ('lea', 'Cédric Kahn a utilisé un double.', 'Cedric Kahn used a double.', [(1073, 'vrai double de son actrice')], ''),
+    ('andrea', 'Cédric Kahn a utilisé un double.', 'Cedric Kahn used a double.', [(1073, 'vrai double de son actrice')], ''),
     ('gabriel', 'Une doublure pour créer un fantôme.', 'A stand-in to create a ghost.', [(1072, 'créer un fantôme')], ''),
-    ('lea', "C'est une idée poétique et surréaliste!", 'It is a poetic, surrealist idea!', [(1075, 'poétique'), (1076, 'surréaliste')], ''),
+    ('andrea', "C'est une idée poétique et surréaliste!", 'It is a poetic, surrealist idea!', [(1075, 'poétique'), (1076, 'surréaliste')], ''),
     ('gabriel', 'En France, nous avons des idées.', 'In France, we have ideas.', [(1070, 'on a des idées')], ''),
-    ('lea', 'Les Américains veulent voir les images.', 'The Americans want to see footage.', [(1079, 'images de tout ça')], ''),
+    ('andrea', 'Les Américains veulent voir les images.', 'The Americans want to see footage.', [(1079, 'images de tout ça')], ''),
     ('gabriel', 'Le premier montage est dans le bureau.', 'The first cut is in the office.', [(1083, "D'ici")], ''),
-    ('lea', 'Allons leur montrer ce beau film.', 'Let us go show them this fine film.', [(1101, 'Allez, on accouche')], ''),
+    ('andrea', 'Allons leur montrer ce beau film.', 'Let us go show them this fine film.', [(1101, 'Allez, on accouche')], ''),
     ('gabriel', 'Espérons que le résultat soit convaincant.', 'Let us hope the result is convincing.', [(1085, 'petit peu délicat')], ''),
-    ('lea', 'Notre agence sauvera ce projet important.', 'Our agency will save this important project.', [(1096, 'très important')], ''),
+    ('andrea', 'Notre agence sauvera ce projet important.', 'Our agency will save this important project.', [(1096, 'très important')], ''),
 ]
 WALK = [
     (0, None, "'The American producers are asking questions.' Gabriel warns of incoming scrutiny. The descriptive adjective for 'American' agrees in gender and number with its noun."),

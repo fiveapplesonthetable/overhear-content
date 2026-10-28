@@ -1,41 +1,43 @@
-# Секрет шефа  (The Chef's Secret) — `kukhnya-s01e20-scene-11`
+# kukhnya-s01e20-scene-11: review sheet
 
-**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Секрет шефа  (The Chef's Secret)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.20
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `nagiyev` | angelina | Нагиев |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> The restaurant owner calls the Chef to his table and tells him that he is now very famous. They talk about the video on the internet, which has many views. The Chef is very surprised by this news.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Нагиев | Посмотри на это видео. | Look at this video. | #154 "Ах ты красавица." |  |
-| 1 | Шеф | Я не понимаю. Я уволен? | I don't understand. Am I fired? | *(added)* |  |
-| 2 | Нагиев | Нет, ты звезда! | No, you are a star! | *(added)* |  |
-| 3 | Шеф | Почему я звезда? | Why am I a star? | *(added)* |  |
-| 4 | Нагиев | У видео миллион просмотров. | The video has a million views. | *(added)* |  |
-| 5 | Нагиев | Все хотят видеть вас. | Everyone wants to see you. | *(added)* |  |
-| 6 | Шеф | У нас много гостей? | Do we have many guests? | *(added)* |  |
-| 7 | Нагиев | Да, все столики заняты. | Yes, all tables are taken. | *(added)* |  |
-| 8 | Нагиев | Ты очень популярен сейчас. | You are very popular now. | *(added)* |  |
-| 9 | Шеф | Значит, я могу работать дальше? | So, can I work further? | *(added)* |  |
-| 10 | Нагиев | Конечно! Иди на кухню. | Of course! Go to the kitchen. | *(added)* |  |
-| 11 | Шеф | Спасибо, я пойду работать. | Thank you, I will go work. | *(added)* |  |
-| 12 | Нагиев | Жду вкусный обед сегодня. | I expect a tasty lunch today. | *(added)* |  |
-| 13 | Шеф | Будет сделано, мой босс. | It will be done, my boss. | *(added)* |  |
+| 1 | Нагиев | Посмотри на это видео. | Look at this video. | #154: Ах ты красавица. | verbatim |
+| 2 | Шеф | Я не понимаю. Я уволен? | I don't understand. Am I fired? | new | new |
+| 3 | Нагиев | Нет, ты звезда! | No, you are a star! | new | new |
+| 4 | Шеф | Почему я звезда? | Why am I a star? | new | new |
+| 5 | Нагиев | У видео миллион просмотров. | The video has a million views. | new | new |
+| 6 | Вика | Все хотят видеть вас. | Everyone wants to see you. | new | new |
+| 7 | Шеф | У нас много гостей? | Do we have many guests? | new | new |
+| 8 | Вика | Да, все столики заняты. | Yes, all tables are taken. | new | new |
+| 9 | Нагиев | Ты очень популярен сейчас. | You are very popular now. | new | new |
+| 10 | Шеф | Значит, я могу работать дальше? | So, can I work further? | new | new |
+| 11 | Нагиев | Конечно! Иди на кухню. | Of course! Go to the kitchen. | new | new |
+| 12 | Шеф | Спасибо, я пойду работать. | Thank you, I will go work. | new | new |
+| 13 | Нагиев | Жду вкусный обед сегодня. | I expect a tasty lunch today. | new | new |
+| 14 | Шеф | Будет сделано, мой босс. | It will be done, my boss. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> The Chef is very happy that he is not fired. He goes back to the kitchen to cook food for all the new guests. Next time you watch the episode, listen for the Russian expressions for 'to have a look' and 'video' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'Look at this video.' Nagiyev leads with the direct command form meaning 'look', followed by 'video'.
+- 'I don't understand. Am I fired?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'understand', followed by 'fired'.
+- 'No, you are a star!' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'a star'.
+- 'Why am I a star?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'a star', combining 'why' with 'a star'.
+- 'The video has a million views.' Russian omits the present-tense verb 'to be' here, linking 'video' directly with 'a million', combining 'video' with 'a million' and 'views'.
+- 'Everyone wants to see you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Do we have many guests?' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'a lot' with 'guests'.
+- 'Yes, all tables are taken.' Russian omits the present-tense verb 'to be' here, linking 'tables' directly with 'busy', combining 'tables' with 'busy'.
+- 'You are very popular now.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'popular', combining 'very much' with 'popular' and 'now'.
+- 'So, can I work further?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'then', pairing it with 'can' and 'to work'.
+- 'Of course! Go to the kitchen.' Nagiyev leads with the direct command form meaning 'go', pairing it with 'of course' and 'kitchen'.
+- 'Thank you, I will go work.' Chef Barinov expresses this naturally by combining the word for 'thank you' with 'go' and 'to work'.
+- 'I expect a tasty lunch today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'It will be done, my boss.' Chef Barinov chooses the action verb meaning 'will be' for the ongoing action, followed by 'made' and 'boss'.

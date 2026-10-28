@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 9
-TITLE = "Девушка в зеленом  (The Girl in Green)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Девушка в зеленом  (The Girl in Green)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "ilya": "anja", "nastya": "angelina"}
-LABELS = {"ilya": "Илья", "nastya": "Настя"}
+LABELS = {'ilya': 'Илья', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Ilya is looking for someone in the restaurant. He asks Nastya if she has seen a specific girl, but Nastya is confused by his question. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Let's review the conversation line by line."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the girl in green, and for the words meaning 'was' and 'girlfriend'. You'll catch them now. See you next time."
-CLOSING = ("ilya", "До встречи!")
+CLOSING = ('ilya', 'До встречи!')
 STORY = [
     ('ilya', 'Привет.', 'Hi.', [], ''),
     ('nastya', 'Привет, Илья.', 'Hi, Ilya.', [], ''),

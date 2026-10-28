@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 20
-TITLE = "Разоблачение  (The Exposure)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Разоблачение  (The Exposure)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina"}
-LABELS = {"nagiyev": "Нагиев"}
+LABELS = {'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Focused on the exposure, Nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Let's listen closely to Vika and Dmitry Nagiyev's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Exposure line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
-    ('nagiyev', 'Доброе утро, Дмитрий Владимирович.', 'Good morning, Dmitry Vladimirovich.', [(280, 'дмитрий')], ''),
+    ('vika', 'Доброе утро, Дмитрий Владимирович.', 'Good morning, Dmitry Vladimirovich.', [(280, 'дмитрий')], ''),
     ('nagiyev', 'Пожалуй, добрый день, Вика.', 'I would say it is afternoon, Vika.', [], ''),
     ('nagiyev', 'Почему, Вик, на выставку не улетели?', "Why didn't you fly out to the exhibition?", [(280, 'вик')], ''),
-    ('nagiyev', 'Так ее же отменили.', 'It was cancelled.', [(283, 'так')], ''),
-    ('nagiyev', 'Я звонила своим друзьям.', 'I called my contacts.', [(273, 'звонила')], ''),
+    ('vika', 'Так ее же отменили.', 'It was cancelled.', [(283, 'так')], ''),
+    ('vika', 'Я звонила своим друзьям.', 'I called my contacts.', [(273, 'звонила')], ''),
     ('nagiyev', 'Вам же звонил там какой-то предприниматель.', 'Some businessman called you, right?', [(274, 'вам')], ''),
-    ('nagiyev', 'Какой?', 'Who?', [(274, 'какой')], ''),
-    ('nagiyev', 'Да, звонил.', 'Yeah, he called.', [(274, 'звонил')], ''),
+    ('vika', 'Какой?', 'Who?', [(274, 'какой')], ''),
+    ('vika', 'Да, звонил.', 'Yeah, he called.', [(274, 'звонил')], ''),
     ('nagiyev', 'Сейчас скажем.', "Let's see.", [(276, 'сейчас')], ''),
     ('nagiyev', 'Александр Дель Пьеро.', 'Alexander Del Piero.', [(276, 'александр')], ''),
-    ('nagiyev', 'Сказал, что выставка отменяется.', 'He said the exhibition was cancelled.', [(277, 'сказал')], ''),
+    ('vika', 'Сказал, что выставка отменяется.', 'He said the exhibition was cancelled.', [(277, 'сказал')], ''),
     ('nagiyev', 'С московского телефона звонят?', 'Was it a call from a Moscow number?', [(278, 'московского')], ''),
     ('nagiyev', 'Да, вот номер.', 'Yeah, here is the number.', [(279, 'вот')], ''),
     ('nagiyev', 'Набирайте.', 'Call it.', [(279, 'набирайте')], ''),

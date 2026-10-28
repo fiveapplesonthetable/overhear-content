@@ -7,7 +7,6 @@ SCENE = 16
 TITLE = 'La dame de France 2  (The France 2 Lady)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elisabeth': 'emilie', 'gabriel': 'theo', 'guy': 'marcel'}
 LABELS = {'elisabeth': 'Élisabeth', 'gabriel': 'Gabriel', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Саша | Слушай, ну погоди, погоди, стой. | Listen, wait a second, hold on, stop. | #268 00:18:08: Слушай, ну погоди, погоди, стой | verbatim |
-| 2 | Аня | Но я все решу. | I will sort everything out. | #269 00:18:10: но я все решу | verbatim |
-| 3 | Саша | Правда. Ладно? | Really. Okay? | #270 00:18:14: Правда. Ладно | verbatim |
-| 4 | Аня | Ну, что ты надумала-то? | Well, what have you decided? | #273 00:18:32: Ну, что ты надумала-то | verbatim |
-| 5 | Саша | Так что давай, возвращайся, все хорошо. | So go on, move back in, everything is fine. | #276 00:18:40: Так что давай, возвращайся, все хорошо | verbatim |
-| 6 | Аня | Но я все-таки решила переехать. | Still, I have decided to move out. | #277 00:18:43: но я все-таки решила переехать | verbatim |
-| 7 | Саша | Ой, ну смотри. | Oh, well, up to you. | #278 00:18:49: Ой, ну смотри | verbatim |
-| 8 | Аня | Чего звоню? | Why am I calling? | #279 00:18:50: чего звоню | verbatim |
-| 9 | Саша | Там на днях приходил молодой человек. | A young man came by here the other day. | #280 00:18:52: Там на днях приходил молодой человек | verbatim |
-| 10 | Аня | Про вас спрашивала. | He was asking about you. | #281 00:18:57: Про вас спрашивала | verbatim |
-| 11 | Саша | Мне он каким-то подозрительным показался. | He seemed rather suspicious to me. | #282 00:18:58: Мне он каким-то подозрительным показался | verbatim |
-| 12 | Аня | Вам это ни к чему все. | You do not need to worry about any of this. | #285 00:19:09: Вам это ни к чему все | verbatim |
-| 13 | Саша | Ну все, до свидания. | All right then, goodbye. | #287 00:19:16: Ну все, до свидания | verbatim |
+| 1 | Саша | Слушай, ну погоди, погоди, стой. | Listen, wait a second, hold on, stop. | #268: Слушай, ну погоди, погоди, стой | verbatim |
+| 2 | Макс | Но я все решу. | I will sort everything out. | #269: но я все решу | verbatim |
+| 3 | Саша | Правда. Ладно? | Really. Okay? | #270: Правда. Ладно | verbatim |
+| 4 | Макс | Ну, что ты надумала-то? | Well, what have you decided? | #273: Ну, что ты надумала-то | verbatim |
+| 5 | Саша | Так что давай, возвращайся, все хорошо. | So go on, move back in, everything is fine. | #276: Так что давай, возвращайся, все хорошо | verbatim |
+| 6 | Саша | Но я все-таки решила переехать. | Still, I have decided to move out. | #277: но я все-таки решила переехать | verbatim |
+| 7 | Саша | Ой, ну смотри. | Oh, well, up to you. | #278: Ой, ну смотри | verbatim |
+| 8 | Макс | Чего звоню? | Why am I calling? | #279: чего звоню | verbatim |
+| 9 | Саша | Там на днях приходил молодой человек. | A young man came by here the other day. | #280: Там на днях приходил молодой человек | verbatim |
+| 10 | Макс | Про вас спрашивала. | He was asking about you. | #281: Про вас спрашивала | verbatim |
+| 11 | Саша | Мне он каким-то подозрительным показался. | He seemed rather suspicious to me. | #282: Мне он каким-то подозрительным показался | verbatim |
+| 12 | Макс | Вам это ни к чему все. | You do not need to worry about any of this. | #285: Вам это ни к чему все | verbatim |
+| 13 | Саша | Ну все, до свидания. | All right then, goodbye. | #287: Ну все, до свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, wait a second, hold on, stop.' Here the Russian phrasing highlights 'listen' before landing on 'stop'. Max answers right away.
-- 'I will sort everything out.' The grammar packs 'but' and 'I'll solve' into a tight, idiomatic kitchen exchange.
-- 'Really. Okay?' Sasha anchors the line on 'honestly', while 'really?!' completes the thought.
-- 'Well, what have you decided?' In Russian, the idea of 'come on' flows naturally into 'to think up' without extra filler words. Sasha answers right away.
-- 'So go on, move back in, everything is fine.' The grammar packs 'like this' and 'fine' into a tight, idiomatic kitchen exchange.
-- 'Still, I have decided to move out.' Max brings out the contrast between 'but' and 'I' in a few short words.
-- 'Oh, well, up to you.' Sasha anchors the line on 'oh no', while 'look' completes the thought. Max answers right away.
-- 'Why am I calling?' In Russian, the idea of 'why' flows naturally into 'call' without extra filler words.
-- 'A young man came by here the other day.' Here the Russian phrasing highlights 'there' before landing on 'man'.
-- 'He was asking about you.' Notice how Russian expresses 'about' and 'to ask' with crisp inflection rather than helper words. Sasha answers right away.
-- 'He seemed rather suspicious to me.' In everyday Russian, 'suspicious' flows straight into 'to seem, appear' without extra linking words.
-- 'You do not need to worry about any of this.' Max anchors the line on 'for you', while 'all' completes the thought.
-- 'All right then, goodbye.' The meaning hinges on 'come on' working together with 'meeting' in spoken Russian.
+- 'Listen, wait a second, hold on, stop.' With the call and hospital in play, Sasha keeps this short reply brisk and direct.
+- 'I will sort everything out.' Pointing out that he will sort everything out gives Sasha a sobering reality check.
+- 'Really. Okay?' With the apartment and conversation hanging in the air, Sasha puts Max on the spot.
+- 'Well, what have you decided?' When Max asks if what have Sasha decided, Sasha has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'So go on, move back in, everything is fine.' Telling Max to go on move back in everything is fine is how Sasha lays out the situation for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Still, I have decided to move out.' Even though still she has decided to move out, Sasha keeps a steady face in front of Max.
+- 'Oh, well, up to you.' With the call and work in play, Sasha keeps this short reply brisk and direct.
+- 'Why am I calling?' Over the money and the conversation, Max presses Sasha for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'A young man came by here the other day.' Once a young man came by here the other day, Sasha can finally tell Max what she means.
+- 'He was asking about you.' Adding that he was asking about Sasha fills in the missing piece for Sasha. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'He seemed rather suspicious to me.' Between the hospital and the kitchen, Sasha gives Max a quick, grounded response.
+- 'You do not need to worry about any of this.' Since Sasha does not need to worry about any of this, Max does not waste words on excuses.
+- 'All right then, goodbye.' Around the hospital and conversation, Sasha sets a calm, everyday tone with Max.

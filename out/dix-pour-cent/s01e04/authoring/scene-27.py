@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = 'Vingt mille euros  (Twenty Thousand Euros)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "So she secretly went to the Russian billionaire Kadropov's birthday party for twenty thousand euros — and the paparazzi took photos. After Andréa shows the magazines at the agency, Mathias goes straight to Audrey's flat. Here it is in French first. Don't worry about catching every word. Let's listen to the scene in French first."
@@ -17,9 +16,9 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Mathias and Audrey forgive each other, and now Mathias has to find a way to save Audrey's image after the Kadropov photos. Notice how French uses 'to find' to say what you think of someone: 'you find me beautiful?'. See you next time!"
 CLOSING = ('audrey', 'À demain!')
 STORY = [
-    ('lea', "Regardez! C'est dans tous les journaux.", 'Look! It', [(703, 'Regardez')], ''),
-    ('lea', 'Audrey est allée à la fête de Kadropov pour vingt mille euros!', 'Audrey went to Kadropov', [(699, 'Audrey'), (699, 'euros')], ''),
-    ('lea', "Ce n'est pas possible! Tu t'en occupes, Mathias?", 'That', [(700, 'pas possible'), (714, "Tu t'en occupes")], ''),
+    ('andrea', "Regardez! C'est dans tous les journaux.", 'Look! It', [(703, 'Regardez')], ''),
+    ('andrea', 'Audrey est allée à la fête de Kadropov pour vingt mille euros!', 'Audrey went to Kadropov', [(699, 'Audrey'), (699, 'euros')], ''),
+    ('andrea', "Ce n'est pas possible! Tu t'en occupes, Mathias?", 'That', [(700, 'pas possible'), (714, "Tu t'en occupes")], ''),
     ('audrey', "Mathias! Il m'avait promis le secret.", 'Mathias! He had promised me secrecy.', [(715, 'Mathias'), (716, "Il m'avait promis")], ''),
     ('mathias', 'Si Kadropov sort avec toi, il le dit à tout le monde!', 'If Kadropov goes out with you, he tells everyone!', [(720, 'Si Kadropov sort avec une'), (721, 'tout le monde')], ''),
     ('audrey', 'Tu me trouves belle?', 'Do you think I', [(722, 'Tu me trouves belle')], ''),

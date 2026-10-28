@@ -8,14 +8,10 @@
  "scene": 6,
  "title": "Неожиданный визит Нагиева  (Nagiyev's Unexpected Visit)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "vika": "angelina",
-  "anya": "alisa"
- },
  "labels": {
-  "vika": "Вика",
-  "anya": "Макс"
+  "max": "Макс",
+  "nagiyev": "Нагиев",
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -29,7 +25,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "У тебя утром встреча с начальством?",
    "gap": 0.55
   },
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Доброе утро вам.",
    "gap": 0.55
   },
@@ -59,12 +55,12 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Ну что, дорогая Виктория Сергеевна.",
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Мы же с тобой договаривались, да?",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Я решил заехать за коллегой и подвезти на работу.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Там в дверь кто-то звонит.",
    "gap": 0.9
   },
@@ -95,17 +91,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Come on, get up quickly and get dressed.' Notice how Russian expresses 'come on' and 'get dressed' with crisp inflection rather than helper words. Max answers right away.",
+   "t": "'Come on, get up quickly and get dressed.' Telling Max to come on get up quickly and get dressed is how Vika lays out the situation for Max. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\".",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "У тебя утром встреча с начальством?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do you have a meeting with the boss in the morning?' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'management'.",
+   "t": "'Do you have a meeting with the boss in the morning?' Here checking whether Nagiyev has a meeting with the boss in the morning shows Max looking for the real truth.",
    "gap": 0.4
   },
   {
@@ -115,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Please, just disappear from here quickly.' The meaning hinges on 'please' working together with 'from here' in spoken Russian.",
+   "t": "'Please, just disappear from here quickly.' Over the visit and the restaurant, Vika answers Max without a second thought.",
    "gap": 0.4
   },
   {
@@ -125,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I do not want him to see you here in this state.' Vika brings out the contrast between 'I' and 'not' in a few short words. Max answers right away.",
+   "t": "'I do not want him to see you here in this state.' Noting that she does not want him to see Max here in this state keeps Vika's side of the story simple and clear. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Доброе утро вам.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Good morning to you.' Max brings out the contrast between 'good' and 'morning' in a few short words.",
+   "t": "'Good morning to you.' With the visit and shift in play, Max keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
@@ -145,7 +141,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Quiet, that is Dima calling right now.' Here the Russian phrasing highlights 'quiet' before landing on 'is calling'.",
+   "t": "'Quiet, that is Dima calling right now.' Adding that quiet that is Dima calling right now fills in the missing piece for Max. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -155,27 +151,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Hello, dear Dmitry Vladimirovich.' Vika brings out the contrast between 'hello' and 'esteemed' in a few short words. Dmitry Nagiyev answers right away.",
+   "t": "'Hello, dear Dmitry Vladimirovich.' Turning from the visit to the work, Vika keeps the exchange moving.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Ну что, дорогая Виктория Сергеевна.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well then, dear Victoria Sergeyevna.' Dmitry Nagiyev anchors the line on 'come on', while 'dear' completes the thought.",
+   "t": "'Well then, dear Victoria Sergeyevna.' Over the visit and the truth, Nagiyev answers Max without a second thought.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Мы же с тобой договаривались, да?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You and I had an agreement, right?' The grammar packs 'we' and 'yes' into a tight, idiomatic kitchen exchange.",
+   "t": "'You and I had an agreement, right?' Questioning whether Max and he had an agreement right is how Nagiyev tests Max's story. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -185,27 +181,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Hello, Dima.' The meaning hinges on 'hello' working together with 'Dima' in spoken Russian. Dmitry Nagiyev answers right away.",
+   "t": "'Hello, Dima.' With the apartment and conversation in play, Vika keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Я решил заехать за коллегой и подвезти на работу.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I decided to pick up my colleague and give her a ride to work.' Here the Russian phrasing highlights 'I' before landing on 'work'.",
+   "t": "'I decided to pick up my colleague and give her a ride to work.' Because he decided to pick up his colleague and give her a ride to work, Nagiyev treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Там в дверь кто-то звонит.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Someone is ringing the doorbell there.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'is calling'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Someone is ringing the doorbell there.' Explaining that someone is ringing the doorbell there lays the cards on the table for Nagiyev. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -214,7 +210,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "У тебя утром встреча с начальством?",
    "gap": 0.5
   },
@@ -229,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Доброе утро вам.",
    "gap": 0.5
   },
@@ -244,12 +240,12 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Ну что, дорогая Виктория Сергеевна.",
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Мы же с тобой договаривались, да?",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nagiyev",
    "t": "Я решил заехать за коллегой и подвезти на работу.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Там в дверь кто-то звонит.",
    "gap": 0.9
   },

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Думаешь, этот хитрый план сработает? | Do you think this clever plan will work? | #215 00:15:02: сработает? Конечно, сработает | adapted: adapted |
-| 2 | Шеф | Откуда у него такие большие деньги? | Where would he get that kind of big money? | #216 00:15:04: Откуда у него бабки такие | adapted: adapted |
-| 3 | Шеф | Вернёт он тебе это старое меню. | He will bring that old menu back to you. | #217 00:15:05: Вернет он тебе это старое меню | adapted: adapted |
-| 4 | Настя | Костик, я сейчас отлучусь ненадолго. | Kostik, I am stepping out for a little while now. | #218 00:15:16: Костик, я отлучусь ненадолго | adapted: adapted |
-| 5 | Настя | У Никиты я уже сама отпросилась. | I already asked Nikita for time off myself. | #219 00:15:18: У Никиты я отпросилась | adapted: adapted |
-| 6 | Шеф | Ты куда это собралась, Настя? | Where are you heading off to, Nastya? | #220 00:15:21: Ты куда, Настя | adapted: adapted |
-| 7 | Шеф | Витя, деньги нам нужны уже завтра. | Vitya, we need the money tomorrow already. | #222 00:15:30: Деньги нужны завтра | adapted: adapted |
-| 8 | Шеф | Ясно, я тебя прекрасно услышал. | Clear, I heard you loud and clear. | #223 00:15:32: Ясно | adapted: adapted |
-| 9 | Шеф | Что, у тебя совсем нет денег? | What, do you have no money at all? | #224 00:15:35: Что, проблемы? Вообще ноль | adapted: adapted |
-| 10 | Шеф | Да нет, есть как раз миллион. | Actually no, I have a million right there. | #225 00:15:37: Да нет, есть как раз миллион | adapted: adapted |
-| 11 | Шеф | Мы его с Леной на свадьбу откладывали. | Lena and I were saving it for our wedding. | #226 00:15:40: Мы его с Леной на свадьбу откладывали | adapted: adapted |
-| 12 | Шеф | Я бы тебе обязательно помог, друг. | I would definitely help you, my friend. | #227 00:15:43: Не, ну я бы помог, конечно | adapted: adapted |
+| 1 | Шеф | Думаешь, этот хитрый план сработает? | Do you think this clever plan will work? | #215: сработает? Конечно, сработает | adapted: adapted |
+| 2 | Михаил | Откуда у него такие большие деньги? | Where would he get that kind of big money? | #216: Откуда у него бабки такие | adapted: adapted |
+| 3 | Михаил | Вернёт он тебе это старое меню. | He will bring that old menu back to you. | #217: Вернет он тебе это старое меню | adapted: adapted |
+| 4 | Настя | Костик, я сейчас отлучусь ненадолго. | Kostik, I am stepping out for a little while now. | #218: Костик, я отлучусь ненадолго | adapted: adapted |
+| 5 | Настя | У Никиты я уже сама отпросилась. | I already asked Nikita for time off myself. | #219: У Никиты я отпросилась | adapted: adapted |
+| 6 | Шеф | Ты куда это собралась, Настя? | Where are you heading off to, Nastya? | #220: Ты куда, Настя | adapted: adapted |
+| 7 | Михаил | Витя, деньги нам нужны уже завтра. | Vitya, we need the money tomorrow already. | #222: Деньги нужны завтра | adapted: adapted |
+| 8 | Шеф | Ясно, я тебя прекрасно услышал. | Clear, I heard you loud and clear. | #223: Ясно | adapted: adapted |
+| 9 | Михаил | Что, у тебя совсем нет денег? | What, do you have no money at all? | #224: Что, проблемы? Вообще ноль | adapted: adapted |
+| 10 | Шеф | Да нет, есть как раз миллион. | Actually no, I have a million right there. | #225: Да нет, есть как раз миллион | adapted: adapted |
+| 11 | Шеф | Мы его с Леной на свадьбу откладывали. | Lena and I were saving it for our wedding. | #226: Мы его с Леной на свадьбу откладывали | adapted: adapted |
+| 12 | Михаил | Я бы тебе обязательно помог, друг. | I would definitely help you, my friend. | #227: Не, ну я бы помог, конечно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you think this clever plan will work?' The meaning hinges on 'think' working together with 'will work' in spoken Russian.
-- 'Where would he get that kind of big money?' Mikhail anchors the line on 'where from', while 'money' completes the thought.
-- 'He will bring that old menu back to you.' Mikhail brings out the contrast between 'will reimburse' and 'he' in a few short words.
-- 'Kostik, I am stepping out for a little while now.' In Russian, the idea of 'I' flows naturally into 'for a short time' without extra filler words.
-- 'I already asked Nikita for time off myself.' The grammar packs 'at' and 'asked for time off' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
-- 'Where are you heading off to, Nastya?' Here the Russian phrasing highlights 'you' before landing on 'Nastya'.
-- 'Vitya, we need the money tomorrow already.' Mikhail brings out the contrast between 'money' and 'us' in a few short words.
-- 'Clear, I heard you loud and clear.' Chef Barinov anchors the line on 'clear', while 'heard' completes the thought. Mikhail answers right away.
-- 'What, do you have no money at all?' In Russian, the idea of 'what' flows naturally into 'money' without extra filler words.
-- 'Actually no, I have a million right there.' The meaning hinges on 'yes' working together with 'a million' in spoken Russian.
-- 'Lena and I were saving it for our wedding.' The plural past ending '-li' on the verb for 'were setting aside' covers a group or the polite 'you'. Mikhail answers right away.
-- 'I would definitely help you, my friend.' Mikhail brings out the contrast between 'I' and 'would' in a few short words.
+- 'Do you think this clever plan will work?' Here checking whether Mikhail thinks this clever plan will work shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Where would he get that kind of big money?' By asking where he get that kind of big money would, Mikhail presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'He will bring that old menu back to you.' Once he will bring that old menu back to Barinov, Mikhail can finally tell Barinov what he means.
+- 'Kostik, I am stepping out for a little while now.' Adding that someone she is stepping out for a little while now fills in the missing piece for Barinov.
+- 'I already asked Nikita for time off myself.' Nastya tells Barinov that she already asked Nikita for time off herself without dressing it up.
+- 'Where are you heading off to, Nastya?' By wondering where Mikhail heading off is, Barinov presses Mikhail for a straight answer.
+- 'Vitya, we need the money tomorrow already.' Needing the money tomorrow already moves the conversation forward without extra drama.
+- 'Clear, I heard you loud and clear.' Barinov reminds Mikhail that clear he heard Mikhail loud and clear before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What, do you have no money at all?' Here wondering what Barinov has no money at all shows Mikhail looking for the real truth.
+- 'Actually no, I have a million right there.' Saying that he has a million right there is how Barinov sets the tone with Mikhail.
+- 'Lena and I were saving it for our wedding.' Barinov mentions that someone and he were saving it for their wedding so Mikhail sees what is at stake.
+- 'I would definitely help you, my friend.' Claiming that he would definitely help Barinov sounds confident, even if Barinov has doubts.

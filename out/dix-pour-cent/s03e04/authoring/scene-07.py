@@ -7,7 +7,6 @@ SCENE = 7
 TITLE = "L'invitation de Catherine  (Catherine's Invitation)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
 LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'

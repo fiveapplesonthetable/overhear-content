@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Костя, мне нужно отъехать за документами. | Kostya, I need to step out for some documents. | #242 00:14:37: Костя, мне нужно отъехать за документами | verbatim |
-| 2 | Настя | Кстати, скажи, а как твоя нога? | By the way, tell me, how is your leg? | #243 00:14:40: Кстати, как нога | adapted: adapted for A1 clarity |
-| 3 | Костя | Всё нормально, спасибо большое, Виктория Сергеевна. | Everything is fine, thank you very much, Viktoriya Sergeyevna. | #243 00:14:40: Нормально, спасибо | adapted: adapted for A1 clarity |
-| 4 | Настя | Костя, что случилось, что с ногой? | Kostya, what happened, what is wrong with your leg? | #244 00:14:49: Что случилось? Что с ногой | adapted: adapted for A1 clarity |
-| 5 | Костя | Да всё со мной нормально, Настя. | Everything is fine with me, Nastya. | #244 00:14:49: Все нормально | adapted: adapted for A1 clarity |
-| 6 | Настя | Как это нормально, я всё слышала! | What do you mean fine when I heard everything! | #245 00:14:51: Как нормально? Я все слышала | adapted: adapted for A1 clarity |
-| 7 | Настя | Не ври мне, не хочешь пугать? | Do not lie to me, you do not want to scare me? | #246 00:14:53: Не ври мне. Не хочешь меня пугать | adapted: adapted for A1 clarity |
-| 8 | Настя | Давай быстро показывай мне свою ногу! | Come on, show me your leg right now! | #247 00:14:56: Ногу показывай | adapted: adapted for A1 clarity |
-| 9 | Костя | Всё нормально, я же тебе говорю! | Everything is fine, I am telling you! | #250 00:15:31: Все нормально, я тебе говорю | adapted: adapted for A1 clarity |
-| 10 | Костя | У меня нет вообще никаких переломов. | I do not have any fractures at all. | #251 00:15:34: никаких переломов | adapted: adapted for A1 clarity |
-| 11 | Костя | Ты что, мне совсем не веришь? | What, do you not believe me at all? | #252 00:15:36: Ты что, мне не веришь? Смотри | adapted: adapted for A1 clarity |
-| 12 | Настя | Костя, так и знала, что врёшь! | Kostya, I knew you were lying to me! | #253 00:15:44: Костя, так и знала, что ты мне врешь | adapted: adapted for A1 clarity |
-| 13 | Настя | Ты сейчас же поедешь в больницу! | You are going to the hospital this instant! | #254 00:15:48: ты сейчас же поедешь в больницу | verbatim |
+| 1 | Вика | Костя, мне нужно отъехать за документами. | Kostya, I need to step out for some documents. | #242: Костя, мне нужно отъехать за документами | verbatim |
+| 2 | Вика | Кстати, скажи, а как твоя нога? | By the way, tell me, how is your leg? | #243: Кстати, как нога | adapted: adapted for A1 clarity |
+| 3 | Костя | Всё нормально, спасибо большое, Виктория Сергеевна. | Everything is fine, thank you very much, Viktoriya Sergeyevna. | #243: Нормально, спасибо | adapted: adapted for A1 clarity |
+| 4 | Настя | Костя, что случилось, что с ногой? | Kostya, what happened, what is wrong with your leg? | #244: Что случилось? Что с ногой | adapted: adapted for A1 clarity |
+| 5 | Костя | Да всё со мной нормально, Настя. | Everything is fine with me, Nastya. | #244: Все нормально | adapted: adapted for A1 clarity |
+| 6 | Настя | Как это нормально, я всё слышала! | What do you mean fine when I heard everything! | #245: Как нормально? Я все слышала | adapted: adapted for A1 clarity |
+| 7 | Настя | Не ври мне, не хочешь пугать? | Do not lie to me, you do not want to scare me? | #246: Не ври мне. Не хочешь меня пугать | adapted: adapted for A1 clarity |
+| 8 | Настя | Давай быстро показывай мне свою ногу! | Come on, show me your leg right now! | #247: Ногу показывай | adapted: adapted for A1 clarity |
+| 9 | Костя | Всё нормально, я же тебе говорю! | Everything is fine, I am telling you! | #250: Все нормально, я тебе говорю | adapted: adapted for A1 clarity |
+| 10 | Костя | У меня нет вообще никаких переломов. | I do not have any fractures at all. | #251: никаких переломов | adapted: adapted for A1 clarity |
+| 11 | Костя | Ты что, мне совсем не веришь? | What, do you not believe me at all? | #252: Ты что, мне не веришь? Смотри | adapted: adapted for A1 clarity |
+| 12 | Настя | Костя, так и знала, что врёшь! | Kostya, I knew you were lying to me! | #253: Костя, так и знала, что ты мне врешь | adapted: adapted for A1 clarity |
+| 13 | Настя | Ты сейчас же поедешь в больницу! | You are going to the hospital this instant! | #254: ты сейчас же поедешь в больницу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need to step out for some documents.' The prefix 'ot-' on 'drive' means 'to step out / drive off briefly'.
-- 'By the way, tell me, how is your leg?' Parenthetical 'kstati' ('by the way') brings up last night's cover story.
-- 'Everything is fine, thank you very much, Viktoriya Sergeyevna.' Remembering Max's phone call, Kostya answers smoothly.
-- 'Kostya, what happened, what is wrong with your leg?' Standing right behind the bar, Nastya drops her tray in alarm.
-- 'Everything is fine with me, Nastya.' Kostya cannot tell Nastya he lied to Vika without exposing Max!
-- 'What do you mean fine when I heard everything!' Feminine past 'slyshala' leaves Kostya nowhere to hide.
-- 'Do not lie to me, you do not want to scare me?' Nastya assumes her noble husband is hiding a painful injury so she won't worry.
-- 'Come on, show me your leg right now!' She marches him into the back room to inspect his ankle.
-- 'Everything is fine, I am telling you!' Kostya hops around on one foot while she pulls off his shoe.
-- 'I do not have any fractures at all.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'What, do you not believe me at all?' To prove his ankle is fine, Kostya jumps — and bangs his knee on a crate!
-- 'Kostya, I knew you were lying to me!' Seeing him wince in genuine pain, Nastya is 100% convinced his leg is broken.
-- 'You are going to the hospital this instant!' Particle 'zhe' after 'now' means 'this very instant'.
+- 'Kostya, I need to step out for some documents.' Vika mentions that she needs to step out for some documents so Kostya sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'By the way, tell me, how is your leg?' Vika asks whether tell her how is Kostya's leg, refusing to let the point slide.
+- 'Everything is fine, thank you very much, Viktoriya Sergeyevna.' Noting that everything is fine thank Nastya very much Viktoriya Sergeyevna keeps Kostya's side of the story simple and clear.
+- 'Kostya, what happened, what is wrong with your leg?' Wondering if what happened what is wrong with Kostya's leg shows Nastya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Everything is fine with me, Nastya.' Admitting that everything is fine with him shows Kostya being honest for a change.
+- 'What do you mean fine when I heard everything!' Because what do Kostya means fine when she heard everything, Nastya does not bother softening the blow for Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Do not lie to me, you do not want to scare me?' Asking whether not lie to her Kostya does not want to scare cuts straight through the tension between Nastya and Kostya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Come on, show me your leg right now!' Telling Kostya to come on show her Kostya's leg right now is Nastya's blunt reaction in front of Kostya.
+- 'Everything is fine, I am telling you!' Declaring that everything is fine he is telling Nastya brings Kostya's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I do not have any fractures at all.' Since he does not have any fractures at all, Kostya does not waste words on excuses. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'What, do you not believe me at all?' Wondering what Nastya not believe him at all cuts straight through the tension between Kostya and Nastya.
+- 'Kostya, I knew you were lying to me!' Nastya declares that she knew Kostya was lying as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'You are going to the hospital this instant!' Because Kostya is going to the hospital this instant, Nastya does not bother softening the blow for Kostya. Speaking with the close, informal "you" strips away any polite distance between them.

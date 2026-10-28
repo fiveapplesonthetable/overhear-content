@@ -1,34 +1,36 @@
-# domashniy-arest/s01e11/scene-36.py
-ID = "domashniy-arest-s01e11-scene-36"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e11-scene-36.
+ID = 'domashniy-arest-s01e11-scene-36'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 11
 SCENE = 36
-TITLE = "Джедаи и Самсонов  (Jedis and Samsonov)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.11"
-SOURCE_FILE = "sources/domashniy-arest/s01/e11.ru.dual.srt"
-VOICES = {"narrator": "sky", "nina": "angelina", "samson": "anja"}
-LABELS = {"nina": "Нина", "samson": "Самсон"}
-INTRO = "Ivan Samsonov returns to his communal apartment room after the street brawl, where his wife Nina and daughter Yulia attend to him while watching breaking news of his political campaign on television."
-STORY = [
-    ("samson", "Я сам дойду до дивана.", "I will reach the sofa myself.", [(1121, 'Сам, сам, сам.')], "Samson walks in"),
-    ("nina", "Считай, ты родился под счастливой звездой.", "Consider that you were born under a lucky star.", [(1122, 'Ну что, считай,')], "Nina reflects on his luck"),
-    ("samson", "Мне хватило на сегодня этих джедаев.", "I have had enough of these Jedis today.", [(1123, 'Мне хватило на сегодня')], "Samson complains"),
-    ("nina", "Юля, дай аптечку скорее!", "Yulia, bring the first aid kit quickly!", [(1124, 'Юль, дай аптечку.')], "Nina calls Yulia"),
-    ("nina", "Сейчас, мама, я уже несу!", "Right away, Mom, I'm already bringing it!", [(1125, 'Сейчас.')], "Yulia replies"),
-    ("samson", "Не надо никакую аптечку нести.", "There is no need to bring any first aid kit.", [(1127, 'Да не надо никакую аптечку,')], "Samson refuses treatment"),
-    ("samson", "Меня уже обкололи сегодня врачи.", "The doctors already gave me injections today.", [(1127, 'меня уже обкололи сегодня.')], "Samson explains"),
-    ("nina", "Мама, посмотри скорее на телевизор!", "Mom, look quickly at the TV!", [(1128, 'Мама!')], "Yulia sees news"),
-    ("nina", "Там показывают народного кандидата Самсонова!", "They are showing people's candidate Samsonov there!", [(1129, 'народный кандидат Иван Самсонов')], "TV report"),
-    ("nina", "Все говорят, а Самсонов делает!", "Everyone talks, but Samsonov acts!", [(1130, 'все говорят, а Самсонов делает.')], "Nina quotes slogan"),
-    ("nina", "А теперь перешли к другим новостям.", "And now they moved on to other news.", [(1131, 'А теперь к другим новостям.')], "TV news shifts"),
-    ("samson", "Президент отменил важную встречу?", "Did the president cancel the important meeting?", [(1132, 'отменил встречу.')], "Samson notices political news"),
-    ("nina", "Ну, теперь точно всё закончилось.", "Well, now everything has definitely ended.", [(1133, 'Ну, теперь точно все.')], "Nina concludes"),
-    ("samson", "Можешь перезвонить мне немного позже?", "Can you call me back a little later?", [(1134, 'Можешь перезвонить?')], "Samson answers phone"),
-]
+TITLE = 'Джедаи и Самсонов  (Jedis and Samsonov)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон', 'yulia': 'Юля'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.11'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e11.ru.dual.srt'
+INTRO = 'Ivan Samsonov returns to his communal apartment room after the street brawl, where his wife Nina and daughter Yulia attend to him while watching breaking news of his political campaign on television.'
 OPENER = "Let's explore Samsonov's return to his apartment after the brawl."
+TRANSITION = "Now let's listen to the scene between Samsonov, Nina, and Yulia once more."
+OUTRO = 'After a chaotic day of campaigning and fighting, the Samsonov family watches their own rise on television. See you next time!'
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Я сам дойду до дивана.', 'I will reach the sofa myself.', [(1121, 'Сам, сам, сам.')], 'Samson walks in'),
+    ('nina', 'Считай, ты родился под счастливой звездой.', 'Consider that you were born under a lucky star.', [(1122, 'Ну что, считай,')], 'Nina reflects on his luck'),
+    ('samson', 'Мне хватило на сегодня этих джедаев.', 'I have had enough of these Jedis today.', [(1123, 'Мне хватило на сегодня')], 'Samson complains'),
+    ('nina', 'Юля, дай аптечку скорее!', 'Yulia, bring the first aid kit quickly!', [(1124, 'Юль, дай аптечку.')], 'Nina calls Yulia'),
+    ('yulia', 'Сейчас, мама, я уже несу!', "Right away, Mom, I'm already bringing it!", [(1125, 'Сейчас.')], 'Yulia replies'),
+    ('samson', 'Не надо никакую аптечку нести.', 'There is no need to bring any first aid kit.', [(1127, 'Да не надо никакую аптечку,')], 'Samson refuses treatment'),
+    ('samson', 'Меня уже обкололи сегодня врачи.', 'The doctors already gave me injections today.', [(1127, 'меня уже обкололи сегодня.')], 'Samson explains'),
+    ('yulia', 'Мама, посмотри скорее на телевизор!', 'Mom, look quickly at the TV!', [(1128, 'Мама!')], 'Yulia sees news'),
+    ('yulia', 'Там показывают народного кандидата Самсонова!', "They are showing people's candidate Samsonov there!", [(1129, 'народный кандидат Иван Самсонов')], 'TV report'),
+    ('nina', 'Все говорят, а Самсонов делает!', 'Everyone talks, but Samsonov acts!', [(1130, 'все говорят, а Самсонов делает.')], 'Nina quotes slogan'),
+    ('yulia', 'А теперь перешли к другим новостям.', 'And now they moved on to other news.', [(1131, 'А теперь к другим новостям.')], 'TV news shifts'),
+    ('samson', 'Президент отменил важную встречу?', 'Did the president cancel the important meeting?', [(1132, 'отменил встречу.')], 'Samson notices political news'),
+    ('nina', 'Ну, теперь точно всё закончилось.', 'Well, now everything has definitely ended.', [(1133, 'Ну, теперь точно все.')], 'Nina concludes'),
+    ('samson', 'Можешь перезвонить мне немного позже?', 'Can you call me back a little later?', [(1134, 'Можешь перезвонить?')], 'Samson answers phone'),
+]
 WALK = [
     (0, None, "'I will reach the sofa myself.' Samson insists that he is able to walk on his own feet."),
     (1, None, "'Consider that you were born under a lucky star.' The Russian idiom describes surviving remarkable fortune."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'Well, now everything has definitely ended.' Nina reflects that the dramatic day has finally drawn to a close."),
     (13, None, "'Can you call me back a little later?' Samson politely asks the caller to phone back later."),
 ]
-TRANSITION = "Now let's listen to the scene between Samsonov, Nina, and Yulia once more."
-OUTRO = "After a chaotic day of campaigning and fighting, the Samsonov family watches their own rise on television. See you next time!"
-CLOSING = ("samson", "Пока!")

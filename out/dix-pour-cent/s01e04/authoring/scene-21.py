@@ -7,7 +7,6 @@ SCENE = 21
 TITLE = 'Le cours de pole dance  (The Pole-Dancing Class)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
@@ -37,22 +36,22 @@ STORY = [
 ]
 WALK = [
     (0, None, "'I didn't have time to buy an outfit.' Literally 'I have not had the time to buy'. With two small children, she barely has a minute to herself."),
-    (1, None, "'I have one month.' Before filming begins."),
-    (2, None, "'I've done it before, but a long time ago.' Notice how 'ago' is expressed with the little phrase that usually means 'there is'."),
-    (3, None, "'Do we start with the carousel? Oh, that's fast!' The coach shows her a spinning move on the pole."),
-    (4, None, "'Careful, it's slippery!' Audrey spins round the pole, slips off, and accidentally bumps her little boy, who starts crying."),
-    (5, None, "'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'."),
-    (6, None, "'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Just then, Mathias walks into the studio."),
-    (7, None, "'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'."),
-    (8, None, "'Crossing Paris with the children is hard.' That is why she asked Mathias to bring the contracts to the studio."),
-    (9, None, "'No problem, Audrey.' Mathias is in a good mood now that she is taking the role."),
-    (10, None, "'Say hello to Mathias.' Audrey speaks to her little girl, who answers with a cheeky toddler word instead."),
-    (11, None, "'Hey, what is this nonsense?' The last word means 'silly things' or 'nonsense'."),
-    (12, None, "'She senses that I'm leaving. Children are like sponges.' Audrey is already feeling guilty about leaving them to shoot the film."),
-    (13, None, "'I've brought five copies of the contracts.' Mathias gets down to business."),
-    (14, None, "'Wait a second. This is a questionnaire for the nanny.' Before signing anything, Audrey wants Mathias's opinion on her list of questions for nanny candidates."),
-    (15, None, "'Do you have a problem with alcohol, Coca-Cola, sweets?' Mathias reads the question aloud in disbelief."),
-    (16, None, "'What? Sweets?' He cannot believe she puts sweets on the same list as alcohol."),
-    (17, None, "'Sugar is very bad! I saw a documentary.' Audrey is dead serious."),
-    (18, None, "'Tell me what you think of it.' Literally 'tell me that which you think of it'. Let's listen to the whole scene again without stopping."),
+    (1, "J'ai un mois.", "'I have one month.' Before filming begins."),
+    (1, "J'ai déjà fait ça, mais il y a longtemps.", "'I've done it before, but a long time ago.' Notice how 'ago' is expressed with the little phrase that usually means 'there is'."),
+    (2, None, "'Do we start with the carousel? Oh, that's fast!' The coach shows her a spinning move on the pole."),
+    (3, None, "'Careful, it's slippery!' Audrey spins round the pole, slips off, and accidentally bumps her little boy, who starts crying."),
+    (4, None, "'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'."),
+    (5, None, "'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Just then, Mathias walks into the studio."),
+    (6, None, "'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'."),
+    (7, None, "'Crossing Paris with the children is hard.' That is why she asked Mathias to bring the contracts to the studio."),
+    (8, None, "'No problem, Audrey.' Mathias is in a good mood now that she is taking the role."),
+    (9, 'Dis bonjour à Mathias.', "'Say hello to Mathias.' Audrey speaks to her little girl, who answers with a cheeky toddler word instead."),
+    (9, "Mais c'est quoi ces bêtises?", "'Hey, what is this nonsense?' The last word means 'silly things' or 'nonsense'."),
+    (10, None, "'She senses that I'm leaving. Children are like sponges.' Audrey is already feeling guilty about leaving them to shoot the film."),
+    (11, None, "'I've brought five copies of the contracts.' Mathias gets down to business."),
+    (12, None, "'Wait a second. This is a questionnaire for the nanny.' Before signing anything, Audrey wants Mathias's opinion on her list of questions for nanny candidates."),
+    (13, None, "'Do you have a problem with alcohol, Coca-Cola, sweets?' Mathias reads the question aloud in disbelief."),
+    (14, None, "'What? Sweets?' He cannot believe she puts sweets on the same list as alcohol."),
+    (15, None, "'Sugar is very bad! I saw a documentary.' Audrey is dead serious."),
+    (16, None, "'Tell me what you think of it.' Literally 'tell me that which you think of it'. Let's listen to the whole scene again without stopping."),
 ]

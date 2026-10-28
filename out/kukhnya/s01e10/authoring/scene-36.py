@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 36
-TITLE = "Неожиданная новость  (Unexpected News)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданная новость  (Unexpected News)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "tanya": "anja", "vika": "angelina"}
-LABELS = {"tanya": "Таня", "vika": "Вика"}
+LABELS = {'tanya': 'Таня', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Tanya arrives unexpectedly at Claude Monet and sits at a corner table to confront her sister Victoria. Believing a wild rumor spread by Chef Barinov that Vika is pregnant, Tanya demands to know why she was kept in the dark. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the family dynamics, expressions of disbelief, and denial of false rumors."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Shocked to learn that Chef Barinov spread rumors about her pregnancy, Victoria prepares to confront him immediately in the kitchen. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'crazy' and 'pregnant' — you will catch every word right away. See you next time!"
-CLOSING = ("tanya", "Пока!")
+CLOSING = ('tanya', 'Пока!')
 STORY = [
     ('tanya', 'Здравствуй, Вика! Я села за угловой столик.', 'Hello, Vika! I sat down at the corner table.', [(254, 'Угловой столик')], ''),
     ('vika', 'Привет, Таня! Почему ты пришла так срочно?', 'Hello, Tanya! Why did you come so urgently?', [(253, 'проходите, пожалуйста')], ''),

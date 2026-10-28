@@ -1,36 +1,38 @@
-# domashniy-arest/s01e07/scene-17.py
-ID = "domashniy-arest-s01e07-scene-17"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-17.
+ID = 'domashniy-arest-s01e07-scene-17'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 17
-TITLE = "Мы телохранители, а не телоломатели  (Bodyguards, Not Body-Breakers)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.07"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "pasha": "anja", "vitalik": "angelina"}
-LABELS = {"pasha": "Паша", "vitalik": "Виталик"}
+TITLE = 'Мы телохранители, а не телоломатели  (Bodyguards, Not Body-Breakers)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'pasha': 'Паша', 'vitalik': 'Виталик'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.07'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
 INTRO = "Last night, Arkady banged on Marina's wall to ruin Eduard's date while Samsonov phoned lawyer Danya to invite him over for fondue. The next morning at City Hall, acting mayor Pasha Osipenko calls in his two bodyguards and orders them to stage an attack on his rival Samsonov. Listen to the Russian conversation first, and don't worry about catching every word."
-STORY = [
-    ("pasha", "У меня для вас есть серьёзное задание. Я же могу вам доверять?", "I have a serious assignment for you. I can trust you, right?", [(652, 'У меня для вас есть серьезное задание'), (653, 'Я же могу вам доверять')], ""),
-    ("pasha", "Как вы знаете, Виталий, я участвую в выборах.", "As you know, Vitaly, I am taking part in the election.", [(654, 'Как вы знаете, Виталий, я участвую в выборах')], ""),
-    ("pasha", "И у меня есть один конкурент. Я говорю о Самсонове, конечно.", "And I have one competitor. I am talking about Samsonov, of course.", [(655, 'И у меня есть один конкурент'), (656, 'Я говорю о Самсонове, конечно')], ""),
-    ("pasha", "А жизнь — сложная штука. Вы понимаете, о чём я?", "And life is a complicated thing. Do you understand what I am talking about?", [(657, 'А жизнь'), (657, 'штука'), (659, 'Вы понимаете, о чем я')], ""),
-    ("pasha", "Вот человек выбирается в мэры. Тот же Самсонов, например.", "Say a man is running for mayor. That same Samsonov, for example.", [(660, 'человек выбирается в мэры'), (661, 'тот же Самсонов, например')], ""),
-    ("pasha", "И какие-то хулиганы вдруг напали на него. Не сильно, но человеку плохо.", "And some hooligans suddenly attacked him. Not badly, of course, but the man feels unwell.", [(662, 'И какие-то хулиганы вдруг'), (663, 'Не сильно'), (663, 'но человеку плохо')], "'проломили голову' (662, 666) softened to 'напали на него'"),
-    ("pasha", "И выбираться он уже не может. Так, понятно?", "And he cannot run for office anymore. So, is that clear?", [(664, 'И выбираться он уже'), (664, 'не может'), (665, 'Так, понятно')], ""),
-    ("vitalik", "Павел Юрьевич, мы против!", "Pavel Yuryevich, we are against this!", [(667, 'Павел Юрьевич, мы против')], ""),
-    ("vitalik", "Мы же телохранители, а не телоломатели.", "We are bodyguards, not body-breakers.", [(668, 'Мы же телохранители, а не телоломатели')], ""),
-    ("pasha", "А у Аникеева чем вы занимались, интересно?", "And what were you doing for Anikeyev, I wonder?", [(669, 'чем вы занимались, интересно')], "ASR 'Никеева' -> 'Аникеева'"),
-    ("vitalik", "Одно дело в караоке руку сломать. Другое — обидеть человека.", "Breaking an arm at karaoke is one thing. And hurting a person for life is another.", [(670, 'Одно дело в караоке руку'), (670, 'сломать'), (671, 'на всю жизнь')], "'покалечить' (671) softened to 'обидеть'"),
-    ("vitalik", "Поверьте, вам это не надо. Вы так карму портите.", "Believe us, you do not need this. You ruin your karma that way.", [(672, 'вам это не надо'), (673, 'карму портите')], ""),
-    ("pasha", "Послушайте меня внимательно, философы! Я вам отдал приказ!", "Listen to me carefully, you philosophers! I gave you an order!", [(674, 'послушайте меня внимательно'), (676, 'Я вам отдал приказ')], "crude 'буддистовы хреновы' (674) -> 'философы'"),
-    ("pasha", "Если не можете работать, уходите! Ищите себе другое место с хорошей зарплатой!", "If you cannot do the job, leave! And find yourselves another job with a good salary!", [(677, 'не можете работать'), (678, 'ищите себе другое место')], "crude 'пошли к чертовой матери' / 'вас хрен догонишь' / 'Зажрались' (677-680) cleaned"),
-    ("vitalik", "Хорошо, мы всё сделаем.", "Fine, we will do everything.", [(681, 'Хорошо, мы все сделаем')], ""),
-    ("pasha", "Я надеюсь. Идите, действуйте быстрее!", "I hope so. Go on, act quickly!", [(682, 'Я надеюсь'), (682, 'действуйте')], "slang 'шевелите булками' (682) -> 'действуйте быстрее'"),
-]
 OPENER = "Did you hear why the bodyguards hesitated at first? Let's walk through Pasha's order line by line."
+TRANSITION = "Now let's listen to the whole conversation in the mayor's office again."
+OUTRO = "So much for the bodyguards' Buddhist principles: as soon as Pasha threatens their generous salary and free food, the two Vitaliks agree to ambush Samsonov. See you next time!"
+CLOSING = ('vitalik', 'Пока!')
+STORY = [
+    ('pasha', 'У меня для вас есть серьёзное задание. Я же могу вам доверять?', 'I have a serious assignment for you. I can trust you, right?', [(652, 'У меня для вас есть серьезное задание'), (653, 'Я же могу вам доверять')], ''),
+    ('pasha', 'Как вы знаете, Виталий, я участвую в выборах.', 'As you know, Vitaly, I am taking part in the election.', [(654, 'Как вы знаете, Виталий, я участвую в выборах')], ''),
+    ('pasha', 'И у меня есть один конкурент. Я говорю о Самсонове, конечно.', 'And I have one competitor. I am talking about Samsonov, of course.', [(655, 'И у меня есть один конкурент'), (656, 'Я говорю о Самсонове, конечно')], ''),
+    ('pasha', 'А жизнь — сложная штука. Вы понимаете, о чём я?', 'And life is a complicated thing. Do you understand what I am talking about?', [(657, 'А жизнь'), (657, 'штука'), (659, 'Вы понимаете, о чем я')], ''),
+    ('pasha', 'Вот человек выбирается в мэры. Тот же Самсонов, например.', 'Say a man is running for mayor. That same Samsonov, for example.', [(660, 'человек выбирается в мэры'), (661, 'тот же Самсонов, например')], ''),
+    ('pasha', 'И какие-то хулиганы вдруг напали на него. Не сильно, но человеку плохо.', 'And some hooligans suddenly attacked him. Not badly, of course, but the man feels unwell.', [(662, 'И какие-то хулиганы вдруг'), (663, 'Не сильно'), (663, 'но человеку плохо')], "'проломили голову' (662, 666) softened to 'напали на него'"),
+    ('pasha', 'И выбираться он уже не может. Так, понятно?', 'And he cannot run for office anymore. So, is that clear?', [(664, 'И выбираться он уже'), (664, 'не может'), (665, 'Так, понятно')], ''),
+    ('vitalik', 'Павел Юрьевич, мы против!', 'Pavel Yuryevich, we are against this!', [(667, 'Павел Юрьевич, мы против')], ''),
+    ('vitalik', 'Мы же телохранители, а не телоломатели.', 'We are bodyguards, not body-breakers.', [(668, 'Мы же телохранители, а не телоломатели')], ''),
+    ('pasha', 'А у Аникеева чем вы занимались, интересно?', 'And what were you doing for Anikeyev, I wonder?', [(669, 'чем вы занимались, интересно')], "ASR 'Никеева' -> 'Аникеева'"),
+    ('vitalik', 'Одно дело в караоке руку сломать. Другое — обидеть человека.', 'Breaking an arm at karaoke is one thing. And hurting a person for life is another.', [(670, 'Одно дело в караоке руку'), (670, 'сломать'), (671, 'на всю жизнь')], "'покалечить' (671) softened to 'обидеть'"),
+    ('vitalik', 'Поверьте, вам это не надо. Вы так карму портите.', 'Believe us, you do not need this. You ruin your karma that way.', [(672, 'вам это не надо'), (673, 'карму портите')], ''),
+    ('pasha', 'Послушайте меня внимательно, философы! Я вам отдал приказ!', 'Listen to me carefully, you philosophers! I gave you an order!', [(674, 'послушайте меня внимательно'), (676, 'Я вам отдал приказ')], "crude 'буддистовы хреновы' (674) -> 'философы'"),
+    ('pasha', 'Если не можете работать, уходите! Ищите себе другое место с хорошей зарплатой!', 'If you cannot do the job, leave! And find yourselves another job with a good salary!', [(677, 'не можете работать'), (678, 'ищите себе другое место')], "crude 'пошли к чертовой матери' / 'вас хрен догонишь' / 'Зажрались' (677-680) cleaned"),
+    ('vitalik', 'Хорошо, мы всё сделаем.', 'Fine, we will do everything.', [(681, 'Хорошо, мы все сделаем')], ''),
+    ('pasha', 'Я надеюсь. Идите, действуйте быстрее!', 'I hope so. Go on, act quickly!', [(682, 'Я надеюсь'), (682, 'действуйте')], "slang 'шевелите булками' (682) -> 'действуйте быстрее'"),
+]
 WALK = [
     (0, 'У меня для вас есть серьёзное задание.', "In the mayor's office, Pasha addresses his two bodyguards: 'I have a serious assignment for you.'"),
     (0, 'Я же могу вам доверять?', "'I can trust you, right?' Notice the 'to me/you' pronoun after the verb for trusting."),
@@ -60,6 +62,3 @@ WALK = [
     (15, 'Я надеюсь.', "'I hope so,' Pasha replies."),
     (15, 'Идите, действуйте быстрее!', "'Go on, act quickly!' he orders them out of his office."),
 ]
-TRANSITION = "Now let's listen to the whole conversation in the mayor's office again."
-OUTRO = "So much for the bodyguards' Buddhist principles: as soon as Pasha threatens their generous salary and free food, the two Vitaliks agree to ambush Samsonov. See you next time!"
-CLOSING = ("vitalik", "Пока!")

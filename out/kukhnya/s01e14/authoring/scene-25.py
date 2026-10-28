@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 25
-TITLE = "Настоящий шеф  (A Real Head Chef)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Настоящий шеф  (A Real Head Chef)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina"}
-LABELS = {"chef": "Шеф", "nagiyev": "Нагиев"}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "In his office, an angry Nagiyev scolds Chef Barinov. Then the Chef thanks Lyova for saving the day. We'll hear it in Russian first; don't worry about catching every word."
 OPENER = "Let's go through it line by line. Nagiyev stares furiously at the drunken Chef."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In his office, a furious Dmitry Nagiyev reprimands Chef Barinov for getting drunk on the job, then Barinov privately thanks Lyova for stepping up and taking responsibility like a true head chef. Next time you watch the episode, listen for the Russian expressions for 'to be silent' and 'home' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('nagiyev', 'Дим, ну не молчи.', "Dim, come on, don't go quiet.", [(317, 'Дим, ну не молчи')], ''),
     ('nagiyev', 'И домой пора, все устали.', "And it's time to go home. Everyone's tired.", [(318, 'И домой пора, все устали')], ''),
     ('nagiyev', 'А от чего ты устал?', 'And what are you tired from?', [(319, 'А что ты устал')], ''),
     ('nagiyev', 'Бухать целыми днями?', 'Drinking all day?', [(319, 'бухать целыми днями')], ''),
-    ('chef', 'Шеф, извините меня.', "Chef, I'm sorry.", [(358, 'Шеф, извините меня')], ''),
-    ('chef', 'Я, видимо, не справился.', "I guess I didn't handle it.", [(359, 'Я, видимо, как-то не справился')], ''),
-    ('chef', 'Лёва, иди сюда.', 'Lyova, come here.', [], ''),
-    ('chef', 'Скандалить с гостями не очень хорошо.', "Picking fights with guests isn't great.", [(360, 'скандали с гостями не очень хорошо')], ''),
-    ('chef', 'Но шеф-повар отвечает не только за еду.', "But the head chef isn't only responsible for food.", [(361, 'Но шеф-повар отвечает не только за хорошую еду')], ''),
-    ('chef', 'В первую очередь он отвечает за команду.', 'First and foremost he is responsible for the team.', [(362, 'В первую очередь шеф-повар отвечает за свою команду')], ''),
-    ('chef', 'И ты сегодня поступил как настоящий шеф.', 'And today you acted like a real head chef.', [(363, 'И ты сегодня поступил как настоящий шеф')], ''),
-    ('chef', 'Ты справился. Молодец.', 'You handled it. Well done.', [(364, 'Ты справился'), (365, 'Молодец')], ''),
+    ('barinov', 'Шеф, извините меня.', "Chef, I'm sorry.", [(358, 'Шеф, извините меня')], ''),
+    ('barinov', 'Я, видимо, не справился.', "I guess I didn't handle it.", [(359, 'Я, видимо, как-то не справился')], ''),
+    ('barinov', 'Лёва, иди сюда.', 'Lyova, come here.', [], ''),
+    ('barinov', 'Скандалить с гостями не очень хорошо.', "Picking fights with guests isn't great.", [(360, 'скандали с гостями не очень хорошо')], ''),
+    ('barinov', 'Но шеф-повар отвечает не только за еду.', "But the head chef isn't only responsible for food.", [(361, 'Но шеф-повар отвечает не только за хорошую еду')], ''),
+    ('barinov', 'В первую очередь он отвечает за команду.', 'First and foremost he is responsible for the team.', [(362, 'В первую очередь шеф-повар отвечает за свою команду')], ''),
+    ('barinov', 'И ты сегодня поступил как настоящий шеф.', 'And today you acted like a real head chef.', [(363, 'И ты сегодня поступил как настоящий шеф')], ''),
+    ('barinov', 'Ты справился. Молодец.', 'You handled it. Well done.', [(364, 'Ты справился'), (365, 'Молодец')], ''),
 ]
 WALK = [
     (0, None, "'Dim, come on, don't go quiet.' The little negative word sits right in front of the verb for 'be quiet', just like 'not' in English."),

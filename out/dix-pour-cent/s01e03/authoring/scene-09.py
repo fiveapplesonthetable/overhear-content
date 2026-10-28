@@ -7,7 +7,6 @@ SCENE = 9
 TITLE = "La photo de Sofia  (Sofia's Photo)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
@@ -44,12 +43,12 @@ WALK = [
     (6, None, "'But here, you stole this audition!' The verb 'to steal' in the everyday past tense. Sofia objects to the word."),
     (7, None, "'No, I just added my photo, that's all.' The two words at the end literally say 'it is all', a very common way to finish an excuse."),
     (8, None, "'Does she want to see me? Does she like my look?' Even while arguing, Sofia is thrilled that a casting director noticed her."),
-    (9, None, "'Calm down, Sofia!' Literally 'calm yourself'. Then Gabriel's phone rings: it's Laura Smet."),
-    (10, None, "'Hello, Laura?' That opening greeting is used only on the telephone. Sofia doesn't care that he's on a call."),
-    (11, None, "'Gabriel, we're talking! I invited everyone to my show.' In the episode she says she invited Mathias, Andréa, and even the old lady with her dog."),
-    (12, None, "'And nobody came!' The verb 'to come' makes its past tense with 'is' rather than 'has'."),
-    (13, None, "'One second, Laura, please.' He uses the casual 'please' with his client Laura, then turns back to Sofia to get some peace."),
-    (14, None, "'That's enough! I'll come and see your show, okay?' The first two words mean 'it suffices', and then he uses the future tense of 'to come'."),
-    (15, None, "'You'll come and see me? Thank you!' Sofia lights up at once, using the present tense for the near future."),
-    (16, None, "'An agent's promise! Yes, Laura, I'm with you.' Literally 'promise of agent', without an article, and then 'I am to you' as he goes back to his phone call. Let's listen to the whole scene once more."),
+    (9, 'Calme-toi, Sofia!', "'Calm down, Sofia!' Literally 'calm yourself'. Then Gabriel's phone rings: it's Laura Smet."),
+    (9, 'Allô, Laura?', "'Hello, Laura?' That opening greeting is used only on the telephone. Sofia doesn't care that he's on a call."),
+    (10, None, "'Gabriel, we're talking! I invited everyone to my show.' In the episode she says she invited Mathias, Andréa, and even the old lady with her dog."),
+    (11, None, "'And nobody came!' The verb 'to come' makes its past tense with 'is' rather than 'has'."),
+    (12, None, "'One second, Laura, please.' He uses the casual 'please' with his client Laura, then turns back to Sofia to get some peace."),
+    (13, None, "'That's enough! I'll come and see your show, okay?' The first two words mean 'it suffices', and then he uses the future tense of 'to come'."),
+    (14, None, "'You'll come and see me? Thank you!' Sofia lights up at once, using the present tense for the near future."),
+    (15, None, "'An agent's promise! Yes, Laura, I'm with you.' Literally 'promise of agent', without an article, and then 'I am to you' as he goes back to his phone call. Let's listen to the whole scene once more."),
 ]

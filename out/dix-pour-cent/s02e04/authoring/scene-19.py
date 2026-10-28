@@ -7,7 +7,6 @@ SCENE = 19
 TITLE = 'Le premier rôle  (The Lead Role)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
@@ -46,7 +45,7 @@ WALK = [
     (8, None, "'But Charlotte Le Bon was supposed to have this role!' Sofia remembers the original casting choice. Sofia opens with the word for 'was supposed to' and lands on 'role' at the close."),
     (9, None, "'I will call him to check this proposal.' Gabriel seeks immediate clarification. The key word here means 'am going', paired with 'proposal' to make the point clear."),
     (10, None, "'Julien confirms to me that the role is for you.' Gabriel delivers the definitive confirmation. Notice how the verb for 'confirms' leads straight into 'role'."),
-    (11, None, "'He says that you have immense talent.' Julien's praise is relayed enthusiastically. Gabriel pairs the verb meaning 'says' with the noun for 'talent'."),
+    (11, None, "'He says that you have immense talent.' In this moment, Julien's praise is relayed enthusiastically. Gabriel pairs the verb meaning 'says' with the noun for 'talent'."),
     (12, None, "'It is an incredible opportunity for my career.' Sofia realizes the significance of this break. Notice how the verb for 'it is' leads straight into 'career'."),
     (13, None, "'You worked hard to get here.' Gabriel acknowledges her dedication and perseverance. Gabriel opens with the word for 'have' and lands on 'here' at the close."),
     (14, None, "'You fully deserve this lead role.' Gabriel offers heartfelt encouragement. Gabriel opens with the word for 'deserve' and lands on 'role' at the close."),

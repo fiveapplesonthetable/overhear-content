@@ -7,8 +7,7 @@ SCENE = 7
 TITLE = 'Erreur de casting  (Casting Mistake)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the ASK agency, Gabriel suddenly realizes he made a catastrophic blunder with the casting names. He rushes to Andrea to explain that he reached Mathias's voicemail after confusing two candidates. Let's listen to their conversation in French first."
@@ -18,19 +17,19 @@ OUTRO = "Gabriel rushes off after alerting Andrea about the casting catastrophe.
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Andréa, on a un gros problème avec le casting.', 'Andrea, we have a big problem with the casting.', [(367, 'Le casting.')], ''),
-    ('lea', "Qu'est-ce qui se passe avec le film?", 'What is going on with the film?', [(367, 'Le casting.')], ''),
+    ('andrea', "Qu'est-ce qui se passe avec le film?", 'What is going on with the film?', [(367, 'Le casting.')], ''),
     ('gabriel', "J'ai fait une énorme bêtise.", 'I made a huge mistake.', [(368, "Bassem, c'est pas Baptiste.")], ''),
     ('gabriel', "Bassem, ce n'est pas Baptiste.", 'Bassem is not Baptiste.', [(368, "Bassem, c'est pas Baptiste.")], ''),
-    ('lea', 'Comment ça? Baptiste a quarante-cinq ans!', 'What do you mean? Baptiste is forty-five years old!', [(369, 'Baptiste, il a 45 ans.')], ''),
+    ('andrea', 'Comment ça? Baptiste a quarante-cinq ans!', 'What do you mean? Baptiste is forty-five years old!', [(369, 'Baptiste, il a 45 ans.')], ''),
     ('gabriel', "Oui, c'est un rôle très important.", 'Yes, it is a very important role.', [(370, "C'est un énorme rôle.")], ''),
     ('gabriel', "C'est le partenaire principal de Gérard Lanvin.", 'He is the main partner of Gerard Lanvin.', [(371, "C'est le partenaire de l'an 20.")], ''),
-    ('lea', 'Mais comment tu as pu confondre les deux?', 'But how could you confuse the two?', [(372, "C'est interdit aussi de choisir des noms de personnages aussi proches.")], ''),
+    ('andrea', 'Mais comment tu as pu confondre les deux?', 'But how could you confuse the two?', [(372, "C'est interdit aussi de choisir des noms de personnages aussi proches.")], ''),
     ('gabriel', 'Les deux prénoms se ressemblent trop.', 'The two first names sound too much alike.', [(372, "C'est interdit aussi de choisir des noms de personnages aussi proches.")], ''),
-    ('lea', "Tu as essayé d'appeler Mathias?", 'Did you try calling Mathias?', [], ''),
+    ('andrea', "Tu as essayé d'appeler Mathias?", 'Did you try calling Mathias?', [], ''),
     ('gabriel', 'Oui, je suis tombé sur sa messagerie.', 'Yes, I reached his voicemail.', [(373, 'Messagerie.')], ''),
-    ('lea', 'Il faut trouver une solution tout de suite.', 'We must find a solution right away.', [(373, 'Messagerie.')], ''),
+    ('andrea', 'Il faut trouver une solution tout de suite.', 'We must find a solution right away.', [(373, 'Messagerie.')], ''),
     ('gabriel', 'Je vais essayer de réparer mon erreur.', 'I am going to try to fix my mistake.', [(373, 'Messagerie.')], ''),
-    ('lea', 'Dépêche-toi, le casting commence maintenant.', 'Hurry up, the casting is starting now.', [(373, 'Messagerie.')], ''),
+    ('andrea', 'Dépêche-toi, le casting commence maintenant.', 'Hurry up, the casting is starting now.', [(373, 'Messagerie.')], ''),
 ]
 WALK = [
     (0, None, "'Andrea, we have a big problem with the casting.' Gabriel breaks the bad news to Andrea. The verb meaning 'have' pairs naturally with the noun for 'problem' in everyday conversation."),

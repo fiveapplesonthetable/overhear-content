@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну вот, считай, мы выиграли выборы! | Well now, consider we won the election! | #131 00:09:18: выборы мы, считай, выиграли | verbatim |
-| 2 | Аня | Всё дело в правильной организации пиара. | It is all a matter of proper PR organization. | #132 00:09:22: Все дело в правильном пиаре | verbatim |
-| 3 | Самсон | Я до сих пор ничего не понял. | I still have not understood anything. | #133 00:09:25: Что-то я не понял | verbatim |
-| 4 | Самсон | Я очень боюсь встречаться с президентом. | I am very afraid to meet with the president. | #160 00:10:28: боюсь с ним встречаться | verbatim |
-| 5 | Аня | Ты простой рабочий человек из народа. | You are a simple working man of the people. | #138 00:09:34: Ты человек<br>#138 00:09:34: он таких любит | verbatim |
-| 6 | Аня | Он очень любит таких простых людей! | He really likes such simple people! | #138 00:09:34: он таких любит | verbatim |
-| 7 | Самсон | От страха у меня уже пот выступил. | From fear sweat has already broken out on me. | #140 00:09:40: пот аж выступил | verbatim |
-| 8 | Аня | И помни, эта информация строго закрыта. | And remember, this information is strictly classified. | #141 00:09:44: информация закрыта | verbatim |
-| 9 | Аня | Никому не говори, даже своей жене. | Do not tell anyone, even your wife. | #144 00:09:51: Никому, даже Нине | verbatim |
-| 10 | Аня | Вот здесь написана вся наша программа. | Right here our entire program is written. | #164 00:10:41: Здесь наша программа | verbatim |
-| 11 | Аня | Президент очень любит хорошо информированных людей. | The president really likes well-informed people. | #169 00:10:50: Он любит информированных людей | verbatim |
-| 12 | Аня | Ты должен чётко ответить на вопросы. | You must answer the questions clearly. | #170 00:10:52: должен что-то ответить | verbatim |
-| 13 | Аня | Поэтому давай, быстро соберись с силами! | Therefore come on, quickly pull yourself together! | #180 00:11:12: давай, соберись уже | verbatim |
-| 14 | Самсон | Да, я уже полностью собрался! | Yes, I have already pulled myself together completely! | #181 00:11:16: Да, я собрался, собрался | verbatim |
+| 1 | Аркадий | Ну вот, считай, мы выиграли выборы! | Well now, consider we won the election! | #131: выборы мы, считай, выиграли | verbatim |
+| 2 | Аркадий | Всё дело в правильной организации пиара. | It is all a matter of proper PR organization. | #132: Все дело в правильном пиаре | verbatim |
+| 3 | Самсон | Я до сих пор ничего не понял. | I still have not understood anything. | #133: Что-то я не понял | verbatim |
+| 4 | Самсон | Я очень боюсь встречаться с президентом. | I am very afraid to meet with the president. | #160: боюсь с ним встречаться | verbatim |
+| 5 | Аркадий | Ты простой рабочий человек из народа. | You are a simple working man of the people. | #138: Ты человек<br>#138: он таких любит | verbatim |
+| 6 | Аркадий | Он очень любит таких простых людей! | He really likes such simple people! | #138: он таких любит | verbatim |
+| 7 | Самсон | От страха у меня уже пот выступил. | From fear sweat has already broken out on me. | #140: пот аж выступил | verbatim |
+| 8 | Аркадий | И помни, эта информация строго закрыта. | And remember, this information is strictly classified. | #141: информация закрыта | verbatim |
+| 9 | Аркадий | Никому не говори, даже своей жене. | Do not tell anyone, even your wife. | #144: Никому, даже Нине | verbatim |
+| 10 | Аркадий | Вот здесь написана вся наша программа. | Right here our entire program is written. | #164: Здесь наша программа | verbatim |
+| 11 | Аркадий | Президент очень любит хорошо информированных людей. | The president really likes well-informed people. | #169: Он любит информированных людей | verbatim |
+| 12 | Аркадий | Ты должен чётко ответить на вопросы. | You must answer the questions clearly. | #170: должен что-то ответить | verbatim |
+| 13 | Аркадий | Поэтому давай, быстро соберись с силами! | Therefore come on, quickly pull yourself together! | #180: давай, соберись уже | verbatim |
+| 14 | Самсон | Да, я уже полностью собрался! | Yes, I have already pulled myself together completely! | #181: Да, я собрался, собрался | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

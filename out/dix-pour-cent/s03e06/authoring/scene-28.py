@@ -7,8 +7,7 @@ SCENE = 28
 TITLE = 'Les nominations aux Césars  (The César Nominations)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At four in the morning inside the darkened ASK agency, the reception phone begins ringing urgently. Sophia answers to receive life-changing news from the Cesar Academy, sparking celebration and hope for ASK's future. Let's listen to their conversation in French first."
@@ -23,13 +22,13 @@ STORY = [
     ('sofia', 'La liste des nommés arrive?', 'The nominees list is arriving?', [(1334, 'liste des nommés')], ''),
     ('sofia', 'Je suis nommée aux Césars?', 'I am nominated for the Cesars?', [(1339, 'nommée Sophia Leprince'), (1344, 'nommée aux Césars')], ''),
     ('gabriel', 'Félicitations ma chère Sophia!', 'Congratulations my dear Sophia!', [(1343, 'Félicitations')], ''),
-    ('lea', 'Dans mes bras, ma poulette!', 'Into my arms, sweetheart!', [(1346, 'Dans mes bras, ma poulette')], ''),
-    ('lea', "C'est la vraie classe!", 'That is true class!', [(1348, "c'est la classe")], ''),
-    ('lea', 'Meilleur espoir féminin pour toi!', 'Best Newcomer for you!', [(1347, 'Meilleur espoir féminin')], ''),
+    ('arlette', 'Dans mes bras, ma poulette!', 'Into my arms, sweetheart!', [(1346, 'Dans mes bras, ma poulette')], ''),
+    ('arlette', "C'est la vraie classe!", 'That is true class!', [(1348, "c'est la classe")], ''),
+    ('arlette', 'Meilleur espoir féminin pour toi!', 'Best Newcomer for you!', [(1347, 'Meilleur espoir féminin')], ''),
     ('sofia', 'Merci du fond du cœur.', 'Thank you from the bottom of my heart.', [(1349, 'Merci, Arlette')], ''),
     ('gabriel', 'Nous allons rebondir tous ensemble.', 'We are going to bounce back together.', [(1354, 'on va rebondir')], ''),
     ('gabriel', "C'est tellement excitant maintenant.", 'It is so exciting now.', [(1358, "c'est excitant")], ''),
-    ('lea', "Quelque chose s'ouvre enfin ici.", 'Something is finally opening up here.', [(1359, "quelque chose qui s'ouvre")], ''),
+    ('arlette', "Quelque chose s'ouvre enfin ici.", 'Something is finally opening up here.', [(1359, "quelque chose qui s'ouvre")], ''),
     ('gabriel', "C'est un tout nouveau départ!", 'It is a brand new start!', [(1362, "C'est un nouveau départ")], ''),
 ]
 WALK = [

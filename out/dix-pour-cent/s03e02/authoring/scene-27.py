@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = 'Le pacte secret  (The Secret Pact)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "As Andrea and Gabriel weigh the monumental consequences of breaking away from ASK, they debate whether their star actors and colleagues will stand by them in secret. Listen to the scene in French first. Don't worry about catching every word."
@@ -18,19 +17,19 @@ OUTRO = "Setting aside fear and hesitation, Andrea and Gabriel seal a secret pac
 CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Et Arlette, qu'est-ce qu'on fait?", 'And Arlette, what do we do?', [(1177, 'Arlette'), (1179, "qu'est-ce qu'on fait")], ''),
-    ('lea', 'Arlette comprendra très bien notre choix.', 'Arlette will understand our choice very well.', [(1180, 'Arlette, elle comprendra')], ''),
+    ('andrea', 'Arlette comprendra très bien notre choix.', 'Arlette will understand our choice very well.', [(1180, 'Arlette, elle comprendra')], ''),
     ('gabriel', 'Et on plante Mathias tout seul?', 'And we leave Mathias completely behind?', [(1179, 'On le plante')], ''),
-    ('lea', 'Mathias ne donne pas de leçons!', 'Mathias does not give moral lessons!', [(1182, 'donner les leçons de solidarité')], ''),
+    ('andrea', 'Mathias ne donne pas de leçons!', 'Mathias does not give moral lessons!', [(1182, 'donner les leçons de solidarité')], ''),
     ('gabriel', 'Est-ce que les acteurs nous suivraient?', 'Would the actors follow us?', [(1184, 'Ils nous suivraient, tu crois')], ''),
-    ('lea', "Bien sûr qu'ils vont nous suivre.", 'Of course they are going to follow us.', [(1185, 'Bien sûr')], ''),
-    ('lea', "Il n'y a aucune raison d'hésiter.", 'There is no reason to hesitate.', [(1186, 'y a aucune raison')], ''),
+    ('andrea', "Bien sûr qu'ils vont nous suivre.", 'Of course they are going to follow us.', [(1185, 'Bien sûr')], ''),
+    ('andrea', "Il n'y a aucune raison d'hésiter.", 'There is no reason to hesitate.', [(1186, 'y a aucune raison')], ''),
     ('gabriel', "Il faut d'abord tâter le terrain.", 'We must test the waters first.', [(1188, 'Faut tâter le terrain')], ''),
-    ('lea', 'Non, surtout pas de sondage!', 'No, absolutely no testing!', [(1191, 'Surtout pas')], ''),
-    ('lea', 'Il ne faut en parler à personne.', 'We must not speak of it to anyone.', [(1193, 'Faut en parler à personne')], ''),
-    ('lea', 'Sinon, tout cela va fuiter.', 'Otherwise, all of this will leak.', [(1194, 'sinon, ça va fuiter')], ''),
+    ('andrea', 'Non, surtout pas de sondage!', 'No, absolutely no testing!', [(1191, 'Surtout pas')], ''),
+    ('andrea', 'Il ne faut en parler à personne.', 'We must not speak of it to anyone.', [(1193, 'Faut en parler à personne')], ''),
+    ('andrea', 'Sinon, tout cela va fuiter.', 'Otherwise, all of this will leak.', [(1194, 'sinon, ça va fuiter')], ''),
     ('gabriel', 'On fait quoi dans ce cas?', 'What do we do in that case?', [(1196, 'On fait quoi, alors')], ''),
-    ('lea', 'On prépare toutes les démarches discrètement.', 'We prepare all the paperwork discreetly.', [(1197, 'On fait toutes les démarches')], ''),
-    ('lea', 'Quand tout est prêt, on annonce tout.', 'When everything is ready, we announce everything.', [(1198, 'Quand on est prêt, là, on en informe les acteurs')], ''),
+    ('andrea', 'On prépare toutes les démarches discrètement.', 'We prepare all the paperwork discreetly.', [(1197, 'On fait toutes les démarches')], ''),
+    ('andrea', 'Quand tout est prêt, on annonce tout.', 'When everything is ready, we announce everything.', [(1198, 'Quand on est prêt, là, on en informe les acteurs')], ''),
     ('gabriel', "D'accord, alors là, on le fait!", 'Agreed, so right now, we do it!', [(1199, 'Là, on le fait')], ''),
 ]
 WALK = [

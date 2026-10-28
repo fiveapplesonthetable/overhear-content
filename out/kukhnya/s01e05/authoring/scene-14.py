@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 14
-TITLE = "Разговор в кладовой  (Talk in the Pantry)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Разговор в кладовой  (Talk in the Pantry)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "Stepping away from the bustling restaurant floor, waitress Nastya leads bartender Kostya into a secluded pantry. Gathering her courage, she asks him whether he genuinely wants to start dating her, prompting Kostya to happily confess his feelings. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the romantic expressions, polite modal structures, and emotional affirmations."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Nastya and Kostya take an important step forward in their relationship before returning with smiles to their work duties. Great work practicing romantic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to come back' and 'to meet' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, привет, ты сейчас сильно занят?', 'Kostya, hi, are you very busy right now?', [(175, 'Костя, привет'), (177, 'Ты занят')], ''),
     ('kostya', 'Привет, Настя, нет, я совсем свободен.', 'Hi, Nastya, no, I am completely free.', [(176, 'Привет'), (177, 'Нет, да')], ''),

@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илья Олегович | Собака где? Где наш Лютик? | Where's the dog? Where is our Lyutik? | #1123 01:02:48: Собака где<br>#1132 01:03:09: Лютик | verbatim |
-| 2 | Илья Олегович | Так, Славик, это кто? Что случилось? | Right, Slavik, who is this? What happened? | #1126 01:02:53: Так, Славик, это кто? Что случилось | verbatim |
-| 3 | Илья Олегович | Это ваш сын? Он украл нашу собаку! | Is this your son? He stole our dog! | #1127 01:02:56: Это ваш сын<br>#1128 01:02:57: Он украл нашу собаку | adapted: 'с целью шантажа' dropped for A1 length; explained by the narrator |
-| 4 | Илья Олегович | Собаку? Ты зачем украл собаку? | A dog? Why did you steal a dog? | #1129 01:03:02: Собаку | adapted: 'Ты зачем украл собаку?' added as Samson turns to Slavik |
-| 5 | Илья Олегович | Дядя Аркаша попросил?! Отдай собаку! | Uncle Arkasha asked you?! Give back the dog! | #1130 01:03:04: дядя Аркаша попросил<br>#1134 01:03:16: Отдай собаку | adapted: Samson repeats Slavik's excuse (cue 1130) in disbelief; 'дебил' (1131) dropped |
-| 6 | Илья Олегович | Между прочим, я председатель суда. | For your information, I am the chairman of the court. | #1133 01:03:13: Между прочим, я председатель суда | verbatim |
-| 7 | Илья Олегович | Скажите спасибо, что собака нашлась. | Say thank you that the dog was found. | #1138 01:03:26: скажите спасибо, что собака нашлась | verbatim |
-| 8 | Илья Олегович | А то бы он попал в колонию! | Otherwise he would have ended up in a colony! | #1139 01:03:29: А то бы<br>#1139 01:03:29: в колонию | adapted: 'ты мигом загремел в колонию для несовершеннолетних' -> 'он попал в колонию' |
-| 9 | Илья Олегович | А вообще-то я ещё не решил. Пошли! | Actually, I haven't decided yet. Let's go! | #1140 01:03:33: А вообще-то я еще не решил<br>#1142 01:03:37: пошли | verbatim |
-| 10 | Аня | Что, Ваня? | What's up, Vanya? | #1143 01:04:03: Вань | adapted: 'Че, Вань?' -> 'Что, Ваня?' |
-| 11 | Илья Олегович | Ты решил из моего сына уголовника сделать? | Did you decide to make my son a criminal? | #1144 01:04:05: решил из моего сына уголовника сделать | adapted: 'Ты че' -> 'Ты' |
-| 12 | Аня | Не понял. | I don't understand. | #1145 01:04:07: Не понял | verbatim |
-| 13 | Илья Олегович | Что ты не понял? Что ты делал?! | What did you not understand? What were you doing?! | #1146 01:04:08: ты не понял<br>#1148 01:04:11: делал | adapted: 'Че' -> 'Что' |
-| 14 | Аня | Ваня, послушай! Послушай меня! | Vanya, listen! Listen to me! | #1149 01:04:12: Послушай<br>#1150 01:04:16: Послушай | adapted: 'Ваня' and 'меня' added around cues 1149-1150 |
+| 1 | Илья Олегович | Собака где? Где наш Лютик? | Where's the dog? Where is our Lyutik? | #1123: Собака где<br>#1132: Лютик | verbatim |
+| 2 | Самсон | Так, Славик, это кто? Что случилось? | Right, Slavik, who is this? What happened? | #1126: Так, Славик, это кто? Что случилось | verbatim |
+| 3 | Илья Олегович | Это ваш сын? Он украл нашу собаку! | Is this your son? He stole our dog! | #1127: Это ваш сын<br>#1128: Он украл нашу собаку | adapted: 'с целью шантажа' dropped for A1 length; explained by the narrator |
+| 4 | Самсон | Собаку? Ты зачем украл собаку? | A dog? Why did you steal a dog? | #1129: Собаку | adapted: 'Ты зачем украл собаку?' added as Samson turns to Slavik |
+| 5 | Самсон | Дядя Аркаша попросил?! Отдай собаку! | Uncle Arkasha asked you?! Give back the dog! | #1130: дядя Аркаша попросил<br>#1134: Отдай собаку | adapted: Samson repeats Slavik's excuse (cue 1130) in disbelief; 'дебил' (1131) dropped |
+| 6 | Илья Олегович | Между прочим, я председатель суда. | For your information, I am the chairman of the court. | #1133: Между прочим, я председатель суда | verbatim |
+| 7 | Илья Олегович | Скажите спасибо, что собака нашлась. | Say thank you that the dog was found. | #1138: скажите спасибо, что собака нашлась | verbatim |
+| 8 | Илья Олегович | А то бы он попал в колонию! | Otherwise he would have ended up in a colony! | #1139: А то бы<br>#1139: в колонию | adapted: 'ты мигом загремел в колонию для несовершеннолетних' -> 'он попал в колонию' |
+| 9 | Илья Олегович | А вообще-то я ещё не решил. Пошли! | Actually, I haven't decided yet. Let's go! | #1140: А вообще-то я еще не решил<br>#1142: пошли | verbatim |
+| 10 | Аркадий | Что, Ваня? | What's up, Vanya? | #1143: Вань | adapted: 'Че, Вань?' -> 'Что, Ваня?' |
+| 11 | Самсон | Ты решил из моего сына уголовника сделать? | Did you decide to make my son a criminal? | #1144: решил из моего сына уголовника сделать | adapted: 'Ты че' -> 'Ты' |
+| 12 | Аркадий | Не понял. | I don't understand. | #1145: Не понял | verbatim |
+| 13 | Самсон | Что ты не понял? Что ты делал?! | What did you not understand? What were you doing?! | #1146: ты не понял<br>#1148: делал | adapted: 'Че' -> 'Что' |
+| 14 | Аркадий | Ваня, послушай! Послушай меня! | Vanya, listen! Listen to me! | #1149: Послушай<br>#1150: Послушай | adapted: 'Ваня' and 'меня' added around cues 1149-1150 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

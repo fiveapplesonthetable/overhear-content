@@ -7,7 +7,6 @@ SCENE = 20
 TITLE = 'Envoyer à la casse  (Sent to the Scrap Heap)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gerard': 'theo', 'samy': 'marcel'}
 LABELS = {'gerard': 'Gérard', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'

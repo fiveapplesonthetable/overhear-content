@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 17
-TITLE = "Невинный обман  (An Innocent Deception)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Невинный обман  (An Innocent Deception)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "In the storeroom, Nastya begins to feel guilty about using Kostya for romantic revenge. She confesses her real motive, but Kostya is surprisingly willing to play along and help teach Max a lesson. Together, they invent a clever harmless compromise before rushing back to their restaurant duties. Let's listen to their conversation in Russian first."
 OPENER = "Let's break down this heartfelt scene line by line. Observe how honest communication turns an uncomfortable plan into a friendly conspiracy."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya gladly agrees to the harmless ruse, thrilled just to help Nastya. Keep up the wonderful work learning Russian! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'quite' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди, я так не могу.', 'Kostya, wait, I cannot do this.', [(209, 'Костя, подожди'), (210, 'Я так не могу')], ''),
     ('kostya', 'Что случилось, Настя, что не так?', 'What happened, Nastya, what is wrong?', [], ''),

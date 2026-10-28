@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e04-scene-03` — L'avertissement de Charles  (Charles's Warning)
+# dix-pour-cent-s03e04-scene-03: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "charles": "theo"}`
-- **Labels**: `{"mathias": "Mathias", "charles": "Charles"}`
+Title: L'avertissement de Charles  (Charles's Warning)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E04
 
-## Part 1 — Intro
-> At the Paris courthouse, attorney Charles Hirsch asks his longtime friend Mathias Barneville to meet on urgent business. Risking professional ethics, Charles discreetly warns Mathias that internal collaborators are secretly preparing to abandon ASK. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `charles` (Charles) | Désolé de te faire venir ici. | Sorry to make you come here. | 153:Désolé de t'avoir fait venir ici |
-| 1 | `mathias` (Mathias) | Je t'en prie, je comprends parfaitement. | Please, I understand perfectly. | 155:Je t'en prie. |
-| 2 | `charles` (Charles) | Comment se passent les affaires chez ASK? | How are business matters going at ASK? | 165:Et chez ASK, alors, comment ça se passe |
-| 3 | `mathias` (Mathias) | Les projets s'enchaînent bien ces temps-ci. | Projects keep coming along well these days. | 174:les projets s'enchaînent, c'est l'essentiel. |
-| 4 | `charles` (Charles) | Nous nous connaissons depuis trente ans. | We have known each other for thirty years. | 177:on se connaît depuis 30 ans, |
-| 5 | `mathias` (Mathias) | Oui, tu es un ami fidèle. | Yes, you are a loyal friend. | 177:on se connaît depuis 30 ans, |
-| 6 | `charles` (Charles) | Je ne peux pas me taire. | I cannot stay silent. | 178:je ne peux pas ne rien te dire. |
-| 7 | `mathias` (Mathias) | Que se passe-t-il dans mon agence? | What is happening inside my agency? | 179:Il se passe des choses..., 180:dans ton agence. |
-| 8 | `charles` (Charles) | Des collaborateurs préparent un départ secret. | Collaborators are preparing a secret departure. | 183:D'autres collaborateurs., 187:Elle va partir. |
-| 9 | `mathias` (Mathias) | Parles-tu d'Andréa Martel en particulier? | Are you speaking about Andrea Martel in particular? | 185:Andréa Martel ? |
-| 10 | `charles` (Charles) | Je ne peux pas violer le secret. | I cannot violate professional secrecy. | 186:Je peux rien te dire. |
-| 11 | `mathias` (Mathias) | C'est une trahison totalement inattendue! | It is a totally unexpected betrayal! | 184:Tu devrais te méfier. |
-| 12 | `charles` (Charles) | À ta place, j'assurerais mes arrières. | If I were in your place, I would watch my back. | 188:À ta place, j'assurerai mes arrières. |
-| 13 | `mathias` (Mathias) | Merci pour cet avertissement précieux, Charles. | Thank you for this valuable warning, Charles. | 190:Merci, Charles. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Armed with Charles's warning, Mathias realizes that Andrea Martel and her allies are quietly organizing a mutiny. When you watch the episode, listen out for the expressions meaning 'sorry' and 'to come'. You'll catch them now. See you next time!
-- **Closing**: `mathias`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Charles | Désolé de te faire venir ici. | Sorry to make you come here. | #153: Désolé de t'avoir fait venir ici | verbatim |
+| 2 | Mathias | Je t'en prie, je comprends parfaitement. | Please, I understand perfectly. | #155: Je t'en prie. | verbatim |
+| 3 | Charles | Comment se passent les affaires chez ASK? | How are business matters going at ASK? | #165: Et chez ASK, alors, comment ça se passe | verbatim |
+| 4 | Mathias | Les projets s'enchaînent bien ces temps-ci. | Projects keep coming along well these days. | #174: les projets s'enchaînent, c'est l'essentiel. | verbatim |
+| 5 | Charles | Nous nous connaissons depuis trente ans. | We have known each other for thirty years. | #177: on se connaît depuis 30 ans, | verbatim |
+| 6 | Mathias | Oui, tu es un ami fidèle. | Yes, you are a loyal friend. | #177: on se connaît depuis 30 ans, | verbatim |
+| 7 | Charles | Je ne peux pas me taire. | I cannot stay silent. | #178: je ne peux pas ne rien te dire. | verbatim |
+| 8 | Mathias | Que se passe-t-il dans mon agence? | What is happening inside my agency? | #179: Il se passe des choses...<br>#180: dans ton agence. | verbatim |
+| 9 | Charles | Des collaborateurs préparent un départ secret. | Collaborators are preparing a secret departure. | #183: D'autres collaborateurs.<br>#187: Elle va partir. | verbatim |
+| 10 | Mathias | Parles-tu d'Andréa Martel en particulier? | Are you speaking about Andrea Martel in particular? | #185: Andréa Martel ? | verbatim |
+| 11 | Charles | Je ne peux pas violer le secret. | I cannot violate professional secrecy. | #186: Je peux rien te dire. | verbatim |
+| 12 | Mathias | C'est une trahison totalement inattendue! | It is a totally unexpected betrayal! | #184: Tu devrais te méfier. | verbatim |
+| 13 | Charles | À ta place, j'assurerais mes arrières. | If I were in your place, I would watch my back. | #188: À ta place, j'assurerai mes arrières. | verbatim |
+| 14 | Mathias | Merci pour cet avertissement précieux, Charles. | Thank you for this valuable warning, Charles. | #190: Merci, Charles. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Sorry to make you come here.' The clause hinges on the everyday verb meaning 'do'.
+- 'Please, I understand perfectly.' The clause hinges on the everyday verb meaning 'pray'.
+- 'How are business matters going at ASK?' In everyday spoken French, rising intonation on 'pass' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'pass' at the end is enough to turn the sentence into a question.
+- 'Projects keep coming along well these days.' An optimistic update reporting continuous agency activity. The verb meaning 'follow one after another' pairs naturally with the noun for 'ventures' in everyday conversation.
+- 'We have known each other for thirty years.' Notice how 'know' leads directly into the noun meaning 'years'. Notice how 'know' leads directly into the noun meaning 'years'.
+- 'Yes, you are a loyal friend.' A sincere affirmation confirming mutual loyalty. The descriptive adjective for 'loyal' agrees in gender and number with its noun.
+- 'I cannot stay silent.' A moral resolve declaring an inability to conceal impending danger. Notice the classic French sandwich negation wrapping right around 'can'.
+- 'What is happening inside my agency?' The short 'self' word sits right in front of the verb for 'is happening', turning the action back onto the subject.
+- 'Collaborators are preparing a secret departure.' A discreet disclosure revealing an imminent breakaway. Notice how 'are preparing' leads directly into the noun meaning 'associates'.
+- 'Are you speaking about Andrea Martel in particular?' A sharp deduction guessing the ringleader's identity. Inverting the verb and pronoun around 'do you speak' creates a crisp, polished question.
+- 'I cannot violate professional secrecy.' Notice the classic French sandwich negation wrapping right around 'can'. Notice the classic French sandwich negation wrapping right around 'can'.
+- 'It is a totally unexpected betrayal!' The adjective meaning 'unexpected' takes its feminine form here to match the noun it describes.
+- 'If I were in your place, I would watch my back.' A direct colloquial recommendation advising self-defense. Notice how 'would cover' leads directly into the noun meaning 'place'.
+- 'Thank you for this valuable warning, Charles.' A grateful acknowledgment thanking an old friend for the tip. The descriptive adjective for 'precious' agrees in gender and number with its noun.

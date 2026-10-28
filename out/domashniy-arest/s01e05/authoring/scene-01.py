@@ -1,32 +1,34 @@
-# domashniy-arest/s01e05/scene-01.py
-ID = "domashniy-arest-s01e05-scene-01"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e05-scene-01.
+ID = 'domashniy-arest-s01e05-scene-01'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 5
 SCENE = 1
-TITLE = "Авария  (The Crash)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.05"
-SOURCE_FILE = "sources/domashniy-arest/s01/e05.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "anya": "alisa", "ilona": "angelina"}
-LABELS = {"samson": "Самсон", "anya": "Аркадий", "ilona": "Илона"}
+TITLE = 'Авария  (The Crash)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'ilona': 'Илона', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.05'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e05.ru.dual.srt'
 INTRO = "Welcome back to House Arrest. We open at the crash site as traffic police make drunken Samson breathe into a breathalyser tube, and then cut back to the communal flat where Arkady and Ilona watch the breaking news report in horror. Let's listen in Russian first."
-STORY = [
-    ("samson", "Что я пил? Шипучку!", "What was I drinking? Fizzy wine!", [(1, 'Что пил'), (3, 'Шипучку')], "police officer's 'Что пил?' echoed by Samson as 'Что я пил?'"),
-    ("samson", "Надо дышать? В трубку дышать?", "Do I have to breathe? Breathe into the tube?", [(8, 'Надо дышать'), (10, 'В трубку дышать')], "officer's prompts turned into Samson's questions"),
-    ("samson", "Отпустите, пожалуйста! Отпустите меня!", "Let me go, please! Let me go!", [(11, 'Отпустите, пожалуйста'), (12, 'Отпустите')], "'меня' added"),
-    ("samson", "Три с половиной промилле? У меня семь кредитов!", "Three and a half per mille? I have seven loans!", [(17, 'Три с половиной промилле'), (18, 'У меня семь кредитов')], "officer's reading (17) echoed by Samson"),
-    ("samson", "Нет, не надо! Дань, ну скажи им!", "No, don't! Danya, come on, tell them!", [(26, 'Нет'), (7, 'Не надо'), (13, 'Дань, ну скажи')], "'им' added; Samson appeals to his lawyer friend Danila Golovkin"),
-    ("anya", "Смотри новости!", "Look at the news!", [(37, 'смотри')], "Arkady points at the television screen"),
-    ("anya", "У общества слепых произошла страшная авария!", "A terrible crash happened at the Society for the Blind!", [(40, 'общества слепых'), (41, 'произошла страшная авария')], "TV news report (40-41) voiced by Arkady watching television"),
-    ("anya", "На огромной скорости машина врезалась в здание!", "At huge speed the car crashed into the building!", [(42, 'на огромной скорости'), (43, 'в здании')], "cue 43 garbled 'обрезалась в здании' -> 'машина врезалась в здание'"),
-    ("anya", "Там начался пожар! Везде пожарные машины и полиция!", "A fire started there! Fire engines and police are everywhere!", [(44, 'начался пожар'), (44, 'пожарных машин')], "cue 44 adapted"),
-    ("ilona", "Ну что я тебе скажу, Аркаша? Это полный кошмар!", "Well, what can I tell you, Arkasha? This is a total nightmare!", [(45, 'ну что я тебе скажу, Аркаша, это полный')], "slang 'полярный лис / песец' replaced with 'кошмар'"),
-    ("ilona", "Вот я дура! Надо было работать на Осипенко.", "What a fool I am! I should have worked for Osipenko.", [(46, 'вот я дура, надо было работать на Осипенко')], ""),
-    ("anya", "Тихо, тихо! Ещё не всё потеряно!", "Easy, easy! Not everything is lost yet!", [(25, 'Тихо, тихо')], "Arkady tries to calm Ilona down"),
-]
 OPENER = "Let's go back through the scene step by step. Outside the damaged building of the Sineozersk Society for the Blind, police officers hold a breathalyser tube up to Samson's face."
+TRANSITION = "Now let's hear the whole opening scene again from the start."
+OUTRO = "So Samson's test drive has ended inside the wall of the Society for the Blind, and Ilona thinks their campaign for mayor is finished. See you next time!"
+CLOSING = ('ilona', 'Пока!')
+STORY = [
+    ('samson', 'Что я пил? Шипучку!', 'What was I drinking? Fizzy wine!', [(1, 'Что пил'), (3, 'Шипучку')], "police officer's 'Что пил?' echoed by Samson as 'Что я пил?'"),
+    ('samson', 'Надо дышать? В трубку дышать?', 'Do I have to breathe? Breathe into the tube?', [(8, 'Надо дышать'), (10, 'В трубку дышать')], "officer's prompts turned into Samson's questions"),
+    ('samson', 'Отпустите, пожалуйста! Отпустите меня!', 'Let me go, please! Let me go!', [(11, 'Отпустите, пожалуйста'), (12, 'Отпустите')], "'меня' added"),
+    ('samson', 'Три с половиной промилле? У меня семь кредитов!', 'Three and a half per mille? I have seven loans!', [(17, 'Три с половиной промилле'), (18, 'У меня семь кредитов')], "officer's reading (17) echoed by Samson"),
+    ('samson', 'Нет, не надо! Дань, ну скажи им!', "No, don't! Danya, come on, tell them!", [(26, 'Нет'), (7, 'Не надо'), (13, 'Дань, ну скажи')], "'им' added; Samson appeals to his lawyer friend Danila Golovkin"),
+    ('arkady', 'Смотри новости!', 'Look at the news!', [(37, 'смотри')], 'Arkady points at the television screen'),
+    ('arkady', 'У общества слепых произошла страшная авария!', 'A terrible crash happened at the Society for the Blind!', [(40, 'общества слепых'), (41, 'произошла страшная авария')], 'TV news report (40-41) voiced by Arkady watching television'),
+    ('arkady', 'На огромной скорости машина врезалась в здание!', 'At huge speed the car crashed into the building!', [(42, 'на огромной скорости'), (43, 'в здании')], "cue 43 garbled 'обрезалась в здании' -> 'машина врезалась в здание'"),
+    ('arkady', 'Там начался пожар! Везде пожарные машины и полиция!', 'A fire started there! Fire engines and police are everywhere!', [(44, 'начался пожар'), (44, 'пожарных машин')], 'cue 44 adapted'),
+    ('ilona', 'Ну что я тебе скажу, Аркаша? Это полный кошмар!', 'Well, what can I tell you, Arkasha? This is a total nightmare!', [(45, 'ну что я тебе скажу, Аркаша, это полный')], "slang 'полярный лис / песец' replaced with 'кошмар'"),
+    ('ilona', 'Вот я дура! Надо было работать на Осипенко.', 'What a fool I am! I should have worked for Osipenko.', [(46, 'вот я дура, надо было работать на Осипенко')], ''),
+    ('arkady', 'Тихо, тихо! Ещё не всё потеряно!', 'Easy, easy! Not everything is lost yet!', [(25, 'Тихо, тихо')], 'Arkady tries to calm Ilona down'),
+]
 WALK = [
     (0, None, "'What was I drinking? Fizzy wine!' The word Samson uses for sparkling wine comes from the verb 'to fizz' and is in the direct-object form after the verb 'was drinking'."),
     (1, None, "'Do I have to breathe? Breathe into the tube?' Literally 'it is necessary to breathe', followed by the preposition 'into' with the direct-object form of 'little tube'."),
@@ -44,6 +46,3 @@ WALK = [
     (10, 'Надо было работать на Осипенко.', "'I should have worked for Osipenko.' Literally 'it was necessary to work on Osipenko' — working for a boss uses the preposition 'on' with the direct-object form."),
     (11, None, "'Easy, easy! Not everything is lost yet!' Literally 'quietly, quietly', using the short passive form 'lost' in the neuter form."),
 ]
-TRANSITION = "Now let's hear the whole opening scene again from the start."
-OUTRO = "So Samson's test drive has ended inside the wall of the Society for the Blind, and Ilona thinks their campaign for mayor is finished. See you next time!"
-CLOSING = ("ilona", "Пока!")

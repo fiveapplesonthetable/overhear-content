@@ -7,7 +7,6 @@ SCENE = 7
 TITLE = "La dernière prise d'Hervé  (Hervé's Last Take)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'valerie': 'emilie'}
 LABELS = {'herve': 'Hervé', 'valerie': 'Valérie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'

@@ -7,7 +7,6 @@ SCENE = 18
 TITLE = "Face à la vérité  (I Can't Love You)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
 LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'

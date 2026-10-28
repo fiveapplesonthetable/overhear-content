@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Что у тебя есть. | Everything that you have. | #115 00:06:50: что у тебя есть | verbatim |
-| 2 | Настя | Даже твоя гражданская позиция. | Even your civic stance. | #115 00:06:50: даже твоя гражданская позиция | verbatim |
-| 3 | Настя | Это заслуга моих коров и свиней. | Is thanks to my cows and pigs. | #116 00:06:54: это заслуга моих коров и свиней | verbatim |
-| 4 | Настя | Ничего не надо. | I do not need anything from you. | #119 00:07:08: ничего не надо | verbatim |
-| 5 | Настя | Думал, я без его денег не проживу. | He thought I would not survive without his money. | #121 00:07:16: Думал, я без его денег не проживу | verbatim |
-| 6 | Настя | А я взяла и из дома ушла. | So I up and walked right out of the house. | #122 00:07:19: А я взяла и из дома ушла | verbatim |
-| 7 | Настя | Он взял и обиделся. | And he got offended. | #123 00:07:21: Он взял и обиделся | verbatim |
-| 8 | Настя | Он меня никогда не понимал. | He has never understood me. | #124 00:07:27: Он меня никогда не понимал | verbatim |
-| 9 | Настя | А тут еще ты его побил. | And on top of that, you beat him up. | #125 00:07:28: А тут еще ты его побил | verbatim |
-| 10 | Настя | Настя, слушай, давай-ка мне его номер телефона. | Nastya, listen, give me his phone number. | #126 00:07:31: Настя, слушай, давай-ка мне его номер телефона | verbatim |
-| 11 | Настя | У меня завтра выходной. | Tomorrow is my day off. | #127 00:07:37: У меня завтра выходной | verbatim |
-| 12 | Настя | Я как раз ему позвоню и все. | I will give him a call and sort everything out. | #127 00:07:37: я как раз ему позвоню и все | verbatim |
-| 13 | Настя | Дурацкое мясо, из-за тебя одни проблемы. | Stupid meat, it causes nothing but trouble. | #129 00:07:49: Дурацкое мясо, из-за тебя одни проблемы | verbatim |
+| 1 | Настя | Что у тебя есть. | Everything that you have. | #115: что у тебя есть | verbatim |
+| 2 | Вика | Даже твоя гражданская позиция. | Even your civic stance. | #115: даже твоя гражданская позиция | verbatim |
+| 3 | Настя | Это заслуга моих коров и свиней. | Is thanks to my cows and pigs. | #116: это заслуга моих коров и свиней | verbatim |
+| 4 | Вика | Ничего не надо. | I do not need anything from you. | #119: ничего не надо | verbatim |
+| 5 | Настя | Думал, я без его денег не проживу. | He thought I would not survive without his money. | #121: Думал, я без его денег не проживу | verbatim |
+| 6 | Вика | А я взяла и из дома ушла. | So I up and walked right out of the house. | #122: А я взяла и из дома ушла | verbatim |
+| 7 | Настя | Он взял и обиделся. | And he got offended. | #123: Он взял и обиделся | verbatim |
+| 8 | Вика | Он меня никогда не понимал. | He has never understood me. | #124: Он меня никогда не понимал | verbatim |
+| 9 | Настя | А тут еще ты его побил. | And on top of that, you beat him up. | #125: А тут еще ты его побил | verbatim |
+| 10 | Вика | Настя, слушай, давай-ка мне его номер телефона. | Nastya, listen, give me his phone number. | #126: Настя, слушай, давай-ка мне его номер телефона | verbatim |
+| 11 | Настя | У меня завтра выходной. | Tomorrow is my day off. | #127: У меня завтра выходной | verbatim |
+| 12 | Вика | Я как раз ему позвоню и все. | I will give him a call and sort everything out. | #127: я как раз ему позвоню и все | verbatim |
+| 13 | Настя | Дурацкое мясо, из-за тебя одни проблемы. | Stupid meat, it causes nothing but trouble. | #129: Дурацкое мясо, из-за тебя одни проблемы | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything that you have.' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'there is'. Vika answers right away.
-- 'Even your civic stance.' The grammar packs 'even' and 'position' into a tight, idiomatic kitchen exchange.
-- 'Is thanks to my cows and pigs.' Nastya anchors the line on 'this', while 'pigs' completes the thought.
-- 'I do not need anything from you.' In Russian, the idea of 'nothing' flows naturally into 'at' without extra filler words. Nastya answers right away.
-- 'He thought I would not survive without his money.' The meaning hinges on 'thought' working together with 'to live through' in spoken Russian.
-- 'So I up and walked right out of the house.' In Russian, the idea of 'and' flows naturally into 'left' without extra filler words.
-- 'And he got offended.' The '-l' ending on the verb meaning 'got' places the action in the masculine past tense. Vika answers right away.
-- 'He has never understood me.' Vika brings out the contrast between 'he' and 'me' in a few short words.
-- 'And on top of that, you beat him up.' Nastya anchors the line on 'and', while 'beat up' completes the thought.
-- 'Nastya, listen, give me his phone number.' Notice how Russian expresses 'Nastya' and 'phone' with crisp inflection rather than helper words. Nastya answers right away.
-- 'Tomorrow is my day off.' The grammar packs 'by' and 'a day off' into a tight, idiomatic kitchen exchange.
-- 'I will give him a call and sort everything out.' In Russian, the idea of 'I' flows naturally into 'all' without extra filler words.
-- 'Stupid meat, it causes nothing but trouble.' Notice how Russian expresses 'foolish' and 'problems' with crisp inflection rather than helper words.
+- 'Everything that you have.' Once everything that Vika has, Nastya can finally tell Vika what she means.
+- 'Even your civic stance.' Between the moment and the conversation, Vika gives Nastya a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Is thanks to my cows and pigs.' Nastya tells Vika that is thanks to her cows and pigs without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I do not need anything from you.' Since she does not need anything from Nastya, Vika does not waste words on excuses.
+- 'He thought I would not survive without his money.' Mentioning that he thought she would not survive without his money moves the talk in a new direction.
+- 'So I up and walked right out of the house.' Vika reminds Nastya that she up and walked right out of the house before the moment passes.
+- 'And he got offended.' Because he got offended, Nastya treats the matter as settled.
+- 'He has never understood me.' Explaining that he has never understood lays the cards on the table for Nastya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'And on top of that, you beat him up.' Nastya mentions that on top of that Vika beats him up so Vika sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Nastya, listen, give me his phone number.' Here telling Nastya to give her his phone number sets up the next turn in their exchange.
+- 'Tomorrow is my day off.' Pointing out that tomorrow is her day off gives Vika a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I will give him a call and sort everything out.' Vika explains that she will give him a call and sort everything out, keeping her voice calm and direct.
+- 'Stupid meat, it causes nothing but trouble.' Between the work and the phone, Nastya gives Vika a quick, grounded response.

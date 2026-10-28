@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Посмотри, что они там творят! | Look at what they are doing over there! | #84 00:06:03: смотри, что творит | verbatim |
-| 2 | Самсон | Они выложили фотографию прямо из душа. | They posted a photo straight from the shower. | #87 00:06:12: Мы в душе | verbatim |
-| 3 | Самсон | Я пойду и переломаю ему кости! | I will go and break his bones! | #91 00:06:20: Надо пойти ему кости переломать | verbatim |
-| 4 | Аня | Самсон, успокойся и не накручивай себя. | Samson, calm down and don't wind yourself up. | #92 00:06:23: Да не накручивай себя, Самсон | verbatim |
-| 5 | Аня | Ты скоро выиграешь выборы и станешь мэром. | You will soon win the election and become mayor. | #93 00:06:24: Ты мэром станешь | verbatim |
-| 6 | Аня | У тебя будет сто таких женщин! | You will have a hundred such women! | #93 00:06:24: у тебя сто таких нин будет | verbatim |
-| 7 | Илона | Привет всем! Что вы тут грустите? | Hello everyone! Why are you sad here? | #97 00:06:32: Привет | verbatim |
-| 8 | Самсон | Илона, почему ты такая радостная сегодня? | Ilona, why are you so joyful today? | #101 00:06:48: А ты чего такая радостная | verbatim |
-| 9 | Илона | У меня есть одна важная новость. | I have one important piece of news. | #102 00:06:50: есть одна маленькая | verbatim |
-| 10 | Аня | И какая же у тебя новость? | And what news do you have? | #103 00:06:55: Чего | verbatim |
-| 11 | Илона | К нам в город приезжает президент! | The president is coming to our town! | #103 00:06:55: Какой еще | verbatim |
+| 1 | Самсон | Посмотри, что они там творят! | Look at what they are doing over there! | #84: смотри, что творит | verbatim |
+| 2 | Самсон | Они выложили фотографию прямо из душа. | They posted a photo straight from the shower. | #87: Мы в душе | verbatim |
+| 3 | Самсон | Я пойду и переломаю ему кости! | I will go and break his bones! | #91: Надо пойти ему кости переломать | verbatim |
+| 4 | Аркадий | Самсон, успокойся и не накручивай себя. | Samson, calm down and don't wind yourself up. | #92: Да не накручивай себя, Самсон | verbatim |
+| 5 | Аркадий | Ты скоро выиграешь выборы и станешь мэром. | You will soon win the election and become mayor. | #93: Ты мэром станешь | verbatim |
+| 6 | Аркадий | У тебя будет сто таких женщин! | You will have a hundred such women! | #93: у тебя сто таких нин будет | verbatim |
+| 7 | Илона | Привет всем! Что вы тут грустите? | Hello everyone! Why are you sad here? | #97: Привет | verbatim |
+| 8 | Самсон | Илона, почему ты такая радостная сегодня? | Ilona, why are you so joyful today? | #101: А ты чего такая радостная | verbatim |
+| 9 | Илона | У меня есть одна важная новость. | I have one important piece of news. | #102: есть одна маленькая | verbatim |
+| 10 | Аркадий | И какая же у тебя новость? | And what news do you have? | #103: Чего | verbatim |
+| 11 | Илона | К нам в город приезжает президент! | The president is coming to our town! | #103: Какой еще | verbatim |
 | 12 | Самсон | Президент? Ты говоришь совершенно серьёзно? | The president? Are you speaking completely seriously? | new | new |
-| 13 | Илона | Да, сам президент едет к нам! | Yes, the president himself is coming to us! | #104 00:06:58: Тот самый | verbatim |
+| 13 | Илона | Да, сам президент едет к нам! | Yes, the president himself is coming to us! | #104: Тот самый | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

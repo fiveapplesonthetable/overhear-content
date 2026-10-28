@@ -1,36 +1,38 @@
-# domashniy-arest/s01e04/scene-14.py
-ID = "domashniy-arest-s01e04-scene-14"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e04-scene-14.
+ID = 'domashniy-arest-s01e04-scene-14'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 4
 SCENE = 14
 TITLE = "Приказ губернатора  (The Governor's Order)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.04"
-SOURCE_FILE = "sources/domashniy-arest/s01/e04.ru.dual.srt"
-VOICES = {"narrator": "sky", "pasha": "anja", "governor": "angelina"}
-LABELS = {"pasha": "Паша", "governor": "Губернатор"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'governor': 'Губернатор', 'ilona': 'Илона', 'pasha': 'Паша'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.04'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e04.ru.dual.srt'
 INTRO = "Last time, Moscow strategist Ilona Leonidovna arrived at Pasha's campaign headquarters just as Ksyusha reported that Ivan Samsonov had entered the race for mayor. Moments later, Governor Viktor Stepanovich calls Pasha by video link from a winter park to demand action against Samsonov, and then Pasha takes his temper out on Ilona. We'll hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("pasha", "Виктор Степанович, приветствую. Я совсем не радостный.", "Viktor Stepanovich, greetings. I'm not happy at all.", [(478, 'Виктор Степанович, приветствую'), (481, 'Я не радостный'), (481, 'совсем')], ""),
-    ("governor", "Ты предпринимаешь что-нибудь?", "Are you doing anything about it?", [(482, 'Ты предпринимаешь что-нибудь')], ""),
-    ("pasha", "Конечно, предпринимаю. А как же?", "Of course I am. How else?", [(483, 'Конечно, предпринимаю. А как же')], ""),
-    ("governor", "Что-то голос какой-то не очень уверенный. Что конкретно?", "Your voice doesn't sound very confident. What specifically?", [(484, 'Что-то голос какой-то не очень уверенный'), (487, 'Что конкретно')], ""),
-    ("pasha", "Ну, мы тут всё обсуждали.", "Well, we've been discussing everything here.", [(486, 'Мы тут'), (489, 'Обсуждали')], ""),
-    ("governor", "Ты не обсуждай, ты действуй! Самсонова надо ликвидировать!", "Don't discuss, act! Samsonov must be eliminated!", [(490, 'ты не обсуждай'), (491, 'Ты действуй'), (492, 'Самсонова надо ликвидировать')], "dropped insult 'дятел' in cue 490"),
-    ("pasha", "В смысле, Виктор Степанович? Прямо так, да?", "What do you mean, Viktor Stepanovich? Just like that?", [(493, 'В смысле, Виктор Степанович'), (495, 'так, да')], "cue 495 'Прям' -> 'Прямо'"),
-    ("governor", "Политически!", "Politically!", [(496, 'Политически')], "dropped insult 'чучело'"),
-    ("pasha", "А, ну я так и думал. Политически, конечно.", "Ah, well, that's what I thought. Politically, of course.", [(497, 'А, ну я так и думал, политически, конечно')], "split into two short sentences"),
-    ("governor", "Произошла накладка. Меня никто не встретил на вокзале.", "There was a mix-up. Nobody met me at the station.", [(515, 'произошла накладка'), (516, 'меня никто не встретил на вокзале')], "split into two short sentences"),
-    ("pasha", "Это не накладка. Вас и не должны были встречать.", "That's not a mix-up. Nobody was supposed to meet you.", [(517, 'Это не накладка'), (518, 'Вас и не должны были встречать')], ""),
-    ("governor", "Как так?", "How so?", [(519, 'Как так')], ""),
-    ("pasha", "А вот так. Потому что у нас бюджет урезан.", "Just like that. Because our budget has been cut.", [(520, 'А вот так'), (520, 'Потому что у нас бюджет урезан')], ""),
-    ("pasha", "Вы теперь работаете не на своего дружка Аникеева. Вы работаете на меня.", "You no longer work for your friend Anikeev. You work for me.", [(521, 'вы теперь работаете не на своего дружка'), (522, 'а на меня')], "cue 522 mistranscribes 'Аникеева' as 'а не Киева'; split into two short sentences"),
-    ("pasha", "Я жду только одного — результатов от вас. Работайте!", "I expect only one thing: results from you. Get to work!", [(528, 'Я жду только одного. Результатов от вас'), (529, 'Работайте')], ""),
-    ("governor", "Хорошо. Хорошо.", "Fine. Fine.", [(530, 'Хорошо. Хорошо')], ""),
-]
 OPENER = "Let's go back through the scene line by line. Pasha stands nervously in front of the wall screen as the governor's face appears."
+TRANSITION = "Let's listen to the whole conversation again from start to finish."
+OUTRO = "So the governor orders Pasha to eliminate Samsonov politically, and Pasha foolishly antagonises his own Moscow strategist on her first day. Listen for 'act', 'politically', and 'results' when you watch. See you next time!"
+CLOSING = ('pasha', 'Пока!')
+STORY = [
+    ('pasha', 'Виктор Степанович, приветствую. Я совсем не радостный.', "Viktor Stepanovich, greetings. I'm not happy at all.", [(478, 'Виктор Степанович, приветствую'), (481, 'Я не радостный'), (481, 'совсем')], ''),
+    ('governor', 'Ты предпринимаешь что-нибудь?', 'Are you doing anything about it?', [(482, 'Ты предпринимаешь что-нибудь')], ''),
+    ('pasha', 'Конечно, предпринимаю. А как же?', 'Of course I am. How else?', [(483, 'Конечно, предпринимаю. А как же')], ''),
+    ('governor', 'Что-то голос какой-то не очень уверенный. Что конкретно?', "Your voice doesn't sound very confident. What specifically?", [(484, 'Что-то голос какой-то не очень уверенный'), (487, 'Что конкретно')], ''),
+    ('pasha', 'Ну, мы тут всё обсуждали.', "Well, we've been discussing everything here.", [(486, 'Мы тут'), (489, 'Обсуждали')], ''),
+    ('governor', 'Ты не обсуждай, ты действуй! Самсонова надо ликвидировать!', "Don't discuss, act! Samsonov must be eliminated!", [(490, 'ты не обсуждай'), (491, 'Ты действуй'), (492, 'Самсонова надо ликвидировать')], "dropped insult 'дятел' in cue 490"),
+    ('pasha', 'В смысле, Виктор Степанович? Прямо так, да?', 'What do you mean, Viktor Stepanovich? Just like that?', [(493, 'В смысле, Виктор Степанович'), (495, 'так, да')], "cue 495 'Прям' -> 'Прямо'"),
+    ('governor', 'Политически!', 'Politically!', [(496, 'Политически')], "dropped insult 'чучело'"),
+    ('pasha', 'А, ну я так и думал. Политически, конечно.', "Ah, well, that's what I thought. Politically, of course.", [(497, 'А, ну я так и думал, политически, конечно')], 'split into two short sentences'),
+    ('ilona', 'Произошла накладка. Меня никто не встретил на вокзале.', 'There was a mix-up. Nobody met me at the station.', [(515, 'произошла накладка'), (516, 'меня никто не встретил на вокзале')], 'split into two short sentences'),
+    ('pasha', 'Это не накладка. Вас и не должны были встречать.', "That's not a mix-up. Nobody was supposed to meet you.", [(517, 'Это не накладка'), (518, 'Вас и не должны были встречать')], ''),
+    ('ilona', 'Как так?', 'How so?', [(519, 'Как так')], ''),
+    ('pasha', 'А вот так. Потому что у нас бюджет урезан.', 'Just like that. Because our budget has been cut.', [(520, 'А вот так'), (520, 'Потому что у нас бюджет урезан')], ''),
+    ('pasha', 'Вы теперь работаете не на своего дружка Аникеева. Вы работаете на меня.', 'You no longer work for your friend Anikeev. You work for me.', [(521, 'вы теперь работаете не на своего дружка'), (522, 'а на меня')], "cue 522 mistranscribes 'Аникеева' as 'а не Киева'; split into two short sentences"),
+    ('pasha', 'Я жду только одного — результатов от вас. Работайте!', 'I expect only one thing: results from you. Get to work!', [(528, 'Я жду только одного. Результатов от вас'), (529, 'Работайте')], ''),
+    ('ilona', 'Хорошо. Хорошо.', 'Fine. Fine.', [(530, 'Хорошо. Хорошо')], ''),
+]
 WALK = [
     (0, 'Виктор Степанович, приветствую.', "'Viktor Stepanovich, greetings.' A formal, slightly stiff greeting to his boss."),
     (0, 'Я совсем не радостный.', "'I'm not happy at all.' The governor has just asked why Pasha looks so cheerful when Samsonov is on television all day. The adjective has the masculine ending '-iy'. The governor gets straight to the point."),
@@ -56,6 +58,3 @@ WALK = [
     (14, 'Работайте!', "'Get to work!' A plural formal command. Ilona swallows her anger."),
     (15, None, "'Fine. Fine.' She repeats the word calmly, but she will not forget how Pasha treated her."),
 ]
-TRANSITION = "Let's listen to the whole conversation again from start to finish."
-OUTRO = "So the governor orders Pasha to eliminate Samsonov politically, and Pasha foolishly antagonises his own Moscow strategist on her first day. Listen for 'act', 'politically', and 'results' when you watch. See you next time!"
-CLOSING = ("pasha", "Пока!")

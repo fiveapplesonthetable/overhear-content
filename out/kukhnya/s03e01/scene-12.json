@@ -8,14 +8,10 @@
  "scene": 12,
  "title": "Заговор официантов  (The Waiters' Conspiracy)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "anya": "alisa",
-  "chef": "anja"
- },
  "labels": {
-  "anya": "Макс",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "guest": "Гость",
+  "nastya": "Настя"
  },
  "segments": [
   {
@@ -24,62 +20,62 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я вас не особо люблю.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И знаю, что это взаимно.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Если до конца недели никто не закажет...",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Договорились?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Да, шеф. Я всё сделаю, шеф.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Виктор Петрович, я думаю, это нечестно.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я уберу из меню молочного ягнёнка.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Скажите, а что это за молекулярная кухня?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Вы знаете, я бы вам не советовал.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Сплошная химия, и очень дорого.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Я бы не советовала вам это заказывать.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Повар новый, неопытный.",
    "gap": 0.9
   },
@@ -89,182 +85,182 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я вас не особо люблю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I am not particularly fond of you.' Notice how Russian expresses 'I' and 'like' with crisp inflection rather than helper words.",
+   "t": "'I am not particularly fond of you.' Barinov tells the guest that he is not particularly fond of the guest without dressing it up. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И знаю, что это взаимно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And I know that it is mutual.' Chef Barinov anchors the line on 'and', while 'mutually' completes the thought.",
+   "t": "'And I know that it is mutual.' Adding that he knows that it is mutual fills in the missing piece for the guest.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Если до конца недели никто не закажет...",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'If until the end of the week nobody orders...' The grammar packs 'if' and 'orders' into a tight, idiomatic kitchen exchange.",
+   "t": "'If until the end of the week nobody orders...' Adding that if until the end of the week nobody orders fills in the missing piece for the guest. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Договорились?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do we have a deal?' Here the Russian phrasing highlights 'agreed' before landing on 'agreed'. Max answers right away.",
+   "t": "'Do we have a deal?' By checking whether they have a deal, Barinov presses the guest for a straight answer. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Да, шеф. Я всё сделаю, шеф.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Yes, Chef. I will do everything, Chef.' In Russian, the idea of 'yes' flows naturally into 'will do' without extra filler words.",
+   "t": "'Yes, Chef. I will do everything, Chef.' Since she will do everything, Nastya does not waste words on excuses.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Виктор Петрович, я думаю, это нечестно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Viktor Petrovich, I think this is unfair.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'unfair'.",
+   "t": "'Viktor Petrovich, I think this is unfair.' Realizing that she thinks this is unfair changes how Nastya handles the situation. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я уберу из меню молочного ягнёнка.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I will remove the milk-fed lamb from the menu.' Notice how Russian expresses 'I' and 'lamb' with crisp inflection rather than helper words. the guest answers right away.",
+   "t": "'I will remove the milk-fed lamb from the menu.' Saying that he will remove the milk fed lamb from the menu is how Barinov sets the tone with the guest.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Скажите, а что это за молекулярная кухня?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Tell me, what is this molecular cuisine?' the guest brings out the contrast between 'say' and 'and' in a few short words.",
+   "t": "'Tell me, what is this molecular cuisine?' When the guest asks if tell him what is this molecular cuisine, Barinov has to answer fast.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Вы знаете, я бы вам не советовал.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You know, I would not advise you to get it.' Max chooses the respectful plural 'you' alongside 'to advise' to keep a polite distance.",
+   "t": "'You know, I would not advise you to get it.' Explaining that she would not advise Barinov to get it lays the cards on the table for Barinov. Even in the middle of the drama, she keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Сплошная химия, и очень дорого.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Pure chemicals, and very expensive.' Max anchors the line on 'continuous', while 'expensive' completes the thought.",
+   "t": "'Pure chemicals, and very expensive.' With the truth and menu in play, Nastya keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Я бы не советовала вам это заказывать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I would not advise you to order this.' The negative particle sits right before the verb meaning 'to advise' to negate the statement.",
+   "t": "'I would not advise you to order this.' Claiming that she would not advise Barinov to order this sounds confident, even if Barinov has doubts.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Повар новый, неопытный.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'The cook is new and inexperienced.' The meaning hinges on 'cook' working together with 'inexperienced' in spoken Russian. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'The cook is new and inexperienced.' Pointing out that the cook is new and inexperienced gives Barinov a sobering reality check. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я вас не особо люблю.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И знаю, что это взаимно.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Если до конца недели никто не закажет...",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Договорились?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Да, шеф. Я всё сделаю, шеф.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Виктор Петрович, я думаю, это нечестно.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я уберу из меню молочного ягнёнка.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Скажите, а что это за молекулярная кухня?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Вы знаете, я бы вам не советовал.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Сплошная химия, и очень дорого.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Я бы не советовала вам это заказывать.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Повар новый, неопытный.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "nastya",
    "t": "Пока!",
    "gap": 0.3
   }

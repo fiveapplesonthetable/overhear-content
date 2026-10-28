@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Добрый день, Елена. | Good afternoon, Elena. | #89 00:05:30: Добрый день, Елена | verbatim |
-| 2 | Лёва | Добрый, Виктор Петрович. | Good afternoon, Viktor Petrovich. | #91 00:05:34: Добрый, Виктор Петрович | verbatim |
-| 3 | Лёва | Мы же вроде на ты перешли. | I thought we switched to first-name terms. | #92 00:05:36: Мы же вроде на ты перешли | verbatim |
-| 4 | Шеф | Мне показалось. | It seemed to me. | #93 00:05:37: мне показалось | verbatim |
-| 5 | Лёва | Что вчера мы расстались на вы. | That yesterday we parted on formal terms. | #93 00:05:37: что вчера мы расстались на вы | verbatim |
-| 6 | Лёва | Вам показалось. | You just imagined that. | #94 00:05:42: Вам показалось | verbatim |
-| 7 | Шеф | Ну, это нормально ведь уж. | Well, that is completely normal after all. | #95 00:05:51: Ну, это нормально ведь уж | verbatim |
-| 8 | Лёва | Что с конкурентами борются. | People always compete with their rivals. | #96 00:05:53: что с конкурентами борются | verbatim |
-| 9 | Лёва | Только я думал. | Only I was thinking. | #96 00:05:53: Только я думал | verbatim |
-| 10 | Шеф | Живу с Левой, которая живет с мамой. | I live with Lyova, who lives with his mother. | #98 00:06:02: Живу с Левой, которая живет с мамой | verbatim |
-| 11 | Лёва | Ага, с этим Спартаком снимешь. | Yeah, good luck renting an apartment with Spartak playing like that. | #101 00:06:14: Ага, с этим Спартаком снимешь | verbatim |
-| 12 | Лёва | Играют через раз. | They only win every other game. | #102 00:06:16: Играют через раз | verbatim |
-| 13 | Шеф | Еще скажи в машине, как подростки. | Next you will suggest doing it in the car like teenagers. | #105 00:06:22: Еще скажи в машине, как подростки | verbatim |
+| 1 | Шеф | Добрый день, Елена. | Good afternoon, Elena. | #89: Добрый день, Елена | verbatim |
+| 2 | Вика | Добрый, Виктор Петрович. | Good afternoon, Viktor Petrovich. | #91: Добрый, Виктор Петрович | verbatim |
+| 3 | Лёва | Мы же вроде на ты перешли. | I thought we switched to first-name terms. | #92: Мы же вроде на ты перешли | verbatim |
+| 4 | Шеф | Мне показалось. | It seemed to me. | #93: мне показалось | verbatim |
+| 5 | Вика | Что вчера мы расстались на вы. | That yesterday we parted on formal terms. | #93: что вчера мы расстались на вы | verbatim |
+| 6 | Лёва | Вам показалось. | You just imagined that. | #94: Вам показалось | verbatim |
+| 7 | Шеф | Ну, это нормально ведь уж. | Well, that is completely normal after all. | #95: Ну, это нормально ведь уж | verbatim |
+| 8 | Вика | Что с конкурентами борются. | People always compete with their rivals. | #96: что с конкурентами борются | verbatim |
+| 9 | Лёва | Только я думал. | Only I was thinking. | #96: Только я думал | verbatim |
+| 10 | Шеф | Живу с Левой, которая живет с мамой. | I live with Lyova, who lives with his mother. | #98: Живу с Левой, которая живет с мамой | verbatim |
+| 11 | Вика | Ага, с этим Спартаком снимешь. | Yeah, good luck renting an apartment with Spartak playing like that. | #101: Ага, с этим Спартаком снимешь | verbatim |
+| 12 | Лёва | Играют через раз. | They only win every other game. | #102: Играют через раз | verbatim |
+| 13 | Шеф | Еще скажи в машине, как подростки. | Next you will suggest doing it in the car like teenagers. | #105: Еще скажи в машине, как подростки | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Elena.' Chef Viktor anchors the line on 'good', while 'Elena' completes the thought. Vika answers right away.
-- 'Good afternoon, Viktor Petrovich.' In Russian, the idea of 'good' flows naturally into 'Petrovich' without extra filler words.
-- 'I thought we switched to first-name terms.' Spoken Russian keeps this brisk, leaning on 'we' and finishing on 'moved on'.
-- 'It seemed to me.' Spoken Russian keeps this brisk, leaning on 'for me' and finishing on 'seemed'. Vika answers right away.
-- 'That yesterday we parted on formal terms.' Here Vika anchors the thought on 'yesterday' and finishes on 'broke up, separated', keeping the spoken rhythm brisk and natural.
-- 'You just imagined that.' The grammar packs 'for you' and 'seemed' into a tight, idiomatic kitchen exchange.
-- 'Well, that is completely normal after all.' The meaning hinges on 'come on' working together with 'please' in spoken Russian. Vika answers right away.
-- 'People always compete with their rivals.' The grammar packs 'what' and 'to fight' into a tight, idiomatic kitchen exchange.
-- 'Only I was thinking.' Lyova brings out the contrast between 'only' and 'I' in a few short words.
-- 'I live with Lyova, who lives with his mother.' In Russian, the idea of 'live' flows naturally into 'Mum' without extra filler words. Vika answers right away.
-- 'Yeah, good luck renting an apartment with Spartak playing like that.' Here the Russian phrasing highlights 'yeah' before landing on 'will take off'.
-- 'They only win every other game.' The grammar packs 'to play' and 'time' into a tight, idiomatic kitchen exchange.
-- 'Next you will suggest doing it in the car like teenagers.' Spoken Russian keeps this brisk, leaning on 'else' and finishing on 'teenagers'.
+- 'Good afternoon, Elena.' Over the kitchen and the room, Barinov answers Lyova without a second thought.
+- 'Good afternoon, Viktor Petrovich.' Around the kitchen and situation, Vika sets a calm, everyday tone with Barinov.
+- 'I thought we switched to first-name terms.' Lyova mentions that he thought they switched to first name terms so Barinov sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It seemed to me.' Over the shift and the situation, Barinov answers Lyova without a second thought.
+- 'That yesterday we parted on formal terms.' Around the shift and situation, Vika sets a calm, everyday tone with Barinov.
+- 'You just imagined that.' Between the shift and the situation, Lyova gives Barinov a quick, grounded response. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Well, that is completely normal after all.' Realizing that that is completely normal after all changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'People always compete with their rivals.' Over the truth and the conversation, Vika answers Barinov without a second thought.
+- 'Only I was thinking.' Even though only he was thinking, Lyova keeps a steady face in front of Barinov.
+- 'I live with Lyova, who lives with his mother.' Living with Lyova who lives with his mother moves the conversation forward without extra drama.
+- 'Yeah, good luck renting an apartment with Spartak playing like that.' Between the truth and the room, Vika gives Barinov a quick, grounded response.
+- 'They only win every other game.' With the truth and situation in play, Lyova keeps this short reply brisk and direct.
+- 'Next you will suggest doing it in the car like teenagers.' Adding that next Lyova will suggest doing it in the car like teenagers fills in the missing piece for Lyova.

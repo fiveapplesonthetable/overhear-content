@@ -7,7 +7,6 @@ SCENE = 3
 TITLE = 'Garder Jean Gabin  (Looking After Jean Gabin)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'herve': 'marcel'}
 LABELS = {'arlette': 'Arlette', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'

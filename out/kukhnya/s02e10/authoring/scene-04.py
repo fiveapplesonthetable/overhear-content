@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e10-scene-04.
 ID = 'kukhnya-s02e10-scene-04'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 4
-TITLE = "Сашу выгнали из квартиры  (Sasha Gets Evicted from Her Apartment)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сашу выгнали из квартиры  (Sasha Gets Evicted from Her Apartment)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
 SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
-
 INTRO = 'At the bar counter, Sasha confesses to Max that her landlady kicked her out of the apartment and demanded a huge sum for the water damage that she cannot afford. Before Max can figure out how to help her, Nastya grabs Kostya by the hand and drags him away.'
-
+OPENER = "Let's walk back through the scene line by line."
+TRANSITION = "Let's hear the full exchange one more time at natural speed."
+OUTRO = 'That wraps up this scene as sasha tells Max at the bar that her landlady evicted her over the flood damage, while Nastya pulls Kostya aside with an unexpected request. See you next time!'
+CLOSING = ('kostya', 'До завтра!')
 STORY = [
     ('kostya', 'Привет, как дела?', 'Hey, how are things going?', [(54, 'Привет, как дела')], ''),
     ('nastya', 'Да ничего.', 'Not bad.', [(55, 'Да ничего')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('nastya', 'Настя, подожди, ты серьезно?', 'Nastya, wait a second, are you serious?', [(69, 'Настя, подожди, ты серьезно')], ''),
     ('kostya', 'Ты серьезно, что ли?', 'Are you actually serious right now?', [(71, 'Ты серьезно, что ли')], ''),
 ]
-
-OPENER = "Let's walk back through the scene line by line."
-
 WALK = [
-    (0, None, "'Hey, how are things going?' Here the Russian phrasing highlights 'regards' before landing on 'things'."),
-    (1, None, "'Not bad.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'nothing'. Kostya answers right away."),
-    (2, None, "'My landlady kicked me out of the apartment.' The meaning hinges on 'me' working together with 'kicked out' in spoken Russian."),
-    (3, None, "'What do you mean she kicked you out?' Nastya anchors the line on 'how', while 'kicked out' completes the thought."),
-    (4, None, "'Wait, did you two really mop the floors?' Here the Russian phrasing highlights 'you' before landing on 'to wash'. Nastya answers right away."),
-    (5, None, "'And what are you going to do now?' Notice how Russian puts 'will you' and 'what is one to do' together in a short, direct phrase where word endings show how the ideas connect."),
-    (6, None, "'I do not know, she said either...' Notice how Russian expresses 'not' and 'or' with crisp inflection rather than helper words."),
-    (7, None, "'I do not have that kind of money.' Notice how Russian expresses 'by' and 'there is no' with crisp inflection rather than helper words. Kostya answers right away."),
-    (8, None, "'I really do not know.' In Russian, the idea of 'yes' flows naturally into 'know' without extra filler words."),
-    (9, None, "'It is fine, I will think of something.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'will come up with'."),
-    (10, None, "'Kostik, come with me.' Kostya brings out the contrast between 'Kostik' and 'let's go' in a few short words. Nastya answers right away."),
-    (11, None, "'Nastya, wait a second, are you serious?' Here the Russian phrasing highlights 'Nastya' before landing on 'seriously'."),
-    (12, None, "'Are you actually serious right now?' Kostya brings out the contrast between 'you' and 'seriously' in a few short words."),
+    (0, None, "'Hey, how are things going?' By asking how things going are, Kostya presses Nastya for a straight answer."),
+    (1, None, "'Not bad.' Between the point and the shift, Nastya gives Kostya a quick, grounded response."),
+    (2, None, "'My landlady kicked me out of the apartment.' Between the point and the conversation, Kostya gives Nastya a quick, grounded response."),
+    (3, None, "'What do you mean she kicked you out?' Here asking what Kostya means she kicked Kostya out shows Nastya looking for the real truth."),
+    (4, None, '\'Wait, did you two really mop the floors?\' By checking whether Nastya two really mop the floors, Kostya presses Nastya for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (5, None, '\'And what are you going to do now?\' Asking what Kostya going to do now is cuts straight through the tension between Nastya and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (6, None, "'I do not know, she said either...' Realizing that he does not know she said either changes how Kostya handles the situation."),
+    (7, None, '\'I do not have that kind of money.\' Saying that she does not have that kind of money is how Nastya sets the tone with Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (8, None, "'I really do not know.' Once he really does not know, Kostya can finally tell Nastya what he means."),
+    (9, None, "'It is fine, I will think of something.' Adding that it is fine she will think of something fills in the missing piece for Kostya."),
+    (10, None, "'Kostik, come with me.' With the truth and point in play, Kostya keeps this short reply brisk and direct."),
+    (11, None, '\'Nastya, wait a second, are you serious?\' Asking whether a second are Kostya serious puts Kostya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (12, None, "'Are you actually serious right now?' By checking whether Nastya actually serious right now, Kostya presses Nastya for a straight answer."),
 ]
-
-TRANSITION = "Let's hear the full exchange one more time at natural speed."
-OUTRO = 'That wraps up this scene as sasha tells Max at the bar that her landlady evicted her over the flood damage, while Nastya pulls Kostya aside with an unexpected request. See you next time!'
-CLOSING = ("kostya", "До завтра!")

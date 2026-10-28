@@ -8,13 +8,9 @@
  "scene": 14,
  "title": "Французское посольство  (The French Embassy)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "inspector": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
+  "barinov": "Шеф",
+  "guest": "Гость",
   "inspector": "Инспектор"
  },
  "segments": [
@@ -24,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Мне кто-нибудь объяснит, что происходит?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Подожди немного, это просто сюрприз.",
    "gap": 0.55
   },
@@ -39,27 +35,27 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это уже третий раз за неделю!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Конкуренты хотят подорвать наш авторитет.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я хочу пригласить тебя на банкет.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Спасибо, но при чём тут полиция?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "На русском празднике без полиции нельзя!",
    "gap": 0.55
   },
@@ -69,17 +65,17 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Он сейчас позвонит во французское посольство.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вам нужны проблемы с Французской Республикой?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пожалуйста, проводите сотрудников полиции вниз.",
    "gap": 0.9
   },
@@ -89,23 +85,23 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Мне кто-нибудь объяснит, что происходит?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Will someone explain to me what is going on?' The meaning hinges on 'to me' working together with 'is happening' in spoken Russian.",
+   "t": "'Will someone explain to me what is going on?' By asking whether someone explain to him what is going, the guest presses Barinov for a straight answer. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Подожди немного, это просто сюрприз.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Wait a moment, this is simply a surprise.' The meaning hinges on 'wait' working together with 'surprise' in spoken Russian. the inspector answers right away.",
+   "t": "'Wait a moment, this is simply a surprise.' Realizing that a moment this is simply a surprise changes how Barinov handles the situation. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -115,57 +111,57 @@
   },
   {
    "v": "narrator",
-   "t": "'Our precinct received a tip today.' the inspector brings out the contrast between 'us' and 'tonight' in a few short words.",
+   "t": "'Our precinct received a tip today.' Over the police and the conversation, the inspector answers Barinov without a second thought.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это уже третий раз за неделю!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'This is already the third time this week!' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'week'.",
+   "t": "'This is already the third time this week!' Insisting that this is already the third time this week shows Barinov is not backing down. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Конкуренты хотят подорвать наш авторитет.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Competitors want to undermine our reputation.' Notice how Russian expresses 'rivals' and 'authority' with crisp inflection rather than helper words.",
+   "t": "'Competitors want to undermine our reputation.' With the call and police in play, Barinov keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я хочу пригласить тебя на банкет.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I want to invite you to a banquet.' Chef Barinov anchors the line on 'I', while 'banquet' completes the thought.",
+   "t": "'I want to invite you to a banquet.' Wanting to invite the guest to a banquet moves the conversation forward without extra drama.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Спасибо, но при чём тут полиция?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Thank you, but what does the police have to do with it?' The grammar packs 'thank you' and 'police' into a tight, idiomatic kitchen exchange.",
+   "t": "'Thank you, but what does the police have to do with it?' By asking what the police have to do with it, the guest presses Barinov for a straight answer. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "На русском празднике без полиции нельзя!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'At a Russian celebration you cannot do without the police!' Chef Barinov anchors the line on 'on', while 'one must not' completes the thought. the inspector answers right away.",
+   "t": "'At a Russian celebration you cannot do without the police!' Saying that at a Russian celebration the guest cannot do without the police is how Barinov takes charge of the moment. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room.",
    "gap": 0.4
   },
   {
@@ -175,46 +171,46 @@
   },
   {
    "v": "narrator",
-   "t": "'What is this foreigner saying to you right now?' The grammar packs 'what' and 'to speak' into a tight, idiomatic kitchen exchange.",
+   "t": "'What is this foreigner saying to you right now?' Asking what this foreigner saying to Barinov right now is is how the inspector puts Barinov on the spot.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Он сейчас позвонит во французское посольство.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'He is going to call the French Embassy right now.' The meaning hinges on 'he' working together with 'embassy' in spoken Russian.",
+   "t": "'He is going to call the French Embassy right now.' Here being going to call the French Embassy right now sets up the next turn in their exchange.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вам нужны проблемы с Французской Республикой?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do you need problems with the French Republic?' The grammar packs 'you' and 'republic' into a tight, idiomatic kitchen exchange.",
+   "t": "'Do you need problems with the French Republic?' By checking whether the guest needs problems with the French, Barinov presses the guest for a straight answer. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пожалуйста, проводите сотрудников полиции вниз.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Please escort the police officers downstairs.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'downstairs'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Please escort the police officers downstairs.' Between the visit and the police, Barinov gives the guest a quick, grounded response. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Мне кто-нибудь объяснит, что происходит?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Подожди немного, это просто сюрприз.",
    "gap": 0.5
   },
@@ -224,27 +220,27 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это уже третий раз за неделю!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Конкуренты хотят подорвать наш авторитет.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я хочу пригласить тебя на банкет.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Спасибо, но при чём тут полиция?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "На русском празднике без полиции нельзя!",
    "gap": 0.5
   },
@@ -254,17 +250,17 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Он сейчас позвонит во французское посольство.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вам нужны проблемы с Французской Республикой?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пожалуйста, проводите сотрудников полиции вниз.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "guest",
    "t": "Увидимся!",
    "gap": 0.3
   }

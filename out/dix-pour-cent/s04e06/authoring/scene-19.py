@@ -7,8 +7,7 @@ SCENE = 19
 TITLE = "Le baiser d'adieu  (The Goodbye Kiss)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "On the park bench, a gentle silence settles between Andrea Martel and Colette Brancillon after their painful agreement. Moved by Andrea's unprecedented honesty, Colette shares a tender final kiss that seals their parting with love and respect. Let's listen to their words in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "With a gentle kiss and words of gratitude, Andrea and Colette conclude their love story without bitterness. When you watch the episode, listen out for the expressions meaning 'am listening to' and 'answered'. You'll catch them now. See you next time!"
 CLOSING = ('colette', 'Bonne journée!')
 STORY = [
-    ('lea', 'Tu ne dis rien, Colette?', 'You say nothing, Colette?', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', 'Tu ne dis rien, Colette?', 'You say nothing, Colette?', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', "J'écoute ce que tu me dis.", 'I am listening to what you tell me.', [(849, "Tu ne m'as pas répondu...")], ''),
-    ('lea', "Tu ne m'as pas vraiment répondu.", 'You did not really answer me.', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', "Tu ne m'as pas vraiment répondu.", 'You did not really answer me.', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', 'Regarde-moi dans les yeux, Andréa.', 'Look at me in the eyes, Andrea.', [(849, "Tu ne m'as pas répondu...")], ''),
-    ('lea', 'Je te regarde avec tout mon cœur.', 'I look at you with all my heart.', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', 'Je te regarde avec tout mon cœur.', 'I look at you with all my heart.', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', "Tu n'as jamais été aussi sincère.", 'You have never been so sincere.', [(849, "Tu ne m'as pas répondu...")], ''),
-    ('lea', "Je veux seulement être juste aujourd'hui.", 'I only want to be fair today.', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', "Je veux seulement être juste aujourd'hui.", 'I only want to be fair today.', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', "Laisse-moi t'embrasser une dernière fois.", 'Let me kiss you one last time.', [(849, "Tu ne m'as pas répondu...")], ''),
-    ('lea', "C'est un baiser d'adieu?", 'Is this a goodbye kiss?', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', "C'est un baiser d'adieu?", 'Is this a goodbye kiss?', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', "C'est un baiser de respect mutuel.", 'It is a kiss of mutual respect.', [(849, "Tu ne m'as pas répondu...")], ''),
-    ('lea', "Je n'oublierai jamais nos moments partagés.", 'I will never forget our shared moments.', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', "Je n'oublierai jamais nos moments partagés.", 'I will never forget our shared moments.', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', 'Moi non plus, chère Andréa.', 'Me neither, dear Andrea.', [(849, "Tu ne m'as pas répondu...")], ''),
-    ('lea', 'Merci pour ta tendresse et ton écoute.', 'Thank you for your tenderness and listening.', [(849, "Tu ne m'as pas répondu...")], ''),
+    ('andrea', 'Merci pour ta tendresse et ton écoute.', 'Thank you for your tenderness and listening.', [(849, "Tu ne m'as pas répondu...")], ''),
 ]
 WALK = [
     (0, None, "'You say nothing, Colette?' Andrea wonders about the long silence between them. The informal 'you' form around 'say' marks a direct, personal relationship."),

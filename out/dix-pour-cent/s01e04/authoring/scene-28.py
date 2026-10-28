@@ -7,8 +7,7 @@ SCENE = 28
 TITLE = 'Un rôle pour Sofia  (A Role for Sofia)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Now Gabriel gets the phone call with the result, though the part isn't quite what Andréa expects. Listen to the scene in French first. Don't worry if it goes fast; we'll go through every line right after. Let's listen to the scene in French first."
@@ -19,10 +18,10 @@ CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Qui veut une bonne nouvelle?', 'Who wants some good news?', [(739, 'Qui veut une bonne nouvelle')], ''),
     ('gabriel', 'Sofia a eu le rôle!', 'Sofia got the part!', [(740, 'Sofia a eu le rôle')], ''),
-    ('lea', 'Super! Dans le film en costume?', 'Great! In the costume drama?', [(741, 'Super'), (744, 'un film en costume')], ''),
-    ('lea', 'Le réalisateur est intelligent.', 'The director is smart.', [(743, 'réalisateurs')], ''),
+    ('andrea', 'Super! Dans le film en costume?', 'Great! In the costume drama?', [(741, 'Super'), (744, 'un film en costume')], ''),
+    ('andrea', 'Le réalisateur est intelligent.', 'The director is smart.', [(743, 'réalisateurs')], ''),
     ('gabriel', "Non, Sofia joue l'esclave.", 'No, Sofia is playing the slave.', [(745, "Non, Sofia joue l'esclave")], ''),
-    ('lea', "Non! C'est vrai?", 'No! Really?', [(746, 'Non')], ''),
+    ('andrea', "Non! C'est vrai?", 'No! Really?', [(746, 'Non')], ''),
     ('gabriel', 'Oui, elle fait le ménage pour la duchesse.', 'Yes, she does the cleaning for the duchess.', [(746, 'Elle fait le ménage'), (746, 'la duchesse')], ''),
     ('gabriel', 'Elle va être furieuse contre moi.', 'She', [(748, 'Elle va')], ''),
     ('sofia', "Je joue l'esclave?", 'I', [(749, "l'esclave")], ''),

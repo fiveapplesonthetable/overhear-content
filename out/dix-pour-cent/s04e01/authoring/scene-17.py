@@ -7,30 +7,29 @@ SCENE = 17
 TITLE = 'Sur le tapis rouge  (On the Red Carpet)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mimie': 'emilie', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'mimie': 'Mimie', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise', 'mimie': 'Mimie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = 'At the prestigious Cesar Awards red carpet, Andrea arrives only to face an unpleasant surprise. Her former talent Mimie Mathy appears alongside Elise Formain, the aggressive boss of rival agency StarMedia. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Confronted by the poaching triumph of StarMedia on the red carpet, Andrea prepares for an all-out agency war. When you watch the episode, listen out for the expressions meaning 'good evening' and 'unexpected event'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
-    ('lea', 'Bonsoir, Mimie! Quelle surprise de te voir!', 'Good evening, Mimie! What a surprise to see you!', [(883, 'Quelle surprise')], ''),
+    ('andrea', 'Bonsoir, Mimie! Quelle surprise de te voir!', 'Good evening, Mimie! What a surprise to see you!', [(883, 'Quelle surprise')], ''),
     ('mimie', 'Bonsoir, Andréa, je suis très heureuse.', 'Good evening, Andrea, I am very happy.', [(883, 'Oh, Andréa')], ''),
-    ('gabriel', 'Inutile de me présenter, chère Andréa.', 'No need to introduce me, dear Andrea.', [(884, 'Inutile de présenter Élise Formain')], ''),
-    ('lea', "Élise Formain, de l'agence StarMédia!", 'Elise Formain, from the StarMedia agency!', [(884, 'Élise Formain, de StarMédia')], ''),
-    ('lea', 'Est-ce ta nouvelle agente, Mimie?', 'Is she your new agent, Mimie?', [(886, "c'est ta nouvelle agente, alors")], ''),
+    ('elise', 'Inutile de me présenter, chère Andréa.', 'No need to introduce me, dear Andrea.', [(884, 'Inutile de présenter Élise Formain')], ''),
+    ('andrea', "Élise Formain, de l'agence StarMédia!", 'Elise Formain, from the StarMedia agency!', [(884, 'Élise Formain, de StarMédia')], ''),
+    ('andrea', 'Est-ce ta nouvelle agente, Mimie?', 'Is she your new agent, Mimie?', [(886, "c'est ta nouvelle agente, alors")], ''),
     ('mimie', "Tout à fait, cela change d'ASK!", 'Absolutely, this makes a change from ASK!', [(887, "Tout à fait ! Ça change d'ASK")], ''),
     ('mimie', "J'ai eu une magnifique limousine blanche.", 'I had a magnificent white limousine.', [(888, 'En vingt-quatre heures, une limousine')], ''),
     ('mimie', "Et une invitation d'honneur aux Césars!", 'And an honorary invitation to the Cesars!', [(889, 'une invitation aux Césars')], ''),
     ('mimie', 'Élise croit vraiment en mon talent.', 'Elise truly believes in my talent.', [(890, "qu'on croit en moi")], ''),
-    ('lea', 'Je suis heureuse pour ton succès.', 'I am happy for your success.', [(885, 'Comment allez-vous')], ''),
-    ('gabriel', 'StarMédia sait prendre soin des artistes.', 'StarMedia knows how to take care of artists.', [(887, "Ça change d'ASK")], ''),
+    ('andrea', 'Je suis heureuse pour ton succès.', 'I am happy for your success.', [(885, 'Comment allez-vous')], ''),
+    ('elise', 'StarMédia sait prendre soin des artistes.', 'StarMedia knows how to take care of artists.', [(887, "Ça change d'ASK")], ''),
     ('mimie', "On m'appelle pour les photos officielles!", 'They are calling me for the official photos!', [(891, 'Mimie ! Par ici'), (892, "C'est mon tour")], ''),
-    ('gabriel', 'Allons sur le tapis rouge prestigieux.', 'Let us go onto the prestigious red carpet.', [(888, 'le tapis rouge'), (894, 'le photocall')], ''),
-    ('lea', 'La guerre des agences a commencé.', 'The agency war has begun.', [], ''),
+    ('elise', 'Allons sur le tapis rouge prestigieux.', 'Let us go onto the prestigious red carpet.', [(888, 'le tapis rouge'), (894, 'le photocall')], ''),
+    ('andrea', 'La guerre des agences a commencé.', 'The agency war has begun.', [], ''),
 ]
 WALK = [
     (0, None, "'Good evening, Mimie! What a surprise to see you!' Andrea greets her former client warmly at the gala. Notice how 'to see' leads directly into the noun meaning 'good evening'."),

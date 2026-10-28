@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 7
 SCENE = 7
-TITLE = "Спасение карпов  (Saving the Carp)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спасение карпов  (Saving the Carp)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "In the quiet restaurant back area, bartender Kostya finds waitress Nastya in deep distress. She tearfully confesses that her strict landlady threw her out of her rented apartment for rescuing live carp and keeping them in the bathtub. Let's listen to their conversation in Russian first."
 OPENER = "Let's review this sweet and humorous conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Relieved by Kostya's generous invitation, Nastya prepares to move her belongings out of her old apartment. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, что у тебя сегодня случилось?', 'Nastya, what happened with you today?', [(60, 'Значит, что случилось')], ''),
     ('nastya', 'Моя злая хозяйка выгнала меня.', 'My wicked landlady kicked me out.', [(61, 'Хозяйка поругалась')], ''),

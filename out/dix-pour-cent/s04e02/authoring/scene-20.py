@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = 'Une visite inattendue  (An Unexpected Visit)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
-LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Late at night in the empty ASK offices, Andrea pours herself a drink to unwind after a grueling day. Suddenly, rival StarMedia agent Elise Formain appears in her doorway and asks for a glass, startling Andrea. Let's listen to the scene in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation. When you watch the episode, listen out for the expressions meaning 'been' and 'exhausting'. You'll catch them now. See you next time!"
 CLOSING = ('elise', 'Au revoir!')
 STORY = [
-    ('lea', 'La journée a été particulièrement épuisante.', 'The day was particularly exhausting.', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', 'La journée a été particulièrement épuisante.', 'The day was particularly exhausting.', [(1035, "Tu m'en sers un")], ''),
     ('elise', "Tu m'en sers un verre aussi?", 'Will you pour me a glass too?', [(1035, "Tu m'en sers un aussi ?")], ''),
-    ('lea', 'Élise? Que fais-tu encore ici?', 'Elise? What are you still doing here?', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', 'Élise? Que fais-tu encore ici?', 'Elise? What are you still doing here?', [(1035, "Tu m'en sers un")], ''),
     ('elise', "La porte d'entrée était restée ouverte.", 'The entrance door had remained open.', [(1035, "Tu m'en sers un")], ''),
-    ('lea', "Je ne m'attendais pas à toi.", 'I was not expecting you.', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', "Je ne m'attendais pas à toi.", 'I was not expecting you.', [(1035, "Tu m'en sers un")], ''),
     ('elise', "J'ai besoin de boire un verre.", 'I need to drink a glass.', [(1035, "Tu m'en sers un")], ''),
-    ('lea', 'Installe-toi, voici un verre pour toi.', 'Sit down, here is a glass for you.', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', 'Installe-toi, voici un verre pour toi.', 'Sit down, here is a glass for you.', [(1035, "Tu m'en sers un")], ''),
     ('elise', "Merci Andréa, j'apprécie beaucoup ce geste.", 'Thank you Andrea, I really appreciate this gesture.', [(1035, "Tu m'en sers un")], ''),
-    ('lea', "Tu as l'air vraiment très troublée.", 'You look really very troubled.', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', "Tu as l'air vraiment très troublée.", 'You look really very troubled.', [(1035, "Tu m'en sers un")], ''),
     ('elise', "J'ai passé une soirée absolument affreuse.", 'I had an absolutely terrible evening.', [(1035, "Tu m'en sers un")], ''),
-    ('lea', 'Un problème grave avec tes clients?', 'A serious problem with your clients?', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', 'Un problème grave avec tes clients?', 'A serious problem with your clients?', [(1035, "Tu m'en sers un")], ''),
     ('elise', "Non, c'est bien pire que ça.", 'No, it is much worse than that.', [(1035, "Tu m'en sers un")], ''),
-    ('lea', 'Alors dis-moi ce qui se passe.', 'So tell me what is going on.', [(1035, "Tu m'en sers un")], ''),
+    ('andrea', 'Alors dis-moi ce qui se passe.', 'So tell me what is going on.', [(1035, "Tu m'en sers un")], ''),
     ('elise', 'Prépare-toi à une sacrée surprise.', 'Prepare yourself for quite a surprise.', [(1035, "Tu m'en sers un")], ''),
 ]
 WALK = [

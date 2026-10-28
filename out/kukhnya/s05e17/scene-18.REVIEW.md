@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Всё работает, теперь будешь смотреть телевизор. | Everything works, now you will watch television. | #333 00:20:43: Все работает. Теперь будешь | adapted: adapted |
-| 2 | Аня | У нас в Москве министров больше, чем дворников. | In Moscow we have more ministers than street sweepers. | #336 00:20:59: У нас в Москве министров больше, чем дворников | adapted: adapted |
-| 3 | Гость | Лучшая одноместная палата для вашей супруги. | The best single suite for your spouse. | #337 00:21:01: Лучшая одноместная палата для ваших супруги | adapted: adapted |
-| 4 | Аня | Привет ещё раз, Николай Марьянович. | Hello again, Nikolai Maryanovich. | #339 00:21:08: Привет<br>#340 00:21:13: Николай Марьянович | adapted: adapted |
-| 5 | Гость | Молодой человек, немедленно освободите палату! | Young man, vacate the ward immediately! | #341 00:21:17: Молодой человек, я повторяю, немедленно освободите палату | adapted: adapted |
-| 6 | Вика | Извините нас, Николай Марьянович. | Excuse us, Nikolai Maryanovich. | #342 00:21:20: извините, Николай Марьянович | adapted: adapted |
-| 7 | Вика | Мы сейчас же отсюда уйдём. | We will leave here right now. | #343 00:21:22: Мы сейчас уйдем | adapted: adapted |
-| 8 | Аня | Вика, лежи спокойно на месте. | Vika, lie calmly in your place. | #343 00:21:22: Вика, лежи | adapted: adapted |
-| 9 | Аня | Мы уйдём отсюда только с ребёнком. | We will leave this room only with our baby. | #344 00:21:25: Мы уйдем из этой палаты только с ребенком | adapted: adapted |
-| 10 | Гость | Ну всё, я иду за охраной. | That is it, I am going for security. | #345 00:21:28: Ну все, я за охраной | adapted: adapted |
-| 11 | Вика | Макс, ну что ты опять творишь? | Max, what are you doing again? | #346 00:21:31: Ну что | adapted: adapted |
-| 12 | Аня | Не волнуйся, я всё сейчас решу. | Do not worry, I will sort everything out right now. | #333 00:20:43: Все работает | adapted: adapted |
+| 1 | Макс | Всё работает, теперь будешь смотреть телевизор. | Everything works, now you will watch television. | #333: Все работает. Теперь будешь | adapted: adapted |
+| 2 | Макс | У нас в Москве министров больше, чем дворников. | In Moscow we have more ministers than street sweepers. | #336: У нас в Москве министров больше, чем дворников | adapted: adapted |
+| 3 | Гость | Лучшая одноместная палата для вашей супруги. | The best single suite for your spouse. | #337: Лучшая одноместная палата для ваших супруги | adapted: adapted |
+| 4 | Макс | Привет ещё раз, Николай Марьянович. | Hello again, Nikolai Maryanovich. | #339: Привет<br>#340: Николай Марьянович | adapted: adapted |
+| 5 | Гость | Молодой человек, немедленно освободите палату! | Young man, vacate the ward immediately! | #341: Молодой человек, я повторяю, немедленно освободите палату | adapted: adapted |
+| 6 | Вика | Извините нас, Николай Марьянович. | Excuse us, Nikolai Maryanovich. | #342: извините, Николай Марьянович | adapted: adapted |
+| 7 | Вика | Мы сейчас же отсюда уйдём. | We will leave here right now. | #343: Мы сейчас уйдем | adapted: adapted |
+| 8 | Макс | Вика, лежи спокойно на месте. | Vika, lie calmly in your place. | #343: Вика, лежи | adapted: adapted |
+| 9 | Макс | Мы уйдём отсюда только с ребёнком. | We will leave this room only with our baby. | #344: Мы уйдем из этой палаты только с ребенком | adapted: adapted |
+| 10 | Гость | Ну всё, я иду за охраной. | That is it, I am going for security. | #345: Ну все, я за охраной | adapted: adapted |
+| 11 | Вика | Макс, ну что ты опять творишь? | Max, what are you doing again? | #346: Ну что | adapted: adapted |
+| 12 | Макс | Не волнуйся, я всё сейчас решу. | Do not worry, I will sort everything out right now. | #333: Все работает | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything works, now you will watch television.' Notice how Russian expresses 'everything' and 'television' with crisp inflection rather than helper words.
-- 'In Moscow we have more ministers than street sweepers.' Max brings out the contrast between 'at' and 'us' in a few short words.
-- 'The best single suite for your spouse.' the guest brings out the contrast between 'best' and 'single-bed' in a few short words.
-- 'Hello again, Nikolai Maryanovich.' Max anchors the line on 'hello', while 'Maryanovich' completes the thought. the guest answers right away.
-- 'Young man, vacate the ward immediately!' the guest anchors the line on 'young', while 'the hospital ward' completes the thought.
-- 'Excuse us, Nikolai Maryanovich.' The meaning hinges on 'excuse me' working together with 'Maryanovich' in spoken Russian.
-- 'We will leave here right now.' In Russian, the idea of 'we' flows naturally into 'will leave' without extra filler words. Max answers right away.
-- 'Vika, lie calmly in your place.' Spoken Russian keeps this brisk, leaning on 'Vika' and finishing on 'place'.
-- 'We will leave this room only with our baby.' Notice how Russian expresses 'we' and 'child' with crisp inflection rather than helper words.
-- 'That is it, I am going for security.' Here the Russian phrasing highlights 'come on' before landing on 'security'. Vika answers right away.
-- 'Max, what are you doing again?' Vika brings out the contrast between 'Max' and 'come on' in a few short words.
-- 'Do not worry, I will sort everything out right now.' The negative particle sits right before the verb meaning 'worry' to negate the statement.
+- 'Everything works, now you will watch television.' Noting that everything works now the guest will watch television keeps Max's side of the story simple and clear.
+- 'In Moscow we have more ministers than street sweepers.' Even though in Moscow they have more ministers than street sweepers, Max keeps a steady face in front of the guest.
+- 'The best single suite for your spouse.' Around the conversation and doctor, the guest sets a calm, everyday tone with Max.
+- 'Hello again, Nikolai Maryanovich.' Around the work and doctor, Max sets a calm, everyday tone with the guest.
+- 'Young man, vacate the ward immediately!' Around the room and shift, the guest makes his point loud and clear.
+- 'Excuse us, Nikolai Maryanovich.' Telling the guest to excuse them Nikolai Maryanovich is how Vika lays out the situation for the guest.
+- 'We will leave here right now.' Saying that they will leave here right now is how Vika sets the tone with the guest.
+- 'Vika, lie calmly in your place.' Lying calmly in the guest's place moves the conversation forward without extra drama.
+- 'We will leave this room only with our baby.' Mentioning that they will leave this room only with their baby moves the talk in a new direction.
+- 'That is it, I am going for security.' Explaining that that is it he is going for security lays the cards on the table for Max.
+- 'Max, what are you doing again?' Asking what the guest doing again is cuts straight through the tension between Vika and the guest.
+- 'Do not worry, I will sort everything out right now.' Since do not worry he will sort everything out right now, Max does not waste words on excuses.

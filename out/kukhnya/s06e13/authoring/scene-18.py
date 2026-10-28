@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e13-scene-18.
 ID = 'kukhnya-s06e13-scene-18'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 18
-TITLE = "Катя говорит да  (Katya Says Yes)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Катя говорит да  (Katya Says Yes)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
-LABELS = {"nikita": "Никита", "katya": "Катя"}
+LABELS = {'katya': 'Катя', 'nikita': 'Никита'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
-
 INTRO = 'Shocked by her own impulsive kiss with Denis on the roof, Katya rushes downstairs to find Nikita. She accepts his marriage proposal on the spot, and an overjoyed Nikita announces their engagement to the entire dining room.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'As Nikita cries tears of joy in front of the guests, Katya looks uneasy about the choice she has just made. See you next time!'
+CLOSING = ('nikita', 'До свидания!')
 STORY = [
     ('katya', 'Никита, я очень хорошо обо всём подумала.', 'Nikita, I thought very carefully about everything.', [(251, 'я подумала')], 'adapted'),
     ('katya', 'Я согласна с твоим вчерашним предложением.', 'I agree with your proposal from yesterday.', [(251, 'я согласна с твоим предложением')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nikita', 'Я сегодня действительно горд и счастлив.', 'Today I am truly proud and happy.', [(265, 'Я горд и счастлив')], 'adapted'),
     ('nikita', 'Я обещаю, что буду лучшим мужем.', 'I promise that I will be the best husband.', [(267, 'Я обещаю, что я буду самым лучшим мужем')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Nikita, I thought very carefully about everything.' The '-a' ending on the past-tense verb for 'thought' marks a female speaker or subject."),
-    (1, None, "'I agree with your proposal from yesterday.' Here the Russian phrasing highlights 'I' before landing on 'offer'."),
-    (2, None, "'I agree to marry you.' In Russian, the idea of 'I' flows naturally into 'married' without extra filler words."),
-    (3, None, "'Katya, are you telling me the truth right now?' Nikita raises the pitch on 'truth' to turn the phrase into a direct spoken question. Katya answers right away."),
-    (4, None, "'Yes, this is truly the honest truth.' The grammar packs 'yes' and 'clean' into a tight, idiomatic kitchen exchange."),
-    (5, None, "'Listen, I want to share my joy with you.' Nikita chooses the respectful plural 'you' alongside 'joy' to keep a polite distance."),
-    (6, None, "'Katya agreed to become my beloved wife.' Nikita brings out the contrast between 'Katya' and 'to agree' in a few short words. Katya answers right away."),
-    (7, None, "'Please, stop, people are looking at us.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'look'."),
-    (8, None, "'Let all the people look right now.' Notice how Russian expresses 'and' and 'look' with crisp inflection rather than helper words."),
-    (9, None, "'Let everyone know how happy I am.' Here the Russian phrasing highlights 'let' before landing on 'happy'."),
-    (10, None, "'Today I am truly proud and happy.' Nikita brings out the contrast between 'I' and 'tonight' in a few short words."),
-    (11, None, "'I promise that I will be the best husband.' Nikita anchors the line on 'I', while 'husband' completes the thought."),
+    (0, None, "'Nikita, I thought very carefully about everything.' Once she thought very carefully about everything, Katya can finally tell Nikita what she means."),
+    (1, None, "'I agree with your proposal from yesterday.' Katya mentions that she agrees with Nikita's proposal from yesterday so Nikita sees what is at stake."),
+    (2, None, '\'I agree to marry you.\' Mentioning that she agrees to marry Nikita moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (3, None, '\'Katya, are you telling me the truth right now?\' Checking whether Katya telling him the truth right now is how Nikita puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (4, None, "'Yes, this is truly the honest truth.' Mentioning that this is truly the honest truth moves the talk in a new direction."),
+    (5, None, '\'Listen, I want to share my joy with you.\' Wanting to share his joy with Katya is how Nikita lays out the situation for Katya. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (6, None, "'Katya agreed to become my beloved wife.' With the plan and point in play, Nikita keeps this short reply brisk and direct."),
+    (7, None, "'Please, stop, people are looking at us.' Here telling Nikita to stop people are looking at them sets up the next turn in their exchange."),
+    (8, None, "'Let all the people look right now.' Since Katya should let all the people look right now, Nikita does not waste words on excuses."),
+    (9, None, "'Let everyone know how happy I am.' Telling Katya to let everyone know how happy he is is how Nikita lays out the situation for Katya."),
+    (10, None, "'Today I am truly proud and happy.' Pointing out that today he is truly proud and happy gives Katya a sobering reality check."),
+    (11, None, "'I promise that I will be the best husband.' By promising that he will be the best husband, Nikita keeps his side of the story grounded."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Nikita cries tears of joy in front of the guests, Katya looks uneasy about the choice she has just made. See you next time!'
-CLOSING = ("nikita", "До свидания!")

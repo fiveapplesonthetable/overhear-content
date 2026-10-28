@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Да, мама, я не дома. | Yes, Mom, I am not at home. | #234 00:16:06: Да, мам<br>#235 00:16:08: Нет, не дома | adapted: adapted |
-| 2 | Лёва | Вызвали на работу, срочный банкет. | They called me in to work, an urgent banquet. | #236 00:16:11: Вызвали на работу. Срочный банкет | adapted: exact |
-| 3 | Лёва | Все, пока, мама. | Alright, bye, Mom. | #237 00:16:13: Все, пока | adapted: adapted |
-| 4 | Лёва | Ну, ты готова кататься? | Well, are you ready to skate? | #240 00:16:21: Ну, я готова | adapted: adapted |
-| 5 | Лёва | Это оказывается сложнее, чем я думал. | This turns out to be harder than I thought. | #241 00:16:26: это оказывается сложнее, чем я думал | adapted: exact |
-| 6 | Лёва | Как жизнь, Денис? | How is life, Denis? | #242 00:16:37: Как жизнь? | adapted: adapted |
-| 7 | Денис | Не удалась жизнь. | Life did not work out. | #242 00:16:37: Не удалась | adapted: adapted |
-| 8 | Денис | А где все гости? | And where are all the guests? | #244 00:16:41: А где все? | adapted: adapted |
-| 9 | Денис | С похмелья работать некому? | Is there nobody to work because of a hangover? | #244 00:16:41: С похмелья работать некому? | adapted: exact |
-| 10 | Лёва | Нет, ресторан закрыли, шефа будут снимать. | No, they closed the restaurant, they are going to film the chef. | #245 00:16:44: Нет, ресторан закрыли | adapted: adapted |
-| 11 | Лёва | Мы вот овощи отобрали самые красивые. | We selected the most beautiful vegetables here. | #247 00:16:55: вот овощи отобрала самые | adapted: adapted |
-| 12 | Денис | Хорошо, понял. | Alright, got it. | #248 00:16:58: Хорошо | adapted: adapted |
+| 1 | Лёва | Да, мама, я не дома. | Yes, Mom, I am not at home. | #234: Да, мам<br>#235: Нет, не дома | adapted: adapted |
+| 2 | Лёва | Вызвали на работу, срочный банкет. | They called me in to work, an urgent banquet. | #236: Вызвали на работу. Срочный банкет | adapted: exact |
+| 3 | Лёва | Все, пока, мама. | Alright, bye, Mom. | #237: Все, пока | adapted: adapted |
+| 4 | Лёва | Ну, ты готова кататься? | Well, are you ready to skate? | #240: Ну, я готова | adapted: adapted |
+| 5 | Лёва | Это оказывается сложнее, чем я думал. | This turns out to be harder than I thought. | #241: это оказывается сложнее, чем я думал | adapted: exact |
+| 6 | Сеня | Как жизнь, Денис? | How is life, Denis? | #242: Как жизнь? | adapted: adapted |
+| 7 | Денис | Не удалась жизнь. | Life did not work out. | #242: Не удалась | adapted: adapted |
+| 8 | Денис | А где все гости? | And where are all the guests? | #244: А где все? | adapted: adapted |
+| 9 | Денис | С похмелья работать некому? | Is there nobody to work because of a hangover? | #244: С похмелья работать некому? | adapted: exact |
+| 10 | Сеня | Нет, ресторан закрыли, шефа будут снимать. | No, they closed the restaurant, they are going to film the chef. | #245: Нет, ресторан закрыли | adapted: adapted |
+| 11 | Сеня | Мы вот овощи отобрали самые красивые. | We selected the most beautiful vegetables here. | #247: вот овощи отобрала самые | adapted: adapted |
+| 12 | Денис | Хорошо, понял. | Alright, got it. | #248: Хорошо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Mom, I am not at home.' The grammar packs 'yes' and 'at home' into a tight, idiomatic kitchen exchange.
-- 'They called me in to work, an urgent banquet.' The plural past ending '-li' on the verb for 'called in' covers a group or the polite 'you'.
-- 'Alright, bye, Mom.' In Russian, the idea of 'all' flows naturally into 'mom' without extra filler words.
-- 'Well, are you ready to skate?' In spoken Russian, the words stay in their normal statement order and Lyova's rising voice at the end turns the line into a question.
-- 'This turns out to be harder than I thought.' The grammar packs 'this' and 'thought' into a tight, idiomatic kitchen exchange. Senya answers right away.
-- 'How is life, Denis?' Senya anchors the line on 'how', while 'Denis' completes the thought.
-- 'Life did not work out.' Denis anchors the line on 'not', while 'life' completes the thought.
-- 'And where are all the guests?' Notice how Russian expresses 'and' and 'guests' with crisp inflection rather than helper words.
-- 'Is there nobody to work because of a hangover?' Here the Russian phrasing highlights 'with' before landing on 'there is nobody to'.
-- 'No, they closed the restaurant, they are going to film the chef.' The meaning hinges on 'no' working together with 'to take off' in spoken Russian.
-- 'We selected the most beautiful vegetables here.' The plural past ending '-li' on the verb for 'to take away' covers a group or the polite 'you'. Denis answers right away.
-- 'Alright, got it.' Denis brings out the contrast between 'well' and 'understood' in a few short words.
+- 'Yes, Mom, I am not at home.' Explaining that Mom he is not at home lays the cards on the table for Denis.
+- 'They called me in to work, an urgent banquet.' Lyova explains that they called him in to work an urgent banquet, keeping his voice calm and direct.
+- 'Alright, bye, Mom.' With the truth and banquet in play, Lyova keeps this short reply brisk and direct.
+- 'Well, are you ready to skate?' Checking whether Denis ready to skate cuts straight through the tension between Lyova and Denis. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'This turns out to be harder than I thought.' Even though this turns out to be harder than he thought, Lyova keeps a steady face in front of Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'How is life, Denis?' Here asking how life is shows Senya looking for the real truth.
+- 'Life did not work out.' Saying that life did not work out is how Denis sets the tone with Lyova.
+- 'And where are all the guests?' Asking where all the guests are cuts straight through the tension between Denis and Lyova. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Is there nobody to work because of a hangover?' Checking whether there nobody to work because of a hangover is how Denis puts Lyova on the spot.
+- 'No, they closed the restaurant, they are going to film the chef.' Senya tells Denis that they closed the restaurant they are going to film without dressing it up.
+- 'We selected the most beautiful vegetables here.' With the restaurant and phone in play, Senya keeps this short reply brisk and direct.
+- 'Alright, got it.' Mentioning that Alright got it moves the talk in a new direction.

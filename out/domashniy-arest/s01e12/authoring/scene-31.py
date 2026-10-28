@@ -1,34 +1,36 @@
-# domashniy-arest/s01e12/scene-31.py
-ID = "domashniy-arest-s01e12-scene-31"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e12-scene-31.
+ID = 'domashniy-arest-s01e12-scene-31'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 12
 SCENE = 31
-TITLE = "У проруби  (At the Ice Hole)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест, Сезон 1, Эпизод 12"
-SOURCE_FILE = "sources/domashniy-arest/s01/e12.ru.dual.srt"
-VOICES = {"narrator": "sky", "governor": "angelina", "anya": "alisa"}
-LABELS = {"governor": "Губернатор", "anya": "Аркадий"}
+TITLE = 'У проруби  (At the Ice Hole)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'governor': 'Губернатор'}
+SOURCE_NAME = 'Домашний арест, Сезон 1, Эпизод 12'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e12.ru.dual.srt'
 INTRO = "Out on the frozen river in the bitter winter cold, Viktor Stepanovich's henchmen force Arkady toward a hole in the ice. Arkady desperately pleads for mercy, reminding Viktor of past loyalty, but the corrupt oligarch offers only empty platitudes while ordering his men to strip off Arkady's boots."
-STORY = [
-    ("anya", "Стойте, Виктор Степанович, не надо!", "Wait, Viktor Stepanovich, don't do it!", [(769, 'Стойте, Виктор Степанович, не надо')], "exact cue"),
-    ("anya", "Я вас на такую высоту поднял!", "I raised you to such great heights!", [(770, 'Я вас на такую высоту поделал')], "adapted cue"),
-    ("governor", "А ты думаешь, мне сейчас легко?", "And do you think this is easy for me?", [(771, 'А ты думаешь, мне сейчас легко, Аркаша?')], "adapted cue"),
-    ("governor", "Я добрый человек, я люблю животных.", "I am a kind person, I love animals.", [(773, 'Я вот добрый человек, я даже животных люблю')], "adapted cue"),
-    ("governor", "Ты мне даже глубоко симпатичен, Аркаша.", "I even genuinely like you, Arkasha.", [(774, 'А ты мне вообще глубоко симпатичен')], "adapted cue"),
-    ("governor", "У меня прямо сердце кровью обливается.", "My heart is literally bleeding right now.", [(776, 'сердце кровью обливается')], "adapted cue"),
-    ("governor", "Я теперь ночью спать не буду.", "I will not be able to sleep tonight.", [(777, 'Я теперь из-за тебя ночью спать не буду')], "adapted cue"),
-    ("governor", "Ну ничего, я потом построю храм.", "Well, no matter, I will build a church later.", [(779, 'Ну, ничего, я храм построю')], "adapted cue"),
-    ("anya", "Я клянусь, я никому ничего не скажу!", "I swear, I will not tell anyone anything!", [(780, 'Я клянусь, я не скажу никому!'), (781, 'Я никому не скажу ничего!')], "exact cues"),
-    ("governor", "Снимайте скорее с него тёплые валенки.", "Take off his warm felt boots quickly.", [(784, 'Попчик снимайте с него и валенки')], "adapted cue"),
-    ("governor", "Не трави мне душу, Аркаша, перестань!", "Don't tear my soul, Arkasha, stop it!", [(786, 'Ну не трави душу, Аркаш, ну перестань')], "adapted cue"),
-    ("anya", "Не надо, пожалуйста, пощадите меня!", "Don't, please, spare my life!", [(788, 'Не надо! Не надо!')], "adapted cue"),
-    ("governor", "Давай, опускайте его прямо в воду!", "Go on, lower him straight into the water!", [(789, 'Давай, все равно!')], "adapted cue"),
-    ("anya", "Я буду сниться тебе каждую ночь!", "I will haunt your dreams every night!", [(790, 'Я тебе в снице буду, Аркаш, все равно!')], "adapted cue"),
-]
 OPENER = "Let's follow Arkady's terrifying ordeal by the freezing ice hole in the cold."
+TRANSITION = "Now let's listen to the harrowing scene by the ice hole once more."
+OUTRO = 'Arkady struggles in terror as icy water looms, awaiting an eleventh-hour miracle. See you next time!'
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Стойте, Виктор Степанович, не надо!', "Wait, Viktor Stepanovich, don't do it!", [(769, 'Стойте, Виктор Степанович, не надо')], 'exact cue'),
+    ('arkady', 'Я вас на такую высоту поднял!', 'I raised you to such great heights!', [(770, 'Я вас на такую высоту поделал')], 'adapted cue'),
+    ('governor', 'А ты думаешь, мне сейчас легко?', 'And do you think this is easy for me?', [(771, 'А ты думаешь, мне сейчас легко, Аркаша?')], 'adapted cue'),
+    ('governor', 'Я добрый человек, я люблю животных.', 'I am a kind person, I love animals.', [(773, 'Я вот добрый человек, я даже животных люблю')], 'adapted cue'),
+    ('governor', 'Ты мне даже глубоко симпатичен, Аркаша.', 'I even genuinely like you, Arkasha.', [(774, 'А ты мне вообще глубоко симпатичен')], 'adapted cue'),
+    ('governor', 'У меня прямо сердце кровью обливается.', 'My heart is literally bleeding right now.', [(776, 'сердце кровью обливается')], 'adapted cue'),
+    ('governor', 'Я теперь ночью спать не буду.', 'I will not be able to sleep tonight.', [(777, 'Я теперь из-за тебя ночью спать не буду')], 'adapted cue'),
+    ('governor', 'Ну ничего, я потом построю храм.', 'Well, no matter, I will build a church later.', [(779, 'Ну, ничего, я храм построю')], 'adapted cue'),
+    ('arkady', 'Я клянусь, я никому ничего не скажу!', 'I swear, I will not tell anyone anything!', [(780, 'Я клянусь, я не скажу никому!'), (781, 'Я никому не скажу ничего!')], 'exact cues'),
+    ('governor', 'Снимайте скорее с него тёплые валенки.', 'Take off his warm felt boots quickly.', [(784, 'Попчик снимайте с него и валенки')], 'adapted cue'),
+    ('governor', 'Не трави мне душу, Аркаша, перестань!', "Don't tear my soul, Arkasha, stop it!", [(786, 'Ну не трави душу, Аркаш, ну перестань')], 'adapted cue'),
+    ('arkady', 'Не надо, пожалуйста, пощадите меня!', "Don't, please, spare my life!", [(788, 'Не надо! Не надо!')], 'adapted cue'),
+    ('governor', 'Давай, опускайте его прямо в воду!', 'Go on, lower him straight into the water!', [(789, 'Давай, все равно!')], 'adapted cue'),
+    ('arkady', 'Я буду сниться тебе каждую ночь!', 'I will haunt your dreams every night!', [(790, 'Я тебе в снице буду, Аркаш, все равно!')], 'adapted cue'),
+]
 WALK = [
     (0, None, "'Wait, Viktor Stepanovich, don't do it!' Arkady desperately begs for his life on the ice."),
     (1, None, "'I raised you to such great heights!' Reminding Stepanovich of their past political alliance."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'Go on, lower him straight into the water!' The fatal command is issued on the river."),
     (13, None, "'I will haunt your dreams every night!' Arkady curses his murderer with his parting breath."),
 ]
-TRANSITION = "Now let's listen to the harrowing scene by the ice hole once more."
-OUTRO = "Arkady struggles in terror as icy water looms, awaiting an eleventh-hour miracle. See you next time!"
-CLOSING = ("anya", "Пока!")

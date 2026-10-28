@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 12
-TITLE = "Выселение шефа  (Evicting the Chef)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Выселение шефа  (Evicting the Chef)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
-LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Still furious about the deception, Leva confronts Chef Victor through a closed door. He firmly demands that Victor pack his bags and move out of his and his mother's apartment immediately. Let us listen to their conversation in Russian first."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Still furious about the deception, Leva confronts Chef Victor through a closed door. He firmly demands that Victor pack his bags and move out of his and his mother's apartment immediately. Next time you watch the episode, listen for the Russian expressions for 'to open' and 'it is necessary' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Открывай, нам надо поговорить.', 'Open up, we need to talk.', [(288, 'Открывай, поговорить надо.')], ''),
-    ('chef', 'Лёва, что ты хочешь?', 'Leva, what do you want?', [(289, 'Лёва, что ты хочешь, Лёва?')], ''),
+    ('barinov', 'Лёва, что ты хочешь?', 'Leva, what do you want?', [(289, 'Лёва, что ты хочешь, Лёва?')], ''),
     ('lyova', 'Я хочу сказать тебе одну вещь.', 'I want to tell you one thing.', [(291, 'Я хочу сказать.')], ''),
     ('lyova', 'Чтобы ноги твоей больше не было в моём доме.', 'So that your foot is no longer in my house.', [(292, 'Чего? Чтобы ноги вашей больше в моем доме не было.')], ''),
     ('lyova', 'Сегодня же собирай вещи и уезжай.', 'Today pack your things and leave.', [(293, 'Сегодня же собираете вещи и уезжаете.')], ''),
     ('lyova', 'Больше ты у нас с мамой не живёшь.', 'You no longer live with me and Mom.', [(294, 'Больше вы у нас с мамой не живете.')], ''),
     ('lyova', 'Тебе это ясно?', 'Is that clear to you?', [(295, 'Ясно?')], ''),
-    ('chef', 'Да пожалуйста.', 'Yes, sure.', [(295, 'Да пожалуйста.')], ''),
-    ('chef', 'Очень мне надо.', 'As if I need it.', [(296, 'Больно надо.')], ''),
+    ('barinov', 'Да пожалуйста.', 'Yes, sure.', [(295, 'Да пожалуйста.')], ''),
+    ('barinov', 'Очень мне надо.', 'As if I need it.', [(296, 'Больно надо.')], ''),
     ('lyova', 'Я жду, пока ты уйдёшь.', 'I am waiting until you leave.', [], ''),
-    ('chef', 'Я уже ухожу.', 'I am already leaving.', [], ''),
+    ('barinov', 'Я уже ухожу.', 'I am already leaving.', [], ''),
     ('lyova', 'Ключи оставь на столе.', 'Leave the keys on the table.', [], ''),
 ]
 WALK = [

@@ -7,7 +7,6 @@ SCENE = 24
 TITLE = 'Une balle dans le pied  (Shooting Yourself in the Foot)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'solveig': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
@@ -40,21 +39,21 @@ WALK = [
     (0, None, "'Solveig speaking.' Literally 'Solveig at the device'. That's the classic French phrase when you answer the phone."),
     (1, None, "'Hello, Solveig? It's Gabriel Sarda, Laura Smet's agent.' On the phone, French uses 'it is' rather than 'I am' to introduce yourself."),
     (2, None, "'She made me want to stop everything.' Literally 'she gave me the desire to stop everything'. Solveig hated Laura's diva act."),
-    (3, None, "'It was my fault.' Gabriel takes the blame to get Solveig listening."),
-    (4, None, "'She shot herself in the foot.' Literally 'she fired a bullet into her foot'. Just like the English idiom."),
-    (5, None, "'A bullet in the foot?' Solveig is Scandinavian, so the French idiom catches her completely by surprise."),
-    (6, None, "'Yes, it's a French expression, and a tradition among actors.' Notice the linking word before 'actors', which means 'among' or 'at the home of'. Gabriel is inventing this tradition on the spot."),
-    (7, None, "'When they want a part, they behave badly.' A reflexive verb at the end, 'they behave themselves badly'."),
-    (8, None, "'The French are true romantics.' Gabriel plays on every stereotype he can think of."),
-    (9, None, "'It's a strange way of doing things.' Literally 'a strange way to do'."),
-    (10, None, "'But they all do it like that.' The word for 'all' comes right after the verb 'do'."),
-    (11, None, "'Jean Dujardin, for example. At the screen tests, he talked and talked!' The verb is in the past tense used for ongoing actions: 'he was talking, he was talking'."),
-    (12, None, "'And it was for a silent film! Completely crazy, right?' Notice how 'silent film' puts the adjective after the noun, and 'right?' at the end is simply the word for 'no?'."),
-    (13, None, "'A test!' Solveig is starting to buy the story."),
-    (14, None, "'Yes! Do you really want her for the part? That's the question.' Notice the little word for 'her' placed right before 'want'."),
-    (15, None, "'Give her another chance. Solveig, I beg you.' A polite command with 'to her' attached by a hyphen."),
-    (16, None, "'Okay.' It worked! Solveig agrees."),
-    (17, None, "'Akerfelt wants to see Laura Smet again!' Gabriel comes out of his office, proud of himself. Then Hervé runs up with an even bigger surprise from the director."),
-    (18, None, "'She wants to see Laura and Nathalie together before catching her flight.' Solveig liked the idea of actors shooting themselves in the foot so much that now she wants both mother and daughter back!"),
-    (19, None, "'Business is picking up again!' Literally 'business starts again'. Everything is back on track—or so the agents think. Let's listen to the whole scene again without stopping."),
+    (3, "C'était ma faute.", "'It was my fault.' Gabriel takes the blame to get Solveig listening."),
+    (3, "Elle s'est tiré une balle dans le pied.", "'She shot herself in the foot.' Literally 'she fired a bullet into her foot'. Just like the English idiom."),
+    (4, None, "'A bullet in the foot?' Solveig is Scandinavian, so the French idiom catches her completely by surprise."),
+    (5, None, "'Yes, it's a French expression, and a tradition among actors.' Notice the linking word before 'actors', which means 'among' or 'at the home of'. Gabriel is inventing this tradition on the spot."),
+    (6, None, "'When they want a part, they behave badly.' A reflexive verb at the end, 'they behave themselves badly'."),
+    (7, 'Les Français sont de vrais romantiques.', "'The French are true romantics.' Gabriel plays on every stereotype he can think of."),
+    (7, "C'est une façon bizarre de faire.", "'It's a strange way of doing things.' Literally 'a strange way to do'."),
+    (8, None, "'But they all do it like that.' The word for 'all' comes right after the verb 'do'."),
+    (9, None, "'Jean Dujardin, for example. At the screen tests, he talked and talked!' The verb is in the past tense used for ongoing actions: 'he was talking, he was talking'."),
+    (10, None, "'And it was for a silent film! Completely crazy, right?' Notice how 'silent film' puts the adjective after the noun, and 'right?' at the end is simply the word for 'no?'."),
+    (11, None, "'A test!' Solveig is starting to buy the story."),
+    (12, None, "'Yes! Do you really want her for the part? That's the question.' Notice the little word for 'her' placed right before 'want'."),
+    (13, None, "'Give her another chance. Solveig, I beg you.' A polite command with 'to her' attached by a hyphen."),
+    (14, None, "'Okay.' It worked! Solveig agrees."),
+    (15, None, "'Akerfelt wants to see Laura Smet again!' Gabriel comes out of his office, proud of himself. Then Hervé runs up with an even bigger surprise from the director."),
+    (16, None, "'She wants to see Laura and Nathalie together before catching her flight.' At this point, Solveig liked the idea of actors shooting themselves in the foot so much that now she wants both mother and daughter back!"),
+    (17, None, "'Business is picking up again!' Literally 'business starts again'. Everything is back on track—or so the agents think. Let's listen to the whole scene again without stopping."),
 ]

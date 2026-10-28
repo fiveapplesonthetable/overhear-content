@@ -7,7 +7,6 @@ SCENE = 9
 TITLE = "Dîner chez Mathias  (Dinner at Mathias's)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
 LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
@@ -40,16 +39,16 @@ WALK = [
     (2, None, "'He doesn't say, but I doubt it.' The tiny word before 'doubt' means 'of it', because in French you doubt 'of' something."),
     (3, None, "'Is he still seeing Andréa's assistant?' Mathias tries to sound casual, though he's anything but."),
     (4, None, "'No idea. He doesn't tell me anything.' The negative wraps around the verb 'tells', with the word for 'anything' at the end."),
-    (5, None, "'Camille, is that right?' Literally 'that's it?', the easiest way to check a name or a fact."),
-    (6, None, "'She's nice, isn't she?' Adding 'no?' at the end turns any statement into a friendly tag question."),
-    (7, None, "'I don't know her very well.' Mathias lies smoothly to his wife."),
-    (8, None, "'But she works at the agency!' Catherine is surprised he barely knows a girl from his own office."),
-    (9, None, "'Not with me. A little bit.' Mathias backs down slightly."),
-    (10, None, "'Maybe, but so what?' The two words at the end mean 'and so?' or 'so what?'."),
-    (11, None, "'Maybe he wants to marry her!' Catherine teases him, having no idea why that thought horrifies Mathias."),
-    (12, None, "'What on earth are you talking about?' Literally 'what is it that you are telling?'. Mathias nearly chokes on his wine."),
-    (13, None, "'I'm joking, Mathias.' A useful everyday verb for 'to joke' or 'to kid'."),
-    (14, None, "'It's not very smart to go out with his agent's assistant.' Mathias quickly invents a professional excuse."),
-    (15, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'."),
-    (16, None, "'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'. Now let's listen to the whole dinner conversation again."),
+    (5, "Camille, c'est ça?", "'Camille, is that right?' Literally 'that's it?', the easiest way to check a name or a fact."),
+    (5, 'Elle est sympa, non?', "'She's nice, isn't she?' Adding 'no?' at the end turns any statement into a friendly tag question."),
+    (6, None, "'I don't know her very well.' Mathias lies smoothly to his wife."),
+    (7, None, "'But she works at the agency!' Catherine is surprised he barely knows a girl from his own office."),
+    (8, None, "'Not with me. A little bit.' Mathias backs down slightly."),
+    (9, None, "'Maybe, but so what?' The two words at the end mean 'and so?' or 'so what?'."),
+    (10, None, "'Maybe he wants to marry her!' Catherine teases him, having no idea why that thought horrifies Mathias."),
+    (11, None, "'What on earth are you talking about?' Literally 'what is it that you are telling?'. Mathias nearly chokes on his wine."),
+    (12, None, "'I'm joking, Mathias.' A useful everyday verb for 'to joke' or 'to kid'."),
+    (13, None, "'It's not very smart to go out with his agent's assistant.' Mathias quickly invents a professional excuse."),
+    (14, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'."),
+    (15, None, "'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'. Now let's listen to the whole dinner conversation again."),
 ]

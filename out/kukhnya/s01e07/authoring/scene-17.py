@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 7
 SCENE = 17
-TITLE = "В гостях у Кости  (Visiting Kostya)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'В гостях у Кости  (Visiting Kostya)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Hoping to spend a quiet romantic evening together, bartender Kostya invites waitress Nastya over to his small rented apartment. Everything seems promising until the passionate animal lover catches sight of a wooden mousetrap on the floor, sparking an emotional explosion that shatters their romantic mood. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Kostya and Nastya's apartment visit line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "What was meant to be a cozy evening turns into a dramatic breakup over a household mousetrap. Next time you watch the episode, listen for the Russian expressions for 'defenseless' and 'to see' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, добро пожаловать в мою квартиру.', 'Nastya, welcome to my apartment.', [], ''),
     ('nastya', 'У тебя здесь довольно уютно и чисто.', 'It is quite cozy and clean here with you.', [], ''),

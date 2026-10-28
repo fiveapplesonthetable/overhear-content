@@ -7,7 +7,6 @@ SCENE = 23
 TITLE = "Les conseils d'Arlette  (Arlette's Advice)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'gabriel': 'theo'}
 LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'

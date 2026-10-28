@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Роман, в чём дело, куда же вы пропали? | Roman, what is the matter, where did you disappear to? | #284 00:18:18: в чем дело? Роман, куда вы пропали? | adapted: adapted |
-| 2 | Гость | Понимаете, я не смогу дальше с вами работать. | You understand, I will not be able to work with you any further. | #286 00:18:25: Понимаете, я не смогу с вами дальше работать. | adapted: adapted |
-| 3 | Гость | Подождите, но мы же обо всём уже договорились! | Wait, but we already agreed on everything! | #287 00:18:27: Нет, секундочку, мы же обо всем договорились. | adapted: adapted |
-| 4 | Гость | Мы с вами утвердили основные цвета и стиль! | We approved the main colors and style with you! | #288 00:18:30: Мы утвердили основные цвета, стиль. | adapted: adapted |
-| 5 | Гость | Смотри, Лёва, значит, этот парень нас не понял! | Look, Lyova, so that guy did not understand us! | #293 00:18:49: Значит, ты не понял. | adapted: adapted |
-| 6 | Гость | Ладно, тогда мы сейчас объясним ему по-другому! | Fine, then right now we will explain it to him differently! | #294 00:18:51: Ладно, объясним по-другому. | adapted: adapted |
-| 7 | Гость | А ну иди сюда, пойдём ещё раз поговорим! | Come over here, let's go have another talk! | #295 00:18:59: Пойдем поговорим.<br>#296 00:19:02: Иди сюда! | adapted: adapted |
-| 8 | Гость | Подождите, вы неправильно поняли, я просто ухожу! | Wait, you misunderstood, I am simply leaving! | #295 00:18:59: А вы не поняли, я просто... | adapted: adapted |
-| 9 | Гость | Я что, вчера тебе неясно всё выразился? | Did I not express myself clearly to you yesterday? | #299 00:19:12: неясно выразился? | adapted: adapted |
-| 10 | Гость | Я же сказал, ты здесь работать не будешь! | I told you, you are not going to work here! | #299 00:19:12: Ты здесь работать не будешь! | adapted: adapted |
-| 11 | Гость | Да я и не собираюсь здесь больше работать! | Why, I am not even planning to work here anymore! | #300 00:19:15: Да я не собираюсь. | adapted: adapted |
-| 12 | Лёва | Виктор Петрович, остановитесь, сюда идёт хозяин ресторана! | Viktor Petrovich, stop, the owner of the restaurant is coming here! | #300 00:19:15: Так, Виктор Петрович, что происходит? | adapted: adapted |
+| 1 | Гость | Роман, в чём дело, куда же вы пропали? | Roman, what is the matter, where did you disappear to? | #284: в чем дело? Роман, куда вы пропали? | adapted: adapted |
+| 2 | Гость | Понимаете, я не смогу дальше с вами работать. | You understand, I will not be able to work with you any further. | #286: Понимаете, я не смогу с вами дальше работать. | adapted: adapted |
+| 3 | Гость | Подождите, но мы же обо всём уже договорились! | Wait, but we already agreed on everything! | #287: Нет, секундочку, мы же обо всем договорились. | adapted: adapted |
+| 4 | Гость | Мы с вами утвердили основные цвета и стиль! | We approved the main colors and style with you! | #288: Мы утвердили основные цвета, стиль. | adapted: adapted |
+| 5 | Шеф | Смотри, Лёва, значит, этот парень нас не понял! | Look, Lyova, so that guy did not understand us! | #293: Значит, ты не понял. | adapted: adapted |
+| 6 | Шеф | Ладно, тогда мы сейчас объясним ему по-другому! | Fine, then right now we will explain it to him differently! | #294: Ладно, объясним по-другому. | adapted: adapted |
+| 7 | Шеф | А ну иди сюда, пойдём ещё раз поговорим! | Come over here, let's go have another talk! | #295: Пойдем поговорим.<br>#296: Иди сюда! | adapted: adapted |
+| 8 | Гость | Подождите, вы неправильно поняли, я просто ухожу! | Wait, you misunderstood, I am simply leaving! | #295: А вы не поняли, я просто... | adapted: adapted |
+| 9 | Шеф | Я что, вчера тебе неясно всё выразился? | Did I not express myself clearly to you yesterday? | #299: неясно выразился? | adapted: adapted |
+| 10 | Шеф | Я же сказал, ты здесь работать не будешь! | I told you, you are not going to work here! | #299: Ты здесь работать не будешь! | adapted: adapted |
+| 11 | Гость | Да я и не собираюсь здесь больше работать! | Why, I am not even planning to work here anymore! | #300: Да я не собираюсь. | adapted: adapted |
+| 12 | Лёва | Виктор Петрович, остановитесь, сюда идёт хозяин ресторана! | Viktor Petrovich, stop, the owner of the restaurant is coming here! | #300: Так, Виктор Петрович, что происходит? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Roman, what is the matter, where did you disappear to?' The owner of Arcobaleno wonders why Roman stopped answering calls.
-- 'You understand, I will not be able to work with you any further.' Shaken by yesterday's car ambush, Roman wants out.
-- 'Wait, but we already agreed on everything!' In everyday Russian, 'wait' flows straight into 'agreed, deal' without extra linking words.
-- 'We approved the main colors and style with you!' Notice the clue that Barinov missed: Roman was hired for colors and interior style!
-- 'Look, Lyova, so that guy did not understand us!' Seeing Roman in the hallway, Barinov assumes he came to take Elena's job.
-- 'Fine, then right now we will explain it to him differently!' Adverb 'in another way' signals another round of intimidation.
-- 'Come over here, let's go have another talk!' Barinov and Lyova corner Roman and drag him into the kitchen.
-- 'Wait, you misunderstood, I am simply leaving!' Roman tries in vain to explain why he came to the office.
-- 'Did I not express myself clearly to you yesterday?' Notice how Russian puts 'yesterday' and 'to yesterday' together in a short, direct phrase where word endings show how the ideas connect.
-- 'I told you, you are not going to work here!' Barinov roars at the terrified young man across the kitchen.
-- 'Why, I am not even planning to work here anymore!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Viktor Petrovich, stop, the owner of the restaurant is coming here!' The owner walks in and demands to know what is going on.
+- 'Roman, what is the matter, where did you disappear to?' When the guest asks if Roman what is the matter where did Barinov disappear, Barinov has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'You understand, I will not be able to work with you any further.' The guest explains that Barinov understands he will not be able to work with Barinov any further, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Wait, but we already agreed on everything!' Around the kitchen and plan, the guest makes his point loud and clear.
+- 'We approved the main colors and style with you!' Around the kitchen and room, the guest makes his point loud and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Look, Lyova, so that guy did not understand us!' Saying that that guy did not understand them is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Fine, then right now we will explain it to him differently!' Barinov declares that fine then right now they will explain it to him differently as the tension in the room peaks.
+- 'Come over here, let's go have another talk!' Barinov declares that the guest should come over here let them go have another talk as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wait, you misunderstood, I am simply leaving!' Insisting that Barinov misunderstood he is simply leaving shows the guest is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Did I not express myself clearly to you yesterday?' Checking whether he not express himself clearly to the guest yesterday cuts straight through the tension between Barinov and the guest.
+- 'I told you, you are not going to work here!' Declaring that he told the guest the guest is not going to work here brings Barinov's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why, I am not even planning to work here anymore!' The guest insists that why he is not even planning to work here anymore, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Viktor Petrovich, stop, the owner of the restaurant is coming here!' Declaring that Barinov should stop the owner of the restaurant is coming here brings Lyova's temper right to the surface.

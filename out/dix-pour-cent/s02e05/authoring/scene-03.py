@@ -7,8 +7,7 @@ SCENE = 3
 TITLE = 'Le diagnostic du médecin  (Minor Stroke)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'medecin': 'theo', 'guy': 'marcel', 'lea': 'lucie'}
-LABELS = {'medecin': 'Le médecin', 'guy': 'Guy', 'lea': 'Andréa'}
+LABELS = {'gabriel': 'Gabriel', 'guy': 'Guy', 'medecin': 'Le médecin'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the examination room, a doctor explains the test results to Guy Marchand and his agent Gabriel. While Guy is relieved that he does not have Alzheimer's disease, the doctor warns that his minor stroke will cause lingering confusion. Let's listen to the scene in French first."
@@ -19,7 +18,7 @@ CLOSING = ('guy', 'À bientôt!')
 STORY = [
     ('medecin', "Regardez les examens, ce n'est pas Alzheimer.", 'Look at the tests, it is not Alzheimer', [(77, "Ce n'est pas Alzheimer.")], ''),
     ('medecin', "Ce n'est pas une maladie neurodégénérative grave.", 'It is not a serious neurodegenerative disease.', [(78, "Ce n'est pas une maladie neurodégénérative.")], ''),
-    ('lea', "C'est donc une bonne nouvelle, docteur?", 'So that is good news, doctor?', [(80, 'En quoi est-ce une bonne nouvelle ?')], ''),
+    ('gabriel', "C'est donc une bonne nouvelle, docteur?", 'So that is good news, doctor?', [(80, 'En quoi est-ce une bonne nouvelle ?')], ''),
     ('medecin', 'Vous avez simplement eu un petit AVC.', 'You simply had a minor stroke.', [(83, 'Vous avez eu un petit AVC.')], ''),
     ('medecin', "Un petit vaisseau sanguin s'est bouché.", 'A small blood vessel got blocked.', [(84, "Un vaisseau s'est bouché,")], ''),
     ('medecin', 'Cela explique votre récente confusion au travail.', 'That explains your recent confusion at work.', [(87, "D'où votre confusion récente.")], ''),
@@ -28,9 +27,9 @@ STORY = [
     ('guy', 'Formidable, je vais très bien dormir ce soir.', 'Wonderful, I am going to sleep very well tonight.', [(89, 'Parfait !'), (95, 'Une bonne nuit de sommeil, un bol de muesli au petit-déjeuner,')], ''),
     ('guy', "Et demain matin, j'irai tourner à vélo!", 'And tomorrow morning, I will go shoot by bike!', [(97, "j'irai au plateau à vélo, bien en avance !")], ''),
     ('medecin', 'Attention, vous aurez encore des moments de confusion.', 'Watch out, you will still have moments of confusion.', [(102, 'M. Marchand aura des périodes de flottement,'), (103, 'de confusion...')], ''),
-    ('lea', 'Des moments de confusion pendant le tournage?', 'Moments of confusion during filming?', [(104, 'Les semaines à venir ?')], ''),
+    ('gabriel', 'Des moments de confusion pendant le tournage?', 'Moments of confusion during filming?', [(104, 'Les semaines à venir ?')], ''),
     ('medecin', 'Oui, pendant les prochaines semaines à venir.', 'Yes, over the coming weeks.', [(99, 'ça sera résorbé dans les semaines à venir.')], ''),
-    ('lea', 'Merci docteur, nous allons être très prudents.', 'Thank you doctor, we are going to be very careful.', [(110, 'On vous laisse vous occuper de ceux qui en ont vraiment besoin.')], ''),
+    ('gabriel', 'Merci docteur, nous allons être très prudents.', 'Thank you doctor, we are going to be very careful.', [(110, 'On vous laisse vous occuper de ceux qui en ont vraiment besoin.')], ''),
 ]
 WALK = [
     (0, None, "'Look at the tests, it is not Alzheimer's.' The doctor rules out a feared degenerative illness."),

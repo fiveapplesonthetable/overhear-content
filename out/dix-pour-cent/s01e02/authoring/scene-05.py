@@ -7,32 +7,31 @@ SCENE = 5
 TITLE = 'Le châle vert  (The Green Shawl)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "But at the office she's all business again, with twenty-four hours to win back Françoise Fabian. Then an old client of Andréa's, an actress called Rebecca Vialle whom nobody has hired for years, turns up without an appointment. Camille tries to help her, and finds out she has made a mistake of her own. First the scene in French; you don't need every word."
 OPENER = "Let's go through it. Camille starts by talking to the actress waiting at her desk, very politely."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Poor Camille: a kind heart for Rebecca, and a green shawl for Françoise. If you followed the polite 'you' between the two women, you're doing really well. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('camille', 'Je vais voir si elle peut vous recevoir.', 'I', [(200, 'Je vais voir si elle peut vous recevoir')], ''),
     ('camille', 'Andréa! Une de vos actrices est là, Rebecca Vialle.', 'Andréa! One of your actresses is here, Rebecca Vialle.', [(203, 'Andréa'), (204, 'Une de vos actrices est là, Rebecca Vialle')], ''),
     ('camille', 'Vous pouvez la voir?', 'Can you see her?', [(204, 'Vous pouvez la voir ?')], ''),
-    ('lea', 'Elle est là?', 'She', [(205, 'Elle est là ?')], ''),
+    ('andrea', 'Elle est là?', 'She', [(205, 'Elle est là ?')], ''),
     ('camille', 'Dans le couloir.', 'In the corridor.', [(205, 'Dans le couloir')], ''),
-    ('lea', "Est-ce que Rebecca Vialle est dans mon agenda aujourd'hui?", 'Is Rebecca Vialle in my diary today?', [(206, "Est-ce que Rebecca Vialle est dans mon agenda aujourd'hui ?")], ''),
+    ('andrea', "Est-ce que Rebecca Vialle est dans mon agenda aujourd'hui?", 'Is Rebecca Vialle in my diary today?', [(206, "Est-ce que Rebecca Vialle est dans mon agenda aujourd'hui ?")], ''),
     ('camille', "Mais c'est quand même une cliente.", 'But she', [(207, "Mais c'est quand même une cliente")], ''),
-    ('lea', "Elle n'a pas travaillé depuis deux ans.", 'She hasn', [(208, "Elle n'a pas travaillé depuis deux ans")], ''),
+    ('andrea', "Elle n'a pas travaillé depuis deux ans.", 'She hasn', [(208, "Elle n'a pas travaillé depuis deux ans")], ''),
     ('camille', "Si on ne l'aide pas, elle ne trouvera pas de travail.", 'If we don', [(209, "Si on ne l'aide pas, elle ne trouvera pas de travail")], ''),
     ('camille', 'Elle a commencé à pleurer.', 'She', [(210, 'Elle a commencé à pleurer')], ''),
-    ('lea', 'Les actrices peuvent pleurer quand elles veulent.', 'Actresses can cry whenever they want.', [(211, 'Les actrices peuvent pleurer quand elles veulent')], ''),
-    ('lea', 'Vous avez eu le châle pour Françoise Fabian?', 'Did you get the shawl for Françoise Fabian?', [(212, 'Vous avez eu le châle'), (212, 'pour Françoise Fabian ?')], ''),
+    ('andrea', 'Les actrices peuvent pleurer quand elles veulent.', 'Actresses can cry whenever they want.', [(211, 'Les actrices peuvent pleurer quand elles veulent')], ''),
+    ('andrea', 'Vous avez eu le châle pour Françoise Fabian?', 'Did you get the shawl for Françoise Fabian?', [(212, 'Vous avez eu le châle'), (212, 'pour Françoise Fabian ?')], ''),
     ('camille', "Oui, c'est envoyé. Voici la facture.", 'Yes, it', [(213, "Oui, c'est envoyé. Voici la facture")], ''),
-    ('lea', 'Vous avez eu du vert?', 'You got green?', [(214, 'Vous avez eu du vert ?')], ''),
+    ('andrea', 'Vous avez eu du vert?', 'You got green?', [(214, 'Vous avez eu du vert ?')], ''),
     ('camille', 'Oui, un très beau vert.', 'Yes, a very nice green.', [(214, 'Oui, un très beau vert')], ''),
-    ('lea', "On n'offre pas du vert à une actrice. Ça porte malheur.", 'You don', [(215, "On n'offre pas du vert à une actrice. Ça porte malheur")], ''),
+    ('andrea', "On n'offre pas du vert à une actrice. Ça porte malheur.", 'You don', [(215, "On n'offre pas du vert à une actrice. Ça porte malheur")], ''),
     ('camille', 'Oh non!', 'Oh no!', [], ''),
 ]
 WALK = [

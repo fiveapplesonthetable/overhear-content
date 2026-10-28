@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Заварзин | Холодно тут! Даже печку поставить не могут. | It's cold in here! They can't even put a heater in. | #118 00:06:52: печку поставить не могут | adapted: cue 118 cleaned up |
-| 2 | Лавров | Тихо! Сейчас всё прогреется. | Quiet! Everything will warm up in a moment. | #117 00:06:51: Все прогреется | adapted: 'Тихо! Сейчас' added |
-| 3 | Заварзин | О, наконец тепло! Слава богу. Сейчас ещё чай сделаю. | Oh, it's warm at last! Thank goodness. Now I'll make some tea too. | #125 00:07:15: Слава богу<br>#126 00:07:17: Сейчас еще | adapted: slang 'пошла жара в хату' -> 'наконец тепло'; 'чайку' -> 'чай сделаю' |
-| 4 | Лавров | Ты что, голову в Москве оставил? | What, did you leave your head in Moscow? | #127 00:07:24: Ты что, голову в Москве | adapted: cue 127 has the transcription slip 'ставил' for 'оставил' |
-| 5 | Лавров | Я тебе сто раз говорил! Нельзя вместе включать обогреватель и чайник. | I've told you a hundred times! You can't turn on the heater and the kettle together. | #128 00:07:26: Я тебе сто раз говорил, нельзя вместе | adapted: 'врубать' -> 'включать'; cue 128 garbles 'чайник' as 'чайки' |
-| 6 | Заварзин | Сейчас, товарищ майор, всё нормально. Включаем микрофон. | Just a moment, Comrade Major, everything's fine. Switching on the microphone. | #130 00:07:32: Нормально<br>#134 00:07:47: Товарищ майор<br>#136 00:07:55: Сейчас<br>#138 00:08:03: Включаем | adapted: 'микрофон' added for clarity |
-| 7 | Лавров | У нас ведь второй этаж, да? Давай, слушаем. | Ours is the second floor, right? Go on, let's listen. | #136 00:07:55: У нас ведь второй этаж, да | adapted: 'Давай, слушаем' added |
-| 8 | Заварзин | Алло, Танечка! В свои годы это нормально. | Hello, Tanechka! At my age that's normal. | #140 00:08:11: Танечка<br>#142 00:08:17: Свои годы это нормально<br>#144 00:08:22: Алло | adapted: overheard on the microphone: old Klavdia chatting to a friend on the phone |
-| 9 | Заварзин | Чернослив я уже ела. Ничего не помогает! | I've already eaten prunes. Nothing helps! | #145 00:08:23: Чернослив я уже ела | adapted: 'Ничего не помогает' added |
-| 10 | Лавров | Так, ты можешь убрать весь этот шум? Нам нужен только Аникеев. | Right, can you cut out all this noise? We only need Anikeev. | #146 00:08:27: Так, ты можешь<br>#146 00:08:27: весь этот<br>#147 00:08:30: Нам<br>#147 00:08:30: нужен | adapted: 'отсечь весь этот мусор' -> 'убрать весь этот шум'; code name 'комар' -> 'Аникеев' |
-| 11 | Заварзин | Товарищ майор, тут всё очень плохо слышно. Качества всё равно не будет. | Comrade Major, you can barely hear anything here. There won't be any quality anyway. | #134 00:07:47: Товарищ майор<br>#148 00:08:31: качества все равно не будет | adapted: clean stand-in for cue 134 + cue 148 |
-| 12 | Лавров | Значит, надо жучок поставить. | Then we need to plant a bug. | #149 00:08:32: Надо жучок | adapted: cue 149 'вставить' -> 'поставить' |
+| 1 | Заварзин | Холодно тут! Даже печку поставить не могут. | It's cold in here! They can't even put a heater in. | #118: печку поставить не могут | adapted: cue 118 cleaned up |
+| 2 | Лавров | Тихо! Сейчас всё прогреется. | Quiet! Everything will warm up in a moment. | #117: Все прогреется | adapted: 'Тихо! Сейчас' added |
+| 3 | Заварзин | О, наконец тепло! Слава богу. Сейчас ещё чай сделаю. | Oh, it's warm at last! Thank goodness. Now I'll make some tea too. | #125: Слава богу<br>#126: Сейчас еще | adapted: slang 'пошла жара в хату' -> 'наконец тепло'; 'чайку' -> 'чай сделаю' |
+| 4 | Лавров | Ты что, голову в Москве оставил? | What, did you leave your head in Moscow? | #127: Ты что, голову в Москве | adapted: cue 127 has the transcription slip 'ставил' for 'оставил' |
+| 5 | Лавров | Я тебе сто раз говорил! Нельзя вместе включать обогреватель и чайник. | I've told you a hundred times! You can't turn on the heater and the kettle together. | #128: Я тебе сто раз говорил, нельзя вместе | adapted: 'врубать' -> 'включать'; cue 128 garbles 'чайник' as 'чайки' |
+| 6 | Заварзин | Сейчас, товарищ майор, всё нормально. Включаем микрофон. | Just a moment, Comrade Major, everything's fine. Switching on the microphone. | #130: Нормально<br>#134: Товарищ майор<br>#136: Сейчас<br>#138: Включаем | adapted: 'микрофон' added for clarity |
+| 7 | Лавров | У нас ведь второй этаж, да? Давай, слушаем. | Ours is the second floor, right? Go on, let's listen. | #136: У нас ведь второй этаж, да | adapted: 'Давай, слушаем' added |
+| 8 | Клавдия Викторовна | Алло, Танечка! В свои годы это нормально. | Hello, Tanechka! At my age that's normal. | #140: Танечка<br>#142: Свои годы это нормально<br>#144: Алло | adapted: overheard on the microphone: old Klavdia chatting to a friend on the phone |
+| 9 | Клавдия Викторовна | Чернослив я уже ела. Ничего не помогает! | I've already eaten prunes. Nothing helps! | #145: Чернослив я уже ела | adapted: 'Ничего не помогает' added |
+| 10 | Лавров | Так, ты можешь убрать весь этот шум? Нам нужен только Аникеев. | Right, can you cut out all this noise? We only need Anikeev. | #146: Так, ты можешь<br>#146: весь этот<br>#147: Нам<br>#147: нужен | adapted: 'отсечь весь этот мусор' -> 'убрать весь этот шум'; code name 'комар' -> 'Аникеев' |
+| 11 | Заварзин | Товарищ майор, тут всё очень плохо слышно. Качества всё равно не будет. | Comrade Major, you can barely hear anything here. There won't be any quality anyway. | #134: Товарищ майор<br>#148: качества все равно не будет | adapted: clean stand-in for cue 134 + cue 148 |
+| 12 | Лавров | Значит, надо жучок поставить. | Then we need to plant a bug. | #149: Надо жучок | adapted: cue 149 'вставить' -> 'поставить' |
 | 13 | Заварзин | Понял. Марина Сергеевна нам поможет. | Understood. Marina Sergeyevna will help us. | new | new: new: sets up scene 5, where they hand the bug to Marina |
 
 ## Walk-through narration (English only, no target-language words quoted)

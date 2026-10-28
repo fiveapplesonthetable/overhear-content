@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Если что-то не так, персонал штрафуют. | If something goes wrong, they fine the staff. | #22 00:03:11: персонал<br>#22 00:03:11: штрафуют | adapted: adapted |
-| 2 | Михаил | За своих подчинённых я не волнуюсь. | I do not worry about my subordinates. | #23 00:03:16: За своих подчиненных я не волнуюсь | adapted: verbatim |
-| 3 | Михаил | Миша, иди ты в свой кабинет. | Misha, go to your own office. | #24 00:03:18: иди ты | adapted: adapted |
-| 4 | Михаил | Через десять минут у нас собрание. | In ten minutes we have a meeting. | #25 00:03:21: на собрании через<br>#25 00:03:21: минут | adapted: adapted |
-| 5 | Михаил | Там будет всё наше руководство. | All our management will be there. | #26 00:03:26: руководство | adapted: adapted |
-| 6 | Вика | Мне сообщили важную новость. | They informed me of important news. | #27 00:03:29: Мне сообщили | adapted: adapted |
-| 7 | Вика | Тайный гость будет сегодня или завтра. | The secret guest will be here today or tomorrow. | #27 00:03:29: тайный гость будет сегодня-завтра | adapted: adapted |
-| 8 | Вика | Будьте сегодня начеку. | Be on alert today. | #28 00:03:33: Будьте начеку | adapted: adapted |
-| 9 | Вика | Михаил, там небольшая проблемка. | Mikhail, there is a small problem there. | #29 00:03:35: там небольшая проблемка | adapted: adapted |
-| 10 | Вика | Гости жалуются на сильный холод. | The guests are complaining about the bitter cold. | #30 00:03:37: Гости жалуются на | adapted: adapted |
-| 11 | Михаил | Ну, отправьте туда нашего инженера. | Well, send our engineer up there. | #31 00:03:39: Ну, отправьте туда инженера | adapted: adapted |
-| 12 | Михаил | Он сам не мог подумать? | Could he not think of that himself? | #32 00:03:42: Сам не мог | adapted: adapted |
+| 1 | Михаил | Если что-то не так, персонал штрафуют. | If something goes wrong, they fine the staff. | #22: персонал<br>#22: штрафуют | adapted: adapted |
+| 2 | Шеф | За своих подчинённых я не волнуюсь. | I do not worry about my subordinates. | #23: За своих подчиненных я не волнуюсь | adapted: verbatim |
+| 3 | Шеф | Миша, иди ты в свой кабинет. | Misha, go to your own office. | #24: иди ты | adapted: adapted |
+| 4 | Михаил | Через десять минут у нас собрание. | In ten minutes we have a meeting. | #25: на собрании через<br>#25: минут | adapted: adapted |
+| 5 | Михаил | Там будет всё наше руководство. | All our management will be there. | #26: руководство | adapted: adapted |
+| 6 | Вика | Мне сообщили важную новость. | They informed me of important news. | #27: Мне сообщили | adapted: adapted |
+| 7 | Вика | Тайный гость будет сегодня или завтра. | The secret guest will be here today or tomorrow. | #27: тайный гость будет сегодня-завтра | adapted: adapted |
+| 8 | Вика | Будьте сегодня начеку. | Be on alert today. | #28: Будьте начеку | adapted: adapted |
+| 9 | Вика | Михаил, там небольшая проблемка. | Mikhail, there is a small problem there. | #29: там небольшая проблемка | adapted: adapted |
+| 10 | Вика | Гости жалуются на сильный холод. | The guests are complaining about the bitter cold. | #30: Гости жалуются на | adapted: adapted |
+| 11 | Михаил | Ну, отправьте туда нашего инженера. | Well, send our engineer up there. | #31: Ну, отправьте туда инженера | adapted: adapted |
+| 12 | Михаил | Он сам не мог подумать? | Could he not think of that himself? | #32: Сам не мог | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If something goes wrong, they fine the staff.' Spoken Russian keeps this brisk, leaning on 'if' and finishing on 'they fine'. Chef Barinov answers right away.
-- 'I do not worry about my subordinates.' Chef Barinov brings out the contrast between 'for' and 'one's own' in a few short words.
-- 'Misha, go to your own office.' The grammar packs 'Misha' and 'office' into a tight, idiomatic kitchen exchange.
-- 'In ten minutes we have a meeting.' Notice how Russian expresses 'ten' and 'meeting' with crisp inflection rather than helper words.
-- 'All our management will be there.' Here the Russian phrasing highlights 'there' before landing on 'management'.
-- 'They informed me of important news.' The meaning hinges on 'to me' working together with 'news' in spoken Russian.
-- 'The secret guest will be here today or tomorrow.' Vika anchors the line on 'secret', while 'tomorrow' completes the thought.
-- 'Be on alert today.' The grammar packs 'be' and 'on alert' into a tight, idiomatic kitchen exchange.
-- 'Mikhail, there is a small problem there.' The meaning hinges on 'Mikhail' working together with 'little problem' in spoken Russian.
-- 'The guests are complaining about the bitter cold.' Spoken Russian keeps this brisk, leaning on 'guests' and finishing on 'cold'. Mikhail answers right away.
-- 'Well, send our engineer up there.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'engineer'.
-- 'Could he not think of that himself?' Mikhail brings out the contrast between 'he' and 'yourself' in a few short words.
+- 'If something goes wrong, they fine the staff.' Mikhail reminds Barinov that if something goes wrong they fine the staff before the moment passes.
+- 'I do not worry about my subordinates.' Because he does not worry about his subordinates, Barinov treats the matter as settled.
+- 'Misha, go to your own office.' Going to Mikhail's own office moves the conversation forward without extra drama. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'In ten minutes we have a meeting.' Mikhail mentions that in ten minutes they have a meeting so Barinov sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'All our management will be there.' Claiming that all their management will be there sounds confident, even if Barinov has doubts.
+- 'They informed me of important news.' With the room and secret in play, Vika keeps this short reply brisk and direct.
+- 'The secret guest will be here today or tomorrow.' Vika explains that the secret guest will be here today or tomorrow, keeping her voice calm and direct.
+- 'Be on alert today.' Around the room and secret, Vika sets a calm, everyday tone with Barinov.
+- 'Mikhail, there is a small problem there.' Noting that there is a small problem there keeps Vika's side of the story simple and clear.
+- 'The guests are complaining about the bitter cold.' Even though the guests are complaining about the bitter cold, Vika keeps a steady face in front of Barinov.
+- 'Well, send our engineer up there.' Admitting that Barinov should send their engineer up there shows Mikhail being honest for a change.
+- 'Could he not think of that himself?' By checking whether he not think of that himself, Mikhail presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

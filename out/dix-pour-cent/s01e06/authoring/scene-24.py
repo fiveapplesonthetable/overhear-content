@@ -7,15 +7,14 @@ SCENE = 24
 TITLE = "Le pardon de Sofia et la panique d'Andréa  (Sofia's Forgiveness and Andréa's Panic)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'sofia': 'emilie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'sofia': 'Sofia'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Meanwhile, Colette caught a drunken Andréa kissing another woman at the party and walked away in heartbreak. Feeling guilty about Sofia's ruined callback, Gabriel visits Sofia at her apartment to apologize. Later that night, a panicked visitor knocks at Gabriel's own door. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through Gabriel's apology and Andréa's midnight panic step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Gabriel smoothed things over with Sofia, but Andréa has hit rock bottom after losing Colette. See you next time!'
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('sofia', 'Oui?', 'Yes?', [(630, 'Oui')], ''),
     ('gabriel', 'Sofia? Excuse-moi, je te dérange?', 'Sofia? Sorry, am I disturbing you?', [(631, 'Sofia'), (632, 'je te dérange')], ''),
@@ -28,12 +27,12 @@ STORY = [
     ('gabriel', 'Oui, volontiers.', 'Yes, gladly.', [(646, 'Oui, volontiers')], ''),
     ('sofia', "J'ai du porto.", 'I have some port.', [(647, "J'ai du porto")], ''),
     ('gabriel', "J'adore le porto.", 'I love port.', [(648, "J'adore le porto")], ''),
-    ('lea', 'Gabriel!', 'Gabriel! Open up!', [(649, 'Gabriel')], ''),
+    ('andrea', 'Gabriel!', 'Gabriel! Open up!', [(649, 'Gabriel')], ''),
     ('gabriel', 'Andréa? Tu es blessée?', 'Andréa? Are you hurt?', [(649, 'Andréa'), (650, "t'es blessée")], ''),
-    ('lea', "J'ai eu un problème de piscine!", 'I had a pool problem!', [(652, "J'ai eu un"), (652, 'problème de piscine')], ''),
-    ('lea', 'Gabriel, épouse-moi!', 'Gabriel, marry me!', [(654, 'Gabriel, épouse-moi')], ''),
-    ('lea', 'Protège-moi, sauve-moi!', 'Protect me, save me!', [(655, 'Protège-moi, sauve-moi')], ''),
-    ('lea', 'Aide-moi, Gabriel...', 'Help me, Gabriel...', [(656, 'Aide-moi, Gabriel')], ''),
+    ('andrea', "J'ai eu un problème de piscine!", 'I had a pool problem!', [(652, "J'ai eu un"), (652, 'problème de piscine')], ''),
+    ('andrea', 'Gabriel, épouse-moi!', 'Gabriel, marry me!', [(654, 'Gabriel, épouse-moi')], ''),
+    ('andrea', 'Protège-moi, sauve-moi!', 'Protect me, save me!', [(655, 'Protège-moi, sauve-moi')], ''),
+    ('andrea', 'Aide-moi, Gabriel...', 'Help me, Gabriel...', [(656, 'Aide-moi, Gabriel')], ''),
 ]
 WALK = [
     (0, None, "'Yes?' Sofia answers the door with a brief question."),

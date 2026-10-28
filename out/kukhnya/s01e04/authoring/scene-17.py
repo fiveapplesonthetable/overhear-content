@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 17
-TITLE = "Космическая связь  (A Cosmic Connection)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Космическая связь  (A Cosmic Connection)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa"}
-LABELS = {"nastya": "Настя", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "Max approaches waitress Nastya to fulfill his promise to Kostya. He tries to explain that a close friend has feelings for her and wants to go out. However, Nastya completely misunderstands his awkward explanation and assumes Max is secretly confessing his own love. Let's listen to their humorous misunderstanding in Russian."
 OPENER = "Let's analyze the conversation step by step. Pay close attention to how romantic intentions can easily get lost in translation."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Instead of helping Kostya, Max finds himself accidentally caught in an imaginary romance. Keep practicing your Russian conversational skills! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'always' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Настя, мне надо с тобой поговорить.', 'Nastya, I need to talk to you.', [(221, 'Мне надо с тобой поговорить')], ''),
+    ('max', 'Настя, мне надо с тобой поговорить.', 'Nastya, I need to talk to you.', [(221, 'Мне надо с тобой поговорить')], ''),
     ('nastya', 'Да, Макс, о чём ты хотел?', 'Yes, Max, what did you want to discuss?', [], ''),
-    ('anya', 'У меня есть один хороший друг.', 'I have a good friend.', [], ''),
-    ('anya', 'И ты ему очень сильно нравишься.', 'And he really likes you very much.', [(222, 'ты очень нравишься')], ''),
+    ('max', 'У меня есть один хороший друг.', 'I have a good friend.', [], ''),
+    ('max', 'И ты ему очень сильно нравишься.', 'And he really likes you very much.', [(222, 'ты очень нравишься')], ''),
     ('nastya', 'Друг, которому я так нравлюсь?', 'A friend who likes me so much?', [(223, 'Друг, которому я нравлюсь')], ''),
-    ('anya', 'Да, он хочет пригласить тебя на свидание.', 'Yes, he wants to ask you on a date.', [(226, 'пригласить тебя на свидание')], ''),
+    ('max', 'Да, он хочет пригласить тебя на свидание.', 'Yes, he wants to ask you on a date.', [(226, 'пригласить тебя на свидание')], ''),
     ('nastya', 'Я сразу всё отлично поняла!', 'I immediately understood everything perfectly!', [(229, 'Я поняла')], ''),
     ('nastya', 'Парни всегда так про друзей говорят!', 'Guys always say that about friends!', [(230, 'про друзей говорят')], ''),
-    ('anya', 'Подожди, ты совсем неправильно поняла.', 'Wait, you understood completely wrong.', [], ''),
+    ('max', 'Подожди, ты совсем неправильно поняла.', 'Wait, you understood completely wrong.', [], ''),
     ('nastya', 'Между нами есть настоящая космическая связь!', 'There is a real cosmic connection between us!', [(233, 'космическая связь')], ''),
     ('nastya', 'Так здорово, что ты это сказал!', 'It is so great that you said this!', [(234, 'ты это сказал')], ''),
     ('nastya', 'Я побегу, шеф зовёт горячее!', 'I must run, the chef is calling for hot food!', [(236, 'Я побегу')], ''),
-    ('anya', 'Вот это я помог Косте...', 'Now I really helped Kostya...', [], ''),
+    ('max', 'Вот это я помог Косте...', 'Now I really helped Kostya...', [], ''),
 ]
 WALK = [
     (0, None, "'Nastya, I need to talk to you.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

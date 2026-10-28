@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Вот и мы, познакомьтесь с моей девушкой. | Here we are, meet my girlfriend. | #305 00:20:07: Вот и мы. Познакомьтесь, это моя девушка | adapted: adapted |
-| 2 | Шеф | Здравствуйте, мне сейчас очень приятно познакомиться. | Hello, I am very pleased to meet you right now. | #306 00:20:12: Здравствуйте<br>#310 00:20:26: Очень приятно | adapted: adapted |
-| 3 | Шеф | Хорошо встретиться перед началом совместной работы. | It is good to meet before the start of our joint work. | #312 00:20:33: перед началом совместной работы | adapted: adapted |
-| 4 | Шеф | Извините, я вам сейчас не помешал? | Excuse me, did I interrupt you right now? | #313 00:20:35: Извините, мне не помешал | adapted: adapted |
-| 5 | Шеф | Я пришёл извиниться за свой звонок. | I came to apologize for my phone call. | #314 00:20:39: пришел извиниться за тот мой звонок | adapted: adapted |
-| 6 | Шеф | Хочу сказать, что вам очень повезло. | I want to say that you are very lucky. | #314 00:20:39: сказать, что вам очень повезло | adapted: adapted |
-| 7 | Шеф | Лёва лучший повар в нашем ресторане. | Lyova is the best cook in our restaurant. | #315 00:20:44: Лев лучший повар | adapted: adapted |
-| 8 | Шеф | Он всегда был отличным надёжным су-шефом. | He has always been an excellent, reliable sous-chef. | #316 00:20:49: Лева всегда был отличным | adapted: adapted |
-| 9 | Шеф | И я уверен, будет отличным шефом. | And I am sure he will be an excellent head chef. | #316 00:20:49: и я уверен, будет отличным шефом | adapted: adapted |
-| 10 | Шеф | Берегите его, и ты прости, Лёва. | Take care of him, and you forgive me, Lyova. | #317 00:20:53: Берегите его. Лева, прости | adapted: adapted |
-| 11 | Шеф | Я должен уважать твоё желание уйти. | I must respect your desire to leave. | #318 00:20:55: Я должен был уважать твое желание уйти | adapted: adapted |
-| 12 | Лёва | Да я и не собирался уходить. | Actually, I was not even planning to leave. | #320 00:21:01: не собирался уходить | adapted: adapted |
+| 1 | Лёва | Вот и мы, познакомьтесь с моей девушкой. | Here we are, meet my girlfriend. | #305: Вот и мы. Познакомьтесь, это моя девушка | adapted: adapted |
+| 2 | Гость | Здравствуйте, мне сейчас очень приятно познакомиться. | Hello, I am very pleased to meet you right now. | #306: Здравствуйте<br>#310: Очень приятно | adapted: adapted |
+| 3 | Гость | Хорошо встретиться перед началом совместной работы. | It is good to meet before the start of our joint work. | #312: перед началом совместной работы | adapted: adapted |
+| 4 | Шеф | Извините, я вам сейчас не помешал? | Excuse me, did I interrupt you right now? | #313: Извините, мне не помешал | adapted: adapted |
+| 5 | Шеф | Я пришёл извиниться за свой звонок. | I came to apologize for my phone call. | #314: пришел извиниться за тот мой звонок | adapted: adapted |
+| 6 | Шеф | Хочу сказать, что вам очень повезло. | I want to say that you are very lucky. | #314: сказать, что вам очень повезло | adapted: adapted |
+| 7 | Шеф | Лёва лучший повар в нашем ресторане. | Lyova is the best cook in our restaurant. | #315: Лев лучший повар | adapted: adapted |
+| 8 | Шеф | Он всегда был отличным надёжным су-шефом. | He has always been an excellent, reliable sous-chef. | #316: Лева всегда был отличным | adapted: adapted |
+| 9 | Шеф | И я уверен, будет отличным шефом. | And I am sure he will be an excellent head chef. | #316: и я уверен, будет отличным шефом | adapted: adapted |
+| 10 | Шеф | Берегите его, и ты прости, Лёва. | Take care of him, and you forgive me, Lyova. | #317: Берегите его. Лева, прости | adapted: adapted |
+| 11 | Шеф | Я должен уважать твоё желание уйти. | I must respect your desire to leave. | #318: Я должен был уважать твое желание уйти | adapted: adapted |
+| 12 | Лёва | Да я и не собирался уходить. | Actually, I was not even planning to leave. | #320: не собирался уходить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here we are, meet my girlfriend.' Here Lyova anchors the thought on 'get acquainted' and finishes on 'girl, young woman, girlfriend', keeping the spoken rhythm brisk and natural.
-- 'Hello, I am very pleased to meet you right now.' the guest brings out the contrast between 'hello' and 'to me' in a few short words.
-- 'It is good to meet before the start of our joint work.' In Russian, the idea of 'well' flows naturally into 'job' without extra filler words.
-- 'Excuse me, did I interrupt you right now?' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'disturbed'.
-- 'I came to apologize for my phone call.' Chef Barinov brings out the contrast between 'I' and 'arrived' in a few short words.
-- 'I want to say that you are very lucky.' The grammar packs 'want' and 'to be lucky' into a tight, idiomatic kitchen exchange.
-- 'Lyova is the best cook in our restaurant.' In Russian, the idea of 'Lyova' flows naturally into 'restaurant' without extra filler words.
-- 'He has always been an excellent, reliable sous-chef.' Here the Russian phrasing highlights 'he' before landing on 'sous-chef'.
-- 'And I am sure he will be an excellent head chef.' Notice how Russian expresses 'and' and 'excellent' with crisp inflection rather than helper words.
-- 'Take care of him, and you forgive me, Lyova.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'Lyova'.
-- 'I must respect your desire to leave.' Chef Barinov brings out the contrast between 'I' and 'must' in a few short words.
-- 'Actually, I was not even planning to leave.' The grammar packs 'yes' and 'to leave' into a tight, idiomatic kitchen exchange.
+- 'Here we are, meet my girlfriend.' Claiming that here they are meet his girlfriend sounds confident, even if Barinov has doubts.
+- 'Hello, I am very pleased to meet you right now.' The guest mentions that he is very pleased to meet Barinov right now so Barinov sees what is at stake.
+- 'It is good to meet before the start of our joint work.' Saying that it is good to meet before the start of their joint work is how the guest sets the tone with Barinov.
+- 'Excuse me, did I interrupt you right now?' By checking whether he interrupt the guest right now, Barinov presses the guest for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I came to apologize for my phone call.' Noting that he came to apologize for his phone call keeps Barinov's side of the story simple and clear.
+- 'I want to say that you are very lucky.' Wanting to say that the guest is very lucky is how Barinov lays out the situation for the guest. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Lyova is the best cook in our restaurant.' Admitting that Lyova is the best cook in their restaurant shows Barinov being honest for a change.
+- 'He has always been an excellent, reliable sous-chef.' Having always been an excellent reliable is how Barinov lays out the situation for the guest.
+- 'And I am sure he will be an excellent head chef.' Adding that he is sure he will be an excellent head fills in the missing piece for the guest.
+- 'Take care of him, and you forgive me, Lyova.' Explaining that the guest should take care of him and the guest forgives him lays the cards on the table for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I must respect your desire to leave.' Saying that he must respect the guest's desire to leave is how Barinov sets the tone with the guest.
+- 'Actually, I was not even planning to leave.' Since he was not even planning to leave, Lyova does not waste words on excuses.

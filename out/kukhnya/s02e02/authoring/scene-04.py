@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 4
-TITLE = "Всё в прошлом  (All in the Past)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Всё в прошлом  (All in the Past)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
-LABELS = {"anya": "Макс", "sasha": "Саша"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Focused on all in the past, Max runs into Sasha in the kitchen. Sasha asks if he is still upset about Vika leaving, but Max denies it. Let's listen closely to Max and Sasha's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max runs into Sasha in the kitchen. Sasha asks if he is still upset about Vika leaving, but Max denies it. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'to happen' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Привет.', 'Hi.', [(80, 'Привет.')], ''),
+    ('max', 'Привет.', 'Hi.', [(80, 'Привет.')], ''),
     ('sasha', 'Привет, Макс.', 'Hi, Max.', [(80, 'Привет.')], ''),
     ('sasha', 'Как дела?', 'How are you?', [(81, 'Как дела?')], ''),
-    ('anya', 'Бывало и лучше.', "I've been better.", [(82, 'Да так бывало и лучше.')], ''),
+    ('max', 'Бывало и лучше.', "I've been better.", [(82, 'Да так бывало и лучше.')], ''),
     ('sasha', 'Всё ещё переживаешь?', 'Are you still worrying?', [(83, 'Все еще переживаешь из Вики, да?')], ''),
-    ('anya', 'Да нет.', 'Well, no.', [(84, 'Да нет.')], ''),
-    ('anya', 'С Викой всё в прошлом.', 'With Vika everything is in the past.', [(84, 'С Викой уже все в прошлом.')], ''),
+    ('max', 'Да нет.', 'Well, no.', [(84, 'Да нет.')], ''),
+    ('max', 'С Викой всё в прошлом.', 'With Vika everything is in the past.', [(84, 'С Викой уже все в прошлом.')], ''),
     ('sasha', 'Ты уверен?', 'Are you sure?', [], ''),
-    ('anya', 'Конечно.', 'Of course.', [], ''),
+    ('max', 'Конечно.', 'Of course.', [], ''),
     ('sasha', 'Ну ладно.', 'Well, okay.', [], ''),
     ('sasha', 'Мне пора работать.', "It's time for me to work.", [], ''),
-    ('anya', 'Увидимся.', 'See you.', [], ''),
+    ('max', 'Увидимся.', 'See you.', [], ''),
 ]
 WALK = [
     (0, None, "'Hi.' A crisp, everyday conversational reply meaning 'hi' that you will hear constantly in Russian dialogue."),

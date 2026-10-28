@@ -7,7 +7,6 @@ SCENE = 8
 TITLE = "Si je n'étais pas venue à Paris  (If I Hadn't Come to Paris)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
 LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
@@ -50,6 +49,6 @@ WALK = [
     (12, None, "'That is just how it is.' A philosophical conclusion accepting reality."),
     (13, None, "'Who was that producer looking for an assistant?' Camille shifts gears and looks toward the future."),
     (14, None, "'Who, Dominique Besnehard?' Mathias mentions the name of a real-life French film producer."),
-    (15, None, "'I am going to call him.' Camille opens with the word for 'am going' and lands on 'to call him' at the close."),
-    (16, None, "'In case he is still looking.' A helpful conditional phrase used with the present tense. Let's listen to this poignant conversation between father and daughter once more."),
+    (15, "Je vais l'appeler.", "'I am going to call him.' Camille opens with the word for 'am going' and lands on 'to call him' at the close."),
+    (15, 'Au cas où il cherche toujours.', "'In case he is still looking.' A helpful conditional phrase used with the present tense. Let's listen to this poignant conversation between father and daughter once more."),
 ]

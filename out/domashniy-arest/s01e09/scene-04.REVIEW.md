@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Аркаша, губернатор хочет с нами встретиться! | Arkasha, the governor wants to meet with us! | #114 00:06:24: с нами губернатор, хочет встретиться | verbatim |
-| 2 | Аня | Мне всё равно, Самсонов. Я устал. | I don't care, Samsonov. I am tired. | #120 00:06:40: Ничего не делает<br>#121 00:06:41: В стенку смотрит | adapted: softened reply |
-| 3 | Самсон | А что мне делать с Ниной? | And what am I to do about Nina? | #123 00:06:45: что мне с ним-то делать | adapted: adapted to Nina |
-| 4 | Аня | Слушай меня очень внимательно. | Listen to me very carefully. | #125 00:06:48: Слушай меня внимательно | verbatim |
-| 5 | Аня | Делай всё, как я скажу. | Do everything as I tell you. | #125 00:06:48: делай все, как я скажу | verbatim |
-| 6 | Аня | Иди в комнату и собирай вещи. | Go to your room and pack your things. | #126 00:06:52: сейчас идешь к себе в комнату<br>#127 00:06:55: собираешь вещи | verbatim |
-| 7 | Аня | Делай это демонстративно, при ней. | Do it ostentatiously, in front of her. | #127 00:06:55: демонстративно собираешь вещи | verbatim |
-| 8 | Аня | Скажи, что ты уходишь навсегда. | Say that you are leaving for good. | #128 00:06:57: Типа ты уходишь | verbatim |
-| 9 | Аня | Она должна поверить в это! | She must believe in this! | #131 00:07:02: убедить, что ты настроен очень серьезно | verbatim |
-| 10 | Самсон | Я всё понял. Спасибо, Аркаша! | I understood everything. Thank you, Arkasha! | #133 00:07:06: Все понял | verbatim |
-| 11 | Нина | Ты что, уходить от меня собрался? | Are you planning to leave me or what? | #137 00:07:18: Ты типа собираешься от меня уходить | verbatim |
-| 12 | Нина | Дети, идите быстрее сюда! | Kids, come here quickly! | #145 00:08:24: Дети, идите быстрее сюда | verbatim |
-| 13 | Нина | Наш папа бросает нас! | Our papa is abandoning us! | #146 00:08:26: Нас папа бросает | verbatim |
-| 14 | Нина | Давайте целовать ему ноги! | Let's all kiss his feet! | #146 00:08:26: давайте ему ноги целовать | verbatim |
+| 1 | Самсон | Аркаша, губернатор хочет с нами встретиться! | Arkasha, the governor wants to meet with us! | #114: с нами губернатор, хочет встретиться | verbatim |
+| 2 | Аркадий | Мне всё равно, Самсонов. Я устал. | I don't care, Samsonov. I am tired. | #120: Ничего не делает<br>#121: В стенку смотрит | adapted: softened reply |
+| 3 | Самсон | А что мне делать с Ниной? | And what am I to do about Nina? | #123: что мне с ним-то делать | adapted: adapted to Nina |
+| 4 | Аркадий | Слушай меня очень внимательно. | Listen to me very carefully. | #125: Слушай меня внимательно | verbatim |
+| 5 | Аркадий | Делай всё, как я скажу. | Do everything as I tell you. | #125: делай все, как я скажу | verbatim |
+| 6 | Аркадий | Иди в комнату и собирай вещи. | Go to your room and pack your things. | #126: сейчас идешь к себе в комнату<br>#127: собираешь вещи | verbatim |
+| 7 | Аркадий | Делай это демонстративно, при ней. | Do it ostentatiously, in front of her. | #127: демонстративно собираешь вещи | verbatim |
+| 8 | Аркадий | Скажи, что ты уходишь навсегда. | Say that you are leaving for good. | #128: Типа ты уходишь | verbatim |
+| 9 | Аркадий | Она должна поверить в это! | She must believe in this! | #131: убедить, что ты настроен очень серьезно | verbatim |
+| 10 | Самсон | Я всё понял. Спасибо, Аркаша! | I understood everything. Thank you, Arkasha! | #133: Все понял | verbatim |
+| 11 | Нина | Ты что, уходить от меня собрался? | Are you planning to leave me or what? | #137: Ты типа собираешься от меня уходить | verbatim |
+| 12 | Нина | Дети, идите быстрее сюда! | Kids, come here quickly! | #145: Дети, идите быстрее сюда | verbatim |
+| 13 | Нина | Наш папа бросает нас! | Our papa is abandoning us! | #146: Нас папа бросает | verbatim |
+| 14 | Нина | Давайте целовать ему ноги! | Let's all kiss his feet! | #146: давайте ему ноги целовать | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

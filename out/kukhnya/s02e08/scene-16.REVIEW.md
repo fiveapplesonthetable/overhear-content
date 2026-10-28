@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Красный. Хорошо. | The red one. Good. | #272 00:17:45: Красный. Хорошо | verbatim |
-| 2 | Лёва | Или синий. | Or maybe the blue one. | #273 00:17:47: Или синий | verbatim |
-| 3 | Лёва | Ну, да. | Well, yes. | #274 00:17:49: Ну, да | verbatim |
-| 4 | Шеф | Или красный. | Or the red one. | #275 00:17:52: Или красный | verbatim |
-| 5 | Лёва | Виктор Петрович, вы жених или сапер? | Viktor Petrovich, are you a groom or a bomb tech? | #276 00:17:53: Виктор Петрович, вы жених или сапер | verbatim |
-| 6 | Лёва | Лёва, это первое свидание. | Lyova, this is a first date. | #277 00:17:58: Лёва, это первое свидание | verbatim |
-| 7 | Шеф | Подождите, а она хоть из хорошей семьи? | Wait a second, is she at least from a good family? | #279 00:18:03: Подождите, а она хоть из хорошей семьи | verbatim |
-| 8 | Лёва | Она из хорошего ресторана. | She is from a good restaurant. | #280 00:18:06: Она из хорошего ресторана | verbatim |
-| 9 | Лёва | Она волшебная. | She is magical. | #281 00:18:08: Она волшебная | verbatim |
-| 10 | Шеф | Возьмите красный. | Take the red tie. | #283 00:18:14: Возьмите красный | verbatim |
-| 11 | Лёва | Сделал мне предложение. | He proposed to me. | #289 00:18:35: сделал мне предложение | verbatim |
-| 12 | Лёва | Лёва убедил. | Lyova convinced me. | #290 00:18:40: Лёва убедил | verbatim |
-| 13 | Шеф | Давай красный. | Hand me the red one. | #291 00:18:42: Давай красный | verbatim |
+| 1 | Шеф | Красный. Хорошо. | The red one. Good. | #272: Красный. Хорошо | verbatim |
+| 2 | Вика | Или синий. | Or maybe the blue one. | #273: Или синий | verbatim |
+| 3 | Лёва | Ну, да. | Well, yes. | #274: Ну, да | verbatim |
+| 4 | Шеф | Или красный. | Or the red one. | #275: Или красный | verbatim |
+| 5 | Вика | Виктор Петрович, вы жених или сапер? | Viktor Petrovich, are you a groom or a bomb tech? | #276: Виктор Петрович, вы жених или сапер | verbatim |
+| 6 | Лёва | Лёва, это первое свидание. | Lyova, this is a first date. | #277: Лёва, это первое свидание | verbatim |
+| 7 | Шеф | Подождите, а она хоть из хорошей семьи? | Wait a second, is she at least from a good family? | #279: Подождите, а она хоть из хорошей семьи | verbatim |
+| 8 | Вика | Она из хорошего ресторана. | She is from a good restaurant. | #280: Она из хорошего ресторана | verbatim |
+| 9 | Лёва | Она волшебная. | She is magical. | #281: Она волшебная | verbatim |
+| 10 | Шеф | Возьмите красный. | Take the red tie. | #283: Возьмите красный | verbatim |
+| 11 | Вика | Сделал мне предложение. | He proposed to me. | #289: сделал мне предложение | verbatim |
+| 12 | Лёва | Лёва убедил. | Lyova convinced me. | #290: Лёва убедил | verbatim |
+| 13 | Шеф | Давай красный. | Hand me the red one. | #291: Давай красный | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The red one. Good.' In Russian, the idea of 'red' flows naturally into 'fine' without extra filler words. Vika answers right away.
-- 'Or maybe the blue one.' Here the Russian phrasing highlights 'or' before landing on 'blue'.
-- 'Well, yes.' The grammar packs 'come on' and 'yes' into a tight, idiomatic kitchen exchange.
-- 'Or the red one.' Spoken Russian keeps this brisk, leaning on 'or' and finishing on 'red'. Vika answers right away.
-- 'Viktor Petrovich, are you a groom or a bomb tech?' In Russian, the idea of 'Viktor' flows naturally into 'sapper' without extra filler words.
-- 'Lyova, this is a first date.' The meaning hinges on 'Lyova' working together with 'date' in spoken Russian.
-- 'Wait a second, is she at least from a good family?' Spoken Russian keeps this brisk, leaning on 'wait' and finishing on 'family'. Vika answers right away.
-- 'She is from a good restaurant.' Vika anchors the line on 'she', while 'restaurant' completes the thought.
-- 'She is magical.' In Russian, the idea of 'she' flows naturally into 'magical' without extra filler words.
-- 'Take the red tie.' Here the Russian phrasing highlights 'take' before landing on 'red'. Vika answers right away.
-- 'He proposed to me.' The grammar packs 'to do' and 'offer' into a tight, idiomatic kitchen exchange.
-- 'Lyova convinced me.' Lyova brings out the contrast between 'Lyova' and 'convinced' in a few short words.
-- 'Hand me the red one.' Chef Viktor brings out the contrast between 'let's' and 'red' in a few short words.
+- 'The red one. Good.' Around the point and plan, Barinov sets a calm, everyday tone with Lyova.
+- 'Or maybe the blue one.' Between the truth and the date, Vika gives Barinov a quick, grounded response.
+- 'Well, yes.' With the truth and kitchen in play, Lyova keeps this short reply brisk and direct.
+- 'Or the red one.' Around the truth and shift, Barinov sets a calm, everyday tone with Lyova.
+- 'Viktor Petrovich, are you a groom or a bomb tech?' Asking whether Barinov a groom or a bomb tech is how Vika puts Barinov on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Lyova, this is a first date.' Lyova reminds Barinov that this is a first date before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Wait a second, is she at least from a good family?' Questioning whether a second is she at least from a good family is how Barinov tests Lyova's story.
+- 'She is from a good restaurant.' Adding that she is from a good restaurant fills in the missing piece for Barinov.
+- 'She is magical.' Lyova mentions that she is magical so Barinov sees what is at stake.
+- 'Take the red tie.' Explaining that Lyova should take the red tie lays the cards on the table for Lyova.
+- 'He proposed to me.' Over the plan and the moment, Vika answers Barinov without a second thought.
+- 'Lyova convinced me.' Between the plan and the conversation, Lyova gives Barinov a quick, grounded response.
+- 'Hand me the red one.' Since Lyova should hand him the red one, Barinov does not waste words on excuses.

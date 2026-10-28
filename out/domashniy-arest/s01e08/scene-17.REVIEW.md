@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Первый мужчина | Ну ладно, не расстраивайся. | Alright, come on, don't be upset. | #251 00:15:58: Ну ладно, ну чего ты, не расстраивайся | adapted: shortened cue 251 |
-| 2 | Первый мужчина | Здесь пока подождите. | Wait here for now. | #252 00:16:00: Здесь пока подождите | verbatim |
-| 3 | Второй мужчина | Мы вещи в машине забираем? | Are we getting the things from the car? | #253 00:16:12: В машине забирайте | adapted: turned into a question |
-| 4 | Первый мужчина | Да, в машине забирайте. | Yes, get it from the car. | #253 00:16:12: В машине забирайте | adapted: added Да |
-| 5 | Второй мужчина | Осторожно, этот ящик очень тяжёлый! | Careful, this box is very heavy! | #254 00:16:26: Тяжелый | adapted: expanded cue 254 |
-| 6 | Первый мужчина | Держи крепче! Всё хорошо? | Hold it tighter! Is everything okay? | #255 00:16:32: Хорошо? | adapted: added Держи крепче |
+| 1 | Первый мужчина | Ну ладно, не расстраивайся. | Alright, come on, don't be upset. | #251: Ну ладно, ну чего ты, не расстраивайся | adapted: shortened cue 251 |
+| 2 | Первый мужчина | Здесь пока подождите. | Wait here for now. | #252: Здесь пока подождите | verbatim |
+| 3 | Второй мужчина | Мы вещи в машине забираем? | Are we getting the things from the car? | #253: В машине забирайте | adapted: turned into a question |
+| 4 | Первый мужчина | Да, в машине забирайте. | Yes, get it from the car. | #253: В машине забирайте | adapted: added Да |
+| 5 | Второй мужчина | Осторожно, этот ящик очень тяжёлый! | Careful, this box is very heavy! | #254: Тяжелый | adapted: expanded cue 254 |
+| 6 | Первый мужчина | Держи крепче! Всё хорошо? | Hold it tighter! Is everything okay? | #255: Хорошо? | adapted: added Держи крепче |
 | 7 | Второй мужчина | Да, держу нормально. | Yes, I am holding it fine. | new | new: transitional dialogue line |
-| 8 | Первый мужчина | Сейчас ещё один ящик принесу. | I'll bring one more box now. | #256 00:16:35: Сейчас еще | adapted: expanded cue 256 |
+| 8 | Первый мужчина | Сейчас ещё один ящик принесу. | I'll bring one more box now. | #256: Сейчас еще | adapted: expanded cue 256 |
 | 9 | Второй мужчина | Давай быстрее, на улице холодно. | Hurry up, it's cold outside. | new | new: transitional dialogue line |
-| 10 | Первый мужчина | Сейчас будет совсем хорошо. | Now it'll be just right. | #257 00:16:38: Сейчас будет совсем хорошо | verbatim |
+| 10 | Первый мужчина | Сейчас будет совсем хорошо. | Now it'll be just right. | #257: Сейчас будет совсем хорошо | verbatim |
 | 11 | Второй мужчина | А где твои тёплые перчатки? | And where are your warm gloves? | new | new: transitional dialogue line |
-| 12 | Первый мужчина | Ай, у меня перчаток нет. | Ow, I don't have gloves. | #258 00:16:42: Ай, у меня нет, нет | adapted: adapted cue 258 |
-| 13 | Второй мужчина | Ладно, давай сюда скорее! | Alright, give it here quickly! | #259 00:16:50: еще | adapted: cleaned cue 259, omitting profanity |
+| 12 | Первый мужчина | Ай, у меня перчаток нет. | Ow, I don't have gloves. | #258: Ай, у меня нет, нет | adapted: adapted cue 258 |
+| 13 | Второй мужчина | Ладно, давай сюда скорее! | Alright, give it here quickly! | #259: еще | adapted: cleaned cue 259, omitting profanity |
 | 14 | Первый мужчина | Отлично, закрывай скорее багажник! | Great, close the trunk quickly! | new | new: concluding dialogue line |
 
 ## Walk-through narration (English only, no target-language words quoted)

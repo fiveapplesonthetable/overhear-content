@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e01-scene-12` — La frayeur du soir  (The Evening Fright)
+# dix-pour-cent-s04e01-scene-12: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e01.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "colette": "emilie", "lea": "lucie"}`
-- **Labels**: `{"colette": "Colette", "lea": "Andréa"}`
+Title: La frayeur du soir  (The Evening Fright)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E01
 
-## Part 1 — Intro
-> Returning home late to their dark apartment, Andrea accidentally startles Colette in the hallway. Holding baby Flora in her arms, Colette tries to calm the crying child while Andrea apologizes. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Ah, je suis désolée, Colette! | Ah, I am sorry, Colette! | 654:Je suis désolée |
-| 1 | `colette` (Colette) | Tu m'as fait peur dans l'entrée. | You scared me in the hallway. | 655:Tu m'as fait peur |
-| 2 | `lea` (Andréa) | Je ne t'avais pas vue ici. | I had not seen you here. | 656:Je ne t'avais pas vue |
-| 3 | `colette` (Colette) | Flora s'est réveillée en sursaut. | Flora woke up with a start. | 655:Tu m'as fait peur |
-| 4 | `lea` (Andréa) | Excuse-moi, je rentre trop tard. | Forgive me, I return too late. | 658:Excuse-moi |
-| 5 | `colette` (Colette) | Elle pleure depuis une heure entière. | She is crying for a whole hour. | 658:Excuse-moi |
-| 6 | `lea` (Andréa) | Donne-moi le bébé un instant. | Give me the baby a moment. | 658:Tiens |
-| 7 | `colette` (Colette) | Viens là, ma petite fille chérie. | Come here, my darling little girl. | 659:Viens là |
-| 8 | `lea` (Andréa) | Je peux la bercer doucement. | I can rock her gently. | 659:Viens là |
-| 9 | `colette` (Colette) | Là, là, maman est là. | There, there, mommy is here. | 660:Maman est là |
-| 10 | `lea` (Andréa) | Elle commence à se calmer enfin. | She begins to calm down at last. | 660:Maman est là |
-| 11 | `colette` (Colette) | Cette journée a été très difficile. | This day was very difficult. | 654:Je suis désolée |
-| 12 | `lea` (Andréa) | Repose-toi, je prends le relais. | Rest, I take over now. | 658:Excuse-moi |
-| 13 | `colette` (Colette) | Merci Andréa, j'en avais grand besoin. | Thank you Andrea, I really needed it. | 658:Excuse-moi |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andrea steps in to support Colette with baby Flora after a long day at ASK. When you watch the episode, listen out for the expressions meaning 'sorry' and 'made'. You'll catch them now. See you next time!
-- **Closing**: `colette`: *À demain!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Ah, je suis désolée, Colette! | Ah, I am sorry, Colette! | #654: Je suis désolée | verbatim |
+| 2 | Colette | Tu m'as fait peur dans l'entrée. | You scared me in the hallway. | #655: Tu m'as fait peur | verbatim |
+| 3 | Andréa | Je ne t'avais pas vue ici. | I had not seen you here. | #656: Je ne t'avais pas vue | verbatim |
+| 4 | Colette | Flora s'est réveillée en sursaut. | Flora woke up with a start. | #655: Tu m'as fait peur | verbatim |
+| 5 | Andréa | Excuse-moi, je rentre trop tard. | Forgive me, I return too late. | #658: Excuse-moi | verbatim |
+| 6 | Colette | Elle pleure depuis une heure entière. | She is crying for a whole hour. | #658: Excuse-moi | verbatim |
+| 7 | Andréa | Donne-moi le bébé un instant. | Give me the baby a moment. | #658: Tiens | verbatim |
+| 8 | Colette | Viens là, ma petite fille chérie. | Come here, my darling little girl. | #659: Viens là | verbatim |
+| 9 | Andréa | Je peux la bercer doucement. | I can rock her gently. | #659: Viens là | verbatim |
+| 10 | Colette | Là, là, maman est là. | There, there, mommy is here. | #660: Maman est là | verbatim |
+| 11 | Andréa | Elle commence à se calmer enfin. | She begins to calm down at last. | #660: Maman est là | verbatim |
+| 12 | Colette | Cette journée a été très difficile. | This day was very difficult. | #654: Je suis désolée | verbatim |
+| 13 | Andréa | Repose-toi, je prends le relais. | Rest, I take over now. | #658: Excuse-moi | verbatim |
+| 14 | Colette | Merci Andréa, j'en avais grand besoin. | Thank you Andrea, I really needed it. | #658: Excuse-moi | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Ah, I am sorry, Colette!' The descriptive adjective for 'sorry' agrees in gender and number with its noun. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
+- 'You scared me in the hallway.' Colette explains her sudden shock. Notice how 'have' leads directly into the noun meaning 'fear'.
+- 'I had not seen you here.' Andrea explains why she made a noise. The clause hinges on the everyday verb meaning 'had'.
+- 'Flora woke up with a start.' Colette points to the startled baby. Notice how 'woken up' leads directly into the noun meaning 'start'.
+- 'Forgive me, I return too late.' Andrea acknowledges her late arrival. The clause hinges on the everyday verb meaning 'excuse'.
+- 'She is crying for a whole hour.' Colette describes the prolonged distress. Notice how 'cries' leads directly into the noun meaning 'hour'.
+- 'Give me the baby a moment.' Andrea offers to take the child. The verb meaning 'give' pairs naturally with the noun for 'baby' in everyday conversation.
+- 'Come here, my darling little girl.' Colette speaks tenderly to her daughter. The verb meaning 'come' pairs naturally with the noun for 'girl' in everyday conversation.
+- 'I can rock her gently.' Andrea offers a soothing gesture. The clause hinges on the everyday verb meaning 'can'.
+- 'There, there, mommy is here.' Colette reassures baby Flora softly. The key noun here means 'mommy', anchored by its matching French article.
+- 'She begins to calm down at last.' Andrea notices the baby relaxing. The short 'self' word sits right in front of the verb for 'begins', turning the action back onto the subject.
+- 'This day was very difficult.' Colette sighs under the weight of fatigue. Notice how 'has' leads directly into the noun meaning 'day'.
+- 'Rest, I take over now.' Andrea encourages Colette to take a break. The verb meaning 'rest' pairs naturally with the noun for 'shift' in everyday conversation.
+- 'Thank you Andrea, I really needed it.' Colette accepts the welcome relief. The verb meaning 'had' pairs naturally with the noun for 'thank you' in everyday conversation.

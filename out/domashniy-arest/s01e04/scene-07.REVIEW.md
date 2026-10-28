@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Инспектор | Самсонов! | Samsonov! | #178 00:13:38: Самсонов | verbatim |
-| 2 | Инспектор | Да, здесь. Здравствуйте. Паспорт, трудовая. | Yes, here. Hello. Passport, work book. | #179 00:13:38: Да, здесь<br>#182 00:13:46: Здравствуйте<br>#184 00:13:49: Паспорт, трудовая | adapted: 'ИНН' in cue 184 dropped |
-| 3 | Инспектор | Здравствуйте. Могу предложить вам две вакансии. | Hello. I can offer you two vacancies. | #183 00:13:48: Здравствуйте<br>#187 00:13:59: Могу предложить вам две вакансии | verbatim |
-| 4 | Инспектор | Первая — грузчик в магазине. | The first one is a loader in a shop. | #188 00:14:01: Первая – грузчик | adapted: supermarket name 'Пятерочки' -> 'в магазине' |
-| 5 | Нина | Грузчик не надо. Ему нельзя, у него спина. | No loader. He's not allowed, he has a bad back. | #189 00:14:03: Грузчик не надо<br>#190 00:14:05: ему нельзя, у него спина | adapted: 'Ну' dropped |
-| 6 | Инспектор | Ну, тогда вторая — промоутер. | Well, then the second one is a promoter. | #192 00:14:07: Ну, тогда вторая – промоутер | verbatim |
-| 7 | Нина | Промоутер — нормально. А что делать надо? | Promoter is fine. And what does he have to do? | #193 00:14:09: Промоутер, нормально<br>#194 00:14:11: делать надо | adapted: 'А чё' -> 'А что' |
-| 8 | Инспектор | Звать клиентов в детское кафе. В костюме вафельного рожка. | Call customers into a children's café. In a waffle-cone costume. | #195 00:14:12: клиентов в детское кафе<br>#195 00:14:12: костюме вафельного рожка | adapted: 'Зазывать ... в ростовом костюме' simplified to A1 'Звать ... В костюме' |
-| 9 | Инспектор | Нина, я вафлей не буду! | Nina, I'm not going to be a waffle! | #196 00:14:15: Нина, я<br>#196 00:14:15: не буду | adapted: slang 'Да нафиг' dropped; slip 'вафли' -> instrumental 'вафлей' |
-| 10 | Нина | А сколько платят? | And how much do they pay? | #197 00:14:18: А сколько платят | verbatim |
-| 11 | Инспектор | В будни семьсот рублей. В выходные — полторы тысячи. | On weekdays seven hundred roubles. On weekends, fifteen hundred. | #199 00:14:19: Будни<br>#199 00:14:19: выходные полторы | adapted: cue 199 ('Будни 700, выходные полторы') written out as Russian words |
-| 12 | Нина | Мы согласны, оформляйте! | We agree, do the paperwork! | #202 00:14:24: оформляйте | adapted: 'Ну согласна' -> 'Мы согласны' |
-| 13 | Инспектор | Сейчас выпишу направление. Где я вас могла видеть? | I'll write out a referral right now. Where could I have seen you? | #203 00:14:26: Сейчас выпишу направление<br>#204 00:14:30: Где я вас могла видеть | verbatim |
-| 14 | Инспектор | Что? | What? | new | new: standard form of cue 206 'Че?' |
-| 15 | Инспектор | Ну, значит, ошиблась. Всё. | Well, I must have mistaken you for someone else. That's all. | #207 00:14:35: Ну, значит<br>#208 00:14:42: Все | adapted: rare 'обозналась' -> 'ошиблась' |
+| 1 | Инспектор | Самсонов! | Samsonov! | #178: Самсонов | verbatim |
+| 2 | Самсон | Да, здесь. Здравствуйте. Паспорт, трудовая. | Yes, here. Hello. Passport, work book. | #179: Да, здесь<br>#182: Здравствуйте<br>#184: Паспорт, трудовая | adapted: 'ИНН' in cue 184 dropped |
+| 3 | Инспектор | Здравствуйте. Могу предложить вам две вакансии. | Hello. I can offer you two vacancies. | #183: Здравствуйте<br>#187: Могу предложить вам две вакансии | verbatim |
+| 4 | Инспектор | Первая — грузчик в магазине. | The first one is a loader in a shop. | #188: Первая – грузчик | adapted: supermarket name 'Пятерочки' -> 'в магазине' |
+| 5 | Нина | Грузчик не надо. Ему нельзя, у него спина. | No loader. He's not allowed, he has a bad back. | #189: Грузчик не надо<br>#190: ему нельзя, у него спина | adapted: 'Ну' dropped |
+| 6 | Инспектор | Ну, тогда вторая — промоутер. | Well, then the second one is a promoter. | #192: Ну, тогда вторая – промоутер | verbatim |
+| 7 | Нина | Промоутер — нормально. А что делать надо? | Promoter is fine. And what does he have to do? | #193: Промоутер, нормально<br>#194: делать надо | adapted: 'А чё' -> 'А что' |
+| 8 | Инспектор | Звать клиентов в детское кафе. В костюме вафельного рожка. | Call customers into a children's café. In a waffle-cone costume. | #195: клиентов в детское кафе<br>#195: костюме вафельного рожка | adapted: 'Зазывать ... в ростовом костюме' simplified to A1 'Звать ... В костюме' |
+| 9 | Самсон | Нина, я вафлей не буду! | Nina, I'm not going to be a waffle! | #196: Нина, я<br>#196: не буду | adapted: slang 'Да нафиг' dropped; slip 'вафли' -> instrumental 'вафлей' |
+| 10 | Нина | А сколько платят? | And how much do they pay? | #197: А сколько платят | verbatim |
+| 11 | Инспектор | В будни семьсот рублей. В выходные — полторы тысячи. | On weekdays seven hundred roubles. On weekends, fifteen hundred. | #199: Будни<br>#199: выходные полторы | adapted: cue 199 ('Будни 700, выходные полторы') written out as Russian words |
+| 12 | Нина | Мы согласны, оформляйте! | We agree, do the paperwork! | #202: оформляйте | adapted: 'Ну согласна' -> 'Мы согласны' |
+| 13 | Инспектор | Сейчас выпишу направление. Где я вас могла видеть? | I'll write out a referral right now. Where could I have seen you? | #203: Сейчас выпишу направление<br>#204: Где я вас могла видеть | verbatim |
+| 14 | Самсон | Что? | What? | new | new: standard form of cue 206 'Че?' |
+| 15 | Инспектор | Ну, значит, ошиблась. Всё. | Well, I must have mistaken you for someone else. That's all. | #207: Ну, значит<br>#208: Все | adapted: rare 'обозналась' -> 'ошиблась' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

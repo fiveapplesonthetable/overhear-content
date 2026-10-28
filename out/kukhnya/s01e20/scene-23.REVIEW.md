@@ -1,38 +1,39 @@
-# Пробуждение  (Awakening) — `kukhnya-s01e20-scene-23`
+# kukhnya-s01e20-scene-23: review sheet
 
-**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Пробуждение  (Awakening)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.20
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> The first season reaches its final, dramatic conclusion. A single, powerful question is left hanging in the air for the audience to ponder. Let's listen closely to their conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Утро пришло. | Morning has come. | *(added)* |  |
-| 1 | Макс | Теперь все ясно. | Now everything is clear. | *(added)* |  |
-| 2 | Макс | Но уже поздно. | But it is already late. | *(added)* |  |
-| 3 | Макс | Время ушло. | Time has gone. | *(added)* |  |
-| 4 | Макс | Это наша общая ошибка. | This is our common mistake. | *(added)* |  |
-| 5 | Макс | Может быть, стоило проснуться? | Maybe we should have woken up? | #339 "Может быть, стоило проснуться" |  |
-| 6 | Макс | Проснуться раньше? | Woken up sooner? | #339 "проснуться раньше" |  |
-| 7 | Макс | Я не знаю ответ. | I don't know the answer. | *(added)* |  |
-| 8 | Макс | Никто не знает. | Nobody knows. | *(added)* |  |
-| 9 | Макс | Жизнь продолжается. | Life goes on. | *(added)* |  |
-| 10 | Макс | Нужно идти. | Need to go. | *(added)* |  |
-| 11 | Макс | Идти только вперед. | Go only forward. | *(added)* |  |
+| 1 | Макс | Утро пришло. | Morning has come. | new | new |
+| 2 | Макс | Теперь все ясно. | Now everything is clear. | new | new |
+| 3 | Макс | Но уже поздно. | But it is already late. | new | new |
+| 4 | Макс | Время ушло. | Time has gone. | new | new |
+| 5 | Макс | Это наша общая ошибка. | This is our common mistake. | new | new |
+| 6 | Макс | Может быть, стоило проснуться? | Maybe we should have woken up? | #339: Может быть, стоило проснуться | verbatim |
+| 7 | Макс | Проснуться раньше? | Woken up sooner? | #339: проснуться раньше | verbatim |
+| 8 | Макс | Я не знаю ответ. | I don't know the answer. | new | new |
+| 9 | Макс | Никто не знает. | Nobody knows. | new | new |
+| 10 | Макс | Жизнь продолжается. | Life goes on. | new | new |
+| 11 | Макс | Нужно идти. | Need to go. | new | new |
+| 12 | Макс | Идти только вперед. | Go only forward. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> A question is left hanging in the air. Next time you watch the episode, listen for the Russian expressions for 'morning' and 'to come' — you will catch every word right away. See you next time!
-
-**Макс:** До свидания!
+- 'Morning has come.' Max puts the word for 'morning' together with 'to come' in a crisp, natural spoken turn of phrase.
+- 'Now everything is clear.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'clear?', combining 'now' with 'clear?'.
+- 'But it is already late.' Russian omits the present-tense verb 'to be' here, linking 'already' directly with 'too late', combining 'already' with 'too late'.
+- 'Time has gone.' Max expresses this naturally by combining the word for 'time' with 'to leave'.
+- 'This is our common mistake.' Russian omits the present-tense verb 'to be' here, linking 'common' directly with 'mistake', combining 'common' with 'mistake'.
+- 'Maybe we should have woken up?' Max turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'be' and 'to cost'.
+- 'Woken up sooner?' Max turns a statement into a question purely through rising intonation on the word meaning 'wake up', followed by 'earlier'.
+- 'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Nobody knows.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knows'.
+- 'Life goes on.' Here Max anchors the line on the word meaning 'life' and builds the thought around 'continues'.
+- 'Need to go.' The phrasing opens with 'necessary' before bringing in 'to go' to make the point clear.
+- 'Go only forward.' Max chooses the action verb meaning 'to go' for the ongoing action, followed by 'only' and 'forward'.

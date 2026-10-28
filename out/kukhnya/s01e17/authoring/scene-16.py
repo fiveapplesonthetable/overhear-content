@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 16
-TITLE = "Строгая оценка  (A Strict Assessment)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Строгая оценка  (A Strict Assessment)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "hostess": "anja", "nagiyev": "angelina"}
-LABELS = {"hostess": "Хостес", "nagiyev": "Нагиев"}
+LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "After finishing their meal at the rival restaurant, the hostess approaches the table to ask for their impressions. While his companion enthusiastically praises the dishes, Chef Viktor Barinov gives a reluctant verdict. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Though reluctant to praise a competitor, Chef Viktor Barinov admits that the rival restaurant's dishes are passable before heading back to Claude Monet. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'day' — you will catch every word right away. See you next time!"
-CLOSING = ("hostess", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('hostess', 'Добрый день, уважаемые гости нашего ресторана.', 'Good afternoon, respected guests of our restaurant.', [(265, 'Добрый день')], ''),
     ('hostess', 'Я надеюсь, вам сегодня всё понравилось.', 'I hope you enjoyed everything today.', [(266, 'Я надеюсь, вам все понравилось')], ''),
@@ -23,13 +22,13 @@ STORY = [
     ('nagiyev', 'У вас тут просто отличная кухня.', 'You have a simply great kitchen here.', [(267, 'очень вкусно')], ''),
     ('nagiyev', 'Почти так же вкусно, как дома.', 'Almost as delicious as at home.', [(268, 'Практически как у нас')], ''),
     ('nagiyev', 'Ты согласен со мной, дорогой друг?', 'Do you agree with me, dear friend?', [(268, 'Да, Вик')], ''),
-    ('hostess', 'Ну, в целом эта еда нормальная.', 'Well, overall this food is fine.', [(269, 'Сойдет')], ''),
+    ('barinov', 'Ну, в целом эта еда нормальная.', 'Well, overall this food is fine.', [(269, 'Сойдет')], ''),
     ('hostess', 'Спасибо вам за такие добрые слова.', 'Thank you for such kind words.', [(266, 'вам все понравилось')], ''),
     ('nagiyev', 'Мы провели здесь очень приятный день.', 'We spent a very pleasant day here.', [(267, 'очень вкусно')], ''),
-    ('hostess', 'Но наш ресторан всё равно лучше.', 'But our restaurant is still better.', [(268, 'как у нас')], ''),
+    ('barinov', 'Но наш ресторан всё равно лучше.', 'But our restaurant is still better.', [(268, 'как у нас')], ''),
     ('hostess', 'Приходите к нам в гости снова.', 'Come visit us again.', [(265, 'Добрый день')], ''),
     ('nagiyev', 'Обязательно придём сюда в следующий раз.', 'We will definitely come here next time.', [(267, 'очень вкусно')], ''),
-    ('hostess', 'Ладно, нам уже пора ехать обратно.', 'All right, it is time for us to head back.', [(269, 'Сойдет')], ''),
+    ('barinov', 'Ладно, нам уже пора ехать обратно.', 'All right, it is time for us to head back.', [(269, 'Сойдет')], ''),
     ('hostess', 'Всего доброго, до новой скорой встречи!', 'All the best, until we meet again soon!', [(265, 'Добрый день')], ''),
 ]
 WALK = [

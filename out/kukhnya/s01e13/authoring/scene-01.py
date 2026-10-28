@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 1
-TITLE = "Следующий шаг  (The Next Step)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Следующий шаг  (The Next Step)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = 'At the bar in Claude Monet, Nastya approaches Kostya with a sweet proposition: she wants to spend the evening at his apartment to take the next step in their romance. Delighted and flustered, Kostya rushes off to buy candles to make the night special. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around The Next Step line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "At the bar in Claude Monet, Nastya approaches Kostya with a sweet proposition: she wants to spend the evening at his apartment to take the next step in their romance. Delighted and flustered, Kostya rushes off to buy candles to make the night special. Listen to their conversation in Russian first, then we will break down each line in English. Next time you watch the episode, listen for the Russian expressions for 'now' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, что ты сейчас делаешь?', 'Kostya, what are you doing right now?', [(1, 'Что делаешь?')], ''),
     ('kostya', 'Я стою и натираю бокалы.', 'I am standing and polishing glasses.', [(2, 'Стою, бокал натираю.')], ''),
@@ -33,13 +32,13 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Kostya, what are you doing right now?' — informal present tense question with a temporal adverb."),
-    (1, None, "'And I want to stay at your place today.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'No, it is time for us to take the next step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Do you want to get married?' — idiomatic verbal expression for a woman getting married."),
-    (4, None, "'Kostik, you are so funny!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (5, None, "'We will simply spend this evening together.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'And we will not tell anyone anything?' — negative future sentence with double negative pronouns."),
-    (7, None, "'This will be our little secret.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (8, None, "'I will quickly buy beautiful candles.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'Good, make this evening magical!' — informal command form governing an matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (2, None, "'And I want to stay at your place today.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'No, it is time for us to take the next step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'Do you want to get married?' — idiomatic verbal expression for a woman getting married."),
+    (6, None, "'Kostik, you are so funny!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (7, None, "'We will simply spend this evening together.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (8, None, "'And we will not tell anyone anything?' — negative future sentence with double negative pronouns."),
+    (9, None, "'This will be our little secret.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (11, None, "'I will quickly buy beautiful candles.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (12, None, "'Good, make this evening magical!' — informal command form governing an matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]

@@ -1,52 +1,47 @@
+# Authoring module for kukhnya-s02e18-scene-18.
 ID = 'kukhnya-s02e18-scene-18'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 18
 TITLE = "Китайские чаевые и заявление Феди  (Chinese Tips and Fedya's Notice)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
 SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
-
 INTRO = "At the end of the exhausting Monday shift, Vika brings in a fat stack of tips left by the grateful Chinese tourists. Chef Barinov hands the reward to Max, who asks to share it equally with the whole crew, right before Fedya announces he is giving one month's notice."
-
-STORY = [
-    ('anya', 'Понедельник день тяжелый.', 'Monday really is a heavy day.', [(305, 'понедельник день тяжелый')], ''),
-    ('chef', 'Ну что.', 'Well then.', [(305, 'Ну что')], ''),
-    ('chef', 'Вот, ваши китайские чаевые.', 'Here are your Chinese tips.', [(306, 'Вот, ваши китайские чаевые')], ''),
-    ('anya', 'Иди сюда.', 'Come over here.', [(308, 'иди сюда')], ''),
-    ('chef', 'Бери, это твоя заслуга.', 'Take it, you earned this today.', [(309, 'Бери, это твоя заслуга')], ''),
-    ('chef', 'Шеф, давайте нас всех поделим.', 'Chef, let us split it among all of us.', [(310, 'Шеф, давайте нас всех поделим')], ''),
-    ('anya', 'Я считаю.', 'I believe that is fair.', [(312, 'Я считаю')], ''),
-    ('chef', 'Что все так сегодня замечательно получилось.', 'That everything turned out so wonderfully today.', [(314, 'что все так сегодня замечательно получилось')], ''),
-    ('chef', 'Да, Федя?', 'Right, Fedya?', [(315, 'Да, Федя')], ''),
-    ('anya', 'Петрович, я передумал эти отпуска.', 'Petrovich, I changed my mind about those vacations.', [(317, 'Петрович, я передумал эти отпуска')], ''),
-    ('chef', 'Но через месяц уйду.', 'But in a month I am leaving.', [(318, 'Но через месяц уйду')], ''),
-    ('chef', 'Это официальное предупреждение.', 'Consider this my official notice.', [(319, 'Это официальное предупреждение')], ''),
-    ('anya', 'Через месяц.', 'In one month.', [(320, 'Через месяц')], ''),
-]
-
 OPENER = "Now let's go back through the conversation line by line."
-
-WALK = [
-    (0, None, "'Monday really is a heavy day.' Max brings out the contrast between 'Monday' and 'day' in a few short words. Chef Viktor answers right away."),
-    (1, None, "'Well then.' The meaning hinges on 'come on' working together with 'what' in spoken Russian."),
-    (2, None, "'Here are your Chinese tips.' Fedya brings out the contrast between 'there you go' and 'your' in a few short words."),
-    (3, None, "'Come over here.' Max anchors the line on 'go', while 'here' completes the thought. Chef Viktor answers right away."),
-    (4, None, "'Take it, you earned this today.' In Russian, the idea of 'take' flows naturally into 'merit' without extra filler words."),
-    (5, None, "'Chef, let us split it among all of us.' Here the Russian phrasing highlights 'chef' before landing on 'we'll divide'."),
-    (6, None, "'I believe that is fair.' The grammar packs 'I' and 'consider' into a tight, idiomatic kitchen exchange. Chef Viktor answers right away."),
-    (7, None, "'That everything turned out so wonderfully today.' The meaning hinges on 'what' working together with 'worked out' in spoken Russian."),
-    (8, None, "'Right, Fedya?' Fedya anchors the line on 'yes', while 'Fedya' completes the thought."),
-    (9, None, "'Petrovich, I changed my mind about those vacations.' The '-l' ending on the verb meaning 'changed your mind' places the action in the masculine past tense. Chef Viktor answers right away."),
-    (10, None, "'But in a month I am leaving.' Notice how Russian expresses 'but' and 'will leave' with crisp inflection rather than helper words."),
-    (11, None, "'Consider this my official notice.' Fedya anchors the line on 'this', while 'warning' completes the thought."),
-    (12, None, "'In one month.' In Russian, the idea of 'month' flows naturally into 'month' without extra filler words."),
-]
-
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
 OUTRO = 'That wraps up this scene as vika brings the generous tips left by the Chinese tourists, which Max insists on splitting with the whole kitchen, while Fedya announces he will quit in a month. See you next time!'
-CLOSING = ("anya", "До завтра!")
+CLOSING = ('max', 'До завтра!')
+STORY = [
+    ('max', 'Понедельник день тяжелый.', 'Monday really is a heavy day.', [(305, 'понедельник день тяжелый')], ''),
+    ('barinov', 'Ну что.', 'Well then.', [(305, 'Ну что')], ''),
+    ('fedya', 'Вот, ваши китайские чаевые.', 'Here are your Chinese tips.', [(306, 'Вот, ваши китайские чаевые')], ''),
+    ('max', 'Иди сюда.', 'Come over here.', [(308, 'иди сюда')], ''),
+    ('barinov', 'Бери, это твоя заслуга.', 'Take it, you earned this today.', [(309, 'Бери, это твоя заслуга')], ''),
+    ('fedya', 'Шеф, давайте нас всех поделим.', 'Chef, let us split it among all of us.', [(310, 'Шеф, давайте нас всех поделим')], ''),
+    ('max', 'Я считаю.', 'I believe that is fair.', [(312, 'Я считаю')], ''),
+    ('barinov', 'Что все так сегодня замечательно получилось.', 'That everything turned out so wonderfully today.', [(314, 'что все так сегодня замечательно получилось')], ''),
+    ('fedya', 'Да, Федя?', 'Right, Fedya?', [(315, 'Да, Федя')], ''),
+    ('max', 'Петрович, я передумал эти отпуска.', 'Petrovich, I changed my mind about those vacations.', [(317, 'Петрович, я передумал эти отпуска')], ''),
+    ('barinov', 'Но через месяц уйду.', 'But in a month I am leaving.', [(318, 'Но через месяц уйду')], ''),
+    ('fedya', 'Это официальное предупреждение.', 'Consider this my official notice.', [(319, 'Это официальное предупреждение')], ''),
+    ('max', 'Через месяц.', 'In one month.', [(320, 'Через месяц')], ''),
+]
+WALK = [
+    (0, None, "'Monday really is a heavy day.' Max explains that Monday really is a heavy day, keeping his voice calm and direct."),
+    (1, None, "'Well then.' Over the situation and the conversation, Barinov answers Fedya without a second thought."),
+    (2, None, '\'Here are your Chinese tips.\' Noting that here are Barinov\'s Chinese tips keeps Fedya\'s side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (3, None, "'Come over here.' Adding that Barinov should come over here fills in the missing piece for Barinov."),
+    (4, None, "'Take it, you earned this today.' Taking it Fedya earned this today is how Barinov lays out the situation for Fedya."),
+    (5, None, '\'Chef, let us split it among all of us.\' Realizing that they should split it among all of them changes how Fedya handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
+    (6, None, "'I believe that is fair.' Believing that is fair moves the conversation forward without extra drama."),
+    (7, None, "'That everything turned out so wonderfully today.' Adding that that everything turned out so wonderfully today fills in the missing piece for Fedya."),
+    (8, None, '\'Right, Fedya?\' With the moment and plan hanging in the air, Fedya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (9, None, "'Petrovich, I changed my mind about those vacations.' Around the situation and conversation, Max sets a calm, everyday tone with Barinov."),
+    (10, None, "'But in a month I am leaving.' Mentioning that in a month he is leaving moves the talk in a new direction."),
+    (11, None, '\'Consider this my official notice.\' Between the situation and the conversation, Fedya gives Barinov a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (12, None, "'In one month.' With the situation and work in play, Max keeps this short reply brisk and direct."),
+]

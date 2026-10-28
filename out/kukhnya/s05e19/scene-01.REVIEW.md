@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | Димочка, ну не расстраивайся ты так. | Dimochka, well do not get so upset. | #1 00:00:23: Димочка, ну не расстраивайся | adapted: adapted |
-| 2 | Элеонора | У меня сейчас сплошные нервы и стресс. | I have nothing but nerves and stress right now. | #3 00:00:26: нервы<br>#4 00:00:28: Нервы, стресс | adapted: adapted |
-| 3 | Элеонора | Я новый контракт не могу подписать. | I cannot sign a new contract. | #5 00:00:30: не могу контракт подписать | adapted: adapted |
-| 4 | Элеонора | Ну у тебя же есть твой ресторан. | Well, you still have your restaurant. | #8 00:00:38: Ну, у тебя же есть | adapted: adapted |
-| 5 | Элеонора | Сейчас это уже не ресторан, а печка. | Right now it is no longer a restaurant, it is a furnace. | #9 00:00:41: Это не ресторан, это печка | adapted: adapted |
-| 6 | Элеонора | Значит, тебе нужно там что-то менять. | Then you need to change something there. | #12 00:00:52: Значит, нужно что-то менять | adapted: adapted |
-| 7 | Элеонора | Я уже всё там менял. | I have already changed everything there. | #13 00:00:53: Я менял. Я менял | adapted: adapted |
-| 8 | Элеонора | Ведь ты увела моего лучшего шеф-повара. | After all, you lured away my best head chef. | #19 00:01:07: Увела у меня<br>#20 00:01:09: Моего шеф-повара. Увела | adapted: adapted |
-| 9 | Элеонора | Баринова, что ли? Он мне даром не нужен. | Barinov, you mean? I do not need him even for free. | #21 00:01:11: что ли? Ой, да он мне даром не нужен | adapted: adapted |
-| 10 | Элеонора | Просто Катя попросила, и я его пристроила. | Katya simply asked, and I gave him a job. | #22 00:01:14: Катя попросила, и я его и пристроила | adapted: adapted |
-| 11 | Элеонора | Если не нужен, может, назад его вернёшь? | If you do not need him, maybe you will give him back? | #23 00:01:19: Если не нужен<br>#24 00:01:22: Может, в зад его | adapted: adapted |
-| 12 | Элеонора | Забирай, конечно, если он сам согласится. | Take him, of course, if he agrees himself. | #25 00:01:25: Ну, если согласиться | adapted: adapted |
+| 1 | Элеонора | Димочка, ну не расстраивайся ты так. | Dimochka, well do not get so upset. | #1: Димочка, ну не расстраивайся | adapted: adapted |
+| 2 | Нагиев | У меня сейчас сплошные нервы и стресс. | I have nothing but nerves and stress right now. | #3: нервы<br>#4: Нервы, стресс | adapted: adapted |
+| 3 | Нагиев | Я новый контракт не могу подписать. | I cannot sign a new contract. | #5: не могу контракт подписать | adapted: adapted |
+| 4 | Элеонора | Ну у тебя же есть твой ресторан. | Well, you still have your restaurant. | #8: Ну, у тебя же есть | adapted: adapted |
+| 5 | Нагиев | Сейчас это уже не ресторан, а печка. | Right now it is no longer a restaurant, it is a furnace. | #9: Это не ресторан, это печка | adapted: adapted |
+| 6 | Элеонора | Значит, тебе нужно там что-то менять. | Then you need to change something there. | #12: Значит, нужно что-то менять | adapted: adapted |
+| 7 | Нагиев | Я уже всё там менял. | I have already changed everything there. | #13: Я менял. Я менял | adapted: adapted |
+| 8 | Нагиев | Ведь ты увела моего лучшего шеф-повара. | After all, you lured away my best head chef. | #19: Увела у меня<br>#20: Моего шеф-повара. Увела | adapted: adapted |
+| 9 | Элеонора | Баринова, что ли? Он мне даром не нужен. | Barinov, you mean? I do not need him even for free. | #21: что ли? Ой, да он мне даром не нужен | adapted: adapted |
+| 10 | Элеонора | Просто Катя попросила, и я его пристроила. | Katya simply asked, and I gave him a job. | #22: Катя попросила, и я его и пристроила | adapted: adapted |
+| 11 | Нагиев | Если не нужен, может, назад его вернёшь? | If you do not need him, maybe you will give him back? | #23: Если не нужен<br>#24: Может, в зад его | adapted: adapted |
+| 12 | Элеонора | Забирай, конечно, если он сам согласится. | Take him, of course, if he agrees himself. | #25: Ну, если согласиться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dimochka, well do not get so upset.' The meaning hinges on 'Dimochka' working together with 'so' in spoken Russian.
-- 'I have nothing but nerves and stress right now.' The meaning hinges on 'at' working together with 'stress' in spoken Russian.
-- 'I cannot sign a new contract.' The negative particle sits right before the verb meaning 'can' to negate the statement. Eleonora answers right away.
-- 'Well, you still have your restaurant.' In Russian, the idea of 'come on' flows naturally into 'restaurant' without extra filler words.
-- 'Right now it is no longer a restaurant, it is a furnace.' Spoken Russian keeps this brisk, leaning on 'now' and finishing on 'stove'.
-- 'Then you need to change something there.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'to change'. Dmitry Nagiyev answers right away.
-- 'I have already changed everything there.' Dmitry Nagiyev anchors the line on 'I', while 'changed' completes the thought.
-- 'After all, you lured away my best head chef.' In Russian, the idea of 'after all' flows naturally into 'head chef' without extra filler words.
-- 'Barinov, you mean? I do not need him even for free.' Eleonora anchors the line on 'proper name', while 'needed' completes the thought.
-- 'Katya simply asked, and I gave him a job.' In Russian, the idea of 'simply' flows naturally into 'placed in a job' without extra filler words.
-- 'If you do not need him, maybe you will give him back?' Spoken Russian keeps this brisk, leaning on 'if' and finishing on 'will get back'.
-- 'Take him, of course, if he agrees himself.' Eleonora pairs 'take' with 'to agree' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Dimochka, well do not get so upset.' Eleonora reminds Nagiyev that someone well do not get so upset before the moment passes.
+- 'I have nothing but nerves and stress right now.' Even though he has nothing but nerves and stress right now, Nagiyev keeps a steady face in front of Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I cannot sign a new contract.' Pointing out that he cannot sign a new contract gives Eleonora a sobering reality check.
+- 'Well, you still have your restaurant.' Eleonora mentions that Nagiyev still have Nagiyev's restaurant so Nagiyev sees what is at stake.
+- 'Right now it is no longer a restaurant, it is a furnace.' Claiming that right now it is no longer a restaurant it is a furnace sounds confident, even if Eleonora has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Then you need to change something there.' Pointing out that Nagiyev needs to change something there gives Nagiyev a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'I have already changed everything there.' Mentioning that he has already changed everything there moves the talk in a new direction.
+- 'After all, you lured away my best head chef.' Around the work and money, Nagiyev sets a calm, everyday tone with Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Barinov, you mean? I do not need him even for free.' Asking whether she does not need him even for free puts Nagiyev right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Katya simply asked, and I gave him a job.' Even though Katya simply asked and she gave him a job, Eleonora keeps a steady face in front of Nagiyev.
+- 'If you do not need him, maybe you will give him back?' Questioning whether if Eleonora does not need him maybe Eleonora will give him back is how Nagiyev tests Eleonora's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Take him, of course, if he agrees himself.' Adding that Nagiyev should take him of course if he agrees himself fills in the missing piece for Nagiyev.

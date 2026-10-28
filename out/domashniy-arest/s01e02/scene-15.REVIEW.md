@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Славик | Дай поиграть! | Let me have a go! | #428 00:26:38: Дай поиграть | verbatim |
-| 2 | Славик | Уровень пройду и дам. | I'll finish the level and then I'll give it to you. | #429 00:26:39: Уровень пройду и дам | verbatim |
-| 3 | Аня | Соседи, привет! Слушай, дружок, дай свой телефон на минутку. | Hi, neighbours! Listen, buddy, lend me your phone for a minute. | #431 00:26:44: Соседи, привет<br>#432 00:26:46: Слушай, дружок, дай свой телефон на минутку | verbatim |
-| 4 | Славик | Зачем? | What for? | #433 00:26:51: Зачем | verbatim |
-| 5 | Аня | Позвонить нужно. | I need to make a call. | #434 00:26:52: Позвонить нужно | verbatim |
-| 6 | Славик | У вас свой есть. | You've got your own. | #435 00:26:53: У вас свой есть | verbatim |
-| 7 | Аня | Его в суде заблокировали. | The court had it blocked. | #436 00:26:55: Его в суде заблокировали | adapted: the garbled first half of the cue left out |
-| 8 | Славик | Не дам. | I won't give it to you. | #439 00:27:00: Не дам | verbatim |
-| 9 | Аня | Ах ты, жадина! А у тебя есть телефон? | Oh, you greedy thing! And have you got a phone? | #443 00:27:09: у тебя есть телефон | adapted: 'жлоб какой' (cue 440) -> the milder 'жадина'; the question goes to Lyosha (cue 443: 'Слышь, мелкий' dropped); Yulia's 'no credit' reply (442) is told by the narrator |
-| 10 | Славик | Нет. Вы взяточник. | No. You take bribes. | #448 00:27:18: Нет<br>#445 00:27:13: Вы взяточник | adapted: the two replies swapped round and joined |
-| 11 | Аня | Тогда не разговаривай. | Then don't talk. | #449 00:27:18: Тогда не разговаривай | verbatim |
-| 12 | Аня | Славик, смотри сюда. Меняю свой новый айфон на твой старый телефон. | Slavik, look here. I'll swap my new iPhone for your old phone. | #451 00:27:22: смотри сюда<br>#452 00:27:24: Меняю свой новый айфон на | adapted: 'Жлоб' -> 'Славик'; 'твоё фуфло' (your junk) -> 'твой старый телефон' |
+| 1 | Лёша | Дай поиграть! | Let me have a go! | #428: Дай поиграть | verbatim |
+| 2 | Славик | Уровень пройду и дам. | I'll finish the level and then I'll give it to you. | #429: Уровень пройду и дам | verbatim |
+| 3 | Аркадий | Соседи, привет! Слушай, дружок, дай свой телефон на минутку. | Hi, neighbours! Listen, buddy, lend me your phone for a minute. | #431: Соседи, привет<br>#432: Слушай, дружок, дай свой телефон на минутку | verbatim |
+| 4 | Славик | Зачем? | What for? | #433: Зачем | verbatim |
+| 5 | Аркадий | Позвонить нужно. | I need to make a call. | #434: Позвонить нужно | verbatim |
+| 6 | Славик | У вас свой есть. | You've got your own. | #435: У вас свой есть | verbatim |
+| 7 | Аркадий | Его в суде заблокировали. | The court had it blocked. | #436: Его в суде заблокировали | adapted: the garbled first half of the cue left out |
+| 8 | Славик | Не дам. | I won't give it to you. | #439: Не дам | verbatim |
+| 9 | Аркадий | Ах ты, жадина! А у тебя есть телефон? | Oh, you greedy thing! And have you got a phone? | #443: у тебя есть телефон | adapted: 'жлоб какой' (cue 440) -> the milder 'жадина'; the question goes to Lyosha (cue 443: 'Слышь, мелкий' dropped); Yulia's 'no credit' reply (442) is told by the narrator |
+| 10 | Лёша | Нет. Вы взяточник. | No. You take bribes. | #448: Нет<br>#445: Вы взяточник | adapted: the two replies swapped round and joined |
+| 11 | Аркадий | Тогда не разговаривай. | Then don't talk. | #449: Тогда не разговаривай | verbatim |
+| 12 | Аркадий | Славик, смотри сюда. Меняю свой новый айфон на твой старый телефон. | Slavik, look here. I'll swap my new iPhone for your old phone. | #451: смотри сюда<br>#452: Меняю свой новый айфон на | adapted: 'Жлоб' -> 'Славик'; 'твоё фуфло' (your junk) -> 'твой старый телефон' |
 | 13 | Славик | Ага, как с Кайеном, да? | Yeah, right, like with the Cayenne? | new | new: cue 453 'Угу, как с Каеном, да?': 'Угу' -> 'Ага', the car spelled Кайен as in s01e01, so not cited |
-| 14 | Аня | На этот раз по-честному. В крокодиловом чехле! | This time it's a fair deal. In a crocodile-skin case! | #454 00:27:29: На этот раз по-честному<br>#455 00:27:31: крокодиловом чехле | adapted: the cue's 'На' corrected to 'В' |
-| 15 | Аня | Ну, как знаешь. Продам его Клавдии Викторовне. | Well, suit yourself. I'll sell it to Klavdia Viktorovna. | #458 00:27:37: как знаешь | adapted: slangy 'загоню' (459) -> 'Продам'; the cue's case slip 'Клавдию' -> 'Клавдии' |
-| 16 | Славик | Постойте! | Wait! | #460 00:27:41: Постойте | verbatim |
+| 14 | Аркадий | На этот раз по-честному. В крокодиловом чехле! | This time it's a fair deal. In a crocodile-skin case! | #454: На этот раз по-честному<br>#455: крокодиловом чехле | adapted: the cue's 'На' corrected to 'В' |
+| 15 | Аркадий | Ну, как знаешь. Продам его Клавдии Викторовне. | Well, suit yourself. I'll sell it to Klavdia Viktorovna. | #458: как знаешь | adapted: slangy 'загоню' (459) -> 'Продам'; the cue's case slip 'Клавдию' -> 'Клавдии' |
+| 16 | Славик | Постойте! | Wait! | #460: Постойте | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

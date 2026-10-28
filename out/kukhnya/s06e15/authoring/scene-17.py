@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e15-scene-17.
 ID = 'kukhnya-s06e15-scene-17'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 15
 SCENE = 17
-TITLE = "Признание при родителях  (Confession in Front of Parents)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Признание при родителях  (Confession in Front of Parents)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "guest": "anja", "sveta": "angelina"}
-LABELS = {"guest": "Гость", "sveta": "Света"}
+LABELS = {'denis': 'Денис', 'guest': 'Гость', 'sveta': 'Света'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.15'
 SOURCE_FILE = 'sources/kukhnya/s06/e15.ru.srt'
-
 INTRO = "As Katya prepares the bubbling liquid nitrogen dessert in front of Sveta and her parents, Sveta's father makes a toast about finding true love for life. Looking straight at Katya, Denis finally gathers his courage and tells Sveta the honest truth."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Sveta throws a glass of water in Denis's face and storms out with her parents, leaving Denis finally free of his lie. Until next time!"
+CLOSING = ('denis', 'Пока!')
 STORY = [
     ('guest', 'Посмотрите, как красиво всё здесь кипит!', 'Look how beautifully everything is bubbling here!', [(292, 'Красиво бурлит')], 'adapted'),
     ('guest', 'Желаю вам яркой и счастливой жизни.', 'I wish you a bright and happy life.', [(293, 'всю жизнь')], 'adapted'),
@@ -22,29 +24,22 @@ STORY = [
     ('guest', 'Самое главное в жизни найти любовь.', 'The most important thing in life is to find love.', [(296, 'главное найти свою любовь')], 'adapted'),
     ('guest', 'Найти такую любовь на всю жизнь.', 'To find such a love for your whole life.', [(297, 'чтобы на всю жизнь')], 'adapted'),
     ('guest', 'Скажи, ты согласен со мной, Денис?', 'Tell me, do you agree with me, Denis?', [(299, 'Ты согласен, Денис')], 'adapted'),
-    ('guest', 'Да, я полностью с вами согласен.', 'Yes, I completely agree with you.', [(300, 'Согласен')], 'adapted'),
-    ('guest', 'Мне кажется, я нашёл такую любовь.', 'It seems to me that I have found such a love.', [(301, 'Мне кажется, я нашел такую любовь')], 'adapted'),
-    ('guest', 'Прости меня, Света, но это не ты.', 'Forgive me, Sveta, but it is not you.', [(303, 'Прости, Света, но это не ты')], 'adapted'),
+    ('denis', 'Да, я полностью с вами согласен.', 'Yes, I completely agree with you.', [(300, 'Согласен')], 'adapted'),
+    ('denis', 'Мне кажется, я нашёл такую любовь.', 'It seems to me that I have found such a love.', [(301, 'Мне кажется, я нашел такую любовь')], 'adapted'),
+    ('denis', 'Прости меня, Света, но это не ты.', 'Forgive me, Sveta, but it is not you.', [(303, 'Прости, Света, но это не ты')], 'adapted'),
     ('sveta', 'Тогда прощай навсегда и больше не звони!', 'Then goodbye forever and do not call anymore!', [(304, 'Прощай')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Look how beautifully everything is bubbling here!' In Russian, the idea of 'look' flows naturally into 'boils' without extra filler words."),
-    (1, None, "'I wish you a bright and happy life.' Spoken Russian keeps this brisk, leaning on 'wish' and finishing on 'life'. Sveta answers right away."),
-    (2, None, "'And love is always bubbling between us!' Here the Russian phrasing highlights 'and' before landing on 'love'."),
-    (3, None, "'Tell them, is that not true, my darling Denis?' The grammar packs 'say' and 'Denis' into a tight, idiomatic kitchen exchange."),
-    (4, None, "'That is very good, we are glad to hear it.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'to hear'."),
-    (5, None, "'The most important thing in life is to find love.' Notice how Russian expresses 'the most' and 'love' with crisp inflection rather than helper words."),
-    (6, None, "'To find such a love for your whole life.' Here the Russian phrasing highlights 'to find' before landing on 'life'."),
-    (7, None, "'Tell me, do you agree with me, Denis?' Notice how Russian expresses 'say' and 'Denis' with crisp inflection rather than helper words. Denis answers right away."),
-    (8, None, "'Yes, I completely agree with you.' Denis brings out the contrast between 'yes' and 'I' in a few short words."),
-    (9, None, "'It seems to me that I have found such a love.' Notice how Russian expresses 'to me' and 'love' with crisp inflection rather than helper words."),
-    (10, None, "'Forgive me, Sveta, but it is not you.' Here the Russian phrasing highlights 'forgive' before landing on 'you'. Sveta answers right away."),
-    (11, None, "'Then goodbye forever and do not call anymore!' Notice how Russian expresses 'then' and 'call' with crisp inflection rather than helper words."),
+    (0, None, "'Look how beautifully everything is bubbling here!' Saying that how beautifully everything is bubbling here is how the guest takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (1, None, '\'I wish you a bright and happy life.\' Wishing Denis a bright and happy life is how the guest lays out the situation for Denis. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (2, None, "'And love is always bubbling between us!' Insisting that Denis should love is always bubbling between them shows Sveta is not backing down."),
+    (3, None, '\'Tell them, is that not true, my darling Denis?\' Sveta asks whether tell them is that not true her darling Denis, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (4, None, '\'That is very good, we are glad to hear it.\' Noting that that is very good they are glad to hear it keeps the guest\'s side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (5, None, "'The most important thing in life is to find love.' Even though the most important thing in life is to find love, the guest keeps a steady face in front of Denis."),
+    (6, None, "'To find such a love for your whole life.' With the table and work in play, the guest keeps this short reply brisk and direct."),
+    (7, None, '\'Tell me, do you agree with me, Denis?\' With the dessert and table hanging in the air, the guest puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (8, None, "'Yes, I completely agree with you.' With the dessert and table in play, Denis keeps this short reply brisk and direct."),
+    (9, None, "'It seems to me that I have found such a love.' Over the dessert and the truth, Denis answers the guest without a second thought."),
+    (10, None, '\'Forgive me, Sveta, but it is not you.\' Saying that it is not the guest is how Denis sets the tone with the guest. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (11, None, "'Then goodbye forever and do not call anymore!' Once goodbye forever and do not call anymore, Sveta makes sure Denis hears every word."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Sveta throws a glass of water in Denis's face and storms out with her parents, leaving Denis finally free of his lie. Until next time!"
-CLOSING = ("guest", "Пока!")

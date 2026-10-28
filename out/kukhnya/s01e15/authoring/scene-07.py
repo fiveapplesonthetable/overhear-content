@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 7
-TITLE = "Услуга за услугу  (Favor for a Favor)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Услуга за услугу  (Favor for a Favor)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
-LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Chef Viktor makes a deal with Lyova, but later unfairly demotes him. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Favor for a Favor line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Viktor makes a deal with Lyova. Next time you watch the episode, listen for the Russian expressions for 'get carried away' and 'pancake' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Лёва, не увлекайся блинами.', 'Lyova, do not get carried away with pancakes.', [(39, 'Лёва, Лёва, Лёва, не увлекайся блинами.')], ''),
+    ('barinov', 'Лёва, не увлекайся блинами.', 'Lyova, do not get carried away with pancakes.', [(39, 'Лёва, Лёва, Лёва, не увлекайся блинами.')], ''),
     ('lyova', 'А что плохого в этих вкусных блинах?', 'And what is bad about these tasty pancakes?', [], ''),
-    ('chef', 'Вспомни про свой последний анализ.', 'Remember your last test.', [], ''),
+    ('barinov', 'Вспомни про свой последний анализ.', 'Remember your last test.', [], ''),
     ('lyova', 'Мой уровень холестерина был почти в норме.', 'My cholesterol level was almost in range.', [], ''),
-    ('chef', 'Зайди в химчистку и возьми мой костюм.', 'Go to the dry cleaners and take my suit.', [], ''),
+    ('barinov', 'Зайди в химчистку и возьми мой костюм.', 'Go to the dry cleaners and take my suit.', [], ''),
     ('lyova', 'Я не успеваю. Это в другую сторону.', 'I do not have time. That is the other way.', [], ''),
-    ('chef', 'Лёва, давай, услуга за услугу.', 'Lyova, come on, favor for a favor.', [], ''),
+    ('barinov', 'Лёва, давай, услуга за услугу.', 'Lyova, come on, favor for a favor.', [], ''),
     ('lyova', 'Какая от вас может быть полезная услуга?', 'What useful favor can there be from you?', [], ''),
-    ('chef', 'Ты мне костюм, а я разрешаю опоздать.', 'You get me the suit, and I allow you to be late.', [], ''),
+    ('barinov', 'Ты мне костюм, а я разрешаю опоздать.', 'You get me the suit, and I allow you to be late.', [], ''),
     ('lyova', 'Хорошо, я согласен на эти странные условия.', 'Alright, I agree to these strange conditions.', [], ''),
-    ('chef', 'Все, ты больше не су-шеф.', 'That is it, you are no longer sous-chef.', [], ''),
+    ('barinov', 'Все, ты больше не су-шеф.', 'That is it, you are no longer sous-chef.', [], ''),
     ('lyova', 'Как вы можете так поступать со мной?', 'How can you act like this with me?', [], ''),
-    ('chef', 'Марш в подсобку.', 'March to the utility room.', [], ''),
+    ('barinov', 'Марш в подсобку.', 'March to the utility room.', [], ''),
 ]
 WALK = [
     (0, None, "'Lyova, do not get carried away with pancakes.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),

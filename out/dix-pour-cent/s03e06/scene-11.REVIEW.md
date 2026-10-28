@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e06-scene-11` — Le tournage du fantôme  (Filming the Ghost)
+# dix-pour-cent-s03e06-scene-11: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "realisateur": "marcel", "isabelle": "emilie", "lea": "lucie"}`
-- **Labels**: `{"realisateur": "Le réalisateur", "isabelle": "Isabelle", "lea": "Andréa"}`
+Title: Le tournage du fantôme  (Filming the Ghost)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E06
 
-## Part 1 — Intro
-> In a public park, Camille coordinates a makeshift filming session with lookalike Isabelle playing a queen's ghost. The pretentious young director gives extravagant artistic instructions, but the novice actress repeatedly wanders off-camera, creating amusing chaos on set. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `realisateur` (Le réalisateur) | Cette scène intime doit rester très spectaculaire. | This intimate scene must remain very spectacular. | 524:parce que c'est intime et en même temps, je veux que ce soit spectaculaire. |
-| 1 | `lea` (Andréa) | Nous avons seulement une heure pour tourner. | We only have one hour to shoot. | 529:on n'a qu'une heure et demie, là. |
-| 2 | `realisateur` (Le réalisateur) | Isabelle, avance lentement vers ce grand arbre. | Isabelle, walk slowly toward this big tree. | 532:Sofia, tu vas te mettre près de l'arbre, s'il te plaît. |
-| 3 | `isabelle` (Isabelle) | Je marche avec les yeux bien fermés? | Do I walk with my eyes tightly closed? | 547:c'est vous qui m'avez demandé de faire le fantôme les yeux fermés. |
-| 4 | `realisateur` (Le réalisateur) | Oui, silence complet sur le plateau, action! | Yes, complete silence on the set, action! | 543:Action. |
-| 5 | `realisateur` (Le réalisateur) | Coupez! Mais vous marchez hors du cadre! | Cut! But you are walking out of frame! | 549:Bah, là, vous faites un fantôme hors champ, donc... |
-| 6 | `isabelle` (Isabelle) | Pardon, je ne vois rien les yeux fermés. | Sorry, I see nothing with closed eyes. | 548:Moi, je sais pas où faut m'arrêter. |
-| 7 | `lea` (Andréa) | Gardez les yeux ouverts, s'il vous plaît. | Keep your eyes open, please. | 552:Gardez les yeux ouverts, mais arrêtez-vous au bon endroit. |
-| 8 | `realisateur` (Le réalisateur) | On recommence tout de suite au départ! | We are restarting right away from the mark! | 551:Remettez-vous au départ et tant pis. |
-| 9 | `isabelle` (Isabelle) | Attendez, mon téléphone sonne dans mon sac. | Wait, my phone is ringing in my bag. | 560:Oh ! Eh, on coupe les portables ? |
-| 10 | `realisateur` (Le réalisateur) | C'est une blague? Coupez ce portable! | Is this a joke? Turn off that mobile phone! | 560:on coupe les portables ? |
-| 11 | `isabelle` (Isabelle) | C'est ma collègue Gladys de l'hôpital. | It is my colleague Gladys from the hospital. | 563:Oui, Gladys, tout se passe bien ? |
-| 12 | `lea` (Andréa) | Mettez votre téléphone en mode avion, Isabelle. | Put your phone on airplane mode, Isabelle. | 567:On se met en mode avion, maintenant, Isabelle ? |
-| 13 | `realisateur` (Le réalisateur) | Allez, tout le monde en place, action! | Come on, everyone in position, action! | 569:Action. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Camille navigates the quirky clash between an amateur nurse actress and a fussy director. When you watch the episode, listen out for the expressions meaning 'scene' and 'intimate'. You'll catch them now. See you next time!
-- **Closing**: `realisateur`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Le réalisateur | Cette scène intime doit rester très spectaculaire. | This intimate scene must remain very spectacular. | #524: parce que c'est intime et en même temps, je veux que ce soit spectaculaire. | verbatim |
+| 2 | Camille | Nous avons seulement une heure pour tourner. | We only have one hour to shoot. | #529: on n'a qu'une heure et demie, là. | verbatim |
+| 3 | Le réalisateur | Isabelle, avance lentement vers ce grand arbre. | Isabelle, walk slowly toward this big tree. | #532: Sofia, tu vas te mettre près de l'arbre, s'il te plaît. | verbatim |
+| 4 | Isabelle | Je marche avec les yeux bien fermés? | Do I walk with my eyes tightly closed? | #547: c'est vous qui m'avez demandé de faire le fantôme les yeux fermés. | verbatim |
+| 5 | Le réalisateur | Oui, silence complet sur le plateau, action! | Yes, complete silence on the set, action! | #543: Action. | verbatim |
+| 6 | Le réalisateur | Coupez! Mais vous marchez hors du cadre! | Cut! But you are walking out of frame! | #549: Bah, là, vous faites un fantôme hors champ, donc... | verbatim |
+| 7 | Isabelle | Pardon, je ne vois rien les yeux fermés. | Sorry, I see nothing with closed eyes. | #548: Moi, je sais pas où faut m'arrêter. | verbatim |
+| 8 | Camille | Gardez les yeux ouverts, s'il vous plaît. | Keep your eyes open, please. | #552: Gardez les yeux ouverts, mais arrêtez-vous au bon endroit. | verbatim |
+| 9 | Le réalisateur | On recommence tout de suite au départ! | We are restarting right away from the mark! | #551: Remettez-vous au départ et tant pis. | verbatim |
+| 10 | Isabelle | Attendez, mon téléphone sonne dans mon sac. | Wait, my phone is ringing in my bag. | #560: Oh ! Eh, on coupe les portables ? | verbatim |
+| 11 | Le réalisateur | C'est une blague? Coupez ce portable! | Is this a joke? Turn off that mobile phone! | #560: on coupe les portables ? | verbatim |
+| 12 | Isabelle | C'est ma collègue Gladys de l'hôpital. | It is my colleague Gladys from the hospital. | #563: Oui, Gladys, tout se passe bien ? | verbatim |
+| 13 | Camille | Mettez votre téléphone en mode avion, Isabelle. | Put your phone on airplane mode, Isabelle. | #567: On se met en mode avion, maintenant, Isabelle ? | verbatim |
+| 14 | Le réalisateur | Allez, tout le monde en place, action! | Come on, everyone in position, action! | #569: Action. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'This intimate scene must remain very spectacular.' The director outlines his vision. Notice how 'must' leads directly into the noun meaning 'scene'.
+- 'We only have one hour to shoot.' Camille urges focus on the ticking clock. The verb meaning 'have' pairs naturally with the noun for 'hour' in everyday conversation.
+- 'Isabelle, walk slowly toward this big tree.' The director positions his ghost. The verb meaning 'advance' pairs naturally with the noun for 'tree' in everyday conversation.
+- 'Do I walk with my eyes tightly closed?' Isabelle checks the unusual instruction. This conversational past tense combines a helper verb with the past verb form for 'closed'.
+- 'Yes, complete silence on the set, action!' The director calls for silence before filming. The key noun here means 'silence', anchored by its matching French article.
+- 'Cut! But you are walking out of frame!' The director cuts the botched take. The verb meaning 'cut' pairs naturally with the noun for 'frame' in everyday conversation.
+- 'Sorry, I see nothing with closed eyes.' Isabelle points out the obvious physical reality. This conversational past tense combines a helper verb with the past verb form for 'closed'.
+- 'Keep your eyes open, please.' Camille provides sensible and practical guidance. Notice how the short vowel drops before a vowel sound around 'keep', making the phrase flow smoothly as one unit.
+- 'We are restarting right away from the mark!' The director orders a rapid reset. Notice how 'restart' leads directly into the noun meaning 'start'.
+- 'Wait, my phone is ringing in my bag.' An incoming ringtone shatters the set quiet. The verb meaning 'wait' pairs naturally with the noun for 'phone' in everyday conversation.
+- 'Is this a joke? Turn off that mobile phone!' The director loses patience with interruptions. Dropping the subject pronoun turns the verb for 'cut' into a direct, punchy command.
+- 'It is my colleague Gladys from the hospital.' Isabelle reveals her genuine medical day job. The key noun here means 'colleague', anchored by its matching French article.
+- 'Put your phone on airplane mode, Isabelle.' Camille prevents further interruptions. Notice how 'put' leads directly into the noun meaning 'phone'.
+- 'Come on, everyone in position, action!' The director restarts the take with renewed energy. Dropping the subject pronoun turns the verb for 'come on' into a direct, punchy command.

@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 4
-TITLE = "Возвращение на кухню  (Return to the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Возвращение на кухню  (Return to the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = 'In the hallway, Chef Viktor Barinov spots Max sitting idle after Victoria suspended him. Furious that someone else is giving orders to his cooks, Viktor fiercely asserts his kitchen authority and sends Max back to work. Listen to their conversation in Russian first, and then we will examine each sentence.'
 OPENER = 'Now, let us examine the vocabulary and phrasing of this energetic backstage encounter.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A lively scene demonstrating Chef Barinov's fiery defiance of restaurant management. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'always' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('chef', 'Макс, ты что здесь прохлаждаешься?', 'Max, why are you slacking off here?', [(58, 'Ты что это здесь прохлаждаешься?')], ''),
-    ('anya', 'Что мне еще делать, шеф?', 'What else am I to do, chef?', [(59, 'Что мне еще делать, шеф?')], ''),
-    ('anya', 'Меня сегодня отстранили от работы.', 'I was suspended from work today.', [(60, 'Меня же сегодня отстранили от работы.')], ''),
-    ('chef', 'Кто тебя отстранил? Я?', 'Who suspended you? Me?', [(61, 'Кто тебя отстранил? Я?')], ''),
-    ('anya', 'Виктория Сергеевна сказала сидеть здесь.', 'Viktoria Sergeyevna told me to sit here.', [], ''),
-    ('chef', 'С каких пор ты её слушаешь?', 'Since when do you listen to her?', [(62, 'С каких пор ты стал слушать')], ''),
-    ('chef', 'На этой кухне главный только я!', 'In this kitchen, only I am the boss!', [], ''),
-    ('anya', 'Она обещала меня уволить, шеф.', 'She promised to fire me, chef.', [], ''),
-    ('chef', 'Увольнять поваров могу только я!', 'Only I can fire cooks!', [], ''),
-    ('chef', 'А ну марш на кухню!', 'Now march to the kitchen!', [(63, 'марш на кухне')], ''),
-    ('chef', 'Там тебя куча чеков дожидается.', 'A pile of orders is waiting for you there.', [(63, 'там тебе куча чеков дождается.')], ''),
-    ('anya', 'Спасибо, шеф, я бегу!', 'Thank you, chef, I am running!', [(64, 'Спасибо, шеф.')], ''),
-    ('chef', 'Стой, куда ты понес сковороду?', 'Wait, where are you carrying that pan?', [(65, 'Куда понес?')], ''),
-    ('anya', 'На рабочее место, шеф!', 'To the workstation, chef!', [], ''),
+    ('barinov', 'Макс, ты что здесь прохлаждаешься?', 'Max, why are you slacking off here?', [(58, 'Ты что это здесь прохлаждаешься?')], ''),
+    ('max', 'Что мне еще делать, шеф?', 'What else am I to do, chef?', [(59, 'Что мне еще делать, шеф?')], ''),
+    ('max', 'Меня сегодня отстранили от работы.', 'I was suspended from work today.', [(60, 'Меня же сегодня отстранили от работы.')], ''),
+    ('barinov', 'Кто тебя отстранил? Я?', 'Who suspended you? Me?', [(61, 'Кто тебя отстранил? Я?')], ''),
+    ('max', 'Виктория Сергеевна сказала сидеть здесь.', 'Viktoria Sergeyevna told me to sit here.', [], ''),
+    ('barinov', 'С каких пор ты её слушаешь?', 'Since when do you listen to her?', [(62, 'С каких пор ты стал слушать')], ''),
+    ('barinov', 'На этой кухне главный только я!', 'In this kitchen, only I am the boss!', [], ''),
+    ('max', 'Она обещала меня уволить, шеф.', 'She promised to fire me, chef.', [], ''),
+    ('barinov', 'Увольнять поваров могу только я!', 'Only I can fire cooks!', [], ''),
+    ('barinov', 'А ну марш на кухню!', 'Now march to the kitchen!', [(63, 'марш на кухне')], ''),
+    ('barinov', 'Там тебя куча чеков дожидается.', 'A pile of orders is waiting for you there.', [(63, 'там тебе куча чеков дождается.')], ''),
+    ('max', 'Спасибо, шеф, я бегу!', 'Thank you, chef, I am running!', [(64, 'Спасибо, шеф.')], ''),
+    ('barinov', 'Стой, куда ты понес сковороду?', 'Wait, where are you carrying that pan?', [(65, 'Куда понес?')], ''),
+    ('max', 'На рабочее место, шеф!', 'To the workstation, chef!', [], ''),
 ]
 WALK = [
     (0, None, "'Max, why are you slacking off here?' Viktor scolds his idle apprentice with sharp irritation."),

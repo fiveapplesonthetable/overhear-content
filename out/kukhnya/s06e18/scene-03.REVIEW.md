@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Тимур | Тихо, не надо сейчас спорить. | Quiet, there is no need to argue now. | #51 00:02:33: Тихо, тихо | adapted: adapted |
-| 2 | Тимур | Устроим здесь честные выборы. | Let us hold fair elections here. | #53 00:02:39: выборы | adapted: adapted |
-| 3 | Тимур | Пусть каждый побудет немного главным. | Let each of you be the boss for a bit. | #54 00:02:41: Пусть каждый побудет | adapted: adapted |
-| 4 | Тимур | Народ посмотрит и потом выберет. | The people will watch and then choose. | #55 00:02:43: Народ потом посмотрит и выберет | adapted: adapted |
-| 5 | Тимур | Значит, я буду первый главный. | So I will be the first boss. | #56 00:02:46: Значит, я первый главный | adapted: adapted |
-| 6 | Федя | А я буду второй главный. | And I will be the second boss. | #57 00:02:48: А я второй главный | adapted: adapted |
-| 7 | Тимур | Всё, регистрация кандидатов уже окончена. | That is it, candidate registration is already closed. | #58 00:02:50: регистрация кандидатов окончена | adapted: adapted |
-| 8 | Тимур | Вечером мы проведём наши выборы. | In the evening we will hold our elections. | #59 00:02:53: Выбор | adapted: adapted |
-| 9 | Тимур | А если будут большие пробки? | And what if there is heavy traffic? | #60 00:02:54: если пробки будут | adapted: adapted |
-| 10 | Федя | Ну, сегодня повезло тебе, Миша. | Well, you got lucky today, Misha. | #61 00:03:00: повезло тебе | adapted: adapted |
-| 11 | Федя | Михаил Джекович коня в карты выиграл. | Mikhail Jekovich won a horse at cards. | #63 00:03:06: Михаил Джекович, коня в карты выиграл | adapted: adapted |
-| 12 | Тимур | Конь приехал старый долг отдать? | Did the horse arrive to pay off an old debt? | #64 00:03:10: Конь ему приехал, долг что ли отдать | adapted: adapted |
+| 1 | Тимур | Тихо, не надо сейчас спорить. | Quiet, there is no need to argue now. | #51: Тихо, тихо | adapted: adapted |
+| 2 | Тимур | Устроим здесь честные выборы. | Let us hold fair elections here. | #53: выборы | adapted: adapted |
+| 3 | Тимур | Пусть каждый побудет немного главным. | Let each of you be the boss for a bit. | #54: Пусть каждый побудет | adapted: adapted |
+| 4 | Тимур | Народ посмотрит и потом выберет. | The people will watch and then choose. | #55: Народ потом посмотрит и выберет | adapted: adapted |
+| 5 | Сеня | Значит, я буду первый главный. | So I will be the first boss. | #56: Значит, я первый главный | adapted: adapted |
+| 6 | Федя | А я буду второй главный. | And I will be the second boss. | #57: А я второй главный | adapted: adapted |
+| 7 | Тимур | Всё, регистрация кандидатов уже окончена. | That is it, candidate registration is already closed. | #58: регистрация кандидатов окончена | adapted: adapted |
+| 8 | Тимур | Вечером мы проведём наши выборы. | In the evening we will hold our elections. | #59: Выбор | adapted: adapted |
+| 9 | Сеня | А если будут большие пробки? | And what if there is heavy traffic? | #60: если пробки будут | adapted: adapted |
+| 10 | Федя | Ну, сегодня повезло тебе, Миша. | Well, you got lucky today, Misha. | #61: повезло тебе | adapted: adapted |
+| 11 | Федя | Михаил Джекович коня в карты выиграл. | Mikhail Jekovich won a horse at cards. | #63: Михаил Джекович, коня в карты выиграл | adapted: adapted |
+| 12 | Сеня | Конь приехал старый долг отдать? | Did the horse arrive to pay off an old debt? | #64: Конь ему приехал, долг что ли отдать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, there is no need to argue now.' Spoken Russian keeps this brisk, leaning on 'quiet' and finishing on 'to argue'.
-- 'Let us hold fair elections here.' In Russian, the idea of 'arrange' flows naturally into 'elections' without extra filler words.
-- 'Let each of you be the boss for a bit.' Spoken Russian keeps this brisk, leaning on 'let' and finishing on 'important'.
-- 'The people will watch and then choose.' Notice how Russian expresses 'the people' and 'will choose' with crisp inflection rather than helper words. Senya answers right away.
-- 'So I will be the first boss.' Here the Russian phrasing highlights 'so' before landing on 'main'.
-- 'And I will be the second boss.' Fedya brings out the contrast between 'and' and 'I' in a few short words.
-- 'That is it, candidate registration is already closed.' Timur anchors the line on 'everything', while 'finished' completes the thought.
-- 'In the evening we will hold our elections.' The grammar packs 'in the evening' and 'elections' into a tight, idiomatic kitchen exchange.
-- 'And what if there is heavy traffic?' In Russian, the idea of 'and' flows naturally into 'traffic jam' without extra filler words.
-- 'Well, you got lucky today, Misha.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'Misha'.
-- 'Mikhail Jekovich won a horse at cards.' Fedya anchors the line on 'Mikhail', while 'won' completes the thought.
-- 'Did the horse arrive to pay off an old debt?' Senya brings out the contrast between 'knight' and 'came' in a few short words.
+- 'Quiet, there is no need to argue now.' Even though quiet there is no need to argue now, Timur keeps a steady face in front of Fedya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Let us hold fair elections here.' Claiming that they should hold fair elections here sounds confident, even if Fedya has doubts.
+- 'Let each of you be the boss for a bit.' By letting each of Fedya is the boss for a bit, Timur keeps his side of the story grounded.
+- 'The people will watch and then choose.' Once the people will watch and then choose, Timur can finally tell Fedya what he means.
+- 'So I will be the first boss.' Adding that he will be the first boss fills in the missing piece for Fedya.
+- 'And I will be the second boss.' Saying that he will be the second boss is how Fedya sets the tone with Senya.
+- 'That is it, candidate registration is already closed.' Since that is it candidate registration is already closed, Timur does not waste words on excuses.
+- 'In the evening we will hold our elections.' Mentioning that in the evening they will hold their elections moves the talk in a new direction.
+- 'And what if there is heavy traffic?' Senya asks whether what if there is heavy traffic, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, you got lucky today, Misha.' Because Senya got lucky today Misha, Fedya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Mikhail Jekovich won a horse at cards.' Explaining that Mikhail Jekovich won a horse at cards lays the cards on the table for Senya.
+- 'Did the horse arrive to pay off an old debt?' By asking whether the horse arrive to pay off an old debt, Senya presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

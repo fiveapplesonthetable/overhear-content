@@ -1,36 +1,38 @@
-# domashniy-arest/s01e07/scene-28.py
-ID = "domashniy-arest-s01e07-scene-28"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-28.
+ID = 'domashniy-arest-s01e07-scene-28'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 28
-TITLE = "Лук, соль, перец  (Onion, Salt, Pepper)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.07"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "nina": "angelina"}
-LABELS = {"samson": "Самсон", "nina": "Нина"}
+TITLE = 'Лук, соль, перец  (Onion, Salt, Pepper)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'danya': 'Даня', 'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.07'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
 INTRO = "In the snowy forest clearing. Out in the snowy woods, Slavik and polite lawyer Danya had just brought a limping Samsonov back up from the ravine after Danya rescued him. Now both men are grilling skewers of shashlik over the coals. Let's listen in Russian first."
-STORY = [
-    ("samson", "Ну что, семья, ещё пять минут!", "Well, family, five more minutes!", [(1074, 'Ну что, семья, пять минут')], ""),
-    ("samson", "И папин шашлык скоро будет готов!", "And Dad's shashlik will soon be ready!", [(1075, 'будет готов')], "'папкин шашлычок' -> 'папин шашлык' (A1)"),
-    ("samson", "И мой тоже готов! А ты где мясо берёшь?", "And mine is ready too! Where do you get your meat?", [(1076, 'тоже'), (1077, 'А ты где мясо берешь')], ""),
-    ("samson", "Я всегда на рынке беру. Они сами маринуют.", "I always get it at the market. They marinate it themselves.", [(1078, 'на рынке'), (1079, 'Они маринуют'), (1085, 'Я всегда')], "ASR 'до гистанцев' omitted"),
-    ("samson", "Понятно. Наверное, тебе туда плохое мясо положили.", "Got it. They probably put bad meat in there for you.", [(1080, 'Понятно'), (1081, 'тебе туда'), (1081, 'наверное')], "'Хрень ... напихали' -> 'плохое мясо положили'"),
-    ("samson", "Зато пахнет вкусно! Я всегда у них беру.", "Still, it smells delicious! I always buy from them.", [(1082, 'пахнет вкусно'), (1085, 'Я всегда у них беру')], ""),
-    ("samson", "Конечно, вкусно! Это мой шашлык пахнет, ветер отсюда.", "Of course it's delicious! That's my shashlik smelling, the wind is from here.", [(1083, 'конечно, вкусно'), (1084, 'пахнет, ветер'), (1084, 'отсюда')], ""),
-    ("samson", "Ну, сейчас проверим, чей шашлык вкуснее! Да, Нина?", "Well, let's check right now whose shashlik is tastier! Right, Nina?", [(1086, 'проверим'), (1087, 'вкуснее')], "ASR 'Чей же с ущем вкуснее. Да, Ниноль?' restored"),
-    ("nina", "Даня, дай мне последний кусочек! Очень вкусное мясо!", "Danya, give me the last little piece! Very tasty meat!", [(1090, 'последний кусочек')], "adapted from cues 1090-1092"),
-    ("samson", "Успокойтесь, я ещё сделаю! Куда ставить тарелку?", "Calm down, I'll make more! Where should I put the plate?", [(1095, 'Успокойтесь'), (1097, 'Куда ставить')], ""),
-    ("samson", "А почему мой шашлык никто не ест? Мяса полно!", "And why is nobody eating my shashlik? There's plenty of meat!", [(1097, 'Мяса полно')], "'рубайте' (1097) omitted for A1"),
-    ("nina", "Да нет, Ваня, оно очень жёсткое.", "No, Vanya, it's very tough.", [(1098, 'Да нет, оно жесткое')], ""),
-    ("samson", "Как жёсткое? Вы же всегда его любили!", "What do you mean tough? You always loved it!", [(1099, 'Вы всегда любили')], ""),
-    ("nina", "Это потому, что другого не было! Ешь сам.", "That's because there was nothing else! Eat it yourself.", [(1100, 'другого не было')], ""),
-    ("samson", "Я сам всё съем! Даня, как ты готовишь мясо?", "I'll eat it all myself! Danya, how do you prepare the meat?", [(1103, 'Я сам все съем')], "Samsonov asking Danya for his marinade recipe before cue 1107"),
-    ("samson", "Попробуй! Лук, соль, перец — и всё.", "Try it! Onion, salt, pepper — and that's all.", [(1105, 'попробуй'), (1107, 'Лук, соль, перец'), (1107, 'Все')], ""),
-]
 OPENER = "Let's go through the scene line by line. Standing proudly over the smoky grill in the snow, Samsonov calls out to his family."
+TRANSITION = "Now let's hear the whole scene again, from start to finish."
+OUTRO = "So everyone devoured Danya's tender shashlik seasoned with nothing but onion, salt, and pepper, leaving Samsonov even more desperate to outshine Danya after lunch. See you next time!"
+CLOSING = ('danya', 'Пока!')
+STORY = [
+    ('samson', 'Ну что, семья, ещё пять минут!', 'Well, family, five more minutes!', [(1074, 'Ну что, семья, пять минут')], ''),
+    ('samson', 'И папин шашлык скоро будет готов!', "And Dad's shashlik will soon be ready!", [(1075, 'будет готов')], "'папкин шашлычок' -> 'папин шашлык' (A1)"),
+    ('danya', 'И мой тоже готов! А ты где мясо берёшь?', 'And mine is ready too! Where do you get your meat?', [(1076, 'тоже'), (1077, 'А ты где мясо берешь')], ''),
+    ('samson', 'Я всегда на рынке беру. Они сами маринуют.', 'I always get it at the market. They marinate it themselves.', [(1078, 'на рынке'), (1079, 'Они маринуют'), (1085, 'Я всегда')], "ASR 'до гистанцев' omitted"),
+    ('danya', 'Понятно. Наверное, тебе туда плохое мясо положили.', 'Got it. They probably put bad meat in there for you.', [(1080, 'Понятно'), (1081, 'тебе туда'), (1081, 'наверное')], "'Хрень ... напихали' -> 'плохое мясо положили'"),
+    ('samson', 'Зато пахнет вкусно! Я всегда у них беру.', 'Still, it smells delicious! I always buy from them.', [(1082, 'пахнет вкусно'), (1085, 'Я всегда у них беру')], ''),
+    ('danya', 'Конечно, вкусно! Это мой шашлык пахнет, ветер отсюда.', "Of course it's delicious! That's my shashlik smelling, the wind is from here.", [(1083, 'конечно, вкусно'), (1084, 'пахнет, ветер'), (1084, 'отсюда')], ''),
+    ('samson', 'Ну, сейчас проверим, чей шашлык вкуснее! Да, Нина?', "Well, let's check right now whose shashlik is tastier! Right, Nina?", [(1086, 'проверим'), (1087, 'вкуснее')], "ASR 'Чей же с ущем вкуснее. Да, Ниноль?' restored"),
+    ('nina', 'Даня, дай мне последний кусочек! Очень вкусное мясо!', 'Danya, give me the last little piece! Very tasty meat!', [(1090, 'последний кусочек')], 'adapted from cues 1090-1092'),
+    ('danya', 'Успокойтесь, я ещё сделаю! Куда ставить тарелку?', "Calm down, I'll make more! Where should I put the plate?", [(1095, 'Успокойтесь'), (1097, 'Куда ставить')], ''),
+    ('samson', 'А почему мой шашлык никто не ест? Мяса полно!', "And why is nobody eating my shashlik? There's plenty of meat!", [(1097, 'Мяса полно')], "'рубайте' (1097) omitted for A1"),
+    ('nina', 'Да нет, Ваня, оно очень жёсткое.', "No, Vanya, it's very tough.", [(1098, 'Да нет, оно жесткое')], ''),
+    ('samson', 'Как жёсткое? Вы же всегда его любили!', 'What do you mean tough? You always loved it!', [(1099, 'Вы всегда любили')], ''),
+    ('nina', 'Это потому, что другого не было! Ешь сам.', "That's because there was nothing else! Eat it yourself.", [(1100, 'другого не было')], ''),
+    ('samson', 'Я сам всё съем! Даня, как ты готовишь мясо?', "I'll eat it all myself! Danya, how do you prepare the meat?", [(1103, 'Я сам все съем')], 'Samsonov asking Danya for his marinade recipe before cue 1107'),
+    ('danya', 'Попробуй! Лук, соль, перец — и всё.', "Try it! Onion, salt, pepper — and that's all.", [(1105, 'попробуй'), (1107, 'Лук, соль, перец'), (1107, 'Все')], ''),
+]
 WALK = [
     (0, None, "'Well, family, five more minutes!' After the numeral 'five', the noun 'minutes' stands in the plural 'of' form."),
     (1, None, "'And Dad's shashlik will soon be ready!' The short masculine adjective 'ready' serves as the descriptive phrase."),
@@ -50,6 +52,3 @@ WALK = [
     (14, None, "'I'll eat it all myself! Danya, how do you prepare the meat?' Chewing stubbornly on his own tough skewer, Samsonov finally caves and asks Danya for his secret."),
     (15, None, "'Try it! Onion, salt, pepper — and that's all.' Danya offers him a tender piece and shares his simple recipe."),
 ]
-TRANSITION = "Now let's hear the whole scene again, from start to finish."
-OUTRO = "So everyone devoured Danya's tender shashlik seasoned with nothing but onion, salt, and pepper, leaving Samsonov even more desperate to outshine Danya after lunch. See you next time!"
-CLOSING = ("samson", "Пока!")

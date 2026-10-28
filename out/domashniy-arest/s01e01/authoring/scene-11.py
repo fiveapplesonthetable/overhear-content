@@ -1,37 +1,39 @@
-# domashniy-arest/s01e01/scene-11.py
-ID = "domashniy-arest-s01e01-scene-11"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e01-scene-11.
+ID = 'domashniy-arest-s01e01-scene-11'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 1
 SCENE = 11
-TITLE = "Ты же слово дал!  (You Gave Your Word!)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.01"
-SOURCE_FILE = "sources/domashniy-arest/s01/e01.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "samson": "anja", "lydia": "angelina"}
-LABELS = {"anya": "Аркадий", "samson": "Самсон", "lydia": "Лидия Алексеевна"}
+TITLE = 'Ты же слово дал!  (You Gave Your Word!)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'lydia': 'Лидия Алексеевна', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.01'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
 INTRO = "Back at the town hall, Arkady has just finished a phone call planning City Day, with free beer and pop stars from Moscow, all to win votes. Last time, Samson's wife told him he should have accepted the mayor's job offer, silly, humiliating condition and all, so now Samson is back in the mayor's office. Let's listen in Russian first."
-STORY = [
-    ("anya", "О, Самсон. Зачем пришёл?", "Oh, Samson. What have you come for?", [(445, 'О, Самсон'), (447, 'пришел')], "slangy 'Че' -> 'Зачем'"),
-    ("samson", "Один раз.", "Just once.", [(448, 'Один раз')], ""),
-    ("anya", "Что один раз?", "What do you mean, once?", [(449, 'Что один раз')], ""),
-    ("samson", "Ну, то, что ты говорил.", "Well, the thing you said.", [(450, 'то, что ты говорил')], "'это' dropped; the word 'kiss' left to the narrator"),
-    ("anya", "Ну, как хочешь. Лидия Алексеевна, зайдите, пожалуйста!", "Well, as you like. Lidia Alekseyevna, come in, please!", [(451, 'Ну, как хочешь'), (455, 'Лидия Алексеевна, зайдите, пожалуйста')], "two cues joined; 'и охрану пригласите' (and call security) dropped"),
-    ("samson", "Зачем это?", "What's that for?", [(456, 'Зачем это')], ""),
-    ("anya", "Чтобы свидетели были, Самсон.", "So that there are witnesses, Samson.", [(457, 'свидетели были, Самсон')], "colloquial 'Чтоб' -> 'Чтобы'"),
-    ("anya", "Лидия Алексеевна, вы всё видели?", "Lidia Alekseyevna, did you see everything?", [], "new: a clean stand-in for cue 463 (the crude question about 'contact')"),
-    ("lydia", "Да, Аркадий Борисович. Всё видела.", "Yes, Arkady Borisovich. I saw everything.", [], "new: stands in for her one-word answer in cue 464"),
-    ("anya", "Вот теперь мир.", "Now we're at peace.", [(468, 'Вот теперь мир')], ""),
-    ("samson", "Мир, мир. А когда на работу?", "Peace, peace. So when do I start work?", [(469, 'Мир, мир')], "second sentence new: a clean version of cues 470-472 (when do I take over the post?)"),
-    ("anya", "Слушай, Самсон, я тут подумал. Твой начальник — такой опытный специалист.", "Listen, Samson, I've been thinking. Your boss is such an experienced specialist.", [(474, 'Слушай, Самсон, я тут подумал'), (475, 'такой опытный специалист')], "the boss's surname replaced by 'Твой начальник'"),
-    ("anya", "Мы не можем его уволить. Это нехорошо.", "We can't fire him. It's not nice.", [(476, 'уволить'), (479, 'Нехорошо')], "cue 476 simplified ('Не можем мы с тобой его взять и уволить'); 'Это' added"),
-    ("samson", "А кем тогда я буду?", "Then what am I going to be?", [(480, 'Кем тогда я')], "'А' and 'буду' added"),
-    ("anya", "А ты иди на биржу труда. Там есть работа.", "You go to the job centre. There's work there.", [(482, 'на биржу труда')], "'ступай' -> 'иди'; second sentence simplifies cue 483 (there'll surely be some vacancies)"),
-    ("samson", "Ты же слово дал!", "But you gave your word!", [(484, 'Ты же слово дал')], ""),
-    ("anya", "А что я за мэр такой, который держит своё слово?", "And what kind of mayor would I be if I kept my word?", [(485, 'что я за мэр такой, который держит свое слово')], ""),
-]
 OPENER = "Let's go back through it slowly. Arkady has just sent a visitor away when he notices Samson standing at the door, and he's not exactly welcoming."
+TRANSITION = "Right, let's hear the whole scene again from the beginning."
+OUTRO = "That's it for this one. If the vocabulary felt heavy, don't worry: just listen out for the cry about giving your word, and Arkady's cheeky answer. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'О, Самсон. Зачем пришёл?', 'Oh, Samson. What have you come for?', [(445, 'О, Самсон'), (447, 'пришел')], "slangy 'Че' -> 'Зачем'"),
+    ('samson', 'Один раз.', 'Just once.', [(448, 'Один раз')], ''),
+    ('arkady', 'Что один раз?', 'What do you mean, once?', [(449, 'Что один раз')], ''),
+    ('samson', 'Ну, то, что ты говорил.', 'Well, the thing you said.', [(450, 'то, что ты говорил')], "'это' dropped; the word 'kiss' left to the narrator"),
+    ('arkady', 'Ну, как хочешь. Лидия Алексеевна, зайдите, пожалуйста!', 'Well, as you like. Lidia Alekseyevna, come in, please!', [(451, 'Ну, как хочешь'), (455, 'Лидия Алексеевна, зайдите, пожалуйста')], "two cues joined; 'и охрану пригласите' (and call security) dropped"),
+    ('samson', 'Зачем это?', "What's that for?", [(456, 'Зачем это')], ''),
+    ('arkady', 'Чтобы свидетели были, Самсон.', 'So that there are witnesses, Samson.', [(457, 'свидетели были, Самсон')], "colloquial 'Чтоб' -> 'Чтобы'"),
+    ('arkady', 'Лидия Алексеевна, вы всё видели?', 'Lidia Alekseyevna, did you see everything?', [], "new: a clean stand-in for cue 463 (the crude question about 'contact')"),
+    ('lydia', 'Да, Аркадий Борисович. Всё видела.', 'Yes, Arkady Borisovich. I saw everything.', [], 'new: stands in for her one-word answer in cue 464'),
+    ('arkady', 'Вот теперь мир.', "Now we're at peace.", [(468, 'Вот теперь мир')], ''),
+    ('samson', 'Мир, мир. А когда на работу?', 'Peace, peace. So when do I start work?', [(469, 'Мир, мир')], 'second sentence new: a clean version of cues 470-472 (when do I take over the post?)'),
+    ('arkady', 'Слушай, Самсон, я тут подумал. Твой начальник — такой опытный специалист.', "Listen, Samson, I've been thinking. Your boss is such an experienced specialist.", [(474, 'Слушай, Самсон, я тут подумал'), (475, 'такой опытный специалист')], "the boss's surname replaced by 'Твой начальник'"),
+    ('arkady', 'Мы не можем его уволить. Это нехорошо.', "We can't fire him. It's not nice.", [(476, 'уволить'), (479, 'Нехорошо')], "cue 476 simplified ('Не можем мы с тобой его взять и уволить'); 'Это' added"),
+    ('samson', 'А кем тогда я буду?', 'Then what am I going to be?', [(480, 'Кем тогда я')], "'А' and 'буду' added"),
+    ('arkady', 'А ты иди на биржу труда. Там есть работа.', "You go to the job centre. There's work there.", [(482, 'на биржу труда')], "'ступай' -> 'иди'; second sentence simplifies cue 483 (there'll surely be some vacancies)"),
+    ('samson', 'Ты же слово дал!', 'But you gave your word!', [(484, 'Ты же слово дал')], ''),
+    ('arkady', 'А что я за мэр такой, который держит своё слово?', 'And what kind of mayor would I be if I kept my word?', [(485, 'что я за мэр такой, который держит свое слово')], ''),
+]
 WALK = [
     (0, 'О, Самсон.', "'Oh, Samson.' Just a little sound of surprise and the name. Then a short, rather cold question."),
     (0, 'Зачем пришёл?', "'What have you come for?' The first word asks 'what for'. The verb means 'came', and it is in the masculine past form, because Samson is a man. Samson answers with just two words."),
@@ -55,6 +57,3 @@ WALK = [
     (15, None, "'But you gave your word!' The small word after 'you' adds force, something like 'but you did'. And here comes Arkady's answer."),
     (16, None, "'And what kind of mayor would I be if I kept my word?' He turns the normal idea of an honest politician upside down, on purpose. So the promise was revenge, not a job offer, just as he swore as a boy."),
 ]
-TRANSITION = "Right, let's hear the whole scene again from the beginning."
-OUTRO = "That's it for this one. If the vocabulary felt heavy, don't worry: just listen out for the cry about giving your word, and Arkady's cheeky answer. See you next time!"
-CLOSING = ("anya", "Пока!")

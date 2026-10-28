@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Алло, Виктор Степанович, здравствуйте! | Hello, Viktor Stepanovich, good day! | #932 00:52:30: Алло, Виктор Степанович, здравствуйте. | adapted: exact cue |
-| 2 | Губернатор | Здравствуй, Павел. Чего тебе? | Hello, Pavel. What do you want? | #933 00:52:33: Чего тебе? | adapted: adapted cue |
-| 3 | Паша | Это был очень тонкий ход! | That was a very subtle move! | #934 00:52:36: Очень тонкий ход. | adapted: adapted cue |
-| 4 | Паша | Я всё понял, спасибо большое. | I understood everything, thank you very much. | #934 00:52:36: Я все понял, спасибо. | adapted: adapted cue |
-| 5 | Губернатор | И это всё, что ты скажешь? | And is that all you will say? | #935 00:52:40: И все? | adapted: expanded cue |
-| 6 | Паша | Простите меня, пожалуйста, за глупость. | Please forgive me for my foolishness. | #936 00:52:43: Простите меня, пожалуйста. | adapted: expanded cue |
-| 7 | Губернатор | И всё? | And that is all? | #937 00:52:46: И все? | adapted: exact cue |
-| 8 | Паша | Вы гений и выдающийся ум современности! | You are a genius and the greatest mind of our time! | #938 00:52:49: вы гений, макиявели, выдающийся ум современности. | adapted: adapted cue |
-| 9 | Губернатор | Хватит, не подлизывайся слишком сильно. | Enough, do not flatter too much. | #939 00:52:54: Не перелизывай. | adapted: polite adaptation of cue |
-| 10 | Губернатор | Ладно, борись дальше за власть. | Alright, keep fighting for power. | #940 00:52:56: Ладно, борись давай | adapted: adapted cue |
+| 1 | Паша | Алло, Виктор Степанович, здравствуйте! | Hello, Viktor Stepanovich, good day! | #932: Алло, Виктор Степанович, здравствуйте. | adapted: exact cue |
+| 2 | Губернатор | Здравствуй, Павел. Чего тебе? | Hello, Pavel. What do you want? | #933: Чего тебе? | adapted: adapted cue |
+| 3 | Паша | Это был очень тонкий ход! | That was a very subtle move! | #934: Очень тонкий ход. | adapted: adapted cue |
+| 4 | Паша | Я всё понял, спасибо большое. | I understood everything, thank you very much. | #934: Я все понял, спасибо. | adapted: adapted cue |
+| 5 | Губернатор | И это всё, что ты скажешь? | And is that all you will say? | #935: И все? | adapted: expanded cue |
+| 6 | Паша | Простите меня, пожалуйста, за глупость. | Please forgive me for my foolishness. | #936: Простите меня, пожалуйста. | adapted: expanded cue |
+| 7 | Губернатор | И всё? | And that is all? | #937: И все? | adapted: exact cue |
+| 8 | Паша | Вы гений и выдающийся ум современности! | You are a genius and the greatest mind of our time! | #938: вы гений, макиявели, выдающийся ум современности. | adapted: adapted cue |
+| 9 | Губернатор | Хватит, не подлизывайся слишком сильно. | Enough, do not flatter too much. | #939: Не перелизывай. | adapted: polite adaptation of cue |
+| 10 | Губернатор | Ладно, борись дальше за власть. | Alright, keep fighting for power. | #940: Ладно, борись давай | adapted: adapted cue |
 | 11 | Паша | Я обязательно выиграю эти выборы! | I will definitely win these elections! | new | new: added promise |
 | 12 | Губернатор | Тогда работай усердно и не расслабляйся. | Then work hard and do not relax. | new | new: added command |
 | 13 | Паша | Спасибо за поддержку, Виктор Степанович! | Thank you for the support, Viktor Stepanovich! | new | new: added gratitude |

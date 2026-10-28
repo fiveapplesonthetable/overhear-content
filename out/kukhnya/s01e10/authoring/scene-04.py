@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 4
-TITLE = "Низкий гонорар  (A Low Fee)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Низкий гонорар  (A Low Fee)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "girl": "angelina"}
-LABELS = {"chef": "Шеф", "girl": "Девушка"}
+LABELS = {'barinov': 'Шеф', 'girl': 'Девушка'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "In the dining room of Claude Monet, a representative from a television studio meets with Chef Viktor Barinov. Impressed by his past guest appearance, producers want him to become the permanent host of a weekly morning cooking program, but their proposed fee leads to immediate outrage. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine the television negotiation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Furious at the insultingly modest payment offer, Chef Barinov turns his back on television stardom and returns to the comfort of his own high-end restaurant. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'broadcast' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Здравствуйте, я вас внимательно слушаю.', 'Hello, I am listening to you attentively.', [(7, 'Я вас слушаю. Здравствуйте, Виктор')], ''),
+    ('barinov', 'Здравствуйте, я вас внимательно слушаю.', 'Hello, I am listening to you attentively.', [(7, 'Я вас слушаю. Здравствуйте, Виктор')], ''),
     ('girl', 'Вы отлично выступали в нашем кулинарном шоу.', 'You performed wonderfully on our culinary show.', [(8, 'кулинарном шоу?')], ''),
-    ('chef', 'И что решили ваши строгие продюсеры?', 'And what did your strict producers decide?', [(9, 'нашим продюсерам.')], ''),
+    ('barinov', 'И что решили ваши строгие продюсеры?', 'And what did your strict producers decide?', [(9, 'нашим продюсерам.')], ''),
     ('girl', 'Мы хотим предложить вам постоянную работу.', 'We want to offer you a permanent job.', [(10, 'хотят предложить вам')], ''),
-    ('chef', 'Во сколько вы оценили мою работу?', 'At how much did you value my work?', [(12, 'во сколько ваши продюсеры оценили мою работу?')], ''),
+    ('barinov', 'Во сколько вы оценили мою работу?', 'At how much did you value my work?', [(12, 'во сколько ваши продюсеры оценили мою работу?')], ''),
     ('girl', 'Десять тысяч за каждую новую передачу.', 'Ten thousand for each new broadcast.', [(14, 'Десять, десять одна программа.')], ''),
-    ('chef', 'Десять тысяч евро за один выпуск?', 'Ten thousand euros for one episode?', [(15, 'Евро?')], ''),
+    ('barinov', 'Десять тысяч евро за один выпуск?', 'Ten thousand euros for one episode?', [(15, 'Евро?')], ''),
     ('girl', 'Нет, мы платим десять тысяч рублей.', 'No, we pay ten thousand rubles.', [(15, 'Рублей.')], ''),
-    ('chef', 'Тогда до свидания, а лучше прощайте!', 'Then goodbye, or rather farewell!', [(16, 'До свидания. Нет, лучше прощайте.')], ''),
+    ('barinov', 'Тогда до свидания, а лучше прощайте!', 'Then goodbye, or rather farewell!', [(16, 'До свидания. Нет, лучше прощайте.')], ''),
     ('girl', 'Подождите, Виктор, давайте спокойно всё обсудим.', 'Wait, Viktor, let us calmly discuss everything.', [(17, 'Подождите. Давайте мы с вами обсудим.')], ''),
-    ('chef', 'Вы предлагаете работать в мой выходной день.', 'You propose that I work on my day off.', [(18, 'Вы мне предлагаете работать в мой выходной день')], ''),
+    ('barinov', 'Вы предлагаете работать в мой выходной день.', 'You propose that I work on my day off.', [(18, 'Вы мне предлагаете работать в мой выходной день')], ''),
     ('girl', 'Это сделает ваш ресторан очень известным.', 'This will make your restaurant very famous.', [], ''),
-    ('chef', 'Я не работаю за такие смешные копейки!', 'I do not work for such ridiculous kopecks!', [(19, 'да еще за копейки.')], ''),
+    ('barinov', 'Я не работаю за такие смешные копейки!', 'I do not work for such ridiculous kopecks!', [(19, 'да еще за копейки.')], ''),
 ]
 WALK = [
     (0, None, "'Hello, I am listening to you attentively.' Chef Barinov leads with the direct command form meaning 'hello', pairing it with 'attentively' and 'am listening'."),

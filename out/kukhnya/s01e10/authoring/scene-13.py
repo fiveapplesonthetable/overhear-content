@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 13
-TITLE = "Угроза для бармена  (A Threat for the Bartender)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Угроза для бармена  (A Threat for the Bartender)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja"}
-LABELS = {"vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Determined to find out why Max is deliberately avoiding her, art director Victoria corners bartender Kostya with an ultimatum. Faced with the threat of having his girlfriend Nastya moved to a conflicting shift, Kostya cracks under pressure and confesses Max's comedic terror of marriage and children. Let's listen to their lively exchange in Russian first."
 OPENER = "Let's examine how Victoria pressures Kostya in the bar line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Now you know how to talk about workplace leverage, unexpected confessions, and relationship fears in Russian. See you next time!'
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, быстро говори, в чём дело!', 'Kostya, quickly speak, what is the matter!', [(95, 'Костя, или ты мне сейчас говоришь')], ''),
     ('kostya', 'Вика, пожалуйста, перестань меня пугать!', 'Vika, please, stop scaring me!', [], ''),

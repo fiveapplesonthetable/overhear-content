@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 6
-TITLE = "Звонок в инспекцию  (Call to the Inspection)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Звонок в инспекцию  (Call to the Inspection)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
-LABELS = {"senya": "Сеня", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'In the kitchen of Claude Monet, Chef Viktor stands by the window with a triumphant grin. Senya notices his cheerful mood and asks what is going on. Viktor points to the courtyard, where migration inspectors are descending upon Arcobaleno. Let us listen to their conversation in Russian first.'
 OPENER = "Now let us examine Viktor and Senya's conversation at the window line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Satisfied with his successful revenge on Elena Pavlovna, Viktor watches happily as the migration raid throws the rival restaurant into complete disarray. Next time you watch the episode, listen for the Russian expressions for 'why' and 'cheerfully' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, почему вы так весело улыбаетесь?', 'Chef, why are you smiling so cheerfully?', [], ''),
-    ('chef', 'Посмотри во двор на соседний ресторан.', 'Look into the courtyard at the neighboring restaurant.', [], ''),
+    ('barinov', 'Посмотри во двор на соседний ресторан.', 'Look into the courtyard at the neighboring restaurant.', [], ''),
     ('senya', 'Туда только что приехала строгая проверка!', 'A strict inspection just arrived over there!', [], ''),
-    ('chef', 'Да, это специальная служба пришла туда.', 'Yes, that is a special service arriving.', [], ''),
+    ('barinov', 'Да, это специальная служба пришла туда.', 'Yes, that is a special service arriving.', [], ''),
     ('senya', 'Вы сами позвонили в эту инспекцию?', 'Did you call this inspection yourself?', [], ''),
-    ('chef', 'Конечно, они должны уважать правила порядка.', 'Of course, they must respect the rules of order.', [], ''),
+    ('barinov', 'Конечно, они должны уважать правила порядка.', 'Of course, they must respect the rules of order.', [], ''),
     ('senya', 'Теперь их повара будут сильно бегать.', 'Now their cooks will be running around a lot.', [], ''),
-    ('chef', 'Пусть они быстро бегают вокруг здания!', 'Let them quickly run around the building!', [(51, 'Сейчас вы побегаете.')], ''),
+    ('barinov', 'Пусть они быстро бегают вокруг здания!', 'Let them quickly run around the building!', [(51, 'Сейчас вы побегаете.')], ''),
     ('senya', 'Елена Павловна будет очень сильно злиться.', 'Elena Pavlovna will be extremely furious.', [], ''),
-    ('chef', 'Она не должна была ставить машину здесь.', 'She should not have parked her car here.', [], ''),
+    ('barinov', 'Она не должна была ставить машину здесь.', 'She should not have parked her car here.', [], ''),
     ('senya', 'Это действительно очень жестокая маленькая месть.', 'This is indeed very cruel little revenge.', [], ''),
-    ('chef', 'Это справедливый урок для наглых соседей.', 'This is a fair lesson for insolent neighbors.', [], ''),
+    ('barinov', 'Это справедливый урок для наглых соседей.', 'This is a fair lesson for insolent neighbors.', [], ''),
     ('senya', 'Тогда давайте спокойно смотреть в окно!', 'Then let us calmly watch out the window!', [], ''),
 ]
 WALK = [

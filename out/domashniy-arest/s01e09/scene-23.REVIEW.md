@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Марина | Если молчите, я сейчас уйду. | If you stay silent, I will leave now. | #701 00:37:40: Хорошо, вы не прошли цены, я пошла | adapted: adapted cue 701 |
-| 2 | Аня | Подождите, я всё вам расскажу. | Wait, I will tell you everything. | #702 00:37:42: Ну почему же, я скажу | adapted: adapted cue 702 |
-| 3 | Аня | Я спрятал деньги в детском садике. | I hid the money in a kindergarten. | #703 00:37:44: деньги я спрятал в детском садике «Золотой ключик» | adapted: shortened cue 703 |
+| 1 | Марина | Если молчите, я сейчас уйду. | If you stay silent, I will leave now. | #701: Хорошо, вы не прошли цены, я пошла | adapted: adapted cue 701 |
+| 2 | Аркадий | Подождите, я всё вам расскажу. | Wait, I will tell you everything. | #702: Ну почему же, я скажу | adapted: adapted cue 702 |
+| 3 | Аркадий | Я спрятал деньги в детском садике. | I hid the money in a kindergarten. | #703: деньги я спрятал в детском садике «Золотой ключик» | adapted: shortened cue 703 |
 | 4 | Марина | В детском саду? Не может быть! | In a kindergarten? That cannot be! | new | new: shocked reaction |
-| 5 | Аня | Там работает одна моя старая знакомая. | An old female acquaintance of mine works there. | #704 00:37:53: Одна из воспитательниц – моя любовница | adapted: toned down cue 704 |
-| 6 | Аня | Она была моей близкой подругой. | She was a close female friend of mine. | #704 00:37:53: моя любовница<br>#705 00:37:56: Бывшая | adapted: cleaned cue 704-705 |
-| 7 | Аня | Но это было очень давно. | But that was very long ago. | #705 00:37:56: Бывшая | adapted: expanded cue 705 |
-| 8 | Аня | Теперь вы довольны моим ответом? | Are you satisfied with my answer now? | #706 00:37:59: Вы довольны? | adapted: added Теперь and моим ответом |
-| 9 | Марина | А мне это совсем не интересно! | And I am not interested in that at all! | #708 00:38:05: мне вообще неинтересно | adapted: adapted cue 708 |
-| 10 | Марина | Я просто спросила из любопытства. | I simply asked out of curiosity. | #707 00:38:03: я просто так спросила | adapted: adapted cue 707 |
-| 11 | Аня | Вы ревнуете меня к прошлому? | Are you jealous of my past? | new | new: amused observation |
+| 5 | Аркадий | Там работает одна моя старая знакомая. | An old female acquaintance of mine works there. | #704: Одна из воспитательниц – моя любовница | adapted: toned down cue 704 |
+| 6 | Аркадий | Она была моей близкой подругой. | She was a close female friend of mine. | #704: моя любовница<br>#705: Бывшая | adapted: cleaned cue 704-705 |
+| 7 | Аркадий | Но это было очень давно. | But that was very long ago. | #705: Бывшая | adapted: expanded cue 705 |
+| 8 | Аркадий | Теперь вы довольны моим ответом? | Are you satisfied with my answer now? | #706: Вы довольны? | adapted: added Теперь and моим ответом |
+| 9 | Марина | А мне это совсем не интересно! | And I am not interested in that at all! | #708: мне вообще неинтересно | adapted: adapted cue 708 |
+| 10 | Марина | Я просто спросила из любопытства. | I simply asked out of curiosity. | #707: я просто так спросила | adapted: adapted cue 707 |
+| 11 | Аркадий | Вы ревнуете меня к прошлому? | Are you jealous of my past? | new | new: amused observation |
 | 12 | Марина | Ничего подобного, вы мне безразличны! | Nothing of the sort, you mean nothing to me! | new | new: defensive denial |
 
 ## Walk-through narration (English only, no target-language words quoted)

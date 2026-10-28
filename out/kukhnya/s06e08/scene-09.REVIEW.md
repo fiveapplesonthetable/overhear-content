@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Кристина | Слушай, а не слишком дорогой подарок для Кати? | Listen, is that not too expensive a gift for Katya? | #144 00:08:48: Слушай, а не слишком мне дорогой подарок для Кати | adapted: adapted |
-| 2 | Нагиев | Нет, не слишком, ведь это инвестиция. | No, not too much, because it is an investment. | #145 00:08:51: Не слишком<br>#146 00:08:53: Это инвестиции | adapted: adapted |
-| 3 | Нагиев | Я хочу, чтобы её мама дала денег. | I want her mother to give me money. | #147 00:08:56: ее мамаша денег дала | adapted: adapted |
-| 4 | Нагиев | Мне нужны деньги на мой новый фильм. | I need money for my new movie. | #147 00:08:56: на мой новый фильм | adapted: adapted |
-| 5 | Нагиев | Это будет большой фильм о моей жизни. | It will be a big movie about my life. | #148 00:09:01: Фильм обо мне. О моей жизни | adapted: adapted |
-| 6 | Кристина | Скажи, а я в этом фильме буду? | Tell me, and will I be in this movie? | #149 00:09:04: А я там буду | adapted: adapted |
-| 7 | Нагиев | Конечно, ты обязательно там будешь сниматься. | Of course, you will definitely act in it. | #149 00:09:04: Я там буду | adapted: adapted |
-| 8 | Нагиев | Но только если жена нас не увидит! | But only if my wife does not see us! | #150 00:09:06: Если она нас увидит | adapted: adapted |
-| 9 | Нагиев | Так что уходи отсюда как можно быстрее. | So get out of here as fast as possible. | #152 00:09:12: отсюда<br>#153 00:09:14: Иди | adapted: adapted |
-| 10 | Кристина | Ваш гостиничный номер уже полностью готов. | Your hotel room is already completely ready. | #154 00:09:25: Ваш номер готов | adapted: adapted |
-| 11 | Кристина | Разрешите мне проводить вас сейчас наверх? | Allow me to escort you upstairs right now? | #154 00:09:25: Вас проводить | adapted: adapted |
-| 12 | Кристина | Хорошо, проводите меня до моего номера. | Alright, escort me to my room. | #155 00:09:27: Ну, проводи | adapted: adapted |
+| 1 | Кристина | Слушай, а не слишком дорогой подарок для Кати? | Listen, is that not too expensive a gift for Katya? | #144: Слушай, а не слишком мне дорогой подарок для Кати | adapted: adapted |
+| 2 | Нагиев | Нет, не слишком, ведь это инвестиция. | No, not too much, because it is an investment. | #145: Не слишком<br>#146: Это инвестиции | adapted: adapted |
+| 3 | Нагиев | Я хочу, чтобы её мама дала денег. | I want her mother to give me money. | #147: ее мамаша денег дала | adapted: adapted |
+| 4 | Нагиев | Мне нужны деньги на мой новый фильм. | I need money for my new movie. | #147: на мой новый фильм | adapted: adapted |
+| 5 | Нагиев | Это будет большой фильм о моей жизни. | It will be a big movie about my life. | #148: Фильм обо мне. О моей жизни | adapted: adapted |
+| 6 | Кристина | Скажи, а я в этом фильме буду? | Tell me, and will I be in this movie? | #149: А я там буду | adapted: adapted |
+| 7 | Нагиев | Конечно, ты обязательно там будешь сниматься. | Of course, you will definitely act in it. | #149: Я там буду | adapted: adapted |
+| 8 | Нагиев | Но только если жена нас не увидит! | But only if my wife does not see us! | #150: Если она нас увидит | adapted: adapted |
+| 9 | Нагиев | Так что уходи отсюда как можно быстрее. | So get out of here as fast as possible. | #152: отсюда<br>#153: Иди | adapted: adapted |
+| 10 | Михаил | Ваш гостиничный номер уже полностью готов. | Your hotel room is already completely ready. | #154: Ваш номер готов | adapted: adapted |
+| 11 | Михаил | Разрешите мне проводить вас сейчас наверх? | Allow me to escort you upstairs right now? | #154: Вас проводить | adapted: adapted |
+| 12 | Кристина | Хорошо, проводите меня до моего номера. | Alright, escort me to my room. | #155: Ну, проводи | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, is that not too expensive a gift for Katya?' Kristina anchors the line on 'listen', while 'Katya' completes the thought. Dmitry Nagiyev answers right away.
-- 'No, not too much, because it is an investment.' The grammar packs 'no' and 'investment' into a tight, idiomatic kitchen exchange.
-- 'I want her mother to give me money.' In Russian, the idea of 'I' flows naturally into 'money' without extra filler words.
-- 'I need money for my new movie.' In Russian, the idea of 'to me' flows naturally into 'movie' without extra filler words.
-- 'It will be a big movie about my life.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'life'.
-- 'Tell me, and will I be in this movie?' The grammar packs 'say' and 'will be' into a tight, idiomatic kitchen exchange.
-- 'Of course, you will definitely act in it.' Dmitry Nagiyev anchors the line on 'of course', while 'to act' completes the thought.
-- 'But only if my wife does not see us!' The grammar packs 'but' and 'to see' into a tight, idiomatic kitchen exchange.
-- 'So get out of here as fast as possible.' Dmitry Nagiyev anchors the line on 'so', while 'faster' completes the thought.
-- 'Your hotel room is already completely ready.' Mikhail chooses the respectful plural 'you' alongside 'ready' to keep a polite distance.
-- 'Allow me to escort you upstairs right now?' Mikhail anchors the line on 'allow?', while 'upstairs' completes the thought.
-- 'Alright, escort me to my room.' In Russian, the idea of 'well' flows naturally into 'number' without extra filler words.
+- 'Listen, is that not too expensive a gift for Katya?' Checking whether that not too expensive a gift for Katya cuts straight through the tension between Kristina and Mikhail. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'No, not too much, because it is an investment.' Mentioning that not too much because it is an investment moves the talk in a new direction.
+- 'I want her mother to give me money.' Explaining that he wants her mother to give him money lays the cards on the table for Kristina.
+- 'I need money for my new movie.' Nagiyev mentions that he needs money for his new movie so Kristina sees what is at stake.
+- 'It will be a big movie about my life.' Explaining that it will be a big movie about his life lays the cards on the table for Kristina.
+- 'Tell me, and will I be in this movie?' Questioning whether tell her and will she is in this movie is how Kristina tests Mikhail's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Of course, you will definitely act in it.' Claiming that Kristina will definitely act in it sounds confident, even if Kristina has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'But only if my wife does not see us!' Nagiyev declares that only if his wife does not see them as the tension in the room peaks.
+- 'So get out of here as fast as possible.' Adding that Kristina should get out of here as fast as possible fills in the missing piece for Kristina. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Your hotel room is already completely ready.' Realizing that Kristina's hotel room is already completely ready changes how Mikhail handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Allow me to escort you upstairs right now?' Over the kitchen and the secret, Mikhail presses Kristina for a straight answer.
+- 'Alright, escort me to my room.' Between the room and the secret, Kristina gives Mikhail a quick, grounded response.

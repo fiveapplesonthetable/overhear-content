@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Продавщица | Я в долг больше не даю. | I am not giving credit anymore. | #611 00:35:50: в долг больше не даю | verbatim |
-| 2 | Самсон | У меня есть деньги. Дайте шнапс. | I have money. Give me schnapps. | #617 00:36:04: Шнапс | verbatim |
+| 1 | Продавщица | Я в долг больше не даю. | I am not giving credit anymore. | #611: в долг больше не даю | verbatim |
+| 2 | Самсон | У меня есть деньги. Дайте шнапс. | I have money. Give me schnapps. | #617: Шнапс | verbatim |
 | 3 | Продавщица | Какой шнапс? Есть местная бутылка. | What schnapps? There is a local bottle. | new | new: clerk pointing to shelf |
 | 4 | Самсон | Мне всё равно. Давайте её. | It is all the same to me. Give me that one. | new | new: new A1 line for Samsonov buying alcohol |
-| 5 | Самсон | Может, правы мужики были, а? | Maybe the guys were right, huh? | #625 00:36:46: Может, правы мужики были, а | verbatim |
-| 6 | Продавщица | Не смеши меня, Самсонов. В чём правы? | Do not make me laugh, Samsonov. In what were they right? | #627 00:36:50: Не смеши меня, Самсонов | verbatim |
-| 7 | Самсон | В школе я первый на немецкий записался. | In school I was the first to sign up for German. | #630 00:36:56: В школе я первый на немецкий записался сам | verbatim |
-| 8 | Самсон | Все пошли на английский, а я на немецкий. | Everyone went for English, and I for German. | #632 00:37:01: а я говорю, нет, немецкий | verbatim |
+| 5 | Самсон | Может, правы мужики были, а? | Maybe the guys were right, huh? | #625: Может, правы мужики были, а | verbatim |
+| 6 | Продавщица | Не смеши меня, Самсонов. В чём правы? | Do not make me laugh, Samsonov. In what were they right? | #627: Не смеши меня, Самсонов | verbatim |
+| 7 | Самсон | В школе я первый на немецкий записался. | In school I was the first to sign up for German. | #630: В школе я первый на немецкий записался сам | verbatim |
+| 8 | Самсон | Все пошли на английский, а я на немецкий. | Everyone went for English, and I for German. | #632: а я говорю, нет, немецкий | verbatim |
 | 9 | Продавщица | Ну и что с того? | Well, and what of it? | new | new: new conversational A1 question |
-| 10 | Самсон | Почему меня всё бесит вокруг? | Why does everything around here bother me? | #638 00:37:28: все бесит, а | verbatim |
-| 11 | Самсон | Стыки неровные, всё делают тяп-ляп! | The seams are uneven, they do everything slapdash! | #639 00:37:30: Это все стыки неровные<br>#640 00:37:35: все тяп-ляп | verbatim |
-| 12 | Самсон | А в Германии машины хорошие и работают нормально. | And in Germany cars are good and they work properly. | #645 00:37:51: тачки<br>#648 00:37:57: Зато работают нормально | adapted: crude lines in 646-647 omitted |
-| 13 | Продавщица | Ладно, иди домой, Самсон. Пора спать. | Alright, go home, Samson. It is time to sleep. | #650 00:38:00: Ладно, пойду я сам сон | verbatim |
+| 10 | Самсон | Почему меня всё бесит вокруг? | Why does everything around here bother me? | #638: все бесит, а | verbatim |
+| 11 | Самсон | Стыки неровные, всё делают тяп-ляп! | The seams are uneven, they do everything slapdash! | #639: Это все стыки неровные<br>#640: все тяп-ляп | verbatim |
+| 12 | Самсон | А в Германии машины хорошие и работают нормально. | And in Germany cars are good and they work properly. | #645: тачки<br>#648: Зато работают нормально | adapted: crude lines in 646-647 omitted |
+| 13 | Продавщица | Ладно, иди домой, Самсон. Пора спать. | Alright, go home, Samson. It is time to sleep. | #650: Ладно, пойду я сам сон | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

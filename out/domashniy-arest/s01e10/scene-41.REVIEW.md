@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил Михайлович | Что здесь произошло? Отвечайте немедленно! | What happened here? Answer immediately! | #1194 01:08:47: Это что такое?<br>#1195 01:08:51: я вас спрашиваю? | verbatim |
-| 2 | Михаил Михайлович | Всё нормально, дорогой дядя Миша. | Everything is fine, dear Uncle Misha. | #1198 01:09:00: все нормально<br>#1199 01:09:04: дядь Миша | verbatim |
-| 3 | Михаил Михайлович | Наш агент был в бронежилете. | Our agent was wearing body armor. | #1196 01:08:54: Он же в бронике | verbatim |
-| 4 | Михаил Михайлович | Почему вы отпустили его одного? | Why did you let him go alone? | #1200 01:09:07: Вы почему его одного<br>#1201 01:09:13: отпустили? | verbatim |
-| 5 | Михаил Михайлович | Вы просто сидели в своём фургоне! | You were just sitting in your van! | #1201 01:09:13: Сидели там в своем<br>#1202 01:09:16: фургончики | verbatim |
-| 6 | Михаил Михайлович | Я сейчас доложу об этом генералу! | I will report about this to the general now! | #1203 01:09:18: Я проинформирую генерал | verbatim |
-| 7 | Лёва | Дядя Миша, я сам во всём виноват. | Uncle Misha, I am to blame for everything myself. | #1203 01:09:18: Дядь Миш<br>#1204 01:09:29: я сам виноват | verbatim |
-| 8 | Лёва | Я должен был сразу позвонить им. | I should have called them right away. | #1204 01:09:29: Я должен был<br>#1205 01:09:31: им позвонить | verbatim |
-| 9 | Лёва | Но я не стал звонить. | But I didn't call. | #1205 01:09:31: но не стал | verbatim |
-| 10 | Лёва | Я сильно недооценил реальную опасность. | I severely underestimated the real danger. | #1206 01:09:34: Недооценив в опасность | verbatim |
-| 11 | Лёва | Я совершил очень глупый поступок. | I committed a very foolish act. | #1207 01:09:37: Совершил необдуманный поступок | verbatim |
+| 1 | Михаил Михайлович | Что здесь произошло? Отвечайте немедленно! | What happened here? Answer immediately! | #1194: Это что такое?<br>#1195: я вас спрашиваю? | verbatim |
+| 2 | Лавров | Всё нормально, дорогой дядя Миша. | Everything is fine, dear Uncle Misha. | #1198: все нормально<br>#1199: дядь Миша | verbatim |
+| 3 | Лавров | Наш агент был в бронежилете. | Our agent was wearing body armor. | #1196: Он же в бронике | verbatim |
+| 4 | Михаил Михайлович | Почему вы отпустили его одного? | Why did you let him go alone? | #1200: Вы почему его одного<br>#1201: отпустили? | verbatim |
+| 5 | Михаил Михайлович | Вы просто сидели в своём фургоне! | You were just sitting in your van! | #1201: Сидели там в своем<br>#1202: фургончики | verbatim |
+| 6 | Михаил Михайлович | Я сейчас доложу об этом генералу! | I will report about this to the general now! | #1203: Я проинформирую генерал | verbatim |
+| 7 | Лёва | Дядя Миша, я сам во всём виноват. | Uncle Misha, I am to blame for everything myself. | #1203: Дядь Миш<br>#1204: я сам виноват | verbatim |
+| 8 | Лёва | Я должен был сразу позвонить им. | I should have called them right away. | #1204: Я должен был<br>#1205: им позвонить | verbatim |
+| 9 | Лёва | Но я не стал звонить. | But I didn't call. | #1205: но не стал | verbatim |
+| 10 | Лёва | Я сильно недооценил реальную опасность. | I severely underestimated the real danger. | #1206: Недооценив в опасность | verbatim |
+| 11 | Лёва | Я совершил очень глупый поступок. | I committed a very foolish act. | #1207: Совершил необдуманный поступок | verbatim |
 | 12 | Михаил Михайлович | Ты поступил крайне легкомысленно, Соколов. | You acted extremely recklessly, Sokolov. | new | new |
-| 13 | Лёва | Я обещаю, такое больше не повторится. | I promise this will not happen again. | #1194 01:08:47: такое | verbatim |
+| 13 | Лёва | Я обещаю, такое больше не повторится. | I promise this will not happen again. | #1194: такое | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

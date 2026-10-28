@@ -1,20 +1,22 @@
+# Authoring module for kukhnya-s05e16-scene-19.
 ID = 'kukhnya-s05e16-scene-19'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 16
 SCENE = 19
-TITLE = "Поездка в роддом и разоблачение интриг  (The Ride to the Hospital and Unmasking Intrigues)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Поездка в роддом и разоблачение интриг  (The Ride to the Hospital and Unmasking Intrigues)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
-LABELS = {"nikita": "Никита", "katya": "Катя"}
+LABELS = {'katya': 'Катя', 'nikita': 'Никита', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
-
 INTRO = "When Nikita's rented clunker refuses to start in the courtyard, he runs out to the street and flags down his own luxury sports car—astonishing Katya when he takes the wheel himself—while Mikhail discovers Nagiyev in Eleonora's suite."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'As Nikita speeds toward the maternity hospital with Vika and Katya, Kostya calls Max with the real news. Until next time!'
+CLOSING = ('nikita', 'Всего хорошего!')
 STORY = [
-    ('katya', 'Давай быстрее, ты заведёшь когда-нибудь свою старую машину?', 'Hurry up, will you ever get your old car started?', [(310, 'ты заведёшь когда-нибудь свою')], 'adapted'),
+    ('vika', 'Давай быстрее, ты заведёшь когда-нибудь свою старую машину?', 'Hurry up, will you ever get your old car started?', [(310, 'ты заведёшь когда-нибудь свою')], 'adapted'),
     ('nikita', 'Подождите одну секунду, я сейчас поймаю другую машину!', 'Wait one second, I will go catch another car right now!', [(311, 'Я сейчас')], 'adapted'),
     ('katya', 'Куда это он побежал? Лови попутную машину скорее!', 'Where did he run off to? Catch a passing car quickly!', [(312, 'Куда это он')], 'adapted'),
     ('katya', 'Ничего себе, как быстро он поймал такую машину!', 'Wow, how quickly he caught a car like that!', [(314, 'Ничего себе! Быстро поймал')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nikita', 'Но в этом деле очень важно не перестараться.', 'But in this matter it is very important not to overdo it.', [(321, 'Но важно не перестараться')], 'adapted'),
     ('nikita', 'Иначе можно легко стать жертвой собственных хитрых планов!', 'Otherwise you can easily become a victim of your own clever plans!', [(322, 'Иначе можно стать жертвой собственных интриг')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Hurry up, will you ever get your old car started?' Vika anchors the line on 'come on', while 'car' completes the thought."),
-    (1, None, "'Wait one second, I will go catch another car right now!' The meaning hinges on 'wait' working together with 'car' in spoken Russian."),
-    (2, None, "'Where did he run off to? Catch a passing car quickly!' Katya anchors the line on 'where to', while 'quickly' completes the thought."),
-    (3, None, "'Wow, how quickly he caught a car like that!' The grammar packs 'nothing' and 'car' into a tight, idiomatic kitchen exchange."),
-    (4, None, "'Ladies, get inside quickly, we are leaving right away!' Nikita anchors the line on 'a girl', while 'are going' completes the thought."),
-    (5, None, "'Wait, Nikita, is this your own car?' The grammar packs 'wait' and 'machine' into a tight, idiomatic kitchen exchange. Nikita answers right away."),
-    (6, None, "'Katya, let me explain everything to you calmly later!' Nikita anchors the line on 'Katya', while 'will explain' completes the thought."),
-    (7, None, "'Pleasing a beautiful woman is a very tricky science.' The grammar packs 'to be liked' and 'science' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'Sometimes you need to hide the truth a bit to look mysterious.' The meaning hinges on 'sometimes' working together with 'mysteriously' in spoken Russian."),
-    (9, None, "'And you also need to know how to surprise a woman nicely.' In Russian, the idea of 'and' flows naturally into 'to surprise' without extra filler words."),
-    (10, None, "'But in this matter it is very important not to overdo it.' Nikita anchors the line on 'but', while 'overdo it' completes the thought."),
-    (11, None, "'Otherwise you can easily become a victim of your own clever plans!' An emphatic spoken line centered on the verb meaning 'to become'."),
+    (0, None, "'Hurry up, will you ever get your old car started?' Asking whether hurry up will Katya ever get Katya's old car started puts Katya right on the defensive."),
+    (1, None, "'Wait one second, I will go catch another car right now!' Because one second he will go catch another car right now, Nikita does not bother softening the blow for Katya. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (2, None, '\'Where did he run off to? Catch a passing car quickly!\' Asking where he run off cuts straight through the tension between Katya and Nikita. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (3, None, "'Wow, how quickly he caught a car like that!' Once wow how quickly he caught a car like, Katya makes sure Nikita hears every word."),
+    (4, None, "'Ladies, get inside quickly, we are leaving right away!' Declaring that ladies get inside quickly they are leaving right away brings Nikita's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (5, None, '\'Wait, Nikita, is this your own car?\' By asking whether this Nikita\'s own car, Katya presses Nikita for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (6, None, "'Katya, let me explain everything to you calmly later!' Once Katya should let him explain everything to Katya calmly later, Nikita makes sure Katya hears every word."),
+    (7, None, '\'Pleasing a beautiful woman is a very tricky science.\' Explaining that pleasing a beautiful woman is a very tricky science lays the cards on the table for Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (8, None, '\'Sometimes you need to hide the truth a bit to look mysterious.\' Nikita mentions that sometimes Katya needs to hide the truth a bit to look mysterious so Katya sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
+    (9, None, "'And you also need to know how to surprise a woman nicely.' Around the point and hospital, Nikita sets a calm, everyday tone with Katya."),
+    (10, None, "'But in this matter it is very important not to overdo it.' Pointing out that in this matter it is very important not to overdo it gives Katya a sobering reality check."),
+    (11, None, "'Otherwise you can easily become a victim of your own clever plans!' Declaring that otherwise Katya can easily become a victim of Katya's own clever plans brings Nikita's temper right to the surface. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Nikita speeds toward the maternity hospital with Vika and Katya, Kostya calls Max with the real news. Until next time!'
-CLOSING = ("nikita", "Всего хорошего!")

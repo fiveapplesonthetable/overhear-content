@@ -7,8 +7,7 @@ SCENE = 3
 TITLE = "Un verre d'eau  (A Glass of Water)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Catching her breath in her office chair, pregnant agent Andrea receives a glass of water from loyal colleague Gabriel. As her physical discomfort subsides, Gabriel urges her to moderate her intense working schedule for her child's sake. Let's listen to their intimate conversation in French first."
@@ -18,19 +17,19 @@ OUTRO = "Gabriel secures a promise from Andrea to head home early, showing how d
 CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Voici ton verre d'eau fraîche, Andréa.", 'Here is your glass of fresh water, Andrea.', [], ''),
-    ('lea', "C'est bon, la contraction est passée.", 'It is fine, the contraction has passed.', [(57, "C'est bon, c'est passé.")], ''),
+    ('andrea', "C'est bon, la contraction est passée.", 'It is fine, the contraction has passed.', [(57, "C'est bon, c'est passé.")], ''),
     ('gabriel', "Bois un peu d'eau, doucement.", 'Drink a little water, gently.', [], ''),
-    ('lea', 'Merci Gabriel, je me sens déjà mieux.', 'Thank you Gabriel, I already feel better.', [(57, "C'est bon, c'est passé.")], ''),
+    ('andrea', 'Merci Gabriel, je me sens déjà mieux.', 'Thank you Gabriel, I already feel better.', [(57, "C'est bon, c'est passé.")], ''),
     ('gabriel', 'Tu as souvent de telles douleurs?', 'Do you often have such pains?', [], ''),
-    ('lea', 'Parfois, quand je marche trop vite.', 'Sometimes, when I walk too fast.', [], ''),
+    ('andrea', 'Parfois, quand je marche trop vite.', 'Sometimes, when I walk too fast.', [], ''),
     ('gabriel', 'Tu devrais vraiment ralentir le rythme.', 'You should really slow down the pace.', [], ''),
-    ('lea', 'Impossible avec tous mes rendez-vous importants!', 'Impossible with all my important meetings!', [], ''),
+    ('andrea', 'Impossible avec tous mes rendez-vous importants!', 'Impossible with all my important meetings!', [], ''),
     ('gabriel', 'La santé de ton bébé passe avant.', 'The health of your baby comes first.', [], ''),
-    ('lea', 'Je le sais bien, mon cher Gabriel.', 'I know it well, my dear Gabriel.', [(57, "C'est bon, c'est passé.")], ''),
+    ('andrea', 'Je le sais bien, mon cher Gabriel.', 'I know it well, my dear Gabriel.', [(57, "C'est bon, c'est passé.")], ''),
     ('gabriel', 'Promets-moi de te reposer ce soir.', 'Promise me to rest tonight.', [], ''),
-    ('lea', "D'accord, je vais rentrer plus tôt.", 'All right, I am going to go home earlier.', [], ''),
+    ('andrea', "D'accord, je vais rentrer plus tôt.", 'All right, I am going to go home earlier.', [], ''),
     ('gabriel', 'Je surveillerai ton départ du bureau.', 'I will keep an eye on your departure from the office.', [], ''),
-    ('lea', 'Tu es vraiment un ami formidable!', 'You are truly a wonderful friend!', [], ''),
+    ('andrea', 'Tu es vraiment un ami formidable!', 'You are truly a wonderful friend!', [], ''),
 ]
 WALK = [
     (0, None, "'Here is your glass of fresh water, Andrea.' A helpful presentative introducing refreshing water. The key noun here means 'drinking glass', anchored by its matching French article."),

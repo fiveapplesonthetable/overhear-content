@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 11
-TITLE = "Разбитое сердце  (Broken Heart)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Разбитое сердце  (Broken Heart)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "girl": "angelina", "anya": "alisa"}
-LABELS = {"girl": "Девушка", "anya": "Макс"}
+LABELS = {'girl': 'Девушка', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'In the dining room near the entrance of Claude Monet, an upset young woman stops Max. Furious about his past behavior, she accuses him of being a liar and demands that he never contact her again. Let us listen to their tense exchange in Russian first.'
 OPENER = "Now let us examine the woman and Max's angry confrontation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Stunned by the unexpected encounter and harsh rejection, Max is left standing in the dining room while the offended guest storms off. Next time you watch the episode, listen for the Russian expressions for 'to break' and 'poor' — you will catch every word right away. See you next time!"
-CLOSING = ("girl", "Пока!")
+CLOSING = ('girl', 'Пока!')
 STORY = [
     ('girl', 'Макс, ты разбил моё бедное сердце!', 'Max, you broke my poor heart!', [(172, 'разбил мое сердце, подлый бабник.')], ''),
-    ('anya', 'Подожди, давай спокойно поговорим об этом.', 'Wait, let us talk calmly about this.', [], ''),
+    ('max', 'Подожди, давай спокойно поговорим об этом.', 'Wait, let us talk calmly about this.', [], ''),
     ('girl', 'Ты просто ужасный и подлый обманщик!', 'You are simply a terrible and vile deceiver!', [(172, 'подлый бабник')], ''),
-    ('anya', 'Я не хотел обидеть тебя тогда.', 'I did not want to offend you back then.', [], ''),
+    ('max', 'Я не хотел обидеть тебя тогда.', 'I did not want to offend you back then.', [], ''),
     ('girl', 'Ты обещал звонить мне каждый день.', 'You promised to call me every single day.', [], ''),
-    ('anya', 'У меня было очень много работы.', 'I had a huge amount of work.', [], ''),
+    ('max', 'У меня было очень много работы.', 'I had a huge amount of work.', [], ''),
     ('girl', 'Забудь навсегда мой личный номер телефона!', 'Forget my personal phone number forever!', [(173, 'Забудь мой номер телефона.')], ''),
-    ('anya', 'Не злись, пожалуйста, выслушай меня сейчас.', 'Do not be angry, please, listen to me now.', [], ''),
+    ('max', 'Не злись, пожалуйста, выслушай меня сейчас.', 'Do not be angry, please, listen to me now.', [], ''),
     ('girl', 'Забудь, что у меня вообще есть телефон!', 'Forget that I even have a phone at all!', [(174, 'Забудь, что у меня в принципе есть телефон.')], ''),
-    ('anya', 'Мне искренне жаль, прости меня, пожалуйста.', 'I am sincerely sorry, forgive me, please.', [], ''),
+    ('max', 'Мне искренне жаль, прости меня, пожалуйста.', 'I am sincerely sorry, forgive me, please.', [], ''),
     ('girl', 'Я больше никогда не поверю тебе.', 'I will never believe you anymore.', [], ''),
-    ('anya', 'Дай мне один маленький последний шанс.', 'Give me one small last chance.', [], ''),
+    ('max', 'Дай мне один маленький последний шанс.', 'Give me one small last chance.', [], ''),
     ('girl', 'Уходи немедленно, я не хочу слушать!', 'Leave immediately, I do not want to listen!', [], ''),
 ]
 WALK = [

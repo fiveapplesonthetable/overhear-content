@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 13
-TITLE = "В поисках ключа  (In Search of the Key)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'В поисках ключа  (In Search of the Key)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
-LABELS = {"senya": "Сеня", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Focused on in search of the key, Viktor Petrovich is asked to open the fridge. He pretends to need the spare key. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Viktor Petrovich is asked to open the fridge. He pretends to need the spare key. Next time you watch the episode, listen for the Russian expressions for 'inspector' and 'here' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('inspector', 'Пока!')
 STORY = [
-    ('chef', 'Инспектор здесь.', 'The inspector is here.', [], ''),
+    ('barinov', 'Инспектор здесь.', 'The inspector is here.', [], ''),
     ('senya', 'Я знаю.', 'I know.', [], ''),
-    ('chef', 'Он хочет проверить кухню.', 'He wants to check the kitchen.', [], ''),
+    ('barinov', 'Он хочет проверить кухню.', 'He wants to check the kitchen.', [], ''),
     ('senya', 'Пусть проверяет.', 'Let him check.', [], ''),
-    ('chef', 'Он ищет нелегалов.', 'He is looking for illegals.', [], ''),
+    ('barinov', 'Он ищет нелегалов.', 'He is looking for illegals.', [], ''),
     ('senya', 'У нас их нет.', 'We do not have them.', [], ''),
-    ('chef', 'Где Федя?', 'Where is Fedya?', [], ''),
+    ('barinov', 'Где Федя?', 'Where is Fedya?', [], ''),
     ('senya', 'Он в холодильнике.', 'He is in the fridge.', [], ''),
-    ('chef', 'Отлично.', 'Excellent.', [], ''),
-    ('senya', 'Виктор Петрович, будьте любезны.', 'Viktor Petrovich, would you be so kind.', [(168, 'Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник.')], ''),
-    ('senya', 'Откройте, пожалуйста, холодильник.', 'Open the fridge, please.', [(168, 'Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник.')], ''),
-    ('senya', 'Я жду.', 'I am waiting.', [], ''),
+    ('barinov', 'Отлично.', 'Excellent.', [], ''),
+    ('inspector', 'Виктор Петрович, будьте любезны.', 'Viktor Petrovich, would you be so kind.', [(168, 'Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник.')], ''),
+    ('inspector', 'Откройте, пожалуйста, холодильник.', 'Open the fridge, please.', [(168, 'Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник.')], ''),
+    ('inspector', 'Я жду.', 'I am waiting.', [], ''),
 ]
 WALK = [
     (0, None, "'The inspector is here.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'inspector' straight to 'here'."),

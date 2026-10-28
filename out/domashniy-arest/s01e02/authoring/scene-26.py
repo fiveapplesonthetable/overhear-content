@@ -1,37 +1,39 @@
-# domashniy-arest/s01e02/scene-26.py
-ID = "domashniy-arest-s01e02-scene-26"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-26.
+ID = 'domashniy-arest-s01e02-scene-26'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 26
-TITLE = "Путёвки в Крым  (A Trip to Crimea)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "boss": "anja", "foreman": "angelina"}
-LABELS = {"boss": "Николай Филиппович", "foreman": "Прораб"}
+TITLE = 'Путёвки в Крым  (A Trip to Crimea)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'boss': 'Николай Филиппович', 'foreman': 'Прораб', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Now we go over to the building site, where Samson works. Last time, two agents asked Marina to spy on Arkady; she refused, but they left their card. Here Samson's boss, Nikolai, has called him into the site cabin, poured him a drink, and wants to know why Samson can't stand him. We'll hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("boss", "Ты смотришь на меня так, как будто убить хочешь.", "You look at me as if you want to kill me.", [(862, 'смотришь на меня так, как будто убить хочешь')], "'вот' dropped"),
-    ("boss", "Нормально я на тебя смотрю. Ты чего?", "I'm looking at you normally. What's up with you?", [(863, 'нормально я на тебя смотрю'), (863, 'Ты чего')], ""),
-    ("boss", "Скажи мне в глаза. За что ты меня так ненавидишь?", "Say it to my face. Why do you hate me so much?", [(868, 'мне в глаза'), (859, 'за что ты меня так ненавидишь')], "cues 859 and 866-868 joined and reordered; 'говори' -> 'скажи'"),
-    ("boss", "Хорошо. Вот смотри, Николай.", "All right. Look, Nikolai.", [(869, 'Хорошо'), (870, 'Вот смотри, Николай')], ""),
-    ("boss", "Ты мне сейчас водку наливаешь, да?", "Right now you're pouring me vodka, aren't you?", [(872, 'ты мне сейчас водку наливаешь, да')], "'Вот' dropped"),
-    ("boss", "Да.", "Yes.", [(873, 'Да')], ""),
-    ("boss", "А сам французский коньяк пьёшь.", "And you're drinking French cognac yourself.", [(874, 'французский')], "'На самом деле ... коньячок потягиваешь' -> 'А сам ... коньяк пьёшь'"),
-    ("boss", "Ну, тебе какая разница, что пить?", "Well, what difference does it make to you what you drink?", [(878, 'тебе какая разница')], "slang 'бухать' -> 'пить'"),
-    ("boss", "Ты что, думаешь, я жадный?", "What, you think I'm stingy?", [(885, 'Ты что, думаешь, я жадный')], ""),
-    ("boss", "Думаю, жадный.", "I think you're stingy.", [(886, 'Думаю, жадный')], ""),
-    ("boss", "Я не жадный. Я разумный. Вот, это тебе.", "I'm not stingy. I'm sensible. Here, this is for you.", [(890, 'Я не жадный'), (891, 'Я разумный')], "'Вот, это тебе' is a plain version of cues 895-897"),
-    ("boss", "Что это?", "What's this?", [], "glue line"),
-    ("boss", "Путёвки на двоих, в Крым. Март, начало сезона.", "Holiday vouchers for two, to Crimea. March, the start of the season.", [(898, 'путевки на двоих'), (899, 'В Крым'), (901, 'начало сезона')], "'Это' and 'месяц' dropped; 'Профсоюз выдал' (the union gave them out) left to the narrator"),
-    ("boss", "Подожди, там же в марте холодно!", "Hold on, it's cold there in March!", [(904, 'Подожди, там же в марте')], "slang 'колотун' (freezing) -> 'холодно'"),
-    ("foreman", "Плохой бетон привезли. Самсон, ты зря радиаторы носил.", "They've delivered bad concrete. Samson, you carried those radiators for nothing.", [(909, 'бетон привезли'), (910, 'Самсон, ты зря радиаторы')], "'Вместо трёхсотого 150-й' (the wrong grade) -> 'Плохой'; 'таскал' -> 'носил'; 'похоже' dropped"),
-    ("foreman", "И ещё. Никто в бригаде не хочет в Крым в марте.", "And another thing. Nobody on the crew wants to go to Crimea in March.", [(914, 'в бригаде'), (915, 'Никто не хочет')], "cues 914-915 simplified, the rude adjective about Crimea and 'ехать' dropped; the boss's swearing (912) left out"),
-    ("boss", "Врут. Врут.", "They're lying. They're lying.", [(917, 'Врут. Врут')], ""),
-]
 OPENER = "Let's go back through it. The two men are sitting at a little table in the cabin, and Nikolai starts with a complaint."
+TRANSITION = 'Right, once more from the top, in the cabin.'
+OUTRO = "That's all for now; don't worry if the drinking talk went by fast, just listen for the bit about lying, and the boss's present. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('boss', 'Ты смотришь на меня так, как будто убить хочешь.', 'You look at me as if you want to kill me.', [(862, 'смотришь на меня так, как будто убить хочешь')], "'вот' dropped"),
+    ('samson', 'Нормально я на тебя смотрю. Ты чего?', "I'm looking at you normally. What's up with you?", [(863, 'нормально я на тебя смотрю'), (863, 'Ты чего')], ''),
+    ('boss', 'Скажи мне в глаза. За что ты меня так ненавидишь?', 'Say it to my face. Why do you hate me so much?', [(868, 'мне в глаза'), (859, 'за что ты меня так ненавидишь')], "cues 859 and 866-868 joined and reordered; 'говори' -> 'скажи'"),
+    ('samson', 'Хорошо. Вот смотри, Николай.', 'All right. Look, Nikolai.', [(869, 'Хорошо'), (870, 'Вот смотри, Николай')], ''),
+    ('samson', 'Ты мне сейчас водку наливаешь, да?', "Right now you're pouring me vodka, aren't you?", [(872, 'ты мне сейчас водку наливаешь, да')], "'Вот' dropped"),
+    ('boss', 'Да.', 'Yes.', [(873, 'Да')], ''),
+    ('samson', 'А сам французский коньяк пьёшь.', "And you're drinking French cognac yourself.", [(874, 'французский')], "'На самом деле ... коньячок потягиваешь' -> 'А сам ... коньяк пьёшь'"),
+    ('boss', 'Ну, тебе какая разница, что пить?', 'Well, what difference does it make to you what you drink?', [(878, 'тебе какая разница')], "slang 'бухать' -> 'пить'"),
+    ('boss', 'Ты что, думаешь, я жадный?', "What, you think I'm stingy?", [(885, 'Ты что, думаешь, я жадный')], ''),
+    ('samson', 'Думаю, жадный.', "I think you're stingy.", [(886, 'Думаю, жадный')], ''),
+    ('boss', 'Я не жадный. Я разумный. Вот, это тебе.', "I'm not stingy. I'm sensible. Here, this is for you.", [(890, 'Я не жадный'), (891, 'Я разумный')], "'Вот, это тебе' is a plain version of cues 895-897"),
+    ('samson', 'Что это?', "What's this?", [], 'glue line'),
+    ('boss', 'Путёвки на двоих, в Крым. Март, начало сезона.', 'Holiday vouchers for two, to Crimea. March, the start of the season.', [(898, 'путевки на двоих'), (899, 'В Крым'), (901, 'начало сезона')], "'Это' and 'месяц' dropped; 'Профсоюз выдал' (the union gave them out) left to the narrator"),
+    ('samson', 'Подожди, там же в марте холодно!', "Hold on, it's cold there in March!", [(904, 'Подожди, там же в марте')], "slang 'колотун' (freezing) -> 'холодно'"),
+    ('foreman', 'Плохой бетон привезли. Самсон, ты зря радиаторы носил.', "They've delivered bad concrete. Samson, you carried those radiators for nothing.", [(909, 'бетон привезли'), (910, 'Самсон, ты зря радиаторы')], "'Вместо трёхсотого 150-й' (the wrong grade) -> 'Плохой'; 'таскал' -> 'носил'; 'похоже' dropped"),
+    ('foreman', 'И ещё. Никто в бригаде не хочет в Крым в марте.', 'And another thing. Nobody on the crew wants to go to Crimea in March.', [(914, 'в бригаде'), (915, 'Никто не хочет')], "cues 914-915 simplified, the rude adjective about Crimea and 'ехать' dropped; the boss's swearing (912) left out"),
+    ('boss', 'Врут. Врут.', "They're lying. They're lying.", [(917, 'Врут. Врут')], ''),
+]
 WALK = [
     (0, None, "'You look at me as if you want to kill me.' The phrase in the middle means 'as if'. The verb 'look' takes a little word meaning 'at', just like in English. Samson plays innocent."),
     (1, 'Нормально я на тебя смотрю.', "'I'm looking at you normally.' The first word is the handy everyday word for 'normally', 'fine'. Then two short words back at him."),
@@ -56,6 +58,3 @@ WALK = [
     (15, None, "'And another thing. Nobody on the crew wants to go to Crimea in March.' So the boss's generous present is something nobody else wanted. Nikolai has a two-word answer."),
     (16, None, "'They're lying. They're lying.' The verb means 'to lie', 'to tell lies', and it's in the plural: they all lie. Samson has his vouchers now, whether he likes it or not."),
 ]
-TRANSITION = "Right, once more from the top, in the cabin."
-OUTRO = "That's all for now; don't worry if the drinking talk went by fast, just listen for the bit about lying, and the boss's present. See you next time!"
-CLOSING = ("boss", "Пока!")

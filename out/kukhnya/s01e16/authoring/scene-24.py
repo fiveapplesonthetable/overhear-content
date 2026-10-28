@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 24
-TITLE = "Не мой паштет  (Not My Pâté)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Не мой паштет  (Not My Pâté)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "The Chef tastes the pâté that Maks prepared. Maks is waiting for a compliment. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Not My Pâté line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The Chef tastes the pâté that Maks prepared. Maks is waiting for a compliment. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'not bad' and 'only' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('chef', 'Неплохо.', 'Not bad.', [(291, 'Неплохо.')], ''),
-    ('anya', 'Да?', 'Huh?', [(291, 'Да?')], ''),
-    ('chef', 'Только это не мой паштет.', "Only this isn't my pâté.", [(292, 'Только это не мой паштет.')], ''),
-    ('anya', 'Как?', 'What?', [(293, 'Как?')], ''),
-    ('anya', 'Та же консистенция.', 'Same texture.', [(293, 'Та же консистенция.')], ''),
-    ('anya', 'И состав я подобрал.', 'And I got the ingredients right.', [(294, 'И состав я подобрал.')], ''),
-    ('anya', 'Подождите.', 'Wait.', [(294, 'Подождите.')], ''),
-    ('anya', 'Что входит в ваш паштет?', 'What goes into your pâté?', [(295, 'Что входит в ваш паштет?')], ''),
-    ('chef', 'Это секрет.', 'This is a secret.', [], ''),
-    ('chef', 'Пойдём.', "Let's go.", [(296, 'Пойдем')], ''),
-    ('chef', 'Посмотрим.', 'Take a look.', [(296, 'посмотрим.')], ''),
-    ('anya', 'Хорошо.', 'Good.', [], ''),
+    ('barinov', 'Неплохо.', 'Not bad.', [(291, 'Неплохо.')], ''),
+    ('max', 'Да?', 'Huh?', [(291, 'Да?')], ''),
+    ('barinov', 'Только это не мой паштет.', "Only this isn't my pâté.", [(292, 'Только это не мой паштет.')], ''),
+    ('max', 'Как?', 'What?', [(293, 'Как?')], ''),
+    ('max', 'Та же консистенция.', 'Same texture.', [(293, 'Та же консистенция.')], ''),
+    ('max', 'И состав я подобрал.', 'And I got the ingredients right.', [(294, 'И состав я подобрал.')], ''),
+    ('max', 'Подождите.', 'Wait.', [(294, 'Подождите.')], ''),
+    ('max', 'Что входит в ваш паштет?', 'What goes into your pâté?', [(295, 'Что входит в ваш паштет?')], ''),
+    ('barinov', 'Это секрет.', 'This is a secret.', [], ''),
+    ('barinov', 'Пойдём.', "Let's go.", [(296, 'Пойдем')], ''),
+    ('barinov', 'Посмотрим.', 'Take a look.', [(296, 'посмотрим.')], ''),
+    ('max', 'Хорошо.', 'Good.', [], ''),
 ]
 WALK = [
     (0, None, "'Not bad.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'not bad'."),

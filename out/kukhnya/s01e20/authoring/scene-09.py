@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 9
-TITLE = "Новый шаг  (A New Step)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новый шаг  (A New Step)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Nastya pushes Kostya to take the next big step in their relationship, and we will listen to their dialogue in Russian first; do not worry about catching every single word.'
 OPENER = "Now let's go back through the exchange around A New Step line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya is terrified to learn that her parents are coming to visit them. Next time you watch the episode, listen for the Russian expressions for 'now' and 'to give' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'А теперь давай поговорим.', 'Now let us talk.', [(143, 'теперь давай поговорим.')], ''),
     ('nastya', 'Помнишь, мы должны делать новый шаг?', 'Remember, we should take a new step?', [], ''),

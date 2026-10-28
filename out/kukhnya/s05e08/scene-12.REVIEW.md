@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Юля, я провожу вас в номер. | Yulya, I will escort you to your room. | #134 00:14:33: Юля, я провожу вас в номер | adapted: adapted |
-| 2 | Гость | Ваш муж хочет навестить вас после ужина. | Your husband wants to visit you after dinner. | #135 00:14:34: Ваш муж хочет навестить вас после ужина | adapted: adapted |
-| 3 | Катя | Мне нужно ненадолго отлучиться. | I need to step away for a moment. | #136 00:14:38: Мне<br>#137 00:14:48: нужно | adapted: adapted |
-| 4 | Гость | Вы же не говорите по-арабски. | You do not speak Arabic, after all. | #137 00:14:48: Вы же<br>#137 00:14:48: по-арабски | adapted: adapted |
-| 5 | Гость | Да, конечно, я буду рядом. | Yes, of course, I will be nearby. | #138 00:14:51: Да, конечно<br>#138 00:14:51: я буду рядом | adapted: adapted |
-| 6 | Гость | Прошу вас, проходите аккуратно. | Please, walk carefully. | #140 00:14:56: Прошу, аккуратно | adapted: adapted |
-| 7 | Гость | На складе Насти тоже нет. | Nastya is not in the storage room either. | #141 00:15:06: тоже нет | adapted: adapted |
-| 8 | Катя | Не парься, может, просто Настя в туалете? | Do not worry, maybe Nastya is simply in the restroom? | #142 00:15:08: может, просто Настя в туалете | adapted: adapted |
-| 9 | Гость | Она уже целый час не отвечает. | She has not answered for a whole hour already. | #141 00:15:06: тоже нет | adapted: adapted |
-| 10 | Катя | Мне срочно нужно увидеть папу! | I urgently need to see Dad! | #136 00:14:38: Мне | adapted: adapted |
-| 11 | Гость | Пойдём проверим коридор. | Let us go check the corridor. | #142 00:15:08: просто Настя в туалете | adapted: adapted |
-| 12 | Гость | Я подожду вас у двери. | I will wait for you by the door. | #138 00:14:51: я буду рядом | adapted: adapted |
+| 1 | Гость | Юля, я провожу вас в номер. | Yulya, I will escort you to your room. | #134: Юля, я провожу вас в номер | adapted: adapted |
+| 2 | Гость | Ваш муж хочет навестить вас после ужина. | Your husband wants to visit you after dinner. | #135: Ваш муж хочет навестить вас после ужина | adapted: adapted |
+| 3 | Катя | Мне нужно ненадолго отлучиться. | I need to step away for a moment. | #136: Мне<br>#137: нужно | adapted: adapted |
+| 4 | Гость | Вы же не говорите по-арабски. | You do not speak Arabic, after all. | #137: Вы же<br>#137: по-арабски | adapted: adapted |
+| 5 | Гость | Да, конечно, я буду рядом. | Yes, of course, I will be nearby. | #138: Да, конечно<br>#138: я буду рядом | adapted: adapted |
+| 6 | Гость | Прошу вас, проходите аккуратно. | Please, walk carefully. | #140: Прошу, аккуратно | adapted: adapted |
+| 7 | Костя | На складе Насти тоже нет. | Nastya is not in the storage room either. | #141: тоже нет | adapted: adapted |
+| 8 | Катя | Не парься, может, просто Настя в туалете? | Do not worry, maybe Nastya is simply in the restroom? | #142: может, просто Настя в туалете | adapted: adapted |
+| 9 | Костя | Она уже целый час не отвечает. | She has not answered for a whole hour already. | #141: тоже нет | adapted: adapted |
+| 10 | Катя | Мне срочно нужно увидеть папу! | I urgently need to see Dad! | #136: Мне | adapted: adapted |
+| 11 | Костя | Пойдём проверим коридор. | Let us go check the corridor. | #142: просто Настя в туалете | adapted: adapted |
+| 12 | Гость | Я подожду вас у двери. | I will wait for you by the door. | #138: я буду рядом | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yulya, I will escort you to your room.' Spoken Russian keeps this brisk, leaning on 'Yulya' and finishing on 'number'.
-- 'Your husband wants to visit you after dinner.' the guest anchors the line on 'your', while 'dinner' completes the thought.
-- 'I need to step away for a moment.' The grammar packs 'to me' and 'to step away briefly' into a tight, idiomatic kitchen exchange.
-- 'You do not speak Arabic, after all.' Here the Russian phrasing highlights 'you' before landing on 'in Arabic'.
-- 'Yes, of course, I will be nearby.' In Russian, the idea of 'yes' flows naturally into 'beside' without extra filler words.
-- 'Please, walk carefully.' The meaning hinges on 'ask for' working together with 'carefully' in spoken Russian.
-- 'Nastya is not in the storage room either.' Notice how Russian expresses 'on' and 'no' with crisp inflection rather than helper words. Katya answers right away.
-- 'Do not worry, maybe Nastya is simply in the restroom?' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'restroom'.
-- 'She has not answered for a whole hour already.' In Russian, the idea of 'she' flows naturally into 'is responsible' without extra filler words.
-- 'I urgently need to see Dad!' Spoken Russian keeps this brisk, leaning on 'to me' and finishing on 'daddy'. Kostya answers right away.
-- 'Let us go check the corridor.' The grammar packs 'let's go' and 'hall' into a tight, idiomatic kitchen exchange.
-- 'I will wait for you by the door.' Here the Russian phrasing highlights 'I' before landing on 'door'.
+- 'Yulya, I will escort you to your room.' Admitting that Yulya he will escort Katya to Katya's room shows the guest being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Your husband wants to visit you after dinner.' Saying that Katya's husband wants to visit Katya after dinner is how the guest sets the tone with Katya.
+- 'I need to step away for a moment.' Once she needs to step away for a moment, Katya can finally tell the guest what she means. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'You do not speak Arabic, after all.' Adding that Katya does not speak after all fills in the missing piece for Katya. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Yes, of course, I will be nearby.' Saying that he will be nearby is how the guest sets the tone with Katya.
+- 'Please, walk carefully.' Saying that Katya should walk carefully is how the guest sets the tone with Katya. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Nastya is not in the storage room either.' Mentioning that Nastya is not in the storage room either moves the talk in a new direction.
+- 'Do not worry, maybe Nastya is simply in the restroom?' Asking whether not worry maybe Nastya is simply in the restroom cuts straight through the tension between Katya and the guest.
+- 'She has not answered for a whole hour already.' Because she has not answered for a whole hour already, Kostya treats the matter as settled.
+- 'I urgently need to see Dad!' Between the visit and the point, Katya delivers a sharp reaction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Let us go check the corridor.' Adding that they should go check the corridor fills in the missing piece for the guest.
+- 'I will wait for you by the door.' Claiming that he will wait for Katya by the door sounds confident, even if Katya has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.

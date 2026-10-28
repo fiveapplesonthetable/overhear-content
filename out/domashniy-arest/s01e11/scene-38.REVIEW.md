@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Лавров | Значит, меня не выгонят со службы? | Does that mean I won't be fired from service? | new | new: job secured |
 | 7 | Лёва | Ты остаёшься майором, Анатолий. | You remain a major, Anatoliy. | new | new: rank confirmed |
 | 8 | Лавров | Какое это огромное облегчение для меня! | What a huge relief this is for me! | new | new: relief expressed |
-| 9 | Лёва | Мы теперь снова коллеги! | We are colleagues again now! | #1151 01:10:33: Мы теперь снова коллеги. | adapted: colleagues again |
+| 9 | Лёва | Мы теперь снова коллеги! | We are colleagues again now! | #1151: Мы теперь снова коллеги. | adapted: colleagues again |
 | 10 | Лавров | Я очень рад работать с тобой. | I am very glad to work with you. | new | new: partnership confirmed |
 | 11 | Лёва | Тогда садись скорее за аппаратуру. | Then sit down at the surveillance equipment quickly. | new | new: back to work |
 | 12 | Лавров | Надо следить за каждым шагом кандидата. | We must monitor every step of the candidate. | new | new: focus on mission |

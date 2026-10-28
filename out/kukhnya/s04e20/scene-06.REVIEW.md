@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Давай выпьем за нашу долгую дружбу! | Let's drink to our long friendship! | #82 00:05:52: Выпьем<br>#83 00:05:58: дружбу | adapted: adapted |
-| 2 | Шеф | Дима, может, всё-таки сегодня не надо? | Dima, maybe we really shouldn't today? | #83 00:05:58: Дим, может, не надо | adapted: adapted |
-| 3 | Шеф | Мне ещё завтра в шоу выступать. | I still have to perform on the show tomorrow. | #84 00:06:00: Мне еще завтра в твоем шоу выступать | adapted: adapted |
-| 4 | Нагиев | А мне это шоу завтра вести! | And I have to host that show tomorrow! | #86 00:06:04: Мне же увезти, я пью | adapted: adapted |
-| 5 | Нагиев | Кого мы вообще боимся, мой друг? | Who are we even afraid of, my friend? | #87 00:06:06: Кого мы боимся | adapted: adapted |
-| 6 | Шеф | Зачем ты к этому растению пристал? | Why are you bothering that plant? | #93 00:06:35: К растению пристал | adapted: adapted |
-| 7 | Шеф | Смотри, у нас на столе закуска. | Look, we have snacks on the table. | #94 00:06:36: У нас вон<br>#95 00:06:39: Стол ломится | adapted: adapted |
-| 8 | Нагиев | Подожди, почему твой цветок пахнет виски? | Wait, why does your flower smell like whisky? | #96 00:06:43: Почему цветок виски | adapted: adapted |
-| 9 | Шеф | Не знаю, почему он так пахнет. | I do not know why it smells like that. | #97 00:06:45: Не знаю | adapted: adapted |
+| 1 | Нагиев | Давай выпьем за нашу долгую дружбу! | Let's drink to our long friendship! | #82: Выпьем<br>#83: дружбу | adapted: adapted |
+| 2 | Шеф | Дима, может, всё-таки сегодня не надо? | Dima, maybe we really shouldn't today? | #83: Дим, может, не надо | adapted: adapted |
+| 3 | Шеф | Мне ещё завтра в шоу выступать. | I still have to perform on the show tomorrow. | #84: Мне еще завтра в твоем шоу выступать | adapted: adapted |
+| 4 | Нагиев | А мне это шоу завтра вести! | And I have to host that show tomorrow! | #86: Мне же увезти, я пью | adapted: adapted |
+| 5 | Нагиев | Кого мы вообще боимся, мой друг? | Who are we even afraid of, my friend? | #87: Кого мы боимся | adapted: adapted |
+| 6 | Шеф | Зачем ты к этому растению пристал? | Why are you bothering that plant? | #93: К растению пристал | adapted: adapted |
+| 7 | Шеф | Смотри, у нас на столе закуска. | Look, we have snacks on the table. | #94: У нас вон<br>#95: Стол ломится | adapted: adapted |
+| 8 | Нагиев | Подожди, почему твой цветок пахнет виски? | Wait, why does your flower smell like whisky? | #96: Почему цветок виски | adapted: adapted |
+| 9 | Шеф | Не знаю, почему он так пахнет. | I do not know why it smells like that. | #97: Не знаю | adapted: adapted |
 | 10 | Нагиев | Кажется, я всё сейчас наконец понял! | It seems I have finally understood everything right now! | new | new: new |
-| 11 | Нагиев | Ты хотел меня специально вчера споить! | You wanted to get me drunk on purpose! | #100 00:06:52: Хотел меня споить | adapted: adapted |
-| 12 | Нагиев | Чтобы я не смог завтра выступить! | So that I could not perform tomorrow! | #100 00:06:52: чтоб я не смог завтра выступить | verbatim |
+| 11 | Нагиев | Ты хотел меня специально вчера споить! | You wanted to get me drunk on purpose! | #100: Хотел меня споить | adapted: adapted |
+| 12 | Нагиев | Чтобы я не смог завтра выступить! | So that I could not perform tomorrow! | #100: чтоб я не смог завтра выступить | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's drink to our long friendship!' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
-- 'Dima, maybe we really shouldn't today?' Barinov feigns reluctance to make Nagiyev pour even bigger glasses.
-- 'I still have to perform on the show tomorrow.' Chef Barinov pairs 'still, yet, more' with 'perform' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'And I have to host that show tomorrow!' Nagiyev points out that as the host, he is drinking right alongside him.
-- 'Who are we even afraid of, my friend?' In spoken Russian, the words stay in their normal statement order and Nagiyev's rising voice at the end turns the line into a question.
-- 'Why are you bothering that plant?' Hours later, a very drunk Nagiyev leans over the potted plant where Barinov dumped his shots.
-- 'Look, we have snacks on the table.' Barinov tries to redirect Nagiyev's attention back to the food on the table.
-- 'Wait, why does your flower smell like whisky?' Sniffing the leaves, Nagiyev notices the strong aroma of single-malt whisky.
-- 'I do not know why it smells like that.' Barinov shrugs innocently using a negated first-person singular verb.
-- 'It seems I have finally understood everything right now!' Looking from the soggy soil to sober Barinov, Nagiyev pieces the trick together.
-- 'You wanted to get me drunk on purpose!' Ironically, Nagiyev accuses Barinov of the exact scheme he came to pull himself.
-- 'So that I could not perform tomorrow!' Shouting in outrage, clumsy Nagiyev stumbles, hits his forehead, and passes out on the floor.
+- 'Let's drink to our long friendship!' Proposing that they drink to their long friendship shows Nagiyev is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Dima, maybe we really shouldn't today?' Barinov asks whether maybe they really should not today, refusing to let the point slide.
+- 'I still have to perform on the show tomorrow.' Admitting that he still has to perform on the show tomorrow shows Barinov being honest for a change.
+- 'And I have to host that show tomorrow!' Having to host that show tomorrow shows Nagiyev is done holding back. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Who are we even afraid of, my friend?' By asking who they even afraid are, Nagiyev presses Barinov for a straight answer.
+- 'Why are you bothering that plant?' Wondering why Nagiyev bothering that plant is cuts straight through the tension between Barinov and Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Look, we have snacks on the table.' Saying that they have snacks on the table is how Barinov sets the tone with Nagiyev. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Wait, why does your flower smell like whisky?' Here asking why Barinov's flower smell like whisky shows Nagiyev looking for the real truth.
+- 'I do not know why it smells like that.' Since he does not know why it smells like, Barinov does not waste words on excuses.
+- 'It seems I have finally understood everything right now!' Nagiyev declares that it seems he has finally understood everything right now as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'You wanted to get me drunk on purpose!' Saying that Barinov wanted to get him drunk on purpose is how Nagiyev takes charge of the moment.
+- 'So that I could not perform tomorrow!' Nagiyev declares that that he could not perform tomorrow as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.

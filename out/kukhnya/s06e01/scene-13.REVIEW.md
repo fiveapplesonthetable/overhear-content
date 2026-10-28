@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | С меня хватит. | I have had enough. | #231 00:15:13: С меня хватит | adapted: exact |
-| 2 | Шеф | Я больше ничего делать не буду. | I will not do anything more. | #231 00:15:13: Я больше пальцем о палец не ударю | adapted: adapted |
-| 3 | Шеф | Я сам сейчас всё скажу Элеоноре. | I will tell Eleonora everything myself right now. | #235 00:15:30: сам сейчас всё скажу | adapted: adapted |
-| 4 | Сеня | Давай отметим твоё возвращение, Денис. | Let's celebrate your return, Denis. | #237 00:15:46: Давай отметим твоё возвращение | adapted: adapted |
-| 5 | Шеф | Какое возвращение? | What return? | #238 00:15:48: Какое возвращение? | adapted: exact |
-| 6 | Шеф | Я тут не задержусь. | I will not stay here long. | #238 00:15:48: Я тут не задержусь | adapted: exact |
-| 7 | Сеня | А я думал, ты навсегда вернёшься. | And I thought you would come back for good. | #239 00:15:50: что ты навсегда вернёшься | adapted: adapted |
-| 8 | Сеня | Катя из-за тебя поговорила с мамой. | Katya talked to her mom because of you. | #239 00:15:50: Катя из-за тебя поговорила | adapted: adapted |
-| 9 | Сеня | Да, она просила за тебя. | Yes, she pleaded for you. | #240 00:15:54: Да, она просила за тебя | adapted: exact |
-| 10 | Сеня | Сказала, не лезь в мою личную жизнь. | She said, do not meddle in my personal life. | #241 00:15:57: не лезь в мою личную жизнь | adapted: adapted |
-| 11 | Сеня | Она тебя любит еще, я тебе точно говорю. | She still loves you, I am telling you for sure. | #242 00:16:03: Она тебя любит еще, я тебе точно говорю | adapted: exact |
-| 12 | Шеф | Не знаю, посмотрим. | I do not know, we will see. | #238 00:15:48: Я тут не задержусь | adapted: adapted |
+| 1 | Шеф | С меня хватит. | I have had enough. | #231: С меня хватит | adapted: exact |
+| 2 | Шеф | Я больше ничего делать не буду. | I will not do anything more. | #231: Я больше пальцем о палец не ударю | adapted: adapted |
+| 3 | Шеф | Я сам сейчас всё скажу Элеоноре. | I will tell Eleonora everything myself right now. | #235: сам сейчас всё скажу | adapted: adapted |
+| 4 | Сеня | Давай отметим твоё возвращение, Денис. | Let's celebrate your return, Denis. | #237: Давай отметим твоё возвращение | adapted: adapted |
+| 5 | Денис | Какое возвращение? | What return? | #238: Какое возвращение? | adapted: exact |
+| 6 | Денис | Я тут не задержусь. | I will not stay here long. | #238: Я тут не задержусь | adapted: exact |
+| 7 | Сеня | А я думал, ты навсегда вернёшься. | And I thought you would come back for good. | #239: что ты навсегда вернёшься | adapted: adapted |
+| 8 | Сеня | Катя из-за тебя поговорила с мамой. | Katya talked to her mom because of you. | #239: Катя из-за тебя поговорила | adapted: adapted |
+| 9 | Сеня | Да, она просила за тебя. | Yes, she pleaded for you. | #240: Да, она просила за тебя | adapted: exact |
+| 10 | Сеня | Сказала, не лезь в мою личную жизнь. | She said, do not meddle in my personal life. | #241: не лезь в мою личную жизнь | adapted: adapted |
+| 11 | Сеня | Она тебя любит еще, я тебе точно говорю. | She still loves you, I am telling you for sure. | #242: Она тебя любит еще, я тебе точно говорю | adapted: exact |
+| 12 | Денис | Не знаю, посмотрим. | I do not know, we will see. | #238: Я тут не задержусь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have had enough.' Spoken Russian keeps this brisk, leaning on 'with' and finishing on 'enough'.
-- 'I will not do anything more.' In Russian, the idea of 'I' flows naturally into 'will be' without extra filler words.
-- 'I will tell Eleonora everything myself right now.' Here the Russian phrasing highlights 'I' before landing on 'will say'. Senya answers right away.
-- 'Let's celebrate your return, Denis.' Senya anchors the line on 'come on', while 'Denis' completes the thought.
-- 'What return?' The grammar packs 'which' and 'return' into a tight, idiomatic kitchen exchange.
-- 'I will not stay here long.' Denis brings out the contrast between 'I' and 'here' in a few short words. Senya answers right away.
-- 'And I thought you would come back for good.' In everyday Russian, 'thought' flows straight into 'you come back, will return' without extra linking words.
-- 'Katya talked to her mom because of you.' Senya brings out the contrast between 'Katya' and 'because of' in a few short words.
-- 'Yes, she pleaded for you.' Senya addresses the listener with the informal singular 'you' alongside 'you'.
-- 'She said, do not meddle in my personal life.' Senya brings out the contrast between 'told' and 'not' in a few short words.
-- 'She still loves you, I am telling you for sure.' In Russian, the idea of 'she' flows naturally into 'speak' without extra filler words.
-- 'I do not know, we will see.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'we shall see'.
+- 'I have had enough.' Barinov mentions that he has had enough so Denis sees what is at stake.
+- 'I will not do anything more.' Admitting that he will not do anything shows Barinov being honest for a change. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'I will tell Eleonora everything myself right now.' Saying that he will tell Eleonora everything himself right now is how Barinov sets the tone with Denis.
+- 'Let's celebrate your return, Denis.' Explaining that they should celebrate Barinov's return lays the cards on the table for Barinov.
+- 'What return?' With the truth and wedding hanging in the air, Denis puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I will not stay here long.' Saying that he will not stay here long is how Denis sets the tone with Barinov.
+- 'And I thought you would come back for good.' Since he thought Barinov would come back for good, Senya does not waste words on excuses.
+- 'Katya talked to her mom because of you.' Mentioning that Katya talked to her because of Barinov moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Yes, she pleaded for you.' Around the room and wedding, Senya sets a calm, everyday tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'She said, do not meddle in my personal life.' Because she said do not meddle in his personal life, Senya treats the matter as settled.
+- 'She still loves you, I am telling you for sure.' Explaining that she still loves Barinov he is telling Barinov for sure lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I do not know, we will see.' Because he does not know they will see, Denis treats the matter as settled.

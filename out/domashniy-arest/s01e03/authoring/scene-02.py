@@ -1,35 +1,37 @@
-# domashniy-arest/s01e03/scene-02.py
-ID = "domashniy-arest-s01e03-scene-02"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-02.
+ID = 'domashniy-arest-s01e03-scene-02'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 2
-TITLE = "Плохой кофе и Лёля  (Bad Coffee and Lyolya)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "slavik": "anja", "yulia": "angelina"}
-LABELS = {"anya": "Аркадий", "slavik": "Славик", "yulia": "Юля"}
+TITLE = 'Плохой кофе и Лёля  (Bad Coffee and Lyolya)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'slavik': 'Славик', 'yulia': 'Юля'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Back in the communal flat, a little later that morning. Now Arkady walks into the shared kitchen, where Samson's children, Yulia and ten-year-old Slavik, are having breakfast, and shows Slavik a photo on his phone of his glamorous girlfriend Lyolya. We'll hear the conversation in Russian first; don't worry about catching every word."
-STORY = [
-    ("anya", "Привет, молодёжь! Почему вы не в школе?", "Hi, kids! Why aren't you at school?", [(83, 'молодежь')], "'прогуливаем?' (skipping class?) simplified to 'Почему вы не в школе?'"),
-    ("slavik", "А у нас сегодня вторая смена.", "We're on the afternoon shift today.", [(85, 'у нас вторая смена')], "'Ну, вообще-то' -> 'А'; 'сегодня' added"),
-    ("anya", "Очень плохой кофе. Девочка, дай сахар, пожалуйста.", "Very bad coffee. Girl, pass me the sugar, please.", [(86, 'Очень плохой кофе'), (87, 'Девочка, дай сахар, пожалуйста')], ""),
-    ("yulia", "Меня вообще-то Юля зовут. Вот сахар.", "My name is actually Yulia. Here's the sugar.", [(88, 'Меня вообще-то Юля зовут')], "'Вот сахар' added"),
-    ("anya", "Спасибо, девочка.", "Thank you, girl.", [(89, 'Спасибо, девочка')], ""),
-    ("slavik", "Кто это у вас в телефоне? Это же мой телефон был!", "Who is that on your phone? Hey, that used to be my phone!", [(90, 'Кто это'), (91, 'телефона'), (92, 'это вообще мой телефон был')], "slang 'фотки попер' and 'отжали' (91, 93) left out"),
-    ("anya", "Ладно, не плачь. Это Лёля. Нравится?", "All right, don't cry. That's Lyolya. Do you like her?", [(94, 'Ладно, не'), (96, 'Нравится')], "'не ной' -> 'не плачь'; cue 95 garbles 'Лёля' as 'Юля'"),
-    ("slavik", "Красивая. Но это же не ваша жена! Я вашу жену видел.", "She's pretty. But that's not your wife! I've seen your wife.", [(98, 'это же не ваша жена'), (99, 'Я вашу жену видел')], "'Ну, ничего такая' -> 'Красивая'"),
-    ("anya", "У мужчины, мальчик, бывает не только жена. Это моя девушка.", "A man, my boy, can have more than just a wife. She's my girlfriend.", [(100, 'У мужчины, мальчик, бывает не только')], "cue 100 'жены' normalised to singular 'жена'; 'любовница' (101) -> 'Это моя девушка'"),
-    ("slavik", "А как вы с ней познакомились?", "And how did you meet her?", [(102, 'А как вы с ней познакомились')], ""),
-    ("anya", "Это она со мной познакомилась! Ходила вокруг меня, как акула.", "She was the one who met me! She circled around me like a shark.", [(103, 'Это она со мной познакомилась'), (104, 'вокруг меня'), (104, 'как акула')], "'Нарезала ... круги' -> 'Ходила'"),
-    ("anya", "Очень плохая сосиска.", "Very bad sausage.", [(105, 'Очень плохая сосиска')], ""),
-    ("slavik", "Вот мне бы так!", "I wish I had a girl like that!", [(106, 'Вот мне бы так')], ""),
-    ("anya", "Малыш, какие твои годы? Будет и у тебя такая.", "Kid, you've got plenty of time! You'll have one like her too.", [(107, 'малыш, какие твои годы'), (108, 'Будет и у тебя такая')], ""),
-    ("anya", "Ладно, сиди, ешь и молчи.", "All right, sit there, eat and be quiet.", [(114, 'ешь'), (115, 'Молчи')], "clean ending from cues 114-115"),
-]
 OPENER = "Let's walk through it slowly. Arkady comes into the kitchen in his dressing gown and spots Slavik and Lyosha at the table."
+TRANSITION = "Now let's hear the whole kitchen conversation once more from the start."
+OUTRO = "So Slavik has seen the photo of glamorous Lyolya and heard Arkady's shark story, which will soon get the boy into big trouble at school. Next we cross the street to see who is listening in on the flat; see you then. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Привет, молодёжь! Почему вы не в школе?', "Hi, kids! Why aren't you at school?", [(83, 'молодежь')], "'прогуливаем?' (skipping class?) simplified to 'Почему вы не в школе?'"),
+    ('slavik', 'А у нас сегодня вторая смена.', "We're on the afternoon shift today.", [(85, 'у нас вторая смена')], "'Ну, вообще-то' -> 'А'; 'сегодня' added"),
+    ('arkady', 'Очень плохой кофе. Девочка, дай сахар, пожалуйста.', 'Very bad coffee. Girl, pass me the sugar, please.', [(86, 'Очень плохой кофе'), (87, 'Девочка, дай сахар, пожалуйста')], ''),
+    ('yulia', 'Меня вообще-то Юля зовут. Вот сахар.', "My name is actually Yulia. Here's the sugar.", [(88, 'Меня вообще-то Юля зовут')], "'Вот сахар' added"),
+    ('arkady', 'Спасибо, девочка.', 'Thank you, girl.', [(89, 'Спасибо, девочка')], ''),
+    ('slavik', 'Кто это у вас в телефоне? Это же мой телефон был!', 'Who is that on your phone? Hey, that used to be my phone!', [(90, 'Кто это'), (91, 'телефона'), (92, 'это вообще мой телефон был')], "slang 'фотки попер' and 'отжали' (91, 93) left out"),
+    ('arkady', 'Ладно, не плачь. Это Лёля. Нравится?', "All right, don't cry. That's Lyolya. Do you like her?", [(94, 'Ладно, не'), (96, 'Нравится')], "'не ной' -> 'не плачь'; cue 95 garbles 'Лёля' as 'Юля'"),
+    ('slavik', 'Красивая. Но это же не ваша жена! Я вашу жену видел.', "She's pretty. But that's not your wife! I've seen your wife.", [(98, 'это же не ваша жена'), (99, 'Я вашу жену видел')], "'Ну, ничего такая' -> 'Красивая'"),
+    ('arkady', 'У мужчины, мальчик, бывает не только жена. Это моя девушка.', "A man, my boy, can have more than just a wife. She's my girlfriend.", [(100, 'У мужчины, мальчик, бывает не только')], "cue 100 'жены' normalised to singular 'жена'; 'любовница' (101) -> 'Это моя девушка'"),
+    ('slavik', 'А как вы с ней познакомились?', 'And how did you meet her?', [(102, 'А как вы с ней познакомились')], ''),
+    ('arkady', 'Это она со мной познакомилась! Ходила вокруг меня, как акула.', 'She was the one who met me! She circled around me like a shark.', [(103, 'Это она со мной познакомилась'), (104, 'вокруг меня'), (104, 'как акула')], "'Нарезала ... круги' -> 'Ходила'"),
+    ('arkady', 'Очень плохая сосиска.', 'Very bad sausage.', [(105, 'Очень плохая сосиска')], ''),
+    ('slavik', 'Вот мне бы так!', 'I wish I had a girl like that!', [(106, 'Вот мне бы так')], ''),
+    ('arkady', 'Малыш, какие твои годы? Будет и у тебя такая.', "Kid, you've got plenty of time! You'll have one like her too.", [(107, 'малыш, какие твои годы'), (108, 'Будет и у тебя такая')], ''),
+    ('arkady', 'Ладно, сиди, ешь и молчи.', 'All right, sit there, eat and be quiet.', [(114, 'ешь'), (115, 'Молчи')], 'clean ending from cues 114-115'),
+]
 WALK = [
     (0, None, "'Hi, kids! Why aren't you at school?' The word he uses for 'kids' literally means 'youth', 'young people'. Slavik has a simple answer."),
     (1, None, "'We're on the afternoon shift today.' Literally 'at us today is the second shift': in many Russian schools, some classes go in the morning and others in the afternoon. Arkady takes a sip from his mug and makes a face."),
@@ -50,6 +52,3 @@ WALK = [
     (13, None, "'Kid, you've got plenty of time! You'll have one like her too.' The first sentence is a fixed idiom, literally 'what are your years?', meaning 'you're still young'. And then he finishes his breakfast."),
     (14, None, "'All right, sit there, eat and be quiet.' Three short imperatives in a row."),
 ]
-TRANSITION = "Now let's hear the whole kitchen conversation once more from the start."
-OUTRO = "So Slavik has seen the photo of glamorous Lyolya and heard Arkady's shark story, which will soon get the boy into big trouble at school. Next we cross the street to see who is listening in on the flat; see you then. See you next time!"
-CLOSING = ("anya", "Пока!")

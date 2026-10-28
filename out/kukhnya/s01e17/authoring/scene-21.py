@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 21
-TITLE = "Конец конфликта  (End of the Conflict)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Конец конфликта  (End of the Conflict)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "chef": "anja"}
-LABELS = {"vika": "Вика", "anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Gathered in the Claude Monet dining room, Victoria and the restaurant staff approach Max to apologize for ruining his birthday celebration. Chef Viktor steps in to ensure peace is restored, bringing the long day of intense conflicts to an end. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this reconciliation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Relieved that the tension has dissipated, Max accepts their apologies as Victoria and Chef Viktor return to their work in the restaurant. Next time you watch the episode, listen for the Russian expressions for 'to forgive' and 'to spoil' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Максим, прости нас, пожалуйста.', 'Maxim, please forgive us.', [(321, 'Максим, прости нас, пожалуйста, что испортили тебе праздник.')], ''),
     ('vika', 'Мы испортили тебе отличный праздник.', 'We ruined a great holiday for you.', [(321, 'что испортили тебе праздник')], ''),
-    ('anya', 'Я не сержусь на вас.', 'I am not angry at you.', [], ''),
+    ('max', 'Я не сержусь на вас.', 'I am not angry at you.', [], ''),
     ('vika', 'Прости их, пожалуйста, от души.', 'Please forgive them from the heart.', [(322, 'Прости их, пожалуйста.')], ''),
-    ('chef', 'Ну и меня тоже прости.', 'Well and forgive me too.', [(323, 'Ну и меня.')], ''),
-    ('chef', 'Так, всё? Конфликт закончился?', 'So, is that all? The conflict is over?', [(323, 'Так все?'), (324, 'Конфликт исчерпан?')], ''),
-    ('anya', 'Да, шеф, конфликт закончился.', 'Yes, chef, the conflict is over.', [(324, 'Конфликт исчерпан')], ''),
-    ('chef', 'Но только пока кто-то снова не ошибётся.', 'But only until someone makes a mistake again.', [(324, 'Временно, пока кто-нибудь снова не накосячит.')], ''),
+    ('barinov', 'Ну и меня тоже прости.', 'Well and forgive me too.', [(323, 'Ну и меня.')], ''),
+    ('barinov', 'Так, всё? Конфликт закончился?', 'So, is that all? The conflict is over?', [(323, 'Так все?'), (324, 'Конфликт исчерпан?')], ''),
+    ('max', 'Да, шеф, конфликт закончился.', 'Yes, chef, the conflict is over.', [(324, 'Конфликт исчерпан')], ''),
+    ('barinov', 'Но только пока кто-то снова не ошибётся.', 'But only until someone makes a mistake again.', [(324, 'Временно, пока кто-нибудь снова не накосячит.')], ''),
     ('vika', 'Мы все хотим мира на кухне.', 'We all want peace in the kitchen.', [], ''),
-    ('chef', 'Мир на кухне — это главное.', 'Peace in the kitchen is key.', [], ''),
-    ('anya', 'Спасибо всем за добрые слова.', 'Thank you all for the kind words.', [], ''),
+    ('barinov', 'Мир на кухне — это главное.', 'Peace in the kitchen is key.', [], ''),
+    ('max', 'Спасибо всем за добрые слова.', 'Thank you all for the kind words.', [], ''),
     ('vika', 'Теперь мы можем спокойно работать.', 'Now we can work calmly.', [], ''),
-    ('anya', 'Я очень рад, что мы помирились.', 'I am very glad that we reconciled.', [], ''),
+    ('max', 'Я очень рад, что мы помирились.', 'I am very glad that we reconciled.', [], ''),
 ]
 WALK = [
     (0, None, "'Maxim, please forgive us.' Vika leads with the direct command form meaning 'sorry' to make the point directly in conversation."),

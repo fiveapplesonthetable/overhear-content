@@ -1,32 +1,34 @@
-# domashniy-arest/s01e08/scene-15.py
-ID = "domashniy-arest-s01e08-scene-15"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e08-scene-15.
+ID = 'domashniy-arest-s01e08-scene-15'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 8
 SCENE = 15
-TITLE = "Вставай, страна огромная  (Waking Ivan)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.08"
-SOURCE_FILE = "sources/domashniy-arest/s01/e08.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "neighbor": "angelina"}
-LABELS = {"samson": "Самсон", "neighbor": "Сосед"}
+TITLE = 'Вставай, страна огромная  (Waking Ivan)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'neighbor': 'Сосед', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.08'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e08.ru.dual.srt'
 INTRO = "The next morning, neighbours find Samsonov fast asleep on a snow-covered bench after his drinking binge and try to wake him up. Let's listen in Russian first."
-STORY = [
-    ("neighbor", "Эй, Ваня, вставай, вставай!", "Hey, Vanya, get up, get up!", [(220, 'Вставай, вставай')], ""),
-    ("neighbor", "Давай, вставай, замёрзнешь на снегу!", "Come on, get up, you'll freeze in the snow!", [(221, 'Давай, вставай')], ""),
-    ("samson", "Вставай, страна огромная...", "Arise, vast country...", [(222, 'Страна огромная')], "patriotic song quote"),
-    ("neighbor", "Какая страна? Вставай на ноги!", "What country? Get on your feet!", [(223, 'Страна огромная')], ""),
-    ("samson", "Страна огромная...", "A vast country...", [(223, 'Страна огромная')], ""),
-    ("neighbor", "Ты всю ночь тут проспал!", "You slept here all night!", [(221, 'Давай, вставай')], "neighbour's scolding"),
-    ("samson", "Где я? Который час?", "Where am I? What time is it?", [(220, 'вставай')], ""),
-    ("neighbor", "Уже утро, люди идут мимо.", "It's already morning, people are walking past.", [(221, 'вставай')], ""),
-    ("samson", "Лёха! Где мой друг Лёха?", "Lyokha! Where is my friend Lyokha?", [(224, 'Леха')], ""),
-    ("neighbor", "Дома спит твой друг.", "Your friend is sleeping at home.", [(224, 'Леха')], ""),
-    ("samson", "Слышишь, танк нужен тебе?", "Listen, do you need a tank?", [(225, 'Слышь, танк нужен')], ""),
-    ("samson", "Иди и забирай его!", "Go and take it!", [(225, 'Иди забирай')], ""),
-]
 OPENER = "Let's walk through the dialogue. A passerby tries to revive Samsonov from his freezing stupor."
+TRANSITION = "Now let's listen to the short scene again at full speed."
+OUTRO = 'Samsonov drags himself off the snowy bench with a massive hangover, still clinging to thoughts of toy tanks and family honour. See you next time!'
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('neighbor', 'Эй, Ваня, вставай, вставай!', 'Hey, Vanya, get up, get up!', [(220, 'Вставай, вставай')], ''),
+    ('neighbor', 'Давай, вставай, замёрзнешь на снегу!', "Come on, get up, you'll freeze in the snow!", [(221, 'Давай, вставай')], ''),
+    ('samson', 'Вставай, страна огромная...', 'Arise, vast country...', [(222, 'Страна огромная')], 'patriotic song quote'),
+    ('neighbor', 'Какая страна? Вставай на ноги!', 'What country? Get on your feet!', [(223, 'Страна огромная')], ''),
+    ('samson', 'Страна огромная...', 'A vast country...', [(223, 'Страна огромная')], ''),
+    ('neighbor', 'Ты всю ночь тут проспал!', 'You slept here all night!', [(221, 'Давай, вставай')], "neighbour's scolding"),
+    ('samson', 'Где я? Который час?', 'Where am I? What time is it?', [(220, 'вставай')], ''),
+    ('neighbor', 'Уже утро, люди идут мимо.', "It's already morning, people are walking past.", [(221, 'вставай')], ''),
+    ('samson', 'Лёха! Где мой друг Лёха?', 'Lyokha! Where is my friend Lyokha?', [(224, 'Леха')], ''),
+    ('neighbor', 'Дома спит твой друг.', 'Your friend is sleeping at home.', [(224, 'Леха')], ''),
+    ('samson', 'Слышишь, танк нужен тебе?', 'Listen, do you need a tank?', [(225, 'Слышь, танк нужен')], ''),
+    ('samson', 'Иди и забирай его!', 'Go and take it!', [(225, 'Иди забирай')], ''),
+]
 WALK = [
     (0, None, "'Hey, Vanya, get up, get up!' The neighbour shakes Ivan by the shoulder. Notice the command form of the verb."),
     (1, None, "'Come on, get up, you'll freeze in the snow!' Future tense verb warning him of the freezing cold."),
@@ -41,6 +43,3 @@ WALK = [
     (10, None, "'Listen, do you need a tank?' Ivan confusingly offers away the toy tank he obtained."),
     (11, None, "'Go and take it!' Ivan waves his heavy hand in the air and struggles to sit up on the bench."),
 ]
-TRANSITION = "Now let's listen to the short scene again at full speed."
-OUTRO = "Samsonov drags himself off the snowy bench with a massive hangover, still clinging to thoughts of toy tanks and family honour. See you next time!"
-CLOSING = ("samson", "Пока!")

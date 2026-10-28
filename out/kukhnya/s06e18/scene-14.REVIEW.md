@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Но это же тайное голосование. | But this is a secret vote, after all. | #237 00:14:49: голосование<br>#238 00:14:51: тайное | adapted: adapted |
-| 2 | Тимур | Иди отсюда, позови сюда следующего. | Go on out of here, call the next person in. | #238 00:14:51: иди отсюда<br>#239 00:14:53: Позови следующего | adapted: adapted |
-| 3 | Тимур | Добрый день, у меня вопрос. | Good afternoon, I have a question. | #241 00:14:59: Добрый день<br>#242 00:15:03: Так у меня вопрос | adapted: adapted |
-| 4 | Тимур | Независимый наблюдатель может не наблюдать? | Can the independent observer not watch? | #242 00:15:03: Наблюдатель может не наблюдать | adapted: adapted |
-| 5 | Тимур | Нет, так делать совсем нельзя. | No, one cannot do that at all. | #243 00:15:07: Нет | adapted: adapted |
-| 6 | Тимур | Понятно, а если вот так? | Understood, and what if like this? | #243 00:15:07: Понятно. А если так | adapted: adapted |
-| 7 | Тимур | Отлично, теперь ты честно проголосовал. | Great, now you have voted fairly. | #245 00:15:24: Проголосовал | adapted: adapted |
-| 8 | Тимур | Подводим итоги нашей честной борьбы. | Let us sum up the results of our fair contest. | #246 00:15:27: честной борьбе | adapted: adapted |
-| 9 | Тимур | Сегодня в выборах победил Арсений! | Today Arseny won the election! | #247 00:15:33: победил Арсений | adapted: adapted |
-| 10 | Федя | Как это он вдруг победил? | How did he suddenly win like that? | #247 00:15:33: победил | adapted: adapted |
-| 11 | Тимур | У кого-нибудь есть сейчас возражения? | Does anyone have any objections right now? | #248 00:15:35: возражений нет | adapted: adapted |
-| 12 | Тимур | Можете забирать бюллетени на салат. | You can take the ballots for salad. | #248 00:15:35: можете забирать бюллетени на салат | adapted: adapted |
+| 1 | Федя | Но это же тайное голосование. | But this is a secret vote, after all. | #237: голосование<br>#238: тайное | adapted: adapted |
+| 2 | Тимур | Иди отсюда, позови сюда следующего. | Go on out of here, call the next person in. | #238: иди отсюда<br>#239: Позови следующего | adapted: adapted |
+| 3 | Сеня | Добрый день, у меня вопрос. | Good afternoon, I have a question. | #241: Добрый день<br>#242: Так у меня вопрос | adapted: adapted |
+| 4 | Сеня | Независимый наблюдатель может не наблюдать? | Can the independent observer not watch? | #242: Наблюдатель может не наблюдать | adapted: adapted |
+| 5 | Тимур | Нет, так делать совсем нельзя. | No, one cannot do that at all. | #243: Нет | adapted: adapted |
+| 6 | Сеня | Понятно, а если вот так? | Understood, and what if like this? | #243: Понятно. А если так | adapted: adapted |
+| 7 | Тимур | Отлично, теперь ты честно проголосовал. | Great, now you have voted fairly. | #245: Проголосовал | adapted: adapted |
+| 8 | Тимур | Подводим итоги нашей честной борьбы. | Let us sum up the results of our fair contest. | #246: честной борьбе | adapted: adapted |
+| 9 | Тимур | Сегодня в выборах победил Арсений! | Today Arseny won the election! | #247: победил Арсений | adapted: adapted |
+| 10 | Федя | Как это он вдруг победил? | How did he suddenly win like that? | #247: победил | adapted: adapted |
+| 11 | Тимур | У кого-нибудь есть сейчас возражения? | Does anyone have any objections right now? | #248: возражений нет | adapted: adapted |
+| 12 | Тимур | Можете забирать бюллетени на салат. | You can take the ballots for salad. | #248: можете забирать бюллетени на салат | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But this is a secret vote, after all.' The grammar packs 'but' and 'voting' into a tight, idiomatic kitchen exchange.
-- 'Go on out of here, call the next person in.' The meaning hinges on 'go' working together with 'next' in spoken Russian. Senya answers right away.
-- 'Good afternoon, I have a question.' Senya brings out the contrast between 'good' and 'day' in a few short words.
-- 'Can the independent observer not watch?' Senya anchors the line on 'independent', while 'to observe' completes the thought.
-- 'No, one cannot do that at all.' Notice how Russian expresses 'no' and 'one must not' with crisp inflection rather than helper words. Senya answers right away.
-- 'Understood, and what if like this?' Senya anchors the line on 'understood', while 'so' completes the thought.
-- 'Great, now you have voted fairly.' The grammar packs 'perfectly' and 'voted' into a tight, idiomatic kitchen exchange.
-- 'Let us sum up the results of our fair contest.' Timur anchors the line on 'we sum up', while 'struggle' completes the thought.
-- 'Today Arseny won the election!' The grammar packs 'tonight' and 'Arseny' into a tight, idiomatic kitchen exchange.
-- 'How did he suddenly win like that?' Fedya anchors the line on 'how', while 'won' completes the thought.
-- 'Does anyone have any objections right now?' Timur raises the pitch on 'objections' to turn the phrase into a direct spoken question.
-- 'You can take the ballots for salad.' Spoken Russian keeps this brisk, leaning on 'can' and finishing on 'salad'.
+- 'But this is a secret vote, after all.' Even though this is a secret vote after all, Fedya keeps a steady face in front of Senya. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Go on out of here, call the next person in.' Here going on out of here call the next person sets up the next turn in their exchange.
+- 'Good afternoon, I have a question.' Having a question is how Senya lays out the situation for Fedya.
+- 'Can the independent observer not watch?' Checking whether the independent observer not watch cuts straight through the tension between Senya and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'No, one cannot do that at all.' Adding that one cannot do that at all fills in the missing piece for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Understood, and what if like this?' Questioning whether understood and what if like this is how Senya tests Fedya's story.
+- 'Great, now you have voted fairly.' Since great now Fedya has voted fairly, Timur does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Let us sum up the results of our fair contest.' Realizing that they should sum up the results of their fair contest changes how Timur handles the situation.
+- 'Today Arseny won the election!' Declaring that today won the election brings Timur's temper right to the surface.
+- 'How did he suddenly win like that?' Here wondering how he suddenly win like shows Fedya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Does anyone have any objections right now?' By asking whether anyone have any objections right now, Timur presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You can take the ballots for salad.' Timur mentions that Fedya can take the ballots for salad so Fedya sees what is at stake.

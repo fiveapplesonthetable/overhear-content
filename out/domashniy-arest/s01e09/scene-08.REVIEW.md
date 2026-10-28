@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Итак, смотри, Самсонов. | So, look here, Samsonov. | #236 00:13:27: Итак, смотри | verbatim |
-| 2 | Аня | Существует пять стадий принятия неизбежного. | There are five stages of accepting the inevitable. | #237 00:13:28: Существует пять стадий принятия неизбежного | verbatim |
-| 3 | Аня | Отрицание, гнев, торги, депрессия, смирение. | Denial, anger, bargaining, depression, acceptance. | #238 00:13:30: Отрицание, гнев, торги, депрессия, смирение | verbatim |
-| 4 | Самсон | Я ничего не понял. | I didn't understand anything. | #241 00:13:40: Ничего я не понял | verbatim |
-| 5 | Аня | Твоя жена считает, что ты никому не нужен. | Your wife thinks nobody needs you. | #243 00:13:43: Твоя жена считает<br>#244 00:13:47: ты никому не нужен | verbatim |
-| 6 | Самсон | Вот она именно так и считает! | That is exactly what she thinks! | #245 00:13:49: вот она именно так и считает | verbatim |
-| 7 | Аня | Мы зародим в ней сомнения. | We will plant doubts in her. | #248 00:13:58: мы зародим в ней сомнения | verbatim |
-| 8 | Аня | Потом вызовем ревность. | Then we will provoke jealousy. | #249 00:14:03: Потом вызовем ревность | verbatim |
-| 9 | Аня | Мы отправим ей повестку в суд! | We will send her a court summons! | #254 00:14:17: А мы отправим ей повестку в суд | verbatim |
-| 10 | Аня | Как будто ты подаёшь на развод. | As if you are filing for divorce. | #255 00:14:20: Как будто ты подаешь на развод | verbatim |
-| 11 | Самсон | Я не хочу настоящего развода! | I do not want a real divorce! | #258 00:14:24: Я не хочу никакого развода | verbatim |
-| 12 | Аня | Повестка будет липовая, из принтера. | The summons will be fake, from a printer. | #260 00:14:27: Повестка будет липовая<br>#261 00:14:28: распечатаю на принтере | verbatim |
-| 13 | Самсон | Не знаю, я очень сомневаюсь. | I don't know, I really doubt it. | #263 00:14:32: Не знаю, сомневаюсь я | verbatim |
-| 14 | Аня | Поздравляю тебя, Самсонов, ты подкаблучник! | I congratulate you, Samsonov, you are henpecked! | #265 00:14:45: Поздравляю тебя, ты подкаблучник | verbatim |
+| 1 | Аркадий | Итак, смотри, Самсонов. | So, look here, Samsonov. | #236: Итак, смотри | verbatim |
+| 2 | Аркадий | Существует пять стадий принятия неизбежного. | There are five stages of accepting the inevitable. | #237: Существует пять стадий принятия неизбежного | verbatim |
+| 3 | Аркадий | Отрицание, гнев, торги, депрессия, смирение. | Denial, anger, bargaining, depression, acceptance. | #238: Отрицание, гнев, торги, депрессия, смирение | verbatim |
+| 4 | Самсон | Я ничего не понял. | I didn't understand anything. | #241: Ничего я не понял | verbatim |
+| 5 | Аркадий | Твоя жена считает, что ты никому не нужен. | Your wife thinks nobody needs you. | #243: Твоя жена считает<br>#244: ты никому не нужен | verbatim |
+| 6 | Самсон | Вот она именно так и считает! | That is exactly what she thinks! | #245: вот она именно так и считает | verbatim |
+| 7 | Аркадий | Мы зародим в ней сомнения. | We will plant doubts in her. | #248: мы зародим в ней сомнения | verbatim |
+| 8 | Аркадий | Потом вызовем ревность. | Then we will provoke jealousy. | #249: Потом вызовем ревность | verbatim |
+| 9 | Аркадий | Мы отправим ей повестку в суд! | We will send her a court summons! | #254: А мы отправим ей повестку в суд | verbatim |
+| 10 | Аркадий | Как будто ты подаёшь на развод. | As if you are filing for divorce. | #255: Как будто ты подаешь на развод | verbatim |
+| 11 | Самсон | Я не хочу настоящего развода! | I do not want a real divorce! | #258: Я не хочу никакого развода | verbatim |
+| 12 | Аркадий | Повестка будет липовая, из принтера. | The summons will be fake, from a printer. | #260: Повестка будет липовая<br>#261: распечатаю на принтере | verbatim |
+| 13 | Самсон | Не знаю, я очень сомневаюсь. | I don't know, I really doubt it. | #263: Не знаю, сомневаюсь я | verbatim |
+| 14 | Аркадий | Поздравляю тебя, Самсонов, ты подкаблучник! | I congratulate you, Samsonov, you are henpecked! | #265: Поздравляю тебя, ты подкаблучник | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

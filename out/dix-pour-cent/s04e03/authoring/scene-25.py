@@ -7,8 +7,7 @@ SCENE = 25
 TITLE = 'Une révélation inattendue  (An Unexpected Revelation)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'valerie': 'emilie'}
-LABELS = {'herve': 'Hervé', 'valerie': 'Valérie'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'valerie': 'Valérie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Director Valerie Donzelli drops by ASK with a surprise announcement: she wants Herve to play a lead role in her movie. After she leaves, Camille promises to keep Herve's new acting secret safe from Gabriel. Let's listen to the scene in French first."
@@ -24,13 +23,13 @@ STORY = [
     ('valerie', 'Vous seul pouvez jouer ce rôle.', 'Only you can play this role.', [(1062, 'Vous seul pouvez jouer ce rôle')], ''),
     ('valerie', 'Vous étiez vraiment remarquable au casting.', 'You were truly remarkable at the audition.', [(1063, 'Vous étiez remarquable au casting')], ''),
     ('herve', 'Moi? Je ne suis pas acteur!', 'Me? I am not an actor!', [(1071, 'Moi non plus')], ''),
-    ('herve', 'Je ne savais pas ton talent.', 'I did not know your talent.', [(1070, 'tu voulais être acteur')], ''),
-    ('herve', 'Tu crois que tu diras oui?', 'Do you think you will say yes?', [(1075, 'Tu crois que tu vas dire oui')], ''),
+    ('camille', 'Je ne savais pas ton talent.', 'I did not know your talent.', [(1070, 'tu voulais être acteur')], ''),
+    ('camille', 'Tu crois que tu diras oui?', 'Do you think you will say yes?', [(1075, 'Tu crois que tu vas dire oui')], ''),
     ('herve', 'Je ne peux rien dire à Gabriel.', 'I cannot say anything to Gabriel.', [(1078, 'annoncer à Gabriel')], ''),
-    ('herve', "Personne ne t'oblige à lui parler.", 'Nobody is forcing you to tell him.', [(1079, "Personne ne t'y oblige")], ''),
-    ('herve', 'Je sais très bien garder les secrets.', 'I am very good at keeping secrets.', [(1081, 'garder les secrets')], ''),
+    ('camille', "Personne ne t'oblige à lui parler.", 'Nobody is forcing you to tell him.', [(1079, "Personne ne t'y oblige")], ''),
+    ('camille', 'Je sais très bien garder les secrets.', 'I am very good at keeping secrets.', [(1081, 'garder les secrets')], ''),
     ('herve', "C'est le début d'une aventure secrète!", 'This is the start of a secret adventure!', [(1081, 'garder les secrets')], ''),
-    ('herve', 'Félicitations pour ton premier rôle, Hervé!', 'Congratulations on your first role, Herve!', [(1081, 'garder les secrets')], ''),
+    ('camille', 'Félicitations pour ton premier rôle, Hervé!', 'Congratulations on your first role, Herve!', [(1081, 'garder les secrets')], ''),
 ]
 WALK = [
     (0, None, "'Herve, I have excellent news.' Valerie opens the meeting with an exciting announcement. The verb meaning 'have' pairs naturally with the noun for 'piece of news' in everyday conversation."),

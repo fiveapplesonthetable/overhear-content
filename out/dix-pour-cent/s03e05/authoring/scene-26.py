@@ -7,7 +7,6 @@ SCENE = 26
 TITLE = 'La trahison découverte  (The Betrayal Discovered)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'hicham': 'marcel'}
 LABELS = {'arlette': 'Arlette', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'

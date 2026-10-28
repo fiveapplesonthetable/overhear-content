@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Наш сын сегодня ночует у бабушки. | Our son is staying at grandma's tonight. | #174 00:10:40: Он у бабушки | adapted: adapted |
-| 2 | Костя | Всё хорошо, мы уже скоро поедем. | Everything is fine, we will be going soon. | #175 00:10:41: Все хорошо. Скоро поедем | adapted: adapted |
-| 3 | Катя | Кажется, она у тебя сегодня очень буйная. | It seems she is very rowdy tonight. | #177 00:10:47: Она у тебя буйная<br>#178 00:10:51: она очень буйная | adapted: adapted |
-| 4 | Костя | В таком состоянии она может выпрыгнуть из машины. | In this state she might jump out of the car. | #179 00:10:53: Она в таком состоянии, мне кажется, может даже из машины выпрыгнуть | adapted: adapted |
-| 5 | Костя | Катя, поможешь довезти Настю до дома? | Katya, will you help me get Nastya home? | #180 00:10:56: Катя, поможешь довезти Настю до дома | adapted: adapted |
-| 6 | Катя | Конечно, пойдём скорее садиться в машину. | Of course, let us go get in the car quickly. | #181 00:10:58: Конечно<br>#182 00:11:00: пойдем-ка | adapted: adapted |
-| 7 | Костя | Извини, брат, сам видишь, какая ситуация. | Sorry, brother, you see for yourself what the situation is. | #184 00:11:06: Извини, брат. Сам видишь, какая ситуация | adapted: adapted |
-| 8 | Катя | Я хочу спросить по поводу больницы. | I want to ask about the hospital. | #186 00:11:19: Я по поводу твоего визита в больницу | adapted: adapted |
-| 9 | Катя | Скажи, у тебя точно всё в порядке? | Tell me, is everything really alright with you? | #187 00:11:22: У тебя точно все в порядке | adapted: adapted |
-| 10 | Катя | Конечно, со мной всё совершенно нормально. | Of course, everything is completely normal with me. | #188 00:11:26: Конечно | adapted: adapted |
-| 11 | Катя | Куда-то все наши официанты вдруг пропали. | All of our waiters have suddenly disappeared somewhere. | #189 00:11:27: Куда-то все официанты пропали | adapted: adapted |
-| 12 | Катя | Видимо, придётся мне самому блюдо подать. | Apparently I will have to serve the dish myself. | #190 00:11:29: Видимо, придется самому блюдо подать | adapted: adapted |
+| 1 | Костя | Наш сын сегодня ночует у бабушки. | Our son is staying at grandma's tonight. | #174: Он у бабушки | adapted: adapted |
+| 2 | Костя | Всё хорошо, мы уже скоро поедем. | Everything is fine, we will be going soon. | #175: Все хорошо. Скоро поедем | adapted: adapted |
+| 3 | Катя | Кажется, она у тебя сегодня очень буйная. | It seems she is very rowdy tonight. | #177: Она у тебя буйная<br>#178: она очень буйная | adapted: adapted |
+| 4 | Костя | В таком состоянии она может выпрыгнуть из машины. | In this state she might jump out of the car. | #179: Она в таком состоянии, мне кажется, может даже из машины выпрыгнуть | adapted: adapted |
+| 5 | Костя | Катя, поможешь довезти Настю до дома? | Katya, will you help me get Nastya home? | #180: Катя, поможешь довезти Настю до дома | adapted: adapted |
+| 6 | Катя | Конечно, пойдём скорее садиться в машину. | Of course, let us go get in the car quickly. | #181: Конечно<br>#182: пойдем-ка | adapted: adapted |
+| 7 | Костя | Извини, брат, сам видишь, какая ситуация. | Sorry, brother, you see for yourself what the situation is. | #184: Извини, брат. Сам видишь, какая ситуация | adapted: adapted |
+| 8 | Катя | Я хочу спросить по поводу больницы. | I want to ask about the hospital. | #186: Я по поводу твоего визита в больницу | adapted: adapted |
+| 9 | Катя | Скажи, у тебя точно всё в порядке? | Tell me, is everything really alright with you? | #187: У тебя точно все в порядке | adapted: adapted |
+| 10 | Лёва | Конечно, со мной всё совершенно нормально. | Of course, everything is completely normal with me. | #188: Конечно | adapted: adapted |
+| 11 | Лёва | Куда-то все наши официанты вдруг пропали. | All of our waiters have suddenly disappeared somewhere. | #189: Куда-то все официанты пропали | adapted: adapted |
+| 12 | Лёва | Видимо, придётся мне самому блюдо подать. | Apparently I will have to serve the dish myself. | #190: Видимо, придется самому блюдо подать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our son is staying at grandma's tonight.' Notice how Russian expresses 'our' and 'grandmothers' with crisp inflection rather than helper words.
-- 'Everything is fine, we will be going soon.' Here the Russian phrasing highlights 'everything' before landing on 'will go'.
-- 'It seems she is very rowdy tonight.' Katya anchors the line on 'it seems', while 'rowdy' completes the thought. Kostya answers right away.
-- 'In this state she might jump out of the car.' Kostya anchors the line on 'such', while 'cars' completes the thought.
-- 'Katya, will you help me get Nastya home?' In Russian, the idea of 'Katya' flows naturally into 'at home' without extra filler words.
-- 'Of course, let us go get in the car quickly.' Spoken Russian keeps this brisk, leaning on 'of course' and finishing on 'car'. Kostya answers right away.
-- 'Sorry, brother, you see for yourself what the situation is.' In Russian, the idea of 'sorry' flows naturally into 'situation' without extra filler words.
-- 'I want to ask about the hospital.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'hospital'.
-- 'Tell me, is everything really alright with you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Of course, everything is completely normal with me.' Here the Russian phrasing highlights 'of course' before landing on 'normally'.
-- 'All of our waiters have suddenly disappeared somewhere.' The meaning hinges on 'somewhere' working together with 'to disappear' in spoken Russian.
-- 'Apparently I will have to serve the dish myself.' Notice how Russian puts 'apparently, evidently' and 'to submit, file; to serve' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Our son is staying at grandma's tonight.' Explaining that their son is staying at grandma tonight lays the cards on the table for Katya.
+- 'Everything is fine, we will be going soon.' Saying that everything is fine they will be going soon is how Kostya sets the tone with Katya.
+- 'It seems she is very rowdy tonight.' Claiming that it seems she is very rowdy tonight sounds confident, even if Kostya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'In this state she might jump out of the car.' Pointing out that in this state she might jump out of the car gives Katya a sobering reality check.
+- 'Katya, will you help me get Nastya home?' Asking whether Katya helps him get Nastya home cuts straight through the tension between Kostya and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Of course, let us go get in the car quickly.' Here proposing that they go get in the car quickly sets up the next turn in their exchange.
+- 'Sorry, brother, you see for yourself what the situation is.' Noting that brother Katya sees for themselves what the situation is keeps Kostya's side of the story simple and clear.
+- 'I want to ask about the hospital.' Katya explains that she wants to ask about the hospital, keeping her voice calm and direct.
+- 'Tell me, is everything really alright with you?' Wondering if tell her is everything really alright with Kostya shows Katya caught off guard. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Of course, everything is completely normal with me.' Saying that everything is completely normal with him is how Lyova sets the tone with Katya.
+- 'All of our waiters have suddenly disappeared somewhere.' Once all of their waiters have suddenly disappeared somewhere, Lyova can finally tell Katya what he means.
+- 'Apparently I will have to serve the dish myself.' Adding that apparently he will have to serve the dish himself fills in the missing piece for Katya.

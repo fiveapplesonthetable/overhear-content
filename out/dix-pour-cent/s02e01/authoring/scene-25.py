@@ -7,7 +7,6 @@ SCENE = 25
 TITLE = 'La trahison dévoilée  (The Betrayal Revealed)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'virginie': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'virginie': 'Virginie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'

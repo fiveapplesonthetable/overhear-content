@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 6
-TITLE = "Нам надо поговорить  (We Need to Talk)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Нам надо поговорить  (We Need to Talk)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'In the restaurant, Nastya stops Kostya because she wants to have a very serious conversation, and we will listen to their dialogue in Russian first; do not worry about catching every single word.'
 OPENER = "Now let's go back through the exchange around We Need to Talk line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya finally realizes that he cannot avoid this serious conversation with her. Next time you watch the episode, listen for the Russian expressions for 'it is necessary' and 'to have a talk' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, нам надо поговорить.', 'Kostya, we have to talk.', [(138, 'Нам надо поговорить.')], ''),
     ('kostya', 'Это может подождать?', 'Can it wait?', [], ''),

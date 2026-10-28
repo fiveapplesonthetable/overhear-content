@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Убери нож, я пришёл к тебе. | Put the knife away, I came to see you. | #69 00:04:48: Пришли<br>#70 00:04:57: Нож убери | adapted: adapted |
-| 2 | Нагиев | Витя, мы к тебе мириться пришли. | Vitya, we came to make peace with you. | #71 00:05:01: мы к тебе мириться пришли | adapted: adapted |
-| 3 | Шеф | Спасибо, но я сегодня не пью. | Thank you, but I am not drinking today. | #72 00:05:09: Я не пью | adapted: adapted |
-| 4 | Нагиев | Это очень смешная история, Витя. | That is a very funny story, Vitya. | #73 00:05:11: Смешная история | adapted: adapted |
-| 5 | Нагиев | Я уже где-то слышал эти слова. | I have already heard those words somewhere. | #73 00:05:11: Я уже ее где-то слышал | adapted: adapted |
-| 6 | Нагиев | Ты говорил так, когда устраивался на работу. | You talked like that when you were applying for the job. | #74 00:05:14: когда на работу ко мне устраивался | adapted: adapted |
-| 7 | Шеф | Дима, я не буду с тобой пить. | Dima, I am not going to drink with you. | #75 00:05:20: Дим, я не буду с тобой пить | adapted: adapted |
-| 8 | Шеф | Что сделать, чтобы ты это понял? | What must I do so that you understand this? | #76 00:05:22: Ну что мне сделать, чтобы ты это понял | adapted: adapted |
-| 9 | Нагиев | Тебе нужно просто выпить со мной! | You just need to have a drink with me! | #77 00:05:25: Выпить | adapted: adapted |
-| 10 | Нагиев | Думаешь, мне легко было прийти сюда? | Do you think it was easy for me to come here? | #77 00:05:25: Ты думаешь, мне легко было прийти | adapted: adapted |
-| 11 | Нагиев | Ну что, давай выпьем за мир? | Well then, let's drink to peace? | #79 00:05:34: Выпьем | adapted: adapted |
-| 12 | Нагиев | Ладно, я понял, пить не будешь. | All right, I get it, you will not drink. | #80 00:05:39: Ладно, я понял<br>#81 00:05:43: Пить ты не будешь | adapted: adapted |
+| 1 | Шеф | Убери нож, я пришёл к тебе. | Put the knife away, I came to see you. | #69: Пришли<br>#70: Нож убери | adapted: adapted |
+| 2 | Нагиев | Витя, мы к тебе мириться пришли. | Vitya, we came to make peace with you. | #71: мы к тебе мириться пришли | adapted: adapted |
+| 3 | Шеф | Спасибо, но я сегодня не пью. | Thank you, but I am not drinking today. | #72: Я не пью | adapted: adapted |
+| 4 | Нагиев | Это очень смешная история, Витя. | That is a very funny story, Vitya. | #73: Смешная история | adapted: adapted |
+| 5 | Нагиев | Я уже где-то слышал эти слова. | I have already heard those words somewhere. | #73: Я уже ее где-то слышал | adapted: adapted |
+| 6 | Нагиев | Ты говорил так, когда устраивался на работу. | You talked like that when you were applying for the job. | #74: когда на работу ко мне устраивался | adapted: adapted |
+| 7 | Шеф | Дима, я не буду с тобой пить. | Dima, I am not going to drink with you. | #75: Дим, я не буду с тобой пить | adapted: adapted |
+| 8 | Шеф | Что сделать, чтобы ты это понял? | What must I do so that you understand this? | #76: Ну что мне сделать, чтобы ты это понял | adapted: adapted |
+| 9 | Нагиев | Тебе нужно просто выпить со мной! | You just need to have a drink with me! | #77: Выпить | adapted: adapted |
+| 10 | Нагиев | Думаешь, мне легко было прийти сюда? | Do you think it was easy for me to come here? | #77: Ты думаешь, мне легко было прийти | adapted: adapted |
+| 11 | Нагиев | Ну что, давай выпьем за мир? | Well then, let's drink to peace? | #79: Выпьем | adapted: adapted |
+| 12 | Нагиев | Ладно, я понял, пить не будешь. | All right, I get it, you will not drink. | #80: Ладно, я понял<br>#81: Пить ты не будешь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put the knife away, I came to see you.' Opening the door while chopping food, Barinov glares as Nagiyev nervously eyes the kitchen knife.
-- 'Vitya, we came to make peace with you.' Here Nagiyev anchors the thought on 'to make peace' and finishes on 'came', keeping the spoken rhythm brisk and natural.
-- 'Thank you, but I am not drinking today.' Barinov states his refusal flatly using a negated first-person singular present verb.
-- 'That is a very funny story, Vitya.' Nagiyev laughs at the idea of Viktor Petrovich turning down good whisky.
-- 'I have already heard those words somewhere.' An indefinite spatial adverb meaning somewhere modifies the masculine past verb of hearing.
-- 'You talked like that when you were applying for the job.' He reminds Barinov of what he promised years ago when joining Claude Monet.
-- 'Dima, I am not going to drink with you.' The negated compound future tense expresses a firm refusal to drink together.
-- 'What must I do so that you understand this?' Chef Barinov pairs 'to do, to make' with 'understood' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'You just need to have a drink with me!' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
-- 'Do you think it was easy for me to come here?' In spoken Russian, the words stay in their normal statement order and Nagiyev's rising voice at the end turns the line into a question.
-- 'Well then, let's drink to peace?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
-- 'All right, I get it, you will not drink.' Pretending to give up and leave, Nagiyev pauses by the door for one last appeal.
+- 'Put the knife away, I came to see you.' By telling Nagiyev to put the knife away he came to see Nagiyev, Barinov keeps his side of the story grounded. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Vitya, we came to make peace with you.' Even though they came to make peace with Barinov, Nagiyev keeps a steady face in front of Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Thank you, but I am not drinking today.' Adding that he is not drinking today fills in the missing piece for Nagiyev.
+- 'That is a very funny story, Vitya.' Saying that that is a very funny story is how Nagiyev sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I have already heard those words somewhere.' Admitting that he has already heard those words somewhere shows Nagiyev being honest for a change.
+- 'You talked like that when you were applying for the job.' Adding that Barinov talked like that when Barinov was applying for the job fills in the missing piece for Barinov.
+- 'Dima, I am not going to drink with you.' Realizing that he is not going to drink with Nagiyev changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What must I do so that you understand this?' When Barinov asks if what must he does so that Nagiyev understands this, Nagiyev has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You just need to have a drink with me!' Nagiyev insists that Barinov just need to have a drink with him, leaving Barinov no room to argue.
+- 'Do you think it was easy for me to come here?' Asking whether Barinov thinks it was easy for him to come here is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well then, let's drink to peace?' Asking whether they should drink to peace puts Barinov right on the defensive. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'All right, I get it, you will not drink.' Explaining that all right he gets it Barinov will not drink lays the cards on the table for Barinov.

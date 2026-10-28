@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Саша | Поговорить надо. | We need to talk. | #204 00:12:33: Поговорить надо | verbatim |
-| 2 | Саша | Саша, не лезь, она моя девушка. | Sasha, stay out of this, she is my girlfriend. | #205 00:12:37: Саша, не лезь, она моя девушка | verbatim |
-| 3 | Саша | И ты не радуйся, это не надолго. | And do not get too happy, that will not last long. | #206 00:12:39: И ты не радуйся, это не надолго | verbatim |
-| 4 | Саша | Я вижу, ты не понял. | I see you did not get the message. | #207 00:12:41: Я вижу, ты не понял | verbatim |
-| 5 | Саша | Ну, объясни. | Well, explain it to me then. | #208 00:12:44: Ну, объясни | verbatim |
-| 6 | Саша | На, ну-ка, прекратили немедленно. | Hey, stop this immediately, both of you. | #209 00:12:46: На, ну-ка, прекратили немедленно | verbatim |
-| 7 | Саша | С тобой еще закончили, понял? | We are not finished here yet, got it? | #210 00:12:47: С тобой еще закончили, понял | verbatim |
-| 8 | Саша | Извините, пожалуйста. | Excuse me, please. | #211 00:12:50: Извините, пожалуйста | verbatim |
-| 9 | Саша | Я же вам говорила. | Just like I told you. | #212 00:12:52: Я же вам говорила | verbatim |
-| 10 | Саша | Здесь всегда что-то происходит. | There is always something dramatic happening here. | #213 00:12:55: Здесь всегда что-то происходит | verbatim |
-| 11 | Саша | Вот этого гостя надо очень быстро обслужить. | This guest right here needs to be served very quickly. | #214 00:13:06: Вот этого гостя надо очень быстро обслужить | verbatim |
-| 12 | Саша | Понял меня? | Do you understand me? | #215 00:13:10: Понял меня | verbatim |
-| 13 | Саша | Не вопрос. | No problem at all. | #216 00:13:12: Не вопрос | verbatim |
+| 1 | Саша | Поговорить надо. | We need to talk. | #204: Поговорить надо | verbatim |
+| 2 | Шеф | Саша, не лезь, она моя девушка. | Sasha, stay out of this, she is my girlfriend. | #205: Саша, не лезь, она моя девушка | verbatim |
+| 3 | Саша | И ты не радуйся, это не надолго. | And do not get too happy, that will not last long. | #206: И ты не радуйся, это не надолго | verbatim |
+| 4 | Шеф | Я вижу, ты не понял. | I see you did not get the message. | #207: Я вижу, ты не понял | verbatim |
+| 5 | Саша | Ну, объясни. | Well, explain it to me then. | #208: Ну, объясни | verbatim |
+| 6 | Шеф | На, ну-ка, прекратили немедленно. | Hey, stop this immediately, both of you. | #209: На, ну-ка, прекратили немедленно | verbatim |
+| 7 | Саша | С тобой еще закончили, понял? | We are not finished here yet, got it? | #210: С тобой еще закончили, понял | verbatim |
+| 8 | Шеф | Извините, пожалуйста. | Excuse me, please. | #211: Извините, пожалуйста | verbatim |
+| 9 | Саша | Я же вам говорила. | Just like I told you. | #212: Я же вам говорила | verbatim |
+| 10 | Шеф | Здесь всегда что-то происходит. | There is always something dramatic happening here. | #213: Здесь всегда что-то происходит | verbatim |
+| 11 | Саша | Вот этого гостя надо очень быстро обслужить. | This guest right here needs to be served very quickly. | #214: Вот этого гостя надо очень быстро обслужить | verbatim |
+| 12 | Шеф | Понял меня? | Do you understand me? | #215: Понял меня | verbatim |
+| 13 | Саша | Не вопрос. | No problem at all. | #216: Не вопрос | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' Notice how Russian expresses 'to talk' and 'at' with crisp inflection rather than helper words.
-- 'Sasha, stay out of this, she is my girlfriend.' Spoken Russian keeps this brisk, leaning on 'Sasha' and finishing on 'girl'. Sasha answers right away.
-- 'And do not get too happy, that will not last long.' The meaning hinges on 'both' working together with 'for long' in spoken Russian.
-- 'I see you did not get the message.' Chef Viktor addresses the listener with the informal singular 'you' alongside 'understood?'.
-- 'Well, explain it to me then.' The grammar packs 'come on' and 'explain' into a tight, idiomatic kitchen exchange. Chef Viktor answers right away.
-- 'Hey, stop this immediately, both of you.' The grammar packs 'on' and 'immediately' into a tight, idiomatic kitchen exchange.
-- 'We are not finished here yet, got it?' Sasha brings out the contrast between 'with' and 'you' in a few short words.
-- 'Excuse me, please.' The meaning hinges on 'excuse me' working together with 'there you go' in spoken Russian. Sasha answers right away.
-- 'Just like I told you.' The '-a' ending on the past-tense verb for 'used to say' marks a female speaker or subject.
-- 'There is always something dramatic happening here.' Chef Viktor anchors the line on 'here', while 'is going on' completes the thought.
-- 'This guest right here needs to be served very quickly.' In Russian, the idea of 'there you go' flows naturally into 'to serve' without extra filler words. Chef Viktor answers right away.
-- 'Do you understand me?' Chef Viktor raises the pitch on 'me' to turn the phrase into a direct spoken question.
-- 'No problem at all.' The grammar packs 'not' and 'question' into a tight, idiomatic kitchen exchange.
+- 'We need to talk.' By needing to talk, Sasha keeps her side of the story grounded. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Sasha, stay out of this, she is my girlfriend.' Staying out of this she is his girlfriend is how Barinov lays out the situation for Sasha.
+- 'And do not get too happy, that will not last long.' Realizing that do not get too happy that will not last long changes how Sasha handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I see you did not get the message.' Barinov explains that he sees Sasha did not get the message, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well, explain it to me then.' Saying that Barinov should explain it to her then is how Sasha sets the tone with Barinov.
+- 'Hey, stop this immediately, both of you.' Once Sasha should stop this immediately both of Sasha, Barinov can finally tell Sasha what he means.
+- 'We are not finished here yet, got it?' Asking whether they are not finished here yet got it puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Excuse me, please.' With the guest and point in play, Barinov keeps this short reply brisk and direct.
+- 'Just like I told you.' Adding that just like she told Barinov fills in the missing piece for Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'There is always something dramatic happening here.' Saying that there is always something dramatic happening here is how Barinov sets the tone with Sasha.
+- 'This guest right here needs to be served very quickly.' Since this guest right here needs to be served very quickly, Sasha does not waste words on excuses.
+- 'Do you understand me?' Here checking whether Sasha understands him shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'No problem at all.' With the shift and table in play, Sasha keeps this short reply brisk and direct.

@@ -1,36 +1,38 @@
-# domashniy-arest/s01e01/scene-14.py
-ID = "domashniy-arest-s01e01-scene-14"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e01-scene-14.
+ID = 'domashniy-arest-s01e01-scene-14'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 1
 SCENE = 14
-TITLE = "Стоять!  (Freeze!)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.01"
-SOURCE_FILE = "sources/domashniy-arest/s01/e01.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "arakelyan": "anja", "captain": "angelina"}
-LABELS = {"anya": "Аркадий", "arakelyan": "Аракелян", "captain": "Капитан"}
+TITLE = 'Стоять!  (Freeze!)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arakelyan': 'Аракелян', 'arkady': 'Аркадий', 'captain': 'Капитан'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.01'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
 INTRO = "Back with Arkady now, who arrives at the Santa Fe café. While Marina was standing up to her dean, the mayor was on his way here to meet Arakelyan, the businessman who phoned to say the money for the shopping centre was ready. We'll hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("anya", "Ну, ты где?", "So, where are you?", [(560, 'Ну, ты где')], "'есть-то' dropped"),
-    ("arakelyan", "Я здесь.", "I'm here.", [(561, 'Я здесь')], ""),
-    ("anya", "Почему ты сидишь в углу?", "Why are you sitting in the corner?", [], "new: a plain version of cue 562 ('Ты че сюда засел, ара?', why have you holed up here)"),
-    ("arakelyan", "Конспирация.", "Secrecy.", [(563, 'Конспирация')], ""),
-    ("arakelyan", "Здравствуйте, Аркадий Борисович.", "Hello, Arkady Borisovich.", [(564, 'Аркадий Борисович')], "'Здравствуйте' added (he says 'Здрасте' in cue 559)"),
-    ("anya", "А что грустный такой?", "So why so gloomy?", [(565, 'грустный такой')], "'Слышь, конспиратор, а чё' -> 'А что'"),
-    ("arakelyan", "Многовато. Кризис же.", "It's a bit much. There's a crisis, you know.", [(566, 'Многовато. Кризис же')], ""),
-    ("anya", "Ты эти деньги через полгода вернёшь.", "You'll get this money back in six months.", [(568, 'Ты эти'), (568, 'через полгода')], "slang 'бабки' -> 'деньги', 'отобьешь' -> 'вернёшь'"),
-    ("arakelyan", "Тише, пожалуйста.", "Quiet, please.", [], "new: shows his nerves, which Arkady laughs at in cue 569"),
-    ("anya", "Ты что, шпион?", "What are you, a spy?", [], "new: a short version of cue 569 (have you watched too many spy films?)"),
-    ("anya", "Это наш город. Нам здесь бояться некого.", "This is our town. We have nobody to fear here.", [(570, 'Это наш город'), (571, 'Нам здесь бояться некого')], "'Ара' (a nickname) dropped"),
-    ("captain", "Стоять!", "Freeze!", [(572, 'Стоять')], ""),
-    ("captain", "Капитан Гнездо, следственный комитет.", "Captain Gnezdo, Investigative Committee.", [(573, 'Капитан Гнездо, следственный комитет')], ""),
-    ("captain", "Гражданин Аникеев, вы арестованы.", "Citizen Anikeev, you are under arrest.", [(574, 'Гражданин Аникеев, вы арестованы')], ""),
-    ("anya", "Что? За что?", "What? What for?", [], "new: Arkady's reaction is not in the subtitles"),
-    ("captain", "За взятку. За очень большую взятку.", "For a bribe. For a very large bribe.", [], "new: simplifies cues 574-575 ('по подозрению в получении взятки в особо крупных размерах')"),
-]
 OPENER = "Let's go through it slowly. The café is dim, and at first Arkady can't even see the man he's come to meet."
+TRANSITION = "Let's hear it all again, start to finish."
+OUTRO = "So the mayor's busy day ends with his arrest. You don't need every word; if you remember the shout of 'freeze' and the line about having nobody to fear, you've got the heart of it. See you next time!"
+CLOSING = ('captain', 'Пока!')
+STORY = [
+    ('arkady', 'Ну, ты где?', 'So, where are you?', [(560, 'Ну, ты где')], "'есть-то' dropped"),
+    ('arakelyan', 'Я здесь.', "I'm here.", [(561, 'Я здесь')], ''),
+    ('arkady', 'Почему ты сидишь в углу?', 'Why are you sitting in the corner?', [], "new: a plain version of cue 562 ('Ты че сюда засел, ара?', why have you holed up here)"),
+    ('arakelyan', 'Конспирация.', 'Secrecy.', [(563, 'Конспирация')], ''),
+    ('arakelyan', 'Здравствуйте, Аркадий Борисович.', 'Hello, Arkady Borisovich.', [(564, 'Аркадий Борисович')], "'Здравствуйте' added (he says 'Здрасте' in cue 559)"),
+    ('arkady', 'А что грустный такой?', 'So why so gloomy?', [(565, 'грустный такой')], "'Слышь, конспиратор, а чё' -> 'А что'"),
+    ('arakelyan', 'Многовато. Кризис же.', "It's a bit much. There's a crisis, you know.", [(566, 'Многовато. Кризис же')], ''),
+    ('arkady', 'Ты эти деньги через полгода вернёшь.', "You'll get this money back in six months.", [(568, 'Ты эти'), (568, 'через полгода')], "slang 'бабки' -> 'деньги', 'отобьешь' -> 'вернёшь'"),
+    ('arakelyan', 'Тише, пожалуйста.', 'Quiet, please.', [], 'new: shows his nerves, which Arkady laughs at in cue 569'),
+    ('arkady', 'Ты что, шпион?', 'What are you, a spy?', [], 'new: a short version of cue 569 (have you watched too many spy films?)'),
+    ('arkady', 'Это наш город. Нам здесь бояться некого.', 'This is our town. We have nobody to fear here.', [(570, 'Это наш город'), (571, 'Нам здесь бояться некого')], "'Ара' (a nickname) dropped"),
+    ('captain', 'Стоять!', 'Freeze!', [(572, 'Стоять')], ''),
+    ('captain', 'Капитан Гнездо, следственный комитет.', 'Captain Gnezdo, Investigative Committee.', [(573, 'Капитан Гнездо, следственный комитет')], ''),
+    ('captain', 'Гражданин Аникеев, вы арестованы.', 'Citizen Anikeev, you are under arrest.', [(574, 'Гражданин Аникеев, вы арестованы')], ''),
+    ('arkady', 'Что? За что?', 'What? What for?', [], "new: Arkady's reaction is not in the subtitles"),
+    ('captain', 'За взятку. За очень большую взятку.', 'For a bribe. For a very large bribe.', [], "new: simplifies cues 574-575 ('по подозрению в получении взятки в особо крупных размерах')"),
+]
 WALK = [
     (0, None, "'So, where are you?' Arkady uses the informal singular 'you' here with 'where', as friends and close colleagues do."),
     (1, None, "'I'm here.' One of the first things you learn: 'I', and 'here'. No verb at all. Arkady is puzzled."),
@@ -50,6 +52,3 @@ WALK = [
     (14, None, "'What? What for?' The second question literally means 'for what?'. The captain tells him."),
     (15, None, "'For a bribe. For a very large bribe.' The same little word, 'for', again, and the bribe takes the ending of the object. So the meeting was a trap, and only a minute after he said he had nobody to fear."),
 ]
-TRANSITION = "Let's hear it all again, start to finish."
-OUTRO = "So the mayor's busy day ends with his arrest. You don't need every word; if you remember the shout of 'freeze' and the line about having nobody to fear, you've got the heart of it. See you next time!"
-CLOSING = ("captain", "Пока!")

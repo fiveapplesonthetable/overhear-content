@@ -1,37 +1,39 @@
-# domashniy-arest/s01e03/scene-18.py
-ID = "domashniy-arest-s01e03-scene-18"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-18.
+ID = 'domashniy-arest-s01e03-scene-18'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 18
 TITLE = "Подарки декана  (The Dean's Presents)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "dean": "anja", "marina": "angelina", "anya": "alisa"}
-LABELS = {"dean": "Эдуард Владимирович", "marina": "Марина", "anya": "Аркадий"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'dean': 'Эдуард Владимирович', 'marina': 'Марина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "She walks out saying she cannot stand being in the same room with him. In her room, her ex-lover, the dean Eduard Vladimirovich, arrives with presents to beg for forgiveness and spots the small foil packet on her table just as Arkady walks in. Let's listen in Russian first."
-STORY = [
-    ("dean", "Пожалуйста, не гони меня. Я знаю, что я виноват.", "Please, don't chase me away. I know it's my fault.", [(548, 'Пожалуйста, не гони меня'), (551, 'Я знаю, что я виноват')], ""),
-    ("dean", "Это электрогитара для Лёши. А тебе я взял чилийское вино и ягоды.", "Look, this is an electric guitar for Lyosha. And for you I brought Chilean wine and berries.", [(555, 'это электрогитара для Леши'), (557, 'А тебе'), (557, 'я взял чилийское вино и'), (557, 'ягоды')], "'между прочим' and 'вот' trimmed"),
-    ("marina", "Эдик, уходи, пожалуйста.", "Edik, please leave.", [(559, 'Эдик, уходи, пожалуйста')], ""),
-    ("dean", "Это что такое?", "What is this?", [(561, 'Это что такое')], "spotting the small foil packet on the table"),
-    ("marina", "Это не то, что ты подумал. Всё, уходи.", "It's not what you think. That's it, get out.", [(562, 'Это не то, что ты подумал'), (569, 'Все, уходи')], ""),
-    ("dean", "Что значит, уходи? Я требую объяснений, Марина.", "What do you mean, get out? I demand an explanation, Marina.", [(570, 'Что значит, уходи? Я требую объяснений, Марина')], ""),
-    ("marina", "Каких объяснений? Я что, жена тебе?", "What explanation? Am I your wife?", [(571, 'Каких объяснений'), (572, 'Я что, жена тебе')], "'что ли' trimmed"),
-    ("anya", "Эдуард Владимирович, здравствуйте. А Алла Евгеньевна как же?", "Eduard Vladimirovich, hello. And what about Alla Yevgenyevna?", [(575, 'Эдуард'), (575, 'здравствуйте'), (581, 'а Алла Евгеньевна как же')], "cue 575 says 'Валентинович'; kept 'Владимирович' as in characters.md"),
-    ("dean", "Здравствуйте. Оставьте в покое Аллу Евгеньевну!", "Hello. Leave Alla Yevgenyevna alone!", [(576, 'Здравствуйте'), (583, 'оставьте в покое Аллу Евгеньевну')], ""),
-    ("dean", "Не надо лезть в нашу личную жизнь. Марина, это для него?", "And don't meddle in our private life. Marina, is this for him?", [(584, 'не надо лезть в нашу личную жизнь'), (594, 'Марина, это'), (595, 'для него')], "skipping crude cues 586 and 591"),
-    ("marina", "Эдик, я хотела тебе изменить. С ним, чтобы отомстить.", "Edik, I wanted to cheat on you. With him, to take revenge.", [(601, 'Эдик, я хотела тебе изменить'), (603, 'С ним'), (604, 'Чтобы отомстить')], ""),
-    ("marina", "Но он слишком мерзкий, и я передумала.", "But he is too disgusting, and I changed my mind.", [(606, 'Но он'), (606, 'слишком мерзкий, и я передумала')], "'оказался' dropped for A1 length"),
-    ("anya", "Я мерзкий? Марина, послушайте, это я вам отказал!", "I'm disgusting? Marina, listen, I was the one who turned you down!", [(607, 'Я'), (608, 'Марина, послушайте, это я вам'), (608, 'отказал')], "cue 607 'оказался мерзким' -> 'мерзкий'; 'вообще-то' trimmed"),
-    ("dean", "Всё, я ухожу. Ребёнок ни при чём. Передай это Алексею.", "That's it, I'm leaving. The child isn't to blame. Give this to Alexei.", [(611, 'Все, я ухожу'), (613, 'Ребенок ни при чем'), (614, 'Передай'), (614, 'это Алексею')], "'пожалуйста' trimmed"),
-    ("anya", "А вино с фруктами?", "And what about the wine and fruit?", [(617, 'А вино с фруктами')], ""),
-    ("dean", "Это вам сейчас необходимо.", "You need this right now.", [(619, 'Это вам сейчас необходимо')], ""),
-    ("marina", "Эдик, подожди! Я прошу тебя.", "Edik, wait! I'm begging you.", [(620, 'Эдик, подожди'), (621, 'Я прошу тебя')], ""),
-]
 OPENER = "Let's go back through the scene line by line. The dean stands in Marina's doorway holding a guitar box and a bag of groceries."
+TRANSITION = "Now let's hear the whole scene again from start to finish."
+OUTRO = "So Marina's cover story leaves the dean heartbroken and leaves Arkady with a free bottle of Chilean wine and fresh berries. See you next time!"
+CLOSING = ('dean', 'Пока!')
+STORY = [
+    ('dean', 'Пожалуйста, не гони меня. Я знаю, что я виноват.', "Please, don't chase me away. I know it's my fault.", [(548, 'Пожалуйста, не гони меня'), (551, 'Я знаю, что я виноват')], ''),
+    ('dean', 'Это электрогитара для Лёши. А тебе я взял чилийское вино и ягоды.', 'Look, this is an electric guitar for Lyosha. And for you I brought Chilean wine and berries.', [(555, 'это электрогитара для Леши'), (557, 'А тебе'), (557, 'я взял чилийское вино и'), (557, 'ягоды')], "'между прочим' and 'вот' trimmed"),
+    ('marina', 'Эдик, уходи, пожалуйста.', 'Edik, please leave.', [(559, 'Эдик, уходи, пожалуйста')], ''),
+    ('dean', 'Это что такое?', 'What is this?', [(561, 'Это что такое')], 'spotting the small foil packet on the table'),
+    ('marina', 'Это не то, что ты подумал. Всё, уходи.', "It's not what you think. That's it, get out.", [(562, 'Это не то, что ты подумал'), (569, 'Все, уходи')], ''),
+    ('dean', 'Что значит, уходи? Я требую объяснений, Марина.', 'What do you mean, get out? I demand an explanation, Marina.', [(570, 'Что значит, уходи? Я требую объяснений, Марина')], ''),
+    ('marina', 'Каких объяснений? Я что, жена тебе?', 'What explanation? Am I your wife?', [(571, 'Каких объяснений'), (572, 'Я что, жена тебе')], "'что ли' trimmed"),
+    ('arkady', 'Эдуард Владимирович, здравствуйте. А Алла Евгеньевна как же?', 'Eduard Vladimirovich, hello. And what about Alla Yevgenyevna?', [(575, 'Эдуард'), (575, 'здравствуйте'), (581, 'а Алла Евгеньевна как же')], "cue 575 says 'Валентинович'; kept 'Владимирович' as in characters.md"),
+    ('dean', 'Здравствуйте. Оставьте в покое Аллу Евгеньевну!', 'Hello. Leave Alla Yevgenyevna alone!', [(576, 'Здравствуйте'), (583, 'оставьте в покое Аллу Евгеньевну')], ''),
+    ('dean', 'Не надо лезть в нашу личную жизнь. Марина, это для него?', "And don't meddle in our private life. Marina, is this for him?", [(584, 'не надо лезть в нашу личную жизнь'), (594, 'Марина, это'), (595, 'для него')], 'skipping crude cues 586 and 591'),
+    ('marina', 'Эдик, я хотела тебе изменить. С ним, чтобы отомстить.', 'Edik, I wanted to cheat on you. With him, to take revenge.', [(601, 'Эдик, я хотела тебе изменить'), (603, 'С ним'), (604, 'Чтобы отомстить')], ''),
+    ('marina', 'Но он слишком мерзкий, и я передумала.', 'But he is too disgusting, and I changed my mind.', [(606, 'Но он'), (606, 'слишком мерзкий, и я передумала')], "'оказался' dropped for A1 length"),
+    ('arkady', 'Я мерзкий? Марина, послушайте, это я вам отказал!', "I'm disgusting? Marina, listen, I was the one who turned you down!", [(607, 'Я'), (608, 'Марина, послушайте, это я вам'), (608, 'отказал')], "cue 607 'оказался мерзким' -> 'мерзкий'; 'вообще-то' trimmed"),
+    ('dean', 'Всё, я ухожу. Ребёнок ни при чём. Передай это Алексею.', "That's it, I'm leaving. The child isn't to blame. Give this to Alexei.", [(611, 'Все, я ухожу'), (613, 'Ребенок ни при чем'), (614, 'Передай'), (614, 'это Алексею')], "'пожалуйста' trimmed"),
+    ('arkady', 'А вино с фруктами?', 'And what about the wine and fruit?', [(617, 'А вино с фруктами')], ''),
+    ('dean', 'Это вам сейчас необходимо.', 'You need this right now.', [(619, 'Это вам сейчас необходимо')], ''),
+    ('marina', 'Эдик, подожди! Я прошу тебя.', "Edik, wait! I'm begging you.", [(620, 'Эдик, подожди'), (621, 'Я прошу тебя')], ''),
+]
 WALK = [
     (0, 'Пожалуйста, не гони меня.', "'Please, don't chase me away.' He starts with 'please' and a negative command: 'don't drive me out'."),
     (0, 'Я знаю, что я виноват.', "'I know it's my fault.' Word for word: 'I know that I am guilty'. The short adjective at the end is masculine because Edik is a man. Then he shows his peace offerings."),
@@ -61,6 +63,3 @@ WALK = [
     (15, None, "'You need this right now.' Literally 'this to you now is necessary'. And he storms out while Marina calls after him."),
     (16, None, "'Edik, wait! I'm begging you.' Two short pleas, but the door is already shut."),
 ]
-TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "So Marina's cover story leaves the dean heartbroken and leaves Arkady with a free bottle of Chilean wine and fresh berries. See you next time!"
-CLOSING = ("dean", "Пока!")

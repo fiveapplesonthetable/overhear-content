@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 5
-TITLE = "Секретный паштет  (The Secret Pâté)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Секретный паштет  (The Secret Pâté)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, Max tastes a sample of Chef Viktor's homemade pâté. Blown away by the extraordinary taste, Max asks for the recipe, but Viktor refuses to share his secret. Ambitious and confident, Max proposes a bet. Let us listen to their conversation in Russian first."
 OPENER = "Now let us examine Viktor and Max's culinary wager line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With two whole days off hanging in the balance, Max pockets the sample of Viktor's pâté and heads off to start his kitchen experiments. Next time you watch the episode, listen for the Russian expressions for 'just' and 'amazing' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Шеф, это просто потрясающий паштет!', 'Chef, this is simply amazing pâté!', [(37, 'Обалденный паштет, шеф.')], ''),
-    ('chef', 'Конечно, это мой лучший фирменный рецепт.', 'Of course, this is my best signature recipe.', [(39, 'Это мой фирменный рецепт.')], ''),
-    ('anya', 'А какие продукты вы туда положили?', 'And what products did you put in there?', [(40, 'А что в него входит?')], ''),
-    ('chef', 'Это мой самый большой личный секрет.', 'This is my biggest personal secret.', [(41, 'Это секрет')], ''),
-    ('anya', 'Скажите хотя бы один секретный ингредиент.', 'Tell me at least one secret ingredient.', [(42, 'ну скажите хотя бы, из чего он состоит?')], ''),
-    ('chef', 'Ты никогда сам не догадаешься об этом.', 'You will never guess this by yourself.', [(43, 'тебе никогда не догадаться')], ''),
-    ('anya', 'Я смогу сам приготовить такой шедевр!', 'I will be able to make such a masterpiece myself!', [(45, 'Да я могу сам такой приготовить.')], ''),
-    ('chef', 'Ты серьёзно хочешь спорить со мной?', 'Do you seriously want to bet with me?', [(46, 'Серьезно?')], ''),
-    ('anya', 'Да, сегодня вечером я повторю блюдо.', 'Yes, tonight I will reproduce the dish.', [(47, 'Вечером повторю ваш паштет.')], ''),
-    ('chef', 'Возьми кусочек, чтобы сравнивать свой вкус.', 'Take a piece so that you can compare your taste.', [(48, 'чтобы ты мог сравнивать')], ''),
-    ('anya', 'Если я угадаю, вы дадите выходной?', 'If I guess, will you give a day off?', [(49, 'До вечера угадаешь, дам выходной.')], ''),
-    ('chef', 'Хорошо, если повторишь, получишь два выходных.', 'Fine, if you repeat it, you will get two days off.', [(50, 'Два.')], ''),
-    ('anya', 'Договорились, вечером я принесу своё блюдо!', 'It is a deal, tonight I will bring my dish!', [], ''),
+    ('max', 'Шеф, это просто потрясающий паштет!', 'Chef, this is simply amazing pâté!', [(37, 'Обалденный паштет, шеф.')], ''),
+    ('barinov', 'Конечно, это мой лучший фирменный рецепт.', 'Of course, this is my best signature recipe.', [(39, 'Это мой фирменный рецепт.')], ''),
+    ('max', 'А какие продукты вы туда положили?', 'And what products did you put in there?', [(40, 'А что в него входит?')], ''),
+    ('barinov', 'Это мой самый большой личный секрет.', 'This is my biggest personal secret.', [(41, 'Это секрет')], ''),
+    ('max', 'Скажите хотя бы один секретный ингредиент.', 'Tell me at least one secret ingredient.', [(42, 'ну скажите хотя бы, из чего он состоит?')], ''),
+    ('barinov', 'Ты никогда сам не догадаешься об этом.', 'You will never guess this by yourself.', [(43, 'тебе никогда не догадаться')], ''),
+    ('max', 'Я смогу сам приготовить такой шедевр!', 'I will be able to make such a masterpiece myself!', [(45, 'Да я могу сам такой приготовить.')], ''),
+    ('barinov', 'Ты серьёзно хочешь спорить со мной?', 'Do you seriously want to bet with me?', [(46, 'Серьезно?')], ''),
+    ('max', 'Да, сегодня вечером я повторю блюдо.', 'Yes, tonight I will reproduce the dish.', [(47, 'Вечером повторю ваш паштет.')], ''),
+    ('barinov', 'Возьми кусочек, чтобы сравнивать свой вкус.', 'Take a piece so that you can compare your taste.', [(48, 'чтобы ты мог сравнивать')], ''),
+    ('max', 'Если я угадаю, вы дадите выходной?', 'If I guess, will you give a day off?', [(49, 'До вечера угадаешь, дам выходной.')], ''),
+    ('barinov', 'Хорошо, если повторишь, получишь два выходных.', 'Fine, if you repeat it, you will get two days off.', [(50, 'Два.')], ''),
+    ('max', 'Договорились, вечером я принесу своё блюдо!', 'It is a deal, tonight I will bring my dish!', [], ''),
 ]
 WALK = [
     (0, None, "'Chef, this is simply amazing pâté!' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'amazing', followed by 'pâté'."),

@@ -7,8 +7,7 @@ SCENE = 17
 TITLE = 'Un nouveau rendez-vous  (A New Meeting)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel'}
-LABELS = {'camille': 'Camille', 'herve': 'Hervé'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the ASK agency, Camille Valentini lands an exciting movie audition for client Sophia Leprince. Meanwhile, Noemie calms Mathias's anxieties by pointing out that their boss's unusual silence means good news for their plans. Listen to the scene in French first."
@@ -27,10 +26,10 @@ STORY = [
     ('herve', 'Tu as décroché ce rendez-vous?', 'Did you land that appointment?', [(766, 'choper un rendez-vous')], ''),
     ('camille', 'Oui, un rendez-vous pour un film!', 'Yes, an appointment for a feature film!', [(766, 'pour demain pour un film')], ''),
     ('herve', "Ce n'est vraiment pas croyable!", 'That is truly unbelievable!', [(767, "c'est pas vrai")], ''),
-    ('herve', 'Si tout allait bien avec eux...', 'If everything went well with them...', [(768, 'bien passé avec les américains')], ''),
-    ('herve', 'Hicham vous aurait appelé depuis longtemps.', 'Hicham would have called you long ago.', [(769, 'Hicham il vous aurait appelé depuis longtemps')], ''),
-    ('herve', 'Il adore toujours se vanter.', 'He always loves to brag.', [(770, 'genre à fanfaronner')], ''),
-    ('herve', 'Alors arrêtez de stresser comme ça.', 'So stop stressing like that.', [(772, 'arrêtez de stresser là')], ''),
+    ('noemie', 'Si tout allait bien avec eux...', 'If everything went well with them...', [(768, 'bien passé avec les américains')], ''),
+    ('noemie', 'Hicham vous aurait appelé depuis longtemps.', 'Hicham would have called you long ago.', [(769, 'Hicham il vous aurait appelé depuis longtemps')], ''),
+    ('noemie', 'Il adore toujours se vanter.', 'He always loves to brag.', [(770, 'genre à fanfaronner')], ''),
+    ('noemie', 'Alors arrêtez de stresser comme ça.', 'So stop stressing like that.', [(772, 'arrêtez de stresser là')], ''),
 ]
 WALK = [
     (0, None, "'Yes, hello, what project is it for?' Camille answers a call from a movie producer. In spoken French, the little word before 'hello' drops its final vowel and attaches with an apostrophe."),

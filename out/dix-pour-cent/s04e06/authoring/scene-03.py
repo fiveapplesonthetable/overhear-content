@@ -7,7 +7,6 @@ SCENE = 3
 TITLE = 'Un projet pour Jean  (A Project for Jean)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'mathias': 'marcel', 'noemie': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'

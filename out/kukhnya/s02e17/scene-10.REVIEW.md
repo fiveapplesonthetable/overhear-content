@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Луи | При каждом приступе ярости вы читаете стихотворение. | With every fit of rage, you recite a poem. | #147 00:10:16: При каждом приступе ярости вы читаете стихотворение | verbatim |
-| 2 | Аня | А вы попробуйте. | Just give it a try. | #149 00:10:24: А вы попробуйте | verbatim |
-| 3 | Луи | Ну, например, любое. | Well, for example, any poem at all. | #150 00:10:27: Ну, например, любое | verbatim |
-| 4 | Аня | Ну, то. | Well, that one. | #153 00:10:39: ну, то | verbatim |
-| 5 | Луи | Я знаю, то. | I know that one. | #154 00:10:42: Я знаю, то | verbatim |
-| 6 | Аня | То заплачет. | Now it cries like a little child. | #156 00:10:49: то заплачет | verbatim |
-| 7 | Луи | Ну вот видите. | Well, there you see. | #157 00:10:53: Ну вот видите | verbatim |
-| 8 | Аня | Очень хочу, очень. | I really want to, very much. | #158 00:10:58: Очень хочу, очень | verbatim |
-| 9 | Луи | Ты меня. | You mean me. | #159 00:11:00: ты меня | verbatim |
-| 10 | Аня | Как от нее избавиться. | How do I get rid of her? | #160 00:11:05: как от нее избавиться | verbatim |
-| 11 | Луи | Ты скажи, что ты того. | Just tell her that you are, well, that way. | #161 00:11:08: Ты скажи, что ты того | verbatim |
-| 12 | Аня | Ну, девочек, не этого. | You know, not into girls. | #162 00:11:10: Ну, девочек, не этого | verbatim |
-| 13 | Луи | Садись с нами. | Come sit down with us. | #163 00:11:13: садись с нами | verbatim |
+| 1 | Луи | При каждом приступе ярости вы читаете стихотворение. | With every fit of rage, you recite a poem. | #147: При каждом приступе ярости вы читаете стихотворение | verbatim |
+| 2 | Макс | А вы попробуйте. | Just give it a try. | #149: А вы попробуйте | verbatim |
+| 3 | Луи | Ну, например, любое. | Well, for example, any poem at all. | #150: Ну, например, любое | verbatim |
+| 4 | Макс | Ну, то. | Well, that one. | #153: ну, то | verbatim |
+| 5 | Луи | Я знаю, то. | I know that one. | #154: Я знаю, то | verbatim |
+| 6 | Макс | То заплачет. | Now it cries like a little child. | #156: то заплачет | verbatim |
+| 7 | Луи | Ну вот видите. | Well, there you see. | #157: Ну вот видите | verbatim |
+| 8 | Макс | Очень хочу, очень. | I really want to, very much. | #158: Очень хочу, очень | verbatim |
+| 9 | Луи | Ты меня. | You mean me. | #159: ты меня | verbatim |
+| 10 | Макс | Как от нее избавиться. | How do I get rid of her? | #160: как от нее избавиться | verbatim |
+| 11 | Луи | Ты скажи, что ты того. | Just tell her that you are, well, that way. | #161: Ты скажи, что ты того | verbatim |
+| 12 | Макс | Ну, девочек, не этого. | You know, not into girls. | #162: Ну, девочек, не этого | verbatim |
+| 13 | Луи | Садись с нами. | Come sit down with us. | #163: садись с нами | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With every fit of rage, you recite a poem.' Notice how Russian expresses 'involved in' and 'a poem' with crisp inflection rather than helper words. Max answers right away.
-- 'Just give it a try.' In Russian, the idea of 'and' flows naturally into 'try' without extra filler words.
-- 'Well, for example, any poem at all.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'any'.
-- 'Well, that one.' Max brings out the contrast between 'come on' and 'then' in a few short words. Louis answers right away.
-- 'I know that one.' The meaning hinges on 'I' working together with 'then' in spoken Russian.
-- 'Now it cries like a little child.' Notice how Russian expresses 'then' and 'to fine' with crisp inflection rather than helper words.
-- 'Well, there you see.' Louis anchors the line on 'come on', while 'see' completes the thought. Max answers right away.
-- 'I really want to, very much.' In Russian, the idea of 'very' flows naturally into 'want' without extra filler words.
-- 'You mean me.' Louis brings out the contrast between 'you' and 'me' in a few short words.
-- 'How do I get rid of her?' Notice how Russian expresses 'how' and 'to get rid of' with crisp inflection rather than helper words. Louis answers right away.
-- 'Just tell her that you are, well, that way.' Louis centers this short reply on 'say', letting a few direct words carry the whole meaning.
-- 'You know, not into girls.' Max brings out the contrast between 'come on' and 'girl' in a few short words.
-- 'Come sit down with us.' Spoken Russian keeps this brisk, leaning on 'sit down' and finishing on 'with us'.
+- 'With every fit of rage, you recite a poem.' With the moment and anger in play, Louis keeps this short reply brisk and direct.
+- 'Just give it a try.' Over the moment and the anger, Max answers Louis without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Well, for example, any poem at all.' Around the moment and anger, Louis sets a calm, everyday tone with Max.
+- 'Well, that one.' Between the moment and the anger, Max gives Louis a quick, grounded response.
+- 'I know that one.' Claiming that he knows that one sounds confident, even if Max has doubts.
+- 'Now it cries like a little child.' Since it cries like a little child, Max does not waste words on excuses.
+- 'Well, there you see.' Mentioning that there Max sees moves the talk in a new direction.
+- 'I really want to, very much.' Max reminds Louis that he really wants to very much before the moment passes.
+- 'You mean me.' Because Max means him, Louis treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'How do I get rid of her?' By asking how he gets rid, Max presses Louis for a straight answer.
+- 'Just tell her that you are, well, that way.' Louis mentions that just tell her that Max is well that way so Max sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You know, not into girls.' With the work and anger in play, Max keeps this short reply brisk and direct.
+- 'Come sit down with us.' Explaining that Max should come sit down with them lays the cards on the table for Max.

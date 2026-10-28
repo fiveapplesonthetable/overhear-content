@@ -1,37 +1,39 @@
-# domashniy-arest/s01e02/scene-03.py
-ID = "domashniy-arest-s01e02-scene-03"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-03.
+ID = 'domashniy-arest-s01e02-scene-03'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 3
 TITLE = "Я не вор  (I'm Not a Thief)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "samson": "anja"}
-LABELS = {"anya": "Аркадий", "samson": "Самсон"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Now back to the present, and to the communal flat. So tonight, over a bottle of cheap vodka in the shared kitchen, he gives his candidate a lesson. Let's listen in Russian first."
-STORY = [
-    ("samson", "Водка — жидкий хлеб.", "Vodka is liquid bread.", [(88, 'Водка, жидкий хлеб')], "speaker not marked in the subtitles; given to Samson"),
-    ("anya", "Классный из тебя мэр получится, Самсон.", "You'll make a great mayor, Samson.", [(89, 'Классный из тебя мэр получится, Самсон')], ""),
-    ("anya", "Живот у тебя, как у депутата.", "You've got a belly like a member of parliament.", [(91, 'у тебя')], "adapted from cues 91-92: slang 'Булька' -> 'Живот'; 'как будто всю жизнь в Государственной думе просидел' -> 'как у депутата'"),
-    ("samson", "Угу.", "Uh-huh.", [(93, 'Угу')], ""),
-    ("anya", "Смотри. Я снимаю кольцо.", "Watch. I'm taking off my ring.", [(99, 'снимаю')], "cue 99 is garbled ('книгу'); its English says 'ring'. 'Смотри' added"),
-    ("samson", "Что ты снимаешь? Почему?", "What are you taking off? Why?", [(100, 'ты снимаешь? Почему')], "'Чё это' -> 'Что'"),
-    ("anya", "Потому что я не вор.", "Because I'm not a thief.", [(101, 'Потому что я не вор')], ""),
-    ("samson", "Я ничего не понял, Аркаш.", "I didn't understand a thing, Arkash.", [(104, 'Я ничего не понял, Аркаш')], ""),
-    ("anya", "Я человек чистый. Я вообще не вор.", "I'm an honest man. I'm not a thief at all.", [(105, 'Я человек чистый'), (106, 'не вор')], "cue 106 'Я вот здесь не вор вообще' -> 'Я вообще не вор'"),
-    ("anya", "Вот так на митингах говори, запомни.", "That's how you talk at rallies, remember that.", [(107, 'Вот так на митингах говори, запомни')], ""),
-    ("samson", "А, на митингах, да.", "Ah, at rallies, right.", [(108, 'А, на митингах, да')], ""),
-    ("anya", "Вор, вор. Откуда это слово?", "Thief, thief. Where does that word come from?", [(109, 'Вор, вор. Откуда это слово')], ""),
-    ("anya", "Это бизнес, Самсон. Бизнес.", "It's business, Samson. Business.", [(110, 'Это бизнес, Самсон. Бизнес')], ""),
-    ("samson", "Бизнес?", "Business?", [], "new: Samson repeats the word"),
-    ("anya", "Какая разница, кто будет строить дороги?", "What does it matter who builds the roads?", [(111, 'Какая разница, кто')], "'дороги тебе будет строить' -> 'будет строить дороги'"),
-    ("anya", "Моя фирма или дяди из Москвы.", "My firm, or some guys from Moscow.", [(112, 'Моя фирма'), (114, 'дяди из Москвы')], "'Или' moved to the middle"),
-    ("samson", "Поехали!", "Here we go!", [(115, 'Поехали')], "speaker not marked; given to Samson (the toast)"),
-]
 OPENER = "Let's go through it slowly. The vodka is terrible, but Samson has a kind word for it, and Arkady has big plans for him."
+TRANSITION = "Let's hear the whole lesson again."
+OUTRO = "Later that night Arkady can't sleep in his old room, he hates every piece of furniture in it, and old Klavdia Viktorovna from down the corridor tells him he's in hell now because he couldn't even steal properly. Let that be the lesson of the evening, and. See you next time!"
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Водка — жидкий хлеб.', 'Vodka is liquid bread.', [(88, 'Водка, жидкий хлеб')], 'speaker not marked in the subtitles; given to Samson'),
+    ('arkady', 'Классный из тебя мэр получится, Самсон.', "You'll make a great mayor, Samson.", [(89, 'Классный из тебя мэр получится, Самсон')], ''),
+    ('arkady', 'Живот у тебя, как у депутата.', "You've got a belly like a member of parliament.", [(91, 'у тебя')], "adapted from cues 91-92: slang 'Булька' -> 'Живот'; 'как будто всю жизнь в Государственной думе просидел' -> 'как у депутата'"),
+    ('samson', 'Угу.', 'Uh-huh.', [(93, 'Угу')], ''),
+    ('arkady', 'Смотри. Я снимаю кольцо.', "Watch. I'm taking off my ring.", [(99, 'снимаю')], "cue 99 is garbled ('книгу'); its English says 'ring'. 'Смотри' added"),
+    ('samson', 'Что ты снимаешь? Почему?', 'What are you taking off? Why?', [(100, 'ты снимаешь? Почему')], "'Чё это' -> 'Что'"),
+    ('arkady', 'Потому что я не вор.', "Because I'm not a thief.", [(101, 'Потому что я не вор')], ''),
+    ('samson', 'Я ничего не понял, Аркаш.', "I didn't understand a thing, Arkash.", [(104, 'Я ничего не понял, Аркаш')], ''),
+    ('arkady', 'Я человек чистый. Я вообще не вор.', "I'm an honest man. I'm not a thief at all.", [(105, 'Я человек чистый'), (106, 'не вор')], "cue 106 'Я вот здесь не вор вообще' -> 'Я вообще не вор'"),
+    ('arkady', 'Вот так на митингах говори, запомни.', "That's how you talk at rallies, remember that.", [(107, 'Вот так на митингах говори, запомни')], ''),
+    ('samson', 'А, на митингах, да.', 'Ah, at rallies, right.', [(108, 'А, на митингах, да')], ''),
+    ('arkady', 'Вор, вор. Откуда это слово?', 'Thief, thief. Where does that word come from?', [(109, 'Вор, вор. Откуда это слово')], ''),
+    ('arkady', 'Это бизнес, Самсон. Бизнес.', "It's business, Samson. Business.", [(110, 'Это бизнес, Самсон. Бизнес')], ''),
+    ('samson', 'Бизнес?', 'Business?', [], 'new: Samson repeats the word'),
+    ('arkady', 'Какая разница, кто будет строить дороги?', 'What does it matter who builds the roads?', [(111, 'Какая разница, кто')], "'дороги тебе будет строить' -> 'будет строить дороги'"),
+    ('arkady', 'Моя фирма или дяди из Москвы.', 'My firm, or some guys from Moscow.', [(112, 'Моя фирма'), (114, 'дяди из Москвы')], "'Или' moved to the middle"),
+    ('samson', 'Поехали!', 'Here we go!', [(115, 'Поехали')], 'speaker not marked; given to Samson (the toast)'),
+]
 WALK = [
     (0, None, "'Vodka is liquid bread.' An old drinking joke: it's made from grain, so it must be food. In Russian there is no word for 'is' in a sentence like this; the dash does the job."),
     (1, None, "'You'll make a great mayor, Samson.' Literally, 'a great mayor will come out of you'. The first word is a casual 'great, cool'. Then Arkady looks his candidate up and down."),
@@ -52,6 +54,3 @@ WALK = [
     (15, None, "'My firm, or some guys from Moscow.' Literally, 'uncles from Moscow', a casual way to say 'some people'. So the mayor's own company was building the town's roads. Samson raises his glass."),
     (16, None, "'Here we go!' Literally, 'we've set off'. It's what the first man in space said at take-off, and it's a favourite toast."),
 ]
-TRANSITION = "Let's hear the whole lesson again."
-OUTRO = "Later that night Arkady can't sleep in his old room, he hates every piece of furniture in it, and old Klavdia Viktorovna from down the corridor tells him he's in hell now because he couldn't even steal properly. Let that be the lesson of the evening, and. See you next time!"
-CLOSING = ("samson", "Пока!")
