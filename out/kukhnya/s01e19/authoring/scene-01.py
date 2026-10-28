@@ -12,8 +12,8 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. This episode opens at three in the morning at Vika's flat, where Max turns up very late and finds her waiting. You'll hear the scene in Russian first, and if most of it slips past you, that's completely fine."
 OPENER = 'Now line by line, starting with Max at the door.'
-TRANSITION = "Here's the whole quarrel once more; listen for the word svobodny."
-OUTRO = "Vika used Max's own word, svobodny, to show him the door, and you followed it. See you next time!"
+TRANSITION = "Here's the whole quarrel once more; listen for the word \"svobodny\"."
+OUTRO = "Vika used Max's own word, \"svobodny\", to show him the door, and you followed it. See you next time!"
 CLOSING = ('vika', 'Спокойной ночи!')
 STORY = [
     ('max', 'Разбудил?', 'Did I wake you?', [(1, 'Расбудил? Конечно, нет.')], ''),

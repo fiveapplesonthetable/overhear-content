@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "In the last scene, Vika asks Max what matters most to him, and his answer sums up the whole episode. Let the Russian play first, and let it sink in."
 OPENER = "Now Max's answer, phrase by phrase."
 TRANSITION = 'And one last time, here and now, in Russian.'
-OUTRO = "The episode ends on two words you now know, zdes' i seychas, here and now. See you next time!"
+OUTRO = "The episode ends on two words you now know, \"zdes' i seychas\", 'here and now'. See you next time!"
 CLOSING = ('vika', 'Всего хорошего!')
 STORY = [
     ('vika', 'Макс, что для тебя главное?', "Max, what's the most important thing for you?", [], ''),

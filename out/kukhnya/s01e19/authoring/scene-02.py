@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Senya, is the sauce ready?' \"Gotov\", 'ready', has no ending because \"sous\", 'sauce', is a masculine word; a ready pizza would be \"gotova\". \"Sous\" itself comes from French."),
-    (1, None, "'But I'm not Senya.' A at the start is a soft 'but', used when you correct someone. Ya ne Senya is simply 'I not Senya', with no word for 'am'."),
-    (2, None, "'I'm Artyom.' Ya and a name is the simplest way to introduce yourself. You could say it at any door: ya Maks."),
+    (1, None, "'But I'm not Senya.' \"A\" at the start is a soft 'but', used when you correct someone. \"Ya ne Senya\" is simply 'I not Senya', with no word for 'am'."),
+    (2, None, "'I'm Artyom.' \"Ya\" and a name is the simplest way to introduce yourself. You could say it at any door: \"ya Maks\"."),
     (3, None, "'Senya got fired.' The name turns into \"Senyu\" because he's the one being fired. \"Uvolili\", 'they fired', has no 'they': the -li ending alone points at whoever did it."),
     (4, None, "'I don't care who you are.' \"Mne plevat'\" is literally 'to me, to spit', a rude way to say 'I don't care'. \"Kto ty\", 'who you are', is just 'who you', with no verb at all."),
     (5, None, "'Today you're Senya.' \"Segodnya\", 'today', is spelled with a \"g\" but said with a \"v\", 'sevodnya'. The chef hands out the name like a job for the day."),
     (6, None, "'Fedya would have done it fast.' \"By\" after the name turns \"sdelal\", 'did', into 'would have done'. \"Sdelal\" is \"s-\" plus \"delal\", and the \"s-\" marks the job as finished."),
-    (7, None, "'I'm Fedya too, Chef.' This cook's real name happens to be Fedya. \"Tozhe\", 'too', sits right before what it adds to: \"tozhe\" Fedya, 'also Fedya'."),
-    (8, None, "'No, you're not Fedya.' Ne goes straight in front of the thing denied, here the name. It's the same pattern as ya ne Senya a moment ago."),
+    (7, None, "'I'm Fedya too, Chef.' This new cook really is called Fedya, but he is not the Fedya who was fired. \"Tozhe\", 'too', sits right before what it adds to: \"tozhe\" Fedya, 'also Fedya'."),
+    (8, None, "'No, you're not Fedya.' \"Ne\" goes straight in front of the thing denied, here the name. It's the same pattern as \"ya ne Senya\" a moment ago."),
     (9, None, "'You have to earn the name Fedya.' \"Zasluzhit' nado\", 'to earn is needed', is how Russian says 'you have to earn'. \"Imya\", 'name', is one of a few odd words ending in -mya; \"vremya\", 'time', is another."),
     (10, None, "'Now you're Artyom.' \"Teper'\" means 'now' as in 'from now on', a change from before. So this cook gets the other one's name."),
-    (11, None, "'Yes, Chef.' \"Da, shef\" is all a cook ever needs to say back. \"Shef\" is French chef, borrowed whole."),
+    (11, None, "'Yes, Chef.' \"Da, shef\" is all a cook ever needs to say back. \"Shef\" is French 'chef', borrowed whole."),
 ]

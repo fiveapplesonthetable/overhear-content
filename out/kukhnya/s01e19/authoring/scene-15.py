@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Barinov is plugging the restaurant on a television cooking show, so hard that the director loses patience, and then he checks in with Vika about the party. You'll hear the Russian first; catch what you can."
 OPENER = 'Now the studio and the chat with Vika, step by step.'
 TRANSITION = 'And now the whole scene again, studio first.'
-OUTRO = "Barinov lost his television slot, but you've picked up anshlag for a full house. See you next time!"
+OUTRO = "Barinov lost his television slot, but you've picked up \"anshlag\" for a full house. See you next time!"
 CLOSING = ('vika', 'Ладно, до завтра!')
 STORY = [
     ('barinov', 'Мы приготовили яйцо по-парижски.', 'We prepared a Parisian-style egg.', [(248, 'мы вместе с вами приготовили'), (248, 'яйцом по-парижски')], ''),

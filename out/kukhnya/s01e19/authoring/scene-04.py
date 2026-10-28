@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Over at Claude Monet, the owner, Nagiyev, is giving his friend Igor a grand tour and getting his own staff's names wrong. We'll get the Russian before any explaining; just enjoy the tone."
 OPENER = 'Now the tour again, stop by stop.'
 TRANSITION = 'One more lap of the restaurant, all in Russian.'
-OUTRO = "Nagiyev couldn't place Nastya, but you've picked up voobshche-to for setting someone straight. See you next time!"
+OUTRO = "Nagiyev couldn't place Nastya, but you've picked up \"voobshche-to\" for setting someone straight. See you next time!"
 CLOSING = ('nagiyev', 'Ну всё, пока!')
 STORY = [
     ('nagiyev', 'Вот, Игорь.', 'Here you go, Igor.', [(44, 'Вот, Игорек, это и есть оазис французской кухни.')], ''),
