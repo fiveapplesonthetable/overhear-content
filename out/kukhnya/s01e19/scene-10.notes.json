@@ -1918,10 +1918,26 @@
     },
     {
       "seg": 55,
-      "trans": "Bye!",
+      "trans": "Well, see you soon!",
       "words": [
         {
-          "t": "До",
+          "t": "Ну",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null,
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
+        },
+        {
+          "t": "всё,",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "до",
           "lemma": "до",
           "pos": "prep",
           "stress": null,
@@ -1929,12 +1945,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "свидания!",
-          "lemma": "свидание",
-          "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "t": "скорого!",
+          "lemma": "скорый",
+          "pos": "adj",
+          "stress": "ско́рого",
+          "gloss": "speedy, quick",
+          "gram": "genitive singular, neuter"
         }
       ]
     }
@@ -4366,44 +4382,6 @@
         }
       ]
     },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
     "понятие": {
       "lemma": "понятие",
       "stress": "поня́тие",
@@ -6300,6 +6278,48 @@
         }
       ]
     },
+    "ну": {
+      "lemma": "ну",
+      "stress": "ну",
+      "pos": "part",
+      "gloss": "well; come on",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "hesitation, at the start of a sentence"
+        },
+        {
+          "en": "oh come on!",
+          "note": "Ну, папа!. Core Russian part meaning 'well; come on' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ну, папа!",
+          "trans": "Oh, come on, Dad!"
+        },
+        {
+          "text": "Ну что?",
+          "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "ну-ка",
+          "gloss": "come on, let's see"
+        },
+        {
+          "word": "ладно",
+          "gloss": "alright"
+        }
+      ]
+    },
     "до": {
       "lemma": "до",
       "stress": "до",
@@ -6342,70 +6362,79 @@
         }
       ]
     },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
-      "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
+    "скорый": {
+      "lemma": "скорый",
+      "stress": "ско́рый",
+      "pos": "adj",
+      "gloss": "speedy, quick",
       "meanings": [
         {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        },
-        {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "en": "speedy, quick",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'корый'). Agrees in gender, number, and case with the noun it modifies ('speedy, quick')."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
+          "m",
+          "f",
+          "n",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "свидание",
-              "свидания"
+              "скорый",
+              "скорая",
+              "скорое",
+              "скорые"
             ]
           },
           {
             "cells": [
               "genitive",
-              "свидания",
-              "свиданий"
+              "скорого",
+              "скорой",
+              "скорого",
+              "скорых"
             ]
           },
           {
             "cells": [
               "dative",
-              "свиданию",
-              "свиданиям"
+              "скорому",
+              "скорой",
+              "скорому",
+              "скорым"
             ]
           },
           {
             "cells": [
               "accusative",
-              "свидание",
-              "свидания"
+              "скорый",
+              "скорую",
+              "скорое",
+              "скорые"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "свиданием",
-              "свиданиями"
+              "скорым",
+              "скорой",
+              "скорым",
+              "скорыми"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "свидании",
-              "свиданиях"
+              "скором",
+              "скорой",
+              "скором",
+              "скорых"
             ]
           }
         ]
@@ -6413,22 +6442,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
+          "text": "Макс Лавров? Привет, давай скорее обнимемся!",
+          "trans": "Max Lavrov? Hi, let's hug right away!"
         },
         {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
+          "text": "Ладно, иди готовь скорее своего дорогого короля!",
+          "trans": "Fine, go prepare your expensive king right away!"
         },
         {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
+          "text": "Гуля, подойди скорее сюда, у меня важное поручение.",
+          "trans": "Gulya, come over here quickly, I have an important errand."
         }
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "скоро",
+          "gloss": "speedyly (adverbial form)"
+        },
+        {
+          "word": "очень скорый",
+          "gloss": "very speedy"
         }
       ]
     }

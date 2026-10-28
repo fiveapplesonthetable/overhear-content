@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = 'Barinov is in his office on the phone, trying to talk Fedya into coming back to the kitchen. Fedya is in no hurry to forgive him. The Russian comes first.'
-OPENER = "Let's listen again, with the meaning this time."
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "Fedya returns, but on his own terms, or so he thinks. 'Ty mne nuzhen' is the Russian way to say 'I need you', and it makes the person you need the subject. See you next time!"
-CLOSING = ('barinov', 'До свидания!')
+INTRO = "Barinov is on the phone in his office, trying to talk Fedya into coming back. Fedya is in no hurry to forgive him. You'll hear the Russian first; just follow the tug of war."
+OPENER = 'Now the phone call, line by line.'
+TRANSITION = "Here's the call again from hello to ten o'clock."
+OUTRO = 'Fedya held out for a promotion and settled for a start time, and you caught the whole bargain. See you next time!'
+CLOSING = ('barinov', 'Всё, до завтра!')
 STORY = [
     ('barinov', 'Алло, Федя, привет!', 'Hello, Fedya, hi!', [(182, 'Алло, Федь, привет.')], ''),
     ('fedya', 'Здравствуйте, шеф, как ваши дела?', 'Hello, chef, how are you?', [(183, 'Как дела? Эктор Петрович, приветствую.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Жду тебя ровно в десять часов.', "I expect you at exactly ten o'clock.", [(205, 'Тогда завтра в десять.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Fedya, hi!' The word at the start is how Russians answer or start a phone call. 'Hi' is the casual 'privet'."),
-    (1, None, "'Hello, Chef, how are you?' The long hello is the polite one. 'How are your matters' is a standard way to ask."),
-    (2, None, "'Fedya, stop putting on an act.' The phrase 'to break a comedy' means to put on a show. 'Enough' is followed by the plain form."),
-    (3, None, "'Come back, I really need you.' 'Come back back' is not a mistake; the doubled word is normal. 'You to me needed' makes 'you' the subject."),
-    (4, None, "'Chef, I'm not coming back to the kitchen.' 'I'll return' carries 'sya'. 'To the kitchen' uses 'on' and a 'u' ending."),
-    (5, None, "'I know I was in the wrong.' 'In the wrong' is a short masculine form meaning 'guilty'. 'That' joins the two parts."),
-    (6, None, "'Sorry, but Senya has already agreed to come back.' 'Sorry' is the informal order to excuse. 'Agreed' ends in 'sya'."),
-    (7, None, "'Did Senya really agree?' The first word means 'is it possible?' and shows surprise. It stands for 'really?' at the start."),
-    (8, None, "'Senya was the first to agree to everything.' 'Agree to' needs a small word, 'na'. 'First' goes before the action."),
-    (9, None, "'Then make me the new sous-chef.' 'Make' is the polite command, and 'sous-chef' takes an 'om' ending after it. Fedya gets ambitious."),
-    (10, None, "'No, no sous-chefs, Fedya.' 'Not any' is one word, and it brings the 'of' plural. 'No' comes first."),
-    (11, None, "'Fine, then I'll come tomorrow morning.' 'I'll come' is the completed kind. 'Tomorrow morning' is two words."),
-    (12, None, "'I'll expect you at exactly ten o'clock.' 'I wait' stands for 'I'll expect'. 'Exactly' goes in front of 'at ten hours'."),
+    (0, None, "'Hello, Fedya, hi!' \"Allo\" is only for answering the phone; in person you'd never say it. Barinov piles on \"privet\" to sound friendly."),
+    (1, None, "'Hello, chef, how are you?' \"Zdravstvuyte\" is the formal hello, and its first \"v\" is silent: 'zdrastvuyte'. Fedya says \"vashi dela\" to his old boss, who calls him \"ty\"."),
+    (2, None, "'Fedya, quit acting.' \"Lomat' komediyu\", literally 'to break a comedy', means putting on an act. \"Khvatit\", 'enough', plus a verb is how you tell someone to stop."),
+    (3, None, "'Come back, I really need you.' \"Ty mne nuzhen\" is literally 'you are needed to me'. That's the usual way to say 'I need you' about a person."),
+    (4, None, "'Chef, I will not return to the kitchen.' \"Na kukhnyu\", 'to the kitchen', is the going-there form; in the kitchen would be \"na kukhne\". \"Ne vernus'\" already means 'won't return', without any 'will'."),
+    (5, None, "'I know that I was at fault.' \"Ya vinovat\" is 'it's my fault', literally 'I am guilty'. \"Chto\" here isn't 'what' but 'that', joining the two halves."),
+    (6, None, "'Sorry, but Senya has already agreed to return.' \"Izvini\" is 'sorry' to one person you call \"ty\"; Fedya would hear \"izvinite\" from a stranger. \"Soglasilsya\", 'agreed', ends in -sya."),
+    (7, None, "'Did Senya really agree?' \"Neuzheli\" is a one-word 'really?!', full of surprise. Adding \"pravda\" after it only doubles the disbelief."),
+    (8, None, "'Senya was the first to agree to everything.' \"Pervy\", 'first', does the job of 'was the first to'. \"Na vsyo\" is 'to everything', so Senya didn't haggle at all."),
+    (9, None, "'Then make me the new sous-chef.' \"Su-shef\" is French sous-chef, literally 'under-chef'. After \"sdelayte\", 'make', the new role gets -ym and -om: \"novym su-shefom\"."),
+    (10, None, "'No, no sous-chefs, Fedya.' \"Nikakikh\", 'none at all', is a firm no. \"Su-shefov\" is 'of sous-chefs', the ending you hear after words like that."),
+    (11, None, "'Fine, then I will come tomorrow morning.' \"Pridu\" is 'I'll come', on foot. \"Zavtra utrom\", 'tomorrow morning', is built the same way as \"segodnya utrom\"."),
+    (12, None, "'I expect you at exactly ten o'clock.' After \"desyat', chas\" becomes \"chasov\"; in the first scene, after tri, it was chasa. \"Rovno\", 'exactly', also means 'flat, even'."),
 ]

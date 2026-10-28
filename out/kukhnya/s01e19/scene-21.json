@@ -11,22 +11,27 @@
  "segments": [
   {
    "v": "narrator",
-   "t": "Vika admits to worrying, and Max reassures her. They talk about what it means to be together, and about how some people only learn what something was worth after they have lost it. First the Russian, and don't worry about catching every word.",
+   "t": "Even happy, Vika can't help worrying, and Max tries to calm her down. Hear it in Russian first; you'll understand more than you expect.",
    "gap": 0.8
   },
   {
    "v": "vika",
-   "t": "Я переживаю.",
+   "t": "Макс, я немного переживаю.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Почему?",
+   "gap": 0.55
+  },
+  {
+   "v": "vika",
+   "t": "Вдруг у нас ничего не получится?",
    "gap": 0.55
   },
   {
    "v": "max",
    "t": "Не переживай так.",
-   "gap": 0.55
-  },
-  {
-   "v": "vika",
-   "t": "Почему?",
    "gap": 0.55
   },
   {
@@ -36,12 +41,12 @@
   },
   {
    "v": "vika",
-   "t": "Это главное.",
+   "t": "Да, это главное.",
    "gap": 0.55
   },
   {
    "v": "max",
-   "t": "Кому-то проще потерять все.",
+   "t": "Кому-то проще потерять всё.",
    "gap": 0.55
   },
   {
@@ -51,42 +56,62 @@
   },
   {
    "v": "max",
-   "t": "Чтобы понять.",
+   "t": "Чтобы понять, насколько ему это было дорого.",
    "gap": 0.55
   },
   {
    "v": "vika",
-   "t": "Понять что?",
+   "t": "Это грустно.",
    "gap": 0.55
   },
   {
    "v": "max",
-   "t": "Насколько это было дорого.",
+   "t": "Да, но это не про нас.",
    "gap": 0.55
   },
   {
    "v": "vika",
-   "t": "Нам не надо терять.",
+   "t": "Нам не нужно ничего терять.",
    "gap": 0.55
   },
   {
    "v": "max",
-   "t": "Не надо.",
+   "t": "Правильно.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Let's see how the Russian puts it together.",
+   "t": "Line by line now, starting with Vika's worry.",
    "gap": 0.4
   },
   {
    "v": "vika",
-   "t": "Я переживаю.",
+   "t": "Макс, я немного переживаю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I worry.' The word means both 'worry' and 'go through feelings'. It carries 'yu' for 'I'.",
+   "t": "'Max, I'm a little worried.' \"Perezhivayu\", 'I worry', is the verb behind every \"ne perezhivay\" in this episode. \"Nemnogo\" means 'a little'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Почему?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Why?' \"Pochemu\" asks for a reason; zachem, which comes up in a moment, asks for a purpose. Both translate as 'why'.",
+   "gap": 0.4
+  },
+  {
+   "v": "vika",
+   "t": "Вдруг у нас ничего не получится?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'What if it doesn't work out for us?' \"Vdrug\" usually means 'suddenly', but at the start of a worry it means 'what if'. \"Ne poluchitsya\" is 'won't work out'.",
    "gap": 0.4
   },
   {
@@ -96,17 +121,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Don't worry so much.' A negative command uses the ongoing form. 'So' sits in front of 'much'.",
-   "gap": 0.4
-  },
-  {
-   "v": "vika",
-   "t": "Почему?",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Why?' One word, 'pochemu'. Vika wants the reason.",
+   "t": "'Don't worry so much.' The same \"ne perezhivay\" opened the pep talk at the bar earlier. \"Tak\", 'so', makes it gentler.",
    "gap": 0.4
   },
   {
@@ -116,27 +131,27 @@
   },
   {
    "v": "narrator",
-   "t": "'The main thing is that we're together.' 'Main' comes from 'head'. 'That' joins the two halves.",
+   "t": "'The main thing is that we're together.' \"Glavnoe, chto\", 'the main thing is that', is the pattern Kostya used for boats and oceans. \"Vmeste\" means 'together'.",
    "gap": 0.4
   },
   {
    "v": "vika",
-   "t": "Это главное.",
+   "t": "Да, это главное.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'That is the main thing.' 'This main' is the sentence, without 'is'. Vika repeats his idea.",
+   "t": "'Yes, that's the main thing.' \"Eto glavnoe\", 'this is the main thing', with no 'is'. Vika agrees by repeating his word.",
    "gap": 0.4
   },
   {
    "v": "max",
-   "t": "Кому-то проще потерять все.",
+   "t": "Кому-то проще потерять всё.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'For some people it's easier to lose everything.' 'Someone' is built with a tail on 'who', in the 'to' form. 'Easier' comes from 'simple'.",
+   "t": "'For some people it's easier to lose everything.' \"Komu-to\", 'to someone', is \"kto-to\", 'someone', with the 'to' ending. \"Proshche\", 'easier', comes from \"prosto\", 'simple'.",
    "gap": 0.4
   },
   {
@@ -146,62 +161,72 @@
   },
   {
    "v": "narrator",
-   "t": "'What for?' This is the word for purpose, not cause. It's one short word.",
+   "t": "'What for?' Zachem asks about the point of doing something. \"Pochemu\" asked about the cause.",
    "gap": 0.4
   },
   {
    "v": "max",
-   "t": "Чтобы понять.",
+   "t": "Чтобы понять, насколько ему это было дорого.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'In order to understand.' 'In order to' is one word on its own, 'chtoby'. It is followed by the plain form.",
+   "t": "'To understand how much it meant to them.' \"Chtoby\" here means 'in order to'. \"Ponyat'\" is 'to understand', the one-off version of \"ponimat'\".",
    "gap": 0.4
   },
   {
    "v": "vika",
-   "t": "Понять что?",
+   "t": "Это грустно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'To understand what?' The question word comes after the verb. It's a quick way to ask for the missing piece.",
+   "t": "'That's sad.' \"Grustno\", 'sad', describes a feeling or a situation. \"Mne grustno\" would be 'I feel sad'.",
    "gap": 0.4
   },
   {
    "v": "max",
-   "t": "Насколько это было дорого.",
+   "t": "Да, но это не про нас.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'How precious it was.' 'How much' begins it, and 'dear' follows. The word 'was' is neuter, to go with 'this'.",
+   "t": "'Yes, but that's not about us.' \"Pro nas\", 'about us', is the everyday twin of \"o nas\". Max said \"o nas\" in the scene where he asked his question.",
    "gap": 0.4
   },
   {
    "v": "vika",
-   "t": "Нам не надо терять.",
+   "t": "Нам не нужно ничего терять.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We don't need to lose.' 'To us not necessary' is the pattern. The plain 'lose' follows.",
+   "t": "'We don't need to lose anything.' \"Nam ne nuzhno\", 'to us not needed', is 'we don't need to'. \"Nichego ne\" is the double negative again: 'nothing not'.",
    "gap": 0.4
   },
   {
    "v": "max",
-   "t": "Не надо.",
+   "t": "Правильно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'No need.' Two words, 'not necessary'. Max keeps it short. Now the whole conversation once more, from start to finish.",
+   "t": "'That's right.' \"Pravil'no\", 'correct', comes from \"pravilo\", 'rule'. It's what a teacher says to a right answer. Here it is once more, worry and comfort together.",
    "gap": 0.9
   },
   {
    "v": "vika",
-   "t": "Я переживаю.",
+   "t": "Макс, я немного переживаю.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Почему?",
+   "gap": 0.5
+  },
+  {
+   "v": "vika",
+   "t": "Вдруг у нас ничего не получится?",
    "gap": 0.5
   },
   {
@@ -210,23 +235,18 @@
    "gap": 0.5
   },
   {
-   "v": "vika",
-   "t": "Почему?",
-   "gap": 0.5
-  },
-  {
    "v": "max",
    "t": "Главное, что мы вместе.",
    "gap": 0.5
   },
   {
    "v": "vika",
-   "t": "Это главное.",
+   "t": "Да, это главное.",
    "gap": 0.5
   },
   {
    "v": "max",
-   "t": "Кому-то проще потерять все.",
+   "t": "Кому-то проще потерять всё.",
    "gap": 0.5
   },
   {
@@ -236,37 +256,37 @@
   },
   {
    "v": "max",
-   "t": "Чтобы понять.",
+   "t": "Чтобы понять, насколько ему это было дорого.",
    "gap": 0.5
   },
   {
    "v": "vika",
-   "t": "Понять что?",
+   "t": "Это грустно.",
    "gap": 0.5
   },
   {
    "v": "max",
-   "t": "Насколько это было дорого.",
+   "t": "Да, но это не про нас.",
    "gap": 0.5
   },
   {
    "v": "vika",
-   "t": "Нам не надо терять.",
+   "t": "Нам не нужно ничего терять.",
    "gap": 0.5
   },
   {
    "v": "max",
-   "t": "Не надо.",
+   "t": "Правильно.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "The scene ends with a neat little rule: they don't need to lose each other to appreciate each other. 'Ne nado' means 'no need', and Russians use it all the time. See you next time!",
+   "t": "Vika worried and Max talked her round, and you understood how. See you next time!",
    "gap": 0.5
   },
   {
    "v": "max",
-   "t": "Пока!",
+   "t": "До завтра!",
    "gap": 0.3
   }
  ],
@@ -275,34 +295,24 @@
   "file": "sources/kukhnya/s01/e19.ru.dual.srt",
   "lines": [
    {
-    "line": 0,
-    "cue": 380,
-    "fragment": "Не переживайте так."
-   },
-   {
-    "line": 1,
-    "cue": 380,
-    "fragment": "Не переживайте так."
-   },
-   {
     "line": 3,
+    "cue": 380,
+    "fragment": "Не переживай"
+   },
+   {
+    "line": 4,
     "cue": 381,
     "fragment": "Главное, что мы вместе."
    },
    {
-    "line": 5,
+    "line": 6,
     "cue": 382,
-    "fragment": "Кому-то проще потерять все, чтобы понять, насколько ему это было дорого."
+    "fragment": "Кому-то проще потерять все"
    },
    {
-    "line": 7,
+    "line": 8,
     "cue": 382,
-    "fragment": "Кому-то проще потерять все, чтобы понять, насколько ему это было дорого."
-   },
-   {
-    "line": 9,
-    "cue": 382,
-    "fragment": "Кому-то проще потерять все, чтобы понять, насколько ему это было дорого."
+    "fragment": "чтобы понять, насколько ему это было дорого"
    }
   ]
  },

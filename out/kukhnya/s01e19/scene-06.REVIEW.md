@@ -1,6 +1,6 @@
 # kukhnya-s01e19-scene-06: review sheet
 
-Title: Извинения гостя  (A Guest's Apology)
+Title: Вопрос гостя  (The Guest's Question)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S1.19
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoria, wait a minute.' He uses her first name and patronymic, as a polite stranger would. 'Wait' is the polite command, and 'a minute' takes a 'u' ending.
-- 'I'll never forgive myself for this.' 'Myself' is a special word, and here it takes the 'to myself' form. 'Never' and 'not' sit side by side.
-- 'If I don't ask you a question right now.' Russians 'set' a question where English 'asks' one. 'Right now' is two small words.
-- 'Do you have a husband or a boyfriend?' Literally the second option is 'a young man'. 'At you there is' stands for 'do you have'.
-- 'I have neither a husband nor a boyfriend.' 'Neither ... nor' is built from the small word 'ni' twice, and both nouns take the 'of' form. 'At me there isn't' closes the line.
-- 'Then I will look forward to our next meeting.' 'I'll wait' is made from 'will be' plus 'wait'. 'Our next meeting' takes the 'of' form, since waiting calls for it.
-- 'Vika, I didn't understand, what was that?' 'Understood' ends in the masculine 'l', and the 'not' stands in front. 'What was that' is just 'what this was'.
-- 'What, are you jealous?' 'Jealous' is a plain one. 'And you what' is a casual way to say 'what, you...?'.
-- 'No, why didn't you mention me?' 'Said' ends in 'a' here, since Max is speaking to Vika. 'About me' is a small word and 'menya'.
-- 'Because he didn't ask about you.' 'Because' is two words, 'potomu chto'. 'Ask' is the ongoing kind, as for a question that never came.
-- 'After all, we have an open relationship.' The small word 'ved' means 'after all'. 'We with you' is a Russian way to say 'you and I'.
-- 'Yes, but I don't like it at all.' 'To me it doesn't please' is the pattern. 'At all' comes as one word.
+- 'Victoria Sergeyevna, wait a minute.' "Podozhdite" is the polite 'wait', for someone you call vy; to a friend it's "podozhdi". "Minuta" becomes "minutu": 'wait for a minute'.
+- 'I will never forgive myself for this.' "Proshchu", 'I'll forgive', already points to the future, so "ne proshchu" is 'I won't forgive'. Russian needs both "nikogda" and ne: 'never not forgive'.
+- 'If I do not ask you a question right now.' "Zadat' vopros", literally 'to set a question', is how Russians say 'to ask a question'. "Pryamo seychas" is 'right now', with "pryamo" meaning 'straight'.
+- 'Do you have a husband or a boyfriend?' "Molodoy" chelovek, 'young man', is the respectful way to ask about a boyfriend; it's also how you call a waiter over. "U vas est'" asks 'do you have'.
+- 'I have neither a husband nor a boyfriend.' After "ni" ... "ni, muzh" becomes "muzha" and "paren'" becomes "parnya". "Paren'", 'guy', is the casual word, where Igor used the polite one.
+- 'Then I will look forward to our next meeting.' After "zhdat'", a thing you hope for takes the 'of' ending, so "vstrecha" becomes "vstrechi". "Budu zhdat'" is 'I'll be waiting'.
+- 'Vika, I did not understand, what was that?' Ya ne ponyal, 'I didn't get it', is what Russians say for 'what just happened?'. "Chto eto bylo" is literally 'what this was'.
+- 'Why, are you jealous of me?' A "ty chto" is a teasing 'what, you ...?'. "Revnuesh'", 'you're jealous', comes from "revnovat'", where -ova- turns into -u-.
+- 'No, why did you not mention me?' "Pro menya" is the chatty 'about me'; the textbook version is "obo mne". "Skazala", 'said', has the -a of a woman doing the saying: Max is talking about Vika.
+- 'Because he did not ask about you.' "Potomu chto", 'because', always comes as this pair. "Ne sprashival", 'didn't ask', means the question never came up at all.
+- 'After all, you and I have an open relationship.' "U nas s toboy", literally 'at us with you', means 'you and I have'. "Ved'", 'after all', points back to something Max already agreed to.
+- 'Yes, but I do not like this at all.' "Mne ne nravitsya" is 'it doesn't please me', the Russian 'I don't like it'. "Sovsem", 'completely', with ne makes 'not at all'.

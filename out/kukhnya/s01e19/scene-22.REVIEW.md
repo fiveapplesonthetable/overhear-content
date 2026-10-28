@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Знаешь, что главное? | Do you know what is the main thing? | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
-| 2 | Вика | Что? | What? | new | new |
-| 3 | Макс | Главное — ценить. | The main thing is to cherish. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
-| 4 | Вика | Ценить что? | Cherish what? | new | new |
-| 5 | Макс | То, что у нас есть. | What we have. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
-| 6 | Вика | Где? | Where? | new | new |
-| 7 | Макс | Здесь. | Here. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
-| 8 | Вика | И когда? | And when? | new | new |
-| 9 | Макс | И сейчас. | And now. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
-| 10 | Вика | Здесь и сейчас. | Here and now. | new | new |
-| 11 | Макс | Точно. | Exactly. | new | new |
-| 12 | Вика | Хорошо. | Good. | new | new |
+| 1 | Вика | Макс, что для тебя главное? | Max, what's the most important thing for you? | new | new |
+| 2 | Макс | Главное — ценить то, что у нас есть. | The important thing is to cherish what we have. | #383 00:24:02: Главное — ценить то, что у нас есть | verbatim |
+| 3 | Вика | Что ты имеешь в виду? | What do you mean? | new | new |
+| 4 | Макс | Мы, наш ресторан, наши друзья. | Us, our restaurant, our friends. | new | new |
+| 5 | Вика | А когда? Потом? | And when? Later? | new | new |
+| 6 | Макс | Нет, не потом. | No, not later. | new | new |
+| 7 | Макс | Здесь и сейчас. | Here and now. | #383 00:24:02: здесь и сейчас | verbatim |
+| 8 | Вика | Здесь и сейчас... Мне нравится. | Here and now... I like that. | new | new |
+| 9 | Макс | Тогда давай начнём прямо сейчас. | Then let's start right now. | new | new |
+| 10 | Вика | Давай. | Let's. | new | new |
+| 11 | Макс | Ты сегодня очень красивая. | You look very beautiful today. | new | new |
+| 12 | Вика | Спасибо, Макс. | Thank you, Max. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know what the main thing is?' 'You know' ends in 'sh', for the casual 'you'. 'The main thing' is one word.
-- 'What?' A bare 'chto', said 'shto'. It's all Vika needs to say.
-- 'The main thing is to appreciate.' The dash takes the place of 'is'. 'Appreciate' is built from 'price'.
-- 'Appreciate what?' The question word follows the verb. It echoes Max's own sentence.
-- 'What we have.' 'That which at us is' is the literal order. 'At us' stands for 'we have'.
-- 'Where?' One word. Russian 'gde' asks about a place.
-- 'Here.' One word again. It is the answer to 'where'.
-- 'And when?' 'When' is 'kogda'. The 'and' in front links it to the last question.
-- 'And now.' 'Now' is a word you'll hear every day. It is the other half of the pair.
-- 'Here and now.' Vika puts the two answers together in a set phrase. It sounds good in Russian, too.
-- 'Exactly.' One word, 'tochno', which comes from 'exact'. It's a quick, warm agreement.
-- 'Good.' 'Khorosho' is 'good' used as 'okay'. It ends the whole episode quietly.
+- 'Max, what's the most important thing for you?' "Dlya tebya", 'for you', uses "dlya", the 'for' of 'for someone's sake'. "Glavnoe" turns up one more time.
+- 'The important thing is to cherish what we have.' "Tsenit'", 'to value', comes from "tsena", 'price', as in "tsena restorana" earlier. To value something is to know its price.
+- 'What do you mean?' "Imet' v vidu", literally 'to have in view', is 'to mean'. "Chto ty imeesh' v vidu" is a phrase to learn whole.
+- 'Us, our restaurant, our friends.' "Nash restoran" and "nashi druz'ya": "nash", 'our', changes its ending to match. "Druz'ya" is the plural of drug.
+- 'And when? Later?' "Potom" means 'later' or 'then, after that'. "Kogda" is 'when'.
+- 'No, not later.' "Ne potom" puts ne right in front of the word it rejects, so it's 'later' that gets the no.
+- 'Here and now.' "Zdes'" i "seychas": "zdes'", 'here', and "seychas", 'now'. The two smallest words in the scene carry its message.
+- 'Here and now... I like that.' "Mne nravitsya", 'it pleases me', is 'I like it'. Earlier in the episode Max said "ne nravitsya" about Igor; now it's positive.
+- 'Then let's start right now.' "Davay nachnyom", 'let's start', is "davay" plus the 'we' form. "Pryamo seychas" is 'right now', as Igor said.
+- 'Let's.' "Davay" on its own is a whole 'yes, let's'. It also means 'okay, bye' at the end of a phone call.
+- 'You look very beautiful today.' Russians just say "ty krasivaya", 'you beautiful', where English says 'you look'. "Krasivaya" ends in -aya for a woman.
+- 'Thank you, Max.' "Spasibo", then the name: the simplest way to end a scene warmly. The ending of the whole episode is a thank you.

@@ -10,36 +10,36 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = 'Max has just asked Vika to be his girlfriend, and she has begun to answer. The next few lines are the answer and its happy aftermath. The Russian comes first.'
-OPENER = "Let's unpack it."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "The two of them are, at last, a couple. Notice that men and women say 'I'm glad' differently: 'rad' for a man and 'rada' for a woman. See you next time!"
-CLOSING = ('vika', 'Пока!')
+INTRO = "Max has asked Vika to be his girlfriend, and now he's waiting for her answer. The Russian comes first; it's simple, so just listen."
+OPENER = 'Now the answer, line by line.'
+TRANSITION = 'Hear the happy ending once more, all in Russian.'
+OUTRO = "It's a yes, and you heard it plainly: ty moya devushka. See you next time!"
+CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Это значит да?', 'Does that mean yes?', [(378, 'значит да?')], ''),
-    ('vika', 'Да.', 'Yes.', [], ''),
-    ('max', 'Я так рад.', 'I am so glad.', [], ''),
-    ('vika', 'Я тоже рада.', 'I am also glad.', [], ''),
-    ('max', 'Теперь мы вместе.', 'Now we are together.', [], ''),
-    ('vika', 'Да, мы вместе.', 'Yes, we are together.', [], ''),
-    ('max', 'Это прекрасно.', 'This is wonderful.', [], ''),
-    ('vika', 'Очень.', 'Very.', [], ''),
-    ('max', 'Я люблю тебя.', 'I love you.', [], ''),
-    ('vika', 'Я люблю тебя, Макс.', 'I love you, Max.', [], ''),
-    ('max', 'Наконец-то.', 'At last.', [], ''),
-    ('vika', 'Я так рада, Макс.', 'I am so glad, Max.', [], ''),
+    ('vika', 'Да, это значит да.', 'Yes, that means yes.', [], ''),
+    ('max', 'Правда? Я так рад!', "Really? I'm so glad!", [], ''),
+    ('vika', 'Я тоже очень рада.', "I'm very glad too.", [], ''),
+    ('max', 'Значит, теперь ты моя девушка.', "So now you're my girlfriend.", [], ''),
+    ('vika', 'Да, а ты мой парень.', "Yes, and you're my boyfriend.", [], ''),
+    ('max', 'Никаких свободных отношений?', 'No open relationship?', [], ''),
+    ('vika', 'Никаких. Только мы вдвоём.', 'None. Just the two of us.', [], ''),
+    ('max', 'Я давно этого ждал.', "I've waited for this for a long time.", [], ''),
+    ('vika', 'Я знаю, Макс.', 'I know, Max.', [], ''),
+    ('max', 'Мне сейчас очень хорошо.', 'I feel really good right now.', [], ''),
+    ('vika', 'Мне тоже.', 'Me too.', [], ''),
 ]
 WALK = [
-    (0, None, "'Does that mean yes?' Russian says 'this means yes' and lets the voice rise. 'Means' is 'signifies'."),
-    (1, None, "'Yes.' One word. Her answer is as short as his question was long."),
-    (2, None, "'I'm so glad.' 'Glad' is a short masculine form, with no ending. The small word 'tak' means 'so'."),
-    (3, None, "'I'm glad too.' This time the word carries 'a', since Vika is a woman. The pair 'rad' and 'rada' are worth remembering."),
-    (4, None, "'Now we're together.' There's no 'are', just 'now we together'. 'Together' is a handy word."),
-    (5, None, "'Yes, we're together.' Vika repeats Max's words. Repetition is how Russians say yes."),
-    (6, None, "'It's wonderful.' 'Wonderful' ends in 'o', and there's no 'is'. It comes from 'beautiful'."),
-    (7, None, "'Very.' A single word, which stands for 'very wonderful'. Short answers are common in Russian."),
-    (8, None, "'I love you.' 'I love' is one word with a 'yu' ending. 'You' takes the 'a' form, 'tebya'."),
-    (9, None, "'I love you, Max.' The same line again, with his name added. A name added at the end is a vocative, and it needs no change."),
-    (10, None, "'At last.' The word is 'nakonets', with a little 'to' added for emphasis. It's what you say when something has taken too long."),
-    (11, None, "'I'm so glad, Max.' Vika's word for 'glad' finishes with 'a'. 'So' sits before it."),
+    (0, None, "'Does that mean yes?' \"Znachit\", 'means', is the same word that starts a sentence as 'so'. \"Eto znachit da\" is literally 'this means yes'."),
+    (1, None, "'Yes, that means yes.' Vika simply hands his words back to him. It's the clearest yes there is."),
+    (2, None, "'Really? I'm so glad!' \"Rad\", 'glad', has no ending because Max is a man. \"Ya tak rad\" is 'I'm so glad'."),
+    (3, None, "'I'm very glad too.' \"Rada\" is Vika's form; Max said \"rad\" a line earlier. \"Tozhe\", 'too', goes before what it adds to."),
+    (4, None, "'So now you're my girlfriend.' \"Devushka\" means 'girl' and also 'girlfriend'. \"Moya\", 'my', ends in -a to match it."),
+    (5, None, "'Yes, and you're my boyfriend.' \"Paren'\", 'guy', is also 'boyfriend', just as \"devushka\" is both. Moy, 'my', has no ending to match it."),
+    (6, None, "'No open relationship?' \"Nikakikh\", 'none at all', makes everything after it take the 'of' endings. So \"svobodnye otnosheniya\" becomes \"svobodnykh otnosheniy\"."),
+    (7, None, "'None. Just the two of us.' \"My vdvoyom\", 'the two of us', echoes Max's fear that Vika would leave with the buyer. Now it's good news."),
+    (8, None, "'I've waited for this for a long time.' \"Davno\", 'for a long time', paired with the past ending, means 'I've been waiting ages'. \"Etogo\", 'for this', takes the 'of' ending after \"zhdal\"."),
+    (9, None, "'I know, Max.' \"Ya znayu\", 'I know', ends in -yu like \"pomnyu\", 'I remember'. Two words, and the warmest line in the scene."),
+    (10, None, "'I feel really good right now.' \"Mne khorosho\", 'to me it's good', is the Russian 'I feel good'. \"Mne plokho\" is the opposite, 'I feel bad'."),
+    (11, None, "'Me too.' \"Mne tozhe\", 'to me too', answers a \"mne\" line. After 'I'm glad' you'd say \"ya tozhe\" instead."),
 ]

@@ -12,9 +12,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Мы приготовили яйцо по-парижски. | We prepared a Parisian-style egg. | #248 00:16:09: мы вместе с вами приготовили<br>#248 00:16:09: яйцом по-парижски | verbatim |
 | 2 | Шеф | Ждем вас в ресторане Клод Моне! | We wait for you at the Claude Monet restaurant! | #250 00:16:18: вы можете попробовать в ресторане Клод Моне | verbatim |
-| 3 | Режиссёр | Не снято! Вы не назвали спонсора! | Don't cut! You didn't name the sponsor! | #255 00:16:40: Не снято<br>#256 00:16:43: вы ни разу не упомянули нашего спонсора | verbatim |
+| 3 | Режиссёр | Не снято! Вы не назвали спонсора! | That take doesn't count! You didn't name the sponsor! | #255 00:16:40: Не снято<br>#256 00:16:43: вы ни разу не упомянули нашего спонсора | verbatim |
 | 4 | Режиссёр | Вы уволены! Вон отсюда! | You're fired! Get out of here! | #258 00:16:50: Уволим<br>#259 00:16:52: Вон отсюда | verbatim |
-| 5 | Вика | Как дела, Виктор Петрович? | How are things, Viktor Petrovich? | #263 00:17:06: как дела<br>#264 00:17:08: Виктор Петрович | verbatim |
+| 5 | Шеф | Ну что, как дела? | So, how's it going? | #263 00:17:06: Ну что, как дела? | verbatim |
 | 6 | Вика | Завтра будет аншлаг. | Tomorrow it will be packed. | #265 00:17:11: Завтра будет аншлаг | verbatim |
 | 7 | Вика | Даже Бьянка приедет. | Even Bianca will come. | #265 00:17:11: Даже Бьянка приедет | verbatim |
 | 8 | Шеф | Кто такая Бьянка? | Who is Bianca? | #266 00:17:14: Кто | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We prepared a Parisian-style egg.' 'Parisian-style' is made with 'po' and a describing ending, 'po-parizhski'. 'We prepared' carries 'li'.
-- 'We're waiting for you at Claude Monet!' 'We wait' ends in 'yom', and 'for you' takes the 'a' form. 'At the restaurant' needs an 'e'.
-- 'Cut! You didn't name the sponsor!' 'Not filmed' is a short neuter form, since a take is neuter. 'Sponsor' is borrowed.
-- 'You're fired! Get out of here!' 'Fired' is a short plural form, with no 'are'. 'Von' is a one-word shove, 'out'.
-- 'How are you, Viktor Petrovich?' 'How are matters' is the standard way to ask. Vika uses his name and patronymic.
-- 'Tomorrow it'll be a full house.' 'Anshlag' is a borrowed German word used in theatres. 'It will be' is just one word.
-- 'Even Bianca's coming.' 'Even' sits in front of the name. 'Will arrive' is a once-and-done action, for arriving by vehicle.
-- 'Who's Bianca?' The Russian is 'who such Bianca', and 'such' is feminine. It makes the question sound dismissive.
-- 'Everyone knows her.' 'Her' goes first, and 'everyone knows' follows. That puts the stress on her.
-- 'I've got another ace up my sleeve.' 'Trump card' is a card-game term. 'Another' is 'one more'.
-- 'Book a table for the oligarch.' 'Book' is borrowed from French, and the 'irovat' ending makes it a Russian action word. 'Table' is a little table.
-- 'Will the oligarch dine with us?' 'Oligarch' is a borrowed word. 'Dine' is built from the word for supper.
-- 'He will.' Russians say yes by repeating the verb. Here the single word 'will be' is the answer.
-- 'Everyone definitely knows him.' 'Him' comes first, as 'ego'. 'Definitely' is a handy one-word adverb.
+- 'We prepared a Parisian-style egg.' "Po-parizhski", 'Paris-style', is po- plus -ski, the same shape as "po-russki", 'in Russian'. "Yaytso" is 'egg'.
+- 'We're waiting for you at Claude Monet!' "Zhdyom vas", 'we wait you', needs no 'for'. "V restorane" is 'in the restaurant', with -e after "v".
+- 'That take doesn't count! You didn't name the sponsor!' "Ne snyato" is literally 'not filmed', since "snyat'" also means 'to film'. "Nazvali", 'named', comes from "nazvat'".
+- 'You're fired! Get out of here!' "Uvoleny", 'fired', shares a root with "uvolili" earlier in the episode. Von "otsyuda" is a rude 'out of here'.
+- 'So, how's it going?' "Nu chto" at the start is a chatty 'well, so'. "Kak dela", 'how are matters', is the standard 'how are you'.
+- 'Tomorrow it'll be a full house.' "Anshlag" comes from German and means every seat is sold. "Budet", 'will be', points it to tomorrow.
+- 'Even a celebrity is coming.' "Dazhe", 'even', sits right before the name. "Priedet" means 'will arrive', by car or plane.
+- 'Who's she?' "Kto takaya" is literally 'who such', a slightly scornful 'who's she?'. "Takaya", 'such', is feminine because it's about a woman.
+- 'Everyone knows her.' "Eyo", 'her', comes first to put the weight on her. "Vse znayut", 'all know', is the rest.
+- 'I've got another ace up my sleeve.' "Kozyr'" is a trump card, borrowed from card games. "Eshchyo odin", 'one more', is literally 'still one'.
+- 'Book a table for the oligarch.' "Zabroniruy", 'book', comes from "bron'", 'reservation'. "Stolik" is the little table you book in restaurants.
+- 'Will the oligarch dine with us?' "Uzhinat'", 'to have dinner', is built from "uzhin", 'dinner'. "U nas" here means 'at our place'.
+- 'He will.' Russians often answer yes by repeating the key word, here "budet". It sounds sure of itself.
+- 'Everyone definitely knows him.' "Tochno", 'definitely', also means 'exactly'. "Ego", 'him', comes first, just as "eyo" did a moment ago.

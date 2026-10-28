@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I heard everything.' 'Heard' is a once-and-done action, meaning he managed to hear. 'Everything' is a single small word.
-- 'What did she say to him?' 'To him' is 'emu'. 'Said' carries 'a', for a woman.
-- 'She says thank you for the beautiful flowers.' Kostya quotes the word 'thanks' as it is. 'Beautiful flowers' is plural.
-- 'Is that so? And what about him?' The first part is a set phrase, literally 'that's how it is'. 'And he what' is a quick way to ask.
-- 'He's talking about an important business meeting.' 'About' makes all three words take the same 'oy' ending. A feminine noun and its two descriptions line up.
-- 'What meeting is he talking about?' 'About which' takes the same 'oy' ending. 'Meeting' follows.
-- 'He said they'd have to leave soon.' 'Soon necessary to go' is the word order. 'Go' is the word for going by vehicle.
-- 'So she has a business meeting now.' 'So' is 'it means'. 'At her' picks up an 'n', so it becomes 'u neyo'.
-- 'Vika said she's already free.' 'Free' ends in 'a' for a woman. 'Already' is a handy small word.
-- 'Is she really going to go with him?' 'Is planning' finishes with 'sya'. 'With him' picks up an 'n'.
-- 'Yes, she's already ready to go.' 'Ready' carries 'a', for a woman. 'Go' is the plain form.
-- 'I won't let them go off together.' 'I won't allow' is a finished action. 'Together, the two of them' is a single word.
-- 'Max, don't do anything silly today.' 'Don't do' uses the ongoing form for a negative command. 'Any' brings the plural 'of' form for 'silly things'.
+- 'Max, I heard everything.' "Uslyshal", 'heard', is the caught-it version of "slyshal". The u- makes it sound like the job is done.
+- 'What did she tell him, Kostya?' "Emu", 'to him', is the person told; Russian has no 'to' here. "Skazala", 'she told', would be "skazal" if a man had spoken.
+- 'She says thank you for the beautiful flowers.' Kostya retells it in the present, "govorit", 'says', which Russians do a lot when they report. "Krasivye" means 'beautiful'.
+- 'Is that so, and what about him?' "Vot ono kak", word for word 'there it is, how', means 'so that's how it is'. "A on chto?" is 'and he, what?'.
+- 'He speaks about an important business meeting.' The same "delovaya vstrecha" Vika gave as her excuse, now with the endings that come after "o": "o vazhnoy delovoy vstreche".
+- 'What meeting is he talking about?' "O kakoy vstreche", 'about which meeting': Max just echoes Kostya's words. "Kakoy" is 'which' or 'what kind'.
+- 'He said they need to leave soon.' Nado "ekhat'" is 'need to go', and "ekhat'" always means by car, bus or train. "Skoro", 'soon', is short and handy.
+- 'So she has a business meeting now.' "Znachit", 'so', comes from 'it means', and that's how Russians draw a conclusion.
+- 'Vika said that she is already free.' "Svobodna" is the woman's short form; in the first scene Vika said "svoboden" to Max. "Uzhe", 'already', usually comes right before it.
+- 'Is she really going to go with him?' "Sobiraetsya", 'is planning to', also means 'is getting ready'. "S nim" is 'with him'.
+- 'Yes, she is already ready to leave.' "Gotova", 'ready', is Vika's form; in scene two plain "gotov" described the sauce. Ready to go is "gotova ekhat'".
+- 'I will not allow them to leave together.' "Vdvoyom", 'the two of them together', comes from "dva", 'two'. "Uekhat'" is 'to drive away', the u- meaning 'away'.
+- 'Max, do not do any foolish things today.' "Gluposti", 'foolish things', comes from "glupy", 'stupid'. Ne delay "glupostey" is what friends say before you do something rash.

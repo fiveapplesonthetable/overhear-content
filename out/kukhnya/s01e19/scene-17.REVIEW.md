@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' The casual 'you' gives 'esh'. 'What' goes first.
-- 'You're supposed to be in Monaco!' 'Must' finishes with 'a' because Kristina is a woman. 'In Monaco' leaves 'Monaco' unchanged.
-- 'But I came back!' 'Came back' carries 'las', for a woman. The opening 'a' means 'but'.
-- 'You sent me there on purpose.' 'Sent' ends in 'l' for the masculine speaker. 'On purpose' comes as one word.
-- 'Who is this woman?' 'This' finishes with 'a' to match the feminine noun. There's no 'is'.
-- 'I don't know anything.' 'Nothing' and 'not' are both there. 'I know' carries 'u'.
-- 'Sasha told me everything.' 'To me' comes first for emphasis. 'Told' ends in 'a' for a woman.
-- 'She works here and sees everything.' 'Works' and 'sees' both end in 't' for 'she'. 'Everything' is the object of the second.
-- 'May I say something?' The pattern is 'possible I will say'. 'Say' is the completed kind.
-- 'Viktoria Sergeyevna is my girlfriend.' The dash takes the place of 'is'. 'My girlfriend' is feminine.
-- 'We have a serious relationship.' 'At us with her' is a Russian way of saying 'between us'. 'Relationship' is plural.
-- 'Let your wife apologise to my girlfriend!' 'Apologise' means 'excuse oneself', which is why it finishes with 'sya'. 'Before' is the small word used here for 'to'.
-- 'Let's go home, my dear.' 'Let's go' is the 'we' form of going on foot. 'Dear' is a word that means 'own' or 'native'.
-- 'Tomorrow we'll fly off to rest, okay?' 'We'll fly' is the 'we' form of the word for flying. 'Okay?' is a rising word, 'khorosho'.
+- 'What are you doing here?' "Delaesh'", 'you do', is for someone you call "ty", here his wife. The owner sounds more scared than pleased.
+- 'You're supposed to be in Monaco!' "Dolzhna", 'must', ends in -a because he's talking to a woman. To a man it's "dolzhen".
+- 'But I came back!' "Vernulas'", 'came back', ends in -las' for a woman; a man says "vernulsya". The opening a means 'but'.
+- 'You sent me there on purpose.' "Spetsial'no", 'specially', is how Russians say 'on purpose'. "Tuda", 'there', is where she was sent.
+- 'Who is this woman?' "Eta", 'this', matches "zhenshchina", 'woman'; a man is "etot". "Kto eta zhenshchina" has no 'is' at all.
+- 'I don't know anything.' "Ya nichego ne znayu" needs both "nichego" and ne: 'I nothing not know'. Two negatives are normal in Russian.
+- 'A colleague told me everything.' "Mne", 'to me', comes first for weight. "Skazala", 'told', points to a woman as the one who told her.
+- 'She works here and sees everything.' "Rabotaet" and "vidit" both end in -t, the ending for 'he' or 'she'. "Tut" is a casual 'here'.
+- 'May I say something?' "Mozhno ya skazhu", 'allowed I'll say', asks for the floor. It's short and polite.
+- 'Viktoria Sergeyevna is my girlfriend.' In writing a dash stands where English has 'is'. "Moya devushka", 'my girlfriend', is literally 'my girl'.
+- 'We have a serious relationship.' "U nas s ney", 'at us with her', is 'she and I have'. It's the same pattern as Vika's "u nas s toboy", now in Max's mouth.
+- 'Let your wife apologize to my girlfriend!' "Pust'", 'let', puts a demand on someone else. "Izvinitsya", 'apologize', is literally 'excuse oneself', hence the -sya.
+- 'Let's go home, my dear.' "Rodnaya", 'dear', literally means 'my own, kin'. You heard "rodnoy" for a waiter at the start of the episode.
+- 'Tomorrow we'll fly off to rest, okay?' "Poletim", 'we'll fly', comes from "letet'". "Otdykhat'", 'to rest', also covers going on holiday.

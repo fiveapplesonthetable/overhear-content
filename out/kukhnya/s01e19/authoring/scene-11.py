@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Kostya has been sent to listen in on Vika and the stranger, and he comes back to the bar with a report. What he heard makes Max more nervous, not less. First the Russian, and don't worry about catching every word."
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "Max is on the edge, and Kostya is trying to calm him down. 'Vot ono kak' is a lovely set phrase, meaning 'so that's how it is'. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = "Kostya comes back to the bar with his report on Vika and the stranger, and it only makes Max more nervous. Here's the Russian; you'll get the drift."
+OPENER = "Now Kostya's report, one line at a time."
+TRANSITION = "Here's the report again, start to finish."
+OUTRO = "Every line of Kostya's report made Max worse, and you heard why. See you next time!"
+CLOSING = ('kostya', 'Ну, удачи!')
 STORY = [
     ('kostya', 'Макс, я всё услышал.', 'Max, I heard everything.', [], ''),
     ('max', 'Что она ему сказала, Костя?', 'What did she tell him, Kostya?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Макс, не делай никаких глупостей сегодня.', 'Max, do not do any foolish things today.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, I heard everything.' 'Heard' is a once-and-done action, meaning he managed to hear. 'Everything' is a single small word."),
-    (1, None, "'What did she say to him?' 'To him' is 'emu'. 'Said' carries 'a', for a woman."),
-    (2, None, "'She says thank you for the beautiful flowers.' Kostya quotes the word 'thanks' as it is. 'Beautiful flowers' is plural."),
-    (3, None, "'Is that so? And what about him?' The first part is a set phrase, literally 'that's how it is'. 'And he what' is a quick way to ask."),
-    (4, None, "'He's talking about an important business meeting.' 'About' makes all three words take the same 'oy' ending. A feminine noun and its two descriptions line up."),
-    (5, None, "'What meeting is he talking about?' 'About which' takes the same 'oy' ending. 'Meeting' follows."),
-    (6, None, "'He said they'd have to leave soon.' 'Soon necessary to go' is the word order. 'Go' is the word for going by vehicle."),
-    (7, None, "'So she has a business meeting now.' 'So' is 'it means'. 'At her' picks up an 'n', so it becomes 'u neyo'."),
-    (8, None, "'Vika said she's already free.' 'Free' ends in 'a' for a woman. 'Already' is a handy small word."),
-    (9, None, "'Is she really going to go with him?' 'Is planning' finishes with 'sya'. 'With him' picks up an 'n'."),
-    (10, None, "'Yes, she's already ready to go.' 'Ready' carries 'a', for a woman. 'Go' is the plain form."),
-    (11, None, "'I won't let them go off together.' 'I won't allow' is a finished action. 'Together, the two of them' is a single word."),
-    (12, None, "'Max, don't do anything silly today.' 'Don't do' uses the ongoing form for a negative command. 'Any' brings the plural 'of' form for 'silly things'."),
+    (0, None, "'Max, I heard everything.' \"Uslyshal\", 'heard', is the caught-it version of \"slyshal\". The u- makes it sound like the job is done."),
+    (1, None, "'What did she tell him, Kostya?' \"Emu\", 'to him', is the person told; Russian has no 'to' here. \"Skazala\", 'she told', would be \"skazal\" if a man had spoken."),
+    (2, None, "'She says thank you for the beautiful flowers.' Kostya retells it in the present, \"govorit\", 'says', which Russians do a lot when they report. \"Krasivye\" means 'beautiful'."),
+    (3, None, "'Is that so, and what about him?' \"Vot ono kak\", word for word 'there it is, how', means 'so that's how it is'. \"A on chto?\" is 'and he, what?'."),
+    (4, None, "'He speaks about an important business meeting.' The same \"delovaya vstrecha\" Vika gave as her excuse, now with the endings that come after \"o\": \"o vazhnoy delovoy vstreche\"."),
+    (5, None, "'What meeting is he talking about?' \"O kakoy vstreche\", 'about which meeting': Max just echoes Kostya's words. \"Kakoy\" is 'which' or 'what kind'."),
+    (6, None, "'He said they need to leave soon.' Nado \"ekhat'\" is 'need to go', and \"ekhat'\" always means by car, bus or train. \"Skoro\", 'soon', is short and handy."),
+    (7, None, "'So she has a business meeting now.' \"Znachit\", 'so', comes from 'it means', and that's how Russians draw a conclusion."),
+    (8, None, "'Vika said that she is already free.' \"Svobodna\" is the woman's short form; in the first scene Vika said \"svoboden\" to Max. \"Uzhe\", 'already', usually comes right before it."),
+    (9, None, "'Is she really going to go with him?' \"Sobiraetsya\", 'is planning to', also means 'is getting ready'. \"S nim\" is 'with him'."),
+    (10, None, "'Yes, she is already ready to leave.' \"Gotova\", 'ready', is Vika's form; in scene two plain \"gotov\" described the sauce. Ready to go is \"gotova ekhat'\"."),
+    (11, None, "'I will not allow them to leave together.' \"Vdvoyom\", 'the two of them together', comes from \"dva\", 'two'. \"Uekhat'\" is 'to drive away', the u- meaning 'away'."),
+    (12, None, "'Max, do not do any foolish things today.' \"Gluposti\", 'foolish things', comes from \"glupy\", 'stupid'. Ne delay \"glupostey\" is what friends say before you do something rash."),
 ]

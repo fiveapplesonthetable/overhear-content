@@ -10,36 +10,36 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = 'This is the last scene of the episode. Max sums up what he has learned, in the simplest words he can, and Vika asks the questions that lead him there. Russian first, no need to catch it all.'
-OPENER = "We'll take the lines one by one."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "That's the end of the episode, with a lesson that fits on a postcard. 'Here and now' is just two words in Russian, and it sounds as good as in English. See you next time!"
-CLOSING = ('vika', 'Пока!')
+INTRO = "In the last scene, Vika asks Max what matters most to him, and his answer sums up the whole episode. Let the Russian play first, and let it sink in."
+OPENER = "Now Max's answer, phrase by phrase."
+TRANSITION = 'And one last time, here and now, in Russian.'
+OUTRO = "The episode ends on two words you now know, zdes' i seychas, here and now. See you next time!"
+CLOSING = ('vika', 'Всего хорошего!')
 STORY = [
-    ('max', 'Знаешь, что главное?', 'Do you know what is the main thing?', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
-    ('vika', 'Что?', 'What?', [], ''),
-    ('max', 'Главное — ценить.', 'The main thing is to cherish.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
-    ('vika', 'Ценить что?', 'Cherish what?', [], ''),
-    ('max', 'То, что у нас есть.', 'What we have.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
-    ('vika', 'Где?', 'Where?', [], ''),
-    ('max', 'Здесь.', 'Here.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
-    ('vika', 'И когда?', 'And when?', [], ''),
-    ('max', 'И сейчас.', 'And now.', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
-    ('vika', 'Здесь и сейчас.', 'Here and now.', [], ''),
-    ('max', 'Точно.', 'Exactly.', [], ''),
-    ('vika', 'Хорошо.', 'Good.', [], ''),
+    ('vika', 'Макс, что для тебя главное?', "Max, what's the most important thing for you?", [], ''),
+    ('max', 'Главное — ценить то, что у нас есть.', 'The important thing is to cherish what we have.', [(383, 'Главное — ценить то, что у нас есть')], ''),
+    ('vika', 'Что ты имеешь в виду?', 'What do you mean?', [], ''),
+    ('max', 'Мы, наш ресторан, наши друзья.', 'Us, our restaurant, our friends.', [], ''),
+    ('vika', 'А когда? Потом?', 'And when? Later?', [], ''),
+    ('max', 'Нет, не потом.', 'No, not later.', [], ''),
+    ('max', 'Здесь и сейчас.', 'Here and now.', [(383, 'здесь и сейчас')], ''),
+    ('vika', 'Здесь и сейчас... Мне нравится.', 'Here and now... I like that.', [], ''),
+    ('max', 'Тогда давай начнём прямо сейчас.', "Then let's start right now.", [], ''),
+    ('vika', 'Давай.', "Let's.", [], ''),
+    ('max', 'Ты сегодня очень красивая.', 'You look very beautiful today.', [], ''),
+    ('vika', 'Спасибо, Макс.', 'Thank you, Max.', [], ''),
 ]
 WALK = [
-    (0, None, "'Do you know what the main thing is?' 'You know' ends in 'sh', for the casual 'you'. 'The main thing' is one word."),
-    (1, None, "'What?' A bare 'chto', said 'shto'. It's all Vika needs to say."),
-    (2, None, "'The main thing is to appreciate.' The dash takes the place of 'is'. 'Appreciate' is built from 'price'."),
-    (3, None, "'Appreciate what?' The question word follows the verb. It echoes Max's own sentence."),
-    (4, None, "'What we have.' 'That which at us is' is the literal order. 'At us' stands for 'we have'."),
-    (5, None, "'Where?' One word. Russian 'gde' asks about a place."),
-    (6, None, "'Here.' One word again. It is the answer to 'where'."),
-    (7, None, "'And when?' 'When' is 'kogda'. The 'and' in front links it to the last question."),
-    (8, None, "'And now.' 'Now' is a word you'll hear every day. It is the other half of the pair."),
-    (9, None, "'Here and now.' Vika puts the two answers together in a set phrase. It sounds good in Russian, too."),
-    (10, None, "'Exactly.' One word, 'tochno', which comes from 'exact'. It's a quick, warm agreement."),
-    (11, None, "'Good.' 'Khorosho' is 'good' used as 'okay'. It ends the whole episode quietly."),
+    (0, None, "'Max, what's the most important thing for you?' \"Dlya tebya\", 'for you', uses \"dlya\", the 'for' of 'for someone's sake'. \"Glavnoe\" turns up one more time."),
+    (1, None, "'The important thing is to cherish what we have.' \"Tsenit'\", 'to value', comes from \"tsena\", 'price', as in \"tsena restorana\" earlier. To value something is to know its price."),
+    (2, None, "'What do you mean?' \"Imet' v vidu\", literally 'to have in view', is 'to mean'. \"Chto ty imeesh' v vidu\" is a phrase to learn whole."),
+    (3, None, "'Us, our restaurant, our friends.' \"Nash restoran\" and \"nashi druz'ya\": \"nash\", 'our', changes its ending to match. \"Druz'ya\" is the plural of drug."),
+    (4, None, "'And when? Later?' \"Potom\" means 'later' or 'then, after that'. \"Kogda\" is 'when'."),
+    (5, None, "'No, not later.' \"Ne potom\" puts ne right in front of the word it rejects, so it's 'later' that gets the no."),
+    (6, None, "'Here and now.' \"Zdes'\" i \"seychas\": \"zdes'\", 'here', and \"seychas\", 'now'. The two smallest words in the scene carry its message."),
+    (7, None, "'Here and now... I like that.' \"Mne nravitsya\", 'it pleases me', is 'I like it'. Earlier in the episode Max said \"ne nravitsya\" about Igor; now it's positive."),
+    (8, None, "'Then let's start right now.' \"Davay nachnyom\", 'let's start', is \"davay\" plus the 'we' form. \"Pryamo seychas\" is 'right now', as Igor said."),
+    (9, None, "'Let's.' \"Davay\" on its own is a whole 'yes, let's'. It also means 'okay, bye' at the end of a phone call."),
+    (10, None, "'You look very beautiful today.' Russians just say \"ty krasivaya\", 'you beautiful', where English says 'you look'. \"Krasivaya\" ends in -aya for a woman."),
+    (11, None, "'Thank you, Max.' \"Spasibo\", then the name: the simplest way to end a scene warmly. The ending of the whole episode is a thank you."),
 ]
