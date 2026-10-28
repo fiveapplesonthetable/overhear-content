@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Max has a conversation with Vika, and this time he has to hear her out. She tells him her news, and he asks the questions a frightened man asks. Here's the scene in Russian first."
-OPENER = "Now we'll take it slowly."
-TRANSITION = 'And the whole thing once more.'
-OUTRO = "Vika asks for nothing, and Max can't answer. He has a lot to think about. Until next time."
+INTRO = "Max has a conversation with Vika, and this time he has to hear her out. She tells him her news, and he asks the questions a frightened man asks. Hear it first, then we'll pick it apart."
+OPENER = "We'll go slowly this time."
+TRANSITION = "This time you'll hear more."
+OUTRO = "Vika asks for nothing, and Max can't answer. He has a lot to think about. Carry on listening, and see you soon."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, почему ты так странно смотришь?', 'Vika, why are you looking so strangely?', [(162, 'никого не было')], ''),
@@ -37,9 +37,9 @@ WALK = [
     (4, None, '\'Are you absolutely sure that the baby is mine?\' "Sure" has the feminine ending, and "mine" has the masculine to match the child. Max asks the question a lot of people would, and Vika takes it calmly.'),
     (5, None, '\'I have not been with anyone since you.\' It is "after you at me nobody not was". The "was" here is the past of "there is not", with the neuter ending. Vika answers without anger.'),
     (6, None, '\'But we are completely young people!\' "People" is a plural of "person", but not a regular one. "Completely" recalls "completely not right". Max is looking for an excuse, and this is the weakest he has.'),
-    (7, None, '\'Just do not worry so much, Max.\' "Worry" is the live-through word again. "Only" is the one from the dining room. Vika tries to calm him down, though she\'s the one who has had the shock.'),
+    (7, None, '\'Just do not worry so much, Max.\' "Worry" is the live-through word again. "Only" returns from the dining room. Vika tries to calm him down, though she\'s the one who has had the shock.'),
     (8, None, '\'What on earth should we do with this now?\' The little "zhe" adds the "on earth". "With this" has the "with" ending. Max\'s question is half a prayer. Vika has no answer, or doesn\'t give one.'),
     (9, None, '\'I do not need anything at all from you.\' "To me from you nothing not needed" is the Russian. It has two negatives and no "I". Vika is proud, and she wants nothing from him. That is a harder thing to answer.'),
-    (10, None, '\'Then why did you decide to tell me the truth?\' "Decided" is the same word as "solved". "Tell me the truth" has "to me" in it. Max is trying to understand her motive. He sounds confused.'),
+    (10, None, '\'Then why did you decide to tell me the truth?\' "Decided" repeats "solved". "Tell me the truth" has "to me" in it. Max is trying to understand her motive. He sounds confused.'),
     (11, None, '\'This is just so that you would know.\' "For that, so that" means "in order that". The term for "know" stays in its -l form, though it is not past. It is the way Russian marks purpose, and it has the quietest ring.'),
 ]

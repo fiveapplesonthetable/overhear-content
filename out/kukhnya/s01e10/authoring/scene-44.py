@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Spartak has lost, or nearly so, and Barinov is shouting in the kitchen. Max brings in a stack of aprons at exactly the wrong time. Here's the scene in Russian first."
-OPENER = "Let's take it again, slowly."
-TRANSITION = 'One more time, the whole scene.'
-OUTRO = 'Max retreats to the potatoes. The chef is very unhappy, and he has just lost a great deal of money. Until next time.'
+INTRO = 'Spartak has lost, or nearly so, and Barinov is shouting in the kitchen. Max brings in a stack of aprons at exactly the wrong time. First, the Russian.'
+OPENER = "Now let's look at it closely."
+TRANSITION = 'Now hear it again with fresh ears.'
+OUTRO = 'Max retreats to the potatoes. The chef is very unhappy, and he has just lost a great deal of money. Speak soon.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Шеф, вы почему так громко кричите?', 'Chef, why are you shouting so loudly?', [], ''),

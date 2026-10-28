@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Nagiyev has said no, so Barinov tries Fedya, the fish cook. He wants a loan so that he can bet on Spartak tonight. Here's the scene in Russian first."
-OPENER = "Let's go back through it, one line at a time."
-TRANSITION = 'Now the whole scene once more.'
-OUTRO = "Fedya won't lend a ruble, and he trusts cash more than football. The chef is running out of people to ask. Until next time."
+INTRO = "Nagiyev has said no, so Barinov tries Fedya, the fish cook. He wants a loan so that he can bet on Spartak tonight. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = "Fedya won't lend a ruble, and he trusts cash more than football. The chef is running out of people to ask. Goodbye for now."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('barinov', 'Федя, дорогой мой друг!', 'Fedya, my dear friend!', [(73, 'ружище')], ''),
@@ -32,7 +32,7 @@ STORY = [
     ('fedya', 'Я верю только в наличные деньги!', 'I believe only in cash money!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Fedya, my dear friend!\' "Dear" is the same word as "expensive". Barinov is suddenly sweet, and every cook in the kitchen would smell trouble. He uses the word "my", which sounds close.'),
+    (0, None, '\'Fedya, my dear friend!\' "Dear" repeats "expensive". Barinov is suddenly sweet, and every cook in the kitchen would smell trouble. He uses the word "my", which sounds close.'),
     (1, None, '\'Chef, why are you so kind?\' "Kind" echoes "kind day". Fedya says "vy", the polite "you", but he is plainly suspicious. People are not usually kind to a cook in the chef\'s kitchen without a reason.'),
     (2, None, '\'I urgently need your help.\' "Help" is feminine in Russian, so "needed" ends in -a. It\'s the same "to me needed" pattern, with "urgently" in front. Barinov is not asking for a favour. He is begging.'),
     (3, None, '\'No, chef, I am completely broke!\' Fedya says a short "ne" instead of the full "net". "Empty" is the Russian way to say "broke". He uses it with a clear conscience, because it is the truth.'),

@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I brought you cold fresh brine.' Brine from a jar of pickled cucumbers is the Russian hangover cure, and everybody knows it. Senya's "brought" has the man's -l, and the "you" is the polite one.
 - 'Oh, Senya, you are a true loyal friend.' Two describing words come before "friend": real and faithful. The second is the word that also means "reliable". Barinov is moved, because the pain has gone down a little.
 - 'Drink a little, it will immediately become much easier.' Senya drops the polite "you" and says "drink" the casual way, one old kitchen hand to another. "Easier" is "light" with a new ending, and "much" sits in front of it.
-- 'This drink helps me very much.' Russian says "helps to me", where English says "helps me". What russian calls the drink comes from a word meaning to sip or drink. Barinov says it like a man giving a review.
+- 'This drink helps me very much.' Russian says "helps to me", where English says "helps me". What Russian calls the drink comes from a word meaning to sip or drink. Barinov says it like a man giving a review.
 - 'Did Spartak lose an important match again yesterday?' Senya is brave. "Yesterday" is a small word that rhymes with nothing in English. The question is cautious, and he knows he is poking a sore spot.
 - 'Do not talk to me about that nightmare.' "Nightmare" in Russian is used for anything awful, not just bad dreams. And "about" is a small word that you've met in "talk about". Barinov wants the subject closed.
 - 'Understood, chef, no more unnecessary words.' Russian says "it is clear" for "understood". And "no unnecessary words" has the "not any" form with the double negative. Senya gets the message, and he stops.

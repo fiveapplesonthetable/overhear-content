@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'timur': 'Тимур'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Barinov has put money on the match, and he now needs caviar for the restaurant. Timur, the supplier, arrives with five kilos, and the two of them taste it. Here's the scene in Russian first."
-OPENER = "Right, let's go through it line by line."
-TRANSITION = 'One more time, the whole scene.'
+INTRO = 'Barinov has put money on the match, and he now needs caviar for the restaurant. Timur, the supplier, arrives with five kilos, and the two of them taste it. Here is how they put it.'
+OPENER = 'First line first.'
+TRANSITION = 'Time to hear it all again.'
 OUTRO = "The caviar is tasted, and the bill comes next. It's a short pause before things go wrong. Catch you next time."
 CLOSING = ('timur', 'Пока!')
 STORY = [
@@ -32,10 +32,10 @@ STORY = [
 WALK = [
     (0, None, '\'Chef, here is everything, just as we agreed.\' Timur says "as we agreed", built on a word that means "reach an agreement", with the -sya. It is a businessman\'s greeting. He has delivered, and he wants that noticed.'),
     (1, None, '\'Did you bring the complete order of black caviar?\' "Of black caviar" has the "of" ending on both words. The chef checks the delivery like a customs officer. He says "ty" to the supplier, as old business partners do.'),
-    (2, None, '\'Here are exactly five kilograms of prime caviar.\' "Exactly" is the same word as in the bet, and it also means "level". In speech, "kilogram" often loses its ending after a number. Timur is quick and precise.'),
+    (2, None, '\'Here are exactly five kilograms of prime caviar.\' "Exactly" is what you heard in the bet, and it also means "level". In speech, "kilogram" often loses its ending after a number. Timur is quick and precise.'),
     (3, None, '\'Are you definitely sure that it is fresh?\' Caviar is a feminine word, so "it" is "she" in Russian, and the describing word is feminine too. Barinov asks, though he knows what the answer will be. He has been burned before.'),
     (4, None, '\'You offend me with such strange questions, dear brother!\' "Offend" is the word that gave "don\'t be offended". Russian men call each other "brother" when they\'re being warm or sly. Timur is theatrical about it.'),
-    (5, None, '\'Only the highest grade is suitable for our restaurant.\' What russian calls "suitable" is "approaches", the walking-up word used earlier. Things that come up to a standard are "suitable". Barinov plays the fussy chef.'),
+    (5, None, '\'Only the highest grade is suitable for our restaurant.\' What Russian calls "suitable" is "approaches", the walking-up word used earlier. Things that come up to a standard are "suitable". Barinov plays the fussy chef.'),
     (6, None, '\'This is the freshest caviar in all of Moscow.\' "The most fresh" gives the superlative, with the "most" word before the describing word. "In all Moscow" has "all" in the ending form. Timur\'s sales talk is the same in any language.'),
     (7, None, '\'Such a product requires strict quality control.\' "Requires" is what the pastry chef used for patience. "Quality" gives "of quality", and "control" is borrowed. Barinov is acting. He wants to taste it.'),
     (8, None, '\'Officials eat yesterday\'s inferior caviar in the morning.\' "Yesterday\'s" grows out of "yesterday". "Worse" is what Barinov used on the stove. Timur says that even the powerful get second-rate caviar. His claim is bold.'),

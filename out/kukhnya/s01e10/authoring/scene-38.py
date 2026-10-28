@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Max has proposed in the middle of the restaurant, and Vika has not run away. She answers him, and the answer surprises him. Here's the scene in Russian first."
-OPENER = "Let's go back through it, line by line."
-TRANSITION = 'One more time, the whole scene.'
-OUTRO = 'Vika has said yes, which neither of them expected. Whether it holds is another story. Until next time.'
+INTRO = "Max has proposed in the middle of the restaurant, and Vika has not run away. She answers him, and the answer surprises him. Here's the Russian, from the top."
+OPENER = "Let's go back to the beginning."
+TRANSITION = 'Here is the full story once more.'
+OUTRO = 'Vika has said yes, which neither of them expected. Whether it holds is another story. Keep listening.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Максим, ты думал, что я испугаюсь?', 'Maxim, did you think that I would get scared?', [(275, 'Я согласна')], ''),
@@ -32,9 +32,9 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Maxim, did you think that I would get scared?\' She calls him "Maksim", in full. "Get scared" is a future after "that", as in English. Vika is calm, and her calm is worse than anger.'),
-    (1, None, '\'I simply made you a beautiful proposal.\' Russians "make a proposal" to propose marriage. The russian for "proposal" is also a sentence in grammar. Max says it with an innocent face.'),
+    (1, None, '\'I simply made you a beautiful proposal.\' Russians "make a proposal" to propose marriage. The Russian for "proposal" is also a sentence in grammar. Max says it with an innocent face.'),
     (2, None, '\'You wanted to test my courage now?\' "Test" covers checking, as at the banquet. "Courage" grows out of "brave". Vika sees what Max was doing, and she says it back to him.'),
-    (3, None, '\'I am ready to create a strong family with you.\' "Create" is a grand word. "Strong" is the same as in "strong tea". Max talks as if he were reading a vow.'),
+    (3, None, '\'I am ready to create a strong family with you.\' "Create" is a grand word. "Strong" matches in "strong tea". Max talks as if he were reading a vow.'),
     (4, None, '\'Are you confident in your loud words?\' "Your own" is the word that marks the speaker\'s own words. "Loud" is the cousin of "loudly". Vika puts a doubt into a question.'),
     (5, None, '\'I am absolutely confident in every word of mine!\' "In every own word" is the literal. "Every" and "own" both show the "in" ending. Max doubles down.'),
     (6, None, '\'Then listen to my honest answer in front of everyone.\' "At everyone" is Russian for "in front of everyone". "Answer" shares a root with "answer for", from the chef\'s speech. Vika prepares her audience.'),

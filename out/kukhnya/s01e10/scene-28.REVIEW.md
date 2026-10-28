@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, I brought you the secret order.' "Secret" is easy to spot. "Brought you" has the polite "you" inside. Senya whispers, though no one is nearby. He has the manner of a spy.
-- 'Did you check that no one saw you?' "Nobody not saw" carries two negatives, and it's correct. "Check" is back from the banquet. Barinov is careful, as a conspirator should be.
+- 'Did you check that no one saw you?' "Nobody not saw" carries two negatives, and it's correct. "Check" reappears from the banquet. Barinov is careful, as a conspirator should be.
 - 'In the corridor it was completely empty.' "It was empty" is a past with no subject. It is the past of "is". The corridor is quiet, and Senya says so with a straight face.
 - 'Excellent, put this box on the table.' "Put" here means to set something upright, the same word as for the bet. "Box" has the ending for the thing being put. Barinov is calm and brisk.
 - 'The box turned out to be very heavy.' "Turned out" has the -sya. After it, the describing word takes a special ending, "heavy-ly". Senya reports it with a grunt. Five kilos is a lot of caviar.

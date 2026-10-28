@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The pretend wedding is over, and Vika and Max talk it over. She admits she was testing him, and he admits he was scared. Here's the scene in Russian first."
-OPENER = "Now let's take it slowly."
-TRANSITION = 'Here it is once more.'
-OUTRO = "Max and Vika have survived the scare, and they disagree about names. It's a warm end to a bad day. See you in the next scene."
+INTRO = 'The pretend wedding is over, and Vika and Max talk it over. She admits she was testing him, and he admits he was scared. Just listen, and see how much you pick up.'
+OPENER = 'This time, with explanations.'
+TRANSITION = 'Once more, at the pace of a real conversation.'
+OUTRO = "Max and Vika have survived the scare, and they disagree about names. It's a warm end to a bad day. Back soon."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, в покер тебе точно играть не стоит.', 'Max, you definitely should not play poker.', [(324, 'В покер тебе играть не стоит.')], ''),
@@ -32,8 +32,8 @@ STORY = [
     ('max', 'Или шанс открыть в себе новые таланты.', 'Or a chance to discover new talents within oneself.', [(341, 'Или возможность проявить себя с другой стороны, открыть новые таланты.')], ''),
 ]
 WALK = [
-    (0, None, '\'Max, you definitely should not play poker.\' "To you not worth it" is the Russian for "you shouldn\'t". The russian for "worth" also means "costs". Vika teases, and the teasing is affectionate.'),
-    (1, None, '\'You do not know how to bluff calmly at all.\' "Know how to" is the skill word. "Calmly" is the same as the caviar scene\'s "calm". Vika has watched him, and she knows his tells.'),
+    (0, None, '\'Max, you definitely should not play poker.\' "To you not worth it" is the Russian for "you shouldn\'t". The Russian for "worth" also means "costs". Vika teases, and the teasing is affectionate.'),
+    (1, None, '\'You do not know how to bluff calmly at all.\' "Know how to" is the skill word. "Calmly" matches the caviar scene\'s "calm". Vika has watched him, and she knows his tells.'),
     (2, None, '\'What was all this silly deception for anyway?\' "To what" is Russian for "what for". "Deception" is the noun for the word "deceive". Max is half annoyed, half relieved.'),
     (3, None, '\'I just wanted to test your initial reaction.\' "Test" covers checking. "Reaction" is borrowed. "First" in front of it gives "initial". Vika says it lightly.'),
     (4, None, '\'Why were you immediately frightened of adult responsibility?\' "Adult responsibility" is the phrase from the lecture in the office. "Frightened" is the -sya word. Vika asks the real question.'),

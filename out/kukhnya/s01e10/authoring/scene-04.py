@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'girl': 'Девушка'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Barinov goes out to meet the woman who was asking for him. She works for a television show, the one he appeared on recently, and she has an offer. He is not impressed by the number. Here's the scene in Russian first."
-OPENER = "Let's go through it slowly, line by line."
-TRANSITION = "Now let's listen to it all again."
-OUTRO = "Barinov won't work for kopecks, and we can guess he's thinking about his betting money. A TV job will have to wait. Speak soon."
+INTRO = 'Barinov goes out to meet the woman who was asking for him. She works for a television show, the one he appeared on recently, and she has an offer. He is not impressed by the number. The Russian comes first.'
+OPENER = "We'll take it a bit at a time."
+TRANSITION = 'And again, the whole conversation.'
+OUTRO = "Barinov won't work for kopecks, and we can guess he's thinking about his betting money. A TV job will have to wait. On to the next."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Здравствуйте, я вас внимательно слушаю.', 'Hello, I am listening to you attentively.', [(7, 'Я вас слушаю. Здравствуйте, Виктор')], ''),

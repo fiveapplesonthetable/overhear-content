@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Vika is on the verge of losing her temper with Kostya, and she makes a threat that works. Kostya cracks and tells her what Max has found out. Here's the scene in Russian first."
-OPENER = "Let's go through it slowly."
-TRANSITION = 'Now the whole scene again.'
-OUTRO = "Vika now knows why Max is hiding, and Nastya's shift is safe. Kostya has done the right thing, though not the brave one. Speak soon."
+INTRO = "Vika is on the verge of losing her temper with Kostya, and she makes a threat that works. Kostya cracks and tells her what Max has found out. Here's the Russian, from the top."
+OPENER = "Let's go back to the beginning."
+TRANSITION = 'Here is the full story once more.'
+OUTRO = "Vika now knows why Max is hiding, and Nastya's shift is safe. Kostya has done the right thing, though not the brave one. Keep listening."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, быстро говори, в чём дело!', 'Kostya, quickly speak, what is the matter!', [(95, 'Костя, или ты мне сейчас говоришь')], ''),
@@ -36,9 +36,9 @@ WALK = [
     (3, None, '\'All right, I will tell you everything right now!\' "I will tell" is the same short future as before. Kostya gives in. It took one sentence from Vika, and the whole secret is out.'),
     (4, None, '\'I am listening attentively to your confession.\' "Confession" comes from what Russian calls "confess", the one Barinov used about Vika. Vika\'s tone is formal and dry. She is enjoying having the upper hand.'),
     (5, None, '\'Max found out your secret from Alice.\' The word for "found out" can also mean "recognised". "From Alisa" tells you the source. "Secret" is the English word with a Russian ending. Kostya says it flatly, as news.'),
-    (6, None, '\'What secret did that fool find out?\' The russian for "fool" is blunt, but Vika says it with some affection. The little "still" in front gives it the sense of "what other secret". She is flustered, and trying not to show it.'),
+    (6, None, '\'What secret did that fool find out?\' The Russian for "fool" is blunt, but Vika says it with some affection. The little "still" in front gives it the sense of "what other secret". She is flustered, and trying not to show it.'),
     (7, None, '\'He thinks that you love him!\' Kostya says "loves him" with the term for "him" at the end. It is the same word for "it" that Alisa used about the chocolate. He says it as if it were obvious.'),
-    (8, None, '\'And why did he start hiding now?\' "Became hiding" is how Russian says "started to hide". What russian calls "become" is the one in "it will become easier". Vika\'s question is the thing she most wants to know.'),
+    (8, None, '\'And why did he start hiding now?\' "Became hiding" is how Russian says "started to hide". What Russian calls "become" is the one in "it will become easier". Vika\'s question is the thing she most wants to know.'),
     (9, None, '\'He got scared of a wedding and little kids!\' The scared word is back with its -sya. "Of a wedding" has the "of" ending, because fear takes that. Kostya says it quickly, to get it over with.'),
     (10, None, '\'Poor cowardly Maxik, got scared of kids.\' "Maksik" is a pet form of Max, made by adding -ik. It can be loving or mocking, and here it is both. Vika understands at once. Her tone is dry and sad.'),
     (11, None, '\'Thank you for not touching Nastya\'s shift!\' "Thank you that you don\'t touch" is how Russian says "thank you for not touching". The shift of "Nastya" takes the "of" ending on her name. Kostya is relieved.'),

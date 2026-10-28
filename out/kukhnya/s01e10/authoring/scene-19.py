@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The chef has something to be pleased about, and his sous-chef Lyova doesn't know what. Barinov is smiling all over his face. Here's the scene in Russian first."
-OPENER = "Let's take it again, slowly."
-TRANSITION = 'And now the whole scene again.'
-OUTRO = 'Lyova goes back to work, and Barinov goes on smiling. He thinks he has found a way to make a fortune. Catch you next time.'
+INTRO = "The chef has something to be pleased about, and his sous-chef Lyova doesn't know what. Barinov is smiling all over his face. First, the Russian."
+OPENER = "Now let's look at it closely."
+TRANSITION = 'Now hear it again with fresh ears.'
+OUTRO = 'Lyova goes back to work, and Barinov goes on smiling. He thinks he has found a way to make a fortune. Speak soon.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Это просто настоящий праздник какой-то!', 'This is simply some kind of real holiday!', [(153, 'Это просто праздник какой-то')], ''),
@@ -37,7 +37,7 @@ WALK = [
     (4, None, '\'The stove will return to the kitchen on time, Lyova.\' "Will return" has the -sya, "come back". "On time" is one word. Barinov promises again, but this time to a gentler audience.'),
     (5, None, '\'Do not say later that I do not listen.\' "Listen" here means to hear someone and do as they say. It\'s the same word as in "I am listening to you". Barinov says it to nobody in particular.'),
     (6, None, '\'I am simply worried about the evening service.\' "Worry" is a "live through" word, and it takes the little word for "for". "Service" is borrowed. Lyova worries, as a good sous-chef should.'),
-    (7, None, '\'Tonight our restaurant will make a fortune.\' "Will earn" is a short future. What russian calls "fortune" is also the word for "state" or "condition". Barinov is full of himself, and the walls are listening.'),
+    (7, None, '\'Tonight our restaurant will make a fortune.\' "Will earn" is a short future. What Russian calls "fortune" is also the word for "state" or "condition". Barinov is full of himself, and the walls are listening.'),
     (8, None, '\'All right, chef, I will get back to work.\' "Return to work" uses the small word for "to". Lyova gives up trying to understand his boss. It\'s the most sensible thing he does all day.'),
     (9, None, '\'Go and supervise the hot kitchen section.\' "Keep an eye on" is the sense of the word. "Section" is the workshop, and "hot" is the cooking part. Barinov gives a real order at last.'),
     (10, None, '\'I will do everything in the best way, chef.\' "In the best form" is the idiom for "to the best of my ability". "Form" echoes "pretend". Lyova repeats his boss\'s confidence, in a lower voice.'),

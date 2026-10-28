@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And what is bad about a relationship?' "What of bad" is the same "of" pattern as in "nothing terrible". It is Kostya's simple question, the one a good friend asks. Max has no good answer for it.
 - 'Then a wedding, and then kids!' The little word for "and" here stretches into "and then". "Children" is the plural word from the banquet day. Max counts it off like a list of disasters.
 - 'Why do I need all of this right now?' "What for to me" is how Russian says "why do I need". It is a complaint made of two short words. Max does not ask it kindly. He sounds like a man who doesn't want to grow up.
-- 'You are simply afraid of adult life.' The russian for "life" comes from the same family as "alive". And "adult" means "grown-up". Kostya hits the target in one sentence, because he knows Max.
+- 'You are simply afraid of adult life.' The Russian for "life" comes from the same family as "alive". And "adult" means "grown-up". Kostya hits the target in one sentence, because he knows Max.
 - 'I love freedom and adventures!' Max says "I love" in the same family as "favourite". Freedom and adventures are his two loves, and a girlfriend is not among them. He says it with a cheerful look.
 - 'Vika is a mature and smart girl.' "Smart" comes from the term for "mind", the same as in "clever girl". Kostya sticks up for Vika. He knows her, and he knows her better than Max does.
 - 'She will not tolerate your nonsense.' "Tolerate" is in the same family as "patience". And "nonsense" is "foolishnesses" in the plural, from what Russian calls foolish. Kostya says it with affection, and it is true.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Max has heard that Vika loves him, and he goes straight to his best friend Kostya. The two of them talk it through behind the bar. Max isn't sure whether to be happy or frightened. Here's the scene in Russian first."
-OPENER = "Now let's take it slowly."
-TRANSITION = 'Here it is again, all the way through.'
-OUTRO = 'Kostya tells him to speak to Vika honestly. Max decides to keep quiet, which is the worst plan on offer. See you in the next scene.'
+INTRO = "Max has heard that Vika loves him, and he goes straight to his best friend Kostya. The two of them talk it through behind the bar. Max isn't sure whether to be happy or frightened. Listen for the names and the numbers."
+OPENER = "Now we'll pick it apart."
+TRANSITION = 'The full thing, one more time.'
+OUTRO = 'Kostya tells him to speak to Vika honestly. Max decides to keep quiet, which is the worst plan on offer. Until the next one.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, кажется, Вика меня любит!', 'Kostya, it seems Vika loves me!', [], ''),
@@ -39,7 +39,7 @@ WALK = [
     (4, None, '\'And what is bad about a relationship?\' "What of bad" is the same "of" pattern as in "nothing terrible". It is Kostya\'s simple question, the one a good friend asks. Max has no good answer for it.'),
     (5, None, '\'Then a wedding, and then kids!\' The little word for "and" here stretches into "and then". "Children" is the plural word from the banquet day. Max counts it off like a list of disasters.'),
     (6, None, '\'Why do I need all of this right now?\' "What for to me" is how Russian says "why do I need". It is a complaint made of two short words. Max does not ask it kindly. He sounds like a man who doesn\'t want to grow up.'),
-    (7, None, '\'You are simply afraid of adult life.\' The russian for "life" comes from the same family as "alive". And "adult" means "grown-up". Kostya hits the target in one sentence, because he knows Max.'),
+    (7, None, '\'You are simply afraid of adult life.\' The Russian for "life" comes from the same family as "alive". And "adult" means "grown-up". Kostya hits the target in one sentence, because he knows Max.'),
     (8, None, '\'I love freedom and adventures!\' Max says "I love" in the same family as "favourite". Freedom and adventures are his two loves, and a girlfriend is not among them. He says it with a cheerful look.'),
     (9, None, '\'Vika is a mature and smart girl.\' "Smart" comes from the term for "mind", the same as in "clever girl". Kostya sticks up for Vika. He knows her, and he knows her better than Max does.'),
     (10, None, '\'She will not tolerate your nonsense.\' "Tolerate" is in the same family as "patience". And "nonsense" is "foolishnesses" in the plural, from what Russian calls foolish. Kostya says it with affection, and it is true.'),

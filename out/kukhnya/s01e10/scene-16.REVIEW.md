@@ -28,10 +28,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Do not look at me like that.' "No need" works here as "don't". Russian can say it with the bare dictionary form, "not necessary to look". Barinov speaks to an audience of one: himself, or the camera.
 - 'Now money is more important than any silly principles.' "Any" is a word that means any at all. "Than principles" has the "of" form, with no "than" word. Barinov is dressing up greed as realism, and he enjoys it.
-- 'With these winnings I will buy food.' What russian calls "winnings" is made from "play" with a prefix, and "lose" was the same with another prefix. The word for food here is for animal feed, so the joke is on the staff.
+- 'With these winnings I will buy food.' What Russian calls "winnings" is made from "play" with a prefix, and "lose" was the same with another prefix. The word for food here is for animal feed, so the joke is on the staff.
 - 'Viktor Petrovich, what is happening in the kitchen?' Vika uses first name and father's name, which is formal and polite. It marks that she is speaking to the head chef, and not to her brother-in-law. She sounds crisp.
 - 'Why are the dishes being prepared so slowly?' The -sya on "prepare" means the dishes "prepare themselves", which is how Russian does a passive. Vika asks as the manager. She has heard the complaints.
-- 'The cooks are working at the normal working pace.' "Pace" is the same as English "tempo". "Working" is used twice, which makes it sound like official language. Barinov is stalling, and he's good at it.
+- 'The cooks are working at the normal working pace.' "Pace" matches English "tempo". "Working" is used twice, which makes it sound like official language. Barinov is stalling, and he's good at it.
 - 'Unhappy guests are already leaving the restaurant!' "Unhappy" is "not pleased", the opposite of the "pleased" guests at the banquet. "Leaving" is the "away" verb. Vika puts the problem in plain view.
 - 'Let them wait a bit for their hot steaks.' "Let them wait" begins with the "let" word. "Steak" is borrowed. Barinov dismisses the guests' patience as if it were something free. He doesn't care.
 - 'The waiters cannot cope with such a flow.' The "cope" word is back, in the plural. "Flow" is a stream, as of a river. Vika's complaint is a real one, and she names the staff's trouble.

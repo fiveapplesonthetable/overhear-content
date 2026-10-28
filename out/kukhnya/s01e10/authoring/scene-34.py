@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The caviar is nearly done, and Fedya is worried that it isn't quite finished. Senya assures him it's perfect. Here's the scene in Russian first."
-OPENER = "Let's go through it slowly."
-TRANSITION = 'And one more time.'
-OUTRO = "The cooks carry the caviar out to the dining room. Whatever happens now, it's too late to go back. Until next time."
+INTRO = "The caviar is nearly done, and Fedya is worried that it isn't quite finished. Senya assures him it's perfect. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = "The cooks carry the caviar out to the dining room. Whatever happens now, it's too late to go back. Goodbye for now."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, подойди сюда на секунду.', 'Senya, come over here for a second.', [], ''),

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Barinov has been caught. Nagiyev wants the truth, and the chef gives it, with a bit of spin. Then the owner passes sentence. Here's the scene in Russian first."
-OPENER = "Now let's slow it down."
-TRANSITION = 'And once more, the whole scene.'
-OUTRO = "Barinov has lost a month's pay on top of his bet. Max, standing by, tries to follow the rules of address. Speak soon."
+INTRO = 'Barinov has been caught. Nagiyev wants the truth, and the chef gives it, with a bit of spin. Then the owner passes sentence. Let the Russian wash over you first.'
+OPENER = 'Time to look at it properly.'
+TRANSITION = 'Now, from the top, in one go.'
+OUTRO = "Barinov has lost a month's pay on top of his bet. Max, standing by, tries to follow the rules of address. That's all for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Ладно, это обычная щучья икра, Дим.', 'Fine, it is ordinary pike roe, Dim.', [(299, 'Щучья.')], ''),

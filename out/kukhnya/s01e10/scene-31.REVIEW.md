@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Senya, are you sure about this idea?' "Sure of" uses the little word for "in", so "sure in this idea". Fedya is the cautious one. He has doubts, and he says them politely.
 - 'Of course, this is a brilliant plan!' "Brilliant" grows out of "genius". Senya answers at once, with no doubts at all. The scene is a contest of nerves.
 - 'It is completely yellow, like sand.' The little "zhe" adds "look at it". "Sand" is a short word. Fedya describes the caviar's colour, and his picture is a good one.
-- 'Now we will carefully dye it.' "Carefully" is the one from the chef's instructions. "Will dye" has the "po-". Senya repeats his boss's words, as a cook repeats a recipe.
+- 'Now we will carefully dye it.' "Carefully" was heard in the chef's instructions. "Will dye" has the "po-". Senya repeats his boss's words, as a cook repeats a recipe.
 - 'What dye will you paint it with?' The question has the "with" ending: "with what dye". "Dye" and "paint" are the same word. Fedya is practical and wants details.
 - 'I have a special black food coloring.' "At me there is" is the pattern. "Special" is easy to spot. Senya has the dye in his pocket, like a cook with a secret.
 - 'And the guests will not notice anything?' The question is just a rising voice. "Not notice nothing" is the double negative. Fedya wants to be sure, and his doubts are reasonable.

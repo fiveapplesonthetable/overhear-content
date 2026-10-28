@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is your beloved Spartak playing again?' "Beloved" is "favourite", the same as in the first scene. Nagiyev knows his chef well. The name of the club is masculine, so the word before it is too.
 - 'Yes, and I have reliable insider info!' The little "there is" appears again: "at me there is". "Reliable" also means "faithful". A tip from a friend of a friend is, for a gambler, solid truth.
 - 'Viktor, sports betting is dangerous.' "Bets on sport" has the plural, so "dangerous" does too. Nagiyev sounds like a wise uncle. It is good advice, and he knows it won't be taken.
-- 'I need a small advance until tomorrow.' What russian calls "advance" is just the English word. "Until tomorrow" is "to tomorrow". Barinov makes it sound like a tiny favour, and the word "small" does the work.
+- 'I need a small advance until tomorrow.' What Russian calls "advance" is just the English word. "Until tomorrow" is "to tomorrow". Barinov makes it sound like a tiny favour, and the word "small" does the work.
 - 'I know your advances, Viktor.' Nagiyev puts "advance" into the plural. That is a joke, since it means there have been many. He sees through the chef and enjoys it.
 - 'You will not get a single kopeck!' "Not of a kopeck" has the double negative for emphasis. A kopeck is the hundredth part of a ruble. Nagiyev is a rich man, and his refusal is complete.
 - 'Dmitry, you will regret this!' Barinov drops the father's name, and with it the politeness. "Regret" means feel sorry. The chef is furious. He ends the call with a threat that he cannot carry out.

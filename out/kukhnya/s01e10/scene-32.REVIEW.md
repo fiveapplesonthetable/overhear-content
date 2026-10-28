@@ -26,10 +26,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Senya, look how the caviar shines!' "Shines" is one word. "Look how" is the pair "look, how". Fedya is dazzled by the work. It is pure vanity on both sides.
-- 'I told you, the dye is great.' "I told you so" uses the little "zhe", the "but you know". "Dye" is back from the chef's order. Senya says it with pride.
+- 'I told you, the dye is great.' "I told you so" uses the little "zhe", the "but you know". "Dye" returns from the chef's order. Senya says it with pride.
 - 'It looks like genuine black caviar.' "Genuine" is the "real" word again. "Looks like" is the appear word. Fedya gives his verdict, and he is quite satisfied.
 - 'This dish is called pike easter.' "Is called" has the -sya, "calls itself". "Name" is the root, as in "name the price". Senya names the dish, like a chef in a magazine.
-- 'Why specifically pike easter?' "Specifically" is back from the first scene. Fedya is curious. He wants to hear the joke explained.
+- 'Why specifically pike easter?' "Specifically" reappears from the first scene. Fedya is curious. He wants to hear the joke explained.
 - 'Because it is a real culinary miracle!' "Miracle" is a short word, and "culinary" is from the kitchen. "Because" is the pair you've heard. Senya answers with great seriousness.
 - 'Give me a spoon, I want to taste.' "Give" is a short command. "Taste" is the "try" word. Fedya is greedy, and the caviar is a temptation.
 - 'Taste a tiny bit, just do not eat it all.' "A tiny bit" doubles a word that means "almost not", the "almost" of the knife scene. "Eat up" is what Alisa used. Senya is possessive.
