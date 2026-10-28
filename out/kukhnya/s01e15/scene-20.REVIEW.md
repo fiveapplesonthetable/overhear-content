@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илья | Тебя это тоже волнует? | Does this worry you too? | #372: Тебя это тоже воспринимает? | verbatim |
+| 1 | Илья | Тебя это тоже волнует? | Does this worry you too? | #372 00:23:56: Тебя это тоже воспринимает? | verbatim |
 | 2 | Сеня | Что именно? | What exactly? | new | new |
-| 3 | Илья | Например, Макс придёт или нет? | For example, will Max come or not? | #373: Например, зайдет Макс или нет? | verbatim |
+| 3 | Илья | Например, Макс придёт или нет? | For example, will Max come or not? | #373 00:23:59: Например, зайдет Макс или нет? | verbatim |
 | 4 | Сеня | Я думаю, он придёт. | I think he will come. | new | new |
 | 5 | Илья | Он любит нашу кухню. | He loves our kitchen. | new | new |
 | 6 | Сеня | И он любит работать. | And he loves to work. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does this worry you too?' Ilya checks if his colleague shares his anxiety about the current situation.
-- 'What exactly?' Senya asks for clarification, wanting to know which specific issue is causing concern.
-- 'For example, will Max come or not?' Ilya points to the uncertainty surrounding their coworker's arrival.
-- 'I think he will come.' Senya offers a reassuring opinion that the guy will show up.
-- 'He loves our kitchen.' Pointing out his dedication, Ilya mentions how much their friend enjoys the workplace.
-- 'And he loves to work.' Senya adds to the thought, highlighting their colleague's strong work ethic.
-- 'And what about the chef?' Ilya brings up a potential obstacle by mentioning their intimidating boss.
-- 'The chef will forgive him.' Senya expresses confidence that the boss will let things slide.
-- 'They will make peace.' He predicts a smooth reconciliation between the two men.
-- 'Of course they will make peace.' Senya strongly agrees, leaving no doubt about the upcoming truce.
-- 'Then everything will be fine.' Ilya feels relieved, concluding that the conflict will blow over.
-- 'Yes, we are just waiting.' Senya wraps up the chat by suggesting they simply see how things unfold.
+- 'Does this worry you too?' 'Volnuet' means 'worries', and the person worried goes in the 'tebya' form. 'Tozhe' is 'too'.
+- 'What exactly?' 'Chto imenno' is two words, and Russians use it to ask for the specific thing. It's the shortest way to ask for details.
+- 'For example, will Max come or not?' 'Naprimer' is 'for example', one word. 'Ili net' is 'or not', and it's how Russians finish a yes-or-no question.
+- 'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive', in one word with no 'will'.
+- 'He loves our kitchen.' 'Lyubit' is 'loves', and the thing loved takes 'nashu kukhnyu', with 'u' endings. Senya speaks about the room as if it were a person.
+- 'And he loves to work.' 'Lyubit rabotat' is 'loves to work', two verbs together. It is the most natural way to say you like doing something.
+- 'And what about the chef?' 'A kak zhe' is 'and how then', a handy way to ask 'what about...?'.
+- 'The chef will forgive him.' 'Prostit' is 'will forgive', and 'ego' is 'him'. Senya is confident.
+- 'They will make peace.' 'Pomiryatsya' comes from 'mir', peace, with 'sya' for 'each other'. Reconciliation is something that two people do.
+- 'Of course they will make peace.' Senya repeats the verb as his answer. Russians do it all the time, instead of a flat 'yes'.
+- 'Then everything will be fine.' 'Togda' is 'then', and 'vsyo budet khorosho' is the standard comfort.
+- 'Yes, we are just waiting.' 'Zhdyom' is 'we wait', and it means 'we are waiting'. The episode ends with waiting.

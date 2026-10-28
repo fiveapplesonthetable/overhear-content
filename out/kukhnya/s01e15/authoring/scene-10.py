@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва', 'mama': 'Мама'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Leva measures Chef Victor's blood pressure and finds it dangerously high. He warns Victor about the risks. Meanwhile, Leva also talks to his mother on the phone about his stressful demotion. Let us listen to their conversation in Russian first."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "Lyova takes Barinov's blood pressure and is shocked by the reading. Then his mother rings, and Lyova has bad news of his own. Here is the scene in Russian first."
+OPENER = "Let's go through this again, a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Leva measures Chef Victor's blood pressure and finds it dangerously high. He warns Victor about the risks. Meanwhile, Leva also talks to his mother on the phone about his stressful demotion. Next time you watch the episode, listen for the Russian expressions for 'joke' and 'blood pressure' — you will catch every word right away. See you next time!"
+OUTRO = 'Lyova has been demoted, and his mother has a lecture ready. When you watch, notice what is on the blood pressure monitor. See you next time.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Сто шестьдесят на девяносто.', 'One hundred sixty over ninety.', [(172, '160 на 90.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Спасибо тебе за поддержку, мама.', 'Thank you for the support, Mom.', [(186, 'Спасибо тебе, мама, за поддержку.')], ''),
 ]
 WALK = [
-    (0, None, "'One hundred sixty over ninety.' Lyova reads out the blood pressure numbers with concern."),
-    (1, None, "'Viktor Petrovich, this is not a joke.' Addressing his boss respectfully, he emphasizes that this medical reading is no laughing matter."),
-    (2, None, "'Such pressure is very dangerous.' Pointing out the severity, he explains how dangerous such high pressure can be."),
-    (3, None, "'Yes, everything will be fine.' Barinov waves off the concern, insisting that everything is perfectly fine."),
-    (4, None, "'Any stress and it will be bad.' Warning him of the consequences, Lyova states that any additional strain could lead to a bad outcome."),
-    (5, None, "'Hi, Mom.' Greeting his mother, Lyova shifts the conversation entirely."),
-    (6, None, "'How was your workday?' Mama asks about his day at the restaurant."),
-    (7, None, "'Fine, they fired me.' Lyova casually drops the bombshell that he lost his job."),
-    (8, None, "'Not fired, but demoted.' Mama corrects him, clarifying that he was only demoted, not fired."),
-    (9, None, "'Mom, I am not guilty of anything.' Defending himself, Lyova insists he did absolutely nothing wrong."),
-    (10, None, "'You must know how to answer for your actions.' Mama offers a stern lesson, telling him he needs to take responsibility for his choices."),
-    (11, None, "'Thank you for the support, Mom.' Lyova sarcastically thanks his mother for her less-than-helpful encouragement."),
+    (0, None, "'One hundred sixty over ninety.' 'Sto' is a hundred, 'shestdesyat' is 'six tens', and 'devyanosto' is the odd one, ninety. 'Na' here means 'over', as in a fraction."),
+    (1, None, "'Viktor Petrovich, this is not a joke.' 'Shutki' is the plural of 'joke', and Russians say 'these aren't jokes'. A single 'joke' would be 'shutka'."),
+    (2, None, "'Such pressure is very dangerous.' The dash stands for 'is'. 'Davlenie' comes from 'davit', to press, so blood pressure is a pressing."),
+    (3, None, "'Yes, everything will be fine.' Barinov waves it off with 'will be well'. Russian uses the adverb for 'well' where English says 'fine', and there is no subject."),
+    (4, None, "'Any stress and it will be bad.' 'Lyuboy' means 'any'. The little 'i' means 'and then', so the sentence says 'any stress, and then it will be bad'."),
+    (5, None, "'Hi, Mom.' Lyova uses the full word for mum, not the short form a child would call out. It sounds a little more grown-up."),
+    (6, None, "'How was your workday?' Days 'pass', 'proshyol', in Russian, and 'proshyol' is a man's form because 'den' is masculine. It's the usual way to ask how someone's day went."),
+    (7, None, "'Fine, they fired me.' 'Menya uvolili' is 'me they fired', and nobody is named as the one who did it. 'Normalno' means 'fine'."),
+    (8, None, "'Not fired, but demoted.' 'Ne ... a ...' is the pair for 'not X but Y'. 'Ponizili' means 'lowered', and 'nizky' is 'low', so a demotion is a lowering."),
+    (9, None, "'Mom, I am not guilty of anything.' 'Ni v chyom ne' is 'in nothing not', with the double negative. 'Vinovat' is 'guilty', in a man's form."),
+    (10, None, "'You must know how to answer for your actions.' 'Umet' is 'to know how', and 'otvechat za' is 'to answer for'. 'Postupki' are deeds, things you do."),
+    (11, None, "'Thank you for the support, Mom.' 'Spasibo tebe' adds 'to you', which makes the thanks personal. 'Za podderzhku' is 'for the support', with the thanked thing after 'za'."),
 ]

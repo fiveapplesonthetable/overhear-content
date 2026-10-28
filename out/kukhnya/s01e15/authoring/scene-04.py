@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Lyova tries to wake Viktor Petrovich up with freshly made pancakes and reminders about work. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Mom's Pancakes line by line and unpack how the Russian works."
+INTRO = "Barinov is still in bed, and now Lyova is at his door, holding a plate of pancakes. He has come to wake him up before he's late. Here is the scene in Russian first."
+OPENER = "Let's go through it again, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor Petrovich reluctantly gets out of bed, lured by the scent of fresh pancakes. Next time you watch the episode, listen for the Russian expressions for 'to get up' and 'to give' — you will catch every word right away. See you next time!"
+OUTRO = 'The smell of pancakes does what the alarm could not. When you watch, see how long it takes for Barinov to move. Until next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('lyova', 'Виктор Петрович, ну вставайте уже, ну!', 'Viktor Petrovich, come on, get up already, come on!', [(21, 'Виктор Петрович, ну вставайте уже, ну.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Ладно, встаю, неси скорее горячие блины!', 'Alright, I am getting up, bring the hot pancakes soon!', [], ''),
 ]
 WALK = [
-    (0, None, "'Viktor Petrovich, come on, get up already, come on!' Urging his boss to wake up, Lyova tries to coax him out of bed with repeated encouragement."),
-    (1, None, "'Lyova, let me sleep for five more minutes.' Begging for just a little more rest, the tired man tries to negotiate for extra time."),
-    (2, None, "'First, Mom baked pancakes for you.' Using a clever tactic, the sous-chef tempts his boss with the promise of a homemade breakfast."),
-    (3, None, "'Fresh pancakes are a very good reason.' The mention of food immediately grabs his attention, giving him the motivation he needs."),
-    (4, None, "'She prepared sweet jam and tea.' Adding to the appeal, he lists the delicious sides waiting in the kitchen."),
-    (5, None, "'Your mom makes simply amazing breakfasts.' The chef utters a genuine compliment to express his deep appreciation for the cooking."),
-    (6, None, "'And second, you really will be late.' Bringing the focus back to reality, Lyova reminds him of the pressing time constraint."),
-    (7, None, "'Where do I have to rush so much now?' Still feeling lazy, the older man questions why there is such a desperate need to hurry."),
-    (8, None, "'Both of us are already expected in our kitchen.' Pointing out their shared responsibility, he notes that the staff is waiting for them to arrive."),
-    (9, None, "'What an annoying person you are, Lyova!' Expressing a mix of fondness and irritation, the boss playfully complains about being pestered."),
-    (10, None, "'I am simply caring about our shared work.' Defending his actions, the loyal assistant explains that he only wants the restaurant to succeed."),
-    (11, None, "'Alright, I am getting up, bring the hot pancakes soon!' Finally yielding, the chef agrees to get out of bed on the condition that breakfast is served immediately."),
+    (0, None, "'Viktor Petrovich, come on, get up already, come on!' 'Vstavayte' is 'stand up!', with the 'te' ending that makes it polite and plural. The word for 'get up' and 'stand' belong together."),
+    (1, None, "'Lyova, let me sleep for five more minutes.' 'Day mne pospat' is 'give me to sleep', and it's the idiom for 'let me sleep'. The 'po' in 'pospat' makes the sleep short."),
+    (2, None, "'First, Mom baked pancakes for you.' 'Vo-pervykh' is 'in the first', the opener for a list of reasons. 'Blinchikov' is 'of little pancakes', a pet form of 'blin' with an 'of' ending to say 'some'."),
+    (3, None, "'Fresh pancakes are a very good reason.' 'Povod' means 'reason' in the sense of an excuse. There's no 'are', and 'svezhie' ends in 'ie' because pancakes are plural."),
+    (4, None, "'She prepared sweet jam and tea.' 'Varenye' is jam, the kind Russians put in tea. 'Sladkoe' ends in 'oe', because 'varenye' is neuter."),
+    (5, None, "'Your mom makes simply amazing breakfasts.' 'Potryasayushchie' comes from a word for 'shake', so amazing things shake you. 'Zavtraki' is 'breakfasts', plural."),
+    (6, None, "'And second, you really will be late.' 'Vo-vtorykh' is the pair of 'vo-pervykh'. 'Deystvitelno' is 'really', and it comes from 'deystvie', action."),
+    (7, None, "'Where do I have to rush so much now?' 'Kuda' means 'where to', and 'mne speshit' is 'to me to hurry'. Barinov asks it for effect, since he knows the answer."),
+    (8, None, "'Both of us are already expected in our kitchen.' 'Nas oboikh' is 'both of us', and 'zhdut' is 'they await', with nobody named. 'Na nashey kukhne' is 'on our kitchen'."),
+    (9, None, "'What an annoying person you are, Lyova!' 'Vredny' is 'harmful', and Russians use it for someone who spoils your fun. 'Kakoy zhe ty' is 'what a you'."),
+    (10, None, "'I am simply caring about our shared work.' 'Zabochus'' ends in 'sya' and is followed by 'o' for 'about'. 'Obshchey' means 'shared', and it comes from 'obshchy', common."),
+    (11, None, "'Alright, I am getting up, bring the hot pancakes soon!' 'Vstayu' is 'I stand up', one word for 'I am getting up'. 'Nesi' is 'carry!', the order Russians use for bringing something to a table."),
 ]

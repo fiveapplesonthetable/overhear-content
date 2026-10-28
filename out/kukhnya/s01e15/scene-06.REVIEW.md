@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ну ты куда? | Where are you going? | #31: Ну ты куда? | verbatim |
+| 1 | Костя | Ну ты куда? | Where are you going? | #31 00:02:51: Ну ты куда? | verbatim |
 | 2 | Макс | Я иду к Насте. | I am going to Nastya. | new | new |
 | 3 | Костя | Понимаешь, я не могу переехать к ней. | You see, I cannot move in with her. | new | new |
 | 4 | Макс | Почему ты не хочешь жить с ней? | Why do you not want to live with her? | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you going?' Kostya drops a quick question to see where his roommate is heading off to.
-- 'I am going to Nastya.' Giving a straightforward answer, the friend states his destination without going into detail.
-- 'You see, I cannot move in with her.' Trying to explain his dilemma, he introduces the main issue blocking his relationship progress.
-- 'Why do you not want to live with her?' Confused by the hesitation, Max asks for the reason behind his reluctance to take the next step.
-- 'Max and I split the rent together.' Pointing out their financial arrangement, he highlights the practical complication of moving out.
-- 'This is a very stupid and bad excuse.' Not buying the logic, the listener shoots down the reasoning as completely ridiculous.
-- 'He cannot afford it on his own.' Explaining his sense of obligation, Kostya worries about leaving his friend in a tough financial spot.
-- 'If you do not want to live with me, say so.' Max confronts him directly, demanding honesty if he is actually trying to find a way out.
-- 'I do want to. Max does not want to.' Clarifying the situation, he explains that he is ready, but his roommate is the one holding things back.
-- 'She will not believe you.' Listening to Kostya's rehearsal, Max warns his friend that Nastya will never buy such a flimsy excuse.
-- 'I understand him. But I will talk to him.' Resolving to fix the issue, Kostya promises to have a serious conversation to sort things out.
-- 'You need to do this today.' Adding pressure, Max insists that the problem must be handled immediately without delay.
-- 'I promise.' Giving his word, Kostya confirms he will follow through on his commitment.
+- 'Where are you going?' It's the same short question again, 'you where'. Russian does without the verb for movement.
+- 'I am going to Nastya.' 'K Naste' means 'to Nastya', and her name loses an 'a' for an 'e'. The little 'k' means 'towards'.
+- 'You see, I cannot move in with her.' 'Ponimaesh' is 'you understand', and Russians use it as a filler, like 'you see'. 'K ney' is 'to her', where 'ona' turns into 'ney'.
+- 'Why do you not want to live with her?' 'S ney' is 'with her', and it has the same 'ney' shape. 'Zhit' is 'to live', and it follows 'khochesh' directly.
+- 'Max and I split the rent together.' Russians say 'we with Max' for 'Max and I'. 'Za kvartiru' is 'for the flat', which is the right way to say what you pay for.
+- 'This is a very stupid and bad excuse.' 'Otgovorka' is an excuse, and the word has a slightly dismissive flavour. Both 'glupaya' and 'plokhaya' end in 'aya', matching the feminine noun.
+- 'He cannot afford it on his own.' 'Ne potyanet' is literally 'won't pull', and it's slang for 'won't be able to afford'. 'Odin on' is 'alone he'.
+- 'If you do not want to live with me, say so.' 'Skazhi' is the order 'say!'. 'Yesli' starts the 'if' part. Max is exasperated.
+- 'I do want to. Max does not want to.' 'Da ya khochu' has a 'da' that doesn't mean 'yes'; it pushes the point. 'Eto Maks ne khochet' puts the blame on Max.
+- 'She will not believe you.' In Russian you believe 'to' someone, so 'you' appears as 'tebe'. 'Ne poverit' is the future, 'won't believe'.
+- 'I understand him. But I will talk to him.' 'S nim' is 'with him', and the word for 'him' picks up an 'n' after 'with'. 'Pogovoryu' is 'I will have a talk'.
+- 'You need to do this today.' 'Tebe nuzhno' is 'to you it's needed', and it works for friendly pressure. 'Segodnya' is 'today'.
+- 'I promise.' One word, 'obeshchayu', and it ends the scene. Russians say it on its own with no 'I'.

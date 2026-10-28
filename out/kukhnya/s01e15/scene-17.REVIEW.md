@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Привет, Макс. | Hi, Max. | #335: Привет. | verbatim |
-| 2 | Вика | Привет. | Hi. | #335: Привет. | verbatim |
-| 3 | Макс | Я хочу переехать к тебе. | I want to move to your place. | #336: Я хочу переехать к тебе. | verbatim |
-| 4 | Вика | Тебе негде жить? | Do you have nowhere to live? | #337: Что, негде жить? | verbatim |
-| 5 | Макс | Нет, у меня миллион вариантов. | No, I have a million options. | #337: Да нет, просто...<br>#338: Да миллион вариантов. | verbatim |
-| 6 | Макс | Костя зовёт меня назад. | Kostya is calling me back. | #338: Просто Костя назад зовет, | verbatim |
-| 7 | Макс | Лёва тоже приглашает жить. | Leva is also inviting me to live. | #338: Лёва тоже приглашает, | verbatim |
-| 8 | Макс | Но я готов жить с тобой. | But I am ready to live with you. | #339: Но я готов жить с тобой. | verbatim |
+| 1 | Вика | Привет, Макс. | Hi, Max. | #335 00:21:36: Привет. | verbatim |
+| 2 | Макс | Привет. | Hi. | #335 00:21:36: Привет. | verbatim |
+| 3 | Макс | Я хочу переехать к тебе. | I want to move to your place. | #336 00:21:38: Я хочу переехать к тебе. | verbatim |
+| 4 | Вика | Тебе негде жить? | Do you have nowhere to live? | #337 00:21:40: Что, негде жить? | verbatim |
+| 5 | Макс | Нет, у меня миллион вариантов. | No, I have a million options. | #337 00:21:40: Да нет, просто...<br>#338 00:21:43: Да миллион вариантов. | verbatim |
+| 6 | Макс | Костя зовёт меня назад. | Kostya is calling me back. | #338 00:21:43: Просто Костя назад зовет, | verbatim |
+| 7 | Макс | Лёва тоже приглашает жить. | Leva is also inviting me to live. | #338 00:21:43: Лёва тоже приглашает, | verbatim |
+| 8 | Макс | Но я готов жить с тобой. | But I am ready to live with you. | #339 00:21:47: Но я готов жить с тобой. | verbatim |
 | 9 | Вика | Что ты хочешь сказать? | What do you want to say? | new | new |
-| 10 | Макс | Я хочу жить с тобой. | I want to live with you. | #340: В смысле, хочу. | verbatim |
-| 11 | Макс | Я не хочу быть без тебя. | I do not want to be without you. | #341: В смысле, не хочу без тебя. | verbatim |
+| 10 | Макс | Я хочу жить с тобой. | I want to live with you. | #340 00:21:50: В смысле, хочу. | verbatim |
+| 11 | Макс | Я не хочу быть без тебя. | I do not want to be without you. | #341 00:21:52: В смысле, не хочу без тебя. | verbatim |
 | 12 | Вика | Это очень приятно слышать. | That is very pleasant to hear. | new | new |
 | 13 | Макс | Правда? | Really? | new | new |
 | 14 | Вика | Да, я тебе верю. | Yes, I believe you. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Max.' Vika greets his reflection or maybe speaks out of habit, leaving out any state-of-being words and connecting the greeting straight to the name.
-- 'Hi.' Vika offers a short, standard greeting that is heard all the time in everyday Russian chats.
-- 'I want to move to your place.' Getting right to the point, Max uses the casual, friendly "you" to suggest moving in together.
-- 'Do you have nowhere to live?' Vika turns a simple observation into a probing question just by pitching her voice up on "nowhere."
-- 'No, I have a million options.' Trying to sound cool, Max boasts using a classic phrasing pattern, literally saying "at me" there are a million choices.
-- 'Kostya is calling me back.' Trying to sound in high demand, Max brags that Kostya is already asking him to move back in.
-- 'Leva is also inviting me to live.' Adding more proof of his popularity, Max pairs "Lyova" with the word for "too" to show how wanted he is.
-- 'But I am ready to live with you.' Dropping the tough act, Max switches back to the familiar "you" to admit where he really wants to be.
-- 'What do you want to say?' Gently pushing him to be more direct, Vika relies on a very common everyday phrase.
-- 'I want to live with you.' Spelling it out clearly at last, Max uses a completely natural and straightforward declaration.
-- 'I do not want to be without you.' Max adds a sweet follow-up, keeping his phrasing simple and deeply sincere.
-- 'That is very pleasant to hear.' Showing she is touched, Vika effortlessly combines "very much" with "pleasant" and "to hear."
-- 'Really?' Checking if she is serious, Max turns a single word meaning "truth" or "honestly" into a quick question.
-- 'Yes, I believe you.' Vika reassures him with a short, punchy sentence centered around the action of believing.
+- 'Hi, Max.' 'Privet' is the casual hello, and it's what Russians say to friends. She adds his name.
+- 'Hi.' Max answers with one word. Sometimes that is enough.
+- 'I want to move to your place.' 'K tebe' is 'to you', and it's how you say 'to your place'. 'Pereekhat' is 'to move house'.
+- 'Do you have nowhere to live?' 'Negde zhit' is 'nowhere to live', with one special word, 'negde'. Russians make such 'nowhere to' words with 'ne'.
+- 'No, I have a million options.' 'Million' stays the same, and the thing counted takes 'of' in the plural, 'variantov'. 'U menya' is 'at me'.
+- 'Kostya is calling me back.' 'Zovyot' is 'calls', and it also means 'invites'. 'Nazad' is 'back', and 'menya' is the form of 'me' that goes with 'calls'.
+- 'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', and 'tozhe' means 'also'. 'Zhit' follows it in its basic shape.
+- 'But I am ready to live with you.' 'Gotov' is 'ready', in a man's form, and the action follows directly. 'S toboy' is 'with you'.
+- 'What do you want to say?' She asks him directly. 'Chto ty khochesh skazat' is 'what you want to say', which is how Russians say 'what are you getting at?'.
+- 'I want to live with you.' Max keeps it simple, which is rare for him. 'Khochu zhit' is 'I want to live', two words.
+- 'I do not want to be without you.' 'Bez tebya' is 'without you', and 'bez' takes the 'a' form of 'you'. 'Byt' is 'to be'.
+- 'That is very pleasant to hear.' 'Priyatno' is 'pleasant', with no 'is'. 'Slyshat' is 'to hear'.
+- 'Really?' One word, 'pravda', the same as 'truth'. Max can hardly believe it.
+- 'Yes, I believe you.' 'Tebe veryu' is 'to you I believe'. In Russian you believe 'to' somebody, so 'you' goes in the 'to' form.

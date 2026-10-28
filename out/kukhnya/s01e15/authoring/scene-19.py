@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва', 'mama': 'Мама'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "In the morning, Chef Victor cooks breakfast for Leva and his mother. Leva wonders if this is Victor's way of apologizing for his earlier deception. Let us listen to their conversation in Russian first."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "It's morning in Lyova's flat, and Barinov has made breakfast for everyone. Lyova suspects it's his way of apologising. Here is the scene in Russian first."
+OPENER = "Let's go back through the breakfast table slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the morning, Chef Victor cooks breakfast for Leva and his mother. Leva wonders if this is Victor's way of apologizing for his earlier deception. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
+OUTRO = 'Nobody finishes the omelette, and they are all late. When you watch, notice how nobody mentions the apology. See you next time.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Доброе утро, Виктор.', 'Good morning, Viktor.', [(366, 'Доброе утро. Доброе, доброе.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Спасибо за завтрак.', 'Thank you for the breakfast.', [], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, Viktor.' Barinov starts the day with a standard morning greeting directed at himself or another Viktor."),
-    (1, None, "'Good morning.' Mama returns the pleasantry simply and warmly."),
-    (2, None, "'Victor prepared such an omelet.' She praises his cooking, drawing attention to how special the dish turned out."),
-    (3, None, "'Is this a kind of apology?' Lyova questions the motive behind the meal, wondering if it serves as a peace offering."),
-    (4, None, "'This is a kind of omelet.' Barinov deflects the question with dry humor, pointing out the obvious nature of the food instead."),
-    (5, None, "'Come on, eat.' He issues a blunt instruction to dig in without further discussion."),
-    (6, None, "'I will be late for work.' The chef adds pressure by bringing up his tight morning schedule."),
-    (7, None, "'Yes, eat faster.' Mama echoes the urgency, encouraging everyone to speed up their meal."),
-    (8, None, "'Alright, I will eat this.' Lyova gives in to the pressure and agrees to try the dish."),
-    (9, None, "'This is very delicious.' Barinov boasts a little about the quality of his own cooking."),
-    (10, None, "'It is time for us to go.' She signals the end of breakfast, noting they need to leave."),
-    (11, None, "'Thank you for the breakfast.' Lyova wraps up the scene with a polite expression of gratitude."),
+    (0, None, "'Good morning, Viktor.' 'Utro' is a neuter word, so 'dobroe', 'good', ends in 'oe'. Lyova's mother calls him by his first name, as an equal."),
+    (1, None, "'Good morning.' It's the same greeting in two words. The mother says it to the room."),
+    (2, None, "'Viktor prepared such an omelet.' 'Takoy omlet' is 'such an omelette', and 'takoy' is masculine because 'omlet' is. The English word is borrowed from French and arrives in Russian."),
+    (3, None, "'Is this a kind of apology?' 'Tipa' is slang for 'sort of', and it's the kind of word teenagers use. 'Izvineniya' is 'apologies', always plural."),
+    (4, None, "'This is a kind of omelet.' Barinov copies 'tipa' back, to avoid the subject. It's a neat way to say nothing."),
+    (5, None, "'Come on, eat.' 'Esh' is the order 'eat!', for a friend. 'Davay' on the end makes it a nudge."),
+    (6, None, "'I will be late for work.' 'Opozdayu' is 'I will be late'. 'Na rabotu' is 'for work'."),
+    (7, None, "'Yes, eat faster.' 'Kushayte' is a cosy word for 'eat', and it ends in 'te' because it's polite and plural. 'Bystree' is 'faster'."),
+    (8, None, "'Alright, I will eat this.' The word for 'I will eat up' starts with 's', which means 'finish'. 'Ladno' is the shrug."),
+    (9, None, "'This is very delicious.' Without a verb, 'eto ochen vkusno'. It's high praise from a chef."),
+    (10, None, "'It is time for us to go.' 'Nam pora' is 'to us time'. The mother says it to herself and the men."),
+    (11, None, "'Thank you for the breakfast.' 'Spasibo za' is 'thanks for', and what follows takes the 'for' form. 'Zavtrak' is the same word as 'breakfast'."),
 ]

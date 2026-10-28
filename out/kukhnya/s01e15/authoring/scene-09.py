@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = 'In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = 'The cooks in the kitchen are enjoying an unusually peaceful day. Senya comments on it, and Fedya tells him exactly why. Here is the scene in Russian first.'
+OPENER = "Let's go through it again, line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Next time you watch the episode, listen for the Russian expressions for 'to think' and 'great' — you will catch every word right away. See you next time!"
+OUTRO = 'Fedya and Senya get on with their work, in peace. When you watch, notice how quickly the noise level goes up after Max returns. See you next time.'
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Я не думал, что тут так классно.', "I didn't think it was so great here.", [(170, 'Я не думал, что на кухне так классно.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Спасибо, я вижу.', 'Thank you, I see it.', [], ''),
 ]
 WALK = [
-    (0, None, "'I didn't think it was so great here.' Senya expresses his surprise at how pleasant the kitchen is today."),
-    (1, None, "'It is great everywhere when there is no Max.' Fedya points out that any place is better without Max around."),
-    (2, None, "'Yes, it is very quiet today.' Agreeing with the sentiment, Senya remarks on the unusual quietness of the kitchen."),
-    (3, None, "'We need to work.' Bringing them back to reality, Fedya reminds his colleague that they still have jobs to do."),
-    (4, None, "'I am just resting.' Senya casually dismisses the reminder, claiming he is just taking a break."),
-    (5, None, "'The chef can come.' Fedya warns him that the boss could walk in at any moment."),
-    (6, None, "'The chef is busy now.' Brushing off the warning, Senya points out that the boss is currently occupied."),
-    (7, None, "'Anyway, let's work.' Insisting on getting back to work, Fedya tells him to stop slacking off."),
-    (8, None, "'Good, I am coming.' Giving up the argument, Senya finally agrees to help."),
-    (9, None, "'Where is my knife?' Ready to start, Fedya asks where his tool is located."),
-    (10, None, "'It is on the table.' Senya simply points out that the item is right there on the table."),
-    (11, None, "'Thank you, I see it.' Fedya sarcastically acknowledges seeing it."),
+    (0, None, "'I didn't think it was so great here.' 'Klassno' is a slangy 'cool', from 'klass'. 'Ne dumal, chto' is 'didn't think that'. Senya sounds relaxed."),
+    (1, None, "'It is great everywhere when there is no Max.' 'Net Maksa' is 'there isn't of Max', and the name picks up an 'a' ending. 'Vezde' means 'everywhere'."),
+    (2, None, "'Yes, it is very quiet today.' 'Tikho' is 'quiet' as an adverb, and in Russian it needs no 'is'. 'Segodnya' means 'today'."),
+    (3, None, "'We need to work.' 'Nam nado' is 'to us necessary'. Fedya's line is short, and he has to push."),
+    (4, None, "'I am just resting.' 'Otdykhayu' is 'I rest', and 'prosto' means 'just'. Senya doesn't bother with a long excuse."),
+    (5, None, "'The chef can come.' The word for 'come' here is the on-foot kind, 'prijti' in spelling, and it is paired with 'can'. It is a warning, not a prediction."),
+    (6, None, "'The chef is busy now.' 'Zanyat' is 'busy', and it comes from 'zanyat', 'to occupy'. The man's form has no ending."),
+    (7, None, "'Anyway, let's work.' 'Vsyo ravno' is 'everything equal', which is how Russians say 'anyway' or 'all the same'. 'Davay' makes it a suggestion."),
+    (8, None, "'Good, I am coming.' 'Idu' means 'I go' and 'I am coming' in one word. Senya has given in."),
+    (9, None, "'Where is my knife?' 'Nozh' is the word for knife, and 'moy' is masculine to match. Anyone who knows the knife scene from episode two will recognise it."),
+    (10, None, "'It is on the table.' 'Na stole' means 'on the table', with 'e' on the end of 'stol'. 'On' is 'it' because a knife is a masculine word."),
+    (11, None, "'Thank you, I see it.' 'Vizhu' is 'I see', and no 'it' is needed. Fedya has found it already."),
 ]

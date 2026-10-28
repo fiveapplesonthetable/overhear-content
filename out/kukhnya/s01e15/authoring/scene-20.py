@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ilya': 'Илья', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = 'Back at the restaurant, the staff is waiting to see if Max will finally return to work after everything that happened. They discuss his possible arrival. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = 'The kitchen staff are wondering whether Max will come back to work. Ilya and Senya talk it over. Here is the scene in Russian first.'
+OPENER = "Let's go through the scene one last time, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Back at the restaurant, the staff is waiting to see if Max will finally return to work after everything that happened. They discuss his possible arrival. Next time you watch the episode, listen for the Russian expressions for 'too' and 'to worry' — you will catch every word right away. See you next time!"
+OUTRO = 'Everyone is sure Max will turn up. When you watch the episode, see whether the chef agrees. This was the last scene of the episode. See you next time.'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('ilya', 'Тебя это тоже волнует?', 'Does this worry you too?', [(372, 'Тебя это тоже воспринимает?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('senya', 'Да, просто ждём.', 'Yes, we are just waiting.', [], ''),
 ]
 WALK = [
-    (0, None, "'Does this worry you too?' Ilya checks if his colleague shares his anxiety about the current situation."),
-    (1, None, "'What exactly?' Senya asks for clarification, wanting to know which specific issue is causing concern."),
-    (2, None, "'For example, will Max come or not?' Ilya points to the uncertainty surrounding their coworker's arrival."),
-    (3, None, "'I think he will come.' Senya offers a reassuring opinion that the guy will show up."),
-    (4, None, "'He loves our kitchen.' Pointing out his dedication, Ilya mentions how much their friend enjoys the workplace."),
-    (5, None, "'And he loves to work.' Senya adds to the thought, highlighting their colleague's strong work ethic."),
-    (6, None, "'And what about the chef?' Ilya brings up a potential obstacle by mentioning their intimidating boss."),
-    (7, None, "'The chef will forgive him.' Senya expresses confidence that the boss will let things slide."),
-    (8, None, "'They will make peace.' He predicts a smooth reconciliation between the two men."),
-    (9, None, "'Of course they will make peace.' Senya strongly agrees, leaving no doubt about the upcoming truce."),
-    (10, None, "'Then everything will be fine.' Ilya feels relieved, concluding that the conflict will blow over."),
-    (11, None, "'Yes, we are just waiting.' Senya wraps up the chat by suggesting they simply see how things unfold."),
+    (0, None, "'Does this worry you too?' 'Volnuet' means 'worries', and the person worried goes in the 'tebya' form. 'Tozhe' is 'too'."),
+    (1, None, "'What exactly?' 'Chto imenno' is two words, and Russians use it to ask for the specific thing. It's the shortest way to ask for details."),
+    (2, None, "'For example, will Max come or not?' 'Naprimer' is 'for example', one word. 'Ili net' is 'or not', and it's how Russians finish a yes-or-no question."),
+    (3, None, "'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive', in one word with no 'will'."),
+    (4, None, "'He loves our kitchen.' 'Lyubit' is 'loves', and the thing loved takes 'nashu kukhnyu', with 'u' endings. Senya speaks about the room as if it were a person."),
+    (5, None, "'And he loves to work.' 'Lyubit rabotat' is 'loves to work', two verbs together. It is the most natural way to say you like doing something."),
+    (6, None, "'And what about the chef?' 'A kak zhe' is 'and how then', a handy way to ask 'what about...?'."),
+    (7, None, "'The chef will forgive him.' 'Prostit' is 'will forgive', and 'ego' is 'him'. Senya is confident."),
+    (8, None, "'They will make peace.' 'Pomiryatsya' comes from 'mir', peace, with 'sya' for 'each other'. Reconciliation is something that two people do."),
+    (9, None, "'Of course they will make peace.' Senya repeats the verb as his answer. Russians do it all the time, instead of a flat 'yes'."),
+    (10, None, "'Then everything will be fine.' 'Togda' is 'then', and 'vsyo budet khorosho' is the standard comfort."),
+    (11, None, "'Yes, we are just waiting.' 'Zhdyom' is 'we wait', and it means 'we are waiting'. The episode ends with waiting."),
 ]

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Лёва, закрой дверь, я уже сплю. | Lyova, close the door, I am already sleeping. | #318: Лева, закрой дверь, я сплю уже. | verbatim |
+| 1 | Шеф | Лёва, закрой дверь, я уже сплю. | Lyova, close the door, I am already sleeping. | #318 00:20:11: Лева, закрой дверь, я сплю уже. | verbatim |
 | 2 | Лёва | Ой, Виктор Петрович, вы дома. | Oh, Viktor Petrovich, you are home. | new | new |
 | 3 | Лёва | Слава богу. | Thank god. | new | new |
 | 4 | Лёва | Я так боялся, что вы уйдёте. | I was so afraid that you would leave. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, close the door, I am already sleeping.' Barinov gruffly asks for quiet, issuing a blunt order to shut the door because he is already asleep.
-- 'Oh, Viktor Petrovich, you are home.' Startled, Lyova expresses his surprise by dropping any linking words and connecting "oh" straight to "at home."
-- 'Thank god.' He breathes a sigh of relief, stringing together the words for "glory" and "to God" in a classic expression of gratitude.
-- 'I was so afraid that you would leave.' Admitting his fear, Lyova uses respectful "you" forms, maintaining a formal boundary even in an emotional moment.
-- 'I was very wrong.' Owning up to his mistake, Lyova describes his past error with an action word showing a completed state of being wrong.
-- 'I should not have kicked you out.' Regretting his harshness, Lyova adds a past-time marker to the word for "ought" to show what he failed to do.
-- 'We have known each other for thousands of years.' To show their long history, Lyova casually pairs "acquainted" directly with "thousands of years" without extra linking words.
-- 'Anything can happen.' Offering a philosophical excuse, Lyova uses a common conversational phrase to say that all sorts of things might occur.
-- 'We just need to ask for forgiveness.' Concluding his apology tour, Lyova ties "it is necessary" together with "simply" and "to ask."
-- 'We need to forget this stupid story.' Hoping to move on, Lyova hinges his thought on "it is necessary" and follows up with a plea to forget the foolishness.
-- 'I ask for your forgiveness.' Making it official, Lyova addresses the chef respectfully while asking to be pardoned.
-- 'Viktor Petrovich, do you hear me?' Checking if the sleeping man caught any of that, Lyova turns his sentence into a question just by pitching his voice up on "hear."
+- 'Lyova, close the door, I am already sleeping.' 'Zakroy' is the order 'close!'. 'Dver' is feminine and has no ending, so 'door' stays the same after 'close'.
+- 'Oh, Viktor Petrovich, you are home.' 'Doma' is 'at home', while 'domoy' is 'homewards'. English uses 'home' for both.
+- 'Thank god.' 'Slava bogu' is literally 'glory to God', and Russians say it as we say 'thank heavens'. It's a standard phrase.
+- 'I was so afraid that you would leave.' After 'afraid that', Russian keeps the future, so it says 'that you will leave'. English shifts it to 'would'. The 'so' is just a small word in front of 'afraid'.
+- 'I was very wrong.' The short word for 'wrong' is the opposite of the word for 'right', with 'ne' stuck on it. Lyova is a man, so there is no ending.
+- 'I should not have kicked you out.' 'Ne dolzhen byl' is 'was not supposed to', and it carries the 'should not have'. The action that follows stays in its basic shape.
+- 'We have known each other for thousands of years.' 'Znakomy' is 'acquainted', and 'tysyachi let' is 'thousands of years', with the special 'let' used for 'years' after a big number.
+- 'Anything can happen.' 'Vsyakoe' means 'all sorts', so 'all sorts can happen'. 'Mozhet sluchitsya' is 'can happen'.
+- 'We just need to ask for forgiveness.' 'Poprosit' is 'to ask', and 'proshcheniya' is 'forgiveness' with an 'of' ending. 'Nado prosto' is 'just necessary'.
+- 'We need to forget this stupid story.' 'Zabyt' is 'to forget'. 'Durtsku' comes from 'durak', fool, and 'istoriyu' is a story or an incident.
+- 'I ask for your forgiveness.' 'Proshu u vas proshcheniya' is literally 'I ask of you forgiveness'. It's the full, formal way to apologise.
+- 'Viktor Petrovich, do you hear me?' 'Slyshite' is 'do you hear', which is different from 'slushat', to listen. You can hear without listening.
