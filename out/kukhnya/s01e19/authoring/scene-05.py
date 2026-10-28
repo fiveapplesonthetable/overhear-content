@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = 'The tour is over, and Igor is saying goodbye to Vika, very politely. Listen to the Russian first; the formal tone matters more than any single word.'
 OPENER = 'Now the goodbyes, one at a time.'
 TRANSITION = 'Hear the polite farewell once more, from the top.'
-OUTRO = "Formal Russian runs long, but you've now heard its key pieces: vy, priyatno and do svidaniya. See you next time!"
+OUTRO = "Formal Russian runs long, but you've now heard its key pieces: \"vy\", \"priyatno\" and \"do svidaniya\". See you next time!"
 CLOSING = ('igor', 'Всего хорошего!')
 STORY = [
     ('igor', 'Виктория Сергеевна, спасибо за экскурсию.', 'Viktoria Sergeyevna, thank you for the tour.', [(116, 'Виктория Сергеевна')], ''),

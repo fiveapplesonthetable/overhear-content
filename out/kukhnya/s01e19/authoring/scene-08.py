@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Later at the bar, Kostya tries to cheer Max up after that bouquet, with a line about boats and the ocean. Listen in Russian before anything else; don't chase every word."
 OPENER = "Now let's go through the pep talk slowly."
 TRANSITION = "Here's the whole pep talk again, boat and all."
-OUTRO = "Kostya's big wisdom turned out to be borrowed, but you can now say glavnoe for 'the main thing'. See you next time!"
+OUTRO = "Kostya's big wisdom turned out to be borrowed, but you can now say \"glavnoe\" for 'the main thing'. See you next time!"
 CLOSING = ('kostya', 'Ладно, увидимся!')
 STORY = [
     ('kostya', 'Макс, ты только не переживай.', 'Max, just do not worry.', [(174, 'Ты только не переживай')], ''),

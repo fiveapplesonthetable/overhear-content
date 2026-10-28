@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Max has asked Vika to be his girlfriend, and now he's waiting for her answer. The Russian comes first; it's simple, so just listen."
 OPENER = 'Now the answer, line by line.'
 TRANSITION = 'Hear the happy ending once more, all in Russian.'
-OUTRO = "It's a yes, and you heard it plainly: ty moya devushka. See you next time!"
+OUTRO = "It's a yes, and you heard it plainly: \"ty moya devushka\". See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Это значит да?', 'Does that mean yes?', [(378, 'значит да?')], ''),
