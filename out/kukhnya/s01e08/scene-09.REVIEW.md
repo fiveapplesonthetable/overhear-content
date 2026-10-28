@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Careful, where are you hiding the poor dog?' The opening word is the comparative 'more carefully', which Russians use to mean 'watch it'. 'where' is the 'where to' kind, because the dog is being moved.
-- 'Here in the locker room nobody will find her.' The Russian word for 'her' is the she-form, because the expression for 'dog' is grammatically feminine. 'Nobody' keeps its 'not', as it always does in Russian.
-- 'My God, what will I tell Dmitry?' Vika uses his first name here, and the term for 'to Dmitry' ends in 'yu'. 'My God' is a stock exclamation, much like the English one.
-- 'Tell him the truth, that the dog simply ran away.' The line opens with a command. 'Ran away' ends in 'a' for the dog.
-- 'Dmitry Vladimirovich will be simply furious!' 'In fury' puts the 'e' ending on 'fury'. The full name is the respectful one.
-- 'Calm down, she will soon come to her senses herself.' 'Come to oneself' means 'come round'. 'Herself' is the she-form, 'sama'.
-- 'Why are you standing in front of me without pants?' 'Pants' only exists in the plural. 'In front of me' is a longer form of 'before me'.
-- 'My jeans are being washed in the machine right now.' 'Are being washed' ends in 'sya'. 'In the machine' uses a diminutive for the washing machine.
-- 'Put at least something on yourself quickly!' 'Something' is 'what' plus 'nibud'.
-- 'First let us carefully put the dog here.' 'Let us put' is polite. 'Carefully' is the same word as 'careful'.
-- 'Fine, put her quietly on the bottom shelf.' The Russian for 'put' is a short command, and 'her' is again the she-form. 'Bottom' is literally the Russian for 'lower'.
-- 'Everything will be fine, nobody will find out anything!' Russian says 'will be well' and needs no word for 'fine'. 'Nobody' and 'anything' are both negatives, and the sentence still has its own 'not'.
+- 'Careful, where are you hiding the poor dog?' In speech, ostorozhney, literally 'more carefully', just means 'watch it'. She asks kuda, 'where to', since the dog is on the move.
+- 'Here in the locker room nobody will find her.' The feminine yeyo, 'her', follows sobaka. A razdevalka, 'locker room', is where you razdevatsya, 'get undressed'.
+- 'My God, what will I tell Dmitry?' The person you tell takes -yu here, so his name changes after skazhu. In her next line Vika switches to the full, respectful Dmitry Vladimirovich.
+- 'Tell him the truth, that the dog simply ran away.' Max says skazhi, the friendly command, since he and Vika are on ty terms. The -a on ubezhala agrees with sobaka, and the 'truth' he offers is a lie.
+- 'Dmitry Vladimirovich will be simply furious!' Russian says budet v yarosti, 'will be in fury', and after v, yarost becomes yarosti. Here prosto, 'simply', just turns up the volume.
+- 'Calm down, she will soon come to her senses herself.' Friends tell each other uspokoysya, 'calm down'. To come round after fainting is priyti v sebya, literally 'to come into oneself'.
+- 'Why are you standing in front of me without pants?' Like dzhinsy, shtany, 'trousers', has no singular, and after bez it becomes shtanov. In peredo mnoy, 'in front of me', an extra -o makes pered easier to say.
+- 'My jeans are being washed in the machine right now.' Everyday Russian calls a washing machine stiralnaya mashinka, using the small form mashinka. With stirayutsya, Max repeats what he told Vika before the dog appeared.
+- 'Put at least something on yourself quickly!' For clothes Russians use naden, 'put on'. The ending -nibud turns chto into 'something, anything', and khot adds 'at least'.
+- 'First let us carefully put the dog here.' Max's davay polozhim, 'let's put', is the friendly 'let's' again. The word akkuratno means 'carefully, gently', not 'accurately'.
+- 'Fine, put her quietly on the bottom shelf.' Vika answers with polozhi, the friendly command from the same polozhit. Because the dog is going onto it, polka, 'shelf', becomes polku.
+- 'Everything will be fine, nobody will find out anything!' The standard reassurance is vsyo budet khorosho, literally 'all will be well'. Russian stacks three negatives in nikto nichego ne uznayet, and needs all of them.

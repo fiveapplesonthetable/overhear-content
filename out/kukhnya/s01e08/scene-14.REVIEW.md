@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fyodor, prepare two portions of shrimp.' Elena uses the full first name, which is formal. 'Prepare' is the polite plural, and 'two' is the she-form, since 'portion' is one of the she-words.
-- 'A chef should shout at cooks!' 'should' literally means 'must'. 'Shout at' takes the word 'na', followed by the cooks in a changed form.
-- 'Arseny, you deserve respectful treatment.' This is the full form of Senya's name. 'deserve' is followed by the 'of' form, so 'treatment' changes its ending.
-- 'But strict discipline is needed in the kitchen.' 'needed' ends in 'a' to agree with 'discipline'. 'In the kitchen' has the usual 'e' ending.
-- 'You have the cleanest workstation.' 'The cleanest' is literally 'most clean'. The Russian for 'workplace' is made from 'work' and 'place'.
-- 'Where is the hot dish for table three?' The Russian for 'third' agrees with 'little table' in the 'of' form. A table is called by its number.
-- 'The guests have been waiting forty minutes already!' Forty is a special word, unlike the other tens. 'Minutes' goes into the 'of' form after it.
-- 'Sasha, calmly, let us breathe deeply.' 'Let us' is the respectful plural. 'Breathe' and 'deeply' go together.
-- 'This dish takes over an hour to cook.' 'Is cooked' ends in 'sya', so the dish cooks itself. 'More than an hour' puts the 'a' ending on 'hour'.
-- 'They threaten to leave without paying.' The word for 'threaten' ends in 'sya'. 'Without payment' uses the 'of' form after 'without'.
-- 'Ask the guests to wait a little longer.' 'Ask' is the formal plural. 'A little more' is two words.
-- 'New order: partridge and mushrooms.' A list after a colon needs no verb. 'Partridge' counts as a she-word.
-- 'We will make everything on time, chef!' 'on time' is one word. 'We will make' ends in 'im', the ending for 'we'.
+- 'Fyodor, prepare two portions of shrimp.' Elena calls Fedya by his full first name, which sounds formal in a kitchen. With portsiya, 'portion', two takes the feminine dve, and shrimp become krevetok, 'of shrimp'.
+- 'A chef should shout at cooks!' Senya's dolzhen, 'must, should', matches shef, a masculine word. After krichat na, 'to shout at', povara becomes povarov.
+- 'Arseny, you deserve respectful treatment.' Once again Elena uses a full first name, this time for Senya. With zasluzhivat, 'to deserve', what you deserve takes the endings -ogo and -ya: dostoynogo obrashcheniya.
+- 'But strict discipline is needed in the kitchen.' The -a on nuzhna, 'needed', matches distsiplina. Senya argues for the shouting he's used to.
+- 'You have the cleanest workstation.' Here samoye chistoye, 'the cleanest', matches mesto, which is neuter. A rabocheye mesto is a workstation, and also a job.
+- 'Where is the hot dish for table three?' Restaurant staff call a table stolik, literally 'little table'. After dlya, tretiy stolik becomes tretyego stolika.
+- 'The guests have been waiting forty minutes already!' Waiting that is still going on stays in the present: zhdut uzhe. Unlike tridtsat and pyatdesyat, sorok, 'forty', has its own shape, and after it minuta becomes minut.
+- 'Sasha, calmly, let us breathe deeply.' Elena's davayte dyshat, 'let's breathe', is the polite 'let's' with the basic form of the action. On its own here, spokoyno means 'easy now'.
+- 'This dish takes over an hour to cook.' Russian adds -sya to gotovit when nobody is named as the cook: gotovitsya, 'is cooking'. After bolshe, 'more than', chas becomes chasa.
+- 'They threaten to leave without paying.' The guests grozyatsya uyti, 'threaten to leave'. After bez, 'without', oplata, 'payment', becomes oplaty.
+- 'Ask the guests to wait a little longer.' Her poprosite, 'ask', is polite, from poprosit. To ask for more time, Russian says yeshchyo nemnogo, 'a little more'.
+- 'New order: partridge and mushrooms.' As with the veal and cod on the first order, a called-out order needs only the dishes. Here kuropatka is partridge and griby are mushrooms.
+- 'We will make everything on time, chef!' Senya's sdelayem, 'we'll get it done', promises a finished job. And vovremya, 'on time', joins v and vremya.

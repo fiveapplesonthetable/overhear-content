@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, stop laughing so loudly in the kitchen!' 'Stop' is a short command, followed by the bare 'to laugh'. The expression for 'laugh' ends in 'sya', so it is 'laugh yourself'.
-- 'Kostya, you are very angry and funny today.' 'Angry' comes from 'heart'. 'Funny' comes from 'laughter'.
-- 'I am simply tired after a long hard shift.' The Russian for 'tired' is the man's form, with no ending. 'After' is followed by the 'of' form, so 'shift' changes its end.
-- 'You always get angry without any reason.' The word for 'get angry' ends in 'sya', which makes it 'anger yourself'. 'Without' goes into the 'of' form, so 'reason' ends in 'y'.
-- 'Will you go with me to the cinema tonight?' Russians ask 'will you go' to invite someone, just as English does with 'will you come'. 'With me' becomes 'so mnoy'.
-- 'Well, you are a real oddball, of course I will go!' 'Oddball' comes from 'miracle'. 'Of course I will go' is two words.
-- 'Then we meet at seven o'clock near the metro.' Russians use the present for a plan, so 'we meet' means 'let's meet'. 'Metro' never changes.
-- 'Who touched my favorite pot again?!' The Russian for 'touched' is the man's form. 'Pot' is a she-word, so 'my favorite' ends in 'yu' as the thing touched.
-- 'Who were you rooting for at the match today?!' 'Be ill' is also what Russian fans do, so a fan 'is ill' for a team. 'Who for' is two words.
-- 'The chef is shouting again about his favorite football.' 'About' is the casual 'pro'.
-- 'He always worries so loudly for Spartak.' 'Worry' is the word that also means 'live through'. 'For' is the word that marks the team.
-- 'Football is the most important thing in life!' 'The most important' is literally 'most' plus 'main'. 'In life' puts an 'i' on the end of the expression for 'life'.
-- 'Let's go quickly from here, while he is calm.' 'From here' is one word, the opposite of 'to here'. 'While' is the word that also means 'bye'.
-- 'Yes, let's go quickly to watch a fun movie!' 'We go' works as 'let's go'. 'Fun' comes from 'cheerful'.
+- 'Nastya, stop laughing so loudly in the kitchen!' After "prekrati", stop, comes plain "smeyatsya", to laugh. And it's "na kukhne", on the kitchen, as always.
+- 'Kostya, you are very angry and funny today.' Nastya's "serdityy", angry, comes from "serdtse", heart. And "smeshnoy", funny, is related to "smekh", laughter.
+- 'I am simply tired after a long hard shift.' Because "posle", after, wants the 'of' shape, "smena" becomes "dolgoy tyazhyoloy smeny". Kostya's "ustal" is literally 'I got tired'.
+- 'You always get angry without any reason.' Nastya's "serdishsya", you get angry, is a cousin of "serdityy". Then "bez vsyakoy prichiny" means 'for no reason at all'.
+- 'Will you go to the cinema with me tonight?' Russians ask someone out with "poydyosh", will you go. The word "kino" never changes its ending, and "vecherom", in the evening, works like "utrom".
+- 'Well you are a real oddball, of course I will go!' An oddball, "chudak", comes from "chudo", a wonder. Her answer "poydu", I'll go, is the 'I' form of his question.
+- 'Then we meet at seven o'clock near the metro.' For a fixed plan, Russian uses the present, "vstrechaemsya". And "okolo", near, would change most words, but "metro", like "kino", stays the same.
+- 'Who touched my favorite pot again?!' Barinov's "trogal" asks who has been touching, not who touched once. The pot, "kastryulya", becomes "kastryulyu" because it is what was touched.
+- 'Who were you rooting for today at the match?!' To root for is "bolet za", literally 'to be ill for': fans suffer for their team. So 'for whom' is "za kogo".
+- 'The chef is shouting again about his favorite football.' The word "opyat", again, often carries a note of 'not this again'. In "pro svoy lyubimyy futbol", "svoy" points back to the chef.
+- 'He always worries so loudly about Spartak.' Another fan's phrase is "perezhivat za", to worry for. Spartak is a famous Moscow football club.
+- 'Football is the most important thing in life!' Barinov's "samoe glavnoe" is 'the most important thing', with "samoe" making "glavnoe" even bigger. Once more, the dash with "eto" does the job of 'is'.
+- 'Let's go quickly from here while he is calm.' From here is "otsyuda", next to "zdes", here, and "syuda", to here. Here "poka" is 'while', the same word as 'bye'.
+- 'Yes, let's go quickly to watch a fun movie!' Nastya's "idyom" is another 'let's go', a little more urgent than "poydyom". And "vesyolyy", fun or cheerful, is the opposite of "grustnyy", sad.

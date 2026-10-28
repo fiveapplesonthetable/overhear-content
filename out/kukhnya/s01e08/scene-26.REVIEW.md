@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Chef.' This is the informal word for 'hello', as opposed to the formal one. Ainura can be informal because she has known him for years.
-- 'So here is where you are hiding!' The word order puts 'you' in front of 'where', which gives the line its 'gotcha' tone. 'Hide' ends in 'sya', meaning 'hide yourself'.
-- 'Ainura, is that you?' 'Is it you' is just two words with a rising voice. There is no word for 'is'.
-- 'Do not make noise so loudly, please.' The expression for 'don't make noise' is 'not' plus a command made from the Russian for 'noise'. 'Loudly' goes at the end.
-- 'I looked for you everywhere for a long time.' 'Looked' gets 'a' since Ainura is a woman.
-- 'Sit down next to me, want a drink with me?' The Russian word for 'sit down' ends in 'sya', so it is 'seat yourself'. 'Will you drink' uses the future to make an offer, much as English does with 'will you have'.
-- 'Oh, Chef, I am at work after all!' The small word 'zhe' means 'after all' and adds a protest. 'At work' uses 'na', the one Russians use for workplaces.
-- 'I still need to wash the floors.' 'To me it is needed' is Russian for 'I need to'. 'Still' adds 'there's more to do'.
-- 'Drop the work, rest a little.' 'Drop' is literally 'throw', as in 'throw down your work'. 'Rest' is a command.
-- 'You are sitting alone in the dark.' 'alone' is 'one', in the he-form. 'In the dark' puts an 'e' ending on 'darkness'.
-- 'It is quiet here and nobody disturbs me.' The Russian for 'quiet' stands alone with no subject, like 'it is quiet'. 'disturbs' ends in 'et', as it is about 'nobody'.
-- 'But you cannot stay here.' Russian says 'to you it is forbidden', which is the expression for 'you can't'. The Russian for 'stay' ends in 'sya'.
+- 'Hello, Chef.' Ainura says "zdravstvuy", hello to one person you say "ty" to; with strangers or a boss it gets the polite -te, "zdravstvuyte". She has known him long enough to skip it.
+- 'Here is where you are hiding!' Russians say "vot ty gde" for 'so there you are!' Then "pryacheshsya", you're hiding, carries -sya because you hide yourself.
+- 'Ainura, is that you?' Russian asks "eto ty", 'this is you?', with only the rising voice to make it a question. There is no separate word for 'is'.
+- 'Do not make noise so loudly, please.' The command "ne shumi", don't make noise, is built from "shum", noise. And "tak gromko", so loudly, is the hungover man's request everywhere.
+- 'I looked for you everywhere for a long time.' Ainura says "iskala", was looking, the open-ended form that suits a long search. The -a ending shows a woman is speaking.
+- 'Sit down next to me, want a drink with me?' Asking "vypyesh", you'll drink, about someone's future is a friendly way to invite them. With me is "so mnoy": "s" grows to "so" before the m-n cluster.
+- 'Oh, Chef, I am at work after all!' At work is "na rabote", with "na", on, the fixed choice for work. The "zhe" adds 'after all' or 'you know'.
+- 'I still need to wash the floors.' Here "eshchyo" means 'still', something left to do. One floor is "pol", and "poly" is floors.
+- 'Drop the work, rest a little.' The word "brosay", drop, belongs to "brosat", to throw: throw your work aside. And "otdokhni", rest, means 'take a short rest', a single break.
+- 'You are sitting alone in the dark.' The word "odin", one, also means 'alone', and Ainura uses it about him. In the dark is "v temnote", where "temnota" takes -e after "v".
+- 'It is quiet here and nobody bothers me.' Barinov's "meshaet", bothers, is from "meshat", which also means to stir: you are getting in someone's way. And "nikto ne", nobody, needs both negatives.
+- 'But you cannot stay here.' Literally 'to you it is not allowed', "tebe nelzya" means 'you mustn't'. The -sya in "ostavatsya", to stay, is because you keep yourself in place.

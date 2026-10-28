@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov is still in his office, and Lyova hasn't given up trying to cheer him. The chef has decided that nobody in the restaurant is loyal to him, and he says so at length. It's in Russian first."
-OPENER = "Let's replay the sulk. Lyova has an answer to every complaint, and Barinov rejects each one."
-TRANSITION = 'It should feel more familiar now.'
-OUTRO = "Lyova's last line, 'I will stay beside you anyway', is a quiet and loyal one. It's also a good chunk to know: 'anyway' and 'beside you'. See you next time."
+INTRO = "Chef Barinov has shut himself in his office at Claude Monet, and his sous-chef Lyova is still trying to talk him round. Barinov has decided that nobody in the restaurant is loyal to him, and he says so at length. Here it is in Russian first."
+OPENER = "Let's replay the sulk. Every complaint from Barinov gets a gentle answer from Lyova."
+TRANSITION = "Now the whole conversation once more."
+OUTRO = "Lyova's last line is a quiet, loyal one, and \"vsyo ravno\", anyway, is worth keeping: you'll hear it every day. See you next time."
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Все эти люди вокруг — неблагодарные подонки.', 'All these people around are ungrateful scumbags.', [(217, 'они все подонки')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Я всё равно останусь рядом с вами.', 'I will stay by your side anyway.', [(217, 'подонки')], ''),
 ]
 WALK = [
-    (0, None, "'All these people around are ungrateful scumbags.' 'Ungrateful' grows out of 'not' plus 'grateful'. The last word is rude slang, and Barinov says it with a flourish."),
-    (1, None, "'Chef, one should not think so badly about everyone.' 'one mustn't' covers a whole range of 'should not'. 'About everyone' turns the word for 'about' into a longer form."),
-    (2, None, "'I taught them to cook the city's best dishes.' The term for 'taught' is formed from a prefix and the Russian for 'to teach'. 'Of the city' ends in 'a', which is how Russian says 'of'."),
-    (3, None, "'Every cook remembers your great lesson.' 'remembers' is put together from the term for 'memory'. 'Your' is the courteous form, with an ending that matches 'lesson'."),
-    (4, None, "'Then why are they obeying someone else's orders now?' 'Listen' also means 'obey', which suits a chef. 'Someone else's' is one word, and it agrees with 'orders'."),
-    (5, None, "'They are simply afraid of losing their job.' After 'afraid', the next word is a bare 'lose'. 'Their own' is a word that points back at the cooks."),
-    (6, None, "'A true master is never afraid of difficulties.' 'is afraid' is followed by the 'of' form, so 'difficulties' changes its shape. 'Never' keeps its 'not'."),
-    (7, None, "'You are the main culinary master for us.' 'The very main' is made by stacking the expression for 'most' on the Russian for 'main'. 'For us' is two short words."),
-    (8, None, "'Let them handle the complex banquet themselves now.' 'Let them' is the word 'pust'. 'With a complex banquet' uses 'so' rather than 'with', which is easier to say."),
-    (9, None, "'Without your participation, chaos will break out in the kitchen.' 'Participation' rests on 'part'. 'Will set in' is a word that is used for a season or a mood arriving."),
-    (10, None, "'That is great, let them see my strength!' The first two words are a way to say 'that's just fine'. 'Let them see' is the same 'pust' again."),
-    (11, None, "'I will stay by your side anyway.' 'All the same' is the Russian for 'anyway'. 'Next to you' is a phrase with 'ryadom', and it's one of the warmest in the language."),
+    (0, None, "'All these people around are ungrateful scumbags.' The word \"neblagodarnye\" is \"ne\", not, plus \"blagodarnye\", grateful, the same root as \"blagodaryu\", I thank you. And \"podonki\" first meant the dregs at the bottom of a cup, which tells you how low he rates them."),
+    (1, None, "'Chef, one should not think so badly about everyone.' With \"nelzya\", 'it is not allowed', nobody is named, so it sounds like a general rule. The little word \"o\", about, grows to \"obo\" before \"vsekh\", everyone, just to be easier to say."),
+    (2, None, "'I taught them to cook the city's best dishes.' Barinov says \"nauchil\", and the \"na-\" in front means the teaching is done and dusted; the open-ended 'teach' is plain \"uchit\". Then \"goroda\", of the city, comes after the dishes: 'the best dishes of the city'."),
+    (3, None, "'Every cook remembers your great lesson.' Lyova uses \"vash\", the polite 'your', to his boss. In \"pomnit\", remembers, you can hear the root of \"pamyat\", memory."),
+    (4, None, "'Then why are they following someone else's orders now?' Literally 'listening to someone else's orders': \"slushat\" covers both listening and obeying. One word, \"chuzhie\", does the work of 'someone else's', and its opposite is \"svoi\", one's own."),
+    (5, None, "'They are simply afraid of losing their job.' After \"boyatsya\", be afraid, Russian just adds 'to lose', so there's no 'of' and no '-ing'. A job here is \"rabochee mesto\", literally 'a working place'."),
+    (6, None, "'A true master is never afraid of difficulties.' Whatever you fear gets an 'of' ending, so \"trudnosti\", difficulties, turns into \"trudnostey\". Notice \"nikogda ne\", literally 'never not': Russian needs both."),
+    (7, None, "'You are the main culinary master for us.' Lyova's \"samyy glavnyy\" means 'the very main', with \"samyy\" piled on for extra weight. And \"dlya nas\" is 'for us'; \"dlya\" is the plain 'for' you'll use everywhere."),
+    (8, None, "'Let them handle the complex banquet themselves now.' Put \"pust\", let, in front of a 'they' form and you get 'let them'. The banquet part, \"so slozhnym banketom\", is 'with the complex banquet': \"so\" is just \"s\", with, plus a vowel to ease the cluster of consonants, and after it \"banket\" takes the -om ending."),
+    (9, None, "'Without your participation, chaos will break out in the kitchen.' After \"bez\", without, the words change to their 'of' shape: \"vashego uchastiya\". Russians use \"nastupit\", will set in, for night, winter or silence arriving, and here for chaos."),
+    (10, None, "'That is great, let them see my strength!' Barinov's \"vot i otlichno\" is a dry 'well, that's just great'. Here \"uvidyat\" means 'they will see', and \"pust\" in front turns it into 'let them see'."),
+    (11, None, "'I will stay by your side anyway.' Literally, \"vsyo ravno\", anyway, is 'all equal'. And \"ryadom s vami\" is 'next to you', with the respectful \"vami\" that Lyova keeps for his chef."),
 ]

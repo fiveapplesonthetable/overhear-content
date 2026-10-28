@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You see, we are an ideal and harmonious couple.' 'You see' is a polite 'there you are'. 'Harmonious' stems from 'friend', so it means 'friendly together'.
-- 'We love animals very much and take care of them.' 'Take care' comes from 'worry' or 'care', and it ends in 'sya'. 'About them' is two short words.
-- 'In our good apartment it is always warm and peaceful.' The words for 'warm' and 'calm' stand on their own with no subject, the way English says 'it is warm'. 'In our apartment' takes an 'e' ending.
-- 'Hector will be able to walk in the beautiful park every day.' The Russian word for 'will be able' is one word that carries the future. 'Walk' is the casual one, for a stroll.
-- 'And sleep on the soft couch by the bed.' 'Bed' is a she-word.
-- 'The owner is very glad about our kind words.' The Russian for 'glad' takes the 'to' form of what you're glad of, so 'words' ends in 'am'. 'Kind' agrees with it.
-- 'She sees how much we suit each other.' 'Suit' is 'fit' or 'come up to'. 'Each other' is literally 'friend to friend'.
-- 'Careful, Max, this is just our clever game.' 'Careful' is a one-word warning. 'Clever' here is closer to 'sly'.
-- 'The main thing is that the dog finally found its home.' 'The main thing' is a handy phrase to begin a point. 'Found' ends in 'a', since 'dog' is one of the she-words.
-- 'I am sincerely happy to take this good dog.' The term for 'happy' carries 'a' since Vika is a woman. The Russian for 'dog' here is the he-form, 'pyos', since the dog is a boy.
-- 'Let's go quickly, Hector is waiting for us by the door.' The word for 'waits' takes 'us' directly, with no word for 'for'. 'By the door' uses the short 'u' word for 'at'.
-- 'Now our life will become much better together.' 'Will become' is a one-word future. 'Much better' is two words.
+- 'You see, we are an ideal and harmonious couple.' Max says "vot vidite" with the polite "vidite", because he is talking to the owner. And "druzhnaya", harmonious, comes from "drug", friend: a couple that gets on.
+- 'We love animals very much and take care of them.' After "lyubim", we love, "zhivotnye" becomes "zhivotnykh": loved living things take that ending. And 'them' after "o", about, is "o nikh".
+- 'In our good apartment it is always warm and peaceful.' After "v", in, the flat takes the -e ending: "v nashey khoroshey kvartire". Then "teplo i spokoyno" needs no 'it is': Russian states the feeling of a place on its own.
+- 'Hector will be able to walk in the beautiful park every day.' Vika's "smozhet", will be able, is the future of 'can'. In the park is "v krasivom parke", with -om and -e after "v".
+- 'And sleep on the soft couch by the bed.' On the couch is "na myagkom divane", a place, so "divan" takes -e. And "vozle", by or next to, turns "krovat", bed, into "krovati".
+- 'The owner is very glad about our kind words.' You are glad 'to' something in Russian, so with "rada" the words become "nashim dobrym slovam". The -a on "rada" is there because the owner is a woman.
+- 'She sees how much we suit each other.' To suit or fit is "podkhodit", from "pod", up to, and "khodit", to go. And "drug drugu", each other, is literally 'friend to friend'.
+- 'Careful, Max, this is just our clever game.' You'll see "ostorozhno", careful, on Russian warning signs. Vika's "khitraya" is closer to 'sly' or 'cunning': the fox in Russian fairy tales is "khitraya".
+- 'The main thing is that the dog finally found its home.' Lots of Russian sentences open with "glavnoe, chto", 'the main thing is that'. And "svoy dom", its home, uses "svoy" because the home belongs to the dog.
+- 'I am sincerely happy to take this good dog.' Vika's "schastliva" has the -a of a woman speaking; Max would say "schastliv". The dog, "pyos", loses its o when it changes: "etogo dobrogo psa".
+- 'Let's go quickly, Hector is waiting for us by the door.' Here "poydyom" is 'let's go', and "skoree", quicker, hurries it along. By the door is "u dveri", where "u", at, gives "dver" an -i.
+- 'Now our life will become much better together.' Vika's "stanet", will become, speaks about what comes next. For 'much better' Russian says "namnogo luchshe", literally 'by a lot better'.

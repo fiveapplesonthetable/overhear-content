@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Федя | О нет, перепела на плите сгорели! | Oh no, the quails on the stove burnt! | #273 00:16:08: Перепила скорее | verbatim |
 | 11 | Вика | Какой кошмар, на кухне полный дым! | What a nightmare, complete smoke in the kitchen! | new | new |
 | 12 | Федя | Срочно снимай сковороду с горячего огня! | Urgently take the pan off the hot fire! | new | new |
-| 13 | Вика | Новая смена началась с чистой катастрофы. | The new shift began with pure disaster. | new | new |
+| 13 | Вика | Новая смена началась с настоящей катастрофы. | The new shift began with a real disaster. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, when will the sea bream finally be ready?' 'finally' sounds impatient. 'Sea bream' is borrowed from Italian, and it's a fish you'll see on many menus.
-- 'The receipt was punched only now, I am rushing!' 'Punched' means 'rung through the till', and no one is named. 'I rush' is the usual phrase for saying 'I'm in a hurry'.
-- 'Guests at the table ate all the bread!' 'Ate up' has a prefix that means 'to the end'. 'At the table' uses 'za', which Russians use for sitting at a table.
-- 'And what can I do right now?' The expression for 'I can' is irregular, meaning worth learning as a lump. The Russian word for 'do' has a prefix that makes it a single act.
-- 'Waiters have been waiting for hot fish for forty minutes!' 'Forty' is a special word, unlike the other tens. 'Minutes' appears in the 'of' form after it.
-- 'We have a regular fishermen's convention today!' 'Fishermen' springs from 'fish'. 'Convention' is a word for a gathering, so Fedya jokes that the orders are all fish.
-- 'Fedya, calm down and hand over the urgent orders!' The Russian for 'calm down' ends in 'sya', so it is 'calm yourself'. 'hand over' is a short command.
-- 'I am doing everything possible, do not yell.' 'Everything possible' is two words. 'Don't yell' is 'not' plus a command.
-- 'Wait, what is this terrible stench?' 'What kind of' is the chunk 'chto za'. 'Terrible' comes from 'fear'.
-- 'Oh no, the quails on the stove burnt!' 'Burnt up' has a prefix that means 'completely'. 'On the stove' uses an 'e'.
-- 'What a nightmare, the kitchen is full of smoke!' The words for 'what a nightmare' are a very useful reaction to any disaster. The expression for 'full' agrees with 'smoke'.
-- 'Urgently take the pan off the hot fire!' The term for 'take off' begins with 's', meaning 'off'. 'Off the hot fire' uses the word 'with' in the sense of 'from'.
-- 'The new shift began with pure disaster.' The term for 'began' carries 'as' since 'shift' is a she-word. 'Pure' is literally 'clean', which makes it a 'clean' disaster.
+- 'Fedya, when will the sea bream finally be ready?' On the menu, sea bream is "dorada", a 'she' word, so 'ready' is "gotova". For 'will be' Russian puts "budet" in front: "budet gotova".
+- 'The receipt was punched only now, I am rushing!' Nobody is named in "chek probili", 'they punched the ticket': the usual Russian way to skip who did it. And "speshu", I'm rushing, is from "speshit", to hurry.
+- 'Guests at the table ate all the bread!' At the table is "za stolikom", with "za" and the ending -om; "stolik" is just a little "stol", table. Vika says "syeli", ate up, so the bread is gone.
+- 'And what can I do right now?' The word "mogu", I can, comes from "moch", and it changes a lot: "mogu", "mozhesh", "mozhet". The "a" at the start is a light 'and' or 'well'.
+- 'Waiters have been waiting for hot fish for forty minutes!' Where English says 'have been waiting', Russian keeps the present, "zhdut", because the waiting is still going on. And "sorok minut" has no 'for': the length of time just follows.
+- 'We have a regular fishermen convention today!' A "syezd" is a congress, from 'driving together', from "s", together, and "ezdit", to travel. Here "pryamo", straight, works like 'a real' or 'downright'.
+- 'Fedya, calm down and hand over urgent orders!' In "uspokoysya", calm down, the -sya means you calm yourself. And "otdavay", the open-ended 'hand over', tells Fedya to keep sending orders, not just one.
+- 'I am doing everything possible, do not yell.' Literally 'all the possible', "vsyo vozmozhnoe" is the Russian 'everything I can'. Fedya says "ne krichi" to one person he knows; the polite version would be "ne krichite".
+- 'Wait, what is this terrible stench?' Vika asks "chto eto za", the Russian way to say 'what sort of thing is this'. A bad smell is "von", a strong word, much ruder than "zapakh", smell.
+- 'Oh no, the quails on the stove burnt!' One quail is "perepel", and the -a in "perepela" makes it several. Fedya says "sgoreli", burnt up, rather than plain "goret", to burn: they're done for.
+- 'What a nightmare, complete smoke in the kitchen!' The exclamation "kakoy koshmar" is one you'll hear constantly. And "polnyy dym" is literally 'full smoke': the kitchen is full of it.
+- 'Urgently take the pan off the hot fire!' Here "snimay", take off, is from "snimat", for lifting something down or off. When "s" means 'off', the fire after it gets an 'of' ending: "s goryachego ognya".
+- 'The new shift began with a real disaster.' To begin with something is "nachatsya s", and that "s" gives "katastrofa" the ending -y, "katastrofy". Russians say "nastoyashchey", real, about anything genuine, from a real friend to a real disaster.

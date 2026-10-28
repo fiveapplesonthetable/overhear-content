@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov has insulted Elena once too often. She turns it into a challenge: she will work a full shift in his kitchen, and if she lasts, he'll pay for dinner. It's in Russian first."
-OPENER = "Let's go back through the challenge. Elena sounds calm, and Barinov sounds sure of himself."
-TRANSITION = 'Listen again, and notice what you recognise.'
-OUTRO = "A bet in Russian is a short thing: 'let's bet', 'agreed', and a witness. You've heard all three. See you next time."
+INTRO = "Still in the studio and still live on camera, Elena Sokolova has heard enough from Barinov. She turns his insults into a bet: she will work a full shift in his kitchen at Claude Monet, and if she lasts, he pays for dinner. It's in Russian first."
+OPENER = "Let's go back through the challenge. Elena sounds calm, and Barinov sounds very sure of himself."
+TRANSITION = 'Now the whole bet again, start to finish.'
+OUTRO = "A bet in Russian needs only a few words: davayte posporim, 'let's bet', dogovorilis, 'agreed', and a few svideteli, 'witnesses'. You've now heard all of them. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Виктор, вы ведёте себя очень грубо!', 'Viktor, you are behaving very rudely!', [(32, 'Вы какой-то женоненавистник')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Все зрители будут свидетелями нашего спора.', 'All viewers will be witnesses of our bet.', [(40, 'Дорогие друзья, какой неожиданный поворот событий')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor, you are behaving very rudely!' 'Behave' is literally 'lead yourself', so 'you lead yourself rudely'. 'Rudely' is made from 'rough'."),
-    (1, None, "'I treat all women wonderfully.' 'Treat' comes from 'relate', and it's followed by 'to'. 'To all women' has the 'm' endings."),
-    (2, None, "'Then why do you insult me like that?' 'Insult' comes from 'an offence'. 'Like that' is two small words."),
-    (3, None, "'You will not be able to work a whole day.' 'Will not be able' is made of 'not' and one word. 'A whole day' needs no word for 'for'."),
-    (4, None, "'Then let us bet right now!' 'Let us' is a polite plural, and it begins the invitation. 'Bet' starts with a prefix that makes it a one-off."),
-    (5, None, "'What do you want to bet about with me?' 'About what' is a pair of words that changes 'what' to 'chyom'. 'With me' becomes 'so mnoy'."),
-    (6, None, "'I will work a full shift in the kitchen.' 'Work off' means to work through a period fully. 'Shift' is one of the she-words, so 'full' ends in 'uyu'."),
-    (7, None, "'My cooks will quickly break your pride.' 'Break' is the 'they' form. 'Pride' comes from 'proud'."),
-    (8, None, "'If I cope, you will pay for dinner!' 'Cope' is the word from before, in the 'I' form."),
-    (9, None, "'And if you run away after an hour?' 'Run away' is a one-off. 'After an hour' uses the word 'through', which here means 'after'."),
-    (10, None, "'Then you will win our main bet.' 'Win' is a one-word future. 'Bet' is again 'dispute'."),
-    (11, None, "'Agreed, tomorrow I expect you in the kitchen!' 'Agreed' ends in 'lis', as people agree with each other."),
-    (12, None, "'All the viewers will be witnesses of our bet.' 'Will be' goes into the 'with' form, so 'witnesses' ends in 'ami'. 'Witness' is rooted in 'see'."),
+    (0, None, "'Viktor, you are behaving very rudely!' To behave is vesti sebya, literally 'to lead oneself'; Elena says vy vedyote sebya. The word grubo, 'rudely', comes from grubyy, 'rough, rude'."),
+    (1, None, "'I treat all women wonderfully.' Here otnoshus, 'I treat, I relate', takes k, 'towards', and the people get -am: ko vsem zhenshchinam. Before a cluster like vs, k becomes ko."),
+    (2, None, "'Then why do you insult me like that?' With vy, obizhat, 'to hurt someone's feelings', becomes obizhayete; the related obida means 'offence'. Here tak means 'like that'."),
+    (3, None, "'You will not be able to work a whole day.' The form smozhete, 'you will be able', is the future of moch, 'can'. A length of time needs no 'for': tselyy den, 'a whole day', goes straight after rabotat."),
+    (4, None, "'Then let us bet right now!' The polite 'let's' is davayte plus a 'we' form: davayte posporim. Besides 'to argue', sporit also means 'to bet', and po- makes it one bet."),
+    (5, None, "'What do you want to bet about with me?' In o chyom, 'about what', chto changes to chyom after o. With me is so mnoy, where s gains a vowel before mnoy."),
+    (6, None, "'I will work a full shift in the kitchen.' The prefix ot- in otrabotayu, 'I will work', means working a set stretch right to the end. Because smena, 'shift', is feminine, both words end in -u as the object: polnuyu smenu."),
+    (7, None, "'My cooks will quickly break your pride.' With slomayut, 'they will break', Barinov predicts one decisive result. The word gordost, 'pride', comes from gordyy, 'proud'."),
+    (8, None, "'If I cope, you will pay for dinner!' Here spravlyus, 'I cope', looks ahead to a single success, if she pulls it off. The phrase oplatite uzhin takes the dinner directly, as 'pay the dinner'."),
+    (9, None, "'And if you run away after an hour?' In sbezhite, 'you run away', s- is added to bezhat, 'to run'. Russian says 'an hour from now' as cherez chas, literally 'through an hour'."),
+    (10, None, "'Then you will win our main bet.' The form vyigrayete, 'you will win', is vy-, 'out', plus igrat, 'to play'. The word spor comes from sporit: 'argument', and here 'bet'."),
+    (11, None, "'Agreed, tomorrow I expect you in the kitchen!' One word seals any deal: dogovorilis, 'agreed', from dogovoritsya, 'to come to an agreement'. Saying zhdu vas, 'I'm waiting for you', is also how you say 'I expect you'."),
+    (12, None, "'All viewers will be witnesses of our bet.' After budut, 'will be', svideteli takes the ending -yami: svidetelyami. The phrase nashego spora means 'of our bet'."),
 ]

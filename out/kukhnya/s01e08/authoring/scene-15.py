@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Nagiyev has rung the restaurant to ask about his dog. Sasha, who picks up, has to pretend that the dog is well, though it is lying in a storeroom. It's in Russian first."
-OPENER = "Let's go back through the call. Sasha is polite on the phone and horrified when it ends."
-TRANSITION = 'Now the whole thing flows.'
-OUTRO = "Look at how many polite phrases Sasha uses on a call: hello, thank you, goodbye. They're perfect for your own phone calls. See you next time."
+INTRO = "At Claude Monet, Nagiyev phones while he is away to ask after his dog, Tyson. Sasha, one of the cooks, takes the call and has to pretend all is well, though Tyson is lying lifeless in the storeroom. Max is listening. It's in Russian first."
+OPENER = "Slowly now. Sasha sounds cheerful on the phone, and Max can't believe his ears."
+TRANSITION = "Here's the call again, without stopping."
+OUTRO = "Sasha's call is a model of phone manners: zdravstvuyte, podskazhite pozhaluysta, spasibo vam bolshoye, do svidaniya. And kak nazyvayetsya, 'what is it called', is a question you'll use every day. See you next time."
 CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('sasha', 'Да, здравствуйте, Дмитрий Владимирович!', 'Yes, hello, Dmitry Vladimirovich!', [(185, 'Да, Дмитрий Владимирович')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Но где мы найдём такую собаку?', 'But where will we find such a dog?', [(202, 'Куда?')], ''),
 ]
 WALK = [
-    (0, None, "'Yes, hello, Dmitry Vladimirovich!' 'Yes' is how Russians answer a call. The first and father's name are the polite way to address a boss."),
-    (1, None, "'Tyson feels great.' 'Feels himself' is the Russian for 'feels'; it uses 'oneself'. 'Great' comes from 'wonderful'."),
-    (2, None, "'He runs around and plays very merrily.' 'Runs around' is Russian for running in different directions. 'Merrily' comes from 'cheerful'."),
-    (3, None, "'Why are you lying so boldly?' 'Lie' here is a casual word for 'fib'. 'Boldly' is the how-word for 'brazen'."),
-    (4, None, "'Could you tell me, please, what breed he is?' 'Tell me' is a polite way to ask for information. 'At him' stands for 'he has'."),
-    (5, None, "'I simply fell in love with this dog.' 'Fell in love' ends in 'las' for a woman. It takes 'in' plus the dog."),
-    (6, None, "'What is this breed called, Shih Tzu?' 'Is called' ends in 'sya'. It's a very useful question: 'what is it called?'"),
-    (7, None, "'You do not need to rush back at all.' 'At all not' makes a strong negative. 'Rush' is a bare word."),
-    (8, None, "'He and I get along wonderfully.' 'We with him' is the Russian for 'he and I'. 'Get along' means 'be on good terms'."),
-    (9, None, "'Thank you very much, goodbye!' The polite 'to you' follows 'thanks'. 'Goodbye' is literally 'until meeting'."),
-    (10, None, "'And what are we to do now?' 'To us to do' has no 'should'. 'Now' is 'at this point'."),
-    (11, None, "'We need to go buy a dog urgently!' 'Go' and 'buy' are two bare words side by side. 'Urgently' comes from 'urgent'."),
-    (12, None, "'But where will we find such a dog?' 'Will find' is a one-word future. 'Such' agrees with 'dog' in its object form."),
+    (0, None, "'Yes, hello, Dmitry Vladimirovich!' Russians often pick up the phone with a plain da, 'yes'. Sasha addresses the owner by first name and patronymic, as the staff always do."),
+    (1, None, "'Tyson feels great.' Russian says how someone feels with chuvstvuyet sebya, literally 'feels himself'. The word prekrasno, 'wonderfully', comes from prekrasnyy, 'beautiful'."),
+    (2, None, "'He runs around and plays very merrily.' For running about in all directions, Russian uses begat, here begayet; bezhat is running one way. And veselo, 'merrily', is from vesyolyy, 'cheerful'."),
+    (3, None, "'Why are you lying so boldly?' Max uses vryosh, from vrat, a blunt everyday word for lying. And naglo, 'brazenly', comes from naglyy, 'impudent'."),
+    (4, None, "'Could you tell me, please, what breed he is?' To ask for a piece of information, podskazhite is softer than skazhite. In kakaya u nego poroda, literally 'what breed by him', u nego works like 'he has'."),
+    (5, None, "'I simply fell in love with this dog.' The -las in vlyubilas shows Sasha is a woman. You fall in love v, 'into', someone: v etu sobaku."),
+    (6, None, "'What is this breed called, Shih Tzu?' For the names of things you ask kak nazyvayetsya; for people it's kak zovut. Adding a guess at the end, shi-tsu, turns it into a check."),
+    (7, None, "'You do not need to rush back at all.' Politely, mozhete ne speshit, 'you can not hurry', tells someone there's no need. Adding sovsem, 'at all', makes it stronger."),
+    (8, None, "'He and I get along wonderfully.' Russian says 'he and I' as my s nim, literally 'we with him'. The colloquial ladit means 'to get along'."),
+    (9, None, "'Thank you very much, goodbye!' With vam, 'to you', spasibo bolshoye becomes extra polite. And do svidaniya is literally 'until the meeting'."),
+    (10, None, "'And what are we to do now?' Max's chto nam delat, literally 'what to us to do', leaves 'should' unsaid. It's the classic question in a crisis."),
+    (11, None, "'We need to go buy a dog urgently!' In nuzhno yekhat pokupat, 'need to go to buy', three words follow one another with nothing linking them. Since yekhat means going by transport, they'll be driving."),
+    (12, None, "'But where will we find such a dog?' Max's naydyom, 'we'll find', is about one result ahead. As the object, takaya sobaka becomes takuyu sobaku."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, put her here.' The first 'here' works like 'there you go'. 'Put' is a command, and 'her' is the she-form for the dog.
-- 'Let her lie here until evening.' The term for 'let' ('pust') is how Russians say 'let him' or 'let her'. The term for 'lie' has a prefix that makes it temporary, so it means 'lie for a while'.
-- 'We will carry her out at night.' The term for 'carry out' begins with 'vy', which means 'out'. 'At night' is a single word that ends in 'yu'.
-- 'Take the fresh cilantro.' 'Take' is a short command. Cilantro is also called coriander, and the Russian word is 'kinza'.
-- 'It will easily cover any odor.' 'Cover' is pieced together from a prefix meaning 'over' and 'beat', so it is literally 'beat over'.
-- 'Help me lift this sack.' The expression for 'help' takes 'me' in the 'to' form, because Russians help 'to someone'. 'Lift' is a bare word, with no 'to' in front.
-- 'Put the dog deeper behind the potatoes.' 'Deeper' comes from 'deep'. 'Behind the potatoes' is a movement phrase, so it keeps the plain form.
-- 'And what are you doing here?' Literally Vika asks 'with what are you busy here', and the Russian for 'busy' is the one Russians use for any activity. She says it to catch them out.
-- 'I am just looking for clean tablecloths.' 'Tablecloth' has a plural that ends in 'i'. 'Clean' agrees with it.
-- 'Tablecloths in the vegetable storeroom?' Vika repeats the odd part of the sentence, and the voice makes it a question. 'Vegetable' is based on 'vegetables'.
-- 'Max, why aren't you in the kitchen?' The Russian word for 'not' goes before 'in the kitchen', so the whole place is denied. This is a common way to ask someone why they're missing.
-- 'I have a legitimate day off today.' 'Legitimate' comes from 'law'.
-- 'Leave quickly, this is no motel for you.' 'Leave' is a plural command. The phrase 'this isn't a ... for you' is a scolding idiom.
+- 'Here, put her here.' You say vot when handing over or showing something. Max's polozhi is the friendly 'put', and yeyo, 'her', is feminine to match sobaka.
+- 'Let her lie here until evening.' To let someone else do something, Russian uses pust: pust ona polezhit. With po-, polezhat means lying for a while, and after do, 'until', vecher becomes vechera.
+- 'We will carry her out at night.' The vy- in vynesem, 'we'll carry out', is the same 'out' as in vykhod, 'exit'. Russian says 'at night' with one word, nochyu.
+- 'Take the fresh cilantro.' Sasha's vozmi is the friendly command from vzyat, 'to take'. As the thing taken, kinza, 'cilantro', becomes kinzu.
+- 'It will easily cover any odor.' Built from pere-, 'over', and bit, 'to beat', perebit is what a strong smell does to a weaker one. Here ona, 'it', is the cilantro, since kinza is feminine.
+- 'Help me lift this sack.' In Russian you give help to someone, so 'me' is mne. Then comes podnyat, 'to lift', in its basic form.
+- 'Put the dog deeper behind the potatoes.' Because the dog is being moved there, it's za kartoshku; once she's there, she lies za kartoshkoy. The singular kartoshka means potatoes in general.
+- 'And what are you doing here?' Vika's chem vy tut zanimayetes, 'what are you busy with here', is a classic boss's question. Her vy is plural, for both of them.
+- 'I am just looking for clean tablecloths.' The object of ishchu, 'I'm looking for', follows with no 'for' at all. The plural skaterti comes from skatert, 'tablecloth'.
+- 'Tablecloths in the vegetable storeroom?' By repeating Sasha's words with a rising voice, Vika turns them into a question; Russian needs nothing else. The word ovoshchnoy, 'vegetable', comes from ovoshchi, 'vegetables'.
+- 'Max, why aren't you in the kitchen?' Putting ne straight before the place gives ne na kukhne, 'not in the kitchen'. As always, Vika says ty to Max.
+- 'I have a legitimate day off today.' Max's u menya vykhodnoy, literally 'by me a day off', is how you say you're off work. With zakonnyy, 'legitimate', he insists he has every right to it.
+- 'Leave quickly, this is no motel for you.' Since ukhodite is plural, she is sending both of them out. A common scolding goes eto vam ne..., 'this is not a ... for you', as in eto vam ne shkola.

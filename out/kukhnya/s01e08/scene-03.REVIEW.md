@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will never take a woman into the kitchen.' 'Never' needs 'not' too. 'Will take' is the one-word future, and 'woman' has the movement ending.
-- 'What foolish thoughts, Viktor?' 'What kind of' is the chunk 'chto za'. 'Thoughts' is a plural.
-- 'Women talk too much at work.' 'Too much' is two words in Russian. 'At work' uses 'na', which Russians use for workplaces.
-- 'In my kitchen there is always perfect order.' 'On my kitchen' is the Russian choice for 'in my kitchen', because Russians say 'on' for workplaces. 'Perfect' springs from 'ideal'.
-- 'In a restaurant kitchen strict control is needed.' 'Needed' ends in a consonant to agree with 'control'. 'Strict' goes in front, as it does with most describing words.
-- 'My cooks work calmly and neatly.' 'Cooks' ends in 'a'. 'Calmly' and 'neatly' both end in 'o'.
-- 'You will not cope with our hard work.' 'Cope' ends in 'sya' and is followed by 'with'. 'Hard' also means 'heavy', as in 'a heavy job'.
-- 'I cope with any difficult task.' The same word for 'cope', now in the 'I' form. 'Any' and 'difficult' agree with 'task'.
-- 'At Claude Monet restaurant it is very hard.' 'Hard' has no subject, so it's like 'it is heavy'. The word is also used for weather and mood.
-- 'I am not afraid of hard work, chef!' After 'not afraid', the thing feared appears in the 'of' form. So 'work' changes shape.
-- 'You do not understand our male rules.' With 'not understand', the thing you don't understand takes the 'of' form. 'Male' comes from 'man'.
-- 'The rules in the kitchen are the same for everyone.' 'The same' is one word that means 'identical'. 'For everyone' is two short words.
-- 'Then prove it in deed, Elena!' 'In deed' means 'in practice'. It's a favourite phrase of Russian bosses.
+- 'I will never take a woman into the kitchen.' Like other forms of vzyat, vozmu, 'I will take', already points to the future. Movement into the kitchen is na kukhnyu, ending in -yu; being in it is na kukhne.
+- 'What foolish thoughts, Viktor?' The everyday chto za means 'what kind of', and often carries disapproval. The plural mysli comes from mysl, 'thought'.
+- 'Women talk too much at work.' Here slishkom mnogo, 'too much', is literally 'too many'. Russians say na rabote, 'on work', for being at work.
+- 'In my kitchen there is always perfect order.' After na, moya changes to moyey to match kukhne. The word idealnyy, 'perfect', is simply 'ideal' with a Russian ending.
+- 'In a restaurant kitchen strict control is needed.' Here nuzhen, 'needed', matches kontrol, which is masculine; with a feminine word it would be nuzhna. The phrase na kukhne restorana is literally 'in the kitchen of the restaurant'.
+- 'My cooks work calmly and neatly.' The plural povara, 'cooks', is irregular, with a stressed -a where most words take -y. Swapping the ending for -o turns spokoynyy, 'calm', into spokoyno, 'calmly', and akkuratnyy into akkuratno.
+- 'You will not cope with our hard work.' The form spravites is the polite 'you will cope', and it always takes s, 'with', and -oy endings: s nashey tyazholoy rabotoy. Literally, tyazholyy means 'heavy'.
+- 'I cope with any difficult task.' Elena's spravlyayus describes what she does as a rule, rather than one future success. After s again, zadacha, 'task', becomes zadachey.
+- 'At Claude Monet restaurant it is very hard.' With no subject at all, ochen tyazhelo means 'it is very hard'. Inside a place, restoran gets -e: v restorane.
+- 'I am not afraid of hard work, chef!' Fear in Russian takes the 'of' form, so rabota becomes raboty: ne boyus tyazholoy raboty. She repeats his own word for 'hard', tyazholyy, and shrugs it off.
+- 'You do not understand our male rules.' After ne, the object can slip into the 'of' form: nashikh muzhskikh pravil rather than nashi muzhskiye pravila. The word muzhskoy, 'male', is related to muzh, 'husband'.
+- 'The rules in the kitchen are the same for everyone.' The short plural odinakovy, 'the same', matches pravila, 'rules'. In dlya vsekh, 'for everyone', vse changes to vsekh after dlya.
+- 'Then prove it in deed, Elena!' With vy, dokazat, 'to prove', becomes the command dokazhite. The set phrase na dele, literally 'in the deed', means 'in practice', as opposed to talk.

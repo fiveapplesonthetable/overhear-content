@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, hello, Dmitry Vladimirovich!' 'Yes' is how Russians answer a call. The first and father's name are the polite way to address a boss.
-- 'Tyson feels great.' 'Feels himself' is the Russian for 'feels'; it uses 'oneself'. 'Great' comes from 'wonderful'.
-- 'He runs around and plays very merrily.' 'Runs around' is Russian for running in different directions. 'Merrily' comes from 'cheerful'.
-- 'Why are you lying so boldly?' 'Lie' here is a casual word for 'fib'. 'Boldly' is the how-word for 'brazen'.
-- 'Could you tell me, please, what breed he is?' 'Tell me' is a polite way to ask for information. 'At him' stands for 'he has'.
-- 'I simply fell in love with this dog.' 'Fell in love' ends in 'las' for a woman. It takes 'in' plus the dog.
-- 'What is this breed called, Shih Tzu?' 'Is called' ends in 'sya'. It's a very useful question: 'what is it called?'
-- 'You do not need to rush back at all.' 'At all not' makes a strong negative. 'Rush' is a bare word.
-- 'He and I get along wonderfully.' 'We with him' is the Russian for 'he and I'. 'Get along' means 'be on good terms'.
-- 'Thank you very much, goodbye!' The polite 'to you' follows 'thanks'. 'Goodbye' is literally 'until meeting'.
-- 'And what are we to do now?' 'To us to do' has no 'should'. 'Now' is 'at this point'.
-- 'We need to go buy a dog urgently!' 'Go' and 'buy' are two bare words side by side. 'Urgently' comes from 'urgent'.
-- 'But where will we find such a dog?' 'Will find' is a one-word future. 'Such' agrees with 'dog' in its object form.
+- 'Yes, hello, Dmitry Vladimirovich!' Russians often pick up the phone with a plain da, 'yes'. Sasha addresses the owner by first name and patronymic, as the staff always do.
+- 'Tyson feels great.' Russian says how someone feels with chuvstvuyet sebya, literally 'feels himself'. The word prekrasno, 'wonderfully', comes from prekrasnyy, 'beautiful'.
+- 'He runs around and plays very merrily.' For running about in all directions, Russian uses begat, here begayet; bezhat is running one way. And veselo, 'merrily', is from vesyolyy, 'cheerful'.
+- 'Why are you lying so boldly?' Max uses vryosh, from vrat, a blunt everyday word for lying. And naglo, 'brazenly', comes from naglyy, 'impudent'.
+- 'Could you tell me, please, what breed he is?' To ask for a piece of information, podskazhite is softer than skazhite. In kakaya u nego poroda, literally 'what breed by him', u nego works like 'he has'.
+- 'I simply fell in love with this dog.' The -las in vlyubilas shows Sasha is a woman. You fall in love v, 'into', someone: v etu sobaku.
+- 'What is this breed called, Shih Tzu?' For the names of things you ask kak nazyvayetsya; for people it's kak zovut. Adding a guess at the end, shi-tsu, turns it into a check.
+- 'You do not need to rush back at all.' Politely, mozhete ne speshit, 'you can not hurry', tells someone there's no need. Adding sovsem, 'at all', makes it stronger.
+- 'He and I get along wonderfully.' Russian says 'he and I' as my s nim, literally 'we with him'. The colloquial ladit means 'to get along'.
+- 'Thank you very much, goodbye!' With vam, 'to you', spasibo bolshoye becomes extra polite. And do svidaniya is literally 'until the meeting'.
+- 'And what are we to do now?' Max's chto nam delat, literally 'what to us to do', leaves 'should' unsaid. It's the classic question in a crisis.
+- 'We need to go buy a dog urgently!' In nuzhno yekhat pokupat, 'need to go to buy', three words follow one another with nothing linking them. Since yekhat means going by transport, they'll be driving.
+- 'But where will we find such a dog?' Max's naydyom, 'we'll find', is about one result ahead. As the object, takaya sobaka becomes takuyu sobaku.

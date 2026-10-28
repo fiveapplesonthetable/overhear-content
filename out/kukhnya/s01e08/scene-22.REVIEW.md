@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is this damn arugula lying?' 'Damn' starts from 'devil'. 'Lies' is the Russian for 'is located' when an object is put down.
-- 'Lyova, the guests in the dining room are waiting for salad!' The expression for 'in the dining room' takes an 'e' ending. 'Wait for' takes the salad directly, without a word for 'for'.
-- 'She found herself an errand boy!' 'Errand boy' is a fixed phrase that is literally 'boy on running-about'. 'for herself' adds a note of contempt.
-- 'Do not worry, the chef is just very nervous.' 'Nervous' comes from 'nerves'. 'Don't worry' is 'not' plus a command.
-- 'First look for greens, then wash dishes!' 'Wash' is spelled exactly like 'my', so 'my dishes' and 'wash the dishes' look the same. 'First' and 'then' keep the order.
-- 'You are an experienced sous-chef, do not be so offended.' 'Don't take offence' ends in 'sya'. 'Experienced' is derived from 'experience'.
-- 'I am a respected cook, not a loader!' 'Respected' is the formal word from speeches. 'Loader' is pieced together from 'cargo'.
-- 'Help me find this box quickly.' The Russian word for 'help' takes 'me' in the 'to' form, since you help 'to' someone. 'Find' follows directly, with no 'to' in front.
-- 'Here it is, hidden behind old crates.' The Russian for 'hid' gets 'as' since 'box' is grammatically a she-word, and it carries the 'sya' tail, so the box 'hid itself'. 'Behind the crates' uses the 'with' form, since the box is not moving.
-- 'Great, take it and let us run to the kitchen!' The term for 'take' is a short command. The term for 'let's run' ends in 'im', the ending for 'we'.
-- 'I cannot stand such strange rules.' The first words are a fixed phrase for 'I can't stand'. 'Rules' here is the plural of 'order'.
-- 'The main thing is that the guests get their dishes.' This pattern uses the past form after the little word 'chtoby', even though it talks about the future. It is the Russian way of saying what you really want to happen.
-- 'Alright, let us go save our beloved restaurant.' 'Let's go' is the respectful plural. 'Beloved' comes from 'to love'.
+- 'Where is this damn arugula lying?' Russians say things lie, stand or hang where they are, so "lezhit", lies, is the natural word for a box on a shelf. And "chyortova", damn, comes from "chyort", the devil.
+- 'Lyova, guests in the dining room await salad!' The "zal" is the dining room, the hall where guests sit. With "zhdut", are waiting, the salad follows straight on, with no 'for'.
+- 'She found herself an errand boy!' The phrase "malchik na pobegushkakh" is literally 'a boy on the run-arounds', from "begat", to run. And "nashla sebe" means 'found for herself'.
+- 'Do not worry, the chef is just very nervous.' Nastya says "ne perezhivay", the friendly 'don't worry' for one person. In Russian being nervous is something you do: "nervnichaet", 'he is nervousing'.
+- 'First look for greens, then wash dishes!' That "moy" here is not 'my' but the command 'wash', from "myt", to wash. The word "posuda" means all the dishes together, so it never needs a plural.
+- 'You are an experienced sous-chef, do not be so offended.' Experienced, "opytnyy", comes from "opyt", experience. In "ne obizhaysya" the -sya on the end turns 'offend' into 'take offence'.
+- 'I am a respected cook, not a loader!' Formal Russian letters begin with "uvazhaemyy", respected, the way English says 'dear sir'. A "gruzchik" is the man who carries loads, from "gruz", cargo.
+- 'Help me find this box quickly.' Russian helps 'to' someone, so it's "pomogi mne", literally 'help to me'. The box, "korobka", becomes "korobku" because it is what gets found.
+- 'Here it is, hidden behind old boxes.' Lyova says "ona", she, for the arugula, since "rukola" is a 'she' word. After "za", behind, the boxes take -ami: "za starymi yashchikami".
+- 'Great, take it and let us run to the kitchen!' To say 'take it' Nastya uses "beri", from "brat", to take. Said to the person beside you, "bezhim", we run, doubles as 'let's run'.
+- 'I cannot stand such strange rules.' Literally 'I can't endure', "terpet ne mogu" is the standard 'I can't stand'. The "poryadki" here are ways of doing things, more than one "poryadok", order.
+- 'The main thing is that guests receive their dishes.' After "glavnoe, chtoby", for what should happen, comes a past-looking form, "poluchili". And "svoi blyuda" means their own dishes.
+- 'Alright, let us go save our beloved restaurant.' The word "ladno" is a shrugging 'alright'. Then "poydyom spasat" is 'let's go save', the plain 'to save' straight after 'let's go'.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "On air, Barinov keeps going. He says he would never take a woman into his kitchen, and Elena has an answer to every point. It's in Russian first."
-OPENER = 'Slowly now. Each line is a claim, and the next line is the reply.'
-TRANSITION = 'It comes round again, in order.'
-OUTRO = "'Prove it in practice' is Elena's best line, and it works for any argument. By the end you've heard 'hard', 'order' and 'rules' a few times each. See you next time."
+INTRO = "Still live in the television studio, Barinov keeps going at Elena Sokolova, the chef from Arcobaleno. He says he would never take a woman into his kitchen, and Elena has an answer to every point. It's in Russian first."
+OPENER = 'Slowly now. Each of his claims gets a reply from her.'
+TRANSITION = 'And here it is again, claim and reply, without the pauses.'
+OUTRO = "Elena's sort of line is dokazhite na dele, 'prove it in practice', and Barinov ends up using it on her. You've also heard tyazholyy three times: it means 'heavy', and it's the everyday word for hard work, heavy bags and a hard day. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Я никогда не возьму женщину на кухню.', 'I will never take a woman into the kitchen.', [(29, 'Я бы себе на кухню поварику бы не взял')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Тогда докажите это на деле, Елена!', 'Then prove it in deed, Elena!', [], ''),
 ]
 WALK = [
-    (0, None, "'I will never take a woman into the kitchen.' 'Never' needs 'not' too. 'Will take' is the one-word future, and 'woman' has the movement ending."),
-    (1, None, "'What foolish thoughts, Viktor?' 'What kind of' is the chunk 'chto za'. 'Thoughts' is a plural."),
-    (2, None, "'Women talk too much at work.' 'Too much' is two words in Russian. 'At work' uses 'na', which Russians use for workplaces."),
-    (3, None, "'In my kitchen there is always perfect order.' 'On my kitchen' is the Russian choice for 'in my kitchen', because Russians say 'on' for workplaces. 'Perfect' springs from 'ideal'."),
-    (4, None, "'In a restaurant kitchen strict control is needed.' 'Needed' ends in a consonant to agree with 'control'. 'Strict' goes in front, as it does with most describing words."),
-    (5, None, "'My cooks work calmly and neatly.' 'Cooks' ends in 'a'. 'Calmly' and 'neatly' both end in 'o'."),
-    (6, None, "'You will not cope with our hard work.' 'Cope' ends in 'sya' and is followed by 'with'. 'Hard' also means 'heavy', as in 'a heavy job'."),
-    (7, None, "'I cope with any difficult task.' The same word for 'cope', now in the 'I' form. 'Any' and 'difficult' agree with 'task'."),
-    (8, None, "'At Claude Monet restaurant it is very hard.' 'Hard' has no subject, so it's like 'it is heavy'. The word is also used for weather and mood."),
-    (9, None, "'I am not afraid of hard work, chef!' After 'not afraid', the thing feared appears in the 'of' form. So 'work' changes shape."),
-    (10, None, "'You do not understand our male rules.' With 'not understand', the thing you don't understand takes the 'of' form. 'Male' comes from 'man'."),
-    (11, None, "'The rules in the kitchen are the same for everyone.' 'The same' is one word that means 'identical'. 'For everyone' is two short words."),
-    (12, None, "'Then prove it in deed, Elena!' 'In deed' means 'in practice'. It's a favourite phrase of Russian bosses."),
+    (0, None, "'I will never take a woman into the kitchen.' Like other forms of vzyat, vozmu, 'I will take', already points to the future. Movement into the kitchen is na kukhnyu, ending in -yu; being in it is na kukhne."),
+    (1, None, "'What foolish thoughts, Viktor?' The everyday chto za means 'what kind of', and often carries disapproval. The plural mysli comes from mysl, 'thought'."),
+    (2, None, "'Women talk too much at work.' Here slishkom mnogo, 'too much', is literally 'too many'. Russians say na rabote, 'on work', for being at work."),
+    (3, None, "'In my kitchen there is always perfect order.' After na, moya changes to moyey to match kukhne. The word idealnyy, 'perfect', is simply 'ideal' with a Russian ending."),
+    (4, None, "'In a restaurant kitchen strict control is needed.' Here nuzhen, 'needed', matches kontrol, which is masculine; with a feminine word it would be nuzhna. The phrase na kukhne restorana is literally 'in the kitchen of the restaurant'."),
+    (5, None, "'My cooks work calmly and neatly.' The plural povara, 'cooks', is irregular, with a stressed -a where most words take -y. Swapping the ending for -o turns spokoynyy, 'calm', into spokoyno, 'calmly', and akkuratnyy into akkuratno."),
+    (6, None, "'You will not cope with our hard work.' The form spravites is the polite 'you will cope', and it always takes s, 'with', and -oy endings: s nashey tyazholoy rabotoy. Literally, tyazholyy means 'heavy'."),
+    (7, None, "'I cope with any difficult task.' Elena's spravlyayus describes what she does as a rule, rather than one future success. After s again, zadacha, 'task', becomes zadachey."),
+    (8, None, "'At Claude Monet restaurant it is very hard.' With no subject at all, ochen tyazhelo means 'it is very hard'. Inside a place, restoran gets -e: v restorane."),
+    (9, None, "'I am not afraid of hard work, chef!' Fear in Russian takes the 'of' form, so rabota becomes raboty: ne boyus tyazholoy raboty. She repeats his own word for 'hard', tyazholyy, and shrugs it off."),
+    (10, None, "'You do not understand our male rules.' After ne, the object can slip into the 'of' form: nashikh muzhskikh pravil rather than nashi muzhskiye pravila. The word muzhskoy, 'male', is related to muzh, 'husband'."),
+    (11, None, "'The rules in the kitchen are the same for everyone.' The short plural odinakovy, 'the same', matches pravila, 'rules'. In dlya vsekh, 'for everyone', vse changes to vsekh after dlya."),
+    (12, None, "'Then prove it in deed, Elena!' With vy, dokazat, 'to prove', becomes the command dokazhite. The set phrase na dele, literally 'in the deed', means 'in practice', as opposed to talk."),
 ]
