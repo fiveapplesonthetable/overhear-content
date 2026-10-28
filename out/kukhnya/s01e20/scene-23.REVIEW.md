@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is our common mistake.' Max accepts shared responsibility for their failure, directly labeling it as a collective error.
 - 'Maybe we should have woken up?' Max wonders aloud if they should have faced reality sooner, phrasing his regret as a lingering question.
 - 'Woken up sooner?' Max repeats his thought, asking specifically if coming to their senses earlier would have changed things.
-- 'I don' Max admits that he has no solution for the philosophical dilemma he just outlined.
+- 'I don't know the answer.' Max admits that he has no solution for the philosophical dilemma he just outlined.
 - 'Nobody knows.' Max expands his own uncertainty, claiming that no one really has the answers to these deep questions.
 - 'Life goes on.' Max accepts that despite all their mistakes and lost time, existence simply moves forward.
 - 'Need to go.' Max resolves that they must keep moving, using a strong word indicating necessity.

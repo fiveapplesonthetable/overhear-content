@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, I will definitely get in touch with you.' Katya picks an unhurried style on the spot, pairing "spasibo" ("thank you") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
-- 'Perhaps I will eat something else.' The guest holds a sharp tone in the conversation, using "syem" (from "syest", "will eat") alongside "yeshchyo" ("more, still") to shape the meaning.
-- 'What a divine taste, bravo!' The guest adopts a resolute tack across the room, anchoring the Russian line on "bozhestvennyy" ("divine") and "vkus" ("taste") without extra filler.
-- 'Thank you very much, eat to your health.' Katya conveys a candid view beside the guest, linking "bolshoye" ("big, very much"), "spasibo" ("thank you"), and "kushayte" ("eat") in one brisk exchange.
-- 'Do you already consider yourself the head chef?' Barinov tests promptly to the guest here, putting "uzhe" ("already, now") alongside "shefom" ("chef") in a tight, everyday turn of phrase.
-- 'Well, that is not me, that is the guests.' Katya displays a lively posture for the guest, leaning on "gosti" ("visitors, guests") before closing the thought with "nu" ("oh, come on").
-- 'By the way, I must inform you of something.' Katya conveys a clear tempo beside Barinov, leaning on "kstati" ("by the way") before closing the thought with "dolzhna" ("should, must").
-- 'They offered me a job at a new restaurant.' Katya favors an easygoing approach as they talk, using "predlozhili" (from "predlozhit", "offered") alongside "rabotat" ("to work") to shape the meaning.
-- 'Is that so, and what did you answer?' Barinov probes wryly for the guest's benefit, weaving "kak" ("how") together with "otvetila" ("answered") just the way native speakers do.
-- 'And what do you think, what should I do?' Katya probes wryly during the talk, linking "kak" ("how"), "dumayesh" ("think"), and "delat" ("do") in one brisk exchange.
-- 'I do not know, Katya, it is your business.' Barinov favors a lively direction on the spot, using "znayu" (from "znat", "know") alongside "delo" ("matter") to shape the meaning.
-- 'It is only your personal choice.' Barinov picks a frank position with Katya, linking "tolko" ("only"), "lichnyy" ("personal"), and "vybor" ("choice") in one brisk exchange.
+- 'Thank you, I will definitely get in touch with you.' Katya emphasizes one vivid piece at once: "obyazatelno" means "surely, without fail", and it carries the main weight of what Katya is saying.
+- 'Perhaps I will eat something else.' The guest proceeds right away in their talk, saying out loud what both of them already know.
+- 'What a divine taste, bravo!' The guest reacts briskly with a shrug, saying out loud what both of them already know.
+- 'Thank you very much, eat to your health.' Katya leans on one loaded expression right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Do you already consider yourself the head chef?' Barinov lays out this update with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Well, that is not me, that is the guests.' Katya pushes back steadily watching the guest, to clear the air between them once and for all.
+- 'By the way, I must inform you of something.' Katya favors this key term at once: "soobshchit" means "inform, report", and it carries the main weight of what Katya is saying.
+- 'They offered me a job at a new restaurant.' Katya speaks up frankly to settle things, refusing to let the moment slip past.
+- 'Is that so, and what did you answer?' Barinov probes skeptically before the guest can change the subject.
+- 'And what do you think, what should I do?' Katya uses this vivid touch toward the guest: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
+- 'I do not know, Katya, it is your business.' Barinov stresses this clear element toward the guest: "delo" means "matter", and it carries the main weight of what Barinov is saying.
+- 'It is only your personal choice.' Barinov holds firm firmly beside Katya, without trying to dress up how he really feels.

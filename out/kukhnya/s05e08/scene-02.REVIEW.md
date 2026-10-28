@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And nobody ever saw that waiter again.' Fedya strikes a natural line during the exchange, weaving "bolshe" ("more") together with "ofitsianta" ("waiter") just the way native speakers do.
-- 'I swear, a cook I know told me.' Fedya offers a lively bearing in the room, anchoring the Russian line on "klyanus" ("I swear") and "povar" ("chef, cook") without extra filler.
-- 'He sold that ring and moved abroad.' Fedya brings an unhurried view with Nastya, anchoring the Russian line on "prodal" ("to sell") and "persten" ("signet, gem ring") without extra filler.
-- 'Nobody saw him again.' Fedya holds an unhurried position beside Senya, leaning on "bolshe" ("more") before closing the thought with "videl" ("saw, have seen").
-- 'My girlfriends from that hotel told me.' Nastya sustains a firm posture as the scene unfolds, joining "podruzhki" ("girlfriends") to "otelya" ("of the hotel") so every word pulls its weight.
-- 'One girl brought him an order and vanished.' Nastya maintains a direct posture straight away, joining "devushka" ("girlfriend") to "otnesla" ("to carry to") so every word pulls its weight.
-- 'Now she lives in his harem.' Nastya brings a candid bearing in the conversation, anchoring the Russian line on "teper" ("now") and "zhivyot" ("lives") without extra filler.
-- 'The sheikh probably has a holiday every day.' Senya sustains a warm approach during the exchange, building the phrase around "sheykha" ("of a sheikh") and "navernoye" ("probably") for a crisp, natural delivery.
-- 'Can you imagine how much such a ring costs?' Fedya prompts decisively to keep things clear, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "skolko" ("how much, so much") without extra filler.
-- 'We could use a gift like that too.' Senya picks a playful stance on the spot, linking "tozhe" ("too"), "pomeshal" ("disturbed, interrupted"), and "podarok" ("gift, voucher") in one brisk exchange.
-- 'It is better to stay far away from him.' Nastya adopts a resolute posture for Fedya, pairing "derzhatsya" ("stay") with "luchshe" ("better") so the "-sya" ending carries the action.
-- 'Let us hurry to the kitchen.' Fedya brings a steady course during the exchange, combining "poydyomte" ("come on, let's go") and "skoreye" ("quickly, right away") so the key meaning lands right away.
+- 'And nobody ever saw that waiter again.' Fedya states that answer facing Nastya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I swear, a cook I know told me.' Fedya weighs in at once as they talk, without trying to dress up how he really feels.
+- 'He sold that ring and moved abroad.' Fedya emphasizes one vivid detail in reply: "granitsu" means "border" (from "granitsa"), giving the line its exact edge.
+- 'Nobody saw him again.' Fedya brings that answer briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'My girlfriends from that hotel told me.' Nastya stands firm sharply toward Fedya, to clear the air between them once and for all.
+- 'One girl brought him an order and vanished.' Nastya colors this vivid term on cue: "devushka" means "girlfriend", and it carries the main weight of what Nastya is saying.
+- 'Now she lives in his harem.' Nastya continues right away as they talk, leaving no doubt about where she stands.
+- 'The sheikh probably has a holiday every day.' Senya stands firm evenly to settle things, testing Nastya's reaction in the middle of the exchange.
+- 'Can you imagine how much such a ring costs?' Fedya reaches for this key piece on cue: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'We could use a gift like that too.' Senya holds firm lightly on the spot, watching Nastya's face to see how the news lands.
+- 'It is better to stay far away from him.' Nastya reacts at once watching Fedya, without trying to dress up how she really feels.
+- 'Let us hurry to the kitchen.' Fedya anchors this sharp word right here: "poydyomte" means "come on, let's go" (from "poyti"), giving the line its exact edge.

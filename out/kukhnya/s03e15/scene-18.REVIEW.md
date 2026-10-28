@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taste it, did it turn out delicious or not?' Nagiyev inquires earnestly without a pause, linking "poprobuy" ("to try, to taste"), "vkusno" ("it's tasty"), and "poluchilos" ("worked out") in one brisk exchange.
-- 'Strange, but this is actually very delicious!' Max takes a candid mood beside Nagiyev, anchoring the Russian line on "stranno" ("strange") and "deystvitelno" ("really, indeed") without extra filler.
-- 'I admit, Dima, I underestimated you before.' Max maintains a warm mood at this moment, leaning on "priznayu" ("to admit, to recognise") before closing the thought with "ranshe" ("earlier, previously").
-- 'And what if he suspects a trick and asks everyone to leave?' Nagiyev quizzes evenly to make the point, joining "zapodozrit" ("suspects") to "obman" ("a trick") so every word pulls its weight.
-- 'Then we are sunk, and we will need another plan.' Barinov sustains a calm manner in the conversation, building the phrase around "priplyli" ("came to a dead end") and "togda" ("back then") for a crisp, natural delivery.
-- 'Wait, Vitya, do we actually have that plan?' Nagiyev quizzes bluntly as the talk turns, putting "podozhdi" ("wait") alongside "plan" ("plan") in a tight, everyday turn of phrase.
-- 'A prepared raw dish will already be sitting inside the oven.' Barinov favors a firm attitude straight away, joining "dukhovke" ("the oven") to "uzhe" ("already, now") so every word pulls its weight.
-- 'You will put your dish in the oven, and then pull out the right dish.' Barinov chooses a lively tempo as the scene unfolds, joining "blyudo" ("dish") to "otpravish" ("to send") so every word pulls its weight.
-- 'Most importantly, do not forget to turn on the oven in time!' Barinov shows an honest course across the room, building the phrase around "samoye" ("the most") and "glavnoye" ("important") for a crisp, natural delivery.
-- 'Wait, and how do I turn on this oven?' Nagiyev checks naturally without hesitation, building the phrase around "podozhdi" ("wait") and "kak" ("how") for a crisp, natural delivery.
-- 'Simply turn the switch over there to the right!' Barinov holds a natural posture in their talk, weaving "prosto" ("just") together with "poverni" ("turn") just the way native speakers do.
-- 'The rabbit is raw, shall we settle up on our bet?' Max challenges honestly toward Nagiyev here, weaving "krolik" ("rabbit") together with "syroy" ("raw, damp") just the way native speakers do.
+- 'Taste it, did it turn out delicious or not?' Nagiyev tests evenly if there is more going on behind the scenes.
+- 'Strange, but this is actually very delicious!' Max centers one key word right here: "deystvitelno" means "really, indeed", and it carries the main weight of what Max is saying.
+- 'I admit, Dima, I underestimated you before.' Max favors this key term toward Barinov: "nedootsenival" means "underestimated" (from "nedootsenivat"), giving the line its exact edge.
+- 'And what if he suspects a trick and asks everyone to leave?' Nagiyev checks sharply about what Max just brought up.
+- 'Then we are sunk, and we will need another plan.' Barinov points to one concrete touch toward Max: "priplyli" means "came to a dead end" (from "priplyt"), giving the line its exact edge.
+- 'Wait, Vitya, do we actually have that plan?' Nagiyev voices the reply with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'A prepared raw dish will already be sitting inside the oven.' Barinov speaks up wryly without any doubt, keeping the focus on what actually matters here.
+- 'You will put your dish in the oven, and then pull out the right dish.' Barinov reaches for one colorful piece with Nagiyev: "dukhovku" means "oven" (from "dukhovka"), giving the line its exact edge.
+- 'Most importantly, do not forget to turn on the oven in time!' Barinov steps in evenly watching Max, testing Max's reaction in the middle of the exchange.
+- 'Wait, and how do I turn on this oven?' Nagiyev prompts point-blank before Max can change the subject.
+- 'Simply turn the switch over there to the right!' Barinov uses one clear piece right here: "tumbler" means "toggle switch", and it carries the main weight of what Barinov is saying.
+- 'The rabbit is raw, shall we settle up on our bet?' Max makes that point before Nagiyev: the "-sya" ending on "rasschitatsya" ("to settle up") turns the action inward or makes it happen between people naturally.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And now, dear friends, let us proceed to our tables.' Vika chooses a lively attitude as the scene unfolds, pairing "seychas" ("now") with "dorogiye" ("dear") to get the point across in plain spoken Russian.
-- 'Yes, for Ekaterina and...' Nastya takes a warm line without hesitation, joining "da" ("yes") to "yekateriny" ("Ekaterina") so every word pulls its weight.
-- 'Ekaterina, right?' Nagiyev tests lightly in front of Nastya, putting "yekateriny" ("Ekaterina") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'Sergey Vladimirovich.' Vika sets a lively posture as the scene unfolds, building the phrase around "sergeya" ("Sergey") and "vladimirovicha" ("Vladimirovich") for a crisp, natural delivery.
-- 'And Vladimir Sergeyevich!' Nastya strikes a pointed attitude for Nagiyev, using "vladimira" (from "vladimir", "Vladimir") alongside "sergeyevicha" ("Sergeyevich") to shape the meaning.
-- 'Of course, for good luck.' Nagiyev projects an easygoing mood toward Vika, joining "konechno" ("of course") to "schastye" ("happiness") so every word pulls its weight.
-- 'Good luck! Of course.' Vika favors a brisk mood in front of Nagiyev, building the phrase around "schastye" ("happiness") and "konechno" ("of course") for a crisp, natural delivery.
-- 'Smash away to your heart's content.' Nastya holds a clear view in front of Vika, building the phrase around "lupasti" ("foolishness") and "zdorovye" ("health") for a crisp, natural delivery.
-- 'Vika, keep a close eye on that lucky fellow.' Nagiyev sets a firm footing right away, putting "sledi" ("watch, look after") alongside "schastlivchikom" ("lucky guy") in a tight, everyday turn of phrase.
-- 'He will bankrupt us by the end of the wedding.' Vika favors a brisk angle in the room, linking "kontsu" ("end"), "svadby" ("wedding"), and "miru" ("peace, world") in one brisk exchange.
-- 'Nastya, what are you up to?' Nagiyev wonders earnestly in front of Nastya, anchoring the Russian line on "nastya" ("Nastya") and "tebe" ("for you, to you") without extra filler.
-- 'You are so wonderful to me.' Nagiyev chooses an honest footing toward Vika, linking "khoroshiy" ("good"), "ty" ("you"), and "mne" ("to me") in one brisk exchange.
-- 'I am so lucky to have you.' Vika adopts a natural tone toward Nagiyev, leaning on "povezlo" ("it was lucky") before closing the thought with "mne" ("to me").
+- 'And now, dear friends, let us proceed to our tables.' Vika responds firmly without holding back, so Nagiyev knows she is not just making small talk.
+- 'Yes, for Ekaterina and...' Nastya voices that answer facing Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Ekaterina, right?' Nagiyev phrases this point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Sergey Vladimirovich.' Vika answers lightly to be clear, steering the talk right where she wants it.
+- 'And Vladimir Sergeyevich!' Nastya aims the comment with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Of course, for good luck.' Nagiyev offers that answer toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Good luck! Of course.' Vika speaks up boldly without a pause, to clear the air between them once and for all.
+- 'Smash away to your heart's content.' Nastya points to one colorful term toward Vika: "zdorovye" means "health", and it carries the main weight of what Nastya is saying.
+- 'Vika, keep a close eye on that lucky fellow.' Nagiyev answers lightly watching Nastya, before Nastya can change the subject.
+- 'He will bankrupt us by the end of the wedding.' Vika speaks up decisively with Nastya, leaving no doubt about where she stands.
+- 'Nastya, what are you up to?' Nagiyev directs that thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You are so wonderful to me.' Nagiyev states this answer to Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am so lucky to have you.' Vika reacts warmly facing Nagiyev, watching Nagiyev's face to see how the news lands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit.' Ilya sets an honest tone in the conversation, weaving "priyatnogo" ("pleasant") together with "appetita" ("appetite") just the way native speakers do.
-- 'You know, you did the right thing getting divorced from her.' Ilya presents a serious posture in their talk, putting "znayete" ("know") alongside "pravilno" ("right") in a tight, everyday turn of phrase.
-- 'What business is it of yours?' Nagiyev questions boldly without a pause, building the phrase around "sobachye" ("dog's, none of your") and "delo" ("matter") for a crisp, natural delivery.
-- 'What is your job? To watch over the food that you serve me.' Nagiyev prompts decisively in their exchange, anchoring the Russian line on "zadacha" ("task") and "sledit" ("to monitor") without extra filler.
-- 'What kind of dish is this? You are fired!' Nagiyev queries naturally as they speak, leaning on "blyudo" ("dish") before closing the thought with "uvolen" ("fired").
-- 'Dmitry Vladimirovich!' Ilya takes a thoughtful line as the scene unfolds, anchoring the Russian line on "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") without extra filler.
-- 'Fired! And the cook who prepared this is fired too.' Nagiyev shows a serious posture on the spot, linking "uvolen" ("fired"), "povar" ("chef, cook"), and "prigotovil" ("cooked") in one brisk exchange.
-- 'You are unattractive. Come here.' Nagiyev holds a sharp position straight away, pairing "nekrasivyy" ("unattractive") with "podi" ("come, go") to get the point across in plain spoken Russian.
-- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Max shows a brisk bearing in the scene, joining "seychas" ("now") to "menyu" ("menu") so every word pulls its weight.
-- 'Bring me something to eat. Bring me some aspic.' Nagiyev shows a playful posture at once, joining "prinesi" ("bring") to "poyest" ("to eat") so every word pulls its weight.
-- 'Aspic? We do not have it on the menu.' Max inquires lightly with Ilya now, linking "kholodets" ("aspic, meat jelly"), "menyu" ("menu"), and "nas" ("us") in one brisk exchange.
-- 'I don't care one bit! Go on.' Nagiyev shows a lively position in their talk, joining "barabanu" ("drum") to "davay" ("let's") so every word pulls its weight.
+- 'Bon appetit.' Ilya highlights one practical expression toward Max: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'You know, you did the right thing getting divorced from her.' Ilya reaches for one colorful detail for Nagiyev: "pravilno" means "right", and it carries the main weight of what Ilya is saying.
+- 'What business is it of yours?' Nagiyev challenges straight out where this conversation is heading next.
+- 'What is your job? To watch over the food that you serve me.' Nagiyev frames one clear touch with Max: "zadacha" means "task", and it carries the main weight of what Nagiyev is saying.
+- 'What kind of dish is this? You are fired!' Nagiyev gives that answer plainly here: putting the question word "chto" right at the front of the line lets Ilya hear the point of the question on the very first beat.
+- 'Dmitry Vladimirovich!' Ilya speaks frankly beside Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Fired! And the cook who prepared this is fired too.' Nagiyev focuses on this key piece in reply: "prigotovil" means "cooked" (from "prigotovit"), giving the line its exact edge.
+- 'You are unattractive. Come here.' Nagiyev drops the remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Max steps in openly with a nod, saying out loud what both of them already know.
+- 'Bring me something to eat. Bring me some aspic.' Nagiyev uses one familiar touch with Max: "kholodtsa" means "aspic, meat jelly" (from "kholodets"), giving the line its exact edge.
+- 'Aspic? We do not have it on the menu.' Max sends this update toward Ilya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I don't care one bit! Go on.' Nagiyev steps in boldly without any doubt, steering the talk right where he wants it.

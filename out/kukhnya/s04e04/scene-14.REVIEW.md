@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you sleep at home last night?' Max checks wryly toward Denis here, joining "doma" ("at home") to "nocheval" ("spent the night") so every word pulls its weight.
-- 'Come on, why are you holding a grudge?' Max questions evenly right away, leaning on "obizhayeshsya-to" ("grudge") before closing the thought with "da" ("yes").
-- 'Yesterday you simply interrupted Vika and me.' Max presents a warm note without hesitation, anchoring the Russian line on "vchera" ("yesterday") and "prosto" ("just") without extra filler.
-- 'And we had a fight because of that.' Max establishes a playful approach without hesitation, pairing "possorilis" ("had a fight") with "my" ("we") so the "-sya" ending carries the action.
-- 'We haven't been able to get pregnant.' Max presents an honest course as they talk, anchoring the Russian line on "poluchayetsya" ("works out") and "zaberemenet" ("to pregnant") without extra filler.
-- 'In short, everything is complicated.' Max sets a steady tone with Denis, combining "obshchem" ("short, so") and "slozhno" ("difficult") so the key meaning lands right away.
-- 'Forgive me too.' Denis adopts a warm attitude right away, linking "tozhe" ("too"), "prosti" ("sorry, forgive me"), and "ty" ("you") in one brisk exchange.
-- 'Because of me you have nothing but trouble.' Denis maintains a firm approach in the conversation, anchoring the Russian line on "nepriyatnosti" ("troubles") and "odni" ("nothing but") without extra filler.
-- 'Come on, we will manage. So, how are things with you?' Max tests lightly in the room, pairing "spravimsya" ("will manage") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'I need to peel eighteen sacks of potatoes before evening.' Denis displays a direct tone toward Max, pairing "nuzhno" ("necessary") with "vechera" ("evening") to get the point across in plain spoken Russian.
-- 'But I have already peeled three.' Denis displays a frank footing in their talk, joining "uzhe" ("already, now") to "pochistil" ("to three") so every word pulls its weight.
-- 'We will help you right now.' Max displays a frank bearing in front of Denis, pairing "seychas" ("now") with "pomozhem" ("will help") so the "-sya" ending carries the action.
+- 'Why didn't you sleep at home last night?' Max aims that remark without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Come on, why are you holding a grudge?' Max wonders point-blank to see how Denis will answer on the spot.
+- 'Yesterday you simply interrupted Vika and me.' Max anchors one pointed word in earnest: "pomeshal" means "disturbed, interrupted" (from "pomeshat"), giving the line its exact edge.
+- 'And we had a fight because of that.' Max phrases that reply with warmth: the "-sya" ending on "possorilis" ("had a fight") turns the action inward or makes it happen between people naturally.
+- 'We haven't been able to get pregnant.' Max follows up plainly in this moment, bringing things back to earth after the buildup.
+- 'In short, everything is complicated.' Max highlights one vivid touch toward Denis: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'Forgive me too.' Denis frames the comment calmly now: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Because of me you have nothing but trouble.' Denis chimes in steadily during the talk, refusing to let the moment slip past.
+- 'Come on, we will manage. So, how are things with you?' Max colors one practical expression in earnest: "spravimsya" means "will manage" (from "spravitsya"), giving the line its exact edge.
+- 'I need to peel eighteen sacks of potatoes before evening.' Denis drops this statement facing Max: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'But I have already peeled three.' Denis pushes back lightly as they talk, steering the talk right where he wants it.
+- 'We will help you right now.' Max spotlights this sharp expression with Denis: "pomozhem" means "will help" (from "pomoch"), giving the line its exact edge.

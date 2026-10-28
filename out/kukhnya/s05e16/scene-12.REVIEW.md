@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Shoot, excuse me please, the plate fell by accident!' Nikita offers a thoughtful posture in this beat, joining "chyort" ("darn, heck") to "izvinite" ("sorry, excuse me") so every word pulls its weight.
-- 'What are you doing, how clumsy you are!' Mikhail holds a wry style as the scene unfolds, joining "tvorish" ("are doing, creating") to "nelovkiy" ("clumsy") so every word pulls its weight.
-- 'Forgive me, I will quickly clean everything up off the floor right now.' Nikita strikes a direct approach straight away, leaning on "prostite" ("excuse me") before closing the thought with "seychas" ("now").
-- 'Do not apologize, at least the second portion is intact!' Mikhail shares an unhurried direction for Nikita, weaving "izvinyaysya" ("apologize") together with "khorosho" ("good, fine") just the way native speakers do.
-- 'Gulya, come over here quickly, I have an important errand.' Mikhail projects an honest mood as they talk, anchoring the Russian line on "podoydi" ("approach, go up") and "skoreye" ("quickly, right away") without extra filler.
-- 'When Eleonora Andreyevna arrives, serve her this tenderloin.' Mikhail holds a candid direction beside Nikita, weaving "kogda" ("when") together with "pridyot" ("will come") just the way native speakers do.
-- 'And in the meantime I will quickly go and dress up nicely.' Mikhail maintains an earnest course in the scene, combining "poka" ("bye") and "bystro" ("quickly") so the key meaning lands right away.
-- 'Alright, Mikhail Dzhekovich, I will do everything properly.' Gulya picks a warm stance straight away, combining "khorosho" ("good, fine") and "sdelayu" ("I'll do") so the key meaning lands right away.
-- 'Great, the flowers are on the table, everything is right in place!' Mikhail sustains a brisk angle toward Gulya, joining "otlichno" ("perfect, great") to "tsvety" ("the flowers") so every word pulls its weight.
-- 'Today at seven in the evening sharp she will find out everything.' Mikhail presents an honest course for Nikita, leaning on "segodnya" ("today") before closing the thought with "rovno" ("exactly").
-- 'You will learn the answer to your most important question.' Mikhail holds a wry posture straight away, weaving "uznayesh" ("will learn") together with "otvet" ("answer") just the way native speakers do.
-- 'The secret sign of our meeting will be your favorite dish!' Mikhail maintains a natural stance right away, putting "taynym" ("secret, hidden") alongside "znakom" ("familiar, known") in a tight, everyday turn of phrase.
+- 'Shoot, excuse me please, the plate fell by accident!' Nikita weighs in warmly around Gulya, to clear the air between them once and for all.
+- 'What are you doing, how clumsy you are!' Mikhail focuses on one vivid element with Nikita: "nelovkiy" means "clumsy", and it carries the main weight of what Mikhail is saying.
+- 'Forgive me, I will quickly clean everything up off the floor right now.' Nikita drops that reply before Gulya: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'Do not apologize, at least the second portion is intact!' Mikhail opens up right away watching Nikita, watching Nikita's face to see how the news lands.
+- 'Gulya, come over here quickly, I have an important errand.' Mikhail stresses one vivid choice in earnest: "porucheniye" means "errand, assignment", and it carries the main weight of what Mikhail is saying.
+- 'When Eleonora Andreyevna arrives, serve her this tenderloin.' Mikhail proceeds right away across the room, leaving no doubt about where he stands.
+- 'And in the meantime I will quickly go and dress up nicely.' Mikhail chimes in evenly as they talk, so Gulya knows he is not just making small talk.
+- 'Alright, Mikhail Dzhekovich, I will do everything properly.' Gulya chooses one key expression in earnest: "khorosho" means "good, fine", and it carries the main weight of what Gulya is saying.
+- 'Great, the flowers are on the table, everything is right in place!' Mikhail gives the reply with warmth: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Today at seven in the evening sharp she will find out everything.' Mikhail follows up evenly as they talk, saying out loud what both of them already know.
+- 'You will learn the answer to your most important question.' Mikhail grounds this sharp expression at once: "glavnyy" means "main, chief", and it carries the main weight of what Mikhail is saying.
+- 'The secret sign of our meeting will be your favorite dish!' Mikhail features one clear word toward Nikita: "lyubimoye" means "favorite" (from "lyubimyy"), giving the line its exact edge.

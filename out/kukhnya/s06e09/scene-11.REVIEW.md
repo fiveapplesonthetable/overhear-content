@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, let us go to a cafe together right now.' Denis brings a sharp rhythm at this moment, anchoring the Russian line on "slushay" ("listen") and "poydyom" ("let's go") without extra filler.
-- 'Right now, after all today is a terrible day.' Senya holds a wry manner as the scene unfolds, anchoring the Russian line on "pryamo" ("right, just") and "seychas" ("now") without extra filler.
-- 'We will drink some tasty coffee and relax a little.' Denis sustains a serious mood in this beat, putting "vkusnogo" ("tasty, delicious") alongside "kofe" ("of coffee") in a tight, everyday turn of phrase.
-- 'Alright, wait, I will just change clothes quickly.' Senya presents an easygoing attitude for Denis, anchoring the Russian line on "khorosho" ("good, fine") and "podozhdi" ("wait") without extra filler.
-- 'Why, you look amazing as it is.' Denis shares a candid tone with Barinov, building the phrase around "zachem" ("what for") and "potryasayushche" ("incredible") for a crisp, natural delivery.
-- 'Her reputation stops her from writing about my restaurant!' Barinov takes a calm tack as the scene unfolds, pairing "napisat" ("to write") with "restoran" ("restaurant") to get the point across in plain spoken Russian.
-- 'Yes, chef, that is a very unpleasant story.' Senya maintains a calm approach at this moment, pairing "ochen" ("very much") with "nepriyatnaya" ("unpleasant") to get the point across in plain spoken Russian.
-- 'Put the bottle away, you know I do not drink.' Barinov shows a playful attitude as they talk, weaving "uberi" ("take away, put away") together with "butylku" ("a bottle") just the way native speakers do.
-- 'Chef, I will teach you how to place bets on the internet.' Senya adopts an easygoing tack at once, putting "nauchu" ("I will teach") alongside "delat" ("do") in a tight, everyday turn of phrase.
-- 'Go on, show me quickly how this works.' Barinov displays an unhurried tack in their talk, pairing "davay" ("let's") with "pokazyvay" ("show") to get the point across in plain spoken Russian.
-- 'Look, your Elena Pavlovna's page is open here.' Senya projects a steady course on the spot, weaving "smotrite" ("look") together with "tut" ("here") just the way native speakers do.
-- 'Apparently, she just accidentally forgot to log out.' Barinov shows an earnest bearing in front of Senya, weaving "vidimo" ("apparently") together with "prosto" ("just") just the way native speakers do.
-- 'Close it immediately, although I have an idea!' Senya sets an easygoing approach at this moment, building the phrase around "nemedlenno" ("immediately") and "zakroy" ("shut, close") for a crisp, natural delivery.
+- 'Listen, let us go to a cafe together right now.' Denis continues evenly around Barinov, to clear the air between them once and for all.
+- 'Right now, after all today is a terrible day.' Senya proceeds boldly with a sigh, making his position completely clear.
+- 'We will drink some tasty coffee and relax a little.' Denis uses one telling choice toward Barinov: "rasslabimsya" means "to relax" (from "rasslabitsya"), giving the line its exact edge.
+- 'Alright, wait, I will just change clothes quickly.' Senya shares the remark without fuss: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Why, you look amazing as it is.' Denis opens up sharply with a shrug, to clear the air between them once and for all.
+- 'Her reputation stops her from writing about my restaurant!' Barinov frames one sharp term with Senya: "reputatsiya" means "reputation", and it carries the main weight of what Barinov is saying.
+- 'Yes, chef, that is a very unpleasant story.' Senya voices this statement briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Put the bottle away, you know I do not drink.' Barinov steps in candidly as they talk, making his position completely clear.
+- 'Chef, I will teach you how to place bets on the internet.' Senya features one key expression at once: "internete" means "internet" (from "internet"), giving the line its exact edge.
+- 'Go on, show me quickly how this works.' Barinov aims that point plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Look, your Elena Pavlovna's page is open here.' Senya jumps in right away in this moment, before Barinov can change the subject.
+- 'Apparently, she just accidentally forgot to log out.' Barinov grounds this key piece with Senya: "sluchayno" means "by any chance", and it carries the main weight of what Barinov is saying.
+- 'Close it immediately, although I have an idea!' Senya sends the reaction right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.

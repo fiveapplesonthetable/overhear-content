@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where am I going to get sleeping pills right now?' Nikita wonders dryly on the spot, pairing "gde" ("where") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Then let's try option number two.' Nikita offers an easygoing position as the scene unfolds, pairing "togda" ("back then") with "probuyem" ("let's try, we try") to get the point across in plain spoken Russian.
-- 'Help, we need to call an ambulance!' Nikita picks a thoughtful line without hesitation, combining "pomogite" ("help") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'My phone is lying right over there.' Nagiyev adopts a brisk course at once, using the everyday "u menya" ("by me") alongside "telefon" ("phone") to show what belongs to the speaker.
-- 'Then I have run out of options.' Nikita offers an easygoing attitude straight away, leaning on "togda" ("back then") before closing the thought with "varianty" ("option, variant").
-- 'Alright then, today the salmon won.' Nagiyev holds a lively tack during the exchange, linking "segodnya" ("today"), "pobedil" ("won"), and "losos" ("salmon") in one brisk exchange.
-- 'Why did he tell me that?' Nikita challenges honestly in the room, weaving "zachem" ("what for") together with "skazal" ("said") just the way native speakers do.
-- 'Nikita, why did you take the car keys?' Nagiyev asks steadily in their exchange, pairing "zachem" ("what for") with "klyuchi" ("the keys") to get the point across in plain spoken Russian.
-- 'Well, did it not work out yet?' Katya questions decisively without a pause, joining "poka" ("bye") to "poluchilos" ("worked out") so every word pulls its weight.
-- 'Yes, nothing worked out yet.' Nikita favors a resolute bearing in front of Nagiyev, weaving "poka" ("bye") together with "vyshlo" ("happened, came about") just the way native speakers do.
-- 'You lie much better than you steal cars.' Katya strikes a brisk manner in front of Nagiyev, joining "vryosh" ("are lying") to "luchshe" ("better") so every word pulls its weight.
-- 'Wait, I will definitely get the keys.' Nikita presents an honest bearing beside Nagiyev, pairing "podozhdi" ("wait") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
+- 'Where am I going to get sleeping pills right now?' Nikita tests curiously why things suddenly took this turn between them.
+- 'Then let's try option number two.' Nikita uses one familiar word for Nagiyev: "variant" means "option, variant", and it carries the main weight of what Nikita is saying.
+- 'Help, we need to call an ambulance!' Nikita frames this point on cue: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'My phone is lying right over there.' Nagiyev reacts at once without holding back, to clear the air between them once and for all.
+- 'Then I have run out of options.' Nikita picks one clear term at once: "zakonchilis" means "are over, have ended" (from "zakonchitsya"), giving the line its exact edge.
+- 'Alright then, today the salmon won.' Nagiyev offers this statement with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nikita is on board.
+- 'Why did he tell me that?' Nikita checks quietly where this conversation is heading next.
+- 'Nikita, why did you take the car keys?' Nagiyev favors one pointed touch at once: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
+- 'Well, did it not work out yet?' Katya drops that thought without pause: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
+- 'Yes, nothing worked out yet.' Nikita speaks up honestly as things stand, watching Nagiyev's face to see how the news lands.
+- 'You lie much better than you steal cars.' Katya sharpens one classic expression toward Nagiyev: "ugonyayesh" means "you steal" (from "ugonyat"), giving the line its exact edge.
+- 'Wait, I will definitely get the keys.' Nikita follows up boldly beside Nagiyev, leaving no doubt about where he stands.

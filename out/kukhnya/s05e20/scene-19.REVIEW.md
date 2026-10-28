@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is all, our story turned out pretty well.' Max offers a candid mood in their talk, building the phrase around "neplokhaya" ("not bad, decent") and "poluchilas" ("turned out") for a crisp, natural delivery.
-- 'It was interesting, cheerful, and at times sad.' Max shows a pointed course as the scene unfolds, joining "byla" ("was") to "interesnaya" ("interesting") so every word pulls its weight.
-- 'And most importantly—very instructive.' Max shares a direct note beside Eleonora, anchoring the Russian line on "samoye" ("the most") and "glavnoye" ("important") without extra filler.
-- 'It taught us to always be brave.' Max offers a warm direction on the spot, building the phrase around "nauchila" ("to teach") and "vsegda" ("always") for a crisp, natural delivery.
-- 'And never to fear the challenges of life.' Max projects a serious tone on the spot, building the phrase around "nikogda" ("never") and "boyatsya" ("to fear") for a crisp, natural delivery.
-- 'It helped us achieve the goals we set.' Max adopts a steady footing as they talk, combining "pomogala" ("to help") and "dobivatsya" ("to court, to pursue") so the key meaning lands right away.
-- 'And we will celebrate our wedding in about two months.' Nagiyev shows an emphatic course in their talk, joining "svadbu" ("wedding") to "sygrayem" ("will play, will hold") so every word pulls its weight.
-- 'Why in two months, is that not a bit late?' Eleonora tests lightly on the spot, combining "pochemu" ("why") and "pozdnovato" ("a bit too late") so the key meaning lands right away.
-- 'And where do you and I have to hurry now?' Nagiyev inquires steadily to Eleonora here, putting "kuda" ("where to") alongside "teper" ("now") in a tight, everyday turn of phrase.
-- 'After all, you and I have our whole lives ahead of us.' Nagiyev takes an easygoing stance toward Max, leaning on "zhizn" ("life") before closing the thought with "vperedi" ("ahead, in front").
-- 'Alright, then we will hold the banquet in our hotel.' Eleonora establishes a playful angle toward Max, anchoring the Russian line on "khorosho" ("good, fine") and "togda" ("back then") without extra filler.
-- 'Wonderful, we will invite all our old friends.' Nagiyev presents a thoughtful angle across the room, combining "otlichno" ("perfect, great") and "priglasim" ("to invite, to call in") so the key meaning lands right away.
+- 'And that is all, our story turned out pretty well.' Max picks this key touch for Eleonora: "neplokhaya" means "not bad, decent" (from "neplokhoy"), giving the line its exact edge.
+- 'It was interesting, cheerful, and at times sad.' Max steps in wryly during the talk, before Nagiyev can change the subject.
+- 'And most importantly—very instructive.' Max opens up earnestly before Eleonora, grounding the moment in plain reality.
+- 'It taught us to always be brave.' Max points to one vivid choice right here: "smelymi" means "brave, bold" (from "smelyy"), giving the line its exact edge.
+- 'And never to fear the challenges of life.' Max offers the thought around Eleonora: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'It helped us achieve the goals we set.' Max reacts earnestly hearing Nagiyev, saying out loud what both of them already know.
+- 'And we will celebrate our wedding in about two months.' Nagiyev focuses on one clear touch in reply: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'Why in two months, is that not a bit late?' Eleonora shares this point briskly now: starting the question with "razve" ("really?, is it true that...?") shows Eleonora is pushing back against what she just heard.
+- 'And where do you and I have to hurry now?' Nagiyev asks earnestly about what Eleonora just brought up.
+- 'After all, you and I have our whole lives ahead of us.' Nagiyev uses one colorful word at once: "zhizn" means "life", and it carries the main weight of what Nagiyev is saying.
+- 'Alright, then we will hold the banquet in our hotel.' Eleonora directs that thought beside Max: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Wonderful, we will invite all our old friends.' Nagiyev follows up frankly with Max, testing Max's reaction in the middle of the exchange.

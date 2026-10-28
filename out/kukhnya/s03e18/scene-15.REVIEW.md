@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, anyway, I sorted everything out with Katya.' Max picks a thoughtful course beside Barinov, pairing "obshchem" ("short, so") with "razrulil" ("sorted out") to get the point across in plain spoken Russian.
-- 'Listen, Katya, I mean Vika, forgive me!' Max establishes a wry approach on the spot, leaning on "slushay" ("listen") before closing the thought with "yest" ("there is").
-- 'Tell me, what are you doing today after work?' Max asks calmly as the talk turns, putting "skazhi" ("say") alongside "delayesh" ("are you doing") in a tight, everyday turn of phrase.
-- 'Vika is very busy tonight after work.' Barinov sets an easygoing note toward Vika, pairing "segodnya" ("today") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
-- 'As for Katya, however, I do not know anything.' Vika strikes a direct stance right away, pairing "znayu" ("know") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'Well great, I ruined everything for myself again!' Max offers a warm tempo in the conversation, joining "opyat" ("again") to "isportil" ("to spoil, ruin") so every word pulls its weight.
-- 'Max, how on earth do you do all this?' Vika tests directly without holding back, combining the conversational booster "voobshche" ("in general, overall") with "kak" ("how") to give the line its natural spoken rhythm.
-- 'Honestly, I am in shock myself already.' Max presents a candid footing in this beat, joining "chestnoye" ("honest") to "slovo" ("word") so every word pulls its weight.
-- 'Attention all chefs! Listen to me quickly!' Barinov shows a clear tempo during the exchange, combining "vnimaniye" ("attention") and "povaram" ("cooks") so the key meaning lands right away.
-- 'For the first time in this kitchen we are burning a menu!' Barinov favors a thoughtful tack for Vika, building the phrase around "vpervyye" ("for the first time") and "kukhne" ("kitchen") for a crisp, natural delivery.
-- 'We are burning the pages of this new menu right now.' Barinov offers a candid note for Max, building the phrase around "seychas" ("now") and "szhigayem" ("we burn") for a crisp, natural delivery.
-- 'The menu is accused of betraying French cuisine with chebureki!' Barinov maintains a measured view across the room, anchoring the Russian line on "menyu" ("menu") and "obvinyayetsya" ("is accused") without extra filler.
+- 'Kostya, anyway, I sorted everything out with Katya.' Max holds firm boldly across the room, testing Barinov's reaction in the middle of the exchange.
+- 'Listen, Katya, I mean Vika, forgive me!' Max chooses this clear element in earnest: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'Tell me, what are you doing today after work?' Max brings that remark without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Vika is very busy tonight after work.' Barinov answers right away without any doubt, shifting the whole mood of the room in a single beat.
+- 'As for Katya, however, I do not know anything.' Vika sharpens one practical piece at once: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'Well great, I ruined everything for myself again!' Max weighs in lightly toward Vika, making his position completely clear.
+- 'Max, how on earth do you do all this?' Vika questions calmly while looking straight at Barinov here.
+- 'Honestly, I am in shock myself already.' Max centers one familiar expression for Vika: "chestnoye" means "honest" (from "chestnyy"), giving the line its exact edge.
+- 'Attention all chefs! Listen to me quickly!' Barinov steps in right away beside Max, making his position completely clear.
+- 'For the first time in this kitchen we are burning a menu!' Barinov speaks up plainly with a sigh, to clear the air between them once and for all.
+- 'We are burning the pages of this new menu right now.' Barinov uses this clear element right here: "szhigayem" means "we burn" (from "szhigat"), giving the line its exact edge.
+- 'The menu is accused of betraying French cuisine with chebureki!' Barinov chimes in honestly with Vika, without trying to dress up how he really feels.

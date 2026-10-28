@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have a great idea.' Fedya favors a resolute tone without hesitation, putting "yest" ("there is") alongside "otlichnaya" ("excellent") in a tight, everyday turn of phrase.
-- 'Let's swap the face in this video.' Fedya brings a direct course with Kostya, anchoring the Russian line on "davayte" ("let's") and "pomenyayem" ("to change, to swap") without extra filler.
-- 'Then they will definitely lock German up fast.' Fedya offers a pointed line in the scene, joining "togda" ("back then") to "germana" ("german") so every word pulls its weight.
-- 'Fedya, what, are you a complete idiot?' Barinov queries boldly without holding back, weaving "sovsem" ("at all") together with "idiot" ("idiot") just the way native speakers do.
-- 'I am not allowed to drink at all right now.' Kostya shares a grounded style during the exchange, pairing "seychas" ("now") with "voobshche" ("at all") so the "-sya" ending carries the action.
-- 'Kostya, what, are you on pills?' Fedya tests wryly as the beat lands, leaning on "tabletkakh" ("pill, tablet") before closing the thought with "kostya" ("Kostya").
-- 'No, he is just afraid of his wife.' Barinov picks a thoughtful rhythm during the exchange, linking "prosto" ("just"), "boitsya" ("is afraid"), and "zheny" ("wife") in one brisk exchange.
-- 'Listen, German is taking pills all the time.' Kostya takes a natural stance in front of Fedya, joining "slushayte" ("listen") to "vremya" ("time") so every word pulls its weight.
-- 'Really? What pills is he taking?' Barinov tests steadily at this point, putting "pravda" ("honestly") alongside "tabletki" ("pill, tablet") in a tight, everyday turn of phrase.
-- 'I do not know, he keeps them in his office.' Kostya displays a sharp style in the conversation, combining "znayu" ("know") and "kabinete" ("office") so the key meaning lands right away.
-- 'That is very interesting for us.' Barinov shares a resolute footing without hesitation, anchoring the Russian line on "ochen" ("very much") and "interesno" ("interesting") without extra filler.
-- 'We need to find out what kind of pills these are.' Barinov picks a resolute posture as the scene unfolds, putting "nado" ("it is necessary") alongside "uznat" ("to find out") in a tight, everyday turn of phrase.
+- 'Chef, I have a great idea.' Fedya highlights this key piece in reply: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'Let's swap the face in this video.' Fedya sends that remark briskly now: the word "davayte" is the polite or group version of "let's", inviting Kostya into the plan right away.
+- 'Then they will definitely lock German up fast.' Fedya weighs in steadily before Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Fedya, what, are you a complete idiot?' Barinov emphasizes this vivid word with Kostya: "idiot" means "idiot", and it carries the main weight of what Barinov is saying.
+- 'I am not allowed to drink at all right now.' Kostya voices that reply to Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Kostya, what, are you on pills?' Fedya tests wryly while looking straight at Kostya here.
+- 'No, he is just afraid of his wife.' Barinov chooses this clear choice for Fedya: "boitsya" means "is afraid" (from "boyatsya"), giving the line its exact edge.
+- 'Listen, German is taking pills all the time.' Kostya speaks honestly facing Fedya, shifting the whole mood of the room in a single beat.
+- 'Really? What pills is he taking?' Barinov presses openly whether Fedya really thought this through.
+- 'I do not know, he keeps them in his office.' Kostya features one concrete detail for Fedya: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
+- 'That is very interesting for us.' Barinov shapes this point to Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We need to find out what kind of pills these are.' Barinov holds firm sharply with a smile, refusing to let the moment slip past.

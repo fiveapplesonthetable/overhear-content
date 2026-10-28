@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I am in suite 311, send Dan up to me.' Katya shares a natural manner during the exchange, putting "lyukse" ("in the luxury suite") alongside "otpravlyay" ("send") in a tight, everyday turn of phrase.
-- 'Luxury suite 313 ordered the 'Chef to the Room' Nastya favors an unhurried style across the room, joining "lyuks" ("luxury suite") to "polchasa" ("half-hour") so every word pulls its weight.
-- 'Right, the order.' Barinov establishes a clear tone toward Katya, anchoring the Russian line on "zakaz" ("order") and "vot" ("there, here") without extra filler.
-- 'Lyova, go up there.' Barinov shares a serious note with Nastya, weaving "skhodi" ("go") together with "lyova" ("Lyova") just the way native speakers do.
-- 'Vitya, we do not have a.' Katya brings an unhurried note during the exchange, leaning on "uslugi" ("services") before closing the thought with "vitya" ("Vitya").
-- ''Lyova to the Room' Barinov keeps an easygoing manner with Nastya, weaving "nomer" ("number") together with "idi" ("go") just the way native speakers do.
-- 'Yeah right. I am not a maid to be running around hotel rooms.' Barinov adopts a measured line in the scene, pairing "seychas" ("now") with "gornichnaya" ("maid") to get the point across in plain spoken Russian.
-- 'Mikhail Dzhekovich, tell him, will you?' Nastya wonders plainly beside Katya, putting "skazhite" ("tell") alongside "mikhail" ("Mikhail") in a tight, everyday turn of phrase.
-- 'I actually think Viktor Petrovich is right.' Katya displays a measured attitude at this moment, putting "schitayu" ("am counting") alongside "prav" ("right") in a tight, everyday turn of phrase.
-- 'Maids are the ones who should be running around the rooms.' Barinov brings a measured style in their talk, pairing "nomeram" ("around the rooms") with "dolzhny" ("must, should") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, you should at least go on a diet!' Nastya maintains an unhurried tempo toward Barinov, combining "diyetu" ("diet") and "seli" ("to sit down") so the key meaning lands right away.
-- 'You can keep the tips for yourself!' Nastya asks sharply toward Katya here, pairing "chi" ("tips") with "mozhet" ("can") to get the point across in plain spoken Russian.
+- 'Nastya, I am in suite 311, send Dan up to me.' Katya opens up steadily with a nod, to clear the air between them once and for all.
+- 'Luxury suite 313 ordered the 'Chef to the Room' Nastya speaks up sharply watching Katya, shifting the whole mood of the room in a single beat.
+- 'Right, the order.' Barinov anchors one key expression right here: "zakaz" means "order", and it carries the main weight of what Barinov is saying.
+- 'Lyova, go up there.' Barinov hands over that answer for Nastya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Vitya, we do not have a.' Katya continues boldly to settle things, grounding the moment in plain reality.
+- ''Lyova to the Room' Barinov stresses one classic detail with Nastya: "nomer" means "number", and it carries the main weight of what Barinov is saying.
+- 'Yeah right. I am not a maid to be running around hotel rooms.' Barinov features this telling word toward Katya: "gornichnaya" means "maid", and it carries the main weight of what Barinov is saying.
+- 'Mikhail Dzhekovich, tell him, will you?' Nastya probes earnestly what Katya is actually getting at here.
+- 'I actually think Viktor Petrovich is right.' Katya colors this telling detail with Barinov: "schitayu" means "am counting" (from "schitat"), giving the line its exact edge.
+- 'Maids are the ones who should be running around the rooms.' Barinov continues promptly without holding back, testing Nastya's reaction in the middle of the exchange.
+- 'Viktor Petrovich, you should at least go on a diet!' Nastya chimes in decisively hearing Barinov, bringing things back to earth after the buildup.
+- 'You can keep the tips for yourself!' Nastya spotlights one vivid expression in earnest: "ostavit" means "to keep, to leave", and it carries the main weight of what Nastya is saying.

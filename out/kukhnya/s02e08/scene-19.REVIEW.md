@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then that is his own business.' Kostya sets an emphatic note for Max, building the phrase around "delo" ("matter") and "to" ("that") for a crisp, natural delivery.
-- 'And there is no need to yell at Nastya.' Nastya shares an unhurried view as the scene unfolds, putting "nado" ("it is necessary") alongside "orat" ("to yell, to bellow") in a tight, everyday turn of phrase.
-- 'Nastya, Kostya, please stop.' Max sustains a natural posture as they talk, weaving "perestante" ("stop it") together with "nastya" ("Nastya") just the way native speakers do.
-- 'Who do you think you are?' Nastya presses frankly beside Max, putting "ty" ("you") alongside "kto" ("who") in a tight, everyday turn of phrase.
-- 'Come on, let us step outside.' Kostya presents a firm tack during the exchange, putting "poydem" ("let's go") alongside "vyydem" ("to go out, to get out") in a tight, everyday turn of phrase.
-- 'What do you think you are doing?' Nastya inquires pointedly as the talk turns, putting "dumayesh" ("think") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'And what will she do for you?' Kostya checks quietly as the talk turns, linking "ona" ("it"), "tebya" ("you"), and "chto" ("what") in one brisk exchange.
-- 'Love you more for it?' Nastya asks decisively without holding back, anchoring the Russian line on "lyubit" ("love") and "bolshe" ("more") without extra filler.
-- 'Those are her principles, right?' Kostya presses evenly right away, placing "printsipy" ("principles") straight beside "eto" ("this") with no word for "to be" needed.
-- 'I respect them, and you ought to respect them too.' Nastya sustains a warm stance without hesitation, joining "uvazhayu" ("to respect") to "dolzhny" ("must, should") so every word pulls its weight.
-- 'You will not have to beg me for long.' Kostya chooses a lively course toward Max, pairing "pridetsya" ("will have to") with "prosit" ("to ask, to beg") so the "-sya" ending carries the action.
-- 'Dad, we do not drink alcohol.' Nastya presents a measured note in the conversation, joining "papa" ("Dad") to "pyem" ("to drink") so every word pulls its weight.
-- 'Want some cognac?' Kostya questions directly to Max here, pairing "konyak" ("cognac, brandy") with "budesh" ("will") to get the point across in plain spoken Russian.
+- 'Then that is his own business.' Kostya spotlights this sharp word right here: "delo" means "matter", and it carries the main weight of what Kostya is saying.
+- 'And there is no need to yell at Nastya.' Nastya sends the thought plainly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Nastya, Kostya, please stop.' Max stands firm plainly with a nod, steering the talk right where he wants it.
+- 'Who do you think you are?' Nastya lays out that point with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Come on, let us step outside.' Kostya delivers that point plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What do you think you are doing?' Nastya asks firmly if there is more going on behind the scenes.
+- 'And what will she do for you?' Kostya directs that reply around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Love you more for it?' Nastya drops the reaction with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Those are her principles, right?' Kostya presses promptly whether Max really thought this through.
+- 'I respect them, and you ought to respect them too.' Nastya uses one classic touch with Max: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'You will not have to beg me for long.' Kostya sends the thought for Max: the "-sya" ending on "pridetsya" ("will have to") turns the action inward or makes it happen between people naturally.
+- 'Dad, we do not drink alcohol.' Nastya follows up steadily during the talk, watching Max's face to see how the news lands.
+- 'Want some cognac?' Kostya anchors this vivid word with Max: "konyak" means "cognac, brandy", and it carries the main weight of what Kostya is saying.

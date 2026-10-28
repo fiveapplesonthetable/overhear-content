@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will finish their tea now and leave.' Lyova brings a resolute tempo without hesitation, pairing "seychas" ("now") with "chay" ("tea") to get the point across in plain spoken Russian.
-- 'Why did you shave off your mustache today?' Elena quizzes steadily without a pause, weaving "zachem" ("what for") together with "usy" ("mustache") just the way native speakers do.
-- 'Anya told me that it suits you very well.' Elena picks a wry tone as they talk, putting "skazala" ("told") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'I just got tired of that old mustache.' Lyova favors a frank course with Gulya, linking "prosto" ("just"), "nadoyeli" ("to bore"), and "staryye" ("old") in one brisk exchange.
-- 'You know, to be honest, I was tired of it too.' Elena shows a frank attitude across the room, linking "znayesh" ("know"), "chestno" ("honestly"), and "tozhe" ("too") in one brisk exchange.
-- 'Tonight I will come pick you up myself.' Elena brings a lively manner for Lyova, anchoring the Russian line on "segodnya" ("today") and "vecherom" ("in the evening") without extra filler.
-- 'Lyova, we need to have a serious talk.' Gulya brings a brisk approach at this moment, building the phrase around "nado" ("it is necessary") and "seryozno" ("seriously") for a crisp, natural delivery.
-- 'Alright, I will just wheel this cart away.' Lyova offers a clear posture right away, weaving "khorosho" ("good, fine") together with "tolko" ("only") just the way native speakers do.
-- 'No, right now, stop running away from me already!' Gulya maintains an earnest tack right away, anchoring the Russian line on "seychas" ("now") and "khvatit" ("enough") without extra filler.
-- 'Just so you know, I will not abandon you.' Gulya projects an honest tempo beside Lyova, weaving "znal" ("knew") together with "broshu" ("will abandon") just the way native speakers do.
-- 'Until the very last day I will be with you.' Gulya chooses an unhurried course as they talk, combining "samogo" ("the very") and "poslednego" ("the last") so the key meaning lands right away.
-- 'Well alright, I am very glad to hear that.' Lyova conveys a measured mood as the scene unfolds, leaning on "khorosho" ("good, fine") before closing the thought with "ochen" ("very much").
+- 'They will finish their tea now and leave.' Lyova frames this answer with warmth: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Why did you shave off your mustache today?' Elena probes evenly if there is more going on behind the scenes.
+- 'Anya told me that it suits you very well.' Elena chooses one familiar touch right here: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'I just got tired of that old mustache.' Lyova aims that answer around Gulya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'You know, to be honest, I was tired of it too.' Elena steps in calmly hearing Gulya, to clear the air between them once and for all.
+- 'Tonight I will come pick you up myself.' Elena reaches for one practical term at once: "segodnya" means "today", and it carries the main weight of what Elena is saying.
+- 'Lyova, we need to have a serious talk.' Gulya states that answer around Elena: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Alright, I will just wheel this cart away.' Lyova weighs in sharply around Gulya, without trying to dress up how he really feels.
+- 'No, right now, stop running away from me already!' Gulya spotlights one key term for Elena: "seychas" means "now", and it carries the main weight of what Gulya is saying.
+- 'Just so you know, I will not abandon you.' Gulya sharpens one practical element for Lyova: "broshu" means "will abandon" (from "brosit"), giving the line its exact edge.
+- 'Until the very last day I will be with you.' Gulya responds candidly to settle things, watching Elena's face to see how the news lands.
+- 'Well alright, I am very glad to hear that.' Lyova emphasizes one classic choice with Gulya: "khorosho" means "good, fine", and it carries the main weight of what Lyova is saying.

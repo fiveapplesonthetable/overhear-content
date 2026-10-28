@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Timur, did I wake you up?' Barinov questions lightly beside Max, building the phrase around "razbudil" ("to wake up") and "allo" ("hello") for a crisp, natural delivery.
-- 'No, everything is fine, what happened?' Timur challenges firmly to make the point, pairing "normalno" ("fine, OK") with "sluchilos" ("happened") to get the point across in plain spoken Russian.
-- 'Do you remember you brought me fish today?' Barinov inquires boldly to keep things clear, weaving "pomnish" ("do you remember") together with "segodnya" ("today") just the way native speakers do.
-- 'Yes, I remember, and what is wrong with it?' Timur queries honestly to keep things clear, linking "pomnyu" ("remember"), "da" ("yes"), and "chto" ("what") in one brisk exchange.
-- 'Could this fish be bad too?' Timur probes honestly as the beat lands, weaving "ryba" ("fish") together with "tozhe" ("too") just the way native speakers do.
-- 'Wait, in what sense 'too'?' Barinov presses bluntly across the room, putting "podozhdi" ("wait") alongside "smysle" ("sense") in a tight, everyday turn of phrase.
-- 'Well, you did not like the morning fish.' Timur picks a pointed note for Barinov, linking "utrennyaya" ("morning"), "ryba" ("fish"), and "ponravilas" ("pleased") in one brisk exchange.
-- 'So I brought you fresh Norwegian fish.' Timur strikes a sharp tack across the room, joining "privyoz" ("brought") to "svezhuyu" ("fresh") so every word pulls its weight.
-- 'I get it illegally through Kazakhstan.' Timur brings a direct rhythm as the scene unfolds, combining "kazakhstan" ("kazakhstan") and "nelegalno" ("kazakhstan") so the key meaning lands right away.
-- 'And can you bring the morning batch?' Barinov queries calmly in their exchange, putting "mozhesh" ("can") alongside "privezti" ("to bring") in a tight, everyday turn of phrase.
-- 'That morning Yakutian one, I really need it!' Barinov adopts a natural line without hesitation, pairing "utrennyuyu" ("morning") with "yakutskuyu" ("really") to get the point across in plain spoken Russian.
-- 'Fine, I will bring it, just do not get worked up.' Timur picks a wry note in this beat, using "privezu" (from "privezti", "will bring") alongside "tolko" ("only") to shape the meaning.
-- 'Yes, Sasha, we are pulling up, where are you?' Max prompts promptly as they speak, anchoring the Russian line on "podyezzhayem" ("drive up, approach") and "gde" ("where") without extra filler.
+- 'Hello, Timur, did I wake you up?' Barinov probes promptly to see how Max will answer on the spot.
+- 'No, everything is fine, what happened?' Timur spotlights this sharp expression with Max: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'Do you remember you brought me fish today?' Barinov sends this point beside Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Yes, I remember, and what is wrong with it?' Timur wonders sharply how Max expects that to work in practice.
+- 'Could this fish be bad too?' Timur uses one memorable element toward Barinov: "plokhaya" means "bad" (from "plokhoy"), giving the line its exact edge.
+- 'Wait, in what sense 'too'?' Barinov shares the reply briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Timur purely through rising pitch at the end.
+- 'Well, you did not like the morning fish.' Timur holds firm briskly on the spot, saying out loud what both of them already know.
+- 'So I brought you fresh Norwegian fish.' Timur sharpens one direct expression right here: "norvezhskuyu" means "fish" (from "norvezhskiy"), giving the line its exact edge.
+- 'I get it illegally through Kazakhstan.' Timur continues honestly in this moment, steering the talk right where he wants it.
+- 'And can you bring the morning batch?' Barinov presses bluntly what Timur is actually getting at here.
+- 'That morning Yakutian one, I really need it!' Barinov picks one familiar element right here: "utrennyuyu" means "morning" (from "utrenniy"), giving the line its exact edge.
+- 'Fine, I will bring it, just do not get worked up.' Timur frames the reply calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
+- 'Yes, Sasha, we are pulling up, where are you?' Max challenges calmly about what Barinov just brought up.

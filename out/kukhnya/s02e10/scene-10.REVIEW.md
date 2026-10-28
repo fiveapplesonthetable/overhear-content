@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' Barinov questions firmly without holding back, putting "chto" ("what") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'He is going to live with us.' Vika takes a sharp tone as they talk, joining "budet" ("will be") to "zhit" ("to live") so every word pulls its weight.
-- 'And what do we need him for?' Barinov quizzes earnestly across the room, linking "zachem" ("what for"), "on" ("he"), and "nam" ("us") in one brisk exchange.
-- 'Come on, look how cool he is.' Vika offers a lively attitude in this beat, weaving "smotri" ("look") together with "prikolnyy" ("cool") just the way native speakers do.
-- 'Please, please, please.' Barinov picks a clear posture in the scene, letting the single Russian word "pozhaluysta" ("please") carry the entire reaction on its own.
-- 'All right, fine.' Vika maintains a serious position in their talk, combining "nu" ("oh, come on") and "ladno" ("all right") so the key meaning lands right away.
-- 'Look, he can barely walk.' Barinov favors an honest course on the spot, linking "smotri" ("look"), "yele" ("barely, hardly"), and "khodit" ("walks") in one brisk exchange.
-- 'Oh, come on.' Vika shows a direct stance during the exchange, anchoring the Russian line on "nu" ("oh, come on") and "net" ("no") without extra filler.
-- 'Are you expected?' Barinov checks promptly to make the point, using "ozhidayut" (from "ozhidat", "to expect, to wait for") alongside "vas" ("you") to shape the meaning.
-- 'How may I help you?' Vika checks openly as the talk turns, combining "mogu" ("can") and "pomoch" ("to help") so the key meaning lands right away.
-- 'Yes, that is our head chef.' Barinov strikes a brisk footing in the conversation, pairing "shef-povar" ("head chef") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'And where is he?' Vika challenges evenly toward Barinov here, building the phrase around "gde" ("where") and "on" ("he") for a crisp, natural delivery.
-- 'Perhaps you would like to take a seat?' Barinov queries briskly with Vika now, leaning on "mozhet" ("can") before closing the thought with "prisyadete" ("to sit down").
+- 'What is this?' Barinov delivers this warning calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is going to live with us.' Vika speaks sharply with a shrug, so Barinov knows she is not just making small talk.
+- 'And what do we need him for?' Barinov inquires plainly as Vika tries to explain the situation.
+- 'Come on, look how cool he is.' Vika points to one loaded word at once: "prikolnyy" means "cool", and it carries the main weight of what Vika is saying.
+- 'Please, please, please.' Barinov hands over this warning before Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'All right, fine.' Vika chimes in promptly toward Barinov, saying out loud what both of them already know.
+- 'Look, he can barely walk.' Barinov leans on one telling expression toward Vika: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'Oh, come on.' Vika directs that thought for Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Are you expected?' Barinov quizzes deadpan while looking straight at Vika here.
+- 'How may I help you?' Vika anchors one key element toward Barinov: "pomoch" means "to help", and it carries the main weight of what Vika is saying.
+- 'Yes, that is our head chef.' Barinov shapes that answer around Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And where is he?' Vika quizzes calmly where this conversation is heading next.
+- 'Perhaps you would like to take a seat?' Barinov centers one clear term on cue: "prisyadete" means "to sit down" (from "prisest"), giving the line its exact edge.

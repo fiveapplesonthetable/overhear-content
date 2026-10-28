@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, forgive me, Chef, I ruined your suit.' Ainura maintains an earnest position in the room, leaning on "prostite" ("excuse me") before closing the thought with "isportila" ("ruined, spoiled").
-- 'Did you really ruin it just now?' Barinov questions dryly in this moment, building the phrase around "seychas" ("now") and "isportila" ("ruined, spoiled") for a crisp, natural delivery.
-- 'Now you definitely ruined it, thank you, Ainura.' Barinov shows a calm position in this beat, putting "teper" ("now") alongside "tochno" ("definitely") in a tight, everyday turn of phrase.
-- 'Lena, well how can I go to respectable people looking like this?' Barinov questions firmly with Elena now, combining "kuda" ("where to") and "prilichnym" ("decent, respectable") so the key meaning lands right away.
-- 'Yes, looking like that, definitely nowhere.' Elena brings a natural footing at this moment, leaning on "vide" ("state") before closing the thought with "tochno" ("definitely").
-- 'That is just what I am telling you about.' Barinov displays a resolute course in the scene, putting "govoryu" ("am telling") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
-- 'Fortunately, where we are going, you will not need a suit.' Elena shares a serious stance in this beat, weaving "schastyu" ("happiness, good fortune") together with "tam" ("there") just the way native speakers do.
-- 'Lena, I feel like a complete idiot.' Barinov takes a grounded line in front of Elena, weaving "chuvstvuyu" ("feel") together with "polnym" ("full, complete") just the way native speakers do.
-- 'And what is more, an idiot who dressed so strangely.' Barinov strikes a wry rhythm during the exchange, linking "idiotom" ("idiot"), "stranno" ("strange"), and "odelsya" ("dressed") in one brisk exchange.
-- 'Stop it, everyone is dressed like that here, and you have slender legs.' Elena takes a steady note at this moment, leaning on "perestan" ("stop") before closing the thought with "zdes" ("here").
-- 'May I go to the restroom first?' Barinov checks dryly during the talk, linking "mogu" ("can"), "snachala" ("first, at first"), and "skhodit" ("to go") in one brisk exchange.
-- 'Of course you may, just make it quick.' Elena presents a natural course toward Barinov, anchoring the Russian line on "konechno" ("of course") and "mozhesh" ("can") without extra filler.
+- 'Oh, forgive me, Chef, I ruined your suit.' Ainura chimes in boldly to be clear, so Barinov knows she is not just making small talk.
+- 'Did you really ruin it just now?' Barinov underscores one sharp element in earnest: "isportila" means "ruined, spoiled" (from "isportit"), giving the line its exact edge.
+- 'Now you definitely ruined it, thank you, Ainura.' Barinov gives the thought without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Lena, well how can I go to respectable people looking like this?' Barinov asks sharply how Elena expects that to work in practice.
+- 'Yes, looking like that, definitely nowhere.' Elena centers one direct detail on cue: "vide" means "state", and it carries the main weight of what Elena is saying.
+- 'That is just what I am telling you about.' Barinov colors one vivid expression at once: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
+- 'Fortunately, where we are going, you will not need a suit.' Elena opens up briskly in this moment, so Ainura knows she is not just making small talk.
+- 'Lena, I feel like a complete idiot.' Barinov grounds one telling piece for Elena: "chuvstvuyu" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'And what is more, an idiot who dressed so strangely.' Barinov replies sharply to settle things, leaving no doubt about where he stands.
+- 'Stop it, everyone is dressed like that here, and you have slender legs.' Elena speaks decisively with a smile, bringing things back to earth after the buildup.
+- 'May I go to the restroom first?' Barinov picks one telling touch toward Ainura: "snachala" means "first, at first", and it carries the main weight of what Barinov is saying.
+- 'Of course you may, just make it quick.' Elena directs the thought toward Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

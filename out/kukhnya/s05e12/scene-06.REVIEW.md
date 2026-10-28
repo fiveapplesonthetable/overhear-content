@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turned out so awkwardly, really.' Vika displays a warm note in the conversation, combining "neudobno" ("awkward, uncomfortable") and "poluchilos" ("worked out") so the key meaning lands right away.
-- 'I called Max tonight.' Vika presents an easygoing tempo across the room, putting "pozvonila" ("phoned") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'I understand, hormones are acting up. I simply wanted stewed meat!' Vika picks an earnest line without hesitation, joining "ponimayu" ("understand") to "gormony" ("hormones") so every word pulls its weight.
-- 'Ainura, please get my suit ready for the evening.' Barinov projects a sharp view straight away, weaving "prigotov" ("prepare") together with "vecheru" ("evening") just the way native speakers do.
-- 'Lyova, the most delicious duck of your life is on you!' Barinov maintains an easygoing approach across the room, combining "samaya" ("most") and "vkusnaya" ("tasty") so the key meaning lands right away.
-- 'Does anyone know where the nearest jewelry store is around here?' Barinov inquires honestly in the scene, building the phrase around "znayet" ("knows") and "gde" ("where") for a crisp, natural delivery.
-- 'Next to the flower shop, across the street.' Senya sustains a pointed course straight away, anchoring the Russian line on "ryadom" ("nearby") and "tsvetochnym" ("flower") without extra filler.
-- 'It looks like the chef is going to propose to Elena!' Senya projects a measured direction at once, joining "pokhodu" ("apparently") to "sobirayetsya" ("to intend") so every word pulls its weight.
-- 'Well judge for yourselves: a suit, a jewelry store!' Senya sustains a pointed view in their talk, using "posudite" (from "posudit", "judge, consider") alongside "kostyum" ("suit") to shape the meaning.
-- 'No, guys, everything is clear here.' Vika keeps a thoughtful approach on the spot, building the phrase around "rebyat" ("kids, guys") and "tut" ("here") for a crisp, natural delivery.
-- 'Today he will give her a gift, tomorrow she will let him go to the bar.' Vika shows an unhurried tone in the room, combining "segodnya" ("today") and "podarok" ("gift, voucher") so the key meaning lands right away.
-- 'We will see tonight!' Senya keeps an easygoing course as the scene unfolds, putting "posmotrim" ("have a look") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
+- 'It turned out so awkwardly, really.' Vika pushes back evenly across the room, so Barinov knows she is not just making small talk.
+- 'I called Max tonight.' Vika reaches for one classic element toward Senya: "pozvonila" means "phoned" (from "pozvonit"), giving the line its exact edge.
+- 'I understand, hormones are acting up. I simply wanted stewed meat!' Vika hands over the comeback frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Ainura, please get my suit ready for the evening.' Barinov jumps in frankly toward Vika, without trying to dress up how he really feels.
+- 'Lyova, the most delicious duck of your life is on you!' Barinov highlights this direct element at once: "vkusnaya" means "tasty" (from "vkusnyy"), giving the line its exact edge.
+- 'Does anyone know where the nearest jewelry store is around here?' Barinov sends this point on cue: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Next to the flower shop, across the street.' Senya stands firm frankly in their talk, watching Barinov's face to see how the news lands.
+- 'It looks like the chef is going to propose to Elena!' Senya leans on one concrete element in reply: "predlozheniye" means "offer, proposal", and it carries the main weight of what Senya is saying.
+- 'Well judge for yourselves: a suit, a jewelry store!' Senya stands firm wryly watching Barinov, making his position completely clear.
+- 'No, guys, everything is clear here.' Vika counters calmly with a shrug, leaving no doubt about where she stands.
+- 'Today he will give her a gift, tomorrow she will let him go to the bar.' Vika points to one vivid touch on cue: "podarok" means "gift, voucher", and it carries the main weight of what Vika is saying.
+- 'We will see tonight!' Senya states that remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

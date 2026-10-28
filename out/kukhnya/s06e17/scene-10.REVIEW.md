@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The hotel guests are complaining about loud noise.' Mikhail keeps a sharp angle right away, joining "postoyaltsy" ("hotel guests") to "zhaluyutsya" ("complain") so every word pulls its weight.
-- 'And what are you doing here?' Mikhail wonders sharply during the talk, pairing "tut" ("here") with "delayesh" ("are you doing") to get the point across in plain spoken Russian.
-- 'I brought a dish from the chef.' Fedya keeps a brisk mood on the spot, leaning on "prinyos" ("brought") before closing the thought with "blyudo" ("dish").
-- 'And who is mooing loudly in there?' Mikhail questions warmly for Fedya's benefit, pairing "tam" ("there") with "gromko" ("on speaker") to get the point across in plain spoken Russian.
-- 'That is just from great pleasure.' Fedya chooses a direct style in the conversation, combining the softening word "prosto" ("simply, just") with "bolshogo" ("big") to give the line its natural spoken rhythm.
-- 'That is it, go away from here quickly.' Mikhail sets a brisk tone toward Fedya, joining "bystro" ("quickly") to "idi" ("go") so every word pulls its weight.
-- 'It seems we did not get caught here.' Fedya presents an earnest tone toward Barinov, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "tut" ("here").
-- 'Why do you poke your nose everywhere?' Barinov inquires honestly toward Mikhail here, putting "zachem" ("what for") alongside "suyosh" ("you poke, stick") in a tight, everyday turn of phrase.
-- 'We need to decide something, Chef.' Fedya shares a direct stance toward Barinov, pairing "nado" ("it is necessary") with "reshat" ("decide, solve") to get the point across in plain spoken Russian.
-- 'We are already running out of vases.' Fedya projects an easygoing direction in the room, leaning on "uzhe" ("already, now") before closing the thought with "vazy" ("vases").
-- 'He hanged himself out of jealousy.' Fedya sustains a natural mood without hesitation, joining "revnosti" ("jealousy") to "povesilsya" ("hang oneself") so every word pulls its weight.
-- 'Nobody is going to die here today!' Barinov adopts an earnest tack in front of Mikhail, anchoring the Russian line on "segodnya" ("today") and "zdes" ("here") without extra filler.
+- 'The hotel guests are complaining about loud noise.' Mikhail favors one classic piece with Barinov: "postoyaltsy" means "hotel guests" (from "postoyalets"), giving the line its exact edge.
+- 'And what are you doing here?' Mikhail directs that remark without pause: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'I brought a dish from the chef.' Fedya counters openly with Barinov, shifting the whole mood of the room in a single beat.
+- 'And who is mooing loudly in there?' Mikhail anchors this clear detail for Fedya: "gromko" means "on speaker", and it carries the main weight of what Mikhail is saying.
+- 'That is just from great pleasure.' Fedya shares this warning without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'That is it, go away from here quickly.' Mikhail answers right away as they talk, steering the talk right where he wants it.
+- 'It seems we did not get caught here.' Fedya anchors one practical detail in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Why do you poke your nose everywhere?' Barinov sends that answer with ease: putting the question word "zachem" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'We need to decide something, Chef.' Fedya opens up lightly with a shrug, shifting the whole mood of the room in a single beat.
+- 'We are already running out of vases.' Fedya sharpens one classic term on cue: "konchayutsya" means "are running out" (from "konchatsya"), giving the line its exact edge.
+- 'He hanged himself out of jealousy.' Fedya stands firm sharply without holding back, letting the remark speak for itself.
+- 'Nobody is going to die here today!' Barinov reacts warmly with a shrug, shifting the whole mood of the room in a single beat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, bring cold ice here quickly!' Fedya maintains a firm direction in front of the inspector, pairing "sluchilos" ("happened") with "dayte" ("give") to get the point across in plain spoken Russian.
-- 'Look, he broke his finger after all!' Fedya maintains a steady manner in this beat, pairing "smotrite" ("look") with "slomal" ("broke") to get the point across in plain spoken Russian.
-- 'Come on, show me your hand quickly.' Fedya holds a serious attitude at this moment, linking "pokazhi" ("show"), "skoreye" ("quickly, right away"), and "ruku" ("hand") in one brisk exchange.
-- 'Your insurance policy was valid right until yesterday.' The inspector displays a resolute rhythm right away, pairing "strakhovoy" ("insurance") with "polis" ("insurance policy") to get the point across in plain spoken Russian.
-- 'Yes, quite right, I remember that very well.' Senya sets a lively style as they talk, joining "sovershenno" ("quite, completely") to "verno" ("right, true") so every word pulls its weight.
-- 'And you received the hospital certificate late at night.' The inspector picks a brisk line in the conversation, pairing "spravku" ("medical certificate") with "bolnitse" ("the hospital") to get the point across in plain spoken Russian.
-- 'That means you simply missed the deadline by a little.' The inspector projects a warm mood in the room, combining the softening word "prosto" ("simply, just") with "yest" ("there is") to give the line its natural spoken rhythm.
-- 'I do not get it, will I not receive the money now?' Senya presses calmly as the talk turns, combining "ponyal" ("understood") and "deneg" ("money") so the key meaning lands right away.
-- 'Alas, a payout under this policy is no longer possible.' The inspector sustains a steady view in the conversation, joining "vyplata" ("payout, payment") to "polisu" ("insurance policy") so every word pulls its weight.
-- 'So it turns out I broke my finger completely in vain?' Senya quizzes briskly across the room, leaning on "vykhodit" ("goes out") before closing the thought with "sovershenno" ("quite, completely").
-- 'Your clever scheme to make money today did not work out, Senya.' Fedya sustains a direct view as they talk, anchoring the Russian line on "poluchilos" ("worked out") and "segodnya" ("today") without extra filler.
-- 'Tell me, shall we sign you up for a new insurance policy?' The inspector tests naturally from the start, using "skazhite" (from "skazat", "tell") alongside "novyy" ("new") to shape the meaning.
+- 'What happened, bring cold ice here quickly!' Fedya chimes in plainly beside the inspector, before the inspector can change the subject.
+- 'Look, he broke his finger after all!' Fedya chimes in firmly across the room, shifting the whole mood of the room in a single beat.
+- 'Come on, show me your hand quickly.' Watch how Fedya replies to the inspector plainly here — the Russian word "pokazhi" ("show", built from "pokazat") does the heavy lifting.
+- 'Your insurance policy was valid right until yesterday.' The inspector features this vivid choice toward Senya: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
+- 'Yes, quite right, I remember that very well.' Senya answers evenly watching Fedya, before Fedya can change the subject.
+- 'And you received the hospital certificate late at night.' The inspector anchors one pointed touch on cue: "bolnitse" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
+- 'That means you simply missed the deadline by a little.' The inspector shares that remark before Fedya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I do not get it, will I not receive the money now?' Senya quizzes frankly before the inspector can change the subject.
+- 'Alas, a payout under this policy is no longer possible.' The inspector uses one concrete detail on cue: "nevozmozhna" means "impossible" (from "nevozmozhnyy"), giving the line its exact edge.
+- 'So it turns out I broke my finger completely in vain?' Senya hands over the comeback briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for the inspector purely through rising pitch at the end.
+- 'Your clever scheme to make money today did not work out, Senya.' Fedya stands firm honestly with the inspector, to clear the air between them once and for all.
+- 'Tell me, shall we sign you up for a new insurance policy?' The inspector underscores one sharp touch at once: "strakhovoy" means "insurance", and it carries the main weight of what the inspector is saying.

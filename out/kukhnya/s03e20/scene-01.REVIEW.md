@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, please marry me!' Max conveys a warm tack right away, linking "vykhodi" ("go out, marry"), "zamuzh" ("in marriage"), and "vika" ("Vika") in one brisk exchange.
-- 'Max, why on earth did you climb onto a horse?' Vika questions dryly without holding back, anchoring the Russian line on "zachem" ("what for") and "voobshche" ("at all") without extra filler.
-- 'Vika, from the very first day of our meeting!' Max shows a brisk line in the scene, using "samogo" (from "samyy", "the very") alongside "pervogo" ("first") to shape the meaning.
-- 'Max, you need not continue, my answer is no!' Vika holds a sharp tempo as they talk, using "mozhesh" (from "moch", "can") alongside "prodolzhat" ("to continue") to shape the meaning.
-- 'Why no? Vika, wait, please!' Max probes earnestly with Vika now, joining "pochemu" ("why") to "postoy" ("wait") so every word pulls its weight.
-- 'Wait a second, how on earth did I end up here?' Max asks calmly to Vika here, pairing "podozhdite" ("wait") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'You just fell hard off a horse.' Vika keeps a brisk tempo beside Max, linking "tolko" ("only"), "silno" ("strongly, much"), and "upal" ("fell") in one brisk exchange.
-- 'Does your head hurt badly right now?' Vika asks dryly as the beat lands, leaning on "seychas" ("now") before closing the thought with "silno" ("strongly, much").
-- 'Vika, forgive me for running away from you in the morning.' Max keeps a serious mood toward Vika, linking "prosti" ("sorry, forgive me"), "sbezhal" ("escaped, ran away"), and "utrom" ("this morning") in one brisk exchange.
-- 'I was just late for a job interview this morning.' Max sets a sharp course as the scene unfolds, combining "prosto" ("just") and "segodnya" ("today") so the key meaning lands right away.
-- 'Where did you run away to? To what job interview?' Vika asks plainly right away, pairing "kuda" ("where to") with "sbezhal" ("escaped, ran away") to get the point across in plain spoken Russian.
-- 'When I ran out of the apartment, you smashed a vase.' Max shares a serious position at once, anchoring the Russian line on "kogda" ("when") and "kvartiry" ("flat") without extra filler.
-- 'I remember how we met at the club.' Max favors a lively course without hesitation, using "pomnyu" (from "pomnit", "remember") alongside "kak" ("how") to shape the meaning.
-- 'I spent the night at your place and ran off to apply for a job.' Max shows a sharp bearing as they talk, combining "u tebya" (literally "by you") with "perenocheval" ("spent the night") rather than a separate word for "have".
+- 'Vika, please marry me!' Max stresses one classic choice toward Vika: "vykhodi" means "go out, marry" (from "vykhodit"), giving the line its exact edge.
+- 'Max, why on earth did you climb onto a horse?' Vika delivers that thought frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Vika, from the very first day of our meeting!' Max steps in bluntly with a shrug, leaving no doubt about where he stands.
+- 'Max, you need not continue, my answer is no!' Vika picks this key word for Max: "prodolzhat" means "to continue", and it carries the main weight of what Vika is saying.
+- 'Why no? Vika, wait, please!' Max voices the thought frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Wait a second, how on earth did I end up here?' Max prompts plainly what Vika is actually getting at here.
+- 'You just fell hard off a horse.' Vika stresses one classic choice on cue: "loshadi" means "from the horse" (from "loshad"), giving the line its exact edge.
+- 'Does your head hurt badly right now?' Vika drops the thought beside Max: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Vika, forgive me for running away from you in the morning.' Max counters openly as they talk, to clear the air between them once and for all.
+- 'I was just late for a job interview this morning.' Max features this direct term with Vika: "sobesedovaniye" means "interview", and it carries the main weight of what Max is saying.
+- 'Where did you run away to? To what job interview?' Vika drops that point without pause: putting the question word "kuda" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'When I ran out of the apartment, you smashed a vase.' Max opens up frankly with a shrug, grounding the moment in plain reality.
+- 'I remember how we met at the club.' Max underscores this clear touch toward Vika: "poznakomilis" means "met" (from "poznakomitsya"), giving the line its exact edge.
+- 'I spent the night at your place and ran off to apply for a job.' Max shares this line with ease: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.

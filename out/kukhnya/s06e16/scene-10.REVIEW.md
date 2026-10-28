@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, there is a limited number of invitation tickets.' Barinov brings a brisk attitude straight away, joining "tam" ("there") to "ogranichennoye" ("limited") so every word pulls its weight.
-- 'I asked them to save at least a couple for us.' Barinov maintains a natural bearing on the spot, anchoring the Russian line on "prosil" ("ask for") and "ostavit" ("to keep, to leave") without extra filler.
-- 'It is a great pity that they did not give us any.' Elena strikes a warm position in front of Barinov, leaning on "ochen" ("very much") before closing the thought with "zhal" ("it is a pity").
-- 'Vitya, have you seen my tunic?' Elena checks plainly as the beat lands, using "videl" (from "videt", "saw, have seen") alongside "tuniku" ("tunic") to shape the meaning.
-- 'And I love you too, see you tonight!' Barinov conveys a candid posture in this beat, joining "lyublyu" ("love") to "vechera" ("evening") so every word pulls its weight.
-- 'It seems he has gone completely deaf already.' Elena conveys a candid bearing right away, pairing "kazhetsya" ("it seems, I think") with "uzhe" ("already, now") so the "-sya" ending carries the action.
-- 'Are you carrying meat for the costume designer again?' Mikhail inquires warmly from the start, building the phrase around "opyat" ("again") and "nesyote" ("to carry, to bring") for a crisp, natural delivery.
-- 'I checked, nobody lives in that room.' Mikhail displays a resolute tack in front of Elena, linking "uznaval" ("to recognise"), "nomere" ("in the hotel room"), and "zhivyot" ("lives") in one brisk exchange.
-- 'You are carrying food past our cash register!' Mikhail displays an honest tone across the room, leaning on "nosite" ("wear") before closing the thought with "yedu" ("am driving").
-- 'I will deduct the cost from your salary.' Mikhail shares a direct manner in this beat, combining "vychtu" ("salary") and "stoimost" ("to cost") so the key meaning lands right away.
-- 'Alright, a noble goal justifies the means after all.' Barinov adopts a lively posture toward Elena, pairing "vysokaya" ("high, tall") with "tsel" ("goal") to get the point across in plain spoken Russian.
-- 'Too bad yesterday's handsome bartender is not around.' Elena shows a serious rhythm for Mikhail, joining "zhal" ("it is a pity") to "vidno" ("one can see") so every word pulls its weight.
+- 'Lena, there is a limited number of invitation tickets.' Barinov anchors one sharp word right here: "priglasitelnykh" means "invitation" (from "priglasitelnyy"), giving the line its exact edge.
+- 'I asked them to save at least a couple for us.' Barinov chimes in right away as they talk, grounding the moment in plain reality.
+- 'It is a great pity that they did not give us any.' Elena replies at once with a shrug, so Barinov knows she is not just making small talk.
+- 'Vitya, have you seen my tunic?' Elena picks this clear element toward Mikhail: "tuniku" means "tunic" (from "tunika"), giving the line its exact edge.
+- 'And I love you too, see you tonight!' Barinov underscores one key touch at once: "vechera" means "evening" (from "vecher"), giving the line its exact edge.
+- 'It seems he has gone completely deaf already.' Elena fires back decisively as they talk, letting the remark speak for itself.
+- 'Are you carrying meat for the costume designer again?' Mikhail uses one memorable touch in reply: "kostyumera" means "costume designer" (from "kostyumer"), giving the line its exact edge.
+- 'I checked, nobody lives in that room.' Mikhail makes that answer with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'You are carrying food past our cash register!' Mikhail pushes back lightly to be clear, without trying to dress up how he really feels.
+- 'I will deduct the cost from your salary.' Mikhail spotlights one vivid touch at once: "stoimost" means "to cost", and it carries the main weight of what Mikhail is saying.
+- 'Alright, a noble goal justifies the means after all.' Barinov delivers the reaction with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Elena is on board.
+- 'Too bad yesterday's handsome bartender is not around.' Elena steps in quietly around Mikhail, testing Mikhail's reaction in the middle of the exchange.

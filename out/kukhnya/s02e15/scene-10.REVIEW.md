@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, who can lend me some money, huh?' Barinov checks candidly to keep things clear, linking "narod" ("the people"), "deneg" ("money"), and "mozhet" ("can") in one brisk exchange.
-- 'How to refuse when someone asks for money.' Max maintains a warm mood on the spot, linking "kak" ("how"), "otkazat" ("to refuse, to turn down"), and "dengakh" ("money") in one brisk exchange.
-- 'Pretend that you did not hear properly.' Barinov adopts a calm line during the exchange, combining "sdelat" ("to do") and "vid" ("view") so the key meaning lands right away.
-- 'What? Huh?' Max queries bluntly without hesitation, putting all the weight on "che" ("what") so the reply lands immediately.
-- 'I cannot hear you.' Barinov establishes an easygoing tack as they talk, combining "slyshu" ("hear") and "ya" ("I") so the key meaning lands right away.
-- 'Pretend that you are about to help out.' Max maintains a wry manner for Barinov, pairing "sdelat" ("to do") with "vid" ("view") to get the point across in plain spoken Russian.
-- 'Well... Let me see.' Barinov establishes a firm direction in the scene, letting the single Russian word "nu" ("oh, come on") carry the entire reaction on its own.
-- 'Yeah. Just a second.' Max favors an unhurried tack in front of Barinov, joining "seychas" ("now") to "aga" ("yeah, right") so every word pulls its weight.
-- 'Stage three.' Barinov strikes a brisk style toward Max, anchoring the Russian line on "tretiy" ("the third") and "etap" ("stage, phase") without extra filler.
-- 'I do not have any.' Max strikes a serious posture in the scene, weaving "net" ("no") together with "menya" ("me") just the way native speakers do.
-- 'What were you asking for?' Barinov questions quietly to keep things clear, using "sprashival" (from "sprashivat", "asked") alongside "chto" ("what") to shape the meaning.
-- 'I can lend it to you.' Max holds an unhurried line at once, building the phrase around "mogu" ("can") and "zanyat" ("to borrow") for a crisp, natural delivery.
-- 'Oh, get lost.' Barinov conveys a sharp posture across the room, linking "poshel" ("go, off you go"), "da" ("yes"), and "ty" ("you") in one brisk exchange.
+- 'Folks, who can lend me some money, huh?' Barinov underscores one memorable piece with Max: "narod" means "the people", and it carries the main weight of what Barinov is saying.
+- 'How to refuse when someone asks for money.' Max aims the comeback in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Pretend that you did not hear properly.' Barinov reacts frankly with Max, bringing things back to earth after the buildup.
+- 'What? Huh?' Max states the comment briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I cannot hear you.' Barinov sends this statement right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Pretend that you are about to help out.' Max chimes in bluntly as they talk, steering the talk right where he wants it.
+- 'Well... Let me see.' Barinov drops this warning to Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Yeah. Just a second.' Max offers this answer plainly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Stage three.' Barinov replies honestly to settle things, refusing to let the moment slip past.
+- 'I do not have any.' Max makes that answer around Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'What were you asking for?' Barinov states the reply plainly here: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'I can lend it to you.' Max proceeds right away with a smile, saying out loud what both of them already know.
+- 'Oh, get lost.' Barinov stresses this sharp detail at once: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.

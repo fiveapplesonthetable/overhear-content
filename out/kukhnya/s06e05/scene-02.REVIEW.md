@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, my friend is in here.' Barinov strikes a clear angle beside Kostya, building the phrase around "proshu" ("beg, ask") and "proshcheniya" ("forgiveness") for a crisp, natural delivery.
-- 'Vitya, is it really you who came?' Mikhail checks plainly right away, linking "pravda" ("honestly"), "prishyol" ("came, have come"), and "vitya" ("Vitya") in one brisk exchange.
-- 'Can you imagine, I lost everything.' Mikhail offers a grounded mood for Barinov, linking "predstavlyayesh" ("can you imagine"), "proigral" ("lost"), and "ty" ("you") in one brisk exchange.
-- 'I lost everything that I had.' Mikhail displays a direct mood in front of Kostya, pairing "proigral" ("lost") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'Why did I even sit down to play with him?' Mikhail inquires directly as the beat lands, combining "zachem" ("what for") and "voobshche" ("at all") so the key meaning lands right away.
-- 'Did you not win him too?' Barinov tests candidly to keep things clear, combining "samogo" ("the very") and "vyigrali" ("won") so the key meaning lands right away.
-- 'Too bad, then I am taking him away.' Barinov holds a thoughtful manner without hesitation, joining "zhal" ("it is a pity") to "togda" ("back then") so every word pulls its weight.
-- 'Nastya, you forgot your phone at home.' Kostya displays a sharp view during the exchange, joining "telefon" ("phone") to "doma" ("at home") so every word pulls its weight.
-- 'Thank you very much, my dear.' Barinov projects a lively tack at once, weaving "spasibo" ("thank you") together with "bolshoye" ("big, very much") just the way native speakers do.
-- 'Tell me the truth, please.' Kostya adopts a lively rhythm beside Mikhail, pairing "skazhi" ("say") with "pravdu" ("truth") to get the point across in plain spoken Russian.
-- 'The guests at the table are already waiting.' Barinov adopts a grounded stance in the scene, pairing "gosti" ("visitors, guests") with "stolikom" ("table") to get the point across in plain spoken Russian.
-- 'Go quickly and take their order.' Barinov displays a playful mood in the scene, pairing "idi" ("go") with "bystreye" ("faster") to get the point across in plain spoken Russian.
+- 'Excuse me, my friend is in here.' Barinov replies pointedly around Kostya, steering the talk right where he wants it.
+- 'Vitya, is it really you who came?' Mikhail asks curiously where this conversation is heading next.
+- 'Can you imagine, I lost everything.' Mikhail focuses on one colorful element for Barinov: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'I lost everything that I had.' Mikhail states that point with warmth: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Why did I even sit down to play with him?' Mikhail questions wryly how Barinov expects that to work in practice.
+- 'Did you not win him too?' Barinov colors this vivid piece right here: "samogo" means "the very" (from "samyy"), giving the line its exact edge.
+- 'Too bad, then I am taking him away.' Barinov frames that point frankly here: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
+- 'Nastya, you forgot your phone at home.' Kostya pushes back bluntly as things stand, making his position completely clear.
+- 'Thank you very much, my dear.' Barinov emphasizes this clear touch in reply: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Tell me the truth, please.' Kostya aims that thought right away: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'The guests at the table are already waiting.' Barinov reacts evenly with a shrug, saying out loud what both of them already know.
+- 'Go quickly and take their order.' Barinov spotlights one direct word toward Mikhail: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.

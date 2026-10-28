@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you doubt me for even a second?' Barinov challenges candidly as the beat lands, combining "sekundu" ("second") and "somnevalsya" ("doubted") so the key meaning lands right away.
-- 'No, of course I did not doubt you.' Max strikes a firm line as the scene unfolds, leaning on "konechno" ("of course") before closing the thought with "somnevalsya" ("doubted").
-- 'Good boy, and now put on your gloves.' Barinov presents a sharp approach beside Max, anchoring the Russian line on "molodets" ("well done, good boy") and "teper" ("now") without extra filler.
-- 'I do not understand at all, why put on gloves?' Max asks quietly with Vika now, building the phrase around "sovsem" ("at all") and "ponyal" ("understood") for a crisp, natural delivery.
-- 'Kitchen, attention! We will operate by the new rules!' Barinov projects an earnest tempo straight away, weaving "kukhnya" ("kitchen") together with "vnimaniye" ("attention") just the way native speakers do.
-- 'Chef, you said that you decide everything here!' Max picks a lively approach across the room, combining "skazali" ("told") and "reshayete" ("to decide, to solve") so the key meaning lands right away.
-- 'This is my new firm decision.' Barinov sets a resolute footing for Max, putting "yest" ("there is") alongside "novoye" ("new") in a tight, everyday turn of phrase.
-- 'Sorry to interrupt, I am here about the new menu.' Vika projects an unhurried approach in the room, linking "izvinite" ("sorry, excuse me"), "preryvayu" ("I interrupt"), and "novomu" ("new") in one brisk exchange.
-- 'We need to add okroshka, salad, and chebureki to it.' Vika sustains an emphatic position as the scene unfolds, joining "nuzhno" ("necessary") to "vvesti" ("to introduce") so every word pulls its weight.
-- 'Well, team, it is time for us to experiment!' Barinov presents a measured course at once, building the phrase around "komanda" ("team") and "pora" ("it's time") for a crisp, natural delivery.
-- 'Listen, what on earth happened to him all of a sudden?' Max prompts earnestly as they speak, pairing "slushay" ("listen") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
-- 'It seems they simply bribed our Chef.' Max conveys a sharp stance at this moment, weaving "kazhetsya" ("it seems, I think") together with "prosto" ("just") just the way native speakers do.
+- 'Wait, did you doubt me for even a second?' Barinov chooses one loaded element for Max: "somnevalsya" means "doubted" (from "somnevatsya"), giving the line its exact edge.
+- 'No, of course I did not doubt you.' Max frames that remark in earnest: the "-sya" ending on "somnevalsya" ("doubted") turns the action inward or makes it happen between people naturally.
+- 'Good boy, and now put on your gloves.' Barinov follows up dryly without holding back, to clear the air between them once and for all.
+- 'I do not understand at all, why put on gloves?' Max favors one key term in reply: "perchatki" means "gloves" (from "perchatka"), giving the line its exact edge.
+- 'Kitchen, attention! We will operate by the new rules!' Barinov jumps in at once toward Max, before Max can change the subject.
+- 'Chef, you said that you decide everything here!' Max holds firm honestly with a sigh, without trying to dress up how he really feels.
+- 'This is my new firm decision.' Barinov features one practical detail at once: "tvyordoye" means "hard, firm" (from "tvyordyy"), giving the line its exact edge.
+- 'Sorry to interrupt, I am here about the new menu.' Vika offers the reaction in earnest: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Vika steps in.
+- 'We need to add okroshka, salad, and chebureki to it.' Vika stands firm frankly to be clear, refusing to let the moment slip past.
+- 'Well, team, it is time for us to experiment!' Barinov emphasizes one memorable term in reply: "eksperimentirovat" means "to experiment", and it carries the main weight of what Barinov is saying.
+- 'Listen, what on earth happened to him all of a sudden?' Max directs the reaction with candor: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'It seems they simply bribed our Chef.' Max fires back at once beside Vika, making his position completely clear.

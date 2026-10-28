@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After all, you love her.' Kostya holds a direct tone in the conversation, building the phrase around "lyubish" ("love") and "ved" ("after all") for a crisp, natural delivery.
-- 'I do, and what does that mean?' Denis queries warmly toward Sveta here, putting "lyublyu" ("love") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
-- 'We must ruin this wedding.' Kostya displays an easygoing style at this moment, leaning on "dolzhny" ("must, should") before closing the thought with "sorvat" ("to disrupt").
-- 'I agree, but how?' Denis tests honestly in the room, pairing "soglasen" ("agreed") with "tolko" ("only") to get the point across in plain spoken Russian.
-- 'We can steal her wedding dress.' Kostya holds a resolute view in the conversation, joining "mozhem" ("can") to "svorovat" ("to steal") so every word pulls its weight.
-- 'They stole my wedding dress!' Denis strikes an honest posture in the conversation, linking "ukrali" ("stole"), "svadebnoye" ("wedding"), and "platye" ("a dress") in one brisk exchange.
-- 'Or we can steal Katya herself.' Kostya picks a grounded tack during the exchange, putting "mozhem" ("can") alongside "svorovat" ("to steal") in a tight, everyday turn of phrase.
-- 'We will just take her without the wedding dress.' Kostya presents a serious approach in front of Sveta, putting "prosto" ("just") alongside "zaberyom" ("will take") in a tight, everyday turn of phrase.
-- 'Did you understand me, my friend?' Denis probes decisively from the start, anchoring the Russian line on "ponyal" ("understood") and "drug" ("friend") without extra filler.
-- 'Hi, did your bachelorette party go well?' Sveta inquires openly to keep things clear, leaning on "devichnik" ("bachelorette party") before closing the thought with "proshyol" ("passed").
-- 'Oh yes, everything went fine.' Denis projects a lively bearing during the exchange, weaving "proshlo" ("have passed") together with "normalno" ("fine, OK") just the way native speakers do.
-- 'Then get in, I will give you a ride.' Sveta picks an easygoing rhythm at once, putting "togda" ("back then") alongside "sadites" ("sit down") in a tight, everyday turn of phrase.
+- 'After all, you love her.' Kostya points to one memorable detail right here: "lyubish" means "love" (from "lyubit"), giving the line its exact edge.
+- 'I do, and what does that mean?' Denis wonders wryly where this conversation is heading next.
+- 'We must ruin this wedding.' Kostya highlights one vivid detail toward Denis: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'I agree, but how?' Denis phrases that point to Sveta: putting the question word "kak" right at the front of the line lets Sveta hear the point of the question on the very first beat.
+- 'We can steal her wedding dress.' Kostya proceeds decisively to settle things, testing Denis's reaction in the middle of the exchange.
+- 'They stole my wedding dress!' Denis stresses one pointed detail in earnest: "svadebnoye" means "wedding" (from "svadebnyy"), giving the line its exact edge.
+- 'Or we can steal Katya herself.' Kostya holds firm lightly around Denis, without trying to dress up how he really feels.
+- 'We will just take her without the wedding dress.' Kostya follows up right away on the spot, bringing things back to earth after the buildup.
+- 'Did you understand me, my friend?' Denis frames this vivid touch with Kostya: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Hi, did your bachelorette party go well?' Sveta gives that reply toward Kostya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Oh yes, everything went fine.' Denis jumps in earnestly to settle things, watching Kostya's face to see how the news lands.
+- 'Then get in, I will give you a ride.' Sveta centers one concrete word toward Kostya: "sadites" means "sit down" (from "saditsya"), giving the line its exact edge.

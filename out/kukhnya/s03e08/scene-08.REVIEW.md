@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why did you put that on right now?' Ainura prompts calmly in the room, combining "zachem" ("what for") and "seychas" ("now") so the key meaning lands right away.
-- 'Well our chef took me back into the kitchen.' Max shows an unhurried attitude at once, using "kukhnyu" (from "kukhnya", "kitchen") alongside "vzyal" ("took") to shape the meaning.
-- 'Now I am a cook here again.' Max takes a thoughtful tack as the scene unfolds, pairing "teper" ("now") with "snova" ("again") to get the point across in plain spoken Russian.
-- 'What cook, the chef said that you are my assistant.' Ainura projects a grounded position at this moment, linking "povar" ("chef, cook"), "skazal" ("said"), and "pomoshchnik" ("assistant") in one brisk exchange.
-- 'Wait, so I am a cleaner now?' Max inquires candidly with Ainura now, anchoring the Russian line on "podozhdi" ("wait") and "znachit" ("then, so") without extra filler.
-- 'I am the cleaner, and you are the cleaner's assistant.' Ainura strikes an easygoing line during the exchange, building the phrase around "uborshchik" ("cleaner, janitor") and "pomoshchnik" ("assistant") for a crisp, natural delivery.
-- 'And what do you want, they told me to take you, I took you.' Barinov takes a resolute stance on the spot, linking "khochesh" ("do you want"), "skazali" ("told"), and "vzyat" ("to take") in one brisk exchange.
-- 'And what you will work as in my kitchen is up to me to decide.' Barinov offers a natural direction at once, linking "budesh" ("will"), "rabotat" ("to work"), and "kukhne" ("kitchen") in one brisk exchange.
-- 'Or do you not want to be a cleaner?' Barinov asks quietly beside Ainura, linking "khochesh" ("do you want"), "byt" ("be"), and "uborshchikom" ("cleaner, janitor") in one brisk exchange.
-- 'No, I do not want to at all.' Max picks a clear rhythm at this moment, pairing "sovsem" ("at all") with "khochu" ("want") to get the point across in plain spoken Russian.
-- 'Well why did you not say so right away, I am promoting you!' Barinov takes a wry line at once, joining "srazu" ("at once") to "skazal" ("said") so every word pulls its weight.
-- 'You will be a food delivery courier, that is all, the conversation is over.' Barinov projects a clear style in the conversation, linking "budesh" ("will"), "kuryerom" ("courier"), and "dostavke" ("delivery") in one brisk exchange.
+- 'Max, why did you put that on right now?' Ainura puts the comment at once: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Well our chef took me back into the kitchen.' Max steps in sharply before Barinov, leaving no doubt about where he stands.
+- 'Now I am a cook here again.' Max points to this telling choice in earnest: "povar" means "chef, cook", and it carries the main weight of what Max is saying.
+- 'What cook, the chef said that you are my assistant.' Ainura sharpens one classic choice for Max: "pomoshchnik" means "assistant", and it carries the main weight of what Ainura is saying.
+- 'Wait, so I am a cleaner now?' Max prompts firmly in front of Ainura without any preamble.
+- 'I am the cleaner, and you are the cleaner's assistant.' Ainura highlights this clear detail for Max: "pomoshchnik" means "assistant", and it carries the main weight of what Ainura is saying.
+- 'And what do you want, they told me to take you, I took you.' Barinov frames one familiar detail toward Ainura: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'And what you will work as in my kitchen is up to me to decide.' Barinov weighs in right away facing Max, leaving no doubt about where he stands.
+- 'Or do you not want to be a cleaner?' Barinov leans on one colorful piece in reply: "uborshchikom" means "cleaner, janitor" (from "uborshchik"), giving the line its exact edge.
+- 'No, I do not want to at all.' Max delivers that remark facing Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Well why did you not say so right away, I am promoting you!' Barinov speaks warmly with a sigh, so Ainura knows he is not just making small talk.
+- 'You will be a food delivery courier, that is all, the conversation is over.' Barinov leans on one clear choice on cue: "kuryerom" means "courier" (from "kuryer"), giving the line its exact edge.

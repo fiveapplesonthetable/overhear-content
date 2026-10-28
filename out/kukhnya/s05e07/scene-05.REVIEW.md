@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'First of all, there was nothing between us.' Barinov brings an unhurried line for Max, anchoring the Russian line on "vo-pervykh" ("first of all") and "bylo" ("was") without extra filler.
-- 'Second of all, I need a cook.' Barinov holds a direct line in this beat, anchoring the Russian line on "vo-vtorykh" ("second") and "nuzhen" ("is needed") without extra filler.
-- 'Third of all, I am in a great mood.' Barinov presents a frank manner across the room, using the everyday "u menya" ("by me") alongside "v-tretikh" ("thirdly, third of all") to show what belongs to the speaker.
-- 'In short, he will work here.' Barinov maintains an unhurried position in the conversation, combining "koroche" ("long story short") and "budet" ("will be") so the key meaning lands right away.
-- 'Chef, why are you so cheerful?' Vika probes directly in the room, linking "radostnyy" ("happy, joyful"), "shef" ("Chef"), and "chto" ("what") in one brisk exchange.
-- 'I won, I beat an oligarch at poker.' Barinov shares an honest angle beside Vika, putting "pobedil" ("won") alongside "nakazal" ("to punish") in a tight, everyday turn of phrase.
-- 'Chef, and did you win a lot?' Vika inquires lightly right away, leaning on "mnogo" ("a lot") before closing the thought with "vyigrali" ("won").
-- 'And here are my winnings.' Barinov maintains a grounded stance in this beat, joining "vyigrysh" ("winnings") to "vot" ("there, here") so every word pulls its weight.
-- 'Beef in boxes, pork in carcasses, take them.' Max shows a calm attitude right away, putting "govyadina" ("beef") alongside "korobkakh" ("boxes") in a tight, everyday turn of phrase.
-- 'I do not understand, where is the money?' Barinov checks naturally without hesitation, leaning on "ponyal" ("understood") before closing the thought with "dengi" ("money").
-- 'Money is tight right now, take the meat.' Max shows a frank manner with Barinov, weaving "dengami" ("the money, funding") together with "seychas" ("now") just the way native speakers do.
-- 'Chef, you really are the meat king now.' Vika shares an honest position beside Max, combining "teper" ("now") and "myasnoy" ("meat") so the key meaning lands right away.
+- 'First of all, there was nothing between us.' Barinov lays out that line with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Second of all, I need a cook.' Barinov proceeds calmly on the spot, to clear the air between them once and for all.
+- 'Third of all, I am in a great mood.' Barinov reaches for one direct touch for Max: "nastroyeniye" means "mood", and it carries the main weight of what Barinov is saying.
+- 'In short, he will work here.' Barinov chimes in honestly to be clear, keeping the focus on what actually matters here.
+- 'Chef, why are you so cheerful?' Vika probes quietly as Barinov tries to explain the situation.
+- 'I won, I beat an oligarch at poker.' Barinov colors one pointed term right here: "oligarkha" means "oligarch" (from "oligarkh"), giving the line its exact edge.
+- 'Chef, and did you win a lot?' Vika states this answer around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'And here are my winnings.' Barinov chimes in quietly without any doubt, letting the remark speak for itself.
+- 'Beef in boxes, pork in carcasses, take them.' Max focuses on one loaded expression for Barinov: "govyadina" means "beef", and it carries the main weight of what Max is saying.
+- 'I do not understand, where is the money?' Barinov aims this answer before Vika: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Money is tight right now, take the meat.' Max steps in warmly with a shrug, without trying to dress up how he really feels.
+- 'Chef, you really are the meat king now.' Vika favors one concrete detail right here: "myasnoy" means "meat", and it carries the main weight of what Vika is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My daughter, I am so happy for you today!' Barinov shows a direct position as they talk, joining "dochenka" ("sweetheart") to "segodnya" ("today") so every word pulls its weight.
-- 'Look, she came in the exact same dress.' Katya conveys a grounded view beside Denis, linking "smotri" ("look"), "prishla" ("came"), and "platye" ("a dress") in one brisk exchange.
-- 'Do not pay attention, let us go quickly to the guests.' Barinov shows a grounded view across the room, linking "obrashchay" ("pay"), "vnimaniya" ("attention"), and "idyom" ("are going") in one brisk exchange.
-- 'Wait, Dad, what about Denis?' Katya questions boldly with Denis now, joining "podozhdi" ("wait") to "papa" ("Dad") so every word pulls its weight.
-- 'Why do you need that poor guy?' Barinov queries steadily in the room, leaning on "zachem" ("what for") before closing the thought with "nuzhen" ("is needed").
-- 'Today your family sets sail into the ocean of life.' Barinov strikes an honest attitude on the spot, joining "segodnya" ("today") to "okean" ("ocean") so every word pulls its weight.
-- 'May all storms and tempests pass you by.' Barinov holds a pointed angle beside Denis, leaning on "buri" ("storms") before closing the thought with "shtormy" ("storms, gales").
-- 'Thank you, I understood everything very well.' Katya chooses an emphatic course at once, putting "spasibo" ("thank you") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'If anyone is against the marriage, let them speak now.' Barinov establishes a measured style in their talk, anchoring the Russian line on "braka" ("marriage") and "skazhet" ("will tell, will say") without extra filler.
-- 'Wait, I am categorically against this wedding!' Denis establishes a warm posture toward Katya, anchoring the Russian line on "podozhdite" ("wait") and "kategoricheski" ("categorically") without extra filler.
-- 'Do not listen to that strange guy!' Barinov holds a thoughtful manner in the conversation, linking "slushayte" ("listen"), "strannogo" ("strange"), and "parnya" ("boyfriend") in one brisk exchange.
-- 'No, wait, I want to hear him out!' Katya shares an emphatic angle in the conversation, anchoring the Russian line on "podozhdite" ("wait") and "khochu" ("want") without extra filler.
+- 'My daughter, I am so happy for you today!' Barinov steps in dryly beside Denis, keeping the focus on what actually matters here.
+- 'Look, she came in the exact same dress.' Katya stresses one pointed element in reply: "platye" means "a dress", and it carries the main weight of what Katya is saying.
+- 'Do not pay attention, let us go quickly to the guests.' Barinov steps in at once before Denis, making his position completely clear.
+- 'Wait, Dad, what about Denis?' Katya questions straight out while looking straight at Denis here.
+- 'Why do you need that poor guy?' Barinov centers this vivid expression on cue: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'Today your family sets sail into the ocean of life.' Barinov gives this update right away: the "-sya" ending on "otpravlyayetsya" ("to departing") turns the action inward or makes it happen between people naturally.
+- 'May all storms and tempests pass you by.' Barinov proceeds openly without holding back, making his position completely clear.
+- 'Thank you, I understood everything very well.' Katya centers this telling word for Denis: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
+- 'If anyone is against the marriage, let them speak now.' Barinov cuts in lightly with a smile, leaving no doubt about where he stands.
+- 'Wait, I am categorically against this wedding!' Denis cuts in briskly without a pause, before Katya can change the subject.
+- 'Do not listen to that strange guy!' Barinov frames one practical element toward Denis: "strannogo" means "strange" (from "strannyy"), giving the line its exact edge.
+- 'No, wait, I want to hear him out!' Katya opens up honestly with a smile, watching Denis's face to see how the news lands.

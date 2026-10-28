@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, do I need to take these off?' Nagiyev asks openly as the talk turns, anchoring the Russian line on "snyat" ("to take down") and "nado" ("it is necessary") without extra filler.
-- 'Yes, come on faster, let's start!' Fedya presents a pointed line right away, combining the everyday invitation "davay" ("come on, let us") with "bystreye" ("faster") to give the line its natural spoken rhythm.
-- 'There, now it is all done!' Fedya chooses a warm footing in front of Barinov, building the phrase around "teper" ("now") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'Just do not be afraid of my teeth.' Fedya sustains a warm view in the scene, building the phrase around "tolko" ("only") and "zubami" ("with teeth") for a crisp, natural delivery.
-- 'Does it hurt right now, or not?' Fedya asks honestly in front of Barinov, building the phrase around "seychas" ("now") and "bolno" ("it hurts") for a crisp, natural delivery.
-- 'No, it is fine, everything is good.' Nagiyev displays a brisk tempo at once, building the phrase around "normalno" ("fine, OK") and "khorosho" ("good, fine") for a crisp, natural delivery.
-- 'Actually, a rat snake is a non-venomous snake.' Barinov takes a direct stance in the conversation, anchoring the Russian line on "voobshche-to" ("actually") and "poloz" ("rat snake") without extra filler.
-- 'Our rat snake is not venomous at all.' Barinov keeps a direct manner in the conversation, combining "poloz" ("rat snake") and "yadovityy" ("venomous, poisonous") so the key meaning lands right away.
-- 'Well, of course it is not venomous.' Nagiyev sets a direct tempo in front of Barinov, building the phrase around "konechno" ("of course") and "yadovityy" ("venomous, poisonous") for a crisp, natural delivery.
-- 'After all, a rat snake is not venomous at all.' Barinov projects an earnest footing straight away, combining "poloz" ("rat snake") and "sovsem" ("at all") so the key meaning lands right away.
-- 'Then fifty thousand for a rat snake.' Nagiyev maintains a thoughtful direction as they talk, building the phrase around "znachit" ("then, so") and "tysyach" ("thousand") for a crisp, natural delivery.
-- 'Fine, that is quite fair.' Fedya offers a playful course at once, building the phrase around "vpolne" ("quite") and "spravedlivo" ("fair, justly") for a crisp, natural delivery.
+- 'Wait, do I need to take these off?' Nagiyev questions wryly to see how Barinov will answer on the spot.
+- 'Yes, come on faster, let's start!' Fedya centers this direct term toward Nagiyev: "nachinayem" means "are starting" (from "nachinat"), giving the line its exact edge.
+- 'There, now it is all done!' Fedya sends the thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Just do not be afraid of my teeth.' Fedya stands firm at once beside Nagiyev, refusing to let the moment slip past.
+- 'Does it hurt right now, or not?' Fedya grounds one pointed choice with Barinov: "seychas" means "now", and it carries the main weight of what Fedya is saying.
+- 'No, it is fine, everything is good.' Nagiyev states the reply without pause: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Actually, a rat snake is a non-venomous snake.' Barinov speaks openly with a shrug, testing Fedya's reaction in the middle of the exchange.
+- 'Our rat snake is not venomous at all.' Barinov stresses one telling word with Nagiyev: "yadovityy" means "venomous, poisonous", and it carries the main weight of what Barinov is saying.
+- 'Well, of course it is not venomous.' Nagiyev frames that remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'After all, a rat snake is not venomous at all.' Barinov jumps in decisively on the spot, letting the remark speak for itself.
+- 'Then fifty thousand for a rat snake.' Nagiyev features one classic element at once: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'Fine, that is quite fair.' Fedya drops that line facing Nagiyev: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.

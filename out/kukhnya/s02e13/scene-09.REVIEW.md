@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank goodness it is only the first floor.' Nagiyev conveys a brisk style as they talk, linking "proshu" ("beg, ask"), "pervyy" ("first"), and "etazh" ("floor") in one brisk exchange.
-- 'Hello, everyone.' Max picks a firm rhythm straight away, joining "zdraste" ("hello, hi") to "vsem" ("everyone") so every word pulls its weight.
-- 'Well, basically, we solved your problem.' Nagiyev projects a steady attitude during the exchange, linking "obshchem" ("short, so"), "reshili" ("decided"), and "problemu" ("problem") in one brisk exchange.
-- 'Oh, well done.' Max brings a calm bearing without hesitation, combining "molodtsy" ("well done, good person") and "oy" ("oh") so the key meaning lands right away.
-- 'Remember that journalist who was following you?' Nagiyev probes quietly across the room, combining "pomnite" ("remember") and "zhurnalista" ("journalist") so the key meaning lands right away.
-- 'You will never see him again.' Max shares an easygoing approach toward Nagiyev, joining "bolshe" ("more") to "uvidite" ("will see") so every word pulls its weight.
-- 'Thank you, guys.' Nagiyev sets a thoughtful mood in front of Max, leaning on "spasibo" ("thank you") before closing the thought with "rebyat" ("kids, guys").
-- 'However, another problem has come up.' Max shows a sharp line in the room, combining "pravda" ("honestly") and "voznikla" ("to arise, emerge") so the key meaning lands right away.
-- 'What on earth are you two doing?' Nagiyev questions candidly at this point, pairing "tvorite" ("are doing, perpetrating") with "vy" ("you") to get the point across in plain spoken Russian.
-- 'Dmitry Vladimirovich, just please do not get so worked up.' Max shares a brisk manner in front of Nagiyev, pairing "tolko" ("only") with "nervnichayte" ("to be nervous") to get the point across in plain spoken Russian.
-- 'Otherwise I start getting even more nervous.' Nagiyev shares a measured direction in their talk, leaning on "yeshche" ("still") before closing the thought with "bolshe" ("more").
-- 'What kind of fools are you?' Max wonders dryly from the start, using "duraki" (from "durak", "fool, idiot") alongside "chto" ("what") to shape the meaning.
-- 'He is going to write about this in the papers later, huh?' Nagiyev inquires evenly from the start, leaning on "potom" ("then") before closing the thought with "napishet" ("will write").
+- 'Thank goodness it is only the first floor.' Nagiyev fires back frankly with a nod, so Max knows he is not just making small talk.
+- 'Hello, everyone.' Max directs that reply with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Well, basically, we solved your problem.' Nagiyev jumps in candidly across the room, without trying to dress up how he really feels.
+- 'Oh, well done.' Max continues dryly with a smile, shifting the whole mood of the room in a single beat.
+- 'Remember that journalist who was following you?' Nagiyev reaches for one clear piece for Max: "zhurnalista" means "journalist" (from "zhurnalist"), giving the line its exact edge.
+- 'You will never see him again.' Max highlights this clear element toward Nagiyev: "uvidite" means "will see" (from "uvidet"), giving the line its exact edge.
+- 'Thank you, guys.' Nagiyev answers promptly in their talk, refusing to let the moment slip past.
+- 'However, another problem has come up.' Max points to this direct expression at once: "problema" means "problem", and it carries the main weight of what Max is saying.
+- 'What on earth are you two doing?' Nagiyev sends the reaction plainly here: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Dmitry Vladimirovich, just please do not get so worked up.' Max opens up earnestly as things stand, shifting the whole mood of the room in a single beat.
+- 'Otherwise I start getting even more nervous.' Nagiyev favors this direct choice at once: "nervnichat" means "to get worked up", and it carries the main weight of what Nagiyev is saying.
+- 'What kind of fools are you?' Max shapes the reaction in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is going to write about this in the papers later, huh?' Nagiyev presses plainly if there is more going on behind the scenes.

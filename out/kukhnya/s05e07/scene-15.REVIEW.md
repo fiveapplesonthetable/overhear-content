@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Girls, order, do not be shy.' Vika presents a grounded note beside Barinov, building the phrase around "devchonki" ("girls") and "zakazyvayte" ("order") for a crisp, natural delivery.
-- 'Give the bill to Lavrov.' Vika chooses a firm bearing on the spot, anchoring the Russian line on "schyot" ("counting, account") and "otdash" ("to give, to hand over") without extra filler.
-- 'Well then, did you lose?' Barinov quizzes dryly in this moment, pairing "proigral" ("lost") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'He will come right back and finish eating.' Mikhail sustains a grounded direction for Vika, building the phrase around "seychas" ("now") and "vernyotsya" ("will return") for a crisp, natural delivery.
-- 'There are still a hundred and twenty grams left here.' Barinov projects a lively mood in the room, joining "tut" ("here") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'Nikolai Maryanovich, are you in here?' Mikhail tests earnestly for Vika's benefit, building the phrase around "tut" ("here") and "nikolay" ("Nikolai") for a crisp, natural delivery.
-- 'Nikolai Maryanovich, is everything alright with you?' Mikhail inquires directly toward Barinov here, leaning on "khorosho" ("good, fine") before closing the thought with "nikolay" ("Nikolai").
-- 'Why is he not answering?' Barinov quizzes openly with Vika now, joining "pochemu" ("why") to "otvechayet" ("is responsible") so every word pulls its weight.
-- 'Open the door, please!' Mikhail shows a calm direction toward Barinov, linking "otkroyte" ("open"), "dver" ("door"), and "pozhaluysta" ("please") in one brisk exchange.
-- 'He got sick from your bet.' Barinov sets a calm tone in their talk, leaning on "stalo" ("became, came over") before closing the thought with "plokho" ("badly").
-- 'Break the lock faster!' Mikhail sets a sharp bearing in their talk, combining "bystreye" ("faster") and "lomay" ("break") so the key meaning lands right away.
-- 'Call an ambulance!' Barinov maintains a clear position with Vika, anchoring the Russian line on "vyzyvay" ("to cause, to raise") and "skoruyu" ("ambulance") without extra filler.
+- 'Girls, order, do not be shy.' Vika follows up steadily hearing Barinov, without trying to dress up how she really feels.
+- 'Give the bill to Lavrov.' Vika chooses one loaded choice with Mikhail: "schyot" means "counting, account", and it carries the main weight of what Vika is saying.
+- 'Well then, did you lose?' Barinov hands over the thought on cue: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'He will come right back and finish eating.' Mikhail stands firm at once as things stand, making his position completely clear.
+- 'There are still a hundred and twenty grams left here.' Barinov underscores this clear word at once: "grammov" means "gram" (from "gramm"), giving the line its exact edge.
+- 'Nikolai Maryanovich, are you in here?' Mikhail phrases the reaction with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Nikolai Maryanovich, is everything alright with you?' Mikhail quizzes curiously why things suddenly took this turn between them.
+- 'Why is he not answering?' Barinov features one concrete term toward Vika: "otvechayet" means "is responsible" (from "otvechat"), giving the line its exact edge.
+- 'Open the door, please!' Mikhail voices this point calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'He got sick from your bet.' Barinov answers pointedly with a sigh, grounding the moment in plain reality.
+- 'Break the lock faster!' Mikhail spotlights this vivid touch for Barinov: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Call an ambulance!' Barinov directs that thought at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

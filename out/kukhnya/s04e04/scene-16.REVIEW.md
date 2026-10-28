@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Friends, I have gathered all of you here.' German chooses a lively attitude in the conversation, leaning on "druzya" ("friends") before closing the thought with "sobral" ("to collect").
-- 'Let's talk. Come with me.' Max keeps a warm tack without hesitation, combining "davay" ("let's") and "pogovorim" ("we'll have a talk") so the key meaning lands right away.
-- 'And here is what I thought.' German keeps a lively footing as they talk, using "podumal" (from "podumat", "would think") alongside "vot" ("there, here") to shape the meaning.
-- 'All of you should work like Denis.' German projects a sharp manner with Max, building the phrase around "dolzhny" ("must, should") and "rabotat" ("to work") for a crisp, natural delivery.
-- 'Peeling potatoes by the sack?' Denis inquires boldly beside German, anchoring the Russian line on "kartoshku" ("potatoes") and "chistit" ("to peel") without extra filler.
-- 'No, more efficiently.' German establishes a playful approach in the scene, putting "effektivneye" ("efficiently") alongside "net" ("no") in a tight, everyday turn of phrase.
-- 'If everyone works like Denis,.' German sets a wry approach in front of Denis, combining "kazhdyy" ("every") and "budet" ("will be") so the key meaning lands right away.
-- 'The coefficient of useful efficiency will rise.' German maintains a resolute mood without hesitation, building the phrase around "koeffitsiyent" ("coefficient") and "poleznogo" ("useful, helpful") for a crisp, natural delivery.
-- 'We will not need such a large number of cooks.' German shows a warm view with Denis, anchoring the Russian line on "budem" ("will") and "nuzhdatsya" ("need, require") without extra filler.
-- 'You understand, right? You are fired.' German inquires frankly as the beat lands, joining "ponimayete" ("do you understand") to "uvoleny" ("to fire") so every word pulls its weight.
-- 'What are you doing?' Denis quizzes lightly without holding back, putting "delayete" ("are doing") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'What is it? Is there something you do not like?' German checks openly without a pause, linking "nravitsya" ("is pleasing"), "chto" ("what"), and "takoye" ("on earth") in one brisk exchange.
+- 'Friends, I have gathered all of you here.' German chooses one memorable term on cue: "druzya" means "friends" (from "drug"), giving the line its exact edge.
+- 'Let's talk. Come with me.' Max shapes that line with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'And here is what I thought.' German counters evenly on the spot, shifting the whole mood of the room in a single beat.
+- 'All of you should work like Denis.' German stresses one vivid touch in reply: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'Peeling potatoes by the sack?' Denis sends this warning right away: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
+- 'No, more efficiently.' German cuts in briskly without any doubt, saying out loud what both of them already know.
+- 'If everyone works like Denis,.' German highlights one memorable expression in earnest: "kazhdyy" means "every", and it carries the main weight of what German is saying.
+- 'The coefficient of useful efficiency will rise.' German phrases that thought with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We will not need such a large number of cooks.' German steps in quietly facing Denis, watching Denis's face to see how the news lands.
+- 'You understand, right? You are fired.' German uses one telling element for Max: "ponimayete" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'What are you doing?' Denis delivers this answer without pause: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
+- 'What is it? Is there something you do not like?' German asks plainly where this conversation is heading next.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My youngest daughter would eat more than that.' Barinov holds a playful style in their talk, weaving "mladshaya" ("youngest, younger") together with "doch" ("daughter") just the way native speakers do.
-- 'Well then, am I introducing the promotion?' Barinov queries naturally on the spot, combining "vvozhu" ("am introducing") and "aktsiyu" ("action, protest") so the key meaning lands right away.
-- 'Introduce it, introduce it.' Mikhail chooses a lively course across the room, putting all the weight on "vvodi" ("introduce") so the reply lands immediately.
-- 'But if I bring a person who eats your entrecote.' Mikhail shows an emphatic bearing in this beat, using "privedu" (from "privesti", "will bring") alongside "cheloveka" ("a man, a person") to shape the meaning.
-- 'The promotion ends, got it?' Mikhail wonders frankly in front of Barinov, weaving "aktsiya" ("rally, campaign") together with "prekrashchayetsya" ("ends, stops") just the way native speakers do.
-- 'Mishanya, you are a masochist.' Barinov shows a sharp footing in this beat, placing "mishanya" ("Mishanya") straight beside "mazokhist" ("masochist") with no word for "to be" needed.
-- 'You love losing, huh?' Barinov prompts calmly with Mikhail now, building the phrase around "lyubish" ("love") and "proigryvat" ("to lose") for a crisp, natural delivery.
-- 'Well, has your hysterical wife calmed down?' Senya probes warmly beside Mikhail, combining "isterichka" ("hysterical woman") and "uspokoilas" ("calmed down") so the key meaning lands right away.
-- 'Who is hysterical?' Barinov asks naturally toward Mikhail here, leaning on "isterichka" ("hysterical woman") before closing the thought with "kto" ("who").
-- 'I am talking about my wife.' Senya brings a thoughtful manner right away, anchoring the Russian line on "zhenu" ("wife") and "govoryu" ("am telling") without extra filler.
-- 'Look, she is standing right behind you.' Barinov offers an easygoing tempo on the spot, leaning on "smotri" ("look") before closing the thought with "spinoy" ("back").
-- 'Oh, anything but that!' Senya shows an easygoing line right away, weaving "tolko" ("only") together with "oy" ("oh") just the way native speakers do.
+- 'My youngest daughter would eat more than that.' Barinov proceeds at once with a smile, to clear the air between them once and for all.
+- 'Well then, am I introducing the promotion?' Barinov inquires evenly where this conversation is heading next.
+- 'Introduce it, introduce it.' Mikhail emphasizes this sharp detail in earnest: "vvodi" means "introduce" (from "vvodit"), giving the line its exact edge.
+- 'But if I bring a person who eats your entrecote.' Mikhail focuses on one concrete element right here: "antrekot" means "entrecote, ribeye steak", and it carries the main weight of what Mikhail is saying.
+- 'The promotion ends, got it?' Mikhail probes point-blank while looking straight at Barinov here.
+- 'Mishanya, you are a masochist.' Barinov frames one sharp detail at once: "mazokhist" means "masochist", and it carries the main weight of what Barinov is saying.
+- 'You love losing, huh?' Barinov puts that line with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Well, has your hysterical wife calmed down?' Senya checks sharply why things suddenly took this turn between them.
+- 'Who is hysterical?' Barinov grounds one colorful expression on cue: "isterichka" means "hysterical woman", and it carries the main weight of what Barinov is saying.
+- 'I am talking about my wife.' Senya continues at once to settle things, leaving no doubt about where he stands.
+- 'Look, she is standing right behind you.' Barinov weighs in evenly without any doubt, without trying to dress up how he really feels.
+- 'Oh, anything but that!' Senya picks one practical expression in reply: "tolko" means "only", and it carries the main weight of what Senya is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, wait, I lied to you.' Gulya displays a serious mood as the scene unfolds, anchoring the Russian line on "podozhdi" ("wait") and "sovrala" ("to lie, tell a lie") without extra filler.
-- 'I just got very scared back then.' Gulya sustains a steady bearing as the scene unfolds, linking "prosto" ("just"), "togda" ("back then"), and "ochen" ("very much") in one brisk exchange.
-- 'In fact, I do not have a husband.' Gulya takes a lively position in their talk, anchoring the Russian line on "samom" ("very") and "dele" ("case") without extra filler.
-- 'And I do not have children either.' Gulya adopts a natural approach in their talk, weaving "detey" ("children") together with "tozhe" ("too") just the way native speakers do.
-- 'Really? So you are not married at all?' Lyova challenges evenly during the talk, linking "pravda" ("honestly") directly with "znachit" ("then, so"), since Russian drops "is" and "are" in the present.
-- 'No, I am single and very glad.' Gulya establishes an easygoing line in the conversation, joining "svobodna" ("free") to "ochen" ("very much") so every word pulls its weight.
-- 'What a delicious treat we dropped here!' Lyova strikes an honest tack straight away, joining "vkusnyatinu" ("delicious treat") to "tut" ("here") so every word pulls its weight.
-- 'Vitya, you do not need to explain anything to me.' Tanya keeps an easygoing line for Lyova, weaving "obyasnyat" ("to explain") together with "nado" ("it is necessary") just the way native speakers do.
-- 'I do not want to find out what happened here.' Tanya sustains a steady position with Gulya, using "khochu" (from "khotet", "want") alongside "vyyasnyat" ("to figure out") to shape the meaning.
-- 'Make sure everything is ready by Vika's arrival.' Tanya holds a steady posture in the room, linking "sdelayte" ("make"), "priyezdu" ("arrival"), and "bylo" ("was") in one brisk exchange.
-- 'Tanya, we will definitely get everything done here.' Lyova chooses a calm approach straight away, pairing "obyazatelno" ("surely, without fail") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'I firmly promise you that.' Lyova displays an honest position in the scene, building the phrase around "tvyordo" ("firmly") and "obeshchayu" ("promise") for a crisp, natural delivery.
+- 'Lyova, wait, I lied to you.' Gulya features one familiar term in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I just got very scared back then.' Gulya gives that point without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'In fact, I do not have a husband.' Gulya speaks evenly on the spot, without trying to dress up how she really feels.
+- 'And I do not have children either.' Gulya picks one pointed expression in reply: "detey" means "children" (from "rebyonok"), giving the line its exact edge.
+- 'Really? So you are not married at all?' Lyova frames that answer before Gulya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'No, I am single and very glad.' Gulya cuts in candidly with a nod, steering the talk right where she wants it.
+- 'What a delicious treat we dropped here!' Lyova underscores one memorable touch on cue: "vkusnyatinu" means "delicious treat" (from "vkusnyatina"), giving the line its exact edge.
+- 'Vitya, you do not need to explain anything to me.' Tanya directs that answer at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I do not want to find out what happened here.' Tanya stands firm lightly as they talk, making her position completely clear.
+- 'Make sure everything is ready by Vika's arrival.' Tanya frames one memorable expression at once: "priyezdu" means "arrival" (from "priyezd"), giving the line its exact edge.
+- 'Tanya, we will definitely get everything done here.' Lyova responds right away to settle things, without trying to dress up how he really feels.
+- 'I firmly promise you that.' Lyova pushes back decisively as they talk, watching Tanya's face to see how the news lands.

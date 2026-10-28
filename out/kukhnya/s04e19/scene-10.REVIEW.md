@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to think about something pleasant more often.' Denis takes a serious mood beside Vika, pairing "nuzhno" ("necessary") with "chashche" ("more often") to get the point across in plain spoken Russian.
-- 'And then all the bad dreams will pass.' Denis keeps an unhurried footing at once, putting "togda" ("back then") alongside "plokhiye" ("bad") in a tight, everyday turn of phrase.
-- 'Hi, Denis, will you help me in the office?' Vika presses steadily as they speak, leaning on "pomozhesh" ("you'll help") before closing the thought with "kabinete" ("office").
-- 'I need to move the couch a little in there.' Vika adopts a firm footing in the room, putting "tam" ("there") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'Yes, of course, I will help you right now.' Denis keeps a sharp tone without hesitation, linking "konechno" ("of course"), "seychas" ("now"), and "pomogu" ("I'll help") in one brisk exchange.
-- 'Well, tell me, how are your nightmares?' Vika asks promptly as the beat lands, pairing "skazhi" ("say") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'Everything is fine, I did as you said.' Denis keeps a candid line right away, joining "khorosho" ("good, fine") to "sdelal" ("did") so every word pulls its weight.
-- 'I thought about something pleasant before sleep.' Denis adopts a playful style on the spot, putting "dumal" ("thought") alongside "priyatnom" ("pleasant, nice") in a tight, everyday turn of phrase.
-- 'Thank you very much for your help.' Denis shares a resolute mood during the exchange, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "pomoshch" ("help") in one brisk exchange.
-- 'There is no need to thank me for that.' Vika favors a calm bearing as they talk, anchoring the Russian line on "nado" ("it is necessary") and "blagodarit" ("to thank") without extra filler.
-- 'I am glad that I helped you.' Vika projects a calm approach as the scene unfolds, joining "rada" ("glad") to "pomogla" ("helped") so every word pulls its weight.
-- 'A dog bit my leg badly yesterday!' Denis picks a serious attitude without hesitation, weaving "vchera" ("yesterday") together with "sobaka" ("dog") just the way native speakers do.
+- 'I need to think about something pleasant more often.' Denis uses one memorable element in earnest: "priyatnom" means "pleasant, nice" (from "priyatnyy"), giving the line its exact edge.
+- 'And then all the bad dreams will pass.' Denis counters openly in this moment, without trying to dress up how he really feels.
+- 'Hi, Denis, will you help me in the office?' Vika inquires bluntly before Denis can change the subject.
+- 'I need to move the couch a little in there.' Vika spotlights this sharp term in earnest: "otodvinut" means "to little", and it carries the main weight of what Vika is saying.
+- 'Yes, of course, I will help you right now.' Denis leans on this sharp word toward Vika: "konechno" means "of course", and it carries the main weight of what Denis is saying.
+- 'Well, tell me, how are your nightmares?' Vika tests quietly in front of Denis without any preamble.
+- 'Everything is fine, I did as you said.' Denis leans on one clear piece at once: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.
+- 'I thought about something pleasant before sleep.' Denis reacts dryly on the spot, bringing things back to earth after the buildup.
+- 'Thank you very much for your help.' Denis opens up candidly during the talk, before Vika can change the subject.
+- 'There is no need to thank me for that.' Vika favors one concrete detail toward Denis: "blagodarit" means "to thank", and it carries the main weight of what Vika is saying.
+- 'I am glad that I helped you.' Vika sharpens one vivid element at once: "pomogla" means "helped" (from "pomoch"), giving the line its exact edge.
+- 'A dog bit my leg badly yesterday!' Denis holds firm boldly without a pause, to clear the air between them once and for all.

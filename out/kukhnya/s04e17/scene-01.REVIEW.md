@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, you should know too.' Eva conveys a wry tack with Barinov, combining "tozhe" ("too") and "dolzhny" ("must, should") so the key meaning lands right away.
-- 'I am expecting a child right now.' Eva displays a thoughtful footing in the scene, putting "seychas" ("now") alongside "zhdu" ("I wait, expect") in a tight, everyday turn of phrase.
-- 'I am pregnant by you.' Eva conveys a serious footing during the exchange, building the phrase around "beremenna" ("pregnant") and "ya" ("I") for a crisp, natural delivery.
-- 'What on earth are you saying, Eva?' Barinov challenges calmly beside Lyova, leaning on "govorish" ("you say") before closing the thought with "chto" ("what").
-- 'It is still very early.' Eva takes a warm angle across the room, leaning on "srok" ("term") before closing the thought with "poka" ("bye").
-- 'But soon everything will be noticeable.' Eva maintains an earnest manner for Lyova, weaving "skoro" ("soon") together with "budet" ("will be") just the way native speakers do.
-- 'Vitya, I really am pregnant.' Eva projects a playful footing across the room, building the phrase around "pravda" ("honestly") and "beremenna" ("pregnant") for a crisp, natural delivery.
-- 'Viktor Petrovich, is everything all right with you?' Lyova inquires promptly with Eva now, placing "khorosho" ("good, fine") straight beside "viktor" ("Viktor") with no word for "to be" needed.
-- 'Yes, Lyova, everything is fine.' Barinov shares a candid attitude during the exchange, linking "poryadke" ("order") directly with "da" ("yes"), since Russian drops "is" and "are" in the present.
-- 'Well, I have a big problem.' Lyova sets a candid tone for Eva, leaning on "bolshaya" ("large") before closing the thought with "problema" ("problem").
-- 'Lyova, I am pregnant too.' Eva brings a sharp stance across the room, joining "tozhe" ("too") to "beremenna" ("pregnant") so every word pulls its weight.
-- 'We need to check everything urgently.' Barinov adopts a pointed note at once, putting "nuzhno" ("necessary") alongside "srochno" ("urgent, urgently") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, you should know too.' Eva sharpens one memorable detail in reply: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'I am expecting a child right now.' Eva drops this line at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I am pregnant by you.' Eva fires back wryly to be clear, before Barinov can change the subject.
+- 'What on earth are you saying, Eva?' Barinov chooses one pointed piece in earnest: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
+- 'It is still very early.' Eva offers that reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But soon everything will be noticeable.' Eva chimes in briskly beside Lyova, saying out loud what both of them already know.
+- 'Vitya, I really am pregnant.' Eva highlights one concrete choice at once: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
+- 'Viktor Petrovich, is everything all right with you?' Lyova states that remark facing Eva: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Yes, Lyova, everything is fine.' Barinov opens up wryly to be clear, shifting the whole mood of the room in a single beat.
+- 'Well, I have a big problem.' Lyova colors one key word in earnest: "bolshaya" means "large" (from "bolshoy"), giving the line its exact edge.
+- 'Lyova, I am pregnant too.' Eva drops the thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We need to check everything urgently.' Barinov reacts lightly to settle things, making his position completely clear.

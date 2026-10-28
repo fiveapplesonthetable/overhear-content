@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know, Viktor, I have nothing right now.' The guest takes a clear approach straight away, pairing "seychas" ("now") with "znayete" ("know") so the "-sya" ending carries the action.
-- 'I have neither a beloved wife nor loyal friends.' The guest picks a warm view with Eleonora, pairing "lyubimoy" ("favourite, beloved") with "zheny" ("wife") to get the point across in plain spoken Russian.
-- 'But on the other hand I have one big dream.' The guest establishes a lively view in this beat, anchoring the Russian line on "yest" ("there is") and "bolshaya" ("large") without extra filler.
-- 'Very interesting, and what kind of dream do you have?' Barinov challenges quietly without hesitation, linking "ochen" ("very much"), "interesno" ("interesting"), and "mechta" ("dream") in one brisk exchange.
-- 'Three hundred thousand rubles—that is my bright dream!' The guest shares a firm angle at this moment, weaving "tysyach" ("thousand") together with "rubley" ("roubles") just the way native speakers do.
-- 'What a precise and rather expensive dream you have!' Barinov projects a serious line in the scene, using "chyotkaya" (from "chyotkiy", "clear, precise") alongside "vesma" ("indeed") to shape the meaning.
-- 'Tomorrow I am leaving for the north to paint new pictures.' The guest favors a warm angle for Barinov, combining "zavtra" ("tomorrow") and "uyezzhayu" ("am leaving") so the key meaning lands right away.
-- 'And for the beginning I really need money.' The guest chooses a natural manner at this moment, leaning on "pervoye" ("first") before closing the thought with "vremya" ("time").
-- 'Victoria, I wanted to say thank you very much.' Eleonora projects a playful line for Barinov, building the phrase around "khotela" ("wanted, meant") and "skazat" ("tell") for a crisp, natural delivery.
-- 'For playing along with me so well today.' Eleonora strikes a firm position in this beat, building the phrase around "zdorovo" ("great, cool") and "podygrali" ("to play along") for a crisp, natural delivery.
-- 'It felt as if I had really spoken to you about that!' Eleonora brings a direct note in front of Barinov, weaving "oshchushcheniye" ("feeling, sensation") together with "deystvitelno" ("really, indeed") just the way native speakers do.
-- 'No, there is no need to introduce an edible menu, it is nonsense.' Eleonora shares a calm position beside the guest, putting "vvodit" ("introduce") alongside "syedobnoye" ("edible") in a tight, everyday turn of phrase.
+- 'You know, Viktor, I have nothing right now.' The guest speaks honestly in this moment, refusing to let the moment slip past.
+- 'I have neither a beloved wife nor loyal friends.' The guest leans on one classic detail toward Eleonora: "lyubimoy" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
+- 'But on the other hand I have one big dream.' The guest hands over this statement frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Very interesting, and what kind of dream do you have?' Barinov checks plainly as the guest tries to explain the situation.
+- 'Three hundred thousand rubles—that is my bright dream!' The guest colors one colorful element in earnest: "svetlaya" means "light, bright" (from "svetlyy"), giving the line its exact edge.
+- 'What a precise and rather expensive dream you have!' Barinov delivers the comment with warmth: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Tomorrow I am leaving for the north to paint new pictures.' The guest speaks up wryly during the talk, so Barinov knows he is not just making small talk.
+- 'And for the beginning I really need money.' The guest chooses one memorable touch right here: "pervoye" means "first" (from "pervyy"), giving the line its exact edge.
+- 'Victoria, I wanted to say thank you very much.' Eleonora sends the remark frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'For playing along with me so well today.' Eleonora replies calmly in their talk, bringing things back to earth after the buildup.
+- 'It felt as if I had really spoken to you about that!' Eleonora anchors one clear word toward Barinov: "oshchushcheniye" means "feeling, sensation", and it carries the main weight of what Eleonora is saying.
+- 'No, there is no need to introduce an edible menu, it is nonsense.' Eleonora sends that point briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone be quiet.' Barinov maintains a firm line as the scene unfolds, joining "tikho" ("easy, quiet") to "vse" ("all") so every word pulls its weight.
-- 'Be quiet, I said.' Nagiyev strikes a warm attitude as the scene unfolds, combining "tikho" ("easy, quiet") and "skazal" ("said") so the key meaning lands right away.
-- 'Hello, I am listening.' Ainura favors a pointed position right away, joining "slushayu" ("I'm listening") to "allo" ("hello") so every word pulls its weight.
-- 'So just relax and enjoy your rest.' Barinov shows a direct tone in their talk, weaving "otdykhayte" ("rest") together with "spokoyno" ("calmly") just the way native speakers do.
-- 'Yeah, sounds good.' Nagiyev shows a sharp angle without hesitation, weaving "khorosho" ("good, fine") together with "aga" ("yeah, right") just the way native speakers do.
-- 'The reception is bad.' Ainura conveys a wry direction in their talk, leaning on "svyaz" ("connection") before closing the thought with "plokhaya" ("bad").
-- 'The connection is really terrible.' Barinov adopts an emphatic stance toward Ainura, weaving "plokhaya" ("bad") together with "svyaz" ("connection") just the way native speakers do.
-- 'You little mouse.' Nagiyev displays a wry note at this moment, joining "mysh" ("mouse") to "melkaya" ("small, fine") so every word pulls its weight.
-- 'Dmitry Vladimirovich is waiting for you out in the dining room.' Ainura challenges steadily as they speak, joining "tam" ("there") to "zhdet" ("is waiting") so every word pulls its weight.
-- 'And why are you all standing around?' Barinov queries openly in front of Nagiyev, joining "vstali" ("stood still") to "vy" ("you") so every word pulls its weight.
-- 'Get back to work right now.' Nagiyev shares an emphatic posture across the room, leaning on "zhivo" ("quickly, now") before closing the thought with "rabotu" ("job").
-- 'Yes, Chef.' Ainura favors a calm rhythm in front of Nagiyev, weaving "da" ("yes") together with "shef" ("Chef") just the way native speakers do.
-- 'Hand over the uniform.' Barinov adopts a playful manner in the conversation, combining "davay" ("let's") and "formu" ("uniform") so the key meaning lands right away.
+- 'Everyone be quiet.' Barinov features this telling word toward Ainura: "tikho" means "easy, quiet", and it carries the main weight of what Barinov is saying.
+- 'Be quiet, I said.' Nagiyev shapes the remark in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Hello, I am listening.' Ainura speaks up evenly with a smile, bringing things back to earth after the buildup.
+- 'So just relax and enjoy your rest.' Barinov grounds one key detail in earnest: "otdykhayte" means "rest" (from "otdykhat"), giving the line its exact edge.
+- 'Yeah, sounds good.' Nagiyev delivers the reply without fuss: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'The reception is bad.' Ainura fires back earnestly hearing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'The connection is really terrible.' Barinov picks one familiar word in reply: "plokhaya" means "bad" (from "plokhoy"), giving the line its exact edge.
+- 'You little mouse.' Nagiyev gives that point with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Dmitry Vladimirovich is waiting for you out in the dining room.' Ainura checks straight out whether Barinov really thought this through.
+- 'And why are you all standing around?' Barinov sharpens one key choice in reply: "vstali" means "stood still" (from "vstat"), giving the line its exact edge.
+- 'Get back to work right now.' Nagiyev states this point to Ainura: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Yes, Chef.' Ainura speaks up decisively with a shrug, refusing to let the moment slip past.
+- 'Hand over the uniform.' Barinov highlights one classic choice in reply: "formu" means "uniform" (from "forma"), giving the line its exact edge.

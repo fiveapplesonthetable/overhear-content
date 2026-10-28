@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The emperor himself is greeting me.' Barinov offers a thoughtful attitude right away, weaving "imperator" ("himself") together with "vstrechayet" ("to meet, to welcome") just the way native speakers do.
-- 'Stop clowning around and making a scene.' Nagiyev strikes an emphatic bearing beside Denis, joining "khvatit" ("enough") to "krivlyatsya" ("to clowning") so every word pulls its weight.
-- 'This is a cultured establishment.' Nagiyev strikes a candid position across the room, joining "zdes" ("here") to "intelligentnoye" ("establishment") so every word pulls its weight.
-- 'Wait, can a mere mortal not dine in your restaurant?' Barinov inquires plainly without hesitation, putting "prostomu" ("simple, ordinary") alongside "smertnomu" ("dine") in a tight, everyday turn of phrase.
-- 'Why, of course you can.' Nagiyev takes a serious view with Barinov, putting "konechno" ("of course") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'Come in and take a seat.' Nagiyev displays an earnest posture as the scene unfolds, anchoring the Russian line on "prokhodite" ("come in") and "prisazhivaytes" ("have a seat") without extra filler.
-- 'Denis, go serve him at the highest level.' Nagiyev establishes a wry tone in the conversation, joining "idi" ("go") to "obsluzhi" ("serve") so every word pulls its weight.
-- 'Come on, get moving.' Nagiyev maintains an emphatic course on the spot, anchoring the Russian line on "davay" ("let's") and "startuy" ("get") without extra filler.
-- 'Who is going to cook the chef's special?' Barinov questions directly to Denis here, combining "budet" ("will be") and "gotovit" ("to cook") so the key meaning lands right away.
-- 'What would you like to order?' Denis questions candidly across the room, pairing "budete" ("will be") with "zakazyvat" ("to order") to get the point across in plain spoken Russian.
-- 'The chef's special.' Barinov maintains a playful footing as they talk, pairing "blyudo" ("dish") with "shefa" ("chef") to get the point across in plain spoken Russian.
-- 'What if Napoleon is bald in our movie together?' Nagiyev queries bluntly across the room, building the phrase around "kino" ("cinema, movies") and "napoleon" ("mine") for a crisp, natural delivery.
+- 'The emperor himself is greeting me.' Barinov focuses on one telling touch in reply: "imperator" means "himself", and it carries the main weight of what Barinov is saying.
+- 'Stop clowning around and making a scene.' Nagiyev sends the remark to Denis: the "-sya" ending on "krivlyatsya" ("to clowning") turns the action inward or makes it happen between people naturally.
+- 'This is a cultured establishment.' Nagiyev replies promptly to be clear, watching Barinov's face to see how the news lands.
+- 'Wait, can a mere mortal not dine in your restaurant?' Barinov reaches for one familiar term with Nagiyev: "smertnomu" means "dine" (from "smertnyy"), giving the line its exact edge.
+- 'Why, of course you can.' Nagiyev sends this answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Come in and take a seat.' Nagiyev pushes back wryly facing Denis, bringing things back to earth after the buildup.
+- 'Denis, go serve him at the highest level.' Nagiyev anchors this clear word in reply: "obsluzhi" means "serve", and it carries the main weight of what Nagiyev is saying.
+- 'Come on, get moving.' Nagiyev frames this answer before Denis: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Who is going to cook the chef's special?' Barinov probes candidly what Denis is actually getting at here.
+- 'What would you like to order?' Denis anchors one classic piece on cue: "zakazyvat" means "to order", and it carries the main weight of what Denis is saying.
+- 'The chef's special.' Barinov delivers the remark at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What if Napoleon is bald in our movie together?' Nagiyev wonders wryly where this conversation is heading next.

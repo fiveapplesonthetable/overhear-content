@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this here, are they celebrating a retirement?' German wonders firmly on the spot, anchoring the Russian line on "tut" ("here") and "vykhod" ("way out") without extra filler.
-- 'And that is none of your business at all.' Barinov offers a measured tack in their talk, weaving "uzhe" ("already, now") together with "sovsem" ("at all") just the way native speakers do.
-- 'It is very foolish to be rude to the cook who will cook.' Barinov offers an honest manner toward German, anchoring the Russian line on "ochen" ("very much") and "glupo" ("stupid") without extra filler.
-- 'Tonight you will be cooking for my guests.' Barinov brings a frank view in their talk, putting "vecherom" ("in the evening") alongside "budete" ("will be") in a tight, everyday turn of phrase.
-- 'For example, for the restaurant owner Dmitry Nagiyev!' Barinov sets an easygoing manner as the scene unfolds, pairing "naprimer" ("for example") with "khozyainu" ("owner, proprietor") to get the point across in plain spoken Russian.
-- 'By the way, he and I recently made peace.' Barinov offers a frank position straight away, anchoring the Russian line on "kstati" ("by the way") and "nedavno" ("returned") without extra filler.
-- 'Oh, here is Dima calling right now!' Barinov adopts an earnest stance as the scene unfolds, pairing "kak" ("how") with "raz" ("time, once") to get the point across in plain spoken Russian.
-- 'Dima, hello, thank you very much for the birthday wish!' Barinov conveys a candid angle in the room, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.
-- 'He wants to give me an expensive watch!' Barinov holds a firm footing in the conversation, linking "khochet" ("wants"), "podarit" ("give as a gift"), and "dorogiye" ("dear") in one brisk exchange.
-- 'If you do not mind spending two hundred thousand, go ahead!' Barinov sets a pointed tone in the conversation, combining "zhalko" ("feel sorry for") and "tysyach" ("thousand") so the key meaning lands right away.
-- 'German Mikhailovich, prepare everything at the highest level!' Barinov brings a frank tempo in the conversation, putting "prigotovte" ("prepare, cook") alongside "vysshem" ("highest, supreme") in a tight, everyday turn of phrase.
-- 'All right, then I am off to the kitchen to try hard.' German strikes a serious footing straight away, pairing "staratsya" ("try") with "togda" ("back then") so the "-sya" ending carries the action.
+- 'What is this here, are they celebrating a retirement?' German puts the remark frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'And that is none of your business at all.' Barinov weighs in earnestly facing German, so German knows he is not just making small talk.
+- 'It is very foolish to be rude to the cook who will cook.' Barinov points to one clear word right here: "povaru" means "cook, chef" (from "povar"), giving the line its exact edge.
+- 'Tonight you will be cooking for my guests.' Barinov anchors one clear expression on cue: "gostyam" means "guests" (from "gost"), giving the line its exact edge.
+- 'For example, for the restaurant owner Dmitry Nagiyev!' Barinov answers bluntly with German, without trying to dress up how he really feels.
+- 'By the way, he and I recently made peace.' Barinov frames one practical term toward German: "pomirilis" means "reconciled" (from "pomiritsya"), giving the line its exact edge.
+- 'Oh, here is Dima calling right now!' Barinov reacts earnestly with a shrug, keeping the focus on what actually matters here.
+- 'Dima, hello, thank you very much for the birthday wish!' Barinov fires back firmly on the spot, to clear the air between them once and for all.
+- 'He wants to give me an expensive watch!' Barinov focuses on this direct term in earnest: "dorogiye" means "dear" (from "dorogoy"), giving the line its exact edge.
+- 'If you do not mind spending two hundred thousand, go ahead!' Barinov voices the comeback calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'German Mikhailovich, prepare everything at the highest level!' Barinov continues wryly with a smile, so German knows he is not just making small talk.
+- 'All right, then I am off to the kitchen to try hard.' German favors one familiar piece on cue: "staratsya" means "try", and it carries the main weight of what German is saying.

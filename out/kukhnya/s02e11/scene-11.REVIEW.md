@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I was thinking about our argument.' Lyova picks an easygoing position during the exchange, combining "slushay" ("listen") and "tut" ("here") so the key meaning lands right away.
-- 'I was wrong.' Max takes an earnest posture on the spot, using "byl" (from "byt", "was") alongside "neprav" ("wrong") to shape the meaning.
-- 'You were right.' Lyova establishes an emphatic footing at once, leaning on "prav" ("right") before closing the thought with "ty" ("you").
-- 'Come on, I was the one who was wrong, you were right.' Max adopts a thoughtful course in this beat, putting "neprav" ("wrong") alongside "prav" ("right") in a tight, everyday turn of phrase.
-- 'I was only arguing for the sake of arguing.' Lyova displays a clear tack with Max, combining "sporil" ("to argue, to dispute") and "tolko" ("only") so the key meaning lands right away.
-- 'Galkin is more popular in Russia.' Max displays a measured tone straight away, combining "populyarneye" ("popular") and "galkin" ("Galkin") so the key meaning lands right away.
-- 'Wait, why did you agree so quickly?' Lyova checks steadily without hesitation, joining "bystro" ("quickly") to "soglasilsya" ("agreed") so every word pulls its weight.
-- 'Did Lyova talk to you too?' Max queries sharply in the scene, joining "razgovarival" ("spoke, talked") to "toboy" ("you") so every word pulls its weight.
-- 'What? No way?' Lyova inquires honestly for Max's benefit, weaving "chego" ("what") together with "da" ("yes") just the way native speakers do.
-- 'Yeah, he told you the same thing?' Max asks wryly in their exchange, building the phrase around "tozhe" ("too") and "aga" ("yeah, right") for a crisp, natural delivery.
-- 'Maybe I was just testing you?' Lyova inquires directly in the room, pairing "mozhet" ("can") with "proveryal" ("to check, test") to get the point across in plain spoken Russian.
-- 'And you caved in.' Max presents a pointed tempo for Lyova, putting "sdalsya" ("to surrender") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'I did not cave in.' Lyova presents a candid direction with Max, leaning on "sdalsya" ("to surrender") before closing the thought with "ya" ("I").
+- 'Listen, I was thinking about our argument.' Lyova holds firm candidly during the talk, before Max can change the subject.
+- 'I was wrong.' Max speaks plainly around Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'You were right.' Lyova reaches for one direct piece at once: "prav" means "right" (from "pravyy"), giving the line its exact edge.
+- 'Come on, I was the one who was wrong, you were right.' Max hands over this statement for Lyova: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
+- 'I was only arguing for the sake of arguing.' Lyova pushes back boldly with a sigh, keeping the focus on what actually matters here.
+- 'Galkin is more popular in Russia.' Max frames this key detail toward Lyova: "populyarneye" means "popular" (from "populyarnyy"), giving the line its exact edge.
+- 'Wait, why did you agree so quickly?' Lyova directs this warning without pause: the "-sya" ending on "soglasilsya" ("agreed") turns the action inward or makes it happen between people naturally.
+- 'Did Lyova talk to you too?' Max asks evenly how Lyova expects that to work in practice.
+- 'What? No way?' Lyova states this point facing Max: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
+- 'Yeah, he told you the same thing?' Max drops this statement right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Maybe I was just testing you?' Lyova quizzes frankly how Max expects that to work in practice.
+- 'And you caved in.' Max centers one direct detail in reply: "sdalsya" means "to surrender" (from "sdatsya"), giving the line its exact edge.
+- 'I did not cave in.' Lyova delivers the reaction with candor: the "-sya" ending on "sdalsya" ("to surrender") turns the action inward or makes it happen between people naturally.

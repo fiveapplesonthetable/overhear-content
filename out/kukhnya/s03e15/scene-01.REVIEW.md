@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As one wise man said, the sun shines equally on everyone.' Max shares a resolute tempo in the conversation, putting "kak" ("how") alongside "govoril" ("said, were saying") in a tight, everyday turn of phrase.
-- 'It warms both a couple in love and a lonely guy.' Max adopts a pointed attitude for Nagiyev, anchoring the Russian line on "greyet" ("warms") and "vlyublyonnuyu" ("in love") without extra filler.
-- 'A lonely guy who has already forgotten what the sun is.' Max favors a sharp course at this moment, using "odinokogo" (from "odinokiy", "lonely") alongside "parnya" ("boyfriend") to shape the meaning.
-- 'How exhausted I am today!' Nagiyev establishes an emphatic rhythm at this moment, joining "kak" ("how") to "silno" ("strongly, much") so every word pulls its weight.
-- 'I work twenty-four hours a day like a slave.' Nagiyev holds a natural stance with the guest, linking "chasa" ("hours"), "sutki" ("day and night"), and "rabotayu" ("work") in one brisk exchange.
-- 'Now the entire restaurant is completely on my shoulders.' Nagiyev favors a resolute stance as the scene unfolds, linking "teper" ("now") directly with "restoran" ("restaurant"), since Russian drops "is" and "are" in the present.
-- 'I already told you about the restaurant, Dima.' The guest takes an unhurried rhythm in the scene, building the phrase around "povodu" ("matter") and "restorana" ("restaurant") for a crisp, natural delivery.
-- 'Sell it to us, and you will have one less problem.' The guest offers a measured line as they talk, using "proday" (from "prodat", "to sell") alongside "problemoy" ("problem") to shape the meaning.
-- 'If I leave, everything here will collapse without me!' Nagiyev maintains a clear note with the guest, pairing "uydu" ("will leave") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'Nothing will collapse, what is the main thing in a restaurant?' The guest wonders pointedly with Nagiyev now, weaving "rukhnet" ("will collapse") together with "glavnoye" ("important") just the way native speakers do.
-- 'What is the main thing in a restaurant, the kitchen and food, of course!' Nagiyev displays a wry tempo across the room, combining "glavnoye" ("important") and "restorane" ("restaurant") so the key meaning lands right away.
-- 'No, Dima, you are completely wrong here.' The guest takes a natural mood during the exchange, placing "tut" ("here") straight beside "sovsem" ("at all") with no word for "to be" needed.
+- 'As one wise man said, the sun shines equally on everyone.' Max colors one loaded choice in reply: "mudrets" means "wise man, sage", and it carries the main weight of what Max is saying.
+- 'It warms both a couple in love and a lonely guy.' Max reacts quietly in their talk, to clear the air between them once and for all.
+- 'A lonely guy who has already forgotten what the sun is.' Max speaks up calmly before the guest, before the guest can change the subject.
+- 'How exhausted I am today!' Nagiyev chooses this direct expression at once: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
+- 'I work twenty-four hours a day like a slave.' Nagiyev proceeds calmly with a sigh, steering the talk right where he wants it.
+- 'Now the entire restaurant is completely on my shoulders.' Nagiyev speaks up wryly with Max, shifting the whole mood of the room in a single beat.
+- 'I already told you about the restaurant, Dima.' The guest uses this sharp choice on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'Sell it to us, and you will have one less problem.' The guest weighs in candidly beside Nagiyev, leaving no doubt about where he stands.
+- 'If I leave, everything here will collapse without me!' Nagiyev chimes in frankly with a smile, steering the talk right where he wants it.
+- 'Nothing will collapse, what is the main thing in a restaurant?' The guest centers one colorful term in reply: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'What is the main thing in a restaurant, the kitchen and food, of course!' Nagiyev voices the reply to the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'No, Dima, you are completely wrong here.' The guest speaks candidly hearing Nagiyev, refusing to let the moment slip past.

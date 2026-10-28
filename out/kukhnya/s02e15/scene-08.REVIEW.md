@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, are you two not at home?' Max asks decisively from the start, linking "doma" ("at home"), "vy" ("you"), and "chto" ("what") in one brisk exchange.
-- 'Yeah, I want to sell it, I really need the cash.' Vika picks an emphatic stance without hesitation, combining "prodat" ("to sell") and "khochu" ("want") so the key meaning lands right away.
-- 'Ah, here it is, I found it.' Kostya chooses an honest attitude straight away, putting "nashel" ("found") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
-- 'Alright, see you.' Max brings a serious course beside Vika, building the phrase around "poka" ("bye") and "vse" ("all") for a crisp, natural delivery.
-- 'Is this for me?' Vika tests honestly at this point, weaving "eto" ("this") together with "mne" ("to me") just the way native speakers do.
-- 'Max, that is so touching of you.' Kostya shares a natural bearing as they talk, anchoring the Russian line on "trogatelno" ("touchingly") and "maks" ("Max") without extra filler.
-- 'For that, tonight I will wear nothing but your gifts.' Max keeps a playful tempo in the conversation, linking "segodnya" ("today"), "ostanus" ("stay"), and "tolko" ("only") in one brisk exchange.
-- 'Come here.' Vika shares an emphatic rhythm in the room, using "idi" (from "idti", "go") alongside "syuda" ("here") to shape the meaning.
-- 'That one is my gift.' Kostya offers a clear rhythm during the exchange, building the phrase around "podarok" ("gift, voucher") and "eto" ("this") for a crisp, natural delivery.
-- 'What is wrong with you?' Max quizzes honestly for Vika's benefit, combining "ty" ("you") and "chego" ("what") so the key meaning lands right away.
-- 'And that is Ilya's gift.' Vika displays a pointed tone straight away, putting "podarok" ("gift, voucher") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'I do not feel so well all of a sudden.' Kostya sets a measured position straight away, linking "nekhorosho" ("not nice, wrong"), "da" ("yes"), and "chto-to" ("somehow") in one brisk exchange.
-- 'My head is spinning.' Max displays a pointed mood right away, combining "golova" ("head") and "kruzhitsya" ("is spinning") so the key meaning lands right away.
+- 'Wait, are you two not at home?' Max drops that thought facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Yeah, I want to sell it, I really need the cash.' Vika holds firm candidly without holding back, leaving no doubt about where she stands.
+- 'Ah, here it is, I found it.' Kostya chooses one loaded detail toward Max: "nashel" means "found" (from "nayti"), giving the line its exact edge.
+- 'Alright, see you.' Max lays out this line to Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Is this for me?' Vika checks quietly to see how Kostya will answer on the spot.
+- 'Max, that is so touching of you.' Kostya spotlights one colorful detail with Vika: "trogatelno" means "touchingly", and it carries the main weight of what Kostya is saying.
+- 'For that, tonight I will wear nothing but your gifts.' Max counters right away to be clear, watching Kostya's face to see how the news lands.
+- 'Come here.' Vika opens up firmly with a sigh, bringing things back to earth after the buildup.
+- 'That one is my gift.' Kostya focuses on this clear choice for Max: "podarok" means "gift, voucher", and it carries the main weight of what Kostya is saying.
+- 'What is wrong with you?' Max voices that point around Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And that is Ilya's gift.' Vika pushes back candidly as things stand, grounding the moment in plain reality.
+- 'I do not feel so well all of a sudden.' Kostya features one key expression right here: "nekhorosho" means "not nice, wrong", and it carries the main weight of what Kostya is saying.
+- 'My head is spinning.' Max shares the comeback before Kostya: the "-sya" ending on "kruzhitsya" ("is spinning") turns the action inward or makes it happen between people naturally.

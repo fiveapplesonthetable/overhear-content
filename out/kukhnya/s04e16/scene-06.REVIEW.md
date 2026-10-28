@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome back to Moscow, Dmitry Vladimirovich!' Vika maintains a grounded manner straight away, combining "vozvrashcheniyem" ("return") and "moskvu" ("Moscow") so the key meaning lands right away.
-- 'Tell me, what happened to your face?' German inquires pointedly in their exchange, anchoring the Russian line on "skazhite" ("tell") and "sluchilos" ("happened") without extra filler.
-- 'I have a big disaster with my face, guys.' Nagiyev maintains a resolute stance beside German, weaving "bolshaya" ("large") together with "beda" ("trouble") just the way native speakers do.
-- 'What do the doctors say? Will you have this for long?' Vika probes briskly for Nagiyev's benefit, building the phrase around "govoryat" ("talks, says") and "vrachi" ("doctors") for a crisp, natural delivery.
-- 'The doctors say that the swelling will not go down anytime soon.' Nagiyev favors a resolute tone right away, joining "vrachi" ("doctors") to "govoryat" ("talks, says") so every word pulls its weight.
-- 'I will cry every morning in front of the mirror.' Nagiyev keeps a calm note in front of Vika, joining "budu" ("will be") to "kazhdoye" ("every, each") so every word pulls its weight.
-- 'But soon we have an important bank corporate party!' Vika brings a clear course for German, anchoring the Russian line on "skoro" ("soon") and "vazhnyy" ("important") without extra filler.
-- 'Let those bankers wait until next month.' Nagiyev picks a thoughtful angle in front of Vika, building the phrase around "bankiry" ("bankers") and "podozhdut" ("wait") for a crisp, natural delivery.
-- 'No, canceling this celebration is completely impossible!' Vika offers a warm approach for German, pairing "otmenit" ("to cancel") with "prazdnik" ("holiday") to get the point across in plain spoken Russian.
-- 'After all, we already took an advance payment from them.' Vika presents a resolute posture in front of Nagiyev, linking "uzhe" ("already, now"), "vzyali" ("took, arrested"), and "predoplatu" ("advance payment") in one brisk exchange.
-- 'With this money we bought your vacation tour!' Vika presents an unhurried line beside German, pairing "dengi" ("money") with "kupili" ("bought") to get the point across in plain spoken Russian.
-- 'What a pity that Vika does not host corporate parties!' Nagiyev sets an unhurried approach at this moment, leaning on "kak" ("how") before closing the thought with "zhalko" ("feel sorry for").
+- 'Welcome back to Moscow, Dmitry Vladimirovich!' Vika chimes in boldly toward German, without trying to dress up how she really feels.
+- 'Tell me, what happened to your face?' German reaches for one telling touch toward Vika: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'I have a big disaster with my face, guys.' Nagiyev hands over the remark without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'What do the doctors say? Will you have this for long?' Vika wonders skeptically in front of Nagiyev without any preamble.
+- 'The doctors say that the swelling will not go down anytime soon.' Nagiyev sharpens this key detail in earnest: "vrachi" means "doctors" (from "vrach"), giving the line its exact edge.
+- 'I will cry every morning in front of the mirror.' Nagiyev counters honestly toward Vika, watching Vika's face to see how the news lands.
+- 'But soon we have an important bank corporate party!' Vika continues warmly hearing German, testing German's reaction in the middle of the exchange.
+- 'Let those bankers wait until next month.' Nagiyev reaches for one loaded piece at once: "sleduyushchego" means "next, following" (from "sleduyushchiy"), giving the line its exact edge.
+- 'No, canceling this celebration is completely impossible!' Vika weighs in steadily without any doubt, letting the remark speak for itself.
+- 'After all, we already took an advance payment from them.' Vika follows up boldly in their talk, refusing to let the moment slip past.
+- 'With this money we bought your vacation tour!' Vika anchors one direct choice on cue: "dengi" means "money", and it carries the main weight of what Vika is saying.
+- 'What a pity that Vika does not host corporate parties!' Nagiyev answers dryly across the room, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your surprises are rather strange.' Katya picks an easygoing position on the spot, using "syurprizy" (from "syurpriz", "surprise") alongside "strannyye" ("strange") to shape the meaning.
-- 'Wait right here for literally a minute.' Nikita conveys a sharp manner in the conversation, using "podozhdi" (from "podozhdat", "wait") alongside "zdes" ("here") to shape the meaning.
-- 'Did you see a guy with a guitar around here?' Nikita quizzes pointedly to make the point, linking "tut" ("here"), "parnya" ("boyfriend"), and "gitaroy" ("guitar") in one brisk exchange.
-- 'He just ran out of here quickly.' Nikita favors a grounded bearing in their talk, building the phrase around "tolko" ("only") and "otsyuda" ("from here") for a crisp, natural delivery.
-- 'Mom, what are you doing here?' Katya questions directly without holding back, combining "mama" ("mum, mother") and "zdes" ("here") so the key meaning lands right away.
-- 'You need not wait for him, he will not return.' Eleonora chooses a natural tack in the conversation, pairing "vernyotsya" ("will return") with "mozhesh" ("can") so the "-sya" ending carries the action.
-- 'Why do you keep making the exact same mistake?' Eleonora inquires earnestly without a pause, putting "zachem" ("what for") alongside "nastupayesh" ("to advance") in a tight, everyday turn of phrase.
-- 'After all, it already failed once for you two.' Eleonora favors a lively tone beside Nikita, leaning on "odnazhdy" ("once, one day") before closing the thought with "uzhe" ("already, now").
-- 'Mom, stop it, stay out of my life!' Katya maintains a calm position in the conversation, anchoring the Russian line on "mama" ("mum, mother") and "perestan" ("stop") without extra filler.
-- 'First put your own life in order.' Katya brings a warm direction for Nikita, pairing "nachala" ("beginning") with "navedi" ("to establish") to get the point across in plain spoken Russian.
-- 'Katya, wait, I was the one who invited him.' Nikita sustains a calm approach straight away, weaving "podozhdi" ("wait") together with "pozval" ("invited") just the way native speakers do.
-- 'I want to be completely alone right now.' Katya maintains a steady bearing without hesitation, joining "khochu" ("want") to "pobyt" ("to be") so every word pulls its weight.
+- 'Your surprises are rather strange.' Katya centers one clear expression with Eleonora: "syurprizy" means "surprise" (from "syurpriz"), giving the line its exact edge.
+- 'Wait right here for literally a minute.' Nikita fires back sharply toward Katya, refusing to let the moment slip past.
+- 'Did you see a guy with a guitar around here?' Nikita inquires skeptically if there is more going on behind the scenes.
+- 'He just ran out of here quickly.' Nikita stresses one memorable choice in earnest: "vybezhal" means "ran out" (from "vybezhat"), giving the line its exact edge.
+- 'Mom, what are you doing here?' Katya sends that point beside Eleonora: putting the question word "chto" right at the front of the line lets Eleonora hear the point of the question on the very first beat.
+- 'You need not wait for him, he will not return.' Eleonora responds candidly as things stand, leaving no doubt about where she stands.
+- 'Why do you keep making the exact same mistake?' Eleonora highlights one practical term with Katya: "nastupayesh" means "to advance" (from "nastupat"), giving the line its exact edge.
+- 'After all, it already failed once for you two.' Eleonora shares the comeback to Nikita: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Mom, stop it, stay out of my life!' Katya chimes in sharply in this moment, letting the remark speak for itself.
+- 'First put your own life in order.' Katya emphasizes one practical choice on cue: "poryadok" means "order", and it carries the main weight of what Katya is saying.
+- 'Katya, wait, I was the one who invited him.' Nikita stands firm lightly with a smile, testing Eleonora's reaction in the middle of the exchange.
+- 'I want to be completely alone right now.' Katya chimes in dryly toward Nikita, before Nikita can change the subject.

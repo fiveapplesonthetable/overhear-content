@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Aunt Ainura, we have already talked.' Gulya sustains a steady angle without hesitation, leaning on "spasibo" ("thank you") before closing the thought with "tyotya" ("aunt").
-- 'Hello, yes, mom, I am listening to you.' Lyova establishes an unhurried manner in the room, anchoring the Russian line on "mama" ("mum, mother") and "slushayu" ("I'm listening") without extra filler.
-- 'Yes, I remember, you are leaving for the dacha.' Lyova conveys a resolute rhythm beside the doctor, building the phrase around "pomnyu" ("remember") and "uyezzhayesh" ("are leaving") for a crisp, natural delivery.
-- 'In exactly an hour I will already be home.' Lyova presents a thoughtful attitude on the spot, combining "rovno" ("exactly") and "chas" ("hour") so the key meaning lands right away.
-- 'Did you give him your farewell kiss?' The doctor wonders promptly right away, putting "podarila" ("gave as a gift") alongside "proshchalnyy" ("farewell") in a tight, everyday turn of phrase.
-- 'No, I simply cannot abandon him.' Gulya establishes a pointed footing for Lyova, anchoring the Russian line on "nikak" ("in no way") and "mogu" ("can") without extra filler.
-- 'If I am going to give something, it will be more than a kiss.' Gulya picks a thoughtful rhythm in their talk, combining "darit" ("to gift, give") and "potseluy" ("kiss") so the key meaning lands right away.
-- 'Hello, Lena, hi, can you talk?' The doctor wonders plainly during the talk, putting "mozhesh" ("can") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
-- 'Perhaps this is none of my business at all.' The doctor establishes a playful posture in the conversation, joining "vozmozhno" ("perhaps, possible") to "sovsem" ("at all") so every word pulls its weight.
-- 'But I just saw your Victor.' Gulya presents a candid approach right away, putting "tolko" ("only") alongside "videla" ("saw") in a tight, everyday turn of phrase.
-- 'I do not even know how to tell you.' The doctor brings an emphatic mood on the spot, leaning on "znayu" ("know") before closing the thought with "kak" ("how").
-- 'Let us go quickly to my place while mom is away.' Lyova shares a serious tack as they talk, pairing "poydyom" ("let's go") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.
+- 'Thank you, Aunt Ainura, we have already talked.' Gulya stands firm plainly with a sigh, making her position completely clear.
+- 'Hello, yes, mom, I am listening to you.' Lyova centers one direct touch on cue: "slushayu" means "I'm listening" (from "slushat"), giving the line its exact edge.
+- 'Yes, I remember, you are leaving for the dacha.' Lyova favors one classic choice at once: "uyezzhayesh" means "are leaving" (from "uyezzhat"), giving the line its exact edge.
+- 'In exactly an hour I will already be home.' Lyova follows up warmly with a shrug, without trying to dress up how he really feels.
+- 'Did you give him your farewell kiss?' The doctor features one clear choice in earnest: "proshchalnyy" means "farewell", and it carries the main weight of what the doctor is saying.
+- 'No, I simply cannot abandon him.' Gulya states the thought without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'If I am going to give something, it will be more than a kiss.' Gulya holds firm right away without a pause, leaving no doubt about where she stands.
+- 'Hello, Lena, hi, can you talk?' The doctor features one key touch with Lyova: "mozhesh" means "can" (from "moch"), giving the line its exact edge.
+- 'Perhaps this is none of my business at all.' The doctor gives that point with candor: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'But I just saw your Victor.' Gulya follows up openly without a pause, so Lyova knows she is not just making small talk.
+- 'I do not even know how to tell you.' The doctor points to this vivid touch right here: "skazat" means "tell", and it carries the main weight of what the doctor is saying.
+- 'Let us go quickly to my place while mom is away.' Lyova opens up candidly with a sigh, to clear the air between them once and for all.

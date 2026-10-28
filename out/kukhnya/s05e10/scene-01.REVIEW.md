@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How do you choose a good hotel for a vacation?' Max asks directly without a pause, pairing "kak" ("how") with "vybrat" ("to choose") to get the point across in plain spoken Russian.
-- 'Or for a business trip?' Max challenges quietly as the talk turns, joining "delovoy" ("business, businesslike") to "poyezdki" ("trip, journey") so every word pulls its weight.
-- 'There is one simple rule.' Max favors a steady footing for Kostya, using "yest" (from "byt", "there is") alongside "prostoye" ("simple") to shape the meaning.
-- 'The more stars, the better the service.' Max chooses a warm approach at once, pairing "bolshe" ("more") with "zvyozd" ("stars") to get the point across in plain spoken Russian.
-- 'A special commission inspects every corner of the hotel.' Max sets a sharp direction as the scene unfolds, pairing "spetsialnaya" ("special") with "komissiya" ("commission") to get the point across in plain spoken Russian.
-- 'Forgive me, I did not have time to exchange money.' Max shows a thoughtful footing with Nastya, weaving "prostite" ("excuse me") together with "uspel" ("managed in time") just the way native speakers do.
-- 'Is it alright if I pay in dollars?' Max queries candidly during the talk, leaning on "rasschitayus" ("pay") before closing the thought with "dollarami" ("dollars").
-- 'Will this be enough?' Max probes lightly in their exchange, leaning on "khvatit" ("enough") before closing the thought with "etogo" ("that").
-- 'Of course, here you go.' Nastya displays a direct line in front of Kostya, combining "konechno" ("of course") and "proshu" ("beg, ask") so the key meaning lands right away.
-- 'Kostik, look how much I earned!' Nastya shares a brisk approach without hesitation, anchoring the Russian line on "smotri" ("look") and "skolko" ("how much, so much") without extra filler.
-- 'What is this?' Kostya presses bluntly in front of Max, building the phrase around "chto" ("what") and "eto" ("this") for a crisp, natural delivery.
-- 'Dollars!' Nastya shows a playful tack in their talk, leaning on "dollary" ("dollars") as a compact, one-word response that needs no extra words.
+- 'How do you choose a good hotel for a vacation?' Max spotlights this key term with Kostya: "khoroshiy" means "good", and it carries the main weight of what Max is saying.
+- 'Or for a business trip?' Max frames the comeback without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'There is one simple rule.' Max speaks up steadily on the spot, saying out loud what both of them already know.
+- 'The more stars, the better the service.' Max reaches for one sharp element on cue: "zvyozd" means "stars" (from "zvezda"), giving the line its exact edge.
+- 'A special commission inspects every corner of the hotel.' Max answers warmly across the room, making his position completely clear.
+- 'Forgive me, I did not have time to exchange money.' Max steps in sharply as they talk, letting the remark speak for itself.
+- 'Is it alright if I pay in dollars?' Max sharpens this direct touch at once: "rasschitayus" means "pay" (from "rasschitatsya"), giving the line its exact edge.
+- 'Will this be enough?' Max hands over that point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Of course, here you go.' Nastya pushes back honestly to be clear, so Kostya knows she is not just making small talk.
+- 'Kostik, look how much I earned!' Nastya features one key element right here: "zarabotala" means "started working" (from "zarabotat"), giving the line its exact edge.
+- 'What is this?' Kostya phrases the reply for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Dollars!' Nastya steps in honestly hearing Max, keeping the focus on what actually matters here.

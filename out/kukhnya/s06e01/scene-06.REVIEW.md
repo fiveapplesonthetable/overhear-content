@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' Katya asks candidly to make the point, anchoring the Russian line on "khotela" ("wanted, meant") and "videt" ("to see") without extra filler.
-- 'Yes, sit down.' Eleonora chooses a pointed tone beside Katya, pairing "sadis" ("sit down") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'Thank you, I will stand.' Katya displays an earnest posture in the scene, leaning on "spasibo" ("thank you") before closing the thought with "postoyu" ("will stand").
-- 'Katya, I understand you are upset with me.' Eleonora projects a measured style as the scene unfolds, joining "ponimayu" ("understand") to "obizhena" ("offended, hurt") so every word pulls its weight.
-- 'This is very important to me.' Eleonora favors a firm posture in their talk, building the phrase around "ochen" ("very much") and "vazhno" ("important, mattering") for a crisp, natural delivery.
-- 'Sorry, I cannot, there is a lot of work.' Katya conveys a serious angle at this moment, linking "izvini" ("sorry, excuse me"), "mogu" ("can"), and "mnogo" ("a lot") in one brisk exchange.
-- 'But I can give you a day off.' Eleonora conveys a serious course as they talk, using "mogu" (from "moch", "can") alongside "dat" ("to give") to shape the meaning.
-- 'I am at fault, I interfered in your life.' Eleonora displays an emphatic mood for Katya, using "vinovata" (from "vinovatyy", "at fault, to blame") alongside "vmeshivalas" ("interfered") to shape the meaning.
-- 'Nikita is a good guy, I really like him.' Katya maintains a brisk tone as they talk, pairing "nravitsya" ("is pleasing") with "khoroshiy" ("good") so the "-sya" ending carries the action.
-- 'But nothing excuses his lying.' Katya projects a brisk rhythm for Eleonora, joining "opravdyvayet" ("live up to") to "vranya" ("lying") so every word pulls its weight.
-- 'I understand you, because I love you.' Eleonora picks a warm rhythm on the spot, combining "ponimayu" ("understand") and "potomu" ("because") so the key meaning lands right away.
-- 'I love you very much, peace?' Eleonora challenges bluntly toward Katya here, weaving "ochen" ("very much") together with "lyublyu" ("love") just the way native speakers do.
+- 'Did you want to see me?' Katya presses bluntly how Eleonora expects that to work in practice.
+- 'Yes, sit down.' Eleonora anchors one classic piece with Katya: "sadis" means "sit down" (from "saditsya"), giving the line its exact edge.
+- 'Thank you, I will stand.' Katya lays out the reply toward Eleonora: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Katya, I understand you are upset with me.' Eleonora jumps in briskly as things stand, so Katya knows she is not just making small talk.
+- 'This is very important to me.' Eleonora highlights one vivid detail for Katya: "vazhno" means "important, mattering" (from "vazhnyy"), giving the line its exact edge.
+- 'Sorry, I cannot, there is a lot of work.' Katya hands over this warning plainly here: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'But I can give you a day off.' Eleonora fires back steadily on the spot, without trying to dress up how she really feels.
+- 'I am at fault, I interfered in your life.' Eleonora features this telling detail for Katya: "vmeshivalas" means "interfered" (from "vmeshivatsya"), giving the line its exact edge.
+- 'Nikita is a good guy, I really like him.' Katya chimes in decisively hearing Eleonora, to clear the air between them once and for all.
+- 'But nothing excuses his lying.' Katya jumps in quietly on the spot, before Eleonora can change the subject.
+- 'I understand you, because I love you.' Eleonora reaches for one familiar choice in earnest: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
+- 'I love you very much, peace?' Eleonora frames the comment beside Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.

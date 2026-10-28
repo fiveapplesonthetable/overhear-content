@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know, Denis, I like you very much too.' Katya sets a frank tone in the scene, weaving "znayesh" ("know") together with "tozhe" ("too") just the way native speakers do.
-- 'Really? I waited so long for these words!' Denis asks openly as they speak, pairing "pravda" ("honestly") with "dolgo" ("for a long time") to get the point across in plain spoken Russian.
-- 'But in our family there is one problem.' Katya keeps a candid rhythm beside Denis, weaving "semye" ("family") together with "yest" ("there is") just the way native speakers do.
-- 'My father is against the two of us dating.' Katya shows a pointed attitude as they talk, leaning on "otets" ("father") before closing the thought with "vstrechalis" ("to meet, to date").
-- 'He is a very strict and stern person.' Katya establishes a direct bearing beside Denis, putting "ochen" ("very much") alongside "strogiy" ("strict") in a tight, everyday turn of phrase.
-- 'Without his consent nothing is decided in our family.' Katya strikes a frank bearing at once, linking "soglasiya" ("nothing"), "reshayetsya" ("is being sorted out"), and "bez" ("without") in one brisk exchange.
-- 'I cannot go against my dad's will.' Katya chooses a lively approach across the room, combining "mogu" ("can") and "poyti" ("go") so the key meaning lands right away.
-- 'Why didn't you tell me right away?' Denis checks frankly across the room, joining "pochemu" ("why") to "srazu" ("at once") so every word pulls its weight.
-- 'After all, this is not a difficult problem at all!' Denis strikes a direct rhythm in the room, combining "sovsem" ("at all") and "slozhnaya" ("complicated") so the key meaning lands right away.
-- 'I will have a serious talk with him today.' Denis strikes a steady rhythm as they talk, building the phrase around "segodnya" ("today") and "seryozno" ("seriously") for a crisp, natural delivery.
-- 'Your father will definitely give us his consent!' Denis sustains a warm tone right away, weaving "otets" ("father") together with "obyazatelno" ("surely, without fail") just the way native speakers do.
-- 'Wait, Denis, it is better not to go to him!' Katya shares an unhurried posture on the spot, linking "podozhdi" ("wait"), "luchshe" ("better"), and "khodit" ("go") in one brisk exchange.
+- 'You know, Denis, I like you very much too.' Katya lays out this statement beside Denis: the "-sya" ending on "nravishsya" ("appeal to, are liked") turns the action inward or makes it happen between people naturally.
+- 'Really? I waited so long for these words!' Denis questions openly what Katya is actually getting at here.
+- 'But in our family there is one problem.' Katya underscores one sharp expression toward Denis: "problema" means "problem", and it carries the main weight of what Katya is saying.
+- 'My father is against the two of us dating.' Katya makes that reply calmly now: the "-sya" ending on "vstrechalis" ("to meet, to date") turns the action inward or makes it happen between people naturally.
+- 'He is a very strict and stern person.' Katya cuts in earnestly during the talk, keeping the focus on what actually matters here.
+- 'Without his consent nothing is decided in our family.' Katya sharpens this clear piece right here: "soglasiya" means "nothing", and it carries the main weight of what Katya is saying.
+- 'I cannot go against my dad's will.' Katya responds decisively facing Denis, steering the talk right where she wants it.
+- 'Why didn't you tell me right away?' Denis quizzes plainly in front of Katya without any preamble.
+- 'After all, this is not a difficult problem at all!' Denis highlights one sharp touch in reply: "slozhnaya" means "complicated" (from "slozhnyy"), giving the line its exact edge.
+- 'I will have a serious talk with him today.' Denis replies at once before Katya, bringing things back to earth after the buildup.
+- 'Your father will definitely give us his consent!' Denis stands firm sharply to be clear, before Katya can change the subject.
+- 'Wait, Denis, it is better not to go to him!' Katya spotlights this key word on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.

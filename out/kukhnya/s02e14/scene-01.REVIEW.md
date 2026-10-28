@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not know by what laws of the universe this works.' Max holds an earnest view in the conversation, joining "znayu" ("know") to "zakonam" ("law, statute") so every word pulls its weight.
-- 'Just as it seemed to you.' Vika establishes a direct approach for Senya, combining "kak" ("how") and "kazalos" ("to seem") so the key meaning lands right away.
-- 'The life you could have lost comes back to you.' Senya shows a resolute tack in their talk, weaving "vozvrashchayetsya" ("comes back") together with "zhizn" ("life") just the way native speakers do.
-- 'But sometimes a return happens.' Max establishes a serious course with Vika, pairing "inogda" ("sometimes, at times") with "sluchayetsya" ("to happen, occur") to get the point across in plain spoken Russian.
-- 'Are you a new guy here or what?' Vika checks directly without holding back, weaving "novenkiy" ("newcomer") together with "ty" ("you") just the way native speakers do.
-- 'Here you go!' Senya takes a wry line beside Vika, using "vot" ("there, here") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Senya, how is the fricassee coming along.' Max keeps a warm tone in the scene, linking "frikase" ("fricassee") directly with "gotovnosti" ("readiness, doneness"), since Russian drops "is" and "are" in the present.
-- 'Wait, who is that?' Vika checks frankly to keep things clear, linking "eto" ("this") directly with "kto" ("who"), since Russian drops "is" and "are" in the present.
-- 'He used to work here as a waiter.' Senya projects an unhurried tone on the spot, building the phrase around "ranshe" ("earlier, previously") and "ofitsiantom" ("waiter, server") for a crisp, natural delivery.
-- 'He was almost like a son to me.' Max maintains an easygoing line at this moment, building the phrase around "pochti" ("almost") and "kak" ("how") for a crisp, natural delivery.
-- 'Not like you.' Vika strikes a playful posture without hesitation, weaving "kak" ("how") together with "ne" ("not") just the way native speakers do.
-- 'Will Viktoriya Sergeyevna take me back?' Senya asks firmly without hesitation, weaving "vozmet" ("will take, hire") together with "nazad" ("ago") just the way native speakers do.
-- 'Ever since you left.' Max favors an emphatic approach at once, putting "kak" ("how") alongside "ushel" ("left, would leave") in a tight, everyday turn of phrase.
+- 'I do not know by what laws of the universe this works.' Max focuses on one practical term in reply: "vselennaya" means "universe", and it carries the main weight of what Max is saying.
+- 'Just as it seemed to you.' Vika makes that thought without fuss: the "-sya" ending on "kazalos" ("to seem") turns the action inward or makes it happen between people naturally.
+- 'The life you could have lost comes back to you.' Senya steps in boldly during the talk, to clear the air between them once and for all.
+- 'But sometimes a return happens.' Max reaches for one pointed term at once: "vozvrashcheniye" means "return", and it carries the main weight of what Max is saying.
+- 'Are you a new guy here or what?' Vika frames this warning at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Here you go!' Senya speaks at once around Vika, keeping the focus on what actually matters here.
+- 'Senya, how is the fricassee coming along.' Max sharpens this direct piece on cue: "gotovnosti" means "readiness, doneness" (from "gotovnost"), giving the line its exact edge.
+- 'Wait, who is that?' Vika makes that point facing Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He used to work here as a waiter.' Senya jumps in openly watching Max, steering the talk right where he wants it.
+- 'He was almost like a son to me.' Max spotlights one sharp piece at once: "pochti" means "almost", and it carries the main weight of what Max is saying.
+- 'Not like you.' Vika frames that line around Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Will Viktoriya Sergeyevna take me back?' Senya questions briskly before Vika can change the subject.
+- 'Ever since you left.' Max leans on one colorful choice in reply: "ushel" means "left, would leave" (from "uyti"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, do you feel better?' Senya prompts naturally without holding back, combining "luchshe" ("better") and "german" ("German") so the key meaning lands right away.
-- 'You fell into a faint.' Senya shows a calm attitude in the conversation, leaning on "obmorok" ("faint") before closing the thought with "upali" ("to fall, to drop").
-- 'What happened to me?' German checks candidly from the start, anchoring the Russian line on "sluchilos" ("happened") and "chto" ("what") without extra filler.
-- 'There are strong magnetic storms today.' Senya strikes an unhurried attitude at this moment, weaving "segodnya" ("today") together with "magnitnyye" ("magnetic") just the way native speakers do.
-- 'Was I knocked out for a long time?' German inquires honestly to keep things clear, putting "dolgo" ("for a long time") alongside "otklyuchke" ("time") in a tight, everyday turn of phrase.
-- 'I am going to drive away for a bit now.' German strikes a brisk direction in the room, putting "seychas" ("now") alongside "nenadolgo" ("for a short time") in a tight, everyday turn of phrase.
-- 'Hello, Kostya, call Nastya's dad.' Max shares a thoughtful footing as they talk, combining "zvoni" ("call") and "pape" ("to Dad") so the key meaning lands right away.
-- 'Have him drive back here.' Max offers a sharp angle in the scene, weaving "obratno" ("back") together with "yedet" ("is going") just the way native speakers do.
-- 'Styopa forgot his mask at home.' Max presents a steady course in this beat, linking "styopa" ("styopa"), "masku" ("mask"), and "doma" ("at home") in one brisk exchange.
-- 'It is better to bring him back right now.' Max displays a resolute note during the exchange, combining "luchshe" ("better") and "privezti" ("to bring") so the key meaning lands right away.
-- 'There is a boy here, two years old, named Roma.' Max presents a natural course right away, leaning on "tut" ("here") before closing the thought with "malchik" ("boy").
-- 'And he has a shirt with a spider.' Max sets an emphatic manner toward Senya, leaning on "mayka" ("spider") before closing the thought with "paukom" ("spider").
+- 'German Mikhailovich, do you feel better?' Senya probes plainly before German can change the subject.
+- 'You fell into a faint.' Senya focuses on one concrete touch at once: "obmorok" means "faint", and it carries the main weight of what Senya is saying.
+- 'What happened to me?' German frames that reply facing Max: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'There are strong magnetic storms today.' Senya replies openly toward Max, letting the remark speak for itself.
+- 'Was I knocked out for a long time?' German uses one clear piece in earnest: "otklyuchke" means "time", and it carries the main weight of what German is saying.
+- 'I am going to drive away for a bit now.' German lays out the reaction on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello, Kostya, call Nastya's dad.' Max opens up promptly with German, leaving no doubt about where he stands.
+- 'Have him drive back here.' Max grounds one memorable piece right here: "obratno" means "back", and it carries the main weight of what Max is saying.
+- 'Styopa forgot his mask at home.' Max makes this point facing German: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'It is better to bring him back right now.' Max pushes back lightly as things stand, so Senya knows he is not just making small talk.
+- 'There is a boy here, two years old, named Roma.' Max emphasizes this vivid choice in earnest: "malchik" means "boy", and it carries the main weight of what Max is saying.
+- 'And he has a shirt with a spider.' Max answers earnestly facing Senya, letting the remark speak for itself.

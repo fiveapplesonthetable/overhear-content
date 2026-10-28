@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, you have a visitor.' Vika brings an emphatic line straight away, linking "posetitel" ("visitor"), "viktor" ("Viktor"), and "petrovich" ("Petrovich") in one brisk exchange.
-- 'She says she is an acquaintance of yours, Elena Sokolova.' Vika maintains a firm line beside Elena, linking "govorit" ("talks"), "znakomaya" ("acquaintance"), and "kakaya-to" ("some kind of") in one brisk exchange.
-- 'I do not want to see her, I cannot.' Elena strikes a resolute line at once, linking "khochu" ("want"), "videt" ("to see"), and "mogu" ("can") in one brisk exchange.
-- 'Tell her I am not here, tell her I died.' Barinov chooses a direct approach in the conversation, anchoring the Russian line on "skazhi" ("say") and "umer" ("died") without extra filler.
-- 'Wait, why.' Vika presents a brisk course on the spot, putting all the weight on "chto" ("what") so the reply lands immediately.
-- 'Did you not tell me yourself that it was allowed?' Elena tests naturally right away, leaning on "skazali" ("told") before closing the thought with "mozhno" ("may, can").
-- 'Well, a little bit is allowed.' Barinov presents a natural note across the room, combining "nemnogo" ("a bit") and "mozhno" ("may, can") so the key meaning lands right away.
-- 'I will not hide the truth from you.' Vika keeps a steady footing toward Elena, linking "budu" ("will be"), "skryvat" ("to hide"), and "ne" ("not") in one brisk exchange.
-- 'At the very...' Elena conveys a sharp manner right away, leaning on "samyy" ("the most") as a compact, one-word response that needs no extra words.
-- 'And so what?' Barinov tests decisively at this point, weaving "nu" ("oh, come on") together with "chto" ("what") just the way native speakers do.
-- 'We sailed without a captain for half a year.' Vika chooses an unhurried approach on the spot, combining "kapitana" ("captain") and "polgoda" ("six months") so the key meaning lands right away.
-- 'We simply must bring in a new head chef.' Elena shows a natural tack during the exchange, leaning on "u nas" ("by us, at our place") and "prosto" ("just") the way natural Russian does.
-- 'So allow me to introduce our new head chef to you.' Barinov keeps a wry approach in this beat, leaning on "poetomu" ("that's why") before closing the thought with "pozvolte" ("allow me").
+- 'Viktor Petrovich, you have a visitor.' Vika continues dryly with Barinov, so Barinov knows she is not just making small talk.
+- 'She says she is an acquaintance of yours, Elena Sokolova.' Vika picks one direct element in reply: "znakomaya" means "acquaintance" (from "znakomyy"), giving the line its exact edge.
+- 'I do not want to see her, I cannot.' Elena replies pointedly in this moment, shifting the whole mood of the room in a single beat.
+- 'Tell her I am not here, tell her I died.' Barinov responds lightly on the spot, refusing to let the moment slip past.
+- 'Wait, why.' Vika gives that thought with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Did you not tell me yourself that it was allowed?' Elena phrases that answer before Vika: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Well, a little bit is allowed.' Barinov follows up candidly in their talk, saying out loud what both of them already know.
+- 'I will not hide the truth from you.' Vika emphasizes one telling choice at once: "skryvat" means "to hide", and it carries the main weight of what Vika is saying.
+- 'At the very...' Elena states this update around Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And so what?' Barinov inquires calmly before Vika can change the subject.
+- 'We sailed without a captain for half a year.' Vika reaches for one direct piece with Barinov: "kapitana" means "captain" (from "kapitan"), giving the line its exact edge.
+- 'We simply must bring in a new head chef.' Elena lays out the thought at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'So allow me to introduce our new head chef to you.' Barinov counters plainly without any doubt, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bye, guys, I am flying to Sochi to go skiing!' Max displays a lively rhythm at this moment, putting "poka" ("bye") alongside "rebyata" ("the boys, the lads") in a tight, everyday turn of phrase.
-- 'Vitya, how is my festive dinner coming along?' Mikhail inquires calmly to make the point, putting "kak" ("how") alongside "tam" ("there") in a tight, everyday turn of phrase.
-- 'Almost ready, but one problem has come up for us.' Barinov favors a playful note across the room, building the phrase around "pochti" ("almost") and "gotov" ("ready") for a crisp, natural delivery.
-- 'Your white truffle will not be enough for two dishes.' Barinov sustains an honest posture without hesitation, using "belogo" (from "belyy", "White") alongside "tryufelya" ("truffle") to shape the meaning.
-- 'Unfortunately, it turned out to be quite hollow inside.' Barinov presents an easygoing approach without hesitation, anchoring the Russian line on "vnutri" ("inside") and "sozhaleniyu" ("regret") without extra filler.
-- 'Let me quickly cook something else for you?' Barinov inquires steadily in front of Mikhail, pairing "davay" ("let's") with "bystro" ("quickly") to get the point across in plain spoken Russian.
-- 'Then we will do this—we will stretch out the intrigue nicely!' Mikhail shares an emphatic tempo for Barinov, pairing "togda" ("back then") with "sdelayem" ("we'll do") to get the point across in plain spoken Russian.
-- 'Let Eleonora eat the truffle dish alone first.' Mikhail conveys a frank course in this beat, pairing "snachala" ("first, at first") with "syest" ("to eat") to get the point across in plain spoken Russian.
-- 'And I will make a grand appearance at the table a bit later!' Mikhail sustains a measured tempo in their talk, weaving "effektno" ("understand") together with "poyavlyus" ("to appear, to show up") just the way native speakers do.
-- 'Right when they serve your signature dessert.' Mikhail projects an honest line in the room, leaning on "kak" ("how") before closing the thought with "raz" ("time, once").
-- 'And are you completely sure that she likes sweets?' Barinov tests naturally toward Max here, building the phrase around "tochno" ("definitely") and "uveren" ("sure, confident") for a crisp, natural delivery.
-- 'Of course I am sure, tonight everything will go perfectly!' Mikhail displays a firm attitude on the spot, linking "konechno" ("of course"), "uveren" ("sure, confident"), and "segodnya" ("today") in one brisk exchange.
+- 'Bye, guys, I am flying to Sochi to go skiing!' Max colors one pointed element in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Max is saying.
+- 'Vitya, how is my festive dinner coming along?' Mikhail sends this line toward Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Almost ready, but one problem has come up for us.' Barinov speaks up boldly with a smile, so Max knows he is not just making small talk.
+- 'Your white truffle will not be enough for two dishes.' Barinov grounds one colorful term for Mikhail: "tryufelya" means "truffle" (from "tryufel"), giving the line its exact edge.
+- 'Unfortunately, it turned out to be quite hollow inside.' Barinov frames that thought without fuss: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Let me quickly cook something else for you?' Barinov wonders calmly why things suddenly took this turn between them.
+- 'Then we will do this—we will stretch out the intrigue nicely!' Mikhail favors one clear element in earnest: "krasivo" means "beautifully" (from "krasivyy"), giving the line its exact edge.
+- 'Let Eleonora eat the truffle dish alone first.' Mikhail fires back promptly to be clear, steering the talk right where he wants it.
+- 'And I will make a grand appearance at the table a bit later!' Mikhail stands firm lightly with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'Right when they serve your signature dessert.' Mikhail favors this telling choice for Max: "firmennyy" means "signature", and it carries the main weight of what Mikhail is saying.
+- 'And are you completely sure that she likes sweets?' Barinov offers this line for Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Of course I am sure, tonight everything will go perfectly!' Mikhail pushes back honestly with a smile, bringing things back to earth after the buildup.

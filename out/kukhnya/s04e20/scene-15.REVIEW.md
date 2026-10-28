@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I am not afraid of you at all.' Barinov sets a natural tack at once, combining the intensifier "sovsem" ("completely, at all") with "boyus" ("am afraid") to give the line its natural spoken rhythm.
-- 'Viktor Petrovich, may I speak with you?' Vika checks lightly across the room, weaving "mozhno" ("may, can") together with "pogovorit" ("to talk") just the way native speakers do.
-- 'Excuse me, Katya, wait for me for one second!' Nagiyev shares an emphatic tack as they talk, pairing "izvinite" ("sorry, excuse me") with "podozhdi" ("wait") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, do you want to ruin the show?' Vika challenges honestly in this moment, anchoring the Russian line on "khotite" ("want") and "sorvat" ("to disrupt") without extra filler.
-- 'I warned you, he can let's down!' Nagiyev conveys a thoughtful bearing toward Barinov, building the phrase around "preduprezhdal" ("warned") and "mozhet" ("can") for a crisp, natural delivery.
-- 'Do you want me to lose money?' Vika quizzes decisively beside Nagiyev, linking "khotite" ("want"), "poteryala" ("lost, wasted"), and "dengi" ("money") in one brisk exchange.
-- 'Quiet, Dima, be quiet for one minute.' Vika shows an unhurried position beside Barinov, pairing "tikho" ("easy, quiet") with "zamolchi" ("to fall silent") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, do not worsen your position.' Vika chooses a lively direction for Nagiyev, putting "ukhudshayte" ("position") alongside "polozheniye" ("position, situation") in a tight, everyday turn of phrase.
-- 'I have big connections in Moscow.' Vika establishes a warm direction on the spot, using "bolshiye" (from "bolshoy", "big, serious") alongside "svyazi" ("of the connection") to shape the meaning.
-- 'You will not get hired at a single restaurant.' Vika presents a steady manner for Nagiyev, combining "ustroites" ("to get a job") and "restoran" ("restaurant") so the key meaning lands right away.
-- 'Not even as the most ordinary line cook.' Vika maintains a serious course straight away, leaning on "samym" ("the most") before closing the thought with "obychnym" ("ordinary, usual").
-- 'You have one minute to think it over.' Vika displays a firm view during the exchange, pairing "minuta" ("minute") with "razdumye" ("over") to get the point across in plain spoken Russian.
+- 'Dima, I am not afraid of you at all.' Barinov answers pointedly in their talk, without trying to dress up how he really feels.
+- 'Viktor Petrovich, may I speak with you?' Vika anchors one familiar piece with Nagiyev: "pogovorit" means "to talk", and it carries the main weight of what Vika is saying.
+- 'Excuse me, Katya, wait for me for one second!' Nagiyev drops that point in earnest: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Nagiyev steps in.
+- 'Viktor Petrovich, do you want to ruin the show?' Vika presses evenly about what Nagiyev just brought up.
+- 'I warned you, he can let's down!' Nagiyev sharpens one classic piece right here: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
+- 'Do you want me to lose money?' Vika brings the comeback frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Quiet, Dima, be quiet for one minute.' Vika steps in right away with a smile, leaving no doubt about where she stands.
+- 'Viktor Petrovich, do not worsen your position.' Vika anchors one sharp expression toward Nagiyev: "ukhudshayte" means "position", and it carries the main weight of what Vika is saying.
+- 'I have big connections in Moscow.' Vika gives this update on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'You will not get hired at a single restaurant.' Vika follows up calmly with a shrug, grounding the moment in plain reality.
+- 'Not even as the most ordinary line cook.' Vika highlights this key word in earnest: "obychnym" means "ordinary, usual" (from "obychnyy"), giving the line its exact edge.
+- 'You have one minute to think it over.' Vika brings that remark right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.

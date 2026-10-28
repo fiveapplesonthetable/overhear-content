@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then all the guys will only be glad.' Kostya displays a candid stance at once, leaning on "togda" ("back then") before closing the thought with "rebyata" ("the boys, the lads").
-- 'And at the same time you will talk calmly with Katya.' Kostya brings a resolute note in the scene, anchoring the Russian line on "zaodno" ("at the same time") and "spokoyno" ("calmly") without extra filler.
-- 'Guys, I just wanted to say to you.' Kostya maintains a firm direction in the room, anchoring the Russian line on "rebyata" ("the boys, the lads") and "prosto" ("just") without extra filler.
-- 'It is always very hard to part with people.' Kostya favors a direct view without hesitation, building the phrase around "vsegda" ("always") and "ochen" ("very much") for a crisp, natural delivery.
-- 'Today you are losing a truly good friend.' Kostya favors a lively view across the room, anchoring the Russian line on "segodnya" ("today") and "teryayete" ("are wasting") without extra filler.
-- 'But today I am losing a little bit more.' Kostya sustains a sharp style without hesitation, weaving "segodnya" ("today") together with "teryayu" ("to lose") just the way native speakers do.
-- 'Tell me, does anyone need a free room right now?' Kostya tests dryly in the scene, weaving "skazhite" ("tell") together with "seychas" ("now") just the way native speakers do.
-- 'I am also putting everything on the table.' Barinov picks a playful approach right away, linking "tozhe" ("too"), "stavlyu" ("put"), and "stol" ("table") in one brisk exchange.
-- 'And I am doubling our bet right now.' The guest favors a firm position straight away, leaning on "seychas" ("now") before closing the thought with "udvaivayu" ("double").
-- 'And I, perhaps, will easily call the bet.' Barinov presents a lively manner as the scene unfolds, weaving "legko" ("easy") together with "podderzhu" ("will support") just the way native speakers do.
-- 'I will add the money later if needed.' Barinov holds a lively manner in this beat, building the phrase around "dengi" ("money") and "potom" ("then") for a crisp, natural delivery.
-- 'Well then, gentlemen, do we show our cards now?' The guest challenges bluntly toward Kostya here, using "gospoda" (from "gospodin", "gentlemen") alongside "teper" ("now") to shape the meaning.
+- 'Then all the guys will only be glad.' Kostya pushes back bluntly during the talk, to clear the air between them once and for all.
+- 'And at the same time you will talk calmly with Katya.' Kostya anchors one practical choice for the guest: "pogovorish" means "will talk" (from "pogovorit"), giving the line its exact edge.
+- 'Guys, I just wanted to say to you.' Kostya offers the reaction before Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'It is always very hard to part with people.' Kostya speaks up dryly beside the guest, so the guest knows he is not just making small talk.
+- 'Today you are losing a truly good friend.' Kostya underscores one direct word right here: "deystvitelno" means "really, indeed", and it carries the main weight of what Kostya is saying.
+- 'But today I am losing a little bit more.' Kostya stands firm wryly without any doubt, testing the guest's reaction in the middle of the exchange.
+- 'Tell me, does anyone need a free room right now?' Kostya presses bluntly as Barinov tries to explain the situation.
+- 'I am also putting everything on the table.' Hear how Barinov reassures Kostya without pause — the Russian word "stavlyu" ("put", built from "stavit") does the heavy lifting.
+- 'And I am doubling our bet right now.' The guest speaks up sharply with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'And I, perhaps, will easily call the bet.' Barinov follows up decisively with a nod, letting the remark speak for itself.
+- 'I will add the money later if needed.' Barinov focuses on one colorful word in reply: "neobkhodimosti" means "necessity" (from "neobkhodimost"), giving the line its exact edge.
+- 'Well then, gentlemen, do we show our cards now?' The guest aims the comment beside Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.

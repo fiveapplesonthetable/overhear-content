@@ -35,7 +35,7 @@ WALK = [
     (2, None, "'Let's rest a bit.' Max suggests taking a break. You can hear the word for 'a bit'."),
     (3, None, "'Hello, cooks!' Senya cheerfully greets the cooks in the kitchen."),
     (4, None, "'What are you standing around for, cripples?' Fedya uses a harsh word for people who are standing and doing nothing. Notice that 'are' is missing in Russian."),
-    (5, None, "'Can' Fedya questions if they can see who just arrived."),
+    (5, None, "'Can't you see?' Fedya questions if they can see who just arrived."),
     (6, None, "'The pros are here.' Senya sarcastically announces the arrival of the kitchen professionals."),
     (7, None, "'You are not professionals.' Max retorts that they are not real professionals."),
     (8, None, "'You just talk a lot.' Max accuses the two of them of just talking a lot."),

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya, I cannot talk right now.' Lyova presents a frank mood straight away, putting "mogu" ("can") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
-- 'Wait, this is very important right now.' Gulya holds a thoughtful style in their talk, anchoring the Russian line on "podozhdi" ("wait") and "seychas" ("now") without extra filler.
-- 'I tried to tell you today.' Gulya shows a frank rhythm right away, pairing "pytalas" ("tried") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'I am leaving for Bishkek forever.' Gulya conveys a sharp tempo right away, building the phrase around "uyezzhayu" ("am leaving") and "navsegda" ("forever") for a crisp, natural delivery.
-- 'Farewell, Lyova, do not look for me.' Gulya displays a pointed bearing without hesitation, pairing "ishchi" ("look for") with "proshchay" ("farewell") to get the point across in plain spoken Russian.
-- 'Wait, what do you mean you are leaving?' Lyova queries bluntly in front of Gulya, building the phrase around "podozhdi" ("wait") and "kak" ("how") for a crisp, natural delivery.
-- 'Chef, forgive me for the dish.' Lyova displays a brisk footing at once, pairing "prostite" ("excuse me") with "blyudo" ("dish") to get the point across in plain spoken Russian.
-- 'Lyova, where are you running off to now?' Barinov presses openly in front of Lyova, anchoring the Russian line on "kuda" ("where to") and "seychas" ("now") without extra filler.
-- 'Look ahead, open your eyes wide!' Barinov establishes an easygoing line in their talk, pairing "smotri" ("look") with "vperyod" ("ahead of") to get the point across in plain spoken Russian.
-- 'There is no point in continuing the duel now.' Barinov adopts a natural note across the room, weaving "prodolzhat" ("to continue") together with "poyedinok" ("duel, match") just the way native speakers do.
-- 'Gulya, tell me, were you joking just now?' Lyova questions lightly at this point, pairing "skazhi" ("say") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'If you were joking, it is not funny.' Lyova chooses a firm stance as they talk, anchoring the Russian line on "poshutila" ("was joking") and "smeshno" ("ridiculous") without extra filler.
+- 'Gulya, I cannot talk right now.' Lyova follows up sharply around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Wait, this is very important right now.' Gulya centers one pointed touch on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I tried to tell you today.' Gulya grounds this key term with Barinov: "segodnya" means "today", and it carries the main weight of what Gulya is saying.
+- 'I am leaving for Bishkek forever.' Gulya fires back briskly in this moment, watching Lyova's face to see how the news lands.
+- 'Farewell, Lyova, do not look for me.' Gulya picks one practical term in earnest: "ishchi" means "look for" (from "iskat"), giving the line its exact edge.
+- 'Wait, what do you mean you are leaving?' Lyova aims this update around Gulya: putting the question word "kak" right at the front of the line lets Gulya hear the point of the question on the very first beat.
+- 'Chef, forgive me for the dish.' Lyova pushes back briskly with a sigh, making his position completely clear.
+- 'Lyova, where are you running off to now?' Barinov spotlights one clear choice toward Lyova: "pobezhal" means "ran off" (from "pobezhat"), giving the line its exact edge.
+- 'Look ahead, open your eyes wide!' Barinov cuts in decisively without holding back, refusing to let the moment slip past.
+- 'There is no point in continuing the duel now.' Barinov reacts dryly around Lyova, saying out loud what both of them already know.
+- 'Gulya, tell me, were you joking just now?' Lyova anchors one memorable detail with Barinov: "poshutila" means "was joking" (from "poshutit"), giving the line its exact edge.
+- 'If you were joking, it is not funny.' Lyova responds evenly around Gulya, bringing things back to earth after the buildup.

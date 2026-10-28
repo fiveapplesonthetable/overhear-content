@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Will we submit an official application to the registry office?' Still refusing to blink first, Max asks if they should head to the registry office to file the paperwork.
 - 'Tanya, do you have acquaintances at the registry office?' Raising the stakes, Vika asks her sister Tanya if she has a friend at the registry office to speed things up.
 - 'Please help us sign the register as fast as possible.' Sweating now, Max begs Tanya to help them get married as fast as humanly possible.
-- 'Let' Vika suggests announcing their engagement to the entire restaurant right now.
+- 'Let's tell this news to all the guests of the restaurant!' Vika suggests announcing their engagement to the entire restaurant right now.
 - 'Wait, it seems I jumped the gun a little now.' Finally cracking, Max calls a timeout and admits he might have rushed things a bit.
 - 'To be honest, I also rushed with the answer too much.' Relieved that he blinked, Vika admits she also answered a little too hastily.
 - 'So, both of us need to think carefully.' Max quickly agrees that both of them should think things over carefully first.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you going to manage there?' Nagiyev challenges frankly with Kostya now, joining "tam" ("there") to "upravlyat" ("to manage, to run") so every word pulls its weight.
-- 'These are all my people.' Nagiyev chooses a playful stance straight away, placing "lyudi" ("people") straight beside "eto" ("this") with no word for "to be" needed.
-- 'You will not manage them, is that clear?' Nagiyev prompts bluntly in the room, anchoring the Russian line on "budesh" ("will") and "upravlyat" ("to manage, to run") without extra filler.
-- 'No, I will manage them.' Kristina holds a lively attitude in this beat, weaving "budu" ("will be") together with "upravlyat" ("to manage, to run") just the way native speakers do.
-- 'Take the champagne and go away from here.' Nagiyev favors a clear direction without hesitation, building the phrase around "vozmi" ("take, pick up") and "shampanskoye" ("champagne") for a crisp, natural delivery.
-- 'Well why, leave it here.' Kristina picks a direct manner beside Nagiyev, weaving "pochemu" ("why") together with "ostav" ("keep, leave") just the way native speakers do.
-- 'Quickly take this champagne away from here.' Nagiyev offers an emphatic rhythm beside Kostya, building the phrase around "bystro" ("quickly") and "uberi" ("take away, put away") for a crisp, natural delivery.
-- 'And I told you, leave it, otherwise I will fire you.' Kristina presents a firm tack at once, anchoring the Russian line on "skazala" ("told") and "ostav" ("keep, leave") without extra filler.
-- 'You two had a hard breakup.' Kostya establishes a calm manner straight away, combining "bylo" ("was") and "tyazhyoloye" ("heavy, hard") so the key meaning lands right away.
-- 'That is why it gives you no peace.' Kostya holds a calm tack at this moment, linking "dayot" ("gives, yields"), "pokoya" ("peace, rest"), and "vot" ("there, here") in one brisk exchange.
-- 'Thank you, friend, you explained everything clearly to me.' Nagiyev shares an earnest approach during the exchange, joining "spasibo" ("thank you") to "drug" ("friend") so every word pulls its weight.
-- 'That way you will gradually forget her.' Kostya offers a natural bearing during the exchange, leaning on "postepenno" ("gradually") before closing the thought with "zabudesh" ("will forget").
+- 'What are you going to manage there?' Nagiyev quizzes curiously in front of Kostya without any preamble.
+- 'These are all my people.' Nagiyev lays out that thought with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You will not manage them, is that clear?' Nagiyev puts the reaction calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'No, I will manage them.' Kristina proceeds sharply without any doubt, grounding the moment in plain reality.
+- 'Take the champagne and go away from here.' Nagiyev favors this clear element right here: "shampanskoye" means "champagne", and it carries the main weight of what Nagiyev is saying.
+- 'Well why, leave it here.' Kristina holds firm quietly facing Nagiyev, steering the talk right where she wants it.
+- 'Quickly take this champagne away from here.' Nagiyev weighs in dryly in their talk, keeping the focus on what actually matters here.
+- 'And I told you, leave it, otherwise I will fire you.' Kristina emphasizes one clear word in reply: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'You two had a hard breakup.' Kostya states the reply before Kristina: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'That is why it gives you no peace.' Kostya proceeds right away watching Nagiyev, letting the remark speak for itself.
+- 'Thank you, friend, you explained everything clearly to me.' Nagiyev highlights one concrete expression in earnest: "spasibo" means "thank you", and it carries the main weight of what Nagiyev is saying.
+- 'That way you will gradually forget her.' Kostya weighs in openly to settle things, bringing things back to earth after the buildup.

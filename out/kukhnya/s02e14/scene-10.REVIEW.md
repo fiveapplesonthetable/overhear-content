@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, yes.' Elena takes a calm tone as they talk, pairing "nu" ("oh, come on") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'That sounds just like him.' Max presents a direct rhythm at this moment, putting "mozhet" ("can") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'There. Good.' Elena takes a steady direction beside Max, pairing "khorosho" ("good, fine") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'Can I count on you?' Max asks lightly at this point, leaning on "mogu" ("can") before closing the thought with "rasschityvat" ("to count on").
-- 'Well, Elena Pavlovna, you will owe me one.' Max picks a measured footing in this beat, putting "budete" ("will be") alongside "dolzhny" ("must, should") in a tight, everyday turn of phrase.
-- 'I will owe you one.' Max sustains a wry bearing in the scene, joining "budu" ("will be") to "dolzhna" ("should, must") so every word pulls its weight.
-- 'Vitya, are you a fool or what?' Elena presses wryly for Max's benefit, placing "durak" ("fool, idiot") straight beside "vit" ("Vitya") with no word for "to be" needed.
-- 'Oh, come on.' Max takes a playful course during the exchange, pairing "da" ("yes") with "ladno" ("all right") to get the point across in plain spoken Russian.
-- 'Oh, can you imagine, I forgot my phone.' Elena picks an unhurried line without hesitation, putting "predstavlyayete" ("to imagine") alongside "zabyla" ("forgot") in a tight, everyday turn of phrase.
-- 'Ah, I was just about to head out.' Max conveys a grounded angle during the exchange, linking "bezhat" ("to run, flee"), "khotel" ("wanted"), and "ya" ("I") in one brisk exchange.
-- 'Goodbye.' Elena strikes an honest bearing in their talk, joining "svidaniya" ("meeting") to "do" ("until") so every word pulls its weight.
-- 'Are you still alive under there?' Max queries boldly without a pause, joining "zhiv" ("alive") to "tam" ("there") so every word pulls its weight.
-- 'You bet I am.' Elena offers a grounded view with Max, leaning on "slovo" ("word") before closing the thought with "ne" ("not").
+- 'Well, yes.' Elena delivers this line with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'That sounds just like him.' Max gives the comment frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'There. Good.' Elena speaks candidly with a sigh, without trying to dress up how she really feels.
+- 'Can I count on you?' Max favors one clear detail toward Elena: "rasschityvat" means "to count on", and it carries the main weight of what Max is saying.
+- 'Well, Elena Pavlovna, you will owe me one.' Max holds firm sharply around Elena, so Elena knows he is not just making small talk.
+- 'I will owe you one.' Max stands firm wryly beside Elena, testing Elena's reaction in the middle of the exchange.
+- 'Vitya, are you a fool or what?' Elena leans on one familiar detail at once: "durak" means "fool, idiot", and it carries the main weight of what Elena is saying.
+- 'Oh, come on.' Max delivers the thought calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Elena is on board.
+- 'Oh, can you imagine, I forgot my phone.' Elena holds firm right away facing Max, so Max knows she is not just making small talk.
+- 'Ah, I was just about to head out.' Max highlights one direct element on cue: "bezhat" means "to run, flee", and it carries the main weight of what Max is saying.
+- 'Goodbye.' Elena aims this point with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Are you still alive under there?' Max questions firmly if there is more going on behind the scenes.
+- 'You bet I am.' Elena centers this key element with Max: "slovo" means "word", and it carries the main weight of what Elena is saying.

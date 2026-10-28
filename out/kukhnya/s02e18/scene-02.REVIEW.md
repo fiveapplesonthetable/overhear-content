@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, do you want to be sous-chef?' Max queries bluntly across the room, linking "aguzok" ("rookie, greenhorn"), "khochesh" ("do you want"), and "byt" ("be") in one brisk exchange.
-- 'Come on, you will not appoint me anyway.' Barinov brings a natural view in the conversation, putting "ravno" ("the same") alongside "naznachite" ("to set, to appoint") in a tight, everyday turn of phrase.
-- 'I have only worked here a short time, I have very little experience.' Nastya picks a firm footing in front of Barinov, pairing "rabotayu" ("work") with "nedavno" ("returned") to get the point across in plain spoken Russian.
-- 'I told you, do not get smart with me.' Max shows a serious course in the room, joining "skazal" ("said") to "umnichay" ("to act smart") so every word pulls its weight.
-- 'You are already the sous-chef.' Barinov sustains a clear attitude without hesitation, joining "uzhe" ("already, now") to "su-shef" ("sous-chef") so every word pulls its weight.
-- 'Redo the soup and get started.' Nastya favors a serious mood in this beat, building the phrase around "peredelayesh" ("to redo, to remake") and "sup" ("soup") for a crisp, natural delivery.
-- 'Yes, where is Nastya?' Max checks briskly during the talk, combining "da" ("yes") and "nastya" ("Nastya") so the key meaning lands right away.
-- 'It has been like this for a whole hour.' Barinov displays a frank note in the scene, putting "tselyy" ("whole, all") alongside "chas" ("hour") in a tight, everyday turn of phrase.
-- 'Where is Nastya?' Max asks quietly beside Barinov, weaving "gde" ("where") together with "nastya" ("Nastya") just the way native speakers do.
-- 'I do not know.' Max picks a frank footing across the room, combining "znayu" ("know") and "ya" ("I") so the key meaning lands right away.
-- 'She left for your place first thing this morning.' Barinov sets a wry approach at once, combining "utra" ("morning") and "poyekhala" ("to go, to set off") so the key meaning lands right away.
-- 'She is not here with us.' Nastya establishes a thoughtful tempo at this moment, leaning on "u nas" ("by us, at our place") and "net" ("no") the way natural Russian does.
-- 'Maybe she went back home to his place?' Max questions frankly to Barinov here, building the phrase around "mozhet" ("can") and "domoy" ("home") for a crisp, natural delivery.
+- 'Oguzok, do you want to be sous-chef?' Max gives the comment around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Come on, you will not appoint me anyway.' Barinov continues openly toward Nastya, refusing to let the moment slip past.
+- 'I have only worked here a short time, I have very little experience.' Nastya chooses one memorable word with Barinov: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
+- 'I told you, do not get smart with me.' Max gives that thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'You are already the sous-chef.' Barinov stands firm decisively with a nod, without trying to dress up how he really feels.
+- 'Redo the soup and get started.' Nastya favors one telling term in reply: "peredelayesh" means "to redo, to remake" (from "peredelat"), giving the line its exact edge.
+- 'Yes, where is Nastya?' Max makes that line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It has been like this for a whole hour.' Barinov pushes back boldly without any doubt, keeping the focus on what actually matters here.
+- 'Where is Nastya?' Max delivers this line facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not know.' Max lays out that line without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'She left for your place first thing this morning.' Barinov answers steadily on the spot, so Max knows he is not just making small talk.
+- 'She is not here with us.' Nastya phrases this warning on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Maybe she went back home to his place?' Max delivers that point right away: the "-sya" ending on "vernulas" ("returned") turns the action inward or makes it happen between people naturally.

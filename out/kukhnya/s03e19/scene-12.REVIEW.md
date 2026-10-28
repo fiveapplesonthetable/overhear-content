@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In exactly half an hour the hot dish will go to the table.' Rodion holds an earnest posture as they talk, joining "rovno" ("exactly") to "polchasa" ("half-hour") so every word pulls its weight.
-- 'Here one can say only one word: a true Barinov!' Max offers a steady note in the scene, joining "tut" ("here") to "mozhno" ("may, can") so every word pulls its weight.
-- 'Eva, do you want a handsome guy to treat you tonight?' Max queries warmly toward Eva here, joining "khochesh" ("do you want") to "simpatichnyy" ("handsome, cute") so every word pulls its weight.
-- 'Whoa, are you inviting me to a café right now?' Eva inquires openly as they speak, linking "seychas" ("now"), "kafe" ("café"), and "priglashayesh" ("you are inviting") in one brisk exchange.
-- 'Why a café? I am a chef at a fancy restaurant.' Max questions directly from the start, joining "zachem" ("what for") to "kafe" ("café") so every word pulls its weight.
-- 'I can easily cook everything myself at home.' Max establishes a direct mood in this beat, anchoring the Russian line on "legko" ("easy") and "mogu" ("can") without extra filler.
-- 'Interesting, and where will you cook for me?' Eva tests briskly as the beat lands, building the phrase around "interesno" ("interesting") and "gde" ("where") for a crisp, natural delivery.
-- 'We will cook a delicious dinner right at my place.' Max shares a direct line in the room, putting "prigotovim" ("will prepare") alongside "vkusnyy" ("delicious") in a tight, everyday turn of phrase.
-- 'So you are inviting me to your place for dinner?' Eva probes quietly beside Max, linking "znachit" ("then, so"), "zovyosh" ("are calling"), and "uzhin" ("dinner") in one brisk exchange.
-- 'Maybe even for dinner smoothly turning into breakfast.' Max takes a calm attitude at once, weaving "mozhet" ("can") together with "uzhin" ("dinner") just the way native speakers do.
-- 'You are funny! Then see you today after the shift.' Eva establishes a wry stance at once, putting "smeshnoy" ("funny") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'Done! The dish needs ten minutes to breathe—and then to the table.' Rodion maintains a steady tempo in the room, putting "gotovo" ("ready") alongside "minut" ("minutes") in a tight, everyday turn of phrase.
+- 'In exactly half an hour the hot dish will go to the table.' Rodion proceeds calmly without a pause, saying out loud what both of them already know.
+- 'Here one can say only one word: a true Barinov!' Max grounds one loaded piece in earnest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
+- 'Eva, do you want a handsome guy to treat you tonight?' Max aims the comeback calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Eva purely through rising pitch at the end.
+- 'Whoa, are you inviting me to a café right now?' Eva probes sharply while looking straight at Rodion here.
+- 'Why a café? I am a chef at a fancy restaurant.' Max picks one vivid touch on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'I can easily cook everything myself at home.' Max delivers the reply with warmth: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
+- 'Interesting, and where will you cook for me?' Eva probes firmly in front of Max without any preamble.
+- 'We will cook a delicious dinner right at my place.' Max frames this sharp element in earnest: "prigotovim" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'So you are inviting me to your place for dinner?' Eva brings the reply in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Maybe even for dinner smoothly turning into breakfast.' Max speaks promptly toward Rodion, without trying to dress up how he really feels.
+- 'You are funny! Then see you today after the shift.' Eva points to one direct choice toward Max: "smeshnoy" means "funny", and it carries the main weight of what Eva is saying.
+- 'Done! The dish needs ten minutes to breathe—and then to the table.' Rodion brings that line right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And pass along good luck from the head chef to her husband tomorrow.' Barinov maintains a frank direction at once, combining "pereday" ("pass on, give") and "shef-povara" ("head chef") so the key meaning lands right away.
-- 'So I see.' Kostya sets an emphatic course in the room, combining "smotryu" ("look") and "ya" ("I") so the key meaning lands right away.
-- 'And how do you know about that?' Sasha inquires frankly during the talk, putting "otkuda" ("where from") alongside "znayesh" ("know") in a tight, everyday turn of phrase.
-- 'By the way, I refused to fly myself.' Barinov sustains a pointed posture beside Sasha, pairing "prochim" ("other") with "otkazalsya" ("refused") to get the point across in plain spoken Russian.
-- 'And what does Sasha think about that?' Kostya inquires openly without a pause, joining "povodu" ("matter") to "dumayet" ("thinks") so every word pulls its weight.
-- 'What about Sasha?' Barinov asks pointedly for Sasha's benefit, building the phrase around "chto" ("what") and "sasha" ("Sasha") for a crisp, natural delivery.
-- 'Things between Sasha and me are basically over.' Barinov sustains a playful tone in their talk, building the phrase around "kak" ("how") and "sashey" ("Sasha") for a crisp, natural delivery.
-- 'I just could not go.' Kostya strikes a direct tone in the conversation, linking "mog" ("can, to be able"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
-- 'A tragedy happened, his grandfather died.' Sasha holds an emphatic mood on the spot, linking "gore" ("grief, sorrow"), "sluchilos" ("happened"), and "ded" ("grandfather") in one brisk exchange.
-- 'No, Kostya's grandfather.' Barinov presents a measured angle in the room, pairing "kosti" ("bones") with "net" ("no") to get the point across in plain spoken Russian.
-- 'Yours?' Kostya inquires naturally as they speak, combining "u tebya" (literally "by you") with "tebya" ("you") rather than a separate word for "have".
-- 'I had to support pal, you understand, right?' Sasha questions openly in front of Kostya, anchoring the Russian line on "nado" ("it is necessary") and "bylo" ("was") without extra filler.
-- 'Yes, of course.' Barinov conveys a candid note at once, joining "konechno" ("of course") to "da" ("yes") so every word pulls its weight.
+- 'And pass along good luck from the head chef to her husband tomorrow.' Barinov chimes in earnestly in their talk, letting the remark speak for itself.
+- 'So I see.' Kostya answers plainly without holding back, refusing to let the moment slip past.
+- 'And how do you know about that?' Sasha uses one concrete touch at once: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'By the way, I refused to fly myself.' Barinov lays out the reaction with warmth: the "-sya" ending on "otkazalsya" ("refused") turns the action inward or makes it happen between people naturally.
+- 'And what does Sasha think about that?' Kostya challenges wryly before Barinov can change the subject.
+- 'What about Sasha?' Barinov drops that point right away: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
+- 'Things between Sasha and me are basically over.' Barinov offers that point for Kostya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I just could not go.' Kostya replies promptly hearing Sasha, leaving no doubt about where he stands.
+- 'A tragedy happened, his grandfather died.' Sasha frames one familiar touch for Barinov: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'No, Kostya's grandfather.' Barinov drops the reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Yours?' Kostya quizzes point-blank what Barinov is actually getting at here.
+- 'I had to support pal, you understand, right?' Sasha colors one vivid choice for Kostya: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'Yes, of course.' Barinov sends that point without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

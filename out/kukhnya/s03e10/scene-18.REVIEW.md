@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you bring this lady of the night here?' Nagiyev challenges sharply across the room, joining "zachem" ("what for") to "babochku" ("butterfly") so every word pulls its weight.
-- 'Vitya, who are you trying to fool right now?' Nagiyev quizzes wryly in the room, linking "obmanut" ("to deceive"), "seychas" ("now"), and "khochesh" ("do you want") in one brisk exchange.
-- 'I know all the respectable call girls in Moscow.' Nagiyev adopts a natural note as they talk, combining "prilichnykh" ("decent, respectable") and "babochek" ("butterflies") so the key meaning lands right away.
-- 'Right now you grab the girl and run from here.' Nagiyev sets a clear course right away, pairing "seychas" ("now") with "beryosh" ("do you take") to get the point across in plain spoken Russian.
-- 'If Vika finds out, I will pluck your mustache out!' Nagiyev projects a natural footing toward Katya, using "uznayet" (from "uznat", "will find out") alongside "usy" ("mustache") to shape the meaning.
-- 'Alright, you won—no, we have a draw.' Nagiyev sets a direct stance in their talk, building the phrase around "vyigral" ("won") and "nichya" ("draw") for a crisp, natural delivery.
-- 'What kind of stories did you tell Lyova about me?' Katya queries directly toward Max here, joining "nagovoril" ("told") to "ty" ("you") so every word pulls its weight.
-- 'You are a real psycho yourself, got that?' Katya presses boldly on the spot, building the phrase around "nastoyashchiy" ("real, genuine") and "psikh" ("psycho") for a crisp, natural delivery.
-- 'Why, you will thank me for this yet!' Max offers a pointed course beside Katya, joining "yeshchyo" ("more, still") to "spasibo" ("thank you") so every word pulls its weight.
-- 'Maybe I should kiss you right now too?' Katya prompts steadily in their exchange, weaving "mozhet" ("can") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'Dad, please, just do not start.' Katya maintains an easygoing tone for Max, leaning on "papa" ("Dad") before closing the thought with "tolko" ("only").
-- 'And maybe he and I love each other!' Katya strikes a pointed attitude on the spot, using "mozhet" (from "moch", "can") alongside "lyubim" ("love") to shape the meaning.
+- 'Why did you bring this lady of the night here?' Nagiyev asks skeptically to see how Katya will answer on the spot.
+- 'Vitya, who are you trying to fool right now?' Nagiyev emphasizes this sharp expression on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'I know all the respectable call girls in Moscow.' Nagiyev reacts boldly in this moment, shifting the whole mood of the room in a single beat.
+- 'Right now you grab the girl and run from here.' Nagiyev answers sharply to be clear, so Max knows he is not just making small talk.
+- 'If Vika finds out, I will pluck your mustache out!' Nagiyev stresses this vivid piece on cue: "vyshchiplyu" means "I will pluck out" (from "vyshchipat"), giving the line its exact edge.
+- 'Alright, you won—no, we have a draw.' Nagiyev shares that answer right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'What kind of stories did you tell Lyova about me?' Katya questions bluntly about what Max just brought up.
+- 'You are a real psycho yourself, got that?' Katya spotlights this key detail toward Nagiyev: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Katya is saying.
+- 'Why, you will thank me for this yet!' Max frames this point on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Maybe I should kiss you right now too?' Katya presses briskly to see how Nagiyev will answer on the spot.
+- 'Dad, please, just do not start.' Katya colors one vivid word at once: "nachinay" means "start" (from "nachinat"), giving the line its exact edge.
+- 'And maybe he and I love each other!' Katya replies earnestly with Nagiyev, saying out loud what both of them already know.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This one is at ten.' Barinov adopts a warm line in this beat, placing "desyat" ("ten") straight beside "etot" ("this") with no word for "to be" needed.
-- 'Good afternoon.' Vika chooses a candid bearing in the room, weaving "dobryy" ("good") together with "den" ("day") just the way native speakers do.
-- 'How is Viktor Petrovich feeling?' Vika asks bluntly during the talk, anchoring the Russian line on "kak" ("how") and "chuvstvuyet" ("feels") without extra filler.
-- 'Well, you know, he is doing better already.' Vika picks a natural angle as the scene unfolds, leaning on "znayete" ("know") before closing the thought with "uzhe" ("already, now").
-- 'Although he was muttering something about you.' Barinov favors an honest attitude at this moment, joining "bormotal" ("to mutter, mumble") to "pravda" ("honestly") so every word pulls its weight.
-- 'About me?' Vika quizzes earnestly from the start, putting "pro" ("about") alongside "menya" ("me") in a tight, everyday turn of phrase.
-- 'Do me a favor.' Barinov brings a serious direction straight away, putting "sdelayet" ("will do") alongside "odolzheniye" ("favour, concession") in a tight, everyday turn of phrase.
-- 'And what did he say?' Vika asks directly in front of Barinov, combining "skazal" ("said") and "chto" ("what") so the key meaning lands right away.
-- 'That she has a family.' Barinov projects an unhurried direction beside Vika, building the phrase around "semya" ("family") and "neye" ("her") for a crisp, natural delivery.
-- 'In such a weak little voice, you know.' Vika sustains a measured direction as the scene unfolds, weaving "slabym" ("weak") together with "golosom" ("voice") just the way native speakers do.
-- 'Forgive me, I could not make out all of it.' Barinov chooses a playful tone across the room, putting "prostite" ("excuse me") alongside "razobral" ("to take apart") in a tight, everyday turn of phrase.
-- 'Would you like some coffee?' Vika queries pointedly in their exchange, weaving "kofe" ("of coffee") together with "budesh" ("will") just the way native speakers do.
-- 'No, thank you.' Barinov presents a clear footing with Vika, leaning on "spasibo" ("thank you") before closing the thought with "da" ("yes").
+- 'This one is at ten.' Barinov hands over this line for Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Good afternoon.' Vika puts the reply briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'How is Viktor Petrovich feeling?' Vika presses eagerly in front of Barinov without any preamble.
+- 'Well, you know, he is doing better already.' Vika chooses one memorable term in reply: "znayete" means "know" (from "znat"), giving the line its exact edge.
+- 'Although he was muttering something about you.' Barinov stresses one telling element toward Vika: "bormotal" means "to mutter, mumble" (from "bormotat"), giving the line its exact edge.
+- 'About me?' Vika presses plainly what Barinov is actually getting at here.
+- 'Do me a favor.' Barinov reaches for this key piece in earnest: "odolzheniye" means "favour, concession", and it carries the main weight of what Barinov is saying.
+- 'And what did he say?' Vika delivers this warning frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'That she has a family.' Barinov jumps in warmly to be clear, bringing things back to earth after the buildup.
+- 'In such a weak little voice, you know.' Vika grounds this key element for Barinov: "golosom" means "voice" (from "golos"), giving the line its exact edge.
+- 'Forgive me, I could not make out all of it.' Barinov sends the comment plainly here: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'Would you like some coffee?' Vika challenges skeptically to see how Barinov will answer on the spot.
+- 'No, thank you.' Barinov emphasizes one concrete choice for Vika: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.

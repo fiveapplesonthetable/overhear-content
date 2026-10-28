@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I hope you will do everything quickly for my daughter.' Eleonora chooses a lively approach in the room, anchoring the Russian line on "nadeyus" ("hope so") and "sdelayesh" ("will you make") without extra filler.
-- 'You do not even need to doubt that, Eleonora Andreyevna.' Max shares a frank rhythm in their talk, joining "mozhete" ("can, may") to "somnevatsya" ("to doubt") so every word pulls its weight.
-- 'Who is knocking at the door there? Hide quickly!' Eleonora prompts bluntly in front of Katya, combining "tam" ("there") and "stuchit" ("is knocking") so the key meaning lands right away.
-- 'Mom, are you not ashamed? Everyone is talking about this!' Katya probes wryly in front of Max, joining "mama" ("mum, mother") to "stydno" ("shameful") so every word pulls its weight.
-- 'Katya, forgive me, I just needed the money very badly.' Max sustains a pointed style right away, building the phrase around "prosti" ("sorry, forgive me") and "prosto" ("just") for a crisp, natural delivery.
-- 'Are you sleeping with my mom for money?' Katya asks bluntly to keep things clear, weaving "spish" ("are sleeping") together with "mamoy" ("Mum") just the way native speakers do.
-- 'Have you lost your mind? What affair?' Max queries promptly without a pause, leaning on "uma" ("mind") before closing the thought with "soshla" ("went off, lost").
-- 'Your mom paid me so that I would break up with you!' Max holds a frank manner during the exchange, pairing "mama" ("mum, mother") with "zaplatila" ("to pay") to get the point across in plain spoken Russian.
-- 'Sweetheart, I just wanted you to be happy!' Eleonora shares a wry tone for Katya, anchoring the Russian line on "dochenka" ("sweetheart") and "prosto" ("just") without extra filler.
-- 'Now do you understand that I was worried about you?' Eleonora asks wryly without a pause, putting "teper" ("now") alongside "ponimayesh" ("do you understand") in a tight, everyday turn of phrase.
-- 'And why did you not say that you two are not dating?' Eleonora tests boldly to keep things clear, putting "pochemu" ("why") alongside "skazal" ("said") in a tight, everyday turn of phrase.
-- 'Why, you did not let me get a single word in!' Max takes a frank stance during the exchange, linking "dali" ("gave"), "slova" ("words"), and "skazat" ("tell") in one brisk exchange.
+- 'I hope you will do everything quickly for my daughter.' Eleonora emphasizes one clear word toward Katya: "sdelayesh" means "will you make" (from "sdelat"), giving the line its exact edge.
+- 'You do not even need to doubt that, Eleonora Andreyevna.' Max aims the comment beside Katya: the "-sya" ending on "somnevatsya" ("to doubt") turns the action inward or makes it happen between people naturally.
+- 'Who is knocking at the door there? Hide quickly!' Eleonora tests promptly to see how Katya will answer on the spot.
+- 'Mom, are you not ashamed? Everyone is talking about this!' Katya reaches for one telling choice on cue: "govoryat" means "talks, says" (from "govorit"), giving the line its exact edge.
+- 'Katya, forgive me, I just needed the money very badly.' Max shapes that reply on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Are you sleeping with my mom for money?' Katya challenges bluntly as Max tries to explain the situation.
+- 'Have you lost your mind? What affair?' Max sharpens one classic term at once: "yeshchyo" means "more, still", and it carries the main weight of what Max is saying.
+- 'Your mom paid me so that I would break up with you!' Max uses this sharp choice with Katya: "zaplatila" means "to pay" (from "zaplatit"), giving the line its exact edge.
+- 'Sweetheart, I just wanted you to be happy!' Eleonora opens up lightly hearing Katya, leaving no doubt about where she stands.
+- 'Now do you understand that I was worried about you?' Eleonora favors one classic term in reply: "bespokoilas" means "to worry" (from "bespokoitsya"), giving the line its exact edge.
+- 'And why did you not say that you two are not dating?' Eleonora voices that point for Katya: the "-sya" ending on "vstrechayetes" ("are dating") turns the action inward or makes it happen between people naturally.
+- 'Why, you did not let me get a single word in!' Max speaks frankly before Katya, steering the talk right where he wants it.

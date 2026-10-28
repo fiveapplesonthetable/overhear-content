@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A vegetarian came to our restaurant.' Max displays a calm tack for Vika, combining "prishel" ("came, arrived") and "vegetarianets" ("vegetarian") so the key meaning lands right away.
-- 'And he is asking for it.' Vika displays a direct angle for Max, pairing "prosit" ("is asking for") with "on" ("he") to get the point across in plain spoken Russian.
-- 'Made with beef pate.' Max offers an unhurried stance straight away, joining "govyazhyego" ("beef") to "pashteta" ("pâté, paste") so every word pulls its weight.
-- 'Only without the beef pate.' Vika takes a grounded tempo in the room, linking "govyazhyego" ("beef"), "pashteta" ("pâté, paste"), and "no" ("but") in one brisk exchange.
-- 'Oh, well, take it out to him and let him eat.' Max conveys a wry posture across the room, linking "otnesi" ("take"), "yest" ("eats"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Because I am not going to bother with such nonsense.' Vika strikes a thoughtful approach in the room, linking "potomu" ("because"), "yerundoy" ("nonsense"), and "zanimatsya" ("to be busy with") in one brisk exchange.
-- 'Or maybe you can make cutlets out of cucumbers?' Max checks quietly without hesitation, putting "mozhet" ("can") alongside "mozhesh" ("can") in a tight, everyday turn of phrase.
-- 'Maksim, will you make the rolls?' Vika inquires earnestly for Max's benefit, building the phrase around "prigotovish" ("will prepare") and "ruletiki" ("little roll") for a crisp, natural delivery.
-- 'Oh, please.' Max establishes a natural style in this beat, anchoring the Russian line on "nu" ("oh, come on") and "pozhaluysta" ("please") without extra filler.
-- 'You really know how to persuade someone.' Vika shares an easygoing line in the conversation, weaving "umeyesh" ("know how to") together with "ugovarivat" ("persuade") just the way native speakers do.
-- 'Thank you, Maksish.' Max maintains an unhurried manner during the exchange, anchoring the Russian line on "spasibo" ("thank you") and "maksish" ("Max") without extra filler.
-- 'Go on. Thank you.' Vika strikes a steady direction on the spot, pairing "idi" ("go") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
-- 'Alright, I was joking.' Max holds a firm direction in the conversation, leaning on "poshutil" ("to joke") before closing the thought with "ladno" ("all right").
+- 'A vegetarian came to our restaurant.' Max voices this answer without fuss: the "-sya" ending on "vegetarianets" ("vegetarian") turns the action inward or makes it happen between people naturally.
+- 'And he is asking for it.' Vika pushes back quietly to settle things, without trying to dress up how she really feels.
+- 'Made with beef pate.' Max uses this sharp choice on cue: "govyazhyego" means "beef" (from "govyazhiy"), giving the line its exact edge.
+- 'Only without the beef pate.' Vika makes that reply frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Oh, well, take it out to him and let him eat.' Max fires back lightly with a shrug, bringing things back to earth after the buildup.
+- 'Because I am not going to bother with such nonsense.' Vika leans on one direct piece toward Max: "yerundoy" means "nonsense" (from "yerunda"), giving the line its exact edge.
+- 'Or maybe you can make cutlets out of cucumbers?' Max makes that reply briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Maksim, will you make the rolls?' Vika tests wryly to see how Max will answer on the spot.
+- 'Oh, please.' Max puts this line at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'You really know how to persuade someone.' Vika aims that line on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Thank you, Maksish.' Max chimes in pointedly without holding back, bringing things back to earth after the buildup.
+- 'Go on. Thank you.' Vika sharpens one telling choice for Max: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.
+- 'Alright, I was joking.' Max lays out that line calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.

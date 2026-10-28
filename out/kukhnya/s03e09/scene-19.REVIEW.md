@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, forgive me, I was lying to you.' Kostya establishes a calm tone as they talk, pairing "prosti" ("sorry, forgive me") with "vral" ("to lie, to tell lies") to get the point across in plain spoken Russian.
-- 'In reality I have been working for your dad.' Kostya offers a playful bearing without hesitation, building the phrase around "samom" ("very") and "dele" ("case") for a crisp, natural delivery.
-- 'Or rather, I used to work here.' Kostya offers an earnest posture on the spot, building the phrase around "tochneye" ("definitely") and "tut" ("here") for a crisp, natural delivery.
-- 'I will no longer be able to work for you.' Kostya adopts an emphatic posture on the spot, joining "bolshe" ("more") to "smogu" ("will be able to") so every word pulls its weight.
-- 'Because Nastya is against this kind of work.' Kostya strikes a resolute line in the scene, building the phrase around "potomu" ("because") and "raboty" ("of work") for a crisp, natural delivery.
-- 'And there is no need to lend us money.' Kostya picks an unhurried manner straight away, leaning on "deneg" ("money") before closing the thought with "zanimat" ("occupy, take up").
-- 'I will definitely earn it myself.' Kostya takes a grounded course straight away, putting "obyazatelno" ("surely, without fail") alongside "zarabotayu" ("will earn") in a tight, everyday turn of phrase.
-- 'Katya, you do not need to bring your diploma anymore.' Vika sustains an earnest tempo straight away, building the phrase around "mozhesh" ("can") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'I sent an official inquiry to Paris.' Vika maintains a sharp position without hesitation, building the phrase around "sdelala" ("have done, did") and "ofitsialnyy" ("official") for a crisp, natural delivery.
-- 'They replied to me that you were expelled from there.' Vika shows an emphatic line as they talk, joining "otvetili" ("answered") to "ottuda" ("from there") so every word pulls its weight.
-- 'I chose not to tell your father.' Vika takes a measured mood at this moment, linking "stala" ("have become"), "govorit" ("to talk"), and "ottsu" ("to father") in one brisk exchange.
-- 'I thought you would want to tell him that yourself.' Vika sets a serious footing in their talk, anchoring the Russian line on "podumala" ("thought") and "zakhochesh" ("you want") without extra filler.
+- 'Nastya, forgive me, I was lying to you.' Kostya leans on this direct term in reply: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
+- 'In reality I have been working for your dad.' Kostya weighs in steadily watching Vika, testing Vika's reaction in the middle of the exchange.
+- 'Or rather, I used to work here.' Kostya weighs in sharply hearing Vika, without trying to dress up how he really feels.
+- 'I will no longer be able to work for you.' Kostya colors one colorful expression right here: "rabotat" means "to work", and it carries the main weight of what Kostya is saying.
+- 'Because Nastya is against this kind of work.' Kostya delivers this line with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And there is no need to lend us money.' Kostya holds firm candidly with a nod, making his position completely clear.
+- 'I will definitely earn it myself.' Kostya uses one telling choice for Vika: "obyazatelno" means "surely, without fail", and it carries the main weight of what Kostya is saying.
+- 'Katya, you do not need to bring your diploma anymore.' Vika stands firm dryly to be clear, testing Kostya's reaction in the middle of the exchange.
+- 'I sent an official inquiry to Paris.' Vika chimes in lightly with a sigh, bringing things back to earth after the buildup.
+- 'They replied to me that you were expelled from there.' Vika uses one sharp word toward Kostya: "otchislili" means "expelled" (from "otchislit"), giving the line its exact edge.
+- 'I chose not to tell your father.' Vika speaks pointedly watching Kostya, leaving no doubt about where she stands.
+- 'I thought you would want to tell him that yourself.' Vika answers right away as things stand, steering the talk right where she wants it.

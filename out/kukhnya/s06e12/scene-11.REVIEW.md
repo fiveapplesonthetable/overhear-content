@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, you already walk in here like it is your own home.' Mikhail keeps a wry posture during the exchange, combining "zdravstvuyte" ("hello") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'I secretly took the keys from Lyova to check on you.' Gulya strikes a sharp course across the room, weaving "klyuchi" ("the keys") together with "taykom" ("secretly") just the way native speakers do.
-- 'You checked on me, thank you very much, and now goodbye.' Mikhail sustains a warm manner during the exchange, weaving "provedali" ("visited, checked on") together with "spasibo" ("thank you") just the way native speakers do.
-- 'Tell me honestly, did you go for an X-ray today?' Gulya queries firmly without holding back, joining "skazhite" ("tell") to "chestno" ("honestly") so every word pulls its weight.
-- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail projects a resolute bearing with Barinov, linking "yeshchyo" ("more, still") directly with "sosedka" ("neighbor"), since Russian drops "is" and "are" in the present.
-- 'Alright, then get ready, I will take you there myself right now.' Gulya adopts a steady direction as they talk, pairing "sobiraytes" ("to intend") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
-- 'Misha, I want to help you as a friend get rich with me.' Barinov strikes a measured line in their talk, using "khochu" (from "khotet", "want") alongside "pomoch" ("to help") to shape the meaning.
-- 'Look, this is a real truth serum for that bookmaker.' Barinov projects a firm angle as the scene unfolds, linking "smotri" ("look"), "nastoyashchaya" ("real, genuine"), and "syvorotka" ("serum") in one brisk exchange.
-- 'I made it myself this morning from belladonna.' Barinov keeps a wry line toward Gulya, anchoring the Russian line on "segodnya" ("today") and "utrom" ("this morning") without extra filler.
-- 'Viktor, does this serum of yours really work?' Mikhail quizzes frankly in front of Gulya, weaving "syvorotka" ("serum") together with "deystvitelno" ("really, indeed") just the way native speakers do.
-- 'It works great, I just tested it on Senya.' Barinov adopts a lively stance in their talk, weaving "otlichno" ("perfect, great") together with "rabotayet" ("works") just the way native speakers do.
-- 'Senya, tell me, Marina decides everything at your home, right?' Barinov probes pointedly as the talk turns, linking "skazhi" ("say"), "doma" ("at home"), and "reshayet" ("decides") in one brisk exchange.
+- 'Hello, you already walk in here like it is your own home.' Mikhail brings that thought beside Barinov: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'I secretly took the keys from Lyova to check on you.' Gulya replies frankly with Mikhail, without trying to dress up how she really feels.
+- 'You checked on me, thank you very much, and now goodbye.' Mikhail grounds one direct element at once: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'Tell me honestly, did you go for an X-ray today?' Gulya aims the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail jumps in bluntly to be clear, saying out loud what both of them already know.
+- 'Alright, then get ready, I will take you there myself right now.' Gulya spotlights one concrete piece in earnest: "sobiraytes" means "to intend" (from "sobiratsya"), giving the line its exact edge.
+- 'Misha, I want to help you as a friend get rich with me.' Barinov underscores one key detail on cue: "razbogatet" means "to get rich", and it carries the main weight of what Barinov is saying.
+- 'Look, this is a real truth serum for that bookmaker.' Barinov jumps in openly with Mikhail, grounding the moment in plain reality.
+- 'I made it myself this morning from belladonna.' Barinov sharpens one vivid detail for Gulya: "belladonny" means "of belladonna" (from "belladonna"), giving the line its exact edge.
+- 'Viktor, does this serum of yours really work?' Mikhail voices this update calmly now: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'It works great, I just tested it on Senya.' Barinov reacts pointedly without holding back, before Gulya can change the subject.
+- 'Senya, tell me, Marina decides everything at your home, right?' Barinov stresses one classic element with Mikhail: "reshayet" means "decides" (from "reshat"), giving the line its exact edge.

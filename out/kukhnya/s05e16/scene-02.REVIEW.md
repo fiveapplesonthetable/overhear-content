@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I urgently need a large vase with water.' Eleonora establishes an honest view for Nagiyev, linking "srochno" ("urgent, urgently"), "nuzhna" ("needed"), and "bolshaya" ("large") in one brisk exchange.
-- 'This is already the nineteenth bouquet in a single week!' Eleonora keeps a sharp rhythm right away, anchoring the Russian line on "uzhe" ("already, now") and "buket" ("bouquet") without extra filler.
-- 'Have you ever not known who was courting you?' Eleonora probes wryly without hesitation, combining "u tebya" (literally "by you") with "byvalo" ("to happen, to be") rather than a separate word for "have".
-- 'It has, I even married him!' Vika brings a playful rhythm without hesitation, pairing "byvalo" ("to happen, to be") with "zamuzh" ("in marriage") to get the point across in plain spoken Russian.
-- 'Only later did I find out who he really was.' Vika adopts a natural direction in this beat, building the phrase around "tolko" ("only") and "potom" ("then") for a crisp, natural delivery.
-- 'Hello everyone, what lovely flowers you have!' Nagiyev picks a frank approach in the scene, weaving "zdravstvuyte" ("hello") together with "prekrasnyye" ("wonderful, fine") just the way native speakers do.
-- 'Yes, they really are very fresh and beautiful today.' Eleonora holds a measured note in the room, putting "deystvitelno" ("really, indeed") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Those are rare southern flowers, I know them.' Nagiyev takes a measured mood on the spot, weaving "redkiye" ("rare, scarce") together with "yuzhnyye" ("southern") just the way native speakers do.
-- 'Wow, how do you know that complicated name?' Eleonora wonders pointedly as they speak, combining "otkuda" ("where from") and "znayesh" ("know") so the key meaning lands right away.
-- 'I never would have thought that you know so much about flowers!' Eleonora favors an earnest position straight away, linking "nikogda" ("never"), "podumala" ("thought"), and "razbirayeshsya" ("to understand well") in one brisk exchange.
-- 'Dear Eleonora, I know a lot about far more than just that!' Nagiyev adopts an unhurried direction in the conversation, building the phrase around "dorogaya" ("expensive") and "razbirayus" ("know my stuff") for a crisp, natural delivery.
-- 'Very curious, could all of this really be his doing?' Eleonora queries firmly without hesitation, building the phrase around "vesma" ("indeed") and "lyubopytno" ("curious, interesting") for a crisp, natural delivery.
+- 'I urgently need a large vase with water.' Eleonora cuts in steadily with Nagiyev, leaving no doubt about where she stands.
+- 'This is already the nineteenth bouquet in a single week!' Eleonora counters openly without any doubt, to clear the air between them once and for all.
+- 'Have you ever not known who was courting you?' Eleonora highlights one practical term with Nagiyev: "ukhazhivayet" means "to court, to woo" (from "ukhazhivat"), giving the line its exact edge.
+- 'It has, I even married him!' Vika continues earnestly toward Nagiyev, refusing to let the moment slip past.
+- 'Only later did I find out who he really was.' Vika reacts quietly with a nod, letting the remark speak for itself.
+- 'Hello everyone, what lovely flowers you have!' Nagiyev anchors one pointed detail with Vika: "prekrasnyye" means "wonderful, fine" (from "prekrasnyy"), giving the line its exact edge.
+- 'Yes, they really are very fresh and beautiful today.' Eleonora gives the comment to Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Those are rare southern flowers, I know them.' Nagiyev speaks lightly on the spot, shifting the whole mood of the room in a single beat.
+- 'Wow, how do you know that complicated name?' Eleonora emphasizes one sharp word for Nagiyev: "slozhnoye" means "complex" (from "slozhnyy"), giving the line its exact edge.
+- 'I never would have thought that you know so much about flowers!' Eleonora hands over that thought before Vika: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Dear Eleonora, I know a lot about far more than just that!' Nagiyev reacts firmly to be clear, letting the remark speak for itself.
+- 'Very curious, could all of this really be his doing?' Eleonora centers one colorful term right here: "lyubopytno" means "curious, interesting", and it carries the main weight of what Eleonora is saying.

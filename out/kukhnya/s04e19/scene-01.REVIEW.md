@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The cooks will meet in a fair fight.' Nagiyev presents a brisk bearing toward Barinov, weaving "povara" ("cook") together with "soydutsya" ("to converge") just the way native speakers do.
-- 'Watch the main culinary show of the country.' Nagiyev projects a calm stance in the scene, using "smotrite" (from "smotret", "look") alongside "glavnoye" ("important") to shape the meaning.
-- 'The grand prize is one million rubles.' Nagiyev maintains a natural tone straight away, putting "glavnyy" ("main, chief") alongside "priz" ("prize") in a tight, everyday turn of phrase.
-- 'And the head chef spot at the best restaurant.' Nagiyev picks a lively tempo right away, pairing "mesto" ("place, post") with "shef-povara" ("head chef") to get the point across in plain spoken Russian.
-- 'The owner of this restaurant is me.' Nagiyev offers a steady manner at this moment, pairing "yavlyayus" ("be, appear") with "khozyainom" ("owner, proprietor") so the "-sya" ending carries the action.
-- 'My name is Dmitry Nagiyev.' Nagiyev adopts a brisk manner in this beat, combining "zovut" ("call") and "menya" ("me") so the key meaning lands right away.
-- 'I wish everyone bon appetit.' Nagiyev strikes a playful position during the exchange, building the phrase around "zhelayu" ("I wish") and "priyatnogo" ("pleasant") for a crisp, natural delivery.
-- 'Why are we keeping so quiet?' Nagiyev questions dryly at this point, pairing "tikho" ("easy, quiet") with "molchim" ("are silent") to get the point across in plain spoken Russian.
-- 'Our ship has been left without a captain.' Nagiyev strikes a direct rhythm straight away, building the phrase around "korabl" ("left") and "ostalsya" ("remained") for a crisp, natural delivery.
-- 'A great thought came to me in the night.' Nagiyev shows a warm stance in front of Barinov, weaving "nochyu" ("night") together with "posetila" ("to visit") just the way native speakers do.
-- 'We will organize a popular television show.' Nagiyev holds an unhurried mood in front of Barinov, using "organizuyem" (from "organizovat", "will organize") alongside "populyarnoye" ("popular") to shape the meaning.
-- 'And we will find a new head chef too.' Barinov displays a wry rhythm as the scene unfolds, pairing "novogo" ("new") with "shefa" ("chef") to get the point across in plain spoken Russian.
+- 'The cooks will meet in a fair fight.' Nagiyev anchors one concrete expression toward Barinov: "chestnoy" means "honest" (from "chestnyy"), giving the line its exact edge.
+- 'Watch the main culinary show of the country.' Nagiyev jumps in lightly to be clear, watching Barinov's face to see how the news lands.
+- 'The grand prize is one million rubles.' Nagiyev chimes in earnestly to settle things, leaving no doubt about where he stands.
+- 'And the head chef spot at the best restaurant.' Nagiyev anchors this sharp term right here: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'The owner of this restaurant is me.' Nagiyev weighs in bluntly hearing Barinov, to clear the air between them once and for all.
+- 'My name is Dmitry Nagiyev.' Nagiyev reacts boldly with a shrug, watching Barinov's face to see how the news lands.
+- 'I wish everyone bon appetit.' Nagiyev favors one direct piece for Barinov: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'Why are we keeping so quiet?' Nagiyev delivers the reaction briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Our ship has been left without a captain.' Nagiyev replies steadily across the room, so Barinov knows he is not just making small talk.
+- 'A great thought came to me in the night.' Nagiyev uses one vivid piece right here: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'We will organize a popular television show.' Nagiyev proceeds sharply across the room, shifting the whole mood of the room in a single beat.
+- 'And we will find a new head chef too.' Barinov pushes back openly around Nagiyev, before Nagiyev can change the subject.

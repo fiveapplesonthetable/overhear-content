@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tomorrow we have the opening of the summer terrace.' Vika takes a grounded footing straight away, leaning on "zavtra" ("tomorrow") before closing the thought with "otkrytiye" ("opening").
-- 'Maybe you will put on a masterclass?' Vika questions frankly without a pause, putting "mozhet" ("can") alongside "master-klass" ("masterclass") in a tight, everyday turn of phrase.
-- 'In honor of what is that?' Barinov asks bluntly without holding back, pairing "chest" ("honor") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'People simply decided to eat outside.' Barinov displays a serious posture straight away, weaving "lyudi" ("people") together with "prosto" ("just") just the way native speakers do.
-- 'Can we do a molecular cuisine show?' Katya tests pointedly from the start, building the phrase around "mozhno" ("may, can") and "sdelat" ("to do") for a crisp, natural delivery.
-- 'I was at a restaurant in Paris.' Katya adopts a playful approach right away, putting "byla" ("was") alongside "restorane" ("restaurant") in a tight, everyday turn of phrase.
-- 'A molecular cuisine show?' Vika tests sharply for Barinov's benefit, putting "shou" ("show") alongside "molekulyarnoy" ("molecular") in a tight, everyday turn of phrase.
-- 'Well, that is very interesting.' Vika keeps a warm footing in the room, combining "ochen" ("very much") and "interesno" ("interesting") so the key meaning lands right away.
-- 'We can gladly greet our guests.' Katya sustains an easygoing manner in this beat, leaning on "mozhno" ("may, can") before closing the thought with "radostno" ("joyfully").
-- 'I offer them delicious jelly.' Katya displays a brisk footing as they talk, anchoring the Russian line on "predlagayu" ("suggest") and "vkusnoye" ("tasty, delicious") without extra filler.
-- 'And also a strawberry dessert.' Katya shares a frank footing in the scene, joining "yeshchyo" ("more, still") to "desert" ("dessert") so every word pulls its weight.
-- 'Then in front of everyone I will prepare a dessert.' Katya favors an earnest angle during the exchange, building the phrase around "potom" ("then") and "prigotovlyu" ("will prepare") for a crisp, natural delivery.
-- 'There the egg white is made of vanilla ice cream.' Katya displays a resolute note with Barinov, putting "tam" ("there") alongside "belok" ("egg white") in a tight, everyday turn of phrase.
+- 'Tomorrow we have the opening of the summer terrace.' Vika offers the reply without pause: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Maybe you will put on a masterclass?' Vika inquires firmly how Katya expects that to work in practice.
+- 'In honor of what is that?' Barinov spotlights one sharp word with Katya: "chest" means "honor", and it carries the main weight of what Barinov is saying.
+- 'People simply decided to eat outside.' Barinov offers that remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Can we do a molecular cuisine show?' Katya wonders wryly what Barinov is actually getting at here.
+- 'I was at a restaurant in Paris.' Katya highlights one concrete piece in reply: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'A molecular cuisine show?' Vika lays out this statement plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Well, that is very interesting.' Vika counters candidly before Katya, to clear the air between them once and for all.
+- 'We can gladly greet our guests.' Katya uses one key piece for Barinov: "vstrechat" means "to meet", and it carries the main weight of what Katya is saying.
+- 'I offer them delicious jelly.' Katya shapes that line with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And also a strawberry dessert.' Katya opens up evenly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'Then in front of everyone I will prepare a dessert.' Katya underscores one concrete word for Vika: "prigotovlyu" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'There the egg white is made of vanilla ice cream.' Katya lays out that remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will not have enough snails for everyone.' Barinov keeps a frank attitude on the spot, pairing "ulitok" ("snail, escargot") with "khvatit" ("enough") to get the point across in plain spoken Russian.
-- 'Nothing except snails.' Nastya projects a playful style in their talk, anchoring the Russian line on "ulitok" ("snail, escargot") and "krome" ("except") without extra filler.
-- 'I am not going to do it by myself anyway.' Barinov shows an unhurried style straight away, using "budu" (from "byt", "will be") alongside "ya" ("I") to shape the meaning.
-- 'Today we are going to cook Burgundy snails together.' Nastya adopts a sharp posture straight away, combining "segodnya" ("today") and "budem" ("will") so the key meaning lands right away.
-- 'Well, how did everything go out there?' Barinov challenges directly for Max's benefit, joining "kak" ("how") to "proshlo" ("have passed") so every word pulls its weight.
-- 'You were not even there.' Nastya establishes a playful manner toward Max, pairing "tam" ("there") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'I am actually really worried about Nastya too.' Barinov establishes a measured stance right away, pairing "voobshche" ("at all") with "tozhe" ("too") to get the point across in plain spoken Russian.
-- 'Where were you when it was time to worry about her?' Nastya wonders honestly in their exchange, pairing "gde" ("where") with "byl" ("was") to get the point across in plain spoken Russian.
-- 'Wiping shot glasses at the bar.' Barinov holds a firm direction beside Max, combining "ryumki" ("shot glasses") and "ter" ("to rub, to scrub") so the key meaning lands right away.
-- 'I put it in the trash bin and took off.' Nastya establishes a natural footing with Max, combining "polozhil" ("laid, put down") and "urnu" ("trash bin") so the key meaning lands right away.
-- 'Wait at home for Nastya?' Barinov presses briskly to Max here, leaning on "doma" ("at home") before closing the thought with "zhdat" ("to wait").
-- 'So we will find out very soon where the cash and Nastya are.' Max favors a brisk attitude during the exchange, joining "skoro" ("soon") to "uznayem" ("will find out") so every word pulls its weight.
-- 'Well, where are Nastya and the cash?' Barinov presses evenly without holding back, linking "gde" ("where"), "babki" ("grand"), and "nu" ("oh, come on") in one brisk exchange.
+- 'You will not have enough snails for everyone.' Barinov stresses one concrete term on cue: "ulitok" means "snail, escargot" (from "ulitka"), giving the line its exact edge.
+- 'Nothing except snails.' Nastya drops this answer toward Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am not going to do it by myself anyway.' Barinov steps in steadily in their talk, saying out loud what both of them already know.
+- 'Today we are going to cook Burgundy snails together.' Nastya colors one practical touch for Max: "po-burgundski" means "in Burgundy style", and it carries the main weight of what Nastya is saying.
+- 'Well, how did everything go out there?' Barinov makes the remark before Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'You were not even there.' Nastya cuts in sharply toward Max, to clear the air between them once and for all.
+- 'I am actually really worried about Nastya too.' Barinov reaches for this direct word in earnest: "perezhivayu" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'Where were you when it was time to worry about her?' Nastya puts this point with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Wiping shot glasses at the bar.' Barinov proceeds openly watching Max, bringing things back to earth after the buildup.
+- 'I put it in the trash bin and took off.' Nastya reaches for one pointed piece toward Max: "polozhil" means "laid, put down" (from "polozhit"), giving the line its exact edge.
+- 'Wait at home for Nastya?' Barinov phrases that line with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'So we will find out very soon where the cash and Nastya are.' Max speaks up dryly toward Nastya, watching Nastya's face to see how the news lands.
+- 'Well, where are Nastya and the cash?' Barinov chooses one familiar word at once: "babki" means "grand" (from "babka"), giving the line its exact edge.

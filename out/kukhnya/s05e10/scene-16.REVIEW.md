@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My verdict is three stars.' The inspector conveys a brisk stance on the spot, combining "verdikt" ("verdict") and "zvezdy" ("stars") so the key meaning lands right away.
-- 'The service, the staff, it is some kind of nightmare!' The inspector takes a direct attitude without hesitation, pairing "servis" ("service") with "personal" ("staff") to get the point across in plain spoken Russian.
-- 'More wine for anyone?' Max wonders calmly toward Barinov here, combining "yeshchyo" ("more, still") and "vina" ("of wine") so the key meaning lands right away.
-- 'Delicious. Pavel Vladimirovich, and what do you think?' The inspector challenges wryly in front of Max, linking "vkusno" ("it's tasty"), "dumayete" ("think"), and "pavel" ("Pavel") in one brisk exchange.
-- 'Understood. I, of course, agree with you.' Barinov brings an emphatic bearing as they talk, linking "ponyatno" ("clear"), "konechno" ("of course"), and "soglasen" ("agreed") in one brisk exchange.
-- 'But on the other hand, overall the hotel is not bad.' Barinov sets a calm direction in the conversation, weaving "drugoy" ("other") together with "storony" ("side") just the way native speakers do.
-- 'The staff tries hard.' Barinov presents a grounded footing toward the inspector, putting "personal" ("staff") alongside "starayetsya" ("to try") in a tight, everyday turn of phrase.
-- 'I will be right back.' Max shares an easygoing stance for the inspector, building the phrase around "seychas" ("now") and "ya" ("I") for a crisp, natural delivery.
-- 'Did you like everything?' Barinov probes lightly from the start, leaning on "ponravilos" ("pleased, was liked") before closing the thought with "vsyo" ("everything").
-- 'Very much.' The inspector holds a resolute stance toward Max, leaning on "ochen" ("very much") as a compact, one-word response that needs no extra words.
-- 'He is taking a long time. She is putting him into a trance!' Max holds a serious bearing at this moment, leaning on "dolgo" ("for a long time") before closing the thought with "trans" ("trance").
-- 'It is nothing, Max has not succumbed to hypnosis since childhood.' Barinov maintains a playful angle in their talk, putting "detstva" ("childhood") alongside "poddayotsya" ("succumbs, yields to") in a tight, everyday turn of phrase.
+- 'My verdict is three stars.' The inspector stresses one telling term right here: "verdikt" means "verdict", and it carries the main weight of what the inspector is saying.
+- 'The service, the staff, it is some kind of nightmare!' The inspector directs this statement calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'More wine for anyone?' Max prompts eagerly before Barinov can change the subject.
+- 'Delicious. Pavel Vladimirovich, and what do you think?' The inspector spotlights one classic choice in reply: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
+- 'Understood. I, of course, agree with you.' Barinov continues sharply without a pause, without trying to dress up how he really feels.
+- 'But on the other hand, overall the hotel is not bad.' Barinov answers sharply with a smile, to clear the air between them once and for all.
+- 'The staff tries hard.' Barinov emphasizes this vivid word right here: "starayetsya" means "to try" (from "staratsya"), giving the line its exact edge.
+- 'I will be right back.' Max aims the comeback around the inspector: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Did you like everything?' Barinov presses curiously what the inspector is actually getting at here.
+- 'Very much.' The inspector grounds this key touch right here: "ochen" means "very much", and it carries the main weight of what the inspector is saying.
+- 'He is taking a long time. She is putting him into a trance!' Max proceeds earnestly as things stand, keeping the focus on what actually matters here.
+- 'It is nothing, Max has not succumbed to hypnosis since childhood.' Barinov chimes in wryly watching Max, watching Max's face to see how the news lands.

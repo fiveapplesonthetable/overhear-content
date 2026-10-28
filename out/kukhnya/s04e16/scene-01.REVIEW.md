@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For a whole week now I have been courting Katya.' Denis projects a measured direction toward Fedya, joining "uzhe" ("already, now") to "tseluyu" ("kisses") so every word pulls its weight.
-- 'It seems to me that she is an impregnable fortress.' Denis picks a warm rhythm as the scene unfolds, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "nepristupnaya" ("fortress") to shape the meaning.
-- 'Very recently this fortress fell twice.' Denis shares a thoughtful manner as they talk, pairing "sovsem" ("at all") with "nedavno" ("returned") to get the point across in plain spoken Russian.
-- 'But suddenly her walls became strong again.' Denis shows an honest angle straight away, pairing "vnezapno" ("suddenly") with "steny" ("walls") to get the point across in plain spoken Russian.
-- 'Never mind, we will take the fortress by attrition!' Denis holds a steady attitude across the room, using "budem" (from "byt", "will") alongside "brat" ("to take") to shape the meaning.
-- 'What kind of kindergarten is this in our kitchen?' Fedya tests decisively toward Katya here, weaving "detskiy" ("childish, baby") together with "sad" ("the park, garden") just the way native speakers do.
-- 'Hello, Katya, I am your new friend!' Denis favors an honest angle right away, pairing "novyy" ("new") with "drug" ("friend") to get the point across in plain spoken Russian.
-- 'Let's go to the movies together tonight!' Denis adopts a firm stance in the scene, combining the everyday invitation "davay" ("come on, let us") with "poydyom" ("let's go") to give the line its natural spoken rhythm.
-- 'Leave me alone immediately with your toy!' Katya sets a frank line for Denis, anchoring the Russian line on "nemedlenno" ("immediately") and "otstan" ("leave alone") without extra filler.
-- 'I will not leave you alone for anything!' Denis adopts a warm bearing on the spot, combining "otstanu" ("to fall behind") and "ya" ("I") so the key meaning lands right away.
-- 'Katya, well please, come with me!' Denis conveys a resolute manner with Fedya, using "poydyom" (from "poyti", "let's go") alongside "katya" ("Katya") to shape the meaning.
-- 'Stop shouting my name across the whole kitchen!' Katya sustains a lively line at once, pairing "khvatit" ("enough") with "krichat" ("to shout") to get the point across in plain spoken Russian.
+- 'For a whole week now I have been courting Katya.' Denis underscores this clear piece at once: "ukhazhivayu" means "to court, to woo" (from "ukhazhivat"), giving the line its exact edge.
+- 'It seems to me that she is an impregnable fortress.' Denis holds firm steadily with a shrug, without trying to dress up how he really feels.
+- 'Very recently this fortress fell twice.' Denis opens up boldly with a nod, testing Fedya's reaction in the middle of the exchange.
+- 'But suddenly her walls became strong again.' Denis picks one memorable term in reply: "krepkimi" means "strong, sturdy" (from "krepkiy"), giving the line its exact edge.
+- 'Never mind, we will take the fortress by attrition!' Denis proceeds bluntly without a pause, bringing things back to earth after the buildup.
+- 'What kind of kindergarten is this in our kitchen?' Fedya tests frankly whether Katya really thought this through.
+- 'Hello, Katya, I am your new friend!' Denis stresses one pointed word right here: "novyy" means "new", and it carries the main weight of what Denis is saying.
+- 'Let's go to the movies together tonight!' Denis aims that point at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Leave me alone immediately with your toy!' Katya answers steadily without holding back, before Denis can change the subject.
+- 'I will not leave you alone for anything!' Denis spotlights one colorful piece right here: "otstanu" means "to fall behind" (from "otstat"), giving the line its exact edge.
+- 'Katya, well please, come with me!' Denis frames this update for Fedya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Stop shouting my name across the whole kitchen!' Katya stands firm candidly beside Fedya, grounding the moment in plain reality.

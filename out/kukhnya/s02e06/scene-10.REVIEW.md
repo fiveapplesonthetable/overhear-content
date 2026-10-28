@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The Chef told me to bring you some ice.' Barinov presents a resolute tempo beside Lyova, combining "skazal" ("said") and "lyod" ("ice") so the key meaning lands right away.
-- 'He said you bumped yourself.' Lyova keeps a direct angle in this beat, joining "skazal" ("said") to "udarilis" ("to hit") so every word pulls its weight.
-- 'Oh, yes.' Barinov maintains a grounded tempo at this moment, leaning on "da" ("yes") as a compact, one-word response that needs no extra words.
-- 'I will help you with that.' Lyova projects a brisk tempo beside Max, using "pomogu" (from "pomoch", "I'll help") alongside "ya" ("I") to shape the meaning.
-- 'I can do it myself.' Barinov projects a direct view with Lyova, joining "ya" ("I") to "sam" ("yourself") so every word pulls its weight.
-- 'Oh come on, it is no trouble for me.' Lyova holds an unhurried note during the exchange, joining "slozhno" ("difficult") to "da" ("yes") so every word pulls its weight.
-- 'Thank you, there is no need.' Barinov favors a wry rhythm during the exchange, anchoring the Russian line on "spasibo" ("thank you") and "nado" ("it is necessary") without extra filler.
-- 'Well, how are you holding up, Lyova?' Max queries steadily in the room, pairing "kak" ("how") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Not quite.' Barinov sets an easygoing attitude at this moment, joining "sovsem" ("at all") to "ne" ("not") so every word pulls its weight.
-- 'Right, we need to have a talk.' Lyova favors a natural rhythm on the spot, anchoring the Russian line on "pogovorit" ("to talk") and "nado" ("it is necessary") without extra filler.
-- 'You and I need to have a talk.' Barinov brings a pointed approach in the conversation, pairing "pogovorit" ("to talk") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
-- 'Why are you looking so pale, huh?' Lyova challenges boldly beside Max, pairing "blednoye" ("pale") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'Where did all the blood go from your face?' Barinov questions frankly to Lyova here, pairing "delas" ("to go, vanish") with "kuda" ("where to") so the "-sya" ending carries the action.
+- 'The Chef told me to bring you some ice.' Barinov anchors this sharp term on cue: "prinesti" means "to bring, offer", and it carries the main weight of what Barinov is saying.
+- 'He said you bumped yourself.' Lyova states the reply for Max: the "-sya" ending on "udarilis" ("to hit") turns the action inward or makes it happen between people naturally.
+- 'Oh, yes.' Barinov chimes in steadily to be clear, bringing things back to earth after the buildup.
+- 'I will help you with that.' Lyova leans on this direct choice on cue: "pomogu" means "I'll help" (from "pomoch"), giving the line its exact edge.
+- 'I can do it myself.' Barinov states that remark on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Oh come on, it is no trouble for me.' Lyova proceeds sharply with a nod, without trying to dress up how he really feels.
+- 'Thank you, there is no need.' Barinov leans on one vivid piece on cue: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
+- 'Well, how are you holding up, Lyova?' Max sends that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Not quite.' Barinov answers warmly as they talk, shifting the whole mood of the room in a single beat.
+- 'Right, we need to have a talk.' Lyova sharpens this vivid piece right here: "pogovorit" means "to talk", and it carries the main weight of what Lyova is saying.
+- 'You and I need to have a talk.' Barinov brings the reaction before Lyova: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Why are you looking so pale, huh?' Lyova presses eagerly what Max is actually getting at here.
+- 'Where did all the blood go from your face?' Barinov anchors this sharp word toward Lyova: "krov" means "blood", and it carries the main weight of what Barinov is saying.

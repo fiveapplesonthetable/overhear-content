@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, do we have crab sticks?' Barinov probes firmly without hesitation, leaning on "yest" ("there is") before closing the thought with "krabovyye" ("sticks").
-- 'Viktor Petrovich, are you joking again right now?' Elena asks sharply without holding back, leaning on "seychas" ("now") before closing the thought with "opyat" ("again").
-- 'No, I am saving your relationship with management.' Barinov shares an easygoing bearing right away, pairing "spasayu" ("to save, to rescue") with "otnosheniya" ("relations, relationship") to get the point across in plain spoken Russian.
-- 'So do we have crab sticks or not?' Barinov wonders briskly from the start, pairing "yest" ("there is") with "palochki" ("crutch, walking stick") to get the point across in plain spoken Russian.
-- 'Yes, there are crab sticks in the refrigerator.' Lyova sustains a lively line across the room, weaving "krabovyye" ("sticks") together with "palochki" ("crutch, walking stick") just the way native speakers do.
-- 'Excellent, then right now everyone listen to me!' Barinov picks a grounded angle without hesitation, anchoring the Russian line on "otlichno" ("perfect, great") and "togda" ("back then") without extra filler.
-- 'Lyova, rinse the claws with boiling water and lemon.' Barinov offers a wry rhythm beside Elena, anchoring the Russian line on "promyvay" ("rinse") and "kleshni" ("claws") without extra filler.
-- 'And finely chop these crab sticks.' Barinov sustains a natural posture for Lyova, weaving "melko" ("shallow") together with "rezh" ("cut, chop") just the way native speakers do.
-- 'Elena Pavlovna, the spicy ginger sauce is on you.' Barinov maintains a grounded direction as the scene unfolds, linking "ostryy" ("sharp") directly with "imbirnyy" ("sauce"), since Russian drops "is" and "are" in the present.
-- 'Viktor Petrovich, are you definitely sure?' Elena quizzes naturally across the room, combining "tochno" ("definitely") and "uvereny" ("sure, certain") so the key meaning lands right away.
-- 'I worked as a head chef for ten years!' Barinov adopts a warm tempo straight away, leaning on "let" ("years") before closing the thought with "rabotal" ("worked").
-- 'In Japan there is one culinary legend.' Barinov strikes a brisk bearing across the room, weaving "yaponii" ("one") together with "yest" ("there is") just the way native speakers do.
-- 'A cook replaced the crab meat with white fish.' Barinov sets a brisk attitude at once, putting "povar" ("chef, cook") alongside "zamenil" ("to replace") in a tight, everyday turn of phrase.
+- 'Lyova, do we have crab sticks?' Barinov offers this warning facing Elena: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Viktor Petrovich, are you joking again right now?' Elena prompts wryly to see how Lyova will answer on the spot.
+- 'No, I am saving your relationship with management.' Barinov frames one familiar touch in earnest: "rukovodstvom" means "leadership" (from "rukovodstvo"), giving the line its exact edge.
+- 'So do we have crab sticks or not?' Barinov puts the comeback with warmth: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Yes, there are crab sticks in the refrigerator.' Lyova stands firm lightly with a smile, saying out loud what both of them already know.
+- 'Excellent, then right now everyone listen to me!' Barinov reaches for one key expression right here: "slushayem" means "we're listening" (from "slushat"), giving the line its exact edge.
+- 'Lyova, rinse the claws with boiling water and lemon.' Barinov weighs in warmly in their talk, bringing things back to earth after the buildup.
+- 'And finely chop these crab sticks.' Barinov stands firm boldly in this moment, without trying to dress up how he really feels.
+- 'Elena Pavlovna, the spicy ginger sauce is on you.' Barinov picks one telling word in earnest: "imbirnyy" means "sauce", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich, are you definitely sure?' Elena voices that answer frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I worked as a head chef for ten years!' Barinov reacts briskly with Elena, refusing to let the moment slip past.
+- 'In Japan there is one culinary legend.' Barinov underscores one colorful expression on cue: "kulinarnaya" means "culinary" (from "kulinarnyy"), giving the line its exact edge.
+- 'A cook replaced the crab meat with white fish.' Barinov answers boldly with a nod, steering the talk right where he wants it.

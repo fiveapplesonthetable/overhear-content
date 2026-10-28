@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your restroom?' Nikita probes lightly beside Barinov, anchoring the Russian line on "gde" ("where") and "tualet" ("toilet") without extra filler.
-- 'To the left down the corridor.' Barinov sustains a thoughtful course as the scene unfolds, putting "nalevo" ("to the left") alongside "koridoru" ("corridor, hall") in a tight, everyday turn of phrase.
-- 'So if he is not real, maybe I should pour him the cheapest wine?' Nikita questions bluntly for Barinov's benefit, anchoring the Russian line on "nastoyashchiy" ("real, genuine") and "mozhet" ("can") without extra filler.
-- 'Why waste good product on him?' Nikita tests frankly without a pause, building the phrase around "zachem" ("what for") and "produkt" ("product") for a crisp, natural delivery.
-- 'That photograph does not prove anything at all.' Barinov displays a clear footing straight away, putting "fotografiya" ("photograph") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
-- 'Maybe this guy is an inspector too.' Barinov conveys a thoughtful rhythm on the spot, weaving "mozhet" ("can") together with "byt" ("be") just the way native speakers do.
-- 'The dish lacks spiciness.' Barinov chooses a warm tempo straight away, putting "blyude" ("dish, course") alongside "khvatayet" ("grabs") in a tight, everyday turn of phrase.
-- 'Well there, now it is just right.' Barinov picks a clear course at this moment, joining "teper" ("now") to "samyy" ("the most") so every word pulls its weight.
-- 'I think the respected inspector should like it.' Barinov brings a lively attitude in the scene, building the phrase around "dumayu" ("I think") and "uvazhayemomu" ("respected") for a crisp, natural delivery.
-- 'Katya, wait, we have an important conversation.' Nikita shows a natural rhythm in their talk, linking "podozhdi" ("wait"), "vazhnyy" ("important"), and "razgovor" ("conversation") in one brisk exchange.
-- 'The thing is that Nikita glued the piano lid shut, and I decided to get revenge.' Barinov keeps a serious style in this beat, weaving "delo" ("matter") together with "skleil" ("glued together") just the way native speakers do.
-- 'How exactly did you get revenge?' Katya asks quietly beside Nikita, anchoring the Russian line on "kak" ("how") and "otomstit" ("to take revenge") without extra filler.
+- 'Where is your restroom?' Nikita prompts skeptically if there is more going on behind the scenes.
+- 'To the left down the corridor.' Barinov picks one concrete choice for Nikita: "koridoru" means "corridor, hall" (from "koridor"), giving the line its exact edge.
+- 'So if he is not real, maybe I should pour him the cheapest wine?' Nikita drops the comment frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Why waste good product on him?' Nikita inquires promptly to see how Katya will answer on the spot.
+- 'That photograph does not prove anything at all.' Barinov features this clear term in reply: "fotografiya" means "photograph", and it carries the main weight of what Barinov is saying.
+- 'Maybe this guy is an inspector too.' Barinov fires back honestly with Nikita, to clear the air between them once and for all.
+- 'The dish lacks spiciness.' Barinov responds at once without any doubt, so Katya knows he is not just making small talk.
+- 'Well there, now it is just right.' Barinov anchors one key element in earnest: "samyy" means "the most", and it carries the main weight of what Barinov is saying.
+- 'I think the respected inspector should like it.' Barinov continues pointedly across the room, making his position completely clear.
+- 'Katya, wait, we have an important conversation.' Nikita steps in promptly without a pause, testing Katya's reaction in the middle of the exchange.
+- 'The thing is that Nikita glued the piano lid shut, and I decided to get revenge.' Barinov sharpens this sharp choice on cue: "kryshku" means "lid" (from "kryshka"), giving the line its exact edge.
+- 'How exactly did you get revenge?' Katya drops this line at once: putting the question word "kak" right at the front of the line lets Nikita hear the point of the question on the very first beat.

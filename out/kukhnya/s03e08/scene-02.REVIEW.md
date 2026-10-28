@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, since we kissed, that means we are dating.' Nagiyev sustains a serious course in front of Vika, building the phrase around "raz" ("time, once") and "tselovalis" ("were kissing") for a crisp, natural delivery.
-- 'Hooray, I propose we celebrate this!' Nagiyev maintains a steady view across the room, leaning on "predlagayu" ("suggest") before closing the thought with "otmetit" ("to celebrate").
-- 'Let us drink some good champagne.' Nagiyev sustains a resolute course during the exchange, joining "davay" ("let's") to "vypyem" ("will drink") so every word pulls its weight.
-- 'I bought out the second half of the restaurant from Kristina.' Nagiyev establishes a frank view in this beat, pairing "vykupil" ("bought out") with "vtoruyu" ("second") to get the point across in plain spoken Russian.
-- 'Bring us some champagne, please.' Nagiyev holds a candid view in the conversation, joining "prinesi" ("bring") to "shampanskogo" ("of champagne") so every word pulls its weight.
-- 'Dmitry Vladimirovich, actually I am at work right now.' Vika sets a sharp view in the conversation, combining the conversational booster "voobshche" ("in general, overall") with "voobshche-to" ("actually") to give the line its natural spoken rhythm.
-- 'Not anymore, you have a day off today starting this minute.' Nagiyev chooses a measured approach for Vika, pairing "uzhe" ("already, now") with "vykhodnoy" ("a day off") to get the point across in plain spoken Russian.
-- 'Right now we are driving calmly to your home.' Nagiyev chooses a firm stance in the room, anchoring the Russian line on "seychas" ("now") and "spokoyno" ("calmly") without extra filler.
-- 'Go get yourself ready at home.' Nagiyev takes an easygoing tone at once, linking "idi" ("go"), "privedi" ("bring"), and "doma" ("at home") in one brisk exchange.
-- 'And I will drop by your place in about two hours.' Nagiyev presents a calm course in their talk, anchoring the Russian line on "chasa" ("hours") and "zayedu" ("will drop by") without extra filler.
-- 'After all, you and I are grown-up people.' Nagiyev projects a candid line in the room, building the phrase around "lyudi" ("people") and "vzroslyye" ("grown-ups, adults") for a crisp, natural delivery.
-- 'Wait, do I really have a day off today?' Vika inquires sharply in this moment, combining "smysle" ("sense") and "segodnya" ("today") so the key meaning lands right away.
+- 'Well, since we kissed, that means we are dating.' Nagiyev shapes the comeback at once: the "-sya" ending on "vstrechayemsya" ("have been going out") turns the action inward or makes it happen between people naturally.
+- 'Hooray, I propose we celebrate this!' Nagiyev chimes in lightly to settle things, so Vika knows he is not just making small talk.
+- 'Let us drink some good champagne.' Nagiyev grounds one concrete term right here: "shampanskogo" means "of champagne" (from "shampanskoye"), giving the line its exact edge.
+- 'I bought out the second half of the restaurant from Kristina.' Nagiyev cuts in wryly with Vika, keeping the focus on what actually matters here.
+- 'Bring us some champagne, please.' Nagiyev proceeds firmly with a sigh, grounding the moment in plain reality.
+- 'Dmitry Vladimirovich, actually I am at work right now.' Vika highlights one key detail toward Nagiyev: "voobshche-to" means "actually", and it carries the main weight of what Vika is saying.
+- 'Not anymore, you have a day off today starting this minute.' Nagiyev drops this update to Vika: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Right now we are driving calmly to your home.' Nagiyev responds evenly without a pause, making his position completely clear.
+- 'Go get yourself ready at home.' Nagiyev focuses on this direct touch in earnest: "poryadok" means "order", and it carries the main weight of what Nagiyev is saying.
+- 'And I will drop by your place in about two hours.' Nagiyev reaches for one memorable touch right here: "chasa" means "hours" (from "chas"), giving the line its exact edge.
+- 'After all, you and I are grown-up people.' Nagiyev jumps in boldly hearing Vika, making his position completely clear.
+- 'Wait, do I really have a day off today?' Vika uses one telling element in reply: "vykhodnoy" means "a day off", and it carries the main weight of what Vika is saying.

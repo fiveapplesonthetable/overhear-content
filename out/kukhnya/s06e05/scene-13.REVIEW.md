@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We cannot remove the auteur menu.' Barinov establishes a serious attitude straight away, putting "mozhem" ("can") alongside "ubrat" ("to remove, to cut out") in a tight, everyday turn of phrase.
-- 'We want to be the first in Russia to get a star.' Barinov displays a lively tempo at this moment, leaning on "khotim" ("want") before closing the thought with "pervymi" ("first").
-- 'We are not the only ones who want that right now.' Eleonora favors a resolute mood at this moment, weaving "tolko" ("only") together with "seychas" ("now") just the way native speakers do.
-- 'Competitors have already made it into the restaurant guide.' Eleonora projects a candid posture for Mikhail, linking "konkurenty" ("rivals, competitors"), "uzhe" ("already, now"), and "popali" ("to hit, to get") in one brisk exchange.
-- 'I will never remove the auteur menu.' Barinov offers an emphatic bearing straight away, building the phrase around "uberu" ("to remove, to take away") and "avtorskoye" ("auteur, signature") for a crisp, natural delivery.
-- 'Elya, you and I had an agreement.' Barinov adopts a sharp position for Mikhail, linking "dogovarivalis" ("had an agreement"), "elya" ("Elya"), and "my" ("we") in one brisk exchange.
-- 'You are right, but we must solve the problem.' Eleonora holds a calm course in the room, building the phrase around "prav" ("right") and "reshat" ("decide, solve") for a crisp, natural delivery.
-- 'So, shall we invest in the restaurant together?' Eleonora presses lightly without a pause, building the phrase around "znachit" ("then, so") and "budem" ("will") for a crisp, natural delivery.
-- 'Misha, calculate how much money we need.' Eleonora takes a direct attitude with Barinov, joining "poschitay" ("to count, calculate") to "skolko" ("how much, so much") so every word pulls its weight.
-- 'Everything is already calculated, we need two million.' Mikhail maintains a sharp attitude in the conversation, placing "uzhe" ("already, now") straight beside "rasschitano" ("fools") with no word for "to be" needed.
-- 'That means one million rubles from each of us.' Eleonora offers a firm mood in this beat, pairing "znachit" ("then, so") with "millionu" ("million") to get the point across in plain spoken Russian.
-- 'Fine, I will bring my share.' Barinov projects a firm angle in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "prinesu" ("I will bring").
+- 'We cannot remove the auteur menu.' Barinov reaches for one colorful expression in reply: "avtorskoye" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
+- 'We want to be the first in Russia to get a star.' Barinov pushes back wryly during the talk, leaving no doubt about where he stands.
+- 'We are not the only ones who want that right now.' Eleonora speaks up candidly across the room, making her position completely clear.
+- 'Competitors have already made it into the restaurant guide.' Eleonora emphasizes one loaded expression in reply: "restorannyy" means "restaurant", and it carries the main weight of what Eleonora is saying.
+- 'I will never remove the auteur menu.' Barinov weighs in wryly watching Eleonora, to clear the air between them once and for all.
+- 'Elya, you and I had an agreement.' Barinov reacts steadily hearing Mikhail, steering the talk right where he wants it.
+- 'You are right, but we must solve the problem.' Eleonora points to this key expression right here: "problemu" means "problem" (from "problema"), giving the line its exact edge.
+- 'So, shall we invest in the restaurant together?' Eleonora lays out that point for Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Misha, calculate how much money we need.' Eleonora speaks earnestly to settle things, bringing things back to earth after the buildup.
+- 'Everything is already calculated, we need two million.' Mikhail frames one pointed expression in earnest: "rasschitano" means "fools", and it carries the main weight of what Mikhail is saying.
+- 'That means one million rubles from each of us.' Eleonora weighs in calmly toward Barinov, steering the talk right where she wants it.
+- 'Fine, I will bring my share.' Barinov jumps in briskly as things stand, to clear the air between them once and for all.

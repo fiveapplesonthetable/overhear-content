@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, tell me right now.' Mikhail picks a sharp style as they talk, pairing "slushay" ("listen") with "davay" ("let's") to get the point across in plain spoken Russian.
-- 'Excuse me, what exactly am I ignoring?' Mikhail inquires openly for Barinov's benefit, building the phrase around "prostite" ("excuse me") and "ignoriruyu" ("I ignore") for a crisp, natural delivery.
-- 'I have been asking for a restroom for two months.' Barinov adopts a lively posture toward Mikhail, combining "mesyatsa" ("months") and "proshu" ("beg, ask") so the key meaning lands right away.
-- 'A restroom must be earned first.' Mikhail offers a clear rhythm with Barinov, putting "tualet" ("toilet") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'We work better than everyone here.' Barinov holds an honest bearing at once, joining "rabotayem" ("we work, let's work") to "luchshe" ("better") so every word pulls its weight.
-- 'Yeah? Come on then, let's go.' Mikhail tests quietly beside Barinov, leaning on "poshli" ("let's go") before closing the thought with "da" ("yes").
-- 'Did they bring the mussels today? No.' Mikhail wonders dryly at this point, anchoring the Russian line on "midii" ("mussels") and "segodnya" ("today") without extra filler.
-- 'Where is the menu for breakfast?' Mikhail wonders honestly to make the point, building the phrase around "gde" ("where") and "menyu" ("menu") for a crisp, natural delivery.
-- 'Why is there a meat shortage here?' Mikhail inquires dryly beside Barinov, linking "pochemu" ("why"), "zdes" ("here"), and "nedostacha" ("shortage") in one brisk exchange.
-- 'Not everyone has their health booklets.' Mikhail displays a serious tone in the conversation, combining "sanitarnyye" ("sanitary") and "knizhki" ("books") so the key meaning lands right away.
-- 'You are simply spying on me.' Barinov favors a grounded tone at once, joining "prosto" ("just") to "sledish" ("watch, supervise") so every word pulls its weight.
-- 'I know everything in my hotel.' Mikhail sets a grounded angle in the room, pairing "znayu" ("know") with "otele" ("in the hotel") to get the point across in plain spoken Russian.
-- 'There are cockroaches in your kitchen.' Mikhail shares a candid posture in the conversation, anchoring the Russian line on "kukhne" ("kitchen") and "yest" ("there is") without extra filler.
+- 'Listen, tell me right now.' Mikhail shares the reply to Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Excuse me, what exactly am I ignoring?' Mikhail questions briskly while looking straight at Barinov here.
+- 'I have been asking for a restroom for two months.' Barinov colors one telling term on cue: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'A restroom must be earned first.' Mikhail states that line with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'We work better than everyone here.' Barinov proceeds bluntly around Mikhail, letting the remark speak for itself.
+- 'Yeah? Come on then, let's go.' Mikhail points to one direct piece in earnest: "poshli" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'Did they bring the mussels today? No.' Mikhail directs the thought before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Where is the menu for breakfast?' Mikhail quizzes candidly before Barinov can change the subject.
+- 'Why is there a meat shortage here?' Mikhail uses one familiar piece in earnest: "nedostacha" means "shortage", and it carries the main weight of what Mikhail is saying.
+- 'Not everyone has their health booklets.' Mikhail pushes back frankly without holding back, grounding the moment in plain reality.
+- 'You are simply spying on me.' Barinov speaks up decisively with Mikhail, leaving no doubt about where he stands.
+- 'I know everything in my hotel.' Mikhail spotlights one concrete term toward Barinov: "otele" means "in the hotel" (from "otel"), giving the line its exact edge.
+- 'There are cockroaches in your kitchen.' Mikhail opens up right away in their talk, refusing to let the moment slip past.

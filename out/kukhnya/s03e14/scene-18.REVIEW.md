@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's settle everything peacefully.' The guest holds a firm angle in this beat, joining "parni" ("guys, boys") to "davayte" ("let's") so every word pulls its weight.
-- 'Yes, we both lost our temper a bit today.' The guest brings a lively stance in this beat, combining "segodnya" ("today") and "nemnogo" ("a bit") so the key meaning lands right away.
-- 'Because my guys are very hot-tempered.' The guest displays an honest manner straight away, joining "parni" ("guys, boys") to "ochen" ("very much") so every word pulls its weight.
-- 'Why should we start a huge brawl here, right?' The guest questions evenly in front of Max, anchoring the Russian line on "zachem" ("what for") and "tut" ("here") without extra filler.
-- 'I completely agree, forgive me too.' Max strikes a natural style right away, weaving "polnostyu" ("completely") together with "soglasen" ("agreed") just the way native speakers do.
-- 'Alright, take care of yourself, brother, and good luck!' The guest displays a wry direction straight away, joining "davay" ("let's") to "brat" ("brother") so every word pulls its weight.
-- 'Hey, hero, tell your friends to stay quiet!' The guest chooses an earnest footing in their talk, pairing "geroy" ("hero") with "skazhi" ("say") to get the point across in plain spoken Russian.
-- 'What friends of his, we are seeing him for the first time!' Barinov shares a serious mood at once, combining "pervyy" ("first") and "raz" ("time, once") so the key meaning lands right away.
-- 'What do you mean, he said you were with him!' The guest picks a serious attitude in front of Barinov, building the phrase around "kak" ("how") and "skazal" ("said") for a crisp, natural delivery.
-- 'Guys, you simply misunderstood me!' Max offers a grounded mood right away, building the phrase around "rebyata" ("the boys, the lads") and "prosto" ("just") for a crisp, natural delivery.
-- 'What did we misunderstand, come over here right now!' The guest adopts a steady note in their talk, weaving "nepravilno" ("wrongly") together with "ponyali" ("did you understand") just the way native speakers do.
-- 'Ah, so that is where you are hiding, you scoundrel!' Barinov sets an easygoing rhythm for Max, anchoring the Russian line on "gde" ("where") and "pryacheshsya" ("are hiding") without extra filler.
+- 'Guys, let's settle everything peacefully.' The guest proceeds candidly before Barinov, steering the talk right where he wants it.
+- 'Yes, we both lost our temper a bit today.' The guest centers one vivid expression with Max: "pogoryachilis" means "lost our temper" (from "pogoryachitsya"), giving the line its exact edge.
+- 'Because my guys are very hot-tempered.' The guest hands over this update with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Why should we start a huge brawl here, right?' The guest challenges bluntly before Max can change the subject.
+- 'I completely agree, forgive me too.' Max sharpens this key touch at once: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
+- 'Alright, take care of yourself, brother, and good luck!' The guest offers the thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Hey, hero, tell your friends to stay quiet!' The guest responds bluntly before Barinov, so Barinov knows he is not just making small talk.
+- 'What friends of his, we are seeing him for the first time!' Barinov picks one telling word on cue: "pervyy" means "first", and it carries the main weight of what Barinov is saying.
+- 'What do you mean, he said you were with him!' The guest leans on this sharp choice for Barinov: "skazal" means "said" (from "skazat"), giving the line its exact edge.
+- 'Guys, you simply misunderstood me!' Max weighs in plainly facing the guest, before the guest can change the subject.
+- 'What did we misunderstand, come over here right now!' The guest favors one sharp choice at once: "nepravilno" means "wrongly", and it carries the main weight of what the guest is saying.
+- 'Ah, so that is where you are hiding, you scoundrel!' Barinov shapes this point for Max: the "-sya" ending on "pryacheshsya" ("are hiding") turns the action inward or makes it happen between people naturally.

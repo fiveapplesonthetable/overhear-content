@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Goodbye, although wait a minute.' Barinov adopts a resolute attitude during the exchange, combining "svidaniya" ("meeting") and "podozhdite" ("wait") so the key meaning lands right away.
-- 'Lena, maybe we should get married right now?' Barinov inquires dryly at this point, using "mozhet" (from "moch", "can") alongside "seychas" ("now") to shape the meaning.
-- 'Vitya, have at least a little conscience.' Elena presents a measured course at this moment, leaning on "imey" ("have") before closing the thought with "nemnogo" ("a bit").
-- 'Your daughter just ran away from the altar.' Elena displays an emphatic view in the conversation, anchoring the Russian line on "doch" ("daughter") and "sbezhala" ("to escape, flee") without extra filler.
-- 'She will remember this with a smile.' Barinov brings a steady line in front of Elena, putting "vspomnit" ("will remember") alongside "ulybkoy" ("smile") in a tight, everyday turn of phrase.
-- 'She is a young and strong woman.' Barinov shows a lively attitude in the conversation, weaving "molodaya" ("young") together with "silnaya" ("strong") just the way native speakers do.
-- 'And I am no longer young.' Barinov takes a thoughtful tone in the room, building the phrase around "uzhe" ("already, now") and "molodoy" ("young") for a crisp, natural delivery.
-- 'We must treasure every minute of ours.' Barinov adopts a pointed position in this beat, building the phrase around "nado" ("it is necessary") and "berech" ("to treasure") for a crisp, natural delivery.
-- 'And savor every new moment.' Barinov projects a sharp view in the room, joining "naslazhdatsya" ("to enjoy, savor") to "kazhdym" ("every") so every word pulls its weight.
-- 'Let us be together as husband and wife.' Barinov offers a thoughtful tone during the exchange, building the phrase around "davay" ("let's") and "budem" ("will") for a crisp, natural delivery.
-- 'Tell me, do you agree or not?' Barinov quizzes honestly right away, combining "skazhi" ("say") and "soglasna" ("agree") so the key meaning lands right away.
-- 'I pronounce you husband and wife!' Elena sets a sharp mood across the room, anchoring the Russian line on "obyavlyayu" ("I declare") and "muzhem" ("husband") without extra filler.
+- 'Goodbye, although wait a minute.' Barinov reacts warmly beside Elena, shifting the whole mood of the room in a single beat.
+- 'Lena, maybe we should get married right now?' Barinov probes straight out while looking straight at Elena here.
+- 'Vitya, have at least a little conscience.' Elena centers one loaded detail with Barinov: "sovesti" means "conscience" (from "sovest"), giving the line its exact edge.
+- 'Your daughter just ran away from the altar.' Elena colors one colorful touch right here: "sbezhala" means "to escape, flee" (from "sbezhat"), giving the line its exact edge.
+- 'She will remember this with a smile.' Barinov continues at once as they talk, testing Elena's reaction in the middle of the exchange.
+- 'She is a young and strong woman.' Barinov points to one practical element for Elena: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
+- 'And I am no longer young.' Barinov hands over this update right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We must treasure every minute of ours.' Barinov reacts openly with Elena, grounding the moment in plain reality.
+- 'And savor every new moment.' Barinov underscores one loaded touch on cue: "naslazhdatsya" means "to enjoy, savor", and it carries the main weight of what Barinov is saying.
+- 'Let us be together as husband and wife.' Barinov makes this statement to Elena: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Tell me, do you agree or not?' Barinov wonders eagerly in front of Elena without any preamble.
+- 'I pronounce you husband and wife!' Elena frames one practical word on cue: "obyavlyayu" means "I declare" (from "obyavlyat"), giving the line its exact edge.

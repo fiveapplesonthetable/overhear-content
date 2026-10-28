@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Better bring him a good steak.' Barinov shares a thoughtful view beside Denis, combining "nesite" ("bring") and "luchshe" ("better") so the key meaning lands right away.
-- 'Our secret guest no longer wants steak.' Barinov conveys an unhurried rhythm straight away, building the phrase around "taynyy" ("secret, undercover") and "gost" ("guest") for a crisp, natural delivery.
-- 'He is asking for some delicious dessert.' Barinov shares a measured approach across the room, joining "prosit" ("is asking for") to "vkusnyy" ("delicious") so every word pulls its weight.
-- 'Are you going to confess to her?' Katya asks wryly as the talk turns, joining "sobirayeshsya" ("plan") to "priznavatsya" ("to confess") so every word pulls its weight.
-- 'The guest wants some light salad.' Barinov picks an unhurried attitude toward Denis, building the phrase around "gost" ("guest") and "khochet" ("wants") for a crisp, natural delivery.
-- 'And he asks for his curtains to be changed.' Barinov sets a wry rhythm with Katya, pairing "prosit" ("is asking for") with "pomenyali" ("changed, replaced") to get the point across in plain spoken Russian.
-- 'The streetlight outside is bothering him.' Barinov shows a firm approach in their talk, linking "meshayet" ("bothers"), "fonar" ("flashlight"), and "ulitsy" ("street") in one brisk exchange.
-- 'Katya, I must confess everything to you.' Denis maintains a lively line without hesitation, pairing "priznatsya" ("to admit") with "dolzhen" ("has to, must") so the "-sya" ending carries the action.
-- 'On that night you and I broke up.' Denis projects a playful style in the room, weaving "noch" ("night") together with "rasstalis" ("broke up, separated") just the way native speakers do.
-- 'I got drunk back then and cheated on you.' Denis takes a warm course at once, joining "togda" ("back then") to "napilsya" ("get drunk") so every word pulls its weight.
-- 'I know that you will not forgive this.' Denis strikes an easygoing tone in front of Barinov, building the phrase around "znayu" ("know") and "prostish" ("to forgive") for a crisp, natural delivery.
-- 'Even if you forgive, you will never forget it.' Denis holds a measured rhythm in this beat, joining "prostish" ("to forgive") to "nikogda" ("never") so every word pulls its weight.
-- 'I regret this very deeply.' Denis presents a pointed direction toward Barinov, weaving "ochen" ("very much") together with "sozhaleyu" ("to regret, be sorry") just the way native speakers do.
+- 'Better bring him a good steak.' Barinov opens up calmly without a pause, grounding the moment in plain reality.
+- 'Our secret guest no longer wants steak.' Barinov highlights this direct expression on cue: "taynyy" means "secret, undercover", and it carries the main weight of what Barinov is saying.
+- 'He is asking for some delicious dessert.' Barinov opens up quietly with a shrug, keeping the focus on what actually matters here.
+- 'Are you going to confess to her?' Katya tests openly whether Denis really thought this through.
+- 'The guest wants some light salad.' Barinov emphasizes one vivid detail at once: "lyogkiy" means "faint", and it carries the main weight of what Barinov is saying.
+- 'And he asks for his curtains to be changed.' Barinov answers steadily without holding back, bringing things back to earth after the buildup.
+- 'The streetlight outside is bothering him.' Barinov steps in sharply to settle things, before Denis can change the subject.
+- 'Katya, I must confess everything to you.' Denis spotlights this sharp choice on cue: "priznatsya" means "to admit", and it carries the main weight of what Denis is saying.
+- 'On that night you and I broke up.' Denis aims that answer plainly here: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
+- 'I got drunk back then and cheated on you.' Denis speaks sharply in their talk, before Katya can change the subject.
+- 'I know that you will not forgive this.' Denis favors one telling touch on cue: "prostish" means "to forgive" (from "prostit"), giving the line its exact edge.
+- 'Even if you forgive, you will never forget it.' Denis makes that thought plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I regret this very deeply.' Denis follows up candidly hearing Barinov, shifting the whole mood of the room in a single beat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, my guests will come for lunch today.' Barinov adopts a pointed note at once, leaning on "segodnya" ("today") before closing the thought with "obed" ("lunch").
-- 'They will definitely ask for the head chef at their table.' Barinov chooses a frank note toward Elena, linking "obyazatelno" ("surely, without fail"), "poprosyat" ("to ask, to request"), and "stoliku" ("small table") in one brisk exchange.
-- 'Make sure that I find out about this first.' Barinov maintains a thoughtful footing in the scene, anchoring the Russian line on "sdelay" ("make, do") and "uznal" ("recognised") without extra filler.
-- 'Vitya, where do such generous gifts suddenly come from?' Elena presses frankly without a pause, building the phrase around "otkuda" ("where from") and "vdrug" ("suddenly, what if") for a crisp, natural delivery.
-- 'You did so much good for me recently.' Barinov shares a calm line for Elena, building the phrase around "stolko" ("so many") and "khoroshego" ("good, the best") for a crisp, natural delivery.
-- 'Can I also repay you with kindness?' Barinov prompts calmly to make the point, building the phrase around "mogu" ("can") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Wait, is this session scheduled for today already?' Elena tests honestly across the room, building the phrase around "podozhdi" ("wait") and "seans" ("scheduled") for a crisp, natural delivery.
-- 'And does it start in just half an hour?' Elena asks wryly toward Barinov here, weaving "nachinayetsya" ("begins") together with "pryamo" ("right, just") just the way native speakers do.
-- 'Yes, so why are you still sitting here?' Barinov asks calmly with Elena now, pairing "yeshchyo" ("more, still") with "sidish" ("are sitting") to get the point across in plain spoken Russian.
-- 'Come on, go quickly, and I will cover here.' Barinov holds an emphatic line at once, pairing "davay" ("let's") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.
-- 'After all, you will only be away during lunch.' Barinov offers a calm approach in the room, building the phrase around "budet" ("will be") and "tolko" ("only") for a crisp, natural delivery.
-- 'Well all right, thank you, it is just very unexpected.' Elena brings a serious tone as the scene unfolds, placing "spasibo" ("thank you") straight beside "prosto" ("just") with no word for "to be" needed.
+- 'Lyova, my guests will come for lunch today.' Barinov reacts at once watching Elena, to clear the air between them once and for all.
+- 'They will definitely ask for the head chef at their table.' Barinov responds steadily to be clear, shifting the whole mood of the room in a single beat.
+- 'Make sure that I find out about this first.' Barinov spotlights one loaded choice right here: "pervym" means "first" (from "pervyy"), giving the line its exact edge.
+- 'Vitya, where do such generous gifts suddenly come from?' Elena phrases that point toward Barinov: putting the question word "otkuda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'You did so much good for me recently.' Barinov opens up dryly watching Elena, so Elena knows he is not just making small talk.
+- 'Can I also repay you with kindness?' Barinov uses one familiar expression in earnest: "otplatit" means "to kindness", and it carries the main weight of what Barinov is saying.
+- 'Wait, is this session scheduled for today already?' Elena lays out that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'And does it start in just half an hour?' Elena questions candidly whether Barinov really thought this through.
+- 'Yes, so why are you still sitting here?' Barinov grounds one colorful term toward Elena: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
+- 'Come on, go quickly, and I will cover here.' Barinov shares this warning calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'After all, you will only be away during lunch.' Barinov weighs in steadily with a shrug, to clear the air between them once and for all.
+- 'Well all right, thank you, it is just very unexpected.' Elena reaches for one concrete term with Barinov: "neozhidanno" means "unexpected", and it carries the main weight of what Elena is saying.

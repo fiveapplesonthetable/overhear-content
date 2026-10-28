@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, take this salt quickly.' Vika holds an honest angle in the scene, building the phrase around "vozmi" ("take, pick up") and "skoreye" ("quickly, right away") for a crisp, natural delivery.
-- 'Dima, this is not at all what you thought.' Vika sets a clear direction in front of Nagiyev, putting "sovsem" ("at all") alongside "podumal" ("would think") in a tight, everyday turn of phrase.
-- 'Yes, this is not at all what you thought.' Max takes a grounded angle with Nagiyev, linking "sovsem" ("at all"), "podumali" ("thought"), and "da" ("yes") in one brisk exchange.
-- 'I keep forgetting that you are just friends.' Nagiyev strikes a wry tack toward Vika, leaning on "vremya" ("time") before closing the thought with "zabyvayu" ("forget").
-- 'Alright, I will go work now.' Vika sustains a calm tone in the room, combining the easygoing tag "ladno" ("okay, fine") with "seychas" ("now") to give the line its natural spoken rhythm.
-- 'Guests are waiting for us in the hall there.' Vika displays a measured tack as they talk, combining "tam" ("there") and "zale" ("hall") so the key meaning lands right away.
-- 'I will probably go work too.' Max displays a natural view in the conversation, building the phrase around "tozhe" ("too") and "poydu" ("go") for a crisp, natural delivery.
-- 'And I will ask you to stay here.' Nagiyev establishes a grounded attitude in the conversation, combining "poproshu" ("will ask") and "zdes" ("here") so the key meaning lands right away.
-- 'Maxim, you are already a grown boy.' Nagiyev takes an unhurried bearing in the conversation, placing "uzhe" ("already, now") straight beside "vzroslyy" ("grown-up, adult") with no word for "to be" needed.
-- 'Please, try to understand me right now.' Nagiyev takes a sharp mood on the spot, building the phrase around "poprobuy" ("to try, to taste") and "seychas" ("now") for a crisp, natural delivery.
-- 'I have serious plans for Victoria Sergeyevna.' Nagiyev shares a calm tack across the room, weaving "plany" ("plans") together with "seryoznyye" ("serious") just the way native speakers do.
-- 'And you already lost your happiness.' Nagiyev strikes a brisk angle as they talk, joining "uzhe" ("already, now") to "poteryal" ("lost") so every word pulls its weight.
+- 'Max, take this salt quickly.' Vika proceeds pointedly in their talk, without trying to dress up how she really feels.
+- 'Dima, this is not at all what you thought.' Vika answers wryly in this moment, refusing to let the moment slip past.
+- 'Yes, this is not at all what you thought.' Max picks this key choice in reply: "podumali" means "thought" (from "podumat"), giving the line its exact edge.
+- 'I keep forgetting that you are just friends.' Nagiyev delivers the comeback in earnest: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Alright, I will go work now.' Vika stands firm openly without a pause, before Max can change the subject.
+- 'Guests are waiting for us in the hall there.' Vika colors one vivid expression right here: "gosti" means "visitors, guests" (from "gost"), giving the line its exact edge.
+- 'I will probably go work too.' Max pushes back earnestly without holding back, so Nagiyev knows he is not just making small talk.
+- 'And I will ask you to stay here.' Nagiyev cuts in candidly in their talk, grounding the moment in plain reality.
+- 'Maxim, you are already a grown boy.' Nagiyev uses one memorable choice on cue: "vzroslyy" means "grown-up, adult", and it carries the main weight of what Nagiyev is saying.
+- 'Please, try to understand me right now.' Nagiyev frames the reply briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I have serious plans for Victoria Sergeyevna.' Nagiyev opens up evenly in this moment, refusing to let the moment slip past.
+- 'And you already lost your happiness.' Nagiyev favors one familiar detail in reply: "schastye" means "happiness", and it carries the main weight of what Nagiyev is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I see that the horse is not purebred.' Kostya projects a pointed footing in their talk, joining "vizhu" ("see") to "kon" ("knight, horse") so every word pulls its weight.
-- 'His dad is of one breed.' Kostya holds a frank course straight away, leaning on "papa" ("Dad") before closing the thought with "porody" ("breed").
-- 'Katyusha, may I come in to see you?' Elena probes quietly as the beat lands, linking "katyusha" ("eat"), "mozhno" ("may, can"), and "voyti" ("to come in") in one brisk exchange.
-- 'You did not have any money, though.' Katya sets an easygoing angle with Kostya, anchoring the Russian line on "bylo" ("was") and "deneg" ("money") without extra filler.
-- 'Gifts from Nagiyev remained with me.' Elena strikes a sharp approach as the scene unfolds, pairing "ostalis" ("stayed, were left") with "podarki" ("presents") so the "-sya" ending carries the action.
-- 'One ex-husband helped another.' Elena adopts a lively bearing as the scene unfolds, building the phrase around "byvshiy" ("ex") and "muzh" ("husband") for a crisp, natural delivery.
-- 'Thank you very much for the help.' Katya strikes a lively approach on the spot, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.
-- 'Wait, I did not come alone.' Elena chooses a resolute approach as the scene unfolds, leaning on "podozhdi" ("wait") before closing the thought with "prishla" ("came").
-- 'We chipped in here as a whole team.' Kostya keeps an emphatic manner across the room, linking "tut" ("here"), "komandoy" ("team"), and "skinulis" ("chipped in") in one brisk exchange.
-- 'Everyone gave as much as they could.' Kostya maintains a firm stance in this beat, linking "kazhdyy" ("every"), "dal" ("to give"), and "skolko" ("how much, so much") in one brisk exchange.
-- 'It did not come out to very much.' Kostya brings a brisk note at once, joining "vyshlo" ("happened, came about") to "ochen" ("very much") so every word pulls its weight.
-- 'Everyone simply wanted very much to help.' Kostya conveys a sharp tone as they talk, leaning on "prosto" ("just") before closing the thought with "ochen" ("very much").
+- 'I see that the horse is not purebred.' Kostya jumps in plainly with a nod, grounding the moment in plain reality.
+- 'His dad is of one breed.' Kostya points to one sharp word toward Katya: "porody" means "breed" (from "poroda"), giving the line its exact edge.
+- 'Katyusha, may I come in to see you?' Elena offers the comeback on cue: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'You did not have any money, though.' Katya answers bluntly with a nod, saying out loud what both of them already know.
+- 'Gifts from Nagiyev remained with me.' Elena sharpens one clear touch right here: "podarki" means "presents" (from "podarok"), giving the line its exact edge.
+- 'One ex-husband helped another.' Elena reacts candidly to settle things, shifting the whole mood of the room in a single beat.
+- 'Thank you very much for the help.' Katya replies steadily with a nod, so Elena knows she is not just making small talk.
+- 'Wait, I did not come alone.' Elena centers one sharp term right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'We chipped in here as a whole team.' Kostya counters warmly with a nod, letting the remark speak for itself.
+- 'Everyone gave as much as they could.' Kostya chimes in wryly in this moment, letting the remark speak for itself.
+- 'It did not come out to very much.' Kostya centers this telling expression for Elena: "vyshlo" means "happened, came about" (from "vyyti"), giving the line its exact edge.
+- 'Everyone simply wanted very much to help.' Kostya shapes this update facing Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

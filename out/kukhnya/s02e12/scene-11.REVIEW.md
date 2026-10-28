@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yeah, help me out.' Barinov sets a measured posture on the spot, building the phrase around "pomogi" ("help") and "aga" ("yeah, right") for a crisp, natural delivery.
-- 'This is our Viktoriya Sergeyevna.' Barinov keeps a clear stance in their talk, combining "eto" ("this") and "nasha" ("our") so the key meaning lands right away.
-- 'Oh, come on.' Barinov maintains a calm position in the scene, joining "da" ("yes") to "ladno" ("all right") so every word pulls its weight.
-- 'I am just saying it in advance.' Vika displays an earnest posture in the scene, linking "zaraneye" ("in advance") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
-- 'I am just kidding.' Barinov sets a pointed tone in this beat, building the phrase around "shuchu" ("am joking") and "da" ("yes") for a crisp, natural delivery.
-- 'To discuss a work matter.' Vika conveys a serious stance as the scene unfolds, anchoring the Russian line on "obsudit" ("to discuss") and "rabochiy" ("working") without extra filler.
-- 'Well, let us get to work.' Barinov brings a measured rhythm without hesitation, pairing "poshli" ("let's go") with "rabotat" ("to work") to get the point across in plain spoken Russian.
-- 'Someone told me.' Vika holds a lively line in the room, joining "skazali" ("told") to "mne" ("to me") so every word pulls its weight.
-- 'Anyway, regarding my family.' Barinov brings a resolute posture at this moment, anchoring the Russian line on "obshchem" ("short, so") and "povodu" ("matter") without extra filler.
-- 'I do not live with my husband anymore.' Vika chooses a natural course during the exchange, anchoring the Russian line on "muzhem" ("husband") and "zhivu" ("live") without extra filler.
-- 'Our son grew up, and we got divorced.' Barinov presents a clear rhythm in the conversation, pairing "vyros" ("grew up") with "syn" ("son") so the "-sya" ending carries the action.
-- 'There just was never a right moment to mention it.' Vika shows an unhurried rhythm in the scene, joining "prosto" ("just") to "bylo" ("was") so every word pulls its weight.
-- 'Our new dish.' Barinov strikes a natural note as they talk, using "novoye" (from "novyy", "new") alongside "blyudo" ("dish") to shape the meaning.
+- 'Yeah, help me out.' Barinov phrases that point without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'This is our Viktoriya Sergeyevna.' Barinov counters promptly before Vika, letting the remark speak for itself.
+- 'Oh, come on.' Barinov voices this warning plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
+- 'I am just saying it in advance.' Vika shapes the thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am just kidding.' Barinov answers right away with a smile, saying out loud what both of them already know.
+- 'To discuss a work matter.' Vika favors one clear choice at once: "rabochiy" means "working", and it carries the main weight of what Vika is saying.
+- 'Well, let us get to work.' Barinov brings the remark with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Someone told me.' Vika proceeds pointedly with a sigh, without trying to dress up how she really feels.
+- 'Anyway, regarding my family.' Barinov reaches for this direct choice at once: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'I do not live with my husband anymore.' Vika responds candidly facing Barinov, without trying to dress up how she really feels.
+- 'Our son grew up, and we got divorced.' Barinov follows up boldly before Vika, refusing to let the moment slip past.
+- 'There just was never a right moment to mention it.' Vika focuses on one telling touch on cue: "podkhodyashchego" means "suitable, fitting" (from "podkhodyashchiy"), giving the line its exact edge.
+- 'Our new dish.' Barinov shapes this update briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, just promise you will not get upset.' Kostya keeps an easygoing bearing in front of Nastya, joining "tolko" ("only") to "volnuysya" ("worry") so every word pulls its weight.
-- 'I am not getting upset.' Nastya brings an emphatic mood with Kostya, weaving "volnuyus" ("am nervous") together with "ya" ("I") just the way native speakers do.
-- 'I really wanted to help you make peace.' Kostya takes a frank mood straight away, combining "ochen" ("very much") and "khotel" ("wanted") so the key meaning lands right away.
-- 'And I broke his nose.' Nastya takes an earnest rhythm straight away, using "slomal" (from "slomat", "broke") alongside "nos" ("nose") to shape the meaning.
-- 'Did the two of you get into a fight again?' Kostya tests steadily at this point, leaning on "opyat" ("again") before closing the thought with "podralis" ("to fight, have a brawl").
-- 'He barely even fought back.' Nastya maintains a candid footing in front of Kostya, anchoring the Russian line on "pochti" ("almost") and "dralsya" ("to fight, to brawl") without extra filler.
-- 'He was the one who told me to swing.' Kostya presents a frank posture at once, pairing "predlozhil" ("suggested") with "no" ("but") to get the point across in plain spoken Russian.
-- 'And you beat the man up.' Nastya shares an easygoing attitude with Kostya, anchoring the Russian line on "izbil" ("to beat up") and "cheloveka" ("a man, a person") without extra filler.
-- 'Well, he asked for it himself.' Kostya keeps a wry rhythm beside Nastya, building the phrase around "znachit" ("then, so") and "zakhotel" ("to want, to feel like") for a crisp, natural delivery.
-- 'Kostya, maybe you are going to beat up my mother next?' Nastya questions sharply to Kostya here, pairing "mozhet" ("can") with "mamu" ("mother, mum") to get the point across in plain spoken Russian.
-- 'Honestly, it seems I hardly knew you at all.' Nastya takes an earnest mood straight away, joining "voobshche" ("at all") to "pokhozhe" ("like, similar") so every word pulls its weight.
-- 'Hello, Mom, what happened to Dad?' Nastya wonders naturally as they speak, combining "mam" ("Mum") and "papoy" ("dad") so the key meaning lands right away.
-- 'All right, I am on my way right now.' Kostya sustains a calm attitude at once, leaning on "seychas" ("now") before closing the thought with "priyedu" ("will come, visit").
+- 'Nastya, just promise you will not get upset.' Kostya hands over that line beside Nastya: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'I am not getting upset.' Nastya continues steadily in this moment, to clear the air between them once and for all.
+- 'I really wanted to help you make peace.' Kostya centers this telling choice for Nastya: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
+- 'And I broke his nose.' Nastya gives the reply at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Did the two of you get into a fight again?' Kostya checks curiously before Nastya can change the subject.
+- 'He barely even fought back.' Nastya spotlights this key touch in reply: "dralsya" means "to fight, to brawl" (from "dratsya"), giving the line its exact edge.
+- 'He was the one who told me to swing.' Kostya drops that line briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And you beat the man up.' Nastya opens up dryly with a smile, before Kostya can change the subject.
+- 'Well, he asked for it himself.' Kostya sharpens this key detail right here: "zakhotel" means "to want, to feel like" (from "zakhotet"), giving the line its exact edge.
+- 'Kostya, maybe you are going to beat up my mother next?' Nastya delivers the remark without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Honestly, it seems I hardly knew you at all.' Nastya speaks lightly to be clear, saying out loud what both of them already know.
+- 'Hello, Mom, what happened to Dad?' Nastya features one concrete word with Kostya: "papoy" means "dad" (from "papa"), giving the line its exact edge.
+- 'All right, I am on my way right now.' Kostya frames the remark with warmth: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.

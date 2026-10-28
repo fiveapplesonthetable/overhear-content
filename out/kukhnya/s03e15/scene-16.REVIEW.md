@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, let's start cooking, stop chattering, chop the onions!' Barinov keeps an emphatic style in front of Max, joining "nachnyom" ("we start") to "gotovit" ("to cook") so every word pulls its weight.
-- 'Yes, we are getting started on the work right now!' Nagiyev picks a warm note in the conversation, combining "pryamo" ("right, just") and "seychas" ("now") so the key meaning lands right away.
-- 'Sir, could you be more careful, step back, please!' Barinov presents a playful tone beside Max, pairing "muzhchina" ("man") with "poostorozhneye" ("more carefully") to get the point across in plain spoken Russian.
-- 'Fedya, toss me the fish quickly!' Barinov shares a calm posture right away, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
-- 'What kind of mess is this in your kitchen?' Nagiyev questions openly as the talk turns, pairing "bardak" ("mess, disorder") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.
-- 'Excuse me, usually nobody stands in this spot in our kitchen.' Barinov projects a direct mood at once, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "prosto" ("just") without extra filler.
-- 'Hey, step aside, cannot you see I am mopping the floor!' Barinov shares a steady view beside Max, anchoring the Russian line on "otoydi" ("to step back") and "otsyuda" ("from here") without extra filler.
-- 'Stop, now all you have left to do is put this into the oven!' Barinov chooses a candid stance in their talk, pairing "ostayotsya" ("stays") with "teper" ("now") so the "-sya" ending carries the action.
-- 'Well done, just like in the movies, Nagiyev's eleven friends!' Nagiyev displays a playful approach in the scene, anchoring the Russian line on "molodtsy" ("well done, good person") and "pryamo" ("right, just") without extra filler.
-- 'Everyone did great and everyone is simply brilliant today!' Nagiyev brings a calm stance at once, placing "molodtsy" ("well done, good person") straight beside "segodnya" ("today") with no word for "to be" needed.
-- 'Vika, forgive me, I did not mean to scare you like that.' Max adopts an earnest tack in front of Barinov, putting "prosti" ("sorry, forgive me") alongside "khotel" ("wanted") in a tight, everyday turn of phrase.
-- 'Tell me, are you definitely alright right now?' Max inquires decisively during the talk, leaning on "skazhi" ("say") before closing the thought with "seychas" ("now").
+- 'Well then, let's start cooking, stop chattering, chop the onions!' Barinov stresses this sharp touch right here: "nachnyom" means "we start" (from "nachat"), giving the line its exact edge.
+- 'Yes, we are getting started on the work right now!' Nagiyev holds firm wryly without holding back, so Max knows he is not just making small talk.
+- 'Sir, could you be more careful, step back, please!' Barinov follows up evenly with a sigh, letting the remark speak for itself.
+- 'Fedya, toss me the fish quickly!' Barinov highlights one telling term with Nagiyev: "bystro" means "quickly", and it carries the main weight of what Barinov is saying.
+- 'What kind of mess is this in your kitchen?' Nagiyev drops the reply in earnest: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Excuse me, usually nobody stands in this spot in our kitchen.' Barinov jumps in quietly facing Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Hey, step aside, cannot you see I am mopping the floor!' Barinov frames one concrete word for Max: "otsyuda" means "from here", and it carries the main weight of what Barinov is saying.
+- 'Stop, now all you have left to do is put this into the oven!' Barinov sends the thought for Nagiyev: the "-sya" ending on "ostayotsya" ("stays") turns the action inward or makes it happen between people naturally.
+- 'Well done, just like in the movies, Nagiyev's eleven friends!' Nagiyev pushes back evenly without any doubt, keeping the focus on what actually matters here.
+- 'Everyone did great and everyone is simply brilliant today!' Nagiyev emphasizes one concrete word in reply: "krasavtsy" means "handsome man" (from "krasavets"), giving the line its exact edge.
+- 'Vika, forgive me, I did not mean to scare you like that.' Max gives the reaction without fuss: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Tell me, are you definitely alright right now?' Max inquires calmly before Nagiyev can change the subject.

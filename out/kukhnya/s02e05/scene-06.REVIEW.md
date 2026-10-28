@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With what?' Vika asks quietly with Kostya now, putting all the weight on "chem" ("than") so the reply lands immediately.
-- 'But your grandfather just passed away.' Kostya establishes a calm line at once, pairing "dedushka" ("grandfather") with "umer" ("died") to get the point across in plain spoken Russian.
-- 'Yes, you know, I...' Vika conveys a wry style in front of Kostya, linking "znayete" ("know"), "da" ("yes"), and "ya" ("I") in one brisk exchange.
-- 'I just have not fully processed it yet.' Kostya picks a grounded position in the scene, combining the softening word "prosto" ("simply, just") with "kontsa" ("ending") to give the line its natural spoken rhythm.
-- 'Allow me to get back to my work.' Vika takes a wry course straight away, joining "pozvolte" ("allow me") to "vernus" ("will come back") so every word pulls its weight.
-- 'Yes, yes, of course.' Kostya shares an earnest style toward Vika, leaning on "konechno" ("of course") before closing the thought with "da" ("yes").
-- 'Keep working, Kostya.' Vika conveys a firm approach at once, putting "rabotay" ("work") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
-- 'Right now I know for sure what I want.' Kostya offers an honest approach without hesitation, linking "seychas" ("now"), "tochno" ("definitely"), and "znayu" ("know") in one brisk exchange.
-- 'Let us start everything over from the beginning.' Vika picks a pointed rhythm with Kostya, combining "davay" ("let's") and "nachnem" ("we start") so the key meaning lands right away.
-- 'Now that is what I like to hear.' Kostya keeps a resolute style beside Vika, building the phrase around "ponimayu" ("understand") and "vot" ("there, here") for a crisp, natural delivery.
-- 'Could you not come up with something normal?' Vika probes candidly as the beat lands, linking "mog" ("can, to be able"), "normalnoye" ("normal"), and "pridumat" ("to think up") in one brisk exchange.
-- 'What a thing to joke about.' Kostya sets a sharp posture as they talk, combining "nashel" ("found") and "shutit" ("to joke") so the key meaning lands right away.
-- 'The main thing is that everything went smoothly.' Vika sets a steady line for Kostya, putting "glavnoye" ("important") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
+- 'With what?' Vika challenges firmly if there is more going on behind the scenes.
+- 'But your grandfather just passed away.' Kostya anchors this direct term in reply: "dedushka" means "grandfather", and it carries the main weight of what Kostya is saying.
+- 'Yes, you know, I...' Vika phrases this warning before Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I just have not fully processed it yet.' Kostya holds firm firmly beside Vika, so Vika knows he is not just making small talk.
+- 'Allow me to get back to my work.' Vika points to this sharp expression for Kostya: "pozvolte" means "allow me" (from "pozvolit"), giving the line its exact edge.
+- 'Yes, yes, of course.' Kostya sends the remark frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Keep working, Kostya.' Vika fires back sharply on the spot, letting the remark speak for itself.
+- 'Right now I know for sure what I want.' Kostya picks this clear piece toward Vika: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'Let us start everything over from the beginning.' Vika makes this point frankly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Now that is what I like to hear.' Kostya counters earnestly before Vika, refusing to let the moment slip past.
+- 'Could you not come up with something normal?' Vika frames one telling element in reply: "normalnoye" means "normal" (from "normalnyy"), giving the line its exact edge.
+- 'What a thing to joke about.' Kostya brings the reaction before Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'The main thing is that everything went smoothly.' Vika answers lightly during the talk, so Kostya knows she is not just making small talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vika, I want to ask you for help.' Barinov takes a grounded position as the scene unfolds, linking "khochu" ("want"), "poprosit" ("to ask"), and "pomoshchi" ("help") in one brisk exchange.
-- 'They fired my Katya completely unfairly today.' Barinov keeps a serious rhythm in this beat, putting "segodnya" ("today") alongside "uvolili" ("to fire, to dismiss") in a tight, everyday turn of phrase.
-- 'Talk to German so that he takes her back.' Barinov presents a playful bearing across the room, combining "pogovori" ("talk") and "germanom" ("german") so the key meaning lands right away.
-- 'No, Vitya, you simply do not know.' Vika establishes an easygoing mood straight away, putting "prosto" ("just") alongside "znayesh" ("know") in a tight, everyday turn of phrase.
-- 'Katya is really guilty in this story.' Vika strikes a measured style as the scene unfolds, placing "istorii" ("stories") straight beside "realno" ("really possible") with no word for "to be" needed.
-- 'Vika, it was I who planted the cat here!' Barinov conveys a steady rhythm for Vika, weaving "podkinul" ("give a lift") together with "syuda" ("here") just the way native speakers do.
-- 'Miss, I am not going to wait any longer!' Katya displays a frank tempo during the exchange, anchoring the Russian line on "devushka" ("girlfriend") and "bolshe" ("more") without extra filler.
-- 'Please, wait another five minutes.' Vika maintains a thoughtful stance in their talk, combining "podozhdite" ("wait") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'I am not going to pay for this nightmare!' Katya shares a frank tempo at once, putting "sobirayus" ("am planning") alongside "platit" ("to pay") in a tight, everyday turn of phrase.
-- 'You ruined the party for my beloved Tyoma!' Katya chooses a direct attitude at this moment, anchoring the Russian line on "isportili" ("ruined, spoiled") and "prazdnik" ("holiday") without extra filler.
-- 'And you also stained his handsome little suit!' Katya holds an earnest tone in this beat, joining "yeshchyo" ("more, still") to "ispachkali" ("to handsome") so every word pulls its weight.
-- 'And what now, I am barely getting by!' Vika sets an unhurried angle at this moment, linking "teper" ("now"), "yele" ("barely, hardly"), and "zhivu" ("live") in one brisk exchange.
+- 'Hello, Vika, I want to ask you for help.' Barinov delivers this warning toward Katya: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Katya are on familiar terms.
+- 'They fired my Katya completely unfairly today.' Barinov counters sharply toward Vika, saying out loud what both of them already know.
+- 'Talk to German so that he takes her back.' Barinov reaches for one memorable choice right here: "pogovori" means "talk" (from "pogovorit"), giving the line its exact edge.
+- 'No, Vitya, you simply do not know.' Vika gives the reply around Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Katya is really guilty in this story.' Vika replies evenly to be clear, keeping the focus on what actually matters here.
+- 'Vika, it was I who planted the cat here!' Barinov favors one colorful touch right here: "podkinul" means "give a lift" (from "podkinut"), giving the line its exact edge.
+- 'Miss, I am not going to wait any longer!' Katya pushes back calmly with Barinov, shifting the whole mood of the room in a single beat.
+- 'Please, wait another five minutes.' Vika chimes in wryly without a pause, without trying to dress up how she really feels.
+- 'I am not going to pay for this nightmare!' Katya frames one key word toward Barinov: "sobirayus" means "am planning" (from "sobiratsya"), giving the line its exact edge.
+- 'You ruined the party for my beloved Tyoma!' Katya emphasizes one loaded choice toward Vika: "lyubimomu" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
+- 'And you also stained his handsome little suit!' Katya proceeds firmly with a smile, bringing things back to earth after the buildup.
+- 'And what now, I am barely getting by!' Vika spotlights this telling term in earnest: "teper" means "now", and it carries the main weight of what Vika is saying.

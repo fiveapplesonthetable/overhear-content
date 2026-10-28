@@ -33,9 +33,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, in taste everything is simply excellent!' The guest remains totally unaware of the deception.
 - 'In our restaurant it cannot be any other way.' When the guest praises the flavor, Viktor replies proudly that Claude Monet accepts nothing less.
 - 'Waiter, what is the score in the match now?' Turning anxiously to a passing waiter, Viktor whispers to ask the current score of the football match.
-- 'The score there is three-three now, our guys tied it up!' the guest expresses this naturally by combining the word for 'there' with 'now' and 'account'.
-- 'They had not tied it up like that for twenty years in a row.' the guest puts the word for 'twenty' together with 'year' and 'in a row' in a crisp, natural spoken turn of phrase.
-- 'And today they suddenly scored three quick goals!' Here the guest anchors the line on the word meaning 'today' and builds the thought around 'suddenly' and 'to score'.
+- 'The score there is three-three now, our guys tied it up!' Watching the live broadcast on his phone, the guest excitedly announces that Spartak just tied the match three to three.
+- 'They had not tied it up like that for twenty years in a row.' Amazed by the comeback, the guest marvels that the team has not pulled off a rally like that in twenty years.
+- 'And today they suddenly scored three quick goals!' He adds in disbelief that the players suddenly scored three quick goals in a row today.
 - 'Did Spartak really let victory slip away in the end again?!' Hearing that Spartak just scored three goals to tie the game at three-all — ruining his huge bet on CSKA — Viktor gasps in disbelief.
-- 'Football today turned out very nervous and strange.' the guest expresses this naturally by combining the word for 'football' with 'today' and 'to turn out'.
+- 'Football today turned out very nervous and strange.' Shaking his head with a grin, the guest remarks that today's football match turned out wild and nerve-wracking.
 - 'Indeed, they play like real slackers!' Barinov vents his deep sports frustration under his breath.

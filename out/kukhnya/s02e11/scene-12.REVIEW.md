@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, just relax.' Max brings a steady manner with Kostya, putting "rasslabsya" ("relax") alongside "kostyan" ("Kostyan") in a tight, everyday turn of phrase.
-- 'At least they made up.' Kostya displays a serious position straight away, building the phrase around "pomirilis" ("reconciled") and "zato" ("but on the other hand") for a crisp, natural delivery.
-- 'Kostik gave that mug to me.' Nastya keeps a sharp rhythm as they talk, joining "podaril" ("donated, gifted") to "mne" ("to me") so every word pulls its weight.
-- 'I will buy you a new one.' Max sustains a natural stance in their talk, linking "novuyu" ("new"), "podaryu" ("I'll give"), and "ya" ("I") in one brisk exchange.
-- 'That smells so delicious.' Kostya establishes a thoughtful bearing in this beat, anchoring the Russian line on "kak" ("how") and "vkusnenko" ("deliciously") without extra filler.
-- 'She did that on purpose.' Nastya takes a firm attitude in front of Max, pairing "spetsialno" ("on purpose") with "ona" ("it") to get the point across in plain spoken Russian.
-- 'You saw it yourself.' Max conveys a thoughtful posture at this moment, using "videla" (from "videt", "saw") alongside "ty" ("you") to shape the meaning.
-- 'Why did you put it right next to the edge?' Kostya quizzes naturally right away, weaving "zachem" ("what for") together with "postavila" ("parked") just the way native speakers do.
-- 'What about me?' Nastya prompts calmly without hesitation, letting the single Russian word "ya" ("I") carry the entire reaction on its own.
-- 'Let us sit down and eat.' Max strikes a direct note beside Nastya, using "davayte" (from "davat", "let's") alongside "syadem" ("to sit down") to shape the meaning.
-- 'I did not even use it.' Kostya shares a warm approach during the exchange, pairing "polzovalas" ("to use") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'I do not want anything of yours at all.' Nastya holds a firm note straight away, doubling the negative with "ne" ("not") and "voobshche" ("at all"), which is standard and required in Russian.
-- 'That is my pot.' Max conveys a firm footing as the scene unfolds, placing "kastryulya" ("pot, saucepan") straight beside "eto" ("this") with no word for "to be" needed.
+- 'Kostyan, just relax.' Max continues boldly beside Kostya, leaving no doubt about where he stands.
+- 'At least they made up.' Kostya colors this clear expression on cue: "pomirilis" means "reconciled" (from "pomiritsya"), giving the line its exact edge.
+- 'Kostik gave that mug to me.' Nastya frames that remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I will buy you a new one.' Max stands firm decisively with Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'That smells so delicious.' Kostya chooses one practical term with Max: "vkusnenko" means "deliciously" (from "vkusno"), giving the line its exact edge.
+- 'She did that on purpose.' Nastya shares that reply beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'You saw it yourself.' Max fires back firmly with a shrug, watching Kostya's face to see how the news lands.
+- 'Why did you put it right next to the edge?' Kostya features one loaded choice toward Nastya: "postavila" means "parked" (from "postavit"), giving the line its exact edge.
+- 'What about me?' Nastya shapes that line before Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Let us sit down and eat.' Max replies bluntly without holding back, watching Nastya's face to see how the news lands.
+- 'I did not even use it.' Kostya favors this vivid piece at once: "polzovalas" means "to use" (from "polzovatsya"), giving the line its exact edge.
+- 'I do not want anything of yours at all.' Nastya delivers this warning around Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'That is my pot.' Max fires back steadily with a smile, so Kostya knows he is not just making small talk.

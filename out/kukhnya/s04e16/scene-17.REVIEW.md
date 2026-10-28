@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Those are my favorite Italian moccasins, do not touch!' Nagiyev sustains a candid footing on the spot, building the phrase around "lyubimyye" ("favourite") and "italyanskiye" ("Italian") for a crisp, natural delivery.
-- 'I paid two hundred thousand rubles for them...' Nagiyev takes a thoughtful rhythm beside Vika, joining "otdal" ("gave") to "tysyach" ("thousand") so every word pulls its weight.
-- 'Forgive me, Dmitry Vladimirovich, I really need Katya!' Denis holds a clear note on the spot, using "prostite" (from "prostit", "excuse me") alongside "ochen" ("very much") to shape the meaning.
-- 'Hey, who is here? Stop joking foolishly, open up!' Nagiyev tests sharply in this moment, leaning on "zdes" ("here") before closing the thought with "khvatit" ("enough").
-- 'I will find all of you and fire you!' Nagiyev favors a candid position beside Denis, linking "naydu" ("find"), "uvolyu" ("will fire"), and "ya" ("I") in one brisk exchange.
-- 'Curse it, there is no cell signal at all in this box!' Nagiyev brings a direct tempo beside Vika, building the phrase around "proklyatye" ("curse") and "yashchike" ("box, glovebox") for a crisp, natural delivery.
-- 'Denis, have you by any chance seen Dmitry Vladimirovich?' Vika probes candidly as the beat lands, pairing "sluchayno" ("by any chance") with "videli" ("saw") to get the point across in plain spoken Russian.
-- 'No, Viktoriya Sergeyevna, I have not seen him.' Denis sets an earnest style right away, leaning on "videl" ("saw, have seen") before closing the thought with "net" ("no").
-- 'And what happened with you before the start?' Denis questions honestly without holding back, anchoring the Russian line on "sluchilos" ("happened") and "nachalom" ("beginning") without extra filler.
-- 'I cannot reach him by phone, and the coffin has disappeared!' Vika presents a serious attitude at once, linking "mogu" ("can"), "dozvonitsya" ("to get through"), and "grob" ("coffin") in one brisk exchange.
-- 'You don't say? How could a coffin disappear?' Denis challenges dryly in the room, weaving "kak" ("how") together with "mog" ("can, to be able") just the way native speakers do.
-- 'Dracula's entrance is soon, and we have a catastrophe!' Vika projects a steady stance beside Nagiyev, linking "skoro" ("soon") directly with "vykhod" ("way out"), since Russian drops "is" and "are" in the present.
+- 'Those are my favorite Italian moccasins, do not touch!' Nagiyev stands firm quietly toward Denis, testing Denis's reaction in the middle of the exchange.
+- 'I paid two hundred thousand rubles for them...' Nagiyev speaks pointedly hearing Vika, shifting the whole mood of the room in a single beat.
+- 'Forgive me, Dmitry Vladimirovich, I really need Katya!' Denis grounds this vivid piece toward Nagiyev: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'Hey, who is here? Stop joking foolishly, open up!' Nagiyev lays out this statement with warmth: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I will find all of you and fire you!' Nagiyev speaks up warmly in their talk, keeping the focus on what actually matters here.
+- 'Curse it, there is no cell signal at all in this box!' Nagiyev anchors one memorable expression for Vika: "proklyatye" means "curse", and it carries the main weight of what Nagiyev is saying.
+- 'Denis, have you by any chance seen Dmitry Vladimirovich?' Vika drops that point for Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'No, Viktoriya Sergeyevna, I have not seen him.' Denis answers wryly on the spot, leaving no doubt about where he stands.
+- 'And what happened with you before the start?' Denis picks this vivid word in earnest: "nachalom" means "beginning" (from "nachalo"), giving the line its exact edge.
+- 'I cannot reach him by phone, and the coffin has disappeared!' Vika aims that reply plainly here: the "-sya" ending on "dozvonitsya" ("to get through") turns the action inward or makes it happen between people naturally.
+- 'You don't say? How could a coffin disappear?' Denis quizzes promptly how Nagiyev expects that to work in practice.
+- 'Dracula's entrance is soon, and we have a catastrophe!' Vika favors this telling touch in reply: "katastrofa" means "catastrophe", and it carries the main weight of what Vika is saying.

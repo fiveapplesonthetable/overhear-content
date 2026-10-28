@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The pasta is very tasty today, Lyova, come eat.' Katya shows a resolute note as they talk, combining "makarony" ("pasta") and "segodnya" ("today") so the key meaning lands right away.
-- 'No, thank you very much, I have no appetite today.' Lyova keeps a wry view in front of Katya, anchoring the Russian line on "spasibo" ("thank you") and "bolshoye" ("big, very much") without extra filler.
-- 'My mom broke her leg yesterday, I am very worried.' Lyova chooses a brisk attitude without hesitation, pairing "mama" ("mum, mother") with "vchera" ("yesterday") to get the point across in plain spoken Russian.
-- 'Katya, and why are you eating nothing yourself today?' Lyova checks openly in the room, building the phrase around "pochemu" ("why") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Thank you, I do not want any, maybe I will eat later.' Katya takes an easygoing stance in the conversation, anchoring the Russian line on "spasibo" ("thank you") and "khochu" ("want") without extra filler.
-- 'How good that you and I went for an X-ray.' Gulya displays a wry note straight away, pairing "kak" ("how") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
-- 'After all, I said right away that there might be a fracture.' Gulya favors a frank posture in front of Katya, linking "srazu" ("at once"), "skazala" ("told"), and "mozhet" ("can") in one brisk exchange.
-- 'If you really want to thank me for this.' Gulya maintains a direct style with Lyova, leaning on "deystvitelno" ("really, indeed") before closing the thought with "khotite" ("want").
-- 'I beg you very much, do not force Lyova to choose.' Gulya sets a sharp stance right away, leaning on "ochen" ("very much") before closing the thought with "proshu" ("beg, ask").
-- 'What a comparison, after all you are no rival to me.' Katya establishes an unhurried line at this moment, combining "tozhe" ("too") and "sravnila" ("compared") so the key meaning lands right away.
-- 'And I am not going to compete with you at all.' Gulya establishes an easygoing footing in this beat, pairing "sobirayus" ("am planning") with "sovsem" ("at all") so the "-sya" ending carries the action.
-- 'I will step aside myself, because I do not want to hurt him!' Gulya favors a grounded view in the conversation, linking "otstuplyu" ("I will step back"), "potomu" ("because"), and "khochu" ("want") in one brisk exchange.
+- 'The pasta is very tasty today, Lyova, come eat.' Katya steps in dryly toward Gulya, testing Gulya's reaction in the middle of the exchange.
+- 'No, thank you very much, I have no appetite today.' Lyova underscores one classic expression with Katya: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'My mom broke her leg yesterday, I am very worried.' Lyova responds honestly to be clear, saying out loud what both of them already know.
+- 'Katya, and why are you eating nothing yourself today?' Lyova tests bluntly as Katya tries to explain the situation.
+- 'Thank you, I do not want any, maybe I will eat later.' Katya focuses on one classic detail for Gulya: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
+- 'How good that you and I went for an X-ray.' Gulya drops this statement to Lyova: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'After all, I said right away that there might be a fracture.' Gulya speaks up warmly on the spot, refusing to let the moment slip past.
+- 'If you really want to thank me for this.' Gulya highlights one telling choice at once: "deystvitelno" means "really, indeed", and it carries the main weight of what Gulya is saying.
+- 'I beg you very much, do not force Lyova to choose.' Gulya colors one direct detail in earnest: "zastavlyayte" means "to force, to make" (from "zastavlyat"), giving the line its exact edge.
+- 'What a comparison, after all you are no rival to me.' Katya cuts in briskly with a shrug, leaving no doubt about where she stands.
+- 'And I am not going to compete with you at all.' Gulya anchors this clear touch in earnest: "sopernichat" means "to compete", and it carries the main weight of what Gulya is saying.
+- 'I will step aside myself, because I do not want to hurt him!' Gulya speaks up quietly facing Lyova, grounding the moment in plain reality.

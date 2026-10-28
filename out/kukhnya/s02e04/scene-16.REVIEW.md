@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is Viktor Petrovich?' Vika quizzes openly as they speak, placing "gde" ("where") straight beside "viktor" ("Viktor") with no word for "to be" needed.
-- 'All right, is my meat roll ready?' Vika asks naturally without holding back, weaving "khorosho" ("good, fine") together with "rulet" ("roll, roulade") just the way native speakers do.
-- 'I do not know.' Barinov shares an unhurried course in the room, weaving "znayu" ("know") together with "ne" ("not") just the way native speakers do.
-- 'Different words.' Vika maintains an easygoing manner in this beat, building the phrase around "drugiye" ("other") and "slova" ("words") for a crisp, natural delivery.
-- 'Do you like words like that?' Barinov challenges frankly across the room, weaving "nravyatsya" ("are pleasing") together with "slova" ("words") just the way native speakers do.
-- 'So Vitya has already told you his version of the truth.' Vika offers a firm tempo at once, leaning on "znachit" ("then, so") before closing the thought with "pravdu" ("truth").
-- 'Listen, would you like to hear my version?' Barinov probes bluntly in front of Vika, putting "slushayte" ("listen") alongside "khotite" ("want") in a tight, everyday turn of phrase.
-- 'I am going to tell you anyway.' Vika presents a candid manner for Barinov, pairing "rasskazhu" ("will tell") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'I was in love with the kitchen.' Barinov strikes a measured tone at this moment, using "byl" (from "byt", "was") alongside "vlyublen" ("in love") to shape the meaning.
-- 'And Viktor Petrovich.' Vika adopts a lively angle during the exchange, pairing "viktor" ("Viktor") with "petrovich" ("Petrovich") to get the point across in plain spoken Russian.
-- 'He was not just my teacher.' Barinov presents a direct direction during the exchange, leaning on "byl" ("was") before closing the thought with "uchitelem" ("teacher").
-- 'He was a god to me.' Vika maintains a measured style in the scene, anchoring the Russian line on "byl" ("was") and "bogom" ("God") without extra filler.
-- 'And sit in the casino until morning.' Barinov strikes a firm angle for Vika, weaving "kazino" ("casino") together with "utra" ("morning") just the way native speakers do.
+- 'And where is Viktor Petrovich?' Vika offers the comment calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'All right, is my meat roll ready?' Vika delivers this answer briskly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'I do not know.' Barinov opens up earnestly to be clear, making his position completely clear.
+- 'Different words.' Vika picks one colorful detail for Barinov: "drugiye" means "other" (from "drugoy"), giving the line its exact edge.
+- 'Do you like words like that?' Barinov aims that answer facing Vika: the "-sya" ending on "nravyatsya" ("are pleasing") turns the action inward or makes it happen between people naturally.
+- 'So Vitya has already told you his version of the truth.' Vika weighs in pointedly across the room, refusing to let the moment slip past.
+- 'Listen, would you like to hear my version?' Barinov highlights one concrete choice on cue: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
+- 'I am going to tell you anyway.' Vika shares that reply before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I was in love with the kitchen.' Barinov replies pointedly in this moment, grounding the moment in plain reality.
+- 'And Viktor Petrovich.' Vika sends this point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'He was not just my teacher.' Barinov follows up honestly with a nod, leaving no doubt about where he stands.
+- 'He was a god to me.' Vika chimes in promptly as things stand, before Barinov can change the subject.
+- 'And sit in the casino until morning.' Barinov emphasizes this vivid element in earnest: "kazino" means "casino", and it carries the main weight of what Barinov is saying.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, why are you sending me home?' Barinov probes earnestly to make the point, linking "pochemu" ("why"), "domoy" ("home"), and "otpravlyayesh" ("you are sending") in one brisk exchange.
-- 'Before, you did not give me a vacation for a long time.' Barinov picks a measured tone in front of Vika, pairing "ranshe" ("earlier, previously") with "dolgo" ("for a long time") to get the point across in plain spoken Russian.
-- 'I am simply becoming a very kind person now.' Nagiyev brings a brisk style in front of Barinov, leaning on "prosto" ("just") before closing the thought with "teper" ("now").
-- 'Vika, maybe we really should do a renovation?' Nagiyev quizzes briskly to Vika here, pairing "mozhet" ("can") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'Let us redo everything in the restaurant from scratch!' Nagiyev picks a lively bearing as the scene unfolds, combining "sdelayem" ("we'll do") and "restorane" ("restaurant") so the key meaning lands right away.
-- 'Only if this renovation is at your expense.' Vika picks a firm footing at once, putting "tolko" ("only") alongside "remont" ("renovation") in a tight, everyday turn of phrase.
-- 'Alright, I will go stop by the kitchen right now.' Barinov projects an honest posture as they talk, anchoring the Russian line on "seychas" ("now") and "poydu" ("go") without extra filler.
-- 'What do you have to do in that kitchen right now?' Nagiyev challenges plainly as the talk turns, joining "seychas" ("now") to "delat" ("do") so every word pulls its weight.
-- 'I gave you days off after all.' Nagiyev displays a thoughtful view toward Barinov, leaning on "dal" ("to give") before closing the thought with "svobodnyye" ("free").
-- 'Yes, I will leave, I will just pick up my things.' Barinov adopts a lively attitude in their talk, pairing "uydu" ("will leave") with "tolko" ("only") to get the point across in plain spoken Russian.
-- 'Wait, who is that standing in the kitchen over there?' Barinov presses evenly beside Nagiyev, linking "podozhdi" ("wait"), "tam" ("there"), and "stoit" ("is parked") in one brisk exchange.
-- 'The cooks are preparing two beef dishes for the guests.' Vika takes a measured posture across the room, linking "povara" ("cook"), "gotovyat" ("are preparing"), and "gostey" ("guests") in one brisk exchange.
-- 'Everyone in the kitchen is saying to him: yes, Chef!' Vika presents a brisk rhythm beside Barinov, putting "kukhne" ("kitchen") alongside "govoryat" ("talks, says") in a tight, everyday turn of phrase.
+- 'Dima, why are you sending me home?' Barinov uses one pointed expression in reply: "otpravlyayesh" means "you are sending" (from "otpravlyat"), giving the line its exact edge.
+- 'Before, you did not give me a vacation for a long time.' Barinov centers one clear detail toward Vika: "otpusk" means "vacation", and it carries the main weight of what Barinov is saying.
+- 'I am simply becoming a very kind person now.' Nagiyev continues pointedly without a pause, so Barinov knows he is not just making small talk.
+- 'Vika, maybe we really should do a renovation?' Nagiyev emphasizes this sharp word for Vika: "deystvitelno" means "really, indeed", and it carries the main weight of what Nagiyev is saying.
+- 'Let us redo everything in the restaurant from scratch!' Nagiyev holds firm decisively facing Barinov, letting the remark speak for itself.
+- 'Only if this renovation is at your expense.' Vika holds firm decisively to settle things, steering the talk right where she wants it.
+- 'Alright, I will go stop by the kitchen right now.' Barinov sharpens one telling expression toward Nagiyev: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'What do you have to do in that kitchen right now?' Nagiyev frames the thought facing Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I gave you days off after all.' Nagiyev pushes back openly to settle things, steering the talk right where he wants it.
+- 'Yes, I will leave, I will just pick up my things.' Barinov spotlights one pointed element for Vika: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
+- 'Wait, who is that standing in the kitchen over there?' Barinov lays out this statement with ease: putting the question word "kto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'The cooks are preparing two beef dishes for the guests.' Vika speaks calmly in this moment, saying out loud what both of them already know.
+- 'Everyone in the kitchen is saying to him: yes, Chef!' Vika centers this sharp piece on cue: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.

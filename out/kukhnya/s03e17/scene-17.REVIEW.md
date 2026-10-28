@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, we are all very proud of you today.' Nagiyev sets a calm tone as the scene unfolds, pairing "gordimsya" ("we are proud of") with "segodnya" ("today") so the "-sya" ending carries the action.
-- 'I am not the hero, Ainura cooked the pilaf.' Max shows an earnest manner at once, building the phrase around "molodets" ("well done, good boy") and "plov" ("pilaf") for a crisp, natural delivery.
-- 'Sergey Fyodorovich, what are you doing in here?' Nagiyev queries quietly as the beat lands, building the phrase around "tut" ("here") and "delayete" ("are doing") for a crisp, natural delivery.
-- 'Dima, what else is left for me now?' The guest questions wryly to Nagiyev here, combining "teper" ("now") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'I lost all my money, I am completely bankrupt.' The guest sustains a steady position on the spot, joining "poteryal" ("lost") to "dengi" ("money") so every word pulls its weight.
-- 'Wait, who are you? Are you bankrupt too?' Nagiyev challenges lightly to make the point, using "podozhdi" (from "podozhdat", "wait") alongside "tozhe" ("too") to shape the meaning.
-- 'You see, without money nobody needs me anymore.' The guest keeps a sharp tempo for Max, weaving "vidish" ("see") together with "deneg" ("money") just the way native speakers do.
-- 'Yes, now I see that very well.' Nagiyev shows an easygoing course in their talk, anchoring the Russian line on "teper" ("now") and "ochen" ("very much") without extra filler.
-- 'Listen, why did you not go home?' Nagiyev prompts naturally without holding back, pairing "poslushay" ("listen") with "pochemu" ("why") to get the point across in plain spoken Russian.
-- 'At home the walls are so warm and cozy.' Nagiyev takes a thoughtful line without hesitation, joining "doma" ("at home") to "tyoplyye" ("warm") so every word pulls its weight.
-- 'Your wife and children walk around you there.' Nagiyev sets a frank posture on the spot, linking "tam" ("there"), "zhena" ("wife"), and "deti" ("kids") in one brisk exchange.
-- 'Everyone at home rejoices and laughs merrily there.' Nagiyev adopts a brisk footing as the scene unfolds, pairing "raduyutsya" ("to rejoice") with "tam" ("there") so the "-sya" ending carries the action.
+- 'Max, we are all very proud of you today.' Nagiyev frames that thought calmly now: the "-sya" ending on "gordimsya" ("we are proud of") turns the action inward or makes it happen between people naturally.
+- 'I am not the hero, Ainura cooked the pilaf.' Max steps in sharply with a shrug, letting the remark speak for itself.
+- 'Sergey Fyodorovich, what are you doing in here?' Nagiyev features one telling element toward the guest: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
+- 'Dima, what else is left for me now?' The guest delivers this answer in earnest: the "-sya" ending on "ostayotsya" ("stays") turns the action inward or makes it happen between people naturally.
+- 'I lost all my money, I am completely bankrupt.' The guest stands firm wryly without a pause, so Max knows he is not just making small talk.
+- 'Wait, who are you? Are you bankrupt too?' Nagiyev leans on one practical expression for Max: "bankrot" means "bankrupt", and it carries the main weight of what Nagiyev is saying.
+- 'You see, without money nobody needs me anymore.' The guest counters plainly to settle things, testing Max's reaction in the middle of the exchange.
+- 'Yes, now I see that very well.' Nagiyev steps in boldly without holding back, steering the talk right where he wants it.
+- 'Listen, why did you not go home?' Nagiyev frames this direct word for the guest: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
+- 'At home the walls are so warm and cozy.' Nagiyev aims that remark facing Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Your wife and children walk around you there.' Nagiyev answers promptly with a shrug, refusing to let the moment slip past.
+- 'Everyone at home rejoices and laughs merrily there.' Nagiyev spotlights one colorful piece in earnest: "raduyutsya" means "to rejoice" (from "radovatsya"), giving the line its exact edge.

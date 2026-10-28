@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here is our dear guest.' Barinov picks an earnest mood in the room, combining "dorogoy" ("dear") and "gost" ("guest") so the key meaning lands right away.
-- 'We brought you hot coffee.' Barinov shows a clear tack right away, pairing "goryachiy" ("hot") with "kofe" ("of coffee") to get the point across in plain spoken Russian.
-- 'Here you go, here is your finest coffee.' Mikhail adopts a warm direction toward Barinov, placing "luchshiy" ("best") straight beside "kofe" ("of coffee") with no word for "to be" needed.
-- 'I do not understand, what is going on here?' The guest challenges calmly without a pause, weaving "ponyal" ("understood") together with "zdes" ("here") just the way native speakers do.
-- 'What are you doing, what is with you?' The guest questions plainly without a pause, putting "tvorite" ("are doing, perpetrating") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'Have you completely lost your minds?' The guest checks boldly in the scene, anchoring the Russian line on "sovsem" ("at all") and "uma" ("mind") without extra filler.
-- 'Drink up your delicious coffee!' Barinov shows an emphatic angle in front of the guest, anchoring the Russian line on "pey" ("drink") and "davay" ("let's") without extra filler.
-- 'What are you allowing yourselves here?' The guest wonders briskly across the room, anchoring the Russian line on "zdes" ("here") and "pozvolyayete" ("allow, permit") without extra filler.
-- 'Vitya, let him breathe a little.' Mikhail chooses a firm manner straight away, leaning on "day" ("give") before closing the thought with "nemnogo" ("a bit").
-- 'Wait, let him breathe calmly.' Mikhail takes an unhurried stance in the conversation, weaving "podozhdi" ("wait") together with "day" ("give") just the way native speakers do.
-- 'And where did all the coffee go?' Barinov probes calmly at this point, joining "kuda" ("where to") to "propal" ("is missing") so every word pulls its weight.
-- 'Hold that clever inspector!' Barinov adopts a steady note beside Mikhail, combining "derzhi" ("here you go") and "khitrogo" ("cunning, sly") so the key meaning lands right away.
+- 'And here is our dear guest.' Barinov frames that answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We brought you hot coffee.' Barinov steps in pointedly with a smile, making his position completely clear.
+- 'Here you go, here is your finest coffee.' Mikhail highlights one familiar touch on cue: "luchshiy" means "best", and it carries the main weight of what Mikhail is saying.
+- 'I do not understand, what is going on here?' The guest frames that line in earnest: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'What are you doing, what is with you?' The guest wonders openly as Barinov tries to explain the situation.
+- 'Have you completely lost your minds?' The guest colors one classic choice on cue: "sovsem" means "at all", and it carries the main weight of what the guest is saying.
+- 'Drink up your delicious coffee!' Barinov voices that line right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'What are you allowing yourselves here?' The guest presses deadpan why things suddenly took this turn between them.
+- 'Vitya, let him breathe a little.' Mikhail chooses one loaded detail on cue: "nemnogo" means "a bit", and it carries the main weight of what Mikhail is saying.
+- 'Wait, let him breathe calmly.' Mikhail speaks evenly with a smile, steering the talk right where he wants it.
+- 'And where did all the coffee go?' Barinov presses earnestly where this conversation is heading next.
+- 'Hold that clever inspector!' Barinov features one clear element in earnest: "khitrogo" means "cunning, sly" (from "khitryy"), giving the line its exact edge.

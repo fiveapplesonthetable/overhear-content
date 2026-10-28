@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What am I doing here?' Barinov presses plainly with Lyova now, leaning on "zdes" ("here") before closing the thought with "delayu" ("I make").
-- 'Maxim knows, this is his room.' Lyova sustains a candid direction across the room, building the phrase around "znayet" ("knows") and "komnata" ("room") for a crisp, natural delivery.
-- 'Hello, Chef, how are things?' Max challenges sharply across the room, linking "zdravstvuyte" ("hello"), "kak" ("how"), and "dela" ("things, affairs") in one brisk exchange.
-- 'How did I end up here?' Barinov quizzes evenly without a pause, putting "kak" ("how") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'There is nothing left to drink together!' Barinov keeps an easygoing mood for Lyova, combining "vmeste" ("together") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'Alright, that is it, I am leaving now.' Lyova adopts a brisk approach at once, combining "uzhe" ("already, now") and "poshyol" ("went, set off") so the key meaning lands right away.
-- 'Where is everyone? You will come with me.' Barinov probes lightly on the spot, joining "gde" ("where") to "poydyosh" ("will you go") so every word pulls its weight.
-- 'We will find something to drink now.' Barinov takes an honest line during the exchange, pairing "seychas" ("now") with "naydyom" ("we'll find") so the "-sya" ending carries the action.
-- 'We have nothing at home.' Max picks a lively footing beside Barinov, leaning on "u nas" ("by us, at our place") and "doma" ("at home") the way natural Russian does.
-- 'Get ready, let us go cure this hangover together.' Barinov shares a wry manner at once, putting "sobiraysya" ("gather yourself") alongside "poydyom" ("let's go") in a tight, everyday turn of phrase.
-- 'Chef, I am going to be late for work.' Max projects a lively approach for Barinov, joining "rabotu" ("job") to "opozdayu" ("will be late") so every word pulls its weight.
-- 'Just warn me, and I will allow you to be late.' Barinov offers a resolute course toward Max, joining "predupredi" ("warn, let know") to "razreshu" ("I will allow") so every word pulls its weight.
+- 'What am I doing here?' Barinov leans on one key term in reply: "delayu" means "I make" (from "delat"), giving the line its exact edge.
+- 'Maxim knows, this is his room.' Lyova stands firm wryly beside Max, letting the remark speak for itself.
+- 'Hello, Chef, how are things?' Max wonders straight out how Barinov expects that to work in practice.
+- 'How did I end up here?' Barinov centers this clear term in earnest: "okazalsya" means "turned up" (from "okazatsya"), giving the line its exact edge.
+- 'There is nothing left to drink together!' Barinov counters evenly as things stand, so Lyova knows he is not just making small talk.
+- 'Alright, that is it, I am leaving now.' Lyova reacts boldly in their talk, keeping the focus on what actually matters here.
+- 'Where is everyone? You will come with me.' Barinov reaches for this direct detail in reply: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
+- 'We will find something to drink now.' Barinov voices this answer on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We have nothing at home.' Max holds firm promptly beside Barinov, to clear the air between them once and for all.
+- 'Get ready, let us go cure this hangover together.' Barinov colors this vivid choice right here: "opokhmelitsya" means "to cure a hangover", and it carries the main weight of what Barinov is saying.
+- 'Chef, I am going to be late for work.' Max jumps in lightly around Barinov, refusing to let the moment slip past.
+- 'Just warn me, and I will allow you to be late.' Barinov weighs in decisively as things stand, saying out loud what both of them already know.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arkady, what do you think, does this look like a surprise?' Barinov checks pointedly for Fedya's benefit, joining "kak" ("how") to "dumayesh" ("think") so every word pulls its weight.
-- 'Understood. We will think some more.' Barinov maintains a grounded style toward Senya, leaning on "ponyal" ("understood") before closing the thought with "budem" ("will").
-- 'Chef! I wanted to bring you some tea.' Senya shares a playful course on the spot, pairing "chayu" ("some tea") with "khotel" ("wanted") to get the point across in plain spoken Russian.
-- 'Where is the tea? Get out!' Barinov challenges directly without a pause, linking "gde" ("where"), "chay" ("tea"), and "poshyol" ("went, set off") in one brisk exchange.
-- 'Understood.' Senya establishes a resolute tone beside Barinov, using "ponyal" ("understood") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'I swear, the chef will propose to Elena today!' Senya sustains a calm mood on the spot, weaving "otvechayu" ("to answer, to reply") together with "segodnya" ("today") just the way native speakers do.
-- 'I saw a ring box.' Senya strikes a serious tack in their talk, linking "videl" ("saw, have seen"), "korobochku" ("little box"), and "koltsa" ("ring") in one brisk exchange.
-- 'Anything could be in the little box!' Fedya offers a resolute line beside Senya, weaving "malo" ("little, not enough") together with "korobochke" ("little box") just the way native speakers do.
-- 'A necklace, earrings, a chain.' Fedya brings a playful position as they talk, joining "kolye" ("necklace") to "sergi" ("earrings") so every word pulls its weight.
-- 'Or a ring! I am serious.' Senya presents a serious mood on the spot, joining "koltso" ("ring") to "seryozno" ("seriously") so every word pulls its weight.
-- 'Want to bet that there is a ring in there?' Senya quizzes naturally without a pause, anchoring the Russian line on "sporim" ("wanna bet") and "tam" ("there") without extra filler.
-- 'Deal, to each of us!' Fedya projects a measured approach on the spot, leaning on "davay" ("let's") before closing the thought with "kazhdomu" ("each").
+- 'Arkady, what do you think, does this look like a surprise?' Barinov makes that answer plainly here: putting the question word "kak" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'Understood. We will think some more.' Barinov chimes in bluntly to settle things, keeping the focus on what actually matters here.
+- 'Chef! I wanted to bring you some tea.' Senya picks one practical word on cue: "prinesti" means "to bring, offer", and it carries the main weight of what Senya is saying.
+- 'Where is the tea? Get out!' Barinov frames the remark with ease: putting the question word "gde" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Understood.' Senya cuts in pointedly beside Barinov, watching Barinov's face to see how the news lands.
+- 'I swear, the chef will propose to Elena today!' Senya uses this direct element right here: "predlozheniye" means "offer, proposal", and it carries the main weight of what Senya is saying.
+- 'I saw a ring box.' Senya replies at once without any doubt, grounding the moment in plain reality.
+- 'Anything could be in the little box!' Fedya weighs in bluntly hearing Senya, steering the talk right where he wants it.
+- 'A necklace, earrings, a chain.' Fedya anchors one sharp detail in reply: "tsepochka" means "chain", and it carries the main weight of what Fedya is saying.
+- 'Or a ring! I am serious.' Senya shapes the reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Want to bet that there is a ring in there?' Senya questions firmly before Barinov can change the subject.
+- 'Deal, to each of us!' Fedya sharpens this direct touch right here: "kazhdomu" means "each" (from "kazhdyy"), giving the line its exact edge.

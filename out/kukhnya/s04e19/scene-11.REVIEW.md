@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My name is Dmitry Nagiyev, hello!' Nagiyev takes a candid bearing toward Lyova, joining "zovut" ("call") to "zdravstvuyte" ("hello") so every word pulls its weight.
-- 'And we are starting the very best show.' Nagiyev favors a direct manner for Lyova, weaving "nachinayem" ("are starting") together with "samoye" ("the most") just the way native speakers do.
-- 'Our culinary show is called 'Head Chef'!' Nagiyev takes a thoughtful line at once, building the phrase around "kulinarnoye" ("culinary, cooking") and "shou" ("show") for a crisp, natural delivery.
-- 'If only everything depended on me!' Nagiyev establishes a calm line in front of Lyova, putting "zaviselo" ("to depend on") alongside "yesli" ("if") in a tight, everyday turn of phrase.
-- 'You would have already won our show.' Nagiyev holds an earnest style in the scene, anchoring the Russian line on "uzhe" ("already, now") and "vyigrali" ("won") without extra filler.
-- 'First I want to thank my mom.' Lyova favors a thoughtful style in the room, anchoring the Russian line on "snachala" ("first, at first") and "khochu" ("want") without extra filler.
-- 'And then I want to thank my wife.' Lyova offers a brisk note in the conversation, pairing "potom" ("then") with "khochu" ("want") to get the point across in plain spoken Russian.
-- 'Dmitry Vladimirovich, I had a dream.' Lyova offers a pointed manner in the scene, linking "byla" ("was"), "mechta" ("dream"), and "dmitriy" ("Dmitry") in one brisk exchange.
-- 'In childhood I dreamed of becoming a cook.' Lyova shows an emphatic tempo across the room, linking "detstve" ("childhood"), "mechtal" ("dreamed"), and "stat" ("to become") in one brisk exchange.
-- 'And now my dream has finally come true!' Lyova adopts a candid tempo in the room, pairing "nakonets" ("at last, finally") with "mechta" ("dream") so the "-sya" ending carries the action.
-- 'Such passions are boiling here at our show!' Nagiyev displays a serious line straight away, combining "strasti" ("passions, vices") and "kipyat" ("to show") so the key meaning lands right away.
-- 'And this, friends, is only the very beginning!' Nagiyev chooses a wry direction beside Lyova, leaning on "druzya" ("friends") before closing the thought with "tolko" ("only").
+- 'My name is Dmitry Nagiyev, hello!' Nagiyev voices that answer calmly now: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'And we are starting the very best show.' Nagiyev speaks up plainly with a sigh, letting the remark speak for itself.
+- 'Our culinary show is called 'Head Chef'!' Nagiyev picks one practical term for Lyova: "kulinarnoye" means "culinary, cooking" (from "kulinarnyy"), giving the line its exact edge.
+- 'If only everything depended on me!' Nagiyev cuts in decisively without holding back, so Lyova knows he is not just making small talk.
+- 'You would have already won our show.' Nagiyev proceeds decisively toward Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'First I want to thank my mom.' Lyova leans on one vivid choice toward Nagiyev: "poblagodarit" means "to thank", and it carries the main weight of what Lyova is saying.
+- 'And then I want to thank my wife.' Lyova weighs in pointedly hearing Nagiyev, letting the remark speak for itself.
+- 'Dmitry Vladimirovich, I had a dream.' Lyova weighs in calmly without a pause, keeping the focus on what actually matters here.
+- 'In childhood I dreamed of becoming a cook.' Lyova focuses on one concrete word in earnest: "detstve" means "childhood" (from "detstvo"), giving the line its exact edge.
+- 'And now my dream has finally come true!' Lyova reacts pointedly toward Nagiyev, to clear the air between them once and for all.
+- 'Such passions are boiling here at our show!' Nagiyev pushes back dryly with Lyova, so Lyova knows he is not just making small talk.
+- 'And this, friends, is only the very beginning!' Nagiyev anchors one pointed detail right here: "nachalo" means "the beginning", and it carries the main weight of what Nagiyev is saying.

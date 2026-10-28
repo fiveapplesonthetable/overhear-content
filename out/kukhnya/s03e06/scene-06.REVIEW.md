@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, get up quickly and get dressed.' Vika projects a pointed attitude in their talk, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
-- 'Do you have a meeting with the boss in the morning?' Max probes wryly right away, linking "utrom" ("this morning"), "vstrecha" ("a meeting"), and "nachalstvom" ("management") in one brisk exchange.
-- 'Please, just disappear from here quickly.' Vika takes an earnest angle across the room, weaving "prosto" ("just") together with "bystro" ("quickly") just the way native speakers do.
-- 'I do not want him to see you here in this state.' Vika shows a calm footing in front of Nagiyev, linking "khochu" ("want"), "videl" ("saw, have seen"), and "zdes" ("here") in one brisk exchange.
-- 'Good morning to you.' Max displays a natural angle in the room, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
-- 'Quiet, that is Dima calling right now.' Vika brings a lively manner as they talk, putting "tikho" ("easy, quiet") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Hello, dear Dmitry Vladimirovich.' Vika sets a frank stance in the scene, leaning on "zdravstvuyte" ("hello") before closing the thought with "uvazhayemyy" ("respected, esteemed").
-- 'Well then, dear Victoria Sergeyevna.' Nagiyev picks a grounded bearing in the room, combining "dorogaya" ("expensive") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'You and I had an agreement, right?' Nagiyev tests openly in front of Max, using "dogovarivalis" (from "dogovarivatsya", "had an agreement") alongside "my" ("we") to shape the meaning.
-- 'Hello, Dima.' Vika strikes a serious stance at this moment, pairing "zdravstvuy" ("hello") with "dima" ("Dima") to get the point across in plain spoken Russian.
-- 'I decided to pick up my colleague and give her a ride to work.' Nagiyev presents a natural course in the conversation, putting "reshil" ("has decided") alongside "zayekhat" ("drop by, stop in") in a tight, everyday turn of phrase.
-- 'Someone is ringing the doorbell there.' Max chooses a serious course toward Vika, anchoring the Russian line on "tam" ("there") and "dver" ("door") without extra filler.
+- 'Come on, get up quickly and get dressed.' Vika jumps in quietly with a shrug, before Max can change the subject.
+- 'Do you have a meeting with the boss in the morning?' Max stresses this sharp choice in earnest: "nachalstvom" means "management" (from "nachalstvo"), giving the line its exact edge.
+- 'Please, just disappear from here quickly.' Vika shares this point with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I do not want him to see you here in this state.' Vika steps in frankly with a sigh, refusing to let the moment slip past.
+- 'Good morning to you.' Max features one vivid detail at once: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Quiet, that is Dima calling right now.' Vika delivers that thought facing Nagiyev: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Hello, dear Dmitry Vladimirovich.' Vika answers sharply facing Max, to clear the air between them once and for all.
+- 'Well then, dear Victoria Sergeyevna.' Nagiyev anchors one key expression in reply: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'You and I had an agreement, right?' Nagiyev lays out the reply around Max: the "-sya" ending on "dogovarivalis" ("had an agreement") turns the action inward or makes it happen between people naturally.
+- 'Hello, Dima.' Vika replies dryly watching Nagiyev, shifting the whole mood of the room in a single beat.
+- 'I decided to pick up my colleague and give her a ride to work.' Nagiyev centers this sharp word in reply: "kollegoy" means "colleague" (from "kollega"), giving the line its exact edge.
+- 'Someone is ringing the doorbell there.' Max responds plainly with a sigh, shifting the whole mood of the room in a single beat.

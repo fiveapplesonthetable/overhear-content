@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you happen to know?' Lyova prompts decisively in their exchange, anchoring the Russian line on "znayesh" ("know") and "ty" ("you") without extra filler.
-- 'Where is Dmitry Vladimirovich?' Lyova queries naturally during the talk, pairing "gde" ("where") with "etot" ("this") to get the point across in plain spoken Russian.
-- 'He was here recently, but he went off somewhere.' Lyova shares a frank stance at once, anchoring the Russian line on "byl" ("was") and "zdes" ("here") without extra filler.
-- 'We need to take him...' Nagiyev strikes a pointed direction at this moment, putting "nado" ("it is necessary") alongside "yego" ("him") in a tight, everyday turn of phrase.
-- 'We need to take him to the restaurant.' Lyova projects an honest position beside Nagiyev, joining "nado" ("it is necessary") to "restoran" ("restaurant") so every word pulls its weight.
-- 'And we will sort it out there.' Nagiyev establishes a wry bearing at once, anchoring the Russian line on "tam" ("there") and "razberemsya" ("we'll sort it out") without extra filler.
-- 'I am a celebrity, after all.' Lyova adopts a lively course as they talk, leaning on "zvezda" ("a star") before closing the thought with "ya" ("I").
-- 'Or maybe?' Nagiyev tests directly across the room, putting all the weight on "mozhet" ("can") so the reply lands immediately.
-- 'Let me make the call myself.' Lyova strikes a measured direction beside Nagiyev, combining "davay" ("let's") and "pozvonyu" ("will call") so the key meaning lands right away.
-- 'Come on, let us go.' Nagiyev maintains a direct style during the exchange, anchoring the Russian line on "davay" ("let's") and "poyekhali" ("here we go") without extra filler.
-- 'Hey, hey.' Lyova strikes a sharp line at this moment, leaning on "ey" ("hey") as a compact, one-word response that needs no extra words.
-- 'Let us go. Hey.' Nagiyev sets a resolute footing in their talk, anchoring the Russian line on "poyekhali" ("here we go") and "ey" ("hey") without extra filler.
-- 'Hey, hold it right there!' Lyova shares a firm stance in the conversation, building the phrase around "postoyat" ("wait") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Do you happen to know?' Lyova shares this line without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Where is Dmitry Vladimirovich?' Lyova asks sharply in front of Nagiyev without any preamble.
+- 'He was here recently, but he went off somewhere.' Lyova frames this vivid piece in reply: "nedavno" means "returned", and it carries the main weight of what Lyova is saying.
+- 'We need to take him...' Nagiyev directs that remark briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'We need to take him to the restaurant.' Lyova jumps in briskly beside Nagiyev, letting the remark speak for itself.
+- 'And we will sort it out there.' Nagiyev anchors one direct piece right here: "razberemsya" means "we'll sort it out" (from "razobratsya"), giving the line its exact edge.
+- 'I am a celebrity, after all.' Lyova puts the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Or maybe?' Nagiyev tests sharply whether Lyova really thought this through.
+- 'Let me make the call myself.' Lyova stresses this key expression at once: "pozvonyu" means "will call" (from "pozvonit"), giving the line its exact edge.
+- 'Come on, let us go.' Nagiyev drops this answer around Lyova: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Hey, hey.' Lyova replies plainly facing Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Let us go. Hey.' Nagiyev colors one telling choice toward Lyova: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
+- 'Hey, hold it right there!' Lyova delivers the reaction before Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

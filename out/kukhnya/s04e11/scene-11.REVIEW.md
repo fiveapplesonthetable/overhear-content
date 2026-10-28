@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this terrible smell in here?' German wonders decisively in their exchange, linking "tut" ("here"), "uzhasnyy" ("horrible"), and "zapakh" ("the smell") in one brisk exchange.
-- 'We need to air out the room urgently.' German offers a natural attitude at this moment, combining "nado" ("it is necessary") and "srochno" ("urgent, urgently") so the key meaning lands right away.
-- 'What smells so strange in here?' German tests lightly as the talk turns, putting "stranno" ("strange") alongside "pakhnet" ("it smells") in a tight, everyday turn of phrase.
-- 'Senya, are you deflecting suspicion from yourself?' German quizzes decisively at this point, weaving "podozreniya" ("suspicion") together with "otvodish" ("to yourself") just the way native speakers do.
-- 'Oh, it seems the elevator has stopped.' Max maintains a thoughtful style beside German, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "lift" ("elevator") to shape the meaning.
-- 'Vika, do not panic, we are stuck.' Max offers a sharp stance right away, using "panikuy" (from "panikovat", "panic") alongside "zastryali" ("stuck") to shape the meaning.
-- 'Well, do something at least!' Vika keeps a calm angle without hesitation, building the phrase around "sdelay" ("make, do") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'And what can I do in here?' Max presses frankly to keep things clear, putting "tut" ("here") alongside "mogu" ("can") in a tight, everyday turn of phrase.
-- 'I do not know, you are the man here.' Vika sets a wry style as the scene unfolds, combining "znayu" ("know") and "muzhchina" ("man") so the key meaning lands right away.
-- 'Fine, I will think of something right now.' Max sustains a candid tone in the room, linking "seychas" ("now"), "pridumayu" ("will come up with"), and "ladno" ("all right") in one brisk exchange.
-- 'Hey, is anyone out there?' Max challenges candidly to keep things clear, leaning on "yest" ("there is") before closing the thought with "tam" ("there").
-- 'Help us, please!' Max adopts a measured position at once, anchoring the Russian line on "pomogite" ("help") and "nam" ("us") without extra filler.
+- 'What is this terrible smell in here?' German puts that thought around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We need to air out the room urgently.' German weighs in promptly without holding back, to clear the air between them once and for all.
+- 'What smells so strange in here?' German picks one familiar element for Max: "stranno" means "strange", and it carries the main weight of what German is saying.
+- 'Senya, are you deflecting suspicion from yourself?' German voices the comeback beside Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Oh, it seems the elevator has stopped.' Max chimes in openly with a nod, testing German's reaction in the middle of the exchange.
+- 'Vika, do not panic, we are stuck.' Max focuses on one familiar term toward Vika: "zastryali" means "stuck", and it carries the main weight of what Max is saying.
+- 'Well, do something at least!' Vika counters candidly to be clear, without trying to dress up how she really feels.
+- 'And what can I do in here?' Max tests firmly what Vika is actually getting at here.
+- 'I do not know, you are the man here.' Vika colors one memorable expression toward German: "muzhchina" means "man", and it carries the main weight of what Vika is saying.
+- 'Fine, I will think of something right now.' Max hands over that thought with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
+- 'Hey, is anyone out there?' Max challenges straight out in front of German without any preamble.
+- 'Help us, please!' Max frames this clear term in earnest: "pomogite" means "help" (from "pomoch"), giving the line its exact edge.

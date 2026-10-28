@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How you scared us all!' Nagiyev projects a lively tone straight away, pairing "kak" ("how") with "napugal" ("scared, did you scare") to get the point across in plain spoken Russian.
-- 'How is he, doctor?' Nagiyev probes lightly right away, weaving "kak" ("how") together with "doktor" ("Doctor") just the way native speakers do.
-- 'Possibly a fracture, but an X-ray is needed to make sure.' The doctor sets a sharp position at this moment, anchoring the Russian line on "vozmozhno" ("perhaps, possible") and "perelom" ("fracture") without extra filler.
-- 'Tomorrow first thing in the morning go for an X-ray.' Nagiyev strikes a firm footing on the spot, putting "zavtra" ("tomorrow") alongside "utra" ("morning") in a tight, everyday turn of phrase.
-- 'What do you mean, he needs to be taken to the hospital right now.' The doctor displays a grounded attitude without hesitation, putting "seychas" ("now") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'Let's hold a casting call tomorrow morning.' The doctor maintains a natural posture right away, using "davay" (from "davat", "let's") alongside "zavtra" ("tomorrow") to shape the meaning.
-- 'And tomorrow we will film with a new actor.' The doctor shows a calm bearing during the exchange, pairing "zavtra" ("tomorrow") with "snimem" ("will rent, book") to get the point across in plain spoken Russian.
-- 'At home I just have a swimming pool, not a very big one.' Nagiyev presents a grounded bearing beside the doctor, weaving "doma" ("at home") together with "prosto" ("just") just the way native speakers do.
-- 'Well what do you suggest, you are the director!' Nagiyev picks a candid view in this beat, pairing "predlagayesh" ("are suggesting") with "rezhisser" ("director") to get the point across in plain spoken Russian.
-- 'Listen, what about that guy with the mustache?' The doctor presses boldly to make the point, pairing "slushay" ("listen") with "dyadka" ("uncle") to get the point across in plain spoken Russian.
-- 'You said yourself that you do not like working with animals.' Nagiyev strikes an earnest line for the doctor, using "skazal" (from "skazat", "said") alongside "zhivotnymi" ("animals, pets") to shape the meaning.
-- 'There is such chemistry between you two, let's try.' The doctor presents a warm approach with Nagiyev, putting "khimiya" ("chemicals, chemistry") alongside "davay" ("let's") in a tight, everyday turn of phrase.
+- 'How you scared us all!' Nagiyev emphasizes one direct detail on cue: "napugal" means "scared, did you scare" (from "napugat"), giving the line its exact edge.
+- 'How is he, doctor?' Nagiyev questions firmly whether the doctor really thought this through.
+- 'Possibly a fracture, but an X-ray is needed to make sure.' The doctor colors one concrete expression toward Nagiyev: "vozmozhno" means "perhaps, possible", and it carries the main weight of what the doctor is saying.
+- 'Tomorrow first thing in the morning go for an X-ray.' Nagiyev replies candidly to settle things, testing the doctor's reaction in the middle of the exchange.
+- 'What do you mean, he needs to be taken to the hospital right now.' The doctor pushes back lightly toward Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Let's hold a casting call tomorrow morning.' The doctor colors one vivid touch with Nagiyev: "kasting" means "casting, audition", and it carries the main weight of what the doctor is saying.
+- 'And tomorrow we will film with a new actor.' The doctor steps in evenly facing Nagiyev, leaving no doubt about where he stands.
+- 'At home I just have a swimming pool, not a very big one.' Nagiyev follows up right away with the doctor, making his position completely clear.
+- 'Well what do you suggest, you are the director!' Nagiyev leans on one sharp detail on cue: "predlagayesh" means "are suggesting" (from "predlagat"), giving the line its exact edge.
+- 'Listen, what about that guy with the mustache?' The doctor lays out that remark without fuss: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'You said yourself that you do not like working with animals.' Nagiyev replies at once hearing the doctor, testing the doctor's reaction in the middle of the exchange.
+- 'There is such chemistry between you two, let's try.' The doctor centers one key touch right here: "poprobuyem" means "try" (from "poprobovat"), giving the line its exact edge.

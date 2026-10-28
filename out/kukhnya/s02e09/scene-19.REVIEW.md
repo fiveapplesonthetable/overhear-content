@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, why are you looking at me like that?' Eleonora queries naturally to make the point, using "smotrish" (from "smotret", "are staring") alongside "ey" ("hey") to shape the meaning.
-- 'You do not understand anything.' Max takes a lively bearing in the scene, using "ponimayesh" (from "ponimat", "do you understand") alongside "ty" ("you") to shape the meaning.
-- 'Did you take everything, did you forget anything?' Eleonora challenges firmly as the beat lands, building the phrase around "vzyali" ("took, arrested") and "zabyli" ("have you forgotten") for a crisp, natural delivery.
-- 'Dad, hurry up, we are already running late.' Max takes a steady footing as the scene unfolds, anchoring the Russian line on "pap" ("Dad") and "davay" ("let's") without extra filler.
-- 'Bye, give me a call when you get there.' Eleonora displays a pointed tack during the exchange, leaning on "poka" ("bye") before closing the thought with "doyedete" ("to reach, arrive").
-- 'How could that be, what on earth...' Max picks an emphatic position in their talk, weaving "kak" ("how") together with "nu" ("oh, come on") just the way native speakers do.
-- 'In everything that happens to us, look for the woman.' Eleonora strikes a lively manner without hesitation, combining "proiskhodit" ("is going on") and "ishchite" ("look for, search") so the key meaning lands right away.
-- 'She can do anything at all to us.' Max holds an honest approach with Eleonora, linking "mozhet" ("can"), "sdelat" ("to do"), and "ona" ("it") in one brisk exchange.
-- 'Bring us back to life.' Eleonora maintains a grounded manner for Max, pairing "vernut" ("give back, get back") with "zhizni" ("life") to get the point across in plain spoken Russian.
-- 'Or put our life in danger.' Max keeps an honest bearing right away, putting "postavit" ("to put in, to install") alongside "zhizn" ("life") in a tight, everyday turn of phrase.
-- 'We try to do everything for women.' Eleonora favors a thoughtful tack on the spot, using "starayemsya" (from "staratsya", "try hard") alongside "sdelat" ("to do") to shape the meaning.
-- 'While women...' Max conveys a warm posture in this beat, letting the single Russian word "zhenshchiny" ("woman") carry the entire reaction on its own.
-- 'Do everything to make sure we do.' Eleonora takes a thoughtful footing at once, weaving "delayut" ("they do") together with "vse" ("all") just the way native speakers do.
+- 'Hey, why are you looking at me like that?' Eleonora focuses on this key expression in earnest: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.
+- 'You do not understand anything.' Max phrases that thought without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Did you take everything, did you forget anything?' Eleonora quizzes openly in front of Max without any preamble.
+- 'Dad, hurry up, we are already running late.' Max uses this direct touch right here: "opazdyvayem" means "are late" (from "opazdyvat"), giving the line its exact edge.
+- 'Bye, give me a call when you get there.' Eleonora states this update at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'How could that be, what on earth...' Max holds firm firmly around Eleonora, so Eleonora knows he is not just making small talk.
+- 'In everything that happens to us, look for the woman.' Eleonora underscores one colorful piece right here: "zhenshchinu" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'She can do anything at all to us.' Max proceeds candidly beside Eleonora, shifting the whole mood of the room in a single beat.
+- 'Bring us back to life.' Eleonora chimes in steadily with Max, bringing things back to earth after the buildup.
+- 'Or put our life in danger.' Max stresses one familiar element with Eleonora: "postavit" means "to put in, to install", and it carries the main weight of what Max is saying.
+- 'We try to do everything for women.' Eleonora speaks up dryly hearing Max, bringing things back to earth after the buildup.
+- 'While women...' Max fires back steadily around Eleonora, so Eleonora knows he is not just making small talk.
+- 'Do everything to make sure we do.' Eleonora grounds one classic touch in reply: "delayut" means "they do" (from "delat"), giving the line its exact edge.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I cannot seem to figure this out.' Fedya sustains a sharp approach as they talk, putting "mogu" ("can") alongside "razobratsya" ("to deal with") in a tight, everyday turn of phrase.
-- 'Oh, Fyodor, Fyodor.' Fedya keeps an emphatic tack in their talk, weaving "ekh" ("oh") together with "fedor" ("Fyodor") just the way native speakers do.
-- 'Which means.' Barinov adopts a direct rhythm as they talk, leaning on "znachit" ("then, so") as a compact, one-word response that needs no extra words.
-- 'How could you not know that?' Fedya inquires promptly to make the point, putting "kak" ("how") alongside "mog" ("can, to be able") in a tight, everyday turn of phrase.
-- 'He is going to freeze in there.' Barinov strikes a serious view in this beat, combining "tam" ("there") and "zamerznet" ("will freeze") so the key meaning lands right away.
-- 'I left him a crate of cognac.' Fedya picks a calm posture in this beat, joining "yashchik" ("box, crate") to "konyaku" ("cognac, brandy") so every word pulls its weight.
-- 'He will not freeze.' Barinov picks a lively approach in the conversation, putting "zamerznet" ("will freeze") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'That is my cognac.' Fedya sets a clear attitude in the scene, putting "konyak" ("cognac, brandy") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'Better the cognac than...' Barinov favors a wry style in this beat, anchoring the Russian line on "luchshe" ("better") and "konyak" ("cognac, brandy") without extra filler.
-- 'Fedya, it is written right here on the box.' Barinov keeps a wry tempo in this beat, leaning on "zdes" ("here") before closing the thought with "korobke" ("box").
-- 'Fedya, what kind of joke is this?' Barinov questions directly across the room, combining "shutka" ("joke, prank") and "fedya" ("Fedya") so the key meaning lands right away.
-- 'Fedya, what is going on?' Barinov queries wryly in this moment, putting "proiskhodit" ("is going on") alongside "fedya" ("Fedya") in a tight, everyday turn of phrase.
-- 'Come on, open up right now!' Barinov presents an honest view at once, weaving "otkryvay" ("to open") together with "nu" ("oh, come on") just the way native speakers do.
+- 'Chef, I cannot seem to figure this out.' Fedya focuses on one classic detail for Barinov: "razobratsya" means "to deal with", and it carries the main weight of what Fedya is saying.
+- 'Oh, Fyodor, Fyodor.' Fedya brings the reply briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Which means.' Barinov reacts boldly across the room, leaving no doubt about where he stands.
+- 'How could you not know that?' Fedya stresses one pointed expression toward Barinov: "znat" means "to know", and it carries the main weight of what Fedya is saying.
+- 'He is going to freeze in there.' Barinov brings that reply without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I left him a crate of cognac.' Fedya holds firm bluntly watching Barinov, before Barinov can change the subject.
+- 'He will not freeze.' Barinov anchors this sharp detail in reply: "zamerznet" means "will freeze" (from "zamyorznut"), giving the line its exact edge.
+- 'That is my cognac.' Fedya delivers the thought for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Better the cognac than...' Barinov speaks up dryly around Fedya, making his position completely clear.
+- 'Fedya, it is written right here on the box.' Barinov underscores this clear word right here: "korobke" means "box" (from "korobka"), giving the line its exact edge.
+- 'Fedya, what kind of joke is this?' Barinov brings the remark around Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Fedya, what is going on?' Barinov tests quietly why things suddenly took this turn between them.
+- 'Come on, open up right now!' Barinov anchors one telling expression for Fedya: "otkryvay" means "to open" (from "otkryvat"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, hello, my dear Kostya!' Nastya favors a steady position at once, joining "zdorovo" ("great, cool") to "dorogoy" ("dear") so every word pulls its weight.
-- 'Listen, pour me some water, I am so thirsty.' Nastya sets a serious line during the exchange, combining "slushay" ("listen") and "naley" ("pour") so the key meaning lands right away.
-- 'Easy, I will pour some for you right away.' Kostya picks a direct tempo on the spot, anchoring the Russian line on "legko" ("easy") and "seychas" ("now") without extra filler.
-- 'Excuse me, what are you doing back here?' The guest quizzes dryly without holding back, linking "prostite" ("excuse me"), "zdes" ("here"), and "delayete" ("are doing") in one brisk exchange.
-- 'Are you pulling my leg or what?' Kostya prompts plainly in the scene, pairing "prikalyvayeshsya" ("you are joking") with "nado" ("it is necessary") so the "-sya" ending carries the action.
-- 'What do you mean? Why did you walk back here?' The guest probes boldly at this point, joining "smysle" ("sense") to "zachem" ("what for") so every word pulls its weight.
-- 'I actually work here, I am the bartender.' Kostya maintains an unhurried direction right away, combining "voobshche" ("at all") and "zdes" ("here") so the key meaning lands right away.
-- 'I am your new bartender since this morning.' Kostya takes an earnest manner on the spot, putting "novyy" ("new") alongside "barmen" ("bartender") in a tight, everyday turn of phrase.
-- 'I do not know, nobody told me anything.' The guest holds a wry direction at once, doubling the negative with "ne" ("not") and "znayu" ("know"), which is standard and required in Russian.
-- 'Poor thing, you are working without any days off.' Nastya holds a frank tack as they talk, leaning on "bednyy" ("poor") before closing the thought with "rabotayesh" ("are working").
-- 'Alright, I had better go home.' Nastya shows an easygoing direction in the room, pairing "poydu" ("go") with "luchshe" ("better") to get the point across in plain spoken Russian.
-- 'You will end up having problems because of me.' Nastya keeps a clear line in the scene, joining "yeshchyo" ("more, still") to "problemy" ("problems") so every word pulls its weight.
+- 'Hey there, hello, my dear Kostya!' Nastya speaks up right away across the room, leaving no doubt about where she stands.
+- 'Listen, pour me some water, I am so thirsty.' Nastya colors one telling piece in reply: "vodichki" means "some water" (from "vodichka"), giving the line its exact edge.
+- 'Easy, I will pour some for you right away.' Kostya brings this answer beside the guest: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
+- 'Excuse me, what are you doing back here?' The guest prompts evenly what Nastya is actually getting at here.
+- 'Are you pulling my leg or what?' Kostya highlights one telling choice in reply: "prikalyvayeshsya" means "you are joking" (from "prikalyvatsya"), giving the line its exact edge.
+- 'What do you mean? Why did you walk back here?' The guest brings this update to Nastya: putting the question word "zachem" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'I actually work here, I am the bartender.' Kostya chimes in bluntly with the guest, without trying to dress up how he really feels.
+- 'I am your new bartender since this morning.' Kostya picks this telling expression on cue: "barmen" means "bartender", and it carries the main weight of what Kostya is saying.
+- 'I do not know, nobody told me anything.' The guest shapes the remark on cue: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Poor thing, you are working without any days off.' Nastya proceeds at once facing Kostya, grounding the moment in plain reality.
+- 'Alright, I had better go home.' Nastya uses this sharp term in reply: "luchshe" means "better", and it carries the main weight of what Nastya is saying.
+- 'You will end up having problems because of me.' Nastya aims this warning facing Kostya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.

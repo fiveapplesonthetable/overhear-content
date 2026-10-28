@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, come on, put out my restaurant quickly with your jackets!' Max sustains an unhurried mood at once, linking "rebyata" ("the boys, the lads"), "davayte" ("let's"), and "skoreye" ("quickly, right away") in one brisk exchange.
-- 'Young man, why are we sitting here? Everyone has already gotten off.' Max questions candidly at this point, pairing "molodoy" ("young") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
-- 'Yes, thank you, I am getting off right now too.' Max takes a grounded attitude in the room, leaning on "spasibo" ("thank you") before closing the thought with "uzhe" ("already, now").
-- 'Katya, hi! What are you doing here right now?' Vika quizzes dryly as the talk turns, anchoring the Russian line on "tut" ("here") and "seychas" ("now") without extra filler.
-- 'Vika, tell me, can you and I talk calmly?' Katya tests bluntly as the beat lands, weaving "skazhi" ("say") together with "mozhem" ("can") just the way native speakers do.
-- 'Honestly speaking, I do not think that is a good idea.' Vika chooses a playful note in the conversation, joining "chestno" ("honestly") to "govorya" ("speaking") so every word pulls its weight.
-- 'Listen, everything turned out very strangely for us.' Katya adopts a steady posture toward Max, leaning on "slushay" ("listen") before closing the thought with "ochen" ("very much").
-- 'What exactly turned out strangely for us, tell me?' Vika challenges wryly as the beat lands, pairing "poluchilos" ("worked out") with "stranno" ("strange") so the "-sya" ending carries the action.
-- 'I love Max, and he loves only you.' Katya keeps an unhurried tempo across the room, building the phrase around "lyublyu" ("love") and "lyubit" ("loves") for a crisp, natural delivery.
-- 'And right now you are not giving him a chance at all.' Katya holds a calm course without hesitation, leaning on "seychas" ("now") before closing the thought with "sovsem" ("at all").
-- 'In the end he will be neither with you nor with me.' Katya displays an honest tack during the exchange, anchoring the Russian line on "itoge" ("result, total") and "budet" ("will be") without extra filler.
-- 'Think about whether you are ready to give up your happiness.' Katya favors a firm approach straight away, combining "podumay" ("think") and "gotova" ("ready") so the key meaning lands right away.
-- 'Because right now he still loves you very much.' Katya shows a candid view with Max, pairing "poka" ("bye") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'Guys, come on, put out my restaurant quickly with your jackets!' Max frames one sharp element at once: "pidzhakami" means "with jackets" (from "pidzhak"), giving the line its exact edge.
+- 'Young man, why are we sitting here? Everyone has already gotten off.' Max drops that reply to Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Yes, thank you, I am getting off right now too.' Max speaks warmly watching Katya, refusing to let the moment slip past.
+- 'Katya, hi! What are you doing here right now?' Vika features one classic element right here: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'Vika, tell me, can you and I talk calmly?' Katya phrases that reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Honestly speaking, I do not think that is a good idea.' Vika responds pointedly without holding back, so Max knows she is not just making small talk.
+- 'Listen, everything turned out very strangely for us.' Katya colors this sharp word right here: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
+- 'What exactly turned out strangely for us, tell me?' Vika aims this answer at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I love Max, and he loves only you.' Katya counters boldly facing Max, letting the remark speak for itself.
+- 'And right now you are not giving him a chance at all.' Katya picks one loaded word toward Vika: "shansa" means "chance" (from "shans"), giving the line its exact edge.
+- 'In the end he will be neither with you nor with me.' Katya pushes back bluntly without a pause, grounding the moment in plain reality.
+- 'Think about whether you are ready to give up your happiness.' Katya speaks up warmly with a smile, shifting the whole mood of the room in a single beat.
+- 'Because right now he still loves you very much.' Katya focuses on one colorful word at once: "yeshchyo" means "more, still", and it carries the main weight of what Katya is saying.

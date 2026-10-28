@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Nikita, accept my congratulations now.' Denis favors a natural line across the room, building the phrase around "prinimay" ("receive, accept") and "teper" ("now") for a crisp, natural delivery.
-- 'Listen, are you completely foolish already?' Denis tests steadily as the beat lands, building the phrase around "slushay" ("listen") and "sovsem" ("at all") for a crisp, natural delivery.
-- 'Kostya, forgive me for hiding it from you.' Katya offers a natural bearing without hesitation, joining "prosti" ("sorry, forgive me") to "skryval" ("hid, concealed") so every word pulls its weight.
-- 'Thank you very much for everything good.' Katya shows a serious direction for Kostya, using "bolshoye" (from "bolshoy", "big, very much") alongside "spasibo" ("thank you") to shape the meaning.
-- 'And I will pick up my things tomorrow.' Katya keeps a steady line with Denis, linking "veshchi" ("things"), "zavtra" ("tomorrow"), and "zaberu" ("will take") in one brisk exchange.
-- 'Dad, let us go home to our place together right now.' Kostya takes a direct line in the conversation, weaving "papa" ("Dad") together with "poyekhali" ("here we go") just the way native speakers do.
-- 'There we will talk calmly about everything.' Kostya presents a brisk posture for Denis, building the phrase around "tam" ("there") and "spokoyno" ("calmly") for a crisp, natural delivery.
-- 'Wait, Kostya, something huge just happened over there.' Denis sets an unhurried mood in the scene, pairing "seychas" ("now") with "podozhdi" ("wait") so the "-sya" ending carries the action.
-- 'Wait a little, where is Katya right now?' Kostya checks plainly from the start, joining "podozhdi" ("wait") to "nemnogo" ("a bit") so every word pulls its weight.
-- 'Katya agreed to marry Nikita.' Denis holds a serious tack beside Kostya, putting "soglasilas" ("to agree") alongside "vyyti" ("to marry") in a tight, everyday turn of phrase.
-- 'Do not worry, we will definitely think of something.' Kostya offers an emphatic bearing during the exchange, using "perezhivay" (from "perezhivat", "worry") alongside "obyazatelno" ("surely, without fail") to shape the meaning.
-- 'Of course, at home over tea we will discuss everything.' Katya offers a direct mood across the room, putting "konechno" ("of course") alongside "doma" ("at home") in a tight, everyday turn of phrase.
+- 'Well, Nikita, accept my congratulations now.' Denis speaks up wryly watching Katya, grounding the moment in plain reality.
+- 'Listen, are you completely foolish already?' Denis inquires calmly what Kostya is actually getting at here.
+- 'Kostya, forgive me for hiding it from you.' Katya uses one loaded detail toward Denis: "skryval" means "hid, concealed" (from "skryvat"), giving the line its exact edge.
+- 'Thank you very much for everything good.' Katya puts the comment with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'And I will pick up my things tomorrow.' Katya counters promptly as they talk, without trying to dress up how she really feels.
+- 'Dad, let us go home to our place together right now.' Kostya uses one clear word in reply: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
+- 'There we will talk calmly about everything.' Kostya follows up candidly toward Denis, grounding the moment in plain reality.
+- 'Wait, Kostya, something huge just happened over there.' Denis answers honestly during the talk, saying out loud what both of them already know.
+- 'Wait a little, where is Katya right now?' Kostya picks one sharp touch at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Katya agreed to marry Nikita.' Denis makes this point with ease: the "-sya" ending on "soglasilas" ("to agree") turns the action inward or makes it happen between people naturally.
+- 'Do not worry, we will definitely think of something.' Kostya weighs in candidly before Denis, testing Denis's reaction in the middle of the exchange.
+- 'Of course, at home over tea we will discuss everything.' Katya grounds one key detail at once: "konechno" means "of course", and it carries the main weight of what Katya is saying.

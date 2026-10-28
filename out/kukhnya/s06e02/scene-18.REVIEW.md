@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They said they would be here by four, and it is already almost five.' Mikhail projects a sharp position as the scene unfolds, building the phrase around "skazali" ("told") and "budet" ("will be") for a crisp, natural delivery.
-- 'And nobody is picking up the phone.' Barinov shares a measured tempo in the room, combining "trubku" ("the receiver") and "beret" ("takes") so the key meaning lands right away.
-- 'This is Moscow, traffic jams.' Mikhail shows a wry tone straight away, placing "probki" ("traffic jam") straight beside "eto" ("this") with no word for "to be" needed.
-- 'I do not understand, why is the restaurant closed?' Eleonora queries frankly beside Mikhail, using "ponyala" (from "ponyat", "understood") alongside "pochemu" ("why") to shape the meaning.
-- 'Here the deputy mayor is conducting an inspection at our place.' Eleonora presents a playful tack in front of Barinov, pairing "zamestitel" ("deputy") with "mera" ("the mayor") to get the point across in plain spoken Russian.
-- 'I want to feed him so that he will be kinder.' Eleonora favors a pointed mood toward Mikhail, using "khochu" (from "khotet", "want") alongside "nakormit" ("to feed") to shape the meaning.
-- 'Mikhail, hotel manager, very pleased to meet you.' Mikhail conveys a steady course in their talk, leaning on "upravlyayushchiy" ("manager") before closing the thought with "otelem" ("hotel").
-- 'Ribs like the ones here are not served at the prefecture.' Eleonora displays an emphatic attitude at once, combining "rebryshki" ("ribs") and "kak" ("how") so the key meaning lands right away.
-- 'This is my restaurant, and I decide what people eat here.' Eleonora strikes a candid note at this moment, putting "restoran" ("restaurant") alongside "reshayu" ("decide") in a tight, everyday turn of phrase.
-- 'You decide, but I do the cooking!' Barinov sustains an emphatic posture during the exchange, building the phrase around "reshayesh" ("decide") and "gotovlyu" ("prepare") for a crisp, natural delivery.
-- 'And if I say that we need auteur cuisine, then we need it.' Barinov shows an honest rhythm in the conversation, weaving "govoryu" ("am telling") together with "nuzhna" ("needed") just the way native speakers do.
-- 'Are you arguing over what to treat us with?' Eleonora wonders promptly without a pause, anchoring the Russian line on "sporite" ("argue") and "ugoshchat" ("to treat, to offer") without extra filler.
+- 'They said they would be here by four, and it is already almost five.' Mikhail jumps in plainly across the room, so Barinov knows he is not just making small talk.
+- 'And nobody is picking up the phone.' Barinov highlights one concrete touch in earnest: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
+- 'This is Moscow, traffic jams.' Mikhail frames this point around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not understand, why is the restaurant closed?' Eleonora presses evenly how Mikhail expects that to work in practice.
+- 'Here the deputy mayor is conducting an inspection at our place.' Eleonora reaches for this sharp piece in earnest: "zamestitel" means "deputy", and it carries the main weight of what Eleonora is saying.
+- 'I want to feed him so that he will be kinder.' Eleonora speaks up plainly with Mikhail, watching Mikhail's face to see how the news lands.
+- 'Mikhail, hotel manager, very pleased to meet you.' Mikhail fires back boldly without a pause, letting the remark speak for itself.
+- 'Ribs like the ones here are not served at the prefecture.' Eleonora colors this key touch at once: "prefekture" means "prefecture" (from "prefektura"), giving the line its exact edge.
+- 'This is my restaurant, and I decide what people eat here.' Eleonora replies openly beside Barinov, without trying to dress up how she really feels.
+- 'You decide, but I do the cooking!' Barinov stands firm plainly beside Mikhail, shifting the whole mood of the room in a single beat.
+- 'And if I say that we need auteur cuisine, then we need it.' Barinov points to one sharp piece with Eleonora: "avtorskaya" means "signature, author's" (from "avtorskiy"), giving the line its exact edge.
+- 'Are you arguing over what to treat us with?' Eleonora shapes the remark on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.

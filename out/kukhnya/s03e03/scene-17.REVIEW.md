@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Pregnant guy, is that you again?' Vika queries honestly toward Max here, putting "beremennyy" ("pregnant") alongside "opyat" ("again") in a tight, everyday turn of phrase.
-- 'Listen, stop putting on a circus for me here.' Vika brings a thoughtful direction on the spot, anchoring the Russian line on "slushay" ("listen") and "khvatit" ("enough") without extra filler.
-- 'Listen, I braked way before that.' Vika takes a candid angle beside Max, combining the conversational booster "voobshche" ("in general, overall") with "poslushay" ("listen") to give the line its natural spoken rhythm.
-- 'I hit the asphalt!' Max sets an emphatic view for Vika, pairing "asfalt" ("asphalt") with "udarilsya" ("hit against") to get the point across in plain spoken Russian.
-- 'Such tricks won't work with me, got it?' Vika questions briskly without hesitation, linking "shtuki" ("thing, piece"), "proydut" ("will work, pass"), and "ponyal" ("understood") in one brisk exchange.
-- 'Do you want to blackmail me? You will fly right out of Moscow!' Vika probes firmly to make the point, combining "khochesh" ("do you want") and "shantazhirovat" ("to blackmail") so the key meaning lands right away.
-- 'Vika! Vika!' Max takes a frank rhythm without hesitation, using "vika" ("Vika") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'You? Nobody will believe you. You have no proof.' Vika quizzes candidly right away, leaning on "poverit" ("to believe") before closing the thought with "dokazatelstv" ("proof, evidence").
-- 'I am afraid you are not right.' Rodion picks a natural tone with Max, joining "boyus" ("am afraid") to "pravy" ("right") so every word pulls its weight.
-- 'This telephone device filmed the accident.' Rodion projects an easygoing note during the exchange, joining "telefonnyy" ("telephone") to "apparat" ("the unit, device") so every word pulls its weight.
-- 'And here is the proof!' Max presents an unhurried stance on the spot, placing "dokazatelstvo" ("proof, evidence") straight beside "vot" ("there, here") with no word for "to be" needed.
-- 'What will your husband say when he sees the recording online?' Max challenges dryly on the spot, linking "skazhet" ("will tell, will say"), "muzh" ("husband"), and "kogda" ("when") in one brisk exchange.
+- 'Pregnant guy, is that you again?' Vika states this update right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Listen, stop putting on a circus for me here.' Vika continues calmly to be clear, testing Rodion's reaction in the middle of the exchange.
+- 'Listen, I braked way before that.' Vika grounds this clear touch with Max: "zatormozila" means "braked" (from "zatormozit"), giving the line its exact edge.
+- 'I hit the asphalt!' Max hands over this answer without fuss: the "-sya" ending on "udarilsya" ("hit against") turns the action inward or makes it happen between people naturally.
+- 'Such tricks won't work with me, got it?' Vika prompts quietly why things suddenly took this turn between them.
+- 'Do you want to blackmail me? You will fly right out of Moscow!' Vika highlights one clear expression in reply: "shantazhirovat" means "to blackmail", and it carries the main weight of what Vika is saying.
+- 'Vika! Vika!' Max hands over the reaction around Rodion: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'You? Nobody will believe you. You have no proof.' Vika questions curiously if there is more going on behind the scenes.
+- 'I am afraid you are not right.' Rodion centers this clear touch at once: "pravy" means "right" (from "pravyy"), giving the line its exact edge.
+- 'This telephone device filmed the accident.' Rodion jumps in right away with Vika, refusing to let the moment slip past.
+- 'And here is the proof!' Max follows up briskly with a sigh, bringing things back to earth after the buildup.
+- 'What will your husband say when he sees the recording online?' Max favors one sharp detail in earnest: "skazhet" means "will tell, will say" (from "skazat"), giving the line its exact edge.

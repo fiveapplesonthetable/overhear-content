@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just like that, Arkady, you always gain weight.' Barinov keeps a grounded bearing in front of Ainura, leaning on "vsegda" ("always") before closing the thought with "nabirayesh" ("gain, put on").
-- 'Champagne for lovers? Apparently they mixed it up.' Lyova checks lightly from the start, joining "shampanskoye" ("champagne") to "vlyublyonnykh" ("in love") so every word pulls its weight.
-- 'Lyova, do you think I do not understand anything?' Ainura challenges quietly during the talk, putting "dumayesh" ("think") alongside "ponimayu" ("understand") in a tight, everyday turn of phrase.
-- 'I understand everything.' Ainura projects an honest attitude right away, joining "ponimayu" ("understand") to "ya" ("I") so every word pulls its weight.
-- 'For three years already I have seen how you look at me.' Ainura establishes a grounded footing right away, leaning on "uzhe" ("already, now") before closing the thought with "goda" ("years").
-- 'Me? Well come on.' Lyova tests dryly at this point, putting "ya" ("I") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'You are so good. Only do not take offense.' Ainura sets a resolute course at this moment, putting "khoroshiy" ("good") alongside "tolko" ("only") in a tight, everyday turn of phrase.
-- 'But for me you are not tasty.' Ainura projects a natural rhythm in front of Lyova, anchoring the Russian line on "nevkusnyy" ("not tasty") and "no" ("but") without extra filler.
-- 'Well, you are not my type.' Ainura maintains a sharp direction in this beat, leaning on "vkuse" ("taste") before closing the thought with "nu" ("oh, come on").
-- 'Now you would suit my niece, Gulnara.' Ainura maintains a calm tone without hesitation, leaning on "plemyannitse" ("niece") before closing the thought with "podoshyol" ("to come up").
-- 'Gulya? Do you think I would suit her?' Lyova checks evenly as the talk turns, using "dumayesh" (from "dumat", "think") alongside "podoshyol" ("to come up") to shape the meaning.
-- 'Of course! Let us have a drink.' Ainura offers a frank posture in the room, linking "konechno" ("of course"), "davay" ("let's"), and "vypyem" ("will drink") in one brisk exchange.
+- 'Just like that, Arkady, you always gain weight.' Barinov leans on this key detail right here: "nabirayesh" means "gain, put on" (from "nabirat"), giving the line its exact edge.
+- 'Champagne for lovers? Apparently they mixed it up.' Lyova makes that point plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Lyova, do you think I do not understand anything?' Ainura prompts candidly about what Barinov just brought up.
+- 'I understand everything.' Ainura underscores one concrete detail on cue: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
+- 'For three years already I have seen how you look at me.' Ainura emphasizes one practical term in reply: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.
+- 'Me? Well come on.' Lyova wonders evenly why things suddenly took this turn between them.
+- 'You are so good. Only do not take offense.' Ainura favors one classic detail on cue: "khoroshiy" means "good", and it carries the main weight of what Ainura is saying.
+- 'But for me you are not tasty.' Ainura lays out this answer plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, you are not my type.' Ainura chimes in firmly with a nod, so Barinov knows she is not just making small talk.
+- 'Now you would suit my niece, Gulnara.' Ainura favors one clear choice right here: "plemyannitse" means "niece" (from "plemyannitsa"), giving the line its exact edge.
+- 'Gulya? Do you think I would suit her?' Lyova puts the remark without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
+- 'Of course! Let us have a drink.' Ainura weighs in frankly with a nod, letting the remark speak for itself.

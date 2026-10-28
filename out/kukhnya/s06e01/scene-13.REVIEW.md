@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have had enough.' Barinov brings an unhurried direction at this moment, weaving "khvatit" ("enough") together with "menya" ("me") just the way native speakers do.
-- 'I will not do anything more.' Barinov takes a measured footing beside Senya, weaving "bolshe" ("more") together with "delat" ("do") just the way native speakers do.
-- 'I will tell Eleonora everything myself right now.' Barinov presents a lively attitude toward Katya, pairing "seychas" ("now") with "skazhu" ("I'll tell") so the "-sya" ending carries the action.
-- 'Let's celebrate your return, Denis.' Senya favors a grounded line in this beat, weaving "davay" ("let's") together with "otmetim" ("to celebrate") just the way native speakers do.
-- 'What return?' Katya prompts frankly as the talk turns, building the phrase around "vozvrashcheniye" ("return") and "kakoye" ("what a") for a crisp, natural delivery.
-- 'I will not stay here long.' Katya takes a sharp position in front of Senya, building the phrase around "tut" ("here") and "zaderzhus" ("will be delayed") for a crisp, natural delivery.
-- 'And I thought you would come back for good.' Senya sustains a playful approach toward Barinov, putting "dumal" ("thought") alongside "navsegda" ("forever") in a tight, everyday turn of phrase.
-- 'Katya talked to her mom because of you.' Senya shows a frank line at once, linking "pogovorila" ("talked, had a talk"), "mamoy" ("Mum"), and "katya" ("Katya") in one brisk exchange.
-- 'Yes, she pleaded for you.' Senya picks an unhurried style in the scene, anchoring the Russian line on "prosila" ("asked") and "da" ("yes") without extra filler.
-- 'She said, do not meddle in my personal life.' Katya establishes a clear position for Senya, putting "skazala" ("told") alongside "lez" ("poke nose, meddle") in a tight, everyday turn of phrase.
-- 'She still loves you, I am telling you for sure.' Senya establishes a serious rhythm at this moment, joining "lyubit" ("loves") to "yeshche" ("still") so every word pulls its weight.
-- 'I do not know, we will see.' Katya holds an easygoing course as they talk, using "znayu" (from "znat", "know") alongside "posmotrim" ("have a look") to shape the meaning.
+- 'I have had enough.' Barinov chooses one colorful detail in earnest: "khvatit" means "enough", and it carries the main weight of what Barinov is saying.
+- 'I will not do anything more.' Barinov states the thought without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I will tell Eleonora everything myself right now.' Barinov follows up lightly as they talk, before Katya can change the subject.
+- 'Let's celebrate your return, Denis.' Senya underscores one concrete expression at once: "vozvrashcheniye" means "return", and it carries the main weight of what Senya is saying.
+- 'What return?' Katya directs this update beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I will not stay here long.' Katya speaks decisively around Senya, to clear the air between them once and for all.
+- 'And I thought you would come back for good.' Senya focuses on one vivid touch in reply: "vernyoshsya" means "you come back" (from "vernutsya"), giving the line its exact edge.
+- 'Katya talked to her mom because of you.' Senya frames one sharp element in reply: "pogovorila" means "talked, had a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Yes, she pleaded for you.' Senya holds firm pointedly beside Barinov, saying out loud what both of them already know.
+- 'She said, do not meddle in my personal life.' Katya reaches for one pointed term at once: "lichnuyu" means "personal" (from "lichnyy"), giving the line its exact edge.
+- 'She still loves you, I am telling you for sure.' Senya chooses one colorful choice with Barinov: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
+- 'I do not know, we will see.' Katya proceeds evenly beside Senya, so Senya knows she is not just making small talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How sick and tired I am of you already!' Max shares an unhurried tone in the room, anchoring the Russian line on "kak" ("how") and "uzhe" ("already, now") without extra filler.
-- 'What, excuse me?' Vika tests briskly in their exchange, building the phrase around "prosti" ("sorry, forgive me") and "chto" ("what") for a crisp, natural delivery.
-- 'You again, what am I doing at your place?' Max quizzes evenly during the talk, pairing "opyat" ("again") with "delayu" ("I make") to get the point across in plain spoken Russian.
-- 'That question torments me very much too.' Vika keeps a firm bearing toward Max, building the phrase around "vopros" ("question, matter") and "tozhe" ("too") for a crisp, natural delivery.
-- 'What do you want, leave me alone, understand?' Max checks boldly for Vika's benefit, joining "nuzhno" ("necessary") to "otstan" ("leave alone") so every word pulls its weight.
-- 'Meet my friend Masha.' Max maintains a natural position right away, weaving "znakomsya" ("get acquainted") together with "podruga" ("female friend") just the way native speakers do.
-- 'And you will not stop me from this.' Max conveys a firm approach for Vika, joining "pomeshayesh" ("will interfere") to "ty" ("you") so every word pulls its weight.
-- 'Wait, and where are my jeans?' Max quizzes bluntly in this moment, linking "podozhdi" ("wait"), "gde" ("where"), and "dzhinsy" ("jeans") in one brisk exchange.
-- 'After all, you and I did not do anything yesterday.' Max shares a frank manner in this beat, anchoring the Russian line on "vchera" ("yesterday") and "delali" ("did, were doing") without extra filler.
-- 'Yesterday you spilled your whiskey all over the floor.' Vika shows a pointed tack as they talk, putting "vchera" ("yesterday") alongside "viski" ("whisky") in a tight, everyday turn of phrase.
-- 'I washed your jeans in the morning.' Vika keeps a resolute line in front of Max, pairing "dzhinsy" ("jeans") with "utrom" ("this morning") to get the point across in plain spoken Russian.
-- 'So I came to your place yesterday?' Max checks boldly as the beat lands, joining "znachit" ("then, so") to "vchera" ("yesterday") so every word pulls its weight.
+- 'How sick and tired I am of you already!' Max features one memorable choice with Vika: "dostala" means "to take out" (from "dostat"), giving the line its exact edge.
+- 'What, excuse me?' Vika checks wryly as Max tries to explain the situation.
+- 'You again, what am I doing at your place?' Max emphasizes one direct touch on cue: "delayu" means "I make" (from "delat"), giving the line its exact edge.
+- 'That question torments me very much too.' Vika lays out that reply with warmth: the "-sya" ending on "vopros" ("question, matter") turns the action inward or makes it happen between people naturally.
+- 'What do you want, leave me alone, understand?' Max inquires frankly in front of Vika without any preamble.
+- 'Meet my friend Masha.' Max features one practical word toward Vika: "znakomsya" means "get acquainted" (from "znakomitsya"), giving the line its exact edge.
+- 'And you will not stop me from this.' Max sharpens this key expression right here: "pomeshayesh" means "will interfere" (from "pomeshat"), giving the line its exact edge.
+- 'Wait, and where are my jeans?' Max wonders point-blank in front of Vika without any preamble.
+- 'After all, you and I did not do anything yesterday.' Max spotlights one direct expression toward Vika: "vchera" means "yesterday", and it carries the main weight of what Max is saying.
+- 'Yesterday you spilled your whiskey all over the floor.' Vika uses one vivid word in earnest: "viski" means "whisky", and it carries the main weight of what Vika is saying.
+- 'I washed your jeans in the morning.' Vika counters calmly as things stand, letting the remark speak for itself.
+- 'So I came to your place yesterday?' Max underscores one key element on cue: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.

@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Alright, let us just do it quickly.' Barinov agrees to the request but immediately sets a boundary, asking to keep things brief.
 - 'I will get straight to the point.' Lanovsky promises to skip the small talk and jump right into the main topic.
-- 'Have you heard anything about me?' Asking this question directly, the speaker tries to establish his reputation right from the start.
+- 'Have you heard anything about me?' Leaning across the desk with a smug smile, Lanovsky asks whether Viktor has heard of his fearsome reputation.
 - 'Yes, heard in all countries.' Barinov replies with a sarcastic exaggeration, implying that the person's fame is worldwide.
 - 'Do you know what they call me?' The migration officer builds suspense by asking about his own nickname.
 - 'They call me a scary person.' Lanovsky embraces his intimidating reputation, proudly sharing his fearsome title.
 - 'A month ago there was an inspection.' Trying to deflect suspicion, the chef points out that they recently passed a review.
-- 'They did not find anything here.' Emphasizing their innocence, the speaker firmly states that previous inspectors came up empty.
+- 'They did not find anything here.' Trying to bluff his way through, Barinov insists that previous migration checks found nothing wrong here.
 - 'Do you want a mint candy?' Offering a small treat, the guest attempts to create a falsely friendly atmosphere.
 - 'No, I do not need it.' The chef bluntly rejects the polite offer, keeping the interaction strictly professional.
 - 'Our service is like birds.' Lanovsky makes a poetic comparison, likening his department's work to creatures in the sky.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look how beautifully everything is bubbling here!' The guest displays a firm style toward Denis, leaning on "posmotrite" ("look") before closing the thought with "kak" ("how").
-- 'I wish you a bright and happy life.' The guest offers an emphatic attitude in this beat, using "zhelayu" (from "zhelat", "I wish") alongside "yarkoy" ("bright, vivid") to shape the meaning.
-- 'And love is always bubbling between us!' Sveta takes an easygoing approach in front of Denis, joining "vsegda" ("always") to "kipit" ("boils, bubbles") so every word pulls its weight.
-- 'Tell them, is that not true, my darling Denis?' Sveta prompts openly during the talk, putting "skazhi" ("say") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
-- 'That is very good, we are glad to hear it.' The guest displays a candid bearing without hesitation, pairing "ochen" ("very much") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
-- 'The most important thing in life is to find love.' The guest conveys a serious tempo during the exchange, weaving "samoye" ("the most") together with "glavnoye" ("important") just the way native speakers do.
-- 'To find such a love for your whole life.' The guest shows a thoughtful note during the exchange, linking "nayti" ("to find"), "lyubov" ("love"), and "zhizn" ("life") in one brisk exchange.
-- 'Tell me, do you agree with me, Denis?' The guest probes warmly right away, linking "skazhi" ("say"), "soglasen" ("agreed"), and "ty" ("you") in one brisk exchange.
-- 'Yes, I completely agree with you.' Denis adopts a grounded mood straight away, building the phrase around "polnostyu" ("completely") and "soglasen" ("agreed") for a crisp, natural delivery.
-- 'It seems to me that I have found such a love.' Denis holds a wry manner in the conversation, pairing "kazhetsya" ("it seems, I think") with "nashyol" ("found") so the "-sya" ending carries the action.
-- 'Forgive me, Sveta, but it is not you.' Denis picks a warm bearing on the spot, anchoring the Russian line on "prosti" ("sorry, forgive me") and "sveta" ("electricity") without extra filler.
-- 'Then goodbye forever and do not call anymore!' Sveta brings a resolute mood beside the guest, leaning on "togda" ("back then") before closing the thought with "navsegda" ("forever").
+- 'Look how beautifully everything is bubbling here!' The guest pushes back earnestly around Denis, leaving no doubt about where he stands.
+- 'I wish you a bright and happy life.' The guest weighs in sharply before Sveta, steering the talk right where he wants it.
+- 'And love is always bubbling between us!' Sveta focuses on one pointed word on cue: "lyubov" means "love", and it carries the main weight of what Sveta is saying.
+- 'Tell them, is that not true, my darling Denis?' Sveta directs the comment before the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'That is very good, we are glad to hear it.' The guest pushes back frankly with Denis, watching Denis's face to see how the news lands.
+- 'The most important thing in life is to find love.' The guest sharpens one concrete expression with Sveta: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
+- 'To find such a love for your whole life.' The guest steps in steadily with a shrug, shifting the whole mood of the room in a single beat.
+- 'Tell me, do you agree with me, Denis?' The guest tests skeptically what Sveta is actually getting at here.
+- 'Yes, I completely agree with you.' Denis features one direct piece toward the guest: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
+- 'It seems to me that I have found such a love.' Denis offers that thought in earnest: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Forgive me, Sveta, but it is not you.' Denis holds firm frankly beside the guest, testing the guest's reaction in the middle of the exchange.
+- 'Then goodbye forever and do not call anymore!' Sveta reaches for this clear word in earnest: "navsegda" means "forever", and it carries the main weight of what Sveta is saying.

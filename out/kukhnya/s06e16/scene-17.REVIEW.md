@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, what are you doing here?' Barinov wonders plainly from the start, combining "zdes" ("here") and "delayesh" ("are you doing") so the key meaning lands right away.
-- 'I got a ticket through the magazine's editorial office.' Elena projects a natural stance in front of the guest, building the phrase around "dostala" ("to take out") and "bilet" ("ticket") for a crisp, natural delivery.
-- 'It turned out it is not such a closed event.' Elena picks a direct footing during the exchange, anchoring the Russian line on "okazalos" ("turned out") and "zakrytoye" ("closed, classified") without extra filler.
-- 'Why are you not answering your phone?' Elena inquires boldly in the room, building the phrase around "pochemu" ("why") and "telefonu" ("phone") for a crisp, natural delivery.
-- 'We are preparing for the banquet, I did not hear it.' Barinov projects a warm bearing in the scene, building the phrase around "banketu" ("banquet") and "gotovimsya" ("we are preparing") for a crisp, natural delivery.
-- 'Sir, wait, who are you anyway?' Barinov questions sharply in their exchange, weaving "muzhchina" ("man") together with "podozhdite" ("wait") just the way native speakers do.
-- 'Tell me, where is that red-haired cheater?' The guest tests plainly for Barinov's benefit, putting "skazhi" ("say") alongside "gde" ("where") in a tight, everyday turn of phrase.
-- 'Leave, I will call security in here right now!' Barinov favors a frank approach beside the guest, pairing "ukhodite" ("leave, go away") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Stepan Andreyevich, please wait one second!' Barinov favors a frank mood at this moment, combining "andreyevich" ("andreyevich") and "podozhdite" ("wait") so the key meaning lands right away.
-- 'I will explain everything honestly to you right now!' Barinov offers a steady position during the exchange, linking "seychas" ("now"), "chestno" ("honestly"), and "obyasnyu" ("I'll explain") in one brisk exchange.
-- 'Your wife's tears have not even dried yet!' The guest shows a candid stance beside Barinov, weaving "zheny" ("wife") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'And you are already back to your old tricks!' The guest shows a frank mood without hesitation, leaning on "uzhe" ("already, now") before closing the thought with "opyat" ("again").
+- 'Lena, what are you doing here?' Barinov lays out this point calmly now: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'I got a ticket through the magazine's editorial office.' Elena jumps in evenly hearing the guest, to clear the air between them once and for all.
+- 'It turned out it is not such a closed event.' Elena anchors one practical expression in earnest: "meropriyatiye" means "event", and it carries the main weight of what Elena is saying.
+- 'Why are you not answering your phone?' Elena makes the comment with warmth: putting the question word "pochemu" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'We are preparing for the banquet, I did not hear it.' Barinov jumps in bluntly to be clear, to clear the air between them once and for all.
+- 'Sir, wait, who are you anyway?' Barinov underscores one sharp touch in reply: "muzhchina" means "man", and it carries the main weight of what Barinov is saying.
+- 'Tell me, where is that red-haired cheater?' The guest phrases that reply with ease: putting the question word "gde" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Leave, I will call security in here right now!' Barinov speaks up firmly during the talk, bringing things back to earth after the buildup.
+- 'Stepan Andreyevich, please wait one second!' Barinov stresses this telling element in reply: "andreyevich" means "andreyevich", and it carries the main weight of what Barinov is saying.
+- 'I will explain everything honestly to you right now!' Barinov picks one direct choice toward the guest: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'Your wife's tears have not even dried yet!' The guest steps in warmly hearing Barinov, to clear the air between them once and for all.
+- 'And you are already back to your old tricks!' The guest points to one sharp word with Elena: "staroye" means "old" (from "staryy"), giving the line its exact edge.

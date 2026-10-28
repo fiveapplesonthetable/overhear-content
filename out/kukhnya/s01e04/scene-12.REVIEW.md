@@ -27,6 +27,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, please do not turn on the device!' Senya begs, sweating profusely before the machine is even attached.
-- 'I took this fish after the banquet!' the line cook confesses, voluntarily admitting to kitchen pilfering.
+- 'I took this fish after the banquet!' Panicking before the machine is even turned on, Senya blurts out a confession about the banquet fish.
 - 'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts.
 - 'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more.

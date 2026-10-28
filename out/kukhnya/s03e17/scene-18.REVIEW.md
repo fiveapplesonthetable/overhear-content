@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You would have done better to go calmly into nature.' Nagiyev picks a measured mood with the guest, linking "luchshe" ("better"), "spokoyno" ("calmly"), and "prirodu" ("nature") in one brisk exchange.
-- 'To go to a quiet forest or a nice park.' Nagiyev shares a serious note in front of Max, leaning on "tikhiy" ("quiet") before closing the thought with "les" ("forest").
-- 'Why come to my restaurant for that?' Nagiyev prompts calmly without holding back, combining "zachem" ("what for") and "restoran" ("restaurant") so the key meaning lands right away.
-- 'Forgive me, Dima, I wanted to leave in style.' The guest sustains a brisk stance during the exchange, weaving "prosti" ("sorry, forgive me") together with "khotel" ("wanted") just the way native speakers do.
-- 'Wait a minute and listen to me carefully.' Nagiyev takes a wry angle at this moment, joining "podozhdi" ("wait") to "minutu" ("a minute") so every word pulls its weight.
-- 'If we look at it honestly, I am bankrupt too.' Nagiyev offers a playful tack beside Max, leaning on "chestno" ("honestly") before closing the thought with "razobratsya" ("to deal with").
-- 'Well what now, should we shoot ourselves every day?' Nagiyev queries plainly with the guest now, leaning on "teper" ("now") before closing the thought with "strelyatsya" ("to shoot oneself").
-- 'So do not be offended with me, my friend.' Nagiyev maintains an earnest tack as the scene unfolds, building the phrase around "obizhaysya" ("take offence") and "drug" ("friend") for a crisp, natural delivery.
-- 'I really do not need a dead body in my restaurant right now.' Nagiyev maintains a grounded tone straight away, building the phrase around "trup" ("corpse, dead body") and "seychas" ("now") for a crisp, natural delivery.
-- 'Calmly hand over your little pistol here.' Nagiyev strikes a wry mood during the exchange, using "davay" (from "davat", "let's") alongside "syuda" ("here") to shape the meaning.
-- 'At times we no longer have the strength to fight them.' Max picks a measured footing right away, putting "poroy" ("at times, occasionally") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Having solved some problems, we immediately meet new ones.' Max sets a clear tempo beside Nagiyev, putting "reshiv" ("having solved") alongside "problemy" ("problems") in a tight, everyday turn of phrase.
+- 'You would have done better to go calmly into nature.' Nagiyev holds firm right away as things stand, bringing things back to earth after the buildup.
+- 'To go to a quiet forest or a nice park.' Nagiyev features this key element with Max: "krasivyy" means "beautiful", and it carries the main weight of what Nagiyev is saying.
+- 'Why come to my restaurant for that?' Nagiyev shapes that line to the guest: putting the question word "zachem" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'Forgive me, Dima, I wanted to leave in style.' The guest stands firm boldly as they talk, shifting the whole mood of the room in a single beat.
+- 'Wait a minute and listen to me carefully.' Nagiyev uses one practical detail on cue: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Nagiyev is saying.
+- 'If we look at it honestly, I am bankrupt too.' Nagiyev delivers this point at once: the "-sya" ending on "razobratsya" ("to deal with") turns the action inward or makes it happen between people naturally.
+- 'Well what now, should we shoot ourselves every day?' Nagiyev challenges promptly about what the guest just brought up.
+- 'So do not be offended with me, my friend.' Nagiyev spotlights one sharp element in reply: "obizhaysya" means "take offence" (from "obizhatsya"), giving the line its exact edge.
+- 'I really do not need a dead body in my restaurant right now.' Nagiyev phrases the comeback for the guest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Calmly hand over your little pistol here.' Nagiyev replies bluntly as things stand, watching Max's face to see how the news lands.
+- 'At times we no longer have the strength to fight them.' Max chooses one loaded piece in earnest: "silakh" means "strength, power" (from "sila"), giving the line its exact edge.
+- 'Having solved some problems, we immediately meet new ones.' Max answers calmly during the talk, without trying to dress up how he really feels.

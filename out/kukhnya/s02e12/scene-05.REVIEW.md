@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must fight for this life.' Senya adopts a candid tone without hesitation, joining "dolzhny" ("must, should") to "borotsya" ("to fight") so every word pulls its weight.
-- 'You have such an amazing daughter.' Fedya sets a wry direction across the room, joining "doch" ("daughter") to "potryasayushchaya" ("stunning") so every word pulls its weight.
-- 'Do it for her sake.' Senya maintains a candid attitude in the conversation, anchoring the Russian line on "sdelayte" ("make") and "nu" ("oh, come on") without extra filler.
-- 'Well, and for mine too.' Fedya favors a natural stance right away, anchoring the Russian line on "nu" ("oh, come on") and "dlya" ("for") without extra filler.
-- 'I do not know.' Senya favors a grounded tone in the conversation, linking "znayu" ("know"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
-- 'I did not do anything.' Elena maintains a thoughtful tempo in the room, weaving "delala" ("did") together with "ya" ("I") just the way native speakers do.
-- 'I did not taste anything.' Elena keeps a calm tone with Fedya, using "probovala" (from "probovat", "to try, to taste") alongside "ya" ("I") to shape the meaning.
-- 'That is just, that is just...' Fedya projects a resolute footing with Senya, joining "voobshche" ("at all") to "eto" ("this") so every word pulls its weight.
-- 'How can anyone lie like that?' Senya inquires decisively as the talk turns, leaning on "kak" ("how") before closing the thought with "mozhno" ("may, can").
-- 'Calm down. Calm down.' Fedya offers a natural manner as the scene unfolds, putting all the weight on "uspokoytes" ("calm down") so the reply lands immediately.
-- 'I understand.' Senya offers a warm stance across the room, anchoring the Russian line on "ponimayu" ("understand") and "ya" ("I") without extra filler.
-- 'I do not want to.' Fedya favors a frank view in front of Senya, using "khochu" (from "khotet", "want") alongside "ya" ("I") to shape the meaning.
-- 'Do me a favor.' Senya takes a warm stance beside Elena, weaving "sdelay" ("make, do") together with "odolzheniye" ("favour, concession") just the way native speakers do.
+- 'You must fight for this life.' Senya colors one classic expression toward Elena: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'You have such an amazing daughter.' Fedya answers promptly with a shrug, leaving no doubt about where he stands.
+- 'Do it for her sake.' Senya features this key detail in earnest: "sdelayte" means "make" (from "sdelat"), giving the line its exact edge.
+- 'Well, and for mine too.' Fedya drops that reply with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I do not know.' Senya speaks up promptly to be clear, before Elena can change the subject.
+- 'I did not do anything.' Elena favors one vivid choice on cue: "delala" means "did" (from "delat"), giving the line its exact edge.
+- 'I did not taste anything.' Elena shapes that point without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'That is just, that is just...' Fedya jumps in evenly without any doubt, shifting the whole mood of the room in a single beat.
+- 'How can anyone lie like that?' Senya frames one familiar element right here: "mozhno" means "may, can", and it carries the main weight of what Senya is saying.
+- 'Calm down. Calm down.' Fedya makes that reply with warmth: the "-sya" ending on "uspokoytes" ("calm down") turns the action inward or makes it happen between people naturally.
+- 'I understand.' Senya weighs in calmly watching Elena, grounding the moment in plain reality.
+- 'I do not want to.' Fedya leans on this key touch in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Do me a favor.' Senya aims this answer to Elena: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

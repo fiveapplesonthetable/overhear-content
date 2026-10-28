@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like such a great plan?' Barinov questions honestly toward Nastya here, combining "kak" ("how") and "otlichnyy" ("excellent, great") so the key meaning lands right away.
-- 'Chef, Timur has a tuna head.' Senya maintains a grounded style straight away, putting "yest" ("there is") alongside "golova" ("head") in a tight, everyday turn of phrase.
-- 'No, that fish is noticeable too quickly.' Barinov adopts an unhurried direction in the scene, putting "ryba" ("fish") alongside "slishkom" ("too") in a tight, everyday turn of phrase.
-- 'Mikhail rented a room for himself in the hotel.' Senya keeps a candid footing without hesitation, building the phrase around "snyal" ("took off") and "nomer" ("number") for a crisp, natural delivery.
-- 'He will definitely spend the night here today.' Senya adopts an unhurried direction in the room, joining "segodnya" ("today") to "tochno" ("definitely") so every word pulls its weight.
-- 'Excellent, Timur has a moose head.' Barinov establishes a serious angle across the room, pairing "otlichno" ("perfect, great") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'We just need to quickly saw off the big antlers.' Barinov strikes an emphatic course across the room, leaning on "nado" ("it is necessary") before closing the thought with "tolko" ("only").
-- 'Look, what is this on the paper?' Nastya challenges decisively as the talk turns, pairing "posmotri" ("look") with "bumage" ("paper") to get the point across in plain spoken Russian.
-- 'At his age it is not easy to draw something like this.' Nastya brings a clear stance in the scene, combining "vozraste" ("age") and "neprosto" ("not easy, difficult") so the key meaning lands right away.
-- 'Styopa said that the drawing is like grandpa's.' Nastya sets a calm mood across the room, joining "styopa" ("styopa") to "skazal" ("said") so every word pulls its weight.
-- 'Oh, thank you very much for the hot tea.' Nastya shows a serious approach in the scene, weaving "bolshoye" ("big, very much") together with "spasibo" ("thank you") just the way native speakers do.
-- 'Let us go wash our hands clean together right now.' Nastya sets a frank note straight away, using "poydyom" (from "poyti", "let's go") alongside "seychas" ("now") to shape the meaning.
-- 'He is still little, what does he understand?' Nastya tests dryly to keep things clear, building the phrase around "yeshchyo" ("more, still") and "malenkiy" ("short, little") for a crisp, natural delivery.
+- 'Well, how do you like such a great plan?' Barinov prompts calmly why things suddenly took this turn between them.
+- 'Chef, Timur has a tuna head.' Senya features one classic touch on cue: "golova" means "head", and it carries the main weight of what Senya is saying.
+- 'No, that fish is noticeable too quickly.' Barinov gives the reaction at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Mikhail rented a room for himself in the hotel.' Senya counters frankly to settle things, refusing to let the moment slip past.
+- 'He will definitely spend the night here today.' Senya features one sharp word right here: "segodnya" means "today", and it carries the main weight of what Senya is saying.
+- 'Excellent, Timur has a moose head.' Barinov voices this update around Senya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'We just need to quickly saw off the big antlers.' Barinov replies decisively as they talk, grounding the moment in plain reality.
+- 'Look, what is this on the paper?' Nastya leans on this direct element in earnest: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
+- 'At his age it is not easy to draw something like this.' Nastya continues openly during the talk, keeping the focus on what actually matters here.
+- 'Styopa said that the drawing is like grandpa's.' Nastya answers warmly with a shrug, keeping the focus on what actually matters here.
+- 'Oh, thank you very much for the hot tea.' Nastya grounds this direct term with Barinov: "goryachiy" means "hot", and it carries the main weight of what Nastya is saying.
+- 'Let us go wash our hands clean together right now.' Nastya answers dryly as things stand, keeping the focus on what actually matters here.
+- 'He is still little, what does he understand?' Nastya checks quietly as Barinov tries to explain the situation.

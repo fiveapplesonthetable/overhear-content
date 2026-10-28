@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like the food?' Eleonora checks frankly on the spot, weaving "kak" ("how") together with "yeda" ("food") just the way native speakers do.
-- 'You know, it was magnificent!' Lyova shares a wry stance at this moment, anchoring the Russian line on "znayete" ("know") and "bylo" ("was") without extra filler.
-- 'Yes, I liked it very much too.' Eleonora brings a resolute manner in their talk, pairing "ponravilos" ("pleased, was liked") with "tozhe" ("too") so the "-sya" ending carries the action.
-- 'And here is the prize for the winner!' Denis shows a firm line in the scene, joining "priz" ("prize") to "pobeditelya" ("winner") so every word pulls its weight.
-- 'What are you doing tonight?' Denis queries plainly in the scene, building the phrase around "segodnya" ("today") and "delayesh" ("are you doing") for a crisp, natural delivery.
-- 'Take your hands off!' Lyova establishes a playful view in their talk, putting "uberi" ("take away, put away") alongside "ruki" ("hands") in a tight, everyday turn of phrase.
-- 'Immediately take your hands off her!' Lyova displays a thoughtful position across the room, linking "nemedlenno" ("immediately"), "uberi" ("take away, put away"), and "ruki" ("hands") in one brisk exchange.
-- 'She does not like that.' Lyova strikes a wry note right away, weaving "nravitsya" ("is pleasing") together with "yey" ("to her") just the way native speakers do.
-- 'Old man, everything I do with my hands women like very much.' Denis establishes an unhurried tempo straight away, anchoring the Russian line on "starik" ("old man") and "delayu" ("I make") without extra filler.
-- 'I said, take your hands off!' Lyova establishes a measured direction straight away, leaning on "skazal" ("said") before closing the thought with "uberi" ("take away, put away").
-- 'I demand that you apologize to the girl!' Lyova projects a clear view toward Denis, pairing "trebuyu" ("demand") with "izvinitsya" ("to apologise") to get the point across in plain spoken Russian.
-- 'Listen, this is over the line.' Denis shows a brisk mood in the room, building the phrase around "slushay" ("listen") and "perebor" ("too much, overkill") for a crisp, natural delivery.
+- 'Well, how do you like the food?' Eleonora makes this statement with ease: putting the question word "kak" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'You know, it was magnificent!' Lyova opens up calmly without holding back, letting the remark speak for itself.
+- 'Yes, I liked it very much too.' Eleonora emphasizes this sharp choice with Denis: "ponravilos" means "pleased, was liked" (from "ponravitsya"), giving the line its exact edge.
+- 'And here is the prize for the winner!' Denis delivers the comeback briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What are you doing tonight?' Denis quizzes briskly where this conversation is heading next.
+- 'Take your hands off!' Lyova anchors one practical choice with Eleonora: "ruki" means "hands" (from "ruka"), giving the line its exact edge.
+- 'Immediately take your hands off her!' Lyova pushes back bluntly with Denis, letting the remark speak for itself.
+- 'She does not like that.' Lyova replies wryly beside Eleonora, grounding the moment in plain reality.
+- 'Old man, everything I do with my hands women like very much.' Denis anchors this clear choice toward Eleonora: "zhenshchinam" means "women" (from "zhenshchina"), giving the line its exact edge.
+- 'I said, take your hands off!' Lyova brings this answer right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I demand that you apologize to the girl!' Lyova jumps in evenly hearing Denis, testing Denis's reaction in the middle of the exchange.
+- 'Listen, this is over the line.' Denis points to one loaded term toward Lyova: "perebor" means "too much, overkill", and it carries the main weight of what Denis is saying.

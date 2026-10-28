@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, this is all the pure truth.' Gulya projects a pointed position right away, building the phrase around "chistaya" ("clean") and "pravda" ("honestly") for a crisp, natural delivery.
-- 'But what about us now?' Lyova challenges calmly during the talk, linking "kak" ("how"), "teper" ("now"), and "no" ("but") in one brisk exchange.
-- 'I am getting married there soon.' Gulya strikes a firm tack in the scene, anchoring the Russian line on "skoro" ("soon") and "tam" ("there") without extra filler.
-- 'My mother found a groom for me.' Gulya picks a firm manner right away, anchoring the Russian line on "mama" ("mum, mother") and "nashla" ("found, did you find") without extra filler.
-- 'That is the custom for us at home.' Gulya chooses a clear mood toward Lyova, placing "doma" ("at home") straight beside "prinyato" ("accepted, copy that") with no word for "to be" needed.
-- 'Forgive me, please, for everything.' Gulya maintains an unhurried bearing straight away, leaning on "prosti" ("sorry, forgive me") before closing the thought with "menya" ("me").
-- 'I offered to run away with her today.' Lyova sustains a sharp posture at this moment, building the phrase around "predlozhil" ("suggested") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Just forget about her!' Nastya conveys an easygoing style on the spot, weaving "zabud" ("forget") together with "da" ("yes") just the way native speakers do.
-- 'Nastya will leave the house right now.' Lyova establishes a clear line in this beat, putting "seychas" ("now") alongside "uydyot" ("will leave") in a tight, everyday turn of phrase.
-- 'And you and I will have a talk.' Lyova chooses a pointed approach in the conversation, anchoring the Russian line on "pogovorim" ("we'll have a talk") and "my" ("we") without extra filler.
-- 'That is it, I am running off to the bachelorette party.' Nastya chooses an earnest attitude without hesitation, anchoring the Russian line on "pobezhala" ("ran") and "devichnik" ("bachelorette party") without extra filler.
-- 'Do not drink too much here.' Nastya holds a candid style right away, weaving "tut" ("here") together with "mnogo" ("a lot") just the way native speakers do.
+- 'Lyova, this is all the pure truth.' Gulya underscores one loaded expression at once: "chistaya" means "clean" (from "chistyy"), giving the line its exact edge.
+- 'But what about us now?' Lyova frames the comeback plainly here: putting the question word "kak" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'I am getting married there soon.' Gulya replies honestly with a shrug, shifting the whole mood of the room in a single beat.
+- 'My mother found a groom for me.' Gulya anchors one sharp piece in earnest: "zhenikha" means "groom, fiancé" (from "zhenikh"), giving the line its exact edge.
+- 'That is the custom for us at home.' Gulya lays out the thought with candor: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Forgive me, please, for everything.' Gulya chimes in wryly without holding back, steering the talk right where she wants it.
+- 'I offered to run away with her today.' Lyova centers this telling term with Gulya: "predlozhil" means "suggested" (from "predlozhit"), giving the line its exact edge.
+- 'Just forget about her!' Nastya sharpens this key term at once: "zabud" means "forget" (from "zabyt"), giving the line its exact edge.
+- 'Nastya will leave the house right now.' Lyova cuts in openly toward Gulya, keeping the focus on what actually matters here.
+- 'And you and I will have a talk.' Lyova anchors one sharp expression in earnest: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'That is it, I am running off to the bachelorette party.' Nastya responds sharply as they talk, making her position completely clear.
+- 'Do not drink too much here.' Nastya proceeds promptly to be clear, without trying to dress up how she really feels.

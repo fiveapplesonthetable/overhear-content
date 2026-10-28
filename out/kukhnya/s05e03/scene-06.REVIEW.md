@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where are you going right now?' Denis tests bluntly in their exchange, anchoring the Russian line on "kuda" ("where to") and "seychas" ("now") without extra filler.
-- 'Into our happy future.' Barinov sets a calm tempo in the conversation, anchoring the Russian line on "schastlivoye" ("happy, lucky") and "budushcheye" ("future, next") without extra filler.
-- 'They just fired me.' Denis favors a firm line as the scene unfolds, leaning on "tolko" ("only") before closing the thought with "uvolili" ("to fire, to dismiss").
-- 'Well, there you go, it has started already.' Barinov adopts an earnest approach as the scene unfolds, putting "uzhe" ("already, now") alongside "nachalos" ("to begin, to start") in a tight, everyday turn of phrase.
-- 'Who fired you?' Barinov questions briskly to make the point, building the phrase around "uvolil" ("to fire, to dismiss") and "kto" ("who") for a crisp, natural delivery.
-- 'The hotel owner, Eleonora Andreevna.' Denis establishes an earnest note on the spot, building the phrase around "khozyayka" ("landlady") and "otelya" ("of the hotel") for a crisp, natural delivery.
-- 'That is my ex-wife's name.' Barinov shows an earnest manner toward Denis, weaving "zovut" ("call") together with "byvshuyu" ("former, ex") just the way native speakers do.
-- 'Nobody is going to fire you here.' Barinov shows an honest footing with Eleonora, linking "zdes" ("here"), "uvolit" ("will fire"), and "nikto" ("nobody") in one brisk exchange.
-- 'Why did you not like Denis?' Barinov prompts calmly to Denis here, anchoring the Russian line on "ponravilsya" ("was liked, pleased") and "chem" ("than") without extra filler.
-- 'I actually liked him very much.' Eleonora shares a candid stance in the scene, pairing "ponravilsya" ("was liked, pleased") with "ochen" ("very much") so the "-sya" ending carries the action.
-- 'But he does not know how to cook.' Eleonora maintains a steady approach at once, leaning on "umeyet" ("knows how to") before closing the thought with "gotovit" ("to cook").
-- 'You will not fire anyone from my team.' Barinov takes an earnest position right away, linking "uvolish" ("will fire"), "komandy" ("commands"), and "ty" ("you") in one brisk exchange.
-- 'Under the contract, only I can fire cooks.' Barinov establishes an emphatic style at this moment, combining "kontraktu" ("by contract") and "tolko" ("only") so the key meaning lands right away.
-- 'You said you would not work for me.' Eleonora shares a natural direction during the exchange, putting "skazal" ("said") alongside "budesh" ("will") in a tight, everyday turn of phrase.
-- 'It was your husband who hired me.' Barinov brings a serious style in the conversation, pairing "muzh" ("husband") with "nanimal" ("hired") to get the point across in plain spoken Russian.
-- 'Let him inform me of that in person.' Barinov conveys a candid tone in the conversation, pairing "soobshchit" ("will inform") with "lichno" ("personally") to get the point across in plain spoken Russian.
+- 'And where are you going right now?' Denis challenges briskly where this conversation is heading next.
+- 'Into our happy future.' Barinov features this vivid touch right here: "schastlivoye" means "happy, lucky" (from "schastlivyy"), giving the line its exact edge.
+- 'They just fired me.' Denis lays out the reply frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Well, there you go, it has started already.' Barinov reacts openly in their talk, bringing things back to earth after the buildup.
+- 'Who fired you?' Barinov points to one key expression in earnest: "uvolil" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
+- 'The hotel owner, Eleonora Andreevna.' Denis phrases this statement on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'That is my ex-wife's name.' Barinov steps in earnestly hearing Denis, letting the remark speak for itself.
+- 'Nobody is going to fire you here.' Barinov focuses on this sharp detail toward Eleonora: "uvolit" means "will fire", and it carries the main weight of what Barinov is saying.
+- 'Why did you not like Denis?' Barinov shares the comment on cue: the "-sya" ending on "ponravilsya" ("was liked, pleased") turns the action inward or makes it happen between people naturally.
+- 'I actually liked him very much.' Eleonora opens up earnestly in this moment, grounding the moment in plain reality.
+- 'But he does not know how to cook.' Eleonora highlights one memorable expression on cue: "gotovit" means "to cook", and it carries the main weight of what Eleonora is saying.
+- 'You will not fire anyone from my team.' Barinov frames one sharp expression right here: "komandy" means "commands" (from "komanda"), giving the line its exact edge.
+- 'Under the contract, only I can fire cooks.' Barinov cuts in candidly across the room, saying out loud what both of them already know.
+- 'You said you would not work for me.' Eleonora features one concrete piece in reply: "rabotat" means "to work", and it carries the main weight of what Eleonora is saying.
+- 'It was your husband who hired me.' Barinov centers this clear touch for Denis: "nanimal" means "hired" (from "nanimat"), giving the line its exact edge.
+- 'Let him inform me of that in person.' Barinov fires back earnestly with a smile, grounding the moment in plain reality.

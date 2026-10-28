@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait a second, it says here: Rodion Sergeyevich Barinov!' Barinov takes a thoughtful bearing as they talk, weaving "podozhdite" ("wait") together with "tut" ("here") just the way native speakers do.
-- 'Chef, they wrote it down just the way he told us.' Max keeps a clear posture as the scene unfolds, pairing "kak" ("how") with "skazal" ("said") to get the point across in plain spoken Russian.
-- 'I do not remember my surname, and I wanted something strong-sounding.' Rodion displays a warm tack straight away, pairing "khotelos" ("to feel like") with "familii" ("surname, last name") so the "-sya" ending carries the action.
-- 'Rodion Sergeyevich Barinov! And with a full set of documents!' Max takes a thoughtful stance with Rodion, linking "polnym" ("full, complete"), "paketom" ("with a package"), and "dokumentov" ("documents") in one brisk exchange.
-- 'Even I do not have all such authentic documents.' Barinov displays a lively posture in their talk, using the everyday "u menya" ("by me") alongside "nastoyashchiye" ("real") to show what belongs to the speaker.
-- 'I will fire him anyway for professional incompetence.' Max shares a brisk bearing in front of Rodion, weaving "ravno" ("the same") together with "uvolyu" ("will fire") just the way native speakers do.
-- 'And how will you determine that? Just by his eyes?' Barinov challenges plainly in this moment, weaving "kak" ("how") together with "opredelite" ("you will determine") just the way native speakers do.
-- 'Right now he will cook something for us, and everything will be clear.' Max chooses an unhurried angle at this moment, pairing "seychas" ("now") with "prigotovit" ("makes, cooks") to get the point across in plain spoken Russian.
-- 'And here is the first order: fish and meat with vegetables.' Max shows an emphatic note without hesitation, combining "pervyy" ("first") and "zakaz" ("order") so the key meaning lands right away.
-- 'He will not cook anything, I am his boss here!' Barinov adopts an easygoing style toward Rodion, pairing "gotovit" ("to cook") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, this is just a simple dish with vegetables.' Rodion holds a natural footing on the spot, anchoring the Russian line on "prostoye" ("simple") and "blyudo" ("dish") without extra filler.
-- 'Well, what is there even to take long cooking here, tell me?' Rodion tests decisively without hesitation, joining "tut" ("here") to "voobshche" ("at all") so every word pulls its weight.
+- 'Wait a second, it says here: Rodion Sergeyevich Barinov!' Barinov speaks decisively as they talk, leaving no doubt about where he stands.
+- 'Chef, they wrote it down just the way he told us.' Max counters wryly beside Rodion, letting the remark speak for itself.
+- 'I do not remember my surname, and I wanted something strong-sounding.' Rodion highlights one key term for Barinov: "zvuchnoye" means "resonant" (from "zvuchnyy"), giving the line its exact edge.
+- 'Rodion Sergeyevich Barinov! And with a full set of documents!' Max speaks dryly across the room, grounding the moment in plain reality.
+- 'Even I do not have all such authentic documents.' Barinov pushes back evenly without a pause, refusing to let the moment slip past.
+- 'I will fire him anyway for professional incompetence.' Max favors one familiar element in earnest: "professionalnoye" means "professional" (from "professionalnyy"), giving the line its exact edge.
+- 'And how will you determine that? Just by his eyes?' Barinov frames the comment without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Right now he will cook something for us, and everything will be clear.' Max responds quietly during the talk, testing Rodion's reaction in the middle of the exchange.
+- 'And here is the first order: fish and meat with vegetables.' Max grounds one classic element in reply: "ovoshchami" means "with vegetables" (from "ovoshch"), giving the line its exact edge.
+- 'He will not cook anything, I am his boss here!' Barinov frames the comeback without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Viktor Petrovich, this is just a simple dish with vegetables.' Rodion proceeds promptly with a shrug, making his position completely clear.
+- 'Well, what is there even to take long cooking here, tell me?' Rodion picks this telling term in earnest: "voobshche" means "at all", and it carries the main weight of what Rodion is saying.

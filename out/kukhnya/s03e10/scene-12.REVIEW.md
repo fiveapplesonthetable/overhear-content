@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She thinks that she is conducting an orchestra.' Max picks a resolute angle at this moment, pairing "kazhetsya" ("it seems, I think") with "dirizhiruyet" ("conducts") to get the point across in plain spoken Russian.
-- 'Right now she is having a seasonal flare-up.' Max strikes an unhurried approach during the exchange, building the phrase around "seychas" ("now") and "sezonnoye" ("seasonal") for a crisp, natural delivery.
-- 'She could land right back in the clinic.' Max sets a direct bearing for Barinov, pairing "mozhet" ("can") with "kliniku" ("clinic") to get the point across in plain spoken Russian.
-- 'Just do not tell anyone about this, the Chef will get upset.' Max maintains a resolute tone toward Katya, putting "tolko" ("only") alongside "govori" ("say, talk") in a tight, everyday turn of phrase.
-- 'So what do you do for a living?' Barinov inquires quietly at this point, anchoring the Russian line on "voobshche" ("at all") and "zanimayetes" ("are busy with") without extra filler.
-- 'I work with people all the time.' Katya maintains a grounded style in the room, weaving "postoyanno" ("constantly") together with "lyudmi" ("people") just the way native speakers do.
-- 'Wait, I will guess it myself right now.' Barinov offers a calm line in this beat, using "podozhdite" (from "podozhdat", "wait") alongside "seychas" ("now") to shape the meaning.
-- 'Are you a teacher, a doctor, or a flight attendant?' Barinov inquires frankly for Max's benefit, linking "uchitelnitsa" ("teacher"), "vrach" ("doctor"), and "styuardessa" ("flight attendant") in one brisk exchange.
-- 'Hello, I am very busy right now.' Katya strikes a direct approach without hesitation, joining "seychas" ("now") to "ochen" ("very much") so every word pulls its weight.
-- 'Vitya, after dinner will we go to your place?' Katya questions openly on the spot, pairing "uzhina" ("dinner, supper") with "poyedem" ("will be off") to get the point across in plain spoken Russian.
-- 'Why would we go to my place?' Barinov tests wryly for Katya's benefit, leaning on "zachem" ("what for") before closing the thought with "yekhat" ("to drive, to go").
-- 'Or to a hotel, will there be a continuation of the party?' Katya tests openly during the talk, weaving "gostinitsu" ("the hotel") together with "prodolzheniye" ("continuation") just the way native speakers do.
+- 'She thinks that she is conducting an orchestra.' Max holds firm warmly in this moment, saying out loud what both of them already know.
+- 'Right now she is having a seasonal flare-up.' Max underscores one vivid expression on cue: "obostreniye" means "flare-up, relapse", and it carries the main weight of what Max is saying.
+- 'She could land right back in the clinic.' Max answers decisively with a sigh, refusing to let the moment slip past.
+- 'Just do not tell anyone about this, the Chef will get upset.' Max chimes in at once in their talk, making his position completely clear.
+- 'So what do you do for a living?' Barinov stresses this direct detail right here: "zanimayetes" means "are busy with" (from "zanimatsya"), giving the line its exact edge.
+- 'I work with people all the time.' Katya chimes in plainly without a pause, to clear the air between them once and for all.
+- 'Wait, I will guess it myself right now.' Barinov weighs in honestly during the talk, bringing things back to earth after the buildup.
+- 'Are you a teacher, a doctor, or a flight attendant?' Barinov highlights one key detail in earnest: "uchitelnitsa" means "teacher", and it carries the main weight of what Barinov is saying.
+- 'Hello, I am very busy right now.' Katya states the thought beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vitya, after dinner will we go to your place?' Katya presses openly before Max can change the subject.
+- 'Why would we go to my place?' Barinov colors this telling detail with Katya: "yekhat" means "to drive, to go", and it carries the main weight of what Barinov is saying.
+- 'Or to a hotel, will there be a continuation of the party?' Katya phrases the reply before Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.

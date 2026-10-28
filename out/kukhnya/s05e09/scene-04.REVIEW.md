@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well there, something like that.' Barinov establishes a thoughtful posture as the scene unfolds, leaning on "kak-to" ("somehow, a bit") before closing the thought with "nu" ("oh, come on").
-- 'Listen, how slim you used to be!' Elena keeps a brisk view without hesitation, joining "slushay" ("listen") to "byl" ("was") so every word pulls its weight.
-- 'Are you hinting again that I am fat?' Barinov wonders candidly for Elena's benefit, anchoring the Russian line on "opyat" ("again") and "namekayesh" ("are hinting") without extra filler.
-- 'No, I am just saying that you were slim.' Elena maintains a calm note on the spot, putting "prosto" ("just") alongside "govoryu" ("am telling") in a tight, everyday turn of phrase.
-- 'I can lose weight at any moment!' Barinov sets a warm style straight away, putting "mogu" ("can") alongside "pokhudet" ("to lose weight") in a tight, everyday turn of phrase.
-- 'So here is the deal.' Elena adopts a steady angle in the conversation, anchoring the Russian line on "znachit" ("then, so") and "tak" ("so") without extra filler.
-- 'In a week you will recover.' Elena conveys a measured position as the scene unfolds, joining "nedelyu" ("for a week") to "popravishsya" ("recover, get better") so every word pulls its weight.
-- 'We have a date at the restaurant.' Elena projects a pointed style right away, linking "svidaniye" ("date"), "restorane" ("restaurant"), and "nas" ("us") in one brisk exchange.
-- 'And I will be in this suit.' Barinov strikes a direct course without hesitation, joining "budu" ("will be") to "kostyume" ("costume") so every word pulls its weight.
-- 'And it will be a bit too big on me!' Barinov favors a candid tack right away, using "budet" (from "byt", "will be") alongside "velikovat" ("a bit too big") to shape the meaning.
-- 'We will see!' Elena brings a warm course in the conversation, leaning on "posmotrim" ("have a look") as a compact, one-word response that needs no extra words.
-- 'I am telling you for sure!' Barinov maintains a candid direction in this beat, combining "tochno" ("definitely") and "govoryu" ("am telling") so the key meaning lands right away.
+- 'Well there, something like that.' Barinov anchors this key term toward Elena: "kak-to" means "somehow, a bit", and it carries the main weight of what Barinov is saying.
+- 'Listen, how slim you used to be!' Elena sharpens one concrete touch on cue: "stroynyy" means "slim, slender", and it carries the main weight of what Elena is saying.
+- 'Are you hinting again that I am fat?' Barinov quizzes deadpan whether Elena really thought this through.
+- 'No, I am just saying that you were slim.' Elena colors one key word in reply: "stroynyy" means "slim, slender", and it carries the main weight of what Elena is saying.
+- 'I can lose weight at any moment!' Barinov answers boldly hearing Elena, so Elena knows he is not just making small talk.
+- 'So here is the deal.' Elena reacts warmly without any doubt, without trying to dress up how she really feels.
+- 'In a week you will recover.' Elena leans on one telling touch in reply: "popravishsya" means "recover, get better" (from "popravitsya"), giving the line its exact edge.
+- 'We have a date at the restaurant.' Elena phrases this statement beside Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'And I will be in this suit.' Barinov replies promptly before Elena, watching Elena's face to see how the news lands.
+- 'And it will be a bit too big on me!' Barinov leans on this clear word for Elena: "velikovat" means "a bit too big" (from "velikovatyy"), giving the line its exact edge.
+- 'We will see!' Elena directs this line briskly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'I am telling you for sure!' Barinov chimes in boldly watching Elena, before Elena can change the subject.

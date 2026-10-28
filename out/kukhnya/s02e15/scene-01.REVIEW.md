@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When it is time to move to the next level.' Nastya adopts a measured course in the room, pairing "kogda" ("when") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
-- 'However, if you want dessert, you have to come to our place.' Max displays a resolute style during the exchange, anchoring the Russian line on "khotite" ("want") and "desert" ("dessert") without extra filler.
-- 'For some people, this comes with great difficulty.' Nastya picks a pointed style across the room, pairing "poluchayetsya" ("works out") with "nekotorykh" ("some, certain") so the "-sya" ending carries the action.
-- 'Sweets late at night.' Max holds a steady line right away, building the phrase around "sladkaya" ("sweet") and "noch" ("night") for a crisp, natural delivery.
-- 'Instead of dessert, let us go to my place and have some coffee.' Nastya picks a direct position in the room, weaving "davayte" ("let's") together with "deserta" ("dessert") just the way native speakers do.
-- 'Oh sure, coffee late at night is much healthier.' Max takes a clear attitude in this beat, joining "kofe" ("of coffee") to "noch" ("night") so every word pulls its weight.
-- 'Ah, to your place.' Nastya maintains a brisk approach as the scene unfolds, putting all the weight on "vam" ("you") so the reply lands immediately.
-- 'I would love to.' Max picks a pointed rhythm in the conversation, pairing "udovolstviyem" ("pleasure") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'I adore drinking coffee at night.' Nastya favors an earnest line as they talk, linking "obozhayu" ("adore"), "kofe" ("of coffee"), and "noch" ("night") in one brisk exchange.
-- 'Which t-shirt do you like me in better?' Max quizzes dryly as they speak, joining "futbolke" ("T-shirt") to "bolshe" ("more") so every word pulls its weight.
-- 'In this one or in that one?' Nastya challenges decisively in the room, weaving "etoy" ("this") together with "ili" ("or") just the way native speakers do.
-- 'What are you two doing in here?' Max questions frankly as the talk turns, pairing "tut" ("here") with "zanimayetes" ("are busy with") to get the point across in plain spoken Russian.
-- 'Well, yes.' Nastya displays a direct tack right away, putting "nu" ("oh, come on") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'When it is time to move to the next level.' Nastya colors one familiar choice in earnest: "sleduyushchiy" means "next", and it carries the main weight of what Nastya is saying.
+- 'However, if you want dessert, you have to come to our place.' Max lays out that thought with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'For some people, this comes with great difficulty.' Nastya holds firm quietly to settle things, steering the talk right where she wants it.
+- 'Sweets late at night.' Max points to one classic choice with Nastya: "sladkaya" means "sweet" (from "sladkiy"), giving the line its exact edge.
+- 'Instead of dessert, let us go to my place and have some coffee.' Nastya brings that line at once: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'Oh sure, coffee late at night is much healthier.' Max speaks earnestly beside Nastya, steering the talk right where he wants it.
+- 'Ah, to your place.' Nastya brings this statement with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I would love to.' Max delivers this point at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I adore drinking coffee at night.' Nastya speaks up at once as things stand, bringing things back to earth after the buildup.
+- 'Which t-shirt do you like me in better?' Max centers this clear word right here: "futbolke" means "T-shirt" (from "futbolka"), giving the line its exact edge.
+- 'In this one or in that one?' Nastya aims the thought with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'What are you two doing in here?' Max questions straight out while looking straight at Nastya here.
+- 'Well, yes.' Nastya lays out this point beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

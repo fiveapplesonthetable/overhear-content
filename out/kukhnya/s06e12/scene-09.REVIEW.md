@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, come into my office for a minute.' Barinov shares a thoughtful angle in their talk, pairing "zaydi" ("come in") with "kabinet" ("office") to get the point across in plain spoken Russian.
-- 'Here, I invented a new sauce, taste it quickly.' Barinov shows a clear mood for Senya, linking "pridumal" ("came up with"), "novyy" ("new"), and "sous" ("sauce") in one brisk exchange.
-- 'Thank you very much for trusting me specifically.' Senya adopts an emphatic manner beside Barinov, leaning on "bolshoye" ("big, very much") before closing the thought with "spasibo" ("thank you").
-- 'Careful, the sauce is hot, do not jump to conclusions right away.' Barinov brings a resolute rhythm right away, linking "ostorozhno" ("careful, carefully"), "sous" ("sauce"), and "goryachiy" ("hot") in one brisk exchange.
-- 'Wait a little, because the aftertaste is very important here.' Barinov offers an honest rhythm toward Senya, joining "podozhdi" ("wait") to "nemnogo" ("a bit") so every word pulls its weight.
-- 'Well how do you like my new sauce, Senya?' Barinov challenges plainly to keep things clear, joining "kak" ("how") to "novyy" ("new") so every word pulls its weight.
-- 'Honestly speaking, this new sauce of yours is not tasty at all.' Senya sustains a natural position in front of Barinov, joining "chestno" ("honestly") to "govorya" ("speaking") so every word pulls its weight.
-- 'There is too much sage here, it is simply impossible to eat.' Senya holds an emphatic style without hesitation, building the phrase around "zdes" ("here") and "shalfeya" ("sage") for a crisp, natural delivery.
-- 'Such nonsense you sometimes cook in the kitchen, chef!' Senya holds a warm tack as they talk, using "yerundu" (from "yerunda", "nonsense") alongside "inogda" ("sometimes, at times") to shape the meaning.
-- 'Interesting, you never said that to me before.' Barinov favors an honest approach straight away, joining "interesno" ("interesting") to "ranshe" ("earlier, previously") so every word pulls its weight.
-- 'I do not even know what suddenly came over me.' Senya adopts a clear view in front of Barinov, anchoring the Russian line on "znayu" ("know") and "vdrug" ("suddenly, what if") without extra filler.
-- 'Probably it just built up inside, alright, I will go work.' Senya keeps a wry footing as they talk, joining "navernoye" ("probably") to "prosto" ("just") so every word pulls its weight.
+- 'Senya, come into my office for a minute.' Barinov opens up steadily to be clear, so Senya knows he is not just making small talk.
+- 'Here, I invented a new sauce, taste it quickly.' Barinov frames one familiar word right here: "pridumal" means "came up with" (from "pridumat"), giving the line its exact edge.
+- 'Thank you very much for trusting me specifically.' Senya states this warning with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Careful, the sauce is hot, do not jump to conclusions right away.' Barinov continues pointedly beside Senya, bringing things back to earth after the buildup.
+- 'Wait a little, because the aftertaste is very important here.' Barinov grounds one loaded term on cue: "poslevkusiye" means "aftertaste", and it carries the main weight of what Barinov is saying.
+- 'Well how do you like my new sauce, Senya?' Barinov aims the thought facing Senya: putting the question word "kak" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Honestly speaking, this new sauce of yours is not tasty at all.' Senya stands firm at once in their talk, keeping the focus on what actually matters here.
+- 'There is too much sage here, it is simply impossible to eat.' Senya grounds one familiar piece with Barinov: "nevozmozhno" means "impossible", and it carries the main weight of what Senya is saying.
+- 'Such nonsense you sometimes cook in the kitchen, chef!' Senya grounds one vivid element right here: "yerundu" means "nonsense" (from "yerunda"), giving the line its exact edge.
+- 'Interesting, you never said that to me before.' Barinov speaks up openly in this moment, refusing to let the moment slip past.
+- 'I do not even know what suddenly came over me.' Senya features one practical piece for Barinov: "nashlo" means "to find" (from "nayti"), giving the line its exact edge.
+- 'Probably it just built up inside, alright, I will go work.' Senya states the reaction toward Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

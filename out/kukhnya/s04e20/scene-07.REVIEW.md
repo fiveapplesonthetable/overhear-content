@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, and where is our cook Barinov?' Barinov questions openly toward Nagiyev here, linking "gde" ("where"), "povar" ("chef, cook"), and "dima" ("Dima") in one brisk exchange.
-- 'I do not know, he is probably sleeping at home.' Nagiyev brings a natural style straight away, leaning on "znayu" ("know") before closing the thought with "spit" ("is sleeping").
-- 'And why are you wearing a hat today?' Barinov probes decisively with Nagiyev now, linking "segodnya" ("today"), "shapke" ("hat, winter cap"), and "ty" ("you") in one brisk exchange.
-- 'Good grief, Dima, what is that on you?' Barinov probes firmly for Nagiyev's benefit, pairing "gospodi" ("Good Lord") with "dima" ("Dima") to get the point across in plain spoken Russian.
-- 'What is this? It is my big brain.' Nagiyev quizzes steadily at this point, weaving "bolshoy" ("big") together with "mozg" ("brain") just the way native speakers do.
-- 'It is too smart, so it bulges out.' Nagiyev chooses a sharp position as they talk, placing "slishkom" ("too") straight beside "umnyy" ("smart, clever") with no word for "to be" needed.
-- 'Excuse me for being late, I am here already!' Barinov keeps a sharp tack in this beat, building the phrase around "izvinite" ("sorry, excuse me") and "opozdaniye" ("being late") for a crisp, natural delivery.
-- 'Viktor Petrovich, and what happened to you?' Nagiyev challenges warmly as the beat lands, weaving "viktor" ("Viktor") together with "petrovich" ("Petrovich") just the way native speakers do.
-- 'Nothing serious, I accidentally slipped on a bald head.' Barinov shares a candid angle in the scene, combining "strashnogo" ("terrible, serious") and "sluchayno" ("by any chance") so the key meaning lands right away.
-- 'Do not worry, I will film today.' Barinov presents a clear attitude toward Nagiyev, pairing "volnuytes" ("worry") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'Dima, guess which finger I am showing?' Barinov inquires earnestly without holding back, putting "ugaday" ("to guess correctly") alongside "palets" ("finger") in a tight, everyday turn of phrase.
-- 'All right, everyone take your places quickly!' Nagiyev establishes a grounded stance beside Barinov, anchoring the Russian line on "bystro" ("quickly") and "zanimayte" ("take") without extra filler.
+- 'Dima, and where is our cook Barinov?' Barinov colors this direct expression with Nagiyev: "povar" means "chef, cook", and it carries the main weight of what Barinov is saying.
+- 'I do not know, he is probably sleeping at home.' Nagiyev continues promptly across the room, without trying to dress up how he really feels.
+- 'And why are you wearing a hat today?' Barinov probes calmly where this conversation is heading next.
+- 'Good grief, Dima, what is that on you?' Barinov hands over the remark facing Nagiyev: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'What is this? It is my big brain.' Nagiyev voices the comeback facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It is too smart, so it bulges out.' Nagiyev responds at once in this moment, to clear the air between them once and for all.
+- 'Excuse me for being late, I am here already!' Barinov sharpens one sharp piece in earnest: "opozdaniye" means "being late", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich, and what happened to you?' Nagiyev frames that thought around Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Nothing serious, I accidentally slipped on a bald head.' Barinov opens up evenly with a shrug, bringing things back to earth after the buildup.
+- 'Do not worry, I will film today.' Barinov reaches for one telling word on cue: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'Dima, guess which finger I am showing?' Barinov states the reaction beside Nagiyev: putting the question word "kakoy" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'All right, everyone take your places quickly!' Nagiyev cuts in wryly with a sigh, saying out loud what both of them already know.

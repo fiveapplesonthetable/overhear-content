@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Dad, you startled me so badly!' Katya establishes a brisk style as the scene unfolds, building the phrase around "papa" ("Dad") and "silno" ("strongly, much") for a crisp, natural delivery.
-- 'Tell me, what are you even doing here?' Katya challenges evenly for German's benefit, weaving "skazhi" ("say") together with "voobshche" ("at all") just the way native speakers do.
-- 'I wanted to see how work is going for you here.' Barinov offers a calm footing straight away, putting "khotel" ("wanted") alongside "posmotret" ("to look up") in a tight, everyday turn of phrase.
-- 'I see you have become friends with Eva here.' Barinov adopts a natural tone toward Katya, linking "smotryu" ("look"), "tut" ("here"), and "podruzhilas" ("to make friends") in one brisk exchange.
-- 'I want to talk about what she was telling you.' Barinov offers a sharp tone in this beat, building the phrase around "khochu" ("want") and "pogovorit" ("to talk") for a crisp, natural delivery.
-- 'Dad, Eva is, of course, a girl with quirks.' Katya displays a direct approach in this beat, combining "papa" ("Dad") and "konechno" ("of course") so the key meaning lands right away.
-- 'But I do not share her interests at all!' Katya keeps a frank posture at once, leaning on "sovsem" ("at all") before closing the thought with "razdelyayu" ("all").
-- 'I do not plan to date old men.' Katya displays an unhurried style during the exchange, pairing "vstrechatsya" ("to meet") with "starymi" ("old") so the "-sya" ending carries the action.
-- 'Viktor Petrovich, good afternoon, are you at our place again?' German questions decisively right away, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
-- 'For urgent news they invented the ordinary telephone long ago!' German holds an honest tempo as they talk, joining "srochnykh" ("urgent, pressing") to "novostey" ("of news") so every word pulls its weight.
-- 'Katya, indeed, let me better give you a call!' Barinov sets a clear note for German, anchoring the Russian line on "deystvitelno" ("really, indeed") and "davay" ("let's") without extra filler.
-- 'Poor German, how badly he is suffering because of me!' Katya chooses an emphatic rhythm as the scene unfolds, joining "bednyy" ("poor") to "kak" ("how") so every word pulls its weight.
+- 'Oh, Dad, you startled me so badly!' Katya chooses one colorful expression for Barinov: "napugal" means "scared, did you scare" (from "napugat"), giving the line its exact edge.
+- 'Tell me, what are you even doing here?' Katya presses sharply how German expects that to work in practice.
+- 'I wanted to see how work is going for you here.' Barinov picks this sharp detail on cue: "rabotayetsya" means "to going" (from "rabotatsya"), giving the line its exact edge.
+- 'I see you have become friends with Eva here.' Barinov directs this point facing Katya: the "-sya" ending on "podruzhilas" ("to make friends") turns the action inward or makes it happen between people naturally.
+- 'I want to talk about what she was telling you.' Barinov weighs in decisively before German, testing German's reaction in the middle of the exchange.
+- 'Dad, Eva is, of course, a girl with quirks.' Katya spotlights this key term for German: "strannostyami" means "quirks" (from "strannostya"), giving the line its exact edge.
+- 'But I do not share her interests at all!' Katya aims the comment around Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I do not plan to date old men.' Katya pushes back honestly on the spot, saying out loud what both of them already know.
+- 'Viktor Petrovich, good afternoon, are you at our place again?' German colors one concrete choice at once: "dobryy" means "good", and it carries the main weight of what German is saying.
+- 'For urgent news they invented the ordinary telephone long ago!' German proceeds steadily to settle things, before Katya can change the subject.
+- 'Katya, indeed, let me better give you a call!' Barinov answers quietly with a sigh, watching German's face to see how the news lands.
+- 'Poor German, how badly he is suffering because of me!' Katya centers one colorful choice for German: "stradayet" means "to suffer" (from "stradat"), giving the line its exact edge.

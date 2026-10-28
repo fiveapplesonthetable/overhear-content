@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, get to work.' Kostya presents an unhurried line straight away, leaning on "davay" ("let's") before closing the thought with "pristupay" ("get to, start").
-- 'Nastya, why do we need someone else's apartment?' Kostya wonders honestly right away, pairing "zachem" ("what for") with "chuzhaya" ("someone else's") to get the point across in plain spoken Russian.
-- 'We were going to do renovations in our own place.' Kostya offers a clear rhythm as the scene unfolds, combining "sobiralis" ("to intend") and "remont" ("renovation") so the key meaning lands right away.
-- 'That is right, this apartment is for Max.' Nastya displays a brisk angle in this beat, linking "pravilno" ("right") directly with "kvartira" ("flat"), since Russian drops "is" and "are" in the present.
-- 'He got upset when you told him.' Nastya shares an easygoing line right away, building the phrase around "rasstroilsya" ("got upset") and "kogda" ("when") for a crisp, natural delivery.
-- 'Listen, I found an interesting apartment.' Max sets a wry rhythm with Nastya, leaning on "slushayte" ("listen") before closing the thought with "interesnuyu" ("interesting").
-- 'And we already found an apartment for you.' Nastya maintains a wry style in this beat, joining "uzhe" ("already, now") to "nashli" ("found, did find") so every word pulls its weight.
-- 'Here are the keys, there is a very nice renovation there.' Nastya adopts a steady approach at once, combining "klyuchi" ("the keys") and "tam" ("there") so the key meaning lands right away.
-- 'And most importantly, it is paid through the end of the year.' Nastya keeps a steady tempo in their talk, weaving "glavnoye" ("important") together with "oplacheno" ("paid for") just the way native speakers do.
-- 'Oh, awesome, thank you so much!' Max strikes a resolute position right away, linking "klass" ("cool, great"), "bolshoye" ("big, very much"), and "spasibo" ("thank you") in one brisk exchange.
-- 'Except this is Vika's apartment.' Kostya favors an honest tack during the exchange, pairing "tolko" ("only") with "kvartira" ("flat") to get the point across in plain spoken Russian.
-- 'Are you kidding me? Maybe I should move in with Nagiyev?' Max checks frankly without holding back, putting "izdevayetes" ("are you mocking") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
+- 'Come on, get to work.' Kostya anchors one concrete touch right here: "pristupay" means "get to, start" (from "pristupat"), giving the line its exact edge.
+- 'Nastya, why do we need someone else's apartment?' Kostya directs this update briskly now: putting the question word "zachem" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'We were going to do renovations in our own place.' Kostya weighs in calmly without holding back, bringing things back to earth after the buildup.
+- 'That is right, this apartment is for Max.' Nastya frames this telling word toward Max: "kvartira" means "flat", and it carries the main weight of what Nastya is saying.
+- 'He got upset when you told him.' Nastya brings this line right away: the "-sya" ending on "rasstroilsya" ("got upset") turns the action inward or makes it happen between people naturally.
+- 'Listen, I found an interesting apartment.' Max answers calmly with Nastya, letting the remark speak for itself.
+- 'And we already found an apartment for you.' Nastya colors one vivid expression toward Kostya: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Here are the keys, there is a very nice renovation there.' Nastya offers that answer plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And most importantly, it is paid through the end of the year.' Nastya counters sharply with a nod, refusing to let the moment slip past.
+- 'Oh, awesome, thank you so much!' Max emphasizes one pointed piece at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Except this is Vika's apartment.' Kostya frames this statement around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Are you kidding me? Maybe I should move in with Nagiyev?' Max checks bluntly where this conversation is heading next.

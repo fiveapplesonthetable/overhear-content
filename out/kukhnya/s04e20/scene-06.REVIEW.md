@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's drink to our long friendship!' Nagiyev holds a measured manner in the conversation, weaving "davay" ("let's") together with "vypyem" ("will drink") just the way native speakers do.
-- 'Dima, maybe we really shouldn't today?' Barinov asks firmly to keep things clear, pairing "mozhet" ("can") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'I still have to perform on the show tomorrow.' Barinov sets a steady attitude across the room, linking "yeshchyo" ("more, still"), "zavtra" ("tomorrow"), and "shou" ("show") in one brisk exchange.
-- 'And I have to host that show tomorrow!' Nagiyev conveys a grounded course in the room, pairing "shou" ("show") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
-- 'Who are we even afraid of, my friend?' Nagiyev asks calmly to Barinov here, combining the conversational booster "voobshche" ("in general, overall") with "boimsya" ("to be afraid") to give the line its natural spoken rhythm.
-- 'Why are you bothering that plant?' Barinov asks firmly to Nagiyev here, anchoring the Russian line on "zachem" ("what for") and "rasteniyu" ("plant") without extra filler.
-- 'Look, we have snacks on the table.' Barinov displays a serious position in the room, putting "smotri" ("look") alongside "stole" ("table") in a tight, everyday turn of phrase.
-- 'Wait, why does your flower smell like whisky?' Nagiyev challenges warmly for Barinov's benefit, anchoring the Russian line on "podozhdi" ("wait") and "pochemu" ("why") without extra filler.
-- 'I do not know why it smells like that.' Barinov sets a playful angle as they talk, anchoring the Russian line on "znayu" ("know") and "pochemu" ("why") without extra filler.
-- 'It seems I have finally understood everything right now!' Nagiyev chooses a brisk rhythm beside Barinov, pairing "kazhetsya" ("it seems, I think") with "seychas" ("now") so the "-sya" ending carries the action.
-- 'You wanted to get me drunk on purpose!' Nagiyev chooses a brisk rhythm straight away, leaning on "khotel" ("wanted") before closing the thought with "spetsialno" ("on purpose").
-- 'So that I could not perform tomorrow!' Nagiyev shows a warm stance beside Barinov, weaving "smog" ("to be able") together with "zavtra" ("tomorrow") just the way native speakers do.
+- 'Let's drink to our long friendship!' Nagiyev proceeds firmly with a shrug, letting the remark speak for itself.
+- 'Dima, maybe we really shouldn't today?' Barinov spotlights this direct piece at once: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'I still have to perform on the show tomorrow.' Barinov answers openly during the talk, refusing to let the moment slip past.
+- 'And I have to host that show tomorrow!' Nagiyev fires back right away with a nod, shifting the whole mood of the room in a single beat.
+- 'Who are we even afraid of, my friend?' Nagiyev grounds this direct word in earnest: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
+- 'Why are you bothering that plant?' Barinov brings that reply briskly now: putting the question word "zachem" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Look, we have snacks on the table.' Barinov pushes back at once as they talk, keeping the focus on what actually matters here.
+- 'Wait, why does your flower smell like whisky?' Nagiyev spotlights one vivid detail with Barinov: "tsvetok" means "flower", and it carries the main weight of what Nagiyev is saying.
+- 'I do not know why it smells like that.' Barinov answers lightly to settle things, leaving no doubt about where he stands.
+- 'It seems I have finally understood everything right now!' Nagiyev responds right away without a pause, watching Barinov's face to see how the news lands.
+- 'You wanted to get me drunk on purpose!' Nagiyev centers one key touch for Barinov: "spetsialno" means "on purpose", and it carries the main weight of what Nagiyev is saying.
+- 'So that I could not perform tomorrow!' Nagiyev steps in boldly hearing Barinov, bringing things back to earth after the buildup.

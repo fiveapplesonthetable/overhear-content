@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I salted it two minutes ago.' Barinov projects an earnest attitude during the exchange, building the phrase around "solil" ("to salt, to pickle") and "minuty" ("minutes") for a crisp, natural delivery.
-- 'Do not get smart with me.' Vika favors a direct mood in this beat, pairing "umnichay" ("to act smart") with "ne" ("not") to get the point across in plain spoken Russian.
-- 'Wait a minute, where do you think you are going?' Barinov queries pointedly in their exchange, anchoring the Russian line on "ponyal" ("understood") and "kuda" ("where to") without extra filler.
-- 'Actually, I am on vacation.' Vika sets a grounded line in this beat, combining "voobshche-to" ("actually") and "otpuske" ("vacation") so the key meaning lands right away.
-- 'You signed the request form yourself.' Barinov holds a resolute tempo across the room, weaving "zayavleniye" ("statement") together with "podpisali" ("to sign") just the way native speakers do.
-- 'Was I drunk when I signed it?' Max presses candidly as the talk turns, leaning on "pyanyy" ("drunk") before closing the thought with "byl" ("was").
-- 'Well, then it does not count.' Barinov maintains an unhurried tone in their talk, pairing "togda" ("back then") with "schitayetsya" ("to be considered") to get the point across in plain spoken Russian.
-- 'You should have warned me beforehand.' Vika displays a steady view right away, combining "preduprezhdat" ("to warn") and "nado" ("it is necessary") so the key meaning lands right away.
-- 'It is not my fault.' Barinov strikes a frank position in this beat, placing "vinovat" ("at fault, guilty") straight beside "ya" ("I") with no word for "to be" needed.
-- 'I do not know anything about that.' Vika offers a clear posture at this moment, building the phrase around "znayu" ("know") and "nichego" ("nothing") for a crisp, natural delivery.
-- 'I have plans of my own...' Barinov shows an emphatic tone without hesitation, putting all the weight on "menya" ("me") so the reply lands immediately.
-- 'Will they pay us extra for covering?' Vika questions bluntly to keep things clear, weaving "doplachivat" ("to pay extra") together with "budut" ("there will be") just the way native speakers do.
-- 'I still do not want to do it anyway.' Barinov projects a serious angle in this beat, joining "ravno" ("the same") to "khochu" ("want") so every word pulls its weight.
+- 'I salted it two minutes ago.' Barinov highlights one direct word for Max: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
+- 'Do not get smart with me.' Vika drops this point briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Wait a minute, where do you think you are going?' Barinov prompts promptly to see how Max will answer on the spot.
+- 'Actually, I am on vacation.' Vika frames one vivid term toward Max: "voobshche-to" means "actually", and it carries the main weight of what Vika is saying.
+- 'You signed the request form yourself.' Barinov picks one pointed touch in reply: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
+- 'Was I drunk when I signed it?' Max asks sharply in front of Vika without any preamble.
+- 'Well, then it does not count.' Barinov frames one memorable piece toward Max: "schitayetsya" means "to be considered" (from "schitatsya"), giving the line its exact edge.
+- 'You should have warned me beforehand.' Vika delivers the reaction for Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'It is not my fault.' Barinov replies frankly in their talk, before Max can change the subject.
+- 'I do not know anything about that.' Vika points to one memorable detail right here: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'I have plans of my own...' Barinov puts that answer briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Will they pay us extra for covering?' Vika asks earnestly how Max expects that to work in practice.
+- 'I still do not want to do it anyway.' Barinov leans on one pointed touch in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.

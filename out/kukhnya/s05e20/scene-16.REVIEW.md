@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Katya, how is our chef doing there?' Gulya probes dryly in the room, joining "kak" ("how") to "tam" ("there") so every word pulls its weight.
-- 'The doctors said everything is fine, he will live.' Katya shares a direct line without hesitation, leaning on "vrachi" ("doctors") before closing the thought with "skazali" ("told").
-- 'Honestly speaking, I was so scared for him.' Katya strikes an emphatic note right away, leaning on "chestno" ("honestly") before closing the thought with "govorya" ("speaking").
-- 'Listen, do you want me to cheer you up?' Gulya challenges bluntly as the talk turns, pairing "slushay" ("listen") with "khochesh" ("do you want") to get the point across in plain spoken Russian.
-- 'Sit down here for a minute and take a look.' Gulya takes a warm posture on the spot, building the phrase around "prisyad" ("sit down") and "syuda" ("here") for a crisp, natural delivery.
-- 'Those jokers Fedya and Senya pranked Lyova and me.' Gulya maintains a firm mood for Katya, pairing "shutniki" ("pranksters") with "lyovoy" ("with Lyova") to get the point across in plain spoken Russian.
-- 'They were writing messages to me from his phone.' Gulya favors a natural note as they talk, joining "pisali" ("to write") to "soobshcheniya" ("messages") so every word pulls its weight.
-- 'Oh, the screen disappeared, I pressed something.' Katya holds an honest view in front of Gulya, leaning on "kartinka" ("picture, illustration") before closing the thought with "propala" ("disappeared").
-- 'Wait, this is Nikita's phone after all.' Katya favors a pointed course toward Gulya, building the phrase around "podozhdi" ("wait") and "telefon" ("phone") for a crisp, natural delivery.
-- 'And why is my mom in the messages here?' Katya asks candidly as they speak, leaning on "pochemu" ("why") before closing the thought with "tut" ("here").
-- 'Have they really been texting each other all this time?' Katya wonders pointedly toward Gulya here, leaning on "vremya" ("time") before closing the thought with "perepisyvalis" ("corresponded").
-- 'Oh, Katya, I knew nothing about that.' Gulya holds an earnest angle toward Katya, using "znala" (from "znat", "knew") alongside "oy" ("oh") to shape the meaning.
+- 'Well, Katya, how is our chef doing there?' Gulya hands over the reaction without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'The doctors said everything is fine, he will live.' Katya frames that remark in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Honestly speaking, I was so scared for him.' Katya replies decisively with Gulya, to clear the air between them once and for all.
+- 'Listen, do you want me to cheer you up?' Gulya leans on this sharp element in reply: "nastroyeniye" means "mood", and it carries the main weight of what Gulya is saying.
+- 'Sit down here for a minute and take a look.' Gulya speaks firmly without holding back, grounding the moment in plain reality.
+- 'Those jokers Fedya and Senya pranked Lyova and me.' Gulya chimes in briskly across the room, refusing to let the moment slip past.
+- 'They were writing messages to me from his phone.' Gulya stresses one classic piece for Katya: "soobshcheniya" means "messages" (from "soobshcheniye"), giving the line its exact edge.
+- 'Oh, the screen disappeared, I pressed something.' Katya proceeds boldly beside Gulya, keeping the focus on what actually matters here.
+- 'Wait, this is Nikita's phone after all.' Katya speaks up pointedly with a smile, saying out loud what both of them already know.
+- 'And why is my mom in the messages here?' Katya favors one practical word toward Gulya: "perepiske" means "correspondence" (from "perepiska"), giving the line its exact edge.
+- 'Have they really been texting each other all this time?' Katya shapes this update to Gulya: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'Oh, Katya, I knew nothing about that.' Gulya proceeds honestly with a smile, leaving no doubt about where she stands.

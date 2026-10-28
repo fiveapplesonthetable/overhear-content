@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna, I have an important matter to discuss.' Ainura shares a measured approach during the exchange, putting "zdravstvuyte" ("hello") alongside "vazhnyy" ("important") in a tight, everyday turn of phrase.
-- 'Yes, Ainura, I am listening to you closely.' Vika establishes a direct tempo as they talk, putting "vnimatelno" ("carefully, attentively") alongside "slushayu" ("I'm listening") in a tight, everyday turn of phrase.
-- 'German loves me, and not you.' Ainura offers a warm bearing in the scene, putting "lyubit" ("loves") alongside "german" ("German") in a tight, everyday turn of phrase.
-- 'He and I had a romance.' Ainura brings a playful attitude for Vika, anchoring the Russian line on "byla" ("was") and "lyubov" ("love") without extra filler.
-- 'And then I dumped him myself.' Ainura maintains a firm posture beside Vika, anchoring the Russian line on "potom" ("then") and "brosila" ("left, walked out on") without extra filler.
-- 'Now his heart hurts very much.' Ainura projects a grounded line in the room, anchoring the Russian line on "teper" ("now") and "ochen" ("very much") without extra filler.
-- 'Ainura, what are you talking about, what nonsense is this?' Vika inquires sharply without a pause, putting "bred" ("nonsense") alongside "aynura" ("Ainura") in a tight, everyday turn of phrase.
-- 'Better go do your work quietly.' Vika adopts a wry rhythm beside Ainura, combining "idi" ("go") and "luchshe" ("better") so the key meaning lands right away.
-- 'But he will hurt you again.' Ainura shows a measured stance straight away, leaning on "opyat" ("again") before closing the thought with "sdelayet" ("will do").
-- 'Wait, what does that word 'again' Vika asks quietly to keep things clear, weaving "podozhdi" ("wait") together with "znachit" ("then, so") just the way native speakers do.
-- 'He locked Nagiyev inside the coffin, after all.' Ainura establishes a pointed line on the spot, combining "grobu" ("coffin") and "zakryl" ("passed, closed") so the key meaning lands right away.
-- 'He locked the coffin with a key himself.' Ainura offers a sharp angle right away, building the phrase around "zakryl" ("passed, closed") and "grob" ("coffin") for a crisp, natural delivery.
+- 'Hello, Viktoriya Sergeyevna, I have an important matter to discuss.' Ainura shapes that reply without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Yes, Ainura, I am listening to you closely.' Vika cuts in pointedly without a pause, making her position completely clear.
+- 'German loves me, and not you.' Ainura focuses on this telling term toward Vika: "lyubit" means "loves", and it carries the main weight of what Ainura is saying.
+- 'He and I had a romance.' Ainura makes this update frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'And then I dumped him myself.' Ainura chimes in evenly as things stand, to clear the air between them once and for all.
+- 'Now his heart hurts very much.' Ainura favors one classic element at once: "serdtse" means "heart", and it carries the main weight of what Ainura is saying.
+- 'Ainura, what are you talking about, what nonsense is this?' Vika sends that answer calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Better go do your work quietly.' Vika reacts plainly before Ainura, keeping the focus on what actually matters here.
+- 'But he will hurt you again.' Ainura focuses on one pointed piece on cue: "sdelayet" means "will do" (from "sdelat"), giving the line its exact edge.
+- 'Wait, what does that word 'again' Vika delivers that line at once: putting the question word "chto" right at the front of the line lets Ainura hear the point of the question on the very first beat.
+- 'He locked Nagiyev inside the coffin, after all.' Ainura cuts in decisively in this moment, leaving no doubt about where she stands.
+- 'He locked the coffin with a key himself.' Ainura points to one concrete element for Vika: "klyuchom" means "key" (from "klyuch"), giving the line its exact edge.

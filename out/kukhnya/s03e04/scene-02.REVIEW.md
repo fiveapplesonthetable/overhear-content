@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Otherwise the person is here, and the dish is not.' Barinov offers a wry stance in this beat, combining "chelovek" ("a man, a person") and "yest" ("there is") so the key meaning lands right away.
-- 'I will kill him!' Barinov holds an honest mood in the conversation, putting all the weight on "ubyu" ("I'll kill") so the reply lands immediately.
-- 'And I will prepare an ironclad alibi for you.' Elena maintains a wry bearing as they talk, anchoring the Russian line on "prigotovlyu" ("will prepare") and "zheleznoye" ("ironclad, iron") without extra filler.
-- 'I wanted to let you know, tomorrow we are going to the cinema.' Barinov shows a thoughtful mood in the room, joining "khotel" ("wanted") to "predupredit" ("to warn") so every word pulls its weight.
-- 'Lucky you!' Elena brings a natural bearing on the spot, anchoring the Russian line on "vezyot" ("is lucky") and "zhe" ("but, after all") without extra filler.
-- 'You and I are going to the cinema, don't plan anything.' Elena shows an earnest tack across the room, joining "idyom" ("are going") to "kino" ("cinema, movies") so every word pulls its weight.
-- 'And why aren't you carrying the little elephant that I gave you?' Elena challenges quietly right away, weaving "pochemu" ("why") together with "slonika" ("little elephant figurine") just the way native speakers do.
-- 'It brings good luck, after all.' Elena projects a sharp view during the exchange, weaving "udachu" ("luck") together with "prinosit" ("offers, brings") just the way native speakers do.
-- 'That is all. Yes, bye.' Barinov displays a thoughtful approach in the conversation, pairing "poka" ("bye") with "vsyo" ("everything") to get the point across in plain spoken Russian.
-- 'I think that is everything.' Barinov presents a resolute view as they talk, weaving "dumayu" ("I think") together with "vsyo" ("everything") just the way native speakers do.
-- 'Yes, Vitya!' Elena takes a firm position in the room, combining "da" ("yes") and "vitya" ("Vitya") so the key meaning lands right away.
-- 'Ah, that's it, I found it.' Elena maintains an emphatic style in front of Barinov, joining "nashla" ("found, did you find") to "vsyo" ("everything") so every word pulls its weight.
+- 'Otherwise the person is here, and the dish is not.' Barinov weighs in steadily with a nod, without trying to dress up how he really feels.
+- 'I will kill him!' Barinov proceeds wryly without holding back, grounding the moment in plain reality.
+- 'And I will prepare an ironclad alibi for you.' Elena spotlights one vivid detail toward Barinov: "zheleznoye" means "ironclad, iron" (from "zheleznyy"), giving the line its exact edge.
+- 'I wanted to let you know, tomorrow we are going to the cinema.' Barinov focuses on one telling choice in reply: "predupredit" means "to warn", and it carries the main weight of what Barinov is saying.
+- 'Lucky you!' Elena continues lightly in their talk, refusing to let the moment slip past.
+- 'You and I are going to the cinema, don't plan anything.' Elena picks one sharp element in earnest: "planiruy" means "plan" (from "planirovat"), giving the line its exact edge.
+- 'And why aren't you carrying the little elephant that I gave you?' Elena makes the reply facing Barinov: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'It brings good luck, after all.' Elena jumps in dryly during the talk, grounding the moment in plain reality.
+- 'That is all. Yes, bye.' Barinov highlights one telling piece in reply: "poka" means "bye", and it carries the main weight of what Barinov is saying.
+- 'I think that is everything.' Barinov offers the remark for Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Yes, Vitya!' Elena speaks at once beside Barinov, leaving no doubt about where she stands.
+- 'Ah, that's it, I found it.' Elena colors one clear piece right here: "nashla" means "found, did you find" (from "nayti"), giving the line its exact edge.

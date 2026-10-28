@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, enough!' Barinov conveys a resolute manner on the spot, joining "khvatit" ("enough") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Come on, apologize!' Lyova takes a clear line in the room, joining "izvinyaysya" ("apologize") to "nu" ("oh, come on") so every word pulls its weight.
-- 'What is going on here?' Eleonora inquires firmly as the beat lands, putting "zdes" ("here") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
-- 'Everything is fine.' Barinov strikes a measured rhythm in front of Lyova, building the phrase around "normalno" ("fine, OK") and "vsyo" ("everything") for a crisp, natural delivery.
-- 'They argued over a girl, young and hot-headed.' Barinov picks an honest view straight away, combining "porugalis" ("to quarrel") and "devushki" ("a girl") so the key meaning lands right away.
-- 'Over what girl?' Eleonora prompts frankly to keep things clear, pairing "yeshchyo" ("more, still") with "devushki" ("a girl") to get the point across in plain spoken Russian.
-- 'He was hitting on a girl!' Lyova adopts a measured approach at once, anchoring the Russian line on "pristaval" ("pestered, hit on") and "devushke" ("girl, young woman") without extra filler.
-- 'You are fired!' Barinov sustains a calm style across the room, leaning on "uvolen" ("fired") before closing the thought with "ty" ("you").
-- 'For the fight and for the disgusting preparation of dishes!' Barinov favors a clear note in their talk, building the phrase around "draku" ("fight") and "otvratitelnoye" ("disgusting") for a crisp, natural delivery.
-- 'Lyova, well done.' Barinov maintains a calm manner as the scene unfolds, pairing "molodets" ("well done, good boy") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
-- 'Do not worry, Artyom.' Barinov picks a natural angle during the exchange, pairing "perezhivay" ("worry") with "ne" ("not") to get the point across in plain spoken Russian.
-- 'You will find yourself another job!' Barinov holds a thoughtful stance in the scene, combining "yeshchyo" ("more, still") and "naydyosh" ("you'll find") so the key meaning lands right away.
+- 'Come on, enough!' Barinov fires back candidly in this moment, steering the talk right where he wants it.
+- 'Come on, apologize!' Lyova grounds one clear word toward Eleonora: "izvinyaysya" means "apologize" (from "izvinyatsya"), giving the line its exact edge.
+- 'What is going on here?' Eleonora states that remark facing Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Everything is fine.' Barinov replies honestly beside Lyova, leaving no doubt about where he stands.
+- 'They argued over a girl, young and hot-headed.' Barinov reaches for one memorable expression in reply: "goryachiye" means "hot" (from "goryachiy"), giving the line its exact edge.
+- 'Over what girl?' Eleonora shapes this point toward Lyova: putting the question word "kakoy" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'He was hitting on a girl!' Lyova reacts right away as things stand, watching Barinov's face to see how the news lands.
+- 'You are fired!' Catch how Barinov reassures Lyova in earnest — the Russian word "uvolen" ("fired", built from "uvolit") does the heavy lifting.
+- 'For the fight and for the disgusting preparation of dishes!' Barinov speaks up firmly with Eleonora, steering the talk right where he wants it.
+- 'Lyova, well done.' Barinov chimes in quietly on the spot, keeping the focus on what actually matters here.
+- 'Do not worry, Artyom.' Barinov emphasizes one classic piece on cue: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'You will find yourself another job!' Barinov proceeds dryly watching Lyova, letting the remark speak for itself.

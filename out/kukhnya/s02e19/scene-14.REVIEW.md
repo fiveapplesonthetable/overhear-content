@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello there, Maxim.' Kostya displays a pointed footing for Max, pairing "zdravstvuyte" ("hello") with "maksim" ("Maksim") to get the point across in plain spoken Russian.
-- 'Here I am!' Kostya keeps an emphatic footing as they talk, joining "vot" ("there, here") to "ya" ("I") so every word pulls its weight.
-- 'Wait, who told you my address?' Max presses candidly for Kostya's benefit, using "skazal" (from "skazat", "said") alongside "adres" ("address") to shape the meaning.
-- 'What are all of you doing here?' Kostya prompts promptly without hesitation, combining "tut" ("here") and "delayete" ("are doing") so the key meaning lands right away.
-- 'Someone passed me your note with the address.' Max presents a natural footing in their talk, pairing "peredali" ("to pass on") with "zapisku" ("note") to get the point across in plain spoken Russian.
-- 'I never passed you any note...' Kostya strikes a calm posture across the room, using "peredaval" (from "peredavat", "pass on, send") alongside "ya" ("I") to shape the meaning.
-- 'The door was unlocked.' Max favors an unhurried angle right away, putting "dver" ("door") alongside "otkryta" ("opened, open") in a tight, everyday turn of phrase.
-- 'It looks like I came at a bad time.' Kostya keeps a natural style at once, leaning on "pokhozhe" ("like, similar") before closing the thought with "bylo" ("was").
-- 'Not at all, you arrived at the perfect moment.' Max shares a firm tempo in their talk, building the phrase around "samyy" ("the most") and "raz" ("time, once") for a crisp, natural delivery.
-- 'You should really just come to the restaurant instead.' Kostya maintains an emphatic posture in their talk, anchoring the Russian line on "prikhodite" ("come") and "luchshe" ("better") without extra filler.
-- 'Alright then, Maxim.' Kostya sets a grounded manner right away, combining "nu" ("oh, come on") and "ladno" ("all right") so the key meaning lands right away.
-- 'Maxim, man, you really are something!' Kostya adopts an honest angle in their talk, leaning on "dayesh" ("give") before closing the thought with "maksim" ("Maksim").
-- 'You are regular Maxim Galkin.' Kostya adopts an easygoing tack without hesitation, putting "pryam" ("right, really") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'Hello there, Maxim.' Kostya brings the reaction on cue: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Here I am!' Kostya counters openly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Wait, who told you my address?' Max spotlights this key detail on cue: "adres" means "address", and it carries the main weight of what Max is saying.
+- 'What are all of you doing here?' Kostya phrases this update around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Someone passed me your note with the address.' Max follows up dryly without a pause, without trying to dress up how he really feels.
+- 'I never passed you any note...' Kostya leans on this sharp touch at once: "peredaval" means "pass on, send" (from "peredavat"), giving the line its exact edge.
+- 'The door was unlocked.' Max states this update without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'It looks like I came at a bad time.' Kostya counters quietly with Max, shifting the whole mood of the room in a single beat.
+- 'Not at all, you arrived at the perfect moment.' Max spotlights one familiar element toward Kostya: "samyy" means "the most", and it carries the main weight of what Max is saying.
+- 'You should really just come to the restaurant instead.' Kostya spotlights this clear choice for Max: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
+- 'Alright then, Maxim.' Kostya answers bluntly in this moment, bringing things back to earth after the buildup.
+- 'Maxim, man, you really are something!' Kostya colors one classic term at once: "dayesh" means "give" (from "davat"), giving the line its exact edge.
+- 'You are regular Maxim Galkin.' Kostya directs this answer beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just thinking, why don't we open a karaoke club?' Kristina probes wryly in the room, linking "tut" ("here"), "podumala" ("thought"), and "pochemu" ("why") in one brisk exchange.
-- 'What, open a karaoke club in a French restaurant?' Nagiyev probes lightly right away, weaving "otkryt" ("open") together with "karaoke" ("karaoke") just the way native speakers do.
-- 'Sweetheart, your taste is truly very exquisite!' Nagiyev projects a firm style in the scene, combining "u tebya" (literally "by you") with "zayka" ("sweetheart") rather than a separate word for "have".
-- 'We can buy out the second floor and make another hall.' Kristina establishes a wry posture across the room, putting "mozhem" ("can") alongside "vykupit" ("to buy out") in a tight, everyday turn of phrase.
-- 'Up there is the smell of that old man and bad memories.' Nagiyev sets a measured tempo as the scene unfolds, building the phrase around "tam" ("there") and "zapakh" ("the smell") for a crisp, natural delivery.
-- 'On the other hand, we could simply rent it out.' Nagiyev holds a lively rhythm on the spot, building the phrase around "drugoy" ("other") and "storony" ("side") for a crisp, natural delivery.
-- 'You know, I already spoke with the new owner of the apartment.' Kristina brings an unhurried bearing across the room, combining "znayesh" ("know") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'He said that he is ready to sell it for half the price!' Kristina takes a firm tempo right away, weaving "skazal" ("said") together with "gotov" ("ready") just the way native speakers do.
-- 'Senya, are you a total fool, is there no room left in your locker?' Nagiyev queries evenly without holding back, joining "sovsem" ("at all") to "durak" ("fool, idiot") so every word pulls its weight.
-- 'First there were hooves in my locker, and now a head!' Senya takes a lively position in the conversation, combining "snachala" ("first, at first") and "shkafu" ("cabinet, cupboard") so the key meaning lands right away.
-- 'Maybe you are assembling a pig piece by piece at home?' Senya challenges decisively without holding back, weaving "mozhet" ("can") together with "doma" ("at home") just the way native speakers do.
-- 'Or maybe we really did wake up Grandpa Kirill?' Senya asks firmly as they speak, leaning on "mozhet" ("can") before closing the thought with "realno" ("really possible").
+- 'I was just thinking, why don't we open a karaoke club?' Kristina hands over that answer with warmth: putting the question word "pochemu" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'What, open a karaoke club in a French restaurant?' Nagiyev tests sharply where this conversation is heading next.
+- 'Sweetheart, your taste is truly very exquisite!' Nagiyev leans on this clear piece toward Kristina: "deystvitelno" means "really, indeed", and it carries the main weight of what Nagiyev is saying.
+- 'We can buy out the second floor and make another hall.' Kristina cuts in at once during the talk, so Senya knows she is not just making small talk.
+- 'Up there is the smell of that old man and bad memories.' Nagiyev answers earnestly across the room, leaving no doubt about where he stands.
+- 'On the other hand, we could simply rent it out.' Nagiyev grounds one classic element in reply: "storony" means "side" (from "storona"), giving the line its exact edge.
+- 'You know, I already spoke with the new owner of the apartment.' Kristina continues openly beside Nagiyev, saying out loud what both of them already know.
+- 'He said that he is ready to sell it for half the price!' Kristina speaks right away without a pause, bringing things back to earth after the buildup.
+- 'Senya, are you a total fool, is there no room left in your locker?' Nagiyev emphasizes one familiar word in earnest: "shkafu" means "cabinet, cupboard" (from "shkaf"), giving the line its exact edge.
+- 'First there were hooves in my locker, and now a head!' Senya speaks earnestly with a sigh, so Nagiyev knows he is not just making small talk.
+- 'Maybe you are assembling a pig piece by piece at home?' Senya wonders deadpan to see how Kristina will answer on the spot.
+- 'Or maybe we really did wake up Grandpa Kirill?' Senya chooses this vivid word for Nagiyev: "kirilla" means "Kirill" (from "kirill"), giving the line its exact edge.

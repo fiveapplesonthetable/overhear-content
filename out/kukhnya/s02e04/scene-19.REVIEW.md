@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am almost ready and my suitcase is packed too.' Vika projects a natural position with Kostya, combining "uzhe" ("already, now") and "pochti" ("almost") so the key meaning lands right away.
-- 'How about you?' Kostya questions steadily during the talk, joining "kak" ("how") to "ty" ("you") so every word pulls its weight.
-- 'I mean, I am not.' Max presents a playful mood across the room, combining "smysle" ("sense") and "ya" ("I") so the key meaning lands right away.
-- 'I mean, I am in the middle of it.' Kostya shares a lively stance on the spot, weaving "smysle" ("sense") together with "protsesse" ("process, trial") just the way native speakers do.
-- 'Kisses. Yes.' Max chooses a serious line in front of Kostya, combining "tseluyu" ("kisses") and "da" ("yes") so the key meaning lands right away.
-- 'Max, I think we really do need to talk.' Kostya takes a resolute angle on the spot, weaving "dumayu" ("I think") together with "nuzhno" ("necessary") just the way native speakers do.
-- 'Can you come over to my place tonight?' Max prompts lightly as the talk turns, putting "mozhesh" ("can") alongside "priyekhat" ("to come, arrive") in a tight, everyday turn of phrase.
-- 'Or are you busy?' Kostya presses frankly without holding back, pairing "zanyat" ("busy") with "ili" ("or") to get the point across in plain spoken Russian.
-- 'As a matter of fact, tonight I am completely free.' Max displays a sharp style as the scene unfolds, placing "kak" ("how") straight beside "raz" ("time, once") with no word for "to be" needed.
-- 'I will be waiting.' Kostya presents a playful attitude across the room, weaving "budu" ("will be") together with "zhdat" ("to wait") just the way native speakers do.
-- 'Still, Valdemar is a good man.' Max chooses a candid bearing without hesitation, building the phrase around "khoroshiy" ("good") and "chelovek" ("a man, a person") for a crisp, natural delivery.
-- 'Yes, and if he is good, that means I am bad.' Kostya picks an earnest note beside Vika, building the phrase around "khoroshiy" ("good") and "znachit" ("then, so") for a crisp, natural delivery.
-- 'And I am not bad.' Max favors a sharp line with Kostya, weaving "plokhoy" ("bad") together with "ya" ("I") just the way native speakers do.
+- 'I am almost ready and my suitcase is packed too.' Vika emphasizes one clear piece at once: "chemodan" means "suitcase, luggage bag", and it carries the main weight of what Vika is saying.
+- 'How about you?' Kostya delivers the comment facing Vika: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I mean, I am not.' Max follows up right away without holding back, leaving no doubt about where he stands.
+- 'I mean, I am in the middle of it.' Kostya features one loaded term right here: "protsesse" means "process, trial" (from "protsess"), giving the line its exact edge.
+- 'Kisses. Yes.' Max delivers that line with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Max, I think we really do need to talk.' Kostya speaks warmly as things stand, grounding the moment in plain reality.
+- 'Can you come over to my place tonight?' Max reaches for one memorable element in reply: "priyekhat" means "to come, arrive", and it carries the main weight of what Max is saying.
+- 'Or are you busy?' Kostya phrases that point facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'As a matter of fact, tonight I am completely free.' Max pushes back promptly to be clear, leaving no doubt about where he stands.
+- 'I will be waiting.' Kostya chooses one direct word in earnest: "zhdat" means "to wait", and it carries the main weight of what Kostya is saying.
+- 'Still, Valdemar is a good man.' Max brings this warning facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Yes, and if he is good, that means I am bad.' Kostya holds firm evenly facing Vika, grounding the moment in plain reality.
+- 'And I am not bad.' Max stresses this sharp word right here: "plokhoy" means "bad", and it carries the main weight of what Max is saying.

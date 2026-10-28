@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, we did not have an order like this.' Senya brings an earnest manner toward the inspector, joining "zakaza" ("order") to "bylo" ("was") so every word pulls its weight.
-- 'I decided to introduce free appetizers today.' Max chooses a frank tempo in the room, anchoring the Russian line on "reshil" ("has decided") and "segodnya" ("today") without extra filler.
-- 'These are small snacks that whet the appetite.' Max maintains a measured note on the spot, joining "malenkiye" ("little ones") to "zakuski" ("appetizer, snack") so every word pulls its weight.
-- 'We will deliver them to the rooms of our hotel.' Max shows a candid note without hesitation, linking "raznesyom" ("we will deliver around"), "nomeram" ("around the rooms"), and "otelya" ("of the hotel") in one brisk exchange.
-- 'Guests will want a full meal and come down to the restaurant.' Max shares a calm stance in the conversation, anchoring the Russian line on "gosti" ("visitors, guests") and "zakhotyat" ("to want") without extra filler.
-- 'Let the guards herd people into the restaurant by force.' Senya displays a lively course in their talk, pairing "okhranniki" ("guards") with "lyudey" ("people") to get the point across in plain spoken Russian.
-- 'You two are the ones who will go deliver them.' Max picks a measured direction across the room, combining "poydyote" ("will go") and "raznosit" ("to deliver around") so the key meaning lands right away.
-- 'No, we are cooks, we are not waiters.' Senya sustains an unhurried tempo across the room, linking "povara" ("cook"), "ofitsianty" ("waiters"), and "net" ("no") in one brisk exchange.
-- 'Exactly, I cannot fine the waiters.' Max establishes an honest angle in this beat, putting "ofitsiantov" ("waiter, server") alongside "shtrafovat" ("to fine, penalize") in a tight, everyday turn of phrase.
-- 'Hello, I did not order anything today.' The inspector keeps a sharp note during the exchange, weaving "zdravstvuyte" ("hello") together with "segodnya" ("today") just the way native speakers do.
-- 'We brought you a free snack from the chef.' Senya shares a pointed view during the exchange, putting "besplatnuyu" ("free") alongside "zakusku" ("appetizer, snack") in a tight, everyday turn of phrase.
-- 'Excuse me, I do not understand you at all.' The inspector keeps an easygoing attitude at this moment, leaning on "prostite" ("excuse me") before closing the thought with "sovsem" ("at all").
-- 'We will just set the plate down right now and leave.' Senya sets a firm footing across the room, combining "seychas" ("now") and "postavim" ("will put on") so the key meaning lands right away.
+- 'Maxim, we did not have an order like this.' Senya continues plainly across the room, watching the inspector's face to see how the news lands.
+- 'I decided to introduce free appetizers today.' Max reaches for one sharp detail with Senya: "besplatnyye" means "free" (from "besplatnyy"), giving the line its exact edge.
+- 'These are small snacks that whet the appetite.' Max voices this answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We will deliver them to the rooms of our hotel.' Max steps in right away as things stand, steering the talk right where he wants it.
+- 'Guests will want a full meal and come down to the restaurant.' Max colors one familiar piece right here: "spustyatsya" means "will come downstairs" (from "spustitsya"), giving the line its exact edge.
+- 'Let the guards herd people into the restaurant by force.' Senya pushes back boldly without a pause, so Max knows he is not just making small talk.
+- 'You two are the ones who will go deliver them.' Max holds firm firmly beside the inspector, steering the talk right where he wants it.
+- 'No, we are cooks, we are not waiters.' Watch how Senya reminds Max at once — the Russian word "ofitsianty" ("waiters", built from "ofitsiant") does the heavy lifting.
+- 'Exactly, I cannot fine the waiters.' Max cuts in sharply across the room, to clear the air between them once and for all.
+- 'Hello, I did not order anything today.' The inspector counters right away without a pause, to clear the air between them once and for all.
+- 'We brought you a free snack from the chef.' Senya highlights one telling touch for the inspector: "besplatnuyu" means "free" (from "besplatnyy"), giving the line its exact edge.
+- 'Excuse me, I do not understand you at all.' The inspector makes that answer frankly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'We will just set the plate down right now and leave.' Senya answers quietly hearing the inspector, making his position completely clear.

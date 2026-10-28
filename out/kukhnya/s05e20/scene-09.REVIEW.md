@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Oguzok, have you not changed your mind yet?' Barinov probes openly at this point, joining "yeshchyo" ("more, still") to "peredumal" ("changed your mind") so every word pulls its weight.
-- 'Think carefully, you are so young after all.' Barinov keeps a direct position for Max, linking "podumay" ("think"), "khorosho" ("good, fine"), and "molodoy" ("young") in one brisk exchange.
-- 'Chef, or maybe you are the one who will change your mind?' Max tests lightly to Barinov here, pairing "mozhet" ("can") with "peredumayete" ("change your mind") to get the point across in plain spoken Russian.
-- 'You have nothing to lose, but you could live a while longer.' Max offers a thoughtful angle on the spot, combining "teryat" ("to lose") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'God knows, I sincerely wanted to save you.' Barinov shares a wry line as they talk, putting "vidit" ("sees") alongside "bog" ("God") in a tight, everyday turn of phrase.
-- 'Alright, guys, I was never here at all.' Lyova conveys a pointed tempo at this moment, building the phrase around "rebyata" ("the boys, the lads") and "tut" ("here") for a crisp, natural delivery.
-- 'I do not want to take part in this madness.' Lyova holds a steady tone as they talk, joining "bezumii" ("madness, insanity") to "uchastvovat" ("to participate") so every word pulls its weight.
-- 'So, which fish do you choose for yourself?' Barinov quizzes plainly to Max here, anchoring the Russian line on "rybu" ("fish") and "vybirayesh" ("to choose, select") without extra filler.
-- 'Let me take this fish right here.' Max keeps a firm course as the scene unfolds, combining the polite invitation "davayte" ("let us") with "vozmu" ("will get") to give the line its natural spoken rhythm.
-- 'Wait, stop, have you completely lost your mind?' Barinov prompts earnestly during the talk, building the phrase around "podozhdi" ("wait") and "stoy" ("stop, wait") for a crisp, natural delivery.
-- 'Put protective gloves on your hands immediately!' Barinov sets a clear attitude in the scene, joining "nemedlenno" ("immediately") to "zashchitnyye" ("protective") so every word pulls its weight.
-- 'What a real young daredevil!' Barinov strikes a direct mood during the exchange, anchoring the Russian line on "nastoyashchiy" ("real, genuine") and "molodoy" ("young") without extra filler.
+- 'Well, Oguzok, have you not changed your mind yet?' Barinov probes point-blank as Lyova tries to explain the situation.
+- 'Think carefully, you are so young after all.' Barinov leans on this sharp expression at once: "molodoy" means "young", and it carries the main weight of what Barinov is saying.
+- 'Chef, or maybe you are the one who will change your mind?' Max lays out that answer right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'You have nothing to lose, but you could live a while longer.' Max weighs in right away facing Lyova, leaving no doubt about where he stands.
+- 'God knows, I sincerely wanted to save you.' Barinov features one practical word toward Lyova: "iskrenne" means "sincerely", and it carries the main weight of what Barinov is saying.
+- 'Alright, guys, I was never here at all.' Lyova brings that line with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'I do not want to take part in this madness.' Lyova proceeds earnestly during the talk, keeping the focus on what actually matters here.
+- 'So, which fish do you choose for yourself?' Barinov emphasizes this direct word at once: "vybirayesh" means "to choose, select" (from "vybirat"), giving the line its exact edge.
+- 'Let me take this fish right here.' Max frames that remark calmly now: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
+- 'Wait, stop, have you completely lost your mind?' Barinov presses point-blank why things suddenly took this turn between them.
+- 'Put protective gloves on your hands immediately!' Barinov colors one vivid choice in reply: "zashchitnyye" means "protective" (from "zashchitnyy"), giving the line its exact edge.
+- 'What a real young daredevil!' Barinov replies openly with a nod, testing Max's reaction in the middle of the exchange.

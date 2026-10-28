@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim Ilyich, hold on! What is that clinking in your bag?' Vika probes frankly for the guest's benefit, joining "ilich" ("Ilyich") to "postoyte" ("wait") so every word pulls its weight.
-- 'Oh, I bought lemonade.' The guest projects a pointed tack on the spot, linking "limonad" ("lemonade"), "kupil" ("bought"), and "eto" ("this") in one brisk exchange.
-- 'Will you treat me? Give me the bag, please.' Vika quizzes warmly in the scene, weaving "ugostite" ("treat, offer") together with "dayte" ("give") just the way native speakers do.
-- 'Do not. If I do not have a drink, I will weep from grief.' The guest sets a firm line across the room, pairing "nado" ("it is necessary") with "vypyu" ("drink") to get the point across in plain spoken Russian.
-- 'My Lyubanya asked me not to tell anyone.' The guest strikes a thoughtful direction toward Vika, building the phrase around "prosila" ("asked") and "govorit" ("to talk") for a crisp, natural delivery.
-- 'She has two months left to live. She is dying.' The guest chooses a serious bearing for Vika, anchoring the Russian line on "mesyatsa" ("months") and "ostalos" ("was left") without extra filler.
-- 'My checkup is a pretext to come here and see you.' The guest holds a firm angle in the conversation, weaving "obsledovaniye" ("medical") together with "predlog" ("pretext, excuse") just the way native speakers do.
-- 'Are you serious right now?' Vika inquires naturally without a pause, combining "seryozno" ("seriously") and "seychas" ("now") so the key meaning lands right away.
-- 'People do not joke about such things!' The guest conveys an earnest course at this moment, building the phrase around "veshchami" ("things, belongings") and "shutyat" ("to joke") for a crisp, natural delivery.
-- 'Only do not tell Maxim. He loves his grandma very much.' The guest strikes a wry manner on the spot, building the phrase around "tolko" ("only") and "govori" ("say, talk") for a crisp, natural delivery.
-- 'That is why I feel like having a drink.' The guest adopts a sharp tack in this beat, pairing "khochetsya" ("want, feel like") with "vypit" ("to drink") so the "-sya" ending carries the action.
-- 'Stay strong, Maxim Ilyich.' Vika chooses a playful line as they talk, leaning on "derzhites" ("stick") before closing the thought with "ilich" ("Ilyich").
+- 'Maxim Ilyich, hold on! What is that clinking in your bag?' Vika frames one loaded detail at once: "postoyte" means "wait" (from "postoyat"), giving the line its exact edge.
+- 'Oh, I bought lemonade.' The guest jumps in at once without any doubt, saying out loud what both of them already know.
+- 'Will you treat me? Give me the bag, please.' Vika presses firmly while looking straight at the guest here.
+- 'Do not. If I do not have a drink, I will weep from grief.' The guest colors one colorful detail toward Vika: "zaplachu" means "will pay" (from "zaplatit"), giving the line its exact edge.
+- 'My Lyubanya asked me not to tell anyone.' The guest replies steadily without a pause, keeping the focus on what actually matters here.
+- 'She has two months left to live. She is dying.' The guest responds promptly with a nod, letting the remark speak for itself.
+- 'My checkup is a pretext to come here and see you.' The guest points to this vivid term for Vika: "obsledovaniye" means "medical" (from "obsledovaniy"), giving the line its exact edge.
+- 'Are you serious right now?' Vika sends this answer for the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'People do not joke about such things!' The guest fires back right away to be clear, to clear the air between them once and for all.
+- 'Only do not tell Maxim. He loves his grandma very much.' The guest favors this vivid expression for Vika: "babushku" means "grandmother" (from "babushka"), giving the line its exact edge.
+- 'That is why I feel like having a drink.' The guest phrases the thought to Vika: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
+- 'Stay strong, Maxim Ilyich.' Vika responds right away without holding back, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Action, let's begin!' Barinov favors a serious tack at this moment, leaning on "nachali" ("started") as a compact, one-word response that needs no extra words.
-- 'My career climb was long and difficult.' Barinov shows a pointed style straight away, leaning on "karyernyy" ("climb") before closing the thought with "rost" ("growth").
-- 'I cooked for the presidents of Russia and France.' Barinov shows a steady approach in the room, weaving "gotovil" ("prepared, made") together with "prezidentov" ("president") just the way native speakers do.
-- 'Vitya, what is going on here, pal?' Nagiyev queries honestly as the beat lands, building the phrase around "proiskhodit" ("is going on") and "malysh" ("kid, little one") for a crisp, natural delivery.
-- 'I do not meddle in your kitchen.' Nagiyev adopts a measured manner right away, anchoring the Russian line on "kukhnyu" ("kitchen") and "lezu" ("am climbing") without extra filler.
-- 'Listen to me very carefully now.' Nagiyev shows a steady note in the conversation, joining "slushay" ("listen") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
-- 'Tomorrow a very important guest is coming to us.' Nagiyev maintains a thoughtful view in front of Barinov, joining "zavtra" ("tomorrow") to "pridyot" ("will come") so every word pulls its weight.
-- 'Haven't all the important guests visited us already?' Barinov asks earnestly as they speak, combining "gosti" ("visitors, guests") and "pobyvali" ("to already") so the key meaning lands right away.
-- 'No, not all of them wanted this.' Nagiyev takes a measured bearing without hesitation, linking "khoteli" ("wanted"), "net" ("no"), and "ne" ("not") in one brisk exchange.
-- 'He wants to make me a general of the army.' Nagiyev holds a candid note across the room, linking "khochet" ("wants"), "sdelat" ("to do"), and "generalom" ("general") in one brisk exchange.
-- 'And Emperor of France.' Nagiyev conveys an earnest manner as they talk, putting "imperatorom" ("france") alongside "frantsii" ("France") in a tight, everyday turn of phrase.
-- 'Do you understand?' Nagiyev wonders sharply as they speak, using "ponimayesh" ("do you understand") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Action, let's begin!' Barinov emphasizes one key detail toward Nagiyev: "nachali" means "started" (from "nachat"), giving the line its exact edge.
+- 'My career climb was long and difficult.' Barinov steps in frankly hearing Nagiyev, steering the talk right where he wants it.
+- 'I cooked for the presidents of Russia and France.' Barinov steps in dryly with a sigh, steering the talk right where he wants it.
+- 'Vitya, what is going on here, pal?' Nagiyev features one pointed element right here: "proiskhodit" means "is going on", and it carries the main weight of what Nagiyev is saying.
+- 'I do not meddle in your kitchen.' Nagiyev features this sharp term right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Listen to me very carefully now.' Nagiyev steps in steadily as they talk, letting the remark speak for itself.
+- 'Tomorrow a very important guest is coming to us.' Nagiyev colors one familiar touch at once: "vazhnyy" means "important", and it carries the main weight of what Nagiyev is saying.
+- 'Haven't all the important guests visited us already?' Barinov brings the reaction in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'No, not all of them wanted this.' Nagiyev speaks dryly before Barinov, before Barinov can change the subject.
+- 'He wants to make me a general of the army.' Nagiyev frames one concrete choice toward Barinov: "generalom" means "general" (from "general"), giving the line its exact edge.
+- 'And Emperor of France.' Nagiyev gives this point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do you understand?' Nagiyev questions openly if there is more going on behind the scenes.

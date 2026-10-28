@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I must not haul such heavy loads at all!' Senya sustains a wry course on the spot, leaning on "voobshche" ("at all") before closing the thought with "nelzya" ("not allowed").
-- 'My fingers will become rough from the crates.' Senya follows up naturally toward Katya here, using the everyday "u menya" ("by me") alongside "yashchikov" ("box, crate") to show what belongs to the speaker.
-- 'Miss, did we not happen to wake up together this morning?' Denis presses warmly in the room, pairing "prosypalis" ("to wake up") with "devushka" ("girlfriend") so the "-sya" ending carries the action.
-- 'Denis, listen to me carefully, calm down!' Katya shows an unhurried posture in the room, using "poslushay" (from "poslushat", "listen") alongside "vnimatelno" ("carefully, attentively") to shape the meaning.
-- 'You have no chances with me at all.' Katya favors a warm footing for Denis, combining "shansov" ("chances") and "tebya" ("you") so the key meaning lands right away.
-- 'What happened yesterday was just a fluke!' Katya projects a steady tack during the exchange, leaning on "bylo" ("was") before closing the thought with "vchera" ("yesterday").
-- 'A fluke, or maybe it is our destiny?' Denis presses lightly on the spot, putting "sluchaynost" ("accident") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
-- 'So, you believe in fate then?' Katya quizzes calmly at this point, weaving "znachit" ("then, so") together with "sudbu" ("fate") just the way native speakers do.
-- 'Look, this is a ticket for a date with me.' Denis chooses a measured line without hesitation, combining "smotri" ("look") and "bilet" ("ticket") so the key meaning lands right away.
-- 'If fate wants it, this bill will return to you!' Denis shares a serious style without hesitation, pairing "sudba" ("fate, destiny") with "zakhochet" ("will want") to get the point across in plain spoken Russian.
-- 'Nastya, take this, please, and change this money.' Denis adopts a candid footing in the scene, combining "vozmi" ("take, pick up") and "razmenyay" ("change") so the key meaning lands right away.
-- 'What an interesting game you two have today!' Senya presents an easygoing bearing beside Katya, combining "interesnaya" ("interesting") and "segodnya" ("today") so the key meaning lands right away.
+- 'I must not haul such heavy loads at all!' Senya uses this key expression in earnest: "voobshche" means "at all", and it carries the main weight of what Senya is saying.
+- 'My fingers will become rough from the crates.' Senya drops that point on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Miss, did we not happen to wake up together this morning?' Denis asks openly as Katya tries to explain the situation.
+- 'Denis, listen to me carefully, calm down!' Katya centers this direct detail at once: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Katya is saying.
+- 'You have no chances with me at all.' Katya brings this answer frankly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'What happened yesterday was just a fluke!' Katya jumps in candidly with a nod, to clear the air between them once and for all.
+- 'A fluke, or maybe it is our destiny?' Denis chooses one key detail with Katya: "sluchaynost" means "accident", and it carries the main weight of what Denis is saying.
+- 'So, you believe in fate then?' Katya hands over that line with warmth: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Look, this is a ticket for a date with me.' Denis responds earnestly in their talk, shifting the whole mood of the room in a single beat.
+- 'If fate wants it, this bill will return to you!' Denis features one practical detail in earnest: "vernyotsya" means "will return" (from "vernutsya"), giving the line its exact edge.
+- 'Nastya, take this, please, and change this money.' Denis aims this line for Katya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'What an interesting game you two have today!' Senya follows up evenly across the room, grounding the moment in plain reality.

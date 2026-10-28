@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, this is a very old story.' Nagiyev adopts a clear tempo beside Barinov, linking "ochen" ("very much") directly with "staraya" ("old"), since Russian drops "is" and "are" in the present.
-- 'Why are you laughing at someone else's grief?' Nagiyev prompts briskly in the scene, leaning on "zachem" ("what for") before closing the thought with "smeyoshsya" ("are laughing").
-- 'That cook stole German's wife from him.' Nagiyev shows a calm angle right away, linking "povar" ("chef, cook"), "uvyol" ("to lead away"), and "germana" ("german") in one brisk exchange.
-- 'And they stole all his money from him.' Nagiyev adopts an easygoing line as the scene unfolds, weaving "dengi" ("money") together with "ukrali" ("stole") just the way native speakers do.
-- 'And then they decided to leave quickly.' Nagiyev holds a sharp view toward Barinov, anchoring the Russian line on "potom" ("then") and "reshili" ("decided") without extra filler.
-- 'Any man would have acted the exact same way.' Nagiyev picks a brisk stance as the scene unfolds, leaning on "lyuboy" ("any") before closing the thought with "muzhchina" ("man").
-- 'Just look at the blacklist.' Barinov establishes a pointed angle right away, combining "chyornom" ("black") and "spiske" ("list") so the key meaning lands right away.
-- 'Vityusha, after you, I check everyone.' Nagiyev takes a grounded line toward Barinov, leaning on "vityusha" ("vityusha") before closing the thought with "proveryayu" ("to check, test").
-- 'He is not there on our list.' Nagiyev establishes a sharp attitude in the conversation, pairing "tam" ("there") with "spiske" ("list") to get the point across in plain spoken Russian.
-- 'Well, look in Latvia.' Barinov offers a pointed tack as the scene unfolds, linking "latvii" ("blacklist"), "posmotri" ("look"), and "ty" ("you") in one brisk exchange.
-- 'Deal with that yourself, kiddo.' Nagiyev presents a pointed direction straight away, combining "zanimaysya" ("attend to, deal with") and "malysh" ("kid, little one") so the key meaning lands right away.
-- 'Better go work quietly in the kitchen.' Nagiyev maintains a sharp view in their talk, leaning on "idi" ("go") before closing the thought with "luchshe" ("better").
+- 'Vitya, this is a very old story.' Nagiyev hands over that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why are you laughing at someone else's grief?' Nagiyev tests evenly whether Barinov really thought this through.
+- 'That cook stole German's wife from him.' Nagiyev focuses on this telling choice in reply: "germana" means "german", and it carries the main weight of what Nagiyev is saying.
+- 'And they stole all his money from him.' Nagiyev reacts steadily as things stand, refusing to let the moment slip past.
+- 'And then they decided to leave quickly.' Nagiyev proceeds calmly to settle things, letting the remark speak for itself.
+- 'Any man would have acted the exact same way.' Nagiyev reaches for this telling word toward Barinov: "muzhchina" means "man", and it carries the main weight of what Nagiyev is saying.
+- 'Just look at the blacklist.' Barinov reaches for one colorful element in reply: "chyornom" means "black" (from "chyornyy"), giving the line its exact edge.
+- 'Vityusha, after you, I check everyone.' Nagiyev speaks calmly with Barinov, so Barinov knows he is not just making small talk.
+- 'He is not there on our list.' Nagiyev reaches for this sharp word in earnest: "spiske" means "list" (from "spisok"), giving the line its exact edge.
+- 'Well, look in Latvia.' Barinov picks one colorful choice at once: "latvii" means "blacklist" (from "latviya"), giving the line its exact edge.
+- 'Deal with that yourself, kiddo.' Nagiyev follows up evenly on the spot, watching Barinov's face to see how the news lands.
+- 'Better go work quietly in the kitchen.' Nagiyev favors one loaded detail at once: "spokoyno" means "calmly", and it carries the main weight of what Nagiyev is saying.

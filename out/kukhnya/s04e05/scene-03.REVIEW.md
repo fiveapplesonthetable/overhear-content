@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you in person.' Max favors a brisk footing during the exchange, building the phrase around "khotel" ("wanted") and "pogovorit" ("to talk") for a crisp, natural delivery.
-- 'Well all right, I am listening to you closely.' German shares a frank note during the exchange, building the phrase around "khorosho" ("good, fine") and "vnimatelno" ("carefully, attentively") for a crisp, natural delivery.
-- 'Right now you do not have a sous-chef in the kitchen.' Max favors a grounded footing across the room, joining "seychas" ("now") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'I could try this job.' Max offers a pointed stance straight away, building the phrase around "mog" ("can, to be able") and "poprobovat" ("to taste") for a crisp, natural delivery.
-- 'Of course, if you do not mind at all.' Max favors a lively position straight away, linking "konechno" ("of course"), "sovsem" ("at all"), and "yesli" ("if") in one brisk exchange.
-- 'You want to become my new sous-chef?' German prompts pointedly without a pause, anchoring the Russian line on "khotite" ("want") and "stat" ("to become") without extra filler.
-- 'Well, if not, then excuse me right away.' Max conveys an earnest position right away, leaning on "togda" ("back then") before closing the thought with "srazu" ("at once").
-- 'Oh no, why would it be no right away?' German challenges naturally during the talk, linking "pochemu" ("why"), "srazu" ("at once"), and "da" ("yes") in one brisk exchange.
-- 'I happen to need just such a sous-chef.' German maintains an earnest style in the room, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
-- 'A young and self-confident person.' German adopts a frank position as the scene unfolds, putting "molodoy" ("young") alongside "uverennyy" ("confident") in a tight, everyday turn of phrase.
-- 'But I see you are not very glad.' German adopts a resolute direction with Max, putting "vizhu" ("see") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'I am simply a very reserved and serious cook.' Max projects a brisk view during the exchange, placing "prosto" ("just") straight beside "ochen" ("very much") with no word for "to be" needed.
+- 'I wanted to talk with you in person.' Max speaks up calmly with a nod, so German knows he is not just making small talk.
+- 'Well all right, I am listening to you closely.' German spotlights this direct detail right here: "vnimatelno" means "carefully, attentively", and it carries the main weight of what German is saying.
+- 'Right now you do not have a sous-chef in the kitchen.' Max drops this line without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I could try this job.' Max weighs in frankly during the talk, watching German's face to see how the news lands.
+- 'Of course, if you do not mind at all.' Max emphasizes this clear touch right here: "konechno" means "of course", and it carries the main weight of what Max is saying.
+- 'You want to become my new sous-chef?' German shares this statement with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Well, if not, then excuse me right away.' Max fires back openly across the room, letting the remark speak for itself.
+- 'Oh no, why would it be no right away?' German grounds this telling touch at once: "srazu" means "at once", and it carries the main weight of what German is saying.
+- 'I happen to need just such a sous-chef.' German chimes in calmly as they talk, testing Max's reaction in the middle of the exchange.
+- 'A young and self-confident person.' German reacts honestly with a sigh, steering the talk right where he wants it.
+- 'But I see you are not very glad.' German features one key touch in earnest: "rady" means "glad", and it carries the main weight of what German is saying.
+- 'I am simply a very reserved and serious cook.' Max aims that remark for German: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello. Yes, all kinds of massage.' Vika holds an earnest attitude in the conversation, putting "zdravstvuyte" ("hello") alongside "lyubyye" ("any") in a tight, everyday turn of phrase.
-- 'Ask about intimacy!' Max offers a playful line in this beat, linking "intim" ("intimacy"), "sprosi" ("ask"), and "pro" ("about") in one brisk exchange.
-- 'And besides massage, anything intimate?' Nastya questions openly on the spot, weaving "massazha" ("massage") together with "intimnoye" ("intimate") just the way native speakers do.
-- 'Miss, well if you are pretty, then you and I will agree on everything.' Vika keeps a steady direction as the scene unfolds, joining "devushka" ("girlfriend") to "simpatichnaya" ("pretty") so every word pulls its weight.
-- 'Hang up the phone!' Max chooses an honest style in this beat, leaning on "trubku" ("the receiver") before closing the thought with "kladi" ("put down").
-- 'Thank you very much, I will call you back.' Nastya takes a pointed note in front of Vika, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
-- 'I did not get that, what do you mean 'I will call you back'?' Vika presses firmly to make the point, using "ponyal" (from "ponyat", "understood") alongside "znachit" ("then, so") to shape the meaning.
-- 'Well it was just a figure of speech!' Nastya sustains a steady line without hesitation, anchoring the Russian line on "slovu" ("word") and "prishlos" ("had to, it fell to") without extra filler.
-- 'Where are they heading, huh?' Max probes briskly on the spot, building the phrase around "kuda" ("where to") and "sobralis" ("planned") for a crisp, natural delivery.
-- 'Vika said that she would book a room.' Nastya favors an honest rhythm in the conversation, building the phrase around "skazala" ("told") and "nomer" ("number") for a crisp, natural delivery.
-- 'Viktoriya Sergeyevna asked me to take this wine to the room she booked.' Max adopts an emphatic note right away, anchoring the Russian line on "poprosila" ("asked") and "otnesti" ("to carry to") without extra filler.
-- 'Give me the key, please!' Max shares a grounded manner on the spot, putting "day" ("give") alongside "klyuch" ("key") in a tight, everyday turn of phrase.
+- 'Hello. Yes, all kinds of massage.' Vika states this answer right away: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Ask about intimacy!' Max weighs in dryly without a pause, testing Vika's reaction in the middle of the exchange.
+- 'And besides massage, anything intimate?' Nastya points to one practical detail on cue: "intimnoye" means "intimate" (from "intimnyy"), giving the line its exact edge.
+- 'Miss, well if you are pretty, then you and I will agree on everything.' Vika leans on this telling touch in earnest: "simpatichnaya" means "pretty" (from "simpatichnyy"), giving the line its exact edge.
+- 'Hang up the phone!' Max responds decisively with a nod, keeping the focus on what actually matters here.
+- 'Thank you very much, I will call you back.' Nastya uses this clear detail right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'I did not get that, what do you mean 'I will call you back'?' Vika shares this warning without fuss: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Well it was just a figure of speech!' Nastya stands firm boldly before Vika, keeping the focus on what actually matters here.
+- 'Where are they heading, huh?' Max uses this telling detail on cue: "sobralis" means "planned" (from "sobratsya"), giving the line its exact edge.
+- 'Vika said that she would book a room.' Nastya speaks up earnestly without any doubt, making her position completely clear.
+- 'Viktoriya Sergeyevna asked me to take this wine to the room she booked.' Max reacts openly beside Nastya, to clear the air between them once and for all.
+- 'Give me the key, please!' Max features this direct choice at once: "klyuch" means "key", and it carries the main weight of what Max is saying.

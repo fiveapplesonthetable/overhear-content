@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, has everyone gone home already?' Max queries pointedly to keep things clear, joining "skazhi" ("say") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Yes, and the Chef is finally sleeping.' Katya sets a direct rhythm as the scene unfolds, putting "nakonets-to" ("at last, finally") alongside "spit" ("is sleeping") in a tight, everyday turn of phrase.
-- 'I barely managed to put him to bed today.' Katya keeps an unhurried tack in front of Barinov, leaning on "segodnya" ("today") before closing the thought with "yele" ("barely, hardly").
-- 'He kept trying to burst out to find you.' Katya chooses a candid course beside Max, weaving "rvalsya" ("was eager") together with "on" ("he") just the way native speakers do.
-- 'So, what have you cooked up over there?' Katya prompts dryly from the start, pairing "tam" ("there") with "zadumal" ("planned, conceived") to get the point across in plain spoken Russian.
-- 'You will see right now, come on through here, please.' Max offers a serious line beside Katya, linking "seychas" ("now"), "uvidish" ("see"), and "prokhodite" ("come in") in one brisk exchange.
-- 'And just what is our plan?' Katya presses quietly without hesitation, building the phrase around "plan" ("plan") and "chyom" ("what") for a crisp, natural delivery.
-- 'Look, does this not remind you of anyone?' Max inquires candidly right away, weaving "posmotri" ("look") together with "napominayet" ("reminds of") just the way native speakers do.
-- 'What on earth happened in here yesterday?' Barinov questions wryly as the talk turns, joining "zdes" ("here") to "voobshche" ("at all") so every word pulls its weight.
-- 'Do you really remember nothing at all?' Katya prompts lightly as they speak, pairing "sovsem" ("at all") with "pomnish" ("do you remember") to get the point across in plain spoken Russian.
-- 'Of course, you can just get drunk and forget.' Katya presents a calm footing as they talk, linking "mozhno" ("may, can"), "prosto" ("just"), and "napitsya" ("get drunk") in one brisk exchange.
-- 'Here is the video from the surveillance camera.' Max offers a sharp view at once, linking "video" ("video"), "kamery" ("camera, video camera"), and "nablyudeniya" ("surveillance") in one brisk exchange.
+- 'Tell me, has everyone gone home already?' Max focuses on one telling piece in reply: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'Yes, and the Chef is finally sleeping.' Katya answers bluntly beside Max, watching Max's face to see how the news lands.
+- 'I barely managed to put him to bed today.' Katya counters sharply on the spot, keeping the focus on what actually matters here.
+- 'He kept trying to burst out to find you.' Katya points to one classic term toward Max: "rvalsya" means "was eager" (from "rvatsya"), giving the line its exact edge.
+- 'So, what have you cooked up over there?' Katya puts that line around Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'You will see right now, come on through here, please.' Max weighs in openly during the talk, to clear the air between them once and for all.
+- 'And just what is our plan?' Katya chooses one familiar term for Barinov: "plan" means "plan", and it carries the main weight of what Katya is saying.
+- 'Look, does this not remind you of anyone?' Max gives the thought with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'What on earth happened in here yesterday?' Barinov presses candidly to see how Katya will answer on the spot.
+- 'Do you really remember nothing at all?' Katya highlights one key word toward Max: "pomnish" means "do you remember" (from "pomnit"), giving the line its exact edge.
+- 'Of course, you can just get drunk and forget.' Katya brings that line frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Here is the video from the surveillance camera.' Max weighs in bluntly watching Katya, saying out loud what both of them already know.

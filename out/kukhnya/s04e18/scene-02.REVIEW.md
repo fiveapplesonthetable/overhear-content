@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, who do we have here?' Senya probes wryly beside Denis, linking "zdorovo" ("great, cool"), "tut" ("here"), and "kto" ("who") in one brisk exchange.
-- 'Hello, I was giving her tea.' Denis sustains a measured course as the scene unfolds, combining "zdravstvuyte" ("hello") and "chayem" ("tea") so the key meaning lands right away.
-- 'Good morning to all of you.' Katya establishes a playful footing during the exchange, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
-- 'Senya, why are you embarrassing people?' Denis wonders decisively in the room, using "lyudey" (from "chelovek", "people") alongside "smushchayesh" ("to people") to shape the meaning.
-- 'All right, let's go have breakfast together.' Senya brings a serious course as the scene unfolds, putting "poydyomte" ("come on, let's go") alongside "vmeste" ("together") in a tight, everyday turn of phrase.
-- 'Have you two been dating for a long time?' Senya queries honestly for Katya's benefit, putting "uzhe" ("already, now") alongside "davno" ("for a long time") in a tight, everyday turn of phrase.
-- 'Well, there is a very long story there.' Denis brings an easygoing style as the scene unfolds, joining "tam" ("there") to "ochen" ("very much") so every word pulls its weight.
-- 'We have been friends for a very long time.' Denis holds a measured posture straight away, weaving "druzhim" ("be friends") together with "uzhe" ("already, now") just the way native speakers do.
-- 'And we are only dating starting today.' Denis takes a calm view in the scene, linking "vstrechayemsya" ("have been going out"), "tolko" ("only"), and "segodnya" ("today") in one brisk exchange.
-- 'Today will be our first day.' Denis holds a grounded angle as they talk, pairing "segodnya" ("today") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'Yes, Katyusha, eat up, eat.' Denis picks a warm direction in their talk, pairing "katyusha" ("eat") with "yesh" ("eat") to get the point across in plain spoken Russian.
-- 'Thank you, everything is very tasty.' Katya shares a lively tone during the exchange, combining "spasibo" ("thank you") and "ochen" ("very much") so the key meaning lands right away.
+- 'Hey there, who do we have here?' Senya voices this answer on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Hello, I was giving her tea.' Denis stands firm bluntly to be clear, so Senya knows he is not just making small talk.
+- 'Good morning to all of you.' Katya reaches for one familiar touch in earnest: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Senya, why are you embarrassing people?' Denis puts that line facing Senya: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'All right, let's go have breakfast together.' Senya continues boldly as things stand, letting the remark speak for itself.
+- 'Have you two been dating for a long time?' Senya centers one sharp detail right here: "vstrechayetes" means "are dating" (from "vstrechatsya"), giving the line its exact edge.
+- 'Well, there is a very long story there.' Denis states the comeback briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We have been friends for a very long time.' Denis proceeds plainly without any doubt, saying out loud what both of them already know.
+- 'And we are only dating starting today.' Denis grounds one memorable expression on cue: "vstrechayemsya" means "have been going out" (from "vstrechatsya"), giving the line its exact edge.
+- 'Today will be our first day.' Denis proceeds boldly beside Senya, without trying to dress up how he really feels.
+- 'Yes, Katyusha, eat up, eat.' Denis holds firm lightly with a nod, shifting the whole mood of the room in a single beat.
+- 'Thank you, everything is very tasty.' Katya picks one classic element in earnest: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.

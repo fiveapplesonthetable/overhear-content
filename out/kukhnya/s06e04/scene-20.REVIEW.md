@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, what is going on here?' Lyova quizzes lightly with Gulya now, linking "proiskhodit" ("is going on"), "tak" ("so"), and "eto" ("this") in one brisk exchange.
-- 'Lyova, five thousand disappeared from our box!' Gulya strikes a wry tone right away, linking "korobki" ("boxes"), "ischezli" ("disappeared"), and "tysyach" ("thousand") in one brisk exchange.
-- 'Why, I was the one who took them this afternoon!' Lyova presents a serious note as they talk, putting "vzyal" ("took") alongside "dnem" ("day") in a tight, everyday turn of phrase.
-- 'Well you see, everything cleared up right away.' Gulya brings an emphatic stance in the conversation, building the phrase around "vidish" ("see") and "srazu" ("at once") for a crisp, natural delivery.
-- 'I told you, a wonderful person, a magnificent housekeeper!' Katya adopts a pointed mood in the scene, combining "govorila" ("said") and "prekrasnyy" ("beautiful") so the key meaning lands right away.
-- 'Mom, Gulya is my girlfriend!' Lyova holds a resolute stance straight away, leaning on "mama" ("mum, mother") before closing the thought with "devushka" ("girlfriend").
-- 'What a lovely couple, I liked her right from the start.' Gulya shows an emphatic posture at once, joining "krasivaya" ("pretty, beautiful") to "para" ("a match, a pair") so every word pulls its weight.
-- 'Goodbye, everyone.' Katya keeps a grounded course in front of Lyova, building the phrase around "svidaniya" ("meeting") and "do" ("until") for a crisp, natural delivery.
-- 'Guys, I forgot to introduce you, this is my boyfriend Olivier.' Katya strikes a candid posture beside Gulya, combining "rebyata" ("the boys, the lads") and "zabyla" ("forgot") so the key meaning lands right away.
-- 'Why did they look at me like that?' Gulya quizzes firmly without holding back, weaving "pochemu" ("why") together with "posmotreli" ("looked through") just the way native speakers do.
-- 'What did you just say to them?' Gulya challenges quietly for Katya's benefit, joining "seychas" ("now") to "skazala" ("told") so every word pulls its weight.
-- 'I told them that you are my boyfriend.' Katya keeps a resolute manner for Lyova, weaving "skazala" ("told") together with "paren" ("boyfriend") just the way native speakers do.
+- 'Alright, what is going on here?' Lyova offers this update without fuss: putting the question word "chto" right at the front of the line lets Gulya hear the point of the question on the very first beat.
+- 'Lyova, five thousand disappeared from our box!' Gulya replies warmly without holding back, before Lyova can change the subject.
+- 'Why, I was the one who took them this afternoon!' Lyova chooses one colorful piece right here: "vzyal" means "took" (from "vzyat"), giving the line its exact edge.
+- 'Well you see, everything cleared up right away.' Gulya gives this point right away: the "-sya" ending on "razyasnilos" ("cleared up") turns the action inward or makes it happen between people naturally.
+- 'I told you, a wonderful person, a magnificent housekeeper!' Katya reacts decisively to settle things, shifting the whole mood of the room in a single beat.
+- 'Mom, Gulya is my girlfriend!' Lyova centers one classic expression right here: "devushka" means "girlfriend", and it carries the main weight of what Lyova is saying.
+- 'What a lovely couple, I liked her right from the start.' Gulya steps in promptly with Katya, to clear the air between them once and for all.
+- 'Goodbye, everyone.' Katya counters quietly toward Lyova, refusing to let the moment slip past.
+- 'Guys, I forgot to introduce you, this is my boyfriend Olivier.' Katya favors one practical detail in reply: "poznakomit" means "to introduce", and it carries the main weight of what Katya is saying.
+- 'Why did they look at me like that?' Gulya offers that remark before Lyova: putting the question word "pochemu" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'What did you just say to them?' Gulya presses wryly where this conversation is heading next.
+- 'I told them that you are my boyfriend.' Katya underscores this direct choice in reply: "skazala" means "told" (from "skazat"), giving the line its exact edge.

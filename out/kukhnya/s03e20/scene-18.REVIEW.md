@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why on earth are we doing this right now?' Rodion quizzes bluntly in the room, anchoring the Russian line on "zachem" ("what for") and "voobshche" ("at all") without extra filler.
-- 'This great restaurant must never be disgraced!' Barinov displays an honest course straight away, putting "velikiy" ("great") alongside "restoran" ("restaurant") in a tight, everyday turn of phrase.
-- 'Better let it burn down than become a cheap beer hall!' Barinov strikes a sharp angle for Nagiyev, weaving "luchshe" ("better") together with "sgorit" ("will burn down") just the way native speakers do.
-- 'What are you doing, guys? Have you lost your minds?' Nagiyev queries quietly without hesitation, anchoring the Russian line on "tvorite" ("are doing, perpetrating") and "rebyata" ("the boys, the lads") without extra filler.
-- 'Dmitry Vladimirovich, we are carrying out justice right here!' Rodion takes a playful tack without hesitation, linking "zdes" ("here"), "seychas" ("now"), and "tvorim" ("we are doing") in one brisk exchange.
-- 'What justice? You are going to burn down my restaurant right now!' Nagiyev queries calmly without hesitation, joining "yeshchyo" ("more, still") to "pravosudiye" ("justice") so every word pulls its weight.
-- 'It is no longer yours! They want to make a beer hall out of it!' Barinov offers a pointed posture in the scene, joining "bolshe" ("more") to "khotyat" ("want") so every word pulls its weight.
-- 'This is my restaurant, I just bought it back!' Nagiyev maintains a direct style for Rodion, weaving "restoran" ("restaurant") together with "tolko" ("only") just the way native speakers do.
-- 'Wait, they charged you three times as much!' Barinov picks an unhurried attitude for Nagiyev, combining "podozhdi" ("wait") and "zaryadili" ("charged") so the key meaning lands right away.
-- 'They gave me the money! This golden man right here—Rodion Sergeyevich!' Nagiyev strikes a steady tempo on the spot, joining "deneg" ("money") to "dali" ("gave") so every word pulls its weight.
-- 'If people do not learn to help one another, the world will vanish!' Rodion shares a natural mood in the conversation, weaving "lyudi" ("people") together with "nauchatsya" ("to learn") just the way native speakers do.
-- 'Enough talking, quickly save our beloved restaurant!' Nagiyev displays a clear tack in front of Rodion, building the phrase around "khvatit" ("enough") and "govorit" ("to talk") for a crisp, natural delivery.
+- 'Chef, why on earth are we doing this right now?' Rodion prompts eagerly if there is more going on behind the scenes.
+- 'This great restaurant must never be disgraced!' Barinov favors one sharp term on cue: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
+- 'Better let it burn down than become a cheap beer hall!' Barinov replies steadily beside Nagiyev, to clear the air between them once and for all.
+- 'What are you doing, guys? Have you lost your minds?' Nagiyev inquires quietly if there is more going on behind the scenes.
+- 'Dmitry Vladimirovich, we are carrying out justice right here!' Rodion frames one pointed expression toward Barinov: "pravosudiye" means "justice", and it carries the main weight of what Rodion is saying.
+- 'What justice? You are going to burn down my restaurant right now!' Nagiyev states the reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
+- 'It is no longer yours! They want to make a beer hall out of it!' Barinov weighs in lightly beside Nagiyev, keeping the focus on what actually matters here.
+- 'This is my restaurant, I just bought it back!' Nagiyev colors this sharp choice with Rodion: "restoran" means "restaurant", and it carries the main weight of what Nagiyev is saying.
+- 'Wait, they charged you three times as much!' Barinov chooses one familiar choice toward Nagiyev: "zaryadili" means "charged" (from "zaryadit"), giving the line its exact edge.
+- 'They gave me the money! This golden man right here—Rodion Sergeyevich!' Nagiyev replies earnestly with a sigh, keeping the focus on what actually matters here.
+- 'If people do not learn to help one another, the world will vanish!' Rodion highlights one classic piece in earnest: "nauchatsya" means "to learn" (from "nauchitsya"), giving the line its exact edge.
+- 'Enough talking, quickly save our beloved restaurant!' Nagiyev pushes back honestly without holding back, leaving no doubt about where he stands.

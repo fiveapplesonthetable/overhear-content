@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen to me, these powders are completely legal!' Denis takes a measured attitude on the spot, joining "poslushayte" ("listen") to "poroshki" ("powder") so every word pulls its weight.
-- 'All of you say the exact same thing during interrogation!' The inspector adopts an easygoing rhythm in this beat, joining "doprose" ("same") to "govorite" ("say, speak") so every word pulls its weight.
-- 'Answer honestly, what is this white powder called?' The inspector wonders frankly without holding back, pairing "otvechay" ("answer") with "chestno" ("honestly") to get the point across in plain spoken Russian.
-- 'It is written here, this is ordinary culinary agar-agar.' Denis sustains a frank tempo right away, anchoring the Russian line on "zdes" ("here") and "napisano" ("is written") without extra filler.
-- 'Whoa, some new kind of junk has appeared!' The inspector projects a serious tempo in their talk, weaving "ocherednaya" ("another, next") together with "novaya" ("new") just the way native speakers do.
-- 'And what do you usually do with this powder?' The inspector asks pointedly for the guest's benefit, pairing "obychno" ("usually") with "poroshkom" ("powder") to get the point across in plain spoken Russian.
-- 'I am telling you, we cook food out of it!' Denis presents a grounded view beside the guest, pairing "govoryu" ("am telling") with "gotovim" ("are preparing") to get the point across in plain spoken Russian.
-- 'They asked me in the kitchen to buy this quickly.' Denis shares a steady rhythm as the scene unfolds, leaning on "kukhne" ("kitchen") before closing the thought with "poprosili" ("to ask, to request").
-- 'All right, detained citizen, you are now completely free!' The guest establishes a natural direction for Denis, putting "zaderzhannyy" ("right") alongside "grazhdanin" ("citizen") in a tight, everyday turn of phrase.
-- 'Excuse us, a very foolish misunderstanding occurred.' The guest sustains a playful posture without hesitation, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "proizoshlo" ("happened") to shape the meaning.
-- 'Really, you are letting me go to work right now?' Denis presses plainly with the guest now, building the phrase around "pravda" ("honestly") and "seychas" ("now") for a crisp, natural delivery.
-- 'Thank you very much, goodbye!' Denis offers a clear angle toward the inspector, leaning on "spasibo" ("thank you") before closing the thought with "ogromnoye" ("huge, so very much").
+- 'Listen to me, these powders are completely legal!' Denis speaks decisively beside the guest, letting the remark speak for itself.
+- 'All of you say the exact same thing during interrogation!' The inspector frames this direct expression in reply: "doprose" means "same", and it carries the main weight of what the inspector is saying.
+- 'Answer honestly, what is this white powder called?' The inspector shapes that point beside Denis: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
+- 'It is written here, this is ordinary culinary agar-agar.' Denis stands firm honestly watching the inspector, bringing things back to earth after the buildup.
+- 'Whoa, some new kind of junk has appeared!' The inspector underscores one loaded touch with Denis: "ocherednaya" means "another, next" (from "ocherednoy"), giving the line its exact edge.
+- 'And what do you usually do with this powder?' The inspector delivers this statement frankly here: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'I am telling you, we cook food out of it!' Denis follows up evenly without holding back, testing the guest's reaction in the middle of the exchange.
+- 'They asked me in the kitchen to buy this quickly.' Denis colors one classic term right here: "poprosili" means "to ask, to request" (from "poprosit"), giving the line its exact edge.
+- 'All right, detained citizen, you are now completely free!' The guest puts the thought for Denis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Excuse us, a very foolish misunderstanding occurred.' The guest stands firm honestly with a shrug, bringing things back to earth after the buildup.
+- 'Really, you are letting me go to work right now?' Denis favors one vivid term on cue: "otpuskayete" means "to let go, to release" (from "otpuskat"), giving the line its exact edge.
+- 'Thank you very much, goodbye!' Denis gives this point without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

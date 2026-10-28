@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I beg you, please forgive me for everything!' Max keeps a lively stance without hesitation, joining "proshu" ("beg, ask") to "prosti" ("sorry, forgive me") so every word pulls its weight.
-- 'Tell me honestly, Max, will you marry me?' Vika inquires wryly to keep things clear, using "skazhi" (from "skazat", "say") alongside "chestno" ("honestly") to shape the meaning.
-- 'They say the properties of human memory have still not been studied.' Max shares an easygoing tack with Kostya, anchoring the Russian line on "govoryat" ("talks, says") and "svoystva" ("properties") without extra filler.
-- 'In difficult moments we remember someone truly close to us.' Max brings a firm position in the room, pairing "trudnyye" ("difficult, hard") with "minuty" ("minutes") to get the point across in plain spoken Russian.
-- 'Why is it sometimes so hard to forget all grievances?' Max challenges sharply as they speak, joining "pochemu" ("why") to "inogda" ("sometimes, at times") so every word pulls its weight.
-- 'And remember that there is nothing more important than old proven friendship.' Max establishes a playful course right away, pairing "vspomnit" ("to remember") with "vazhneye" ("more important") to get the point across in plain spoken Russian.
-- 'Max, why are you standing there by the door?' Kostya tests warmly to make the point, building the phrase around "tam" ("there") and "vstal" ("stood up, got up") for a crisp, natural delivery.
-- 'Come over here quickly, look what a son was born to me!' Kostya sets an honest tack toward Vika, putting "idi" ("go") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
-- 'In our life there are such wonderful and bright moments.' Max keeps a natural approach on the spot, using "zhizni" (from "zhizn", "life") alongside "byvayut" ("occur, happen") to shape the meaning.
-- 'Which one wants to keep forever in one's memory.' Max chooses an easygoing line in their talk, joining "khochetsya" ("want, feel like") to "navsegda" ("forever") so every word pulls its weight.
-- 'Kostik, how wrong I was this morning!' Vika chooses a direct approach during the exchange, building the phrase around "kak" ("how") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Because this is the very best day of my life!' Vika projects a wry angle right away, leaning on "potomu" ("because") before closing the thought with "samyy" ("the most").
+- 'Vika, I beg you, please forgive me for everything!' Max phrases this update to Kostya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Tell me honestly, Max, will you marry me?' Vika questions earnestly if there is more going on behind the scenes.
+- 'They say the properties of human memory have still not been studied.' Max frames one loaded touch in reply: "chelovecheskoy" means "human" (from "chelovecheskiy"), giving the line its exact edge.
+- 'In difficult moments we remember someone truly close to us.' Max continues evenly hearing Vika, watching Vika's face to see how the news lands.
+- 'Why is it sometimes so hard to forget all grievances?' Max inquires deadpan about what Kostya just brought up.
+- 'And remember that there is nothing more important than old proven friendship.' Max reaches for one practical term at once: "proverennoy" means "tested, proven" (from "proverennyy"), giving the line its exact edge.
+- 'Max, why are you standing there by the door?' Kostya hands over that line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Come over here quickly, look what a son was born to me!' Kostya answers warmly on the spot, making his position completely clear.
+- 'In our life there are such wonderful and bright moments.' Max underscores one practical expression in earnest: "chudesnyye" means "wonderful, miraculous" (from "chudesnyy"), giving the line its exact edge.
+- 'Which one wants to keep forever in one's memory.' Max directs that reply calmly now: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
+- 'Kostik, how wrong I was this morning!' Vika responds wryly as things stand, making her position completely clear.
+- 'Because this is the very best day of my life!' Vika favors one clear element at once: "luchshiy" means "best", and it carries the main weight of what Vika is saying.

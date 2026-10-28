@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are ratings for interior, presentation, and the chef's dish.' Louis conveys a brisk approach as the scene unfolds, leaning on "tut" ("here") before closing the thought with "otsenki" ("evaluation").
-- 'So our new head chef really made a mess for him.' Lyova displays a warm note toward Louis, weaving "znachit" ("then, so") together with "novyy" ("new") just the way native speakers do.
-- 'At least the presentation of the dish is very creative.' Louis chooses an unhurried view toward Barinov, anchoring the Russian line on "podacha" ("presentation") and "blyuda" ("of dish") without extra filler.
-- 'He writes here about some new head chef.' Louis presents an honest tack at once, combining "pishet" ("is writing") and "tut" ("here") so the key meaning lands right away.
-- 'Hello, Lyova, well what is going on with you there?' Barinov quizzes naturally toward Louis here, joining "tam" ("there") to "allo" ("hello") so every word pulls its weight.
-- 'The Michelin inspector is sitting in our dining room, Chef!' Lyova establishes a brisk position in the room, combining "zale" ("hall") and "sidit" ("sits") so the key meaning lands right away.
-- 'Who is sitting there? How did he end up there?' Barinov challenges firmly in the room, putting "sidit" ("sits") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'We found his notebook with restaurant ratings.' Lyova offers a direct bearing at this moment, building the phrase around "nashli" ("found, did find") and "bloknot" ("notepad") for a crisp, natural delivery.
-- 'And Oguzok just took his own dish out to him.' Lyova strikes a playful posture in their talk, weaving "tolko" ("only") together with "otnyos" ("to carry to") just the way native speakers do.
-- 'He served the inspector his signature pâté!' Lyova offers a thoughtful tack across the room, weaving "podal" ("submitted, filed") together with "inspektoru" ("inspector") just the way native speakers do.
-- 'What do you mean pâté? Hold him, I am racing over right now!' Barinov quizzes wryly with Louis now, building the phrase around "kak" ("how") and "pashtet" ("pâté") for a crisp, natural delivery.
-- 'Chef is already flying back to our kitchen.' Lyova chooses an emphatic note in front of Louis, anchoring the Russian line on "uzhe" ("already, now") and "letit" ("is flying") without extra filler.
+- 'Here are ratings for interior, presentation, and the chef's dish.' Louis states that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So our new head chef really made a mess for him.' Lyova pushes back firmly to settle things, before Louis can change the subject.
+- 'At least the presentation of the dish is very creative.' Louis reaches for this sharp piece in reply: "kreativnaya" means "creative" (from "kreativnyy"), giving the line its exact edge.
+- 'He writes here about some new head chef.' Louis follows up pointedly with a shrug, watching Lyova's face to see how the news lands.
+- 'Hello, Lyova, well what is going on with you there?' Barinov probes candidly about what Louis just brought up.
+- 'The Michelin inspector is sitting in our dining room, Chef!' Lyova chooses one vivid word at once: "mishlenovskiy" means "Michelin", and it carries the main weight of what Lyova is saying.
+- 'Who is sitting there? How did he end up there?' Barinov aims this warning calmly now: the "-sya" ending on "okazalsya" ("turned up") turns the action inward or makes it happen between people naturally.
+- 'We found his notebook with restaurant ratings.' Lyova weighs in dryly facing Louis, to clear the air between them once and for all.
+- 'And Oguzok just took his own dish out to him.' Lyova stresses one familiar detail on cue: "blyudo" means "dish", and it carries the main weight of what Lyova is saying.
+- 'He served the inspector his signature pâté!' Lyova weighs in plainly in their talk, watching Louis's face to see how the news lands.
+- 'What do you mean pâté? Hold him, I am racing over right now!' Barinov asks skeptically in front of Louis without any preamble.
+- 'Chef is already flying back to our kitchen.' Lyova centers this telling expression on cue: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.

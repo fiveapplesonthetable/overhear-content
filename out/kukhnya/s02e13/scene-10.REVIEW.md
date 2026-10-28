@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich.' Max maintains a candid mood in their talk, building the phrase around "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") for a crisp, natural delivery.
-- 'No, no.' Nagiyev offers a resolute bearing in the room, leaning on "net" ("no") as a compact, one-word response that needs no extra words.
-- 'We will go together.' Fedya takes an honest angle in the scene, joining "vmeste" ("together") to "poyedem" ("will be off") so every word pulls its weight.
-- 'And I will be the one held responsible later.' Max sustains an earnest direction in this beat, building the phrase around "potom" ("then") and "otvechat" ("to answer") for a crisp, natural delivery.
-- 'Well, it is the vegetarian.' Nagiyev takes a grounded position at this moment, joining "vegetarianets" ("vegetarian") to "nu" ("oh, come on") so every word pulls its weight.
-- 'He ordered the exact same rolls as last time.' Fedya shares a resolute line at this moment, combining "zakazal" ("ordered") and "ruletiki" ("little roll") so the key meaning lands right away.
-- 'The vegetarian. He ordered the exact same rolls.' Max takes an earnest course in this beat, leaning on "vegetarianets" ("vegetarian") before closing the thought with "zakazal" ("ordered").
-- 'So this order is on you.' Nagiyev keeps a wry tempo at once, putting "zakaz" ("order") alongside "tak" ("so") in a tight, everyday turn of phrase.
-- 'It will turn out to be a proper vegetarian dish.' Fedya sets a playful view without hesitation, putting "normalnoye" ("normal") alongside "vegetarianskoye" ("vegetarian") in a tight, everyday turn of phrase.
-- 'Stop feeding the man meat for free.' Max shows a brisk position in front of Nagiyev, combining "khvatit" ("enough") and "cheloveka" ("a man, a person") so the key meaning lands right away.
-- 'No, I am very hungry myself.' Nagiyev adopts a natural line in this beat, combining "ochen" ("very much") and "yest" ("there is") so the key meaning lands right away.
-- 'Oh, alright, alright.' Fedya keeps a lively bearing for Nagiyev, weaving "nu" ("oh, come on") together with "ladno" ("all right") just the way native speakers do.
-- 'Here, compliments of the chef.' Max maintains a natural tone during the exchange, linking "kompliment" ("complimentary gift"), "shefa" ("chef"), and "na" ("on, onto") in one brisk exchange.
+- 'Dmitry Vladimirovich.' Max makes this update briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'No, no.' Nagiyev hands over that point to Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'We will go together.' Fedya speaks dryly with Max, steering the talk right where he wants it.
+- 'And I will be the one held responsible later.' Max centers one loaded touch right here: "otvechat" means "to answer", and it carries the main weight of what Max is saying.
+- 'Well, it is the vegetarian.' Nagiyev voices this point toward Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He ordered the exact same rolls as last time.' Fedya opens up steadily in this moment, shifting the whole mood of the room in a single beat.
+- 'The vegetarian. He ordered the exact same rolls.' Max points to one key piece in earnest: "vegetarianets" means "vegetarian", and it carries the main weight of what Max is saying.
+- 'So this order is on you.' Nagiyev states this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It will turn out to be a proper vegetarian dish.' Fedya answers lightly across the room, saying out loud what both of them already know.
+- 'Stop feeding the man meat for free.' Max focuses on one clear expression with Nagiyev: "besplatno" means "for free", and it carries the main weight of what Max is saying.
+- 'No, I am very hungry myself.' Nagiyev reacts right away watching Fedya, bringing things back to earth after the buildup.
+- 'Oh, alright, alright.' Fedya counters at once before Nagiyev, letting the remark speak for itself.
+- 'Here, compliments of the chef.' Max picks one vivid detail in earnest: "kompliment" means "complimentary gift", and it carries the main weight of what Max is saying.

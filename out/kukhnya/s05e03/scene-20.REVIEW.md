@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, let's get out of here quickly.' Katya takes a calm tone without hesitation, combining "mama" ("mum, mother") and "poydyom" ("let's go") so the key meaning lands right away.
-- 'Maybe he is in the shower right now.' Katya sustains a clear rhythm during the exchange, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
-- 'Let him go, they have left already!' Denis conveys a calm rhythm during the exchange, weaving "otpusti" ("let go, release") together with "uzhe" ("already, now") just the way native speakers do.
-- 'A weakness can turn into a big secret.' Denis sustains a natural tack during the exchange, leaning on "slabost" ("weakness") before closing the thought with "mozhet" ("can").
-- 'A secret can destroy our whole life.' Denis sustains a direct position in front of Barinov, joining "tayna" ("secrecy, privilege") to "mozhet" ("can") so every word pulls its weight.
-- 'Congratulations on your housewarming!' Barinov adopts a brisk posture as they talk, pairing "pozdravlyayu" ("congratulations") with "novoselyem" ("housewarming") to get the point across in plain spoken Russian.
-- 'They do not live long with me.' Barinov establishes a resolute position on the spot, anchoring the Russian line on "dolgo" ("for a long time") and "zhivut" ("live") without extra filler.
-- 'Someone keeps secrets for the sake of loved ones.' Denis adopts an earnest tack in the conversation, putting "khranit" ("keeps") alongside "tayny" ("secrets") in a tight, everyday turn of phrase.
-- 'For some reason your mom is not firing me.' Barinov displays a sharp bearing straight away, anchoring the Russian line on "mama" ("mum, mother") and "pochemu-to" ("for some reason") without extra filler.
-- 'She promised to. Do you know why?' Barinov checks boldly in this moment, combining "obeshchala" ("promised") and "znayesh" ("know") so the key meaning lands right away.
-- 'Yes, Dad, I know why.' Katya sustains a calm view across the room, anchoring the Russian line on "papa" ("Dad") and "znayu" ("know") without extra filler.
-- 'Because you are a really cool chef.' Katya brings a pointed angle toward Denis, placing "potomu" ("because") straight beside "ochen" ("very much") with no word for "to be" needed.
-- 'Someone is ready to separate close people.' Denis shows a wry manner for Barinov, weaving "gotov" ("ready") together with "razluchit" ("to separate") just the way native speakers do.
-- 'And someone cannot entrust a secret even to himself.' Denis adopts an emphatic posture at once, putting "mozhet" ("can") alongside "doverit" ("to entrust") in a tight, everyday turn of phrase.
+- 'Mom, let's get out of here quickly.' Katya puts the comment toward Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Maybe he is in the shower right now.' Katya stands firm bluntly with a shrug, so Denis knows she is not just making small talk.
+- 'Let him go, they have left already!' Denis sharpens this vivid expression at once: "otpusti" means "let go, release" (from "otpustit"), giving the line its exact edge.
+- 'A weakness can turn into a big secret.' Denis voices that remark for Katya: the "-sya" ending on "prevratitsya" ("to turn into") turns the action inward or makes it happen between people naturally.
+- 'A secret can destroy our whole life.' Denis stands firm pointedly as things stand, saying out loud what both of them already know.
+- 'Congratulations on your housewarming!' Barinov picks this sharp term for Katya: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'They do not live long with me.' Barinov shares the comeback beside Denis: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Someone keeps secrets for the sake of loved ones.' Denis reacts quietly hearing Katya, testing Katya's reaction in the middle of the exchange.
+- 'For some reason your mom is not firing me.' Barinov spotlights one clear choice for Denis: "pochemu-to" means "for some reason", and it carries the main weight of what Barinov is saying.
+- 'She promised to. Do you know why?' Barinov frames this warning toward Katya: putting the question word "pochemu" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Yes, Dad, I know why.' Katya stands firm wryly during the talk, leaving no doubt about where she stands.
+- 'Because you are a really cool chef.' Katya chooses one clear word with Denis: "krutoy" means "cool", and it carries the main weight of what Katya is saying.
+- 'Someone is ready to separate close people.' Denis steps in evenly to settle things, watching Barinov's face to see how the news lands.
+- 'And someone cannot entrust a secret even to himself.' Denis reacts briskly with a shrug, before Katya can change the subject.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is no need to make a scene in the apartment so early!' Max shows a candid stance as they talk, weaving "nuzhno" ("necessary") together with "kvartire" ("flat") just the way native speakers do.
-- 'What, could it get in the way?' Vika questions wryly as they speak, combining "mozhet" ("can") and "meshatsya" ("to get in the way") so the key meaning lands right away.
-- 'Well, just take a look at Pashka.' Max displays a frank position as the scene unfolds, leaning on "posmotri" ("look") before closing the thought with "nu" ("oh, come on").
-- 'They will get to work and sort everything out.' Vika picks a pointed attitude beside Max, leaning on "pridut" ("will come") before closing the thought with "rabotu" ("job").
-- 'How are you feeling today?' Max presses earnestly from the start, placing "kak" ("how") straight beside "samochuvstviye" ("health, well-being") with no word for "to be" needed.
-- 'That is actually what I wanted to ask you.' Max holds a candid stance without hesitation, joining "khotel" ("wanted") to "sprosit" ("to ask") so every word pulls its weight.
-- 'How am I feeling?' Max checks candidly in front of Vika, linking "kak" ("how"), "samochuvstviye" ("health, well-being"), and "moye" ("my") in one brisk exchange.
-- 'No, no, do not worry.' Vika projects a direct angle as the scene unfolds, pairing "volnuytes" ("worry") with "net" ("no") to get the point across in plain spoken Russian.
-- 'Let us wait for the MRI results.' Max picks an earnest tack right away, linking "dozhdemsya" ("to wait for"), "rezultatov" ("results"), and "mrt" ("MRI scan") in one brisk exchange.
-- 'Only one thing is required of you.' Vika shows an emphatic rhythm for Max, anchoring the Russian line on "trebuyetsya" ("to be required") and "tolko" ("only") without extra filler.
-- 'To follow the regimen strictly.' Max conveys a brisk note in the room, weaving "strogo" ("sternly, strictly") together with "soblyudat" ("to observe") just the way native speakers do.
-- 'I will do everything I possibly can.' Vika adopts a thoughtful attitude in the room, putting "sdelayu" ("I'll do") alongside "vozmozhno" ("perhaps, possible") in a tight, everyday turn of phrase.
-- 'I hope you will be leaving us very soon.' Max establishes a lively style right away, weaving "nadeyus" ("hope so") together with "skoro" ("soon") just the way native speakers do.
+- 'There is no need to make a scene in the apartment so early!' Max offers the remark plainly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'What, could it get in the way?' Vika prompts calmly to see how Max will answer on the spot.
+- 'Well, just take a look at Pashka.' Max colors this vivid term on cue: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
+- 'They will get to work and sort everything out.' Vika aims that line facing Max: the "-sya" ending on "dogovoryatsya" ("to agree, to arrange") turns the action inward or makes it happen between people naturally.
+- 'How are you feeling today?' Max wonders deadpan to see how Vika will answer on the spot.
+- 'That is actually what I wanted to ask you.' Max uses one clear element at once: "sprosit" means "to ask", and it carries the main weight of what Max is saying.
+- 'How am I feeling?' Max aims the comment facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'No, no, do not worry.' Vika jumps in steadily without a pause, leaving no doubt about where she stands.
+- 'Let us wait for the MRI results.' Max centers this telling term at once: "rezultatov" means "results" (from "rezultat"), giving the line its exact edge.
+- 'Only one thing is required of you.' Vika sends the comeback right away: the "-sya" ending on "trebuyetsya" ("to be required") turns the action inward or makes it happen between people naturally.
+- 'To follow the regimen strictly.' Max fires back dryly without a pause, before Vika can change the subject.
+- 'I will do everything I possibly can.' Vika features one key word for Max: "vozmozhno" means "perhaps, possible", and it carries the main weight of what Vika is saying.
+- 'I hope you will be leaving us very soon.' Max points to this telling term toward Vika: "pokinete" means "to leave, to vacate" (from "pokinut"), giving the line its exact edge.

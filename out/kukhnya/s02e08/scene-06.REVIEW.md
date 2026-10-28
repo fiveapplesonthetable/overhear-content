@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything according to...' Barinov establishes a warm posture straight away, pairing "vse" ("all") with "po" ("according to") to get the point across in plain spoken Russian.
-- 'Get out of here.' Kostya sustains a pointed course as the scene unfolds, building the phrase around "poshel" ("go, off you go") and "von" ("over there") for a crisp, natural delivery.
-- 'Exactly.' Barinov takes an easygoing style as they talk, building the phrase around "vot" ("there, here") and "imenno" ("exactly, precisely") for a crisp, natural delivery.
-- 'Wait, are you upset?' Kostya tests wryly right away, weaving "rasstroilas" ("got upset") together with "ty" ("you") just the way native speakers do.
-- 'No, not really.' Barinov presents a pointed rhythm in the room, anchoring the Russian line on "da" ("yes") and "net" ("no") without extra filler.
-- 'That means you are upset.' Kostya sets a direct style with Barinov, pairing "znachit" ("then, so") with "rasstroilas" ("got upset") to get the point across in plain spoken Russian.
-- 'He is still my dad, after all.' Barinov displays an easygoing angle in the conversation, linking "papa" ("Dad"), "eto" ("this"), and "zhe" ("but, after all") in one brisk exchange.
-- 'Why did the two of you have a falling-out anyway?' Kostya asks lightly to keep things clear, putting "porugalis" ("to quarrel") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'Those are cows and pigs.' Barinov maintains a natural tempo without hesitation, leaning on "korovy" ("cow") before closing the thought with "svini" ("pig, swine").
-- 'I hate what happens to them.' Kostya picks a playful bearing in front of Barinov, anchoring the Russian line on "nenavizhu" ("hate") and "ya" ("I") without extra filler.
-- 'Mom, I am not a child anymore.' Barinov shares a clear footing at once, placing "mama" ("mum, mother") straight beside "rebyonok" ("a child") with no word for "to be" needed.
-- 'I am a person with my own civic stance.' Kostya presents a steady line across the room, placing "chelovek" ("a man, a person") straight beside "grazhdanskoy" ("civil, civic") with no word for "to be" needed.
-- 'Well, listen here, person.' Barinov projects a pointed note right away, linking "chelovek" ("a man, a person"), "nu" ("oh, come on"), and "tak" ("so") in one brisk exchange.
+- 'Everything according to...' Barinov cuts in sharply with Kostya, so Kostya knows he is not just making small talk.
+- 'Get out of here.' Kostya uses one telling word at once: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.
+- 'Exactly.' Barinov frames this answer before Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Wait, are you upset?' Kostya questions firmly about what Barinov just brought up.
+- 'No, not really.' Barinov offers that answer at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'That means you are upset.' Kostya delivers that reply at once: the "-sya" ending on "rasstroilas" ("got upset") turns the action inward or makes it happen between people naturally.
+- 'He is still my dad, after all.' Barinov pushes back steadily toward Kostya, refusing to let the moment slip past.
+- 'Why did the two of you have a falling-out anyway?' Kostya spotlights this vivid piece in earnest: "porugalis" means "to quarrel" (from "porugatsya"), giving the line its exact edge.
+- 'Those are cows and pigs.' Barinov lays out the comeback facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I hate what happens to them.' Kostya holds firm candidly on the spot, leaving no doubt about where he stands.
+- 'Mom, I am not a child anymore.' Barinov highlights one loaded choice on cue: "rebyonok" means "a child", and it carries the main weight of what Barinov is saying.
+- 'I am a person with my own civic stance.' Kostya puts that line to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, listen here, person.' Barinov jumps in quietly without any doubt, keeping the focus on what actually matters here.

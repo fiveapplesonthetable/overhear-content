@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, you two certainly deserve each other.' Barinov sustains a direct stance toward Max, leaning on "konechno" ("of course") before closing the thought with "drug" ("friend").
-- 'Just listen to him talk.' Vika keeps a direct stance right away, joining "tolko" ("only") to "poslushayte" ("listen") so every word pulls its weight.
-- 'And what about yourself?' Max probes openly from the start, letting the single Russian word "sam" ("yourself") carry the entire reaction on its own.
-- 'What are you allowing yourself to do, Vitya, who is this?' Vika presses plainly as the talk turns, combining "pozvolyayete" ("allow, permit") and "vy" ("you") so the key meaning lands right away.
-- 'What nonsense are you all spouting in here?' Vika tests bluntly with Barinov now, building the phrase around "tut" ("here") and "nesete" ("bring") for a crisp, natural delivery.
-- 'Why on earth do you need Louis?' Max asks dryly on the spot, pairing "zachem" ("what for") with "vam" ("you") to get the point across in plain spoken Russian.
-- 'I am going to explain everything right now.' Barinov shows a measured rhythm as they talk, leaning on "seychas" ("now") before closing the thought with "obyasnyu" ("I'll explain").
-- 'Why does all of this remind me of something?' Vika questions earnestly from the start, building the phrase around "napominayet" ("reminds of") and "chto-to" ("somehow") for a crisp, natural delivery.
-- 'I am going to explain it to all of you right now!' Max keeps an easygoing footing with Barinov, building the phrase around "seychas" ("now") and "obyasnyu" ("I'll explain") for a crisp, natural delivery.
-- 'You are not even trying to change.' Barinov conveys an honest note with Vika, linking "pytayeshsya" ("to try, to attempt"), "izmenitsya" ("to change"), and "dazhe" ("even") in one brisk exchange.
-- 'Every reckless action in our lives is a mine.' Vika sustains a thoughtful course on the spot, anchoring the Russian line on "kazhdyy" ("every") and "neobdumannyy" ("rash, hasty") without extra filler.
-- 'Looking back, we see nothing but ruins.' Max displays an honest position right away, putting "oglyadyvayas" ("to look back") alongside "vidim" ("to see") in a tight, everyday turn of phrase.
-- 'You know what?' Barinov asks pointedly across the room, anchoring the Russian line on "znayete" ("know") and "chto" ("what") without extra filler.
+- 'Well, you two certainly deserve each other.' Barinov stands firm pointedly around Max, saying out loud what both of them already know.
+- 'Just listen to him talk.' Vika stresses this key choice with Max: "poslushayte" means "listen" (from "poslushat"), giving the line its exact edge.
+- 'And what about yourself?' Max hands over the reply on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'What are you allowing yourself to do, Vitya, who is this?' Vika checks plainly to see how Max will answer on the spot.
+- 'What nonsense are you all spouting in here?' Vika points to one sharp term in reply: "nesete" means "bring" (from "nesti"), giving the line its exact edge.
+- 'Why on earth do you need Louis?' Max drops that line with candor: putting the question word "zachem" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I am going to explain everything right now.' Barinov steps in frankly with a nod, to clear the air between them once and for all.
+- 'Why does all of this remind me of something?' Vika points to one familiar touch at once: "napominayet" means "reminds of" (from "napominat"), giving the line its exact edge.
+- 'I am going to explain it to all of you right now!' Max underscores one sharp detail at once: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'You are not even trying to change.' Barinov fires back briskly to settle things, grounding the moment in plain reality.
+- 'Every reckless action in our lives is a mine.' Vika uses one clear word right here: "neobdumannyy" means "rash, hasty", and it carries the main weight of what Vika is saying.
+- 'Looking back, we see nothing but ruins.' Max aims the comment frankly here: the "-sya" ending on "oglyadyvayas" ("to look back") turns the action inward or makes it happen between people naturally.
+- 'You know what?' Barinov presses earnestly before Max can change the subject.

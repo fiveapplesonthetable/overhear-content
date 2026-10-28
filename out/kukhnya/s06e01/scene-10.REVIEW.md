@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me show you to your suite.' Eleonora displays a thoughtful approach across the room, combining the polite invitation "davayte" ("let us") with "pokazhu" ("will show") to give the line its natural spoken rhythm.
-- 'Help me out, I urgently need a pianist for the evening.' Mikhail sustains a thoughtful line with Katya, weaving "vyruchay" ("help out, rescue") together with "srochno" ("urgent, urgently") just the way native speakers do.
-- 'Is this how you do not interfere in my personal life?' Katya wonders decisively toward Eleonora here, building the phrase around "vmeshivayeshsya" ("you interfere") and "lichnuyu" ("personal") for a crisp, natural delivery.
-- 'Calm down, Katya.' Eleonora brings a direct manner on the spot, pairing "uspokoysya" ("calm down") with "katya" ("Katya") so the "-sya" ending carries the action.
-- 'You went ahead and fired Denis yourself.' Katya offers a wry bearing as they talk, joining "vzyala" ("took") to "uvolila" ("fired") so every word pulls its weight.
-- 'Maybe he left on his own?' Eleonora challenges openly toward Mikhail here, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
-- 'Misha, where is the pianist?' Eleonora queries openly without a pause, leaning on "gde" ("where") before closing the thought with "pianist" ("pianist").
-- 'Which pianist?' Mikhail wonders naturally across the room, combining "pianist" ("pianist") and "kakoy" ("what a, how") so the key meaning lands right away.
-- 'The pianist whom Dima brought, find him.' Eleonora adopts a firm position during the exchange, leaning on "pianist" ("pianist") before closing the thought with "privel" ("to bring, lead").
-- 'I sent him to change clothes, an awful jacket.' Mikhail displays an honest tempo across the room, leaning on "otpravil" ("sent") before closing the thought with "pereodevatsya" ("to get changed").
-- 'Well you see, your Denis will be here.' Eleonora establishes a calm style in the conversation, anchoring the Russian line on "vidish" ("see") and "budet" ("will be") without extra filler.
-- 'You know very well that we broke up.' Katya maintains a grounded stance toward Mikhail, combining "prekrasno" ("perfectly") and "znayesh" ("know") so the key meaning lands right away.
+- 'Let me show you to your suite.' Eleonora colors one direct word in earnest: "davayte" means "let's" (from "davat"), giving the line its exact edge.
+- 'Help me out, I urgently need a pianist for the evening.' Mikhail stands firm quietly across the room, letting the remark speak for itself.
+- 'Is this how you do not interfere in my personal life?' Katya quizzes curiously if there is more going on behind the scenes.
+- 'Calm down, Katya.' Eleonora anchors one vivid element for Mikhail: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'You went ahead and fired Denis yourself.' Katya uses this clear touch for Eleonora: "uvolila" means "fired" (from "uvolit"), giving the line its exact edge.
+- 'Maybe he left on his own?' Eleonora challenges bluntly to see how Mikhail will answer on the spot.
+- 'Misha, where is the pianist?' Eleonora emphasizes one telling term in earnest: "pianist" means "pianist", and it carries the main weight of what Eleonora is saying.
+- 'Which pianist?' Mikhail puts this statement with warmth: putting the question word "kakoy" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'The pianist whom Dima brought, find him.' Eleonora reacts honestly with a sigh, grounding the moment in plain reality.
+- 'I sent him to change clothes, an awful jacket.' Mikhail features one clear touch in reply: "pereodevatsya" means "to get changed", and it carries the main weight of what Mikhail is saying.
+- 'Well you see, your Denis will be here.' Eleonora chooses one familiar choice in earnest: "vidish" means "see" (from "videt"), giving the line its exact edge.
+- 'You know very well that we broke up.' Katya chimes in calmly with a sigh, keeping the focus on what actually matters here.

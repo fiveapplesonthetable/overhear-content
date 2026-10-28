@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know I had reasons.' Barinov presents a calm bearing in front of Eleonora, putting "znayesh" ("know") alongside "byli" ("be") in a tight, everyday turn of phrase.
-- 'Dad, it seems to me there are no reasons to abandon a family.' Katya establishes a grounded course right away, building the phrase around "pap" ("Dad") and "kazhetsya" ("it seems, I think") for a crisp, natural delivery.
-- 'She is already an adult, she can know the truth.' Barinov chooses an easygoing mood in their talk, building the phrase around "uzhe" ("already, now") and "vzroslaya" ("grown-up, adult") for a crisp, natural delivery.
-- 'I left your mother because she cheated on me.' Barinov favors a wry tempo right away, weaving "ushyol" ("left, departed") together with "materi" ("mother") just the way native speakers do.
-- 'Because you drank and gambled!' Eleonora offers an honest view at this moment, joining "potomu" ("because") to "pil" ("was drinking") so every word pulls its weight.
-- 'And you had no time for me.' Eleonora takes a steady angle in the conversation, pairing "vremeni" ("time") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'Enough, please, I cannot listen to this.' Katya takes a steady bearing right away, pairing "khvatit" ("enough") with "mogu" ("can") to get the point across in plain spoken Russian.
-- 'Dad, I always blamed you for our broken family.' Katya sustains a candid style in front of Eleonora, joining "papa" ("Dad") to "vsegda" ("always") so every word pulls its weight.
-- 'I should have blamed both of you.' Katya chooses a firm style in this beat, combining "nado" ("it is necessary") and "bylo" ("was") so the key meaning lands right away.
-- 'Looking at you two, I am even glad that Denis left.' Katya establishes an emphatic view in the conversation, pairing "denis" ("Denis") with "glyadya" ("looking") so the "-sya" ending carries the action.
-- 'Apparently this is our first fight that actually did some good.' Barinov holds a serious footing in the room, anchoring the Russian line on "vidimo" ("apparently") and "pervyy" ("first") without extra filler.
-- 'Why do you not want to tell Max that this is his child?' Eleonora checks sharply to keep things clear, joining "pochemu" ("why") to "khochesh" ("do you want") so every word pulls its weight.
+- 'You know I had reasons.' Barinov frames this warning to Eleonora: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Dad, it seems to me there are no reasons to abandon a family.' Katya cuts in wryly during the talk, testing Eleonora's reaction in the middle of the exchange.
+- 'She is already an adult, she can know the truth.' Barinov leans on this key detail with Eleonora: "vzroslaya" means "grown-up, adult" (from "vzroslyy"), giving the line its exact edge.
+- 'I left your mother because she cheated on me.' Barinov speaks up promptly to settle things, before Katya can change the subject.
+- 'Because you drank and gambled!' Eleonora weighs in sharply as they talk, bringing things back to earth after the buildup.
+- 'And you had no time for me.' Eleonora frames one loaded element toward Katya: "vremeni" means "time" (from "vremya"), giving the line its exact edge.
+- 'Enough, please, I cannot listen to this.' Katya brings the reply toward Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Dad, I always blamed you for our broken family.' Katya stands firm decisively to settle things, watching Eleonora's face to see how the news lands.
+- 'I should have blamed both of you.' Katya anchors one memorable touch for Barinov: "vinit" means "to blame, to accuse", and it carries the main weight of what Katya is saying.
+- 'Looking at you two, I am even glad that Denis left.' Katya emphasizes this direct piece in earnest: "glyadya" means "looking" (from "glyadet"), giving the line its exact edge.
+- 'Apparently this is our first fight that actually did some good.' Barinov proceeds decisively with a nod, steering the talk right where he wants it.
+- 'Why do you not want to tell Max that this is his child?' Eleonora anchors this key piece in reply: "rebyonok" means "a child", and it carries the main weight of what Eleonora is saying.

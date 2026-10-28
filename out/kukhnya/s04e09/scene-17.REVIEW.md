@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, did we settle things like men?' German prompts bluntly beside Barinov, building the phrase around "po-muzhski" ("like a man") and "razobralis" ("to sort out") for a crisp, natural delivery.
-- 'I simply slipped.' Barinov adopts a brisk line at once, anchoring the Russian line on "prosto" ("just") and "poskolznulsya" ("to slipped") without extra filler.
-- 'Right, a fight in a public place!' The inspector presents a grounded angle as they talk, putting "draka" ("fight, brawl") alongside "obshchestvennom" ("public, social") in a tight, everyday turn of phrase.
-- 'Oh come on, what fight?' Barinov questions bluntly to the inspector here, pairing "draka" ("fight, brawl") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'We are colleagues, we work at the restaurant.' Barinov projects an easygoing style at once, weaving "kollegi" ("colleagues") together with "rabotayem" ("we work, let's work") just the way native speakers do.
-- 'We have no time for the gym.' Barinov adopts a steady direction in their talk, putting "sportzal" ("gym") alongside "vremeni" ("time") in a tight, everyday turn of phrase.
-- 'So we box on our break.' Barinov maintains an emphatic style right away, pairing "pereryve" ("break, interval") with "boksiruyem" ("to break") to get the point across in plain spoken Russian.
-- 'Yes, of course, we spar quite often.' German sets a wry tempo as the scene unfolds, building the phrase around "konechno" ("of course") and "chasto" ("often") for a crisp, natural delivery.
-- 'I am actually a Master of Sport in boxing.' German strikes a sharp line on the spot, linking "voobshche" ("at all"), "master" ("technician"), and "sporta" ("sport, sports") in one brisk exchange.
-- 'And my buddy helps me.' German conveys a firm attitude in the room, weaving "drug" ("friend") together with "pomogayet" ("helps") just the way native speakers do.
-- 'And what happened to the car?' The inspector checks earnestly toward Barinov here, joining "mashinoy" ("the car") to "sluchilos" ("happened") so every word pulls its weight.
-- 'Nothing serious, I have it insured.' German chooses a lively attitude during the exchange, weaving "yerunda" ("trifle, nothing") together with "zastrakhovana" ("is insured") just the way native speakers do.
-- 'You need to hold sparring matches in the ring.' The inspector maintains a resolute manner on the spot, pairing "sparringi" ("need") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
-- 'All right then, all the best.' The inspector sustains a sharp attitude in the conversation, building the phrase around "khoroshego" ("good, the best") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Well, did we settle things like men?' German puts that reply plainly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I simply slipped.' Barinov reacts evenly without holding back, testing the inspector's reaction in the middle of the exchange.
+- 'Right, a fight in a public place!' The inspector centers one pointed word toward Barinov: "obshchestvennom" means "public, social" (from "obshchestvennyy"), giving the line its exact edge.
+- 'Oh come on, what fight?' Barinov brings the thought plainly here: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
+- 'We are colleagues, we work at the restaurant.' Barinov jumps in wryly without holding back, steering the talk right where he wants it.
+- 'We have no time for the gym.' Barinov colors one pointed word on cue: "sportzal" means "gym", and it carries the main weight of what Barinov is saying.
+- 'So we box on our break.' Barinov chimes in steadily with a nod, grounding the moment in plain reality.
+- 'Yes, of course, we spar quite often.' German answers bluntly facing the inspector, steering the talk right where he wants it.
+- 'I am actually a Master of Sport in boxing.' German sharpens one key term in earnest: "voobshche" means "at all", and it carries the main weight of what German is saying.
+- 'And my buddy helps me.' German fires back dryly as things stand, grounding the moment in plain reality.
+- 'And what happened to the car?' The inspector tests curiously if there is more going on behind the scenes.
+- 'Nothing serious, I have it insured.' German emphasizes one classic detail at once: "zastrakhovana" means "is insured" (from "zastrakhovat"), giving the line its exact edge.
+- 'You need to hold sparring matches in the ring.' The inspector drops this line beside Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'All right then, all the best.' The inspector stands firm briskly as things stand, before German can change the subject.

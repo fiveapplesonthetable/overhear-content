@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our problem is currently at a club three blocks from here.' Max takes a measured angle in the scene, linking "problema" ("problem"), "seychas" ("now"), and "klube" ("club") in one brisk exchange.
-- 'How do you know?' Vika presses earnestly in this moment, leaning on "otkuda" ("where from") before closing the thought with "znayesh" ("know").
-- 'Elementary! She came in the morning, which means she doesn't work.' Max takes a warm stance in this beat, leaning on "elementarno" ("elementary") before closing the thought with "prishla" ("came").
-- 'She had almost no makeup on and was in jeans.' Vika shows a frank angle without hesitation, building the phrase around "byla" ("was") and "prakticheski" ("practically") for a crisp, natural delivery.
-- 'That means she wasn't planning to meet with anyone.' Max shows a natural tempo toward Vika, putting "yest" ("there is") alongside "vstrechatsya" ("to meet") in a tight, everyday turn of phrase.
-- 'She ordered only a salad. That is a light snack.' Max takes a measured bearing without hesitation, pairing "perekus" ("snack") with "zakazala" ("to order") so the "-sya" ending carries the action.
-- 'At her age, such a figure only comes through the gym.' Max shows a lively mood in this beat, building the phrase around "gody" ("years") and "figura" ("figure, shape") for a crisp, natural delivery.
-- 'And the nearest decent club is three blocks away.' Max displays a clear style as the scene unfolds, joining "blizhayshiy" ("nearest") to "prilichnyy" ("decent") so every word pulls its weight.
-- 'So that is how you figured it out?' Vika inquires sharply in front of Max, putting "yest" ("there is") alongside "dogadalsya" ("guessed, thought of it") in a tight, everyday turn of phrase.
-- 'Well, almost. Angelina goes to yoga with her.' Max sustains a pointed stance without hesitation, weaving "pochti" ("almost") together with "vmeste" ("together") just the way native speakers do.
-- 'I am heading there to ask forgiveness for us.' Max picks an honest manner during the exchange, combining "yedu" ("am driving") and "tuda" ("there") so the key meaning lands right away.
-- 'You already got us fired. This time I will do it myself.' Vika sustains an unhurried posture in the room, weaving "uvolneniye" ("dismissal, resignation") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Our problem is currently at a club three blocks from here.' Max focuses on this clear touch for Vika: "kvartalakh" means "blocks" (from "kvartal"), giving the line its exact edge.
+- 'How do you know?' Vika shares that line frankly here: putting the question word "otkuda" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Elementary! She came in the morning, which means she doesn't work.' Max speaks steadily with a nod, before Vika can change the subject.
+- 'She had almost no makeup on and was in jeans.' Vika uses this direct word on cue: "prakticheski" means "practically", and it carries the main weight of what Vika is saying.
+- 'That means she wasn't planning to meet with anyone.' Max delivers that line toward Vika: the "-sya" ending on "vstrechatsya" ("to meet") turns the action inward or makes it happen between people naturally.
+- 'She ordered only a salad. That is a light snack.' Max speaks dryly to be clear, to clear the air between them once and for all.
+- 'At her age, such a figure only comes through the gym.' Max points to one clear element at once: "sportzal" means "gym", and it carries the main weight of what Max is saying.
+- 'And the nearest decent club is three blocks away.' Max gives this warning with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So that is how you figured it out?' Vika inquires quietly as Max tries to explain the situation.
+- 'Well, almost. Angelina goes to yoga with her.' Max uses one pointed choice at once: "pochti" means "almost", and it carries the main weight of what Max is saying.
+- 'I am heading there to ask forgiveness for us.' Max holds firm decisively facing Vika, bringing things back to earth after the buildup.
+- 'You already got us fired. This time I will do it myself.' Vika stands firm right away to be clear, watching Max's face to see how the news lands.

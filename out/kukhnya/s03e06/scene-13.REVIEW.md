@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what is going on with us?' Vika challenges dryly in front of Barinov, leaning on "u nas" ("by us, at our place") and "proiskhodit" ("is going on") the way natural Russian does.
-- 'Kristina just came up to me.' Vika sets a clear position toward Max, anchoring the Russian line on "seychas" ("now") and "podoshla" ("approached") without extra filler.
-- 'She said that the restaurant is closing tomorrow.' Vika offers a firm line across the room, combining "skazala" ("told") and "zavtra" ("tomorrow") so the key meaning lands right away.
-- 'And if Dima comes up, to send him far away.' Vika presents an earnest tempo in front of Max, pairing "podoydyot" ("to come up") with "poslat" ("send") to get the point across in plain spoken Russian.
-- 'Then Dima came up and said the exact same thing.' Vika holds a steady rhythm in this beat, leaning on "potom" ("then") before closing the thought with "podoshyol" ("to come up").
-- 'We do not need to send anyone anywhere.' Barinov establishes a playful note across the room, weaving "nikuda" ("nowhere, anywhere") together with "posylat" ("send") just the way native speakers do.
-- 'Tomorrow we will have two banquets at once.' Barinov picks an unhurried view beside Max, putting "zavtra" ("tomorrow") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'They will not even see each other.' Barinov sets a serious style toward Vika, putting "uvidyat" ("will see") alongside "drug" ("friend") in a tight, everyday turn of phrase.
-- 'Max, what are you doing right now?' Vika queries pointedly from the start, pairing "seychas" ("now") with "tvorish" ("are doing, creating") to get the point across in plain spoken Russian.
-- 'Vika, forgive me, I did not mean to at all.' Max sets a clear position for Vika, using "prosti" (from "prostit", "sorry, forgive me") alongside "sovsem" ("at all") to shape the meaning.
-- 'Here, I brought you clean salt.' Max sets a clear position in the room, building the phrase around "chistuyu" ("clean") and "sol" ("salt") for a crisp, natural delivery.
-- 'Listen, you still have sauce on you, let me hold it.' Max shares an unhurried style at this moment, weaving "slushay" ("listen") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Vitya, what is going on with us?' Vika leans on one familiar choice in earnest: "proiskhodit" means "is going on", and it carries the main weight of what Vika is saying.
+- 'Kristina just came up to me.' Vika answers frankly during the talk, leaving no doubt about where she stands.
+- 'She said that the restaurant is closing tomorrow.' Vika weighs in dryly facing Barinov, saying out loud what both of them already know.
+- 'And if Dima comes up, to send him far away.' Vika leans on this direct touch with Max: "podoydyot" means "to come up" (from "podoyti"), giving the line its exact edge.
+- 'Then Dima came up and said the exact same thing.' Vika proceeds decisively in their talk, letting the remark speak for itself.
+- 'We do not need to send anyone anywhere.' Barinov cuts in at once across the room, so Vika knows he is not just making small talk.
+- 'Tomorrow we will have two banquets at once.' Barinov chooses one classic word with Max: "banketa" means "banquet" (from "banket"), giving the line its exact edge.
+- 'They will not even see each other.' Barinov answers boldly as they talk, making his position completely clear.
+- 'Max, what are you doing right now?' Vika checks eagerly before Barinov can change the subject.
+- 'Vika, forgive me, I did not mean to at all.' Max picks one pointed term in earnest: "spetsialno" means "on purpose", and it carries the main weight of what Max is saying.
+- 'Here, I brought you clean salt.' Max spotlights this clear detail in earnest: "chistuyu" means "clean" (from "chistyy"), giving the line its exact edge.
+- 'Listen, you still have sauce on you, let me hold it.' Max opens up boldly around Vika, shifting the whole mood of the room in a single beat.

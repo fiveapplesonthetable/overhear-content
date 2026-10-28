@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look what a massive stone that is.' Senya maintains a natural approach across the room, combining "glyadi" ("look, take a look") and "kamen" ("stone") so the key meaning lands right away.
-- 'At our job I can only earn a stone that big in my kidneys.' Fedya adopts a firm stance with Senya, pairing "rabote" ("work") with "kamen" ("stone") to get the point across in plain spoken Russian.
-- 'Kostyan, are you not afraid that Nastya will take the order to the sheikh?' Senya tests boldly right away, putting "boishsya" ("you are afraid") alongside "otnesyot" ("will take, bring") in a tight, everyday turn of phrase.
-- 'He will fall in love with her and kidnap her into his harem.' Senya brings a grounded manner during the exchange, putting "vlyubitsya" ("will fall in love") alongside "pokhitit" ("will kidnap") in a tight, everyday turn of phrase.
-- 'The sheikh, Nastya? I beg you, who needs her?' Kostya asks lightly beside Fedya, combining "sheykh" ("sheikh") and "umolyayu" ("I beg") so the key meaning lands right away.
-- 'I mean, Nastya, I need you!' Kostya shares an honest view in the room, combining "smysle" ("sense") and "nuzhna" ("needed") so the key meaning lands right away.
-- 'Once we get the ring, I will buy myself a country house.' Senya holds an honest course in front of Fedya, joining "poluchim" ("will get, receive") to "persten" ("signet, gem ring") so every word pulls its weight.
-- 'Listen, thirty acres of beach.' Fedya displays a brisk stance in the conversation, putting "slysh" ("listen") alongside "sotok" ("hundredths of a hectare") in a tight, everyday turn of phrase.
-- 'Stop wasting ingredients!' Kostya shows a firm course as they talk, linking "khvatit" ("enough"), "produkty" ("groceries"), and "perevodit" ("to transfer") in one brisk exchange.
-- 'The Chef just ate your dream.' Fedya shares an unhurried stance in their talk, leaning on "mechtu" ("dream") before closing the thought with "syel" ("ate").
-- 'Order for the second floor: cheese with baked pear.' Kostya sets a candid position right away, anchoring the Russian line on "zakaz" ("order") and "vtoroy" ("second") without extra filler.
-- 'Chef, Fedya and I will make it ourselves!' Senya brings a clear style in the conversation, leaning on "sdelayem" ("we'll do") before closing the thought with "shef" ("Chef").
+- 'Look what a massive stone that is.' Senya chimes in warmly with a nod, letting the remark speak for itself.
+- 'At our job I can only earn a stone that big in my kidneys.' Fedya spotlights one vivid touch with Senya: "pochkakh" means "kidneys" (from "pochka"), giving the line its exact edge.
+- 'Kostyan, are you not afraid that Nastya will take the order to the sheikh?' Senya lays out the reply at once: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'He will fall in love with her and kidnap her into his harem.' Senya continues plainly beside Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'The sheikh, Nastya? I beg you, who needs her?' Kostya leans on one clear piece for Fedya: "sheykh" means "sheikh", and it carries the main weight of what Kostya is saying.
+- 'I mean, Nastya, I need you!' Kostya features this key choice on cue: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
+- 'Once we get the ring, I will buy myself a country house.' Senya proceeds lightly without any doubt, so Fedya knows he is not just making small talk.
+- 'Listen, thirty acres of beach.' Fedya highlights one familiar piece right here: "plyazha" means "beach" (from "plyazh"), giving the line its exact edge.
+- 'Stop wasting ingredients!' Kostya aims the reaction without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'The Chef just ate your dream.' Fedya opens up at once with Senya, shifting the whole mood of the room in a single beat.
+- 'Order for the second floor: cheese with baked pear.' Kostya features one telling element with Fedya: "zapechyonnoy" means "roasted, baked" (from "zapechyonnyy"), giving the line its exact edge.
+- 'Chef, Fedya and I will make it ourselves!' Senya continues decisively with a nod, making his position completely clear.

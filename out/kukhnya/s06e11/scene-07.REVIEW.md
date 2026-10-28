@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, listen, your name is Denis, right?' The guest wonders candidly in their exchange, combining "poslushay" ("listen") and "zovut" ("call") so the key meaning lands right away.
-- 'Yes, that is me, and what do you need?' Denis probes wryly without hesitation, weaving "nuzhno" ("necessary") together with "da" ("yes") just the way native speakers do.
-- 'Hi, Sveta, where did you disappear to last night?' The guest asks steadily to Denis here, using "sveta" (from "svet", "electricity") alongside "kuda" ("where to") to shape the meaning.
-- 'My stomach hurt, and I went home.' Sveta adopts a serious posture in the scene, joining "zhivot" ("belly") to "zabolel" ("to fall ill") so every word pulls its weight.
-- 'And why are you not answering the phone all day?' The guest wonders warmly to keep things clear, combining "pochemu" ("why") and "tselyy" ("whole, all") so the key meaning lands right away.
-- 'Guys, help quickly, they are fighting out here in the courtyard!' Denis picks a candid tone toward Sveta, putting "rebyata" ("the boys, the lads") alongside "pomogite" ("help") in a tight, everyday turn of phrase.
-- 'Alright, we calmed down, I gave you a serious warning.' The guest holds a wry footing during the exchange, anchoring the Russian line on "uspokoilis" ("have calmed down") and "seryozno" ("seriously") without extra filler.
-- 'Make sure I do not see you with her again!' The guest shares a calm tempo with Sveta, leaning on "smotri" ("look") before closing the thought with "bolshe" ("more").
-- 'Sveta, tell me, who on earth was that just now?' Denis asks warmly to keep things clear, combining the conversational booster "voobshche" ("in general, overall") with "sveta" ("electricity") to give the line its natural spoken rhythm.
-- 'Sorry, Denis, that was my ex-boyfriend.' Sveta chooses a resolute direction with the guest, anchoring the Russian line on "prosti" ("sorry, forgive me") and "byl" ("was") without extra filler.
-- 'How do you feel, my poor defender?' Sveta asks decisively in the scene, anchoring the Russian line on "kak" ("how") and "chuvstvuyesh" ("feel") without extra filler.
-- 'Everything is fine with me, it is nothing serious.' Denis maintains a serious note for Sveta, pairing "normalno" ("fine, OK") with "strashnogo" ("terrible, serious") to get the point across in plain spoken Russian.
-- 'Can you imagine, nobody has ever fought over me before!' Sveta sustains an emphatic line in the conversation, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "yeshchyo" ("more, still") without extra filler.
+- 'Hey, listen, your name is Denis, right?' The guest sharpens one familiar touch toward Denis: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
+- 'Yes, that is me, and what do you need?' Denis hands over that answer in earnest: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Hi, Sveta, where did you disappear to last night?' The guest inquires earnestly why things suddenly took this turn between them.
+- 'My stomach hurt, and I went home.' Sveta spotlights one direct term for the guest: "zhivot" means "belly", and it carries the main weight of what Sveta is saying.
+- 'And why are you not answering the phone all day?' The guest lays out this line for Denis: putting the question word "pochemu" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'Guys, help quickly, they are fighting out here in the courtyard!' Denis holds firm briskly on the spot, saying out loud what both of them already know.
+- 'Alright, we calmed down, I gave you a serious warning.' The guest uses one clear word in earnest: "predupredil" means "warned" (from "predupredit"), giving the line its exact edge.
+- 'Make sure I do not see you with her again!' The guest colors this key choice in reply: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'Sveta, tell me, who on earth was that just now?' Denis quizzes firmly why things suddenly took this turn between them.
+- 'Sorry, Denis, that was my ex-boyfriend.' Sveta anchors one direct choice toward the guest: "paren" means "boyfriend", and it carries the main weight of what Sveta is saying.
+- 'How do you feel, my poor defender?' Sveta brings the comeback without fuss: putting the question word "kak" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'Everything is fine with me, it is nothing serious.' Denis chimes in earnestly around Sveta, making his position completely clear.
+- 'Can you imagine, nobody has ever fought over me before!' Sveta uses this clear term toward Denis: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.

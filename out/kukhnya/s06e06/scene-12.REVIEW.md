@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put me back on the table quickly!' Lyova adopts an earnest tack beside Barinov, combining "postav" ("place, put") and "bystreye" ("faster") so the key meaning lands right away.
-- 'Lyova, hurry up, I have no time!' Barinov keeps an earnest stance in front of Lyova, weaving "davay" ("let's") together with "bystreye" ("faster") just the way native speakers do.
-- 'Read and sign the supply request.' Lyova shares a measured bearing as the scene unfolds, leaning on "zayavku" ("request, order form") before closing the thought with "produkty" ("groceries").
-- 'What is there to read, I trust you.' Barinov conveys a thoughtful bearing as they talk, weaving "tam" ("there") together with "chitat" ("to read") just the way native speakers do.
-- 'Give me the pen here, I will sign quickly.' Barinov displays a calm footing without hesitation, linking "davay" ("let's"), "syuda" ("here"), and "ruchku" ("a pen") in one brisk exchange.
-- 'Hurry up and look for that packet!' Denis brings a resolute view for Lyova, anchoring the Russian line on "davay" ("let's") and "bystreye" ("faster") without extra filler.
-- 'I put the packet inside his suitcase.' Lyova adopts an unhurried attitude on the spot, linking "paket" ("the plastic bag"), "chemodan" ("suitcase, luggage bag"), and "polozhil" ("laid, put down") in one brisk exchange.
-- 'And the Frenchman locked the suitcase.' Lyova maintains a firm line as the scene unfolds, joining "frantsuz" ("Frenchman") to "zakryl" ("passed, closed") so every word pulls its weight.
-- 'Then we will carry out the whole suitcase together.' Denis adopts an unhurried course in the conversation, building the phrase around "znachit" ("then, so") and "budem" ("will") for a crisp, natural delivery.
-- 'Where on earth did I put my key?' Barinov prompts warmly beside Lyova, pairing "kuda" ("where to") with "del" ("things to do") to get the point across in plain spoken Russian.
-- 'Tell me, have the police arrived here already?' Barinov asks frankly without a pause, linking "skazhite" ("tell"), "politsiya" ("police"), and "syuda" ("here") in one brisk exchange.
-- 'Yes, the receptionist led them straight upstairs.' Lyova favors a lively view straight away, joining "dezhurnyy" ("receptionist") to "povyol" ("led, took") so every word pulls its weight.
+- 'Put me back on the table quickly!' Lyova reacts boldly as they talk, refusing to let the moment slip past.
+- 'Lyova, hurry up, I have no time!' Barinov underscores one concrete expression in earnest: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Read and sign the supply request.' Lyova opens up pointedly to be clear, steering the talk right where he wants it.
+- 'What is there to read, I trust you.' Barinov fires back openly without a pause, keeping the focus on what actually matters here.
+- 'Give me the pen here, I will sign quickly.' Barinov features one sharp choice in earnest: "ruchku" means "a pen" (from "ruchka"), giving the line its exact edge.
+- 'Hurry up and look for that packet!' Denis aims that thought toward Lyova: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'I put the packet inside his suitcase.' Lyova reacts openly to settle things, watching Barinov's face to see how the news lands.
+- 'And the Frenchman locked the suitcase.' Lyova spotlights one loaded piece with Denis: "frantsuz" means "Frenchman", and it carries the main weight of what Lyova is saying.
+- 'Then we will carry out the whole suitcase together.' Denis reacts pointedly with a shrug, making his position completely clear.
+- 'Where on earth did I put my key?' Barinov wonders point-blank how Lyova expects that to work in practice.
+- 'Tell me, have the police arrived here already?' Barinov leans on one clear term on cue: "politsiya" means "police", and it carries the main weight of what Barinov is saying.
+- 'Yes, the receptionist led them straight upstairs.' Lyova speaks up right away with a nod, to clear the air between them once and for all.

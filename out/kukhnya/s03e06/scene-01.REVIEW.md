@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When love leaves, emptiness remains.' Max maintains a resolute footing on the spot, anchoring the Russian line on "kogda" ("when") and "lyubov" ("love") without extra filler.
-- 'No one can fill it.' Max adopts a brisk style with Vika, combining "mozhet" ("can") and "zapolnit" ("fill") so the key meaning lands right away.
-- 'Well, or almost no one.' Max takes a firm tack beside Vika, joining "pochti" ("almost") to "nu" ("oh, come on") so every word pulls its weight.
-- 'At the club you were bolder.' Vika establishes a playful manner toward Max, anchoring the Russian line on "klube" ("club") and "byl" ("was") without extra filler.
-- 'And besides, you are simply a pig.' Vika establishes a candid angle in this beat, combining the softening word "prosto" ("simply, just") with "yeshchyo" ("more, still") to give the line its natural spoken rhythm.
-- 'What is wrong with you today?' Max wonders promptly as they speak, building the phrase around "segodnya" ("today") and "da" ("yes") for a crisp, natural delivery.
-- 'Listen, let us go to the bathroom quickly.' Max sustains a clear angle at this moment, linking "slushay" ("listen"), "poydyom" ("let's go"), and "skoreye" ("quickly, right away") in one brisk exchange.
-- 'Alright, let us go there.' Vika keeps a measured footing in the conversation, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
-- 'You started choosing other girls.' Vika keeps a wry tack as the scene unfolds, linking "nachal" ("started"), "vybirat" ("to select"), and "drugikh" ("other") in one brisk exchange.
-- 'She does not have hair like mine.' Vika presents an unhurried stance for Max, using the everyday "u menya" ("by me") alongside "volos" ("hair") to show what belongs to the speaker.
-- 'Leave me alone, why are you pestering me?' Max probes quietly on the spot, pairing "otstan" ("leave alone") with "pristala" ("pestered, stuck to") to get the point across in plain spoken Russian.
-- 'After all, you yourself did not want to be with me.' Max brings a playful angle on the spot, anchoring the Russian line on "zakhotela" ("wanted") and "byt" ("be") without extra filler.
+- 'When love leaves, emptiness remains.' Max colors one direct expression with Vika: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
+- 'No one can fill it.' Max hands over this line plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Well, or almost no one.' Max speaks firmly to settle things, without trying to dress up how he really feels.
+- 'At the club you were bolder.' Vika emphasizes one colorful element on cue: "smeleye" means "bolder, braver" (from "smelyy"), giving the line its exact edge.
+- 'And besides, you are simply a pig.' Vika drops the reply with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'What is wrong with you today?' Max quizzes earnestly if there is more going on behind the scenes.
+- 'Listen, let us go to the bathroom quickly.' Max focuses on one classic choice for Vika: "vannuyu" means "bathroom" (from "vannaya"), giving the line its exact edge.
+- 'Alright, let us go there.' Vika shares this line around Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'You started choosing other girls.' Vika counters candidly across the room, shifting the whole mood of the room in a single beat.
+- 'She does not have hair like mine.' Vika chooses this telling detail in reply: "volos" means "hair", and it carries the main weight of what Vika is saying.
+- 'Leave me alone, why are you pestering me?' Max hands over the reply toward Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'After all, you yourself did not want to be with me.' Max continues sharply watching Vika, making his position completely clear.

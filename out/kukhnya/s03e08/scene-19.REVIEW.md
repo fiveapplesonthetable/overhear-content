@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, forgive me for lying.' Max presents a lively note at this moment, putting "rebyata" ("the boys, the lads") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
-- 'Well alright, bye to all of you.' Max sustains a steady position in the conversation, linking "poka" ("bye"), "nu" ("oh, come on"), and "ladno" ("all right") in one brisk exchange.
-- 'Damn it, the water has completely run out.' Barinov presents a clear style without hesitation, weaving "chyort" ("darn, heck") together with "voda" ("water") just the way native speakers do.
-- 'Well, now let us talk calmly, without tantrums.' Barinov displays an emphatic course during the exchange, anchoring the Russian line on "teper" ("now") and "davay" ("let's") without extra filler.
-- 'Tell me, what happened with you?' Barinov queries evenly across the room, linking "rasskazyvay" ("tell"), "sluchilos" ("happened"), and "mne" ("to me") in one brisk exchange.
-- 'Everything is simply great with me.' Max presents a thoughtful tempo without hesitation, combining the softening word "prosto" ("simply, just") with "otlichno" ("perfect, great") to give the line its natural spoken rhythm.
-- 'I now work as a simple courier.' Max favors a candid angle straight away, linking "teper" ("now"), "rabotayu" ("work"), and "prostym" ("simple") in one brisk exchange.
-- 'And my Vika is now with Nagiyev.' Max presents a candid line in front of Barinov, pairing "teper" ("now") with "moya" ("my") to get the point across in plain spoken Russian.
-- 'So I will go back to Voronezh.' Max strikes an honest note as the scene unfolds, joining "poyedu" ("will go") to "obratno" ("back") so every word pulls its weight.
-- 'Listen to me very carefully right now.' Barinov strikes a resolute tempo without hesitation, putting "poslushay" ("listen") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'If you run away now, you will regret it your whole life.' Barinov holds a playful course as the scene unfolds, linking "seychas" ("now"), "sbezhish" ("will run away"), and "zhizn" ("life") in one brisk exchange.
-- 'Tell me, did you understand me?' Barinov probes plainly in the room, weaving "skazhi" ("say") together with "ponyal" ("understood") just the way native speakers do.
+- 'Guys, forgive me for lying.' Max anchors one practical element with Barinov: "rebyata" means "the boys, the lads", and it carries the main weight of what Max is saying.
+- 'Well alright, bye to all of you.' Max phrases the reply calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'Damn it, the water has completely run out.' Barinov follows up candidly beside Max, steering the talk right where he wants it.
+- 'Well, now let us talk calmly, without tantrums.' Barinov features one colorful piece right here: "isterik" means "tantrums, hysterics" (from "isterika"), giving the line its exact edge.
+- 'Tell me, what happened with you?' Barinov states this statement without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Everything is simply great with me.' Max follows up dryly without holding back, so Barinov knows he is not just making small talk.
+- 'I now work as a simple courier.' Max highlights one clear piece at once: "kuryerom" means "courier" (from "kuryer"), giving the line its exact edge.
+- 'And my Vika is now with Nagiyev.' Max makes this warning facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So I will go back to Voronezh.' Max replies firmly with a sigh, before Barinov can change the subject.
+- 'Listen to me very carefully right now.' Barinov favors this sharp choice toward Max: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Barinov is saying.
+- 'If you run away now, you will regret it your whole life.' Barinov proceeds at once during the talk, before Max can change the subject.
+- 'Tell me, did you understand me?' Barinov quizzes promptly as Max tries to explain the situation.

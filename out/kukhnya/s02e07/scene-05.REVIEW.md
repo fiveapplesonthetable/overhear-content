@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am coming out.' Kostya keeps a serious view toward Nastya, putting "vykhozhu" ("get out, go out") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'I nearly killed that guy back there.' Nastya shares a sharp angle for Rodion, joining "chut" ("almost, nearly") to "ubil" ("killed") so every word pulls its weight.
-- 'Who is at the door?' Rodion queries evenly in front of Kostya, placing "tam" ("there") straight beside "kto" ("who") with no word for "to be" needed.
-- 'It looks like I left my keys in my jacket pocket.' Kostya sustains a pointed mood at once, weaving "pokhodu" ("apparently") together with "klyuchi" ("the keys") just the way native speakers do.
-- 'Kostik, please do not get angry.' Nastya picks a playful mood in their talk, weaving "rugaysya" ("to quarrel") together with "kostik" ("Kostik") just the way native speakers do.
-- 'He is just really sick.' Rodion keeps a lively footing toward Nastya, leaning on "prosto" ("just") before closing the thought with "boleyet" ("is ill").
-- 'It is much warmer in the stairwell than out on the street.' Kostya sets a clear posture for Nastya, combining "tam" ("there") and "tepleye" ("warm") so the key meaning lands right away.
-- 'Nastya, then let him stay out in the stairwell.' Rodion offers a sharp mood on the spot, leaning on "podyezd" ("entrance, doorway") before closing the thought with "idet" ("go, walk").
-- 'He cannot stay in the stairwell.' Rodion chooses a sharp view across the room, anchoring the Russian line on "nelzya" ("not allowed") and "podyezd" ("entrance, doorway") without extra filler.
-- 'You forbade me to bring stray animals into the apartment.' Kostya offers a playful course in their talk, building the phrase around "zapretili" ("to forbid, to ban") and "domoy" ("home") for a crisp, natural delivery.
-- 'What if I have an allergy to this...' Nastya maintains a wry angle across the room, anchoring the Russian line on "mozhet" ("can") and "allergiya" ("an allergy") without extra filler.
-- 'Kostya? How could I not know?' Nastya presses earnestly during the talk, weaving "znala" ("knew") together with "kostya" ("Kostya") just the way native speakers do.
-- 'And you are about to throw a sick person out onto the street.' Kostya conveys a steady manner beside Nastya, leaning on "sobirayeshsya" ("plan") before closing the thought with "vygnat" ("to kick out").
+- 'I am coming out.' Kostya sends the comment frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I nearly killed that guy back there.' Nastya opens up decisively before Rodion, before Rodion can change the subject.
+- 'Who is at the door?' Rodion states that answer toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It looks like I left my keys in my jacket pocket.' Kostya stands firm steadily as things stand, steering the talk right where he wants it.
+- 'Kostik, please do not get angry.' Nastya holds firm lightly to settle things, bringing things back to earth after the buildup.
+- 'He is just really sick.' Rodion favors this sharp expression at once: "boleyet" means "is ill" (from "bolet"), giving the line its exact edge.
+- 'It is much warmer in the stairwell than out on the street.' Kostya shapes this statement in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Nastya, then let him stay out in the stairwell.' Rodion weighs in earnestly in their talk, bringing things back to earth after the buildup.
+- 'He cannot stay in the stairwell.' Rodion centers one loaded element toward Kostya: "podyezd" means "entrance, doorway", and it carries the main weight of what Rodion is saying.
+- 'You forbade me to bring stray animals into the apartment.' Kostya offers the comeback calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What if I have an allergy to this...' Nastya chimes in earnestly with a nod, watching Kostya's face to see how the news lands.
+- 'Kostya? How could I not know?' Nastya favors one familiar touch at once: "znala" means "knew" (from "znat"), giving the line its exact edge.
+- 'And you are about to throw a sick person out onto the street.' Kostya directs that thought on cue: the "-sya" ending on "sobirayeshsya" ("plan") turns the action inward or makes it happen between people naturally.

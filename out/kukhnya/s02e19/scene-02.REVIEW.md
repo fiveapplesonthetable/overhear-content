@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing out here?' Barinov wonders frankly in their exchange, pairing "tut" ("here") with "delayete" ("are doing") to get the point across in plain spoken Russian.
-- 'Would you like me to give you all the details?' Vika quizzes promptly toward Senya here, linking "podrobnosti" ("detail"), "rasskazat" ("to tell"), and "vam" ("you") in one brisk exchange.
-- 'Maybe your whole kitchen crew is going to start coming out here?' Senya quizzes openly without hesitation, putting "mozhet" ("can") alongside "syuda" ("here") in a tight, everyday turn of phrase.
-- 'Of course we are.' Barinov establishes a playful bearing toward Vika, building the phrase around "konechno" ("of course") and "budem" ("will") for a crisp, natural delivery.
-- 'They will not fix it until the day after tomorrow.' Vika conveys an honest direction at once, using "pochinyat" (from "pochinit", "to fix, repair") alongside "tolko" ("only") to shape the meaning.
-- 'You are not going to come out here anymore.' Senya offers an honest stance in their talk, weaving "syuda" ("here") together with "vykhodit" ("to go out, to get out") just the way native speakers do.
-- 'Give Viktoriya Sergeyevna a pair of gloves.' Barinov takes an easygoing tone without hesitation, weaving "dayte" ("give") together with "perchatki" ("gloves") just the way native speakers do.
-- 'She wants to fix our restroom all by herself.' Vika shows a wry note as they talk, weaving "khochet" ("wants") together with "pochinit" ("to fix, mend") just the way native speakers do.
-- 'Wait, where is he?' Senya wonders directly in the room, putting "gde" ("where") alongside "on" ("he") in a tight, everyday turn of phrase.
-- 'Where is he? Are you writing this down?' Barinov probes pointedly in their exchange, linking "gde" ("where"), "pishi" ("write"), and "on" ("he") in one brisk exchange.
-- 'What, is one hand not enough?' Vika challenges briskly in front of Barinov, pairing "ruki" ("hands") with "malo" ("little, not enough") to get the point across in plain spoken Russian.
-- 'Everyone is assembled.' Senya conveys an unhurried position at this moment, building the phrase around "sbore" ("assembly, gathering") and "vse" ("all") for a crisp, natural delivery.
-- 'Alright then, until they fix the staff restroom.' Barinov keeps a lively angle without hesitation, leaning on "znachit" ("then, so") before closing the thought with "poka" ("bye").
+- 'What are you doing out here?' Barinov directs this statement around Senya: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Would you like me to give you all the details?' Vika wonders bluntly if there is more going on behind the scenes.
+- 'Maybe your whole kitchen crew is going to start coming out here?' Senya features one colorful term toward Barinov: "kukhney" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Of course we are.' Barinov states that point briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'They will not fix it until the day after tomorrow.' Vika fires back boldly to be clear, watching Barinov's face to see how the news lands.
+- 'You are not going to come out here anymore.' Senya grounds this vivid element right here: "vykhodit" means "to go out, to get out", and it carries the main weight of what Senya is saying.
+- 'Give Viktoriya Sergeyevna a pair of gloves.' Barinov makes this answer around Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'She wants to fix our restroom all by herself.' Vika steps in at once watching Senya, watching Senya's face to see how the news lands.
+- 'Wait, where is he?' Senya shapes that remark before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Where is he? Are you writing this down?' Barinov offers this update plainly here: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'What, is one hand not enough?' Vika checks calmly in front of Barinov without any preamble.
+- 'Everyone is assembled.' Senya stresses one telling choice with Vika: "sbore" means "assembly, gathering" (from "sbor"), giving the line its exact edge.
+- 'Alright then, until they fix the staff restroom.' Barinov counters boldly with a sigh, refusing to let the moment slip past.

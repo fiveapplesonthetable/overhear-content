@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, why do I need this tenderloin?' Max wonders honestly right away, anchoring the Russian line on "zachem" ("what for") and "vyrezka" ("tenderloin") without extra filler.
-- 'That is the chef's special—beef tenderloin medallion.' Lyova presents a serious view at this moment, putting "blyudo" ("dish") alongside "shefa" ("chef") in a tight, everyday turn of phrase.
-- 'Lyova, today I am the head chef here.' Max takes a warm footing for Louis, leaning on "segodnya" ("today") before closing the thought with "zdes" ("here").
-- 'And I am going to cook my own signature dish.' Max holds an unhurried angle during the exchange, joining "budu" ("will be") to "gotovit" ("to cook") so every word pulls its weight.
-- 'Right, what dish is that, your pâté?' Lyova asks boldly to Louis here, joining "yeshchyo" ("more, still") to "blyudo" ("dish") so every word pulls its weight.
-- 'At least they recently added it to our menu.' Max holds a steady tack in the scene, joining "nedavno" ("returned") to "dobavili" ("to add") so every word pulls its weight.
-- 'And what dish of yours did they add to the menu?' Max quizzes calmly as they speak, pairing "menyu" ("menu") with "dobavili" ("to add") to get the point across in plain spoken Russian.
-- 'Fine, cook whatever you want yourself.' Lyova shows a serious style in front of Max, combining "gotov" ("prepare") and "khochesh" ("do you want") so the key meaning lands right away.
-- 'Oh, look at what is written on this page.' Louis picks a grounded tone as the scene unfolds, leaning on "smotrite" ("look") before closing the thought with "napisano" ("is written").
-- 'The name of our restaurant and today's date are here.' Louis holds an honest approach in front of Max, linking "tut" ("here"), "stoit" ("is parked"), and "nazvaniye" ("name, title") in one brisk exchange.
-- 'Louis, can you quickly translate the text?' Lyova asks bluntly without a pause, leaning on "mozhesh" ("can") before closing the thought with "bystro" ("quickly").
-- 'I will read it now, there are very interesting notes here.' Louis sets a direct attitude in the scene, combining "seychas" ("now") and "prochitayu" ("to read") so the key meaning lands right away.
+- 'Lyova, why do I need this tenderloin?' Max tests briskly whether Louis really thought this through.
+- 'That is the chef's special—beef tenderloin medallion.' Lyova centers one classic term for Max: "medalon" means "medallion", and it carries the main weight of what Lyova is saying.
+- 'Lyova, today I am the head chef here.' Max lays out that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And I am going to cook my own signature dish.' Max proceeds lightly with a sigh, testing Lyova's reaction in the middle of the exchange.
+- 'Right, what dish is that, your pâté?' Lyova grounds one colorful word for Louis: "pashtet" means "pâté", and it carries the main weight of what Lyova is saying.
+- 'At least they recently added it to our menu.' Max phrases that point with ease: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'And what dish of yours did they add to the menu?' Max checks earnestly what Louis is actually getting at here.
+- 'Fine, cook whatever you want yourself.' Lyova centers one pointed touch in earnest: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Oh, look at what is written on this page.' Louis holds firm wryly without a pause, before Lyova can change the subject.
+- 'The name of our restaurant and today's date are here.' Louis proceeds boldly in this moment, watching Max's face to see how the news lands.
+- 'Louis, can you quickly translate the text?' Lyova chooses one practical term on cue: "perevesti" means "to transfer", and it carries the main weight of what Lyova is saying.
+- 'I will read it now, there are very interesting notes here.' Louis answers sharply without holding back, refusing to let the moment slip past.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I have a gift for you.' Elena holds a serious tone in front of Barinov, linking "yest" ("there is"), "podarok" ("gift, voucher"), and "vitya" ("Vitya") in one brisk exchange.
-- 'Thank you, darling, happy anniversary to us!' Barinov offers a calm tone right away, linking "spasibo" ("thank you"), "dorogaya" ("expensive"), and "pozdravlyayu" ("congratulations") in one brisk exchange.
-- 'How did you manage that? They are sold out!' Barinov tests quietly during the talk, building the phrase around "kak" ("how") and "udalos" ("succeeded") for a crisp, natural delivery.
-- 'You see, unfortunately, I only got one ticket.' Elena favors a playful tempo in the room, building the phrase around "vidish" ("see") and "sozhaleniyu" ("regret") for a crisp, natural delivery.
-- 'No, this is our shared holiday together.' Barinov presents an easygoing bearing as they talk, weaving "obshchiy" ("shared") together with "prazdnik" ("holiday") just the way native speakers do.
-- 'We wanted to celebrate this day together.' Barinov chooses a natural attitude in the conversation, leaning on "khoteli" ("wanted") before closing the thought with "otprazdnovat" ("to wedding").
-- 'I simply cannot accept such a gift.' Barinov establishes a resolute manner right away, pairing "prosto" ("just") with "mogu" ("can") to get the point across in plain spoken Russian.
-- 'I understand perfectly how important this match is.' Elena maintains a grounded view at this moment, joining "prekrasno" ("perfectly") to "ponimayu" ("understand") so every word pulls its weight.
-- 'And we will celebrate the holiday on another day.' Elena shows a measured bearing in front of Barinov, anchoring the Russian line on "prazdnik" ("holiday") and "otmetim" ("to celebrate") without extra filler.
-- 'A saintly woman, simply a true saint of a woman!' Barinov sustains an honest footing as they talk, building the phrase around "svyataya" ("holy, sacred") and "zhenshchina" ("woman") for a crisp, natural delivery.
-- 'And Marina gave me slippers for our anniversary.' Senya favors an unhurried approach in their talk, joining "godovshchinu" ("anniversary") to "tapki" ("the slippers") so every word pulls its weight.
-- 'True, later she took them back for herself.' Senya brings a natural mood in their talk, pairing "pravda" ("honestly") with "potom" ("then") to get the point across in plain spoken Russian.
+- 'Vitya, I have a gift for you.' Elena centers this clear touch for Barinov: "podarok" means "gift, voucher", and it carries the main weight of what Elena is saying.
+- 'Thank you, darling, happy anniversary to us!' Barinov makes this warning with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'How did you manage that? They are sold out!' Barinov asks eagerly if there is more going on behind the scenes.
+- 'You see, unfortunately, I only got one ticket.' Elena sharpens one practical word in earnest: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
+- 'No, this is our shared holiday together.' Barinov directs this statement toward Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We wanted to celebrate this day together.' Barinov responds right away before Senya, letting the remark speak for itself.
+- 'I simply cannot accept such a gift.' Barinov reaches for one classic term for Elena: "podarok" means "gift, voucher", and it carries the main weight of what Barinov is saying.
+- 'I understand perfectly how important this match is.' Elena chimes in pointedly to settle things, so Senya knows she is not just making small talk.
+- 'And we will celebrate the holiday on another day.' Elena steps in briskly without a pause, bringing things back to earth after the buildup.
+- 'A saintly woman, simply a true saint of a woman!' Barinov frames one colorful detail with Senya: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
+- 'And Marina gave me slippers for our anniversary.' Senya speaks up openly with a nod, refusing to let the moment slip past.
+- 'True, later she took them back for herself.' Senya continues openly with a nod, shifting the whole mood of the room in a single beat.

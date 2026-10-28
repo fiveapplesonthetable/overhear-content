@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, here I brought everything.' Timur offers a frank attitude straight away, joining "privyoz" ("brought") to "viktor" ("Viktor") so every word pulls its weight.
-- 'Why did you even need this cat?' Timur prompts boldly without a pause, pairing "ponadobilas" ("to be needed") with "zachem" ("what for") so the "-sya" ending carries the action.
-- 'It is a small present for one person.' Barinov strikes a warm course right away, linking "malenkiy" ("short, little") directly with "podarok" ("gift, voucher"), since Russian drops "is" and "are" in the present.
-- 'By the way, take these miracle drops too.' Timur presents a measured note in this beat, combining "kstati" ("by the way") and "vozmite" ("take") so the key meaning lands right away.
-- 'With them it is easy to win a woman's heart.' Timur maintains a sharp manner on the spot, weaving "legko" ("easy") together with "pokorit" ("conquer, win over") just the way native speakers do.
-- 'All right, hand over the cat here, as I asked.' Barinov brings a playful position on the spot, pairing "davay" ("let's") with "syuda" ("here") to get the point across in plain spoken Russian.
-- 'There is a good collar on it, everything as needed.' Timur maintains a serious posture straight away, leaning on "tam" ("there") before closing the thought with "khoroshiy" ("good").
-- 'Chef, the coast is clear in the kitchen.' Senya takes a steady mood with Timur, leaning on "tam" ("there") before closing the thought with "kukhne" ("kitchen").
-- 'Then it is time to let the tiger out of the cage!' Barinov shows a playful tack in their talk, pairing "togda" ("back then") with "pora" ("it's time") to get the point across in plain spoken Russian.
-- 'Senya, I really believe in you.' Barinov displays a lively posture across the room, weaving "ochen" ("very much") together with "veryu" ("believe") just the way native speakers do.
-- 'Chef, we actually did not agree on this!' Senya favors a calm tempo at once, anchoring the Russian line on "voobshche-to" ("actually") and "dogovarivalis" ("had an agreement") without extra filler.
-- 'Will five thousand rubles be enough for you right now?' Barinov asks plainly as the beat lands, weaving "tysyach" ("thousand") together with "rubley" ("roubles") just the way native speakers do.
-- 'For your sake I am ready for absolutely anything!' Senya favors a calm line at this moment, building the phrase around "gotov" ("ready") and "absolyutno" ("completely") for a crisp, natural delivery.
+- 'Viktor Petrovich, here I brought everything.' Timur weighs in candidly in this moment, steering the talk right where he wants it.
+- 'Why did you even need this cat?' Timur asks calmly about what Senya just brought up.
+- 'It is a small present for one person.' Barinov favors one loaded piece toward Senya: "malenkiy" means "short, little", and it carries the main weight of what Barinov is saying.
+- 'By the way, take these miracle drops too.' Timur shapes the reaction toward Senya: opening with "kstati" ("by the way") lets Timur drop a new detail into the conversation as if it just crossed his mind.
+- 'With them it is easy to win a woman's heart.' Timur chimes in frankly as things stand, so Barinov knows he is not just making small talk.
+- 'All right, hand over the cat here, as I asked.' Barinov chooses one classic term right here: "koshku" means "cat" (from "koshka"), giving the line its exact edge.
+- 'There is a good collar on it, everything as needed.' Timur lays out that reply without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Chef, the coast is clear in the kitchen.' Senya speaks sharply beside Timur, without trying to dress up how he really feels.
+- 'Then it is time to let the tiger out of the cage!' Barinov picks this clear piece right here: "vypuskat" means "to let", and it carries the main weight of what Barinov is saying.
+- 'Senya, I really believe in you.' Barinov highlights one sharp choice on cue: "ochen" means "very much", and it carries the main weight of what Barinov is saying.
+- 'Chef, we actually did not agree on this!' Senya speaks up calmly facing Barinov, grounding the moment in plain reality.
+- 'Will five thousand rubles be enough for you right now?' Barinov chooses this key element in reply: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'For your sake I am ready for absolutely anything!' Senya makes that remark right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

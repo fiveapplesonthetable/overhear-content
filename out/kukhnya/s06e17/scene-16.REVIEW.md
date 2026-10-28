@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lightning just struck me.' Barinov chooses a candid view straight away, leaning on "tolko" ("only") before closing the thought with "molniya" ("zipper, lightning").
-- 'Lena, forgive me for everything.' Barinov adopts a frank stance in this beat, combining "prosti" ("sorry, forgive me") and "lena" ("Lena") so the key meaning lands right away.
-- 'I love you very much.' Barinov strikes a firm view on the spot, combining "ochen" ("very much") and "silno" ("strongly, much") so the key meaning lands right away.
-- 'Vitya, what happened to you?' Elena wonders steadily at this point, joining "sluchilos" ("happened") to "vitya" ("Vitya") so every word pulls its weight.
-- 'I got into big trouble.' Barinov projects a lively tempo with Elena, linking "popal" ("hit"), "bolshuyu" ("large, big"), and "bedu" ("trouble, misfortune") in one brisk exchange.
-- 'Because of me a person died today.' Barinov sets an unhurried manner with Elena, joining "segodnya" ("today") to "pogib" ("died, perished") so every word pulls its weight.
-- 'I will come over, we will solve everything.' Elena favors a thoughtful position for Barinov, joining "priyedu" ("will come, visit") to "reshim" ("will sort out") so every word pulls its weight.
-- 'Forgive me for hiding it from you.' Elena favors a measured course on the spot, linking "prosti" ("sorry, forgive me"), "skryvala" ("to hide, to conceal"), and "chto" ("what") in one brisk exchange.
-- 'In India I was on an assignment.' Elena favors a wry style as the scene unfolds, joining "indii" ("India") to "byla" ("was") so every word pulls its weight.
-- 'The restaurant was only my cover.' Elena projects a pointed style in their talk, leaning on "restoran" ("restaurant") before closing the thought with "byl" ("was").
-- 'I have to watch over you.' Elena keeps a sharp rhythm with Barinov, using "dolzhna" (from "dolzhen", "should, must") alongside "sledit" ("to monitor") to shape the meaning.
-- 'I constantly cleaned up after you.' Elena conveys a warm approach with Barinov, anchoring the Russian line on "postoyanno" ("constantly") and "podchishchala" ("cleaned up after") without extra filler.
+- 'Lightning just struck me.' Barinov emphasizes this key piece on cue: "molniya" means "zipper, lightning", and it carries the main weight of what Barinov is saying.
+- 'Lena, forgive me for everything.' Barinov shapes that line on cue: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'I love you very much.' Barinov replies quietly as things stand, making his position completely clear.
+- 'Vitya, what happened to you?' Elena sharpens one sharp detail in reply: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'I got into big trouble.' Barinov jumps in wryly without a pause, before Elena can change the subject.
+- 'Because of me a person died today.' Barinov answers quietly with a shrug, letting the remark speak for itself.
+- 'I will come over, we will solve everything.' Elena stresses this direct touch in earnest: "priyedu" means "will come, visit" (from "priyekhat"), giving the line its exact edge.
+- 'Forgive me for hiding it from you.' Elena drops this answer in earnest: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'In India I was on an assignment.' Elena speaks up warmly watching Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'The restaurant was only my cover.' Elena stresses one vivid detail right here: "prikrytiyem" means "to undercover" (from "prikrytit"), giving the line its exact edge.
+- 'I have to watch over you.' Elena counters wryly with a sigh, so Barinov knows she is not just making small talk.
+- 'I constantly cleaned up after you.' Elena fires back lightly on the spot, grounding the moment in plain reality.

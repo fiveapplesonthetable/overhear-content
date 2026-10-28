@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, let' Nagiyev rubs his hands in anticipation. The little particle "nu-ka" is a friendly, informal way to encourage action.
+- 'Well, let's try your famous signature sauce.' Nagiyev rubs his hands in anticipation. The little particle "nu-ka" is a friendly, informal way to encourage action.
 - 'This sauce is true high culinary art.' Barinov cannot stop praising his own creation. He truly believes it belongs in a museum.
 - 'Oh, the fresh bread fell on the floor.' Nagiyev drops the crucial piece of bread. He sounds a bit careless about it, ruining the chef's perfect presentation.
 - 'Right now we will quickly bring you new bread.' Barinov immediately scrambles to fix the situation. He wants the tasting to proceed exactly as planned.

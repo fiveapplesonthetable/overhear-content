@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I got divorced!' Nagiyev maintains an earnest stance as they talk, combining "razvyolsya" ("got divorced") and "ya" ("I") so the key meaning lands right away.
-- 'Kristina Semyonovna, goodbye!' Nagiyev chooses a pointed tone straight away, pairing "svidaniya" ("meeting") with "kristina" ("Kristina") to get the point across in plain spoken Russian.
-- 'Page fourteen!' Nagiyev presents a steady direction on the spot, joining "stranitsa" ("page") to "chetyrnadtsataya" ("fourteenth") so every word pulls its weight.
-- 'In the woods among the bears.' Nagiyev favors a warm footing in the scene, weaving "lesakh" ("woods, forests") together with "medvedey" ("bears") just the way native speakers do.
-- 'Right, I will go arrange champagne for the guests.' Vika favors a serious stance in this beat, building the phrase around "poydu" ("go") and "organizuyu" ("will organize") for a crisp, natural delivery.
-- 'Go on, run, little rabbit.' Nagiyev presents an unhurried line in front of Vika, pairing "davay" ("let's") with "begi" ("run") to get the point across in plain spoken Russian.
-- 'Dmitry Vladimirovich, I congratulate you.' Kostya favors an emphatic rhythm as they talk, weaving "pozdravlyayu" ("congratulations") together with "dmitriy" ("Dmitry") just the way native speakers do.
-- 'Yes, my boy.' Nagiyev displays an unhurried tone in front of Vika, putting "synok" ("son") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'I really like how you work.' Nagiyev holds a natural position with Kostya, joining "ochen" ("very much") to "nravitsya" ("is pleasing") so every word pulls its weight.
-- 'Well done, champ.' Nagiyev conveys a steady style as the scene unfolds, putting "molodets" ("well done, good boy") alongside "krasavchik" ("handsome guy") in a tight, everyday turn of phrase.
-- 'Thank you.' Kostya favors a thoughtful tone without hesitation, letting the single Russian word "spasibo" ("thank you") carry the entire reaction on its own.
-- 'I want to thank you.' Nagiyev sets an easygoing course at this moment, combining "khochu" ("want") and "poblagodarit" ("to thank") so the key meaning lands right away.
+- 'I got divorced!' Nagiyev features one key detail right here: "razvyolsya" means "got divorced" (from "razvestis"), giving the line its exact edge.
+- 'Kristina Semyonovna, goodbye!' Nagiyev frames the comment with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Page fourteen!' Nagiyev follows up warmly in this moment, keeping the focus on what actually matters here.
+- 'In the woods among the bears.' Nagiyev underscores one direct element right here: "medvedey" means "bears" (from "medved"), giving the line its exact edge.
+- 'Right, I will go arrange champagne for the guests.' Vika speaks up briskly to be clear, grounding the moment in plain reality.
+- 'Go on, run, little rabbit.' Nagiyev follows up lightly beside Vika, without trying to dress up how he really feels.
+- 'Dmitry Vladimirovich, I congratulate you.' Kostya favors this vivid detail in earnest: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Yes, my boy.' Nagiyev brings this warning with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I really like how you work.' Nagiyev proceeds quietly in this moment, refusing to let the moment slip past.
+- 'Well done, champ.' Nagiyev sharpens one direct element at once: "krasavchik" means "handsome guy", and it carries the main weight of what Nagiyev is saying.
+- 'Thank you.' Kostya voices that point facing Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I want to thank you.' Nagiyev answers frankly with Vika, keeping the focus on what actually matters here.

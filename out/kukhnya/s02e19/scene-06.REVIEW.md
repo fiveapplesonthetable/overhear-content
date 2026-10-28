@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, you understand how it is.' Barinov projects a pointed style with Nagiyev, pairing "ponimayesh" ("do you understand") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'That is why I walk around like this.' Vika strikes a wry direction with Nagiyev, combining "poetomu" ("that's why") and "khozhu" ("walks") so the key meaning lands right away.
-- 'You see, people know me and love me.' Nagiyev adopts a pointed mood for Barinov, anchoring the Russian line on "vidish" ("see") and "lyudi" ("people") without extra filler.
-- 'That is how it turns out.' Barinov projects a warm angle in this beat, using "poluchayetsya" (from "poluchatsya", "works out") alongside "tak" ("so") to shape the meaning.
-- 'Dmitriy Vladimirovich.' Vika shares a wry attitude across the room, anchoring the Russian line on "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") without extra filler.
-- 'Here is your coffee.' Nagiyev conveys a lively style toward Vika, joining "kofe" ("of coffee") to "vash" ("your, yours") so every word pulls its weight.
-- 'What is this?' Barinov challenges earnestly across the room, leaning on "che" ("what") before closing the thought with "eto" ("this").
-- 'I did not ask for this.' Nagiyev shows a direct attitude on the spot, using "prosil" (from "prosit", "ask for") alongside "ya" ("I") to shape the meaning.
-- 'Ah, so that is how it is.' Nagiyev adopts a sharp view right away, anchoring the Russian line on "kak" ("how") and "akh" ("ah, oh") without extra filler.
-- 'Ah, I see now.' Barinov displays a candid direction in their talk, weaving "kak" ("how") together with "akh" ("ah, oh") just the way native speakers do.
-- 'Good job. Keep looking like that.' Vika favors a brisk footing at once, joining "molodets" ("well done, good boy") to "glyadish" ("to look, to see") so every word pulls its weight.
-- 'Why, what is wrong?' Nagiyev tests lightly in the room, leaning on "che" ("what") as a compact, one-word response that needs no extra words.
-- 'By the way, it suits you very well.' Barinov holds a pointed style in this beat, linking "kstati" ("by the way"), "ochen" ("very much"), and "idet" ("go, walk") in one brisk exchange.
+- 'Well, you understand how it is.' Barinov jumps in evenly on the spot, grounding the moment in plain reality.
+- 'That is why I walk around like this.' Vika favors one familiar word at once: "poetomu" means "that's why", and it carries the main weight of what Vika is saying.
+- 'You see, people know me and love me.' Nagiyev drops that reply with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'That is how it turns out.' Barinov jumps in pointedly without holding back, saying out loud what both of them already know.
+- 'Dmitriy Vladimirovich.' Vika lays out that reply for Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Here is your coffee.' Nagiyev voices the reaction without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What is this?' Barinov quizzes skeptically if there is more going on behind the scenes.
+- 'I did not ask for this.' Nagiyev grounds this clear detail in earnest: "prosil" means "ask for" (from "prosit"), giving the line its exact edge.
+- 'Ah, so that is how it is.' Nagiyev hands over this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Ah, I see now.' Barinov pushes back steadily as things stand, watching Vika's face to see how the news lands.
+- 'Good job. Keep looking like that.' Vika underscores this key touch at once: "molodets" means "well done, good boy", and it carries the main weight of what Vika is saying.
+- 'Why, what is wrong?' Nagiyev phrases this update before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'By the way, it suits you very well.' Barinov proceeds at once on the spot, testing Nagiyev's reaction in the middle of the exchange.

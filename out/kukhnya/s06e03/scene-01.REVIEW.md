@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Go ahead, shoot!' Nagiyev holds a calm footing in front of Barinov, leaning on "davay" ("let's") before closing the thought with "strelyay" ("shoot").
-- 'Do you not see we are filming a movie?' Nagiyev challenges pointedly at this point, using "vidish" (from "videt", "see") alongside "kino" ("cinema, movies") to shape the meaning.
-- 'Cut, why is an unauthorized person in the shot?' Nagiyev challenges warmly on the spot, weaving "pochemu" ("why") together with "postoronniy" ("outsider") just the way native speakers do.
-- 'Vitya, what kind of karma do you have?' Nagiyev quizzes briskly on the spot, leaning on "karma" ("karma") before closing the thought with "vitya" ("Vitya").
-- 'Five-minute break, and do not wander off!' Nagiyev maintains a grounded tone in the room, pairing "pereryv" ("break, recess") with "minut" ("minutes") to get the point across in plain spoken Russian.
-- 'You cannot do that, Vitya!' Nagiyev chooses a clear angle in the conversation, building the phrase around "nelzya" ("not allowed") and "tak" ("so") for a crisp, natural delivery.
-- 'And now all the complaints fall on me.' Barinov chooses a grounded tempo in the scene, anchoring the Russian line on "zhaloby" ("complaints") and "teper" ("now") without extra filler.
-- 'Do you not see that they are pouring blood here?' Nagiyev probes earnestly with Barinov now, anchoring the Russian line on "vidish" ("see") and "krov" ("blood") without extra filler.
-- 'I want to walk through to the restaurant.' Barinov maintains a sharp direction in the conversation, combining "khochu" ("want") and "proyti" ("take place") so the key meaning lands right away.
-- 'Do not step on the blood.' Nagiyev establishes a sharp course across the room, pairing "krov" ("blood") with "nastupay" ("step on") to get the point across in plain spoken Russian.
-- 'Take your hands off, what do you think you are doing?' Barinov inquires sharply beside Nagiyev, joining "uberite" ("take away, remove") to "ruki" ("hands") so every word pulls its weight.
-- 'Walk faster, Vitya.' Nagiyev projects a natural tack beside Barinov, using "idi" (from "idti", "go") alongside "bystreye" ("faster") to shape the meaning.
+- 'Go ahead, shoot!' Nagiyev uses one pointed expression in earnest: "strelyay" means "shoot" (from "strelyat"), giving the line its exact edge.
+- 'Do you not see we are filming a movie?' Nagiyev puts this statement without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Cut, why is an unauthorized person in the shot?' Nagiyev tests firmly before Barinov can change the subject.
+- 'Vitya, what kind of karma do you have?' Nagiyev centers one concrete detail in reply: "karma" means "karma", and it carries the main weight of what Nagiyev is saying.
+- 'Five-minute break, and do not wander off!' Nagiyev frames this answer without pause: the "-sya" ending on "raskhoditsya" ("to disperse") turns the action inward or makes it happen between people naturally.
+- 'You cannot do that, Vitya!' Nagiyev responds sharply hearing Barinov, before Barinov can change the subject.
+- 'And now all the complaints fall on me.' Barinov reaches for this clear expression on cue: "zhaloby" means "complaints" (from "zhaloba"), giving the line its exact edge.
+- 'Do you not see that they are pouring blood here?' Nagiyev offers that answer for Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I want to walk through to the restaurant.' Barinov chimes in bluntly with a shrug, saying out loud what both of them already know.
+- 'Do not step on the blood.' Hear how Nagiyev turns to Barinov right away — the Russian word "nastupay" ("step on", built from "nastupat") does the heavy lifting.
+- 'Take your hands off, what do you think you are doing?' Barinov gives this warning with candor: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Walk faster, Vitya.' Nagiyev jumps in wryly without a pause, so Barinov knows he is not just making small talk.

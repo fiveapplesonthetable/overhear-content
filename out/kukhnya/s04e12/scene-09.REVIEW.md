@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Sasha, is everything okay with you?' Max questions decisively in front of Barinov, putting "normalno" ("fine, OK") alongside "allo" ("hello") in a tight, everyday turn of phrase.
-- 'Max, I really need your help.' Sasha picks an earnest angle as they talk, building the phrase around "ochen" ("very much") and "nuzhna" ("needed") for a crisp, natural delivery.
-- 'Can you come over to us right now?' Sasha inquires candidly right away, building the phrase around "mozhesh" ("can") and "seychas" ("now") for a crisp, natural delivery.
-- 'I am standing near the restaurant with Misha.' Sasha takes a frank tone in their talk, weaving "stoyu" ("am standing") together with "restorana" ("restaurant") just the way native speakers do.
-- 'He is drunk and wants to get behind the wheel.' Sasha projects a steady tone at once, linking "pyanyy" ("drunk"), "khochet" ("wants"), and "rul" ("steering wheel") in one brisk exchange.
-- 'I cannot handle him by myself.' Sasha offers an easygoing posture in their talk, building the phrase around "spravlyus" ("will manage") and "ya" ("I") for a crisp, natural delivery.
-- 'Listen, it is actually the middle of the night outside.' Max establishes a firm mood across the room, joining "slushay" ("listen") to "voobshche-to" ("actually") so every word pulls its weight.
-- 'And what am I going to tell my Vika?' Max inquires openly in their exchange, using "skazhu" (from "skazat", "I'll tell") alongside "chto" ("what") to shape the meaning.
-- 'I beg you, I have no one else to turn to.' Sasha adopts an honest tone in their talk, joining "proshu" ("beg, ask") to "bolshe" ("more") so every word pulls its weight.
-- 'Well, Lyova, is there anything in there?' Barinov tests earnestly from the start, pairing "yest" ("there is") with "tam" ("there") to get the point across in plain spoken Russian.
-- 'Well, it is actually good that there is nothing.' Barinov presents a measured view right away, building the phrase around "khorosho" ("good, fine") and "da" ("yes") for a crisp, natural delivery.
-- 'That carries up to seven years in prison!' Barinov adopts a brisk stance beside Sasha, putting "lisheniye" ("seven") alongside "svobody" ("freedom, liberty") in a tight, everyday turn of phrase.
-- 'Maybe the diamonds are in Fedya's fish?' Barinov asks dryly in front of Max, leaning on "mozhet" ("can") before closing the thought with "brillianty" ("diamonds").
-- 'Lyova, follow me, grab a flashlight!' Barinov conveys a grounded tone for Sasha, weaving "idi" ("go") together with "zakhvati" ("to flashlight") just the way native speakers do.
+- 'Hello, Sasha, is everything okay with you?' Max asks point-blank where this conversation is heading next.
+- 'Max, I really need your help.' Sasha chooses one key word at once: "pomoshch" means "help", and it carries the main weight of what Sasha is saying.
+- 'Can you come over to us right now?' Sasha frames the thought to Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I am standing near the restaurant with Misha.' Sasha speaks frankly beside Max, without trying to dress up how she really feels.
+- 'He is drunk and wants to get behind the wheel.' Sasha sharpens one direct term toward Barinov: "pyanyy" means "drunk", and it carries the main weight of what Sasha is saying.
+- 'I cannot handle him by myself.' Sasha makes this answer without fuss: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
+- 'Listen, it is actually the middle of the night outside.' Max cuts in briskly watching Barinov, refusing to let the moment slip past.
+- 'And what am I going to tell my Vika?' Max stresses this clear touch for Sasha: "skazhu" means "I'll tell" (from "skazat"), giving the line its exact edge.
+- 'I beg you, I have no one else to turn to.' Sasha sends that reply toward Barinov: the "-sya" ending on "obratitsya" ("to turn") turns the action inward or makes it happen between people naturally.
+- 'Well, Lyova, is there anything in there?' Barinov probes wryly whether Sasha really thought this through.
+- 'Well, it is actually good that there is nothing.' Barinov chooses this key word on cue: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'That carries up to seven years in prison!' Barinov reacts frankly around Sasha, before Sasha can change the subject.
+- 'Maybe the diamonds are in Fedya's fish?' Barinov checks evenly before Max can change the subject.
+- 'Lyova, follow me, grab a flashlight!' Barinov sharpens one concrete piece at once: "zakhvati" means "to flashlight", and it carries the main weight of what Barinov is saying.

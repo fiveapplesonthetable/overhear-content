@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A deep thought.' Barinov picks a frank manner with Elena, pairing "glubokaya" ("deep, profound") with "mysl" ("thought, idea") to get the point across in plain spoken Russian.
-- 'And this means brightly and colorfully.' Barinov conveys a resolute footing in front of Eleonora, weaving "znachit" ("then, so") together with "yarko" ("brightly") just the way native speakers do.
-- 'No, black and white.' Elena displays an unhurried line in front of Barinov, anchoring the Russian line on "chyornoye" ("black") and "beloye" ("white") without extra filler.
-- 'Lena, and who is the author of all these masterpieces?' Barinov questions briskly beside Eleonora, linking "avtor" ("author, creator"), "shedevrov" ("masterpieces"), and "lena" ("Lena") in one brisk exchange.
-- 'Did they not let him out of the asylum?' Barinov asks candidly to keep things clear, combining "psikhushki" ("mental hospital") and "otpustili" ("let go") so the key meaning lands right away.
-- 'By the way, it is not a he, but a she.' Elena conveys a wry attitude as the scene unfolds, building the phrase around "kstati" ("by the way") and "eto" ("this") for a crisp, natural delivery.
-- 'Aha, then everything is clear.' Barinov sets a lively tempo as they talk, anchoring the Russian line on "togda" ("back then") and "ponyatno" ("clear") without extra filler.
-- 'Lots of free time, so she busies herself with nonsense.' Barinov favors a brisk manner in the room, linking "mnogo" ("a lot"), "svobodnogo" ("free"), and "vremeni" ("time") in one brisk exchange.
-- 'I am very pleased that you like my art.' Eleonora chooses a natural bearing in the scene, anchoring the Russian line on "ochen" ("very much") and "priyatno" ("pleasant") without extra filler.
-- 'I am glad that you managed to make it out here.' Eleonora presents a pointed mood across the room, leaning on "rada" ("glad") before closing the thought with "udalos" ("succeeded").
-- 'Lena, what are we doing here?' Barinov challenges promptly to Elena here, joining "zdes" ("here") to "delayem" ("are doing") so every word pulls its weight.
-- 'We are building a good relationship with your boss.' Elena offers a firm stance toward Eleonora, linking "nalazhivayem" ("are building"), "otnosheniya" ("relations, relationship"), and "nachalnitsey" ("female boss") in one brisk exchange.
+- 'A deep thought.' Barinov drops this line on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And this means brightly and colorfully.' Barinov fires back calmly with a nod, without trying to dress up how he really feels.
+- 'No, black and white.' Elena spotlights this sharp expression for Barinov: "chyornoye" means "black" (from "chyornyy"), giving the line its exact edge.
+- 'Lena, and who is the author of all these masterpieces?' Barinov drops this line beside Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Did they not let him out of the asylum?' Barinov questions candidly while looking straight at Elena here.
+- 'By the way, it is not a he, but a she.' Elena underscores one vivid piece in reply: "kstati" means "by the way", and it carries the main weight of what Elena is saying.
+- 'Aha, then everything is clear.' Barinov offers that answer toward Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Lots of free time, so she busies herself with nonsense.' Barinov speaks up dryly with a sigh, letting the remark speak for itself.
+- 'I am very pleased that you like my art.' Eleonora reaches for one direct piece for Barinov: "tvorchestvo" means "creative work", and it carries the main weight of what Eleonora is saying.
+- 'I am glad that you managed to make it out here.' Eleonora gives that answer to Elena: the "-sya" ending on "vybratsya" ("to get out") turns the action inward or makes it happen between people naturally.
+- 'Lena, what are we doing here?' Barinov challenges briskly in front of Elena without any preamble.
+- 'We are building a good relationship with your boss.' Elena frames one key term at once: "nachalnitsey" means "female boss" (from "nachalnitsa"), giving the line its exact edge.

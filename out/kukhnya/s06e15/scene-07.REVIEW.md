@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why does your application start with a lowercase letter?' Barinov checks decisively for Kostya's benefit, linking "pochemu" ("why"), "zayavleniye" ("statement"), and "malenkoy" ("little") in one brisk exchange.
-- 'That is a capital letter, it just looks like that.' Lyova shows a warm tone straight away, putting "bolshaya" ("large") alongside "bukva" ("letter") in a tight, everyday turn of phrase.
-- 'Go and quickly rewrite everything all over again.' Barinov maintains a steady line in front of Kostya, combining "idi" ("go") and "bystro" ("quickly") so the key meaning lands right away.
-- 'Are you kidding me, this is already the third letter!' Lyova sets a sharp manner as they talk, joining "izdevayetes" ("are you mocking") to "uzhe" ("already, now") so every word pulls its weight.
-- 'If you want to be a chef, learn to write documents!' Barinov shares a measured style without hesitation, leaning on "khochesh" ("do you want") before closing the thought with "byt" ("be").
-- 'Did you think of who to introduce your father to today?' Kostya presses honestly with Lyova now, pairing "pridumal" ("came up with") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'I have two options right now.' Kostya strikes a natural bearing during the exchange, combining "seychas" ("now") and "yest" ("there is") so the key meaning lands right away.
-- 'Look, you two are together at work too.' Kostya shares a candid tempo in the scene, putting "smotri" ("look") alongside "rabote" ("work") in a tight, everyday turn of phrase.
-- 'Hello, Dad, should I pour for you as usual?' Kostya tests frankly to keep things clear, leaning on "papa" ("Dad") before closing the thought with "nalit" ("to pour").
-- 'I was walking nearby and decided to visit my son.' Lyova projects a pointed stance at this moment, building the phrase around "gulyal" ("walked") and "ryadom" ("nearby") for a crisp, natural delivery.
-- 'Alright, I will not bother you two.' Lyova offers a frank position in the scene, pairing "budu" ("will be") with "meshat" ("to bother, to disturb") to get the point across in plain spoken Russian.
-- 'I will go sit quietly at a table alone.' Lyova favors an honest direction at this moment, weaving "poydu" ("go") together with "posizhu" ("to sit for a while") just the way native speakers do.
+- 'Why does your application start with a lowercase letter?' Barinov picks one vivid detail in reply: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
+- 'That is a capital letter, it just looks like that.' Lyova states this warning with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Go and quickly rewrite everything all over again.' Barinov chimes in decisively as things stand, keeping the focus on what actually matters here.
+- 'Are you kidding me, this is already the third letter!' Lyova favors one memorable element toward Kostya: "zayavleniye" means "statement", and it carries the main weight of what Lyova is saying.
+- 'If you want to be a chef, learn to write documents!' Barinov opens up bluntly with a nod, letting the remark speak for itself.
+- 'Did you think of who to introduce your father to today?' Kostya challenges bluntly as Lyova tries to explain the situation.
+- 'I have two options right now.' Kostya highlights one memorable word at once: "varianta" means "options" (from "variant"), giving the line its exact edge.
+- 'Look, you two are together at work too.' Kostya colors this direct piece toward Lyova: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'Hello, Dad, should I pour for you as usual?' Turning back before Barinov, Kostya cuts straight through the tension in the room.
+- 'I was walking nearby and decided to visit my son.' Lyova highlights one vivid expression right here: "provedat" means "to check on", and it carries the main weight of what Lyova is saying.
+- 'Alright, I will not bother you two.' Lyova gives the thought calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'I will go sit quietly at a table alone.' Lyova speaks up honestly without holding back, so Kostya knows he is not just making small talk.

@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yeah, I remember.' Kostya sighs, acknowledging his painful reality.
 - 'I got fired.' Kostya states his predicament plainly, noting that he was let go from his job.
 - 'Why didn't you stay at Vika's?' Max uses the informal everyday 'you' here with 'remained', as friends and close colleagues do.
-- 'She wouldn' Max admits that she refused to let him stay over, highlighting the tension between them.
+- 'She wouldn't let me in.' Max admits that she refused to let him stay over, highlighting the tension between them.
 - 'She started making everything complicated.' Kostya complains that her reaction is making a simple situation overly complex.

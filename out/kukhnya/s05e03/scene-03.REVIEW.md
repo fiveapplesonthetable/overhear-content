@@ -31,21 +31,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, did you know about this?' Barinov quizzes plainly from the start, putting "znala" ("knew") alongside "katya" ("Katya") in a tight, everyday turn of phrase.
-- 'She knew nothing about it.' Eleonora shares a brisk rhythm toward Katya, leaning on "znala" ("knew") before closing the thought with "ona" ("it").
-- 'So this is your personal plan?' Barinov inquires frankly as the talk turns, linking "znachit" ("then, so"), "lichno" ("personally"), and "plan" ("plan") in one brisk exchange.
-- 'Calm down, my husband hired you.' Eleonora presents a brisk position with Katya, combining "uspokoysya" ("calm down") and "nanimal" ("hired") so the key meaning lands right away.
-- 'He left me this hotel.' Eleonora takes a frank stance as the scene unfolds, joining "ostavil" ("left") to "otel" ("hotel") so every word pulls its weight.
-- 'Did another husband run away from you?' Barinov presses sharply in front of Katya, building the phrase around "ocherednoy" ("another, next") and "muzh" ("husband") for a crisp, natural delivery.
-- 'Accept my congratulations, my dear.' Barinov establishes an earnest mood at this moment, putting "primi" ("take, accept") alongside "pozdravleniya" ("congratulations") in a tight, everyday turn of phrase.
-- 'He ran so fast that he forgot the hotel.' Barinov keeps a direct manner for Katya, using "bezhal" (from "bezhat", "to run, to flee") alongside "gostinitsu" ("the hotel") to shape the meaning.
-- 'Actually, he died recently.' Eleonora displays a pointed approach for Barinov, putting "voobshche-to" ("actually") alongside "nedavno" ("returned") in a tight, everyday turn of phrase.
-- 'Look for another head chef for yourselves.' Barinov sustains an earnest mood as the scene unfolds, using "ishchite" (from "iskat", "look for, search") alongside "drugogo" ("other, another") to shape the meaning.
-- 'Mom, please stop him!' Katya offers a resolute mood in the room, linking "mama" ("mum, mother"), "ostanovi" ("stop"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Denis is a very good guy.' Katya takes a grounded style as the scene unfolds, building the phrase around "ochen" ("very much") and "khoroshiy" ("good") for a crisp, natural delivery.
-- 'But he is more of a musician than a cook.' Katya conveys a playful attitude as they talk, pairing "bolshe" ("more") with "muzykant" ("musician") to get the point across in plain spoken Russian.
-- 'So he still has not made up his mind?' Eleonora probes frankly with Katya now, combining "yest" ("there is") and "opredelilsya" ("made up his mind") so the key meaning lands right away.
-- 'We agreed: you do not interfere in my life.' Katya keeps a grounded note in the room, weaving "dogovorilis" ("agreed, deal") together with "vmeshivayeshsya" ("you interfere") just the way native speakers do.
-- 'Tomorrow we have an important event.' Eleonora holds a warm rhythm as they talk, leaning on "zavtra" ("tomorrow") before closing the thought with "vazhnoye" ("important").
-- 'Our head cook there got sick.' Eleonora conveys a candid course in front of Barinov, pairing "tam" ("there") with "glavnyy" ("main, chief") to get the point across in plain spoken Russian.
-- 'Your cuisine could save the situation.' Eleonora offers an emphatic view with Katya, joining "kukhnya" ("kitchen") to "mogla" ("could") so every word pulls its weight.
+- 'Katya, did you know about this?' Barinov inquires quietly if there is more going on behind the scenes.
+- 'She knew nothing about it.' Eleonora features this key expression on cue: "znala" means "knew" (from "znat"), giving the line its exact edge.
+- 'So this is your personal plan?' Barinov sends that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Calm down, my husband hired you.' Eleonora follows up wryly as things stand, so Katya knows she is not just making small talk.
+- 'He left me this hotel.' Eleonora grounds one direct element in reply: "ostavil" means "left" (from "ostavit"), giving the line its exact edge.
+- 'Did another husband run away from you?' Barinov hands over this line toward Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Accept my congratulations, my dear.' Barinov cuts in candidly around Eleonora, keeping the focus on what actually matters here.
+- 'He ran so fast that he forgot the hotel.' Barinov leans on this clear piece right here: "gostinitsu" means "the hotel" (from "gostinitsa"), giving the line its exact edge.
+- 'Actually, he died recently.' Eleonora drops the comment toward Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Look for another head chef for yourselves.' Barinov stands firm warmly as things stand, saying out loud what both of them already know.
+- 'Mom, please stop him!' Katya focuses on this key choice on cue: "ostanovi" means "stop" (from "ostanovit"), giving the line its exact edge.
+- 'Denis is a very good guy.' Katya shares this statement for Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But he is more of a musician than a cook.' Katya fires back steadily to settle things, keeping the focus on what actually matters here.
+- 'So he still has not made up his mind?' Eleonora uses one memorable term in reply: "opredelilsya" means "made up his mind" (from "opredelitsya"), giving the line its exact edge.
+- 'We agreed: you do not interfere in my life.' Katya lays out that thought briskly now: the "-sya" ending on "vmeshivayeshsya" ("you interfere") turns the action inward or makes it happen between people naturally.
+- 'Tomorrow we have an important event.' Eleonora proceeds pointedly without holding back, saying out loud what both of them already know.
+- 'Our head cook there got sick.' Eleonora emphasizes one colorful expression right here: "glavnyy" means "main, chief", and it carries the main weight of what Eleonora is saying.
+- 'Your cuisine could save the situation.' Eleonora grounds one practical touch in earnest: "polozheniye" means "position, situation", and it carries the main weight of what Eleonora is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, stop all this circus right now!' Barinov sustains a brisk tone right away, joining "davay" ("let's") to "prekrashchay" ("all") so every word pulls its weight.
-- 'Come to my place, we will work together.' Barinov establishes a wry tempo at this moment, leaning on "poydyom" ("let's go") before closing the thought with "budem" ("will").
-- 'Why could you not say this earlier?' Katya asks calmly right away, pairing "pochemu" ("why") with "nelzya" ("not allowed") to get the point across in plain spoken Russian.
-- 'An hour ago you were too busy!' Katya projects a brisk position as they talk, joining "chas" ("hour") to "nazad" ("ago") so every word pulls its weight.
-- 'Well, I am telling you right now!' Barinov presents a sharp stance straight away, pairing "seychas" ("now") with "govoryu" ("am telling") so the "-sya" ending carries the action.
-- 'Chef found out that Katya got a job here.' Senya picks a pointed approach toward Katya, weaving "uznal" ("recognised") together with "syuda" ("here") just the way native speakers do.
-- 'Katya, please, do not start this argument.' Barinov shares a brisk tempo beside Katya, combining "nachinay" ("start") and "spor" ("bet, wager") so the key meaning lands right away.
-- 'Dad, it will be much better for me here.' Katya favors a clear note at this moment, linking "papa" ("Dad"), "zdes" ("here"), and "budet" ("will be") in one brisk exchange.
-- 'I want to develop in the kitchen on my own.' Katya conveys a serious tack for Barinov, pairing "khochu" ("want") with "razvivatsya" ("develop") to get the point across in plain spoken Russian.
-- 'At my place there will be a very good salary.' Barinov establishes a direct angle in the room, joining "budet" ("will be") to "ochen" ("very much") so every word pulls its weight.
-- 'I promise you rapid career growth.' Barinov conveys a steady bearing in the conversation, linking "obeshchayu" ("promise"), "bystryy" ("fast"), and "karyernyy" ("climb") in one brisk exchange.
-- 'In two years I will make you sous-chef!' Barinov establishes a thoughtful course during the exchange, leaning on "goda" ("years") before closing the thought with "sdelayu" ("I'll do").
+- 'Katya, stop all this circus right now!' Barinov stands firm decisively to settle things, steering the talk right where he wants it.
+- 'Come to my place, we will work together.' Barinov chooses this direct expression with Senya: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'Why could you not say this earlier?' Katya drops this line with warmth: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'An hour ago you were too busy!' Katya jumps in plainly without a pause, so Senya knows she is not just making small talk.
+- 'Well, I am telling you right now!' Barinov anchors this direct choice toward Katya: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
+- 'Chef found out that Katya got a job here.' Senya gives the reply to Katya: the "-sya" ending on "ustroilas" ("to get a job") turns the action inward or makes it happen between people naturally.
+- 'Katya, please, do not start this argument.' Barinov opens up warmly in this moment, grounding the moment in plain reality.
+- 'Dad, it will be much better for me here.' Katya favors one telling term in earnest: "namnogo" means "much, far", and it carries the main weight of what Katya is saying.
+- 'I want to develop in the kitchen on my own.' Katya delivers the reaction plainly here: the "-sya" ending on "razvivatsya" ("develop") turns the action inward or makes it happen between people naturally.
+- 'At my place there will be a very good salary.' Barinov cuts in bluntly around Senya, making his position completely clear.
+- 'I promise you rapid career growth.' Barinov stresses one clear term in reply: "karyernyy" means "climb", and it carries the main weight of what Barinov is saying.
+- 'In two years I will make you sous-chef!' Barinov centers one practical expression on cue: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.

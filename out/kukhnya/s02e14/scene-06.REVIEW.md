@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'May I have your attention for a minute.' Barinov picks a calm mood in the room, leaning on "minutochku" ("a minute") before closing the thought with "vnimaniya" ("attention").
-- 'Anyway, here is the news.' Vika favors a direct line right away, putting "obshchem" ("short, so") alongside "novosti" ("the news") in a tight, everyday turn of phrase.
-- 'Viktor Petrovich will be away for another two weeks.' Ilya strikes a wry course as they talk, building the phrase around "budet" ("will be") and "yeshche" ("still") for a crisp, natural delivery.
-- 'He has not worked for a whole month already.' Barinov favors a firm style in their talk, linking "tselyy" ("whole, all"), "mesyats" ("month"), and "rabotayet" ("works") in one brisk exchange.
-- 'And now he has gone off to drink beer on vacation.' Vika picks a measured stance across the room, linking "teper" ("now"), "yeshche" ("still"), and "pivka" ("beer") in one brisk exchange.
-- 'How can you not be ashamed of yourself?' Ilya challenges candidly in front of Vika, joining "kak" ("how") to "stydno" ("shameful") so every word pulls its weight.
-- 'How could we possibly talk like that?' Barinov quizzes warmly for Ilya's benefit, joining "kak" ("how") to "mozhem" ("can") so every word pulls its weight.
-- 'He is sick and he needs medical treatment.' Vika favors a frank tempo during the exchange, combining "bolen" ("sick, ill") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'What are you all laughing at?' Ilya inquires openly to make the point, weaving "rzhete" ("to laugh loudly") together with "chego" ("what") just the way native speakers do.
-- 'What would I ever do without you?' Barinov queries briskly during the talk, linking "delal" ("were doing"), "chto" ("what"), and "by" ("would") in one brisk exchange.
-- 'Alright, alright, alright.' Vika chooses a candid angle straight away, letting the single Russian word "ladno" ("all right") carry the entire reaction on its own.
-- 'That is enough.' Ilya picks a frank manner right away, linking "nu" ("oh, come on") directly with "vse" ("all"), since Russian drops "is" and "are" in the present.
-- 'So how are you doing in here?' Barinov checks directly in front of Ilya, leaning on "tut" ("here") before closing the thought with "nu" ("oh, come on").
+- 'May I have your attention for a minute.' Barinov holds firm sharply facing Ilya, steering the talk right where he wants it.
+- 'Anyway, here is the news.' Vika highlights one colorful detail right here: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'Viktor Petrovich will be away for another two weeks.' Ilya replies plainly in their talk, keeping the focus on what actually matters here.
+- 'He has not worked for a whole month already.' Barinov speaks up boldly as things stand, saying out loud what both of them already know.
+- 'And now he has gone off to drink beer on vacation.' Vika anchors this clear touch toward Barinov: "poyekhal" means "I'm off" (from "poyekhat"), giving the line its exact edge.
+- 'How can you not be ashamed of yourself?' Ilya aims that thought for Vika: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'How could we possibly talk like that?' Barinov presses sharply about what Ilya just brought up.
+- 'He is sick and he needs medical treatment.' Vika underscores this telling choice right here: "lechitsya" means "is treatable", and it carries the main weight of what Vika is saying.
+- 'What are you all laughing at?' Ilya gives this update right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'What would I ever do without you?' Barinov checks eagerly what Vika is actually getting at here.
+- 'Alright, alright, alright.' Vika directs that point briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'That is enough.' Ilya shares that reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So how are you doing in here?' Barinov inquires firmly what Ilya is actually getting at here.

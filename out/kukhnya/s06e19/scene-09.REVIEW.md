@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You sit quietly in here for now.' Denis presents a firm view in front of Katya, linking "poka" ("bye"), "tikho" ("easy, quiet"), and "posidite" ("to sit for a while") in one brisk exchange.
-- 'Nastya, tell me, what should I do?' Katya asks quietly to Nastya here, joining "skazhi" ("say") to "delat" ("do") so every word pulls its weight.
-- 'Wait, have we arrived already?' Nastya quizzes lightly in this moment, joining "uzhe" ("already, now") to "priyekhali" ("we've arrived") so every word pulls its weight.
-- 'Denis offered for me to go away with him.' Katya takes a sharp manner on the spot, putting "predlozhil" ("suggested") alongside "uyekhat" ("to leave, go away") in a tight, everyday turn of phrase.
-- 'Where to, your wedding is tomorrow!' Nastya sets a warm manner during the exchange, joining "kuda" ("where to") to "zavtra" ("tomorrow") so every word pulls its weight.
-- 'Thank you very much for reminding me.' Katya keeps a playful line straight away, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
-- 'Is it normal that I am having doubts?' Katya checks boldly as the beat lands, linking "normalno" ("fine, OK"), "somnevayus" ("doubt"), and "eto" ("this") in one brisk exchange.
-- 'Nikita is a very good person, after all.' Nastya sustains a natural footing with Katya, pairing "ochen" ("very much") with "khoroshiy" ("good") to get the point across in plain spoken Russian.
-- 'Yes, he is truly very good.' Katya holds an unhurried tempo beside Denis, anchoring the Russian line on "pravda" ("honestly") and "ochen" ("very much") without extra filler.
-- 'But I cheated on him with Denis.' Katya picks an honest attitude in their talk, combining "izmenila" ("would change") and "denisom" ("time") so the key meaning lands right away.
-- 'On that day he proposed to me.' Katya keeps a direct tone right away, joining "den" ("day") to "sdelal" ("did") so every word pulls its weight.
-- 'Everything is fine, let us go now.' Denis picks a frank position toward Nastya, anchoring the Russian line on "poryadke" ("order") and "teper" ("now") without extra filler.
+- 'You sit quietly in here for now.' Denis follows up frankly facing Katya, bringing things back to earth after the buildup.
+- 'Nastya, tell me, what should I do?' Katya grounds one classic word on cue: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'Wait, have we arrived already?' Nastya hands over this update right away: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'Denis offered for me to go away with him.' Katya speaks lightly across the room, before Nastya can change the subject.
+- 'Where to, your wedding is tomorrow!' Nastya features this sharp detail on cue: "svadba" means "wedding", and it carries the main weight of what Nastya is saying.
+- 'Thank you very much for reminding me.' Katya drops this point with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Is it normal that I am having doubts?' Katya asks candidly as Denis tries to explain the situation.
+- 'Nikita is a very good person, after all.' Nastya focuses on this clear word right here: "khoroshiy" means "good", and it carries the main weight of what Nastya is saying.
+- 'Yes, he is truly very good.' Katya sends this update with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But I cheated on him with Denis.' Katya holds firm promptly without a pause, saying out loud what both of them already know.
+- 'On that day he proposed to me.' Katya sharpens one familiar detail on cue: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
+- 'Everything is fine, let us go now.' Denis holds firm steadily with a nod, leaving no doubt about where he stands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you alone this evening.' Nikita favors an honest approach during the exchange, linking "khotel" ("wanted"), "vecherom" ("in the evening"), and "pogovorit" ("to talk") in one brisk exchange.
-- 'Alright, then see you this evening.' Katya favors a warm tempo at this moment, linking "khorosho" ("good, fine"), "togda" ("back then"), and "uvidimsya" ("will see each other") in one brisk exchange.
-- 'Is everything going to happen right here today?' Denis checks lightly to keep things clear, weaving "zdes" ("here") together with "segodnya" ("today") just the way native speakers do.
-- 'Yes, have you been here before?' Nikita probes quietly to Katya here, linking "uzhe" ("already, now"), "byval" ("to happen, to be"), and "tut" ("here") in one brisk exchange.
-- 'Yes, this is a very familiar place.' Denis takes a frank tack in the conversation, leaning on "ochen" ("very much") before closing the thought with "znakomoye" ("familiar, known").
-- 'Do you live here in the hotel?' Denis wonders naturally at this point, anchoring the Russian line on "zdes" ("here") and "otele" ("in the hotel") without extra filler.
-- 'Well no, I work here as a waiter.' Nikita takes a lively angle beside Denis, leaning on "zdes" ("here") before closing the thought with "ofitsiantom" ("waiter, server").
-- 'I see, so you are doing this for a girl.' Denis maintains a measured position in front of Nikita, putting "ponyatno" ("clear") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
-- 'Listen, stand right here for five minutes.' Nikita holds an honest stance across the room, joining "slushay" ("listen") to "postoy" ("wait") so every word pulls its weight.
-- 'I will bring the money out to you right now.' Nikita brings a grounded approach in front of Katya, pairing "seychas" ("now") with "dengi" ("money") so the "-sya" ending carries the action.
-- 'Alright, I will wait for you by the car.' Denis adopts a brisk style in the room, combining "khorosho" ("good, fine") and "podozhdu" ("will wait") so the key meaning lands right away.
-- 'Do not go anywhere from here.' Nikita holds an emphatic posture without hesitation, weaving "nikuda" ("nowhere, anywhere") together with "otsyuda" ("from here") just the way native speakers do.
+- 'I wanted to talk with you alone this evening.' Nikita speaks up dryly hearing Denis, saying out loud what both of them already know.
+- 'Alright, then see you this evening.' Katya speaks up wryly to be clear, shifting the whole mood of the room in a single beat.
+- 'Is everything going to happen right here today?' Denis picks one telling piece on cue: "proiskhodit" means "to happen, go on", and it carries the main weight of what Denis is saying.
+- 'Yes, have you been here before?' Nikita drops the reply at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Yes, this is a very familiar place.' Denis speaks warmly to settle things, refusing to let the moment slip past.
+- 'Do you live here in the hotel?' Denis emphasizes one vivid detail for Nikita: "zhivyosh" means "to live" (from "zhit"), giving the line its exact edge.
+- 'Well no, I work here as a waiter.' Nikita speaks at once toward Denis, steering the talk right where he wants it.
+- 'I see, so you are doing this for a girl.' Denis chimes in briskly in this moment, keeping the focus on what actually matters here.
+- 'Listen, stand right here for five minutes.' Nikita focuses on one colorful piece with Denis: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'I will bring the money out to you right now.' Nikita lays out this statement in earnest: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Alright, I will wait for you by the car.' Denis reacts briskly with a sigh, letting the remark speak for itself.
+- 'Do not go anywhere from here.' Nikita focuses on one colorful choice in reply: "otsyuda" means "from here", and it carries the main weight of what Nikita is saying.

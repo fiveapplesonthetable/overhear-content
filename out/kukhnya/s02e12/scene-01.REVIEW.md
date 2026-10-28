@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That I have been working here.' Max projects a candid approach in this beat, joining "zdes" ("here") to "rabotayu" ("work") so every word pulls its weight.
-- 'Over those six months.' Barinov establishes a grounded angle in the room, putting "polgoda" ("six months") alongside "za" ("for") in a tight, everyday turn of phrase.
-- 'I ordered zucchini.' Max displays a thoughtful tone beside Barinov, combining "zakazyval" ("ordered") and "tsukini" ("zucchini") so the key meaning lands right away.
-- 'Do you call this zucchini?' Barinov challenges warmly in the room, pairing "po-tvoyemu" ("wife") with "tsukini" ("zucchini") to get the point across in plain spoken Russian.
-- 'Guys, I forgot to update the eighty-six list.' Max strikes a brisk position in this beat, weaving "rebyat" ("kids, guys") together with "zabyl" ("forgot") just the way native speakers do.
-- 'This is your station now.' Barinov keeps a candid course in this beat, combining "teper" ("now") and "mesto" ("place, post") so the key meaning lands right away.
-- 'What are you doing here with the fish?' Max queries warmly beside Barinov, leaning on "tut" ("here") before closing the thought with "delayesh" ("are you doing").
-- 'Who fillets a fish like that?' Barinov probes openly across the room, linking "rybu" ("fish"), "razdelyvayet" ("to butcher"), and "kto" ("who") in one brisk exchange.
-- 'What do you think you are doing?' Max inquires lightly beside Barinov, pairing "delayesh" ("are you doing") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'Who fillets fish like that?' Barinov inquires sharply with Max now, combining "rybu" ("fish") and "razdelyvayet" ("to butcher") so the key meaning lands right away.
-- 'I am asking you!' Max establishes a playful stance straight away, leaning on "sprashivayu" ("am asking") before closing the thought with "ya" ("I").
-- 'Yet there are plenty of people eager to get hired too.' Barinov chooses a brisk course in their talk, linking "zhelayushchikh" ("volunteer"), "ustroitsya" ("to get a job"), and "tozhe" ("too") in one brisk exchange.
-- 'Some leave, and others arrive.' Max displays an unhurried rhythm in the room, pairing "ukhodyat" ("are leaving") with "drugiye" ("other") to get the point across in plain spoken Russian.
+- 'That I have been working here.' Max leans on this telling term with Barinov: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
+- 'Over those six months.' Barinov lays out the remark at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I ordered zucchini.' Max pushes back frankly in their talk, bringing things back to earth after the buildup.
+- 'Do you call this zucchini?' Barinov leans on one vivid expression toward Max: "po-tvoyemu" means "wife" (from "po-tvoiy"), giving the line its exact edge.
+- 'Guys, I forgot to update the eighty-six list.' Max replies earnestly as things stand, grounding the moment in plain reality.
+- 'This is your station now.' Barinov counters wryly as they talk, watching Max's face to see how the news lands.
+- 'What are you doing here with the fish?' Max sharpens one concrete piece toward Barinov: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'Who fillets a fish like that?' Barinov voices that reply facing Max: putting the question word "kto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'What do you think you are doing?' Max wonders firmly what Barinov is actually getting at here.
+- 'Who fillets fish like that?' Barinov reaches for one clear term with Max: "razdelyvayet" means "to butcher" (from "razdelyvat"), giving the line its exact edge.
+- 'I am asking you!' Max phrases this line to Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Yet there are plenty of people eager to get hired too.' Barinov responds frankly watching Max, watching Max's face to see how the news lands.
+- 'Some leave, and others arrive.' Max spotlights one familiar touch in reply: "prikhodyat" means "come" (from "prikhodit"), giving the line its exact edge.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why did you decide that you need to lose weight?' Senya asks wryly in the room, joining "reshili" ("decided") to "nado" ("it is necessary") so every word pulls its weight.
-- 'Ever since you moved in with Elena Pavlovna, you changed.' Senya conveys a measured posture as they talk, weaving "kak" ("how") together with "pereyekhali" ("to move") just the way native speakers do.
-- 'What? I have not changed at all.' Barinov probes wryly on the spot, anchoring the Russian line on "izmenilsya" ("have changed") and "chego" ("what") without extra filler.
-- 'Maybe she is influencing you like that?' Senya inquires plainly as they speak, leaning on "mozhet" ("can") before closing the thought with "vliyayet" ("influences").
-- 'You never went on a diet before, chef.' Senya sustains a resolute tone in the room, putting "nikogda" ("never") alongside "diyetu" ("diet") in a tight, everyday turn of phrase.
-- 'You are a rebel!' Senya keeps a frank line across the room, pairing "buntar" ("rebel") with "vy" ("you") to get the point across in plain spoken Russian.
-- 'Senya, go take a hike!' Barinov holds a serious approach in their talk, building the phrase around "idi" ("go") and "sad" ("the park, garden") for a crisp, natural delivery.
-- 'Elena Pavlovna found my old suit.' Barinov offers a frank tack as they talk, linking "nashla" ("found, did you find"), "staryy" ("old"), and "kostyum" ("suit") in one brisk exchange.
-- 'I did not fit into it. So I decided to lose weight.' Barinov offers a serious tempo as the scene unfolds, using "vlez" (from "vlezt", "fit into") alongside "reshil" ("has decided") to shape the meaning.
-- 'On my own!' Barinov holds a serious line as the scene unfolds, using "samostoyatelno" ("independently") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Maybe she is the one who decided?' Senya presses wryly during the talk, building the phrase around "mozhet" ("can") and "reshila" ("decided") for a crisp, natural delivery.
-- 'Listen, what a handsome suit!' Elena establishes an easygoing stance at once, putting "slushay" ("listen") alongside "krasivyy" ("beautiful") in a tight, everyday turn of phrase.
-- 'Am I so fat right now?' Barinov checks calmly as they speak, building the phrase around "seychas" ("now") and "zhirnyy" ("fat, greasy") for a crisp, natural delivery.
+- 'Chef, why did you decide that you need to lose weight?' Senya delivers that answer before Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Ever since you moved in with Elena Pavlovna, you changed.' Senya fires back right away as things stand, steering the talk right where he wants it.
+- 'What? I have not changed at all.' Barinov highlights one familiar detail at once: "izmenilsya" means "have changed" (from "izmenitsya"), giving the line its exact edge.
+- 'Maybe she is influencing you like that?' Senya gives that thought to Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'You never went on a diet before, chef.' Senya stands firm evenly without a pause, refusing to let the moment slip past.
+- 'You are a rebel!' Senya underscores one direct element in reply: "buntar" means "rebel", and it carries the main weight of what Senya is saying.
+- 'Senya, go take a hike!' Barinov proceeds quietly without a pause, keeping the focus on what actually matters here.
+- 'Elena Pavlovna found my old suit.' Barinov weighs in plainly to settle things, leaving no doubt about where he stands.
+- 'I did not fit into it. So I decided to lose weight.' Barinov picks this key element right here: "pokhudet" means "to lose weight", and it carries the main weight of what Barinov is saying.
+- 'On my own!' Barinov hands over that point around Senya: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Maybe she is the one who decided?' Senya presses promptly about what Barinov just brought up.
+- 'Listen, what a handsome suit!' Elena centers one direct choice on cue: "krasivyy" means "beautiful", and it carries the main weight of what Elena is saying.
+- 'Am I so fat right now?' Barinov aims this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

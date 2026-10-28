@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, everything is fine, I already drove it away.' Max projects an emphatic position as they talk, pairing "normalno" ("fine, OK") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'Max, wait, I will explain everything to you right now.' Kostya presents a pointed direction in the conversation, weaving "podozhdi" ("wait") together with "seychas" ("now") just the way native speakers do.
-- 'I was simply calming Victoria Sergeyevna down.' Kostya brings a grounded note as they talk, combining "prosto" ("just") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'Kostya, do not be mad, let the name be Dmitry.' Vika displays a resolute stance in this beat, pairing "obizhaysya" ("take offence") with "budet" ("will be") so the "-sya" ending carries the action.
-- 'Dear Nastya, just do not worry.' Kostya projects a calm course toward Max, linking "dorogaya" ("expensive"), "tolko" ("only"), and "perezhivay" ("worry") in one brisk exchange.
-- 'Stop, no, it cannot be like this either!' Max sets a serious view with Vika, using "stoy" (from "stoyat", "stop, wait") alongside "tozhe" ("too") to shape the meaning.
-- 'Let us ask Max instead.' Kostya picks a wry note in the conversation, anchoring the Russian line on "davay" ("let's") and "luchshe" ("better") without extra filler.
-- 'Max, Dmitry is better, please tell us.' Kostya strikes a lively angle across the room, anchoring the Russian line on "luchshe" ("better") and "skazhi" ("say") without extra filler.
-- 'Not a fact, Dmitry infuriates me altogether.' Max picks a grounded position at once, combining "fakt" ("fact") and "voobshche" ("at all") so the key meaning lands right away.
-- 'Let us listen to normal music instead.' Max establishes an easygoing stance in their talk, linking "davay" ("let's"), "luchshe" ("better"), and "normalnuyu" ("proper, normal") in one brisk exchange.
-- 'Alright, let us do it this way, neither for you nor for me.' Max keeps a resolute angle in the conversation, linking "khorosho" ("good, fine"), "davay" ("let's"), and "tak" ("so") in one brisk exchange.
-- 'Vika, stop, please hear me out!' Max sets a sharp position in the scene, putting "stoy" ("stop, wait") alongside "vyslushay" ("hear out, listen to") in a tight, everyday turn of phrase.
+- 'Kostya, everything is fine, I already drove it away.' Max emphasizes this telling word at once: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
+- 'Max, wait, I will explain everything to you right now.' Kostya chooses this telling piece on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I was simply calming Victoria Sergeyevna down.' Kostya continues quietly with a sigh, testing Max's reaction in the middle of the exchange.
+- 'Kostya, do not be mad, let the name be Dmitry.' Vika picks one classic element for Max: "obizhaysya" means "take offence" (from "obizhatsya"), giving the line its exact edge.
+- 'Dear Nastya, just do not worry.' Kostya emphasizes one concrete touch at once: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Stop, no, it cannot be like this either!' Max answers briskly to settle things, to clear the air between them once and for all.
+- 'Let us ask Max instead.' Kostya emphasizes one colorful expression on cue: "luchshe" means "better", and it carries the main weight of what Kostya is saying.
+- 'Max, Dmitry is better, please tell us.' Kostya shapes the remark beside Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Not a fact, Dmitry infuriates me altogether.' Max holds firm promptly beside Kostya, keeping the focus on what actually matters here.
+- 'Let us listen to normal music instead.' Max emphasizes this clear term right here: "normalnuyu" means "proper, normal" (from "normalnyy"), giving the line its exact edge.
+- 'Alright, let us do it this way, neither for you nor for me.' Max frames that remark before Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Vika, stop, please hear me out!' Max answers sharply across the room, making his position completely clear.

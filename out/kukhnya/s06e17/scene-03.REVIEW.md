@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, those were just coconuts.' Fedya adopts an earnest line in the room, building the phrase around "byli" ("be") and "prosto" ("just") for a crisp, natural delivery.
-- 'Be quiet right now, Fedya!' Barinov brings a wry course as the scene unfolds, putting "zamolchi" ("to fall silent") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'I will bring him to his senses now.' Fedya sets a frank line during the exchange, pairing "seychas" ("now") with "privedu" ("will bring") so the "-sya" ending carries the action.
-- 'Stand right there!' Barinov chooses an unhurried style during the exchange, combining "stoyte" ("stop, wait") and "meste" ("place") so the key meaning lands right away.
-- 'Chef, excuse me, please.' Fedya establishes a clear tack as they talk, pairing "izvinite" ("sorry, excuse me") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'Please do not kill me.' The inspector takes an honest manner straight away, joining "ubivayte" ("kill") to "pozhaluysta" ("please") so every word pulls its weight.
-- 'We do not wish you any harm.' Barinov adopts a steady posture for Fedya, combining "zhelayem" ("to wish") and "zla" ("evil, harm") so the key meaning lands right away.
-- 'Then why did you hit me?' The inspector asks boldly right away, anchoring the Russian line on "zachem" ("what for") and "udarili" ("to hit, to strike") without extra filler.
-- 'This is just a foolish misunderstanding.' Barinov takes a candid course in their talk, leaning on "prosto" ("just") before closing the thought with "glupoye" ("silly, foolish").
-- 'Let me go from here, please.' The inspector projects a warm note during the exchange, weaving "otpustite" ("let go, release") together with "otsyuda" ("from here") just the way native speakers do.
-- 'Of course, you are completely free.' Barinov shares a grounded stance beside Fedya, building the phrase around "konechno" ("of course") and "sovershenno" ("quite, completely") for a crisp, natural delivery.
-- 'Do you want to go to your room?' Barinov questions frankly during the talk, using "khotite" (from "khotet", "want") alongside "poyti" ("go") to shape the meaning.
-- 'Fedya, escort the man, please.' Barinov conveys a warm style right away, linking "provodi" ("to see off"), "cheloveka" ("a man, a person"), and "fedya" ("Fedya") in one brisk exchange.
+- 'Chef, those were just coconuts.' Fedya reacts wryly in their talk, grounding the moment in plain reality.
+- 'Be quiet right now, Fedya!' Barinov chooses one direct element right here: "zamolchi" means "to fall silent" (from "zamolchat"), giving the line its exact edge.
+- 'I will bring him to his senses now.' Fedya answers lightly during the talk, to clear the air between them once and for all.
+- 'Stand right there!' Barinov responds candidly on the spot, bringing things back to earth after the buildup.
+- 'Chef, excuse me, please.' Fedya emphasizes one clear piece for Barinov: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Please do not kill me.' The inspector phrases the remark without fuss: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We do not wish you any harm.' Barinov reacts promptly to be clear, keeping the focus on what actually matters here.
+- 'Then why did you hit me?' The inspector leans on one pointed choice right here: "udarili" means "to hit, to strike" (from "udarit"), giving the line its exact edge.
+- 'This is just a foolish misunderstanding.' Barinov brings that point right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Let me go from here, please.' The inspector jumps in plainly watching Fedya, shifting the whole mood of the room in a single beat.
+- 'Of course, you are completely free.' Barinov picks one practical detail for Fedya: "sovershenno" means "quite, completely", and it carries the main weight of what Barinov is saying.
+- 'Do you want to go to your room?' Barinov drops that point around the inspector: Russian keeps the exact word order of a normal statement here, turning it into a question for the inspector purely through rising pitch at the end.
+- 'Fedya, escort the man, please.' Barinov fires back lightly to be clear, without trying to dress up how he really feels.

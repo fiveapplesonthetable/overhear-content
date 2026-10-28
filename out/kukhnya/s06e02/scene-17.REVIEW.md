@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are the three of us going to drink coffee?' Denis asks pointedly without hesitation, putting "vtroyem" ("the three of us") alongside "idem" ("to go, to walk") in a tight, everyday turn of phrase.
-- 'Why do you need me, you two need to be alone together.' Denis favors a firm direction straight away, anchoring the Russian line on "zachem" ("what for") and "nado" ("it is necessary") without extra filler.
-- 'But she is your girlfriend.' Nikita keeps a direct view as they talk, placing "devushka" ("girlfriend") straight beside "no" ("but") with no word for "to be" needed.
-- 'You told me yourself yesterday that Sveta was your girlfriend.' Denis takes a playful stance as they talk, anchoring the Russian line on "vchera" ("yesterday") and "govoril" ("said, were saying") without extra filler.
-- 'No, wait, it was you who said she was your girlfriend.' Nikita presents a calm mood as the scene unfolds, anchoring the Russian line on "podozhdi" ("wait") and "govoril" ("said, were saying") without extra filler.
-- 'No, I was not talking about her, I meant Katya.' Denis adopts a grounded mood in the conversation, anchoring the Russian line on "govoril" ("said, were saying") and "imel" ("had") without extra filler.
-- 'No, I was the one who said Katya was my girlfriend.' Nikita keeps a warm note on the spot, joining "govoril" ("said, were saying") to "devushka" ("girlfriend") so every word pulls its weight.
-- 'Katya, tell him that you and I lived together.' Denis offers a frank tempo in their talk, linking "skazhi" ("say"), "zhili" ("to live"), and "katya" ("Katya") in one brisk exchange.
-- 'Katya, were you really with him?' Nikita inquires sharply to Denis here, leaning on "pravda" ("honestly") before closing the thought with "byla" ("was").
-- 'Do you not see, she does not want to talk to you.' Denis takes a serious course as the scene unfolds, linking "vidish" ("see"), "khochet" ("wants"), and "razgovarivat" ("to talk, to speak") in one brisk exchange.
-- 'Let my girlfriend decide for herself what to do.' Nikita establishes a resolute tack in the room, combining "davay" ("let's") and "devushka" ("girlfriend") so the key meaning lands right away.
-- 'Quiet, stop it both of you!' Katya establishes a playful manner straight away, building the phrase around "tikho" ("easy, quiet") and "perestante" ("stop it") for a crisp, natural delivery.
+- 'Are the three of us going to drink coffee?' Denis delivers this point plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Why do you need me, you two need to be alone together.' Denis speaks up warmly beside Nikita, leaving no doubt about where he stands.
+- 'But she is your girlfriend.' Nikita stresses one familiar detail for Denis: "devushka" means "girlfriend", and it carries the main weight of what Nikita is saying.
+- 'You told me yourself yesterday that Sveta was your girlfriend.' Denis uses one vivid expression in earnest: "devushka" means "girlfriend", and it carries the main weight of what Denis is saying.
+- 'No, wait, it was you who said she was your girlfriend.' Nikita follows up sharply with a nod, without trying to dress up how he really feels.
+- 'No, I was not talking about her, I meant Katya.' Denis frames one telling detail with Nikita: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
+- 'No, I was the one who said Katya was my girlfriend.' Nikita counters frankly across the room, saying out loud what both of them already know.
+- 'Katya, tell him that you and I lived together.' Denis weighs in at once during the talk, watching Nikita's face to see how the news lands.
+- 'Katya, were you really with him?' Nikita frames one loaded word toward Denis: "pravda" means "honestly", and it carries the main weight of what Nikita is saying.
+- 'Do you not see, she does not want to talk to you.' Denis speaks dryly before Nikita, refusing to let the moment slip past.
+- 'Let my girlfriend decide for herself what to do.' Nikita cuts in firmly on the spot, saying out loud what both of them already know.
+- 'Quiet, stop it both of you!' Katya anchors this vivid expression toward Nikita: "perestante" means "stop it" (from "perestat"), giving the line its exact edge.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is your top management?' The guest prompts firmly in their exchange, weaving "gde" ("where") together with "glavnoye" ("important") just the way native speakers do.
-- 'We are expecting her in a couple of hours.' Barinov projects an emphatic line as they talk, linking "zhdyom" ("we wait"), "paru" ("couple"), and "chasov" ("o'clock") in one brisk exchange.
-- 'This is a very delicious pizza.' The guest chooses an easygoing course in the conversation, leaning on "ochen" ("very much") before closing the thought with "vkusnaya" ("tasty").
-- 'Just the way I love it.' The guest conveys a candid line on the spot, putting "pryamo" ("right, just") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'It is clear that professionals made it.' The guest presents a clear mood at this moment, putting "vidno" ("one can see") alongside "delali" ("did, were doing") in a tight, everyday turn of phrase.
-- 'Well, we tried very hard.' Barinov shows a calm stance in their talk, leaning on "ochen" ("very much") before closing the thought with "staralis" ("tried").
-- 'At home they cook badly.' The guest takes a wry note as the scene unfolds, weaving "doma" ("at home") together with "tam" ("there") just the way native speakers do.
-- 'Tell the chef to write down the recipe.' The guest brings a wry mood during the exchange, putting "skazhi" ("say") alongside "shefu" ("chef") in a tight, everyday turn of phrase.
-- 'Vitya, everything is very delicious.' Elena adopts an emphatic line without hesitation, combining "ochen" ("very much") and "vkusno" ("it's tasty") so the key meaning lands right away.
-- 'Thank you for inviting me.' Elena brings a wry angle during the exchange, joining "spasibo" ("thank you") to "priglasil" ("invited") so every word pulls its weight.
-- 'Here you will taste French cuisine.' Barinov sustains a clear attitude in their talk, anchoring the Russian line on "zdes" ("here") and "poprobuyesh" ("will try") without extra filler.
-- 'No, thank you, I will go.' Elena offers a warm attitude with the guest, combining "spasibo" ("thank you") and "poydu" ("go") so the key meaning lands right away.
-- 'No, no, nothing is wrong.' Barinov offers a serious attitude on the spot, linking "strashnogo" ("terrible, serious") directly with "net" ("no"), since Russian drops "is" and "are" in the present.
+- 'And where is your top management?' The guest presses plainly why things suddenly took this turn between them.
+- 'We are expecting her in a couple of hours.' Barinov stresses this vivid term on cue: "chasov" means "o'clock" (from "chas"), giving the line its exact edge.
+- 'This is a very delicious pizza.' The guest states this warning calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Just the way I love it.' The guest fires back wryly in their talk, making his position completely clear.
+- 'It is clear that professionals made it.' The guest centers one sharp touch in earnest: "professionaly" means "professionals" (from "professional"), giving the line its exact edge.
+- 'Well, we tried very hard.' Barinov drops the reaction beside the guest: the "-sya" ending on "staralis" ("tried") turns the action inward or makes it happen between people naturally.
+- 'At home they cook badly.' The guest speaks right away to be clear, to clear the air between them once and for all.
+- 'Tell the chef to write down the recipe.' The guest chooses this vivid element in earnest: "retsept" means "recipe", and it carries the main weight of what the guest is saying.
+- 'Vitya, everything is very delicious.' Elena shapes this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Thank you for inviting me.' Elena continues at once during the talk, steering the talk right where she wants it.
+- 'Here you will taste French cuisine.' Barinov points to one clear choice with Elena: "frantsuzskuyu" means "French" (from "frantsuzskiy"), giving the line its exact edge.
+- 'No, thank you, I will go.' Elena shapes that reply around the guest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'No, no, nothing is wrong.' Barinov weighs in steadily with a smile, to clear the air between them once and for all.

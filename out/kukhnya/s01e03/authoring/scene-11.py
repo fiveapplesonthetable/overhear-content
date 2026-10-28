@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, "'Vika, we need to talk seriously.' Vadim initiates an important conversation."),
     (1, None, "'I already told you everything.' Vika dismisses his attempt to talk."),
-    (2, None, "'Come on, don' Vadim asks her to let go of her anger."),
+    (2, None, "'Come on, don't be angry with me.' Vadim asks her to let go of her anger."),
     (3, None, "'You know my real feelings.' Vadim reminds her of his true emotions."),
     (4, None, "'Leave me alone right now!' Vika demands to be left in peace."),
     (5, None, "'Vadik, darling, there you are!' Elvira joyfully finds her husband."),

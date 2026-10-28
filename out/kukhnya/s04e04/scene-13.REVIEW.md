@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot do it like this. All of this is weighing on me.' Vika chooses an unhurried manner beside Max, leaning on "mogu" ("can") before closing the thought with "davit" ("to press").
-- 'What is weighing on you?' Max challenges naturally without hesitation, joining "davit" ("to press") to "chto" ("what") so every word pulls its weight.
-- 'Did your voice finally come back? Wonderful.' Max challenges sharply in this moment, using "prorvalo" (from "prorvat", "to voice") alongside "prekrasno" ("perfectly") to shape the meaning.
-- 'That you stay silent and write these foolish notes.' Vika sets a warm tone straight away, putting "molchish" ("are silent") alongside "pishesh" ("are writing") in a tight, everyday turn of phrase.
-- 'I do not want our child to be conceived in this way.' Vika holds a clear tempo at once, weaving "khochu" ("want") together with "rebyonok" ("a child") just the way native speakers do.
-- 'Maybe you do not want a child at all?' Vika questions steadily to Max here, combining "mozhet" ("can") and "byt" ("be") so the key meaning lands right away.
-- 'Vika, come on, stop it.' Max strikes a serious tack right away, weaving "prekrati" ("stop it") together with "vik" ("Vika") just the way native speakers do.
-- 'What kind of nonsense are you saying, huh?' Max queries lightly in this moment, linking "gluposti" ("nonsense"), "govorish" ("you say"), and "chto" ("what") in one brisk exchange.
-- 'You are the one who always talks nonsense.' Vika picks a thoughtful direction in the conversation, anchoring the Russian line on "gluposti" ("nonsense") and "vsegda" ("always") without extra filler.
-- 'Vika, come on, wait.' Max brings a frank footing as the scene unfolds, leaning on "podozhdi" ("wait") before closing the thought with "vik" ("Vika").
-- 'Vika, stop.' Max conveys a firm mood in their talk, anchoring the Russian line on "stoy" ("stop, wait") and "vik" ("Vika") without extra filler.
-- 'Vika, wait!' Max projects a calm stance beside Vika, putting "stoy" ("stop, wait") alongside "vika" ("Vika") in a tight, everyday turn of phrase.
+- 'I cannot do it like this. All of this is weighing on me.' Vika points to this telling term right here: "davit" means "to press", and it carries the main weight of what Vika is saying.
+- 'What is weighing on you?' Max makes that remark right away: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Did your voice finally come back? Wonderful.' Max inquires openly whether Vika really thought this through.
+- 'That you stay silent and write these foolish notes.' Vika colors one clear choice in reply: "duratskiye" means "foolish, stupid" (from "duratskiy"), giving the line its exact edge.
+- 'I do not want our child to be conceived in this way.' Vika proceeds earnestly without holding back, saying out loud what both of them already know.
+- 'Maybe you do not want a child at all?' Vika checks bluntly what Max is actually getting at here.
+- 'Vika, come on, stop it.' Max sharpens this key detail on cue: "prekrati" means "stop it" (from "prekratit"), giving the line its exact edge.
+- 'What kind of nonsense are you saying, huh?' Max gives that answer right away: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'You are the one who always talks nonsense.' Vika holds firm evenly with a shrug, saying out loud what both of them already know.
+- 'Vika, come on, wait.' Max centers this direct expression on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Vika, stop.' Max delivers the thought with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Vika, wait!' Max jumps in pointedly to settle things, letting the remark speak for itself.

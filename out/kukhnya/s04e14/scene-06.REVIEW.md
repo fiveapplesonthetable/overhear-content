@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to urgently decide what to give the chef.' Fedya sets a candid footing right away, weaving "nuzhno" ("necessary") together with "srochno" ("urgent, urgently") just the way native speakers do.
-- 'There is almost no time left until evening.' Louis sets a measured posture in the scene, leaning on "vechera" ("evening") before closing the thought with "vremeni" ("time").
-- 'There are only two options here: a limousine or a yacht!' Senya presents a firm stance without hesitation, leaning on "tut" ("here") before closing the thought with "varianta" ("options").
-- 'Let's chip in five hundred rubles from each person.' Senya takes a playful tempo at this moment, using "davayte" (from "davat", "let's") alongside "skinemsya" ("to chip") to shape the meaning.
-- 'No, we need a special gift for the chef.' Fedya chooses a candid mood at once, pairing "shefa" ("chef") with "nuzhen" ("is needed") to get the point across in plain spoken Russian.
-- 'All right, I have an excellent option.' Senya displays a wry direction at this moment, pairing "yest" ("there is") with "otlichnyy" ("excellent, great") to get the point across in plain spoken Russian.
-- 'Timur recently gave me this little bottle.' Senya picks a thoughtful posture at once, leaning on "puzyryok" ("vial") before closing the thought with "nedavno" ("returned").
-- 'Two drops into tea, and it is done!' Senya keeps a warm bearing in the room, pairing "kapli" ("drop") with "chay" ("tea") to get the point across in plain spoken Russian.
-- 'That is a very strong remedy for love!' Fedya maintains a calm tempo in this beat, linking "ochen" ("very much"), "silnoye" ("strong"), and "sredstvo" ("remedy") in one brisk exchange.
-- 'Why are you discussing strange drops here?' Louis tests frankly without hesitation, putting "zdes" ("here") alongside "strannyye" ("strange") in a tight, everyday turn of phrase.
-- 'No, this is medicine for my sick grandmother!' Senya takes a measured angle in the conversation, building the phrase around "lekarstvo" ("medicine") and "bolnoy" ("crazy") for a crisp, natural delivery.
-- 'I heard everything, get to work quickly!' Louis shows a candid rhythm straight away, weaving "slyshal" ("heard") together with "bystro" ("quickly") just the way native speakers do.
+- 'We need to urgently decide what to give the chef.' Fedya answers sharply hearing Louis, refusing to let the moment slip past.
+- 'There is almost no time left until evening.' Louis favors one direct expression at once: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
+- 'There are only two options here: a limousine or a yacht!' Senya sends this statement for Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Let's chip in five hundred rubles from each person.' Senya speaks bluntly without holding back, bringing things back to earth after the buildup.
+- 'No, we need a special gift for the chef.' Fedya emphasizes one colorful choice toward Louis: "osobennyy" means "special, particular", and it carries the main weight of what Fedya is saying.
+- 'All right, I have an excellent option.' Senya lays out this statement to Louis: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Timur recently gave me this little bottle.' Senya holds firm briskly as they talk, without trying to dress up how he really feels.
+- 'Two drops into tea, and it is done!' Senya favors one sharp element for Louis: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
+- 'That is a very strong remedy for love!' Fedya puts this statement for Louis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why are you discussing strange drops here?' Louis checks firmly while looking straight at Senya here.
+- 'No, this is medicine for my sick grandmother!' Senya picks one clear expression toward Fedya: "lekarstvo" means "medicine", and it carries the main weight of what Senya is saying.
+- 'I heard everything, get to work quickly!' Louis steps in openly before Senya, so Senya knows he is not just making small talk.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They finished cooking from their own internal heat.' Kostya adopts a calm mood at once, combining "doshli" ("reached") and "schet" ("account") so the key meaning lands right away.
-- 'And some kind of stew.' Nastya brings an unhurried position in the scene, weaving "ragu" ("stew") together with "kakoy-to" ("some") just the way native speakers do.
-- 'That is the cook's doing.' Kostya establishes a wry view toward Max, leaning on "povara" ("cook") before closing the thought with "eto" ("this").
-- 'Nastya gave it to me.' Max maintains an honest mood without hesitation, building the phrase around "podaril" ("donated, gifted") and "nastya" ("Nastya") for a crisp, natural delivery.
-- 'Why are the two of you hanging around out here?' Kostya challenges directly without a pause, combining "zdes" ("here") and "okolachivayetes" ("to hang around") so the key meaning lands right away.
-- 'Go learn how to cook properly.' Nastya keeps a grounded line in front of Max, leaning on "idi" ("go") before closing the thought with "uchis" ("learn").
-- 'A very competent person told me.' Kostya adopts an easygoing direction during the exchange, leaning on "kompetentnyy" ("competent") before closing the thought with "chelovek" ("a man, a person").
-- 'That your vegetables are supposed to be al dente.' Nastya favors a grounded footing straight away, putting "ovoshchi" ("vegetables") alongside "dente" ("dente") in a tight, everyday turn of phrase.
-- 'Just like...' Kostya favors an unhurried manner across the room, leaning on "kak" ("how") as a compact, one-word response that needs no extra words.
-- 'I am heading back in.' Max projects a frank footing for Nastya, combining "poshel" ("go, off you go") and "ya" ("I") so the key meaning lands right away.
-- 'Kostik, lend me your jacket, please.' Nastya presents a direct course at this moment, leaning on "otday" ("give back") before closing the thought with "kurtku" ("jacket").
-- 'I need to step outside for a minute.' Nastya chooses a steady manner across the room, pairing "ulitsu" ("street") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
-- 'And what do I get in return for that?' Kostya checks dryly in the scene, linking "budet" ("will be"), "chto" ("what"), and "mne" ("to me") in one brisk exchange.
+- 'They finished cooking from their own internal heat.' Kostya reacts steadily across the room, steering the talk right where he wants it.
+- 'And some kind of stew.' Nastya continues evenly in their talk, watching Max's face to see how the news lands.
+- 'That is the cook's doing.' Kostya reaches for one practical word on cue: "povara" means "cook" (from "povar"), giving the line its exact edge.
+- 'Nastya gave it to me.' Max shares this update to Nastya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Why are the two of you hanging around out here?' Kostya probes earnestly what Max is actually getting at here.
+- 'Go learn how to cook properly.' Nastya stresses this key expression for Max: "gotovit" means "to cook", and it carries the main weight of what Nastya is saying.
+- 'A very competent person told me.' Kostya phrases the reply beside Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'That your vegetables are supposed to be al dente.' Nastya speaks up frankly watching Max, without trying to dress up how she really feels.
+- 'Just like...' Kostya sends the remark without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am heading back in.' Max drops that answer plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Kostik, lend me your jacket, please.' Nastya follows up lightly to be clear, without trying to dress up how she really feels.
+- 'I need to step outside for a minute.' Nastya leans on one practical expression on cue: "ulitsu" means "street" (from "ulitsa"), giving the line its exact edge.
+- 'And what do I get in return for that?' Kostya frames the thought without fuss: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.

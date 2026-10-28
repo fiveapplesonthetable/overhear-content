@@ -33,8 +33,8 @@ STORY = [
 WALK = [
     (0, None, "'Hello, Vika! I sat down at the corner table.' Meanwhile, Vika's sister Tanya rushes into the restaurant and sits down at a corner table."),
     (1, None, "'Hello, Tanya! Why did you come so urgently?' Surprised to see her sister again, Vika asks why she came back in such a hurry."),
-    (2, None, "'Why didn' Hurt, Tanya asks why Vika kept such a huge family secret from her."),
-    (3, None, "'Tanya, I don' Baffled, Vika says she has no idea what Tanya is talking about."),
+    (2, None, "'Why didn't you tell me anything at all?' Hurt, Tanya asks why Vika kept such a huge family secret from her."),
+    (3, None, "'Tanya, I don't understand your strange questions.' Baffled, Vika says she has no idea what Tanya is talking about."),
     (4, None, "'You should have immediately called your own sister!' Tanya scolds her for not calling her own sister first."),
     (5, None, "'Explain to me calmly, what happened at all?' Vika asks her to calm down and explain what supposedly happened."),
     (6, None, "'You are pregnant, and I find out about it last!' Tanya blurts out the rumor: that Vika is pregnant and told her sister last."),

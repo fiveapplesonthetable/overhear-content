@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The last time I fought was in sixth grade.' Nikita strikes a calm tone in the scene, leaning on "posledniy" ("last") before closing the thought with "raz" ("time, once").
-- 'Listen, I will talk to him myself.' Denis shares a direct line as the scene unfolds, putting "slushay" ("listen") alongside "pogovoryu" ("I'll talk") in a tight, everyday turn of phrase.
-- 'Leave Katya alone and go away!' Denis adopts a thoughtful line in front of Katya, putting "ostav" ("keep, leave") alongside "pokoye" ("peace") in a tight, everyday turn of phrase.
-- 'Are you those two clowns from the restaurant?' Nikita wonders warmly in their exchange, using "klouna" (from "kloun", "clown") alongside "restorana" ("restaurant") to shape the meaning.
-- 'What did he just say about Katya?' Nikita queries dryly from the start, leaning on "seychas" ("now") before closing the thought with "skazal" ("said").
-- 'He said that we do not stand a chance.' Denis strikes a candid style in the conversation, putting "skazal" ("said") alongside "svetit" ("shines") in a tight, everyday turn of phrase.
-- 'And he also called you big-eared!' Denis takes a playful tempo without hesitation, linking "yeshchyo" ("more, still"), "ushastym" ("big-eared"), and "obozval" ("called, insulted") in one brisk exchange.
-- 'Well let us try to settle this right now!' Nikita holds an easygoing line as the scene unfolds, building the phrase around "davay" ("let's") and "seychas" ("now") for a crisp, natural delivery.
-- 'Hey, leave him alone immediately!' Katya displays an honest style in their talk, building the phrase around "nemedlenno" ("immediately") and "otstante" ("to fall behind") for a crisp, natural delivery.
-- 'Well, have you lost your minds completely here?' Katya queries wryly as they speak, joining "sovsem" ("at all") to "tut" ("here") so every word pulls its weight.
-- 'You ganged up two against one person!' Katya conveys a candid rhythm right away, using "napali" (from "napast", "attacked, mugged") alongside "vdvoyom" ("the two of us together") to shape the meaning.
-- 'Let us go quickly from here, my dear.' Katya establishes a frank mood straight away, combining "poydyom" ("let's go") and "skoreye" ("quickly, right away") so the key meaning lands right away.
+- 'The last time I fought was in sixth grade.' Nikita replies briskly as they talk, without trying to dress up how he really feels.
+- 'Listen, I will talk to him myself.' Denis opens up boldly during the talk, leaving no doubt about where he stands.
+- 'Leave Katya alone and go away!' Denis features one colorful choice at once: "pokoye" means "peace" (from "pokoy"), giving the line its exact edge.
+- 'Are you those two clowns from the restaurant?' Nikita shapes the thought with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What did he just say about Katya?' Nikita probes calmly whether Denis really thought this through.
+- 'He said that we do not stand a chance.' Denis sharpens one clear detail in earnest: "skazal" means "said" (from "skazat"), giving the line its exact edge.
+- 'And he also called you big-eared!' Denis uses one concrete touch at once: "ushastym" means "big-eared" (from "ushastyy"), giving the line its exact edge.
+- 'Well let us try to settle this right now!' Nikita proceeds lightly without any doubt, testing Katya's reaction in the middle of the exchange.
+- 'Hey, leave him alone immediately!' Katya features this telling element toward Denis: "nemedlenno" means "immediately", and it carries the main weight of what Katya is saying.
+- 'Well, have you lost your minds completely here?' Katya sends this answer calmly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'You ganged up two against one person!' Katya fires back honestly across the room, so Denis knows she is not just making small talk.
+- 'Let us go quickly from here, my dear.' Katya reaches for one clear word with Nikita: "dorogoy" means "dear", and it carries the main weight of what Katya is saying.

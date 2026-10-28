@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Nastya moved in with us a week ago.' Max points out the recent change in their living situation, using a natural turn of phrase to indicate how much time has passed.
 - 'Yes, now we live here as three.' Kostya confirms the new reality of their cramped apartment, emphasizing the number of people sharing the space.
-- 'Our life barely changed from that.' Despite the extra roommate, the speaker notes that their daily routine has remained largely untouched.
+- 'Our life barely changed from that.' Despite having a third roommate in the apartment, Max notes that their daily routine has barely changed.
 - 'We still play together just the same.' He points out that they are continuing their usual couch activities without any interruption.
 - 'Kostya, hurry up, shoot at them!' Shouting an urgent command, Max urges his friend to act quickly in the video game.
 - 'I am choosing my new weapon.' Caught up in the game menu, he explains why he is momentarily distracted from the action.
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hold on, I am already running to help!' Rushing to the rescue, Kostya shouts a quick encouragement to keep his teammate in the fight.
 - 'Great work, this is our victory!' Celebrating their success, Max triumphantly declares that they have won the match.
 - 'We are a great team in this game.' Pleased with their performance, he compliments their shared skills and coordination.
-- 'The main thing is that Nastya does not disturb us.' Focusing on their priorities, the speaker highlights the importance of being left alone to play.
+- 'The main thing is that Nastya does not disturb us.' Eyes glued to his game controller, Max jokes that the main thing is that Nastya does not interrupt their match.
 - 'She is cooking a tasty dinner in the kitchen.' He casually mentions what their new roommate is doing, showing they are perfectly happy to let her do the chores.

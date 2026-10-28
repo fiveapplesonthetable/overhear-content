@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, will you explain to me what that was?' Vika quizzes pointedly as the beat lands, using "obyasnish" (from "obyasnit", "to explain") alongside "bylo" ("was") to shape the meaning.
-- 'I am afraid you will not like this, Vika.' Denis keeps a brisk position beside Vika, linking "boyus" ("am afraid"), "ponravitsya" ("will please"), and "vika" ("Vika") in one brisk exchange.
-- 'Enough keeping silent, tell me right now!' Vika strikes a serious bearing at this moment, building the phrase around "khvatit" ("enough") and "molchat" ("be quiet") for a crisp, natural delivery.
-- 'Katya thinks that we were together.' Denis projects a lively direction as the scene unfolds, building the phrase around "dumayet" ("thinks") and "byli" ("be") for a crisp, natural delivery.
-- 'What? What kind of foolish nonsense is that?' Vika quizzes warmly in front of Denis, leaning on "yeshchyo" ("more, still") before closing the thought with "glupyy" ("stupid").
-- 'What idiot spread this stupid rumor?' Vika questions dryly during the talk, combining "idiot" ("idiot") and "raspustil" ("to spread") so the key meaning lands right away.
-- 'I was just telling Kostya about my dreams.' Denis shows a frank style in their talk, building the phrase around "prosto" ("just") and "rasskazyval" ("told, recounted") for a crisp, natural delivery.
-- 'I dreamed that we were in the office.' Denis strikes an emphatic line in their talk, anchoring the Russian line on "snilos" ("to appear in a dream") and "kabinete" ("office") without extra filler.
-- 'And Katya happened to walk in and overheard.' Denis sustains a measured direction in front of Vika, linking "sluchayno" ("by any chance"), "zashla" ("dropped in"), and "uslyshala" ("to hear") in one brisk exchange.
-- 'Now she does not want to speak with me.' Denis chooses a thoughtful attitude in the conversation, putting "teper" ("now") alongside "khochet" ("wants") in a tight, everyday turn of phrase.
-- 'Vika, tell me, what should I do now?' Denis prompts decisively on the spot, pairing "skazhi" ("say") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'You stirred up this mess yourself.' Vika shares a lively style in the room, pairing "kashu" ("porridge") with "zavaril" ("brew, steep") to get the point across in plain spoken Russian.
+- 'Denis, will you explain to me what that was?' Vika probes deadpan whether Denis really thought this through.
+- 'I am afraid you will not like this, Vika.' Denis underscores this sharp term in earnest: "ponravitsya" means "will please", and it carries the main weight of what Denis is saying.
+- 'Enough keeping silent, tell me right now!' Vika replies boldly hearing Denis, grounding the moment in plain reality.
+- 'Katya thinks that we were together.' Denis jumps in sharply without any doubt, so Vika knows he is not just making small talk.
+- 'What? What kind of foolish nonsense is that?' Vika emphasizes this telling choice for Denis: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
+- 'What idiot spread this stupid rumor?' Vika brings the reaction without fuss: putting the question word "kakoy" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'I was just telling Kostya about my dreams.' Denis steps in quietly as things stand, making his position completely clear.
+- 'I dreamed that we were in the office.' Denis leans on this direct element at once: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
+- 'And Katya happened to walk in and overheard.' Denis stands firm promptly around Vika, watching Vika's face to see how the news lands.
+- 'Now she does not want to speak with me.' Denis responds calmly to settle things, refusing to let the moment slip past.
+- 'Vika, tell me, what should I do now?' Denis frames one loaded detail with Vika: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'You stirred up this mess yourself.' Vika frames one familiar choice for Denis: "kashu" means "porridge" (from "kasha"), giving the line its exact edge.

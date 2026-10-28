@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I invite you to dinner tonight at Claude Monet.' Vika picks a measured footing during the exchange, combining "priglashayu" ("invite") and "segodnya" ("today") so the key meaning lands right away.
-- 'Oh my goodness, how wonderful.' Nagiyev sets a calm stance for Vika, combining "bozhe" ("good lord, God") and "kak" ("how") so the key meaning lands right away.
-- 'Of course I accept.' Vika sustains a lively stance as they talk, anchoring the Russian line on "konechno" ("of course") and "soglasna" ("agree") without extra filler.
-- 'You are not much of an actress.' Nagiyev establishes a resolute posture in the scene, weaving "aktrisa" ("actress") together with "ochen" ("very much") just the way native speakers do.
-- 'It is a date. Kisses.' Vika maintains a thoughtful course for Nagiyev, combining "dogovorilis" ("agreed, deal") and "tseluyu" ("kisses") so the key meaning lands right away.
-- 'Vika, reserve this table right here for me tonight.' Nagiyev strikes a measured mood in the conversation, linking "zabroniruy" ("to reserve"), "vecher" ("evening"), and "stolik" ("table") in one brisk exchange.
-- 'That is Dmitry Vladimirovich's favorite table.' Vika holds a pointed mood as the scene unfolds, joining "lyubimyy" ("favourite") to "stolik" ("table") so every word pulls its weight.
-- 'He has already reserved it for tonight.' Nagiyev projects a steady position in this beat, anchoring the Russian line on "segodnya" ("today") and "uzhe" ("already, now") without extra filler.
-- 'He reserves it every single day and never shows up.' Vika adopts an honest mood in their talk, weaving "kazhdyy" ("every") together with "den" ("day") just the way native speakers do.
-- 'If he shows up, I will smooth it over with him.' Nagiyev keeps a direct approach as the scene unfolds, weaving "pridet" ("will come") together with "dogovoryu" ("to finish speaking") just the way native speakers do.
-- 'Or else I will just say that you never warned me.' Vika offers a candid style at once, joining "skazhu" ("I'll tell") to "preduprezhdal" ("warned") so every word pulls its weight.
-- 'This is for table five.' Nagiyev adopts a warm mood during the exchange, building the phrase around "pyatogo" ("fifth") and "stolika" ("table") for a crisp, natural delivery.
-- 'People are ordering so much meat today, as if Lent just ended.' Vika sustains an easygoing attitude with Nagiyev, joining "stolko" ("so many") to "segodnya" ("today") so every word pulls its weight.
+- 'I invite you to dinner tonight at Claude Monet.' Vika holds firm evenly during the talk, leaving no doubt about where she stands.
+- 'Oh my goodness, how wonderful.' Nagiyev spotlights this vivid element right here: "priyatno" means "pleasant", and it carries the main weight of what Nagiyev is saying.
+- 'Of course I accept.' Vika delivers the thought for Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You are not much of an actress.' Nagiyev cuts in wryly before Vika, letting the remark speak for itself.
+- 'It is a date. Kisses.' Vika colors one colorful expression in earnest: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.
+- 'Vika, reserve this table right here for me tonight.' Nagiyev replies steadily in their talk, refusing to let the moment slip past.
+- 'That is Dmitry Vladimirovich's favorite table.' Vika proceeds honestly during the talk, refusing to let the moment slip past.
+- 'He has already reserved it for tonight.' Nagiyev favors one telling expression at once: "zabroniroval" means "reserved, booked" (from "zabronirovat"), giving the line its exact edge.
+- 'He reserves it every single day and never shows up.' Vika reacts honestly hearing Nagiyev, steering the talk right where she wants it.
+- 'If he shows up, I will smooth it over with him.' Nagiyev counters plainly beside Vika, letting the remark speak for itself.
+- 'Or else I will just say that you never warned me.' Vika uses one familiar term for Nagiyev: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
+- 'This is for table five.' Nagiyev lays out this update calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'People are ordering so much meat today, as if Lent just ended.' Vika stands firm promptly to settle things, grounding the moment in plain reality.

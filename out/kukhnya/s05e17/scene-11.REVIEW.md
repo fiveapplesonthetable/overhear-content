@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'To the restroom I will let you out, of course.' Senya favors a grounded tack in front of Katya, linking "tualet" ("toilet"), "konechno" ("of course"), and "vypushchu" ("will let out") in one brisk exchange.
-- 'Only quickly to the restroom and right back.' Senya sets a frank footing for Nikita, linking "tolko" ("only"), "bystro" ("quickly"), and "tualet" ("toilet") in one brisk exchange.
-- 'Look, the keys are with me now.' Nikita presents a playful note in the room, pairing "smotri" ("look") with "klyuchi" ("the keys") to get the point across in plain spoken Russian.
-- 'What should we do with the car?' Nikita inquires lightly during the talk, leaning on "delat" ("do") before closing the thought with "mashinoy" ("the car").
-- 'And what do you usually do with a car?' Katya asks warmly as the beat lands, combining "obychno" ("usually") and "delayesh" ("are you doing") so the key meaning lands right away.
-- 'Usually I steal it and hand it over to the client.' Nikita chooses an unhurried footing in their talk, building the phrase around "obychno" ("usually") and "ugonyayu" ("I steal") for a crisp, natural delivery.
-- 'Today you are my client, after all.' Nikita shows a thoughtful course in the scene, linking "segodnya" ("today") directly with "zakazchik" ("number"), since Russian drops "is" and "are" in the present.
-- 'Well, I do not even know.' Katya takes an earnest course at once, weaving "znayu" ("know") together with "nu" ("oh, come on") just the way native speakers do.
-- 'Sell it to somebody.' Katya conveys a thoughtful manner toward Nikita, linking "proday" ("to sell"), "yeyo" ("her"), and "komu-nibud" ("somebody, anyone") in one brisk exchange.
-- 'Alright, I will sort this out myself.' Nikita shows a brisk tempo straight away, leaning on "razberus" ("I will sort out") before closing the thought with "ladno" ("all right").
-- 'And you get the kiss ready in the meantime.' Nikita maintains a measured view right away, joining "poka" ("bye") to "gotov" ("prepare") so every word pulls its weight.
-- 'First we need to drive that car away.' Katya adopts a measured tone as they talk, pairing "snachala" ("first, at first") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
+- 'To the restroom I will let you out, of course.' Senya stresses one key touch at once: "vypushchu" means "will let out" (from "vypustit"), giving the line its exact edge.
+- 'Only quickly to the restroom and right back.' Senya answers pointedly facing Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'Look, the keys are with me now.' Nikita chooses one direct word in reply: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
+- 'What should we do with the car?' Nikita states this update right away: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'And what do you usually do with a car?' Katya quizzes quietly in front of Nikita without any preamble.
+- 'Usually I steal it and hand it over to the client.' Nikita anchors this clear expression for Senya: "zakazchiku" means "to the client" (from "zakazchik"), giving the line its exact edge.
+- 'Today you are my client, after all.' Nikita hands over this answer before Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, I do not even know.' Katya speaks quietly toward Senya, so Senya knows she is not just making small talk.
+- 'Sell it to somebody.' Katya leans on one colorful term in reply: "proday" means "to sell" (from "prodat"), giving the line its exact edge.
+- 'Alright, I will sort this out myself.' Nikita aims that answer briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
+- 'And you get the kiss ready in the meantime.' Nikita chimes in right away with a smile, shifting the whole mood of the room in a single beat.
+- 'First we need to drive that car away.' Katya favors one memorable detail with Senya: "mashinu" means "car" (from "mashina"), giving the line its exact edge.

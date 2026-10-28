@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what are you staring at like that?' Kostya quizzes honestly without hesitation, weaving "ustavilsya" ("stared") together with "nu" ("oh, come on") just the way native speakers do.
-- 'Go and tell Katya about everything.' Kostya brings a serious tack in the conversation, combining "idi" ("go") and "rasskazhi" ("tell") so the key meaning lands right away.
-- 'In France this sauce is considered one of the foundational ones.' Barinov shares a playful view on the spot, anchoring the Russian line on "sous" ("sauce") and "schitayetsya" ("to be considered") without extra filler.
-- 'It is one of the main sauces.' Barinov sets a grounded style beside Senya, anchoring the Russian line on "glavnykh" ("main") and "sousov" ("of sauces") without extra filler.
-- 'Preparation requires talent and patience.' Barinov shares a thoughtful mood at once, combining "prigotovleniya" ("for preparation") and "nuzhny" ("needed") so the key meaning lands right away.
-- 'After all, it cooks for a very long time.' Barinov establishes a lively bearing in the conversation, putting "gotovitsya" ("is preparing") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'All that remains is to strain it and reduce it a bit.' Barinov brings a resolute posture in their talk, linking "ostalos" ("was left"), "protsedit" ("to strain"), and "nemnogo" ("a bit") in one brisk exchange.
-- 'Here is a new 'Chef to the Room' Senya chooses a playful note at this moment, placing "tut" ("here") straight beside "novyy" ("new") with no word for "to be" needed.
-- 'One must not abandon the preparation of our sauce.' Barinov presents a measured footing across the room, putting "nelzya" ("not allowed") alongside "brosat" ("to abandon") in a tight, everyday turn of phrase.
-- 'Senya, take this order.' Barinov projects a clear angle during the exchange, joining "vozmi" ("take, pick up") to "zakaz" ("order") so every word pulls its weight.
-- 'That is too big a responsibility, I cannot handle it.' Senya chooses an emphatic stance across the room, leaning on "slishkom" ("too") before closing the thought with "bolshaya" ("large").
-- 'Better let Lyova go up there.' Senya shares a candid footing with Kostya, anchoring the Russian line on "luchshe" ("better") and "tuda" ("there") without extra filler.
+- 'Well, what are you staring at like that?' Kostya questions straight out where this conversation is heading next.
+- 'Go and tell Katya about everything.' Kostya anchors one concrete term on cue: "rasskazhi" means "tell" (from "rasskazat"), giving the line its exact edge.
+- 'In France this sauce is considered one of the foundational ones.' Barinov shares this line at once: the "-sya" ending on "schitayetsya" ("to be considered") turns the action inward or makes it happen between people naturally.
+- 'It is one of the main sauces.' Barinov answers sharply to be clear, keeping the focus on what actually matters here.
+- 'Preparation requires talent and patience.' Barinov spotlights one familiar piece toward Kostya: "prigotovleniya" means "for preparation" (from "prigotovleniye"), giving the line its exact edge.
+- 'After all, it cooks for a very long time.' Barinov aims this warning right away: the "-sya" ending on "gotovitsya" ("is preparing") turns the action inward or makes it happen between people naturally.
+- 'All that remains is to strain it and reduce it a bit.' Barinov continues frankly without a pause, saying out loud what both of them already know.
+- 'Here is a new 'Chef to the Room' Senya chooses this clear expression for Kostya: "novyy" means "new", and it carries the main weight of what Senya is saying.
+- 'One must not abandon the preparation of our sauce.' Barinov shares the comeback without fuss: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'Senya, take this order.' Barinov jumps in honestly before Senya, without trying to dress up how he really feels.
+- 'That is too big a responsibility, I cannot handle it.' Senya reaches for one loaded element at once: "otvetstvennost" means "responsibility", and it carries the main weight of what Senya is saying.
+- 'Better let Lyova go up there.' Senya opens up openly with a nod, making his position completely clear.

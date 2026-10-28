@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not to be born a woman.' Barinov brings a direct position during the exchange, combining "roditsya" ("to be born") and "zhenshchinoy" ("a woman") so the key meaning lands right away.
-- 'And why do you have no moustache?' Barinov prompts firmly beside Vika, combining "pochemu" ("why") and "usov" ("moustache") so the key meaning lands right away.
-- 'I only hire cooks with moustaches.' Barinov keeps an earnest note in the scene, linking "beru" ("to take"), "tolko" ("only"), and "povarov" ("cooks") in one brisk exchange.
-- 'I will find you a cook with one phone call.' Nagiyev offers a serious mood in front of Vika, linking "zvonok" ("call, bell"), "naydu" ("find"), and "povara" ("cook") in one brisk exchange.
-- 'Where is my phone?' Nagiyev quizzes warmly on the spot, linking "telefon" ("phone"), "gde" ("where"), and "moy" ("my") in one brisk exchange.
-- 'Yes, good afternoon. Who am I speaking with?' Vika asks pointedly as they speak, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
-- 'How can I help you?' Vika asks bluntly to Barinov here, putting "mogu" ("can") alongside "pomoch" ("to help") in a tight, everyday turn of phrase.
-- 'Thank you, of course.' Vika chooses a frank angle as they talk, joining "spasibo" ("thank you") to "konechno" ("of course") so every word pulls its weight.
-- 'But I am not planning to change jobs.' Vika adopts a wry line during the exchange, weaving "sobirayus" ("am planning") together with "menyat" ("to change") just the way native speakers do.
-- 'I will think about it later.' Vika displays a natural stance on the spot, combining "podumayu" ("to think") and "pozzhe" ("later") so the key meaning lands right away.
-- 'All right. Excellent.' Vika chooses an easygoing direction with Barinov, joining "khorosho" ("good, fine") to "otlichno" ("perfect, great") so every word pulls its weight.
-- 'Goodbye.' Vika offers an earnest stance in their talk, anchoring the Russian line on "svidaniya" ("meeting") and "do" ("until") without extra filler.
+- 'Not to be born a woman.' Barinov continues earnestly toward Nagiyev, keeping the focus on what actually matters here.
+- 'And why do you have no moustache?' Barinov reaches for this direct piece at once: "usov" means "moustache", and it carries the main weight of what Barinov is saying.
+- 'I only hire cooks with moustaches.' Barinov counters dryly toward Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'I will find you a cook with one phone call.' Nagiyev weighs in firmly to be clear, letting the remark speak for itself.
+- 'Where is my phone?' Nagiyev emphasizes this vivid detail in earnest: "telefon" means "phone", and it carries the main weight of what Nagiyev is saying.
+- 'Yes, good afternoon. Who am I speaking with?' Vika brings that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'How can I help you?' Vika inquires eagerly how Barinov expects that to work in practice.
+- 'Thank you, of course.' Vika emphasizes one sharp term at once: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.
+- 'But I am not planning to change jobs.' Vika puts this warning in earnest: the "-sya" ending on "sobirayus" ("am planning") turns the action inward or makes it happen between people naturally.
+- 'I will think about it later.' Vika pushes back boldly without any doubt, so Nagiyev knows she is not just making small talk.
+- 'All right. Excellent.' Vika reaches for this sharp piece on cue: "khorosho" means "good, fine", and it carries the main weight of what Vika is saying.
+- 'Goodbye.' Vika delivers this warning to Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

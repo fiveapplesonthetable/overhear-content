@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what are you doing right now?' Katya questions quietly for Lyova's benefit, weaving "skazhi" ("say") together with "seychas" ("now") just the way native speakers do.
-- 'I read about this on the internet yesterday.' Max holds a clear course in this beat, building the phrase around "vchera" ("yesterday") and "internete" ("internet") for a crisp, natural delivery.
-- 'Can you draw shapes with both hands simultaneously?' Max inquires calmly to Katya here, leaning on "mozhesh" ("can") before closing the thought with "rukami" ("hands").
-- 'Well, for example, a circle and a triangle.' Max shows a playful tack in the conversation, pairing "naprimer" ("for example") with "krug" ("circle, ring") to get the point across in plain spoken Russian.
-- 'But you are definitely in no danger of that.' Max conveys a warm direction in this beat, leaning on "tochno" ("definitely") before closing the thought with "grozit" ("threatens").
-- 'Try it myself? Look here, I am a talent!' Katya probes openly to make the point, putting "poprobuy" ("to try, to taste") alongside "talant" ("talent") in a tight, everyday turn of phrase.
-- 'What happened, Max? Tell me quickly.' Lyova wonders candidly in front of Katya, pairing "sluchilos" ("happened") with "govori" ("say, talk") to get the point across in plain spoken Russian.
-- 'I just found out something important.' Max offers a grounded tempo as they talk, putting "tut" ("here") alongside "vazhnoye" ("important") in a tight, everyday turn of phrase.
-- 'Our Chef accidentally let it slip to me.' Max picks a pointed manner at this moment, combining "sluchayno" ("by any chance") and "proboltalsya" ("blabbed, let slip") so the key meaning lands right away.
-- 'Katya studied at the culinary academy, right?' Lyova prompts frankly to keep things clear, combining "uchilas" ("to study") and "kulinarnoy" ("culinary") so the key meaning lands right away.
-- 'In reality she was staying in a hospital.' Max shares a frank style in the scene, leaning on "samom" ("very") before closing the thought with "dele" ("case").
-- 'She has a serious psychiatric disorder.' Max presents a lively footing right away, combining "seryoznoye" ("serious") and "psikhicheskoye" ("psychiatric") so the key meaning lands right away.
+- 'Tell me, what are you doing right now?' Katya delivers the reply for Lyova: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'I read about this on the internet yesterday.' Max proceeds at once to be clear, letting the remark speak for itself.
+- 'Can you draw shapes with both hands simultaneously?' Max highlights one telling word on cue: "odnovremenno" means "simultaneously", and it carries the main weight of what Max is saying.
+- 'Well, for example, a circle and a triangle.' Max steps in boldly with a shrug, leaving no doubt about where he stands.
+- 'But you are definitely in no danger of that.' Max fires back at once with a smile, shifting the whole mood of the room in a single beat.
+- 'Try it myself? Look here, I am a talent!' Katya reaches for one key expression for Max: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
+- 'What happened, Max? Tell me quickly.' Lyova shapes that reply in earnest: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'I just found out something important.' Max weighs in dryly hearing Lyova, bringing things back to earth after the buildup.
+- 'Our Chef accidentally let it slip to me.' Max centers one telling piece on cue: "proboltalsya" means "blabbed, let slip" (from "proboltatsya"), giving the line its exact edge.
+- 'Katya studied at the culinary academy, right?' Lyova shapes this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'In reality she was staying in a hospital.' Max opens up pointedly as they talk, steering the talk right where he wants it.
+- 'She has a serious psychiatric disorder.' Max reaches for one vivid element with Lyova: "psikhicheskoye" means "psychiatric" (from "psikhicheskiy"), giving the line its exact edge.

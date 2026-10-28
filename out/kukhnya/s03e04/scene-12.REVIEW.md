@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why? Because you are pilots, right?' Nagiyev checks briskly to make the point, combining "pochemu" ("why") and "potomu" ("because") so the key meaning lands right away.
-- 'Why do I have to wait until Easter for my aspic, huh?' Nagiyev tests naturally as they speak, leaning on "zhdat" ("to wait") before closing the thought with "dolzhen" ("has to, must").
-- 'Why? What is this?' Nagiyev probes promptly without holding back, joining "pochemu" ("why") to "eto" ("this") so every word pulls its weight.
-- 'And this is that very aspic that I was going to bring you.' Max establishes an unhurried style in the scene, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
-- 'Did Katya prepare this?' Nagiyev tests promptly in front of Katya, putting "prigotovila" ("to prepare") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'Yes, Dmitry Vladimirovich.' Max shows a natural line on the spot, linking "da" ("yes"), "dmitriy" ("Dmitry"), and "vladimirovich" ("Vladimirovich") in one brisk exchange.
-- 'Prepare something else unusual for me!' Nagiyev projects a serious mood at once, building the phrase around "prigotov" ("prepare") and "yeshchyo" ("more, still") for a crisp, natural delivery.
-- 'Why?' Nagiyev questions candidly in this moment, letting the single Russian word "pochemu" ("why") carry the entire reaction on its own.
-- 'Because we are pilots!' Max adopts a warm tack for Katya, weaving "potomu" ("because") together with "piloty" ("pilots") just the way native speakers do.
-- 'Thank you, I am in your debt.' Max shares a steady manner in the scene, combining "spasibo" ("thank you") and "dolzhnik" ("debtor") so the key meaning lands right away.
-- 'You're welcome, Max.' Katya establishes a frank posture in front of Max, joining "pozhaluysta" ("please") to "maks" ("Max") so every word pulls its weight.
-- 'You simply saved me.' Max takes an easygoing tempo in this beat, joining "prosto" ("just") to "spasla" ("saved") so every word pulls its weight.
+- 'Why? Because you are pilots, right?' Nagiyev checks deadpan in front of Katya without any preamble.
+- 'Why do I have to wait until Easter for my aspic, huh?' Nagiyev points to one loaded word toward Max: "kholodets" means "aspic, meat jelly", and it carries the main weight of what Nagiyev is saying.
+- 'Why? What is this?' Nagiyev offers this warning frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And this is that very aspic that I was going to bring you.' Max cuts in quietly before Nagiyev, keeping the focus on what actually matters here.
+- 'Did Katya prepare this?' Nagiyev colors one concrete choice in earnest: "prigotovila" means "to prepare" (from "prigotovit"), giving the line its exact edge.
+- 'Yes, Dmitry Vladimirovich.' Max offers this warning frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Prepare something else unusual for me!' Nagiyev jumps in at once in this moment, saying out loud what both of them already know.
+- 'Why?' Nagiyev delivers the reply before Max: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Because we are pilots!' Max directs that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Thank you, I am in your debt.' Max opens up earnestly hearing Nagiyev, letting the remark speak for itself.
+- 'You're welcome, Max.' Katya shapes this answer at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'You simply saved me.' Max voices that line without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, come on, do not keep us in suspense.' Fedya brings a direct stance in their talk, pairing "tomite" ("to suspense") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'It happened in Riga.' Barinov conveys a brisk footing on the spot, joining "delo" ("matter") to "bylo" ("was") so every word pulls its weight.
-- 'German courted a waitress for a long time.' Barinov maintains a pointed style with Fedya, combining "dolgo" ("for a long time") and "ukhazhival" ("courted, paid court to") so the key meaning lands right away.
-- 'And in the end she agreed.' Barinov shows a clear view at this moment, putting "itoge" ("result, total") alongside "soglasilas" ("to agree") in a tight, everyday turn of phrase.
-- 'But suddenly a cook walked in there.' Barinov shares a steady manner in their talk, combining "vdrug" ("suddenly, what if") and "tuda" ("there") so the key meaning lands right away.
-- 'And we already saw what happened next.' Barinov adopts an unhurried bearing on the spot, putting "dalshe" ("next, go on") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'He is just a total psycho!' German adopts a warm position right away, combining the softening word "prosto" ("simply, just") with "nastoyashchiy" ("real, genuine") to give the line its natural spoken rhythm.
-- 'And what happened to him after that?' Fedya challenges bluntly to keep things clear, weaving "dalshe" ("next, go on") together with "bylo" ("was") just the way native speakers do.
-- 'He received a suspended sentence back then.' Barinov offers a measured view in their talk, combining "togda" ("back then") and "poluchil" ("received, learned") so the key meaning lands right away.
-- 'In Latvia he is on the blacklist.' Barinov sustains a firm tone as the scene unfolds, placing "latvii" ("blacklist") straight beside "chyornom" ("black") with no word for "to be" needed.
-- 'Is it that easy to make him lose his temper?' Fedya asks steadily to keep things clear, combining "legko" ("easy") and "vyvesti" ("to escort out") so the key meaning lands right away.
-- 'Yes, we are taking a very big risk.' German conveys a serious note across the room, joining "ochen" ("very much") to "silno" ("strongly, much") so every word pulls its weight.
+- 'Chef, come on, do not keep us in suspense.' Fedya anchors one key word for Barinov: "tomite" means "to suspense" (from "tomit"), giving the line its exact edge.
+- 'It happened in Riga.' Barinov makes that thought frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'German courted a waitress for a long time.' Barinov chimes in frankly in this moment, steering the talk right where he wants it.
+- 'And in the end she agreed.' Barinov points to this vivid expression on cue: "soglasilas" means "to agree" (from "soglasitsya"), giving the line its exact edge.
+- 'But suddenly a cook walked in there.' Barinov opens up pointedly with a nod, so Fedya knows he is not just making small talk.
+- 'And we already saw what happened next.' Barinov reacts frankly with a shrug, shifting the whole mood of the room in a single beat.
+- 'He is just a total psycho!' German spotlights one clear choice at once: "nastoyashchiy" means "real, genuine", and it carries the main weight of what German is saying.
+- 'And what happened to him after that?' Fedya aims the comment without fuss: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
+- 'He received a suspended sentence back then.' Barinov weighs in quietly to settle things, letting the remark speak for itself.
+- 'In Latvia he is on the blacklist.' Barinov grounds one loaded term with German: "chyornom" means "black" (from "chyornyy"), giving the line its exact edge.
+- 'Is it that easy to make him lose his temper?' Fedya delivers the comeback before Barinov: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
+- 'Yes, we are taking a very big risk.' German fires back decisively around Fedya, so Fedya knows he is not just making small talk.

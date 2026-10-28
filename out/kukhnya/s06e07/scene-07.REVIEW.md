@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you having a private party here?' Nikita quizzes plainly in this moment, linking "tut" ("here"), "zakrytaya" ("closed, classified"), and "vecherinka" ("party") in one brisk exchange.
-- 'Actually we wanted to sit quietly with the girls.' Katya sets a serious posture in the conversation, combining the conversational booster "voobshche" ("in general, overall") with "voobshche-to" ("actually") to give the line its natural spoken rhythm.
-- 'Alright, I will go then, I will not bother you.' Nikita presents a sharp tempo in the room, combining the easygoing tag "ladno" ("okay, fine") with "togda" ("back then") to give the line its natural spoken rhythm.
-- 'What a fine fellow, he just got up and left!' Nastya chooses a direct footing on the spot, pairing "molodets" ("well done, good boy") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'He always knows how to disappear so suddenly.' Nastya keeps a playful manner during the exchange, building the phrase around "vsegda" ("always") and "umeyet" ("knows how to") for a crisp, natural delivery.
-- 'Forgive me for reminding you of that again.' Nastya conveys a playful angle beside Nikita, linking "izvini" ("sorry, excuse me"), "snova" ("again"), and "napomnila" ("reminded") in one brisk exchange.
-- 'Work is over, and you are still here?' Nikita checks steadily at this point, building the phrase around "rabota" ("job") and "zakonchilas" ("ended") for a crisp, natural delivery.
-- 'Are you making extra revenue for our bar today?' Nikita asks sharply as the beat lands, using "delayete" (from "delat", "are doing") alongside "segodnya" ("today") to shape the meaning.
-- 'We wanted to sit in female company.' Katya shares a pointed posture at once, putting "khoteli" ("wanted") alongside "posidet" ("to babysit") in a tight, everyday turn of phrase.
-- 'Katya, come on, Nikita is our boss!' Nastya projects a calm stance beside Nikita, linking "boss" ("boss"), "katya" ("Katya"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Let him sit with us for a little while.' Nastya sustains a calm bearing in the scene, putting "nemnogo" ("a bit") alongside "posidit" ("to sit for a while") in a tight, everyday turn of phrase.
-- 'Yes, Anechka, what is up with the test results?' Katya inquires quietly as the beat lands, linking "tam" ("there"), "analizami" ("test, analysis"), and "da" ("yes") in one brisk exchange.
+- 'Are you having a private party here?' Nikita features one familiar element for Katya: "vecherinka" means "party", and it carries the main weight of what Nikita is saying.
+- 'Actually we wanted to sit quietly with the girls.' Katya aims that remark without fuss: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Alright, I will go then, I will not bother you.' Nikita follows up decisively facing Katya, to clear the air between them once and for all.
+- 'What a fine fellow, he just got up and left!' Nastya emphasizes this clear element on cue: "molodets" means "well done, good boy", and it carries the main weight of what Nastya is saying.
+- 'He always knows how to disappear so suddenly.' Nastya counters pointedly as things stand, leaving no doubt about where she stands.
+- 'Forgive me for reminding you of that again.' Nastya fires back plainly without a pause, without trying to dress up how she really feels.
+- 'Work is over, and you are still here?' Nikita underscores this key detail toward Katya: "zakonchilas" means "ended" (from "zakonchitsya"), giving the line its exact edge.
+- 'Are you making extra revenue for our bar today?' Nikita delivers this statement on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'We wanted to sit in female company.' Katya opens up earnestly without a pause, testing Nastya's reaction in the middle of the exchange.
+- 'Katya, come on, Nikita is our boss!' Nastya underscores one loaded element at once: "boss" means "boss", and it carries the main weight of what Nastya is saying.
+- 'Let him sit with us for a little while.' Nastya stands firm plainly toward Katya, letting the remark speak for itself.
+- 'Yes, Anechka, what is up with the test results?' Katya probes straight out whether Nikita really thought this through.

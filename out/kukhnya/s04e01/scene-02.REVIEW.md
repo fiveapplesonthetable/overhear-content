@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, my respects.' Timur favors a resolute approach beside Barinov, leaning on "pochteniye" ("respect") before closing the thought with "viktor" ("Viktor").
-- 'What? Excuse me.' Barinov presses directly on the spot, putting "izvinite" ("sorry, excuse me") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'You need to act more natural, understand?' Barinov asks sharply to make the point, pairing "nado" ("it is necessary") with "kak-to" ("somehow, a bit") to get the point across in plain spoken Russian.
-- 'They will not let that on television.' Timur strikes a firm posture at once, joining "kanal" ("to television") to "propustyat" ("to let through") so every word pulls its weight.
-- 'Good morning, Viktor Petrovich.' Elena picks an emphatic tempo toward Barinov, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
-- 'How are things with you?' Elena probes sharply in front of Timur, linking "kak" ("how") directly with "dela" ("things, affairs"), since Russian drops "is" and "are" in the present.
-- 'As you can see, not bad.' Barinov sustains a sharp rhythm in the scene, linking "kak" ("how"), "vidite" ("see"), and "neplokho" ("not bad") in one brisk exchange.
-- 'They are filming a show about me right here.' Barinov sustains a natural manner straight away, anchoring the Russian line on "tut" ("here") and "peredachu" ("broadcast") without extra filler.
-- 'Keep trying hard, Lena Pavlovna.' Barinov maintains an earnest approach at once, pairing "starayetes" ("are trying") with "vy" ("you") so the "-sya" ending carries the action.
-- 'You know, I am afraid that is not a threat for me.' Elena conveys a candid style in the room, building the phrase around "znayete" ("know") and "boyus" ("am afraid") for a crisp, natural delivery.
-- 'I will not distract you.' Elena maintains a sharp posture across the room, combining "budu" ("will be") and "otvlekat" ("to distract") so the key meaning lands right away.
-- 'Why is that?' Elena tests pointedly from the start, using "pochemu" ("why") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Viktor Petrovich, my respects.' Timur lays out the reaction before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What? Excuse me.' Barinov prompts briskly where this conversation is heading next.
+- 'You need to act more natural, understand?' Barinov grounds one vivid expression right here: "poyestestvenneye" means "natural" (from "poyestestvenniy"), giving the line its exact edge.
+- 'They will not let that on television.' Timur underscores this clear word with Elena: "propustyat" means "to let through" (from "propustit"), giving the line its exact edge.
+- 'Good morning, Viktor Petrovich.' Elena holds firm quietly in this moment, shifting the whole mood of the room in a single beat.
+- 'How are things with you?' Elena highlights one pointed choice on cue: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'As you can see, not bad.' Barinov makes this line to Elena: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'They are filming a show about me right here.' Barinov stands firm at once as they talk, before Timur can change the subject.
+- 'Keep trying hard, Lena Pavlovna.' Barinov features one familiar detail at once: "starayetes" means "are trying" (from "staratsya"), giving the line its exact edge.
+- 'You know, I am afraid that is not a threat for me.' Elena fires back at once on the spot, without trying to dress up how she really feels.
+- 'I will not distract you.' Elena chimes in openly across the room, refusing to let the moment slip past.
+- 'Why is that?' Elena lays out that point in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

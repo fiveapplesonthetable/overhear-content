@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Before you is our new hotel.' Denis sustains a playful tempo in the room, linking "novyy" ("new") directly with "otel" ("hotel"), since Russian drops "is" and "are" in the present.
-- 'Our restaurant is located right here.' Denis establishes a clear position in their talk, pairing "nakhoditsya" ("to be located") with "zdes" ("here") so the "-sya" ending carries the action.
-- 'We now work in this hotel.' Denis offers an honest attitude in their talk, combining "teper" ("now") and "rabotayem" ("we work, let's work") so the key meaning lands right away.
-- 'How does a hotel restaurant differ?' Denis questions plainly as the talk turns, using "otlichayetsya" (from "otlichatsya", "differs") alongside "restoran" ("restaurant") to shape the meaning.
-- 'In a hotel there are always breakfasts.' Denis offers a sharp rhythm in the room, building the phrase around "otele" ("in the hotel") and "vsegda" ("always") for a crisp, natural delivery.
-- 'The cooks have to get up early.' Denis projects an easygoing note for Barinov, combining "povaram" ("cooks") and "prikhoditsya" ("to have to") so the key meaning lands right away.
-- 'We get up early every morning.' Barinov takes a candid mood with Denis, joining "vstayom" ("we get up, let's get up") to "kazhdoye" ("every, each") so every word pulls its weight.
-- 'Restaurant guests are not just casual visitors.' Denis conveys an emphatic direction in the scene, building the phrase around "gosti" ("visitors, guests") and "restorana" ("restaurant") for a crisp, natural delivery.
-- 'They are also hotel residents.' Denis shows a pointed style at this moment, anchoring the Russian line on "yeshchyo" ("more, still") and "postoyaltsy" ("hotel guests") without extra filler.
-- 'We must feed all the guests.' Denis sustains an honest footing straight away, linking "dolzhny" ("must, should"), "kormit" ("to feed"), and "gostey" ("guests") in one brisk exchange.
-- 'Someone does not want to get out of bed.' Denis shows an honest mood on the spot, linking "khochet" ("wants"), "vstavat" ("to get up"), and "krovati" ("bed") in one brisk exchange.
-- 'They are too lazy to come down to the restaurant!' Barinov offers a thoughtful bearing in front of Denis, weaving "len" ("laziness, too lazy") together with "spustitsya" ("to come downstairs") just the way native speakers do.
+- 'Before you is our new hotel.' Denis frames one loaded word toward Barinov: "novyy" means "new", and it carries the main weight of what Denis is saying.
+- 'Our restaurant is located right here.' Denis makes that line beside Barinov: the "-sya" ending on "nakhoditsya" ("to be located") turns the action inward or makes it happen between people naturally.
+- 'We now work in this hotel.' Denis weighs in candidly hearing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'How does a hotel restaurant differ?' Denis underscores this sharp element at once: "otlichayetsya" means "differs" (from "otlichatsya"), giving the line its exact edge.
+- 'In a hotel there are always breakfasts.' Denis weighs in firmly with a sigh, refusing to let the moment slip past.
+- 'The cooks have to get up early.' Denis jumps in boldly with a shrug, so Barinov knows he is not just making small talk.
+- 'We get up early every morning.' Barinov grounds this sharp choice with Denis: "kazhdoye" means "every, each" (from "kazhdyy"), giving the line its exact edge.
+- 'Restaurant guests are not just casual visitors.' Denis brings the thought facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They are also hotel residents.' Denis steps in plainly with Barinov, without trying to dress up how he really feels.
+- 'We must feed all the guests.' Catch how Denis challenges Barinov with candor — the Russian word "dolzhny" ("must, should", built from "dolzhen") does the heavy lifting.
+- 'Someone does not want to get out of bed.' Denis steps in promptly with a smile, keeping the focus on what actually matters here.
+- 'They are too lazy to come down to the restaurant!' Barinov weighs in at once toward Denis, making his position completely clear.

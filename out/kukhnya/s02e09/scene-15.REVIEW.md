@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Write it yourself.' Barinov shares a direct footing at once, pairing "pishesh" ("are writing") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'Fedya, have I paid back all my debts to you?' Barinov checks earnestly in front of Fedya, weaving "dolgi" ("debt, duty") together with "vernul" ("give back") just the way native speakers do.
-- 'Then get the hell out of my kitchen.' Barinov keeps a lively view in the conversation, using "poshel" (from "poyti", "go, off you go") alongside "kukhni" ("kitchen") to shape the meaning.
-- 'Pick up the oranges and you are fired immediately.' Fedya brings a resolute tack at once, leaning on "soberi" ("to collect") before closing the thought with "apelsiny" ("oranges").
-- 'Oh, and one more thing.' Barinov keeps a thoughtful tempo in the room, leaning on "yeshche" ("still") before closing the thought with "da" ("yes").
-- 'Everyone else whom I have not yet told that they are fired.' Fedya takes a playful bearing at once, weaving "skazal" ("said") together with "uvoleny" ("to fire") just the way native speakers do.
-- 'And what are we supposed to do now?' Barinov asks wryly to make the point, anchoring the Russian line on "teper" ("now") and "delat" ("do") without extra filler.
-- 'Calm down, all of you.' Fedya presents a firm rhythm without hesitation, joining "uspokoytes" ("calm down") to "da" ("yes") so every word pulls its weight.
-- 'In two hours it will wear off.' Barinov adopts a natural course right away, pairing "chasa" ("hours") with "otpustit" ("to let go, to release") to get the point across in plain spoken Russian.
-- 'He will not remember a thing.' Fedya shows a frank bearing as the scene unfolds, pairing "voobshche" ("at all") with "vspomnit" ("will remember") to get the point across in plain spoken Russian.
-- 'What are you hiding behind your back?' Barinov queries boldly right away, leaning on "tam" ("there") before closing the thought with "pryachesh" ("hide").
-- 'The Chef has had enough already.' Fedya offers a warm angle without hesitation, weaving "shefu" ("chef") together with "khvatit" ("enough") just the way native speakers do.
-- 'You talked me into it, I will drink it myself.' Barinov sustains a serious approach during the exchange, weaving "ugovorili" ("persuade") together with "ya" ("I") just the way native speakers do.
+- 'Write it yourself.' Barinov opens up candidly around Fedya, so Fedya knows he is not just making small talk.
+- 'Fedya, have I paid back all my debts to you?' Barinov underscores this key choice toward Fedya: "dolgi" means "debt, duty" (from "dolg"), giving the line its exact edge.
+- 'Then get the hell out of my kitchen.' Barinov counters wryly beside Fedya, shifting the whole mood of the room in a single beat.
+- 'Pick up the oranges and you are fired immediately.' Fedya continues bluntly during the talk, bringing things back to earth after the buildup.
+- 'Oh, and one more thing.' Barinov underscores one key expression right here: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
+- 'Everyone else whom I have not yet told that they are fired.' Fedya speaks boldly with a nod, shifting the whole mood of the room in a single beat.
+- 'And what are we supposed to do now?' Barinov inquires candidly before Fedya can change the subject.
+- 'Calm down, all of you.' Fedya emphasizes one pointed element on cue: "uspokoytes" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'In two hours it will wear off.' Barinov reacts decisively before Fedya, watching Fedya's face to see how the news lands.
+- 'He will not remember a thing.' Fedya steps in sharply across the room, bringing things back to earth after the buildup.
+- 'What are you hiding behind your back?' Barinov emphasizes one colorful choice on cue: "pryachesh" means "hide" (from "pryatat"), giving the line its exact edge.
+- 'The Chef has had enough already.' Fedya delivers the remark right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You talked me into it, I will drink it myself.' Barinov stands firm plainly without any doubt, leaving no doubt about where he stands.

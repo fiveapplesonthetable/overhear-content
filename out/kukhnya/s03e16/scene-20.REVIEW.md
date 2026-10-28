@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear Dima, how sweet that the date of my birthday is your password!' Kristina shares an honest posture as they talk, joining "dorogoy" ("dear") to "kak" ("how") so every word pulls its weight.
-- 'This money should be enough for me to start everything over.' Kristina presents a thoughtful footing as the scene unfolds, putting "deneg" ("money") alongside "dolzhno" ("ought, must") in a tight, everyday turn of phrase.
-- 'To start a new life without you and your infidelities!' Kristina strikes a resolute manner with Barinov, combining "nachat" ("to begin, to start") and "novuyu" ("new") so the key meaning lands right away.
-- 'Good luck in all your endeavors, do not look for me, I am already out of Russia.' Kristina brings a warm bearing as they talk, leaning on "udachi" ("luck") before closing the thought with "nachinaniyakh" ("in endeavors").
-- 'A human being is very naive by nature.' Nagiyev conveys a steady angle without hesitation, linking "chelovek" ("a man, a person") directly with "prirode" ("nature, the outdoors"), since Russian drops "is" and "are" in the present.
-- 'We often blindly trust the people close to us.' Nagiyev presents a frank position in their talk, building the phrase around "chasto" ("often") and "slepo" ("blindly") for a crisp, natural delivery.
-- 'We believe in what cannot be, and we believe in ourselves.' Nagiyev establishes an unhurried posture in their talk, putting "verim" ("believe") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
-- 'But without faith we risk being left in complete solitude.' Nagiyev strikes a candid stance across the room, combining "very" ("faith, belief") and "riskuyem" ("risk") so the key meaning lands right away.
-- 'Chef, and why did all the guests get sick yesterday?' Nagiyev asks earnestly from the start, anchoring the Russian line on "pochemu" ("why") and "vchera" ("yesterday") without extra filler.
-- 'The fish was expired, we should have thrown it out right away.' Barinov shows a clear attitude in this beat, leaning on "ryba" ("fish") before closing the thought with "byla" ("was").
-- 'So my sauce is good, can we put it on the menu?' Nagiyev queries plainly during the talk, building the phrase around "znachit" ("then, so") and "sous" ("sauce") for a crisp, natural delivery.
-- 'Not a chance, but you still have everything ahead of you!' Barinov shares a frank tempo on the spot, combining "nikak" ("in no way") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Dear Dima, how sweet that the date of my birthday is your password!' Kristina sends the remark around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'This money should be enough for me to start everything over.' Kristina follows up firmly in their talk, letting the remark speak for itself.
+- 'To start a new life without you and your infidelities!' Kristina stresses one telling touch at once: "novuyu" means "new" (from "novyy"), giving the line its exact edge.
+- 'Good luck in all your endeavors, do not look for me, I am already out of Russia.' Kristina continues pointedly in their talk, saying out loud what both of them already know.
+- 'A human being is very naive by nature.' Nagiyev fires back candidly with a nod, refusing to let the moment slip past.
+- 'We often blindly trust the people close to us.' Nagiyev leans on one telling word on cue: "doveryayem" means "trust" (from "doveryat"), giving the line its exact edge.
+- 'We believe in what cannot be, and we believe in ourselves.' Nagiyev cuts in sharply on the spot, leaving no doubt about where he stands.
+- 'But without faith we risk being left in complete solitude.' Nagiyev replies honestly as things stand, leaving no doubt about where he stands.
+- 'Chef, and why did all the guests get sick yesterday?' Nagiyev leans on one vivid touch with Barinov: "gostyam" means "guests" (from "gost"), giving the line its exact edge.
+- 'The fish was expired, we should have thrown it out right away.' Barinov gives the comeback to Nagiyev: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'So my sauce is good, can we put it on the menu?' Nagiyev inquires frankly while looking straight at Barinov here.
+- 'Not a chance, but you still have everything ahead of you!' Barinov colors one familiar touch at once: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.

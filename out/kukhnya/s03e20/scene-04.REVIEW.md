@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is even strange that this man speaks at all.' The doctor shares a pointed tone in this beat, pairing "stranno" ("strange") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
-- 'He has such a large hematoma on the scan!' The doctor strikes a calm angle toward Max, linking "snimke" ("picture, photograph"), "bolshaya" ("large"), and "gematoma" ("hematoma") in one brisk exchange.
-- 'The guy is lucky that he got off with only amnesia.' The doctor shows a resolute tone for Barinov, building the phrase around "povezlo" ("it was lucky") and "parnyu" ("boyfriend, guy") for a crisp, natural delivery.
-- 'At our wedding we will have a best man who does not know us!' Max favors a firm bearing in this beat, leaning on "u nas" ("by us, at our place") and "svadbe" ("wedding") the way natural Russian does.
-- 'Doctor, whose scan did you just give to Vika?' Max prompts bluntly in the room, linking "doktor" ("Doctor"), "snimok" ("snapshot, photo"), and "seychas" ("now") in one brisk exchange.
-- 'Oh, we have had a motorcyclist lying in there for a month.' The doctor brings an emphatic position for Max, linking "tam" ("there"), "mototsiklist" ("motorcyclist"), and "uzhe" ("already, now") in one brisk exchange.
-- 'I would like to review all the documents on food purchases.' Max offers an emphatic tone during the exchange, using "khotel" (from "khotet", "wanted") alongside "prosmotret" ("to look through") to shape the meaning.
-- 'Those are simple white slips of paper with numbers.' Max projects a thoughtful manner right away, combining "prostyye" ("simple, ordinary") and "belyye" ("white") so the key meaning lands right away.
-- 'Just do not talk to me as if I were a child!' Barinov adopts a natural tack at this moment, building the phrase around "tolko" ("only") and "nado" ("it is necessary") for a crisp, natural delivery.
-- 'From this minute on, you smoke only if you have these coupons.' Max displays an earnest bearing beside the doctor, anchoring the Russian line on "minuty" ("minutes") and "kurite" ("to smoke") without extra filler.
-- 'One smoke break is one coupon, that is your allowance.' Max sets a frank rhythm on the spot, joining "perekur" ("smoke break") to "talon" ("coupon") so every word pulls its weight.
-- 'Fedya, I have already used my two coupons today!' Barinov projects an unhurried style at once, linking "uzhe" ("already, now"), "talona" ("coupons"), and "segodnya" ("today") in one brisk exchange.
+- 'It is even strange that this man speaks at all.' The doctor spotlights this clear piece on cue: "voobshche" means "at all", and it carries the main weight of what the doctor is saying.
+- 'He has such a large hematoma on the scan!' The doctor replies warmly with Max, shifting the whole mood of the room in a single beat.
+- 'The guy is lucky that he got off with only amnesia.' The doctor steps in at once with a nod, watching Barinov's face to see how the news lands.
+- 'At our wedding we will have a best man who does not know us!' Max stresses this key word in earnest: "svidetel" means "witness", and it carries the main weight of what Max is saying.
+- 'Doctor, whose scan did you just give to Vika?' Max puts the reaction beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Oh, we have had a motorcyclist lying in there for a month.' The doctor continues right away around Max, making his position completely clear.
+- 'I would like to review all the documents on food purchases.' Max grounds this sharp word right here: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
+- 'Those are simple white slips of paper with numbers.' Max directs this answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Just do not talk to me as if I were a child!' Barinov reacts firmly as they talk, saying out loud what both of them already know.
+- 'From this minute on, you smoke only if you have these coupons.' Max frames one concrete touch in earnest: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
+- 'One smoke break is one coupon, that is your allowance.' Max voices that thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Fedya, I have already used my two coupons today!' Barinov jumps in lightly toward Max, making his position completely clear.

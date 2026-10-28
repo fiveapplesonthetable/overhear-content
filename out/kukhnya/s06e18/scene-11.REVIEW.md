@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A captain must always be fair.' Fedya chooses a wry rhythm toward Eleonora, leaning on "kapitan" ("captain") before closing the thought with "dolzhen" ("has to, must").
-- 'Who decided this in here just now?' Eleonora wonders directly right away, weaving "tut" ("here") together with "seychas" ("now") just the way native speakers do.
-- 'Am I supposed to sit and wait?' Eleonora prompts naturally for Fedya's benefit, building the phrase around "dolzhna" ("should, must") and "sidet" ("to sit") for a crisp, natural delivery.
-- 'By law, cooks are entitled to a rest.' Fedya shows a thoughtful line in the conversation, using "zakonu" (from "zakon", "law, statute") alongside "povaram" ("cooks") to shape the meaning.
-- 'For this rest everyone is fined.' Eleonora conveys a sharp footing for Fedya, combining "otdykh" ("rest") and "oshtrafovany" ("fined") so the key meaning lands right away.
-- 'I am docking all of you a day's salary.' Eleonora strikes a brisk attitude without hesitation, linking "lishayu" ("I deprive, dock"), "dnevnoy" ("day, daytime"), and "zarplaty" ("salaries") in one brisk exchange.
-- 'Captain, take this, this is for you now.' Senya chooses a grounded stance straight away, combining "kapitan" ("captain") and "vozmite" ("take") so the key meaning lands right away.
-- 'Right now this is simply necessary for you.' Senya brings a frank manner with Fedya, linking "seychas" ("now") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
-- 'Dear friend, well, how was your flight?' Eleonora presses promptly without a pause, putting "dorogoy" ("dear") alongside "drug" ("friend") in a tight, everyday turn of phrase.
-- 'Of course, first rest quietly in the room.' Eleonora picks an easygoing rhythm during the exchange, combining "konechno" ("of course") and "snachala" ("first, at first") so the key meaning lands right away.
-- 'And later we will talk about everything.' Eleonora maintains a resolute angle beside Fedya, linking "potom" ("then"), "pogovorim" ("we'll have a talk"), and "my" ("we") in one brisk exchange.
-- 'I still have to ask you for money.' Eleonora conveys a sharp direction in front of Senya, linking "deneg" ("money"), "prosit" ("to ask, to beg"), and "mne" ("to me") in one brisk exchange.
+- 'A captain must always be fair.' Fedya responds sharply facing Eleonora, saying out loud what both of them already know.
+- 'Who decided this in here just now?' Eleonora presses straight out how Senya expects that to work in practice.
+- 'Am I supposed to sit and wait?' Eleonora uses one loaded detail on cue: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
+- 'By law, cooks are entitled to a rest.' Fedya steps in quietly watching Senya, refusing to let the moment slip past.
+- 'For this rest everyone is fined.' Eleonora fires back lightly as they talk, keeping the focus on what actually matters here.
+- 'I am docking all of you a day's salary.' Notice how Eleonora challenges Senya on cue — the Russian word "zarplaty" ("salaries", built from "zarplata") does the heavy lifting.
+- 'Captain, take this, this is for you now.' Senya leans on one key element on cue: "kapitan" means "captain", and it carries the main weight of what Senya is saying.
+- 'Right now this is simply necessary for you.' Senya continues frankly hearing Fedya, watching Fedya's face to see how the news lands.
+- 'Dear friend, well, how was your flight?' Eleonora grounds this clear term in earnest: "dorogoy" means "dear", and it carries the main weight of what Eleonora is saying.
+- 'Of course, first rest quietly in the room.' Eleonora holds firm wryly with a nod, making her position completely clear.
+- 'And later we will talk about everything.' Eleonora chimes in wryly with a smile, steering the talk right where she wants it.
+- 'I still have to ask you for money.' Eleonora leans on one memorable term in earnest: "deneg" means "money" (from "dengi"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, listen, what kind of nonsense is this?' Katya questions frankly in the room, weaving "slushay" ("listen") together with "yerunda" ("trifle, nothing") just the way native speakers do.
-- 'You did not come home for the night, and you are not answering my calls.' Katya takes a candid rhythm beside Nastya, pairing "nochevat" ("to spend the night") with "prishel" ("came, arrived") to get the point across in plain spoken Russian.
-- 'Sorry, first I got carried away with work, and then my phone died.' Denis brings a serious manner in the scene, weaving "izvini" ("sorry, excuse me") together with "snachala" ("first, at first") just the way native speakers do.
-- 'Are you avoiding me?' Katya wonders honestly during the talk, building the phrase around "izbegayesh" ("you avoid") and "ty" ("you") for a crisp, natural delivery.
-- 'No, of course I am not avoiding anyone, no.' Denis holds an honest note in the room, building the phrase around "konechno" ("of course") and "izbegayu" ("I avoid") for a crisp, natural delivery.
-- 'Excuse me, my baguette is getting cold.' Denis picks a candid footing toward Nastya, combining "izvini" ("sorry, excuse me") and "baget" ("baguette") so the key meaning lands right away.
-- 'Oh, by the way, I will be working room service all week.' Denis sets a sharp tone beside Katya, combining the casual transition "kstati" ("by the way") with "nedelyu" ("for a week") to give the line its natural spoken rhythm.
-- 'What do you mean all week, Denis?' Katya challenges sharply right away, combining "smysle" ("sense") and "nedelyu" ("for a week") so the key meaning lands right away.
-- 'Katya, where is my herring ice cream?' Nastya asks pointedly as the beat lands, anchoring the Russian line on "gde" ("where") and "morozhenoye" ("ice cream") without extra filler.
-- 'Nastya, please wait a second.' Katya picks a warm position in the room, anchoring the Russian line on "nast" ("Nastya") and "podozhdi" ("wait") without extra filler.
-- 'Denis, what is going on?' Katya quizzes plainly at this point, building the phrase around "proiskhodit" ("is going on") and "denis" ("Denis") for a crisp, natural delivery.
-- 'Looks like Dan's baguette really went cold.' Nastya conveys a natural footing during the exchange, linking "dena" ("Dan"), "pokhodu" ("apparently"), and "paget" ("baguette") in one brisk exchange.
+- 'Denis, listen, what kind of nonsense is this?' Katya drops this point at once: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'You did not come home for the night, and you are not answering my calls.' Katya speaks dryly to be clear, to clear the air between them once and for all.
+- 'Sorry, first I got carried away with work, and then my phone died.' Denis reaches for one loaded piece right here: "zarabotalsya" means "got carried away with work" (from "zarabotatsya"), giving the line its exact edge.
+- 'Are you avoiding me?' Katya shapes that answer frankly here: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'No, of course I am not avoiding anyone, no.' Denis proceeds briskly without a pause, leaving no doubt about where he stands.
+- 'Excuse me, my baguette is getting cold.' Denis reaches for this telling word with Nastya: "ostyvayet" means "is getting cold" (from "ostyvat"), giving the line its exact edge.
+- 'Oh, by the way, I will be working room service all week.' Denis lays out this update to Katya: opening with "kstati" ("by the way") lets Denis drop a new detail into the conversation as if it just crossed his mind.
+- 'What do you mean all week, Denis?' Katya checks frankly why things suddenly took this turn between them.
+- 'Katya, where is my herring ice cream?' Nastya chooses one familiar element for Denis: "morozhenoye" means "ice cream", and it carries the main weight of what Nastya is saying.
+- 'Nastya, please wait a second.' Katya drops the thought with warmth: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Denis, what is going on?' Katya wonders evenly to see how Denis will answer on the spot.
+- 'Looks like Dan's baguette really went cold.' Hear how Nastya answers Katya in reply — the Russian word "pokhodu" ("apparently") gives the whole sentence its punch.

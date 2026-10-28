@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does Dad know about this?' Katya tests calmly in front of Barinov, building the phrase around "papa" ("Dad") and "znayet" ("knows") for a crisp, natural delivery.
-- 'And here is your dish, almost the same as your grandmother's!' Barinov picks an honest tempo in the conversation, anchoring the Russian line on "blyudo" ("dish") and "pochti" ("almost") without extra filler.
-- 'Thank you, but I am already full.' The guest sets an earnest tack as they talk, putting "spasibo" ("thank you") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'I beg you, at least smell it!' Barinov holds a direct angle in front of Katya, linking "umolyayu" ("I beg"), "ponyukhayte" ("smell"), and "ya" ("I") in one brisk exchange.
-- 'Be so kind, smell the dish.' Barinov displays a serious attitude right away, pairing "budte" ("be") with "dobry" ("kind") to get the point across in plain spoken Russian.
-- 'My eyes, my eyes!' The guest picks a direct angle on the spot, putting "glaza" ("eyes") alongside "moi" ("my") in a tight, everyday turn of phrase.
-- 'You are both simply crazy!' Katya favors a thoughtful tone at once, combining the softening word "prosto" ("simply, just") with "sumasshedshiye" ("crazy, insane") to give the line its natural spoken rhythm.
-- 'Do not worry, I will buy you dark glasses.' Barinov strikes a clear rhythm at this moment, weaving "volnuysya" ("worry") together with "kuplyu" ("will buy") just the way native speakers do.
-- 'Dad, I will explain everything to you right now.' Katya brings an honest footing during the exchange, anchoring the Russian line on "papa" ("Dad") and "seychas" ("now") without extra filler.
-- 'What can you possibly explain to me?' Barinov probes quietly in this moment, joining "mozhesh" ("can") to "obyasnit" ("to explain") so every word pulls its weight.
-- 'It was just a joke!' Katya displays an emphatic manner in the room, pairing "prosto" ("just") with "shutka" ("joke, prank") to get the point across in plain spoken Russian.
-- 'Dad, what is wrong with you, Vitya?' Katya prompts wryly in front of the guest, combining "papa" ("Dad") and "chto" ("what") so the key meaning lands right away.
+- 'Does Dad know about this?' Katya underscores one key choice on cue: "papa" means "Dad", and it carries the main weight of what Katya is saying.
+- 'And here is your dish, almost the same as your grandmother's!' Barinov brings that reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Thank you, but I am already full.' The guest answers dryly in this moment, keeping the focus on what actually matters here.
+- 'I beg you, at least smell it!' Barinov focuses on one practical piece at once: "ponyukhayte" means "smell" (from "ponyukhat"), giving the line its exact edge.
+- 'Be so kind, smell the dish.' Barinov pushes back firmly beside the guest, to clear the air between them once and for all.
+- 'My eyes, my eyes!' The guest holds firm lightly with a shrug, shifting the whole mood of the room in a single beat.
+- 'You are both simply crazy!' Katya favors one clear word at once: "sumasshedshiye" means "crazy, insane" (from "sumasshedshiy"), giving the line its exact edge.
+- 'Do not worry, I will buy you dark glasses.' Barinov aims the comeback briskly now: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'Dad, I will explain everything to you right now.' Katya continues quietly in their talk, so Barinov knows she is not just making small talk.
+- 'What can you possibly explain to me?' Barinov uses one telling element in reply: "obyasnit" means "to explain", and it carries the main weight of what Barinov is saying.
+- 'It was just a joke!' Katya gives this update on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Dad, what is wrong with you, Vitya?' Katya prompts calmly to see how the guest will answer on the spot.

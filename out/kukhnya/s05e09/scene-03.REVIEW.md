@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'More carefully!' Lyova shows a thoughtful position in front of Ainura, using "ostorozhneye" ("more carefully") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Lyova, do not be angry.' Ainura chooses a lively line at this moment, leaning on "zlis" ("be angry") before closing the thought with "lyova" ("Lyova").
-- 'She is my niece.' Ainura conveys a steady style with Elena, building the phrase around "plemyannitsa" ("niece") and "ona" ("it") for a crisp, natural delivery.
-- 'She is working her first day today.' Ainura chooses a steady tempo with Lyova, leaning on "segodnya" ("today") before closing the thought with "pervyy" ("first").
-- 'She does not know how to behave yet.' Ainura presents a frank note in the conversation, putting "znayet" ("knows") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'It is nothing.' Lyova favors a warm note across the room, letting the single Russian word "nichego" ("nothing") carry the entire reaction on its own.
-- 'Are you getting ready?' Elena quizzes directly as the beat lands, centering the phrase on "sobirayeshsya" ("plan"), where the "-sya" ending makes the action self-contained.
-- 'Listen, what a handsome suit!' Elena chooses a wry direction as the scene unfolds, putting "slushay" ("listen") alongside "krasivyy" ("beautiful") in a tight, everyday turn of phrase.
-- 'Why do you not wear it?' Elena wonders pointedly on the spot, building the phrase around "nosish" ("wear, carry") and "chego" ("what") for a crisp, natural delivery.
-- 'Well, I do not know.' Lyova chooses a firm style for Elena, combining "znayu" ("know") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'Well why are you walking around?' Elena wonders decisively to keep things clear, putting "khodish" ("can walk, are walking") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'Sit down right here and do not strain yourself.' Elena sets a sharp attitude with Lyova, putting "syad" ("sit down") alongside "napryagaysya" ("strain yourself") in a tight, everyday turn of phrase.
+- 'More carefully!' Lyova steps in plainly without a pause, leaving no doubt about where he stands.
+- 'Lyova, do not be angry.' Ainura chooses this sharp touch in reply: "zlis" means "be angry" (from "zlitsya"), giving the line its exact edge.
+- 'She is my niece.' Ainura voices the comeback briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'She is working her first day today.' Ainura responds boldly with a smile, watching Lyova's face to see how the news lands.
+- 'She does not know how to behave yet.' Ainura chooses one classic term at once: "yeshchyo" means "more, still", and it carries the main weight of what Ainura is saying.
+- 'It is nothing.' Lyova directs the comment to Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Are you getting ready?' Elena asks candidly what Ainura is actually getting at here.
+- 'Listen, what a handsome suit!' Elena centers one vivid expression at once: "krasivyy" means "beautiful", and it carries the main weight of what Elena is saying.
+- 'Why do you not wear it?' Elena puts the thought calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
+- 'Well, I do not know.' Lyova responds quietly on the spot, grounding the moment in plain reality.
+- 'Well why are you walking around?' Elena features one key piece on cue: "khodish" means "can walk, are walking" (from "khodit"), giving the line its exact edge.
+- 'Sit down right here and do not strain yourself.' Elena lays out this update briskly now: the "-sya" ending on "napryagaysya" ("strain yourself") turns the action inward or makes it happen between people naturally.

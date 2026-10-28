@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, Kostya, how are things going here?' Max challenges bluntly during the talk, weaving "kak" ("how") together with "tut" ("here") just the way native speakers do.
-- 'All quiet, nobody asked for you.' Kostya maintains an easygoing tempo in the scene, pairing "interesovalsya" ("asked about") with "tishina" ("silence, quiet") so the "-sya" ending carries the action.
-- 'Miss, will you let me kiss your hand?' The guest tests promptly at this point, putting "devushka" ("girlfriend") alongside "dadite" ("will give") in a tight, everyday turn of phrase.
-- 'Or maybe your pretty little foot?' The guest queries dryly across the room, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
-- 'Alright, buddy, let's head for the exit quickly.' Max conveys an emphatic stance on the spot, joining "druzhishche" ("buddy") to "poydyom" ("let's go") so every word pulls its weight.
-- 'Hello, are you looking for someone?' Kostya wonders naturally at this point, pairing "zdravstvuyte" ("hello") with "ishchete" ("to look for") to get the point across in plain spoken Russian.
-- 'Could you tell me where to find Viktoria Sergeyevna?' The guest tests directly right away, combining "podskazhite" ("tell, prompt") and "gde" ("where") so the key meaning lands right away.
-- 'I am here about repairing the video surveillance system.' The guest brings a grounded rhythm in the scene, linking "povodu" ("matter"), "remonta" ("repair"), and "sistem" ("system") in one brisk exchange.
-- 'Hello, Viktoria is already waiting for you.' Kostya keeps an emphatic line in the scene, building the phrase around "zdravstvuyte" ("hello") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'Listen, friend, why did you come here anyway?' Max probes decisively without a pause, combining "slushay" ("listen") and "drug" ("friend") so the key meaning lands right away.
-- 'To repair your coffee machine, of course!' The guest sustains a calm course in the conversation, using "kofemashinu" (from "kofemashina", "coffee machine") alongside "remontirovat" ("to repair") to shape the meaning.
-- 'And you fixed it yourselves, well done!' The guest shows a wry attitude in front of Max, building the phrase around "pochinili" ("repaired, fixed") and "krasavtsy" ("handsome man") for a crisp, natural delivery.
+- 'So, Kostya, how are things going here?' Max questions plainly where this conversation is heading next.
+- 'All quiet, nobody asked for you.' Kostya spotlights one colorful term at once: "interesovalsya" means "asked about" (from "interesovatsya"), giving the line its exact edge.
+- 'Miss, will you let me kiss your hand?' The guest lays out that remark before Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Or maybe your pretty little foot?' The guest presses sharply as Max tries to explain the situation.
+- 'Alright, buddy, let's head for the exit quickly.' Max favors one concrete detail in reply: "druzhishche" means "buddy", and it carries the main weight of what Max is saying.
+- 'Hello, are you looking for someone?' Kostya puts this answer at once: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Could you tell me where to find Viktoria Sergeyevna?' The guest presses sharply why things suddenly took this turn between them.
+- 'I am here about repairing the video surveillance system.' The guest emphasizes one sharp word in earnest: "videonablyudeniya" means "video surveillance" (from "videonablyudeniye"), giving the line its exact edge.
+- 'Hello, Viktoria is already waiting for you.' Kostya phrases this warning frankly here: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Listen, friend, why did you come here anyway?' Max prompts evenly about what Kostya just brought up.
+- 'To repair your coffee machine, of course!' The guest picks this direct element toward Kostya: "kofemashinu" means "coffee machine" (from "kofemashina"), giving the line its exact edge.
+- 'And you fixed it yourselves, well done!' The guest centers one key expression on cue: "krasavtsy" means "handsome man" (from "krasavets"), giving the line its exact edge.

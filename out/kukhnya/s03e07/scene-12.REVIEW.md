@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, what kind of party do you have going on here?' Kostya queries firmly without hesitation, building the phrase around "tut" ("here") and "diskoteka" ("disco, party") for a crisp, natural delivery.
-- 'What can I say to you right now, friend?' Kostya wonders plainly in front of Vika, using "mogu" (from "moch", "can") alongside "seychas" ("now") to shape the meaning.
-- 'Take the keys, drive Nagiyev's car away, and dump it.' Max establishes a clear tack straight away, pairing "vozmi" ("take, pick up") with "klyuchi" ("the keys") to get the point across in plain spoken Russian.
-- 'Aha, a very good idea.' Kostya projects a sharp manner in their talk, pairing "ochen" ("very much") with "khoroshaya" ("good") to get the point across in plain spoken Russian.
-- 'Alright, keep an eye on Vika, and I will be back soon.' Max shares a playful angle as the scene unfolds, using "sledi" (from "sledit", "watch, look after") alongside "skoro" ("soon") to shape the meaning.
-- 'Just do not let her out anywhere before my arrival.' Max establishes an emphatic attitude in their talk, joining "tolko" ("only") to "prikhoda" ("arrival") so every word pulls its weight.
-- 'Where did he go right now, I will go after him.' Vika picks a frank bearing in the conversation, pairing "kuda" ("where to") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'I do not know where he went, but it is better to wait here.' Kostya shares a lively stance for Vika, leaning on "znayu" ("know") before closing the thought with "kuda" ("where to").
-- 'But after all, Dima will simply kill him!' Vika favors a candid course during the exchange, building the phrase around "prosto" ("just") and "ubyot" ("will kill") for a crisp, natural delivery.
-- 'After all, you understand, he loves you very much.' Kostya shows a serious bearing in their talk, building the phrase around "ponimayete" ("do you understand") and "ochen" ("very much") for a crisp, natural delivery.
-- 'That is why he acts like a fool.' Kostya sets an honest stance across the room, leaning on "poetomu" ("that's why") before closing the thought with "postupayet" ("acts, behaves").
-- 'Please, do not worry like that, everything will be fine.' Kostya projects a measured course in this beat, linking "perezhivayte" ("worry"), "budet" ("will be"), and "khorosho" ("good, fine") in one brisk exchange.
-- 'I am joking, this is a pill for the stomach, one pill is enough.' Max adopts an emphatic angle in the scene, leaning on "shuchu" ("am joking") before closing the thought with "tabletka" ("pill").
+- 'Max, what kind of party do you have going on here?' Kostya challenges earnestly how Max expects that to work in practice.
+- 'What can I say to you right now, friend?' Kostya sharpens this sharp choice with Vika: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'Take the keys, drive Nagiyev's car away, and dump it.' Max cuts in sharply with a shrug, leaving no doubt about where he stands.
+- 'Aha, a very good idea.' Kostya jumps in plainly as things stand, watching Vika's face to see how the news lands.
+- 'Alright, keep an eye on Vika, and I will be back soon.' Max features one concrete detail in earnest: "sledi" means "watch, look after" (from "sledit"), giving the line its exact edge.
+- 'Just do not let her out anywhere before my arrival.' Max cuts in boldly around Vika, leaving no doubt about where he stands.
+- 'Where did he go right now, I will go after him.' Vika holds firm wryly before Kostya, steering the talk right where she wants it.
+- 'I do not know where he went, but it is better to wait here.' Kostya favors one direct expression for Vika: "poyekhal" means "I'm off" (from "poyekhat"), giving the line its exact edge.
+- 'But after all, Dima will simply kill him!' Vika makes that line with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'After all, you understand, he loves you very much.' Kostya steps in earnestly with a nod, shifting the whole mood of the room in a single beat.
+- 'That is why he acts like a fool.' Kostya colors one memorable element at once: "postupayet" means "acts, behaves" (from "postupat"), giving the line its exact edge.
+- 'Please, do not worry like that, everything will be fine.' Kostya offers the comment facing Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I am joking, this is a pill for the stomach, one pill is enough.' Max reacts lightly in their talk, so Kostya knows he is not just making small talk.

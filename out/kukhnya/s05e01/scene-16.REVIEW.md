@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you and I are together now.' Denis sets a warm manner without hesitation, weaving "uzhe" ("already, now") together with "vmeste" ("together") just the way native speakers do.
-- 'You fill my life with meaning.' Denis keeps an emphatic approach without hesitation, linking "napolnyayesh" ("you fill"), "zhizn" ("life"), and "smyslom" ("with meaning") in one brisk exchange.
-- 'Without you I am not myself.' Denis displays an easygoing line right away, weaving "bez" ("without") together with "tebya" ("you") just the way native speakers do.
-- 'Without you I am nobody.' Denis strikes a brisk tack straight away, linking "bez" ("without") directly with "tebya" ("you"), since Russian drops "is" and "are" in the present.
-- 'And I do not want to be anyone else.' Denis holds a lively tempo in the scene, using "khochu" (from "khotet", "want") alongside "byt" ("be") to shape the meaning.
-- 'You are my world.' Denis establishes a serious view beside Senya, linking "mir" ("world"), "ty" ("you"), and "moy" ("my") in one brisk exchange.
-- 'You are my life and my universe.' Denis chooses a direct stance beside Fedya, leaning on "zhizn" ("life") before closing the thought with "vselennaya" ("universe").
-- 'My dear Katya.' Denis chooses a firm rhythm toward Senya, leaning on "dorogaya" ("expensive") before closing the thought with "moya" ("my").
-- 'Will you marry me?' Denis wonders naturally as they speak, joining "vyydesh" ("you'll get out") to "ty" ("you") so every word pulls its weight.
-- 'What do you think, will she forgive me?' Denis questions lightly in this moment, anchoring the Russian line on "kak" ("how") and "dumayete" ("think") without extra filler.
-- 'Very cool, she will definitely forgive you.' Senya maintains a brisk manner during the exchange, putting "ochen" ("very much") alongside "kruto" ("cool, awesome") in a tight, everyday turn of phrase.
-- 'And we will help you with that.' Fedya conveys a grounded manner in front of Senya, building the phrase around "pomozhem" ("will help") and "my" ("we") for a crisp, natural delivery.
-- 'Pay attention to the balcony above.' Senya projects an honest line without hesitation, linking "obrashchayte" ("to turn, to direct"), "vnimaniye" ("attention"), and "naverkh" ("upstairs, upward") in one brisk exchange.
+- 'Katya, you and I are together now.' Denis spotlights one sharp piece in reply: "vmeste" means "together", and it carries the main weight of what Denis is saying.
+- 'You fill my life with meaning.' Denis leans on one direct piece in earnest: "napolnyayesh" means "you fill" (from "napolnyat"), giving the line its exact edge.
+- 'Without you I am not myself.' Denis pushes back bluntly with a shrug, making his position completely clear.
+- 'Without you I am nobody.' Denis states that reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And I do not want to be anyone else.' Denis proceeds briskly with a shrug, testing Fedya's reaction in the middle of the exchange.
+- 'You are my world.' Denis cuts in pointedly in this moment, keeping the focus on what actually matters here.
+- 'You are my life and my universe.' Denis points to this telling piece on cue: "vselennaya" means "universe", and it carries the main weight of what Denis is saying.
+- 'My dear Katya.' Denis aims the remark without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Will you marry me?' Denis inquires firmly what Fedya is actually getting at here.
+- 'What do you think, will she forgive me?' Denis anchors one colorful element right here: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
+- 'Very cool, she will definitely forgive you.' Senya lays out that point with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And we will help you with that.' Fedya fires back candidly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Pay attention to the balcony above.' Senya leans on one pointed word toward Denis: "obrashchayte" means "to turn, to direct" (from "obrashchat"), giving the line its exact edge.

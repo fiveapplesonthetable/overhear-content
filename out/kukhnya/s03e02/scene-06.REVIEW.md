@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, can you give us a little manure?' Fedya inquires openly to make the point, linking "mozhesh" ("can"), "dat" ("to give"), and "nemnogo" ("a bit") in one brisk exchange.
-- 'Manure? What do you mean, give? Buy it!' Timur presses evenly at this point, weaving "navoza" ("manure") together with "smysle" ("sense") just the way native speakers do.
-- 'Do you know what kind of manure this is?' Timur queries naturally in front of Fedya, using "znayesh" (from "znat", "know") alongside "navoz" ("manure") to shape the meaning.
-- 'This is the best manure, it is fresh.' Timur brings a warm angle for Nastya, leaning on "luchshiy" ("best") before closing the thought with "navoz" ("manure").
-- 'How much? Shall we make a deal?' Fedya prompts pointedly from the start, anchoring the Russian line on "skolko" ("how much, so much") and "dogovorimsya" ("we'll arrange") without extra filler.
-- 'A baby needs proteins that are only in meat.' Nastya favors a wry style in their talk, linking "rebyonku" ("your child"), "neobkhodimy" ("necessary, essential"), and "belki" ("proteins") in one brisk exchange.
-- 'Sometimes a pregnant woman feels a craving.' Nastya sustains a serious footing straight away, joining "inogda" ("sometimes, at times") to "beremennaya" ("pregnant") so every word pulls its weight.
-- 'Were you checking the weather like that?' Nastya challenges decisively to Timur here, combining "pogodu" ("weather") and "smotrela" ("was looking") so the key meaning lands right away.
-- 'What do you want so badly?' Fedya questions quietly from the start, combining "khochetsya" ("want, feel like") and "chto" ("what") so the key meaning lands right away.
-- 'I didn't have breakfast today.' Fedya presents a direct footing in their talk, pairing "pozavtrakal" ("had breakfast") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'Can you imagine, Max ate all the sausage at night.' Fedya chooses a grounded angle for Nastya, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "kolbasu" ("sausage") without extra filler.
-- 'Fedya, make me a sandwich, will you?' Timur presses bluntly from the start, pairing "sdelay" ("make, do") with "butik" ("sandwich") to get the point across in plain spoken Russian.
+- 'Timur, can you give us a little manure?' Fedya inquires evenly whether Nastya really thought this through.
+- 'Manure? What do you mean, give? Buy it!' Timur grounds this direct detail toward Nastya: "navoza" means "manure" (from "navoz"), giving the line its exact edge.
+- 'Do you know what kind of manure this is?' Timur states that remark beside Fedya: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'This is the best manure, it is fresh.' Timur continues wryly as they talk, letting the remark speak for itself.
+- 'How much? Shall we make a deal?' Fedya highlights one sharp touch in earnest: "dogovorimsya" means "we'll arrange" (from "dogovoritsya"), giving the line its exact edge.
+- 'A baby needs proteins that are only in meat.' Nastya speaks up at once before Timur, leaving no doubt about where she stands.
+- 'Sometimes a pregnant woman feels a craving.' Nastya stands firm dryly around Fedya, without trying to dress up how she really feels.
+- 'Were you checking the weather like that?' Nastya spotlights one key word at once: "pogodu" means "weather" (from "pogoda"), giving the line its exact edge.
+- 'What do you want so badly?' Fedya drops the comeback toward Nastya: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
+- 'I didn't have breakfast today.' Fedya follows up right away without a pause, saying out loud what both of them already know.
+- 'Can you imagine, Max ate all the sausage at night.' Fedya reaches for this key element on cue: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Fedya, make me a sandwich, will you?' Timur phrases the reply with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.

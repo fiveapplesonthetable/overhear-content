@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, may I come in to see you?' Max questions candidly during the talk, pairing "mozhno" ("may, can") with "voyti" ("to come in") to get the point across in plain spoken Russian.
-- 'Yes, Lavrov, come in quickly, how are things?' German quizzes dryly at this point, joining "zakhodite" ("come in") to "skoreye" ("quickly, right away") so every word pulls its weight.
-- 'By the way, I fired one cook today.' Max presents a natural course during the exchange, combining the casual transition "kstati" ("by the way") with "segodnya" ("today") to give the line its natural spoken rhythm.
-- 'Here is his letter of voluntary resignation.' Max adopts a serious note in their talk, placing "zayavleniye" ("statement") straight beside "sobstvennomu" ("own, proper") with no word for "to be" needed.
-- 'Lavrov, you are simply growing in my eyes!' German offers a clear view in the conversation, linking "prosto" ("just"), "rastyote" ("to grow, to grow up"), and "glazakh" ("eye") in one brisk exchange.
-- 'And what is this gathering by my office?' German questions earnestly without a pause, pairing "sobraniye" ("meeting") with "kabineta" ("office") to get the point across in plain spoken Russian.
-- 'The cooks are asking to allow them to do sports.' Max chooses a playful tone on the spot, pairing "zanimatsya" ("to be busy with") with "povara" ("cook") so the "-sya" ending carries the action.
-- 'Interesting, what kind of sports at work?' German tests lightly for Max's benefit, putting "interesno" ("interesting") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'Ordinary light gymnastics in the back courtyard.' Max sustains a playful angle straight away, using "obychnoy" (from "obychnyy", "ordinary") alongside "lyogkoy" ("light, easy") to shape the meaning.
-- 'After all, people stand by the stove all day.' Max establishes a frank manner in their talk, leaning on "lyudi" ("people") before closing the thought with "tselyy" ("whole, all").
-- 'Well all right, I do not object at all.' German holds a clear bearing in their talk, weaving "khorosho" ("good, fine") together with "sovsem" ("at all") just the way native speakers do.
-- 'Only make sure they do not turn gymnastics into smoke breaks!' German shares a frank view in the scene, weaving "tolko" ("only") together with "prevrashchali" ("to turn") just the way native speakers do.
+- 'German Mikhailovich, may I come in to see you?' Max points to this vivid touch toward German: "mozhno" means "may, can", and it carries the main weight of what Max is saying.
+- 'Yes, Lavrov, come in quickly, how are things?' German voices that thought around Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'By the way, I fired one cook today.' Max follows up evenly beside German, saying out loud what both of them already know.
+- 'Here is his letter of voluntary resignation.' Max highlights one telling term for German: "sobstvennomu" means "own, proper" (from "sobstvennyy"), giving the line its exact edge.
+- 'Lavrov, you are simply growing in my eyes!' German lays out that thought frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And what is this gathering by my office?' German prompts curiously whether Max really thought this through.
+- 'The cooks are asking to allow them to do sports.' Max leans on one clear term in reply: "zanimatsya" means "to be busy with", and it carries the main weight of what Max is saying.
+- 'Interesting, what kind of sports at work?' German shares this update facing Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Ordinary light gymnastics in the back courtyard.' Max stands firm calmly without a pause, saying out loud what both of them already know.
+- 'After all, people stand by the stove all day.' Max centers one pointed element in reply: "tselyy" means "whole, all", and it carries the main weight of what Max is saying.
+- 'Well all right, I do not object at all.' German hands over the comment around Max: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Only make sure they do not turn gymnastics into smoke breaks!' German opens up steadily beside Max, keeping the focus on what actually matters here.

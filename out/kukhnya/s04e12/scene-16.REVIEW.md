@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, you two had a crazy little night?' Vika quizzes lightly in the room, joining "znachit" ("then, so") to "sumasshedshaya" ("crazy, insane") so every word pulls its weight.
-- 'Vika, it is not what you thought!' Max shares a brisk style during the exchange, putting "podumala" ("thought") alongside "vika" ("Vika") in a tight, everyday turn of phrase.
-- 'Sasha simply called and asked for help.' Max takes an earnest mood across the room, joining "prosto" ("just") to "pozvonila" ("phoned") so every word pulls its weight.
-- 'Well I never, what a good Samaritan!' Vika shares a natural direction without hesitation, anchoring the Russian line on "nado" ("it is necessary") and "dobryy" ("good") without extra filler.
-- 'Vika, he is telling the truth, I was there!' Max sustains a natural footing without hesitation, weaving "govorit" ("talks") together with "pravdu" ("truth") just the way native speakers do.
-- 'They were there too, come on, confirm it!' Max presents an honest bearing in this beat, anchoring the Russian line on "tozhe" ("too") and "tam" ("there") without extra filler.
-- 'And our chef Viktor Petrovich was there!' Max sets a playful attitude in their talk, putting "byl" ("was") alongside "nash" ("our") in a tight, everyday turn of phrase.
-- 'What do you have, some kind of secret club?' Vika challenges steadily to keep things clear, linking "taynyy" ("secret, undercover"), "kruzhok" ("club"), and "vas" ("you") in one brisk exchange.
-- 'We really were there at night, we were!' Barinov displays a serious posture at once, leaning on "byli" ("be") before closing the thought with "tam" ("there").
-- 'That fiancé of Sasha's is just a total idiot.' Barinov strikes an emphatic tone across the room, linking "zhenikh" ("groom, fiancé") directly with "sashkin" ("total"), since Russian drops "is" and "are" in the present.
-- 'You see, I am telling the truth, nothing happened!' Max offers a playful direction at once, pairing "vidish" ("see") with "pravdu" ("truth") to get the point across in plain spoken Russian.
-- 'And so what, should I dance for joy now?' Vika checks earnestly to Max here, weaving "teper" ("now") together with "plyasat" ("to joy") just the way native speakers do.
-- 'My husband helped his ex and lied to me!' Vika favors a thoughtful position across the room, joining "muzh" ("husband") to "pomog" ("helped") so every word pulls its weight.
+- 'So, you two had a crazy little night?' Vika focuses on one clear expression in reply: "sumasshedshaya" means "crazy, insane" (from "sumasshedshiy"), giving the line its exact edge.
+- 'Vika, it is not what you thought!' Max highlights one memorable choice at once: "podumala" means "thought" (from "podumat"), giving the line its exact edge.
+- 'Sasha simply called and asked for help.' Max speaks pointedly as they talk, letting the remark speak for itself.
+- 'Well I never, what a good Samaritan!' Vika colors one loaded detail at once: "samarityanin" means "samaritan", and it carries the main weight of what Vika is saying.
+- 'Vika, he is telling the truth, I was there!' Max stands firm firmly with a smile, without trying to dress up how he really feels.
+- 'They were there too, come on, confirm it!' Max follows up boldly without holding back, testing Vika's reaction in the middle of the exchange.
+- 'And our chef Viktor Petrovich was there!' Max answers openly with a shrug, keeping the focus on what actually matters here.
+- 'What do you have, some kind of secret club?' Vika makes this line in earnest: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'We really were there at night, we were!' Barinov pushes back decisively around Max, refusing to let the moment slip past.
+- 'That fiancé of Sasha's is just a total idiot.' Barinov leans on one classic element toward Vika: "zhenikh" means "groom, fiancé", and it carries the main weight of what Barinov is saying.
+- 'You see, I am telling the truth, nothing happened!' Max brings this update briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'And so what, should I dance for joy now?' Vika inquires openly before Max can change the subject.
+- 'My husband helped his ex and lied to me!' Vika stresses this key word on cue: "byvshey" means "of your ex" (from "byvshaya"), giving the line its exact edge.

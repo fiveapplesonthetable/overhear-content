@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, tell me honestly, are you happy?' Max prompts frankly for Kostya's benefit, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
-- 'Let us not talk about this, Max.' Vika keeps a thoughtful style during the exchange, anchoring the Russian line on "davay" ("let's") and "budem" ("will") without extra filler.
-- 'Yes, because nobody hurts me.' Vika adopts a serious stance as the scene unfolds, doubling the negative with "ne" ("not") and "potomu" ("because"), which is standard and required in Russian.
-- 'And what did you want to hear from me?' Vika tests boldly during the talk, weaving "khotel" ("wanted") together with "uslyshat" ("to hear") just the way native speakers do.
-- 'That I feel bad and I am still in love with you?' Vika tests directly in front of Kostya, linking "plokho" ("badly") directly with "por" ("time"), since Russian drops "is" and "are" in the present.
-- 'All of that is already in the past, Max.' Vika projects a frank view across the room, joining "uzhe" ("already, now") to "proshlom" ("last, past") so every word pulls its weight.
-- 'This madness must end right now.' Vika adopts a calm attitude right away, pairing "bezumiye" ("madness, insanity") with "dolzhno" ("ought, must") to get the point across in plain spoken Russian.
-- 'Let it end in twenty minutes.' Max keeps a calm view across the room, linking "davay" ("let's"), "zakonchitsya" ("will end"), and "minut" ("minutes") in one brisk exchange.
-- 'You see, you do not change at all.' Vika displays a candid rhythm with Kostya, pairing "menyayeshsya" ("you change") with "vidish" ("see") so the "-sya" ending carries the action.
-- 'The long-awaited victory somehow brings no joy.' Max strikes an easygoing style as the scene unfolds, building the phrase around "dolgozhdannaya" ("long-awaited") and "pobeda" ("victory, triumph") for a crisp, natural delivery.
-- 'Hello, friends, happy housewarming to you!' Kostya offers a playful tempo in the scene, building the phrase around "druzya" ("friends") and "novoselyem" ("housewarming") for a crisp, natural delivery.
-- 'Around the corner something extraordinary awaits us.' Max keeps a clear footing in the scene, weaving "povorotom" ("turn, bend") together with "zhdyot" ("is waiting") just the way native speakers do.
+- 'Vika, tell me honestly, are you happy?' Max shares that answer for Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Let us not talk about this, Max.' Vika counters honestly beside Max, making her position completely clear.
+- 'Yes, because nobody hurts me.' Vika frames one memorable term at once: "delayet" means "does" (from "delat"), giving the line its exact edge.
+- 'And what did you want to hear from me?' Vika offers that point calmly now: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'That I feel bad and I am still in love with you?' Vika probes briskly where this conversation is heading next.
+- 'All of that is already in the past, Max.' Vika stresses this direct choice with Max: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.
+- 'This madness must end right now.' Vika puts the comment without pause: the "-sya" ending on "zakonchitsya" ("to end, to be over") turns the action inward or makes it happen between people naturally.
+- 'Let it end in twenty minutes.' Max counters quietly watching Vika, saying out loud what both of them already know.
+- 'You see, you do not change at all.' Vika favors one memorable detail for Kostya: "menyayeshsya" means "you change" (from "menyatsya"), giving the line its exact edge.
+- 'The long-awaited victory somehow brings no joy.' Max replies briskly toward Vika, making his position completely clear.
+- 'Hello, friends, happy housewarming to you!' Kostya weighs in briskly beside Max, watching Max's face to see how the news lands.
+- 'Around the corner something extraordinary awaits us.' Max underscores one pointed expression for Vika: "neobyknovennoye" means "extraordinary" (from "neobyknovennyy"), giving the line its exact edge.

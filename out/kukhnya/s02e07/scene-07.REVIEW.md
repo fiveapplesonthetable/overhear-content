@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just a second, right now.' Lyova brings a natural angle in the scene, letting the single Russian word "seychas" ("now") carry the entire reaction on its own.
-- 'Right here.' Vika presents a warm stance at this moment, pairing "seychas" ("now") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'I am coming right now!' Lyova favors an unhurried stance right away, linking "seychas" ("now") directly with "ya" ("I"), since Russian drops "is" and "are" in the present.
-- 'Lyova, I asked you not to call me when I am busy.' Barinov presents a thoughtful posture right away, pairing "prosil" ("ask for") with "zvonit" ("to call, phone") to get the point across in plain spoken Russian.
-- 'All right, fine, I will be right there.' Lyova presents a steady style toward Barinov, pairing "seychas" ("now") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
-- 'Yes, they are urgently calling me in to work.' Vika takes a lively stance during the exchange, putting "srochno" ("urgent, urgently") alongside "vyzyvayet" ("raises, causes") in a tight, everyday turn of phrase.
-- 'Are you really leaving already, huh?' Lyova quizzes bluntly to Barinov here, weaving "ukhodite" ("leave, go away") together with "neuzheli" ("really, can it be") just the way native speakers do.
-- 'Well, it cannot be helped.' Vika establishes a serious footing without hesitation, weaving "nu" ("oh, come on") together with "nichego" ("nothing") just the way native speakers do.
-- 'Oh, I envy your stamina.' Lyova keeps a playful tempo at this moment, leaning on "zaviduyu" ("envy") as a compact, one-word response that needs no extra words.
-- 'Well then, tomorrow at the same place, same time.' Vika strikes a brisk attitude at this moment, putting "zavtra" ("tomorrow") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'Yes, of course.' Lyova strikes an emphatic posture at once, weaving "da" ("yes") together with "nu" ("oh, come on") just the way native speakers do.
-- 'See you tomorrow, then.' Vika offers an honest view across the room, weaving "zavtra" ("tomorrow") together with "nu" ("oh, come on") just the way native speakers do.
-- 'Thank you for the company.' Lyova adopts a calm line for Barinov, building the phrase around "spasibo" ("thank you") and "kompaniyu" ("company") for a crisp, natural delivery.
+- 'Just a second, right now.' Lyova anchors this direct expression right here: "seychas" means "now", and it carries the main weight of what Lyova is saying.
+- 'Right here.' Vika delivers that point in earnest: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'I am coming right now!' Lyova speaks up pointedly hearing Barinov, before Barinov can change the subject.
+- 'Lyova, I asked you not to call me when I am busy.' Barinov anchors one familiar term in reply: "zanyat" means "busy" (from "zanyatyy"), giving the line its exact edge.
+- 'All right, fine, I will be right there.' Lyova lays out this statement around Barinov: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Yes, they are urgently calling me in to work.' Vika speaks quietly on the spot, shifting the whole mood of the room in a single beat.
+- 'Are you really leaving already, huh?' Lyova focuses on one classic word in reply: "ukhodite" means "leave, go away" (from "ukhodit"), giving the line its exact edge.
+- 'Well, it cannot be helped.' Vika states the thought without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Oh, I envy your stamina.' Lyova counters decisively to settle things, grounding the moment in plain reality.
+- 'Well then, tomorrow at the same place, same time.' Vika emphasizes one clear detail at once: "vremya" means "time", and it carries the main weight of what Vika is saying.
+- 'Yes, of course.' Lyova frames that thought toward Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'See you tomorrow, then.' Vika weighs in decisively to settle things, testing Lyova's reaction in the middle of the exchange.
+- 'Thank you for the company.' Lyova colors this vivid expression with Barinov: "kompaniyu" means "company" (from "kompaniya"), giving the line its exact edge.

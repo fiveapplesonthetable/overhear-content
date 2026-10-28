@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, guys, camera, rolling!' Nagiyev shows a firm footing without hesitation, linking "davayte" ("let's"), "rebyata" ("the boys, the lads"), and "kamera" ("camera") in one brisk exchange.
-- 'Scene nine, take four, action!' Nagiyev adopts an honest approach in the conversation, leaning on "stsena" ("stage, scene") before closing the thought with "dubl" ("take").
-- 'Now you will meet your brother.' Barinov chooses a resolute bearing straight away, pairing "seychas" ("now") with "vstretishsya" ("will meet") so the "-sya" ending carries the action.
-- 'Cut, one second, how are you holding the pistol?' Nagiyev tests naturally in this moment, leaning on "sekundu" ("second") before closing the thought with "kak" ("how").
-- 'Ready, let's roll, take five!' Nagiyev presents a firm course straight away, leaning on "gotovy" ("ready") before closing the thought with "poyekhali" ("here we go").
-- 'Cut, cut!' Nagiyev shows a frank stance at once, letting the single Russian word "stop" ("stop, cut") carry the entire reaction on its own.
-- 'What is wrong again?' Barinov probes calmly to keep things clear, placing "opyat" ("again") straight beside "chto" ("what") with no word for "to be" needed.
-- 'Guys, we are filming a boring movie.' Nagiyev keeps a playful course on the spot, anchoring the Russian line on "rebyata" ("the boys, the lads") and "snimayem" ("to take off") without extra filler.
-- 'He shot at me and hit me in the chest.' Nagiyev sustains a steady manner in the conversation, linking "vystrelil" ("shot"), "popal" ("hit"), and "grud" ("chest") in one brisk exchange.
-- 'I have seen that a thousand times in movies, it did not kill the hero.' Nagiyev takes an honest stance toward Barinov, linking "videl" ("saw, have seen"), "tysyachu" ("thousand"), and "raz" ("time, once") in one brisk exchange.
-- 'Let's film it in a new, modern way.' Nagiyev projects an unhurried view in front of Barinov, combining "davayte" ("let's") and "po-novomu" ("in a new way") so the key meaning lands right away.
-- 'So, he shoots me straight in the mouth!' Nagiyev takes a measured style during the exchange, building the phrase around "znachit" ("then, so") and "strelyayet" ("to shoot, to fire") for a crisp, natural delivery.
+- 'Come on, guys, camera, rolling!' Nagiyev steps in openly in their talk, saying out loud what both of them already know.
+- 'Scene nine, take four, action!' Nagiyev highlights this key choice in earnest: "stsena" means "stage, scene", and it carries the main weight of what Nagiyev is saying.
+- 'Now you will meet your brother.' Barinov makes the reply for Nagiyev: the "-sya" ending on "vstretishsya" ("will meet") turns the action inward or makes it happen between people naturally.
+- 'Cut, one second, how are you holding the pistol?' Nagiyev challenges briskly whether Barinov really thought this through.
+- 'Ready, let's roll, take five!' Nagiyev centers one colorful piece in reply: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
+- 'Cut, cut!' Nagiyev lays out that answer with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What is wrong again?' Barinov asks straight out about what Nagiyev just brought up.
+- 'Guys, we are filming a boring movie.' Nagiyev sharpens one pointed term for Barinov: "skuchnoye" means "boring, dull" (from "skuchnyy"), giving the line its exact edge.
+- 'He shot at me and hit me in the chest.' Nagiyev stands firm earnestly across the room, bringing things back to earth after the buildup.
+- 'I have seen that a thousand times in movies, it did not kill the hero.' Nagiyev speaks briskly to be clear, making his position completely clear.
+- 'Let's film it in a new, modern way.' Nagiyev underscores this vivid element right here: "sovremenno" means "in a modern way", and it carries the main weight of what Nagiyev is saying.
+- 'So, he shoots me straight in the mouth!' Nagiyev speaks earnestly without any doubt, letting the remark speak for itself.

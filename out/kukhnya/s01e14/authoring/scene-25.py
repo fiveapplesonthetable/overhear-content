@@ -37,7 +37,7 @@ WALK = [
     (4, None, "'Chef, I'm sorry.' Nagiyev Barinov offers a humble apology. He tells his boss he is truly sorry."),
     (5, None, "'I guess I didn't handle it.' He admits his failure. Barinov confesses he simply did not manage the situation."),
     (6, None, "'Lyova, come here.' Barinov calls his sous-chef over. He orders Lyova to come to him."),
-    (7, None, "'Picking fights with guests isn' He offers a mild critique of Lyova's earlier actions. Barinov notes that fighting with guests is bad."),
+    (7, None, "'Picking fights with guests isn't great.' He offers a mild critique of Lyova's earlier actions. Barinov notes that fighting with guests is bad."),
     (8, None, "'But the head chef isn't only responsible for food.' He explains the broader duties of a head chef. Barinov says it is about more than just food."),
     (9, None, "'First and foremost he is responsible for the team.' Barinov emphasizes the importance of leadership. He states the team is the primary responsibility."),
     (10, None, "'And today you acted like a real head chef.' He praises Lyova's performance under pressure. Barinov says Lyova acted like a true leader today."),

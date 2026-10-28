@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, I urgently asked for watermelon.' Katya presents a pointed mood across the room, putting "srochno" ("urgent, urgently") alongside "prosila" ("asked") in a tight, everyday turn of phrase.
-- 'I only need the watermelon pulp.' Katya sets a firm position at this moment, leaning on "nuzhna" ("needed") before closing the thought with "tolko" ("only").
-- 'Katyusha, I have everything ready already.' Denis picks a direct position in the room, leaning on "katyusha" ("eat") before closing the thought with "uzhe" ("already, now").
-- 'But you will have to get it out yourself.' Denis establishes an easygoing footing in front of Katya, pairing "dostat" ("to take out") with "pridyotsya" ("you'll have to") to get the point across in plain spoken Russian.
-- 'You need to defeat this shark.' Denis chooses an honest angle on the spot, leaning on "nuzhno" ("necessary") before closing the thought with "pobedit" ("to win").
-- 'Why did you make this shark?' Katya wonders sharply from the start, pairing "zachem" ("what for") with "sdelal" ("did") to get the point across in plain spoken Russian.
-- 'Listen, Denis, people are waiting for the order.' Katya presents an emphatic course during the exchange, pairing "slushay" ("listen") with "lyudi" ("people") to get the point across in plain spoken Russian.
-- 'But it is a very beautiful shark.' Denis holds a pointed style as the scene unfolds, linking "ochen" ("very much") directly with "krasivaya" ("pretty, beautiful"), since Russian drops "is" and "are" in the present.
-- 'I wanted to lift your spirits.' Denis holds a direct mood as the scene unfolds, joining "khotel" ("wanted") to "podnyat" ("to lift, to raise") so every word pulls its weight.
-- 'We have a lot of work right now.' Katya maintains an earnest attitude in their talk, leaning on "u nas" ("by us, at our place") and "seychas" ("now") the way natural Russian does.
-- 'All right, thanks, you lifted my spirits.' Katya takes a brisk rhythm in the room, building the phrase around "spasibo" ("thank you") and "podnyal" ("to lift, to raise") for a crisp, natural delivery.
-- 'I will slice everything up quickly right now.' Denis picks an earnest attitude on the spot, putting "seychas" ("now") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
+- 'Denis, I urgently asked for watermelon.' Katya follows up steadily during the talk, grounding the moment in plain reality.
+- 'I only need the watermelon pulp.' Katya answers calmly facing Denis, letting the remark speak for itself.
+- 'Katyusha, I have everything ready already.' Denis leans on one memorable word in reply: "katyusha" means "eat", and it carries the main weight of what Denis is saying.
+- 'But you will have to get it out yourself.' Denis drops that line facing Katya: the "-sya" ending on "pridyotsya" ("you'll have to") turns the action inward or makes it happen between people naturally.
+- 'You need to defeat this shark.' Denis responds honestly in this moment, keeping the focus on what actually matters here.
+- 'Why did you make this shark?' Katya features this key touch with Denis: "akulu" means "shark" (from "akula"), giving the line its exact edge.
+- 'Listen, Denis, people are waiting for the order.' Katya follows up honestly on the spot, bringing things back to earth after the buildup.
+- 'But it is a very beautiful shark.' Denis proceeds boldly without holding back, leaving no doubt about where he stands.
+- 'I wanted to lift your spirits.' Denis uses one colorful word in earnest: "nastroyeniye" means "mood", and it carries the main weight of what Denis is saying.
+- 'We have a lot of work right now.' Katya sends the comment right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'All right, thanks, you lifted my spirits.' Katya speaks evenly during the talk, refusing to let the moment slip past.
+- 'I will slice everything up quickly right now.' Denis centers one sharp touch for Katya: "seychas" means "now", and it carries the main weight of what Denis is saying.

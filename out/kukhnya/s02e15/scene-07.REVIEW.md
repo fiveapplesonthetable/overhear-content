@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You could bring her right here to the couch.' Barinov offers a calm note with Kostya, leaning on "divan" ("sofa, couch") before closing the thought with "privel" ("to bring, lead").
-- 'It is a magnificent couch.' Vika picks an emphatic attitude at this moment, anchoring the Russian line on "shikarnyy" ("splendid, luxurious") and "divan" ("sofa, couch") without extra filler.
-- 'Why not?' Kostya probes promptly as they speak, leaning on "chto" ("what") as a compact, one-word response that needs no extra words.
-- 'In my own office?' Barinov checks firmly as they speak, using "kabinete" (from "kabinet", "office") alongside "moyem" ("my") to shape the meaning.
-- 'Right here in my restaurant.' Vika strikes a sharp mood at once, weaving "restorane" ("restaurant") together with "ya" ("I") just the way native speakers do.
-- 'Very convenient.' Kostya sustains a grounded approach straight away, building the phrase around "ochen" ("very much") and "udobno" ("comfortable") for a crisp, natural delivery.
-- 'Nobody is around.' Barinov picks a thoughtful manner right away, using "nikogo" (from "nikto", "nobody") alongside "net" ("no") to shape the meaning.
-- 'Arkady, you saw everything and kept quiet?' Vika probes honestly at this point, building the phrase around "videl" ("saw, have seen") and "molchal" ("to be silent") for a crisp, natural delivery.
-- 'At least Arkady did not join in.' Kostya shows a serious posture across the room, anchoring the Russian line on "yeshche" ("still") and "uchastvoval" ("participated") without extra filler.
-- 'There is a separate restroom for staff members.' Barinov chooses a warm bearing as they talk, putting "sotrudnikov" ("staff members") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'What is going on here?' Vika inquires decisively toward Barinov here, building the phrase around "delo" ("matter") and "chem" ("than") for a crisp, natural delivery.
-- 'Hello, Viktoriya Sergeyevna.' Kostya conveys an emphatic note for Vika, joining "zdravstvuyte" ("hello") to "viktoriya" ("Victoria") so every word pulls its weight.
-- 'The drain broke in there, and we were just...' Barinov shows a measured bearing in the conversation, leaning on "tam" ("there") before closing the thought with "sliv" ("plum").
+- 'You could bring her right here to the couch.' Barinov uses one practical word right here: "divan" means "sofa, couch", and it carries the main weight of what Barinov is saying.
+- 'It is a magnificent couch.' Vika hands over the reaction facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why not?' Kostya presses frankly whether Barinov really thought this through.
+- 'In my own office?' Barinov underscores this direct word on cue: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
+- 'Right here in my restaurant.' Vika lays out the remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Very convenient.' Kostya stands firm candidly with a sigh, letting the remark speak for itself.
+- 'Nobody is around.' Barinov directs that point toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Arkady, you saw everything and kept quiet?' Vika delivers this answer with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'At least Arkady did not join in.' Kostya steps in plainly facing Barinov, without trying to dress up how he really feels.
+- 'There is a separate restroom for staff members.' Barinov centers this direct choice toward Vika: "sotrudnikov" means "staff members" (from "sotrudnik"), giving the line its exact edge.
+- 'What is going on here?' Vika gives that thought facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello, Viktoriya Sergeyevna.' Kostya fires back evenly beside Vika, shifting the whole mood of the room in a single beat.
+- 'The drain broke in there, and we were just...' Barinov points to this vivid touch in reply: "slomalsya" means "broke down" (from "slomatsya"), giving the line its exact edge.

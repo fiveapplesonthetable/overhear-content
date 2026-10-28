@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, al dente vegetables again.' Barinov adopts a pointed view with Max, pairing "ovoshchi" ("vegetables") with "dente" ("dente") to get the point across in plain spoken Russian.
-- 'Just as overcooked as they were yesterday.' Vika shows a natural attitude at this moment, joining "perederzhannyye" ("overcooked") to "kak" ("how") so every word pulls its weight.
-- 'So that is who the Chef's 'competent person' Max shares an earnest attitude in the conversation, combining "znachit" ("then, so") and "kompetentnyy" ("competent") so the key meaning lands right away.
-- 'And he has the nerve to lecture me.' Barinov offers an emphatic approach toward Vika, using "yeshche" (from "yeshchyo", "still") alongside "zamechaniya" ("remark, reprimand") to shape the meaning.
-- 'About how I roast my meat.' Vika shares a thoughtful angle as they talk, linking "kak" ("how"), "myaso" ("meat"), and "zharyat" ("to fry, to roast") in one brisk exchange.
-- 'Oh, I feel awful.' Max favors a wry note for Vika, putting "plokho" ("badly") alongside "oy" ("oh") in a tight, everyday turn of phrase.
-- 'Viktor Petrovich, you have been drinking again.' Vika shows a resolute rhythm at this moment, putting "opyat" ("again") alongside "vypivali" ("to drink, have a drink") in a tight, everyday turn of phrase.
-- 'Your blood pressure is through the roof.' Vika projects a steady footing as the scene unfolds, using "zapredelnoye" (from "zapredelnyy", "beyond all limits") alongside "davleniye" ("blood pressure") to shape the meaning.
-- 'I have not been drinking.' Max shares a serious mood in this beat, pairing "vypival" ("to drink, have a drink") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Then what were you doing?' Barinov wonders plainly in front of Vika, combining "delali" ("did, were doing") and "chto" ("what") so the key meaning lands right away.
-- 'I would have been better off drinking.' Vika displays a steady direction on the spot, combining "luchshe" ("better") and "vypival" ("to drink, have a drink") so the key meaning lands right away.
-- 'Viktor Petrovich.' Max conveys a warm posture beside Vika, leaning on "viktor" ("Viktor") before closing the thought with "petrovich" ("Petrovich").
-- 'Tomorrow I am going jogging again.' Barinov maintains an honest view right away, building the phrase around "zavtra" ("tomorrow") and "snova" ("again") for a crisp, natural delivery.
+- 'Oh, al dente vegetables again.' Barinov aims this line calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Just as overcooked as they were yesterday.' Vika steps in pointedly as things stand, without trying to dress up how she really feels.
+- 'So that is who the Chef's 'competent person' Max features one direct element in earnest: "kompetentnyy" means "competent", and it carries the main weight of what Max is saying.
+- 'And he has the nerve to lecture me.' Barinov weighs in at once to settle things, saying out loud what both of them already know.
+- 'About how I roast my meat.' Vika opens up dryly with a smile, leaving no doubt about where she stands.
+- 'Oh, I feel awful.' Max underscores this sharp piece on cue: "plokho" means "badly", and it carries the main weight of what Max is saying.
+- 'Viktor Petrovich, you have been drinking again.' Vika frames one direct element toward Barinov: "vypivali" means "to drink, have a drink" (from "vypivat"), giving the line its exact edge.
+- 'Your blood pressure is through the roof.' Vika jumps in at once to settle things, keeping the focus on what actually matters here.
+- 'I have not been drinking.' Max frames one direct piece in earnest: "vypival" means "to drink, have a drink" (from "vypivat"), giving the line its exact edge.
+- 'Then what were you doing?' Barinov shapes that thought with warmth: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I would have been better off drinking.' Vika pushes back lightly without a pause, keeping the focus on what actually matters here.
+- 'Viktor Petrovich.' Max puts that thought with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Tomorrow I am going jogging again.' Barinov phrases that remark toward Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

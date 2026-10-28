@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Monsieur, this wine is just right for dinner.' Louis presents a wry note with Max, linking "mesye" ("monsieur"), "vino" ("wine"), and "kak" ("how") in one brisk exchange.
-- 'It was specially created to delight women.' Louis chooses a candid angle across the room, pairing "spetsialno" ("on purpose") with "sozdano" ("delight") to get the point across in plain spoken Russian.
-- 'But after all this wine is sitting at the bar.' Max shares a direct tone at once, anchoring the Russian line on "vino" ("wine") and "lezhit" ("is lying") without extra filler.
-- 'Take this bottle tonight, Maksim.' Louis offers a serious stance toward Senya, linking "vozmite" ("take"), "butylku" ("a bottle"), and "segodnya" ("today") in one brisk exchange.
-- 'And tomorrow buy Konstantin the exact same bottle.' Louis establishes a wry mood across the room, putting "zavtra" ("tomorrow") alongside "kupite" ("buy") in a tight, everyday turn of phrase.
-- 'And then nobody will notice anything at all.' Louis brings a sharp manner toward Senya, joining "togda" ("back then") to "sovsem" ("at all") so every word pulls its weight.
-- 'Thank you, Louis, you helped me a lot!' Max shows an unhurried view straight away, combining "spasibo" ("thank you") and "ochen" ("very much") so the key meaning lands right away.
-- 'Senya, take a tasty dessert in exchange for your kidneys.' Max sets a sharp style as they talk, anchoring the Russian line on "derzhi" ("here you go") and "vkusnyy" ("delicious") without extra filler.
-- 'All right, restaurant menace, take the fresh kidneys.' Senya holds an honest stance in this beat, joining "restorannyy" ("restaurant") to "vreditel" ("restaurant") so every word pulls its weight.
-- 'Tonight we will have a wonderful dinner.' Max shares a serious posture in their talk, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
-- 'Just make sure you do not overcook them in the pan.' Senya chooses a lively stance beside Louis, combining "smotri" ("look") and "tolko" ("only") so the key meaning lands right away.
-- 'Do not worry, I will cook everything perfectly!' Max holds a natural mood for Senya, pairing "volnuysya" ("worry") with "prigotovlyu" ("will prepare") to get the point across in plain spoken Russian.
+- 'Monsieur, this wine is just right for dinner.' Louis centers one practical term toward Max: "uzhina" means "dinner, supper" (from "uzhin"), giving the line its exact edge.
+- 'It was specially created to delight women.' Louis responds openly with a shrug, keeping the focus on what actually matters here.
+- 'But after all this wine is sitting at the bar.' Max opens up at once beside Louis, grounding the moment in plain reality.
+- 'Take this bottle tonight, Maksim.' Louis picks one classic piece toward Senya: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
+- 'And tomorrow buy Konstantin the exact same bottle.' Louis cuts in bluntly facing Max, steering the talk right where he wants it.
+- 'And then nobody will notice anything at all.' Louis continues steadily as they talk, steering the talk right where he wants it.
+- 'Thank you, Louis, you helped me a lot!' Max grounds one direct touch for Louis: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
+- 'Senya, take a tasty dessert in exchange for your kidneys.' Max spotlights one practical word in reply: "vkusnyy" means "delicious", and it carries the main weight of what Max is saying.
+- 'All right, restaurant menace, take the fresh kidneys.' Senya proceeds frankly with Louis, without trying to dress up how he really feels.
+- 'Tonight we will have a wonderful dinner.' Max frames one familiar touch with Senya: "chudesnyy" means "wonderful, miraculous", and it carries the main weight of what Max is saying.
+- 'Just make sure you do not overcook them in the pan.' Senya responds frankly watching Louis, watching Louis's face to see how the news lands.
+- 'Do not worry, I will cook everything perfectly!' Max proceeds firmly beside Senya, refusing to let the moment slip past.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing?' Barinov wonders firmly beside Senya, joining "delayesh" ("are you doing") to "ty" ("you") so every word pulls its weight.
-- 'The same thing you do.' Senya offers a lively manner in the room, leaning on "kak" ("how") before closing the thought with "ty" ("you").
-- 'Just as I thought.' Barinov chooses a direct approach on the spot, anchoring the Russian line on "kak" ("how") and "dumal" ("thought") without extra filler.
-- 'Oh, that is just perfect.' Senya chooses an honest course toward Barinov, weaving "otlichno" ("perfect, great") together with "vot" ("there, here") just the way native speakers do.
-- 'Enjoy your meal.' Barinov adopts a frank manner during the exchange, building the phrase around "priyatnogo" ("pleasant") and "appetita" ("appetite") for a crisp, natural delivery.
-- 'And what is this?' Senya probes firmly during the talk, joining "chto" ("what") to "eto" ("this") so every word pulls its weight.
-- 'Prepared especially for you by our chef.' Barinov keeps a clear bearing straight away, pairing "prigotovlennyy" ("prepared, cooked") with "povarom" ("as a cook") to get the point across in plain spoken Russian.
-- 'No, I understand that.' Senya projects a playful direction right away, weaving "ponimayu" ("understand") together with "ne" ("not") just the way native speakers do.
-- 'But what is that on top?' Barinov wonders honestly as they speak, building the phrase around "sverkhu" ("upstairs, from above") and "chto" ("what") for a crisp, natural delivery.
-- 'I am not going to eat this.' Senya offers a direct stance for Barinov, using "yest" (from "byt", "there is") alongside "budu" ("will be") to shape the meaning.
-- 'I completely understand you.' Barinov shows a candid posture toward Senya, building the phrase around "ponimayu" ("understand") and "ya" ("I") for a crisp, natural delivery.
-- 'Are you mocking me?' Senya asks briskly with Barinov now, leaning on "izdevayetes" ("are you mocking") before closing the thought with "vy" ("you").
-- 'What happened here?' Barinov wonders naturally at this point, using "sluchilos" (from "sluchitsya", "happened") alongside "chto" ("what") to shape the meaning.
+- 'What are you doing?' Barinov sharpens one key piece for Senya: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'The same thing you do.' Senya puts that remark frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Just as I thought.' Barinov responds boldly across the room, watching Senya's face to see how the news lands.
+- 'Oh, that is just perfect.' Senya anchors one classic touch toward Barinov: "otlichno" means "perfect, great", and it carries the main weight of what Senya is saying.
+- 'Enjoy your meal.' Barinov lays out the thought for Senya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And what is this?' Senya presses eagerly how Barinov expects that to work in practice.
+- 'Prepared especially for you by our chef.' Barinov underscores one key term at once: "prigotovlennyy" means "prepared, cooked", and it carries the main weight of what Barinov is saying.
+- 'No, I understand that.' Senya makes that reply calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'But what is that on top?' Barinov questions briskly how Senya expects that to work in practice.
+- 'I am not going to eat this.' Senya weighs in bluntly to be clear, so Barinov knows he is not just making small talk.
+- 'I completely understand you.' Barinov drops this statement right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Are you mocking me?' Senya challenges quietly to see how Barinov will answer on the spot.
+- 'What happened here?' Barinov emphasizes one classic detail in earnest: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.

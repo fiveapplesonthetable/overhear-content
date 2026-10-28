@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, what are you doing over there?' Barinov questions sharply in this moment, combining "tam" ("there") and "tvorish" ("are doing, creating") so the key meaning lands right away.
-- 'You said the wife was on me.' Fedya adopts a natural stance as they talk, combining "skazali" ("told") and "zhena" ("wife") so the key meaning lands right away.
-- 'And now I have understood everything.' The inspector shows a pointed position without hesitation, combining "teper" ("now") and "ponyal" ("understood") so the key meaning lands right away.
-- 'You are simply mocking me.' The inspector keeps a playful rhythm straight away, leaning on "prosto" ("just") before closing the thought with "izdevayetes" ("are you mocking").
-- 'Your cook seduced my wife.' The inspector strikes a direct footing as they talk, pairing "povar" ("chef, cook") with "soblaznil" ("seduced") to get the point across in plain spoken Russian.
-- 'You nearly killed me.' The inspector conveys a playful note at once, building the phrase around "chut" ("almost, nearly") and "ubili" ("killed") for a crisp, natural delivery.
-- 'There is actually no money at all.' The inspector brings a pointed footing in their talk, pairing "deneg" ("money") with "samom" ("very") to get the point across in plain spoken Russian.
-- 'Enough, let us sort this out calmly.' Barinov adopts a frank bearing across the room, linking "khvatit" ("enough"), "davayte" ("let's"), and "spokoyno" ("calmly") in one brisk exchange.
-- 'Soon they will bring us this money.' Barinov picks an earnest posture without hesitation, putting "skoro" ("soon") alongside "privezut" ("will bring") in a tight, everyday turn of phrase.
-- 'And we will part ways peacefully.' Barinov conveys a natural angle in front of the inspector, joining "spokoyno" ("calmly") to "razoydyomsya" ("we will part ways") so every word pulls its weight.
-- 'Fedya, you be quiet altogether right now.' Barinov brings an honest rhythm in front of Fedya, linking "voobshche" ("at all"), "seychas" ("now"), and "zamolchi" ("to fall silent") in one brisk exchange.
-- 'Well, you see, we reached an agreement.' Barinov picks a playful style across the room, weaving "vidish" ("see") together with "dogovorilis" ("agreed, deal") just the way native speakers do.
+- 'Fedya, what are you doing over there?' Barinov tests bluntly what Fedya is actually getting at here.
+- 'You said the wife was on me.' Fedya spotlights one classic detail at once: "skazali" means "told" (from "skazat"), giving the line its exact edge.
+- 'And now I have understood everything.' The inspector steps in honestly on the spot, bringing things back to earth after the buildup.
+- 'You are simply mocking me.' The inspector counters calmly during the talk, leaving no doubt about where he stands.
+- 'Your cook seduced my wife.' The inspector stresses one vivid piece right here: "soblaznil" means "seduced" (from "soblaznit"), giving the line its exact edge.
+- 'You nearly killed me.' The inspector stresses one sharp expression right here: "ubili" means "killed" (from "ubit"), giving the line its exact edge.
+- 'There is actually no money at all.' The inspector continues frankly with a smile, saying out loud what both of them already know.
+- 'Enough, let us sort this out calmly.' Barinov frames one colorful piece on cue: "razberyomsya" means "will sort this out" (from "razobratsya"), giving the line its exact edge.
+- 'Soon they will bring us this money.' Barinov holds firm steadily as things stand, making his position completely clear.
+- 'And we will part ways peacefully.' Barinov fires back at once as things stand, keeping the focus on what actually matters here.
+- 'Fedya, you be quiet altogether right now.' Barinov anchors one direct piece on cue: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
+- 'Well, you see, we reached an agreement.' Barinov shapes the remark on cue: the "-sya" ending on "dogovorilis" ("agreed, deal") turns the action inward or makes it happen between people naturally.

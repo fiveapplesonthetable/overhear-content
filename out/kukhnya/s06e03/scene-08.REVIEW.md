@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostik, I turned on cartoons after all.' Nastya sets a clear position as the scene unfolds, combining "multiki" ("cartoon, animated film") and "vklyuchila" ("turned on") so the key meaning lands right away.
-- 'We can have a little celebration of our own too.' Nastya adopts a natural manner toward Kostya, leaning on "u nas" ("by us, at our place") and "tozhe" ("too") the way natural Russian does.
-- 'What is wrong, I cannot do this.' Kostya sets a thoughtful approach as they talk, putting "mogu" ("can") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'I understand, the move tired me out too.' Nastya sustains a resolute tempo with Kostya, joining "ponimayu" ("understand") to "tozhe" ("too") so every word pulls its weight.
-- 'No, I simply have not achieved anything myself.' Kostya sets a sharp attitude on the spot, linking "prosto" ("just"), "dobilsya" ("achieved"), and "da" ("yes") in one brisk exchange.
-- 'We are living here at someone else's expense.' Kostya projects a grounded tempo in front of Nastya, joining "zhivem" ("live") to "zdes" ("here") so every word pulls its weight.
-- 'I do not feel like a real man.' Kostya sets a wry style in the scene, leaning on "muzhikom" ("man, real man") before closing the thought with "chuvstvuyu" ("feel").
-- 'Why, we are paying for it ourselves.' Nastya displays a direct course for Kostya, anchoring the Russian line on "platim" ("pay") and "my" ("we") without extra filler.
-- 'We are not paying for it.' Kostya shows an emphatic note beside Nastya, building the phrase around "platim" ("pay") and "ne" ("not") for a crisp, natural delivery.
-- 'Your dad gave it to us as a gift.' Kostya presents a lively attitude as the scene unfolds, putting "papa" ("Dad") alongside "podaril" ("donated, gifted") in a tight, everyday turn of phrase.
-- 'And it seems to me that it will be right if we refuse it.' Kostya shows an emphatic mood without hesitation, pairing "kazhetsya" ("it seems, I think") with "pravilneye" ("more right") to get the point across in plain spoken Russian.
-- 'Let's think it over calmly.' Nastya conveys a thoughtful mood in the room, joining "davay" ("let's") to "podumayem" ("will think") so every word pulls its weight.
+- 'Kostik, I turned on cartoons after all.' Nastya answers briskly without holding back, saying out loud what both of them already know.
+- 'We can have a little celebration of our own too.' Nastya reacts at once with a sigh, shifting the whole mood of the room in a single beat.
+- 'What is wrong, I cannot do this.' Kostya colors this sharp touch right here: "mogu" means "can" (from "moch"), giving the line its exact edge.
+- 'I understand, the move tired me out too.' Nastya stands firm earnestly without any doubt, steering the talk right where she wants it.
+- 'No, I simply have not achieved anything myself.' Kostya answers honestly beside Nastya, keeping the focus on what actually matters here.
+- 'We are living here at someone else's expense.' Kostya sharpens one familiar element at once: "chuzhoy" means "someone else's", and it carries the main weight of what Kostya is saying.
+- 'I do not feel like a real man.' Kostya answers firmly with a smile, refusing to let the moment slip past.
+- 'Why, we are paying for it ourselves.' Nastya pushes back firmly across the room, so Kostya knows she is not just making small talk.
+- 'We are not paying for it.' Kostya centers one practical touch right here: "platim" means "pay" (from "platit"), giving the line its exact edge.
+- 'Your dad gave it to us as a gift.' Kostya points to one loaded detail at once: "podaril" means "donated, gifted" (from "podarit"), giving the line its exact edge.
+- 'And it seems to me that it will be right if we refuse it.' Kostya steps in wryly watching Nastya, saying out loud what both of them already know.
+- 'Let's think it over calmly.' Nastya sharpens this sharp touch right here: "podumayem" means "will think" (from "podumat"), giving the line its exact edge.

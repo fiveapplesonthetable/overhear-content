@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora persuaded me, she practically begged me in tears.' Barinov shares an easygoing angle beside Eleonora, pairing "ugovorila" ("persuaded") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'She said, Vitya, we cannot manage without you.' Senya shows a serious note beside Eleonora, combining "govorila" ("said") and "spravimsya" ("will manage") so the key meaning lands right away.
-- 'She promised to raise my salary significantly.' Barinov shares a thoughtful direction in front of Eleonora, leaning on "obeshchala" ("promised") before closing the thought with "zarplatu" ("salary").
-- 'In reality there is a penalty clause in the contract.' Senya displays a playful bearing without hesitation, putting "samom" ("very") alongside "dele" ("case") in a tight, everyday turn of phrase.
-- 'Well, Chef, did you fall for the big money?' Senya prompts calmly without a pause, putting "bolshiye" ("big, serious") alongside "dengi" ("money") in a tight, everyday turn of phrase.
-- 'I do not care about the money at all.' Barinov picks a grounded course in the conversation, weaving "sovershenno" ("quite, completely") together with "plevat" ("don't care") just the way native speakers do.
-- 'It is just that Eleonora is seriously ill right now.' Barinov sustains a sharp footing without hesitation, pairing "seychas" ("now") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'She is very seriously sick.' Barinov establishes a frank angle beside Senya, pairing "ochen" ("very much") with "seryozno" ("seriously") to get the point across in plain spoken Russian.
-- 'I could not refuse her in such a situation.' Barinov holds a clear tack in the room, using "mog" (from "moch", "can, to be able") alongside "otkazat" ("to refuse, to turn down") to shape the meaning.
-- 'Dad, did you really come back to the kitchen?' Eleonora questions evenly toward Senya here, putting "papa" ("Dad") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
-- 'Forgive me for not telling you back then.' Eleonora conveys a resolute footing in their talk, building the phrase around "prosti" ("sorry, forgive me") and "togda" ("back then") for a crisp, natural delivery.
-- 'Alright, daughter, we will talk about that later.' Barinov shows a serious stance as the scene unfolds, weaving "dochka" ("dear, daughter") together with "pogovorim" ("we'll have a talk") just the way native speakers do.
+- 'Eleonora persuaded me, she practically begged me in tears.' Barinov gives that reply on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'She said, Vitya, we cannot manage without you.' Senya steps in quietly with a shrug, keeping the focus on what actually matters here.
+- 'She promised to raise my salary significantly.' Barinov colors one practical word for Eleonora: "obeshchala" means "promised" (from "obeshchat"), giving the line its exact edge.
+- 'In reality there is a penalty clause in the contract.' Senya states this answer toward Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, Chef, did you fall for the big money?' Senya prompts bluntly how Barinov expects that to work in practice.
+- 'I do not care about the money at all.' Barinov chooses one colorful touch on cue: "sovershenno" means "quite, completely", and it carries the main weight of what Barinov is saying.
+- 'It is just that Eleonora is seriously ill right now.' Barinov brings this statement before Eleonora: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'She is very seriously sick.' Barinov cuts in plainly hearing Senya, without trying to dress up how he really feels.
+- 'I could not refuse her in such a situation.' Barinov grounds one clear term right here: "situatsii" means "situation" (from "situatsiya"), giving the line its exact edge.
+- 'Dad, did you really come back to the kitchen?' Eleonora brings this warning in earnest: the "-sya" ending on "vernulsya" ("returned") turns the action inward or makes it happen between people naturally.
+- 'Forgive me for not telling you back then.' Eleonora fires back at once on the spot, bringing things back to earth after the buildup.
+- 'Alright, daughter, we will talk about that later.' Barinov uses one direct touch for Senya: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.

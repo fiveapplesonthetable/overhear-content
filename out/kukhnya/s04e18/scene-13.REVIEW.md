@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't Katya spend the night today?' Senya queries dryly in front of Denis, leaning on "pochemu" ("why") before closing the thought with "segodnya" ("today").
-- 'She and I had a big fight yesterday.' Denis projects a brisk course as they talk, building the phrase around "vchera" ("yesterday") and "silno" ("strongly, much") for a crisp, natural delivery.
-- 'She says I behave like a pushover.' Denis establishes a frank style in their talk, weaving "govorit" ("talks") together with "vedu" ("lead, am ahead") just the way native speakers do.
-- 'Well, do not be a pushover anymore.' Senya shares a resolute position for Denis, combining "bolshe" ("more") and "bud" ("were he") so the key meaning lands right away.
-- 'Always dominate, be a real man.' Senya chooses a grounded rhythm at once, leaning on "vsegda" ("always") before closing the thought with "dominiruy" ("dominate").
-- 'All right, I will definitely try today.' Denis picks a pointed mood as the scene unfolds, combining "segodnya" ("today") and "obyazatelno" ("surely, without fail") so the key meaning lands right away.
-- 'Make up and come over for dinner.' Senya projects an earnest style without hesitation, building the phrase around "davayte" ("let's") and "mirites" ("make peace") for a crisp, natural delivery.
-- 'Marina and I really need this.' Senya shows a natural line as they talk, combining "ochen" ("very much") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'It seems to me that she liked you two a lot.' Senya presents a grounded manner at this moment, pairing "kazhetsya" ("it seems, I think") with "ochen" ("very much") so the "-sya" ending carries the action.
-- 'I do not know, if Katya does not mind.' Denis sustains an unhurried angle in their talk, joining "znayu" ("know") to "budet" ("will be") so every word pulls its weight.
-- 'Are you a real man or what?' Senya tests bluntly to make the point, building the phrase around "voobshche" ("at all") and "muzhik" ("a real man") for a crisp, natural delivery.
-- 'Right away, sweetheart, I am bringing your tea already!' Senya adopts a brisk footing beside Denis, pairing "seychas" ("now") with "lyubimaya" ("favourite, beloved") so the "-sya" ending carries the action.
+- 'Why didn't Katya spend the night today?' Senya features one key choice toward Denis: "nochevala" means "to spend the night" (from "nochevat"), giving the line its exact edge.
+- 'She and I had a big fight yesterday.' Denis shapes the comment for Senya: the "-sya" ending on "possorilis" ("had a fight") turns the action inward or makes it happen between people naturally.
+- 'She says I behave like a pushover.' Denis cuts in dryly hearing Senya, bringing things back to earth after the buildup.
+- 'Well, do not be a pushover anymore.' Senya features one direct expression at once: "tryapkoy" means "rag, cloth" (from "tryapka"), giving the line its exact edge.
+- 'Always dominate, be a real man.' Senya responds boldly with a nod, watching Denis's face to see how the news lands.
+- 'All right, I will definitely try today.' Denis holds firm candidly toward Senya, watching Senya's face to see how the news lands.
+- 'Make up and come over for dinner.' Senya underscores this direct piece right here: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
+- 'Marina and I really need this.' Senya shapes this warning calmly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'It seems to me that she liked you two a lot.' Senya follows up right away to settle things, refusing to let the moment slip past.
+- 'I do not know, if Katya does not mind.' Denis focuses on one memorable touch with Senya: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'Are you a real man or what?' Senya phrases that reply for Denis: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Right away, sweetheart, I am bringing your tea already!' Senya reacts earnestly in this moment, bringing things back to earth after the buildup.

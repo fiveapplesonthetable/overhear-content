@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I have no time at all.' Vika picks a frank stance in the scene, anchoring the Russian line on "segodnya" ("today") and "sovershenno" ("quite, completely") without extra filler.
-- 'And why a marriage proposal all of a sudden?' Vika quizzes warmly in this moment, linking "pochemu" ("why"), "vdrug" ("suddenly, what if"), and "srazu" ("at once") in one brisk exchange.
-- 'Vitya, do you think I should marry him?' Vika asks warmly without holding back, joining "dumayesh" ("think") to "nado" ("it is necessary") so every word pulls its weight.
-- 'You are already a grown girl, decide for yourself.' Max adopts a natural mood across the room, linking "uzhe" ("already, now"), "vzroslaya" ("grown-up, adult"), and "devochka" ("girl") in one brisk exchange.
-- 'What on earth are you doing here in the kitchen?' Max challenges openly toward Katya here, weaving "tut" ("here") together with "delayesh" ("are you doing") just the way native speakers do.
-- 'Why did you put thyme in there?' Max presses calmly to Vika here, building the phrase around "zachem" ("what for") and "tuda" ("there") for a crisp, natural delivery.
-- 'That is it, Max, we are not drinking like that anymore.' Katya conveys a brisk attitude in the conversation, linking "bolshe" ("more"), "pyom" ("to drink"), and "vsyo" ("everything") in one brisk exchange.
-- 'It is one thing when you do not remember that you are guilty.' Katya sets an earnest tempo in front of Vika, putting "kogda" ("when") alongside "pomnish" ("do you remember") in a tight, everyday turn of phrase.
-- 'But not remembering that you are innocent is strange.' Katya sets a serious attitude as they talk, pairing "pomnit" ("to remember") with "vinovat" ("at fault, guilty") to get the point across in plain spoken Russian.
-- 'All that is left is to remember whether we slept together or not.' Max keeps a sharp position for Vika, using "ostalos" (from "ostatsya", "was left") alongside "tolko" ("only") to shape the meaning.
-- 'Even if something did happen, you liked it.' Katya shares a grounded note beside Max, pairing "ponravilos" ("pleased, was liked") with "bylo" ("was") so the "-sya" ending carries the action.
-- 'Is it really normal to say that?' Max presses quietly in their exchange, anchoring the Russian line on "voobshche" ("at all") and "normalno" ("fine, OK") without extra filler.
+- 'Today I have no time at all.' Vika reaches for one vivid touch in earnest: "sovershenno" means "quite, completely", and it carries the main weight of what Vika is saying.
+- 'And why a marriage proposal all of a sudden?' Vika offers the thought in earnest: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Vitya, do you think I should marry him?' Vika checks firmly where this conversation is heading next.
+- 'You are already a grown girl, decide for yourself.' Max frames this sharp element toward Vika: "vzroslaya" means "grown-up, adult" (from "vzroslyy"), giving the line its exact edge.
+- 'What on earth are you doing here in the kitchen?' Max makes that thought beside Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Why did you put thyme in there?' Max checks deadpan how Vika expects that to work in practice.
+- 'That is it, Max, we are not drinking like that anymore.' Katya stresses one clear expression right here: "bolshe" means "more", and it carries the main weight of what Katya is saying.
+- 'It is one thing when you do not remember that you are guilty.' Katya brings this statement plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
+- 'But not remembering that you are innocent is strange.' Katya answers promptly across the room, grounding the moment in plain reality.
+- 'All that is left is to remember whether we slept together or not.' Max underscores this vivid expression in reply: "vspomnit" means "to remember", and it carries the main weight of what Max is saying.
+- 'Even if something did happen, you liked it.' Katya drops this point facing Max: the "-sya" ending on "ponravilos" ("pleased, was liked") turns the action inward or makes it happen between people naturally.
+- 'Is it really normal to say that?' Max presses wryly if there is more going on behind the scenes.

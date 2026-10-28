@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She threatened to say that I undressed her?' Barinov prompts candidly during the talk, building the phrase around "ugrozhala" ("threatened") and "rasskazat" ("to tell") for a crisp, natural delivery.
-- 'Well, and when will she return?' Barinov queries warmly in front of Katya, building the phrase around "kogda" ("when") and "vernyotsya" ("will return") for a crisp, natural delivery.
-- 'I do not know, she said she would go to the Metropol for an hour.' Katya shows a firm direction across the room, using "znayu" (from "znat", "know") alongside "skazala" ("told") to shape the meaning.
-- 'I gave her my cell phone just in case.' Katya projects an easygoing attitude as they talk, anchoring the Russian line on "mobilnik" ("cell phone") and "dala" ("gave") without extra filler.
-- 'Oh, someone is knocking!' Katya conveys a thoughtful course at this moment, using "stuchit" (from "stuchat", "is knocking") alongside "oy" ("oh") to shape the meaning.
-- 'Yulya, it is time for dinner.' Barinov takes a candid attitude straight away, putting "pora" ("it's time") alongside "uzhin" ("dinner") in a tight, everyday turn of phrase.
-- 'Hello, Dad, I am doomed!' Katya holds a clear mood across the room, joining "papa" ("Dad") to "konets" ("end") so every word pulls its weight.
-- 'They called me to dinner!' Katya maintains a measured attitude during the exchange, combining "uzhin" ("dinner") and "pozvali" ("called") so the key meaning lands right away.
-- 'Alright, calm down.' Barinov projects a lively style on the spot, using "uspokoysya" (from "uspokoitsya", "calm down") alongside "tak" ("so") to shape the meaning.
-- 'Find her clothes and put them on.' Barinov presents a grounded approach in the scene, putting "naydi" ("find") alongside "odezhdu" ("clothes") in a tight, everyday turn of phrase.
-- 'Dad, I am very scared!' Katya shares a measured note beside Barinov, putting "papa" ("Dad") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'Do not be afraid, I will think of something.' Barinov establishes a pointed angle right away, combining "boysya" ("be afraid") and "pridumayu" ("will come up with") so the key meaning lands right away.
+- 'She threatened to say that I undressed her?' Barinov directs the reply with warmth: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Well, and when will she return?' Barinov wonders openly while looking straight at Katya here.
+- 'I do not know, she said she would go to the Metropol for an hour.' Katya grounds this clear element for Barinov: "chasik" means "an hour or so", and it carries the main weight of what Katya is saying.
+- 'I gave her my cell phone just in case.' Katya jumps in firmly to settle things, letting the remark speak for itself.
+- 'Oh, someone is knocking!' Katya fires back honestly watching Barinov, without trying to dress up how she really feels.
+- 'Yulya, it is time for dinner.' Barinov points to one memorable piece in reply: "uzhin" means "dinner", and it carries the main weight of what Barinov is saying.
+- 'Hello, Dad, I am doomed!' Katya puts this update beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They called me to dinner!' Katya chimes in lightly to be clear, testing Barinov's reaction in the middle of the exchange.
+- 'Alright, calm down.' Barinov leans on one pointed piece for Katya: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'Find her clothes and put them on.' Barinov follows up openly with Katya, making his position completely clear.
+- 'Dad, I am very scared!' Katya opens up dryly facing Barinov, grounding the moment in plain reality.
+- 'Do not be afraid, I will think of something.' Barinov centers one key word for Katya: "pridumayu" means "will come up with" (from "pridumat"), giving the line its exact edge.

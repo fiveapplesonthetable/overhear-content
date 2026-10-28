@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, where did you come from?' Katya queries lightly during the talk, joining "otkuda" ("where from") to "vzyalsya" ("appeared, came from") so every word pulls its weight.
-- 'From your subconscious, I must tell you an important thing.' Senya establishes a firm line in their talk, putting "podsoznaniya" ("subconscious") alongside "dolzhen" ("has to, must") in a tight, everyday turn of phrase.
-- 'Have a bite to eat, please.' Senya brings an easygoing line on the spot, building the phrase around "zakusyvay" ("have a bite") and "pozhaluysta" ("please") for a crisp, natural delivery.
-- 'I only have these things for fresh breath.' Katya establishes a measured tack without hesitation, putting "tolko" ("only") alongside "shtuki" ("thing, piece") in a tight, everyday turn of phrase.
-- 'The investigation has gathered enough facts to draw conclusions.' Senya brings a steady tack on the spot, linking "sledstviye" ("investigation"), "nabralo" ("to gather, rack up"), and "dostatochno" ("enough") in one brisk exchange.
-- 'Hurry up, we have plenty of orders.' Lyova offers a playful footing without hesitation, linking "bystreye" ("faster"), "davay" ("let's"), and "zakazov" ("orders") in one brisk exchange.
-- 'Orders will wait, but the truth will not.' Senya adopts a pointed mood in the conversation, leaning on "zakazy" ("orders") before closing the thought with "podozhdut" ("wait").
-- 'Lyova put our fish on the shelf in the cooler.' Senya displays a candid approach as the scene unfolds, putting "polozhil" ("laid, put down") alongside "rybu" ("fish") in a tight, everyday turn of phrase.
-- 'Then Fedya entered the game, who needed flounder.' Senya favors a natural tempo without hesitation, linking "zatem" ("then, after that"), "igru" ("game"), and "vstupil" ("entered, stepped into") in one brisk exchange.
-- 'Fedya did not even notice how the fish tumbled down.' Senya strikes a direct manner in their talk, joining "zametil" ("noticed") to "kak" ("how") so every word pulls its weight.
-- 'From the shelf into the empty boxes.' Senya conveys a wry stance without hesitation, linking "polki" ("shelves"), "pustyye" ("empty"), and "korobki" ("boxes") in one brisk exchange.
-- 'Anyone else would have heard the sound of the fall, but not our music lover.' Senya keeps a natural approach at this moment, anchoring the Russian line on "lyuboy" ("any") and "drugoy" ("other") without extra filler.
+- 'Denis, where did you come from?' Watch how Katya speaks to Lyova without pause — the Russian word "vzyalsya" ("appeared, came from", built from "vzyatsya") does the heavy lifting.
+- 'From your subconscious, I must tell you an important thing.' Senya cuts in evenly with a smile, without trying to dress up how he really feels.
+- 'Have a bite to eat, please.' Senya continues at once with a smile, keeping the focus on what actually matters here.
+- 'I only have these things for fresh breath.' Katya chooses one loaded expression in earnest: "dykhaniya" means "breath" (from "dykhaniye"), giving the line its exact edge.
+- 'The investigation has gathered enough facts to draw conclusions.' Senya continues firmly around Katya, before Katya can change the subject.
+- 'Hurry up, we have plenty of orders.' Lyova weighs in wryly watching Senya, to clear the air between them once and for all.
+- 'Orders will wait, but the truth will not.' Senya highlights one key detail right here: "podozhdut" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Lyova put our fish on the shelf in the cooler.' Senya pushes back wryly before Lyova, letting the remark speak for itself.
+- 'Then Fedya entered the game, who needed flounder.' Senya speaks up right away toward Katya, so Katya knows he is not just making small talk.
+- 'Fedya did not even notice how the fish tumbled down.' Senya underscores one familiar touch in reply: "svalilas" means "fell, tumbled down" (from "svalitsya"), giving the line its exact edge.
+- 'From the shelf into the empty boxes.' Senya fires back candidly without any doubt, making his position completely clear.
+- 'Anyone else would have heard the sound of the fall, but not our music lover.' Senya counters plainly with a shrug, grounding the moment in plain reality.

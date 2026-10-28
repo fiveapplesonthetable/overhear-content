@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We called him, we thought he was with Vika!' Max shares an honest course in the scene, pairing "zvonili" ("called") with "podumali" ("thought") to get the point across in plain spoken Russian.
-- 'Well, to be honest...' Senya brings a warm direction in front of Max, pairing "chestno" ("honestly") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Well, tell me, why did a ring appear instead of a pendant?' Barinov quizzes frankly toward Max here, combining "skazhite" ("tell") and "pochemu" ("why") so the key meaning lands right away.
-- 'Chef, we thought that you wanted to make a proposal.' Senya conveys an honest approach without hesitation, linking "dumali" ("thought"), "predlozheniye" ("offer, proposal"), and "khotite" ("want") in one brisk exchange.
-- 'We lost your gift and bought a ring.' Senya picks a wry angle as the scene unfolds, anchoring the Russian line on "podarok" ("gift, voucher") and "poteryali" ("lost") without extra filler.
-- 'You have just ruined my whole life!' Barinov sustains a firm angle at this moment, leaning on "zhizn" ("life") before closing the thought with "seychas" ("now").
-- 'Chef, or maybe you ruin everything yourself?' Max inquires wryly from the start, anchoring the Russian line on "mozhet" ("can") and "portish" ("ruin, spoil") without extra filler.
-- 'Say thank you that they gave you a chance.' Max shares a serious manner for Senya, weaving "skazhi" ("say") together with "spasibo" ("thank you") just the way native speakers do.
-- 'To do the right thing for once in your life!' Max sets a wry note for Barinov, anchoring the Russian line on "raz" ("time, once") and "zhizni" ("life") without extra filler.
-- 'Once in my life?' Barinov presses plainly at this point, weaving "raz" ("time, once") together with "zhizni" ("life") just the way native speakers do.
-- 'Exactly so, chef.' Max adopts an emphatic view beside Barinov, joining "imenno" ("exactly, precisely") to "tak" ("so") so every word pulls its weight.
-- 'Where is Elena right now?' Barinov checks quietly for Senya's benefit, building the phrase around "gde" ("where") and "seychas" ("now") for a crisp, natural delivery.
+- 'We called him, we thought he was with Vika!' Max opens up bluntly to be clear, saying out loud what both of them already know.
+- 'Well, to be honest...' Senya centers this clear piece at once: "chestno" means "honestly", and it carries the main weight of what Senya is saying.
+- 'Well, tell me, why did a ring appear instead of a pendant?' Barinov offers this update briskly now: the "-sya" ending on "poyavilos" ("appeared") turns the action inward or makes it happen between people naturally.
+- 'Chef, we thought that you wanted to make a proposal.' Senya fires back evenly with Max, saying out loud what both of them already know.
+- 'We lost your gift and bought a ring.' Senya anchors one classic piece in reply: "podarok" means "gift, voucher", and it carries the main weight of what Senya is saying.
+- 'You have just ruined my whole life!' Barinov uses one colorful detail with Senya: "zhizn" means "life", and it carries the main weight of what Barinov is saying.
+- 'Chef, or maybe you ruin everything yourself?' Max prompts plainly if there is more going on behind the scenes.
+- 'Say thank you that they gave you a chance.' Max spotlights this vivid term toward Senya: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
+- 'To do the right thing for once in your life!' Max answers right away as things stand, making his position completely clear.
+- 'Once in my life?' Barinov tests evenly what Senya is actually getting at here.
+- 'Exactly so, chef.' Max hands over this point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Where is Elena right now?' Barinov frames this line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

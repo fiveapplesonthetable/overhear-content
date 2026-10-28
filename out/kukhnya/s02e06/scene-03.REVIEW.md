@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh come on, relax.' Barinov presents a clear attitude without hesitation, combining "rasslabsya" ("relax") and "da" ("yes") so the key meaning lands right away.
-- 'Man, I really am some kind of idiot.' Nastya maintains a candid manner as they talk, linking "blin" ("damn") directly with "realno" ("really possible"), since Russian drops "is" and "are" in the present.
-- 'I am always screwing up in front of the Chef.' Barinov shares a calm course with Max, putting "vechno" ("always") alongside "shefom" ("chef") in a tight, everyday turn of phrase.
-- 'Every one of us has screwed up in front of him at some point.' Nastya keeps a calm stance as the scene unfolds, building the phrase around "kogda-to" ("once, at one time") and "lazhali" ("to mess up") for a crisp, natural delivery.
-- 'Do not sweat it.' Barinov favors a lively manner in this beat, weaving "parsya" ("to steam oneself in a bathhouse") together with "ne" ("not") just the way native speakers do.
-- 'You bet we have.' Nastya conveys a natural rhythm in the room, leaning on "to" ("that") as a compact, one-word response that needs no extra words.
-- 'Here is my resume.' Barinov favors a lively note beside Max, anchoring the Russian line on "rezyume" ("résumé") and "vot" ("there, here") without extra filler.
-- 'A real cook does not need any resume.' Nastya adopts a resolute angle as they talk, pairing "nastoyashchemu" ("real, genuine") with "povaru" ("cook, chef") to get the point across in plain spoken Russian.
-- 'You can tell right away by looking in his eyes.' Barinov establishes an honest mood toward Max, combining "srazu" ("at once") and "vidno" ("one can see") so the key meaning lands right away.
-- 'I saw your potential immediately.' Max sustains a grounded approach with Nastya, putting "srazu" ("at once") alongside "uvidel" ("saw") in a tight, everyday turn of phrase.
-- 'Welcome to the team, son.' Barinov offers a candid bearing without hesitation, pairing "dobro" ("good, kindness") with "pozhalovat" ("to welcome") to get the point across in plain spoken Russian.
-- 'Thank you, Chef.' Nastya strikes a steady tack in front of Max, combining "spasibo" ("thank you") and "shef" ("Chef") so the key meaning lands right away.
-- 'Well, sit right here, and I will be right back.' Barinov conveys a serious approach in their talk, leaning on "zdes" ("here") before closing the thought with "posidi" ("stay").
+- 'Oh come on, relax.' Barinov follows up calmly with a nod, letting the remark speak for itself.
+- 'Man, I really am some kind of idiot.' Nastya colors one concrete expression with Max: "idiot" means "idiot", and it carries the main weight of what Nastya is saying.
+- 'I am always screwing up in front of the Chef.' Barinov opens up bluntly facing Max, letting the remark speak for itself.
+- 'Every one of us has screwed up in front of him at some point.' Nastya counters firmly with Max, before Max can change the subject.
+- 'Do not sweat it.' Barinov sharpens one telling touch for Max: "parsya" means "to steam oneself in a bathhouse" (from "paritsya"), giving the line its exact edge.
+- 'You bet we have.' Nastya makes that remark at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Here is my resume.' Barinov speaks up wryly with a sigh, saying out loud what both of them already know.
+- 'A real cook does not need any resume.' Nastya spotlights one clear detail toward Max: "nastoyashchemu" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
+- 'You can tell right away by looking in his eyes.' Barinov cuts in promptly without any doubt, making his position completely clear.
+- 'I saw your potential immediately.' Max stands firm wryly beside Nastya, leaving no doubt about where he stands.
+- 'Welcome to the team, son.' Barinov focuses on one clear word at once: "pozhalovat" means "to welcome", and it carries the main weight of what Barinov is saying.
+- 'Thank you, Chef.' Nastya shares that point to Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Well, sit right here, and I will be right back.' Barinov fires back promptly around Max, grounding the moment in plain reality.

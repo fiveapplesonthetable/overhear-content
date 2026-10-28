@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Young man, hold on, this is for psychological effect!' Barinov establishes an easygoing tack at this moment, linking "molodoy" ("young"), "chelovek" ("a man, a person"), and "postoyte" ("wait") in one brisk exchange.
-- 'What are you doing, take your hands off me immediately!' The guest projects a measured style for Lyova, weaving "delayete" ("are doing") together with "nemedlenno" ("immediately") just the way native speakers do.
-- 'Listen to me carefully, you will not work here!' Barinov conveys a natural approach during the exchange, using "slushay" (from "slushat", "listen") alongside "vnimatelno" ("carefully, attentively") to shape the meaning.
-- 'Did you understand me well right now, young man?' Barinov challenges quietly beside Lyova, pairing "seychas" ("now") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
-- 'If we see you here one more time...' Barinov sets a wry view in the scene, combining "zdes" ("here") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'This cook right here will immediately break your nose!' Barinov takes a grounded stance in their talk, anchoring the Russian line on "povar" ("chef, cook") and "srazu" ("at once") without extra filler.
-- 'Lyova, tell him, you will definitely break it, right?' Barinov tests boldly across the room, leaning on "skazhi" ("say") before closing the thought with "tochno" ("definitely").
-- 'And do not tell anyone about our conversation today!' Barinov adopts a resolute angle without hesitation, combining "razgovor" ("conversation") and "segodnya" ("today") so the key meaning lands right away.
-- 'Yes, I understood everything, just let me go!' The guest establishes a steady tempo beside Barinov, combining "ponyal" ("understood") and "tolko" ("only") so the key meaning lands right away.
-- 'Quiet, sit in your seat, Elena is coming this way!' Barinov keeps an earnest direction in the conversation, anchoring the Russian line on "tikho" ("easy, quiet") and "syad" ("sit down") without extra filler.
-- 'Lyova, get in the car quickly and do not make noise!' Barinov sets a frank tack right away, combining "bystro" ("quickly") and "sadis" ("sit down") so the key meaning lands right away.
-- 'Viktor Petrovich, it seems she is going to spot us right now!' Lyova favors a grounded position without hesitation, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "seychas" ("now") to shape the meaning.
+- 'Young man, hold on, this is for psychological effect!' Barinov cuts in openly during the talk, letting the remark speak for itself.
+- 'What are you doing, take your hands off me immediately!' The guest sharpens one pointed expression toward Lyova: "nemedlenno" means "immediately", and it carries the main weight of what the guest is saying.
+- 'Listen to me carefully, you will not work here!' Barinov leans on this key detail on cue: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Barinov is saying.
+- 'Did you understand me well right now, young man?' Barinov checks promptly while looking straight at Lyova here.
+- 'If we see you here one more time...' Barinov spotlights one concrete detail toward the guest: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
+- 'This cook right here will immediately break your nose!' Barinov uses one vivid piece in reply: "slomayet" means "to break" (from "slomat"), giving the line its exact edge.
+- 'Lyova, tell him, you will definitely break it, right?' Barinov tests sharply about what the guest just brought up.
+- 'And do not tell anyone about our conversation today!' Barinov frames one memorable word toward Lyova: "razgovor" means "conversation", and it carries the main weight of what Barinov is saying.
+- 'Yes, I understood everything, just let me go!' The guest cuts in at once beside Barinov, to clear the air between them once and for all.
+- 'Quiet, sit in your seat, Elena is coming this way!' Barinov counters honestly without a pause, keeping the focus on what actually matters here.
+- 'Lyova, get in the car quickly and do not make noise!' Barinov highlights one colorful element on cue: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
+- 'Viktor Petrovich, it seems she is going to spot us right now!' Lyova puts that thought facing the guest: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.

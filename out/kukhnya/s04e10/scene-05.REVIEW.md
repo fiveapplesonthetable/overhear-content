@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Comb the entire restaurant quickly!' Nagiyev brings a pointed position straight away, leaning on "procheshite" ("to comb") before closing the thought with "bystro" ("quickly").
-- 'Did I say something funny?' Nagiyev queries warmly in front of Senya, pairing "skazal" ("said") with "smeshnoye" ("funny, ridiculous") to get the point across in plain spoken Russian.
-- 'Well yes, very funny.' The guest establishes an earnest style in the conversation, pairing "ochen" ("very much") with "smeshno" ("ridiculous") to get the point across in plain spoken Russian.
-- 'I pictured a giant hairbrush.' The guest projects an emphatic style in the conversation, using "predstavil" (from "predstavit", "to imagine") alongside "bolshuyu" ("large, big") to shape the meaning.
-- 'Just try arguing with me!' Nagiyev establishes a brisk approach for the guest, anchoring the Russian line on "tolko" ("only") and "poprobuy" ("to try, to taste") without extra filler.
-- 'Find him for me quickly!' Nagiyev displays an earnest course as the scene unfolds, combining "bystro" ("quickly") and "naydite" ("find") so the key meaning lands right away.
-- 'Do not be afraid of a sharp knife.' Senya shows a grounded view at once, joining "boysya" ("be afraid") to "ostrogo" ("sharp, spicy") so every word pulls its weight.
-- 'Instead, be afraid of an ordinary fork!' Senya offers a measured mood in the conversation, building the phrase around "boysya" ("be afraid") and "obychnoy" ("ordinary") for a crisp, natural delivery.
-- 'One strike, four holes.' Senya conveys a measured line at this moment, anchoring the Russian line on "udar" ("blow, strike") and "dyrki" ("holes") without extra filler.
-- 'There we go, all wrapped up.' Senya picks a candid approach in this beat, putting "upakovano" ("up") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
-- 'Spring salads from Senya.' Senya strikes an honest posture across the room, linking "salaty" ("salad"), "vesenniye" ("salads"), and "seni" ("senya") in one brisk exchange.
-- 'You were whipped and defeated.' Senya strikes an earnest footing for Nagiyev, weaving "byl" ("was") together with "vzbit" ("to defeated") just the way native speakers do.
+- 'Comb the entire restaurant quickly!' Nagiyev shapes the remark with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Did I say something funny?' Nagiyev probes evenly why things suddenly took this turn between them.
+- 'Well yes, very funny.' The guest chooses this sharp expression at once: "smeshno" means "ridiculous", and it carries the main weight of what the guest is saying.
+- 'I pictured a giant hairbrush.' The guest drops that thought right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Just try arguing with me!' Nagiyev cuts in candidly with a sigh, keeping the focus on what actually matters here.
+- 'Find him for me quickly!' Nagiyev colors one practical touch at once: "naydite" means "find" (from "nayti"), giving the line its exact edge.
+- 'Do not be afraid of a sharp knife.' Senya puts that point with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Instead, be afraid of an ordinary fork!' Senya weighs in quietly with a smile, before Nagiyev can change the subject.
+- 'One strike, four holes.' Senya stresses one loaded expression on cue: "dyrki" means "holes", and it carries the main weight of what Senya is saying.
+- 'There we go, all wrapped up.' Senya lays out the reaction frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Spring salads from Senya.' Senya replies plainly with a sigh, keeping the focus on what actually matters here.
+- 'You were whipped and defeated.' Senya sharpens one classic term in reply: "pobezhdyon" means "defeated", and it carries the main weight of what Senya is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alas and alack, I have to go.' Barinov strikes a playful tone in the scene, combining "nado" ("it is necessary") and "idti" ("to go") so the key meaning lands right away.
-- 'They cannot do a single thing without me.' Barinov keeps a sharp position across the room, putting "mogut" ("can") alongside "nichego" ("nothing") in a tight, everyday turn of phrase.
-- 'Well, it is time for me to go too. Yes.' Elena takes a clear direction in the scene, anchoring the Russian line on "tozhe" ("too") and "pora" ("it's time") without extra filler.
-- 'Until tomorrow. Until tomorrow.' Barinov presents a calm position in front of the hostess, building the phrase around "zavtra" ("tomorrow") and "do" ("until") for a crisp, natural delivery.
-- 'Hello. Yes, Natasha.' Elena establishes a frank footing with Barinov, pairing "natasha" ("Natasha") with "allo" ("hello") to get the point across in plain spoken Russian.
-- 'I am at the Victor right now, yeah.' Elena establishes a candid posture in front of the hostess, combining "ya" ("I") and "viktorii" ("Victoria") so the key meaning lands right away.
-- 'The one inside the hotel.' Elena projects an earnest line for Barinov, weaving "otele" ("in the hotel") together with "kotoryy" ("who") just the way native speakers do.
-- 'Come on over right now.' Elena adopts a playful bearing toward the hostess, linking "davay" ("let's"), "podyezzhay" ("come on over"), and "skoreye" ("quickly, right away") in one brisk exchange.
-- 'Drive up, we will have lunch and chat.' Elena establishes a serious bearing at this moment, leaning on "podyezzhay" ("come on over") before closing the thought with "poobedayem" ("will have lunch").
-- 'Come on, I am waiting for you.' Elena projects a warm direction without hesitation, leaning on "davay" ("let's") before closing the thought with "zhdu" ("I wait, expect").
-- 'I am waiting for you in the restaurant.' Elena holds a frank style toward Barinov, joining "zhdu" ("I wait, expect") to "restorane" ("restaurant") so every word pulls its weight.
-- 'Hello, please come right in.' The hostess establishes a wry angle in their talk, combining "prokhodite" ("come in") and "zdraste" ("hello, hi") so the key meaning lands right away.
+- 'Alas and alack, I have to go.' Barinov underscores this vivid expression right here: "nado" means "it is necessary", and it carries the main weight of what Barinov is saying.
+- 'They cannot do a single thing without me.' Barinov puts that point facing the hostess: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Well, it is time for me to go too. Yes.' Elena speaks quietly in this moment, saying out loud what both of them already know.
+- 'Until tomorrow. Until tomorrow.' Barinov chooses one sharp term in reply: "zavtra" means "tomorrow", and it carries the main weight of what Barinov is saying.
+- 'Hello. Yes, Natasha.' Elena drops this line without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I am at the Victor right now, yeah.' Elena cuts in honestly without holding back, making her position completely clear.
+- 'The one inside the hotel.' Elena sharpens one concrete expression for Barinov: "otele" means "in the hotel" (from "otel"), giving the line its exact edge.
+- 'Come on over right now.' Elena puts this update with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Drive up, we will have lunch and chat.' Elena cuts in right away without holding back, without trying to dress up how she really feels.
+- 'Come on, I am waiting for you.' Elena underscores one loaded choice at once: "davay" means "let's" (from "davat"), giving the line its exact edge.
+- 'I am waiting for you in the restaurant.' Elena drops the thought in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hello, please come right in.' The hostess cuts in pointedly to settle things, shifting the whole mood of the room in a single beat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am afraid that we have no time.' Mikhail establishes a warm position straight away, leaning on "boyus" ("am afraid") before closing the thought with "vremeni" ("time").
-- 'You will suddenly have plenty of free time.' Eleonora sustains a brisk stance as they talk, weaving "svobodnogo" ("free") together with "vremeni" ("time") just the way native speakers do.
-- 'Unbelievable, ten million for infidelity.' Nagiyev favors an earnest approach in the conversation, combining "obaldet" ("unbelievable") and "izmenu" ("infidelity") so the key meaning lands right away.
-- 'I read about this matter myself.' Mikhail conveys a lively posture at this moment, weaving "chital" ("read") together with "delo" ("matter") just the way native speakers do.
-- 'Excuse me, may I get your autograph?' Mikhail wonders pointedly from the start, joining "izvinite" ("sorry, excuse me") to "mozhno" ("may, can") so every word pulls its weight.
-- 'It is for my niece.' Mikhail conveys an emphatic view beside Nagiyev, anchoring the Russian line on "plemyannitsy" ("niece") and "eto" ("this") without extra filler.
-- 'What is her name?' Nagiyev tests pointedly beside Eleonora, joining "kak" ("how") to "zovut" ("call") so every word pulls its weight.
-- 'I wish you beautiful hair.' Nagiyev conveys an easygoing manner in this beat, building the phrase around "zhelayu" ("I wish") and "krasivyye" ("beautiful") for a crisp, natural delivery.
-- 'Thank you.' Mikhail presents a candid rhythm on the spot, leaning on "spasibo" ("thank you") as a compact, one-word response that needs no extra words.
-- 'Listen, do you have a boyfriend?' Nagiyev quizzes wryly as the talk turns, joining "slushay" ("listen") to "yest" ("there is") so every word pulls its weight.
-- 'You are fired.' Eleonora conveys an honest tone during the exchange, using "uvolena" (from "uvolit", "fired") alongside "ty" ("you") to shape the meaning.
-- 'You need to work, not smile at my husband.' Eleonora holds a warm note without hesitation, building the phrase around "rabotat" ("to work") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'I am afraid that we have no time.' Mikhail points to one direct word in reply: "vremeni" means "time" (from "vremya"), giving the line its exact edge.
+- 'You will suddenly have plenty of free time.' Eleonora brings that thought before Nagiyev: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Unbelievable, ten million for infidelity.' Nagiyev speaks up decisively with a shrug, before Eleonora can change the subject.
+- 'I read about this matter myself.' Mikhail sharpens this telling word in earnest: "chital" means "read" (from "chitat"), giving the line its exact edge.
+- 'Excuse me, may I get your autograph?' Mikhail directs this update toward Eleonora: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'It is for my niece.' Mikhail fires back dryly across the room, keeping the focus on what actually matters here.
+- 'What is her name?' Nagiyev colors this vivid piece for Eleonora: "zovut" means "call" (from "zvat"), giving the line its exact edge.
+- 'I wish you beautiful hair.' Nagiyev sharpens one colorful piece right here: "krasivyye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'Thank you.' Mikhail follows up plainly on the spot, to clear the air between them once and for all.
+- 'Listen, do you have a boyfriend?' Nagiyev sharpens one vivid element on cue: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'You are fired.' Eleonora brings this statement with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'You need to work, not smile at my husband.' Eleonora proceeds calmly with a nod, saying out loud what both of them already know.

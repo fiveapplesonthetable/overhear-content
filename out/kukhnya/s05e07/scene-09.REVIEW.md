@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Senya checks candidly at this point, weaving "tut" ("here") together with "delayesh" ("are you doing") just the way native speakers do.
-- 'I work here now.' Gulya brings a lively rhythm in their talk, joining "teper" ("now") to "tut" ("here") so every word pulls its weight.
-- 'What are you working as, a cleaner?' Senya questions boldly at this point, pairing "rabotayesh" ("are working") with "uborshchitsey" ("cleaner") to get the point across in plain spoken Russian.
-- 'You are a manager, Marina, what will people say?' Senya queries firmly at this point, leaning on "menedzher" ("manager") before closing the thought with "lyudi" ("people").
-- 'And what will people say when they find out about you at work?' Gulya presses sharply to Ainura here, leaning on "lyudi" ("people") before closing the thought with "skazhut" ("will say").
-- 'Marina, I do not have any romances at work.' Senya brings a measured course across the room, leaning on "romanov" ("romance, novel") before closing the thought with "rabote" ("work").
-- 'I am going to work here now until the end of my vacation.' Gulya establishes a frank view beside Ainura, putting "teper" ("now") alongside "budu" ("will be") in a tight, everyday turn of phrase.
-- 'Is everything clear to you?' Gulya tests lightly across the room, putting "ponyatno" ("clear") alongside "tebe" ("for you, to you") in a tight, everyday turn of phrase.
-- 'Why did you hire her?' Senya asks frankly without hesitation, anchoring the Russian line on "zachem" ("what for") and "rabotu" ("job") without extra filler.
-- 'So people do not say that we took jobs away from the locals.' Ainura holds a sharp bearing in the room, weaving "govorili" ("talked") together with "mestnykh" ("local") just the way native speakers do.
-- 'And I am also curious how this soap opera will end.' Ainura keeps a frank attitude in the conversation, linking "yeshchyo" ("more, still"), "interesno" ("interesting"), and "zakonchitsya" ("will end") in one brisk exchange.
-- 'Come on, I will show you the washing machine.' Ainura sets an unhurried footing during the exchange, pairing "poshli" ("let's go") with "stiralku" ("washing machine") to get the point across in plain spoken Russian.
+- 'What are you doing here?' Senya quizzes candidly where this conversation is heading next.
+- 'I work here now.' Gulya chooses one memorable expression at once: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
+- 'What are you working as, a cleaner?' Senya gives that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
+- 'You are a manager, Marina, what will people say?' Senya checks wryly whether Gulya really thought this through.
+- 'And what will people say when they find out about you at work?' Gulya chooses this vivid word with Ainura: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'Marina, I do not have any romances at work.' Senya phrases the comeback on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I am going to work here now until the end of my vacation.' Gulya cuts in openly to be clear, shifting the whole mood of the room in a single beat.
+- 'Is everything clear to you?' Gulya points to one pointed piece right here: "ponyatno" means "clear", and it carries the main weight of what Gulya is saying.
+- 'Why did you hire her?' Senya brings this answer frankly here: putting the question word "zachem" right at the front of the line lets Ainura hear the point of the question on the very first beat.
+- 'So people do not say that we took jobs away from the locals.' Ainura proceeds plainly with a sigh, grounding the moment in plain reality.
+- 'And I am also curious how this soap opera will end.' Ainura stresses this sharp word at once: "zakonchitsya" means "will end", and it carries the main weight of what Ainura is saying.
+- 'Come on, I will show you the washing machine.' Ainura gives the remark without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora Andreyevna, did you call for me?' Vika checks quietly during the talk, putting "zvali" ("called") alongside "eleonora" ("Eleonora") in a tight, everyday turn of phrase.
-- 'Yes, Victoria.' Eleonora picks a thoughtful footing without hesitation, weaving "da" ("yes") together with "viktoriya" ("Victoria") just the way native speakers do.
-- 'I persuaded a famous person to hold a wedding here.' Eleonora sustains a serious rhythm during the exchange, weaving "ugovorila" ("persuaded") together with "mediynogo" ("media, famous") just the way native speakers do.
-- 'Everything is clear, we will do it at the highest level.' Vika picks a grounded line in the conversation, leaning on "yasno" ("clear, got it") before closing the thought with "sdelayem" ("we'll do").
-- 'And here is our groom.' Eleonora holds a playful mood in the room, anchoring the Russian line on "zhenikh" ("groom, fiancé") and "vot" ("there, here") without extra filler.
-- 'What smells you have in the restroom.' Nagiyev displays an honest rhythm in the room, pairing "zapakhi" ("smells, scents") with "tualete" ("the toilet") to get the point across in plain spoken Russian.
-- 'Everything smells nice, even the paper.' Nagiyev shares an unhurried tack straight away, leaning on "pakhnet" ("it smells") before closing the thought with "bumazhka" ("slip of paper").
-- 'No, it is mango.' Eleonora holds an emphatic course across the room, weaving "mango" ("mango") together with "net" ("no") just the way native speakers do.
-- 'Alright, let us move on to small details, to my wedding.' Nagiyev keeps a calm view in their talk, linking "pereydyom" ("to cross, switch"), "melocham" ("small details"), and "svadbe" ("wedding") in one brisk exchange.
-- 'She did not even tell me who the child's father is.' Vika shares a pointed stance toward Nagiyev, joining "skazala" ("told") to "otets" ("father") so every word pulls its weight.
-- 'Hey, do not go so heavy on that, you still have a train to catch.' Nagiyev picks a thoughtful view in the room, pairing "nalegay" ("go heavy, lean into") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'I am not the train driver, after all.' Vika holds a serious position as they talk, linking "mashinist" ("train driver"), "ya" ("I"), and "zhe" ("but, after all") in one brisk exchange.
+- 'Eleonora Andreyevna, did you call for me?' Vika wonders promptly whether Eleonora really thought this through.
+- 'Yes, Victoria.' Eleonora frames that remark with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I persuaded a famous person to hold a wedding here.' Eleonora sends this line right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Everything is clear, we will do it at the highest level.' Vika holds firm firmly with Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'And here is our groom.' Eleonora points to this clear word at once: "zhenikh" means "groom, fiancé", and it carries the main weight of what Eleonora is saying.
+- 'What smells you have in the restroom.' Nagiyev delivers this line before Vika: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Everything smells nice, even the paper.' Nagiyev opens up firmly to settle things, so Eleonora knows he is not just making small talk.
+- 'No, it is mango.' Eleonora grounds one loaded piece on cue: "mango" means "mango", and it carries the main weight of what Eleonora is saying.
+- 'Alright, let us move on to small details, to my wedding.' Nagiyev directs the remark on cue: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Eleonora is on board.
+- 'She did not even tell me who the child's father is.' Vika opens up earnestly in this moment, leaving no doubt about where she stands.
+- 'Hey, do not go so heavy on that, you still have a train to catch.' Nagiyev leans on one vivid word in earnest: "yeshchyo" means "more, still", and it carries the main weight of what Nagiyev is saying.
+- 'I am not the train driver, after all.' Vika frames the reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

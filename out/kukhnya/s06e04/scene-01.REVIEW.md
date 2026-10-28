@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you everyone, the session is over.' Eleonora favors a candid note as they talk, putting "spasibo" ("thank you") alongside "urok" ("lesson") in a tight, everyday turn of phrase.
-- 'Are we going to go through this every morning now?' Barinov probes promptly in the room, weaving "teper" ("now") together with "kazhdoye" ("every, each") just the way native speakers do.
-- 'Studies showed that the day should start with classical music.' Eleonora conveys an earnest mood in front of Barinov, joining "issledovaniya" ("studies, research") to "pokazali" ("showed") so every word pulls its weight.
-- 'Then labor productivity increases.' Eleonora shows a clear line in their talk, leaning on "togda" ("back then") before closing the thought with "proizvoditelnost" ("productivity").
-- 'I simply did not understand the idea right away.' Barinov shares a wry rhythm with Eleonora, pairing "prosto" ("just") with "ideyu" ("idea") to get the point across in plain spoken Russian.
-- 'And it made me want my mom to hug me.' Louis sets a serious tone in the conversation, anchoring the Russian line on "zakhotelos" ("felt like having") and "mama" ("mum, mother") without extra filler.
-- 'Thank you everyone, let's get to work.' Eleonora sets an easygoing tack in the scene, linking "spasibo" ("thank you"), "rabotayem" ("we work, let's work"), and "vsem" ("everyone") in one brisk exchange.
-- 'Eleonora Andreyevna, my father wrote to me.' Louis brings a sharp rhythm in the room, pairing "otets" ("father") with "napisal" ("wrote") so the "-sya" ending carries the action.
-- 'There was an inspector at their restaurant.' Louis picks an honest angle without hesitation, pairing "restorane" ("restaurant") with "byl" ("was") to get the point across in plain spoken Russian.
-- 'If he is in Moscow, then he will stop by our place too.' Louis holds a clear course across the room, joining "zaydet" ("will stop by") to "yesli" ("if") so every word pulls its weight.
-- 'This is our chance to get a star!' Barinov shows a resolute tack in their talk, leaning on "shans" ("chance") before closing the thought with "poluchit" ("to get, to receive").
-- 'Be ready today!' Eleonora chooses a lively stance toward Louis, leaning on "budte" ("be") before closing the thought with "gotovy" ("ready").
+- 'Thank you everyone, the session is over.' Eleonora emphasizes this clear term on cue: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
+- 'Are we going to go through this every morning now?' Barinov hands over this warning without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
+- 'Studies showed that the day should start with classical music.' Eleonora fires back bluntly without any doubt, grounding the moment in plain reality.
+- 'Then labor productivity increases.' Eleonora centers this sharp piece right here: "proizvoditelnost" means "productivity", and it carries the main weight of what Eleonora is saying.
+- 'I simply did not understand the idea right away.' Barinov voices that remark beside Eleonora: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And it made me want my mom to hug me.' Louis answers at once beside Eleonora, leaving no doubt about where he stands.
+- 'Thank you everyone, let's get to work.' Eleonora picks this sharp detail at once: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
+- 'Eleonora Andreyevna, my father wrote to me.' Louis continues openly around Eleonora, to clear the air between them once and for all.
+- 'There was an inspector at their restaurant.' Louis holds firm promptly with a shrug, so Barinov knows he is not just making small talk.
+- 'If he is in Moscow, then he will stop by our place too.' Louis focuses on one sharp touch on cue: "zaydet" means "will stop by" (from "zayti"), giving the line its exact edge.
+- 'This is our chance to get a star!' Barinov steps in firmly without holding back, to clear the air between them once and for all.
+- 'Be ready today!' Eleonora responds decisively in their talk, refusing to let the moment slip past.

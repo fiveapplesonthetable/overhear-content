@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The most unpleasant situation is in our restaurant.' Eleonora favors a measured line across the room, linking "samaya" ("most"), "nepriyatnaya" ("unpleasant"), and "situatsiya" ("situation") in one brisk exchange.
-- 'Right now we are practically operating at a loss.' Eleonora picks a firm tone on the spot, combining "seychas" ("now") and "fakticheski" ("practically") so the key meaning lands right away.
-- 'Oh, here they have brought my lunch!' Nagiyev presents an earnest approach in their talk, weaving "obed" ("lunch") together with "prinesli" ("brought") just the way native speakers do.
-- 'I asked you a very important question.' Eleonora shows an earnest manner without hesitation, pairing "vopros" ("question, matter") with "zadala" ("asked") so the "-sya" ending carries the action.
-- 'Why did such a situation arise for us?' Eleonora wonders honestly in their exchange, leaning on "pochemu" ("why") before closing the thought with "voznikla" ("to arise, emerge").
-- 'Auteur cuisine costs us very dearly.' Barinov sustains a grounded view as they talk, linking "ochen" ("very much"), "dorogo" ("expensive"), and "obkhoditsya" ("costs, comes to") in one brisk exchange.
-- 'Guests are unhappy with the small size of the dishes.' Eleonora holds a direct manner in front of Barinov, building the phrase around "gostey" ("guests") and "ustraivayet" ("to organize") for a crisp, natural delivery.
-- 'The portion on the plate is tiny.' Nagiyev holds an emphatic mood straight away, combining the intensifier "sovsem" ("completely, at all") with "portsiya" ("portion, serving") to give the line its natural spoken rhythm.
-- 'What sensible proposals do you have?' Eleonora presses calmly in the scene, leaning on "yest" ("there is") before closing the thought with "delnyye" ("sensible, practical").
-- 'We can cut our expenses a little.' Barinov presents a thoughtful note straight away, building the phrase around "mozhno" ("may, can") and "nemnogo" ("a bit") for a crisp, natural delivery.
-- 'Let us bring back the good old menu.' Nagiyev projects a direct tack toward Barinov, leaning on "davayte" ("let's") before closing the thought with "vernyom" ("will return").
-- 'Then people will flock back to us again.' Nagiyev favors an honest style right away, leaning on "togda" ("back then") before closing the thought with "narod" ("the people").
+- 'The most unpleasant situation is in our restaurant.' Eleonora speaks up evenly around Barinov, so Barinov knows she is not just making small talk.
+- 'Right now we are practically operating at a loss.' Eleonora chooses this direct detail for Nagiyev: "fakticheski" means "practically", and it carries the main weight of what Eleonora is saying.
+- 'Oh, here they have brought my lunch!' Nagiyev follows up openly with a smile, steering the talk right where he wants it.
+- 'I asked you a very important question.' Eleonora steps in plainly without any doubt, watching Nagiyev's face to see how the news lands.
+- 'Why did such a situation arise for us?' Eleonora sharpens one memorable touch for Barinov: "situatsiya" means "situation", and it carries the main weight of what Eleonora is saying.
+- 'Auteur cuisine costs us very dearly.' Barinov stands firm firmly without a pause, watching Nagiyev's face to see how the news lands.
+- 'Guests are unhappy with the small size of the dishes.' Eleonora proceeds wryly as they talk, refusing to let the moment slip past.
+- 'The portion on the plate is tiny.' Nagiyev grounds one vivid term in reply: "malenkaya" means "small" (from "malenkiy"), giving the line its exact edge.
+- 'What sensible proposals do you have?' Eleonora shares the comeback right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'We can cut our expenses a little.' Barinov follows up decisively with a shrug, saying out loud what both of them already know.
+- 'Let us bring back the good old menu.' Nagiyev favors this telling touch with Barinov: "staroye" means "old" (from "staryy"), giving the line its exact edge.
+- 'Then people will flock back to us again.' Nagiyev shapes that reply plainly here: the "-sya" ending on "potyanetsya" ("will flock") turns the action inward or makes it happen between people naturally.

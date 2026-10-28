@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have a good plan too.' Katya responds naturally beside Max, using the everyday "u menya" ("by me") alongside "tozhe" ("too") to show what belongs to the speaker.
-- 'Let's go destroy the evidence quickly.' Katya picks an easygoing approach in the scene, pairing "poydyom" ("let's go") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.
-- 'Falling off this sofa hurts a lot.' Nagiyev favors a lively tack on the spot, leaning on "padat" ("to fall") before closing the thought with "divana" ("sofa, couch").
-- 'And sleeping on it is lonely.' Nagiyev shows an honest stance right away, linking "spat" ("sleep"), "odinoko" ("lonely"), and "na" ("on, onto") in one brisk exchange.
-- 'Pick up the sofa and carry it out of here.' Nagiyev picks an emphatic style as they talk, leaning on "vzyali" ("took, arrested") before closing the thought with "divan" ("sofa, couch").
-- 'The warm blanket is a gift for you.' Nagiyev chooses a frank style in the room, building the phrase around "tyoplyy" ("warm") and "pled" ("blanket, throw") for a crisp, natural delivery.
-- 'In short, six bottles of expensive alcohol.' Katya conveys a steady footing in front of Max, joining "obshchem" ("short, so") to "butylok" ("bottles") so every word pulls its weight.
-- 'Three of them were smashed, three were carried off.' Katya chooses a natural tempo in their talk, anchoring the Russian line on "razbili" ("smashed, wrecked") and "unesli" ("to carry away") without extra filler.
-- 'Let's go watch the camera recordings.' Katya displays an easygoing line during the exchange, combining "poydyom" ("let's go") and "smotret" ("to watch") so the key meaning lands right away.
-- 'How are we going to erase this?' Katya queries frankly in front of Nagiyev, putting "kak" ("how") alongside "stirat" ("to do the washing") in a tight, everyday turn of phrase.
-- 'Wait, I will be right back.' Max maintains an emphatic manner without hesitation, anchoring the Russian line on "podozhdi" ("wait") and "seychas" ("now") without extra filler.
-- 'Where did you run off to right now?' Katya quizzes briskly at this point, pairing "seychas" ("now") with "kuda" ("where to") so the "-sya" ending carries the action.
-- 'I urgently need the restroom.' Max picks a warm tack straight away, leaning on "srochno" ("urgent, urgently") before closing the thought with "nuzhno" ("necessary").
-- 'Great, you picked a fine time!' Katya displays a resolute rhythm in the scene, building the phrase around "tozhe" ("too") and "nashyol" ("found") for a crisp, natural delivery.
+- 'I have a good plan too.' Katya directs the remark beside Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Let's go destroy the evidence quickly.' Katya holds firm bluntly beside Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Falling off this sofa hurts a lot.' Nagiyev stresses one classic detail for Katya: "divana" means "sofa, couch" (from "divan"), giving the line its exact edge.
+- 'And sleeping on it is lonely.' Nagiyev steps in honestly on the spot, making his position completely clear.
+- 'Pick up the sofa and carry it out of here.' Nagiyev holds firm decisively facing Katya, keeping the focus on what actually matters here.
+- 'The warm blanket is a gift for you.' Nagiyev chooses one familiar touch on cue: "tyoplyy" means "warm", and it carries the main weight of what Nagiyev is saying.
+- 'In short, six bottles of expensive alcohol.' Katya fires back candidly to settle things, to clear the air between them once and for all.
+- 'Three of them were smashed, three were carried off.' Katya responds promptly with a smile, so Nagiyev knows she is not just making small talk.
+- 'Let's go watch the camera recordings.' Katya colors one sharp piece in reply: "zapisi" means "recordings" (from "zapis"), giving the line its exact edge.
+- 'How are we going to erase this?' Katya states this point with ease: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Wait, I will be right back.' Max chimes in right away before Katya, refusing to let the moment slip past.
+- 'Where did you run off to right now?' Katya emphasizes one direct detail in reply: "pobezhal" means "ran off" (from "pobezhat"), giving the line its exact edge.
+- 'I urgently need the restroom.' Max lays out this warning with ease: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Great, you picked a fine time!' Katya pushes back candidly before Nagiyev, testing Nagiyev's reaction in the middle of the exchange.

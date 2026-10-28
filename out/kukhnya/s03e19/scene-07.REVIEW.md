@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my number, call me tonight.' The hostess shares a grounded angle right away, pairing "nomer" ("number") with "pozvoni" ("call") to get the point across in plain spoken Russian.
-- 'Miss, actually I am not sitting here alone.' Max brings a serious style without hesitation, anchoring the Russian line on "devushka" ("girlfriend") and "voobshche-to" ("actually") without extra filler.
-- 'Well that is fine, call me when you are alone.' The hostess holds a frank mood on the spot, weaving "pozvoni" ("call") together with "kogda" ("when") just the way native speakers do.
-- 'Well how are you here, have you not died of boredom yet?' Vika quizzes briskly with Max now, linking "kak" ("how"), "tut" ("here"), and "yeshchyo" ("more, still") in one brisk exchange.
-- 'Not of boredom, but I am about to die of hunger right now.' Max offers a sharp rhythm at this moment, pairing "seychas" ("now") with "toski" ("from longing") so the "-sya" ending carries the action.
-- 'Let us quickly call our waiter over here.' Max displays a direct note without hesitation, pairing "davay" ("let's") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.
-- 'Max, tell me, is everything alright with you right now?' Vika challenges sharply right away, linking "skazhi" ("say"), "seychas" ("now"), and "poryadke" ("order") in one brisk exchange.
-- 'Yes, everything is fine, why are you suddenly asking?' Max queries bluntly as the talk turns, building the phrase around "khorosho" ("good, fine") and "vdrug" ("suddenly, what if") for a crisp, natural delivery.
-- 'Maybe because I wanted to hear the truth from you?' Vika probes sharply to the hostess here, linking "mozhet" ("can"), "potomu" ("because"), and "khotela" ("wanted, meant") in one brisk exchange.
-- 'That girl over there hit on you and gave you her number.' Vika presents a clear rhythm in the room, putting "devushka" ("girlfriend") alongside "pristavala" ("hit on, pestered") in a tight, everyday turn of phrase.
-- 'I asked her to do it, I wanted to test how you tell the truth.' Vika adopts a pointed manner in the conversation, leaning on "poprosila" ("asked") before closing the thought with "khotela" ("wanted, meant").
-- 'Nothing happened, I threw that phone number away immediately!' Max presents a wry mood during the exchange, weaving "bylo" ("was") together with "telefon" ("phone") just the way native speakers do.
-- 'Max, telling the truth means telling me everything.' Vika offers a direct footing in this beat, leaning on "govorit" ("to talk") before closing the thought with "pravdu" ("truth").
+- 'Here is my number, call me tonight.' The hostess favors one telling touch for Max: "segodnya" means "today", and it carries the main weight of what the hostess is saying.
+- 'Miss, actually I am not sitting here alone.' Max voices that thought plainly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Well that is fine, call me when you are alone.' The hostess proceeds frankly with a sigh, keeping the focus on what actually matters here.
+- 'Well how are you here, have you not died of boredom yet?' Vika sharpens this key term for Max: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
+- 'Not of boredom, but I am about to die of hunger right now.' Max weighs in honestly without holding back, steering the talk right where he wants it.
+- 'Let us quickly call our waiter over here.' Max pushes back steadily as they talk, letting the remark speak for itself.
+- 'Max, tell me, is everything alright with you right now?' Vika leans on one practical choice at once: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Yes, everything is fine, why are you suddenly asking?' Max states the comment to Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Maybe because I wanted to hear the truth from you?' Vika questions wryly why things suddenly took this turn between them.
+- 'That girl over there hit on you and gave you her number.' Vika chooses one practical touch toward Max: "telefonchik" means "little phone", and it carries the main weight of what Vika is saying.
+- 'I asked her to do it, I wanted to test how you tell the truth.' Vika favors one concrete expression at once: "poprosila" means "asked" (from "poprosit"), giving the line its exact edge.
+- 'Nothing happened, I threw that phone number away immediately!' Max follows up evenly across the room, testing Vika's reaction in the middle of the exchange.
+- 'Max, telling the truth means telling me everything.' Vika points to this telling choice at once: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.

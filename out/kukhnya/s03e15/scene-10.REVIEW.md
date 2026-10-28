@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You let such a wonderful woman slip away, Max!' Barinov shares a firm footing as they talk, leaning on "prekrasnuyu" ("wonderful") before closing the thought with "zhenshchinu" ("a woman").
-- 'But nothing at all happened between her and Nagiyev.' Barinov adopts an emphatic stance in the room, pairing "voobshche" ("at all") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'Wait, Chef, how do you know that?' Max challenges boldly for Barinov's benefit, building the phrase around "podozhdite" ("wait") and "otkuda" ("where from") for a crisp, natural delivery.
-- 'Believe me, I know for sure!' Barinov conveys a firm mood as they talk, using "pover" (from "poverit", "believe") alongside "tochno" ("definitely") to shape the meaning.
-- 'And remember, Dima, the kitchen is real magic!' Barinov strikes a brisk rhythm at once, building the phrase around "zapomni" ("remember") and "kukhnya" ("kitchen") for a crisp, natural delivery.
-- 'We soak the rabbit in water and add wine vinegar.' Barinov keeps a wry style as the scene unfolds, anchoring the Russian line on "vymachivayem" ("soak") and "krolika" ("rabbit") without extra filler.
-- 'This will tenderize the meat and remove the unpleasant smell.' Barinov displays a pointed line as they talk, anchoring the Russian line on "smyagchit" ("will tenderize") and "myaso" ("meat") without extra filler.
-- 'Dima, when you chop onions, always chew gum.' Max strikes an unhurried direction as the scene unfolds, combining "kogda" ("when") and "rezhesh" ("cut, slice") so the key meaning lands right away.
-- 'Then you definitely will not cry from the onions.' Max projects a frank bearing in the conversation, pairing "togda" ("back then") with "tochno" ("definitely") to get the point across in plain spoken Russian.
-- 'Nastya, they just gave me a bonus, fifty thousand!' Kostya holds an unhurried attitude on the spot, leaning on "tolko" ("only") before closing the thought with "premiyu" ("bonus, prize").
-- 'And fifty thousand for you too, Vika rewarded us before leaving!' Kostya chooses a lively approach with Barinov, building the phrase around "tozhe" ("too") and "tysyach" ("thousand") for a crisp, natural delivery.
-- 'Now that is really very cool!' Max conveys a frank approach as the scene unfolds, anchoring the Russian line on "deystvitelno" ("really, indeed") and "ochen" ("very much") without extra filler.
+- 'You let such a wonderful woman slip away, Max!' Barinov highlights this clear word at once: "prekrasnuyu" means "wonderful" (from "prekrasnyy"), giving the line its exact edge.
+- 'But nothing at all happened between her and Nagiyev.' Barinov offers the remark to Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Wait, Chef, how do you know that?' Max challenges calmly to see how Barinov will answer on the spot.
+- 'Believe me, I know for sure!' Barinov leans on this telling term for Max: "tochno" means "definitely", and it carries the main weight of what Barinov is saying.
+- 'And remember, Dima, the kitchen is real magic!' Barinov replies earnestly facing Kostya, keeping the focus on what actually matters here.
+- 'We soak the rabbit in water and add wine vinegar.' Barinov counters calmly around Max, testing Max's reaction in the middle of the exchange.
+- 'This will tenderize the meat and remove the unpleasant smell.' Barinov highlights one clear detail on cue: "nepriyatnyy" means "unpleasant", and it carries the main weight of what Barinov is saying.
+- 'Dima, when you chop onions, always chew gum.' Max replies at once in this moment, before Kostya can change the subject.
+- 'Then you definitely will not cry from the onions.' Max jumps in boldly with Barinov, shifting the whole mood of the room in a single beat.
+- 'Nastya, they just gave me a bonus, fifty thousand!' Kostya grounds this direct choice with Max: "premiyu" means "bonus, prize" (from "premiya"), giving the line its exact edge.
+- 'And fifty thousand for you too, Vika rewarded us before leaving!' Kostya anchors one vivid word in reply: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'Now that is really very cool!' Max fires back dryly before Kostya, steering the talk right where he wants it.

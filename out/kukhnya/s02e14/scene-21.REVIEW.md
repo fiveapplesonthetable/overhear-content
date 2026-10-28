@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A dish best served cold.' Sasha offers a sharp stance at this moment, building the phrase around "blyudo" ("dish") and "podayetsya" ("to be served") for a crisp, natural delivery.
-- 'Sasha, wait, Sasha!' Senya favors a clear direction at once, letting the single Russian word "sash" ("Sasha") carry the entire reaction on its own.
-- 'That is not funny!' Sasha picks a pointed angle beside Senya, linking "smeshno" ("ridiculous") directly with "ne" ("not"), since Russian drops "is" and "are" in the present.
-- 'In life, everything eventually comes full circle.' Senya establishes an honest angle without hesitation, anchoring the Russian line on "zhizni" ("life") and "vozvrashchayetsya" ("comes back") without extra filler.
-- 'To some, the pain they caused comes back.' Sasha projects a pointed bearing without hesitation, linking "vozvrashchayetsya" ("comes back"), "bol" ("pain, ache"), and "odnim" ("one") in one brisk exchange.
-- 'To others, life restores their confidence in a loved one.' Senya shows a firm attitude in their talk, linking "drugim" ("other"), "naoborot" ("contrary"), and "zhizn" ("life") in one brisk exchange.
-- 'And confidence in themselves.' Sasha projects a calm footing in front of Senya, building the phrase around "uverennost" ("confidence") and "sebe" ("yourself") for a crisp, natural delivery.
-- 'To learn from our mistakes.' Senya chooses a direct view in the conversation, anchoring the Russian line on "sdelat" ("to do") and "vyvody" ("conclusions") without extra filler.
-- 'The main thing is that we ourselves are ready for change.' Sasha holds a serious posture beside Senya, using "glavnoye" (from "glavnyy", "important") alongside "byli" ("be") to shape the meaning.
-- 'I simply do not know how to rest.' Senya shows a pointed bearing as they talk, linking "otdykhat" ("relax"), "umeyu" ("to know how to"), and "ne" ("not") in one brisk exchange.
-- 'I have only been on vacation twice in my whole life.' Sasha displays a brisk line at this moment, pairing "otpuske-to" ("vacation, leave") with "raza" ("time") to get the point across in plain spoken Russian.
-- 'And both times were at culinary festivals.' Senya offers a candid view as they talk, using "kulinarnykh" (from "kulinarnyy", "culinary") alongside "festivalyakh" ("festival") to shape the meaning.
-- 'But this works for me.' Sasha offers a brisk line in the conversation, linking "rabotayet" ("works"), "no" ("but"), and "eto" ("this") in one brisk exchange.
+- 'A dish best served cold.' Sasha weighs in boldly without a pause, letting the remark speak for itself.
+- 'Sasha, wait, Sasha!' Senya brings that answer to Sasha: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'That is not funny!' Sasha drops the comeback with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'In life, everything eventually comes full circle.' Senya cuts in bluntly toward Sasha, keeping the focus on what actually matters here.
+- 'To some, the pain they caused comes back.' Sasha sharpens this key element right here: "vozvrashchayetsya" means "comes back" (from "vozvrashchatsya"), giving the line its exact edge.
+- 'To others, life restores their confidence in a loved one.' Senya steps in plainly with Sasha, testing Sasha's reaction in the middle of the exchange.
+- 'And confidence in themselves.' Sasha jumps in right away to settle things, refusing to let the moment slip past.
+- 'To learn from our mistakes.' Senya chooses one key term on cue: "vyvody" means "conclusions" (from "vyvod"), giving the line its exact edge.
+- 'The main thing is that we ourselves are ready for change.' Sasha proceeds briskly as things stand, watching Senya's face to see how the news lands.
+- 'I simply do not know how to rest.' Senya steps in lightly hearing Sasha, leaving no doubt about where he stands.
+- 'I have only been on vacation twice in my whole life.' Sasha frames this direct choice on cue: "otpuske-to" means "vacation, leave" (from "otpusk"), giving the line its exact edge.
+- 'And both times were at culinary festivals.' Senya weighs in evenly before Sasha, without trying to dress up how he really feels.
+- 'But this works for me.' Sasha weighs in sharply to be clear, leaving no doubt about where she stands.

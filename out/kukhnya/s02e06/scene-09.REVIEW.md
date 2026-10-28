@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, you want to know what I add in there?' Barinov queries pointedly at this point, building the phrase around "znachit" ("then, so") and "khochesh" ("do you want") for a crisp, natural delivery.
-- 'How old is our regular guest?' Lyova tests sharply across the room, pairing "skolko" ("how much, so much") with "let" ("years") to get the point across in plain spoken Russian.
-- 'Well, yes.' Barinov chooses a frank attitude without hesitation, combining "nu" ("oh, come on") and "da" ("yes") so the key meaning lands right away.
-- 'And what do you think about that?' Lyova presses quietly from the start, combining "dumayesh" ("think") and "chto" ("what") so the key meaning lands right away.
-- 'He sleeps with them, Lyova.' Barinov offers a playful note in the conversation, using "spit" (from "spat", "is sleeping") alongside "on" ("he") to shape the meaning.
-- 'And I help him out with that.' Lyova takes a resolute footing toward Barinov, using "pomogayu" (from "pomogat", "to help") alongside "ya" ("I") to shape the meaning.
-- 'Do you know how?' Barinov probes wryly as they speak, joining "znayesh" ("know") to "kak" ("how") so every word pulls its weight.
-- 'Wait, does that mean that right now I...' Lyova picks a calm view without hesitation, pairing "poluchayetsya" ("works out") with "eto" ("this") so the "-sya" ending carries the action.
-- 'Yes, Lyova, yes.' Barinov conveys a serious attitude in their talk, pairing "da" ("yes") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
-- 'Chef, when will my salad be ready?' Lyova asks calmly as the talk turns, combining "kogda" ("when") and "budet" ("will be") so the key meaning lands right away.
-- 'The guest is getting impatient already.' Barinov takes a thoughtful view with Lyova, linking "gost" ("guest"), "uzhe" ("already, now"), and "nervnichayet" ("gets nervous") in one brisk exchange.
-- 'Tell him in seven minutes.' Lyova adopts an honest approach as they talk, anchoring the Russian line on "skazhi" ("say") and "minut" ("minutes") without extra filler.
-- 'Chef, what am I supposed to do now?' Lyova checks decisively without holding back, linking "delat" ("do"), "shef" ("Chef"), and "chto" ("what") in one brisk exchange.
+- 'So, you want to know what I add in there?' Barinov inquires promptly before Lyova can change the subject.
+- 'How old is our regular guest?' Lyova picks one concrete piece in reply: "gostyu" means "to the guest" (from "gost"), giving the line its exact edge.
+- 'Well, yes.' Barinov brings this line without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And what do you think about that?' Lyova quizzes wryly why things suddenly took this turn between them.
+- 'He sleeps with them, Lyova.' Barinov focuses on one pointed detail with Lyova: "spit" means "is sleeping" (from "spat"), giving the line its exact edge.
+- 'And I help him out with that.' Lyova speaks plainly as they talk, without trying to dress up how he really feels.
+- 'Do you know how?' Barinov checks point-blank if there is more going on behind the scenes.
+- 'Wait, does that mean that right now I...' Lyova leans on one clear choice on cue: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
+- 'Yes, Lyova, yes.' Barinov frames that reply without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Chef, when will my salad be ready?' Lyova inquires quietly about what Barinov just brought up.
+- 'The guest is getting impatient already.' Barinov uses one vivid touch toward Lyova: "nervnichayet" means "gets nervous" (from "nervnichat"), giving the line its exact edge.
+- 'Tell him in seven minutes.' Lyova makes this answer plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Chef, what am I supposed to do now?' Lyova inquires frankly about what Barinov just brought up.

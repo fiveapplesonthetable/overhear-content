@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Roman, what is the matter, where did you disappear to?' The guest inquires calmly in the scene, putting "roman" ("romance") alongside "delo" ("matter") in a tight, everyday turn of phrase.
-- 'You understand, I will not be able to work with you any further.' The guest projects an earnest rhythm during the exchange, joining "ponimayete" ("do you understand") to "smogu" ("will be able to") so every word pulls its weight.
-- 'Wait, but we already agreed on everything!' The guest adopts a natural position in front of Barinov, anchoring the Russian line on "podozhdite" ("wait") and "uzhe" ("already, now") without extra filler.
-- 'We approved the main colors and style with you!' The guest presents an easygoing mood as the scene unfolds, pairing "utverdili" ("approved") with "osnovnyye" ("style") to get the point across in plain spoken Russian.
-- 'Look, Lyova, so that guy did not understand us!' Barinov keeps a playful tone for the guest, joining "smotri" ("look") to "znachit" ("then, so") so every word pulls its weight.
-- 'Fine, then right now we will explain it to him differently!' Barinov projects a lively tone for Lyova, linking "togda" ("back then"), "seychas" ("now"), and "obyasnim" ("will explain") in one brisk exchange.
-- 'Come over here, let's go have another talk!' Barinov strikes a thoughtful bearing as they talk, building the phrase around "idi" ("go") and "syuda" ("here") for a crisp, natural delivery.
-- 'Wait, you misunderstood, I am simply leaving!' The guest shares a candid angle in their talk, combining the softening word "prosto" ("simply, just") with "podozhdite" ("wait") to give the line its natural spoken rhythm.
-- 'Did I not express myself clearly to you yesterday?' Barinov challenges warmly without a pause, putting "vchera" ("yesterday") alongside "neyasno" ("yesterday") in a tight, everyday turn of phrase.
-- 'I told you, you are not going to work here!' Barinov offers a pointed stance in the scene, using "skazal" (from "skazat", "said") alongside "zdes" ("here") to shape the meaning.
-- 'Why, I am not even planning to work here anymore!' The guest takes a natural approach in the scene, pairing "sobirayus" ("am planning") with "zdes" ("here") so the "-sya" ending carries the action.
-- 'Viktor Petrovich, stop, the owner of the restaurant is coming here!' Lyova keeps a grounded attitude as they talk, linking "ostanovites" ("to stop"), "syuda" ("here"), and "idyot" ("goes, is going") in one brisk exchange.
+- 'Roman, what is the matter, where did you disappear to?' The guest gives the comment to Barinov: putting the question word "kuda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'You understand, I will not be able to work with you any further.' The guest jumps in plainly hearing Lyova, keeping the focus on what actually matters here.
+- 'Wait, but we already agreed on everything!' The guest colors this key detail in reply: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.
+- 'We approved the main colors and style with you!' The guest follows up openly with a sigh, to clear the air between them once and for all.
+- 'Look, Lyova, so that guy did not understand us!' Barinov counters sharply without any doubt, keeping the focus on what actually matters here.
+- 'Fine, then right now we will explain it to him differently!' Barinov underscores one key element for Lyova: "po-drugomu" means "differently", and it carries the main weight of what Barinov is saying.
+- 'Come over here, let's go have another talk!' Barinov replies briskly during the talk, bringing things back to earth after the buildup.
+- 'Wait, you misunderstood, I am simply leaving!' The guest opens up steadily with a sigh, saying out loud what both of them already know.
+- 'Did I not express myself clearly to you yesterday?' Barinov chooses this telling term in reply: "vyrazilsya" means "to yesterday" (from "vyrazitsya"), giving the line its exact edge.
+- 'I told you, you are not going to work here!' Barinov picks one clear choice right here: "rabotat" means "to work", and it carries the main weight of what Barinov is saying.
+- 'Why, I am not even planning to work here anymore!' The guest speaks honestly without a pause, to clear the air between them once and for all.
+- 'Viktor Petrovich, stop, the owner of the restaurant is coming here!' Lyova underscores this key element at once: "ostanovites" means "to stop" (from "ostanovitsya"), giving the line its exact edge.

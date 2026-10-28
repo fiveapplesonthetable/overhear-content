@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to talk with me or stay silent?' Barinov quizzes dryly at this point, linking "khotela" ("wanted, meant"), "pogovorit" ("to talk"), and "pomolchat" ("to be quiet for a while") in one brisk exchange.
-- 'I understand that these changes are very painful.' Vika presents a serious stance in the room, putting "ponimayu" ("understand") alongside "izmeneniya" ("changes") in a tight, everyday turn of phrase.
-- 'Painful is when your favorite team cannot win.' Barinov sets a warm position as the scene unfolds, pairing "boleznenny" ("painful") with "kogda" ("when") to get the point across in plain spoken Russian.
-- 'And when they change your life, that is a catastrophe!' Barinov conveys a steady style on the spot, anchoring the Russian line on "kogda" ("when") and "menyayut" ("change") without extra filler.
-- 'I understand, you want things to be as before.' Vika keeps a brisk stance as the scene unfolds, joining "ponimayu" ("understand") to "khochesh" ("do you want") so every word pulls its weight.
-- 'But understand me, that is no longer possible now.' Vika chooses a steady rhythm beside Barinov, putting "poymi" ("understand") alongside "teper" ("now") in a tight, everyday turn of phrase.
-- 'We are now part of the largest restaurant chain.' Vika chooses an honest manner straight away, joining "teper" ("now") to "chast" ("part") so every word pulls its weight.
-- 'At the end of the year they will give you a big bonus.' Vika presents an easygoing line as the scene unfolds, putting "kontse" ("end") alongside "goda" ("years") in a tight, everyday turn of phrase.
-- 'They will pay you exactly two million rubles.' Vika chooses a firm stance without hesitation, leaning on "zaplatyat" ("to pay") before closing the thought with "rovno" ("exactly").
-- 'Wait a second, how much did you just say to me?' Barinov asks naturally without a pause, building the phrase around "podozhdi" ("wait") and "skolko" ("how much, so much") for a crisp, natural delivery.
-- 'Yes, Viktor Petrovich, you heard everything right.' Vika adopts a serious footing during the exchange, weaving "pravilno" ("right") together with "uslyshal" ("heard") just the way native speakers do.
-- 'If you want to get the bonus, follow the established rules.' Vika sustains a clear attitude in the room, building the phrase around "khochesh" ("do you want") and "poluchit" ("to get, to receive") for a crisp, natural delivery.
+- 'Did you want to talk with me or stay silent?' Barinov offers that line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'I understand that these changes are very painful.' Vika follows up dryly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'Painful is when your favorite team cannot win.' Barinov spotlights one classic word with Vika: "boleznenny" means "painful" (from "boleznennyy"), giving the line its exact edge.
+- 'And when they change your life, that is a catastrophe!' Barinov fires back steadily on the spot, keeping the focus on what actually matters here.
+- 'I understand, you want things to be as before.' Vika counters honestly in this moment, leaving no doubt about where she stands.
+- 'But understand me, that is no longer possible now.' Vika reaches for one loaded element in earnest: "nevozmozhno" means "impossible", and it carries the main weight of what Vika is saying.
+- 'We are now part of the largest restaurant chain.' Vika shapes the reaction toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'At the end of the year they will give you a big bonus.' Vika follows up steadily during the talk, without trying to dress up how she really feels.
+- 'They will pay you exactly two million rubles.' Vika chooses one classic choice toward Barinov: "milliona" means "million" (from "million"), giving the line its exact edge.
+- 'Wait a second, how much did you just say to me?' Barinov brings the remark on cue: putting the question word "skolko" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Yes, Viktor Petrovich, you heard everything right.' Vika reacts plainly facing Barinov, leaving no doubt about where she stands.
+- 'If you want to get the bonus, follow the established rules.' Vika points to one telling expression in earnest: "ustanovlennyye" means "established" (from "ustanovlennyy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, guys, let us work now.' Senya keeps a calm rhythm right away, joining "spasibo" ("thank you") to "rebyata" ("the boys, the lads") so every word pulls its weight.
-- 'Alright, I congratulate you on the victory.' Fedya takes a resolute tack beside Senya, using "pozdravlyayu" (from "pozdravlyat", "congratulations") alongside "pobedoy" ("victory") to shape the meaning.
-- 'Oh, I suddenly felt sick.' Senya offers an earnest manner across the room, linking "vdrug" ("suddenly, what if"), "stalo" ("became, came over"), and "plokho" ("badly") in one brisk exchange.
-- 'Is that from your nerves?' Fedya challenges decisively as the beat lands, linking "nervov" ("nerve") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
-- 'This is such a fair fight, right?' Fedya wonders earnestly without holding back, using "chestnaya" (from "chestnyy", "an honest one") alongside "borba" ("struggle, contest") to shape the meaning.
-- 'Timur, where were you even looking?' Fedya checks decisively in the room, anchoring the Russian line on "voobshche" ("at all") and "kuda" ("where to") without extra filler.
-- 'All around there is nothing but corruption!' Fedya holds a grounded mood in this beat, linking "krugom" ("all around"), "sploshnaya" ("continuous"), and "korruptsiya" ("corruption") in one brisk exchange.
-- 'Who brought a horse into the hotel?' Eleonora asks dryly as the beat lands, using "privyoz" (from "privezti", "brought") alongside "otel" ("hotel") to shape the meaning.
-- 'Forgive me, I tied her up tightly.' Senya favors a firm tone with Eleonora, building the phrase around "prostite" ("excuse me") and "krepko" ("tightly") for a crisp, natural delivery.
-- 'But she came untied and ran away.' Senya offers a calm style as the scene unfolds, using "otvyazalas" (from "otvyazatsya", "came untied") alongside "ubezhala" ("ran away") to shape the meaning.
-- 'She rushes around and bites the guests!' Eleonora adopts a grounded manner with Fedya, pairing "nositsya" ("rushes around") with "kusayet" ("to bite") so the "-sya" ending carries the action.
-- 'There will be no more such incidents.' Senya brings an easygoing note in the scene, weaving "bolshe" ("more") together with "intsidentov" ("incidents") just the way native speakers do.
+- 'Thank you, guys, let us work now.' Senya counters at once hearing Eleonora, keeping the focus on what actually matters here.
+- 'Alright, I congratulate you on the victory.' Fedya focuses on one classic expression with Senya: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Oh, I suddenly felt sick.' Senya offers this warning before Eleonora: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Is that from your nerves?' Fedya inquires openly as Senya tries to explain the situation.
+- 'This is such a fair fight, right?' Fedya centers one vivid word on cue: "chestnaya" means "an honest one" (from "chestnyy"), giving the line its exact edge.
+- 'Timur, where were you even looking?' Fedya aims that thought toward Senya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'All around there is nothing but corruption!' Fedya proceeds right away as things stand, grounding the moment in plain reality.
+- 'Who brought a horse into the hotel?' Eleonora grounds this clear element right here: "loshad" means "horse", and it carries the main weight of what Eleonora is saying.
+- 'Forgive me, I tied her up tightly.' Senya offers that remark beside Eleonora: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'But she came untied and ran away.' Senya weighs in calmly with Fedya, watching Fedya's face to see how the news lands.
+- 'She rushes around and bites the guests!' Eleonora picks one concrete detail in earnest: "nositsya" means "rushes around", and it carries the main weight of what Eleonora is saying.
+- 'There will be no more such incidents.' Senya continues briskly in this moment, keeping the focus on what actually matters here.

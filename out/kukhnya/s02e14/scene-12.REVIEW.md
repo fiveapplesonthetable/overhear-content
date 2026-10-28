@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' Sasha takes a grounded tone in the scene, joining "pogovorit" ("to talk") to "nado" ("it is necessary") so every word pulls its weight.
-- 'Sasha, stay out of this, she is my girlfriend.' Barinov shares a playful approach toward Sasha, anchoring the Russian line on "lez" ("poke nose, meddle") and "devushka" ("girlfriend") without extra filler.
-- 'And do not get too happy, that will not last long.' Sasha chooses a lively manner with Barinov, weaving "raduysya" ("rejoice, celebrate") together with "nadolgo" ("for long") just the way native speakers do.
-- 'I see you did not get the message.' Barinov strikes a playful note on the spot, weaving "vizhu" ("see") together with "ponyal" ("understood") just the way native speakers do.
-- 'Well, explain it to me then.' Sasha keeps a natural style for Barinov, joining "obyasni" ("explain") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Hey, stop this immediately, both of you.' Barinov brings a resolute direction toward Sasha, putting "prekratili" ("stopped, knock it off") alongside "nemedlenno" ("immediately") in a tight, everyday turn of phrase.
-- 'We are not finished here yet, got it?' Sasha wonders pointedly in their exchange, using "yeshche" (from "yeshchyo", "still") alongside "zakonchili" ("to finish, to complete") to shape the meaning.
-- 'Excuse me, please.' Barinov displays an unhurried note in this beat, pairing "izvinite" ("sorry, excuse me") with "pozhaluysta" ("please") to get the point across in plain spoken Russian.
-- 'Just like I told you.' Sasha maintains a candid rhythm at once, anchoring the Russian line on "govorila" ("said") and "ya" ("I") without extra filler.
-- 'There is always something dramatic happening here.' Barinov takes a thoughtful style as they talk, linking "zdes" ("here"), "vsegda" ("always"), and "proiskhodit" ("is going on") in one brisk exchange.
-- 'This guest right here needs to be served very quickly.' Sasha holds a brisk mood on the spot, building the phrase around "gostya" ("guest, visitor") and "nado" ("it is necessary") for a crisp, natural delivery.
-- 'Do you understand me?' Barinov queries directly without holding back, putting "ponyal" ("understood") alongside "menya" ("me") in a tight, everyday turn of phrase.
-- 'No problem at all.' Sasha strikes a resolute style right away, pairing "vopros" ("question, matter") with "ne" ("not") to get the point across in plain spoken Russian.
+- 'We need to talk.' Sasha speaks openly with Barinov, leaving no doubt about where she stands.
+- 'Sasha, stay out of this, she is my girlfriend.' Barinov spotlights one concrete piece at once: "devushka" means "girlfriend", and it carries the main weight of what Barinov is saying.
+- 'And do not get too happy, that will not last long.' Sasha states that line right away: the "-sya" ending on "raduysya" ("rejoice, celebrate") turns the action inward or makes it happen between people naturally.
+- 'I see you did not get the message.' Barinov replies frankly hearing Sasha, letting the remark speak for itself.
+- 'Well, explain it to me then.' Sasha underscores one sharp expression in reply: "obyasni" means "explain" (from "obyasnit"), giving the line its exact edge.
+- 'Hey, stop this immediately, both of you.' Barinov drops that point with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We are not finished here yet, got it?' Sasha presses briskly while looking straight at Barinov here.
+- 'Excuse me, please.' Barinov colors one classic element at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Just like I told you.' Sasha delivers that remark to Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'There is always something dramatic happening here.' Barinov speaks plainly beside Sasha, saying out loud what both of them already know.
+- 'This guest right here needs to be served very quickly.' Sasha uses one memorable touch in reply: "obsluzhit" means "to serve", and it carries the main weight of what Sasha is saying.
+- 'Do you understand me?' Barinov gives that remark with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
+- 'No problem at all.' Sasha replies dryly as things stand, saying out loud what both of them already know.

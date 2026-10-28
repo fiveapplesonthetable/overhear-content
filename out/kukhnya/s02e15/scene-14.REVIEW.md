@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand.' Elena offers a sharp rhythm right away, leaning on "ponyal" ("understood") before closing the thought with "ne" ("not").
-- 'In that sense?' Kostya challenges calmly to make the point, joining "smysle" ("sense") to "etom" ("that") so every word pulls its weight.
-- 'For sheer nerve.' Elena projects a natural attitude without hesitation, combining "naglost" ("nerve, impudence") and "za" ("for") so the key meaning lands right away.
-- 'What is with you?' Kostya inquires wryly from the start, combining "ty" ("you") and "chto" ("what") so the key meaning lands right away.
-- 'I was only joking.' Elena brings a direct stance toward Kostya, leaning on "poshutil" ("to joke") before closing the thought with "ya" ("I").
-- 'Does he know how to talk?' Kostya challenges earnestly toward Elena here, weaving "razgovarivat" ("to talk, to speak") together with "umeyet" ("knows how to") just the way native speakers do.
-- 'Stepan Andreyevich?' Elena wonders dryly toward Kostya here, putting "andreyevich" ("andreyevich") alongside "stepan" ("Stepan") in a tight, everyday turn of phrase.
-- 'Elena Pavlovna, my mother has gone out to the ballet.' Kostya establishes a grounded direction right away, anchoring the Russian line on "mama" ("mum, mother") and "balet" ("ballet") without extra filler.
-- 'Why walk on foot?' Elena checks decisively to Kostya here, putting "pochemu" ("why") alongside "peshkom" ("on foot") in a tight, everyday turn of phrase.
-- 'What I meant to say was...' Kostya quizzes naturally from the start, linking "khotel" ("wanted"), "skazat" ("tell"), and "ya" ("I") in one brisk exchange.
-- 'Really? Sounds good?' Elena questions dryly from the start, combining "khorosho" ("good, fine") and "da" ("yes") so the key meaning lands right away.
-- 'Well then, what do you say?' Kostya tests pointedly on the spot, leaning on "togda" ("back then") before closing the thought with "nu" ("oh, come on").
-- 'See you soon.' Elena shows a thoughtful position on the spot, building the phrase around "vstrechi" ("meeting, next time") and "do" ("until") for a crisp, natural delivery.
+- 'I do not understand.' Elena lays out that remark toward Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'In that sense?' Kostya checks plainly about what Elena just brought up.
+- 'For sheer nerve.' Elena favors one classic expression on cue: "naglost" means "nerve, impudence", and it carries the main weight of what Elena is saying.
+- 'What is with you?' Kostya states this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I was only joking.' Elena continues warmly as they talk, without trying to dress up how she really feels.
+- 'Does he know how to talk?' Kostya chooses one colorful expression at once: "razgovarivat" means "to talk, to speak", and it carries the main weight of what Kostya is saying.
+- 'Stepan Andreyevich?' Elena directs the reaction without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Elena Pavlovna, my mother has gone out to the ballet.' Kostya cuts in promptly hearing Elena, so Elena knows he is not just making small talk.
+- 'Why walk on foot?' Elena anchors one concrete word in earnest: "peshkom" means "on foot", and it carries the main weight of what Elena is saying.
+- 'What I meant to say was...' Kostya hands over that answer with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'Really? Sounds good?' Elena asks skeptically as Kostya tries to explain the situation.
+- 'Well then, what do you say?' Kostya underscores one telling detail in earnest: "togda" means "back then", and it carries the main weight of what Kostya is saying.
+- 'See you soon.' Elena shares that thought with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

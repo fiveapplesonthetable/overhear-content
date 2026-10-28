@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yesterday the club lost, so he freaked out.' Barinov favors a measured attitude in this beat, combining "vchera" ("yesterday") and "klub" ("club, nightclub") so the key meaning lands right away.
-- 'And we have a commission in the hotel!' Mikhail takes an easygoing stance in the conversation, joining "komissiya" ("commission") to "otele" ("in the hotel") so every word pulls its weight.
-- 'You look simply lovely!' Nagiyev shares a playful stance on the spot, building the phrase around "vyglyadite" ("look") and "prosto" ("just") for a crisp, natural delivery.
-- 'Vitya, only you can understand me.' Nagiyev sustains a candid position during the exchange, leaning on "tolko" ("only") before closing the thought with "mozhesh" ("can").
-- 'Vitya, this is a disgrace!' Nagiyev picks a candid direction on the spot, building the phrase around "pozor" ("disgrace") and "vitya" ("Vitya") for a crisp, natural delivery.
-- 'It could have been worse.' Barinov presents a playful tone for Nagiyev, combining "moglo" ("can, to be able") and "byt" ("be") so the key meaning lands right away.
-- 'The commission is waiting for the manager.' Mikhail strikes a measured posture as the scene unfolds, linking "komissiya" ("commission"), "zhdyot" ("is waiting"), and "upravlyayushchego" ("manager") in one brisk exchange.
-- 'Wait, has the commission even seen you?' Mikhail queries frankly on the spot, linking "pogodi" ("wait"), "komissiya" ("commission"), and "voobshche" ("at all") in one brisk exchange.
-- 'I spoke on the phone.' Nagiyev shares a brisk line in their talk, pairing "telefonu" ("phone") with "obshchalsya" ("to communicate") to get the point across in plain spoken Russian.
-- 'He needs to sleep it off. Hide him somewhere.' Mikhail holds a grounded tone in this beat, joining "nado" ("it is necessary") to "prospatsya" ("to sleep it off") so every word pulls its weight.
-- 'And do not leave him alone, so he does not wander around the hotel.' Mikhail takes an emphatic tone across the room, building the phrase around "ostavlyayte" ("leave") and "otelyu" ("hotel") for a crisp, natural delivery.
-- 'And how many luxury suites do you have?' Barinov questions lightly beside Nagiyev, joining "skolko" ("how much, so much") to "nomerov" ("of rooms") so every word pulls its weight.
+- 'Yesterday the club lost, so he freaked out.' Barinov speaks up bluntly beside Mikhail, grounding the moment in plain reality.
+- 'And we have a commission in the hotel!' Mikhail picks this sharp piece for Nagiyev: "komissiya" means "commission", and it carries the main weight of what Mikhail is saying.
+- 'You look simply lovely!' Nagiyev delivers that reply beside Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Vitya, only you can understand me.' Nagiyev stands firm calmly in their talk, saying out loud what both of them already know.
+- 'Vitya, this is a disgrace!' Nagiyev chooses this vivid term for Barinov: "pozor" means "disgrace", and it carries the main weight of what Nagiyev is saying.
+- 'It could have been worse.' Barinov shapes this statement on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'The commission is waiting for the manager.' Mikhail replies at once watching Barinov, shifting the whole mood of the room in a single beat.
+- 'Wait, has the commission even seen you?' Mikhail centers this clear detail with Nagiyev: "komissiya" means "commission", and it carries the main weight of what Mikhail is saying.
+- 'I spoke on the phone.' Nagiyev shares this point beside Barinov: the "-sya" ending on "obshchalsya" ("to communicate") turns the action inward or makes it happen between people naturally.
+- 'He needs to sleep it off. Hide him somewhere.' Mikhail proceeds at once beside Nagiyev, keeping the focus on what actually matters here.
+- 'And do not leave him alone, so he does not wander around the hotel.' Mikhail uses one memorable expression right here: "ostavlyayte" means "leave" (from "ostavlyat"), giving the line its exact edge.
+- 'And how many luxury suites do you have?' Barinov delivers this point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.

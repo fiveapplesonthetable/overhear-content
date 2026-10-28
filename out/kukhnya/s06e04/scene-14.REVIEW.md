@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I will just be a minute.' Katya displays a playful stance at this moment, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "tolko" ("only") without extra filler.
-- 'In my opinion, the pigeon is a bit dry, though I am no expert.' Katya takes a pointed tone beside Louis, building the phrase around "po-moyemu" ("in my opinion") and "golub" ("hands") for a crisp, natural delivery.
-- 'Olivier, let's stop this charade.' Barinov chooses a resolute line in the scene, joining "davayte" ("let's") to "prekratim" ("let us stop") so every word pulls its weight.
-- 'After all, you are the inspector!' Barinov takes a lively angle in their talk, placing "inspektor" ("inspector") straight beside "vy" ("you") with no word for "to be" needed.
-- 'And it depends on you whether we get a star or not.' Barinov keeps a warm direction in the room, joining "zavisit" ("depends") to "poluchim" ("will get, receive") so every word pulls its weight.
-- 'We have a great desire to be the best.' Barinov takes an earnest footing without hesitation, building the phrase around "yest" ("there is") and "bolshoye" ("big, very much") for a crisp, natural delivery.
-- 'And you see how badly I want my restaurant to become better.' Barinov offers an easygoing attitude at this moment, weaving "vidite" ("see") together with "kak" ("how") just the way native speakers do.
-- 'Kostya, bring another bottle of wine for the inspector!' Barinov conveys a warm position in the conversation, linking "prinesi" ("bring"), "yeshche" ("still"), and "butylku" ("a bottle") in one brisk exchange.
-- 'Katya, I want to show you something.' Louis shows a brisk direction on the spot, weaving "khochu" ("want") together with "pokazat" ("to show") just the way native speakers do.
-- 'Who is this in the photo?' Louis prompts decisively from the start, linking "foto" ("photo"), "kto" ("who"), and "eto" ("this") in one brisk exchange.
-- 'That is the real inspector, my father sent me the photo.' Louis establishes an emphatic approach right away, anchoring the Russian line on "nastoyashchiy" ("real, genuine") and "inspektor" ("inspector") without extra filler.
-- 'Thank you for the wine, Viktor.' Katya sustains a brisk stance in their talk, combining "spasibo" ("thank you") and "vino" ("wine") so the key meaning lands right away.
+- 'Excuse me, I will just be a minute.' Katya brings this line calmly now: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Katya steps in.
+- 'In my opinion, the pigeon is a bit dry, though I am no expert.' Katya speaks warmly to be clear, keeping the focus on what actually matters here.
+- 'Olivier, let's stop this charade.' Barinov leans on one familiar expression toward Katya: "komediyu" means "comedy" (from "komediya"), giving the line its exact edge.
+- 'After all, you are the inspector!' Barinov phrases this update plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And it depends on you whether we get a star or not.' Barinov counters openly on the spot, making his position completely clear.
+- 'We have a great desire to be the best.' Barinov grounds this clear element with Louis: "zhelaniye" means "desire, craving", and it carries the main weight of what Barinov is saying.
+- 'And you see how badly I want my restaurant to become better.' Barinov grounds one classic word with Katya: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
+- 'Kostya, bring another bottle of wine for the inspector!' Barinov fires back earnestly watching Louis, shifting the whole mood of the room in a single beat.
+- 'Katya, I want to show you something.' Louis uses this telling piece on cue: "pokazat" means "to show", and it carries the main weight of what Louis is saying.
+- 'Who is this in the photo?' Louis directs the thought for Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That is the real inspector, my father sent me the photo.' Louis cuts in firmly with a smile, shifting the whole mood of the room in a single beat.
+- 'Thank you for the wine, Viktor.' Katya focuses on one sharp touch at once: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.

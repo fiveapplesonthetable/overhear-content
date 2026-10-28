@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I apparently misunderstood you.' Vika presents an easygoing course straight away, weaving "vidimo" ("apparently") together with "nepravilno" ("wrongly") just the way native speakers do.
-- 'Do you want to celebrate your dog's party?' Vika prompts promptly as they speak, linking "khotite" ("want"), "otmetit" ("to celebrate"), and "prazdnik" ("holiday") in one brisk exchange.
-- 'Yes, I want to close the whole restaurant.' The guest conveys a brisk direction toward Vika, using "khochu" (from "khotet", "want") alongside "zakryt" ("to close, to shut") to shape the meaning.
-- 'We and our guests need comfort.' The guest establishes a playful stance in their talk, combining "gostyam" ("guests") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'He has a strong allergy to lactose.' The guest displays a lively line on the spot, anchoring the Russian line on "silnaya" ("strong") and "allergiya" ("an allergy") without extra filler.
-- 'We do not hold such events.' Vika shares a wry view in front of the guest, leaning on "provodim" ("conduct") before closing the thought with "podobnyye" ("similar, like").
-- 'But Dima Nagiyev said something completely different.' The guest offers a calm manner across the room, leaning on "skazal" ("said") before closing the thought with "sovsem" ("at all").
-- 'He promised that everything will be fine.' The guest strikes a direct stance at once, weaving "obeshchal" ("promised") together with "budet" ("will be") just the way native speakers do.
-- 'I wanted to come to you the day before yesterday.' Vika holds a frank manner in the conversation, building the phrase around "khotela" ("wanted, meant") and "priyti" ("to come") for a crisp, natural delivery.
-- 'But he said that you are getting divorced.' The guest picks a brisk tempo without hesitation, combining "skazal" ("said") and "razvodites" ("to get divorced") so the key meaning lands right away.
-- 'Excuse me, please, for a minute.' Vika shows a firm tone for the guest, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "minutku" ("a minute") to shape the meaning.
-- 'Nastya, if you cry, I will fine you!' Vika takes a warm attitude beside the guest, joining "zaplachesh" ("to fine") to "oshtrafuyu" ("will fine") so every word pulls its weight.
-- 'Why are you standing there, get to work quickly!' Vika presents a lively note with the guest, leaning on "vstali" ("stood still") before closing the thought with "bystro" ("quickly").
+- 'I apparently misunderstood you.' Vika points to this sharp touch toward the guest: "nepravilno" means "wrongly", and it carries the main weight of what Vika is saying.
+- 'Do you want to celebrate your dog's party?' Vika lays out this update with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Yes, I want to close the whole restaurant.' The guest fires back at once with a shrug, before Vika can change the subject.
+- 'We and our guests need comfort.' The guest reaches for this sharp touch toward Vika: "gostyam" means "guests" (from "gost"), giving the line its exact edge.
+- 'He has a strong allergy to lactose.' The guest pushes back pointedly across the room, bringing things back to earth after the buildup.
+- 'We do not hold such events.' Vika opens up honestly with a nod, watching the guest's face to see how the news lands.
+- 'But Dima Nagiyev said something completely different.' The guest grounds one direct word in reply: "drugoye" means "another, other" (from "drugoy"), giving the line its exact edge.
+- 'He promised that everything will be fine.' The guest drops the reply in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'I wanted to come to you the day before yesterday.' Vika proceeds firmly watching the guest, grounding the moment in plain reality.
+- 'But he said that you are getting divorced.' The guest emphasizes one colorful word at once: "razvodites" means "to get divorced" (from "razvoditsya"), giving the line its exact edge.
+- 'Excuse me, please, for a minute.' Vika lays out that remark before the guest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Nastya, if you cry, I will fine you!' Vika speaks steadily beside the guest, watching the guest's face to see how the news lands.
+- 'Why are you standing there, get to work quickly!' Vika chooses one sharp expression for the guest: "rabotu" means "job" (from "rabota"), giving the line its exact edge.

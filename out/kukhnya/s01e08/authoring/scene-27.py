@@ -34,7 +34,7 @@ WALK = [
     (0, None, "'How did you find me, Ainura?' Barinov wonders how the cleaner managed to track him down."),
     (1, None, "'I have been working for you for a long time.' Ainura reminds him she is a long-time employee."),
     (2, None, "'I know all your secret places.' Ainura knows every single hiding spot in the restaurant."),
-    (3, None, "'Dear Chef, you need to return to the kitchen.' Ainura pleads with the boss to return to his station."),
+    (3, None, "'Dear Chef, you need to return to the kitchen.' Ainura warmly calls him 'dear chef' and begs him to come back to his kitchen."),
     (4, None, "'You sound right now like my former mother-in-law.' Barinov compares her nagging to a strict mother-in-law."),
     (5, None, "'Seriously, it is very hard for the cooks without you.' Ainura stresses that the kitchen brigade is suffering without him."),
     (6, None, "'They are not coping at all with orders.' Ainura reports that the staff is completely failing the service."),

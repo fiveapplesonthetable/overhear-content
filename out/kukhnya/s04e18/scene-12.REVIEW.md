@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, what is going on with him right now?' Senya queries briskly in the scene, linking "tikho" ("easy, quiet"), "seychas" ("now"), and "chto" ("what") in one brisk exchange.
-- 'Chef, we almost got caught in there.' Fedya conveys a thoughtful attitude right away, leaning on "tam" ("there") before closing the thought with "chut" ("almost, nearly").
-- 'Fedya had to swallow German's pill.' Barinov establishes a playful approach for Fedya, combining "fede" ("fedya") and "prishlos" ("had to, it fell to") so the key meaning lands right away.
-- 'This is some kind of strong sedative.' Barinov displays an easygoing direction on the spot, linking "silnoye" ("strong") directly with "uspokoitelnoye" ("calming, sedative"), since Russian drops "is" and "are" in the present.
-- 'Hey, guys, it is very powerful.' Fedya conveys an easygoing rhythm during the exchange, putting "rebyata" ("the boys, the lads") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'May I have one more pill?' Fedya prompts lightly in their exchange, combining "mozhno" ("may, can") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'Come here, you little buddy of mine.' Senya establishes a clear angle right away, anchoring the Russian line on "idi" ("go") and "syuda" ("here") without extra filler.
-- 'Fedya feels so good from the pills right now.' Barinov conveys a steady position for Senya, leaning on "fede" ("fedya") before closing the thought with "seychas" ("now").
-- 'That means German will feel bad without them.' Barinov displays a grounded tack in the scene, pairing "znachit" ("then, so") with "germanu" ("coffee") to get the point across in plain spoken Russian.
-- 'Hey, this is a very funny thing.' Fedya projects a pointed stance on the spot, leaning on "ochen" ("very much") before closing the thought with "smeshnaya" ("funny, ridiculous").
-- 'Chef, will we corner German now?' Senya queries evenly during the talk, putting "teper" ("now") alongside "prizhmyom" ("german") in a tight, everyday turn of phrase.
-- 'It is too early, we do not have the bait yet.' Barinov conveys an honest tack with Senya, combining "rano" ("early, young") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Quiet, what is going on with him right now?' Senya wonders candidly whether Barinov really thought this through.
+- 'Chef, we almost got caught in there.' Fedya favors one direct choice for Senya: "popalis" means "to get caught" (from "popastsya"), giving the line its exact edge.
+- 'Fedya had to swallow German's pill.' Barinov cuts in firmly with a sigh, without trying to dress up how he really feels.
+- 'This is some kind of strong sedative.' Barinov pushes back firmly before Senya, so Senya knows he is not just making small talk.
+- 'Hey, guys, it is very powerful.' Fedya sharpens this direct detail on cue: "moshchnaya" means "powerful, mighty" (from "moshchnyy"), giving the line its exact edge.
+- 'May I have one more pill?' Fedya shapes this point plainly here: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Come here, you little buddy of mine.' Senya cuts in firmly across the room, without trying to dress up how he really feels.
+- 'Fedya feels so good from the pills right now.' Barinov favors one vivid detail toward Senya: "tabletok" means "pill, tablet" (from "tabletka"), giving the line its exact edge.
+- 'That means German will feel bad without them.' Barinov drops the reply with warmth: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Hey, this is a very funny thing.' Fedya jumps in sharply in this moment, leaving no doubt about where he stands.
+- 'Chef, will we corner German now?' Senya centers one loaded touch toward Barinov: "prizhmyom" means "german", and it carries the main weight of what Senya is saying.
+- 'It is too early, we do not have the bait yet.' Barinov gives that reply for Senya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.

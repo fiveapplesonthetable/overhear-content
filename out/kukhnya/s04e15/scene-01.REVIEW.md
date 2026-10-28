@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cupid decides the fates of all people in love.' Denis picks a thoughtful angle straight away, pairing "kupidon" ("cupid") with "reshayet" ("decides") to get the point across in plain spoken Russian.
-- 'But sometimes he has a strange sense of humor.' Denis establishes a serious angle beside Senya, pairing "inogda" ("sometimes, at times") with "strannoye" ("strange, odd") to get the point across in plain spoken Russian.
-- 'Good morning, sleepyhead, I made breakfast!' Denis takes a resolute attitude toward Katya, linking "dobroye" ("good"), "utro" ("morning"), and "sonya" ("sleepyhead") in one brisk exchange.
-- 'I already managed to take a shower in the morning.' Denis projects a steady course in this beat, building the phrase around "uzhe" ("already, now") and "uspel" ("managed in time") for a crisp, natural delivery.
-- 'Turn away from me immediately, please!' Katya brings a grounded note right away, anchoring the Russian line on "nemedlenno" ("immediately") and "otvernis" ("to turn away") without extra filler.
-- 'You are so funny when you are fast asleep.' Denis takes a clear tone across the room, joining "smeshnaya" ("funny, ridiculous") to "kogda" ("when") so every word pulls its weight.
-- 'Stop all this mushy nonsense right now!' Katya shows an earnest approach without hesitation, putting "prekrati" ("stop it") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'But last night you were saying something completely different!' Denis favors a steady footing without hesitation, joining "vchera" ("yesterday") to "vecherom" ("in the evening") so every word pulls its weight.
-- 'Yesterday the drink was speaking, and now the boss is speaking!' Katya sets a calm tone on the spot, putting "vchera" ("yesterday") alongside "govoril" ("said, were saying") in a tight, everyday turn of phrase.
-- 'In half an hour I expect you at your workstation!' Katya maintains a firm course on the spot, putting "polchasa" ("half-hour") alongside "zhdu" ("I wait, expect") in a tight, everyday turn of phrase.
-- 'If you are late for work, I will fine you!' Katya adopts a steady stance as they talk, putting "opozdayesh" ("will be late") alongside "rabotu" ("job") in a tight, everyday turn of phrase.
-- 'Fedya, get up, our new boss is very angry!' Senya brings a steady attitude straight away, anchoring the Russian line on "vstavay" ("get up, stand up") and "novaya" ("new") without extra filler.
+- 'Cupid decides the fates of all people in love.' Denis anchors this vivid term on cue: "vlyublyonnykh" means "in love" (from "vlyublyonnyy"), giving the line its exact edge.
+- 'But sometimes he has a strange sense of humor.' Denis cuts in bluntly as things stand, steering the talk right where he wants it.
+- 'Good morning, sleepyhead, I made breakfast!' Denis speaks lightly without a pause, without trying to dress up how he really feels.
+- 'I already managed to take a shower in the morning.' Denis highlights one practical touch with Senya: "skhodit" means "to go", and it carries the main weight of what Denis is saying.
+- 'Turn away from me immediately, please!' Katya delivers this update on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'You are so funny when you are fast asleep.' Denis speaks promptly as things stand, letting the remark speak for itself.
+- 'Stop all this mushy nonsense right now!' Katya grounds this vivid detail with Denis: "nezhnuyu" means "gentle, tender" (from "nezhnyy"), giving the line its exact edge.
+- 'But last night you were saying something completely different!' Denis frames that remark briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Yesterday the drink was speaking, and now the boss is speaking!' Katya answers openly facing Denis, steering the talk right where she wants it.
+- 'In half an hour I expect you at your workstation!' Katya features one vivid piece with Senya: "polchasa" means "half-hour", and it carries the main weight of what Katya is saying.
+- 'If you are late for work, I will fine you!' Katya colors one sharp term in reply: "opozdayesh" means "will be late" (from "opozdat"), giving the line its exact edge.
+- 'Fedya, get up, our new boss is very angry!' Senya continues sharply without any doubt, making his position completely clear.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My great journey began with this song.' Barinov offers an emphatic position on the spot, anchoring the Russian line on "pesni" ("songs") and "nachalsya" ("started, broke out") without extra filler.
-- 'I found the way into your kind hearts.' Barinov keeps a calm tone in front of Senya, linking "nashyol" ("found"), "dorogu" ("road, way"), and "dobryye" ("good, kind") in one brisk exchange.
-- 'I wrote it in memory of love.' Barinov adopts an earnest footing in the scene, anchoring the Russian line on "napisal" ("wrote") and "pamyat" ("memory") without extra filler.
-- 'That woman broke my heart forever.' Barinov strikes a candid stance right away, leaning on "zhenshchina" ("woman") before closing the thought with "navsegda" ("forever").
-- 'Lena, you will always be in my heart!' Barinov conveys a firm attitude in front of Elena, putting "vsegda" ("always") alongside "budesh" ("will") in a tight, everyday turn of phrase.
-- 'Vitya, I was at your concert today.' Elena projects a pointed mood with Senya, joining "segodnya" ("today") to "byla" ("was") so every word pulls its weight.
-- 'I stood in the hall and heard everything.' Elena conveys a warm mood during the exchange, joining "stoyala" ("stood, was standing") to "zale" ("hall") so every word pulls its weight.
-- 'I love you very much too, Vitya!' Elena picks a firm bearing straight away, building the phrase around "tozhe" ("too") and "ochen" ("very much") for a crisp, natural delivery.
-- 'Hooray, you finally said yes to me!' Barinov displays a serious tack for Elena, combining "nakonets" ("at last, finally") and "skazala" ("told") so the key meaning lands right away.
-- 'No, that does not sound very plausible.' Senya sets a sharp view as they talk, combining "zvuchit" ("sounds") and "ochen" ("very much") so the key meaning lands right away.
-- 'After all, you got into real show business!' Senya holds a lively stance in this beat, leaning on "popali" ("to hit, to get") before closing the thought with "nastoyashchiy" ("real, genuine").
-- 'And what do you mean to say by that?' Barinov probes wryly in the room, combining "khochesh" ("do you want") and "skazat" ("tell") so the key meaning lands right away.
+- 'My great journey began with this song.' Barinov frames one colorful piece toward Elena: "nachalsya" means "started, broke out" (from "nachatsya"), giving the line its exact edge.
+- 'I found the way into your kind hearts.' Barinov stresses this clear choice on cue: "dobryye" means "good, kind" (from "dobryy"), giving the line its exact edge.
+- 'I wrote it in memory of love.' Barinov reacts calmly watching Elena, bringing things back to earth after the buildup.
+- 'That woman broke my heart forever.' Barinov favors one key element right here: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
+- 'Lena, you will always be in my heart!' Barinov emphasizes one pointed choice in earnest: "serdtse" means "heart", and it carries the main weight of what Barinov is saying.
+- 'Vitya, I was at your concert today.' Elena jumps in bluntly as they talk, leaving no doubt about where she stands.
+- 'I stood in the hall and heard everything.' Elena underscores one loaded element in reply: "slyshala" means "to hear" (from "slyshat"), giving the line its exact edge.
+- 'I love you very much too, Vitya!' Elena reaches for one sharp detail toward Senya: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
+- 'Hooray, you finally said yes to me!' Barinov pushes back calmly with Elena, making his position completely clear.
+- 'No, that does not sound very plausible.' Senya spotlights this key element in earnest: "pravdopodobno" means "plausibly, believably", and it carries the main weight of what Senya is saying.
+- 'After all, you got into real show business!' Senya picks this vivid expression at once: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Senya is saying.
+- 'And what do you mean to say by that?' Barinov asks wryly about what Senya just brought up.

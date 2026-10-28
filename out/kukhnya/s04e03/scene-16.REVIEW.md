@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, Dmitry Vladimirovich.' German displays a wry tack as they talk, pairing "dobryy" ("good") with "vecher" ("evening") to get the point across in plain spoken Russian.
-- 'Good evening. Unfortunately, I do not know your name.' Nagiyev keeps a calm approach in this beat, linking "dobryy" ("good"), "vecher" ("evening"), and "sozhaleniyu" ("regret") in one brisk exchange.
-- 'This is Rita, my nurse from the hospital.' Nagiyev displays a steady direction in the scene, anchoring the Russian line on "rita" ("rita") and "sidelka" ("hospital") without extra filler.
-- 'She saved me from death and from boredom.' Nagiyev displays an honest view toward Max, anchoring the Russian line on "spasla" ("saved") and "smerti" ("death") without extra filler.
-- 'This is dorado in a cocoon flambé.' German chooses a direct mood in the room, leaning on "dorada" ("sea bream") before closing the thought with "kokone" ("flambé").
-- 'Flambé, as I understand it, means it is going to burn?' Nagiyev asks briskly at this point, pairing "flambe" ("flambé") with "ponimayu" ("understand") to get the point across in plain spoken Russian.
-- 'Of course. It will burn brightly.' German displays a measured view in this beat, leaning on "konechno" ("of course") before closing the thought with "goret" ("to burn, to shine").
-- 'Well then, German. Make it look beautiful for us.' Nagiyev sets a serious mood on the spot, anchoring the Russian line on "sdelayte" ("make") and "krasivo" ("beautifully") without extra filler.
-- 'With pleasure.' German sustains a pointed style in this beat, using "udovolstviyem" ("pleasure") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Some scoundrel ordered that fish.' Max keeps a playful tempo without hesitation, linking "gad" ("guy"), "zakazal" ("ordered"), and "rybu" ("fish") in one brisk exchange.
-- 'Such a great plan fell through.' Max projects a serious tempo for German, leaning on "plan" ("plan") before closing the thought with "provalilsya" ("to plan").
-- 'Is my fish ready? Take it away.' Max challenges pointedly as the talk turns, joining "ryba" ("fish") to "gotova" ("ready") so every word pulls its weight.
+- 'Good evening, Dmitry Vladimirovich.' German features one loaded choice at once: "dobryy" means "good", and it carries the main weight of what German is saying.
+- 'Good evening. Unfortunately, I do not know your name.' Nagiyev counters warmly with a smile, making his position completely clear.
+- 'This is Rita, my nurse from the hospital.' Nagiyev pushes back dryly facing German, grounding the moment in plain reality.
+- 'She saved me from death and from boredom.' Nagiyev frames one familiar expression at once: "smerti" means "death" (from "smert"), giving the line its exact edge.
+- 'This is dorado in a cocoon flambé.' German makes the comeback at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Flambé, as I understand it, means it is going to burn?' Nagiyev asks plainly about what Max just brought up.
+- 'Of course. It will burn brightly.' German features this direct element at once: "konechno" means "of course", and it carries the main weight of what German is saying.
+- 'Well then, German. Make it look beautiful for us.' Nagiyev answers promptly in their talk, shifting the whole mood of the room in a single beat.
+- 'With pleasure.' German stands firm firmly in this moment, to clear the air between them once and for all.
+- 'Some scoundrel ordered that fish.' Max favors one vivid choice on cue: "zakazal" means "ordered" (from "zakazat"), giving the line its exact edge.
+- 'Such a great plan fell through.' Max sends that thought in earnest: the "-sya" ending on "provalilsya" ("to plan") turns the action inward or makes it happen between people naturally.
+- 'Is my fish ready? Take it away.' Max inquires evenly why things suddenly took this turn between them.

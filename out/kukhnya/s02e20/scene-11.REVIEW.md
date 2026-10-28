@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just informed a moment ago.' Barinov strikes a firm angle in the conversation, building the phrase around "tolko" ("only") and "soobshchili" ("to inform, report") for a crisp, natural delivery.
-- 'For good luck!' Kostya chooses an emphatic position at this moment, building the phrase around "schastye" ("happiness") and "na" ("on, onto") for a crisp, natural delivery.
-- 'Well, of course, for good luck!' Barinov adopts an earnest bearing for Kostya, anchoring the Russian line on "konechno" ("of course") and "schastye" ("happiness") without extra filler.
-- 'Smash away to your heart's content!' Kostya maintains a calm line right away, anchoring the Russian line on "beyte" ("to beat, to hit") and "zdorovye" ("health") without extra filler.
-- 'Put all of that good luck straight onto his bill.' Barinov takes a grounded angle in the scene, linking "vbey" ("to drive in"), "schastye" ("happiness"), and "schet" ("account") in one brisk exchange.
-- 'He is going to smash every dish we have.' Kostya offers an emphatic attitude in the conversation, leaning on "perekolotit" ("to smash, break all") before closing the thought with "vse" ("all").
-- 'You should not have come back here, pal.' Barinov maintains a resolute posture in this beat, leaning on "zrya" ("for nothing") before closing the thought with "syuda" ("here").
-- 'The Chef will literally kill you if he sees you.' Kostya holds an unhurried mood toward Barinov, linking "realno" ("really possible"), "pribyet" ("to kill, clobber"), and "uvidit" ("will see") in one brisk exchange.
-- 'I am not going to leave him alone.' Barinov displays a playful footing straight away, putting "otstanu" ("to fall behind") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'Not until I have a proper talk with him.' Kostya keeps an earnest rhythm as the scene unfolds, pairing "poka" ("bye") with "normalno" ("fine, OK") to get the point across in plain spoken Russian.
-- 'You will get lucky one day too.' Barinov holds a thoughtful attitude with Kostya, combining "tozhe" ("too") and "kogda-nibud" ("someday, one day") so the key meaning lands right away.
-- 'I have already gotten lucky.' Kostya brings a lively manner as the scene unfolds, pairing "uzhe" ("already, now") with "povezlo" ("it was lucky") to get the point across in plain spoken Russian.
+- 'I was just informed a moment ago.' Barinov gives the comment before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'For good luck!' Kostya responds steadily with a shrug, making his position completely clear.
+- 'Well, of course, for good luck!' Barinov spotlights one clear element for Kostya: "schastye" means "happiness", and it carries the main weight of what Barinov is saying.
+- 'Smash away to your heart's content!' Kostya makes that point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Put all of that good luck straight onto his bill.' Barinov speaks steadily before Kostya, watching Kostya's face to see how the news lands.
+- 'He is going to smash every dish we have.' Kostya uses one colorful expression toward Barinov: "perekolotit" means "to smash, break all", and it carries the main weight of what Kostya is saying.
+- 'You should not have come back here, pal.' Barinov highlights one key piece in reply: "starik" means "old man", and it carries the main weight of what Barinov is saying.
+- 'The Chef will literally kill you if he sees you.' Kostya proceeds frankly to be clear, grounding the moment in plain reality.
+- 'I am not going to leave him alone.' Barinov colors one memorable word with Kostya: "otstanu" means "to fall behind" (from "otstat"), giving the line its exact edge.
+- 'Not until I have a proper talk with him.' Kostya counters steadily in this moment, before Barinov can change the subject.
+- 'You will get lucky one day too.' Barinov proceeds evenly toward Kostya, making his position completely clear.
+- 'I have already gotten lucky.' Kostya chooses this key word in earnest: "povezlo" means "it was lucky" (from "povezti"), giving the line its exact edge.

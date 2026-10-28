@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you are, please.' Max keeps a thoughtful manner right away, joining "proshu" ("beg, ask") to "vas" ("you") so every word pulls its weight.
-- 'Do you want anything else? It's just that the kitchen is closing.' Max queries plainly toward Vika here, building the phrase around "yeshchyo" ("more, still") and "khotite" ("want") for a crisp, natural delivery.
-- 'The kitchen is closing, and you and Katya are staying until the last guest.' Nagiyev shares a brisk line with Max, pairing "zakryvayetsya" ("is closing") with "kukhnya" ("kitchen") so the "-sya" ending carries the action.
-- 'What do you mean, staying? All the guests have already left.' Max questions candidly to make the point, joining "kak" ("how") to "ostayomsya" ("stay") so every word pulls its weight.
-- 'What, am I not a guest? So go to the kitchen.' Nagiyev asks naturally without a pause, anchoring the Russian line on "gost" ("guest") and "poetomu" ("that's why") without extra filler.
-- 'Bring something else tasty.' Nagiyev brings a calm line beside Vika, leaning on "prinesi" ("bring") before closing the thought with "vkusnenkoye" ("something tasty").
-- 'Quick march!' Nagiyev displays a serious rhythm as the scene unfolds, weaving "shagom" ("at a march") together with "marsh" ("march") just the way native speakers do.
-- 'And regarding our last conversation...' Vika chooses a measured style at once, pairing "poslednego" ("the last") with "razgovora" ("conversation") to get the point across in plain spoken Russian.
-- 'I see everything! I said, to the kitchen!' Nagiyev presents a measured tack at this moment, anchoring the Russian line on "vizhu" ("see") and "skazal" ("said") without extra filler.
-- 'Quick, march!' Nagiyev maintains a steady angle during the exchange, anchoring the Russian line on "bystro" ("quickly") and "marsh" ("march") without extra filler.
-- 'Vika, let's not do this right now, okay?' Max queries frankly in their exchange, using "davay" (from "davat", "let's") alongside "seychas" ("now") to shape the meaning.
-- 'You see how it is, don't you?' Max probes warmly without a pause, linking "vidish" ("see"), "ty" ("you"), and "zhe" ("but, after all") in one brisk exchange.
+- 'Here you are, please.' Max sharpens this key detail in earnest: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
+- 'Do you want anything else? It's just that the kitchen is closing.' Max gives that reply frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'The kitchen is closing, and you and Katya are staying until the last guest.' Nagiyev opens up briskly as they talk, to clear the air between them once and for all.
+- 'What do you mean, staying? All the guests have already left.' Max underscores one practical expression at once: "ostayomsya" means "stay" (from "ostavatsya"), giving the line its exact edge.
+- 'What, am I not a guest? So go to the kitchen.' Nagiyev delivers this answer for Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Bring something else tasty.' Nagiyev continues frankly without a pause, watching Vika's face to see how the news lands.
+- 'Quick march!' Nagiyev colors one key expression in earnest: "shagom" means "at a march", and it carries the main weight of what Nagiyev is saying.
+- 'And regarding our last conversation...' Vika responds dryly on the spot, without trying to dress up how she really feels.
+- 'I see everything! I said, to the kitchen!' Nagiyev follows up briskly during the talk, watching Max's face to see how the news lands.
+- 'Quick, march!' Nagiyev spotlights one sharp piece on cue: "bystro" means "quickly", and it carries the main weight of what Nagiyev is saying.
+- 'Vika, let's not do this right now, okay?' Max gives this point frankly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'You see how it is, don't you?' Max quizzes promptly where this conversation is heading next.

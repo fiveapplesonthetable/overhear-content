@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, please make a pot of tea.' Max favors a pointed approach in front of Kostya, using "delay" (from "delat", "do") alongside "chaynik-chay" ("teapot, kettle") to shape the meaning.
-- 'Hey there, Max.' Kostya strikes an emphatic course with Sasha, anchoring the Russian line on "privet" ("hi") and "maks" ("Max") without extra filler.
-- 'Listen, Sashulya, please forgive me.' Sasha picks a measured view as they talk, combining "slushay" ("listen") and "prosti" ("sorry, forgive me") so the key meaning lands right away.
-- 'I have thought everything through.' Max establishes an emphatic mood without hesitation, leaning on "osoznal" ("to realize") before closing the thought with "no" ("but").
-- 'Of course it is foolish to be jealous of you over Ilya.' Kostya brings a brisk rhythm beside Max, combining "konechno" ("of course") and "glupo" ("stupid") so the key meaning lands right away.
-- 'The past stays in the past.' Sasha offers a frank course in their talk, linking "proshloye" ("last, past"), "ostalos" ("was left"), and "proshlom" ("last, past") in one brisk exchange.
-- 'Will you forgive me?' Max prompts lightly with Kostya now, pairing "prostish" ("to forgive") with "menya" ("me") to get the point across in plain spoken Russian.
-- 'I am still upset with you.' Kostya presents a calm footing across the room, leaning on "obizhena" ("offended, hurt") before closing the thought with "ya" ("I").
-- 'But I am not holding a grudge.' Sasha presents a calm tone in their talk, pairing "zla" ("evil, harm") with "derzhu" ("keep, hold") to get the point across in plain spoken Russian.
-- 'This is for you.' Max picks a warm tack for Sasha, placing "eto" ("this") straight beside "tebe" ("for you, to you") with no word for "to be" needed.
-- 'Sasha, let us tell Max everything.' Kostya conveys a natural line without hesitation, using "davay" (from "davat", "let's") alongside "rasskazhem" ("to tell") to shape the meaning.
-- 'What are you two discussing?' Sasha challenges plainly in their exchange, joining "obsuzhdayete" ("to discuss") to "chto" ("what") so every word pulls its weight.
+- 'Kostya, please make a pot of tea.' Max underscores one direct term for Kostya: "chaynik-chay" means "teapot, kettle" (from "chaynik"), giving the line its exact edge.
+- 'Hey there, Max.' Kostya offers this statement with candor: opening with the casual greeting "privet" ("hi") signals right away that Kostya and Sasha are on familiar terms.
+- 'Listen, Sashulya, please forgive me.' Sasha holds firm firmly across the room, shifting the whole mood of the room in a single beat.
+- 'I have thought everything through.' Max centers one pointed expression on cue: "osoznal" means "to realize" (from "osoznat"), giving the line its exact edge.
+- 'Of course it is foolish to be jealous of you over Ilya.' Kostya chooses one clear word toward Max: "konechno" means "of course", and it carries the main weight of what Kostya is saying.
+- 'The past stays in the past.' Sasha weighs in dryly before Max, making her position completely clear.
+- 'Will you forgive me?' Max highlights one vivid term right here: "prostish" means "to forgive" (from "prostit"), giving the line its exact edge.
+- 'I am still upset with you.' Kostya lays out the thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But I am not holding a grudge.' Sasha follows up calmly in their talk, grounding the moment in plain reality.
+- 'This is for you.' Max lays out the reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Sasha, let us tell Max everything.' Kostya sends this point in earnest: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'What are you two discussing?' Sasha inquires candidly why things suddenly took this turn between them.

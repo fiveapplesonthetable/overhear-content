@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's go carefully, breathe deeply right now.' The doctor adopts a frank course in their talk, joining "davayte" ("let's") to "akkuratnenko" ("carefully, gently") so every word pulls its weight.
-- 'Max, do not leave, I am very scared.' Vika takes a serious tone as they talk, joining "ukhodi" ("go away") to "ochen" ("very much") so every word pulls its weight.
-- 'He can stay, come on, breathe deeply.' The doctor strikes a candid approach at this moment, combining "mozhno" ("may, can") and "ostatsya" ("to remain, to be left") so the key meaning lands right away.
-- 'Critical situations test our feelings.' Max offers an earnest mood across the room, linking "kriticheskiye" ("critical"), "situatsii" ("situation"), and "proveryayut" ("to check, test") in one brisk exchange.
-- 'To some they say that the experiment should end.' Max offers a grounded view for the doctor, linking "govoryat" ("talks, says"), "opyt" ("experience"), and "pora" ("it's time") in one brisk exchange.
-- 'To others they show that they are on the right path.' Max offers an emphatic posture in their talk, linking "drugim" ("other"), "dayut" ("they give"), and "ponyat" ("to understand") in one brisk exchange.
-- 'And the main discovery still lies ahead.' Max shows a measured approach at once, joining "glavnoye" ("important") to "issledovaniye" ("discovery") so every word pulls its weight.
-- 'And our main result is a new life.' Max maintains a steady angle in the scene, linking "glavnyy" ("main, chief") directly with "itog" ("result, total"), since Russian drops "is" and "are" in the present.
-- 'Look how beautiful she is.' Vika establishes a pointed angle at this moment, combining "posmotri" ("look") and "krasivaya" ("pretty, beautiful") so the key meaning lands right away.
-- 'What will you and I name her?' Max quizzes naturally as they speak, weaving "kak" ("how") together with "nazovyom" ("will name") just the way native speakers do.
-- 'Did you say we will name her together?' Vika probes boldly without a pause, putting "skazal" ("said") alongside "vmeste" ("together") in a tight, everyday turn of phrase.
-- 'This is our child, thank you, my darling.' Max shares an unhurried angle in this beat, placing "rebyonok" ("a child") straight beside "spasibo" ("thank you") with no word for "to be" needed.
+- 'Let's go carefully, breathe deeply right now.' The doctor sends this warning on cue: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'Max, do not leave, I am very scared.' Vika speaks lightly to be clear, letting the remark speak for itself.
+- 'He can stay, come on, breathe deeply.' The doctor emphasizes one vivid touch at once: "ostatsya" means "to remain, to be left", and it carries the main weight of what the doctor is saying.
+- 'Critical situations test our feelings.' Max weighs in boldly hearing Vika, grounding the moment in plain reality.
+- 'To some they say that the experiment should end.' Max weighs in candidly before the doctor, saying out loud what both of them already know.
+- 'To others they show that they are on the right path.' Max frames this sharp expression on cue: "drugim" means "other" (from "drugoy"), giving the line its exact edge.
+- 'And the main discovery still lies ahead.' Max steps in bluntly before the doctor, saying out loud what both of them already know.
+- 'And our main result is a new life.' Max chimes in firmly with a sigh, before Vika can change the subject.
+- 'Look how beautiful she is.' Vika chooses one loaded touch at once: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'What will you and I name her?' Max offers this answer plainly here: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Did you say we will name her together?' Vika checks wryly what the doctor is actually getting at here.
+- 'This is our child, thank you, my darling.' Max features this direct term right here: "rebyonok" means "a child", and it carries the main weight of what Max is saying.

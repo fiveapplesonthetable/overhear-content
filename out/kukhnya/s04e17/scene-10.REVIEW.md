@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, German, flowers are not necessary.' Vika presents a playful stance with German, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
-- 'You mean the flowers? Forgive me, they are not for you.' German checks plainly right away, putting "tsvety" ("the flowers") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
-- 'They are for my sick aunt.' German sets a firm note in the conversation, linking "bolnoy" ("crazy") directly with "tyoti" ("aunt"), since Russian drops "is" and "are" in the present.
-- 'Shall we go to the theater together tonight?' German probes frankly without holding back, anchoring the Russian line on "skhodim" ("go, pop over") and "segodnya" ("today") without extra filler.
-- 'I was supposed to go with my aunt.' German picks an earnest mood across the room, anchoring the Russian line on "dolzhen" ("has to, must") and "byl" ("was") without extra filler.
-- 'But she suddenly fell ill yesterday.' German brings a sharp angle in the room, putting "vchera" ("yesterday") alongside "vdrug" ("suddenly, what if") in a tight, everyday turn of phrase.
-- 'Will you help me out tonight?' German checks candidly in their exchange, weaving "segodnya" ("today") together with "vecherom" ("in the evening") just the way native speakers do.
-- 'All right, I will go with pleasure.' Vika displays a resolute position right away, building the phrase around "khorosho" ("good, fine") and "udovolstviyem" ("pleasure") for a crisp, natural delivery.
-- 'Remember, we have been dating for three years already.' Katya sustains a grounded posture beside German, leaning on "zapomni" ("remember") before closing the thought with "vstrechayemsya" ("have been going out").
-- 'You proposed marriage to me.' Katya establishes a sharp view toward Vika, pairing "sdelal" ("did") with "predlozheniye" ("offer, proposal") to get the point across in plain spoken Russian.
-- 'After all, you are just lying to my friend.' Katya strikes a lively angle without hesitation, weaving "prosto" ("just") together with "podruge" ("friend") just the way native speakers do.
-- 'We are heading out at seven sharp.' Katya sets a wry tack with Vika, combining "vyyezzhayem" ("to drive out") and "rovno" ("exactly") so the key meaning lands right away.
+- 'Good morning, German, flowers are not necessary.' Vika reaches for one sharp expression toward German: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'You mean the flowers? Forgive me, they are not for you.' German aims the reply on cue: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'They are for my sick aunt.' German answers plainly hearing Katya, without trying to dress up how he really feels.
+- 'Shall we go to the theater together tonight?' German frames one telling word for Vika: "segodnya" means "today", and it carries the main weight of what German is saying.
+- 'I was supposed to go with my aunt.' German holds firm right away hearing Katya, keeping the focus on what actually matters here.
+- 'But she suddenly fell ill yesterday.' German continues honestly during the talk, leaving no doubt about where he stands.
+- 'Will you help me out tonight?' German colors one clear touch toward Katya: "vyruchite" means "to help out" (from "vyruchit"), giving the line its exact edge.
+- 'All right, I will go with pleasure.' Vika states that remark on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Remember, we have been dating for three years already.' Katya stands firm frankly across the room, making her position completely clear.
+- 'You proposed marriage to me.' Katya emphasizes one direct touch toward Vika: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
+- 'After all, you are just lying to my friend.' Katya frames the reply facing German: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'We are heading out at seven sharp.' Katya answers calmly facing Vika, letting the remark speak for itself.

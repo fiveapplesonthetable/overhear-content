@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you heard, our owner is dying.' Eleonora sustains an earnest note in the room, anchoring the Russian line on "slyshali" ("did you hear") and "khozyayka" ("landlady") without extra filler.
-- 'If I hear one more time that you are spreading gossip...' Mikhail maintains a resolute tone beside Eleonora, pairing "yeshchyo" ("more, still") with "raz" ("time, once") to get the point across in plain spoken Russian.
-- 'I will fire you that very same day!' Mikhail takes an easygoing direction with Barinov, joining "den" ("day") to "uvolyu" ("will fire") so every word pulls its weight.
-- 'Honestly, I am not spreading gossip.' Eleonora projects a pointed tone in the conversation, linking "chestnoye" ("honest"), "slovo" ("word"), and "spletni" ("gossip") in one brisk exchange.
-- 'That is all, go work calmly and do not cry.' Mikhail shares a wry line during the exchange, anchoring the Russian line on "idi" ("go") and "spokoyno" ("calmly") without extra filler.
-- 'Why are you gloomier than a storm cloud today?' Barinov inquires promptly to keep things clear, pairing "segodnya" ("today") with "mrachnyy" ("gloomy, grim") to get the point across in plain spoken Russian.
-- 'They say our Eleonora Andreyevna is dying soon.' Mikhail shares an unhurried attitude in front of Barinov, leaning on "govoryat" ("talks, says") before closing the thought with "skoro" ("soon").
-- 'And Mikhail Dzhekovich almost fired me for it.' Eleonora adopts a lively style during the exchange, leaning on "chut" ("almost, nearly") before closing the thought with "uvolil" ("to fire, to dismiss").
-- 'Wait, what do you mean Eleonora is dying?' Mikhail tests candidly as they speak, pairing "podozhdi" ("wait") with "znachit" ("then, so") to get the point across in plain spoken Russian.
-- 'She is very seriously ill, everyone already knows.' Barinov holds a candid line as the scene unfolds, leaning on "ochen" ("very much") before closing the thought with "silno" ("strongly, much").
-- 'Where on earth did you get all of this?' Mikhail inquires calmly as the talk turns, combining "otkuda" ("where from") and "voobshche" ("at all") so the key meaning lands right away.
-- 'Viktor Petrovich himself told us this morning.' Eleonora sets an easygoing style toward Mikhail, anchoring the Russian line on "utrom" ("this morning") and "rasskazal" ("told") without extra filler.
+- 'Have you heard, our owner is dying.' Eleonora stands firm earnestly in this moment, grounding the moment in plain reality.
+- 'If I hear one more time that you are spreading gossip...' Mikhail colors one practical touch toward Eleonora: "rasprostranyayesh" means "you spread" (from "rasprostranyat"), giving the line its exact edge.
+- 'I will fire you that very same day!' Mikhail grounds this telling word at once: "uvolyu" means "will fire" (from "uvolit"), giving the line its exact edge.
+- 'Honestly, I am not spreading gossip.' Eleonora jumps in frankly with a nod, to clear the air between them once and for all.
+- 'That is all, go work calmly and do not cry.' Mikhail spotlights one telling element on cue: "spokoyno" means "calmly", and it carries the main weight of what Mikhail is saying.
+- 'Why are you gloomier than a storm cloud today?' Barinov gives the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They say our Eleonora Andreyevna is dying soon.' Mikhail opens up quietly around Barinov, shifting the whole mood of the room in a single beat.
+- 'And Mikhail Dzhekovich almost fired me for it.' Eleonora colors one familiar choice at once: "uvolil" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
+- 'Wait, what do you mean Eleonora is dying?' Mikhail lays out the reply around Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'She is very seriously ill, everyone already knows.' Barinov proceeds evenly before Mikhail, steering the talk right where he wants it.
+- 'Where on earth did you get all of this?' Mikhail reaches for one direct element at once: "voobshche" means "at all", and it carries the main weight of what Mikhail is saying.
+- 'Viktor Petrovich himself told us this morning.' Eleonora answers right away to settle things, testing Mikhail's reaction in the middle of the exchange.

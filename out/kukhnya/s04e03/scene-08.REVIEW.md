@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how long have you been bringing coffee to German?' Max wonders bluntly during the talk, anchoring the Russian line on "davno" ("for a long time") and "germanu" ("coffee") without extra filler.
-- 'What nonsense is that? German Mikhailovich simply asked for coffee.' Kostya questions boldly at this point, combining "bred" ("nonsense") and "prosto" ("just") so the key meaning lands right away.
-- 'Today he simply asked for coffee and you brought it.' Max shows a candid note as they talk, putting "segodnya" ("today") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'And tomorrow if he asks you to snitch, you won't refuse either?' Max wonders openly in the scene, combining "zavtra" ("tomorrow") and "stuchat" ("to knock") so the key meaning lands right away.
-- 'Who, me? I cannot stand him at all.' Kostya checks calmly in their exchange, weaving "terpet" ("to hold on") together with "mogu" ("can") just the way native speakers do.
-- 'I even spat into his cup.' Kostya adopts a brisk note for Max, combining "chashku" ("a cup") and "plyunul" ("to cup") so the key meaning lands right away.
-- 'Really? Spit in it one more time.' Max quizzes evenly in the room, joining "plyun" ("spit") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'Alright, watch this.' Kostya holds a pointed stance without hesitation, leaning on "davay" ("let's") as a compact, one-word response that needs no extra words.
-- 'I join in your hatred, brother.' Max takes a measured tack beside German, linking "prisoyedinyayus" ("hatred"), "nenavisti" ("to brother"), and "brat" ("brother") in one brisk exchange.
-- 'A coffee break? I will gladly join you.' German inquires quietly beside Max, leaning on "kofe-breyk" ("coffee") before closing the thought with "udovolstviyem" ("pleasure").
-- 'Let's drink some coffee.' German establishes a sharp line straight away, building the phrase around "vypyem" ("will drink") and "kofeyku" ("drink") for a crisp, natural delivery.
-- 'And then we will proceed to the evaluation.' German offers a clear bearing at once, combining "pristupim" ("to start, get down to") and "attestatsii" ("evaluation") so the key meaning lands right away.
+- 'And how long have you been bringing coffee to German?' Max directs this point facing German: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
+- 'What nonsense is that? German Mikhailovich simply asked for coffee.' Kostya checks plainly where this conversation is heading next.
+- 'Today he simply asked for coffee and you brought it.' Max uses this direct choice with German: "segodnya" means "today", and it carries the main weight of what Max is saying.
+- 'And tomorrow if he asks you to snitch, you won't refuse either?' Max directs that reply with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Who, me? I cannot stand him at all.' Kostya inquires straight out before German can change the subject.
+- 'I even spat into his cup.' Kostya colors one sharp expression for Max: "chashku" means "a cup" (from "chashka"), giving the line its exact edge.
+- 'Really? Spit in it one more time.' Max offers that answer on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
+- 'Alright, watch this.' Kostya proceeds dryly as they talk, saying out loud what both of them already know.
+- 'I join in your hatred, brother.' Max picks one classic piece in earnest: "prisoyedinyayus" means "hatred", and it carries the main weight of what Max is saying.
+- 'A coffee break? I will gladly join you.' German states that line with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Let's drink some coffee.' German cuts in at once across the room, without trying to dress up how he really feels.
+- 'And then we will proceed to the evaluation.' German focuses on one colorful expression with Max: "attestatsii" means "evaluation" (from "attestatsiya"), giving the line its exact edge.

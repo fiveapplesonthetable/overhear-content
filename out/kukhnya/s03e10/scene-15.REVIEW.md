@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But this little box is completely empty.' Vika maintains an easygoing direction straight away, pairing "korobochka" ("little box") with "sovsem" ("at all") to get the point across in plain spoken Russian.
-- 'Because the key ring would not fit in there.' Nagiyev chooses a direct bearing during the exchange, anchoring the Russian line on "potomu" ("because") and "svyazka" ("ligament, vocal cord") without extra filler.
-- 'These are the keys to my apartment.' Nagiyev takes an unhurried posture beside Vika, combining "klyuchi" ("the keys") and "kvartiry" ("flat") so the key meaning lands right away.
-- 'To our apartment, if only you want that.' Nagiyev picks a lively manner in front of Vika, combining "kvartiry" ("flat") and "zakhochesh" ("you want") so the key meaning lands right away.
-- 'If you and I start living together.' Nagiyev projects a serious footing as they talk, joining "nachnyom" ("we start") to "zhit" ("to live") so every word pulls its weight.
-- 'Then everything will start moving faster for us.' Nagiyev favors a firm direction at this moment, combining "togda" ("back then") and "bystreye" ("faster") so the key meaning lands right away.
-- 'Dima, I do not know, are we not rushing things?' Vika quizzes bluntly beside Nagiyev, combining "znayu" ("know") and "toropimsya" ("are hurrying") so the key meaning lands right away.
-- 'We are rushing, you and I have to rush.' Nagiyev holds a sharp stance as they talk, leaning on "toropimsya" ("are hurrying") before closing the thought with "dolzhny" ("must, should").
-- 'After all, I am not a boy anymore.' Nagiyev presents a sharp tone in the conversation, leaning on "uzhe" ("already, now") before closing the thought with "sovsem" ("at all").
-- 'After all, I did not buy a plot at the cemetery.' Nagiyev keeps a sharp course for Vika, linking "kladbishche" ("cemetery"), "zemlyu" ("land"), and "kupil" ("bought") in one brisk exchange.
-- 'This is the key to the second door.' Nagiyev maintains an honest style in the scene, weaving "klyuch" ("key") together with "vtoroy" ("second") just the way native speakers do.
-- 'Do not lock it, otherwise the cleaning lady will not get in.' Nagiyev picks a thoughtful rhythm for Vika, pairing "zakryvay" ("close") with "inache" ("otherwise") to get the point across in plain spoken Russian.
+- 'But this little box is completely empty.' Vika chimes in quietly across the room, saying out loud what both of them already know.
+- 'Because the key ring would not fit in there.' Nagiyev emphasizes one colorful detail at once: "svyazka" means "ligament, vocal cord", and it carries the main weight of what Nagiyev is saying.
+- 'These are the keys to my apartment.' Nagiyev puts the thought toward Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'To our apartment, if only you want that.' Nagiyev holds firm promptly around Vika, refusing to let the moment slip past.
+- 'If you and I start living together.' Nagiyev stresses one memorable piece right here: "nachnyom" means "we start" (from "nachat"), giving the line its exact edge.
+- 'Then everything will start moving faster for us.' Nagiyev gives the reply briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Dima, I do not know, are we not rushing things?' Vika checks sharply about what Nagiyev just brought up.
+- 'We are rushing, you and I have to rush.' Nagiyev grounds this key touch for Vika: "toropimsya" means "are hurrying" (from "toropitsya"), giving the line its exact edge.
+- 'After all, I am not a boy anymore.' Nagiyev brings the remark toward Vika: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'After all, I did not buy a plot at the cemetery.' Nagiyev counters earnestly with a shrug, saying out loud what both of them already know.
+- 'This is the key to the second door.' Nagiyev frames one familiar element in reply: "klyuch" means "key", and it carries the main weight of what Nagiyev is saying.
+- 'Do not lock it, otherwise the cleaning lady will not get in.' Nagiyev anchors one memorable word in earnest: "uborshchitsa" means "cleaning lady", and it carries the main weight of what Nagiyev is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will find work for all the jokers here.' Lyova sustains an honest note in the conversation, building the phrase around "shutnikam" ("to the pranksters") and "rabotu" ("job") for a crisp, natural delivery.
-- 'Lavrov, get on vegetable prep.' Lyova brings a measured line in their talk, pairing "zagotovki" ("preparation") with "lavrov" ("Lavrov") to get the point across in plain spoken Russian.
-- 'That is an order.' Lyova chooses a serious view as they talk, anchoring the Russian line on "prikaz" ("the order") and "eto" ("this") without extra filler.
-- 'Good morning!' Barinov keeps a resolute tack during the exchange, putting "dobroye" ("good") alongside "utro" ("morning") in a tight, everyday turn of phrase.
-- 'Why are you frozen there, seals?' Barinov asks lightly in the room, joining "zastyli" ("frozen") to "tyuleni" ("seals") so every word pulls its weight.
-- 'Chef, what about yesterday though?' Lyova asks firmly to keep things clear, pairing "vchera" ("yesterday") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'And you believed it. Well, I acted foolishly.' Barinov picks a wry rhythm during the exchange, anchoring the Russian line on "poverili" ("believed") and "sglupil" ("to foolishly") without extra filler.
-- 'Dima lost his temper. It happens to everyone.' Barinov adopts an emphatic tempo in this beat, pairing "pogoryachilsya" ("to lost") with "byvayet" ("there can be") to get the point across in plain spoken Russian.
-- 'He is not foolish enough to fire me.' Barinov brings a brisk direction in this beat, anchoring the Russian line on "durak" ("fool, idiot") and "uvolit" ("to fire") without extra filler.
-- 'Quite a fool indeed.' Nagiyev takes an earnest view without hesitation, combining "yeshchyo" ("more, still") and "durak" ("fool, idiot") so the key meaning lands right away.
-- 'Why are we standing around? Get to work.' Nagiyev presses wryly across the room, combining "stoim" ("to stand") and "rabotayem" ("we work, let's work") so the key meaning lands right away.
-- 'In a few days there will be a new chef. And you leave.' Nagiyev sets a sharp bearing in their talk, putting "dnyakh" ("days") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'I will find work for all the jokers here.' Lyova stands firm quietly toward Barinov, bringing things back to earth after the buildup.
+- 'Lavrov, get on vegetable prep.' Lyova leans on one practical word in earnest: "zagotovki" means "preparation" (from "zagotovka"), giving the line its exact edge.
+- 'That is an order.' Lyova directs the reply for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Good morning!' Barinov counters right away with a nod, so Nagiyev knows he is not just making small talk.
+- 'Why are you frozen there, seals?' Barinov leans on this key expression on cue: "zastyli" means "frozen", and it carries the main weight of what Barinov is saying.
+- 'Chef, what about yesterday though?' Lyova delivers the remark right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'And you believed it. Well, I acted foolishly.' Barinov holds firm at once with a shrug, bringing things back to earth after the buildup.
+- 'Dima lost his temper. It happens to everyone.' Barinov colors one telling element right here: "pogoryachilsya" means "to lost" (from "pogoryachitsya"), giving the line its exact edge.
+- 'He is not foolish enough to fire me.' Barinov continues at once with a shrug, before Lyova can change the subject.
+- 'Quite a fool indeed.' Nagiyev speaks quietly without a pause, before Lyova can change the subject.
+- 'Why are we standing around? Get to work.' Nagiyev chooses one memorable piece for Barinov: "rabotayem" means "we work, let's work" (from "rabotat"), giving the line its exact edge.
+- 'In a few days there will be a new chef. And you leave.' Nagiyev features one familiar term with Lyova: "novyy" means "new", and it carries the main weight of what Nagiyev is saying.

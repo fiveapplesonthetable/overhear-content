@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Imagine, they carried off the entire safe.' Nagiyev establishes a sharp approach in the scene, leaning on "predstav" ("imagine") before closing the thought with "unesli" ("to carry away").
-- 'With all the money and everything inside.' Nagiyev keeps a calm stance straight away, weaving "dengami" ("the money, funding") together with "delami" ("matter, thing to do") just the way native speakers do.
-- 'Oh, what a difficult situation you have.' Max presents a steady bearing with Kristina, putting "tyazhyolaya" ("heavy, severe") alongside "situatsiya" ("situation") in a tight, everyday turn of phrase.
-- 'I sincerely sympathize with you, Dima.' Max strikes a frank footing in the conversation, leaning on "iskrenne" ("sincerely") before closing the thought with "sochuvstvuyu" ("sympathize").
-- 'You will like my new purchase offer.' Max shares a resolute course straight away, pairing "ponravitsya" ("will please") with "novoye" ("new") so the "-sya" ending carries the action.
-- 'Why are you standing here listening?' Nagiyev presses promptly to Max here, leaning on "tut" ("here") before closing the thought with "stoish" ("stand").
-- 'Go and do some work in the dining room.' Nagiyev picks a frank position on the spot, anchoring the Russian line on "idi" ("go") and "skoreye" ("quickly, right away") without extra filler.
-- 'Stand calmly and smile nicely.' Nagiyev favors a sharp direction with Max, building the phrase around "stoy" ("stop, wait") and "spokoyno" ("calmly") for a crisp, natural delivery.
-- 'Come on, go back to work quickly.' Nagiyev picks an honest position in this beat, combining "davay" ("let's") and "bystro" ("quickly") so the key meaning lands right away.
-- 'That man offered Nagiyev to sell the restaurant.' Kristina strikes a clear direction for Nagiyev, putting "chelovek" ("a man, a person") alongside "predlozhil" ("suggested") in a tight, everyday turn of phrase.
-- 'And what did our Nagiyev answer him?' Max probes quietly beside Kristina, anchoring the Russian line on "otvetil" ("answered") and "chto" ("what") without extra filler.
-- 'He just sent me back to work.' Kristina strikes a sharp position at once, joining "prosto" ("just") to "poslal" ("sent") so every word pulls its weight.
+- 'Imagine, they carried off the entire safe.' Nagiyev chooses this telling term for Kristina: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
+- 'With all the money and everything inside.' Nagiyev counters at once without a pause, watching Max's face to see how the news lands.
+- 'Oh, what a difficult situation you have.' Max follows up candidly with a sigh, shifting the whole mood of the room in a single beat.
+- 'I sincerely sympathize with you, Dima.' Max sharpens one sharp choice in earnest: "sochuvstvuyu" means "sympathize" (from "sochuvstvovat"), giving the line its exact edge.
+- 'You will like my new purchase offer.' Max frames this clear expression on cue: "predlozheniye" means "offer, proposal", and it carries the main weight of what Max is saying.
+- 'Why are you standing here listening?' Nagiyev tests skeptically whether Max really thought this through.
+- 'Go and do some work in the dining room.' Nagiyev reaches for this sharp choice on cue: "porabotay" means "work a bit" (from "porabotat"), giving the line its exact edge.
+- 'Stand calmly and smile nicely.' Nagiyev speaks up firmly toward Max, watching Max's face to see how the news lands.
+- 'Come on, go back to work quickly.' Nagiyev holds firm openly to be clear, letting the remark speak for itself.
+- 'That man offered Nagiyev to sell the restaurant.' Kristina emphasizes one colorful touch on cue: "predlozhil" means "suggested" (from "predlozhit"), giving the line its exact edge.
+- 'And what did our Nagiyev answer him?' Max hands over the comeback plainly here: putting the question word "chto" right at the front of the line lets Kristina hear the point of the question on the very first beat.
+- 'He just sent me back to work.' Kristina replies briskly with a shrug, shifting the whole mood of the room in a single beat.

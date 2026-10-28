@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just look who showed up.' Senya chooses an earnest tack in the room, pairing "smotri" ("look") with "prishyol" ("came, have come") to get the point across in plain spoken Russian.
-- 'What did he order?' Senya prompts directly as the beat lands, putting "zakazal" ("ordered") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'The chef's special.' Max holds a thoughtful bearing with Senya, linking "blyudo" ("dish"), "shefa" ("chef"), and "ot" ("from") in one brisk exchange.
-- 'He will get a dish alright.' Senya adopts an honest tack beside Vika, anchoring the Russian line on "budet" ("will be") and "blyudo" ("dish") without extra filler.
-- 'The chef's special is ready.' Senya presents an earnest course without hesitation, combining "blyudo" ("dish") and "shefa" ("chef") so the key meaning lands right away.
-- 'That name is in French.' Senya sustains a clear posture for Vika, building the phrase around "po-frantsuzski" ("in French") and "eto" ("this") for a crisp, natural delivery.
-- 'It sounds beautiful.' Max establishes an earnest bearing with Senya, leaning on "zvuchit" ("sounds") before closing the thought with "krasivo" ("beautifully").
-- 'Vika, well, what do you think?' Max inquires promptly on the spot, leaning on "dumayesh" ("think") before closing the thought with "vik" ("Vika").
-- 'Well, there is no fracture, it is only a scratch.' Max brings a serious tack for Senya, linking "pereloma" ("only") directly with "tsarapina" ("a scratch"), since Russian drops "is" and "are" in the present.
-- 'And what if he kills me by accident?' Vika presses honestly on the spot, pairing "ubyot" ("will kill") with "sluchayno" ("by any chance") to get the point across in plain spoken Russian.
-- 'I promise he will not mess up again.' Max presents a lively stance in the conversation, combining "obeshchayu" ("promise") and "bolshe" ("more") so the key meaning lands right away.
-- 'This is for you. What?' Max presses quietly across the room, linking "eto" ("this") directly with "vam" ("you"), since Russian drops "is" and "are" in the present.
+- 'Just look who showed up.' Senya shares that reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What did he order?' Senya questions quietly as Vika tries to explain the situation.
+- 'The chef's special.' Max focuses on this telling expression in earnest: "blyudo" means "dish", and it carries the main weight of what Max is saying.
+- 'He will get a dish alright.' Senya voices that line to Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'The chef's special is ready.' Senya follows up quietly with Max, saying out loud what both of them already know.
+- 'That name is in French.' Senya uses this vivid detail on cue: "po-frantsuzski" means "in French", and it carries the main weight of what Senya is saying.
+- 'It sounds beautiful.' Max gives this warning frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Vika, well, what do you think?' Max probes briskly to see how Vika will answer on the spot.
+- 'Well, there is no fracture, it is only a scratch.' Max reaches for this telling word in reply: "tsarapina" means "a scratch", and it carries the main weight of what Max is saying.
+- 'And what if he kills me by accident?' Vika shares this update without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'I promise he will not mess up again.' Max follows up evenly without holding back, saying out loud what both of them already know.
+- 'This is for you. What?' Max phrases this line toward Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich is waiting for his fish.' Max establishes a resolute attitude at once, leaning on "zhdyot" ("is waiting") before closing the thought with "rybu" ("fish").
-- 'Denis, bring over your culinary masterpiece.' German strikes a resolute course without hesitation, building the phrase around "prinesite" ("bring") and "proizvedeniye" ("work of art") for a crisp, natural delivery.
-- 'German Mikhailovich, do you even know what is going on in the dining room?' Max questions boldly for German's benefit, pairing "voobshche" ("at all") with "znayete" ("know") to get the point across in plain spoken Russian.
-- 'There are guests out there. And everyone is waiting for their orders.' Max shares a natural stance on the spot, linking "tam" ("there"), "gosti" ("visitors, guests"), and "zhdut" ("to wait, to expect") in one brisk exchange.
-- 'Well, we are cooking. So keep cooking.' German keeps a serious position toward Max, linking "gotovim" ("are preparing"), "gotovte" ("cook"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Here is the fish.' Max establishes a frank attitude without hesitation, placing "ryba" ("fish") straight beside "vot" ("there, here") with no word for "to be" needed.
-- 'Excellent. Alright, I will carry it out myself.' German picks a frank approach at once, combining "otlichno" ("perfect, great") and "otnesu" ("to carry to") so the key meaning lands right away.
-- 'This is the last time I am helping you.' Max conveys an emphatic tempo in the room, linking "posledniy" ("last"), "raz" ("time, once"), and "pomogayu" ("to help") in one brisk exchange.
-- 'Can you explain this to all of us?' Nagiyev prompts quietly toward German here, anchoring the Russian line on "mozhesh" ("can") and "obyasnit" ("to explain") without extra filler.
-- 'Why does this top scorer of the evaluation not know how to cook at all?' Nagiyev quizzes warmly in the scene, linking "pochemu" ("why"), "otlichnik" ("handle"), and "attestatsii" ("evaluation") in one brisk exchange.
-- 'Guys, I will explain everything to you right now.' Max favors an earnest style at this moment, building the phrase around "rebyat" ("kids, guys") and "seychas" ("now") for a crisp, natural delivery.
-- 'The thing is that Denis is not a cook.' Max shares a serious manner right away, weaving "delo" ("matter") together with "povar" ("chef, cook") just the way native speakers do.
+- 'Dmitry Vladimirovich is waiting for his fish.' Max delivers this statement to German: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Denis, bring over your culinary masterpiece.' German replies firmly around Nagiyev, refusing to let the moment slip past.
+- 'German Mikhailovich, do you even know what is going on in the dining room?' Max underscores one vivid detail toward German: "voobshche" means "at all", and it carries the main weight of what Max is saying.
+- 'There are guests out there. And everyone is waiting for their orders.' Max opens up warmly before Nagiyev, letting the remark speak for itself.
+- 'Well, we are cooking. So keep cooking.' German counters bluntly around Max, saying out loud what both of them already know.
+- 'Here is the fish.' Max emphasizes one vivid element in reply: "ryba" means "fish", and it carries the main weight of what Max is saying.
+- 'Excellent. Alright, I will carry it out myself.' German shapes that point with warmth: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'This is the last time I am helping you.' Max fires back dryly beside Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Can you explain this to all of us?' Nagiyev frames one loaded expression with German: "obyasnit" means "to explain", and it carries the main weight of what Nagiyev is saying.
+- 'Why does this top scorer of the evaluation not know how to cook at all?' Nagiyev hands over that thought at once: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Guys, I will explain everything to you right now.' Max speaks up candidly with a sigh, watching German's face to see how the news lands.
+- 'The thing is that Denis is not a cook.' Max features one concrete piece at once: "povar" means "chef, cook", and it carries the main weight of what Max is saying.

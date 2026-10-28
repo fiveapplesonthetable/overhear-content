@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you will not come in to work tomorrow.' Mikhail strikes an emphatic style without hesitation, anchoring the Russian line on "znachit" ("then, so") and "zavtra" ("tomorrow") without extra filler.
-- 'Now we need to look for a new musician.' Mikhail presents a resolute style on the spot, combining "teper" ("now") and "nado" ("it is necessary") so the key meaning lands right away.
-- 'I have one musician friend.' Kostya holds a lively footing as they talk, pairing "yest" ("there is") with "znakomyy" ("familiar") to get the point across in plain spoken Russian.
-- 'I can call him right now.' Kostya adopts an earnest course on the spot, using "mogu" (from "moch", "can") alongside "pryamo" ("right, just") to shape the meaning.
-- 'Ainura, I will not rent the apartment to you.' Kostya presents a serious attitude for Barinov, leaning on "kvartiru" ("flat") before closing the thought with "sdam" ("I'll rent out").
-- 'How will eight people live there?' Kostya presses boldly without a pause, putting "kak" ("how") alongside "tam" ("there") in a tight, everyday turn of phrase.
-- 'Are they all really very neat people?' Kostya wonders dryly without hesitation, joining "deystvitelno" ("really, indeed") to "ochen" ("very much") so every word pulls its weight.
-- 'No, I have already given my word.' Kostya displays a sharp approach on the spot, combining "uzhe" ("already, now") and "slovo" ("word") so the key meaning lands right away.
-- 'Kostya, I ran out of drinks in my office.' Barinov brings an unhurried mood in this beat, using "kabinete" (from "kabinet", "office") alongside "konchilos" ("to over") to shape the meaning.
-- 'Give me something strong and quickly.' Barinov sets an easygoing bearing in this beat, pairing "day" ("give") with "krepkogo" ("strong") to get the point across in plain spoken Russian.
-- 'I understood everything, I will bring it quickly now.' Kostya shows a frank manner at this moment, linking "ponyal" ("understood"), "seychas" ("now"), and "bystro" ("quickly") in one brisk exchange.
-- 'Thank you, I am waiting for you at the bar counter.' Barinov displays a natural rhythm right away, pairing "spasibo" ("thank you") with "zhdu" ("I wait, expect") to get the point across in plain spoken Russian.
+- 'So you will not come in to work tomorrow.' Mikhail leans on one loaded element for Barinov: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'Now we need to look for a new musician.' Mikhail directs the remark right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I have one musician friend.' Kostya proceeds quietly with Barinov, to clear the air between them once and for all.
+- 'I can call him right now.' Kostya picks one memorable element in earnest: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'Ainura, I will not rent the apartment to you.' Kostya points to one loaded word with Barinov: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'How will eight people live there?' Weighing in without pause, Kostya brings the conversation back to practical reality.
+- 'Are they all really very neat people?' Kostya features one classic term with Barinov: "akkuratnyye" means "careful, neat" (from "akkuratnyy"), giving the line its exact edge.
+- 'No, I have already given my word.' Kostya pushes back dryly without any doubt, refusing to let the moment slip past.
+- 'Kostya, I ran out of drinks in my office.' Barinov continues openly without holding back, to clear the air between them once and for all.
+- 'Give me something strong and quickly.' Barinov spotlights this vivid piece at once: "krepkogo" means "strong" (from "krepkiy"), giving the line its exact edge.
+- 'I understood everything, I will bring it quickly now.' Kostya aims that point before Barinov: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Thank you, I am waiting for you at the bar counter.' Barinov pushes back dryly without any doubt, letting the remark speak for itself.

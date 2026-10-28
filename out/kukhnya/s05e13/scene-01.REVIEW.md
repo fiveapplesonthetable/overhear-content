@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has the Chef not arrived yet today?' Max questions wryly beside Barinov, anchoring the Russian line on "segodnya" ("today") and "yeshchyo" ("more, still") without extra filler.
-- 'He will probably arrive right now.' Katya shares an unhurried stance in front of Max, combining "navernoye" ("probably") and "seychas" ("now") so the key meaning lands right away.
-- 'Yesterday I went to see Elena Pavlovna.' Barinov holds an emphatic attitude in the conversation, building the phrase around "vchera" ("yesterday") and "poshyol" ("went, set off") for a crisp, natural delivery.
-- 'I made her a proper marriage proposal.' Barinov picks a steady course as the scene unfolds, putting "sdelal" ("did") alongside "normalnoye" ("normal") in a tight, everyday turn of phrase.
-- 'And she immediately said yes to me!' Barinov sustains a resolute view for Katya, pairing "srazu" ("at once") with "skazala" ("told") to get the point across in plain spoken Russian.
-- 'Senya and Fedya, prepare the snacks!' Barinov brings a serious rhythm in their talk, anchoring the Russian line on "gotovte" ("cook") and "zakuski" ("appetizer, snack") without extra filler.
-- 'Louis, quickly bring the shot glasses here!' Barinov holds a calm rhythm on the spot, building the phrase around "bystro" ("quickly") and "nesi" ("bring") for a crisp, natural delivery.
-- 'Do you need a special invitation, Maxim?' Barinov queries steadily as the talk turns, putting "nuzhno" ("necessary") alongside "osoboye" ("special") in a tight, everyday turn of phrase.
-- 'Dad, Max got divorced from Vika today.' Katya displays an unhurried style during the exchange, anchoring the Russian line on "papa" ("Dad") and "segodnya" ("today") without extra filler.
-- 'Then we have all the more reason to drink!' Barinov brings a sharp rhythm at this moment, anchoring the Russian line on "togda" ("back then") and "boleye" ("more") without extra filler.
-- 'Thank you, Viktor Petrovich, I agree.' Max adopts a grounded mood beside Barinov, combining "spasibo" ("thank you") and "soglasen" ("agreed") so the key meaning lands right away.
-- 'Come with me to the office, Maxim.' Barinov displays a thoughtful view in the room, combining "poydyom" ("let's go") and "kabinet" ("office") so the key meaning lands right away.
+- 'Has the Chef not arrived yet today?' Max underscores one memorable piece in earnest: "prikhodil" means "used to come" (from "prikhodit"), giving the line its exact edge.
+- 'He will probably arrive right now.' Katya opens up warmly around Max, shifting the whole mood of the room in a single beat.
+- 'Yesterday I went to see Elena Pavlovna.' Barinov proceeds quietly on the spot, grounding the moment in plain reality.
+- 'I made her a proper marriage proposal.' Barinov centers this telling touch toward Max: "predlozheniye" means "offer, proposal", and it carries the main weight of what Barinov is saying.
+- 'And she immediately said yes to me!' Barinov stands firm openly with Katya, steering the talk right where he wants it.
+- 'Senya and Fedya, prepare the snacks!' Barinov continues frankly in this moment, so Max knows he is not just making small talk.
+- 'Louis, quickly bring the shot glasses here!' Barinov focuses on one concrete detail at once: "ryumki" means "shot glasses" (from "ryumka"), giving the line its exact edge.
+- 'Do you need a special invitation, Maxim?' Barinov gives this line frankly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Dad, Max got divorced from Vika today.' Katya pushes back briskly as things stand, keeping the focus on what actually matters here.
+- 'Then we have all the more reason to drink!' Barinov emphasizes this vivid piece for Max: "boleye" means "more", and it carries the main weight of what Barinov is saying.
+- 'Thank you, Viktor Petrovich, I agree.' Max drops this update before Barinov: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Come with me to the office, Maxim.' Barinov pushes back briskly with Max, watching Max's face to see how the news lands.

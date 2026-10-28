@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn' Senya expresses his surprise at how pleasant the kitchen is today.
+- 'I didn't think it was so great here.' Senya expresses his surprise at how pleasant the kitchen is today.
 - 'It is great everywhere when there is no Max.' Fedya points out that any place is better without Max around.
 - 'Yes, it is very quiet today.' Agreeing with the sentiment, Senya remarks on the unusual quietness of the kitchen.
 - 'We need to work.' Bringing them back to reality, Fedya reminds his colleague that they still have jobs to do.

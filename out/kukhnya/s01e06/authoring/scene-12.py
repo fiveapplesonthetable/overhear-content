@@ -33,6 +33,6 @@ STORY = [
 WALK = [
     (0, None, "'A slippery floor is a source of danger.' Formally citing a blatant safety violation, the inspector points at the floor."),
     (1, None, "'Why is this bottle open by the grill?' The official sharply questions an obvious fire hazard near the flames."),
-    (2, None, "'You won' Threatening severe consequences, the inspector promises more than a mere fine."),
+    (2, None, "'You won't get off with a simple fine here!' Threatening severe consequences, the inspector promises more than a mere fine."),
     (3, None, "'Let's move on, I will inspect the storage.' Marching onward, the official moves to uncover more infractions in the back room."),
 ]

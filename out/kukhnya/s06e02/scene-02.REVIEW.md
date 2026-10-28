@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the occasion?' Elena inquires frankly as the beat lands, weaving "povod" ("reason, occasion") together with "chto" ("what") just the way native speakers do.
-- 'I have very important news.' Barinov takes a candid posture for Elena, building the phrase around "ochen" ("very much") and "vazhnaya" ("important") for a crisp, natural delivery.
-- 'They offered me a new job.' Barinov conveys a sharp mood at once, joining "predlozhili" ("offered") to "novuyu" ("new") so every word pulls its weight.
-- 'I did not tell you, I wanted to make a surprise.' Elena strikes an earnest style toward Barinov, building the phrase around "govorila" ("said") and "khotela" ("wanted, meant") for a crisp, natural delivery.
-- 'In two days I have a meeting with readers.' Elena establishes a clear footing for Barinov, using "dnya" (from "den", "day") alongside "vstrecha" ("a meeting") to shape the meaning.
-- 'Sorry, a new job?' Elena questions steadily at this point, pairing "prosti" ("sorry, forgive me") with "novaya" ("new") to get the point across in plain spoken Russian.
-- 'Yes, but I decided to turn it down.' Barinov shows a serious approach in the scene, pairing "reshil" ("has decided") with "otkazatsya" ("to refuse, decline") to get the point across in plain spoken Russian.
-- 'I am going to fight for the star.' Barinov keeps an earnest line in their talk, joining "budu" ("will be") to "borotsya" ("to fight") so every word pulls its weight.
-- 'Right now I am going to introduce a new auteur menu.' Barinov adopts a thoughtful tack during the exchange, pairing "seychas" ("now") with "sobirayus" ("am planning") to get the point across in plain spoken Russian.
-- 'That is wonderful, you will be the first chef in Russia.' Elena keeps a measured mood in the room, combining "zamechatelno" ("wonderful") and "budesh" ("will") so the key meaning lands right away.
-- 'And you wrote a culinary book.' Barinov presents a natural course straight away, leaning on "napisala" ("to write") before closing the thought with "kulinarnuyu" ("culinary").
-- 'I am very tired today.' Barinov sustains a natural course right away, building the phrase around "ochen" ("very much") and "ustal" ("am tired") for a crisp, natural delivery.
+- 'What is the occasion?' Elena states this update toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I have very important news.' Barinov speaks right away toward Elena, leaving no doubt about where he stands.
+- 'They offered me a new job.' Barinov stresses this direct term toward Elena: "predlozhili" means "offered" (from "predlozhit"), giving the line its exact edge.
+- 'I did not tell you, I wanted to make a surprise.' Elena favors this direct piece with Barinov: "syurpriz" means "surprise", and it carries the main weight of what Elena is saying.
+- 'In two days I have a meeting with readers.' Elena cuts in calmly around Barinov, without trying to dress up how she really feels.
+- 'Sorry, a new job?' Elena anchors one vivid detail in earnest: "novaya" means "new" (from "novyy"), giving the line its exact edge.
+- 'Yes, but I decided to turn it down.' Barinov puts the reaction before Elena: the "-sya" ending on "otkazatsya" ("to refuse, decline") turns the action inward or makes it happen between people naturally.
+- 'I am going to fight for the star.' Barinov counters calmly during the talk, saying out loud what both of them already know.
+- 'Right now I am going to introduce a new auteur menu.' Barinov spotlights one key term with Elena: "avtorskoye" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
+- 'That is wonderful, you will be the first chef in Russia.' Elena favors one key term right here: "zamechatelno" means "wonderful", and it carries the main weight of what Elena is saying.
+- 'And you wrote a culinary book.' Barinov follows up openly without holding back, to clear the air between them once and for all.
+- 'I am very tired today.' Barinov grounds one vivid piece in reply: "segodnya" means "today", and it carries the main weight of what Barinov is saying.

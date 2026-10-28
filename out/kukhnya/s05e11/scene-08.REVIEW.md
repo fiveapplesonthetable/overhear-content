@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, are you ready? Listen, I got terribly hungry.' Elena checks boldly to keep things clear, putting "gotov" ("ready") alongside "slushay" ("listen") in a tight, everyday turn of phrase.
-- 'Yes, I am coming, I am coming.' Barinov offers a lively angle in the scene, pairing "idu" ("going, running") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'Maybe he feels shy when you look at him?' Elena prompts lightly as the beat lands, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
-- 'Hello, Viktor Petrovich, Lyova is not giving me orders.' Elena shares a sharp tack with Lyova, joining "zdravstvuyte" ("hello") to "zakazy" ("orders") so every word pulls its weight.
-- 'I am the one who told him that.' Barinov strikes a resolute direction across the room, building the phrase around "skazal" ("said") and "eto" ("this") for a crisp, natural delivery.
-- 'For now you look around and study the menu.' Barinov sets a natural tack beside Lyova, pairing "osmotris" ("look around") with "poka" ("bye") so the "-sya" ending carries the action.
-- 'I understood the task. Goodbye!' Lyova maintains a grounded course for Barinov, combining "zadachu" ("task, assignment") and "ponyal" ("understood") so the key meaning lands right away.
-- 'Goodbye.' Barinov takes an easygoing position in this beat, pairing "svidaniya" ("meeting") with "do" ("until") to get the point across in plain spoken Russian.
-- 'Did you hire a new cook?' Elena inquires openly without a pause, leaning on "vzyal" ("took") before closing the thought with "novogo" ("new").
-- 'Yes. She nearly tore that poor guy to pieces!' Barinov establishes a calm line right away, pairing "bednyagu" ("poor guy, poor thing") with "chut" ("almost, nearly") to get the point across in plain spoken Russian.
-- 'Surely Eleonora planted him.' Elena presents a steady footing straight away, anchoring the Russian line on "navernyaka" ("surely, definitely") and "ustroila" ("staged, caused") without extra filler.
-- 'What does Eleonora have to do with it?' Barinov checks earnestly without holding back, joining "zdes" ("here") to "pri" ("in the presence of") so every word pulls its weight.
+- 'Well, are you ready? Listen, I got terribly hungry.' Elena aims the comment without pause: the "-sya" ending on "progolodalas" ("got hungry") turns the action inward or makes it happen between people naturally.
+- 'Yes, I am coming, I am coming.' Barinov weighs in sharply during the talk, to clear the air between them once and for all.
+- 'Maybe he feels shy when you look at him?' Elena stresses one classic element at once: "stesnyayetsya" means "feels shy" (from "stesnyatsya"), giving the line its exact edge.
+- 'Hello, Viktor Petrovich, Lyova is not giving me orders.' Elena aims this line for Lyova: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'I am the one who told him that.' Barinov replies right away in their talk, refusing to let the moment slip past.
+- 'For now you look around and study the menu.' Barinov spotlights this clear element in reply: "osmotris" means "look around" (from "osmotretsya"), giving the line its exact edge.
+- 'I understood the task. Goodbye!' Lyova lays out this update for Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Goodbye.' Barinov speaks wryly with a shrug, saying out loud what both of them already know.
+- 'Did you hire a new cook?' Elena highlights one practical term in earnest: "novogo" means "new" (from "novyy"), giving the line its exact edge.
+- 'Yes. She nearly tore that poor guy to pieces!' Barinov cuts in lightly across the room, bringing things back to earth after the buildup.
+- 'Surely Eleonora planted him.' Elena follows up wryly across the room, making her position completely clear.
+- 'What does Eleonora have to do with it?' Barinov makes that thought with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.

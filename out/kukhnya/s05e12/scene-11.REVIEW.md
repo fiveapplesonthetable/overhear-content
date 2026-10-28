@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you not picking up the phone? Is everything alright?' Max queries quietly right away, putting "trubku" ("the receiver") alongside "beryosh" ("do you take") in a tight, everyday turn of phrase.
-- 'It is fine.' Vika adopts a brisk position in their talk, using "normalno" ("fine, OK") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Vika, I understand your condition.' Max picks a calm approach without hesitation, putting "ponimayu" ("understand") alongside "sostoyaniye" ("state") in a tight, everyday turn of phrase.
-- 'But you know what? I am ready to help you in everything.' Max inquires pointedly in the scene, putting "znayesh" ("know") alongside "gotov" ("ready") in a tight, everyday turn of phrase.
-- 'Your legs probably hurt, right?' Max wonders pointedly with Vika now, combining "navernoye" ("probably") and "nogi" ("legs") so the key meaning lands right away.
-- 'Relax.' Max sets a lively attitude straight away, leaning on "rasslabsya" ("relax") as a compact, one-word response that needs no extra words.
-- 'Oh, that is nice, thank you.' Vika conveys an emphatic tempo as the scene unfolds, linking "khorosho" ("good, fine") directly with "spasibo" ("thank you"), since Russian drops "is" and "are" in the present.
-- 'Well you want attention, do you not?' Max inquires quietly for Vika's benefit, putting "khochesh" ("do you want") alongside "vnimaniya" ("attention") in a tight, everyday turn of phrase.
-- 'Your sister said so.' Max chooses a thoughtful posture without hesitation, combining "sestra" ("sister") and "skazala" ("told") so the key meaning lands right away.
-- 'Lavrov, just not with you!' Vika sustains a sharp rhythm beside Max, pairing "tolko" ("only") with "lavrov" ("Lavrov") to get the point across in plain spoken Russian.
-- 'All that I need from you is tomorrow's divorce!' Vika picks a measured tempo with Max, combining "nuzhno" ("necessary") and "zavtrashniy" ("tomorrow's") so the key meaning lands right away.
-- 'Vika, I just wanted to help!' Max sustains a warm line during the exchange, building the phrase around "pomoch" ("to help") and "khotel" ("wanted") for a crisp, natural delivery.
+- 'Why are you not picking up the phone? Is everything alright?' Max makes the reply plainly here: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'It is fine.' Vika reacts sharply with Max, keeping the focus on what actually matters here.
+- 'Vika, I understand your condition.' Max reaches for one memorable detail in earnest: "sostoyaniye" means "state", and it carries the main weight of what Max is saying.
+- 'But you know what? I am ready to help you in everything.' Max gives that answer facing Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Your legs probably hurt, right?' Max challenges bluntly if there is more going on behind the scenes.
+- 'Relax.' Max colors this vivid detail in earnest: "rasslabsya" means "relax" (from "rasslabitsya"), giving the line its exact edge.
+- 'Oh, that is nice, thank you.' Vika frames that answer on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Well you want attention, do you not?' Max quizzes frankly where this conversation is heading next.
+- 'Your sister said so.' Max anchors one sharp choice on cue: "sestra" means "sister", and it carries the main weight of what Max is saying.
+- 'Lavrov, just not with you!' Vika stands firm boldly toward Max, before Max can change the subject.
+- 'All that I need from you is tomorrow's divorce!' Vika holds firm decisively around Max, keeping the focus on what actually matters here.
+- 'Vika, I just wanted to help!' Max grounds this vivid choice in reply: "pomoch" means "to help", and it carries the main weight of what Max is saying.

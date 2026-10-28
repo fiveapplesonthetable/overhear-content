@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' Kostya inquires pointedly without hesitation, combining "sluchilos" ("happened") and "chto" ("what") so the key meaning lands right away.
-- 'Katya and I broke up.' Denis projects a warm mood at this moment, weaving "rasstalis" ("broke up, separated") together with "my" ("we") just the way native speakers do.
-- 'Stay strong, buddy.' Kostya strikes a firm footing in the room, using "krepis" (from "krepitsya", "stay strong") alongside "starik" ("old man") to shape the meaning.
-- 'You cannot tell Katya the truth anyway.' Denis maintains a natural view in the room, combining "ravno" ("the same") and "pravdu" ("truth") so the key meaning lands right away.
-- 'What truth can you not tell Katya?' Nastya checks calmly to keep things clear, leaning on "pravdu" ("truth") before closing the thought with "rasskazhesh" ("you will tell").
-- 'Nastya, well I cannot tell you.' Kostya sustains a playful bearing right away, linking "mogu" ("can"), "rasskazat" ("to tell"), and "nastya" ("Nastya") in one brisk exchange.
-- 'Den has a family in Voronezh.' Kostya sets an earnest mood in their talk, putting "dena" ("Dan") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'Is Den married?' Nastya wonders firmly as the beat lands, pairing "zhenat" ("married") with "den" ("Den") to get the point across in plain spoken Russian.
-- 'His wife left him.' Kostya displays a brisk footing during the exchange, combining "zhena" ("wife") and "ushla" ("left, walked out") so the key meaning lands right away.
-- 'She left him alone with a daughter.' Kostya sets a pointed direction toward Nastya, anchoring the Russian line on "ostavila" ("left") and "dochkoy" ("daughter") without extra filler.
-- 'And where is the daughter right now?' Nastya probes quietly in this moment, combining "gde" ("where") and "seychas" ("now") so the key meaning lands right away.
-- 'With her grandmother and grandfather.' Kostya keeps a warm tone at this moment, weaving "babushki" ("grandmothers") together with "dedushkoy" ("grandfather") just the way native speakers do.
+- 'What happened?' Kostya highlights one vivid term on cue: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'Katya and I broke up.' Denis shares that line without pause: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
+- 'Stay strong, buddy.' Kostya replies promptly on the spot, grounding the moment in plain reality.
+- 'You cannot tell Katya the truth anyway.' Denis features one pointed choice at once: "rasskazhesh" means "you will tell" (from "rasskazat"), giving the line its exact edge.
+- 'What truth can you not tell Katya?' Nastya aims this line at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Nastya, well I cannot tell you.' Kostya stands firm dryly in this moment, testing Nastya's reaction in the middle of the exchange.
+- 'Den has a family in Voronezh.' Kostya features this sharp detail on cue: "semya" means "family", and it carries the main weight of what Kostya is saying.
+- 'Is Den married?' Nastya shapes this warning toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'His wife left him.' Kostya pushes back frankly with a sigh, before Denis can change the subject.
+- 'She left him alone with a daughter.' Kostya frames one concrete element on cue: "dochkoy" means "daughter" (from "dochka"), giving the line its exact edge.
+- 'And where is the daughter right now?' Nastya voices the comeback without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'With her grandmother and grandfather.' Kostya counters calmly on the spot, saying out loud what both of them already know.

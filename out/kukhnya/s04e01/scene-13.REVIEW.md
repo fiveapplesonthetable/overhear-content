@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, aren't you at a shoot today?' Vika probes directly in the room, joining "segodnya" ("today") to "syomkakh" ("day") so every word pulls its weight.
-- 'Thank goodness, it was canceled.' Nagiyev adopts a natural rhythm in front of Vika, pairing "slava" ("glory") with "bogu" ("to God") to get the point across in plain spoken Russian.
-- 'Is Vitya in his kitchen?' Nagiyev challenges honestly as the beat lands, leaning on "vitya" ("Vitya") before closing the thought with "sebya" ("myself").
-- 'Yes, he was there.' Vika picks a natural approach for Nagiyev, leaning on "byl" ("was") before closing the thought with "da" ("yes").
-- 'Go tell him that my producer is already here.' Nagiyev shares an honest attitude at this moment, pairing "idi" ("go") with "skazhi" ("say") to get the point across in plain spoken Russian.
-- 'Let him bring out his cooking.' Nagiyev takes a serious line during the exchange, building the phrase around "stryapnyu" ("out") and "nesyot" ("to carry, to bring") for a crisp, natural delivery.
-- 'Enjoy your meal.' Barinov establishes a firm footing as they talk, leaning on "priyatnogo" ("pleasant") before closing the thought with "appetita" ("appetite").
-- 'Stop right there!' Vika sustains a wry bearing for Nagiyev, letting the single Russian word "stop" ("stop, cut") carry the entire reaction on its own.
-- 'Now it is filmed. Excellent.' Vika brings a resolute footing in this beat, anchoring the Russian line on "teper" ("now") and "snyato" ("filmed, that's a wrap") without extra filler.
-- 'Thank you. Thank you very much.' Barinov sets a frank bearing with Vika, joining "spasibo" ("thank you") to "ogromnoye" ("huge, so very much") so every word pulls its weight.
-- 'Dmitry Vladimirovich has just arrived.' Vika chooses a thoughtful attitude in the scene, joining "tam" ("there") to "prishyol" ("came, have come") so every word pulls its weight.
-- 'He said the producer is at his table and you can serve the dishes.' Nagiyev keeps a pointed manner straight away, joining "skazal" ("said") to "prodyuser" ("producer") so every word pulls its weight.
+- 'Dmitry Vladimirovich, aren't you at a shoot today?' Vika highlights one telling expression right here: "syomkakh" means "day" (from "syomk"), giving the line its exact edge.
+- 'Thank goodness, it was canceled.' Nagiyev frames this update calmly now: the "-sya" ending on "otmenilis" ("to canceled") turns the action inward or makes it happen between people naturally.
+- 'Is Vitya in his kitchen?' Nagiyev quizzes eagerly to see how Barinov will answer on the spot.
+- 'Yes, he was there.' Vika sends that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Go tell him that my producer is already here.' Nagiyev opens up briskly with a nod, so Barinov knows he is not just making small talk.
+- 'Let him bring out his cooking.' Nagiyev speaks dryly on the spot, letting the remark speak for itself.
+- 'Enjoy your meal.' Barinov anchors one clear term right here: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'Stop right there!' Vika delivers this warning before Nagiyev: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Now it is filmed. Excellent.' Vika continues honestly across the room, without trying to dress up how she really feels.
+- 'Thank you. Thank you very much.' Barinov colors one vivid touch right here: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.
+- 'Dmitry Vladimirovich has just arrived.' Vika hands over that line without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'He said the producer is at his table and you can serve the dishes.' Nagiyev counters briskly before Vika, to clear the air between them once and for all.

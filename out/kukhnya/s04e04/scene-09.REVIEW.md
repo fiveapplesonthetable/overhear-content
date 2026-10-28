@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will be back in twenty minutes.' Elena shares a pointed tack as the scene unfolds, putting "budu" ("will be") alongside "minut" ("minutes") in a tight, everyday turn of phrase.
-- 'Misha is in charge.' Elena projects a brisk bearing toward Barinov, using "glavnogo" (from "glavnyy", "main") alongside "misha" ("Misha") to shape the meaning.
-- 'Yes, Chef.' Elena sets a clear posture in front of Barinov, building the phrase around "da" ("yes") and "shef" ("Chef") for a crisp, natural delivery.
-- 'Nadenka, please finish making the salad.' Elena offers a pointed mood toward Barinov, putting "nadenka" ("nadenka") alongside "dodelay" ("please") in a tight, everyday turn of phrase.
-- 'Misha, make the carbonara, otherwise I won't finish in time.' Barinov favors a measured view at once, linking "sdelay" ("make, do"), "karbonaru" ("carbonara"), and "uspevayu" ("to manage in time") in one brisk exchange.
-- 'We will get it done.' Elena shares an honest mood at once, letting the single Russian word "sdelayem" ("we'll do") carry the entire reaction on its own.
-- 'Take a seat. Coffee? Thank you.' Barinov wonders wryly as the talk turns, leaning on "sadites" ("sit down") before closing the thought with "kofe" ("of coffee").
-- 'So, have you set up senior hazing here?' Elena asks steadily across the room, joining "dedovshchinu" ("up") to "ustroili" ("to arrange") so every word pulls its weight.
-- 'Hazing is for people who have no brains.' Barinov projects a direct direction at once, putting "dedovshchina" ("hazing") alongside "mozgov" ("brain") in a tight, everyday turn of phrase.
-- 'Whereas for harmoniously developed personalities like me,.' Barinov holds a lively manner at once, leaning on "garmonichno" ("developed") before closing the thought with "razvitykh" ("personalities").
-- 'there are other levers of influence.' Barinov takes a clear manner in the scene, joining "yest" ("there is") to "drugiye" ("other") so every word pulls its weight.
-- 'Well, we shall see.' Elena strikes an emphatic note on the spot, anchoring the Russian line on "posmotrim" ("have a look") and "nu" ("oh, come on") without extra filler.
+- 'I will be back in twenty minutes.' Elena opens up earnestly on the spot, to clear the air between them once and for all.
+- 'Misha is in charge.' Elena sharpens this key word on cue: "glavnogo" means "main" (from "glavnyy"), giving the line its exact edge.
+- 'Yes, Chef.' Elena hands over this update right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Nadenka, please finish making the salad.' Elena weighs in plainly before Barinov, bringing things back to earth after the buildup.
+- 'Misha, make the carbonara, otherwise I won't finish in time.' Barinov leans on this clear word for Elena: "karbonaru" means "carbonara" (from "karbonara"), giving the line its exact edge.
+- 'We will get it done.' Elena brings the thought calmly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Take a seat. Coffee? Thank you.' Barinov inquires earnestly whether Elena really thought this through.
+- 'So, have you set up senior hazing here?' Elena grounds one pointed piece at once: "ustroili" means "to arrange" (from "ustroit"), giving the line its exact edge.
+- 'Hazing is for people who have no brains.' Barinov aims the thought facing Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Whereas for harmoniously developed personalities like me,.' Barinov proceeds earnestly without a pause, so Elena knows he is not just making small talk.
+- 'there are other levers of influence.' Barinov focuses on this direct touch on cue: "vliyaniya" means "influence, leverage" (from "vliyaniye"), giving the line its exact edge.
+- 'Well, we shall see.' Elena delivers this line at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how about that, Elena Pavlovna?' Barinov queries naturally in their exchange, building the phrase around "chto" ("what") and "yelena" ("Yelena") for a crisp, natural delivery.
-- 'I accept the terms of your little game.' Vika picks a candid mood as they talk, anchoring the Russian line on "prinimayu" ("to receive") and "usloviya" ("conditions") without extra filler.
-- 'Chef, a guest out in the dining room is asking for you.' Kostya shows a resolute footing for Barinov, anchoring the Russian line on "tam" ("there") and "gost" ("guest") without extra filler.
-- 'Hello, you wanted to see me?' Barinov asks quietly as they speak, combining "zdravstvuyte" ("hello") and "khoteli" ("wanted") so the key meaning lands right away.
-- 'Hello there, Viktor Petrovich.' Vika establishes a sharp bearing at once, joining "zdravstvuyte" ("hello") to "nikita" ("Nikita") so every word pulls its weight.
-- 'By the way, do you remember a young cook who used to work for you?' Kostya inquires evenly to Vika here, building the phrase around "pomnite" ("remember") and "rabotal" ("worked") for a crisp, natural delivery.
-- 'Get out of this restaurant right now.' Barinov favors a lively tack in the scene, leaning on "bystro" ("quickly") before closing the thought with "restorana" ("restaurant").
-- 'Hold on, wait a second.' Vika displays a thoughtful tempo in front of Kostya, combining "stoy" ("stop, wait") and "nu-nu" ("yeah, right") so the key meaning lands right away.
-- 'We will gladly pay for your dry cleaning.' Kostya displays a grounded course for Barinov, leaning on "khimchistku" ("dry cleaner’s") before closing the thought with "oplatim" ("to pay, to pay off").
-- 'I understand, Kostya.' Vika favors a firm footing in the conversation, using "ponyala" (from "ponyat", "understood") alongside "ya" ("I") to shape the meaning.
-- 'Nastya, could you step out for a moment?' Vika queries steadily with Barinov now, leaning on "mogla" ("could") before closing the thought with "vyyti" ("to marry").
-- 'Viktoriya Sergeyevna, you must not help Kostya with this.' Kostya keeps a calm attitude on the spot, weaving "dolzhny" ("must, should") together with "pomogat" ("to help") just the way native speakers do.
-- 'He is a man and must propose to me on his own.' Barinov offers a wry line toward Kostya, linking "muzhchina" ("man"), "dolzhen" ("has to, must"), and "sdelat" ("to do") in one brisk exchange.
+- 'Well, how about that, Elena Pavlovna?' Barinov sends this statement at once: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'I accept the terms of your little game.' Vika holds firm at once in this moment, shifting the whole mood of the room in a single beat.
+- 'Chef, a guest out in the dining room is asking for you.' Kostya steps in calmly without holding back, leaving no doubt about where he stands.
+- 'Hello, you wanted to see me?' Barinov chooses this clear word toward Vika: "zdravstvuyte" means "hello", and it carries the main weight of what Barinov is saying.
+- 'Hello there, Viktor Petrovich.' Vika hands over that thought facing Barinov: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'By the way, do you remember a young cook who used to work for you?' Kostya challenges sharply while looking straight at Vika here.
+- 'Get out of this restaurant right now.' Barinov leans on one direct detail in reply: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'Hold on, wait a second.' Vika delivers this warning to Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'We will gladly pay for your dry cleaning.' Kostya pushes back quietly without a pause, letting the remark speak for itself.
+- 'I understand, Kostya.' Vika stresses one direct term toward Kostya: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Nastya, could you step out for a moment?' Vika states the comment with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Viktoriya Sergeyevna, you must not help Kostya with this.' Kostya counters boldly beside Vika, before Vika can change the subject.
+- 'He is a man and must propose to me on his own.' Barinov focuses on this direct word toward Kostya: "predlozheniye" means "offer, proposal", and it carries the main weight of what Barinov is saying.

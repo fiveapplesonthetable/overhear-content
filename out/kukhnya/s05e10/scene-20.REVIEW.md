@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna!' Max sustains a measured mood in the conversation, building the phrase around "viktoriya" ("Victoria") and "sergeyevna" ("Sergeyevna") for a crisp, natural delivery.
-- 'Live with Lavrov for a while and you will be capable of even more than that.' Vika picks a warm direction in the room, putting "pozhivyosh" ("live for a while") alongside "budesh" ("will") in a tight, everyday turn of phrase.
-- 'How great it would be if they invented standards.' Max brings a thoughtful mood in the scene, leaning on "kak" ("how") before closing the thought with "bylo" ("was").
-- 'By which one could measure everything.' Max chooses a frank tack across the room, weaving "mozhno" ("may, can") together with "bylo" ("was") just the way native speakers do.
-- 'And give a rating to everything.' Max takes a playful note in their talk, putting "postavit" ("to put in, to install") alongside "otsenku" ("evaluation") in a tight, everyday turn of phrase.
-- 'You are a good four-star friend.' Max brings a warm attitude as they talk, placing "khoroshiy" ("good") straight beside "drug" ("friend") with no word for "to be" needed.
-- 'Or one can rely on you.' Max shows a serious attitude right away, weaving "mozhno" ("may, can") together with "polozhitsya" ("rely, count on") just the way native speakers do.
-- 'You are an excellent five-star guy.' Max sustains a warm angle with Vika, linking "otlichnyy" ("excellent, great"), "paren" ("boyfriend"), and "zvyozd" ("stars") in one brisk exchange.
-- 'But all of that is unreal.' Max presents a candid note in the conversation, leaning on "nerealno" ("unreal, impossible") before closing the thought with "no" ("but").
-- 'One cannot measure friendship or loyalty.' Max establishes an unhurried bearing straight away, pairing "nelzya" ("not allowed") with "izmerit" ("to measure") to get the point across in plain spoken Russian.
-- 'One cannot measure love.' Max displays a warm view in front of Vika, leaning on "nelzya" ("not allowed") before closing the thought with "izmerit" ("to measure").
-- 'With hotels everything is much simpler. The more stars, the better the service.' Max keeps an unhurried direction at once, anchoring the Russian line on "otelyami" ("hotels") and "gorazdo" ("much") without extra filler.
+- 'Viktoriya Sergeyevna!' Max sends the reply toward Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Live with Lavrov for a while and you will be capable of even more than that.' Vika holds firm promptly before Max, testing Max's reaction in the middle of the exchange.
+- 'How great it would be if they invented standards.' Max centers this telling expression at once: "standarty" means "standards" (from "standart"), giving the line its exact edge.
+- 'By which one could measure everything.' Max makes the thought at once: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'And give a rating to everything.' Max speaks plainly with a smile, shifting the whole mood of the room in a single beat.
+- 'You are a good four-star friend.' Max emphasizes one familiar word on cue: "khoroshiy" means "good", and it carries the main weight of what Max is saying.
+- 'Or one can rely on you.' Max frames this answer briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'You are an excellent five-star guy.' Max stands firm candidly without holding back, leaving no doubt about where he stands.
+- 'But all of that is unreal.' Max points to one direct touch at once: "nerealno" means "unreal, impossible", and it carries the main weight of what Max is saying.
+- 'One cannot measure friendship or loyalty.' Max delivers the comment calmly now: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'One cannot measure love.' Max pushes back wryly before Vika, shifting the whole mood of the room in a single beat.
+- 'With hotels everything is much simpler. The more stars, the better the service.' Max leans on this sharp element for Vika: "otelyami" means "hotels" (from "otel"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, hand me a lemon, please.' Elena keeps an easygoing direction on the spot, anchoring the Russian line on "limon" ("lemon") and "dayte" ("give") without extra filler.
-- 'Here you go.' Barinov takes an earnest rhythm in their talk, using "pozhaluysta" ("please") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'I asked for a lemon.' Elena picks an earnest attitude toward Barinov, letting the single Russian word "limon" ("lemon") carry the entire reaction on its own.
-- 'Let's start with vegetable chopping.' German displays an earnest footing during the exchange, anchoring the Russian line on "nachnyom" ("we start") and "shinkovki" ("vegetable") without extra filler.
-- 'Something of yours is burning, Viktor Petrovich.' Elena brings a thoughtful note for Barinov, anchoring the Russian line on "gorit" ("is burning") and "vas" ("you") without extra filler.
-- 'Viktor Petrovich, maybe you need some pills?' Elena questions dryly with German now, pairing "mozhet" ("can") with "tabletki" ("pill, tablet") to get the point across in plain spoken Russian.
-- 'Alas, there are no pills for old age.' Barinov holds a direct direction at this moment, joining "starosti" ("old age") to "tabletok" ("pill, tablet") so every word pulls its weight.
-- 'This is my fault.' Elena projects a frank approach straight away, weaving "vinovata" ("at fault, to blame") together with "eto" ("this") just the way native speakers do.
-- 'It was a foolish idea, forgive me. I am letting you go.' Elena maintains an earnest view in this beat, putting "glupaya" ("silly, foolish") alongside "byla" ("was") in a tight, everyday turn of phrase.
-- 'Thank you.' Barinov picks an earnest style with German, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
-- 'I need to go to the market.' Elena conveys a steady footing without hesitation, building the phrase around "nado" ("it is necessary") and "rynok" ("market") for a crisp, natural delivery.
-- 'You go ahead, don't worry about me. I will rest here a little.' Barinov favors a grounded approach in front of German, combining "yezzhay" ("go, drive") and "bespokoysya" ("to worry") so the key meaning lands right away.
+- 'Viktor Petrovich, hand me a lemon, please.' Elena counters earnestly to settle things, steering the talk right where she wants it.
+- 'Here you go.' Barinov puts that thought toward German: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I asked for a lemon.' Elena hands over the comment to Barinov: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Let's start with vegetable chopping.' German pushes back briskly with a shrug, so Elena knows he is not just making small talk.
+- 'Something of yours is burning, Viktor Petrovich.' Elena reaches for one sharp touch for Barinov: "gorit" means "is burning" (from "goret"), giving the line its exact edge.
+- 'Viktor Petrovich, maybe you need some pills?' Elena states the comeback with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
+- 'Alas, there are no pills for old age.' Barinov proceeds warmly toward Elena, refusing to let the moment slip past.
+- 'This is my fault.' Elena underscores this vivid element on cue: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
+- 'It was a foolish idea, forgive me. I am letting you go.' Elena shares that point with ease: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Thank you.' Barinov holds firm warmly without any doubt, testing German's reaction in the middle of the exchange.
+- 'I need to go to the market.' Elena underscores one key touch in earnest: "rynok" means "market", and it carries the main weight of what Elena is saying.
+- 'You go ahead, don't worry about me. I will rest here a little.' Barinov states that answer with warmth: the "-sya" ending on "bespokoysya" ("to worry") turns the action inward or makes it happen between people naturally.

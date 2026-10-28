@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This should be delicious.' Barinov chooses a natural view toward Lyova, putting "dolzhno" ("ought, must") alongside "byt" ("be") in a tight, everyday turn of phrase.
-- 'Well, I hope so, at least.' Lyova holds a grounded posture in this beat, leaning on "nadeyus" ("hope so") before closing the thought with "krayney" ("extreme, least").
-- 'Or else his daddy helped him out.' Barinov shares a thoughtful posture across the room, pairing "papochka" ("daddy, folder") with "pomog" ("helped") to get the point across in plain spoken Russian.
-- 'Just like him.' Lyova holds a grounded approach straight away, putting "kak" ("how") alongside "nego" ("him") in a tight, everyday turn of phrase.
-- 'Would have achieved something too.' Barinov picks a steady approach on the spot, pairing "dobilis" ("achieved") with "tozhe" ("too") so the "-sya" ending carries the action.
-- 'I would like to see him try.' Lyova holds a firm tempo for Barinov, anchoring the Russian line on "posmotrel" ("looked, had a look") and "ya" ("I") without extra filler.
-- 'Where I started out.' Barinov offers a resolute line as they talk, anchoring the Russian line on "gde" ("where") and "nachinal" ("to begin, to start") without extra filler.
-- 'Hold on, you started out at the Metropol.' Lyova brings a frank bearing for Barinov, anchoring the Russian line on "pogodi" ("wait") and "nachinal" ("to begin, to start") without extra filler.
-- 'Oh, right, it was Lyova who started at the Metropol.' Barinov brings an easygoing course on the spot, putting "eto" ("this") alongside "lyova" ("Lyova") in a tight, everyday turn of phrase.
-- 'In order to do that.' Lyova brings a measured tempo in this beat, building the phrase around "dlya" ("for") and "togo" ("that person's") for a crisp, natural delivery.
-- 'Beforehand.' Barinov establishes a lively direction in their talk, combining "pered" ("in front of") and "tem" ("that") so the key meaning lands right away.
-- 'Let it rest for two minutes.' Lyova establishes a resolute mood during the exchange, leaning on "day" ("give") before closing the thought with "postoyat" ("wait").
-- 'After that, you will cook it much faster.' Barinov picks a calm tack in the scene, combining "prigotovish" ("will prepare") and "gorazdo" ("much") so the key meaning lands right away.
+- 'This should be delicious.' Barinov centers one clear choice in reply: "dolzhno" means "ought, must" (from "dolzhen"), giving the line its exact edge.
+- 'Well, I hope so, at least.' Lyova proceeds calmly with a smile, saying out loud what both of them already know.
+- 'Or else his daddy helped him out.' Barinov opens up frankly with a nod, keeping the focus on what actually matters here.
+- 'Just like him.' Lyova states that point around Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Would have achieved something too.' Barinov brings this point before Lyova: the "-sya" ending on "dobilis" ("achieved") turns the action inward or makes it happen between people naturally.
+- 'I would like to see him try.' Lyova proceeds bluntly facing Barinov, making his position completely clear.
+- 'Where I started out.' Barinov picks this clear choice toward Lyova: "nachinal" means "to begin, to start" (from "nachinat"), giving the line its exact edge.
+- 'Hold on, you started out at the Metropol.' Lyova reaches for this clear element right here: "nachinal" means "to begin, to start" (from "nachinat"), giving the line its exact edge.
+- 'Oh, right, it was Lyova who started at the Metropol.' Barinov continues promptly across the room, saying out loud what both of them already know.
+- 'In order to do that.' Lyova states that point beside Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Beforehand.' Barinov voices that reply with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Let it rest for two minutes.' Lyova cuts in pointedly on the spot, grounding the moment in plain reality.
+- 'After that, you will cook it much faster.' Barinov anchors one familiar detail in earnest: "prigotovish" means "will prepare" (from "prigotovit"), giving the line its exact edge.

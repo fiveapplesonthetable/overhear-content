@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi there.' Vika shares a pointed posture without hesitation, leaning on "privet" ("hi") as a compact, one-word response that needs no extra words.
-- 'Why did you come over here?' Max prompts naturally without hesitation, putting "priyekhala" ("came, arrived") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'I figured you would be stuck here with Denis for a long time.' Vika displays a natural tone toward Denis, leaning on "reshila" ("decided") before closing the thought with "tut" ("here").
-- 'I am already done with Denis. Shall we go home?' Max queries sharply from the start, using "denisom" (from "denis", "time") alongside "uzhe" ("already, now") to shape the meaning.
-- 'Sorry. I just wanted to apologize for yelling at you.' Denis presents an easygoing note in the conversation, pairing "izvinitsya" ("to apologise") with "izvinite" ("sorry, excuse me") so the "-sya" ending carries the action.
-- 'Could you not have come in at least three minutes later?' Max prompts quietly for Vika's benefit, anchoring the Russian line on "mog" ("can, to be able") and "zayti" ("to approach") without extra filler.
-- 'Why three minutes later?' Denis queries sharply with Max now, building the phrase around "pochemu" ("why") and "tri" ("three") for a crisp, natural delivery.
-- 'Den, do you hear us? Close the door.' Max presses boldly without a pause, leaning on "slyshish" ("hear") before closing the thought with "dver" ("door").
-- 'Vika, don't be angry. He is my brother. We need to help him.' Max brings a brisk bearing for Denis, leaning on "zlis" ("be angry") before closing the thought with "brat" ("brother").
-- 'Especially since he has already left.' Max brings a sharp line without hesitation, anchoring the Russian line on "boleye" ("more") and "uzhe" ("already, now") without extra filler.
-- 'I haven't left yet.' Denis shares a steady position with Max, leaning on "yeshchyo" ("more, still") before closing the thought with "ushyol" ("left, departed").
-- 'I married you, not the two of you.' Vika holds a resolute rhythm in the room, linking "vykhodila" ("went out"), "zamuzh" ("in marriage"), and "dvoikh" ("two") in one brisk exchange.
+- 'Hi there.' Vika states this statement around Denis: opening with the casual greeting "privet" ("hi") signals right away that Vika and Denis are on familiar terms.
+- 'Why did you come over here?' Max asks candidly how Vika expects that to work in practice.
+- 'I figured you would be stuck here with Denis for a long time.' Vika colors this vivid element toward Denis: "zavisnesh" means "to time" (from "zavisnt"), giving the line its exact edge.
+- 'I am already done with Denis. Shall we go home?' Max gives the remark briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Sorry. I just wanted to apologize for yelling at you.' Denis follows up pointedly to be clear, keeping the focus on what actually matters here.
+- 'Could you not have come in at least three minutes later?' Max reaches for one classic detail at once: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
+- 'Why three minutes later?' Denis states this answer with warmth: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Den, do you hear us? Close the door.' Max prompts point-blank where this conversation is heading next.
+- 'Vika, don't be angry. He is my brother. We need to help him.' Max centers one familiar word in reply: "pomogat" means "to help", and it carries the main weight of what Max is saying.
+- 'Especially since he has already left.' Max continues briskly to settle things, grounding the moment in plain reality.
+- 'I haven't left yet.' Denis opens up quietly beside Max, leaving no doubt about where he stands.
+- 'I married you, not the two of you.' Vika focuses on one classic touch on cue: "vykhodila" means "went out" (from "vykhodit"), giving the line its exact edge.

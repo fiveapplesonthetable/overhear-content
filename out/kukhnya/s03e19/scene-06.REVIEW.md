@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Dima, did you defeat our fearsome dragon?' Max asks calmly in the room, linking "pobedil" ("won"), "groznogo" ("terrible, menacing"), and "drakona" ("dragon") in one brisk exchange.
-- 'Yes, of course, he agreed with me right away.' Nagiyev shares a resolute course with Rodion, anchoring the Russian line on "konechno" ("of course") and "srazu" ("at once") without extra filler.
-- 'Respected sir, here is money for you, only I beg you.' Nagiyev shares a resolute tempo in the room, weaving "uvazhayemyy" ("respected, esteemed") together with "muzhchina" ("man") just the way native speakers do.
-- 'Please find yourself some other restaurant.' Nagiyev picks a frank mood as the scene unfolds, pairing "naydite" ("find") with "drugoy" ("other") to get the point across in plain spoken Russian.
-- 'With your permission I will refuse this money.' Rodion projects a measured posture straight away, joining "pozvoleniya" ("permission") to "deneg" ("money") so every word pulls its weight.
-- 'Because nobody needs someone else's tears, not even a homeless man.' Rodion brings a wry bearing beside Nagiyev, putting "potomu" ("because") alongside "chuzhiye" ("someone else's") in a tight, everyday turn of phrase.
-- 'Why did you refuse to take the money? There is an indecently large amount!' Nagiyev asks firmly from the start, anchoring the Russian line on "pochemu" ("why") and "otkazalis" ("to refuse, decline") without extra filler.
-- 'Then here is an indecently small amount, do not come for a couple of days.' Nagiyev brings a wry attitude toward Rodion, putting "togda" ("back then") alongside "neprilichno" ("indecently") in a tight, everyday turn of phrase.
-- 'Max, let us drink to our honesty today!' Rodion picks a measured tone in front of Max, weaving "davay" ("let's") together with "segodnya" ("today") just the way native speakers do.
-- 'Or maybe it is better to drink to our love?' Max queries sharply as the beat lands, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
-- 'Until we drink to honesty, we will have no love.' Max conveys a grounded footing straight away, leaning on "poka" ("bye") before closing the thought with "vypyem" ("will drink").
-- 'I am checking the clock, in a minute I will die of sorrow!' Rodion offers a calm rhythm across the room, joining "zasekayu" ("am clocking") to "vremya" ("time") so every word pulls its weight.
+- 'Well, Dima, did you defeat our fearsome dragon?' Max presses straight out why things suddenly took this turn between them.
+- 'Yes, of course, he agreed with me right away.' Nagiyev spotlights one telling detail toward Rodion: "soglasilsya" means "agreed" (from "soglasitsya"), giving the line its exact edge.
+- 'Respected sir, here is money for you, only I beg you.' Nagiyev spotlights one clear piece with Max: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what Nagiyev is saying.
+- 'Please find yourself some other restaurant.' Nagiyev holds firm firmly with a smile, watching Rodion's face to see how the news lands.
+- 'With your permission I will refuse this money.' Rodion highlights one pointed expression in earnest: "pozvoleniya" means "permission" (from "pozvoleniye"), giving the line its exact edge.
+- 'Because nobody needs someone else's tears, not even a homeless man.' Rodion continues steadily during the talk, to clear the air between them once and for all.
+- 'Why did you refuse to take the money? There is an indecently large amount!' Nagiyev checks skeptically what Max is actually getting at here.
+- 'Then here is an indecently small amount, do not come for a couple of days.' Nagiyev centers this vivid touch in earnest: "neprilichno" means "indecently", and it carries the main weight of what Nagiyev is saying.
+- 'Max, let us drink to our honesty today!' Rodion aims the comment with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Or maybe it is better to drink to our love?' Max challenges eagerly about what Rodion just brought up.
+- 'Until we drink to honesty, we will have no love.' Max sharpens one loaded term toward Nagiyev: "chestnost" means "honesty", and it carries the main weight of what Max is saying.
+- 'I am checking the clock, in a minute I will die of sorrow!' Rodion weighs in decisively during the talk, leaving no doubt about where he stands.

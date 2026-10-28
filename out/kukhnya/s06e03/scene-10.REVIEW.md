@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, everyone into the restaurant, we are cooking lunch!' Barinov sustains a playful stance toward Denis, leaning on "restoran" ("restaurant") before closing the thought with "gotovim" ("are preparing").
-- 'That was not hard.' Denis holds a resolute position at once, weaving "bylo" ("was") together with "neslozhno" ("not hard, easy") just the way native speakers do.
-- 'We agreed to play to ten, so we will continue after lunch.' Denis offers an honest footing during the exchange, leaning on "dogovarivalis" ("had an agreement") before closing the thought with "obeda" ("lunch").
-- 'Why prolong your disgrace?' Denis presses boldly from the start, leaning on "zachem" ("what for") before closing the thought with "prodolzhat" ("to continue").
-- 'Well, are you ready?' Nagiyev quizzes candidly in the room, using "gotovy" (from "gotovyy", "ready") alongside "nu" ("oh, come on") to shape the meaning.
-- 'Wait, where is the money?' Barinov presses briskly during the talk, combining "podozhdi" ("wait") and "gde" ("where") so the key meaning lands right away.
-- 'He learns fast, smart boy.' Nagiyev sets a serious footing at once, putting "bystro" ("quickly") alongside "uchitsya" ("to study") in a tight, everyday turn of phrase.
-- 'We have not filmed a thing yet, and he is already asking for money.' Nagiyev shares a brisk line during the exchange, pairing "yeshche" ("still") with "snyali" ("fire, remove") to get the point across in plain spoken Russian.
-- 'The pistol, where is his pistol?' Nagiyev prompts lightly for Barinov's benefit, combining "pistolet" ("pistol") and "gde" ("where") so the key meaning lands right away.
-- 'We are ready, let's film!' Nagiyev sustains an emphatic manner across the room, leaning on "gotovy" ("ready") before closing the thought with "davayte" ("let's").
-- 'Camera, rolling, let's go!' Nagiyev conveys a warm rhythm straight away, building the phrase around "kamera" ("camera") and "motor" ("rolling, motor") for a crisp, natural delivery.
-- 'Scene nine, take one, action!' Nagiyev takes a brisk angle straight away, linking "stsena" ("stage, scene"), "dubl" ("take"), and "nachali" ("started") in one brisk exchange.
+- 'Alright, everyone into the restaurant, we are cooking lunch!' Barinov picks one clear touch at once: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
+- 'That was not hard.' Denis shapes the comment at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We agreed to play to ten, so we will continue after lunch.' Denis weighs in promptly with a smile, before Barinov can change the subject.
+- 'Why prolong your disgrace?' Denis favors one loaded touch in earnest: "prodolzhat" means "to continue", and it carries the main weight of what Denis is saying.
+- 'Well, are you ready?' Nagiyev offers the comment with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Wait, where is the money?' Barinov inquires straight out as Nagiyev tries to explain the situation.
+- 'He learns fast, smart boy.' Nagiyev favors one practical detail on cue: "malchik" means "boy", and it carries the main weight of what Nagiyev is saying.
+- 'We have not filmed a thing yet, and he is already asking for money.' Nagiyev brings this line with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'The pistol, where is his pistol?' Nagiyev checks firmly whether Barinov really thought this through.
+- 'We are ready, let's film!' Nagiyev uses this direct term right here: "gotovy" means "ready" (from "gotovyy"), giving the line its exact edge.
+- 'Camera, rolling, let's go!' Nagiyev gives the remark without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Scene nine, take one, action!' Nagiyev speaks dryly beside Denis, steering the talk right where he wants it.

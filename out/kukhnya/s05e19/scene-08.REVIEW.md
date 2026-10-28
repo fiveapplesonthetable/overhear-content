@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It says here that Senya feeds the next clue.' Katya adopts a frank course in this beat, leaning on "tut" ("here") before closing the thought with "napisano" ("is written").
-- 'Look, we continue saving on ingredients.' Barinov presents a wry line with Nagiyev, pairing "smotri" ("look") with "prodolzhayem" ("we continue") to get the point across in plain spoken Russian.
-- 'Here is a caviar sandwich without butter or bread.' Barinov strikes a frank style with Katya, pairing "buterbrod" ("sandwich") with "ikroy" ("caviar") to get the point across in plain spoken Russian.
-- 'Fedya, tell me, what should I do next?' Katya prompts candidly as they speak, putting "skazhi" ("say") alongside "delat" ("do") in a tight, everyday turn of phrase.
-- 'Buy a bottle of port wine and come over this evening.' Barinov maintains an unhurried direction toward Katya, putting "kupi" ("buy") alongside "butylku" ("a bottle") in a tight, everyday turn of phrase.
-- 'Fedya, what on earth are you talking about right now?' Katya questions directly at this point, linking "voobshche" ("at all") directly with "seychas" ("now"), since Russian drops "is" and "are" in the present.
-- 'Vitya, why do I not see my car?' Nagiyev probes pointedly beside Barinov, joining "pochemu" ("why") to "mashinu" ("car") so every word pulls its weight.
-- 'Admit it, did you already go for a ride in it?' Nagiyev asks firmly from the start, putting "priznavaysya" ("confess") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'I just reparked it in another spot.' Barinov establishes a measured attitude with Katya, combining the softening word "prosto" ("simply, just") with "pereparkoval" ("reparked") to give the line its natural spoken rhythm.
-- 'Your car really is very good.' Barinov displays an earnest manner at once, putting "mashina" ("a car") alongside "deystvitelno" ("really, indeed") in a tight, everyday turn of phrase.
-- 'Well then, shall we start our new countdown?' Nagiyev queries steadily on the spot, joining "nachnyom" ("we start") to "novyy" ("new") so every word pulls its weight.
-- 'Come back to me as soon as possible.' Nagiyev takes a thoughtful tack on the spot, using "vozvrashchaysya" (from "vozvrashchatsya", "return") alongside "skoreye" ("quickly, right away") to shape the meaning.
+- 'It says here that Senya feeds the next clue.' Katya reacts briskly without any doubt, letting the remark speak for itself.
+- 'Look, we continue saving on ingredients.' Barinov follows up calmly without holding back, watching Nagiyev's face to see how the news lands.
+- 'Here is a caviar sandwich without butter or bread.' Barinov underscores one memorable touch right here: "buterbrod" means "sandwich", and it carries the main weight of what Barinov is saying.
+- 'Fedya, tell me, what should I do next?' Katya directs the reply around Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Buy a bottle of port wine and come over this evening.' Barinov chimes in right away beside Katya, to clear the air between them once and for all.
+- 'Fedya, what on earth are you talking about right now?' Katya colors one classic detail on cue: "voobshche" means "at all", and it carries the main weight of what Katya is saying.
+- 'Vitya, why do I not see my car?' Nagiyev offers this update before Barinov: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Admit it, did you already go for a ride in it?' Nagiyev probes earnestly while looking straight at Katya here.
+- 'I just reparked it in another spot.' Barinov leans on one telling piece on cue: "pereparkoval" means "reparked" (from "pereparkovat"), giving the line its exact edge.
+- 'Your car really is very good.' Barinov phrases the reaction to Nagiyev: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Well then, shall we start our new countdown?' Nagiyev inquires briskly as Barinov tries to explain the situation.
+- 'Come back to me as soon as possible.' Nagiyev picks one practical touch for Katya: "vozvrashchaysya" means "return" (from "vozvrashchatsya"), giving the line its exact edge.

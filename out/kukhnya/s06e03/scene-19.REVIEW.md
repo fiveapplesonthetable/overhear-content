@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After the shot you pan the camera to me.' Nagiyev adopts a steady posture without hesitation, anchoring the Russian line on "vystrela" ("shot") and "perevodish" ("to transfer") without extra filler.
-- 'Excellent, alright, focus everyone, stunt!' Nagiyev chooses a firm manner in their talk, putting "otlichno" ("perfect, great") alongside "sobralis" ("planned") in a tight, everyday turn of phrase.
-- 'Camera, rolling, scene nine, take six, action!' Nagiyev projects a thoughtful view right away, combining "kamera" ("camera") and "motor" ("rolling, motor") so the key meaning lands right away.
-- 'Now you are going to meet your brother!' Katya adopts an earnest posture in front of Nagiyev, pairing "seychas" ("now") with "vstretishsya" ("will meet") to get the point across in plain spoken Russian.
-- 'What is going on here?' Eleonora questions frankly without holding back, putting "eto" ("this") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'You said that you only needed to film one scene at a table!' Eleonora shows an honest footing with Nagiyev, linking "skazal" ("said"), "tolko" ("only"), and "stsenu" ("the stage") in one brisk exchange.
-- 'And you staged a whole war in here!' Eleonora projects a measured style with Katya, anchoring the Russian line on "tut" ("here") and "tseluyu" ("kisses") without extra filler.
-- 'I think I swallowed the bullet.' Nagiyev shows a frank footing in front of Katya, pairing "kazhetsya" ("it seems, I think") with "pulyu" ("bullet") so the "-sya" ending carries the action.
-- 'Katya, forgive us.' Eleonora shares an unhurried bearing right away, anchoring the Russian line on "izvini" ("sorry, excuse me") and "katya" ("Katya") without extra filler.
-- 'Katya, do you want me to call my doctor?' Nagiyev wonders calmly as the talk turns, joining "khochesh" ("do you want") to "vrachu" ("the doctor") so every word pulls its weight.
-- 'Enough, you two bring nothing but trouble.' Eleonora takes a direct posture in the room, leaning on "khvatit" ("enough") before closing the thought with "problemy" ("problems").
-- 'Do me a favor, neither of you ever come near me again.' Eleonora chooses a firm manner in their talk, anchoring the Russian line on "sdelayte" ("make") and "odolzheniye" ("favour, concession") without extra filler.
+- 'After the shot you pan the camera to me.' Nagiyev spotlights this sharp piece in reply: "vystrela" means "shot" (from "vystrel"), giving the line its exact edge.
+- 'Excellent, alright, focus everyone, stunt!' Nagiyev phrases that thought around Katya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Camera, rolling, scene nine, take six, action!' Nagiyev jumps in candidly without any doubt, testing Eleonora's reaction in the middle of the exchange.
+- 'Now you are going to meet your brother!' Katya features one colorful piece in earnest: "vstretishsya" means "will meet" (from "vstretitsya"), giving the line its exact edge.
+- 'What is going on here?' Eleonora brings that point to Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You said that you only needed to film one scene at a table!' Eleonora steps in dryly with Nagiyev, grounding the moment in plain reality.
+- 'And you staged a whole war in here!' Eleonora stresses one classic detail at once: "tseluyu" means "kisses" (from "tselovat"), giving the line its exact edge.
+- 'I think I swallowed the bullet.' Nagiyev offers that answer toward Katya: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Katya, forgive us.' Eleonora opens up wryly toward Katya, watching Katya's face to see how the news lands.
+- 'Katya, do you want me to call my doctor?' Nagiyev sharpens this vivid element on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Enough, you two bring nothing but trouble.' Eleonora points to one classic element in earnest: "problemy" means "problems" (from "problema"), giving the line its exact edge.
+- 'Do me a favor, neither of you ever come near me again.' Eleonora responds bluntly as they talk, watching Nagiyev's face to see how the news lands.

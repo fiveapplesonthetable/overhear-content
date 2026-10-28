@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I propose we drink to our friend right now.' Fedya presents a pointed mood without hesitation, joining "predlagayu" ("suggest") to "seychas" ("now") so every word pulls its weight.
-- 'To the smartest person in the kitchen.' Fedya displays a wry note straight away, putting "samogo" ("the very") alongside "umnogo" ("clever, smart") in a tight, everyday turn of phrase.
-- 'We can, of course, drink to Denis too.' Fedya conveys a frank style in the conversation, using "mozhem" (from "moch", "can") alongside "konechno" ("of course") to shape the meaning.
-- 'Thank you very much to all of you, my friends.' Denis picks a thoughtful stance as the scene unfolds, putting "bolshoye" ("big, very much") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
-- 'My friend, we are drinking to you today.' Kostya takes a pointed approach toward Denis, leaning on "drug" ("friend") before closing the thought with "pyom" ("to drink").
-- 'Kostya, all of this has gone too far.' Denis establishes a sharp line in this beat, anchoring the Russian line on "zashlo" ("to come in") and "slishkom" ("too") without extra filler.
-- 'How do I say that I am not going anywhere?' Denis asks plainly during the talk, anchoring the Russian line on "kak" ("how") and "skazat" ("tell") without extra filler.
-- 'I will ruin the whole party for them right now.' Denis shows a brisk mood in the scene, weaving "seychas" ("now") together with "prazdnik" ("holiday") just the way native speakers do.
-- 'Let them drink a little more first.' Kostya establishes a serious angle beside Denis, weaving "snachala" ("first, at first") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'Then you will calmly walk up and tell everyone.' Kostya establishes a brisk bearing beside Fedya, pairing "potom" ("then") with "spokoyno" ("calmly") to get the point across in plain spoken Russian.
-- 'You will say that you feel good with us.' Kostya shows a sharp tempo for Denis, linking "skazhesh" ("will you say"), "khorosho" ("good, fine"), and "chto" ("what") in one brisk exchange.
-- 'Just say that you are staying here.' Kostya holds a measured tone as they talk, linking "skazhi" ("say"), "prosto" ("just"), and "ostayoshsya" ("remain") in one brisk exchange.
+- 'I propose we drink to our friend right now.' Fedya follows up calmly without a pause, keeping the focus on what actually matters here.
+- 'To the smartest person in the kitchen.' Fedya pushes back bluntly toward Kostya, without trying to dress up how he really feels.
+- 'We can, of course, drink to Denis too.' Fedya underscores one classic choice at once: "konechno" means "of course", and it carries the main weight of what Fedya is saying.
+- 'Thank you very much to all of you, my friends.' Denis frames that thought plainly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'My friend, we are drinking to you today.' Kostya speaks firmly beside Denis, saying out loud what both of them already know.
+- 'Kostya, all of this has gone too far.' Denis anchors one practical touch toward Kostya: "slishkom" means "too", and it carries the main weight of what Denis is saying.
+- 'How do I say that I am not going anywhere?' Denis delivers the reply for Fedya: putting the question word "kak" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'I will ruin the whole party for them right now.' Denis steps in frankly on the spot, watching Kostya's face to see how the news lands.
+- 'Let them drink a little more first.' Kostya anchors this telling element in reply: "snachala" means "first, at first", and it carries the main weight of what Kostya is saying.
+- 'Then you will calmly walk up and tell everyone.' Kostya cuts in lightly without holding back, before Fedya can change the subject.
+- 'You will say that you feel good with us.' Kostya steps in plainly facing Denis, keeping the focus on what actually matters here.
+- 'Just say that you are staying here.' Kostya focuses on one familiar detail in earnest: "ostayoshsya" means "remain" (from "ostavatsya"), giving the line its exact edge.

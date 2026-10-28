@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down, please, the paint got smudged right here.' Nastya favors a thoughtful style on the spot, putting "uspokoysya" ("calm down") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'You hired him for the job yourself.' Kostya presents a warm bearing on the spot, putting "rabotu" ("job") alongside "nanyala" ("hired") in a tight, everyday turn of phrase.
-- 'So I am the one to blame for everything?' Nastya queries directly toward the guest here, putting "yest" ("there is") alongside "vinovata" ("at fault, to blame") in a tight, everyday turn of phrase.
-- 'Am I supposed to think for three people all by myself?' Nastya questions lightly to Kostya here, anchoring the Russian line on "dumat" ("to think") and "dolzhna" ("should, must") without extra filler.
-- 'And have you done anything at all yourself?' Nastya quizzes lightly in front of the guest, building the phrase around "sdelal" ("did") and "ty" ("you") for a crisp, natural delivery.
-- 'What do you want from me?' The guest challenges promptly as they speak, weaving "nado" ("it is necessary") together with "chto" ("what") just the way native speakers do.
-- 'Listen, you have two options.' Kostya presents a measured tempo as the scene unfolds, pairing "slysh" ("listen") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'Either you live peacefully, or you do not live.' Kostya sets a serious attitude in the scene, leaning on "zhivyosh" ("to live") before closing the thought with "mirno" ("peacefully").
-- 'Oh, my pills were around here somewhere.' The guest jumps in lightly right away, using the everyday "u menya" ("by me") alongside "gde-to" ("somewhere") to show what belongs to the speaker.
-- 'Oh, I feel so bad, so bad!' The guest chooses a candid position as they talk, building the phrase around "kak" ("how") and "plokho" ("badly") for a crisp, natural delivery.
-- 'Found it, and I feel better right away!' The guest chooses a thoughtful bearing in this beat, leaning on "nashyol" ("found") before closing the thought with "polegchalo" ("felt relieved").
-- 'Now get out of my house right now!' The guest shares a frank tone for Nastya, combining "bystro" ("quickly") and "doma" ("at home") so the key meaning lands right away.
+- 'Calm down, please, the paint got smudged right here.' Nastya stresses one telling choice for the guest: "ispachkalas" means "got stained" (from "ispachkatsya"), giving the line its exact edge.
+- 'You hired him for the job yourself.' Kostya centers this key word toward Nastya: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'So I am the one to blame for everything?' Nastya wonders eagerly where this conversation is heading next.
+- 'Am I supposed to think for three people all by myself?' Nastya anchors one pointed word right here: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
+- 'And have you done anything at all yourself?' Nastya hands over this answer calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'What do you want from me?' The guest quizzes plainly how Nastya expects that to work in practice.
+- 'Listen, you have two options.' Kostya centers this vivid term for the guest: "varianta" means "options" (from "variant"), giving the line its exact edge.
+- 'Either you live peacefully, or you do not live.' Kostya favors this direct term with Nastya: "zhivyosh" means "to live" (from "zhit"), giving the line its exact edge.
+- 'Oh, my pills were around here somewhere.' The guest holds firm wryly in their talk, testing Kostya's reaction in the middle of the exchange.
+- 'Oh, I feel so bad, so bad!' The guest reaches for one memorable word in reply: "plokho" means "badly", and it carries the main weight of what the guest is saying.
+- 'Found it, and I feel better right away!' The guest responds bluntly with a shrug, keeping the focus on what actually matters here.
+- 'Now get out of my house right now!' The guest opens up dryly as they talk, saying out loud what both of them already know.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, and what are we to do now?' Barinov tests pointedly in this moment, leaning on "teper" ("now") before closing the thought with "delat" ("do").
-- 'Personally, I am definitely going to have the baby.' Eva chooses a candid direction straight away, pairing "lichno" ("personally") with "tochno" ("definitely") to get the point across in plain spoken Russian.
-- 'But you need some help, after all.' Barinov projects an emphatic position right away, putting "nado" ("it is necessary") alongside "pomoch" ("to help") in a tight, everyday turn of phrase.
-- 'I do not need anything from you.' Eva holds a firm angle at this moment, linking "nuzhno" ("necessary"), "mne" ("to me"), and "nichego" ("nothing") in one brisk exchange.
-- 'But you can help the child.' Eva presents a clear line in the scene, combining "mozhete" ("can, may") and "pomoch" ("to help") so the key meaning lands right away.
-- 'Tell me, how exactly can I help him?' Barinov checks naturally in their exchange, linking "skazhi" ("say"), "kak" ("how"), and "pomoch" ("to help") in one brisk exchange.
-- 'Well, at least financially.' Eva conveys a lively tack beside Barinov, leaning on "prosto" ("just") before closing the thought with "materialno" ("financially").
-- 'I live very far from work.' Eva brings an earnest angle in this beat, leaning on "ochen" ("very much") before closing the thought with "daleko" ("far away").
-- 'It would be nice to rent an apartment nearby.' Eva presents a steady tempo across the room, pairing "neplokho" ("not bad") with "snyat" ("to take down") to get the point across in plain spoken Russian.
-- 'It is very hard for me to ride the metro.' Eva offers a direct line in front of Barinov, anchoring the Russian line on "ochen" ("very much") and "tyazhelo" ("hard") without extra filler.
-- 'I understood you very well.' Barinov strikes an easygoing direction in their talk, leaning on "ochen" ("very much") before closing the thought with "khorosho" ("good, fine").
-- 'All right, I will think about it.' Barinov conveys a measured attitude in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "podumayu" ("to think").
+- 'Well, and what are we to do now?' Barinov lays out that point briskly now: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
+- 'Personally, I am definitely going to have the baby.' Eva responds briskly with a sigh, saying out loud what both of them already know.
+- 'But you need some help, after all.' Barinov emphasizes one colorful touch on cue: "pomoch" means "to help", and it carries the main weight of what Barinov is saying.
+- 'I do not need anything from you.' Eva directs the thought toward Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'But you can help the child.' Eva follows up decisively with a shrug, without trying to dress up how she really feels.
+- 'Tell me, how exactly can I help him?' Barinov picks one clear touch for Eva: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'Well, at least financially.' Eva directs this statement with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I live very far from work.' Eva continues pointedly to be clear, watching Barinov's face to see how the news lands.
+- 'It would be nice to rent an apartment nearby.' Eva chooses one loaded detail in reply: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'It is very hard for me to ride the metro.' Eva weighs in lightly without holding back, letting the remark speak for itself.
+- 'I understood you very well.' Barinov replies boldly with a nod, so Eva knows he is not just making small talk.
+- 'All right, I will think about it.' Barinov underscores this sharp term with Eva: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well how are you feeling, our brave fighter?' Nikita wonders dryly in their exchange, leaning on "kak" ("how") before closing the thought with "chuvstvuyesh" ("feel").
-- 'We have a chance to pay him back the old debt.' Nikita keeps an earnest style without hesitation, pairing "poyavilas" ("appeared") with "vozmozhnost" ("possibility") so the "-sya" ending carries the action.
-- 'Listen, that guy lost his wallet in the courtyard.' Denis holds a direct posture in front of Katya, linking "slushay" ("listen"), "paren" ("boyfriend"), and "dvore" ("yard, courtyard") in one brisk exchange.
-- 'Here is an ID pass for work, the office is nearby.' Denis establishes a pointed attitude on the spot, building the phrase around "zdes" ("here") and "lezhit" ("is lying") for a crisp, natural delivery.
-- 'Strange, but inside there was not a single ruble of money.' Nikita shows a brisk style beside Denis, combining "stranno" ("strange") and "vnutri" ("inside") so the key meaning lands right away.
-- 'Let me tell him that I do not need Sveta.' Denis adopts a clear view right away, leaning on "davay" ("let's") before closing the thought with "skazhu" ("I'll tell").
-- 'And that he should make peace with her soon.' Denis shares a calm note right away, putting "dolzhen" ("has to, must") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
-- 'Nikita, tell me, well where are we going right now?' Katya presses honestly from the start, building the phrase around "skazhi" ("say") and "kuda" ("where to") for a crisp, natural delivery.
-- 'Wait a little, right now you will find out everything yourself.' Nikita projects a wry angle in front of Denis, using "podozhdi" (from "podozhdat", "wait") alongside "nemnogo" ("a bit") to shape the meaning.
-- 'If there are flowers and candles there, I will leave right away.' Katya strikes a direct angle as they talk, putting "tam" ("there") alongside "budut" ("there will be") in a tight, everyday turn of phrase.
-- 'Dad, good afternoon, I want to introduce you.' Nikita sustains a direct stance in this beat, combining "papa" ("Dad") and "dobryy" ("good") so the key meaning lands right away.
-- 'Meet her, please, this is Katya, my beloved girlfriend!' Nikita brings an unhurried angle beside Katya, pairing "poznakomsya" ("to get acquainted") with "lyubimaya" ("favourite, beloved") to get the point across in plain spoken Russian.
+- 'Well how are you feeling, our brave fighter?' Nikita wonders deadpan if there is more going on behind the scenes.
+- 'We have a chance to pay him back the old debt.' Nikita favors one loaded element right here: "vozmozhnost" means "possibility", and it carries the main weight of what Nikita is saying.
+- 'Listen, that guy lost his wallet in the courtyard.' Denis proceeds firmly in their talk, keeping the focus on what actually matters here.
+- 'Here is an ID pass for work, the office is nearby.' Denis cuts in evenly watching Nikita, without trying to dress up how he really feels.
+- 'Strange, but inside there was not a single ruble of money.' Nikita uses one vivid term with Denis: "rublya" means "ruble" (from "rubl"), giving the line its exact edge.
+- 'Let me tell him that I do not need Sveta.' Denis shapes the reaction without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'And that he should make peace with her soon.' Denis opens up evenly around Katya, bringing things back to earth after the buildup.
+- 'Nikita, tell me, well where are we going right now?' Katya favors this vivid touch on cue: "seychas" means "now", and it carries the main weight of what Katya is saying.
+- 'Wait a little, right now you will find out everything yourself.' Nikita underscores this vivid element at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'If there are flowers and candles there, I will leave right away.' Katya replies candidly with a sigh, grounding the moment in plain reality.
+- 'Dad, good afternoon, I want to introduce you.' Nikita grounds this direct choice for Denis: "poznakomit" means "to introduce", and it carries the main weight of what Nikita is saying.
+- 'Meet her, please, this is Katya, my beloved girlfriend!' Nikita frames the comment plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.

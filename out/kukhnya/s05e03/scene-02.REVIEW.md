@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you remember that you have a daughter?' Barinov questions lightly to make the point, using "vspomnili" (from "vspomnit", "remembered") alongside "yest" ("there is") to shape the meaning.
-- 'I always remembered her.' Eleonora keeps a calm posture in their talk, putting "vsegda" ("always") alongside "pomnila" ("remembered") in a tight, everyday turn of phrase.
-- 'And did you ever think of me?' Eleonora presses promptly on the spot, linking "vspominal" ("remembered"), "ty" ("you"), and "menya" ("me") in one brisk exchange.
-- 'I thought of you constantly.' Barinov shares an honest footing on the spot, pairing "vspominal" ("remembered") with "postoyanno" ("constantly") to get the point across in plain spoken Russian.
-- 'There were difficult moments in life.' Barinov adopts a natural bearing straight away, combining "byvali" ("to happen, to be") and "trudnyye" ("difficult, hard") so the key meaning lands right away.
-- 'One remembers you, and things do not seem so bad.' Barinov establishes a calm position right away, putting "vspomnish" ("will remember") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'I will go, bite each other without me.' Katya sustains an honest rhythm for Barinov, building the phrase around "poydu" ("go") and "kusaytes" ("bite each other") for a crisp, natural delivery.
-- 'Wait, you did not really tell me anything.' Eleonora sets a serious posture across the room, doubling the negative with "ne" ("not") and "podozhdi" ("wait"), which is standard and required in Russian.
-- 'Everything is fine with her at the new place.' Barinov strikes an unhurried angle beside Eleonora, putting "novom" ("new") alongside "meste" ("place") in a tight, everyday turn of phrase.
-- 'You can go stroll around for another five years.' Barinov establishes an earnest rhythm in the conversation, combining "mozhesh" ("can") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'Vitya, meet her right now.' Katya holds a measured direction in the conversation, weaving "poznakomsya" ("to get acquainted") together with "pryamo" ("right, just") just the way native speakers do.
-- 'This is the owner of our hotel, Eleonora Andreevna.' Katya sets a playful rhythm beside Eleonora, anchoring the Russian line on "khozyayka" ("landlady") and "otelya" ("of the hotel") without extra filler.
-- 'I beg your pardon.' Barinov holds a candid tone right away, using "proshu" (from "prosit", "beg, ask") alongside "proshcheniya" ("forgiveness") to shape the meaning.
+- 'Did you remember that you have a daughter?' Barinov delivers this point in earnest: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I always remembered her.' Eleonora counters at once in their talk, bringing things back to earth after the buildup.
+- 'And did you ever think of me?' Eleonora leans on one colorful detail in reply: "vspominal" means "remembered" (from "vspominat"), giving the line its exact edge.
+- 'I thought of you constantly.' Barinov sends this line briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'There were difficult moments in life.' Barinov reacts at once watching Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'One remembers you, and things do not seem so bad.' Barinov reaches for one classic choice at once: "vspomnish" means "will remember" (from "vspomnit"), giving the line its exact edge.
+- 'I will go, bite each other without me.' Katya sends the thought without fuss: the "-sya" ending on "kusaytes" ("bite each other") turns the action inward or makes it happen between people naturally.
+- 'Wait, you did not really tell me anything.' Eleonora answers lightly facing Katya, testing Katya's reaction in the middle of the exchange.
+- 'Everything is fine with her at the new place.' Barinov stresses one familiar touch at once: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'You can go stroll around for another five years.' Barinov cuts in honestly beside Katya, to clear the air between them once and for all.
+- 'Vitya, meet her right now.' Katya proceeds quietly with a smile, steering the talk right where she wants it.
+- 'This is the owner of our hotel, Eleonora Andreevna.' Katya spotlights this sharp touch toward Eleonora: "khozyayka" means "landlady", and it carries the main weight of what Katya is saying.
+- 'I beg your pardon.' Barinov frames that line for Eleonora: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.

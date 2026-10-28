@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, you only peeled two sacks.' German establishes a frank manner on the spot, combining "pochistili" ("to carrots") and "tolko" ("only") so the key meaning lands right away.
-- 'Well yes, just as you said.' Denis brings a frank line in front of Max, joining "kak" ("how") to "skazali" ("told") so every word pulls its weight.
-- 'You probably did not listen to the end.' German brings an unhurried view in the scene, putting "navernoye" ("probably") alongside "doslushali" ("to end") in a tight, everyday turn of phrase.
-- 'After all, I said not two, but twenty.' German presents a playful position during the exchange, putting "skazal" ("said") alongside "dva" ("two") in a tight, everyday turn of phrase.
-- 'You probably missed the zero.' German sets a natural tack on the spot, linking "nol" ("zero, nil"), "navernoye" ("probably"), and "uslyshali" ("heard") in one brisk exchange.
-- 'What, twenty more sacks?' Denis probes calmly in their exchange, joining "yeshchyo" ("more, still") to "meshkov" ("sack, bag") so every word pulls its weight.
-- 'No, of course not twenty. Eighteen.' German offers a measured note as the scene unfolds, joining "konechno" ("of course") to "dvadtsat" ("twenty") so every word pulls its weight.
-- 'After all, you already peeled two.' German adopts a pointed attitude in the scene, pairing "uzhe" ("already, now") with "pochistili" ("to carrots") to get the point across in plain spoken Russian.
-- 'Alright. I am giving you one more day.' German conveys a firm line straight away, leaning on "dayu" ("give") before closing the thought with "yeshchyo" ("more, still").
-- 'It is foolish to peel twenty sacks of potatoes. What for?' Max asks calmly right away, combining "glupo" ("stupid") and "chistit" ("to peel") so the key meaning lands right away.
-- 'It is foolish to stand up for a person.' German offers a clear rhythm straight away, building the phrase around "glupo" ("stupid") and "zastupatsya" ("to stand up for") for a crisp, natural delivery.
-- 'who makes a flute out of a carrot.' German sets a playful tempo toward Max, pairing "morkovki" ("carrot") with "delayet" ("does") to get the point across in plain spoken Russian.
+- 'Wait, you only peeled two sacks.' German anchors this clear piece with Denis: "pochistili" means "to carrots" (from "pochistit"), giving the line its exact edge.
+- 'Well yes, just as you said.' Denis continues at once beside Max, letting the remark speak for itself.
+- 'You probably did not listen to the end.' German anchors one telling term toward Denis: "doslushali" means "to end" (from "doslushat"), giving the line its exact edge.
+- 'After all, I said not two, but twenty.' German follows up boldly on the spot, refusing to let the moment slip past.
+- 'You probably missed the zero.' German answers earnestly on the spot, making his position completely clear.
+- 'What, twenty more sacks?' Denis stresses one sharp touch for Max: "meshkov" means "sack, bag" (from "meshok"), giving the line its exact edge.
+- 'No, of course not twenty. Eighteen.' German weighs in briskly watching Denis, shifting the whole mood of the room in a single beat.
+- 'After all, you already peeled two.' German reacts openly with a sigh, grounding the moment in plain reality.
+- 'Alright. I am giving you one more day.' German stresses one clear piece with Denis: "yeshchyo" means "more, still", and it carries the main weight of what German is saying.
+- 'It is foolish to peel twenty sacks of potatoes. What for?' Max delivers that line with warmth: putting the question word "zachem" right at the front of the line lets German hear the point of the question on the very first beat.
+- 'It is foolish to stand up for a person.' German weighs in evenly without holding back, refusing to let the moment slip past.
+- 'who makes a flute out of a carrot.' German frames one key piece on cue: "morkovki" means "carrot" (from "morkovka"), giving the line its exact edge.

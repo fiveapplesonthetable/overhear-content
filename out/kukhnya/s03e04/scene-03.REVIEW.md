@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys! Hello! You are my good girl.' Nagiyev adopts a warm course with Vika, linking "rebyata" ("the boys, the lads"), "zdravstvuyte" ("hello"), and "khoroshaya" ("good") in one brisk exchange.
-- 'Yes, I really like how you work.' Nagiyev keeps a firm direction with Vika, leaning on "ochen" ("very much") before closing the thought with "nravitsya" ("is pleasing").
-- 'Well done! And who gets a bonus, Viktoria Sergeyevna?' Nagiyev tests firmly in their exchange, putting "molodets" ("well done, good boy") alongside "premiya" ("bonus, prize") in a tight, everyday turn of phrase.
-- 'Who gets a bonus?' Nagiyev presses wryly in the room, leaning on "premiya" ("bonus, prize") before closing the thought with "komu" ("to whom, who").
-- 'Are there many people in the dining room?' Nagiyev presses promptly to Vika here, pairing "narodu" ("the people") with "mnogo" ("a lot") to get the point across in plain spoken Russian.
-- 'About fifteen people.' Vika sets a lively mood across the room, pairing "chelovek" ("a man, a person") with "pyatnadtsat" ("fifteen") to get the point across in plain spoken Russian.
-- 'Ladies and gentlemen, good champagne for everyone!' Nagiyev displays a resolute approach straight away, anchoring the Russian line on "gospoda" ("gentlemen") and "shampanskogo" ("of champagne") without extra filler.
-- 'Thank you!' Vika chooses a thoughtful bearing as the scene unfolds, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
-- 'Dmitry Vladimirovich, may I ask the occasion?' Vika inquires directly toward Nagiyev here, putting "pozvolte" ("allow me") alongside "uznat" ("to find out") in a tight, everyday turn of phrase.
-- 'Well, I will allow it!' Nagiyev sustains a lively tone for Vika, building the phrase around "pozvolyu" ("will allow") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Champagne for everyone on my tab!' Nagiyev presents a playful approach at this moment, putting "shampanskogo" ("of champagne") alongside "schyot" ("counting, account") in a tight, everyday turn of phrase.
-- 'Wonderful news!' Vika holds a clear line beside Nagiyev, using "otlichnaya" (from "otlichnyy", "excellent") alongside "novost" ("the news") to shape the meaning.
+- 'Guys! Hello! You are my good girl.' Nagiyev reacts openly facing Vika, shifting the whole mood of the room in a single beat.
+- 'Yes, I really like how you work.' Nagiyev favors one familiar term in earnest: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
+- 'Well done! And who gets a bonus, Viktoria Sergeyevna?' Nagiyev phrases that remark with candor: the "-sya" ending on "molodets" ("well done, good boy") turns the action inward or makes it happen between people naturally.
+- 'Who gets a bonus?' Nagiyev checks candidly while looking straight at Vika here.
+- 'Are there many people in the dining room?' Nagiyev chooses this vivid word with Vika: "narodu" means "the people" (from "narod"), giving the line its exact edge.
+- 'About fifteen people.' Vika makes this warning to Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Ladies and gentlemen, good champagne for everyone!' Nagiyev pushes back promptly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Thank you!' Vika points to one loaded expression with Nagiyev: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.
+- 'Dmitry Vladimirovich, may I ask the occasion?' Vika sends this warning for Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Well, I will allow it!' Nagiyev stands firm evenly across the room, grounding the moment in plain reality.
+- 'Champagne for everyone on my tab!' Nagiyev centers this clear term toward Vika: "shampanskogo" means "of champagne" (from "shampanskoye"), giving the line its exact edge.
+- 'Wonderful news!' Vika offers that answer with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

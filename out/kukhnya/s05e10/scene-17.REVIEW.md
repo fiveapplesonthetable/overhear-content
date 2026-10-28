@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing. In short, it did not work.' Max projects a natural view for Kostya, joining "koroche" ("long story short") to "prokatilo" ("worked out") so every word pulls its weight.
-- 'What do you mean?' Kostya presses decisively to Nastya here, letting the single Russian word "smysle" ("sense") carry the entire reaction on its own.
-- 'She paid with money.' Max strikes a wry direction straight away, building the phrase around "dengami" ("the money, funding") and "rasplatilas" ("paid") for a crisp, natural delivery.
-- 'And besides, she does not look much like a hypnotist.' Max favors a natural position toward Nastya, building the phrase around "voobshche" ("at all") and "ochen" ("very much") for a crisp, natural delivery.
-- 'How does she not look like one? You said so yourself!' Kostya wonders warmly as the beat lands, combining "kak" ("how") and "pokhozha" ("similar, like") so the key meaning lands right away.
-- 'What am I, a detective?' Max wonders wryly as they speak, putting "detektiv" ("detective") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'In short, come on, let us all disperse.' Max offers a natural manner beside Kostya, pairing "koroche" ("long story short") with "davayte" ("let's") to get the point across in plain spoken Russian.
-- 'Wait, what if it is her after all?' Nastya challenges calmly right away, putting "podozhdite" ("wait") alongside "yesli" ("if") in a tight, everyday turn of phrase.
-- 'And right now we will let her slip away!' Nastya sustains a playful footing during the exchange, joining "seychas" ("now") to "upustim" ("will let slip") so every word pulls its weight.
-- 'Listen, let us do it this way.' Max offers a wry course as they talk, weaving "slushayte" ("listen") together with "davayte" ("let's") just the way native speakers do.
-- 'You watch her yourselves, and I pass.' Max maintains a calm approach across the room, anchoring the Russian line on "sledite" ("are watching") and "pas" ("pass") without extra filler.
-- 'I already screwed up in front of Vika anyway.' Max establishes a lively mood across the room, combining "uzhe" ("already, now") and "oblazhalsya" ("screw up, mess up") so the key meaning lands right away.
+- 'Nothing. In short, it did not work.' Max aims that remark beside Kostya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'What do you mean?' Kostya asks skeptically whether Nastya really thought this through.
+- 'She paid with money.' Max underscores one vivid expression in earnest: "rasplatilas" means "paid" (from "rasplatitsya"), giving the line its exact edge.
+- 'And besides, she does not look much like a hypnotist.' Max shares the comeback frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'How does she not look like one? You said so yourself!' Kostya inquires point-blank whether Max really thought this through.
+- 'What am I, a detective?' Max sharpens one clear word for Nastya: "detektiv" means "detective", and it carries the main weight of what Max is saying.
+- 'In short, come on, let us all disperse.' Max voices this warning beside Kostya: the word "davayte" is the polite or group version of "let's", inviting Kostya into the plan right away.
+- 'Wait, what if it is her after all?' Nastya asks promptly about what Max just brought up.
+- 'And right now we will let her slip away!' Nastya grounds this vivid piece right here: "seychas" means "now", and it carries the main weight of what Nastya is saying.
+- 'Listen, let us do it this way.' Max puts this statement right away: the word "davayte" is the polite or group version of "let's", inviting Nastya into the plan right away.
+- 'You watch her yourselves, and I pass.' Max chimes in candidly to be clear, refusing to let the moment slip past.
+- 'I already screwed up in front of Vika anyway.' Max centers one classic expression at once: "oblazhalsya" means "screw up, mess up" (from "oblazhatsya"), giving the line its exact edge.

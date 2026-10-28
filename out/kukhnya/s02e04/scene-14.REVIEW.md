@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then I will head out.' Barinov displays a candid view in the room, weaving "togda" ("back then") together with "poydu" ("go") just the way native speakers do.
-- 'It has already started.' Vika sustains an honest attitude in front of Barinov, putting "uzhe" ("already, now") alongside "nachalos" ("to begin, to start") in a tight, everyday turn of phrase.
-- 'We wrap all of this up.' Barinov presents a sharp rhythm in front of Vika, pairing "delo" ("matter") with "svorachivayem" ("to wrap up") to get the point across in plain spoken Russian.
-- 'All that is left is to put it in the oven.' Vika shows an emphatic manner at this moment, anchoring the Russian line on "ostalos" ("was left") and "tolko" ("only") without extra filler.
-- 'He wanted to buy me off in France.' Barinov projects a sharp footing at this moment, leaning on "kupit" ("buy") before closing the thought with "khotel" ("wanted").
-- 'Well, you get nothing with vinegar, mister.' Vika takes a brisk course toward Barinov, using "uksusom" (from "uksus", "vinegar") alongside "gospodin" ("Mr, sir") to shape the meaning.
-- 'Viktor Barinov is not for sale.' Barinov sustains a sharp view in the room, combining "prodayetsya" ("to be sold") and "viktor" ("Viktor") so the key meaning lands right away.
-- 'That is much better.' Vika shares a frank bearing in the scene, building the phrase around "luchshe" ("better") and "vot" ("there, here") for a crisp, natural delivery.
-- 'Now that is really good.' Barinov favors a wry footing right away, anchoring the Russian line on "sovsem" ("at all") and "khorosho" ("good, fine") without extra filler.
-- 'Well, how is it going over there?' Vika presses calmly as the beat lands, joining "tam" ("there") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Maybe we should not do this?' Barinov questions steadily in the room, linking "mozhet" ("can"), "nado" ("it is necessary"), and "ne" ("not") in one brisk exchange.
-- 'It did not work.' Vika picks an easygoing posture with Barinov, joining "srabotalo" ("to work, succeed") to "ne" ("not") so every word pulls its weight.
-- 'All the worse for him.' Barinov keeps a serious rhythm in the scene, pairing "khuzhe" ("worse") with "yemu" ("him") to get the point across in plain spoken Russian.
+- 'Then I will head out.' Barinov aims the thought briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'It has already started.' Vika stands firm evenly beside Barinov, without trying to dress up how she really feels.
+- 'We wrap all of this up.' Barinov chooses this key choice on cue: "svorachivayem" means "to wrap up" (from "svorachivat"), giving the line its exact edge.
+- 'All that is left is to put it in the oven.' Vika steps in frankly without any doubt, shifting the whole mood of the room in a single beat.
+- 'He wanted to buy me off in France.' Barinov jumps in bluntly beside Vika, shifting the whole mood of the room in a single beat.
+- 'Well, you get nothing with vinegar, mister.' Vika grounds one familiar word toward Barinov: "gospodin" means "Mr, sir", and it carries the main weight of what Vika is saying.
+- 'Viktor Barinov is not for sale.' Barinov puts the thought without fuss: the "-sya" ending on "prodayetsya" ("to be sold") turns the action inward or makes it happen between people naturally.
+- 'That is much better.' Vika opens up right away to be clear, testing Barinov's reaction in the middle of the exchange.
+- 'Now that is really good.' Barinov stresses this vivid element in reply: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'Well, how is it going over there?' Vika shares this line with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Maybe we should not do this?' Barinov wonders point-blank while looking straight at Vika here.
+- 'It did not work.' Vika centers one memorable word at once: "srabotalo" means "to work, succeed" (from "srabotat"), giving the line its exact edge.
+- 'All the worse for him.' Barinov puts that line toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

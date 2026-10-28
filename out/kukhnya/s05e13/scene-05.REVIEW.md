@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is true love, I will go call Mom!' Nastya maintains a serious note across the room, pairing "nastoyashchaya" ("real, genuine") with "lyubov" ("love") to get the point across in plain spoken Russian.
-- 'Well, that is of course far from everything.' Kostya adopts a steady style on the spot, placing "konechno" ("of course") straight beside "daleko" ("far away") with no word for "to be" needed.
-- 'Kostya, what are you lost in thought about now?' Eva tests decisively without a pause, building the phrase around "seychas" ("now") and "zadumalsya" ("become lost in thought") for a crisp, natural delivery.
-- 'You know, I am thinking seriously here.' Kostya establishes a wry direction in the room, leaning on "znayesh" ("know") before closing the thought with "tut" ("here").
-- 'I wonder who is actually stronger?' Kostya quizzes plainly toward Eva here, putting "interesno" ("interesting") alongside "samom" ("very") in a tight, everyday turn of phrase.
-- 'A great white shark or an angry crocodile?' Kostya challenges naturally on the spot, building the phrase around "bolshaya" ("large") and "belaya" ("white") for a crisp, natural delivery.
-- 'Maybe we should discuss this in bed instead?' Eva presses sharply without a pause, weaving "mozhet" ("can") together with "luchshe" ("better") just the way native speakers do.
-- 'Great idea, dibs on being the shark!' Kostya takes an easygoing angle at this moment, linking "otlichnaya" ("excellent"), "ideya" ("idea"), and "budu" ("will be") in one brisk exchange.
-- 'I could not possibly tell that story!' Kostya shows a playful line in the scene, weaving "mog" ("can, to be able") together with "rasskazat" ("to tell") just the way native speakers do.
-- 'Especially right in front of my Nastya.' Kostya chooses an easygoing footing straight away, putting "boleye" ("more") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
-- 'Mom is also very happy for us.' Nastya takes a thoughtful manner in this beat, placing "mama" ("mum, mother") straight beside "tozhe" ("too") with no word for "to be" needed.
-- 'I always tell only the truth.' Kostya shares a calm view right away, pairing "vsegda" ("always") with "govoryu" ("am telling") to get the point across in plain spoken Russian.
+- 'This is true love, I will go call Mom!' Nastya chimes in honestly around Eva, shifting the whole mood of the room in a single beat.
+- 'Well, that is of course far from everything.' Kostya reacts evenly beside Nastya, bringing things back to earth after the buildup.
+- 'Kostya, what are you lost in thought about now?' Eva underscores one familiar term right here: "zadumalsya" means "become lost in thought" (from "zadumatsya"), giving the line its exact edge.
+- 'You know, I am thinking seriously here.' Kostya cuts in sharply before Nastya, shifting the whole mood of the room in a single beat.
+- 'I wonder who is actually stronger?' Kostya quizzes point-blank what Eva is actually getting at here.
+- 'A great white shark or an angry crocodile?' Kostya favors one telling detail in earnest: "bolshaya" means "large" (from "bolshoy"), giving the line its exact edge.
+- 'Maybe we should discuss this in bed instead?' Eva shares this answer frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Great idea, dibs on being the shark!' Kostya speaks decisively watching Nastya, so Nastya knows he is not just making small talk.
+- 'I could not possibly tell that story!' Kostya uses this vivid detail on cue: "rasskazat" means "to tell", and it carries the main weight of what Kostya is saying.
+- 'Especially right in front of my Nastya.' Kostya responds at once facing Nastya, bringing things back to earth after the buildup.
+- 'Mom is also very happy for us.' Nastya speaks steadily without holding back, shifting the whole mood of the room in a single beat.
+- 'I always tell only the truth.' Kostya features one classic piece in earnest: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.

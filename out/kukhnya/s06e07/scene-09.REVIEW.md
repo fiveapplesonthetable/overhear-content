@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Try it, this is a very tasty and smooth cocktail.' Nikita shares an unhurried attitude straight away, putting "poprobuy" ("to try, to taste") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'Tell me, may I have a word with you for a minute?' Kostya presses calmly from the start, building the phrase around "skazhite" ("tell") and "mozhno" ("may, can") for a crisp, natural delivery.
-- 'What a pretty cocktail you have in your glass!' Nastya displays a direct note in this beat, combining "bokale" ("wine glass") and "krasivyy" ("beautiful") so the key meaning lands right away.
-- 'Your Kostya went out of his way to make it for me.' Nikita projects an emphatic tack in the room, leaning on "spetsialno" ("on purpose") before closing the thought with "postaralsya" ("to try").
-- 'He says that it is some kind of new recipe.' Nikita picks a grounded bearing without hesitation, linking "govorit" ("talks"), "novyy" ("new"), and "retsept" ("recipe") in one brisk exchange.
-- 'He waits on you, while his wife sits with an empty glass.' Nastya shares a warm approach at this moment, leaning on "ukhazhivayet" ("to court, to woo") before closing the thought with "zhena" ("wife").
-- 'Take it for yourself, I do not want it yet.' Nikita conveys a thoughtful rhythm beside Kostya, weaving "vozmi" ("take, pick up") together with "poka" ("bye") just the way native speakers do.
-- 'Thank you very much, I will gladly try it!' Nastya shares a frank footing in front of Nikita, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").
-- 'Nastya, stop, that cocktail is not for you!' Kostya sets a grounded tone in this beat, combining "stoy" ("stop, wait") and "kokteyl" ("cocktail") so the key meaning lands right away.
-- 'Come on, Kostya, I do not mind at all.' Nikita sustains a warm mood in the room, weaving "sovsem" ("at all") together with "da" ("yes") just the way native speakers do.
-- 'You must not drink that cocktail all the way to the bottom!' Kostya keeps a firm rhythm during the exchange, linking "kokteyl" ("cocktail"), "kontsa" ("ending"), and "dopivat" ("to finish drinking") in one brisk exchange.
-- 'Because right at the very bottom it is way too strong.' Kostya picks a playful manner across the room, linking "tam" ("there"), "samom" ("very"), and "dne" ("bottom, riverbed") in one brisk exchange.
+- 'Try it, this is a very tasty and smooth cocktail.' Nikita opens up honestly across the room, testing Kostya's reaction in the middle of the exchange.
+- 'Tell me, may I have a word with you for a minute?' Kostya favors one loaded touch right here: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'What a pretty cocktail you have in your glass!' Nastya phrases this answer beside Kostya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Your Kostya went out of his way to make it for me.' Nikita jumps in lightly as they talk, bringing things back to earth after the buildup.
+- 'He says that it is some kind of new recipe.' Nikita reaches for one memorable word with Kostya: "retsept" means "recipe", and it carries the main weight of what Nikita is saying.
+- 'He waits on you, while his wife sits with an empty glass.' Nastya opens up boldly facing Nikita, keeping the focus on what actually matters here.
+- 'Take it for yourself, I do not want it yet.' Nikita fires back candidly hearing Kostya, bringing things back to earth after the buildup.
+- 'Thank you very much, I will gladly try it!' Nastya frames this clear detail on cue: "udovolstviyem" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
+- 'Nastya, stop, that cocktail is not for you!' Kostya features this vivid element toward Nastya: "kokteyl" means "cocktail", and it carries the main weight of what Kostya is saying.
+- 'Come on, Kostya, I do not mind at all.' Nikita stands firm dryly before Nastya, making his position completely clear.
+- 'You must not drink that cocktail all the way to the bottom!' Kostya sharpens one clear piece in reply: "kokteyl" means "cocktail", and it carries the main weight of what Kostya is saying.
+- 'Because right at the very bottom it is way too strong.' Kostya frames this line in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

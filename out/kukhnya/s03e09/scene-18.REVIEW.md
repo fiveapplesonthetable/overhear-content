@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastenka, hello, my beloved daughter.' The guest strikes an unhurried view in front of Nastya, linking "lyubimaya" ("favourite, beloved"), "dochka" ("dear, daughter"), and "nastenka" ("Nastenka") in one brisk exchange.
-- 'Hello, I wanted to talk with you.' Nastya presents a pointed direction in the conversation, putting "khotela" ("wanted, meant") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
-- 'Speak, daughter, I am all ears.' The guest presents a resolute manner in the scene, anchoring the Russian line on "govori" ("say, talk") and "dochka" ("dear, daughter") without extra filler.
-- 'I have never asked you for anything.' Nastya picks a sharp position during the exchange, anchoring the Russian line on "nikogda" ("never") and "prosila" ("asked") without extra filler.
-- 'But right now things are a bit tight with money for us.' Nastya adopts an easygoing tack right away, joining "seychas" ("now") to "trudnovato" ("a bit difficult") so every word pulls its weight.
-- 'Kostik even got a second job.' Nastya shares a direct posture in the conversation, weaving "vtoruyu" ("second") together with "rabotu" ("job") just the way native speakers do.
-- 'He works without days off, my poor darling.' Nastya takes a serious style during the exchange, joining "rabotayet" ("works") to "vykhodnykh" ("weekend") so every word pulls its weight.
-- 'He tries so hard and is saving up for the wedding.' Nastya adopts an easygoing angle on the spot, using "starayetsya" (from "staratsya", "to try") alongside "svadbu" ("wedding") to shape the meaning.
-- 'Could you possibly lend us some money?' Nastya tests boldly to make the point, leaning on "mog" ("can, to be able") before closing the thought with "zanyat" ("to borrow").
-- 'Daughter, I would have given it to you anyway.' The guest shares a frank posture in the room, combining "dochka" ("dear, daughter") and "dal" ("to give") so the key meaning lands right away.
-- 'No, this is a loan, I will pay it back.' Nastya keeps a playful manner in their talk, putting "dolg" ("debt") alongside "vernu" ("I'll return") in a tight, everyday turn of phrase.
-- 'Just do not tell Kostik, or he will get angry.' Nastya chooses an honest tack for the guest, putting "tolko" ("only") alongside "govori" ("say, talk") in a tight, everyday turn of phrase.
+- 'Nastenka, hello, my beloved daughter.' The guest replies calmly hearing Nastya, before Nastya can change the subject.
+- 'Hello, I wanted to talk with you.' Nastya reaches for this key expression at once: "pogovorit" means "to talk", and it carries the main weight of what Nastya is saying.
+- 'Speak, daughter, I am all ears.' The guest follows up warmly around Nastya, shifting the whole mood of the room in a single beat.
+- 'I have never asked you for anything.' Nastya holds firm right away to be clear, testing the guest's reaction in the middle of the exchange.
+- 'But right now things are a bit tight with money for us.' Nastya highlights one clear word at once: "trudnovato" means "a bit difficult", and it carries the main weight of what Nastya is saying.
+- 'Kostik even got a second job.' Nastya drops the reaction at once: the "-sya" ending on "ustroilsya" ("to settle, to get a job") turns the action inward or makes it happen between people naturally.
+- 'He works without days off, my poor darling.' Nastya speaks decisively with the guest, refusing to let the moment slip past.
+- 'He tries so hard and is saving up for the wedding.' Nastya spotlights one colorful word on cue: "starayetsya" means "to try" (from "staratsya"), giving the line its exact edge.
+- 'Could you possibly lend us some money?' Nastya voices that point for the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Daughter, I would have given it to you anyway.' The guest opens up decisively to be clear, before Nastya can change the subject.
+- 'No, this is a loan, I will pay it back.' Nastya stresses this clear term at once: "dolg" means "debt", and it carries the main weight of what Nastya is saying.
+- 'Just do not tell Kostik, or he will get angry.' Nastya phrases this warning calmly now: the "-sya" ending on "rasserditsya" ("will get angry") turns the action inward or makes it happen between people naturally.

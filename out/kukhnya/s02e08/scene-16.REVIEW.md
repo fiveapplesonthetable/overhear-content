@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The red one. Good.' Barinov shares a resolute line across the room, anchoring the Russian line on "krasnyy" ("red") and "khorosho" ("good, fine") without extra filler.
-- 'Or maybe the blue one.' Vika holds an easygoing posture in the scene, pairing "siniy" ("blue") with "ili" ("or") to get the point across in plain spoken Russian.
-- 'Well, yes.' Lyova brings a firm approach in this beat, combining "nu" ("oh, come on") and "da" ("yes") so the key meaning lands right away.
-- 'Or the red one.' Barinov sustains a resolute style with Vika, combining "krasnyy" ("red") and "ili" ("or") so the key meaning lands right away.
-- 'Viktor Petrovich, are you a groom or a bomb tech?' Vika tests wryly for Barinov's benefit, joining "zhenikh" ("groom, fiancé") to "saper" ("sapper, minesweeper") so every word pulls its weight.
-- 'Lyova, this is a first date.' Barinov sets a warm style for Vika, using "pervoye" (from "pervyy", "first") alongside "svidaniye" ("date") to shape the meaning.
-- 'Wait a second, is she at least from a good family?' Barinov asks naturally during the talk, linking "podozhdite" ("wait"), "khoroshey" ("good"), and "semi" ("family") in one brisk exchange.
-- 'She is from a good restaurant.' Vika offers a grounded posture across the room, joining "khoroshego" ("good, the best") to "restorana" ("restaurant") so every word pulls its weight.
-- 'She is magical.' Lyova presents an honest view on the spot, joining "volshebnaya" ("magical") to "ona" ("it") so every word pulls its weight.
-- 'Take the red tie.' Barinov favors a clear posture in their talk, anchoring the Russian line on "vozmite" ("take") and "krasnyy" ("red") without extra filler.
-- 'He proposed to me.' Lyova chooses an emphatic tack in the scene, leaning on "sdelal" ("did") before closing the thought with "predlozheniye" ("offer, proposal").
-- 'Lyova convinced me.' Barinov adopts a steady note in the conversation, leaning on "ubedil" ("convinced") before closing the thought with "lyova" ("Lyova").
-- 'Hand me the red one.' Barinov displays a steady line for Lyova, combining "davay" ("let's") and "krasnyy" ("red") so the key meaning lands right away.
+- 'The red one. Good.' Barinov features one loaded touch at once: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
+- 'Or maybe the blue one.' Vika hands over this point plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Well, yes.' Lyova continues honestly without any doubt, watching Barinov's face to see how the news lands.
+- 'Or the red one.' Barinov grounds one direct touch with Vika: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich, are you a groom or a bomb tech?' Vika phrases this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Lyova, this is a first date.' Barinov answers wryly with a sigh, steering the talk right where he wants it.
+- 'Wait a second, is she at least from a good family?' Barinov leans on one familiar touch for Lyova: "khoroshey" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'She is from a good restaurant.' Vika directs the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'She is magical.' Lyova follows up honestly to be clear, shifting the whole mood of the room in a single beat.
+- 'Take the red tie.' Barinov favors one familiar touch at once: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
+- 'He proposed to me.' Lyova puts that point beside Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Lyova convinced me.' Barinov reacts sharply watching Vika, leaving no doubt about where he stands.
+- 'Hand me the red one.' Barinov highlights one pointed detail with Lyova: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand, what is going on here?' Senya asks steadily in their exchange, weaving "ponyal" ("understood") together with "zdes" ("here") just the way native speakers do.
-- 'I did not understand either!' Gulya offers a warm stance straight away, combining "tozhe" ("too") and "ponyala" ("understood") so the key meaning lands right away.
-- 'He started kissing me himself!' Gulya favors a direct tack straight away, weaving "stal" ("to become") together with "tselovat" ("to kiss") just the way native speakers do.
-- 'He was talking about some boat too, Senya.' Gulya displays a serious position without hesitation, combining "yeshchyo" ("more, still") and "barkas" ("launch, boat") so the key meaning lands right away.
-- 'Shut your mouth!' Senya favors a wry course with Fedya, pairing "rot" ("mouth") with "zakroy" ("shut, close") to get the point across in plain spoken Russian.
-- 'What a day this has turned out to be.' Senya picks a direct position at this moment, putting "denyok" ("day, little day") alongside "vydalsya" ("to day") in a tight, everyday turn of phrase.
-- 'I lost both a friend and a wife.' Senya holds an honest posture at once, using "druga" (from "drug", "the friend") alongside "poteryal" ("lost") to shape the meaning.
-- 'Senya, stop it, help!' Fedya picks a calm note in this beat, pairing "prekrati" ("stop it") with "pomogite" ("help") to get the point across in plain spoken Russian.
-- 'Senechka, he started it himself!' Gulya takes a grounded stance with Fedya, linking "nachal" ("started"), "senechka" ("Senechka"), and "on" ("he") in one brisk exchange.
-- 'Everything is fine, everything is fine.' Gulya conveys a brisk bearing as they talk, anchoring the Russian line on "normalno" ("fine, OK") and "nu" ("oh, come on") without extra filler.
-- 'Senechka, my darling, little bunny, listen.' Gulya projects a calm note without hesitation, linking "milyy" ("darling"), "zaychik" ("little bunny"), and "poslushay" ("listen") in one brisk exchange.
-- 'Quit this job right now!' Senya projects an unhurried line in the scene, weaving "uvolnyaysya" ("quit, resign") together with "otsyuda" ("from here") just the way native speakers do.
+- 'I do not understand, what is going on here?' Senya grounds one classic touch with Fedya: "proiskhodit" means "is going on", and it carries the main weight of what Senya is saying.
+- 'I did not understand either!' Gulya weighs in decisively during the talk, steering the talk right where she wants it.
+- 'He started kissing me himself!' Gulya speaks up boldly with a sigh, testing Fedya's reaction in the middle of the exchange.
+- 'He was talking about some boat too, Senya.' Gulya colors one clear term in earnest: "yeshchyo" means "more, still", and it carries the main weight of what Gulya is saying.
+- 'Shut your mouth!' Senya lays out that reply without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What a day this has turned out to be.' Senya holds firm sharply as they talk, letting the remark speak for itself.
+- 'I lost both a friend and a wife.' Senya grounds one familiar element toward Fedya: "poteryal" means "lost" (from "poteryat"), giving the line its exact edge.
+- 'Senya, stop it, help!' Fedya drops the comeback beside Senya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Senechka, he started it himself!' Gulya speaks evenly hearing Fedya, bringing things back to earth after the buildup.
+- 'Everything is fine, everything is fine.' Gulya sharpens this vivid touch at once: "normalno" means "fine, OK", and it carries the main weight of what Gulya is saying.
+- 'Senechka, my darling, little bunny, listen.' Gulya jumps in frankly in this moment, shifting the whole mood of the room in a single beat.
+- 'Quit this job right now!' Senya jumps in pointedly watching Gulya, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now I pronounce you husband and wife.' Barinov keeps a direct position at this moment, leaning on "teper" ("now") before closing the thought with "obyavlyayu" ("I declare").
-- 'Do not be afraid, darling, come quickly with me.' Barinov adopts a clear stance beside Nastya, putting "boysya" ("be afraid") alongside "milaya" ("darling") in a tight, everyday turn of phrase.
-- 'Katya, Nastya, what are you doing here?' Barinov queries boldly from the start, putting "tut" ("here") alongside "delayete" ("are doing") in a tight, everyday turn of phrase.
-- 'Show us the path of how to live on.' Nastya shows a sharp posture as the scene unfolds, joining "ukazhite" ("show, point out") to "put" ("path") so every word pulls its weight.
-- 'My children, go calmly to your homeland.' Barinov conveys a measured tone across the room, joining "deti" ("kids") to "spokoyno" ("calmly") so every word pulls its weight.
-- 'Wait for me there and cultivate the land.' Barinov sustains a serious mood in the conversation, joining "zhdite" ("to wait, to expect") to "tam" ("there") so every word pulls its weight.
-- 'We thank you for your wisdom, great prophet!' Nastya offers a candid manner with Barinov, joining "blagodarim" ("to thank") to "mudrost" ("wisdom") so every word pulls its weight.
-- 'Chef, and what should we do now?' Katya presses promptly to make the point, putting "teper" ("now") alongside "delat" ("do") in a tight, everyday turn of phrase.
-- 'And you need to quickly go work!' Barinov maintains a steady note at once, putting "nuzhno" ("necessary") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
-- 'Everyone work immediately in our kitchen!' Barinov displays a steady posture for Nastya, putting "nemedlenno" ("immediately") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
-- 'And this month everyone is without a bonus!' Barinov maintains a measured course in the room, using "mesyatse" (from "mesyats", "month") alongside "premii" ("bonus, prize") to shape the meaning.
-- 'Understood, chef, we are already going to the stoves.' Katya establishes an honest line at once, weaving "ponyatno" ("clear") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Now I pronounce you husband and wife.' Barinov sharpens this telling choice toward Katya: "obyavlyayu" means "I declare" (from "obyavlyat"), giving the line its exact edge.
+- 'Do not be afraid, darling, come quickly with me.' Barinov reacts frankly with a smile, to clear the air between them once and for all.
+- 'Katya, Nastya, what are you doing here?' Barinov quizzes earnestly what Katya is actually getting at here.
+- 'Show us the path of how to live on.' Nastya focuses on one memorable piece in earnest: "ukazhite" means "show, point out" (from "ukazat"), giving the line its exact edge.
+- 'My children, go calmly to your homeland.' Barinov fires back bluntly before Katya, testing Katya's reaction in the middle of the exchange.
+- 'Wait for me there and cultivate the land.' Barinov stands firm warmly as they talk, without trying to dress up how he really feels.
+- 'We thank you for your wisdom, great prophet!' Nastya grounds one sharp touch for Barinov: "blagodarim" means "to thank" (from "blagodarit"), giving the line its exact edge.
+- 'Chef, and what should we do now?' Katya shares the remark beside Nastya: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'And you need to quickly go work!' Barinov chimes in plainly without holding back, so Katya knows he is not just making small talk.
+- 'Everyone work immediately in our kitchen!' Barinov favors one clear term on cue: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
+- 'And this month everyone is without a bonus!' Barinov voices the thought briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Understood, chef, we are already going to the stoves.' Katya cuts in calmly during the talk, saying out loud what both of them already know.

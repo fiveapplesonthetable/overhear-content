@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I held back.' Nastya presents an easygoing attitude right away, combining "derzhalas" ("held back, held on") and "ya" ("I") so the key meaning lands right away.
-- 'But I cannot anymore.' Nastya sets a wry direction for Katya, putting "bolshe" ("more") alongside "mogu" ("can") in a tight, everyday turn of phrase.
-- 'What?' Katya asks bluntly to Nastya here, putting all the weight on "chego" ("what") so the reply lands immediately.
-- 'You will not believe it.' Nastya conveys a steady manner in the room, using "poverish" (from "poverit", "will believe") alongside "ty" ("you") to shape the meaning.
-- 'That is why the two of you broke up.' Nastya presents a frank attitude in the room, pairing "rasstalis" ("broke up, separated") with "poetomu" ("that's why") so the "-sya" ending carries the action.
-- 'Strange, and how do you know all this?' Katya quizzes honestly in this moment, joining "stranno" ("strange") to "otkuda" ("where from") so every word pulls its weight.
-- 'Kostik told me.' Nastya sets a firm note toward Katya, putting "rasskazal" ("told") alongside "mne" ("to me") in a tight, everyday turn of phrase.
-- 'And Kostya does not know how to lie at all.' Nastya establishes a serious direction in this beat, combining the conversational booster "voobshche" ("in general, overall") with "vrat" ("to lie") to give the line its natural spoken rhythm.
-- 'You refused to marry Den.' Nastya shows a serious view in the room, anchoring the Russian line on "otkazalas" ("refused") and "vyyti" ("to marry") without extra filler.
-- 'That is why he decided to break up with you.' Nastya takes a lively note in front of Katya, leaning on "poetomu" ("that's why") before closing the thought with "reshil" ("has decided").
-- 'He needs a mother for his daughter.' Nastya chooses a direct rhythm in their talk, pairing "nuzhna" ("needed") with "mama" ("mum, mother") to get the point across in plain spoken Russian.
-- 'He wanted to confess something to me.' Katya adopts an emphatic view without hesitation, anchoring the Russian line on "khotel" ("wanted") and "chyom-to" ("different") without extra filler.
+- 'I held back.' Nastya chooses one familiar term in reply: "derzhalas" means "held back, held on" (from "derzhatsya"), giving the line its exact edge.
+- 'But I cannot anymore.' Nastya answers boldly as things stand, shifting the whole mood of the room in a single beat.
+- 'What?' Stepping in with urgency, Katya lets Nastya know there is no turning back now.
+- 'You will not believe it.' Nastya stresses one telling word for Katya: "poverish" means "will believe" (from "poverit"), giving the line its exact edge.
+- 'That is why the two of you broke up.' Nastya phrases this line on cue: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
+- 'Strange, and how do you know all this?' Katya questions openly how Nastya expects that to work in practice.
+- 'Kostik told me.' Nastya highlights one colorful detail on cue: "rasskazal" means "told" (from "rasskazat"), giving the line its exact edge.
+- 'And Kostya does not know how to lie at all.' Nastya voices the comment facing Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'You refused to marry Den.' Nastya steps in boldly around Katya, making her position completely clear.
+- 'That is why he decided to break up with you.' Nastya uses one familiar word in reply: "rasstatsya" means "to break up", and it carries the main weight of what Nastya is saying.
+- 'He needs a mother for his daughter.' Nastya responds evenly across the room, making her position completely clear.
+- 'He wanted to confess something to me.' Katya reacts wryly without a pause, before Nastya can change the subject.

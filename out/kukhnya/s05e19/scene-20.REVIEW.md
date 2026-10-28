@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our destiny always leaves us clues.' Max keeps a playful mood for Barinov, putting "sudba" ("fate, destiny") alongside "vsegda" ("always") in a tight, everyday turn of phrase.
-- 'Following them, we end up where we are meant to be.' Max chooses an emphatic footing as the scene unfolds, pairing "okazyvayemsya" ("to turn out to be") with "sleduya" ("following") so the "-sya" ending carries the action.
-- 'Sometimes we follow a false trail.' Max adopts a thoughtful position in front of Barinov, leaning on "inogda" ("sometimes, at times") before closing the thought with "idyom" ("are going").
-- 'Attention, the inspector left a review on the Michelin website!' Lyova brings a frank attitude in the conversation, building the phrase around "vnimaniye" ("attention") and "inspektor" ("inspector") for a crisp, natural delivery.
-- 'The hotel restaurant in the heart of the capital is worth visiting.' Lyova maintains a warm line with Barinov, leaning on "restoran" ("restaurant") before closing the thought with "otele" ("in the hotel").
-- 'For its unexpected takes on classic French cuisine!' Lyova sustains a playful rhythm in the scene, building the phrase around "neozhidannykh" ("unexpected") and "resheniy" ("decision, ruling") for a crisp, natural delivery.
-- 'Congratulations, it is the first such restaurant in Russia!' Lyova brings a resolute style beside Barinov, combining "pozdravlyayu" ("congratulations") and "pervyy" ("first") so the key meaning lands right away.
-- 'Max, you did a great job, this is your success!' Lyova sustains a candid tone right away, linking "nastoyashchiy" ("real, genuine") directly with "molodets" ("well done, good boy"), since Russian drops "is" and "are" in the present.
-- 'Thank you, guys, I did not expect it myself!' Max keeps a brisk course with Barinov, pairing "spasibo" ("thank you") with "rebyata" ("the boys, the lads") to get the point across in plain spoken Russian.
-- 'When you have made mistakes so often in life...' Barinov conveys a measured tone beside Max, building the phrase around "kogda" ("when") and "zhizni" ("life") for a crisp, natural delivery.
-- 'You stop paying attention to the clues of fate.' Barinov sets an emphatic manner without hesitation, combining "perestayosh" ("stop") and "obrashchat" ("to turn, to direct") so the key meaning lands right away.
-- 'And simply walk calmly along your own road.' Barinov shows a frank footing for Max, leaning on "prosto" ("just") before closing the thought with "spokoyno" ("calmly").
+- 'Our destiny always leaves us clues.' Max counters at once as things stand, to clear the air between them once and for all.
+- 'Following them, we end up where we are meant to be.' Max responds dryly toward Lyova, letting the remark speak for itself.
+- 'Sometimes we follow a false trail.' Max highlights one colorful choice at once: "lozhnomu" means "false, fake" (from "lozhnyy"), giving the line its exact edge.
+- 'Attention, the inspector left a review on the Michelin website!' Lyova continues decisively hearing Max, letting the remark speak for itself.
+- 'The hotel restaurant in the heart of the capital is worth visiting.' Lyova chimes in steadily before Barinov, grounding the moment in plain reality.
+- 'For its unexpected takes on classic French cuisine!' Lyova centers one memorable element toward Max: "neozhidannykh" means "unexpected" (from "neozhidannyy"), giving the line its exact edge.
+- 'Congratulations, it is the first such restaurant in Russia!' Lyova continues firmly around Barinov, keeping the focus on what actually matters here.
+- 'Max, you did a great job, this is your success!' Lyova stands firm honestly around Max, testing Max's reaction in the middle of the exchange.
+- 'Thank you, guys, I did not expect it myself!' Max emphasizes one colorful piece on cue: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
+- 'When you have made mistakes so often in life...' Barinov aims the comeback in earnest: the "-sya" ending on "oshibalsya" ("to make a mistake") turns the action inward or makes it happen between people naturally.
+- 'You stop paying attention to the clues of fate.' Barinov answers dryly toward Lyova, steering the talk right where he wants it.
+- 'And simply walk calmly along your own road.' Barinov points to one colorful element for Max: "dorogoy" means "dear", and it carries the main weight of what Barinov is saying.

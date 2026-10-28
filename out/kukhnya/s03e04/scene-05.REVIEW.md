@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, mushrooms! Some fool gave them to me at an office party.' Nagiyev maintains a brisk manner as they talk, combining "griby" ("mushrooms") and "durak" ("fool, idiot") so the key meaning lands right away.
-- 'Wings, he says, sprout right out.' Nagiyev sets a warm stance in their talk, pairing "krylya" ("wings") with "govorit" ("talks") to get the point across in plain spoken Russian.
-- 'You will feel great.' Nagiyev conveys an earnest course toward Barinov, linking "budesh" ("will"), "otlichno" ("perfect, great"), and "chuvstvovat" ("to feel") in one brisk exchange.
-- 'I am twenty-four.' Ilya picks a playful view in the scene, linking "dvadtsat" ("twenty"), "chetyre" ("four"), and "mne" ("to me") in one brisk exchange.
-- 'Don't be a smart-aleck. Got it?' Nagiyev checks candidly without holding back, pairing "umnichay" ("to act smart") with "ponyal" ("understood") to get the point across in plain spoken Russian.
-- 'Ilyusha, prepare something festive for me.' Nagiyev shares a steady approach right away, anchoring the Russian line on "prigotov" ("prepare") and "prazdnichnoye" ("festive") without extra filler.
-- 'Make it. Go on.' Nagiyev shares a natural rhythm on the spot, anchoring the Russian line on "sdelay" ("make, do") and "davay" ("let's") without extra filler.
-- 'And why have you crowded around here?' Barinov inquires plainly to keep things clear, weaving "tut" ("here") together with "stolpilis" ("crowded around") just the way native speakers do.
-- 'Hello, Chef.' Ilya conveys a frank mood at once, pairing "zdravstvuyte" ("hello") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'Are you messing around with nonsense again?' Barinov quizzes warmly in the room, leaning on "opyat" ("again") before closing the thought with "yerundoy" ("nonsense").
-- 'Chef, this is not nonsense, this is a big game.' Ilya sets a warm angle with Barinov, joining "yerunda" ("trifle, nothing") to "bolshaya" ("large") so every word pulls its weight.
-- 'The open kitchen can-knocking championship. Serious money is at stake.' Ilya keeps an easygoing line as the scene unfolds, building the phrase around "otkrytyy" ("open, unclosed") and "chempionat" ("championship") for a crisp, natural delivery.
+- 'Oh, mushrooms! Some fool gave them to me at an office party.' Nagiyev chimes in frankly with a sigh, keeping the focus on what actually matters here.
+- 'Wings, he says, sprout right out.' Nagiyev answers plainly as they talk, without trying to dress up how he really feels.
+- 'You will feel great.' Nagiyev leans on one pointed touch right here: "chuvstvovat" means "to feel", and it carries the main weight of what Nagiyev is saying.
+- 'I am twenty-four.' Ilya frames that thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Don't be a smart-aleck. Got it?' Nagiyev asks deadpan what Barinov is actually getting at here.
+- 'Ilyusha, prepare something festive for me.' Nagiyev features one direct element with Ilya: "prazdnichnoye" means "festive" (from "prazdnichnyy"), giving the line its exact edge.
+- 'Make it. Go on.' Nagiyev delivers this point facing Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'And why have you crowded around here?' Barinov asks evenly if there is more going on behind the scenes.
+- 'Hello, Chef.' Ilya underscores one vivid element for Barinov: "zdravstvuyte" means "hello", and it carries the main weight of what Ilya is saying.
+- 'Are you messing around with nonsense again?' Barinov voices the thought in earnest: the "-sya" ending on "zanimayetes" ("are busy with") turns the action inward or makes it happen between people naturally.
+- 'Chef, this is not nonsense, this is a big game.' Ilya answers decisively on the spot, so Barinov knows he is not just making small talk.
+- 'The open kitchen can-knocking championship. Serious money is at stake.' Ilya stresses this clear piece toward Nagiyev: "chempionat" means "championship", and it carries the main weight of what Ilya is saying.

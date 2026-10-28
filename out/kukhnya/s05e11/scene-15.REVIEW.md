@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The time has come to do some work!' Barinov adopts a clear note in the room, anchoring the Russian line on "prishlo" ("to come, to arrive") and "vremya" ("time") without extra filler.
-- 'In a couple of hours the owner has an important meeting.' Barinov favors an honest tack in front of Senya, joining "khozyayki" ("landlady, hostess") to "paru" ("couple") so every word pulls its weight.
-- 'Senya, Fedya, you take the appetizers.' Barinov favors a resolute stance beside Denis, weaving "beryote" ("take") together with "zakuski" ("appetizer, snack") just the way native speakers do.
-- 'Louis, dessert is on you.' Barinov maintains a playful position during the exchange, weaving "desert" ("dessert") together with "lui" ("Louis") just the way native speakers do.
-- 'Alright, chef. And who has the hot entrees?' Senya tests evenly in the scene, building the phrase around "khorosho" ("good, fine") and "goryacheye" ("hot") for a crisp, natural delivery.
-- 'And Artyom is cooking all the main courses!' Barinov maintains a candid stance straight away, combining "glavnyye" ("important") and "blyuda" ("of dish") so the key meaning lands right away.
-- 'She promised to stop by the kitchen for an inspection.' Barinov offers an emphatic approach as the scene unfolds, joining "obeshchala" ("promised") to "zayti" ("to approach") so every word pulls its weight.
-- 'So you will have to cook personally.' Barinov brings a frank position straight away, putting "pridyotsya" ("you'll have to") alongside "gotovit" ("to cook") in a tight, everyday turn of phrase.
-- 'But do not worry, I will taste everything and coach you.' Barinov chooses a thoughtful note toward Denis, linking "volnuysya" ("worry"), "budu" ("will be"), and "probovat" ("to try, to taste") in one brisk exchange.
-- 'Alright, chef.' Denis conveys a playful angle in the conversation, leaning on "khorosho" ("good, fine") before closing the thought with "shef" ("Chef").
-- 'I believe in you!' Barinov offers an easygoing line without hesitation, using "veryu" (from "verit", "believe") alongside "ya" ("I") to shape the meaning.
-- 'This is going to be interesting.' Senya strikes a warm style for Denis, joining "budet" ("will be") to "interesno" ("interesting") so every word pulls its weight.
+- 'The time has come to do some work!' Barinov reacts sharply without any doubt, shifting the whole mood of the room in a single beat.
+- 'In a couple of hours the owner has an important meeting.' Barinov stresses one sharp word on cue: "khozyayki" means "landlady, hostess" (from "khozyayka"), giving the line its exact edge.
+- 'Senya, Fedya, you take the appetizers.' Barinov brings this point around Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Louis, dessert is on you.' Barinov chimes in openly as they talk, keeping the focus on what actually matters here.
+- 'Alright, chef. And who has the hot entrees?' Senya picks one concrete choice for Barinov: "goryacheye" means "hot" (from "goryachiy"), giving the line its exact edge.
+- 'And Artyom is cooking all the main courses!' Barinov chimes in firmly beside Senya, so Senya knows he is not just making small talk.
+- 'She promised to stop by the kitchen for an inspection.' Barinov weighs in steadily with a sigh, refusing to let the moment slip past.
+- 'So you will have to cook personally.' Barinov reaches for this direct term in reply: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
+- 'But do not worry, I will taste everything and coach you.' Barinov anchors this vivid piece for Denis: "podskazyvat" means "to prompt, coach", and it carries the main weight of what Barinov is saying.
+- 'Alright, chef.' Denis fires back warmly across the room, watching Senya's face to see how the news lands.
+- 'I believe in you!' Barinov picks one classic choice for Denis: "veryu" means "believe" (from "verit"), giving the line its exact edge.
+- 'This is going to be interesting.' Senya lays out that point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

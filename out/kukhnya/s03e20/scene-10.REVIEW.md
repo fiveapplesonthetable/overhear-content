@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are not going anywhere right now, lie down quickly!' Vika establishes a wry direction in front of Barinov, leaning on "nikuda" ("nowhere, anywhere") before closing the thought with "seychas" ("now").
-- 'Tell me, what should I bring you? Should I make hot tea?' Vika wonders pointedly right away, combining "skazhi" ("say") and "prinesti" ("to bring, offer") so the key meaning lands right away.
-- 'No, better just bring me some cold water.' Max brings a clear view at once, building the phrase around "prinesi" ("bring") and "luchshe" ("better") for a crisp, natural delivery.
-- 'Alright, lie quietly, I will bring water right now.' Vika picks an emphatic tack in front of Max, putting "khorosho" ("good, fine") alongside "lezhi" ("lie down") in a tight, everyday turn of phrase.
-- 'Viktor Petrovich, what do you order me to do now?' Max questions calmly in the room, weaving "prikazhete" ("you will order") together with "delat" ("do") just the way native speakers do.
-- 'My guests in the dining room are demanding the Chef's quail.' Max maintains an emphatic tempo at this moment, building the phrase around "gosti" ("visitors, guests") and "zale" ("hall") for a crisp, natural delivery.
-- 'Ring up the order, I will show you how it is done!' Barinov establishes a clear stance during the exchange, joining "probivay" ("ring up") to "zakaz" ("order") so every word pulls its weight.
-- 'I cannot ring it up, Sergey Vladimirovich strictly forbade it.' Max sets a brisk view in this beat, pairing "mogu" ("can") with "probivat" ("to ring up") to get the point across in plain spoken Russian.
-- 'He said not to offer this dish to guests anymore.' Max takes a pointed attitude toward Barinov, using "skazal" (from "skazat", "said") alongside "bolshe" ("more") to shape the meaning.
-- 'You decided to repeat your attempt at a talk, but with an empty bottle?' Max checks steadily as the beat lands, anchoring the Russian line on "reshili" ("decided") and "povtorit" ("to repeat, another round") without extra filler.
-- 'Sergey, I have only one question for you.' Barinov displays a brisk direction right away, leaning on "yest" ("there is") before closing the thought with "tolko" ("only").
-- 'Tell me, please, where is your restroom in here?' Barinov presses candidly beside Vika, weaving "skazhi" ("say") together with "gde" ("where") just the way native speakers do.
+- 'You are not going anywhere right now, lie down quickly!' Vika chooses this telling term for Barinov: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
+- 'Tell me, what should I bring you? Should I make hot tea?' Vika puts the thought without fuss: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'No, better just bring me some cold water.' Max continues dryly as things stand, making his position completely clear.
+- 'Alright, lie quietly, I will bring water right now.' Vika chooses one vivid touch right here: "khorosho" means "good, fine", and it carries the main weight of what Vika is saying.
+- 'Viktor Petrovich, what do you order me to do now?' Max gives the reply frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'My guests in the dining room are demanding the Chef's quail.' Max chimes in bluntly in their talk, making his position completely clear.
+- 'Ring up the order, I will show you how it is done!' Barinov reaches for one key word for Max: "delayetsya" means "is made, is done" (from "delat"), giving the line its exact edge.
+- 'I cannot ring it up, Sergey Vladimirovich strictly forbade it.' Max answers dryly before Vika, watching Vika's face to see how the news lands.
+- 'He said not to offer this dish to guests anymore.' Max speaks calmly watching Barinov, making his position completely clear.
+- 'You decided to repeat your attempt at a talk, but with an empty bottle?' Max anchors one memorable element for Vika: "razgovora" means "conversation" (from "razgovor"), giving the line its exact edge.
+- 'Sergey, I have only one question for you.' Barinov hands over that answer with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Tell me, please, where is your restroom in here?' Barinov checks earnestly how Vika expects that to work in practice.

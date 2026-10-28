@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, what happened?' Vika questions quietly from the start, joining "zdravstvuyte" ("hello") to "sluchilos" ("happened") so every word pulls its weight.
-- 'My name is Viktoria. I am the director of this restaurant.' Vika brings a frank rhythm as the scene unfolds, anchoring the Russian line on "zovut" ("call") and "direktor" ("head teacher") without extra filler.
-- 'You are a terrible director if you hire such people.' Barinov takes a resolute style without hesitation, leaning on "otvratitelnyy" ("terrible, disgusting") before closing the thought with "direktor" ("head teacher").
-- 'Watch your tongue!' Vika chooses a steady posture in the scene, anchoring the Russian line on "yazykom" ("language") and "sledite" ("are watching") without extra filler.
-- 'If you don't like our cuisine, nobody is keeping you here.' Vika establishes a serious position in their talk, linking "nravitsya" ("is pleasing"), "kukhnya" ("kitchen"), and "zdes" ("here") in one brisk exchange.
-- 'You can look for a new job. Both of you!' Barinov displays a calm manner in their talk, leaning on "mozhete" ("can, may") before closing the thought with "iskat" ("to look for").
-- 'What kind of rally is this?' Barinov challenges evenly right away, pairing "miting" ("rally") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Chef, we have a show here!' Fedya displays a candid view beside Vika, combining "tut" ("here") and "shou" ("show") so the key meaning lands right away.
-- 'Right, and now it is my turn.' Fedya sets a sharp course beside Barinov, combining "ochered" ("turn in the queue") and "tak" ("so") so the key meaning lands right away.
-- 'Well, was it scary? No, there are such airbags there.' Fedya checks firmly to make the point, joining "strashno" ("scary, frightening") to "bylo" ("was") so every word pulls its weight.
-- 'Awesome, I would give her a ride on my motorcycle too.' Fedya shows a thoughtful footing during the exchange, weaving "klass" ("cool, great") together with "tozhe" ("too") just the way native speakers do.
-- 'Get to work right now, or I will tear your heads off!' Barinov takes a steady tone without hesitation, linking "idite" ("come"), "rabotat" ("to work"), and "otorvu" ("to tear off") in one brisk exchange.
+- 'Hello, what happened?' Vika questions frankly as Barinov tries to explain the situation.
+- 'My name is Viktoria. I am the director of this restaurant.' Vika anchors one telling choice for Fedya: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'You are a terrible director if you hire such people.' Barinov picks this clear piece in earnest: "otvratitelnyy" means "terrible, disgusting", and it carries the main weight of what Barinov is saying.
+- 'Watch your tongue!' Vika responds bluntly to be clear, without trying to dress up how she really feels.
+- 'If you don't like our cuisine, nobody is keeping you here.' Vika anchors this vivid piece on cue: "nravitsya" means "is pleasing", and it carries the main weight of what Vika is saying.
+- 'You can look for a new job. Both of you!' Barinov pushes back briskly without holding back, testing Vika's reaction in the middle of the exchange.
+- 'What kind of rally is this?' Barinov prompts deadpan while looking straight at Fedya here.
+- 'Chef, we have a show here!' Fedya colors this clear term for Vika: "shou" means "show", and it carries the main weight of what Fedya is saying.
+- 'Right, and now it is my turn.' Fedya shapes the reply around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, was it scary? No, there are such airbags there.' Fedya inquires point-blank why things suddenly took this turn between them.
+- 'Awesome, I would give her a ride on my motorcycle too.' Fedya grounds this sharp choice at once: "mototsikle" means "motorcycle" (from "mototsikl"), giving the line its exact edge.
+- 'Get to work right now, or I will tear your heads off!' Barinov speaks evenly without a pause, leaving no doubt about where he stands.

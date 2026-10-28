@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, it is very cozy here at your home.' Max sets a pointed view straight away, anchoring the Russian line on "zdes" ("here") and "doma" ("at home") without extra filler.
-- 'Just do not think anything bad, please.' Max holds a frank stance across the room, linking "tolko" ("only"), "podumay" ("think"), and "plokhogo" ("bad") in one brisk exchange.
-- 'The doctor advised me to ask you questions.' Max shows a warm attitude at once, building the phrase around "vrach" ("doctor") and "posovetoval" ("advised") for a crisp, natural delivery.
-- 'Well, that is needed to recover my memory faster.' Max brings a clear manner in front of Vika, weaving "nuzhno" ("necessary") together with "bystreye" ("faster") just the way native speakers do.
-- 'Fine, and what exactly do you want to find out?' Vika challenges candidly right away, joining "khorosho" ("good, fine") to "khochesh" ("do you want") so every word pulls its weight.
-- 'Tell me, were you and I in some kind of relationship?' Max prompts frankly beside Vika, combining "skazhi" ("say") and "byli" ("be") so the key meaning lands right away.
-- 'No, we were not, we were just friends as colleagues.' Vika displays a firm tone right away, using "byli" (from "byt", "be") alongside "prosto" ("just") to shape the meaning.
-- 'That was a rather strange friendship we had as colleagues.' Max brings a calm style in the conversation, using "strannaya" (from "strannyy", "strange") alongside "byla" ("was") to shape the meaning.
-- 'In what sense strange? What are you talking about?' Vika challenges boldly as the beat lands, weaving "smysle" ("sense") together with "strannaya" ("strange") just the way native speakers do.
-- 'I was just looking through my phone and found this.' Max maintains a warm rhythm in this beat, leaning on "prosto" ("just") before closing the thought with "telefone" ("phone").
-- 'Here are your messages: first you write that you hate me.' Max conveys an earnest attitude as they talk, combining "tut" ("here") and "soobshcheniya" ("messages") so the key meaning lands right away.
-- 'And then you write that you want me, and scold me again!' Max sets a firm position at this moment, anchoring the Russian line on "potom" ("then") and "pishesh" ("are writing") without extra filler.
+- 'Vika, it is very cozy here at your home.' Max states the comment calmly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Just do not think anything bad, please.' Max proceeds dryly across the room, leaving no doubt about where he stands.
+- 'The doctor advised me to ask you questions.' Max points to this sharp piece on cue: "posovetoval" means "advised" (from "posovetovat"), giving the line its exact edge.
+- 'Well, that is needed to recover my memory faster.' Max makes the remark without pause: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Fine, and what exactly do you want to find out?' Vika probes sharply how Max expects that to work in practice.
+- 'Tell me, were you and I in some kind of relationship?' Max reaches for one pointed piece in earnest: "otnosheniyakh" means "relationships" (from "otnosheniye"), giving the line its exact edge.
+- 'No, we were not, we were just friends as colleagues.' Vika states the reaction frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'That was a rather strange friendship we had as colleagues.' Max continues frankly during the talk, before Vika can change the subject.
+- 'In what sense strange? What are you talking about?' Vika grounds one pointed element toward Max: "strannaya" means "strange" (from "strannyy"), giving the line its exact edge.
+- 'I was just looking through my phone and found this.' Max gives this point without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Here are your messages: first you write that you hate me.' Max fires back wryly beside Vika, to clear the air between them once and for all.
+- 'And then you write that you want me, and scold me again!' Max features one classic element with Vika: "rugayeshsya" means "to quarrel" (from "rugatsya"), giving the line its exact edge.

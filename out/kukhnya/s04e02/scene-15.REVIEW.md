@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, let's go home.' Lyova chooses an emphatic line without hesitation, combining "poydyomte" ("come on, let's go") and "domoy" ("home") so the key meaning lands right away.
-- 'Please be reasonable.' Lyova chooses a candid direction beside Max, pairing "budte" ("be") with "blagorazumny" ("reasonable") to get the point across in plain spoken Russian.
-- 'Ask Dmitry Vladimirovich for forgiveness.' Lyova displays a playful stance at once, leaning on "poprosite" ("ask") before closing the thought with "proshcheniya" ("forgiveness").
-- 'Max, I am definitely going to mess up here.' Denis sets a brisk tack in front of Max, building the phrase around "zdes" ("here") and "tochno" ("definitely") for a crisp, natural delivery.
-- 'Come on, you are a musician. Approach it creatively.' Max sustains an earnest course as they talk, putting "muzykant" ("musician") alongside "podoydi" ("approach, go up") in a tight, everyday turn of phrase.
-- 'Imagine that the kitchen is your orchestra.' Max shows a sharp mood straight away, linking "predstav" ("imagine"), "kukhnya" ("kitchen"), and "orkestr" ("orchestra") in one brisk exchange.
-- 'Denis, your trial period started half an hour ago.' Lyova offers an emphatic bearing during the exchange, weaving "uzhe" ("already, now") together with "polchasa" ("half-hour") just the way native speakers do.
-- 'Got it. On my way.' Denis chooses an earnest posture during the exchange, putting "ponyal" ("understood") alongside "idu" ("going, running") in a tight, everyday turn of phrase.
-- 'Hello, everyone.' Denis sustains a calm footing right away, anchoring the Russian line on "vsem" ("everyone") and "privet" ("hi") without extra filler.
-- 'Prep work runs in the Lavrov blood.' Max strikes a warm tempo right away, pairing "zagotovka" ("preparation") with "lavrovykh" ("runs") to get the point across in plain spoken Russian.
-- 'And what if Nagiyev sees me here?' Denis prompts earnestly in their exchange, linking "uvidit" ("will see"), "yesli" ("if"), and "eto" ("this") in one brisk exchange.
-- 'Folks, it is the second coming of the Chef out there.' Lyova offers a warm bearing in this beat, building the phrase around "narod" ("the people") and "tam" ("there") for a crisp, natural delivery.
+- 'Viktor Petrovich, let's go home.' Lyova responds dryly to settle things, testing Denis's reaction in the middle of the exchange.
+- 'Please be reasonable.' Lyova points to one concrete expression in reply: "blagorazumny" means "reasonable", and it carries the main weight of what Lyova is saying.
+- 'Ask Dmitry Vladimirovich for forgiveness.' Lyova pushes back lightly with a shrug, making his position completely clear.
+- 'Max, I am definitely going to mess up here.' Denis answers plainly to be clear, refusing to let the moment slip past.
+- 'Come on, you are a musician. Approach it creatively.' Max uses one clear element right here: "tvorcheski" means "creatively", and it carries the main weight of what Max is saying.
+- 'Imagine that the kitchen is your orchestra.' Max frames one pointed choice toward Lyova: "kukhnya" means "kitchen", and it carries the main weight of what Max is saying.
+- 'Denis, your trial period started half an hour ago.' Lyova weighs in sharply as they talk, saying out loud what both of them already know.
+- 'Got it. On my way.' Denis reaches for one colorful element in earnest: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Hello, everyone.' Denis brings that point to Lyova: opening with the casual greeting "privet" ("hi") signals right away that Denis and Lyova are on familiar terms.
+- 'Prep work runs in the Lavrov blood.' Max replies frankly hearing Lyova, without trying to dress up how he really feels.
+- 'And what if Nagiyev sees me here?' Denis stresses one key touch on cue: "uvidit" means "will see" (from "uvidet"), giving the line its exact edge.
+- 'Folks, it is the second coming of the Chef out there.' Lyova offers this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

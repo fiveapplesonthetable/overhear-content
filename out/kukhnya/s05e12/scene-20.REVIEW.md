@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me go!' Max sets a direct direction in the room, combining "otpusti" ("let go, release") and "menya" ("me") so the key meaning lands right away.
-- 'They say that thoughts are material.' Max offers a wry bearing for Kostya, building the phrase around "govoryat" ("talks, says") and "mysli" ("thoughts") for a crisp, natural delivery.
-- 'If you admit to yourself what you truly want.' Max sustains an honest footing for Barinov, linking "priznatsya" ("to admit"), "po-nastoyashchemu" ("truly"), and "khochesh" ("do you want") in one brisk exchange.
-- 'Perhaps a miracle will happen.' Max projects a clear tone as they talk, building the phrase around "vozmozhno" ("perhaps, possible") and "chudo" ("miracle") for a crisp, natural delivery.
-- 'Marry me!' Barinov takes a calm tack as the scene unfolds, weaving "vykhodi" ("go out, marry") together with "za" ("for") just the way native speakers do.
-- 'Now your marriage is officially dissolved.' Max shares a sharp tack beside Kostya, joining "teper" ("now") to "brak" ("marriage") so every word pulls its weight.
-- 'But I am not giving up.' Max adopts an unhurried tone right away, pairing "sdayus" ("to give up") with "no" ("but") to get the point across in plain spoken Russian.
-- 'Hello, can I order a massage?' Max asks pointedly at this point, pairing "zdravstvuyte" ("hello") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
-- 'Plus intimate services?' Max questions firmly with Barinov now, anchoring the Russian line on "intimnyye" ("intimate") and "uslugi" ("services") without extra filler.
-- 'Well of course you can!' Kostya establishes a steady angle on the spot, combining "konechno" ("of course") and "mozhno" ("may, can") so the key meaning lands right away.
-- 'Masseur Konstantin is already on his way!' Max favors a serious note as the scene unfolds, leaning on "massazhist" ("massage therapist") before closing the thought with "uzhe" ("already, now").
-- 'I am waiting for you impatiently!' Max holds an earnest line in their talk, weaving "zhdu" ("I wait, expect") together with "neterpeniyem" ("to forward") just the way native speakers do.
+- 'Let me go!' Max directs this update calmly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'They say that thoughts are material.' Max weighs in decisively watching Kostya, bringing things back to earth after the buildup.
+- 'If you admit to yourself what you truly want.' Max frames one loaded term on cue: "po-nastoyashchemu" means "truly", and it carries the main weight of what Max is saying.
+- 'Perhaps a miracle will happen.' Max gives the comment with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Marry me!' Barinov speaks plainly on the spot, making his position completely clear.
+- 'Now your marriage is officially dissolved.' Max features one vivid touch right here: "ofitsialno" means "official, officially", and it carries the main weight of what Max is saying.
+- 'But I am not giving up.' Max shapes the comment on cue: the "-sya" ending on "sdayus" ("to give up") turns the action inward or makes it happen between people naturally.
+- 'Hello, can I order a massage?' Max questions point-blank if there is more going on behind the scenes.
+- 'Plus intimate services?' Max points to one vivid term with Barinov: "intimnyye" means "intimate" (from "intimnyy"), giving the line its exact edge.
+- 'Well of course you can!' Kostya shapes this point right away: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Masseur Konstantin is already on his way!' Max speaks up boldly to settle things, before Barinov can change the subject.
+- 'I am waiting for you impatiently!' Max uses one loaded detail with Kostya: "neterpeniyem" means "to forward" (from "neterpenit"), giving the line its exact edge.

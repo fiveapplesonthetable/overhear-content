@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My signature omelet.' Max holds a clear stance in the conversation, anchoring the Russian line on "firmennyy" ("signature") and "omlet" ("omelette") without extra filler.
-- 'I only looked away for a second.' Kostya picks an unhurried tone in the room, anchoring the Russian line on "sekundu" ("second") and "pokazal" ("to show") without extra filler.
-- 'Who is that?' Sasha prompts quietly as they speak, putting "eto" ("this") alongside "kto" ("who") in a tight, everyday turn of phrase.
-- 'Give me two thousand rubles.' Max chooses a lively position straight away, combining "day" ("give") and "tysyachi" ("thousands") so the key meaning lands right away.
-- 'Two thousand rubles.' Kostya projects a natural footing on the spot, putting "tysyachi" ("thousands") alongside "dve" ("two") in a tight, everyday turn of phrase.
-- 'Who called?' Sasha wonders warmly as the talk turns, pairing "zvonil" ("called") with "kto" ("who") to get the point across in plain spoken Russian.
-- 'My mom called.' Max conveys a playful stance in the conversation, building the phrase around "mama" ("mum, mother") and "zvonila" ("called") for a crisp, natural delivery.
-- 'Once again she wanted to ask about the wedding.' Kostya favors a brisk rhythm in their talk, combining "ocherednoy" ("another, next") and "raz" ("time, once") so the key meaning lands right away.
-- 'Well, I will call her back later.' Sasha keeps a warm line in front of Kostya, putting "potom" ("then") alongside "perezvonyu" ("will call back") in a tight, everyday turn of phrase.
-- 'Is everything alright?' Max probes lightly in front of Sasha, joining "normalno" ("fine, OK") to "vse" ("all") so every word pulls its weight.
-- 'Look, just look at this.' Kostya adopts a calm attitude as they talk, using "smotrite" ("look") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Yesterday I killed a moth in the closet.' Sasha projects a pointed tone in this beat, weaving "vchera" ("yesterday") together with "shkaf" ("wardrobe") just the way native speakers do.
-- 'Do I have to pay money for that moth now too?' Max wonders honestly in their exchange, pairing "teper" ("now") with "tozhe" ("too") to get the point across in plain spoken Russian.
+- 'My signature omelet.' Max uses one direct term in reply: "firmennyy" means "signature", and it carries the main weight of what Max is saying.
+- 'I only looked away for a second.' Kostya makes this answer right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Who is that?' Sasha inquires eagerly what Kostya is actually getting at here.
+- 'Give me two thousand rubles.' Max anchors this clear choice in earnest: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
+- 'Two thousand rubles.' Kostya lays out the comment beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Who called?' Sasha wonders bluntly in front of Max without any preamble.
+- 'My mom called.' Max highlights one concrete touch for Kostya: "zvonila" means "called" (from "zvonit"), giving the line its exact edge.
+- 'Once again she wanted to ask about the wedding.' Kostya speaks up sharply to be clear, keeping the focus on what actually matters here.
+- 'Well, I will call her back later.' Sasha counters promptly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Is everything alright?' Max stresses one telling choice on cue: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
+- 'Look, just look at this.' Kostya shapes the thought around Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Yesterday I killed a moth in the closet.' Sasha jumps in openly hearing Max, watching Max's face to see how the news lands.
+- 'Do I have to pay money for that moth now too?' Max centers one loaded touch in reply: "dengi" means "money", and it carries the main weight of what Max is saying.

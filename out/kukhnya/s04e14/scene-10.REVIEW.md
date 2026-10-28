@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, do not worry, everything will be fine.' Vika shares a resolute posture at once, combining "volnuysya" ("worry") and "budet" ("will be") so the key meaning lands right away.
-- 'I know all your cooks very well!' Barinov shares a direct position in the room, anchoring the Russian line on "znayu" ("know") and "khorosho" ("good, fine") without extra filler.
-- 'Someone will always mix everything up or forget.' Barinov brings a pointed mood for the inspector, combining "vechno" ("always") and "pereputayet" ("to mix up, to confuse") so the key meaning lands right away.
-- 'They recently fired a worker like that here.' Vika maintains a lively footing in this beat, linking "rabotnika" ("worker"), "nedavno" ("returned"), and "uvolili" ("to fire, to dismiss") in one brisk exchange.
-- 'Viktoriya Sergeyevna, excuse me, we have an emergency.' The inspector sustains a warm view without hesitation, leaning on "u nas" ("by us, at our place") and "prostite" ("excuse me") the way natural Russian does.
-- 'The sanitary service is closing our restaurant today.' The inspector sets a brisk stance right away, pairing "sanitarnaya" ("sanitary") with "sluzhba" ("service, department") to get the point across in plain spoken Russian.
-- 'What do you mean closing, why did this suddenly happen?' Vika tests briskly with Barinov now, building the phrase around "kak" ("how") and "zakryvayet" ("to close, to shut") for a crisp, natural delivery.
-- 'During the inspection in the storeroom they found rodents.' The inspector adopts a warm footing in their talk, anchoring the Russian line on "proverke" ("check, inspection") and "sklade" ("warehouse") without extra filler.
-- 'I am forced to suspend the operation of your restaurant.' The inspector conveys a grounded footing with Barinov, leaning on "vynuzhden" ("forced, obliged") before closing the thought with "priostanovit" ("to operation").
-- 'The restaurant is closed until the elimination of all violations.' The inspector adopts an easygoing attitude for Vika, weaving "restoran" ("restaurant") together with "zakryt" ("is closed") just the way native speakers do.
-- 'But where did rats come from in our place?' Vika wonders sharply from the start, pairing "otkuda" ("where from") with "vzyalis" ("to appear, come from") to get the point across in plain spoken Russian.
-- 'It is a pity that they did not catch the main rat!' Barinov displays a lively footing beside Vika, putting "zhal" ("it is a pity") alongside "glavnuyu" ("main") in a tight, everyday turn of phrase.
+- 'Vitya, do not worry, everything will be fine.' Vika features this telling element right here: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'I know all your cooks very well!' Barinov voices the reaction toward Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Someone will always mix everything up or forget.' Barinov continues firmly toward the inspector, shifting the whole mood of the room in a single beat.
+- 'They recently fired a worker like that here.' Vika frames one loaded word toward the inspector: "rabotnika" means "worker" (from "rabotnik"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, excuse me, we have an emergency.' The inspector sends the remark frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'The sanitary service is closing our restaurant today.' The inspector answers boldly facing Vika, to clear the air between them once and for all.
+- 'What do you mean closing, why did this suddenly happen?' Vika picks one practical term for Barinov: "zakryvayet" means "to close, to shut" (from "zakryvat"), giving the line its exact edge.
+- 'During the inspection in the storeroom they found rodents.' The inspector reacts promptly with Vika, letting the remark speak for itself.
+- 'I am forced to suspend the operation of your restaurant.' The inspector fires back candidly in this moment, saying out loud what both of them already know.
+- 'The restaurant is closed until the elimination of all violations.' The inspector features this sharp piece toward Vika: "ustraneniya" means "elimination", and it carries the main weight of what the inspector is saying.
+- 'But where did rats come from in our place?' Vika shapes that answer for Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'It is a pity that they did not catch the main rat!' Barinov pushes back calmly to be clear, letting the remark speak for itself.

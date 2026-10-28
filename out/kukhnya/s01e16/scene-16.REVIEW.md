@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They are on guard at the entrance.' Max quickly points out a fatal flaw in the escape plan, noting that the exits are watched.
 - 'He will sit in the hall.' Changing strategies on the fly, the chef decides to hide the person in plain sight among the customers.
 - 'Go to the bar, take clothes.' Barinov barks out a rapid series of orders, telling someone to fetch a disguise.
-- 'Endure, come on.' Urging the person to hold on, the speaker offers rough encouragement to tough out the difficult situation.
+- 'Endure, come on.' Whispering through the rack of spice jars, Barinov urges Ainura to hold still just a little longer.
 - 'I congratulate you.' The inspector offers formal praise, likely hiding his disappointment at finding nothing.
 - 'Everything is clean with you.' Admitting defeat, the official confirms that the restaurant passed the inspection flawlessly.
 - 'I told you right away.' The chef smugly reminds the officer that he had claimed innocence from the very beginning.

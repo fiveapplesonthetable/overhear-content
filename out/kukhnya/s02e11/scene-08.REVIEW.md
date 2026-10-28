@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell Senya.' Barinov holds a candid posture in the conversation, using "skazhi" (from "skazat", "say") alongside "senyu" ("Senya") to shape the meaning.
-- 'He will bring them out anyway.' Senya sets a pointed rhythm with Fedya, pairing "ravno" ("the same") with "vyneset" ("issue, hand down") to get the point across in plain spoken Russian.
-- 'And tell Fedya.' Fedya sets a natural view beside Barinov, leaning on "fede" ("fedya") before closing the thought with "skazhi" ("say").
-- 'Otherwise he will be running late.' Barinov offers an emphatic manner toward Senya, putting "togda" ("back then") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'And you tell him.' Senya offers a clear tempo as they talk, anchoring the Russian line on "skazhi" ("say") and "ty" ("you") without extra filler.
-- 'Get out into the dining room.' Fedya offers a playful attitude during the exchange, building the phrase around "vali" ("get lost") and "restoran" ("restaurant") for a crisp, natural delivery.
-- 'That is an excellent idea.' Barinov holds an unhurried view in front of Fedya, leaning on "otlichno" ("perfect, great") before closing the thought with "eto" ("this").
-- 'That is a very bad idea.' Senya shares a natural tack right away, anchoring the Russian line on "ochen" ("very much") and "plokhaya" ("bad") without extra filler.
-- 'Girls, the walk-in fridge.' Fedya sustains a direct line beside Barinov, building the phrase around "devchonki" ("girls") and "kholodilnik" ("fridge") for a crisp, natural delivery.
-- 'Oh, well then let us go with your plan.' Barinov takes an earnest tempo beside Senya, leaning on "togda" ("back then") before closing the thought with "davay" ("let's").
-- 'Oh right, you do not have one.' Senya strikes a frank style beside Barinov, pairing "da" ("yes") with "yego" ("him") to get the point across in plain spoken Russian.
-- 'Take it easy, Chef.' Fedya shows an emphatic stance in the scene, combining "legche" ("easier, better") and "shef" ("Chef") so the key meaning lands right away.
-- 'Have you lost your minds?' Barinov quizzes pointedly during the talk, joining "uma" ("mind") to "soshli" ("went off") so every word pulls its weight.
+- 'Tell Senya.' Barinov offers this statement frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'He will bring them out anyway.' Senya answers wryly without holding back, watching Fedya's face to see how the news lands.
+- 'And tell Fedya.' Fedya answers promptly to be clear, without trying to dress up how he really feels.
+- 'Otherwise he will be running late.' Barinov weighs in lightly watching Senya, grounding the moment in plain reality.
+- 'And you tell him.' Senya weighs in quietly with a smile, grounding the moment in plain reality.
+- 'Get out into the dining room.' Fedya points to one concrete piece in earnest: "restoran" means "restaurant", and it carries the main weight of what Fedya is saying.
+- 'That is an excellent idea.' Barinov drops that remark briskly now: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'That is a very bad idea.' Senya opens up quietly without a pause, making his position completely clear.
+- 'Girls, the walk-in fridge.' Fedya uses this sharp expression at once: "kholodilnik" means "fridge", and it carries the main weight of what Fedya is saying.
+- 'Oh, well then let us go with your plan.' Barinov gives that remark before Senya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Oh right, you do not have one.' Senya replies candidly in this moment, shifting the whole mood of the room in a single beat.
+- 'Take it easy, Chef.' Fedya uses one familiar detail on cue: "legche" means "easier, better" (from "legko"), giving the line its exact edge.
+- 'Have you lost your minds?' Barinov voices this statement with ease: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.

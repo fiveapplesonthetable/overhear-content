@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will prepare everything in the best possible way.' Barinov establishes a wry stance for Fedya, combining "prigotovim" ("will prepare") and "luchshem" ("best") so the key meaning lands right away.
-- 'Yes, chef, I am listening to you attentively.' Senya sets a clear posture for Fedya, putting "vnimatelno" ("carefully, attentively") alongside "slushayu" ("I'm listening") in a tight, everyday turn of phrase.
-- 'Prepare juicy steaks for lunch today.' Barinov strikes an unhurried angle on the spot, using "prigotov" (from "prigotovit", "prepare") alongside "segodnya" ("today") to shape the meaning.
-- 'Do not worry, everything will be done soon.' Senya conveys a grounded posture beside Fedya, pairing "volnuytes" ("worry") with "skoro" ("soon") so the "-sya" ending carries the action.
-- 'And we have a great dinner tonight.' Senya conveys a warm direction as they talk, joining "segodnya" ("today") to "otlichnyy" ("excellent, great") so every word pulls its weight.
-- 'Look what a big piece of good meat.' Fedya picks a lively tack across the room, pairing "posmotri" ("look") with "bolshoy" ("big") to get the point across in plain spoken Russian.
-- 'Well then, you and your wife are doing great.' Fedya sustains an honest tempo toward Barinov, anchoring the Russian line on "zhenoy" ("wife") and "molodtsy" ("well done, good person") without extra filler.
-- 'Listen, have you gone completely crazy today?' Senya probes plainly right away, joining "slushay" ("listen") to "sovsem" ("at all") so every word pulls its weight.
-- 'Just think carefully with your own head.' Fedya projects an easygoing manner for Barinov, using "golovoy" (from "golova", "with one's head") alongside "khorosho" ("good, fine") to shape the meaning.
-- 'These guests came from Korea after all.' Fedya conveys a grounded stance with Senya, weaving "gosti" ("visitors, guests") together with "priyekhali" ("we've arrived") just the way native speakers do.
-- 'Why would they bring beef with them?' Fedya presses decisively across the room, putting "zachem" ("what for") alongside "vezti" ("to take, transport") in a tight, everyday turn of phrase.
-- 'Here, let me test this piece.' Senya displays a warm tempo at this moment, leaning on "day" ("give") before closing the thought with "proverit" ("to check, verify").
+- 'We will prepare everything in the best possible way.' Barinov cuts in pointedly as things stand, without trying to dress up how he really feels.
+- 'Yes, chef, I am listening to you attentively.' Senya features one vivid touch toward Fedya: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Senya is saying.
+- 'Prepare juicy steaks for lunch today.' Barinov replies pointedly toward Fedya, grounding the moment in plain reality.
+- 'Do not worry, everything will be done soon.' Senya fires back boldly as things stand, testing Fedya's reaction in the middle of the exchange.
+- 'And we have a great dinner tonight.' Senya leans on this vivid word in earnest: "otlichnyy" means "excellent, great", and it carries the main weight of what Senya is saying.
+- 'Look what a big piece of good meat.' Fedya holds firm quietly in this moment, steering the talk right where he wants it.
+- 'Well then, you and your wife are doing great.' Fedya stands firm briskly with a shrug, steering the talk right where he wants it.
+- 'Listen, have you gone completely crazy today?' Senya frames this vivid choice in earnest: "segodnya" means "today", and it carries the main weight of what Senya is saying.
+- 'Just think carefully with your own head.' Fedya aims the remark around Barinov: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'These guests came from Korea after all.' Fedya fires back firmly during the talk, before Senya can change the subject.
+- 'Why would they bring beef with them?' Fedya favors this vivid piece toward Barinov: "govyadinu" means "beef" (from "govyadina"), giving the line its exact edge.
+- 'Here, let me test this piece.' Senya pushes back frankly before Fedya, so Fedya knows he is not just making small talk.

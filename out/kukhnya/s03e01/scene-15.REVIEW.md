@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, here is your order.' Max establishes a lively bearing as they talk, building the phrase around "zakaz" ("order") and "itak" ("so, thus") for a crisp, natural delivery.
-- 'And what is that?' The guest wonders promptly toward Max here, weaving "eto" ("this") together with "chto" ("what") just the way native speakers do.
-- 'Honestly speaking, nonsense.' Max sets a steady tempo across the room, combining "chestno" ("honestly") and "govorya" ("speaking") so the key meaning lands right away.
-- 'Try it. It is very delicious.' Max holds a calm direction in front of Katya, weaving "poprobuyte" ("try, taste") together with "ochen" ("very much") just the way native speakers do.
-- 'Haute cuisine from a chef from Paris.' Max holds a pointed direction toward the guest, joining "vysokaya" ("high, tall") to "kukhnya" ("kitchen") so every word pulls its weight.
-- 'Let's try it!' The guest favors a calm manner in this beat, joining "davay" ("let's") to "poprobuyem" ("try") so every word pulls its weight.
-- 'Good. Give us what he is having.' The guest offers a thoughtful stance at this moment, placing "khorosho" ("good, fine") straight beside "nam" ("us") with no word for "to be" needed.
-- 'Of course!' Max keeps a firm line in their talk, letting the single Russian word "konechno" ("of course") carry the entire reaction on its own.
-- 'Chocolate wind three times.' Max adopts a resolute posture in their talk, joining "shokoladnyy" ("chocolate") to "veter" ("wind") so every word pulls its weight.
-- 'Spaghetti and ravioli with strawberry.' Max chooses an emphatic view with Katya, linking "spagetti" ("spaghetti"), "ravioli" ("ravioli"), and "klubnikoy" ("strawberry") in one brisk exchange.
-- 'Duck twice.' Max strikes a serious note during the exchange, leaning on "utka" ("duck") before closing the thought with "raza" ("time").
-- 'Copy that!' Katya sustains a pointed mood as the scene unfolds, leaning on "prinyato" ("accepted, copy that") as a compact, one-word response that needs no extra words.
+- 'So, here is your order.' Max cuts in evenly facing the guest, keeping the focus on what actually matters here.
+- 'And what is that?' The guest puts the remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Honestly speaking, nonsense.' Max drops that answer facing the guest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Try it. It is very delicious.' Max proceeds openly with a sigh, grounding the moment in plain reality.
+- 'Haute cuisine from a chef from Paris.' Max grounds one concrete choice right here: "vysokaya" means "high, tall" (from "vysokiy"), giving the line its exact edge.
+- 'Let's try it!' The guest voices that line at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Good. Give us what he is having.' The guest weighs in frankly on the spot, without trying to dress up how he really feels.
+- 'Of course!' Max underscores this direct element at once: "konechno" means "of course", and it carries the main weight of what Max is saying.
+- 'Chocolate wind three times.' Max frames this statement before the guest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Spaghetti and ravioli with strawberry.' Max responds wryly without holding back, saying out loud what both of them already know.
+- 'Duck twice.' Max favors one key detail right here: "utka" means "duck", and it carries the main weight of what Max is saying.
+- 'Copy that!' Katya gives the comment with ease: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.

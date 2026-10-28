@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, no new car.' Nagiyev brings a wry line in front of Barinov, leaning on "novoy" ("new") before closing the thought with "mashiny" ("cars").
-- 'I told you in plain Russian. No.' Nagiyev chooses a serious posture as they talk, linking "po-russki" ("in Russian"), "skazal" ("said"), and "ya" ("I") in one brisk exchange.
-- 'What is this?' Nagiyev wonders quietly across the room, putting "eto" ("this") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'What is this, I am asking you?' Nagiyev challenges earnestly in the room, combining "sprashivayu" ("am asking") and "chto" ("what") so the key meaning lands right away.
-- 'He is drying socks in the centrifuge.' Senya shows a pointed line in the conversation, weaving "tsentrifuge" ("centrifuge") together with "noski" ("socks") just the way native speakers do.
-- 'He says they dry fast.' Senya sets a sharp note in the room, combining "govorit" ("talks") and "sokhnut" ("dry") so the key meaning lands right away.
-- 'Vitya, I asked you to find a person!' Nagiyev maintains a sharp mood right away, putting "prosil" ("ask for") alongside "nayti" ("to find") in a tight, everyday turn of phrase.
-- 'There is no specialist in Moscow.' Barinov displays a lively stance on the spot, joining "spetsialista" ("specialist") to "moskve" ("Moscow") so every word pulls its weight.
-- 'We looked, but nobody suited us.' Barinov projects a wry position in their talk, using "iskali" (from "iskat", "searched for") alongside "podoshel" ("suited, fit") to shape the meaning.
-- 'I have one more question for you.' Barinov keeps a grounded manner right away, linking "yeshchyo" ("more, still"), "vopros" ("question, matter"), and "odin" ("one") in one brisk exchange.
-- 'Too bad. And you showed such promise.' Barinov keeps a resolute position in the room, pairing "plokho" ("badly") with "podavali" ("to serve, submit") to get the point across in plain spoken Russian.
-- 'You only need to do one thing.' Barinov displays a lively direction toward Senya, anchoring the Russian line on "nuzhno" ("necessary") and "sdelat" ("to do") without extra filler.
+- 'Kristina, no new car.' Nagiyev states the reaction right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I told you in plain Russian. No.' Nagiyev responds sharply without a pause, to clear the air between them once and for all.
+- 'What is this?' Nagiyev shapes this line for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What is this, I am asking you?' Nagiyev shapes this line at once: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'He is drying socks in the centrifuge.' Senya steps in boldly as they talk, so Barinov knows he is not just making small talk.
+- 'He says they dry fast.' Senya spotlights this vivid piece toward Nagiyev: "govorit" means "talks", and it carries the main weight of what Senya is saying.
+- 'Vitya, I asked you to find a person!' Nagiyev features this clear detail in earnest: "prosil" means "ask for" (from "prosit"), giving the line its exact edge.
+- 'There is no specialist in Moscow.' Barinov pushes back right away as they talk, making his position completely clear.
+- 'We looked, but nobody suited us.' Barinov stresses one memorable word right here: "podoshel" means "suited, fit" (from "podoyti"), giving the line its exact edge.
+- 'I have one more question for you.' Barinov brings this warning plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Too bad. And you showed such promise.' Barinov counters decisively without holding back, to clear the air between them once and for all.
+- 'You only need to do one thing.' Barinov colors this sharp detail with Senya: "nuzhno" means "necessary", and it carries the main weight of what Barinov is saying.

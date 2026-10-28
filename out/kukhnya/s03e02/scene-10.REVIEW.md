@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima asked to prepare the dish with tenderloin that he ate at lunch.' Barinov conveys an emphatic stance beside Kostya, weaving "prosil" ("ask for") together with "prigotovit" ("to cook, to prepare") just the way native speakers do.
-- 'Which dish?' Barinov questions calmly with Nastya now, pairing "blyudo" ("dish") with "kakoye" ("what a") to get the point across in plain spoken Russian.
-- 'Tenderloin with balsamic pearls from the molecular cuisine.' Barinov chooses a direct angle right away, linking "vyrezka" ("tenderloin"), "balzamicheskimi" ("balsamic"), and "zhemchuzhinami" ("pearls") in one brisk exchange.
-- 'I no longer have the required ingredient.' Nastya favors a calm position in the scene, pairing "bolshe" ("more") with "nuzhnogo" ("the right, necessary") to get the point across in plain spoken Russian.
-- 'Stop laughing!' Barinov displays a lively angle during the exchange, anchoring the Russian line on "khvatit" ("enough") and "rzhat" ("to laugh loudly") without extra filler.
-- 'Replace it with something else, make it quickly.' Barinov adopts a pointed tone in their talk, anchoring the Russian line on "zameni" ("replace") and "drugoye" ("another, other") without extra filler.
-- 'Why didn't you tell me?' Kostya quizzes lightly in this moment, weaving "pochemu" ("why") together with "skazala" ("told") just the way native speakers do.
-- 'Because I betrayed my principles.' Nastya adopts an unhurried manner with Kostya, pairing "potomu" ("because") with "predala" ("betrayed") to get the point across in plain spoken Russian.
-- 'If I betrayed my principles, that means I could betray you too.' Nastya adopts an emphatic course across the room, leaning on "predala" ("betrayed") before closing the thought with "printsipy" ("principles").
-- 'Come on, Nastya, don't talk nonsense.' Kostya brings a wry direction for Nastya, linking "govori" ("say, talk"), "glupostey" ("foolish things"), and "da" ("yes") in one brisk exchange.
-- 'And what if tomorrow I feel like having something else?' Nastya quizzes decisively in this moment, linking "zavtra" ("tomorrow"), "drugoye" ("another, other"), and "zakhochetsya" ("will feel like") in one brisk exchange.
-- 'I won't be able to hold back either.' Nastya brings a candid manner in front of Kostya, pairing "tozhe" ("too") with "smogu" ("will be able to") to get the point across in plain spoken Russian.
+- 'Dima asked to prepare the dish with tenderloin that he ate at lunch.' Barinov sharpens one clear term in reply: "prigotovit" means "to cook, to prepare", and it carries the main weight of what Barinov is saying.
+- 'Which dish?' Barinov delivers the comeback without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Tenderloin with balsamic pearls from the molecular cuisine.' Barinov responds promptly with a shrug, refusing to let the moment slip past.
+- 'I no longer have the required ingredient.' Nastya stresses one familiar choice on cue: "ingrediyenta" means "ingredient" (from "ingrediyent"), giving the line its exact edge.
+- 'Stop laughing!' Barinov states the reaction on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Replace it with something else, make it quickly.' Barinov reacts lightly with a nod, steering the talk right where he wants it.
+- 'Why didn't you tell me?' Kostya focuses on one loaded element toward Barinov: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'Because I betrayed my principles.' Nastya reacts pointedly toward Kostya, before Kostya can change the subject.
+- 'If I betrayed my principles, that means I could betray you too.' Nastya reacts dryly beside Barinov, keeping the focus on what actually matters here.
+- 'Come on, Nastya, don't talk nonsense.' Kostya reaches for one key expression in reply: "glupostey" means "foolish things" (from "glupost"), giving the line its exact edge.
+- 'And what if tomorrow I feel like having something else?' Nastya hands over the reaction to Barinov: the "-sya" ending on "zakhochetsya" ("will feel like") turns the action inward or makes it happen between people naturally.
+- 'I won't be able to hold back either.' Nastya continues frankly during the talk, letting the remark speak for itself.

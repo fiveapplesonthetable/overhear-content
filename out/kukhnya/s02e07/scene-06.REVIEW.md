@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let him stay here with us.' Max sustains an emphatic rhythm in this beat, anchoring the Russian line on "ostayetsya" ("remains, that leaves") and "puskay" ("let, may") without extra filler.
-- 'Max and I have no objection.' Kostya chooses a grounded tempo without hesitation, pairing "my" ("we") with "maksom" ("Max") to get the point across in plain spoken Russian.
-- 'So pick which room you are going to sleep in?' Rodion presses candidly to make the point, weaving "ubiray" ("remove") together with "komnate" ("room") just the way native speakers do.
-- 'In the room with you two.' Max sustains a warm approach without hesitation, letting the single Russian word "vami" ("you") carry the entire reaction on its own.
-- 'Rodion Sergeyevich.' Kostya favors a wry direction straight away, pairing "rodion" ("Rodion") with "sergeyevich" ("Sergeyevich") to get the point across in plain spoken Russian.
-- 'I beg your pardon.' Rodion favors a calm mood in front of Max, using "proshu" (from "prosit", "beg, ask") alongside "proshcheniya" ("forgiveness") to shape the meaning.
-- 'I am a citizen of the world, I have nothing to hide.' Max keeps a warm stance right away, pairing "grazhdanin" ("citizen") with "mira" ("of the world") to get the point across in plain spoken Russian.
-- 'Good morning.' Kostya displays a firm view in the conversation, building the phrase around "dobroye" ("good") and "utro" ("morning") for a crisp, natural delivery.
-- 'I did not even think that you would actually show up.' Rodion displays a calm approach for Kostya, putting "dumal" ("thought") alongside "pridete" ("to come, to arrive") in a tight, everyday turn of phrase.
-- 'Well then, shall we run?' Max asks calmly to Rodion here, leaning on "pobezhali" ("to start running") before closing the thought with "nu" ("oh, come on").
-- 'You will be begging me to stop before long.' Kostya strikes a pointed posture at once, putting "yeshche" ("still") alongside "umolyat" ("to beg, to implore") in a tight, everyday turn of phrase.
-- 'Oh, come on now.' Rodion strikes a clear attitude as they talk, weaving "da" ("yes") together with "ladno" ("all right") just the way native speakers do.
-- 'All right, forward march.' Max shares a direct position for Kostya, weaving "vpered" ("forward") together with "nu" ("oh, come on") just the way native speakers do.
+- 'Let him stay here with us.' Max stands firm boldly hearing Kostya, to clear the air between them once and for all.
+- 'Max and I have no objection.' Kostya responds right away to be clear, shifting the whole mood of the room in a single beat.
+- 'So pick which room you are going to sleep in?' Rodion voices the reaction with warmth: putting the question word "kakoy" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'In the room with you two.' Max stands firm candidly without a pause, to clear the air between them once and for all.
+- 'Rodion Sergeyevich.' Kostya makes this update on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I beg your pardon.' Rodion aims the thought without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am a citizen of the world, I have nothing to hide.' Max counters evenly hearing Kostya, to clear the air between them once and for all.
+- 'Good morning.' Kostya frames one colorful term in reply: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'I did not even think that you would actually show up.' Rodion features one colorful choice with Kostya: "pridete" means "to come, to arrive" (from "priyti"), giving the line its exact edge.
+- 'Well then, shall we run?' Max challenges point-blank while looking straight at Rodion here.
+- 'You will be begging me to stop before long.' Kostya sharpens one memorable touch with Max: "ostanovilsya" means "stopped" (from "ostanovitsya"), giving the line its exact edge.
+- 'Oh, come on now.' Rodion aims this line without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
+- 'All right, forward march.' Max opens up at once on the spot, bringing things back to earth after the buildup.

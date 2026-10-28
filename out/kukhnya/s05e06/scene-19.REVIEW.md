@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Both of us are at fault, we should have taken care of our child.' Barinov picks an honest attitude in their talk, anchoring the Russian line on "vinovaty" ("guilty, at fault") and "nado" ("it is necessary") without extra filler.
-- 'My little girl, how are you?' Barinov questions dryly to make the point, placing "devochka" ("girl") straight beside "kak" ("how") with no word for "to be" needed.
-- 'Fine.' Katya sets a lively approach in the scene, putting all the weight on "normalno" ("fine, OK") so the reply lands immediately.
-- 'Fine? Then why were you taking pills?' Eleonora queries warmly as the beat lands, leaning on "normalno" ("fine, OK") before closing the thought with "zachem" ("what for").
-- 'Those were not pills.' Katya keeps a calm line right away, weaving "tabletki" ("pill, tablet") together with "da" ("yes") just the way native speakers do.
-- 'Those were candies for fresh breath.' Katya displays a frank stance as they talk, leaning on "konfetki" ("candies, mints") before closing the thought with "svezhego" ("fresh").
-- 'I was snacking on them.' Katya sets a pointed tone straight away, anchoring the Russian line on "zakusyvala" ("was snacking on") and "ya" ("I") without extra filler.
-- 'And we thought they were pills.' Eleonora sustains a direct style straight away, building the phrase around "podumali" ("thought") and "tabletki" ("pill, tablet") for a crisp, natural delivery.
-- 'I do not know what you thought.' Katya displays a direct line for Barinov, pairing "znayu" ("know") with "podumali" ("thought") to get the point across in plain spoken Russian.
-- 'But I will never forgive you for the enema.' Katya takes a calm bearing in front of Eleonora, using "klizmu" (from "klizma", "enema") alongside "nikogda" ("never") to shape the meaning.
-- 'Her boyfriend dumped her, so what, is life over?' Eleonora presses bluntly in their exchange, combining "paren" ("boyfriend") and "brosil" ("threw") so the key meaning lands right away.
-- 'I raised you alone when your father left.' Eleonora picks a playful direction for Katya, using "rastila" (from "rastit", "raised") alongside "kogda" ("when") to shape the meaning.
+- 'Both of us are at fault, we should have taken care of our child.' Barinov reaches for one telling piece for Eleonora: "rebyonkom" means "child" (from "rebyonok"), giving the line its exact edge.
+- 'My little girl, how are you?' Barinov delivers the reaction at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Fine.' Katya answers warmly across the room, making her position completely clear.
+- 'Fine? Then why were you taking pills?' Eleonora centers this vivid element in reply: "tabletki" means "pill, tablet" (from "tabletka"), giving the line its exact edge.
+- 'Those were not pills.' Katya shares the reply with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Those were candies for fresh breath.' Katya pushes back evenly in this moment, watching Eleonora's face to see how the news lands.
+- 'I was snacking on them.' Katya spotlights one clear element in earnest: "zakusyvala" means "was snacking on" (from "zakusyvat"), giving the line its exact edge.
+- 'And we thought they were pills.' Eleonora stands firm right away during the talk, letting the remark speak for itself.
+- 'I do not know what you thought.' Katya pushes back candidly to be clear, before Barinov can change the subject.
+- 'But I will never forgive you for the enema.' Katya grounds one concrete term right here: "klizmu" means "enema" (from "klizma"), giving the line its exact edge.
+- 'Her boyfriend dumped her, so what, is life over?' Eleonora phrases the reply toward Barinov: the "-sya" ending on "zakonchilas" ("ended") turns the action inward or makes it happen between people naturally.
+- 'I raised you alone when your father left.' Eleonora holds firm at once toward Katya, steering the talk right where she wants it.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of strange help is that?' Nagiyev quizzes sharply in this moment, linking "strannaya" ("strange"), "pomoshch" ("help"), and "chto" ("what") in one brisk exchange.
-- 'I know Vitya better than he knows himself.' Eleonora projects a warm tempo straight away, weaving "znayu" ("know") together with "luchshe" ("better") just the way native speakers do.
-- 'But you already had an agreement with him.' Nagiyev establishes a lively tone right away, pairing "uzhe" ("already, now") with "dogovorilis" ("agreed, deal") to get the point across in plain spoken Russian.
-- 'And then he went and lost everything.' Eleonora maintains an earnest approach in the conversation, linking "potom" ("then"), "vzyal" ("took"), and "proigral" ("lost") in one brisk exchange.
-- 'Right now I need him in top form.' Eleonora sets a serious posture straight away, pairing "seychas" ("now") with "nuzhen" ("is needed") to get the point across in plain spoken Russian.
-- 'Believe me, he will beat all the competitors.' Eleonora presents a clear posture right away, pairing "pover" ("believe") with "pobedit" ("wins") to get the point across in plain spoken Russian.
-- 'And he will bring us the first star in Russia.' Eleonora maintains a resolute direction across the room, leaning on "prinesyot" ("will bring") before closing the thought with "pervuyu" ("first").
-- 'That is what is called a smart strategy.' Eleonora shares a direct tack right away, anchoring the Russian line on "nazyvayetsya" ("is called") and "umnaya" ("clever, smart") without extra filler.
-- 'And this right here is called our bedroom.' Nagiyev takes a grounded direction toward Eleonora, weaving "nazyvayetsya" ("is called") together with "spalnya" ("bedroom") just the way native speakers do.
-- 'And I feel so lonely in it.' Nagiyev offers a playful approach in their talk, putting "odinoko" ("lonely") alongside "mne" ("to me") in a tight, everyday turn of phrase.
-- 'Do not play the fool tonight, Dima.' Eleonora shows a resolute tone toward Nagiyev, linking "valyay" ("play"), "duraka" ("fool, idiot"), and "segodnya" ("today") in one brisk exchange.
-- 'Nothing but great strategists gathered all around.' Nagiyev strikes an easygoing course as they talk, leaning on "krugom" ("all around") before closing the thought with "velikiye" ("great").
+- 'What kind of strange help is that?' Nagiyev centers one memorable element toward Eleonora: "strannaya" means "strange" (from "strannyy"), giving the line its exact edge.
+- 'I know Vitya better than he knows himself.' Eleonora jumps in pointedly watching Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'But you already had an agreement with him.' Nagiyev cuts in warmly facing Eleonora, watching Eleonora's face to see how the news lands.
+- 'And then he went and lost everything.' Eleonora colors one telling touch toward Nagiyev: "proigral" means "lost" (from "proigrat"), giving the line its exact edge.
+- 'Right now I need him in top form.' Eleonora answers decisively as they talk, grounding the moment in plain reality.
+- 'Believe me, he will beat all the competitors.' Eleonora follows up dryly watching Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'And he will bring us the first star in Russia.' Eleonora colors this clear touch toward Nagiyev: "prinesyot" means "will bring" (from "prinesti"), giving the line its exact edge.
+- 'That is what is called a smart strategy.' Eleonora delivers this answer without pause: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
+- 'And this right here is called our bedroom.' Nagiyev speaks at once during the talk, saying out loud what both of them already know.
+- 'And I feel so lonely in it.' Nagiyev uses one classic word in reply: "odinoko" means "lonely", and it carries the main weight of what Nagiyev is saying.
+- 'Do not play the fool tonight, Dima.' Eleonora steps in pointedly during the talk, steering the talk right where she wants it.
+- 'Nothing but great strategists gathered all around.' Nagiyev replies promptly without holding back, steering the talk right where he wants it.

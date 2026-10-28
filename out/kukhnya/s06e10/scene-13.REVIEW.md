@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sit at the table and tell me, how are things, Dima?' Eleonora presses naturally as they speak, anchoring the Russian line on "sadis" ("sit down") and "stol" ("table") without extra filler.
-- 'How can things be, I am suffering badly.' Nagiyev establishes a frank position in front of Eleonora, leaning on "mogut" ("can") before closing the thought with "byt" ("be").
-- 'For whole days I pace from corner to corner.' Nagiyev holds a candid style during the exchange, linking "tselymi" ("whole, entire"), "dnyami" ("day"), and "khozhu" ("walks") in one brisk exchange.
-- 'Viktor said that I could come over and apologize.' Nagiyev presents a direct angle without hesitation, leaning on "skazal" ("said") before closing the thought with "mogu" ("can").
-- 'Viktor said that, and what do you think yourself?' Eleonora inquires wryly right away, using "skazal" (from "skazat", "said") alongside "kak" ("how") to shape the meaning.
-- 'I will tell you honestly, this is completely my fault.' Nagiyev brings a brisk stance at this moment, putting "skazhu" ("I'll tell") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
-- 'If you want, hit me, just not in the face.' Nagiyev picks a warm attitude during the exchange, combining "khochesh" ("do you want") and "udar" ("hit, strike") so the key meaning lands right away.
-- 'Because I have an important shoot tomorrow morning.' Nagiyev brings a brisk note at this moment, leaning on "potomu" ("because") before closing the thought with "zavtra" ("tomorrow").
-- 'Dima, tell me honestly, do you really love me?' Eleonora questions decisively to keep things clear, weaving "skazhi" ("say") together with "chestno" ("honestly") just the way native speakers do.
-- 'Of course, my sunshine, I love you very much!' Nagiyev holds a warm course in this beat, leaning on "konechno" ("of course") before closing the thought with "solntse" ("sun").
-- 'And can you speak calmly and sincerely right now?' Eleonora presses naturally with Nagiyev now, anchoring the Russian line on "mozhesh" ("can") and "seychas" ("now") without extra filler.
-- 'Say it in a way that makes me believe you.' Eleonora takes a sharp note as they talk, using "skazhi" (from "skazat", "say") alongside "poverila" ("I believed") to shape the meaning.
+- 'Sit at the table and tell me, how are things, Dima?' Eleonora chooses one vivid word on cue: "rasskazyvay" means "tell" (from "rasskazyvat"), giving the line its exact edge.
+- 'How can things be, I am suffering badly.' Nagiyev cuts in steadily as they talk, steering the talk right where he wants it.
+- 'For whole days I pace from corner to corner.' Nagiyev proceeds pointedly beside Eleonora, shifting the whole mood of the room in a single beat.
+- 'Viktor said that I could come over and apologize.' Nagiyev anchors one classic element right here: "izvinitsya" means "to apologise", and it carries the main weight of what Nagiyev is saying.
+- 'Viktor said that, and what do you think yourself?' Eleonora gives this warning for Nagiyev: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'I will tell you honestly, this is completely my fault.' Nagiyev continues steadily beside Eleonora, steering the talk right where he wants it.
+- 'If you want, hit me, just not in the face.' Nagiyev reaches for this telling piece on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Because I have an important shoot tomorrow morning.' Nagiyev gives this warning without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Dima, tell me honestly, do you really love me?' Eleonora quizzes point-blank to see how Nagiyev will answer on the spot.
+- 'Of course, my sunshine, I love you very much!' Nagiyev uses one pointed expression with Eleonora: "solntse" means "sun", and it carries the main weight of what Nagiyev is saying.
+- 'And can you speak calmly and sincerely right now?' Eleonora hands over this warning plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Say it in a way that makes me believe you.' Eleonora speaks frankly facing Nagiyev, keeping the focus on what actually matters here.

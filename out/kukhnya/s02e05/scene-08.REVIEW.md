@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, can you imagine, this is some kind of...' Sasha offers a clear posture toward Kostya, using "predstavlyayesh" (from "predstavlyat", "can you imagine") alongside "kostyan" ("Kostyan") to shape the meaning.
-- 'Oh, hi, Sasha.' Kostya takes a grounded direction with Sasha, pairing "privet" ("hi") with "sash" ("Sasha") to get the point across in plain spoken Russian.
-- 'Thank you, Kostya, that is super.' Sasha takes a serious footing without hesitation, anchoring the Russian line on "spasibo" ("thank you") and "super" ("super, great") without extra filler.
-- 'Well, as you can see, I did not go.' Sasha brings a candid posture right away, anchoring the Russian line on "kak" ("how") and "vidish" ("see") without extra filler.
-- 'I wanted to talk.' Sasha presents a direct stance in the scene, combining "khotela" ("wanted, meant") and "pogovorit" ("to talk") so the key meaning lands right away.
-- 'Yes, of course.' Sasha takes a direct tack as they talk, pairing "konechno" ("of course") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'That we are together.' Kostya sets an honest note right away, anchoring the Russian line on "vmeste" ("together") and "chto" ("what") without extra filler.
-- 'Well then, see you tonight?' Sasha inquires firmly toward Kostya here, putting "togda" ("back then") alongside "vechera" ("evening") in a tight, everyday turn of phrase.
-- 'I probably will not be able to make it tonight.' Kostya projects an unhurried manner straight away, weaving "navernoye" ("probably") together with "segodnya" ("today") just the way native speakers do.
-- 'I need to support Kostya.' Sasha chooses an honest view straight away, combining "nado" ("it is necessary") and "podderzhat" ("to support") so the key meaning lands right away.
-- 'What happened?' Kostya presses frankly to keep things clear, combining "sluchilos" ("happened") and "chto" ("what") so the key meaning lands right away.
-- 'His dog died.' Sasha strikes a natural stance straight away, weaving "sobaka" ("dog") together with "umerla" ("died") just the way native speakers do.
-- 'He loved her very much.' Kostya adopts a thoughtful course in the room, building the phrase around "ochen" ("very much") and "lyubil" ("loved") for a crisp, natural delivery.
+- 'Kostyan, can you imagine, this is some kind of...' Sasha grounds one familiar piece toward Kostya: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Oh, hi, Sasha.' Kostya speaks pointedly beside Sasha, leaving no doubt about where he stands.
+- 'Thank you, Kostya, that is super.' Sasha uses one sharp word at once: "spasibo" means "thank you", and it carries the main weight of what Sasha is saying.
+- 'Well, as you can see, I did not go.' Sasha delivers the reply before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I wanted to talk.' Sasha follows up boldly without holding back, bringing things back to earth after the buildup.
+- 'Yes, of course.' Sasha points to one vivid touch for Kostya: "konechno" means "of course", and it carries the main weight of what Sasha is saying.
+- 'That we are together.' Kostya lays out that remark around Sasha: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well then, see you tonight?' Sasha challenges bluntly why things suddenly took this turn between them.
+- 'I probably will not be able to make it tonight.' Kostya leans on one concrete expression at once: "navernoye" means "probably", and it carries the main weight of what Kostya is saying.
+- 'I need to support Kostya.' Sasha directs the comment at once: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'What happened?' Kostya inquires candidly to see how Sasha will answer on the spot.
+- 'His dog died.' Sasha underscores one direct expression with Kostya: "sobaka" means "dog", and it carries the main weight of what Sasha is saying.
+- 'He loved her very much.' Kostya shares this statement facing Sasha: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

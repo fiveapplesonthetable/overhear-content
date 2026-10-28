@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi, what did you lose here?' Max presses plainly on the spot, putting "tut" ("here") alongside "poteryal" ("lost") in a tight, everyday turn of phrase.
-- 'I cannot find one expensive bottle.' Kostya chooses a clear bearing with Vika, leaning on "doroguyu" ("expensive") before closing the thought with "butylku" ("a bottle").
-- 'I borrowed it from you last night.' Max keeps a calm approach across the room, weaving "vchera" ("yesterday") together with "vecherom" ("in the evening") just the way native speakers do.
-- 'I took it home for our romantic dinner.' Max offers a resolute view as the scene unfolds, building the phrase around "vzyal" ("took") and "domoy" ("home") for a crisp, natural delivery.
-- 'Max, what romantic dinner on earth?' Kostya challenges firmly in front of Max, weaving "yeshchyo" ("more, still") together with "romanticheskogo" ("romantic") just the way native speakers do.
-- 'Do not worry, I will reimburse you the full cost.' Max shares a thoughtful rhythm as they talk, putting "volnuysya" ("worry") alongside "vozmeshchu" ("cost") in a tight, everyday turn of phrase.
-- 'How much does it cost, one or two thousand?' Max quizzes evenly during the talk, weaving "skolko" ("how much, so much") together with "stoit" ("is parked") just the way native speakers do.
-- 'Dmitry Vladimirovich himself left this bottle yesterday!' Kostya chooses a sharp course as the scene unfolds, combining "butylku" ("a bottle") and "vchera" ("yesterday") so the key meaning lands right away.
-- 'Do you know how much this rare bottle costs?' Kostya wonders openly at this point, joining "znayesh" ("know") to "skolko" ("how much, so much") so every word pulls its weight.
-- 'It costs exactly five thousand dollars!' Kostya sustains a lively attitude as the scene unfolds, using "stoit" (from "stoyat", "is parked") alongside "rovno" ("exactly") to shape the meaning.
-- 'Whoa, and I just made up with Vika!' Max holds an unhurried rhythm in the room, joining "tolko" ("only") to "pomirilsya" ("to make up") so every word pulls its weight.
-- 'Not a bad reconciliation for five thousand dollars!' Kostya brings a frank course straight away, putting "neplokhoye" ("not bad, decent") alongside "primireniye" ("reconciliation") in a tight, everyday turn of phrase.
-- 'Kostya, hi, please make me a coffee.' Vika strikes a wry angle right away, joining "sdelay" ("make, do") to "kofe" ("of coffee") so every word pulls its weight.
+- 'Kostya, hi, what did you lose here?' Max shares the reply beside Kostya: opening with the casual greeting "privet" ("hi") signals right away that Max and Kostya are on familiar terms.
+- 'I cannot find one expensive bottle.' Kostya responds firmly in their talk, refusing to let the moment slip past.
+- 'I borrowed it from you last night.' Max underscores this clear word in reply: "vecherom" means "in the evening", and it carries the main weight of what Max is saying.
+- 'I took it home for our romantic dinner.' Max weighs in firmly without holding back, keeping the focus on what actually matters here.
+- 'Max, what romantic dinner on earth?' Kostya prompts earnestly to see how Max will answer on the spot.
+- 'Do not worry, I will reimburse you the full cost.' Max highlights one classic element toward Vika: "vozmeshchu" means "cost" (from "vozmeshcha"), giving the line its exact edge.
+- 'How much does it cost, one or two thousand?' Max voices that answer briskly now: putting the question word "skolko" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Dmitry Vladimirovich himself left this bottle yesterday!' Kostya responds pointedly as things stand, saying out loud what both of them already know.
+- 'Do you know how much this rare bottle costs?' Kostya sharpens one practical detail right here: "redkaya" means "rare" (from "redkiy"), giving the line its exact edge.
+- 'It costs exactly five thousand dollars!' Kostya stands firm firmly before Vika, so Vika knows he is not just making small talk.
+- 'Whoa, and I just made up with Vika!' Max proceeds boldly facing Kostya, so Kostya knows he is not just making small talk.
+- 'Not a bad reconciliation for five thousand dollars!' Kostya chooses one direct term toward Vika: "primireniye" means "reconciliation" (from "primireniy"), giving the line its exact edge.
+- 'Kostya, hi, please make me a coffee.' Vika shares this update for Kostya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.

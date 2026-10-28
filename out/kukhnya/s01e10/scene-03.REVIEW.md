@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, some young woman is calling for you over there.' Kostya puts the word for 'chef' together with 'over there' and 'young woman' in a natural spoken line.
-- 'Who is she and what does she need?' Barinov delivers a punchy reaction built around the word for 'needed'.
-- 'She said that she came from television.' Kostya uses the word for 'said' to focus on the completed action, pairing it with 'came' and 'television'.
-- 'I do not want to talk to anyone.' Barinov delivers the point with everyday clarity.
-- 'She says that the matter is very important.' Kostya communicates this idea using natural everyday language.
-- 'I currently have absolutely no time.' Barinov uses the classic style — literally 'at me' rather than a word for 'to have', pairing it with 'now' and 'completely'.
-- 'She is waiting for you near the main entrance.' Kostya chooses the word for 'is waiting for' for the ongoing action, followed by 'main' and 'entrance'.
+- 'Chef, some young woman is calling for you over there.' Catching Barinov in the corridor, Kostya lets him know that some young woman is asking for him.
+- 'Who is she and what does she need?' Still irritable from his hangover, Barinov demands to know who she is and what she wants.
+- 'She said that she came from television.' Kostya explains that the visitor claims to have come from a television studio.
+- 'I do not want to talk to anyone.' Russian stacks negatives here — literally 'I do not want with no one to speak' — as Barinov refuses to see anyone.
+- 'She says that the matter is very important.' Kostya adds that the young woman insists her business with the chef is very important.
+- 'I currently have absolutely no time.' Russian expresses 'I have no time' as 'at me there is no time', with 'completely' adding extra finality.
+- 'She is waiting for you near the main entrance.' Kostya points out that she is standing right by the main entrance waiting for him.
 - 'Let her come into my office.' Giving in a little, Barinov tells Kostya to send her into his office.
 - 'She asked you to come out for one minute.' Kostya relays her polite request to step outside for just sixty seconds.
-- 'Fine, Kostya, I will come over myself now.' Barinov anchors the line on the word for 'fine' and builds the thought around 'now' and 'will come over'.
-- 'Thank you, chef, I will convey your words.' Kostya opens with 'thank you' before bringing in 'chef' and 'will convey' to make the point clear.
-- 'And pour me some strong black tea.' Barinov leads with the direct word for 'pour', pairing it with 'strong' and 'black'.
-- 'Of course, chef, I will do it right now.' Kostya puts the word for 'of course' together with 'chef' and 'will do' in a natural spoken line.
+- 'Fine, Kostya, I will come over myself now.' Curious despite his grumpy mood, Barinov relents and says he will walk out to meet her himself.
+- 'Thank you, chef, I will convey your words.' Kostya thanks the chef and heads back to let the visitor know he is coming.
+- 'And pour me some strong black tea.' Before Kostya leaves, Barinov asks him to pour a cup of strong black tea for his headache.
+- 'Of course, chef, I will do it right now.' Kostya cheerfully agrees to brew the fresh tea right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone back, do not come near me!' The inspector conveys a clear direction in the scene, linking "nazad" ("ago"), "podkhodite" ("suit"), and "vsem" ("everyone") in one brisk exchange.
-- 'Please do everything that he asks.' Senya adopts a frank bearing as the scene unfolds, pairing "delayte" ("do") with "prosit" ("is asking for") to get the point across in plain spoken Russian.
-- 'And now pull up your pants quickly.' The inspector favors a lively bearing in front of Denis, combining "teper" ("now") and "bystro" ("quickly") so the key meaning lands right away.
-- 'I am not going to do that.' Senya adopts a brisk tempo toward the inspector, leaning on "budu" ("will be") before closing the thought with "delat" ("do").
-- 'I told you, pull up your pants!' The inspector maintains a candid mood across the room, leaning on "skazal" ("said") before closing the thought with "podtyani" ("pull up").
-- 'And you go on, hit him.' The inspector sustains a frank line straight away, joining "davay" ("let's") to "udar" ("hit, strike") so every word pulls its weight.
-- 'Do not come near me right now!' The inspector favors an emphatic rhythm at once, joining "podkhodite" ("suit") to "seychas" ("now") so every word pulls its weight.
-- 'We can still reach an agreement calmly!' Denis sustains an earnest manner in their talk, leaning on "yeshchyo" ("more, still") before closing the thought with "mozhem" ("can").
-- 'No, this is the end for all of you now!' The inspector takes a direct stance in the scene, pairing "konets" ("end") with "teper" ("now") so the "-sya" ending carries the action.
-- 'Senya, run upstairs after him!' Denis picks an emphatic note right away, leaning on "begi" ("run") before closing the thought with "naverkh" ("upstairs, upward").
-- 'Denis, thank you, you are my savior!' Senya holds a warm line without hesitation, leaning on "spasibo" ("thank you") before closing the thought with "spasitel" ("savior").
-- 'You can live at my place for free!' Senya offers a calm posture beside the inspector, combining "mozhesh" ("can") and "zhit" ("to live") so the key meaning lands right away.
+- 'Everyone back, do not come near me!' The inspector fires back warmly without a pause, saying out loud what both of them already know.
+- 'Please do everything that he asks.' Senya reacts right away with the inspector, watching the inspector's face to see how the news lands.
+- 'And now pull up your pants quickly.' The inspector stresses this direct term in reply: "podtyani" means "pull up" (from "podtyanut"), giving the line its exact edge.
+- 'I am not going to do that.' Senya reacts evenly toward the inspector, watching the inspector's face to see how the news lands.
+- 'I told you, pull up your pants!' The inspector chimes in right away without any doubt, making his position completely clear.
+- 'And you go on, hit him.' The inspector focuses on one telling word on cue: "davay" means "let's" (from "davat"), giving the line its exact edge.
+- 'Do not come near me right now!' The inspector speaks up boldly with Denis, bringing things back to earth after the buildup.
+- 'We can still reach an agreement calmly!' Denis stands firm bluntly hearing Senya, letting the remark speak for itself.
+- 'No, this is the end for all of you now!' The inspector grounds this sharp expression right here: "konets" means "end", and it carries the main weight of what the inspector is saying.
+- 'Senya, run upstairs after him!' Denis holds firm sharply without a pause, leaving no doubt about where he stands.
+- 'Denis, thank you, you are my savior!' Senya proceeds candidly toward Denis, saying out loud what both of them already know.
+- 'You can live at my place for free!' Senya uses one direct word for the inspector: "besplatno" means "for free", and it carries the main weight of what Senya is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Without me you will never get a star.' Barinov strikes a natural rhythm beside Elena, weaving "zvezdu" ("star") together with "poluchite" ("you will get") just the way native speakers do.
-- 'And is Elena Pavlovna not against it?' Senya prompts directly during the talk, leaning on "yelena" ("Yelena") before closing the thought with "pavlovna" ("Pavlovna").
-- 'No, she is not against it at all.' Barinov sustains a frank tack right away, pairing "sovsem" ("at all") with "net" ("no") to get the point across in plain spoken Russian.
-- 'I talked her into two hours a day.' Barinov sustains a wry mood in the room, using "chasa" (from "chas", "hours") alongside "ugovoril" ("persuaded, talked into") to shape the meaning.
-- 'A guest found a piece of metal in the soup.' Elena shows a pointed bearing beside Barinov, combining "gost" ("guest") and "nashyol" ("found") so the key meaning lands right away.
-- 'The guest found it in the lentil soup.' Elena conveys a serious view without hesitation, anchoring the Russian line on "gost" ("guest") and "supe" ("soup") without extra filler.
-- 'Now he wants to see the chef.' Elena brings a resolute tack straight away, weaving "teper" ("now") together with "khochet" ("wants") just the way native speakers do.
-- 'Chef, this is just an ordinary bolt.' Senya keeps a clear stance in the room, combining "obychnyy" ("ordinary, regular") and "bolt" ("bolt") so the key meaning lands right away.
-- 'Tell me, who cooked this?' Barinov queries warmly to keep things clear, leaning on "skazhite" ("tell") before closing the thought with "gotovil" ("prepared, made").
-- 'It does not matter who exactly cooked it.' Barinov presents a wry angle at once, pairing "vazhno" ("important, mattering") with "gotovil" ("prepared, made") to get the point across in plain spoken Russian.
-- 'Obviously, this is a clever con artist.' Barinov projects a warm style as they talk, leaning on "ochevidno" ("obviously") before closing the thought with "khitryy" ("cunning").
-- 'Right now I will go sort it out myself.' Barinov strikes a direct direction as they talk, weaving "seychas" ("now") together with "poydu" ("go") just the way native speakers do.
+- 'Without me you will never get a star.' Barinov favors this vivid choice with Elena: "poluchite" means "you will get" (from "poluchit"), giving the line its exact edge.
+- 'And is Elena Pavlovna not against it?' Senya shapes this warning without pause: starting the question with "razve" ("really?, is it true that...?") shows Senya is pushing back against what he just heard.
+- 'No, she is not against it at all.' Barinov stands firm dryly with a smile, shifting the whole mood of the room in a single beat.
+- 'I talked her into two hours a day.' Barinov grounds this vivid word toward Senya: "ugovoril" means "persuaded, talked into" (from "ugovorit"), giving the line its exact edge.
+- 'A guest found a piece of metal in the soup.' Elena steps in bluntly with a shrug, shifting the whole mood of the room in a single beat.
+- 'The guest found it in the lentil soup.' Elena fires back steadily hearing Senya, without trying to dress up how she really feels.
+- 'Now he wants to see the chef.' Elena reaches for this vivid term in reply: "khochet" means "wants" (from "khotet"), giving the line its exact edge.
+- 'Chef, this is just an ordinary bolt.' Senya shapes the reaction on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Tell me, who cooked this?' Barinov questions eagerly whether Elena really thought this through.
+- 'It does not matter who exactly cooked it.' Barinov leans on one direct touch at once: "vazhno" means "important, mattering" (from "vazhnyy"), giving the line its exact edge.
+- 'Obviously, this is a clever con artist.' Barinov makes the thought before Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Right now I will go sort it out myself.' Barinov replies promptly toward Senya, without trying to dress up how he really feels.

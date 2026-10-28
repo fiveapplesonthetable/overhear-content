@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Where did the bottle of expensive cognac disappear to?' Vika questions where the bottle of expensive cognac disappeared to.
-- 'Honestly speaking, I don' Kostya admits honestly that he does not know at all.
+- 'Honestly speaking, I don't know at all.' Kostya admits honestly that he does not know at all.
 - 'And who should know if not you?' Vika retorts, asking who should know if not him.
 - 'Kostya, you need to be fired from your job immediately!' Vika states that Kostya needs to be fired from his job immediately.
 - 'It definitely stood here, I remember myself.' Kostya insists the bottle definitely stood there, remembering it clearly.

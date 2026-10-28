@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are the potatoes?' Lyova presses steadily toward Barinov here, weaving "gde" ("where") together with "kartoshka" ("potato") just the way native speakers do.
-- 'And where is the zucchini? And where is Lavrov?' Lyova inquires openly during the talk, joining "gde" ("where") to "tsukini" ("zucchini") so every word pulls its weight.
-- 'Fine, keep working, I will do everything myself.' Lyova sustains a candid footing in the scene, pairing "rabotayte" ("work") with "sdelayu" ("I'll do") to get the point across in plain spoken Russian.
-- 'You did the absolute right thing by giving me a second chance.' Nagiyev displays an unhurried tone toward Lyova, combining "absolyutno" ("completely") and "pravilno" ("right") so the key meaning lands right away.
-- 'War and Peace, Napoleon—all of that is mine.' Nagiyev keeps a steady direction during the exchange, placing "voyna" ("a war") straight beside "mir" ("world") with no word for "to be" needed.
-- 'I even read it. Thank you very much.' Nagiyev strikes a sharp stance during the exchange, building the phrase around "chital" ("read") and "spasibo" ("thank you") for a crisp, natural delivery.
-- 'By the way, the cooking here in our restaurant is amazing.' Nagiyev brings a direct tack in this beat, pairing "kstati" ("by the way") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'And do not worry at all.' Nagiyev shows a brisk line on the spot, pairing "volnuytes" ("worry") with "vy" ("you") so the "-sya" ending carries the action.
-- 'I kicked out the chef who ruined dinner last time.' Nagiyev strikes a brisk bearing in front of Barinov, weaving "shefa" ("chef") together with "togda" ("back then") just the way native speakers do.
-- 'Everything is fine. Go do your work.' Nagiyev displays an honest direction toward Lyova, weaving "normalno" ("fine, OK") together with "idi" ("go") just the way native speakers do.
-- 'I am a guest here.' Barinov favors a warm tempo in the room, joining "gost" ("guest") to "ya" ("I") so every word pulls its weight.
-- 'Wait a second, you...' Nagiyev keeps a warm bearing right away, joining "vy" ("you") to "eto" ("this") so every word pulls its weight.
+- 'Where are the potatoes?' Lyova inquires promptly as Barinov tries to explain the situation.
+- 'And where is the zucchini? And where is Lavrov?' Lyova reaches for one familiar touch for Nagiyev: "tsukini" means "zucchini", and it carries the main weight of what Lyova is saying.
+- 'Fine, keep working, I will do everything myself.' Lyova directs that reply without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'You did the absolute right thing by giving me a second chance.' Nagiyev pushes back bluntly as they talk, refusing to let the moment slip past.
+- 'War and Peace, Napoleon—all of that is mine.' Nagiyev stresses one clear element in earnest: "napoleon" means "mine", and it carries the main weight of what Nagiyev is saying.
+- 'I even read it. Thank you very much.' Nagiyev frames the reply beside Lyova: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'By the way, the cooking here in our restaurant is amazing.' Nagiyev continues plainly with Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'And do not worry at all.' Nagiyev points to one vivid detail in reply: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'I kicked out the chef who ruined dinner last time.' Nagiyev replies pointedly on the spot, leaving no doubt about where he stands.
+- 'Everything is fine. Go do your work.' Nagiyev pushes back lightly toward Lyova, leaving no doubt about where he stands.
+- 'I am a guest here.' Barinov stresses this telling detail with Lyova: "gost" means "guest", and it carries the main weight of what Barinov is saying.
+- 'Wait a second, you...' Nagiyev shares that line with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

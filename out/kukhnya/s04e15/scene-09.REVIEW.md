@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Girls, what are you whispering secrets about here?' Barinov queries evenly without a pause, weaving "devochki" ("girl's") together with "tut" ("here") just the way native speakers do.
-- 'Nothing special, Dad, we are just discussing a new series.' Katya holds a clear tone at once, leaning on "papa" ("Dad") before closing the thought with "prosto" ("just").
-- 'Katya, why are you deceiving your own father?' Eva questions firmly to Barinov here, anchoring the Russian line on "zachem" ("what for") and "obmanyvayesh" ("are deceiving") without extra filler.
-- 'Last night I had a wonderful romance!' Eva brings a direct mood on the spot, weaving "nochyu" ("night") together with "byl" ("was") just the way native speakers do.
-- 'Moreover, the man was almost twice as old as me.' Eva maintains an emphatic attitude toward Barinov, anchoring the Russian line on "muzhchina" ("man") and "byl" ("was") without extra filler.
-- 'Roughly the same age as you, Viktor Petrovich!' Eva displays a sharp line with Katya, linking "primerno" ("approximately"), "vozrasta" ("age"), and "kak" ("how") in one brisk exchange.
-- 'All right, I have a lot to do, I will run along!' Katya takes a playful approach beside Barinov, pairing "mnogo" ("a lot") with "del" ("things to do") to get the point across in plain spoken Russian.
-- 'Eva, I do not want Katya to know!' Barinov chooses a frank angle toward Katya, leaning on "khochu" ("want") before closing the thought with "znala" ("knew").
-- 'Such a grown man and he is afraid of his own daughter!' Eva displays an unhurried line as the scene unfolds, anchoring the Russian line on "vzroslyy" ("grown-up, adult") and "muzhchina" ("man") without extra filler.
-- 'Why can I not tell a friend how I brushed my teeth?' Eva challenges pointedly for Katya's benefit, joining "pochemu" ("why") to "nelzya" ("not allowed") so every word pulls its weight.
-- 'Wait, is this some kind of clever blackmail?' Barinov tests steadily to make the point, using "podozhdi" (from "podozhdat", "wait") alongside "khitryy" ("cunning") to shape the meaning.
-- 'Or maybe I simply like you?' Eva wonders pointedly without holding back, linking "mozhet" ("can"), "byt" ("be"), and "prosto" ("just") in one brisk exchange.
+- 'Girls, what are you whispering secrets about here?' Barinov challenges bluntly about what Eva just brought up.
+- 'Nothing special, Dad, we are just discussing a new series.' Katya uses one loaded detail toward Eva: "obsuzhdayem" means "are discussing" (from "obsuzhdat"), giving the line its exact edge.
+- 'Katya, why are you deceiving your own father?' Eva brings this point with warmth: putting the question word "zachem" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Last night I had a wonderful romance!' Eva continues sharply without holding back, to clear the air between them once and for all.
+- 'Moreover, the man was almost twice as old as me.' Eva features one telling touch on cue: "muzhchina" means "man", and it carries the main weight of what Eva is saying.
+- 'Roughly the same age as you, Viktor Petrovich!' Eva frames this sharp piece at once: "vozrasta" means "age" (from "vozrast"), giving the line its exact edge.
+- 'All right, I have a lot to do, I will run along!' Katya speaks sharply hearing Barinov, before Barinov can change the subject.
+- 'Eva, I do not want Katya to know!' Barinov chooses one loaded expression for Katya: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Such a grown man and he is afraid of his own daughter!' Eva pushes back decisively to be clear, shifting the whole mood of the room in a single beat.
+- 'Why can I not tell a friend how I brushed my teeth?' Eva prompts deadpan in front of Katya without any preamble.
+- 'Wait, is this some kind of clever blackmail?' Barinov underscores one telling expression in reply: "shantazh" means "blackmail", and it carries the main weight of what Barinov is saying.
+- 'Or maybe I simply like you?' Eva puts this update facing Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

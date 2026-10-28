@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What exactly will I say to her now?' Denis stands firm boldly in this moment, joining "seychas" ("now") to "skazhu" ("I'll tell") so every word pulls its weight.
-- 'Asking her so bluntly is very foolish.' Denis sets an honest tempo in the scene, weaving "sprashivat" ("am asking") together with "lob" ("forehead") just the way native speakers do.
-- 'Even completely foolish, I would say.' Kostya keeps a grounded approach in this beat, weaving "sovsem" ("at all") together with "glupo" ("stupid") just the way native speakers do.
-- 'Listen, maybe I will just go away?' Denis checks wryly from the start, combining the softening word "prosto" ("simply, just") with "slushay" ("listen") to give the line its natural spoken rhythm.
-- 'Then she will definitely marry Nikita.' Kostya picks a clear rhythm without hesitation, combining "togda" ("back then") and "tochno" ("definitely") so the key meaning lands right away.
-- 'I will say that I am leaving here forever.' Denis picks a candid posture at this moment, pairing "skazhu" ("I'll tell") with "uyezzhayu" ("am leaving") to get the point across in plain spoken Russian.
-- 'Then I will look closely at her reaction.' Denis holds a calm manner without hesitation, joining "potom" ("then") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
-- 'That way I will understand how she feels.' Denis adopts a resolute posture with Kostya, putting "poymu" ("understand") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'Listen, that is actually a good plan.' Kostya offers an honest line with Barinov, joining "slushay" ("listen") to "khoroshiy" ("good") so every word pulls its weight.
-- 'I only have left to sort things out with Sveta.' Denis strikes a calm view across the room, leaning on "ostalos" ("was left") before closing the thought with "tolko" ("only").
-- 'Revenge is served to the table only cold.' Barinov shares a candid position in the scene, weaving "mest" ("revenge") together with "podayut" ("they serve") just the way native speakers do.
-- 'And preferably it should be served rare.' Barinov projects a brisk rhythm beside Kostya, leaning on "zhelatelno" ("preferably") before closing the thought with "podavat" ("to serve").
-- 'Alright, let us quickly finish our conversation.' Barinov favors a warm line at once, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'What exactly will I say to her now?' Denis states this line plainly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Asking her so bluntly is very foolish.' Denis answers decisively beside Kostya, bringing things back to earth after the buildup.
+- 'Even completely foolish, I would say.' Kostya sharpens one clear touch for Barinov: "sovsem" means "at all", and it carries the main weight of what Kostya is saying.
+- 'Listen, maybe I will just go away?' Denis aims that answer on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Then she will definitely marry Nikita.' Kostya holds firm dryly with a nod, bringing things back to earth after the buildup.
+- 'I will say that I am leaving here forever.' Denis leans on one key element at once: "uyezzhayu" means "am leaving" (from "uyezzhat"), giving the line its exact edge.
+- 'Then I will look closely at her reaction.' Denis proceeds at once in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'That way I will understand how she feels.' Denis reacts openly watching Kostya, bringing things back to earth after the buildup.
+- 'Listen, that is actually a good plan.' Kostya focuses on this vivid element for Barinov: "khoroshiy" means "good", and it carries the main weight of what Kostya is saying.
+- 'I only have left to sort things out with Sveta.' Denis states the comment in earnest: the "-sya" ending on "razobratsya" ("to deal with") turns the action inward or makes it happen between people naturally.
+- 'Revenge is served to the table only cold.' Barinov opens up promptly as they talk, keeping the focus on what actually matters here.
+- 'And preferably it should be served rare.' Barinov favors one loaded choice in earnest: "zhelatelno" means "preferably", and it carries the main weight of what Barinov is saying.
+- 'Alright, let us quickly finish our conversation.' Barinov brings that answer with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

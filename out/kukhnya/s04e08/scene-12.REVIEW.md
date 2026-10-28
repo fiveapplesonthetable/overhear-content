@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, help me, please, my zipper is stuck!' Mama conveys a lively bearing beside Max, putting "pomogi" ("help") alongside "molniya" ("zipper, lightning") in a tight, everyday turn of phrase.
-- 'Right now, Mom, I am already coming to help you!' Max holds a wry style during the exchange, joining "seychas" ("now") to "mama" ("mum, mother") so every word pulls its weight.
-- 'Tomorrow at work we will find someone who will fix this shawl.' Max shows a brisk line for Mama, building the phrase around "zavtra" ("tomorrow") and "naydyom" ("we'll find") for a crisp, natural delivery.
-- 'And tell Mom right now that your head hurts.' Max picks a brisk manner at this moment, anchoring the Russian line on "mame" ("mother, mum") and "seychas" ("now") without extra filler.
-- 'No, Max, I am not going to lie to her anymore!' Vika adopts an unhurried view at once, joining "bolshe" ("more") to "budu" ("will be") so every word pulls its weight.
-- 'Oh, Vikochka, what suddenly happened to you?' Mama challenges decisively with Vika now, building the phrase around "vikochka" ("vikochka") and "vdrug" ("suddenly, what if") for a crisp, natural delivery.
-- 'Forgive me, my head suddenly started hurting badly.' Vika takes a steady line in the conversation, joining "prostite" ("excuse me") to "vdrug" ("suddenly, what if") so every word pulls its weight.
-- 'She sometimes gets bad headaches after an accident.' Max displays an honest footing as they talk, combining "inogda" ("sometimes, at times") and "byvayut" ("occur, happen") so the key meaning lands right away.
-- 'After what accident, what happened to you?' Mama quizzes sharply to keep things clear, combining "yeshchyo" ("more, still") and "avarii" ("accident") so the key meaning lands right away.
-- 'Mom, it is a long story, I will tell you later.' Max displays a grounded direction right away, putting "mama" ("mum, mother") alongside "dolgaya" ("long, lengthy") in a tight, everyday turn of phrase.
-- 'The most important thing is that everyone is alive and well right now!' Max brings a clear angle as the scene unfolds, pairing "samoye" ("the most") with "glavnoye" ("important") to get the point across in plain spoken Russian.
-- 'Vika, let's rest a little, and everything will be fine.' Max sets a warm mood on the spot, putting "davay" ("let's") alongside "nemnogo" ("a bit") in a tight, everyday turn of phrase.
+- 'Max, help me, please, my zipper is stuck!' Mama fires back promptly before Max, leaving no doubt about where she stands.
+- 'Right now, Mom, I am already coming to help you!' Max focuses on one clear detail on cue: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'Tomorrow at work we will find someone who will fix this shawl.' Max steps in earnestly as things stand, making his position completely clear.
+- 'And tell Mom right now that your head hurts.' Max holds firm firmly with a smile, to clear the air between them once and for all.
+- 'No, Max, I am not going to lie to her anymore!' Vika features one direct choice right here: "bolshe" means "more", and it carries the main weight of what Vika is saying.
+- 'Oh, Vikochka, what suddenly happened to you?' Mama makes the reaction without pause: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Forgive me, my head suddenly started hurting badly.' Vika speaks decisively with Mama, steering the talk right where she wants it.
+- 'She sometimes gets bad headaches after an accident.' Max frames one loaded piece in reply: "silnyye" means "strong, powerful" (from "silnyy"), giving the line its exact edge.
+- 'After what accident, what happened to you?' Mama voices this statement around Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Mom, it is a long story, I will tell you later.' Max pushes back calmly across the room, without trying to dress up how he really feels.
+- 'The most important thing is that everyone is alive and well right now!' Max chooses this vivid term in earnest: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
+- 'Vika, let's rest a little, and everything will be fine.' Max delivers this answer without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

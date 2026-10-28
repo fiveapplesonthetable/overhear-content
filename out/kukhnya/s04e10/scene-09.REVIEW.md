@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ugh, Fedya, how vulgar you are!' Nastya brings a lively angle at once, anchoring the Russian line on "poshlyak" ("vulgar") and "fu" ("drop it") without extra filler.
-- 'Check Kostya's browser history on his laptop.' Fedya strikes an honest rhythm right away, linking "kosti" ("bones"), "istoriyu" ("history"), and "brauzera" ("laptop") in one brisk exchange.
-- 'I already checked his laptop.' Nastya holds an earnest posture at this moment, leaning on "uzhe" ("already, now") before closing the thought with "proveryala" ("to check, test").
-- 'There is nothing bad on there.' Nastya shares a brisk tone during the exchange, linking "plokhogo" ("bad") directly with "tam" ("there"), since Russian drops "is" and "are" in the present.
-- 'That means he simply deleted it.' Fedya sets a steady tone toward Elena, combining the softening word "prosto" ("simply, just") with "znachit" ("then, so") to give the line its natural spoken rhythm.
-- 'I will stay out in the corridor for a bit.' Elena brings a frank style at this moment, anchoring the Russian line on "pobudu" ("to stay for a while") and "koridore" ("corridor") without extra filler.
-- 'I will wait until the trailer finishes.' Elena establishes a calm tone as they talk, weaving "podozhdu" ("will wait") together with "poka" ("bye") just the way native speakers do.
-- 'What, is everything really that bad?' Nastya prompts promptly without a pause, leaning on "plokho" ("badly") before closing the thought with "chto" ("what").
-- 'A question has come up for me here.' Elena offers an emphatic tempo for Fedya, putting "tut" ("here") alongside "voznik" ("to arise, emerge") in a tight, everyday turn of phrase.
-- 'A nightmare, this is aimed at fools.' Elena brings a steady tone without hesitation, weaving "koshmar" ("nightmare") together with "gluptsov" ("fools") just the way native speakers do.
-- 'You are simply out of the loop.' Nastya brings a measured direction on the spot, building the phrase around "prosto" ("just") and "sovsem" ("at all") for a crisp, natural delivery.
-- 'It is impossible to watch such a movie.' Elena picks an earnest rhythm on the spot, pairing "kino" ("cinema, movies") with "nevozmozhno" ("impossible") to get the point across in plain spoken Russian.
+- 'Ugh, Fedya, how vulgar you are!' Nastya continues frankly in their talk, watching Elena's face to see how the news lands.
+- 'Check Kostya's browser history on his laptop.' Fedya emphasizes one classic word right here: "istoriyu" means "history" (from "istoriya"), giving the line its exact edge.
+- 'I already checked his laptop.' Nastya proceeds honestly during the talk, bringing things back to earth after the buildup.
+- 'There is nothing bad on there.' Nastya opens up at once hearing Fedya, to clear the air between them once and for all.
+- 'That means he simply deleted it.' Fedya frames one classic detail right here: "znachit" means "then, so", and it carries the main weight of what Fedya is saying.
+- 'I will stay out in the corridor for a bit.' Elena continues sharply with a nod, keeping the focus on what actually matters here.
+- 'I will wait until the trailer finishes.' Elena cuts in right away around Fedya, testing Fedya's reaction in the middle of the exchange.
+- 'What, is everything really that bad?' Nastya frames this direct term in reply: "plokho" means "badly", and it carries the main weight of what Nastya is saying.
+- 'A question has come up for me here.' Elena lays out the reply frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'A nightmare, this is aimed at fools.' Elena continues bluntly in their talk, steering the talk right where she wants it.
+- 'You are simply out of the loop.' Nastya leans on one telling element on cue: "prosto" means "just", and it carries the main weight of what Nastya is saying.
+- 'It is impossible to watch such a movie.' Elena directs this statement before Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

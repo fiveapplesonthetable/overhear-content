@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our restaurant is truly very rich in bright talents!' Nagiyev establishes a natural posture in the conversation, putting "restoran" ("restaurant") alongside "deystvitelno" ("really, indeed") in a tight, everyday turn of phrase.
-- 'Our young cook and musician plays wonderfully.' Nagiyev projects a serious position with the guest, building the phrase around "molodoy" ("young") and "povar" ("chef, cook") for a crisp, natural delivery.
-- 'He can play at your evening banquet too!' Nagiyev sets an emphatic tone at this moment, pairing "mozhet" ("can") with "sygrat" ("to play") to get the point across in plain spoken Russian.
-- 'Lenochka, darling, wait for me today by four o'clock.' Denis chooses a natural manner for Nagiyev, combining "lenochka" ("lenochka") and "dorogaya" ("expensive") so the key meaning lands right away.
-- 'And I will come to you at six o'clock sharp!' Denis offers a candid style in the conversation, building the phrase around "pridu" ("will come") and "rovno" ("exactly") for a crisp, natural delivery.
-- 'There should always be enough of a real man for everyone!' Denis establishes a playful mood in the conversation, leaning on "nastoyashchego" ("real, genuine") before closing the thought with "muzhchiny" ("man").
-- 'Look who is here, why do you not drop by the theater?' The guest wonders bluntly at this point, leaning on "lyudi" ("people") before closing the thought with "pochemu" ("why").
-- 'There is no time at all, lots of work at the restaurant.' Nagiyev conveys a warm tempo without hesitation, combining "sovsem" ("at all") and "vremeni" ("time") so the key meaning lands right away.
-- 'So maybe you need some help with something?' The guest probes frankly on the spot, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
-- 'And maybe I really do need a little help!' Nagiyev conveys a calm tempo straight away, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
-- 'Tell me, did Barinov himself definitely cook this dish?' The guest inquires decisively without a pause, joining "skazhite" ("tell") to "blyudo" ("dish") so every word pulls its weight.
-- 'Of course, right now they will serve you his onion soup!' Nagiyev sets a calm approach straight away, pairing "seychas" ("now") with "konechno" ("of course") so the "-sya" ending carries the action.
+- 'Our restaurant is truly very rich in bright talents!' Nagiyev centers one practical piece at once: "deystvitelno" means "really, indeed", and it carries the main weight of what Nagiyev is saying.
+- 'Our young cook and musician plays wonderfully.' Nagiyev jumps in at once as things stand, grounding the moment in plain reality.
+- 'He can play at your evening banquet too!' Nagiyev answers honestly in this moment, leaving no doubt about where he stands.
+- 'Lenochka, darling, wait for me today by four o'clock.' Denis anchors this clear word with Nagiyev: "chetyryom" means "o'clock", and it carries the main weight of what Denis is saying.
+- 'And I will come to you at six o'clock sharp!' Denis uses one telling term in reply: "pridu" means "will come" (from "priyti"), giving the line its exact edge.
+- 'There should always be enough of a real man for everyone!' Denis cuts in promptly as they talk, refusing to let the moment slip past.
+- 'Look who is here, why do you not drop by the theater?' The guest centers one sharp detail right here: "zakhodish" means "to come in" (from "zakhodit"), giving the line its exact edge.
+- 'There is no time at all, lots of work at the restaurant.' Nagiyev shapes the reply facing the guest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'So maybe you need some help with something?' The guest probes deadpan where this conversation is heading next.
+- 'And maybe I really do need a little help!' Nagiyev highlights one sharp word toward the guest: "deystvitelno" means "really, indeed", and it carries the main weight of what Nagiyev is saying.
+- 'Tell me, did Barinov himself definitely cook this dish?' The guest gives the reaction in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Of course, right now they will serve you his onion soup!' Nagiyev answers at once before the guest, keeping the focus on what actually matters here.

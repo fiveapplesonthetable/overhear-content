@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you still here?' Kostya asks dryly in the room, leaning on "zdes" ("here") before closing the thought with "yeshche" ("still").
-- 'You have a big mouth.' Nagiyev maintains a firm tack as the scene unfolds, anchoring the Russian line on "yazyk" ("language, tongue") and "dlinnyy" ("long") without extra filler.
-- 'Watch out or I will spill it on you next.' Kostya offers a direct direction at once, weaving "potom" ("then") together with "oy" ("oh") just the way native speakers do.
-- 'What did you just do?' Nagiyev inquires briskly in the room, anchoring the Russian line on "ty" ("you") and "chto" ("what") without extra filler.
-- 'What are you doing?' Kostya checks steadily beside Nagiyev, leaning on "delayete" ("are doing") before closing the thought with "chto" ("what").
-- 'I am about to teach you a painful lesson.' Nagiyev holds a grounded tempo for Kostya, leaning on "seychas" ("now") before closing the thought with "dam" ("will give").
-- 'Let go of him, what are you doing?' Kostya quizzes openly across the room, linking "otpustite" ("let go, release"), "delayete" ("are doing"), and "vy" ("you") in one brisk exchange.
-- 'Dima, what is going on?' Nagiyev presses frankly with Kostya now, pairing "dim" ("Dima") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'That is my son!' Kostya queries plainly in the scene, placing "syn" ("son") straight beside "moy" ("my") with no word for "to be" needed.
-- 'Watch your language, kid.' Nagiyev picks a natural mood in their talk, putting "sledi" ("watch, look after") alongside "vyrazheniyami" ("expression") in a tight, everyday turn of phrase.
-- 'He nearly ruined my suit!' Kostya queries wryly without a pause, building the phrase around "chut" ("almost, nearly") and "kostyum" ("suit") for a crisp, natural delivery.
-- 'Now he has to dine here for a year.' Nagiyev presents a serious bearing in their talk, pairing "teper" ("now") with "god" ("year") to get the point across in plain spoken Russian.
-- 'Please excuse us.' Kostya sustains a pointed tempo toward Nagiyev, putting "izvinite" ("sorry, excuse me") alongside "pozhaluysta" ("please") in a tight, everyday turn of phrase.
+- 'Are you still here?' Kostya drops the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You have a big mouth.' Nagiyev chimes in wryly without a pause, making his position completely clear.
+- 'Watch out or I will spill it on you next.' Kostya frames one direct touch at once: "potom" means "then", and it carries the main weight of what Kostya is saying.
+- 'What did you just do?' Nagiyev frames the reply with warmth: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'What are you doing?' Kostya wonders frankly to see how Nagiyev will answer on the spot.
+- 'I am about to teach you a painful lesson.' Nagiyev points to one loaded detail in earnest: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'Let go of him, what are you doing?' Kostya delivers the thought with warmth: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Dima, what is going on?' Nagiyev presses point-blank in front of Kostya without any preamble.
+- 'That is my son!' Kostya sends the comment briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Watch your language, kid.' Nagiyev frames the reaction on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'He nearly ruined my suit!' Kostya presses openly to see how Nagiyev will answer on the spot.
+- 'Now he has to dine here for a year.' Nagiyev centers one practical choice on cue: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
+- 'Please excuse us.' Kostya gives that thought without fuss: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.

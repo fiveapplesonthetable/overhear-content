@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I am going to tell you something important right now.' Mikhail displays a wry tone without hesitation, pairing "seychas" ("now") with "vazhnoye" ("important") so the "-sya" ending carries the action.
-- 'But you forget about it first thing tomorrow morning!' Mikhail picks a resolute direction as the scene unfolds, combining "zavtra" ("tomorrow") and "utrom" ("this morning") so the key meaning lands right away.
-- 'I really like your ex-wife Eleonora.' Mikhail keeps a frank tempo on the spot, linking "ochen" ("very much"), "nravitsya" ("is pleasing"), and "byvshaya" ("former") in one brisk exchange.
-- 'Only please, do not tell anyone about this!' Mikhail strikes a clear attitude as they talk, weaving "tolko" ("only") together with "govori" ("say, talk") just the way native speakers do.
-- 'Well, do you want me to give you my blessing?' Barinov quizzes directly in the room, pairing "khochesh" ("do you want") with "blagoslovil" ("bless") to get the point across in plain spoken Russian.
-- 'Sorry, Misha, but do whatever you see fit.' Barinov favors a steady manner in their talk, linking "izvini" ("sorry, excuse me"), "delay" ("do"), and "kak" ("how") in one brisk exchange.
-- 'Gentlemen, attention, I have a great toast ready!' Senya strikes a grounded posture in the conversation, combining "gospoda" ("gentlemen") and "vnimaniye" ("attention") so the key meaning lands right away.
-- 'Dear Chef, may this be your final wedding!' Senya takes a measured manner on the spot, building the phrase around "dorogoy" ("dear") and "budet" ("will be") for a crisp, natural delivery.
-- 'Let's drink bottoms up to you and to Elena Pavlovna!' Mikhail offers a candid style as they talk, weaving "vypyem" ("will drink") together with "dna" ("bottom, riverbed") just the way native speakers do.
-- 'Viktor Petrovich, and why are you not drinking with us?' Senya presses pointedly on the spot, putting "pochemu" ("why") alongside "pyote" ("are drinking") in a tight, everyday turn of phrase.
-- 'Unfortunately, all our snacks have run out already.' Senya keeps an emphatic tone in the conversation, pairing "konchilas" ("ran out, ended") with "sozhaleniyu" ("regret") so the "-sya" ending carries the action.
-- 'Fine, pour me one small shot glass too!' Barinov favors a direct tone in their talk, anchoring the Russian line on "nalivayte" ("pour") and "tozhe" ("too") without extra filler.
+- 'Vitya, I am going to tell you something important right now.' Mikhail pushes back quietly around Barinov, keeping the focus on what actually matters here.
+- 'But you forget about it first thing tomorrow morning!' Mikhail reaches for one colorful word on cue: "zavtra" means "tomorrow", and it carries the main weight of what Mikhail is saying.
+- 'I really like your ex-wife Eleonora.' Mikhail emphasizes one memorable expression in reply: "byvshaya" means "former" (from "byvshiy"), giving the line its exact edge.
+- 'Only please, do not tell anyone about this!' Mikhail replies candidly to be clear, bringing things back to earth after the buildup.
+- 'Well, do you want me to give you my blessing?' Barinov emphasizes one memorable expression in reply: "blagoslovil" means "bless" (from "blagoslovit"), giving the line its exact edge.
+- 'Sorry, Misha, but do whatever you see fit.' Barinov shapes the comment toward Senya: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Gentlemen, attention, I have a great toast ready!' Senya replies frankly to be clear, keeping the focus on what actually matters here.
+- 'Dear Chef, may this be your final wedding!' Senya uses one memorable term toward Mikhail: "poslednyaya" means "last, final" (from "posledniy"), giving the line its exact edge.
+- 'Let's drink bottoms up to you and to Elena Pavlovna!' Mikhail uses one colorful word with Barinov: "vypyem" means "will drink" (from "vypit"), giving the line its exact edge.
+- 'Viktor Petrovich, and why are you not drinking with us?' Senya quizzes promptly why things suddenly took this turn between them.
+- 'Unfortunately, all our snacks have run out already.' Senya stresses one key detail in earnest: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
+- 'Fine, pour me one small shot glass too!' Barinov gives this point right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.

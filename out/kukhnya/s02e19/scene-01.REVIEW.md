@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Between the dining room and the kitchen.' Max keeps a calm tack at once, leaning on "zala" ("hall, large room") before closing the thought with "kukhni" ("kitchen").
-- 'Excuse me, I am listening.' Barinov establishes an unhurried position right away, leaning on "prostite" ("excuse me") before closing the thought with "slushayu" ("I'm listening").
-- 'There is far too much oil in here.' Max brings a pointed approach in the conversation, pairing "tut" ("here") with "slishkom" ("too") to get the point across in plain spoken Russian.
-- 'Please pass this along to the cooks.' Barinov conveys a lively posture straight away, using "peredayte" (from "peredat", "to pass on") alongside "povaram" ("cooks") to shape the meaning.
-- 'Have them remake the salad.' Max takes a candid style across the room, weaving "peredelayut" ("redo") together with "salat" ("salad") just the way native speakers do.
-- 'They asked to have the salad remade.' Barinov maintains an earnest tack for Max, anchoring the Russian line on "prosili" ("asked, requested") and "peredelat" ("to redo, to remake") without extra filler.
-- 'Thank you for remaking it so quickly.' Max sets a serious style across the room, leaning on "spasibo" ("thank you") before closing the thought with "peredelali" ("to redo, to remake").
-- 'Here you go, just the way you like it.' Barinov picks a clear attitude with Max, weaving "kak" ("how") together with "lyubite" ("to love, to like") just the way native speakers do.
-- 'Well now, that is another matter entirely.' Max offers a calm posture in the room, combining "drugoye" ("another, other") and "delo" ("matter") so the key meaning lands right away.
-- 'Are you out of your mind, tell me?' Barinov checks earnestly in this moment, combining "presh" ("to charge ahead") and "skazhi" ("say") so the key meaning lands right away.
-- 'What is going on over here?' Max asks quietly in front of Barinov, anchoring the Russian line on "zdes" ("here") and "proizoshlo" ("happened") without extra filler.
-- 'Nothing is going on, everything is fine.' Barinov maintains a direct manner as the scene unfolds, putting "proiskhodit" ("is going on") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
-- 'I will remake it right now.' Max conveys a sharp note in their talk, building the phrase around "seychas" ("now") and "peredelayu" ("will redo") for a crisp, natural delivery.
+- 'Between the dining room and the kitchen.' Max leans on this telling touch on cue: "kukhni" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Excuse me, I am listening.' Barinov sends the thought with candor: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'There is far too much oil in here.' Max continues briskly watching Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Please pass this along to the cooks.' Barinov underscores this clear expression at once: "peredayte" means "to pass on" (from "peredat"), giving the line its exact edge.
+- 'Have them remake the salad.' Max shares this answer frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'They asked to have the salad remade.' Barinov chimes in at once as they talk, making his position completely clear.
+- 'Thank you for remaking it so quickly.' Max colors one colorful detail toward Barinov: "peredelali" means "to redo, to remake" (from "peredelat"), giving the line its exact edge.
+- 'Here you go, just the way you like it.' Barinov hands over the comeback at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Well now, that is another matter entirely.' Max weighs in decisively before Barinov, steering the talk right where he wants it.
+- 'Are you out of your mind, tell me?' Barinov colors one telling element with Max: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'What is going on over here?' Max brings that line for Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Nothing is going on, everything is fine.' Barinov chimes in plainly watching Max, watching Max's face to see how the news lands.
+- 'I will remake it right now.' Max sharpens one sharp element in reply: "peredelayu" means "will redo" (from "peredelat"), giving the line its exact edge.

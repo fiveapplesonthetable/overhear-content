@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What were you thinking when you started a fire in the room?' Mikhail queries warmly without holding back, joining "dumal" ("thought") to "kogda" ("when") so every word pulls its weight.
-- 'Back off, I need to take the sauce off the heat.' Barinov adopts a wry note with Vika, pairing "uydi" ("go away, step inside") with "sous" ("sauce") to get the point across in plain spoken Russian.
-- 'What have you just done?!' Barinov challenges dryly on the spot, leaning on "seychas" ("now") before closing the thought with "nadelal" ("make, cause").
-- 'Mikhail, it seems the secret guest has arrived.' Vika offers a thoughtful manner toward Mikhail, linking "kazhetsya" ("it seems, I think"), "taynyy" ("secret, undercover"), and "gost" ("guest") in one brisk exchange.
-- 'Which one? Where is he right now?' Mikhail wonders candidly for Barinov's benefit, joining "gde" ("where") to "seychas" ("now") so every word pulls its weight.
-- 'He is right here, next to the owner.' Vika conveys a grounded rhythm during the exchange, pairing "tut" ("here") with "ryadom" ("nearby") to get the point across in plain spoken Russian.
-- 'Well, where is he standing over there?' Barinov inquires openly right away, building the phrase around "gde" ("where") and "tam" ("there") for a crisp, natural delivery.
-- 'There he is standing by the counter.' Vika favors a grounded stance beside Mikhail, joining "stoit" ("is parked") to "stoyki" ("counter, bar") so every word pulls its weight.
-- 'Vitya, look, they are asking for you already.' Vika adopts a clear angle with Barinov, putting "smotri" ("look") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'He is standing with a suitcase in glasses.' Vika conveys an easygoing tack with Mikhail, linking "stoit" ("is parked"), "chemodanom" ("suitcase, luggage bag"), and "ochkakh" ("glasses") in one brisk exchange.
-- 'He is clearly dissatisfied with something already.' Vika sustains a pointed tack in the scene, placing "uzhe" ("already, now") straight beside "yavno" ("clearly") with no word for "to be" needed.
-- 'I will go prepare a welcome gift for him.' Barinov maintains a grounded line straight away, leaning on "poydu" ("go") before closing the thought with "prigotovlyu" ("will prepare").
+- 'What were you thinking when you started a fire in the room?' Mikhail focuses on this clear word right here: "pozhar" means "fire, blaze", and it carries the main weight of what Mikhail is saying.
+- 'Back off, I need to take the sauce off the heat.' Barinov delivers that answer without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'What have you just done?!' Barinov prompts point-blank in front of Mikhail without any preamble.
+- 'Mikhail, it seems the secret guest has arrived.' Vika grounds this telling detail right here: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Which one? Where is he right now?' Mikhail puts that reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is right here, next to the owner.' Vika fires back honestly facing Mikhail, steering the talk right where she wants it.
+- 'Well, where is he standing over there?' Barinov reaches for one clear choice on cue: "stoit" means "is parked" (from "stoyat"), giving the line its exact edge.
+- 'There he is standing by the counter.' Vika speaks up at once during the talk, testing Mikhail's reaction in the middle of the exchange.
+- 'Vitya, look, they are asking for you already.' Vika reacts quietly with Barinov, keeping the focus on what actually matters here.
+- 'He is standing with a suitcase in glasses.' Vika stresses one familiar detail with Mikhail: "chemodanom" means "suitcase, luggage bag" (from "chemodan"), giving the line its exact edge.
+- 'He is clearly dissatisfied with something already.' Vika states the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I will go prepare a welcome gift for him.' Barinov chimes in pointedly watching Vika, bringing things back to earth after the buildup.

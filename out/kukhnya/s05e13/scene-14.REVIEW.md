@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your Honor, I have an important piece of evidence!' Kostya takes a natural rhythm as the scene unfolds, building the phrase around "chest" ("honor") and "yest" ("there is") for a crisp, natural delivery.
-- 'Were you wearing this belt on that evening?' Kostya questions decisively in the room, pairing "vecher" ("evening") with "byl" ("was") to get the point across in plain spoken Russian.
-- 'That means the pants could have simply fallen down by themselves!' Kostya shares a candid stance with Nastya, combining the softening word "prosto" ("simply, just") with "znachit" ("then, so") to give the line its natural spoken rhythm.
-- 'Well there, now everything fits together perfectly!' Kostya keeps a steady view during the exchange, building the phrase around "teper" ("now") and "otlichno" ("perfect, great") for a crisp, natural delivery.
-- 'Kostya, do not embarrass yourself, that is your belt!' Nastya sets an earnest approach right away, anchoring the Russian line on "pozorsya" ("to disgrace oneself") and "remen" ("belt, strap") without extra filler.
-- 'Then we call our first witness.' Kostya sustains a firm tempo in the scene, combining "togda" ("back then") and "vyzyvayem" ("to cause, to raise") so the key meaning lands right away.
-- 'Max, do not worry, I already bribed him.' Kostya offers an easygoing manner with Nastya, building the phrase around "volnuysya" ("worry") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'So, that evening everything happened just like this.' Senya projects a firm angle at once, joining "znachit" ("then, so") to "vecherom" ("in the evening") so every word pulls its weight.
-- 'Sasha threw herself at our Max to kiss him.' Senya chooses a sharp angle beside Kostya, combining "polezla" ("to climb") and "tselovatsya" ("to kiss") so the key meaning lands right away.
-- 'Then Vika walked in and misunderstood everything.' Senya brings a lively tempo in their talk, building the phrase around "potom" ("then") and "zashla" ("dropped in") for a crisp, natural delivery.
-- 'Victoria Sergeyevna, do not worry, I bribed the witness.' Nastya favors a resolute style during the exchange, linking "volnuytes" ("worry"), "podkupila" ("bribe"), and "svidetelya" ("witness") in one brisk exchange.
-- 'Your Honor, I also call this witness!' Nastya sustains a pointed position as they talk, linking "chest" ("honor"), "tozhe" ("too"), and "vyzyvayu" ("to cause, to raise") in one brisk exchange.
+- 'Your Honor, I have an important piece of evidence!' Kostya delivers that remark frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Were you wearing this belt on that evening?' Kostya quizzes curiously if there is more going on behind the scenes.
+- 'That means the pants could have simply fallen down by themselves!' Kostya frames one direct expression at once: "prosto-naprosto" means "simply", and it carries the main weight of what Kostya is saying.
+- 'Well there, now everything fits together perfectly!' Kostya makes that point before Senya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Kostya, do not embarrass yourself, that is your belt!' Nastya answers at once with a smile, so Kostya knows she is not just making small talk.
+- 'Then we call our first witness.' Kostya focuses on one classic touch with Senya: "svidetelya" means "witness" (from "svidetel"), giving the line its exact edge.
+- 'Max, do not worry, I already bribed him.' Kostya aims that remark with ease: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'So, that evening everything happened just like this.' Senya jumps in decisively in this moment, to clear the air between them once and for all.
+- 'Sasha threw herself at our Max to kiss him.' Senya centers one sharp choice with Kostya: "tselovatsya" means "to kiss", and it carries the main weight of what Senya is saying.
+- 'Then Vika walked in and misunderstood everything.' Senya continues plainly without holding back, without trying to dress up how he really feels.
+- 'Victoria Sergeyevna, do not worry, I bribed the witness.' Nastya speaks up calmly toward Kostya, without trying to dress up how she really feels.
+- 'Your Honor, I also call this witness!' Nastya uses one concrete word with Senya: "svidetelya" means "witness" (from "svidetel"), giving the line its exact edge.

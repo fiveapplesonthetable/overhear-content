@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The main problem of men has always been very simple.' Denis conveys an earnest direction beside Barinov, weaving "glavnaya" ("main") together with "problema" ("problem") just the way native speakers do.
-- 'We do not know at all what women want.' Denis takes a warm posture in the scene, joining "sovsem" ("at all") to "znayem" ("know") so every word pulls its weight.
-- 'Perhaps they simply like tormenting us for a long time.' Denis brings an unhurried footing in their talk, putting "vozmozhno" ("perhaps, possible") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'Oh, Denis, how heartless I really am!' Katya holds a steady view in the room, linking "besserdechnaya" ("really") directly with "oy" ("oh"), since Russian drops "is" and "are" in the present.
-- 'Or they want to see us weak sometimes.' Denis shares a candid note with Barinov, anchoring the Russian line on "khotyat" ("want") and "inogda" ("sometimes, at times") without extra filler.
-- 'Then they can pity us and take care of us.' Denis adopts a thoughtful style as they talk, pairing "zabotitsya" ("to care for") with "togda" ("back then") so the "-sya" ending carries the action.
-- 'Daughter, it looks like your molecular show succeeded splendidly!' Barinov adopts a candid rhythm in the room, combining "dochka" ("dear, daughter") and "pokhozhe" ("like, similar") so the key meaning lands right away.
-- 'Denis, well what do you need from me again?' Katya probes steadily beside Denis, pairing "denis" ("Denis") with "opyat" ("again") so the "-sya" ending carries the action.
-- 'How many times must you repeat that there is nothing between us?' Denis tests directly toward Barinov here, putting "skolko" ("how much, so much") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
-- 'Take twenty thousand and hand her this fifty-ruble bill!' Denis favors a lively tack in this beat, joining "vozmi" ("take, pick up") to "tysyach" ("thousand") so every word pulls its weight.
-- 'Just make sure you do not tell anyone about our deal!' Denis picks an unhurried direction for Barinov, pairing "tolko" ("only") with "smotri" ("look") to get the point across in plain spoken Russian.
-- 'I think women simply want real love.' Katya adopts a pointed position in front of Denis, using "dumayu" (from "dumat", "I think") alongside "zhenshchiny" ("woman") to shape the meaning.
+- 'The main problem of men has always been very simple.' Denis fires back honestly with a nod, to clear the air between them once and for all.
+- 'We do not know at all what women want.' Denis speaks earnestly hearing Katya, watching Katya's face to see how the news lands.
+- 'Perhaps they simply like tormenting us for a long time.' Denis centers one practical touch right here: "vozmozhno" means "perhaps, possible", and it carries the main weight of what Denis is saying.
+- 'Oh, Denis, how heartless I really am!' Katya offers this warning plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Or they want to see us weak sometimes.' Denis opens up frankly during the talk, making his position completely clear.
+- 'Then they can pity us and take care of us.' Denis picks one key piece at once: "zabotitsya" means "to care for", and it carries the main weight of what Denis is saying.
+- 'Daughter, it looks like your molecular show succeeded splendidly!' Barinov states this warning with candor: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Denis, well what do you need from me again?' Katya questions eagerly while looking straight at Denis here.
+- 'How many times must you repeat that there is nothing between us?' Denis anchors one sharp expression toward Barinov: "povtoryat" means "to repeat", and it carries the main weight of what Denis is saying.
+- 'Take twenty thousand and hand her this fifty-ruble bill!' Denis speaks up calmly toward Katya, saying out loud what both of them already know.
+- 'Just make sure you do not tell anyone about our deal!' Denis holds firm evenly beside Barinov, letting the remark speak for itself.
+- 'I think women simply want real love.' Katya highlights this clear element toward Denis: "nastoyashchey" means "true" (from "nastoyashchiy"), giving the line its exact edge.

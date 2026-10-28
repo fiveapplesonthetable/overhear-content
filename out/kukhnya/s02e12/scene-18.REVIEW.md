@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My sister, I mean.' Max picks a lively course in their talk, weaving "sestra" ("sister") together with "smysle" ("sense") just the way native speakers do.
-- 'Give me your hand.' Vika establishes a wry stance as they talk, joining "ruku" ("hand") to "tvoyu" ("your") so every word pulls its weight.
-- 'She is going to like it very much.' Tanya holds an honest posture beside Max, weaving "ochen" ("very much") together with "ponravitsya" ("will please") just the way native speakers do.
-- 'Okay? Listen here?' Max queries naturally right away, leaning on "slushay" ("listen") before closing the thought with "okey" ("okay").
-- 'What are we going to do, huh?' Vika prompts directly toward Max here, leaning on "delat" ("do") before closing the thought with "chto" ("what").
-- 'Our dance of love is only just beginning.' Max keeps a calm style in their talk, weaving "tanets" ("dance") together with "lyubvi" ("love") just the way native speakers do.
-- 'Hold on a second.' Max chooses a lively line at once, combining "pogodi" ("wait") and "nu-ka" ("go on, come on") so the key meaning lands right away.
-- 'Max, Max!' Vika chooses a resolute approach with Tanya, using "maks" ("Max") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Why did he hit you like that?' Tanya asks bluntly in their exchange, pairing "za" ("for") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'It was nothing.' Max shows an emphatic stance with Vika, pairing "da" ("yes") with "tak" ("so") to get the point across in plain spoken Russian.
-- 'Lavrov, I have news for you.' Vika holds a natural posture for Max, linking "novost" ("the news"), "lavrov" ("Lavrov"), and "menya" ("me") in one brisk exchange.
-- 'If you do not like it, get lost, got it?' Max checks frankly in this moment, weaving "ustraivayet" ("to organize") together with "ponyal" ("understood") just the way native speakers do.
-- 'Come over here!' Max adopts a lively mood toward Tanya, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
+- 'My sister, I mean.' Max holds firm steadily without a pause, before Tanya can change the subject.
+- 'Give me your hand.' Vika centers this telling word in earnest: "ruku" means "hand" (from "ruka"), giving the line its exact edge.
+- 'She is going to like it very much.' Tanya sends this line with ease: the "-sya" ending on "ponravitsya" ("will please") turns the action inward or makes it happen between people naturally.
+- 'Okay? Listen here?' Max wonders skeptically in front of Vika without any preamble.
+- 'What are we going to do, huh?' Vika shapes the remark with candor: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Our dance of love is only just beginning.' Max directs this line without pause: the "-sya" ending on "nachinayetsya" ("begins") turns the action inward or makes it happen between people naturally.
+- 'Hold on a second.' Max responds frankly across the room, bringing things back to earth after the buildup.
+- 'Max, Max!' Vika sends this answer facing Tanya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Why did he hit you like that?' Tanya brings the reaction beside Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'It was nothing.' Max steps in wryly without holding back, to clear the air between them once and for all.
+- 'Lavrov, I have news for you.' Vika focuses on this clear touch right here: "novost" means "the news", and it carries the main weight of what Vika is saying.
+- 'If you do not like it, get lost, got it?' Max frames this update briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Come over here!' Max reacts plainly with a sigh, steering the talk right where he wants it.

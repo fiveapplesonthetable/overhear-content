@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Since childhood they teach us to believe in miracles.' Max takes a brisk posture in the room, joining "detstva" ("childhood") to "uchat" ("to learn, to teach") so every word pulls its weight.
-- 'Parents read us kind fairy tales in the evening.' Max chooses an easygoing attitude beside Vika, weaving "roditeli" ("parents") together with "chitayut" ("to read") just the way native speakers do.
-- 'We believe that a miracle will definitely happen.' Max presents a wry bearing in their talk, putting "verim" ("believe") alongside "chudo" ("miracle") in a tight, everyday turn of phrase.
-- 'Sometimes a miracle happens completely unexpectedly.' Max brings an honest course in the conversation, anchoring the Russian line on "inogda" ("sometimes, at times") and "chudo" ("miracle") without extra filler.
-- 'When it seems that the fairy tale has come to an end.' Max shows a resolute attitude at once, joining "kogda" ("when") to "kazhetsya" ("it seems, I think") so every word pulls its weight.
-- 'Your pregnancy is progressing completely normally right now.' Vika sets a resolute direction as they talk, leaning on "beremennost" ("pregnancy") before closing the thought with "seychas" ("now").
-- 'You have no reasons for worry at all.' Vika chooses a serious manner in front of Barinov, putting "prichin" ("reasons") alongside "volneniya" ("all") in a tight, everyday turn of phrase.
-- 'But if a miracle still did not happen...' Max displays a lively note beside Vika, anchoring the Russian line on "chudo" ("miracle") and "proizoshlo" ("happened") without extra filler.
-- 'That means you need to write your own fairy tale yourself!' Max takes a serious approach at this moment, weaving "znachit" ("then, so") together with "nuzhno" ("necessary") just the way native speakers do.
-- 'Chef, tell us, what is this place?' Max quizzes pointedly right away, using "skazhite" (from "skazat", "tell") alongside "shef" ("Chef") to shape the meaning.
-- 'Friends, I did not call you here for nothing.' Barinov displays an honest course in the room, pairing "druzya" ("friends") with "pozval" ("invited") to get the point across in plain spoken Russian.
-- 'Guys, this will be our new restaurant!' Barinov holds a playful bearing as they talk, joining "rebyata" ("the boys, the lads") to "budet" ("will be") so every word pulls its weight.
+- 'Since childhood they teach us to believe in miracles.' Max speaks decisively on the spot, grounding the moment in plain reality.
+- 'Parents read us kind fairy tales in the evening.' Max responds promptly without holding back, steering the talk right where he wants it.
+- 'We believe that a miracle will definitely happen.' Max anchors one clear expression with Barinov: "obyazatelno" means "surely, without fail", and it carries the main weight of what Max is saying.
+- 'Sometimes a miracle happens completely unexpectedly.' Max hands over the reaction at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'When it seems that the fairy tale has come to an end.' Max steps in earnestly on the spot, refusing to let the moment slip past.
+- 'Your pregnancy is progressing completely normally right now.' Vika features one direct word on cue: "beremennost" means "pregnancy", and it carries the main weight of what Vika is saying.
+- 'You have no reasons for worry at all.' Vika drops the remark around Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'But if a miracle still did not happen...' Max pushes back sharply as they talk, shifting the whole mood of the room in a single beat.
+- 'That means you need to write your own fairy tale yourself!' Max focuses on one memorable element in reply: "skazku" means "tale" (from "skazka"), giving the line its exact edge.
+- 'Chef, tell us, what is this place?' Max voices this point briskly now: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Friends, I did not call you here for nothing.' Barinov pushes back briskly hearing Max, saying out loud what both of them already know.
+- 'Guys, this will be our new restaurant!' Barinov points to this vivid term in earnest: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.

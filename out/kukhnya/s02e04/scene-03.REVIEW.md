@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damn, it looks like I forgot my passport at Vika's.' Barinov takes a thoughtful position at this moment, pairing "blin" ("damn") with "pokhodu" ("apparently") to get the point across in plain spoken Russian.
-- 'Unless, of course, she has thrown it out already.' Vika brings a steady attitude at this moment, building the phrase around "konechno" ("of course") and "vybrosila" ("threw out") for a crisp, natural delivery.
-- 'Kostyan, do not be dense, who am I going to call now.' Barinov takes an earnest attitude across the room, linking "tupi" ("be dumb, space out"), "seychas" ("now"), and "pozvonyu" ("will call") in one brisk exchange.
-- 'You should not have cheated on her.' Barinov favors a firm tempo as they talk, linking "bylo" ("was"), "izmenyat" ("to cheat, be unfaithful"), and "nechego" ("nothing") in one brisk exchange.
-- 'So she is there too.' Vika brings a resolute rhythm as the scene unfolds, combining "yest" ("there is") and "tozhe" ("too") so the key meaning lands right away.
-- 'Wait, I still have the keys to the apartment.' Kostya maintains a playful view in the conversation, putting "yest" ("there is") alongside "klyuchi" ("the keys") in a tight, everyday turn of phrase.
-- 'Could you please invite Viktoriya Sergeyevna to the phone.' Barinov displays an unhurried bearing at this moment, putting "priglasite" ("call in, invite") alongside "telefonu" ("phone") in a tight, everyday turn of phrase.
-- 'Is she at work?' Vika probes evenly during the talk, putting "rabote" ("work") alongside "ona" ("it") in a tight, everyday turn of phrase.
-- 'Where is our Viktoriya Sergeyevna?' Kostya probes plainly during the talk, combining "gde" ("where") and "nas" ("us") so the key meaning lands right away.
-- 'She has a day off today.' Barinov holds a resolute position in the room, weaving "segodnya" ("today") together with "vykhodnoy" ("a day off") just the way native speakers do.
-- 'At Viktoriya Sergeyevna's...' Vika picks a calm rhythm in their talk, putting "viktorii" ("Victoria") alongside "sergeyevny" ("Sergeyevna") in a tight, everyday turn of phrase.
-- 'Viktor Petrovich, out there...' Kostya takes a sharp posture as the scene unfolds, building the phrase around "tam" ("there") and "viktor" ("Viktor") for a crisp, natural delivery.
-- 'I want to, but I cannot.' Barinov strikes a warm style as they talk, building the phrase around "khochu" ("want") and "mogu" ("can") for a crisp, natural delivery.
+- 'Damn, it looks like I forgot my passport at Vika's.' Barinov speaks candidly in this moment, bringing things back to earth after the buildup.
+- 'Unless, of course, she has thrown it out already.' Vika emphasizes one clear expression right here: "vybrosila" means "threw out" (from "vybrosit"), giving the line its exact edge.
+- 'Kostyan, do not be dense, who am I going to call now.' Barinov speaks warmly with Kostya, before Kostya can change the subject.
+- 'You should not have cheated on her.' Barinov speaks up bluntly in this moment, before Vika can change the subject.
+- 'So she is there too.' Vika chooses one direct element in reply: "tozhe" means "too", and it carries the main weight of what Vika is saying.
+- 'Wait, I still have the keys to the apartment.' Kostya drops that point right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Could you please invite Viktoriya Sergeyevna to the phone.' Barinov pushes back evenly with a shrug, without trying to dress up how he really feels.
+- 'Is she at work?' Vika frames this key touch in reply: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'Where is our Viktoriya Sergeyevna?' Kostya voices the comment with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'She has a day off today.' Barinov proceeds decisively in their talk, letting the remark speak for itself.
+- 'At Viktoriya Sergeyevna's...' Vika states that thought at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Viktor Petrovich, out there...' Kostya shares this statement in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I want to, but I cannot.' Barinov replies promptly on the spot, shifting the whole mood of the room in a single beat.

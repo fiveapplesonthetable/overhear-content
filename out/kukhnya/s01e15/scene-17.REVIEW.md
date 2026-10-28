@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I want to move to your place.' Getting right to the point, Max uses the casual, friendly "you" to suggest moving in together.
 - 'Do you have nowhere to live?' Vika turns a simple observation into a probing question just by pitching her voice up on "nowhere."
 - 'No, I have a million options.' Trying to sound cool, Max boasts using a classic phrasing pattern, literally saying "at me" there are a million choices.
-- 'Kostya is calling me back.' Casually mentioning his friend, Max puts the name "Kostya" right next to the action of calling back.
+- 'Kostya is calling me back.' Trying to sound in high demand, Max brags that Kostya is already asking him to move back in.
 - 'Leva is also inviting me to live.' Adding more proof of his popularity, Max pairs "Lyova" with the word for "too" to show how wanted he is.
 - 'But I am ready to live with you.' Dropping the tough act, Max switches back to the familiar "you" to admit where he really wants to be.
 - 'What do you want to say?' Gently pushing him to be more direct, Vika relies on a very common everyday phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, go ahead, what do you want to name him?' Nastya questions frankly to keep things clear, building the phrase around "khorosho" ("good, fine") and "davay" ("let's") for a crisp, natural delivery.
-- 'Nothing of the sort, dear Nastya.' Kostya brings an easygoing bearing as they talk, combining "podobnogo" ("of the sort") and "dorogaya" ("expensive") so the key meaning lands right away.
-- 'Dmitry is a very handsome name.' Kostya shares an emphatic bearing at once, putting "ochen" ("very much") alongside "krasivoye" ("beautiful") in a tight, everyday turn of phrase.
-- 'Well look closely for yourself.' Kostya sustains a pointed tempo in this beat, weaving "vnimatelno" ("carefully, attentively") together with "smotri" ("look") just the way native speakers do.
-- 'Here is Dmitry, and here is some Kuzma.' Kostya sets a calm view in this beat, leaning on "tut" ("here") before closing the thought with "dmitriy" ("Dmitry").
-- 'You know, the name Dmitry at least sounds good.' Kostya brings a serious tempo with Nastya, putting "znayesh" ("know") alongside "imya" ("name") in a tight, everyday turn of phrase.
-- 'And what is wrong with the name Kuzma for you?' Nastya checks quietly in front of Kostya, anchoring the Russian line on "plokho" ("badly") and "imya" ("name") without extra filler.
-- 'Honestly, I do not even know that.' Kostya takes a clear style for Nastya, putting "chestno" ("honestly") alongside "znayu" ("know") in a tight, everyday turn of phrase.
-- 'Let us ask Max right now.' Kostya takes a thoughtful mood in the conversation, anchoring the Russian line on "davay" ("let's") and "seychas" ("now") without extra filler.
-- 'Max, tell us, Dmitry is better, right?' Kostya prompts calmly as they speak, weaving "skazhi" ("say") together with "luchshe" ("better") just the way native speakers do.
-- 'Take your order, please.' Max maintains a natural note in the room, leaning on "vozmite" ("take") before closing the thought with "zakaz" ("order").
-- 'Well, what will you tell us, Max?' Nastya checks promptly without a pause, putting "skazhesh" ("will you say") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Alright, go ahead, what do you want to name him?' Nastya delivers this point before Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Nothing of the sort, dear Nastya.' Kostya continues calmly toward Nastya, bringing things back to earth after the buildup.
+- 'Dmitry is a very handsome name.' Kostya favors one direct detail toward Max: "krasivoye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'Well look closely for yourself.' Kostya frames that answer calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Here is Dmitry, and here is some Kuzma.' Kostya answers bluntly during the talk, steering the talk right where he wants it.
+- 'You know, the name Dmitry at least sounds good.' Kostya centers one pointed element in earnest: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'And what is wrong with the name Kuzma for you?' Nastya makes this line with ease: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Honestly, I do not even know that.' Kostya speaks quietly with a shrug, so Nastya knows he is not just making small talk.
+- 'Let us ask Max right now.' Kostya uses one memorable element in reply: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'Max, tell us, Dmitry is better, right?' Kostya directs that line around Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Take your order, please.' Max chimes in plainly in this moment, so Kostya knows he is not just making small talk.
+- 'Well, what will you tell us, Max?' Nastya colors one vivid term in reply: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what did you just feed the guests?' Nagiyev questions boldly during the talk, combining "skazhite" ("tell") and "gostey" ("guests") so the key meaning lands right away.
-- 'I lost all my money tonight because of you!' Nagiyev strikes a sharp style in front of Max, building the phrase around "dengi" ("money") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Wait, what on earth just happened?' Barinov prompts wryly at this point, anchoring the Russian line on "podozhdite" ("wait") and "voobshche" ("at all") without extra filler.
-- 'That was probably Max's new signature sauce!' Barinov sets a pointed attitude as the scene unfolds, leaning on "navernoye" ("probably") before closing the thought with "novyy" ("new").
-- 'Let's sort everything out tomorrow instead, Dima.' Barinov displays a resolute angle with Max, weaving "davay" ("let's") together with "luchshe" ("better") just the way native speakers do.
-- 'Maybe it is the ghost of Grandpa Kirill taking revenge on us again?' Max challenges boldly in their exchange, pairing "mozhet" ("can") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'Dima, really, some kind of devilry is going on in the kitchen!' Barinov strikes an unhurried course beside Max, joining "deystvitelno" ("really, indeed") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'I am fed up, I will come tomorrow and punish everyone strictly!' Nagiyev shares a playful stance toward Max, combining "nadoyelo" ("has got boring") and "zavtra" ("tomorrow") so the key meaning lands right away.
-- 'Get out of here, I do not want to see you anymore!' Nagiyev strikes a wry bearing in the conversation, linking "ukhodite" ("leave, go away"), "otsyuda" ("from here"), and "videt" ("to see") in one brisk exchange.
-- 'And who is going to clean up in the kitchen, the ghost of the cleaning lady?' Barinov tests wryly in their exchange, building the phrase around "ubirat" ("to clean") and "kukhne" ("kitchen") for a crisp, natural delivery.
-- 'Alright, we are all leaving, until tomorrow, Chef!' Max shares a measured rhythm for Barinov, pairing "ukhodim" ("are leaving") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
-- 'Poker is that kind of game, brother, unpredictable!' Max chooses a natural approach without hesitation, linking "poker" ("poker"), "igra" ("game"), and "brat" ("brother") in one brisk exchange.
+- 'Tell me, what did you just feed the guests?' Nagiyev wonders sharply whether Barinov really thought this through.
+- 'I lost all my money tonight because of you!' Nagiyev favors one direct word at once: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
+- 'Wait, what on earth just happened?' Barinov shapes this statement in earnest: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'That was probably Max's new signature sauce!' Barinov answers plainly during the talk, leaving no doubt about where he stands.
+- 'Let's sort everything out tomorrow instead, Dima.' Barinov picks one vivid detail in earnest: "razbiratsya" means "to understand well", and it carries the main weight of what Barinov is saying.
+- 'Maybe it is the ghost of Grandpa Kirill taking revenge on us again?' Max frames the remark in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Dima, really, some kind of devilry is going on in the kitchen!' Barinov replies promptly to settle things, keeping the focus on what actually matters here.
+- 'I am fed up, I will come tomorrow and punish everyone strictly!' Nagiyev colors one loaded touch right here: "nadoyelo" means "has got boring" (from "nadoyest"), giving the line its exact edge.
+- 'Get out of here, I do not want to see you anymore!' Nagiyev stresses this key element on cue: "ukhodite" means "leave, go away" (from "ukhodit"), giving the line its exact edge.
+- 'And who is going to clean up in the kitchen, the ghost of the cleaning lady?' Barinov wonders sharply whether Nagiyev really thought this through.
+- 'Alright, we are all leaving, until tomorrow, Chef!' Max picks this direct touch at once: "ukhodim" means "are leaving" (from "ukhodit"), giving the line its exact edge.
+- 'Poker is that kind of game, brother, unpredictable!' Max directs that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

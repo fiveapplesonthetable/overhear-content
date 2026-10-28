@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not look into his eyes!' Kostya takes a lively attitude with the inspector, building the phrase around "smotri" ("look") and "glaza" ("eyes") for a crisp, natural delivery.
-- 'Excuse me, please, they are calling you to reception over there.' Max presents a steady bearing in their talk, putting "prostite" ("excuse me") alongside "tam" ("there") in a tight, everyday turn of phrase.
-- 'They made a mistake, I do not live in this hotel.' The inspector offers an emphatic posture right away, linking "oshiblis" ("to make a mistake"), "zhivu" ("live"), and "otele" ("in the hotel") in one brisk exchange.
-- 'You know, I mixed it up.' Max conveys a resolute tack as they talk, building the phrase around "znayete" ("know") and "pereputal" ("mixed up, confused") for a crisp, natural delivery.
-- 'They are asking you to repark your car.' Max displays an unhurried tempo at this moment, putting "prosyat" ("they're asking") alongside "pereparkovat" ("to repark, move a car") in a tight, everyday turn of phrase.
-- 'I am without a car.' The inspector brings a natural style at once, anchoring the Russian line on "mashiny" ("cars") and "ya" ("I") without extra filler.
-- 'And it seems they are calling you to the cloakroom.' Max displays a resolute position for the inspector, weaving "garderob" ("cloakroom") together with "pozovut" ("will call") just the way native speakers do.
-- 'What is going on?' The inspector prompts lightly during the talk, anchoring the Russian line on "proiskhodit" ("is going on") and "chto" ("what") without extra filler.
-- 'I looked into his eyes!' Max presents a clear mood during the exchange, leaning on "glaza" ("eyes") before closing the thought with "posmotrel" ("looked, had a look").
-- 'And do you know who I am?' The inspector tests openly without holding back, putting "znayete" ("know") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'A fraudster! You did not pay the bill!' Max adopts a measured style as they talk, joining "moshennik" ("con artist") to "oplatil" ("paid for") so every word pulls its weight.
-- 'Everything is fine!' Kostya adopts a candid angle in the scene, pairing "normalno" ("fine, OK") with "vsyo" ("everything") to get the point across in plain spoken Russian.
+- 'Do not look into his eyes!' Kostya speaks decisively across the room, bringing things back to earth after the buildup.
+- 'Excuse me, please, they are calling you to reception over there.' Max reaches for one key touch right here: "resepshenu" means "across the reception desk" (from "resepshen"), giving the line its exact edge.
+- 'They made a mistake, I do not live in this hotel.' The inspector sends the comment around Kostya: the "-sya" ending on "oshiblis" ("to make a mistake") turns the action inward or makes it happen between people naturally.
+- 'You know, I mixed it up.' Max fires back pointedly in their talk, leaving no doubt about where he stands.
+- 'They are asking you to repark your car.' Max colors one key detail in reply: "pereparkovat" means "to repark, move a car", and it carries the main weight of what Max is saying.
+- 'I am without a car.' The inspector shapes that point with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And it seems they are calling you to the cloakroom.' Max pushes back quietly in their talk, to clear the air between them once and for all.
+- 'What is going on?' The inspector frames this sharp touch right here: "proiskhodit" means "is going on", and it carries the main weight of what the inspector is saying.
+- 'I looked into his eyes!' Max follows up earnestly in their talk, watching the inspector's face to see how the news lands.
+- 'And do you know who I am?' The inspector checks sharply whether Max really thought this through.
+- 'A fraudster! You did not pay the bill!' Max colors this clear detail with the inspector: "moshennik" means "con artist", and it carries the main weight of what Max is saying.
+- 'Everything is fine!' Kostya phrases that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

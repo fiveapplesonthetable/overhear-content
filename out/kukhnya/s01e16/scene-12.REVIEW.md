@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'In this world rats are enemies.' Setting up a metaphor about illegal workers, the official declares that rodents are the villains.
 - 'Everyone hates them very much.' Lanovsky stresses the universal dislike for these metaphorical pests.
-- 'And you also do not like rats.' Pointing directly at the chef, the speaker assumes his listener shares this strong aversion.
+- 'And you also do not like rats.' Comparing undocumented workers to pests, Lanovsky coldly assumes the chef dislikes rats too.
 - 'Mice are very similar to them.' The conversation shifts to a slightly different animal, drawing a comparison between the two.
 - 'Yes, I do not like them.' Barinov agrees with the statement, confirming his distaste for the rodents.
 - 'They are like cute mice.' Lanovsky contrasts the hated pests with something that might seem innocent and harmless.
 - 'But everyone hates rats.' Circling back to his main point, the officer reiterates the absolute disgust people have for the real troublemakers.
 - 'Excuse me, they are calling me.' A sudden phone call interrupts the dramatic monologue, prompting a quick apology.
-- 'Yes, I am listening to you.' Answering the phone, the speaker adopts a formal and attentive tone.
+- 'Yes, I am listening to you.' When his phone rings mid-sentence, Lanovsky answers briskly to hear his team's report.
 - 'Where are they? In the fridge?' The official repeats the shocking information he just heard over the phone, giving away the hiding spot.
 - 'Great, we are going now.' Expressing satisfaction with the tip, the caller announces their immediate departure to investigate.
 - 'Viktor Petrovich, let us go with me.' Lanovsky invites the chef to accompany him, making it clear that they are about to uncover the truth together.

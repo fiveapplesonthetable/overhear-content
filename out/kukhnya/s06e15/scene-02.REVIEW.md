@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, did you dislike something?' Lyova challenges sharply from the start, pairing "ponravilos" ("pleased, was liked") with "dobryy" ("good") so the "-sya" ending carries the action.
-- 'On the contrary, I decided to thank you personally.' The guest adopts a serious tack as the scene unfolds, leaning on "reshil" ("has decided") before closing the thought with "lichno" ("personally").
-- 'Thank you for the wonderful dish from the chef.' The guest takes a thoughtful manner in this beat, anchoring the Russian line on "spasibo" ("thank you") and "prekrasnoye" ("wonderful, fine") without extra filler.
-- 'Honestly speaking, today it is from the sous-chef.' Lyova establishes a lively mood in the scene, pairing "chestno" ("honestly") with "govorya" ("speaking") to get the point across in plain spoken Russian.
-- 'I know very well who you are.' The guest shows an honest stance at this moment, linking "prekrasno" ("perfectly"), "znayu" ("know"), and "ya" ("I") in one brisk exchange.
-- 'Most likely, you have already heard about me.' The guest presents a firm posture beside Lyova, pairing "skoreye" ("quickly, right away") with "slyshali" ("did you hear") to get the point across in plain spoken Russian.
-- 'I am launching an interesting new project.' The guest sustains a brisk rhythm without hesitation, using "zapuskayu" (from "zapuskat", "launch, start up") alongside "novyy" ("new") to shape the meaning.
-- 'I want to invite you to work for me.' The guest establishes an earnest attitude on the spot, leaning on "khochu" ("want") before closing the thought with "priglasit" ("to invite").
-- 'To work as head chef, I do not know.' Lyova displays a lively note right away, linking "rabotat" ("to work"), "glavnym" ("important"), and "shef-povarom" ("head chef") in one brisk exchange.
-- 'You do not need to know, you just need to think.' The guest strikes a firm tone at this moment, linking "nado" ("it is necessary"), "znat" ("to know"), and "prosto" ("just") in one brisk exchange.
-- 'I will give you my business card right now.' The guest shares a wry mood in the room, anchoring the Russian line on "seychas" ("now") and "dam" ("will give") without extra filler.
-- 'Think it over well and call me tomorrow.' The guest picks a thoughtful bearing beside Lyova, pairing "khoroshenko" ("properly, thoroughly") with "podumayte" ("think") to get the point across in plain spoken Russian.
+- 'Good evening, did you dislike something?' Lyova shapes the comeback around the guest: the "-sya" ending on "ponravilos" ("pleased, was liked") turns the action inward or makes it happen between people naturally.
+- 'On the contrary, I decided to thank you personally.' The guest reacts evenly during the talk, before Lyova can change the subject.
+- 'Thank you for the wonderful dish from the chef.' The guest uses one telling choice in earnest: "prekrasnoye" means "wonderful, fine" (from "prekrasnyy"), giving the line its exact edge.
+- 'Honestly speaking, today it is from the sous-chef.' Lyova cuts in calmly with a sigh, saying out loud what both of them already know.
+- 'I know very well who you are.' The guest steps in warmly around Lyova, making his position completely clear.
+- 'Most likely, you have already heard about me.' The guest anchors one classic expression for Lyova: "slyshali" means "did you hear" (from "slyshat"), giving the line its exact edge.
+- 'I am launching an interesting new project.' The guest stands firm sharply with Lyova, grounding the moment in plain reality.
+- 'I want to invite you to work for me.' The guest cuts in quietly with a nod, grounding the moment in plain reality.
+- 'To work as head chef, I do not know.' Lyova colors this vivid choice for the guest: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'You do not need to know, you just need to think.' The guest phrases the comment at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I will give you my business card right now.' The guest opens up at once watching Lyova, keeping the focus on what actually matters here.
+- 'Think it over well and call me tomorrow.' The guest centers this clear word on cue: "khoroshenko" means "properly, thoroughly", and it carries the main weight of what the guest is saying.

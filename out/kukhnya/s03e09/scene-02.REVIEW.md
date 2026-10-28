@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Of course you can, let us go cure our hangover.' Barinov strikes a serious approach as the scene unfolds, linking "konechno" ("of course"), "mozhno" ("may, can"), and "poydyom" ("let's go") in one brisk exchange.
-- 'Hello, Nastya has a day off today.' Kostya picks a serious view in the conversation, putting "zdravstvuyte" ("hello") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'I can see that she has a day off.' Max conveys an honest direction at this moment, using "vizhu" (from "videt", "see") alongside "vykhodnoy" ("a day off") to shape the meaning.
-- 'I came specifically to see you.' Max displays a lively footing during the exchange, leaning on "prishyol" ("came, have come") before closing the thought with "ya" ("I").
-- 'Then I am listening to you carefully.' Kostya brings a natural stance as the scene unfolds, weaving "togda" ("back then") together with "vnimatelno" ("carefully, attentively") just the way native speakers do.
-- 'This is none of my business, of course.' Max projects an unhurried rhythm in the scene, joining "konechno" ("of course") to "delo" ("matter") so every word pulls its weight.
-- 'Are you planning to marry Nastya?' Max prompts candidly in the scene, linking "zhenitsya" ("to marry"), "sobirayeshsya" ("plan"), and "ty" ("you") in one brisk exchange.
-- 'Of course, we will definitely get married.' Kostya projects a natural note for Max, linking "konechno" ("of course"), "obyazatelno" ("surely, without fail"), and "pozhenimsya" ("will get married") in one brisk exchange.
-- 'And just when will that happen?' Max quizzes dryly as they speak, weaving "kogda" ("when") together with "budet" ("will be") just the way native speakers do.
-- 'Actually, we are saving up for the wedding right now.' Kostya picks an earnest posture in their talk, joining "voobshche-to" ("actually") to "seychas" ("now") so every word pulls its weight.
-- 'And could you not just ask me for it?' Max asks honestly in front of Barinov, building the phrase around "poprosit" ("to ask") and "nelzya" ("not allowed") for a crisp, natural delivery.
-- 'We want to do everything ourselves.' Kostya displays a resolute tack in this beat, putting "khotim" ("want") alongside "sdelat" ("to do") in a tight, everyday turn of phrase.
+- 'Of course you can, let us go cure our hangover.' Barinov puts the thought calmly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Hello, Nastya has a day off today.' Kostya holds firm sharply with a smile, saying out loud what both of them already know.
+- 'I can see that she has a day off.' Max leans on one sharp choice for Barinov: "vykhodnoy" means "a day off", and it carries the main weight of what Max is saying.
+- 'I came specifically to see you.' Max colors one telling term toward Kostya: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'Then I am listening to you carefully.' Kostya continues briskly hearing Barinov, shifting the whole mood of the room in a single beat.
+- 'This is none of my business, of course.' Max sharpens one classic touch right here: "konechno" means "of course", and it carries the main weight of what Max is saying.
+- 'Are you planning to marry Nastya?' Max shares that thought without pause: the "-sya" ending on "sobirayeshsya" ("plan") turns the action inward or makes it happen between people naturally.
+- 'Of course, we will definitely get married.' Kostya jumps in wryly hearing Max, steering the talk right where he wants it.
+- 'And just when will that happen?' Max offers that thought toward Barinov: putting the question word "kogda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Actually, we are saving up for the wedding right now.' Kostya lays out the reply before Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'And could you not just ask me for it?' Max presses calmly if there is more going on behind the scenes.
+- 'We want to do everything ourselves.' Kostya highlights one loaded piece for Max: "khotim" means "want" (from "khotet"), giving the line its exact edge.

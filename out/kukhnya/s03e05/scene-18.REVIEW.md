@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'An excellent car, I congratulate you.' Max takes a thoughtful tempo straight away, joining "otlichnaya" ("excellent") to "mashina" ("a car") so every word pulls its weight.
-- 'I think our Vika will be very pleased.' Nagiyev displays a pointed direction with Max, putting "dumayu" ("I think") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'Wait, so this is a gift for Vika?' Max checks naturally without a pause, pairing "podozhdite" ("wait") with "podarok" ("gift, voucher") to get the point across in plain spoken Russian.
-- 'Now your head has started working.' Nagiyev favors a lively note right away, joining "nachala" ("beginning") to "golova" ("head") so every word pulls its weight.
-- 'After all, you told me yourself yesterday.' Nagiyev shares a measured stance as they talk, weaving "vchera" ("yesterday") together with "skazal" ("said") just the way native speakers do.
-- 'You said that Vika loves expensive gifts.' Nagiyev brings a calm view in the room, combining "skazal" ("said") and "lyubit" ("loves") so the key meaning lands right away.
-- 'So I immediately went and bought it.' Nagiyev favors a calm angle in the scene, building the phrase around "srazu" ("at once") and "poshyol" ("went, set off") for a crisp, natural delivery.
-- 'My head works great too.' Nagiyev conveys an emphatic footing on the spot, using the everyday "u menya" ("by me") alongside "tozhe" ("too") to show what belongs to the speaker.
-- 'Kostya, here is who I need right now.' Nagiyev sets a clear direction across the room, anchoring the Russian line on "seychas" ("now") and "nuzhen" ("is needed") without extra filler.
-- 'Take the keys to my new car.' Nagiyev establishes an honest rhythm beside Max, pairing "vozmi" ("take, pick up") with "klyuchi" ("the keys") to get the point across in plain spoken Russian.
-- 'You will give them to the guard so he drives it up to the terrace in half an hour.' Nagiyev displays a firm position during the exchange, combining "dash" ("to give") and "okhranniku" ("security guard") so the key meaning lands right away.
-- 'Alright, Dmitry Vladimirovich, I will do everything.' Kostya displays a clear line beside Nagiyev, linking "khorosho" ("good, fine"), "sdelayu" ("I'll do"), and "dmitriy" ("Dmitry") in one brisk exchange.
+- 'An excellent car, I congratulate you.' Max speaks lightly without holding back, keeping the focus on what actually matters here.
+- 'I think our Vika will be very pleased.' Nagiyev features one pointed piece on cue: "dovolna" means "happy, pleased" (from "dovolnyy"), giving the line its exact edge.
+- 'Wait, so this is a gift for Vika?' Max makes this statement frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Now your head has started working.' Nagiyev speaks up firmly with a smile, making his position completely clear.
+- 'After all, you told me yourself yesterday.' Nagiyev spotlights one classic choice right here: "vchera" means "yesterday", and it carries the main weight of what Nagiyev is saying.
+- 'You said that Vika loves expensive gifts.' Nagiyev continues promptly across the room, making his position completely clear.
+- 'So I immediately went and bought it.' Nagiyev speaks up quietly without a pause, to clear the air between them once and for all.
+- 'My head works great too.' Nagiyev stresses one colorful expression in earnest: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
+- 'Kostya, here is who I need right now.' Nagiyev states the reaction for Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Take the keys to my new car.' Nagiyev cuts in promptly in their talk, grounding the moment in plain reality.
+- 'You will give them to the guard so he drives it up to the terrace in half an hour.' Nagiyev features one loaded detail with Kostya: "okhranniku" means "security guard" (from "okhrannik"), giving the line its exact edge.
+- 'Alright, Dmitry Vladimirovich, I will do everything.' Kostya offers the thought in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".

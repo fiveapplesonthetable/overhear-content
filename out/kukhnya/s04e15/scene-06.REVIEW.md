@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am asking once more, where are my thickeners?' Katya wonders bluntly to Denis here, anchoring the Russian line on "yeshchyo" ("more, still") and "raz" ("time, once") without extra filler.
-- 'Last night I left rare powders here.' Katya favors a candid approach across the room, linking "vchera" ("yesterday"), "vecherom" ("in the evening"), and "ostavlyala" ("to leave") in one brisk exchange.
-- 'Katya, I know where your strange powders are.' Denis keeps a firm bearing on the spot, joining "znayu" ("know") to "gde" ("where") so every word pulls its weight.
-- 'German Mikhailovich, look what these clowns did!' Katya chooses a frank attitude without hesitation, pairing "posmotrite" ("look") with "klouny" ("clown") to get the point across in plain spoken Russian.
-- 'Tonight we have an important molecular show.' Katya projects an emphatic position in the conversation, joining "segodnya" ("today") to "vecherom" ("in the evening") so every word pulls its weight.
-- 'Nagiyev invited very important guests to the hall!' Katya sets a calm view at this moment, pairing "pozval" ("invited") with "zal" ("hall") to get the point across in plain spoken Russian.
-- 'Yes, the molecular show is davvero important.' German favors an unhurried note in front of Denis, pairing "molekulyarnoye" ("molecular") with "shou" ("show") to get the point across in plain spoken Russian.
-- 'Katya, can one really not just buy these additives?' German prompts decisively without hesitation, linking "nelzya" ("not allowed"), "prosto" ("just"), and "kupit" ("buy") in one brisk exchange.
-- 'They are not sold in an ordinary store at all!' Katya shares a candid course in front of Denis, pairing "prodayutsya" ("to be sold") with "obychnom" ("normal, regular") so the "-sya" ending carries the action.
-- 'One must urgently go to the other end of Moscow.' Katya favors a frank note in this beat, weaving "nado" ("it is necessary") together with "srochno" ("urgent, urgently") just the way native speakers do.
-- 'One needs to meet with the supplier, and there is little time.' Katya takes a resolute position in the room, linking "nuzhno" ("necessary"), "vstretitsya" ("to meet"), and "postavshchikom" ("supplier, purveyor") in one brisk exchange.
-- 'Katya, let me quickly make a round trip for them!' Denis offers a brisk style in this beat, leaning on "davay" ("let's") before closing the thought with "bystro" ("quickly").
+- 'I am asking once more, where are my thickeners?' Katya quizzes straight out whether Denis really thought this through.
+- 'Last night I left rare powders here.' Katya underscores one concrete piece in earnest: "ostavlyala" means "to leave" (from "ostavlyat"), giving the line its exact edge.
+- 'Katya, I know where your strange powders are.' Denis sharpens one telling touch at once: "strannyye" means "strange" (from "strannyy"), giving the line its exact edge.
+- 'German Mikhailovich, look what these clowns did!' Katya responds lightly across the room, shifting the whole mood of the room in a single beat.
+- 'Tonight we have an important molecular show.' Katya underscores one classic expression for Denis: "molekulyarnoye" means "molecular" (from "molekulyarnyy"), giving the line its exact edge.
+- 'Nagiyev invited very important guests to the hall!' Katya answers promptly watching German, saying out loud what both of them already know.
+- 'Yes, the molecular show is davvero important.' German speaks up earnestly with a smile, steering the talk right where he wants it.
+- 'Katya, can one really not just buy these additives?' German stresses one clear term with Katya: "dobavki" means "seconds" (from "dobavka"), giving the line its exact edge.
+- 'They are not sold in an ordinary store at all!' Katya makes that thought on cue: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'One must urgently go to the other end of Moscow.' Katya speaks up honestly beside German, so German knows she is not just making small talk.
+- 'One needs to meet with the supplier, and there is little time.' Katya picks one loaded piece with Denis: "postavshchikom" means "supplier, purveyor" (from "postavshchik"), giving the line its exact edge.
+- 'Katya, let me quickly make a round trip for them!' Denis lays out the remark at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

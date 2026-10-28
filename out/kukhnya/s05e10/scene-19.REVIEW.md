@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will never be able to get a higher category.' Vika projects a direct bearing with Kostya, building the phrase around "nikogda" ("never") and "smozhete" ("will be able to") for a crisp, natural delivery.
-- 'Under no conditions!' Vika picks a grounded note straight away, pairing "usloviyakh" ("conditions") with "ni" ("not even, nor") to get the point across in plain spoken Russian.
-- 'I will finish having dinner, and you think it over.' Vika keeps an earnest style in the scene, building the phrase around "zakonchu" ("will finish") and "uzhinat" ("to dine") for a crisp, natural delivery.
-- 'Listen to me carefully.' Max shares a measured note on the spot, combining "slushay" ("listen") and "vnimatelno" ("carefully, attentively") so the key meaning lands right away.
-- 'When I snap my fingers, you will wake up and remember nothing.' Max keeps a sharp position beside Kostya, pairing "kogda" ("when") with "shchyolknu" ("snap") to get the point across in plain spoken Russian.
-- 'Caught you! Here is the evidence!' Kostya sets a lively style on the spot, anchoring the Russian line on "popalas" ("got caught") and "uliki" ("evidence, clues") without extra filler.
-- 'Right, Nastya, do not look into her eyes!' Kostya displays a calm rhythm during the exchange, linking "nado" ("it is necessary"), "smotret" ("to watch"), and "glaza" ("eyes") in one brisk exchange.
-- 'Nastya, turn away! Max, grab her!' Kostya keeps a pointed manner for Vika, linking "otvernis" ("to turn away"), "khvatay" ("grab"), and "nastya" ("Nastya") in one brisk exchange.
-- 'Kostya, come on, grab her!' Vika takes a candid tack in the room, leaning on "davay" ("let's") before closing the thought with "khvatay" ("grab").
-- 'Max, hold this guy!' Vika sustains a clear approach as the scene unfolds, using "derzhi" (from "derzhat", "here you go") alongside "parnya" ("boyfriend") to shape the meaning.
-- 'Max, what is with you?' Kostya asks frankly from the start, pairing "maks" ("Max") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'Stand where you are!' Max maintains a direct manner with Vika, combining "stoyat" ("to stand") and "meste" ("place") so the key meaning lands right away.
+- 'You will never be able to get a higher category.' Vika sharpens this vivid word in reply: "kategoriyu" means "category" (from "kategoriya"), giving the line its exact edge.
+- 'Under no conditions!' Vika sends the remark right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I will finish having dinner, and you think it over.' Vika counters calmly with a sigh, to clear the air between them once and for all.
+- 'Listen to me carefully.' Max features one familiar word in reply: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Max is saying.
+- 'When I snap my fingers, you will wake up and remember nothing.' Max lays out this update right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Caught you! Here is the evidence!' Kostya answers evenly during the talk, saying out loud what both of them already know.
+- 'Right, Nastya, do not look into her eyes!' Kostya features this vivid detail at once: "smotret" means "to watch", and it carries the main weight of what Kostya is saying.
+- 'Nastya, turn away! Max, grab her!' Kostya directs this update without pause: the "-sya" ending on "otvernis" ("to turn away") turns the action inward or makes it happen between people naturally.
+- 'Kostya, come on, grab her!' Vika speaks promptly toward Kostya, grounding the moment in plain reality.
+- 'Max, hold this guy!' Vika focuses on one key touch in reply: "parnya" means "boyfriend" (from "paren"), giving the line its exact edge.
+- 'Max, what is with you?' Kostya drops this update with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Stand where you are!' Max chimes in pointedly without holding back, refusing to let the moment slip past.

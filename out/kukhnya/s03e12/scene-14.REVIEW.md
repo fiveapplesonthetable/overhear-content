@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth are you doing here?' Nagiyev wonders calmly in the room, joining "tut" ("here") to "voobshche" ("at all") so every word pulls its weight.
-- 'That is my new car!' Nagiyev shares a candid bearing in front of Max, putting "novaya" ("new") alongside "mashina" ("a car") in a tight, everyday turn of phrase.
-- 'And what if I had been sitting inside?' Nagiyev presses briskly at this point, building the phrase around "vnutri" ("inside") and "sidel" ("did time") for a crisp, natural delivery.
-- 'That old man had a real grenade!' Max sets a calm note for Nagiyev, leaning on "deda" ("grandfathers") before closing the thought with "granata" ("grenade").
-- 'Catch these bandits quickly!' Nagiyev sets a grounded style in front of Katya, putting "derzhite" ("hold") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
-- 'They are the ones who caused the explosion here!' Nagiyev offers a frank footing in this beat, putting "tut" ("here") alongside "vzryv" ("explosion") in a tight, everyday turn of phrase.
-- 'Katya, what if the landlady comes back again?' Max inquires boldly without a pause, pairing "khozyayka" ("landlady") with "snova" ("again") to get the point across in plain spoken Russian.
-- 'It is your apartment and your problems.' Katya brings an earnest tack without hesitation, combining "kvartira" ("flat") and "problemy" ("problems") so the key meaning lands right away.
-- 'Well stay for at least a couple of hours.' Max presents a sharp tack in front of Katya, pairing "ostansya" ("to remain, to be left") with "paru" ("couple") so the "-sya" ending carries the action.
-- 'I almost got in trouble because of you too.' Katya keeps a thoughtful manner in their talk, linking "tozhe" ("too"), "chut" ("almost, nearly"), and "popala" ("got hit") in one brisk exchange.
-- 'You said yourself that we are even.' Katya offers a calm course straight away, using "skazal" (from "skazat", "said") alongside "raschete" ("even, square") to shape the meaning.
-- 'Katya, wait a moment, do not leave right now.' Max shows a frank tack as they talk, using "pogodi" (from "pogodit", "wait") alongside "ukhodi" ("go away") to shape the meaning.
+- 'What on earth are you doing here?' Nagiyev puts this line beside Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'That is my new car!' Nagiyev opens up boldly without holding back, testing Max's reaction in the middle of the exchange.
+- 'And what if I had been sitting inside?' Nagiyev spotlights one colorful detail in reply: "vnutri" means "inside", and it carries the main weight of what Nagiyev is saying.
+- 'That old man had a real grenade!' Max answers candidly to settle things, leaving no doubt about where he stands.
+- 'Catch these bandits quickly!' Nagiyev answers right away in this moment, shifting the whole mood of the room in a single beat.
+- 'They are the ones who caused the explosion here!' Nagiyev uses one loaded choice with Max: "ustroili" means "to arrange" (from "ustroit"), giving the line its exact edge.
+- 'Katya, what if the landlady comes back again?' Max gives that remark with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'It is your apartment and your problems.' Katya continues pointedly without a pause, testing Nagiyev's reaction in the middle of the exchange.
+- 'Well stay for at least a couple of hours.' Max points to this vivid detail on cue: "ostansya" means "to remain, to be left" (from "ostatsya"), giving the line its exact edge.
+- 'I almost got in trouble because of you too.' Katya highlights one practical word in reply: "popala" means "got hit" (from "popast"), giving the line its exact edge.
+- 'You said yourself that we are even.' Katya weighs in right away as things stand, steering the talk right where she wants it.
+- 'Katya, wait a moment, do not leave right now.' Max frames one classic element in earnest: "seychas" means "now", and it carries the main weight of what Max is saying.

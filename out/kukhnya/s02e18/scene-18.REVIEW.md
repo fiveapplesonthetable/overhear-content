@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Monday really is a heavy day.' Max conveys a natural course as they talk, linking "ponedelnik" ("Monday") directly with "den" ("day"), since Russian drops "is" and "are" in the present.
-- 'Well then.' Barinov strikes a brisk view right away, combining "nu" ("oh, come on") and "chto" ("what") so the key meaning lands right away.
-- 'Here are your Chinese tips.' Fedya sets a playful tempo toward Barinov, linking "kitayskiye" ("Chinese") directly with "chayevyye" ("tips"), since Russian drops "is" and "are" in the present.
-- 'Come over here.' Max favors a clear course as the scene unfolds, combining "idi" ("go") and "syuda" ("here") so the key meaning lands right away.
-- 'Take it, you earned this today.' Barinov chooses a lively mood in this beat, leaning on "beri" ("take, grab") before closing the thought with "zasluga" ("merit, credit").
-- 'Chef, let us split it among all of us.' Fedya adopts a brisk bearing as they talk, joining "davayte" ("let's") to "podelim" ("we'll divide") so every word pulls its weight.
-- 'I believe that is fair.' Max establishes a resolute manner in the conversation, putting "schitayu" ("am counting") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'That everything turned out so wonderfully today.' Barinov projects a sharp angle toward Max, linking "segodnya" ("today"), "zamechatelno" ("wonderful"), and "poluchilos" ("worked out") in one brisk exchange.
-- 'Right, Fedya?' Max presses openly at this point, leaning on "da" ("yes") before closing the thought with "fedya" ("Fedya").
-- 'Petrovich, I changed my mind about those vacations.' Max strikes a sharp view in the room, joining "peredumal" ("changed your mind") to "otpuska" ("vacation, leave") so every word pulls its weight.
-- 'But in a month I am leaving.' Barinov sets a serious attitude in this beat, putting "mesyats" ("month") alongside "uydu" ("will leave") in a tight, everyday turn of phrase.
-- 'Consider this my official notice.' Fedya conveys a playful rhythm across the room, linking "ofitsialnoye" ("official"), "preduprezhdeniye" ("warning"), and "eto" ("this") in one brisk exchange.
-- 'In one month.' Max establishes an earnest course in the conversation, joining "mesyats" ("month") to "cherez" ("in") so every word pulls its weight.
+- 'Monday really is a heavy day.' Max fires back at once without holding back, steering the talk right where he wants it.
+- 'Well then.' Barinov sends this warning calmly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Here are your Chinese tips.' Fedya lays out that reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Come over here.' Max speaks up candidly across the room, letting the remark speak for itself.
+- 'Take it, you earned this today.' Barinov centers one loaded piece for Fedya: "zasluga" means "merit, credit", and it carries the main weight of what Barinov is saying.
+- 'Chef, let us split it among all of us.' Fedya hands over this point facing Max: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'I believe that is fair.' Max cuts in wryly facing Barinov, saying out loud what both of them already know.
+- 'That everything turned out so wonderfully today.' Barinov emphasizes one classic touch with Max: "zamechatelno" means "wonderful", and it carries the main weight of what Barinov is saying.
+- 'Right, Fedya?' Max shares that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Petrovich, I changed my mind about those vacations.' Max replies evenly as things stand, testing Fedya's reaction in the middle of the exchange.
+- 'But in a month I am leaving.' Barinov favors one memorable term toward Fedya: "mesyats" means "month", and it carries the main weight of what Barinov is saying.
+- 'Consider this my official notice.' Fedya aims this answer for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'In one month.' Max cuts in calmly without a pause, leaving no doubt about where he stands.

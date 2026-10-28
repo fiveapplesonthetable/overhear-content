@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the one who did it.' Max strikes a wry rhythm as they talk, weaving "sdelal" ("did") together with "eto" ("this") just the way native speakers do.
-- 'Lavrov did not steal your money.' Sasha holds a calm tack at this moment, using "ukral" (from "ukrast", "stole") alongside "dengi" ("money") to shape the meaning.
-- 'Dmitry Vladimirovich, please forgive me.' Max adopts a serious position as they talk, combining "prostite" ("excuse me") and "dmitriy" ("Dmitry") so the key meaning lands right away.
-- 'I wanted this so badly.' Max holds a pointed manner on the spot, combining "ochen" ("very much") and "silno" ("strongly, much") so the key meaning lands right away.
-- 'I thought that if he were no longer working here.' Sasha displays a direct angle without hesitation, weaving "zdes" ("here") together with "budet" ("will be") just the way native speakers do.
-- 'She is my ex-girlfriend.' Nagiyev chooses a pointed approach toward Sasha, placing "devushka" ("girlfriend") straight beside "byvshaya" ("former") with no word for "to be" needed.
-- 'That she would come back to me.' Max offers a calm footing in the room, using "vernetsya" (from "vernutsya", "will return") alongside "ona" ("it") to shape the meaning.
-- 'I love you so much.' Sasha brings a serious line beside Nagiyev, putting "ochen" ("very much") alongside "lyublyu" ("love") in a tight, everyday turn of phrase.
-- 'I understand.' Nagiyev takes a steady stance in the conversation, joining "ponimayu" ("understand") to "ya" ("I") so every word pulls its weight.
-- 'Then I will understand.' Max establishes an emphatic approach with Sasha, putting "poymu" ("understand") alongside "to" ("that") in a tight, everyday turn of phrase.
-- 'Because it is the right thing to do.' Sasha adopts a direct direction as they talk, placing "potomu" ("because") straight beside "pravilno" ("right") with no word for "to be" needed.
-- 'Well, Ilya, you really put on a show.' Nagiyev establishes a calm direction during the exchange, pairing "dal" ("to give") with "zharu" ("heat") to get the point across in plain spoken Russian.
-- 'Since the money is back where it belongs.' Max sets a grounded tone for Nagiyev, joining "raz" ("time, once") to "dengi" ("money") so every word pulls its weight.
+- 'I am the one who did it.' Max gives the reaction facing Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Lavrov did not steal your money.' Sasha proceeds calmly as they talk, without trying to dress up how she really feels.
+- 'Dmitry Vladimirovich, please forgive me.' Max colors this sharp detail at once: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'I wanted this so badly.' Max directs this line frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I thought that if he were no longer working here.' Sasha pushes back warmly before Max, testing Max's reaction in the middle of the exchange.
+- 'She is my ex-girlfriend.' Nagiyev chooses this telling touch for Sasha: "devushka" means "girlfriend", and it carries the main weight of what Nagiyev is saying.
+- 'That she would come back to me.' Max aims that reply right away: the "-sya" ending on "vernetsya" ("will return") turns the action inward or makes it happen between people naturally.
+- 'I love you so much.' Sasha continues plainly beside Nagiyev, letting the remark speak for itself.
+- 'I understand.' Nagiyev grounds one familiar choice in reply: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
+- 'Then I will understand.' Max puts the remark to Sasha: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Because it is the right thing to do.' Sasha reacts candidly in this moment, bringing things back to earth after the buildup.
+- 'Well, Ilya, you really put on a show.' Nagiyev leans on one sharp detail right here: "zharu" means "heat" (from "zhar"), giving the line its exact edge.
+- 'Since the money is back where it belongs.' Max frames the remark to Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

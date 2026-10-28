@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have a new look? A moustache?' Max inquires wryly to keep things clear, putting "novyy" ("new") alongside "imidzh" ("image, look") in a tight, everyday turn of phrase.
-- 'I am filming in a new music video.' The guest displays a firm tack in this beat, leaning on "snimayus" ("act") before closing the thought with "novom" ("new").
-- 'Vika, here is Iosif.' Max offers a serious view as they talk, pairing "vika" ("Vika") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'Hello.' The guest projects a pointed posture right away, using "zdravstvuyte" ("hello") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Well done, he looks like him! Congratulations.' Vika favors an honest course in their talk, weaving "molodets" ("well done, good boy") together with "pokhozh" ("look like, similar") just the way native speakers do.
-- 'What do you mean?' Max inquires quietly beside Vika, using "smysle" ("sense") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'And did you not think to shave the moustache?' Vika challenges honestly to the guest here, anchoring the Russian line on "usy" ("mustache") and "dogadalis" ("guessed, thought of") without extra filler.
-- 'Then he would have looked completely alike.' Vika conveys a grounded mood with Max, joining "togda" ("back then") to "sovsem" ("at all") so every word pulls its weight.
-- 'Mister, go home.' Vika sustains a sharp line at this moment, weaving "muzhchina" ("man") together with "idite" ("come") just the way native speakers do.
-- 'Your performance has dragged on.' Vika takes an emphatic stance at this moment, joining "spektakl" ("performance") to "zatyanulsya" ("dragged on") so every word pulls its weight.
-- 'I really am Iosif Prigozhin!' The guest sustains an unhurried stance with Max, anchoring the Russian line on "deystvitelno" ("really, indeed") and "ya" ("I") without extra filler.
-- 'Vika, wait! I will not let you go until you believe me.' Max offers a serious stance beside Vika, using "podozhdi" (from "podozhdat", "wait") alongside "otpushchu" ("will let go") to shape the meaning.
+- 'Do you have a new look? A moustache?' Max tests promptly in front of the guest without any preamble.
+- 'I am filming in a new music video.' The guest colors one clear term in reply: "snimayus" means "act", and it carries the main weight of what the guest is saying.
+- 'Vika, here is Iosif.' Max makes that remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello.' The guest jumps in candidly on the spot, saying out loud what both of them already know.
+- 'Well done, he looks like him! Congratulations.' Vika stresses one vivid detail at once: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'What do you mean?' Max gives that line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'And did you not think to shave the moustache?' Vika quizzes frankly where this conversation is heading next.
+- 'Then he would have looked completely alike.' Vika underscores one vivid term in earnest: "pokhozh" means "look like, similar" (from "pokhozhiy"), giving the line its exact edge.
+- 'Mister, go home.' Vika voices the comment around the guest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Your performance has dragged on.' Vika speaks frankly to be clear, keeping the focus on what actually matters here.
+- 'I really am Iosif Prigozhin!' The guest picks one loaded touch at once: "deystvitelno" means "really, indeed", and it carries the main weight of what the guest is saying.
+- 'Vika, wait! I will not let you go until you believe me.' Max weighs in decisively facing Vika, keeping the focus on what actually matters here.

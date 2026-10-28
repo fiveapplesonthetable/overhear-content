@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How is the new head chef?' Max questions naturally beside German, anchoring the Russian line on "kak" ("how") and "novyy" ("new") without extra filler.
-- 'He is sitting in the office sorting through papers.' Lyova presents a playful view in the scene, anchoring the Russian line on "sidit" ("sits") and "kabinete" ("office") without extra filler.
-- 'He is not touching anything.' Lyova conveys a natural bearing in this beat, using "trogayet" (from "trogat", "to touch") alongside "nichego" ("nothing") to shape the meaning.
-- 'Colleagues! A moment of your attention.' German sustains an emphatic tack straight away, weaving "kollegi" ("colleagues") together with "minutochku" ("a minute") just the way native speakers do.
-- 'You and I have known each other for one day.' German brings a clear tone right away, combining "znakomy" ("acquainted") and "pervyy" ("first") so the key meaning lands right away.
-- 'And it would be worthwhile for us to get to know each other closer.' German establishes a firm tone during the exchange, putting "stoilo" ("to cost, to be worth") alongside "uznat" ("to find out") in a tight, everyday turn of phrase.
-- 'We could go to a sauna together.' Max conveys an unhurried angle right away, putting "mozhno" ("may, can") alongside "saunu" ("sauna") in a tight, everyday turn of phrase.
-- 'That is good too. But I have a better idea.' German holds an easygoing rhythm as they talk, anchoring the Russian line on "tozhe" ("too") and "khorosho" ("good, fine") without extra filler.
-- 'Let's hold a skills evaluation today.' German takes a steady rhythm in front of Lyova, building the phrase around "davayte" ("let's") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Believe me, nothing brings people closer like that.' German picks a lively angle toward Max, pairing "poverte" ("believe") with "sblizhayet" ("closer") to get the point across in plain spoken Russian.
-- 'Are there any objections? Well, that is wonderful.' German queries frankly beside Lyova, putting "vozrazheniya" ("any") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'I jinxed it.' Lyova offers a natural approach in their talk, putting all the weight on "sglazil" ("to jinxed") so the reply lands immediately.
+- 'How is the new head chef?' Max wonders frankly why things suddenly took this turn between them.
+- 'He is sitting in the office sorting through papers.' Lyova anchors one pointed touch at once: "perebirayet" means "papers", and it carries the main weight of what Lyova is saying.
+- 'He is not touching anything.' Lyova shapes this statement on cue: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Colleagues! A moment of your attention.' German stands firm evenly with a sigh, testing Max's reaction in the middle of the exchange.
+- 'You and I have known each other for one day.' German reaches for one key piece in reply: "znakomy" means "acquainted" (from "znakomyy"), giving the line its exact edge.
+- 'And it would be worthwhile for us to get to know each other closer.' German cuts in earnestly facing Max, so Max knows he is not just making small talk.
+- 'We could go to a sauna together.' Max fires back wryly with a smile, letting the remark speak for itself.
+- 'That is good too. But I have a better idea.' German grounds one colorful expression right here: "poluchshe" means "a bit better" (from "khorosho"), giving the line its exact edge.
+- 'Let's hold a skills evaluation today.' German hands over that point frankly here: the word "davayte" is the polite or group version of "let's", inviting Lyova into the plan right away.
+- 'Believe me, nothing brings people closer like that.' German holds firm firmly before Max, making his position completely clear.
+- 'Are there any objections? Well, that is wonderful.' German features this telling piece in reply: "vozrazheniya" means "any", and it carries the main weight of what German is saying.
+- 'I jinxed it.' Lyova delivers this warning with ease: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.

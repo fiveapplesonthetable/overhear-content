@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, Max, let' Vika desperately tries to pull him away from the dining room.
+- 'Come on, Max, let's go outside now.' Vika desperately tries to pull him away from the dining room.
 - 'What did I do? I just gave you a gift.' Max plays the victim, acting like he did nothing wrong.
 - 'How are you behaving? I am very ashamed.' Vika scolds him for his embarrassing public behavior.
 - 'And aren't you ashamed that he kisses your hands?' Max starts to fire back a jealous accusation.
 - 'He is a good man and he behaves normally.' Vika defends the customer's perfectly polite conduct.
 - 'Maybe you will date him?' Max sarcastically suggests she should just go out with the wealthy guest.
-- 'You speak nonsense, Max. I don' Vika dismisses his jealous rambling as complete garbage.
+- 'You speak nonsense, Max. I don't understand you.' Vika dismisses his jealous rambling as complete garbage.
 - 'He gives you expensive gifts. Be grateful.' Max bitterly tells her to appreciate the rich man's presents.
 - 'Fine, if you want so, I will do so.' Vika calls his bluff, angrily agreeing to his sarcastic suggestion.
 - 'Excellent, go to him and kiss his hands.' Max cruelly tells her to go grovel to her wealthy admirer.
 - 'You are just a fool, Max. I am leaving here.' Vika insults his intelligence and decides to walk away.
 - 'Excuse me, is this normal? Do you think this is normal?' Max drunkenly demands validation for his outrage from anyone listening.
-- 'I think that you are just a drunken fool.' I think' for the ongoing action, followed by 'just' and 'drunk'.
+- 'I think that you are just a drunken fool.' Fed up with the scene, Vika's companion tells Max to his face that he is acting like a drunken fool.
 - 'Nobody understands me today. I will go sleep.' Max throws a pity party and decides to sleep it off.

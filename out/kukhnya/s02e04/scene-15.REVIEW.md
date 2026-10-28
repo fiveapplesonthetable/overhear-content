@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will take us to the police.' Max sets a frank rhythm toward Louis, combining "zaberut" ("to take back") and "politsiyu" ("the police") so the key meaning lands right away.
-- 'They will put us in prison.' Louis displays a frank rhythm at once, leaning on "posadyat" ("they'll put in prison") before closing the thought with "tyurmu" ("prison").
-- 'Good lord, Louis!' Vika presents a serious style toward Louis, weaving "gospodi" ("Good Lord") together with "lui" ("Louis") just the way native speakers do.
-- 'You are all acting like crazy people.' Max shows a calm attitude toward Vika, combining "sumasshedshiye" ("crazy, insane") and "vy" ("you") so the key meaning lands right away.
-- 'Well, how is it going with you guys?' Louis tests naturally during the talk, placing "tut" ("here") straight beside "nu" ("oh, come on") with no word for "to be" needed.
-- 'No, wait, it is not ready yet.' Vika maintains a grounded tack right away, anchoring the Russian line on "pogodi" ("wait") and "gotovo" ("ready") without extra filler.
-- 'Just like the Chef tells us.' Max chooses a candid bearing on the spot, combining "kak" ("how") and "govorit" ("talks") so the key meaning lands right away.
-- 'Right now I will add some sauce into his car interior.' Louis offers a playful line during the exchange, joining "seychas" ("now") to "salon" ("salon") so every word pulls its weight.
-- 'Viktoriya Sergeyevna, I wanted to let you know in advance.' Vika brings a sharp rhythm on the spot, pairing "khotela" ("wanted, meant") with "predupredit" ("to warn") to get the point across in plain spoken Russian.
-- 'I will not be here this weekend.' Max shares a thoughtful tone at this moment, combining "vykhodnykh" ("weekend") and "budet" ("will be") so the key meaning lands right away.
-- 'We are flying to Cyprus.' Louis holds a firm position in the scene, building the phrase around "letim" ("we're flying") and "na" ("on, onto") for a crisp, natural delivery.
-- 'With Max.' Vika chooses an unhurried attitude as they talk, letting the single Russian word "maksom" ("Max") carry the entire reaction on its own.
-- 'All right, I will get going.' Max holds a calm attitude with Louis, building the phrase around "poydu" ("go") and "ladno" ("all right") for a crisp, natural delivery.
+- 'They will take us to the police.' Max answers briskly to settle things, before Louis can change the subject.
+- 'They will put us in prison.' Louis favors one memorable term with Vika: "posadyat" means "they'll put in prison" (from "posadit"), giving the line its exact edge.
+- 'Good lord, Louis!' Vika frames the comeback right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'You are all acting like crazy people.' Max steps in firmly watching Vika, making his position completely clear.
+- 'Well, how is it going with you guys?' Louis lays out this answer to Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'No, wait, it is not ready yet.' Vika brings this update toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Just like the Chef tells us.' Max responds decisively during the talk, making his position completely clear.
+- 'Right now I will add some sauce into his car interior.' Louis focuses on one clear piece for Vika: "dobavlyu" means "to add, to supplement" (from "dobavit"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, I wanted to let you know in advance.' Vika emphasizes one sharp element toward Louis: "predupredit" means "to warn", and it carries the main weight of what Vika is saying.
+- 'I will not be here this weekend.' Max opens up dryly with a smile, making his position completely clear.
+- 'We are flying to Cyprus.' Louis centers one key detail for Max: "letim" means "we're flying" (from "letet"), giving the line its exact edge.
+- 'With Max.' Vika makes this point frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'All right, I will get going.' Max proceeds boldly hearing Louis, to clear the air between them once and for all.

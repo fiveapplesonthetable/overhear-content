@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, are you thinking about how to sneak cognac into the stadium?' Katya presses frankly for Barinov's benefit, pairing "pap" ("Dad") with "dumayesh" ("think") to get the point across in plain spoken Russian.
-- 'In a chef's hat it will look very suspicious.' Barinov presents a sharp note on the spot, leaning on "kolpake" ("chef's hat") before closing the thought with "budet" ("will be").
-- 'Or maybe you can help me?' Barinov questions firmly in their exchange, pairing "mozhet" ("can") with "smozhesh" ("will you be able") to get the point across in plain spoken Russian.
-- 'The freezing temperature of cognac is minus thirty degrees.' Katya keeps an emphatic course with Senya, weaving "temperatura" ("temperature") together with "zamerzaniya" ("freezing") just the way native speakers do.
-- 'And the temperature of liquid nitrogen is even lower.' Katya sustains a resolute direction in the scene, combining "temperatura" ("temperature") and "zhidkogo" ("liquid") so the key meaning lands right away.
-- 'In a couple of minutes the cognac ice cream is ready.' Katya maintains a brisk line in the conversation, linking "paru" ("couple") directly with "minut" ("minutes"), since Russian drops "is" and "are" in the present.
-- 'What are you two making out of cognac here?' Senya asks firmly in the scene, anchoring the Russian line on "tut" ("here") and "gotovite" ("to cook, to prepare") without extra filler.
-- 'Get lost!' Barinov picks a calm manner as the scene unfolds, combining "vali" ("get lost") and "otsyuda" ("from here") so the key meaning lands right away.
-- 'Everything is clear, now they will get the sheikh drunk and he will reward them.' Senya favors a direct tone toward Barinov, linking "ponyatno" ("clear"), "seychas" ("now"), and "sheykha" ("of a sheikh") in one brisk exchange.
-- 'That is a crafty family, they will get the ring off him in no time.' Senya holds an honest approach during the exchange, building the phrase around "khitraya" ("clever") and "semeyka" ("little family") for a crisp, natural delivery.
-- 'In an hour the sheikh has dinner, and this is room service.' Barinov presents a pointed bearing in front of Katya, linking "chas" ("hour"), "sheykha" ("of a sheikh"), and "uzhin" ("dinner") in one brisk exchange.
-- 'Let me take it, this is a molecular dish, it must be finished in the room.' Katya adopts an easygoing style in the room, leaning on "davay" ("let's") before closing the thought with "otnesu" ("to carry to").
+- 'Dad, are you thinking about how to sneak cognac into the stadium?' Katya leans on this clear detail toward Barinov: "stadion" means "stadium", and it carries the main weight of what Katya is saying.
+- 'In a chef's hat it will look very suspicious.' Barinov follows up dryly hearing Senya, so Senya knows he is not just making small talk.
+- 'Or maybe you can help me?' Barinov checks quietly as Katya tries to explain the situation.
+- 'The freezing temperature of cognac is minus thirty degrees.' Katya sharpens one clear detail in earnest: "temperatura" means "temperature", and it carries the main weight of what Katya is saying.
+- 'And the temperature of liquid nitrogen is even lower.' Katya offers that reply before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'In a couple of minutes the cognac ice cream is ready.' Katya chimes in decisively on the spot, letting the remark speak for itself.
+- 'What are you two making out of cognac here?' Senya leans on one sharp choice in reply: "konyaka" means "cognac" (from "konyak"), giving the line its exact edge.
+- 'Get lost!' Barinov shapes this update in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Everything is clear, now they will get the sheikh drunk and he will reward them.' Senya speaks up evenly toward Barinov, before Barinov can change the subject.
+- 'That is a crafty family, they will get the ring off him in no time.' Senya uses this telling word with Katya: "khitraya" means "clever" (from "khitryy"), giving the line its exact edge.
+- 'In an hour the sheikh has dinner, and this is room service.' Barinov directs that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Let me take it, this is a molecular dish, it must be finished in the room.' Katya reacts right away around Senya, saying out loud what both of them already know.

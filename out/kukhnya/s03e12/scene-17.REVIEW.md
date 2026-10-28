@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone stay back, I will deal with him myself!' Nagiyev brings a frank note during the exchange, putting "stoyat" ("to stand") alongside "razberus" ("I will sort out") in a tight, everyday turn of phrase.
-- 'Dima, I am begging you, stop!' Max conveys a playful attitude across the room, linking "ochen" ("very much"), "proshu" ("beg, ask"), and "ostanovis" ("to stop") in one brisk exchange.
-- 'Hello, do you take me for a fool?' The hostess quizzes dryly to keep things clear, joining "zdravstvuyte" ("hello") to "duru" ("fool") so every word pulls its weight.
-- 'After all, I am not blind at all!' The hostess keeps a clear note beside Nagiyev, joining "sovsem" ("at all") to "slepaya" ("blind") so every word pulls its weight.
-- 'There is a man's sock lying on the floor here.' The hostess picks a warm approach in their talk, leaning on "tut" ("here") before closing the thought with "muzhskoy" ("men's, masculine").
-- 'And our building has not had hot water for a week already!' The hostess adopts a frank bearing during the exchange, linking "dome" ("house"), "nedelyu" ("for a week"), and "uzhe" ("already, now") in one brisk exchange.
-- 'I saw right through this scam of yours immediately!' The hostess sets a playful position across the room, pairing "aferu" ("scam, scheme") with "srazu" ("at once") to get the point across in plain spoken Russian.
-- 'Please forgive us.' Max offers an honest view in this beat, weaving "izvinite" ("sorry, excuse me") together with "vy" ("you") just the way native speakers do.
-- 'In five minutes you had better be gone from here!' The hostess takes a measured style during the exchange, using "minut" (from "minuta", "minutes") alongside "tut" ("here") to shape the meaning.
-- 'And I will not return your money to you.' The hostess brings an emphatic position straight away, putting "dengi" ("money") alongside "vernu" ("I'll return") in a tight, everyday turn of phrase.
-- 'I can call the police right now.' The hostess chooses a grounded view without hesitation, pairing "mogu" ("can") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'I will say that you decided to rob me. Goodbye!' The hostess offers a warm mood across the room, using "skazhu" (from "skazat", "I'll tell") alongside "reshil" ("has decided") to shape the meaning.
+- 'Everyone stay back, I will deal with him myself!' Nagiyev brings this line to the hostess: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
+- 'Dima, I am begging you, stop!' Max fires back briskly with a sigh, to clear the air between them once and for all.
+- 'Hello, do you take me for a fool?' The hostess sharpens one practical piece in reply: "zdravstvuyte" means "hello", and it carries the main weight of what the hostess is saying.
+- 'After all, I am not blind at all!' The hostess gives that answer facing Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'There is a man's sock lying on the floor here.' The hostess holds firm honestly with a shrug, testing Max's reaction in the middle of the exchange.
+- 'And our building has not had hot water for a week already!' The hostess picks one colorful expression in reply: "goryachey" means "hot" (from "goryachiy"), giving the line its exact edge.
+- 'I saw right through this scam of yours immediately!' The hostess answers pointedly on the spot, making her position completely clear.
+- 'Please forgive us.' Max weighs in warmly as things stand, refusing to let the moment slip past.
+- 'In five minutes you had better be gone from here!' The hostess grounds one practical detail on cue: "minut" means "minutes" (from "minuta"), giving the line its exact edge.
+- 'And I will not return your money to you.' The hostess points to one concrete choice in earnest: "dengi" means "money", and it carries the main weight of what the hostess is saying.
+- 'I can call the police right now.' The hostess responds boldly with Max, making her position completely clear.
+- 'I will say that you decided to rob me. Goodbye!' The hostess picks one memorable element toward Nagiyev: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.

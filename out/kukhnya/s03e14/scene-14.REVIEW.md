@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have never been so scared in my entire life!' Lyova keeps an honest angle beside Max, pairing "nikogda" ("never") with "zhizni" ("life") to get the point across in plain spoken Russian.
-- 'Senya, you think that is very funny, right?' Lyova tests quietly to keep things clear, weaving "dumayesh" ("think") together with "ochen" ("very much") just the way native speakers do.
-- 'I will tell you, it is not funny at all!' Lyova sets a natural note without hesitation, combining the intensifier "sovsem" ("completely, at all") with "skazhu" ("I'll tell") to give the line its natural spoken rhythm.
-- 'Wait, Lyova, you are not stuttering anymore!' Senya picks a grounded bearing without hesitation, pairing "podozhdi" ("wait") with "bolshe" ("more") to get the point across in plain spoken Russian.
-- 'Sure, I just up and stopped stuttering like that!' Lyova sets a wry course on the spot, anchoring the Russian line on "konechno" ("of course") and "vzyal" ("took") without extra filler.
-- 'Oh, wait, I really am not stuttering!' Lyova chooses a frank posture on the spot, linking "podozhdite" ("wait"), "pravda" ("honestly"), and "zaikayus" ("stutter") in one brisk exchange.
-- 'Friends, I really do not stutter anymore!' Lyova sets a thoughtful posture in the scene, building the phrase around "druzya" ("friends") and "deystvitelno" ("really, indeed") for a crisp, natural delivery.
-- 'A Greek was riding across a wide river!' Lyova keeps a measured manner beside Senya, joining "yekhal" ("to go, to drive") to "greka" ("Greek man") so every word pulls its weight.
-- 'And I did not get it, what happened here?' Max quizzes steadily in this moment, combining "ponyal" ("understood") and "tut" ("here") so the key meaning lands right away.
-- 'Katya, Stas, I thought for a long time and understood everything.' Senya picks a pointed angle with Max, weaving "dolgo" ("for a long time") together with "dumal" ("thought") just the way native speakers do.
-- 'I admit I was completely wrong yesterday.' Senya displays a playful tone toward Lyova, linking "priznayu" ("to admit, to recognise"), "vchera" ("yesterday"), and "byl" ("was") in one brisk exchange.
-- 'You want to be together so badly.' Senya chooses a candid tempo straight away, pairing "silno" ("strongly, much") with "khotite" ("want") to get the point across in plain spoken Russian.
+- 'I have never been so scared in my entire life!' Lyova sends that answer at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Senya, you think that is very funny, right?' Lyova asks firmly what Senya is actually getting at here.
+- 'I will tell you, it is not funny at all!' Lyova spotlights this vivid touch right here: "smeshno" means "ridiculous", and it carries the main weight of what Lyova is saying.
+- 'Wait, Lyova, you are not stuttering anymore!' Senya lays out the reply before Max: the "-sya" ending on "zaikayeshsya" ("stutter") turns the action inward or makes it happen between people naturally.
+- 'Sure, I just up and stopped stuttering like that!' Lyova answers openly beside Max, so Max knows he is not just making small talk.
+- 'Oh, wait, I really am not stuttering!' Lyova chooses one pointed expression in earnest: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Friends, I really do not stutter anymore!' Lyova answers wryly during the talk, before Max can change the subject.
+- 'A Greek was riding across a wide river!' Lyova counters honestly with Senya, to clear the air between them once and for all.
+- 'And I did not get it, what happened here?' Max focuses on one familiar element at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'Katya, Stas, I thought for a long time and understood everything.' Senya holds firm quietly as things stand, steering the talk right where he wants it.
+- 'I admit I was completely wrong yesterday.' Senya pushes back briskly facing Lyova, refusing to let the moment slip past.
+- 'You want to be together so badly.' Senya chooses this key word right here: "khotite" means "want" (from "khotet"), giving the line its exact edge.

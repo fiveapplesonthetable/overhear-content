@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, your jokes are getting weaker and weaker.' Barinov shares a wry manner straight away, putting "shutki" ("jokes") alongside "stanovyatsya" ("to become, to get") in a tight, everyday turn of phrase.
-- 'Vitya, I decided to host a festive dinner today.' Eleonora chooses a steady direction at this moment, anchoring the Russian line on "reshila" ("decided") and "segodnya" ("today") without extra filler.
-- 'And what is this special occasion today?' Barinov questions openly in their exchange, linking "osobyy" ("special, particular"), "sluchay" ("case, occasion"), and "segodnya" ("today") in one brisk exchange.
-- 'Actually today is your daughter's birthday.' Eleonora holds a pointed angle with Nagiyev, combining "voobshche-to" ("actually") and "segodnya" ("today") so the key meaning lands right away.
-- 'Could you really have completely forgotten about it again?' Eleonora prompts sharply for Barinov's benefit, leaning on "snova" ("again") before closing the thought with "sovsem" ("at all").
-- 'Judging by his eyes, he did not forget.' Nagiyev takes a grounded manner as they talk, combining "sudya" ("judging") and "glazam" ("eye") so the key meaning lands right away.
-- 'He simply did not know about it at all!' Nagiyev conveys a direct view in their talk, leaning on "prosto" ("just") before closing the thought with "voobshche" ("at all").
-- 'Old age is no joy at all, my friends.' Nagiyev conveys a clear rhythm straight away, weaving "starost" ("old age") together with "sovsem" ("at all") just the way native speakers do.
-- 'Let us go from here, my dear, before we catch it.' Nagiyev projects a natural style without hesitation, joining "poydyom" ("let's go") to "otsyuda" ("from here") so every word pulls its weight.
-- 'Quickly make a delicious coffee for the lady and me.' Nagiyev chooses a steady course with Eleonora, combining "sdelay" ("make, do") and "bystro" ("quickly") so the key meaning lands right away.
-- 'Put two sugars and fresh cream in it.' Nagiyev favors an unhurried angle straight away, joining "polozhi" ("put, place") to "tuda" ("there") so every word pulls its weight.
-- 'And what did you give her last year?' Barinov tests dryly in front of Nagiyev, joining "proshlom" ("last, past") to "godu" ("year") so every word pulls its weight.
+- 'Dima, your jokes are getting weaker and weaker.' Barinov voices that remark without pause: the "-sya" ending on "stanovyatsya" ("to become, to get") turns the action inward or makes it happen between people naturally.
+- 'Vitya, I decided to host a festive dinner today.' Eleonora responds briskly in this moment, so Nagiyev knows she is not just making small talk.
+- 'And what is this special occasion today?' Barinov picks one memorable touch with Eleonora: "sluchay" means "case, occasion", and it carries the main weight of what Barinov is saying.
+- 'Actually today is your daughter's birthday.' Eleonora offers this warning with ease: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Could you really have completely forgotten about it again?' Eleonora quizzes earnestly whether Barinov really thought this through.
+- 'Judging by his eyes, he did not forget.' Nagiyev centers one classic choice with Eleonora: "glazam" means "eye" (from "glaz"), giving the line its exact edge.
+- 'He simply did not know about it at all!' Nagiyev lays out the remark toward Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Old age is no joy at all, my friends.' Nagiyev fires back openly without a pause, making his position completely clear.
+- 'Let us go from here, my dear, before we catch it.' Nagiyev stresses this key term for Barinov: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Quickly make a delicious coffee for the lady and me.' Nagiyev responds at once without any doubt, saying out loud what both of them already know.
+- 'Put two sugars and fresh cream in it.' Nagiyev speaks up briskly without holding back, keeping the focus on what actually matters here.
+- 'And what did you give her last year?' Barinov underscores this vivid choice in reply: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.

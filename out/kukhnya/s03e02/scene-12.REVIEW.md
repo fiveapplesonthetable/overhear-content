@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For the first time I liked a dish!' Nagiyev establishes a natural stance for Barinov, anchoring the Russian line on "vpervyye" ("for the first time") and "blyudo" ("dish") without extra filler.
-- 'You don't have the ingredient? Why didn't you order it? You messed up, huh?' Nagiyev checks quietly for Katya's benefit, leaning on "ingrediyenta" ("ingredient") before closing the thought with "pochemu" ("why").
-- 'Dima, let me make you something of my own.' Barinov holds an emphatic attitude right away, linking "davay" ("let's"), "sdelayu" ("I'll do"), and "dima" ("Dima") in one brisk exchange.
-- 'I just want that dish that I liked in the afternoon.' Nagiyev takes a frank direction in this beat, joining "prosto" ("just") to "khochu" ("want") so every word pulls its weight.
-- 'Fine, I will bring you that dish.' Barinov maintains a frank rhythm toward Katya, weaving "khorosho" ("good, fine") together with "prinesu" ("I will bring") just the way native speakers do.
-- 'Excuse me. Only I will name the very important ingredient for you.' Barinov favors a direct bearing as they talk, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "tolko" ("only") to shape the meaning.
-- 'It was you! You did it, right?' Nagiyev challenges warmly as the talk turns, pairing "sdelal" ("did") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Who put this on my plate?' Nagiyev questions directly as the talk turns, weaving "tarelku" ("plate, platter") together with "polozhil" ("laid, put down") just the way native speakers do.
-- 'That was not made for you.' Katya favors a lively footing at once, using "bylo" (from "byt", "was") alongside "sdelano" ("made, done") to shape the meaning.
-- 'For whom?' Nagiyev quizzes boldly without holding back, putting "dlya" ("for") alongside "kogo" ("whom") in a tight, everyday turn of phrase.
-- 'For these two. They started it first.' Katya sets a measured position during the exchange, putting "pervyye" ("first") alongside "nachali" ("started") in a tight, everyday turn of phrase.
-- 'Fedya came up with all of it, he brought the ram in.' Barinov projects a steady angle toward Nagiyev, joining "pridumal" ("came up with") to "barana" ("ram, sheep") so every word pulls its weight.
+- 'For the first time I liked a dish!' Nagiyev cuts in decisively without a pause, saying out loud what both of them already know.
+- 'You don't have the ingredient? Why didn't you order it? You messed up, huh?' Nagiyev picks one colorful detail with Katya: "ingrediyenta" means "ingredient" (from "ingrediyent"), giving the line its exact edge.
+- 'Dima, let me make you something of my own.' Barinov states that remark with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'I just want that dish that I liked in the afternoon.' Nagiyev speaks promptly facing Katya, saying out loud what both of them already know.
+- 'Fine, I will bring you that dish.' Barinov spotlights this sharp word toward Katya: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'Excuse me. Only I will name the very important ingredient for you.' Barinov puts this update plainly here: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Barinov steps in.
+- 'It was you! You did it, right?' Nagiyev checks curiously as Barinov tries to explain the situation.
+- 'Who put this on my plate?' Nagiyev underscores this clear element in earnest: "tarelku" means "plate, platter" (from "tarelka"), giving the line its exact edge.
+- 'That was not made for you.' Katya leans on one memorable touch for Barinov: "sdelano" means "made, done" (from "sdelannyy"), giving the line its exact edge.
+- 'For whom?' Nagiyev checks bluntly what Katya is actually getting at here.
+- 'For these two. They started it first.' Katya features one practical element with Barinov: "pervyye" means "first" (from "pervyy"), giving the line its exact edge.
+- 'Fedya came up with all of it, he brought the ram in.' Barinov jumps in right away to be clear, grounding the moment in plain reality.

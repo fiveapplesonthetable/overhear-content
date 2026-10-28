@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is Nastya?' Kostya prompts warmly beside Max, putting "gde" ("where") alongside "nastya" ("Nastya") in a tight, everyday turn of phrase.
-- 'I do not know.' Max displays a warm posture beside Nastya, leaning on "znayu" ("know") before closing the thought with "ya" ("I").
-- 'Are you Nastya?' Kostya inquires firmly to Max here, linking "ty" ("you") directly with "nastya" ("Nastya"), since Russian drops "is" and "are" in the present.
-- 'No, I am Alisa.' Nastya conveys a resolute bearing in the scene, putting "net" ("no") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'And what is going on anyway?' Max inquires frankly on the spot, combining "voobshche" ("at all") and "chto" ("what") so the key meaning lands right away.
-- 'The waitresses go to see the sheikh, and end up with me.' Max chooses a grounded attitude beside Nastya, anchoring the Russian line on "ofitsiantki" ("waitresses") and "idut" ("go") without extra filler.
-- 'So you are not going to introduce me to the sheikh?' Nastya challenges earnestly as they speak, joining "yest" ("there is") to "sheykhom" ("sheikh") so every word pulls its weight.
-- 'So Nastya was not here with you, right?' Kostya inquires boldly in the scene, building the phrase around "yest" ("there is") and "bylo" ("was") for a crisp, natural delivery.
-- 'No, she turned me down.' Max chooses an emphatic rhythm in the scene, pairing "otkazala" ("turned down") with "net" ("no") to get the point across in plain spoken Russian.
-- 'That means Nastya did not cheat on me!' Kostya conveys a grounded style toward Nastya, linking "znachit" ("then, so"), "izmenyala" ("to cheat, be unfaithful"), and "nastya" ("Nastya") in one brisk exchange.
-- 'How could you deceive me like that?' Nastya wonders plainly as the beat lands, anchoring the Russian line on "kak" ("how") and "mog" ("can, to be able") without extra filler.
-- 'Quiet, the sheikh himself is coming this way!' Max presents a warm direction straight away, pairing "tishe" ("quiet, more quietly") with "syuda" ("here") to get the point across in plain spoken Russian.
+- 'Where is Nastya?' Kostya shapes that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not know.' Max pushes back warmly during the talk, making his position completely clear.
+- 'Are you Nastya?' Kostya sends the remark before Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'No, I am Alisa.' Nastya states this warning to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And what is going on anyway?' Max probes eagerly where this conversation is heading next.
+- 'The waitresses go to see the sheikh, and end up with me.' Max emphasizes one vivid touch right here: "ofitsiantki" means "waitresses" (from "ofitsiantka"), giving the line its exact edge.
+- 'So you are not going to introduce me to the sheikh?' Nastya frames this line with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'So Nastya was not here with you, right?' Kostya inquires skeptically as Nastya tries to explain the situation.
+- 'No, she turned me down.' Max anchors one practical detail right here: "otkazala" means "turned down" (from "otkazat"), giving the line its exact edge.
+- 'That means Nastya did not cheat on me!' Kostya fires back lightly with a shrug, making his position completely clear.
+- 'How could you deceive me like that?' Nastya wonders candidly how Kostya expects that to work in practice.
+- 'Quiet, the sheikh himself is coming this way!' Max leans on this direct expression with Nastya: "sheykh" means "sheikh", and it carries the main weight of what Max is saying.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I completely agree.' Max takes a sharp tempo toward Kostya, joining "polnostyu" ("completely") to "soglasen" ("agreed") so every word pulls its weight.
-- 'So here is how it is.' Vika maintains a brisk tone in the scene, placing "znachit" ("then, so") straight beside "tak" ("so") with no word for "to be" needed.
-- 'What do you mean?' Kostya tests boldly in front of Max, using "smysle" ("sense") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'I am not the head chef.' Max brings a warm bearing in the conversation, weaving "ya" ("I") together with "ne" ("not") just the way native speakers do.
-- 'To me, he is Russian.' Vika favors a candid attitude for Kostya, combining "russkiy" ("Russian") and "on" ("he") so the key meaning lands right away.
-- 'That means I am an idiot.' Kostya sustains a steady footing beside Vika, leaning on "znachit" ("then, so") before closing the thought with "idiot" ("idiot").
-- 'I should have begged Vika for forgiveness.' Max brings a thoughtful approach for Kostya, linking "nado" ("it is necessary"), "bylo" ("was"), and "proshcheniya" ("forgiveness") in one brisk exchange.
-- 'So are you done with Sasha now?' Vika checks evenly from the start, joining "teper" ("now") to "tak" ("so") so every word pulls its weight.
-- 'You see, with Vika everything is very complicated.' Kostya strikes a resolute position in the conversation, using "ponimayesh" (from "ponimat", "do you understand") alongside "ochen" ("very much") to shape the meaning.
-- 'With Sasha everything is so simple.' Max presents a brisk mood at this moment, weaving "prosto" ("just") together with "sashkoy" ("Sasha") just the way native speakers do.
-- 'But I probably need to end things with Sasha.' Vika keeps a steady angle at this moment, joining "navernoye" ("probably") to "nado" ("it is necessary") so every word pulls its weight.
-- 'Oh, hi!' Kostya takes a serious direction on the spot, using "privet" ("hi") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'No, thank you.' Max picks an unhurried manner at this moment, anchoring the Russian line on "spasibo" ("thank you") and "net" ("no") without extra filler.
+- 'I completely agree.' Max speaks candidly watching Kostya, bringing things back to earth after the buildup.
+- 'So here is how it is.' Vika spotlights one pointed detail right here: "znachit" means "then, so", and it carries the main weight of what Vika is saying.
+- 'What do you mean?' Kostya lays out the remark before Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'I am not the head chef.' Max continues at once during the talk, bringing things back to earth after the buildup.
+- 'To me, he is Russian.' Vika sharpens one telling choice toward Kostya: "russkiy" means "Russian", and it carries the main weight of what Vika is saying.
+- 'That means I am an idiot.' Kostya shapes this statement with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I should have begged Vika for forgiveness.' Max continues dryly across the room, bringing things back to earth after the buildup.
+- 'So are you done with Sasha now?' Vika picks one sharp touch at once: "teper" means "now", and it carries the main weight of what Vika is saying.
+- 'You see, with Vika everything is very complicated.' Kostya replies boldly around Max, testing Max's reaction in the middle of the exchange.
+- 'With Sasha everything is so simple.' Max follows up warmly with a shrug, keeping the focus on what actually matters here.
+- 'But I probably need to end things with Sasha.' Vika leans on this sharp touch on cue: "zakanchivat" means "to finish, to end", and it carries the main weight of what Vika is saying.
+- 'Oh, hi!' Kostya drops the thought toward Vika: opening with the casual greeting "privet" ("hi") signals right away that Kostya and Vika are on familiar terms.
+- 'No, thank you.' Max holds firm warmly with a sigh, watching Kostya's face to see how the news lands.

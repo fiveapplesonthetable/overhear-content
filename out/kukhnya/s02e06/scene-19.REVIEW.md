@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what is going on in here?' Louis questions firmly to make the point, combining "proiskhodit" ("is going on") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'Where is the dessert?' Max tests frankly at this point, anchoring the Russian line on "desert" ("dessert") and "gde" ("where") without extra filler.
-- 'Louis, where is the dessert?' Barinov prompts openly to make the point, leaning on "gde" ("where") before closing the thought with "desert" ("dessert").
-- 'We just need to wait a little bit longer.' Max favors a measured approach right away, anchoring the Russian line on "nuzhno" ("necessary") and "yeshche" ("still") without extra filler.
-- 'Where is the ring?' Louis checks frankly to make the point, building the phrase around "koltso" ("ring") and "gde" ("where") for a crisp, natural delivery.
-- 'Vitya, what on earth is that?' Max asks quietly at this point, building the phrase around "vitya" ("Vitya") and "chto" ("what") for a crisp, natural delivery.
-- 'It is much safer this way.' Louis displays a resolute direction without hesitation, leaning on "bezopasneye" ("safe, secure") before closing the thought with "tak" ("so").
-- 'Look how big that guy is.' Max projects a grounded line as the scene unfolds, linking "smotri" ("look"), "kak" ("how"), and "zdorovyy" ("healthy") in one brisk exchange.
-- 'And besides, he has a secret hiding spot.' Louis picks a steady course at once, putting "potom" ("then") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'Let me hide your ring inside a pastry for him.' Max presents a serious bearing at this moment, combining the polite invitation "davayte" ("let us") with "koltso" ("ring") to give the line its natural spoken rhythm.
-- 'It will take about ten minutes.' Louis establishes a grounded stance without hesitation, anchoring the Russian line on "zaymet" ("to borrow, to lend") and "minut" ("minutes") without extra filler.
-- 'Right now, coming right up.' Max maintains a natural mood in their talk, letting the single Russian word "seychas" ("now") carry the entire reaction on its own.
-- 'We will manage without pastries from now on.' Louis shares a sharp style in the room, joining "pirozhnykh" ("pastry") to "oboydemsya" ("to do without") so every word pulls its weight.
+- 'Well, what is going on in here?' Louis underscores one telling expression for Barinov: "proiskhodit" means "is going on", and it carries the main weight of what Louis is saying.
+- 'Where is the dessert?' Max lays out this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Louis, where is the dessert?' Barinov inquires firmly while looking straight at Louis here.
+- 'We just need to wait a little bit longer.' Max underscores one memorable piece at once: "podozhdat" means "to wait", and it carries the main weight of what Max is saying.
+- 'Where is the ring?' Louis frames that point facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vitya, what on earth is that?' Max presses quietly to see how Louis will answer on the spot.
+- 'It is much safer this way.' Louis colors one loaded element right here: "bezopasneye" means "safe, secure" (from "bezopasnyy"), giving the line its exact edge.
+- 'Look how big that guy is.' Max gives that answer briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And besides, he has a secret hiding spot.' Louis holds firm warmly with a nod, testing Barinov's reaction in the middle of the exchange.
+- 'Let me hide your ring inside a pastry for him.' Max anchors one colorful element with Louis: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Max is saying.
+- 'It will take about ten minutes.' Louis shapes this statement in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Right now, coming right up.' Max chimes in decisively as things stand, bringing things back to earth after the buildup.
+- 'We will manage without pastries from now on.' Louis highlights one key detail for Barinov: "pirozhnykh" means "pastry" (from "pirozhnoye"), giving the line its exact edge.

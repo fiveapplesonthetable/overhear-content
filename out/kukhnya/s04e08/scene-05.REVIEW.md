@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vikochka, hello, how glad I am to see you!' Mama presents an earnest style at once, putting "vikochka" ("vikochka") alongside "zdravstvuyte" ("hello") in a tight, everyday turn of phrase.
-- 'Welcome on your arrival, how did you get here today?' Vika tests wryly without hesitation, building the phrase around "priyezdom" ("arrival") and "kak" ("how") for a crisp, natural delivery.
-- 'I got here fine, thank you very much, my dears.' Mama favors a brisk approach in this beat, anchoring the Russian line on "dobralas" ("to got") and "normalno" ("fine, OK") without extra filler.
-- 'Please come into the room, give me your bag.' Vika strikes a direct position on the spot, putting "prokhodite" ("come in") alongside "komnatu" ("the room") in a tight, everyday turn of phrase.
-- 'Vika, do you see what I arrived wearing today?' Mama prompts frankly as the talk turns, joining "vidish" ("see") to "segodnya" ("today") so every word pulls its weight.
-- 'Yes, that is a very beautiful warm shawl!' Vika projects a clear tone in the conversation, joining "ochen" ("very much") to "krasivyy" ("beautiful") so every word pulls its weight.
-- 'And tell me, where did you buy such a pretty one?' Vika tests decisively as they speak, building the phrase around "skazhite" ("tell") and "gde" ("where") for a crisp, natural delivery.
-- 'Very funny, Vika, after all you knitted it yourself!' Mama adopts a candid style in their talk, putting "ochen" ("very much") alongside "smeshno" ("ridiculous") in a tight, everyday turn of phrase.
-- 'Yes, that was our gift to Mom for her birthday!' Max conveys an unhurried rhythm in their talk, combining "podarok" ("gift, voucher") and "mame" ("mother, mum") so the key meaning lands right away.
-- 'Vika, surely you remember how we sent it to her?' Max quizzes pointedly as they speak, weaving "pomnish" ("do you remember") together with "kak" ("how") just the way native speakers do.
-- 'I wear it constantly, you are such a clever girl!' Mama holds a calm tempo at once, joining "postoyanno" ("constantly") to "noshu" ("to carry, to wear") so every word pulls its weight.
-- 'Oh, I have not even washed my hands from the trip yet!' Mama brings a direct mood toward Vika, building the phrase around "yeshchyo" ("more, still") and "ruki" ("hands") for a crisp, natural delivery.
+- 'Vikochka, hello, how glad I am to see you!' Mama lays out the thought at once: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Welcome on your arrival, how did you get here today?' Vika presses deadpan why things suddenly took this turn between them.
+- 'I got here fine, thank you very much, my dears.' Mama sharpens one colorful touch on cue: "khoroshiye" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Please come into the room, give me your bag.' Vika shares the comeback facing Max: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'Vika, do you see what I arrived wearing today?' Mama checks briskly about what Max just brought up.
+- 'Yes, that is a very beautiful warm shawl!' Vika leans on one vivid choice right here: "krasivyy" means "beautiful", and it carries the main weight of what Vika is saying.
+- 'And tell me, where did you buy such a pretty one?' Vika phrases the comeback in earnest: putting the question word "gde" right at the front of the line lets Mama hear the point of the question on the very first beat.
+- 'Very funny, Vika, after all you knitted it yourself!' Mama reacts promptly with a shrug, watching Vika's face to see how the news lands.
+- 'Yes, that was our gift to Mom for her birthday!' Max underscores this sharp choice for Mama: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
+- 'Vika, surely you remember how we sent it to her?' Max hands over this statement for Vika: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I wear it constantly, you are such a clever girl!' Mama proceeds wryly as things stand, saying out loud what both of them already know.
+- 'Oh, I have not even washed my hands from the trip yet!' Mama anchors one practical word with Vika: "yeshchyo" means "more, still", and it carries the main weight of what Mama is saying.

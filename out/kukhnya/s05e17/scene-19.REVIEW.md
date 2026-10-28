@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you asking for trouble again, young fellow?' The guest wonders directly to keep things clear, pairing "snova" ("again") with "naryvayeshsya" ("are asking for it") to get the point across in plain spoken Russian.
-- 'I did not ride up here in a freight elevator.' Max chooses a thoughtful attitude at once, pairing "syuda" ("here") with "gruzovom" ("freight") to get the point across in plain spoken Russian.
-- 'Max, please, let's just leave instead.' Vika favors a serious footing in the conversation, joining "davay" ("let's") to "luchshe" ("better") so every word pulls its weight.
-- 'You are not going anywhere, give birth calmly.' Max strikes a wry rhythm across the room, pairing "nikuda" ("nowhere, anywhere") with "poydyosh" ("will you go") to get the point across in plain spoken Russian.
-- 'Guys, clear the ward of these citizens!' The guest establishes a playful manner in the room, putting "rebyata" ("the boys, the lads") alongside "ochistite" ("to clear, to clean") in a tight, everyday turn of phrase.
-- 'Who wants foam stuffed in their mouth here?' Max questions bluntly in the scene, combining "tut" ("here") and "rot" ("mouth") so the key meaning lands right away.
-- 'Hello, Bunny, where are you giving birth right now?' The guest wonders evenly right away, linking "zayka" ("sweetheart"), "gde" ("where"), and "seychas" ("now") in one brisk exchange.
-- 'In what other maternity hospital?' The guest wonders naturally as the talk turns, combining "yeshchyo" ("more, still") and "drugom" ("different, another") so the key meaning lands right away.
-- 'Wait, what traffic jams, I gave you a flashing light!' The guest favors a brisk stance on the spot, weaving "podozhdi" ("wait") together with "probki" ("traffic jam") just the way native speakers do.
-- 'Alright, I am coming to you right now, damn!' The guest maintains a frank attitude in the conversation, pairing "seychas" ("now") with "yedu" ("am driving") so the "-sya" ending carries the action.
-- 'That is it, stand down, this ward is canceled.' The guest brings a thoughtful course beside Max, pairing "otmenyayetsya" ("is canceled") with "otboy" ("stand down") so the "-sya" ending carries the action.
-- 'Call the doctor, my wife is giving birth!' Max adopts a resolute view as they talk, putting "pozovite" ("call") alongside "vracha" ("doctor") in a tight, everyday turn of phrase.
+- 'Are you asking for trouble again, young fellow?' The guest features one telling piece in earnest: "naryvayeshsya" means "are asking for it" (from "naryvatsya"), giving the line its exact edge.
+- 'I did not ride up here in a freight elevator.' Max responds boldly across the room, steering the talk right where he wants it.
+- 'Max, please, let's just leave instead.' Vika speaks up boldly in this moment, saying out loud what both of them already know.
+- 'You are not going anywhere, give birth calmly.' Max leans on one concrete term on cue: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
+- 'Guys, clear the ward of these citizens!' The guest cuts in decisively with a sigh, before Max can change the subject.
+- 'Who wants foam stuffed in their mouth here?' Max prompts earnestly where this conversation is heading next.
+- 'Hello, Bunny, where are you giving birth right now?' The guest focuses on this clear choice in reply: "rozhayesh" means "to give birth" (from "rozhat"), giving the line its exact edge.
+- 'In what other maternity hospital?' The guest directs this statement without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Wait, what traffic jams, I gave you a flashing light!' The guest speaks up earnestly as they talk, testing Max's reaction in the middle of the exchange.
+- 'Alright, I am coming to you right now, damn!' The guest spotlights one loaded element toward Vika: "chyort" means "darn, heck", and it carries the main weight of what the guest is saying.
+- 'That is it, stand down, this ward is canceled.' The guest shapes that thought without pause: the "-sya" ending on "otmenyayetsya" ("is canceled") turns the action inward or makes it happen between people naturally.
+- 'Call the doctor, my wife is giving birth!' Max reacts sharply with Vika, leaving no doubt about where he stands.

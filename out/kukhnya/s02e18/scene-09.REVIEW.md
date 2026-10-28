@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me.' Max strikes a warm position in the room, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "menya" ("me") without extra filler.
-- 'They are perfectly fine.' Fedya favors an honest course as they talk, anchoring the Russian line on "normalnyye" ("normal") and "oni" ("they") without extra filler.
-- 'I just made an assumption.' Rodion establishes an emphatic approach straight away, joining "predpolozhil" ("suppose, let us assume") to "ya" ("I") so every word pulls its weight.
-- 'Why are you even listening to me in the first place?' Max challenges dryly right away, combining the conversational booster "voobshche" ("in general, overall") with "slushayesh" ("are listening to") to give the line its natural spoken rhythm.
-- 'And what if he does not show up?' Fedya challenges pointedly during the talk, leaning on "pridet" ("will come") before closing the thought with "yesli" ("if").
-- 'He will show up, where else would he go?' Rodion presses evenly to keep things clear, linking "pridet" ("will come"), "kuda" ("where to"), and "denetsya" ("will go, get away") in one brisk exchange.
-- 'He needs the cash, which means he will show up.' Max strikes a brisk tone during the exchange, joining "babki" ("grand") to "nuzhny" ("needed") so every word pulls its weight.
-- 'Konstantin, hello there.' Fedya sets a calm line at once, weaving "zdravstvuyte" ("hello") together with "konstantin" ("Konstantin") just the way native speakers do.
-- 'Do you happen to drink beer, by any chance?' Rodion wonders honestly at this point, pairing "sluchayno" ("by any chance") with "pivo" ("beer") to get the point across in plain spoken Russian.
-- 'Hello, Rodion Sergeyevich.' Max offers a sharp direction at this moment, linking "zdravstvuyte" ("hello"), "rodion" ("Rodion"), and "sergeyevich" ("Sergeyevich") in one brisk exchange.
-- 'Rodion Sergeyevich, who drinks beer outside in the winter?' Fedya prompts dryly in front of Max, pairing "pivo" ("beer") with "zimoy" ("in winter") to get the point across in plain spoken Russian.
-- 'Well, one can see.' Rodion strikes a clear tack in front of Max, putting "vidno" ("one can see") alongside "no" ("but") in a tight, everyday turn of phrase.
-- 'Tell me who your friend is.' Max inquires lightly with Fedya now, linking "skazhi" ("say"), "drug" ("friend"), and "mne" ("to me") in one brisk exchange.
+- 'Forgive me.' Max replies at once with a shrug, steering the talk right where he wants it.
+- 'They are perfectly fine.' Fedya favors this key element right here: "normalnyye" means "normal" (from "normalnyy"), giving the line its exact edge.
+- 'I just made an assumption.' Rodion aims the comment briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Why are you even listening to me in the first place?' Max inquires candidly why things suddenly took this turn between them.
+- 'And what if he does not show up?' Fedya favors this direct touch in earnest: "pridet" means "will come" (from "priyti"), giving the line its exact edge.
+- 'He will show up, where else would he go?' Rodion phrases this statement beside Max: the "-sya" ending on "denetsya" ("will go, get away") turns the action inward or makes it happen between people naturally.
+- 'He needs the cash, which means he will show up.' Max replies right away facing Fedya, so Fedya knows he is not just making small talk.
+- 'Konstantin, hello there.' Fedya colors one concrete detail for Rodion: "zdravstvuyte" means "hello", and it carries the main weight of what Fedya is saying.
+- 'Do you happen to drink beer, by any chance?' Rodion shapes the thought frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'Hello, Rodion Sergeyevich.' Max weighs in at once before Rodion, saying out loud what both of them already know.
+- 'Rodion Sergeyevich, who drinks beer outside in the winter?' Fedya frames one familiar choice in earnest: "ulitse" means "street" (from "ulitsa"), giving the line its exact edge.
+- 'Well, one can see.' Rodion puts that point right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Tell me who your friend is.' Max inquires skeptically to see how Fedya will answer on the spot.

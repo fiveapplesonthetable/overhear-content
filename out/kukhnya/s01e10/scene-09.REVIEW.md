@@ -31,12 +31,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, why are you so kind?' Russian leaves out the word for 'to be' here, linking 'why' directly with 'kind', combining 'why' with 'kind'.
 - 'I urgently need your help.' Viktor reveals that he has a special request.
 - 'No, chef, I am completely broke!' Fedya guesses the request and denies having cash.
-- 'Not even a couple of thousand can be found?' Barinov asks this purely through rising tone on the word for 'a couple', pairing it with 'thousand' and 'can be found'.
+- 'Not even a couple of thousand can be found?' Lowering his request, Barinov asks wistfully if Fedya might have even a couple of thousand to spare.
 - 'You still owe me five thousand!' Russian leaves out the word for 'to be' here, linking 'still' directly with 'five', combining 'still' with 'five' and 'thousand'.
 - 'I will return everything tomorrow morning!' Viktor gives his customary optimistic pledge.
 - 'You always promise that, chef.' Fedya remains skeptical after hearing this many times.
 - 'But today Spartak will definitely win!' Viktor reveals his secret source of guaranteed wealth.
-- 'Spartak is playing against a strong opponent.' Fedya chooses the word for 'is playing' for the ongoing action, followed by 'strong' and 'rival'.
+- 'Spartak is playing against a strong opponent.' Fedya skeptically reminds the chef that Spartak is facing a very tough rival today.
 - 'They have roster problems!' Russian leaves out the word for 'to be' here, linking 'problems' directly with 'lineup', combining 'problems' with 'lineup'.
 - 'Chef, football is pure lottery.' Fedya argues against risking wages on sporting events.
 - 'Do you not believe in our football?' Viktor accuses him of lacking patriotic faith.

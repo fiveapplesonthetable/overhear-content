@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, tell us how everything went.' Fedya presents a pointed tack without hesitation, weaving "kak" ("how") together with "proshlo" ("have passed") just the way native speakers do.
-- 'I walked up, and we chatted a little.' Lyova maintains a measured footing in the conversation, putting "podoshyol" ("to come up") alongside "poboltali" ("chatted") in a tight, everyday turn of phrase.
-- 'You never actually spoke to her, did you?' Fedya inquires sharply for Lyova's benefit, weaving "zagovoril" ("started talking") together with "ty" ("you") just the way native speakers do.
-- 'Lyova, you need to act faster.' Fedya displays a pointed mood in front of Max, anchoring the Russian line on "nado" ("it is necessary") and "deystvovat" ("to act, take action") without extra filler.
-- 'At least now I know what she likes.' Lyova establishes a warm manner at this moment, combining "teper" ("now") and "znayu" ("know") so the key meaning lands right away.
-- 'Gulya really adores our pastries.' Lyova maintains a pointed tack in the conversation, anchoring the Russian line on "ochen" ("very much") and "obozhayet" ("adores, loves") without extra filler.
-- 'This is my present for her.' Lyova strikes an honest posture across the room, linking "podarok" ("gift, voucher"), "eto" ("this"), and "moy" ("my") in one brisk exchange.
-- 'Friends, welcome the happy new father!' Max projects a clear attitude in their talk, linking "druzya" ("friends"), "vstrechayte" ("to meet, to welcome"), and "schastlivogo" ("happy") in one brisk exchange.
-- 'Tomorrow morning my girls are being discharged from the hospital.' Max takes a measured mood in the conversation, joining "zavtra" ("tomorrow") to "utrom" ("this morning") so every word pulls its weight.
-- 'So I invite everyone to the discharge!' Max offers an unhurried stance at this moment, joining "poetomu" ("that's why") to "priglashayu" ("invite") so every word pulls its weight.
-- 'Oguzok, this is for you from the whole team.' Fedya favors an unhurried posture with Lyova, putting "kollektiva" ("collective") alongside "oguzok" ("Rump") in a tight, everyday turn of phrase.
-- 'Thank you so much, guys!' Max shows a frank rhythm in their talk, joining "spasibo" ("thank you") to "ogromnoye" ("huge, so very much") so every word pulls its weight.
+- 'Well, tell us how everything went.' Fedya follows up at once before Lyova, saying out loud what both of them already know.
+- 'I walked up, and we chatted a little.' Lyova colors one pointed word toward Max: "podoshyol" means "to come up" (from "podoyti"), giving the line its exact edge.
+- 'You never actually spoke to her, did you?' Fedya gives this warning beside Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Lyova, you need to act faster.' Fedya pushes back pointedly in this moment, keeping the focus on what actually matters here.
+- 'At least now I know what she likes.' Lyova reaches for one telling term for Fedya: "nravitsya" means "is pleasing", and it carries the main weight of what Lyova is saying.
+- 'Gulya really adores our pastries.' Lyova chimes in pointedly without holding back, testing Max's reaction in the middle of the exchange.
+- 'This is my present for her.' Lyova replies frankly beside Fedya, saying out loud what both of them already know.
+- 'Friends, welcome the happy new father!' Max leans on one pointed expression toward Lyova: "schastlivogo" means "happy" (from "schastlivyy"), giving the line its exact edge.
+- 'Tomorrow morning my girls are being discharged from the hospital.' Max speaks sharply with a sigh, bringing things back to earth after the buildup.
+- 'So I invite everyone to the discharge!' Max weighs in boldly across the room, grounding the moment in plain reality.
+- 'Oguzok, this is for you from the whole team.' Fedya stresses this sharp word right here: "kollektiva" means "collective" (from "kollektiv"), giving the line its exact edge.
+- 'Thank you so much, guys!' Max voices the comeback with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

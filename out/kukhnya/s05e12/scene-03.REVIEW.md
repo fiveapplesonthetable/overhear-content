@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for giving me a ride.' Barinov projects a serious tack in front of Elena, joining "spasibo" ("thank you") to "podvezla" ("gave a ride") so every word pulls its weight.
-- 'What are the plans for the evening?' Elena quizzes quietly for Barinov's benefit, using "plany" (from "plan", "plans") alongside "vecher" ("evening") to shape the meaning.
-- 'None at all. Spartak is not playing today.' Barinov favors a resolute tempo in front of Elena, linking "segodnya" ("today"), "igrayet" ("plays"), and "nikakikh" ("no ... at all") in one brisk exchange.
-- 'Do you even remember what day it is today?' Elena presses plainly toward Barinov here, building the phrase around "voobshche" ("at all") and "pomnish" ("do you remember") for a crisp, natural delivery.
-- 'Wednesday, why?' Barinov prompts dryly in the scene, pairing "sreda" ("Wednesday") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'On Friday it is Lyova's birthday.' Elena conveys a candid note on the spot, putting "pyatnitsu" ("Friday") alongside "den" ("day") in a tight, everyday turn of phrase.
-- 'Thank you for reminding me!' Barinov offers an emphatic line in their talk, joining "spasibo" ("thank you") to "napomnila" ("reminded") so every word pulls its weight.
-- 'Listen, can you turn off that annoying sound?' Barinov probes pointedly with Elena now, linking "slushay" ("listen"), "mozhesh" ("can"), and "otklyuchit" ("to turn off") in one brisk exchange.
-- 'It infuriates me!' Barinov chooses a grounded bearing right away, leaning on "besit" ("infuriates") as a compact, one-word response that needs no extra words.
-- 'And it infuriates me that you forgot about my birthday!' Elena strikes a playful tone right away, linking "besit" ("infuriates"), "zabyl" ("forgot"), and "den" ("day") in one brisk exchange.
-- 'Lena, wait!' Barinov offers a calm manner beside Elena, joining "podozhdi" ("wait") to "lena" ("Lena") so every word pulls its weight.
-- 'I do not even want to see you!' Elena displays an unhurried tack in the scene, combining "videt" ("to see") and "khochu" ("want") so the key meaning lands right away.
+- 'Thank you for giving me a ride.' Barinov jumps in pointedly with a sigh, before Elena can change the subject.
+- 'What are the plans for the evening?' Elena focuses on one concrete detail in reply: "vecher" means "evening", and it carries the main weight of what Elena is saying.
+- 'None at all. Spartak is not playing today.' Barinov speaks up at once in their talk, saying out loud what both of them already know.
+- 'Do you even remember what day it is today?' Elena tests promptly what Barinov is actually getting at here.
+- 'Wednesday, why?' Barinov uses one direct choice in earnest: "sreda" means "Wednesday", and it carries the main weight of what Barinov is saying.
+- 'On Friday it is Lyova's birthday.' Elena puts that remark plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Thank you for reminding me!' Barinov weighs in boldly without a pause, so Elena knows he is not just making small talk.
+- 'Listen, can you turn off that annoying sound?' Barinov frames one colorful term on cue: "protivnyy" means "man", and it carries the main weight of what Barinov is saying.
+- 'It infuriates me!' Barinov brings that point calmly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'And it infuriates me that you forgot about my birthday!' Elena replies briskly around Barinov, keeping the focus on what actually matters here.
+- 'Lena, wait!' Barinov points to this sharp piece in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I do not even want to see you!' Elena colors one memorable expression toward Barinov: "khochu" means "want" (from "khotet"), giving the line its exact edge.

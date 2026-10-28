@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Irochka, may I have you for a second?' Nagiyev presses sharply during the talk, leaning on "irochka" ("irochka") before closing the thought with "mozhno" ("may, can").
-- 'Why do you not correct me?' Nagiyev wonders warmly beside Nastya, putting "popravlyayesh" ("to correct") alongside "chego" ("what") in a tight, everyday turn of phrase.
-- 'You are Nastya, after all!' Nagiyev picks a pointed attitude as they talk, combining "ty" ("you") and "zhe" ("but, after all") so the key meaning lands right away.
-- 'I have already gotten tired of correcting you.' Nastya shares a warm position for Nagiyev, weaving "uzhe" ("already, now") together with "ustala" ("are tired, got tired") just the way native speakers do.
-- 'But I am pleased that you remembered.' Nastya strikes a grounded style toward Nagiyev, combining "priyatno" ("pleasant") and "zapomnili" ("to remember") so the key meaning lands right away.
-- 'Do not get smart, I read it on your badge.' Nagiyev strikes an emphatic course toward Nastya, building the phrase around "umnichay" ("to act smart") and "tablichke" ("sign, plaque") for a crisp, natural delivery.
-- 'Call our sommelier over to us.' Nagiyev strikes a firm rhythm in the conversation, joining "pozovi" ("call, invite") to "somelye" ("moscow") so every word pulls its weight.
-- 'It is time for us to drink some good wine.' Nagiyev takes a pointed approach as the scene unfolds, joining "pora" ("it's time") to "vypit" ("to drink") so every word pulls its weight.
-- 'Our sommelier is not here today.' Nastya projects a grounded tack in front of Nagiyev, leaning on "somelye" ("moscow") before closing the thought with "segodnya" ("today").
-- 'What do you mean not here, where is he?' Nagiyev asks sharply without holding back, combining "kak" ("how") and "gde" ("where") so the key meaning lands right away.
-- 'He did not come in to work again.' Nastya adopts a frank tack across the room, weaving "snova" ("again") together with "vyshel" ("stepped out") just the way native speakers do.
-- 'Then bring us the best bottle yourself.' Nagiyev strikes a direct rhythm without hesitation, linking "togda" ("back then"), "prinesi" ("bring"), and "luchshuyu" ("the best") in one brisk exchange.
-- 'An excellent choice, I will bring it right away!' Nastya maintains an honest angle as they talk, pairing "prekrasnyy" ("beautiful") with "vybor" ("choice") to get the point across in plain spoken Russian.
+- 'Irochka, may I have you for a second?' Nagiyev asks candidly to see how Nastya will answer on the spot.
+- 'Why do you not correct me?' Nagiyev features one sharp piece at once: "popravlyayesh" means "to correct" (from "popravlyat"), giving the line its exact edge.
+- 'You are Nastya, after all!' Nagiyev hands over this warning for Nastya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I have already gotten tired of correcting you.' Nastya opens up steadily in this moment, before Nagiyev can change the subject.
+- 'But I am pleased that you remembered.' Nastya highlights one concrete touch in earnest: "zapomnili" means "to remember" (from "zapomnit"), giving the line its exact edge.
+- 'Do not get smart, I read it on your badge.' Nagiyev replies decisively in this moment, leaving no doubt about where he stands.
+- 'Call our sommelier over to us.' Nagiyev replies at once in this moment, refusing to let the moment slip past.
+- 'It is time for us to drink some good wine.' Nagiyev uses one vivid touch with Nastya: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
+- 'Our sommelier is not here today.' Nastya directs this warning right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What do you mean not here, where is he?' Nagiyev prompts point-blank to see how Nastya will answer on the spot.
+- 'He did not come in to work again.' Nastya colors one memorable choice toward Nagiyev: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'Then bring us the best bottle yourself.' Nagiyev replies evenly in their talk, grounding the moment in plain reality.
+- 'An excellent choice, I will bring it right away!' Nastya chimes in decisively hearing Nagiyev, letting the remark speak for itself.

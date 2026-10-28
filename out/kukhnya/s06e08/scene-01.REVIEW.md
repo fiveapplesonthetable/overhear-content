@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, why did you freeze up over there?' Barinov inquires wryly beside Fedya, pairing "tam" ("there") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
-- 'Chef, would you like to break my finger?' Senya quizzes dryly without a pause, combining "khotite" ("want") and "palets" ("finger") so the key meaning lands right away.
-- 'If you do not work, I will break your back!' Barinov strikes a frank direction in the scene, using "budesh" (from "byt", "will") alongside "rabotat" ("to work") to shape the meaning.
-- 'Four years ago I cut my finger.' Senya presents a warm stance as they talk, linking "goda" ("years"), "nazad" ("ago"), and "porezal" ("to cut, slice") in one brisk exchange.
-- 'And the very next day he took out an insurance policy.' Fedya favors a brisk tack in front of Barinov, building the phrase around "sleduyushchiy" ("next") and "den" ("day") for a crisp, natural delivery.
-- 'And in four years he has not had a single scratch.' Fedya sets a clear angle in the conversation, putting "goda" ("years") alongside "tsarapiny" ("scratch") in a tight, everyday turn of phrase.
-- 'And today is the very last day of this insurance of mine.' Senya sustains a thoughtful style in this beat, leaning on "segodnya" ("today") before closing the thought with "posledniy" ("last").
-- 'If my finger is broken, I will get money.' Senya presents an honest stance during the exchange, pairing "palets" ("finger") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'In my opinion, it is simply great and profitable business.' Senya offers a natural mood toward Barinov, putting "po-moyemu" ("in my opinion") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'You might as well break your own head right away!' Barinov maintains a serious position during the exchange, pairing "luchshe" ("better") with "srazu" ("at once") to get the point across in plain spoken Russian.
-- 'They will clearly pay you more money for your head.' Barinov takes a lively manner toward Fedya, building the phrase around "golovu" ("head") and "yavno" ("clearly") for a crisp, natural delivery.
-- 'They will give very little for his empty head.' Fedya takes a candid angle in the conversation, building the phrase around "pustuyu" ("empty") and "golovu" ("head") for a crisp, natural delivery.
+- 'Senya, why did you freeze up over there?' Barinov frames one concrete piece on cue: "vdrug" means "suddenly, what if", and it carries the main weight of what Barinov is saying.
+- 'Chef, would you like to break my finger?' Senya voices that answer beside Fedya: the "-sya" ending on "palets" ("finger") turns the action inward or makes it happen between people naturally.
+- 'If you do not work, I will break your back!' Barinov replies lightly facing Fedya, before Fedya can change the subject.
+- 'Four years ago I cut my finger.' Senya reaches for one clear touch for Fedya: "palets" means "finger", and it carries the main weight of what Senya is saying.
+- 'And the very next day he took out an insurance policy.' Fedya speaks up at once as things stand, watching Barinov's face to see how the news lands.
+- 'And in four years he has not had a single scratch.' Fedya answers calmly with a nod, watching Senya's face to see how the news lands.
+- 'And today is the very last day of this insurance of mine.' Senya uses one practical term for Barinov: "strakhovki" means "insurance" (from "strakhovka"), giving the line its exact edge.
+- 'If my finger is broken, I will get money.' Senya voices this update without fuss: the "-sya" ending on "palets" ("finger") turns the action inward or makes it happen between people naturally.
+- 'In my opinion, it is simply great and profitable business.' Senya weighs in frankly during the talk, leaving no doubt about where he stands.
+- 'You might as well break your own head right away!' Barinov highlights one familiar detail on cue: "golovu" means "head" (from "golova"), giving the line its exact edge.
+- 'They will clearly pay you more money for your head.' Barinov centers this direct detail in earnest: "zaplatyat" means "to pay" (from "zaplatit"), giving the line its exact edge.
+- 'They will give very little for his empty head.' Fedya speaks at once to be clear, refusing to let the moment slip past.

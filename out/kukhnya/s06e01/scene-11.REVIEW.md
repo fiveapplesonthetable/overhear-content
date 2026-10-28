@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Louis.' Barinov takes a clear bearing as the scene unfolds, putting "spasibo" ("thank you") alongside "lui" ("Louis") in a tight, everyday turn of phrase.
-- 'Not bad, but it crunches too hard.' The guest establishes a direct attitude in front of Louis, combining "neplokho" ("not bad") and "khrustit" ("crunches") so the key meaning lands right away.
-- 'Honestly?' Barinov questions sharply as the beat lands, putting all the weight on "chestno" ("honestly") so the reply lands immediately.
-- 'Sorry, like son-in-law, like cookies.' Barinov chooses an easygoing stance at once, combining "izvini" ("sorry, excuse me") and "zyat" ("son-in-law") so the key meaning lands right away.
-- 'Are you planning to cook in my kitchen?' Barinov wonders evenly at this point, combining "sobirayetes" ("to intend") and "gotovit" ("to cook") so the key meaning lands right away.
-- 'Vitya, have you seen my glasses?' The guest presses pointedly with Louis now, combining "videl" ("saw, have seen") and "ochki" ("glasses") so the key meaning lands right away.
-- 'Well where are they?' The guest inquires honestly to Barinov here, linking "gde" ("where") directly with "nu" ("oh, come on"), since Russian drops "is" and "are" in the present.
-- 'I think I found them.' Barinov takes a grounded angle with Louis, linking "kazhetsya" ("it seems, I think"), "nashel" ("found"), and "ya" ("I") in one brisk exchange.
-- 'Good for you, Vitya.' The guest brings a pointed line in the conversation, pairing "molodets" ("well done, good boy") with "kakoy" ("what a, how") so the "-sya" ending carries the action.
-- 'Now you will make these cookies.' The guest chooses a pointed course in the scene, combining "teper" ("now") and "budesh" ("will") so the key meaning lands right away.
-- 'I have taken over the restaurant affairs.' Louis shares a sharp view for Barinov, pairing "dela" ("things, affairs") with "restorane" ("restaurant") to get the point across in plain spoken Russian.
-- 'In the kitchen we urgently need to replace the refrigerator.' Louis maintains a sharp attitude toward the guest, pairing "kukhne" ("kitchen") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
+- 'Thank you, Louis.' Barinov brings this point without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Not bad, but it crunches too hard.' The guest cuts in quietly beside Louis, shifting the whole mood of the room in a single beat.
+- 'Honestly?' Barinov colors one loaded element right here: "chestno" means "honestly", and it carries the main weight of what Barinov is saying.
+- 'Sorry, like son-in-law, like cookies.' Barinov hands over this warning briskly now: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Are you planning to cook in my kitchen?' Barinov wonders wryly about what the guest just brought up.
+- 'Vitya, have you seen my glasses?' The guest spotlights one colorful term on cue: "ochki" means "glasses", and it carries the main weight of what the guest is saying.
+- 'Well where are they?' The guest gives this point on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I think I found them.' Barinov speaks quietly to be clear, to clear the air between them once and for all.
+- 'Good for you, Vitya.' The guest anchors this direct touch on cue: "molodets" means "well done, good boy", and it carries the main weight of what the guest is saying.
+- 'Now you will make these cookies.' The guest chooses one classic expression for Louis: "pechenye" means "cookies, pastry", and it carries the main weight of what the guest is saying.
+- 'I have taken over the restaurant affairs.' Louis opens up pointedly with a nod, making his position completely clear.
+- 'In the kitchen we urgently need to replace the refrigerator.' Louis spotlights one loaded expression on cue: "kholodilnik" means "fridge", and it carries the main weight of what Louis is saying.

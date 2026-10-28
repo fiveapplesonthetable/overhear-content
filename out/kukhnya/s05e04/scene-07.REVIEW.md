@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good thing our partners are not home right now.' Fedya sets a wry posture across the room, building the phrase around "togda" ("back then") and "sozhiteley" ("of roommates") for a crisp, natural delivery.
-- 'My main hero is already in here!' Senya projects a serious angle as they talk, pairing "glavnyy" ("main, chief") with "geroy" ("hero") to get the point across in plain spoken Russian.
-- 'Senya, where are you?' Fedya presses bluntly right away, linking "gde" ("where") directly with "senya" ("Senya"), since Russian drops "is" and "are" in the present.
-- 'Except Senya stayed behind on room service.' Fedya sustains a natural angle in the room, leaning on "tolko" ("only") before closing the thought with "rum-servise" ("room service").
-- 'Wait, you were supposed to work it.' Senya sustains a measured footing at once, weaving "dolzhen" ("has to, must") together with "byl" ("was") just the way native speakers do.
-- 'Yes, well, he asked me to swap shifts with him.' Fedya presents a natural manner as the scene unfolds, leaning on "poprosil" ("asked") before closing the thought with "pomenyatsya" ("to swap, to trade").
-- 'And what do we do now?' Senya checks wryly in this moment, weaving "teper" ("now") together with "delat" ("do") just the way native speakers do.
-- 'Mikhail, a one-to-one score humiliates us both.' Fedya takes an easygoing tone in their talk, joining "schet" ("account") to "unizhayet" ("humiliates") so every word pulls its weight.
-- 'Let me just beat you already and be done with this.' Barinov shares a pointed course in this beat, weaving "davayte" ("let's") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Back off from me, Vitya.' Fedya shares an earnest approach right away, leaning on "otvali" ("back off") before closing the thought with "ot" ("from").
-- 'There will be no rematch.' Barinov holds a thoughtful stance as the scene unfolds, linking "revansha" ("rematch"), "budet" ("will be"), and "nikakogo" ("no ... at all") in one brisk exchange.
-- 'If you want to slap cards around, go play solitaire.' Barinov offers an emphatic view across the room, using "khochesh" (from "khotet", "do you want") alongside "kartami" ("with cards") to shape the meaning.
+- 'Good thing our partners are not home right now.' Fedya features one vivid element in reply: "sozhiteley" means "of roommates" (from "sozhitel"), giving the line its exact edge.
+- 'My main hero is already in here!' Senya brings the reply with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Senya, where are you?' Fedya asks evenly whether Barinov really thought this through.
+- 'Except Senya stayed behind on room service.' Fedya uses this key element toward Senya: "rum-servise" means "room service" (from "rum-servis"), giving the line its exact edge.
+- 'Wait, you were supposed to work it.' Senya uses one memorable piece in reply: "dolzhen" means "has to, must", and it carries the main weight of what Senya is saying.
+- 'Yes, well, he asked me to swap shifts with him.' Fedya follows up bluntly without a pause, steering the talk right where he wants it.
+- 'And what do we do now?' Senya picks one memorable element in reply: "teper" means "now", and it carries the main weight of what Senya is saying.
+- 'Mikhail, a one-to-one score humiliates us both.' Fedya speaks sharply toward Senya, bringing things back to earth after the buildup.
+- 'Let me just beat you already and be done with this.' Barinov opens up dryly facing Fedya, testing Fedya's reaction in the middle of the exchange.
+- 'Back off from me, Vitya.' Fedya favors one familiar piece for Senya: "otvali" means "back off" (from "otvalit"), giving the line its exact edge.
+- 'There will be no rematch.' Barinov frames this point with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'If you want to slap cards around, go play solitaire.' Barinov weighs in steadily facing Senya, letting the remark speak for itself.

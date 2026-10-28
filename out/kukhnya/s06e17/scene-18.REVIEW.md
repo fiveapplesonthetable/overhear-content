@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, our Lyova jammed up.' Senya chooses a direct rhythm in their talk, putting "lyovu" ("lyova") alongside "zaklinilo" ("jammed, froze up") in a tight, everyday turn of phrase.
-- 'Wait, is Lyova a robot?' Barinov inquires frankly without hesitation, building the phrase around "podozhdi" ("wait") and "robot" ("robot") for a crisp, natural delivery.
-- 'A human would not have been able to work.' Senya takes a grounded bearing in this beat, building the phrase around "chelovek" ("a man, a person") and "smog" ("to be able") for a crisp, natural delivery.
-- 'Tell me, where is Katya?' Barinov queries directly as the talk turns, joining "skazhi" ("say") to "gde" ("where") so every word pulls its weight.
-- 'In the hall, it is her wedding.' Senya conveys an emphatic course with Barinov, building the phrase around "zale" ("hall") and "svadba" ("wedding") for a crisp, natural delivery.
-- 'What wedding today?' Barinov asks pointedly without hesitation, anchoring the Russian line on "yeshchyo" ("more, still") and "segodnya" ("today") without extra filler.
-- 'Dad, I love him very much.' Katya picks a calm tempo with Barinov, anchoring the Russian line on "papa" ("Dad") and "ochen" ("very much") without extra filler.
-- 'I always loved him deeply.' Katya brings a measured posture at this moment, anchoring the Russian line on "vsegda" ("always") and "silno" ("strongly, much") without extra filler.
-- 'Vitya, be happy for your daughter.' Katya shares a wry course as the scene unfolds, linking "poraduysya" ("to rejoice"), "dochku" ("daughter"), and "vitya" ("Vitya") in one brisk exchange.
-- 'So all of this is completely untrue!' Barinov keeps a measured stance at once, leaning on "znachit" ("then, so") before closing the thought with "sovsem" ("at all").
-- 'So I am just imagining all of this.' Barinov brings a brisk stance as they talk, putting "znachit" ("then, so") alongside "kazhetsya" ("it seems, I think") in a tight, everyday turn of phrase.
-- 'Do you not remember anything?' Katya quizzes frankly in this moment, pairing "pomnish" ("do you remember") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Chef, our Lyova jammed up.' Senya responds briskly with a smile, refusing to let the moment slip past.
+- 'Wait, is Lyova a robot?' Barinov uses one loaded term in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'A human would not have been able to work.' Senya speaks promptly in this moment, refusing to let the moment slip past.
+- 'Tell me, where is Katya?' Barinov quizzes earnestly while looking straight at Senya here.
+- 'In the hall, it is her wedding.' Senya underscores one vivid expression at once: "svadba" means "wedding", and it carries the main weight of what Senya is saying.
+- 'What wedding today?' Barinov drops this point right away: putting the question word "kakaya" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Dad, I love him very much.' Katya holds firm bluntly in this moment, before Barinov can change the subject.
+- 'I always loved him deeply.' Katya anchors one memorable element in earnest: "lyubila" means "loved" (from "lyubit"), giving the line its exact edge.
+- 'Vitya, be happy for your daughter.' Katya aims the remark with ease: the "-sya" ending on "poraduysya" ("to rejoice") turns the action inward or makes it happen between people naturally.
+- 'So all of this is completely untrue!' Barinov counters lightly as things stand, bringing things back to earth after the buildup.
+- 'So I am just imagining all of this.' Barinov centers this sharp piece in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Do you not remember anything?' Katya hands over this update plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.

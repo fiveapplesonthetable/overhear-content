@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is all.' Barinov offers an unhurried attitude straight away, letting the single Russian word "vse" ("all") carry the entire reaction on its own.
-- 'So that is good?' Vika tests wryly beside Max, anchoring the Russian line on "znachit" ("then, so") and "khorosho" ("good, fine") without extra filler.
-- 'Well, the fact that you are with him.' Max maintains an earnest note beside Barinov, building the phrase around "nu" ("oh, come on") and "to" ("that") for a crisp, natural delivery.
-- 'What is good about it?' Barinov asks candidly during the talk, combining "khorosho" ("good, fine") and "chto" ("what") so the key meaning lands right away.
-- 'Well, I mean not with him, but me.' Vika conveys an earnest attitude in the room, building the phrase around "smysle" ("sense") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Damn, how complicated everything has become.' Max chooses a grounded posture beside Vika, leaning on "chert" ("darn, heck") before closing the thought with "kak" ("how").
-- 'Vika, what should we do?' Barinov checks boldly during the talk, weaving "delat" ("do") together with "vika" ("Vika") just the way native speakers do.
-- 'There is no 'us'.' Vika brings a lively attitude straight away, weaving "net" ("no") together with "nikakikh" ("no ... at all") just the way native speakers do.
-- 'There is only you and me.' Max presents a brisk view in the scene, pairing "yest" ("there is") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'I want you to leave.' Barinov offers a playful angle in this beat, joining "khochu" ("want") to "ushel" ("left, would leave") so every word pulls its weight.
-- 'Wait, I do not want to leave.' Vika presents an honest course without hesitation, leaning on "podozhdi" ("wait") before closing the thought with "khochu" ("want").
-- 'If I say no, will you leave?' Max questions naturally without a pause, linking "skazhu" ("I'll tell"), "uydesh" ("you'll leave"), and "yesli" ("if") in one brisk exchange.
-- 'I am serious.' Barinov brings a direct mood on the spot, combining "seryezno" ("seriously") and "ya" ("I") so the key meaning lands right away.
+- 'And that is all.' Barinov aims that remark calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So that is good?' Vika probes briskly why things suddenly took this turn between them.
+- 'Well, the fact that you are with him.' Max lays out the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What is good about it?' Barinov delivers the comment to Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Well, I mean not with him, but me.' Vika fires back pointedly as things stand, steering the talk right where she wants it.
+- 'Damn, how complicated everything has become.' Max centers one vivid word toward Vika: "zaputalos" means "get confused" (from "zaputatsya"), giving the line its exact edge.
+- 'Vika, what should we do?' Barinov makes that remark without pause: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'There is no 'us'.' Vika continues sharply before Max, to clear the air between them once and for all.
+- 'There is only you and me.' Max makes that point without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I want you to leave.' Barinov uses one vivid element at once: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Wait, I do not want to leave.' Vika follows up bluntly facing Barinov, to clear the air between them once and for all.
+- 'If I say no, will you leave?' Max picks one memorable term for Vika: "skazhu" means "I'll tell" (from "skazat"), giving the line its exact edge.
+- 'I am serious.' Barinov drops this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

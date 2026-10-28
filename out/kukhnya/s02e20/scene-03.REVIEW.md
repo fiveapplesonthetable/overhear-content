@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I work right here.' Nagiyev sustains an earnest attitude in the room, building the phrase around "rabotayu" ("work") and "tut" ("here") for a crisp, natural delivery.
-- 'And what about you?' Max inquires lightly in the scene, letting the single Russian word "ty" ("you") carry the entire reaction on its own.
-- 'Oh no, what are you talking about, this is Aleksandr.' Nagiyev offers a clear view as they talk, joining "oy" ("oh") to "net" ("no") so every word pulls its weight.
-- 'He is organizing our wedding reception.' Max keeps a wry direction straight away, linking "zanimayetsya" ("is occupied with"), "svadboy" ("wedding"), and "on" ("he") in one brisk exchange.
-- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Max holds an unhurried rhythm in the conversation, joining "predstavlyayesh" ("can you imagine") to "svadbu" ("wedding") so every word pulls its weight.
-- 'Well anyway, enough about me.' Max strikes a resolute mood beside Nagiyev, joining "nu" ("oh, come on") to "ladno" ("all right") so every word pulls its weight.
-- 'Did you get married yet?' Nagiyev questions dryly as they speak, pairing "zamuzh-to" ("married") with "vyshla" ("married") to get the point across in plain spoken Russian.
-- 'Well, not just yet.' Max establishes an honest tempo during the exchange, building the phrase around "poka" ("bye") and "da" ("yes") for a crisp, natural delivery.
-- 'Why would I be the last one?' Nagiyev presses sharply without a pause, building the phrase around "pochemu" ("why") and "poslednyaya" ("last, final") for a crisp, natural delivery.
-- 'Otherwise she would have moved away to Israel.' Max projects a frank manner in their talk, using "uyekhala" (from "uyekhat", "left, drove away") alongside "tak" ("so") to shape the meaning.
-- 'She looks like a mop these days.' Nagiyev picks an emphatic tempo during the exchange, leaning on "vyglyadit" ("looks") before closing the thought with "teper" ("now").
-- 'You were always a little bit strange like that.' Max conveys a warm course at once, joining "vsegda" ("always") to "strannaya" ("strange") so every word pulls its weight.
-- 'Oh, could I ask you for a small favor?' Nagiyev probes plainly as the beat lands, linking "mozhno" ("may, can"), "poprosit" ("to ask"), and "oy" ("oh") in one brisk exchange.
+- 'Yes, I work right here.' Nagiyev stands firm warmly around Max, watching Max's face to see how the news lands.
+- 'And what about you?' Max sends this answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Oh no, what are you talking about, this is Aleksandr.' Nagiyev shapes the reaction to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is organizing our wedding reception.' Max counters at once with a shrug, making his position completely clear.
+- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Max grounds one vivid choice in reply: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Well anyway, enough about me.' Max states the thought facing Nagiyev: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
+- 'Did you get married yet?' Nagiyev tests openly if there is more going on behind the scenes.
+- 'Well, not just yet.' Max emphasizes one clear choice toward Nagiyev: "poka" means "bye", and it carries the main weight of what Max is saying.
+- 'Why would I be the last one?' Nagiyev shares that answer without pause: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Otherwise she would have moved away to Israel.' Max jumps in at once without a pause, refusing to let the moment slip past.
+- 'She looks like a mop these days.' Nagiyev centers one pointed word in earnest: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.
+- 'You were always a little bit strange like that.' Max favors one familiar choice at once: "strannaya" means "strange" (from "strannyy"), giving the line its exact edge.
+- 'Oh, could I ask you for a small favor?' Nagiyev quizzes promptly while looking straight at Max here.

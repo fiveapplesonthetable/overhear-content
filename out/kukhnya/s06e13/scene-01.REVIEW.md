@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to think carefully about this.' Katya shows a steady tone right away, weaving "nado" ("it is necessary") together with "khorosho" ("good, fine") just the way native speakers do.
-- 'Nastya told me this today.' Denis holds a serious stance with Kostya, building the phrase around "segodnya" ("today") and "rasskazala" ("told") for a crisp, natural delivery.
-- 'Now everything is definitely over between us.' Denis displays a serious course during the exchange, anchoring the Russian line on "teper" ("now") and "tochno" ("definitely") without extra filler.
-- 'Wait, my friend, do not rush to conclusions.' Kostya establishes a candid bearing in their talk, putting "pogodi" ("wait") alongside "drug" ("friend") in a tight, everyday turn of phrase.
-- 'What are you even talking about right now?' Kostya queries honestly without a pause, combining the conversational booster "voobshche" ("in general, overall") with "seychas" ("now") to give the line its natural spoken rhythm.
-- 'Did you get so upset because of this?' Kostya queries wryly for Katya's benefit, combining "silno" ("strongly, much") and "rasstroilsya" ("got upset") so the key meaning lands right away.
-- 'Of course, I got very upset today.' Denis shares a serious tempo in the room, pairing "rasstroilsya" ("got upset") with "konechno" ("of course") so the "-sya" ending carries the action.
-- 'But she did not say yes to him.' Kostya takes a direct note as the scene unfolds, linking "skazala" ("told"), "no" ("but"), and "ona" ("it") in one brisk exchange.
-- 'She did not say no to him either.' Denis brings an unhurried line beside Katya, leaning on "skazala" ("told") before closing the thought with "ona" ("it").
-- 'And what does all of this mean then?' Kostya queries boldly during the talk, putting "togda" ("back then") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
-- 'She still loves you to this day.' Kostya chooses a playful stance straight away, leaning on "por" ("time") before closing the thought with "lyubit" ("loves").
-- 'Who does she really love right now?' Denis presses boldly in the room, building the phrase around "seychas" ("now") and "samom" ("very") for a crisp, natural delivery.
-- 'Just walk up to her and ask.' Kostya offers a calm tone in the conversation, linking "prosto" ("just"), "podoydi" ("approach, go up"), and "sprosi" ("ask") in one brisk exchange.
+- 'I need to think carefully about this.' Katya grounds one familiar expression on cue: "khorosho" means "good, fine", and it carries the main weight of what Katya is saying.
+- 'Nastya told me this today.' Denis proceeds briskly in their talk, shifting the whole mood of the room in a single beat.
+- 'Now everything is definitely over between us.' Denis pushes back lightly as they talk, grounding the moment in plain reality.
+- 'Wait, my friend, do not rush to conclusions.' Kostya reaches for one key element with Katya: "vyvodami" means "conclusion" (from "vyvod"), giving the line its exact edge.
+- 'What are you even talking about right now?' Kostya gives that point with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Did you get so upset because of this?' Kostya checks earnestly as Katya tries to explain the situation.
+- 'Of course, I got very upset today.' Denis picks this clear touch toward Katya: "rasstroilsya" means "got upset" (from "rasstroitsya"), giving the line its exact edge.
+- 'But she did not say yes to him.' Kostya speaks frankly toward Katya, without trying to dress up how he really feels.
+- 'She did not say no to him either.' Denis continues quietly in this moment, to clear the air between them once and for all.
+- 'And what does all of this mean then?' Kostya focuses on one loaded touch on cue: "znachit" means "then, so", and it carries the main weight of what Kostya is saying.
+- 'She still loves you to this day.' Kostya points to this clear expression in reply: "lyubit" means "loves", and it carries the main weight of what Kostya is saying.
+- 'Who does she really love right now?' Denis presses candidly how Kostya expects that to work in practice.
+- 'Just walk up to her and ask.' Kostya focuses on one colorful term in reply: "podoydi" means "approach, go up" (from "podoyti"), giving the line its exact edge.

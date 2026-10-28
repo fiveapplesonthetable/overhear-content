@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, may I have literally two words with you?' Lyova presses calmly without hesitation, weaving "izvinite" ("sorry, excuse me") together with "mozhno" ("may, can") just the way native speakers do.
-- 'Yes, of course, I am listening to you very carefully.' The inspector shares a sharp line in front of Lyova, anchoring the Russian line on "konechno" ("of course") and "ochen" ("very much") without extra filler.
-- 'Comrade commander, please release those two women over there.' Lyova strikes a brisk view as the scene unfolds, linking "tovarishch" ("comrade"), "komandir" ("commander"), and "otpustite" ("let go, release") in one brisk exchange.
-- 'Tell me, is the second woman also your girlfriend?' The inspector quizzes lightly on the spot, building the phrase around "skazhite" ("tell") and "vtoraya" ("second") for a crisp, natural delivery.
-- 'No, not at all, that is her aunt.' Lyova holds a serious course across the room, linking "rodnaya" ("dear, darling"), "tyotya" ("aunt"), and "net" ("no") in one brisk exchange.
-- 'Then that will cost five thousand each.' The inspector brings an unhurried footing in this beat, weaving "togda" ("back then") together with "budet" ("will be") just the way native speakers do.
-- 'And do you not feel sorry for all the other people at all?' The inspector prompts frankly in the room, combining the intensifier "sovsem" ("completely, at all") with "ostalnykh" ("the others") to give the line its natural spoken rhythm.
-- 'Let them go back home to unemployment?' The inspector questions dryly at this point, putting "yedut" ("are going") alongside "obratno" ("back") in a tight, everyday turn of phrase.
-- 'Why not sorry, I feel very sorry for them.' Lyova takes a serious tempo right away, joining "pochemu" ("why") to "zhalko" ("feel sorry for") so every word pulls its weight.
-- 'Then hand over the money and take everyone at once!' The inspector establishes a lively posture during the exchange, combining "togda" ("back then") and "davayte" ("let's") so the key meaning lands right away.
-- 'Citizens, say a big thank you to this hospitable resident of the capital!' The inspector shares an easygoing angle during the exchange, anchoring the Russian line on "grazhdane" ("citizen") and "skazhite" ("tell") without extra filler.
-- 'Everyone is free, walk out calmly back into the courtyard!' The inspector holds a pointed view in the room, joining "svobodny" ("free") to "spokoyno" ("calmly") so every word pulls its weight.
+- 'Excuse me, may I have literally two words with you?' Lyova challenges curiously while looking straight at the inspector here.
+- 'Yes, of course, I am listening to you very carefully.' The inspector frames one direct word in earnest: "vnimatelno" means "carefully, attentively", and it carries the main weight of what the inspector is saying.
+- 'Comrade commander, please release those two women over there.' Lyova hands over the comeback for the inspector: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Tell me, is the second woman also your girlfriend?' The inspector quizzes skeptically in front of Lyova without any preamble.
+- 'No, not at all, that is her aunt.' Lyova centers this sharp element in reply: "rodnaya" means "dear, darling" (from "rodnoy"), giving the line its exact edge.
+- 'Then that will cost five thousand each.' The inspector continues frankly without a pause, before Lyova can change the subject.
+- 'And do you not feel sorry for all the other people at all?' The inspector probes calmly where this conversation is heading next.
+- 'Let them go back home to unemployment?' The inspector colors one loaded detail in reply: "bezrabotitsu" means "unemployment" (from "bezrabotitsa"), giving the line its exact edge.
+- 'Why not sorry, I feel very sorry for them.' Lyova speaks decisively beside the inspector, shifting the whole mood of the room in a single beat.
+- 'Then hand over the money and take everyone at once!' The inspector cuts in calmly with a smile, leaving no doubt about where he stands.
+- 'Citizens, say a big thank you to this hospitable resident of the capital!' The inspector frames one concrete piece on cue: "gostepriimnomu" means "hospitable" (from "gostepriimnyy"), giving the line its exact edge.
+- 'Everyone is free, walk out calmly back into the courtyard!' The inspector proceeds candidly as things stand, making his position completely clear.

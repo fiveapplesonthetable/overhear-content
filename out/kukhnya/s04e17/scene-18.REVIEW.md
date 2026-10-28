@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, forgive me for letting you down.' Denis conveys a direct rhythm across the room, joining "prosti" ("sorry, forgive me") to "podvyol" ("to let down") so every word pulls its weight.
-- 'I really wanted to help you very much.' Denis chooses an emphatic manner straight away, leaning on "pravda" ("honestly") before closing the thought with "ochen" ("very much").
-- 'Denis, it is not your fault at all.' Katya favors a grounded direction across the room, weaving "tut" ("here") together with "sovsem" ("at all") just the way native speakers do.
-- 'Apparently I am just that problematic myself.' Katya presents a warm manner in the conversation, linking "vidimo" ("apparently"), "problemnaya" ("problematic"), and "eto" ("this") in one brisk exchange.
-- 'There are always only strange people around me.' Katya shares a grounded direction on the spot, combining "vsegda" ("always") and "strannyye" ("strange") so the key meaning lands right away.
-- 'It is as if I attract them on purpose.' Katya favors an honest posture in the scene, placing "kak" ("how") straight beside "spetsialno" ("on purpose") with no word for "to be" needed.
-- 'Our owner is simply a terrible person.' Katya shares a direct line toward Denis, combining "khozyain" ("owner") and "prosto" ("just") so the key meaning lands right away.
-- 'And my dad is a whole other story.' Katya adopts a firm style for Denis, anchoring the Russian line on "papa" ("Dad") and "voobshche" ("at all") without extra filler.
-- 'I have never come across normal guys.' Katya projects an unhurried style for Denis, joining "normalnyye" ("normal") to "parni" ("guys, boys") so every word pulls its weight.
-- 'Tell me, what is wrong with me?' Katya presses pointedly as they speak, pairing "skazhi" ("say") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Calm down, everything is fine with you.' Denis displays a candid approach as the scene unfolds, putting "uspokoysya" ("calm down") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
-- 'You perceive everything in a minor key.' Denis adopts a serious course for Katya, pairing "vosprinimayesh" ("to everything") with "minore" ("key") to get the point across in plain spoken Russian.
-- 'Look, you see life like this.' Denis shows an emphatic rhythm beside Katya, joining "smotri" ("look") to "vidish" ("see") so every word pulls its weight.
+- 'Katya, forgive me for letting you down.' Denis fires back quietly to be clear, bringing things back to earth after the buildup.
+- 'I really wanted to help you very much.' Denis anchors one colorful detail with Katya: "pravda" means "honestly", and it carries the main weight of what Denis is saying.
+- 'Denis, it is not your fault at all.' Katya lays out that remark toward Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Apparently I am just that problematic myself.' Katya follows up at once without a pause, without trying to dress up how she really feels.
+- 'There are always only strange people around me.' Katya colors one classic piece in earnest: "strannyye" means "strange" (from "strannyy"), giving the line its exact edge.
+- 'It is as if I attract them on purpose.' Katya sends that thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Our owner is simply a terrible person.' Katya opens up firmly as things stand, to clear the air between them once and for all.
+- 'And my dad is a whole other story.' Katya frames this vivid expression right here: "otdelnyy" means "separate", and it carries the main weight of what Katya is saying.
+- 'I have never come across normal guys.' Katya offers that thought without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Tell me, what is wrong with me?' Katya wonders promptly if there is more going on behind the scenes.
+- 'Calm down, everything is fine with you.' Denis colors one clear term in reply: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'You perceive everything in a minor key.' Denis spotlights this direct term in reply: "vosprinimayesh" means "to everything" (from "vosprinimat"), giving the line its exact edge.
+- 'Look, you see life like this.' Denis steps in promptly with a sigh, shifting the whole mood of the room in a single beat.

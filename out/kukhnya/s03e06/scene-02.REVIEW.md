@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I never thought I would say this phrase.' Nagiyev conveys an emphatic tempo in this beat, weaving "nikogda" ("never") together with "dumal" ("thought") just the way native speakers do.
-- 'I am very glad to see both of you.' Nagiyev brings a playful tack for Kristina, pairing "ochen" ("very much") with "rad" ("glad") to get the point across in plain spoken Russian.
-- 'Tell me, what needs to be signed there?' Nagiyev asks candidly as the beat lands, linking "skazhite" ("tell"), "tam" ("there"), and "nado" ("it is necessary") in one brisk exchange.
-- 'Sasha, bring us some good champagne.' Nagiyev shows a lively footing in front of Kristina, building the phrase around "prinesi" ("bring") and "khoroshego" ("good, the best") for a crisp, natural delivery.
-- 'It seems we have a big celebration today.' Nagiyev conveys a frank tone at this moment, combining "segodnya" ("today") and "kazhetsya" ("it seems, I think") so the key meaning lands right away.
-- 'Do not hurry, first we need to discuss everything.' Kristina shows an emphatic view in the scene, pairing "toropis" ("rush") with "snachala" ("first, at first") to get the point across in plain spoken Russian.
-- 'After all, you are selling me half of the restaurant.' Nagiyev sustains a direct angle in the conversation, building the phrase around "prodayosh" ("sell") and "polovinu" ("half") for a crisp, natural delivery.
-- 'Yes, but now I want a million.' Kristina projects a firm angle right away, building the phrase around "teper" ("now") and "khochu" ("want") for a crisp, natural delivery.
-- 'If that is a threat, it will cost you dearly.' The guest strikes a lively direction as the scene unfolds, pairing "ugroza" ("threat") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'You are both owners of this restaurant.' The guest adopts a resolute course as the scene unfolds, building the phrase around "vladeltsy" ("owners") and "restorana" ("restaurant") for a crisp, natural delivery.
-- 'And you will manage it together.' The guest adopts a clear course as they talk, anchoring the Russian line on "upravlyat" ("to manage, to run") and "budete" ("will be") without extra filler.
-- 'That is very funny and amusing.' Nagiyev strikes an emphatic bearing during the exchange, leaning on "ochen" ("very much") before closing the thought with "smeshno" ("ridiculous").
+- 'I never thought I would say this phrase.' Nagiyev brings this statement at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I am very glad to see both of you.' Nagiyev continues lightly beside Kristina, so Kristina knows he is not just making small talk.
+- 'Tell me, what needs to be signed there?' Nagiyev leans on one sharp element in reply: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'Sasha, bring us some good champagne.' Nagiyev steps in bluntly with a sigh, watching Kristina's face to see how the news lands.
+- 'It seems we have a big celebration today.' Nagiyev fires back boldly beside the guest, so the guest knows he is not just making small talk.
+- 'Do not hurry, first we need to discuss everything.' Kristina uses one memorable term with Nagiyev: "snachala" means "first, at first", and it carries the main weight of what Kristina is saying.
+- 'After all, you are selling me half of the restaurant.' Nagiyev points to this key term right here: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'Yes, but now I want a million.' Kristina jumps in evenly to be clear, steering the talk right where she wants it.
+- 'If that is a threat, it will cost you dearly.' The guest emphasizes one telling word on cue: "ugroza" means "threat", and it carries the main weight of what the guest is saying.
+- 'You are both owners of this restaurant.' The guest brings the remark to Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And you will manage it together.' The guest reacts firmly with a sigh, steering the talk right where he wants it.
+- 'That is very funny and amusing.' Nagiyev leans on this vivid touch in reply: "smeshno" means "ridiculous", and it carries the main weight of what Nagiyev is saying.

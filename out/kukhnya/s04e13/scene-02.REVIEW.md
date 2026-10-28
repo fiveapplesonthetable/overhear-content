@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, did something happen to you?' Kostya checks earnestly in the room, leaning on "sluchilos" ("happened") before closing the thought with "nastya" ("Nastya").
-- 'No, Kostya, nothing is wrong with me.' Nastya adopts a warm approach in the room, putting "net" ("no") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
-- 'Viktoriya Sergeyevna, how do you feel?' Nastya asks directly without a pause, anchoring the Russian line on "kak" ("how") and "chuvstvuyete" ("feel") without extra filler.
-- 'Hang in there, please, everything will pass.' Nastya projects a resolute bearing in the room, weaving "derzhites" ("stick") together with "proydyot" ("will pass") just the way native speakers do.
-- 'Thank you, Nastya, everything is quite normal.' Vika shares a natural posture as the scene unfolds, anchoring the Russian line on "spasibo" ("thank you") and "vpolne" ("quite") without extra filler.
-- 'Do you want me to bring you some water?' Nastya presses decisively without holding back, pairing "khotite" ("want") with "prinesu" ("I will bring") to get the point across in plain spoken Russian.
-- 'Yes, thank you very much.' Vika maintains a measured posture on the spot, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
-- 'Denis, can you play something more cheerful?' Nastya wonders candidly to make the point, anchoring the Russian line on "mozhno" ("may, can") and "igrat" ("to play") without extra filler.
-- 'This music makes one want to cry.' Nastya picks a candid footing without hesitation, pairing "muzyki" ("music") with "khochetsya" ("want, feel like") to get the point across in plain spoken Russian.
-- 'Kostya, bring the report to the office.' Vika shares a sharp manner in the scene, anchoring the Russian line on "prinesi" ("bring") and "otchyot" ("report, account") without extra filler.
-- 'All right, I will bring everything right now.' Kostya strikes a grounded mood in their talk, joining "khorosho" ("good, fine") to "seychas" ("now") so every word pulls its weight.
-- 'Poor Vika, I feel sorry for her.' Nastya brings a frank approach in front of Vika, anchoring the Russian line on "bednaya" ("poor, unfortunate") and "zhalko" ("feel sorry for") without extra filler.
+- 'Nastya, did something happen to you?' Kostya aims the reaction around Nastya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'No, Kostya, nothing is wrong with me.' Nastya reacts candidly beside Vika, bringing things back to earth after the buildup.
+- 'Viktoriya Sergeyevna, how do you feel?' Nastya grounds one memorable term in earnest: "chuvstvuyete" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'Hang in there, please, everything will pass.' Nastya delivers this statement frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Thank you, Nastya, everything is quite normal.' Vika opens up lightly without holding back, making her position completely clear.
+- 'Do you want me to bring you some water?' Nastya leans on one vivid word for Vika: "vodichki" means "some water" (from "vodichka"), giving the line its exact edge.
+- 'Yes, thank you very much.' Vika sends this warning with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Denis, can you play something more cheerful?' Nastya probes straight out if there is more going on behind the scenes.
+- 'This music makes one want to cry.' Nastya reaches for this vivid piece in earnest: "khochetsya" means "want, feel like" (from "khotetsya"), giving the line its exact edge.
+- 'Kostya, bring the report to the office.' Vika opens up earnestly toward Nastya, watching Nastya's face to see how the news lands.
+- 'All right, I will bring everything right now.' Kostya replies at once as things stand, bringing things back to earth after the buildup.
+- 'Poor Vika, I feel sorry for her.' Nastya reaches for one classic detail at once: "bednaya" means "poor, unfortunate" (from "bednyy"), giving the line its exact edge.

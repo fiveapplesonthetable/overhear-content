@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you think this clever plan will work?' Barinov asks calmly with Mikhail now, using "dumayesh" (from "dumat", "think") alongside "khitryy" ("cunning") to shape the meaning.
-- 'Where would he get that kind of big money?' Mikhail presses sharply beside Nastya, leaning on "otkuda" ("where from") before closing the thought with "bolshiye" ("big, serious").
-- 'He will bring that old menu back to you.' Mikhail adopts a frank rhythm beside Barinov, leaning on "vernyot" ("will reimburse") before closing the thought with "staroye" ("old").
-- 'Kostik, I am stepping out for a little while now.' Nastya offers an unhurried position straight away, building the phrase around "seychas" ("now") and "otluchus" ("step away briefly") for a crisp, natural delivery.
-- 'I already asked Nikita for time off myself.' Nastya shares a thoughtful rhythm in the conversation, leaning on "nikity" ("of Nikita") before closing the thought with "uzhe" ("already, now").
-- 'Where are you heading off to, Nastya?' Barinov tests lightly in the room, putting "kuda" ("where to") alongside "sobralas" ("to get ready") in a tight, everyday turn of phrase.
-- 'Vitya, we need the money tomorrow already.' Mikhail establishes an honest position straight away, combining "dengi" ("money") and "nuzhny" ("needed") so the key meaning lands right away.
-- 'Clear, I heard you loud and clear.' Barinov strikes a calm direction at this moment, combining "yasno" ("clear, got it") and "prekrasno" ("perfectly") so the key meaning lands right away.
-- 'What, do you have no money at all?' Mikhail queries directly as they speak, combining "sovsem" ("at all") and "deneg" ("money") so the key meaning lands right away.
-- 'Actually no, I have a million right there.' Barinov chooses a firm rhythm across the room, combining "yest" ("there is") and "kak" ("how") so the key meaning lands right away.
-- 'Lena and I were saving it for our wedding.' Barinov maintains a lively rhythm in the room, pairing "svadbu" ("wedding") with "otkladyvali" ("were setting aside") to get the point across in plain spoken Russian.
-- 'I would definitely help you, my friend.' Mikhail presents a steady manner in the conversation, linking "obyazatelno" ("surely, without fail"), "pomog" ("helped"), and "drug" ("friend") in one brisk exchange.
+- 'Do you think this clever plan will work?' Barinov delivers this line right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Where would he get that kind of big money?' Mikhail tests curiously how Nastya expects that to work in practice.
+- 'He will bring that old menu back to you.' Mikhail favors one familiar detail in earnest: "staroye" means "old" (from "staryy"), giving the line its exact edge.
+- 'Kostik, I am stepping out for a little while now.' Nastya weighs in frankly with Mikhail, before Mikhail can change the subject.
+- 'I already asked Nikita for time off myself.' Nastya opens up right away to settle things, refusing to let the moment slip past.
+- 'Where are you heading off to, Nastya?' Barinov points to this telling expression for Nastya: "sobralas" means "to get ready" (from "sobratsya"), giving the line its exact edge.
+- 'Vitya, we need the money tomorrow already.' Mikhail cuts in honestly as they talk, before Barinov can change the subject.
+- 'Clear, I heard you loud and clear.' Barinov replies firmly toward Nastya, watching Nastya's face to see how the news lands.
+- 'What, do you have no money at all?' Mikhail centers one vivid word at once: "deneg" means "money" (from "dengi"), giving the line its exact edge.
+- 'Actually no, I have a million right there.' Barinov responds lightly in this moment, making his position completely clear.
+- 'Lena and I were saving it for our wedding.' Barinov chimes in calmly during the talk, making his position completely clear.
+- 'I would definitely help you, my friend.' Mikhail anchors one direct choice in reply: "obyazatelno" means "surely, without fail", and it carries the main weight of what Mikhail is saying.

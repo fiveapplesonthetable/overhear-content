@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could I possibly borrow it.' Max offers an honest rhythm toward Lyova, joining "mog" ("can, to be able") to "ne" ("not") so every word pulls its weight.
-- 'The money is not mine.' Sasha projects an easygoing note toward Max, linking "oni" ("they") directly with "ne" ("not"), since Russian drops "is" and "are" in the present.
-- 'I wanted to get her a special gift.' Lyova holds a pointed stance during the exchange, joining "khotel" ("wanted") to "sdelat" ("to do") so every word pulls its weight.
-- 'A mother is sacred.' Max establishes a grounded note during the exchange, building the phrase around "mama" ("mum, mother") and "svyatoye" ("holy, sacred") for a crisp, natural delivery.
-- 'I will definitely pay it back.' Sasha conveys a grounded approach beside Lyova, linking "obyazatelno" ("surely, without fail"), "vernu" ("I'll return"), and "ya" ("I") in one brisk exchange.
-- 'And the salad is already ready.' Lyova keeps a wry manner as the scene unfolds, pairing "salat" ("salad") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'Sasha, listen.' Max favors a thoughtful stance in front of Lyova, putting "slushay" ("listen") alongside "sasha" ("Sasha") in a tight, everyday turn of phrase.
-- 'I can see that you are not entirely comfortable staying at our place.' Sasha takes a brisk tempo in the scene, weaving "vizhu" ("see") together with "sovsem" ("at all") just the way native speakers do.
-- 'I found the money.' Lyova offers a measured bearing at once, weaving "nashel" ("found") together with "dengi" ("money") just the way native speakers do.
-- 'You know.' Max picks an honest line in the conversation, putting "znayesh" ("know") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'Because I had such a bad fight with the landlady the other day.' Sasha displays a brisk note in the room, anchoring the Russian line on "potomu" ("because") and "porugalas" ("to quarrel") without extra filler.
-- 'Let me go talk to her myself.' Lyova conveys an emphatic tempo on the spot, linking "davay" ("let's"), "poyedu" ("will go"), and "sam" ("yourself") in one brisk exchange.
-- 'Really? Really?' Max checks candidly at this point, putting all the weight on "da" ("yes") so the reply lands immediately.
+- 'Could I possibly borrow it.' Max voices the reaction plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'The money is not mine.' Sasha shares this answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I wanted to get her a special gift.' Lyova proceeds wryly beside Max, bringing things back to earth after the buildup.
+- 'A mother is sacred.' Max reaches for this clear piece for Sasha: "svyatoye" means "holy, sacred" (from "svyatoy"), giving the line its exact edge.
+- 'I will definitely pay it back.' Sasha hands over this warning beside Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And the salad is already ready.' Lyova counters boldly without holding back, testing Sasha's reaction in the middle of the exchange.
+- 'Sasha, listen.' Max stresses one memorable piece at once: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'I can see that you are not entirely comfortable staying at our place.' Sasha drops that reply before Max: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I found the money.' Lyova weighs in openly on the spot, steering the talk right where he wants it.
+- 'You know.' Max reaches for one sharp piece with Sasha: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'Because I had such a bad fight with the landlady the other day.' Sasha pushes back steadily watching Lyova, so Lyova knows she is not just making small talk.
+- 'Let me go talk to her myself.' Lyova fires back right away with a nod, watching Sasha's face to see how the news lands.
+- 'Really? Really?' Max aims that reply calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.

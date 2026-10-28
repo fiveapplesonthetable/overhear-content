@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sometimes he calms down right away.' Barinov offers a frank tack at this moment, joining "inogda" ("sometimes, at times") to "srazu" ("at once") so every word pulls its weight.
-- 'Prepare the seafood dish quickly!' Barinov adopts an honest tack beside Vika, putting "gotovte" ("cook") alongside "blyudo" ("dish") in a tight, everyday turn of phrase.
-- 'Chef, nobody brought us orders like that.' Nastya maintains a clear manner with Barinov, pairing "zakazov" ("orders") with "prinosili" ("to bring") to get the point across in plain spoken Russian.
-- 'This is for Grandpa Kirill.' Barinov favors a steady stance at once, pairing "deda" ("grandfathers") with "kirilla" ("Kirill") to get the point across in plain spoken Russian.
-- 'Guys, I am moving out of my apartment.' Vika maintains a brisk footing at once, joining "rebyata" ("the boys, the lads") to "kvartiry" ("flat") so every word pulls its weight.
-- 'Everything there is paid through the end of the year.' Vika brings an earnest manner at once, linking "tam" ("there"), "oplacheno" ("paid for"), and "kontsa" ("ending") in one brisk exchange.
-- 'Are you moving in with Dmitry Vladimirovich?' Nastya queries bluntly right away, weaving "pereyezzhayete" ("you are moving") together with "vy" ("you") just the way native speakers do.
-- 'We really need this apartment.' Nastya takes a serious course as the scene unfolds, combining "ochen" ("very much") and "nuzhna" ("needed") so the key meaning lands right away.
-- 'Our baby will arrive soon, he needs comfort.' Nastya establishes a calm rhythm in front of Barinov, combining "skoro" ("soon") and "malysh" ("kid, little one") so the key meaning lands right away.
-- 'Great, here are the keys to the apartment.' Vika maintains a frank position as they talk, leaning on "otlichno" ("perfect, great") before closing the thought with "klyuchi" ("the keys").
-- 'I will give you the second set tomorrow.' Vika picks a steady tempo at this moment, leaning on "vtoroy" ("second") before closing the thought with "komplekt" ("set").
-- 'You may get back to work.' Vika brings a resolute style as the scene unfolds, putting "mozhete" ("can, may") alongside "pristupat" ("to get started") in a tight, everyday turn of phrase.
+- 'Sometimes he calms down right away.' Barinov weighs in dryly watching Nastya, bringing things back to earth after the buildup.
+- 'Prepare the seafood dish quickly!' Barinov colors one colorful choice with Vika: "moreproduktov" means "seafood" (from "moreprodukty"), giving the line its exact edge.
+- 'Chef, nobody brought us orders like that.' Nastya chimes in right away without any doubt, watching Barinov's face to see how the news lands.
+- 'This is for Grandpa Kirill.' Barinov speaks up candidly with a sigh, bringing things back to earth after the buildup.
+- 'Guys, I am moving out of my apartment.' Vika colors one key element in earnest: "kvartiry" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Everything there is paid through the end of the year.' Vika continues dryly with a sigh, testing Nastya's reaction in the middle of the exchange.
+- 'Are you moving in with Dmitry Vladimirovich?' Nastya probes openly as Barinov tries to explain the situation.
+- 'We really need this apartment.' Nastya uses this sharp expression toward Vika: "kvartira" means "flat", and it carries the main weight of what Nastya is saying.
+- 'Our baby will arrive soon, he needs comfort.' Nastya gives this answer for Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Great, here are the keys to the apartment.' Vika chimes in warmly toward Nastya, without trying to dress up how she really feels.
+- 'I will give you the second set tomorrow.' Vika reaches for one direct piece with Barinov: "komplekt" means "set", and it carries the main weight of what Vika is saying.
+- 'You may get back to work.' Vika phrases this statement around Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

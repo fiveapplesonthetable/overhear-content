@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Little bunny, where are you going?' Nagiyev questions candidly from the start, placing "zaychonok" ("little bunny") straight beside "kuda" ("where to") with no word for "to be" needed.
-- 'Far away from you and your children!' Max presents a direct angle in the conversation, anchoring the Russian line on "podalshe" ("a little further away") and "detey" ("children") without extra filler.
-- 'Just listen to me, sweetheart!' Nagiyev holds a firm note in this beat, using "poslushay" (from "poslushat", "listen") alongside "zayka" ("sweetheart") to shape the meaning.
-- 'What was that just now?' Nagiyev queries bluntly in front of Vika, pairing "seychas" ("now") with "bylo" ("was") so the "-sya" ending carries the action.
-- 'Dima, forgive me.' Vika offers a thoughtful manner with Max, putting "prosti" ("sorry, forgive me") alongside "dima" ("Dima") in a tight, everyday turn of phrase.
-- 'I told Max that this is your child.' Vika displays a brisk rhythm in the room, putting "skazala" ("told") alongside "rebyonok" ("a child") in a tight, everyday turn of phrase.
-- 'What did you do?' Nagiyev asks bluntly as the talk turns, leaning on "sdelala" ("have done, did") before closing the thought with "chego" ("what").
-- 'There was nothing between you and me!' Nagiyev offers a firm bearing in the scene, doubling the negative with "ne" ("not") and "bylo" ("was"), which is standard and required in Russian.
-- 'I just wanted him to leave me alone.' Vika presents a resolute position without hesitation, putting "prosto" ("just") alongside "khotela" ("wanted, meant") in a tight, everyday turn of phrase.
-- 'How was there nothing at all?' Nagiyev questions firmly across the room, joining "kak" ("how") to "bylo" ("was") so every word pulls its weight.
-- 'I am very sorry.' Vika establishes an honest mood as the scene unfolds, leaning on "ochen" ("very much") before closing the thought with "zhal" ("it is a pity").
-- 'Great, now there will not be a wedding either.' Nagiyev adopts a clear manner as the scene unfolds, weaving "otlichno" ("perfect, great") together with "teper" ("now") just the way native speakers do.
+- 'Little bunny, where are you going?' Nagiyev points to one colorful touch with Max: "zaychonok" means "little bunny", and it carries the main weight of what Nagiyev is saying.
+- 'Far away from you and your children!' Max reaches for one concrete choice with Vika: "podalshe" means "a little further away", and it carries the main weight of what Max is saying.
+- 'Just listen to me, sweetheart!' Nagiyev proceeds plainly to be clear, refusing to let the moment slip past.
+- 'What was that just now?' Nagiyev emphasizes one memorable choice in earnest: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'Dima, forgive me.' Vika sends the reply with warmth: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'I told Max that this is your child.' Vika pushes back promptly with a smile, watching Nagiyev's face to see how the news lands.
+- 'What did you do?' Nagiyev favors one vivid element right here: "sdelala" means "have done, did" (from "sdelat"), giving the line its exact edge.
+- 'There was nothing between you and me!' Nagiyev phrases that reply beside Vika: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I just wanted him to leave me alone.' Vika follows up honestly as they talk, so Max knows she is not just making small talk.
+- 'How was there nothing at all?' Nagiyev drops this warning with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I am very sorry.' Vika gives this answer frankly here: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
+- 'Great, now there will not be a wedding either.' Nagiyev reacts bluntly around Vika, saying out loud what both of them already know.

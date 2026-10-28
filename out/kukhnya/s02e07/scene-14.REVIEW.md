@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I honestly thought that you would refuse.' Kostya chooses a pointed stance in front of Nastya, pairing "otkazhetes" ("to refuse, decline") with "voobshche" ("at all") so the "-sya" ending carries the action.
-- 'And that phone call trick you came up with was brilliant.' Nastya offers a lively attitude toward Kostya, building the phrase around "zvonkom" ("call, bell") and "zdorovo" ("great, cool") for a crisp, natural delivery.
-- 'All right, I will be right there.' Kostya sets a pointed position during the exchange, combining "khorosho" ("good, fine") and "seychas" ("now") so the key meaning lands right away.
-- 'Are you really leaving already, huh?' Nastya prompts pointedly as the talk turns, anchoring the Russian line on "ukhodite" ("leave, go away") and "neuzheli" ("really, can it be") without extra filler.
-- 'What happened?' Kostya checks naturally without holding back, pairing "sluchilos" ("happened") with "chto" ("what") so the "-sya" ending carries the action.
-- 'Yes, they are urgently calling me in to work.' Nastya adopts an easygoing approach for Kostya, building the phrase around "srochno" ("urgent, urgently") and "vyzyvayet" ("raises, causes") for a crisp, natural delivery.
-- 'Well then, tomorrow at the same place?' Kostya prompts frankly in the room, pairing "zavtra" ("tomorrow") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'At the exact same time?' Nastya tests naturally to Kostya here, leaning on "vremya" ("time") before closing the thought with "eto" ("this").
-- 'Well, see you tomorrow.' Kostya maintains an emphatic footing as they talk, leaning on "zavtra" ("tomorrow") before closing the thought with "nu" ("oh, come on").
-- 'Thank you for the company.' Nastya chooses a lively style in the room, putting "spasibo" ("thank you") alongside "kompaniyu" ("company") in a tight, everyday turn of phrase.
-- 'All right, let us make a deal.' Kostya displays a pointed line as the scene unfolds, combining "davayte" ("let's") and "dogovorimsya" ("we'll arrange") so the key meaning lands right away.
-- 'From this moment on, no more sports.' Nastya sets a wry manner toward Kostya, putting "momenta" ("moment") alongside "bolshe" ("more") in a tight, everyday turn of phrase.
-- 'I could not be happier to agree.' Nastya brings an earnest note without hesitation, pairing "budu" ("will be") with "tolko" ("only") to get the point across in plain spoken Russian.
+- 'I honestly thought that you would refuse.' Kostya voices the remark facing Nastya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'And that phone call trick you came up with was brilliant.' Nastya weighs in candidly facing Kostya, steering the talk right where she wants it.
+- 'All right, I will be right there.' Kostya colors this direct choice in earnest: "khorosho" means "good, fine", and it carries the main weight of what Kostya is saying.
+- 'Are you really leaving already, huh?' Nastya directs that point with candor: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'What happened?' Kostya prompts sharply while looking straight at Nastya here.
+- 'Yes, they are urgently calling me in to work.' Nastya colors one pointed piece on cue: "vyzyvayet" means "raises, causes" (from "vyzyvat"), giving the line its exact edge.
+- 'Well then, tomorrow at the same place?' Kostya puts this point toward Nastya: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'At the exact same time?' Nastya presses promptly in front of Kostya without any preamble.
+- 'Well, see you tomorrow.' Kostya frames one sharp detail toward Nastya: "zavtra" means "tomorrow", and it carries the main weight of what Kostya is saying.
+- 'Thank you for the company.' Nastya states that point frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'All right, let us make a deal.' Kostya pushes back earnestly without holding back, without trying to dress up how he really feels.
+- 'From this moment on, no more sports.' Nastya colors one memorable detail with Kostya: "momenta" means "moment" (from "moment"), giving the line its exact edge.
+- 'I could not be happier to agree.' Nastya continues lightly to settle things, so Kostya knows she is not just making small talk.

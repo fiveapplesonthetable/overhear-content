@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The alcohol ran out and the atmosphere of trust was interrupted.' The doctor favors a calm course during the exchange, weaving "zakonchilsya" ("ended") together with "alkogol" ("alcohol") just the way native speakers do.
-- 'Actually, I do not drink.' The doctor brings a sharp style beside Max, putting "voobshche-to" ("actually") alongside "pyu" ("to drink") in a tight, everyday turn of phrase.
-- 'But Yekaterina Victorovna turned out to be a very difficult case.' The doctor strikes a firm bearing as they talk, leaning on "ochen" ("very much") before closing the thought with "slozhnyy" ("tough, difficult").
-- 'Katya went to get a breath of fresh air.' The doctor brings a warm attitude straight away, combining "poshla" ("am off") and "podyshat" ("to breathe in") so the key meaning lands right away.
-- 'Kostyan, I got robbed, no, not in Saint Petersburg.' Max displays an unhurried approach for the doctor, anchoring the Russian line on "obvorovali" ("robbed") and "kostyan" ("Kostyan") without extra filler.
-- 'I will come right now, bye.' Max establishes a direct tempo straight away, anchoring the Russian line on "seychas" ("now") and "pridu" ("will come") without extra filler.
-- 'What do you mean I am not allowed in here?' Max prompts evenly to keep things clear, placing "znachit" ("then, so") straight beside "syuda" ("here") with no word for "to be" needed.
-- 'What are you, a parrot? They are waiting for me, let me pass!' Max queries honestly as the beat lands, leaning on "popugay" ("parrot") before closing the thought with "zhdut" ("to wait, to expect").
-- 'Hi.' Katya takes a firm direction in front of the doctor, letting the single Russian word "privet" ("hi") carry the entire reaction on its own.
-- 'How did you end up here?' Max questions lightly without holding back, weaving "kak" ("how") together with "zdes" ("here") just the way native speakers do.
-- 'I am climbing along the balcony and I see them beating you.' Katya chooses an easygoing posture for the doctor, anchoring the Russian line on "balkonu" ("balcony") and "lezu" ("am climbing") without extra filler.
-- 'What a great day today.' Max brings a direct note beside Katya, combining "otlichnyy" ("excellent, great") and "segodnya" ("today") so the key meaning lands right away.
+- 'The alcohol ran out and the atmosphere of trust was interrupted.' The doctor emphasizes one key expression in earnest: "zakonchilsya" means "ended" (from "zakonchitsya"), giving the line its exact edge.
+- 'Actually, I do not drink.' The doctor brings this update right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'But Yekaterina Victorovna turned out to be a very difficult case.' The doctor replies firmly with a smile, before Katya can change the subject.
+- 'Katya went to get a breath of fresh air.' The doctor reaches for one direct word right here: "vozdukhom" means "air" (from "vozdukh"), giving the line its exact edge.
+- 'Kostyan, I got robbed, no, not in Saint Petersburg.' Max pushes back candidly watching the doctor, without trying to dress up how he really feels.
+- 'I will come right now, bye.' Max cuts in evenly hearing Katya, to clear the air between them once and for all.
+- 'What do you mean I am not allowed in here?' Max uses this sharp piece right here: "znachit" means "then, so", and it carries the main weight of what Max is saying.
+- 'What are you, a parrot? They are waiting for me, let me pass!' Max sends this answer before Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Hi.' Katya speaks warmly with a smile, steering the talk right where she wants it.
+- 'How did you end up here?' Max underscores one clear word with Katya: "okazalas" means "to turn out to be" (from "okazatsya"), giving the line its exact edge.
+- 'I am climbing along the balcony and I see them beating you.' Katya emphasizes one concrete word on cue: "balkonu" means "balcony" (from "balkon"), giving the line its exact edge.
+- 'What a great day today.' Max continues bluntly without holding back, testing Katya's reaction in the middle of the exchange.

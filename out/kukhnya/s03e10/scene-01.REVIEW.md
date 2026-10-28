@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The ideal start to the day is an invigorating shower.' Max conveys a frank course in the scene, joining "idealnoye" ("ideal, perfect") to "nachalo" ("the beginning") so every word pulls its weight.
-- 'A hearty breakfast and a little cup of hot coffee.' Max establishes an emphatic bearing with Lyova, weaving "plotnyy" ("hearty, solid") together with "zavtrak" ("breakfast") just the way native speakers do.
-- 'Ouch, Lyova, that is very hot!' Max holds an earnest mood as the scene unfolds, pairing "ochen" ("very much") with "goryacho" ("hot") to get the point across in plain spoken Russian.
-- 'Forgive me, please, I did it by accident.' Lyova maintains a thoughtful tack with Max, putting "prosti" ("sorry, forgive me") alongside "sluchayno" ("by any chance") in a tight, everyday turn of phrase.
-- 'Were you peeking at Katya again?' Max checks evenly as the talk turns, joining "opyat" ("again") to "podglyadyval" ("were spying") so every word pulls its weight.
-- 'Our Lyova has fallen for the Chef's daughter.' Max maintains a serious tone with Lyova, leaning on "zapal" ("fell for") before closing the thought with "dochku" ("daughter").
-- 'Wait, is it really that noticeable?' Lyova probes directly to make the point, pairing "zametno" ("noticeable") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'I understand, I do not have a chance.' Lyova fires back dryly for Max's benefit, using the everyday "u menya" ("by me") alongside "ponimayu" ("understand") to show what belongs to the speaker.
-- 'Come on, why are you writing yourself off?' Max asks openly without a pause, using "khoronish" (from "khoronit", "you bury, write off") alongside "ladno" ("all right") to shape the meaning.
-- 'You have to help me with Katya.' Lyova brings a thoughtful course in the conversation, weaving "dolzhen" ("has to, must") together with "pomoch" ("to help") just the way native speakers do.
-- 'What? I am not going to help.' Max wonders evenly beside Lyova, joining "budu" ("will be") to "pomogat" ("to help") so every word pulls its weight.
-- 'I am serious, just judge for yourself.' Lyova sets a direct tempo in the room, putting "seryozno" ("seriously") alongside "posudi" ("judge for yourself") in a tight, everyday turn of phrase.
+- 'The ideal start to the day is an invigorating shower.' Max emphasizes one memorable detail toward Lyova: "bodryashchiy" means "invigorating", and it carries the main weight of what Max is saying.
+- 'A hearty breakfast and a little cup of hot coffee.' Max cuts in lightly watching Lyova, before Lyova can change the subject.
+- 'Ouch, Lyova, that is very hot!' Max proceeds boldly watching Lyova, keeping the focus on what actually matters here.
+- 'Forgive me, please, I did it by accident.' Lyova features one familiar piece in reply: "sluchayno" means "by any chance", and it carries the main weight of what Lyova is saying.
+- 'Were you peeking at Katya again?' Max aims the comeback in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Our Lyova has fallen for the Chef's daughter.' Max chimes in steadily without any doubt, without trying to dress up how he really feels.
+- 'Wait, is it really that noticeable?' Lyova stresses one memorable expression right here: "zametno" means "noticeable", and it carries the main weight of what Lyova is saying.
+- 'I understand, I do not have a chance.' Lyova delivers this point for Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Come on, why are you writing yourself off?' Max tests promptly how Lyova expects that to work in practice.
+- 'You have to help me with Katya.' Lyova chooses one direct word for Max: "dolzhen" means "has to, must", and it carries the main weight of what Lyova is saying.
+- 'What? I am not going to help.' Max puts this answer for Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'I am serious, just judge for yourself.' Lyova answers evenly hearing Max, making his position completely clear.

@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I forgot the fruit.' Kostya sets a resolute posture on the spot, combining "frukty" ("fruit") and "zabyl" ("forgot") so the key meaning lands right away.
-- 'Do you have any fruit?' Kostya prompts promptly during the talk, joining "yest" ("there is") to "frukty" ("fruit") so every word pulls its weight.
-- 'We do not have any fruit.' Max holds a resolute angle during the exchange, leaning on "fruktov" ("piece of fruit") before closing the thought with "nas" ("us").
-- 'Do not tell Nastya.' Kostya keeps a grounded rhythm as the scene unfolds, linking "govori" ("say, talk"), "ty" ("you"), and "naste" ("Nastya") in one brisk exchange.
-- 'Do not say that I forgot the fruit.' Kostya offers a candid tempo with Max, linking "govori" ("say, talk"), "zabyl" ("forgot"), and "frukty" ("fruit") in one brisk exchange.
-- 'And I will say that I brought them.' Kostya brings an unhurried view for Max, putting "skazhu" ("I'll tell") alongside "prinyos" ("brought") in a tight, everyday turn of phrase.
-- 'Bro, thanks for helping us out.' Kostya conveys a pointed view without hesitation, combining "bratishka" ("bro") and "spasibo" ("thank you") so the key meaning lands right away.
-- 'Come on, everything is fine.' Max conveys a steady line straight away, weaving "khorosho" ("good, fine") together with "da" ("yes") just the way native speakers do.
-- 'Only Vika is angry at me.' Max keeps a grounded course in their talk, joining "tolko" ("only") to "zlitsya" ("is angry") so every word pulls its weight.
-- 'Children bring people closer, right?' Kostya checks decisively toward Max here, combining "deti" ("kids") and "sblizhayut" ("to people") so the key meaning lands right away.
-- 'In a family you must tell the truth.' Kostya holds an unhurried attitude at this moment, building the phrase around "semye" ("family") and "nado" ("it is necessary") for a crisp, natural delivery.
-- 'Like you with the fruit, right?' Max questions boldly as the talk turns, pairing "kak" ("how") with "fruktami" ("fruit") to get the point across in plain spoken Russian.
-- 'All right, call me if anything happens.' Kostya projects an emphatic line without hesitation, linking "zvonite" ("call"), "vsyo" ("everything"), and "yesli" ("if") in one brisk exchange.
-- 'Our Stepan is calm.' Kostya sustains a grounded footing at this moment, leaning on "spokoynyy" ("calm") before closing the thought with "stepan" ("Stepan").
-- 'There will be no problems with him.' Kostya establishes a pointed footing in their talk, anchoring the Russian line on "problem" ("problems") and "budet" ("will be") without extra filler.
+- 'I forgot the fruit.' Kostya answers earnestly as things stand, making his position completely clear.
+- 'Do you have any fruit?' Kostya uses this vivid touch in earnest: "frukty" means "fruit" (from "frukt"), giving the line its exact edge.
+- 'We do not have any fruit.' Max states this warning toward Kostya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Do not tell Nastya.' Kostya counters plainly hearing Max, letting the remark speak for itself.
+- 'Do not say that I forgot the fruit.' Kostya picks one familiar choice at once: "frukty" means "fruit" (from "frukt"), giving the line its exact edge.
+- 'And I will say that I brought them.' Kostya states the thought calmly now: the "-sya" ending on "prinyos" ("brought") turns the action inward or makes it happen between people naturally.
+- 'Bro, thanks for helping us out.' Kostya fires back boldly with Max, saying out loud what both of them already know.
+- 'Come on, everything is fine.' Max emphasizes one memorable touch at once: "khorosho" means "good, fine", and it carries the main weight of what Max is saying.
+- 'Only Vika is angry at me.' Max shapes that reply with warmth: the "-sya" ending on "zlitsya" ("is angry") turns the action inward or makes it happen between people naturally.
+- 'Children bring people closer, right?' Pressing ahead with honesty, Kostya makes it clear that he means every single word.
+- 'In a family you must tell the truth.' Kostya points to one classic element on cue: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'Like you with the fruit, right?' Max brings that reply briskly now: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'All right, call me if anything happens.' Kostya jumps in candidly with a nod, grounding the moment in plain reality.
+- 'Our Stepan is calm.' Kostya points to this clear element toward Max: "spokoynyy" means "calm", and it carries the main weight of what Kostya is saying.
+- 'There will be no problems with him.' Kostya cuts in plainly with a smile, making his position completely clear.

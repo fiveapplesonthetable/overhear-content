@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You could try another sausage at least once.' Katya picks a direct approach with Denis, building the phrase around "mozhno" ("may, can") and "druguyu" ("the other one") for a crisp, natural delivery.
-- 'They gifted you sausage, so be grateful!' Nikita takes a sharp line in this beat, weaving "podarili" ("gave") together with "kolbasu" ("sausage") just the way native speakers do.
-- 'Katya, let me drive you in a car?' Denis tests openly for Katya's benefit, using "davay" (from "davat", "let's") alongside "mashine" ("car") to shape the meaning.
-- 'No need, I called a taxi.' Katya strikes a brisk position right away, anchoring the Russian line on "nado" ("it is necessary") and "taksi" ("taxi") without extra filler.
-- 'Let me take you in the taxi.' Nikita conveys a frank note as they talk, combining "davay" ("let's") and "taksi" ("taxi") so the key meaning lands right away.
-- 'I will manage by myself.' Katya shares a firm stance without hesitation, weaving "spravlyus" ("will manage") together with "ya" ("I") just the way native speakers do.
-- 'Where were you looking when you kicked so hard?' Nikita queries naturally as the talk turns, leaning on "kuda" ("where to") before closing the thought with "smotrel" ("watched").
-- 'You are the one who deflected the ball into her face!' Denis holds a natural footing on the spot, pairing "litso" ("face") with "myach" ("ball") to get the point across in plain spoken Russian.
-- 'If only you had blocked it properly!' Denis displays an easygoing posture right away, putting "normalno" ("fine, OK") alongside "otbival" ("blocked, deflected") in a tight, everyday turn of phrase.
-- 'Guys, we have a bullet!' Nikita brings a natural position in the room, leaning on "u nas" ("by us, at our place") and "rebyata" ("the boys, the lads") the way natural Russian does.
-- 'Did you wash it well?' Denis wonders lightly in front of Katya, anchoring the Russian line on "khorosho" ("good, fine") and "pomyl" ("washed") without extra filler.
-- 'Yes, I wiped it with alcohol!' Nikita presents an honest bearing for Katya, combining "spirtom" ("with rubbing alcohol") and "proter" ("wiped") so the key meaning lands right away.
+- 'You could try another sausage at least once.' Katya holds firm bluntly watching Denis, keeping the focus on what actually matters here.
+- 'They gifted you sausage, so be grateful!' Nikita grounds one telling touch toward Katya: "blagodaren" means "grateful" (from "blagodarnyy"), giving the line its exact edge.
+- 'Katya, let me drive you in a car?' Denis lays out the comment before Katya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'No need, I called a taxi.' Katya replies evenly with Nikita, so Nikita knows she is not just making small talk.
+- 'Let me take you in the taxi.' Nikita sharpens one sharp choice right here: "taksi" means "taxi", and it carries the main weight of what Nikita is saying.
+- 'I will manage by myself.' Katya shapes this line at once: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
+- 'Where were you looking when you kicked so hard?' Nikita questions openly if there is more going on behind the scenes.
+- 'You are the one who deflected the ball into her face!' Denis grounds this sharp expression at once: "litso" means "face", and it carries the main weight of what Denis is saying.
+- 'If only you had blocked it properly!' Denis spotlights one key term with Katya: "normalno" means "fine, OK", and it carries the main weight of what Denis is saying.
+- 'Guys, we have a bullet!' Nikita continues openly during the talk, leaving no doubt about where he stands.
+- 'Did you wash it well?' Denis focuses on this vivid choice toward Katya: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.
+- 'Yes, I wiped it with alcohol!' Nikita hands over the thought for Katya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

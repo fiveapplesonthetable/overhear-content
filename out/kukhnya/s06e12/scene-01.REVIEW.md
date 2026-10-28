@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems I drank way too much again last night.' Senya strikes a candid bearing in front of Denis, building the phrase around "kazhetsya" ("it seems, I think") and "vchera" ("yesterday") for a crisp, natural delivery.
-- 'Senya, are you not late for work today?' Denis challenges warmly across the room, pairing "rabotu" ("job") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'Right, I am already late, bye everyone!' Senya offers a candid view for Denis, leaning on "tochno" ("definitely") before closing the thought with "uzhe" ("already, now").
-- 'Alright, it is time for me to get ready for my shift too.' Denis shows a playful tempo across the room, building the phrase around "tozhe" ("too") and "pora" ("it's time") for a crisp, natural delivery.
-- 'Tell me, how are things with you and Denis, is it serious?' Senya questions briskly to keep things clear, combining "rasskazhi" ("tell") and "kak" ("how") so the key meaning lands right away.
-- 'I really hope that everything is serious between us.' Sveta displays a firm position in their talk, putting "ochen" ("very much") alongside "nadeyus" ("hope so") in a tight, everyday turn of phrase.
-- 'Why just hope, you two suit each other great.' Senya brings a direct direction in the scene, putting "nadeyatsya" ("to hope, to rely on") alongside "otlichno" ("perfect, great") in a tight, everyday turn of phrase.
-- 'If you found a good guy, you need to marry him right away.' Senya chooses an earnest line at this moment, putting "nashla" ("found, did you find") alongside "khoroshego" ("good, the best") in a tight, everyday turn of phrase.
-- 'Is it not too early to talk about that?' Sveta quizzes promptly in front of Denis, linking "slishkom" ("too"), "rano" ("early, young"), and "govorit" ("to talk") in one brisk exchange.
-- 'If you think that long, you will stay completely unmarried.' Senya holds a playful position in the scene, linking "budesh" ("will"), "dolgo" ("for a long time"), and "dumat" ("to think") in one brisk exchange.
-- 'A good friend of mine works at a jewelry store.' Senya favors an easygoing angle in this beat, building the phrase around "rabotayet" ("works") and "khoroshaya" ("good") for a crisp, natural delivery.
-- 'You are ready to pay for half the ring for the cause, right?' Senya wonders evenly without a pause, using "gotova" (from "gotovyy", "ready") alongside "oplatit" ("will pay for") to shape the meaning.
-- 'Yes, of course, then everything will definitely be fine!' Sveta maintains an earnest rhythm beside Denis, joining "konechno" ("of course") to "togda" ("back then") so every word pulls its weight.
+- 'It seems I drank way too much again last night.' Senya highlights one loaded detail in reply: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Senya, are you not late for work today?' Denis shapes that line without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Sveta purely through rising pitch at the end.
+- 'Right, I am already late, bye everyone!' Senya weighs in frankly watching Denis, leaving no doubt about where he stands.
+- 'Alright, it is time for me to get ready for my shift too.' Denis points to one key choice in earnest: "sobiratsya" means "to get ready", and it carries the main weight of what Denis is saying.
+- 'Tell me, how are things with you and Denis, is it serious?' Senya sends that remark beside Denis: putting the question word "kak" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'I really hope that everything is serious between us.' Sveta pushes back decisively watching Senya, so Senya knows she is not just making small talk.
+- 'Why just hope, you two suit each other great.' Senya centers one vivid term in earnest: "nadeyatsya" means "to hope, to rely on", and it carries the main weight of what Senya is saying.
+- 'If you found a good guy, you need to marry him right away.' Senya lays out this line toward Sveta: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Is it not too early to talk about that?' Sveta tests point-blank if there is more going on behind the scenes.
+- 'If you think that long, you will stay completely unmarried.' Senya focuses on this sharp element for Sveta: "nezamuzhney" means "unmarried" (from "nezamuzhniy"), giving the line its exact edge.
+- 'A good friend of mine works at a jewelry store.' Senya drops this update beside Denis: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'You are ready to pay for half the ring for the cause, right?' Senya quizzes plainly about what Sveta just brought up.
+- 'Yes, of course, then everything will definitely be fine!' Sveta frames one concrete detail in reply: "konechno" means "of course", and it carries the main weight of what Sveta is saying.

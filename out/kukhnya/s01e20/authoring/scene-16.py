@@ -35,5 +35,5 @@ WALK = [
     (0, None, "'I do not need them anymore.' Max drunkenly decides he has no use for his possessions now."),
     (1, None, "'Here, take it, old man.' Max hands his expensive ring over to a random homeless man."),
     (2, None, "'You need it more than I do.' Max insists the stranger will get more value out of it."),
-    (3, None, "'You are a very kind person.' old man sincerely thanks him for the incredible generosity."),
+    (3, None, "'You are a very kind person.' Touched by the unexpected gift of the watch, the old man warmly tells Max that he has a very kind heart."),
 ]

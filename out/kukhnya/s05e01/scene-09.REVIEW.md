@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is completely normal.' Nastya maintains a brisk manner beside Barinov, building the phrase around "sovershenno" ("quite, completely") and "normalno" ("fine, OK") for a crisp, natural delivery.
-- 'I was pregnant and kept forgetting everything.' Nastya takes an earnest tack during the exchange, linking "byla" ("was"), "beremenna" ("pregnant"), and "zabyvala" ("I used to forget") in one brisk exchange.
-- 'One day I ended up at the zoo.' Nastya picks an honest angle as the scene unfolds, anchoring the Russian line on "odnazhdy" ("once, one day") and "prishla" ("came") without extra filler.
-- 'Nastya, I have a favor to ask.' Vika chooses an unhurried rhythm toward Nastya, combining "yest" ("there is") and "prosba" ("a request") so the key meaning lands right away.
-- 'Do not tell anyone about this, okay?' Vika tests calmly as they speak, combining "govori" ("say, talk") and "ne" ("not") so the key meaning lands right away.
-- 'I do not want to publicize it yet.' Vika shows a grounded course beside Nastya, pairing "poka" ("bye") with "khochu" ("want") to get the point across in plain spoken Russian.
-- 'Victor Petrovich, there is a new order here.' Vika establishes an earnest stance in this beat, putting "tut" ("here") alongside "novyy" ("new") in a tight, everyday turn of phrase.
-- 'A guest ordered the room service.' Vika offers a lively posture toward Nastya, building the phrase around "gost" ("guest") and "zakazal" ("ordered") for a crisp, natural delivery.
-- 'Fine, I will go up myself right now.' Barinov brings an unhurried approach toward Nastya, combining the easygoing tag "ladno" ("okay, fine") with "seychas" ("now") to give the line its natural spoken rhythm.
-- 'Did you call the chef to the room?' Barinov presses bluntly for Vika's benefit, combining "vyzyvali" ("to cause, to raise") and "shefa" ("chef") so the key meaning lands right away.
-- 'Did you order the chicken breast?' Barinov asks calmly in the scene, pairing "kurinuyu" ("chicken") with "grudku" ("chicken breast") to get the point across in plain spoken Russian.
-- 'What are you doing in there right now?' Vika challenges wryly right away, building the phrase around "seychas" ("now") and "tam" ("there") for a crisp, natural delivery.
+- 'That is completely normal.' Nastya chimes in dryly with a shrug, without trying to dress up how she really feels.
+- 'I was pregnant and kept forgetting everything.' Nastya frames this telling expression on cue: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
+- 'One day I ended up at the zoo.' Nastya holds firm wryly with a sigh, saying out loud what both of them already know.
+- 'Nastya, I have a favor to ask.' Vika responds candidly on the spot, testing Nastya's reaction in the middle of the exchange.
+- 'Do not tell anyone about this, okay?' Vika anchors this vivid word at once: "govori" means "say, talk" (from "govorit"), giving the line its exact edge.
+- 'I do not want to publicize it yet.' Vika steps in honestly to settle things, saying out loud what both of them already know.
+- 'Victor Petrovich, there is a new order here.' Vika cuts in earnestly with Barinov, without trying to dress up how she really feels.
+- 'A guest ordered the room service.' Vika centers one telling term with Nastya: "uslugu" means "service, favor" (from "usluga"), giving the line its exact edge.
+- 'Fine, I will go up myself right now.' Barinov makes that reply beside Nastya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nastya is on board.
+- 'Did you call the chef to the room?' Barinov presses eagerly how Vika expects that to work in practice.
+- 'Did you order the chicken breast?' Barinov spotlights one familiar choice in reply: "kurinuyu" means "chicken" (from "kurinyy"), giving the line its exact edge.
+- 'What are you doing in there right now?' Vika directs the comeback briskly now: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.

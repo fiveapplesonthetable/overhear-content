@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, please, dear friend.' Eleonora favors a firm manner toward Denis, linking "prostite" ("excuse me"), "dorogoy" ("dear"), and "drug" ("friend") in one brisk exchange.
-- 'Horses bite in your hotel room!' Denis holds a resolute mood in the conversation, combining "u tebya" (literally "by you") with "nomere" ("in the hotel room") rather than a separate word for "have".
-- 'Tell me, is this a hotel or a stable?' Denis prompts naturally as they speak, joining "skazhi" ("say") to "otel" ("hotel") so every word pulls its weight.
-- 'We did not even talk about the money.' Eleonora chooses an easygoing posture toward Katya, leaning on "dengakh" ("money") before closing the thought with "pogovorili" ("had a talk").
-- 'First I will get checked for rabies.' Denis strikes a pointed note as the scene unfolds, weaving "snachala" ("first, at first") together with "beshenstvo" ("rabies") just the way native speakers do.
-- 'There is a mad horse in my hotel!' Eleonora favors a firm attitude in the conversation, placing "otele" ("in the hotel") straight beside "beshenaya" ("mad, rabid") with no word for "to be" needed.
-- 'Let us drink to Katya and Nikita.' Denis maintains a thoughtful posture in their talk, combining "davay" ("let's") and "vypyem" ("will drink") so the key meaning lands right away.
-- 'They are a very beautiful couple, after all.' Denis chooses a brisk tack in this beat, linking "ochen" ("very much"), "krasivaya" ("pretty, beautiful"), and "para" ("a match, a pair") in one brisk exchange.
-- 'We are drinking to our young couple.' Katya adopts a sharp stance without hesitation, anchoring the Russian line on "pyom" ("to drink") and "molodykh" ("young") without extra filler.
-- 'They canceled the flight to Tokyo today.' Denis establishes a frank attitude across the room, weaving "reys" ("flight") together with "segodnya" ("today") just the way native speakers do.
-- 'The plane is not flying because of bad weather.' Denis maintains a thoughtful direction in the scene, linking "samolyot" ("plane"), "letit" ("is flying"), and "nepogody" ("bad weather") in one brisk exchange.
-- 'The weather there is terrible, a strong typhoon.' Katya keeps a clear tone without hesitation, combining "pogoda" ("weather") and "tam" ("there") so the key meaning lands right away.
+- 'Forgive me, please, dear friend.' Eleonora emphasizes one pointed word in earnest: "dorogoy" means "dear", and it carries the main weight of what Eleonora is saying.
+- 'Horses bite in your hotel room!' Denis lays out this point plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Tell me, is this a hotel or a stable?' Denis checks firmly about what Eleonora just brought up.
+- 'We did not even talk about the money.' Eleonora points to this telling term toward Katya: "pogovorili" means "had a talk" (from "pogovorit"), giving the line its exact edge.
+- 'First I will get checked for rabies.' Denis replies lightly across the room, refusing to let the moment slip past.
+- 'There is a mad horse in my hotel!' Eleonora speaks up quietly with a nod, testing Katya's reaction in the middle of the exchange.
+- 'Let us drink to Katya and Nikita.' Denis features one clear term right here: "vypyem" means "will drink" (from "vypit"), giving the line its exact edge.
+- 'They are a very beautiful couple, after all.' Denis voices this warning facing Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We are drinking to our young couple.' Katya reacts wryly to settle things, before Denis can change the subject.
+- 'They canceled the flight to Tokyo today.' Denis anchors one direct detail in earnest: "segodnya" means "today", and it carries the main weight of what Denis is saying.
+- 'The plane is not flying because of bad weather.' Denis chimes in plainly without holding back, grounding the moment in plain reality.
+- 'The weather there is terrible, a strong typhoon.' Katya counters bluntly to be clear, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, is he at least alive?' Barinov questions candidly beside Katya, pairing "skazhi" ("say") with "zhiv" ("alive") to get the point across in plain spoken Russian.
-- 'He is alive, I barely persuaded him.' Katya displays a warm attitude right away, combining "zhiv" ("alive") and "yele" ("barely, hardly") so the key meaning lands right away.
-- 'So that he would not file a report with the police.' Katya maintains an easygoing note as they talk, leaning on "politsiyu" ("the police") before closing the thought with "zayavlyal" ("reported").
-- 'That is it, daughter, I will quit drinking.' Barinov brings a clear tone beside Vika, combining "dochka" ("dear, daughter") and "broshu" ("will abandon") so the key meaning lands right away.
-- 'Do you want me to get coded for sobriety tomorrow?' Barinov checks promptly with Katya now, weaving "khochesh" ("do you want") together with "zavtra" ("tomorrow") just the way native speakers do.
-- 'Dad, Vika keeps pestering me about my documents.' Katya projects a natural tack as the scene unfolds, joining "papa" ("Dad") to "tam" ("there") so every word pulls its weight.
-- 'Tell her to leave me alone about them.' Katya shows a candid footing right away, weaving "skazhi" ("say") together with "otstala" ("to fall behind") just the way native speakers do.
-- 'Yes, I will definitely tell her, forgive me once again.' Barinov shows a steady direction in this beat, building the phrase around "obyazatelno" ("surely, without fail") and "skazhu" ("I'll tell") for a crisp, natural delivery.
-- 'I looked over the contract with the meatpacking plant.' Vika shows a direct attitude in their talk, using "posmotrel" (from "posmotret", "looked, had a look") alongside "dogovor" ("contract, agreement") to shape the meaning.
-- 'They are scheming something with the deadlines there.' Vika sustains a measured stance straight away, leaning on "tam" ("there") before closing the thought with "srokami" ("term, period").
-- 'Oh no, Nastya has just arrived out there!' Vika displays a resolute view as they talk, anchoring the Russian line on "tam" ("there") and "seychas" ("now") without extra filler.
-- 'An important visitor has come to see you.' Vika strikes a natural attitude right away, weaving "prishyol" ("came, have come") together with "vazhnyy" ("important") just the way native speakers do.
+- 'Tell me, is he at least alive?' Barinov delivers that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'He is alive, I barely persuaded him.' Katya pushes back at once with a smile, shifting the whole mood of the room in a single beat.
+- 'So that he would not file a report with the police.' Katya colors this vivid detail in earnest: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
+- 'That is it, daughter, I will quit drinking.' Barinov continues plainly facing Vika, so Vika knows he is not just making small talk.
+- 'Do you want me to get coded for sobriety tomorrow?' Barinov quizzes promptly as Katya tries to explain the situation.
+- 'Dad, Vika keeps pestering me about my documents.' Katya stresses one sharp touch at once: "dokumentami" means "documents" (from "dokument"), giving the line its exact edge.
+- 'Tell her to leave me alone about them.' Katya steps in at once without a pause, steering the talk right where she wants it.
+- 'Yes, I will definitely tell her, forgive me once again.' Barinov steps in lightly as they talk, shifting the whole mood of the room in a single beat.
+- 'I looked over the contract with the meatpacking plant.' Vika focuses on one familiar touch right here: "myasokombinatom" means "meatpacking plant" (from "myasokombinat"), giving the line its exact edge.
+- 'They are scheming something with the deadlines there.' Vika stands firm evenly without holding back, grounding the moment in plain reality.
+- 'Oh no, Nastya has just arrived out there!' Vika pushes back briskly with a sigh, saying out loud what both of them already know.
+- 'An important visitor has come to see you.' Vika favors this vivid element in earnest: "posetitel" means "visitor", and it carries the main weight of what Vika is saying.

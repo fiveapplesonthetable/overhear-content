@@ -32,9 +32,9 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Enjoy your meal.' Serving a table in the dining room, Sasha wishes the guest a pleasant meal."),
-    (1, None, "'Sasha, hi.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'hi'."),
+    (1, None, "'Sasha, hi.' Sitting down at the table with a warm smile, the guest greets Sasha casually."),
     (2, None, "'I want to eat.' Another guest tells Sasha that he is hungry and ready to order."),
-    (3, None, "'Will you ask for a California roll?' the guest turns a statement into a question purely through rising intonation on the word meaning 'to ask' to make the point directly in conversation."),
+    (3, None, "'Will you ask for a California roll?' Glancing at the menu, the guest asks whether she is going to order a classic roll."),
     (4, None, "'Yes, of course.' When the guest asks for a 'California' roll, Sasha gladly agrees to bring it."),
     (5, None, "'Okay, thanks.' She thanks the guest and turns to place the sushi order."),
     (6, None, "'Oh, what is this?' Suddenly noticing a commotion at a nearby table, Sasha gasps in alarm."),

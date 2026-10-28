@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With immense pleasure I will now spoil your merry celebration.' The inspector shows a calm stance in this beat, joining "ogromnoy" ("huge, tremendous") to "radostyu" ("joy, pleasure") so every word pulls its weight.
-- 'The board of founders of our chain has decided to close this restaurant.' The inspector shares a playful stance on the spot, weaving "sovet" ("council") together with "uchrediteley" ("of founders") just the way native speakers do.
-- 'And I personally decided to inform you of this today.' The inspector picks an earnest tone in the scene, building the phrase around "lichno" ("personally") and "reshil" ("has decided") for a crisp, natural delivery.
-- 'Wait, what do you mean close it? Why are you closing it?' Barinov challenges boldly in front of Max, using "podozhdite" (from "podozhdat", "wait") alongside "kak" ("how") to shape the meaning.
-- 'Now there will be a beer sports bar in this spot.' The inspector sets an earnest note beside Barinov, combining "teper" ("now") and "meste" ("place") so the key meaning lands right away.
-- 'Because your French restaurant is completely unprofitable.' The inspector brings a pointed approach during the exchange, weaving "potomu" ("because") together with "frantsuzskiy" ("French") just the way native speakers do.
-- 'And the last straw for the founders was Sergey's departure.' The inspector adopts a serious position toward Barinov, combining "posledney" ("last") and "kapley" ("drop, droplet") so the key meaning lands right away.
-- 'If the best manager could not cope, then nobody can.' The inspector shows an honest direction in the room, pairing "luchshiy" ("best") with "upravlyayushchiy" ("manager") to get the point across in plain spoken Russian.
-- 'No, that will not do! Solve the problem, or we will tell your wife!' Barinov sets a playful manner straight away, pairing "poydyot" ("will go") with "reshay" ("to decide, to solve") to get the point across in plain spoken Russian.
-- 'My wife already knows everything, everyone knows.' The inspector chooses a brisk line as the scene unfolds, combining the conversational booster "voobshche" ("in general, overall") with "zhena" ("wife") to give the line its natural spoken rhythm.
-- 'And honestly speaking, I do not care anymore.' The inspector holds a clear position toward Barinov, weaving "chestno" ("honestly") together with "govorya" ("speaking") just the way native speakers do.
-- 'Be well, colleagues, goodbye forever!' Max keeps a serious style in the conversation, building the phrase around "budte" ("be") and "zdorovy" ("healthy, huge") for a crisp, natural delivery.
+- 'With immense pleasure I will now spoil your merry celebration.' The inspector picks one familiar element right here: "prazdnovaniye" means "celebration", and it carries the main weight of what the inspector is saying.
+- 'The board of founders of our chain has decided to close this restaurant.' The inspector opens up lightly with a shrug, before Max can change the subject.
+- 'And I personally decided to inform you of this today.' The inspector chooses one practical expression with Barinov: "soobshchit" means "inform, report", and it carries the main weight of what the inspector is saying.
+- 'Wait, what do you mean close it? Why are you closing it?' Barinov frames that point with ease: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Now there will be a beer sports bar in this spot.' The inspector answers right away with a sigh, saying out loud what both of them already know.
+- 'Because your French restaurant is completely unprofitable.' The inspector centers one sharp element in earnest: "frantsuzskiy" means "French", and it carries the main weight of what the inspector is saying.
+- 'And the last straw for the founders was Sergey's departure.' The inspector reacts pointedly in this moment, to clear the air between them once and for all.
+- 'If the best manager could not cope, then nobody can.' The inspector steps in calmly around Max, to clear the air between them once and for all.
+- 'No, that will not do! Solve the problem, or we will tell your wife!' Barinov picks one telling detail right here: "problemu" means "problem" (from "problema"), giving the line its exact edge.
+- 'My wife already knows everything, everyone knows.' The inspector gives the reply at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'And honestly speaking, I do not care anymore.' The inspector proceeds steadily in this moment, saying out loud what both of them already know.
+- 'Be well, colleagues, goodbye forever!' Max highlights this key term in earnest: "proshchayte" means "farewell" (from "proshchat"), giving the line its exact edge.

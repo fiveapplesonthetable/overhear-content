@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, get in the car, I will explain.' Nikita establishes an easygoing mood as they talk, combining "sadis" ("sit down") and "mashinu" ("car") so the key meaning lands right away.
-- 'You have to hear me out right now.' Nikita strikes a measured course in front of Katya, linking "dolzhna" ("should, must"), "seychas" ("now"), and "vyslushat" ("to listen to") in one brisk exchange.
-- 'Whose car did you have yesterday?' Katya prompts bluntly to make the point, combining "vchera" ("yesterday") and "byla" ("was") so the key meaning lands right away.
-- 'Honestly speaking, I do not know.' Nikita conveys a warm style in this beat, putting "chestno" ("honestly") alongside "govorya" ("speaking") in a tight, everyday turn of phrase.
-- 'I simply stole that car.' Nikita sustains a frank line in this beat, linking "mashinu" ("car"), "prosto" ("just"), and "ugnal" ("to flip, steal") in one brisk exchange.
-- 'That sounds very unexpected.' Katya sustains a serious approach as they talk, joining "zvuchit" ("sounds") to "ochen" ("very much") so every word pulls its weight.
-- 'Not everyone's mother owns a hotel.' Nikita holds a thoughtful angle in the conversation, linking "mamy" ("mum, mother"), "otelyami" ("hotels"), and "vladeyut" ("own") in one brisk exchange.
-- 'I steal expensive cars to order.' Nikita brings a direct position without hesitation, leaning on "ugonyayu" ("I steal") before closing the thought with "dorogiye" ("dear").
-- 'That is the kind of side job I have.' Nikita shows a thoughtful rhythm toward Eleonora, combining "prirabotok" ("side job") and "vot" ("there, here") so the key meaning lands right away.
-- 'Good morning, have you seen Mikhail?' Eleonora asks dryly as the talk turns, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
-- 'The two of you have grown closer lately.' Eleonora holds a grounded footing in the scene, combining "posledneye" ("last, final") and "vremya" ("time") so the key meaning lands right away.
-- 'Alright, I will look for him myself.' Eleonora holds an unhurried stance on the spot, joining "poishchu" ("will look for") to "ladno" ("all right") so every word pulls its weight.
+- 'Katya, get in the car, I will explain.' Nikita cuts in quietly without a pause, refusing to let the moment slip past.
+- 'You have to hear me out right now.' Nikita replies right away facing Katya, bringing things back to earth after the buildup.
+- 'Whose car did you have yesterday?' Katya reaches for one pointed expression right here: "mashina" means "a car", and it carries the main weight of what Katya is saying.
+- 'Honestly speaking, I do not know.' Nikita fires back plainly with a smile, testing Katya's reaction in the middle of the exchange.
+- 'I simply stole that car.' Nikita stands firm briskly with a shrug, testing Eleonora's reaction in the middle of the exchange.
+- 'That sounds very unexpected.' Katya grounds one clear word for Nikita: "neozhidanno" means "unexpected", and it carries the main weight of what Katya is saying.
+- 'Not everyone's mother owns a hotel.' Nikita proceeds dryly to be clear, leaving no doubt about where he stands.
+- 'I steal expensive cars to order.' Nikita continues openly with a sigh, saying out loud what both of them already know.
+- 'That is the kind of side job I have.' Nikita centers one sharp touch in earnest: "prirabotok" means "side job", and it carries the main weight of what Nikita is saying.
+- 'Good morning, have you seen Mikhail?' Eleonora states this line frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
+- 'The two of you have grown closer lately.' Eleonora proceeds boldly facing Katya, before Katya can change the subject.
+- 'Alright, I will look for him myself.' Eleonora uses this key element right here: "poishchu" means "will look for" (from "poiskat"), giving the line its exact edge.

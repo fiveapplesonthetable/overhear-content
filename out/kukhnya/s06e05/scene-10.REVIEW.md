@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, here is money for candy.' Barinov shares a resolute direction straight away, linking "dobroye" ("good") directly with "utro" ("morning"), since Russian drops "is" and "are" in the present.
-- 'Well then, do you believe me now?' Eva challenges calmly across the room, building the phrase around "verish" ("do you believe") and "teper" ("now") for a crisp, natural delivery.
-- 'You guessed right and hit the bullseye.' Barinov brings a lively line on the spot, putting "ugadala" ("to guess correctly") alongside "popala" ("got hit") in a tight, everyday turn of phrase.
-- 'Then I will not say anything more to you.' Eva chooses an honest posture on the spot, combining "togda" ("back then") and "bolshe" ("more") so the key meaning lands right away.
-- 'Why, is there something else to say?' Barinov queries briskly in this moment, anchoring the Russian line on "yest" ("there is") and "yeshchyo" ("more, still") without extra filler.
-- 'Look closely at me right now.' Eva favors a natural posture with Kostya, leaning on "seychas" ("now") before closing the thought with "vnimatelno" ("carefully, attentively").
-- 'I clearly see your ex-wife.' Eva presents a clear angle on the spot, pairing "yasno" ("clear, got it") with "vizhu" ("see") to get the point across in plain spoken Russian.
-- 'They will bring you very bad news.' Eva holds an unhurried line beside Kostya, linking "soobshchat" ("will report"), "ochen" ("very much"), and "durnuyu" ("bad, ill") in one brisk exchange.
-- 'No need to explain, I understood everything.' Barinov chooses a serious attitude at once, combining "nado" ("it is necessary") and "obyasnyat" ("to explain") so the key meaning lands right away.
-- 'I am sure, I did not imagine it.' Kostya maintains a candid bearing in front of Eva, putting "uveren" ("sure, confident") alongside "pokazalos" ("seemed") in a tight, everyday turn of phrase.
-- 'She definitely has an older man now.' Kostya shares a brisk rhythm during the exchange, pairing "poyavilsya" ("appeared") with "tochno" ("definitely") so the "-sya" ending carries the action.
-- 'I saw him myself this morning.' Kostya offers a direct tone in the scene, using "videl" (from "videt", "saw, have seen") alongside "segodnya" ("today") to shape the meaning.
+- 'Good morning, here is money for candy.' Barinov favors one colorful piece in earnest: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Well then, do you believe me now?' Eva aims this warning around Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'You guessed right and hit the bullseye.' Barinov continues promptly hearing Eva, leaving no doubt about where he stands.
+- 'Then I will not say anything more to you.' Eva leans on one concrete choice for Kostya: "govorit" means "to talk", and it carries the main weight of what Eva is saying.
+- 'Why, is there something else to say?' Barinov gives this line in earnest: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
+- 'Look closely at me right now.' Eva speaks up candidly as they talk, saying out loud what both of them already know.
+- 'I clearly see your ex-wife.' Eva centers one colorful expression with Barinov: "byvshuyu" means "former, ex" (from "byvshiy"), giving the line its exact edge.
+- 'They will bring you very bad news.' Eva frames one concrete detail at once: "soobshchat" means "will report" (from "soobshchit"), giving the line its exact edge.
+- 'No need to explain, I understood everything.' Barinov responds decisively as they talk, before Eva can change the subject.
+- 'I am sure, I did not imagine it.' Kostya frames one classic element toward Eva: "pokazalos" means "seemed" (from "pokazatsya"), giving the line its exact edge.
+- 'She definitely has an older man now.' Kostya opens up lightly facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'I saw him myself this morning.' Kostya weighs in bluntly in their talk, steering the talk right where he wants it.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you lost your mind? He is still alive!' Barinov checks openly to keep things clear, weaving "uma" ("mind") together with "soshyol" ("gone") just the way native speakers do.
-- 'Guys, did I leave my car keys here with you?' Vika asks calmly without a pause, pairing "rebyata" ("the boys, the lads") with "tut" ("here") to get the point across in plain spoken Russian.
-- 'Vika, sit down, the main thing is do not worry right now.' Barinov offers a candid rhythm on the spot, putting "prisyad" ("sit down") alongside "glavnoye" ("important") in a tight, everyday turn of phrase.
-- 'Vitya, you are scaring me, what happened here?' Vika inquires dryly to keep things clear, anchoring the Russian line on "pugayesh" ("are scaring") and "sluchilos" ("happened") without extra filler.
-- 'Here is the thing with our Maxim Lavrov...' Barinov presents a steady footing for Senya, building the phrase around "tut" ("here") and "delo" ("matter") for a crisp, natural delivery.
-- 'Today he jumped from a plane with a parachute a bit unsuccessfully.' Barinov picks a grounded note in this beat, anchoring the Russian line on "segodnya" ("today") and "nemnozhko" ("a little") without extra filler.
-- 'But Victoria Sergeyevna, do not worry, he is still alive!' Senya projects a brisk angle in this beat, joining "volnuytes" ("worry") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'Victoria Sergeyevna, please forgive Fedya and me!' Senya displays a warm course during the exchange, combining "prostite" ("excuse me") and "viktoriya" ("Victoria") so the key meaning lands right away.
-- 'We were the ones who played such a foolish prank on him today.' Senya brings a sharp approach right away, leaning on "segodnya" ("today") before closing the thought with "glupo" ("stupid").
-- 'We sent him a message from your forgotten phone.' Senya picks a pointed course during the exchange, putting "otpravili" ("to send") alongside "soobshcheniye" ("message") in a tight, everyday turn of phrase.
-- 'We wrote to him on the plane that you were already giving birth!' Senya sustains a serious angle toward Barinov, weaving "napisali" ("to write") together with "samolyot" ("plane") just the way native speakers do.
-- 'Oh, it seems I suddenly feel really unwell right now!' Vika sets a thoughtful position in the conversation, building the phrase around "kazhetsya" ("it seems, I think") and "seychas" ("now") for a crisp, natural delivery.
+- 'Have you lost your mind? He is still alive!' Barinov aims the thought at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Guys, did I leave my car keys here with you?' Vika tests candidly while looking straight at Senya here.
+- 'Vika, sit down, the main thing is do not worry right now.' Barinov focuses on one memorable word on cue: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
+- 'Vitya, you are scaring me, what happened here?' Vika sends the thought before Senya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Here is the thing with our Maxim Lavrov...' Barinov follows up lightly with Senya, bringing things back to earth after the buildup.
+- 'Today he jumped from a plane with a parachute a bit unsuccessfully.' Barinov chooses this sharp word for Vika: "parashyutom" means "parachute" (from "parashyut"), giving the line its exact edge.
+- 'But Victoria Sergeyevna, do not worry, he is still alive!' Senya frames the comeback briskly now: the "-sya" ending on "volnuytes" ("worry") turns the action inward or makes it happen between people naturally.
+- 'Victoria Sergeyevna, please forgive Fedya and me!' Senya pushes back firmly across the room, grounding the moment in plain reality.
+- 'We were the ones who played such a foolish prank on him today.' Senya centers this sharp detail in earnest: "razygrali" means "to play, act out" (from "razygrat"), giving the line its exact edge.
+- 'We sent him a message from your forgotten phone.' Senya holds firm briskly watching Vika, before Vika can change the subject.
+- 'We wrote to him on the plane that you were already giving birth!' Senya stands firm frankly with a sigh, bringing things back to earth after the buildup.
+- 'Oh, it seems I suddenly feel really unwell right now!' Vika colors one vivid touch toward Senya: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.

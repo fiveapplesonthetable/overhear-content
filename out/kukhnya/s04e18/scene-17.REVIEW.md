@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the matter? Be more careful, please.' German tests wryly as the talk turns, putting "delo" ("matter") alongside "budte" ("be") in a tight, everyday turn of phrase.
-- 'It is nothing serious, I will prepare everything myself.' Vika conveys an unhurried direction with German, joining "strashnogo" ("terrible, serious") to "prigotovlyu" ("will prepare") so every word pulls its weight.
-- 'You cook simply amazingly, Vika.' German conveys a brisk position toward Barinov, joining "gotovite" ("to cook, to prepare") to "prosto" ("just") so every word pulls its weight.
-- 'Just make sure you do not mix anything up there.' Barinov holds a lively angle beside Vika, using "smotri" (from "smotret", "look") alongside "tolko" ("only") to shape the meaning.
-- 'Well then, maybe we will taste it already?' Vika quizzes promptly to make the point, putting "mozhet" ("can") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Yes, right now, I will just answer the call.' German shares a steady position at once, anchoring the Russian line on "seychas" ("now") and "tolko" ("only") without extra filler.
-- 'Hello, yes, of course, I will be there soon.' German maintains an earnest tack without hesitation, joining "konechno" ("of course") to "skoro" ("soon") so every word pulls its weight.
-- 'Vika, I apologize very much.' German brings an honest manner as they talk, combining "ochen" ("very much") and "proshu" ("beg, ask") so the key meaning lands right away.
-- 'I need to go to the restaurant urgently.' German shows a calm stance in the room, pairing "nuzhno" ("necessary") with "srochno" ("urgent, urgently") to get the point across in plain spoken Russian.
-- 'What, do you need to go right now?' Vika asks plainly beside German, leaning on "kak" ("how") before closing the thought with "nuzhno" ("necessary").
-- 'Yes, right now, Nagiyev is waiting for me there.' German shows a serious approach with Barinov, leaning on "seychas" ("now") before closing the thought with "tam" ("there").
-- 'Excellent, he has left, call our friend.' Barinov picks an emphatic rhythm in this beat, anchoring the Russian line on "otlichno" ("perfect, great") and "vyyekhal" ("to call") without extra filler.
+- 'What is the matter? Be more careful, please.' German lays out this statement toward Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'It is nothing serious, I will prepare everything myself.' Vika fires back promptly with a nod, bringing things back to earth after the buildup.
+- 'You cook simply amazingly, Vika.' German stresses one memorable word for Barinov: "potryasayushche" means "incredible", and it carries the main weight of what German is saying.
+- 'Just make sure you do not mix anything up there.' Barinov drops this update with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Well then, maybe we will taste it already?' Vika challenges sharply whether Barinov really thought this through.
+- 'Yes, right now, I will just answer the call.' German spotlights this vivid choice at once: "zvonok" means "call, bell", and it carries the main weight of what German is saying.
+- 'Hello, yes, of course, I will be there soon.' German chimes in quietly to settle things, watching Barinov's face to see how the news lands.
+- 'Vika, I apologize very much.' German continues briskly around Vika, leaving no doubt about where he stands.
+- 'I need to go to the restaurant urgently.' German uses one loaded term at once: "restoran" means "restaurant", and it carries the main weight of what German is saying.
+- 'What, do you need to go right now?' Vika delivers the reply for German: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Yes, right now, Nagiyev is waiting for me there.' German steps in boldly without holding back, letting the remark speak for itself.
+- 'Excellent, he has left, call our friend.' Barinov chooses one colorful expression on cue: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.

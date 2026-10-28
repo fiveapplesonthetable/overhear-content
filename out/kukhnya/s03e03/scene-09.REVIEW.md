@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, your phone is ringing.' Elena adopts a serious posture right away, pairing "zvonyat" ("call") with "vitya" ("Vitya") to get the point across in plain spoken Russian.
-- 'Hi, Lyova. What did you want?' Barinov quizzes dryly in the room, leaning on "khotel" ("wanted") before closing the thought with "privet" ("hi").
-- 'Your daughter needs help moving to a new apartment.' Katya maintains a steady tempo on the spot, combining "docheri" ("of daughter") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'Did you look at the clock? I cannot right now.' Barinov wonders steadily in the room, leaning on "chasy" ("watch") before closing the thought with "smotrel" ("watched").
-- 'Then I will ask Fedya.' Katya takes a measured line beside Barinov, weaving "togda" ("back then") together with "poproshu" ("will ask") just the way native speakers do.
-- 'Fine, all right. I will come over now.' Barinov conveys a brisk mood in the scene, combining "khorosho" ("good, fine") and "seychas" ("now") so the key meaning lands right away.
-- 'Who called? And why are you lying?' Elena probes wryly to Barinov here, linking "zvonil" ("called"), "zachem" ("what for"), and "vryosh" ("are lying") in one brisk exchange.
-- 'I recognized her, that is your new cook!' Elena picks a steady posture as they talk, combining "uznala" ("to recognise") and "novyy" ("new") so the key meaning lands right away.
-- 'They are dating. Lyova and Katya.' Barinov favors a grounded bearing as they talk, leaning on "vstrechayutsya" ("meet") before closing the thought with "oni" ("they").
-- 'Love at first sight. You cannot command the heart.' Barinov takes a clear direction right away, building the phrase around "lyubov" ("love") and "pervogo" ("first") for a crisp, natural delivery.
-- 'Katya is even planning to move into his home.' Barinov brings a clear angle in the scene, combining "sobirayetsya" ("to intend") and "domoy" ("home") so the key meaning lands right away.
-- 'Lyova is doing renovations now and asked me to help move furniture.' Barinov holds a steady tempo straight away, linking "seychas" ("now"), "remont" ("renovation"), and "delayet" ("does") in one brisk exchange.
+- 'Vitya, your phone is ringing.' Elena reacts briskly on the spot, testing Barinov's reaction in the middle of the exchange.
+- 'Hi, Lyova. What did you want?' Barinov centers one sharp expression for Katya: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
+- 'Your daughter needs help moving to a new apartment.' Katya sends the reaction in earnest: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Did you look at the clock? I cannot right now.' Barinov questions firmly about what Katya just brought up.
+- 'Then I will ask Fedya.' Katya grounds one colorful choice in earnest: "poproshu" means "will ask" (from "poprosit"), giving the line its exact edge.
+- 'Fine, all right. I will come over now.' Barinov puts this warning around Katya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
+- 'Who called? And why are you lying?' Elena challenges straight out while looking straight at Barinov here.
+- 'I recognized her, that is your new cook!' Elena reaches for this sharp expression on cue: "novyy" means "new", and it carries the main weight of what Elena is saying.
+- 'They are dating. Lyova and Katya.' Barinov frames the comment toward Elena: the "-sya" ending on "vstrechayutsya" ("meet") turns the action inward or makes it happen between people naturally.
+- 'Love at first sight. You cannot command the heart.' Barinov speaks promptly with a shrug, without trying to dress up how he really feels.
+- 'Katya is even planning to move into his home.' Barinov leans on one telling word at once: "sobirayetsya" means "to intend" (from "sobiratsya"), giving the line its exact edge.
+- 'Lyova is doing renovations now and asked me to help move furniture.' Barinov proceeds sharply with a shrug, without trying to dress up how he really feels.

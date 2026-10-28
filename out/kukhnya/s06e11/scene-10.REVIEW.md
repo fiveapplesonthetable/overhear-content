@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, meet Andrey Nikolaevich Dyagilev, my father.' Nikita strikes a serious stance in the scene, joining "znakomsya" ("get acquainted") to "otets" ("father") so every word pulls its weight.
-- 'I am very pleased too, I have heard a lot about you.' Katya offers a frank manner during the exchange, combining "tozhe" ("too") and "ochen" ("very much") so the key meaning lands right away.
-- 'And you, as I understand it, work here as a chef?' Fedya tests openly in the scene, weaving "ponimayu" ("understand") together with "povarom" ("as a cook") just the way native speakers do.
-- 'Yes, Katya is in charge of molecular cuisine at our place.' Nikita holds a steady line as the scene unfolds, joining "zanimayetsya" ("is occupied with") to "molekulyarnoy" ("molecular") so every word pulls its weight.
-- 'In her field she is simply a great professional.' Nikita holds a direct tone straight away, linking "dele" ("case") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
-- 'It would be wrong to step away from my workplace for long.' Katya favors an earnest tone on the spot, pairing "bylo" ("was") with "nepravilno" ("wrongly") to get the point across in plain spoken Russian.
-- 'So excuse me, please, I have to go work.' Katya favors a direct mood beside Fedya, pairing "poetomu" ("that's why") with "izvinite" ("sorry, excuse me") to get the point across in plain spoken Russian.
-- 'He called me his girlfriend, that stresses me out.' Katya offers a natural style as the scene unfolds, weaving "nazval" ("called") together with "devushkoy" ("girl, young woman") just the way native speakers do.
-- 'Why are you throwing to the side, catch it right with your mouth!' Fedya picks a firm rhythm as the scene unfolds, anchoring the Russian line on "kidayesh" ("throw") and "storonu" ("direction") without extra filler.
-- 'And can you catch two cherries at once like that?' Katya questions warmly as the talk turns, anchoring the Russian line on "vishni" ("cherries") and "srazu" ("at once") without extra filler.
-- 'Nobody in our kitchen has ever managed that yet.' Fedya takes a brisk tempo at this moment, putting "kukhne" ("kitchen") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'Exactly, let us make a bet, I will catch them easily!' Katya brings a playful footing in the conversation, weaving "davay" ("let's") together with "posporim" ("let's bet, wager") just the way native speakers do.
+- 'Katya, meet Andrey Nikolaevich Dyagilev, my father.' Nikita stresses one vivid word with Fedya: "znakomsya" means "get acquainted" (from "znakomitsya"), giving the line its exact edge.
+- 'I am very pleased too, I have heard a lot about you.' Katya centers one clear term right here: "priyatno" means "pleasant", and it carries the main weight of what Katya is saying.
+- 'And you, as I understand it, work here as a chef?' Fedya questions sharply how Katya expects that to work in practice.
+- 'Yes, Katya is in charge of molecular cuisine at our place.' Nikita focuses on one memorable expression for Katya: "molekulyarnoy" means "molecular" (from "molekulyarnyy"), giving the line its exact edge.
+- 'In her field she is simply a great professional.' Nikita gives that reply for Fedya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'It would be wrong to step away from my workplace for long.' Katya speaks up boldly in their talk, before Nikita can change the subject.
+- 'So excuse me, please, I have to go work.' Katya underscores one colorful word right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'He called me his girlfriend, that stresses me out.' Katya weighs in right away to settle things, before Nikita can change the subject.
+- 'Why are you throwing to the side, catch it right with your mouth!' Fedya holds firm evenly to settle things, testing Katya's reaction in the middle of the exchange.
+- 'And can you catch two cherries at once like that?' Katya anchors one loaded element right here: "vishni" means "cherries" (from "vishnya"), giving the line its exact edge.
+- 'Nobody in our kitchen has ever managed that yet.' Fedya speaks frankly with a sigh, to clear the air between them once and for all.
+- 'Exactly, let us make a bet, I will catch them easily!' Katya continues lightly as things stand, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, why did you abandon us like that?' Barinov presses earnestly toward Elena here, using "brosili" (from "brosit", "threw, dropped") alongside "yelena" ("Yelena") to shape the meaning.
-- 'We cannot manage in the kitchen here without you!' Barinov sets an honest direction toward Lyova, pairing "spravlyayemsya" ("to cope, manage") with "tut" ("here") so the "-sya" ending carries the action.
-- 'Oh come on, Viktor, just do not be modest.' Elena sets an easygoing rhythm in the conversation, anchoring the Russian line on "tolko" ("only") and "skromnichayte" ("modest") without extra filler.
-- 'And I just came out to meet you and have a talk.' Barinov strikes a resolute style in their talk, pairing "kak" ("how") with "raz" ("time, once") to get the point across in plain spoken Russian.
-- 'You know, Vitya, I also wanted to talk with you.' Elena offers a serious view in the conversation, using "znayesh" (from "znat", "know") alongside "tozhe" ("too") to shape the meaning.
-- 'Perhaps we can pleasantly combine our conversations?' Elena challenges candidly across the room, leaning on "mozhet" ("can") before closing the thought with "byt" ("be").
-- 'Let's have dinner tomorrow evening at our restaurant!' Elena displays a brisk attitude on the spot, linking "davay" ("let's"), "pouzhinayem" ("to have dinner"), and "zavtra" ("tomorrow") in one brisk exchange.
-- 'Yes, of course, I will come with great pleasure!' Barinov displays a sharp approach in the scene, weaving "konechno" ("of course") together with "pridu" ("will come") just the way native speakers do.
-- 'Go into the kitchen, and I will breathe some more fresh air.' Barinov maintains a brisk attitude in the conversation, anchoring the Russian line on "idite" ("come") and "kukhnyu" ("kitchen") without extra filler.
-- 'Lyova, can you imagine, she invited me on a date!' Barinov shows an unhurried direction in front of Lyova, weaving "predstavlyayesh" ("can you imagine") together with "priglasila" ("to invite, to call in") just the way native speakers do.
-- 'And that guy said that it was your car.' Lyova offers a playful note straight away, joining "paren" ("boyfriend") to "skazal" ("said") so every word pulls its weight.
-- 'Lyova, climb out quickly, we need to replace the window glass!' Barinov projects an earnest stance straight away, anchoring the Russian line on "bystro" ("quickly") and "vylezay" ("out") without extra filler.
+- 'Elena Pavlovna, why did you abandon us like that?' Barinov leans on this sharp expression toward Elena: "brosili" means "threw, dropped" (from "brosit"), giving the line its exact edge.
+- 'We cannot manage in the kitchen here without you!' Barinov brings this point with warmth: the "-sya" ending on "spravlyayemsya" ("to cope, manage") turns the action inward or makes it happen between people naturally.
+- 'Oh come on, Viktor, just do not be modest.' Elena answers briskly with a shrug, so Barinov knows she is not just making small talk.
+- 'And I just came out to meet you and have a talk.' Barinov leans on this clear word toward Lyova: "pogovorit" means "to talk", and it carries the main weight of what Barinov is saying.
+- 'You know, Vitya, I also wanted to talk with you.' Elena weighs in briskly on the spot, steering the talk right where she wants it.
+- 'Perhaps we can pleasantly combine our conversations?' Elena questions bluntly in front of Lyova without any preamble.
+- 'Let's have dinner tomorrow evening at our restaurant!' Elena picks one practical piece right here: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
+- 'Yes, of course, I will come with great pleasure!' Barinov pushes back decisively beside Lyova, steering the talk right where he wants it.
+- 'Go into the kitchen, and I will breathe some more fresh air.' Barinov chimes in decisively in their talk, making his position completely clear.
+- 'Lyova, can you imagine, she invited me on a date!' Barinov points to one telling detail with Lyova: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'And that guy said that it was your car.' Lyova focuses on this direct choice toward Barinov: "mashina" means "a car", and it carries the main weight of what Lyova is saying.
+- 'Lyova, climb out quickly, we need to replace the window glass!' Barinov jumps in steadily with a smile, watching Lyova's face to see how the news lands.

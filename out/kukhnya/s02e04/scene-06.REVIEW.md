@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Igor, what do you want to hear from me?' Barinov tests steadily without a pause, building the phrase around "khochesh" ("do you want") and "uslyshat" ("to hear") for a crisp, natural delivery.
-- 'Why can we not be together?' Lyova wonders candidly during the talk, combining "pochemu" ("why") and "mozhem" ("can") so the key meaning lands right away.
-- 'Well, because I do not love you.' Barinov displays a grounded line on the spot, leaning on "potomu" ("because") before closing the thought with "lyublyu" ("love").
-- 'Is that reason enough?' Lyova queries pointedly right away, linking "prichiny" ("reason, cause"), "dostatochno" ("enough"), and "etoy" ("this") in one brisk exchange.
-- 'You are still pining for your little cook.' Barinov favors a candid posture in this beat, joining "por" ("time") to "sokhnesh" ("to dry, become dry") so every word pulls its weight.
-- 'That is definitely none of your business anymore.' Lyova holds a warm course without hesitation, linking "uzhe" ("already, now"), "tochno" ("definitely"), and "kasayetsya" ("concerns, applies to") in one brisk exchange.
-- 'Wait, I did not get that?' Barinov questions lightly right away, pairing "ponyal" ("understood") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Did something happen between you two or not?' Lyova probes openly as the talk turns, linking "bylo" ("was"), "vas" ("you"), and "ili" ("or") in one brisk exchange.
-- 'Chef, why did you not tell us that you know Barani?' Max questions pointedly without holding back, building the phrase around "skazali" ("told") and "znayete" ("know") for a crisp, natural delivery.
-- 'I do not know any Barani.' Lyova chooses a lively approach straight away, combining "znayu" ("know") and "ya" ("I") so the key meaning lands right away.
-- 'Then who is that?' Barinov checks steadily in the room, linking "eto" ("this") directly with "kto" ("who"), since Russian drops "is" and "are" in the present.
-- 'As my sous-chef in Paris.' Lyova chooses an unhurried mood for Max, leaning on "su-shefom" ("sous-chef") before closing the thought with "moim" ("my").
-- 'Now does everyone understand why there is such love between us?' Barinov checks earnestly without holding back, putting "teper" ("now") alongside "ponyatno" ("clear") in a tight, everyday turn of phrase.
+- 'Igor, what do you want to hear from me?' Barinov checks point-blank how Lyova expects that to work in practice.
+- 'Why can we not be together?' Lyova focuses on one familiar touch right here: "mozhem" means "can" (from "moch"), giving the line its exact edge.
+- 'Well, because I do not love you.' Barinov features one memorable touch with Lyova: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
+- 'Is that reason enough?' Lyova questions evenly what Max is actually getting at here.
+- 'You are still pining for your little cook.' Barinov underscores one concrete touch in reply: "povarenku" means "apprentice cook" (from "povaryonok"), giving the line its exact edge.
+- 'That is definitely none of your business anymore.' Lyova sends that thought for Max: the "-sya" ending on "kasayetsya" ("concerns, applies to") turns the action inward or makes it happen between people naturally.
+- 'Wait, I did not get that?' Barinov questions frankly before Lyova can change the subject.
+- 'Did something happen between you two or not?' Lyova offers that reply without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Chef, why did you not tell us that you know Barani?' Max brings this answer at once: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I do not know any Barani.' Lyova responds at once watching Max, so Max knows he is not just making small talk.
+- 'Then who is that?' Barinov aims the comeback calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'As my sous-chef in Paris.' Lyova makes this warning briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Now does everyone understand why there is such love between us?' Barinov inquires skeptically whether Lyova really thought this through.

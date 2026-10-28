@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'God willing.' Kostya adopts a candid footing straight away, using "dast" (from "dat", "will give") alongside "bog" ("God") to shape the meaning.
-- 'Hello, what do you want?' Fedya wonders plainly as the talk turns, anchoring the Russian line on "zdravstvuyte" ("hello") and "vam" ("you") without extra filler.
-- 'I need to speak with you.' Kostya brings a measured rhythm in their talk, pairing "nado" ("it is necessary") with "pogovorit" ("to talk") to get the point across in plain spoken Russian.
-- 'I have a proposition for you.' Fedya adopts an earnest course with Nastya, linking "predlozheniye" ("offer, proposal"), "menya" ("me"), and "vam" ("you") in one brisk exchange.
-- 'I beg your pardon?' Nastya prompts quietly right away, pairing "ponyala" ("understood") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Because it has to be fresh.' Fedya holds a resolute line in the scene, linking "potomu" ("because"), "dolzhna" ("should, must"), and "byt" ("be") in one brisk exchange.
-- 'This chicken gave its life for you.' Kostya sustains a pointed angle as they talk, anchoring the Russian line on "kuritsa" ("chicken") and "zhizn" ("life") without extra filler.
-- 'Hello, hello, police?' Fedya wonders directly as they speak, joining "politsiya" ("police") to "allo" ("hello") so every word pulls its weight.
-- 'You get the napkins from the storage room.' Kostya establishes an emphatic tack for Fedya, combining "salfetki" ("napkin") and "beresh" ("do you take") so the key meaning lands right away.
-- 'Take the tablecloths.' Fedya presents a measured mood without hesitation, anchoring the Russian line on "berete" ("take") and "skaterti" ("tablecloths") without extra filler.
-- 'Kostya, what are you doing out here?' Nastya prompts directly for Fedya's benefit, anchoring the Russian line on "zdes" ("here") and "delayesh" ("are you doing") without extra filler.
-- 'Go back to the bar.' Fedya takes a warm tone in their talk, weaving "idi" ("go") together with "bar" ("bar") just the way native speakers do.
-- 'Kostya, go to the bar.' Nastya offers a clear approach in their talk, weaving "idi" ("go") together with "bar" ("bar") just the way native speakers do.
+- 'God willing.' Kostya reacts evenly as they talk, watching Fedya's face to see how the news lands.
+- 'Hello, what do you want?' Fedya centers one pointed element in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Fedya is saying.
+- 'I need to speak with you.' Kostya puts the comeback frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I have a proposition for you.' Fedya reacts decisively without any doubt, bringing things back to earth after the buildup.
+- 'I beg your pardon?' Nastya frames this direct choice at once: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Because it has to be fresh.' Fedya proceeds dryly in this moment, making his position completely clear.
+- 'This chicken gave its life for you.' Kostya stands firm quietly to settle things, steering the talk right where he wants it.
+- 'Hello, hello, police?' Fedya focuses on this vivid word toward Nastya: "politsiya" means "police", and it carries the main weight of what Fedya is saying.
+- 'You get the napkins from the storage room.' Kostya sends the reaction briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Take the tablecloths.' Fedya follows up steadily around Nastya, steering the talk right where he wants it.
+- 'Kostya, what are you doing out here?' Nastya uses one pointed detail in reply: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'Go back to the bar.' Fedya voices that reply frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Kostya, go to the bar.' Nastya weighs in briskly with Fedya, so Fedya knows she is not just making small talk.

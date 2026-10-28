@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is very good and fresh beef.' Barinov chooses a playful style across the room, linking "ochen" ("very much"), "khoroshaya" ("good"), and "svezhaya" ("fresh") in one brisk exchange.
-- 'Lyova, try one more small piece.' Barinov takes a natural posture right away, linking "poprobuy" ("to try, to taste"), "yeshchyo" ("more, still"), and "malenkiy" ("short, little") in one brisk exchange.
-- 'Wait, chef, this is not beef after all.' Lyova adopts a clear view as the scene unfolds, putting "podozhdite" ("wait") alongside "govyadina" ("beef") in a tight, everyday turn of phrase.
-- 'Exactly, this is young tender veal!' Barinov sustains a serious position across the room, weaving "tochno" ("definitely") together with "molodaya" ("young") just the way native speakers do.
-- 'You see, these Koreans are ordinary normal people.' Barinov shows an unhurried course in this beat, using "vidite" (from "videt", "see") alongside "koreytsy" ("Koreans") to shape the meaning.
-- 'They have some kind of special day today.' Senya chooses a candid mood in the room, pairing "segodnya" ("today") with "osobennyy" ("special, particular") to get the point across in plain spoken Russian.
-- 'They are celebrating the birthday of their teacher.' Senya maintains an easygoing note with Barinov, combining "otmechayut" ("celebrate, mark") and "den" ("day") so the key meaning lands right away.
-- 'Look, chef, what ordinary people they are!' Lyova presents a playful rhythm across the room, combining "posmotrite" ("look") and "obychnyye" ("ordinary") so the key meaning lands right away.
-- 'It seems this is some very strange sect.' Senya sustains a warm view at this moment, building the phrase around "kazhetsya" ("it seems, I think") and "ochen" ("very much") for a crisp, natural delivery.
-- 'We are lucky if this is veal.' Senya holds an unhurried course in front of Lyova, joining "yeshchyo" ("more, still") to "povezlo" ("it was lucky") so every word pulls its weight.
-- 'Stop talking all kinds of nonsense!' Barinov conveys a candid rhythm during the exchange, building the phrase around "khvatit" ("enough") and "glupost" ("nonsense, foolishness") for a crisp, natural delivery.
-- 'Let us better go back to the kitchen.' Lyova offers a thoughtful tack in their talk, putting "davayte" ("let's") alongside "luchshe" ("better") in a tight, everyday turn of phrase.
+- 'This is very good and fresh beef.' Barinov responds wryly with a smile, letting the remark speak for itself.
+- 'Lyova, try one more small piece.' Barinov frames one practical expression at once: "malenkiy" means "short, little", and it carries the main weight of what Barinov is saying.
+- 'Wait, chef, this is not beef after all.' Lyova reacts frankly without holding back, grounding the moment in plain reality.
+- 'Exactly, this is young tender veal!' Barinov stands firm promptly hearing Senya, without trying to dress up how he really feels.
+- 'You see, these Koreans are ordinary normal people.' Barinov focuses on this telling element toward Lyova: "normalnyye" means "normal" (from "normalnyy"), giving the line its exact edge.
+- 'They have some kind of special day today.' Senya responds steadily to settle things, bringing things back to earth after the buildup.
+- 'They are celebrating the birthday of their teacher.' Senya chimes in candidly toward Barinov, without trying to dress up how he really feels.
+- 'Look, chef, what ordinary people they are!' Lyova reaches for one clear detail toward Senya: "obychnyye" means "ordinary" (from "obychnyy"), giving the line its exact edge.
+- 'It seems this is some very strange sect.' Senya stands firm evenly to settle things, leaving no doubt about where he stands.
+- 'We are lucky if this is veal.' Senya proceeds evenly with a nod, steering the talk right where he wants it.
+- 'Stop talking all kinds of nonsense!' Barinov sharpens one loaded choice right here: "glupost" means "nonsense, foolishness", and it carries the main weight of what Barinov is saying.
+- 'Let us better go back to the kitchen.' Lyova aims that answer for Senya: the word "davayte" is the polite or group version of "let's", inviting Senya into the plan right away.

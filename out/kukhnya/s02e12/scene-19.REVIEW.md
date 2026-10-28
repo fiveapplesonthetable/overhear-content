@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell him how you feel about him.' Barinov shows a serious line during the exchange, putting "rasskazhite" ("tell") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'Good morning, Viktor Petrovich!' Vika offers an honest approach as the scene unfolds, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
-- 'Did you watch the game yesterday?' Barinov tests steadily across the room, building the phrase around "igru-to" ("game") and "smotreli" ("to look, to watch") for a crisp, natural delivery.
-- 'Very funny.' Vika chooses a warm angle toward Barinov, weaving "ochen" ("very much") together with "smeshno" ("ridiculous") just the way native speakers do.
-- 'You are making fun of me.' Barinov holds a warm tack as the scene unfolds, building the phrase around "izdevayetes" ("are you mocking") and "vy" ("you") for a crisp, natural delivery.
-- 'Well, of course, for a long time now.' Vika chooses a measured mood in this beat, linking "konechno" ("of course"), "davno" ("for a long time"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Wait, did you not know?' Barinov presses evenly for Vika's benefit, building the phrase around "kurse" ("course, regimen") and "vy" ("you") for a crisp, natural delivery.
-- 'Everything is fine already.' Vika favors a candid angle as they talk, anchoring the Russian line on "uzhe" ("already, now") and "normalno" ("fine, OK") without extra filler.
-- 'He is just sleeping.' Barinov favors a firm note with Vika, putting "spit" ("is sleeping") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'How can that be?' Vika presses pointedly across the room, anchoring the Russian line on "kak" ("how") and "eto" ("this") without extra filler.
-- 'Just like that.' Barinov establishes a serious course toward Vika, anchoring the Russian line on "vot" ("there, here") and "tak" ("so") without extra filler.
-- 'All right, enough, that is enough.' Vika keeps a wry course with Barinov, joining "khvatit" ("enough") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Everything is fine with me.' Barinov holds a steady tone as they talk, leaning on "normalno" ("fine, OK") before closing the thought with "vse" ("all").
+- 'Tell him how you feel about him.' Barinov centers one practical choice toward Vika: "rasskazhite" means "tell" (from "rasskazat"), giving the line its exact edge.
+- 'Good morning, Viktor Petrovich!' Vika drops that line facing Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Did you watch the game yesterday?' Barinov inquires evenly whether Vika really thought this through.
+- 'Very funny.' Vika anchors one vivid element toward Barinov: "smeshno" means "ridiculous", and it carries the main weight of what Vika is saying.
+- 'You are making fun of me.' Barinov sends this warning frankly here: the "-sya" ending on "izdevayetes" ("are you mocking") turns the action inward or makes it happen between people naturally.
+- 'Well, of course, for a long time now.' Vika responds pointedly as they talk, bringing things back to earth after the buildup.
+- 'Wait, did you not know?' Barinov favors this sharp detail on cue: "kurse" means "course, regimen" (from "kurs"), giving the line its exact edge.
+- 'Everything is fine already.' Vika sends that line in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is just sleeping.' Barinov speaks up calmly beside Vika, so Vika knows he is not just making small talk.
+- 'How can that be?' Vika lays out this update around Barinov: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Just like that.' Barinov directs this statement at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'All right, enough, that is enough.' Vika counters honestly with Barinov, so Barinov knows she is not just making small talk.
+- 'Everything is fine with me.' Barinov focuses on one direct element in earnest: "normalno" means "fine, OK", and it carries the main weight of what Barinov is saying.

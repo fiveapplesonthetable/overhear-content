@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright then, get some rest.' Max strikes a natural note without hesitation, joining "otdykhayte" ("rest") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Get some rest. Albert Igorevich?' Sasha probes briskly as the talk turns, building the phrase around "otdykhayte" ("rest") and "albert" ("Albert") for a crisp, natural delivery.
-- 'We need to stabilize your blood pressure.' Max shows an earnest direction in the scene, leaning on "davleniye" ("blood pressure") before closing the thought with "nado" ("it is necessary").
-- 'Climbing out the window like that.' Sasha sustains a playful mood during the exchange, weaving "kak" ("how") together with "okoshko" ("little window") just the way native speakers do.
-- 'I am begging you, please.' Max presses calmly during the talk, putting "ochen" ("very much") alongside "proshu" ("beg, ask") in a tight, everyday turn of phrase.
-- 'I will check in again this evening, and right now I will bring you some tea.' Sasha strikes a frank direction right away, weaving "vecherom" ("in the evening") together with "zaglyanu" ("to drop in") just the way native speakers do.
-- 'How are things going with you?' Max queries evenly in the room, putting "dela" ("things, affairs") alongside "vas" ("you") in a tight, everyday turn of phrase.
-- 'Detained while attempting to escape.' Sasha brings a playful mood in front of Max, combining "zaderzhan" ("has been detained") and "popytke" ("attempt") so the key meaning lands right away.
-- 'I already know everything, I will come visit you.' Max presents an earnest rhythm straight away, weaving "uzhe" ("already, now") together with "znayu" ("know") just the way native speakers do.
-- 'What should I bring you?' Sasha tests sharply for Max's benefit, putting "privezti" ("to bring") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'Running and jumping around.' Max offers a candid course in the scene, combining "begayet" ("runs around") and "prygayet" ("to jump, to hop in") so the key meaning lands right away.
-- 'He is eating with such an appetite.' Sasha offers a warm tack in their talk, linking "appetitom" ("appetite"), "yest" ("there is"), and "on" ("he") in one brisk exchange.
-- 'Learn the Russian language first.' Max adopts a calm position in front of Sasha, anchoring the Russian line on "russkiy" ("Russian") and "yazyk" ("language, tongue") without extra filler.
+- 'Alright then, get some rest.' Max underscores this vivid piece in reply: "otdykhayte" means "rest" (from "otdykhat"), giving the line its exact edge.
+- 'Get some rest. Albert Igorevich?' Sasha hands over that line around Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'We need to stabilize your blood pressure.' Max steps in bluntly toward Sasha, refusing to let the moment slip past.
+- 'Climbing out the window like that.' Sasha frames one concrete element right here: "okoshko" means "little window", and it carries the main weight of what Sasha is saying.
+- 'I am begging you, please.' Max phrases the remark with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
+- 'I will check in again this evening, and right now I will bring you some tea.' Sasha replies briskly without holding back, watching Max's face to see how the news lands.
+- 'How are things going with you?' Max features one colorful expression in reply: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'Detained while attempting to escape.' Sasha continues openly during the talk, refusing to let the moment slip past.
+- 'I already know everything, I will come visit you.' Max follows up dryly without any doubt, steering the talk right where he wants it.
+- 'What should I bring you?' Sasha colors one vivid detail in reply: "privezti" means "to bring", and it carries the main weight of what Sasha is saying.
+- 'Running and jumping around.' Max puts the reaction without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'He is eating with such an appetite.' Sasha weighs in bluntly beside Max, bringing things back to earth after the buildup.
+- 'Learn the Russian language first.' Max features this telling choice on cue: "russkiy" means "Russian", and it carries the main weight of what Max is saying.

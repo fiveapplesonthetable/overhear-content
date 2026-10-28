@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lena, I have already arranged everything!' Barinov holds a wry position straight away, building the phrase around "uzhe" ("already, now") and "dogovorilsya" ("made a deal") for a crisp, natural delivery.
-- 'Tomorrow morning the three of us will be by the registry office.' Barinov keeps a candid angle as the scene unfolds, anchoring the Russian line on "zavtra" ("tomorrow") and "utrom" ("this morning") without extra filler.
-- 'First we quickly divorce you two, and then we marry us!' Barinov chooses a brisk manner for Elena, leaning on "snachala" ("first, at first") before closing the thought with "bystro" ("quickly").
-- 'Vitya, and how did you manage to persuade him?' Elena challenges calmly beside Mikhail, anchoring the Russian line on "kak" ("how") and "udalos" ("succeeded") without extra filler.
-- 'You know me, I can persuade anyone!' Barinov strikes a steady tack at this moment, linking "znayesh" ("know"), "lyubogo" ("any"), and "cheloveka" ("a man, a person") in one brisk exchange.
-- 'Alright, agreed, and what is that noise over there?' Elena presses calmly in front of Mikhail, combining "u tebya" (literally "by you") with "khorosho" ("good, fine") rather than a separate word for "have".
-- 'The guys just threw a small celebration for me here.' Barinov favors an earnest approach across the room, leaning on "rebyata" ("the boys, the lads") before closing the thought with "tut" ("here").
-- 'Do not worry, I am not going to drink today!' Barinov holds a candid posture for Mikhail, combining "volnuysya" ("worry") and "segodnya" ("today") so the key meaning lands right away.
-- 'My friend, tomorrow morning I am finally getting married!' Elena sets a resolute manner at this moment, pairing "podruga" ("female friend") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
-- 'What is the meaning of this? All the guests are complaining about you!' Mikhail quizzes naturally to Elena here, putting "kak" ("how") alongside "ponimat" ("understand") in a tight, everyday turn of phrase.
-- 'Stop grumbling, Misha, my wedding is tomorrow morning!' Barinov sustains a calm approach in the room, joining "khvatit" ("enough") to "vorchat" ("grumble") so every word pulls its weight.
-- 'Sit down at the table with us, let's have a drink instead!' Barinov establishes a candid posture without hesitation, combining "sadis" ("sit down") and "stolu" ("table") so the key meaning lands right away.
+- 'Hello, Lena, I have already arranged everything!' Barinov proceeds right away in this moment, making his position completely clear.
+- 'Tomorrow morning the three of us will be by the registry office.' Barinov stresses one loaded piece on cue: "vtroyom" means "the three of us", and it carries the main weight of what Barinov is saying.
+- 'First we quickly divorce you two, and then we marry us!' Barinov centers this clear piece in reply: "snachala" means "first, at first", and it carries the main weight of what Barinov is saying.
+- 'Vitya, and how did you manage to persuade him?' Elena prompts evenly whether Mikhail really thought this through.
+- 'You know me, I can persuade anyone!' Barinov leans on one classic choice in earnest: "lyubogo" means "any" (from "lyuboy"), giving the line its exact edge.
+- 'Alright, agreed, and what is that noise over there?' Elena shares the comeback toward Mikhail: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'The guys just threw a small celebration for me here.' Barinov speaks up plainly to be clear, shifting the whole mood of the room in a single beat.
+- 'Do not worry, I am not going to drink today!' Barinov grounds one familiar detail with Mikhail: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'My friend, tomorrow morning I am finally getting married!' Elena answers quietly across the room, shifting the whole mood of the room in a single beat.
+- 'What is the meaning of this? All the guests are complaining about you!' Mikhail wonders curiously whether Elena really thought this through.
+- 'Stop grumbling, Misha, my wedding is tomorrow morning!' Barinov grounds one practical element for Elena: "svadba" means "wedding", and it carries the main weight of what Barinov is saying.
+- 'Sit down at the table with us, let's have a drink instead!' Barinov offers this update to Mikhail: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

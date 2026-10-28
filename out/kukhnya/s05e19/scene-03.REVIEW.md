@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Or simply ask the chef for a promotion.' Kostya holds a candid mood beside Katya, joining "prosto" ("just") to "poprosi" ("ask") so every word pulls its weight.
-- 'Yeah, promote me from rookie to senior rookie.' Max sustains an emphatic approach with Kostya, pairing "povysit" ("to promote") with "oguzka" ("rump, runt") to get the point across in plain spoken Russian.
-- 'Find a way to reduce the kitchen's expenses.' Kostya picks a resolute posture across the room, pairing "naydi" ("find") with "sposob" ("a way, a method") to get the point across in plain spoken Russian.
-- 'Then the chef will definitely raise your salary.' Kostya keeps a pointed note with Max, pairing "togda" ("back then") with "tochno" ("definitely") to get the point across in plain spoken Russian.
-- 'For instance, I removed one olive from a cocktail.' Kostya presents a steady stance as they talk, leaning on "ubral" ("to remove, to take away") before closing the thought with "kokteylya" ("cocktail").
-- 'That is a nice savings every month.' Kostya adopts a warm direction as they talk, anchoring the Russian line on "khoroshaya" ("good") and "ekonomiya" ("savings") without extra filler.
-- 'Alright, let's talk a little later.' Kostya takes an easygoing course without hesitation, linking "davay" ("let's"), "popozzhe" ("later"), and "pogovorim" ("we'll have a talk") in one brisk exchange.
-- 'Denis, is there nothing you want to tell me?' Katya probes calmly to Max here, anchoring the Russian line on "khochesh" ("do you want") and "skazat" ("tell") without extra filler.
-- 'What happened, did you decide to perk up this morning?' Max probes bluntly in this moment, pairing "sluchilos" ("happened") with "reshila" ("decided") so the "-sya" ending carries the action.
-- 'So you were not the one who wrote this note?' Katya challenges honestly in the room, weaving "znachit" ("then, so") together with "zapisku" ("note") just the way native speakers do.
-- 'I have no idea what you are talking about.' Max displays a playful attitude without hesitation, putting "ponyatiya" ("concept, idea") alongside "imeyu" ("have") in a tight, everyday turn of phrase.
-- 'Alright, let's see what happens next.' Katya chooses a playful rhythm at this moment, using "posmotrim" (from "posmotret", "have a look") alongside "budet" ("will be") to shape the meaning.
+- 'Or simply ask the chef for a promotion.' Kostya proceeds at once hearing Katya, saying out loud what both of them already know.
+- 'Yeah, promote me from rookie to senior rookie.' Max grounds one colorful detail toward Kostya: "starshego" means "older, elder" (from "starshiy"), giving the line its exact edge.
+- 'Find a way to reduce the kitchen's expenses.' Kostya holds firm briskly without a pause, making his position completely clear.
+- 'Then the chef will definitely raise your salary.' Kostya counters right away in this moment, before Max can change the subject.
+- 'For instance, I removed one olive from a cocktail.' Kostya points to one familiar element for Katya: "kokteylya" means "cocktail" (from "kokteyl"), giving the line its exact edge.
+- 'That is a nice savings every month.' Kostya phrases that thought toward Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Alright, let's talk a little later.' Kostya speaks frankly facing Katya, bringing things back to earth after the buildup.
+- 'Denis, is there nothing you want to tell me?' Katya uses one classic word toward Max: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'What happened, did you decide to perk up this morning?' Max hands over the comment without pause: the "-sya" ending on "vzbodritsya" ("to perk up") turns the action inward or makes it happen between people naturally.
+- 'So you were not the one who wrote this note?' Katya inquires eagerly about what Max just brought up.
+- 'I have no idea what you are talking about.' Max features one loaded term toward Katya: "ponyatiya" means "concept, idea" (from "ponyatiye"), giving the line its exact edge.
+- 'Alright, let's see what happens next.' Katya states that answer frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only creative people work in our kitchen.' Nagiyev brings a playful position without hesitation, weaving "kukhne" ("kitchen") together with "rabotayut" ("work") just the way native speakers do.
-- 'They do not even notice the clock when they cook.' Nagiyev adopts a resolute tempo during the exchange, anchoring the Russian line on "chasov" ("o'clock") and "zamechayut" ("to notice, observe") without extra filler.
-- 'I will go right now and hurry our artists along.' Nagiyev chooses a calm mood straight away, putting "poydu" ("go") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Oh, look, here come our delicacies!' Nagiyev holds an honest tempo straight away, weaving "smotrite" ("look") together with "delikatesy" ("delicacies") just the way native speakers do.
-- 'Wait a minute, what is this you have, pilaf?' The guest challenges briskly as the talk turns, anchoring the Russian line on "podozhdite" ("wait") and "plov" ("pilaf") without extra filler.
-- 'Is this ordinary pilaf on the plate?' Nagiyev quizzes openly beside Max, leaning on "obychnyy" ("ordinary, regular") before closing the thought with "plov" ("pilaf").
-- 'Yes, this is real hot pilaf.' Max picks an honest manner in front of the guest, placing "samyy" ("the most") straight beside "nastoyashchiy" ("real, genuine") with no word for "to be" needed.
-- 'I have not eaten pilaf in a thousand years.' The guest shows a steady mood straight away, combining "uzhe" ("already, now") and "tysyachu" ("thousand") so the key meaning lands right away.
-- 'I still remember this taste.' The guest takes a candid direction as they talk, using "por" (from "pora", "time") alongside "pomnyu" ("remember") to shape the meaning.
-- 'Very delicious! Good for you, Dima!' The guest chooses a thoughtful line for Nagiyev, putting "ochen" ("very much") alongside "vkusno" ("it's tasty") in a tight, everyday turn of phrase.
-- 'We have a special approach to every guest of ours.' Nagiyev maintains an earnest bearing toward the guest, leaning on "u nas" ("by us, at our place") and "osobyy" ("special, particular") the way natural Russian does.
-- 'One can see in your eyes that you want pilaf.' Nagiyev strikes a thoughtful posture straight away, linking "glazam" ("eye"), "vidno" ("one can see"), and "plova" ("of pilaf") in one brisk exchange.
+- 'Only creative people work in our kitchen.' Nagiyev emphasizes one concrete piece toward the guest: "tvorcheskiye" means "creative" (from "tvorcheskiy"), giving the line its exact edge.
+- 'They do not even notice the clock when they cook.' Nagiyev reacts briskly without holding back, bringing things back to earth after the buildup.
+- 'I will go right now and hurry our artists along.' Nagiyev responds honestly to be clear, before the guest can change the subject.
+- 'Oh, look, here come our delicacies!' Nagiyev grounds this sharp detail on cue: "delikatesy" means "delicacies" (from "delikates"), giving the line its exact edge.
+- 'Wait a minute, what is this you have, pilaf?' The guest frames this line without fuss: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Is this ordinary pilaf on the plate?' Nagiyev quizzes point-blank while looking straight at Max here.
+- 'Yes, this is real hot pilaf.' Max anchors this clear choice right here: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
+- 'I have not eaten pilaf in a thousand years.' The guest steps in briskly with a shrug, without trying to dress up how he really feels.
+- 'I still remember this taste.' The guest speaks lightly in this moment, steering the talk right where he wants it.
+- 'Very delicious! Good for you, Dima!' The guest points to one loaded term at once: "molodets" means "well done, good boy", and it carries the main weight of what the guest is saying.
+- 'We have a special approach to every guest of ours.' Nagiyev frames that reply plainly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'One can see in your eyes that you want pilaf.' Nagiyev replies decisively with a sigh, leaving no doubt about where he stands.

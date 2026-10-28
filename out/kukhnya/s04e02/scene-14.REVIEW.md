@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry that I left. I let everyone down.' Max offers a warm footing for Lyova, building the phrase around "izvini" ("sorry, excuse me") and "uyekhal" ("left, went away") for a crisp, natural delivery.
-- 'But I am ready to fix everything.' Max conveys a thoughtful rhythm at this moment, joining "gotov" ("ready") to "ispravit" ("to fix, to correct") so every word pulls its weight.
-- 'Here, meet Denis, my brother.' Max brings a candid bearing as they talk, using "poznakomsya" (from "poznakomitsya", "to get acquainted") alongside "brat" ("brother") to shape the meaning.
-- 'Let's take him on for vegetable prep, huh?' Max challenges earnestly in front of Lyova, combining the everyday invitation "davay" ("come on, let us") with "vozmyom" ("will take") to give the line its natural spoken rhythm.
-- 'Lyova, you said yourself that we are short-handed.' Max brings a resolute angle at this moment, anchoring the Russian line on "govoril" ("said, were saying") and "ruk" ("arms") without extra filler.
-- 'And he is a responsible person.' Max holds a measured direction as they talk, linking "chelovek" ("a man, a person") directly with "otvetstvennyy" ("responsible"), since Russian drops "is" and "are" in the present.
-- 'And what about work experience?' Lyova challenges wryly to keep things clear, anchoring the Russian line on "opyt" ("experience") and "raboty" ("of work") without extra filler.
-- 'Well, he worked as a cook at the best restaurant in Voronezh.' Max strikes a serious tack across the room, weaving "rabotal" ("worked") together with "povarom" ("as a cook") just the way native speakers do.
-- 'So he can definitely handle prep work, right?' Max presses briskly as the talk turns, putting "zagotovke" ("preparation") alongside "tochno" ("definitely") in a tight, everyday turn of phrase.
-- 'I don't know, I need to ask first.' Lyova projects a firm line at this moment, linking "znayu" ("know"), "nuzhno" ("necessary"), and "sprosit" ("to ask") in one brisk exchange.
-- 'Ask whom? Now you decide everything here.' Max quizzes dryly across the room, joining "sprosit-to" ("whom") to "teper" ("now") so every word pulls its weight.
-- 'Alright, let him come tomorrow for a trial period.' Lyova strikes a frank tempo at once, building the phrase around "zavtra" ("tomorrow") and "prikhodit" ("comes by") for a crisp, natural delivery.
+- 'Sorry that I left. I let everyone down.' Max aims this warning without fuss: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'But I am ready to fix everything.' Max fires back honestly before Lyova, shifting the whole mood of the room in a single beat.
+- 'Here, meet Denis, my brother.' Max centers this sharp piece in earnest: "poznakomsya" means "to get acquainted" (from "poznakomitsya"), giving the line its exact edge.
+- 'Let's take him on for vegetable prep, huh?' Max aims the thought on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Lyova, you said yourself that we are short-handed.' Max continues warmly across the room, bringing things back to earth after the buildup.
+- 'And he is a responsible person.' Max uses this vivid touch in reply: "otvetstvennyy" means "responsible", and it carries the main weight of what Max is saying.
+- 'And what about work experience?' Lyova aims this statement before Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Well, he worked as a cook at the best restaurant in Voronezh.' Max replies steadily watching Lyova, without trying to dress up how he really feels.
+- 'So he can definitely handle prep work, right?' Max chooses this clear element in earnest: "zagotovke" means "preparation" (from "zagotovka"), giving the line its exact edge.
+- 'I don't know, I need to ask first.' Lyova offers that remark before Max: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Ask whom? Now you decide everything here.' Max probes eagerly while looking straight at Lyova here.
+- 'Alright, let him come tomorrow for a trial period.' Lyova underscores this key touch for Max: "ispytatelnyy" means "period", and it carries the main weight of what Lyova is saying.

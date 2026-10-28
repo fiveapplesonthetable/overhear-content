@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to say goodnight to you.' Nastya maintains a sharp tone on the spot, putting "khotela" ("wanted, meant") alongside "skazat" ("tell") in a tight, everyday turn of phrase.
-- 'Did you get so worked up over the sink?' Nastya challenges warmly without hesitation, combining "razvolnovalsya" ("to get nervous") and "rakoviny" ("sink") so the key meaning lands right away.
-- 'Alright then, I forgive you.' Nastya presents a playful angle straight away, linking "proshchayu" ("to forgive"), "nu" ("oh, come on"), and "ladno" ("all right") in one brisk exchange.
-- 'I chose new furniture for the restaurant.' The guest strikes a wry attitude toward Nikita, joining "vybral" ("chose") to "novuyu" ("new") so every word pulls its weight.
-- 'I just cannot make up my mind about the color.' The guest shows a brisk tone in the conversation, building the phrase around "tsvetom" ("color") and "nikak" ("in no way") for a crisp, natural delivery.
-- 'What do you think, is gold not too much?' The guest questions decisively as the beat lands, anchoring the Russian line on "kak" ("how") and "schitayesh" ("to count, to think") without extra filler.
-- 'Dad, did you call me to talk about chairs?' Nikita questions warmly to the guest here, anchoring the Russian line on "papa" ("Dad") and "pozval" ("invited") without extra filler.
-- 'I called you to offer you a good job.' The guest shares a steady rhythm at this moment, putting "pozval" ("invited") alongside "predlozhit" ("to offer") in a tight, everyday turn of phrase.
-- 'Enough, you have already proven everything to me.' The guest adopts a warm attitude as the scene unfolds, weaving "khvatit" ("enough") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Come back home soon, take the pen.' The guest sets a grounded line in the room, linking "vozvrashchaysya" ("return"), "skoreye" ("quickly, right away"), and "domoy" ("home") in one brisk exchange.
-- 'Write down any good salary for yourself.' The guest strikes an unhurried direction in the conversation, using "pishi" (from "pisat", "write") alongside "lyubuyu" ("any") to shape the meaning.
-- 'Excuse me, I will answer quickly right now.' Nikita conveys a thoughtful line on the spot, combining "izvini" ("sorry, excuse me") and "seychas" ("now") so the key meaning lands right away.
+- 'I wanted to say goodnight to you.' Nastya chimes in plainly across the room, steering the talk right where she wants it.
+- 'Did you get so worked up over the sink?' Nastya chooses one sharp term right here: "razvolnovalsya" means "to get nervous" (from "razvolnovatsya"), giving the line its exact edge.
+- 'Alright then, I forgive you.' Nastya gives this answer in earnest: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
+- 'I chose new furniture for the restaurant.' The guest replies evenly to settle things, before Nikita can change the subject.
+- 'I just cannot make up my mind about the color.' The guest picks one colorful expression in reply: "opredelitsya" means "to make up one's mind", and it carries the main weight of what the guest is saying.
+- 'What do you think, is gold not too much?' The guest drops the thought frankly here: putting the question word "kak" right at the front of the line lets Nikita hear the point of the question on the very first beat.
+- 'Dad, did you call me to talk about chairs?' Nikita tests sharply before the guest can change the subject.
+- 'I called you to offer you a good job.' The guest colors one sharp word toward Nikita: "khoroshuyu" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Enough, you have already proven everything to me.' The guest spotlights one sharp word with Nastya: "khvatit" means "enough", and it carries the main weight of what the guest is saying.
+- 'Come back home soon, take the pen.' The guest answers bluntly with a shrug, before Nikita can change the subject.
+- 'Write down any good salary for yourself.' The guest stresses one loaded term toward Nastya: "khoroshuyu" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Excuse me, I will answer quickly right now.' Nikita frames this update in earnest: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.

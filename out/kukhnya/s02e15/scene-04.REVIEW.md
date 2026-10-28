@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was awesome.' Max conveys a candid posture during the exchange, combining "klassno" ("great, cool") and "bylo" ("was") so the key meaning lands right away.
-- 'Though a bit scary.' Barinov strikes a serious stance in the scene, pairing "strashno" ("scary, frightening") with "no" ("but") to get the point across in plain spoken Russian.
-- 'Well yeah, it is not like being at home.' Vika displays a candid position as they talk, weaving "doma" ("at home") together with "nu" ("oh, come on") just the way native speakers do.
-- 'I mean, at home you are not afraid.' Max takes an earnest attitude on the spot, combining "smysle" ("sense") and "doma" ("at home") so the key meaning lands right away.
-- 'Right, exactly.' Barinov favors a lively view right away, building the phrase around "nu" ("oh, come on") and "da" ("yes") for a crisp, natural delivery.
-- 'Someone might walk in at any moment.' Vika favors a brisk mood during the exchange, weaving "vdrug" ("suddenly, what if") together with "voydyot" ("will come in") just the way native speakers do.
-- 'Max, you are the best!' Barinov establishes a brisk footing at once, pairing "super" ("super, great") with "maks" ("Max") to get the point across in plain spoken Russian.
-- 'How did you know?' Barinov inquires openly for Vika's benefit, leaning on "kak" ("how") before closing the thought with "uznal" ("recognised").
-- 'Oh, my name day is coming up soon too.' Vika keeps a direct note right away, leaning on "tozhe" ("too") before closing the thought with "skoro" ("soon").
-- 'Will you get me a present too?' Max presses calmly as they speak, building the phrase around "podarish" ("to give") and "tozhe" ("too") for a crisp, natural delivery.
-- 'They would not suit me.' Barinov projects a candid position in the conversation, building the phrase around "idut" ("go") and "ne" ("not") for a crisp, natural delivery.
-- 'Get out of here.' Vika brings a sharp footing with Max, pairing "idi" ("go") with "otsyuda" ("from here") to get the point across in plain spoken Russian.
-- 'I am going, thank you.' Max brings a frank direction straight away, pairing "idu" ("going, running") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
+- 'That was awesome.' Max underscores one telling term in reply: "klassno" means "great, cool", and it carries the main weight of what Max is saying.
+- 'Though a bit scary.' Barinov shares that reply frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Well yeah, it is not like being at home.' Vika pushes back wryly in this moment, letting the remark speak for itself.
+- 'I mean, at home you are not afraid.' Max uses one loaded element right here: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
+- 'Right, exactly.' Barinov shapes the comment for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Someone might walk in at any moment.' Vika speaks up at once as they talk, grounding the moment in plain reality.
+- 'Max, you are the best!' Barinov emphasizes one memorable expression toward Max: "super" means "super, great", and it carries the main weight of what Barinov is saying.
+- 'How did you know?' Barinov states this update frankly here: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Oh, my name day is coming up soon too.' Vika counters earnestly as they talk, watching Barinov's face to see how the news lands.
+- 'Will you get me a present too?' Max favors one classic word at once: "podarish" means "to give" (from "podarit"), giving the line its exact edge.
+- 'They would not suit me.' Barinov gives the comeback without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Get out of here.' Vika continues calmly with Max, letting the remark speak for itself.
+- 'I am going, thank you.' Max leans on this clear detail for Barinov: "spasibo" means "thank you", and it carries the main weight of what Max is saying.

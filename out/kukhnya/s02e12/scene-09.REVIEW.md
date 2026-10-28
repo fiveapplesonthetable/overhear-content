@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, who is Louis over there with?' Vika inquires evenly on the spot, using "slushay" (from "slushat", "listen") alongside "vot" ("there, here") to shape the meaning.
-- 'Come on, I am just kidding.' Max strikes a pointed direction in the conversation, weaving "shuchu" ("am joking") together with "da" ("yes") just the way native speakers do.
-- 'And what about our director?' Louis prompts naturally without a pause, pairing "direktor" ("head teacher") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'She does not seem to be with anyone.' Vika conveys a warm approach in front of Max, linking "ta" ("that"), "vrode" ("seemingly, apparently"), and "ni" ("not even, nor") in one brisk exchange.
-- 'You do not say.' Max maintains an easygoing approach on the spot, leaning on "da" ("yes") before closing the thought with "nu" ("oh, come on").
-- 'Actually, the guests were asking for you.' Louis keeps a calm footing in front of Vika, linking "voobshche-to" ("actually"), "gosti" ("visitors, guests"), and "zvali" ("called") in one brisk exchange.
-- 'Tell them for me.' Vika conveys a grounded position on the spot, combining "skazhi" ("say") and "im" ("them") so the key meaning lands right away.
-- 'No, no, not right now.' Max strikes a brisk direction toward Vika, joining "seychas" ("now") to "ne-ne-ne" ("no, there isn't") so every word pulls its weight.
-- 'It is my first day at the restaurant.' Louis sustains a steady footing in their talk, pairing "pervyy" ("first") with "den" ("day") to get the point across in plain spoken Russian.
-- 'Well, how could anyone say no to me?' Vika probes promptly for Max's benefit, linking "kak" ("how"), "otkazhesh" ("to refuse, to turn down"), and "nu" ("oh, come on") in one brisk exchange.
-- 'This is already the third bracelet.' Max holds a lively tempo across the room, leaning on "uzhe" ("already, now") before closing the thought with "tretiy" ("the third").
-- 'Do you see this right here?' Louis quizzes directly as they speak, joining "vidish" ("see") to "vot" ("there, here") so every word pulls its weight.
-- 'All right, I am going to get back to work.' Vika strikes an emphatic angle in the room, joining "poydu" ("go") to "porabotayu" ("to work for a while") so every word pulls its weight.
+- 'Listen, who is Louis over there with?' Vika quizzes bluntly if there is more going on behind the scenes.
+- 'Come on, I am just kidding.' Max highlights this direct piece on cue: "shuchu" means "am joking" (from "shutit"), giving the line its exact edge.
+- 'And what about our director?' Louis directs that answer to Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'She does not seem to be with anyone.' Vika fires back dryly around Max, saying out loud what both of them already know.
+- 'You do not say.' Max sends the comment right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Actually, the guests were asking for you.' Louis directs this line plainly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Tell them for me.' Vika fires back evenly with a sigh, without trying to dress up how she really feels.
+- 'No, no, not right now.' Max underscores one direct piece in earnest: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'It is my first day at the restaurant.' Louis drops the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, how could anyone say no to me?' Vika asks firmly if there is more going on behind the scenes.
+- 'This is already the third bracelet.' Max grounds one direct piece with Louis: "braslet" means "the tag", and it carries the main weight of what Max is saying.
+- 'Do you see this right here?' Louis hands over this warning plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'All right, I am going to get back to work.' Vika replies steadily on the spot, before Louis can change the subject.

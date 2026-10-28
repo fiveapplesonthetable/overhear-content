@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am here to support you.' Vika conveys a warm line at once, using "podderzhivayu" (from "podderzhivat", "to support") alongside "ya" ("I") to shape the meaning.
-- 'Kostya, what are you talking about?' Vika presses lightly across the room, building the phrase around "kostya" ("Kostya") and "ty" ("you") for a crisp, natural delivery.
-- 'I watched a movie yesterday.' Vika picks an earnest angle at once, weaving "film" ("movie") together with "vchera" ("yesterday") just the way native speakers do.
-- 'Well, be careful not to get too carried away with movies like that.' Kostya picks a warm posture beside Vika, joining "smotri" ("look") to "uvlekaysya" ("get carried away") so every word pulls its weight.
-- 'Come over here and help me.' Vika offers a lively bearing toward Kostya, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
-- 'Come on, hurry it up.' Kostya sets a brisk view in the room, combining the everyday invitation "davay" ("come on, let us") with "davay" ("let's") to give the line its natural spoken rhythm.
-- 'This one is ready.' Vika shares an earnest view beside Kostya, putting "gotovo" ("ready") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'You will not give it all away.' Kostya keeps an earnest tone at once, linking "otdash" ("to give, to hand over"), "vse" ("all"), and "ne" ("not") in one brisk exchange.
-- 'And to think someone was shouting that you never fry tartare.' Vika strikes a lively bearing straight away, using "krichal" (from "krichat", "yelled") alongside "tartary" ("tartare") to shape the meaning.
-- 'And I will never do it again, believe me.' Kostya strikes a playful direction in this beat, linking "nikogda" ("never"), "bolshe" ("more"), and "sdelayesh" ("will you make") in one brisk exchange.
-- 'I am afraid you are going to have to.' Vika favors a wry direction straight away, using "boyus" (from "boyatsya", "am afraid") alongside "pridetsya" ("will have to") to shape the meaning.
-- 'She liked everything very much.' Kostya picks a brisk style during the exchange, combining "ochen" ("very much") and "ponravilos" ("pleased, was liked") so the key meaning lands right away.
-- 'Well, what would you not do in the name of your favorite team.' Vika projects a playful approach at once, building the phrase around "sdelayesh" ("will you make") and "imya" ("name") for a crisp, natural delivery.
+- 'I am here to support you.' Vika underscores this direct word in reply: "podderzhivayu" means "to support" (from "podderzhivat"), giving the line its exact edge.
+- 'Kostya, what are you talking about?' Vika phrases that point facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I watched a movie yesterday.' Vika holds firm bluntly as they talk, steering the talk right where she wants it.
+- 'Well, be careful not to get too carried away with movies like that.' Kostya reaches for one loaded term with Vika: "uvlekaysya" means "get carried away" (from "uvlekatsya"), giving the line its exact edge.
+- 'Come over here and help me.' Vika hands over the comeback with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Come on, hurry it up.' Kostya answers briskly facing Vika, so Vika knows he is not just making small talk.
+- 'This one is ready.' Vika spotlights this key word on cue: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
+- 'You will not give it all away.' Kostya offers that line before Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And to think someone was shouting that you never fry tartare.' Vika replies steadily with a nod, so Kostya knows she is not just making small talk.
+- 'And I will never do it again, believe me.' Kostya emphasizes one colorful expression with Vika: "sdelayesh" means "will you make" (from "sdelat"), giving the line its exact edge.
+- 'I am afraid you are going to have to.' Vika delivers the remark without fuss: the "-sya" ending on "pridetsya" ("will have to") turns the action inward or makes it happen between people naturally.
+- 'She liked everything very much.' Kostya holds firm right away as they talk, refusing to let the moment slip past.
+- 'Well, what would you not do in the name of your favorite team.' Vika highlights this telling touch in earnest: "lyubimoy" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.

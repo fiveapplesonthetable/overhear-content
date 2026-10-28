@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot imagine what trouble I am in.' Barinov shows an easygoing stance as the scene unfolds, joining "predstavlyayesh" ("can you imagine") to "kak" ("how") so every word pulls its weight.
-- 'Alright, thank you very much, everyone.' Mikhail projects a playful course straight away, using "bolshoye" (from "bolshoy", "big, very much") alongside "spasibo" ("thank you") to shape the meaning.
-- 'What is happening over there right now?' Mikhail probes frankly during the talk, pairing "seychas" ("now") with "tam" ("there") so the "-sya" ending carries the action.
-- 'We have a small problem in the room.' Vika picks a thoughtful stance in the conversation, weaving "nomere" ("in the hotel room") together with "nebolshaya" ("small") just the way native speakers do.
-- 'The fire alarm went off up there.' Vika shows a resolute bearing with Barinov, leaning on "tam" ("there") before closing the thought with "srabotala" ("went off, triggered").
-- 'Our head chef went in there.' Vika shares a lively tone with Mikhail, weaving "tuda" ("there") together with "prishyol" ("came, have come") just the way native speakers do.
-- 'What did he do in there again?' Mikhail queries sharply on the spot, putting "tam" ("there") alongside "opyat" ("again") in a tight, everyday turn of phrase.
-- 'Have you completely lost your mind?' Mikhail presses dryly as the talk turns, anchoring the Russian line on "sovsem" ("at all") and "uma" ("mind") without extra filler.
-- 'I was simply doing your job for you.' Barinov offers a sharp posture in the room, building the phrase around "prosto" ("just") and "delal" ("were doing") for a crisp, natural delivery.
-- 'It is very cold here in the room.' Barinov sets a sharp stance in this beat, linking "zdes" ("here") directly with "nomere" ("in the hotel room"), since Russian drops "is" and "are" in the present.
-- 'What is going on here at all?' Mikhail queries firmly with Barinov now, combining "zdes" ("here") and "voobshche" ("at all") so the key meaning lands right away.
-- 'Have you never heard about the holiday?' Barinov queries wryly across the room, combining "nikogda" ("never") and "slyshali" ("did you hear") so the key meaning lands right away.
+- 'You cannot imagine what trouble I am in.' Barinov steps in openly without holding back, steering the talk right where he wants it.
+- 'Alright, thank you very much, everyone.' Mikhail stresses one pointed touch at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'What is happening over there right now?' Mikhail hands over that point without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'We have a small problem in the room.' Vika holds firm pointedly with Mikhail, refusing to let the moment slip past.
+- 'The fire alarm went off up there.' Vika picks one direct piece in earnest: "signalizatsiya" means "alarm", and it carries the main weight of what Vika is saying.
+- 'Our head chef went in there.' Vika aims that reply with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What did he do in there again?' Mikhail challenges frankly while looking straight at Barinov here.
+- 'Have you completely lost your mind?' Mikhail spotlights one sharp element on cue: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
+- 'I was simply doing your job for you.' Barinov frames this warning plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'It is very cold here in the room.' Barinov answers boldly to be clear, so Vika knows he is not just making small talk.
+- 'What is going on here at all?' Mikhail features this telling term on cue: "proiskhodit" means "is going on", and it carries the main weight of what Mikhail is saying.
+- 'Have you never heard about the holiday?' Barinov states this answer for Vika: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.

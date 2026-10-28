@@ -40,7 +40,7 @@ WALK = [
     (6, None, "'He cannot afford it on his own.' Explaining his sense of obligation, Kostya worries about leaving his friend in a tough financial spot."),
     (7, None, "'If you do not want to live with me, say so.' Max confronts him directly, demanding honesty if he is actually trying to find a way out."),
     (8, None, "'I do want to. Max does not want to.' Clarifying the situation, he explains that he is ready, but his roommate is the one holding things back."),
-    (9, None, "'She will not believe you.' Warning his friend, the speaker points out that the excuse sounds too flimsy to be trusted."),
+    (9, None, "'She will not believe you.' Listening to Kostya's rehearsal, Max warns his friend that Nastya will never buy such a flimsy excuse."),
     (10, None, "'I understand him. But I will talk to him.' Resolving to fix the issue, Kostya promises to have a serious conversation to sort things out."),
     (11, None, "'You need to do this today.' Adding pressure, Max insists that the problem must be handled immediately without delay."),
     (12, None, "'I promise.' Giving his word, Kostya confirms he will follow through on his commitment."),

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you believe the theory of the Buddhists.' Barinov keeps a candid direction in their talk, putting "verit" ("to believe") alongside "teorii" ("theory") in a tight, everyday turn of phrase.
-- 'I was probably even Hitler in a past life.' Max conveys a grounded position in the conversation, linking "navernoye" ("probably"), "byl" ("was"), and "dazhe" ("even") in one brisk exchange.
-- 'Otherwise I just do not understand it?' Barinov prompts decisively without a pause, combining "inache" ("otherwise") and "ponimayu" ("understand") so the key meaning lands right away.
-- 'What did I do to deserve such punishment?' Max tests plainly to Barinov here, leaning on "nakazaniye" ("punishment") before closing the thought with "za" ("for").
-- 'How are you holding up?' Barinov asks earnestly without hesitation, putting "kak" ("how") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'And yet if I ever made it in there.' Max brings an honest attitude in front of Barinov, building the phrase around "tuda" ("there") and "popal" ("hit") for a crisp, natural delivery.
-- 'Chef, can I come along with you?' Max checks directly beside Barinov, joining "mozhno" ("may, can") to "shef" ("Chef") so every word pulls its weight.
-- 'Do not even dream about it.' Max presents a grounded rhythm during the exchange, combining "mechtayu" ("dream") and "dazhe" ("even") so the key meaning lands right away.
-- 'They never bring anyone along with them.' Barinov chooses a natural tone in front of Max, anchoring the Russian line on "berut" ("to take") and "oni" ("they") without extra filler.
-- 'To them, we are nobodies.' Max picks a grounded mood across the room, placing "my" ("we") straight beside "dlya" ("for") with no word for "to be" needed.
-- 'That is the elite.' Barinov presents a sharp angle across the room, anchoring the Russian line on "elita" ("elite") and "eto" ("this") without extra filler.
-- 'And who do you think you are?' Max presses openly to keep things clear, weaving "ty-to" ("you") together with "kto" ("who") just the way native speakers do.
-- 'I have been working here for three years already.' Barinov adopts an emphatic position in the conversation, linking "zdes" ("here"), "uzhe" ("already, now"), and "goda" ("years") in one brisk exchange.
+- 'If you believe the theory of the Buddhists.' Barinov stresses one familiar expression in reply: "buddistov" means "Buddhist" (from "buddist"), giving the line its exact edge.
+- 'I was probably even Hitler in a past life.' Max aims the comment to Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Otherwise I just do not understand it?' Barinov quizzes point-blank why things suddenly took this turn between them.
+- 'What did I do to deserve such punishment?' Max points to one memorable word at once: "nakazaniye" means "punishment", and it carries the main weight of what Max is saying.
+- 'How are you holding up?' Barinov delivers the reaction in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And yet if I ever made it in there.' Max continues briskly as things stand, before Barinov can change the subject.
+- 'Chef, can I come along with you?' Max anchors one loaded piece toward Barinov: "mozhno" means "may, can", and it carries the main weight of what Max is saying.
+- 'Do not even dream about it.' Max lays out this update plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'They never bring anyone along with them.' Barinov responds right away in this moment, making his position completely clear.
+- 'To them, we are nobodies.' Max drops this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That is the elite.' Barinov frames the reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And who do you think you are?' Max checks point-blank in front of Barinov without any preamble.
+- 'I have been working here for three years already.' Barinov frames one concrete piece in earnest: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.

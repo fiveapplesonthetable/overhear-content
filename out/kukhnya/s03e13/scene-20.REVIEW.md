@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, did you leave Nagiyev?' Max prompts directly to make the point, joining "ushla" ("left, walked out") to "vika" ("Vika") so every word pulls its weight.
-- 'Max, that is none of your business.' Vika strikes a frank footing as they talk, putting "delo" ("matter") alongside "maks" ("Max") in a tight, everyday turn of phrase.
-- 'Is that why you are resigning right now?' Max tests boldly in the scene, pairing "poetomu" ("that's why") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'And where are you planning to live?' Max prompts frankly as the talk turns, leaning on "gde" ("where") before closing the thought with "zhit" ("to live").
-- 'Honestly speaking, I do not know yet.' Vika favors a firm footing as they talk, putting "chestno" ("honestly") alongside "govorya" ("speaking") in a tight, everyday turn of phrase.
-- 'Move back into your own place.' Max shows a sharp course with Vika, leaning on "vozvrashchaysya" ("return") before closing the thought with "obratno" ("back").
-- 'And where are you going to live?' Vika inquires promptly right away, putting "gde" ("where") alongside "zhit" ("to live") in a tight, everyday turn of phrase.
-- 'No, I will move back in with Kostya.' Max sets a wry footing across the room, joining "vernus" ("will come back") to "da" ("yes") so every word pulls its weight.
-- 'They are only getting evicted at the end of the month anyway.' Max takes a natural stance in this beat, linking "ravno" ("the same"), "tolko" ("only"), and "kontse" ("end") in one brisk exchange.
-- 'Thank you very much, Max.' Vika establishes a sharp note in the scene, pairing "spasibo" ("thank you") with "bolshoye" ("big, very much") to get the point across in plain spoken Russian.
-- 'We live our whole lives putting puzzles together.' Max displays a candid course as they talk, weaving "zhizn" ("life") together with "zhivyom" ("live") just the way native speakers do.
-- 'We always have two ways out.' Max sustains a sharp mood at this moment, weaving "vsegda" ("always") together with "yest" ("there is") just the way native speakers do.
-- 'Accept it and live with how it turned out.' Max offers a frank angle in the room, building the phrase around "smiritsya" ("to accept, come to terms") and "zhit" ("to live") for a crisp, natural delivery.
-- 'Or mix up all the puzzle pieces and start anew.' Max offers a calm direction in front of Vika, building the phrase around "smeshat" ("mix, blend") and "pazly" ("jigsaw puzzles") for a crisp, natural delivery.
+- 'Vika, did you leave Nagiyev?' Max puts that point on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Max, that is none of your business.' Vika replies decisively as things stand, shifting the whole mood of the room in a single beat.
+- 'Is that why you are resigning right now?' Max anchors one pointed choice for Vika: "uvolnyayeshsya" means "are resigning" (from "uvolnyatsya"), giving the line its exact edge.
+- 'And where are you planning to live?' Max phrases that answer toward Vika: the "-sya" ending on "sobirayeshsya" ("plan") turns the action inward or makes it happen between people naturally.
+- 'Honestly speaking, I do not know yet.' Vika speaks up frankly with a sigh, leaving no doubt about where she stands.
+- 'Move back into your own place.' Max points to one sharp expression on cue: "vozvrashchaysya" means "return" (from "vozvrashchatsya"), giving the line its exact edge.
+- 'And where are you going to live?' Vika sends this update in earnest: putting the question word "gde" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'No, I will move back in with Kostya.' Max answers at once facing Vika, watching Vika's face to see how the news lands.
+- 'They are only getting evicted at the end of the month anyway.' Max points to one practical touch right here: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'Thank you very much, Max.' Vika brings the comeback plainly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'We live our whole lives putting puzzles together.' Max pushes back evenly with Vika, without trying to dress up how he really feels.
+- 'We always have two ways out.' Max uses one practical choice at once: "vykhoda" means "exit, way out" (from "vykhod"), giving the line its exact edge.
+- 'Accept it and live with how it turned out.' Max aims this point on cue: the "-sya" ending on "smiritsya" ("to accept, come to terms") turns the action inward or makes it happen between people naturally.
+- 'Or mix up all the puzzle pieces and start anew.' Max weighs in dryly on the spot, without trying to dress up how he really feels.

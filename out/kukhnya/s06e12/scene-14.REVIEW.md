@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I found out in secret that you and Sveta are getting married.' Nikita adopts an honest approach right away, pairing "slushay" ("listen") with "sekretu" ("secret") to get the point across in plain spoken Russian.
-- 'But that is far from the best news yet.' Nikita displays a candid note in the conversation, anchoring the Russian line on "yeshchyo" ("more, still") and "daleko" ("far away") without extra filler.
-- 'Do you know how Katya reacted to this news?' Nikita queries pointedly as the beat lands, joining "znayesh" ("know") to "kak" ("how") so every word pulls its weight.
-- 'She said a wedding is cool, as if she were envious.' Nikita maintains a steady mood for Nastya, pairing "skazala" ("told") with "svadba" ("wedding") to get the point across in plain spoken Russian.
-- 'Guys, why are you not eating the navy-style pasta?' Nastya probes frankly without holding back, joining "rebyata" ("the boys, the lads") to "pochemu" ("why") so every word pulls its weight.
-- 'No, Kostya and I will not have lunch today.' Nikita favors a direct style right away, weaving "segodnya" ("today") together with "obedat" ("to have lunch") just the way native speakers do.
-- 'Because tonight is our wedding anniversary.' Nastya presents a frank note for Barinov, joining "segodnya" ("today") to "vecherom" ("in the evening") so every word pulls its weight.
-- 'If we eat now, there will be no room for our romantic dinner.' Nastya picks an emphatic bearing in the conversation, anchoring the Russian line on "seychas" ("now") and "poyedim" ("will eat") without extra filler.
-- 'And I will take all the leftover pasta home for myself.' Nikita takes a lively footing at this moment, linking "zaberu" ("will take"), "ostatki" ("leftovers"), and "makaron" ("pasta, macaroni") in one brisk exchange.
-- 'Well how was the soup, tell me, did you like everything today?' Barinov questions promptly to keep things clear, building the phrase around "kak" ("how") and "sup" ("soup") for a crisp, natural delivery.
-- 'Yes, thank you very much, the soup was very tasty.' Nastya establishes a clear attitude across the room, anchoring the Russian line on "bolshoye" ("big, very much") and "spasibo" ("thank you") without extra filler.
-- 'Then tell me the results of all the fixed matches!' Barinov presents a playful angle beside Nikita, putting "togda" ("back then") alongside "skazhite" ("tell") in a tight, everyday turn of phrase.
+- 'Listen, I found out in secret that you and Sveta are getting married.' Nikita colors one practical word in reply: "sekretu" means "secret" (from "sekret"), giving the line its exact edge.
+- 'But that is far from the best news yet.' Nikita pushes back at once during the talk, making his position completely clear.
+- 'Do you know how Katya reacted to this news?' Nikita focuses on one clear element toward Barinov: "otreagirovala" means "reacted" (from "otreagirovat"), giving the line its exact edge.
+- 'She said a wedding is cool, as if she were envious.' Nikita chimes in candidly facing Nastya, grounding the moment in plain reality.
+- 'Guys, why are you not eating the navy-style pasta?' Nastya tests straight out in front of Barinov without any preamble.
+- 'No, Kostya and I will not have lunch today.' Nikita emphasizes one concrete choice for Nastya: "segodnya" means "today", and it carries the main weight of what Nikita is saying.
+- 'Because tonight is our wedding anniversary.' Nastya directs the comeback before Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'If we eat now, there will be no room for our romantic dinner.' Nastya holds firm right away on the spot, saying out loud what both of them already know.
+- 'And I will take all the leftover pasta home for myself.' Nikita frames this key element with Barinov: "ostatki" means "leftovers" (from "ostatok"), giving the line its exact edge.
+- 'Well how was the soup, tell me, did you like everything today?' Barinov gives this point with candor: the "-sya" ending on "ponravilos" ("pleased, was liked") turns the action inward or makes it happen between people naturally.
+- 'Yes, thank you very much, the soup was very tasty.' Nastya cuts in dryly with a sigh, before Barinov can change the subject.
+- 'Then tell me the results of all the fixed matches!' Barinov chooses this telling expression in reply: "dogovornykh" means "fixed" (from "dogovornoy"), giving the line its exact edge.

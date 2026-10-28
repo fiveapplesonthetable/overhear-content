@@ -39,9 +39,9 @@ WALK = [
     (5, None, "'Dmitry said that you often drink alcohol.' Igor brings up the rumor from Dmitry about Viktor drinking on the job."),
     (6, None, "'I have no problems with alcohol at all.' Viktor immediately denies having any trouble with alcohol at all."),
     (7, None, "'You understand very well what I am talking about.' Igor does not buy the excuse and tells Viktor he knows the truth."),
-    (8, None, "'Today I strictly decided to forbid drinking here.' the speaker puts the word for 'today' together with 'sternly' and 'has decided' in a crisp, natural spoken turn of phrase."),
+    (8, None, "'Today I strictly decided to forbid drinking here.' Laying down the law on his first day, Igor announces a strict ban on drinking anywhere in the restaurant."),
     (9, None, "'And what if I drink a little at home in the evening?' Barinov tries to bargain for a little evening drink at home."),
     (10, None, "'Before work you also cannot drink any alcohol.' Igor shuts that down too, banning alcohol even before a shift starts."),
-    (11, None, "'Otherwise we will quickly part ways with you forever.' the speaker expresses this naturally by combining the word for 'otherwise' with 'quickly' and 'will break up'."),
+    (11, None, "'Otherwise we will quickly part ways with you forever.' He warns Barinov coldly that breaking this rule means they will part ways forever."),
     (12, None, "'Fine, boss, I understood your new rules.' Left with no choice, Viktor reluctantly accepts the new owner's strict rules."),
 ]

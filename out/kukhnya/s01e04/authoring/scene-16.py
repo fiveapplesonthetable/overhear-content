@@ -31,7 +31,7 @@ STORY = [
     ('max', 'Не волнуйся, я прирождённый дипломат!', 'Do not worry, I am a natural diplomat!', [], ''),
 ]
 WALK = [
-    (0, None, "'I take it you won' Max assumes his friend will not have a date."),
+    (0, None, "'I take it you won't have a date?' Max assumes his friend will not have a date."),
     (1, None, "'Yes, I said something completely stupid again.' Kostya admits he said something foolish again."),
     (2, None, "'You get way too nervous around her.' Max tells him he gets too anxious around her."),
     (3, None, "'I cannot manage to speak beautifully!' Kostya complains he cannot speak eloquently."),

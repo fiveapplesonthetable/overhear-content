@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have serious problems out there.' Barinov sustains a lively style in this beat, weaving "tam" ("there") together with "problemy" ("problems") just the way native speakers do.
-- 'Go to hell!' Nagiyev favors a resolute course with Barinov, building the phrase around "idi" ("go") and "chertu" ("the devil") for a crisp, natural delivery.
-- 'Dima, what happened out there?' Barinov queries dryly without hesitation, joining "sluchilos" ("happened") to "dim" ("Dima") so every word pulls its weight.
-- 'I am the one asking you that question.' Nagiyev picks a clear manner in this beat, putting "sprashivayu" ("am asking") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'What just happened?' Barinov queries naturally from the start, pairing "sluchilos" ("happened") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'What do you mean we do not have it?' Nagiyev queries steadily without hesitation, anchoring the Russian line on "kak" ("how") and "net" ("no") without extra filler.
-- 'I forgot to write it down.' Barinov establishes an emphatic note at once, pairing "zabyl" ("forgot") with "zapisat" ("to enroll, register") to get the point across in plain spoken Russian.
-- 'Oh, so you forgot to write it down!' Nagiyev favors an unhurried approach during the exchange, linking "zapisat" ("to enroll, register"), "akh" ("ah, oh"), and "ty" ("you") in one brisk exchange.
-- 'Please do not worry, alright?' Barinov presses wryly at this point, linking "volnuytes" ("worry"), "vy" ("you"), and "ne" ("not") in one brisk exchange.
-- 'We will serve everything right away.' Nagiyev brings a resolute direction in this beat, pairing "seychas" ("now") with "podadim" ("will submit") so the "-sya" ending carries the action.
-- 'We will sort it out, so to speak.' Barinov favors a lively rhythm in their talk, using "reshim" (from "reshit", "will sort out") alongside "skazat" ("tell") to shape the meaning.
-- 'What the hell are you doing?' Nagiyev tests dryly as they speak, using "delayesh" (from "delat", "are you doing") alongside "chto" ("what") to shape the meaning.
-- 'And you, and you, and you too.' Barinov sets an easygoing bearing right away, letting the single Russian word "tebya" ("you") carry the entire reaction on its own.
+- 'We have serious problems out there.' Barinov hands over this statement toward Nagiyev: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Go to hell!' Nagiyev speaks up honestly in their talk, keeping the focus on what actually matters here.
+- 'Dima, what happened out there?' Barinov focuses on one direct term at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'I am the one asking you that question.' Nagiyev directs that thought for Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What just happened?' Barinov presses point-blank as Nagiyev tries to explain the situation.
+- 'What do you mean we do not have it?' Nagiyev sends that line in earnest: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I forgot to write it down.' Barinov frames this statement briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Oh, so you forgot to write it down!' Nagiyev speaks up earnestly with a shrug, letting the remark speak for itself.
+- 'Please do not worry, alright?' Barinov grounds this sharp detail in earnest: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'We will serve everything right away.' Nagiyev lays out that reply right away: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'We will sort it out, so to speak.' Barinov speaks up wryly hearing Nagiyev, grounding the moment in plain reality.
+- 'What the hell are you doing?' Nagiyev underscores one vivid word right here: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'And you, and you, and you too.' Barinov answers at once without holding back, so Nagiyev knows he is not just making small talk.

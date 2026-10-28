@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is always nice when people love you.' Max conveys a calm tempo during the exchange, building the phrase around "vsegda" ("always") and "priyatno" ("pleasant") for a crisp, natural delivery.
-- 'But worst of all is when they ignore you.' Max brings a playful note in the scene, building the phrase around "khuzhe" ("worse") and "kogda" ("when") for a crisp, natural delivery.
-- 'Hi, I made an omelette for you.' Max maintains an unhurried line as they talk, leaning on "omlet" ("omelette") before closing the thought with "prigotovil" ("cooked").
-- 'There is no point getting angry at each other.' Max picks a grounded attitude on the spot, using "stoit" (from "stoyat", "is parked") alongside "zlitsya" ("to be angry") to shape the meaning.
-- 'We are family, after all.' Max favors a natural position in the conversation, linking "semya" ("family") directly with "my" ("we"), since Russian drops "is" and "are" in the present.
-- 'Well, and what does that mean?' Max queries pointedly from the start, leaning on "znachit" ("then, so") before closing the thought with "nu" ("oh, come on").
-- 'Have you forgiven me?' Max inquires pointedly right away, weaving "prostila" ("would forgive") together with "ty" ("you") just the way native speakers do.
-- 'We quarrel over such little things.' Max adopts a pointed course right away, building the phrase around "melochey" ("such") and "ssorimsya" ("to quarrel") for a crisp, natural delivery.
-- 'Soon we will have a baby.' Max picks an earnest posture in the scene, combining "skoro" ("soon") and "poyavitsya" ("shows up, appears") so the key meaning lands right away.
-- 'You have a day off today, right?' Kostya asks calmly in front of Max, pairing "vykhodnoy" ("a day off") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'I slept so well.' Kostya keeps a playful direction as they talk, leaning on "khorosho" ("good, fine") before closing the thought with "vyspalsya" ("got enough sleep").
-- 'Sit with Styopa for a bit.' Kostya conveys a steady manner during the exchange, linking "posidite" ("to sit for a while"), "styopkoy" ("bit"), and "so" ("with") in one brisk exchange.
+- 'It is always nice when people love you.' Max favors this key word toward Kostya: "priyatno" means "pleasant", and it carries the main weight of what Max is saying.
+- 'But worst of all is when they ignore you.' Max reaches for one direct piece in reply: "ignoriruyut" means "to ignore" (from "ignorirut"), giving the line its exact edge.
+- 'Hi, I made an omelette for you.' Max chimes in pointedly with a shrug, bringing things back to earth after the buildup.
+- 'There is no point getting angry at each other.' Max reaches for one direct piece in earnest: "zlitsya" means "to be angry", and it carries the main weight of what Max is saying.
+- 'We are family, after all.' Max aims the reply without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, and what does that mean?' Max checks point-blank where this conversation is heading next.
+- 'Have you forgiven me?' Max uses one sharp choice toward Kostya: "prostila" means "would forgive" (from "prostit"), giving the line its exact edge.
+- 'We quarrel over such little things.' Max shares this warning at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Soon we will have a baby.' Max holds firm dryly before Kostya, making his position completely clear.
+- 'You have a day off today, right?' Kostya spotlights one loaded choice for Max: "vykhodnoy" means "a day off", and it carries the main weight of what Kostya is saying.
+- 'I slept so well.' Kostya brings the remark with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Sit with Styopa for a bit.' Kostya fires back openly beside Max, refusing to let the moment slip past.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what are you doing in here?' Nastya wonders earnestly with Kristina now, combining "tut" ("here") and "delayete" ("are doing") so the key meaning lands right away.
-- 'That was not part of our deal.' Nagiyev picks a lively line on the spot, pairing "dogovarivalis" ("had an agreement") with "my" ("we") so the "-sya" ending carries the action.
-- 'I thought so.' Nagiyev keeps an emphatic direction in the room, combining "dumal" ("thought") and "ya" ("I") so the key meaning lands right away.
-- 'I do not understand.' Nagiyev holds an honest course toward Nastya, weaving "ponyal" ("understood") together with "ya" ("I") just the way native speakers do.
-- 'Wait, do you know this weirdo?' Nagiyev tests decisively at this point, pairing "znayesh" ("know") with "chudaka" ("oddball") to get the point across in plain spoken Russian.
-- 'Ah, so that is what this is about.' Kristina establishes an emphatic angle on the spot, putting "vot" ("there, here") alongside "ono" ("it") in a tight, everyday turn of phrase.
-- 'You hired a private detective to spy on me?' Nastya presses firmly in the scene, linking "nanyali" ("they hired"), "chastnogo" ("private"), and "detektiva" ("detective story") in one brisk exchange.
-- 'I thought he was a journalist.' Nagiyev maintains a candid tone for Nastya, combining "dumal" ("thought") and "zhurnalist" ("journalist") so the key meaning lands right away.
-- 'Not me personally, of course.' Kristina adopts an easygoing tempo in front of Nagiyev, joining "konechno" ("of course") to "ne" ("not") so every word pulls its weight.
-- 'These handsome guys right here did it.' Nastya adopts a pointed tack in this beat, anchoring the Russian line on "krasivyye" ("beautiful") and "parni" ("guys, boys") without extra filler.
-- 'I will sort everything out right now.' Nagiyev picks an emphatic attitude with Kristina, combining "seychas" ("now") and "reshu" ("I'll solve") so the key meaning lands right away.
-- 'I certainly hope so.' Kristina keeps a sharp manner in this beat, leaning on "nadeyus" ("hope so") before closing the thought with "ya" ("I").
-- 'I already told you.' Nastya shares an unhurried style in the conversation, putting "skazala" ("told") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'And what are you doing in here?' Nastya tests bluntly whether Kristina really thought this through.
+- 'That was not part of our deal.' Nagiyev anchors one colorful piece on cue: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
+- 'I thought so.' Nagiyev directs this update to Kristina: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I do not understand.' Nagiyev proceeds at once as things stand, before Nastya can change the subject.
+- 'Wait, do you know this weirdo?' Nagiyev picks one classic detail right here: "chudaka" means "oddball" (from "chudak"), giving the line its exact edge.
+- 'Ah, so that is what this is about.' Kristina delivers the remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You hired a private detective to spy on me?' Nastya quizzes straight out in front of Kristina without any preamble.
+- 'I thought he was a journalist.' Nagiyev colors this direct word for Nastya: "zhurnalist" means "journalist", and it carries the main weight of what Nagiyev is saying.
+- 'Not me personally, of course.' Kristina aims the comeback calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'These handsome guys right here did it.' Nastya reacts pointedly with Nagiyev, grounding the moment in plain reality.
+- 'I will sort everything out right now.' Nagiyev reaches for this clear element in earnest: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'I certainly hope so.' Kristina states the comment beside Nastya: the "-sya" ending on "nadeyus" ("hope so") turns the action inward or makes it happen between people naturally.
+- 'I already told you.' Nastya opens up earnestly as they talk, making her position completely clear.

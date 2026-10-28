@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, dear guests, welcome to our restaurant!' Lyova offers an unhurried mood toward Barinov, linking "zdravstvuyte" ("hello"), "dorogiye" ("dear"), and "gosti" ("visitors, guests") in one brisk exchange.
-- 'Hello, and where is your mustache?' The doctor asks firmly to make the point, combining "zdravstvuyte" ("hello") and "gde" ("where") so the key meaning lands right away.
-- 'I shaved it off this morning.' Lyova establishes an earnest tone in the conversation, joining "segodnya" ("today") to "utrom" ("this morning") so every word pulls its weight.
-- 'Without a mustache I simply look younger.' Lyova presents an earnest line without hesitation, combining the softening word "prosto" ("simply, just") with "usov" ("moustache") to give the line its natural spoken rhythm.
-- 'Indeed, it suits you much better this way.' The doctor favors a lively direction in the conversation, weaving "deystvitelno" ("really, indeed") together with "gorazdo" ("much") just the way native speakers do.
-- 'Lenochka said that you would treat us to lunch.' The doctor sustains a candid note on the spot, anchoring the Russian line on "lenochka" ("lenochka") and "skazala" ("told") without extra filler.
-- 'By the way, meet my husband Nikolai.' The doctor projects a direct attitude for Barinov, combining the casual transition "kstati" ("by the way") with "poznakomtes" ("get acquainted") to give the line its natural spoken rhythm.
-- 'Nice to meet you, my name is Chef Victor.' Lyova takes a wry attitude without hesitation, pairing "ochen" ("very much") with "priyatno" ("pleasant") to get the point across in plain spoken Russian.
-- 'Please have a seat at this table.' Lyova holds a playful tack beside Barinov, anchoring the Russian line on "prisazhivaytes" ("have a seat") and "stolik" ("table") without extra filler.
-- 'I sincerely thank you for the hospitality.' The doctor projects a steady course toward Lyova, linking "iskrenne" ("sincerely"), "blagodaryu" ("to thank"), and "gostepriimstvo" ("hospitality") in one brisk exchange.
-- 'Chef, you could at least warn me!' Lyova shares an easygoing position straight away, leaning on "preduprezhdali" ("to warn") before closing the thought with "shef" ("Chef").
-- 'Lyova, I only just found out about it myself.' Barinov strikes an unhurried footing in the scene, weaving "tolko" ("only") together with "uznal" ("recognised") just the way native speakers do.
+- 'Hello, dear guests, welcome to our restaurant!' Lyova weighs in at once with a nod, so Barinov knows he is not just making small talk.
+- 'Hello, and where is your mustache?' The doctor grounds this clear expression toward Lyova: "zdravstvuyte" means "hello", and it carries the main weight of what the doctor is saying.
+- 'I shaved it off this morning.' Lyova cuts in pointedly as things stand, letting the remark speak for itself.
+- 'Without a mustache I simply look younger.' Lyova follows up frankly hearing the doctor, without trying to dress up how he really feels.
+- 'Indeed, it suits you much better this way.' The doctor underscores one direct touch in earnest: "deystvitelno" means "really, indeed", and it carries the main weight of what the doctor is saying.
+- 'Lenochka said that you would treat us to lunch.' The doctor picks one practical term in earnest: "lenochka" means "lenochka", and it carries the main weight of what the doctor is saying.
+- 'By the way, meet my husband Nikolai.' The doctor jumps in decisively before Barinov, steering the talk right where he wants it.
+- 'Nice to meet you, my name is Chef Victor.' Lyova grounds this clear piece in earnest: "priyatno" means "pleasant", and it carries the main weight of what Lyova is saying.
+- 'Please have a seat at this table.' Lyova offers the thought in earnest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I sincerely thank you for the hospitality.' The doctor jumps in earnestly hearing Lyova, so Lyova knows he is not just making small talk.
+- 'Chef, you could at least warn me!' Lyova favors one colorful touch in reply: "preduprezhdali" means "to warn" (from "preduprezhdat"), giving the line its exact edge.
+- 'Lyova, I only just found out about it myself.' Barinov replies warmly without any doubt, without trying to dress up how he really feels.

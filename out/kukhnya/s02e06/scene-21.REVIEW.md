@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We only chip in together in one case.' Senya adopts a sharp angle at this moment, joining "skidyvayemsya" ("are chipping in") to "tolko" ("only") so every word pulls its weight.
-- 'When we go to the sauna as a team.' Fedya holds an unhurried view in the scene, combining "kogda" ("when") and "khodim" ("we are walking") so the key meaning lands right away.
-- 'And today is a completely different case.' Senya chooses an emphatic course in their talk, joining "segodnya" ("today") to "drugoy" ("other") so every word pulls its weight.
-- 'You were the one who invited us.' Fedya takes a firm tempo in this beat, joining "priglasil" ("invited") to "ty" ("you") so every word pulls its weight.
-- 'My entire paycheck is right here.' Senya picks a calm approach right away, placing "zdes" ("here") straight beside "zarplata" ("salary, wages") with no word for "to be" needed.
-- 'That will teach you a lesson.' Fedya displays a direct note in the scene, pairing "budet" ("will be") with "urokom" ("lesson") to get the point across in plain spoken Russian.
-- 'Next time you will not go grabbing other people's food.' Senya shows a serious angle toward Fedya, putting "bred" ("nonsense") alongside "budesh" ("will") in a tight, everyday turn of phrase.
-- 'That is just how it goes in life.' Fedya maintains a sharp style at this moment, combining "byvayet" ("there can be") and "zhizni" ("life") so the key meaning lands right away.
-- 'You bend over backward trying your hardest.' Senya conveys a resolute footing on the spot, building the phrase around "lezesh" ("climb, butt in") and "kozhi" ("skin, leather") for a crisp, natural delivery.
-- 'Wait, I do not get it.' Fedya holds a playful tack at this moment, using "ponyal" (from "ponyat", "understood") alongside "ya" ("I") to shape the meaning.
-- 'Where is the money?' Senya presses decisively beside Fedya, combining "gde" ("where") and "dengi" ("money") so the key meaning lands right away.
-- 'There is a thousand rubles missing in here.' Fedya holds an unhurried tone on the spot, weaving "tam" ("there") together with "tysyachi" ("thousands") just the way native speakers do.
-- 'Hurry up, people are waiting out there.' Senya strikes a grounded approach straight away, weaving "tam" ("there") together with "lyudi" ("people") just the way native speakers do.
+- 'We only chip in together in one case.' Senya reacts evenly as things stand, testing Fedya's reaction in the middle of the exchange.
+- 'When we go to the sauna as a team.' Fedya centers one familiar touch on cue: "komandoy" means "team" (from "komanda"), giving the line its exact edge.
+- 'And today is a completely different case.' Senya drops this point to Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You were the one who invited us.' Fedya speaks openly watching Senya, saying out loud what both of them already know.
+- 'My entire paycheck is right here.' Senya chooses this clear element in reply: "zarplata" means "salary, wages", and it carries the main weight of what Senya is saying.
+- 'That will teach you a lesson.' Fedya directs that line with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Next time you will not go grabbing other people's food.' Senya steps in boldly with Fedya, letting the remark speak for itself.
+- 'That is just how it goes in life.' Fedya spotlights one practical element at once: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
+- 'You bend over backward trying your hardest.' Senya states this statement at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Wait, I do not get it.' Fedya proceeds promptly toward Senya, grounding the moment in plain reality.
+- 'Where is the money?' Senya chooses one memorable piece with Fedya: "dengi" means "money", and it carries the main weight of what Senya is saying.
+- 'There is a thousand rubles missing in here.' Fedya proceeds honestly beside Senya, before Senya can change the subject.
+- 'Hurry up, people are waiting out there.' Senya replies steadily watching Fedya, refusing to let the moment slip past.

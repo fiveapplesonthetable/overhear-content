@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a handsome fellow, such a plump horse.' The guest takes a wry mood as the scene unfolds, leaning on "krasavchik" ("handsome guy") before closing the thought with "upitannyy" ("plump, well-fed").
-- 'And he also loves carrots.' Mikhail sustains a candid mood toward Timur, putting "yeshchyo" ("more, still") alongside "morkovku" ("carrot") in a tight, everyday turn of phrase.
-- 'They will cook him right with carrots.' The guest offers an easygoing tack as they talk, linking "morkovkoy" ("with carrots"), "prigotovyat" ("will prepare"), and "vot" ("there, here") in one brisk exchange.
-- 'Wait, in what sense is that?' Mikhail presses calmly as the talk turns, using "podozhdite" (from "podozhdat", "wait") alongside "smysle" ("sense") to shape the meaning.
-- 'My acquaintance runs a Tatar restaurant.' Timur presents a wry tempo in this beat, weaving "znakomyy" ("familiar") together with "tatarskiy" ("Tatar") just the way native speakers do.
-- 'He happens to need horsemeat right now.' Timur establishes a measured mood at once, putting "kak" ("how") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
-- 'I can take him right now.' The guest adopts an honest bearing in their talk, weaving "mogu" ("can") together with "vzyat" ("to take") just the way native speakers do.
-- 'Do you have a conscience at all?' Mikhail wonders naturally to make the point, leaning on "voobshche" ("at all") before closing the thought with "sovest" ("conscience").
-- 'I will dream about him at night!' Mikhail establishes a calm position in this beat, putting "snitsya" ("to appear in a dream") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'I will not give the horse away for meat!' Mikhail favors an earnest note at once, using "otdam" (from "otdat", "I give back") alongside "konya" ("horse, knight") to shape the meaning.
-- 'That kind of money for a small horse?' The guest wonders warmly right away, anchoring the Russian line on "dengi" ("money") and "malenkuyu" ("small, little") without extra filler.
-- 'She herself is ashamed to hear that.' The guest picks an honest tone on the spot, building the phrase around "stydno" ("shameful") and "slyshat" ("to hear") for a crisp, natural delivery.
+- 'What a handsome fellow, such a plump horse.' The guest speaks firmly without a pause, to clear the air between them once and for all.
+- 'And he also loves carrots.' Mikhail frames one familiar touch right here: "morkovku" means "carrot" (from "morkovka"), giving the line its exact edge.
+- 'They will cook him right with carrots.' The guest weighs in lightly without holding back, testing Mikhail's reaction in the middle of the exchange.
+- 'Wait, in what sense is that?' Mikhail questions point-blank in front of Timur without any preamble.
+- 'My acquaintance runs a Tatar restaurant.' Timur centers this telling detail toward the guest: "tatarskiy" means "Tatar", and it carries the main weight of what Timur is saying.
+- 'He happens to need horsemeat right now.' Timur cuts in candidly to settle things, steering the talk right where he wants it.
+- 'I can take him right now.' The guest reacts evenly in this moment, to clear the air between them once and for all.
+- 'Do you have a conscience at all?' Mikhail sharpens one clear expression on cue: "voobshche" means "at all", and it carries the main weight of what Mikhail is saying.
+- 'I will dream about him at night!' Mikhail cuts in earnestly with the guest, testing the guest's reaction in the middle of the exchange.
+- 'I will not give the horse away for meat!' Mikhail speaks up promptly watching Timur, saying out loud what both of them already know.
+- 'That kind of money for a small horse?' The guest emphasizes this telling choice for Mikhail: "malenkuyu" means "small, little" (from "malenkiy"), giving the line its exact edge.
+- 'She herself is ashamed to hear that.' The guest holds firm wryly with Timur, steering the talk right where he wants it.

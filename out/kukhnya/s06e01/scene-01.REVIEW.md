@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'An oligarch will be sitting at our table.' Eleonora picks an earnest approach toward Ilya, putting "stolikom" ("table") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'They called and will definitely come.' Ilya displays a grounded tack in the scene, pairing "zvonili" ("called") with "tochno" ("definitely") to get the point across in plain spoken Russian.
-- 'Wait, our table is for four.' Ilya sets a lively angle for Eleonora, putting "podozhdite" ("wait") alongside "stolik" ("table") in a tight, everyday turn of phrase.
-- 'And you end up with six people.' Ilya holds an earnest view without hesitation, leaning on "poluchayetsya" ("works out") before closing the thought with "shestero" ("children").
-- 'You tell me how to do it.' Eleonora strikes a brisk course in front of Ilya, joining "skazhite" ("tell") to "kak" ("how") so every word pulls its weight.
-- 'You are our restaurant director, Ilya.' Eleonora holds a measured style in the room, joining "direktor" ("head teacher") to "restorana" ("restaurant") so every word pulls its weight.
-- 'Yes, alright.' Ilya conveys an emphatic position at once, joining "khorosho" ("good, fine") to "da" ("yes") so every word pulls its weight.
-- 'Eleonora Andreyevna, sorry to interrupt.' Ilya projects a brisk approach for Eleonora, weaving "izvinite" ("sorry, excuse me") together with "otvlekayu" ("distract") just the way native speakers do.
-- 'Here, they brought your dress.' Ilya presents a brisk angle as the scene unfolds, leaning on "privezli" ("delivered, brought") before closing the thought with "platye" ("a dress").
-- 'And Dmitry Vladimirovich's tailcoat.' Ilya adopts an earnest bearing for Eleonora, combining "frak" ("tailcoat") and "dmitriya" ("Dmitry") so the key meaning lands right away.
-- 'Let's go through the wedding script.' Eleonora holds an emphatic bearing toward Ilya, weaving "davayte" ("let's") together with "proydemsya" ("let us go through") just the way native speakers do.
-- 'Make it faster, okay?' Eleonora prompts lightly toward Ilya here, building the phrase around "sdelayte" ("make") and "bystreye" ("faster") for a crisp, natural delivery.
+- 'An oligarch will be sitting at our table.' Eleonora chooses one sharp touch in earnest: "stolikom" means "table" (from "stolik"), giving the line its exact edge.
+- 'They called and will definitely come.' Ilya pushes back firmly in their talk, watching Eleonora's face to see how the news lands.
+- 'Wait, our table is for four.' Ilya answers right away beside Eleonora, without trying to dress up how he really feels.
+- 'And you end up with six people.' Ilya picks this key detail toward Eleonora: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
+- 'You tell me how to do it.' Eleonora underscores one telling piece for Ilya: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'You are our restaurant director, Ilya.' Eleonora proceeds firmly with a smile, to clear the air between them once and for all.
+- 'Yes, alright.' Ilya sharpens this key term on cue: "khorosho" means "good, fine", and it carries the main weight of what Ilya is saying.
+- 'Eleonora Andreyevna, sorry to interrupt.' Ilya drops the comeback before Eleonora: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Ilya steps in.
+- 'Here, they brought your dress.' Ilya follows up sharply as they talk, before Eleonora can change the subject.
+- 'And Dmitry Vladimirovich's tailcoat.' Ilya frames this key piece at once: "frak" means "tailcoat", and it carries the main weight of what Ilya is saying.
+- 'Let's go through the wedding script.' Eleonora drops the reply with ease: the word "davayte" is the polite or group version of "let's", inviting Ilya into the plan right away.
+- 'Make it faster, okay?' Eleonora prompts openly why things suddenly took this turn between them.

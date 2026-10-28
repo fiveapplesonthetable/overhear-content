@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damn, why did you guys not wake me up?' Nastya tests briskly across the room, building the phrase around "blin" ("damn") and "razbudili" ("to wake up") for a crisp, natural delivery.
-- 'Come on, come on, hurry.' Louis projects a sharp approach during the exchange, leaning on "davay" ("let's") as a compact, one-word response that needs no extra words.
-- 'She ordered a dessert together with it.' Nastya offers a calm angle in this beat, joining "vmeste" ("together") to "zakazala" ("to order") so every word pulls its weight.
-- 'Enjoy your meal.' Louis brings a measured approach as the scene unfolds, pairing "priyatnogo" ("pleasant") with "appetita" ("appetite") to get the point across in plain spoken Russian.
-- 'Oh, excuse me.' Nastya picks a measured approach for Louis, anchoring the Russian line on "prostite" ("excuse me") and "oy" ("oh") without extra filler.
-- 'Pardon me, there is some kind of surprise in here.' Louis chooses a steady posture in the room, combining "izvinite" ("sorry, excuse me") and "syurpriz" ("surprise") so the key meaning lands right away.
-- 'May I see the pastry chef and the head chef?' Nastya challenges firmly right away, weaving "mogu" ("can") together with "uvidet" ("to see") just the way native speakers do.
-- 'I wanted to tell you something important.' Nastya holds a sharp position in the room, joining "khotela" ("wanted, meant") to "skazat" ("tell") so every word pulls its weight.
-- 'A guest found a button inside her dessert.' Nastya presents a candid tempo in the scene, combining "gostya" ("guest, visitor") and "deserty" ("desserts") so the key meaning lands right away.
-- 'She is asking for the Chef and Louis.' Max establishes a serious rhythm at once, anchoring the Russian line on "prosit" ("is asking for") and "shefa" ("chef") without extra filler.
-- 'Let us talk a little later, alright?' Nastya presses plainly as they speak, leaning on "davay" ("let's") before closing the thought with "popozzhe" ("later").
-- 'Alright, follow me.' Louis brings a calm tack across the room, joining "tak" ("so") to "za" ("for") so every word pulls its weight.
-- 'Would you care to explain what this is?' Nastya challenges calmly from the start, building the phrase around "potrudites" ("to take the trouble") and "obyasnit" ("to explain") for a crisp, natural delivery.
+- 'Damn, why did you guys not wake me up?' Nastya hands over the remark on cue: putting the question word "chto" right at the front of the line lets Louis hear the point of the question on the very first beat.
+- 'Come on, come on, hurry.' Louis jumps in earnestly as they talk, testing Nastya's reaction in the middle of the exchange.
+- 'She ordered a dessert together with it.' Nastya grounds this clear touch in earnest: "zakazala" means "to order" (from "zakazat"), giving the line its exact edge.
+- 'Enjoy your meal.' Louis brings the comeback around Nastya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Oh, excuse me.' Nastya holds firm steadily watching Louis, shifting the whole mood of the room in a single beat.
+- 'Pardon me, there is some kind of surprise in here.' Louis chooses one concrete detail right here: "syurpriz" means "surprise", and it carries the main weight of what Louis is saying.
+- 'May I see the pastry chef and the head chef?' Nastya frames that remark at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
+- 'I wanted to tell you something important.' Nastya proceeds warmly with a sigh, so Max knows she is not just making small talk.
+- 'A guest found a button inside her dessert.' Nastya anchors one loaded touch toward Louis: "pugovitsy" means "button" (from "pugovitsa"), giving the line its exact edge.
+- 'She is asking for the Chef and Louis.' Max directs the remark without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Let us talk a little later, alright?' Nastya checks earnestly what Louis is actually getting at here.
+- 'Alright, follow me.' Louis voices that remark with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Would you care to explain what this is?' Nastya frames that line in earnest: the "-sya" ending on "potrudites" ("to take the trouble") turns the action inward or makes it happen between people naturally.

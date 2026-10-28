@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello.' Hostess offers a standard greeting to the chef.
 - 'Good morning.' Barinov replies with a standard morning greeting.
-- 'Chef, they are waiting for you.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'to expect'.
+- 'Chef, they are waiting for you.' Stopping the chef by the kitchen doors, the hostess politely informs him that someone is waiting for him.
 - 'Who is waiting for me?' Barinov demands to know exactly who is looking for him.
-- 'Dima is waiting for you.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'wait for'.
+- 'Dima is waiting for you.' She clarifies that restaurant owner Dmitry Nagiyev is asking for him in the dining room.
 - 'Nagiyev is here?' Barinov reacts with surprise that the owner is on the premises.
-- 'Yes, he is at his table.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'the table'.
+- 'Yes, he is at his table.' Pointing toward the hall, she confirms that Nagiyev is sitting at his usual corner table.
 - 'What does he want?' Barinov questions the owner's motives for showing up unannounced.
-- 'I do not know.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'know'.
+- 'I do not know.' When Viktor asks what the boss wants, the hostess shrugs and admits she has no idea.
 - 'He usually calls first.' Barinov points out this breaks Nagiyev's usual habit of calling ahead.
 - 'He seems very excited.' Hostess notes that the owner appears quite worked up today.
 - 'Okay, I am coming.' Barinov resigns himself to the meeting and says he will go.

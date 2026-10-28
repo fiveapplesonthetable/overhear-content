@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was told you wanted to see me.' Vika presents a pointed tempo right away, leaning on "skazali" ("told") before closing the thought with "khoteli" ("wanted").
-- 'Yes, fresh oysters are going to waste here.' German strikes a serious bearing beside Vika, anchoring the Russian line on "propadayut" ("to waste") and "svezhiye" ("fresh") without extra filler.
-- 'Everyone had a hard day today.' German conveys a measured rhythm beside Ainura, joining "segodnya" ("today") to "byl" ("was") so every word pulls its weight.
-- 'It will be useful for us to relax a little.' German sustains a natural position as they talk, pairing "rasslabitsya" ("to relax") with "budet" ("will be") so the "-sya" ending carries the action.
-- 'You did not quite understand me this morning.' Vika picks a lively mood in their talk, combining the intensifier "sovsem" ("completely, at all") with "utrom" ("this morning") to give the line its natural spoken rhythm.
-- 'I am not going to relax with you!' Vika brings an unhurried footing in the room, anchoring the Russian line on "sobirayus" ("am planning") and "rasslablyatsya" ("to relax") without extra filler.
-- 'Wait, I am not making any claims on anything.' German projects a thoughtful posture at this moment, building the phrase around "podozhdite" ("wait") and "pretenduyu" ("anything") for a crisp, natural delivery.
-- 'Forgive me if I offended you.' German chooses an easygoing footing in the conversation, leaning on "prostite" ("excuse me") before closing the thought with "oskorbil" ("to offended").
-- 'Let's just discuss the development of our restaurant.' German sustains a playful manner during the exchange, anchoring the Russian line on "davayte" ("let's") and "prosto" ("just") without extra filler.
-- 'All right, just not for long, I will come down soon.' Vika sets a steady note in this beat, combining "khorosho" ("good, fine") and "tolko" ("only") so the key meaning lands right away.
-- 'Bring me a bottle of wine to the office.' German shows a warm posture in the scene, using "prinesite" (from "prinesti", "bring") alongside "butylku" ("a bottle") to shape the meaning.
-- 'German called for me, how romantic he is!' Ainura chooses a lively mood across the room, leaning on "zval" ("called, invited") before closing the thought with "romantichnyy" ("romantic").
+- 'I was told you wanted to see me.' Vika follows up firmly in this moment, refusing to let the moment slip past.
+- 'Yes, fresh oysters are going to waste here.' German underscores one concrete word toward Vika: "propadayut" means "to waste" (from "propadat"), giving the line its exact edge.
+- 'Everyone had a hard day today.' German fires back calmly during the talk, keeping the focus on what actually matters here.
+- 'It will be useful for us to relax a little.' German stands firm sharply with a shrug, steering the talk right where he wants it.
+- 'You did not quite understand me this morning.' Vika emphasizes this key detail on cue: "ponyali" means "did you understand" (from "ponyat"), giving the line its exact edge.
+- 'I am not going to relax with you!' Vika frames the thought without fuss: the "-sya" ending on "rasslablyatsya" ("to relax") turns the action inward or makes it happen between people naturally.
+- 'Wait, I am not making any claims on anything.' German jumps in at once during the talk, shifting the whole mood of the room in a single beat.
+- 'Forgive me if I offended you.' German chooses this telling choice in earnest: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'Let's just discuss the development of our restaurant.' German puts the reaction frankly here: the word "davayte" is the polite or group version of "let's", inviting Ainura into the plan right away.
+- 'All right, just not for long, I will come down soon.' Vika answers firmly toward German, letting the remark speak for itself.
+- 'Bring me a bottle of wine to the office.' German focuses on this key element with Ainura: "prinesite" means "bring" (from "prinesti"), giving the line its exact edge.
+- 'German called for me, how romantic he is!' Ainura responds candidly with Vika, so Vika knows she is not just making small talk.

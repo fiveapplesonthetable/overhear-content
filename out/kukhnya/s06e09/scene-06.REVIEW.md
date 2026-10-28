@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My son is a chef with a good salary.' Lyova brings a frank bearing right away, linking "syn" ("son") directly with "povar" ("chef, cook"), since Russian drops "is" and "are" in the present.
-- 'And he is also my main support.' Lyova shares an easygoing note in front of Katya, building the phrase around "yeshchyo" ("more, still") and "glavnaya" ("main") for a crisp, natural delivery.
-- 'Why are we both so shy today?' Denis jumps in naturally during the talk, leaning on "pochemu" ("why") before closing the thought with "segodnya" ("today").
-- 'I will leave you for a few minutes.' Lyova sustains an unhurried position on the spot, weaving "ostavlyu" ("will leave") together with "minut" ("minutes") just the way native speakers do.
-- 'Sorry, we accidentally broke a glass here.' Katya displays a grounded angle on the spot, putting "prosti" ("sorry, forgive me") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'No big deal, we will clean everything up right now.' Denis takes an earnest stance as they talk, weaving "strashnogo" ("terrible, serious") together with "seychas" ("now") just the way native speakers do.
-- 'Five minutes, I will be very quick right now.' Katya adopts a sharp note straight away, putting "minut" ("minutes") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Katya, wait here for at least a minute.' Denis shares a warm tone with Lyova, pairing "podozhdi" ("wait") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'Meanwhile I will work quietly on the laptop.' Katya shows a brisk view without hesitation, anchoring the Russian line on "poka" ("bye") and "spokoyno" ("calmly") without extra filler.
-- 'Katya, we still have not talked properly.' Denis sustains a natural posture beside Lyova, putting "normalno" ("fine, OK") alongside "pogovorili" ("had a talk") in a tight, everyday turn of phrase.
-- 'Denis, please, just do not start again.' Katya offers a warm posture in the scene, weaving "tolko" ("only") together with "snova" ("again") just the way native speakers do.
-- 'I beg you, allow me to apologize right now.' Denis establishes a steady rhythm at once, weaving "proshu" ("beg, ask") together with "pozvol" ("to allow, to permit") just the way native speakers do.
-- 'I do not want to talk about this topic.' Katya shows a sharp approach at this moment, joining "khochu" ("want") to "govorit" ("to talk") so every word pulls its weight.
+- 'My son is a chef with a good salary.' Lyova continues steadily with a shrug, making his position completely clear.
+- 'And he is also my main support.' Lyova spotlights one concrete detail toward Katya: "glavnaya" means "main" (from "glavnyy"), giving the line its exact edge.
+- 'Why are we both so shy today?' Denis delivers that line toward Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I will leave you for a few minutes.' Lyova stands firm at once without holding back, refusing to let the moment slip past.
+- 'Sorry, we accidentally broke a glass here.' Katya colors one vivid choice in reply: "sluchayno" means "by any chance", and it carries the main weight of what Katya is saying.
+- 'No big deal, we will clean everything up right now.' Denis speaks warmly without a pause, watching Lyova's face to see how the news lands.
+- 'Five minutes, I will be very quick right now.' Katya reacts decisively to be clear, grounding the moment in plain reality.
+- 'Katya, wait here for at least a minute.' Denis spotlights one sharp expression right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Meanwhile I will work quietly on the laptop.' Katya steps in quietly across the room, saying out loud what both of them already know.
+- 'Katya, we still have not talked properly.' Denis stands firm pointedly without holding back, to clear the air between them once and for all.
+- 'Denis, please, just do not start again.' Katya grounds one telling detail for Denis: "nachinay" means "start" (from "nachinat"), giving the line its exact edge.
+- 'I beg you, allow me to apologize right now.' Denis phrases this answer frankly here: the "-sya" ending on "izvinitsya" ("to apologise") turns the action inward or makes it happen between people naturally.
+- 'I do not want to talk about this topic.' Katya steps in sharply with Denis, bringing things back to earth after the buildup.

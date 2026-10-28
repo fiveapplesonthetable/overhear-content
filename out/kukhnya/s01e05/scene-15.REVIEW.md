@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Keep quiet and listen to the jury' Barinov commands silence before announcing the result.
 - 'Victoria chose this first dish in particular.' Barinov reveals the manager's favorite plate.
 - 'And the second fish she called awful?' Max anxiously asks for feedback on the other entry.
-- 'She didn' Barinov reports the brutal feedback on the loser's effort.
+- 'She didn't recommend it to anyone in the hall.' Barinov reports the brutal feedback on the loser's effort.
 - 'Congratulations, our cook won fairly today!' Barinov happily declares the official winner of the bet.
 - 'Thank you very much for the great, fair evaluation.' Max expresses sarcastic gratitude for the devastating review.
 - 'Lord, how incredibly delicious this is!' Barinov excitedly praises the winning entry.
 - 'Chef, let me taste a little too.' Max humbly requests a bite of the superior creation.
-- 'Wait, I haven' Barinov selfishly refuses to share his prize.
+- 'Wait, I haven't properly tasted it myself yet.' Barinov selfishly refuses to share his prize.
 - 'And the losing cook must finish eating everything himself.' Barinov gleefully announces the punishment for the loser.
 - 'I hope our guests will remain very pleased.' Max tries to save face by focusing on customer satisfaction.

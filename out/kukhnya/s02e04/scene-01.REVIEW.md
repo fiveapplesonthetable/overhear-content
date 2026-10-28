@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything in my life is great.' Max establishes an unhurried attitude on the spot, building the phrase around "zhizni" ("life") and "otlichno" ("perfect, great") for a crisp, natural delivery.
-- 'No, I am serious.' Max adopts a clear note in front of Sasha, linking "seryezno" ("seriously") directly with "net" ("no"), since Russian drops "is" and "are" in the present.
-- 'I started dating a new girl, Sasha.' Max adopts a wry rhythm right away, building the phrase around "stal" ("to become") and "vstrechatsya" ("to meet") for a crisp, natural delivery.
-- 'She is outgoing and beautiful.' Max offers an honest bearing toward Sasha, linking "obshchitelnaya" ("sociable, outgoing") directly with "krasivaya" ("pretty, beautiful"), since Russian drops "is" and "are" in the present.
-- 'And overall everything is going well for me.' Max strikes a direct tone as the scene unfolds, linking "voobshche" ("at all"), "khorosho" ("good, fine"), and "menya" ("me") in one brisk exchange.
-- 'Good morning.' Sasha picks a pointed approach in front of Max, using "dobroye" (from "dobryy", "good") alongside "utro" ("morning") to shape the meaning.
-- 'I have a surprise for you.' Sasha chooses a candid footing as they talk, linking "syurpriz" ("surprise"), "menya" ("me"), and "dlya" ("for") in one brisk exchange.
-- 'Kris gave me two vouchers to Cyprus.' Sasha sets a thoughtful stance in the conversation, putting "dala" ("gave") alongside "putevki" ("holiday vouchers") in a tight, everyday turn of phrase.
-- 'Something did not work out for her there.' Sasha sets a thoughtful line as they talk, pairing "poluchilos" ("worked out") with "tam" ("there") so the "-sya" ending carries the action.
-- 'Let us fly together.' Sasha maintains a frank direction for Max, pairing "poletim" ("to fly") with "vmeste" ("together") to get the point across in plain spoken Russian.
-- 'Wait, I do not understand?' Max tests lightly in the scene, using "ponyal" (from "ponyat", "understood") alongside "ya" ("I") to shape the meaning.
-- 'Viktor Petrovich, this man is a genius.' Sasha maintains a serious manner with Max, placing "chelovek" ("a man, a person") straight beside "geniy" ("genius") with no word for "to be" needed.
-- 'And throw all of this into the trash.' Barinov establishes a sharp rhythm in the conversation, anchoring the Russian line on "vybrosite" ("to throw out") and "pomoyku" ("dumpster") without extra filler.
+- 'Everything in my life is great.' Max chooses one classic choice in earnest: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
+- 'No, I am serious.' Max makes this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I started dating a new girl, Sasha.' Max reacts dryly without a pause, without trying to dress up how he really feels.
+- 'She is outgoing and beautiful.' Max grounds one vivid piece at once: "obshchitelnaya" means "sociable, outgoing" (from "obshchitelnyy"), giving the line its exact edge.
+- 'And overall everything is going well for me.' Max drops the reply before Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Good morning.' Sasha holds firm wryly in this moment, saying out loud what both of them already know.
+- 'I have a surprise for you.' Sasha reaches for this clear term for Barinov: "syurpriz" means "surprise", and it carries the main weight of what Sasha is saying.
+- 'Kris gave me two vouchers to Cyprus.' Sasha answers lightly with a smile, steering the talk right where she wants it.
+- 'Something did not work out for her there.' Sasha answers bluntly as things stand, keeping the focus on what actually matters here.
+- 'Let us fly together.' Sasha highlights one memorable piece on cue: "poletim" means "to fly" (from "poletet"), giving the line its exact edge.
+- 'Wait, I do not understand?' Max phrases this update before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Viktor Petrovich, this man is a genius.' Sasha chimes in earnestly in this moment, grounding the moment in plain reality.
+- 'And throw all of this into the trash.' Barinov anchors one colorful touch in earnest: "vybrosite" means "to throw out" (from "vybrosit"), giving the line its exact edge.

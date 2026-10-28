@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ekaterina, take charge of this banquet yourself.' German presents an easygoing style without hesitation, putting "vozmite" ("take") alongside "banket" ("banquet") in a tight, everyday turn of phrase.
-- 'This is your first assignment as sous-chef.' German establishes an unhurried approach in this beat, leaning on "pervoye" ("first") before closing the thought with "zadaniye" ("assignment").
-- 'Senya, you will make a meat cake for the dogs.' Katya strikes a warm direction as they talk, joining "sdelayesh" ("will you make") to "myasnoy" ("meat") so every word pulls its weight.
-- 'And what is there to spend a long time making?' Senya asks directly for Katya's benefit, anchoring the Russian line on "tam" ("there") and "voobshche" ("at all") without extra filler.
-- 'Stick a candle into minced meat, and it is done!' Senya brings a direct stance in front of German, leaning on "votknul" ("to stick") before closing the thought with "svechku" ("candle").
-- 'No, everything must be very beautiful.' Katya strikes a sharp manner during the exchange, joining "dolzhno" ("ought, must") to "byt" ("be") so every word pulls its weight.
-- 'Make sure it is ready by seven o'clock!' Katya maintains a measured tempo without hesitation, putting "chasam" ("hour") alongside "bylo" ("was") in a tight, everyday turn of phrase.
-- 'Denis, where have you been walking all day?' Senya quizzes earnestly at this point, combining "gde" ("where") and "den" ("day") so the key meaning lands right away.
-- 'I have been looking for you all over the kitchen.' Senya establishes a frank note during the exchange, pairing "kukhne" ("kitchen") with "ishchu" ("am looking for") to get the point across in plain spoken Russian.
-- 'The sous-chef said to make a meat cake by evening.' Senya sustains a lively tack as they talk, pairing "su-shef" ("sous-chef") with "skazala" ("told") to get the point across in plain spoken Russian.
-- 'Look what a huge bouquet of flowers they brought!' German maintains a lively note in the room, leaning on "smotrite" ("look") before closing the thought with "ogromnyy" ("huge").
-- 'This beautiful bouquet is for Viktoriya Goncharova.' German strikes a measured rhythm beside Senya, leaning on "krasivyy" ("beautiful") before closing the thought with "buket" ("bouquet").
+- 'Ekaterina, take charge of this banquet yourself.' German follows up steadily with Katya, testing Katya's reaction in the middle of the exchange.
+- 'This is your first assignment as sous-chef.' German points to one direct element in earnest: "zadaniye" means "assignment", and it carries the main weight of what German is saying.
+- 'Senya, you will make a meat cake for the dogs.' Katya replies calmly around German, leaving no doubt about where she stands.
+- 'And what is there to spend a long time making?' Senya prompts evenly how Katya expects that to work in practice.
+- 'Stick a candle into minced meat, and it is done!' Senya chooses this direct touch right here: "svechku" means "candle" (from "svechka"), giving the line its exact edge.
+- 'No, everything must be very beautiful.' Katya replies plainly watching Senya, letting the remark speak for itself.
+- 'Make sure it is ready by seven o'clock!' Katya chimes in honestly with German, before German can change the subject.
+- 'Denis, where have you been walking all day?' Senya centers one telling detail at once: "khodish" means "can walk, are walking" (from "khodit"), giving the line its exact edge.
+- 'I have been looking for you all over the kitchen.' Senya leans on one colorful element on cue: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'The sous-chef said to make a meat cake by evening.' Senya stands firm frankly in this moment, steering the talk right where he wants it.
+- 'Look what a huge bouquet of flowers they brought!' German favors one memorable expression in earnest: "ogromnyy" means "huge", and it carries the main weight of what German is saying.
+- 'This beautiful bouquet is for Viktoriya Goncharova.' German offers the thought plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

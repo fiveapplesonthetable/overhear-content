@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, guys, what do you think you are doing?' Nastya tests calmly without holding back, weaving "muzhiki" ("lads, guys") together with "ey" ("hey") just the way native speakers do.
-- 'Do you know who I am?' Vika asks calmly without a pause, anchoring the Russian line on "znayete" ("know") and "vy" ("you") without extra filler.
-- 'Are you trying to scare me?' Nastya presses honestly in their exchange, putting "napugat" ("to scare") alongside "khotite" ("want") in a tight, everyday turn of phrase.
-- 'I am not afraid of you.' Vika offers a frank attitude in front of Nastya, pairing "boyus" ("am afraid") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'You can do whatever you want to me.' Nastya displays a serious attitude in this beat, leaning on "mozhete" ("can, may") before closing the thought with "delat" ("do").
-- 'Anything you want.' Vika shows a warm bearing for Nastya, weaving "zakhotite" ("you want") together with "chto" ("what") just the way native speakers do.
-- 'And I will still stay with Nastya no matter what.' Nastya conveys a serious direction across the room, pairing "ravno" ("the same") with "budu" ("will be") to get the point across in plain spoken Russian.
-- 'Are you taking me out to the woods?' Vika questions decisively in their exchange, combining "vezete" ("to transport") and "les" ("forest") so the key meaning lands right away.
-- 'For family dinner.' Nastya conveys a pointed stance beside Vika, building the phrase around "obed" ("lunch") and "na" ("on, onto") for a crisp, natural delivery.
-- 'I do not like you one bit.' Vika sustains a calm attitude at once, joining "nravishsya" ("appeal to, are liked") to "ne" ("not") so every word pulls its weight.
-- 'And she came rushing right over to see me.' Nastya picks a grounded position in the scene, building the phrase around "priyekhala" ("came, arrived") and "ona" ("it") for a crisp, natural delivery.
-- 'All because you punched me once in the nose.' Vika chooses a candid tempo as the scene unfolds, putting "udaril" ("hit, struck") alongside "razok" ("time") in a tight, everyday turn of phrase.
-- 'Please forgive me once again.' Nastya sustains a natural manner as the scene unfolds, linking "izvinite" ("sorry, excuse me"), "yeshche" ("still"), and "raz" ("time, once") in one brisk exchange.
+- 'Hey, guys, what do you think you are doing?' Nastya quizzes eagerly before Vika can change the subject.
+- 'Do you know who I am?' Vika spotlights one concrete term for Nastya: "znayete" means "know" (from "znat"), giving the line its exact edge.
+- 'Are you trying to scare me?' Nastya phrases this point for Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'I am not afraid of you.' Vika weighs in right away with a smile, watching Nastya's face to see how the news lands.
+- 'You can do whatever you want to me.' Nastya favors one direct detail in earnest: "mozhete" means "can, may" (from "moch"), giving the line its exact edge.
+- 'Anything you want.' Vika voices that reply on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And I will still stay with Nastya no matter what.' Nastya fires back pointedly across the room, keeping the focus on what actually matters here.
+- 'Are you taking me out to the woods?' Vika colors one pointed touch on cue: "vezete" means "to transport" (from "vezti"), giving the line its exact edge.
+- 'For family dinner.' Nastya sends that answer plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I do not like you one bit.' Vika stands firm briskly to settle things, to clear the air between them once and for all.
+- 'And she came rushing right over to see me.' Nastya reaches for one telling piece in earnest: "priyekhala" means "came, arrived" (from "priyekhat"), giving the line its exact edge.
+- 'All because you punched me once in the nose.' Vika centers this clear choice in reply: "razok" means "time", and it carries the main weight of what Vika is saying.
+- 'Please forgive me once again.' Nastya stands firm warmly as they talk, watching Vika's face to see how the news lands.

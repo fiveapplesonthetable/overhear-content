@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Mom, I am not at home.' Lyova maintains a pointed footing without hesitation, putting "mama" ("mum, mother") alongside "doma" ("at home") in a tight, everyday turn of phrase.
-- 'They called me in to work, an urgent banquet.' Lyova presents a frank course right away, putting "vyzvali" ("called, summoned") alongside "rabotu" ("job") in a tight, everyday turn of phrase.
-- 'Alright, bye, Mom.' Lyova establishes a candid note at once, joining "poka" ("bye") to "mama" ("mum, mother") so every word pulls its weight.
-- 'Well, are you ready to skate?' Lyova inquires warmly in the room, joining "gotova" ("ready") to "katatsya" ("ride, ski") so every word pulls its weight.
-- 'This turns out to be harder than I thought.' Lyova projects a firm tone toward Denis, pairing "okazyvayetsya" ("to turn out to be") with "slozhneye" ("job") so the "-sya" ending carries the action.
-- 'How is life, Denis?' Senya quizzes briskly without holding back, joining "kak" ("how") to "zhizn" ("life") so every word pulls its weight.
-- 'Life did not work out.' Denis strikes a lively position in their talk, pairing "udalas" ("to succeed") with "zhizn" ("life") to get the point across in plain spoken Russian.
-- 'And where are all the guests?' Denis queries honestly for Senya's benefit, anchoring the Russian line on "gde" ("where") and "gosti" ("visitors, guests") without extra filler.
-- 'Is there nobody to work because of a hangover?' Denis questions briskly without holding back, putting "pokhmelya" ("hangover") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
-- 'No, they closed the restaurant, they are going to film the chef.' Senya projects a frank position across the room, putting "restoran" ("restaurant") alongside "zakryli" ("to close, to shut") in a tight, everyday turn of phrase.
-- 'We selected the most beautiful vegetables here.' Senya holds an honest line in the room, joining "ovoshchi" ("vegetables") to "otobrali" ("to take away") so every word pulls its weight.
-- 'Alright, got it.' Denis presents a direct angle without hesitation, combining "khorosho" ("good, fine") and "ponyal" ("understood") so the key meaning lands right away.
+- 'Yes, Mom, I am not at home.' Lyova voices that reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They called me in to work, an urgent banquet.' Lyova follows up sharply to settle things, letting the remark speak for itself.
+- 'Alright, bye, Mom.' Lyova chooses this sharp piece toward Denis: "mama" means "mum, mother", and it carries the main weight of what Lyova is saying.
+- 'Well, are you ready to skate?' Lyova gives this line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'This turns out to be harder than I thought.' Lyova jumps in lightly beside Denis, so Denis knows he is not just making small talk.
+- 'How is life, Denis?' Senya focuses on this key word right here: "zhizn" means "life", and it carries the main weight of what Senya is saying.
+- 'Life did not work out.' Denis delivers that answer to Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And where are all the guests?' Denis checks briskly in front of Senya without any preamble.
+- 'Is there nobody to work because of a hangover?' Denis colors this vivid word on cue: "pokhmelya" means "hangover" (from "pokhmelye"), giving the line its exact edge.
+- 'No, they closed the restaurant, they are going to film the chef.' Senya jumps in steadily to be clear, letting the remark speak for itself.
+- 'We selected the most beautiful vegetables here.' Senya proceeds bluntly before Denis, before Denis can change the subject.
+- 'Alright, got it.' Denis anchors this key touch with Senya: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.

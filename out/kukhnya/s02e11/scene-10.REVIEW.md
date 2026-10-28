@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did I understand that correctly?' Max quizzes warmly on the spot, joining "pravilno" ("right") to "ponyal" ("understood") so every word pulls its weight.
-- 'Will I be able to come visit?' Kostya checks candidly as the beat lands, leaning on "smogu" ("will be able to") before closing the thought with "prikhodit" ("to come, to walk in").
-- 'All right, fine.' Nastya takes a warm view in the room, combining the easygoing tag "ladno" ("okay, fine") with "nu" ("oh, come on") to give the line its natural spoken rhythm.
-- 'Come on, call my phone for me, will you?' Max questions frankly from the start, leaning on "poydem" ("let's go") before closing the thought with "naberesh" ("to gather, rack up").
-- 'Nastya, I lost my phone in the walk-in fridge.' Kostya presents a warm posture beside Max, anchoring the Russian line on "kholodilnike" ("fridge") and "telefon" ("phone") without extra filler.
-- 'What were you doing in the walk-in fridge?' Nastya queries dryly to make the point, putting "delal" ("were doing") alongside "kholodilnike" ("fridge") in a tight, everyday turn of phrase.
-- 'Nastya, go make some juice.' Max presents an unhurried attitude across the room, joining "sok" ("juice") to "delat" ("do") so every word pulls its weight.
-- 'Well, that is it.' Kostya shares a clear tempo in the conversation, linking "nu" ("oh, come on") directly with "vse" ("all"), since Russian drops "is" and "are" in the present.
-- 'Your Max probably came up with all of this, right?' Nastya wonders plainly without a pause, pairing "navernoye" ("probably") with "pridumal" ("came up with") to get the point across in plain spoken Russian.
-- 'Of course it was Max.' Kostya projects a resolute manner in their talk, putting "konechno" ("of course") alongside "maks" ("Max") in a tight, everyday turn of phrase.
-- 'Watch your mouth, you sheep.' Kostya takes a pointed attitude beside Max, using "slovami" (from "slovo", "words") alongside "sledi" ("watch, look after") to shape the meaning.
-- 'Be quiet right now, dwarf.' Nastya offers a thoughtful position as they talk, leaning on "pomolchi" ("to be quiet") before closing the thought with "seychas" ("now").
-- 'They are probably hugging each other already.' Max favors a lively bearing with Kostya, weaving "navernoye" ("probably") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Did I understand that correctly?' Max features one colorful detail toward Kostya: "pravilno" means "right", and it carries the main weight of what Max is saying.
+- 'Will I be able to come visit?' Kostya aims the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'All right, fine.' Nastya speaks right away facing Kostya, bringing things back to earth after the buildup.
+- 'Come on, call my phone for me, will you?' Max colors one concrete touch for Nastya: "naberesh" means "to gather, rack up" (from "nabrat"), giving the line its exact edge.
+- 'Nastya, I lost my phone in the walk-in fridge.' Kostya follows up frankly during the talk, so Max knows he is not just making small talk.
+- 'What were you doing in the walk-in fridge?' Nastya presses wryly if there is more going on behind the scenes.
+- 'Nastya, go make some juice.' Max makes that reply before Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Well, that is it.' Kostya shapes that reply frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Your Max probably came up with all of this, right?' Nastya questions sharply why things suddenly took this turn between them.
+- 'Of course it was Max.' Kostya underscores one vivid detail with Nastya: "konechno" means "of course", and it carries the main weight of what Kostya is saying.
+- 'Watch your mouth, you sheep.' Kostya speaks briskly hearing Max, to clear the air between them once and for all.
+- 'Be quiet right now, dwarf.' Nastya weighs in honestly to settle things, watching Max's face to see how the news lands.
+- 'They are probably hugging each other already.' Max sharpens one sharp detail in reply: "obnimayetsya" means "to hug each other" (from "obnimatsya"), giving the line its exact edge.

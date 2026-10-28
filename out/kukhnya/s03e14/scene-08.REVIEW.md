@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what kind of meat is this?' The guest queries firmly from the start, linking "skazhi" ("say"), "myaso" ("meat"), and "chto" ("what") in one brisk exchange.
-- 'This is the most tender meat from an old French recipe, pork!' Max establishes an easygoing note toward the guest, building the phrase around "nezhneysheye" ("most tender") and "myaso" ("meat") for a crisp, natural delivery.
-- 'Oops, I mixed it up, this dish is not for you!' Max conveys a wry line right away, weaving "pereputal" ("mixed up, confused") together with "blyudo" ("dish") just the way native speakers do.
-- 'I will finish stuffing it in there right now and come right back.' Max maintains an easygoing stance for the guest, pairing "seychas" ("now") with "tam" ("there") so the "-sya" ending carries the action.
-- 'You have six seconds, we are by the car.' The guest projects a wry posture at this moment, weaving "sekund" ("seconds") together with "mashiny" ("cars") just the way native speakers do.
-- 'Leave my daughter alone immediately!' Barinov picks an earnest mood in the room, building the phrase around "nemedlenno" ("immediately") and "ostav" ("keep, leave") for a crisp, natural delivery.
-- 'So, pops, did you bring the money?' Max challenges warmly to keep things clear, putting "batya" ("Dad, the old man") alongside "prinyos" ("brought") in a tight, everyday turn of phrase.
-- 'Here is a fist for you, not money!' Barinov shows a pointed note for Max, building the phrase around "kulak" ("fist") and "dengi" ("money") for a crisp, natural delivery.
-- 'If I see you with Katya again, I will shove your legs in your mouth!' Barinov takes a thoughtful manner during the exchange, building the phrase around "yeshchyo" ("more, still") and "raz" ("time, once") for a crisp, natural delivery.
-- 'Dad, let him go, he just came to talk!' Max shares a sharp attitude beside the guest, combining the softening word "prosto" ("simply, just") with "papa" ("Dad") to give the line its natural spoken rhythm.
-- 'Katya, do not listen to him, he wanted to get money!' Barinov maintains a lively view in the scene, leaning on "slushay" ("listen") before closing the thought with "khotel" ("wanted").
-- 'I did not want to touch him, he provoked me!' Barinov sets a clear view toward Max, combining "trogat" ("to touch") and "khotel" ("wanted") so the key meaning lands right away.
+- 'Tell me, what kind of meat is this?' The guest sends this warning beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'This is the most tender meat from an old French recipe, pork!' Max cuts in honestly to settle things, making his position completely clear.
+- 'Oops, I mixed it up, this dish is not for you!' Max underscores this key piece on cue: "pereputal" means "mixed up, confused" (from "pereputat"), giving the line its exact edge.
+- 'I will finish stuffing it in there right now and come right back.' Max chimes in lightly hearing the guest, bringing things back to earth after the buildup.
+- 'You have six seconds, we are by the car.' The guest jumps in decisively facing Barinov, leaving no doubt about where he stands.
+- 'Leave my daughter alone immediately!' Barinov chooses this direct element toward Max: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
+- 'So, pops, did you bring the money?' Max directs that line with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Here is a fist for you, not money!' Barinov steps in earnestly with a smile, bringing things back to earth after the buildup.
+- 'If I see you with Katya again, I will shove your legs in your mouth!' Barinov focuses on one key expression on cue: "zapikhayu" means "will shove" (from "zapikhat"), giving the line its exact edge.
+- 'Dad, let him go, he just came to talk!' Max states this answer plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Katya, do not listen to him, he wanted to get money!' Barinov chimes in calmly on the spot, bringing things back to earth after the buildup.
+- 'I did not want to touch him, he provoked me!' Barinov frames one key element in reply: "sprovotsiroval" means "provoked" (from "sprovotsirovat"), giving the line its exact edge.

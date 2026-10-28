@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, why did you even let her in here?' Barinov probes pointedly with Katya now, leaning on "zachem" ("what for") before closing the thought with "voobshche" ("at all").
-- 'And what could I do, Chef?' Lyova asks lightly to make the point, building the phrase around "mog" ("can, to be able") and "sdelat" ("to do") for a crisp, natural delivery.
-- 'Vera Ivanovna, where do you keep your wineglasses?' Katya queries pointedly without hesitation, leaning on "gde" ("where") before closing the thought with "bokaly" ("glasses").
-- 'The glasses are in the right cupboard, sweet Evochka.' Lyova establishes a thoughtful stance for Katya, combining "bokaly" ("glasses") and "stoyat" ("cost") so the key meaning lands right away.
-- 'Tell me, please, how did you two meet?' Lyova presses quietly on the spot, combining "rasskazhite" ("tell") and "kak" ("how") so the key meaning lands right away.
-- 'It was my first day at the restaurant.' Katya maintains an unhurried rhythm right away, anchoring the Russian line on "byl" ("was") and "pervyy" ("first") without extra filler.
-- 'I look, and a solid man is standing there with a cigar!' Katya picks a clear course without hesitation, combining "smotryu" ("look") and "stoit" ("is parked") so the key meaning lands right away.
-- 'Lyova, you are not watching the time at all!' Barinov establishes a natural bearing in their talk, putting "sovsem" ("at all") alongside "sledish" ("watch, supervise") in a tight, everyday turn of phrase.
-- 'We are running late, Katya invited all of us!' Barinov projects a sharp footing in front of Katya, linking "opazdyvayem" ("are late"), "priglasila" ("to invite, to call in"), and "my" ("we") in one brisk exchange.
-- 'Why did you stage all this in the house?' Katya tests steadily without holding back, putting "zachem" ("what for") alongside "ustroila" ("staged, caused") in a tight, everyday turn of phrase.
-- 'Lyova, go take a walk until ten o'clock at night!' Barinov displays a lively line during the exchange, pairing "idi" ("go") with "gulyay" ("to walk") to get the point across in plain spoken Russian.
-- 'And do not show up in this house anymore!' Barinov sets an unhurried view as they talk, putting "dome" ("house") alongside "bolshe" ("more") in a tight, everyday turn of phrase.
+- 'Lyova, why did you even let her in here?' Barinov offers this update to Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'And what could I do, Chef?' Lyova challenges skeptically what Katya is actually getting at here.
+- 'Vera Ivanovna, where do you keep your wineglasses?' Katya emphasizes this key term with Barinov: "bokaly" means "glasses" (from "bokal"), giving the line its exact edge.
+- 'The glasses are in the right cupboard, sweet Evochka.' Lyova cuts in promptly hearing Katya, testing Katya's reaction in the middle of the exchange.
+- 'Tell me, please, how did you two meet?' Lyova prompts frankly to see how Barinov will answer on the spot.
+- 'It was my first day at the restaurant.' Katya frames one familiar detail at once: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'I look, and a solid man is standing there with a cigar!' Katya holds firm evenly with a nod, letting the remark speak for itself.
+- 'Lyova, you are not watching the time at all!' Barinov cuts in sharply on the spot, leaving no doubt about where he stands.
+- 'We are running late, Katya invited all of us!' Barinov leans on one familiar element with Katya: "opazdyvayem" means "are late" (from "opazdyvat"), giving the line its exact edge.
+- 'Why did you stage all this in the house?' Katya phrases the remark with candor: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Lyova, go take a walk until ten o'clock at night!' Barinov pushes back firmly without holding back, keeping the focus on what actually matters here.
+- 'And do not show up in this house anymore!' Barinov spotlights one clear choice at once: "poyavlyaysya" means "anymore", and it carries the main weight of what Barinov is saying.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what just happened out here?' Elena inquires bluntly as the beat lands, leaning on "zdes" ("here") before closing the thought with "tolko" ("only").
-- 'Nothing happened, we are breathing fresh air.' Barinov keeps a warm footing toward Senya, using "bylo" (from "byt", "was") alongside "vozdukhom" ("air") to shape the meaning.
-- 'Chef, we tried very hard.' Senya maintains a wry attitude at once, pairing "ochen" ("very much") with "staralis" ("tried") to get the point across in plain spoken Russian.
-- 'Everything is fine, guys.' Barinov shares a sharp stance for Senya, linking "poryadke" ("order") directly with "rebyata" ("the boys, the lads"), since Russian drops "is" and "are" in the present.
-- 'I have the sauté pan, here it is.' Elena answers dryly toward Barinov here, using the everyday "u menya" ("by me") alongside "soteynik" ("pan") to show what belongs to the speaker.
-- 'Vitya, do not behave like a child.' Elena sustains an earnest note straight away, using "vedi" (from "vesti", "lead, behave") alongside "kak" ("how") to shape the meaning.
-- 'And will German not cry?' Barinov wonders wryly as the talk turns, pairing "plakat" ("to cry") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'I took your sauté pan out of the safe.' Elena shows a serious approach as they talk, linking "zabrala" ("took away"), "seyfa" ("all"), and "soteynik" ("pan") in one brisk exchange.
-- 'And I bought him an exact same one.' Elena displays a lively footing straight away, leaning on "kupila" ("bought") before closing the thought with "tochno" ("definitely").
-- 'A toy for each of you.' Elena strikes an earnest rhythm in the room, weaving "kazhdogo" ("everyone") together with "igrushke" ("toy") just the way native speakers do.
-- 'Wait, why did you fight then?' Senya probes frankly to Barinov here, using "podozhdite" (from "podozhdat", "wait") alongside "zachem" ("what for") to shape the meaning.
-- 'So that he would not call the police!' Barinov offers an honest position straight away, using "politsiyu" (from "politsiya", "the police") alongside "vyzval" ("called, summoned") to shape the meaning.
-- 'So say thank you to me.' Barinov conveys a measured course in the conversation, weaving "skazhite" ("tell") together with "spasibo" ("thank you") just the way native speakers do.
-- 'Get ready, we are going to the banya!' Barinov brings a serious direction in the scene, leaning on "sobiraytes" ("to intend") before closing the thought with "yedem" ("are going").
+- 'And what just happened out here?' Elena inquires bluntly what Barinov is actually getting at here.
+- 'Nothing happened, we are breathing fresh air.' Barinov leans on this vivid detail toward Senya: "vozdukhom" means "air" (from "vozdukh"), giving the line its exact edge.
+- 'Chef, we tried very hard.' Senya drops the thought beside Barinov: the "-sya" ending on "staralis" ("tried") turns the action inward or makes it happen between people naturally.
+- 'Everything is fine, guys.' Barinov opens up boldly on the spot, shifting the whole mood of the room in a single beat.
+- 'I have the sauté pan, here it is.' Elena colors one sharp element in earnest: "soteynik" means "pan", and it carries the main weight of what Elena is saying.
+- 'Vitya, do not behave like a child.' Elena stands firm openly before Senya, testing Senya's reaction in the middle of the exchange.
+- 'And will German not cry?' Barinov wonders point-blank to see how Elena will answer on the spot.
+- 'I took your sauté pan out of the safe.' Elena picks one practical word in reply: "soteynik" means "pan", and it carries the main weight of what Elena is saying.
+- 'And I bought him an exact same one.' Elena pushes back boldly as they talk, bringing things back to earth after the buildup.
+- 'A toy for each of you.' Elena replies dryly beside Senya, without trying to dress up how she really feels.
+- 'Wait, why did you fight then?' Senya highlights one key word right here: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'So that he would not call the police!' Barinov weighs in dryly in this moment, testing Senya's reaction in the middle of the exchange.
+- 'So say thank you to me.' Barinov fires back dryly with Elena, without trying to dress up how he really feels.
+- 'Get ready, we are going to the banya!' Barinov reaches for this clear choice for Senya: "sobiraytes" means "to intend" (from "sobiratsya"), giving the line its exact edge.

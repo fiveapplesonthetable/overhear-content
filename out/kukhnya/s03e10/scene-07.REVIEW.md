@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, pull yourself together, we are going all in now.' Max picks a grounded course in their talk, building the phrase around "soberis" ("pull yourself together") and "seychas" ("now") for a crisp, natural delivery.
-- 'I am inviting her out on a date tonight.' Max shares a sharp mood on the spot, combining "priglashayu" ("invite") and "vecherom" ("in the evening") so the key meaning lands right away.
-- 'And you are the one who goes to the meeting.' Max establishes an emphatic tack without hesitation, leaning on "vstrechu" ("meeting") before closing the thought with "idyosh" ("are coming").
-- 'From there you act on your own, chin up!' Max keeps an easygoing note toward Lyova, putting "dalshe" ("next, go on") alongside "deystvuyesh" ("to act") in a tight, everyday turn of phrase.
-- 'Alright, Max, we have a deal.' Lyova keeps a calm style without hesitation, linking "khorosho" ("good, fine"), "dogovorilis" ("agreed, deal"), and "maks" ("Max") in one brisk exchange.
-- 'So, where shall we go to drink coffee?' Max prompts pointedly in their exchange, pairing "kuda" ("where to") with "poydyom" ("let's go") to get the point across in plain spoken Russian.
-- 'Maxim, you and I are not going anywhere.' Katya sets an easygoing footing without hesitation, linking "nikuda" ("nowhere, anywhere"), "poydyom" ("let's go"), and "maksim" ("Maksim") in one brisk exchange.
-- 'What do you mean we are not going anywhere?' Max presses firmly at this point, combining "smysle" ("sense") and "nikuda" ("nowhere, anywhere") so the key meaning lands right away.
-- 'Lyova has simply worn me out.' Katya shares an emphatic attitude across the room, putting "prosto" ("just") alongside "dostal" ("got on everyone's nerves") in a tight, everyday turn of phrase.
-- 'All day long he keeps walking around me.' Katya holds a firm stance in front of Max, putting "tselyy" ("whole, all") alongside "den" ("day") in a tight, everyday turn of phrase.
-- 'I try to hint to him, but he does not understand.' Katya presents a pointed manner in the conversation, pairing "pytayus" ("am trying") with "nameknut" ("to hint") so the "-sya" ending carries the action.
-- 'I thought if I invited you in front of him, he would back off.' Katya brings a playful posture for Max, leaning on "podumala" ("thought") before closing the thought with "priglashu" ("will invite").
+- 'Lyova, pull yourself together, we are going all in now.' Max centers one clear expression at once: "kontsa" means "ending" (from "konets"), giving the line its exact edge.
+- 'I am inviting her out on a date tonight.' Max opens up decisively in their talk, saying out loud what both of them already know.
+- 'And you are the one who goes to the meeting.' Max cuts in briskly with Katya, shifting the whole mood of the room in a single beat.
+- 'From there you act on your own, chin up!' Max sharpens one loaded choice with Lyova: "deystvuyesh" means "to act" (from "deystvovat"), giving the line its exact edge.
+- 'Alright, Max, we have a deal.' Lyova voices that reply right away: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'So, where shall we go to drink coffee?' Max asks calmly why things suddenly took this turn between them.
+- 'Maxim, you and I are not going anywhere.' Katya features one telling term with Lyova: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'What do you mean we are not going anywhere?' Max lays out the remark on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Lyova has simply worn me out.' Katya opens up plainly watching Lyova, letting the remark speak for itself.
+- 'All day long he keeps walking around me.' Katya grounds this key detail toward Max: "tselyy" means "whole, all", and it carries the main weight of what Katya is saying.
+- 'I try to hint to him, but he does not understand.' Katya follows up frankly on the spot, before Lyova can change the subject.
+- 'I thought if I invited you in front of him, he would back off.' Katya continues quietly to be clear, steering the talk right where she wants it.

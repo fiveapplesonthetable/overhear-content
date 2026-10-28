@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wow! Just like in the movies!' The guest picks a sharp course at this moment, leaning on "kak" ("how") before closing the thought with "kino" ("cinema, movies").
-- 'Maxim, it is probably very expensive here.' The guest presents an unhurried tempo without hesitation, pairing "tut" ("here") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Let us spend the night at your place.' The guest shows a pointed tack for Max, using "davayte" (from "davat", "let's") alongside "perenochuyem" ("will spend the night") to shape the meaning.
-- 'Granny, stop it! What do you mean on the floor?' Max wonders honestly in their exchange, weaving "babul" ("granny") together with "perestan" ("stop") just the way native speakers do.
-- 'Spend the night here in comfort.' Max conveys a direct position as the scene unfolds, linking "perenochuyte" ("spend the night"), "zdes" ("here"), and "komfortom" ("comfort") in one brisk exchange.
-- 'Hello, Mikhail Dzhekovich.' Max sustains a measured posture as the scene unfolds, pairing "zdravstvuyte" ("hello") with "mikhail" ("Mikhail") to get the point across in plain spoken Russian.
-- 'Good afternoon.' Mikhail sets an earnest view in the scene, joining "dobryy" ("good") to "den" ("day") so every word pulls its weight.
-- 'Lyuba. Good afternoon!' The guest presents a grounded posture in the room, combining "dobryy" ("good") and "den" ("day") so the key meaning lands right away.
-- 'And how well he speaks Russian, right?' The guest prompts boldly without a pause, combining "po-russki" ("in Russian") and "kak" ("how") so the key meaning lands right away.
-- 'Let us go to the room.' Max shares a steady bearing in the conversation, joining "poydyomte" ("come on, let's go") to "nomer" ("number") so every word pulls its weight.
-- 'Have a pleasant stay!' Mikhail projects a pointed approach beside the guest, weaving "priyatnogo" ("pleasant") together with "otdykha" ("rest, stay") just the way native speakers do.
-- 'Thank you very much.' The guest strikes a direct footing straight away, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").
+- 'Wow! Just like in the movies!' The guest emphasizes this key expression right here: "kino" means "cinema, movies", and it carries the main weight of what the guest is saying.
+- 'Maxim, it is probably very expensive here.' The guest follows up right away across the room, leaving no doubt about where he stands.
+- 'Let us spend the night at your place.' The guest points to one pointed piece with Max: "perenochuyem" means "will spend the night" (from "perenochevat"), giving the line its exact edge.
+- 'Granny, stop it! What do you mean on the floor?' Max puts this update on cue: putting the question word "kakoy" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'Spend the night here in comfort.' Max fires back earnestly toward the guest, leaving no doubt about where he stands.
+- 'Hello, Mikhail Dzhekovich.' Max grounds one telling detail right here: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
+- 'Good afternoon.' Mikhail puts that answer with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Lyuba. Good afternoon!' The guest follows up openly beside Mikhail, saying out loud what both of them already know.
+- 'And how well he speaks Russian, right?' The guest reaches for one memorable term toward Max: "razgovarivayet" means "to talk, to speak" (from "razgovarivat"), giving the line its exact edge.
+- 'Let us go to the room.' Max aims this statement at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Have a pleasant stay!' Mikhail jumps in plainly with a nod, making his position completely clear.
+- 'Thank you very much.' The guest underscores this direct piece toward Mikhail: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.

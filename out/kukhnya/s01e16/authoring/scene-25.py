@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Beef pâté.' Introducing the true nature of the dish, the phrasing places the focus on the meat type right after naming the spread."),
-    (1, None, '\'Absolutely revolting.\' To describe how awful it tastes, the speaker pairs words that literally mean "terrible muck" or "frightful filth."'),
+    (1, None, "'Absolutely revolting.' Barinov grimaces and calls the raw mixture 'frightful filth' to show how unappetizing it looks before cooking."),
     (2, None, "'But when you mix it all together...' Setting up a surprising contrast, the chef explains what happens if someone were to blend everything into one."),
     (3, None, "'She likes it.' Referring to his pet, he notes that the concoction is pleasing to her."),
     (4, None, "'Are you kidding me?' Realizing he was tricked, the frustrated cook asks if he is being mocked or made a fool of."),

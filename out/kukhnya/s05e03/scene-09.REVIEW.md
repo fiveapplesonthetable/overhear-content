@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told you everything last night.' Mikhail favors an honest view across the room, using "nochyu" (from "noch", "night") alongside "uzhe" ("already, now") to shape the meaning.
-- 'You must get rid of one cook.' Eleonora sets a sharp mood in front of Nagiyev, combining "dolzhen" ("has to, must") and "izbavitsya" ("to get rid of") so the key meaning lands right away.
-- 'Do it by any means necessary.' Eleonora maintains a lively posture as they talk, pairing "sdelay" ("make, do") with "lyubym" ("any") to get the point across in plain spoken Russian.
-- 'Dima, I only ask you very much.' Eleonora offers an earnest manner as they talk, pairing "tolko" ("only") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Let's keep it calm today, I beg you.' Eleonora chooses an earnest line at once, linking "davay" ("let's"), "segodnya" ("today"), and "spokoyno" ("calmly") in one brisk exchange.
-- 'Only they feed people much better at your place.' Nagiyev establishes a clear tack with Mikhail, weaving "tolko" ("only") together with "kormyat" ("to feed") just the way native speakers do.
-- 'These are rare animals for the evening.' Eleonora shares a clear note right away, linking "redkiye" ("rare, scarce") directly with "zhivotnyye" ("animals"), since Russian drops "is" and "are" in the present.
-- 'They will be present at the event.' Eleonora presents an honest position at once, combining "budut" ("there will be") and "prisutstvovat" ("to be present") so the key meaning lands right away.
-- 'Right here is our fur seal.' Eleonora projects a pointed posture toward Mikhail, leaning on "morskoy" ("sea, marine") before closing the thought with "kotik" ("kitten, honey").
-- 'All the money will go toward saving the animals.' Eleonora shows a calm direction beside Nagiyev, building the phrase around "dengi" ("money") and "poydut" ("to go") for a crisp, natural delivery.
-- 'Well, I was not born yesterday, huh?' Nagiyev wonders boldly as they speak, pairing "rodilsya" ("was born") with "vchera" ("yesterday") so the "-sya" ending carries the action.
-- 'We are having a charity evening today.' Nagiyev sustains a steady view in front of Mikhail, placing "segodnya" ("today") straight beside "blagotvoritelnyy" ("buffet") with no word for "to be" needed.
-- 'We were collecting money for them.' Nagiyev offers a measured footing for Eleonora, joining "sobirali" ("collected") to "dengi" ("money") so every word pulls its weight.
-- 'Tell me straight: what do you want?' Eleonora presses plainly to keep things clear, pairing "skazhi" ("say") with "pryamo" ("right, just") to get the point across in plain spoken Russian.
+- 'I already told you everything last night.' Mikhail speaks up decisively with a smile, refusing to let the moment slip past.
+- 'You must get rid of one cook.' Eleonora features one colorful piece toward Nagiyev: "izbavitsya" means "to get rid of", and it carries the main weight of what Eleonora is saying.
+- 'Do it by any means necessary.' Eleonora shapes that point without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Dima, I only ask you very much.' Eleonora weighs in wryly without a pause, grounding the moment in plain reality.
+- 'Let's keep it calm today, I beg you.' Eleonora centers one direct term in earnest: "segodnya" means "today", and it carries the main weight of what Eleonora is saying.
+- 'Only they feed people much better at your place.' Nagiyev voices this answer with warmth: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'These are rare animals for the evening.' Eleonora opens up promptly without a pause, leaving no doubt about where she stands.
+- 'They will be present at the event.' Eleonora anchors one practical element in reply: "meropriyatii" means "event" (from "meropriyatiye"), giving the line its exact edge.
+- 'Right here is our fur seal.' Eleonora offers this warning toward Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'All the money will go toward saving the animals.' Eleonora steps in firmly across the room, grounding the moment in plain reality.
+- 'Well, I was not born yesterday, huh?' Nagiyev emphasizes one clear word at once: "rodilsya" means "was born" (from "roditsya"), giving the line its exact edge.
+- 'We are having a charity evening today.' Nagiyev shares the reaction to Mikhail: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'We were collecting money for them.' Nagiyev weighs in evenly as they talk, testing Eleonora's reaction in the middle of the exchange.
+- 'Tell me straight: what do you want?' Eleonora leans on one familiar piece right here: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.

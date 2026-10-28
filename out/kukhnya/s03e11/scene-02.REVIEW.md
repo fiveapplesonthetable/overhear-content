@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you getting old already, dear Vitya?' Nagiyev wonders lightly during the talk, combining "uzhe" ("already, now") and "stareyesh" ("you are getting old") so the key meaning lands right away.
-- 'Before, you did not take this long to think.' Nagiyev presents a playful tone in the conversation, weaving "ranshe" ("earlier, previously") together with "dolgo" ("for a long time") just the way native speakers do.
-- 'Maybe it is already time for you to rest?' Nagiyev challenges earnestly to keep things clear, using "mozhet" (from "moch", "can") alongside "uzhe" ("already, now") to shape the meaning.
-- 'That is very funny, Dmitry Vladimirovich.' Barinov holds a resolute mood on the spot, placing "ochen" ("very much") straight beside "smeshno" ("ridiculous") with no word for "to be" needed.
-- 'You have started joking too often.' Barinov offers a frank tempo as the scene unfolds, combining "slishkom" ("too") and "chasto" ("often") so the key meaning lands right away.
-- 'You love to joke every day.' Barinov displays a pointed view in this beat, anchoring the Russian line on "lyubish" ("love") and "shutit" ("to joke") without extra filler.
-- 'A guest is asking for you in the dining room.' Barinov chooses a playful direction with Max, putting "zale" ("hall") alongside "sprashivayet" ("asks") in a tight, everyday turn of phrase.
-- 'I said that you are here.' Barinov holds a measured bearing toward Nagiyev, linking "skazal" ("said"), "zdes" ("here"), and "ya" ("I") in one brisk exchange.
-- 'Let us go, Viktoria Sergeyevna, and drink coffee.' Nagiyev displays a candid line in front of Barinov, pairing "poydyomte" ("come on, let's go") with "vypyem" ("will drink") to get the point across in plain spoken Russian.
-- 'Leave our old chef alone.' Nagiyev projects a lively direction in their talk, linking "ostavte" ("leave"), "starogo" ("old"), and "shefa" ("chef") in one brisk exchange.
-- 'Wow, what a big scar!' Max conveys a thoughtful approach toward Barinov, combining "bolshoy" ("big") and "shram" ("scar") so the key meaning lands right away.
-- 'Yes, that was a long time ago in the army.' Barinov displays a resolute bearing on the spot, anchoring the Russian line on "bylo" ("was") and "davno" ("for a long time") without extra filler.
-- 'What do you want? Nothing, we are working.' Max probes steadily to make the point, linking "nado" ("it is necessary"), "rabotayem" ("we work, let's work"), and "chto" ("what") in one brisk exchange.
+- 'Are you getting old already, dear Vitya?' Nagiyev lays out this statement briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Before, you did not take this long to think.' Nagiyev follows up briskly without any doubt, bringing things back to earth after the buildup.
+- 'Maybe it is already time for you to rest?' Nagiyev grounds this key piece in reply: "otdykhat" means "relax", and it carries the main weight of what Nagiyev is saying.
+- 'That is very funny, Dmitry Vladimirovich.' Barinov shapes the thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You have started joking too often.' Barinov weighs in quietly in this moment, saying out loud what both of them already know.
+- 'You love to joke every day.' Barinov frames one memorable touch in earnest: "kazhdyy" means "every", and it carries the main weight of what Barinov is saying.
+- 'A guest is asking for you in the dining room.' Barinov chooses this sharp expression in earnest: "sprashivayet" means "asks" (from "sprashivat"), giving the line its exact edge.
+- 'I said that you are here.' Barinov proceeds calmly hearing Nagiyev, steering the talk right where he wants it.
+- 'Let us go, Viktoria Sergeyevna, and drink coffee.' Nagiyev picks one colorful expression on cue: "poydyomte" means "come on, let's go" (from "poyti"), giving the line its exact edge.
+- 'Leave our old chef alone.' Nagiyev jumps in calmly with a smile, leaving no doubt about where he stands.
+- 'Wow, what a big scar!' Max fires back wryly facing Barinov, refusing to let the moment slip past.
+- 'Yes, that was a long time ago in the army.' Barinov features one classic piece with Nagiyev: "armii" means "army" (from "armiya"), giving the line its exact edge.
+- 'What do you want? Nothing, we are working.' Max voices that line frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

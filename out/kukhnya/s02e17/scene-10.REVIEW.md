@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With every fit of rage, you recite a poem.' Louis keeps an unhurried footing in the room, weaving "kazhdom" ("every") together with "pristupe" ("attack, fit") just the way native speakers do.
-- 'Just give it a try.' Max offers a firm direction straight away, leaning on "poprobuyte" ("try, taste") before closing the thought with "vy" ("you").
-- 'Well, for example, any poem at all.' Louis maintains an honest rhythm in front of Max, building the phrase around "naprimer" ("for example") and "lyuboye" ("any") for a crisp, natural delivery.
-- 'Well, that one.' Max projects an emphatic course for Louis, anchoring the Russian line on "nu" ("oh, come on") and "to" ("that") without extra filler.
-- 'I know that one.' Louis takes a measured line in the room, weaving "znayu" ("know") together with "ya" ("I") just the way native speakers do.
-- 'Now it cries like a little child.' Max establishes a candid style in front of Louis, combining "zaplachet" ("to fine") and "to" ("that") so the key meaning lands right away.
-- 'Well, there you see.' Louis offers a lively stance in this beat, using "vidite" (from "videt", "see") alongside "nu" ("oh, come on") to shape the meaning.
-- 'I really want to, very much.' Max brings a thoughtful course on the spot, combining "ochen" ("very much") and "khochu" ("want") so the key meaning lands right away.
-- 'You mean me.' Louis chooses an easygoing line across the room, weaving "ty" ("you") together with "menya" ("me") just the way native speakers do.
-- 'How do I get rid of her?' Max questions honestly right away, pairing "izbavitsya" ("to get rid of") with "kak" ("how") so the "-sya" ending carries the action.
-- 'Just tell her that you are, well, that way.' Louis picks a measured tack for Max, combining "skazhi" ("say") and "ty" ("you") so the key meaning lands right away.
-- 'You know, not into girls.' Max displays an easygoing tack in the conversation, pairing "devochek" ("girl") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Come sit down with us.' Louis shows a brisk rhythm in front of Max, building the phrase around "sadis" ("sit down") and "nami" ("us") for a crisp, natural delivery.
+- 'With every fit of rage, you recite a poem.' Louis underscores this clear touch toward Max: "stikhotvoreniye" means "a poem", and it carries the main weight of what Louis is saying.
+- 'Just give it a try.' Max gives that reply on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Well, for example, any poem at all.' Louis chimes in frankly during the talk, so Max knows he is not just making small talk.
+- 'Well, that one.' Max delivers the thought in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I know that one.' Louis brings the remark for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Now it cries like a little child.' Max cuts in lightly during the talk, letting the remark speak for itself.
+- 'Well, there you see.' Louis grounds this clear element with Max: "vidite" means "see" (from "videt"), giving the line its exact edge.
+- 'I really want to, very much.' Max phrases this warning with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You mean me.' Louis responds evenly watching Max, saying out loud what both of them already know.
+- 'How do I get rid of her?' Max anchors one memorable choice in reply: "izbavitsya" means "to get rid of", and it carries the main weight of what Max is saying.
+- 'Just tell her that you are, well, that way.' Louis chooses this sharp piece in reply: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'You know, not into girls.' Max pushes back steadily in this moment, so Louis knows he is not just making small talk.
+- 'Come sit down with us.' Louis uses one direct word right here: "sadis" means "sit down" (from "saditsya"), giving the line its exact edge.

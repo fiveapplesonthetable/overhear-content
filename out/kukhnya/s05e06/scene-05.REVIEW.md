@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are looking at it as if you are going to marry it.' Timur sustains a firm line during the exchange, pairing "smotrish" ("are staring") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'The fish is expensive, it must be in perfect condition.' Lyova conveys a pointed manner across the room, anchoring the Russian line on "ryba" ("fish") and "dorogaya" ("expensive") without extra filler.
-- 'Listen, do you want the same one at a discount?' Timur probes lightly to Lyova here, joining "slushay" ("listen") to "khochesh" ("do you want") so every word pulls its weight.
-- 'It is a special offer: stronger smell, bigger discount.' Timur maintains a grounded position as the scene unfolds, placing "aktsiya" ("rally, campaign") straight beside "silneye" ("harder, stronger") with no word for "to be" needed.
-- 'Thank you, I had better take the fresh one.' Lyova adopts a sharp stance right away, building the phrase around "spasibo" ("thank you") and "luchshe" ("better") for a crisp, natural delivery.
-- 'Did stellate sturgeon appear on our menu?' Senya challenges boldly from the start, building the phrase around "sevryuga" ("stellate sturgeon") and "menyu" ("menu") for a crisp, natural delivery.
-- 'Yes, we decided to try it out.' Lyova maintains a firm direction in the conversation, pairing "reshili" ("decided") with "poprobovat" ("to taste") to get the point across in plain spoken Russian.
-- 'Will you cut me a little piece?' Senya inquires candidly from the start, anchoring the Russian line on "otrezhesh" ("will cut off") and "kusochek" ("slice, little piece") without extra filler.
-- 'I have never eaten stellate sturgeon.' Senya adopts an easygoing tone in front of Lyova, leaning on "sevryugu" ("stellate sturgeon") before closing the thought with "yel" ("ate").
-- 'And do you know how much it costs?' Lyova challenges dryly in the room, building the phrase around "znayesh" ("know") and "skolko" ("how much, so much") for a crisp, natural delivery.
-- 'I know.' Senya takes a wry angle without hesitation, using "znayu" ("know") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'That is why I am asking.' Senya presents a direct manner in front of Timur, pairing "poetomu" ("that's why") with "proshu" ("beg, ask") to get the point across in plain spoken Russian.
+- 'You are looking at it as if you are going to marry it.' Timur phrases that remark with warmth: the "-sya" ending on "zhenitsya" ("to marry") turns the action inward or makes it happen between people naturally.
+- 'The fish is expensive, it must be in perfect condition.' Lyova fires back openly facing Timur, watching Timur's face to see how the news lands.
+- 'Listen, do you want the same one at a discount?' Timur stresses one loaded word with Lyova: "skidkoy" means "discount" (from "skidka"), giving the line its exact edge.
+- 'It is a special offer: stronger smell, bigger discount.' Timur puts that answer for Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Thank you, I had better take the fresh one.' Lyova reacts openly without holding back, without trying to dress up how he really feels.
+- 'Did stellate sturgeon appear on our menu?' Senya favors this vivid touch on cue: "sevryuga" means "stellate sturgeon", and it carries the main weight of what Senya is saying.
+- 'Yes, we decided to try it out.' Lyova makes that answer without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Will you cut me a little piece?' Senya probes straight out why things suddenly took this turn between them.
+- 'I have never eaten stellate sturgeon.' Senya frames one clear word for Lyova: "sevryugu" means "stellate sturgeon" (from "sevryuga"), giving the line its exact edge.
+- 'And do you know how much it costs?' Lyova makes that line with candor: putting the question word "skolko" right at the front of the line lets Timur hear the point of the question on the very first beat.
+- 'I know.' Senya speaks bluntly facing Lyova, bringing things back to earth after the buildup.
+- 'That is why I am asking.' Senya chooses one vivid touch with Timur: "poetomu" means "that's why", and it carries the main weight of what Senya is saying.

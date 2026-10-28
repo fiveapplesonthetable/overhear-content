@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have two pieces of news, and both are good.' Nagiyev maintains a steady posture across the room, anchoring the Russian line on "novosti" ("the news") and "khoroshiye" ("good") without extra filler.
-- 'After the assassination attempt, I survived.' Nagiyev holds a measured stance at once, anchoring the Russian line on "pokusheniya" ("assassination") and "vyzhil" ("to attempt") without extra filler.
-- 'Our restaurant has finally found a spiritual leader.' Nagiyev favors a brisk mood as the scene unfolds, leaning on "restoran" ("restaurant") before closing the thought with "obryol" ("found").
-- 'Please welcome and respect him.' Nagiyev brings an easygoing mood on the spot, combining "proshu" ("beg, ask") and "lyubit" ("love") so the key meaning lands right away.
-- 'German Mikhailovich.' Nagiyev sets a wry line in the conversation, leaning on "german" ("German") before closing the thought with "mikhaylovich" ("Mikhailovich").
-- 'The new head chef of our restaurant.' Nagiyev chooses an honest position in the room, leaning on "novyy" ("new") before closing the thought with "shef-povar" ("head chef").
-- 'Thank you, Dmitry Vladimirovich.' German sets a steady line as the scene unfolds, anchoring the Russian line on "blagodaryu" ("to thank") and "vas" ("you") without extra filler.
-- 'I hope to live up to your high trust.' German projects an earnest tempo during the exchange, joining "nadeyus" ("hope so") to "opravdat" ("to acquit, to justify") so every word pulls its weight.
-- 'Let's come to an agreement right away.' German shows an honest attitude for Nagiyev, building the phrase around "davayte" ("let's") and "srazu" ("at once") for a crisp, natural delivery.
-- 'You do not have to love me.' German sustains an earnest angle with Nagiyev, pairing "lyubit" ("love") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
-- 'But making friends with me is certainly worth it.' German sets a steady bearing beside Nagiyev, anchoring the Russian line on "podruzhitsya" ("to make friends") and "konechno" ("of course") without extra filler.
-- 'Good day to everyone. Back to work.' German sustains a candid angle at this moment, joining "dobrogo" ("good") to "dnya" ("day") so every word pulls its weight.
+- 'I have two pieces of news, and both are good.' Nagiyev chimes in decisively before German, saying out loud what both of them already know.
+- 'After the assassination attempt, I survived.' Nagiyev uses one colorful expression in reply: "pokusheniya" means "assassination", and it carries the main weight of what Nagiyev is saying.
+- 'Our restaurant has finally found a spiritual leader.' Nagiyev speaks up quietly beside German, keeping the focus on what actually matters here.
+- 'Please welcome and respect him.' Nagiyev continues firmly as they talk, without trying to dress up how he really feels.
+- 'German Mikhailovich.' Nagiyev brings the comeback without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'The new head chef of our restaurant.' Nagiyev lays out that remark in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Thank you, Dmitry Vladimirovich.' German answers firmly on the spot, so Nagiyev knows he is not just making small talk.
+- 'I hope to live up to your high trust.' German highlights one familiar expression in earnest: "vysokoye" means "high" (from "vysokiy"), giving the line its exact edge.
+- 'Let's come to an agreement right away.' German makes that remark for Nagiyev: the word "davayte" is the polite or group version of "let's", inviting Nagiyev into the plan right away.
+- 'You do not have to love me.' German stands firm bluntly across the room, testing Nagiyev's reaction in the middle of the exchange.
+- 'But making friends with me is certainly worth it.' German features one clear detail in earnest: "podruzhitsya" means "to make friends", and it carries the main weight of what German is saying.
+- 'Good day to everyone. Back to work.' German stands firm promptly with Nagiyev, making his position completely clear.

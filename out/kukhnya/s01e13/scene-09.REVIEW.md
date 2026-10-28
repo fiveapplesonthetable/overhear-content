@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Why didn't you tell me you were leaving?' Max confronts Vika about her secret departure. He is hurt that she kept it from him.
 - 'Let's talk later.' Vika tries to brush him off. She suggests they delay the conversation.
-- 'No, we' Max refuses to wait. He insists they have this out right now.
+- 'No, we're talking now!' Max refuses to wait. He insists they have this out right now.
 - 'Let me explain what's going on.' He asks for a chance to clear the air. Max wants to explain his side of the story.
 - 'You've been avoiding me all day!' Vika is angry about his earlier behavior. She accuses him of dodging her all day.
 - 'I need to think.' She needs some space to process everything. Vika wants time alone to figure things out.
-- 'We' Vika sets a firm timeline. She tells him to wait until she returns from her trip.
+- 'We'll talk in three days when I get back.' Vika sets a firm timeline. She tells him to wait until she returns from her trip.
 - 'Vika, good morning!' The next morning, Max confidently walks into her office. He greets her with a cheerful smile.
 - 'I brought you coffee.' Max presents a peace offering. He hopes a hot drink will smooth things over.
 - 'I hate you!' Vika responds with pure fury. She clearly has not forgiven him.

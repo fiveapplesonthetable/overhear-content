@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right, then as usual.' Barinov presents a resolute bearing in their talk, putting "togda" ("back then") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'Milk-fed lamb on the grill.' Barinov chooses a firm attitude in front of Katya, pairing "molochnyy" ("milk-fed, dairy") with "yagnyonok" ("lamb") to get the point across in plain spoken Russian.
-- 'Baked plums with berries.' Barinov shows an easygoing footing at once, building the phrase around "pechyonyye" ("baked, roasted") and "slivy" ("plums") for a crisp, natural delivery.
-- 'Rabbit with rosemary.' Barinov strikes a brisk attitude across the room, anchoring the Russian line on "krolik" ("rabbit") and "rozmarinom" ("rosemary") without extra filler.
-- 'Is that clear to everyone?' Barinov tests lightly beside Fedya, leaning on "ponyatno" ("clear") before closing the thought with "vsem" ("everyone").
-- 'Yes, Chef!' Fedya establishes a sharp angle right away, building the phrase around "da" ("yes") and "shef" ("Chef") for a crisp, natural delivery.
-- 'Right, Yekaterina.' Barinov favors a steady tone as the scene unfolds, building the phrase around "tak" ("so") and "yekaterina" ("Yekaterina") for a crisp, natural delivery.
-- 'You must not stand around and loaf.' Barinov shares a candid stance with Katya, leaning on "dolzhny" ("must, should") before closing the thought with "stoyat" ("to stand").
-- 'But there are no orders.' Katya chooses a grounded manner without hesitation, using "zakazov" (from "zakaz", "orders") alongside "tak" ("so") to shape the meaning.
-- 'So what? Fedya, please.' Barinov probes lightly on the spot, weaving "chto" ("what") together with "fedya" ("Fedya") just the way native speakers do.
-- 'We will find work for everyone here.' Barinov picks a frank bearing during the exchange, anchoring the Russian line on "rabota" ("job") and "naydyotsya" ("is found") without extra filler.
-- 'Go ahead!' Barinov shows a pointed mood at once, using "vperyod" ("ahead of") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Right, then as usual.' Barinov chooses one vivid choice in earnest: "obychno" means "usually", and it carries the main weight of what Barinov is saying.
+- 'Milk-fed lamb on the grill.' Barinov puts that reply in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Baked plums with berries.' Barinov steps in right away in their talk, leaving no doubt about where he stands.
+- 'Rabbit with rosemary.' Barinov stresses one pointed element with Katya: "rozmarinom" means "rosemary" (from "rozmarin"), giving the line its exact edge.
+- 'Is that clear to everyone?' Barinov shares this point right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Yes, Chef!' Fedya cuts in evenly with a shrug, steering the talk right where he wants it.
+- 'Right, Yekaterina.' Barinov delivers that answer with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'You must not stand around and loaf.' Barinov favors one key term with Katya: "bezdelnichat" means "to loaf around", and it carries the main weight of what Barinov is saying.
+- 'But there are no orders.' Katya responds decisively on the spot, to clear the air between them once and for all.
+- 'So what? Fedya, please.' Barinov offers this point with candor: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We will find work for everyone here.' Barinov makes the thought without fuss: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Go ahead!' Barinov steps in lightly in this moment, letting the remark speak for itself.

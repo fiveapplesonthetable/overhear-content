@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey head chef, did you shred the cabbage?' Barinov questions bluntly right away, pairing "shef-povar" ("head chef") with "kapustu" ("cabbage, cash") to get the point across in plain spoken Russian.
-- 'Did you shred the cabbage, I asked?' Nastya queries frankly to make the point, leaning on "kapustu" ("cabbage, cash") before closing the thought with "nasynkoval" ("to shred, slice finely").
-- 'Is this supposed to be some kind of joke?' Barinov quizzes warmly toward Nastya here, building the phrase around "khokhma" ("joke, gag") and "eto" ("this") for a crisp, natural delivery.
-- 'What is this?' Nastya questions naturally with Barinov now, putting "eto" ("this") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'A little misunderstanding.' Barinov establishes a playful position as the scene unfolds, using "uvyazochka" (from "neuvyazochka", "little hitch") alongside "ne" ("not") to shape the meaning.
-- 'Just like that.' Nastya brings a measured mood during the exchange, joining "vot" ("there, here") to "tak" ("so") so every word pulls its weight.
-- 'Long story short, have the money ready by tonight.' Barinov sets a serious angle in the scene, pairing "koroche" ("long story short") with "dengi" ("money") to get the point across in plain spoken Russian.
-- 'Nastya, come over here.' Barinov presents a direct tone in this beat, pairing "idi" ("go") with "syuda" ("here") to get the point across in plain spoken Russian.
-- 'What is this thing?' Barinov asks bluntly toward Nastya here, building the phrase around "eto" ("this") and "chto" ("what") for a crisp, natural delivery.
-- 'That is Pashka.' Nastya sets a serious tack during the exchange, pairing "eto" ("this") with "pashka" ("Pasha") to get the point across in plain spoken Russian.
-- 'What is this? That is Pashka?' Barinov tests steadily from the start, combining "eto" ("this") and "chto" ("what") so the key meaning lands right away.
-- 'What, did you not recognize him?' Nastya wonders warmly in this moment, joining "uznal" ("recognised") to "che" ("what") so every word pulls its weight.
+- 'Hey head chef, did you shred the cabbage?' Barinov brings the comment right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Did you shred the cabbage, I asked?' Nastya challenges curiously before Barinov can change the subject.
+- 'Is this supposed to be some kind of joke?' Barinov sharpens one classic expression at once: "khokhma" means "joke, gag", and it carries the main weight of what Barinov is saying.
+- 'What is this?' Nastya drops this statement calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'A little misunderstanding.' Barinov cuts in briskly without holding back, letting the remark speak for itself.
+- 'Just like that.' Nastya voices that remark briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Long story short, have the money ready by tonight.' Barinov answers openly toward Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'Nastya, come over here.' Barinov follows up earnestly around Nastya, leaving no doubt about where he stands.
+- 'What is this thing?' Barinov delivers that reply toward Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That is Pashka.' Nastya brings this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What is this? That is Pashka?' Barinov inquires evenly to see how Nastya will answer on the spot.
+- 'What, did you not recognize him?' Nastya sharpens this direct element toward Barinov: "uznal" means "recognised" (from "uznat"), giving the line its exact edge.

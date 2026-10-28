@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good! By taste it is simply tomato soup.' Nagiyev conveys an earnest style toward Barinov, placing "khorosho" ("good, fine") straight beside "vkusu" ("taste, style") with no word for "to be" needed.
-- 'Vitya, try it.' Nagiyev displays a natural posture in this beat, building the phrase around "poprobuy" ("to try, to taste") and "vitya" ("Vitya") for a crisp, natural delivery.
-- 'I do not want to.' Barinov conveys a grounded direction in the conversation, linking "khochu" ("want"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
-- 'Try it! Do you like it?' Nagiyev challenges calmly in their exchange, building the phrase around "poprobuy" ("to try, to taste") and "nravitsya" ("is pleasing") for a crisp, natural delivery.
-- 'Moving on. Frozen chocolate wind.' Katya adopts a playful tone for Barinov, anchoring the Russian line on "yedem" ("are going") and "dalshe" ("next, go on") without extra filler.
-- 'Guys, chocolate wind!' Nagiyev sustains a sharp footing at once, combining "rebyata" ("the boys, the lads") and "shokoladnyy" ("chocolate") so the key meaning lands right away.
-- 'We are selling air!' Nagiyev strikes a firm course right away, anchoring the Russian line on "vozdukh" ("air") and "prodayom" ("to sell") without extra filler.
-- 'I will try it, yes?' Nagiyev queries openly beside Katya, joining "poprobuyu" ("will try") to "ya" ("I") so every word pulls its weight.
-- 'Yes, of course.' Katya displays an honest note as they talk, building the phrase around "konechno" ("of course") and "da" ("yes") for a crisp, natural delivery.
-- 'Delicious! Is our molecular menu ready?' Nagiyev inquires promptly at this point, pairing "vkusno" ("it's tasty") with "molekulyarnoye" ("molecular") to get the point across in plain spoken Russian.
-- 'You already have a menu ready too?' Barinov asks warmly in the room, anchoring the Russian line on "uzhe" ("already, now") and "menyu" ("menu") without extra filler.
-- 'Yesterday we sat down, chatted, and approved the menu.' Nagiyev chooses a thoughtful manner in this beat, building the phrase around "vchera" ("yesterday") and "seli" ("to sit down") for a crisp, natural delivery.
+- 'Good! By taste it is simply tomato soup.' Nagiyev makes this line briskly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Vitya, try it.' Nagiyev pushes back firmly facing Katya, before Katya can change the subject.
+- 'I do not want to.' Barinov emphasizes this vivid expression with Katya: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Try it! Do you like it?' Nagiyev frames that line around Katya: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.
+- 'Moving on. Frozen chocolate wind.' Katya reacts plainly watching Barinov, refusing to let the moment slip past.
+- 'Guys, chocolate wind!' Nagiyev focuses on one practical element with Katya: "shokoladnyy" means "chocolate", and it carries the main weight of what Nagiyev is saying.
+- 'We are selling air!' Nagiyev states this point at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I will try it, yes?' Nagiyev challenges bluntly how Katya expects that to work in practice.
+- 'Yes, of course.' Katya frames one telling element at once: "konechno" means "of course", and it carries the main weight of what Katya is saying.
+- 'Delicious! Is our molecular menu ready?' Nagiyev states the remark in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'You already have a menu ready too?' Barinov inquires earnestly while looking straight at Katya here.
+- 'Yesterday we sat down, chatted, and approved the menu.' Nagiyev chooses one pointed piece with Katya: "utverdili" means "approved" (from "utverdit"), giving the line its exact edge.

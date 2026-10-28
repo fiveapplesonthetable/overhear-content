@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I lost my father all over again.' Kostya displays a candid tack at once, putting "segodnya" ("today") alongside "snova" ("again") in a tight, everyday turn of phrase.
-- 'Kostik, forgive me, please, darling.' Nastya strikes a calm tempo as the scene unfolds, weaving "prosti" ("sorry, forgive me") together with "rodnoy" ("dear friend") just the way native speakers do.
-- 'I am to blame for everything myself.' Nastya favors a candid manner in this beat, anchoring the Russian line on "vinovata" ("at fault, to blame") and "eto" ("this") without extra filler.
-- 'I should not have looked for him at all.' Nastya projects a direct angle in the scene, weaving "nado" ("it is necessary") together with "bylo" ("was") just the way native speakers do.
-- 'Kostik, you nearly ate the cotton swab.' Nastya sustains a brisk mood without hesitation, weaving "chut" ("almost, nearly") together with "palochku" ("swab, little stick") just the way native speakers do.
-- 'It was I who did a paternity test.' Nastya sustains a warm position right away, weaving "delala" ("did") together with "test" ("test") just the way native speakers do.
-- 'I took saliva from both of you.' Nastya maintains a steady direction beside Denis, leaning on "brala" ("took, was taking") before closing the thought with "slyunu" ("saliva").
-- 'Well, and what did that test show?' Kostya wonders lightly toward Nastya here, putting "pokazal" ("to show") alongside "test" ("test") in a tight, everyday turn of phrase.
-- 'Kostya, he is your real father!' Nastya holds a serious tempo at once, leaning on "nastoyashchiy" ("real, genuine") before closing the thought with "otets" ("father").
-- 'Then I am running after him right away!' Kostya brings a steady tack in their talk, building the phrase around "togda" ("back then") and "pobezhal" ("ran off") for a crisp, natural delivery.
-- 'Thank you for not telling the police officers.' Denis projects a pointed bearing toward Kostya, putting "spasibo" ("thank you") alongside "skazal" ("said") in a tight, everyday turn of phrase.
-- 'Forgive me, that was a very bad idea.' Kostya brings a candid attitude across the room, putting "prosti" ("sorry, forgive me") alongside "byla" ("was") in a tight, everyday turn of phrase.
+- 'Today I lost my father all over again.' Kostya pushes back right away in this moment, before Denis can change the subject.
+- 'Kostik, forgive me, please, darling.' Nastya replies plainly with Kostya, leaving no doubt about where she stands.
+- 'I am to blame for everything myself.' Nastya stresses this key word toward Denis: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
+- 'I should not have looked for him at all.' Nastya gives the comment on cue: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Kostik, you nearly ate the cotton swab.' Nastya stands firm lightly hearing Denis, bringing things back to earth after the buildup.
+- 'It was I who did a paternity test.' Nastya uses one direct touch with Kostya: "ottsovstvo" means "paternity", and it carries the main weight of what Nastya is saying.
+- 'I took saliva from both of you.' Nastya aims that reply at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Well, and what did that test show?' Kostya tests evenly about what Nastya just brought up.
+- 'Kostya, he is your real father!' Nastya points to one classic touch in reply: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nastya is saying.
+- 'Then I am running after him right away!' Kostya continues openly in this moment, leaving no doubt about where he stands.
+- 'Thank you for not telling the police officers.' Denis jumps in openly to settle things, grounding the moment in plain reality.
+- 'Forgive me, that was a very bad idea.' Kostya centers one memorable word at once: "plokhaya" means "bad" (from "plokhoy"), giving the line its exact edge.

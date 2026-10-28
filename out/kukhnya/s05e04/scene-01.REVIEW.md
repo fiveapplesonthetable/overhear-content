@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When you cannot solve a problem, you only have one way out.' Denis projects a resolute angle during the exchange, joining "kogda" ("when") to "mozhesh" ("can") so every word pulls its weight.
-- 'To forget it forever and' Denis adopts a calm tone beside Senya, linking "zabyt" ("forget"), "navsegda" ("forever"), and "yeye" ("she, it") in one brisk exchange.
-- 'try to live on.' Denis shows a frank style on the spot, leaning on "popytatsya" ("to try, attempt") before closing the thought with "zhit" ("to live").
-- 'Defendant Denis Andreyevich Krylov, you are accused of infidelity.' Eleonora presents a natural stance in this beat, pairing "obvinyayetes" ("you are accused") with "podsudimyy" ("defendant") so the "-sya" ending carries the action.
-- 'But it is not my fault!' Denis chooses a lively position without hesitation, putting "vinovat" ("at fault, guilty") alongside "no" ("but") in a tight, everyday turn of phrase.
-- 'Right now it is going to get even better.' Eleonora chooses an earnest direction as the scene unfolds, putting "seychas" ("now") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'Arousal denied.' Eleonora projects a frank direction in front of Denis, anchoring the Russian line on "vozbuzhdenii" ("initiation") and "otkazat" ("to refuse, to turn down") without extra filler.
-- 'My stomach cramped up.' Senya offers a sharp footing straight away, combining "zhivot" ("belly") and "prikhvatilo" ("seized, cramped up") so the key meaning lands right away.
-- 'I need the toilet, it is a total nightmare in there.' Senya sustains an unhurried course without hesitation, placing "tualet" ("toilet") straight beside "tam" ("there") with no word for "to be" needed.
-- 'Could you not hold it for at least an hour?' Senya inquires calmly during the talk, putting "poterpet" ("to be patient") alongside "mog" ("can, to be able") in a tight, everyday turn of phrase.
-- 'At least five minutes.' Senya displays a resolute tack in front of Denis, pairing "minut" ("minutes") with "pyat" ("five") to get the point across in plain spoken Russian.
-- 'When our housemates are not home, we will be running all night.' Senya maintains a measured angle in their talk, leaning on "kogda" ("when") before closing the thought with "sozhiteley" ("of roommates").
+- 'When you cannot solve a problem, you only have one way out.' Denis underscores one loaded piece toward Eleonora: "problemu" means "problem" (from "problema"), giving the line its exact edge.
+- 'To forget it forever and' Denis hands over this point right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'try to live on.' Denis steps in sharply on the spot, shifting the whole mood of the room in a single beat.
+- 'Defendant Denis Andreyevich Krylov, you are accused of infidelity.' Eleonora emphasizes one pointed piece in reply: "andreyevich" means "andreyevich", and it carries the main weight of what Eleonora is saying.
+- 'But it is not my fault!' Denis shapes this update frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Right now it is going to get even better.' Eleonora responds decisively with Senya, steering the talk right where she wants it.
+- 'Arousal denied.' Eleonora favors one concrete element in reply: "vozbuzhdenii" means "initiation" (from "vozbuzhdeniye"), giving the line its exact edge.
+- 'My stomach cramped up.' Senya aims that line with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I need the toilet, it is a total nightmare in there.' Senya stands firm quietly in this moment, keeping the focus on what actually matters here.
+- 'Could you not hold it for at least an hour?' Senya uses one concrete touch for Eleonora: "poterpet" means "to be patient", and it carries the main weight of what Senya is saying.
+- 'At least five minutes.' Senya delivers that line right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'When our housemates are not home, we will be running all night.' Senya chimes in pointedly as they talk, grounding the moment in plain reality.

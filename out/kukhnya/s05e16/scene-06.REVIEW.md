@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lunch was not bad, but tomorrow you will be amazed!' Nagiyev sets an easygoing attitude without hesitation, leaning on "obed" ("lunch") before closing the thought with "byl" ("was").
-- 'Vitya, help me out, I need your culinary masterpiece!' Nagiyev displays a wry position with Barinov, combining "vyruchay" ("help out, rescue") and "nuzhen" ("is needed") so the key meaning lands right away.
-- 'Dima, did you forget? I am no longer your servant!' Barinov probes frankly for Nagiyev's benefit, linking "zabyl" ("forgot"), "bolshe" ("more"), and "sluga" ("servant") in one brisk exchange.
-- 'Vitya, but you are my old loyal friend!' Nagiyev presents a lively posture in the scene, placing "staryy" ("old") straight beside "vernyy" ("faithful") with no word for "to be" needed.
-- 'I was your friend only in the distant past.' Barinov adopts a resolute position straight away, leaning on "drugom" ("different, another") before closing the thought with "byl" ("was").
-- 'This important female guest turned out to be a true gourmet!' Nagiyev projects a playful position as they talk, combining the softening word "prosto" ("simply, just") with "vazhnaya" ("important") to give the line its natural spoken rhythm.
-- 'She and I have already tried the rarest dishes.' Nagiyev shows a direct tone in the conversation, leaning on "uzhe" ("already, now") before closing the thought with "samyye" ("most, very").
-- 'She says that all that cuisine is complete junk!' Nagiyev picks an unhurried tack in this beat, putting "govorit" ("talks") alongside "kukhnya" ("kitchen") in a tight, everyday turn of phrase.
-- 'Well, at least she said something nice about our neighbors!' Barinov offers a frank posture toward Nagiyev, using "priyatnoye" (from "priyatnyy", "something pleasant") alongside "sosedey" ("neighbors") to shape the meaning.
-- 'Vitya, why are you acting like a child, I am begging you!' Nagiyev shares an emphatic style for Barinov, leaning on "kak" ("how") before closing the thought with "malenkiy" ("short, little").
-- 'One dinner, and she will give me the leading role!' Nagiyev presents a calm approach straight away, pairing "uzhin" ("dinner") with "dast" ("will give") to get the point across in plain spoken Russian.
-- 'All the more reason to say no, let a real actor get the role!' Barinov maintains a serious posture at once, putting "boleye" ("more") alongside "rol" ("role") in a tight, everyday turn of phrase.
+- 'Lunch was not bad, but tomorrow you will be amazed!' Nagiyev answers warmly in their talk, making his position completely clear.
+- 'Vitya, help me out, I need your culinary masterpiece!' Nagiyev features one familiar piece right here: "kulinarnyy" means "culinary", and it carries the main weight of what Nagiyev is saying.
+- 'Dima, did you forget? I am no longer your servant!' Barinov hands over that thought frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Vitya, but you are my old loyal friend!' Nagiyev follows up lightly during the talk, without trying to dress up how he really feels.
+- 'I was your friend only in the distant past.' Barinov favors one concrete term on cue: "dalyokom" means "distant" (from "dalyokiy"), giving the line its exact edge.
+- 'This important female guest turned out to be a true gourmet!' Nagiyev aims this point calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'She and I have already tried the rarest dishes.' Nagiyev steps in earnestly hearing Barinov, steering the talk right where he wants it.
+- 'She says that all that cuisine is complete junk!' Nagiyev reaches for one practical term toward Barinov: "barakhlo" means "junk, stuff", and it carries the main weight of what Nagiyev is saying.
+- 'Well, at least she said something nice about our neighbors!' Barinov weighs in briskly during the talk, so Nagiyev knows he is not just making small talk.
+- 'Vitya, why are you acting like a child, I am begging you!' Nagiyev opens up frankly across the room, keeping the focus on what actually matters here.
+- 'One dinner, and she will give me the leading role!' Nagiyev anchors one pointed word in reply: "glavnuyu" means "main" (from "glavnyy"), giving the line its exact edge.
+- 'All the more reason to say no, let a real actor get the role!' Barinov chimes in lightly to be clear, making his position completely clear.

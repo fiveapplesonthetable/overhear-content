@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The groom may kiss the bride.' Max presents an unhurried bearing without hesitation, linking "zhenikh" ("groom, fiancé"), "mozhet" ("can"), and "potselovat" ("to kiss") in one brisk exchange.
-- 'Am I not late?' Vika probes calmly to make the point, combining "opozdala" ("to be late") and "ya" ("I") so the key meaning lands right away.
-- 'After all, a child needs a father.' Max strikes a steady view toward Eleonora, leaning on "rebyonku" ("your child") before closing the thought with "nuzhen" ("is needed").
-- 'He is not the father.' Vika brings a direct stance across the room, linking "otets" ("father"), "on" ("he"), and "ne" ("not") in one brisk exchange.
-- 'A husband has the right to know who the child's father is.' Max takes a grounded bearing with Eleonora, weaving "muzh" ("husband") together with "imeyet" ("has") just the way native speakers do.
-- 'Tell him there is no such thing in the law.' Vika presents a thoughtful position in this beat, anchoring the Russian line on "skazhite" ("tell") and "zakone" ("law") without extra filler.
-- 'You are already almost not my husband.' Vika displays an emphatic tone with Eleonora, placing "uzhe" ("already, now") straight beside "pochti" ("almost") with no word for "to be" needed.
-- 'I am not going to report to you.' Vika brings a thoughtful course in the scene, pairing "sobirayus" ("am planning") with "otchityvatsya" ("to report, answer to") so the "-sya" ending carries the action.
-- 'Who is the child's father?' Max tests bluntly during the talk, leaning on "otets" ("father") before closing the thought with "rebyonka" ("child").
-- 'It was your cook who dumped her!' Eleonora favors an easygoing mood as the scene unfolds, leaning on "povar" ("chef, cook") before closing the thought with "brosil" ("threw").
-- 'From this moment I am taking her under my control.' Eleonora establishes a firm manner as they talk, putting "momenta" ("moment") alongside "beru" ("to take") in a tight, everyday turn of phrase.
-- 'I will look after the child myself.' Max conveys an easygoing direction in this beat, joining "proslezhu" ("to see to it") to "rebyonkom" ("child") so every word pulls its weight.
+- 'The groom may kiss the bride.' Max emphasizes one pointed element toward Eleonora: "potselovat" means "to kiss", and it carries the main weight of what Max is saying.
+- 'Am I not late?' Vika voices this line on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'After all, a child needs a father.' Max replies quietly in this moment, watching Eleonora's face to see how the news lands.
+- 'He is not the father.' Vika emphasizes one concrete touch toward Max: "otets" means "father", and it carries the main weight of what Vika is saying.
+- 'A husband has the right to know who the child's father is.' Max speaks evenly across the room, leaving no doubt about where he stands.
+- 'Tell him there is no such thing in the law.' Vika follows up promptly with a nod, letting the remark speak for itself.
+- 'You are already almost not my husband.' Vika colors one telling piece with Eleonora: "pochti" means "almost", and it carries the main weight of what Vika is saying.
+- 'I am not going to report to you.' Vika sends that reply to Max: the "-sya" ending on "otchityvatsya" ("to report, answer to") turns the action inward or makes it happen between people naturally.
+- 'Who is the child's father?' Max tests briskly how Eleonora expects that to work in practice.
+- 'It was your cook who dumped her!' Eleonora stresses one concrete term in earnest: "povar" means "chef, cook", and it carries the main weight of what Eleonora is saying.
+- 'From this moment I am taking her under my control.' Eleonora cuts in warmly facing Max, shifting the whole mood of the room in a single beat.
+- 'I will look after the child myself.' Max fires back frankly on the spot, grounding the moment in plain reality.

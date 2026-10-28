@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, that is not me.' Nagiyev brings a serious attitude in the room, leaning on "net" ("no") before closing the thought with "eto" ("this").
-- 'You have the wrong person.' Senya shares an emphatic bearing at once, pairing "oshiblis" ("to make a mistake") with "vy" ("you") so the "-sya" ending carries the action.
-- 'That is all. Goodbye.' Nagiyev picks a lively manner on the spot, letting "vse" ("all") stand on its own without any word for "is" or "am" in the present.
-- 'The police! Apparently.' Senya chooses a natural line in front of Nagiyev, combining "politsiya" ("police") and "vidimo" ("apparently") so the key meaning lands right away.
-- 'Why is he taking so long?' Nagiyev quizzes naturally from the start, placing "dolgo" ("for a long time") straight beside "chto" ("what") with no word for "to be" needed.
-- 'What are we supposed to do now?' Senya asks bluntly during the talk, pairing "delat" ("do") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'Hold on, hold on, just a second.' Nagiyev holds a natural mood as they talk, centering the phrase on "seychas" ("now"), where the "-sya" ending makes the action self-contained.
-- 'Hello. Hello.' Senya maintains an honest direction with Nagiyev, putting all the weight on "allo" ("hello") so the reply lands immediately.
-- 'Dima, where are you?' Senya tests warmly for Nagiyev's benefit, combining "gde" ("where") and "dima" ("Dima") so the key meaning lands right away.
-- 'I am in that place...' Senya questions frankly in their exchange, linking "ya" ("I") directly with "etom" ("that"), since Russian drops "is" and "are" in the present.
-- 'At the restaurant.' Nagiyev takes a resolute view at this moment, using "restorane" ("restaurant") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Drinking coffee.' Senya maintains a playful approach as the scene unfolds, combining "kofe" ("of coffee") and "pyu" ("to drink") so the key meaning lands right away.
-- 'I will call you back.' Nagiyev shows an unhurried angle on the spot, linking "perezvonyu" ("will call back"), "ya" ("I"), and "tebe" ("for you, to you") in one brisk exchange.
+- 'No, that is not me.' Nagiyev voices the remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You have the wrong person.' Senya shares this point beside Nagiyev: the "-sya" ending on "oshiblis" ("to make a mistake") turns the action inward or makes it happen between people naturally.
+- 'That is all. Goodbye.' Nagiyev holds firm bluntly before Senya, grounding the moment in plain reality.
+- 'The police! Apparently.' Senya points to one memorable piece at once: "politsiya" means "police", and it carries the main weight of what Senya is saying.
+- 'Why is he taking so long?' Nagiyev offers that answer around Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What are we supposed to do now?' Senya quizzes skeptically while looking straight at Nagiyev here.
+- 'Hold on, hold on, just a second.' Nagiyev uses one classic expression at once: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'Hello. Hello.' Senya shares that remark with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Dima, where are you?' Senya prompts straight out why things suddenly took this turn between them.
+- 'I am in that place...' Senya brings this point for Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'At the restaurant.' Nagiyev puts that point facing Senya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Drinking coffee.' Senya chimes in openly without holding back, leaving no doubt about where he stands.
+- 'I will call you back.' Nagiyev frames one memorable word for Senya: "perezvonyu" means "will call back" (from "perezvonit"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, I understand you love to fry meat.' Barinov holds a serious rhythm during the exchange, linking "ponimayu" ("understand"), "lyubish" ("love"), and "zharit" ("fry, roast") in one brisk exchange.
-- 'Oh go away, my tooth hurts.' Senya brings a natural stance as they talk, combining "idi" ("go") and "zub" ("a tooth") so the key meaning lands right away.
-- 'That is what you get for stealing.' Barinov strikes a direct direction in front of Senya, using "voruyesh" (from "vorovat", "are stealing") alongside "eto" ("this") to shape the meaning.
-- 'And what should I do now?' Senya asks wryly without holding back, combining "teper" ("now") and "delat" ("do") so the key meaning lands right away.
-- 'I know one sure remedy.' Barinov strikes a calm bearing with Senya, linking "znayu" ("know"), "vernoye" ("faithful, true"), and "sredstvo" ("remedy") in one brisk exchange.
-- 'In the navy we treated teeth like that.' Barinov sustains an honest attitude without hesitation, combining "flote" ("navy, fleet") and "zuby" ("tooth") so the key meaning lands right away.
-- 'And it takes the pain away immediately.' Barinov presents a steady angle toward Senya, combining "bol" ("pain, ache") and "srazu" ("at once") so the key meaning lands right away.
-- 'Vitya, we need to have a serious talk.' Vika offers a lively view in their talk, putting "nado" ("it is necessary") alongside "seryozno" ("seriously") in a tight, everyday turn of phrase.
-- 'Well go ahead, speak calmly.' Barinov displays a thoughtful angle at this moment, combining the everyday invitation "davay" ("come on, let us") with "spokoyno" ("calmly") to give the line its natural spoken rhythm.
-- 'First turn off your football.' Vika displays an earnest approach in this beat, building the phrase around "snachala" ("first, at first") and "vyklyuchi" ("turn off") for a crisp, natural delivery.
-- 'You asked me to turn off football.' Barinov strikes a resolute tack straight away, building the phrase around "prosila" ("asked") and "vyklyuchit" ("turn off") for a crisp, natural delivery.
-- 'I do not like boxing at all either.' Vika presents a natural stance during the exchange, leaning on "boks" ("boxing") before closing the thought with "tozhe" ("too").
+- 'Senya, I understand you love to fry meat.' Barinov frames this direct choice at once: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
+- 'Oh go away, my tooth hurts.' Senya continues openly in their talk, so Vika knows he is not just making small talk.
+- 'That is what you get for stealing.' Barinov underscores one classic touch at once: "voruyesh" means "are stealing" (from "vorovat"), giving the line its exact edge.
+- 'And what should I do now?' Senya delivers that answer frankly here: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I know one sure remedy.' Barinov replies frankly to settle things, making his position completely clear.
+- 'In the navy we treated teeth like that.' Barinov points to this sharp detail on cue: "flote" means "navy, fleet" (from "flot"), giving the line its exact edge.
+- 'And it takes the pain away immediately.' Barinov follows up evenly watching Senya, letting the remark speak for itself.
+- 'Vitya, we need to have a serious talk.' Vika weighs in evenly to settle things, so Senya knows she is not just making small talk.
+- 'Well go ahead, speak calmly.' Barinov spotlights one practical expression right here: "spokoyno" means "calmly", and it carries the main weight of what Barinov is saying.
+- 'First turn off your football.' Vika gives this answer toward Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'You asked me to turn off football.' Barinov replies pointedly as they talk, letting the remark speak for itself.
+- 'I do not like boxing at all either.' Vika chooses this telling term in reply: "nravitsya" means "is pleasing", and it carries the main weight of what Vika is saying.

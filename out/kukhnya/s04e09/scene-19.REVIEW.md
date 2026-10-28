@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not expect that you would manage.' Vika shows a candid direction beside Max, weaving "ozhidala" ("to expect, to wait for") together with "spravishsya" ("will manage") just the way native speakers do.
-- 'You were with a child for half a day.' Vika brings a grounded angle on the spot, joining "poldnya" ("half a day") to "byl" ("was") so every word pulls its weight.
-- 'And nothing happened.' Vika conveys a wry direction for Max, joining "sluchilos" ("happened") to "nichego" ("nothing") so every word pulls its weight.
-- 'Well yes, and what could have happened?' Max asks naturally without a pause, combining "moglo" ("can, to be able") and "sluchitsya" ("to happen") so the key meaning lands right away.
-- 'You will not be afraid to stay with our baby.' Vika picks an honest angle at this moment, using "budesh" (from "byt", "will") alongside "boyatsya" ("to fear") to shape the meaning.
-- 'Vika, forgive me, please.' Max favors a resolute angle toward Vika, weaving "prosti" ("sorry, forgive me") together with "vika" ("Vika") just the way native speakers do.
-- 'I should have told the truth about Denis.' Max maintains a measured note right away, pairing "nado" ("it is necessary") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'I will not lie to you anymore.' Max holds a lively tempo right away, anchoring the Russian line on "bolshe" ("more") and "budu" ("will be") without extra filler.
-- 'I will try very hard to tell you the truth.' Max keeps a clear attitude beside Vika, joining "ochen" ("very much") to "postarayus" ("to try") so every word pulls its weight.
-- 'Always?' Vika tests quietly across the room, putting all the weight on "vsegda" ("always") so the reply lands immediately.
-- 'How hard it is for a person to change.' Max establishes a calm rhythm right away, pairing "menyatsya" ("to change") with "kak" ("how") so the "-sya" ending carries the action.
-- 'Someone is simply afraid to do it.' Max takes an easygoing angle in the room, pairing "boitsya" ("is afraid") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'But one thing I know for sure.' Max adopts an easygoing angle toward Vika, anchoring the Russian line on "znayu" ("know") and "tochno" ("definitely") without extra filler.
-- 'For the sake of the person you love, you must change.' Max adopts a firm manner on the spot, pairing "lyubimogo" ("beloved") with "cheloveka" ("a man, a person") to get the point across in plain spoken Russian.
+- 'I did not expect that you would manage.' Vika grounds one direct word in reply: "spravishsya" means "will manage" (from "spravitsya"), giving the line its exact edge.
+- 'You were with a child for half a day.' Vika centers one familiar choice for Max: "rebyonkom" means "child" (from "rebyonok"), giving the line its exact edge.
+- 'And nothing happened.' Vika fires back candidly without a pause, shifting the whole mood of the room in a single beat.
+- 'Well yes, and what could have happened?' Max chooses one telling term on cue: "sluchitsya" means "to happen", and it carries the main weight of what Max is saying.
+- 'You will not be afraid to stay with our baby.' Vika voices the comeback with warmth: the "-sya" ending on "ostavatsya" ("to stay, to remain") turns the action inward or makes it happen between people naturally.
+- 'Vika, forgive me, please.' Pushing back right now, Max says plainly what is on his mind.
+- 'I should have told the truth about Denis.' Max favors this clear expression toward Vika: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'I will not lie to you anymore.' Max grounds one familiar element right here: "bolshe" means "more", and it carries the main weight of what Max is saying.
+- 'I will try very hard to tell you the truth.' Max counters decisively with a shrug, shifting the whole mood of the room in a single beat.
+- 'Always?' Vika anchors this clear piece for Max: "vsegda" means "always", and it carries the main weight of what Vika is saying.
+- 'How hard it is for a person to change.' Max cuts in dryly with a nod, grounding the moment in plain reality.
+- 'Someone is simply afraid to do it.' Max speaks right away as they talk, refusing to let the moment slip past.
+- 'But one thing I know for sure.' Max features this vivid choice right here: "tochno" means "definitely", and it carries the main weight of what Max is saying.
+- 'For the sake of the person you love, you must change.' Max shapes the comment toward Vika: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".

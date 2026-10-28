@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly restore order in the hotel!' Eleonora adopts a resolute style on the spot, anchoring the Russian line on "bystro" ("quickly") and "navedi" ("to establish") without extra filler.
-- 'Otherwise I will throw you out of here.' Eleonora shows a lively view in the scene, linking "inache" ("otherwise"), "otsyuda" ("from here"), and "vyshvyrnu" ("I will throw out") in one brisk exchange.
-- 'And you two listen to me.' Eleonora keeps a steady mood at once, building the phrase around "slushayte" ("listen") and "dvoye" ("two") for a crisp, natural delivery.
-- 'You will work a week with no salary at all.' Eleonora shows a candid tone straight away, building the phrase around "nedelyu" ("for a week") and "rabotayete" ("work") for a crisp, natural delivery.
-- 'And two weeks without days off.' Eleonora maintains a firm manner at this moment, leaning on "nedeli" ("weeks") before closing the thought with "vykhodnykh" ("weekend").
-- 'That is it, get out of here quickly!' Eleonora displays a direct line across the room, combining "bystro" ("quickly") and "poshli" ("let's go") so the key meaning lands right away.
-- 'No, I did not mean that for you.' Mikhail brings a wry attitude in the conversation, leaning on "net" ("no") before closing the thought with "eto" ("this").
-- 'Yes, I am urgently selling a pony.' Mikhail brings a warm tempo in their talk, leaning on "srochno" ("urgent, urgently") before closing the thought with "prodayu" ("I sell").
-- 'I sure am selling it, I am waiting for you.' Mikhail keeps a resolute bearing toward Ainura, anchoring the Russian line on "yeshchyo" ("more, still") and "kak" ("how") without extra filler.
-- 'Ainura, quickly clean everything up here.' Eleonora sustains an earnest footing for Mikhail, linking "bystro" ("quickly"), "uberite" ("take away, remove"), and "zdes" ("here") in one brisk exchange.
-- 'I came to work in Moscow.' Ainura favors a wry rhythm at this moment, joining "priyekhala" ("came, arrived") to "rabotat" ("to work") so every word pulls its weight.
-- 'And now I am cleaning up after a horse.' Ainura displays a clear bearing across the room, linking "teper" ("now"), "ubirayu" ("to clean up"), and "konyom" ("horse, knight") in one brisk exchange.
+- 'Quickly restore order in the hotel!' Eleonora colors one loaded choice in earnest: "poryadok" means "order", and it carries the main weight of what Eleonora is saying.
+- 'Otherwise I will throw you out of here.' Eleonora centers one practical element with Mikhail: "vyshvyrnu" means "I will throw out" (from "vyshvyrnut"), giving the line its exact edge.
+- 'And you two listen to me.' Eleonora counters bluntly on the spot, shifting the whole mood of the room in a single beat.
+- 'You will work a week with no salary at all.' Eleonora uses this vivid detail toward Mikhail: "rabotayete" means "work" (from "rabotat"), giving the line its exact edge.
+- 'And two weeks without days off.' Eleonora chimes in at once without holding back, without trying to dress up how she really feels.
+- 'That is it, get out of here quickly!' Eleonora pushes back honestly to settle things, to clear the air between them once and for all.
+- 'No, I did not mean that for you.' Mikhail continues decisively without holding back, leaving no doubt about where he stands.
+- 'Yes, I am urgently selling a pony.' Mikhail continues lightly to be clear, watching Eleonora's face to see how the news lands.
+- 'I sure am selling it, I am waiting for you.' Mikhail counters lightly facing Ainura, saying out loud what both of them already know.
+- 'Ainura, quickly clean everything up here.' Eleonora uses this vivid element for Mikhail: "uberite" means "take away, remove" (from "ubrat"), giving the line its exact edge.
+- 'I came to work in Moscow.' Ainura speaks up honestly with a nod, shifting the whole mood of the room in a single beat.
+- 'And now I am cleaning up after a horse.' Ainura pushes back dryly with a shrug, bringing things back to earth after the buildup.

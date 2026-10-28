@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I tried to warn him.' Lyova conveys a lively bearing with Barinov, pairing "pytalsya" ("tried") with "predupredit" ("to warn") to get the point across in plain spoken Russian.
-- 'Get out.' Barinov strikes a sharp approach on the spot, weaving "poshyol" ("went, set off") together with "von" ("over there") just the way native speakers do.
-- 'What kind of nonsense is this?' Barinov prompts briskly to Lyova here, leaning on "yerunda" ("trifle, nothing") before closing the thought with "eto" ("this").
-- 'A new service operates in our hotel.' Mikhail takes a direct tone with Lyova, linking "otele" ("in the hotel"), "deystvuyet" ("is in effect"), and "novaya" ("new") in one brisk exchange.
-- 'This is a service for our guests.' Mikhail sustains an easygoing mood straight away, placing "usluga" ("favor, service") straight beside "gostey" ("guests") with no word for "to be" needed.
-- 'You will be able to watch the chef's work.' Mikhail projects a warm tone at once, building the phrase around "smozhete" ("will be able to") and "posmotret" ("to look up") for a crisp, natural delivery.
-- 'This does not interrupt your rest.' Mikhail favors a brisk mood with Barinov, weaving "preryvayet" ("interrupts") together with "otdykh" ("rest") just the way native speakers do.
-- 'I accept that after breakfast.' Mikhail brings a pointed tempo at this moment, leaning on "prinimayu" ("to receive") before closing the thought with "zavtraka" ("breakfast").
-- 'And right now excuse me.' Mikhail favors a direct direction as the scene unfolds, weaving "seychas" ("now") together with "izvini" ("sorry, excuse me") just the way native speakers do.
-- 'You should introduce a new service.' Barinov adopts a brisk posture during the exchange, putting "vvedi" ("introduce") alongside "novuyu" ("new") in a tight, everyday turn of phrase.
-- 'The hotel manager goes straight to the room.' Barinov conveys a natural footing in the conversation, combining "upravlyayushchiy" ("manager") and "idyot" ("goes, is going") so the key meaning lands right away.
-- 'Do not disturb our rest.' Barinov establishes a steady tack on the spot, anchoring the Russian line on "meshay" ("bother") and "otdykhu" ("to the rest") without extra filler.
+- 'I tried to warn him.' Lyova fires back openly toward Barinov, steering the talk right where he wants it.
+- 'Get out.' Barinov stresses one loaded word for Mikhail: "poshyol" means "went, set off" (from "poyti"), giving the line its exact edge.
+- 'What kind of nonsense is this?' Barinov shapes this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'A new service operates in our hotel.' Mikhail speaks plainly beside Lyova, so Lyova knows he is not just making small talk.
+- 'This is a service for our guests.' Mikhail points to this direct touch for Barinov: "usluga" means "favor, service", and it carries the main weight of what Mikhail is saying.
+- 'You will be able to watch the chef's work.' Mikhail favors one classic expression in reply: "posmotret" means "to look up", and it carries the main weight of what Mikhail is saying.
+- 'This does not interrupt your rest.' Mikhail speaks up honestly on the spot, grounding the moment in plain reality.
+- 'I accept that after breakfast.' Mikhail points to one pointed choice with Lyova: "zavtraka" means "breakfast" (from "zavtrak"), giving the line its exact edge.
+- 'And right now excuse me.' Mikhail aims this statement around Barinov: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'You should introduce a new service.' Barinov reacts wryly watching Mikhail, refusing to let the moment slip past.
+- 'The hotel manager goes straight to the room.' Barinov highlights one classic detail at once: "upravlyayushchiy" means "manager", and it carries the main weight of what Barinov is saying.
+- 'Do not disturb our rest.' Barinov voices that reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

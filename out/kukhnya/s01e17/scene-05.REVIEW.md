@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have an announcement.' Barinov gathers the kitchen staff to deliver an announcement.
 - 'We need a seasonal dish.' Barinov explains that they need a new seasonal dish.
 - 'Chef, wait.' Max interrupts to ask his boss to wait.
-- 'You said you wouldn' Max reminds him of his previous claim that he wouldn't be inventing anything.
+- 'You said you wouldn't come up with it.' Max reminds him of his previous claim that he wouldn't be inventing anything.
 - 'And I won't be.' Barinov confirms that he still has no intention of doing the work.
 - 'You will.' Barinov drops the bombshell that the staff will be the ones creating the dish.
 - 'The winner gets a bonus.' Barinov motivates them by offering a cash bonus to the winner.
-- 'And I won' Barinov adds a personal incentive for his apprentice, promising to stop insulting him.
+- 'And I won't call him disabled.' Barinov adds a personal incentive for his apprentice, promising to stop insulting him.
 - 'And the bonus is right away?' Max eagerly asks if the prize money will be paid out immediately.
 - 'The bonus is at the end of the month.' Barinov clarifies that the money only comes at the end of the month.
 - 'But I'll stop calling you disabled right away.' Barinov promises that the name-calling will stop right away, at least.

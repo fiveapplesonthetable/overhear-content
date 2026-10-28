@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fellas, our conversation went the wrong way.' The guest maintains a firm note beside Barinov, combining "muzhiki" ("lads, guys") and "nepravilnyy" ("wrong, incorrect") so the key meaning lands right away.
-- 'I sincerely apologize to you.' The guest offers a playful manner without hesitation, building the phrase around "iskrenne" ("sincerely") and "izvinyayus" ("apologize") for a crisp, natural delivery.
-- 'It is just my nerves and severe lack of sleep.' The guest picks a playful note as the scene unfolds, linking "prosto" ("just") directly with "nervy" ("nerve"), since Russian drops "is" and "are" in the present.
-- 'Let me just help you instead.' The guest holds a brisk approach without hesitation, pairing "davayte" ("let's") with "luchshe" ("better") to get the point across in plain spoken Russian.
-- 'You will assemble the crib faster and leave.' The guest adopts a warm angle toward Barinov, combining "bystreye" ("faster") and "krovatku" ("baby crib") so the key meaning lands right away.
-- 'And I will calmly go to sleep.' The guest conveys a firm stance in front of Max, anchoring the Russian line on "spokoyno" ("calmly") and "spat" ("sleep") without extra filler.
-- 'Well alright, come on in then.' Barinov offers a playful rhythm on the spot, linking "khorosho" ("good, fine"), "togda" ("back then"), and "zakhodi" ("come in") in one brisk exchange.
-- 'Listen, let me take a look at the diagram.' The guest maintains a natural position in front of Max, combining "slushay" ("listen") and "day" ("give") so the key meaning lands right away.
-- 'Pour me some water in the kitchen, please.' The guest shows a serious approach without hesitation, weaving "naley" ("pour") together with "vodichki" ("some water") just the way native speakers do.
-- 'I will bring a glass of cold water right now.' Max favors a playful rhythm in the room, joining "seychas" ("now") to "prinesu" ("I will bring") so every word pulls its weight.
-- 'I will go wash my hands too.' Barinov projects a clear rhythm with the guest, combining "tozhe" ("too") and "poydu" ("go") so the key meaning lands right away.
-- 'Great, I will sort things out quickly here right now.' The guest keeps an easygoing tack at this moment, leaning on "otlichno" ("perfect, great") before closing the thought with "seychas" ("now").
+- 'Fellas, our conversation went the wrong way.' The guest highlights one sharp detail for Barinov: "nepravilnyy" means "wrong, incorrect", and it carries the main weight of what the guest is saying.
+- 'I sincerely apologize to you.' The guest shares the reaction beside Max: the "-sya" ending on "izvinyayus" ("apologize") turns the action inward or makes it happen between people naturally.
+- 'It is just my nerves and severe lack of sleep.' The guest holds firm frankly in this moment, without trying to dress up how he really feels.
+- 'Let me just help you instead.' The guest picks this direct touch for Max: "davayte" means "let's" (from "davat"), giving the line its exact edge.
+- 'You will assemble the crib faster and leave.' The guest colors one familiar touch on cue: "krovatku" means "baby crib" (from "krovatka"), giving the line its exact edge.
+- 'And I will calmly go to sleep.' The guest fires back decisively with a sigh, bringing things back to earth after the buildup.
+- 'Well alright, come on in then.' Barinov grounds one classic touch on cue: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'Listen, let me take a look at the diagram.' The guest chimes in honestly across the room, leaving no doubt about where he stands.
+- 'Pour me some water in the kitchen, please.' The guest steps in evenly in this moment, watching Barinov's face to see how the news lands.
+- 'I will bring a glass of cold water right now.' Max stresses one colorful piece with the guest: "kholodnoy" means "cold" (from "kholodnyy"), giving the line its exact edge.
+- 'I will go wash my hands too.' Barinov jumps in wryly during the talk, testing the guest's reaction in the middle of the exchange.
+- 'Great, I will sort things out quickly here right now.' The guest counters quietly toward Max, making his position completely clear.

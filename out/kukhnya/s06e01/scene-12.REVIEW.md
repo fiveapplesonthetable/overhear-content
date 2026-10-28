@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, let's do it tomorrow.' Eleonora takes a clear tone in the conversation, combining the everyday invitation "davay" ("come on, let us") with "zavtra" ("tomorrow") to give the line its natural spoken rhythm.
-- 'Mom, you look gorgeous.' Katya brings an easygoing tempo without hesitation, pairing "mama" ("mum, mother") with "roskoshno" ("luxuriously") to get the point across in plain spoken Russian.
-- 'Alright, I am joking, I am joking.' Eleonora brings a clear angle in their talk, leaning on "shuchu" ("am joking") before closing the thought with "vse" ("all").
-- 'I told you that I had nothing to do with it.' Eleonora displays a candid position right away, combining "govorila" ("said") and "zdes" ("here") so the key meaning lands right away.
-- 'Forgive me, I was wrong.' Katya takes a measured stance across the room, joining "izvini" ("sorry, excuse me") to "byla" ("was") so every word pulls its weight.
-- 'And where is my betrothed?' Eleonora prompts decisively in this moment, linking "gde" ("where") directly with "suzhenyy" ("betrothed, groom"), since Russian drops "is" and "are" in the present.
-- 'We might be late to the registry office like this.' Eleonora shares a measured attitude at this moment, anchoring the Russian line on "zags" ("registry office") and "mozhem" ("can") without extra filler.
-- 'I already thought that you ran away from me.' Eleonora picks a lively tone with Nagiyev, anchoring the Russian line on "dumala" ("thought") and "sbezhal" ("escaped, ran away") without extra filler.
-- 'I wish, just kidding.' Nagiyev sets a calm mood right away, anchoring the Russian line on "khorosho" ("good, fine") and "shuchu" ("am joking") without extra filler.
-- 'Where would I run from such beauty of yours?' Nagiyev checks earnestly with Katya now, joining "kuda" ("where to") to "sbegu" ("to escape, flee") so every word pulls its weight.
-- 'Let's go, or we will be late to the registry office.' Eleonora offers a firm position beside Katya, joining "poydemte" ("come on, let's go") to "zags" ("registry office") so every word pulls its weight.
-- 'I am running, darling.' Nagiyev strikes a calm manner for Katya, building the phrase around "begu" ("I'm running") and "dorogaya" ("expensive") for a crisp, natural delivery.
+- 'Nikita, let's do it tomorrow.' Eleonora speaks right away as things stand, bringing things back to earth after the buildup.
+- 'Mom, you look gorgeous.' Katya reaches for one telling element on cue: "vyglyadish" means "look" (from "vyglyadet"), giving the line its exact edge.
+- 'Alright, I am joking, I am joking.' Eleonora shares that remark right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I told you that I had nothing to do with it.' Eleonora pushes back bluntly watching Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'Forgive me, I was wrong.' Katya focuses on one clear element with Eleonora: "neprava" means "wrong" (from "nepravyy"), giving the line its exact edge.
+- 'And where is my betrothed?' Eleonora shapes the reaction for Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We might be late to the registry office like this.' Eleonora opens up right away with Katya, watching Katya's face to see how the news lands.
+- 'I already thought that you ran away from me.' Eleonora emphasizes one classic element in earnest: "sbezhal" means "escaped, ran away" (from "sbezhat"), giving the line its exact edge.
+- 'I wish, just kidding.' Nagiyev directs that thought beside Eleonora: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Where would I run from such beauty of yours?' Nagiyev tests wryly if there is more going on behind the scenes.
+- 'Let's go, or we will be late to the registry office.' Eleonora focuses on this telling word toward Katya: "opozdayem" means "will be late" (from "opozdat"), giving the line its exact edge.
+- 'I am running, darling.' Nagiyev gives this update calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

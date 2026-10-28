@@ -34,7 +34,7 @@ STORY = [
 WALK = [
     (0, None, "'Miss, when will we sit at a table?' Guest impatiently asks the manager when they will finally be seated."),
     (1, None, "'Wait one minute, please.' Vika politely asks the customer for just a little more time."),
-    (2, None, "'I am already waiting twenty minutes!' I'm waiting' for the ongoing action, followed by 'already' and 'twenty'."),
+    (2, None, "'I am already waiting twenty minutes!' Looking at his watch impatiently, the angry guest complains that he has already been waiting twenty minutes for a table."),
     (3, None, "'Sorry, the restaurant is very full now.' Vika apologizes, explaining that every seat is currently occupied."),
     (4, None, "'Vika, how are things in the dining room?' Barinov checks in on the chaos happening out front."),
     (5, None, "'Very many new guests today.' Vika reports a massive influx of unfamiliar faces."),

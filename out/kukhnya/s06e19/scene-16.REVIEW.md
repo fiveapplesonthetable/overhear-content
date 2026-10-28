@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have gathered here for the sake of love.' Barinov maintains a clear footing as the scene unfolds, linking "sobralis" ("planned"), "zdes" ("here"), and "lyubvi" ("love") in one brisk exchange.
-- 'We want to unite two loving hearts.' Barinov offers an easygoing tempo as they talk, joining "khotim" ("want") to "soyedinit" ("to unite, join") so every word pulls its weight.
-- 'I want to address the newlyweds now.' Barinov strikes a steady tempo across the room, using "khochu" (from "khotet", "want") alongside "obratitsya" ("to turn") to shape the meaning.
-- 'Nikita, do you agree to take Ekaterina?' Barinov asks bluntly beside Nikita, putting "soglasny" ("agree") alongside "vzyat" ("to take") in a tight, everyday turn of phrase.
-- 'Yes, I completely agree.' Nikita maintains a measured approach in this beat, pairing "polnostyu" ("completely") with "soglasen" ("agreed") to get the point across in plain spoken Russian.
-- 'Ekaterina, do you agree to marry Nikita?' Barinov inquires plainly without a pause, putting "soglasny" ("agree") alongside "vyyti" ("to marry") in a tight, everyday turn of phrase.
-- 'Forgive me, our wedding is called off today.' Katya shows a direct course right away, weaving "prostite" ("excuse me") together with "svadba" ("wedding") just the way native speakers do.
-- 'I do not understand, is this some kind of joke?' Nikita prompts earnestly without hesitation, weaving "ponyal" ("understood") together with "shutka" ("joke, prank") just the way native speakers do.
-- 'Did we cook in vain today, or what?' Barinov checks steadily without hesitation, joining "segodnya" ("today") to "zrya" ("for nothing") so every word pulls its weight.
-- 'A woman can leave at any moment.' Barinov chooses a calm attitude in front of Nikita, building the phrase around "zhenshchina" ("woman") and "mozhet" ("can") for a crisp, natural delivery.
-- 'Then I will probably go now.' Nikita shares a natural note in their talk, building the phrase around "togda" ("back then") and "navernoye" ("probably") for a crisp, natural delivery.
-- 'Of course, there is no one left to marry here.' Barinov strikes an emphatic footing toward Nikita, pairing "konechno" ("of course") with "zhenit" ("to marry off") to get the point across in plain spoken Russian.
+- 'We have gathered here for the sake of love.' Barinov picks one loaded expression right here: "sobralis" means "planned" (from "sobratsya"), giving the line its exact edge.
+- 'We want to unite two loving hearts.' Barinov weighs in right away beside Nikita, shifting the whole mood of the room in a single beat.
+- 'I want to address the newlyweds now.' Barinov replies dryly to settle things, shifting the whole mood of the room in a single beat.
+- 'Nikita, do you agree to take Ekaterina?' Barinov chooses this direct piece in earnest: "yekaterinu" means "ekaterina" (from "yekaterina"), giving the line its exact edge.
+- 'Yes, I completely agree.' Nikita puts this update without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Ekaterina, do you agree to marry Nikita?' Barinov presses sharply what Nikita is actually getting at here.
+- 'Forgive me, our wedding is called off today.' Katya uses one concrete element on cue: "otmenyayetsya" means "is canceled" (from "otmenyatsya"), giving the line its exact edge.
+- 'I do not understand, is this some kind of joke?' Nikita shapes the reaction plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Did we cook in vain today, or what?' Barinov questions eagerly in front of Katya without any preamble.
+- 'A woman can leave at any moment.' Barinov reaches for one classic expression for Nikita: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
+- 'Then I will probably go now.' Nikita opens up lightly in this moment, leaving no doubt about where he stands.
+- 'Of course, there is no one left to marry here.' Barinov replies at once as things stand, letting the remark speak for itself.

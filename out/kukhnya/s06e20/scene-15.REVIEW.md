@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, is it true you are not my father?' Kostya wonders wryly to Barinov here, pairing "skazhi" ("say") with "pravda" ("honestly") to get the point across in plain spoken Russian.
-- 'Were you lying to me all this time?' Kostya probes decisively right away, linking "vral" ("to lie, to tell lies"), "vremya" ("time"), and "ty" ("you") in one brisk exchange.
-- 'No, I did not lie about your mother.' Mikhail takes an easygoing attitude in their talk, pairing "mat" ("mother") with "vral" ("to lie, to tell lies") to get the point across in plain spoken Russian.
-- 'I truly loved her very much.' Mikhail conveys a serious tempo in the conversation, linking "pravda" ("honestly"), "ochen" ("very much"), and "lyubil" ("loved") in one brisk exchange.
-- 'She and I dated for a time.' Mikhail keeps a firm approach with Barinov, linking "vremya" ("time"), "vstrechalis" ("to meet, to date"), and "odno" ("one") in one brisk exchange.
-- 'She married my best friend.' Mikhail takes an earnest approach for Kostya, using "vyshla" (from "vyyti", "married") alongside "luchshego" ("best") to shape the meaning.
-- 'Pack your things and get out of here!' Kostya conveys an unhurried direction at once, using "sobiray" (from "sobirat", "pack, gather") alongside "manatki" ("belongings") to shape the meaning.
-- 'Do not worry, it does not hurt him at all.' Mikhail keeps a resolute rhythm with Kostya, using "volnuytes" (from "volnovatsya", "worry") alongside "sovsem" ("at all") to shape the meaning.
-- 'He cannot feel his legs, after all.' Mikhail strikes a natural tone without hesitation, using "nog" (from "noga", "of feet") alongside "chuvstvuyet" ("feels") to shape the meaning.
-- 'Here is a small tender goose breast.' Barinov adopts a pointed tempo in their talk, pairing "malenkaya" ("small") with "nezhnaya" ("tender") to get the point across in plain spoken Russian.
-- 'The dish is served with delicious pears.' Barinov offers an easygoing rhythm beside Kostya, building the phrase around "blyudo" ("dish") and "podayotsya" ("is served") for a crisp, natural delivery.
-- 'Go into the hall, they will bring everything out to you.' Barinov chooses a frank line toward Mikhail, anchoring the Russian line on "prokhodite" ("come in") and "zal" ("hall") without extra filler.
+- 'Tell me, is it true you are not my father?' Kostya challenges wryly before Barinov can change the subject.
+- 'Were you lying to me all this time?' Kostya frames this vivid choice at once: "vremya" means "time", and it carries the main weight of what Kostya is saying.
+- 'No, I did not lie about your mother.' Mikhail speaks promptly on the spot, letting the remark speak for itself.
+- 'I truly loved her very much.' Mikhail fires back quietly with a shrug, before Kostya can change the subject.
+- 'She and I dated for a time.' Mikhail emphasizes one classic choice with Barinov: "vstrechalis" means "to meet, to date" (from "vstrechatsya"), giving the line its exact edge.
+- 'She married my best friend.' Mikhail speaks plainly hearing Kostya, shifting the whole mood of the room in a single beat.
+- 'Pack your things and get out of here!' Kostya fires back at once to settle things, refusing to let the moment slip past.
+- 'Do not worry, it does not hurt him at all.' Mikhail sharpens one key expression with Kostya: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'He cannot feel his legs, after all.' Mikhail replies openly to settle things, bringing things back to earth after the buildup.
+- 'Here is a small tender goose breast.' Barinov reacts quietly beside Mikhail, to clear the air between them once and for all.
+- 'The dish is served with delicious pears.' Barinov uses this key touch with Kostya: "podayotsya" means "is served" (from "podavatsya"), giving the line its exact edge.
+- 'Go into the hall, they will bring everything out to you.' Barinov anchors one pointed piece toward Mikhail: "prokhodite" means "come in" (from "prokhodit"), giving the line its exact edge.

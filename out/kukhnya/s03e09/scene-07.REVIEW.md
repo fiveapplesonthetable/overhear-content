@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is there a casino located in here?' Max presses firmly in their exchange, building the phrase around "zdes" ("here") and "kazino" ("casino") for a crisp, natural delivery.
-- 'Barinov is here, he called for me.' Max shares a calm bearing straight away, combining "tut" ("here") and "pozval" ("invited") so the key meaning lands right away.
-- 'Alright, then come in here quickly.' The guest offers a serious stance toward Barinov, linking "togda" ("back then"), "zakhodi" ("come in"), and "syuda" ("here") in one brisk exchange.
-- 'Maximka, you have finally arrived!' Barinov shows a calm manner on the spot, leaning on "nakonets-to" ("at last, finally") before closing the thought with "priyekhal" ("came").
-- 'Do you have any money with you?' Barinov questions decisively during the talk, joining "dengi" ("money") to "yest" ("there is") so every word pulls its weight.
-- 'Chef, you did not say anything about money.' Max picks a serious approach in the scene, building the phrase around "govorili" ("talked") and "shef" ("Chef") for a crisp, natural delivery.
-- 'Well, you could have guessed it yourself.' Barinov picks a playful tempo during the exchange, pairing "dogadatsya" ("to guess, to realise") with "vpolne" ("quite") to get the point across in plain spoken Russian.
-- 'Vitya, are you going to keep playing?' The guest presses evenly to keep things clear, leaning on "dalshe" ("next, go on") before closing the thought with "igrat" ("to play").
-- 'Yes, I will, I am betting him.' Barinov conveys a measured direction for the guest, weaving "budu" ("will be") together with "stavlyu" ("put") just the way native speakers do.
-- 'Chef, what on earth are you doing?' Max challenges bluntly from the start, leaning on "delayete" ("are doing") before closing the thought with "shef" ("Chef").
-- 'Be quiet, he is a good, hardworking guy.' Barinov keeps a thoughtful approach across the room, joining "molchi" ("be quiet") to "khoroshiy" ("good") so every word pulls its weight.
-- 'Well alright, let us keep playing.' The guest presents a brisk direction during the exchange, pairing "khorosho" ("good, fine") with "davay" ("let's") to get the point across in plain spoken Russian.
+- 'Is there a casino located in here?' Max grounds this key touch toward Barinov: "nakhoditsya" means "to be located", and it carries the main weight of what Max is saying.
+- 'Barinov is here, he called for me.' Max opens up at once in their talk, leaving no doubt about where he stands.
+- 'Alright, then come in here quickly.' The guest weighs in promptly with Barinov, shifting the whole mood of the room in a single beat.
+- 'Maximka, you have finally arrived!' Barinov points to one concrete element right here: "nakonets-to" means "at last, finally", and it carries the main weight of what Barinov is saying.
+- 'Do you have any money with you?' Barinov brings the thought in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Chef, you did not say anything about money.' Max holds firm evenly around the guest, grounding the moment in plain reality.
+- 'Well, you could have guessed it yourself.' Barinov reaches for this key term toward the guest: "dogadatsya" means "to guess, to realise", and it carries the main weight of what Barinov is saying.
+- 'Vitya, are you going to keep playing?' The guest lays out this warning facing Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Yes, I will, I am betting him.' Barinov fires back warmly in their talk, bringing things back to earth after the buildup.
+- 'Chef, what on earth are you doing?' Max chooses this sharp touch right here: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
+- 'Be quiet, he is a good, hardworking guy.' Barinov counters calmly in this moment, without trying to dress up how he really feels.
+- 'Well alright, let us keep playing.' The guest follows up right away as things stand, letting the remark speak for itself.

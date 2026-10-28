@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Children, please forgive me.' Lyova shows a serious footing at once, weaving "deti" ("kids") together with "prostite" ("excuse me") just the way native speakers do.
-- 'It is not nice to make a beautiful lady wait a long time.' Lyova picks a grounded course right away, linking "nekhorosho" ("not nice, wrong"), "zastavlyat" ("to force, make"), and "krasivuyu" ("pretty") in one brisk exchange.
-- 'Thank you very much for your care.' Lyova sustains a serious mood with Barinov, using "bolshoye" (from "bolshoy", "big, very much") alongside "spasibo" ("thank you") to shape the meaning.
-- 'Viktor Petrovich, I must apologize to you.' Lyova chooses an unhurried note at this moment, combining "dolzhen" ("has to, must") and "izvinitsya" ("to apologise") so the key meaning lands right away.
-- 'I wonder, and what are you apologizing for?' Barinov probes dryly in the room, building the phrase around "interesno" ("interesting") and "izvinyayeshsya" ("apologize") for a crisp, natural delivery.
-- 'During the bet I could see a little bit.' Lyova favors a lively tone at this moment, leaning on "vremya" ("time") before closing the thought with "spora" ("bet").
-- 'My blindfold was slightly transparent.' Lyova sets a thoughtful direction right away, combining "povyazka" ("blindfold, bandage") and "byla" ("was") so the key meaning lands right away.
-- 'I am very ashamed that I cheated.' Lyova takes a grounded line across the room, pairing "ochen" ("very much") with "stydno" ("shameful") to get the point across in plain spoken Russian.
-- 'It is nothing terrible, Lyova, take this money.' Barinov presents a steady direction in this beat, pairing "strashnogo" ("terrible, serious") with "vozmi" ("take, pick up") to get the point across in plain spoken Russian.
-- 'How good that we no longer have to lie.' Katya conveys a candid line right away, linking "kak" ("how"), "khorosho" ("good, fine"), and "bolshe" ("more") in one brisk exchange.
-- 'Actually, Nikita does not know yet.' Katya favors a pointed direction at once, linking "voobshche-to" ("actually"), "poka" ("bye"), and "yeshchyo" ("more, still") in one brisk exchange.
-- 'He flew away on a long business trip this morning.' Katya holds a steady angle in this beat, combining "utrom" ("this morning") and "uletel" ("to fly away") so the key meaning lands right away.
+- 'Children, please forgive me.' Lyova hands over that reply briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'It is not nice to make a beautiful lady wait a long time.' Lyova holds firm at once hearing Katya, steering the talk right where he wants it.
+- 'Thank you very much for your care.' Lyova grounds one familiar word for Barinov: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Viktor Petrovich, I must apologize to you.' Lyova states the reaction to Katya: the "-sya" ending on "izvinitsya" ("to apologise") turns the action inward or makes it happen between people naturally.
+- 'I wonder, and what are you apologizing for?' Barinov prompts bluntly as Katya tries to explain the situation.
+- 'During the bet I could see a little bit.' Lyova sharpens one sharp choice in earnest: "chut-chut" means "a little bit", and it carries the main weight of what Lyova is saying.
+- 'My blindfold was slightly transparent.' Lyova voices that reply in earnest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I am very ashamed that I cheated.' Lyova speaks wryly on the spot, leaving no doubt about where he stands.
+- 'It is nothing terrible, Lyova, take this money.' Barinov anchors this direct term in reply: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
+- 'How good that we no longer have to lie.' Katya offers the comeback with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Actually, Nikita does not know yet.' Katya speaks up right away toward Barinov, bringing things back to earth after the buildup.
+- 'He flew away on a long business trip this morning.' Katya grounds one clear detail for Lyova: "komandirovku" means "business trip" (from "komandirovka"), giving the line its exact edge.

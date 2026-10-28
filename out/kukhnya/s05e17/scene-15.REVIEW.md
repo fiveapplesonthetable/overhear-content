@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, did I already fight with Nagiyev?' Mikhail presses wryly with Barinov now, building the phrase around "uzhe" ("already, now") and "dralsya" ("to fight, to brawl") for a crisp, natural delivery.
-- 'No, you have not fought with anyone yet.' Barinov presents a natural manner in their talk, putting "yeshchyo" ("more, still") alongside "dralsya" ("to fight, to brawl") in a tight, everyday turn of phrase.
-- 'Why does my face hurt so much then?' Mikhail challenges decisively in this moment, linking "pochemu" ("why"), "togda" ("back then"), and "litso" ("face") in one brisk exchange.
-- 'I do not know, you slept on it awkwardly.' Barinov keeps an easygoing posture right away, building the phrase around "znayu" ("know") and "otlezhal" ("made numb by lying on") for a crisp, natural delivery.
-- 'Oh, my head is very heavy.' Mikhail favors a grounded tack for Barinov, anchoring the Russian line on "golova" ("head") and "ochen" ("very much") without extra filler.
-- 'When can I get the promised kisses?' Barinov probes boldly across the room, linking "kogda" ("when"), "poluchu" ("to get, to receive"), and "obeshchannyye" ("promised") in one brisk exchange.
-- 'And how many in total do I owe you?' Katya inquires pointedly without holding back, leaning on "skolko" ("how much, so much") before closing the thought with "dolzhna" ("should, must").
-- 'Let's start with at least one.' Barinov takes a measured stance straight away, combining the everyday invitation "davay" ("come on, let us") with "nachnyom" ("we start") to give the line its natural spoken rhythm.
-- 'Oh, that is Eleonora's car!' Barinov strikes a sharp style in front of Katya, combining "mashina" ("a car") and "oy" ("oh") so the key meaning lands right away.
-- 'That is Dad's and Mom's car!' Katya holds an emphatic line beside Mikhail, using "papina" (from "papin", "dad's, father's") alongside "mamina" ("Mom's") to shape the meaning.
-- 'She will definitely fire me now.' Barinov chooses a lively tone right away, joining "teper" ("now") to "tochno" ("definitely") so every word pulls its weight.
-- 'What are we going to do now?' Katya wonders honestly in this moment, pairing "teper" ("now") with "delat" ("do") to get the point across in plain spoken Russian.
+- 'Vitya, did I already fight with Nagiyev?' Mikhail questions frankly about what Barinov just brought up.
+- 'No, you have not fought with anyone yet.' Listen to how Barinov warns Mikhail with candor — the Russian word "yeshchyo" ("more, still") gives the whole sentence its punch.
+- 'Why does my face hurt so much then?' Mikhail directs this answer without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I do not know, you slept on it awkwardly.' Barinov counters bluntly on the spot, so Mikhail knows he is not just making small talk.
+- 'Oh, my head is very heavy.' Mikhail favors one sharp touch right here: "tyazhyolaya" means "heavy, severe" (from "tyazhyolyy"), giving the line its exact edge.
+- 'When can I get the promised kisses?' Barinov hands over the remark on cue: putting the question word "kogda" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'And how many in total do I owe you?' Katya asks curiously in front of Barinov without any preamble.
+- 'Let's start with at least one.' Barinov grounds this telling term right here: "nachnyom" means "we start" (from "nachat"), giving the line its exact edge.
+- 'Oh, that is Eleonora's car!' Barinov lays out that reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That is Dad's and Mom's car!' Katya proceeds boldly without a pause, watching Mikhail's face to see how the news lands.
+- 'She will definitely fire me now.' Barinov centers one key detail right here: "tochno" means "definitely", and it carries the main weight of what Barinov is saying.
+- 'What are we going to do now?' Katya puts this point in earnest: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.

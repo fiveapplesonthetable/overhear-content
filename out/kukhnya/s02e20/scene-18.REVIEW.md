@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Baby, did you miss me?' Nastya presses calmly as they speak, putting "malysh" ("kid, little one") alongside "skuchal" ("to miss, yearn for") in a tight, everyday turn of phrase.
-- 'And they even brought out the foie gras.' Max chooses a resolute view straight away, putting "yeshche" ("still") alongside "fuagra" ("foie gras") in a tight, everyday turn of phrase.
-- 'Why on earth did we order so much food, huh?' Nastya quizzes pointedly to make the point, joining "zachem" ("what for") to "stolko" ("so many") so every word pulls its weight.
-- 'Look, nobody has room for anything anymore.' Max presents a firm stance in the room, pairing "smotri" ("look") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'And I have a special surprise for everyone.' Nastya presents a grounded tack straight away, using the everyday "u menya" ("by me") alongside "syurpriz" ("surprise") to show what belongs to the speaker.
-- 'A team of true professionals wants to congratulate our newlyweds.' Max establishes an emphatic attitude for Nastya, building the phrase around "pozdravit" ("to congratulate") and "molodykh" ("young") for a crisp, natural delivery.
-- 'The staff of the Claude Monet restaurant.' Nastya presents an easygoing style in the conversation, anchoring the Russian line on "kollektiv" ("staff, collective") and "restorana" ("restaurant") without extra filler.
-- 'I am happy, conquered by the power.' Max maintains a calm tone with Nastya, putting "schastliv" ("happy, lucky") alongside "pokoryonnyy" ("conquered, charmed") in a tight, everyday turn of phrase.
-- 'Of those cornflower-blue eyes.' Nastya strikes a measured approach in the room, leaning on "glaz" ("of eyes") before closing the thought with "sinikh" ("blue, dark blue").
-- 'I want to tell you.' Max takes an earnest course right away, leaning on "khochu" ("want") before closing the thought with "ya" ("I").
-- 'That this song.' Nastya shares a clear stance for Max, weaving "pesnya" ("song") together with "chto" ("what") just the way native speakers do.
-- 'Is for her.' Max establishes a resolute mood at once, using "yeyo" ("her") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'You asked for it.' Nastya brings a brisk view in the room, using "sprosila" (from "sprosit", "asked") alongside "ty" ("you") to shape the meaning.
+- 'Baby, did you miss me?' Nastya challenges bluntly before Max can change the subject.
+- 'And they even brought out the foie gras.' Max anchors one key element on cue: "fuagra" means "foie gras" (from "fua-gra"), giving the line its exact edge.
+- 'Why on earth did we order so much food, huh?' Nastya offers this point right away: putting the question word "zachem" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Look, nobody has room for anything anymore.' Max follows up at once as they talk, leaving no doubt about where he stands.
+- 'And I have a special surprise for everyone.' Nastya emphasizes this direct touch in reply: "syurpriz" means "surprise", and it carries the main weight of what Nastya is saying.
+- 'A team of true professionals wants to congratulate our newlyweds.' Max cuts in lightly during the talk, so Nastya knows he is not just making small talk.
+- 'The staff of the Claude Monet restaurant.' Nastya follows up dryly facing Max, saying out loud what both of them already know.
+- 'I am happy, conquered by the power.' Max frames this sharp touch for Nastya: "pokoryonnyy" means "conquered, charmed", and it carries the main weight of what Max is saying.
+- 'Of those cornflower-blue eyes.' Nastya shares this line calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I want to tell you.' Max speaks promptly with a smile, before Nastya can change the subject.
+- 'That this song.' Nastya features one clear piece for Max: "pesnya" means "song", and it carries the main weight of what Nastya is saying.
+- 'Is for her.' Max aims the remark at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You asked for it.' Nastya continues boldly as things stand, watching Max's face to see how the news lands.

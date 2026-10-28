@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would even say they are a bit too healthy.' Max sustains a steady course in their talk, joining "skazal" ("said") to "perebore" ("overkill, too much") so every word pulls its weight.
-- 'That is what I am saying.' Vika maintains a lively posture across the room, anchoring the Russian line on "govoryu" ("am telling") and "ya" ("I") without extra filler.
-- 'The cutlets are delicious.' Max offers a clear style straight away, joining "kotlety" ("cutlets") to "vkusnyye" ("tasty, delicious") so every word pulls its weight.
-- 'In any case, this is much better than killing animals.' Vika presents a sharp rhythm right away, pairing "lyubom" ("any") with "sluchaye" ("case, event") to get the point across in plain spoken Russian.
-- 'It seems to me that nobody is killing anyone.' Max strikes an earnest mood straight away, pairing "kazhetsya" ("it seems, I think") with "ubivayet" ("to kill, to murder") so the "-sya" ending carries the action.
-- 'There is barely any meat left in sausage nowadays anyway.' Vika shares a serious approach in front of Max, building the phrase around "kolbase-to" ("sausage") and "myasa" ("meat") for a crisp, natural delivery.
-- 'Is that not right, Stepan Andreyevich?' Max wonders evenly at this point, linking "pravda" ("honestly") directly with "andreyevich" ("andreyevich"), since Russian drops "is" and "are" in the present.
-- 'There are no chemicals in my sausage.' Vika brings a wry attitude as they talk, leaning on "kolbase" ("sausage") before closing the thought with "khimii" ("chemistry, chemicals").
-- 'I make honest, good sausage.' Max presents a clear tone as the scene unfolds, using "khoroshaya" (from "khoroshiy", "good") alongside "kolbasa" ("sausage") to shape the meaning.
-- 'Good only because it is made from the corpses of poor animals.' Vika chooses a steady tempo in the conversation, leaning on "khoroshaya" ("good") before closing the thought with "potomu" ("because").
-- 'People love meat!' Max presents a resolute posture at this moment, leaning on "lyudi" ("people") before closing the thought with "lyubyat" ("love, like").
-- 'I love meat!' Vika maintains a clear attitude in the room, combining "lyublyu" ("love") and "myaso" ("meat") so the key meaning lands right away.
-- 'Your cabbage cutlets make me sick.' Max sustains a measured mood beside Vika, linking "kotlet" ("cutlet"), "ot" ("from"), and "tvoikh" ("your") in one brisk exchange.
+- 'I would even say they are a bit too healthy.' Max stands firm boldly to settle things, keeping the focus on what actually matters here.
+- 'That is what I am saying.' Vika features one familiar word with Max: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
+- 'The cutlets are delicious.' Max gives this line in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'In any case, this is much better than killing animals.' Vika follows up evenly as they talk, before Max can change the subject.
+- 'It seems to me that nobody is killing anyone.' Max leans on one loaded expression in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'There is barely any meat left in sausage nowadays anyway.' Vika opens up quietly around Max, saying out loud what both of them already know.
+- 'Is that not right, Stepan Andreyevich?' Max challenges deadpan as Vika tries to explain the situation.
+- 'There are no chemicals in my sausage.' Vika points to one key detail in reply: "kolbase" means "sausage" (from "kolbasa"), giving the line its exact edge.
+- 'I make honest, good sausage.' Max directs that point at once: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Good only because it is made from the corpses of poor animals.' Vika responds candidly to settle things, leaving no doubt about where she stands.
+- 'People love meat!' Max chooses one memorable term in earnest: "lyubyat" means "love, like" (from "lyubit"), giving the line its exact edge.
+- 'I love meat!' Vika brings that point briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Your cabbage cutlets make me sick.' Max stands firm quietly with a smile, leaving no doubt about where he stands.

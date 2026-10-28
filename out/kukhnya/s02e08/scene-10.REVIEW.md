@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktor Petrovich, good afternoon.' Max keeps a candid angle at once, weaving "dobryy" ("good") together with "den" ("day") just the way native speakers do.
-- 'Hello. Yes, hello.' Barinov establishes an honest approach right away, putting all the weight on "allo" ("hello") so the reply lands immediately.
-- 'I wanted to say a huge thank-you for the flowers.' Kostya favors a calm style with Barinov, building the phrase around "khotel" ("wanted") and "skazat" ("tell") for a crisp, natural delivery.
-- 'You are always welcome for the flowers.' Max favors a thoughtful manner at this moment, building the phrase around "vsegda" ("always") and "tsvety" ("the flowers") for a crisp, natural delivery.
-- 'How did you find out they were from me?' Barinov quizzes earnestly for Kostya's benefit, joining "otkuda" ("where from") to "uznali" ("found out, knew") so every word pulls its weight.
-- 'Well, how could I not?' Kostya quizzes naturally during the talk, weaving "kak" ("how") together with "nu" ("oh, come on") just the way native speakers do.
-- 'Just like you.' Max projects a playful course in the room, combining "kak" ("how") and "vy" ("you") so the key meaning lands right away.
-- 'Thank you so very much once again.' Barinov presents a clear bearing straight away, leaning on "yeshche" ("still") before closing the thought with "raz" ("time, once").
-- 'Well, did you talk to my dad?' Kostya challenges calmly in this moment, combining "pogovoril" ("to have a talk") and "papoy" ("dad") so the key meaning lands right away.
-- 'And what did you say to him?' Max probes calmly in their exchange, anchoring the Russian line on "skazal" ("said") and "chto" ("what") without extra filler.
-- 'Did he speak politely with you?' Barinov checks plainly for Kostya's benefit, joining "normalno" ("fine, OK") to "obshchalsya" ("to communicate") so every word pulls its weight.
-- 'Are they coming over to our place tomorrow?' Kostya prompts plainly during the talk, joining "priyedut" ("they'll come") to "zavtra" ("tomorrow") so every word pulls its weight.
-- 'Kostik, come on, do not stay silent, tell me.' Max chooses a warm style in their talk, putting "molchi" ("be quiet") alongside "govori" ("say, talk") in a tight, everyday turn of phrase.
+- 'Hello, Viktor Petrovich, good afternoon.' Max leans on this clear term toward Barinov: "dobryy" means "good", and it carries the main weight of what Max is saying.
+- 'Hello. Yes, hello.' Barinov gives this answer beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I wanted to say a huge thank-you for the flowers.' Kostya speaks up sharply to settle things, steering the talk right where he wants it.
+- 'You are always welcome for the flowers.' Max favors this telling expression with Kostya: "tsvety" means "the flowers" (from "tsvetok"), giving the line its exact edge.
+- 'How did you find out they were from me?' Barinov offers the comeback right away: putting the question word "otkuda" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Well, how could I not?' Kostya tests wryly whether Max really thought this through.
+- 'Just like you.' Max hands over the reply with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Thank you so very much once again.' Barinov directs the comment calmly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Well, did you talk to my dad?' Kostya probes calmly to see how Barinov will answer on the spot.
+- 'And what did you say to him?' Max reaches for one concrete touch for Kostya: "skazal" means "said" (from "skazat"), giving the line its exact edge.
+- 'Did he speak politely with you?' Barinov aims the reply with ease: the "-sya" ending on "obshchalsya" ("to communicate") turns the action inward or makes it happen between people naturally.
+- 'Are they coming over to our place tomorrow?' Kostya prompts deadpan to see how Max will answer on the spot.
+- 'Kostik, come on, do not stay silent, tell me.' Max reaches for one loaded word in earnest: "molchi" means "be quiet" (from "molchat"), giving the line its exact edge.

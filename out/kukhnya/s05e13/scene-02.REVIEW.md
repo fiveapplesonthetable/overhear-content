@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why get so upset right now?' Senya asks sharply in front of Fedya, linking "zachem" ("what for"), "silno" ("strongly, much"), and "rasstraivatsya" ("to get upset") in one brisk exchange.
-- 'You are the one under your wife's thumb!' Fedya adopts a playful rhythm in the conversation, leaning on "zheny" ("wife") before closing the thought with "kablukom" ("heel").
-- 'I simply respect her as a person.' Senya strikes an easygoing tone with Fedya, leaning on "prosto" ("just") before closing the thought with "uvazhayu" ("to respect").
-- 'And what can I do about it?' Senya checks pointedly as they speak, combining "mogu" ("can") and "sdelat" ("to do") so the key meaning lands right away.
-- 'Just imagine the end of the workday.' Fedya establishes an emphatic tone beside Senya, building the phrase around "predstav" ("imagine") and "konets" ("end") for a crisp, natural delivery.
-- 'Formidable Marina suddenly enters the room.' Fedya holds a serious bearing straight away, using "komnatu" (from "komnata", "the room") alongside "vdrug" ("suddenly, what if") to shape the meaning.
-- 'You should already be home, Senya!' Vika establishes a natural mood as they talk, putting "uzhe" ("already, now") alongside "dolzhen" ("has to, must") in a tight, everyday turn of phrase.
-- 'Fedya and I wanted to drink some beer.' Senya sustains an easygoing course in this beat, weaving "khoteli" ("wanted") together with "vypit" ("to drink") just the way native speakers do.
-- 'You already drank beer this month!' Vika shows a wry rhythm on the spot, putting "uzhe" ("already, now") alongside "pil" ("was drinking") in a tight, everyday turn of phrase.
-- 'I have a lot of stress at work!' Senya offers a resolute posture right away, combining "rabote" ("work") and "bolshoy" ("big") so the key meaning lands right away.
-- 'Did you really want to hit me just now?' Vika tests naturally as the beat lands, building the phrase around "pravda" ("honestly") and "khotel" ("wanted") for a crisp, natural delivery.
-- 'No, darling, of course not.' Senya picks a clear approach in the room, combining "dorogaya" ("expensive") and "konechno" ("of course") so the key meaning lands right away.
+- 'Why get so upset right now?' Senya delivers this statement before Fedya: the "-sya" ending on "rasstraivatsya" ("to get upset") turns the action inward or makes it happen between people naturally.
+- 'You are the one under your wife's thumb!' Fedya reacts earnestly with a sigh, watching Vika's face to see how the news lands.
+- 'I simply respect her as a person.' Senya sharpens one memorable term with Fedya: "lichnost" means "person, individuality", and it carries the main weight of what Senya is saying.
+- 'And what can I do about it?' Senya aims this point toward Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Just imagine the end of the workday.' Fedya cuts in at once with a nod, making his position completely clear.
+- 'Formidable Marina suddenly enters the room.' Fedya picks one telling word toward Vika: "groznaya" means "terrible, menacing" (from "groznyy"), giving the line its exact edge.
+- 'You should already be home, Senya!' Vika centers one vivid choice right here: "dolzhen" means "has to, must", and it carries the main weight of what Vika is saying.
+- 'Fedya and I wanted to drink some beer.' Senya stands firm briskly during the talk, watching Vika's face to see how the news lands.
+- 'You already drank beer this month!' Vika picks one key expression right here: "mesyatse" means "month" (from "mesyats"), giving the line its exact edge.
+- 'I have a lot of stress at work!' Senya shapes that thought plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Did you really want to hit me just now?' Vika tests briskly before Fedya can change the subject.
+- 'No, darling, of course not.' Senya anchors this vivid touch toward Vika: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.

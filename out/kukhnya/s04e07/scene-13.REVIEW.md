@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The signature onion soup for the guest is completely ready.' Senya chooses a grounded angle beside German, leaning on "firmennyy" ("signature") before closing the thought with "lukovyy" ("onion").
-- 'Arseny, you have been my ears and eyes.' German sustains a brisk course right away, weaving "byli" ("be") together with "ushami" ("ear") just the way native speakers do.
-- 'Now the time has come to become my right hand.' German displays an unhurried bearing straight away, linking "teper" ("now"), "prishlo" ("to come, to arrive"), and "vremya" ("time") in one brisk exchange.
-- 'I need one small favor from you.' German adopts an earnest bearing in the scene, combining "nuzhno" ("necessary") and "malenkoye" ("small, little") so the key meaning lands right away.
-- 'Pour this sour vinegar into the onion soup.' German establishes a clear tempo in front of Senya, pairing "uksus" ("vinegar") with "naleyte" ("to pour") so the "-sya" ending carries the action.
-- 'German Mikhailovich, I cannot do that!' Senya sets a wry posture on the spot, combining "sdelat" ("to do") and "mogu" ("can") so the key meaning lands right away.
-- 'After all, that is not decent at all, right?' Senya queries calmly without a pause, linking "sovsem" ("at all"), "po-chelovecheski" ("decently"), and "pravda" ("honestly") in one brisk exchange.
-- 'Wait, Arseny, Barinov will leave here tomorrow already.' German brings a pointed approach toward Senya, pairing "podozhdi" ("wait") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'And I will remain here as your head chef!' German holds a wry stance straight away, pairing "ostanus" ("stay") with "zdes" ("here") so the "-sya" ending carries the action.
-- 'And all of you still have to work with me.' German shows a thoughtful rhythm on the spot, building the phrase around "yeshchyo" ("more, still") and "rabotat" ("to work") for a crisp, natural delivery.
-- 'And for how long depends only on me!' German takes a sharp tone in front of Senya, pairing "kak" ("how") with "dolgo" ("for a long time") to get the point across in plain spoken Russian.
-- 'Fine, give me your vinegar here, I will pour it.' Senya offers a sharp line in the conversation, linking "davayte" ("let's"), "syuda" ("here"), and "uksus" ("vinegar") in one brisk exchange.
+- 'The signature onion soup for the guest is completely ready.' Senya chooses one clear choice in earnest: "firmennyy" means "signature", and it carries the main weight of what Senya is saying.
+- 'Arseny, you have been my ears and eyes.' German uses one vivid expression at once: "glazami" means "eyes" (from "glaz"), giving the line its exact edge.
+- 'Now the time has come to become my right hand.' German pushes back right away without any doubt, testing Senya's reaction in the middle of the exchange.
+- 'I need one small favor from you.' German features this direct term in earnest: "malenkoye" means "small, little" (from "malenkiy"), giving the line its exact edge.
+- 'Pour this sour vinegar into the onion soup.' German cuts in pointedly toward Senya, grounding the moment in plain reality.
+- 'German Mikhailovich, I cannot do that!' Senya answers steadily with a shrug, grounding the moment in plain reality.
+- 'After all, that is not decent at all, right?' Senya features one practical term in earnest: "po-chelovecheski" means "decently", and it carries the main weight of what Senya is saying.
+- 'Wait, Arseny, Barinov will leave here tomorrow already.' German continues decisively with a shrug, steering the talk right where he wants it.
+- 'And I will remain here as your head chef!' German proceeds warmly to settle things, so Senya knows he is not just making small talk.
+- 'And all of you still have to work with me.' German grounds one telling piece on cue: "yeshchyo" means "more, still", and it carries the main weight of what German is saying.
+- 'And for how long depends only on me!' German speaks firmly toward Senya, bringing things back to earth after the buildup.
+- 'Fine, give me your vinegar here, I will pour it.' Senya weighs in wryly to settle things, bringing things back to earth after the buildup.

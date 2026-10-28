@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wonder, are they Japanese or Chinese?' Kostya asks wryly as the beat lands, linking "interesno" ("interesting"), "yapontsy" ("Japanese man"), and "kitaytsy" ("Chinese people") in one brisk exchange.
-- 'Can you really not tell them apart at all?' Nastya prompts naturally beside Kostya, weaving "sovsem" ("at all") together with "razlichayesh" ("distinguish") just the way native speakers do.
-- 'Of course, I tell them apart very well.' Kostya establishes a clear direction in the room, building the phrase around "konechno" ("of course") and "ochen" ("very much") for a crisp, natural delivery.
-- 'It turns out these guests arrived from Korea.' Kostya holds a lively tack straight away, weaving "okazyvayetsya" ("to turn out to be") together with "gosti" ("visitors, guests") just the way native speakers do.
-- 'I need to calmly figure myself out.' Katya shows a candid direction toward Kostya, joining "nado" ("it is necessary") to "spokoyno" ("calmly") so every word pulls its weight.
-- 'And what happened yesterday on the roof?' Nastya asks naturally without a pause, pairing "sluchilos" ("happened") with "vchera" ("yesterday") so the "-sya" ending carries the action.
-- 'Did something happen between you and Denis?' Nastya challenges honestly with Katya now, anchoring the Russian line on "bylo" ("was") and "denisom" ("time") without extra filler.
-- 'Did you agree to marry Nikita?' Nastya asks firmly to Kostya here, anchoring the Russian line on "soglasilas" ("to agree") and "vyyti" ("to marry") without extra filler.
-- 'I do not know, I am completely confused.' Katya displays a sharp course for Kostya, combining "znayu" ("know") and "sovsem" ("at all") so the key meaning lands right away.
-- 'Hello, girls, what are you whispering about?' Kostya checks bluntly in the room, building the phrase around "devochki" ("girl's") and "shepchetes" ("whisper to each other") for a crisp, natural delivery.
-- 'Hello, Kostya, we are just chatting.' Katya maintains a measured note in the scene, combining "prosto" ("just") and "boltayem" ("to chatter") so the key meaning lands right away.
-- 'Nastya, your new blouse suits you very well.' Katya strikes a measured tempo in the room, anchoring the Russian line on "ochen" ("very much") and "idyot" ("goes, is going") without extra filler.
+- 'I wonder, are they Japanese or Chinese?' Kostya spotlights one loaded element for Katya: "yapontsy" means "Japanese man" (from "yaponets"), giving the line its exact edge.
+- 'Can you really not tell them apart at all?' Nastya shapes that answer with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Of course, I tell them apart very well.' Kostya cuts in warmly in their talk, without trying to dress up how he really feels.
+- 'It turns out these guests arrived from Korea.' Kostya focuses on one memorable term toward Nastya: "okazyvayetsya" means "to turn out to be" (from "okazyvatsya"), giving the line its exact edge.
+- 'I need to calmly figure myself out.' Katya offers that thought frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'And what happened yesterday on the roof?' Nastya inquires plainly about what Kostya just brought up.
+- 'Did something happen between you and Denis?' Nastya frames this update for Katya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Did you agree to marry Nikita?' Nastya delivers that reply with warmth: the "-sya" ending on "soglasilas" ("to agree") turns the action inward or makes it happen between people naturally.
+- 'I do not know, I am completely confused.' Katya pushes back calmly in their talk, so Kostya knows she is not just making small talk.
+- 'Hello, girls, what are you whispering about?' Kostya colors one concrete expression with Nastya: "devochki" means "girl's" (from "devochka"), giving the line its exact edge.
+- 'Hello, Kostya, we are just chatting.' Katya shares the reaction on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Nastya, your new blouse suits you very well.' Katya replies quietly across the room, keeping the focus on what actually matters here.

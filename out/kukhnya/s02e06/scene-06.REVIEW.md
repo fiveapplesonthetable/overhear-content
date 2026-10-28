@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh come on, do not take it to heart.' Barinov favors a lively rhythm at this moment, leaning on "beri" ("take, grab") before closing the thought with "golovu" ("head").
-- 'It actually worked out better for you.' Kostya establishes an honest tone in front of Barinov, putting "togda" ("back then") alongside "luchshe" ("better") in a tight, everyday turn of phrase.
-- 'That is it, I quit.' Barinov keeps a pointed view across the room, building the phrase around "uvolnyayus" ("quit, resign") and "vsyo" ("everything") for a crisp, natural delivery.
-- 'Attention, Chef!' Kostya picks a grounded line right away, anchoring the Russian line on "tak" ("so") and "shef" ("Chef") without extra filler.
-- 'Good morning!' Barinov shows a lively note beside Kostya, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
-- 'Good morning, Chef.' Kostya shows an honest stance as the scene unfolds, using "dobroye" (from "dobryy", "good") alongside "utro" ("morning") to shape the meaning.
-- 'All right, I salute you.' Barinov offers a natural tempo in their talk, using "privetstvuyu" (from "privetstvovat", "greet") alongside "tak" ("so") to shape the meaning.
-- 'Workers of the knife and the cleaver.' Kostya shows a firm stance in the conversation, joining "rabotnikov" ("workers") to "nozha" ("knife") so every word pulls its weight.
-- 'You guys are having fun in here, huh?' Barinov inquires frankly without a pause, linking "veselo" ("merrily") directly with "tut" ("here"), since Russian drops "is" and "are" in the present.
-- 'Well, how do you like this?' Kostya tests dryly without holding back, pairing "kak" ("how") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'I thought alcohol would destroy your liver first.' Barinov favors an unhurried line as they talk, using "dumal" (from "dumat", "thought") alongside "alkogol" ("alcohol") to shape the meaning.
-- 'But alcohol is a cunning thing.' Kostya brings a frank approach at this moment, placing "khitryy" ("cunning") straight beside "alkogol" ("alcohol") with no word for "to be" needed.
-- 'It started with your brain instead.' Barinov establishes a candid posture on the spot, putting "mozga" ("brain") alongside "nachal" ("started") in a tight, everyday turn of phrase.
+- 'Oh come on, do not take it to heart.' Barinov speaks up frankly watching Kostya, shifting the whole mood of the room in a single beat.
+- 'It actually worked out better for you.' Kostya anchors this sharp touch for Barinov: "luchshe" means "better", and it carries the main weight of what Kostya is saying.
+- 'That is it, I quit.' Barinov drops the comment without fuss: the "-sya" ending on "uvolnyayus" ("quit, resign") turns the action inward or makes it happen between people naturally.
+- 'Attention, Chef!' Kostya holds firm promptly to be clear, letting the remark speak for itself.
+- 'Good morning!' Barinov grounds this vivid detail on cue: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Good morning, Chef.' Kostya gives this point toward Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'All right, I salute you.' Barinov weighs in briskly with a sigh, leaving no doubt about where he stands.
+- 'Workers of the knife and the cleaver.' Kostya focuses on this vivid element at once: "rabotnikov" means "workers" (from "rabotnik"), giving the line its exact edge.
+- 'You guys are having fun in here, huh?' Barinov states that point on cue: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Well, how do you like this?' Kostya quizzes sharply before Barinov can change the subject.
+- 'I thought alcohol would destroy your liver first.' Barinov leans on one clear word toward Kostya: "alkogol" means "alcohol", and it carries the main weight of what Barinov is saying.
+- 'But alcohol is a cunning thing.' Kostya drops the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It started with your brain instead.' Barinov cuts in bluntly around Kostya, making his position completely clear.

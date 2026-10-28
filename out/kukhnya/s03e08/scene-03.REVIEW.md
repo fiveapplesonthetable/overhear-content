@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, come over here quickly.' Nagiyev favors a natural tone toward Barinov, joining "bystro" ("quickly") to "idi" ("go") so every word pulls its weight.
-- 'You are here like a silent reproach from the past.' Nagiyev establishes a natural attitude straight away, pairing "zdes" ("here") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'Tell me, do you want to fire me?' Max wonders promptly as the beat lands, weaving "skazhite" ("tell") together with "khotite" ("want") just the way native speakers do.
-- 'Yes, I want to very much, but I cannot.' Nagiyev displays a lively tack in this beat, combining "ochen" ("very much") and "khochu" ("want") so the key meaning lands right away.
-- 'After all, I gave my honest word.' Nagiyev establishes a frank line for Barinov, putting "dal" ("to give") alongside "chestnoye" ("honest") in a tight, everyday turn of phrase.
-- 'Maxim, go work in the kitchen instead.' Nagiyev chooses an emphatic stance in the room, combining "idi" ("go") and "luchshe" ("better") so the key meaning lands right away.
-- 'Our chef will not take me back.' Max maintains a candid view toward Barinov, pairing "obratno" ("back") with "vozmyot" ("will take, hire") to get the point across in plain spoken Russian.
-- 'Chef, you look very good today.' Max picks a direct line as they talk, anchoring the Russian line on "segodnya" ("today") and "ochen" ("very much") without extra filler.
-- 'Did you dress up so nicely for a wedding?' Max inquires directly in their exchange, linking "svadbu" ("wedding"), "krasivo" ("beautifully"), and "odelis" ("dressed up") in one brisk exchange.
-- 'No, I dressed up for a funeral.' Barinov establishes a calm stance across the room, anchoring the Russian line on "odelsya" ("dressed") and "pokhorony" ("funeral") without extra filler.
-- 'Vitya, why is your cook walking around in the hall?' Nagiyev tests naturally across the room, building the phrase around "pochemu" ("why") and "povar" ("chef, cook") for a crisp, natural delivery.
-- 'Because I kicked him out of the kitchen.' Barinov sets an honest bearing on the spot, weaving "potomu" ("because") together with "kukhni" ("kitchen") just the way native speakers do.
+- 'Maxim, come over here quickly.' Turning back at once, Nagiyev cuts straight through the tension in the room.
+- 'You are here like a silent reproach from the past.' Nagiyev anchors one pointed detail for Max: "proshlogo" means "past" (from "proshlyy"), giving the line its exact edge.
+- 'Tell me, do you want to fire me?' Max puts that point toward Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Yes, I want to very much, but I cannot.' Nagiyev pushes back wryly in their talk, so Max knows he is not just making small talk.
+- 'After all, I gave my honest word.' Nagiyev chooses one vivid term toward Barinov: "chestnoye" means "honest" (from "chestnyy"), giving the line its exact edge.
+- 'Maxim, go work in the kitchen instead.' Nagiyev responds decisively across the room, bringing things back to earth after the buildup.
+- 'Our chef will not take me back.' Max chimes in at once as things stand, refusing to let the moment slip past.
+- 'Chef, you look very good today.' Max emphasizes this telling word toward Nagiyev: "vyglyadite" means "look" (from "vyglyadet"), giving the line its exact edge.
+- 'Did you dress up so nicely for a wedding?' Max aims this point for Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'No, I dressed up for a funeral.' Barinov cuts in earnestly without holding back, saying out loud what both of them already know.
+- 'Vitya, why is your cook walking around in the hall?' Nagiyev points to this key piece for Barinov: "povar" means "chef, cook", and it carries the main weight of what Nagiyev is saying.
+- 'Because I kicked him out of the kitchen.' Barinov answers openly across the room, without trying to dress up how he really feels.

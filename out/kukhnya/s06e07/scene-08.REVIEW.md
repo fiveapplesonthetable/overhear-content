@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Interesting, I will definitely keep that in mind.' Elena sets an honest style at this moment, weaving "interesno" ("interesting") together with "obyazatelno" ("surely, without fail") just the way native speakers do.
-- 'Thank you very much for the good news!' Elena brings a natural course in their talk, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "khoroshiye" ("good") in one brisk exchange.
-- 'Vitya, I have great news for you!' Elena projects a clear angle right away, weaving "otlichnyye" ("excellent") together with "novosti" ("the news") just the way native speakers do.
-- 'It turns out you are completely healthy!' Elena chooses a candid tack right away, pairing "okazyvayetsya" ("to turn out to be") with "sovershenno" ("quite, completely") to get the point across in plain spoken Russian.
-- 'It is so much fun with you tonight!' Nikita brings a direct angle at this moment, anchoring the Russian line on "segodnya" ("today") and "vecherom" ("in the evening") without extra filler.
-- 'Kostya, just do not pour me too much.' Nikita projects a resolute view in their talk, joining "tolko" ("only") to "mnogo" ("a lot") so every word pulls its weight.
-- 'I still want to walk Katya home.' Nikita projects a direct approach in the conversation, building the phrase around "yeshchyo" ("more, still") and "khochu" ("want") for a crisp, natural delivery.
-- 'Maybe then you will drink something lighter?' Kostya inquires openly in the room, anchoring the Russian line on "mozhet" ("can") and "togda" ("back then") without extra filler.
-- 'Boss, trust a professional in this matter.' Kostya strikes an unhurried rhythm at once, linking "nachalnik" ("boss"), "doversya" ("trust"), and "dele" ("case") in one brisk exchange.
-- 'I will make you my signature cocktail.' Kostya projects a resolute posture right away, weaving "sdelayu" ("I'll do") together with "firmennyy" ("signature") just the way native speakers do.
-- 'What kind of interesting cocktail is that?' Nikita presses evenly to Elena here, leaning on "interesnyy" ("interesting") before closing the thought with "kokteyl" ("cocktail").
-- 'Enjoy, it is a gift on the house.' Kostya presents a sharp approach without hesitation, combining "ugoshchaysya" ("help yourself") and "podarok" ("gift, voucher") so the key meaning lands right away.
+- 'Interesting, I will definitely keep that in mind.' Elena answers candidly without holding back, keeping the focus on what actually matters here.
+- 'Thank you very much for the good news!' Elena continues wryly with a sigh, without trying to dress up how she really feels.
+- 'Vitya, I have great news for you!' Elena underscores this clear term in earnest: "otlichnyye" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'It turns out you are completely healthy!' Elena drops this warning with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'It is so much fun with you tonight!' Nikita continues plainly without holding back, leaving no doubt about where he stands.
+- 'Kostya, just do not pour me too much.' Nikita sharpens one vivid piece for Kostya: "nalivay" means "to pour" (from "nalivat"), giving the line its exact edge.
+- 'I still want to walk Katya home.' Nikita jumps in frankly in their talk, shifting the whole mood of the room in a single beat.
+- 'Maybe then you will drink something lighter?' Kostya chimes in earnestly watching Nikita, so Nikita knows he is not just making small talk.
+- 'Boss, trust a professional in this matter.' Kostya emphasizes one loaded touch for Elena: "professionalu" means "professional" (from "professional"), giving the line its exact edge.
+- 'I will make you my signature cocktail.' Kostya favors one concrete term in earnest: "firmennyy" means "signature", and it carries the main weight of what Kostya is saying.
+- 'What kind of interesting cocktail is that?' Nikita quizzes promptly why things suddenly took this turn between them.
+- 'Enjoy, it is a gift on the house.' Kostya anchors this direct choice for Nikita: "ugoshchaysya" means "help yourself" (from "ugoshchatsya"), giving the line its exact edge.

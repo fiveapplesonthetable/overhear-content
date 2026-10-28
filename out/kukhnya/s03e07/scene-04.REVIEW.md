@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In what sense, and why is that so?' Nagiyev checks pointedly for Max's benefit, building the phrase around "smysle" ("sense") and "pochemu" ("why") for a crisp, natural delivery.
-- 'Because she will stay with me.' Max brings an emphatic tempo across the room, anchoring the Russian line on "potomu" ("because") and "ostanetsya" ("will remain") without extra filler.
-- 'Vika, I do not want you to leave with him.' Max keeps a resolute tempo straight away, linking "khochu" ("want"), "uyezzhala" ("left, drove away"), and "vika" ("Vika") in one brisk exchange.
-- 'After all, you and I must be together.' Max keeps a brisk approach as they talk, linking "dolzhny" ("must, should"), "byt" ("be"), and "vmeste" ("together") in one brisk exchange.
-- 'You know, I will tell you this right now.' Nagiyev picks a direct tack in the conversation, joining "znayesh" ("know") to "seychas" ("now") so every word pulls its weight.
-- 'Every person must know his place.' Nagiyev brings an emphatic manner beside Vika, joining "kazhdyy" ("every") to "chelovek" ("a man, a person") so every word pulls its weight.
-- 'For example, I am the owner here.' Nagiyev sustains an emphatic course on the spot, weaving "naprimer" ("for example") together with "zdes" ("here") just the way native speakers do.
-- 'And you simply clear dirty plates.' Nagiyev holds a steady line across the room, linking "prosto" ("just"), "ubirayesh" ("put away"), and "gryaznyye" ("dirty") in one brisk exchange.
-- 'Dima, please, do not speak like that.' Vika establishes a frank attitude in the conversation, anchoring the Russian line on "nado" ("it is necessary") and "govorit" ("to talk") without extra filler.
-- 'You are still very young and foolish.' Nagiyev takes a firm angle in the conversation, combining "yeshchyo" ("more, still") and "sovsem" ("at all") so the key meaning lands right away.
-- 'Alright, go on and get to work quickly.' Nagiyev adopts a frank note at this moment, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
-- 'No, I am not going anywhere from here!' Max maintains a natural manner for Vika, anchoring the Russian line on "nikuda" ("nowhere, anywhere") and "otsyuda" ("from here") without extra filler.
+- 'In what sense, and why is that so?' Nagiyev picks one colorful detail with Max: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
+- 'Because she will stay with me.' Max gives the reaction plainly here: the "-sya" ending on "ostanetsya" ("will remain") turns the action inward or makes it happen between people naturally.
+- 'Vika, I do not want you to leave with him.' Max counters frankly without a pause, keeping the focus on what actually matters here.
+- 'After all, you and I must be together.' Max emphasizes one loaded word on cue: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'You know, I will tell you this right now.' Nagiyev leans on this clear touch right here: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'Every person must know his place.' Nagiyev continues warmly hearing Vika, saying out loud what both of them already know.
+- 'For example, I am the owner here.' Nagiyev picks one clear touch for Max: "khozyain" means "owner", and it carries the main weight of what Nagiyev is saying.
+- 'And you simply clear dirty plates.' Nagiyev lays out that reply for Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Dima, please, do not speak like that.' Vika cuts in pointedly beside Max, steering the talk right where she wants it.
+- 'You are still very young and foolish.' Nagiyev uses this clear term with Vika: "yeshchyo" means "more, still", and it carries the main weight of what Nagiyev is saying.
+- 'Alright, go on and get to work quickly.' Nagiyev brings this statement toward Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'No, I am not going anywhere from here!' Max chimes in warmly with a sigh, to clear the air between them once and for all.

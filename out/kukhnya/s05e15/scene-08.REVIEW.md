@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, how are things going with our edible menu?' Vika inquires sharply toward Max here, combining "tam" ("there") and "syedobnym" ("edible") so the key meaning lands right away.
-- 'Do not worry, I was just about to make it.' Max brings a sharp footing as they talk, pairing "volnuysya" ("worry") with "kak" ("how") so the "-sya" ending carries the action.
-- 'Tell me, have I ever deceived you before?' Max presses promptly right away, pairing "skazhi" ("say") with "kogda-nibud" ("someday, one day") to get the point across in plain spoken Russian.
-- 'Max, hi, here is everything exactly as you asked!' Timur maintains a calm footing on the spot, combining "tochno" ("definitely") and "kak" ("how") so the key meaning lands right away.
-- 'Here is rice paper, edible paints, and a food printer.' Timur brings an honest rhythm in front of Max, weaving "zdes" ("here") together with "risovaya" ("rice") just the way native speakers do.
-- 'Thank you, Timur, you are a true friend, you helped me out a lot!' Max projects a measured attitude on the spot, combining "spasibo" ("thank you") and "nastoyashchiy" ("real, genuine") so the key meaning lands right away.
-- 'Listen, this really is a very cool thing!' Timur chooses a firm style beside Max, putting "slushay" ("listen") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'I should make myself an important document out of such paper.' Timur conveys a calm rhythm at this moment, pairing "nado" ("it is necessary") with "sdelat" ("to do") to get the point across in plain spoken Russian.
-- 'And if there is a sudden inspection, eat it right on the spot!' Timur chooses a resolute note right away, joining "vdrug" ("suddenly, what if") to "proverka" ("a test") so every word pulls its weight.
-- 'Great idea, come on, carry the printer to the kitchen quickly.' Max shows a resolute footing during the exchange, combining the everyday invitation "davay" ("come on, let us") with "otlichnaya" ("excellent") to give the line its natural spoken rhythm.
-- 'Make sure that by evening everything is nicely printed.' Vika takes a grounded mood at this moment, building the phrase around "smotri" ("look") and "vecheru" ("evening") for a crisp, natural delivery.
-- 'It will be done in the best possible way, Victoria Sergeyevna.' Max sustains a grounded view without hesitation, building the phrase around "budet" ("will be") and "sdelano" ("made, done") for a crisp, natural delivery.
+- 'Max, how are things going with our edible menu?' Vika sends that answer in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do not worry, I was just about to make it.' Max continues at once in their talk, watching Vika's face to see how the news lands.
+- 'Tell me, have I ever deceived you before?' Max spotlights one concrete choice in reply: "kogda-nibud" means "someday, one day", and it carries the main weight of what Max is saying.
+- 'Max, hi, here is everything exactly as you asked!' Timur drops the reaction in earnest: opening with the casual greeting "privet" ("hi") signals right away that Timur and Vika are on familiar terms.
+- 'Here is rice paper, edible paints, and a food printer.' Timur continues at once as they talk, making his position completely clear.
+- 'Thank you, Timur, you are a true friend, you helped me out a lot!' Max favors one telling choice in earnest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
+- 'Listen, this really is a very cool thing!' Timur responds plainly without any doubt, shifting the whole mood of the room in a single beat.
+- 'I should make myself an important document out of such paper.' Timur fires back frankly to settle things, before Vika can change the subject.
+- 'And if there is a sudden inspection, eat it right on the spot!' Timur reaches for this key detail on cue: "proverka" means "a test", and it carries the main weight of what Timur is saying.
+- 'Great idea, come on, carry the printer to the kitchen quickly.' Max brings that line with candor: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Make sure that by evening everything is nicely printed.' Vika speaks plainly in their talk, before Max can change the subject.
+- 'It will be done in the best possible way, Victoria Sergeyevna.' Max centers one classic expression right here: "luchshem" means "best" (from "luchshiy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I am really hungry for something.' Max shows a firm attitude straight away, weaving "yest" ("there is") together with "khochetsya" ("want, feel like") just the way native speakers do.
-- 'Will you cook something, huh?' Max presses bluntly as the talk turns, building the phrase around "prigotovish" ("will prepare") and "chto-nibud" ("something") for a crisp, natural delivery.
-- 'Of course I will cook.' Vika displays a brisk attitude in the scene, pairing "konechno" ("of course") with "prigotovlyu" ("will prepare") to get the point across in plain spoken Russian.
-- 'But first give me a kiss.' Vika takes a sharp line in the room, pairing "snachala" ("first, at first") with "potseluy" ("kiss") to get the point across in plain spoken Russian.
-- 'Darling, I am as hungry as a wolf.' Max chooses a steady manner without hesitation, combining "dorogaya" ("expensive") and "golodnyy" ("hungry") so the key meaning lands right away.
-- 'Well hello there.' Vika strikes a wry footing in their talk, using "zdraste" ("hello, hi") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'I missed you so much.' Vika displays a warm view in front of Kostya, joining "soskuchilas" ("missed") to "ya" ("I") so every word pulls its weight.
-- 'Unbelievable.' Max keeps a calm line toward Vika, putting all the weight on "ofiget" ("to unbelievable") so the reply lands immediately.
-- 'She was manipulating me all along!' Max chooses an honest course beside Kostya, anchoring the Russian line on "manipulirovala" ("to along") and "ona" ("it") without extra filler.
-- 'I wish someone would manipulate me like that!' Kostya presses frankly on the spot, weaving "pomanipuliroval" ("to like") together with "kto" ("who") just the way native speakers do.
-- 'Tonight she is definitely going to cook.' Max conveys an honest view beside Kostya, pairing "segodnya" ("today") with "tochno" ("definitely") to get the point across in plain spoken Russian.
-- 'Good luck to you, pal.' Kostya favors a lively tack during the exchange, building the phrase around "udachi" ("luck") and "drug" ("friend") for a crisp, natural delivery.
+- 'Vika, I am really hungry for something.' Max lays out the reaction right away: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
+- 'Will you cook something, huh?' Max questions straight out in front of Vika without any preamble.
+- 'Of course I will cook.' Vika highlights one classic element in reply: "prigotovlyu" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'But first give me a kiss.' Vika directs the remark frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Darling, I am as hungry as a wolf.' Max responds promptly without a pause, so Kostya knows he is not just making small talk.
+- 'Well hello there.' Vika hands over that thought briskly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'I missed you so much.' Vika brings the reaction with warmth: the "-sya" ending on "soskuchilas" ("missed") turns the action inward or makes it happen between people naturally.
+- 'Unbelievable.' Max counters wryly without any doubt, grounding the moment in plain reality.
+- 'She was manipulating me all along!' Max reaches for one classic piece for Kostya: "manipulirovala" means "to along" (from "manipulirovat"), giving the line its exact edge.
+- 'I wish someone would manipulate me like that!' Kostya phrases that point right away: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Tonight she is definitely going to cook.' Max fires back plainly with a nod, leaving no doubt about where he stands.
+- 'Good luck to you, pal.' Kostya favors one memorable element toward Vika: "udachi" means "luck" (from "udacha"), giving the line its exact edge.

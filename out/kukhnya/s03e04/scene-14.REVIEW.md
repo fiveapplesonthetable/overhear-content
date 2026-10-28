@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoria Sergeyevna, my soul! Why aren't you at home?' Nagiyev wonders naturally on the spot, joining "dusha" ("shower") to "doma" ("at home") so every word pulls its weight.
-- 'Why are we sitting at work?' Nagiyev prompts boldly right away, linking "rabote" ("work"), "sidim" ("we are sitting"), and "chego" ("what") in one brisk exchange.
-- 'Why, because we work until the last guest.' Vika displays a playful stance during the exchange, combining "rabotayem" ("we work, let's work") and "poslednego" ("the last") so the key meaning lands right away.
-- 'Are you hinting at me? What guest? I am simply the owner.' Nagiyev challenges boldly across the room, building the phrase around "namekayete" ("are hinting") and "gost" ("guest") for a crisp, natural delivery.
-- 'And the owner is lord! I grant you the night off today.' Nagiyev shares a candid bearing for Barinov, joining "khozyain" ("owner") to "barin" ("master, lord") so every word pulls its weight.
-- 'Let's continue this lucky day!' Barinov maintains a steady bearing in the room, pairing "prodolzhim" ("will continue") with "udachnyy" ("lucky, successful") to get the point across in plain spoken Russian.
-- 'To be honest, not really.' Vika strikes a warm line at once, pairing "chestno" ("honestly") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Whiskey!' Barinov displays a direct tack on the spot, letting the single Russian word "viski" ("whisky") carry the entire reaction on its own.
-- 'Another round? No, I don't want to drink anymore.' Vika checks firmly to make the point, linking "povtorit" ("to repeat, another round"), "khochu" ("want"), and "bolshe" ("more") in one brisk exchange.
-- 'Whiskey? Yes, with cola.' Barinov challenges calmly on the spot, weaving "viski" ("whisky") together with "koloy" ("cola") just the way native speakers do.
-- 'Whiskey with cola, for sure.' Barinov brings an honest mood in their talk, pairing "viski" ("whisky") with "koloy" ("cola") to get the point across in plain spoken Russian.
-- 'And how shall we do it?' Barinov challenges promptly in their exchange, combining "kak" ("how") and "sdelayem" ("we'll do") so the key meaning lands right away.
+- 'Viktoria Sergeyevna, my soul! Why aren't you at home?' Nagiyev shapes this statement with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Why are we sitting at work?' Nagiyev questions candidly in front of Vika without any preamble.
+- 'Why, because we work until the last guest.' Vika features this direct element with Barinov: "poslednego" means "the last" (from "posledniy"), giving the line its exact edge.
+- 'Are you hinting at me? What guest? I am simply the owner.' Nagiyev aims the remark in earnest: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And the owner is lord! I grant you the night off today.' Nagiyev opens up wryly in this moment, grounding the moment in plain reality.
+- 'Let's continue this lucky day!' Barinov picks this vivid detail on cue: "prodolzhim" means "will continue" (from "prodolzhit"), giving the line its exact edge.
+- 'To be honest, not really.' Vika directs that remark calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Whiskey!' Barinov pushes back sharply during the talk, before Vika can change the subject.
+- 'Another round? No, I don't want to drink anymore.' Vika anchors one key expression at once: "povtorit" means "to repeat, another round", and it carries the main weight of what Vika is saying.
+- 'Whiskey? Yes, with cola.' Barinov frames the comeback on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Whiskey with cola, for sure.' Barinov continues honestly watching Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'And how shall we do it?' Barinov chooses one loaded touch toward Vika: "sdelayem" means "we'll do" (from "sdelat"), giving the line its exact edge.

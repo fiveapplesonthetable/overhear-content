@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not expect something like this from you.' Eleonora sets a direct tone for Denis, leaning on "ozhidala" ("to expect, to wait for") before closing the thought with "ot" ("from").
-- 'You get a fine of one month's salary.' Eleonora sustains a natural bearing with Katya, anchoring the Russian line on "shtraf" ("fine") and "razmere" ("in the amount") without extra filler.
-- 'Pass the exact same thing on to our chef.' Eleonora displays a lively view across the room, leaning on "samoye" ("the most") before closing the thought with "pereday" ("pass on, give").
-- 'Yes, please, come in.' Eleonora establishes a frank course in the room, pairing "zakhodite" ("come in") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'Katya, I need to tell you something.' Denis offers an honest stance toward Eleonora, putting "nado" ("it is necessary") alongside "skazat" ("tell") in a tight, everyday turn of phrase.
-- 'Mom, wait one minute.' Katya sustains a direct tack in their talk, linking "mama" ("mum, mother"), "podozhdi" ("wait"), and "minutu" ("a minute") in one brisk exchange.
-- 'Earlier there was no convenient moment.' Katya offers a measured mood as the scene unfolds, combining "ranshe" ("earlier, previously") and "bylo" ("was") so the key meaning lands right away.
-- 'Please, get acquainted now.' Katya sustains a playful position on the spot, leaning on "znakomtes" ("meet") before closing the thought with "seychas" ("now").
-- 'Denis, this is my mom.' Katya takes a playful angle during the exchange, pairing "denis" ("Denis") with "mama" ("mum, mother") so the "-sya" ending carries the action.
-- 'Mom, this is my boyfriend Denis.' Katya adopts a frank view in the scene, pairing "denis" ("Denis") with "mama" ("mum, mother") so the "-sya" ending carries the action.
-- 'Very nice to meet you, Denis.' Eleonora strikes a thoughtful tone in their talk, linking "ochen" ("very much"), "priyatno" ("pleasant"), and "poznakomitsya" ("to meet") in one brisk exchange.
-- 'Very nice to meet you too.' Denis maintains a grounded posture at once, linking "tozhe" ("too"), "ochen" ("very much"), and "priyatno" ("pleasant") in one brisk exchange.
+- 'I did not expect something like this from you.' Eleonora favors one telling touch toward Denis: "ozhidala" means "to expect, to wait for" (from "ozhidat"), giving the line its exact edge.
+- 'You get a fine of one month's salary.' Eleonora grounds this direct piece in reply: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.
+- 'Pass the exact same thing on to our chef.' Eleonora pushes back decisively during the talk, leaving no doubt about where she stands.
+- 'Yes, please, come in.' Eleonora anchors one key detail at once: "zakhodite" means "come in" (from "zakhodit"), giving the line its exact edge.
+- 'Katya, I need to tell you something.' Denis sends the reply right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Mom, wait one minute.' Katya stands firm boldly beside Eleonora, saying out loud what both of them already know.
+- 'Earlier there was no convenient moment.' Katya uses this direct term for Denis: "udobnogo" means "comfortable" (from "udobnyy"), giving the line its exact edge.
+- 'Please, get acquainted now.' Katya makes this warning without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Denis, this is my mom.' Katya speaks sharply with a smile, steering the talk right where she wants it.
+- 'Mom, this is my boyfriend Denis.' Katya spotlights one vivid choice for Eleonora: "paren" means "boyfriend", and it carries the main weight of what Katya is saying.
+- 'Very nice to meet you, Denis.' Eleonora puts the comeback frankly here: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
+- 'Very nice to meet you too.' Denis chimes in honestly across the room, steering the talk right where he wants it.

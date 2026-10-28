@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing much, I just had a scary dream.' Vika strikes a grounded mood for Kostya, linking "strashnyy" ("terrible"), "son" ("dream"), and "prisnilsya" ("appeared in a dream") in one brisk exchange.
-- 'Were you dreaming about clowns?' Kostya queries directly in their exchange, combining "klouny" ("clown") and "snilis" ("to appear in a dream") so the key meaning lands right away.
-- 'Why are the two of you looking at me like that?' Vika asks bluntly with Kostya now, joining "smotrite" ("look") to "chego" ("what") so every word pulls its weight.
-- 'All right, let us go back to sleep.' Kostya keeps a resolute stance with Vika, putting "poydem" ("let's go") alongside "spat" ("sleep") in a tight, everyday turn of phrase.
-- 'Kostik, come on, let us go.' Vika maintains an earnest attitude in the scene, putting "poydem" ("let's go") alongside "kostik" ("Kostik") in a tight, everyday turn of phrase.
-- 'Chef, we have this steak tartare here.' Kostya sets a sharp mood with Vika, combining "tut" ("here") and "tartar" ("tartare") so the key meaning lands right away.
-- 'What is this, a returned dish?' Vika checks boldly without holding back, placing "vozvrat" ("return") straight beside "eto" ("this") with no word for "to be" needed.
-- 'Oh, no, it is not a return.' Kostya picks a pointed rhythm in their talk, putting "vozvrat" ("return") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'Then what is it?' Vika asks bluntly to make the point, linking "chto" ("what") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
-- 'Well, she...' Kostya establishes a pointed tack in this beat, weaving "no" ("but") together with "ona" ("it") just the way native speakers do.
-- 'What happened?' Vika challenges decisively with Kostya now, putting "sluchilos" ("happened") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'There is a monster sitting out in the dining room.' Kostya sets a pointed footing during the exchange, building the phrase around "tam" ("there") and "zale" ("hall") for a crisp, natural delivery.
-- 'I have to destroy it.' Vika displays a calm manner straight away, leaning on "dolzhna" ("should, must") before closing the thought with "unichtozhit" ("to destroy").
+- 'Nothing much, I just had a scary dream.' Vika stresses one clear piece with Kostya: "strashnyy" means "terrible", and it carries the main weight of what Vika is saying.
+- 'Were you dreaming about clowns?' Kostya sends that remark to Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Why are the two of you looking at me like that?' Vika probes point-blank about what Kostya just brought up.
+- 'All right, let us go back to sleep.' Kostya leans on one practical touch for Vika: "poydem" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'Kostik, come on, let us go.' Vika states that point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Chef, we have this steak tartare here.' Kostya answers pointedly with a nod, shifting the whole mood of the room in a single beat.
+- 'What is this, a returned dish?' Vika colors one sharp word for Kostya: "vozvrat" means "return", and it carries the main weight of what Vika is saying.
+- 'Oh, no, it is not a return.' Kostya voices that reply at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Then what is it?' Vika probes promptly before Kostya can change the subject.
+- 'Well, she...' Kostya offers this warning beside Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What happened?' Vika makes the thought around Kostya: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'There is a monster sitting out in the dining room.' Kostya answers openly facing Vika, testing Vika's reaction in the middle of the exchange.
+- 'I have to destroy it.' Vika highlights one clear detail for Kostya: "unichtozhit" means "to destroy", and it carries the main weight of what Vika is saying.

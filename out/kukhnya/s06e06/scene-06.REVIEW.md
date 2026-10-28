@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Should I make you one hot cappuccino?' Kostya questions boldly during the talk, pairing "sdelat" ("to do") with "goryachiy" ("hot") to get the point across in plain spoken Russian.
-- 'Are you still pouting at me?' Nastya challenges boldly without hesitation, leaning on "yeshchyo" ("more, still") before closing the thought with "duyeshsya" ("are pouting").
-- 'They gave me good tips here.' Nastya presents a frank direction across the room, anchoring the Russian line on "tut" ("here") and "khoroshiye" ("good") without extra filler.
-- 'You can put them in the stash for the television.' Nastya holds a grounded position as they talk, weaving "polozhish" ("you'll put") together with "zanachku" ("secret cash stash") just the way native speakers do.
-- 'Kostik, please forgive me.' Nastya shows a frank posture with Barinov, building the phrase around "prosti" ("sorry, forgive me") and "kostik" ("Kostik") for a crisp, natural delivery.
-- 'By the way, they will deliver the wardrobe tonight.' Nastya adopts a warm tempo at this moment, pairing "kstati" ("by the way") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'Do I also have to assemble it myself?' Kostya wonders firmly during the talk, combining "yeshchyo" ("more, still") and "sobrat" ("to collect") so the key meaning lands right away.
-- 'There was not enough money left for assembly.' Nastya maintains an honest approach in front of Kostya, combining "sborku" ("assembly") and "deneg" ("money") so the key meaning lands right away.
-- 'The two of you could not handle one guy!' Barinov establishes a serious mood during the exchange, building the phrase around "vdvoyom" ("the two of us together") and "odolet" ("to overpower") for a crisp, natural delivery.
-- 'And what are we supposed to do next?' Kostya probes warmly beside Nastya, weaving "teper" ("now") together with "delat" ("do") just the way native speakers do.
-- 'Now all that is left is waiting for French grandchildren.' Barinov brings a direct bearing at this moment, anchoring the Russian line on "teper" ("now") and "ostayotsya" ("stays") without extra filler.
-- 'Your mother has been taken very ill over there.' Nastya strikes a firm style for Kostya, leaning on "tam" ("there") before closing the thought with "mame" ("mother, mum").
+- 'Should I make you one hot cappuccino?' Kostya probes candidly where this conversation is heading next.
+- 'Are you still pouting at me?' Nastya favors one concrete term for Kostya: "duyeshsya" means "are pouting" (from "dutsya"), giving the line its exact edge.
+- 'They gave me good tips here.' Nastya follows up openly watching Barinov, without trying to dress up how she really feels.
+- 'You can put them in the stash for the television.' Nastya proceeds dryly before Kostya, to clear the air between them once and for all.
+- 'Kostik, please forgive me.' Nastya centers one practical element at once: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
+- 'By the way, they will deliver the wardrobe tonight.' Nastya sends this point with warmth: opening with "kstati" ("by the way") lets Nastya drop a new detail into the conversation as if it just crossed her mind.
+- 'Do I also have to assemble it myself?' Kostya quizzes briskly as Barinov tries to explain the situation.
+- 'There was not enough money left for assembly.' Nastya spotlights one colorful expression in reply: "sborku" means "assembly" (from "sborka"), giving the line its exact edge.
+- 'The two of you could not handle one guy!' Barinov reaches for this clear element for Kostya: "vdvoyom" means "the two of us together", and it carries the main weight of what Barinov is saying.
+- 'And what are we supposed to do next?' Kostya questions firmly while looking straight at Nastya here.
+- 'Now all that is left is waiting for French grandchildren.' Barinov reaches for one key detail in reply: "frantsuzskikh" means "French" (from "frantsuzskiy"), giving the line its exact edge.
+- 'Your mother has been taken very ill over there.' Nastya lays out this answer plainly here: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".

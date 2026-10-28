@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'This is a real lie detector, Fedya.' Barinov announces sternly as the specialist hooks up the wires."),
-    (1, None, "'Answer only 'yes' or 'no'.' the polygraph examiner instructs before beginning the baseline questions."),
+    (1, None, '\'Answer only "yes" or "no".\' The polygraph examiner sets the rules before beginning the baseline questions.'),
     (2, None, "'Did you go to the neighboring restaurant?' Chef Barinov asks abruptly, getting to the true point of the test."),
     (3, None, "'You are free to go. Call Senya here.' Barinov orders, satisfied that Fedya is not the traitor. Now listen to the full lie detector interrogation once more."),
 ]

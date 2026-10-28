@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, you arrived right in time for lunch!' Senya sustains a wry posture on the spot, linking "prishyol" ("came, have come"), "pryamo" ("right, just"), and "obedu" ("lunch, midday meal") in one brisk exchange.
-- 'Lyova, what is that you have on your head?' Senya asks earnestly with Lyova now, combining "golove" ("the head") and "lyova" ("Lyova") so the key meaning lands right away.
-- 'This is a sign of respect for her culture.' Lyova brings an honest approach across the room, leaning on "znak" ("sign, token") before closing the thought with "uvazheniya" ("respect").
-- 'Yeah right, as if I believed you.' Senya maintains a calm angle with Lyova, pairing "poveril" ("to believe") with "aga" ("yeah, right") to get the point across in plain spoken Russian.
-- 'I cooked a delicious lunch for you today.' Barinov conveys a wry tack in the room, anchoring the Russian line on "vkusnyy" ("delicious") and "obed" ("lunch") without extra filler.
-- 'And you wanted to bury this meat!' Barinov brings an unhurried view at this moment, leaning on "khoteli" ("wanted") before closing the thought with "myaso" ("meat").
-- 'Guys, what is going on with you here?' Lyova checks decisively across the room, weaving "rebyata" ("the boys, the lads") together with "tut" ("here") just the way native speakers do.
-- 'Nothing special, we are just watching.' Senya displays a frank posture straight away, putting "osobennogo" ("special, particular") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'The chef cooked strange meat for our lunch.' Senya projects a warm bearing in the room, joining "strannoye" ("strange, odd") to "myaso" ("meat") so every word pulls its weight.
-- 'Tell me, how are you even eating this?' Senya tests quietly from the start, weaving "skazhi" ("say") together with "kak" ("how") just the way native speakers do.
-- 'In my opinion, this is very good fresh meat.' Lyova brings a wry angle beside Barinov, placing "po-moyemu" ("in my opinion") straight beside "ochen" ("very much") with no word for "to be" needed.
-- 'Eat faster before everything gets cold.' Barinov keeps an easygoing manner in the scene, linking "yeshte" ("eat"), "bystreye" ("faster"), and "poka" ("bye") in one brisk exchange.
+- 'Hello, you arrived right in time for lunch!' Senya states the reply at once: opening with the casual greeting "privet" ("hi") signals right away that Senya and Barinov are on familiar terms.
+- 'Lyova, what is that you have on your head?' Senya tests plainly what Lyova is actually getting at here.
+- 'This is a sign of respect for her culture.' Lyova reaches for this telling touch with Barinov: "uvazheniya" means "respect" (from "uvazheniye"), giving the line its exact edge.
+- 'Yeah right, as if I believed you.' Senya frames one pointed detail in earnest: "poveril" means "to believe" (from "poverit"), giving the line its exact edge.
+- 'I cooked a delicious lunch for you today.' Barinov fires back candidly without any doubt, grounding the moment in plain reality.
+- 'And you wanted to bury this meat!' Barinov centers one practical detail for Senya: "pokhoronit" means "to bury", and it carries the main weight of what Barinov is saying.
+- 'Guys, what is going on with you here?' Lyova frames that thought around Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Nothing special, we are just watching.' Senya pushes back quietly to settle things, making his position completely clear.
+- 'The chef cooked strange meat for our lunch.' Senya underscores one concrete term in earnest: "strannoye" means "strange, odd" (from "strannyy"), giving the line its exact edge.
+- 'Tell me, how are you even eating this?' Senya lays out that line toward Lyova: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'In my opinion, this is very good fresh meat.' Lyova continues quietly before Barinov, so Barinov knows he is not just making small talk.
+- 'Eat faster before everything gets cold.' Barinov emphasizes this sharp term right here: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.

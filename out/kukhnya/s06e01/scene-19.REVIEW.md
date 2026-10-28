@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, I do not even know such illnesses.' Barinov offers a firm bearing in their talk, leaning on "bolezney" ("illnesses, diseases") before closing the thought with "znayu" ("know").
-- 'Your body is very weak.' The doctor strikes an unhurried posture right away, combining "ochen" ("very much") and "slabyy" ("weak") so the key meaning lands right away.
-- 'And your heart is weak.' The doctor strikes a direct course toward Barinov, leaning on "serdtse" ("heart") before closing the thought with "slaboye" ("weak").
-- 'A stroke does not pass without consequences.' The doctor brings an honest approach as they talk, putting "insult" ("stroke") alongside "darom" ("gift, talent") in a tight, everyday turn of phrase.
-- 'And hallucinations do not appear out of nowhere.' The doctor takes a measured course as the scene unfolds, leaning on "gallyutsinatsii" ("hallucinations") before closing the thought with "prosto" ("just").
-- 'And how much time do I have left?' Barinov wonders firmly without hesitation, linking "skolko" ("how much, so much"), "ostalos" ("was left"), and "mne" ("to me") in one brisk exchange.
-- 'Maybe five years, or maybe a year.' The doctor displays a clear manner with Barinov, combining "mozhet" ("can") and "let" ("years") so the key meaning lands right away.
-- 'You need to quit your job.' The doctor sets a calm footing in front of Barinov, pairing "nado" ("it is necessary") with "brosit" ("to drop") to get the point across in plain spoken Russian.
-- 'Quit completely?' Barinov tests warmly at this point, leaning on "brosit" ("to drop") before closing the thought with "sovsem" ("at all").
-- 'Cook calmly at home in your own kitchen.' The doctor maintains a measured tack right away, combining "gotov" ("prepare") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'But no stresses at work.' The doctor brings an emphatic direction in front of Barinov, combining "stressov" ("stresses") and "rabote" ("work") so the key meaning lands right away.
-- 'I heard you.' Barinov adopts an emphatic approach in their talk, anchoring the Russian line on "uslyshal" ("heard") and "ya" ("I") without extra filler.
+- 'Come on, I do not even know such illnesses.' Barinov grounds one key element at once: "bolezney" means "illnesses, diseases" (from "bolezn"), giving the line its exact edge.
+- 'Your body is very weak.' The doctor states the comeback briskly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'And your heart is weak.' The doctor replies firmly across the room, to clear the air between them once and for all.
+- 'A stroke does not pass without consequences.' The doctor points to this key touch toward Barinov: "prokhodit" means "passes", and it carries the main weight of what the doctor is saying.
+- 'And hallucinations do not appear out of nowhere.' The doctor delivers the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And how much time do I have left?' Barinov wonders eagerly in front of the doctor without any preamble.
+- 'Maybe five years, or maybe a year.' The doctor spotlights this direct detail toward Barinov: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'You need to quit your job.' The doctor brings this statement with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Quit completely?' Barinov presses wryly if there is more going on behind the scenes.
+- 'Cook calmly at home in your own kitchen.' The doctor features one sharp word right here: "spokoyno" means "calmly", and it carries the main weight of what the doctor is saying.
+- 'But no stresses at work.' The doctor continues quietly in this moment, refusing to let the moment slip past.
+- 'I heard you.' Barinov reacts evenly with the doctor, letting the remark speak for itself.

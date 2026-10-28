@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything that you have.' Nastya brings a natural rhythm on the spot, pairing "yest" ("there is") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'Even your civic stance.' Vika keeps a calm mood with Nastya, using "grazhdanskaya" (from "grazhdanskiy", "civil, civic") alongside "pozitsiya" ("position, stance") to shape the meaning.
-- 'Is thanks to my cows and pigs.' Nastya takes a grounded position in the room, anchoring the Russian line on "zasluga" ("merit, credit") and "korov" ("cow") without extra filler.
-- 'I do not need anything from you.' Vika conveys an emphatic position straight away, linking "nado" ("it is necessary"), "nichego" ("nothing"), and "ne" ("not") in one brisk exchange.
-- 'He thought I would not survive without his money.' Nastya shares a brisk approach in the room, pairing "dumal" ("thought") with "deneg" ("money") to get the point across in plain spoken Russian.
-- 'So I up and walked right out of the house.' Vika maintains a candid tone in their talk, pairing "vzyala" ("took") with "doma" ("at home") to get the point across in plain spoken Russian.
-- 'And he got offended.' Nastya brings a thoughtful view beside Vika, leaning on "vzyal" ("took") before closing the thought with "obidelsya" ("got offended").
-- 'He has never understood me.' Vika chooses a calm position in the conversation, putting "nikogda" ("never") alongside "ponimal" ("to understand") in a tight, everyday turn of phrase.
-- 'And on top of that, you beat him up.' Nastya holds a sharp tempo at once, anchoring the Russian line on "tut" ("here") and "yeshche" ("still") without extra filler.
-- 'Nastya, listen, give me his phone number.' Vika chooses a resolute mood at once, linking "slushay" ("listen"), "nomer" ("number"), and "telefona" ("phone") in one brisk exchange.
-- 'Tomorrow is my day off.' Nastya displays a lively bearing in front of Vika, linking "zavtra" ("tomorrow") directly with "vykhodnoy" ("a day off"), since Russian drops "is" and "are" in the present.
-- 'I will give him a call and sort everything out.' Vika keeps a resolute approach during the exchange, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
-- 'Stupid meat, it causes nothing but trouble.' Nastya maintains a thoughtful posture in their talk, combining "duratskoye" ("foolish, stupid") and "myaso" ("meat") so the key meaning lands right away.
+- 'Everything that you have.' Nastya shapes the thought right away: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Even your civic stance.' Vika states this warning beside Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Is thanks to my cows and pigs.' Nastya speaks firmly with a nod, shifting the whole mood of the room in a single beat.
+- 'I do not need anything from you.' Vika leans on one clear word toward Nastya: "nado" means "it is necessary", and it carries the main weight of what Vika is saying.
+- 'He thought I would not survive without his money.' Nastya opens up pointedly during the talk, keeping the focus on what actually matters here.
+- 'So I up and walked right out of the house.' Vika chimes in pointedly with a smile, without trying to dress up how she really feels.
+- 'And he got offended.' Nastya points to one familiar touch right here: "obidelsya" means "got offended" (from "obidetsya"), giving the line its exact edge.
+- 'He has never understood me.' Vika gives this statement toward Nastya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'And on top of that, you beat him up.' Nastya proceeds frankly with a sigh, bringing things back to earth after the buildup.
+- 'Nastya, listen, give me his phone number.' Vika emphasizes one colorful element in reply: "telefona" means "phone" (from "telefon"), giving the line its exact edge.
+- 'Tomorrow is my day off.' Nastya offers the comment on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I will give him a call and sort everything out.' Vika counters calmly as they talk, letting the remark speak for itself.
+- 'Stupid meat, it causes nothing but trouble.' Nastya colors this key word right here: "duratskoye" means "foolish, stupid" (from "duratskiy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Dima, and where is your important guest?' Barinov prompts earnestly without hesitation, linking "gde" ("where") directly with "vazhnaya" ("important"), since Russian drops "is" and "are" in the present.
-- 'She is not coming today, yesterday she got poisoned by a sea urchin.' Nagiyev shows a serious position without hesitation, leaning on "segodnya" ("today") before closing the thought with "pridyot" ("will come").
-- 'More precisely, by fresh sea urchin roe at another place.' Nagiyev conveys a clear style right away, building the phrase around "tochneye" ("definitely") and "svezhey" ("fresh") for a crisp, natural delivery.
-- 'She just wrote me a text message about it.' Nagiyev strikes a grounded footing during the exchange, building the phrase around "tolko" ("only") and "soobshcheniye" ("message") for a crisp, natural delivery.
-- 'Well, you will still have to pay for the order!' Barinov favors a brisk rhythm as they talk, building the phrase around "platit" ("to pay") and "zakaz" ("order") for a crisp, natural delivery.
-- 'After all, my culinary masterpiece on the stove is already ready.' Barinov displays an easygoing stance on the spot, linking "kulinarnyy" ("culinary"), "shedevr" ("masterpiece"), and "plite" ("stove") in one brisk exchange.
-- 'Go on, take the plate and carry it to the hall for yourself!' Barinov takes a warm stance in the scene, combining the everyday invitation "davay" ("come on, let us") with "beri" ("take, grab") to give the line its natural spoken rhythm.
-- 'Poor me, I have to do everything myself today!' Nagiyev picks a sharp posture in the conversation, pairing "bednyaga" ("poor thing") with "prikhoditsya" ("to have to") to get the point across in plain spoken Russian.
-- 'Enjoy your meal, dear Dmitry Vladimirovich!' Barinov adopts a measured mood without hesitation, pairing "priyatnogo" ("pleasant") with "appetita" ("appetite") to get the point across in plain spoken Russian.
-- 'And do not forget to bring the money to the register later!' Barinov shows a direct course as they talk, weaving "dengi" ("money") together with "kassu" ("cash register") just the way native speakers do.
-- 'Wait, I will just go wash my hands clean first.' Nagiyev holds an earnest rhythm in the scene, linking "podozhdi" ("wait"), "tolko" ("only"), and "poydu" ("go") in one brisk exchange.
-- 'Cover the dish with a lid for now, let it sit a bit.' Nagiyev sustains a candid style in their talk, building the phrase around "nakroy" ("cover") and "poka" ("bye") for a crisp, natural delivery.
+- 'Hi, Dima, and where is your important guest?' Barinov shapes the thought calmly now: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Nagiyev are on familiar terms.
+- 'She is not coming today, yesterday she got poisoned by a sea urchin.' Nagiyev steps in steadily with a shrug, bringing things back to earth after the buildup.
+- 'More precisely, by fresh sea urchin roe at another place.' Nagiyev favors one classic detail at once: "morskogo" means "sea, marine" (from "morskoy"), giving the line its exact edge.
+- 'She just wrote me a text message about it.' Nagiyev replies promptly beside Barinov, without trying to dress up how he really feels.
+- 'Well, you will still have to pay for the order!' Barinov speaks up candidly before Nagiyev, keeping the focus on what actually matters here.
+- 'After all, my culinary masterpiece on the stove is already ready.' Barinov highlights this vivid detail on cue: "kulinarnyy" means "culinary", and it carries the main weight of what Barinov is saying.
+- 'Go on, take the plate and carry it to the hall for yourself!' Barinov states the thought without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Poor me, I have to do everything myself today!' Nagiyev holds firm lightly across the room, watching Barinov's face to see how the news lands.
+- 'Enjoy your meal, dear Dmitry Vladimirovich!' Barinov frames one memorable element toward Nagiyev: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'And do not forget to bring the money to the register later!' Barinov steps in boldly hearing Nagiyev, shifting the whole mood of the room in a single beat.
+- 'Wait, I will just go wash my hands clean first.' Nagiyev proceeds boldly with a shrug, so Barinov knows he is not just making small talk.
+- 'Cover the dish with a lid for now, let it sit a bit.' Nagiyev points to this sharp detail on cue: "kryshkoy" means "pigeon", and it carries the main weight of what Nagiyev is saying.

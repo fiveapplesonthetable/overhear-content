@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are out of milk.' Barinov holds a firm tone at this moment, joining "moloko" ("milk") to "zakonchilos" ("is over, has ended") so every word pulls its weight.
-- 'Louis, some girl out there wants to see you.' Vika takes a candid line in the room, putting "tam" ("there") alongside "devushka" ("girlfriend") in a tight, everyday turn of phrase.
-- 'What is it, Louis?' Barinov questions dryly right away, combining "chto" ("what") and "lui" ("Louis") so the key meaning lands right away.
-- 'I do not understand what she wants from me.' Barinov presses sharply as they speak, weaving "ponimayu" ("understand") together with "nuzhno" ("necessary") just the way native speakers do.
-- 'Ah, well, apparently she liked it.' Vika shows a lively bearing as the scene unfolds, joining "vidimo" ("apparently") to "ponravilos" ("pleased, was liked") so every word pulls its weight.
-- 'Louis simply walked her home.' Barinov sustains a direct bearing without hesitation, joining "prosto" ("just") to "provodit" ("to spend") so every word pulls its weight.
-- 'So nothing happened at all, right?' Barinov asks evenly in their exchange, doubling the negative with "ne" ("not") and "znachit" ("then, so"), which is standard and required in Russian.
-- 'Hand the three grand back over.' Vika strikes an honest bearing across the room, joining "goni" ("chase away") to "shtuki" ("thing, piece") so every word pulls its weight.
-- 'What three grand?' Louis checks steadily with Barinov now, weaving "shtuki" ("thing, piece") together with "kakiye" ("what") just the way native speakers do.
-- 'Do not touch that!' Barinov projects a steady note for Vika, pairing "trogayte" ("touch") with "ne" ("not") to get the point across in plain spoken Russian.
-- 'Your friend, who is she?' Vika presses calmly at this point, leaning on "podruga" ("female friend") before closing the thought with "ona" ("it").
-- 'Meet Tamara Ivanovna.' Louis presents an earnest mood in this beat, pairing "znakomtes" ("meet") with "eto" ("this") so the "-sya" ending carries the action.
-- 'And you must be Viktor Petrovich, right?' Vika asks boldly without hesitation, pairing "vy" ("you") with "viktor" ("Viktor") to get the point across in plain spoken Russian.
+- 'We are out of milk.' Barinov makes that reply without pause: the "-sya" ending on "zakonchilos" ("is over, has ended") turns the action inward or makes it happen between people naturally.
+- 'Louis, some girl out there wants to see you.' Vika speaks evenly without any doubt, leaving no doubt about where she stands.
+- 'What is it, Louis?' Barinov delivers the reaction before Louis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not understand what she wants from me.' Barinov phrases this answer around Vika: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Ah, well, apparently she liked it.' Vika steps in honestly with a nod, testing Barinov's reaction in the middle of the exchange.
+- 'Louis simply walked her home.' Barinov grounds this telling element toward Vika: "provodit" means "to spend", and it carries the main weight of what Barinov is saying.
+- 'So nothing happened at all, right?' Barinov delivers this answer facing Louis: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Hand the three grand back over.' Vika replies honestly on the spot, grounding the moment in plain reality.
+- 'What three grand?' Louis underscores this direct term toward Barinov: "shtuki" means "thing, piece" (from "shtuka"), giving the line its exact edge.
+- 'Do not touch that!' Barinov drops this statement to Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Your friend, who is she?' Vika inquires deadpan where this conversation is heading next.
+- 'Meet Tamara Ivanovna.' Louis anchors one clear choice toward Vika: "znakomtes" means "meet" (from "znakomitsya"), giving the line its exact edge.
+- 'And you must be Viktor Petrovich, right?' Vika drops this point around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.

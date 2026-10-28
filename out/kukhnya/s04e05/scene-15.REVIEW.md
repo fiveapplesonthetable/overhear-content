@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, when I heard this, I was simply stunned!' Senya displays an honest posture as they talk, building the phrase around "parni" ("guys, boys") and "kogda" ("when") for a crisp, natural delivery.
-- 'Folks, I do not understand, what is this meeting?' Max probes warmly on the spot, linking "druzya" ("friends"), "ponyal" ("understood"), and "sobraniye" ("meeting") in one brisk exchange.
-- 'Tell us honestly, when will they lower our salary?' Fedya asks promptly without hesitation, linking "skazhi" ("say"), "chestno" ("honestly"), and "kogda" ("when") in one brisk exchange.
-- 'And when will they throw us all out onto the street?' Senya inquires dryly in their exchange, building the phrase around "kogda" ("when") and "vygonyat" ("will throw out") for a crisp, natural delivery.
-- 'Guys, what is with you, have you gone completely nuts?' Max questions candidly in this moment, weaving "parni" ("guys, boys") together with "sovsem" ("at all") just the way native speakers do.
-- 'Who on earth told you such nonsense?' Max quizzes dryly to keep things clear, combining "voobshche" ("at all") and "rasskazal" ("told") so the key meaning lands right away.
-- 'We will go to German together right now!' Senya keeps a calm rhythm in their talk, joining "seychas" ("now") to "poydyom" ("let's go") so every word pulls its weight.
-- 'Yes, let's go and find everything out from him!' Fedya favors a serious note in their talk, building the phrase around "poydyom" ("let's go") and "vyyasnim" ("to find out") for a crisp, natural delivery.
-- 'Stop, folks, stand right here in place!' Max establishes a sharp attitude for Fedya, combining "druzya" ("friends") and "postoyte" ("wait") so the key meaning lands right away.
-- 'You do not need to go anywhere right now.' Max conveys a natural approach in the room, joining "nado" ("it is necessary") to "seychas" ("now") so every word pulls its weight.
-- 'I will go to German's office myself.' Max strikes a direct position without hesitation, using "poydu" (from "poyti", "go") alongside "germanu" ("coffee") to shape the meaning.
-- 'And I will arrange for him not to touch your salary.' Max brings a brisk view beside Senya, building the phrase around "dogovoryus" ("to agree, to arrange") and "trogal" ("touched") for a crisp, natural delivery.
+- 'Guys, when I heard this, I was simply stunned!' Senya pushes back boldly hearing Fedya, testing Fedya's reaction in the middle of the exchange.
+- 'Folks, I do not understand, what is this meeting?' Max stresses this vivid detail with Senya: "sobraniye" means "meeting", and it carries the main weight of what Max is saying.
+- 'Tell us honestly, when will they lower our salary?' Fedya brings that remark on cue: putting the question word "kogda" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'And when will they throw us all out onto the street?' Senya asks openly whether Max really thought this through.
+- 'Guys, what is with you, have you gone completely nuts?' Max colors this clear element at once: "rekhnulis" means "to nuts" (from "rekhnutsya"), giving the line its exact edge.
+- 'Who on earth told you such nonsense?' Max offers that thought beside Senya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'We will go to German together right now!' Senya counters plainly in their talk, letting the remark speak for itself.
+- 'Yes, let's go and find everything out from him!' Fedya sharpens this key touch on cue: "vyyasnim" means "to find out" (from "vyyasnit"), giving the line its exact edge.
+- 'Stop, folks, stand right here in place!' Max cuts in firmly without holding back, refusing to let the moment slip past.
+- 'You do not need to go anywhere right now.' Max fires back earnestly without any doubt, keeping the focus on what actually matters here.
+- 'I will go to German's office myself.' Max stresses one clear element with Fedya: "germanu" means "coffee" (from "germana"), giving the line its exact edge.
+- 'And I will arrange for him not to touch your salary.' Max shapes that point briskly now: the "-sya" ending on "dogovoryus" ("to agree, to arrange") turns the action inward or makes it happen between people naturally.

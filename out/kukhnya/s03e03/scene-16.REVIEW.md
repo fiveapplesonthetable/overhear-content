@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, shall we go over the plan one more time?' Max challenges promptly without a pause, anchoring the Russian line on "yeshchyo" ("more, still") and "raz" ("time, once") without extra filler.
-- 'Repetition is the mother of learning.' Rodion maintains a measured view straight away, leaning on "povtoreniye" ("repetition") before closing the thought with "mat" ("mother").
-- 'So, I carefully get under the wheels.' Rodion conveys a firm posture in the room, joining "akkuratno" ("carefully, gently") to "popadayu" ("get under, land") so every word pulls its weight.
-- 'Then you appear, Maxim Leonidovich.' Rodion offers a serious view at once, joining "tut" ("here") to "poyavlyayetes" ("appear") so every word pulls its weight.
-- 'You say that the incident is recorded on the phone.' Rodion sustains a lively direction during the exchange, building the phrase around "govorite" ("say, speak") and "proisshestviye" ("incident, accident") for a crisp, natural delivery.
-- 'And you put forward your demands.' Rodion takes a firm tack during the exchange, weaving "vydvigayete" ("to put forward") together with "trebovaniya" ("demands") just the way native speakers do.
-- 'Excellent. Go ahead!' Max adopts a clear stance in the scene, leaning on "otlichno" ("perfect, great") before closing the thought with "vperyod" ("ahead of").
-- 'There is her car. Go on, Rodion Sergeyevich!' Max shares a lively manner in the room, putting "mashina" ("a car") alongside "davayte" ("let's") in a tight, everyday turn of phrase.
-- 'Should I tear your head off?' Max presses honestly as the beat lands, combining "golovu" ("head") and "otorvat" ("to tear off") so the key meaning lands right away.
-- 'And where is the little lady?' Rodion questions directly beside Max, pairing "gde" ("where") with "damochka" ("little lady") to get the point across in plain spoken Russian.
-- 'I'll show you a little lady right now! Get out of here!' Max sets a serious angle in their talk, pairing "pokazhu" ("will show") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'They buy all these SUVs, you can't tell which one to fall under.' Rodion strikes a frank mood as they talk, weaving "kupyat" ("to buy") together with "dzhipov" ("SUVs, jeeps") just the way native speakers do.
+- 'Well then, shall we go over the plan one more time?' Max spotlights one concrete term on cue: "proydyomsya" means "will go over" (from "proytis"), giving the line its exact edge.
+- 'Repetition is the mother of learning.' Rodion makes this point with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So, I carefully get under the wheels.' Rodion fires back openly with a nod, letting the remark speak for itself.
+- 'Then you appear, Maxim Leonidovich.' Rodion grounds one telling piece on cue: "poyavlyayetes" means "appear" (from "poyavlyatsya"), giving the line its exact edge.
+- 'You say that the incident is recorded on the phone.' Rodion stands firm pointedly across the room, grounding the moment in plain reality.
+- 'And you put forward your demands.' Rodion speaks calmly as things stand, saying out loud what both of them already know.
+- 'Excellent. Go ahead!' Max favors one sharp touch toward Rodion: "otlichno" means "perfect, great", and it carries the main weight of what Max is saying.
+- 'There is her car. Go on, Rodion Sergeyevich!' Max drops the reaction facing Rodion: the word "davayte" is the polite or group version of "let's", inviting Rodion into the plan right away.
+- 'Should I tear your head off?' Max presses firmly in front of Rodion without any preamble.
+- 'And where is the little lady?' Rodion colors this telling piece in reply: "damochka" means "little lady", and it carries the main weight of what Rodion is saying.
+- 'I'll show you a little lady right now! Get out of here!' Max spotlights one pointed piece on cue: "damochku" means "little lady" (from "damochka"), giving the line its exact edge.
+- 'They buy all these SUVs, you can't tell which one to fall under.' Rodion replies openly to settle things, leaving no doubt about where he stands.

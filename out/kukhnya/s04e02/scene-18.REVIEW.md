@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am here for my pay.' Denis takes a resolute tack on the spot, pairing "zdravstvuyte" ("hello") with "dengami" ("the money, funding") to get the point across in plain spoken Russian.
-- 'Today is the big match.' Barinov holds a thoughtful angle in this beat, putting "segodnya" ("today") alongside "igra" ("game") in a tight, everyday turn of phrase.
-- 'Are you a Spartak fan too?' Denis queries boldly toward Barinov here, combining "tozhe" ("too") and "myasnoy" ("meat") so the key meaning lands right away.
-- 'I am a gladiator. Sit down.' Barinov takes a calm view at this moment, joining "gladiator" ("sit") to "sadis" ("sit down") so every word pulls its weight.
-- 'Tomorrow I will show you a great Spartak bar.' Barinov adopts a direct mood in front of Denis, joining "zavtra" ("tomorrow") to "spartakovskiy" ("spartak") so every word pulls its weight.
-- 'I can't, I have to look for a job.' Denis maintains an honest direction with Lyova, leaning on "mogu" ("can") before closing the thought with "rabotu" ("job").
-- 'Alright, it was nice meeting you.' Denis shows a grounded approach in this beat, pairing "priyatno" ("pleasant") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, can I do anything for you as a parting favor?' Lyova questions honestly to keep things clear, weaving "mogu" ("can") together with "sdelat" ("to do") just the way native speakers do.
-- 'You can. Take that young guy back.' Barinov offers a calm line without hesitation, building the phrase around "mozhesh" ("can") and "vozmi" ("take, pick up") for a crisp, natural delivery.
-- 'That is my final request.' Barinov establishes an honest manner during the exchange, using "poslednyaya" (from "posledniy", "last, final") alongside "prosba" ("a request") to shape the meaning.
-- 'Alright, I will.' Lyova sets a direct tone as the scene unfolds, leaning on "khorosho" ("good, fine") as a compact, one-word response that needs no extra words.
-- 'Never give up.' Barinov sets a playful direction at once, building the phrase around "nikogda" ("never") and "sdavaysya" ("give up") for a crisp, natural delivery.
+- 'Hello, I am here for my pay.' Denis speaks calmly with Barinov, steering the talk right where he wants it.
+- 'Today is the big match.' Barinov points to one loaded term right here: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'Are you a Spartak fan too?' Denis states that remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am a gladiator. Sit down.' Barinov speaks earnestly with Lyova, so Lyova knows he is not just making small talk.
+- 'Tomorrow I will show you a great Spartak bar.' Barinov colors this telling choice on cue: "spartakovskiy" means "spartak", and it carries the main weight of what Barinov is saying.
+- 'I can't, I have to look for a job.' Denis shares that reply toward Lyova: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Alright, it was nice meeting you.' Denis steps in evenly before Barinov, so Barinov knows he is not just making small talk.
+- 'Viktor Petrovich, can I do anything for you as a parting favor?' Lyova points to one loaded piece toward Denis: "naposledok" means "favor", and it carries the main weight of what Lyova is saying.
+- 'You can. Take that young guy back.' Barinov weighs in bluntly with Denis, refusing to let the moment slip past.
+- 'That is my final request.' Barinov cuts in candidly across the room, leaving no doubt about where he stands.
+- 'Alright, I will.' Lyova frames one memorable word toward Barinov: "khorosho" means "good, fine", and it carries the main weight of what Lyova is saying.
+- 'Never give up.' Barinov gives this answer facing Lyova: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.

@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Where did the bottle of expensive cognac disappear to?' Vika questions where the bottle of expensive cognac disappeared to."),
-    (1, None, "'Honestly speaking, I don' Kostya admits honestly that he does not know at all."),
+    (1, None, "'Honestly speaking, I don't know at all.' Kostya admits honestly that he does not know at all."),
     (2, None, "'And who should know if not you?' Vika retorts, asking who should know if not him."),
     (3, None, "'Kostya, you need to be fired from your job immediately!' Vika states that Kostya needs to be fired from his job immediately."),
     (4, None, "'It definitely stood here, I remember myself.' Kostya insists the bottle definitely stood there, remembering it clearly."),

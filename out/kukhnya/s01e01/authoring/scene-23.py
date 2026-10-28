@@ -35,7 +35,7 @@ WALK = [
     (0, None, "'You are doing great at everything, Max!' Kostya praises the young cook's impressive culinary effort."),
     (1, None, "'Too bad only that the chef won't appreciate this.' He warns that their boss will inevitably reject it out of spite."),
     (2, None, "'We will see about that yet.' Max refuses to accept defeat before the tasting even happens."),
-    (3, None, "'Why, he won' Kostya predicts the stubborn boss will not even take a bite."),
+    (3, None, "'Why, he won't even taste it!' Kostya predicts the stubborn boss will not even take a bite."),
     (4, None, "'And if he tastes it, he won't like it.' He adds that even if the chef tries it, he will lie about the flavor."),
     (5, None, "'I know our chef very well.' Kostya emphasizes his long history dealing with the erratic boss."),
     (6, None, "'Wait, we need a more objective opinion.' Max realizes he must find a neutral party to judge his food."),

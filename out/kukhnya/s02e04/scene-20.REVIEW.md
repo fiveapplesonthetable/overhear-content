@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Or am I bad, Lyova?' Barinov probes sharply in the room, leaning on "plokhoy" ("bad") before closing the thought with "ili" ("or").
-- 'You just have a hard time admitting your mistakes.' Sasha shares a clear approach with Lyova, anchoring the Russian line on "tolko" ("only") and "oshibki" ("mistakes") without extra filler.
-- 'Give me three.' Lyova projects a calm angle straight away, building the phrase around "davay" ("let's") and "tri" ("three") for a crisp, natural delivery.
-- 'But the truth is.' Barinov sets a playful line without hesitation, linking "pravda" ("honestly"), "no" ("but"), and "tom" ("that") in one brisk exchange.
-- 'That we ourselves choose.' Sasha shows an earnest manner for Barinov, using "vybirayem" (from "vybirat", "choose") alongside "chto" ("what") to shape the meaning.
-- 'Whether to live in a world of illusions.' Lyova establishes a playful footing during the exchange, joining "zhit" ("to live") to "mire" ("world") so every word pulls its weight.
-- 'Or leave the past behind and move forward.' Barinov maintains a thoughtful direction for Lyova, pairing "dvigatsya" ("to move") with "ostavit" ("to keep, to leave") so the "-sya" ending carries the action.
-- 'Sometimes making that choice is very simple.' Sasha displays a pointed stance in the room, combining the softening word "prosto" ("simply, just") with "inogda" ("sometimes, at times") to give the line its natural spoken rhythm.
-- 'Did you order pizza?' Lyova inquires lightly without holding back, building the phrase around "pitstsu" ("pizza, pizza place") and "zakazali" ("ordered") for a crisp, natural delivery.
-- 'Finally, come on in.' Barinov chooses a natural view beside Sasha, building the phrase around "nakonets-to" ("at last, finally") and "zakhodi" ("come in") for a crisp, natural delivery.
-- 'Come in. Hi.' Sasha sustains a candid angle for Barinov, pairing "zakhodi" ("come in") with "privet" ("hi") to get the point across in plain spoken Russian.
-- 'Where are your bags?' Lyova prompts candidly to make the point, weaving "veshchi" ("things") together with "gde" ("where") just the way native speakers do.
-- 'I am sorry, okay?' Barinov queries naturally with Lyova now, building the phrase around "izvini" ("sorry, excuse me") and "ty" ("you") for a crisp, natural delivery.
+- 'Or am I bad, Lyova?' Barinov voices that answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You just have a hard time admitting your mistakes.' Sasha opens up firmly with a smile, shifting the whole mood of the room in a single beat.
+- 'Give me three.' Lyova underscores this vivid detail at once: "davay" means "let's" (from "davat"), giving the line its exact edge.
+- 'But the truth is.' Barinov sends that line briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That we ourselves choose.' Sasha steps in decisively without holding back, without trying to dress up how she really feels.
+- 'Whether to live in a world of illusions.' Lyova anchors this telling term right here: "illyuziy" means "illusion" (from "illyuziya"), giving the line its exact edge.
+- 'Or leave the past behind and move forward.' Barinov chimes in steadily in their talk, so Lyova knows he is not just making small talk.
+- 'Sometimes making that choice is very simple.' Sasha pushes back frankly with a shrug, grounding the moment in plain reality.
+- 'Did you order pizza?' Lyova uses one colorful word at once: "pitstsu" means "pizza, pizza place" (from "pitstsa"), giving the line its exact edge.
+- 'Finally, come on in.' Barinov gives the remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Come in. Hi.' Sasha stands firm boldly as things stand, shifting the whole mood of the room in a single beat.
+- 'Where are your bags?' Lyova stresses this clear expression right here: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
+- 'I am sorry, okay?' Barinov sends this statement for Lyova: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.

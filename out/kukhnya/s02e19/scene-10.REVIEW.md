@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, single-celled organisms.' Barinov chooses a brisk line on the spot, anchoring the Russian line on "odnokletochnyye" ("single-celled") and "tak" ("so") without extra filler.
-- 'Everyone is dismissed, see you tomorrow.' Vika picks a warm rhythm straight away, linking "svobodny" ("free") directly with "zavtra" ("tomorrow"), since Russian drops "is" and "are" in the present.
-- 'Bye, everyone.' Barinov shows a steady line with Vika, putting "poka" ("bye") alongside "vsem" ("everyone") in a tight, everyday turn of phrase.
-- 'More orders just came in, a party of eight arrived.' Vika projects a firm bearing straight away, leaning on "yeshchyo" ("more, still") before closing the thought with "zakazy" ("orders").
-- 'What more orders? It is time to go home.' Barinov tests firmly with Vika now, linking "yeshchyo" ("more, still"), "zakazy" ("orders"), and "domoy" ("home") in one brisk exchange.
-- 'It is time to go home.' Vika picks an unhurried stance in the room, combining "domoy" ("home") and "pora" ("it's time") so the key meaning lands right away.
-- 'But Viktoriya Sergeyevna said.' Barinov sets a wry footing in the conversation, combining "skazala" ("told") and "viktoriya" ("Victoria") so the key meaning lands right away.
-- 'That these are very important guests.' Vika offers a sharp view right away, building the phrase around "ochen" ("very much") and "vazhnyye" ("important") for a crisp, natural delivery.
-- 'Well, just make it quick.' Barinov shares a serious view as the scene unfolds, joining "tolko" ("only") to "pobystreye" ("faster, more quickly") so every word pulls its weight.
-- 'Everything tastes so delicious.' Vika conveys a natural bearing for Barinov, weaving "kak" ("how") together with "vkusnenko" ("deliciously") just the way native speakers do.
-- 'Well then, thank you so much for the late dinner.' Barinov picks a thoughtful line in this beat, joining "spasibo" ("thank you") to "pozdniy" ("hour") so every word pulls its weight.
-- 'Wait, I do not get it.' Vika adopts a pointed tempo beside Barinov, weaving "ponyal" ("understood") together with "ne" ("not") just the way native speakers do.
-- 'Thanks a lot, guys.' Barinov offers a natural tone for Vika, pairing "rebyata" ("the boys, the lads") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
+- 'Alright, single-celled organisms.' Barinov anchors one practical touch right here: "odnokletochnyye" means "single-celled" (from "odnokletochnyy"), giving the line its exact edge.
+- 'Everyone is dismissed, see you tomorrow.' Vika makes that remark frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Bye, everyone.' Barinov steps in right away on the spot, keeping the focus on what actually matters here.
+- 'More orders just came in, a party of eight arrived.' Vika leans on this direct element right here: "kompaniya" means "the company", and it carries the main weight of what Vika is saying.
+- 'What more orders? It is time to go home.' Barinov shares that remark in earnest: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
+- 'It is time to go home.' Vika holds firm earnestly on the spot, making her position completely clear.
+- 'But Viktoriya Sergeyevna said.' Barinov spotlights one telling expression right here: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'That these are very important guests.' Vika delivers the comeback around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, just make it quick.' Barinov opens up lightly in their talk, keeping the focus on what actually matters here.
+- 'Everything tastes so delicious.' Vika emphasizes this vivid piece in reply: "vkusnenko" means "deliciously" (from "vkusno"), giving the line its exact edge.
+- 'Well then, thank you so much for the late dinner.' Barinov frames the reply facing Vika: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Wait, I do not get it.' Vika reacts promptly as things stand, letting the remark speak for itself.
+- 'Thanks a lot, guys.' Barinov uses this telling piece right here: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, new guests just walked up to the table over there.' Ilya picks a direct footing in the room, pairing "slushay" ("listen") with "tam" ("there") to get the point across in plain spoken Russian.
-- 'Hi, girls! I am so glad to see you!' Sasha brings a resolute posture in the scene, putting "devochki" ("girl's") alongside "rada" ("glad") in a tight, everyday turn of phrase.
-- 'Whoa, Sasha, tell me, are you pregnant?' Ilya asks plainly from the start, leaning on "skazhi" ("say") before closing the thought with "beremenna" ("pregnant").
-- 'Well of course I am pregnant, does it not show?' Sasha questions lightly during the talk, linking "konechno" ("of course"), "beremenna" ("pregnant"), and "vidno" ("one can see") in one brisk exchange.
-- 'Alright, I will go say hello to all the guys.' Sasha holds an unhurried view on the spot, pairing "poydu" ("go") with "rebyatami" ("kids, guys") to get the point across in plain spoken Russian.
-- 'Hi, Sasha! How beautiful you have become!' Max maintains a grounded tone without hesitation, pairing "krasivaya" ("pretty, beautiful") with "stala" ("have become") to get the point across in plain spoken Russian.
-- 'I am so glad to see all of you too!' Sasha brings a brisk angle for Ilya, linking "tozhe" ("too"), "rada" ("glad"), and "videt" ("to see") in one brisk exchange.
-- 'Pregnancy really only makes you more beautiful.' Max presents an emphatic stance at once, anchoring the Russian line on "beremennost" ("pregnancy") and "pravda" ("honestly") without extra filler.
-- 'Well, how is Ilya? Is he getting ready to become a father?' Max questions boldly to keep things clear, building the phrase around "kak" ("how") and "gotovitsya" ("is preparing") for a crisp, natural delivery.
-- 'Wait, Max, what does Ilya have to do with this?' Sasha quizzes earnestly without a pause, putting "podozhdi" ("wait") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'What do you mean what does Ilya have to do with this?' Max probes warmly with Ilya now, building the phrase around "smysle" ("sense") and "zdes" ("here") for a crisp, natural delivery.
-- 'In the sense that he and I broke up.' Sasha sets a playful posture in their talk, anchoring the Russian line on "smysle" ("sense") and "razoshlis" ("broke up, parted ways") without extra filler.
-- 'What made you think that the baby is Ilya's?' Sasha inquires earnestly to Ilya here, weaving "reshil" ("has decided") together with "rebyonok" ("a child") just the way native speakers do.
+- 'Listen, new guests just walked up to the table over there.' Ilya holds firm earnestly with a nod, before Max can change the subject.
+- 'Hi, girls! I am so glad to see you!' Sasha continues firmly with a smile, making her position completely clear.
+- 'Whoa, Sasha, tell me, are you pregnant?' Ilya chooses one clear touch at once: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
+- 'Well of course I am pregnant, does it not show?' Sasha delivers this point without pause: starting the question with "razve" ("really?, is it true that...?") shows Sasha is pushing back against what she just heard.
+- 'Alright, I will go say hello to all the guys.' Sasha proceeds boldly with a sigh, grounding the moment in plain reality.
+- 'Hi, Sasha! How beautiful you have become!' Max picks one practical choice at once: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'I am so glad to see all of you too!' Sasha leans on this vivid piece in reply: "rada" means "glad", and it carries the main weight of what Sasha is saying.
+- 'Pregnancy really only makes you more beautiful.' Max follows up firmly with a shrug, making his position completely clear.
+- 'Well, how is Ilya? Is he getting ready to become a father?' Max underscores this key piece for Ilya: "gotovitsya" means "is preparing", and it carries the main weight of what Max is saying.
+- 'Wait, Max, what does Ilya have to do with this?' Sasha offers the reaction briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'What do you mean what does Ilya have to do with this?' Max presses straight out while looking straight at Ilya here.
+- 'In the sense that he and I broke up.' Sasha spotlights one key element right here: "razoshlis" means "broke up, parted ways" (from "razoytis"), giving the line its exact edge.
+- 'What made you think that the baby is Ilya's?' Sasha gives the comeback with ease: putting the question word "chto" right at the front of the line lets Ilya hear the point of the question on the very first beat.

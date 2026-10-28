@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That you beat up my husband.' Kostya takes an emphatic mood at this moment, building the phrase around "izbili" ("to beat up") and "muzha" ("husband") for a crisp, natural delivery.
-- 'Mom, first of all, it was not Kostya's fault.' Nastya conveys a sharp angle across the room, weaving "mama" ("mum, mother") together with "vo-pervykh" ("first of all") just the way native speakers do.
-- 'And secondly, he feels ashamed about it anyway.' Kostya conveys a thoughtful rhythm at once, building the phrase around "vo-vtorykh" ("second") and "ravno" ("the same") for a crisp, natural delivery.
-- 'Tell her, Kostya.' Nastya shows an easygoing rhythm in this beat, anchoring the Russian line on "skazhi" ("say") and "kostya" ("Kostya") without extra filler.
-- 'Tell her that you are ashamed.' Kostya conveys a resolute rhythm in the scene, using "skazhi" (from "skazat", "say") alongside "stydno" ("shameful") to shape the meaning.
-- 'I am ashamed.' Nastya adopts a warm mood toward Kostya, linking "stydno" ("shameful") directly with "mne" ("to me"), since Russian drops "is" and "are" in the present.
-- 'Nastya, may I go back to work now?' Kostya questions dryly across the room, anchoring the Russian line on "poydu" ("go") and "nastya" ("Nastya") without extra filler.
-- 'Come visit us at our house on Saturday.' Nastya favors a wry angle in their talk, weaving "priyezzhay" ("come") together with "subbotu" ("Saturday") just the way native speakers do.
-- 'And let us put an end to this foolish conflict.' Kostya projects a measured tempo on the spot, building the phrase around "zakonchim" ("finish") and "glupyy" ("stupid") for a crisp, natural delivery.
-- 'Why do the two of you not come visit Kostya and me instead.' Nastya sustains a playful tack at once, joining "priyezzhayte" ("to come, to arrive") to "tak" ("so") so every word pulls its weight.
-- 'Nastya, darling, you come visit us, and I will drop by another time.' Kostya displays a firm line at this moment, putting "dorogaya" ("expensive") alongside "poyezzhay" ("drive, go") in a tight, everyday turn of phrase.
-- 'Here is how it is going to be.' Nastya conveys a firm note beside Kostya, leaning on "znachit" ("then, so") before closing the thought with "tak" ("so").
-- 'I am afraid that will be very hard to explain to Dad.' Kostya favors an earnest mood in front of Nastya, anchoring the Russian line on "boyus" ("am afraid") and "pape" ("to Dad") without extra filler.
+- 'That you beat up my husband.' Kostya speaks promptly with a nod, refusing to let the moment slip past.
+- 'Mom, first of all, it was not Kostya's fault.' Nastya emphasizes this sharp touch at once: "vo-pervykh" means "first of all", and it carries the main weight of what Nastya is saying.
+- 'And secondly, he feels ashamed about it anyway.' Kostya fires back steadily beside Nastya, to clear the air between them once and for all.
+- 'Tell her, Kostya.' Nastya steps in quietly in their talk, before Kostya can change the subject.
+- 'Tell her that you are ashamed.' Kostya leans on one practical choice toward Nastya: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'I am ashamed.' Nastya aims the thought plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Nastya, may I go back to work now?' Kostya challenges eagerly before Nastya can change the subject.
+- 'Come visit us at our house on Saturday.' Nastya underscores one direct expression on cue: "priyezzhay" means "come" (from "priyezzhat"), giving the line its exact edge.
+- 'And let us put an end to this foolish conflict.' Kostya jumps in pointedly in this moment, shifting the whole mood of the room in a single beat.
+- 'Why do the two of you not come visit Kostya and me instead.' Nastya stands firm honestly before Kostya, making her position completely clear.
+- 'Nastya, darling, you come visit us, and I will drop by another time.' Kostya colors one classic word toward Nastya: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Here is how it is going to be.' Nastya voices the reply beside Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am afraid that will be very hard to explain to Dad.' Kostya speaks up calmly toward Nastya, watching Nastya's face to see how the news lands.

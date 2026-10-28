@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how are you feeling right now?' Kostya prompts firmly without hesitation, linking "kak" ("how"), "seychas" ("now"), and "chuvstvuyesh" ("feel") in one brisk exchange.
-- 'Thank you, today I feel much better already.' Nastya maintains a resolute attitude as they talk, building the phrase around "spasibo" ("thank you") and "segodnya" ("today") for a crisp, natural delivery.
-- 'I lay down quietly at home for a bit.' Nastya chooses a grounded note across the room, combining "doma" ("at home") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'It is a good thing I asked for today off from work.' Nastya maintains an honest manner in the scene, combining "khorosho" ("good, fine") and "segodnya" ("today") so the key meaning lands right away.
-- 'Hello, hi, Katya, how are you doing?' Kostya queries warmly beside Nastya, joining "kak" ("how") to "dela" ("things, affairs") so every word pulls its weight.
-- 'Yes, we are having a housewarming party tonight.' Kostya displays a lively mood during the exchange, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
-- 'Nastya, I just invited Katya over.' Kostya maintains an earnest tone right away, building the phrase around "tolko" ("only") and "pozval" ("invited") for a crisp, natural delivery.
-- 'Did you invite her for our housewarming?' Nastya wonders bluntly toward Kostya here, building the phrase around "pozdravil" ("congratulated") and "novoselyem" ("housewarming") for a crisp, natural delivery.
-- 'What kind of housewarming are we having today?' Nastya presses quietly without holding back, leaning on "u nas" ("by us, at our place") and "yeshchyo" ("more, still") the way natural Russian does.
-- 'We should have set the table first!' Nastya shows a frank stance at this moment, joining "nado" ("it is necessary") to "bylo" ("was") so every word pulls its weight.
-- 'Everything will be just fine, dear Nastya.' Kostya displays a candid posture in their talk, building the phrase around "normalno" ("fine, OK") and "budet" ("will be") for a crisp, natural delivery.
-- 'The thing is that I invited Katya too.' Nastya offers a grounded stance in the scene, putting "delo" ("matter") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
+- 'Well, how are you feeling right now?' Kostya frames one pointed term for Nastya: "chuvstvuyesh" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'Thank you, today I feel much better already.' Nastya phrases the reply plainly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I lay down quietly at home for a bit.' Nastya responds dryly hearing Kostya, saying out loud what both of them already know.
+- 'It is a good thing I asked for today off from work.' Nastya features one practical detail in reply: "otprosilas" means "asked for time off" (from "otprositsya"), giving the line its exact edge.
+- 'Hello, hi, Katya, how are you doing?' Kostya states the reaction without pause: opening with the casual greeting "privet" ("hi") signals right away that Kostya and Nastya are on familiar terms.
+- 'Yes, we are having a housewarming party tonight.' Kostya pushes back evenly watching Nastya, so Nastya knows he is not just making small talk.
+- 'Nastya, I just invited Katya over.' Kostya frames one key term on cue: "pozval" means "invited" (from "pozvat"), giving the line its exact edge.
+- 'Did you invite her for our housewarming?' Nastya lays out this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'What kind of housewarming are we having today?' Nastya inquires candidly as Kostya tries to explain the situation.
+- 'We should have set the table first!' Nastya focuses on this telling choice on cue: "snachala" means "first, at first", and it carries the main weight of what Nastya is saying.
+- 'Everything will be just fine, dear Nastya.' Kostya pushes back bluntly as they talk, making his position completely clear.
+- 'The thing is that I invited Katya too.' Nastya weighs in wryly on the spot, without trying to dress up how she really feels.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did it not work out staying at your aunt's place?' Barinov presses promptly right away, building the phrase around "poluchilos" ("worked out") and "teti" ("aunt") for a crisp, natural delivery.
-- 'Yes, her father-in-law is coming to visit her.' Kostya displays a frank angle without hesitation, pairing "svegrov" ("mother-in-law") with "priyezzhayet" ("is arriving") to get the point across in plain spoken Russian.
-- 'So it did not work out.' Barinov maintains a calm tack on the spot, putting "poluchilos" ("worked out") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'All right then.' Kostya keeps a clear note at this moment, weaving "nu" ("oh, come on") together with "ladno" ("all right") just the way native speakers do.
-- 'Well, it is no big deal.' Barinov adopts a playful view in the conversation, pairing "strashnogo" ("terrible, serious") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Maybe.' Kostya presents a calm style during the exchange, putting "mozhet" ("can") alongside "byt" ("be") in a tight, everyday turn of phrase.
-- 'Some woman is walking this way, she wants to see the Chef.' Barinov adopts an honest note right away, pairing "tam" ("there") with "devushka" ("girlfriend") to get the point across in plain spoken Russian.
-- 'We stick to the plan.' Kostya offers a wry course without hesitation, building the phrase around "rabotayem" ("we work, let's work") and "planu" ("plan") for a crisp, natural delivery.
-- 'Where can I find your head chef?' Barinov probes dryly from the start, joining "gde" ("where") to "mogu" ("can") so every word pulls its weight.
-- 'In his office, of course.' Kostya conveys a resolute rhythm at this moment, pairing "kabinete" ("office") with "konechno" ("of course") to get the point across in plain spoken Russian.
-- 'I specifically asked not to be disturbed.' Barinov picks an easygoing note in the scene, combining "prosil" ("ask for") and "bespokoit" ("to bother") so the key meaning lands right away.
-- 'I am preparing the new menu.' Kostya establishes an easygoing direction on the spot, pairing "gotovlyu" ("prepare") with "novoye" ("new") to get the point across in plain spoken Russian.
-- 'Close that damn door!' Barinov sustains a steady rhythm without hesitation, using "zakroyte" (from "zakryt", "close") alongside "chertovu" ("devil's, damned") to shape the meaning.
+- 'Did it not work out staying at your aunt's place?' Barinov presses sharply what Kostya is actually getting at here.
+- 'Yes, her father-in-law is coming to visit her.' Kostya spotlights one memorable choice toward Barinov: "priyezzhayet" means "is arriving" (from "priyezzhat"), giving the line its exact edge.
+- 'So it did not work out.' Barinov delivers the remark frankly here: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
+- 'All right then.' Kostya counters frankly without holding back, leaving no doubt about where he stands.
+- 'Well, it is no big deal.' Barinov spotlights one classic touch in earnest: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
+- 'Maybe.' Kostya phrases that answer right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Some woman is walking this way, she wants to see the Chef.' Barinov reacts earnestly toward Kostya, before Kostya can change the subject.
+- 'We stick to the plan.' Kostya uses one familiar expression on cue: "rabotayem" means "we work, let's work" (from "rabotat"), giving the line its exact edge.
+- 'Where can I find your head chef?' Barinov voices the reaction without pause: putting the question word "gde" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'In his office, of course.' Kostya fires back steadily with a nod, so Barinov knows he is not just making small talk.
+- 'I specifically asked not to be disturbed.' Barinov chooses this sharp expression on cue: "bespokoit" means "to bother", and it carries the main weight of what Barinov is saying.
+- 'I am preparing the new menu.' Kostya drops the reply before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Close that damn door!' Barinov stands firm frankly watching Kostya, steering the talk right where he wants it.

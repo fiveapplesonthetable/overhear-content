@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, please, what is this?' German wonders dryly to keep things clear, combining "prostite" ("excuse me") and "pozhaluysta" ("please") so the key meaning lands right away.
-- 'Astonishing. Did you make this yourself? Out of a carrot?' German inquires openly in the room, putting "porazitelno" ("astonishing") alongside "sdelali" ("did, have done") in a tight, everyday turn of phrase.
-- 'Yes. Thank you.' Denis projects a natural approach straight away, weaving "spasibo" ("thank you") together with "da" ("yes") just the way native speakers do.
-- 'You peeled all the carrots and even made a flute. Well done.' German favors an unhurried stance without hesitation, using "morkovku" (from "morkovka", "carrot") alongside "pochistili" ("to carrots") to shape the meaning.
-- 'It will not be much trouble for you to peel a sack of potatoes.' German shows a serious footing in this beat, linking "sostavit" ("to peel"), "bolshogo" ("big"), and "truda" ("of labour") in one brisk exchange.
-- 'Better make it two for you. Two sacks. Will you manage by evening?' German prompts frankly in the room, building the phrase around "luchshe" ("better") and "meshka" ("sack, bag") for a crisp, natural delivery.
-- 'Chef, I won't finish in time by evening.' Denis shows a direct tone during the exchange, building the phrase around "vechera" ("evening") and "uspeyu" ("will manage") for a crisp, natural delivery.
-- 'You will finish in time. You are very talented.' German displays a pointed note at once, anchoring the Russian line on "uspeyete" ("to make it") and "ochen" ("very much") without extra filler.
-- 'And if you don't finish in time, out you go.' German keeps an easygoing course across the room, joining "uspeyete" ("to make it") to "poydyote" ("will go") so every word pulls its weight.
-- 'German Mikhailovich, why do we need so many potatoes?' Lyova tests directly for German's benefit, leaning on "nuzhno" ("necessary") before closing the thought with "stolko" ("so many").
-- 'For educational purposes. I will not tolerate slacking.' German sets an easygoing angle as the scene unfolds, leaning on "tselyakh" ("goal, aim") before closing the thought with "vospitaniya" ("upbringing").
-- 'I do not like this either.' Lyova keeps an unhurried mood in their talk, linking "tozhe" ("too"), "nravitsya" ("is pleasing"), and "mne" ("to me") in one brisk exchange.
+- 'Excuse me, please, what is this?' German directs the thought before Denis: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Astonishing. Did you make this yourself? Out of a carrot?' German challenges wryly while looking straight at Lyova here.
+- 'Yes. Thank you.' Denis favors one sharp choice in earnest: "spasibo" means "thank you", and it carries the main weight of what Denis is saying.
+- 'You peeled all the carrots and even made a flute. Well done.' German speaks up at once as they talk, saying out loud what both of them already know.
+- 'It will not be much trouble for you to peel a sack of potatoes.' German steps in warmly on the spot, so Denis knows he is not just making small talk.
+- 'Better make it two for you. Two sacks. Will you manage by evening?' German uses this sharp expression toward Lyova: "vechera" means "evening" (from "vecher"), giving the line its exact edge.
+- 'Chef, I won't finish in time by evening.' Denis steps in at once beside German, bringing things back to earth after the buildup.
+- 'You will finish in time. You are very talented.' German pushes back lightly across the room, leaving no doubt about where he stands.
+- 'And if you don't finish in time, out you go.' German sharpens one vivid expression toward Denis: "uspeyete" means "to make it" (from "uspet"), giving the line its exact edge.
+- 'German Mikhailovich, why do we need so many potatoes?' Lyova phrases this warning around German: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'For educational purposes. I will not tolerate slacking.' German answers steadily across the room, letting the remark speak for itself.
+- 'I do not like this either.' Lyova stresses this sharp detail right here: "nravitsya" means "is pleasing", and it carries the main weight of what Lyova is saying.

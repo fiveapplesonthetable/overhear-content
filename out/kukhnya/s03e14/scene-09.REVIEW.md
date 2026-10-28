@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And we just wanted to play a game of baseball here!' Senya shows a warm stance in the room, joining "tut" ("here") to "prosto" ("just") so every word pulls its weight.
-- 'You say you did not want to touch him at all?' Katya prompts decisively to make the point, combining "govorish" ("you say") and "trogat" ("to touch") so the key meaning lands right away.
-- 'I cannot bear the sight of you anymore!' Katya shares a frank style in the conversation, joining "bolshe" ("more") to "videt" ("to see") so every word pulls its weight.
-- 'Katya, I had no idea, they came on their own!' Senya brings a sharp style in this beat, leaning on "kurse" ("course, regimen") before closing the thought with "prishli" ("have come").
-- 'And now five hundred thousand minimum, got it, pops?' Max tests frankly without a pause, leaning on "teper" ("now") before closing the thought with "tysyach" ("thousand").
-- 'Katya, my darling, wait for me!' Senya brings an emphatic line at once, combining "milaya" ("darling") and "podozhdi" ("wait") so the key meaning lands right away.
-- 'Listen, guys, I really need your help.' Max brings an honest style straight away, leaning on "slushayte" ("listen") before closing the thought with "parni" ("guys, boys").
-- 'I had a big quarrel with some guys here.' Max projects a warm attitude on the spot, linking "tut" ("here"), "parnyami" ("boyfriend, guy"), and "silno" ("strongly, much") in one brisk exchange.
-- 'Sorry, Max, we have our own war here.' Senya shares a frank direction toward Katya, using "izvini" (from "izvinit", "sorry, excuse me") alongside "tut" ("here") to shape the meaning.
-- 'We are helping our chef right now.' Senya favors a serious tempo in the scene, building the phrase around "seychas" ("now") and "shefu" ("chef") for a crisp, natural delivery.
-- 'Katya got mixed up with some bad biker.' Senya conveys a grounded footing in the scene, pairing "svyazalas" ("got mixed up with") with "plokhim" ("bad") so the "-sya" ending carries the action.
-- 'So go ahead and work it out yourself somehow, son.' Senya displays an emphatic footing without hesitation, combining "davay" ("let's") and "reshay" ("to decide, to solve") so the key meaning lands right away.
+- 'And we just wanted to play a game of baseball here!' Senya steps in pointedly in their talk, watching Katya's face to see how the news lands.
+- 'You say you did not want to touch him at all?' Katya reaches for one clear expression on cue: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
+- 'I cannot bear the sight of you anymore!' Katya colors one pointed piece in reply: "bolshe" means "more", and it carries the main weight of what Katya is saying.
+- 'Katya, I had no idea, they came on their own!' Senya continues frankly in their talk, watching Max's face to see how the news lands.
+- 'And now five hundred thousand minimum, got it, pops?' Max points to this key term in earnest: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'Katya, my darling, wait for me!' Senya continues calmly around Max, grounding the moment in plain reality.
+- 'Listen, guys, I really need your help.' Max continues boldly with a smile, steering the talk right where he wants it.
+- 'I had a big quarrel with some guys here.' Max stresses this clear term toward Senya: "possorilsya" means "quarreled" (from "possoritsya"), giving the line its exact edge.
+- 'Sorry, Max, we have our own war here.' Senya drops that answer facing Katya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'We are helping our chef right now.' Senya speaks up candidly on the spot, saying out loud what both of them already know.
+- 'Katya got mixed up with some bad biker.' Senya favors one classic detail for Katya: "baykerom" means "with a biker" (from "bayker"), giving the line its exact edge.
+- 'So go ahead and work it out yourself somehow, son.' Senya drops this point before Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

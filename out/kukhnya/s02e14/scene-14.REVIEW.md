@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In your opinion, is this normal?' Max prompts frankly without holding back, anchoring the Russian line on "po-tvoyemu" ("wife") and "normalno" ("fine, OK") without extra filler.
-- 'Who did this?' Barinov checks evenly across the room, using "sdelal" (from "sdelat", "did") alongside "kto" ("who") to shape the meaning.
-- 'Because of him, a guest walked out on us.' Vika favors a firm note in the conversation, weaving "gost" ("guest") together with "ushel" ("left, would leave") just the way native speakers do.
-- 'I will get to the bottom of this.' Max shares a resolute tack at this moment, pairing "razberus" ("I will sort out") with "ya" ("I") so the "-sya" ending carries the action.
-- 'That is right.' Barinov maintains a steady tack in their talk, anchoring the Russian line on "vot" ("there, here") and "imenno" ("exactly, precisely") without extra filler.
-- 'Or did I ruin the dish myself?' Max wonders steadily at this point, linking "blyuda" ("of dish"), "zabral" ("takes it back"), and "ili" ("or") in one brisk exchange.
-- 'Well, he left, big deal.' Max favors a direct stance across the room, putting "ushel" ("left, would leave") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'Go back to work.' Barinov projects a steady bearing across the room, combining "idi" ("go") and "rabotay" ("work") so the key meaning lands right away.
-- 'You know, I decided not to wait for Viktor Petrovich to return.' Vika establishes a clear angle on the spot, anchoring the Russian line on "znayete" ("know") and "stal" ("to become") without extra filler.
-- 'As it turned out, that was a big mistake.' Max holds a direct footing for Vika, building the phrase around "kak" ("how") and "okazalos" ("turned out") for a crisp, natural delivery.
-- 'I was just at Claude Monet.' Barinov brings an unhurried tack in the conversation, anchoring the Russian line on "tolko" ("only") and "byl" ("was") without extra filler.
-- 'They brought me a dish buried under a mountain of salt.' Vika establishes a sharp stance in the room, anchoring the Russian line on "prinesli" ("brought") and "blyuda" ("of dish") without extra filler.
-- 'Their kitchen must be falling apart without him.' Max presents a warm note as the scene unfolds, weaving "navernoye" ("probably") together with "kukhnya" ("kitchen") just the way native speakers do.
+- 'In your opinion, is this normal?' Max shapes this update plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Who did this?' Barinov prompts briskly what Vika is actually getting at here.
+- 'Because of him, a guest walked out on us.' Vika sharpens one concrete detail on cue: "gost" means "guest", and it carries the main weight of what Vika is saying.
+- 'I will get to the bottom of this.' Max phrases that point beside Vika: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
+- 'That is right.' Barinov chimes in firmly across the room, grounding the moment in plain reality.
+- 'Or did I ruin the dish myself?' Max focuses on one practical detail toward Vika: "blyuda" means "of dish" (from "blyudo"), giving the line its exact edge.
+- 'Well, he left, big deal.' Max gives this statement toward Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Go back to work.' Barinov jumps in honestly facing Vika, bringing things back to earth after the buildup.
+- 'You know, I decided not to wait for Viktor Petrovich to return.' Vika reaches for one pointed choice in earnest: "vozvrashcheniya" means "return" (from "vozvrashcheniye"), giving the line its exact edge.
+- 'As it turned out, that was a big mistake.' Max offers this point at once: the "-sya" ending on "okazalos" ("turned out") turns the action inward or makes it happen between people naturally.
+- 'I was just at Claude Monet.' Barinov continues calmly without any doubt, saying out loud what both of them already know.
+- 'They brought me a dish buried under a mountain of salt.' Vika emphasizes one practical expression in earnest: "prinesli" means "brought" (from "prinesti"), giving the line its exact edge.
+- 'Their kitchen must be falling apart without him.' Max aims this update without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

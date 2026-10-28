@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With the Chef everything would have been different!' Barinov brings a calm tack as the scene unfolds, anchoring the Russian line on "shefa" ("chef") and "bylo" ("was") without extra filler.
-- 'Darling, I can explain everything right now!' Barinov takes an easygoing tack straight away, combining "dorogaya" ("expensive") and "seychas" ("now") so the key meaning lands right away.
-- 'Alright, quickly stop your wild imagination!' Barinov sets a sharp view in the scene, linking "bystro" ("quickly"), "ostanovili" ("stopped"), and "buynuyu" ("wild, unruly") in one brisk exchange.
-- 'At least look, Maxim forgot about his grief.' Barinov conveys a candid footing right away, weaving "gore" ("grief, sorrow") together with "zabyl" ("forgot") just the way native speakers do.
-- 'Max, actually you are to blame for everything yourself.' Kostya projects a playful bearing in the room, building the phrase around "voobshche-to" ("actually") and "vinovat" ("at fault, guilty") for a crisp, natural delivery.
-- 'You had no business kissing Sasha back then.' Kostya picks a thoughtful direction right away, using "bylo" (from "byt", "was") alongside "togda" ("back then") to shape the meaning.
-- 'And I am not even arguing with that.' Max offers a brisk tempo beside Barinov, joining "sporyu" ("argue") to "ya" ("I") so every word pulls its weight.
-- 'Well, it is a mistake that you give up so easily.' Kostya sets a playful approach with Max, combining "zrya" ("for nothing") and "legko" ("easy") so the key meaning lands right away.
-- 'It seems to me that divorce is too harsh a punishment.' Kostya picks a natural stance straight away, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "razvod" ("divorce, separation") without extra filler.
-- 'Especially for such a minor offense.' Kostya projects a wry rhythm across the room, building the phrase around "boleye" ("more") and "melkoye" ("small, fine") for a crisp, natural delivery.
-- 'Yes, our former lawyer stepped in right away!' Barinov chooses an emphatic attitude in the conversation, anchoring the Russian line on "byvshiy" ("ex") and "yurist" ("lawyer") without extra filler.
-- 'It would be great if people were put on trial for cheating!' Barinov brings an earnest tone as they talk, anchoring the Russian line on "bylo" ("was") and "zdorovo" ("great, cool") without extra filler.
+- 'With the Chef everything would have been different!' Barinov continues firmly to settle things, shifting the whole mood of the room in a single beat.
+- 'Darling, I can explain everything right now!' Barinov speaks at once to be clear, shifting the whole mood of the room in a single beat.
+- 'Alright, quickly stop your wild imagination!' Barinov picks one telling touch at once: "fantaziyu" means "fantasy, imagination" (from "fantaziya"), giving the line its exact edge.
+- 'At least look, Maxim forgot about his grief.' Barinov drops the reply at once: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'Max, actually you are to blame for everything yourself.' Kostya jumps in earnestly around Barinov, before Barinov can change the subject.
+- 'You had no business kissing Sasha back then.' Kostya anchors one telling detail in reply: "tselovatsya" means "to kiss", and it carries the main weight of what Kostya is saying.
+- 'And I am not even arguing with that.' Max weighs in candidly in their talk, leaving no doubt about where he stands.
+- 'Well, it is a mistake that you give up so easily.' Kostya answers honestly during the talk, letting the remark speak for itself.
+- 'It seems to me that divorce is too harsh a punishment.' Kostya reaches for this clear expression on cue: "zhestokoye" means "cruel, harsh" (from "zhestokiy"), giving the line its exact edge.
+- 'Especially for such a minor offense.' Kostya jumps in boldly during the talk, testing Max's reaction in the middle of the exchange.
+- 'Yes, our former lawyer stepped in right away!' Barinov responds frankly to settle things, to clear the air between them once and for all.
+- 'It would be great if people were put on trial for cheating!' Barinov anchors this sharp expression at once: "izmeny" means "infidelity" (from "izmena"), giving the line its exact edge.

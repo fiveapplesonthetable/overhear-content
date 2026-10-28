@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a set change, Dmitry Vladimirovich.' Barinov establishes a direct footing with Nagiyev, leaning on "u nas" ("by us, at our place") and "perestanovka" ("reset, rearrangement") the way natural Russian does.
-- 'Dima, wrap up this circus.' Barinov strikes an unhurried direction in this beat, joining "zavyazyvay" ("wrap up, knock off") to "balagan" ("farce, circus") so every word pulls its weight.
-- 'Vitya, well do you see what is going on?' Nagiyev checks directly during the talk, anchoring the Russian line on "vidish" ("see") and "tvoritsya" ("is going on") without extra filler.
-- 'Go on, you see we are elevating art.' Nagiyev displays a pointed posture in the scene, combining "idi" ("go") and "vidish" ("see") so the key meaning lands right away.
-- 'And what if a critic comes?' Barinov prompts candidly as the beat lands, anchoring the Russian line on "kritik" ("critic") and "pridet" ("will come") without extra filler.
-- 'Nobody will come, I will post security.' Nagiyev sustains a frank footing in their talk, doubling the negative with "ne" ("not") and "pridet" ("will come"), which is standard and required in Russian.
-- 'That is it, Elya gave me permission.' Nagiyev maintains a calm attitude as the scene unfolds, leaning on "razreshila" ("to allow, to permit") before closing the thought with "vse" ("all").
-- 'Get out of here, do not get in the way.' Nagiyev shares a brisk bearing without hesitation, putting "idi" ("go") alongside "otsyuda" ("from here") in a tight, everyday turn of phrase.
-- 'And where do you have that in the script?' Barinov inquires openly in this moment, leaning on "gde" ("where") before closing the thought with "tut" ("here").
-- 'That is me improvising.' Nagiyev brings an earnest tone in their talk, pairing "improviziruyu" ("improvise") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Go on, mind your own business.' Nagiyev brings a resolute course at this moment, using "davay" (from "davat", "let's") alongside "zanimaysya" ("attend to, deal with") to shape the meaning.
-- 'Guys, let's focus!' Nagiyev displays a lively view as the scene unfolds, building the phrase around "rebyata" ("the boys, the lads") and "davayte" ("let's") for a crisp, natural delivery.
+- 'We have a set change, Dmitry Vladimirovich.' Barinov shares that reply to Nagiyev: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Dima, wrap up this circus.' Barinov replies dryly with a shrug, bringing things back to earth after the buildup.
+- 'Vitya, well do you see what is going on?' Nagiyev colors one concrete touch in earnest: "tvoritsya" means "is going on", and it carries the main weight of what Nagiyev is saying.
+- 'Go on, you see we are elevating art.' Nagiyev phrases the thought with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And what if a critic comes?' Barinov challenges firmly where this conversation is heading next.
+- 'Nobody will come, I will post security.' Nagiyev points to one vivid expression on cue: "okhranu" means "protection" (from "okhrana"), giving the line its exact edge.
+- 'That is it, Elya gave me permission.' Nagiyev shares the thought with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Get out of here, do not get in the way.' Nagiyev opens up candidly to be clear, without trying to dress up how he really feels.
+- 'And where do you have that in the script?' Barinov highlights this key element right here: "stsenarii" means "script" (from "stsenariy"), giving the line its exact edge.
+- 'That is me improvising.' Nagiyev lays out that point facing Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Go on, mind your own business.' Nagiyev continues candidly without any doubt, watching Barinov's face to see how the news lands.
+- 'Guys, let's focus!' Nagiyev colors one vivid piece at once: "soberemsya" means "let us focus" (from "sobratsya"), giving the line its exact edge.

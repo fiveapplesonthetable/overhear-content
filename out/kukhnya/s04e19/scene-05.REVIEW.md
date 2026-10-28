@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, there is a real studio out in the dining room.' Fedya displays an earnest approach during the exchange, combining "smotrite" ("look") and "tam" ("there") so the key meaning lands right away.
-- 'Senya and I decided to give it a try too.' Fedya keeps a steady tempo in front of Nagiyev, using "seney" (from "senya", "start") alongside "tozhe" ("too") to shape the meaning.
-- 'And will you participate out there, Chef?' Fedya prompts bluntly to make the point, linking "budete" ("will be"), "tam" ("there"), and "uchastvovat" ("to participate") in one brisk exchange.
-- 'Vitya, do not even try.' Nagiyev sustains a steady posture across the room, using "probuy" (from "probovat", "to try, to taste") alongside "vitya" ("Vitya") to shape the meaning.
-- 'I ate your food for five years.' Nagiyev projects a warm course beside Barinov, joining "let" ("years") to "yel" ("ate") so every word pulls its weight.
-- 'I will recognize your dishes by their smell.' Nagiyev takes a resolute course in their talk, linking "zapakhu" ("smell, scent"), "blyuda" ("of dish"), and "uznayu" ("to recognise") in one brisk exchange.
-- 'And I will kick you out of the contest right away.' Nagiyev keeps a warm posture for Barinov, building the phrase around "srazu" ("at once") and "vygonyu" ("to kick out") for a crisp, natural delivery.
-- 'I have not been afraid of anything for a long time.' Barinov establishes a candid tone during the exchange, pairing "boyus" ("am afraid") with "davno" ("for a long time") so the "-sya" ending carries the action.
-- 'If I wanted to, I would win.' Barinov shares a thoughtful tone in this beat, combining "khotel" ("wanted") and "pobedil" ("won") so the key meaning lands right away.
-- 'But your show is for losers.' Barinov presents an easygoing tack as they talk, combining "shou" ("show") and "neudachnikov" ("losers") so the key meaning lands right away.
-- 'Normal cooks work quietly in the kitchen.' Barinov presents a measured posture toward Fedya, anchoring the Russian line on "normalnyye" ("normal") and "povara" ("cook") without extra filler.
-- 'Wait a second, who are you calling a loser here?' Fedya challenges calmly to make the point, combining "podozhdite" ("wait") and "tut" ("here") so the key meaning lands right away.
+- 'Look, there is a real studio out in the dining room.' Fedya pushes back promptly to settle things, before Barinov can change the subject.
+- 'Senya and I decided to give it a try too.' Fedya counters right away around Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'And will you participate out there, Chef?' Fedya stresses one direct expression with Barinov: "uchastvovat" means "to participate", and it carries the main weight of what Fedya is saying.
+- 'Vitya, do not even try.' Nagiyev picks one practical choice in reply: "probuy" means "to try, to taste" (from "probovat"), giving the line its exact edge.
+- 'I ate your food for five years.' Nagiyev jumps in bluntly hearing Barinov, watching Barinov's face to see how the news lands.
+- 'I will recognize your dishes by their smell.' Nagiyev picks one concrete term toward Fedya: "zapakhu" means "smell, scent" (from "zapakh"), giving the line its exact edge.
+- 'And I will kick you out of the contest right away.' Nagiyev underscores one concrete element with Barinov: "konkursa" means "contest" (from "konkurs"), giving the line its exact edge.
+- 'I have not been afraid of anything for a long time.' Barinov cuts in wryly before Nagiyev, steering the talk right where he wants it.
+- 'If I wanted to, I would win.' Barinov features one sharp choice right here: "pobedil" means "won" (from "pobedit"), giving the line its exact edge.
+- 'But your show is for losers.' Barinov directs this update with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Normal cooks work quietly in the kitchen.' Barinov follows up wryly to be clear, keeping the focus on what actually matters here.
+- 'Wait a second, who are you calling a loser here?' Fedya favors one sharp expression right here: "neudachnik" means "loser, unlucky guy", and it carries the main weight of what Fedya is saying.

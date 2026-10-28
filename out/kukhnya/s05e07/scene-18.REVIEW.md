@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want you to leave.' Vika offers a frank attitude toward Max, linking "khochu" ("want"), "ushyol" ("left, departed"), and "ya" ("I") in one brisk exchange.
-- 'From the restaurant?' Max prompts frankly without holding back, combining "restorana" ("restaurant") and "iz" ("from, out of") so the key meaning lands right away.
-- 'From my life.' Vika presents a steady course beside Max, pairing "zhizni" ("life") with "iz" ("from, out of") to get the point across in plain spoken Russian.
-- 'And what if I do not want that?' Max questions evenly in their exchange, pairing "khochu" ("want") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'The child needs a father.' Max sets an earnest angle straight away, building the phrase around "rebyonku" ("your child") and "nuzhen" ("is needed") for a crisp, natural delivery.
-- 'He does need one.' Vika brings an earnest attitude as they talk, leaning on "nuzhen" ("is needed") as a compact, one-word response that needs no extra words.
-- 'But not you.' Vika keeps a sharp angle as the scene unfolds, pairing "no" ("but") with "ne" ("not") to get the point across in plain spoken Russian.
-- 'Vika, I am not going anywhere anyway.' Max takes a natural tempo in the room, leaning on "ravno" ("the same") before closing the thought with "nikuda" ("nowhere, anywhere").
-- 'In that case, I will go to Vitya right now.' Vika holds a firm mood in front of Max, weaving "sluchaye" ("case, event") together with "seychas" ("now") just the way native speakers do.
-- 'And demand that he fire you.' Vika offers a measured style beside Max, building the phrase around "potrebuyu" ("will demand") and "uvolil" ("to fire, to dismiss") for a crisp, natural delivery.
-- 'If they do not fire you, I will quit myself.' Vika presents a wry course for Max, building the phrase around "uvolyat" ("will fire") and "uvolyus" ("will quit, resign") for a crisp, natural delivery.
-- 'Vika, wait, do not do anything foolish.' Max holds an unhurried angle during the exchange, using "podozhdi" (from "podozhdat", "wait") alongside "delay" ("do") to shape the meaning.
+- 'I want you to leave.' Vika weighs in wryly hearing Max, leaving no doubt about where she stands.
+- 'From the restaurant?' See how Max answers Vika right away — the Russian word "restorana" ("restaurant", built from "restoran") does the heavy lifting.
+- 'From my life.' Vika brings the comment at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And what if I do not want that?' Max challenges evenly in front of Vika without any preamble.
+- 'The child needs a father.' Max highlights one colorful choice on cue: "rebyonku" means "your child" (from "rebyonok"), giving the line its exact edge.
+- 'He does need one.' Vika voices that point plainly here: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'But not you.' Vika counters steadily across the room, before Max can change the subject.
+- 'Vika, I am not going anywhere anyway.' Max focuses on one loaded detail in earnest: "nikuda" means "nowhere, anywhere", and it carries the main weight of what Max is saying.
+- 'In that case, I will go to Vitya right now.' Vika proceeds promptly without a pause, watching Max's face to see how the news lands.
+- 'And demand that he fire you.' Vika weighs in promptly around Max, grounding the moment in plain reality.
+- 'If they do not fire you, I will quit myself.' Vika chooses one practical touch toward Max: "uvolyat" means "will fire" (from "uvolit"), giving the line its exact edge.
+- 'Vika, wait, do not do anything foolish.' Max proceeds sharply facing Vika, grounding the moment in plain reality.

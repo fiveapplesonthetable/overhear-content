@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take off that suit jacket quickly.' Nastya strikes a frank mood as they talk, anchoring the Russian line on "snimay" ("take off, remove") and "davay" ("let's") without extra filler.
-- 'Here, put on this T-shirt right now.' Nastya strikes an unhurried direction as they talk, putting "naden" ("put on") alongside "futbolku" ("T-shirt") in a tight, everyday turn of phrase.
-- 'It is more comfortable this way, as if you were at the rally.' Nastya favors a direct mood straight away, anchoring the Russian line on "udobneye" ("more comfortable") and "aktsii" ("rally, campaign") without extra filler.
-- 'Alright, thank you very much, sweetheart.' Kostya projects a grounded bearing in the room, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").
-- 'And is your bar located far from here?' Nastya tests firmly as the talk turns, building the phrase around "daleko" ("far away") and "bar" ("bar") for a crisp, natural delivery.
-- 'Not really, it is right nearby.' Kostya sustains a brisk rhythm in the scene, anchoring the Russian line on "sovsem" ("at all") and "ryadom" ("nearby") without extra filler.
-- 'My raw-food shop is right over there.' Nastya sets a serious stance at once, pairing "tam" ("there") with "magazin" ("shop") to get the point across in plain spoken Russian.
-- 'Do you want us to ride there together?' Nastya challenges warmly as they speak, using "khochesh" (from "khotet", "do you want") alongside "vmeste" ("together") to shape the meaning.
-- 'Yes, let us ride over there together.' Kostya sets an emphatic approach with Nastya, leaning on "davay" ("let's") before closing the thought with "poyedem" ("will be off").
-- 'Alright, I am getting ready, and we are going.' Nastya shows an honest rhythm for Kostya, joining "sobirayus" ("am planning") to "yedem" ("are going") so every word pulls its weight.
-- 'Here we have arrived already.' Kostya projects a serious approach across the room, anchoring the Russian line on "uzhe" ("already, now") and "prishli" ("have come") without extra filler.
-- 'Take care, I love you.' Nastya projects a direct tempo straight away, combining the everyday invitation "davay" ("come on, let us") with "akkuratnenko" ("carefully, gently") to give the line its natural spoken rhythm.
+- 'Take off that suit jacket quickly.' Nastya replies pointedly with a sigh, making her position completely clear.
+- 'Here, put on this T-shirt right now.' Nastya highlights one vivid choice in earnest: "futbolku" means "T-shirt" (from "futbolka"), giving the line its exact edge.
+- 'It is more comfortable this way, as if you were at the rally.' Nastya hands over this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Alright, thank you very much, sweetheart.' Kostya jumps in honestly beside Nastya, shifting the whole mood of the room in a single beat.
+- 'And is your bar located far from here?' Nastya underscores this clear element for Kostya: "nakhoditsya" means "to be located", and it carries the main weight of what Nastya is saying.
+- 'Not really, it is right nearby.' Kostya sends this answer on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'My raw-food shop is right over there.' Nastya answers frankly as they talk, grounding the moment in plain reality.
+- 'Do you want us to ride there together?' Nastya grounds one loaded word in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Yes, let us ride over there together.' Kostya frames this point for Nastya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Alright, I am getting ready, and we are going.' Nastya steps in bluntly with a smile, to clear the air between them once and for all.
+- 'Here we have arrived already.' Kostya sharpens one sharp detail at once: "prishli" means "have come" (from "priyti"), giving the line its exact edge.
+- 'Take care, I love you.' Nastya puts that remark on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

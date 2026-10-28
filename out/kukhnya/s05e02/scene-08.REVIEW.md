@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Better tell her everything right away.' Kostya establishes an earnest mood without hesitation, combining "luchshe" ("better") and "srazu" ("at once") so the key meaning lands right away.
-- 'What are you talking about here?' Nastya questions firmly to make the point, pairing "tut" ("here") with "govorite" ("say, speak") to get the point across in plain spoken Russian.
-- 'Imagine that you and I broke up.' Kostya conveys an emphatic angle as the scene unfolds, pairing "predstav" ("imagine") with "rasstalis" ("broke up, separated") to get the point across in plain spoken Russian.
-- 'Are you a complete fool?' Nastya tests candidly toward Kostya here, putting "sovsem" ("at all") alongside "durak" ("fool, idiot") in a tight, everyday turn of phrase.
-- 'No, just imagine it.' Kostya projects a firm tack in the conversation, linking "prosto" ("just"), "predstav" ("imagine"), and "da" ("yes") in one brisk exchange.
-- 'I am saying this purely figuratively.' Kostya displays an unhurried attitude straight away, putting "govoryu" ("am telling") alongside "chisto" ("clean") in a tight, everyday turn of phrase.
-- 'Suppose I slept with another girl.' Kostya maintains a measured tempo in the conversation, combining "perespal" ("to sleep overnight") and "drugoy" ("other") so the key meaning lands right away.
-- 'And then told you all about it.' Kostya conveys a measured approach at this moment, pairing "potom" ("then") with "rasskazal" ("told") to get the point across in plain spoken Russian.
-- 'Wait, did you cheat on me?' Nastya probes calmly during the talk, pairing "izmenil" ("changed") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'Well, you have not imagined it yet!' Kostya shows a steady posture toward Nastya, putting "yeshchyo" ("more, still") alongside "predstavila" ("imagined") in a tight, everyday turn of phrase.
-- 'When? When did that happen?' Nastya queries boldly to keep things clear, putting "kogda" ("when") alongside "bylo" ("was") in a tight, everyday turn of phrase.
-- 'That never happened, Nastya!' Kostya brings a firm direction straight away, pairing "nikogda" ("never") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'And now you are afraid to tell me, right?' Nastya inquires briskly to keep things clear, leaning on "teper" ("now") before closing the thought with "boishsya" ("you are afraid").
-- 'What a coward you are!' Nastya picks a serious tack beside Kostya, weaving "trus" ("coward") together with "kakoy" ("what a, how") just the way native speakers do.
+- 'Better tell her everything right away.' Kostya cuts in briskly during the talk, testing Nastya's reaction in the middle of the exchange.
+- 'What are you talking about here?' Nastya questions candidly while looking straight at Kostya here.
+- 'Imagine that you and I broke up.' Kostya underscores one pointed piece right here: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
+- 'Are you a complete fool?' Nastya shares the comment facing Kostya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'No, just imagine it.' Kostya jumps in openly facing Nastya, so Nastya knows he is not just making small talk.
+- 'I am saying this purely figuratively.' Kostya features one clear element with Nastya: "chisto" means "clean" (from "chistyy"), giving the line its exact edge.
+- 'Suppose I slept with another girl.' Kostya chimes in dryly with a sigh, so Nastya knows he is not just making small talk.
+- 'And then told you all about it.' Kostya fires back boldly as things stand, saying out loud what both of them already know.
+- 'Wait, did you cheat on me?' Nastya frames one practical touch with Kostya: "izmenil" means "changed" (from "izmenit"), giving the line its exact edge.
+- 'Well, you have not imagined it yet!' Kostya uses this clear touch right here: "predstavila" means "imagined" (from "predstavit"), giving the line its exact edge.
+- 'When? When did that happen?' Nastya inquires point-blank how Kostya expects that to work in practice.
+- 'That never happened, Nastya!' Kostya emphasizes this telling choice in earnest: "nikogda" means "never", and it carries the main weight of what Kostya is saying.
+- 'And now you are afraid to tell me, right?' Nastya sends the comeback briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'What a coward you are!' Nastya holds firm decisively with a smile, steering the talk right where she wants it.

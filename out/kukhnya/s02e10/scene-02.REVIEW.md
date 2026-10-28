@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, we will sort it out tomorrow.' Kristina favors a lively mood without hesitation, leaning on "zavtra" ("tomorrow") before closing the thought with "razberemsya" ("we'll sort it out").
-- 'I will clean everything up.' Max takes a candid approach for Kristina, weaving "priberu" ("will clean up") together with "ya" ("I") just the way native speakers do.
-- 'Could you not have turned off the water?' Kristina challenges lightly as the talk turns, linking "mog" ("can, to be able"), "vodu" ("water"), and "vyklyuchit" ("turn off") in one brisk exchange.
-- 'I specifically asked you to.' Kristina brings an easygoing tempo in the conversation, pairing "prosila" ("asked") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Attention everyone, Kristina and I are together.' Kristina shares a clear stance in this beat, pairing "vnimaniye" ("attention") with "vmeste" ("together") to get the point across in plain spoken Russian.
-- 'There will be no divorce.' Max offers a warm course across the room, joining "razvoda" ("divorce, separation") to "budet" ("will be") so every word pulls its weight.
-- 'Yesterday we...' Kristina offers a natural tempo beside Max, joining "vchera" ("yesterday") to "my" ("we") so every word pulls its weight.
-- 'That is not what matters right now, guys.' Max favors a warm attitude during the exchange, pairing "seychas" ("now") with "rebyata" ("the boys, the lads") to get the point across in plain spoken Russian.
-- 'Anyway.' Kristina maintains an easygoing bearing as they talk, letting the single Russian word "obshchem" ("short, so") carry the entire reaction on its own.
-- 'I do not see much joy in your eyes.' Max adopts a clear mood at once, combining "vizhu" ("see") and "bolshoy" ("big") so the key meaning lands right away.
-- 'Wait, what happened to Vitya?' Kristina wonders bluntly on the spot, anchoring the Russian line on "znachit" ("then, so") and "vitey" ("Vitya") without extra filler.
-- 'All right then.' Max keeps a calm tone during the exchange, pairing "nu" ("oh, come on") with "ladno" ("all right") to get the point across in plain spoken Russian.
-- 'So, guys, hand me a broom.' Kristina sustains a calm mood in this beat, leaning on "poetomu" ("that's why") before closing the thought with "rebyata" ("the boys, the lads").
+- 'Well, we will sort it out tomorrow.' Kristina brings this update to Max: the "-sya" ending on "razberemsya" ("we'll sort it out") turns the action inward or makes it happen between people naturally.
+- 'I will clean everything up.' Max speaks honestly facing Kristina, shifting the whole mood of the room in a single beat.
+- 'Could you not have turned off the water?' Kristina leans on one colorful element toward Max: "vyklyuchit" means "turn off", and it carries the main weight of what Kristina is saying.
+- 'I specifically asked you to.' Kristina voices this line with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Attention everyone, Kristina and I are together.' Kristina opens up openly in this moment, making her position completely clear.
+- 'There will be no divorce.' Max uses one colorful touch in reply: "razvoda" means "divorce, separation" (from "razvod"), giving the line its exact edge.
+- 'Yesterday we...' Kristina gives the thought for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'That is not what matters right now, guys.' Max speaks up lightly in their talk, so Kristina knows he is not just making small talk.
+- 'Anyway.' Kristina picks one vivid piece in reply: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'I do not see much joy in your eyes.' Max reacts quietly in their talk, grounding the moment in plain reality.
+- 'Wait, what happened to Vitya?' Kristina prompts eagerly as Max tries to explain the situation.
+- 'All right then.' Max brings the comeback with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kristina is on board.
+- 'So, guys, hand me a broom.' Kristina stands firm frankly to be clear, leaving no doubt about where she stands.

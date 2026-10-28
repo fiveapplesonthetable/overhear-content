@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At least give me back my phone!' Max maintains a steady note right away, linking "telefon" ("phone"), "otdayte" ("give, hand over"), and "khot" ("at least, just") in one brisk exchange.
-- 'As long as you keep hitting on me.' Nastya keeps a natural note with Max, putting "poka" ("bye") alongside "budete" ("will be") in a tight, everyday turn of phrase.
-- 'Maksim, I always get what I want.' Kristina displays a thoughtful bearing in the scene, combining "vsegda" ("always") and "dobivayus" ("am courting") so the key meaning lands right away.
-- 'Especially in my own restaurant.' Max sustains a natural tempo at this moment, building the phrase around "boleye" ("more") and "restorane" ("restaurant") for a crisp, natural delivery.
-- 'But you do not own the people.' Nastya displays an honest position in this beat, anchoring the Russian line on "lyudmi" ("people") and "no" ("but") without extra filler.
-- 'You can even fire me if you want.' Kristina favors a frank rhythm in the room, weaving "mozhete" ("can, may") together with "uvolit" ("to fire") just the way native speakers do.
-- 'Why fire you?' Max tests naturally without hesitation, putting "zachem" ("what for") alongside "tebya" ("you") in a tight, everyday turn of phrase.
-- 'Well, or fire your friend Kostya.' Nastya sustains a serious rhythm straight away, linking "druga" ("the friend"), "gostya" ("guest, visitor"), and "nu" ("oh, come on") in one brisk exchange.
-- 'And here is why.' Kristina takes an honest mood beside Max, linking "vot" ("there, here"), "za" ("for"), and "chto" ("what") in one brisk exchange.
-- 'I am waiting for you after work.' Max displays an earnest direction beside Nastya, pairing "zhdu" ("I wait, expect") with "raboty" ("of work") to get the point across in plain spoken Russian.
-- 'Here is the thing.' Nastya displays a warm mood right away, linking "tut" ("here") directly with "delo" ("matter"), since Russian drops "is" and "are" in the present.
-- 'Could you possibly give me yours?' Kristina quizzes warmly without holding back, leaning on "mogla" ("could") before closing the thought with "dat" ("to give").
-- 'Not a chance.' Max shares a calm tack straight away, anchoring the Russian line on "ne" ("not") and "za" ("for") without extra filler.
+- 'At least give me back my phone!' Max chimes in at once in this moment, keeping the focus on what actually matters here.
+- 'As long as you keep hitting on me.' Nastya underscores one practical element right here: "pristavat" means "to pester, to harass", and it carries the main weight of what Nastya is saying.
+- 'Maksim, I always get what I want.' Kristina phrases this statement with ease: the "-sya" ending on "dobivayus" ("am courting") turns the action inward or makes it happen between people naturally.
+- 'Especially in my own restaurant.' Max stands firm honestly around Nastya, making his position completely clear.
+- 'But you do not own the people.' Nastya voices this warning toward Kristina: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You can even fire me if you want.' Kristina shapes the reaction before Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Why fire you?' Max asks wryly while looking straight at Kristina here.
+- 'Well, or fire your friend Kostya.' Nastya picks one sharp term in earnest: "gostya" means "guest, visitor" (from "gost"), giving the line its exact edge.
+- 'And here is why.' Kristina voices the comeback with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am waiting for you after work.' Max pushes back openly with a sigh, letting the remark speak for itself.
+- 'Here is the thing.' Nastya spotlights this key word on cue: "delo" means "matter", and it carries the main weight of what Nastya is saying.
+- 'Could you possibly give me yours?' Kristina hands over that line at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Not a chance.' Max opens up pointedly around Kristina, shifting the whole mood of the room in a single beat.

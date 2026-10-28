@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you meddling in my kitchen?' The guest presses honestly to make the point, leaning on "pochemu" ("why") before closing the thought with "lezete" ("push in, barge in").
-- 'Because this is my restaurant.' Barinov presents a measured line across the room, linking "potomu" ("because"), "restoran" ("restaurant"), and "chto" ("what") in one brisk exchange.
-- 'And today is my daughter's wedding.' Barinov strikes a calm tempo in the conversation, weaving "segodnya" ("today") together with "svadba" ("wedding") just the way native speakers do.
-- 'I will supervise every dish.' Barinov picks an emphatic view at once, anchoring the Russian line on "budu" ("will be") and "kontrolirovat" ("to keep an eye on") without extra filler.
-- 'Clear enough, then supervise it here yourself.' The guest strikes an emphatic tack in their talk, weaving "yasno" ("clear, got it") together with "togda" ("back then") just the way native speakers do.
-- 'Keep supervising, respected maestro!' The guest presents a brisk posture straight away, anchoring the Russian line on "kontroliruyte" ("control, supervise") and "dalshe" ("next, go on") without extra filler.
-- 'Check the plating of every dish yourself!' The guest projects a frank direction with Barinov, weaving "proveryayte" ("check") together with "podachu" ("presentation") just the way native speakers do.
-- 'What on earth are you doing in here?' The guest asks quietly in the scene, leaning on "tut" ("here") before closing the thought with "voobshche" ("at all").
-- 'Have you all lost your minds?' The guest prompts frankly as the talk turns, pairing "uma" ("mind") with "soshli" ("went off") to get the point across in plain spoken Russian.
-- 'You have a real circus in here!' The guest picks an emphatic position with Barinov, anchoring the Russian line on "zdes" ("here") and "nastoyashchiy" ("real, genuine") without extra filler.
-- 'Welcome to this kitchen.' The guest brings a sharp attitude with Barinov, putting "dobro" ("good, kindness") alongside "pozhalovat" ("to welcome") in a tight, everyday turn of phrase.
-- 'Guys, let us leave quickly, follow me!' The guest chooses a lively style in the conversation, weaving "rebyata" ("the boys, the lads") together with "bystro" ("quickly") just the way native speakers do.
+- 'Why are you meddling in my kitchen?' The guest chooses this key expression at once: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Because this is my restaurant.' Barinov aims the thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And today is my daughter's wedding.' Barinov replies steadily to settle things, refusing to let the moment slip past.
+- 'I will supervise every dish.' Barinov reaches for one loaded word right here: "kontrolirovat" means "to keep an eye on", and it carries the main weight of what Barinov is saying.
+- 'Clear enough, then supervise it here yourself.' The guest replies steadily to be clear, so Barinov knows he is not just making small talk.
+- 'Keep supervising, respected maestro!' The guest follows up at once facing Barinov, keeping the focus on what actually matters here.
+- 'Check the plating of every dish yourself!' The guest favors one pointed choice for Barinov: "proveryayte" means "check" (from "proveryat"), giving the line its exact edge.
+- 'What on earth are you doing in here?' The guest brings that line before Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Have you all lost your minds?' The guest presses bluntly whether Barinov really thought this through.
+- 'You have a real circus in here!' The guest emphasizes one familiar touch for Barinov: "nastoyashchiy" means "real, genuine", and it carries the main weight of what the guest is saying.
+- 'Welcome to this kitchen.' The guest continues honestly hearing Barinov, shifting the whole mood of the room in a single beat.
+- 'Guys, let us leave quickly, follow me!' The guest responds lightly around Barinov, watching Barinov's face to see how the news lands.

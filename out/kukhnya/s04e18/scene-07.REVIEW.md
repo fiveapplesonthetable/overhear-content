@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to introduce a new menu.' Nagiyev sets a calm view across the room, weaving "nado" ("it is necessary") together with "vvesti" ("to introduce") just the way native speakers do.
-- 'I have seen it, it works wonderfully.' Nagiyev maintains a grounded course toward Barinov, leaning on "videl" ("saw, have seen") before closing the thought with "prekrasno" ("perfectly").
-- 'Dima, let's step aside for a minute.' Barinov strikes a brisk rhythm as they talk, building the phrase around "davay" ("let's") and "otoydyom" ("to step back") for a crisp, natural delivery.
-- 'What are you holding there in your hands?' Nagiyev tests openly without holding back, putting "tam" ("there") alongside "rukakh" ("hands") in a tight, everyday turn of phrase.
-- 'Vitya, are you playing games?' Nagiyev tests naturally without holding back, leaning on "igry" ("games") before closing the thought with "igrayesh" ("to play").
-- 'Speak, I have no secrets from colleagues.' Nagiyev keeps a steady angle in this beat, anchoring the Russian line on "govori" ("say, talk") and "kolleg" ("colleagues") without extra filler.
-- 'Dima, we have a big problem.' Barinov projects an honest view in this beat, joining "bolshaya" ("large") to "problema" ("problem") so every word pulls its weight.
-- 'You have warmed a snake on your chest.' Barinov favors a warm position during the exchange, linking "zmeyu" ("snake"), "prigrel" ("to chest"), and "ty" ("you") in one brisk exchange.
-- 'My ex-wife is far away right now.' Nagiyev holds an emphatic tone on the spot, using "byvshaya" (from "byvshiy", "former") alongside "zhena" ("wife") to shape the meaning.
-- 'I am talking about your German.' Barinov shows an emphatic posture with Nagiyev, using "govoryu" (from "govorit", "am telling") alongside "germana" ("german") to shape the meaning.
-- 'Take a look at this yourself.' Barinov picks a sharp tack straight away, pairing "posmotri" ("look") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'Well go on, show me the video.' Nagiyev conveys a serious view for Barinov, joining "davay" ("let's") to "pokazhi" ("show") so every word pulls its weight.
+- 'We need to introduce a new menu.' Nagiyev spotlights one memorable choice in earnest: "novoye" means "new" (from "novyy"), giving the line its exact edge.
+- 'I have seen it, it works wonderfully.' Nagiyev chimes in quietly facing Barinov, making his position completely clear.
+- 'Dima, let's step aside for a minute.' Barinov replies boldly without a pause, grounding the moment in plain reality.
+- 'What are you holding there in your hands?' Nagiyev anchors one practical word in reply: "rukakh" means "hands" (from "ruka"), giving the line its exact edge.
+- 'Vitya, are you playing games?' Nagiyev phrases that remark without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Speak, I have no secrets from colleagues.' Nagiyev counters promptly without any doubt, testing Barinov's reaction in the middle of the exchange.
+- 'Dima, we have a big problem.' Barinov leans on one direct choice for Nagiyev: "bolshaya" means "large" (from "bolshoy"), giving the line its exact edge.
+- 'You have warmed a snake on your chest.' Barinov leans on one memorable detail for Nagiyev: "zmeyu" means "snake" (from "zmeya"), giving the line its exact edge.
+- 'My ex-wife is far away right now.' Nagiyev proceeds decisively hearing Barinov, without trying to dress up how he really feels.
+- 'I am talking about your German.' Barinov grounds this telling expression with Nagiyev: "germana" means "german", and it carries the main weight of what Barinov is saying.
+- 'Take a look at this yourself.' Barinov emphasizes one concrete term with Nagiyev: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
+- 'Well go on, show me the video.' Nagiyev fires back pointedly before Barinov, testing Barinov's reaction in the middle of the exchange.

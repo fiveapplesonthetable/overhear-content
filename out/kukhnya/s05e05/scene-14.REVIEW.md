@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the head chef of this restaurant.' Barinov shares a grounded position for Elena, combining "shef-povar" ("head chef") and "restorana" ("restaurant") so the key meaning lands right away.
-- 'Does everything suit you?' Barinov quizzes plainly toward the guest here, using "ustraivayet" (from "ustraivat", "to organize") alongside "vas" ("you") to shape the meaning.
-- 'Thank you, everything is very delicious.' The guest takes a clear approach toward Barinov, leaning on "spasibo" ("thank you") before closing the thought with "ochen" ("very much").
-- 'Turn around carefully.' Barinov holds a measured tack with the guest, leaning on "ostorozhno" ("careful, carefully") before closing the thought with "povernites" ("turn around").
-- 'Are you not acquainted with the woman by the kitchen?' Barinov quizzes decisively across the room, using "znakomy" (from "znakomyy", "acquainted") alongside "zhenshchinoy" ("a woman") to shape the meaning.
-- 'No, I am seeing her for the first time.' The guest holds an earnest tack in front of Elena, linking "vpervyye" ("for the first time"), "vizhu" ("see"), and "net" ("no") in one brisk exchange.
-- 'Stay far away from her.' Barinov shares an earnest course across the room, putting "derzhites" ("stick") alongside "podalshe" ("a little further away") in a tight, everyday turn of phrase.
-- 'Under no circumstances talk to her.' Barinov picks a grounded stance at this moment, pairing "sluchaye" ("case, event") with "obshchaytes" ("talk, associate") to get the point across in plain spoken Russian.
-- 'What, is she some kind of swindler?' The guest challenges wryly in front of Barinov, pairing "moshennitsa" ("con artist") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'We are not sure, we suspect so.' Barinov keeps a frank angle at once, joining "uvereny" ("sure, certain") to "podozrevayem" ("suspect") so every word pulls its weight.
-- 'I talked to her, she does not want to meet.' Barinov takes a lively tempo toward Elena, joining "pogovoril" ("to have a talk") to "khochet" ("wants") so every word pulls its weight.
-- 'Very sad, I will go then.' Elena projects an easygoing stance on the spot, joining "ochen" ("very much") to "zhal" ("it is a pity") so every word pulls its weight.
+- 'I am the head chef of this restaurant.' Barinov directs the thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Does everything suit you?' Barinov asks briskly as the guest tries to explain the situation.
+- 'Thank you, everything is very delicious.' The guest points to one sharp choice in earnest: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
+- 'Turn around carefully.' Barinov sends the comment without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Are you not acquainted with the woman by the kitchen?' Barinov questions earnestly why things suddenly took this turn between them.
+- 'No, I am seeing her for the first time.' The guest focuses on one concrete choice with Elena: "vpervyye" means "for the first time", and it carries the main weight of what the guest is saying.
+- 'Stay far away from her.' Barinov frames the reply to Elena: the "-sya" ending on "derzhites" ("stick") turns the action inward or makes it happen between people naturally.
+- 'Under no circumstances talk to her.' Barinov holds firm promptly with the guest, so the guest knows he is not just making small talk.
+- 'What, is she some kind of swindler?' The guest chooses this direct choice at once: "moshennitsa" means "con artist", and it carries the main weight of what the guest is saying.
+- 'We are not sure, we suspect so.' Barinov brings the reaction toward the guest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I talked to her, she does not want to meet.' Barinov speaks firmly hearing Elena, watching Elena's face to see how the news lands.
+- 'Very sad, I will go then.' Elena stresses one classic expression toward the guest: "ochen" means "very much", and it carries the main weight of what Elena is saying.

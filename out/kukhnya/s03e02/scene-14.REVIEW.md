@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What, have you lost your mind? You almost ran me over!' Elena asks plainly as they speak, pairing "uma" ("mind") with "soshli" ("went off") to get the point across in plain spoken Russian.
-- 'Did you buy your license? What is in your head?' Elena queries steadily across the room, building the phrase around "prava" ("right, correct") and "kupili" ("bought") for a crisp, natural delivery.
-- 'Do you know what speed is permitted?' Elena quizzes directly as they speak, joining "znayete" ("know") to "skorost" ("speed") so every word pulls its weight.
-- 'What kind of youth is this? You could apologize, by the way.' Elena prompts firmly in front of Katya, leaning on "molodyozh" ("youth, kids") before closing the thought with "poshla" ("am off").
-- 'You need to look at the road when you walk, and not all around.' Katya projects a frank direction across the room, linking "dorogu" ("road, way"), "nado" ("it is necessary"), and "smotret" ("to watch") in one brisk exchange.
-- 'So I am the one at fault, is that it?' Elena quizzes pointedly right away, joining "yest" ("there is") to "vinovata" ("at fault, to blame") so every word pulls its weight.
-- 'He probably has a very hard life.' Katya offers a measured rhythm beside Barinov, joining "navernoye" ("probably") to "ochen" ("very much") so every word pulls its weight.
-- 'Hasn't your husband left you yet?' Katya presses honestly in front of Elena, putting "muzh" ("husband") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'How dare you?' Elena presses directly to make the point, building the phrase around "pozvolyayete" ("allow, permit") and "vy" ("you") for a crisp, natural delivery.
-- 'Well then, shall we go?' Barinov presses openly toward Katya here, building the phrase around "poyekhali" ("here we go") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Not only did she almost run me over, she also insulted me.' Elena adopts a clear course in their talk, anchoring the Russian line on "malo" ("little, not enough") and "chut" ("almost, nearly") without extra filler.
-- 'I would love to look her parents in the eye!' Elena strikes an easygoing position beside Katya, joining "khotela" ("wanted, meant") to "glaza" ("eyes") so every word pulls its weight.
+- 'What, have you lost your mind? You almost ran me over!' Elena brings the reaction beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Did you buy your license? What is in your head?' Elena prompts wryly before Katya can change the subject.
+- 'Do you know what speed is permitted?' Elena focuses on one telling word toward Barinov: "razreshena" means "permitted, allowed" (from "razreshyonnyy"), giving the line its exact edge.
+- 'What kind of youth is this? You could apologize, by the way.' Elena puts this warning frankly here: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'You need to look at the road when you walk, and not all around.' Katya jumps in bluntly without a pause, before Barinov can change the subject.
+- 'So I am the one at fault, is that it?' Elena focuses on one familiar choice in reply: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
+- 'He probably has a very hard life.' Katya phrases that answer with ease: the "-sya" ending on "zhivyotsya" ("life is") turns the action inward or makes it happen between people naturally.
+- 'Hasn't your husband left you yet?' Katya challenges candidly to see how Elena will answer on the spot.
+- 'How dare you?' Elena favors one sharp expression for Barinov: "pozvolyayete" means "allow, permit" (from "pozvolyat"), giving the line its exact edge.
+- 'Well then, shall we go?' Barinov shares that reply on cue: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Not only did she almost run me over, she also insulted me.' Elena reacts sharply without a pause, steering the talk right where she wants it.
+- 'I would love to look her parents in the eye!' Elena underscores this telling expression for Katya: "roditelyam" means "to parents" (from "roditeli"), giving the line its exact edge.

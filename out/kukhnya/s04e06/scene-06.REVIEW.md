@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Volodya, hi, I am already waiting for you!' Barinov presents a playful position on the spot, pairing "volodya" ("volodya") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'Vitya, we will not be able to drop by for lunch.' The guest shows a pointed posture at once, linking "poluchitsya" ("will come out"), "zayti" ("to approach"), and "obed" ("lunch") in one brisk exchange.
-- 'Our plane is in the evening, and there is still much to do.' The guest holds a firm line without hesitation, putting "samolyot" ("plane") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
-- 'How can you let me down like that, folks?' Barinov asks firmly at this point, pairing "kak" ("how") with "podvodite" ("to folks") to get the point across in plain spoken Russian.
-- 'You have just upset me very much right now.' Barinov sustains a playful view with the guest, pairing "seychas" ("now") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'Please forgive me, my old pal.' The guest chooses a pointed mood in this beat, leaning on "prosti" ("sorry, forgive me") before closing the thought with "staryy" ("old").
-- 'I tried so hard to surprise you deliciously today.' Barinov keeps a serious tone straight away, putting "staralsya" ("tried") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'All right, then we will stop by your place for dinner!' The guest presents a brisk direction beside Barinov, putting "khorosho" ("good, fine") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'We will drop in right before our evening flight.' The guest keeps an earnest manner right away, weaving "zayedem" ("drop by, stop in") together with "pryamo" ("right, just") just the way native speakers do.
-- 'Wait, you want to come in the evening for dinner?' Barinov wonders plainly as they speak, combining "podozhdi" ("wait") and "khotite" ("want") so the key meaning lands right away.
-- 'Yes, in the evening we will definitely be at your place!' The guest brings a frank manner for Barinov, combining "u tebya" (literally "by you") with "vecherom" ("in the evening") rather than a separate word for "have".
-- 'No problem, Volodya, I will wait for you in the evening.' Barinov sets a direct direction in the room, pairing "problem" ("problems") with "volodya" ("volodya") to get the point across in plain spoken Russian.
+- 'Yes, Volodya, hi, I am already waiting for you!' Barinov follows up lightly with a nod, keeping the focus on what actually matters here.
+- 'Vitya, we will not be able to drop by for lunch.' The guest centers one classic expression at once: "poluchitsya" means "will come out", and it carries the main weight of what the guest is saying.
+- 'Our plane is in the evening, and there is still much to do.' The guest phrases the reaction plainly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'How can you let me down like that, folks?' Barinov challenges frankly as the guest tries to explain the situation.
+- 'You have just upset me very much right now.' Barinov points to this sharp expression in earnest: "rasstroili" means "to upset, distress" (from "rasstroit"), giving the line its exact edge.
+- 'Please forgive me, my old pal.' The guest delivers this statement around Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I tried so hard to surprise you deliciously today.' Barinov counters lightly across the room, making his position completely clear.
+- 'All right, then we will stop by your place for dinner!' The guest chooses one memorable element with Barinov: "khorosho" means "good, fine", and it carries the main weight of what the guest is saying.
+- 'We will drop in right before our evening flight.' The guest counters bluntly on the spot, leaving no doubt about where he stands.
+- 'Wait, you want to come in the evening for dinner?' Barinov tests skeptically about what the guest just brought up.
+- 'Yes, in the evening we will definitely be at your place!' The guest anchors one colorful word toward Barinov: "vecherom" means "in the evening", and it carries the main weight of what the guest is saying.
+- 'No problem, Volodya, I will wait for you in the evening.' Barinov spotlights one loaded expression at once: "problem" means "problems" (from "problema"), giving the line its exact edge.

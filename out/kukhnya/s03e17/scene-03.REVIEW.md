@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will quarrel and ruin our whole wedding.' Kostya holds a candid stance with Max, weaving "pererugayutsya" ("will quarrel with each other") together with "svadbu" ("wedding") just the way native speakers do.
-- 'Max, will you come to our wedding alone?' Nastya prompts briskly in the scene, putting "svadbu" ("wedding") alongside "pridyosh" ("will come") in a tight, everyday turn of phrase.
-- 'And why should I come with Katya?' Max probes frankly without hesitation, joining "pochemu" ("why") to "dolzhen" ("has to, must") so every word pulls its weight.
-- 'Well, I just thought so.' Nastya projects a wry course at this moment, joining "prosto" ("just") to "podumala" ("thought") so every word pulls its weight.
-- 'She really likes you, after all.' Nastya shares a wry tack straight away, anchoring the Russian line on "ochen" ("very much") and "nravishsya" ("appeal to, are liked") without extra filler.
-- 'Max, bring me that, do this for me.' Kostya establishes a natural footing with Nastya, putting "prinesi" ("bring") alongside "sdelay" ("make, do") in a tight, everyday turn of phrase.
-- 'What made you think that she likes me?' Max queries warmly as the beat lands, putting "vzyali" ("took, arrested") alongside "nravlyus" ("appeal, am liked") in a tight, everyday turn of phrase.
-- 'By all the signs, everything adds up.' Nastya conveys a natural manner at this moment, leaning on "priznakam" ("by the signs") before closing the thought with "skhoditsya" ("to match, add up").
-- 'By what kind of signs?' Max wonders boldly right away, pairing "yeshchyo" ("more, still") with "priznakam" ("by the signs") to get the point across in plain spoken Russian.
-- 'First, she looks only at you.' Nastya chooses a measured attitude in front of Max, pairing "pervoye" ("first") with "vzglyady" ("looks, glances") to get the point across in plain spoken Russian.
-- 'That person always tries to touch you.' Nastya takes a brisk style in their talk, leaning on "chelovek" ("a man, a person") before closing the thought with "vsegda" ("always").
-- 'And third, any of your jokes.' Nastya sustains a natural note at once, joining "tretye" ("third") to "lyubyye" ("any") so every word pulls its weight.
-- 'How do you know all this, Nastya?' Max queries bluntly to Kostya here, building the phrase around "otkuda" ("where from") and "znayesh" ("know") for a crisp, natural delivery.
+- 'They will quarrel and ruin our whole wedding.' Kostya proceeds frankly with a sigh, bringing things back to earth after the buildup.
+- 'Max, will you come to our wedding alone?' Nastya reaches for one key choice at once: "svadbu" means "wedding" (from "svadba"), giving the line its exact edge.
+- 'And why should I come with Katya?' Max hands over that point with ease: putting the question word "pochemu" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Well, I just thought so.' Nastya jumps in promptly with a shrug, grounding the moment in plain reality.
+- 'She really likes you, after all.' Nastya spotlights one telling term in earnest: "nravishsya" means "appeal to, are liked" (from "nravitsya"), giving the line its exact edge.
+- 'Max, bring me that, do this for me.' Kostya cuts in boldly toward Nastya, bringing things back to earth after the buildup.
+- 'What made you think that she likes me?' Max inquires promptly to see how Kostya will answer on the spot.
+- 'By all the signs, everything adds up.' Nastya stresses this direct element in earnest: "priznakam" means "by the signs" (from "priznak"), giving the line its exact edge.
+- 'By what kind of signs?' Max directs that remark for Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'First, she looks only at you.' Nastya responds firmly in their talk, saying out loud what both of them already know.
+- 'That person always tries to touch you.' Nastya points to one familiar element on cue: "pytayetsya" means "to try, to attempt" (from "pytatsya"), giving the line its exact edge.
+- 'And third, any of your jokes.' Nastya uses one pointed element at once: "lyubyye" means "any" (from "lyuboy"), giving the line its exact edge.
+- 'How do you know all this, Nastya?' Max questions bluntly if there is more going on behind the scenes.

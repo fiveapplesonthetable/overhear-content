@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, I can explain everything in detail now.' Seeing his chance to push his counter-prank in front of witnesses, Max steps in and offers to explain everything.
 - 'You, boy, picked the wrong girl today!' Glaring at Max, Vika warns him that he picked the wrong woman to mess with today.
 - 'And now we will put on a real fun show.' Not backing down, Max whispers that it is time to put on a real show.
-- 'Hello, Tatyana, let' Turning to Tanya with a polite bow, Max introduces himself as Maxim.
+- 'Hello, Tatyana, let's get acquainted, I am Maxim.' Turning to Tanya with a polite bow, Max introduces himself as Maxim.
 - 'Max, stop this silly circus immediately!' Mortified, Vika hisses at him to stop this ridiculous circus at once.
 - 'I am the father of your future wonderful nephew!' Playing the proud fiancé, Max announces to Tanya that he is the father of her future nephew.
 - 'You are behaving like a complete madman!' Vika tells him he is acting like a complete lunatic.

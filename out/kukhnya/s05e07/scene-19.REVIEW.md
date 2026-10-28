@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I forgot about the wine.' Vika adopts a thoughtful course with Barinov, anchoring the Russian line on "vino" ("wine") and "zabyla" ("forgot") without extra filler.
-- 'Sixty-five thousand rubles.' Kostya sets a wry mood across the room, pairing "tysyach" ("thousand") with "rubley" ("roubles") to get the point across in plain spoken Russian.
-- 'One minute remains until the end of the match.' Barinov favors a frank position without hesitation, leaning on "minuta" ("minute") before closing the thought with "ostayotsya" ("stays").
-- 'Vitya, we need to talk.' Vika presents a firm bearing in the scene, leaning on "nado" ("it is necessary") before closing the thought with "pogovorit" ("to talk").
-- 'Vika, step aside, I cannot see anything.' Barinov presents a wry note for Kostya, linking "otoydi" ("to step back"), "vidno" ("one can see"), and "vika" ("Vika") in one brisk exchange.
-- 'But never do that again.' Barinov projects a candid note for Vika, weaving "bolshe" ("more") together with "nikogda" ("never") just the way native speakers do.
-- 'What did you want?' Barinov queries lightly right away, linking "khotela" ("wanted, meant"), "chego" ("what"), and "ty" ("you") in one brisk exchange.
-- 'Vitya, I want to talk.' Vika favors a lively tack toward Kostya, using "khochu" (from "khotet", "want") alongside "pogovorit" ("to talk") to shape the meaning.
-- 'No, I demand it.' Vika strikes a serious note in the conversation, linking "trebuyu" ("demand"), "net" ("no"), and "ya" ("I") in one brisk exchange.
-- 'That you fire him.' Vika chooses a natural view for Kostya, anchoring the Russian line on "uvolil" ("to fire, to dismiss") and "chtoby" ("so that") without extra filler.
-- 'What is wrong with you?' Barinov queries decisively in the scene, pairing "chto" ("what") with "toboy" ("you") to get the point across in plain spoken Russian.
-- 'Is something wrong with the baby?' Barinov queries bluntly in their exchange, pairing "rebyonkom" ("child") with "chto-to" ("somehow") to get the point across in plain spoken Russian.
+- 'Max, I forgot about the wine.' Vika highlights one colorful element in reply: "vino" means "wine", and it carries the main weight of what Vika is saying.
+- 'Sixty-five thousand rubles.' Kostya drops this point briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'One minute remains until the end of the match.' Barinov speaks up wryly to be clear, keeping the focus on what actually matters here.
+- 'Vitya, we need to talk.' Vika anchors this vivid choice toward Kostya: "pogovorit" means "to talk", and it carries the main weight of what Vika is saying.
+- 'Vika, step aside, I cannot see anything.' Barinov drops the comment at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'But never do that again.' Barinov jumps in promptly without a pause, saying out loud what both of them already know.
+- 'What did you want?' Barinov focuses on one direct choice right here: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
+- 'Vitya, I want to talk.' Vika brings the thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'No, I demand it.' Vika replies dryly toward Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'That you fire him.' Vika emphasizes one classic term at once: "uvolil" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
+- 'What is wrong with you?' Barinov gives the thought beside Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Is something wrong with the baby?' Barinov prompts calmly why things suddenly took this turn between them.

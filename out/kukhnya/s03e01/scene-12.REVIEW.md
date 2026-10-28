@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not particularly fond of you.' Barinov establishes a warm mood with the guest, building the phrase around "osobo" ("particularly") and "lyublyu" ("love") for a crisp, natural delivery.
-- 'And I know that it is mutual.' Barinov shares an earnest course as the scene unfolds, leaning on "znayu" ("know") before closing the thought with "vzaimno" ("likewise, mutually").
-- 'If until the end of the week nobody orders...' Barinov projects a lively mood in the room, weaving "kontsa" ("ending") together with "nedeli" ("weeks") just the way native speakers do.
-- 'Do we have a deal?' Barinov prompts earnestly at this point, centering the phrase on "dogovorilis" ("agreed, deal"), where the "-sya" ending makes the action self-contained.
-- 'Yes, Chef. I will do everything, Chef.' Nastya projects a calm approach without hesitation, building the phrase around "sdelayu" ("I'll do") and "da" ("yes") for a crisp, natural delivery.
-- 'Viktor Petrovich, I think this is unfair.' Nastya holds a candid bearing in the conversation, joining "dumayu" ("I think") to "nechestno" ("unfair, not fair") so every word pulls its weight.
-- 'I will remove the milk-fed lamb from the menu.' Barinov takes a frank note without hesitation, using "uberu" (from "ubrat", "to remove, to take away") alongside "menyu" ("menu") to shape the meaning.
-- 'Tell me, what is this molecular cuisine?' The guest challenges boldly in this moment, using "skazhite" (from "skazat", "tell") alongside "molekulyarnaya" ("molecular") to shape the meaning.
-- 'You know, I would not advise you to get it.' Nastya keeps a sharp tack at this moment, linking "znayete" ("know"), "sovetoval" ("to advise, recommend"), and "vy" ("you") in one brisk exchange.
-- 'Pure chemicals, and very expensive.' Nastya keeps a wry rhythm as they talk, building the phrase around "sploshnaya" ("continuous") and "khimiya" ("chemicals, chemistry") for a crisp, natural delivery.
-- 'I would not advise you to order this.' Nastya keeps a clear tack as the scene unfolds, joining "sovetovala" ("to advise, recommend") to "zakazyvat" ("to order") so every word pulls its weight.
-- 'The cook is new and inexperienced.' Nastya establishes a candid course in the room, pairing "povar" ("chef, cook") with "novyy" ("new") to get the point across in plain spoken Russian.
+- 'I am not particularly fond of you.' Barinov cuts in steadily in their talk, refusing to let the moment slip past.
+- 'And I know that it is mutual.' Barinov colors one colorful word with Nastya: "vzaimno" means "likewise, mutually", and it carries the main weight of what Barinov is saying.
+- 'If until the end of the week nobody orders...' Barinov lays out that answer without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Do we have a deal?' Barinov presses wryly in front of Nastya without any preamble.
+- 'Yes, Chef. I will do everything, Chef.' Nastya sharpens one concrete word for Barinov: "sdelayu" means "I'll do" (from "sdelat"), giving the line its exact edge.
+- 'Viktor Petrovich, I think this is unfair.' Nastya proceeds wryly as things stand, before the guest can change the subject.
+- 'I will remove the milk-fed lamb from the menu.' Barinov speaks earnestly during the talk, keeping the focus on what actually matters here.
+- 'Tell me, what is this molecular cuisine?' The guest leans on this clear element with Nastya: "molekulyarnaya" means "molecular" (from "molekulyarnyy"), giving the line its exact edge.
+- 'You know, I would not advise you to get it.' Nastya stresses one familiar detail at once: "sovetoval" means "to advise, recommend" (from "sovetovat"), giving the line its exact edge.
+- 'Pure chemicals, and very expensive.' Nastya counters promptly to be clear, shifting the whole mood of the room in a single beat.
+- 'I would not advise you to order this.' Nastya stresses this vivid touch with Barinov: "sovetovala" means "to advise, recommend" (from "sovetovat"), giving the line its exact edge.
+- 'The cook is new and inexperienced.' Nastya frames that point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

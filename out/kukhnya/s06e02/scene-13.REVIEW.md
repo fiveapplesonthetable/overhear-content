@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They suddenly moved our filming to tomorrow.' Barinov brings a calm note as the scene unfolds, anchoring the Russian line on "vnezapno" ("suddenly") and "perenesli" ("rescheduled") without extra filler.
-- 'And we need to answer urgently.' Barinov brings a lively line right away, putting "nuzhno" ("necessary") alongside "otvetit" ("answer") in a tight, everyday turn of phrase.
-- 'They want to film tomorrow, what should we do?' Barinov wonders pointedly without hesitation, linking "khotyat" ("want"), "snimat" ("to film"), and "zavtra" ("tomorrow") in one brisk exchange.
-- 'After all, Eleonora forbade everything.' Barinov shares a clear stance toward Mikhail, pairing "zapretila" ("banned") with "eleonora" ("Eleonora") to get the point across in plain spoken Russian.
-- 'Agree to it, tomorrow she will be gone all day.' Mikhail adopts an honest style on the spot, putting "soglashaysya" ("agree") alongside "zavtra" ("tomorrow") in a tight, everyday turn of phrase.
-- 'She will even thank you afterward.' Mikhail adopts a warm stance in the scene, anchoring the Russian line on "yeshchyo" ("more, still") and "spasibo" ("thank you") without extra filler.
-- 'Alright, come tomorrow.' Barinov chooses a resolute course with Mikhail, anchoring the Russian line on "khorosho" ("good, fine") and "priyezzhayte" ("to come, to arrive") without extra filler.
-- 'The crew will be at our place at four o'clock.' Barinov takes a candid posture in the conversation, building the phrase around "gruppa" ("group, team") and "budet" ("will be") for a crisp, natural delivery.
-- 'It is no star, of course, but it is already something.' Barinov brings a direct footing in the scene, pairing "konechno" ("of course") with "zvezda" ("a star") to get the point across in plain spoken Russian.
-- 'Let's go celebrate, I will catch up right now.' Barinov chooses an unhurried footing straight away, linking "poydyom" ("let's go"), "otmetim" ("to celebrate"), and "seychas" ("now") in one brisk exchange.
-- 'Thank you for the help, friend.' Mikhail establishes a candid style as they talk, anchoring the Russian line on "spasibo" ("thank you") and "pomoshch" ("help") without extra filler.
-- 'As we say in Russia, one good turn deserves another.' Mikhail maintains a thoughtful stance as they talk, anchoring the Russian line on "kak" ("how") and "govoryat" ("talks, says") without extra filler.
+- 'They suddenly moved our filming to tomorrow.' Barinov chooses this clear piece for Mikhail: "perenesli" means "rescheduled" (from "perenesti"), giving the line its exact edge.
+- 'And we need to answer urgently.' Barinov lays out that reply without pause: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'They want to film tomorrow, what should we do?' Barinov asks point-blank before Mikhail can change the subject.
+- 'After all, Eleonora forbade everything.' Barinov picks one loaded piece in reply: "zapretila" means "banned" (from "zapretit"), giving the line its exact edge.
+- 'Agree to it, tomorrow she will be gone all day.' Mikhail gives the comeback without pause: the "-sya" ending on "soglashaysya" ("agree") turns the action inward or makes it happen between people naturally.
+- 'She will even thank you afterward.' Mikhail reacts honestly with a nod, shifting the whole mood of the room in a single beat.
+- 'Alright, come tomorrow.' Barinov reaches for one colorful choice in reply: "priyezzhayte" means "to come, to arrive" (from "priyezzhat"), giving the line its exact edge.
+- 'The crew will be at our place at four o'clock.' Barinov offers this answer with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'It is no star, of course, but it is already something.' Barinov continues calmly without a pause, keeping the focus on what actually matters here.
+- 'Let's go celebrate, I will catch up right now.' Barinov reaches for one loaded touch toward Mikhail: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'Thank you for the help, friend.' Mikhail directs that remark with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'As we say in Russia, one good turn deserves another.' Mikhail chimes in promptly beside Barinov, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, yesterday I came to your place to move the new furniture you bought.' Barinov chooses a measured course straight away, leaning on "vchera" ("yesterday") before closing the thought with "priyezzhal" ("came, visited").
-- 'Because Katya is moving in with you, because you are lovers. Got it?' Barinov wonders frankly without a pause, combining "potomu" ("because") and "pereyezzhayet" ("is moving") so the key meaning lands right away.
-- 'Congratulations are in order! Lyova, don't be modest.' Elena chooses a thoughtful angle as the scene unfolds, pairing "mozhno" ("may, can") with "pozdravit" ("to congratulate") to get the point across in plain spoken Russian.
-- 'I am aware of your successes in your personal life.' Elena conveys a natural mood beside Lyova, placing "kurse" ("course, regimen") straight beside "uspekhov" ("successes") with no word for "to be" needed.
-- 'That you and Katya are getting married, new life, new furniture, and all the rest.' Barinov maintains a firm angle in the conversation, joining "zhenites" ("are getting married") to "novaya" ("new") so every word pulls its weight.
-- 'And so, is the wedding soon?' Elena inquires openly in their exchange, weaving "skoro" ("soon") together with "svadba" ("wedding") just the way native speakers do.
-- 'No. Apparently, Viktor Petrovich knows more about my personal life.' Lyova projects a pointed approach on the spot, building the phrase around "vidimo" ("apparently") and "znayet" ("knows") for a crisp, natural delivery.
-- 'And why do I have the feeling that you are pulling my leg?' Lyova inquires firmly from the start, weaving "pochemu" ("why") together with "chuvstvo" ("feeling, emotion") just the way native speakers do.
-- 'I will go work.' Lyova favors a direct course in the scene, using "poydu" (from "poyti", "go") alongside "rabotat" ("to work") to shape the meaning.
-- 'Yes, Lyova, they have really taken you in hand.' Barinov holds a resolute tempo as they talk, joining "vzyali" ("took, arrested") to "oborot" ("turn, circulation") so every word pulls its weight.
-- 'Vitya, may I take a trip to the market? No problem.' Lyova asks promptly from the start, pairing "vopros" ("question, matter") with "mozhno" ("may, can") so the "-sya" ending carries the action.
-- 'What was that just now? I don't know!' Lyova queries honestly in front of Elena, linking "bylo" ("was"), "znayu" ("know"), and "eto" ("this") in one brisk exchange.
+- 'Lyova, yesterday I came to your place to move the new furniture you bought.' Barinov chooses one memorable choice in earnest: "priyezzhal" means "came, visited" (from "priyezzhat"), giving the line its exact edge.
+- 'Because Katya is moving in with you, because you are lovers. Got it?' Barinov shares this statement for Lyova: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Congratulations are in order! Lyova, don't be modest.' Elena responds steadily without a pause, letting the remark speak for itself.
+- 'I am aware of your successes in your personal life.' Elena leans on one concrete word for Lyova: "uspekhov" means "successes" (from "uspekh"), giving the line its exact edge.
+- 'That you and Katya are getting married, new life, new furniture, and all the rest.' Barinov highlights one concrete choice right here: "procheye" means "other things" (from "prochiy"), giving the line its exact edge.
+- 'And so, is the wedding soon?' Elena tests frankly how Lyova expects that to work in practice.
+- 'No. Apparently, Viktor Petrovich knows more about my personal life.' Lyova sharpens this direct detail in earnest: "lichnoy" means "personal" (from "lichnyy"), giving the line its exact edge.
+- 'And why do I have the feeling that you are pulling my leg?' Lyova sends that point in earnest: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I will go work.' Lyova speaks up wryly as they talk, leaving no doubt about where he stands.
+- 'Yes, Lyova, they have really taken you in hand.' Barinov focuses on one familiar term at once: "oborot" means "turn, circulation", and it carries the main weight of what Barinov is saying.
+- 'Vitya, may I take a trip to the market? No problem.' Lyova brings the remark to Barinov: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'What was that just now? I don't know!' Lyova inquires straight out to see how Elena will answer on the spot.

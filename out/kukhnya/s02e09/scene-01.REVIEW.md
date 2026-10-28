@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In everything that happens to us, look for the woman.' Max establishes a grounded position with Kristina, joining "proiskhodit" ("is going on") to "ishchite" ("look for, search") so every word pulls its weight.
-- 'A woman can do anything at all to a man.' Nagiyev picks a warm tone as the scene unfolds, pairing "zhenshchina" ("woman") with "mozhet" ("can") to get the point across in plain spoken Russian.
-- 'You are welcome, handsome.' Kristina strikes a pointed rhythm with Max, anchoring the Russian line on "krasavchik" ("handsome guy") and "ne" ("not") without extra filler.
-- 'That is exactly how it will be.' Max maintains a playful rhythm in the conversation, anchoring the Russian line on "budet" ("will be") and "tak" ("so") without extra filler.
-- 'I bet you will never guess?' Nagiyev checks promptly without a pause, pairing "sporim" ("wanna bet") with "ugadayesh" ("to guess correctly") to get the point across in plain spoken Russian.
-- 'Ainura does not care when she walks in, she has a schedule.' Kristina establishes a pointed bearing across the room, pairing "plevat" ("don't care") with "kogda" ("when") to get the point across in plain spoken Russian.
-- 'You are celebrating for nothing.' Max maintains an earnest note at once, combining "zrya" ("for nothing") and "raduyeshsya" ("to rejoice") so the key meaning lands right away.
-- 'Do you not know how jealous the owner is?' Nagiyev wonders briskly from the start, weaving "znayesh" ("know") together with "khozyain" ("owner") just the way native speakers do.
-- 'Get this freak out of my kitchen.' Kristina establishes an easygoing approach with Max, pairing "uroda" ("idiots, freaks") with "kukhni" ("kitchen") to get the point across in plain spoken Russian.
-- 'And go prepare the desserts.' Max shows a firm view as the scene unfolds, using "deserty" (from "desert", "desserts") alongside "gotovit" ("to cook") to shape the meaning.
-- 'Did you understand me?' Nagiyev challenges calmly toward Kristina here, leaning on "ponyal" ("understood") before closing the thought with "ty" ("you").
-- 'Got it, got it.' Max takes an earnest manner on the spot, using "ponyal" ("understood") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'And back then they were not even married yet.' Max presents a firm position at once, weaving "togda" ("back then") together with "yeshche" ("still") just the way native speakers do.
+- 'In everything that happens to us, look for the woman.' Max reaches for one vivid choice right here: "zhenshchinu" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'A woman can do anything at all to a man.' Nagiyev holds firm calmly hearing Max, letting the remark speak for itself.
+- 'You are welcome, handsome.' Kristina replies dryly with a smile, shifting the whole mood of the room in a single beat.
+- 'That is exactly how it will be.' Max gives the reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I bet you will never guess?' Nagiyev directs that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.
+- 'Ainura does not care when she walks in, she has a schedule.' Kristina cuts in at once beside Nagiyev, steering the talk right where she wants it.
+- 'You are celebrating for nothing.' Max features one practical term for Kristina: "raduyeshsya" means "to rejoice" (from "radovatsya"), giving the line its exact edge.
+- 'Do you not know how jealous the owner is?' Nagiyev directs the reply in earnest: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Get this freak out of my kitchen.' Kristina cuts in openly without a pause, bringing things back to earth after the buildup.
+- 'And go prepare the desserts.' Max centers this key piece toward Nagiyev: "deserty" means "desserts" (from "desert"), giving the line its exact edge.
+- 'Did you understand me?' Nagiyev directs the reply beside Kristina: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.
+- 'Got it, got it.' Max speaks promptly across the room, before Nagiyev can change the subject.
+- 'And back then they were not even married yet.' Max chooses one concrete expression toward Kristina: "zhenaty" means "married" (from "zhenatyy"), giving the line its exact edge.

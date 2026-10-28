@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' Nagiyev displays a resolute position without hesitation, leaning on "pogovorit" ("to talk") before closing the thought with "nam" ("us").
-- 'Have you started hiring deaf people now, or what?' Max asks calmly for Nagiyev's benefit, joining "glukhikh" ("deaf, remote") to "stal" ("to become") so every word pulls its weight.
-- 'Maybe we could?' Nagiyev probes earnestly as they speak, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
-- 'Let us talk it over at a table in the dining room?' Max presses calmly across the room, pairing "davay" ("let's") with "peregovorim" ("to have a talk") to get the point across in plain spoken Russian.
-- 'I decide for myself where I talk things over, understood?' Nagiyev wonders quietly in their exchange, putting "reshayu" ("decide") alongside "gde" ("where") in a tight, everyday turn of phrase.
-- 'Stand up and walk out.' Max shows a frank tempo beside Nagiyev, pairing "vstal" ("stood up, got up") with "vyshel" ("stepped out") to get the point across in plain spoken Russian.
-- 'He will not stand up, I mean he will not walk out.' Nagiyev favors a playful footing in the scene, building the phrase around "vstanet" ("to stand up") and "smysle" ("sense") for a crisp, natural delivery.
-- 'Oh, you mean in that sense?' Max checks boldly across the room, joining "smysle" ("sense") to "etom" ("that") so every word pulls its weight.
-- 'Were you guys frying mushrooms in there, or what?' Nagiyev tests openly toward Max here, combining "griby" ("mushrooms") and "zharili" ("to fry, to roast") so the key meaning lands right away.
-- 'We will talk tomorrow.' Max adopts a firm course for Nagiyev, weaving "zavtra" ("tomorrow") together with "peregovorim" ("to have a talk") just the way native speakers do.
-- 'What subordination means.' Nagiyev displays an emphatic tack in this beat, weaving "subordinatsiya" ("chain of command") together with "chto" ("what") just the way native speakers do.
-- 'You are working for a month without pay.' Max strikes a brisk posture during the exchange, weaving "mesyats" ("month") together with "rabotayesh" ("are working") just the way native speakers do.
-- 'I have said everything I had to say.' Nagiyev keeps a clear mood in this beat, linking "skazal" ("said"), "ya" ("I"), and "vse" ("all") in one brisk exchange.
+- 'We need to talk.' Nagiyev drops the comment before Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Have you started hiring deaf people now, or what?' Max checks quietly before Nagiyev can change the subject.
+- 'Maybe we could?' Nagiyev frames one direct word toward Max: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'Let us talk it over at a table in the dining room?' Max lays out the comeback to Nagiyev: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'I decide for myself where I talk things over, understood?' Nagiyev asks wryly as Max tries to explain the situation.
+- 'Stand up and walk out.' Max uses one colorful element for Nagiyev: "vyshel" means "stepped out" (from "vyyti"), giving the line its exact edge.
+- 'He will not stand up, I mean he will not walk out.' Nagiyev speaks up steadily with a shrug, making his position completely clear.
+- 'Oh, you mean in that sense?' Max wonders skeptically why things suddenly took this turn between them.
+- 'Were you guys frying mushrooms in there, or what?' Nagiyev colors one memorable expression with Max: "griby" means "mushrooms" (from "grib"), giving the line its exact edge.
+- 'We will talk tomorrow.' Max delivers this update before Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What subordination means.' Nagiyev pushes back evenly across the room, so Max knows he is not just making small talk.
+- 'You are working for a month without pay.' Max sharpens this vivid piece in earnest: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
+- 'I have said everything I had to say.' Nagiyev hands over that point for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

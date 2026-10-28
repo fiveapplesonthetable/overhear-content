@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, we really should not do this.' Gulya sets a thoughtful style straight away, combining the intensifier "sovsem" ("completely, at all") with "delat" ("do") to give the line its natural spoken rhythm.
-- 'After all, this is real theft.' Gulya picks an honest course as the scene unfolds, linking "nastoyashcheye" ("real"), "vorovstvo" ("stealing, theft"), and "ved" ("after all") in one brisk exchange.
-- 'What are you talking about?' Ainura queries honestly to make the point, building the phrase around "govorish" ("you say") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Now what Senya does—that is theft.' Ainura sustains a steady view at this moment, weaving "seni" ("senya") together with "vorovstvo" ("stealing, theft") just the way native speakers do.
-- 'Understand, these pastries will spoil by morning.' Ainura displays an unhurried direction right away, putting "poymi" ("understand") alongside "pirozhki" ("pastries") in a tight, everyday turn of phrase.
-- 'They will simply throw them in the trash.' Ainura picks a firm course on the spot, putting "prosto" ("just") alongside "musorku" ("trash bin") in a tight, everyday turn of phrase.
-- 'My heart aches every single time.' Ainura favors a lively direction beside Gulya, linking "kazhdyy" ("every"), "raz" ("time, once"), and "serdtse" ("heart") in one brisk exchange.
-- 'Taste for yourself how delicious it is.' Ainura adopts a steady course in the conversation, putting "poprobuy" ("to try, to taste") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'We will take a couple of pieces for the anniversary.' Ainura presents an earnest approach for Gulya, pairing "paru" ("couple") with "shtuchek" ("little pieces") to get the point across in plain spoken Russian.
-- 'It seems to me someone is over there.' Gulya favors an honest tone at this moment, linking "kazhetsya" ("it seems, I think"), "tam" ("there"), and "yest" ("there is") in one brisk exchange.
-- 'It seemed to me too that the chef was watching.' Ainura maintains a wry course at this moment, combining "tozhe" ("too") and "kazalos" ("to seem") so the key meaning lands right away.
-- 'She is over there all alone right now.' Lyova sets a grounded angle in this beat, pairing "seychas" ("now") with "tam" ("there") so the "-sya" ending carries the action.
+- 'Ainura, we really should not do this.' Gulya spotlights this sharp word toward Ainura: "sovsem" means "at all", and it carries the main weight of what Gulya is saying.
+- 'After all, this is real theft.' Gulya voices this answer frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What are you talking about?' Ainura prompts skeptically to see how Gulya will answer on the spot.
+- 'Now what Senya does—that is theft.' Ainura points to one vivid element for Lyova: "vorovstvo" means "stealing, theft", and it carries the main weight of what Ainura is saying.
+- 'Understand, these pastries will spoil by morning.' Ainura states the remark on cue: the "-sya" ending on "isportyatsya" ("to spoil, go bad") turns the action inward or makes it happen between people naturally.
+- 'They will simply throw them in the trash.' Ainura holds firm dryly across the room, to clear the air between them once and for all.
+- 'My heart aches every single time.' Ainura underscores one practical word for Gulya: "kazhdyy" means "every", and it carries the main weight of what Ainura is saying.
+- 'Taste for yourself how delicious it is.' Ainura reacts lightly hearing Lyova, letting the remark speak for itself.
+- 'We will take a couple of pieces for the anniversary.' Ainura follows up earnestly watching Gulya, letting the remark speak for itself.
+- 'It seems to me someone is over there.' Gulya favors this clear touch at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'It seemed to me too that the chef was watching.' Ainura chimes in warmly without holding back, before Gulya can change the subject.
+- 'She is over there all alone right now.' Lyova answers right away watching Gulya, testing Gulya's reaction in the middle of the exchange.

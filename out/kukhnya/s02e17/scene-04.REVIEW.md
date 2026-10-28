@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, what, are you asleep on your feet?' Max tests pointedly with Kostya now, using "spish" (from "spat", "are sleeping") alongside "kostyan" ("Kostyan") to shape the meaning.
-- 'Listen, Kostya, I am sorry about last night, okay?' Kostya questions naturally beside Nastya, pairing "slushay" ("listen") with "kost" ("bones") to get the point across in plain spoken Russian.
-- 'I did not mean for things with Ilya to turn out like that...' Max adopts a natural posture as the scene unfolds, putting "khotel" ("wanted") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'Yeah, everything is totally fine.' Max favors a wry rhythm on the spot, combining "normalno" ("fine, OK") and "da" ("yes") so the key meaning lands right away.
-- 'Here, this is for you.' Kostya adopts an easygoing attitude on the spot, pairing "vot" ("there, here") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Max, do not get upset.' Nastya chooses a calm bearing straight away, putting "rasstraivaysya" ("be upset, worry") alongside "maks" ("Max") in a tight, everyday turn of phrase.
-- 'I mean, just drink it.' Max holds a wry note during the exchange, pairing "smysle" ("sense") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'Ah, thank you.' Kostya holds an emphatic style in the scene, using "spasibo" ("thank you") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'And how is Sasha doing over there?' Nastya presses plainly to keep things clear, weaving "kak" ("how") together with "tam" ("there") just the way native speakers do.
-- 'I did not see anything at all.' Max sustains a grounded attitude in this beat, building the phrase around "videl" ("saw, have seen") and "ya" ("I") for a crisp, natural delivery.
-- 'What do you mean...' Kostya sustains a natural tack in the conversation, letting the single Russian word "smysle" ("sense") carry the entire reaction on its own.
-- 'Well, just like that.' Nastya takes a resolute position straight away, anchoring the Russian line on "nu" ("oh, come on") and "tak" ("so") without extra filler.
-- 'Listen to me, Max.' Kostya picks a candid footing as they talk, anchoring the Russian line on "poslushay" ("listen") and "maks" ("Max") without extra filler.
+- 'Kostyan, what, are you asleep on your feet?' Max picks one vivid term on cue: "spish" means "are sleeping" (from "spat"), giving the line its exact edge.
+- 'Listen, Kostya, I am sorry about last night, okay?' Kostya brings that answer calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nastya is on board.
+- 'I did not mean for things with Ilya to turn out like that...' Max reacts right away with a shrug, keeping the focus on what actually matters here.
+- 'Yeah, everything is totally fine.' Max highlights one memorable element at once: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
+- 'Here, this is for you.' Kostya sends this update around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Max, do not get upset.' Nastya responds promptly in their talk, letting the remark speak for itself.
+- 'I mean, just drink it.' Max focuses on one memorable touch on cue: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
+- 'Ah, thank you.' Kostya phrases the comment toward Nastya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'And how is Sasha doing over there?' Nastya tests candidly how Kostya expects that to work in practice.
+- 'I did not see anything at all.' Max focuses on one pointed touch on cue: "videl" means "saw, have seen" (from "videt"), giving the line its exact edge.
+- 'What do you mean...' Kostya offers the comment right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Well, just like that.' Nastya speaks candidly facing Max, leaving no doubt about where she stands.
+- 'Listen to me, Max.' Kostya chooses this vivid choice in earnest: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.

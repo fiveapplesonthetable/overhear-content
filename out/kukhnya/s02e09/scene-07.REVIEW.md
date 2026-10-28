@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Probably. When?' Vika inquires quietly to make the point, pairing "navernoye" ("probably") with "kogda" ("when") to get the point across in plain spoken Russian.
-- 'Tomorrow. Tomorrow?' Nagiyev prompts candidly to make the point, leaning on "zavtra" ("tomorrow") as a compact, one-word response that needs no extra words.
-- 'I might not make it in time.' Vika chooses a candid approach in the room, putting "mogu" ("can") alongside "uspet" ("to make it") in a tight, everyday turn of phrase.
-- 'What, is there nowhere else to get it?' Nagiyev queries decisively on the spot, leaning on "bolshe" ("more") before closing the thought with "negde" ("nowhere").
-- 'Otherwise, you have to wait.' Vika establishes a pointed manner without hesitation, combining "nado" ("it is necessary") and "podozhdat" ("to wait") so the key meaning lands right away.
-- 'Have to wait. Why is that?' Nagiyev challenges briskly in the scene, linking "nado" ("it is necessary"), "podozhdat" ("to wait"), and "chto" ("what") in one brisk exchange.
-- 'What do you think?' Vika queries wryly from the start, leaning on "dumayesh" ("think") before closing the thought with "ty" ("you").
-- 'All right, all right, do your best.' Nagiyev conveys an unhurried position in the scene, using "postaraysya" (from "postaratsya", "try") alongside "nu" ("oh, come on") to shape the meaning.
-- 'Just make sure you do not say a word about this to anyone.' Vika conveys an earnest line as they talk, leaning on "tolko" ("only") before closing the thought with "smotri" ("look").
-- 'Look wherever you want.' Nagiyev picks a resolute line in front of Vika, putting "ishchi" ("look for") alongside "gde" ("where") in a tight, everyday turn of phrase.
-- 'And make sure it is fresh.' Vika holds a playful style at once, putting all the weight on "svezhaya" ("fresh") so the reply lands immediately.
-- 'What did he order from you?' Nagiyev tests decisively in this moment, leaning on "zakazal" ("ordered") before closing the thought with "chto" ("what").
-- 'Just not us.' Vika shares a playful manner toward Nagiyev, anchoring the Russian line on "no" ("but") and "ne" ("not") without extra filler.
+- 'Probably. When?' Vika highlights one classic expression at once: "navernoye" means "probably", and it carries the main weight of what Vika is saying.
+- 'Tomorrow. Tomorrow?' Nagiyev shapes the comment calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'I might not make it in time.' Vika responds sharply without any doubt, watching Nagiyev's face to see how the news lands.
+- 'What, is there nowhere else to get it?' Nagiyev centers one colorful detail on cue: "bolshe" means "more", and it carries the main weight of what Nagiyev is saying.
+- 'Otherwise, you have to wait.' Vika drops this line around Nagiyev: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Have to wait. Why is that?' Nagiyev probes quietly why things suddenly took this turn between them.
+- 'What do you think?' Vika centers one colorful touch for Nagiyev: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
+- 'All right, all right, do your best.' Nagiyev shapes that thought plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
+- 'Just make sure you do not say a word about this to anyone.' Vika fires back steadily around Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'Look wherever you want.' Nagiyev chooses one familiar expression on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'And make sure it is fresh.' Vika lays out this answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What did he order from you?' Nagiyev challenges deadpan before Vika can change the subject.
+- 'Just not us.' Vika brings that line facing Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, come on over to us.' Nagiyev presents an earnest manner in this beat, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
-- 'Hello, allow me to introduce a man to you.' Nagiyev picks a warm position across the room, leaning on "zdravstvuyte" ("hello") before closing the thought with "pozvolte" ("allow me").
-- 'He will produce our new show.' Nagiyev keeps a steady position on the spot, building the phrase around "budet" ("will be") and "delat" ("do") for a crisp, natural delivery.
-- 'He is a true master of our television.' Nagiyev keeps an earnest style in the conversation, building the phrase around "nastoyashchiy" ("real, genuine") and "master" ("technician") for a crisp, natural delivery.
-- 'This is my friend Vyacheslav Aleksandrovich.' Nagiyev maintains a sharp style across the room, linking "drug" ("friend") directly with "vyacheslav" ("aleksandrovich"), since Russian drops "is" and "are" in the present.
-- 'We are very pleased to meet you.' Vika picks a wry view straight away, anchoring the Russian line on "ochen" ("very much") and "priyatno" ("pleasant") without extra filler.
-- 'And why are we just standing around?' Nagiyev queries dryly during the talk, pairing "prosto" ("just") with "stoim" ("to stand") to get the point across in plain spoken Russian.
-- 'Let's work actively, gentlemen.' Nagiyev projects a calm bearing straight away, putting "davayte" ("let's") alongside "aktivno" ("actively") in a tight, everyday turn of phrase.
-- 'We will work for the common good.' Nagiyev picks a measured note beside Vika, pairing "budem" ("will") with "truditsya" ("to common") to get the point across in plain spoken Russian.
-- 'Well then, have you decided on the host yet?' Nagiyev questions candidly in front of Vika, using "vedushchim" (from "vedushchit", "to yet") alongside "uzhe" ("already, now") to shape the meaning.
-- 'Excuse me, I need to answer this right now.' Vika strikes a brisk course straight away, putting "izvinite" ("sorry, excuse me") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Hello, yes, I am listening to you closely.' Vika presents a wry footing toward Nagiyev, weaving "vnimatelno" ("carefully, attentively") together with "slushayu" ("I'm listening") just the way native speakers do.
+- 'Good afternoon, come on over to us.' Nagiyev follows up pointedly on the spot, leaving no doubt about where he stands.
+- 'Hello, allow me to introduce a man to you.' Nagiyev centers one loaded element in earnest: "zdravstvuyte" means "hello", and it carries the main weight of what Nagiyev is saying.
+- 'He will produce our new show.' Nagiyev counters steadily with Vika, bringing things back to earth after the buildup.
+- 'He is a true master of our television.' Nagiyev counters bluntly watching Vika, testing Vika's reaction in the middle of the exchange.
+- 'This is my friend Vyacheslav Aleksandrovich.' Nagiyev spotlights this key element with Vika: "aleksandrovich" means "aleksandrovich", and it carries the main weight of what Nagiyev is saying.
+- 'We are very pleased to meet you.' Vika voices the reaction with ease: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
+- 'And why are we just standing around?' Nagiyev wonders openly how Vika expects that to work in practice.
+- 'Let's work actively, gentlemen.' Nagiyev highlights one colorful detail right here: "gospoda" means "gentlemen" (from "gospodin"), giving the line its exact edge.
+- 'We will work for the common good.' Nagiyev holds firm firmly with a sigh, keeping the focus on what actually matters here.
+- 'Well then, have you decided on the host yet?' Nagiyev inquires quietly how Vika expects that to work in practice.
+- 'Excuse me, I need to answer this right now.' Vika stresses one loaded detail right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Hello, yes, I am listening to you closely.' Vika points to one key piece on cue: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Vika is saying.

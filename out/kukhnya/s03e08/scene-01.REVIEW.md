@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, you can go wherever you want.' Vika maintains a warm line straight away, leaning on "mozhesh" ("can") before closing the thought with "idti" ("to go").
-- 'If, of course, football is dearer to you than I am.' Vika shares a serious stance at this moment, building the phrase around "konechno" ("of course") and "futbol" ("football") for a crisp, natural delivery.
-- 'Alright, darling, as you say, so it will be.' Barinov offers a natural bearing for Nagiyev, linking "khorosho" ("good, fine"), "milaya" ("darling"), and "kak" ("how") in one brisk exchange.
-- 'Dmitry Vladimirovich, do you have a minute?' Vika queries sharply from the start, using "yest" (from "byt", "there is") alongside "minutka" ("minute, moment") to shape the meaning.
-- 'I hope that we have a whole life.' Nagiyev holds a frank posture in the room, pairing "nadeyus" ("hope so") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'Our chef fired the food delivery courier.' Vika picks a candid tone across the room, anchoring the Russian line on "uvolil" ("to fire, to dismiss") and "kuryera" ("courier") without extra filler.
-- 'He said that his dishes are eaten only in the restaurant.' Barinov shares a firm approach in the scene, anchoring the Russian line on "skazal" ("said") and "blyuda" ("of dish") without extra filler.
-- 'How to deal with him, I do not understand.' Vika shares a firm tempo in front of Nagiyev, combining "kak" ("how") and "borotsya" ("to fight") so the key meaning lands right away.
-- 'I also do not understand whether we are dating or not.' Nagiyev maintains an earnest bearing in front of Barinov, combining "tozhe" ("too") and "ponimayu" ("understand") so the key meaning lands right away.
-- 'After all, you and I went to the movies three times.' Nagiyev displays a firm tack toward Vika, anchoring the Russian line on "kino" ("cinema, movies") and "khodili" ("walked") without extra filler.
-- 'And you and I even kissed there.' Nagiyev establishes a brisk view at this moment, putting "tam" ("there") alongside "tselovalis" ("were kissing") in a tight, everyday turn of phrase.
-- 'Yesterday, when you fell fast asleep at the movies.' Nagiyev offers an honest mood straight away, putting "vchera" ("yesterday") alongside "kogda" ("when") in a tight, everyday turn of phrase.
+- 'Vitya, you can go wherever you want.' Vika highlights one classic touch right here: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'If, of course, football is dearer to you than I am.' Vika directs the comeback beside Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Alright, darling, as you say, so it will be.' Barinov weighs in sharply as things stand, bringing things back to earth after the buildup.
+- 'Dmitry Vladimirovich, do you have a minute?' Vika focuses on this vivid touch in reply: "minutka" means "minute, moment", and it carries the main weight of what Vika is saying.
+- 'I hope that we have a whole life.' Nagiyev brings this answer at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Our chef fired the food delivery courier.' Vika holds firm wryly with a nod, keeping the focus on what actually matters here.
+- 'He said that his dishes are eaten only in the restaurant.' Barinov spotlights one vivid word with Nagiyev: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'How to deal with him, I do not understand.' Vika makes the thought without fuss: the "-sya" ending on "borotsya" ("to fight") turns the action inward or makes it happen between people naturally.
+- 'I also do not understand whether we are dating or not.' Nagiyev chimes in openly across the room, grounding the moment in plain reality.
+- 'After all, you and I went to the movies three times.' Nagiyev frames one sharp element in earnest: "khodili" means "walked" (from "khodit"), giving the line its exact edge.
+- 'And you and I even kissed there.' Nagiyev frames the thought without fuss: the "-sya" ending on "tselovalis" ("were kissing") turns the action inward or makes it happen between people naturally.
+- 'Yesterday, when you fell fast asleep at the movies.' Nagiyev weighs in lightly with Vika, testing Vika's reaction in the middle of the exchange.

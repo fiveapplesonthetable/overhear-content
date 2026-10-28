@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you out of your mind?' Max tests steadily in their exchange, putting "voobshche" ("at all") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'Between you and Igor.' Barinov picks a warm tack in the scene, building the phrase around "tebya" ("you") and "igorem" ("Igor") for a crisp, natural delivery.
-- 'Just like I saw with my own eyes.' Max chooses a lively posture in the room, weaving "kak" ("how") together with "videl" ("saw, have seen") just the way native speakers do.
-- 'Well, what else could I think?' Max tests pointedly without a pause, combining "mog" ("can, to be able") and "podumat" ("to think") so the key meaning lands right away.
-- 'Max, you are the one who needs a doctor.' Barinov maintains a lively manner on the spot, joining "doktor" ("Doctor") to "nuzhen" ("is needed") so every word pulls its weight.
-- 'So you two were playing doctor?' Vika wonders quietly at this point, anchoring the Russian line on "doktor" ("Doctor") and "igrali" ("to play") without extra filler.
-- 'Viktoriya Sergeyevna, for goodness' Max projects an easygoing approach during the exchange, joining "boga" ("God") to "izvinite" ("sorry, excuse me") so every word pulls its weight.
-- 'Dima just got upset.' Barinov keeps a calm style at once, putting "prosto" ("just") alongside "rasstroilsya" ("got upset") in a tight, everyday turn of phrase.
-- 'I got upset that I could not buy it.' Max shows a direct stance on the spot, putting "rasstroilsya" ("got upset") alongside "smog" ("to be able") in a tight, everyday turn of phrase.
-- 'Anyway, we got so upset that we drank a little too much.' Max offers a measured stance in front of Vika, building the phrase around "obshchem" ("short, so") and "rasstroilis" ("to get upset") for a crisp, natural delivery.
-- 'And at yourself.' Barinov conveys an unhurried direction on the spot, putting "na" ("on, onto") alongside "sebya" ("myself") in a tight, everyday turn of phrase.
-- 'Do not stress about it.' Vika shows a resolute bearing as the scene unfolds, joining "parsya" ("to steam oneself in a bathhouse") to "da" ("yes") so every word pulls its weight.
-- 'Wonderful, just marvelous.' Max maintains a thoughtful course straight away, weaving "prekrasno" ("perfectly") together with "zamechatelno" ("wonderful") just the way native speakers do.
+- 'Are you out of your mind?' Max underscores this telling touch in earnest: "voobshche" means "at all", and it carries the main weight of what Max is saying.
+- 'Between you and Igor.' Barinov voices the comment without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Just like I saw with my own eyes.' Max responds plainly during the talk, before Barinov can change the subject.
+- 'Well, what else could I think?' Max colors one direct term at once: "podumat" means "to think", and it carries the main weight of what Max is saying.
+- 'Max, you are the one who needs a doctor.' Barinov delivers that thought frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So you two were playing doctor?' Vika presses briskly why things suddenly took this turn between them.
+- 'Viktoriya Sergeyevna, for goodness' Max sharpens one sharp expression in earnest: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Dima just got upset.' Barinov delivers the thought frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I got upset that I could not buy it.' Max steps in firmly toward Barinov, grounding the moment in plain reality.
+- 'Anyway, we got so upset that we drank a little too much.' Max centers one pointed touch in earnest: "rasstroilis" means "to get upset" (from "rasstroitsya"), giving the line its exact edge.
+- 'And at yourself.' Barinov directs this warning frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do not stress about it.' Vika steps in pointedly watching Max, letting the remark speak for itself.
+- 'Wonderful, just marvelous.' Max colors this telling detail at once: "zamechatelno" means "wonderful", and it carries the main weight of what Max is saying.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, forgive me for distracting you from your work.' Nastya picks a steady line across the room, putting "izvini" ("sorry, excuse me") alongside "otvlekayu" ("distract") in a tight, everyday turn of phrase.
-- 'I just missed you so much.' Louis sets a pointed angle as they talk, building the phrase around "prosto" ("just") and "ochen" ("very much") for a crisp, natural delivery.
-- 'I knew it all along.' Nastya takes a sharp footing on the spot, using "znala" (from "znat", "knew") alongside "ya" ("I") to shape the meaning.
-- 'No, no, no.' Louis displays a warm line at once, putting all the weight on "net" ("no") so the reply lands immediately.
-- 'You are actually the only girl I have ever...' Nastya keeps an easygoing tack right away, linking "voobshche" ("at all"), "yedinstvennaya" ("only, sole"), and "devushka" ("girlfriend") in one brisk exchange.
-- 'Thank goodness for that.' Louis conveys a thoughtful direction with Nastya, leaning on "slava" ("glory") before closing the thought with "bogu" ("to God").
-- 'That is why nothing can ever happen between us.' Nastya brings a wry view in front of Louis, putting "poetomu" ("that's why") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
-- 'What, am I really that ugly?' Louis presses boldly on the spot, placing "strashnaya" ("terrible, dreadful") straight beside "ya" ("I") with no word for "to be" needed.
-- 'You did it like a real man.' Nastya projects a thoughtful footing in the scene, joining "delal" ("were doing") to "kak" ("how") so every word pulls its weight.
-- 'My little boy?' Louis queries steadily without a pause, building the phrase around "malchik" ("boy") and "moy" ("my") for a crisp, natural delivery.
-- 'Alright, get back to the kitchen alive.' Nastya picks a measured view right away, anchoring the Russian line on "zhivy" ("living, alive") and "kukhnyu" ("kitchen") without extra filler.
-- 'I am terribly sorry, I have to run.' Louis projects a playful style as the scene unfolds, putting "ochen" ("very much") alongside "skuchno" ("boring") in a tight, everyday turn of phrase.
-- 'Wait, is that him?' Nastya wonders dryly as they speak, joining "eto" ("this") to "on" ("he") so every word pulls its weight.
+- 'Louis, forgive me for distracting you from your work.' Nastya holds firm briskly watching Louis, keeping the focus on what actually matters here.
+- 'I just missed you so much.' Louis features one colorful expression right here: "soskuchilsya" means "missed" (from "soskuchitsya"), giving the line its exact edge.
+- 'I knew it all along.' Nastya directs the reply without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'No, no, no.' Louis pushes back candidly without holding back, without trying to dress up how he really feels.
+- 'You are actually the only girl I have ever...' Nastya sharpens one loaded word right here: "yedinstvennaya" means "only, sole" (from "yedinstvennyy"), giving the line its exact edge.
+- 'Thank goodness for that.' Louis sends the remark in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'That is why nothing can ever happen between us.' Nastya continues decisively with a shrug, bringing things back to earth after the buildup.
+- 'What, am I really that ugly?' Louis chooses one sharp detail at once: "strashnaya" means "terrible, dreadful" (from "strashnyy"), giving the line its exact edge.
+- 'You did it like a real man.' Nastya underscores one loaded detail at once: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nastya is saying.
+- 'My little boy?' Louis asks eagerly whether Nastya really thought this through.
+- 'Alright, get back to the kitchen alive.' Nastya emphasizes one key touch right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'I am terribly sorry, I have to run.' Louis sends the thought right away: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Wait, is that him?' Nastya probes candidly whether Louis really thought this through.

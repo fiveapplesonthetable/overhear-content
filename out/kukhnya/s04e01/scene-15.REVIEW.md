@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly! Pack everything up fast!' Barinov displays a resolute manner in the conversation, pairing "bystro" ("quickly") with "sobrali" ("to collect") to get the point across in plain spoken Russian.
-- 'Dima, I will explain everything to you right now.' Barinov offers a frank tone across the room, weaving "seychas" ("now") together with "obyasnyu" ("I'll explain") just the way native speakers do.
-- 'We will feed your guests properly right away.' Barinov takes a grounded approach in their talk, joining "seychas" ("now") to "bystrenko" ("guests") so every word pulls its weight.
-- 'Don't bother. You have already fed everyone.' Nagiyev projects a thoughtful note beside Lyova, weaving "nado" ("it is necessary") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Open the door, I told you!' Nagiyev shows a warm footing straight away, weaving "otkroy" ("to open") together with "dver" ("door") just the way native speakers do.
-- 'You are fired! Open the door, I am counting to three.' Nagiyev holds an honest bearing in their talk, building the phrase around "uvolil" ("to fire, to dismiss") and "otkroy" ("to open") for a crisp, natural delivery.
-- 'Six months.' Nagiyev displays a direct footing as the scene unfolds, letting the single Russian word "polgoda" ("six months") carry the entire reaction on its own.
-- 'You are working without a salary.' Nagiyev displays a firm tone as the scene unfolds, putting "rabotayesh" ("are working") alongside "zarplaty" ("salaries") in a tight, everyday turn of phrase.
-- 'Did you understand me?' Nagiyev challenges lightly with Barinov now, leaning on "ponyal" ("understood") before closing the thought with "ty" ("you").
-- 'He is an absolute madman.' Barinov sustains a natural mood without hesitation, leaning on "absolyutnyy" ("absolute, complete") before closing the thought with "psikh" ("psycho").
-- 'Yes, all the time!' Lyova presents an emphatic tack in the conversation, joining "postoyanno" ("constantly") to "da" ("yes") so every word pulls its weight.
-- 'I have had enough of this slave driver!' Barinov favors a brisk mood right away, anchoring the Russian line on "dostal" ("got on everyone's nerves") and "plantator" ("slave") without extra filler.
+- 'Quickly! Pack everything up fast!' Barinov pushes back right away with a shrug, letting the remark speak for itself.
+- 'Dima, I will explain everything to you right now.' Barinov grounds one colorful detail on cue: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'We will feed your guests properly right away.' Barinov speaks warmly without holding back, shifting the whole mood of the room in a single beat.
+- 'Don't bother. You have already fed everyone.' Nagiyev jumps in right away to settle things, refusing to let the moment slip past.
+- 'Open the door, I told you!' Nagiyev uses one colorful element on cue: "otkroy" means "to open" (from "otkryt"), giving the line its exact edge.
+- 'You are fired! Open the door, I am counting to three.' Nagiyev uses one telling term for Lyova: "schitayu" means "am counting" (from "schitat"), giving the line its exact edge.
+- 'Six months.' Nagiyev pushes back right away beside Barinov, saying out loud what both of them already know.
+- 'You are working without a salary.' Nagiyev features one colorful choice for Lyova: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
+- 'Did you understand me?' Nagiyev directs that answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'He is an absolute madman.' Barinov stands firm evenly without a pause, before Nagiyev can change the subject.
+- 'Yes, all the time!' Lyova anchors one pointed detail on cue: "postoyanno" means "constantly", and it carries the main weight of what Lyova is saying.
+- 'I have had enough of this slave driver!' Barinov brings the reply on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

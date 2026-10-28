@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, please, may I have a word for a minute?' The guest questions plainly with Senya now, using "prostite" (from "prostit", "excuse me") alongside "mozhno" ("may, can") to shape the meaning.
-- 'Yes, of course, I am listening to you closely.' Senya chooses a thoughtful view in the conversation, combining "konechno" ("of course") and "vnimatelno" ("carefully, attentively") so the key meaning lands right away.
-- 'Do you happen to know where to leave money here?' The guest checks boldly without a pause, linking "znayete" ("know"), "gde" ("where"), and "tut" ("here") in one brisk exchange.
-- 'In principle, you can hand the envelope to me.' Senya projects a lively stance in the room, using "printsipe" (from "printsip", "principle") alongside "mozhete" ("can, may") to shape the meaning.
-- 'I will definitely pass it on to the right person.' Senya takes a thoughtful posture in the conversation, joining "obyazatelno" ("surely, without fail") to "peredam" ("will pass on") so every word pulls its weight.
-- 'Forgive me for my indiscretion.' The guest projects a pointed note in their talk, joining "prostite" ("excuse me") to "neskromnost" ("to indiscretion") so every word pulls its weight.
-- 'And how much did you put in yourself today?' The guest challenges wryly during the talk, linking "segodnya" ("today"), "skolko" ("how much, so much"), and "polozhili" ("to put, to lay down") in one brisk exchange.
-- 'I am here for the first time, I put in only a hundred.' The guest conveys a thoughtful line for Senya, pairing "zdes" ("here") with "pervyy" ("first") to get the point across in plain spoken Russian.
-- 'And I put in a whole five hundred today!' Senya displays a pointed approach in front of the guest, building the phrase around "segodnya" ("today") and "tselykh" ("whole, entire") for a crisp, natural delivery.
-- 'Whoa, you are a very generous person!' The guest displays an emphatic posture for Senya, building the phrase around "ochen" ("very much") and "shchedryy" ("generous") for a crisp, natural delivery.
-- 'And most importantly, you are a very noble guest.' The guest establishes an easygoing line right away, leaning on "glavnoye" ("important") before closing the thought with "ochen" ("very much").
-- 'After all, five hundred thousand is a serious sum!' The guest sustains a playful view in the conversation, building the phrase around "tysyach" ("thousand") and "seryoznaya" ("serious") for a crisp, natural delivery.
+- 'Excuse me, please, may I have a word for a minute?' The guest delivers the comment briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Yes, of course, I am listening to you closely.' Senya responds openly in this moment, bringing things back to earth after the buildup.
+- 'Do you happen to know where to leave money here?' The guest picks one familiar term for Senya: "ostavlyat" means "to leave", and it carries the main weight of what the guest is saying.
+- 'In principle, you can hand the envelope to me.' Senya jumps in plainly hearing the guest, to clear the air between them once and for all.
+- 'I will definitely pass it on to the right person.' Senya speaks pointedly toward the guest, refusing to let the moment slip past.
+- 'Forgive me for my indiscretion.' The guest sharpens one concrete piece with Senya: "neskromnost" means "to indiscretion", and it carries the main weight of what the guest is saying.
+- 'And how much did you put in yourself today?' The guest puts the remark in earnest: putting the question word "skolko" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'I am here for the first time, I put in only a hundred.' The guest fires back calmly as they talk, testing Senya's reaction in the middle of the exchange.
+- 'And I put in a whole five hundred today!' Senya picks this vivid detail in reply: "tselykh" means "whole, entire" (from "tselyy"), giving the line its exact edge.
+- 'Whoa, you are a very generous person!' The guest drops the thought frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And most importantly, you are a very noble guest.' The guest cuts in openly during the talk, refusing to let the moment slip past.
+- 'After all, five hundred thousand is a serious sum!' The guest picks one concrete detail for Senya: "seryoznaya" means "serious" (from "seryoznyy"), giving the line its exact edge.

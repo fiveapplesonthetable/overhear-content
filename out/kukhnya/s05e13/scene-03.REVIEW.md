@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As usual, you do not last very long.' Vika picks a wry mood without hesitation, leaning on "kak" ("how") before closing the thought with "obychno" ("usually").
-- 'Woman, do not wake the beast in me!' Senya shares a wry view in the scene, joining "zhenshchina" ("woman") to "budi" ("wake up") so every word pulls its weight.
-- 'You always only think about food!' Senya brings a wry stance in front of Fedya, putting "vsegda" ("always") alongside "tolko" ("only") in a tight, everyday turn of phrase.
-- 'I am not responsible for my actions right now!' Senya favors a lively bearing as the scene unfolds, joining "seychas" ("now") to "otvechayu" ("to answer, to reply") so every word pulls its weight.
-- 'And what will you do to me then?' Vika presses decisively with Fedya now, building the phrase around "togda" ("back then") and "sdelayesh" ("will you make") for a crisp, natural delivery.
-- 'Why are you throwing macaroni at me?' Senya prompts promptly without a pause, pairing "zachem" ("what for") with "kidayesh" ("throw") to get the point across in plain spoken Russian.
-- 'You wanted to have a drink yourself recently!' Vika brings a grounded tone at once, joining "nedavno" ("returned") to "khotel" ("wanted") so every word pulls its weight.
-- 'Please, do not touch me!' Senya adopts a steady stance in the scene, anchoring the Russian line on "nado" ("it is necessary") and "trogat" ("to touch") without extra filler.
-- 'Guys, I got hit hard at home.' Senya adopts a playful style in the conversation, joining "rebyata" ("the boys, the lads") to "doma" ("at home") so every word pulls its weight.
-- 'We told you that right from the start.' Fedya presents a direct tempo in the room, joining "srazu" ("at once") to "govorili" ("talked") so every word pulls its weight.
-- 'It is better to sit quietly in our kitchen.' Senya projects a lively style during the exchange, putting "luchshe" ("better") alongside "spokoyno" ("calmly") in a tight, everyday turn of phrase.
-- 'Let's rather have a little more to drink.' Fedya takes a playful angle on the spot, pairing "davay" ("let's") with "luchshe" ("better") to get the point across in plain spoken Russian.
+- 'As usual, you do not last very long.' Vika holds firm right away with a smile, watching Fedya's face to see how the news lands.
+- 'Woman, do not wake the beast in me!' Senya frames this sharp expression right here: "zhenshchina" means "woman", and it carries the main weight of what Senya is saying.
+- 'You always only think about food!' Senya reaches for this key expression with Fedya: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
+- 'I am not responsible for my actions right now!' Senya speaks up wryly in their talk, steering the talk right where he wants it.
+- 'And what will you do to me then?' Vika chooses one direct term in reply: "sdelayesh" means "will you make" (from "sdelat"), giving the line its exact edge.
+- 'Why are you throwing macaroni at me?' Senya directs this update toward Vika: putting the question word "zachem" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'You wanted to have a drink yourself recently!' Vika continues plainly as they talk, refusing to let the moment slip past.
+- 'Please, do not touch me!' Senya frames this sharp expression at once: "trogat" means "to touch", and it carries the main weight of what Senya is saying.
+- 'Guys, I got hit hard at home.' Senya reacts sharply toward Fedya, keeping the focus on what actually matters here.
+- 'We told you that right from the start.' Fedya follows up frankly toward Vika, watching Vika's face to see how the news lands.
+- 'It is better to sit quietly in our kitchen.' Senya underscores one sharp piece in reply: "spokoyno" means "calmly", and it carries the main weight of what Senya is saying.
+- 'Let's rather have a little more to drink.' Fedya voices that reply with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

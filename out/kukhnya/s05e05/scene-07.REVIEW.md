@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Elena Vladimirovna.' Max sets an earnest manner in their talk, pairing "zdravstvuyte" ("hello") with "yelena" ("Yelena") to get the point across in plain spoken Russian.
-- 'Hello.' The doctor adopts a measured angle on the spot, using "zdravstvuyte" ("hello") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'I am Maxim Lavrov.' Max presents a pointed footing in the room, weaving "ya" ("I") together with "maksim" ("Maksim") just the way native speakers do.
-- 'My wife is being monitored by you.' Max chooses an honest direction during the exchange, putting "zhena" ("wife") alongside "nablyudayetsya" ("is being monitored") in a tight, everyday turn of phrase.
-- 'She asked me to pick up her test results.' Max adopts a sharp tone with the doctor, pairing "prosila" ("asked") with "zabrat" ("take") to get the point across in plain spoken Russian.
-- 'Yes, and what about it?' The doctor questions plainly during the talk, putting "da" ("yes") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'And Victoria asked me not to say anything.' The doctor brings a playful tack beside Max, anchoring the Russian line on "prosila" ("asked") and "govorit" ("to talk") without extra filler.
-- 'To a man named Maxim Lavrov.' The doctor sustains a steady manner during the exchange, weaving "cheloveku" ("to a person") together with "imeni" ("name") just the way native speakers do.
-- 'Forgive me, this is very important.' Max favors a playful tone in this beat, linking "prostite" ("excuse me"), "ochen" ("very much"), and "vazhno" ("important, mattering") in one brisk exchange.
-- 'I need to know the truth.' Max shares a natural direction at this moment, linking "nuzhno" ("necessary"), "znat" ("to know"), and "pravdu" ("truth") in one brisk exchange.
-- 'I cannot tell you anything.' The doctor brings a firm angle right away, leaning on "mogu" ("can") before closing the thought with "skazat" ("tell").
-- 'The thing is that this is my child.' Max conveys a candid view toward the doctor, combining "delo" ("matter") and "rebyonok" ("a child") so the key meaning lands right away.
+- 'Hello, Elena Vladimirovna.' Max features one memorable choice on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
+- 'Hello.' The doctor makes the comment in earnest: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'I am Maxim Lavrov.' Max follows up briskly with a shrug, steering the talk right where he wants it.
+- 'My wife is being monitored by you.' Max chooses this clear word right here: "nablyudayetsya" means "is being monitored" (from "nablyudatsya"), giving the line its exact edge.
+- 'She asked me to pick up her test results.' Max reacts plainly to settle things, refusing to let the moment slip past.
+- 'Yes, and what about it?' The doctor presses deadpan before Max can change the subject.
+- 'And Victoria asked me not to say anything.' The doctor points to one concrete expression on cue: "prosila" means "asked" (from "prosit"), giving the line its exact edge.
+- 'To a man named Maxim Lavrov.' The doctor stands firm earnestly without a pause, steering the talk right where he wants it.
+- 'Forgive me, this is very important.' Max speaks up right away around the doctor, bringing things back to earth after the buildup.
+- 'I need to know the truth.' Max frames one vivid word on cue: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'I cannot tell you anything.' The doctor gives this update in earnest: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'The thing is that this is my child.' Max fires back lightly to settle things, keeping the focus on what actually matters here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, guys, if you finished everything, go on home!' Barinov strikes a lively rhythm as they talk, building the phrase around "rebyata" ("the boys, the lads") and "sdelali" ("did, have done") for a crisp, natural delivery.
-- 'Chef, Katya and I refined Sauce Lavrov!' Max holds a firm footing without hesitation, linking "dorabotali" ("refined, improved"), "sous" ("sauce"), and "shef" ("Chef") in one brisk exchange.
-- 'And what, now it does not make people nauseous anymore?' Barinov quizzes decisively in front of Max, weaving "teper" ("now") together with "bolshe" ("more") just the way native speakers do.
-- 'Wait, whom did you just serve this sauce to?' Barinov probes boldly to Nagiyev here, putting "podozhdi" ("wait") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'I served it to Dmitry Vladimirovich Nagiyev!' Max shares an honest angle at this moment, anchoring the Russian line on "podal" ("submitted, filed") and "ya" ("I") without extra filler.
-- 'What have you done, have you lost your minds?' Barinov probes wryly toward Nagiyev here, weaving "nadelali" ("make, cause") together with "uma" ("mind") just the way native speakers do.
-- 'Chef, do not worry, Katya separated everything out in there.' Max picks a clear footing beside Barinov, pairing "perezhivayte" ("worry") with "tam" ("there") to get the point across in plain spoken Russian.
-- 'In short, now our sauce is safe for people who are drinking!' Max sustains an emphatic bearing on the spot, leaning on "obshchem" ("short, so") before closing the thought with "teper" ("now").
-- 'Alright, confess, who cooked this fish?' Nagiyev challenges calmly in this moment, putting "priznavaytes" ("confess, admit") alongside "prigotovil" ("cooked") in a tight, everyday turn of phrase.
-- 'I made it, Dmitry Vladimirovich.' Max projects a measured style across the room, weaving "sdelal" ("did") together with "eto" ("this") just the way native speakers do.
-- 'Well done, very delicious, and why did you only make it for me?' Nagiyev checks plainly without holding back, anchoring the Russian line on "molodets" ("well done, good boy") and "ochen" ("very much") without extra filler.
-- 'Make it quickly for everyone, my friends want some too!' Nagiyev takes an honest attitude during the exchange, joining "sdelay" ("make, do") to "bystro" ("quickly") so every word pulls its weight.
+- 'Hey, guys, if you finished everything, go on home!' Barinov underscores one telling expression in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
+- 'Chef, Katya and I refined Sauce Lavrov!' Max proceeds lightly to be clear, steering the talk right where he wants it.
+- 'And what, now it does not make people nauseous anymore?' Barinov checks point-blank about what Max just brought up.
+- 'Wait, whom did you just serve this sauce to?' Barinov frames one sharp word in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I served it to Dmitry Vladimirovich Nagiyev!' Max opens up steadily with Barinov, grounding the moment in plain reality.
+- 'What have you done, have you lost your minds?' Barinov wonders promptly where this conversation is heading next.
+- 'Chef, do not worry, Katya separated everything out in there.' Max anchors one concrete element on cue: "perezhivayte" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'In short, now our sauce is safe for people who are drinking!' Max lays out the remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Alright, confess, who cooked this fish?' Nagiyev prompts promptly what Barinov is actually getting at here.
+- 'I made it, Dmitry Vladimirovich.' Max sharpens one classic term toward Nagiyev: "sdelal" means "did" (from "sdelat"), giving the line its exact edge.
+- 'Well done, very delicious, and why did you only make it for me?' Nagiyev aims the reply with candor: the "-sya" ending on "molodets" ("well done, good boy") turns the action inward or makes it happen between people naturally.
+- 'Make it quickly for everyone, my friends want some too!' Nagiyev speaks firmly facing Max, making his position completely clear.

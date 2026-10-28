@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ladies and gentlemen, welcome the lord of our evening!' Vika sets a pointed line straight away, anchoring the Russian line on "damy" ("lady, woman") and "gospoda" ("gentlemen") without extra filler.
-- 'Today in the coffin I nearly died twice!' Nagiyev shows an honest position as the scene unfolds, anchoring the Russian line on "segodnya" ("today") and "grobu" ("coffin") without extra filler.
-- 'Vika, you completely ruined our important corporate party!' Nagiyev maintains a direct angle in the room, anchoring the Russian line on "polnostyu" ("completely") and "provalila" ("to ruin, to fail") without extra filler.
-- 'Forgive me, I do not know who locked the padlock.' Vika picks a candid tack beside Nagiyev, pairing "prostite" ("excuse me") with "znayu" ("know") to get the point across in plain spoken Russian.
-- 'That is it, Vika, I am firing you from here immediately!' Nagiyev displays an easygoing tack as they talk, leaning on "nemedlenno" ("immediately") before closing the thought with "uvolnyayu" ("to fire, to dismiss").
-- 'Dmitry Vladimirovich, then fire me today too!' German strikes an emphatic position without hesitation, putting "togda" ("back then") alongside "uvolte" ("to fire, to dismiss") in a tight, everyday turn of phrase.
-- 'You cannot dump all the blame on one person!' German presents a wry tempo at once, putting "nelzya" ("not allowed") alongside "valit" ("to get lost") in a tight, everyday turn of phrase.
-- 'After all, I was the one who suggested the Halloween party to you!' German displays a grounded manner at once, combining "prazdnik" ("holiday") and "khellouin" ("restaurant") so the key meaning lands right away.
-- 'All right, then everyone works for half their salary!' Nagiyev presents an emphatic tack during the exchange, pairing "togda" ("back then") with "rabotayut" ("work") to get the point across in plain spoken Russian.
-- 'German, thank you, you acted very nobly!' Vika conveys a clear attitude in the room, weaving "spasibo" ("thank you") together with "postupili" ("acted, behaved") just the way native speakers do.
-- 'The puppeteer and the puppet are always tied by a single thread.' German strikes a frank style in the room, anchoring the Russian line on "kuklovod" ("puppeteer") and "marionetka" ("always") without extra filler.
-- 'Sometimes the puppet can pull on the thread itself!' Vika offers a wry mood straight away, building the phrase around "inogda" ("sometimes, at times") and "marionetka" ("always") for a crisp, natural delivery.
+- 'Ladies and gentlemen, welcome the lord of our evening!' Vika answers earnestly as they talk, so German knows she is not just making small talk.
+- 'Today in the coffin I nearly died twice!' Nagiyev steps in decisively with a shrug, making his position completely clear.
+- 'Vika, you completely ruined our important corporate party!' Nagiyev highlights one memorable detail toward German: "korporativ" means "corporate gig", and it carries the main weight of what Nagiyev is saying.
+- 'Forgive me, I do not know who locked the padlock.' Vika phrases this update calmly now: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'That is it, Vika, I am firing you from here immediately!' Nagiyev pushes back briskly in their talk, refusing to let the moment slip past.
+- 'Dmitry Vladimirovich, then fire me today too!' German sharpens one familiar touch with Vika: "segodnya" means "today", and it carries the main weight of what German is saying.
+- 'You cannot dump all the blame on one person!' German lays out this update frankly here: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'After all, I was the one who suggested the Halloween party to you!' German pushes back sharply on the spot, to clear the air between them once and for all.
+- 'All right, then everyone works for half their salary!' Nagiyev emphasizes this sharp expression toward German: "polovinu" means "half" (from "polovina"), giving the line its exact edge.
+- 'German, thank you, you acted very nobly!' Vika offers that remark beside Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'The puppeteer and the puppet are always tied by a single thread.' German replies at once to be clear, refusing to let the moment slip past.
+- 'Sometimes the puppet can pull on the thread itself!' Vika grounds one concrete term with Nagiyev: "marionetka" means "always", and it carries the main weight of what Vika is saying.

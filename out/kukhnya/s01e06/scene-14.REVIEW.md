@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, let' Making one last desperate attempt, Kostya tries to buy their way out of this trap.
+- 'Wait, let's just pay you money.' Making one last desperate attempt, Kostya tries to buy their way out of this trap.
 - 'Bargaining is completely inappropriate here, young man.' Waving off the cash, Rodion quotes a famous literary phrase to shut him down.
 - 'But this is a very expensive restaurant!' Kostya stresses that fine dining is way out of bounds for this situation.
 - 'I know this fine restaurant perfectly well.' Confidently asserting his taste, Rodion claims familiarity with high-end establishments.

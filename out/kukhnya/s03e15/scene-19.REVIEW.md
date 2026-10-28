@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, what is this matter that cannot be discussed over the phone?' Max questions openly without holding back, pairing "zdravstvuyte" ("hello") with "delo" ("matter") to get the point across in plain spoken Russian.
-- 'With the money that you gave me, Nastya bought a car.' Kostya presents a steady footing as they talk, leaning on "dengi" ("money") before closing the thought with "dali" ("gave").
-- 'Well good for her, since you cannot buy her one yourself.' Max shows an easygoing position at this moment, joining "molodets" ("well done, good boy") to "mozhesh" ("can") so every word pulls its weight.
-- 'It turns out that we again have no money for the wedding.' Kostya offers an unhurried attitude in the room, leaning on "u nas" ("by us, at our place") and "poluchayetsya" ("works out") the way natural Russian does.
-- 'Dad, whose paper is this in the car?' Nastya challenges calmly in the room, building the phrase around "papa" ("Dad") and "bumaga" ("paper") for a crisp, natural delivery.
-- 'It is not mine, it is already yours, sweetheart.' Max favors a grounded stance as they talk, placing "uzhe" ("already, now") straight beside "dochka" ("dear, daughter") with no word for "to be" needed.
-- 'Ah, so that is where all that money came from, right?' Nastya wonders candidly for Kostya's benefit, combining "otkuda" ("where from") and "vzyalis" ("to appear, come from") so the key meaning lands right away.
-- 'The bet you won, the old stash, and the bonuses!' Nastya displays a serious posture at this moment, linking "vyigrannyy" ("won"), "spor" ("bet, wager"), and "staraya" ("old") in one brisk exchange.
-- 'Nastya, listen, I can explain all of this to you!' Kostya conveys a natural direction beside Max, building the phrase around "poslushay" ("listen") and "mogu" ("can") for a crisp, natural delivery.
-- 'Do not explain anything to me, Kostya, everything is clear as it is!' Nastya adopts a sharp posture in the room, doubling the negative with "ne" ("not") and "nado" ("it is necessary"), which is standard and required in Russian.
-- 'You are simply a shameless liar!' Nastya establishes a natural posture as the scene unfolds, combining "prosto" ("just") and "bessovestnyy" ("shameless") so the key meaning lands right away.
-- 'And we are not going to have any wedding now!' Nastya conveys a thoughtful tempo at this moment, combining "svadby" ("wedding") and "teper" ("now") so the key meaning lands right away.
+- 'Hello, what is this matter that cannot be discussed over the phone?' Max points to one key word on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
+- 'With the money that you gave me, Nastya bought a car.' Kostya anchors one vivid piece for Nastya: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
+- 'Well good for her, since you cannot buy her one yourself.' Max steps in promptly toward Kostya, without trying to dress up how he really feels.
+- 'It turns out that we again have no money for the wedding.' Kostya grounds this sharp choice with Nastya: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
+- 'Dad, whose paper is this in the car?' Nastya makes the comeback to Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It is not mine, it is already yours, sweetheart.' Max speaks up firmly before Nastya, leaving no doubt about where he stands.
+- 'Ah, so that is where all that money came from, right?' Nastya centers one practical detail in reply: "vzyalis" means "to appear, come from" (from "vzyatsya"), giving the line its exact edge.
+- 'The bet you won, the old stash, and the bonuses!' Nastya pushes back bluntly facing Max, before Max can change the subject.
+- 'Nastya, listen, I can explain all of this to you!' Kostya fires back firmly during the talk, grounding the moment in plain reality.
+- 'Do not explain anything to me, Kostya, everything is clear as it is!' Nastya spotlights one clear choice on cue: "obyasnyat" means "to explain", and it carries the main weight of what Nastya is saying.
+- 'You are simply a shameless liar!' Nastya gives that reply without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And we are not going to have any wedding now!' Nastya fires back calmly before Max, shifting the whole mood of the room in a single beat.

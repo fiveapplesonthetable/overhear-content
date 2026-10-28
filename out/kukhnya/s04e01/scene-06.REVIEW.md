@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is wrong with you?' Kostya tests directly without hesitation, pairing "ty" ("you") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'Oh, just family stuff.' Max displays an earnest direction toward Vika, pairing "semeynoye" ("family") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'Vika has really worn me out.' Max favors a grounded posture in their talk, building the phrase around "uzhe" ("already, now") and "dostala" ("to take out") for a crisp, natural delivery.
-- 'She nags me over every little thing.' Max conveys an emphatic style across the room, joining "pilit" ("nag") to "kazhdomu" ("each") so every word pulls its weight.
-- 'Find some mistake of hers.' Kostya projects a wry style as the scene unfolds, building the phrase around "naydi" ("find") and "kosyak" ("hers") for a crisp, natural delivery.
-- 'Then she won't be able to reproach you.' Kostya presents a pointed angle on the spot, combining "togda" ("back then") and "smozhet" ("will be able") so the key meaning lands right away.
-- 'What kind of mistake?' Max wonders pointedly in this moment, joining "kosyak" ("hers") to "kakoy" ("what a, how") so every word pulls its weight.
-- 'I don't know.' Kostya strikes a direct mood for Vika, joining "znayu" ("know") to "ne" ("not") so every word pulls its weight.
-- 'Or maybe she uses your razor.' Kostya offers a playful posture in their talk, pairing "polzuyetsya" ("to use") with "britvoy" ("razor") so the "-sya" ending carries the action.
-- 'Does that really happen?' Vika prompts candidly in the scene, anchoring the Russian line on "byvayet" ("there can be") and "zhe" ("but, after all") without extra filler.
-- 'It doesn't seem so.' Max picks a wry approach without hesitation, joining "da" ("yes") to "vrode" ("seemingly, apparently") so every word pulls its weight.
-- 'Keep looking.' Kostya brings a candid footing in the room, putting all the weight on "ishchi" ("look for") so the reply lands immediately.
+- 'What is wrong with you?' Kostya wonders earnestly whether Max really thought this through.
+- 'Oh, just family stuff.' Max spotlights one concrete element in reply: "semeynoye" means "family" (from "semeynyy"), giving the line its exact edge.
+- 'Vika has really worn me out.' Max states the reply before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'She nags me over every little thing.' Max fires back firmly before Vika, to clear the air between them once and for all.
+- 'Find some mistake of hers.' Kostya favors one loaded term with Max: "kosyak" means "hers", and it carries the main weight of what Kostya is saying.
+- 'Then she won't be able to reproach you.' Kostya leans on one sharp expression in earnest: "upreknut" means "to reproach", and it carries the main weight of what Kostya is saying.
+- 'What kind of mistake?' Max wonders bluntly while looking straight at Kostya here.
+- 'I don't know.' Kostya underscores one concrete detail toward Vika: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'Or maybe she uses your razor.' Kostya puts that point without pause: the "-sya" ending on "polzuyetsya" ("to use") turns the action inward or makes it happen between people naturally.
+- 'Does that really happen?' Vika prompts bluntly while looking straight at Max here.
+- 'It doesn't seem so.' Max aims this statement without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Keep looking.' Kostya phrases that remark toward Vika: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.

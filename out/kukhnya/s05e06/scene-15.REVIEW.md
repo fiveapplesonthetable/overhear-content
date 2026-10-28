@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right here we will arrange the tables.' Vika strikes a calm approach in this beat, weaving "zdes" ("here") together with "rasstavim" ("will arrange") just the way native speakers do.
-- 'Here we will leave space for the dance floor.' Vika favors a natural position right away, leaning on "zdes" ("here") before closing the thought with "ostavim" ("let's leave").
-- 'Will you have live music?' Vika queries sharply at this point, combining "zhivaya" ("alive") and "muzyka" ("music") so the key meaning lands right away.
-- 'What live music? Lip-syncing, only lip-syncing.' Nagiyev wonders plainly across the room, pairing "zhivaya" ("alive") with "fanera" ("lip-syncing") to get the point across in plain spoken Russian.
-- 'Let us discuss the menu, we will start with salads.' Vika holds an honest style in their talk, joining "davayte" ("let's") to "obsudim" ("will discuss") so every word pulls its weight.
-- 'And I think we will start with introductions.' Max displays an unhurried bearing in their talk, anchoring the Russian line on "dumayu" ("I think") and "nachnyom" ("we start") without extra filler.
-- 'What is your name?' Max probes earnestly to Nagiyev here, joining "kak" ("how") to "zovut" ("call") so every word pulls its weight.
-- 'Natasha, and I am Maxim, Victoria Sergeyevna's husband.' Max sustains a serious course as they talk, linking "natasha" ("Natasha") directly with "muzh" ("husband"), since Russian drops "is" and "are" in the present.
-- 'What is he talking about? Are you a fool or what?' Nagiyev quizzes calmly for Max's benefit, linking "govorit" ("talks"), "durak" ("fool, idiot"), and "chego" ("what") in one brisk exchange.
-- 'Natashenka, you will have a wonderful, merry wedding.' Max holds a lively tack for Vika, linking "budet" ("will be"), "chudesnaya" ("wonderful"), and "vesyolaya" ("cheerful, fun") in one brisk exchange.
-- 'You will have fun, sing, and dance.' Max favors an unhurried footing right away, leaning on "budete" ("will be") before closing the thought with "veselitsya" ("to without").
-- 'Sweetheart, I have no idea at all!' Nagiyev conveys a firm footing with Vika, joining "zayka" ("sweetheart") to "voobshche" ("at all") so every word pulls its weight.
+- 'Right here we will arrange the tables.' Vika replies right away without a pause, letting the remark speak for itself.
+- 'Here we will leave space for the dance floor.' Vika underscores one classic expression in earnest: "tantspola" means "dance floor" (from "tantspol"), giving the line its exact edge.
+- 'Will you have live music?' Vika sends this answer beside Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'What live music? Lip-syncing, only lip-syncing.' Nagiyev probes candidly if there is more going on behind the scenes.
+- 'Let us discuss the menu, we will start with salads.' Vika grounds this direct detail toward Max: "salatov" means "salads" (from "salat"), giving the line its exact edge.
+- 'And I think we will start with introductions.' Max pushes back openly around Vika, watching Vika's face to see how the news lands.
+- 'What is your name?' Max questions wryly if there is more going on behind the scenes.
+- 'Natasha, and I am Maxim, Victoria Sergeyevna's husband.' Max frames one concrete term in reply: "natasha" means "Natasha", and it carries the main weight of what Max is saying.
+- 'What is he talking about? Are you a fool or what?' Nagiyev delivers the comment facing Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Natashenka, you will have a wonderful, merry wedding.' Max proceeds lightly with a shrug, testing Vika's reaction in the middle of the exchange.
+- 'You will have fun, sing, and dance.' Max leans on one vivid expression in reply: "veselitsya" means "to without", and it carries the main weight of what Max is saying.
+- 'Sweetheart, I have no idea at all!' Nagiyev hands over the thought toward Vika: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.

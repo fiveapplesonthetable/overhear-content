@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, technically you won the bet.' Barinov sets a warm posture as they talk, pairing "kstati" ("by the way") with "formalno" ("formally") to get the point across in plain spoken Russian.
-- 'Congratulations to you, but there is also bad news.' Barinov favors a resolute course in their talk, linking "pozdravlyayu" ("congratulations"), "yest" ("there is"), and "plokhaya" ("bad") in one brisk exchange.
-- 'As of today you are fired from our kitchen.' Barinov shares an emphatic tone toward Max, using "segodnyashnego" (from "segodnyashniy", "of today's") alongside "dnya" ("day") to shape the meaning.
-- 'What do you mean fired, why, that is unfair!' Max favors a resolute tempo in front of Nagiyev, weaving "kak" ("how") together with "uvolen" ("fired") just the way native speakers do.
-- 'Two great chefs cannot coexist in one kitchen.' Barinov strikes a brisk view for Max, pairing "krutykh" ("cool, tough") with "povara" ("cook") to get the point across in plain spoken Russian.
-- 'So tomorrow you start as head chef at Restaurant Monet!' Barinov sets an easygoing posture during the exchange, linking "poetomu" ("that's why"), "zavtra" ("tomorrow"), and "vykhodish" ("to go out, to get out") in one brisk exchange.
-- 'In a year every restaurant in Moscow will be chasing after him.' Barinov sets a playful posture in the room, pairing "gonyatsya" ("to chase after") with "god" ("year") so the "-sya" ending carries the action.
-- 'Because right now he is me in my youth.' Barinov shows a direct footing at this moment, leaning on "potomu" ("because") before closing the thought with "seychas" ("now").
-- 'Think how much you will save if you sign him now.' Barinov conveys a warm approach in their talk, combining "podumay" ("think") and "skolko" ("how much, so much") so the key meaning lands right away.
-- 'So, Maxim, now you are the new head chef of Monet.' Nagiyev shares a playful position beside Max, anchoring the Russian line on "teper" ("now") and "novyy" ("new") without extra filler.
-- 'Really? I am the new head chef of Restaurant Monet?' Max challenges sharply in their exchange, combining "pravda" ("honestly") and "novyy" ("new") so the key meaning lands right away.
-- 'Make sure you do not let me down there, Oguzok!' Barinov projects a playful approach straight away, weaving "smotri" ("look") together with "podvedi" ("to let down") just the way native speakers do.
-- 'Thank you so much, Chef, may I hug you?' Max questions evenly on the spot, anchoring the Russian line on "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") without extra filler.
+- 'By the way, technically you won the bet.' Barinov shapes that reply with warmth: opening with "kstati" ("by the way") lets Barinov drop a new detail into the conversation as if it just crossed his mind.
+- 'Congratulations to you, but there is also bad news.' Barinov speaks up briskly to be clear, bringing things back to earth after the buildup.
+- 'As of today you are fired from our kitchen.' Barinov features one colorful word on cue: "segodnyashnego" means "of today's" (from "segodnyashniy"), giving the line its exact edge.
+- 'What do you mean fired, why, that is unfair!' Max speaks up promptly facing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Two great chefs cannot coexist in one kitchen.' Barinov replies openly toward Max, making his position completely clear.
+- 'So tomorrow you start as head chef at Restaurant Monet!' Barinov frames one classic detail at once: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'In a year every restaurant in Moscow will be chasing after him.' Barinov answers boldly without holding back, letting the remark speak for itself.
+- 'Because right now he is me in my youth.' Barinov steps in openly facing Nagiyev, saying out loud what both of them already know.
+- 'Think how much you will save if you sign him now.' Barinov emphasizes one concrete word right here: "sekonomish" means "to save" (from "sekonomit"), giving the line its exact edge.
+- 'So, Maxim, now you are the new head chef of Monet.' Nagiyev states the thought for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Really? I am the new head chef of Restaurant Monet?' Max checks eagerly as Barinov tries to explain the situation.
+- 'Make sure you do not let me down there, Oguzok!' Barinov underscores one vivid choice toward Nagiyev: "podvedi" means "to let down" (from "podvesti"), giving the line its exact edge.
+- 'Thank you so much, Chef, may I hug you?' Max delivers that answer frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

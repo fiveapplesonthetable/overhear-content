@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say the thieves covered their tracks.' Max takes a resolute direction right away, linking "govoryat" ("talks, says"), "vory" ("thieves"), and "zameli" ("swept away") in one brisk exchange.
-- 'They poured water on the computer.' Max strikes a firm posture at once, using "vodoy" (from "voda", "water") alongside "zalili" ("flooded") to shape the meaning.
-- 'At the company they said the video can be restored.' Barinov displays an unhurried direction in this beat, combining "kontore" ("office") and "skazali" ("told") so the key meaning lands right away.
-- 'Hello, yes, come to me about the repair.' Vika establishes a wry tempo right away, putting "povodu" ("matter") alongside "remonta" ("repair") in a tight, everyday turn of phrase.
-- 'Will the technician arrive at two o'clock?' Vika probes quietly toward Barinov here, linking "master" ("technician"), "priyedet" ("will come, arrive"), and "chasa" ("hours") in one brisk exchange.
-- 'Yes, let him ask for Konstantin Anisimov.' Vika displays a steady approach in the scene, pairing "sprosit" ("asks") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'Max, what did you want anyway?' Vika asks quietly in their exchange, weaving "khotel" ("wanted") together with "voobshche" ("at all") just the way native speakers do.
-- 'Dima, this is the highest price in your life.' Barinov adopts a steady view at once, linking "samaya" ("most"), "dorogaya" ("expensive"), and "plata" ("payment, price") in one brisk exchange.
-- 'Maybe do not rush with the marriage proposal?' Barinov wonders sharply as they speak, anchoring the Russian line on "mozhet" ("can") and "speshit" ("to rush, to hurry") without extra filler.
-- 'Let me suggest one technique to you.' Barinov offers a grounded approach with Vika, leaning on "davay" ("let's") before closing the thought with "metodiku" ("method, technique").
-- 'It is a technique of calm meditation.' Barinov presents a playful posture with Max, combining "metodika" ("method, technique") and "spokoynoy" ("good") so the key meaning lands right away.
-- 'I have been doing this meditation for the last month.' Max favors a clear footing as they talk, pairing "meditatsiyey" ("with meditation") with "posledniy" ("last") to get the point across in plain spoken Russian.
+- 'They say the thieves covered their tracks.' Max focuses on one concrete detail at once: "govoryat" means "talks, says" (from "govorit"), giving the line its exact edge.
+- 'They poured water on the computer.' Max directs the comment without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'At the company they said the video can be restored.' Barinov pushes back calmly with a nod, so Max knows he is not just making small talk.
+- 'Hello, yes, come to me about the repair.' Vika reaches for one sharp touch at once: "remonta" means "repair" (from "remont"), giving the line its exact edge.
+- 'Will the technician arrive at two o'clock?' Vika offers the comeback beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Yes, let him ask for Konstantin Anisimov.' Vika pushes back pointedly facing Max, so Max knows she is not just making small talk.
+- 'Max, what did you want anyway?' Vika leans on one colorful touch right here: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
+- 'Dima, this is the highest price in your life.' Barinov shapes that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Maybe do not rush with the marriage proposal?' Barinov quizzes skeptically before Max can change the subject.
+- 'Let me suggest one technique to you.' Barinov points to one sharp touch toward Vika: "metodiku" means "method, technique" (from "metodika"), giving the line its exact edge.
+- 'It is a technique of calm meditation.' Barinov offers that point for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I have been doing this meditation for the last month.' Max speaks up honestly around Vika, testing Vika's reaction in the middle of the exchange.

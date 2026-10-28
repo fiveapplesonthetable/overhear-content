@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora, try some too, it is really very tasty!' The guest shares a warm style on the spot, putting "poprobuyte" ("try, taste") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
-- 'Thank you very much, but I gladly take your word for it.' Eleonora adopts a measured line straight away, pairing "bolshoye" ("big, very much") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
-- 'Then may I try a piece of your menu?' The guest tests directly in their exchange, putting "mozhno" ("may, can") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'No, I am eating it myself! It really is very tasty!' Eleonora strikes a frank note as the scene unfolds, joining "yem" ("to eat") to "deystvitelno" ("really, indeed") so every word pulls its weight.
-- 'Well, now I await your return visit to my place.' The guest conveys a lively angle straight away, linking "teper" ("now"), "zhdu" ("I wait, expect"), and "otvetnym" ("return, retaliatory") in one brisk exchange.
-- 'And please, keep an eye on my son Nikita here.' The guest conveys a serious position across the room, using "prismotri" (from "prismotr", "supervision") alongside "tut" ("here") to shape the meaning.
-- 'We must care for our children, even if they object.' The guest strikes a resolute course in this beat, leaning on "dolzhny" ("must, should") before closing the thought with "zabotitsya" ("to care for").
-- 'No problem, goodbye, all the very best to you!' Eleonora presents a direct position without hesitation, combining "problem" ("problems") and "svidaniya" ("meeting") so the key meaning lands right away.
-- 'Eleonora Andreyevna, forgive us that it turned out like this today.' Vika presents a grounded note with Eleonora, linking "prostite" ("excuse me"), "segodnya" ("today"), and "poluchilos" ("worked out") in one brisk exchange.
-- 'We managed to prepare only one edible menu in time.' Vika adopts a measured view straight away, anchoring the Russian line on "uspeli" ("to make it") and "podgotovit" ("to prepare") without extra filler.
-- 'Vika, this is already the second time you have saved me today.' Eleonora adopts a natural note in their talk, putting "segodnya" ("today") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'True, I accidentally fed you plain paper!' Vika brings a wry approach for the guest, linking "pravda" ("honestly"), "nechayanno" ("by accident"), and "nakormila" ("fed") in one brisk exchange.
+- 'Eleonora, try some too, it is really very tasty!' The guest features one telling element in reply: "deystvitelno" means "really, indeed", and it carries the main weight of what the guest is saying.
+- 'Thank you very much, but I gladly take your word for it.' Eleonora brings that thought at once: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Then may I try a piece of your menu?' The guest challenges sharply while looking straight at Eleonora here.
+- 'No, I am eating it myself! It really is very tasty!' Eleonora underscores this vivid element in reply: "deystvitelno" means "really, indeed", and it carries the main weight of what Eleonora is saying.
+- 'Well, now I await your return visit to my place.' The guest highlights one colorful piece in earnest: "otvetnym" means "return, retaliatory" (from "otvetnyy"), giving the line its exact edge.
+- 'And please, keep an eye on my son Nikita here.' The guest fires back briskly as they talk, shifting the whole mood of the room in a single beat.
+- 'We must care for our children, even if they object.' The guest favors one pointed expression at once: "zabotitsya" means "to care for", and it carries the main weight of what the guest is saying.
+- 'No problem, goodbye, all the very best to you!' Eleonora reaches for one clear term at once: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'Eleonora Andreyevna, forgive us that it turned out like this today.' Vika follows up pointedly during the talk, bringing things back to earth after the buildup.
+- 'We managed to prepare only one edible menu in time.' Vika frames this telling element in reply: "syedobnoye" means "edible" (from "syedobnyy"), giving the line its exact edge.
+- 'Vika, this is already the second time you have saved me today.' Eleonora colors one classic choice with the guest: "vyruchayesh" means "save, help out" (from "vyruchat"), giving the line its exact edge.
+- 'True, I accidentally fed you plain paper!' Vika continues evenly as things stand, to clear the air between them once and for all.

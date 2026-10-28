@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will see about that yet!' Katya offers a clear style in their talk, putting "yeshchyo" ("more, still") alongside "posmotrim" ("have a look") in a tight, everyday turn of phrase.
-- 'I have gotten hungry.' The guest establishes a warm tone beside Max, putting "progolodalsya" ("got hungry") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'Gentlemen, let's take a lunch break.' The guest takes a thoughtful tack at this moment, putting "gospoda" ("gentlemen") alongside "davayte" ("let's") in a tight, everyday turn of phrase.
-- 'We will sign afterward.' The guest displays a steady mood beside Max, pairing "potom" ("then") with "podpishem" ("will sign") to get the point across in plain spoken Russian.
-- 'Maxim, what do you have that is delicious here?' The guest quizzes quietly right away, combining "tut" ("here") and "vkusnogo" ("tasty, delicious") so the key meaning lands right away.
-- 'You know, we have a new menu.' Max displays a brisk stance for Katya, combining "znayete" ("know") and "poyavilos" ("appeared") so the key meaning lands right away.
-- 'Molecular cuisine. Here you go.' Max sustains a pointed manner toward the guest, joining "molekulyarnaya" ("molecular") to "kukhnya" ("kitchen") so every word pulls its weight.
-- 'Chemicals?' The guest tests lightly with Max now, putting all the weight on "khimiya" ("chemicals, chemistry") so the reply lands immediately.
-- 'No, everything is natural.' Max strikes a direct note during the exchange, combining "naturalnoye" ("natural") and "net" ("no") so the key meaning lands right away.
-- 'Like in your sausage? Then bring it.' The guest checks earnestly as they speak, linking "kak" ("how"), "kolbase" ("sausage"), and "togda" ("back then") in one brisk exchange.
-- 'Spaghetti and duck, four portions!' Max conveys a serious note for the guest, linking "spagetti" ("spaghetti"), "utka" ("duck"), and "portsii" ("portions") in one brisk exchange.
-- 'Order received!' Katya conveys an earnest bearing for Max, putting all the weight on "prinyato" ("accepted, copy that") so the reply lands immediately.
+- 'We will see about that yet!' Katya sends that thought for the guest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I have gotten hungry.' The guest cuts in steadily beside Max, before Max can change the subject.
+- 'Gentlemen, let's take a lunch break.' The guest grounds this clear piece at once: "obedennyy" means "dining", and it carries the main weight of what the guest is saying.
+- 'We will sign afterward.' The guest sends the comment with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Maxim, what do you have that is delicious here?' The guest prompts wryly what Katya is actually getting at here.
+- 'You know, we have a new menu.' Max frames one pointed expression in reply: "poyavilos" means "appeared" (from "poyavitsya"), giving the line its exact edge.
+- 'Molecular cuisine. Here you go.' Max hands over the comeback calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Chemicals?' The guest checks bluntly if there is more going on behind the scenes.
+- 'No, everything is natural.' Max stresses one clear word on cue: "naturalnoye" means "natural" (from "naturalnyy"), giving the line its exact edge.
+- 'Like in your sausage? Then bring it.' The guest aims that thought facing Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Spaghetti and duck, four portions!' Max fires back candidly to settle things, letting the remark speak for itself.
+- 'Order received!' Katya underscores this vivid choice in earnest: "prinyato" means "accepted, copy that" (from "prinyatyy"), giving the line its exact edge.

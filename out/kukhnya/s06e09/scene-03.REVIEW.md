@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena, hello, I have missed you very much already.' Barinov takes a calm posture straight away, weaving "uzhe" ("already, now") together with "ochen" ("very much") just the way native speakers do.
-- 'Isn't it time for us to have lunch together?' Barinov checks quietly from the start, joining "pora" ("it's time") to "poobedat" ("to have lunch") so every word pulls its weight.
-- 'Wonderful, then I am waiting for you eagerly.' Barinov chooses a calm tone beside Eleonora, combining "prekrasno" ("perfectly") and "togda" ("back then") so the key meaning lands right away.
-- 'Viktor Petrovich, may I have a minute?' Lyova challenges bluntly with Eleonora now, joining "mozhno" ("may, can") to "minutu" ("a minute") so every word pulls its weight.
-- 'What do you need, speak faster.' Barinov maintains a brisk course in the room, pairing "nuzhno" ("necessary") with "govori" ("say, talk") to get the point across in plain spoken Russian.
-- 'Mom and her friend want to have lunch at our place.' Lyova presents a grounded mood beside Eleonora, anchoring the Russian line on "mama" ("mum, mother") and "podrugoy" ("friend") without extra filler.
-- 'May I keep them company today?' Lyova checks lightly to keep things clear, weaving "mozhno" ("may, can") together with "segodnya" ("today") just the way native speakers do.
-- 'Alright, go, just not for very long.' Barinov sustains an easygoing attitude with Lyova, building the phrase around "khorosho" ("good, fine") and "idi" ("go") for a crisp, natural delivery.
-- 'What do you need in my room?' Eleonora prompts bluntly to Barinov here, combining "nuzhno" ("necessary") and "nomere" ("in the hotel room") so the key meaning lands right away.
-- 'I brought you a fresh hot breakfast.' Lyova shows a direct tack at this moment, joining "svezhiy" ("fresh") to "goryachiy" ("hot") so every word pulls its weight.
-- 'Alright, just leave it on the table.' Eleonora brings a direct stance for Barinov, putting "prosto" ("just") alongside "ostav" ("keep, leave") in a tight, everyday turn of phrase.
-- 'You have not eaten anything since yesterday.' Lyova shares a measured approach in the room, joining "vcherashnego" ("yesterday's") to "dnya" ("day") so every word pulls its weight.
-- 'Take this away immediately and get out of here!' Eleonora shares a serious line during the exchange, combining "nemedlenno" ("immediately") and "uberi" ("take away, put away") so the key meaning lands right away.
+- 'Elena, hello, I have missed you very much already.' Barinov speaks bluntly before Eleonora, without trying to dress up how he really feels.
+- 'Isn't it time for us to have lunch together?' Barinov underscores this clear touch for Lyova: "poobedat" means "to have lunch", and it carries the main weight of what Barinov is saying.
+- 'Wonderful, then I am waiting for you eagerly.' Barinov anchors one sharp expression toward Eleonora: "prekrasno" means "perfectly", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich, may I have a minute?' Lyova inquires curiously how Eleonora expects that to work in practice.
+- 'What do you need, speak faster.' Barinov colors one sharp choice at once: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Mom and her friend want to have lunch at our place.' Lyova shares this warning around Eleonora: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'May I keep them company today?' Lyova prompts promptly while looking straight at Barinov here.
+- 'Alright, go, just not for very long.' Barinov centers one memorable detail in reply: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'What do you need in my room?' Eleonora directs that reply beside Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'I brought you a fresh hot breakfast.' Lyova steps in right away across the room, refusing to let the moment slip past.
+- 'Alright, just leave it on the table.' Eleonora points to one clear choice with Barinov: "stole" means "table" (from "stol"), giving the line its exact edge.
+- 'You have not eaten anything since yesterday.' Lyova makes that reply plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Take this away immediately and get out of here!' Eleonora opens up promptly as they talk, leaving no doubt about where she stands.

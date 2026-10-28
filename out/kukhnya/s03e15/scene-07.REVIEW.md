@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, leave the chicken alone, you are a married man!' Barinov keeps an emphatic tone as they talk, joining "otstan" ("leave alone") to "kuritsy" ("chicken") so every word pulls its weight.
-- 'Fedya, what are you waiting for, for the fish to flip itself over?' Barinov queries steadily on the spot, anchoring the Russian line on "zhdyosh" ("to wait, to expect") and "kogda" ("when") without extra filler.
-- 'Ilya, who taught you to slice so badly?' Barinov checks naturally in this moment, linking "plokho" ("badly"), "uchil" ("to learn, to teach"), and "rezat" ("to cut") in one brisk exchange.
-- 'Dima, and what are you doing here in the kitchen?' Barinov wonders boldly from the start, pairing "zdes" ("here") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.
-- 'It is a long story, Vitya, I need to learn how to cook.' Nagiyev sets a clear view toward Barinov, anchoring the Russian line on "dolgo" ("for a long time") and "obyasnyat" ("to explain") without extra filler.
-- 'Please, quickly teach me how to cook!' Nagiyev offers an easygoing note at this moment, putting "bystro" ("quickly") alongside "nauchi" ("teach") in a tight, everyday turn of phrase.
-- 'Wait, Dima, I did not understand you just now.' Barinov sustains a wry tempo toward Nagiyev, leaning on "podozhdi" ("wait") before closing the thought with "seychas" ("now").
-- 'That nonsense you have been doing your whole life, teach me!' Nagiyev establishes a brisk footing as they talk, building the phrase around "yerundoy" ("nonsense") and "zhizn" ("life") for a crisp, natural delivery.
-- 'Dima, this is not acting in a commercial!' Barinov maintains a grounded style at once, pairing "reklame" ("advertisement") with "snimatsya" ("to act, be filmed") to get the point across in plain spoken Russian.
-- 'This is art, there are many subtleties here that one must grasp and realize.' Barinov shows a serious view in their talk, building the phrase around "iskusstvo" ("the Art") and "tut" ("here") for a crisp, natural delivery.
-- 'Tell me honestly, why do you even need this?' Barinov wonders steadily from the start, combining the conversational booster "voobshche" ("in general, overall") with "skazhi" ("say") to give the line its natural spoken rhythm.
-- 'I made a bet with a friend this morning.' Nagiyev maintains a steady bearing in the conversation, linking "segodnya" ("today"), "utrom" ("this morning"), and "drugom" ("different, another") in one brisk exchange.
+- 'Senya, leave the chicken alone, you are a married man!' Barinov stresses one pointed touch for Nagiyev: "zhenatyy" means "married", and it carries the main weight of what Barinov is saying.
+- 'Fedya, what are you waiting for, for the fish to flip itself over?' Barinov sends that reply without fuss: the "-sya" ending on "perevorachivatsya" ("to flip itself over") turns the action inward or makes it happen between people naturally.
+- 'Ilya, who taught you to slice so badly?' Barinov challenges evenly whether Nagiyev really thought this through.
+- 'Dima, and what are you doing here in the kitchen?' Barinov features one concrete touch in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'It is a long story, Vitya, I need to learn how to cook.' Nagiyev shapes the thought with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Please, quickly teach me how to cook!' Nagiyev weighs in calmly to be clear, leaving no doubt about where he stands.
+- 'Wait, Dima, I did not understand you just now.' Barinov picks this direct touch at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'That nonsense you have been doing your whole life, teach me!' Nagiyev puts the comeback with candor: the "-sya" ending on "zanimayeshsya" ("to be busy with") turns the action inward or makes it happen between people naturally.
+- 'Dima, this is not acting in a commercial!' Barinov chimes in at once with a smile, refusing to let the moment slip past.
+- 'This is art, there are many subtleties here that one must grasp and realize.' Barinov grounds one clear choice on cue: "iskusstvo" means "the Art", and it carries the main weight of what Barinov is saying.
+- 'Tell me honestly, why do you even need this?' Barinov directs that line frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'I made a bet with a friend this morning.' Nagiyev chimes in plainly to be clear, testing Barinov's reaction in the middle of the exchange.

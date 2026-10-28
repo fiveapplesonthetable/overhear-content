@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on with all of you here?' Barinov questions steadily in front of Elena, combining "tut" ("here") and "proiskhodit" ("is going on") so the key meaning lands right away.
-- 'Some strange fashion designer checked into the hotel.' Barinov shows an unhurried angle in the conversation, joining "strannyy" ("strange, odd") to "modelyer" ("fashion designer") so every word pulls its weight.
-- 'Wow, I know him very well!' Elena sets a wry style right away, building the phrase around "khorosho" ("good, fine") and "znayu" ("know") for a crisp, natural delivery.
-- 'Well let us buy something from him.' Barinov maintains an earnest tone beside Elena, combining "davay" ("let's") and "kupim" ("will buy") so the key meaning lands right away.
-- 'You will walk to work at the restaurant looking beautiful.' Barinov maintains a sharp stance in front of Elena, pairing "budesh" ("will") with "krasivo" ("beautifully") to get the point across in plain spoken Russian.
-- 'One does not go to work in a dress like that.' Elena adopts a sharp line in front of Barinov, combining "platye" ("a dress") and "khodyat" ("to walk, to go") so the key meaning lands right away.
-- 'I will marry you in it!' Elena projects a wry bearing in the room, putting "zamuzh" ("in marriage") alongside "poydu" ("go") in a tight, everyday turn of phrase.
-- 'Hello, I will be glad to see you in the restaurant.' Barinov sets a firm mood at once, anchoring the Russian line on "zdravstvuyte" ("hello") and "budu" ("will be") without extra filler.
-- 'Our restaurant is a contender for a high award.' Barinov strikes a measured angle in the scene, linking "restoran" ("restaurant"), "pretenduyet" ("contends, aspires"), and "vysokuyu" ("high") in one brisk exchange.
-- 'And I am the head chef of this restaurant.' Barinov adopts a clear rhythm at once, linking "glavnyy" ("main, chief") directly with "shef-povar" ("head chef"), since Russian drops "is" and "are" in the present.
-- 'My future wife is a big admirer of yours.' Barinov holds a direct attitude in this beat, building the phrase around "budushchaya" ("future, next") and "zhena" ("wife") for a crisp, natural delivery.
-- 'I wanted to buy one of your dresses.' Barinov establishes a direct note for Elena, anchoring the Russian line on "khotel" ("wanted") and "kupit" ("buy") without extra filler.
+- 'What is going on with all of you here?' Barinov brings that line with warmth: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Some strange fashion designer checked into the hotel.' Barinov steps in plainly with Elena, steering the talk right where he wants it.
+- 'Wow, I know him very well!' Elena frames this key touch in reply: "khorosho" means "good, fine", and it carries the main weight of what Elena is saying.
+- 'Well let us buy something from him.' Barinov puts this warning calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'You will walk to work at the restaurant looking beautiful.' Barinov chimes in steadily beside Elena, making his position completely clear.
+- 'One does not go to work in a dress like that.' Elena frames this telling expression for Barinov: "platye" means "a dress", and it carries the main weight of what Elena is saying.
+- 'I will marry you in it!' Elena underscores one familiar detail for Barinov: "zamuzh" means "in marriage", and it carries the main weight of what Elena is saying.
+- 'Hello, I will be glad to see you in the restaurant.' Barinov answers pointedly with Elena, shifting the whole mood of the room in a single beat.
+- 'Our restaurant is a contender for a high award.' Barinov stresses one clear word for Elena: "pretenduyet" means "contends, aspires" (from "pretendovat"), giving the line its exact edge.
+- 'And I am the head chef of this restaurant.' Barinov gives this warning in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'My future wife is a big admirer of yours.' Barinov proceeds honestly toward Elena, letting the remark speak for itself.
+- 'I wanted to buy one of your dresses.' Barinov reaches for one pointed word for Elena: "platyev" means "dress, gown" (from "platye"), giving the line its exact edge.

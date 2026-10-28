@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, Katya, drink this hot tea.' Nastya brings a serious style straight away, building the phrase around "davay" ("let's") and "pey" ("drink") for a crisp, natural delivery.
-- 'I brewed it extra strong specially for you.' Nastya maintains a sharp position right away, weaving "spetsialno" ("on purpose") together with "pokrepche" ("stronger") just the way native speakers do.
-- 'Alcohol will not help you right now anyway.' Nastya maintains a wry course as the scene unfolds, pairing "alkogol" ("alcohol") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'This tea tastes very strange somehow.' Nastya maintains a candid note toward Lyova, joining "ochen" ("very much") to "strannyy" ("strange, odd") so every word pulls its weight.
-- 'Gulya, why are you already here?' Lyova tests frankly on the spot, joining "pochemu" ("why") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Mom called, and you two smoothed everything over?' Lyova tests lightly in front of Nastya, leaning on "mama" ("mum, mother") before closing the thought with "pozvonila" ("phoned").
-- 'Well then, groom, meet your beloved!' Katya shares a playful bearing straight away, joining "zhenikh" ("groom, fiancé") to "vstrechay" ("to meet, to welcome") so every word pulls its weight.
-- 'What have you done, who is this person?' Lyova probes calmly on the spot, combining "nadelali" ("make, cause") and "chelovek" ("a man, a person") so the key meaning lands right away.
-- 'Sorry, a little mistake happened on our part.' Katya projects a pointed manner during the exchange, using "prostite" (from "prostit", "excuse me") alongside "nebolshaya" ("small") to shape the meaning.
-- 'In Russia it is customary to bring guests like this.' Katya chooses a firm tack in this beat, putting "prinyato" ("accepted, copy that") alongside "privozit" ("bring, deliver") in a tight, everyday turn of phrase.
-- 'Timur, take him back to the hotel immediately!' Lyova sustains a pointed tone without hesitation, combining "nemedlenno" ("immediately") and "vezi" ("to transport") so the key meaning lands right away.
-- 'Take him away from here as fast as possible!' Lyova displays a grounded mood in front of Nastya, leaning on "uvozite" ("take away, drive off") before closing the thought with "otsyuda" ("from here").
+- 'Come on, Katya, drink this hot tea.' Nastya continues boldly before Katya, leaving no doubt about where she stands.
+- 'I brewed it extra strong specially for you.' Nastya colors this direct expression right here: "pokrepche" means "stronger" (from "krepkiy"), giving the line its exact edge.
+- 'Alcohol will not help you right now anyway.' Nastya spotlights one colorful term in earnest: "alkogol" means "alcohol", and it carries the main weight of what Nastya is saying.
+- 'This tea tastes very strange somehow.' Nastya chimes in decisively on the spot, saying out loud what both of them already know.
+- 'Gulya, why are you already here?' Lyova colors one sharp detail right here: "uzhe" means "already, now", and it carries the main weight of what Lyova is saying.
+- 'Mom called, and you two smoothed everything over?' Lyova phrases this answer without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Well then, groom, meet your beloved!' Katya opens up candidly beside Lyova, without trying to dress up how she really feels.
+- 'What have you done, who is this person?' Lyova reaches for one memorable detail in earnest: "nadelali" means "make, cause" (from "nadelat"), giving the line its exact edge.
+- 'Sorry, a little mistake happened on our part.' Katya brings this point without pause: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'In Russia it is customary to bring guests like this.' Katya responds openly as they talk, shifting the whole mood of the room in a single beat.
+- 'Timur, take him back to the hotel immediately!' Lyova focuses on this key element on cue: "nemedlenno" means "immediately", and it carries the main weight of what Lyova is saying.
+- 'Take him away from here as fast as possible!' Lyova makes that remark plainly here: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Sveta, you know that a certain person likes you, right?' Nikita inquires promptly on the spot, joining "slushay" ("listen") to "sveta" ("electricity") so every word pulls its weight.
-- 'Suppose I know.' Sveta favors a direct manner during the exchange, anchoring the Russian line on "dopustim" ("let's say") and "znayu" ("know") without extra filler.
-- 'By the way, he is really suffering.' Nikita brings a sharp line on the spot, combining "prochim" ("other") and "pryamo" ("right, just") so the key meaning lands right away.
-- 'And what should I do?' Sveta wonders bluntly toward Nikita here, anchoring the Russian line on "delat" ("do") and "chto" ("what") without extra filler.
-- 'I do not know, for example, drink a cup of coffee with him in an hour.' Nikita keeps a serious attitude right away, linking "znayu" ("know"), "naprimer" ("for example"), and "vypit" ("to drink") in one brisk exchange.
-- 'Well alright, it is a deal.' Sveta strikes a serious tempo in front of Nikita, linking "khorosho" ("good, fine"), "dogovorilis" ("agreed, deal"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Let's rest a little.' Lyova sets a clear rhythm for Nikita, pairing "davay" ("let's") with "nemnogo" ("a bit") to get the point across in plain spoken Russian.
-- 'Why, I am not tired, and you are the very best coach.' Sveta sets a lively angle beside Nikita, combining "ustala" ("are tired, got tired") and "samyy" ("the most") so the key meaning lands right away.
-- 'On the other hand, I am very tired, sorry.' Lyova maintains a calm course toward Nikita, anchoring the Russian line on "ochen" ("very much") and "ustal" ("am tired") without extra filler.
-- 'Lyova, be more careful!' Sveta conveys a steady mood in their talk, building the phrase around "ostorozhney" ("careful") and "lyova" ("Lyova") for a crisp, natural delivery.
-- 'More carefully, watch where you are going!' Sveta keeps a steady approach with Lyova, using "akkuratney" (from "akkuratno", "more carefully") alongside "posmotri" ("look") to shape the meaning.
-- 'Oh, help!' Lyova holds a thoughtful tack in front of Sveta, building the phrase around "pomogite" ("help") and "oy" ("oh") for a crisp, natural delivery.
+- 'Listen, Sveta, you know that a certain person likes you, right?' Nikita questions plainly about what Lyova just brought up.
+- 'Suppose I know.' Sveta sharpens one loaded touch right here: "dopustim" means "let's say" (from "dopustit"), giving the line its exact edge.
+- 'By the way, he is really suffering.' Nikita continues sharply with Lyova, grounding the moment in plain reality.
+- 'And what should I do?' Sveta tests openly whether Nikita really thought this through.
+- 'I do not know, for example, drink a cup of coffee with him in an hour.' Nikita stresses one clear expression toward Lyova: "chashechku" means "small cup" (from "chashechka"), giving the line its exact edge.
+- 'Well alright, it is a deal.' Sveta hands over that line plainly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Let's rest a little.' Lyova answers at once to be clear, letting the remark speak for itself.
+- 'Why, I am not tired, and you are the very best coach.' Sveta spotlights this sharp choice on cue: "luchshiy" means "best", and it carries the main weight of what Sveta is saying.
+- 'On the other hand, I am very tired, sorry.' Lyova frames the reaction with warmth: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'Lyova, be more careful!' Sveta fires back at once with a nod, watching Nikita's face to see how the news lands.
+- 'More carefully, watch where you are going!' Sveta leans on one sharp expression at once: "akkuratney" means "more carefully" (from "akkuratno"), giving the line its exact edge.
+- 'Oh, help!' Lyova gives this update right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

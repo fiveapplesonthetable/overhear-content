@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, it is simply impossible to assemble this model!' Elena sets a playful tone on the spot, anchoring the Russian line on "model" ("model") and "prosto" ("just") without extra filler.
-- 'Hi, Vitya, are we heading to the stadium soon?' Elena asks calmly to Barinov here, combining "skoro" ("soon") and "yedem" ("are going") so the key meaning lands right away.
-- 'Lenochka, apparently, I will not be able to go.' Barinov strikes a measured view right away, putting "lenochka" ("lenochka") alongside "vidimosti" ("appearance") in a tight, everyday turn of phrase.
-- 'Vitya, what suddenly happened over there?' Elena probes naturally in the room, putting "vdrug" ("suddenly, what if") alongside "sluchilos" ("happened") in a tight, everyday turn of phrase.
-- 'I am completely swamped at work today.' Barinov sets a playful footing in the room, pairing "rabote" ("work") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'Why, can nobody cover for you?' Elena wonders steadily to Barinov here, anchoring the Russian line on "mozhet" ("can") and "podmenit" ("cover for, replace") without extra filler.
-- 'Nobody can, Lyova has a bad flu.' Barinov favors a grounded stance without hesitation, linking "mozhet" ("can"), "silnyy" ("the strong"), and "gripp" ("flu") in one brisk exchange.
-- 'Vika sent several more cooks to an off-site event.' Barinov conveys a warm attitude as they talk, leaning on "yeshchyo" ("more, still") before closing the thought with "povarov" ("cooks").
-- 'And on top of that a very important guest arrived.' Barinov favors an unhurried course straight away, linking "tut" ("here"), "yeshchyo" ("more, still"), and "priyekhal" ("came") in one brisk exchange.
-- 'Vitya, just please do not get so worked up.' Elena displays a candid tone beside Barinov, building the phrase around "tolko" ("only") and "silno" ("strongly, much") for a crisp, natural delivery.
-- 'Where are my orders? Important guests are waiting out there!' Barinov questions promptly without a pause, pairing "gde" ("where") with "zakazy" ("orders") to get the point across in plain spoken Russian.
-- 'Well, we will go to the football match next time.' Elena strikes an emphatic footing right away, using "skhodim" (from "skhodit", "go, pop over") alongside "futbol" ("football") to shape the meaning.
+- 'Chef, it is simply impossible to assemble this model!' Elena features one familiar detail right here: "nevozmozhno" means "impossible", and it carries the main weight of what Elena is saying.
+- 'Hi, Vitya, are we heading to the stadium soon?' Elena drops that line around Barinov: opening with the casual greeting "privet" ("hi") signals right away that Elena and Barinov are on familiar terms.
+- 'Lenochka, apparently, I will not be able to go.' Barinov replies at once with a smile, steering the talk right where he wants it.
+- 'Vitya, what suddenly happened over there?' Elena reaches for one direct expression right here: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'I am completely swamped at work today.' Barinov hands over that thought before Elena: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Why, can nobody cover for you?' Elena wonders wryly whether Barinov really thought this through.
+- 'Nobody can, Lyova has a bad flu.' Barinov leans on one colorful word in reply: "silnyy" means "the strong", and it carries the main weight of what Barinov is saying.
+- 'Vika sent several more cooks to an off-site event.' Barinov fires back warmly with Elena, keeping the focus on what actually matters here.
+- 'And on top of that a very important guest arrived.' Barinov speaks up dryly watching Elena, steering the talk right where he wants it.
+- 'Vitya, just please do not get so worked up.' Elena spotlights this vivid word right here: "nervnichay" means "be nervous" (from "nervnichat"), giving the line its exact edge.
+- 'Where are my orders? Important guests are waiting out there!' Barinov brings this warning right away: putting the question word "gde" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Well, we will go to the football match next time.' Elena replies warmly as they talk, steering the talk right where she wants it.

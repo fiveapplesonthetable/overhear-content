@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not Arkady.' Elena picks a measured mood on the spot, anchoring the Russian line on "ne" ("not") and "arkadiy" ("Arkady") without extra filler.
-- 'This is a very private meeting.' Max presents a steady position as they talk, anchoring the Russian line on "ochen" ("very much") and "lichnaya" ("personal") without extra filler.
-- 'Elena Pavlovna, it is me.' Max sets a clear view straight away, anchoring the Russian line on "yelena" ("Yelena") and "pavlovna" ("Pavlovna") without extra filler.
-- 'I have a surprise for you.' Max offers a calm attitude beside Elena, using the everyday "u menya" ("by me") alongside "syurpriz" ("surprise") to show what belongs to the speaker.
-- 'And what is the surprise?' Elena inquires pointedly as the talk turns, weaving "syurpriz" ("surprise") together with "chem" ("than") just the way native speakers do.
-- 'That the restaurant is closed for the night?' Max asks earnestly toward Elena here, anchoring the Russian line on "restoran" ("restaurant") and "rabotayet" ("works") without extra filler.
-- 'Exactly that.' Elena keeps a resolute tone in the conversation, leaning on "tom" ("that") as a compact, one-word response that needs no extra words.
-- 'Excuse us. Hello.' Max conveys a brisk footing for Elena, joining "izvinite" ("sorry, excuse me") to "zdraste" ("hello, hi") so every word pulls its weight.
-- 'Right at the workplace.' Elena displays a frank rhythm right away, putting "rabochem" ("work") alongside "meste" ("place") in a tight, everyday turn of phrase.
-- 'What a nightmare.' Max strikes a playful position in the room, weaving "koshmar" ("nightmare") together with "kakoy" ("what a, how") just the way native speakers do.
-- 'Young people nowadays have no morals at all.' Elena shares an earnest line at once, putting "amoralnaya" ("immoral") alongside "molodezh" ("youth, kids") in a tight, everyday turn of phrase.
-- 'Turning a respectable restaurant.' Max chooses a brisk rhythm in their talk, weaving "prevrashchayet" ("to turn") together with "restoran" ("restaurant") just the way native speakers do.
-- 'Into I do not know what.' Elena adopts a thoughtful footing in the room, pairing "znayu" ("know") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'Not Arkady.' Elena holds firm briskly on the spot, without trying to dress up how she really feels.
+- 'This is a very private meeting.' Max emphasizes one familiar expression toward Elena: "lichnaya" means "personal" (from "lichnyy"), giving the line its exact edge.
+- 'Elena Pavlovna, it is me.' Max makes this answer before Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I have a surprise for you.' Max weighs in evenly around Elena, making his position completely clear.
+- 'And what is the surprise?' Elena frames this direct element right here: "syurpriz" means "surprise", and it carries the main weight of what Elena is saying.
+- 'That the restaurant is closed for the night?' Max delivers the reaction right away: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Exactly that.' Elena counters lightly around Max, testing Max's reaction in the middle of the exchange.
+- 'Excuse us. Hello.' Max leans on this vivid expression right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Right at the workplace.' Elena phrases the comeback in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What a nightmare.' Max replies earnestly with Elena, testing Elena's reaction in the middle of the exchange.
+- 'Young people nowadays have no morals at all.' Elena colors one pointed detail toward Max: "amoralnaya" means "immoral" (from "amoralnyy"), giving the line its exact edge.
+- 'Turning a respectable restaurant.' Max frames that remark without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Into I do not know what.' Elena reacts plainly without a pause, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I won a lucky ticket.' Denis offers a grounded tempo in the room, using "vyigral" (from "vyigrat", "won") alongside "schastlivyy" ("lucky") to shape the meaning.
-- 'When do new relationships begin?' Denis quizzes bluntly without holding back, putting "kogda" ("when") alongside "zarozhdayutsya" ("to new") in a tight, everyday turn of phrase.
-- 'Then a bright flame flares up.' Denis projects a grounded view as they talk, joining "togda" ("back then") to "vspykhivayet" ("bright") so every word pulls its weight.
-- 'Over time a flame can go out.' Denis establishes an honest attitude for Katya, leaning on "vremenem" ("time") before closing the thought with "plamya" ("flares").
-- 'But just one spark is enough.' Denis conveys a warm course in this beat, placing "dostatochno" ("enough") straight beside "tolko" ("only") with no word for "to be" needed.
-- 'Are you running away again today?' Denis asks openly across the room, pairing "segodnya" ("today") with "opyat" ("again") to get the point across in plain spoken Russian.
-- 'No, I am not running away.' Katya shares a wry bearing as the scene unfolds, pairing "ubegayu" ("run away") with "net" ("no") to get the point across in plain spoken Russian.
-- 'Everything is just happening so fast.' Katya presents a measured mood during the exchange, combining the softening word "prosto" ("simply, just") with "bystro" ("quickly") to give the line its natural spoken rhythm.
-- 'Do you feel bad with me right now?' Denis wonders naturally in this moment, combining "seychas" ("now") and "plokho" ("badly") so the key meaning lands right away.
-- 'I feel very good with you.' Katya shows a lively angle in the scene, combining "ochen" ("very much") and "khorosho" ("good, fine") so the key meaning lands right away.
-- 'Katya, I beg you, stay.' Denis takes an honest footing toward Katya, pairing "ostansya" ("to remain, to be left") with "proshu" ("beg, ask") so the "-sya" ending carries the action.
-- 'All right, I will stay a little longer.' Katya shares a direct course in this beat, putting "yeshchyo" ("more, still") alongside "nemnogo" ("a bit") in a tight, everyday turn of phrase.
+- 'I won a lucky ticket.' Denis picks one key expression in earnest: "schastlivyy" means "lucky", and it carries the main weight of what Denis is saying.
+- 'When do new relationships begin?' Denis offers the reply with warmth: the "-sya" ending on "zarozhdayutsya" ("to new") turns the action inward or makes it happen between people naturally.
+- 'Then a bright flame flares up.' Denis jumps in plainly to be clear, before Katya can change the subject.
+- 'Over time a flame can go out.' Denis points to one concrete piece with Katya: "vremenem" means "time" (from "vremya"), giving the line its exact edge.
+- 'But just one spark is enough.' Denis offers the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Are you running away again today?' Denis prompts frankly in front of Katya without any preamble.
+- 'No, I am not running away.' Katya frames one direct expression toward Denis: "ubegayu" means "run away" (from "ubegat"), giving the line its exact edge.
+- 'Everything is just happening so fast.' Katya makes the comment before Denis: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Do you feel bad with me right now?' Denis asks evenly in front of Katya without any preamble.
+- 'I feel very good with you.' Katya focuses on this telling piece toward Denis: "khorosho" means "good, fine", and it carries the main weight of what Katya is saying.
+- 'Katya, I beg you, stay.' Denis shares the reaction without pause: the "-sya" ending on "ostansya" ("to remain, to be left") turns the action inward or makes it happen between people naturally.
+- 'All right, I will stay a little longer.' Katya opens up firmly without a pause, letting the remark speak for itself.

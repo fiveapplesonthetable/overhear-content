@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you stalking me? Good Lord! What are you doing here?' Eleonora quizzes honestly in the scene, combining "presleduyete" ("you are stalking") and "tut" ("here") so the key meaning lands right away.
-- 'Waiting for Katya. That is the last thing I needed.' Denis holds a candid position with Eleonora, using "zhdu" (from "zhdat", "I wait, expect") alongside "yeshche" ("still") to shape the meaning.
-- 'Turn around right now.' Eleonora keeps a resolute manner in the room, anchoring the Russian line on "otvernis" ("to turn away") and "seychas" ("now") without extra filler.
-- 'Listen, I cannot go on like this anymore.' Denis maintains an unhurried style toward Eleonora, leaning on "poslushayte" ("listen") before closing the thought with "bolshe" ("more").
-- 'Everything between Katya and me is falling apart because of you.' Denis establishes an honest approach straight away, leaning on "rushitsya" ("is falling apart") before closing the thought with "nas" ("us").
-- 'Let us tell her the truth.' Denis projects a playful posture toward Eleonora, building the phrase around "davayte" ("let's") and "rasskazhem" ("to tell") for a crisp, natural delivery.
-- 'Boy, you ruined your relationship yourself.' Eleonora strikes a clear style as they talk, building the phrase around "malchik" ("boy") and "otnosheniya" ("relations, relationship") for a crisp, natural delivery.
-- 'Now you want to ruin things between Katya and me too?' Eleonora queries steadily from the start, putting "teper" ("now") alongside "khochesh" ("do you want") in a tight, everyday turn of phrase.
-- 'No, it is just... You will never tell Katya about what happened.' Eleonora presents a thoughtful mood straight away, linking "prosto" ("just"), "nikogda" ("never"), and "skazhesh" ("will you say") in one brisk exchange.
-- 'She is coming.' Denis takes an easygoing tempo in the room, pairing "idet" ("go, walk") with "ona" ("it") to get the point across in plain spoken Russian.
-- 'What do we do?' Denis prompts sharply from the start, pairing "delat" ("do") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'Do not let her into the bathroom.' Eleonora shows a candid mood for Denis, weaving "vannuyu" ("bathroom") together with "ne" ("not") just the way native speakers do.
+- 'Are you stalking me? Good Lord! What are you doing here?' Eleonora wonders openly whether Denis really thought this through.
+- 'Waiting for Katya. That is the last thing I needed.' Denis picks one colorful expression toward Eleonora: "khvatalo" means "was missing" (from "khvatat"), giving the line its exact edge.
+- 'Turn around right now.' Eleonora phrases this update calmly now: the "-sya" ending on "otvernis" ("to turn away") turns the action inward or makes it happen between people naturally.
+- 'Listen, I cannot go on like this anymore.' Denis chimes in pointedly beside Eleonora, bringing things back to earth after the buildup.
+- 'Everything between Katya and me is falling apart because of you.' Denis anchors one concrete expression in reply: "rushitsya" means "is falling apart", and it carries the main weight of what Denis is saying.
+- 'Let us tell her the truth.' Denis frames this statement with ease: the word "davayte" is the polite or group version of "let's", inviting Eleonora into the plan right away.
+- 'Boy, you ruined your relationship yourself.' Eleonora replies bluntly without a pause, watching Denis's face to see how the news lands.
+- 'Now you want to ruin things between Katya and me too?' Eleonora sharpens one memorable touch for Denis: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'No, it is just... You will never tell Katya about what happened.' Eleonora voices this answer without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'She is coming.' Denis speaks firmly without a pause, so Eleonora knows he is not just making small talk.
+- 'What do we do?' Denis puts this statement in earnest: putting the question word "chto" right at the front of the line lets Eleonora hear the point of the question on the very first beat.
+- 'Do not let her into the bathroom.' Eleonora steps in pointedly watching Denis, bringing things back to earth after the buildup.

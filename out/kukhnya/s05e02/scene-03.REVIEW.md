@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If something goes wrong, they fine the staff.' Mikhail takes a frank direction as they talk, building the phrase around "personal" ("staff") and "shtrafuyut" ("to fine, penalize") for a crisp, natural delivery.
-- 'I do not worry about my subordinates.' Barinov shows a measured style in front of Vika, weaving "podchinyonnykh" ("subordinates") together with "volnuyus" ("am nervous") just the way native speakers do.
-- 'Misha, go to your own office.' Barinov shows a candid course during the exchange, linking "idi" ("go"), "kabinet" ("office"), and "misha" ("Misha") in one brisk exchange.
-- 'In ten minutes we have a meeting.' Mikhail shows a resolute tempo in this beat, leaning on "minut" ("minutes") before closing the thought with "sobraniye" ("meeting").
-- 'All our management will be there.' Mikhail chooses a firm footing in the scene, putting "tam" ("there") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'They informed me of important news.' Vika sets a pointed view right away, combining "soobshchili" ("to inform, report") and "vazhnuyu" ("important") so the key meaning lands right away.
-- 'The secret guest will be here today or tomorrow.' Vika brings a wry footing beside Barinov, linking "taynyy" ("secret, undercover"), "gost" ("guest"), and "budet" ("will be") in one brisk exchange.
-- 'Be on alert today.' Vika keeps a frank manner straight away, building the phrase around "budte" ("be") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Mikhail, there is a small problem there.' Vika picks a wry line with Barinov, weaving "tam" ("there") together with "nebolshaya" ("small") just the way native speakers do.
-- 'The guests are complaining about the bitter cold.' Vika projects a clear tone at this moment, using "gosti" (from "gost", "visitors, guests") alongside "zhaluyutsya" ("complain") to shape the meaning.
-- 'Well, send our engineer up there.' Mikhail favors a natural position at once, joining "otpravte" ("send") to "tuda" ("there") so every word pulls its weight.
-- 'Could he not think of that himself?' Mikhail quizzes candidly beside Vika, linking "mog" ("can, to be able"), "podumat" ("to think"), and "on" ("he") in one brisk exchange.
+- 'If something goes wrong, they fine the staff.' Mikhail speaks wryly with a sigh, leaving no doubt about where he stands.
+- 'I do not worry about my subordinates.' Barinov uses one telling detail on cue: "podchinyonnykh" means "subordinates" (from "podchinyonnyy"), giving the line its exact edge.
+- 'Misha, go to your own office.' Barinov picks this telling element for Mikhail: "kabinet" means "office", and it carries the main weight of what Barinov is saying.
+- 'In ten minutes we have a meeting.' Mikhail steps in promptly in this moment, making his position completely clear.
+- 'All our management will be there.' Mikhail reaches for this sharp word toward Barinov: "rukovodstvo" means "leadership", and it carries the main weight of what Mikhail is saying.
+- 'They informed me of important news.' Vika aims that remark for Mikhail: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'The secret guest will be here today or tomorrow.' Vika continues honestly beside Barinov, to clear the air between them once and for all.
+- 'Be on alert today.' Vika highlights one practical element in earnest: "segodnya" means "today", and it carries the main weight of what Vika is saying.
+- 'Mikhail, there is a small problem there.' Vika hands over the reaction without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'The guests are complaining about the bitter cold.' Vika jumps in candidly in this moment, watching Mikhail's face to see how the news lands.
+- 'Well, send our engineer up there.' Mikhail stresses this sharp touch in earnest: "inzhenera" means "engineer" (from "inzhener"), giving the line its exact edge.
+- 'Could he not think of that himself?' Mikhail offers the comment around Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.

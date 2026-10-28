@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello to you again, good man.' Eva sets a wry view on the spot, building the phrase around "snova" ("again") and "dobryy" ("good") for a crisp, natural delivery.
-- 'Listen, I wanted to ask your advice.' Barinov projects an emphatic mood in the conversation, anchoring the Russian line on "slushay" ("listen") and "khotel" ("wanted") without extra filler.
-- 'Come on, calm down first.' Eva strikes an emphatic rhythm on the spot, building the phrase around "snachala" ("first, at first") and "uspokoysya" ("calm down") for a crisp, natural delivery.
-- 'I will tell you everything myself right now.' Eva shows a clear tempo beside Katya, leaning on "seychas" ("now") before closing the thought with "rasskazhu" ("will tell").
-- 'Are you doubting whether to take the money or not?' Eva inquires calmly beside Barinov, linking "somnevayeshsya" ("to doubt"), "brat" ("to take"), and "dengi" ("money") in one brisk exchange.
-- 'Do not take the money, it will end badly.' Eva favors a playful line in their talk, joining "beri" ("take, grab") to "chuzhiye" ("someone else's") so every word pulls its weight.
-- 'I knew it from the very beginning!' Barinov projects a lively mood in this beat, using "znal" (from "znat", "knew") alongside "samogo" ("the very") to shape the meaning.
-- 'Wait, I see a man in a dark suit.' Eva sets an earnest line beside Katya, pairing "postoy" ("wait") with "vizhu" ("see") to get the point across in plain spoken Russian.
-- 'Take the money and boldly follow him.' Eva takes a brisk course in front of Barinov, using "beri" (from "brat", "take, grab") alongside "dengi" ("money") to shape the meaning.
-- 'He will make you much more money.' Eva sets an easygoing posture with Katya, anchoring the Russian line on "sdelayet" ("will do") and "namnogo" ("much, far") without extra filler.
-- 'Understood everything, thank you so much!' Barinov brings an unhurried attitude in this beat, putting "ponyal" ("understood") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
-- 'A molecular dinner was ordered to the room.' Katya maintains a playful view during the exchange, building the phrase around "nomer" ("number") and "zakazali" ("ordered") for a crisp, natural delivery.
+- 'Hello to you again, good man.' Eva colors one concrete piece on cue: "dobryy" means "good", and it carries the main weight of what Eva is saying.
+- 'Listen, I wanted to ask your advice.' Barinov offers this answer with ease: the "-sya" ending on "posovetovatsya" ("to consult") turns the action inward or makes it happen between people naturally.
+- 'Come on, calm down first.' Eva replies quietly facing Barinov, without trying to dress up how she really feels.
+- 'I will tell you everything myself right now.' Eva centers one sharp word right here: "rasskazhu" means "will tell" (from "rasskazat"), giving the line its exact edge.
+- 'Are you doubting whether to take the money or not?' Eva states that reply with candor: the "-sya" ending on "somnevayeshsya" ("to doubt") turns the action inward or makes it happen between people naturally.
+- 'Do not take the money, it will end badly.' Eva speaks up firmly across the room, leaving no doubt about where she stands.
+- 'I knew it from the very beginning!' Barinov leans on one direct word in earnest: "nachala" means "beginning" (from "nachalo"), giving the line its exact edge.
+- 'Wait, I see a man in a dark suit.' Eva answers frankly beside Katya, saying out loud what both of them already know.
+- 'Take the money and boldly follow him.' Eva speaks candidly hearing Barinov, shifting the whole mood of the room in a single beat.
+- 'He will make you much more money.' Eva features one vivid detail right here: "sdelayet" means "will do" (from "sdelat"), giving the line its exact edge.
+- 'Understood everything, thank you so much!' Barinov sends that thought with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'A molecular dinner was ordered to the room.' Katya chimes in openly toward Eva, so Eva knows she is not just making small talk.

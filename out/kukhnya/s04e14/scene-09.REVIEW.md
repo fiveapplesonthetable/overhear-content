@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, this is just my half-eaten breakfast.' Denis picks a candid style in front of Fedya, linking "prosto" ("just") directly with "nedoyedennyy" ("breakfast"), since Russian drops "is" and "are" in the present.
-- 'Guys, why is she walking after me all day?' Denis checks naturally with Senya now, linking "rebyata" ("the boys, the lads"), "pochemu" ("why"), and "den" ("day") in one brisk exchange.
-- 'Tell me, what does she need from me?' Denis probes decisively in the scene, linking "skazhite" ("tell"), "nado" ("it is necessary"), and "chto" ("what") in one brisk exchange.
-- 'You see, she is a little strange here with us.' Senya brings a warm approach in the scene, building the phrase around "ponimayesh" ("do you understand") and "nemnogo" ("a bit") for a crisp, natural delivery.
-- 'She simply fell in love and wants you!' Fedya picks a lively direction as the scene unfolds, linking "prosto" ("just"), "vlyubilas" ("fell in love"), and "khochet" ("wants") in one brisk exchange.
-- 'Previously she ran after all the guys here.' Senya projects a direct attitude without hesitation, linking "ranshe" ("earlier, previously"), "zdes" ("here"), and "parnyami" ("boyfriend, guy") in one brisk exchange.
-- 'And until she gets her way, she will not back off!' Fedya sets an unhurried tempo during the exchange, combining "poka" ("bye") and "dobyotsya" ("to achieve") so the key meaning lands right away.
-- 'Whoa, but she is the chef's own daughter!' Denis maintains a thoughtful attitude in the room, putting "rodnaya" ("dear, darling") alongside "doch" ("daughter") in a tight, everyday turn of phrase.
-- 'So what, on the other hand she is a very pretty girl.' Senya establishes a resolute position with Denis, combining "ochen" ("very much") and "krasivaya" ("pretty, beautiful") so the key meaning lands right away.
-- 'Look, Katya is looking closely at you again!' Fedya brings a sharp attitude as they talk, combining "smotri" ("look") and "opyat" ("again") so the key meaning lands right away.
-- 'We told you after all, she is like a barracuda!' Senya sets a firm mood at this moment, putting "govorili" ("talked") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'She will not let go until she achieves her goal!' Fedya shares a brisk tempo at this moment, putting "otpustit" ("to let go, to release") alongside "poka" ("bye") in a tight, everyday turn of phrase.
+- 'Katya, this is just my half-eaten breakfast.' Denis holds firm bluntly as things stand, watching Fedya's face to see how the news lands.
+- 'Guys, why is she walking after me all day?' Denis picks one direct term in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Denis is saying.
+- 'Tell me, what does she need from me?' Denis hands over that thought without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'You see, she is a little strange here with us.' Senya continues bluntly in their talk, bringing things back to earth after the buildup.
+- 'She simply fell in love and wants you!' Fedya reaches for this clear term at once: "vlyubilas" means "fell in love" (from "vlyubitsya"), giving the line its exact edge.
+- 'Previously she ran after all the guys here.' Senya jumps in wryly facing Fedya, without trying to dress up how he really feels.
+- 'And until she gets her way, she will not back off!' Fedya answers candidly as things stand, so Denis knows he is not just making small talk.
+- 'Whoa, but she is the chef's own daughter!' Denis frames one memorable choice in earnest: "rodnaya" means "dear, darling" (from "rodnoy"), giving the line its exact edge.
+- 'So what, on the other hand she is a very pretty girl.' Senya voices that remark facing Denis: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'Look, Katya is looking closely at you again!' Fedya continues briskly with a shrug, keeping the focus on what actually matters here.
+- 'We told you after all, she is like a barracuda!' Senya colors one familiar choice in earnest: "barrakuda" means "barracuda", and it carries the main weight of what Senya is saying.
+- 'She will not let go until she achieves her goal!' Fedya states this warning calmly now: the "-sya" ending on "dobyotsya" ("to achieve") turns the action inward or makes it happen between people naturally.

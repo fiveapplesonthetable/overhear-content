@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I do not know what happened.' Eleonora brings a frank bearing during the exchange, putting "znayu" ("know") alongside "proizoshlo" ("happened") in a tight, everyday turn of phrase.
-- 'But I want to tell you one thing.' Eleonora projects a wry course right away, using "khochu" (from "khotet", "want") alongside "skazat" ("tell") to shape the meaning.
-- 'Many years ago I quarreled with my father.' Eleonora holds a lively posture in their talk, joining "mnogo" ("a lot") to "let" ("years") so every word pulls its weight.
-- 'But recently, as you know, we made up.' Eleonora takes a thoughtful angle without hesitation, joining "nedavno" ("returned") to "kak" ("how") so every word pulls its weight.
-- 'I deeply regret that I waited so long.' Eleonora picks a thoughtful rhythm across the room, anchoring the Russian line on "ochen" ("very much") and "zhaleyu" ("regret") without extra filler.
-- 'But remember that time flies by unnoticed.' Eleonora shares a clear course in their talk, anchoring the Russian line on "pomni" ("remember") and "vremya" ("time") without extra filler.
-- 'I never got the money today.' Mikhail conveys a lively stance on the spot, linking "segodnya" ("today"), "dozhdalsya" ("to wait for"), and "deneg" ("money") in one brisk exchange.
-- 'Forgive us, please, we will pay everything back.' Barinov takes a direct view in this beat, building the phrase around "prostite" ("excuse me") and "otdadim" ("will give") for a crisp, natural delivery.
-- 'Stop crying and shouting loudly in here.' Mikhail maintains a playful mood in this beat, weaving "khvatit" ("enough") together with "tut" ("here") just the way native speakers do.
-- 'People live with one kidney too.' Mikhail adopts a playful note for Eleonora, combining "pochkoy" ("kidney") and "lyudi" ("people") so the key meaning lands right away.
-- 'And right now you have two of them.' Mikhail favors a natural posture in the scene, combining "u tebya" (literally "by you") with "seychas" ("now") rather than a separate word for "have".
-- 'Next time I will not be joking.' Mikhail picks a measured bearing as the scene unfolds, pairing "sleduyushchiy" ("next") with "raz" ("time, once") to get the point across in plain spoken Russian.
+- 'Kostya, I do not know what happened.' Eleonora centers one sharp piece in reply: "proizoshlo" means "happened" (from "proizoyti"), giving the line its exact edge.
+- 'But I want to tell you one thing.' Eleonora leans on this sharp element with Mikhail: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Many years ago I quarreled with my father.' Eleonora proceeds quietly without holding back, saying out loud what both of them already know.
+- 'But recently, as you know, we made up.' Eleonora grounds one vivid word toward Mikhail: "pomirilis" means "reconciled" (from "pomiritsya"), giving the line its exact edge.
+- 'I deeply regret that I waited so long.' Eleonora holds firm decisively to settle things, testing Barinov's reaction in the middle of the exchange.
+- 'But remember that time flies by unnoticed.' Eleonora opens up bluntly to be clear, without trying to dress up how she really feels.
+- 'I never got the money today.' Mikhail stresses this telling detail in earnest: "dozhdalsya" means "to wait for" (from "dozhdatsya"), giving the line its exact edge.
+- 'Forgive us, please, we will pay everything back.' Barinov sends this answer at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Stop crying and shouting loudly in here.' Mikhail chimes in honestly as they talk, making his position completely clear.
+- 'People live with one kidney too.' Mikhail colors one familiar term toward Eleonora: "pochkoy" means "kidney" (from "pochka"), giving the line its exact edge.
+- 'And right now you have two of them.' Mikhail brings that reply with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Next time I will not be joking.' Mikhail holds firm evenly beside Eleonora, shifting the whole mood of the room in a single beat.

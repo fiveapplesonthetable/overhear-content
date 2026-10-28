@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All my money was in there, do you understand?' Nagiyev quizzes dryly to make the point, joining "tam" ("there") to "byli" ("be") so every word pulls its weight.
-- 'Every single kopeck of ours was there.' Nagiyev sustains a wry bearing in the conversation, linking "tam" ("there"), "byla" ("was"), and "kazhdaya" ("every") in one brisk exchange.
-- 'The money was for our second floor.' Nagiyev shows a serious manner beside Barinov, putting "dengi" ("money") alongside "byli" ("be") in a tight, everyday turn of phrase.
-- 'And for new furniture for the restaurant.' Nagiyev shares an emphatic mood in this beat, combining "novuyu" ("new") and "mebel" ("furniture") so the key meaning lands right away.
-- 'I do not even have anything to pay salaries with now.' Nagiyev brings a warm approach right away, combining "zarplatu" ("salary") and "teper" ("now") so the key meaning lands right away.
-- 'I have nothing to buy food with now.' Nagiyev sets a clear position in the room, linking "teper" ("now"), "yedu" ("am driving"), and "zakupat" ("to purchase") in one brisk exchange.
-- 'Here is the last jar, take it and guard it.' Nagiyev displays an emphatic course toward Barinov, putting "poslednyaya" ("last, final") alongside "banka" ("bank") in a tight, everyday turn of phrase.
-- 'I might as well sell our restaurant now.' Nagiyev conveys a natural note beside Max, weaving "prodavay" ("sell") together with "teper" ("now") just the way native speakers do.
-- 'Dmitry Vladimirovich, a guest has come to see you.' Max presents a firm position across the room, combining "prishyol" ("came, have come") and "gost" ("guest") so the key meaning lands right away.
-- 'Come on, guys, let us not relax right now.' Nagiyev maintains a serious line as the scene unfolds, putting "davayte" ("let's") alongside "rebyata" ("the boys, the lads") in a tight, everyday turn of phrase.
-- 'That man from the chain has come again.' Barinov chooses a resolute course in the conversation, putting "opyat" ("again") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
-- 'They have flocked here like vultures.' Barinov picks an honest footing on the spot, anchoring the Russian line on "syuda" ("here") and "sletelis" ("flocked together") without extra filler.
+- 'All my money was in there, do you understand?' Nagiyev offers the thought plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Every single kopeck of ours was there.' Nagiyev stands firm plainly on the spot, keeping the focus on what actually matters here.
+- 'The money was for our second floor.' Nagiyev uses one sharp choice right here: "vtoroy" means "second", and it carries the main weight of what Nagiyev is saying.
+- 'And for new furniture for the restaurant.' Nagiyev opens up honestly on the spot, shifting the whole mood of the room in a single beat.
+- 'I do not even have anything to pay salaries with now.' Nagiyev continues openly with a sigh, bringing things back to earth after the buildup.
+- 'I have nothing to buy food with now.' Nagiyev features one classic element right here: "zakupat" means "to purchase", and it carries the main weight of what Nagiyev is saying.
+- 'Here is the last jar, take it and guard it.' Nagiyev states this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I might as well sell our restaurant now.' Nagiyev fires back frankly beside Max, grounding the moment in plain reality.
+- 'Dmitry Vladimirovich, a guest has come to see you.' Max anchors this key term at once: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'Come on, guys, let us not relax right now.' Nagiyev sends the reaction with ease: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'That man from the chain has come again.' Barinov responds calmly around Max, watching Max's face to see how the news lands.
+- 'They have flocked here like vultures.' Barinov chooses this sharp piece in earnest: "korshuny" means "kites, vultures" (from "korshun"), giving the line its exact edge.

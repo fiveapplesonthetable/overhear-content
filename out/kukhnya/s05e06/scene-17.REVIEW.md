@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So this is not your child?' Max questions sharply in their exchange, pairing "yest" ("there is") with "rebyonok" ("a child") to get the point across in plain spoken Russian.
-- 'Are you a fool or what? Of course not.' Nagiyev quizzes evenly with Max now, joining "durak" ("fool, idiot") to "konechno" ("of course") so every word pulls its weight.
-- 'Let me catch up with your bride and explain everything to her.' Max shows a brisk tempo right away, weaving "davayte" ("let's") together with "dogonyu" ("will catch up with") just the way native speakers do.
-- 'Do not sweat it, I am no longer sure about the bride anyway.' Nagiyev establishes a clear course across the room, pairing "parsya" ("to steam oneself in a bathhouse") with "povodu" ("matter") to get the point across in plain spoken Russian.
-- 'Let us go to the bar instead and celebrate my breakup.' Nagiyev takes a lively line in the conversation, weaving "poydyom" ("let's go") together with "luchshe" ("better") just the way native speakers do.
-- 'Katya, sweetheart, open up!' Barinov maintains a pointed tempo right away, pairing "dochenka" ("sweetheart") with "otkroy" ("to open") to get the point across in plain spoken Russian.
-- 'Do you not have a key?' Barinov wonders briskly right away, pairing "klyucha" ("key") with "tebya" ("you") to get the point across in plain spoken Russian.
-- 'She locked herself in from the inside.' Max takes a pointed footing across the room, linking "iznutri" ("from the inside"), "zakrylas" ("locked herself in"), and "ona" ("it") in one brisk exchange.
-- 'Then we will use my key.' Barinov strikes a direct mood right away, pairing "togda" ("back then") with "primenim" ("will use, apply") to get the point across in plain spoken Russian.
-- 'Oh my God, she swallowed some kind of pills!' Max favors a wry stance at once, leaning on "bozhe" ("good lord, God") before closing the thought with "tabletok" ("pill, tablet").
-- 'Stop panicking!' Barinov adopts a serious bearing in their talk, leaning on "khvatit" ("enough") before closing the thought with "isterit" ("to panic, be hysterical").
-- 'Come on, call an ambulance!' Barinov displays an emphatic posture without hesitation, combining the everyday invitation "davay" ("come on, let us") with "skoruyu" ("ambulance") to give the line its natural spoken rhythm.
+- 'So this is not your child?' Max drops the remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Are you a fool or what? Of course not.' Nagiyev probes skeptically about what Max just brought up.
+- 'Let me catch up with your bride and explain everything to her.' Max picks one classic choice toward Barinov: "nevestu" means "bride, fiancée" (from "nevesta"), giving the line its exact edge.
+- 'Do not sweat it, I am no longer sure about the bride anyway.' Nagiyev cuts in earnestly watching Max, to clear the air between them once and for all.
+- 'Let us go to the bar instead and celebrate my breakup.' Nagiyev speaks warmly without a pause, keeping the focus on what actually matters here.
+- 'Katya, sweetheart, open up!' Barinov colors one key expression toward Nagiyev: "dochenka" means "sweetheart", and it carries the main weight of what Barinov is saying.
+- 'Do you not have a key?' Barinov puts the comeback toward Max: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'She locked herself in from the inside.' Max speaks lightly as they talk, without trying to dress up how he really feels.
+- 'Then we will use my key.' Barinov emphasizes one concrete piece right here: "primenim" means "will use, apply" (from "primenit"), giving the line its exact edge.
+- 'Oh my God, she swallowed some kind of pills!' Max speaks up quietly beside Nagiyev, to clear the air between them once and for all.
+- 'Stop panicking!' Barinov reacts evenly with a shrug, saying out loud what both of them already know.
+- 'Come on, call an ambulance!' Barinov spotlights this sharp detail for Nagiyev: "skoruyu" means "ambulance" (from "skoraya"), giving the line its exact edge.

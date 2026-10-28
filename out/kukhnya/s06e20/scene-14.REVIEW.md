@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad agreed to babysit the child today.' Kostya favors a direct course in the scene, weaving "papa" ("Dad") together with "soglasilsya" ("agreed") just the way native speakers do.
-- 'Get ready, we will go to the movies.' Kostya projects a clear approach in the conversation, leaning on "sobiraysya" ("gather yourself") before closing the thought with "poydyom" ("let's go").
-- 'He will steal the child without you here!' The guest takes an earnest tone in the scene, using "rebyonka" (from "rebyonok", "child") alongside "ukradyot" ("to steal") to shape the meaning.
-- 'Let us wait for the test result first.' Nastya maintains a steady view toward Kostya, pairing "dozhdyomsya" ("to wait for") with "davayte" ("let's") so the "-sya" ending carries the action.
-- 'This swindler will demand a big ransom!' The guest brings a frank rhythm in the conversation, anchoring the Russian line on "aferist" ("swindler, con man") and "bolshoy" ("big") without extra filler.
-- 'Somehow I do not want to go to the movies.' Nastya offers a grounded position in front of Kostya, joining "khochu" ("want") to "kino" ("cinema, movies") so every word pulls its weight.
-- 'I just want to stay at home.' Nastya brings an emphatic angle at this moment, pairing "prosto" ("just") with "khochu" ("want") to get the point across in plain spoken Russian.
-- 'Let us go to the planetarium tomorrow.' The guest holds a calm direction without hesitation, combining "davayte" ("let's") and "zavtra" ("tomorrow") so the key meaning lands right away.
-- 'You two are not going anywhere alone!' Nastya offers a clear attitude at once, pairing "nikuda" ("nowhere, anywhere") with "vdvoyom" ("the two of us together") to get the point across in plain spoken Russian.
-- 'Nastya, what on earth is the matter?' Kostya quizzes dryly to Nastya here, joining "voobshche" ("at all") to "delo" ("matter") so every word pulls its weight.
-- 'I spoke with your grandmother.' Nastya strikes a brisk course in this beat, weaving "razgovarivala" ("to talk, to speak") together with "babushkoy" ("grandmother") just the way native speakers do.
-- 'She did not recognize Kostya's father in you.' Nastya sets a firm attitude on the spot, putting "uznala" ("to recognise") alongside "ottsa" ("father") in a tight, everyday turn of phrase.
+- 'Dad agreed to babysit the child today.' Kostya frames the remark without pause: the "-sya" ending on "soglasilsya" ("agreed") turns the action inward or makes it happen between people naturally.
+- 'Get ready, we will go to the movies.' Kostya jumps in lightly beside Nastya, watching Nastya's face to see how the news lands.
+- 'He will steal the child without you here!' The guest grounds one practical piece at once: "rebyonka" means "child" (from "rebyonok"), giving the line its exact edge.
+- 'Let us wait for the test result first.' Nastya shares this statement briskly now: the word "davayte" is the polite or group version of "let's", inviting Kostya into the plan right away.
+- 'This swindler will demand a big ransom!' The guest continues promptly beside Kostya, shifting the whole mood of the room in a single beat.
+- 'Somehow I do not want to go to the movies.' Nastya focuses on one pointed detail toward Kostya: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'I just want to stay at home.' Nastya puts the comeback on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Let us go to the planetarium tomorrow.' The guest proceeds plainly hearing Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'You two are not going anywhere alone!' Nastya focuses on one concrete choice in earnest: "poydyote" means "will go" (from "poyti"), giving the line its exact edge.
+- 'Nastya, what on earth is the matter?' Kostya offers the thought plainly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'I spoke with your grandmother.' Nastya replies firmly in their talk, making her position completely clear.
+- 'She did not recognize Kostya's father in you.' Nastya features one clear piece right here: "ottsa" means "father" (from "otets"), giving the line its exact edge.

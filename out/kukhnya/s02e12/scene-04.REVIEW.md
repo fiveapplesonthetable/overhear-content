@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The Russian land still gives birth to geniuses.' Nastya establishes a calm approach during the exchange, combining "rozhayet" ("to give birth") and "zemlya" ("land") so the key meaning lands right away.
-- 'Rarely, but it does.' Barinov sets a grounded direction on the spot, anchoring the Russian line on "redko" ("rarely") and "rozhayet" ("to give birth") without extra filler.
-- 'I have heard a great deal about you.' Nastya shows a warm style in the conversation, weaving "ochen" ("very much") together with "mnogo" ("a lot") just the way native speakers do.
-- 'Nice to meet you.' Barinov favors a resolute rhythm at once, leaning on "priyatno" ("pleasant") before closing the thought with "poznakomitsya" ("to meet").
-- 'I am not a cook.' Nastya conveys a warm tack in the scene, pairing "povar" ("chef, cook") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Can you not tell?' Barinov prompts plainly toward Nastya here, anchoring the Russian line on "vidno" ("one can see") and "ne" ("not") without extra filler.
-- 'I am right here.' Nastya presents a frank mood in this beat, combining "zdes" ("here") and "ya" ("I") so the key meaning lands right away.
-- 'That I am young.' Barinov shows a serious footing across the room, using "molod" (from "molodoy", "young") alongside "chto" ("what") to shape the meaning.
-- 'But that is not true, not true at all.' Nastya sustains a frank rhythm in their talk, building the phrase around "no" ("but") and "eto" ("this") for a crisp, natural delivery.
-- 'And I built my career over there.' Barinov conveys an earnest course in their talk, joining "tam" ("there") to "sdelal" ("did") so every word pulls its weight.
-- 'It is somehow...' Nastya favors an unhurried bearing at once, joining "kak-to" ("somehow, a bit") to "zhe" ("but, after all") so every word pulls its weight.
-- 'Unusual talking with you like this.' Barinov adopts a clear note right away, putting "neprivychno" ("unusual, unfamiliar") alongside "razgovarivat" ("to talk, to speak") in a tight, everyday turn of phrase.
-- 'I will put the flowers in water for you.' Nastya projects a steady course in front of Barinov, using "postavlyu" (from "postavit", "will set") alongside "tsvety" ("the flowers") to shape the meaning.
+- 'The Russian land still gives birth to geniuses.' Nastya chooses one loaded term on cue: "russkaya" means "Russian" (from "russkiy"), giving the line its exact edge.
+- 'Rarely, but it does.' Barinov drops the reply on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I have heard a great deal about you.' Nastya steps in quietly facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Nice to meet you.' Barinov stresses one concrete element for Nastya: "poznakomitsya" means "to meet", and it carries the main weight of what Barinov is saying.
+- 'I am not a cook.' Nastya hands over that reply in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Can you not tell?' Barinov probes evenly to see how Nastya will answer on the spot.
+- 'I am right here.' Nastya frames that answer with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That I am young.' Barinov sends that line before Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But that is not true, not true at all.' Nastya stands firm evenly as things stand, saying out loud what both of them already know.
+- 'And I built my career over there.' Barinov underscores one vivid piece in earnest: "karyeru" means "career" (from "karyera"), giving the line its exact edge.
+- 'It is somehow...' Nastya makes the comeback without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Unusual talking with you like this.' Barinov reacts quietly to be clear, refusing to let the moment slip past.
+- 'I will put the flowers in water for you.' Nastya leans on this clear choice at once: "postavlyu" means "will set" (from "postavit"), giving the line its exact edge.

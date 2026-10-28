@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, little one!' Max offers a measured tone in front of Lyova, joining "malysh" ("kid, little one") to "privet" ("hi") so every word pulls its weight.
-- 'Do you know who you are having?' Max challenges firmly in the scene, building the phrase around "znayete" ("know") and "budet" ("will be") for a crisp, natural delivery.
-- 'No. Stop it!' Vika maintains a direct course in their talk, combining "prekrati" ("stop it") and "net" ("no") so the key meaning lands right away.
-- 'And why do I not know?' Max quizzes warmly to Vika here, weaving "pochemu" ("why") together with "znayu" ("know") just the way native speakers do.
-- 'You have to tell me.' Max chooses a thoughtful tack at this moment, putting "dolzhna" ("should, must") alongside "skazat" ("tell") in a tight, everyday turn of phrase.
-- 'I do not owe you anything.' Vika maintains a frank line in the conversation, joining "dolzhna" ("should, must") to "ya" ("I") so every word pulls its weight.
-- 'Keep living just like before.' Vika takes an earnest line in the room, linking "prodolzhay" ("continue"), "zhit" ("to live"), and "kak" ("how") in one brisk exchange.
-- 'I have changed, I will prove it right now.' Max adopts a measured direction at this moment, joining "izmenilsya" ("have changed") to "seychas" ("now") so every word pulls its weight.
-- 'Kitchen, attention!' Max sustains a frank view in front of Lyova, combining "kukhnya" ("kitchen") and "vnimaniye" ("attention") so the key meaning lands right away.
-- 'From this moment I stop lying.' Max maintains a brisk rhythm with Vika, leaning on "momenta" ("moment") before closing the thought with "prekrashchayu" ("stop, cease").
-- 'And I will speak only the truth.' Max brings a steady approach toward Lyova, anchoring the Russian line on "budu" ("will be") and "govorit" ("to talk") without extra filler.
-- 'Quickly back to work, Lavrov!' Lyova offers a resolute stance during the exchange, weaving "bystro" ("quickly") together with "rabotu" ("job") just the way native speakers do.
-- 'Did you chop the carrots?' Lyova prompts quietly right away, combining "morkov" ("carrot") and "narezal" ("sliced, chopped") so the key meaning lands right away.
+- 'Hello, little one!' Max shapes this answer without fuss: opening with the casual greeting "privet" ("hi") signals right away that Max and Lyova are on familiar terms.
+- 'Do you know who you are having?' Max checks frankly while looking straight at Vika here.
+- 'No. Stop it!' Vika picks one classic word with Lyova: "prekrati" means "stop it" (from "prekratit"), giving the line its exact edge.
+- 'And why do I not know?' Max offers the thought with ease: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'You have to tell me.' Max responds bluntly on the spot, grounding the moment in plain reality.
+- 'I do not owe you anything.' Vika favors one familiar piece at once: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
+- 'Keep living just like before.' Vika hands over the reaction with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I have changed, I will prove it right now.' Max reacts boldly across the room, to clear the air between them once and for all.
+- 'Kitchen, attention!' Max grounds this key choice on cue: "vnimaniye" means "attention", and it carries the main weight of what Max is saying.
+- 'From this moment I stop lying.' Max chimes in dryly with a sigh, watching Vika's face to see how the news lands.
+- 'And I will speak only the truth.' Max continues right away as things stand, shifting the whole mood of the room in a single beat.
+- 'Quickly back to work, Lavrov!' Lyova picks one direct touch toward Vika: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'Did you chop the carrots?' Lyova phrases the comment for Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.

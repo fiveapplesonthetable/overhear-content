@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, quietly drive his car away.' Eleonora strikes a lively bearing in the conversation, joining "derzhi" ("here you go") to "tikho" ("easy, quiet") so every word pulls its weight.
-- 'Leave it a couple of blocks away over there.' Eleonora conveys a serious course at this moment, joining "paru" ("couple") to "kvartalov" ("city blocks") so every word pulls its weight.
-- 'Later they will calmly find it.' Eleonora brings a brisk view in the scene, building the phrase around "potom" ("then") and "spokoyno" ("calmly") for a crisp, natural delivery.
-- 'And what if Dmitry Vladimirovich notices?' Nikita checks boldly in this moment, joining "zametit" ("notices") to "yesli" ("if") so every word pulls its weight.
-- 'Do not worry, he will not need the car anytime soon.' Eleonora takes a lively mood without hesitation, anchoring the Russian line on "volnuysya" ("worry") and "mashina" ("a car") without extra filler.
-- 'Thank you very much, Eleonora Andreyevna.' Nikita strikes a thoughtful posture in front of Senya, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
-- 'From now on court Katya without crime.' Eleonora favors a natural attitude in the room, joining "dalshe" ("next, go on") to "ukhazhivay" ("to court, to woo") so every word pulls its weight.
-- 'Senechka, open the door for me immediately!' Nikita presents a pointed footing in this beat, anchoring the Russian line on "otkroy" ("to open") and "dver" ("door") without extra filler.
-- 'Chef said that you will sober up first.' Senya maintains a grounded line right away, anchoring the Russian line on "skazal" ("said") and "protrezveyete" ("you will sober up") without extra filler.
-- 'Senechka, maybe you and I can make a deal?' Nikita inquires quietly without holding back, building the phrase around "mozhet" ("can") and "dogovorimsya" ("we'll arrange") for a crisp, natural delivery.
-- 'I will not let you out even for money.' Senya projects a resolute posture in their talk, anchoring the Russian line on "dengi" ("money") and "vypushchu" ("will let out") without extra filler.
-- 'Sit quietly in the office.' Senya shows a resolute mood as the scene unfolds, linking "sidite" ("sit, stay seated"), "kabinete" ("office"), and "tikho" ("easy, quiet") in one brisk exchange.
+- 'Here, quietly drive his car away.' Eleonora underscores one key piece for Nikita: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
+- 'Leave it a couple of blocks away over there.' Eleonora fires back evenly across the room, saying out loud what both of them already know.
+- 'Later they will calmly find it.' Eleonora continues steadily beside Nikita, refusing to let the moment slip past.
+- 'And what if Dmitry Vladimirovich notices?' Nikita colors this direct element for Senya: "zametit" means "notices", and it carries the main weight of what Nikita is saying.
+- 'Do not worry, he will not need the car anytime soon.' Eleonora aims the reply with ease: the "-sya" ending on "ponadobitsya" ("to be needed") turns the action inward or makes it happen between people naturally.
+- 'Thank you very much, Eleonora Andreyevna.' Nikita replies warmly with Senya, leaving no doubt about where he stands.
+- 'From now on court Katya without crime.' Eleonora stresses one familiar detail for Nikita: "kriminala" means "crime" (from "kriminal"), giving the line its exact edge.
+- 'Senechka, open the door for me immediately!' Nikita follows up frankly with a shrug, making his position completely clear.
+- 'Chef said that you will sober up first.' Senya chimes in evenly in this moment, refusing to let the moment slip past.
+- 'Senechka, maybe you and I can make a deal?' Nikita stresses this vivid word at once: "dogovorimsya" means "we'll arrange" (from "dogovoritsya"), giving the line its exact edge.
+- 'I will not let you out even for money.' Senya sharpens one classic term right here: "vypushchu" means "will let out" (from "vypustit"), giving the line its exact edge.
+- 'Sit quietly in the office.' Senya steps in wryly without a pause, before Nikita can change the subject.

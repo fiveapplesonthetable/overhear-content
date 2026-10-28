@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is just a little joke!' Nagiyev presents a brisk manner as they talk, putting "prosto" ("just") alongside "malenkaya" ("small") in a tight, everyday turn of phrase.
-- 'It is a surprise from our mustachioed clown.' Nagiyev takes a frank manner toward Eleonora, linking "syurpriz" ("surprise") directly with "usatogo" ("mustachioed"), since Russian drops "is" and "are" in the present.
-- 'Thank you all very much for your attention.' Nagiyev displays an unhurried tack without hesitation, combining "bolshoye" ("big, very much") and "spasibo" ("thank you") so the key meaning lands right away.
-- 'Why did you kill that snake?' Eleonora asks promptly toward Nagiyev here, combining "zachem" ("what for") and "zmeyu" ("snake") so the key meaning lands right away.
-- 'How could you do that at all?' Eleonora checks candidly toward Barinov here, putting "kak" ("how") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
-- 'In order to cook it deliciously for you.' Barinov offers a wry tempo in this beat, linking "vkusno" ("it's tasty"), "prigotovit" ("to cook, to prepare"), and "chtoby" ("so that") in one brisk exchange.
-- 'You are to blame for everything yourself.' Barinov shares an easygoing style in the room, putting "vinovata" ("at fault, to blame") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'Nobody discussed the banquet with me.' Barinov conveys an emphatic direction during the exchange, joining "banket" ("banquet") to "obsuzhdal" ("discussed") so every word pulls its weight.
-- 'I will definitely fire you for this!' Eleonora sustains an easygoing direction straight away, anchoring the Russian line on "tochno" ("definitely") and "uvolyu" ("will fire") without extra filler.
-- 'But under the contract you cannot.' Barinov maintains a measured tone across the room, leaning on "kontraktu" ("by contract") before closing the thought with "mozhesh" ("can").
-- 'What was that on stage just now?' Nagiyev questions openly as the talk turns, combining "seychas" ("now") and "bylo" ("was") so the key meaning lands right away.
-- 'Try our new hot dish!' Barinov sets a playful position as they talk, anchoring the Russian line on "poprobuyte" ("try, taste") and "novoye" ("new") without extra filler.
+- 'This is just a little joke!' Nagiyev follows up quietly with a nod, shifting the whole mood of the room in a single beat.
+- 'It is a surprise from our mustachioed clown.' Nagiyev picks one sharp element at once: "syurpriz" means "surprise", and it carries the main weight of what Nagiyev is saying.
+- 'Thank you all very much for your attention.' Nagiyev frames that answer with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Why did you kill that snake?' Eleonora tests curiously where this conversation is heading next.
+- 'How could you do that at all?' Eleonora colors one classic expression toward Barinov: "voobshche" means "at all", and it carries the main weight of what Eleonora is saying.
+- 'In order to cook it deliciously for you.' Barinov centers one telling touch toward Nagiyev: "prigotovit" means "to cook, to prepare", and it carries the main weight of what Barinov is saying.
+- 'You are to blame for everything yourself.' Barinov opens up steadily on the spot, leaving no doubt about where he stands.
+- 'Nobody discussed the banquet with me.' Barinov leans on this vivid choice with Nagiyev: "obsuzhdal" means "discussed" (from "obsuzhdat"), giving the line its exact edge.
+- 'I will definitely fire you for this!' Eleonora uses this telling touch right here: "tochno" means "definitely", and it carries the main weight of what Eleonora is saying.
+- 'But under the contract you cannot.' Barinov chimes in warmly in this moment, so Nagiyev knows he is not just making small talk.
+- 'What was that on stage just now?' Nagiyev colors one direct element right here: "stsene" means "the stage" (from "stsena"), giving the line its exact edge.
+- 'Try our new hot dish!' Barinov answers warmly facing Nagiyev, steering the talk right where he wants it.

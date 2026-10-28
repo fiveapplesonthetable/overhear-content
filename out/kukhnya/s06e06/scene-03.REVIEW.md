@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is already a grown adult.' Eleonora strikes an earnest manner beside Barinov, linking "uzhe" ("already, now") directly with "vzroslyy" ("grown-up, adult"), since Russian drops "is" and "are" in the present.
-- 'She has the right to make important decisions herself.' Eleonora sets a steady mood in the conversation, combining "vprave" ("entitled, has the right") and "prinimat" ("to receive") so the key meaning lands right away.
-- 'We must not stand in her way right now.' Eleonora maintains a clear footing beside Barinov, building the phrase around "dolzhny" ("must, should") and "seychas" ("now") for a crisp, natural delivery.
-- 'Do you really think so calmly?' Barinov prompts decisively with Kostya now, combining "pravda" ("honestly") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'Maybe someone should just beat his face in?' Eleonora quizzes quietly in the scene, linking "mozhet" ("can"), "prosto" ("just"), and "litso" ("face") in one brisk exchange.
-- 'And who exactly is going to beat him?' Barinov prompts quietly as they speak, putting "budet" ("will be") alongside "bit" ("to hit, beat") in a tight, everyday turn of phrase.
-- 'Victor Petrovich, maybe we can help?' Kostya quizzes steadily during the talk, linking "mozhet" ("can"), "smozhem" ("to be able"), and "pomoch" ("to help") in one brisk exchange.
-- 'There is enough room for everyone at our place.' Eleonora maintains a resolute direction in the room, putting "doma" ("at home") alongside "mesta" ("places") in a tight, everyday turn of phrase.
-- 'I am categorically against this guest at home.' Kostya keeps a natural manner at this moment, combining "kategoricheski" ("categorically") and "gostya" ("guest, visitor") so the key meaning lands right away.
-- 'Kostya, you cannot treat your father like that!' Eleonora adopts an earnest note as they talk, weaving "nelzya" ("not allowed") together with "ottsom" ("father") just the way native speakers do.
-- 'Goodbye, leave my apartment now.' Kostya sets a frank course as the scene unfolds, pairing "svidaniya" ("meeting") with "ukhodite" ("leave, go away") to get the point across in plain spoken Russian.
-- 'Let him stay in a hotel instead.' Kostya adopts an earnest manner across the room, leaning on "luchshe" ("better") before closing the thought with "zhivyot" ("lives").
+- 'She is already a grown adult.' Eleonora replies earnestly toward Barinov, leaving no doubt about where she stands.
+- 'She has the right to make important decisions herself.' Eleonora spotlights one direct term on cue: "resheniya" means "decision" (from "resheniye"), giving the line its exact edge.
+- 'We must not stand in her way right now.' Eleonora chimes in bluntly with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'Do you really think so calmly?' Barinov inquires wryly what Kostya is actually getting at here.
+- 'Maybe someone should just beat his face in?' Eleonora centers one vivid choice on cue: "litso" means "face", and it carries the main weight of what Eleonora is saying.
+- 'And who exactly is going to beat him?' Barinov directs that line without pause: putting the question word "kto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Victor Petrovich, maybe we can help?' Kostya inquires point-blank to see how Barinov will answer on the spot.
+- 'There is enough room for everyone at our place.' Eleonora colors this vivid detail for Kostya: "mesta" means "places" (from "mesto"), giving the line its exact edge.
+- 'I am categorically against this guest at home.' Kostya makes the reply toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Kostya, you cannot treat your father like that!' Eleonora reacts calmly toward Kostya, letting the remark speak for itself.
+- 'Goodbye, leave my apartment now.' Kostya spotlights one familiar word with Barinov: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'Let him stay in a hotel instead.' Kostya reacts firmly as they talk, leaving no doubt about where he stands.

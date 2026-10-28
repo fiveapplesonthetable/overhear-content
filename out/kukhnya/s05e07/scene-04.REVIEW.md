@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Someone make me a tuna sandwich.' Vika holds a warm bearing in this beat, building the phrase around "sdelayte" ("make") and "buterbrod" ("sandwich") for a crisp, natural delivery.
-- 'We will make it right now, Victoria Sergeyevna.' Max keeps a clear angle as they talk, weaving "seychas" ("now") together with "sdelayem" ("we'll do") just the way native speakers do.
-- 'You said you were leaving, you deceived me again.' Vika chooses an honest manner for Max, combining "skazal" ("said") and "uyezzhayesh" ("are leaving") so the key meaning lands right away.
-- 'Just as you deceived me.' Max chooses a direct angle across the room, joining "kak" ("how") to "ty" ("you") so every word pulls its weight.
-- 'I know for sure that this is my child.' Max favors an earnest tempo during the exchange, joining "tochno" ("definitely") to "znayu" ("know") so every word pulls its weight.
-- 'I personally heard how you told this to your sister.' Max maintains an earnest direction toward Vika, combining "lichno" ("personally") and "slyshal" ("heard") so the key meaning lands right away.
-- 'I am staying for the sake of Yevgeny Maximovich Lavrov.' Max favors a measured manner at this moment, weaving "ostayus" ("am staying") together with "ya" ("I") just the way native speakers do.
-- 'Sounds great, right?' Max wonders pointedly across the room, pairing "klassno" ("great, cool") with "zvuchit" ("sounds") to get the point across in plain spoken Russian.
-- 'Disgusting.' Vika takes a thoughtful note as they talk, putting all the weight on "otvratitelno" ("disgusting") so the reply lands immediately.
-- 'That is alright, you will get used to it.' Max conveys an emphatic angle during the exchange, joining "privyknesh" ("will get used to it") to "nichego" ("nothing") so every word pulls its weight.
-- 'You need to stop driving behind the wheel.' Max picks a resolute rhythm in the conversation, weaving "nuzhno" ("necessary") together with "prekratit" ("to stop, put an end to") just the way native speakers do.
-- 'It is dangerous for the baby.' Max chooses a direct direction at this moment, anchoring the Russian line on "opasno" ("dangerous") and "rebyonka" ("child") without extra filler.
+- 'Someone make me a tuna sandwich.' Vika points to this clear detail in earnest: "buterbrod" means "sandwich", and it carries the main weight of what Vika is saying.
+- 'We will make it right now, Victoria Sergeyevna.' Max shares the remark to Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'You said you were leaving, you deceived me again.' Vika responds calmly watching Max, grounding the moment in plain reality.
+- 'Just as you deceived me.' Max offers this update beside Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I know for sure that this is my child.' Max speaks up warmly as they talk, steering the talk right where he wants it.
+- 'I personally heard how you told this to your sister.' Max chimes in candidly around Vika, refusing to let the moment slip past.
+- 'I am staying for the sake of Yevgeny Maximovich Lavrov.' Max leans on this telling term in earnest: "ostayus" means "am staying" (from "ostavatsya"), giving the line its exact edge.
+- 'Sounds great, right?' Max directs this point briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Disgusting.' Vika speaks decisively with a nod, keeping the focus on what actually matters here.
+- 'That is alright, you will get used to it.' Max sharpens this direct detail in earnest: "privyknesh" means "will get used to it" (from "privyknut"), giving the line its exact edge.
+- 'You need to stop driving behind the wheel.' Max frames this update with warmth: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'It is dangerous for the baby.' Max responds right away to be clear, steering the talk right where he wants it.

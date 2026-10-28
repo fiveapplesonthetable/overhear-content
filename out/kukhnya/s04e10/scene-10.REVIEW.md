@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is clear what kind of movies you watch at home.' Max maintains a lively tack toward German, putting "ponyatno" ("clear") alongside "kino" ("cinema, movies") in a tight, everyday turn of phrase.
-- 'No, that is completely untrue.' German adopts a serious course for Max, anchoring the Russian line on "sovsem" ("at all") and "nepravda" ("untrue, a lie") without extra filler.
-- 'Then what, sweet cartoons?' Max inquires pointedly as the talk turns, leaning on "togda" ("back then") before closing the thought with "dobryye" ("good, kind").
-- 'Cartoons give a mistaken impression of people.' German conveys a candid manner in this beat, building the phrase around "multiki" ("cartoon, animated film") and "dayut" ("they give") for a crisp, natural delivery.
-- 'Movies about zombies are another matter.' German chooses an earnest style at once, pairing "drugoye" ("another, other") with "delo" ("matter") to get the point across in plain spoken Russian.
-- 'In those, everything is honest and real.' German takes a natural attitude as they talk, weaving "tam" ("there") together with "po-chestnomu" ("honestly") just the way native speakers do.
-- 'People are ready to eat each other up.' German takes a natural course with Lyova, using "lyudi" (from "chelovek", "people") alongside "gotovy" ("ready") to shape the meaning.
-- 'Lyova, your glove fell.' Max strikes a brisk position in the scene, linking "perchatka" ("glove"), "upala" ("to fall, to drop"), and "lyova" ("Lyova") in one brisk exchange.
-- 'And your arm fell off too!' Max establishes an emphatic view right away, building the phrase around "ruka" ("hand, arm") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Oh, pick it up, please.' Lyova adopts a pointed footing beside Max, combining "podnimi" ("raise") and "oy" ("oh") so the key meaning lands right away.
-- 'Quiet, do not scare me like that!' Max displays a calm style on the spot, weaving "tikho" ("easy, quiet") together with "pugay" ("to scare, frighten") just the way native speakers do.
-- 'What kind of jokes are these, Lyova?' Max asks honestly with Lyova now, placing "shutki" ("jokes") straight beside "chto" ("what") with no word for "to be" needed.
+- 'It is clear what kind of movies you watch at home.' Max spotlights one classic word in reply: "ponyatno" means "clear", and it carries the main weight of what Max is saying.
+- 'No, that is completely untrue.' German shapes this line facing Max: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Then what, sweet cartoons?' Max questions calmly if there is more going on behind the scenes.
+- 'Cartoons give a mistaken impression of people.' German sharpens one pointed piece with Max: "predstavleniye" means "performance" (from "predstavleniy"), giving the line its exact edge.
+- 'Movies about zombies are another matter.' German makes that reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'In those, everything is honest and real.' German speaks plainly watching Max, leaving no doubt about where he stands.
+- 'People are ready to eat each other up.' German picks one loaded piece with Lyova: "gotovy" means "ready" (from "gotovyy"), giving the line its exact edge.
+- 'Lyova, your glove fell.' Max states the comeback for Lyova: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'And your arm fell off too!' Max cuts in openly without any doubt, without trying to dress up how he really feels.
+- 'Oh, pick it up, please.' Lyova features one memorable term in earnest: "podnimi" means "raise" (from "podnyat"), giving the line its exact edge.
+- 'Quiet, do not scare me like that!' Max pushes back calmly watching German, shifting the whole mood of the room in a single beat.
+- 'What kind of jokes are these, Lyova?' Max inquires briskly if there is more going on behind the scenes.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, an important guest has come to see us.' Vika strikes a resolute view without hesitation, linking "prishyol" ("came, have come"), "vazhnyy" ("important"), and "gost" ("guest") in one brisk exchange.
-- 'Good morning, but our restaurant is still closed.' Nagiyev picks a brisk tack straight away, building the phrase around "dobroye" ("good") and "utro" ("morning") for a crisp, natural delivery.
-- 'Allow me to introduce myself to you first, gentlemen.' The guest takes a wry rhythm in the scene, linking "pozvolte" ("allow me"), "snachala" ("first, at first"), and "predstavitsya" ("to introduce oneself") in one brisk exchange.
-- 'I have come on behalf of the famous film director.' The guest holds a brisk attitude in their talk, weaving "prishyol" ("came, have come") together with "porucheniyu" ("film") just the way native speakers do.
-- 'For the sake of filming I am ready to clear any dates!' Nagiyev picks a playful posture for the guest, joining "syomok" ("filming") to "gotov" ("ready") so every word pulls its weight.
-- 'Thank you, but I am here on another matter.' The guest brings an unhurried posture in this beat, putting "spasibo" ("thank you") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'We want to hold a banquet in your restaurant.' The guest sustains a playful approach in the room, linking "khotim" ("want"), "provesti" ("to spend, to lead"), and "banket" ("banquet") in one brisk exchange.
-- 'We had lunch at your place recently, we liked everything.' The guest presents a lively direction across the room, pairing "nedavno" ("returned") with "obedali" ("to have lunch") to get the point across in plain spoken Russian.
-- 'Everyone was delighted with Viktor Barinov!' The guest chooses a calm stance for Nagiyev, pairing "byli" ("be") with "vostorge" ("delight") to get the point across in plain spoken Russian.
-- 'We eagerly look forward to meeting him again.' The guest holds a calm angle in the conversation, using "neterpeniyem" (from "neterpenit", "to forward") alongside "vnov" ("again") to shape the meaning.
-- 'I will drop by this evening to taste the banquet menu.' The guest maintains a grounded attitude with Nagiyev, leaning on "zaydu" ("to come in") before closing the thought with "segodnya" ("today").
-- 'You need not doubt it, Barinov will definitely be here!' Nagiyev adopts a grounded line at this moment, anchoring the Russian line on "mozhete" ("can, may") and "somnevatsya" ("to doubt") without extra filler.
+- 'Dmitry Vladimirovich, an important guest has come to see us.' Vika replies right away with a nod, testing the guest's reaction in the middle of the exchange.
+- 'Good morning, but our restaurant is still closed.' Nagiyev holds firm sharply as things stand, watching Vika's face to see how the news lands.
+- 'Allow me to introduce myself to you first, gentlemen.' The guest points to one practical touch with Nagiyev: "predstavitsya" means "to introduce oneself", and it carries the main weight of what the guest is saying.
+- 'I have come on behalf of the famous film director.' The guest proceeds warmly as they talk, so Vika knows he is not just making small talk.
+- 'For the sake of filming I am ready to clear any dates!' Nagiyev holds firm steadily without any doubt, shifting the whole mood of the room in a single beat.
+- 'Thank you, but I am here on another matter.' The guest leans on one practical detail right here: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
+- 'We want to hold a banquet in your restaurant.' The guest stands firm warmly without holding back, keeping the focus on what actually matters here.
+- 'We had lunch at your place recently, we liked everything.' The guest follows up wryly without holding back, grounding the moment in plain reality.
+- 'Everyone was delighted with Viktor Barinov!' The guest anchors one clear choice in earnest: "vostorge" means "delight" (from "vostorg"), giving the line its exact edge.
+- 'We eagerly look forward to meeting him again.' The guest proceeds earnestly without holding back, grounding the moment in plain reality.
+- 'I will drop by this evening to taste the banquet menu.' The guest chimes in quietly with Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'You need not doubt it, Barinov will definitely be here!' Nagiyev features one telling detail in reply: "somnevatsya" means "to doubt", and it carries the main weight of what Nagiyev is saying.

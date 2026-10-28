@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Elena Pavlovna, I need to pass something along to you.' Barinov strikes a measured direction in the conversation, pairing "dolzhen" ("has to, must") with "peredat" ("to pass on") to get the point across in plain spoken Russian.
-- 'No, this is not Viktor Petrovich.' Max shows a firm bearing in the conversation, weaving "net" ("no") together with "eto" ("this") just the way native speakers do.
-- 'This is your secret admirer.' Elena establishes a calm course right away, anchoring the Russian line on "taynyy" ("secret, undercover") and "poklonnik" ("admirer, fan") without extra filler.
-- 'No, I am not a cook, not at all.' Barinov takes a candid course in the scene, weaving "povar" ("chef, cook") together with "net" ("no") just the way native speakers do.
-- 'I usually go scuba diving.' Max presents a serious position beside Barinov, anchoring the Russian line on "zanimayus" ("am handling") and "obychno" ("usually") without extra filler.
-- 'Yes, I know that it is very dangerous.' Elena projects an emphatic direction in the scene, weaving "znayu" ("know") together with "ochen" ("very much") just the way native speakers do.
-- 'A person must experience everything in life.' Barinov sustains an earnest position in the room, anchoring the Russian line on "chelovek" ("a man, a person") and "dolzhen" ("has to, must") without extra filler.
-- 'I do not care.' Max chooses a measured manner in the scene, building the phrase around "plevat" ("don't care") and "mne" ("to me") for a crisp, natural delivery.
-- 'I am having a very important conversation.' Elena displays an unhurried tone without hesitation, placing "ochen" ("very much") straight beside "vazhnyy" ("important") with no word for "to be" needed.
-- 'Get out of here!' Barinov offers a calm position during the exchange, pairing "idi" ("go") with "otsyuda" ("from here") to get the point across in plain spoken Russian.
-- 'Come back later.' Max favors a pointed tempo in the conversation, combining "potom" ("then") and "zaydesh" ("to come in") so the key meaning lands right away.
-- 'Well, just like that.' Elena establishes a lively angle right away, leaning on "nu" ("oh, come on") before closing the thought with "tak" ("so").
-- 'Nothing else.' Barinov keeps a wry view at this moment, pairing "bolshe" ("more") with "nichego" ("nothing") to get the point across in plain spoken Russian.
+- 'Hello, Elena Pavlovna, I need to pass something along to you.' Barinov leans on one telling touch right here: "dolzhen" means "has to, must", and it carries the main weight of what Barinov is saying.
+- 'No, this is not Viktor Petrovich.' Max steps in firmly as they talk, leaving no doubt about where he stands.
+- 'This is your secret admirer.' Elena reaches for one clear piece in earnest: "poklonnik" means "admirer, fan", and it carries the main weight of what Elena is saying.
+- 'No, I am not a cook, not at all.' Barinov directs this update toward Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I usually go scuba diving.' Max follows up firmly watching Barinov, making his position completely clear.
+- 'Yes, I know that it is very dangerous.' Elena underscores this clear element toward Max: "opasno" means "dangerous", and it carries the main weight of what Elena is saying.
+- 'A person must experience everything in life.' Barinov stands firm dryly with a smile, grounding the moment in plain reality.
+- 'I do not care.' Max responds frankly to settle things, testing Elena's reaction in the middle of the exchange.
+- 'I am having a very important conversation.' Elena highlights this telling piece at once: "razgovor" means "conversation", and it carries the main weight of what Elena is saying.
+- 'Get out of here!' Barinov shapes that point with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Come back later.' Max speaks up earnestly in this moment, to clear the air between them once and for all.
+- 'Well, just like that.' Elena offers this answer beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Nothing else.' Barinov frames this answer with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

@@ -31,11 +31,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And we have not seen it.' Adding to the lie, the cook insists that they have not laid eyes on the item in question.
 - 'But, generally speaking...' The frustrated official tries to interject, clearly losing patience with the obvious delay tactics.
 - 'I am afraid I cannot help you.' Delivering a dismissive remark, the official states his inability to assist in the current situation.
-- 'My staff lost the key.' The speaker mentions that the workers have misplaced the tool needed to open the door.
+- 'My staff lost the key.' Trying to stall the raid, Barinov claims with a straight face that his staff misplaced the storage room key.
 - 'What a shame.' Barinov reacts with exaggerated, theatrical disappointment to the news about the missing item.
 - 'Oh, oh, oh.' The chef continues his fake performance of distress with a series of theatrical sighs.
 - 'So what are we to do?' Asking a rhetorical question, the guest pushes them to find a solution to this convenient problem.
 - 'I have a spare key.' Barinov suddenly produces a solution, ending the charade of the lost item.
 - 'I always keep a duplicate.' The boss brags about his foresight, explaining why he conveniently had a backup ready.
-- 'Ah, there is the key.' Presenting the newly found object, the speaker makes a show of finally discovering it.
+- 'Ah, there is the key.' Once the coast is clear, Barinov pats his pocket and pretends to discover the missing key at last.
 - 'Found the key?' The officer responds with heavy sarcasm, clearly not believing the little performance he just watched.

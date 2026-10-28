@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Somehow I did not understand you at all just now.' Katya presents a steady tone during the exchange, combining the intensifier "sovsem" ("completely, at all") with "ponyala" ("understood") to give the line its natural spoken rhythm.
-- 'And what is hard to understand, I do not like you.' Max establishes a natural bearing in the scene, combining "tut" ("here") and "neponyatnogo" ("unclear") so the key meaning lands right away.
-- 'So an hour ago you liked me, and now you do not?' Katya prompts openly beside Barinov, leaning on "yest" ("there is") before closing the thought with "chas" ("hour").
-- 'Well, I realized that you are not my type.' Max presents a calm line in the scene, putting "ponyal" ("understood") alongside "vkuse" ("taste") in a tight, everyday turn of phrase.
-- 'Hey, pops, you and I did not agree on this!' Max offers a serious position right away, linking "batya" ("Dad, the old man"), "dogovarivalis" ("had an agreement"), and "ey" ("hey") in one brisk exchange.
-- 'You are not going anywhere until you tell me everything!' Katya presents a calm angle with Max, leaning on "nikuda" ("nowhere, anywhere") before closing the thought with "poyedesh" ("will go").
-- 'He gave me money himself so I would leave you alone!' Max sets a wry tone at this moment, pairing "deneg" ("money") with "dal" ("to give") to get the point across in plain spoken Russian.
-- 'You are both bargaining over me, I hate you!' Katya maintains a firm direction with Max, putting "torguyete" ("are trading") alongside "nenavizhu" ("hate") in a tight, everyday turn of phrase.
-- 'Call an ambulance immediately, what are you doing!' Barinov sets a sharp tone across the room, linking "nemedlenno" ("immediately"), "zvonite" ("call"), and "skoruyu" ("ambulance") in one brisk exchange.
-- 'Wow, you paramedics are very fast today!' Barinov keeps a pointed tack during the exchange, weaving "segodnya" ("today") together with "ochen" ("very much") just the way native speakers do.
-- 'Look, I finally stopped hiccuping!' Max brings a direct tack toward Barinov, anchoring the Russian line on "smotrite" ("look") and "nakonets" ("at last, finally") without extra filler.
-- 'Sometimes people try to help you when you do not ask for it.' Max shows a sharp line in the room, linking "inogda" ("sometimes, at times"), "pytayutsya" ("to try, to attempt"), and "pomoch" ("to help") in one brisk exchange.
-- 'Sometimes unexpected help pulls you back from the edge of the abyss.' Max holds a resolute position toward Barinov, anchoring the Russian line on "inogda" ("sometimes, at times") and "neozhidannaya" ("unexpected") without extra filler.
-- 'The main thing is having someone nearby who wants to lend a shoulder.' Max brings a frank footing as they talk, combining "glavnoye" ("important") and "ryadom" ("nearby") so the key meaning lands right away.
+- 'Somehow I did not understand you at all just now.' Katya directs that thought with ease: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'And what is hard to understand, I do not like you.' Max cuts in boldly toward Katya, leaving no doubt about where he stands.
+- 'So an hour ago you liked me, and now you do not?' Katya stresses this clear piece at once: "nravilas" means "to be liked" (from "nravitsya"), giving the line its exact edge.
+- 'Well, I realized that you are not my type.' Max reaches for one classic piece in earnest: "vkuse" means "taste" (from "vkus"), giving the line its exact edge.
+- 'Hey, pops, you and I did not agree on this!' Max weighs in pointedly with a nod, refusing to let the moment slip past.
+- 'You are not going anywhere until you tell me everything!' Katya reaches for this vivid term in reply: "rasskazhesh" means "you will tell" (from "rasskazat"), giving the line its exact edge.
+- 'He gave me money himself so I would leave you alone!' Max frames one telling expression right here: "deneg" means "money" (from "dengi"), giving the line its exact edge.
+- 'You are both bargaining over me, I hate you!' Katya chimes in candidly watching Max, saying out loud what both of them already know.
+- 'Call an ambulance immediately, what are you doing!' Barinov features one concrete touch in earnest: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
+- 'Wow, you paramedics are very fast today!' Barinov directs this warning right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Look, I finally stopped hiccuping!' Max continues pointedly during the talk, so Barinov knows he is not just making small talk.
+- 'Sometimes people try to help you when you do not ask for it.' Max frames one practical piece on cue: "pytayutsya" means "to try, to attempt" (from "pytatsya"), giving the line its exact edge.
+- 'Sometimes unexpected help pulls you back from the edge of the abyss.' Max uses one familiar touch in reply: "neozhidannaya" means "unexpected" (from "neozhidannyy"), giving the line its exact edge.
+- 'The main thing is having someone nearby who wants to lend a shoulder.' Max continues pointedly with a smile, leaving no doubt about where he stands.

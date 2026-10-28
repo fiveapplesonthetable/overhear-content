@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora Andreevna is Katya's mom.' Denis adopts a resolute tone right away, leaning on "mama" ("mum, mother") before closing the thought with "eleonora" ("Eleonora").
-- 'Well, have you come back again?' Eleonora prompts decisively in the room, anchoring the Russian line on "snova" ("again") and "prishyol" ("came, have come") without extra filler.
-- 'Have you completely lost your mind?' Eleonora probes bluntly toward Denis here, weaving "sovsem" ("at all") together with "uma" ("mind") just the way native speakers do.
-- 'Did you change your mind and come for the money?' Eleonora checks dryly without hesitation, putting "odumalsya" ("changed your mind") alongside "dengami" ("the money, funding") in a tight, everyday turn of phrase.
-- 'No, I do not need your money.' Denis favors a candid rhythm at once, anchoring the Russian line on "dengi" ("money") and "nuzhny" ("needed") without extra filler.
-- 'I am not leaving here for anywhere.' Denis holds a serious bearing beside Eleonora, putting "nikuda" ("nowhere, anywhere") alongside "otsyuda" ("from here") in a tight, everyday turn of phrase.
-- 'I am staying to work in the kitchen.' Denis keeps a sharp bearing toward Eleonora, putting "ostayus" ("am staying") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
-- 'I really want to be with Katya.' Denis picks a direct approach at once, leaning on "ochen" ("very much") before closing the thought with "khochu" ("want").
-- 'And the fact that you and I slept together...' Denis holds a calm footing in their talk, weaving "perespali" ("slept together") together with "to" ("that") just the way native speakers do.
-- 'Please, be quiet, I ask you!' Eleonora keeps a playful tempo as they talk, leaning on "tikho" ("easy, quiet") before closing the thought with "proshu" ("beg, ask").
-- 'We must forget that night.' Denis sets a direct tack as the scene unfolds, anchoring the Russian line on "dolzhny" ("must, should") and "zabyt" ("forget") without extra filler.
-- 'Get out of my office!' Eleonora adopts a resolute tack as the scene unfolds, pairing "ukhodi" ("go away") with "kabineta" ("office") to get the point across in plain spoken Russian.
+- 'Eleonora Andreevna is Katya's mom.' Denis sends the reaction before Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, have you come back again?' Eleonora questions firmly why things suddenly took this turn between them.
+- 'Have you completely lost your mind?' Eleonora stresses one clear expression for Denis: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
+- 'Did you change your mind and come for the money?' Eleonora aims the thought on cue: the "-sya" ending on "odumalsya" ("changed your mind") turns the action inward or makes it happen between people naturally.
+- 'No, I do not need your money.' Denis speaks up plainly around Eleonora, watching Eleonora's face to see how the news lands.
+- 'I am not leaving here for anywhere.' Denis picks one clear word in reply: "otsyuda" means "from here", and it carries the main weight of what Denis is saying.
+- 'I am staying to work in the kitchen.' Denis counters boldly on the spot, leaving no doubt about where he stands.
+- 'I really want to be with Katya.' Denis holds firm firmly with a sigh, saying out loud what both of them already know.
+- 'And the fact that you and I slept together...' Denis points to this clear element on cue: "perespali" means "slept together" (from "perespat"), giving the line its exact edge.
+- 'Please, be quiet, I ask you!' Eleonora gives this statement with ease: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We must forget that night.' Denis answers sharply toward Eleonora, making his position completely clear.
+- 'Get out of my office!' Eleonora spotlights this direct touch right here: "kabineta" means "office" (from "kabinet"), giving the line its exact edge.

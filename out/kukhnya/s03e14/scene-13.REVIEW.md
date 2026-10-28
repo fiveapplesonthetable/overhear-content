@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, ambulance, someone is sick here, probably appendicitis!' Max shows a direct rhythm in the room, combining "skoraya" ("ambulance") and "tut" ("here") so the key meaning lands right away.
-- 'Please come to us as quickly as possible!' Max sustains a direct bearing for Timur, weaving "priyezzhayte" ("to come, to arrive") together with "skoreye" ("quickly, right away") just the way native speakers do.
-- 'And I thought you were a real man.' Timur brings a calm posture beside Barinov, leaning on "dumal" ("thought") before closing the thought with "nastoyashchiy" ("real, genuine").
-- 'Sorry, bro, but I am forced to drag you out by force.' Timur sets a lively direction right away, putting "izvini" ("sorry, excuse me") alongside "bratan" ("bro") in a tight, everyday turn of phrase.
-- 'Stop resisting, I have no time!' Timur presents an honest position in the conversation, leaning on "soprotivlyaysya" ("resist") before closing the thought with "vremeni" ("time").
-- 'Our Katya came into the dining room with bikers.' Barinov establishes a direct style at this moment, combining "prishla" ("came") and "baykerami" ("with bikers") so the key meaning lands right away.
-- 'Timur, just one phone call and I will come right out!' Max favors a candid footing in the scene, building the phrase around "tolko" ("only") and "zvonok" ("call, bell") for a crisp, natural delivery.
-- 'Mind you do not let me down, I will come back and check.' Timur shares a resolute direction in this beat, putting "smotri" ("look") alongside "podvedi" ("to let down") in a tight, everyday turn of phrase.
-- 'Hello, Katya, hi, who are those bikers with you out there?' Barinov probes frankly on the spot, linking "tam" ("there"), "baykery" ("bikers"), and "allo" ("hello") in one brisk exchange.
-- 'We are not expecting anyone else, and here you are with a surprise.' Barinov strikes a clear style straight away, weaving "uzhe" ("already, now") together with "zhdyom" ("we wait") just the way native speakers do.
-- 'Stas thinks that Dad will set an ambush for him.' Max offers a warm footing on the spot, anchoring the Russian line on "dumayet" ("thinks") and "otets" ("father") without extra filler.
-- 'And what happened, so he is expecting an ambush?' Barinov asks wryly to keep things clear, pairing "sluchilos" ("happened") with "zasadu" ("ambush") to get the point across in plain spoken Russian.
+- 'Hello, ambulance, someone is sick here, probably appendicitis!' Max focuses on one direct element right here: "appenditsit" means "appendicitis", and it carries the main weight of what Max is saying.
+- 'Please come to us as quickly as possible!' Max aims that reply toward Timur: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'And I thought you were a real man.' Timur continues lightly with Barinov, saying out loud what both of them already know.
+- 'Sorry, bro, but I am forced to drag you out by force.' Timur features one loaded element toward Max: "vynuzhden" means "forced, obliged", and it carries the main weight of what Timur is saying.
+- 'Stop resisting, I have no time!' Timur delivers the reaction with warmth: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Our Katya came into the dining room with bikers.' Barinov cuts in frankly during the talk, to clear the air between them once and for all.
+- 'Timur, just one phone call and I will come right out!' Max underscores one sharp detail in earnest: "zvonok" means "call, bell", and it carries the main weight of what Max is saying.
+- 'Mind you do not let me down, I will come back and check.' Timur opens up lightly toward Max, saying out loud what both of them already know.
+- 'Hello, Katya, hi, who are those bikers with you out there?' Barinov tests evenly before Max can change the subject.
+- 'We are not expecting anyone else, and here you are with a surprise.' Barinov stresses one vivid expression for Timur: "syurprizom" means "surprise" (from "syurpriz"), giving the line its exact edge.
+- 'Stas thinks that Dad will set an ambush for him.' Max weighs in boldly hearing Barinov, refusing to let the moment slip past.
+- 'And what happened, so he is expecting an ambush?' Barinov wonders bluntly as Timur tries to explain the situation.

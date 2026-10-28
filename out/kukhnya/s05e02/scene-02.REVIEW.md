@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat at work today.' Senya conveys a playful view right away, putting "segodnya" ("today") alongside "rabote" ("work") in a tight, everyday turn of phrase.
-- 'Livelier, livelier, let's work!' Barinov shows a calm stance in the room, anchoring the Russian line on "zhiveye" ("faster, more lively") and "rabotayem" ("we work, let's work") without extra filler.
-- 'Come on, wake up faster.' Barinov conveys a brisk approach on the spot, pairing "davayte" ("let's") with "bystreye" ("faster") to get the point across in plain spoken Russian.
-- 'A bit faster, well, where is our bacon?' Barinov checks boldly during the talk, leaning on "pobystreye" ("faster, more quickly") before closing the thought with "gde" ("where").
-- 'We are frying, frying our bacon.' Senya offers a firm approach right away, weaving "zharim" ("we fry") together with "bekon" ("bacon") just the way native speakers do.
-- 'Wake up everyone, morning has already arrived.' Barinov takes an earnest course in front of Senya, anchoring the Russian line on "prosnulis" ("woke up") and "utro" ("morning") without extra filler.
-- 'What did you lose in my kitchen?' Barinov tests evenly with Mikhail now, pairing "zabyl" ("forgot") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.
-- 'I am doing your job for you.' Mikhail favors a steady tone without hesitation, using "delayu" (from "delat", "I make") alongside "rabotu" ("job") to shape the meaning.
-- 'Who is this secret guest?' Barinov prompts boldly right away, combining "taynyy" ("secret, undercover") and "gost" ("guest") so the key meaning lands right away.
-- 'It is a method of inspection in a hotel.' Mikhail picks an emphatic rhythm with Senya, leaning on "sposob" ("a way, a method") before closing the thought with "proverki" ("check, inspection").
-- 'The inspector stays here like an ordinary guest.' Mikhail offers an emphatic note at once, joining "proveryayushchiy" ("inspector") to "zhivyot" ("lives") so every word pulls its weight.
-- 'He inspects the work of all hotel departments.' Mikhail projects a serious angle toward Senya, linking "proveryayet" ("is testing"), "rabotu" ("job"), and "sluzhb" ("of services") in one brisk exchange.
+- 'I will eat at work today.' Senya fires back frankly to settle things, so Barinov knows he is not just making small talk.
+- 'Livelier, livelier, let's work!' Barinov steps in earnestly on the spot, leaving no doubt about where he stands.
+- 'Come on, wake up faster.' Barinov favors this vivid word right here: "prosypayemsya" means "we wake up" (from "prosypatsya"), giving the line its exact edge.
+- 'A bit faster, well, where is our bacon?' Barinov frames that remark toward Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We are frying, frying our bacon.' Senya weighs in earnestly as they talk, shifting the whole mood of the room in a single beat.
+- 'Wake up everyone, morning has already arrived.' Barinov centers one pointed element in earnest: "prosnulis" means "woke up" (from "prosnutsya"), giving the line its exact edge.
+- 'What did you lose in my kitchen?' Barinov lays out that remark without fuss: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'I am doing your job for you.' Mikhail speaks up decisively without any doubt, refusing to let the moment slip past.
+- 'Who is this secret guest?' Barinov reaches for one clear choice toward Mikhail: "taynyy" means "secret, undercover", and it carries the main weight of what Barinov is saying.
+- 'It is a method of inspection in a hotel.' Mikhail voices the thought to Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'The inspector stays here like an ordinary guest.' Mikhail weighs in dryly on the spot, saying out loud what both of them already know.
+- 'He inspects the work of all hotel departments.' Mikhail emphasizes one classic word in earnest: "proveryayet" means "is testing" (from "proveryat"), giving the line its exact edge.

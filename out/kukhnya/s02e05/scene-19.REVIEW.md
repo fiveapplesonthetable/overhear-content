@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika! Vika.' Barinov picks a serious style for Max, letting the single Russian word "vika" ("Vika") carry the entire reaction on its own.
-- 'Once you figure yourself out.' Vika queries evenly to keep things clear, building the phrase around "kak" ("how") and "razbereshsya" ("to sort out") for a crisp, natural delivery.
-- 'Let me know, all right?' Barinov inquires pointedly from the start, joining "day" ("give") to "znat" ("to know") so every word pulls its weight.
-- 'Life often puts us in front of a choice.' Vika brings a firm angle in the room, linking "zhizn" ("life"), "chasto" ("often"), and "stavit" ("bets") in one brisk exchange.
-- 'Someone consciously makes the wrong choice.' Barinov projects a pointed view in the scene, combining "osoznanno" ("consciously") and "delayet" ("does") so the key meaning lands right away.
-- 'And nothing works out for him.' Vika adopts a direct view at once, weaving "poluchayetsya" ("works out") together with "no" ("but") just the way native speakers do.
-- 'While someone else gets completely tangled up.' Barinov sustains a serious angle in the room, weaving "sovsem" ("at all") together with "zaputalsya" ("got confused") just the way native speakers do.
-- 'Yes, that is all for the sports news.' Vika displays a direct tack in their talk, weaving "da" ("yes") together with "na" ("on, onto") just the way native speakers do.
-- 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Barinov strikes a brisk footing with Max, building the phrase around "vidimo" ("apparently") and "skazalos" ("to affect, tell on") for a crisp, natural delivery.
-- 'Thus, CSKA picked up three points.' Vika establishes a direct mood toward Max, pairing "obrazom" ("way, manner") with "nabrav" ("having gathered") to get the point across in plain spoken Russian.
-- 'Chef, what do you need?' Max prompts warmly to make the point, anchoring the Russian line on "nado" ("it is necessary") and "shef" ("Chef") without extra filler.
-- 'Bury me in work.' Vika sustains a warm mood in the scene, building the phrase around "zavalite" ("to overwhelm") and "rabotoy" ("the job") for a crisp, natural delivery.
-- 'I want to work without any days off.' Barinov keeps a playful posture in front of Max, joining "khochu" ("want") to "rabotat" ("to work") so every word pulls its weight.
+- 'Vika! Vika.' Barinov frames the comeback right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Once you figure yourself out.' Vika states this statement plainly here: the "-sya" ending on "razbereshsya" ("to sort out") turns the action inward or makes it happen between people naturally.
+- 'Let me know, all right?' Barinov tests curiously why things suddenly took this turn between them.
+- 'Life often puts us in front of a choice.' Vika emphasizes one concrete piece with Max: "vyborom" means "choice" (from "vybor"), giving the line its exact edge.
+- 'Someone consciously makes the wrong choice.' Barinov jumps in openly around Max, shifting the whole mood of the room in a single beat.
+- 'And nothing works out for him.' Vika reacts decisively to settle things, bringing things back to earth after the buildup.
+- 'While someone else gets completely tangled up.' Barinov focuses on this clear piece right here: "zaputalsya" means "got confused" (from "zaputatsya"), giving the line its exact edge.
+- 'Yes, that is all for the sports news.' Vika drops that thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Barinov replies frankly before Max, letting the remark speak for itself.
+- 'Thus, CSKA picked up three points.' Vika leans on this clear piece at once: "obrazom" means "way, manner" (from "obraz"), giving the line its exact edge.
+- 'Chef, what do you need?' Max directs that thought with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Bury me in work.' Vika stands firm at once toward Max, bringing things back to earth after the buildup.
+- 'I want to work without any days off.' Barinov sharpens one direct term at once: "vykhodnykh" means "weekend" (from "vykhodnoy"), giving the line its exact edge.

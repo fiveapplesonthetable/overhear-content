@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I suggest we drink to our acquaintance now.' Lyova takes a measured line on the spot, linking "predlagayu" ("suggest"), "seychas" ("now"), and "vypit" ("to drink") in one brisk exchange.
-- 'Gulya, we are just having lunch here.' Lyova offers a thoughtful stance as the scene unfolds, leaning on "tut" ("here") before closing the thought with "prosto" ("just").
-- 'Enjoy your meal, I will not disturb you.' Gulya presents an easygoing note on the spot, putting "priyatnogo" ("pleasant") alongside "appetita" ("appetite") in a tight, everyday turn of phrase.
-- 'Wait, this is lunch with my mom and her friend.' Lyova sustains a playful mood in front of Gulya, linking "postoy" ("wait"), "obed" ("lunch"), and "mamoy" ("Mum") in one brisk exchange.
-- 'And where is your mom, she is not there.' Gulya conveys a steady angle for Barinov, linking "gde" ("where") directly with "mama" ("mum, mother"), since Russian drops "is" and "are" in the present.
-- 'Wait, I will call her quickly right now.' Lyova projects a calm angle in the scene, pairing "seychas" ("now") with "podozhdi" ("wait") so the "-sya" ending carries the action.
-- 'You know, Lyova, do whatever you want.' Gulya favors a serious tack beside Barinov, joining "znayesh" ("know") to "delay" ("do") so every word pulls its weight.
-- 'Hello, mom, tell me, where are you right now?' Lyova wonders sharply as the beat lands, combining "mama" ("mum, mother") and "skazhi" ("say") so the key meaning lands right away.
-- 'She went back to her clinic.' Barinov chooses a warm style in this beat, anchoring the Russian line on "poyekhala" ("to go, to set off") and "obratno" ("back") without extra filler.
-- 'Mom asks us to calmly have lunch without her.' Lyova favors a lively footing at once, anchoring the Russian line on "mama" ("mum, mother") and "prosit" ("is asking for") without extra filler.
-- 'Forgive me, but it is time for me to go work.' Lyova sustains a firm posture without hesitation, using "prostite" (from "prostit", "excuse me") alongside "pora" ("it's time") to shape the meaning.
-- 'Elena, everything is ready for the wedding menu tasting.' Barinov maintains a lively tone in the conversation, linking "degustatsii" ("for the tasting") directly with "svadebnogo" ("wedding"), since Russian drops "is" and "are" in the present.
-- 'Ah, so that is what this fancy lunch is for!' Gulya establishes an easygoing approach in this beat, linking "zvanyy" ("fancy, formal") directly with "obed" ("lunch"), since Russian drops "is" and "are" in the present.
+- 'I suggest we drink to our acquaintance now.' Lyova focuses on this clear term toward Barinov: "znakomstvo" means "acquaintance", and it carries the main weight of what Lyova is saying.
+- 'Gulya, we are just having lunch here.' Lyova frames this answer beside Gulya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Enjoy your meal, I will not disturb you.' Gulya follows up sharply hearing Barinov, steering the talk right where she wants it.
+- 'Wait, this is lunch with my mom and her friend.' Lyova picks one sharp piece in earnest: "podrugoy" means "friend" (from "podruga"), giving the line its exact edge.
+- 'And where is your mom, she is not there.' Gulya brings that reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Wait, I will call her quickly right now.' Lyova jumps in honestly without any doubt, grounding the moment in plain reality.
+- 'You know, Lyova, do whatever you want.' Gulya stresses one vivid element right here: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Hello, mom, tell me, where are you right now?' Lyova lays out that remark frankly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'She went back to her clinic.' Barinov responds sharply as they talk, steering the talk right where he wants it.
+- 'Mom asks us to calmly have lunch without her.' Lyova underscores one sharp piece right here: "spokoyno" means "calmly", and it carries the main weight of what Lyova is saying.
+- 'Forgive me, but it is time for me to go work.' Lyova aims that point in earnest: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'Elena, everything is ready for the wedding menu tasting.' Barinov chimes in steadily as things stand, watching Lyova's face to see how the news lands.
+- 'Ah, so that is what this fancy lunch is for!' Gulya centers one loaded touch toward Barinov: "zvanyy" means "fancy, formal", and it carries the main weight of what Gulya is saying.

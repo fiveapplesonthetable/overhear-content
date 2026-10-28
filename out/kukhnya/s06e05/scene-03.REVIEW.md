@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, I am waiting for you downstairs.' Kostya presents a candid mood in front of Katya, putting "zhdu" ("I wait, expect") alongside "vnizu" ("downstairs") in a tight, everyday turn of phrase.
-- 'I was short by just one card.' Mikhail favors an honest line with Kostya, joining "khvatilo" ("was enough") to "karty" ("cards") so every word pulls its weight.
-- 'Did you want to tell me something?' Kostya asks earnestly as the beat lands, weaving "khotel" ("wanted") together with "skazat" ("tell") just the way native speakers do.
-- 'What on earth are you doing here?' Katya asks steadily during the talk, building the phrase around "tut" ("here") and "voobshche" ("at all") for a crisp, natural delivery.
-- 'I am the manager of this big hotel.' Mikhail conveys an emphatic footing for Katya, putting "upravlyayushchiy" ("manager") alongside "bolshim" ("great") in a tight, everyday turn of phrase.
-- 'You can barely stand on your feet!' Katya offers an emphatic view as they talk, linking "nogakh" ("leg, foot"), "stoite" ("are standing"), and "vy" ("you") in one brisk exchange.
-- 'I personally know the owner of the hotel.' Kostya shares a resolute tempo at once, combining "lichno" ("personally") and "znakom" ("familiar, known") so the key meaning lands right away.
-- 'She will find out about this today.' Katya projects a measured rhythm in front of Mikhail, combining "segodnya" ("today") and "uznayet" ("will find out") so the key meaning lands right away.
-- 'Please do not tell her anything.' Mikhail keeps a grounded view across the room, anchoring the Russian line on "govorite" ("say, speak") and "pozhaluysta" ("please") without extra filler.
-- 'Listen, everything is on the house today.' Mikhail holds a lively tack for Kostya, building the phrase around "poslushayte" ("listen") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Are you staying at our hotel?' Katya challenges wryly right away, joining "otele" ("in the hotel") to "prozhivayete" ("are staying") so every word pulls its weight.
-- 'Let us go quickly from here to the kitchen.' Kostya picks a serious tone on the spot, combining "poydyom" ("let's go") and "bystreye" ("faster") so the key meaning lands right away.
+- 'Katya, I am waiting for you downstairs.' Kostya follows up frankly toward Katya, steering the talk right where he wants it.
+- 'I was short by just one card.' Mikhail emphasizes one familiar word for Kostya: "khvatilo" means "was enough" (from "khvatit"), giving the line its exact edge.
+- 'Did you want to tell me something?' Kostya sends this statement for Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'What on earth are you doing here?' Katya quizzes straight out to see how Mikhail will answer on the spot.
+- 'I am the manager of this big hotel.' Mikhail emphasizes one familiar piece toward Katya: "upravlyayushchiy" means "manager", and it carries the main weight of what Mikhail is saying.
+- 'You can barely stand on your feet!' Katya focuses on this vivid touch right here: "nogakh" means "leg, foot" (from "noga"), giving the line its exact edge.
+- 'I personally know the owner of the hotel.' Kostya opens up sharply on the spot, bringing things back to earth after the buildup.
+- 'She will find out about this today.' Katya underscores one clear detail at once: "segodnya" means "today", and it carries the main weight of what Katya is saying.
+- 'Please do not tell her anything.' Mikhail brings the comeback for Katya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Listen, everything is on the house today.' Mikhail proceeds sharply beside Kostya, grounding the moment in plain reality.
+- 'Are you staying at our hotel?' Katya leans on one classic choice in reply: "prozhivayete" means "are staying" (from "prozhivat"), giving the line its exact edge.
+- 'Let us go quickly from here to the kitchen.' Kostya holds firm honestly beside Mikhail, to clear the air between them once and for all.

@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, I didn't take it.' Nastya quickly denies any involvement in the disappearance.
 - 'I repeat.' Chef Barinov slowly grinds out a warning that he is losing patience.
 - 'Who took my knife?' He shouts the question again to the terrified room.
-- 'I don' Nastya nervously maintains her total ignorance of the situation.
+- 'I don't know, chef.' Nastya nervously maintains her total ignorance of the situation.
 - 'Nobody will go home from here.' Chef Barinov dramatically holds the entire staff hostage.
 - 'Until you find the knife.' He sets an impossible condition for anyone leaving work today.
 - 'Understood, chef.' Nastya meekly accepts the dictator's outrageous decree.

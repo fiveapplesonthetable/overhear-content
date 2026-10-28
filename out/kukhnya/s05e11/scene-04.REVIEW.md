@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You can take an apron over there.' Barinov adopts a brisk course without hesitation, pairing "fartuk" ("apron") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
-- 'The gratin! Right now I will bring the quail.' Denis takes a pointed bearing in this beat, joining "graten" ("gratin") to "seychas" ("now") so every word pulls its weight.
-- 'Well, how is it?' Barinov inquires warmly in front of Denis, putting "kak" ("how") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'He handled it great!' Lyova takes a candid mood across the room, anchoring the Russian line on "otlichno" ("perfect, great") and "spravilsya" ("to manage, to cope") without extra filler.
-- 'One might think you got it right the first time.' Barinov shares a brisk direction in front of Denis, joining "mozhno" ("may, can") to "podumat" ("to think") so every word pulls its weight.
-- 'Well, how is the gratin?' Denis inquires calmly to make the point, pairing "kak" ("how") with "graten" ("gratin") to get the point across in plain spoken Russian.
-- 'Not bad for the first time.' Barinov adopts a brisk tone during the exchange, leaning on "pervogo" ("first") before closing the thought with "raza" ("time").
-- 'It is clear that there is potential.' Barinov chooses a thoughtful position during the exchange, linking "vidno" ("one can see"), "yest" ("there is"), and "potentsial" ("potential") in one brisk exchange.
-- 'But so there are no questions, I had better cook it myself.' Barinov takes a warm approach across the room, linking "bylo" ("was"), "voprosov" ("questions"), and "luchshe" ("better") in one brisk exchange.
-- 'And you rest for now.' Barinov shows a brisk view in the conversation, weaving "otdokhni" ("rest") together with "poka" ("bye") just the way native speakers do.
-- 'Thank you, Viktor Petrovich.' Denis offers an emphatic tack in the room, leaning on "spasibo" ("thank you") before closing the thought with "viktor" ("Viktor").
-- 'Why are you defending him, chef?' Lyova probes wryly for Denis's benefit, weaving "zachem" ("what for") together with "zashchishchayete" ("to defend, protect") just the way native speakers do.
+- 'You can take an apron over there.' Barinov highlights one telling term in earnest: "fartuk" means "apron", and it carries the main weight of what Barinov is saying.
+- 'The gratin! Right now I will bring the quail.' Denis aims that reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Well, how is it?' Barinov inquires sharply before Denis can change the subject.
+- 'He handled it great!' Lyova uses one practical word for Denis: "spravilsya" means "to manage, to cope" (from "spravitsya"), giving the line its exact edge.
+- 'One might think you got it right the first time.' Barinov frames that answer beside Denis: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Well, how is the gratin?' Denis wonders eagerly whether Lyova really thought this through.
+- 'Not bad for the first time.' Barinov colors one colorful element for Denis: "pervogo" means "first" (from "pervyy"), giving the line its exact edge.
+- 'It is clear that there is potential.' Barinov aims this warning toward Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'But so there are no questions, I had better cook it myself.' Barinov speaks lightly as things stand, letting the remark speak for itself.
+- 'And you rest for now.' Barinov grounds one practical term on cue: "otdokhni" means "rest" (from "otdokhnut"), giving the line its exact edge.
+- 'Thank you, Viktor Petrovich.' Denis phrases this warning briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Why are you defending him, chef?' Lyova inquires straight out in front of Denis without any preamble.

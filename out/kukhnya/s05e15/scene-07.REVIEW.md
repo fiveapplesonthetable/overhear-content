@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's not escalate things, let's get straight to business.' Barinov holds a calm mood in front of Elena, anchoring the Russian line on "davayte" ("let's") and "budem" ("will") without extra filler.
-- 'Elena said that you are a very promising artist.' Barinov brings an emphatic direction on the spot, combining "skazala" ("told") and "ochen" ("very much") so the key meaning lands right away.
-- 'Gena, you and I need to get divorced urgently.' Elena adopts a natural style straight away, pairing "gena" ("gene") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
-- 'Why, I am not against it at all, I am all for it!' The guest chooses a lively course in this beat, weaving "sovsem" ("at all") together with "tolko" ("only") just the way native speakers do.
-- 'Why are you trying to humiliate me in front of your new husband?' The guest questions briskly as they speak, joining "pochemu" ("why") to "pytayeshsya" ("to try, to attempt") so every word pulls its weight.
-- 'I am ashamed that I have such an ex-husband!' Elena shares an honest view in their talk, placing "stydno" ("shameful") straight beside "byvshiy" ("ex") with no word for "to be" needed.
-- 'Lena, why are you getting so worked up right now?' Barinov prompts decisively to keep things clear, combining "zachem" ("what for") and "seychas" ("now") so the key meaning lands right away.
-- 'Let's discuss everything normally and calmly.' Barinov establishes an earnest line in front of the guest, linking "davay" ("let's"), "normalno" ("fine, OK"), and "spokoyno" ("calmly") in one brisk exchange.
-- 'Well, you really are provoking him yourself right now!' Barinov establishes a sharp tempo at once, combining "deystvitelno" ("really, indeed") and "seychas" ("now") so the key meaning lands right away.
-- 'Oh, I am the one provoking him? Then I can leave!' Elena queries candidly at this point, linking "tseplyayu" ("provoke, pick at"), "togda" ("back then"), and "mogu" ("can") in one brisk exchange.
-- 'I will leave the two of you alone together here, all the best!' Elena takes a playful course in the scene, building the phrase around "ostavlyu" ("will leave") and "tut" ("here") for a crisp, natural delivery.
-- 'So, comrade, no divorce is in sight for now!' The guest strikes a measured style as the scene unfolds, weaving "tovarishch" ("comrade") together with "razvoda" ("divorce, separation") just the way native speakers do.
+- 'Let's not escalate things, let's get straight to business.' Barinov focuses on this sharp term with Elena: "pereydyom" means "to cross, switch" (from "pereyti"), giving the line its exact edge.
+- 'Elena said that you are a very promising artist.' Barinov reaches for this direct piece for the guest: "perspektivnyy" means "promising", and it carries the main weight of what Barinov is saying.
+- 'Gena, you and I need to get divorced urgently.' Elena reacts lightly during the talk, grounding the moment in plain reality.
+- 'Why, I am not against it at all, I am all for it!' The guest centers this telling element with Elena: "sovsem" means "at all", and it carries the main weight of what the guest is saying.
+- 'Why are you trying to humiliate me in front of your new husband?' The guest sends that remark on cue: the "-sya" ending on "pytayeshsya" ("to try, to attempt") turns the action inward or makes it happen between people naturally.
+- 'I am ashamed that I have such an ex-husband!' Elena opens up steadily beside the guest, saying out loud what both of them already know.
+- 'Lena, why are you getting so worked up right now?' See how Barinov replies to Elena plainly here — the Russian word "zavodishsya" ("get worked up", built from "zavoditsya") does the heavy lifting.
+- 'Let's discuss everything normally and calmly.' Barinov offers this warning without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Well, you really are provoking him yourself right now!' Barinov cuts in calmly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Oh, I am the one provoking him? Then I can leave!' Elena emphasizes one classic detail for the guest: "tseplyayu" means "provoke, pick at" (from "tseplyat"), giving the line its exact edge.
+- 'I will leave the two of you alone together here, all the best!' Elena uses one concrete expression in reply: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
+- 'So, comrade, no divorce is in sight for now!' The guest replies candidly across the room, grounding the moment in plain reality.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, let me explain everything to you.' Denis shares a serious bearing without hesitation, pairing "day" ("give") with "obyasnyu" ("I'll explain") to get the point across in plain spoken Russian.
-- 'Denis, just leave me alone right now!' Katya establishes a lively mood in the scene, pairing "prosto" ("just") with "otstan" ("leave alone") to get the point across in plain spoken Russian.
-- 'Katya, I only dreamed all of that!' Denis sets a sharp style in their talk, putting "prisnilos" ("dreamed") alongside "katya" ("Katya") in a tight, everyday turn of phrase.
-- 'I was just telling Kostya my dream.' Denis takes a playful view in the conversation, leaning on "prosto" ("just") before closing the thought with "rasskazyval" ("told, recounted").
-- 'Let's go to him, he will confirm it for you.' Denis adopts a resolute view across the room, leaning on "poydyom" ("let's go") before closing the thought with "podtverdit" ("to confirm").
-- 'Yes, Kostya, was that really just a dream?' Ainura probes frankly for Katya's benefit, leaning on "byl" ("was") before closing the thought with "prosto" ("just").
-- 'I never lie in my life!' Ainura keeps a wry footing on the spot, linking "nikogda" ("never"), "zhizni" ("life"), and "obmanyvayu" ("deceive") in one brisk exchange.
-- 'I saw everything with my own eyes.' Ainura displays a thoughtful course with Katya, leaning on "videla" ("saw") before closing the thought with "sobstvennymi" ("own, proper").
-- 'The two of them were there by the window.' Ainura conveys a serious note with Denis, using "byli" (from "byt", "be") alongside "tam" ("there") to shape the meaning.
-- 'Because of that Denis fell out of the window!' Ainura sets a direct mood at once, pairing "vypal" ("fell out") with "okna" ("window") to get the point across in plain spoken Russian.
-- 'Katya, wait, that really did not happen!' Denis establishes a warm direction for Ainura, putting "podozhdi" ("wait") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
-- 'Do not touch me, get out of my way!' Katya favors a pointed style at once, using "trogay" (from "trogat", "touch") alongside "uydi" ("go away, step inside") to shape the meaning.
+- 'Katya, let me explain everything to you.' Denis spotlights this key element with Ainura: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'Denis, just leave me alone right now!' Katya makes this point to Denis: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Katya, I only dreamed all of that!' Denis answers firmly during the talk, so Ainura knows he is not just making small talk.
+- 'I was just telling Kostya my dream.' Denis centers one familiar touch in earnest: "rasskazyval" means "told, recounted" (from "rasskazyvat"), giving the line its exact edge.
+- 'Let's go to him, he will confirm it for you.' Denis favors one clear word at once: "podtverdit" means "to confirm", and it carries the main weight of what Denis is saying.
+- 'Yes, Kostya, was that really just a dream?' Ainura checks plainly where this conversation is heading next.
+- 'I never lie in my life!' Ainura emphasizes one direct touch toward Denis: "obmanyvayu" means "deceive" (from "obmanyvat"), giving the line its exact edge.
+- 'I saw everything with my own eyes.' Ainura pushes back wryly in this moment, keeping the focus on what actually matters here.
+- 'The two of them were there by the window.' Ainura fires back right away to be clear, without trying to dress up how she really feels.
+- 'Because of that Denis fell out of the window!' Ainura highlights this vivid term on cue: "okna" means "window" (from "okno"), giving the line its exact edge.
+- 'Katya, wait, that really did not happen!' Denis cuts in dryly with a sigh, grounding the moment in plain reality.
+- 'Do not touch me, get out of my way!' Katya speaks up pointedly hearing Denis, without trying to dress up how she really feels.

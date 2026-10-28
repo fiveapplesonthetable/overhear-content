@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why on earth did you come here today?' Nagiyev queries frankly without holding back, leaning on "zachem" ("what for") before closing the thought with "voobshche" ("at all").
-- 'And a big hello to you too, my dear Dimochka.' Kristina offers a grounded course in the scene, combining "bolshoy" ("big") and "dorogoy" ("dear") so the key meaning lands right away.
-- 'I simply missed you very much.' Kristina sustains a measured view in their talk, linking "prosto" ("just"), "ochen" ("very much"), and "silno" ("strongly, much") in one brisk exchange.
-- 'Tell me quickly, what do you want from me?' Nagiyev presses honestly without hesitation, leaning on "skazhi" ("say") before closing the thought with "bystreye" ("faster").
-- 'I need you for an hour or two.' Kristina brings an emphatic bearing in their talk, putting "nuzhen" ("is needed") alongside "chas" ("hour") in a tight, everyday turn of phrase.
-- 'My lawful wife walks around right near here!' Nagiyev shows an easygoing mood as the scene unfolds, joining "zdes" ("here") to "zakonnaya" ("legitimate") so every word pulls its weight.
-- 'This entire hotel belongs to her!' Nagiyev establishes a calm tempo toward Kristina, linking "otel" ("hotel"), "prinadlezhit" ("belongs"), and "vot" ("there, here") in one brisk exchange.
-- 'And what will happen if she sees us?' Kristina queries sharply with Nagiyev now, putting "budet" ("will be") alongside "uvidit" ("will see") in a tight, everyday turn of phrase.
-- 'I beg you, behave quietly!' Nagiyev favors a clear direction without hesitation, weaving "umolyayu" ("I beg") together with "vedi" ("lead, behave") just the way native speakers do.
-- 'I told you yesterday, no more meetings.' Nagiyev shares a thoughtful angle in their talk, anchoring the Russian line on "vchera" ("yesterday") and "skazal" ("said") without extra filler.
-- 'Dima, you are telling me that for the third time.' Kristina shares a steady view in the conversation, joining "tretiy" ("the third") to "raz" ("time, once") so every word pulls its weight.
-- 'Then your husband will be very displeased!' Nagiyev sustains a grounded bearing beside Kristina, linking "togda" ("back then"), "muzh" ("husband"), and "budet" ("will be") in one brisk exchange.
+- 'Why on earth did you come here today?' Nagiyev centers this clear word in reply: "priyekhala" means "came, arrived" (from "priyekhat"), giving the line its exact edge.
+- 'And a big hello to you too, my dear Dimochka.' Kristina delivers the comment calmly now: opening with the casual greeting "privet" ("hi") signals right away that Kristina and Nagiyev are on familiar terms.
+- 'I simply missed you very much.' Kristina stands firm calmly with a shrug, testing Nagiyev's reaction in the middle of the exchange.
+- 'Tell me quickly, what do you want from me?' Nagiyev favors one clear term in earnest: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'I need you for an hour or two.' Kristina centers one vivid term for Nagiyev: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'My lawful wife walks around right near here!' Nagiyev steps in frankly before Kristina, testing Kristina's reaction in the middle of the exchange.
+- 'This entire hotel belongs to her!' Nagiyev anchors one direct word at once: "prinadlezhit" means "belongs" (from "prinadlezhat"), giving the line its exact edge.
+- 'And what will happen if she sees us?' Kristina gives this answer with candor: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'I beg you, behave quietly!' Nagiyev speaks up wryly without holding back, so Kristina knows he is not just making small talk.
+- 'I told you yesterday, no more meetings.' Nagiyev frames one clear touch at once: "vstrech" means "meeting" (from "vstrecha"), giving the line its exact edge.
+- 'Dima, you are telling me that for the third time.' Kristina frames this clear detail toward Nagiyev: "tretiy" means "the third", and it carries the main weight of what Kristina is saying.
+- 'Then your husband will be very displeased!' Nagiyev stands firm calmly without holding back, saying out loud what both of them already know.

@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'Yeah, I remember.' Kostya sighs, acknowledging his painful reality."),
     (8, None, "'I got fired.' Kostya states his predicament plainly, noting that he was let go from his job."),
     (9, None, "'Why didn't you stay at Vika's?' Max uses the informal everyday 'you' here with 'remained', as friends and close colleagues do."),
-    (10, None, "'She wouldn' Max admits that she refused to let him stay over, highlighting the tension between them."),
+    (10, None, "'She wouldn't let me in.' Max admits that she refused to let him stay over, highlighting the tension between them."),
     (11, None, "'She started making everything complicated.' Kostya complains that her reaction is making a simple situation overly complex."),
 ]

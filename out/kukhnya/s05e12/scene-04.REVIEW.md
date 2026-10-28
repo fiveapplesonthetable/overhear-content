@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, this is a fiasco!' Elena picks an unhurried position across the room, joining "fiasko" ("fiasco") to "vitya" ("Vitya") so every word pulls its weight.
-- 'I am holding back, not congratulating you.' Barinov projects a sharp angle in their talk, combining "derzhus" ("hold back") and "pozdravlyayu" ("congratulations") so the key meaning lands right away.
-- 'And you cannot be patient until evening!' Barinov shares a lively tempo on the spot, pairing "mozhesh" ("can") with "poterpet" ("to be patient") to get the point across in plain spoken Russian.
-- 'So you prepared a surprise for me?' Elena challenges wryly with Barinov now, using "yest" (from "byt", "there is") alongside "podgotovil" ("prepared") to shape the meaning.
-- 'Precisely, a surprise!' Barinov displays a wry approach straight away, weaving "syurpriz" ("surprise") together with "vot" ("there, here") just the way native speakers do.
-- 'I simply do not believe it.' Elena favors an easygoing tone in the room, joining "prosto" ("just") to "veryu" ("believe") so every word pulls its weight.
-- 'Usually your surprises happen by themselves.' Elena adopts a serious tone toward Barinov, pairing "sluchayutsya" ("happen, occur") with "obychno" ("usually") so the "-sya" ending carries the action.
-- 'Then you simply ask forgiveness for them.' Elena projects a thoughtful manner right away, building the phrase around "potom" ("then") and "prosto" ("just") for a crisp, natural delivery.
-- 'Well we will see tonight!' Barinov shows a direct footing for Elena, building the phrase around "uvidim" ("to see") and "vecherom" ("in the evening") for a crisp, natural delivery.
-- 'Thank you very much, that is very nice.' Elena takes an honest style across the room, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
-- 'I will call and we will celebrate.' Elena adopts a resolute tone for Barinov, combining "pozvonyu" ("will call") and "otmetim" ("to celebrate") so the key meaning lands right away.
-- 'Until evening, darling!' Barinov sustains a natural rhythm in their talk, joining "vechera" ("evening") to "lyubimaya" ("favourite, beloved") so every word pulls its weight.
+- 'Vitya, this is a fiasco!' Elena chooses one sharp touch on cue: "fiasko" means "fiasco", and it carries the main weight of what Elena is saying.
+- 'I am holding back, not congratulating you.' Barinov shapes that reply calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And you cannot be patient until evening!' Barinov opens up frankly facing Elena, bringing things back to earth after the buildup.
+- 'So you prepared a surprise for me?' Elena grounds one practical term on cue: "podgotovil" means "prepared" (from "podgotovit"), giving the line its exact edge.
+- 'Precisely, a surprise!' Barinov aims this line in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I simply do not believe it.' Elena speaks up quietly with a smile, so Barinov knows she is not just making small talk.
+- 'Usually your surprises happen by themselves.' Elena frames one classic element for Barinov: "sluchayutsya" means "happen, occur" (from "sluchatsya"), giving the line its exact edge.
+- 'Then you simply ask forgiveness for them.' Elena phrases the remark at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Well we will see tonight!' Barinov steps in openly in this moment, without trying to dress up how he really feels.
+- 'Thank you very much, that is very nice.' Elena grounds this key detail for Barinov: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'I will call and we will celebrate.' Elena brings the thought in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Until evening, darling!' Barinov stands firm at once without holding back, saying out loud what both of them already know.

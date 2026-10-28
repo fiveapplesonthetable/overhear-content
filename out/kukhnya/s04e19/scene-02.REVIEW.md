@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, may I ask one question?' Senya quizzes openly to keep things clear, combining "mozhno" ("may, can") and "vopros" ("question, matter") so the key meaning lands right away.
-- 'Are we allowed to participate too?' Senya inquires wryly in their exchange, putting "tozhe" ("too") alongside "uchastvovat" ("to participate") in a tight, everyday turn of phrase.
-- 'Everyone is allowed, except our Vitya.' Nagiyev strikes a direct note beside Fedya, combining "mozhno" ("may, can") and "viti" ("to vitya") so the key meaning lands right away.
-- 'Of course you can, my dear friends.' Nagiyev shares a direct manner across the room, pairing "konechno" ("of course") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
-- 'Thank you very much, Dima.' Senya takes a natural view in this beat, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "tebe" ("for you, to you") in one brisk exchange.
-- 'What if I win and become the head chef.' Senya strikes an easygoing attitude for Nagiyev, building the phrase around "vdrug" ("suddenly, what if") and "vyigrayu" ("will win") for a crisp, natural delivery.
-- 'I am just rehearsing with you in advance.' Senya sustains a warm footing at once, putting "prosto" ("just") alongside "zaraneye" ("in advance") in a tight, everyday turn of phrase.
-- 'I sit in a red armchair.' Nagiyev conveys a measured approach at once, linking "sizhu" ("am sitting"), "krasnom" ("red"), and "kresle" ("armchair, chair") in one brisk exchange.
-- 'I sit with my back to all the contestants.' Nagiyev presents a frank attitude in the room, anchoring the Russian line on "sizhu" ("am sitting") and "spinoy" ("back") without extra filler.
-- 'And I choose only by taste.' Nagiyev shows a direct footing without hesitation, joining "tolko" ("only") to "vkusu" ("taste, style") so every word pulls its weight.
-- 'We determine the very best dish.' Nagiyev displays a lively attitude without hesitation, anchoring the Russian line on "opredelyayem" ("to best") and "samoye" ("the most") without extra filler.
-- 'Awesome, that is really original!' Fedya maintains an honest note in the conversation, building the phrase around "klass" ("cool, great") and "voobshche" ("at all") for a crisp, natural delivery.
+- 'Dmitry Vladimirovich, may I ask one question?' Senya offers the comment calmly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Are we allowed to participate too?' Senya asks evenly how Nagiyev expects that to work in practice.
+- 'Everyone is allowed, except our Vitya.' Nagiyev stresses this direct term for Fedya: "mozhno" means "may, can", and it carries the main weight of what Nagiyev is saying.
+- 'Of course you can, my dear friends.' Nagiyev delivers that line on cue: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Thank you very much, Dima.' Senya speaks lightly during the talk, watching Fedya's face to see how the news lands.
+- 'What if I win and become the head chef.' Senya stresses this key term toward Nagiyev: "vyigrayu" means "will win" (from "vyigrat"), giving the line its exact edge.
+- 'I am just rehearsing with you in advance.' Senya drops the remark facing Fedya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I sit in a red armchair.' Nagiyev fires back candidly with a sigh, before Senya can change the subject.
+- 'I sit with my back to all the contestants.' Nagiyev reaches for one vivid detail with Fedya: "uchastnikam" means "participants" (from "uchastnik"), giving the line its exact edge.
+- 'And I choose only by taste.' Nagiyev steps in frankly without holding back, grounding the moment in plain reality.
+- 'We determine the very best dish.' Nagiyev pushes back promptly with a shrug, saying out loud what both of them already know.
+- 'Awesome, that is really original!' Fedya frames this sharp element in earnest: "originalno" means "original", and it carries the main weight of what Fedya is saying.

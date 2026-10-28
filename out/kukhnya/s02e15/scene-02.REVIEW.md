@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Shall we take your car or mine?' Barinov questions candidly to Vika here, weaving "mashine" ("car") together with "poyedem" ("will be off") just the way native speakers do.
-- 'Does it not seem to you?' Vika challenges decisively at this point, building the phrase around "kazhetsya" ("it seems, I think") and "vam" ("you") for a crisp, natural delivery.
-- 'Whatever you say.' Barinov quizzes honestly to make the point, weaving "kak" ("how") together with "skazhete" ("will you say") just the way native speakers do.
-- 'Thank you, I can manage myself.' Barinov sets a direct approach in this beat, weaving "spasibo" ("thank you") together with "ya" ("I") just the way native speakers do.
-- 'So whose car are we taking?' Barinov questions evenly toward Vika here, linking "tak" ("so"), "na" ("on, onto"), and "chey" ("whose") in one brisk exchange.
-- 'Excuse me. Sorry.' Vika keeps a warm tack at once, putting "prostite" ("excuse me") alongside "prosti" ("sorry, forgive me") in a tight, everyday turn of phrase.
-- 'My flights were canceled.' Barinov sustains a resolute line at once, anchoring the Russian line on "reysy" ("flight, voyage") and "otmenilis" ("to canceled") without extra filler.
-- 'Because of snow or something.' Vika projects an emphatic stance in the room, building the phrase around "sneg" ("snow") and "to" ("that") for a crisp, natural delivery.
-- 'So I am heading home.' Barinov offers a brisk note beside Vika, building the phrase around "domoy" ("home") and "ya-to" ("I") for a crisp, natural delivery.
-- 'I understand.' Vika chooses an easygoing stance toward Barinov, anchoring the Russian line on "ponyala" ("understood") and "ya" ("I") without extra filler.
-- 'Coffee at my place is off.' Barinov projects a frank tack in the scene, pairing "otmenyayetsya" ("is canceled") with "kofe" ("of coffee") so the "-sya" ending carries the action.
-- 'Did something happen?' Vika quizzes firmly at this point, building the phrase around "sluchilos" ("happened") and "chto-to" ("somehow") for a crisp, natural delivery.
-- 'Maybe we can go to your place, do you have coffee?' Barinov challenges decisively during the talk, combining "mozhet" ("can") and "byt" ("be") so the key meaning lands right away.
+- 'Shall we take your car or mine?' Barinov brings that reply to Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Does it not seem to you?' Vika inquires skeptically to see how Barinov will answer on the spot.
+- 'Whatever you say.' Barinov centers this key expression toward Vika: "skazhete" means "will you say" (from "skazat"), giving the line its exact edge.
+- 'Thank you, I can manage myself.' Barinov makes this answer briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'So whose car are we taking?' Barinov tests frankly in front of Vika without any preamble.
+- 'Excuse me. Sorry.' Vika leans on one colorful piece for Barinov: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'My flights were canceled.' Barinov phrases the comeback without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Because of snow or something.' Vika jumps in firmly without holding back, keeping the focus on what actually matters here.
+- 'So I am heading home.' Barinov focuses on this direct expression with Vika: "domoy" means "home", and it carries the main weight of what Barinov is saying.
+- 'I understand.' Vika directs that point before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Coffee at my place is off.' Barinov jumps in dryly with Vika, so Vika knows he is not just making small talk.
+- 'Did something happen?' Vika sharpens this clear detail at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'Maybe we can go to your place, do you have coffee?' Barinov aims the thought with candor: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.

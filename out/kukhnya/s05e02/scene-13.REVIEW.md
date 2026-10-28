@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Kostya!' Denis sets an emphatic style for Kostya, putting "privet" ("hi") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
-- 'I confessed everything to Katya after all.' Denis sustains an easygoing tack straight away, building the phrase around "priznalsya" ("did he confess") and "ya" ("I") for a crisp, natural delivery.
-- 'Really? You made a big mistake doing that.' Kostya queries sharply in their exchange, leaning on "ochen" ("very much") before closing the thought with "zrya" ("for nothing").
-- 'Nastya is still not speaking to me.' Kostya shows an easygoing view right away, weaving "por" ("time") together with "razgovarivayet" ("to talk, to speak") just the way native speakers do.
-- 'I even slept on the floor today.' Kostya shares a natural direction on the spot, putting "spal" ("slept") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Are you saying that seriously?' Denis asks warmly without a pause, weaving "govorish" ("you say") together with "seryozno" ("seriously") just the way native speakers do.
-- 'Here is what I thought last night.' Kostya shares an earnest style right away, pairing "vchera" ("yesterday") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
-- 'I will come home and give her a massage.' Kostya chooses a thoughtful angle in the scene, combining "pridu" ("will come") and "domoy" ("home") so the key meaning lands right away.
-- 'She did not let me give her a massage.' Kostya picks a candid tone at once, linking "massazh" ("a massage"), "sdelat" ("to do"), and "pustila" ("to let go, to let in") in one brisk exchange.
-- 'In short, listen to my new advice.' Kostya projects a warm attitude on the spot, linking "koroche" ("long story short"), "slushay" ("listen"), and "novyy" ("new") in one brisk exchange.
-- 'You must never tell them anything at all.' Kostya projects a calm direction in their talk, linking "nelzya" ("not allowed"), "voobshche" ("at all"), and "rasskazyvat" ("to tell") in one brisk exchange.
-- 'Do not tell under any circumstances!' Kostya holds a natural style in front of Denis, building the phrase around "sluchaye" ("case, event") and "govori" ("say, talk") for a crisp, natural delivery.
+- 'Hi, Kostya!' Denis voices the comment before Kostya: opening with the casual greeting "privet" ("hi") signals right away that Denis and Kostya are on familiar terms.
+- 'I confessed everything to Katya after all.' Denis states that line beside Kostya: the "-sya" ending on "priznalsya" ("did he confess") turns the action inward or makes it happen between people naturally.
+- 'Really? You made a big mistake doing that.' Kostya prompts earnestly to see how Denis will answer on the spot.
+- 'Nastya is still not speaking to me.' Kostya grounds this direct choice in earnest: "razgovarivayet" means "to talk, to speak" (from "razgovarivat"), giving the line its exact edge.
+- 'I even slept on the floor today.' Kostya opens up warmly in this moment, bringing things back to earth after the buildup.
+- 'Are you saying that seriously?' Denis wonders promptly how Kostya expects that to work in practice.
+- 'Here is what I thought last night.' Kostya colors one clear expression at once: "vecherom" means "in the evening", and it carries the main weight of what Kostya is saying.
+- 'I will come home and give her a massage.' Kostya responds frankly with a nod, leaving no doubt about where he stands.
+- 'She did not let me give her a massage.' Kostya holds firm warmly with a smile, keeping the focus on what actually matters here.
+- 'In short, listen to my new advice.' Kostya favors one vivid detail in reply: "koroche" means "long story short", and it carries the main weight of what Kostya is saying.
+- 'You must never tell them anything at all.' Kostya sends this line right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Do not tell under any circumstances!' Kostya proceeds lightly across the room, bringing things back to earth after the buildup.

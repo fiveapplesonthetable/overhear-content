@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must bring your appearance closer to the person's.' Lyova establishes an emphatic angle on the spot, putting "nuzhno" ("necessary") alongside "priblizit" ("to bring") in a tight, everyday turn of phrase.
-- 'Look who has returned from Turkey!' Barinov sustains a brisk stance without hesitation, pairing "vernulsya" ("returned") with "smotrite" ("look") so the "-sya" ending carries the action.
-- 'How was your vacation, what did you bring me?' Barinov challenges pointedly as the beat lands, joining "kak" ("how") to "otdokhnul" ("to have a rest") so every word pulls its weight.
-- 'Hey, what is that on your face?' Barinov checks dryly during the talk, putting "ey" ("hey") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'What, are they really real?' Barinov asks honestly to Lyova here, leaning on "pravda" ("honestly") before closing the thought with "nastoyashchiye" ("real").
-- 'Why did you grow a moustache, Lyova?' Barinov quizzes decisively at this point, linking "zachem" ("what for"), "otpustil" ("let go"), and "usy" ("mustache") in one brisk exchange.
-- 'Mom says a moustache suits me very well.' Lyova favors a clear style for Barinov, leaning on "mama" ("mum, mother") before closing the thought with "govorit" ("talks").
-- 'And have you finished your foolish war?' Lyova presses honestly to Barinov here, leaning on "zakonchili" ("to finish, to complete") before closing the thought with "duratskuyu" ("foolish, stupid").
-- 'Of course, we finished it a long time ago.' Barinov takes an earnest angle toward Lyova, putting "konechno" ("of course") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Are you deceiving me again, chef?' Lyova checks dryly in the scene, weaving "opyat" ("again") together with "obmanyvayete" ("are deceiving") just the way native speakers do.
-- 'People called me from here every day.' Lyova sustains a natural tone in the room, building the phrase around "kazhdyy" ("every") and "den" ("day") for a crisp, natural delivery.
-- 'You have not finished anything at all!' Lyova sustains a serious mood right away, building the phrase around "zakonchili" ("to finish, to complete") and "nichego" ("nothing") for a crisp, natural delivery.
-- 'Chef, please hear me out.' Lyova shares an earnest tempo across the room, leaning on "uslyshte" ("to hear") before closing the thought with "shef" ("Chef").
-- 'You should not behave like that.' Lyova chooses a thoughtful attitude as they talk, pairing "nado" ("it is necessary") with "vesti" ("to conduct") to get the point across in plain spoken Russian.
+- 'You must bring your appearance closer to the person's.' Lyova cuts in quietly before Barinov, saying out loud what both of them already know.
+- 'Look who has returned from Turkey!' Barinov grounds one vivid touch right here: "turtsii" means "turkey" (from "turtsiya"), giving the line its exact edge.
+- 'How was your vacation, what did you bring me?' Barinov aims this update facing Lyova: putting the question word "kak" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Hey, what is that on your face?' Barinov prompts eagerly what Lyova is actually getting at here.
+- 'What, are they really real?' Barinov chooses one sharp word with Lyova: "nastoyashchiye" means "real" (from "nastoyashchiy"), giving the line its exact edge.
+- 'Why did you grow a moustache, Lyova?' Barinov drops the comeback to Lyova: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Mom says a moustache suits me very well.' Lyova speaks up sharply without holding back, refusing to let the moment slip past.
+- 'And have you finished your foolish war?' Lyova favors this clear word on cue: "duratskuyu" means "foolish, stupid" (from "duratskiy"), giving the line its exact edge.
+- 'Of course, we finished it a long time ago.' Barinov speaks briskly across the room, grounding the moment in plain reality.
+- 'Are you deceiving me again, chef?' Lyova tests calmly what Barinov is actually getting at here.
+- 'People called me from here every day.' Lyova uses one sharp expression for Barinov: "kazhdyy" means "every", and it carries the main weight of what Lyova is saying.
+- 'You have not finished anything at all!' Lyova offers the reaction facing Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Chef, please hear me out.' Lyova opens up right away to settle things, grounding the moment in plain reality.
+- 'You should not behave like that.' Lyova points to one pointed word for Barinov: "vesti" means "to conduct", and it carries the main weight of what Lyova is saying.

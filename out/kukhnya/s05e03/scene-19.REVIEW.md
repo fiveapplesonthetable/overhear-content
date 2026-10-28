@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You said that you were a major.' Mikhail maintains a natural direction as they talk, anchoring the Russian line on "govoril" ("said, were saying") and "mayor" ("major") without extra filler.
-- 'He is on an important mission right now.' Mikhail presents an emphatic style as they talk, putting "seychas" ("now") alongside "vazhnom" ("important") in a tight, everyday turn of phrase.
-- 'Mom, hi! I have come back already.' Katya displays a lively view in the room, pairing "vernulas" ("returned") with "mama" ("mum, mother") so the "-sya" ending carries the action.
-- 'Is everything alright here with you?' Katya inquires plainly without holding back, placing "zdes" ("here") straight beside "poryadke" ("order") with no word for "to be" needed.
-- 'You said that your father had changed.' Eleonora chooses a direct attitude toward Katya, building the phrase around "govorila" ("said") and "otets" ("father") for a crisp, natural delivery.
-- 'You convinced me to hire him.' Eleonora shares a frank posture across the room, putting "ubedila" ("convinced") alongside "vzyat" ("to take") in a tight, everyday turn of phrase.
-- 'He still does not care about anyone.' Eleonora maintains a sharp approach in this beat, putting "po-prezhnemu" ("still, as before") alongside "naplevat" ("don't care") in a tight, everyday turn of phrase.
-- 'That is it, I am firing him today.' Eleonora holds a pointed course during the exchange, anchoring the Russian line on "segodnya" ("today") and "uvolyu" ("will fire") without extra filler.
-- 'No, Mom, you will not fire him.' Katya establishes a wry tack across the room, anchoring the Russian line on "mama" ("mum, mother") and "uvolish" ("will fire") without extra filler.
-- 'We want to talk with you normally.' Katya shares a resolute line on the spot, weaving "khotim" ("want") together with "obshchatsya" ("to talk") just the way native speakers do.
-- 'Then you will give him one more chance.' Katya takes a firm attitude on the spot, leaning on "togda" ("back then") before closing the thought with "dash" ("to give").
-- 'And have you seen Denis today?' Katya presses firmly without holding back, building the phrase around "denisa" ("denis") and "segodnya" ("today") for a crisp, natural delivery.
-- 'I cannot reach him by phone at all.' Katya chooses a thoughtful footing at once, anchoring the Russian line on "nikak" ("in no way") and "mogu" ("can") without extra filler.
-- 'He left with some lady.' Mikhail projects a measured position as they talk, building the phrase around "ushyol" ("left, departed") and "damoy" ("with a lady") for a crisp, natural delivery.
-- 'I had a master key somewhere.' Eleonora takes a clear stance at once, using the everyday "u menya" ("by me") alongside "gde-to" ("somewhere") to show what belongs to the speaker.
+- 'You said that you were a major.' Mikhail frames one clear touch in earnest: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
+- 'He is on an important mission right now.' Mikhail phrases that remark plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Mom, hi! I have come back already.' Katya pushes back calmly around Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'Is everything alright here with you?' Katya highlights one direct word in earnest: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'You said that your father had changed.' Eleonora phrases that answer at once: the "-sya" ending on "izmenilsya" ("have changed") turns the action inward or makes it happen between people naturally.
+- 'You convinced me to hire him.' Eleonora opens up evenly with Mikhail, bringing things back to earth after the buildup.
+- 'He still does not care about anyone.' Eleonora features one vivid choice on cue: "po-prezhnemu" means "still, as before", and it carries the main weight of what Eleonora is saying.
+- 'That is it, I am firing him today.' Eleonora proceeds briskly in this moment, refusing to let the moment slip past.
+- 'No, Mom, you will not fire him.' Katya cuts in calmly as things stand, bringing things back to earth after the buildup.
+- 'We want to talk with you normally.' Katya favors one direct choice for Mikhail: "obshchatsya" means "to talk", and it carries the main weight of what Katya is saying.
+- 'Then you will give him one more chance.' Katya centers one key term right here: "yeshchyo" means "more, still", and it carries the main weight of what Katya is saying.
+- 'And have you seen Denis today?' Katya wonders evenly to see how Mikhail will answer on the spot.
+- 'I cannot reach him by phone at all.' Katya chooses one concrete choice for Eleonora: "dozvonitsya" means "to get through", and it carries the main weight of what Katya is saying.
+- 'He left with some lady.' Mikhail jumps in dryly around Katya, bringing things back to earth after the buildup.
+- 'I had a master key somewhere.' Eleonora speaks sharply to settle things, steering the talk right where she wants it.

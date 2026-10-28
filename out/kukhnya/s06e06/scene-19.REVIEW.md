@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, my offer remains in effect.' The guest brings a brisk tack in the conversation, putting "predlozheniye" ("offer, proposal") alongside "ostayotsya" ("stays") in a tight, everyday turn of phrase.
-- 'Keep your offer to yourself forever!' Katya projects a brisk position in front of the guest, joining "ostav" ("keep, leave") to "predlozheniye" ("offer, proposal") so every word pulls its weight.
-- 'You are going to regret this deeply!' The guest holds a brisk angle toward Eleonora, anchoring the Russian line on "yeshchyo" ("more, still") and "silno" ("strongly, much") without extra filler.
-- 'I will write a terrible report about you.' The guest takes a thoughtful note with Katya, building the phrase around "napishu" ("will write") and "uzhasnyy" ("horrible") for a crisp, natural delivery.
-- 'You will never get the coveted star!' The guest presents an emphatic tone in the scene, combining "nikogda" ("never") and "zavetnuyu" ("coveted, cherished") so the key meaning lands right away.
-- 'Now that is very unlikely.' Eleonora sets an unhurried rhythm in the conversation, leaning on "uzhe" ("already, now") before closing the thought with "vryad" ("hardly, unlikely").
-- 'If you write badly about our restaurant.' Eleonora brings a warm course across the room, putting "napishesh" ("to write") alongside "restorane" ("restaurant") in a tight, everyday turn of phrase.
-- 'Then your bosses will immediately see everything.' Eleonora chooses an unhurried attitude with Katya, weaving "togda" ("back then") together with "nachalstvo" ("management") just the way native speakers do.
-- 'You are using your position for personal gain.' Eleonora adopts a grounded manner straight away, using "polzuyeshsya" (from "polzovatsya", "use") alongside "polozheniyem" ("position, situation") to shape the meaning.
-- 'Do you remember I offered you money?' Eleonora queries evenly in the scene, using "pomnish" (from "pomnit", "do you remember") alongside "predlagala" ("offered") to shape the meaning.
-- 'You should have quietly taken the money back then.' Eleonora sustains a playful posture for the guest, pairing "nado" ("it is necessary") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'It is as if I went to an interesting movie today.' Katya projects a firm line straight away, using "interesnoye" (from "interesnyy", "interesting") alongside "kino" ("cinema, movies") to shape the meaning.
+- 'Katya, my offer remains in effect.' The guest chooses this clear word at once: "predlozheniye" means "offer, proposal", and it carries the main weight of what the guest is saying.
+- 'Keep your offer to yourself forever!' Katya jumps in openly on the spot, grounding the moment in plain reality.
+- 'You are going to regret this deeply!' The guest proceeds candidly as things stand, leaving no doubt about where he stands.
+- 'I will write a terrible report about you.' The guest centers one practical expression in earnest: "uzhasnyy" means "horrible", and it carries the main weight of what the guest is saying.
+- 'You will never get the coveted star!' The guest lays out the reply with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Now that is very unlikely.' Eleonora answers right away with a sigh, letting the remark speak for itself.
+- 'If you write badly about our restaurant.' Eleonora centers one loaded touch in earnest: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'Then your bosses will immediately see everything.' Eleonora anchors this key detail in reply: "nachalstvo" means "management", and it carries the main weight of what Eleonora is saying.
+- 'You are using your position for personal gain.' Eleonora reacts openly to be clear, grounding the moment in plain reality.
+- 'Do you remember I offered you money?' Eleonora focuses on one clear choice at once: "predlagala" means "offered" (from "predlagat"), giving the line its exact edge.
+- 'You should have quietly taken the money back then.' Eleonora shapes that remark facing the guest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'It is as if I went to an interesting movie today.' Katya jumps in frankly to settle things, to clear the air between them once and for all.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would like to order the warm seafood salad.' Barinov strikes a sharp stance beside Lyova, using "khotel" (from "khotet", "wanted") alongside "zakazat" ("to order") to shape the meaning.
-- 'And not his assistant.' Lyova brings a lively tack in this beat, putting "pomoshchnik" ("assistant") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'That day the salad was a flop.' Timur strikes an easygoing attitude without hesitation, leaning on "raz" ("time, once") before closing the thought with "salat" ("salad").
-- 'And Lyova badly wanted to find out my secret recipe.' Barinov presents a thoughtful manner for Timur, pairing "ochen" ("very much") with "khotelos" ("to feel like") to get the point across in plain spoken Russian.
-- 'Why does it work for me, and not for him?' Lyova prompts openly in front of Barinov, anchoring the Russian line on "pochemu" ("why") and "poluchayetsya" ("works out") without extra filler.
-- 'Lyova, do you have nothing better to do?' Timur tests evenly in this moment, building the phrase around "delat" ("do") and "lyov" ("Lyova") for a crisp, natural delivery.
-- 'Chef, Timur just brought the produce delivery.' Lyova brings an honest posture toward Barinov, joining "tam" ("there") to "produkty" ("groceries") so every word pulls its weight.
-- 'I can sign for it.' Lyova takes a sharp mood for Timur, weaving "mogu" ("can") together with "prinyat" ("to accept, hire") just the way native speakers do.
-- 'Mine tastes the exact same.' Timur replies honestly beside Barinov, using the everyday "u menya" ("by me") alongside "tochno" ("definitely") to show what belongs to the speaker.
-- 'I do not understand it.' Barinov maintains a frank manner during the exchange, combining "ponimayu" ("understand") and "ne" ("not") so the key meaning lands right away.
-- 'Lyova, what are you doing?' Timur checks honestly during the talk, anchoring the Russian line on "delayesh" ("are you doing") and "lyov" ("Lyova") without extra filler.
-- 'Did you eat the whole salad?' Timur quizzes directly from the start, pairing "syel" ("ate") with "salat" ("salad") to get the point across in plain spoken Russian.
-- 'You are about to find out right now.' Barinov chooses an honest line as they talk, pairing "seychas" ("now") with "uznayesh" ("will learn") so the "-sya" ending carries the action.
+- 'I would like to order the warm seafood salad.' Barinov replies bluntly with a smile, shifting the whole mood of the room in a single beat.
+- 'And not his assistant.' Lyova continues earnestly with a nod, testing Timur's reaction in the middle of the exchange.
+- 'That day the salad was a flop.' Timur favors one pointed detail in reply: "salat" means "salad", and it carries the main weight of what Timur is saying.
+- 'And Lyova badly wanted to find out my secret recipe.' Barinov follows up calmly beside Timur, testing Timur's reaction in the middle of the exchange.
+- 'Why does it work for me, and not for him?' Lyova checks candidly while looking straight at Barinov here.
+- 'Lyova, do you have nothing better to do?' Timur voices that remark without fuss: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Chef, Timur just brought the produce delivery.' Lyova continues lightly watching Barinov, shifting the whole mood of the room in a single beat.
+- 'I can sign for it.' Lyova speaks openly with a sigh, refusing to let the moment slip past.
+- 'Mine tastes the exact same.' Timur features one memorable detail on cue: "tochno" means "definitely", and it carries the main weight of what Timur is saying.
+- 'I do not understand it.' Barinov drops this update to Timur: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Lyova, what are you doing?' Timur prompts eagerly why things suddenly took this turn between them.
+- 'Did you eat the whole salad?' Timur emphasizes one memorable touch at once: "salat" means "salad", and it carries the main weight of what Timur is saying.
+- 'You are about to find out right now.' Barinov delivers the comeback calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you lock me in here?' Mikhail quizzes naturally as the beat lands, weaving "zachem" ("what for") together with "tut" ("here") just the way native speakers do.
-- 'So that you do not do anything foolish!' Barinov sets a clear direction at this moment, leaning on "glupostey" ("foolish things") before closing the thought with "nadelal" ("make, cause").
-- 'Vitya, you are a real traitor!' Mikhail establishes an emphatic style for Barinov, placing "nastoyashchiy" ("real, genuine") straight beside "predatel" ("traitor") with no word for "to be" needed.
-- 'Senya, I am heading to the market.' Barinov sustains a candid rhythm beside Senya, using "poyekhal" (from "poyekhat", "I'm off") alongside "rynok" ("market") to shape the meaning.
-- 'You are guarding Mikhail Dzhekovich's peace.' Barinov sustains a natural note right away, joining "okhranyayesh" ("you guard") to "pokoy" ("peace, rest") so every word pulls its weight.
-- 'If he comes out of the office, I will punish you!' Barinov sets a candid rhythm across the room, anchoring the Russian line on "vyydet" ("will come out") and "kabineta" ("office") without extra filler.
-- 'And if he does not come out, will you give me a bonus?' Senya questions briskly on the spot, building the phrase around "vyydet" ("will come out") and "premiyu" ("bonus, prize") for a crisp, natural delivery.
-- 'Five thousand kicks in the backside.' Barinov keeps a lively course in their talk, joining "tysyach" ("thousand") to "pinkov" ("kicks") so every word pulls its weight.
-- 'Thanks, that is a great advance for me.' Senya replies dryly toward Barinov here, using the everyday "u menya" ("by me") alongside "spasibo" ("thank you") to show what belongs to the speaker.
-- 'Quiet, do not shout, I found the way.' Barinov favors a lively course right away, building the phrase around "tikho" ("easy, quiet") and "krichi" ("shout, yell") for a crisp, natural delivery.
-- 'There is another maternity hospital nearby.' Barinov offers an easygoing position beside Mikhail, putting "tut" ("here") alongside "poblizosti" ("nearby") in a tight, everyday turn of phrase.
-- 'Alright, we will go under the contract.' Barinov sustains a sharp posture in the scene, weaving "poyedem" ("will be off") together with "kontraktu" ("by contract") just the way native speakers do.
+- 'Why did you lock me in here?' Mikhail centers one pointed element right here: "zakryl" means "passed, closed" (from "zakryt"), giving the line its exact edge.
+- 'So that you do not do anything foolish!' Barinov colors one vivid piece toward Senya: "glupostey" means "foolish things" (from "glupost"), giving the line its exact edge.
+- 'Vitya, you are a real traitor!' Mikhail cuts in quietly with a smile, refusing to let the moment slip past.
+- 'Senya, I am heading to the market.' Barinov grounds one loaded element right here: "poyekhal" means "I'm off" (from "poyekhat"), giving the line its exact edge.
+- 'You are guarding Mikhail Dzhekovich's peace.' Barinov uses one sharp expression at once: "okhranyayesh" means "you guard" (from "okhranyat"), giving the line its exact edge.
+- 'If he comes out of the office, I will punish you!' Barinov answers decisively facing Senya, making his position completely clear.
+- 'And if he does not come out, will you give me a bonus?' Senya points to one colorful detail on cue: "premiyu" means "bonus, prize" (from "premiya"), giving the line its exact edge.
+- 'Five thousand kicks in the backside.' Barinov counters sharply as things stand, testing Senya's reaction in the middle of the exchange.
+- 'Thanks, that is a great advance for me.' Senya reacts sharply as things stand, making his position completely clear.
+- 'Quiet, do not shout, I found the way.' Barinov sharpens one loaded element in earnest: "dorogu" means "road, way" (from "doroga"), giving the line its exact edge.
+- 'There is another maternity hospital nearby.' Barinov weighs in bluntly watching Mikhail, bringing things back to earth after the buildup.
+- 'Alright, we will go under the contract.' Barinov stands firm calmly around Senya, grounding the moment in plain reality.

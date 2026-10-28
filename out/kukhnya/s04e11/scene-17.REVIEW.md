@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that you yelling in there, or what?' The guest asks honestly as the talk turns, pairing "tam" ("there") with "krichal" ("yelled") to get the point across in plain spoken Russian.
-- 'Go on, darling, show him right now.' Vika presents a clear posture beside Max, putting "dorogoy" ("dear") alongside "pokazhi" ("show") in a tight, everyday turn of phrase.
-- 'Show how men solve problems.' Vika displays a lively view right away, combining "pokazhi" ("show") and "kak" ("how") so the key meaning lands right away.
-- 'Because I did not catch it the first time.' Vika holds a warm angle straight away, weaving "pervogo" ("first") together with "raza" ("time") just the way native speakers do.
-- 'I was just joking back then...' Max establishes a grounded style at this moment, anchoring the Russian line on "prosto" ("just") and "poshutil" ("to joke") without extra filler.
-- 'And what do I need such a man for?' Vika tests pointedly right away, leaning on "zachem" ("what for") before closing the thought with "muzhchina" ("man").
-- 'Now here is a real, strong man!' Vika shows a thoughtful stance at this moment, weaving "nastoyashchiy" ("real, genuine") together with "silnyy" ("the strong") just the way native speakers do.
-- 'Tell me, are you married right now?' Vika tests openly as the talk turns, pairing "skazhite" ("tell") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Well, come along with me if you want.' The guest sets a calm view as they talk, leaning on "poydyom" ("let's go") before closing the thought with "khochesh" ("do you want").
-- 'Hey, leave her alone, she is my wife!' Max shows a clear stance toward Vika, weaving "ostav" ("keep, leave") together with "zhena" ("wife") just the way native speakers do.
-- 'She just said she does not need you.' The guest brings a steady rhythm in the conversation, leaning on "skazala" ("told") before closing the thought with "nuzhen" ("is needed").
-- 'Let's go home, my savior.' Vika chooses a steady tempo in the scene, pairing "poydyom" ("let's go") with "domoy" ("home") to get the point across in plain spoken Russian.
+- 'Was that you yelling in there, or what?' The guest delivers this statement around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Go on, darling, show him right now.' Vika follows up lightly before Max, leaving no doubt about where she stands.
+- 'Show how men solve problems.' Vika colors one sharp element in earnest: "muzhchiny" means "man" (from "muzhchina"), giving the line its exact edge.
+- 'Because I did not catch it the first time.' Vika proceeds openly in their talk, refusing to let the moment slip past.
+- 'I was just joking back then...' Max cuts in calmly around the guest, saying out loud what both of them already know.
+- 'And what do I need such a man for?' Vika points to one colorful choice toward Max: "muzhchina" means "man", and it carries the main weight of what Vika is saying.
+- 'Now here is a real, strong man!' Vika puts that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Tell me, are you married right now?' Vika challenges quietly in front of Max without any preamble.
+- 'Well, come along with me if you want.' The guest favors one clear expression in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Hey, leave her alone, she is my wife!' Max steps in openly before Vika, saying out loud what both of them already know.
+- 'She just said she does not need you.' The guest continues openly with a sigh, before Max can change the subject.
+- 'Let's go home, my savior.' Vika anchors one clear word for Max: "spasitel" means "savior", and it carries the main weight of what Vika is saying.

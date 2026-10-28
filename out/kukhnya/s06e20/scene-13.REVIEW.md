@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So your dinner tonight is not canceled.' The inspector offers a resolute direction beside Barinov, weaving "znachit" ("then, so") together with "segodnyashniy" ("of today's") just the way native speakers do.
-- 'Viktor, I have a request for you.' The inspector adopts a steady tone with Nastya, combining "prosba" ("a request") and "viktor" ("Viktor") so the key meaning lands right away.
-- 'Perhaps it will seem strange to you.' The inspector displays a candid tempo in this beat, combining "vozmozhno" ("perhaps, possible") and "pokazhetsya" ("to seem, appear") so the key meaning lands right away.
-- 'I want to watch how you cook.' The inspector favors an easygoing direction straight away, joining "khochu" ("want") to "posmotret" ("to look up") so every word pulls its weight.
-- 'I want to include this in my report.' The inspector offers a direct manner in front of Barinov, linking "khochu" ("want"), "otrazit" ("to reflect"), and "otchyote" ("report") in one brisk exchange.
-- 'Tell me, may I see that?' The inspector prompts earnestly beside Nastya, leaning on "skazhite" ("tell") before closing the thought with "mozhno" ("may, can").
-- 'Yes, of course, come into the kitchen.' Barinov brings a brisk tone at this moment, linking "konechno" ("of course"), "prikhodite" ("come"), and "kukhnyu" ("kitchen") in one brisk exchange.
-- 'Mom, what are you doing here?' Nastya wonders sharply without holding back, anchoring the Russian line on "mama" ("mum, mother") and "tut" ("here") without extra filler.
-- 'Dad asked me to pick up test results.' Barinov takes a brisk manner in the scene, putting "papa" ("Dad") alongside "poprosil" ("asked") in a tight, everyday turn of phrase.
-- 'And I have Kostya's dad's test.' Nastya responds decisively to the inspector here, using the everyday "u menya" ("by me") alongside "analiz" ("test, analysis") to show what belongs to the speaker.
-- 'Alright, I need to get going now.' Nastya picks a playful manner in front of Barinov, anchoring the Russian line on "uzhe" ("already, now") and "idti" ("to go") without extra filler.
-- 'Yes, it is time for me to go home too.' Barinov takes an easygoing footing in the scene, pairing "tozhe" ("too") with "pora" ("it's time") to get the point across in plain spoken Russian.
+- 'So your dinner tonight is not canceled.' The inspector focuses on one familiar word with Barinov: "segodnyashniy" means "of today's", and it carries the main weight of what the inspector is saying.
+- 'Viktor, I have a request for you.' The inspector shares that thought beside Nastya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Perhaps it will seem strange to you.' The inspector pushes back boldly with a nod, so Barinov knows he is not just making small talk.
+- 'I want to watch how you cook.' The inspector stresses this sharp element in earnest: "posmotret" means "to look up", and it carries the main weight of what the inspector is saying.
+- 'I want to include this in my report.' The inspector weighs in candidly with a shrug, to clear the air between them once and for all.
+- 'Tell me, may I see that?' The inspector wonders curiously before Nastya can change the subject.
+- 'Yes, of course, come into the kitchen.' Barinov chooses one key word right here: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
+- 'Mom, what are you doing here?' Nastya directs that remark with ease: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
+- 'Dad asked me to pick up test results.' Barinov speaks calmly without holding back, bringing things back to earth after the buildup.
+- 'And I have Kostya's dad's test.' Nastya stresses one memorable piece right here: "analiz" means "test, analysis", and it carries the main weight of what Nastya is saying.
+- 'Alright, I need to get going now.' Nastya directs that line frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'Yes, it is time for me to go home too.' Barinov speaks dryly in this moment, grounding the moment in plain reality.

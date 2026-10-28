@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you really leaving tomorrow already?' Senya inquires openly without a pause, building the phrase around "realno" ("really possible") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'He did not even warn anyone in advance.' Senya favors a resolute approach right away, joining "zaraneye" ("in advance") to "predupredil" ("warned") so every word pulls its weight.
-- 'Denis is leaving for Voronezh forever tomorrow.' Senya chooses a brisk bearing in the room, pairing "denis" ("Denis") with "zavtra" ("tomorrow") so the "-sya" ending carries the action.
-- 'A nice room is freeing up at Kostya's place now.' Senya picks a pointed mood in the conversation, pairing "kosti" ("bones") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'Now this is truly very big news.' Senya offers a thoughtful course in the scene, pairing "deystvitelno" ("really, indeed") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'And who is going to play the piano?' Mikhail checks naturally in this moment, putting "budet" ("will be") alongside "igrat" ("to play") in a tight, everyday turn of phrase.
-- 'Alright, I did not understand anything right now.' Mikhail conveys an earnest direction during the exchange, linking "seychas" ("now"), "ponyal" ("understood"), and "tak" ("so") in one brisk exchange.
-- 'Denis, should I sit down at the grand piano myself?' Mikhail presses sharply during the talk, pairing "denis" ("Denis") with "royal" ("grand piano") so the "-sya" ending carries the action.
-- 'He is leaving us forever tomorrow.' Senya sets a sharp rhythm in the conversation, linking "zavtra" ("tomorrow"), "uyezzhayet" ("is leaving"), and "navsegda" ("forever") in one brisk exchange.
-- 'Could you not have told me earlier?' Mikhail wonders pointedly beside Senya, anchoring the Russian line on "ranshe" ("earlier, previously") and "nelzya" ("not allowed") without extra filler.
-- 'Fine, then let us go get your final pay now.' Mikhail strikes a playful rhythm in the room, pairing "seychas" ("now") with "togda" ("back then") so the "-sya" ending carries the action.
-- 'Wait, am I already completely fired?' Denis checks directly without a pause, linking "podozhdite" ("wait"), "uzhe" ("already, now"), and "sovsem" ("at all") in one brisk exchange.
+- 'Are you really leaving tomorrow already?' Senya quizzes evenly before Denis can change the subject.
+- 'He did not even warn anyone in advance.' Senya underscores one direct element for Mikhail: "predupredil" means "warned" (from "predupredit"), giving the line its exact edge.
+- 'Denis is leaving for Voronezh forever tomorrow.' Senya responds promptly before Denis, so Denis knows he is not just making small talk.
+- 'A nice room is freeing up at Kostya's place now.' Senya holds firm openly with a sigh, steering the talk right where he wants it.
+- 'Now this is truly very big news.' Senya grounds one pointed choice on cue: "deystvitelno" means "really, indeed", and it carries the main weight of what Senya is saying.
+- 'And who is going to play the piano?' Mikhail frames this statement without pause: putting the question word "kto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Alright, I did not understand anything right now.' Mikhail fires back bluntly with a smile, before Denis can change the subject.
+- 'Denis, should I sit down at the grand piano myself?' Mikhail leans on this vivid touch right here: "royal" means "grand piano", and it carries the main weight of what Mikhail is saying.
+- 'He is leaving us forever tomorrow.' Senya answers evenly to settle things, shifting the whole mood of the room in a single beat.
+- 'Could you not have told me earlier?' Mikhail asks straight out how Senya expects that to work in practice.
+- 'Fine, then let us go get your final pay now.' Mikhail favors this sharp detail for Denis: "raschyotom" means "final pay, settlement" (from "raschyot"), giving the line its exact edge.
+- 'Wait, am I already completely fired?' Denis makes this warning around Senya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.

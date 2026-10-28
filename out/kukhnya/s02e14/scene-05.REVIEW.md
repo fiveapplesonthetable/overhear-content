@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You can start working right today.' Barinov keeps a wry posture during the exchange, joining "vykhodit" ("to go out, to get out") to "mozhesh" ("can") so every word pulls its weight.
-- 'Get your uniform and go change.' Vika keeps a steady manner as they talk, building the phrase around "poluchay" ("take that") and "formu" ("uniform") for a crisp, natural delivery.
-- 'Thank you, Viktoriya Sergeyevna.' Kostya favors a measured tack without hesitation, building the phrase around "spasibo" ("thank you") and "viktoriya" ("Victoria") for a crisp, natural delivery.
-- 'Awesome. Thank you.' Barinov favors a warm footing right away, pairing "super" ("super, great") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
-- 'How are things going?' Vika wonders calmly as the talk turns, linking "kak" ("how") directly with "dela" ("things, affairs"), since Russian drops "is" and "are" in the present.
-- 'Here we are at the airport already.' Kostya presents an emphatic rhythm right away, anchoring the Russian line on "uzhe" ("already, now") and "aeroport" ("the airport") without extra filler.
-- 'You got there awfully fast somehow.' Barinov displays a brisk tack at this moment, joining "kak-to" ("somehow, a bit") to "bystro" ("quickly") so every word pulls its weight.
-- 'We drove right behind an ambulance.' Vika displays a lively attitude during the exchange, pairing "skoroy" ("ambulance") with "pomoshchyu" ("help") to get the point across in plain spoken Russian.
-- 'After all, I am supposedly a patient too.' Kostya takes a frank footing at this moment, combining "tozhe" ("too") and "kak" ("how") so the key meaning lands right away.
-- 'Chef, please, be quiet.' Vika shows an easygoing mood in the scene, building the phrase around "tikho" ("easy, quiet") and "shef" ("Chef") for a crisp, natural delivery.
-- 'I will call you back later.' Vika presents a pointed view in the scene, linking "potom" ("then"), "perezvonyu" ("will call back"), and "ya" ("I") in one brisk exchange.
-- 'Anyway, that is it.' Kostya adopts a clear tack beside Vika, using "obshchem" ("short, so") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'There is a security check at the entrance here.' Barinov shares a clear bearing in this beat, combining "tut" ("here") and "proverka" ("a test") so the key meaning lands right away.
+- 'You can start working right today.' Barinov frames the comment before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Get your uniform and go change.' Vika counters decisively without holding back, leaving no doubt about where she stands.
+- 'Thank you, Viktoriya Sergeyevna.' Kostya stresses this clear element for Barinov: "spasibo" means "thank you", and it carries the main weight of what Kostya is saying.
+- 'Awesome. Thank you.' Barinov sends that line toward Vika: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'How are things going?' Vika presses bluntly whether Barinov really thought this through.
+- 'Here we are at the airport already.' Kostya anchors one practical term right here: "aeroport" means "the airport", and it carries the main weight of what Kostya is saying.
+- 'You got there awfully fast somehow.' Barinov hands over that point with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We drove right behind an ambulance.' Vika pushes back boldly without any doubt, without trying to dress up how she really feels.
+- 'After all, I am supposedly a patient too.' Kostya grounds this clear piece on cue: "bolnoy" means "crazy", and it carries the main weight of what Kostya is saying.
+- 'Chef, please, be quiet.' Vika states that answer frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I will call you back later.' Vika follows up sharply with a shrug, refusing to let the moment slip past.
+- 'Anyway, that is it.' Kostya colors one key element on cue: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'There is a security check at the entrance here.' Barinov brings that remark calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
