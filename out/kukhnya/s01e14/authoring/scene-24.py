@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'Max goes to the bar, where Vika has poured him a drink to say thanks. They talk about whether he is a croissant or a stick of celery. Here is the scene in Russian first.'
-OPENER = "Let's go through it again, slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Vika gives him a nickname that sticks. When you watch the episode, listen for how soft her voice is. Until next time.'
+INTRO = 'Max goes to the bar, where Vika has poured him a drink to say thanks. They talk about whether he is a croissant or a stick of celery. Russian first.'
+OPENER = 'Again, slowly.'
+TRANSITION = 'Now the scene in one piece.'
+OUTRO = 'Vika gives him a nickname that sticks. Notice how soft her voice is. Until next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'А я кто?', 'And what am I?', [(313, 'А я кто')], ''),
@@ -36,10 +36,10 @@ WALK = [
     (3, None, "'Why a croissant?' Max repeats her answer as a question. It works like a mini echo."),
     (4, None, "'I don't eat flour products.' 'Muchnoe' means 'floury things' and grows from 'muka', flour. 'Ne em' is 'I don't eat', and 'zhe' says 'after all'."),
     (5, None, "'You saved our restaurant.' 'Spas' is 'saved', and 'nash restoran' stays the same because it is the thing saved. A short, grateful sentence."),
-    (6, None, "'You did great, Max.' 'Molodets' is 'good lad', and it's for men. For a woman Russians would say 'molodets' too."),
+    (6, None, "'You did great, Max.' 'Good lad' is a word for praising a man. Russians use the same word for a woman, too."),
     (7, None, "'I just did my job.' 'Svoyu rabotu' is 'my own job', with 'u' endings. Max is modest, or tries to be."),
     (8, None, "'No, it was cool.' 'Kruto' means 'cool' in slang, and it literally means 'steeply'. 'Eto bylo' is 'this was'."),
     (9, None, "'You helped me a lot.' 'Pomog mne' is 'helped to me', so the helped person goes in the 'to' form. 'Ochen' is 'very'."),
-    (10, None, "'Thank you.' 'Spasibo tebe' is 'thanks to you', and the 'tebe' makes it personal. It's what you'd say to a friend."),
-    (11, None, "'My brave croissant.' 'Khrabry' means 'brave', and it describes the croissant. A pet name, nothing more."),
+    (10, None, "'Thank you.' 'Thanks to you' is the full Russian, and the 'to you' makes it personal. It's what you'd say to a friend."),
+    (11, None, "'My brave croissant.' 'Brave' describes the croissant. A pet name, nothing more."),
 ]

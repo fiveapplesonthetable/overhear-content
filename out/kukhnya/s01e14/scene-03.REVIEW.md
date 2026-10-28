@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, why did you come here today?' 'Mam' is the short form of 'mama', used when you call to your mother. 'Prishla' is 'came', and it ends in 'la' because Vika is a woman.
+- 'Mom, why did you come here today?' Children call out 'mam', the short form of 'mama'. The 'la' on 'prishla' shows that Vika is a woman.
 - 'What do you want with that strange teenager?' 'Zachem tebe' is literally 'what for to you', which means 'what do you need him for?'. 'Tinejdzher' is the English word, with Russian spelling.
 - 'Max is a serious guy and a good cook.' There is no 'is'. 'Seryozny' is 'serious', and 'paren' is 'guy', a word for a young man.
-- 'Why do you always go to extremes?' 'Vechno' is 'eternally' and it means 'always', in a grumbly way. 'Krayu' is 'edge', so 'krainosti' are 'extremes', things at the edge.
-- 'This is my life, and I decide myself.' 'Sama' ends in 'a' again, because Vika is a woman. 'Reshayu' is 'I decide'. 'Zhizn' is feminine, so 'moya' ends in 'a'.
+- 'Why do you always go to extremes?' 'Vechno' is literally 'eternally', a grumbly way to say 'always'. 'Extremes' grows from 'kray', the edge.
+- 'This is my life, and I decide myself.' The 'sama' ends in 'a' because Vika is a woman. Life is feminine in Russian, so 'my' takes an 'a'.
 - 'First married men, then kids, kids right away.' 'To ... to' is 'now ... now' or 'first ... then'. 'Zhenatiki' is a slightly mocking word for married men.
 - 'Stop criticizing me every single day!' 'Khvatit' is 'enough', from a word meaning 'to be sufficient'. 'Kazhdy den' is 'every day'.
 - 'Tell me, did you enrol the guy in school?' She says it sarcastically, because Max isn't a child. 'Zapisala v shkolu' is 'registered in school', and 'parnya' is 'guy' as the one being registered.
-- 'I do not want to discuss this now.' 'Obsuzhdat' is 'to discuss' and the little word 'eto' is 'this'.
+- 'I do not want to discuss this now.' Vika keeps the sentence short, as if shutting a door. 'Obsuzhdat' is the Russian for discussing a topic, and 'eto' is 'this'.
 - 'Otherwise I could have helped you.' 'A to' means 'or else', and 'mogla by' means 'could', with the tiny word 'by' making the 'would'. 'Vam' is 'to you', plural.
 - 'Mom, please, just leave from here.' This time she says the long 'mama', which sounds less friendly. 'Ukhodi' is 'go away', and 'otsyuda' is 'from here'.
-- 'Alright, I will leave you in peace for now.' 'V pokoe' is 'in peace'. 'Ostavlyu' is 'I'll leave', and 'poka' means 'for now'.
+- 'Alright, I will leave you in peace for now.' Russians leave someone 'in peace', 'v pokoe'. 'Poka' means 'for now', which is also how Russians say 'bye'.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this in my dessert?' Russian says 'at me in the dessert', which is how you describe what happens to you. The question has no 'is' in it.
+- 'What is this in my dessert?' Russian says 'at me in the dessert', which is how you describe what happens to you. There's no 'is' in the question.
 - 'I almost broke a tooth because of you!' The two words 'chut ne' together mean 'almost', and the speaker really does mean 'barely not'. 'Because of you' is polite, in the plural form.
 - 'Please forgive us.' 'Prostite' is how you say sorry to more than one person, or to a person you respect. Louis uses it to the whole room.
 - 'First, learn to speak Russian!' The guest puts the object first, 'in Russian to speak learn'. The order for 'learn' ends in 'is', which is a rude way to speak to a stranger.
 - 'Why did you come here?' 'Priekhal' means 'came by vehicle', and the ending 'l' is a man's. Russian pairs each kind of movement with its own word.
-- 'So people would break their teeth?' 'Chtoby' means 'in order that', and the next action is in the past form, 'broke'. The rude question needs no 'so that' in English.
-- 'I am the pastry chef, it is my fault.' The word for 'fault' looks exactly like the word for 'of wine', 'vina', but here it means blame. Louis owns up at once, in two short pieces.
-- 'Leave the pastry chef alone.' 'V pokoe' is 'in peace', and 'ostavte' is 'leave'. The pastry chef takes an 'a' on the end.
-- 'And who are you?' 'Kto takoy' is 'who such', and it's pointed. A guest uses it when he wants to know what right you have.
+- 'So people would break their teeth?' 'Chtoby' means 'in order that', and the next action goes in the past, 'broke'. The rude question needs no 'so that' in English.
+- 'I am the pastry chef, it is my fault.' 'Vina' looks like 'of wine' but here it means blame. Louis owns up in two short pieces.
+- 'Leave the pastry chef alone.' Russians leave someone 'in peace', 'v pokoe'. The pastry chef gets his 'a' as the one left.
+- 'And who are you?' 'Kto takoy' is literally 'who such', and it's pointed. A guest uses it when he wants to know what right you have.
 - 'I am the head chef of this restaurant.' 'Etogo restorana' is 'of this restaurant', with 'ogo' showing the 'of'. Lyova claims the job with one short sentence.
-- 'I am responsible for everything in the kitchen.' The word for 'responsible' comes from 'to answer', so he literally says 'I answer for everything'. 'Na kukhne' is 'in the kitchen'.
-- 'Do you have complaints against me?' 'U vas est' is 'at you there is', which means 'do you have'. 'Ko mne' is 'to me', with the 'o' added to make it easy to say.
+- 'I am responsible for everything in the kitchen.' 'Responsible' comes from 'to answer', so he literally says 'I answer for everything'. Russians say 'on the kitchen'.
+- 'Do you have complaints against me?' Literally, 'at you is there', which means 'do you have'. 'To me' becomes 'ko mne', with an 'o' that makes it easier to say.
 - 'Here is my complaint, hold it.' 'Derzhite' is 'hold!', for a guest. The guest hands over the SIM card as his complaint.
-- 'Delicious dessert, thank you very much.' The word for 'big' goes with 'thanks', so it's 'big thanks'. Louis says it because he is so relieved.
+- 'Delicious dessert, thank you very much.' Russians say 'big thanks', 'bolshoe spasibo', where English says 'thank you very much'. Louis is simply relieved.

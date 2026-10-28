@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why a croissant?' Max repeats her answer as a question. It works like a mini echo.
 - 'I don't eat flour products.' 'Muchnoe' means 'floury things' and grows from 'muka', flour. 'Ne em' is 'I don't eat', and 'zhe' says 'after all'.
 - 'You saved our restaurant.' 'Spas' is 'saved', and 'nash restoran' stays the same because it is the thing saved. A short, grateful sentence.
-- 'You did great, Max.' 'Molodets' is 'good lad', and it's for men. For a woman Russians would say 'molodets' too.
+- 'You did great, Max.' 'Good lad' is a word for praising a man. Russians use the same word for a woman, too.
 - 'I just did my job.' 'Svoyu rabotu' is 'my own job', with 'u' endings. Max is modest, or tries to be.
 - 'No, it was cool.' 'Kruto' means 'cool' in slang, and it literally means 'steeply'. 'Eto bylo' is 'this was'.
 - 'You helped me a lot.' 'Pomog mne' is 'helped to me', so the helped person goes in the 'to' form. 'Ochen' is 'very'.
-- 'Thank you.' 'Spasibo tebe' is 'thanks to you', and the 'tebe' makes it personal. It's what you'd say to a friend.
-- 'My brave croissant.' 'Khrabry' means 'brave', and it describes the croissant. A pet name, nothing more.
+- 'Thank you.' 'Thanks to you' is the full Russian, and the 'to you' makes it personal. It's what you'd say to a friend.
+- 'My brave croissant.' 'Brave' describes the croissant. A pet name, nothing more.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim did great.' Kostya uses the long form of Max's name, which sounds a little proud. 'Molodets' means 'good lad', and it is the usual word for praising a man.
-- 'He helped Vika.' 'Pomog' means 'helped', and the helped person goes in the 'e' form, 'Vike', which is 'to Vika'.
-- 'He saved the evening.' 'Spas' is 'saved', and 'vecher' is 'evening'. The sentence is as short as it can be.
-- 'Yeah, she said awful things.' 'Nagovorila' is 'talked a lot', with the 'na' meaning a big amount. 'Gadosti' are 'nasty things'.
-- 'All sorts of awful things to him.' She leaves out the action. 'Emu vsyakie gadosti' is 'to him all kinds of nasty things', and the verb is understood.
+- 'Maxim did great.' Kostya uses the long form of Max's name, which sounds a little proud. 'Good lad' is the word for praising a man.
+- 'He helped Vika.' 'Helped' wants the person in the 'to' form, so 'Vika' becomes 'Vike'. English just says 'helped Vika'.
+- 'He saved the evening.' 'Spas' is just 'saved', and 'vecher' is 'evening'. The sentence is as brief as can be.
+- 'Yeah, she said awful things.' 'Nagovorila' has a 'na' that means a big amount, so she said a whole pile. 'Gadosti' is 'awful things'.
+- 'All sorts of awful things to him.' She leaves out the action. It's 'to him all kinds of nasty things', and the verb is understood.
 - 'And she feels terrible.' Russian says 'to her very ashamed', with 'ey' for 'to her'. Shame is something that happens to you.
 - 'So how's she going to make it right?' 'Ispravit' means 'correct' or 'put right'. 'A kak zhe' is 'and how then'.
 - 'What will she do?' 'Budet delat' is 'will do', made of 'will be' and 'do'. It's the usual way for a longer action.
-- 'Ah, vodka.' It's the same word as in English, and Russians say it with the 'a' sound of recognition first. Nastya has guessed.
-- 'She will pour him vodka.' 'Nalyot' is 'she'll pour', and the vodka takes an 'i' ending as 'some vodka'. 'Emu' is 'to him'.
-- 'That's a good plan.' 'Khoroshiy plan' is the plain phrase, and Russians use it just as English does.
+- 'Ah, vodka.' It's the same word as in English, and Russians say it with an 'a' of recognition first. Nastya has guessed.
+- 'She will pour him vodka.' 'Nalyot' is 'she will pour', and vodka takes an 'i' as 'some vodka'. 'To him' is the little 'emu'.
+- 'That's a good plan.' It's the plain phrase, and Russians use it exactly as English does. 'Good' ends in the man's ending, since 'plan' is masculine.
 - 'She knows what to do.' 'Chto delat' is 'what to do', as a question word with the basic form after it. 'Znaet' is 'she knows'.

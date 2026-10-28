@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Gentlemen, here are your rare French dishes.' 'Gospoda' is the plural of 'gospodin', 'sir' or 'gentleman'. 'Vot vashi' is 'here are your'.
 - 'Wow, how beautifully the hot meat lies!' 'Ogo' is a cheerful 'wow'. Russians say that food 'lies', 'lezhit', on a plate, where English says 'sits'. 'Goryachee' is neuter, like 'myaso'.
-- 'Our cook tried to prepare a real masterpiece.' 'Staralsya' is 'tried' with the 'sya', and 'prigotovit' is 'to prepare'. 'Shedevr' is the same word as the French 'chef-d'oeuvre'.
-- 'The fish also looks incredibly appetizing and tasty.' 'Tozhe' means 'also'. 'Vyglyadit' is 'looks', and 'appetitno' is the adverb that follows it.
-- 'We always use only the best products.' 'Ispolzuem' is 'we use'. 'Samye luchshie' is 'the very best', where 'samye' means 'the most' and 'luchshie' is the plural.
-- 'Pass on our sincere gratitude to the head chef.' 'Peredayte' is the polite order 'pass on!'. 'Iskrennyuyu blagodarnost' is 'sincere gratitude', and it's a set phrase for official thanks.
-- 'I will certainly tell him these pleasant words.' 'Skazhu emu' is 'I'll say to him', with 'emu' for 'to him'. 'Priyatnye' means 'pleasant', and it's from the word in 'priyatnogo appetita'.
+- 'Our cook tried to prepare a real masterpiece.' 'Staralsya' has the 'sya' of 'tried himself'. 'Shedevr' is the French 'chef-d'oeuvre', shortened.
+- 'The fish also looks incredibly appetizing and tasty.' 'Tozhe' means also. After 'looks', Russian puts 'appetitno' in its adverb shape.
+- 'We always use only the best products.' 'Samye luchshie' is 'the very best', stacked up on purpose. 'Samye' means the most, and 'luchshie' is the plural.
+- 'Pass on our sincere gratitude to the head chef.' The polite order 'pass on!' ends in 'ite'. 'Sincere gratitude' is a set phrase for official thanks.
+- 'I will certainly tell him these pleasant words.' 'Emu' is 'to him'. 'Pleasant' grows from the same root as the 'priyatnogo' of 'bon appetit'.
 - 'We want to order another bottle of wine.' 'Butylku vina' is 'a bottle of wine', and 'wine' takes an 'a' ending, like 'of wine'. 'Eshchyo' means 'another'.
 - 'I will quickly bring your wine right now.' Wine is a neuter word, so 'your' has the neuter ending 'e'. Kostya uses the polite 'your', as one should to guests.
 - 'Thank you for your wonderful work here.' 'Spasibo za' is 'thanks for', and what follows takes 'u' on 'rabotu', like 'for your work'. The guest uses the polite 'vash'.
 - 'Bon appetit and have a good evening!' Wishes in Russian use an 'of', so 'good evening' is 'khoroshego vechera', 'of a good evening'. 'Vam' at the end is 'to you'.
 - 'Thank you, we will definitely return here again.' 'Vernyomsya' is 'we will return', with 'sya' meaning 'ourselves'. 'Snova' is 'again'.
-- 'We are always very glad to see you!' 'Rady' means 'glad', and it's a plural form because the speaker is 'we'. 'Videt vas' is 'to see you'.
+- 'We are always very glad to see you!' 'Rady' is the plural of 'glad', since the speaker is 'we'. 'To see you' takes 'vas', the form that follows 'see'.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, are you awake already today?' Russian asks 'have you woken up', using the past form, where English says 'are you awake'. The woken-up word ends in 'las' because Vika is a woman.
-- 'Yes, I have not been sleeping for a long time.' Russian just says 'for a long time I don't sleep', in the present. English needs 'have been', but Russian is happy with the plain present. 'Davno' is the word for 'for a long time'.
-- 'Why did you get up so early?' The word for 'got up' is literally 'stood up', and it's built from the word for 'stand'. 'Rano' is 'early'.
+- 'Vika, are you awake already today?' English asks 'are you awake', but Russian asks 'have you woken up', and uses a past form for it. The 'las' on the end shows Vika is a woman.
+- 'Yes, I have not been sleeping for a long time.' Literally, 'for a long time I don't sleep'. A plain present covers what English needs 'have been' for, and 'davno' carries the 'long time'.
+- 'Why did you get up so early?' Getting up is literally 'standing up', built on the verb 'to stand'. 'Rano' is early.
 - 'I have a lot of things today.' 'Del' is 'of things' or 'of affairs', which is the plural of 'delo' with the ending chopped off. It follows 'many', as Russian puts the counted thing in a special shape.
-- 'And what about our tasty breakfast?' 'A kak zhe' is a handy way to say 'what about...?' when you remember something. Because 'zavtrak' is masculine, 'tasty' ends in 'y'.
-- 'You can prepare it yourself.' 'Ego' means 'him' or 'it', and here it's the breakfast. In Russian a breakfast is a 'he', so you hear 'cook him'. 'Sam' is 'yourself'.
+- 'And what about our tasty breakfast?' 'A kak zhe' is a handy opener for 'what about...?' when you suddenly remember something. 'Zavtrak' is masculine, so 'tasty' ends in 'y'.
+- 'You can prepare it yourself.' In Russian a breakfast is a 'he', so the 'it' comes out as 'him'. You hear 'cook him yourself', which is odd to English ears.
 - 'Now I am Spider-Man!' 'Chelovek-pauk' is literally 'man-spider', with a hyphen. There's no 'am' in the sentence. 'Seychas' means 'now', and Max shouts it.
 - 'Very funny, but I need to go.' 'Smeshno' is 'funny', with no 'is' and no 'it'. 'Mne nado' is 'to me it's necessary', and 'idti' is 'to go on foot'.
 - 'I am going to get you!' The sentence has no action word: 'seychas ya tebya', literally 'now I you'. Russians leave out the verb when a threat is obvious, like English 'I'll get you!'.
-- 'Max, stop this immediately!' 'Prekrati' is the order 'stop!', for a friend. 'Nemedlenno' means 'without delay', so it's a more formal 'immediately'.
-- 'Alright, I am going to brew coffee for us.' Russians 'boil' coffee, 'varit', rather than 'make' it. 'Idu varit' is 'I go to boil', which is how you say 'I'm off to make'.
+- 'Max, stop this immediately!' Vika's order is the friendly kind, but 'nemedlenno' is formal, literally 'without delay'. The mix of the two makes it sound firm.
+- 'Alright, I am going to brew coffee for us.' Russians boil their coffee, so the word they use is 'varit'. Put 'I go' in front and you have 'I'm off to make some'.
 - 'Before you go take a shower.' 'Poka ty ne skhodish' is literally 'until you don't go', with a 'ne' that English would never add. Russian often puts 'ne' into time clauses like this.

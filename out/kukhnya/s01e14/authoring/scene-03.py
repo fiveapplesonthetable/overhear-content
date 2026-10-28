@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'eleonora': 'Элеонора', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'Vika has a visitor at the restaurant: a woman she calls Mum. The woman has plenty to say about Max. Here is their talk in Russian first.'
-OPENER = "Let's go through it again, a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika's mother backs off for now, but she hasn't changed her mind. When you watch, notice how Vika's tone changes. See you next time."
+INTRO = 'Vika has a visitor at the restaurant: a woman she calls Mum. The woman has plenty to say about Max. Hear their talk in Russian before we look closer.'
+OPENER = 'A line at a time now.'
+TRANSITION = 'The whole scene once more, in one piece.'
+OUTRO = "Vika's mother backs off for now, but she hasn't changed her mind. Notice how Vika's tone changes. See you next time."
 CLOSING = ('eleonora', 'Пока!')
 STORY = [
     ('vika', 'Мам, зачем ты пришла сюда сегодня?', 'Mom, why did you come here today?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('eleonora', 'Ладно, я оставлю вас в покое пока.', 'Alright, I will leave you in peace for now.', [], ''),
 ]
 WALK = [
-    (0, None, "'Mom, why did you come here today?' 'Mam' is the short form of 'mama', used when you call to your mother. 'Prishla' is 'came', and it ends in 'la' because Vika is a woman."),
+    (0, None, "'Mom, why did you come here today?' Children call out 'mam', the short form of 'mama'. The 'la' on 'prishla' shows that Vika is a woman."),
     (1, None, "'What do you want with that strange teenager?' 'Zachem tebe' is literally 'what for to you', which means 'what do you need him for?'. 'Tinejdzher' is the English word, with Russian spelling."),
     (2, None, "'Max is a serious guy and a good cook.' There is no 'is'. 'Seryozny' is 'serious', and 'paren' is 'guy', a word for a young man."),
-    (3, None, "'Why do you always go to extremes?' 'Vechno' is 'eternally' and it means 'always', in a grumbly way. 'Krayu' is 'edge', so 'krainosti' are 'extremes', things at the edge."),
-    (4, None, "'This is my life, and I decide myself.' 'Sama' ends in 'a' again, because Vika is a woman. 'Reshayu' is 'I decide'. 'Zhizn' is feminine, so 'moya' ends in 'a'."),
+    (3, None, "'Why do you always go to extremes?' 'Vechno' is literally 'eternally', a grumbly way to say 'always'. 'Extremes' grows from 'kray', the edge."),
+    (4, None, "'This is my life, and I decide myself.' The 'sama' ends in 'a' because Vika is a woman. Life is feminine in Russian, so 'my' takes an 'a'."),
     (5, None, "'First married men, then kids, kids right away.' 'To ... to' is 'now ... now' or 'first ... then'. 'Zhenatiki' is a slightly mocking word for married men."),
     (6, None, "'Stop criticizing me every single day!' 'Khvatit' is 'enough', from a word meaning 'to be sufficient'. 'Kazhdy den' is 'every day'."),
     (7, None, "'Tell me, did you enrol the guy in school?' She says it sarcastically, because Max isn't a child. 'Zapisala v shkolu' is 'registered in school', and 'parnya' is 'guy' as the one being registered."),
-    (8, None, "'I do not want to discuss this now.' 'Obsuzhdat' is 'to discuss' and the little word 'eto' is 'this'."),
+    (8, None, "'I do not want to discuss this now.' Vika keeps the sentence short, as if shutting a door. 'Obsuzhdat' is the Russian for discussing a topic, and 'eto' is 'this'."),
     (9, None, "'Otherwise I could have helped you.' 'A to' means 'or else', and 'mogla by' means 'could', with the tiny word 'by' making the 'would'. 'Vam' is 'to you', plural."),
     (10, None, "'Mom, please, just leave from here.' This time she says the long 'mama', which sounds less friendly. 'Ukhodi' is 'go away', and 'otsyuda' is 'from here'."),
-    (11, None, "'Alright, I will leave you in peace for now.' 'V pokoe' is 'in peace'. 'Ostavlyu' is 'I'll leave', and 'poka' means 'for now'."),
+    (11, None, "'Alright, I will leave you in peace for now.' Russians leave someone 'in peace', 'v pokoe'. 'Poka' means 'for now', which is also how Russians say 'bye'."),
 ]

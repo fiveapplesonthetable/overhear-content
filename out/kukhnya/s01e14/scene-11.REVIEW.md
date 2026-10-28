@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you broke my poor heart!' 'Razbil' is 'smashed', from the word for breaking into pieces. 'Serdtse' is 'heart', and 'bednoe' is 'poor' with an 'oe' ending for a neuter word.
-- 'Wait, let us talk calmly about this.' The word 'about' turns into 'ob' before a vowel, which makes it easier to say. 'Let's talk' is a single word, and Max sounds as coaxing as he can.
+- 'Max, you broke my poor heart!' 'Razbil' means smashed, and it grows from breaking into pieces. 'Poor' ends in 'oe' to go with the neuter 'heart'.
+- 'Wait, let us talk calmly about this.' Before a vowel, 'about' becomes 'ob', which is easier to say. Max coaxes with 'let's talk', which needs only one word.
 - 'You are simply a terrible and vile deceiver!' 'Obmanshchik' is a person who 'obman', deceit, is done by. The 'shchik' ending marks a person who does something.
-- 'I did not want to offend you back then.' The man's form of 'did not want' ends in a bare consonant. The word for 'offend' is the one for hurting feelings, not for causing pain.
+- 'I did not want to offend you back then.' A man says 'ne khotel', with an 'l' for the past. Russian uses its verb for hurting feelings here, and not the one for causing pain.
 - 'You promised to call me every single day.' Russian says 'promised to call' with the second action in its basic form, as English does. 'Every day' is two words and each one is easy to remember.
-- 'I had a huge amount of work.' Russian says 'at me was much work', and 'raboty' has a changed ending after 'many'. 'Bylo' is 'was', in the neuter, because 'mnogo' is neuter.
-- 'Forget my personal phone number forever!' 'Number of phone' is the Russian for 'phone number', and the second word picks up an 'a' ending to say 'of'. 'Forever' is made of 'for' and 'all'.
-- 'Do not be angry, please, listen to me now.' 'Ne zlis' is 'don't get angry', with 'sya' dropped to 's' in the order form. 'Vyslushay' is 'hear me out', with the 'vy' meaning 'to the end'.
-- 'Forget that I even have a phone at all!' 'U menya est' is 'at me there is', the Russian 'I have'. Here 'est' is spoken because the existence of the phone is the point.
-- 'I am sincerely sorry, forgive me, please.' 'Mne zhal' is literally 'to me pity', which is how Russians say 'I'm sorry'. 'Prosti' is 'forgive!'.
-- 'I will never believe you anymore.' 'Poveryu' is 'I'll believe', and the person believed takes 'tebe', so 'I'll believe to you'. 'Bolshe nikogda ne' is the triple 'no more never not'.
-- 'Give me one small last chance.' 'Day' is 'give!', and 'poslednyy' means 'last'. Max's request is small, at least in words.
-- 'Leave immediately, I do not want to listen!' 'Ukhodi' is 'go away!'. 'Ne khochu slushat' is 'I don't want to listen', and the second verb comes in its basic form.
+- 'I had a huge amount of work.' Russian says 'at me was much work', and 'work' takes the 'of' ending after 'much'. 'Was' is neuter, because 'much' is.
+- 'Forget my personal phone number forever!' Russian says 'number of phone' for 'phone number', so 'phone' takes an 'a' ending. 'Forever' is made of 'for' and 'all'.
+- 'Do not be angry, please, listen to me now.' In the order form, the 'sya' of 'get angry' shrinks to 's'. The verb for 'hear me out' gets a 'vy' for 'to the end'.
+- 'Forget that I even have a phone at all!' Russian says 'at me there is a phone', and for once the 'is' is spoken, since the existence of the phone is the point.
+- 'I am sincerely sorry, forgive me, please.' Literally, 'to me pity', which is how Russians say 'I'm sorry'. The friendly order 'forgive!' follows.
+- 'I will never believe you anymore.' You believe 'to' someone in Russian, so 'you' becomes 'tebe'. The triple 'no more never not' follows.
+- 'Give me one small last chance.' Max opens with the order 'give!'. The word for 'last' is 'posledniy', and his request is small, at least in words.
+- 'Leave immediately, I do not want to listen!' The order 'go away!' is a friend's. After 'I don't want', the verb 'listen' keeps its basic shape, as in English.

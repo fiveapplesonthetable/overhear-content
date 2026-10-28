@@ -28,15 +28,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Guys, let's work faster.' 'Rebyata' is the friendly plural for 'guys', with no singular in common use. 'Davayte' is the plural 'let's', for a group.
-- 'We still have three dishes.' 'U nas' is 'at us', and it's the Russian 'we have'. After 'three', the word for 'dish' takes a special ending, 'blyuda'.
-- 'We will do everything now.' 'Sdelaem' is one word for 'we will do'. 'Seychas' is 'now', and it can mean 'in a moment'.
+- 'We still have three dishes.' 'At us' means 'we have'. After the number three, 'dish' becomes 'blyuda'.
+- 'We will do everything now.' 'Sdelaem' is a single word for 'we will do'. 'Seychas' can mean 'now' or 'in a moment'.
 - 'Well, why are you standing?' 'Chego' is a casual way to ask 'why', literally 'of what'. Senya says it in the voice of a mate.
 - 'The chef said to work faster.' 'Skazal' is followed by the action in its basic form, so it's 'said to work'. It reports an order without repeating it.
 - 'Well done, Lyova.' 'Molodets' comes from 'molodoy', young, and it means 'good lad'. Russians use it for praise.
-- 'You are a good chef.' There is no 'are'. It's 'you good chef', and 'khoroshiy' is the word for 'good'.
+- 'You are a good chef.' There's no 'are'. It's 'you good chef', and the ending on 'good' shows that the chef is a man.
 - 'Yes, well done.' Lyova repeats it. In Russian you can return a compliment by echoing it.
-- 'Well, are we switching on Terminator mode?' 'Vklyuchaem' means 'switch on', and it's used for lights, machines and modes. 'Rezhim terminatora' is 'mode of terminator', with an 'a' for the 'of'.
-- 'Yes, we are switching it on.' Russians answer a question by repeating its action word. No separate word for 'yes' is needed, though 'da' comes first.
+- 'Well, are we switching on Terminator mode?' 'Vklyuchat' is used for lights, machines and modes alike. 'Mode of terminator' becomes 'terminatora' with an 'a' for 'of'.
+- 'Yes, we are switching it on.' Russians answer by repeating the action word. A separate 'yes' isn't needed, though 'da' comes first.
 - 'Then faster to work.' 'Za rabotu' is the idiom for 'to work!', as in 'get to work'. It has no verb in it.
 - 'The Terminator is ready to cook food.' 'Gotov' and 'gotovit' come from the same root, so 'ready to cook' literally sounds like 'ready to ready'. It's a small pun in the original.
 - 'Excellent, let's go faster.' 'Otlichno' is an adverb for 'excellent', which Russians shorten into a quick word of approval. 'Davayte' is 'let's'.
