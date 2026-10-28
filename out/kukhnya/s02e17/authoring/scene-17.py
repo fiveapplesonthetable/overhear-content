@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e17-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 17
-TITLE = 'Цепная реакция разоблачений  (A Chain Reaction of Revelations)'
+TITLE = "Цепная реакция разоблачений  (A Chain Reaction of Revelations)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Шеф', 'kostya': 'Костя', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = "Devastated by what he just overheard, Max punches Kostya in the corridor as Nastya cries that Kostya betrayed her with Sasha. Trying to explain himself, Kostya accidentally blurts out 'And Kostya too'—revealing that Sasha had previously cheated on Max with Ilya as well."
 
 STORY = [
-    ('anya', 'За что?', 'What was that for?', [(275, 'За что')], ''),
-    ('kostya', 'Он еще спрашивает, за что?', 'He still has the nerve to ask what for?', [(276, 'Он еще спрашивает, за что')], ''),
-    ('sasha', 'Костя мне изменяет, он под Сашей.', 'Kostya is cheating on me, he slept with Sasha.', [(277, 'Костя мне изменяет, он под Сашей')], ''),
-    ('anya', 'Вы что орете?', 'Why are you all screaming out here?', [(277, 'Вы что орете')], ''),
-    ('kostya', 'И Костя тоже.', 'And Kostya too.', [(278, 'И Костя тоже')], ''),
-    ('sasha', 'Я сейчас все объясню.', 'I will explain everything right now.', [(279, 'Я сейчас все объясню')], ''),
-    ('anya', 'Что значит тоже?', "What do you mean, 'too'?", [(280, 'Что значит тоже')], ''),
-    ('kostya', 'Да не тоже.', "No, not 'too'.", [(280, 'Да не тоже')], ''),
-    ('sasha', 'Саша изменила тебя с Ильей.', 'Sasha cheated on you with Ilya.', [(281, 'Саша изменила тебя с Ильей')], ''),
-    ('anya', 'Я давно тебе об этом хотел сказать.', 'I wanted to tell you about it a long time ago.', [(282, 'Я давно тебе об этом хотел сказать')], ''),
-    ('kostya', 'Кто еще не переспал Саша, а?', 'Who else has not slept with Sasha yet, huh?', [(284, 'Кто еще не переспал Саша, а')], ''),
-    ('sasha', 'Шеф, этот козел Сашей переспал.', 'Chef, this bastard slept with Sasha.', [(286, 'Шеф, этот козел Сашей переспал')], ''),
-    ('anya', 'Это правда.', 'It is the truth.', [(288, 'Это правда')], ''),
+    ('chef', 'За что?', 'What was that for?', [(275, 'За что')], ''),
+    ('chef', 'Он еще спрашивает, за что?', 'He still has the nerve to ask what for?', [(276, 'Он еще спрашивает, за что')], ''),
+    ('chef', 'Костя мне изменяет, он под Сашей.', 'Kostya is cheating on me, he slept with Sasha.', [(277, 'Костя мне изменяет, он под Сашей')], ''),
+    ('chef', 'Вы что орете?', 'Why are you all screaming out here?', [(277, 'Вы что орете')], ''),
+    ('chef', 'И Костя тоже.', 'And Kostya too.', [(278, 'И Костя тоже')], ''),
+    ('chef', 'Я сейчас все объясню.', 'I will explain everything right now.', [(279, 'Я сейчас все объясню')], ''),
+    ('chef', 'Что значит тоже?', "What do you mean, 'too'?", [(280, 'Что значит тоже')], ''),
+    ('chef', 'Да не тоже.', "No, not 'too'.", [(280, 'Да не тоже')], ''),
+    ('chef', 'Саша изменила тебя с Ильей.', 'Sasha cheated on you with Ilya.', [(281, 'Саша изменила тебя с Ильей')], ''),
+    ('chef', 'Я давно тебе об этом хотел сказать.', 'I wanted to tell you about it a long time ago.', [(282, 'Я давно тебе об этом хотел сказать')], ''),
+    ('chef', 'Кто еще не переспал Саша, а?', 'Who else has not slept with Sasha yet, huh?', [(284, 'Кто еще не переспал Саша, а')], ''),
+    ('chef', 'Шеф, этот козел Сашей переспал.', 'Chef, this bastard slept with Sasha.', [(286, 'Шеф, этот козел Сашей переспал')], ''),
+    ('chef', 'Это правда.', 'It is the truth.', [(288, 'Это правда')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 17 of Episode 17, listen out for the exchange around a chain reaction of revelations — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Это правда.')
+OUTRO = 'That wraps up this scene as max punches Kostya in the corridor, and as Kostya tries to defend himself, he accidentally blurts out that Sasha had also cheated on Max with Ilya. Until next time!'
+CLOSING = ("chef", "До встречи!")

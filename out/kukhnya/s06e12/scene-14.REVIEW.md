@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Настя | Ведь у нас сегодня вечером годовщина нашей свадьбы. | Because tonight is our wedding anniversary. | #229 00:15:28: у нас годовщина свадьбы сегодня | adapted: adapted |
 | 8 | Настя | Если сейчас поедим, то романтический ужин не поместится. | If we eat now, there will be no room for our romantic dinner. | #230 00:15:31: то романтический ужин не поместится | adapted: adapted |
 | 9 | Никита | А я заберу все остатки макарон себе домой. | And I will take all the leftover pasta home for myself. | #231 00:15:34: потому что я все остатки заберу<br>#232 00:15:38: Домой | adapted: adapted |
-| 10 | Аня | Ну как суп, скажите, вам всё сегодня понравилось? | Well how was the soup, tell me, did you like everything today? | #233 00:15:45: Ну как? Вам все понравилось | adapted: adapted |
+| 10 | Никита | Ну как суп, скажите, вам всё сегодня понравилось? | Well how was the soup, tell me, did you like everything today? | #233 00:15:45: Ну как? Вам все понравилось | adapted: adapted |
 | 11 | Настя | Да, большое спасибо, суп был очень вкусный. | Yes, thank you very much, the soup was very tasty. | #234 00:15:48: Да, спасибо | adapted: adapted |
-| 12 | Аня | Тогда скажите мне результаты всех договорных матчей! | Then tell me the results of all the fixed matches! | #235 00:15:50: Ну тогда скажите мне результаты всех договорных матчей, которые вы знаете | adapted: adapted |
+| 12 | Никита | Тогда скажите мне результаты всех договорных матчей! | Then tell me the results of all the fixed matches! | #235 00:15:50: Ну тогда скажите мне результаты всех договорных матчей, которые вы знаете | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, Kostya and I will not have lunch today.' Nikita anchors the line on 'no', while 'will' completes the thought.
 - 'Because tonight is our wedding anniversary.' The grammar packs 'after all' and 'wedding' into a tight, idiomatic kitchen exchange.
 - 'If we eat now, there will be no room for our romantic dinner.' Nastya anchors the line on 'if', while 'will fit' completes the thought. Nikita answers right away.
-- 'And I will take all the leftover pasta home for myself.' The grammar packs 'and' and 'home' into a tight, idiomatic kitchen exchange.
+- 'And I will take all the leftover pasta home for myself.' Here Nikita anchors the thought on 'will take' and finishes on 'home', keeping the spoken rhythm brisk and natural.
 - 'Well how was the soup, tell me, did you like everything today?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'pleased'.
 - 'Yes, thank you very much, the soup was very tasty.' The '-l' ending on the verb meaning 'was' places the action in the masculine past tense. Chef Barinov answers right away.
 - 'Then tell me the results of all the fixed matches!' Chef Barinov brings out the contrast between 'then' and 'say' in a few short words.

@@ -27,10 +27,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello, my dears, here I am at home!' Max walks in beaming, convinced he has solved the shawl problem.
 - 'Vika, how did you forget Mom's shawl at work?' Max pretends Vika spent the day knitting at the restaurant.
-- 'Mom, Vika knitted a new shawl for you today!' Dative pronoun 'for you' marks the recipient of the brand-new shawl.
-- 'And that old shawl fell apart completely.' Reflexive past verb 'fell apart' explains why the original shawl is gone.
+- 'Mom, Vika knitted a new shawl for you today!' Notice how Russian puts 'mom' and 'to tie up, to bind' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And that old shawl fell apart completely.' Here Max anchors the thought on 'old' and finishes on 'to completely', keeping the spoken rhythm brisk and natural.
 - 'Thank you very much, my goodness, what a beauty this is!' Max's mother admires the store-bought shawl.
-- 'It is not hard for Vika at all, she knits very fast!' Dative 'for Vika' pairs with the predicative adverb 'not hard'.
+- 'It is not hard for Vika at all, she knits very fast!' Max pairs 'Vika' with 'fast' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'That is not true, in fact I knit very slowly.' Embarrassed by the lie, Vika tries to tone down Max's boasting.
 - 'Vika, why, you simply have golden hands!' The idiom 'golden hands' praises someone with remarkable craftsmanship.
 - 'Wait, and just what is this lying here?' Suddenly Max's mother spots a pair of men's briefs that clearly do not belong to Max.

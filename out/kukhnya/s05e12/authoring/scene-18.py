@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e12-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 12
 SCENE = 18
-TITLE = 'Кто подменил кулон  (Who Swapped the Pendant)'
+TITLE = "Кто подменил кулон  (Who Swapped the Pendant)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "senya": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.12'
 SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 
 INTRO = "Upstairs, Max bursts into Vika's room and humiliates himself by accusing the masseur of being a male escort. Down in the kitchen, Chef Barinov furiously demands to know why a ring appeared in his box instead of a pendant, and Max tells him they gave him a chance to do the right thing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings the kitchen confrontation to a close. Pay attention to Max's bold advice telling Chef Barinov to be thankful he was given a chance to do the right thing. See you in the next scene."
-CLOSING = ('anya', 'Поступи правильно, шеф!')
+OUTRO = "That brings the kitchen confrontation to a close. Pay attention to Max's bold advice telling Chef Barinov to be thankful he was given a chance to do the right thing. See you next time!"
+CLOSING = ("anya", "Хорошего дня!")

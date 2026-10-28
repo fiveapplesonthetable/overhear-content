@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не волнуйтесь, даже не волнуйтесь, денег не возьму. | Do not worry, do not even worry, I will not charge you a ruble. | #276 00:16:54: Не волнуйтесь, даже не волнуйтесь, денег не возьму | verbatim |
-| 2 | Вика | Да, это важно, важно. | Yes, that is very important. | #277 00:16:57: Да, это важно, важно | verbatim |
+| 1 | Шеф | Не волнуйтесь, даже не волнуйтесь, денег не возьму. | Do not worry, do not even worry, I will not charge you a ruble. | #276 00:16:54: Не волнуйтесь, даже не волнуйтесь, денег не возьму | verbatim |
+| 2 | Нагиев | Да, это важно, важно. | Yes, that is very important. | #277 00:16:57: Да, это важно, важно | verbatim |
 | 3 | Нагиев | Совершенно бесплатно. | Completely free of charge. | #277 00:16:57: Совершенно бесплатно | verbatim |
-| 4 | Аня | Елена Павловна. | Elena Pavlovna. | #278 00:17:00: Елена Павловна | verbatim |
-| 5 | Вика | Как считаете? | What do you think? | #279 00:17:02: как считаете | verbatim |
+| 4 | Шеф | Елена Павловна. | Elena Pavlovna. | #278 00:17:00: Елена Павловна | verbatim |
+| 5 | Нагиев | Как считаете? | What do you think? | #279 00:17:02: как считаете | verbatim |
 | 6 | Нагиев | Это то. | That sounds great. | #280 00:17:06: Это то | verbatim |
-| 7 | Аня | Я говорю. | That is what I am saying. | #283 00:17:12: Я говорю | verbatim |
-| 8 | Вика | А попробуйте. | Give it a try. | #284 00:17:17: А попробуйте | verbatim |
+| 7 | Шеф | Я говорю. | That is what I am saying. | #283 00:17:12: Я говорю | verbatim |
+| 8 | Нагиев | А попробуйте. | Give it a try. | #284 00:17:17: А попробуйте | verbatim |
 | 9 | Нагиев | Я там это, на кухне, перехвачу. | I will just go check on things in the kitchen first. | #285 00:17:19: Я там это, на кухне, перехвачу | verbatim |
-| 10 | Аня | Извините, простите. | Excuse me, pardon me. | #287 00:17:32: Извините, простите | verbatim |
-| 11 | Вика | Виктор Петрович. | Viktor Petrovich. | #288 00:17:34: Виктор Петрович | verbatim |
+| 10 | Шеф | Извините, простите. | Excuse me, pardon me. | #287 00:17:32: Извините, простите | verbatim |
+| 11 | Нагиев | Виктор Петрович. | Viktor Petrovich. | #288 00:17:34: Виктор Петрович | verbatim |
 | 12 | Нагиев | Дмитрий Владимирович просил передать. | Dmitry Vladimirovich asked me to pass this on. | #289 00:17:37: Дмитрий Владимирович просил передать | verbatim |
-| 13 | Аня | С дороги! | Out of the way! | #290 00:17:40: С дороги | verbatim |
+| 13 | Шеф | С дороги! | Out of the way! | #290 00:17:40: С дороги | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry, do not even worry, I will not charge you a ruble.' Notice the reflexive suffix on the verb meaning 'worry', turning the action back on the subject. Vika answers right away.
+- 'Do not worry, do not even worry, I will not charge you a ruble.' Chef Barinov pairs 'worry' with 'will get' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Yes, that is very important.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'important'.
 - 'Completely free of charge.' Dmitry brings out the contrast between 'completely' and 'for free' in a few short words.
 - 'Elena Pavlovna.' The meaning hinges on 'Elena' working together with 'Pavlovna' in spoken Russian. Vika answers right away.

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 2
 TITLE = "L'arrivée d'Isabelle Adjani  (Adjani Arrives)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"isabelle": "Isabelle", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'isabelle': 'Isabelle', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the ASK offices, acclaimed French screen star Isabelle Adjani arrives to meet her agents. When Andréa mentions that young visionary director Sacha Hartman has a magnificent part for her, Isabelle expresses interest while insisting on proper artistic protocol. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa pitches the exciting new role to Isabelle Adjani."
 TRANSITION = "Now let's listen to Andréa and Isabelle's elegant exchange again at full speed."
 OUTRO = 'Isabelle agrees to meet Sacha Hartman, on the condition that Andréa acts with utmost discretion. Andréa immediately hurries to her office to arrange the high-profile meeting. See you next time!'
-CLOSING = ("isabelle", "Bonne soirée!")
+CLOSING = ('isabelle', 'Bonne soirée!')
 STORY = [
     ('lea', "Bonjour Isabelle, tu vas bien aujourd'hui?", 'Hello Isabelle, are you doing well today?', [(22, '-Bonjour, Isabelle. -Bonjour.'), (23, '-Tu vas bien ? -Très bien.')], ''),
     ('isabelle', 'Très bien, Andréa, merci beaucoup.', 'Very well, Andréa, thank you very much.', [(23, '-Très bien.')], ''),

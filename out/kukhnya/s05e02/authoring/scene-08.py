@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e02-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 8
 TITLE = "Опасный вопрос Кости для Насти  (Kostya's Dangerous Question for Nastya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 
 INTRO = 'To prove to Denis that any woman would forgive a breakup fling if told honestly, Kostya asks Nastya a supposedly hypothetical question—which backfires immediately. Listen to the conversation.'
 
 STORY = [
-    ('anya', 'Лучше сразу всё ей расскажи.', 'Better tell her everything right away.', [(79, 'лучше расскажи')], 'adapted'),
+    ('kostya', 'Лучше сразу всё ей расскажи.', 'Better tell her everything right away.', [(79, 'лучше расскажи')], 'adapted'),
     ('nastya', 'О чём вы тут говорите?', 'What are you talking about here?', [(80, 'Костик?')], 'adapted'),
-    ('anya', 'Представь, что мы с тобой расстались.', 'Imagine that you and I broke up.', [(81, 'Представь, что мы с тобой расстались')], 'verbatim'),
+    ('kostya', 'Представь, что мы с тобой расстались.', 'Imagine that you and I broke up.', [(81, 'Представь, что мы с тобой расстались')], 'verbatim'),
     ('nastya', 'Ты что, совсем дурак?', 'Are you a complete fool?', [(82, 'Ты дурак?')], 'adapted'),
-    ('anya', 'Да нет, ты просто представь.', 'No, just imagine it.', [(83, 'Да нет, ты представь')], 'adapted'),
-    ('anya', 'Я говорю это чисто образно.', 'I am saying this purely figuratively.', [(84, 'Я образно')], 'adapted'),
-    ('anya', 'Я бы переспал с другой девушкой.', 'Suppose I slept with another girl.', [(85, 'я бы переспал с другой девушкой')], 'verbatim'),
-    ('anya', 'И потом тебе обо всём рассказал.', 'And then told you all about it.', [(85, 'и потом тебе обо всем рассказал')], 'verbatim'),
+    ('kostya', 'Да нет, ты просто представь.', 'No, just imagine it.', [(83, 'Да нет, ты представь')], 'adapted'),
+    ('kostya', 'Я говорю это чисто образно.', 'I am saying this purely figuratively.', [(84, 'Я образно')], 'adapted'),
+    ('kostya', 'Я бы переспал с другой девушкой.', 'Suppose I slept with another girl.', [(85, 'я бы переспал с другой девушкой')], 'verbatim'),
+    ('kostya', 'И потом тебе обо всём рассказал.', 'And then told you all about it.', [(85, 'и потом тебе обо всем рассказал')], 'verbatim'),
     ('nastya', 'Ты что, мне изменил?', 'Wait, did you cheat on me?', [(86, 'Ты что, мне изменил?')], 'verbatim'),
-    ('anya', 'Ну ты же ещё не представила!', 'Well, you have not imagined it yet!', [(87, 'Ну ты же не представила')], 'adapted'),
+    ('kostya', 'Ну ты же ещё не представила!', 'Well, you have not imagined it yet!', [(87, 'Ну ты же не представила')], 'adapted'),
     ('nastya', 'Когда? Когда это было?', 'When? When did that happen?', [(88, 'Когда? Когда это было?')], 'verbatim'),
-    ('anya', 'Этого никогда не было, Настя!', 'That never happened, Nastya!', [(89, 'Этого не было, Настя')], 'adapted'),
+    ('kostya', 'Этого никогда не было, Настя!', 'That never happened, Nastya!', [(89, 'Этого не было, Настя')], 'adapted'),
     ('nastya', 'А теперь боишься мне рассказать, да?', 'And now you are afraid to tell me, right?', [(90, 'А теперь боишься мне рассказать, да?')], 'verbatim'),
     ('nastya', 'Какой же ты трус!', 'What a coward you are!', [(91, 'Трус')], 'adapted'),
 ]
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows how fast Kostya's hypothetical experiment blew up in his face. Notice the imperative 'predstav' meaning 'imagine'. See you in the next scene."
-CLOSING = ('denis', 'Кажется, твой совет совсем не работает.')
+OUTRO = "And that shows how fast Kostya's hypothetical experiment blew up in his face. Notice the imperative 'predstav' meaning 'imagine'. See you next time!"
+CLOSING = ("kostya", "До встречи!")

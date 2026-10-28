@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich is waiting for his fish.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Denis, bring over your culinary masterpiece.' German keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Dmitry Vladimirovich is waiting for his fish.' Here Max anchors the thought on 'is waiting for' and finishes on 'fish', keeping the spoken rhythm brisk and natural.
+- 'Denis, bring over your culinary masterpiece.' In everyday Russian, 'bring' flows straight into 'work of art, creation' without extra linking words.
 - 'German Mikhailovich, do you even know what is going on in the dining room?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'There are guests out there. And everyone is waiting for their orders.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Well, we are cooking. So keep cooking.' German keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Here is the fish.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'There are guests out there. And everyone is waiting for their orders.' Notice how Russian puts 'guests' and 'orders' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Well, we are cooking. So keep cooking.' Here German anchors the thought on 'so, like this' and finishes on 'cook', keeping the spoken rhythm brisk and natural.
+- 'Here is the fish.' Spoken Russian keeps this brief and expressive, built right around 'fish' without extra helper words.
 - 'Excellent. Alright, I will carry it out myself.' German uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'This is the last time I am helping you.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Can you explain this to all of us?' In spoken Russian, Senya omits unnecessary linking verbs so the key idea lands immediately.
-- 'Why does this top scorer of the evaluation not know how to cook at all?' Senya uses natural conversational word order here to highlight the most important part of the reply.
-- 'Guys, I will explain everything to you right now.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'The thing is that Denis is not a cook.' Max places the negative particle directly before the verb or predicate to negate the statement.
+- 'This is the last time I am helping you.' Notice how Russian puts 'last' and 'to help' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Can you explain this to all of us?' In spoken Russian, the words stay in their normal statement order and Senya's rising voice at the end turns the line into a question.
+- 'Why does this top scorer of the evaluation not know how to cook at all?' In everyday Russian, 'why' flows straight into 'knows how to' without extra linking words.
+- 'Guys, I will explain everything to you right now.' Max pairs 'guys, lads, kids' with 'will explain' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'The thing is that Denis is not a cook.' Notice how Russian puts 'business' and 'cook' together in a short, direct phrase where word endings show how the ideas connect.

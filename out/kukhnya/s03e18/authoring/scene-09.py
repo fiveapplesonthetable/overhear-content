@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 9
-TITLE = 'Забота о Кате  (Caring About Katya)'
+TITLE = "Забота о Кате  (Caring About Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"katya": "Катя", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "When Katya corners Max and kisses him, Max lacks the courage to tell her the truth and instead invents an excuse: they must hide their feelings so Vika doesn't fire Katya!"
@@ -39,12 +39,12 @@ WALK = [
     (5, None, "'Wait, is all of this because of Vika right now?' The grammar packs 'wait' and 'Vika' into a tight, idiomatic kitchen exchange."),
     (6, None, "'Are you afraid that she will fire both of us?' Katya brings out the contrast between 'you' and 'are afraid' in a few short words. Max answers right away."),
     (7, None, "'I am not worried for myself, but for you.' The negative particle sits right before the verb meaning 'I worry' to negate the statement."),
-    (8, None, "'I do not want you to be left without a job.' Notice the reflexive suffix on the verb meaning 'to remain', turning the action back on the subject."),
+    (8, None, "'I do not want you to be left without a job.' Notice how Russian puts 'want' and 'job, work' together in a short, direct phrase where word endings show how the ideas connect."),
     (9, None, "'Thank you so much for worrying about me.' Katya addresses the listener with the informal singular 'you' alongside 'you worry'. Max answers right away."),
     (10, None, "'Well great, now I am tangled up even worse.' Max anchors the line on 'come on', while 'more strongly' completes the thought."),
     (11, None, "'Chef, did you show her who is boss in the kitchen?' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'kitchen'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Instead of ending things with Katya as Kostya advised, Max's cowardice makes Katya like him even more."
-CLOSING = ('katya', 'Спасибо, что за меня переживаешь.')
+OUTRO = "Instead of ending things with Katya as Kostya advised, Max's cowardice makes Katya like him even more. Until next time!"
+CLOSING = ("katya", "Увидимся!")

@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Вы не подскажете, где найти бармена? | Could you tell me where to find the bartender? | #107 00:08:22: где мне найти бармена | adapted: adapted |
-| 2 | Аня | Кто ходит в бары по утрам? | Who goes to bars in the morning? | #108 00:08:25: Кто ходит в бары по утрам | adapted: adapted |
+| 2 | Гость | Кто ходит в бары по утрам? | Who goes to bars in the morning? | #108 00:08:25: Кто ходит в бары по утрам | adapted: adapted |
 | 3 | Гость | Что вы, я к сыну пришёл. | Not at all, I came to see my son. | #109 00:08:29: Я к сыну пришел | adapted: adapted |
 | 4 | Гость | Он у меня здесь барменом работает. | He works here as a bartender. | #110 00:08:31: здесь барменом работает | adapted: adapted |
-| 5 | Аня | А, так вот же наш Константин. | Ah, well here is our Konstantin. | #112 00:08:36: вот Константин | adapted: adapted |
-| 6 | Костя | Шеф, чего тебе ещё от меня? | Chef, what else do you want from me? | #113 00:08:37: Шеф, чего тебе | adapted: adapted |
+| 5 | Гость | А, так вот же наш Константин. | Ah, well here is our Konstantin. | #112 00:08:36: вот Константин | adapted: adapted |
+| 6 | Гость | Шеф, чего тебе ещё от меня? | Chef, what else do you want from me? | #113 00:08:37: Шеф, чего тебе | adapted: adapted |
 | 7 | Гость | Костя, мы с тобой не договорили. | Kostya, you and I did not finish talking. | #114 00:08:41: мы не договорили | adapted: adapted |
-| 8 | Костя | Мы с вами уже всё сказали. | You and I have already said everything. | #115 00:08:43: И не договорим | adapted: adapted |
-| 9 | Аня | Дети как любимая футбольная команда. | Children are like a favorite soccer team. | #116 00:08:51: любимая футбольная команда | adapted: adapted |
-| 10 | Аня | Ты всегда за них сильно переживаешь. | You always worry a lot about them. | #117 00:08:54: Ты за них переживаешь | adapted: adapted |
-| 11 | Аня | А в ответ получаешь сплошное разочарование. | And in return you get complete disappointment. | #117 00:08:54: сплошное разочарование | adapted: adapted |
+| 8 | Гость | Мы с вами уже всё сказали. | You and I have already said everything. | #115 00:08:43: И не договорим | adapted: adapted |
+| 9 | Гость | Дети как любимая футбольная команда. | Children are like a favorite soccer team. | #116 00:08:51: любимая футбольная команда | adapted: adapted |
+| 10 | Гость | Ты всегда за них сильно переживаешь. | You always worry a lot about them. | #117 00:08:54: Ты за них переживаешь | adapted: adapted |
+| 11 | Гость | А в ответ получаешь сплошное разочарование. | And in return you get complete disappointment. | #117 00:08:54: сплошное разочарование | adapted: adapted |
 | 12 | Гость | Да нет, Костя тут не виноват. | No, Kostya is not at fault here. | #118 00:08:59: Костя не виноват | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, you and I did not finish talking.' The negative particle sits right before the verb meaning 'finished speaking' to negate the statement.
 - 'You and I have already said everything.' Kostya chooses the respectful plural 'you' alongside 'told' to keep a polite distance. Chef Barinov answers right away.
 - 'Children are like a favorite soccer team.' In Russian, the idea of 'children' flows naturally into 'team' without extra filler words.
-- 'You always worry a lot about them.' In Russian, the idea of 'you' flows naturally into 'worry' without extra filler words.
+- 'You always worry a lot about them.' Notice how Russian puts 'always' and 'worry' together in a short, direct phrase where word endings show how the ideas connect.
 - 'And in return you get complete disappointment.' Notice how Russian expresses 'and' and 'disappointment' with crisp inflection rather than helper words. the guest answers right away.
 - 'No, Kostya is not at fault here.' Here the Russian phrasing highlights 'yes' before landing on 'at fault'.

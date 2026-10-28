@@ -28,5 +28,5 @@
 | 14 | `hicham` (Hicham) | Cet enfant est aussi le mien! | That child is mine as well! | 404:Cet enfant est le mien |
 
 ## Part 5 — Outro & Closing
-> Fiercely asserting her bodily autonomy, Andréa rejects Hicham's demands to participate in decisions about her pregnancy. Until next time.
+> Fiercely asserting her bodily autonomy, Andréa rejects Hicham's demands to participate in decisions about her pregnancy. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

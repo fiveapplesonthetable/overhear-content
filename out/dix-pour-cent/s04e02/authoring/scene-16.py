@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 16
-TITLE = "Pardon pour mon agent  (Apology for My Agent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Pardon pour mon agent  (Apology for My Agent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "franck": "marcel", "dylan": "theo"}
-LABELS = {"franck": "Franck", "dylan": "Dylan"}
+VOICES = {'narrator': 'sky', 'franck': 'marcel', 'dylan': 'theo'}
+LABELS = {'franck': 'Franck', 'dylan': 'Dylan'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Outside the community center, Franck Dubosc apologizes to young Dylan for Gabriel's aggressive meddling. Explaining why he remains loyal to his clumsy agent, Franck gently questions Dylan about his secret sessions with a speech therapist. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Franck Dubosc reveals that beneath his popular star persona, he shares the same deep insecurities as young Dylan. When you watch the episode, listen out for the expressions meaning 'sorry' and 'agent'. You'll catch them now. See you next time."
-CLOSING = ("franck", "À demain!")
+OUTRO = "Franck Dubosc reveals that beneath his popular star persona, he shares the same deep insecurities as young Dylan. When you watch the episode, listen out for the expressions meaning 'sorry' and 'agent'. You'll catch them now. See you next time!"
+CLOSING = ('franck', 'À demain!')
 STORY = [
     ('franck', 'Je suis désolé pour mon agent.', 'I am sorry about my agent.', [(837, 'Je suis désolé pour mon agent')], ''),
     ('dylan', 'Il est encore ton agent officiel?', 'Is he still your official agent?', [(838, 'Il est encore ton agent')], ''),

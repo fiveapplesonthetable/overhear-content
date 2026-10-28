@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дошли за счет своей внутренней температуры. | They finished cooking from their own internal heat. | #21 00:01:37: дошли за счет своей внутренней температуры | verbatim |
+| 1 | Костя | Дошли за счет своей внутренней температуры. | They finished cooking from their own internal heat. | #21 00:01:37: дошли за счет своей внутренней температуры | verbatim |
 | 2 | Настя | А рагу какой-то. | And some kind of stew. | #22 00:01:42: а рагу какой-то | verbatim |
-| 3 | Аня | Это у повара. | That is the cook's doing. | #23 00:01:47: Это у повара | verbatim |
+| 3 | Костя | Это у повара. | That is the cook's doing. | #23 00:01:47: Это у повара | verbatim |
 | 4 | Настя | Настя подарил. | Nastya gave it to me. | #26 00:01:59: Настя подарил | verbatim |
-| 5 | Аня | А вы чего здесь околачиваетесь? | Why are the two of you hanging around out here? | #27 00:02:03: А вы чего здесь околачиваетесь | verbatim |
+| 5 | Костя | А вы чего здесь околачиваетесь? | Why are the two of you hanging around out here? | #27 00:02:03: А вы чего здесь околачиваетесь | verbatim |
 | 6 | Настя | Иди учись готовить. | Go learn how to cook properly. | #28 00:02:05: иди учись готовить | verbatim |
-| 7 | Аня | Один компетентный человек сказал. | A very competent person told me. | #29 00:02:08: Один компетентный человек сказал | verbatim |
+| 7 | Костя | Один компетентный человек сказал. | A very competent person told me. | #29 00:02:08: Один компетентный человек сказал | verbatim |
 | 8 | Настя | Что твои овощи аль денте. | That your vegetables are supposed to be al dente. | #29 00:02:08: что твои овощи аль денте | verbatim |
-| 9 | Аня | Как у... | Just like... | #30 00:02:12: Как у | verbatim |
+| 9 | Костя | Как у... | Just like... | #30 00:02:12: Как у | verbatim |
 | 10 | Настя | Я пошел. | I am heading back in. | #31 00:02:15: Я пошел | verbatim |
-| 11 | Аня | Костик, отдай мне свою куртку, пожалуйста. | Kostik, lend me your jacket, please. | #32 00:02:18: Костик, отдай мне свою куртку, пожалуйста | verbatim |
+| 11 | Костя | Костик, отдай мне свою куртку, пожалуйста. | Kostik, lend me your jacket, please. | #32 00:02:18: Костик, отдай мне свою куртку, пожалуйста | verbatim |
 | 12 | Настя | Мне на улицу надо выйти. | I need to step outside for a minute. | #33 00:02:21: Мне на улицу надо выйти | verbatim |
-| 13 | Аня | А что мне за это будет? | And what do I get in return for that? | #34 00:02:24: А что мне за это будет | verbatim |
+| 13 | Костя | А что мне за это будет? | And what do I get in return for that? | #34 00:02:24: А что мне за это будет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

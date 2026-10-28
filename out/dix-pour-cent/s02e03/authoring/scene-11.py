@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 11
 TITLE = "Le planning de Nathalie Baye  (Nathalie Baye's Schedule)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Inside Mathias's office, Noémie presents a clever calendar solution for star client Nathalie Baye. While reviewing the tight shooting dates, personal intimacy and office diplomacy collide. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Noémie demonstrates her logistical genius by aligning two competing film shoots for Nathalie Baye. Meanwhile, her playful chemistry with Mathias continues to test professional office decorum. See you next time!'
-CLOSING = ("noemie", "Au revoir!")
+OUTRO = 'Noémie demonstrates her logistical genius by aligning two competing film shoots for Nathalie Baye. See you next time!'
+CLOSING = ('noemie', 'Au revoir!')
 STORY = [
     ('noemie', "J'ai trouvé une solution pour Nathalie Baye.", 'I found a solution for Nathalie Baye.', [(260, "j'ai trouvé une solution pour Nathalie Baye.")], ''),
     ('mathias', 'Ah, excellent. Montre-moi ça.', 'Ah, excellent. Show me that.', [(261, 'Ah, excellent.')], ''),

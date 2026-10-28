@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Les spectateurs vont admirer ton grand courage. | The viewers will admire your great courage. | 932:C'est très courageux |
 
 ## Part 5 — Outro & Closing
-> Reassured by Gabriel's praise for his artistic courage, Herve prepares to face the critics and the after-party buffet. When you watch the episode, listen out for the expressions meaning 'for being' and 'gone out'. You'll catch them now. See you next time.
+> Reassured by Gabriel's praise for his artistic courage, Herve prepares to face the critics and the after-party buffet. When you watch the episode, listen out for the expressions meaning 'for being' and 'gone out'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

@@ -1,53 +1,46 @@
-ID = "kukhnya-s01e18-scene-15"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e18-scene-15.
+ID = 'kukhnya-s01e18-scene-15'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 15
 TITLE = "Ошибочная бутылка  (The Wrong Bottle)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "leva": "anja", "dima": "angelina"}
-LABELS = {'anya': 'Макс', 'leva': 'Костя', 'dima': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S1.18"
-SOURCE_FILE = "sources/kukhnya/s01/e18.ru.dual.srt"
-SOURCE_NOTE = "Cues 273-294."
-
-INTRO = (
-    "Max discovers Senya was poisoned by their fake cognac. Viktor asks Kostya for a bottle of cognac and accidentally takes the fake one. Let us listen to their conversation in Russian first."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
+SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
+INTRO = 'Max discovers Senya was poisoned by their fake cognac. Viktor asks Kostya for a bottle of cognac and accidentally takes the fake one. Let us listen to their conversation in Russian first.'
+OPENER = 'Now let us examine the conversation line by line.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Max discovers Senya was poisoned by their fake cognac. Viktor asks Kostya for a bottle of cognac and accidentally takes the fake one. Next time you watch the episode, listen for the Russian expressions for 'just' and 'horror' — you will catch every word right away. See you next time!"
+CLOSING = ("anya", "Пока!")
 STORY = [
-    ('anya', 'Костя, это просто ужас!', 'Kostya, this is just a nightmare!', [(273, 'Костян, это пипец.')], 'adapted'),
-    ('anya', 'Сеня отравился нашим коньяком.', 'Senya got poisoned by our cognac.', [(281, 'что Сеня отравился этим коньяком.')], 'adapted'),
-    ('leva', 'О нет, что делать?', 'Oh no, what to do?', [], 'adapted'),
-    ('dima', 'Костя, дай мне бутылку коньяка.', 'Kostya, give me a bottle of cognac.', [(275, 'Костя, дай мне бутылочку коньяка.')], 'adapted'),
-    ('dima', 'Ту, которая стоит справа.', 'The one that stands on the right.', [(276, 'А вон иксо, дай. Правее.')], 'adapted'),
-    ('leva', 'Вот эту бутылку?', 'This bottle right here?', [(277, 'Нет, правее. Это?')], 'adapted'),
-    ('dima', 'Нет, дай мне другую. Да, эту.', 'No, give me another one. Yes, this one.', [(278, 'Эту бутылку?'), (279, 'Эту бутылку.')], 'adapted'),
-    ('anya', 'Шеф забрал наш коньяк!', 'Chef took our cognac!', [], 'adapted'),
-    ('anya', 'Надо забрать эту бутылку назад.', 'We need to take this bottle back.', [(291, 'Надо забрать бутылку, Костян.')], 'adapted'),
-    ('leva', 'Я не могу к нему подойти.', 'I can not approach him.', [(293, 'Я же не могу к ней подойти.')], 'adapted'),
-    ('anya', 'Давай, Костя, ты должен.', 'Come on, Kostya, you must.', [(294, 'Давай, Костян, давай, дружок.')], 'adapted'),
-    ('anya', 'Понятно, давай дальше.', "Got it, let's move on.", [], '')
+    ('anya', 'Костя, это просто ужас!', 'Kostya, this is just a nightmare!', [(285, 'просто')], ''),
+    ('anya', 'Сеня отравился нашим коньяком.', 'Senya got poisoned by our cognac.', [(281, 'что Сеня отравился этим коньяком.')], ''),
+    ('chef', 'О нет, что делать?', 'Oh no, what to do?', [], ''),
+    ('chef', 'Костя, дай мне бутылку коньяка.', 'Kostya, give me a bottle of cognac.', [(289, 'мне')], ''),
+    ('chef', 'Ту, которая стоит справа.', 'The one that stands on the right.', [], ''),
+    ('chef', 'Вот эту бутылку?', 'This bottle right here?', [(282, 'вот')], ''),
+    ('chef', 'Нет, дай мне другую. Да, эту.', 'No, give me another one. Yes, this one.', [(289, 'мне'), (289, 'мне')], ''),
+    ('anya', 'Шеф забрал наш коньяк!', 'Chef took our cognac!', [], ''),
+    ('anya', 'Надо забрать эту бутылку назад.', 'We need to take this bottle back.', [(291, 'Надо забрать бутылку, Костян.')], ''),
+    ('chef', 'Я не могу к нему подойти.', 'I can not approach him.', [(293, 'Я же не могу к ней подойти.')], ''),
+    ('anya', 'Давай, Костя, ты должен.', 'Come on, Kostya, you must.', [(294, 'Давай, Костян, давай, дружок.')], ''),
+    ('anya', 'Понятно, давай дальше.', "Got it, let's move on.", [], ''),
 ]
-
-OPENER = "Now let us examine the conversation line by line."
-
 WALK = [
     (0, None, "'Kostya, this is just a nightmare!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Kostya' straight to 'horror'."),
-    (1, None, "'Senya got poisoned by our cognac.' Here 'Senya' sets up the idea, while 'cognac' comes at the end for emphasis."),
-    (2, None, "'Oh no, what to do?' Here 'what' sets up the idea, while 'do' comes at the end for emphasis."),
-    (3, None, "'Kostya, give me a bottle of cognac.' Notice the word order: 'Kostya' comes first, and 'cognac' finishes the sentence."),
-    (4, None, "'The one that stands on the right.' Listen for the word meaning 'who' right alongside 'is parked' in this line."),
-    (5, None, "'This bottle right here?' Notice the word order: 'a bottle' comes first, and 'a bottle' finishes the sentence."),
-    (6, None, "'No, give me another one. Yes, this one.' A compact expression built around 'give' and 'the other one'. Max answers straight away."),
-    (7, None, "'Chef took our cognac!' Max puts 'chef' up front so the listener immediately catches the tone, followed by 'takes it back'."),
-    (8, None, "'We need to take this bottle back.' Max starts with 'it is necessary' and pairs it with 'take' to make the point clear."),
-    (9, None, "'I can not approach him.' A compact expression built around 'I' and 'to walk up to'. Then Max replies."),
-    (10, None, "'Come on, Kostya, you must.' Listen for the word meaning 'let's' right alongside 'Kostya' in this line."),
-    (11, None, "'Got it, let's move on.' Here 'clear' sets up the idea, while 'next' comes at the end for emphasis.")
+    (1, None, "'Senya got poisoned by our cognac.' Max uses the action verb meaning 'to get poisoned' to focus on the single completed result, pairing it with 'cognac'."),
+    (2, None, "'Oh no, what to do?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'do'."),
+    (3, None, "'Kostya, give me a bottle of cognac.' Chef Barinov leads with the direct command form meaning 'give', pairing it with 'a bottle' and 'cognac'."),
+    (4, None, "'The one that stands on the right.' Chef Barinov chooses the action verb meaning 'is parked' for the ongoing action, followed by 'to the right'."),
+    (5, None, "'This bottle right here?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'a bottle' to make the point directly in conversation."),
+    (6, None, "'No, give me another one. Yes, this one.' Chef Barinov leads with the direct command form meaning 'give', followed by 'the other one'."),
+    (7, None, "'Chef took our cognac!' Max uses the action verb meaning 'takes it back' to focus on the single completed result, pairing it with 'cognac'."),
+    (8, None, "'We need to take this bottle back.' Max puts the word for 'it is necessary' together with 'take' and 'a bottle' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'I can not approach him.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (10, None, "'Come on, Kostya, you must.' Max leads with the direct command form meaning 'let's', followed by 'has to'."),
+    (11, None, "'Got it, let's move on.' Max leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'."),
 ]
-
-TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the wrong bottle, and for the words meaning 'horror' and 'to get poisoned'. You'll catch them now. See you next time."
-CLOSING = ("anya", "Давай, Костя, ты должен.")

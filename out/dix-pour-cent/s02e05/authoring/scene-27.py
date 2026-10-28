@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 27
 TITLE = "La révélation d'Andréa  (Andréa's Revelation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"colette": "Colette", "lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "Andréa meets Colette at a neighborhood cafe to talk through a personal crisis. As Andréa confesses to an unexpected pregnancy, an unexpected visit from Hicham sparks a startling realization. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this intense cafe confession step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = "After confessing her unplanned pregnancy to Colette, Andréa is interrupted by Hicham, sparking Colette's sharp intuition about who the father might be. See you next time!"
-CLOSING = ("colette", "Bonne journée!")
+CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('colette', "C'est mauvais pour le bébé.", 'It is bad for the baby.', [(875, "Même à petite dose, c'est mauvais pour le bébé")], ''),
     ('lea', "Pour l'instant, il n'y a pas de bébé.", 'For now, there is no baby.', [(876, "Pour l'instant, il n'y a pas de bébé")], ''),

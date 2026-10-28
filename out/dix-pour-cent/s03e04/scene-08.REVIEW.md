@@ -27,5 +27,5 @@
 | 13 | `realisateur` (Le réalisateur) | Votre émotion était absolument parfaite. | Your emotion was absolutely perfect. | 647:Magnifique, Isabelle. Bravo. |
 
 ## Part 5 — Outro & Closing
-> The crew applauds Isabelle's remarkable performance in the deathbed scene. When you watch the episode, listen out for the expressions meaning 'forgive' and 'child'. You'll catch them now. See you next time.
+> The crew applauds Isabelle's remarkable performance in the deathbed scene. When you watch the episode, listen out for the expressions meaning 'forgive' and 'child'. You'll catch them now. See you next time!
 - **Closing**: `realisateur`: *À bientôt!*

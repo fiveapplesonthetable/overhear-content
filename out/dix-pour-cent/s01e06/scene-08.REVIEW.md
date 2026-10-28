@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | Je vais l'appeler. Au cas où il cherche toujours. | I am going to call him. In case he is still looking. | 217:Je vais l'appeler. Au cas où il cherche toujours. |
 
 ## Part 5 — Outro & Closing
-> Camille is leaving ASK with dignity, determined to build her own career in Paris. next time, we will head back to the theatre where rehearsals take a violent turn.
+> Camille is leaving ASK with dignity, determined to build her own career in Paris. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

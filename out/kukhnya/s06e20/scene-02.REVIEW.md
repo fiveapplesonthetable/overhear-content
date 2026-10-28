@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Он что, всё-таки заплатил деньги? | Wait, did he pay the money after all? | #14 00:02:39: Он что, заплатит | adapted: adapted |
+| 1 | Михаил | Он что, всё-таки заплатил деньги? | Wait, did he pay the money after all? | #14 00:02:39: Он что, заплатит | adapted: adapted |
 | 2 | Михаил | Да, он заплатил, конечно. | Yes, he paid, of course. | #15 00:02:41: он заплатит, конечно | adapted: adapted |
 | 3 | Михаил | Ведь этот гость у нас иностранец. | After all, this guest of ours is a foreigner. | #16 00:02:43: иностранец | adapted: adapted |
 | 4 | Михаил | Он вам вот это передал. | He passed this along to you. | #17 00:02:44: Он вам это вот передал | adapted: adapted |
 | 5 | Михаил | Это инспектор Мишлен из Парижа! | This is a Michelin inspector from Paris! | #20 00:02:55: Инспектор Мишлен из Парижа | adapted: adapted |
-| 6 | Аня | Он их самый главный инспектор. | He is their very chief inspector. | #22 00:03:01: главный инспектор | adapted: adapted |
-| 7 | Аня | Он уже погубил много поваров. | He has already ruined many chefs. | #24 00:03:08: Он погубил | adapted: adapted |
-| 8 | Аня | Почему со мной это происходит? | Why is this happening to me? | #25 00:03:16: со мной все это происходит | adapted: adapted |
+| 6 | Михаил | Он их самый главный инспектор. | He is their very chief inspector. | #22 00:03:01: главный инспектор | adapted: adapted |
+| 7 | Михаил | Он уже погубил много поваров. | He has already ruined many chefs. | #24 00:03:08: Он погубил | adapted: adapted |
+| 8 | Михаил | Почему со мной это происходит? | Why is this happening to me? | #25 00:03:16: со мной все это происходит | adapted: adapted |
 | 9 | Михаил | Вы только сейчас не нервничайте. | Just do not get nervous right now. | #26 00:03:19: Вы только не нервничайте | adapted: adapted |
 | 10 | Инспектор | Добрый день, кто здесь повар? | Good afternoon, who is the chef here? | #28 00:03:26: Добрый день<br>#30 00:03:34: Кто | adapted: adapted |
 | 11 | Михаил | Вот он сидит перед вами. | Here he is sitting before you. | #31 00:03:37: Вот он | adapted: adapted |

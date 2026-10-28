@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e17-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 16
 TITLE = "Настя открывает глаза Максу  (Nastya Opens Max's Eyes)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'Unable to hold back any longer, Nastya approaches Max at the bar and tells him she suspects her Kostya is cheating on her with Sasha. Max dismisses it as nonsense until Nastya leads him to the corridor, where he overhears Kostya pressuring Sasha to confess.'
 
 STORY = [
     ('anya', 'Максим, слушай.', 'Maxim, listen to me.', [(259, 'Максим, слушай')], ''),
     ('kostya', 'И я о том же.', 'That is exactly what I am talking about.', [(261, 'И я о том же')], ''),
-    ('sasha', 'Мне вообще кажется, что...', 'In fact, it seems to me that...', [(262, 'Мне вообще кажется, что')], ''),
+    ('kostya', 'Мне вообще кажется, что...', 'In fact, it seems to me that...', [(262, 'Мне вообще кажется, что')], ''),
     ('anya', 'Мой Костик изменяет меня с твоей Сашей.', 'My Kostik is cheating on me with your Sasha.', [(263, 'Мой Костик изменяет меня с твоей Сашей')], ''),
     ('kostya', 'Да бред не может быть.', 'That is nonsense, it cannot be true.', [(264, 'Да бред не может быть')], ''),
-    ('sasha', 'Держатся за руки.', 'They were holding hands.', [(265, 'держатся за руки')], ''),
+    ('kostya', 'Держатся за руки.', 'They were holding hands.', [(265, 'держатся за руки')], ''),
     ('anya', 'Ну, пошли.', 'Well, let us go see.', [(267, 'Ну, пошли')], ''),
     ('kostya', 'Мы так не договаривались.', 'That is not what we agreed on.', [(268, 'Мы так не договаривались')], ''),
-    ('sasha', 'Ты обещала ему рассказать.', 'You promised to tell him yourself.', [(269, 'Ты обещала ему рассказать')], ''),
+    ('kostya', 'Ты обещала ему рассказать.', 'You promised to tell him yourself.', [(269, 'Ты обещала ему рассказать')], ''),
     ('anya', 'У тебя чего легче станет?', 'Will that make you feel any better?', [(270, 'У тебя чего легче станет')], ''),
     ('kostya', 'Я не могу врать своему лучшему другу.', 'I cannot keep lying to my best friend.', [(271, 'Я не могу врать своему лучшему другу')], ''),
-    ('sasha', 'Или ты ему скажешь.', 'Either you tell him right now.', [(272, 'Или ты ему скажешь')], ''),
+    ('kostya', 'Или ты ему скажешь.', 'Either you tell him right now.', [(272, 'Или ты ему скажешь')], ''),
     ('anya', 'Значит, ты меня изменила?', 'So you really cheated on me?', [(273, 'Значит, ты меня изменила')], ''),
 ]
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 16 of Episode 17, listen out for the exchange around nastya opens max's eyes — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Значит, ты меня изменила?')
+OUTRO = 'That wraps up this scene as nastya tells Max at the bar that Kostya is cheating on her with Sasha, and when Max goes to check, he overhears Kostya demanding that Sasha confess to him. See you next time!'
+CLOSING = ("anya", "До свидания!")

@@ -21,23 +21,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Аня | Костян, здорово, ты уже спишь? | Kostyan, hey, are you asleep already? | #153 00:08:58: Костян, здорово. Спишь | adapted: adapted for A1 clarity |
 | 10 | Аня | Я тебя попрошу, только вопросов не задавай. | I will ask you a favor, just do not ask questions. | #154 00:09:03: только ты вопросов не задавай, ладно | adapted: adapted for A1 clarity |
 | 11 | Аня | Если Вика спросит, ты вывихнул ногу. | If Vika asks, you dislocated your foot. | #155 00:09:07: если Вика тебя спросит, то сегодня ты гулял с Денисом и вывихнул ногу | adapted: adapted for A1 clarity |
-| 12 | Костя | Подожди, а зачем я вывихнул ногу? | Wait, and why did I dislocate my foot? | #157 00:09:14: Зачем вывихнул ногу | adapted: adapted for A1 clarity |
-| 13 | Костя | А какую ногу, правую или левую? | And which leg, the right one or the left one? | #159 00:09:18: А правую или левую | adapted: adapted for A1 clarity |
+| 12 | Денис | Подожди, а зачем я вывихнул ногу? | Wait, and why did I dislocate my foot? | #157 00:09:14: Зачем вывихнул ногу | adapted: adapted for A1 clarity |
+| 13 | Денис | А какую ногу, правую или левую? | And which leg, the right one or the left one? | #159 00:09:18: А правую или левую | adapted: adapted for A1 clarity |
 | 14 | Аня | Да вообще любую, потом всё объясню! | Any leg at all, I will explain everything later! | #160 00:09:20: Любую | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vika, hi, this is Denis calling.' Denis calls Vika's cell phone so she hears the emergency directly.
 - 'Excuse me, please, for calling so late.' In Russian, 'excuse that so late' is the natural way to apologize for a late call.
-- 'I cannot get through to Max on the phone.' The prefix 'do-' plus reflexive '-sya' on 'call' means 'to reach someone by phone'.
+- 'I cannot get through to Max on the phone.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Kostya fell here and twisted his ankle.' In Russian, twisting an ankle is literally 'turning a leg/foot under' ('podvernut nogu').
 - 'Max, I have never lied at such length before!' When Vika hands the phone to Max, Denis groans on the other end.
 - 'I told her that Kostya twisted his ankle.' Denis summarizes the alibi he just gave Vika.
 - 'Got it, Kostya, yes, I will come right now.' Pretending he is speaking to injured Kostya, Max puts on a worried voice for Vika.
 - 'Vikulya, may I take your car?' With her tires finally replaced, Vika sleepily hands over the car keys.
 - 'Kostyan, hey, are you asleep already?' Running down the stairs, Max immediately dials Kostya to warn him.
-- 'I will ask you a favor, just do not ask questions.' Negated imperative 'do not ask questions' takes the genitive plural 'voprosov'.
+- 'I will ask you a favor, just do not ask questions.' In everyday Russian, 'to ask, to request' flows straight into 'ask' without extra linking words.
 - 'If Vika asks, you dislocated your foot.' Russian uses future tense 'if Vika will ask' in real conditional clauses.
 - 'Wait, and why did I dislocate my foot?' Half-asleep in bed next to Nastya, Kostya is completely baffled.
 - 'And which leg, the right one or the left one?' Kostya asks the one practical question before hanging up.
-- 'Any leg at all, I will explain everything later!' Accusative feminine 'lyubuyu' means 'any one you like'.
+- 'Any leg at all, I will explain everything later!' In everyday Russian, 'at all, even' flows straight into 'will explain' without extra linking words.

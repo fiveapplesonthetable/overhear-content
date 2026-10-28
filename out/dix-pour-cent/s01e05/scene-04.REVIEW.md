@@ -29,5 +29,5 @@
 | 15 | `joey` (JoeyStarr) | C'est très bien! Allez, on arrive. | That | 88:on arrive. |
 
 ## Part 5 — Outro & Closing
-> Sofia has rehearsed her two lines with JoeyStarr himself, while Julie Gayet is losing patience on the set. Listen out for that useful phrase meaning 'to have stage fright'. See you next time.
+> Sofia has rehearsed her two lines with JoeyStarr himself, while Julie Gayet is losing patience on the set. Listen out for that useful phrase meaning 'to have stage fright'. See you next time!
 - **Closing**: `sofia`: *À bientôt!*

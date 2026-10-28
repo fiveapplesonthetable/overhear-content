@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Как получилось, что кто-то звонит с твоего телефона? | How did it happen that someone calls from your phone? | #242 00:17:50: Как получилось, что кто-то звонит с твоего | adapted: adapted |
-| 2 | Аня | Здравствуйте, скажите, вы меня звали? | Hello, tell me, did you call for me? | #243 00:18:01: Здравствуйте, вы меня звали | adapted: adapted |
-| 3 | Гость | Немедленно объясните мне это безобразие. | Immediately explain this outrage to me. | #244 00:18:05: Объясните это безобразие | adapted: adapted |
+| 2 | Шеф | Здравствуйте, скажите, вы меня звали? | Hello, tell me, did you call for me? | #243 00:18:01: Здравствуйте, вы меня звали | adapted: adapted |
+| 3 | Шеф | Немедленно объясните мне это безобразие. | Immediately explain this outrage to me. | #244 00:18:05: Объясните это безобразие | adapted: adapted |
 | 4 | Нагиев | Простите, а вы сейчас о чём? | Excuse me, and what are you talking about right now? | #245 00:18:09: Вы о чем | adapted: adapted |
-| 5 | Гость | Вы понимаете, я журналист, и об этом узнает вся Москва. | You understand, I am a journalist, and all of Moscow will find out about this. | #246 00:18:11: Вы понимаете, я журналист. Я могу сделать так, что об этом узнает вся Москва | adapted: adapted |
-| 6 | Гость | И в ваш ресторан больше никто не придёт. | And no one will come to your restaurant anymore. | #247 00:18:15: и в ваш ресторан больше никто не придет | adapted: adapted |
-| 7 | Аня | Послушайте, так это же вовсе не таракан. | Listen, this is not a cockroach at all. | #248 00:18:18: Так это же не таракан | adapted: adapted |
-| 8 | Аня | Это просто наш вкусный жареный лук. | This is simply our delicious fried onion. | #249 00:18:23: Это жареный лук | adapted: adapted |
+| 5 | Шеф | Вы понимаете, я журналист, и об этом узнает вся Москва. | You understand, I am a journalist, and all of Moscow will find out about this. | #246 00:18:11: Вы понимаете, я журналист. Я могу сделать так, что об этом узнает вся Москва | adapted: adapted |
+| 6 | Шеф | И в ваш ресторан больше никто не придёт. | And no one will come to your restaurant anymore. | #247 00:18:15: и в ваш ресторан больше никто не придет | adapted: adapted |
+| 7 | Шеф | Послушайте, так это же вовсе не таракан. | Listen, this is not a cockroach at all. | #248 00:18:18: Так это же не таракан | adapted: adapted |
+| 8 | Шеф | Это просто наш вкусный жареный лук. | This is simply our delicious fried onion. | #249 00:18:23: Это жареный лук | adapted: adapted |
 | 9 | Нагиев | Но тогда вам придётся съесть и мой телефон. | But then you will have to eat my phone too. | #250 00:18:26: Но тогда вам придется съесть и мой телефон | adapted: adapted |
 | 10 | Нагиев | Потому что твой телефон должен быть в руках! | Because your phone must be in your hands! | #251 00:18:32: Потому что телефон должен быть в руках | adapted: adapted |
-| 11 | Аня | Дмитрий Владимирович, там вашу машину случайно стукнули. | Dmitry Vladimirovich, someone accidentally bumped your car out there. | #253 00:18:37: Дмитрий Владимирович, там | adapted: adapted |
+| 11 | Шеф | Дмитрий Владимирович, там вашу машину случайно стукнули. | Dmitry Vladimirovich, someone accidentally bumped your car out there. | #253 00:18:37: Дмитрий Владимирович, там | adapted: adapted |
 | 12 | Нагиев | Да ладно, сейчас я сам посмотрю! | Come on, I will look for myself right now! | #254 00:18:39: Да ладно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

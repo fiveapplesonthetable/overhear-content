@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e12-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 12
 SCENE = 14
-TITLE = 'Проверка по телефону  (The Phone Test)'
+TITLE = "Проверка по телефону  (The Phone Test)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.12'
 SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 
 INTRO = "At the bar, Max coachingly whispers to Nastya to ask the masseur on the phone whether he offers anything intimate besides massage. When the masseur replies that they can arrange anything if she is pretty, Max grabs a bottle of wine and tricks reception into giving him Vika's room key."
@@ -24,7 +24,7 @@ STORY = [
     ('nastya', 'Ну так, к слову пришлось!', 'Well it was just a figure of speech!', [(233, 'Ну, так, к слову пришлось')], 'adapted'),
     ('anya', 'Куда они собрались, а?', 'Where are they heading, huh?', [(234, 'Куда они собрались, а')], 'adapted'),
     ('nastya', 'Вика сказала, что номер снимет.', 'Vika said that she would book a room.', [(235, 'Вика сказала, что номер снимет')], 'adapted'),
-    ('anya', 'Егор, слушай, Виктория Сергеевна попросила отнести это вино в номер, который она сняла.', 'Yegor, listen, Viktoriya Sergeyevna asked me to take this wine to the room she booked.', [(236, 'Егор, слушай, Виктория Сергеевна попросила отнести это вино в номер'), (237, 'который она сняла')], 'adapted'),
+    ('anya', 'Виктория Сергеевна попросила отнести это вино в номер, который она сняла.', 'Viktoriya Sergeyevna asked me to take this wine to the room she booked.', [(236, 'Виктория Сергеевна попросила отнести это вино в номер'), (237, 'который она сняла')], 'adapted'),
     ('anya', 'Дай ключ, пожалуйста!', 'Give me the key, please!', [(237, 'Дай ключ, пожалуйста')], 'adapted'),
 ]
 
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'Well it was just a figure of speech!' Nastya anchors the line on 'come on', while 'had to' completes the thought. Max answers right away."),
     (8, None, "'Where are they heading, huh?' In Russian, the idea of 'where to' flows naturally into 'and' without extra filler words."),
     (9, None, "'Vika said that she would book a room.' The meaning hinges on 'Vika' working together with 'will rent' in spoken Russian."),
-    (10, None, "'Yegor, listen, Viktoriya Sergeyevna asked me to take this wine to the room she booked.' The grammar packs 'Yegor' and 'rented' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'Viktoriya Sergeyevna asked me to take this wine to the room she booked.' Max pairs 'asked' with 'filmed, took a video of' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'Give me the key, please!' Max brings out the contrast between 'give' and 'key' in a few short words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings the phone-test scene to a close. Notice Kostya's jealous reaction when Nastya tells the masseur she will call him back, and Max's trick to get the room key. See you in the next scene."
-CLOSING = ('anya', 'Дай ключ, пожалуйста!')
+OUTRO = "That brings the phone-test scene to a close. Notice Kostya's jealous reaction when Nastya tells the masseur she will call him back, and Max's trick to get the room key. See you next time!"
+CLOSING = ("anya", "До свидания!")

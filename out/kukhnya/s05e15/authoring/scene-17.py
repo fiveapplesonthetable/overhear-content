@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e15-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 17
-TITLE = 'Катя заступается за Никиту  (Katya Stands Up for Nikita)'
+TITLE = "Катя заступается за Никиту  (Katya Stands Up for Nikita)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Катя', 'eleonora': 'Элеонора', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "nikita": "anja"}
+LABELS = {"eleonora": "Элеонора", "nikita": "Никита"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'When Eleonora bumps into Nikita and spills hot coffee on herself, she immediately tries to fire him again, until Katya steps in and shames her mother into apologizing to the young waiter.'
@@ -19,10 +19,10 @@ STORY = [
     ('eleonora', 'Ты ещё хочешь обвинить в этом меня саму?', 'Do you also want to blame me for this myself?', [(306, 'хочешь меня обвинить')], 'adapted'),
     ('eleonora', 'У тебя был последний шанс, но ты его потерял.', 'You had a last chance, but you lost it.', [(308, 'Знаешь, у тебя был шанс, но ты его не использовал')], 'adapted'),
     ('eleonora', 'Всё, с этой минуты ты окончательно уволен!', 'That is it, from this minute you are fired for good!', [(309, 'Все, ты уволен')], 'adapted'),
-    ('anya', 'Мама, ты сейчас серьёзно это ему говоришь?', 'Mom, are you seriously saying that to him right now?', [(309, 'Мам, ты серьезно')], 'adapted'),
-    ('anya', 'Ты же сама на себя этот кофе разлила!', 'You spilled that coffee on yourself!', [(310, 'Ты же сама на себя кофе разлила')], 'adapted'),
-    ('anya', 'За что же ты тогда его сейчас увольняешь?', 'What are you firing him for right now then?', [(310, 'за что ты его увольняешь')], 'adapted'),
-    ('anya', 'Так несправедливо нельзя к людям относиться, мама!', 'You cannot treat people so unfairly, Mom!', [(311, 'Так нельзя к людям относиться')], 'adapted'),
+    ('eleonora', 'Мама, ты сейчас серьёзно это ему говоришь?', 'Mom, are you seriously saying that to him right now?', [(309, 'Мам, ты серьезно')], 'adapted'),
+    ('eleonora', 'Ты же сама на себя этот кофе разлила!', 'You spilled that coffee on yourself!', [(310, 'Ты же сама на себя кофе разлила')], 'adapted'),
+    ('eleonora', 'За что же ты тогда его сейчас увольняешь?', 'What are you firing him for right now then?', [(310, 'за что ты его увольняешь')], 'adapted'),
+    ('eleonora', 'Так несправедливо нельзя к людям относиться, мама!', 'You cannot treat people so unfairly, Mom!', [(311, 'Так нельзя к людям относиться')], 'adapted'),
     ('eleonora', 'Да, пожалуй, моя дочь Катя совершенно права.', 'Yes, perhaps my daughter Katya is completely right.', [(312, 'Да, Катя права')], 'adapted'),
     ('eleonora', 'Никита, извини меня, я просто немного погорячилась.', 'Nikita, forgive me, I just lost my temper a little.', [(313, 'Никита, извини, я погорячилась')], 'adapted'),
     ('nikita', 'Спасибо вам и приятного аппетита, Элеонора Андреевна.', 'Thank you and enjoy your meal, Eleonora Andreyevna.', [(314, 'Спасибо. Приятного аппетита')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Grateful to Katya for standing up for him, Nikita watches her with growing admiration. See you in the next scene.'
-CLOSING = ('eleonora', 'Да, моя дочь Катя права.')
+OUTRO = 'Grateful to Katya for standing up for him, Nikita watches her with growing admiration. Until next time!'
+CLOSING = ("eleonora", "Увидимся!")

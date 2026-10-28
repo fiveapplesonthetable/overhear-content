@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Чем могу помочь? | How may I help you? | #72 00:04:24: Чем могу помочь | verbatim |
+| 1 | Шеф | Чем могу помочь? | How may I help you? | #72 00:04:24: Чем могу помочь | verbatim |
 | 2 | Вика | Завтра в вашем ресторане будет ужинать мой босс. | Tomorrow my boss will be having dinner at your restaurant. | #74 00:04:28: Завтра в вашем ресторане будет ужинать мой босс | verbatim |
-| 3 | Аня | Да, тот самый. | Yes, the very one. | #76 00:04:41: Да, тот самый | verbatim |
+| 3 | Шеф | Да, тот самый. | Yes, the very one. | #76 00:04:41: Да, тот самый | verbatim |
 | 4 | Вика | Тот самый? Да? | The very one? Really? | #76 00:04:41: тот самый? Да | verbatim |
-| 5 | Аня | Это большая честь для нас. | That is a great honor for us. | #77 00:04:46: Это большая честь для нас | verbatim |
+| 5 | Шеф | Это большая честь для нас. | That is a great honor for us. | #77 00:04:46: Это большая честь для нас | verbatim |
 | 6 | Вика | Это большая честь для любого ресторана. | It is a great honor for any restaurant. | #78 00:04:48: Это большая честь для любого ресторана | verbatim |
-| 7 | Аня | Где тут у вас кухня? | Where is your kitchen in here? | #81 00:04:56: Где тут у вас кухня | verbatim |
+| 7 | Шеф | Где тут у вас кухня? | Where is your kitchen in here? | #81 00:04:56: Где тут у вас кухня | verbatim |
 | 8 | Вика | К сожалению, Виктор Петрович очень занят. | Unfortunately, Viktor Petrovich is very busy right now. | #81 00:04:56: К сожалению, Виктор Петрович очень занят | verbatim |
-| 9 | Аня | Может быть, я могу вам чем-то помочь? | Perhaps I can help you with something instead? | #82 00:05:01: Может быть, я могу вам чем-то помочь | verbatim |
+| 9 | Шеф | Может быть, я могу вам чем-то помочь? | Perhaps I can help you with something instead? | #82 00:05:01: Может быть, я могу вам чем-то помочь | verbatim |
 | 10 | Вика | Ну ладно, ничего страшного. | All right, no big deal. | #84 00:05:09: Ну ладно, ничего страшного | verbatim |
-| 11 | Аня | Я что-нибудь придумаю. | I will figure something out. | #85 00:05:11: Я что-нибудь придумаю | verbatim |
+| 11 | Шеф | Я что-нибудь придумаю. | I will figure something out. | #85 00:05:11: Я что-нибудь придумаю | verbatim |
 | 12 | Вика | Спасибо вам. | Thank you. | #85 00:05:11: Спасибо вам | verbatim |
-| 13 | Аня | До свидания. | Goodbye. | #86 00:05:13: До свидания | verbatim |
+| 13 | Шеф | До свидания. | Goodbye. | #86 00:05:13: До свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

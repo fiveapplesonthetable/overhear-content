@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 27
-TITLE = "Vers un nouveau départ  (Toward a New Beginning)"
-LEVEL = "A1 — débutant"
+TITLE = 'Vers un nouveau départ  (Toward a New Beginning)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Under the soft afternoon sun, Camille and Mathias walk quietly along the riverbanks of the Seine. Having left the hospital and agency rivalries behind them, father and daughter take their first peaceful steps together toward a bright future. Let's listen to the scene in French first."
 OPENER = "Let's look at Camille and Mathias taking their first steps toward reconciliation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Strolling along the Seine after Mathias's hospital release, father and daughter celebrate their reconciled bond, leaving behind old conflicts to embark on a peaceful and honest future together. When you watch the episode, listen out for the expressions meaning 'look at' and 'beautiful'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Strolling along the Seine after Mathias's hospital release, father and daughter celebrate their reconciled bond, leaving behind old conflicts to embark on a peaceful and honest future together. When you watch the episode, listen out for the expressions meaning 'look at' and 'beautiful'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('camille', 'Regarde la belle lumière sur Paris.', 'Look at the beautiful light over Paris.', [(922, "c'est bien")], ''),
     ('mathias', "L'air frais me fait du bien.", 'The fresh air does me good.', [(922, "c'est bien")], ''),

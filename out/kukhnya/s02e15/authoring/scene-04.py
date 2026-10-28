@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e15-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 4
-TITLE = 'Экстрим в ресторане и подарок для Саши  (Thrills at the Restaurant and a Gift for Sasha)'
+TITLE = "Экстрим в ресторане и подарок для Саши  (Thrills at the Restaurant and a Gift for Sasha)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = 'Having nowhere to be alone at the apartment, Kostya and Nastya try sneaking into empty rooms at the restaurant despite the fear of getting caught. Meanwhile, Sasha throws her arms around Max to thank him for a pair of expensive earrings that Ilya secretly left for her.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 4 of Episode 15, listen out for the exchange around thrills at the restaurant and a gift for sasha — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Да иду, спасибо.')
+OUTRO = 'That wraps up this scene as kostya and Nastya sneak around the restaurant looking for privacy, while Sasha thanks a bewildered Max for a pair of expensive earrings she found in her locker. See you next time!'
+CLOSING = ("anya", "До завтра!")

@@ -1,103 +1,48 @@
-ID = "kukhnya-s01e10-scene-30"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e10-scene-30.
+ID = 'kukhnya-s01e10-scene-30'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 30
 TITLE = "Хитрый рецепт  (A Tricky Recipe)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Сеня", "chef": "Шеф"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.10"
-SOURCE_FILE = "sources/kukhnya/s01/e10.ru.dual.srt"
-SOURCE_NOTE = (
-    "Cues 207-209. Viktor and Senya mix dark food coloring into the yellow pike caviar to disguise "
-    "it as expensive black caviar, jokingly dubbing their culinary secret 'Pike Easter'."
-)
-
-INTRO = (
-    "In the kitchen workspace behind closed doors, Chef Viktor and Senya commence their "
-    "bold culinary deception. Armed with dark natural food dye, they set out to tint the yellow "
-    "pike caviar into convincing black pearls, joking that it feels like decorating eggs for Easter. "
-    "Let us listen to their conspiratorial dialogue in Russian first."
-)
-
-STORY = [
-    ("chef", "Давай начнём красить эту щучью икру.",
-     "Let us start dyeing this pike caviar.",
-     [(207, "Давай"), (208, ",кращусь")], "adapted"),
-    ("anya", "Вы хотите превратить её в чёрную?",
-     "Do you want to turn it into black?",
-     [], "new"),
-    ("chef", "Да, мы покрасим всю эту икру.",
-     "Yes, we will dye all of this caviar.",
-     [], "new"),
-    ("anya", "Это прямо настоящая щучья пасха получается.",
-     "This turns out to be a real pike Easter.",
-     [(209, "Щучья пасха")], "adapted"),
-    ("chef", "Неси сюда чёрный краситель.",
-     "Bring black food dye here.",
-     [], "new"),
-    ("anya", "Я нашёл на полке отличный краситель.",
-     "I found an excellent dye on the shelf.",
-     [], "new"),
-    ("chef", "Добавляй краситель медленно и аккуратно.",
-     "Add the dye slowly and carefully.",
-     [], "new"),
-    ("anya", "Икра уже становится совсем чёрной.",
-     "The caviar is already becoming completely black.",
-     [], "new"),
-    ("chef", "Теперь хорошо помешай ложкой всю икру.",
-     "Now stir all the caviar well with a spoon.",
-     [], "new"),
-    ("anya", "Она выглядит прямо как дорогая чёрная.",
-     "It looks just like expensive black caviar.",
-     [], "new"),
-    ("chef", "Ни один гость ресторана ничего не заметит.",
-     "Not a single guest of the restaurant will notice anything.",
-     [], "new"),
-    ("anya", "Вы просто гений кулинарных секретов, шеф.",
-     "You are simply a genius of culinary secrets, chef.",
-     [], "new"),
-    ("chef", "Этот секрет никто не должен знать.",
-     "No one must know this secret.",
-     [], "new"),
-]
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
+SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
+INTRO = 'In the kitchen workspace behind closed doors, Chef Viktor and Senya commence their bold culinary deception. Armed with dark natural food dye, they set out to tint the yellow pike caviar into convincing black pearls, joking that it feels like decorating eggs for Easter. Let us listen to their conspiratorial dialogue in Russian first.'
 OPENER = "Now let us examine Viktor and Senya's secret recipe step by step."
-
-WALK = [
-    (0, None,
-     "'Let us start dyeing this pike caviar.' -- Viktor instructs Senya to begin coloring the roe."),
-    (1, None,
-     "'Do you want to turn it into black?' -- Senya asks if their goal is to make it look like sturgeon caviar."),
-    (2, None,
-     "'Yes, we will dye all of this caviar.' -- The chef insists on dyeing all of the fish eggs."),
-    (3, None,
-     "'This turns out to be a real pike Easter.' -- Senya humorously compares the task to painting Easter eggs."),
-    (4, None,
-     "'Bring black food dye here.' -- Viktor calls for black food coloring."),
-    (5, None,
-     "'I found an excellent dye on the shelf.' -- Senya locates suitable black coloring in the pantry."),
-    (6, None,
-     "'Add the dye slowly and carefully.' -- The chef gives precise instructions on adding the pigment."),
-    (7, None,
-     "'The caviar is already becoming completely black.' -- Senya watches the golden pearls turn pitch black."),
-    (8, None,
-     "'Now stir all the caviar well with a spoon.' -- Viktor directs him to blend the mixture evenly."),
-    (9, None,
-     "'It looks just like expensive black caviar.' -- Senya marvels at the convincing transformation."),
-    (10, None,
-     "'Not a single guest of the restaurant will notice anything.' -- Viktor confidently assures him that patrons will be fooled."),
-    (11, None,
-     "'You are simply a genius of culinary secrets, chef.' -- The admiring cook praises Viktor's inventive craft."),
-    (12, None,
-     "'No one must know this secret.' -- The chef insists on absolute confidentiality."),
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "With the pike caviar successfully dyed a glistening black, Viktor and Senya admire their handiwork, confident that no patron will discover their culinary ruse. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to look' — you will catch every word right away. See you next time!"
+CLOSING = ("chef", "Пока!")
+STORY = [
+    ('chef', 'Давай начнём красить эту щучью икру.', 'Let us start dyeing this pike caviar.', [(207, 'Давай'), (207, 'давай')], ''),
+    ('senya', 'Вы хотите превратить её в чёрную?', 'Do you want to turn it into black?', [], ''),
+    ('chef', 'Да, мы покрасим всю эту икру.', 'Yes, we will dye all of this caviar.', [], ''),
+    ('senya', 'Это прямо настоящая щучья пасха получается.', 'This turns out to be a real pike Easter.', [], ''),
+    ('chef', 'Неси сюда чёрный краситель.', 'Bring black food dye here.', [], ''),
+    ('senya', 'Я нашёл на полке отличный краситель.', 'I found an excellent dye on the shelf.', [], ''),
+    ('chef', 'Добавляй краситель медленно и аккуратно.', 'Add the dye slowly and carefully.', [], ''),
+    ('senya', 'Икра уже становится совсем чёрной.', 'The caviar is already becoming completely black.', [], ''),
+    ('chef', 'Теперь хорошо помешай ложкой всю икру.', 'Now stir all the caviar well with a spoon.', [], ''),
+    ('senya', 'Она выглядит прямо как дорогая чёрная.', 'It looks just like expensive black caviar.', [], ''),
+    ('chef', 'Ни один гость ресторана ничего не заметит.', 'Not a single guest of the restaurant will notice anything.', [], ''),
+    ('senya', 'Вы просто гений кулинарных секретов, шеф.', 'You are simply a genius of culinary secrets, chef.', [], ''),
+    ('chef', 'Этот секрет никто не должен знать.', 'No one must know this secret.', [], ''),
 ]
-
-TRANSITION = "Now let us listen to the conspiratorial exchange between Viktor and Senya once more."
-OUTRO = (
-    "With the pike caviar successfully dyed a glistening black, Viktor and Senya admire their "
-    "handiwork, confident that no patron will discover their culinary ruse."
-)
-CLOSING = ("chef", "Этот секрет никто не должен знать.")
+WALK = [
+    (0, None, "'Let us start dyeing this pike caviar.' Chef Barinov leads with the direct command form meaning 'let us', pairing it with 'will begin' and 'to paint'."),
+    (1, None, "'Do you want to turn it into black?' Senya turns a statement into a question purely through rising intonation on the word meaning 'want', pairing it with 'to turn into' and 'black'."),
+    (2, None, "'Yes, we will dye all of this caviar.' Chef Barinov uses the action verb meaning 'will dye' to focus on the single completed result, pairing it with 'caviar'."),
+    (3, None, "'This turns out to be a real pike Easter.' Senya expresses this naturally by combining the word for 'straight' with 'real' and 'pike'."),
+    (4, None, "'Bring black food dye here.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'here' and 'black'."),
+    (5, None, "'I found an excellent dye on the shelf.' Senya uses the action verb meaning 'found' to focus on the single completed result, pairing it with 'shelf' and 'excellent'."),
+    (6, None, "'Add the dye slowly and carefully.' Chef Barinov leads with the direct command form meaning 'add', pairing it with 'dye' and 'slowly'."),
+    (7, None, "'The caviar is already becoming completely black.' Senya expresses this naturally by combining the word for 'caviar' with 'already' and 'is becoming'."),
+    (8, None, "'Now stir all the caviar well with a spoon.' Chef Barinov leads with the direct command form meaning 'stir', pairing it with 'now' and 'well'."),
+    (9, None, "'It looks just like expensive black caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (10, None, "'Not a single guest of the restaurant will notice anything.' The phrasing opens with 'one' before bringing in 'guest' and 'of the restaurant' to make the point clear."),
+    (11, None, "'You are simply a genius of culinary secrets, chef.' Russian omits the present-tense verb 'to be' here, linking 'simply' directly with 'genius', pairing it with 'culinary' and 'secrets'."),
+    (12, None, "'No one must know this secret.' Chef Barinov puts the word for 'secret' together with 'must' and 'to know' in a crisp, natural spoken turn of phrase."),
+]

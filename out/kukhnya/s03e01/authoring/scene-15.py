@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 15
-TITLE = 'Высокая кухня  (Haute Cuisine)'
+TITLE = "Высокая кухня  (Haute Cuisine)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "guest": "Гость", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = "When Max brings Katya's steaming, dramatic molecular dishes into the dining room, the guests at the neighboring tables are so impressed that everyone wants to order them."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Fifteen. Listen for how the phrase 'haute cuisine from a chef from Paris' immediately wins over the dining room."
-CLOSING = ('anya', 'Это очень вкусно!')
+OUTRO = "And that finishes Scene Fifteen. Listen for how the phrase 'haute cuisine from a chef from Paris' immediately wins over the dining room. Until next time!"
+CLOSING = ("anya", "До завтра!")

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Извините, что мы вас побеспокоили. | Excuse us for disturbing you. | #93 00:07:14: Извините, что мы вас побеспокоили | adapted: adapted |
-| 2 | Аня | Комиссия в отеле. Мы сейчас уходим. | The commission is in the hotel. We are leaving right now. | #94 00:07:17: Комиссия в отеле. Мы сейчас уходим | adapted: adapted |
+| 1 | Михаил | Извините, что мы вас побеспокоили. | Excuse us for disturbing you. | #93 00:07:14: Извините, что мы вас побеспокоили | adapted: adapted |
+| 2 | Михаил | Комиссия в отеле. Мы сейчас уходим. | The commission is in the hotel. We are leaving right now. | #94 00:07:17: Комиссия в отеле. Мы сейчас уходим | adapted: adapted |
 | 3 | Нагиев | О, комиссия! Так я вам сейчас всё покажу. | Oh, the commission! Well I will show you everything right now. | #95 00:07:19: О, комиссия<br>#96 00:07:22: Так я вам сейчас все покажу | adapted: adapted |
 | 4 | Нагиев | Вот диванчики мягкие. | Here the little sofas are soft. | #97 00:07:25: Вот диванчики | adapted: adapted |
 | 5 | Нагиев | Ой, только он пустой. | Oh, only it is empty. | #99 00:07:32: Ой, только он пустой | adapted: adapted |
-| 6 | Аня | Да, пойдёмте. | Yes, let us go. | #100 00:07:35: Да, пойдемте | adapted: adapted |
+| 6 | Михаил | Да, пойдёмте. | Yes, let us go. | #100 00:07:35: Да, пойдемте | adapted: adapted |
 | 7 | Нагиев | Пойдём. Ну, куда вы уходите? | Let us go. Well, where are you going? | #101 00:07:38: Пойдем. Ну, куда вы уходите | adapted: adapted |
 | 8 | Нагиев | Подождите! Ой, извините. | Wait! Oh, excuse me. | #102 00:07:42: Подождите<br>#103 00:07:44: Ой, извините | adapted: adapted |
-| 9 | Инспектор | Что здесь происходит? | What is going on here? | #94 00:07:17: Комиссия в отеле | adapted: adapted |
-| 10 | Аня | У них на родине сухой закон. | In their homeland there is prohibition. | #104 00:07:48: сухой закон | adapted: adapted |
-| 11 | Аня | Сейчас всё будет хорошо. | Right now everything will be fine. | #105 00:07:51: Сейчас все, все будет хорошо | adapted: adapted |
-| 12 | Инспектор | Идёмте дальше. | Let us move on. | #100 00:07:35: пойдемте | adapted: adapted |
+| 9 | Нагиев | Что здесь происходит? | What is going on here? | #94 00:07:17: Комиссия в отеле | adapted: adapted |
+| 10 | Михаил | У них на родине сухой закон. | In their homeland there is prohibition. | #104 00:07:48: сухой закон | adapted: adapted |
+| 11 | Михаил | Сейчас всё будет хорошо. | Right now everything will be fine. | #105 00:07:51: Сейчас все, все будет хорошо | adapted: adapted |
+| 12 | Нагиев | Идёмте дальше. | Let us move on. | #100 00:07:35: пойдемте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

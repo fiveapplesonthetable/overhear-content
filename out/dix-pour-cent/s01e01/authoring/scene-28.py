@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 28
-TITLE = "Juste les joues  (Just the Cheeks)"
-LEVEL = "A1 — débutant"
+TITLE = 'Juste les joues  (Just the Cheeks)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "cecile": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"cecile": "Cécile", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'cecile': 'Cécile', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "So Miranda is back at the table, and Cécile thinks she's about to hear good news. There's a catch, though. Here it is in French first; don't try to catch every word, the story will carry you."
 OPENER = "Let's go back through it. Mathias opens with what sounds like the best news of Cécile's year."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's a hard choice for Cécile, and a good one for you to remember: 'not' and 'not anymore' are built the same way, only the second little word changes. We'll find out what she decides soon. Until next time."
-CLOSING = ("cecile", "À bientôt!")
+OUTRO = "That's a hard choice for Cécile, and a good one for you to remember: 'not' and 'not anymore' are built the same way, only the second little word changes. See you next time!"
+CLOSING = ('cecile', 'À bientôt!')
 STORY = [
     ('mathias', 'Quentin a réfléchi. Il te veut vraiment.', 'Quentin has thought it over. He really wants you.', [(735, 'Quentin a réfléchi. Il te veut vraiment')], ''),
     ('cecile', "Merci, c'est super!", 'Thanks, that', [(736, "Merci, c'est super")], ''),

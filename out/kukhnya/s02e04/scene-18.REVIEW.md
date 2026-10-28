@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Господа, хочу сказать буквально пару слов. | Gentlemen, I want to say literally a couple of words. | #301 00:20:17: Господа, хочу сказать буквально пару слов | verbatim |
+| 1 | Шеф | Господа, хочу сказать буквально пару слов. | Gentlemen, I want to say literally a couple of words. | #301 00:20:17: Господа, хочу сказать буквально пару слов | verbatim |
 | 2 | Вика | Это блюдо в свое время придумал мой учитель. | This dish was originally invented by my teacher. | #302 00:20:20: Это блюдо в свое время придумал мой учитель | verbatim |
-| 3 | Аня | Виктор Петрович Баринов. | Viktor Petrovich Barinov. | #303 00:20:24: Виктор Петрович Баринов | verbatim |
+| 3 | Шеф | Виктор Петрович Баринов. | Viktor Petrovich Barinov. | #303 00:20:24: Виктор Петрович Баринов | verbatim |
 | 4 | Вика | Шеф-повар этого ресторана. | The head chef of this restaurant. | #304 00:20:27: Шеф-повар этого ресторана | verbatim |
-| 5 | Аня | Которому я обязан всем. | To whom I owe everything. | #305 00:20:29: Которому я обязан всем | verbatim |
+| 5 | Шеф | Которому я обязан всем. | To whom I owe everything. | #305 00:20:29: Которому я обязан всем | verbatim |
 | 6 | Вика | Почему я считаю его гением. | Which is why I consider him a genius. | #306 00:20:32: почему я считаю его гением | verbatim |
-| 7 | Аня | Ну такой странный вкус, да? | Well, that is a rather strange taste, right? | #307 00:20:50: Ну такой странный вкус, да | verbatim |
+| 7 | Шеф | Ну такой странный вкус, да? | Well, that is a rather strange taste, right? | #307 00:20:50: Ну такой странный вкус, да | verbatim |
 | 8 | Вика | Может быть это из-за чернослива? | Maybe it is because of the prunes? | #308 00:20:52: Может быть это из-за чернослива | verbatim |
-| 9 | Аня | Сплошной уксус. | It is pure vinegar. | #310 00:20:58: Сплошной уксус | verbatim |
+| 9 | Шеф | Сплошной уксус. | It is pure vinegar. | #310 00:20:58: Сплошной уксус | verbatim |
 | 10 | Вика | Дорогие друзья, к сожалению, мне пора в аэропорт. | Dear friends, unfortunately it is time for me to head to the airport. | #311 00:21:01: Дорогие друзья, к сожалению, мне пора в аэропорт | verbatim |
-| 11 | Аня | Виктор Петрович. | Viktor Petrovich. | #313 00:21:08: Виктор Петрович | verbatim |
+| 11 | Шеф | Виктор Петрович. | Viktor Petrovich. | #313 00:21:08: Виктор Петрович | verbatim |
 | 12 | Вика | Вот ключи от моей. | Here are the keys to my. | #314 00:21:12: Вот ключи от моей | verbatim |
-| 13 | Аня | Новой машины. | New car. | #315 00:21:15: новой машины | verbatim |
+| 13 | Шеф | Новой машины. | New car. | #315 00:21:15: новой машины | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

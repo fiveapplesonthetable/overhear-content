@@ -27,5 +27,5 @@
 | 13 | `monica` (Monica) | Pourquoi pas, allons voir ce rayon ensemble! | Why not, let us go see this section together! | 228:Vous pouvez m'aider ? |
 
 ## Part 5 — Outro & Closing
-> Gabriel playfully exposes the contrast between Monica's glamorous habits and her yearning for an ordinary life. When you watch the episode, listen out for the expressions meaning 'miss' and 'drinking water'. You'll catch them now. See you next time.
+> Gabriel playfully exposes the contrast between Monica's glamorous habits and her yearning for an ordinary life. When you watch the episode, listen out for the expressions meaning 'miss' and 'drinking water'. You'll catch them now. See you next time!
 - **Closing**: `monica`: *Bonne soirée!*

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e19-scene-06"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-06'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 6
-TITLE = 'Образ для роли и неожиданный кофе  (In Character and an Unexpected Coffee)'
+TITLE = "Образ для роли и неожиданный кофе  (In Character and an Unexpected Coffee)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Still dressed in his eccentric rehearsal look, Nagiyev explains that he is staying in character so people can see his artistic range. When a waitress brings him a cup of coffee he never asked for, he realizes someone at another table sent it over and preens with pride.'
 
 STORY = [
-    ('anya', 'Ну, понимаешь.', 'Well, you understand how it is.', [(93, 'Ну, понимаешь')], ''),
-    ('vika', 'Поэтому хожу.', 'That is why I walk around like this.', [(95, 'Поэтому хожу')], ''),
+    ('chef', 'Ну, понимаешь.', 'Well, you understand how it is.', [(93, 'Ну, понимаешь')], ''),
+    ('nagiyev', 'Поэтому хожу.', 'That is why I walk around like this.', [(95, 'Поэтому хожу')], ''),
     ('nagiyev', 'Видишь, люди знают, любят.', 'You see, people know me and love me.', [(102, 'Видишь, люди знают, любят')], ''),
-    ('anya', 'Получается так.', 'That is how it turns out.', [(103, 'Получается так')], ''),
-    ('vika', 'Дмитрий Владимирович.', 'Dmitriy Vladimirovich.', [(103, 'Дмитрий Владимирович')], ''),
+    ('chef', 'Получается так.', 'That is how it turns out.', [(103, 'Получается так')], ''),
+    ('nagiyev', 'Дмитрий Владимирович.', 'Dmitriy Vladimirovich.', [(103, 'Дмитрий Владимирович')], ''),
     ('nagiyev', 'Ваш кофе.', 'Here is your coffee.', [(104, 'Ваш кофе')], ''),
-    ('anya', 'Че это?', 'What is this?', [(104, 'Че это')], ''),
-    ('vika', 'Я не просил.', 'I did not ask for this.', [(105, 'Я не просил')], ''),
+    ('chef', 'Че это?', 'What is this?', [(104, 'Че это')], ''),
+    ('nagiyev', 'Я не просил.', 'I did not ask for this.', [(105, 'Я не просил')], ''),
     ('nagiyev', 'Ах, вот как и я.', 'Ah, so that is how it is.', [(106, 'Ах, вот как и я')], ''),
-    ('anya', 'Ах, вот как.', 'Ah, I see now.', [(107, 'Ах, вот как')], ''),
-    ('vika', 'Молодец. Глядишь так.', 'Good job. Keep looking like that.', [(108, 'Молодец. Глядишь так')], ''),
+    ('chef', 'Ах, вот как.', 'Ah, I see now.', [(107, 'Ах, вот как')], ''),
+    ('nagiyev', 'Молодец. Глядишь так.', 'Good job. Keep looking like that.', [(108, 'Молодец. Глядишь так')], ''),
     ('nagiyev', 'А че?', 'Why, what is wrong?', [(109, 'А че')], ''),
-    ('anya', 'Кстати, вам очень идет.', 'By the way, it suits you very well.', [(110, 'Кстати, вам очень идет')], ''),
+    ('chef', 'Кстати, вам очень идет.', 'By the way, it suits you very well.', [(110, 'Кстати, вам очень идет')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 6 of Episode 19, listen out for the exchange around in character and an unexpected coffee — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Кстати, вам очень идет.')
+OUTRO = 'That wraps up this scene as nagiyev explains why he is walking around in costume to get into character for the director, and is surprised when a waitress brings him a coffee he never ordered. See you next time!'
+CLOSING = ("chef", "Хорошего дня!")

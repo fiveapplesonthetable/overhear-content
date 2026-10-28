@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e05-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 18
-TITLE = 'Двойное разоблачение в больнице  (Double Exposure at the Hospital)'
+TITLE = "Двойное разоблачение в больнице  (Double Exposure at the Hospital)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = "In the decoy hospital room, Vika tenderly tells Max that she wants them to be together, only for the real patient assigned to that bed to walk in and kick Max out. Minutes later, Vika walks into Max's actual room and comes face to face with Sasha, exposing Max's double game to both women at once."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 18 of Episode 5, listen out for the exchange around double exposure at the hospital — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Я к Максу пришла.')
+OUTRO = "That wraps up this scene as the real occupant of the decoy hospital bed returns and kicks Max out, causing Vika and Sasha to run into each other in Max's real ward and discover his double game. See you next time!"
+CLOSING = ("vika", "До завтра!")

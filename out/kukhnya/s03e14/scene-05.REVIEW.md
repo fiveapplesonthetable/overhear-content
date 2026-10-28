@@ -20,9 +20,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Гость | Иди давай, мы тебя ждём на улице. | Go on then, we are waiting for you outside. | #71 00:05:55: Иди давай, мы тебя ждем уже | adapted: adapted |
 | 9 | Аня | Здорово, батя, зачем ты звонил? | Hey, pops, why did you call? | #73 00:06:11: Здорово, батя | adapted: adapted |
 | 10 | Аня | Вчера как-то неудобно у нас получилось. | Things turned out rather awkwardly between us yesterday. | #75 00:06:16: вчера как-то неудобно получилось | adapted: adapted |
-| 11 | Шеф | Тебе нужны деньги, а мне нужна дочь. | You need money, and I need my daughter. | #77 00:06:25: Тебе ж нужны деньги, а мне нужна дочь | adapted: adapted |
+| 11 | Гость | Тебе нужны деньги, а мне нужна дочь. | You need money, and I need my daughter. | #77 00:06:25: Тебе ж нужны деньги, а мне нужна дочь | adapted: adapted |
 | 12 | Аня | Понял, а сколько здесь денег? | Got it, and how much money is here? | #78 00:06:30: А сколько здесь | adapted: adapted |
-| 13 | Шеф | Здесь ровно сто тысяч рублей. | There is exactly one hundred thousand rubles here. | #79 00:06:32: Сто тысяч | adapted: adapted |
+| 13 | Гость | Здесь ровно сто тысяч рублей. | There is exactly one hundred thousand rubles here. | #79 00:06:32: Сто тысяч | adapted: adapted |
 | 14 | Аня | А у тебя ещё дочки есть? | Do you have any more daughters? | #81 00:06:36: А у тебя еще дочки есть | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will finish stuffing it right now and come right out.' The meaning hinges on 'I' working together with 'I'll get out' in spoken Russian.
 - 'Go on then, we are waiting for you outside.' Notice how Russian expresses 'go' and 'street' with crisp inflection rather than helper words. Max answers right away.
 - 'Hey, pops, why did you call?' Max anchors the line on 'great', while 'called' completes the thought.
-- 'Things turned out rather awkwardly between us yesterday.' Notice the reflexive suffix on the verb meaning 'turned out', turning the action back on the subject.
+- 'Things turned out rather awkwardly between us yesterday.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'You need money, and I need my daughter.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'daughter'. Max answers right away.
 - 'Got it, and how much money is here?' The '-l' ending on the verb meaning 'understood' places the action in the masculine past tense.
 - 'There is exactly one hundred thousand rubles here.' Chef Barinov anchors the line on 'here', while 'rubles' completes the thought.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I still work as a cook.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'We recently returned from Paris.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'I finally proposed to Vika.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'I still work as a cook.' Notice how Russian puts 'still, as before' and 'as a cook' together in a short, direct phrase where word endings show how the ideas connect.
+- 'We recently returned from Paris.' Here Max anchors the thought on 'returned' and finishes on 'paris', keeping the spoken rhythm brisk and natural.
+- 'I finally proposed to Vika.' In everyday Russian, 'at last, finally' flows straight into 'offer, proposal; sentence' without extra linking words.
 - 'We returned to Russia and got married.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'We have an ideal family.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Wait, are you not listening to me at all?' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'We have an ideal family.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Wait, are you not listening to me at all?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Or am I invisible to you?' Vika uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'I discovered the secret of married life.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Am I talking to a wall?' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'I discovered the secret of married life.' Max pairs 'to solve, to uncover' with 'life' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Am I talking to a wall?' Notice how Russian puts 'wall' and 'to talk, to speak' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Vika, did you want to say something?' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'No, nothing at all.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'It does not matter.' Vika places the negative particle directly before the verb or predicate to negate the statement.
+- 'No, nothing at all.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
+- 'It does not matter.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.

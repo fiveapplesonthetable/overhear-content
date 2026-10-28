@@ -31,5 +31,5 @@
 | 17 | `camille` (Camille) | Je suis sûre qu'on se reverra. | I | 734:Je suis sûre qu'on se reverra |
 
 ## Part 5 — Outro & Closing
-> That's the end of a very short first job. If you picked up the two little words that wrap around a verb to make it negative, you've learned something you'll use every single day. Until next time.
+> That's the end of a very short first job. If you picked up the two little words that wrap around a verb to make it negative, you've learned something you'll use every single day. See you next time!
 - **Closing**: `camille`: *Au revoir!*

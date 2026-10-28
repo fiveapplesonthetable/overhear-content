@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Chaque jeune acteur cherche sa chance! | Every young actor seeks his chance! | 715:On sait jamais. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a promising young talent. When you watch the episode, listen out for the expressions meaning 'welcome' and 'office'. You'll catch them now. See you next time.
+> That's it for this scene around a promising young talent. When you watch the episode, listen out for the expressions meaning 'welcome' and 'office'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *À bientôt!*

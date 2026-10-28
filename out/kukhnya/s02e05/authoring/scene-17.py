@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e05-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 17
-TITLE = 'Уловка с чужой палатой  (The Decoy Hospital Room Trick)'
+TITLE = "Уловка с чужой палатой  (The Decoy Hospital Room Trick)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = 'Knowing that Sasha is waiting for him inside his real room, Max frantically steers Vika into a neighboring ward down the hall and climbs into an empty bed. Back at the bar, Vika had pressured Kostya into revealing which hospital Max was taken to.'
 
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'Kostya, which hospital is Max in?' Kostya raises the pitch on 'Max' to turn the phrase into a direct spoken question. Max answers right away."),
     (6, None, "'I do not know.' The grammar packs 'I' and 'know' into a tight, idiomatic kitchen exchange."),
     (7, None, "'All right, why is your coffee machine dirty?' Kostya anchors the line on 'like this', while 'dirty' completes the thought."),
-    (8, None, "'Should I fine you?' In Russian, the idea of 'you' flows naturally into 'to fine' without extra filler words. Kostya answers right away."),
+    (8, None, "'Should I fine you?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
     (9, None, "'I literally just made coffee.' In Russian, the idea of 'I' flows naturally into 'to do' without extra filler words."),
     (10, None, "'And where are all the oranges?' Here the Russian phrasing highlights 'and' before landing on 'oranges'."),
     (11, None, "'Did you order the wine?' Here the Russian phrasing highlights 'you' before landing on 'ordered'. Max answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 17 of Episode 5, listen out for the exchange around the decoy hospital room trick — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'В какой больнице, Макс?')
+OUTRO = 'That wraps up this scene as knowing Sasha is inside his real ward, Max leads Vika into an empty neighboring room while frantically calling Kostya for letting both girls find out where he was. Until next time!'
+CLOSING = ("anya", "До встречи!")

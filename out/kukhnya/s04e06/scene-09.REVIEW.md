@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max, tell me, what happened again?' Vika senses trouble from the look on Max's face.
-- 'Listen, Vika, just do not get too angry.' Negated reflexive imperative asks her to keep her temper.
+- 'Listen, Vika, just do not get too angry.' Here Max anchors the thought on 'listen' and finishes on 'be angry', keeping the spoken rhythm brisk and natural.
 - 'Do you remember how we made up last night?' Second-person singular present verb introduces the memory.
 - 'You and I drank tasty wine back then.' The idiom 'we with you' means 'you and I'.
-- 'Well then, I took it from the bar.' Preposition 'out of/from' governs the genitive singular of 'bar'.
-- 'And it suddenly turned out to be very expensive.' The reflexive verb for turning out governs the instrumental case on the adjective.
+- 'Well then, I took it from the bar.' Notice how Russian puts 'so, like this' and 'of the bar' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And it suddenly turned out to be very expensive.' Here Max anchors the thought on 'suddenly, what if' and finishes on 'expensive; dear', keeping the spoken rhythm brisk and natural.
 - 'And just how much does this bottle of wine cost?' Emphatic particle intensifies the price question.
-- 'It costs a whole five thousand dollars.' Genitive plural adjective 'whole' emphasizes the huge sum.
-- 'Vika, do not worry, I will solve everything.' Perfective future 'will solve' promises a quick fix.
-- 'I know well how this usually ends.' Instrumental pronoun 'with what' marks the outcome after the verb for ending.
-- 'I have to clean up your problems myself afterwards!' Impersonal verb 'has to' takes the dative feminine phrase 'to me myself'.
-- 'Stop lecturing me, I will fix everything myself!' Word 'enough' acts as a sharp command followed by an imperfective infinitive.
+- 'It costs a whole five thousand dollars.' Max pairs 'is standing' with 'dollars' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Vika, do not worry, I will solve everything.' Notice how Russian puts 'worry' and 'I'll solve' together in a short, direct phrase where word endings show how the ideas connect.
+- 'I know well how this usually ends.' Here Vika anchors the thought on 'good, well, all right' and finishes on 'to end, to finish', keeping the spoken rhythm brisk and natural.
+- 'I have to clean up your problems myself afterwards!' In everyday Russian, 'later, afterwards' flows straight into 'problems' without extra linking words.
+- 'Stop lecturing me, I will fix everything myself!' Max pairs 'enough' with 'will fix' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

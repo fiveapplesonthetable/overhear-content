@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e09-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 18
-TITLE = 'Примирение с Нагиевым и спасение Макса  (Reconciling with Nagiyev and Saving Max)'
+TITLE = "Примирение с Нагиевым и спасение Макса  (Reconciling with Nagiyev and Saving Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Кристина', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kristina": "anja", "anya": "alisa"}
+LABELS = {"kristina": "Кристина", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'Having passionately made up with Nagiyev and called off their divorce, Kristina is in a wonderful mood when Max steps out of hiding. Instead of blackmailing him or firing Kostya, she gladly hands Max a replacement bottle from her collection and lets him go home to Sasha.'
 
 STORY = [
-    ('anya', 'Было круто.', 'That was amazing.', [(295, 'Было круто')], ''),
-    ('max', 'Надо нам почаще разводиться.', 'We should get divorced more often.', [(297, 'Надо нам почаще разводиться')], ''),
-    ('anya', 'Ты зачем пришел-то?', 'Why did you come here anyway?', [(298, 'Ты зачем пришел-то')], ''),
-    ('max', 'Ты знаешь.', 'You know why.', [(301, 'Ты знаешь')], ''),
-    ('anya', 'Это да.', 'That is true.', [(302, 'Это да')], ''),
-    ('max', 'Ой, елки.', 'Oh, shoot.', [(303, 'Ой, елки')], ''),
-    ('anya', 'Фу, елки.', 'Phew, thank goodness.', [(304, 'Фу, елки')], ''),
-    ('max', 'Тут такое дело.', 'Here is the thing.', [(306, 'тут такое дело')], ''),
-    ('anya', 'Не могла бы ты мне дать свой?', 'Could you possibly give me yours?', [(307, 'Не могла бы ты мне дать свой')], ''),
-    ('max', 'Конечно, даже милая.', 'Of course, my dear.', [(307, 'Конечно, даже милая')], ''),
-    ('anya', 'Спасибо большое.', 'Thank you very much.', [(308, 'Спасибо большое')], ''),
-    ('max', 'Да, кто стерва?', 'Yes, who is a bitch?', [(309, 'Да, кто стерва')], ''),
-    ('anya', 'Чего ж я тебе раньше-то не написала?', 'Why did I not text you earlier?', [(310, 'Чего ж я тебе раньше-то не написала')], ''),
+    ('kristina', 'Было круто.', 'That was amazing.', [(295, 'Было круто')], ''),
+    ('anya', 'Надо нам почаще разводиться.', 'We should get divorced more often.', [(297, 'Надо нам почаще разводиться')], ''),
+    ('kristina', 'Ты зачем пришел-то?', 'Why did you come here anyway?', [(298, 'Ты зачем пришел-то')], ''),
+    ('anya', 'Ты знаешь.', 'You know why.', [(301, 'Ты знаешь')], ''),
+    ('kristina', 'Это да.', 'That is true.', [(302, 'Это да')], ''),
+    ('anya', 'Ой, елки.', 'Oh, shoot.', [(303, 'Ой, елки')], ''),
+    ('kristina', 'Фу, елки.', 'Phew, thank goodness.', [(304, 'Фу, елки')], ''),
+    ('anya', 'Тут такое дело.', 'Here is the thing.', [(306, 'тут такое дело')], ''),
+    ('kristina', 'Не могла бы ты мне дать свой?', 'Could you possibly give me yours?', [(307, 'Не могла бы ты мне дать свой')], ''),
+    ('anya', 'Конечно, даже милая.', 'Of course, my dear.', [(307, 'Конечно, даже милая')], ''),
+    ('kristina', 'Спасибо большое.', 'Thank you very much.', [(308, 'Спасибо большое')], ''),
+    ('anya', 'Да, кто стерва?', 'Yes, who is a bitch?', [(309, 'Да, кто стерва')], ''),
+    ('kristina', 'Чего ж я тебе раньше-то не написала?', 'Why did I not text you earlier?', [(310, 'Чего ж я тебе раньше-то не написала')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 18 of Episode 9, listen out for the exchange around reconciling with nagiyev and saving max — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('max', 'Да, кто стерва?')
+OUTRO = 'That wraps up this scene as after passionately reconciling with Nagiyev, a cheerful Kristina gives Max a replacement bottle of wine from her personal collection and drops her threat. See you next time!'
+CLOSING = ("anya", "До завтра!")

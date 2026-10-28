@@ -30,5 +30,5 @@
 | 16 | `camille` (Camille) | Bonne journée. | Have a nice day. | 262:Bonne journée |
 
 ## Part 5 — Outro & Closing
-> That was a nice one to finish on. Keep your ears open for that special yes when you watch, and I'll see you next time.
+> That was a nice one to finish on. Keep your ears open for that special yes when you watch. See you next time!
 - **Closing**: `camille`: *À bientôt!*

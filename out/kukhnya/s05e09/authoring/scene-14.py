@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e09-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 14
-TITLE = 'Дневник похудения  (The Weight-Loss Diary)'
+TITLE = "Дневник похудения  (The Weight-Loss Diary)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = 'At morning breakfast, Viktor pretends he is still strictly dieting and drinks only water. Excited by his dedication, Elena brings out a scale and a camera to track his weight loss every single day, making Viktor sweat over his tailor trick.'
 
 STORY = [
-    ('anya', 'Привет.', 'Hello.', [(204, 'Привет')], 'adapted'),
+    ('chef', 'Привет.', 'Hello.', [(204, 'Привет')], 'adapted'),
     ('elena', 'Ладно, пачкай тарелки, потом иди мой.', 'Alright, dirty the plates, then go wash them.', [(206, 'Ладно, пачкуй тарелки'), (207, 'Потом иди мой')], 'adapted'),
     ('elena', 'А ты со мной не позавтракаешь?', 'Will you not have breakfast with me?', [(208, 'А ты со мной не позавтракаешь')], 'adapted'),
-    ('anya', 'Нет, ты что, забыла? Я же на диете.', 'No, did you forget? I am on a diet.', [(209, 'Нет. Ты что, забыла? Я же на диете')], 'adapted'),
-    ('anya', 'Я вот лучше водички.', 'I would rather have some water.', [(210, 'Я вот лучше водички')], 'adapted'),
+    ('chef', 'Нет, ты что, забыла? Я же на диете.', 'No, did you forget? I am on a diet.', [(209, 'Нет. Ты что, забыла? Я же на диете')], 'adapted'),
+    ('chef', 'Я вот лучше водички.', 'I would rather have some water.', [(210, 'Я вот лучше водички')], 'adapted'),
     ('elena', 'И много ты сбросил за один день?', 'And did you lose much in one day?', [(211, 'И много ты сбросил за один день')], 'adapted'),
-    ('anya', 'Да, это ещё не предел.', 'Yes, that is not the limit yet.', [(212, 'Да, это еще не предел')], 'adapted'),
+    ('chef', 'Да, это ещё не предел.', 'Yes, that is not the limit yet.', [(212, 'Да, это еще не предел')], 'adapted'),
     ('elena', 'Кстати, давай мы будем это всё фиксировать.', 'By the way, let us record all of this.', [(213, 'Кстати, а давай-ка мы будем это все фиксировать')], 'adapted'),
     ('elena', 'Будем каждый день тебя фотографировать.', 'We will photograph you every day.', [(217, 'Будем каждый день тебя фотографировать')], 'adapted'),
     ('elena', 'И у тебя живот будет уменьшаться.', 'And your belly will get smaller.', [(217, 'и только у тебя живот будет уменьшаться')], 'adapted'),
-    ('anya', 'Давай.', 'Let us do it.', [(218, 'Давай')], 'adapted'),
-    ('anya', 'Видишь, как опасно надо мной шутить!', 'See how dangerous it is to joke with me!', [(220, 'Видишь, как опасно надо мной шутить')], 'adapted'),
+    ('chef', 'Давай.', 'Let us do it.', [(218, 'Давай')], 'adapted'),
+    ('chef', 'Видишь, как опасно надо мной шутить!', 'See how dangerous it is to joke with me!', [(220, 'Видишь, как опасно надо мной шутить')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That finishes the breakfast scene. Pay attention to how Elena suggests tracking and photographing Viktor's progress every day. See you in the next scene."
-CLOSING = ('anya', 'Я же на диете!')
+OUTRO = "That finishes the breakfast scene. Pay attention to how Elena suggests tracking and photographing Viktor's progress every day. See you next time!"
+CLOSING = ("chef", "До свидания!")

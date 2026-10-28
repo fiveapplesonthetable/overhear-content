@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 24
-TITLE = "Une balle dans le pied  (Shooting Yourself in the Foot)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une balle dans le pied  (Shooting Yourself in the Foot)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "solveig": "emilie"}
-LABELS = {"gabriel": "Gabriel", "solveig": "Solveig"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'solveig': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now Gabriel calls Solveig on the phone for a desperate piece of agent magic. Somehow, he has to convince the serious Scandinavian director that Laura's terrible behaviour at the audition was actually a sign of passion. Let's listen to the call in French first; don't worry if you don't catch every word."
 OPENER = "Let's go through it line by line. Solveig answers the phone in the standard formal way."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Gabriel's outrageous story about French actors shooting themselves in the foot worked a little too well: now Solveig Akerfelt wants to see both Nathalie Baye and Laura Smet together in the same room. See you next time."
-CLOSING = ("gabriel", "À tout à l'heure!")
+OUTRO = "Gabriel's outrageous story about French actors shooting themselves in the foot worked a little too well: now Solveig Akerfelt wants to see both Nathalie Baye and Laura Smet together in the same room. See you next time!"
+CLOSING = ('gabriel', "À tout à l'heure!")
 STORY = [
     ('solveig', "Solveig à l'appareil.", 'Solveig speaking.', [(598, "Solveig à l'appareil")], ''),
     ('gabriel', "Allô, Solveig? C'est Gabriel Sarda, l'agent de Laura Smet.", 'Hello, Solveig? It', [(599, 'Allô, Solveig'), (600, "C'est Gabriel Sarda, l'agent de Laura Smet")], ''),

@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e15-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 15
 SCENE = 16
 TITLE = "Чужие дела и заказ  (Other People's Business and the Order)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "katya": "angelina"}
+LABELS = {"kostya": "Костя", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.15'
 SOURCE_FILE = 'sources/kukhnya/s06/e15.ru.srt'
 
 INTRO = "After the guests leave, Kostya tells Nastya to stop trying to force everyone to live according to her rules, since his father found a girlfriend on his own. Meanwhile at the restaurant, Sveta's parents order a molecular cuisine dish that Katya has to prepare right at their table!"
 
 STORY = [
-    ('anya', 'Настя, да он сам её нашёл!', 'Nastya, he found her all by himself!', [(267, 'Настя, да он сам её нашёл')], 'adapted'),
-    ('anya', 'Ты же сама хотела его познакомить.', 'You wanted to introduce him to someone yourself.', [(268, 'Ты же сама хотела его с кем-нибудь')], 'adapted'),
-    ('anya', 'Почему все должны жить по-твоему?', 'Why must everyone live your way?', [(270, 'почему все должны жить так')], 'adapted'),
-    ('nastya', 'Ребята, пожалуйста, не ссорьтесь из-за меня.', 'Guys, please do not quarrel because of me.', [(273, 'Ребята, не ссорьтесь, это всё я')], 'adapted'),
-    ('anya', 'Папа, ты тут совершенно ни при чём.', 'Dad, you have nothing to do with this at all.', [(274, 'ты тут ни при чём')], 'adapted'),
-    ('anya', 'Не надо лезть в чужие дела.', "Do not meddle in other people's business.", [(275, 'в чужие дела')], 'adapted'),
-    ('nastya', 'Ничего я в чужие дела не лезу!', "I do not meddle in other people's business at all!", [(277, 'Ничего я никуда')], 'adapted'),
+    ('kostya', 'Настя, да он сам её нашёл!', 'Nastya, he found her all by himself!', [(267, 'Настя, да он сам её нашёл')], 'adapted'),
+    ('kostya', 'Ты же сама хотела его познакомить.', 'You wanted to introduce him to someone yourself.', [(268, 'Ты же сама хотела его с кем-нибудь')], 'adapted'),
+    ('kostya', 'Почему все должны жить по-твоему?', 'Why must everyone live your way?', [(270, 'почему все должны жить так')], 'adapted'),
+    ('katya', 'Ребята, пожалуйста, не ссорьтесь из-за меня.', 'Guys, please do not quarrel because of me.', [(273, 'Ребята, не ссорьтесь, это всё я')], 'adapted'),
+    ('kostya', 'Папа, ты тут совершенно ни при чём.', 'Dad, you have nothing to do with this at all.', [(274, 'ты тут ни при чём')], 'adapted'),
+    ('kostya', 'Не надо лезть в чужие дела.', "Do not meddle in other people's business.", [(275, 'в чужие дела')], 'adapted'),
+    ('katya', 'Ничего я в чужие дела не лезу!', "I do not meddle in other people's business at all!", [(277, 'Ничего я никуда')], 'adapted'),
     ('katya', 'Может быть, мы хорошее шампанское закажем?', 'Maybe we should order some good champagne?', [(280, 'шампанское закажем')], 'adapted'),
     ('katya', 'Что такое новое блюдо молекулярной кухни?', 'What is this new molecular cuisine dish?', [(282, 'что такое блюдо молекулярной кухни')], 'adapted'),
     ('katya', 'Это блюдо готовит наш повар Екатерина.', 'Our chef Yekaterina prepares this dish.', [(283, 'наш повар Екатерина')], 'adapted'),
-    ('anya', 'Не советую, оно готовится очень долго.', 'I do not advise it, it takes a very long time to prepare.', [(284, 'Не советую. Очень долго')], 'adapted'),
+    ('kostya', 'Не советую, оно готовится очень долго.', 'I do not advise it, it takes a very long time to prepare.', [(284, 'Не советую. Очень долго')], 'adapted'),
     ('katya', 'Решено, мы будем заказывать молекулярную кухню!', 'It is decided, we will order the molecular cuisine!', [(286, 'Решено'), (287, 'Мы будем молекулярную кухню')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Despite Denis's warning, Sveta's parents order the molecular dish, bringing Katya right to their table with liquid nitrogen. See you in the next scene."
-CLOSING = ('anya', 'Не ссорьтесь из-за меня.')
+OUTRO = "Despite Denis's warning, Sveta's parents order the molecular dish, bringing Katya right to their table with liquid nitrogen. See you next time!"
+CLOSING = ("kostya", "Всего хорошего!")

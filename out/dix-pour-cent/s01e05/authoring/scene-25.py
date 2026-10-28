@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 25
-TITLE = "Vous êtes vraiment en couple?  (Are You Really a Couple?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Vous êtes vraiment en couple?  (Are You Really a Couple?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Now, as they drive back to the city together, the mood in the car is much calmer. Listen to their conversation in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk back through it. Gabriel is at the wheel, glad that the long day in the country is over."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Andréa and Colette are officially a secret couple, while back in Paris Mathias is preparing to buy the agency with his wife's money. Remember that the French word that looks like 'sensible' actually means 'sensitive'. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Andréa and Colette are officially a secret couple, while back in Paris Mathias is preparing to buy the agency with his wife's money. Remember that the French word that looks like 'sensible' actually means 'sensitive'. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('gabriel', 'Je suis content de rentrer à Paris.', 'I', [(549, 'content de rentrer à Paris')], ''),
     ('gabriel', 'Tu as des nouvelles de Brancillon?', 'Do you have any news of Brancillon?', [(550, 'Des nouvelles de Brancillon')], ''),

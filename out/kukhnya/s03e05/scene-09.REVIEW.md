@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Ой, горю, горю, горю! | Oh, I am burning, burning, burning! | #128 00:10:13: Горю, горю, горю | adapted: adapted |
-| 2 | Сеня | Ребята, помогите мне, помогите! | Guys, help me, help! | #129 00:10:15: Помогите! Помогите | adapted: adapted |
-| 3 | Аня | Что это у тебя такое твёрдое? | What is that hard thing you have there? | #130 00:10:18: Что это у тебя такое | adapted: adapted |
-| 4 | Сеня | А это совсем не твоё дело. | That is none of your business at all. | #132 00:10:25: А это не твое дело | adapted: adapted |
-| 5 | Аня | А ну, быстро стой здесь. | Come on, stand right here quickly. | #133 00:10:26: стой | adapted: adapted |
-| 6 | Аня | Это что ещё у тебя такое? | What else is this that you have? | #134 00:10:29: Это что еще такое | adapted: adapted |
-| 7 | Сеня | Лёва, это вообще не моё. | Lyova, this is not mine at all. | #135 00:10:31: Это не мое | adapted: adapted |
-| 8 | Аня | Правда, это совсем не твоё? | Really, this is not yours at all? | #136 00:10:33: Это не твое | adapted: adapted |
-| 9 | Сеня | Нет, конечно, это не моё. | No, of course, this is not mine. | #136 00:10:33: Нет, это не мое | adapted: adapted |
-| 10 | Аня | Ну да, конечно, я так и поверил. | Well yes, of course, as if I believed that. | #137 00:10:36: Ну, конечно | adapted: adapted |
-| 11 | Аня | Я буду тебя персонально обыскивать. | I will search you personally. | #138 00:10:38: я буду тебя персонально обыскивать | adapted: adapted |
-| 12 | Аня | В конце каждого рабочего дня. | At the end of every working day. | #139 00:10:44: каждого рабочего дня | adapted: adapted |
+| 1 | Лёва | Ой, горю, горю, горю! | Oh, I am burning, burning, burning! | #128 00:10:13: Горю, горю, горю | adapted: adapted |
+| 2 | Лёва | Ребята, помогите мне, помогите! | Guys, help me, help! | #129 00:10:15: Помогите! Помогите | adapted: adapted |
+| 3 | Лёва | Что это у тебя такое твёрдое? | What is that hard thing you have there? | #130 00:10:18: Что это у тебя такое | adapted: adapted |
+| 4 | Лёва | А это совсем не твоё дело. | That is none of your business at all. | #132 00:10:25: А это не твое дело | adapted: adapted |
+| 5 | Лёва | А ну, быстро стой здесь. | Come on, stand right here quickly. | #133 00:10:26: стой | adapted: adapted |
+| 6 | Лёва | Это что ещё у тебя такое? | What else is this that you have? | #134 00:10:29: Это что еще такое | adapted: adapted |
+| 7 | Лёва | Лёва, это вообще не моё. | Lyova, this is not mine at all. | #135 00:10:31: Это не мое | adapted: adapted |
+| 8 | Лёва | Правда, это совсем не твоё? | Really, this is not yours at all? | #136 00:10:33: Это не твое | adapted: adapted |
+| 9 | Лёва | Нет, конечно, это не моё. | No, of course, this is not mine. | #136 00:10:33: Нет, это не мое | adapted: adapted |
+| 10 | Лёва | Ну да, конечно, я так и поверил. | Well yes, of course, as if I believed that. | #137 00:10:36: Ну, конечно | adapted: adapted |
+| 11 | Лёва | Я буду тебя персонально обыскивать. | I will search you personally. | #138 00:10:38: я буду тебя персонально обыскивать | adapted: adapted |
+| 12 | Лёва | В конце каждого рабочего дня. | At the end of every working day. | #139 00:10:44: каждого рабочего дня | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

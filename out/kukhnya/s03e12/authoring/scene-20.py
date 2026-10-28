@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 20
-TITLE = 'С новосельем, друзья!  (Happy Housewarming, Friends!)'
+TITLE = "С новосельем, друзья!  (Happy Housewarming, Friends!)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = "Alone in the apartment, Max asks Vika if she is truly happy with Dmitry Nagiyev. Their emotional conversation turns into a passionate reunion, until Kostya and Nastya show up on the doorstep with all their bags to move into Vika's apartment themselves! Listen to the final Russian scene first."
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'And what did you want to hear from me?' In Russian, the idea of 'and' flows naturally into 'to hear' without extra filler words."),
     (4, None, "'That I feel bad and I am still in love with you?' Vika addresses the listener with the informal singular 'you' alongside 'you'."),
     (5, None, "'All of that is already in the past, Max.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'Max'."),
-    (6, None, "'This madness must end right now.' In Russian, the idea of 'this' flows naturally into 'to end' without extra filler words."),
+    (6, None, "'This madness must end right now.' Here Vika anchors the thought on 'madness, insanity' and finishes on 'to end, to be over', keeping the spoken rhythm brisk and natural."),
     (7, None, "'Let it end in twenty minutes.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'minutes'. Vika answers right away."),
     (8, None, "'You see, you do not change at all.' The meaning hinges on 'see' working together with 'you change' in spoken Russian."),
     (9, None, "'The long-awaited victory somehow brings no joy.' The grammar packs 'long-awaited' and 'joy' into a tight, idiomatic kitchen exchange."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Just when Max thinks he has finally got his own apartment and won Vika back, Kostya and Nastya move right back in with him! That completes Episode Twelve of Kukhnya Season Three. Great job mastering these Russian dialogues!'
-CLOSING = ('kostya', 'Друзья, с новосельем вас!')
+OUTRO = 'Just when Max thinks he has finally got his own apartment and won Vika back, Kostya and Nastya move right back in with him! That completes Episode Twelve of Kukhnya Season Three. Great job mastering these Russian dialogues! See you next time!'
+CLOSING = ("kostya", "До свидания!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 15
 TITLE = "Слезы невесты  (The Bride's Tears)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "On the day of Kostya and Nastya's wedding, everything goes wrong: the bridal bouquet is stuck in traffic, Kostya is standing on crutches with a cast and no best man, and Nastya bursts into tears at the altar!"
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Just as Nastya refuses to begin the ceremony, an even bigger surprise interrupts the wedding.'
-CLOSING = ('nastya', 'Где мой красивый свадебный букет?')
+OUTRO = 'Just as Nastya refuses to begin the ceremony, an even bigger surprise interrupts the wedding. Until next time!'
+CLOSING = ("nastya", "До завтра!")

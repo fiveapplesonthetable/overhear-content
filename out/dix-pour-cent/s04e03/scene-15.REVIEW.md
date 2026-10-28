@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Ne touche plus jamais à mon bébé! | Never touch my baby again! | 667:mon bébé |
 
 ## Part 5 — Outro & Closing
-> Andrea recovers her baby daughter safely from Jose Garcia at the daycare center. When you watch the episode, listen out for the expressions meaning 'baby' and 'adored'. You'll catch them now. See you next time.
+> Andrea recovers her baby daughter safely from Jose Garcia at the daycare center. When you watch the episode, listen out for the expressions meaning 'baby' and 'adored'. You'll catch them now. See you next time!
 - **Closing**: `jose`: *À plus tard, maman stressée!*

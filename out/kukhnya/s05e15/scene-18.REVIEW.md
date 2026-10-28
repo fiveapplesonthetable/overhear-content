@@ -14,14 +14,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Михаил | Но ты это завтра утром сразу же забудь! | But you forget about it first thing tomorrow morning! | #317 00:20:16: Но ты это сразу забудь | adapted: adapted |
 | 3 | Михаил | Мне очень нравится твоя бывшая жена Элеонора. | I really like your ex-wife Eleonora. | #319 00:20:22: Мне нравится твоя жена | adapted: adapted |
 | 4 | Михаил | Только, пожалуйста, не говори об этом никому! | Only please, do not tell anyone about this! | #322 00:20:32: никому, пожалуйста | adapted: adapted |
-| 5 | Аня | Ну что, ты хочешь, чтобы я тебя благословил? | Well, do you want me to give you my blessing? | #323 00:20:36: ты хочешь | adapted: adapted |
-| 6 | Аня | Извини, Миша, но делай как считаешь нужным. | Sorry, Misha, but do whatever you see fit. | #324 00:20:38: Извини, это не ко мне | adapted: adapted |
+| 5 | Михаил | Ну что, ты хочешь, чтобы я тебя благословил? | Well, do you want me to give you my blessing? | #323 00:20:36: ты хочешь | adapted: adapted |
+| 6 | Михаил | Извини, Миша, но делай как считаешь нужным. | Sorry, Misha, but do whatever you see fit. | #324 00:20:38: Извини, это не ко мне | adapted: adapted |
 | 7 | Сеня | Господа, внимание, у меня созрел отличный тост! | Gentlemen, attention, I have a great toast ready! | #326 00:20:50: У меня созрел тост | adapted: adapted |
 | 8 | Сеня | Дорогой шеф, пусть это будет ваша последняя свадьба! | Dear Chef, may this be your final wedding! | #329 00:20:59: чтобы это была ваша последняя свадьба | adapted: adapted |
 | 9 | Михаил | Выпьем до дна за вас и за Елену Павловну! | Let's drink bottoms up to you and to Elena Pavlovna! | #330 00:21:04: За вас и за Елену Павловну | adapted: adapted |
 | 10 | Сеня | Виктор Петрович, а почему вы с нами не пьёте? | Viktor Petrovich, and why are you not drinking with us? | #331 00:21:13: А что вы не пьете | adapted: adapted |
 | 11 | Сеня | К сожалению, вся наша закуска уже кончилась. | Unfortunately, all our snacks have run out already. | #335 00:21:29: кончился | adapted: adapted |
-| 12 | Аня | Ладно, наливайте мне тоже одну маленькую рюмку! | Fine, pour me one small shot glass too! | #336 00:21:31: Ура | adapted: adapted |
+| 12 | Михаил | Ладно, наливайте мне тоже одну маленькую рюмку! | Fine, pour me one small shot glass too! | #336 00:21:31: Ура | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Давай, Катя, пей этот горячий чай. | Come on, Katya, drink this hot tea. | #206 00:16:41: пей чаёк | adapted: adapted |
-| 2 | Настя | Я тебе его специально покрепче заварила. | I brewed it extra strong specially for you. | #207 00:16:43: Я покрепче заварила | adapted: adapted |
-| 3 | Настя | Алкоголь тебе сейчас всё равно не поможет. | Alcohol will not help you right now anyway. | #207 00:16:43: Алкоголь тебе сейчас всё равно не поможет | adapted: adapted |
-| 4 | Настя | Какой-то очень странный на вкус чай. | This tea tastes very strange somehow. | #211 00:17:01: Какой-то странный этот чай | adapted: adapted |
-| 5 | Аня | Гуля, а ты почему уже здесь? | Gulya, why are you already here? | #213 00:17:16: А ты уже здесь | adapted: adapted |
-| 6 | Аня | Мама позвонила, и вы всё уладили? | Mom called, and you two smoothed everything over? | #214 00:17:19: позвонила, и мы всё уладили | adapted: adapted |
-| 7 | Тимур | Ну что, жених, встречай свою любимую! | Well then, groom, meet your beloved! | #215 00:17:26: Встречай любимую | adapted: adapted |
-| 8 | Аня | Вы что наделали, кто этот человек? | What have you done, who is this person? | #218 00:17:34: Вы что наделали | adapted: adapted |
-| 9 | Тимур | Простите, у нас небольшая ошибочка вышла. | Sorry, a little mistake happened on our part. | #218 00:17:34: Ошибочка вышла | adapted: adapted |
-| 10 | Тимур | В России так принято привозить гостей. | In Russia it is customary to bring guests like this. | #221 00:17:42: В России так принято привозить людей к себе в гости | adapted: adapted |
-| 11 | Аня | Тимур, немедленно вези его обратно в отель! | Timur, take him back to the hotel immediately! | #223 00:17:50: Вези его обратно | adapted: adapted |
-| 12 | Аня | Увозите его отсюда как можно быстрее! | Take him away from here as fast as possible! | #224 00:17:52: Быстро | adapted: adapted |
+| 1 | Лёва | Давай, Катя, пей этот горячий чай. | Come on, Katya, drink this hot tea. | #206 00:16:41: пей чаёк | adapted: adapted |
+| 2 | Лёва | Я тебе его специально покрепче заварила. | I brewed it extra strong specially for you. | #207 00:16:43: Я покрепче заварила | adapted: adapted |
+| 3 | Лёва | Алкоголь тебе сейчас всё равно не поможет. | Alcohol will not help you right now anyway. | #207 00:16:43: Алкоголь тебе сейчас всё равно не поможет | adapted: adapted |
+| 4 | Лёва | Какой-то очень странный на вкус чай. | This tea tastes very strange somehow. | #211 00:17:01: Какой-то странный этот чай | adapted: adapted |
+| 5 | Лёва | Гуля, а ты почему уже здесь? | Gulya, why are you already here? | #213 00:17:16: А ты уже здесь | adapted: adapted |
+| 6 | Лёва | Мама позвонила, и вы всё уладили? | Mom called, and you two smoothed everything over? | #214 00:17:19: позвонила, и мы всё уладили | adapted: adapted |
+| 7 | Лёва | Ну что, жених, встречай свою любимую! | Well then, groom, meet your beloved! | #215 00:17:26: Встречай любимую | adapted: adapted |
+| 8 | Лёва | Вы что наделали, кто этот человек? | What have you done, who is this person? | #218 00:17:34: Вы что наделали | adapted: adapted |
+| 9 | Лёва | Простите, у нас небольшая ошибочка вышла. | Sorry, a little mistake happened on our part. | #218 00:17:34: Ошибочка вышла | adapted: adapted |
+| 10 | Лёва | В России так принято привозить гостей. | In Russia it is customary to bring guests like this. | #221 00:17:42: В России так принято привозить людей к себе в гости | adapted: adapted |
+| 11 | Лёва | Тимур, немедленно вези его обратно в отель! | Timur, take him back to the hotel immediately! | #223 00:17:50: Вези его обратно | adapted: adapted |
+| 12 | Лёва | Увозите его отсюда как можно быстрее! | Take him away from here as fast as possible! | #224 00:17:52: Быстро | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

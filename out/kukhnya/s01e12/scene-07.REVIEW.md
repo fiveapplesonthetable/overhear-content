@@ -1,31 +1,39 @@
-# kukhnya-s01e12-scene-07: review sheet
+# На кухне шефа  (In the Chef's Kitchen) — `kukhnya-s01e12-scene-07`
 
-Title: На кухне шефа  (In the Chef's Kitchen)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.12
-Cues 64-72. Chef Viktor Barinov furiously scolds his line cooks over messy prep stations and demands total discipline.
+**Source:** Кухня (Kukhnya) S1.12 · `sources/kukhnya/s01/e12.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `senya` | angelina | Сеня |
+
+## Part 1 — Intro
+
+> During the busy afternoon prep shift at Claude Monet, Chef Viktor Barinov storms through the kitchen, furious about mess and delays. Catching his cooks hesitating at their stations, Barinov aggressively reprimands Senya and demands strict kitchen discipline. Let's listen to their fast-paced kitchen exchange in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Сеня, почему ты стоишь без дела? | Senya, why are you standing doing nothing? | new | new: new |
-| 2 | Сеня | Я жду нужные специи для мяса. | I am waiting for the needed spices for the meat. | new | new: new |
-| 3 | Шеф | Ты ждёшь, пока гном насыпет корицу? | Are you waiting until a gnome sprinkles cinnamon? | #64 00:03:59: насыпет корицу | adapted: adapted |
-| 4 | Сеня | Шеф, я всё делаю быстро. | Chef, I do everything quickly. | #65 00:04:02: Ну, шеф | adapted: adapted |
-| 5 | Шеф | Тогда работай быстрее и не стой. | Then work faster and do not stand around. | #66 00:04:05: Сам ты | adapted: adapted |
-| 6 | Шеф | И всегда убирай за собой стол. | And always clean up your table. | #67 00:04:06: убирай за собой | adapted: adapted |
-| 7 | Сеня | Шеф, говорите немного тише, пожалуйста. | Chef, please speak a bit quieter. | #68 00:04:11: потише бы | adapted: adapted |
-| 8 | Шеф | Не надо учить меня дисциплине! | Do not teach me discipline! | #69 00:04:13: Учи меня еще | adapted: adapted |
-| 9 | Сеня | Мы просто очень стараемся для вас. | We are simply trying very hard for you. | new | new: new |
-| 10 | Шеф | На моей кухне должен быть идеальный порядок. | There must be perfect order in my kitchen. | new | new: new |
-| 11 | Сеня | Мы сейчас же всё уберём, шеф. | We will clean everything up right now, chef. | new | new: new |
-| 12 | Шеф | Спокойнее, я проверю каждое блюдо лично. | Calm down, I will check every dish personally. | #71 00:04:18: Покойнее | adapted: adapted |
+| 0 | Шеф | Сеня, почему ты стоишь без дела? | Senya, why are you standing doing nothing? | *(added)* |  |
+| 1 | Сеня | Я жду нужные специи для мяса. | I am waiting for the needed spices for the meat. | *(added)* |  |
+| 2 | Шеф | Ты ждёшь, пока гном насыпет корицу? | Are you waiting until a gnome sprinkles cinnamon? | #64 "насыпет корицу" |  |
+| 3 | Сеня | Шеф, я всё делаю быстро. | Chef, I do everything quickly. | #65 "Ну, шеф" |  |
+| 4 | Шеф | Тогда работай быстрее и не стой. | Then work faster and do not stand around. | #66 "Сам ты" |  |
+| 5 | Шеф | И всегда убирай за собой стол. | And always clean up your table. | #67 "убирай за собой" |  |
+| 6 | Сеня | Шеф, говорите немного тише, пожалуйста. | Chef, please speak a bit quieter. | #68 "потише бы" |  |
+| 7 | Шеф | Не надо учить меня дисциплине! | Do not teach me discipline! | #69 "Учи меня еще" |  |
+| 8 | Сеня | Мы просто очень стараемся для вас. | We are simply trying very hard for you. | *(added)* |  |
+| 9 | Шеф | На моей кухне должен быть идеальный порядок. | There must be perfect order in my kitchen. | *(added)* |  |
+| 10 | Сеня | Мы сейчас же всё уберём, шеф. | We will clean everything up right now, chef. | *(added)* |  |
+| 11 | Шеф | Спокойнее, я проверю каждое блюдо лично. | Calm down, I will check every dish personally. | #71 "Покойнее" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Are you waiting until a gnome sprinkles cinnamon?' A sarcastic rhetorical question criticizing hesitation at the prep station for the cook.
-- 'And always clean up your table.' An authoritative imperative demanding cleanliness at the workstation from the team.
-- 'Chef, please speak a bit quieter.' A polite imperative with a comparative adverb requesting lowered volume in the kitchen.
-- 'There must be perfect order in my kitchen.' A firm modal statement establishing high professional standards for the restaurant brigade. Now, let's hear Chef Barinov command his kitchen brigade once more.
+> Now you know how to give urgent kitchen commands, address mess at workstations, and ask for quiet in Russian. Listen for these intense workplace phrases in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

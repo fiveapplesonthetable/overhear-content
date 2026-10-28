@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 12
-TITLE = 'Дирижёр и правда о Свете  (The Conductor and the Truth About Sveta)'
+TITLE = "Дирижёр и правда о Свете  (The Conductor and the Truth About Sveta)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = "Across the kitchen, Katya is waving both hands in the air while practicing the circle-and-triangle trick in her headphones—and Max tells Lyova she thinks she is conducting an orchestra! Meanwhile, in the dining room, Chef Barinov discovers Sveta's real profession."
@@ -18,13 +18,13 @@ STORY = [
     ('anya', 'Сейчас у неё сезонное обострение.', 'Right now she is having a seasonal flare-up.', [(193, 'Сезонное обострение')], 'adapted'),
     ('anya', 'Она может в клинику обратно загреметь.', 'She could land right back in the clinic.', [(195, 'в клинику обратно загреметь')], 'adapted'),
     ('anya', 'Только никому об этом не говори, шеф расстроится.', 'Just do not tell anyone about this, the Chef will get upset.', [(198, 'никому об этом не говори'), (199, 'шеф расстроится')], 'adapted'),
-    ('chef', 'Ну а вы чем вообще занимаетесь?', 'So what do you do for a living?', [(200, 'Ну а вы чем занимаетесь')], 'adapted'),
+    ('guest', 'Ну а вы чем вообще занимаетесь?', 'So what do you do for a living?', [(200, 'Ну а вы чем занимаетесь')], 'adapted'),
     ('guest', 'Я постоянно с людьми работаю.', 'I work with people all the time.', [(201, 'С людьми работаю')], 'adapted'),
-    ('chef', 'Подождите, я сейчас сам угадаю.', 'Wait, I will guess it myself right now.', [(202, 'подождите, я сам угадаю')], 'adapted'),
-    ('chef', 'Вы учительница, врач или стюардесса?', 'Are you a teacher, a doctor, or a flight attendant?', [(203, 'Учительница. Нет, врач'), (204, 'Стюардесса')], 'adapted'),
+    ('guest', 'Подождите, я сейчас сам угадаю.', 'Wait, I will guess it myself right now.', [(202, 'подождите, я сам угадаю')], 'adapted'),
+    ('guest', 'Вы учительница, врач или стюардесса?', 'Are you a teacher, a doctor, or a flight attendant?', [(203, 'Учительница. Нет, врач'), (204, 'Стюардесса')], 'adapted'),
     ('guest', 'Алло, я сейчас очень занята.', 'Hello, I am very busy right now.', [(207, 'Алло, я занята')], 'adapted'),
     ('guest', 'Витя, после ужина поедем к тебе домой?', 'Vitya, after dinner will we go to your place?', [(209, 'после вашего ужина надо будет ехать к тебе домой')], 'adapted'),
-    ('chef', 'Зачем ехать ко мне домой?', 'Why would we go to my place?', [(210, 'Зачем домой?')], 'adapted'),
+    ('guest', 'Зачем ехать ко мне домой?', 'Why would we go to my place?', [(210, 'Зачем домой?')], 'adapted'),
     ('guest', 'Или в гостиницу, продолжение банкета будет?', 'Or to a hotel, will there be a continuation of the party?', [(210, 'или в гостиницу'), (211, 'Продолжение банкета будет')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'When Sveta asks whether he wants to book her for the rest of the night after dinner, Chef Barinov realizes what Senya and Fedya have done!'
-CLOSING = ('guest', 'Продолжение нашего банкета сегодня будет?')
+OUTRO = 'When Sveta asks whether he wants to book her for the rest of the night after dinner, Chef Barinov realizes what Senya and Fedya have done! See you next time!'
+CLOSING = ("guest", "Пока!")

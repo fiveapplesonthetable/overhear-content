@@ -1,36 +1,39 @@
-# kukhnya-s01e10-scene-35: review sheet
+# Астраханская икра  (Astrakhan Caviar) — `kukhnya-s01e10-scene-35`
 
-Title: Астраханская икра  (Astrakhan Caviar)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.10
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `first_guest` | angelina | Первый гость |
+| `second_guest` | anja | Второй гость |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> At a VIP table in the Claude Monet dining room, wealthy guests taste the newly served black caviar delicacy. Completely oblivious to the kitchen's culinary disguise, the diners rave about its fresh natural Astrakhan quality. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Первый гость | Попробуйте эту закуску, господа. | Taste this appetizer, gentlemen. | new | new: inviting table |
-| 2 | Второй гость | Слушайте, чудесная икра! | Listen, this is wonderful caviar! | #249 00:17:51: Слушайте, чудесная икра. | adapted: praising dish |
-| 3 | Первый гость | Сразу чувствуется, что она натуральная. | You can immediately sense that it is natural. | #250 00:17:53: Сразу чувствуется, что натуральная. | adapted: admiring freshness |
-| 4 | Второй гость | Да, я такую только в Астрахани ел. | Yes, I only ever ate such caviar in Astrakhan. | #251 00:17:55: Да, я такую только в Астрахани ел. | adapted: sharing memory |
-| 5 | Первый гость | В Москве редко встретишь такое качество. | In Moscow you rarely encounter such quality. | new | new: remarking rarity |
-| 6 | Второй гость | Да, вкусно, очень вкусно! | Yes, delicious, very delicious! | #252 00:17:57: Да, вкусно, очень вкусно. | adapted: enjoying food |
-| 7 | Первый гость | Шеф-повар этого ресторана настоящий мастер. | The head chef of this restaurant is a true master. | new | new: complimenting chef |
-| 8 | Второй гость | И свежий хлеб отлично подходит. | And the fresh bread goes with it perfectly. | new | new: noticing bread |
-| 9 | Первый гость | Обязательно закажем ещё одну порцию. | We will definitely order another portion. | new | new: wanting more |
-| 10 | Второй гость | Я готов приходить сюда каждый день. | I am ready to come here every day. | new | new: declaring loyalty |
-| 11 | Первый гость | Передайте шефу нашу искреннюю благодарность. | Pass on our sincere gratitude to the chef. | new | new: thanking kitchen |
-| 12 | Второй гость | Этот вечер удался на славу! | This evening was a glorious success! | new | new: toasting evening |
+| 0 | Первый гость | Попробуйте эту закуску, господа. | Taste this appetizer, gentlemen. | *(added)* |  |
+| 1 | Второй гость | Слушайте, чудесная икра! | Listen, this is wonderful caviar! | #249 "Слушайте, чудесная икра." |  |
+| 2 | Первый гость | Сразу чувствуется, что она натуральная. | You can immediately sense that it is natural. | #250 "Сразу чувствуется, что натуральная." |  |
+| 3 | Второй гость | Да, я такую только в Астрахани ел. | Yes, I only ever ate such caviar in Astrakhan. | #251 "Да, я такую только в Астрахани ел." |  |
+| 4 | Первый гость | В Москве редко встретишь такое качество. | In Moscow you rarely encounter such quality. | *(added)* |  |
+| 5 | Второй гость | Да, вкусно, очень вкусно! | Yes, delicious, very delicious! | #252 "Да, вкусно, очень вкусно." |  |
+| 6 | Первый гость | Шеф-повар этого ресторана настоящий мастер. | The head chef of this restaurant is a true master. | *(added)* |  |
+| 7 | Второй гость | И свежий хлеб отлично подходит. | And the fresh bread goes with it perfectly. | *(added)* |  |
+| 8 | Первый гость | Обязательно закажем ещё одну порцию. | We will definitely order another portion. | *(added)* |  |
+| 9 | Второй гость | Я готов приходить сюда каждый день. | I am ready to come here every day. | *(added)* |  |
+| 10 | Первый гость | Передайте шефу нашу искреннюю благодарность. | Pass on our sincere gratitude to the chef. | *(added)* |  |
+| 11 | Второй гость | Этот вечер удался на славу! | This evening was a glorious success! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Taste this appetizer, gentlemen.' — polite plural imperative followed by a formal vocative address.
-- 'Listen, this is wonderful caviar!' — conversational imperative calling attention to an exclamatory phrase.
-- 'You can immediately sense that it is natural.' — impersonal reflexive verb introducing a subordinate clause.
-- 'Yes, I only ever ate such caviar in Astrakhan.' — past masculine verb with a prepositional place name.
-- 'In Moscow you rarely encounter such quality.' — 2nd person generalized personal sentence with an adverb.
-- 'Yes, delicious, very delicious!' — repeated predicative adverb expressing a strong sense of pleasure.
-- 'The head chef of this restaurant is a true master.' — compound noun subject with a genitive modifier.
-- 'We will definitely order another portion.' — 1st person plural future verb with an accusative phrase.
-- 'Pass on our sincere gratitude to the chef.' — imperative verb governing dative and accusative objects. Now listen to the full conversation once more.
+> In the restaurant dining room, wealthy guests taste the disguised black caviar and rave about its natural Astrakhan quality, praising the chef for the magnificent appetizer. Next time you watch the episode, listen for the Russian expressions for 'to be felt' and 'rarely' — you will catch every word right away. See you next time!
+
+**Второй гость:** Пока!

@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 2
 SCENE = 3
 TITLE = "La chaise de Samuel  (Samuel's Chair)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "The phones won't stop: the funeral is on Thursday at Père-Lachaise, and half of Paris wants to come, some to be seen. Then Mathias walks in and sits down in Samuel's chair. Andréa, who still has to tell everyone about her disastrous morning with Françoise Fabian, is not amused. First in French; don't try to catch everything."
 OPENER = "Let's go through it. Mathias has settled into the chair at the head of the table, and Andréa says what everyone is thinking."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Two agents fighting over a chair and a client, all in the polite 'you'. Don't worry about every detail; you've got the shape of it. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Two agents fighting over a chair and a client, all in the polite 'you'. Don't worry about every detail; you've got the shape of it. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Ça me dérange de vous voir assis là.', 'It bothers me to see you sitting there.', [(97, 'Ça me dérange, de vous voir assis là')], ''),
     ('mathias', "C'est une chaise.", 'It', [(99, "C'est une chaise")], ''),

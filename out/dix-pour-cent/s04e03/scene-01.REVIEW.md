@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Parfait, je compte sur toi, Andréa. | Perfect, I count on you, Andrea. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around early wake-up. When you watch the episode, listen out for the expressions meaning 'am coming' and 'little'. You'll catch them now. See you next time.
+> That's it for this scene around early wake-up. When you watch the episode, listen out for the expressions meaning 'am coming' and 'little'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

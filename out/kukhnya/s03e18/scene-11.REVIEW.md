@@ -18,11 +18,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Вика | Надо мне чаще уезжать, столько комплиментов! | I should go away more often, so many compliments! | #162 00:13:00: Столько комплиментов | adapted: adapted |
 | 7 | Аня | Я ведь думал, что ты сейчас за границей. | I thought that you were abroad right now. | #163 00:13:07: Я думал, ты за границей | adapted: adapted |
 | 8 | Вика | Мне в последний момент предложили эту работу. | They offered me this job at the last moment. | #164 00:13:10: Мне в последний момент предложили эту работу | adapted: adapted |
-| 9 | Катя | Макс, о чём это вы сейчас говорили? | Max, what were the two of you talking about just now? | #167 00:13:20: говорили | adapted: adapted |
+| 9 | Вика | Макс, о чём это вы сейчас говорили? | Max, what were the two of you talking about just now? | #167 00:13:20: говорили | adapted: adapted |
 | 10 | Аня | Я пытался выяснить, как она относится к отношениям. | I was trying to find out how she feels about relationships. | #169 00:13:26: Я пытался выяснить у нее, как она относится к отношениям на работе | adapted: adapted |
 | 11 | Аня | Так вот, она категорически их нам запрещает. | Well, she categorically forbids them here. | #170 00:13:31: Так вот, она категорически их запрещает | adapted: adapted |
 | 12 | Аня | Поэтому нам лучше вообще скрыть наши отношения. | So we had better hide our relationship altogether. | #172 00:13:35: Поэтому нам лучше вообще скрыть | adapted: adapted |
-| 13 | Катя | Это глупости, я сама пойду и поговорю! | That is nonsense, I will go and talk to her myself! | #173 00:13:38: Я сама с ней пойду и поговорю | adapted: adapted |
+| 13 | Вика | Это глупости, я сама пойду и поговорю! | That is nonsense, I will go and talk to her myself! | #173 00:13:38: Я сама с ней пойду и поговорю | adapted: adapted |
 | 14 | Аня | Ты её только сильнее разозлишь, давай лучше я. | You will only anger her more, let me do it instead. | #174 00:13:41: сильнее разозлишь. Давай лучше я с ней поговорю | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I thought that you were abroad right now.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'abroad'.
 - 'They offered me this job at the last moment.' Spoken Russian keeps this brisk, leaning on 'to me' and finishing on 'work'. Katya answers right away.
 - 'Max, what were the two of you talking about just now?' Katya brings out the contrast between 'Max' and 'about' in a few short words.
-- 'I was trying to find out how she feels about relationships.' Notice the reflexive suffix on the verb meaning 'tried', turning the action back on the subject.
+- 'I was trying to find out how she feels about relationships.' Max pairs 'tried' with 'attitude, relation; relationship' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Well, she categorically forbids them here.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'forbids'.
 - 'So we had better hide our relationship altogether.' Notice how Russian expresses 'therefore' and 'relationship' with crisp inflection rather than helper words.
 - 'That is nonsense, I will go and talk to her myself!' The meaning hinges on 'this' working together with 'will talk' in spoken Russian.

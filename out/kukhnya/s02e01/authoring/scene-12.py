@@ -1,19 +1,23 @@
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s02e01-scene-12.
+ID = 'kukhnya-s02e01-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 12
 TITLE = "История про пса  (The Story About the Dog)"
 LEVEL = "A1 — Duolingo Section 2"
-SOURCE_NAME = "Кухня (Kukhnya) S2.01"
-SOURCE_FILE = "sources/kukhnya/s02/e01.ru.dual.srt"
-LABELS = {"anya": "Макс", "kostya": "Костя"}
-VOICES = {
-    "narrator": "sky",
-    "anya": "alisa",
-    "kostya": "anja"
-}
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
+SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
+INTRO = 'Kostya tells Max that he could only forgive someone if misfortune struck them, recalling a childhood story about his angry dog Ralph whom he forgave immediately after the dog was hit by a car.'
+OPENER = 'Continuing their conversation, Kostya explains his stance on forgiveness.'
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = "The bizarre story from Kostya leaves Max feeling even more confused than before. Next time you watch the episode, listen for the Russian expressions for 'never' and 'to know' — you will catch every word right away. See you next time!"
+CLOSING = ("kostya", "Пока!")
 STORY = [
-    ('anya', 'Никогда?', 'Never?', [], ''),
+    ('anya', 'Никогда?', 'Never?', [(166, 'простил бы.')], ''),
     ('kostya', 'Не знаю.', "I don't know.", [], ''),
     ('kostya', 'Может, только если бы с тобой что-нибудь случилось.', 'Maybe if something happened to you.', [], ''),
     ('anya', 'В смысле?', 'What do you mean?', [], ''),
@@ -28,24 +32,16 @@ STORY = [
     ('kostya', 'Нет, конечно, он опять меня покусал.', 'No, of course not. He bit me again.', [], ''),
     ('kostya', 'Только я уже не обижался.', "Only I wasn't mad anymore.", [], ''),
     ('kostya', 'Потому что я понял...', 'Because I understood...', [], ''),
-    ('kostya', 'Лучше живой и злой пес, чем никакого.', 'Better a live, angry dog than no dog at all.', [], '')
+    ('kostya', 'Лучше живой и злой пес, чем никакого.', 'Better a live, angry dog than no dog at all.', [], ''),
 ]
 WALK = [
-    (2, None, "'Maybe if something happened to you.' The reflexive ending on the verb for 'happened' turns the action back onto the subject."),
-    (4, None, "'When I was a kid, I had a dog.' The key word here means 'childhood', which Kostya combines with 'me'."),
-    (5, None, "'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the pronoun for 'he'."),
-    (6, None, "'I was mad at him for a long time.' A compact expression built around 'I' and 'to take offence'."),
-    (8, None, "'Then a car hit him.' Here 'a car' sets up the idea, while 'then' comes at the end for emphasis."),
-    (10, None, "'Too bad he didn't appreciate it.' You'll hear 'it is a pity' all the time in the show, here connected with 'to appreciate'."),
-    (11, None, "'What, he died?' Max puts 'what' up front so the listener immediately catches the tone, followed by 'died'. Then Kostya replies."),
-    (12, None, "'No, of course not. He bit me again.' In Russian, 'of course' leads into 'bit' in a very natural everyday phrasing."),
-    (15, None, "'Better a live, angry dog than no dog at all.' ENG: The adjective means angry or mean, and the last word means none at all.")
+    (0, None, "'Maybe if something happened to you.' the self-directed ending on the verb for 'happened' turns the action back onto the subject."),
+    (1, None, "'When I was a kid, I had a dog.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'dog'."),
+    (2, None, "'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the word for 'he'."),
+    (3, None, "'I was mad at him for a long time.' Kostya expresses this naturally by combining the word for 'very much' with 'for a long time' and 'to take offence'."),
+    (4, None, "'Then a car hit him.' Kostya puts the word for 'a car' together with 'knock down' and 'then' in a crisp, natural spoken turn of phrase."),
+    (5, None, "'Too bad he didn't appreciate it.' Here Max anchors the line on the word meaning 'it is a pity' and builds the thought around 'only' and 'to appreciate'."),
+    (6, None, "'What, he died?' Max delivers a punchy one-word reaction built around the Russian word meaning 'died'."),
+    (7, None, "'No, of course not. He bit me again.' The verb for 'bit' is in the matching past tense, marked by the '-l' ending."),
+    (8, None, "'Better a live, angry dog than no dog at all.' Russian omits the present-tense verb 'to be' here, linking 'better' directly with 'alive', combining 'better' with 'alive' and 'evil'. Now let's listen to the whole conversation again from start to finish."),
 ]
-
-INTRO = "Kostya tells Max that he could only forgive someone if misfortune struck them, recalling a childhood story about his angry dog Ralph whom he forgave immediately after the dog was hit by a car."
-OPENER = "Continuing their conversation, Kostya explains his stance on forgiveness."
-TRANSITION = "Kostya shares a somewhat tragic story from his childhood to illustrate his point."
-OUTRO = "The bizarre story from Kostya leaves Max feeling even more confused than before."
-PAIR = "ru-en"
-ID = "kukhnya-s02e01-scene-12"
-CLOSING = STORY[-1][:2]

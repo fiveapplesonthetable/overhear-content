@@ -29,5 +29,5 @@
 | 15 | `hippolyte` (Hippolyte) | On va prendre un verre? | Shall we get a drink? | 792:On va prendre un verre |
 
 ## Part 5 — Outro & Closing
-> A family reunion that only two people understand. Notice how Camille switches between the polite 'you' and the casual one, depending on who's listening. Until next time.
+> A family reunion that only two people understand. Notice how Camille switches between the polite 'you' and the casual one, depending on who's listening. See you next time!
 - **Closing**: `camille`: *Salut!*

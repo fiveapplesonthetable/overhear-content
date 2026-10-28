@@ -27,5 +27,5 @@
 | 13 | `christophe` (Christophe) | À tout à l'heure Mathias. Au revoir! | See you later Mathias. Goodbye! | 752:À tout à l'heure, Mathias !, 754:Au revoir |
 
 ## Part 5 — Outro & Closing
-> Christophe Lambert charms the ASK office before heading off to read his new movie script. Remember the classic phrase for asking permission: je peux followed by an infinitive. Join us next time to see what happens next.
+> Christophe Lambert charms the ASK office before heading off to read his new movie script. Remember the classic phrase for asking permission: je peux followed by an infinitive. See you next time!
 - **Closing**: `christophe`: *À bientôt!*

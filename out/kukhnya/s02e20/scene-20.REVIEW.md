@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We all dream about having a happy ending.' In Russian, the idea of 'we' flows naturally into 'happy ending' without extra filler words.
 - 'Unfortunately.' Here the Russian phrasing highlights 'regret' before landing on 'regret'.
 - 'In real life it does not always happen.' Notice how Russian expresses 'life' and 'always' with crisp inflection rather than helper words. Max answers right away.
-- 'And not for everyone.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'everyone'.
+- 'And not for everyone.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
 - 'While someone else thinks their happy ending has already arrived.' Kostya anchors the line on 'and', while 'stepped' completes the thought.
 - 'That the happy ending is already here.' The '-l' ending on the verb meaning 'stepped' places the action in the masculine past tense. Max answers right away.
 - 'It looks like we are going to have a baby.' The grammar packs 'by' and 'baby' into a tight, idiomatic kitchen exchange.

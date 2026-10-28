@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | У меня две новости, и обе хорошие. | I have two pieces of news, and both are good. | #34 00:02:37: у меня две новости,<br>#34 00:02:37: обе хорошие. | verbatim |
-| 2 | Аня | После покушения выжил. | After the assassination attempt, I survived. | #36 00:02:46: после покушения выжил. | verbatim |
-| 3 | Аня | Наш ресторан обрёл наконец духовного лидера. | Our restaurant has finally found a spiritual leader. | #38 00:02:56: Наш ресторан обрел, наконец, духовного лидера. | verbatim |
-| 4 | Аня | Прошу любить и жаловать. | Please welcome and respect him. | #40 00:03:05: Прошу любить и жаловать | verbatim |
+| 1 | Нагиев | У меня две новости, и обе хорошие. | I have two pieces of news, and both are good. | #34 00:02:37: у меня две новости,<br>#34 00:02:37: обе хорошие. | verbatim |
+| 2 | Нагиев | После покушения выжил. | After the assassination attempt, I survived. | #36 00:02:46: после покушения выжил. | verbatim |
+| 3 | Нагиев | Наш ресторан обрёл наконец духовного лидера. | Our restaurant has finally found a spiritual leader. | #38 00:02:56: Наш ресторан обрел, наконец, духовного лидера. | verbatim |
+| 4 | Нагиев | Прошу любить и жаловать. | Please welcome and respect him. | #40 00:03:05: Прошу любить и жаловать | verbatim |
 | 5 | Герман | Герман Михайлович. | German Mikhailovich. | #41 00:03:09: Герман | verbatim |
-| 6 | Аня | Новый шеф-повар нашего ресторана. | The new head chef of our restaurant. | #42 00:03:11: Новый шеф-повар нашего ресторана | verbatim |
+| 6 | Нагиев | Новый шеф-повар нашего ресторана. | The new head chef of our restaurant. | #42 00:03:11: Новый шеф-повар нашего ресторана | verbatim |
 | 7 | Герман | Благодарю вас, Дмитрий Владимирович. | Thank you, Dmitry Vladimirovich. | #43 00:03:14: Благодарю вас, Дмитрий Владимирович. | verbatim |
 | 8 | Герман | Надеюсь оправдать ваше высокое доверие. | I hope to live up to your high trust. | #44 00:03:16: Надеюсь оправдать ваше высокое доверие. | verbatim |
 | 9 | Герман | Давайте сразу договоримся. | Let's come to an agreement right away. | #48 00:03:25: Давайте сразу договоримся. | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have two pieces of news, and both are good.' In spoken Russian, Dmitry omits unnecessary linking verbs so the key idea lands immediately.
+- 'I have two pieces of news, and both are good.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'After the assassination attempt, I survived.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Our restaurant has finally found a spiritual leader.' Dmitry keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Please welcome and respect him.' In spoken Russian, Dmitry omits unnecessary linking verbs so the key idea lands immediately.
-- 'German Mikhailovich.' In spoken Russian, German omits unnecessary linking verbs so the key idea lands immediately.
-- 'The new head chef of our restaurant.' Dmitry uses natural conversational word order here to highlight the most important part of the reply.
-- 'Thank you, Dmitry Vladimirovich.' German keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'I hope to live up to your high trust.' Notice how German pairs a modal word or finite verb with an infinitive to express the action.
-- 'Let's come to an agreement right away.' German uses natural conversational word order here to highlight the most important part of the reply.
-- 'You do not have to love me.' German places the negative particle directly before the verb or predicate to negate the statement.
-- 'But making friends with me is certainly worth it.' In spoken Russian, German omits unnecessary linking verbs so the key idea lands immediately.
-- 'Good day to everyone. Back to work.' German uses natural conversational word order here to highlight the most important part of the reply.
+- 'Our restaurant has finally found a spiritual leader.' Notice how Russian puts 'restaurant' and 'leader' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Please welcome and respect him.' Here Nagiyev anchors the thought on 'ask for' and finishes on 'to respect', keeping the spoken rhythm brisk and natural.
+- 'German Mikhailovich.' Spoken Russian keeps this brief and expressive, built right around 'Mikhailovich' without extra helper words.
+- 'The new head chef of our restaurant.' Nagiyev pairs 'new' with 'restaurant' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Thank you, Dmitry Vladimirovich.' Spoken Russian keeps this brief and expressive, built right around 'to thank' without extra helper words.
+- 'I hope to live up to your high trust.' Here German anchors the thought on 'hope' and finishes on 'trust', keeping the spoken rhythm brisk and natural.
+- 'Let's come to an agreement right away.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'You do not have to love me.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'But making friends with me is certainly worth it.' Notice how Russian puts 'to make friends' and 'is standing' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Good day to everyone. Back to work.' Here German anchors the thought on 'good' and finishes on 'work', keeping the spoken rhythm brisk and natural.

@@ -27,5 +27,5 @@
 | 13 | `samy` (Samy) | Je n'arrive pas à y croire. | I cannot bring myself to believe it. | 1228:Ben oui, c'est débile. |
 
 ## Part 5 — Outro & Closing
-> Gerard's honest confession breaks down the barrier between seasoned movie star and anxious newcomer. When you watch the episode, listen out for the expressions meaning 'actors' and 'great'. You'll catch them now. See you next time.
+> Gerard's honest confession breaks down the barrier between seasoned movie star and anxious newcomer. When you watch the episode, listen out for the expressions meaning 'actors' and 'great'. You'll catch them now. See you next time!
 - **Closing**: `gerard`: *Au revoir!*

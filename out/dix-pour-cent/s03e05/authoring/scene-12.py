@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 12
 TITLE = "Dans le bureau du patron  (In the Boss's Office)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "valentin": "theo", "camille": "emilie"}
-LABELS = {"valentin": "Valentin", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'valentin': 'theo', 'camille': 'emilie'}
+LABELS = {'valentin': 'Valentin', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Valentin slips into Mathias's luxurious corner office, marveling at the room and private bar. While Camille tries nervously to usher him out, Valentin proposes they rehearse his audition scene right there. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Camille and Valentin sit down to rehearse, turning Mathias's private domain into an improvised rehearsal stage. When you watch the episode, listen out for the expressions meaning 'are doing' and 'love'. You'll catch them now. See you next time."
-CLOSING = ("valentin", "À bientôt!")
+OUTRO = "Camille and Valentin sit down to rehearse, turning Mathias's private domain into an improvised rehearsal stage. When you watch the episode, listen out for the expressions meaning 'are doing' and 'love'. You'll catch them now. See you next time!"
+CLOSING = ('valentin', 'À bientôt!')
 STORY = [
     ('camille', "Valentin? Qu'est-ce que tu fais là-dedans?", 'Valentin? What are you doing in there?', [(388, 'Valentin ?'), (389, 'Valentin ?')], ''),
     ('valentin', "Oh, j'adore cette immense pièce lumineuse!", 'Oh, I love this huge, luminous room!', [(391, "Oh celui-là j'adore")], ''),

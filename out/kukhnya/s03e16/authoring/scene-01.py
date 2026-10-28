@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 1
-TITLE = 'Фирменное блюдо и полтергейст  (A Signature Dish and a Poltergeist)'
+TITLE = "Фирменное блюдо и полтергейст  (A Signature Dish and a Poltergeist)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'fedya': 'Федя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "senya": "angelina", "fedya": "anja"}
+LABELS = {"anya": "Макс", "senya": "Сеня", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "Welcome to Episode Sixteen of Season Three of Kukhnya. Trying to move on after Vika's departure, Max resolves to invent a refined French signature dish of his own—just as the kitchen lights flicker out and the cooks whisper about the ghost of Grandpa Kirill! Listen first."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Could the cranky upstairs neighbor Grandpa Kirill really be haunting Claude Monet from beyond the grave? Next, an even scarier surprise walks into the dining room!'
-CLOSING = ('anya', 'Кухня — это искусство.')
+OUTRO = 'Could the cranky upstairs neighbor Grandpa Kirill really be haunting Claude Monet from beyond the grave? Next, an even scarier surprise walks into the dining room! Until next time!'
+CLOSING = ("anya", "До завтра!")

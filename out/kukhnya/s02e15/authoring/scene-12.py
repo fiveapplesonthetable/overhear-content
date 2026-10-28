@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e15-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 12
 TITLE = "Забота о маме Лёвы  (Caring for Lyova's Mother)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'kostya': 'Костя', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = 'In the storage room, Kostya and Nastya nearly get caught again and pretend the rustling noise was just the kitchen cat. Moments later, Chef Barinov corners Lyova and guilts his sous-chef for never taking his devoted mother out to cultural events.'
 
 STORY = [
-    ('anya', 'Подождите, ты уверена, что...', 'Wait a second, are you sure that...', [(197, 'Подождите, ты уверена, что')], ''),
-    ('kostya', 'Ну, конечно.', 'Well, of course.', [(198, 'Ну, конечно')], ''),
+    ('chef', 'Подождите, ты уверена, что...', 'Wait a second, are you sure that...', [(197, 'Подождите, ты уверена, что')], ''),
+    ('chef', 'Ну, конечно.', 'Well, of course.', [(198, 'Ну, конечно')], ''),
     ('lyova', 'Да ты не бойся.', 'Come on, do not be afraid.', [(199, 'Да ты не бойся')], ''),
-    ('anya', 'Да я и не боюсь.', 'I am not afraid at all.', [(200, 'Да я и не боюсь')], ''),
-    ('kostya', 'Кто там?', 'Who is in there?', [(201, 'Кто там')], ''),
+    ('chef', 'Да я и не боюсь.', 'I am not afraid at all.', [(200, 'Да я и не боюсь')], ''),
+    ('chef', 'Кто там?', 'Who is in there?', [(201, 'Кто там')], ''),
     ('lyova', 'Ну, кот наш.', 'Just our kitchen cat.', [(203, 'Ну, кот наш')], ''),
-    ('anya', 'А то увидит нас.', 'Otherwise he will spot us.', [(204, 'а то увидит нас')], ''),
-    ('kostya', 'Нам с тобой нужно серьезно поговорить.', 'You and I need to have a serious talk.', [(205, 'Нам с тобой нужно серьезно поговорить')], ''),
+    ('chef', 'А то увидит нас.', 'Otherwise he will spot us.', [(204, 'а то увидит нас')], ''),
+    ('chef', 'Нам с тобой нужно серьезно поговорить.', 'You and I need to have a serious talk.', [(205, 'Нам с тобой нужно серьезно поговорить')], ''),
     ('lyova', 'Что ж ты, Лёва?', 'How could you, Lyova?', [(206, 'Что ж ты, Лёва')], ''),
-    ('anya', 'Маму свою так не любишь.', 'Why do you neglect your own mother like that?', [(207, 'Маму свою так не любишь')], ''),
-    ('kostya', 'В смысле?', 'What do you mean?', [(208, 'В смысле')], ''),
+    ('chef', 'Маму свою так не любишь.', 'Why do you neglect your own mother like that?', [(207, 'Маму свою так не любишь')], ''),
+    ('chef', 'В смысле?', 'What do you mean?', [(208, 'В смысле')], ''),
     ('lyova', 'Стыдно тебе, Лёва?', 'Are you not ashamed of yourself, Lyova?', [(211, 'Стыдно тебе, Лёва')], ''),
-    ('anya', 'Ну, свожу как-нибудь.', 'Well, I will take her out sometime.', [(212, 'Ну, свожу как-нибудь')], ''),
+    ('chef', 'Ну, свожу как-нибудь.', 'Well, I will take her out sometime.', [(212, 'Ну, свожу как-нибудь')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 12 of Episode 15, listen out for the exchange around caring for lyova's mother — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Ну, свожу как-нибудь.')
+OUTRO = 'That wraps up this scene as while Kostya and Nastya hide in the storage room and blame the noise on the kitchen cat, Chef Barinov guilts Lyova into taking his mother out for the evening. See you next time!'
+CLOSING = ("chef", "Увидимся!")

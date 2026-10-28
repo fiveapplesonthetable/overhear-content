@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 3
-TITLE = "Un scénario exclusif  (An Exclusive Script)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un scénario exclusif  (An Exclusive Script)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "laura": "emilie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"laura": "Laura", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'laura': 'emilie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now Gabriel has taken Laura into his office. He has a surprise for her: a script by the famous Scandinavian director Solveig Akerfelt, and he says it's for her alone. At the same moment, down the corridor, Mathias is talking to his own client, Nathalie. First in French; just listen for the excitement, and then the surprise."
 OPENER = "Let's take it apart. Laura sits down, and Gabriel puts a thick script in her hands."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time."
-CLOSING = ("mathias", "À demain!")
+OUTRO = "So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time!"
+CLOSING = ('mathias', 'À demain!')
 STORY = [
     ('laura', 'Une bonne histoire?', 'A good story?', [(54, 'Une bonne histoire ?')], ''),
     ('gabriel', "C'est un très bon scénario.", 'It', [(55, 'scénarios aussi bons')], ''),

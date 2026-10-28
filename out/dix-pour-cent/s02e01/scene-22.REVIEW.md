@@ -27,5 +27,5 @@
 | 13 | `virginie` (Virginie) | Laissez-moi tranquille, partez d'ici! | Leave me alone, go away from here! | 680:Bande de voyeurs ! Lâchez-moi ! |
 
 ## Part 5 — Outro & Closing
-> Virginie pours out her complicated feelings before shouting down at the relentless press. Remember the common expression for hearing from someone: avoir des nouvelles de. Join us next time to see what happens next.
+> Virginie pours out her complicated feelings before shouting down at the relentless press. Remember the common expression for hearing from someone: avoir des nouvelles de. See you next time!
 - **Closing**: `virginie`: *À bientôt!*

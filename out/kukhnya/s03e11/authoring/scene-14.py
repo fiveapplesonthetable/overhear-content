@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 14
-TITLE = 'Секрет блюда и хитрый план  (The Secret of the Dish and a Clever Plan)'
+TITLE = "Секрет блюда и хитрый план  (The Secret of the Dish and a Clever Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "That evening, Paul praises Katya's molecular dish and asks how she achieved its texture. Katya invites Paul into the kitchen to show him while telling Nagiyev another lie about old furniture, and Max hatches a counter-bluff of his own."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Katya shows Paul her molecular cuisine techniques in the kitchen, Chef Barinov returns to the restaurant for his talk with Nagiyev.'
-CLOSING = ('anya', 'У меня есть отличный план!')
+OUTRO = 'While Katya shows Paul her molecular cuisine techniques in the kitchen, Chef Barinov returns to the restaurant for his talk with Nagiyev. See you next time!'
+CLOSING = ("anya", "До встречи!")

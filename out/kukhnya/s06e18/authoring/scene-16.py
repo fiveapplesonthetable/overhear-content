@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e18-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 18
 SCENE = 16
 TITLE = "Наказание от Элеоноры  (Eleonora's Punishment)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Элеонора', 'mikhail': 'Михаил', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "mikhail": "anja"}
+LABELS = {"eleonora": "Элеонора", "mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.18'
 SOURCE_FILE = 'sources/kukhnya/s06/e18.ru.srt'
 
 INTRO = 'Eleonora threatens to fire Mikhail Jekovich unless he restores order immediately, and sentences Senya and Fedya to work a week without pay and two weeks without days off. Mikhail immediately calls a buyer to get rid of the pony.'
 
 STORY = [
-    ('anya', 'Быстро наведи в отеле порядок!', 'Quickly restore order in the hotel!', [(276, 'Наведи в отеле порядок')], 'adapted'),
-    ('anya', 'Иначе я тебя отсюда вышвырну.', 'Otherwise I will throw you out of here.', [(276, 'Иначе я тебя вышвырну')], 'adapted'),
-    ('anya', 'А вы двое слушайте меня.', 'And you two listen to me.', [(277, 'Вы двое')], 'adapted'),
-    ('anya', 'Неделю работаете совсем без зарплаты.', 'You will work a week with no salary at all.', [(278, 'Неделю работаете без зарплаты')], 'adapted'),
-    ('anya', 'И две недели без выходных.', 'And two weeks without days off.', [(278, 'две недели без выходных')], 'adapted'),
-    ('anya', 'Всё, быстро пошли вон отсюда!', 'That is it, get out of here quickly!', [(279, 'пошли вон')], 'adapted'),
+    ('eleonora', 'Быстро наведи в отеле порядок!', 'Quickly restore order in the hotel!', [(276, 'Наведи в отеле порядок')], 'adapted'),
+    ('eleonora', 'Иначе я тебя отсюда вышвырну.', 'Otherwise I will throw you out of here.', [(276, 'Иначе я тебя вышвырну')], 'adapted'),
+    ('eleonora', 'А вы двое слушайте меня.', 'And you two listen to me.', [(277, 'Вы двое')], 'adapted'),
+    ('eleonora', 'Неделю работаете совсем без зарплаты.', 'You will work a week with no salary at all.', [(278, 'Неделю работаете без зарплаты')], 'adapted'),
+    ('eleonora', 'И две недели без выходных.', 'And two weeks without days off.', [(278, 'две недели без выходных')], 'adapted'),
+    ('eleonora', 'Всё, быстро пошли вон отсюда!', 'That is it, get out of here quickly!', [(279, 'пошли вон')], 'adapted'),
     ('mikhail', 'Нет, это я не вам.', 'No, I did not mean that for you.', [(280, 'Это и не вам')], 'adapted'),
     ('mikhail', 'Да, я срочно продаю пони.', 'Yes, I am urgently selling a pony.', [(281, 'Пони'), (282, 'Продаю')], 'adapted'),
     ('mikhail', 'Ещё как продаю, жду вас.', 'I sure am selling it, I am waiting for you.', [(282, 'Еще как продаю'), (283, 'Жду')], 'adapted'),
-    ('anya', 'Айнура, быстро уберите всё здесь.', 'Ainura, quickly clean everything up here.', [(284, 'Айнура, уберите здесь'), (285, 'Все уберите')], 'adapted'),
-    ('ainura', 'Я приехала работать в Москву.', 'I came to work in Moscow.', [(286, 'Хотела бы убирать')], 'adapted'),
-    ('ainura', 'А теперь убираю за конём.', 'And now I am cleaning up after a horse.', [(286, 'убирать')], 'adapted'),
+    ('eleonora', 'Айнура, быстро уберите всё здесь.', 'Ainura, quickly clean everything up here.', [(284, 'Айнура, уберите здесь'), (285, 'Все уберите')], 'adapted'),
+    ('eleonora', 'Я приехала работать в Москву.', 'I came to work in Moscow.', [(286, 'Хотела бы убирать')], 'adapted'),
+    ('eleonora', 'А теперь убираю за конём.', 'And now I am cleaning up after a horse.', [(286, 'убирать')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Just as Eleonora finishes dealing with the pony disaster, she walks into the dining room and meets her supposed nephew Denis. See you in the next scene.'
-CLOSING = ('mikhail', 'Сейчас я всё уберу!')
+OUTRO = 'Just as Eleonora finishes dealing with the pony disaster, she walks into the dining room and meets her supposed nephew Denis. See you next time!'
+CLOSING = ("mikhail", "Всего хорошего!")

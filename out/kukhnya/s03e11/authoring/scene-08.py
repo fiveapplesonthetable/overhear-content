@@ -1,21 +1,21 @@
 ID = 'kukhnya-s03e11-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 8
-TITLE = 'Шеф берётся за дело  (The Chef Takes Charge)'
+TITLE = "Шеф берётся за дело  (The Chef Takes Charge)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Вика', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "Overhearing Nagiyev talk to Vika about throwing out the old junk and finding something new from France, Chef Barinov mistakenly believes they are planning to fire him and hire Paul. Determined to prove his worth, he storms into the kitchen to cook Nagiyev's lunch himself."
 
 STORY = [
     ('nagiyev', 'Надо найти что-нибудь новое во Франции.', 'We need to find something new in France.', [(109, 'что-нибудь новое в Италии, во Францию')], 'adapted'),
-    ('anya', 'Я думаю, не надо пока менять.', 'I think we do not need to change anything yet.', [(110, 'Я думаю, не надо пока менять')], 'adapted'),
+    ('nagiyev', 'Я думаю, не надо пока менять.', 'I think we do not need to change anything yet.', [(110, 'Я думаю, не надо пока менять')], 'adapted'),
     ('nagiyev', 'Перестань, у нас же современный ресторан!', 'Stop it, we have a modern restaurant after all!', [(112, 'Мы же современный ресторан')], 'adapted'),
     ('nagiyev', 'Мы должны всегда идти только вперёд.', 'We must always move only forward.', [(114, 'Мы должны идти')], 'adapted'),
     ('nagiyev', 'Вокруг сейчас столько хорошего и красивого.', 'There is so much good and beautiful around right now.', [(115, 'Столько вокруг хорошего, красивого')], 'adapted'),
@@ -24,8 +24,8 @@ STORY = [
     ('chef', 'Нет, друзья, рано вы меня забыли!', 'No, friends, you have written me off too soon!', [(120, 'Рано вы меня списали')], 'adapted'),
     ('chef', 'Давайте работайте быстрее на моей кухне!', 'Come on, work faster in my kitchen!', [(121, 'Шевелитесь')], 'adapted'),
     ('chef', 'Сейчас ваш шеф сам готовить будет!', 'Right now your chef is going to cook himself!', [(122, 'готовить будет')], 'adapted'),
-    ('anya', 'Почему он решил готовить до ужина?', 'Why did he decide to cook before dinner?', [(124, 'Он же обычно до ужина не готовит')], 'adapted'),
-    ('anya', 'Вот новый заказ для Дмитрия Владимировича.', 'Here is a new order for Dmitry Vladimirovich.', [(125, 'Заказ для Дмитрия Владимировича')], 'adapted'),
+    ('nagiyev', 'Почему он решил готовить до ужина?', 'Why did he decide to cook before dinner?', [(124, 'Он же обычно до ужина не готовит')], 'adapted'),
+    ('nagiyev', 'Вот новый заказ для Дмитрия Владимировича.', 'Here is a new order for Dmitry Vladimirovich.', [(125, 'Заказ для Дмитрия Владимировича')], 'adapted'),
     ('chef', 'Дай сюда, я всё сам сделаю!', 'Give it here, I will make everything myself!', [(126, 'Дай сюда')], 'adapted'),
 ]
 
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Barinov takes over the stove to impress Nagiyev, but he quickly gets distracted by Max and Katya arguing in the hallway.'
-CLOSING = ('chef', 'Я приготовлю лучшее блюдо!')
+OUTRO = 'Barinov takes over the stove to impress Nagiyev, but he quickly gets distracted by Max and Katya arguing in the hallway. See you next time!'
+CLOSING = ("chef", "До завтра!")

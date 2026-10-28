@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Понедельник день тяжелый. | Monday really is a heavy day. | #305 00:19:11: понедельник день тяжелый | verbatim |
 | 2 | Шеф | Ну что. | Well then. | #305 00:19:11: Ну что | verbatim |
-| 3 | Федя | Вот, ваши китайские чаевые. | Here are your Chinese tips. | #306 00:19:15: Вот, ваши китайские чаевые | verbatim |
+| 3 | Шеф | Вот, ваши китайские чаевые. | Here are your Chinese tips. | #306 00:19:15: Вот, ваши китайские чаевые | verbatim |
 | 4 | Аня | Иди сюда. | Come over here. | #308 00:19:24: иди сюда | verbatim |
 | 5 | Шеф | Бери, это твоя заслуга. | Take it, you earned this today. | #309 00:19:26: Бери, это твоя заслуга | verbatim |
-| 6 | Федя | Шеф, давайте нас всех поделим. | Chef, let us split it among all of us. | #310 00:19:30: Шеф, давайте нас всех поделим | verbatim |
+| 6 | Шеф | Шеф, давайте нас всех поделим. | Chef, let us split it among all of us. | #310 00:19:30: Шеф, давайте нас всех поделим | verbatim |
 | 7 | Аня | Я считаю. | I believe that is fair. | #312 00:19:38: Я считаю | verbatim |
 | 8 | Шеф | Что все так сегодня замечательно получилось. | That everything turned out so wonderfully today. | #314 00:19:44: что все так сегодня замечательно получилось | verbatim |
-| 9 | Федя | Да, Федя? | Right, Fedya? | #315 00:19:46: Да, Федя | verbatim |
+| 9 | Шеф | Да, Федя? | Right, Fedya? | #315 00:19:46: Да, Федя | verbatim |
 | 10 | Аня | Петрович, я передумал эти отпуска. | Petrovich, I changed my mind about those vacations. | #317 00:19:51: Петрович, я передумал эти отпуска | verbatim |
 | 11 | Шеф | Но через месяц уйду. | But in a month I am leaving. | #318 00:19:55: Но через месяц уйду | verbatim |
-| 12 | Федя | Это официальное предупреждение. | Consider this my official notice. | #319 00:19:57: Это официальное предупреждение | verbatim |
+| 12 | Шеф | Это официальное предупреждение. | Consider this my official notice. | #319 00:19:57: Это официальное предупреждение | verbatim |
 | 13 | Аня | Через месяц. | In one month. | #320 00:20:01: Через месяц | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

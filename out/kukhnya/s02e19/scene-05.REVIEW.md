@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ой, это вы? | Oh, is that you? | #75 00:04:38: Ой, это вы | verbatim |
+| 1 | Сеня | Ой, это вы? | Oh, is that you? | #75 00:04:38: Ой, это вы | verbatim |
 | 2 | Федя | Кино новое. | It is a brand-new movie. | #77 00:04:47: Кино новое | verbatim |
-| 3 | Аня | Для роли нужное. | I need it for a role. | #78 00:04:49: Для роли нужное | verbatim |
+| 3 | Сеня | Для роли нужное. | I need it for a role. | #78 00:04:49: Для роли нужное | verbatim |
 | 4 | Федя | Я так подумала. | That is what I thought. | #79 00:04:51: Я так подумала | verbatim |
-| 5 | Аня | А что за фильм? | What kind of movie is it? | #80 00:04:53: А что за фильм | verbatim |
+| 5 | Сеня | А что за фильм? | What kind of movie is it? | #80 00:04:53: А что за фильм | verbatim |
 | 6 | Федя | Ничего не понял. | I did not understand a single thing. | #81 00:04:56: ничего не понял | verbatim |
-| 7 | Аня | Вообще ничего. | Nothing whatsoever. | #82 00:04:59: Вообще ничего | verbatim |
+| 7 | Сеня | Вообще ничего. | Nothing whatsoever. | #82 00:04:59: Вообще ничего | verbatim |
 | 8 | Федя | Это тебе не наше барахло. | This is not our usual trash. | #83 00:05:01: Это тебе не наше барахло | verbatim |
-| 9 | Аня | Представь водопад. | Picture a waterfall. | #85 00:05:08: Представь водопад | verbatim |
+| 9 | Сеня | Представь водопад. | Picture a waterfall. | #85 00:05:08: Представь водопад | verbatim |
 | 10 | Федя | Карлос лежит на краю плота. | Carlos is lying on the edge of a raft. | #87 00:05:11: Карлос лежит на краю плота | verbatim |
-| 11 | Аня | Да, Карлос. | Yes, Carlos. | #88 00:05:14: Да, Карлос | verbatim |
+| 11 | Сеня | Да, Карлос. | Yes, Carlos. | #88 00:05:14: Да, Карлос | verbatim |
 | 12 | Федя | Холодный ветер с берега. | A cold wind blowing from the shore. | #90 00:05:18: Холодный ветер с берега | verbatim |
-| 13 | Аня | Которых уже никогда не коснется рука. | Which a human hand will never touch again. | #91 00:05:20: которых уже никогда не коснется рука | verbatim |
+| 13 | Сеня | Которых уже никогда не коснется рука. | Which a human hand will never touch again. | #91 00:05:20: которых уже никогда не коснется рука | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

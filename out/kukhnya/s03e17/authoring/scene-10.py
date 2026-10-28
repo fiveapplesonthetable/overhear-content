@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 10
-TITLE = 'Искра в щитке и верхняя полка  (A Spark in the Box and the Top Shelf)'
+TITLE = "Искра в щитке и верхняя полка  (A Spark in the Box and the Top Shelf)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'In the storage room, Chef Barinov catches Senya trying to sneak fresh groceries home. Meanwhile, Max causes a spark in the fuse box that makes Katya hug him tight, and then tries to dodge her in the pantry.'
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'You must not drag good groceries home.' The meaning hinges on 'normal' working together with 'home' in spoken Russian."),
     (2, None, "'Chef, honestly I did not steal anything.' The '-l' ending on the verb meaning 'stole' places the action in the masculine past tense. Chef Barinov answers right away."),
     (3, None, "'Keep in mind, I know all your hiding places well.' Chef Barinov brings out the contrast between 'bear in mind' and 'I' in a few short words."),
-    (4, None, "'So do not even try to argue.' Notice the reflexive suffix on the verb meaning 'try', turning the action back on the subject."),
+    (4, None, "'So do not even try to argue.' Here Chef Barinov anchors the thought on 'try' and finishes on 'to argue, bet', keeping the spoken rhythm brisk and natural."),
     (5, None, "'Done, I cleaned all the contacts here.' Spoken Russian keeps this brisk, leaning on 'ready' and finishing on 'cleaned'. Katya answers right away."),
     (6, None, "'Wow, what an electrician you are!' Katya addresses the listener with the informal singular 'you' alongside 'electrician'."),
     (7, None, "'Never hold onto an electrician with your hands.' The meaning hinges on 'never' working together with 'electrician' in spoken Russian."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Just as Max refuses to reach the top shelf for Katya, his handiwork in the fuse box catches up with the entire restaurant.'
-CLOSING = ('katya', 'Достань рис с верхней полки.')
+OUTRO = 'Just as Max refuses to reach the top shelf for Katya, his handiwork in the fuse box catches up with the entire restaurant. See you next time!'
+CLOSING = ("katya", "Хорошего дня!")

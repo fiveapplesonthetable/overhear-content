@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А вот и я. | And here I am. | #255 00:20:18: А вот и я | adapted: adapted |
+| 1 | Шеф | А вот и я. | And here I am. | #255 00:20:18: А вот и я | adapted: adapted |
 | 2 | Елена | Ой, молодой человек, я еле вас узнала! | Oh, young man, I barely recognized you! | #256 00:20:19: Ой, молодой человек, я еле вас узнала | adapted: adapted |
 | 3 | Елена | У меня есть тост. | I have a toast. | #257 00:20:29: У меня есть тост | adapted: adapted |
-| 4 | Аня | Какое совпадение! А у меня есть желание выпить. | What a coincidence! And I have a desire to drink. | #257 00:20:29: Какое совпадение<br>#258 00:20:32: А у меня есть желание выпить | adapted: adapted |
+| 4 | Шеф | Какое совпадение! А у меня есть желание выпить. | What a coincidence! And I have a desire to drink. | #257 00:20:29: Какое совпадение<br>#258 00:20:32: А у меня есть желание выпить | adapted: adapted |
 | 5 | Елена | Давай за нас выпьем? | Shall we drink to us? | #259 00:20:37: Давай за нас выпьем | adapted: adapted |
 | 6 | Елена | Знаешь, я очень рада, что мы вместе. | You know, I am very glad that we are together. | #260 00:20:39: Знаешь, я очень рада, что мы вместе | adapted: adapted |
 | 7 | Елена | Мне приятно, что ты ко мне прислушиваешься. | I am pleased that you listen to me. | #261 00:20:41: Мне приятно, что ты ко мне прислушиваешься | adapted: adapted |
 | 8 | Елена | Я тебя полюбила таким, какой ты есть. | I fell in love with you just the way you are. | #262 00:20:46: я тебя полюбила таким, какой ты есть | adapted: adapted |
 | 9 | Елена | И мне не важно, сколько в тебе килограмм. | And it does not matter to me how many kilograms are in you. | #263 00:20:50: И мне не важно, сколько в тебе килограмм | adapted: adapted |
-| 10 | Аня | Погоди, ты не считаешь меня толстяком? | Wait, you do not consider me a fat man? | #265 00:20:56: Погоди. Ты что, не считаешь меня толстяком | adapted: adapted |
+| 10 | Шеф | Погоди, ты не считаешь меня толстяком? | Wait, you do not consider me a fat man? | #265 00:20:56: Погоди. Ты что, не считаешь меня толстяком | adapted: adapted |
 | 11 | Елена | Господи, ну конечно нет! | Goodness, well of course not! | #266 00:20:59: Господи, ну, конечно, нет | adapted: adapted |
-| 12 | Аня | Значит, я зря целую неделю мучил себя диетами! Ты просто чудо! | So for a whole week I tormented myself with diets in vain! You are simply a miracle! | #267 00:21:01: Значит, я зря целую неделю<br>#267 00:21:01: мучил всякими диетами<br>#269 00:21:07: Ты просто чудо | adapted: adapted |
+| 12 | Шеф | Значит, я зря целую неделю мучил себя диетами! Ты просто чудо! | So for a whole week I tormented myself with diets in vain! You are simply a miracle! | #267 00:21:01: Значит, я зря целую неделю<br>#267 00:21:01: мучил всякими диетами<br>#269 00:21:07: Ты просто чудо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 26
 TITLE = "Pas d'ingérence extérieure  (No Outside Interference)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"julien": "Julien", "gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'julien': 'Julien', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the recording studio, Gabriel admits to Julien Dore that he and Sofia are dating. Julien accepts the news but insists that outside personal ties must not interfere with his creative work. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel and Julien negotiate professional boundaries and creative independence step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Julien sets clear artistic boundaries while accepting Sofia and Gabriel's relationship with professional grace. Let's review the creative and boundary-setting vocabulary from this scene. See you next time!"
-CLOSING = ("julien", "À demain!")
+CLOSING = ('julien', 'À demain!')
 STORY = [
     ('julien', "Tu travailles dur aujourd'hui, Sofia?", 'Are you working hard today, Sofia?', [(764, 'Tu travailles dur ?')], ''),
     ('gabriel', 'Pardon, nous sommes ensemble tous les deux.', 'Sorry, the two of us are together.', [(765, 'Désolé, on ne vous a pas dit ? On est ensemble.')], ''),

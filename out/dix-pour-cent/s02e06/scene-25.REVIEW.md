@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e06.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"camille": "Camille", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "camille": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "camille": "Camille"}`
 
 ## Part 1 — Intro
 > In Cannes, Camille enjoys ice cream on the street with her mother Annick while watching festival crowds from afar. When Mathias calls with a last-minute party invitation, he brings a dress while Annick helps with shoes. Let's listen to the scene in French first.
@@ -28,5 +28,5 @@
 | 14 | `mathias` (Mathias) | Allez, ma chérie, profite bien de ta soirée. | Go on, darling, enjoy your evening. | 736:Allez, ma chérie, profites-en bien. |
 
 ## Part 5 — Outro & Closing
-> Thanks to Annick's loving support and Mathias's persistence, Camille is ready to make an entrance at the Cannes party. Let's review the festival and dressing vocabulary from this scene. Join us next time to see what happens next.
+> Thanks to Annick's loving support and Mathias's persistence, Camille is ready to make an entrance at the Cannes party. Let's review the festival and dressing vocabulary from this scene. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

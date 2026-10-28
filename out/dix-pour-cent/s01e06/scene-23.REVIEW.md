@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Non, attends, Colette! Ne prends pas ce taxi! | No, wait, Colette! Don | 627:Non, attends ! Colette, 628:taxi |
 
 ## Part 5 — Outro & Closing
-> Heartbroken by Andréa's betrayal, Colette leaves in the taxi and cuts off all contact. Drunk and miserable, Andréa stumbles back into the party, falls straight into the swimming pool, and shows up soaking wet at Gabriel's flat. See you next time.
+> Heartbroken by Andréa's betrayal, Colette leaves in the taxi and cuts off all contact. Drunk and miserable, Andréa stumbles back into the party, falls straight into the swimming pool, and shows up soaking wet at Gabriel's flat. See you next time!
 - **Closing**: `lea`: *À bientôt!*

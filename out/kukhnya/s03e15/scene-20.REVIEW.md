@@ -21,13 +21,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Аня | Иногда очень сложно выразить словами то, что творится внутри. | Sometimes it is very hard to express in words what is going on inside. | #329 00:23:26: Иногда очень сложно выразить словами то, что творится у тебя внутри | adapted: adapted |
 | 10 | Аня | У кого-то получается найти этим словам хорошую замену. | Some people manage to find a good substitute for those words. | #330 00:23:33: У кого-то получается найти этим словам<br>#330 00:23:33: замену | adapted: adapted |
 | 11 | Аня | А за кого-то лучше всяких слов говорят поступки. | And for others, actions speak louder than any words. | #331 00:23:43: лучше слов говорят поступки | adapted: adapted |
-| 12 | Аня | А кто-то стоит мокрый в центре огромного города и не знает, что делать дальше. | And someone stands soaked in the center of a vast city and does not know what to do next. | #334 00:23:56: стоит мокрый в центре огромного города<br>#335 00:24:01: не знает, что делать дальше | adapted: adapted |
+| 12 | Аня | Он стоит мокрый в центре города и не знает, что делать. | He stands soaked in the center of the city and does not know what to do. | #334 00:23:56: стоит мокрый в центре<br>#335 00:24:01: не знает, что делать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I think it is time for you to go home now.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject.
+- 'Max, I think it is time for you to go home now.' Vika pairs 'it seems' with 'home' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'What do you mean time to go, everything was going so well!' Notice how Russian expresses 'how' and 'well' with crisp inflection rather than helper words. Vika answers right away.
-- 'And are things going well between you and Katya too?' The grammar packs 'and' and 'well' into a tight, idiomatic kitchen exchange.
+- 'And are things going well between you and Katya too?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Nothing ever happened or will happen between me and Katya!' In Russian, the idea of 'yes' flows naturally into 'will be' without extra filler words.
 - 'Max, I am tired and I know how all of this will end.' The '-a' ending on the past-tense verb for 'are tired' marks a female speaker or subject.
 - 'You and I have already been through this before.' The meaning hinges on 'we' working together with 'to go through' in spoken Russian.
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Farewell, Max, I am flying away soon.' Here the Russian phrasing highlights 'farewell' before landing on 'am flying away'. Max answers right away.
 - 'Sometimes it is very hard to express in words what is going on inside.' Max anchors the line on 'sometimes', while 'inside' completes the thought.
 - 'Some people manage to find a good substitute for those words.' The grammar packs 'at' and 'substitute' into a tight, idiomatic kitchen exchange.
-- 'And for others, actions speak louder than any words.' The grammar packs 'and' and 'actions' into a tight, idiomatic kitchen exchange.
-- 'And someone stands soaked in the center of a vast city and does not know what to do next.' Here the Russian phrasing highlights 'and' before landing on 'further'.
+- 'And for others, actions speak louder than any words.' Here Max anchors the thought on 'better' and finishes on 'actions / deeds', keeping the spoken rhythm brisk and natural.
+- 'He stands soaked in the center of the city and does not know what to do.' In everyday Russian, 'is parked' flows straight into 'knows' without extra linking words.

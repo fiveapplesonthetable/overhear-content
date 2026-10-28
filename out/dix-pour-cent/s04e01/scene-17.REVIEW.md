@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | La guerre des agences a commencé. | The agency war has begun. | adapted |
 
 ## Part 5 — Outro & Closing
-> Confronted by the poaching triumph of StarMedia on the red carpet, Andrea prepares for an all-out agency war. When you watch the episode, listen out for the expressions meaning 'good evening' and 'unexpected event'. You'll catch them now. See you next time.
+> Confronted by the poaching triumph of StarMedia on the red carpet, Andrea prepares for an all-out agency war. When you watch the episode, listen out for the expressions meaning 'good evening' and 'unexpected event'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

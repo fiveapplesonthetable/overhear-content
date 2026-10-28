@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e08-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 18
-TITLE = 'Спор о мясе и котлетах из капусты  (The Argument Over Meat and Cabbage Cutlets)'
+TITLE = "Спор о мясе и котлетах из капусты  (The Argument Over Meat and Cabbage Cutlets)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = "Trying to keep the peace at the table, Kostya praises Nastya's cabbage cutlets and jokes that modern store-bought sausage hardly contains any meat anyway. Offended on behalf of his factory, Stepan Andreyevich insists his sausages are pure meat, sparking a fierce argument with Nastya over animal cruelty."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 18 of Episode 8, listen out for the exchange around the argument over meat and cabbage cutlets — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Я люблю мясо!')
+OUTRO = "That wraps up this scene as tension boils over at the dinner table when Nastya attacks her father's sausage business as animal cruelty and Stepan Andreyevich explodes that people love real meat. See you next time!"
+CLOSING = ("vika", "До завтра!")

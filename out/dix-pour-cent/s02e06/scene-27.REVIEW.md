@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Parfait, nous en reparlerons très vite ensemble. | Perfect, we will discuss it very soon together. | 786:-Très bien ! -On se reparlera. |
 
 ## Part 5 — Outro & Closing
-> The unexpected reunion in Cannes opens an exhilarating international chapter for Andréa and Camille. Let's review the friendship and travel vocabulary from this scene. Until next time.
+> The unexpected reunion in Cannes opens an exhilarating international chapter for Andréa and Camille. Let's review the friendship and travel vocabulary from this scene. See you next time!
 - **Closing**: `lea`: *À bientôt!*

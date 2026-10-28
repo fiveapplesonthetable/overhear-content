@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Лёва | Так это всё неправда была, да? | So all of that was untrue, right? | #325 00:22:12: Так это всё неправда была, да | adapted: adapted |
 | 10 | Шеф | И что она в клинике лежала? | And that she stayed in a clinic? | #327 00:22:16: И что, она в клинике лежала | adapted: adapted |
 | 11 | Аня | Виктор Петрович, пожалуйста, только не надо! | Victor Petrovich, please, just do not! | #328 00:22:20: Виктор Петрович, не надо | adapted: adapted |
-| 12 | Шеф | Беги отсюда, маленький придурок, стой! | Run away from here, little fool, stop! | #329 00:22:24: Беги, беги, маленький придурок<br>#330 00:22:26: Стой! | adapted: adapted |
+| 12 | Шеф | Беги отсюда скорее, ну же, стой! | Run away from here quickly, come on, stop! | #329 00:22:24: Беги<br>#330 00:22:26: Стой! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It was Max who told me all that about her!' Lyova anchors the line on 'this', while 'she' completes the thought.
 - 'I said nothing, Lyova simply misunderstood me.' The grammar packs 'I' and 'understood' into a tight, idiomatic kitchen exchange.
 - 'So all of that was untrue, right?' Lyova anchors the line on 'so', while 'yes' completes the thought. Chef Barinov answers right away.
-- 'And that she stayed in a clinic?' The grammar packs 'and' and 'to lie' into a tight, idiomatic kitchen exchange.
+- 'And that she stayed in a clinic?' Chef Barinov pairs 'clinic' with 'to lie, to rest' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Victor Petrovich, please, just do not!' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'need'.
-- 'Run away from here, little fool, stop!' An emphatic spoken line centered on the verb meaning 'run'.
+- 'Run away from here quickly, come on, stop!' Here Chef Barinov anchors the thought on 'run' and finishes on 'stop, wait', keeping the spoken rhythm brisk and natural.

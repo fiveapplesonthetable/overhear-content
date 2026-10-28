@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 13
-TITLE = 'Кран у окна и подарок молодым  (A Crane at the Window and a Gift for the Newlyweds)'
+TITLE = "Кран у окна и подарок молодым  (A Crane at the Window and a Gift for the Newlyweds)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "Outside Vika's building, Max's crane platform gets jammed halfway down. Meanwhile, at the restaurant, Nagiyev gathers the entire staff and grandly hands Kostya and Nastya the envelope with four hundred thousand rubles as a wedding gift! Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nastya is blown away by Nagiyev's 'generosity,' and Kostya thinks his problem is solved! Now let's return to Max on the jammed crane outside Vika's third-floor window."
-CLOSING = ('nagiyev', 'Совет вам да любовь!')
+OUTRO = "Nastya is blown away by Nagiyev's 'generosity,' and Kostya thinks his problem is solved! Now let's return to Max on the jammed crane outside Vika's third-floor window. Until next time!"
+CLOSING = ("nagiyev", "До свидания!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 9
 TITLE = "Сгоревший обед Нагиева  (Nagiyev's Burned Lunch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "While confronting Katya about her lie, Max grabs her arm just as Chef Barinov walks by, making them look like a couple. Meanwhile, because Barinov left the stove unattended, Nagiyev's lunch burns to a crisp."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Burning Nagiyev's lunch only makes Barinov look worse in the owner's eyes. Outside in the courtyard, Katya confides the real truth to Vika while Max talks to Kostya."
-CLOSING = ('chef', 'Сейчас будет новый обед!')
+OUTRO = "Burning Nagiyev's lunch only makes Barinov look worse in the owner's eyes. Outside in the courtyard, Katya confides the real truth to Vika while Max talks to Kostya. Until next time!"
+CLOSING = ("chef", "Увидимся!")

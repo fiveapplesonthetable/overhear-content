@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What, you do not like Kuzma either?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'pleases'.
 - 'Kostya, there is no pleasing you at all.' In Russian, the idea of 'Kostya' flows naturally into 'please' without extra filler words.
 - 'Nastya, because those are strange names.' The meaning hinges on 'Nastya' working together with 'names' in spoken Russian.
-- 'And everyone will tease our son.' Notice the reflexive suffix on the verb meaning 'mock', turning the action back on the subject.
+- 'And everyone will tease our son.' Kostya pairs 'son' with 'to be; there is' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

@@ -30,5 +30,5 @@
 | 16 | `audrey` (Audrey) | Dis-moi ce que tu en penses. | Tell me what you think of it. | 571:Dis-moi ce que tu en penses |
 
 ## Part 5 — Outro & Closing
-> Audrey is trying her best to prepare for the role and find a nanny, even if her heart isn't really in leaving her children. Back at her flat, she is about to interview her first nanny applicant—or so she thinks. See you next time.
+> Audrey is trying her best to prepare for the role and find a nanny, even if her heart isn't really in leaving her children. Back at her flat, she is about to interview her first nanny applicant—or so she thinks. See you next time!
 - **Closing**: `audrey`: *À tout à l'heure!*

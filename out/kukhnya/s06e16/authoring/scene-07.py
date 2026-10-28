@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e16-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 16
 SCENE = 7
-TITLE = 'Секретный ужин в номер  (Secret Dinner to the Room)'
+TITLE = "Секретный ужин в номер  (Secret Dinner to the Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'shef': 'angelina'}
-LABELS = {'anya': 'Сеня', 'fedya': 'Федя', 'shef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.16'
 SOURCE_FILE = 'sources/kukhnya/s06/e16.ru.srt'
 
 INTRO = "Senya and Fedya deliver a secret steak dinner to the model's room, but she insists they feed her two more times tomorrow before she keeps her side of the bargain. Meanwhile, Chef Barinov invites Olaf Gustavson into the kitchen and points to Elena as his famous singer fiancée."
 
 STORY = [
-    ('anya', 'Вот ваш секретный вкусный ужин в номер.', 'Here is your secret delicious dinner to the room.', [(95, 'Ваш секретный ужин в номер')], 'adapted'),
-    ('fedya', 'Какая же это настоящая красота и прелесть!', 'What real beauty and charm this is!', [(96, 'Какая прелесть')], 'adapted'),
-    ('anya', 'Кстати, нам бы теперь рассчитаться надо.', 'By the way, we should settle up now.', [(97, 'Кстати'), (98, 'Рассчитаться бы надо')], 'adapted'),
-    ('fedya', 'Один стейк для этого слишком мало?', 'Is one steak too little for this?', [(99, 'чем один стейк')], 'adapted'),
-    ('anya', 'Покормите меня завтра ещё пару раз.', 'Feed me a couple more times tomorrow.', [(100, 'покормите меня завтра еще пару раз')], 'adapted'),
-    ('anya', 'И тогда мы с вами рассчитаемся.', 'And then we will settle up with you.', [(100, 'и рассчитаемся')], 'adapted'),
-    ('fedya', 'Ладно, мы до завтра спокойно потерпим.', 'Alright, we will calmly be patient until tomorrow.', [(101, 'Ладно, потерпим')], 'adapted'),
-    ('shef', 'Господин модельер, пожалуйста, входите к нам.', 'Mister designer, please come in to see us.', [(104, 'пожалуйста, входите')], 'adapted'),
-    ('shef', 'Скажите, у вас сейчас есть минутка?', 'Tell me, do you have a minute right now?', [(105, 'Есть минутка')], 'adapted'),
-    ('anya', 'Конечно, какой приятный запах на кухне!', 'Of course, what a pleasant smell in the kitchen!', [(105, 'Конечно'), (106, 'Приятный запах. Кухня')], 'adapted'),
-    ('anya', 'Посмотрите туда, это ваша известная певица?', 'Look over there, is that your famous singer?', [(107, 'Это она')], 'adapted'),
-    ('shef', 'Да, это моя любимая будущая жена.', 'Yes, that is my beloved future wife.', [(107, 'Да')], 'adapted'),
+    ('senya', 'Вот ваш секретный вкусный ужин в номер.', 'Here is your secret delicious dinner to the room.', [(95, 'Ваш секретный ужин в номер')], 'adapted'),
+    ('chef', 'Какая же это настоящая красота и прелесть!', 'What real beauty and charm this is!', [(96, 'Какая прелесть')], 'adapted'),
+    ('senya', 'Кстати, нам бы теперь рассчитаться надо.', 'By the way, we should settle up now.', [(97, 'Кстати'), (98, 'Рассчитаться бы надо')], 'adapted'),
+    ('chef', 'Один стейк для этого слишком мало?', 'Is one steak too little for this?', [(99, 'чем один стейк')], 'adapted'),
+    ('senya', 'Покормите меня завтра ещё пару раз.', 'Feed me a couple more times tomorrow.', [(100, 'покормите меня завтра еще пару раз')], 'adapted'),
+    ('senya', 'И тогда мы с вами рассчитаемся.', 'And then we will settle up with you.', [(100, 'и рассчитаемся')], 'adapted'),
+    ('chef', 'Ладно, мы до завтра спокойно потерпим.', 'Alright, we will calmly be patient until tomorrow.', [(101, 'Ладно, потерпим')], 'adapted'),
+    ('chef', 'Господин модельер, пожалуйста, входите к нам.', 'Mister designer, please come in to see us.', [(104, 'пожалуйста, входите')], 'adapted'),
+    ('chef', 'Скажите, у вас сейчас есть минутка?', 'Tell me, do you have a minute right now?', [(105, 'Есть минутка')], 'adapted'),
+    ('senya', 'Конечно, какой приятный запах на кухне!', 'Of course, what a pleasant smell in the kitchen!', [(105, 'Конечно'), (106, 'Приятный запах. Кухня')], 'adapted'),
+    ('senya', 'Посмотрите туда, это ваша известная певица?', 'Look over there, is that your famous singer?', [(107, 'Это она')], 'adapted'),
+    ('chef', 'Да, это моя любимая будущая жена.', 'Yes, that is my beloved future wife.', [(107, 'Да')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Through the window, Olaf sees Elena and agrees that she looks just like a major star. See you in the next scene.'
-CLOSING = ('shef', 'Пожалуйста, входите к нам.')
+OUTRO = 'Through the window, Olaf sees Elena and agrees that she looks just like a major star. Until next time!'
+CLOSING = ("chef", "Увидимся!")

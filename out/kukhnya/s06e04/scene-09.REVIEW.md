@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Ну что, они поверили? | Well, did they believe it? | #141 00:08:51: Ну что, они поверили? | adapted: exact |
-| 2 | Аня | Я просто сказала им то, что они хотели услышать. | I simply told them what they wanted to hear. | #142 00:08:52: Я просто сказала им то, что они хотели услышать | adapted: exact |
-| 3 | Аня | Через полчаса спускайся вниз вершить судьбу ресторана. | In half an hour come downstairs to decide the fate of the restaurant. | #143 00:08:55: Через полчаса спускайся вниз<br>#143 00:08:55: судьбу ресторана | adapted: adapted |
-| 4 | Гуля | Лёва, а может, мне тогда уйти? | Lyova, maybe I should leave then? | #146 00:09:05: Лёва, а может мне тогда уйти? | adapted: exact |
-| 5 | Гуля | Ладно, подожду, постарайся побыстрее. | Fine, I will wait, try to make it fast. | #147 00:09:10: Ладно, подожду<br>#148 00:09:12: Постарайся побыстрее | adapted: adapted |
+| 2 | Катя | Я просто сказала им то, что они хотели услышать. | I simply told them what they wanted to hear. | #142 00:08:52: Я просто сказала им то, что они хотели услышать | adapted: exact |
+| 3 | Катя | Через полчаса спускайся вниз вершить судьбу ресторана. | In half an hour come downstairs to decide the fate of the restaurant. | #143 00:08:55: Через полчаса спускайся вниз<br>#143 00:08:55: судьбу ресторана | adapted: adapted |
+| 4 | Гость | Лёва, а может, мне тогда уйти? | Lyova, maybe I should leave then? | #146 00:09:05: Лёва, а может мне тогда уйти? | adapted: exact |
+| 5 | Гость | Ладно, подожду, постарайся побыстрее. | Fine, I will wait, try to make it fast. | #147 00:09:10: Ладно, подожду<br>#148 00:09:12: Постарайся побыстрее | adapted: adapted |
 | 6 | Гость | Здравствуйте, а вы кто? | Hello, and who are you? | #152 00:09:27: Здравствуйте<br>#153 00:09:30: А вы кто? | adapted: adapted |
 | 7 | Гость | А где наш Лёва? | And where is our Lyova? | #154 00:09:32: А где Лев? | adapted: adapted |
-| 8 | Гуля | Его срочно на работу вызвали, а меня Гуля зовут. | They called him in to work urgently, and my name is Gulya. | #155 00:09:34: Его срочно на работу вызвали<br>#156 00:09:37: А меня<br>#156 00:09:37: зовут | adapted: adapted |
-| 9 | Гуля | Пойдемте на кухню, там плов почти уже готов. | Let's go to the kitchen, the pilaf is almost ready in there. | #157 00:09:39: Пойдемте на кухню. Там плов почти уже готов | adapted: exact |
+| 8 | Гость | Его срочно на работу вызвали, а меня Гуля зовут. | They called him in to work urgently, and my name is Gulya. | #155 00:09:34: Его срочно на работу вызвали<br>#156 00:09:37: А меня<br>#156 00:09:37: зовут | adapted: adapted |
+| 9 | Гость | Пойдемте на кухню, там плов почти уже готов. | Let's go to the kitchen, the pilaf is almost ready in there. | #157 00:09:39: Пойдемте на кухню. Там плов почти уже готов | adapted: exact |
 | 10 | Гость | Я сегодня утром сказала, что мне нужна помощница. | This morning I mentioned that I needed a helper. | #158 00:09:45: Я сегодня утром<br>#158 00:09:45: что мне нужна помощница | adapted: adapted |
 | 11 | Гость | А он это принял буквально и нанял домработницу! | And he took it literally and hired a housekeeper! | #159 00:09:50: А он это принял буквально и нанял домработницу | adapted: exact |
 | 12 | Гость | Ты должна радоваться, что у тебя такой заботливый сын. | You should be glad that you have such a caring son. | #160 00:09:54: ты должна радоваться, что у тебя такой заботливый сын | adapted: exact |

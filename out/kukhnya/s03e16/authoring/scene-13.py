@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 13
 TITLE = "Двойная оплата и химия Кати  (Double Pay and Katya's Chemistry)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'Chef Barinov announces double pay to lure greedy Senya and Fedya into staying for the night shift. Once the shift begins, Katya tells Max she has found a chemical way to make his thyme sauce safe for drinkers! Listen first.'
@@ -33,7 +33,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 WALK = [
     (0, None, "'Alright, attention, nobody is going home tonight!' The negative particle sits right before the verb meaning 'leaves' to negate the statement."),
     (1, None, "'Tonight we have a night shift in the kitchen.' In Russian, the idea of 'tonight' flows naturally into 'shift' without extra filler words."),
-    (2, None, "'Chef, with such spooky nonsense here, I am not staying at night!' Notice the reflexive suffix on the verb meaning 'will stay', turning the action back on the subject. Chef Barinov answers right away."),
+    (2, None, "'Chef, with such spooky nonsense here, I am not staying at night!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (3, None, "'I do not even need all the cooks tonight.' Chef Barinov brings out the contrast between 'and' and 'to me' in a few short words."),
     (4, None, "'Katya is staying, and Max, because he is being punished.' The grammar packs 'to stay' and 'punished' into a tight, idiomatic kitchen exchange."),
     (5, None, "'Who else will stay, there will be double pay for the shift!' Chef Barinov brings out the contrast between 'who' and 'else' in a few short words. Max answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max stares blankly at Katya's scientific terminology, so in Scene Fourteen she breaks it down for him in plain Russian!"
-CLOSING = ('katya', 'Я нашла решение проблемы!')
+OUTRO = "Max stares blankly at Katya's scientific terminology, so in Scene Fourteen she breaks it down for him in plain Russian! Until next time!"
+CLOSING = ("katya", "До свидания!")

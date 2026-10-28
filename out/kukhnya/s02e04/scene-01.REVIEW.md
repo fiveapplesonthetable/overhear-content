@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything in my life is great.' Here the Russian phrasing highlights 'by' before landing on 'great!'.
-- 'No, I am serious.' In Russian, the idea of 'there is no' flows naturally into 'seriously' without extra filler words. Sasha answers right away.
+- 'Everything in my life is great.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'No, I am serious.' Vika centers this short reply on 'seriously', letting a few direct words carry the whole meaning.
 - 'I started dating a new girl, Sasha.' The meaning hinges on 'have become' working together with 'Sasha' in spoken Russian.
 - 'She is outgoing and beautiful.' The grammar packs 'she' and 'pretty' into a tight, idiomatic kitchen exchange.
-- 'And overall everything is going well for me.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'fine'. Sasha answers right away.
-- 'Good morning.' Sasha brings out the contrast between 'kind' and 'morning' in a few short words.
-- 'I have a surprise for you.' Chef Viktor anchors the line on 'by', while 'surprise' completes the thought.
+- 'And overall everything is going well for me.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Good morning.' Sasha uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'I have a surprise for you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Kris gave me two vouchers to Cyprus.' Notice how Russian expresses 'Kris' and 'Cyprus' with crisp inflection rather than helper words. Sasha answers right away.
 - 'Something did not work out for her there.' Spoken Russian keeps this brisk, leaning on 'but' and finishing on 'worked out'.
 - 'Let us fly together.' In Russian, the idea of 'to fly' flows naturally into 'together' without extra filler words.
 - 'Wait, I do not understand?' The '-l' ending on the verb meaning 'understood?' places the action in the masculine past tense. Sasha answers right away.
 - 'Viktor Petrovich, this man is a genius.' The grammar packs 'Viktor' and 'genius' into a tight, idiomatic kitchen exchange.
-- 'And throw all of this into the trash.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'dumpster'.
+- 'And throw all of this into the trash.' Notice how Russian puts 'to throw out, discard' and 'dumpster' together in a short, direct phrase where word endings show how the ideas connect.

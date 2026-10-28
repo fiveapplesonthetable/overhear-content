@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e06-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e06-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 6
 SCENE = 19
 TITLE = "Тайник Сени и предложение без пирожного  (Senya's Hiding Spot and a Proposal Without Pastry)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Луи', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.06"
-SOURCE_FILE = "sources/kukhnya/s02/e06.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "louis": "anja", "anya": "alisa"}
+LABELS = {"louis": "Луи", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
+SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 
 INTRO = "In the climax of the flashback, while Louis stalls for ten more minutes, Chef Barinov and Nagiyev realize they will have to manage the evening without any pastries at all. Back in the present, Barinov reflects on how Senya's habit of stealing food nearly derailed the owner's engagement."
 
 STORY = [
-    ('anya', 'Ну и что происходит?', 'Well, what is going on in here?', [(317, 'Ну и что происходит')], ''),
-    ('max', 'Десерт где?', 'Where is the dessert?', [(317, 'Десерт где')], ''),
-    ('anya', 'Луи, где десерт?', 'Louis, where is the dessert?', [(318, 'Луи, где десерт')], ''),
-    ('max', 'Нужно еще немного подождать.', 'We just need to wait a little bit longer.', [(319, 'Нужно еще немного подождать')], ''),
-    ('anya', 'Кольцо где?', 'Where is the ring?', [(320, 'Кольцо где')], ''),
-    ('max', 'Витя, а что это такое?', 'Vitya, what on earth is that?', [(322, 'Витя, а что это такое')], ''),
-    ('anya', 'Так безопаснее.', 'It is much safer this way.', [(325, 'Так безопаснее')], ''),
-    ('max', 'Смотри, как он здоровый.', 'Look how big that guy is.', [(326, 'Смотри, как он здоровый')], ''),
-    ('anya', 'И потом у него есть тайное место.', 'And besides, he has a secret hiding spot.', [(326, 'И потом у него есть тайное место')], ''),
-    ('max', 'Давайте в ваше кольцо я спрячу его пирожное.', 'Let me hide your ring inside a pastry for him.', [(328, 'Давайте в ваше кольцо я спрячу его пирожное')], ''),
-    ('anya', 'Это займет минут десять.', 'It will take about ten minutes.', [(329, 'Это займет минут десять')], ''),
-    ('max', 'Сейчас, сейчас.', 'Right now, coming right up.', [(330, 'Сейчас, сейчас')], ''),
-    ('anya', 'Без пирожных обойдемся теперь.', 'We will manage without pastries from now on.', [(331, 'Без пирожных обойдемся теперь')], ''),
+    ('louis', 'Ну и что происходит?', 'Well, what is going on in here?', [(317, 'Ну и что происходит')], ''),
+    ('anya', 'Десерт где?', 'Where is the dessert?', [(317, 'Десерт где')], ''),
+    ('louis', 'Луи, где десерт?', 'Louis, where is the dessert?', [(318, 'Луи, где десерт')], ''),
+    ('anya', 'Нужно еще немного подождать.', 'We just need to wait a little bit longer.', [(319, 'Нужно еще немного подождать')], ''),
+    ('louis', 'Кольцо где?', 'Where is the ring?', [(320, 'Кольцо где')], ''),
+    ('anya', 'Витя, а что это такое?', 'Vitya, what on earth is that?', [(322, 'Витя, а что это такое')], ''),
+    ('louis', 'Так безопаснее.', 'It is much safer this way.', [(325, 'Так безопаснее')], ''),
+    ('anya', 'Смотри, как он здоровый.', 'Look how big that guy is.', [(326, 'Смотри, как он здоровый')], ''),
+    ('louis', 'И потом у него есть тайное место.', 'And besides, he has a secret hiding spot.', [(326, 'И потом у него есть тайное место')], ''),
+    ('anya', 'Давайте в ваше кольцо я спрячу его пирожное.', 'Let me hide your ring inside a pastry for him.', [(328, 'Давайте в ваше кольцо я спрячу его пирожное')], ''),
+    ('louis', 'Это займет минут десять.', 'It will take about ten minutes.', [(329, 'Это займет минут десять')], ''),
+    ('anya', 'Сейчас, сейчас.', 'Right now, coming right up.', [(330, 'Сейчас, сейчас')], ''),
+    ('louis', 'Без пирожных обойдемся теперь.', 'We will manage without pastries from now on.', [(331, 'Без пирожных обойдемся теперь')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 19 of Episode 6, listen out for the exchange around senya's hiding spot and a proposal without pastry — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Без пирожных обойдемся теперь.')
+OUTRO = 'That wraps up this scene as while the flashback shows Nagiyev giving up on the pastry, in the present Chef Barinov tells Lyova how that disaster paradoxically failed to stop Nagiyev from marrying Kristina. Until next time!'
+CLOSING = ("louis", "Увидимся!")

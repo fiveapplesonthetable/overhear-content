@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 4
-TITLE = "Question indiscrète  (An Indiscreet Question)"
-LEVEL = "A1 — débutant"
+TITLE = 'Question indiscrète  (An Indiscreet Question)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In the ASK office corridor, agent Gabriel marvels that his longtime colleague Andrea is expecting a baby. Curious about the conception, Gabriel awkwardly inquires about private details, prompting Andrea to set firm boundaries. Let's listen to their conversation in French first."
 OPENER = "Let's examine how Andrea protects her privacy when Gabriel asks an awkward question."
 TRANSITION = "Now let's listen to Gabriel and Andrea again at full speed."
-OUTRO = "Andrea gracefully shuts down Gabriel's awkward question, reaffirming the boundaries between personal and office life. When you watch the episode, listen out for the expressions meaning 'return' and 'mother'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Andrea gracefully shuts down Gabriel's awkward question, reaffirming the boundaries between personal and office life. When you watch the episode, listen out for the expressions meaning 'return' and 'mother'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', "Je n'en reviens toujours pas, Andréa.", 'I still cannot get over it, Andrea.', [(59, "Peut-être que j'en reviens toujours pas,")], ''),
     ('lea', "Tu n'en reviens pas de quoi?", 'You cannot get over what?', [(58, 'Je peux me réveiller, là ?')], ''),

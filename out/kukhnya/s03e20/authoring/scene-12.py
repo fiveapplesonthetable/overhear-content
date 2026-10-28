@@ -1,23 +1,23 @@
 ID = 'kukhnya-s03e20-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 12
 TITLE = "Скрытая камера и победа Шефа  (The Hidden Camera and the Chef's Victory)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'guest': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "inspector": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "Lyova brings the disc from the hidden camera in Sergey's hotel bathroom. When the video proves that Sergey is having an affair with Andrey Mikhailovich's wife Olya, Chef Barinov forces Sergey to pack up and leave!"
 
 STORY = [
-    ('guest', 'Вы вроде взрослый человек, а такой ерундой занимаетесь.', 'You seem like a grown man, yet you engage in such nonsense.', [(207, 'вот вы вроде взрослый человек, а такой ерундой занимаетесь')], 'adapted'),
+    ('inspector', 'Вы вроде взрослый человек, а такой ерундой занимаетесь.', 'You seem like a grown man, yet you engage in such nonsense.', [(207, 'вот вы вроде взрослый человек, а такой ерундой занимаетесь')], 'adapted'),
     ('chef', 'А ты сам разве сейчас не ерундой занимаешься?', 'And are you not engaging in nonsense yourself right now?', [(208, 'А ты не ерундой занимаешься')], 'adapted'),
     ('chef', 'Ты ведь тайно обманываешь своего лучшего друга Андрея!', 'You are secretly deceiving your best friend Andrey!', [(209, 'своему другу')], 'adapted'),
-    ('guest', 'Перестаньте, пожалуйста, и не несите этот полный бред!', 'Stop it, please, and do not talk such utter nonsense!', [(210, 'Не несите бред')], 'adapted'),
+    ('inspector', 'Перестаньте, пожалуйста, и не несите этот полный бред!', 'Stop it, please, and do not talk such utter nonsense!', [(210, 'Не несите бред')], 'adapted'),
     ('anya', 'Шеф, я принёс ваш диск из отеля, но там такое!', 'Chef, I brought your disc from the hotel, but what is on it!', [(211, 'Шеф'), (212, 'Я диск принес, но там')], 'adapted'),
     ('chef', 'А вот мы сейчас и узнаем, несу я бред или нет!', 'Right now we will find out whether I am talking nonsense or not!', [(213, 'А вот мы сейчас узнаем, несу я бред или нет')], 'adapted'),
     ('chef', 'Тихо, Лёва, помолчи минуту и смотри на экран!', 'Quiet, Lyova, be silent for a minute and watch the screen!', [(215, 'Тихо, тихо, тихо')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Caught red-handed on video with his boss's wife, crisis manager Sergey Vladimirovich resigns and flees back to St. Petersburg."
-CLOSING = ('chef', 'Наша хитрая схема отлично работает!')
+OUTRO = "Caught red-handed on video with his boss's wife, crisis manager Sergey Vladimirovich resigns and flees back to St. Petersburg. See you next time!"
+CLOSING = ("chef", "Пока!")

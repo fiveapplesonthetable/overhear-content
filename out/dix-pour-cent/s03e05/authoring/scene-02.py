@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 2
 TITLE = "L'appel de Béatrice  (Béatrice's Call)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "beatrice": "emilie"}
-LABELS = {"lea": "Andréa", "beatrice": "Béatrice"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'beatrice': 'emilie'}
+LABELS = {'lea': 'Andréa', 'beatrice': 'Béatrice'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At home with her newborn baby, Andrea Martel receives an urgent phone call from Beatrice Dalle. Facing an unannounced script modification on set, Beatrice asks her agent to step in immediately and protect her contractual boundaries. Let's listen to the scene in French first."
 OPENER = "Let's observe as Beatrice alerts Andrea to the dispute on set."
 TRANSITION = "Now let's listen to Beatrice and Andrea again at full speed."
-OUTRO = "Andrea hangs up the phone, determined to resolve the creative impasse and stand up for Beatrice's artistic rights. When you watch the episode, listen out for the expressions meaning 'how are you doing' and 'large'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Andrea hangs up the phone, determined to resolve the creative impasse and stand up for Beatrice's artistic rights. When you watch the episode, listen out for the expressions meaning 'how are you doing' and 'large'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('beatrice', "Allô Andréa, c'est Béatrice.", 'Hello Andrea, it is Beatrice.', [(25, "Allô, c'est Béatrice")], ''),
     ('lea', 'Bonjour Béatrice, comment vas-tu?', 'Hello Beatrice, how are you doing?', [(26, "T'es toujours en congé mat, toi ?")], ''),

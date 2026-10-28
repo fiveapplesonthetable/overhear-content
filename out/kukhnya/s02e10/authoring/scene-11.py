@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e10-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 11
 TITLE = "Чужой долг в сто тысяч  (Someone Else's Hundred-Thousand Debt)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Шеф', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = "Thinking the visitors are ordinary guests, Lyova stays in character inside Chef Barinov's office and barks at them not to disturb him. To his horror, the men turn out to be debt collectors who believe Lyova is the head chef and demand a hundred thousand by tomorrow."
 
 STORY = [
-    ('anya', 'Он в своем кабинете.', 'He is in his office.', [(169, 'Он в своем кабинете')], ''),
-    ('max', 'Просил его не беспокоить.', 'He asked not to be disturbed.', [(170, 'Просил его не беспокоить')], ''),
-    ('anya', 'Я же просил меня не беспокоить.', 'I told you not to disturb me.', [(171, 'Я же просил меня не беспокоить')], ''),
-    ('max', 'Готовлю новое минимум.', 'I am preparing the new menu.', [(172, 'Готовлю новое минимум')], ''),
-    ('anya', 'Вам чего?', 'What do you want?', [(173, 'Вам чего')], ''),
-    ('max', 'Ты шеф-повар.', 'You are the head chef.', [(174, 'Ты шеф-повар')], ''),
-    ('anya', 'Да, я шеф-повар.', 'Yes, I am the head chef.', [(175, 'Да, я шеф-повар')], ''),
-    ('max', 'А что ты долг не отдаешь?', 'Then why are you not paying back your debt?', [(176, 'а что ты долг не отдаешь')], ''),
-    ('anya', 'Какой долг?', 'What debt?', [(177, 'Какой долг')], ''),
-    ('max', 'Сто тысяч.', 'A hundred thousand.', [(178, 'Сто тысяч')], ''),
-    ('anya', 'Тут просто ситуация такая.', 'It is just a complicated situation here.', [(181, 'Тут просто ситуация такая')], ''),
-    ('max', 'Да, можете у любого спросить.', 'Yes, you can ask anyone here.', [(182, 'Да, можете у любого спросить')], ''),
-    ('anya', 'Это шеф-повар?', 'Is this the head chef?', [(183, 'Это шеф-повар')], ''),
+    ('chef', 'Он в своем кабинете.', 'He is in his office.', [(169, 'Он в своем кабинете')], ''),
+    ('anya', 'Просил его не беспокоить.', 'He asked not to be disturbed.', [(170, 'Просил его не беспокоить')], ''),
+    ('chef', 'Я же просил меня не беспокоить.', 'I told you not to disturb me.', [(171, 'Я же просил меня не беспокоить')], ''),
+    ('anya', 'Готовлю новое минимум.', 'I am preparing the new menu.', [(172, 'Готовлю новое минимум')], ''),
+    ('chef', 'Вам чего?', 'What do you want?', [(173, 'Вам чего')], ''),
+    ('anya', 'Ты шеф-повар.', 'You are the head chef.', [(174, 'Ты шеф-повар')], ''),
+    ('chef', 'Да, я шеф-повар.', 'Yes, I am the head chef.', [(175, 'Да, я шеф-повар')], ''),
+    ('anya', 'А что ты долг не отдаешь?', 'Then why are you not paying back your debt?', [(176, 'а что ты долг не отдаешь')], ''),
+    ('chef', 'Какой долг?', 'What debt?', [(177, 'Какой долг')], ''),
+    ('anya', 'Сто тысяч.', 'A hundred thousand.', [(178, 'Сто тысяч')], ''),
+    ('chef', 'Тут просто ситуация такая.', 'It is just a complicated situation here.', [(181, 'Тут просто ситуация такая')], ''),
+    ('anya', 'Да, можете у любого спросить.', 'Yes, you can ask anyone here.', [(182, 'Да, можете у любого спросить')], ''),
+    ('chef', 'Это шеф-повар?', 'Is this the head chef?', [(183, 'Это шеф-повар')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 11 of Episode 10, listen out for the exchange around someone else's hundred-thousand debt — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Это шеф-повар?')
+OUTRO = 'That wraps up this scene as still pretending to be Chef Barinov in the office, Lyova is confronted by a loan shark who demands repayment of a hundred-thousand gambling debt. Until next time!'
+CLOSING = ("chef", "До завтра!")

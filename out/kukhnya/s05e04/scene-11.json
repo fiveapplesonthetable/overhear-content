@@ -1,350 +1,348 @@
 {
-  "schemaVersion": 1,
-  "id": "kukhnya-s05e04-scene-11",
-  "pair": "ru-en",
-  "title": "Услуга «Горничная в номер»  (The 'Maid to the Room' Service)",
-  "level": "A1 — Duolingo Section 2",
-  "voices": {
-    "narrator": "sky",
-    "anya": "alisa",
-    "kostya": "anja",
-    "chef": "angelina"
+ "schemaVersion": 1,
+ "id": "kukhnya-s05e04-scene-11",
+ "pair": "ru-en",
+ "show": "kukhnya",
+ "season": 5,
+ "episode": 4,
+ "scene": 11,
+ "title": "Услуга «Горничная в номер»  (The 'Maid to the Room' Service)",
+ "level": "A1 — Duolingo Section 2",
+ "voices": {
+  "narrator": "sky",
+  "chef": "anja",
+  "katya": "angelina"
+ },
+ "labels": {
+  "chef": "Шеф",
+  "katya": "Катя"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "From suite 311, Katya calls Nastya to send Denis up with room service. Downstairs, Mikhail uses his new wish to force Barinov back into the maid's dress to fulfill a 'Chef to the Room' request in suite 313.",
+   "gap": 0.8
   },
-  "labels": {
-    "anya": "Катя",
-    "kostya": "Костя",
-    "chef": "Шеф"
+  {
+   "v": "katya",
+   "t": "Настя, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
+   "gap": 0.55
   },
-  "segments": [
-    {
-      "v": "narrator",
-      "t": "From suite 311, Katya calls Nastya to send Denis up with room service. Downstairs, Mikhail uses his new wish to force Barinov back into the maid's dress to fulfill a 'Chef to the Room' request in suite 313.",
-      "gap": 0.8
-    },
-    {
-      "v": "anya",
-      "t": "Настя, ну наконец-то. Ну все, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
-      "gap": 0.55
-    },
-    {
-      "v": "kostya",
-      "t": "Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "Вот же заказ.",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "Лёва, сходи.",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "Витя, у нас нет услуги.",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "Лева в номер. Иди сам.",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "Сейчас. Для вам не горничная по номерам бегать.",
-      "gap": 0.55
-    },
-    {
-      "v": "kostya",
-      "t": "Михаил Джекович, ну скажите его, а?",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "А я считаю, что Виктор Петрович прав.",
-      "gap": 0.55
-    },
-    {
-      "v": "chef",
-      "t": "По номерам должны бегать горничные.",
-      "gap": 0.55
-    },
-    {
-      "v": "kostya",
-      "t": "Виктор Петрович, вы бы хоть на диету сели, а то скоро ни в одно платье не везете.",
-      "gap": 0.55
-    },
-    {
-      "v": "kostya",
-      "t": "Чи вы, может, себе оставить?",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Настя, ну наконец-то. Ну все, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Nastya, finally. Alright, I am in suite 311, send Dan up to me.' The meaning hinges on 'Nastya' working together with 'Dan' in spoken Russian.",
-      "gap": 0.4
-    },
-    {
-      "v": "kostya",
-      "t": "Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Luxury suite 313 ordered the 'Chef to the Room' service half an hour ago.' Notice how Russian expresses 'three hundred' and 'number' with crisp inflection rather than helper words. Chef Barinov answers right away.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "Вот же заказ.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Right, the order.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'order'.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "Лёва, сходи.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Lyova, go up there.' Notice how Russian expresses 'Lyova' and 'go' with crisp inflection rather than helper words.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "Витя, у нас нет услуги.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Vitya, we do not have a' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'service'.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "Лева в номер. Иди сам.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "''Lyova to the Room' service. Go yourself.' Chef Barinov brings out the contrast between 'proper name' and 'number' in a few short words.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "Сейчас. Для вам не горничная по номерам бегать.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Yeah right. I am not a maid to be running around hotel rooms.' Spoken Russian keeps this brisk, leaning on 'now' and finishing on 'to run back and forth'.",
-      "gap": 0.4
-    },
-    {
-      "v": "kostya",
-      "t": "Михаил Джекович, ну скажите его, а?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Mikhail Dzhekovich, tell him, will you?' Spoken Russian keeps this brisk, leaning on 'Mikhail' and finishing on 'and'. Chef Barinov answers right away.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "А я считаю, что Виктор Петрович прав.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'I actually think Viktor Petrovich is right.' The meaning hinges on 'and' working together with 'right' in spoken Russian.",
-      "gap": 0.4
-    },
-    {
-      "v": "chef",
-      "t": "По номерам должны бегать горничные.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Maids are the ones who should be running around the rooms.' In Russian, the idea of 'according to' flows naturally into 'maids' without extra filler words.",
-      "gap": 0.4
-    },
-    {
-      "v": "kostya",
-      "t": "Виктор Петрович, вы бы хоть на диету сели, а то скоро ни в одно платье не везете.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Viktor Petrovich, you should at least go on a diet, or soon you will not fit into a single dress.' The meaning hinges on 'proper name' working together with 'you will fit into' in spoken Russian.",
-      "gap": 0.4
-    },
-    {
-      "v": "kostya",
-      "t": "Чи вы, может, себе оставить?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'You can keep the tips for yourself!' In Russian, the idea of 'tips' flows naturally into 'to leave' without extra filler words. Alright, let's hear the entire conversation one more time from start to finish.",
-      "gap": 0.9
-    },
-    {
-      "v": "anya",
-      "t": "Настя, ну наконец-то. Ну все, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
-      "gap": 0.5
-    },
-    {
-      "v": "kostya",
-      "t": "Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "Вот же заказ.",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "Лёва, сходи.",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "Витя, у нас нет услуги.",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "Лева в номер. Иди сам.",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "Сейчас. Для вам не горничная по номерам бегать.",
-      "gap": 0.5
-    },
-    {
-      "v": "kostya",
-      "t": "Михаил Джекович, ну скажите его, а?",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "А я считаю, что Виктор Петрович прав.",
-      "gap": 0.5
-    },
-    {
-      "v": "chef",
-      "t": "По номерам должны бегать горничные.",
-      "gap": 0.5
-    },
-    {
-      "v": "kostya",
-      "t": "Виктор Петрович, вы бы хоть на диету сели, а то скоро ни в одно платье не везете.",
-      "gap": 0.5
-    },
-    {
-      "v": "kostya",
-      "t": "Чи вы, может, себе оставить?",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "And that brings this scene at the hotel to a close. Listen out for how Katya and the team handle the pressure when you watch the episode. See you in the next scene.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Чи вы, может, себе оставить?",
-      "gap": 0.3
-    }
-  ],
-  "source": {
-    "show": "Кухня (Kukhnya) S5.04",
-    "file": "sources/kukhnya/s05/e04.ru.srt",
-    "lines": [
-      {
-        "line": 0,
-        "cue": 157,
-        "fragment": "Настя, ну наконец-то"
-      },
-      {
-        "line": 1,
-        "cue": 159,
-        "fragment": "Триста тринадцатый люкс"
-      },
-      {
-        "line": 2,
-        "cue": 160,
-        "fragment": "Вот же заказ"
-      },
-      {
-        "line": 3,
-        "cue": 161,
-        "fragment": "Лёва, сходи"
-      },
-      {
-        "line": 4,
-        "cue": 162,
-        "fragment": "Витя, у нас"
-      },
-      {
-        "line": 5,
-        "cue": 163,
-        "fragment": "Лева в номер"
-      },
-      {
-        "line": 6,
-        "cue": 164,
-        "fragment": "Сейчас. Для вам"
-      },
-      {
-        "line": 7,
-        "cue": 165,
-        "fragment": "Михаил Джекович, ну"
-      },
-      {
-        "line": 8,
-        "cue": 166,
-        "fragment": "А я считаю"
-      },
-      {
-        "line": 9,
-        "cue": 167,
-        "fragment": "По номерам должны"
-      },
-      {
-        "line": 10,
-        "cue": 168,
-        "fragment": "Виктор Петрович, вы"
-      },
-      {
-        "line": 11,
-        "cue": 170,
-        "fragment": "Чи вы, может"
-      }
-    ]
+  {
+   "v": "chef",
+   "t": "Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».",
+   "gap": 0.55
   },
-  "show": "kukhnya",
-  "season": 5,
-  "episode": 4,
-  "scene": 11
+  {
+   "v": "chef",
+   "t": "Вот же заказ.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Лёва, сходи.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Витя, у нас нет услуги.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Лева в номер. Иди сам.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Сейчас. Для вам не горничная по номерам бегать.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Михаил Джекович, ну скажите его, а?",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "А я считаю, что Виктор Петрович прав.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "По номерам должны бегать горничные.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Виктор Петрович, вы бы хоть на диету сели!",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Чи вы, может, себе оставить?",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
+   "gap": 0.4
+  },
+  {
+   "v": "katya",
+   "t": "Настя, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Nastya, I am in suite 311, send Dan up to me.' In everyday Russian, 'in the luxury suite' flows straight into 'Dan' without extra linking words.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Luxury suite 313 ordered the 'Chef to the Room' service half an hour ago.' Notice how Russian expresses 'three hundred' and 'number' with crisp inflection rather than helper words. Chef Barinov answers right away.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Вот же заказ.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Right, the order.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'order'.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Лёва, сходи.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Lyova, go up there.' Notice how Russian expresses 'Lyova' and 'go' with crisp inflection rather than helper words.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Витя, у нас нет услуги.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Vitya, we do not have a.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Лева в номер. Иди сам.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "''Lyova to the Room' service. Go yourself.' Chef Barinov brings out the contrast between 'proper name' and 'number' in a few short words.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Сейчас. Для вам не горничная по номерам бегать.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Yeah right. I am not a maid to be running around hotel rooms.' Spoken Russian keeps this brisk, leaning on 'now' and finishing on 'to run back and forth'.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Михаил Джекович, ну скажите его, а?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Mikhail Dzhekovich, tell him, will you?' Spoken Russian keeps this brisk, leaning on 'Mikhail' and finishing on 'and'. Chef Barinov answers right away.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "А я считаю, что Виктор Петрович прав.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I actually think Viktor Petrovich is right.' The meaning hinges on 'and' working together with 'right' in spoken Russian.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "По номерам должны бегать горничные.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Maids are the ones who should be running around the rooms.' In Russian, the idea of 'according to' flows naturally into 'maids' without extra filler words.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Виктор Петрович, вы бы хоть на диету сели!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Viktor Petrovich, you should at least go on a diet!' Notice how Russian puts 'diet' and 'to sit down' together in a short, direct phrase where word endings show how the ideas connect.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Чи вы, может, себе оставить?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'You can keep the tips for yourself!' In Russian, the idea of 'tips' flows naturally into 'to leave' without extra filler words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "katya",
+   "t": "Настя, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Вот же заказ.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Лёва, сходи.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Витя, у нас нет услуги.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Лева в номер. Иди сам.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Сейчас. Для вам не горничная по номерам бегать.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Михаил Джекович, ну скажите его, а?",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "А я считаю, что Виктор Петрович прав.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "По номерам должны бегать горничные.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Виктор Петрович, вы бы хоть на диету сели!",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Чи вы, может, себе оставить?",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "And that brings this scene at the hotel to a close. Listen out for how Katya and the team handle the pressure when you watch the episode. Until next time!",
+   "gap": 0.5
+  },
+  {
+   "v": "katya",
+   "t": "Хорошего дня!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S5.04",
+  "file": "sources/kukhnya/s05/e04.ru.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 157,
+    "fragment": "я в триста одиннадцатом люксе, отправляй ко мне Дэна"
+   },
+   {
+    "line": 1,
+    "cue": 159,
+    "fragment": "Триста тринадцатый люкс"
+   },
+   {
+    "line": 2,
+    "cue": 160,
+    "fragment": "Вот же заказ"
+   },
+   {
+    "line": 3,
+    "cue": 161,
+    "fragment": "Лёва, сходи"
+   },
+   {
+    "line": 4,
+    "cue": 162,
+    "fragment": "Витя, у нас"
+   },
+   {
+    "line": 5,
+    "cue": 163,
+    "fragment": "Лева в номер"
+   },
+   {
+    "line": 6,
+    "cue": 164,
+    "fragment": "Сейчас. Для вам"
+   },
+   {
+    "line": 7,
+    "cue": 165,
+    "fragment": "Михаил Джекович, ну"
+   },
+   {
+    "line": 8,
+    "cue": 166,
+    "fragment": "А я считаю"
+   },
+   {
+    "line": 9,
+    "cue": 167,
+    "fragment": "По номерам должны"
+   },
+   {
+    "line": 10,
+    "cue": 168,
+    "fragment": "Виктор Петрович, вы бы хоть на диету сели"
+   },
+   {
+    "line": 11,
+    "cue": 170,
+    "fragment": "Чи вы, может"
+   }
+  ]
+ }
 }

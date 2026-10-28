@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Постояльцы жалуются на сильный шум. | The hotel guests are complaining about loud noise. | #148 00:09:20: Постояльцы жалуются на шум | adapted: adapted |
-| 2 | Михаил | А что ты тут делаешь? | And what are you doing here? | #149 00:09:23: А что ты тут делаешь | adapted: adapted |
+| 1 | Федя | Постояльцы жалуются на сильный шум. | The hotel guests are complaining about loud noise. | #148 00:09:20: Постояльцы жалуются на шум | adapted: adapted |
+| 2 | Федя | А что ты тут делаешь? | And what are you doing here? | #149 00:09:23: А что ты тут делаешь | adapted: adapted |
 | 3 | Федя | Я принёс блюдо от шефа. | I brought a dish from the chef. | #150 00:09:25: Блюдо от шефа принес | adapted: adapted |
-| 4 | Михаил | А кто там громко мычит? | And who is mooing loudly in there? | #151 00:09:27: А кто мычит | adapted: adapted |
+| 4 | Федя | А кто там громко мычит? | And who is mooing loudly in there? | #151 00:09:27: А кто мычит | adapted: adapted |
 | 5 | Федя | Это просто от большого удовольствия. | That is just from great pleasure. | #152 00:09:29: От удовольствия | adapted: adapted |
-| 6 | Михаил | Всё, быстро иди отсюда. | That is it, go away from here quickly. | #153 00:09:31: отсюда | adapted: adapted |
+| 6 | Федя | Всё, быстро иди отсюда. | That is it, go away from here quickly. | #153 00:09:31: отсюда | adapted: adapted |
 | 7 | Федя | Кажется, мы тут не спалились. | It seems we did not get caught here. | #154 00:09:36: не спалились | adapted: adapted |
-| 8 | Аня | Зачем ты суёшь свой нос? | Why do you poke your nose everywhere? | #155 00:09:43: Зачем ты везде суёшь свой нос | adapted: adapted |
+| 8 | Федя | Зачем ты суёшь свой нос? | Why do you poke your nose everywhere? | #155 00:09:43: Зачем ты везде суёшь свой нос | adapted: adapted |
 | 9 | Федя | Надо что-то решать, шеф. | We need to decide something, Chef. | #156 00:09:49: Ну надо что-то решать, шеф | adapted: adapted |
 | 10 | Федя | У нас уже вазы кончаются. | We are already running out of vases. | #157 00:09:52: Вазы кончаются | adapted: adapted |
 | 11 | Федя | Он сам от ревности повесился. | He hanged himself out of jealousy. | #159 00:10:00: он из ревности убил обоих, а сам повесился | adapted: adapted |
-| 12 | Аня | Никто сегодня здесь не умрёт! | Nobody is going to die here today! | #161 00:10:08: Никто сегодня не умрёт | adapted: adapted |
+| 12 | Федя | Никто сегодня здесь не умрёт! | Nobody is going to die here today! | #161 00:10:08: Никто сегодня не умрёт | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

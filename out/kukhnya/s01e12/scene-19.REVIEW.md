@@ -1,38 +1,39 @@
-# kukhnya-s01e12-scene-19: review sheet
+# Отчёт разведчика  (The Scout's Report) — `kukhnya-s01e12-scene-19`
 
-Title: Отчёт разведчика  (The Scout's Report)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.12
+**Source:** Кухня (Kukhnya) S1.12 · `sources/kukhnya/s01/e12.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the kitchen back room of Claude Monet, cook Fedya returns from scouting out their new rival restaurant. Relieved to hear that the competitor is empty and quiet, Chef Viktor happily concludes that Claude Monet does not need any changes to stay on top. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Федя, ну что там у конкурентов? | Fedya, well, how are things at the competitors'? | #256 00:19:48: Ну что? | adapted: asking for debrief |
-| 2 | Федя | Шеф, наш разведчик вернулся с отчётом. | Chef, our scout has returned with a report. | #255 00:19:46: Здрасте. Штирец. | adapted: reporting in |
-| 3 | Шеф | Рассказывай быстрее. Ты заходил внутрь? | Tell me faster. Did you go inside? | #260 00:19:57: Давай рожай быстрее. | adapted: pressing for details |
-| 4 | Федя | Да, я посмотрел их новый зал. | Yes, I looked at their new hall. | new | new: confirming inspection |
-| 5 | Шеф | И как? Интерьер выглядит красиво? | And how is it? Does the interior look nice? | new | new: asking about decor |
-| 6 | Федя | Честно говоря, интерьер так себе. | To tell the truth, the interior is so-so. | #261 00:19:59: Ну, интерьер так себе. | adapted: dismissing decor |
-| 7 | Шеф | А что происходит с гостями? | And what is going on with the guests? | #258 00:19:53: Я тебя про ресторан спрашиваю. | adapted: asking about crowd |
-| 8 | Федя | В зале тишина, свободных мест полно. | In the hall there is silence, plenty of empty seats. | #262 00:20:00: В зале штиль. Свободных мест полно. | adapted: reporting empty hall |
-| 9 | Шеф | Ты видишь, о чём я говорил! | You see what I was talking about! | #263 00:20:04: Ты о чём я говорил, а? | adapted: triumphing |
-| 10 | Шеф | Нам пока ничего не нужно менять. | We do not need to change anything yet. | #264 00:20:06: Рано нам меняться.<br>#265 00:20:08: Ничего нам пока менять не надо. | adapted: confirming strategy |
-| 11 | Федя | Шеф, а можно мне поесть? | Chef, can I have something to eat? | new | new: asking for reward |
-| 12 | Шеф | Иди на кухню, заслужил горячий обед. | Go to the kitchen, you earned a hot lunch. | #267 00:20:12: Иди, Федь, на кухню. Подхарчи. | adapted: sending to eat |
-| 13 | Федя | Спасибо, шеф, я очень голодный! | Thank you, Chef, I am very hungry! | new | new: thanking happily |
+| 0 | Шеф | Федя, ну что там у конкурентов? | Fedya, well, how are things at the competitors'? | #256 "Ну что?" |  |
+| 1 | Шеф | Шеф, наш разведчик вернулся с отчётом. | Chef, our scout has returned with a report. | #255 "Здрасте. Штирец." |  |
+| 2 | Шеф | Рассказывай быстрее. Ты заходил внутрь? | Tell me faster. Did you go inside? | #260 "Давай рожай быстрее." |  |
+| 3 | Шеф | Да, я посмотрел их новый зал. | Yes, I looked at their new hall. | *(added)* |  |
+| 4 | Шеф | И как? Интерьер выглядит красиво? | And how is it? Does the interior look nice? | *(added)* |  |
+| 5 | Шеф | Честно говоря, интерьер так себе. | To tell the truth, the interior is so-so. | #261 "Ну, интерьер так себе." |  |
+| 6 | Шеф | А что происходит с гостями? | And what is going on with the guests? | #258 "Я тебя про ресторан спрашиваю." |  |
+| 7 | Шеф | В зале тишина, свободных мест полно. | In the hall there is silence, plenty of empty seats. | #262 "В зале штиль. Свободных мест полно." |  |
+| 8 | Шеф | Ты видишь, о чём я говорил! | You see what I was talking about! | #263 "Ты о чём я говорил, а?" |  |
+| 9 | Шеф | Нам пока ничего не нужно менять. | We do not need to change anything yet. | #264 "Рано нам меняться.", #265 "Ничего нам пока менять не надо." |  |
+| 10 | Шеф | Шеф, а можно мне поесть? | Chef, can I have something to eat? | *(added)* |  |
+| 11 | Шеф | Иди на кухню, заслужил горячий обед. | Go to the kitchen, you earned a hot lunch. | #267 "Иди, Федь, на кухню. Подхарчи." |  |
+| 12 | Шеф | Спасибо, шеф, я очень голодный! | Thank you, Chef, I am very hungry! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Fedya, well, how are things at the competitors'?' ?' — informal inquiry governing a genitive prepositional phrase.
-- 'Chef, our scout has returned with a report.' — past perfective verb with an instrumental modifier.
-- 'Tell me faster. Did you go inside?' — imperative followed by a past motion verb with an adverb of place.
-- 'Yes, I looked at their new hall.' — past transitive verb governing an accusative direct object phrase.
-- 'To tell the truth, the interior is so-so.' — conversational parenthetical phrase with an idiomatic qualifier.
-- 'In the hall there is silence, plenty of empty seats.' — prepositional location with a predicative quantity word.
-- 'You see what I was talking about!' — present verb governing a prepositional relative pronoun clause.
-- 'We do not need to change anything yet.' — impersonal dative construction with a double negative and infinitive.
-- 'Go to the kitchen, you earned a hot lunch.' — imperative of motion paired with an approving past verb.
-- 'Thank you, Chef, I am very hungry!' — polite expression of thanks followed by a predicate adjective. Now listen to the full conversation once more.
+> In the back room, cook Fedya returns from scouting the rival restaurant and reports to Chef Viktor that the competitor is empty, confirming that Claude Monet needs no changes. Next time you watch the episode, listen for the Russian expressions for 'to tell' and 'for now' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

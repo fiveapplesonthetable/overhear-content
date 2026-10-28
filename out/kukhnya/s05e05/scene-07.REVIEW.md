@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello, Elena Vladimirovna.' Here the Russian phrasing highlights 'Elena' before landing on 'hello'.
 - 'Hello.' the doctor brings out the contrast between 'hello' and 'hello' in a few short words.
 - 'I am Maxim Lavrov.' Max anchors the line on 'I', while 'proper name' completes the thought.
-- 'My wife is being monitored by you.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'you'.
+- 'My wife is being monitored by you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'She asked me to pick up her test results.' The meaning hinges on 'she' working together with 'test results' in spoken Russian.
 - 'Yes, and what about it?' the doctor raises the pitch on 'what' to turn the phrase into a direct spoken question.
 - 'And Victoria asked me not to say anything.' Here the Russian phrasing highlights 'and' before landing on 'to speak'.

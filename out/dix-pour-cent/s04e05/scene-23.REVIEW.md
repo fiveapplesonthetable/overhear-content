@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Lâche-moi immédiatement le bras, arrête! | Let go of my arm immediately, stop! | 869:Lâche-moi !, 870:Arrête ! Arrête ! |
 
 ## Part 5 — Outro & Closing
-> Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career. When you watch the episode, listen out for the expressions meaning 'been able' and 'to betray'. You'll catch them now. See you next time.
+> Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career. When you watch the episode, listen out for the expressions meaning 'been able' and 'to betray'. You'll catch them now. See you next time!
 - **Closing**: `elise`: *À demain!*

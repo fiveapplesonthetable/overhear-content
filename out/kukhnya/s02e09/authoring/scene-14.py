@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e09-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 14
 TITLE = "Принципы Насти и решение Макса  (Nastya's Principles and Max's Decision)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kristina": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kristina": "Кристина", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = "Outraged by Kristina's ultimatum, Nastya tells Max to stand his ground because a person is not an animal to be forced into anything, insisting she and Kostya can find new jobs. Max calms them down and says he will go talk to Kristina himself."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 14 of Episode 9, listen out for the exchange around nastya's principles and max's decision — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Лавров, я тебя предупреждал?')
+OUTRO = "That wraps up this scene as nastya urges Max to reject Kristina's blackmail even if it costs Kostya his job, and Max promises to go talk to Kristina after the shift. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Кристина, никакой новой машины. | Kristina, no new car. | #67 00:04:44: Кристина, никакой новой машины | verbatim |
-| 2 | Аня | Я тебе по-русски сказал. Нет. | I told you in plain Russian. No. | #68 00:04:46: Я тебе по-русски сказал. Нет | verbatim |
-| 3 | Аня | Это что такое? | What is this? | #72 00:05:01: Это что такое | verbatim |
-| 4 | Аня | Что это такое, я вас спрашиваю? | What is this, I am asking you? | #74 00:05:05: Что это такое, я вас спрашиваю | adapted: adapted |
-| 5 | Сеня | Он в центрифуге носки сушит. | He is drying socks in the centrifuge. | #75 00:05:08: в центрифуге носки сушит | adapted: adapted |
-| 6 | Сеня | Говорит, сохнут быстро. | He says they dry fast. | #76 00:05:10: Говорит, сохнут быстро | verbatim |
-| 7 | Аня | Витя, я тебя просил найти человека! | Vitya, I asked you to find a person! | #80 00:05:19: Витя, я тебя когда еще просил найти человека | adapted: adapted |
+| 1 | Нагиев | Кристина, никакой новой машины. | Kristina, no new car. | #67 00:04:44: Кристина, никакой новой машины | verbatim |
+| 2 | Нагиев | Я тебе по-русски сказал. Нет. | I told you in plain Russian. No. | #68 00:04:46: Я тебе по-русски сказал. Нет | verbatim |
+| 3 | Нагиев | Это что такое? | What is this? | #72 00:05:01: Это что такое | verbatim |
+| 4 | Нагиев | Что это такое, я вас спрашиваю? | What is this, I am asking you? | #74 00:05:05: Что это такое, я вас спрашиваю | adapted: adapted |
+| 5 | Нагиев | Он в центрифуге носки сушит. | He is drying socks in the centrifuge. | #75 00:05:08: в центрифуге носки сушит | adapted: adapted |
+| 6 | Нагиев | Говорит, сохнут быстро. | He says they dry fast. | #76 00:05:10: Говорит, сохнут быстро | verbatim |
+| 7 | Нагиев | Витя, я тебя просил найти человека! | Vitya, I asked you to find a person! | #80 00:05:19: Витя, я тебя когда еще просил найти человека | adapted: adapted |
 | 8 | Шеф | В Москве нет специалиста. | There is no specialist in Moscow. | #82 00:05:28: В Москве нет специалиста | adapted: adapted |
 | 9 | Шеф | Мы искали, но никто не подошел. | We looked, but nobody suited us. | #83 00:05:31: Мы искали, но никто не подошел | verbatim |
 | 10 | Шеф | У меня к вам ещё один вопрос. | I have one more question for you. | #85 00:05:36: у меня к вам еще один вопрос | adapted: adapted |

@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Max, is that your Sasha?' Peeking into the dining room, Denis and Fedya size up Max's ex.
 - 'She has not been mine for a long time.' Max tries to brush off the question.
-- 'Did you date her before Vika?' Reflexive 'vstrechatsya s' plus the instrumental case means 'to date / go out with someone'.
-- 'During the break between Vika and Vika.' Preposition 'mezhdu' ('between') governs the instrumental case ('Vikoy').
+- 'Did you date her before Vika?' In spoken Russian, the words stay in their normal statement order and Fedya's rising voice at the end turns the line into a question.
+- 'During the break between Vika and Vika.' Here Max anchors the thought on 'break, interval' and finishes on 'Vika', keeping the spoken rhythm brisk and natural.
 - 'Maybe you guys will shut up already, huh?' Max spots Vika marching toward him.
 - 'Well, and what was that just now?' Vika folds her arms and glares at Max.
 - 'You were standing with Sasha looking so happy!' She accuses him of beaming while holding Sasha's hands.
-- 'Vika, please do not start.' Imperfective negated imperative 'do not start!' begs her not to make a scene.
-- 'She and I just said hello.' Reciprocal reflexive past 'pozdorovalis' means 'greeted each other'.
-- 'Let's not quarrel over nonsense.' Preposition 'iz-za' ('because of / over') takes the genitive singular 'yerundy'.
-- 'Do you want me not to talk with her at all?' Reflexive 'obshchatsya s' means 'to socialize or communicate with'.
+- 'Vika, please do not start.' Max uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'She and I just said hello.' In everyday Russian, 'simply, just' flows straight into 'to hello' without extra linking words.
+- 'Let's not quarrel over nonsense.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Do you want me not to talk with her at all?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Yes, I want that very much, fine.' Vika takes him at his word before walking off.
 - 'Good thing Vika did not see this!' At the prep table, Fedya pulls Sasha's lost earring — and then a glittering diamond from the fish!

@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Аня | За то, что я за любимую девушку заступился? | Because I stood up for the girl I love? | #327 00:21:26: За то, что я за любимую девушку заступился | adapted: adapted |
 | 11 | Аня | Вы бы сами разве по-другому тогда поступили? | Would you yourself really have acted differently then? | #328 00:21:29: поступили | adapted: adapted |
 | 12 | Аня | Потому что вы только себя любите, а на остальных вам плевать! | Because you love only yourself, and you do not care about the rest! | #329 00:21:32: Потому что вы только себя любите | adapted: adapted |
-| 13 | Аня | Я хотел быть похожим на вас, а сейчас понял, что лучше Воронеж, чем с вами на одной кухне! | I wanted to be like you, and now I understood that Voronezh is better than being in the same kitchen with you! | #331 00:21:37: Я хотел быть похожим на вас | adapted: adapted |
+| 13 | Аня | Я хотел быть похожим на вас, а сейчас всё понял! | I wanted to be like you, and now I understand everything! | #331 00:21:37: Я хотел быть похожим на вас | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Because I stood up for the girl I love?' Here the Russian phrasing highlights 'for' before landing on 'stood up for'.
 - 'Would you yourself really have acted differently then?' Max anchors the line on 'you', while 'acted' completes the thought.
 - 'Because you love only yourself, and you do not care about the rest!' An emphatic spoken line centered on the verb meaning 'to love'.
-- 'I wanted to be like you, and now I understood that Voronezh is better than being in the same kitchen with you!' Notice how Russian expresses 'I' and 'kitchen' with crisp inflection rather than helper words.
+- 'I wanted to be like you, and now I understand everything!' Here Max anchors the thought on 'wanted' and finishes on 'understood', keeping the spoken rhythm brisk and natural.

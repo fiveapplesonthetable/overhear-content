@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e05-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 15
 TITLE = "Хитрый совет Макса  (Max's Clever Advice)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = 'Nagiyev asks Max for advice on how to win Vika over. Hoping to scare the stingy owner away, Max claims that Vika only cares about expensive gifts. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max is sure that comparing Vika to Nagiyev's greedy ex-wife Kristina will stop Nagiyev in his tracks, but the plan backfires."
-CLOSING = ('nagiyev', 'Спасибо тебе, Максим.')
+OUTRO = "Max is sure that comparing Vika to Nagiyev's greedy ex-wife Kristina will stop Nagiyev in his tracks, but the plan backfires. Until next time!"
+CLOSING = ("nagiyev", "До завтра!")

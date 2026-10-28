@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Vous avez des goûts tout à fait exquis. | You have truly exquisite tastes. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around arrival in paris. When you watch the episode, listen out for the expressions meaning 'dear' and 'madam'. You'll catch them now. See you next time.
+> That's it for this scene around arrival in paris. When you watch the episode, listen out for the expressions meaning 'dear' and 'madam'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

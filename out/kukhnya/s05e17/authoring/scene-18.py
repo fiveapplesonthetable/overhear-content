@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 18
-TITLE = 'Настоящий министр в палате  (The Real Minister in the Ward)'
+TITLE = "Настоящий министр в палате  (The Real Minister in the Ward)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "guest": "Гость", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = 'Just as Max sets up the television for Vika in the luxury maternity suite, the head doctor walks in with the real official—Nikolai Maryanovich from the restaurant—who demands the room back.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max barricades himself inside the room with a fire extinguisher as the official brings his bodyguards. See you in the next scene.'
-CLOSING = ('anya', 'Вика, лежи спокойно.')
+OUTRO = 'Max barricades himself inside the room with a fire extinguisher as the official brings his bodyguards. See you next time!'
+CLOSING = ("anya", "Хорошего дня!")

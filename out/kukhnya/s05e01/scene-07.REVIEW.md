@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Никита | Что это было? Извините. | What was that? Excuse me. | #107 00:08:01: Извините | adapted: adapted |
-| 2 | Никита | Глаза открой. | Open your eyes. | #108 00:08:07: Глаза открой | adapted: verbatim |
-| 3 | Аня | Извини, я случайно. | Sorry, I did it by accident. | #109 00:08:09: Извини, я случайно | adapted: verbatim |
-| 4 | Аня | Слушай, я к тебе пришёл. | Listen, I actually came to see you. | #110 00:08:13: я на самом деле к тебе пришел | adapted: adapted |
-| 5 | Аня | Я пришёл на самом деле. | I came here for a real reason. | #110 00:08:13: на самом деле | adapted: adapted |
-| 6 | Аня | Ты Катю знаешь? | Do you know Katya? | #111 00:08:17: Ты Катю знаешь? | adapted: verbatim |
-| 7 | Никита | Кого ты сейчас назвал? | Who did you just name? | #111 00:08:17: Кого? | adapted: adapted |
-| 8 | Аня | Нашу Катю с кухни. | Our Katya from the kitchen. | #112 00:08:21: Катю | adapted: adapted |
-| 9 | Аня | Я её парень, понял? | I am her boyfriend, got it? | #113 00:08:23: Я ее парень, понял? | adapted: verbatim |
-| 10 | Аня | Не надо к ней приставать. | You should not hit on her. | #114 00:08:24: к ней не приставать | adapted: adapted |
-| 11 | Никита | Чего? Я тебя не понял. | What? I did not understand you. | #115 00:08:26: Чего? Не понял | adapted: adapted |
-| 12 | Никита | О чём ты вообще говоришь? | What are you talking about at all? | #115 00:08:26: Не понял | adapted: adapted |
+| 1 | Денис | Что это было? Извините. | What was that? Excuse me. | #107 00:08:01: Извините | adapted: adapted |
+| 2 | Денис | Глаза открой. | Open your eyes. | #108 00:08:07: Глаза открой | adapted: verbatim |
+| 3 | Денис | Извини, я случайно. | Sorry, I did it by accident. | #109 00:08:09: Извини, я случайно | adapted: verbatim |
+| 4 | Денис | Слушай, я к тебе пришёл. | Listen, I actually came to see you. | #110 00:08:13: я на самом деле к тебе пришел | adapted: adapted |
+| 5 | Денис | Я пришёл на самом деле. | I came here for a real reason. | #110 00:08:13: на самом деле | adapted: adapted |
+| 6 | Денис | Ты Катю знаешь? | Do you know Katya? | #111 00:08:17: Ты Катю знаешь? | adapted: verbatim |
+| 7 | Денис | Кого ты сейчас назвал? | Who did you just name? | #111 00:08:17: Кого? | adapted: adapted |
+| 8 | Денис | Нашу Катю с кухни. | Our Katya from the kitchen. | #112 00:08:21: Катю | adapted: adapted |
+| 9 | Денис | Я её парень, понял? | I am her boyfriend, got it? | #113 00:08:23: Я ее парень, понял? | adapted: verbatim |
+| 10 | Денис | Не надо к ней приставать. | You should not hit on her. | #114 00:08:24: к ней не приставать | adapted: adapted |
+| 11 | Денис | Чего? Я тебя не понял. | What? I did not understand you. | #115 00:08:26: Чего? Не понял | adapted: adapted |
+| 12 | Денис | О чём ты вообще говоришь? | What are you talking about at all? | #115 00:08:26: Не понял | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

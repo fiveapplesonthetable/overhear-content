@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 19
-TITLE = "Le choix de Mathias  (The Choice of Mathias)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le choix de Mathias  (The Choice of Mathias)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = 'Back at the ASK offices, Sofia and Gabriel have a candid, mature discussion about their future. Realizing that mixing love and professional representation causes unnecessary tension, Sofia looks for a new agent within ASK. Listen to their conversation in French first.'
 OPENER = "Let's examine how Sofia and Gabriel navigate this professional transition line by line."
 TRANSITION = "Now let's listen to the entire conversation once more from start to finish."
-OUTRO = "Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tête. Until next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tête. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('sofia', 'Je crois que vous avez raison.', 'I think you are right.', [(677, 'Je crois que vous avez raison')], ''),
     ('sofia', "Mélanger travail et vie sentimentale, c'est difficile.", 'Mixing work and personal life is difficult.', [(678, "Mélanger travail et vie sentimentale, c'est")], ''),

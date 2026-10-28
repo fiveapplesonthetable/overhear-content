@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 18
-TITLE = 'Два банкрота  (Two Bankrupts)'
+TITLE = "Два банкрота  (Two Bankrupts)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "guest": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'Nagiyev talks Sergey Fyodorovich into handing over his gun by admitting that he is bankrupt too and cannot afford a tragedy inside his restaurant. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -38,7 +38,7 @@ WALK = [
     (4, None, "'Wait a minute and listen to me carefully.' The grammar packs 'wait' and 'carefully' into a tight, idiomatic kitchen exchange."),
     (5, None, "'If we look at it honestly, I am bankrupt too.' The grammar packs 'if' and 'bankrupt' into a tight, idiomatic kitchen exchange."),
     (6, None, "'Well what now, should we shoot ourselves every day?' Dmitry Nagiyev brings out the contrast between 'come on' and 'what' in a few short words."),
-    (7, None, "'So do not be offended with me, my friend.' Notice the reflexive suffix on the verb meaning 'be offended', turning the action back on the subject."),
+    (7, None, "'So do not be offended with me, my friend.' Notice how Russian puts 'be offended' and 'friend' together in a short, direct phrase where word endings show how the ideas connect."),
     (8, None, "'I really do not need a dead body in my restaurant right now.' Notice how Russian expresses 'corpse' and 'needed' with crisp inflection rather than helper words."),
     (9, None, "'Calmly hand over your little pistol here.' Here the Russian phrasing highlights 'come on' before landing on 'little pistol'. Max answers right away."),
     (10, None, "'At times we no longer have the strength to fight them.' Max brings out the contrast between 'at times' and 'we' in a few short words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Nagiyev disarms the despondent oligarch, but without an investor he has no way left to save Claude Monet on his own.'
-CLOSING = ('nagiyev', 'Я ведь теперь тоже банкрот.')
+OUTRO = 'Nagiyev disarms the despondent oligarch, but without an investor he has no way left to save Claude Monet on his own. See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

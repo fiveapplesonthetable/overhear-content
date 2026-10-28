@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 25
-TITLE = "Payer les Américains  (Paying the Americans)"
-LEVEL = "A1 — débutant"
+TITLE = 'Payer les Américains  (Paying the Americans)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the bar table, Hicham reveals his decision to pay the American insurance claim using his own capital to save ASK. Deeply moved, Andrea realizes she must immediately cancel her secret legal registration for the rival agency. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "As Hicham pledges his own fortune to rescue the agency, Andrea rushes outside to call off her secret legal plans. When you watch the episode, listen out for the expressions meaning 'do you know' and 'story'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "As Hicham pledges his own fortune to rescue the agency, Andrea rushes outside to call off her secret legal plans. When you watch the episode, listen out for the expressions meaning 'do you know' and 'story'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Connais-tu l'histoire légendaire de Miles Davis?", 'Do you know the legendary story of Miles Davis?', [(1026, "C'est mythique"), (1027, 'Miles Davis')], ''),
     ('lea', "Il composait en direct devant l'écran.", 'He composed live in front of the screen.', [(1028, "devant l'écran"), (1030, 'improvisé dessus')], ''),

@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Maman, il t'entend là! | Mom, he can hear you right now! | 589:Maman, il t'entend |
 
 ## Part 5 — Outro & Closing
-> United under one identity, Camille and Herve take on double the workload with double the energy. When you watch the episode, listen out for the expressions meaning 'ready' and 'phones'. You'll catch them now. See you next time.
+> United under one identity, Camille and Herve take on double the workload with double the energy. When you watch the episode, listen out for the expressions meaning 'ready' and 'phones'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *Bonne journée!*

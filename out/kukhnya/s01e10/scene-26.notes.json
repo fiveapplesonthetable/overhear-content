@@ -10,9 +10,9 @@
           "t": "Пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "Пойдём",
-          "gloss": "let us go",
-          "gram": "imperative / 1st person plural future"
+          "stress": null,
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "со",
@@ -20,7 +20,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "with",
-          "gram": "preposition governing instrumental"
+          "gram": "preposition (+instr)"
         },
         {
           "t": "мной",
@@ -28,15 +28,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "me",
-          "gram": "1st person singular instrumental"
+          "gram": "instrumental 1st person singular"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition governing accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "мой",
@@ -44,7 +44,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "masculine singular accusative"
+          "gram": "possessive pronoun"
         },
         {
           "t": "кабинет.",
@@ -52,7 +52,7 @@
           "pos": "noun",
           "stress": "кабине́т",
           "gloss": "office",
-          "gram": "masculine singular accusative"
+          "gram": "masculine accusative singular"
         }
       ]
     },
@@ -66,15 +66,15 @@
           "pos": "name",
           "stress": null,
           "gloss": "Chef",
-          "gram": "masculine singular vocative"
+          "gram": "proper name"
         },
         {
           "t": "куда",
           "lemma": "куда",
           "pos": "adv",
           "stress": "куда́",
-          "gloss": "where (to)",
-          "gram": "interrogative adverb"
+          "gloss": "where to",
+          "gram": "adverb of direction"
         },
         {
           "t": "мы",
@@ -96,9 +96,9 @@
           "t": "идём?",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идём",
+          "stress": null,
           "gloss": "are going",
-          "gram": "present 1st person plural"
+          "gram": "imperfective present, 1st plural"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
+          "gloss": "us",
           "gram": "1st person plural dative"
         },
         {
@@ -119,32 +119,32 @@
           "lemma": "нужный",
           "pos": "adj",
           "stress": "ну́жен",
-          "gloss": "necessary, needed",
-          "gram": "short form masculine singular"
+          "gloss": "is needed",
+          "gram": "short form, masculine singular"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
+          "gloss": "very much",
           "gram": "adverb of degree"
         },
         {
           "t": "серьёзный",
           "lemma": "серьёзный",
           "pos": "adj",
-          "stress": "серьёзный",
-          "gloss": "serious",
-          "gram": "masculine singular nominative"
+          "stress": null,
+          "gloss": "important, serious",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "разговор.",
           "lemma": "разговор",
           "pos": "noun",
           "stress": "разгово́р",
-          "gloss": "conversation",
-          "gram": "masculine singular nominative"
+          "gloss": "conversation, talk",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -157,32 +157,32 @@
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (formal/plural)",
+          "gloss": "you",
           "gram": "2nd person plural, nominative"
         },
         {
           "t": "всё",
-          "lemma": "всё",
-          "pos": "pron",
+          "lemma": "весь",
+          "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter singular accusative"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "слышали",
           "lemma": "слышать",
           "pos": "verb",
           "stress": "слы́шали",
-          "gloss": "heard",
-          "gram": "past plural"
+          "gloss": "did you hear?",
+          "gram": "plural, past, imperfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "in, on",
-          "gram": "preposition governing prepositional"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "кухне?",
@@ -190,7 +190,7 @@
           "pos": "noun",
           "stress": "ку́хне",
           "gloss": "kitchen",
-          "gram": "feminine singular prepositional"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
@@ -212,23 +212,23 @@
           "pos": "verb",
           "stress": "слы́шал",
           "gloss": "heard",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "каждое",
           "lemma": "каждый",
-          "pos": "det",
+          "pos": "adj",
           "stress": "ка́ждое",
-          "gloss": "every",
-          "gram": "neuter singular accusative"
+          "gloss": "every, each",
+          "gram": "acc n sg inanim"
         },
         {
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
-          "gloss": "your",
-          "gram": "neuter singular accusative"
+          "stress": null,
+          "gloss": "yours",
+          "gram": "nominative singular, neuter"
         },
         {
           "t": "слово.",
@@ -236,7 +236,7 @@
           "pos": "noun",
           "stress": "сло́во",
           "gloss": "word",
-          "gram": "neuter singular accusative"
+          "gram": "neuter, accusative singular"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "myself",
+          "gloss": "yourself",
           "gram": "masculine singular nominative"
         },
         {
@@ -266,7 +266,7 @@
           "pos": "pron",
           "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "genitive"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "не",
@@ -282,7 +282,7 @@
           "pos": "verb",
           "stress": "понима́ю",
           "gloss": "understand",
-          "gram": "present 1st person singular"
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
@@ -295,16 +295,16 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "устроил",
           "lemma": "устроить",
           "pos": "verb",
           "stress": "устро́ил",
-          "gloss": "caused, arranged",
-          "gram": "past masculine singular"
+          "gloss": "caused",
+          "gram": "masculine singular past, perfective"
         },
         {
           "t": "настоящий",
@@ -312,7 +312,7 @@
           "pos": "adj",
           "stress": "настоя́щий",
           "gloss": "real, genuine",
-          "gram": "masculine singular accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "большой",
@@ -320,15 +320,15 @@
           "pos": "adj",
           "stress": "большо́й",
           "gloss": "big",
-          "gram": "masculine singular accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "скандал.",
           "lemma": "скандал",
           "pos": "noun",
           "stress": "сканда́л",
-          "gloss": "scandal",
-          "gram": "masculine singular accusative"
+          "gloss": "scandal, fuss, row",
+          "gram": "nom m sg"
         }
       ]
     },
@@ -358,23 +358,23 @@
           "pos": "verb",
           "stress": "хоте́л",
           "gloss": "wanted",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "никого",
           "lemma": "никто",
           "pos": "pron",
           "stress": "никого́",
-          "gloss": "anyone",
-          "gram": "genitive / accusative"
+          "gloss": "nobody",
+          "gram": "genitive (after 'нет')"
         },
         {
           "t": "обидеть.",
           "lemma": "обидеть",
           "pos": "verb",
           "stress": "оби́деть",
-          "gloss": "to offend",
-          "gram": "infinitive"
+          "gloss": "to offend, to hurt",
+          "gram": "infinitive, perfective"
         }
       ]
     },
@@ -386,25 +386,25 @@
           "t": "Заходи",
           "lemma": "заходить",
           "pos": "verb",
-          "stress": "Заходи́",
-          "gloss": "step in, come in",
-          "gram": "imperative singular"
+          "stress": "заходи́",
+          "gloss": "come in",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition governing accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "комнату",
           "lemma": "комната",
           "pos": "noun",
           "stress": "ко́мнату",
-          "gloss": "room",
-          "gram": "feminine singular accusative"
+          "gloss": "the room",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "и",
@@ -419,8 +419,8 @@
           "lemma": "закрыть",
           "pos": "verb",
           "stress": "закро́й",
-          "gloss": "close",
-          "gram": "imperative singular"
+          "gloss": "shut, close",
+          "gram": "2nd person singular imperative, perfective"
         },
         {
           "t": "дверь.",
@@ -428,7 +428,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "door",
-          "gram": "feminine singular accusative"
+          "gram": "acc f sg inanim"
         }
       ]
     },
@@ -440,9 +440,9 @@
           "t": "Хорошо,",
           "lemma": "хорошо",
           "pos": "adv",
-          "stress": "Хорошо́",
-          "gloss": "fine, good",
-          "gram": "parenthetic / adverb"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
           "t": "я",
@@ -457,8 +457,8 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
-          "gram": "adverb of time"
+          "gloss": "already, now",
+          "gram": "adverb"
         },
         {
           "t": "закрываю",
@@ -474,7 +474,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "door",
-          "gram": "feminine singular accusative"
+          "gram": "acc f sg inanim"
         }
       ]
     },
@@ -496,7 +496,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "on, onto",
-          "gram": "preposition governing accusative"
+          "gram": "preposition"
         },
         {
           "t": "стул",
@@ -504,7 +504,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "chair",
-          "gram": "masculine singular accusative"
+          "gram": "masculine inanimate, accusative singular"
         },
         {
           "t": "и",
@@ -519,8 +519,8 @@
           "lemma": "слушать",
           "pos": "verb",
           "stress": "слу́шай",
-          "gloss": "listen to",
-          "gram": "imperative singular"
+          "gloss": "listen",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "меня.",
@@ -528,7 +528,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular accusative"
+          "gram": "1st person singular, genitive"
         }
       ]
     },
@@ -549,16 +549,16 @@
           "lemma": "внимательно",
           "pos": "adv",
           "stress": "внима́тельно",
-          "gloss": "attentively",
-          "gram": "adverb of manner"
+          "gloss": "carefully, attentively",
+          "gram": "adverb"
         },
         {
           "t": "слушаю",
           "lemma": "слушать",
           "pos": "verb",
           "stress": "слу́шаю",
-          "gloss": "am listening to",
-          "gram": "present 1st person singular"
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "вас,",
@@ -566,15 +566,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person plural accusative"
+          "gram": "2nd person plural / polite, accusative"
         },
         {
           "t": "шеф.",
           "lemma": "шеф",
           "pos": "name",
           "stress": null,
-          "gloss": "chef",
-          "gram": "masculine singular vocative"
+          "gloss": "Chef",
+          "gram": "proper name"
         }
       ]
     },
@@ -586,7 +586,7 @@
           "t": "Теперь",
           "lemma": "теперь",
           "pos": "adv",
-          "stress": "Тепе́рь",
+          "stress": "тепе́рь",
           "gloss": "now",
           "gram": "adverb of time"
         },
@@ -596,7 +596,7 @@
           "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "feminine singular nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "жизнь",
@@ -604,14 +604,14 @@
           "pos": "noun",
           "stress": null,
           "gloss": "life",
-          "gram": "feminine singular nominative"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "сильно",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "greatly",
+          "gloss": "strongly, much",
           "gram": "adverb of degree"
         },
         {
@@ -620,7 +620,7 @@
           "pos": "verb",
           "stress": "изме́нится",
           "gloss": "will change",
-          "gram": "future 3rd person singular"
+          "gram": "3rd person singular future"
         }
       ]
     },
@@ -632,9 +632,9 @@
           "t": "Пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "Пойдём",
-          "gloss": "let us go",
-          "gram": "imperative / 1st person plural future"
+          "stress": null,
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "со",
@@ -642,7 +642,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "with",
-          "gram": "preposition governing instrumental"
+          "gram": "preposition (+instr)"
         },
         {
           "t": "мной",
@@ -650,15 +650,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "me",
-          "gram": "1st person singular instrumental"
+          "gram": "instrumental 1st person singular"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition governing accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "мой",
@@ -666,7 +666,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "masculine singular accusative"
+          "gram": "possessive pronoun"
         },
         {
           "t": "кабинет.",
@@ -674,7 +674,7 @@
           "pos": "noun",
           "stress": "кабине́т",
           "gloss": "office",
-          "gram": "masculine singular accusative"
+          "gram": "masculine accusative singular"
         }
       ]
     },
@@ -688,15 +688,15 @@
           "pos": "name",
           "stress": null,
           "gloss": "Chef",
-          "gram": "masculine singular vocative"
+          "gram": "proper name"
         },
         {
           "t": "куда",
           "lemma": "куда",
           "pos": "adv",
           "stress": "куда́",
-          "gloss": "where (to)",
-          "gram": "interrogative adverb"
+          "gloss": "where to",
+          "gram": "adverb of direction"
         },
         {
           "t": "мы",
@@ -718,9 +718,9 @@
           "t": "идём?",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идём",
+          "stress": null,
           "gloss": "are going",
-          "gram": "present 1st person plural"
+          "gram": "imperfective present, 1st plural"
         }
       ]
     },
@@ -733,7 +733,7 @@
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
+          "gloss": "us",
           "gram": "1st person plural dative"
         },
         {
@@ -741,32 +741,32 @@
           "lemma": "нужный",
           "pos": "adj",
           "stress": "ну́жен",
-          "gloss": "necessary, needed",
-          "gram": "short form masculine singular"
+          "gloss": "is needed",
+          "gram": "short form, masculine singular"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
+          "gloss": "very much",
           "gram": "adverb of degree"
         },
         {
           "t": "серьёзный",
           "lemma": "серьёзный",
           "pos": "adj",
-          "stress": "серьёзный",
-          "gloss": "serious",
-          "gram": "masculine singular nominative"
+          "stress": null,
+          "gloss": "important, serious",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "разговор.",
           "lemma": "разговор",
           "pos": "noun",
           "stress": "разгово́р",
-          "gloss": "conversation",
-          "gram": "masculine singular nominative"
+          "gloss": "conversation, talk",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -779,32 +779,32 @@
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (formal/plural)",
+          "gloss": "you",
           "gram": "2nd person plural, nominative"
         },
         {
           "t": "всё",
-          "lemma": "всё",
-          "pos": "pron",
+          "lemma": "весь",
+          "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter singular accusative"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "слышали",
           "lemma": "слышать",
           "pos": "verb",
           "stress": "слы́шали",
-          "gloss": "heard",
-          "gram": "past plural"
+          "gloss": "did you hear?",
+          "gram": "plural, past, imperfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "in, on",
-          "gram": "preposition governing prepositional"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "кухне?",
@@ -812,7 +812,7 @@
           "pos": "noun",
           "stress": "ку́хне",
           "gloss": "kitchen",
-          "gram": "feminine singular prepositional"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
@@ -834,23 +834,23 @@
           "pos": "verb",
           "stress": "слы́шал",
           "gloss": "heard",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "каждое",
           "lemma": "каждый",
-          "pos": "det",
+          "pos": "adj",
           "stress": "ка́ждое",
-          "gloss": "every",
-          "gram": "neuter singular accusative"
+          "gloss": "every, each",
+          "gram": "acc n sg inanim"
         },
         {
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
-          "gloss": "your",
-          "gram": "neuter singular accusative"
+          "stress": null,
+          "gloss": "yours",
+          "gram": "nominative singular, neuter"
         },
         {
           "t": "слово.",
@@ -858,7 +858,7 @@
           "pos": "noun",
           "stress": "сло́во",
           "gloss": "word",
-          "gram": "neuter singular accusative"
+          "gram": "neuter, accusative singular"
         }
       ]
     },
@@ -879,7 +879,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "myself",
+          "gloss": "yourself",
           "gram": "masculine singular nominative"
         },
         {
@@ -888,7 +888,7 @@
           "pos": "pron",
           "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "genitive"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "не",
@@ -904,7 +904,7 @@
           "pos": "verb",
           "stress": "понима́ю",
           "gloss": "understand",
-          "gram": "present 1st person singular"
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
@@ -917,16 +917,16 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "устроил",
           "lemma": "устроить",
           "pos": "verb",
           "stress": "устро́ил",
-          "gloss": "caused, arranged",
-          "gram": "past masculine singular"
+          "gloss": "caused",
+          "gram": "masculine singular past, perfective"
         },
         {
           "t": "настоящий",
@@ -934,7 +934,7 @@
           "pos": "adj",
           "stress": "настоя́щий",
           "gloss": "real, genuine",
-          "gram": "masculine singular accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "большой",
@@ -942,15 +942,15 @@
           "pos": "adj",
           "stress": "большо́й",
           "gloss": "big",
-          "gram": "masculine singular accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "скандал.",
           "lemma": "скандал",
           "pos": "noun",
           "stress": "сканда́л",
-          "gloss": "scandal",
-          "gram": "masculine singular accusative"
+          "gloss": "scandal, fuss, row",
+          "gram": "nom m sg"
         }
       ]
     },
@@ -980,23 +980,23 @@
           "pos": "verb",
           "stress": "хоте́л",
           "gloss": "wanted",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "никого",
           "lemma": "никто",
           "pos": "pron",
           "stress": "никого́",
-          "gloss": "anyone",
-          "gram": "genitive / accusative"
+          "gloss": "nobody",
+          "gram": "genitive (after 'нет')"
         },
         {
           "t": "обидеть.",
           "lemma": "обидеть",
           "pos": "verb",
           "stress": "оби́деть",
-          "gloss": "to offend",
-          "gram": "infinitive"
+          "gloss": "to offend, to hurt",
+          "gram": "infinitive, perfective"
         }
       ]
     },
@@ -1008,25 +1008,25 @@
           "t": "Заходи",
           "lemma": "заходить",
           "pos": "verb",
-          "stress": "Заходи́",
-          "gloss": "step in, come in",
-          "gram": "imperative singular"
+          "stress": "заходи́",
+          "gloss": "come in",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition governing accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "комнату",
           "lemma": "комната",
           "pos": "noun",
           "stress": "ко́мнату",
-          "gloss": "room",
-          "gram": "feminine singular accusative"
+          "gloss": "the room",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "и",
@@ -1041,8 +1041,8 @@
           "lemma": "закрыть",
           "pos": "verb",
           "stress": "закро́й",
-          "gloss": "close",
-          "gram": "imperative singular"
+          "gloss": "shut, close",
+          "gram": "2nd person singular imperative, perfective"
         },
         {
           "t": "дверь.",
@@ -1050,7 +1050,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "door",
-          "gram": "feminine singular accusative"
+          "gram": "acc f sg inanim"
         }
       ]
     },
@@ -1062,9 +1062,9 @@
           "t": "Хорошо,",
           "lemma": "хорошо",
           "pos": "adv",
-          "stress": "Хорошо́",
-          "gloss": "fine, good",
-          "gram": "parenthetic / adverb"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
           "t": "я",
@@ -1079,8 +1079,8 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
-          "gram": "adverb of time"
+          "gloss": "already, now",
+          "gram": "adverb"
         },
         {
           "t": "закрываю",
@@ -1096,7 +1096,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "door",
-          "gram": "feminine singular accusative"
+          "gram": "acc f sg inanim"
         }
       ]
     },
@@ -1118,7 +1118,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "on, onto",
-          "gram": "preposition governing accusative"
+          "gram": "preposition"
         },
         {
           "t": "стул",
@@ -1126,7 +1126,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "chair",
-          "gram": "masculine singular accusative"
+          "gram": "masculine inanimate, accusative singular"
         },
         {
           "t": "и",
@@ -1141,8 +1141,8 @@
           "lemma": "слушать",
           "pos": "verb",
           "stress": "слу́шай",
-          "gloss": "listen to",
-          "gram": "imperative singular"
+          "gloss": "listen",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "меня.",
@@ -1150,7 +1150,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular accusative"
+          "gram": "1st person singular, genitive"
         }
       ]
     },
@@ -1171,16 +1171,16 @@
           "lemma": "внимательно",
           "pos": "adv",
           "stress": "внима́тельно",
-          "gloss": "attentively",
-          "gram": "adverb of manner"
+          "gloss": "carefully, attentively",
+          "gram": "adverb"
         },
         {
           "t": "слушаю",
           "lemma": "слушать",
           "pos": "verb",
           "stress": "слу́шаю",
-          "gloss": "am listening to",
-          "gram": "present 1st person singular"
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "вас,",
@@ -1188,15 +1188,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person plural accusative"
+          "gram": "2nd person plural / polite, accusative"
         },
         {
           "t": "шеф.",
           "lemma": "шеф",
           "pos": "name",
           "stress": null,
-          "gloss": "chef",
-          "gram": "masculine singular vocative"
+          "gloss": "Chef",
+          "gram": "proper name"
         }
       ]
     },
@@ -1208,7 +1208,7 @@
           "t": "Теперь",
           "lemma": "теперь",
           "pos": "adv",
-          "stress": "Тепе́рь",
+          "stress": "тепе́рь",
           "gloss": "now",
           "gram": "adverb of time"
         },
@@ -1218,7 +1218,7 @@
           "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "feminine singular nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "жизнь",
@@ -1226,14 +1226,14 @@
           "pos": "noun",
           "stress": null,
           "gloss": "life",
-          "gram": "feminine singular nominative"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "сильно",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "greatly",
+          "gloss": "strongly, much",
           "gram": "adverb of degree"
         },
         {
@@ -1242,7 +1242,7 @@
           "pos": "verb",
           "stress": "изме́нится",
           "gloss": "will change",
-          "gram": "future 3rd person singular"
+          "gram": "3rd person singular future"
         }
       ]
     },
@@ -1254,9 +1254,9 @@
           "t": "Пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "Пойдём",
-          "gloss": "let us go",
-          "gram": "imperative / 1st person plural future"
+          "stress": null,
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "со",
@@ -1264,7 +1264,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "with",
-          "gram": "preposition governing instrumental"
+          "gram": "preposition (+instr)"
         },
         {
           "t": "мной",
@@ -1272,15 +1272,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "me",
-          "gram": "1st person singular instrumental"
+          "gram": "instrumental 1st person singular"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition governing accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "мой",
@@ -1288,7 +1288,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "masculine singular accusative"
+          "gram": "possessive pronoun"
         },
         {
           "t": "кабинет.",
@@ -1296,7 +1296,7 @@
           "pos": "noun",
           "stress": "кабине́т",
           "gloss": "office",
-          "gram": "masculine singular accusative"
+          "gram": "masculine accusative singular"
         }
       ]
     },
@@ -1310,15 +1310,15 @@
           "pos": "name",
           "stress": null,
           "gloss": "Chef",
-          "gram": "masculine singular vocative"
+          "gram": "proper name"
         },
         {
           "t": "куда",
           "lemma": "куда",
           "pos": "adv",
           "stress": "куда́",
-          "gloss": "where (to)",
-          "gram": "interrogative adverb"
+          "gloss": "where to",
+          "gram": "adverb of direction"
         },
         {
           "t": "мы",
@@ -1340,9 +1340,9 @@
           "t": "идём?",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идём",
+          "stress": null,
           "gloss": "are going",
-          "gram": "present 1st person plural"
+          "gram": "imperfective present, 1st plural"
         }
       ]
     },
@@ -1355,7 +1355,7 @@
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
+          "gloss": "us",
           "gram": "1st person plural dative"
         },
         {
@@ -1363,32 +1363,32 @@
           "lemma": "нужный",
           "pos": "adj",
           "stress": "ну́жен",
-          "gloss": "necessary, needed",
-          "gram": "short form masculine singular"
+          "gloss": "is needed",
+          "gram": "short form, masculine singular"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
+          "gloss": "very much",
           "gram": "adverb of degree"
         },
         {
           "t": "серьёзный",
           "lemma": "серьёзный",
           "pos": "adj",
-          "stress": "серьёзный",
-          "gloss": "serious",
-          "gram": "masculine singular nominative"
+          "stress": null,
+          "gloss": "important, serious",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "разговор.",
           "lemma": "разговор",
           "pos": "noun",
           "stress": "разгово́р",
-          "gloss": "conversation",
-          "gram": "masculine singular nominative"
+          "gloss": "conversation, talk",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -1401,32 +1401,32 @@
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (formal/plural)",
+          "gloss": "you",
           "gram": "2nd person plural, nominative"
         },
         {
           "t": "всё",
-          "lemma": "всё",
-          "pos": "pron",
+          "lemma": "весь",
+          "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter singular accusative"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "слышали",
           "lemma": "слышать",
           "pos": "verb",
           "stress": "слы́шали",
-          "gloss": "heard",
-          "gram": "past plural"
+          "gloss": "did you hear?",
+          "gram": "plural, past, imperfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "in, on",
-          "gram": "preposition governing prepositional"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "кухне?",
@@ -1434,7 +1434,7 @@
           "pos": "noun",
           "stress": "ку́хне",
           "gloss": "kitchen",
-          "gram": "feminine singular prepositional"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
@@ -1456,23 +1456,23 @@
           "pos": "verb",
           "stress": "слы́шал",
           "gloss": "heard",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "каждое",
           "lemma": "каждый",
-          "pos": "det",
+          "pos": "adj",
           "stress": "ка́ждое",
-          "gloss": "every",
-          "gram": "neuter singular accusative"
+          "gloss": "every, each",
+          "gram": "acc n sg inanim"
         },
         {
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
-          "gloss": "your",
-          "gram": "neuter singular accusative"
+          "stress": null,
+          "gloss": "yours",
+          "gram": "nominative singular, neuter"
         },
         {
           "t": "слово.",
@@ -1480,7 +1480,7 @@
           "pos": "noun",
           "stress": "сло́во",
           "gloss": "word",
-          "gram": "neuter singular accusative"
+          "gram": "neuter, accusative singular"
         }
       ]
     },
@@ -1501,7 +1501,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "myself",
+          "gloss": "yourself",
           "gram": "masculine singular nominative"
         },
         {
@@ -1510,7 +1510,7 @@
           "pos": "pron",
           "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "genitive"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "не",
@@ -1526,7 +1526,7 @@
           "pos": "verb",
           "stress": "понима́ю",
           "gloss": "understand",
-          "gram": "present 1st person singular"
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
@@ -1539,16 +1539,16 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "устроил",
           "lemma": "устроить",
           "pos": "verb",
           "stress": "устро́ил",
-          "gloss": "caused, arranged",
-          "gram": "past masculine singular"
+          "gloss": "caused",
+          "gram": "masculine singular past, perfective"
         },
         {
           "t": "настоящий",
@@ -1556,7 +1556,7 @@
           "pos": "adj",
           "stress": "настоя́щий",
           "gloss": "real, genuine",
-          "gram": "masculine singular accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "большой",
@@ -1564,15 +1564,15 @@
           "pos": "adj",
           "stress": "большо́й",
           "gloss": "big",
-          "gram": "masculine singular accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "скандал.",
           "lemma": "скандал",
           "pos": "noun",
           "stress": "сканда́л",
-          "gloss": "scandal",
-          "gram": "masculine singular accusative"
+          "gloss": "scandal, fuss, row",
+          "gram": "nom m sg"
         }
       ]
     },
@@ -1602,23 +1602,23 @@
           "pos": "verb",
           "stress": "хоте́л",
           "gloss": "wanted",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "никого",
           "lemma": "никто",
           "pos": "pron",
           "stress": "никого́",
-          "gloss": "anyone",
-          "gram": "genitive / accusative"
+          "gloss": "nobody",
+          "gram": "genitive (after 'нет')"
         },
         {
           "t": "обидеть.",
           "lemma": "обидеть",
           "pos": "verb",
           "stress": "оби́деть",
-          "gloss": "to offend",
-          "gram": "infinitive"
+          "gloss": "to offend, to hurt",
+          "gram": "infinitive, perfective"
         }
       ]
     },
@@ -1630,25 +1630,25 @@
           "t": "Заходи",
           "lemma": "заходить",
           "pos": "verb",
-          "stress": "Заходи́",
-          "gloss": "step in, come in",
-          "gram": "imperative singular"
+          "stress": "заходи́",
+          "gloss": "come in",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition governing accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "комнату",
           "lemma": "комната",
           "pos": "noun",
           "stress": "ко́мнату",
-          "gloss": "room",
-          "gram": "feminine singular accusative"
+          "gloss": "the room",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "и",
@@ -1663,8 +1663,8 @@
           "lemma": "закрыть",
           "pos": "verb",
           "stress": "закро́й",
-          "gloss": "close",
-          "gram": "imperative singular"
+          "gloss": "shut, close",
+          "gram": "2nd person singular imperative, perfective"
         },
         {
           "t": "дверь.",
@@ -1672,7 +1672,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "door",
-          "gram": "feminine singular accusative"
+          "gram": "acc f sg inanim"
         }
       ]
     },
@@ -1684,9 +1684,9 @@
           "t": "Хорошо,",
           "lemma": "хорошо",
           "pos": "adv",
-          "stress": "Хорошо́",
-          "gloss": "fine, good",
-          "gram": "parenthetic / adverb"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
           "t": "я",
@@ -1701,8 +1701,8 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
-          "gram": "adverb of time"
+          "gloss": "already, now",
+          "gram": "adverb"
         },
         {
           "t": "закрываю",
@@ -1718,7 +1718,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "door",
-          "gram": "feminine singular accusative"
+          "gram": "acc f sg inanim"
         }
       ]
     },
@@ -1740,7 +1740,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "on, onto",
-          "gram": "preposition governing accusative"
+          "gram": "preposition"
         },
         {
           "t": "стул",
@@ -1748,7 +1748,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "chair",
-          "gram": "masculine singular accusative"
+          "gram": "masculine inanimate, accusative singular"
         },
         {
           "t": "и",
@@ -1763,8 +1763,8 @@
           "lemma": "слушать",
           "pos": "verb",
           "stress": "слу́шай",
-          "gloss": "listen to",
-          "gram": "imperative singular"
+          "gloss": "listen",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "меня.",
@@ -1772,7 +1772,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular accusative"
+          "gram": "1st person singular, genitive"
         }
       ]
     },
@@ -1793,16 +1793,16 @@
           "lemma": "внимательно",
           "pos": "adv",
           "stress": "внима́тельно",
-          "gloss": "attentively",
-          "gram": "adverb of manner"
+          "gloss": "carefully, attentively",
+          "gram": "adverb"
         },
         {
           "t": "слушаю",
           "lemma": "слушать",
           "pos": "verb",
           "stress": "слу́шаю",
-          "gloss": "am listening to",
-          "gram": "present 1st person singular"
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "вас,",
@@ -1810,15 +1810,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person plural accusative"
+          "gram": "2nd person plural / polite, accusative"
         },
         {
           "t": "шеф.",
           "lemma": "шеф",
           "pos": "name",
           "stress": null,
-          "gloss": "chef",
-          "gram": "masculine singular vocative"
+          "gloss": "Chef",
+          "gram": "proper name"
         }
       ]
     },
@@ -1830,7 +1830,7 @@
           "t": "Теперь",
           "lemma": "теперь",
           "pos": "adv",
-          "stress": "Тепе́рь",
+          "stress": "тепе́рь",
           "gloss": "now",
           "gram": "adverb of time"
         },
@@ -1840,7 +1840,7 @@
           "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "feminine singular nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "жизнь",
@@ -1848,14 +1848,14 @@
           "pos": "noun",
           "stress": null,
           "gloss": "life",
-          "gram": "feminine singular nominative"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "сильно",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "greatly",
+          "gloss": "strongly, much",
           "gram": "adverb of degree"
         },
         {
@@ -1864,53 +1864,21 @@
           "pos": "verb",
           "stress": "изме́нится",
           "gloss": "will change",
-          "gram": "future 3rd person singular"
+          "gram": "3rd person singular future"
         }
       ]
     },
     {
       "seg": 55,
-      "trans": "Now your life will change greatly.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Теперь",
-          "lemma": "теперь",
+          "t": "Пока!",
+          "lemma": "пока",
           "pos": "adv",
-          "stress": "Тепе́рь",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "твоя",
-          "lemma": "твой",
-          "pos": "det",
-          "stress": "твоя́",
-          "gloss": "your",
-          "gram": "feminine singular nominative"
-        },
-        {
-          "t": "жизнь",
-          "lemma": "жизнь",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "life",
-          "gram": "feminine singular nominative"
-        },
-        {
-          "t": "сильно",
-          "lemma": "сильно",
-          "pos": "adv",
-          "stress": "си́льно",
-          "gloss": "greatly",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "изменится.",
-          "lemma": "измениться",
-          "pos": "verb",
-          "stress": "изме́нится",
-          "gloss": "will change",
-          "gram": "future 3rd person singular"
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -2031,11 +1999,11 @@
       "meanings": [
         {
           "en": "in",
-          "note": "Russian preposition meaning 'in' that governs a specific oblique case on the following noun phrase."
+          "note": "+ prepositional (where). Core Russian prep meaning 'in, into' in everyday speech."
         },
         {
           "en": "into, to",
-          "note": "Secondary conversational sense ('into, to') (+ accusative (where to)) used in spoken Russian dialogue."
+          "note": "+ accusative (where to). Core Russian prep meaning 'in, into' in everyday speech."
         }
       ],
       "forms": null,
@@ -2056,12 +2024,127 @@
       ],
       "related": [
         {
-          "word": "внутри",
-          "gloss": "inside"
+          "word": "во",
+          "gloss": "in, into (before consonant clusters)"
         },
         {
-          "word": "входить",
-          "gloss": "to enter"
+          "word": "внутри",
+          "gloss": "inside"
+        }
+      ]
+    },
+    "весь": {
+      "lemma": "весь",
+      "stress": "весь",
+      "pos": "det",
+      "gloss": "all, whole; everyone, everything",
+      "meanings": [
+        {
+          "en": "all, the whole",
+          "note": "The neuter form 'всё' used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everything",
+          "note": "Neuter всё. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everyone",
+          "note": "Plural все. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "весь",
+              "вся",
+              "всё",
+              "все"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "всего",
+              "всей",
+              "всего",
+              "всех"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "всему",
+              "всей",
+              "всему",
+              "всем"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "весь / всего",
+              "всю",
+              "всё",
+              "все / всех"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "всем",
+              "всей",
+              "всем",
+              "всеми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "всём",
+              "всей",
+              "всём",
+              "всех"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Всё нормально.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
+        }
+      ],
+      "related": [
+        {
+          "word": "всё",
+          "gloss": "everything"
+        },
+        {
+          "word": "все",
+          "gloss": "everyone"
+        },
+        {
+          "word": "всегда",
+          "gloss": "always"
         }
       ]
     },
@@ -2103,44 +2186,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything, all; that's it",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "ends a conversation or an order: 'Всё, свободен' = that's all, you can go"
-        },
-        {
-          "en": "that's it, done",
-          "note": "Secondary conversational sense ('that's it, done') (at the start of a sentence) used in spoken Russian dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Всё нормально.",
-          "trans": "Everything's fine."
-        },
-        {
-          "text": "Всё, пока!",
-          "trans": "That's it, bye!"
-        },
-        {
-          "text": "Мы просто не хотели вас беспокоить. Всё отменим!",
-          "trans": "We just didn't want to bother you. We'll cancel it all!"
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2152,12 +2197,12 @@
           "note": "polite to one person, or to several people"
         },
         {
-          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
-          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
+          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
+          "note": "Case forms. Core Russian pron meaning 'you (polite or plural)' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -2218,12 +2263,8 @@
       ],
       "related": [
         {
-          "word": "ваш",
-          "gloss": "your, yours"
-        },
-        {
-          "word": "ты",
-          "gloss": "you (singular)"
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -2231,8 +2272,8 @@
       "lemma": "дверь",
       "stress": "дверь",
       "pos": "noun",
-      "gender": "f",
       "gloss": "door",
+      "gender": "f",
       "meanings": [
         {
           "en": "door",
@@ -2308,12 +2349,8 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
+          "word": "дверный",
+          "gloss": "related to door (adj.)"
         }
       ]
     },
@@ -2321,8 +2358,8 @@
       "lemma": "жизнь",
       "stress": "жизнь",
       "pos": "noun",
-      "gender": "f",
       "gloss": "life",
+      "gender": "f",
       "meanings": [
         {
           "en": "life",
@@ -2398,12 +2435,8 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
+          "word": "жизнный",
+          "gloss": "related to life (adj.)"
         }
       ]
     },
@@ -2411,17 +2444,17 @@
       "lemma": "закрывать",
       "stress": "закрыва́ть",
       "pos": "verb",
+      "gloss": "to close, to shut",
       "aspect": "impf",
       "pair": "закрыть",
-      "gloss": "to close, to shut",
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крывать'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to close', forming an aspectual pair with 'закрыть'."
+          "note": "'закрывать глаза на' + accusative. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крывать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
         },
         {
           "en": "to turn a blind eye",
-          "note": "Secondary conversational sense ('to turn a blind eye') ('закрывать глаза на' + accusative) used in spoken Russian dialogue."
+          "note": "'закрывать глаза на' + accusative. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крывать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
         }
       ],
       "forms": {
@@ -2528,13 +2561,13 @@
       "lemma": "закрыть",
       "stress": "закры́ть",
       "pos": "verb",
+      "gloss": "to close, to shut",
       "aspect": "pf",
       "pair": "закрывать",
-      "gloss": "to close, to shut",
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to close', forming an aspectual pair with 'закрывать'."
+          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть'). Used as an perfective (single completed action) verb meaning 'to close, to shut', paired with 'закрывать'."
         }
       ],
       "forms": {
@@ -2589,6 +2622,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "закрой",
+                "закройте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2624,17 +2674,17 @@
       "lemma": "заходить",
       "stress": "заходи́ть",
       "pos": "verb",
+      "gloss": "to come in, to drop in",
       "aspect": "impf",
       "pair": "зайти",
-      "gloss": "to come in, to drop in",
       "meanings": [
         {
           "en": "to come in",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to come in', forming an aspectual pair with 'зайти'."
+          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
         },
         {
           "en": "to drop in",
-          "note": "Secondary conversational sense ('to drop in') used in spoken Russian dialogue."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
         }
       ],
       "forms": {
@@ -2710,16 +2760,16 @@
       ],
       "examples": [
         {
+          "text": "Заходи!",
+          "trans": "Come in!"
+        },
+        {
           "text": "Заходите, пожалуйста.",
           "trans": "Please come in."
         },
         {
-          "text": "Не стой в дверях, смелее заходи ко мне в кабинет!",
-          "trans": "Do not stand in the doorway, come on into my office boldly!"
-        },
-        {
-          "text": "После работы мы часто заходим выпить кофе в соседний бар.",
-          "trans": "After work we often drop in to drink coffee at the neighboring bar."
+          "text": "Заходи.",
+          "trans": "Come in."
         }
       ],
       "related": [
@@ -2766,12 +2816,12 @@
       ],
       "related": [
         {
-          "word": "тоже",
-          "gloss": "also, too"
+          "word": "а",
+          "gloss": "and, but"
         },
         {
-          "word": "вместе",
-          "gloss": "together"
+          "word": "тоже",
+          "gloss": "also"
         }
       ]
     },
@@ -2779,17 +2829,17 @@
       "lemma": "идти",
       "stress": "идти́",
       "pos": "verb",
+      "gloss": "to go (on foot)",
       "aspect": "impf",
       "pair": "пойти",
-      "gloss": "to go (on foot)",
       "meanings": [
         {
           "en": "to go, to walk",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to go', forming an aspectual pair with 'пойти'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": "In one direction, now. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
         },
         {
-          "en": "expression",
-          "note": "Secondary conversational sense ('expression') (to run for a second term) used in spoken Russian dialogue."
+          "en": "идти на второй срок",
+          "note": "To run for a second term. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
         }
       ],
       "forms": {
@@ -2844,6 +2894,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "иди",
+                "идите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2871,9 +2938,9 @@
       "lemma": "измениться",
       "stress": "измени́ться",
       "pos": "verb",
+      "gloss": "to change (become different)",
       "aspect": "pf",
       "pair": "изменяться",
-      "gloss": "to change (become different)",
       "meanings": [
         {
           "en": "to change, to become different",
@@ -2967,12 +3034,12 @@
       "lemma": "кабинет",
       "stress": "кабине́т",
       "pos": "noun",
-      "gender": "m",
       "gloss": "office (a room)",
+      "gender": "m",
       "meanings": [
         {
           "en": "office, study",
-          "note": "From French 'cabinet' (private study or office)."
+          "note": "A person's own room at work. From French 'cabinet' (private study or office)."
         }
       ],
       "forms": {
@@ -3044,12 +3111,8 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
+          "word": "кабинетный",
+          "gloss": "related to office (adj.)"
         }
       ]
     },
@@ -3061,7 +3124,7 @@
       "meanings": [
         {
           "en": "every, each",
-          "note": "Descriptive Russian adjective meaning 'every', agreeing in gender, number, and case with the noun it modifies."
+          "note": "Каждый день = every day. Agrees in gender, number, and case with the noun it modifies ('every, each')."
         }
       ],
       "forms": {
@@ -3147,12 +3210,12 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "каждо",
+          "gloss": "in a every way (adv.)"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "каждость",
+          "gloss": "quality of being every"
         }
       ]
     },
@@ -3160,12 +3223,12 @@
       "lemma": "комната",
       "stress": "ко́мната",
       "pos": "noun",
-      "gender": "f",
       "gloss": "room",
+      "gender": "f",
       "meanings": [
         {
           "en": "room",
-          "note": "Declinable feminine noun meaning 'room', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": "In a flat or house. Common feminine noun meaning 'room' in everyday Russian."
         }
       ],
       "forms": {
@@ -3254,7 +3317,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'where'."
+          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
         }
       ],
       "forms": null,
@@ -3292,16 +3355,16 @@
       "lemma": "кухня",
       "stress": "ку́хня",
       "pos": "noun",
+      "gloss": "kitchen",
       "gender": "f",
-      "gloss": "kitchen; cuisine",
       "meanings": [
         {
           "en": "kitchen",
-          "note": "Entered Russian via Polish 'kuchnia' and Middle High German 'küchen', ultimately from Late Latin 'coquina' (from 'coquere', to cook)."
+          "note": "в кухне / на кухне = in the kitchen, на кухню = to the kitchen"
         },
         {
-          "en": "cuisine, cooking",
-          "note": "Secondary conversational sense ('cuisine, cooking') (русская кухня = Russian cuisine) used in spoken Russian dialogue."
+          "en": "cuisine",
+          "note": "E.g. русская кухня. Entered Russian via Polish 'kuchnia' and Middle High German 'küchen', ultimately from Late Latin 'coquina' (from 'coquere', to cook)."
         }
       ],
       "forms": {
@@ -3359,26 +3422,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Мы сидим на кухне.",
-          "trans": "We're sitting in the kitchen."
-        },
-        {
-          "text": "Три комнаты и большая кухня.",
-          "trans": "Three rooms and a big kitchen."
-        },
-        {
           "text": "А там кухня.",
           "trans": "And the kitchen is over there."
+        },
+        {
+          "text": "Мы сидим на кухне.",
+          "trans": "We are sitting in the kitchen."
+        },
+        {
+          "text": "Проходите, пожалуйста! Как видите, большой коридор, а там кухня.",
+          "trans": "Come on in, please! As you can see, a big hall, and the kitchen is over there."
         }
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
+          "word": "кухнный",
+          "gloss": "related to kitchen (adj.)"
         }
       ]
     },
@@ -3390,11 +3449,11 @@
       "meanings": [
         {
           "en": "my, mine",
-          "note": "Russian determiner/pronoun ('my') agreeing in gender, number, and case with the noun phrase it specifies."
+          "note": "Agrees with the thing owned. Core Russian det meaning 'my, mine' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -3496,12 +3555,12 @@
           "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
-          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
-          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
+          "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
+          "note": "Case forms. Core Russian pron meaning 'we' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -3562,12 +3621,8 @@
       ],
       "related": [
         {
-          "word": "наш",
-          "gloss": "our, ours"
-        },
-        {
-          "word": "все",
-          "gloss": "everyone, all"
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -3579,11 +3634,11 @@
       "meanings": [
         {
           "en": "on",
-          "note": "Russian preposition meaning 'on' that governs a specific oblique case on the following noun phrase."
+          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
         },
         {
           "en": "onto, to; for",
-          "note": "Secondary conversational sense ('onto, to; for') (+ accusative: на второй срок) used in spoken Russian dialogue."
+          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
         }
       ],
       "forms": null,
@@ -3604,12 +3659,12 @@
       ],
       "related": [
         {
-          "word": "наверх",
-          "gloss": "upstairs, upward"
+          "word": "над",
+          "gloss": "above, over"
         },
         {
-          "word": "накрыть",
-          "gloss": "to cover, set"
+          "word": "в",
+          "gloss": "in, at"
         }
       ]
     },
@@ -3625,7 +3680,7 @@
         },
         {
           "en": "present, current",
-          "note": "Secondary conversational sense ('present, current') used in spoken Russian dialogue."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'стоящий'). Agrees in gender, number, and case with the noun it modifies ('real, genuine')."
         }
       ],
       "forms": {
@@ -3757,8 +3812,8 @@
           "gloss": "no"
         },
         {
-          "word": "никогда",
-          "gloss": "never"
+          "word": "ни",
+          "gloss": "neither, not a single"
         }
       ]
     },
@@ -3770,33 +3825,84 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "needs 'не' with the verb: никто не войдёт"
+          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "Case",
+          "Negative",
+          "Interrogative (кто)"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "никто",
+              "кто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "никого",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "никому",
+              "кому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "никого",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "никем",
+              "кем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о ком",
+              "о ком"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Никто не войдёт.",
-          "trans": "Nobody will come in."
+          "text": "Никто не будет командовать на моей кухне!",
+          "trans": "Nobody is going to give orders in my kitchen!"
         },
         {
-          "text": "Я знаю город как никто.",
-          "trans": "I know the town like nobody else."
+          "text": "Не говори об этом никому, ладно?",
+          "trans": "Do not tell anyone about this, okay?"
         },
         {
-          "text": "Садитесь и держите дверь. Никто не войдёт.",
-          "trans": "Sit down and hold the door. Nobody will come in."
+          "text": "Но юридически ты ей никто.",
+          "trans": "But legally you are nobody to her."
         }
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
+          "word": "вот никто",
+          "gloss": "right here (nobody)"
         },
         {
-          "word": "уже",
-          "gloss": "already"
+          "word": "именно никто",
+          "gloss": "precisely nobody"
         }
       ]
     },
@@ -3812,7 +3918,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -4007,9 +4113,9 @@
       "lemma": "обидеть",
       "stress": "оби́деть",
       "pos": "verb",
+      "gloss": "to offend, to hurt",
       "aspect": "pf",
       "pair": "обижать",
-      "gloss": "to offend, to hurt",
       "meanings": [
         {
           "en": "to offend, to hurt someone's feelings",
@@ -4068,6 +4174,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обидь",
+                "обидьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4107,11 +4230,11 @@
       "meanings": [
         {
           "en": "very",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'very'."
+          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
         },
         {
           "en": "very much",
-          "note": "Secondary conversational sense ('very much') (with verbs: очень люблю) used in spoken Russian dialogue."
+          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
         }
       ],
       "forms": null,
@@ -4132,12 +4255,8 @@
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
-        },
-        {
-          "word": "уже",
-          "gloss": "already"
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -4145,13 +4264,13 @@
       "lemma": "пойти",
       "stress": "пойти́",
       "pos": "verb",
-      "aspect": "pf",
-      "pair": "идти",
       "gloss": "to go (set off)",
+      "aspect": "pf",
+      "pair": "ходить",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "Russian perfective verb focusing on a single completed action or result meaning 'to go', forming an aspectual pair with 'идти'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": "On foot. Used as an perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
         }
       ],
       "forms": {
@@ -4206,6 +4325,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пойди",
+                "пойдите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4229,13 +4365,51 @@
         }
       ]
     },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
+        }
+      ]
+    },
     "понимать": {
       "lemma": "понимать",
       "stress": "понима́ть",
       "pos": "verb",
+      "gloss": "to understand",
       "aspect": "impf",
       "pair": "понять",
-      "gloss": "to understand",
       "meanings": [
         {
           "en": "to understand",
@@ -4329,12 +4503,12 @@
       "lemma": "разговор",
       "stress": "разгово́р",
       "pos": "noun",
-      "gender": "m",
       "gloss": "conversation, talk",
+      "gender": "m",
       "meanings": [
         {
           "en": "conversation, talk, discussion",
-          "note": "Agentive or instrument masculine noun meaning 'conversation', declining across all six Russian grammatical cases."
+          "note": "Spoken exchange. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говор'). Common masculine noun meaning 'conversation, talk' in everyday Russian."
         }
       ],
       "forms": {
@@ -4424,6 +4598,7 @@
       "stress": "с",
       "pos": "prep",
       "gloss": "with",
+      "governs": "+ instrumental",
       "meanings": [
         {
           "en": "with",
@@ -4446,15 +4621,14 @@
           "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental",
       "related": [
         {
-          "word": "вместе",
-          "gloss": "together"
+          "word": "со",
+          "gloss": "with, from"
         },
         {
-          "word": "собрать",
-          "gloss": "to gather"
+          "word": "без",
+          "gloss": "without"
         }
       ]
     },
@@ -4466,11 +4640,11 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "High-frequency Russian pronoun ('oneself') whose case form reflects its grammatical role in the clause."
+          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4573,7 +4747,7 @@
         },
         {
           "en": "in a moment",
-          "note": "Secondary conversational sense ('in a moment') used in spoken Russian dialogue."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ейчас')."
         }
       ],
       "forms": null,
@@ -4607,11 +4781,11 @@
       "meanings": [
         {
           "en": "serious, earnest",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'serious' and agreeing in gender, number, and case."
+          "note": "Серьёзный человек. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ерьёзный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
         },
         {
           "en": "important, weighty, influential",
-          "note": "Secondary conversational sense ('important, weighty, influential') (серьёзный человек) used in spoken Russian dialogue."
+          "note": "Серьёзный человек. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ерьёзный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
         }
       ],
       "forms": {
@@ -4706,9 +4880,9 @@
       "lemma": "сесть",
       "stress": "сесть",
       "pos": "verb",
+      "gloss": "to sit down",
       "aspect": "pf",
       "pair": "садиться",
-      "gloss": "to sit down",
       "meanings": [
         {
           "en": "to sit down, to take a seat",
@@ -4767,6 +4941,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сядь",
+                "сядьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4806,7 +4997,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'strongly'."
+          "note": "Adverb of degree. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ильно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -4840,8 +5031,8 @@
       "lemma": "скандал",
       "stress": "сканда́л",
       "pos": "noun",
-      "gender": "m",
       "gloss": "scandal, fuss, row",
+      "gender": "m",
       "meanings": [
         {
           "en": "scandal, row, noisy quarrel",
@@ -4934,8 +5125,8 @@
       "lemma": "слово",
       "stress": "сло́во",
       "pos": "noun",
-      "gender": "n",
       "gloss": "word",
+      "gender": "n",
       "meanings": [
         {
           "en": "word",
@@ -5015,8 +5206,8 @@
       ],
       "related": [
         {
-          "word": "словно",
-          "gloss": "as if"
+          "word": "словный",
+          "gloss": "related to word (adj.)"
         }
       ]
     },
@@ -5024,13 +5215,13 @@
       "lemma": "слушать",
       "stress": "слу́шать",
       "pos": "verb",
+      "gloss": "to listen",
       "aspect": "impf",
       "pair": "послушать",
-      "gloss": "to listen",
       "meanings": [
         {
           "en": "to listen",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лушать'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to listen', forming an aspectual pair with 'послушать'."
+          "note": "+ accusative. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лушать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
         },
         {
           "en": "listen!",
@@ -5038,7 +5229,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "Secondary conversational sense ('hello (on the phone)') ('Слушаю' = I'm listening) used in spoken Russian dialogue."
+          "note": "'Слушаю' = I'm listening. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лушать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
         }
       ],
       "forms": {
@@ -5145,17 +5336,17 @@
       "lemma": "слышать",
       "stress": "слы́шать",
       "pos": "verb",
+      "gloss": "to hear",
       "aspect": "impf",
       "pair": "услышать",
-      "gloss": "to hear",
       "meanings": [
         {
           "en": "to hear",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лышать'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to hear', forming an aspectual pair with 'услышать'."
+          "note": "Слышать о + prepositional. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лышать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
         },
         {
           "en": "to hear about",
-          "note": "Secondary conversational sense ('to hear about') (слышать о + prepositional) used in spoken Russian dialogue."
+          "note": "Слышать о + prepositional. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лышать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
         }
       ],
       "forms": {
@@ -5237,12 +5428,12 @@
       "lemma": "стул",
       "stress": "стул",
       "pos": "noun",
-      "gender": "m",
       "gloss": "chair",
+      "gender": "m",
       "meanings": [
         {
           "en": "chair",
-          "note": "Declinable masculine noun meaning 'chair', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": "Irregular plural стулья. Common masculine noun meaning 'chair' in everyday Russian."
         }
       ],
       "forms": {
@@ -5314,12 +5505,8 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
+          "word": "стулный",
+          "gloss": "related to chair (adj.)"
         }
       ]
     },
@@ -5331,11 +5518,11 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Russian determiner/pronoun ('your') agreeing in gender, number, and case with the noun phrase it specifies."
+          "note": "To someone you call ты. Core Russian det meaning 'your (informal)' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5418,7 +5605,7 @@
       "related": [
         {
           "word": "ты",
-          "gloss": "you"
+          "gloss": "you (informal)"
         },
         {
           "word": "свой",
@@ -5434,7 +5621,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'now'."
+          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
         }
       ],
       "forms": null,
@@ -5468,15 +5655,15 @@
       "meanings": [
         {
           "en": "you",
-          "note": "High-frequency Russian pronoun ('you') whose case form reflects its grammatical role in the clause."
+          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
         },
         {
-          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
-          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5537,12 +5724,12 @@
       ],
       "related": [
         {
-          "word": "твой",
-          "gloss": "your, yours"
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
         },
         {
-          "word": "вы",
-          "gloss": "you (polite/plural)"
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -5575,8 +5762,8 @@
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
+          "word": "очень уже",
+          "gloss": "intensified / related adverb (already)"
         }
       ]
     },
@@ -5584,13 +5771,17 @@
       "lemma": "устроить",
       "stress": "устро́ить",
       "pos": "verb",
+      "gloss": "to arrange, cause",
       "aspect": "pf",
       "pair": "устраивать",
-      "gloss": "to arrange, organize, set up",
       "meanings": [
         {
-          "en": "to arrange, organize, set up an event or scheme",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to arrange', forming an aspectual pair with 'устраивать'."
+          "en": "to arrange, organize",
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as an perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+        },
+        {
+          "en": "to cause",
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as an perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
         }
       ],
       "forms": {
@@ -5666,16 +5857,16 @@
       ],
       "examples": [
         {
-          "text": "Я всё устрою на высшем уровне.",
-          "trans": "I will arrange everything at the highest level."
-        },
-        {
-          "text": "Они устроили праздник для друзей.",
-          "trans": "They organized a party for friends."
-        },
-        {
           "text": "Устроить беспорядки.",
           "trans": "To cause disturbances."
+        },
+        {
+          "text": "Устроить праздник для детей.",
+          "trans": "To organize a holiday for children."
+        },
+        {
+          "text": "Он устроил беспорядки прямо на городской улице.",
+          "trans": "He caused disturbances right on the city street."
         }
       ],
       "related": [
@@ -5701,16 +5892,20 @@
       "meanings": [
         {
           "en": "well",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'well'."
+          "note": "How something is done. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         },
         {
           "en": "good, fine",
-          "note": "Secondary conversational sense ('good, fine') (as an answer) used in spoken Russian dialogue."
+          "note": "As an answer. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
+        {
+          "text": "Хорошо!",
+          "trans": "Good!"
+        },
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
@@ -5718,10 +5913,6 @@
         {
           "text": "Хорошо! Там всё нормально.",
           "trans": "Good! Everything's fine over there."
-        },
-        {
-          "text": "Хорошо, Виктор Петрович, я сейчас же всё переделаю заново!",
-          "trans": "All right, Viktor Petrovich, I will redo everything right now!"
         }
       ],
       "related": [
@@ -5743,13 +5934,13 @@
       "lemma": "хотеть",
       "stress": "хоте́ть",
       "pos": "verb",
+      "gloss": "to want",
       "aspect": "impf",
       "pair": "захотеть",
-      "gloss": "to want",
       "meanings": [
         {
           "en": "to want",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to want', forming an aspectual pair with 'захотеть'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
         }
       ],
       "forms": {
@@ -5842,12 +6033,12 @@
           "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
-          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
-          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
+          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
+          "note": "Case forms. Core Russian pron meaning 'I' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5908,12 +6099,12 @@
       ],
       "related": [
         {
-          "word": "мой",
-          "gloss": "my, mine"
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
         },
         {
-          "word": "мы",
-          "gloss": "we"
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     }

@@ -27,5 +27,5 @@
 | 13 | `realisateur` (Le réalisateur) | Action! Tout le monde est prêt. | Action! Everyone is ready. | 621:Cette pâleur spectrale |
 
 ## Part 5 — Outro & Closing
-> Gabriel manages to reassure the director about the stand-in's eerie performance on set. When you watch the episode, listen out for the expressions meaning 'look at' and 'silhouette'. You'll catch them now. See you next time.
+> Gabriel manages to reassure the director about the stand-in's eerie performance on set. When you watch the episode, listen out for the expressions meaning 'look at' and 'silhouette'. You'll catch them now. See you next time!
 - **Closing**: `realisateur`: *À demain!*

@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Эй, сосед, посмотри сюда в окно! | Hey, neighbor, look out the window here! | #213 00:15:39: Эй, алло | adapted: adapted |
-| 2 | Гость | Чего вам ещё от меня надо? | What else do you want from me? | #214 00:15:41: Что надо | adapted: adapted |
+| 2 | Шеф | Чего вам ещё от меня надо? | What else do you want from me? | #214 00:15:41: Что надо | adapted: adapted |
 | 3 | Шеф | Если не отдашь деньги, разобью машину! | If you do not give the money, I will smash the car! | #214 00:15:41: если не отдашь деньги | adapted: adapted |
 | 4 | Шеф | Я считаю ровно до трёх. | I am counting to three right now. | #216 00:15:49: Считаю, короче, до трех | adapted: adapted |
-| 5 | Гость | Только тронь там мою ласточку! | Just dare touch my little darling down there! | #217 00:15:51: мою ласточку | adapted: adapted |
+| 5 | Шеф | Только тронь там мою ласточку! | Just dare touch my little darling down there! | #217 00:15:51: мою ласточку | adapted: adapted |
 | 6 | Шеф | Раз, два, время уже идёт! | One, two, time is running out! | #218 00:15:52: Раз, два | adapted: adapted |
-| 7 | Гость | Да у тебя кишка тонка ударить! | You do not have the guts to hit it! | #219 00:15:54: Да у тебя кишка | adapted: adapted |
+| 7 | Шеф | Да у тебя кишка тонка ударить! | You do not have the guts to hit it! | #219 00:15:54: Да у тебя кишка | adapted: adapted |
 | 8 | Шеф | Держи, Максим, возьми это в руки. | Hold this, Maxim, take this in your hands. | #220 00:15:57: Возьмите | adapted: adapted |
 | 9 | Шеф | А теперь посмотри внимательно на меня! | And now look closely at me! | #221 00:15:58: Посмотри на меня | adapted: adapted |
 | 10 | Шеф | Ну, у кого там кишка тонка? | Well, who does not have the guts now? | #223 00:16:06: Ну, у кого там кишка-то тонка, а | adapted: adapted |
-| 11 | Гость | Слышь, ну ты реально крутой мужик. | Hey, you really are a tough guy. | #224 00:16:08: Слышь, ну ты реально крутой | adapted: adapted |
-| 12 | Гость | Только это вообще не моя тачка! | Except that is not my car at all! | #225 00:16:10: Только это не моя тачка | adapted: adapted |
+| 11 | Шеф | Слышь, ну ты реально крутой мужик. | Hey, you really are a tough guy. | #224 00:16:08: Слышь, ну ты реально крутой | adapted: adapted |
+| 12 | Шеф | Только это вообще не моя тачка! | Except that is not my car at all! | #225 00:16:10: Только это не моя тачка | adapted: adapted |
 | 13 | Аня | Шеф, вы чего сейчас наделали? | Chef, what have you just done? | #226 00:16:21: Чего сделал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

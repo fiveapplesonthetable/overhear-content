@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Денис, начинай играть, я думаю, инспектор сейчас спустится. | Denis, start playing, I think the inspector will come down right now. | #162 00:10:25: Денис, начинай играть. Я думаю, инспектор сейчас спустится | adapted: exact |
-| 2 | Сеня | Шикарно выглядишь сегодня. | You look sharp today. | #165 00:10:54: Шикарно выглядишь | adapted: adapted |
-| 3 | Аня | Я похож на старого инспектора? | Do I look like an old inspector? | #166 00:10:57: Я похож на старого инспектора? | adapted: exact |
+| 1 | Шеф | Денис, начинай играть, я думаю, инспектор сейчас спустится. | Denis, start playing, I think the inspector will come down right now. | #162 00:10:25: Денис, начинай играть. Я думаю, инспектор сейчас спустится | adapted: exact |
+| 2 | Настя | Шикарно выглядишь сегодня. | You look sharp today. | #165 00:10:54: Шикарно выглядишь | adapted: adapted |
+| 3 | Шеф | Я похож на старого инспектора? | Do I look like an old inspector? | #166 00:10:57: Я похож на старого инспектора? | adapted: exact |
 | 4 | Настя | Я подхожу, а он на меня как посмотрит! | I walk up, and the way he looks at me! | #168 00:11:29: подхожу, а он на меня как посмотрит | adapted: adapted |
 | 5 | Настя | Мне даже плохо стало. | I even felt faint. | #168 00:11:29: мне аж плохо стало | adapted: adapted |
-| 6 | Аня | Настя, что он заказал? | Nastya, what did he order? | #169 00:11:31: Настя! Что он заказал? | adapted: exact |
+| 6 | Шеф | Настя, что он заказал? | Nastya, what did he order? | #169 00:11:31: Настя! Что он заказал? | adapted: exact |
 | 7 | Настя | Филе голубя и блюдо из рыбы. | Fillet of pigeon and the fish dish. | #170 00:11:35: Голубя и | adapted: adapted |
-| 8 | Сеня | Сейчас приготовим, нам две звезды даст! | We will cook it right now, he will give us two stars! | #171 00:11:37: нам две звезды даст | adapted: adapted |
-| 9 | Аня | Готовить буду я, а ты мне дашь чистые ножи. | I will do the cooking, and you give me clean knives. | #172 00:11:40: готовить буду я, а ты мне<br>#172 00:11:40: чистые ножи | adapted: adapted |
-| 10 | Сеня | Шеф, а почему я? | Chef, why me? | #173 00:11:44: Шеф, а чего? | adapted: adapted |
-| 11 | Аня | Да, ты прав, ножи я тоже сам помою. | Yes, you are right, I will wash the knives myself too. | #173 00:11:44: Да, ты прав<br>#174 00:11:46: Ножи я тоже сам помою | adapted: adapted |
-| 12 | Аня | Сейчас папочка будет творить историю! | Right now Daddy is going to make history! | #176 00:11:49: Сейчас папочка будет творить историю | adapted: exact |
+| 8 | Настя | Сейчас приготовим, нам две звезды даст! | We will cook it right now, he will give us two stars! | #171 00:11:37: нам две звезды даст | adapted: adapted |
+| 9 | Шеф | Готовить буду я, а ты мне дашь чистые ножи. | I will do the cooking, and you give me clean knives. | #172 00:11:40: готовить буду я, а ты мне<br>#172 00:11:40: чистые ножи | adapted: adapted |
+| 10 | Настя | Шеф, а почему я? | Chef, why me? | #173 00:11:44: Шеф, а чего? | adapted: adapted |
+| 11 | Шеф | Да, ты прав, ножи я тоже сам помою. | Yes, you are right, I will wash the knives myself too. | #173 00:11:44: Да, ты прав<br>#174 00:11:46: Ножи я тоже сам помою | adapted: adapted |
+| 12 | Шеф | Сейчас папочка будет творить историю! | Right now Daddy is going to make history! | #176 00:11:49: Сейчас папочка будет творить историю | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

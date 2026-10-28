@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e18-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 9
-TITLE = 'Встреча с Родионом Сергеевичем на выкупе  (Meeting Rodion Sergeyevich at the Drop)'
+TITLE = "Встреча с Родионом Сергеевичем на выкупе  (Meeting Rodion Sergeyevich at the Drop)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'fedya': 'Федя', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "anya": "alisa"}
+LABELS = {"fedya": "Федя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = "Back at the kitchen, Max argues with Fedya about the contraband snails, while across town Kostya waits with Nastya's father at the ransom drop point. When homeless gentleman Rodion Sergeyevich walks up to collect the cash, Kostya cheerfully greets him by name."
 
 STORY = [
     ('anya', 'Извините меня.', 'Forgive me.', [(140, 'Извините меня')], ''),
     ('fedya', 'Нормальные они.', 'They are perfectly fine.', [(143, 'Нормальные они')], ''),
-    ('rodion', 'Я предположил.', 'I just made an assumption.', [(145, 'Я предположил')], ''),
+    ('fedya', 'Я предположил.', 'I just made an assumption.', [(145, 'Я предположил')], ''),
     ('anya', 'А что ты меня вообще слушаешь?', 'Why are you even listening to me in the first place?', [(146, 'А что ты меня вообще слушаешь')], ''),
     ('fedya', 'А если он не придет?', 'And what if he does not show up?', [(149, 'А если он не придет')], ''),
-    ('rodion', 'Придет, куда денется?', 'He will show up, where else would he go?', [(150, 'Придет, куда денется')], ''),
+    ('fedya', 'Придет, куда денется?', 'He will show up, where else would he go?', [(150, 'Придет, куда денется')], ''),
     ('anya', 'Бабки нужны, значит придет.', 'He needs the cash, which means he will show up.', [(151, 'Бабки нужны, значит придет')], ''),
     ('fedya', 'Константин, здравствуйте.', 'Konstantin, hello there.', [(153, 'Константин, здравствуйте')], ''),
-    ('rodion', 'А вы случайно пиво не пьете?', 'Do you happen to drink beer, by any chance?', [(154, 'А вы случайно пиво не пьете')], ''),
+    ('fedya', 'А вы случайно пиво не пьете?', 'Do you happen to drink beer, by any chance?', [(154, 'А вы случайно пиво не пьете')], ''),
     ('anya', 'Здравствуйте, Родион Сергеевич.', 'Hello, Rodion Sergeyevich.', [(154, 'Здравствуйте, Родион Сергеевич')], ''),
     ('fedya', 'Родион Сергеевич, какое пиво зимой на улице?', 'Rodion Sergeyevich, who drinks beer outside in the winter?', [(155, 'Родион Сергеевич, какое пиво зимой на улице')], ''),
-    ('rodion', 'Но видно.', 'Well, one can see.', [(157, 'Но видно')], ''),
+    ('fedya', 'Но видно.', 'Well, one can see.', [(157, 'Но видно')], ''),
     ('anya', 'Скажи мне, кто твой друг?', 'Tell me who your friend is.', [(159, 'Скажи мне, кто твой друг')], ''),
 ]
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 9 of Episode 18, listen out for the exchange around meeting rodion sergeyevich at the drop — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Скажи мне, кто твой друг?')
+OUTRO = 'That wraps up this scene as max realizes the replacement snails are also questionable, while at the ransom drop Kostya accidentally ruins the handoff by greeting Rodion Sergeyevich by name. Until next time!'
+CLOSING = ("anya", "До свидания!")

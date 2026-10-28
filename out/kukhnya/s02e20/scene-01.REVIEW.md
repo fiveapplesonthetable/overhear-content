@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Которого добивался почти год. | Which I worked for almost a year to achieve. | #1 00:00:22: которого добивался почти год | verbatim |
+| 1 | Шеф | Которого добивался почти год. | Which I worked for almost a year to achieve. | #1 00:00:22: которого добивался почти год | verbatim |
 | 2 | Тимур | И готов на все, чтобы его вернуть. | And I am ready to do anything to get it back. | #2 00:00:25: И готов на все, чтобы его вернуть | verbatim |
-| 3 | Аня | Тимур, привет. | Timur, hey there. | #3 00:00:31: Тимур, привет | verbatim |
+| 3 | Шеф | Тимур, привет. | Timur, hey there. | #3 00:00:31: Тимур, привет | verbatim |
 | 4 | Тимур | Что привез? | What did you bring today? | #4 00:00:33: Что привез | verbatim |
-| 5 | Аня | Кушать подано. | Breakfast is served. | #6 00:01:01: Кушать подано | verbatim |
+| 5 | Шеф | Кушать подано. | Breakfast is served. | #6 00:01:01: Кушать подано | verbatim |
 | 6 | Тимур | Что это? | What on earth is that? | #7 00:01:03: Что это | verbatim |
-| 7 | Аня | Я мастера вызову. | I will call a repairman. | #8 00:01:15: я мастера вызову | verbatim |
+| 7 | Шеф | Я мастера вызову. | I will call a repairman. | #8 00:01:15: я мастера вызову | verbatim |
 | 8 | Тимур | Я сам справлюсь. | I can handle it myself. | #8 00:01:15: Я сам справлюсь | verbatim |
-| 9 | Аня | Тут просто контакта нет. | There is simply a loose contact inside here. | #11 00:01:22: тут просто контакта нет | verbatim |
+| 9 | Шеф | Тут просто контакта нет. | There is simply a loose contact inside here. | #11 00:01:22: тут просто контакта нет | verbatim |
 | 10 | Тимур | Я говорю, люди мы с тобой взрослые. | I am saying, you and I are both grown adults. | #13 00:01:41: Я говорю, люди мы с тобой взрослые | verbatim |
-| 11 | Аня | Эй, Витя. | Hey, Vitya, watch out. | #15 00:01:47: Эй, Витя | verbatim |
+| 11 | Шеф | Эй, Витя. | Hey, Vitya, watch out. | #15 00:01:47: Эй, Витя | verbatim |
 | 12 | Тимур | Я не могу к тебе переехать. | I cannot move in with you. | #16 00:01:49: Я не могу к тебе переехать | verbatim |
-| 13 | Аня | Потому что я не могу к тебе переехать. | Because I simply cannot move in with you. | #17 00:01:51: Потому что я не могу к тебе переехать | verbatim |
+| 13 | Шеф | Потому что я не могу к тебе переехать. | Because I simply cannot move in with you. | #17 00:01:51: Потому что я не могу к тебе переехать | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

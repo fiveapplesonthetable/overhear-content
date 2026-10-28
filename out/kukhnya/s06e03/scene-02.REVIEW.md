@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | У нас перестановка, Дмитрий Владимирович. | We have a set change, Dmitry Vladimirovich. | #24 00:01:39: у нас перестановка, Дмитрий Владимирович | adapted: adapted |
-| 2 | Аня | Дима, завязывай этот балаган. | Dima, wrap up this circus. | #26 00:01:43: завязывай этот балаган | adapted: adapted |
+| 2 | Шеф | Дима, завязывай этот балаган. | Dima, wrap up this circus. | #26 00:01:43: завязывай этот балаган | adapted: adapted |
 | 3 | Нагиев | Витя, ну ты видишь, что творится? | Vitya, well do you see what is going on? | #27 00:01:47: ну, ты видишь, да, что творится? | adapted: adapted |
 | 4 | Нагиев | Иди, видишь, искусство поднимаем. | Go on, you see we are elevating art. | #30 00:01:54: иди, видишь, искусство поднимаем | adapted: adapted |
-| 5 | Аня | А если критик придет? | And what if a critic comes? | #31 00:01:59: А если критик | adapted: adapted |
+| 5 | Шеф | А если критик придет? | And what if a critic comes? | #31 00:01:59: А если критик | adapted: adapted |
 | 6 | Нагиев | Да никто не придет, я охрану выставлю. | Nobody will come, I will post security. | #32 00:02:03: Да никто не придет. Я охрану выставлю | adapted: exact |
 | 7 | Нагиев | Все, мне Эля разрешила. | That is it, Elya gave me permission. | #33 00:02:05: Все, мне Эля разрешила | adapted: exact |
 | 8 | Нагиев | Иди отсюда, не мешай. | Get out of here, do not get in the way. | #34 00:02:07: Иди отсюда | adapted: adapted |
-| 9 | Аня | А где у вас тут это в сценарии? | And where do you have that in the script? | #35 00:02:12: А где у вас тут | adapted: adapted |
+| 9 | Шеф | А где у вас тут это в сценарии? | And where do you have that in the script? | #35 00:02:12: А где у вас тут | adapted: adapted |
 | 10 | Нагиев | Это я импровизирую. | That is me improvising. | #36 00:02:15: Это я импровизирую | adapted: exact |
 | 11 | Нагиев | Давай, занимайся делом. | Go on, mind your own business. | #37 00:02:18: Давай, занимайся делом | adapted: exact |
 | 12 | Нагиев | Ребята, давайте соберемся! | Guys, let's focus! | #38 00:02:20: давайте соберемся | adapted: adapted |
@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'We have a set change, Dmitry Vladimirovich.' The grammar packs 'at' and 'reset' into a tight, idiomatic kitchen exchange.
 - 'Dima, wrap up this circus.' Here the Russian phrasing highlights 'Dima' before landing on 'farce'. Dmitry Nagiyev answers right away.
-- 'Vitya, well do you see what is going on?' Notice the reflexive suffix on the verb meaning 'is going on', turning the action back on the subject.
+- 'Vitya, well do you see what is going on?' Nagiyev pairs 'see' with 'is going on' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Go on, you see we are elevating art.' Dmitry Nagiyev anchors the line on 'go', while 'raise' completes the thought.
 - 'And what if a critic comes?' Chef Barinov raises the pitch on 'will arrive' to turn the phrase into a direct spoken question. Dmitry Nagiyev answers right away.
 - 'Nobody will come, I will post security.' Dmitry Nagiyev brings out the contrast between 'yes' and 'nobody' in a few short words.

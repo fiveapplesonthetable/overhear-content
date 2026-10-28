@@ -27,5 +27,5 @@
 | 13 | `igor` (Igor) | Je suis très impressionné par ton analyse. | I am very impressed by your analysis. | 949:pas été aussi impressionné, 950:profondément en désaccord |
 
 ## Part 5 — Outro & Closing
-> Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema. When you watch the episode, listen out for the expressions meaning 'read' and 'screenplay'. You'll catch them now. See you next time.
+> Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema. When you watch the episode, listen out for the expressions meaning 'read' and 'screenplay'. You'll catch them now. See you next time!
 - **Closing**: `igor`: *Au revoir!*

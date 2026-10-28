@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 19
-TITLE = "Le contrat et la taupe  (The Contract and the Mole)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le contrat et la taupe  (The Contract and the Mole)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "camille": "emilie"}
-LABELS = {"gabriel": "Gabriel", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'camille': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Mathias won't tell Andréa, so he certainly won't tell Camille. Her boss's only advice is one word: improvise. So Camille goes to the assistants' desks, where Noémie, Mathias's loyal assistant, is sitting alone. Listen to the whole scene in French first, and don't worry if some of it slips past you."
 OPENER = "Let's go back through it slowly. Camille arrives at the desks, looks around, and notices that the friendly assistant is missing."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Well done, that was a busy office, and if you keep only one thing, keep that small two-part negative wrapped around the verb, because it runs through the whole episode. See you next time!'
-CLOSING = ("gabriel", "Au revoir!")
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('camille', "Hervé n'est pas là?", 'Isn', [(538, "Hervé n'est pas là")], ''),
     ('camille', "Noémie, j'ai un problème.", 'Noémie, I have a problem.', [(539, 'Noémie'), (540, "J'ai un problème")], ''),

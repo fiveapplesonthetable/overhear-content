@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 14
-TITLE = 'Простые жизненные истины  (Simple Truths of Life)'
+TITLE = "Простые жизненные истины  (Simple Truths of Life)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'After seeing how the second timeline ends in tragedy, Max realizes the simple truths of life: tell people you love them, thank your teachers, and cherish your friends.'
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'God, what have you done right now?' Max brings out the contrast between 'God' and 'you' in a few short words."),
-    (1, None, "'I never thought that everything would end right like this.' Notice the reflexive suffix on the verb meaning 'will end', turning the action back on the subject."),
+    (1, None, "'I never thought that everything would end right like this.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (2, None, "'Our life turned out to be too short.' The grammar packs 'our' and 'short' into a tight, idiomatic kitchen exchange."),
     (3, None, "'I did not have time to understand simple truths.' Max anchors the line on 'I', while 'truths' completes the thought."),
     (4, None, "'If you love a person, tell them about it.' Notice how Russian expresses 'if' and 'this' with crisp inflection rather than helper words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene to a close. Listen out for how Max and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Но лучше поздно, чем никогда.')
+OUTRO = 'And that brings this scene to a close. Listen out for how Max and the team handle the pressure when you watch the episode. See you next time!'
+CLOSING = ("anya", "До встречи!")

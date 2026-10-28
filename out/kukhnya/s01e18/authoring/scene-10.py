@@ -1,87 +1,46 @@
-ID = "kukhnya-s01e18-scene-10"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e18-scene-10.
+ID = 'kukhnya-s01e18-scene-10'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 10
 TITLE = "Плохая рыба  (Bad Fish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "fedya": "anja"}
-LABELS = {"anya": "Сеня", "fedya": "Федя"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.18"
-SOURCE_FILE = "sources/kukhnya/s01/e18.ru.dual.srt"
-SOURCE_NOTE = "Scene 10"
-
-INTRO = "In the locker room, Fedya checks on Senya who is feeling very sick. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
+LABELS = {"fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
+SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
+INTRO = "In the locker room, Fedya checks on Senya, who feels terrible after eating spoiled fish he had hidden away. Fedya recalls his Navy days and suggests a strong drink as a remedy. Let's listen to their conversation in Russian first."
+OPENER = "Let's walk through Fedya and Senya's conversation line by line."
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = 'Regretting the spoiled fish, Senya heads toward the bar while promising never to steal food again. See you next time!'
+CLOSING = ("fedya", "Удачи!")
 STORY = [
-    ("fedya", "У тебя все хорошо?",
-     "Are you all right?",
-     [(1, "девушки")], "adapted"),
-    ("anya", "Нет, мне очень плохо.",
-     "No, I am very bad.",
-     [(1, "девушки")], "adapted"),
-    ("fedya", "Я же тебе говорил.",
-     "I told you.",
-     [(1, "девушки")], "adapted"),
-    ("fedya", "Не ешь эту рыбу.",
-     "Do not eat that fish.",
-     [(1, "девушки")], "adapted"),
-    ("anya", "Я думал, она нормальная.",
-     "I thought she was normal.",
-     [(1, "девушки")], "new"),
-    ("fedya", "Ты уголь пил?",
-     "Did you drink charcoal?",
-     [(1, "девушки")], "adapted"),
-    ("anya", "Ага, две пачки сожрал.",
-     "Yeah, I ate two packs.",
-     [(1, "девушки")], "adapted"),
-    ("fedya", "Ни хрена себе.",
-     "No shit.",
-     [(1, "девушки")], "adapted"),
-    ("anya", "У меня болит живот.",
-     "My stomach hurts.",
-     [(1, "девушки")], "new"),
-    ("fedya", "Тебе надо пойти домой.",
-     "You need to go home.",
-     [(1, "девушки")], "new"),
-    ("anya", "Я не могу работать сегодня.",
-     "I cannot work today.",
-     [(1, "девушки")], "new"),
-    ("fedya", "Иди домой и отдыхай.",
-     "Go home and rest.",
-     [(1, "девушки")], "new"),
+    ('fedya', 'Сеня, у тебя всё хорошо?', 'Senya, are you all right?', [(229, 'У тебя все хорошо')], ''),
+    ('senya', 'Нет, мне очень плохо.', 'No, I feel really bad.', [(230, 'Нет')], ''),
+    ('fedya', 'Я же тебе говорил, не ешь эту рыбу.', 'I told you not to eat that fish.', [(230, 'Я тебе говорил, не ешь эту рыбу')], ''),
+    ('fedya', 'Ты пил активированный уголь?', 'Did you take activated charcoal?', [(231, 'Ты уголь пил')], ''),
+    ('senya', 'Да, я уже выпил две пачки.', 'Yes, I already took two packs.', [(231, 'две пачки')], ''),
+    ('senya', 'Но мне это совсем не помогло.', 'But it did not help me at all.', [], ''),
+    ('fedya', 'Я когда на флоте служил, медузу нечаянно съел.', 'When I served in the Navy, I accidentally ate a jellyfish.', [(233, 'я когда на флоте служил'), (233, 'медузу один раз нечаянно съел')], ''),
+    ('fedya', 'Тогда боцман сразу налил мне крепкого.', 'Back then the boatswain immediately poured me a strong drink.', [(234, 'сразу не налил')], ''),
+    ('fedya', 'Слышишь, что я говорю?', 'Do you hear what I am saying?', [(235, 'Слышишь, что говорю')], ''),
+    ('fedya', 'Тебе надо выпить чего-нибудь крепкого.', 'You need to drink something strong.', [(235, 'чего-нибудь крепкого надо')], ''),
+    ('senya', 'Хорошо, сейчас пойду поищу в баре.', 'Alright, I will go look for some at the bar now.', [(236, 'сейчас пойду поищу')], ''),
+    ('senya', 'Если выживу, воровать продукты перестану!', 'If I survive, I will stop stealing food!', [(237, 'Если выживу, воровать перестану')], ''),
 ]
-
-OPENER = "Let us break down this interaction."
-
 WALK = [
-    (0, None,
-     "'Are you all right?' Fedya puts 'you' up front so the listener immediately catches the tone, followed by 'good'."),
-    (1, None,
-     "'No, I am very bad.' Notice the word order: 'to me' comes first, and 'badly' finishes the sentence. Fedya answers straight away."),
-    (2, None,
-     "'I told you.' Here 'I' sets up the idea, while 'said' comes at the end for emphasis."),
-    (3, None,
-     "'Do not eat that fish.' You'll hear 'eat' all the time in the show, here connected with 'fish'."),
-    (4, None,
-     "'I thought she was normal.' The key word here means 'I', which Senya combines with 'thought'. Then Fedya replies."),
-    (5, None,
-     "'Did you drink charcoal?' There is no question word here — in Russian, rising intonation on 'was drinking' is enough to make it a question."),
-    (6, None,
-     "'Yeah, I ate two packs.' Senya puts 'yeah' up front so the listener immediately catches the tone, followed by 'two'."),
-    (7, None,
-     "'No shit.' In Russian, 'horseradish' leads into 'yourself' in a very natural everyday phrasing. And Senya jumps in."),
-    (8, None,
-     "'My stomach hurts.' The first content word means 'me', and 'belly' rounds out the thought."),
-    (9, None,
-     "'You need to go home.' Listen for the word meaning 'for you' right alongside 'it is necessary' in this line."),
-    (10, None,
-     "'I cannot work today.' Listen for the word meaning 'I' right alongside 'can' in this line. Fedya answers straight away."),
-    (11, None,
-     "'Go home and rest.' A compact expression built around 'go' and 'rest'."),
+    (0, None, "'Senya, are you all right?' Fedya checks on his friend in the locker room."),
+    (1, None, "'No, I feel really bad.' Russians say 'to me is very bad' where we say 'I feel really bad'."),
+    (2, None, "'I told you not to eat that fish.' Fedya reminds Senya that he warned him about the spoiled fish."),
+    (3, None, "'Did you take activated charcoal?' In Russian, you 'drink' charcoal tablets rather than 'take' them."),
+    (4, None, "'Yes, I already took two packs.' Senya explains that he swallowed two whole packs of charcoal."),
+    (5, None, "'But it did not help me at all.' The medicine has not eased his stomachache."),
+    (6, None, "'When I served in the Navy, I accidentally ate a jellyfish.' Fedya shares one of his classic tall tales from his naval service."),
+    (7, None, "'Back then the boatswain immediately poured me a strong drink.' He claims the ship's boatswain saved him with strong spirits."),
+    (8, None, "'Do you hear what I am saying?' Fedya makes sure the miserable Senya is paying attention."),
+    (9, None, "'You need to drink something strong.' He advises Senya to find a strong drink at the bar."),
+    (10, None, "'Alright, I will go look for some at the bar now.' Senya agrees to go search for a drink."),
+    (11, None, "'If I survive, I will stop stealing food!' Miserable and regretful, Senya vows to give up pilfering kitchen ingredients."),
 ]
-
-TRANSITION = "Now let us listen to the conversation again without interruption."
-OUTRO = "Fedya shakes his head, knowing his friend should have listened to him."
-CLOSING = ("fedya", "Иди домой и отдыхай.")

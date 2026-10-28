@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e13-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 12
-TITLE = 'Паника у машины и звонок из полиции  (Panic by the Car and a Call from the Police)'
+TITLE = "Паника у машины и звонок из полиции  (Panic by the Car and a Call from the Police)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'Out in the courtyard, Nagiyev panics when the bound man in the car recognizes him as a celebrity and orders Senya and Fedya to hide him inside. Meanwhile at the police patrol car, Chef Barinov demands his phone call and asks the officers to ring Dmitry Nagiyev.'
 
 STORY = [
-    ('anya', 'Он же слышит всё!', 'He can hear everything!', [(184, 'Он же слышит всё')], ''),
+    ('nagiyev', 'Он же слышит всё!', 'He can hear everything!', [(184, 'Он же слышит всё')], ''),
     ('chef', 'Тамара Петровна!', 'Tamara Petrovna!', [(186, 'Тамара Петровна')], ''),
-    ('anya', 'Он меня узнал!', 'He recognized me!', [(187, 'Он меня узнал')], ''),
+    ('nagiyev', 'Он меня узнал!', 'He recognized me!', [(187, 'Он меня узнал')], ''),
     ('chef', 'Господи, он меня узнал.', 'Good Lord, he recognized me.', [(189, 'Господи, он меня узнал')], ''),
-    ('anya', 'Его нельзя здесь оставлять.', 'We cannot leave him here.', [(190, 'Его нельзя здесь оставлять')], ''),
+    ('nagiyev', 'Его нельзя здесь оставлять.', 'We cannot leave him here.', [(190, 'Его нельзя здесь оставлять')], ''),
     ('chef', 'Бери его, Тамара Петровна.', 'Grab him, Tamara Petrovna.', [(191, 'Бери его, Тамара Петровна')], ''),
-    ('anya', 'Я имею право на телефонный звонок.', 'I have the right to a phone call.', [(193, 'Я имею право на телефонный звонок')], ''),
+    ('nagiyev', 'Я имею право на телефонный звонок.', 'I have the right to a phone call.', [(193, 'Я имею право на телефонный звонок')], ''),
     ('chef', 'Позвоните Дмитрию Нагиеву.', 'Call Dmitry Nagiyev.', [(194, 'Позвоните Дмитрию Нагиеву')], ''),
-    ('anya', 'Он хозяин моего ресторана.', 'He is the owner of my restaurant.', [(195, 'Он хозяин моего ресторана')], ''),
+    ('nagiyev', 'Он хозяин моего ресторана.', 'He is the owner of my restaurant.', [(195, 'Он хозяин моего ресторана')], ''),
     ('chef', 'И он подтвердил, что я, это я.', 'And he will confirm that I am who I say I am.', [(196, 'И он подтвердил, что я, это я')], ''),
-    ('anya', 'Диктуй, наверное.', 'Go ahead and dictate the number, I guess.', [(200, 'Диктуй, наверное')], ''),
+    ('nagiyev', 'Диктуй, наверное.', 'Go ahead and dictate the number, I guess.', [(200, 'Диктуй, наверное')], ''),
     ('chef', 'Да ладно?', 'Are you serious?', [(202, 'Да ладно')], ''),
-    ('anya', 'Ну ладно.', 'Well, alright then.', [(204, 'Ну ладно')], ''),
+    ('nagiyev', 'Ну ладно.', 'Well, alright then.', [(204, 'Ну ладно')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 12 of Episode 13, listen out for the exchange around panic by the car and a call from the police — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ну ладно.')
+OUTRO = 'That wraps up this scene as nagiyev panics when the bound photographer recognizes him outside the restaurant, while detained Chef Barinov convinces the police to call Nagiyev to vouch for him. See you next time!'
+CLOSING = ("nagiyev", "Увидимся!")

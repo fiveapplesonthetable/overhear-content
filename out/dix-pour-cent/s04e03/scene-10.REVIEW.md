@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Nous allons passer du temps ensemble! | We are going to spend time together! | 428:C'est nul |
 
 ## Part 5 — Outro & Closing
-> Trapped inside the broken elevator, Gabriel struggles to breathe as panic overtakes him. When you watch the episode, listen out for the expressions meaning 'get in' and 'elevator'. You'll catch them now. See you next time.
+> Trapped inside the broken elevator, Gabriel struggles to breathe as panic overtakes him. When you watch the episode, listen out for the expressions meaning 'get in' and 'elevator'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

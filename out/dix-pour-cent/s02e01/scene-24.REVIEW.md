@@ -30,5 +30,5 @@
 | 16 | `catherine` (Catherine) | Je n'en peux plus. On divorce. | I cannot take it anymore. We are getting a divorce. | 761:Je n'en peux plus., 762:On divorce. |
 
 ## Part 5 — Outro & Closing
-> Catherine has drawn the line after years of betrayals and demands a divorce. Mathias must face the reality that his family life is slipping away. Until next time.
+> Catherine has drawn the line after years of betrayals and demands a divorce. Mathias must face the reality that his family life is slipping away. See you next time!
 - **Closing**: `catherine`: *À demain!*

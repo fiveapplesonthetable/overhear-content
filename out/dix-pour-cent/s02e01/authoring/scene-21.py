@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 21
 TITLE = "Virginie demande l'asile  (Virginie Asks for Asylum)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "virginie": "emilie", "gabriel": "theo"}
-LABELS = {"virginie": "Virginie", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'gabriel': 'theo'}
+LABELS = {'virginie': 'Virginie', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Hounded by paparazzi who are camped outside her sister's apartment, actress Virginie Efira bursts into the agency. Desperate for peace and safety, she begs Gabriel to let her sleep at his place for a couple of nights. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = 'Virginie secures a temporary shelter away from the paparazzi. Remember the useful idiom for expressing a need: avoir besoin de. See you next time!'
-CLOSING = ("virginie", "Bonne journée!")
+CLOSING = ('virginie', 'Bonne journée!')
 STORY = [
     ('virginie', "Je suis chez ma sœur, c'est l'horreur!", 'I am at my sister', [(641, "Je suis chez ma sœur, c'est l'horreur !")], ''),
     ('virginie', "Les paparazzi sont devant l'immeuble.", 'The paparazzi are in front of the building.', [(642, "Les paparazzi sont campés dans l'immeuble d'en face")], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 17
-TITLE = "Un nouveau rendez-vous  (A New Meeting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un nouveau rendez-vous  (A New Meeting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel"}
-LABELS = {"camille": "Camille", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the ASK agency, Camille Valentini lands an exciting movie audition for client Sophia Leprince. Meanwhile, Noemie calms Mathias's anxieties by pointing out that their boss's unusual silence means good news for their plans. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Confidence and quick thinking help agents navigate sudden opportunities and high-stakes rivalries at ASK. When you watch the episode, listen out for the expressions meaning 'hello' and 'project'. You'll catch them now. See you next time."
-CLOSING = ("camille", "C'est une très bonne journée.")
+OUTRO = "Confidence and quick thinking help agents navigate sudden opportunities and high-stakes rivalries at ASK. When you watch the episode, listen out for the expressions meaning 'hello' and 'project'. You'll catch them now. See you next time!"
+CLOSING = ('camille', "C'est une très bonne journée.")
 STORY = [
     ('camille', "Oui, bonjour, c'est pour quel projet?", 'Yes, hello, what project is it for?', [(753, 'bonjour'), (756, "C'est pour quel projet")], ''),
     ('camille', 'Sophia Leprince est une excellente comédienne.', 'Sophia Leprince is an excellent actress.', [(754, 'Sophia Leprince'), (755, 'comédienne de chez nous')], ''),

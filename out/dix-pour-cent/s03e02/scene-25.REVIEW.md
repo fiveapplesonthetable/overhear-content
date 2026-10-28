@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | Capito, c'est très clair! | Understood, that is very clear! | 1131:Capito |
 
 ## Part 5 — Outro & Closing
-> Bonding over the challenges of being single, Monica and Gabriel discover the healing power of genuine friendship while sharing tea in her kitchen. When you watch the episode, listen out for the expressions meaning 'makes' and 'weeks'. You'll catch them now. See you next time.
+> Bonding over the challenges of being single, Monica and Gabriel discover the healing power of genuine friendship while sharing tea in her kitchen. When you watch the episode, listen out for the expressions meaning 'makes' and 'weeks'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

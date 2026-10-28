@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Ладно, я пойду, мне уже собираться в дорогу надо. | Alright, I will go, I need to pack for my trip already. | #352 00:23:16: Мне собираться надо, самолет скоро | adapted: adapted |
-| 2 | Гость | У меня самолёт на север совсем скоро вылетает. | My plane for the north takes off very soon. | #352 00:23:16: самолет скоро | adapted: adapted |
-| 3 | Аня | Да ты не грусти, старик, всё будет хорошо! | Do not be sad, old friend, everything will be fine! | #353 00:23:19: Да ты не грусти, Вить | adapted: adapted |
-| 4 | Гость | Наверное, она меня всё-таки ещё немного любит. | She probably still loves me a little bit after all. | #354 00:23:21: Наверное, она меня все еще любит | adapted: adapted |
-| 5 | Гость | Прости меня, старик, и береги её как следует. | Forgive me, old friend, and take good care of her. | #355 00:23:25: Прости, старик | adapted: adapted |
-| 6 | Аня | Всем известно, что браки заключаются на небесах. | Everyone knows that marriages are made in heaven. | #355 00:23:25: Всем известно, что браки заключаются на небесах | adapted: adapted |
-| 7 | Аня | Даже если это уже ваш четвёртый счастливый брак! | Even if it is already your fourth happy marriage! | #356 00:23:29: даже если это ваш четвертый брак | adapted: adapted |
+| 1 | Шеф | Ладно, я пойду, мне уже собираться в дорогу надо. | Alright, I will go, I need to pack for my trip already. | #352 00:23:16: Мне собираться надо, самолет скоро | adapted: adapted |
+| 2 | Шеф | У меня самолёт на север совсем скоро вылетает. | My plane for the north takes off very soon. | #352 00:23:16: самолет скоро | adapted: adapted |
+| 3 | Шеф | Да ты не грусти, старик, всё будет хорошо! | Do not be sad, old friend, everything will be fine! | #353 00:23:19: Да ты не грусти, Вить | adapted: adapted |
+| 4 | Шеф | Наверное, она меня всё-таки ещё немного любит. | She probably still loves me a little bit after all. | #354 00:23:21: Наверное, она меня все еще любит | adapted: adapted |
+| 5 | Шеф | Прости меня, старик, и береги её как следует. | Forgive me, old friend, and take good care of her. | #355 00:23:25: Прости, старик | adapted: adapted |
+| 6 | Шеф | Всем известно, что браки заключаются на небесах. | Everyone knows that marriages are made in heaven. | #355 00:23:25: Всем известно, что браки заключаются на небесах | adapted: adapted |
+| 7 | Шеф | Даже если это уже ваш четвёртый счастливый брак! | Even if it is already your fourth happy marriage! | #356 00:23:29: даже если это ваш четвертый брак | adapted: adapted |
 | 8 | Елена | Ну что, Витя, тебе удалось подать документы? | Well then, Vitya, did you manage to submit the documents? | #365 00:24:08: подал заявление | adapted: adapted |
-| 9 | Аня | Да, сегодня я наконец подал заявление в ЗАГС! | Yes, today I finally submitted our application to the registry office! | #365 00:24:08: Сегодня подал заявление в ЗАГС | adapted: adapted |
-| 10 | Аня | Правда, наша очередь подойдёт только через три месяца. | True, our turn will come only in three months. | #366 00:24:11: Наша очередь подойдет через три месяца | adapted: adapted |
+| 9 | Шеф | Да, сегодня я наконец подал заявление в ЗАГС! | Yes, today I finally submitted our application to the registry office! | #365 00:24:08: Сегодня подал заявление в ЗАГС | adapted: adapted |
+| 10 | Шеф | Правда, наша очередь подойдёт только через три месяца. | True, our turn will come only in three months. | #366 00:24:11: Наша очередь подойдет через три месяца | adapted: adapted |
 | 11 | Елена | Ничего страшного, три месяца пролетят очень быстро. | That is alright, three months will fly by very quickly. | #366 00:24:11: через три месяца | adapted: adapted |
-| 12 | Аня | Главное — двигаться вместе в одном направлении! | The main thing is to move together in the same direction! | #368 00:24:19: двигаться по орбите в одном направлении | adapted: adapted |
+| 12 | Шеф | Главное — двигаться вместе в одном направлении! | The main thing is to move together in the same direction! | #368 00:24:19: двигаться по орбите в одном направлении | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

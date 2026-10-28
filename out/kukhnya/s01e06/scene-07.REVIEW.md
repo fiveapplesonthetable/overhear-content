@@ -1,39 +1,39 @@
-# kukhnya-s01e06-scene-07: review sheet
+# Шутки на кухне  (Jokes in the Kitchen) — `kukhnya-s01e06-scene-07`
 
-Title: Шутки на кухне  (Jokes in the Kitchen)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.06
+**Source:** Кухня (Kukhnya) S1.06 · `sources/kukhnya/s01/e06.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `louis` | anja | Луи |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the kitchen of Claude Monet, the staff must clean every corner ahead of a surprise health inspection. Pastry chef Louis playfully pretends to duel Max with a giant stick of sausage before they start wiping down the dusty storage shelves. Let's listen to their playful exchange in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Луи | Осторожно, ты пронзил меня своей колбасой! | Careful, you impaled me with your sausage! | #75 00:04:57: Ты пронзил меня своей колбасой | adapted: dramatizing a fake duel |
-| 2 | Макс | Луи, перестань так громко кричать. | Louis, stop screaming so loudly. | new | new: trying to calm him down |
-| 3 | Луи | Скажи Марии, что я любил её! | Tell Maria that I loved her! | #76 00:05:01: Скажи Марию, что я любил ее друг | adapted: feigning a tragic death |
-| 4 | Макс | Хватит умирать, нам нужно убирать кухню. | Stop dying, we need to clean the kitchen. | new | new: urging him to get to work |
-| 5 | Луи | Шеф заставляет нас мыть эти полки? | Does Chef force us to wash these shelves? | new | new: asking with mild reluctance |
-| 6 | Макс | Да, шеф требует идеальной чистоты везде. | Yes, Chef demands perfect cleanliness everywhere. | new | new: explaining the strict orders |
-| 7 | Луи | Тут пыль лежит уже целый год! | Dust has been lying here for a whole year! | new | new: commenting on the dirty shelves |
-| 8 | Макс | С открытия ресторана здесь никто не убирался. | Since the restaurant opened nobody cleaned here. | #77 00:05:09: Тут, наверное, с открытия никто не убирался | adapted: confirming the neglect |
-| 9 | Луи | Тогда бери скорее тряпку и воду. | Then take a rag and water quickly. | new | new: handing over cleaning supplies |
-| 10 | Макс | Я готов, давай закончим эту работу. | I am ready, let's finish this work. | new | new: stepping up to the task |
-| 11 | Луи | Главное, чтобы шеф был очень доволен. | The main thing is that Chef is very pleased. | new | new: hoping to avoid trouble |
-| 12 | Макс | Точно, иначе нам сильно достанется! | Exactly, otherwise we will really get it! | new | new: agreeing with caution |
+| 0 | Луи | Осторожно, ты пронзил меня своей колбасой! | Careful, you impaled me with your sausage! | #75 "Ты пронзил меня своей колбасой" |  |
+| 1 | Макс | Луи, перестань так громко кричать. | Louis, stop screaming so loudly. | *(added)* |  |
+| 2 | Луи | Скажи Марии, что я любил её! | Tell Maria that I loved her! | #76 "Скажи Марию, что я любил ее друг" |  |
+| 3 | Макс | Хватит умирать, нам нужно убирать кухню. | Stop dying, we need to clean the kitchen. | *(added)* |  |
+| 4 | Луи | Шеф заставляет нас мыть эти полки? | Does Chef force us to wash these shelves? | *(added)* |  |
+| 5 | Макс | Да, шеф требует идеальной чистоты везде. | Yes, Chef demands perfect cleanliness everywhere. | *(added)* |  |
+| 6 | Луи | Тут пыль лежит уже целый год! | Dust has been lying here for a whole year! | *(added)* |  |
+| 7 | Макс | С открытия ресторана здесь никто не убирался. | Since the restaurant opened nobody cleaned here. | #77 "Тут, наверное, с открытия никто не убирался" |  |
+| 8 | Луи | Тогда бери скорее тряпку и воду. | Then take a rag and water quickly. | *(added)* |  |
+| 9 | Макс | Я готов, давай закончим эту работу. | I am ready, let's finish this work. | *(added)* |  |
+| 10 | Луи | Главное, чтобы шеф был очень доволен. | The main thing is that Chef is very pleased. | *(added)* |  |
+| 11 | Макс | Точно, иначе нам сильно достанется! | Exactly, otherwise we will really get it! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Careful, you impaled me with your sausage!' Louis dramatically pretends to be mortally wounded in a playful duel.
-- 'Louis, stop screaming so loudly.' Max tries to quiet the flamboyant French pastry chef.
-- 'Tell Maria that I loved her!' Louis delivers an over-the-top final request as if taking his dying breath.
-- 'Stop dying, we need to clean the kitchen.' Max brings him back to reality before the inspection begins.
-- 'Does Chef force us to wash these shelves?' Louis sighs at the unglamorous cleaning assignment.
-- 'Yes, Chef demands perfect cleanliness everywhere.' Max reminds him of Viktor Barinov's fierce standards.
-- 'Dust has been lying here for a whole year!' Louis points out how thick the grime on the shelves really is.
-- 'Since the restaurant opened nobody cleaned here.' Max guesses that these storage spaces have never been touched.
-- 'Then take a rag and water quickly.' Louis gestures toward the bucket to get the chore started.
-- 'I am ready, let's finish this work.' Max sets to work with practical determination.
-- 'The main thing is that Chef is very pleased.' Louis hopes their hard work satisfies the temperamental head chef.
-- 'Exactly, otherwise we will really get it!' Max agrees that displeasing Barinov carries severe consequences.
+> After their playful banter, Max and Louis roll up their sleeves and tackle the dusty kitchen shelves. See you next time!
+
+**Макс:** Пока!

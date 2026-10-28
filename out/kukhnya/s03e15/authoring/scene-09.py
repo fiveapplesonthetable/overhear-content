@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 9
-TITLE = 'Перепутанные телефоны и ключи  (Mixed-Up Phones and Keys)'
+TITLE = "Перепутанные телефоны и ключи  (Mixed-Up Phones and Keys)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "In the corridor, Max bitterly accuses Vika of ruining their relationship by sleeping with Nagiyev. Then Kostya realizes he accidentally took Max's identical phone earlier—meaning Vika texted Kostya's number, not Max's! Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max realizes Vika only asked 'Who is this?' because he texted her from Kostya's phone! And in Scene Ten, Chef Barinov drops an even bigger bombshell on Max."
-CLOSING = ('anya', 'Ты не удалила мой номер?')
+OUTRO = "Max realizes Vika only asked 'Who is this?' because he texted her from Kostya's phone! And in Scene Ten, Chef Barinov drops an even bigger bombshell on Max. Until next time!"
+CLOSING = ("anya", "Увидимся!")

@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 6
 TITLE = "L'envie de partir  (The Desire to Leave)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Sitting together at the cafe terrace, Jean Reno opens his heart to Andrea. He reveals that he is weary of commercial cinema and longs for a simpler life with family and nature. Let's listen to their conversation in French first."
 OPENER = "Let's look at Jean Reno and Andrea discussing his retirement plans step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Despite Andrea's passionate pitch for a revolutionary historical drama, Jean Reno holds firm to his dream of leaving cinema behind for a peaceful life. When you watch the episode, listen out for the expressions meaning 'to talk' and 'worry'. You'll catch them now. See you next time."
-CLOSING = ("jean", "Au revoir!")
+OUTRO = "Despite Andrea's passionate pitch for a revolutionary historical drama, Jean Reno holds firm to his dream of leaving cinema behind for a peaceful life. When you watch the episode, listen out for the expressions meaning 'to talk' and 'worry'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'Au revoir!')
 STORY = [
     ('jean', 'Maintenant on peut enfin parler.', 'Now we can finally talk.', [(210, 'Maintenant on peut parler')], ''),
     ('lea', "Je m'inquiète beaucoup pour toi.", 'I am very worried about you.', [(211, "Je m'inquiète pour toi")], ''),

@@ -26,5 +26,5 @@
 | 12 | `mathias` (Mathias) | Au revoir, Ulrika. | Goodbye, Ulrika. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around your methods are revolting, and for the words meaning 'to have' and 'to say'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around your methods are revolting, and for the words meaning 'to have' and 'to say'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir.*

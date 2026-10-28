@@ -27,5 +27,5 @@
 | 13 | `arlette` (Arlette) | Garde ton calme aujourd'hui. | Keep your calm today. | 1057:Hein ? |
 
 ## Part 5 — Outro & Closing
-> Arlette's calm perspective reminds Gabriel of the deep history and emotional stakes at ASK. When you watch the episode, listen out for the expressions meaning 'is happening' and 'was looking for'. You'll catch them now. See you next time.
+> Arlette's calm perspective reminds Gabriel of the deep history and emotional stakes at ASK. When you watch the episode, listen out for the expressions meaning 'is happening' and 'was looking for'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *À bientôt!*

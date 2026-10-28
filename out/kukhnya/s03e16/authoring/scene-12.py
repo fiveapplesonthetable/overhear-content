@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 12
-TITLE = 'Ночная смена и игра в карты  (The Night Shift and a Card Game)'
+TITLE = "Ночная смена и игра в карты  (The Night Shift and a Card Game)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'To raise cash for the second-floor apartment, Nagiyev organizes a high-stakes night poker game at the restaurant and orders Chef Barinov and Katya to stay for a night shift and serve molecular fish ice cream! Listen to the Russian scene first.'
@@ -36,7 +36,7 @@ WALK = [
     (2, None, "'Alright then, Vitya, tonight you have a night shift.' Notice how Russian expresses 'so' and 'shift' with crisp inflection rather than helper words."),
     (3, None, "'Listen, Dima, is there no way to do it without Katya?' Notice how Russian expresses 'listen' and 'one must not' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away."),
     (4, None, "'No way, I already promised the guys there would be fish ice cream.' Here the Russian phrasing highlights 'in no way' before landing on 'ice cream'."),
-    (5, None, "'And what kind of event are you having tonight?' The grammar packs 'and' and 'event' into a tight, idiomatic kitchen exchange."),
+    (5, None, "'And what kind of event are you having tonight?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (6, None, "'Tonight I am going to play cards.' Notice how Russian expresses 'tonight' and 'to play' with crisp inflection rather than helper words."),
     (7, None, "'I will be playing with good, respected people.' Here the Russian phrasing highlights 'will be' before landing on 'people'."),
     (8, None, "'We need money, we are buying out the second floor, after all!' In Russian, the idea of 'money' flows naturally into 'are buying out' without extra filler words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov is appalled at the thought of karaoke above his French kitchen, and decides to make Senya and Fedya stay for the haunted night shift too! Let's hear Scene Thirteen."
-CLOSING = ('nagiyev', 'Сегодня ночная смена.')
+OUTRO = "Chef Barinov is appalled at the thought of karaoke above his French kitchen, and decides to make Senya and Fedya stay for the haunted night shift too! Let's hear Scene Thirteen. See you next time!"
+CLOSING = ("nagiyev", "Пока!")

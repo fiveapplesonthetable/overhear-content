@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Cette agence est complètement folle! | This agency is completely crazy! | 1313:je suis en veille |
 
 ## Part 5 — Outro & Closing
-> Camille and Herve share a moment of stunned realization in the empty hallway. When you watch the episode, listen out for the expressions meaning 'must' and 'confess'. You'll catch them now. See you next time.
+> Camille and Herve share a moment of stunned realization in the empty hallway. When you watch the episode, listen out for the expressions meaning 'must' and 'confess'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *À bientôt!*

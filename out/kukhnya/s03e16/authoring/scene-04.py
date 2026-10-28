@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 4
 TITLE = "Заговор Сени и Феди  (Senya and Fedya's Conspiracy)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'fedya': 'Федя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja", "anya": "alisa"}
+LABELS = {"senya": "Сеня", "fedya": "Федя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'In the locker room, we discover there is no ghost at all: Senya and Fedya invented the poltergeist so they can steal meat, nap in the shower, and blame everything on Grandpa Kirill! Listen to their conversation in Russian first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Senya and Fedya's pig-blood prank sends the staff running in terror—right as Chef Barinov and Katya return from the hospital in Scene Five!"
-CLOSING = ('senya', 'Можно на полтергейст свалить!')
+OUTRO = "Senya and Fedya's pig-blood prank sends the staff running in terror—right as Chef Barinov and Katya return from the hospital in Scene Five! See you next time!"
+CLOSING = ("senya", "Всего хорошего!")

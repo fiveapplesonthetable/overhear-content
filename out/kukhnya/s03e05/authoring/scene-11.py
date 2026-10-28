@@ -1,30 +1,30 @@
 ID = 'kukhnya-s03e05-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 11
-TITLE = 'Больной зуб и разговор с Викой  (A Toothache and a Talk with Vika)'
+TITLE = "Больной зуб и разговор с Викой  (A Toothache and a Talk with Vika)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = "Senya complains of a terrible toothache, though it is actually a new scheme to smuggle food in his cheek. Meanwhile, Vika marches into Chef Barinov's office."
 
 STORY = [
-    ('anya', 'Сеня, я понимаю, ты любишь жарить мясо.', 'Senya, I understand you love to fry meat.', [(156, 'я понимаю, ты любишь жарить мясо')], 'adapted'),
-    ('senya', 'Да иди ты, у меня зуб болит.', 'Oh go away, my tooth hurts.', [(157, 'Да иди ты, у меня зуб болит')], 'adapted'),
-    ('anya', 'Это тебя за то, что ты воруешь.', 'That is what you get for stealing.', [(158, 'За то, что ты воруешь')], 'adapted'),
-    ('senya', 'И что мне теперь делать?', 'And what should I do now?', [(159, 'теперь делать')], 'adapted'),
-    ('anya', 'А я знаю одно верное средство.', 'I know one sure remedy.', [(160, 'А я знаю одно средство')], 'adapted'),
-    ('anya', 'У нас на флоте так зубы лечили.', 'In the navy we treated teeth like that.', [(162, 'на флоте так зубы лечили')], 'adapted'),
-    ('anya', 'И боль сразу как рукой снимает.', 'And it takes the pain away immediately.', [(163, 'боль как рукой снимает')], 'adapted'),
+    ('chef', 'Сеня, я понимаю, ты любишь жарить мясо.', 'Senya, I understand you love to fry meat.', [(156, 'я понимаю, ты любишь жарить мясо')], 'adapted'),
+    ('vika', 'Да иди ты, у меня зуб болит.', 'Oh go away, my tooth hurts.', [(157, 'Да иди ты, у меня зуб болит')], 'adapted'),
+    ('chef', 'Это тебя за то, что ты воруешь.', 'That is what you get for stealing.', [(158, 'За то, что ты воруешь')], 'adapted'),
+    ('vika', 'И что мне теперь делать?', 'And what should I do now?', [(159, 'теперь делать')], 'adapted'),
+    ('chef', 'А я знаю одно верное средство.', 'I know one sure remedy.', [(160, 'А я знаю одно средство')], 'adapted'),
+    ('chef', 'У нас на флоте так зубы лечили.', 'In the navy we treated teeth like that.', [(162, 'на флоте так зубы лечили')], 'adapted'),
+    ('chef', 'И боль сразу как рукой снимает.', 'And it takes the pain away immediately.', [(163, 'боль как рукой снимает')], 'adapted'),
     ('vika', 'Витя, нам надо серьёзно поговорить.', 'Vitya, we need to have a serious talk.', [(165, 'Витя, надо поговорить')], 'adapted'),
-    ('anya', 'Ну давай, спокойно говори.', 'Well go ahead, speak calmly.', [(165, 'Говори')], 'adapted'),
+    ('chef', 'Ну давай, спокойно говори.', 'Well go ahead, speak calmly.', [(165, 'Говори')], 'adapted'),
     ('vika', 'Сначала выключи свой футбол.', 'First turn off your football.', [(166, 'Выключи свой футбол')], 'adapted'),
-    ('anya', 'Ты же просила выключить футбол.', 'You asked me to turn off football.', [(167, 'Ты просила выключить футбол')], 'adapted'),
+    ('chef', 'Ты же просила выключить футбол.', 'You asked me to turn off football.', [(167, 'Ты просила выключить футбол')], 'adapted'),
     ('vika', 'Бокс мне тоже совсем не нравится.', 'I do not like boxing at all either.', [(168, 'Бокс тоже не нравится')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov switches from football to boxing just to tease Vika before finally turning off the television.'
-CLOSING = ('anya', 'Ну пожалуйста, я выключил.')
+OUTRO = 'Chef Barinov switches from football to boxing just to tease Vika before finally turning off the television. Until next time!'
+CLOSING = ("chef", "Всего хорошего!")

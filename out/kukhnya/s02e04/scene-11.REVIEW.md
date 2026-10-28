@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дамы и господа. | Ladies and gentlemen. | #180 00:12:15: Дамы и господа | verbatim |
+| 1 | Шеф | Дамы и господа. | Ladies and gentlemen. | #180 00:12:15: Дамы и господа | verbatim |
 | 2 | Вика | Шеф-повара и писателя Вальдемара Барани. | Chef and author Valdemar Barani. | #181 00:12:20: шеф-повара и писателя Вальдемара Барани | verbatim |
-| 3 | Аня | Господа, только я не буду много говорить. | Gentlemen, I am not going to talk too much. | #182 00:12:27: Господа, только я не буду много говорить | verbatim |
+| 3 | Шеф | Господа, только я не буду много говорить. | Gentlemen, I am not going to talk too much. | #182 00:12:27: Господа, только я не буду много говорить | verbatim |
 | 4 | Вика | А то вам будет неинтересно читать мою книгу. | Otherwise it will not be interesting for you to read my book. | #183 00:12:29: а то вам будет неинтересно читать мою книгу | verbatim |
-| 5 | Аня | Сегодня я хочу представить вам свое любимое блюдо. | Today I want to present my favorite dish to you. | #184 00:12:31: Сегодня я хочу представить вам свое любимое блюдо | verbatim |
+| 5 | Шеф | Сегодня я хочу представить вам свое любимое блюдо. | Today I want to present my favorite dish to you. | #184 00:12:31: Сегодня я хочу представить вам свое любимое блюдо | verbatim |
 | 6 | Вика | Но мне понадобится помощник. | But I am going to need an assistant. | #187 00:12:42: Но мне понадобится помощник | verbatim |
-| 7 | Аня | Виктор Петрович? | Viktor Petrovich? | #188 00:12:45: Виктор Петрович | verbatim |
+| 7 | Шеф | Виктор Петрович? | Viktor Petrovich? | #188 00:12:45: Виктор Петрович | verbatim |
 | 8 | Вика | А как плезиром еще. | With pleasure, of course. | #189 00:12:49: А как плезиром еще | verbatim |
-| 9 | Аня | Наш шеф-повар только что стал су-шефом. | Our head chef just became a sous-chef. | #190 00:12:53: Наш шеф-повар только что стал су-шефом | verbatim |
+| 9 | Шеф | Наш шеф-повар только что стал су-шефом. | Our head chef just became a sous-chef. | #190 00:12:53: Наш шеф-повар только что стал су-шефом | verbatim |
 | 10 | Вика | Лучше им не мешать. | It is better not to get in their way. | #191 00:12:57: лучше им не мешать | verbatim |
-| 11 | Аня | Как говорится. | As the saying goes. | #191 00:12:57: как говорится | verbatim |
+| 11 | Шеф | Как говорится. | As the saying goes. | #191 00:12:57: как говорится | verbatim |
 | 12 | Вика | Ты смотри, а. | Just look at that. | #192 00:13:03: Ты смотри, а | verbatim |
-| 13 | Аня | Хочет шефа публично унизить. | He wants to humiliate the Chef in public. | #193 00:13:05: Хочет шефа публично унизить | verbatim |
+| 13 | Шеф | Хочет шефа публично унизить. | He wants to humiliate the Chef in public. | #193 00:13:05: Хочет шефа публично унизить | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

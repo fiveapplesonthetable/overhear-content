@@ -28,5 +28,5 @@
 | 14 | `mathias` (Mathias) | Depardieu buvait pour quitter Rodin! | Depardieu drank heavily to leave Rodin! | 501:sortir du personnage de Rodin |
 
 ## Part 5 — Outro & Closing
-> Comparing Jean Dujardin's crisis to Daniel Day-Lewis, the agency team debates how to coax their wild actor back into civilized society. When you watch the episode, listen out for the expressions meaning 'movie filming' and 'finished'. You'll catch them now. See you next time.
+> Comparing Jean Dujardin's crisis to Daniel Day-Lewis, the agency team debates how to coax their wild actor back into civilized society. When you watch the episode, listen out for the expressions meaning 'movie filming' and 'finished'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

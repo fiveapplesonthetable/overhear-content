@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And it seems they are calling you to the cloakroom.' Notice how Russian expresses 'and' and 'will call' with crisp inflection rather than helper words. the inspector answers right away.
 - 'What is going on?' Here the Russian phrasing highlights 'what' before landing on 'is happening'.
 - 'I looked into his eyes!' Max anchors the line on 'I', while 'looked at' completes the thought.
-- 'And do you know who I am?' The grammar packs 'and' and 'I' into a tight, idiomatic kitchen exchange. Max answers right away.
+- 'And do you know who I am?' the inspector centers this short reply on 'know', letting a few direct words carry the whole meaning.
 - 'A fraudster! You did not pay the bill!' Notice how Russian expresses 'con artist' and 'score' with crisp inflection rather than helper words.
 - 'Everything is fine!' In Russian, the idea of 'everything' flows naturally into 'normally' without extra filler words.

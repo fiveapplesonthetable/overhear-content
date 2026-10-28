@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e15-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 15
 SCENE = 4
-TITLE = 'Ссора с Шефом  (Quarrel with the Chef)'
+TITLE = "Ссора с Шефом  (Quarrel with the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lev': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'lev': 'Лёва', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.15'
 SOURCE_FILE = 'sources/kukhnya/s06/e15.ru.srt'
 
 INTRO = "When Lyova mentions that he slightly improved Chef Barinov's recipe, Chef Barinov explodes with anger and insults Lyova's hands. Offended by the outburst, Lyova agrees to write his resignation letter on the spot."
 
 STORY = [
-    ('anya', 'Хочешь на моих блюдах карьеру сделать?', 'Do you want to build a career on my dishes?', [(43, 'На моих блюдах хочешь себе карьеру сделать')], 'adapted'),
-    ('lev', 'Вообще-то я его немного сам доработал.', 'Actually, I improved it a little myself.', [(44, 'Вообще-то я его немного доработал')], 'adapted'),
-    ('anya', 'Не смей никогда дорабатывать мои блюда!', 'Never dare to modify my dishes!', [(46, 'Дорабатывать мои блюда')], 'adapted'),
-    ('anya', 'Сначала стань сам главным шефом ресторана!', 'First become the head chef of a restaurant yourself!', [(47, 'Станешь шефом')], 'adapted'),
-    ('anya', 'Тогда и будешь свои блюда дорабатывать!', 'Then you can modify your own dishes!', [(48, 'блюда дорабатывать')], 'adapted'),
-    ('lev', 'Значит, я плохо готовлю на кухне?', 'So I cook poorly in the kitchen?', [(49, 'Значит, у меня')], 'adapted'),
-    ('lev', 'А вы без моей помощи обойдётесь?', 'And will you manage without my help?', [(51, 'обойдетесь')], 'adapted'),
-    ('senya', 'Слушай, а может, он не уйдёт?', 'Listen, maybe he will not leave?', [(52, 'А может, еще не уйдет')], 'adapted'),
-    ('anya', 'Легко обойдусь, ты даже не беспокойся!', 'I will manage easily, do not even worry!', [(53, 'Обойдусь. Не беспокойся')], 'adapted'),
-    ('anya', 'Пиши заявление и уходи с кухни!', 'Write your resignation letter and leave the kitchen!', [(54, 'Пиши заявление')], 'adapted'),
-    ('lev', 'Хорошо, я прямо сейчас напишу заявление!', 'Fine, I will write the resignation letter right now!', [(55, 'И напишу')], 'adapted'),
-    ('senya', 'Жалко, кто теперь будет следить за порядком?', 'What a pity, who will keep order now?', [(58, 'Кто теперь будет за порядком следить')], 'adapted'),
+    ('chef', 'Хочешь на моих блюдах карьеру сделать?', 'Do you want to build a career on my dishes?', [(43, 'На моих блюдах хочешь себе карьеру сделать')], 'adapted'),
+    ('lyova', 'Вообще-то я его немного сам доработал.', 'Actually, I improved it a little myself.', [(44, 'Вообще-то я его немного доработал')], 'adapted'),
+    ('chef', 'Не смей никогда дорабатывать мои блюда!', 'Never dare to modify my dishes!', [(46, 'Дорабатывать мои блюда')], 'adapted'),
+    ('chef', 'Сначала стань сам главным шефом ресторана!', 'First become the head chef of a restaurant yourself!', [(47, 'Станешь шефом')], 'adapted'),
+    ('chef', 'Тогда и будешь свои блюда дорабатывать!', 'Then you can modify your own dishes!', [(48, 'блюда дорабатывать')], 'adapted'),
+    ('lyova', 'Значит, я плохо готовлю на кухне?', 'So I cook poorly in the kitchen?', [(49, 'Значит, у меня')], 'adapted'),
+    ('lyova', 'А вы без моей помощи обойдётесь?', 'And will you manage without my help?', [(51, 'обойдетесь')], 'adapted'),
+    ('lyova', 'Слушай, а может, он не уйдёт?', 'Listen, maybe he will not leave?', [(52, 'А может, еще не уйдет')], 'adapted'),
+    ('chef', 'Легко обойдусь, ты даже не беспокойся!', 'I will manage easily, do not even worry!', [(53, 'Обойдусь. Не беспокойся')], 'adapted'),
+    ('chef', 'Пиши заявление и уходи с кухни!', 'Write your resignation letter and leave the kitchen!', [(54, 'Пиши заявление')], 'adapted'),
+    ('lyova', 'Хорошо, я прямо сейчас напишу заявление!', 'Fine, I will write the resignation letter right now!', [(55, 'И напишу')], 'adapted'),
+    ('lyova', 'Жалко, кто теперь будет следить за порядком?', 'What a pity, who will keep order now?', [(58, 'Кто теперь будет за порядком следить')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Lyova storms off to write his resignation letter, while Chef Barinov stubbornly pretends he does not care. See you in the next scene.'
-CLOSING = ('lev', 'Я сейчас напишу заявление.')
+OUTRO = 'Lyova storms off to write his resignation letter, while Chef Barinov stubbornly pretends he does not care. See you next time!'
+CLOSING = ("lyova", "До свидания!")

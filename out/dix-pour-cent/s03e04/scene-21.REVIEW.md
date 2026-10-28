@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Les assurances feront simplement leur travail normal. | The insurances will simply do their normal work. | 1171:les assurances feront leur boulot |
 
 ## Part 5 — Outro & Closing
-> With Isabelle silenced by acute laryngitis, Gabriel and Andrea face the terrifying threat of an insurance investigation. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'morning'. You'll catch them now. See you next time.
+> With Isabelle silenced by acute laryngitis, Gabriel and Andrea face the terrifying threat of an insurance investigation. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'morning'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

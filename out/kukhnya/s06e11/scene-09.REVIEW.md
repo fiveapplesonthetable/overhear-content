@@ -12,14 +12,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Никита | Ну как ты себя чувствуешь, наш смелый боец? | Well how are you feeling, our brave fighter? | #156 00:09:11: Ну как ты, боец | adapted: adapted |
 | 2 | Никита | У нас появилась возможность вернуть ему старый долг. | We have a chance to pay him back the old debt. | #157 00:09:13: Тут появилась возможность вернуть ему | adapted: adapted |
-| 3 | Денис | Слушай, этот парень во дворе кошелёк потерял. | Listen, that guy lost his wallet in the courtyard. | #159 00:09:20: кошелек потерял | adapted: adapted |
-| 4 | Денис | Здесь лежит пропуск на работу, офис тут недалеко. | Here is an ID pass for work, the office is nearby. | #160 00:09:23: Здесь пропуск на работу, офис тут недалеко | adapted: adapted |
+| 3 | Никита | Слушай, этот парень во дворе кошелёк потерял. | Listen, that guy lost his wallet in the courtyard. | #159 00:09:20: кошелек потерял | adapted: adapted |
+| 4 | Никита | Здесь лежит пропуск на работу, офис тут недалеко. | Here is an ID pass for work, the office is nearby. | #160 00:09:23: Здесь пропуск на работу, офис тут недалеко | adapted: adapted |
 | 5 | Никита | Странно, но внутри денег ни рубля не было. | Strange, but inside there was not a single ruble of money. | #162 00:09:31: Да, и странно, денег ни рубля не было | adapted: adapted |
-| 6 | Денис | Давай я ему скажу, что Света мне не нужна. | Let me tell him that I do not need Sveta. | #165 00:09:42: Давай я ему скажу, что Света мне не нужна | adapted: adapted |
-| 7 | Денис | И что он должен скорее с ней помириться. | And that he should make peace with her soon. | #165 00:09:42: и он должен с ней помириться | adapted: adapted |
-| 8 | Аня | Никита, скажи, ну и куда мы сейчас идём? | Nikita, tell me, well where are we going right now? | #168 00:09:59: Ну и куда мы идем | adapted: adapted |
+| 6 | Никита | Давай я ему скажу, что Света мне не нужна. | Let me tell him that I do not need Sveta. | #165 00:09:42: Давай я ему скажу, что Света мне не нужна | adapted: adapted |
+| 7 | Никита | И что он должен скорее с ней помириться. | And that he should make peace with her soon. | #165 00:09:42: и он должен с ней помириться | adapted: adapted |
+| 8 | Катя | Никита, скажи, ну и куда мы сейчас идём? | Nikita, tell me, well where are we going right now? | #168 00:09:59: Ну и куда мы идем | adapted: adapted |
 | 9 | Никита | Подожди немного, сейчас ты сама всё узнаешь. | Wait a little, right now you will find out everything yourself. | #169 00:10:00: Сейчас ты все узнаешь | adapted: adapted |
-| 10 | Аня | Если там будут цветы и свечи, я сразу уйду. | If there are flowers and candles there, I will leave right away. | #170 00:10:03: Если там будет музыка, цветы и свечи, я развернусь и уйду | adapted: adapted |
+| 10 | Катя | Если там будут цветы и свечи, я сразу уйду. | If there are flowers and candles there, I will leave right away. | #170 00:10:03: Если там будет музыка, цветы и свечи, я развернусь и уйду | adapted: adapted |
 | 11 | Никита | Папа, добрый день, я хочу тебя познакомить. | Dad, good afternoon, I want to introduce you. | #171 00:10:09: Пап, хочу тебя познакомить | adapted: adapted |
 | 12 | Никита | Познакомься, пожалуйста, это Катя, моя любимая девушка! | Meet her, please, this is Katya, my beloved girlfriend! | #172 00:10:14: Это Катя, моя девушка | adapted: adapted |
 

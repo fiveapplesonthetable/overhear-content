@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ребята! Здравствуйте! Ты моя хорошая. | Guys! Hello! You are my good girl. | #28 00:02:22: Ребята<br>#29 00:02:25: Ты моя хорошая | adapted: adapted |
-| 2 | Аня | Да, мне очень нравится, как ты работаешь. | Yes, I really like how you work. | #31 00:02:32: Да, мне очень, очень нравится, как ты работаешь | adapted: adapted |
-| 3 | Аня | Молодец! А кому премия, Виктория Сергеевна? | Well done! And who gets a bonus, Viktoria Sergeyevna? | #32 00:02:36: Молодец. А кому премия, Виктория Сергеевна | verbatim |
-| 4 | Аня | Кому премия? | Who gets a bonus? | #33 00:02:39: Кому премия | verbatim |
-| 5 | Аня | Народу много в зале? | Are there many people in the dining room? | #36 00:02:48: Народу много в зале | verbatim |
-| 6 | Вика | Человек пятнадцать. | About fifteen people. | #37 00:02:50: Человек | adapted: adapted |
-| 7 | Аня | Господа, всем шампанского хорошего! | Ladies and gentlemen, good champagne for everyone! | #38 00:02:51: Господа, всем шампанского хорошего | verbatim |
-| 8 | Вика | Спасибо! | Thank you! | #39 00:02:54: Спасибо | verbatim |
-| 9 | Вика | Дмитрий Владимирович, а позвольте узнать повод? | Dmitry Vladimirovich, may I ask the occasion? | #40 00:02:57: Дмитрий Владимирович, а позвольте узнать повод | verbatim |
-| 10 | Аня | Ну, позволю! | Well, I will allow it! | #41 00:03:00: позволю | adapted: adapted |
-| 11 | Аня | Всем шампанского за мой счёт! | Champagne for everyone on my tab! | #38 00:02:51: всем шампанского | adapted: adapted |
-| 12 | Вика | Отличная новость! | Wonderful news! | #32 00:02:36: Молодец | adapted: adapted |
+| 1 | Нагиев | Ребята! Здравствуйте! Ты моя хорошая. | Guys! Hello! You are my good girl. | #28 00:02:22: Ребята<br>#29 00:02:25: Ты моя хорошая | adapted: adapted |
+| 2 | Нагиев | Да, мне очень нравится, как ты работаешь. | Yes, I really like how you work. | #31 00:02:32: Да, мне очень, очень нравится, как ты работаешь | adapted: adapted |
+| 3 | Нагиев | Молодец! А кому премия, Виктория Сергеевна? | Well done! And who gets a bonus, Viktoria Sergeyevna? | #32 00:02:36: Молодец. А кому премия, Виктория Сергеевна | verbatim |
+| 4 | Нагиев | Кому премия? | Who gets a bonus? | #33 00:02:39: Кому премия | verbatim |
+| 5 | Нагиев | Народу много в зале? | Are there many people in the dining room? | #36 00:02:48: Народу много в зале | verbatim |
+| 6 | Нагиев | Человек пятнадцать. | About fifteen people. | #37 00:02:50: Человек | adapted: adapted |
+| 7 | Нагиев | Господа, всем шампанского хорошего! | Ladies and gentlemen, good champagne for everyone! | #38 00:02:51: Господа, всем шампанского хорошего | verbatim |
+| 8 | Нагиев | Спасибо! | Thank you! | #39 00:02:54: Спасибо | verbatim |
+| 9 | Нагиев | Дмитрий Владимирович, а позвольте узнать повод? | Dmitry Vladimirovich, may I ask the occasion? | #40 00:02:57: Дмитрий Владимирович, а позвольте узнать повод | verbatim |
+| 10 | Нагиев | Ну, позволю! | Well, I will allow it! | #41 00:03:00: позволю | adapted: adapted |
+| 11 | Нагиев | Всем шампанского за мой счёт! | Champagne for everyone on my tab! | #38 00:02:51: всем шампанского | adapted: adapted |
+| 12 | Нагиев | Отличная новость! | Wonderful news! | #32 00:02:36: Молодец | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

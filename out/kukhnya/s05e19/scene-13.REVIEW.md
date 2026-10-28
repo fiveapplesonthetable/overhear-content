@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Сеня | Нет блокнота — значит, нет и скандала. | No notebook means no scandal either. | #225 00:16:17: Нет блокнота, нет скандала | adapted: adapted |
-| 2 | Аня | Никита, признавайся, это твоя записка? | Nikita, admit it, is this your note? | #227 00:16:27: Твоя записка | adapted: adapted |
-| 3 | Никита | Да, моя, просто хотел сюрприз устроить. | Yes, mine, I just wanted to arrange a surprise. | #228 00:16:30: Моя<br>#229 00:16:33: просто хотел сюрприз устроить | adapted: adapted |
-| 4 | Аня | Очень смешно, говори быстро, где машина? | Very funny, tell me quickly, where is the car? | #230 00:16:34: Очень смешно. Где машина | adapted: adapted |
-| 5 | Аня | Ты совсем дурак, где моя машина? | Are you a complete fool, where is my car? | #232 00:16:39: Ты что, совсем дурак? Где моя машина | adapted: adapted |
-| 6 | Никита | Я не знаю, это записка для Кати. | I do not know, this note is for Katya. | #233 00:16:41: Я не знаю, где ваша машина. Это записка для Кати | adapted: adapted |
-| 7 | Никита | Я просто хотел романтический вечер устроить. | I simply wanted to arrange a romantic evening. | #234 00:16:44: Я хотел романтический вечер устроить | adapted: adapted |
-| 8 | Аня | Извини, у меня дорогую машину угнали. | Sorry, an expensive car was stolen from me. | #235 00:16:47: Извини, мне машину угнали | adapted: adapted |
-| 9 | Аня | Она целых восемь миллионов стоит, и не моя. | It costs a full eight million, and it is not mine. | #236 00:16:51: миллионов стоит<br>#237 00:16:53: Да ещё не моя | adapted: adapted |
-| 10 | Никита | Подождите, а ключ от машины у вас есть? | Wait, do you have the key to the car? | #239 00:16:56: А ключ есть | adapted: adapted |
-| 11 | Никита | В ключе содержится вся информация по машине. | The key holds all the information about the car. | #241 00:17:01: в этом ключе содержится вся информация по машине | adapted: adapted |
-| 12 | Никита | Можно через спутник определить, где она находится. | We can locate where it is via satellite. | #242 00:17:04: можно через спутник определить, где она находится | adapted: adapted |
-| 13 | Аня | Так звони скорее своему другу в салон! | Then call your friend at the dealership right away! | #243 00:17:07: У меня просто друг есть в салоне<br>#244 00:17:10: Так звони | adapted: adapted |
+| 2 | Шеф | Никита, признавайся, это твоя записка? | Nikita, admit it, is this your note? | #227 00:16:27: Твоя записка | adapted: adapted |
+| 3 | Шеф | Да, моя, просто хотел сюрприз устроить. | Yes, mine, I just wanted to arrange a surprise. | #228 00:16:30: Моя<br>#229 00:16:33: просто хотел сюрприз устроить | adapted: adapted |
+| 4 | Шеф | Очень смешно, говори быстро, где машина? | Very funny, tell me quickly, where is the car? | #230 00:16:34: Очень смешно. Где машина | adapted: adapted |
+| 5 | Шеф | Ты совсем дурак, где моя машина? | Are you a complete fool, where is my car? | #232 00:16:39: Ты что, совсем дурак? Где моя машина | adapted: adapted |
+| 6 | Шеф | Я не знаю, это записка для Кати. | I do not know, this note is for Katya. | #233 00:16:41: Я не знаю, где ваша машина. Это записка для Кати | adapted: adapted |
+| 7 | Шеф | Я просто хотел романтический вечер устроить. | I simply wanted to arrange a romantic evening. | #234 00:16:44: Я хотел романтический вечер устроить | adapted: adapted |
+| 8 | Шеф | Извини, у меня дорогую машину угнали. | Sorry, an expensive car was stolen from me. | #235 00:16:47: Извини, мне машину угнали | adapted: adapted |
+| 9 | Шеф | Она целых восемь миллионов стоит, и не моя. | It costs a full eight million, and it is not mine. | #236 00:16:51: миллионов стоит<br>#237 00:16:53: Да ещё не моя | adapted: adapted |
+| 10 | Шеф | Подождите, а ключ от машины у вас есть? | Wait, do you have the key to the car? | #239 00:16:56: А ключ есть | adapted: adapted |
+| 11 | Шеф | В ключе содержится вся информация по машине. | The key holds all the information about the car. | #241 00:17:01: в этом ключе содержится вся информация по машине | adapted: adapted |
+| 12 | Шеф | Можно через спутник определить, где она находится. | We can locate where it is via satellite. | #242 00:17:04: можно через спутник определить, где она находится | adapted: adapted |
+| 13 | Шеф | Так звони скорее своему другу в салон! | Then call your friend at the dealership right away! | #243 00:17:07: У меня просто друг есть в салоне<br>#244 00:17:10: Так звони | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

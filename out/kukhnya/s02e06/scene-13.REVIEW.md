@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Так, Илья, хватит ржать. | All right, Ilya, stop laughing. | #208 00:13:46: Так, Илья, хватит ржать | verbatim |
-| 2 | Кристина | Кристина-то где должна быть? | Where is Kristina supposed to be? | #209 00:13:50: Кристина-то где должна быть | verbatim |
+| 1 | Нагиев | Так, Илья, хватит ржать. | All right, Ilya, stop laughing. | #208 00:13:46: Так, Илья, хватит ржать | verbatim |
+| 2 | Илья | Кристина-то где должна быть? | Where is Kristina supposed to be? | #209 00:13:50: Кристина-то где должна быть | verbatim |
 | 3 | Илья | Быстро на своё место встречать гостей. | Get back to your post quickly to greet the guests. | #210 00:13:52: Быстро на своё место встречать гостей | verbatim |
-| 4 | Аня | Девочки, живы, живы, вза. | Girls, look alive, hurry up. | #211 00:13:56: Девочки, живы, живы, вза | verbatim |
-| 5 | Кристина | Сами сделаем. | We will do it ourselves. | #212 00:13:59: Сами сделаем | verbatim |
+| 4 | Нагиев | Девочки, живы, живы, вза. | Girls, look alive, hurry up. | #211 00:13:56: Девочки, живы, живы, вза | verbatim |
+| 5 | Илья | Сами сделаем. | We will do it ourselves. | #212 00:13:59: Сами сделаем | verbatim |
 | 6 | Илья | Добрый день. | Good afternoon. | #213 00:14:07: Добрый день | verbatim |
-| 7 | Аня | Я бы её отфритюрил. | I would definitely take her for a spin. | #215 00:14:20: Я бы её отфритюрил | verbatim |
-| 8 | Кристина | Я бы её тоже отфритюрил. | I would take her for a spin too. | #216 00:14:22: Я бы её тоже отфритюрил | verbatim |
+| 7 | Нагиев | Я бы её отфритюрил. | I would definitely take her for a spin. | #215 00:14:20: Я бы её отфритюрил | verbatim |
+| 8 | Илья | Я бы её тоже отфритюрил. | I would take her for a spin too. | #216 00:14:22: Я бы её тоже отфритюрил | verbatim |
 | 9 | Илья | Только она птица. | Except she is a high-flying bird. | #217 00:14:24: Только она птица | verbatim |
-| 10 | Аня | Мы для неё никто. | To her, we are nobodies. | #218 00:14:26: Мы для неё никто | verbatim |
-| 11 | Кристина | Слушай, а ты кто вообще? | Listen, who even are you? | #219 00:14:28: Слушай, а ты кто вообще | verbatim |
+| 10 | Нагиев | Мы для неё никто. | To her, we are nobodies. | #218 00:14:26: Мы для неё никто | verbatim |
+| 11 | Илья | Слушай, а ты кто вообще? | Listen, who even are you? | #219 00:14:28: Слушай, а ты кто вообще | verbatim |
 | 12 | Илья | Здравствуйте, Дмитрий Владимирович. | Hello, Dmitry Vladimirovich. | #221 00:14:42: Здравствуйте, Дмитрий Владимирович | verbatim |
-| 13 | Аня | Я тоже рад вас видеть, Кристина. | I am glad to see you too, Kristina. | #222 00:14:47: Я тоже рад вас видеть, Кристина | verbatim |
+| 13 | Нагиев | Я тоже рад вас видеть, Кристина. | I am glad to see you too, Kristina. | #222 00:14:47: Я тоже рад вас видеть, Кристина | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

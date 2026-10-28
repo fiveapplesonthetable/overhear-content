@@ -25,5 +25,5 @@
 | 11 | `arlette` (Arlette) | Au revoir, mon chien. | Goodbye, my dog. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around the best death, and for the words meaning 'to be' and 'dead'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around the best death, and for the words meaning 'to be' and 'dead'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *À bientôt!*

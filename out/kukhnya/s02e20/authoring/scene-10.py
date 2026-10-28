@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 10
 TITLE = "Макс в роли гостя и гордость Насти  (Max Poses as a Guest and Nastya's Pride)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'Determined to get an audience with Viktor Petrovich, Max sits down at a table in the dining room and has a waiter summon the head chef to speak with a guest—only to get thrown out again. Meanwhile, Nastya asks Vika to stop helping Kostya plan his proposal.'
 
 STORY = [
-    ('anya', 'А что, Елена Павловна?', 'Well, how about that, Elena Pavlovna?', [(168, 'А что, Елена Павловна')], ''),
+    ('chef', 'А что, Елена Павловна?', 'Well, how about that, Elena Pavlovna?', [(168, 'А что, Елена Павловна')], ''),
     ('vika', 'Я принимаю условия вашей игры.', 'I accept the terms of your little game.', [(169, 'Я принимаю условия вашей игры')], ''),
-    ('kostya', 'Шеф, вас там гость зовет.', 'Chef, a guest out in the dining room is asking for you.', [(170, 'Шеф, вас там гость зовет')], ''),
-    ('anya', 'Здравствуйте, вы хотели меня видеть.', 'Hello, you wanted to see me?', [(171, 'Здравствуйте, вы хотели меня видеть')], ''),
+    ('chef', 'Шеф, вас там гость зовет.', 'Chef, a guest out in the dining room is asking for you.', [(170, 'Шеф, вас там гость зовет')], ''),
+    ('chef', 'Здравствуйте, вы хотели меня видеть.', 'Hello, you wanted to see me?', [(171, 'Здравствуйте, вы хотели меня видеть')], ''),
     ('vika', 'Здравствуйте, Никита Петрович.', 'Hello there, Viktor Petrovich.', [(172, 'Здравствуйте, Никита Петрович')], ''),
-    ('kostya', 'Хотя, помните, у вас работал молодой повар?', 'By the way, do you remember a young cook who used to work for you?', [(174, 'Хотя, помните, у вас работал молодой повар')], ''),
-    ('anya', 'Быстро вон из ресторана.', 'Get out of this restaurant right now.', [(176, 'Быстро вон из ресторана')], ''),
+    ('chef', 'Хотя, помните, у вас работал молодой повар?', 'By the way, do you remember a young cook who used to work for you?', [(174, 'Хотя, помните, у вас работал молодой повар')], ''),
+    ('chef', 'Быстро вон из ресторана.', 'Get out of this restaurant right now.', [(176, 'Быстро вон из ресторана')], ''),
     ('vika', 'Ну-ну, стой.', 'Hold on, wait a second.', [(178, 'Ну-ну, стой')], ''),
-    ('kostya', 'Химчистку мы вам оплатим.', 'We will gladly pay for your dry cleaning.', [(182, 'Химчистку мы вам оплатим')], ''),
-    ('anya', 'Я поняла, Костя.', 'I understand, Kostya.', [(183, 'Я поняла, Костя')], ''),
+    ('chef', 'Химчистку мы вам оплатим.', 'We will gladly pay for your dry cleaning.', [(182, 'Химчистку мы вам оплатим')], ''),
+    ('chef', 'Я поняла, Костя.', 'I understand, Kostya.', [(183, 'Я поняла, Костя')], ''),
     ('vika', 'Настя, ты не могла бы выйти?', 'Nastya, could you step out for a moment?', [(184, 'Настя, ты не могла бы выйти')], ''),
-    ('kostya', 'Виктория Сергеевна, вы не должны помогать Косте.', 'Viktoriya Sergeyevna, you must not help Kostya with this.', [(186, 'Виктория Сергеевна, вы не должны помогать Косте')], ''),
-    ('anya', 'Он мужчина и сам должен сделать мне предложение.', 'He is a man and must propose to me on his own.', [(187, 'Он мужчина и сам должен сделать мне предложение')], ''),
+    ('chef', 'Виктория Сергеевна, вы не должны помогать Косте.', 'Viktoriya Sergeyevna, you must not help Kostya with this.', [(186, 'Виктория Сергеевна, вы не должны помогать Косте')], ''),
+    ('chef', 'Он мужчина и сам должен сделать мне предложение.', 'He is a man and must propose to me on his own.', [(187, 'Он мужчина и сам должен сделать мне предложение')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 10 of Episode 20, listen out for the exchange around max poses as a guest and nastya's pride — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Я поняла, Костя.')
+OUTRO = 'That wraps up this scene as max sits at a dining room table pretending to be a guest so Chef Barinov has to come out and speak with him, while Nastya tells Vika not to help Kostya propose. See you next time!'
+CLOSING = ("chef", "До встречи!")

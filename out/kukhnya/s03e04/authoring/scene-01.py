@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e04-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 4
 SCENE = 1
-TITLE = 'Повара и официанты  (Cooks and Waiters)'
+TITLE = "Повара и официанты  (Cooks and Waiters)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja'}
-LABELS = {'anya': 'Макс', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "fedya": "anja"}
+LABELS = {"anya": "Макс", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.04'
 SOURCE_FILE = 'sources/kukhnya/s03/e04.ru.srt'
 
 INTRO = 'In Episode Four of Season Three, Max explains why cooks cannot stand waiters—and why the most annoying waiter of all is a former cook who criticizes every plate at the pass.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes our opening scene. Listen for how Max's chef instincts make him critique Fedya's plating and alienate his old kitchen friends."
-CLOSING = ('fedya', 'Не надо трогать блюдо!')
+OUTRO = "And that finishes our opening scene. Listen for how Max's chef instincts make him critique Fedya's plating and alienate his old kitchen friends. Until next time!"
+CLOSING = ("fedya", "До завтра!")

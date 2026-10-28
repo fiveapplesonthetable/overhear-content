@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 26
-TITLE = "Dix sur dix  (Ten out of Ten)"
-LEVEL = "A1 — débutant"
+TITLE = 'Dix sur dix  (Ten out of Ten)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "laura": "emilie", "lea": "lucie"}
-LABELS = {"laura": "Laura", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'laura': 'emilie', 'lea': 'lucie'}
+LABELS = {'laura': 'Laura', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Solveig's own lines are told by me; you'll hear only the mother and the daughter. And listen out: in this scene, mother and daughter speak to each other with the polite 'you'. Afterwards, in the lift, they give the director their answer. As always, French first. Let the argument carry you. Let's listen to the scene in French first."
 OPENER = "Let's go through it. Solveig has just told them they clearly don't want to work together, and Nathalie turns to her daughter."
 TRANSITION = 'Now listen to the whole argument once more.'
-OUTRO = "Mother and daughter fight, make up, and turn down the film together. Remember the polite 'you' between them, and the little pairs of words that make a sentence negative. See you soon."
-CLOSING = ("laura", "À bientôt!")
+OUTRO = "Mother and daughter fight, make up, and turn down the film together. Remember the polite 'you' between them, and the little pairs of words that make a sentence negative. See you next time!"
+CLOSING = ('laura', 'À bientôt!')
 STORY = [
     ('lea', 'Vous ne voulez pas travailler avec moi?', 'You don', [(687, 'Vous ne voulez pas travailler avec moi')], ''),
     ('laura', "Non, ce n'est pas vrai du tout.", 'No, that', [(688, "Non, ce n'est pas vrai du tout")], ''),

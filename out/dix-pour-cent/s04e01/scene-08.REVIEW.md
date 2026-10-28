@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Adieu Mathias, et bon vent à toi! | Farewell Mathias, and godspeed to you! | 508:Mathias |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the agency key. When you watch the episode, listen out for the expressions meaning 'doors' and 'the elevator'. You'll catch them now. See you next time.
+> That's it for this scene around the agency key. When you watch the episode, listen out for the expressions meaning 'doors' and 'the elevator'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

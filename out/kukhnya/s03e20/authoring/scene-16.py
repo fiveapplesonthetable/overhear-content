@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 16
-TITLE = 'Быстрая роспись и тост за молодых  (A Speedy Marriage and a Toast to the Newlyweds)'
+TITLE = "Быстрая роспись и тост за молодых  (A Speedy Marriage and a Toast to the Newlyweds)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "Right at the altar, Nastya's contractions begin! Refusing to leave for the maternity hospital unmarried, Nastya and Kostya race through their vows and rings in record time before speeding off to have their baby."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Kostya and Nastya speed off to the maternity hospital, the staff returns to Claude Monet to celebrate—until Andrey Mikhailovich walks in.'
-CLOSING = ('anya', 'Давайте выпьем за наших молодых!')
+OUTRO = 'While Kostya and Nastya speed off to the maternity hospital, the staff returns to Claude Monet to celebrate—until Andrey Mikhailovich walks in. See you next time!'
+CLOSING = ("anya", "Увидимся!")

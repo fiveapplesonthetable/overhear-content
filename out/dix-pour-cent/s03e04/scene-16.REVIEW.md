@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | C'est une proposition très intéressante, Mathias. | That is a very interesting proposal, Mathias. | 883:Un peu comme cette nuit |
 
 ## Part 5 — Outro & Closing
-> Following an exhausting night of cinema acrobatics, Mathias and Gabriel discover an unexpected shared goal. When you watch the episode, listen out for the expressions meaning 'assistance' and 'valuable'. You'll catch them now. See you next time.
+> Following an exhausting night of cinema acrobatics, Mathias and Gabriel discover an unexpected shared goal. When you watch the episode, listen out for the expressions meaning 'assistance' and 'valuable'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

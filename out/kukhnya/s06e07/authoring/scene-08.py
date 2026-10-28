@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e07-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 8
-TITLE = 'Коктейль «Вишенка»  (The Cherry Cocktail)'
+TITLE = "Коктейль «Вишенка»  (The Cherry Cocktail)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Костя', 'nikita': 'Никита', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "elena": "angelina"}
+LABELS = {"nikita": "Никита", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
 
 INTRO = "Because young Lyova took the lab tests in Victor's place, Elena hears astonishing news from the doctor, while at the bar Kostya plots to neutralize Nikita."
@@ -21,11 +21,11 @@ STORY = [
     ('nikita', 'С тобой сегодня вечером так весело!', 'It is so much fun with you tonight!', [(145, 'С тобой так весело')], 'adapted'),
     ('nikita', 'Костя, только много мне не наливай.', 'Kostya, just do not pour me too much.', [(149, 'Много не лей')], 'adapted'),
     ('nikita', 'Я ещё хочу проводить Катю домой.', 'I still want to walk Katya home.', [(149, 'Я еще хочу Катю проводить')], 'adapted'),
-    ('anya', 'Может, тогда выпьешь что-нибудь полегче?', 'Maybe then you will drink something lighter?', [(150, 'может, тогда вообще что-нибудь полегче')], 'adapted'),
-    ('anya', 'Начальник, доверься в этом деле профессионалу.', 'Boss, trust a professional in this matter.', [(151, 'Начальник, доверьте профессионалу')], 'adapted'),
-    ('anya', 'Я сделаю тебе свой фирменный коктейль.', 'I will make you my signature cocktail.', [(152, 'коктейль, называется')], 'adapted'),
+    ('nikita', 'Может, тогда выпьешь что-нибудь полегче?', 'Maybe then you will drink something lighter?', [(150, 'может, тогда вообще что-нибудь полегче')], 'adapted'),
+    ('nikita', 'Начальник, доверься в этом деле профессионалу.', 'Boss, trust a professional in this matter.', [(151, 'Начальник, доверьте профессионалу')], 'adapted'),
+    ('nikita', 'Я сделаю тебе свой фирменный коктейль.', 'I will make you my signature cocktail.', [(152, 'коктейль, называется')], 'adapted'),
     ('nikita', 'Что это за интересный коктейль такой?', 'What kind of interesting cocktail is that?', [(153, 'Что за коктейль такой')], 'adapted'),
-    ('anya', 'Угощайся, это подарок за счёт заведения.', 'Enjoy, it is a gift on the house.', [(156, 'За счет заведения')], 'adapted'),
+    ('nikita', 'Угощайся, это подарок за счёт заведения.', 'Enjoy, it is a gift on the house.', [(156, 'За счет заведения')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Hoping to knock Nikita out cold before he can walk Katya home, Kostya slides his lethal layered cocktail across the bar. See you in the next scene.'
-CLOSING = ('nikita', 'У нас его нет в меню.')
+OUTRO = 'Hoping to knock Nikita out cold before he can walk Katya home, Kostya slides his lethal layered cocktail across the bar. See you next time!'
+CLOSING = ("nikita", "Хорошего дня!")

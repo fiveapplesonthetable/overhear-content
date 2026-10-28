@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сюрпризы у тебя какие-то странные. | Your surprises are rather strange. | #283 00:21:19: Сюрпризы какие-то странные | adapted: adapted |
+| 1 | Катя | Сюрпризы у тебя какие-то странные. | Your surprises are rather strange. | #283 00:21:19: Сюрпризы какие-то странные | adapted: adapted |
 | 2 | Никита | Подожди здесь буквально на минуту. | Wait right here for literally a minute. | #284 00:21:21: на минуту | adapted: adapted |
 | 3 | Никита | Ты тут парня с гитарой не видел? | Did you see a guy with a guitar around here? | #285 00:21:28: с гитарой не видел | adapted: adapted |
 | 4 | Никита | Только что отсюда быстро выбежал. | He just ran out of here quickly. | #286 00:21:30: Выбежал | adapted: adapted |
-| 5 | Аня | Мама, а ты что здесь делаешь? | Mom, what are you doing here? | #287 00:21:37: Мама | adapted: adapted |
-| 6 | Элеонора | Можешь не ждать его, он не вернётся. | You need not wait for him, he will not return. | #288 00:21:44: не ждать его. Он не вернется | adapted: adapted |
-| 7 | Элеонора | Зачем ты наступаешь на те же грабли? | Why do you keep making the exact same mistake? | #289 00:21:48: Зачем ты наступаешь на одни и те же грабли | adapted: adapted |
-| 8 | Элеонора | Ведь у вас однажды уже не получилось. | After all, it already failed once for you two. | #290 00:21:51: Ведь однажды уже не получилось | adapted: adapted |
-| 9 | Аня | Мама, перестань, не лезь в мою жизнь! | Mom, stop it, stay out of my life! | #291 00:21:53: Мам, перестань. Не лезь в мою жизнь | adapted: adapted |
-| 10 | Аня | Для начала наведи порядок в своей жизни. | First put your own life in order. | #292 00:21:56: Для начала наведи порядок | adapted: adapted |
+| 5 | Катя | Мама, а ты что здесь делаешь? | Mom, what are you doing here? | #287 00:21:37: Мама | adapted: adapted |
+| 6 | Катя | Можешь не ждать его, он не вернётся. | You need not wait for him, he will not return. | #288 00:21:44: не ждать его. Он не вернется | adapted: adapted |
+| 7 | Катя | Зачем ты наступаешь на те же грабли? | Why do you keep making the exact same mistake? | #289 00:21:48: Зачем ты наступаешь на одни и те же грабли | adapted: adapted |
+| 8 | Катя | Ведь у вас однажды уже не получилось. | After all, it already failed once for you two. | #290 00:21:51: Ведь однажды уже не получилось | adapted: adapted |
+| 9 | Катя | Мама, перестань, не лезь в мою жизнь! | Mom, stop it, stay out of my life! | #291 00:21:53: Мам, перестань. Не лезь в мою жизнь | adapted: adapted |
+| 10 | Катя | Для начала наведи порядок в своей жизни. | First put your own life in order. | #292 00:21:56: Для начала наведи порядок | adapted: adapted |
 | 11 | Никита | Катя, подожди, это я его позвал. | Katya, wait, I was the one who invited him. | #285 00:21:28: с гитарой | adapted: adapted |
-| 12 | Аня | Я хочу побыть сейчас совсем одна. | I want to be completely alone right now. | #291 00:21:53: Не лезь в мою жизнь | adapted: adapted |
+| 12 | Катя | Я хочу побыть сейчас совсем одна. | I want to be completely alone right now. | #291 00:21:53: Не лезь в мою жизнь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

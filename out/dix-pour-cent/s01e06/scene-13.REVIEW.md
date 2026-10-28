@@ -27,5 +27,5 @@
 | 13 | `christophe` (Christophe) | Je ne suis pas mauvais. | I am not bad. | 375:Je ne suis pas mauvais |
 
 ## Part 5 — Outro & Closing
-> Andréa thinks she can charm Christophe into saving the play, while Colette is slowly moving into her apartment. Keep the phrase for pride in mind: love of oneself. Join us next time to see what happens next.
+> Andréa thinks she can charm Christophe into saving the play, while Colette is slowly moving into her apartment. Keep the phrase for pride in mind: love of oneself. See you next time!
 - **Closing**: `christophe`: *À bientôt!*

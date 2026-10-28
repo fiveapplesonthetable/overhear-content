@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e01-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 1
 SCENE = 14
-TITLE = 'Ставка на таракана  (Betting on a Cockroach)'
+TITLE = "Ставка на таракана  (Betting on a Cockroach)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.01'
 SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 
 INTRO = 'Instead of tossing a coin, Chef Barinov and Mikhail head to the back room to settle their rivalry with a high-stakes cockroach race: the loser must obey the winner completely. Listen to the race.'
 
 STORY = [
-    ('anya', 'Что, мы сейчас обязательно выиграем?', 'So, will we definitely win right now?', [(227, 'сейчас обязательно')], 'adapted'),
+    ('chef', 'Что, мы сейчас обязательно выиграем?', 'So, will we definitely win right now?', [(227, 'сейчас обязательно')], 'adapted'),
     ('senya', 'Я дал вам самого лучшего.', 'I gave you the very best one.', [(228, 'дал вам')], 'adapted'),
-    ('anya', 'Выиграю я — будешь моим рабом.', 'If I win, you will be my servant.', [(229, 'Выиграю я, будешь моим рабом')], 'verbatim'),
-    ('mikhail', 'Хорошо, я согласен на это.', 'Alright, I agree to that.', [(230, 'Тогда если выиграю я')], 'adapted'),
-    ('mikhail', 'Если выиграю я, ты подчиняешься мне.', 'If I win, you obey me.', [(230, 'если выиграю я, ты'), (230, 'мне')], 'adapted'),
-    ('mikhail', 'Ты и ресторан подчиняетесь мне.', 'You and the restaurant report to me.', [(230, 'ты и ресторан подчиняетесь мне')], 'verbatim'),
-    ('anya', 'Давай начинай!', 'Go ahead and start!', [(231, 'Давай')], 'adapted'),
+    ('chef', 'Выиграю я — будешь моим рабом.', 'If I win, you will be my servant.', [(229, 'Выиграю я, будешь моим рабом')], 'verbatim'),
+    ('chef', 'Хорошо, я согласен на это.', 'Alright, I agree to that.', [(230, 'Тогда если выиграю я')], 'adapted'),
+    ('chef', 'Если выиграю я, ты подчиняешься мне.', 'If I win, you obey me.', [(230, 'если выиграю я, ты'), (230, 'мне')], 'adapted'),
+    ('chef', 'Ты и ресторан подчиняетесь мне.', 'You and the restaurant report to me.', [(230, 'ты и ресторан подчиняетесь мне')], 'verbatim'),
+    ('chef', 'Давай начинай!', 'Go ahead and start!', [(231, 'Давай')], 'adapted'),
     ('senya', 'И приготовились все сейчас.', 'And everyone get ready now.', [(232, 'все')], 'adapted'),
     ('senya', 'Начали! Давай, давай!', 'Started! Come on, come on!', [(233, 'Начали! Давай, давай!')], 'verbatim'),
-    ('anya', 'Пошёл, пошёл, быстрее вперёд!', 'Go, go, faster forward!', [(234, 'Пошел, пошел')], 'adapted'),
-    ('mikhail', 'Ну, что я тебе говорил?', 'Well, what did I tell you?', [(235, 'Ну, что я говорил?')], 'adapted'),
-    ('anya', 'Ну какое же ты чудовище!', 'What a monster you are!', [(235, 'ты чудовище!')], 'adapted'),
+    ('chef', 'Пошёл, пошёл, быстрее вперёд!', 'Go, go, faster forward!', [(234, 'Пошел, пошел')], 'adapted'),
+    ('chef', 'Ну, что я тебе говорил?', 'Well, what did I tell you?', [(235, 'Ну, что я говорил?')], 'adapted'),
+    ('chef', 'Ну какое же ты чудовище!', 'What a monster you are!', [(235, 'ты чудовище!')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the high-stakes cockroach race. Notice the conditional structure without 'if' in 'win I, you will be my servant'. See you in the next scene."
-CLOSING = ('mikhail', 'Сегодня удача на моей стороне!')
+OUTRO = "And that finishes the high-stakes cockroach race. Notice the conditional structure without 'if' in 'win I, you will be my servant'. See you next time!"
+CLOSING = ("chef", "До свидания!")

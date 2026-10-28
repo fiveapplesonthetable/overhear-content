@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | В нашем отеле сотрудники не пьют на рабочем месте. | In our hotel employees do not drink at the workplace. | #119 00:08:49: В нашем отеле сотрудники не пьют на рабочем месте | adapted: adapted |
+| 1 | Костя | В нашем отеле сотрудники не пьют на рабочем месте. | In our hotel employees do not drink at the workplace. | #119 00:08:49: В нашем отеле сотрудники не пьют на рабочем месте | adapted: adapted |
 | 2 | Аня | Может, все номера обыскать? | Maybe we should search all the rooms? | #126 00:09:12: Может, все номера обыскать | adapted: adapted |
 | 3 | Аня | Я как раз уже фоторобот составил. | I have just put together a sketch. | #128 00:09:19: Я как раз уже<br>#128 00:09:19: составил | adapted: adapted |
 | 4 | Костя | Очень смешно! А по-моему, похож. | Very funny! In my opinion, it looks like him. | #129 00:09:22: Очень смешно. А, по-моему, похож | adapted: adapted |
 | 5 | Костя | Можно мне американо с молоком? | Can I have an Americano with milk? | #131 00:09:28: Можно мне американо с молоком | adapted: adapted |
 | 6 | Аня | Вы проходите, садитесь, мы сейчас вам принесём. | Go ahead and sit down, we will bring it to you right now. | #132 00:09:31: вы проходите, садитесь, мы сейчас вам принесем | adapted: adapted |
-| 7 | Шеф | Садись в такси, чтобы я тебя больше не видел! | Get in the taxi so that I do not see you anymore! | #134 00:09:40: Садись в такси, чтоб я тебя больше<br>#134 00:09:40: не видел | adapted: adapted |
-| 8 | Шеф | Витя, ты был бы отличным управляющим отеля. | Vitya, you would be an excellent hotel manager. | #135 00:09:44: Витя, ты был бы отличным управляющим отеля | adapted: adapted |
+| 7 | Костя | Садись в такси, чтобы я тебя больше не видел! | Get in the taxi so that I do not see you anymore! | #134 00:09:40: Садись в такси, чтоб я тебя больше<br>#134 00:09:40: не видел | adapted: adapted |
+| 8 | Костя | Витя, ты был бы отличным управляющим отеля. | Vitya, you would be an excellent hotel manager. | #135 00:09:44: Витя, ты был бы отличным управляющим отеля | adapted: adapted |
 | 9 | Костя | Какой у нас план? | What is our plan? | #138 00:09:53: Какой у нас план | adapted: adapted |
 | 10 | Аня | Надо его выманить и без лишнего шума взять. | We need to lure him out and grab him without extra noise. | #139 00:09:55: Надо его выманить и без лишнего шума взять | adapted: adapted |
 | 11 | Костя | Он же гипнотизёр! Он тебе в глаза посмотрит. | He is a hypnotist! He will look into your eyes. | #140 00:09:58: Он же гипнотизер. Он тебе в глаза посмотрит | adapted: adapted |

@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Ева | Привет тебе снова, добрый человек. | Hello to you again, good man. | #242 00:16:37: Привет тебе | adapted: adapted |
-| 2 | Аня | Слушай, я хотел с тобой посоветоваться. | Listen, I wanted to ask your advice. | #243 00:16:41: Слушай, я посоветоваться хотел | adapted: adapted |
+| 2 | Шеф | Слушай, я хотел с тобой посоветоваться. | Listen, I wanted to ask your advice. | #243 00:16:41: Слушай, я посоветоваться хотел | adapted: adapted |
 | 3 | Ева | Да ладно, ты сначала успокойся. | Come on, calm down first. | #245 00:16:45: Да ладно, ты успокойся | adapted: adapted |
 | 4 | Ева | Я тебе сейчас сама всё расскажу. | I will tell you everything myself right now. | #245 00:16:45: Я тебе сама все расскажу | adapted: adapted |
 | 5 | Ева | Ты сомневаешься, брать деньги или нет? | Are you doubting whether to take the money or not? | #247 00:16:52: Ты сомневаешься, брать деньги или не брать | adapted: adapted |
 | 6 | Ева | Не бери чужие деньги, плохо будет. | Do not take the money, it will end badly. | #248 00:16:56: Не бери. Плохо будет | adapted: adapted |
-| 7 | Аня | Я так и знал с самого начала! | I knew it from the very beginning! | #249 00:16:59: Я так и знал | adapted: adapted |
+| 7 | Шеф | Я так и знал с самого начала! | I knew it from the very beginning! | #249 00:16:59: Я так и знал | adapted: adapted |
 | 8 | Ева | Постой, вижу человека в тёмном костюме. | Wait, I see a man in a dark suit. | #250 00:17:01: Вижу опять человека | adapted: adapted |
 | 9 | Ева | Бери деньги и смело следуй за ним. | Take the money and boldly follow him. | #251 00:17:04: Бери деньги и следуй за ним | adapted: adapted |
 | 10 | Ева | Он сделает тебе намного больше денег. | He will make you much more money. | #252 00:17:07: сделает больше денег<br>#253 00:17:09: Намного больше денег | adapted: adapted |
-| 11 | Аня | Всё понял, спасибо тебе огромное! | Understood everything, thank you so much! | #253 00:17:09: Понял, понял<br>#254 00:17:12: Спасибо | adapted: adapted |
-| 12 | Катя | В номер заказали молекулярный ужин. | A molecular dinner was ordered to the room. | #255 00:17:18: заказали маникулярный сет | adapted: adapted |
+| 11 | Шеф | Всё понял, спасибо тебе огромное! | Understood everything, thank you so much! | #253 00:17:09: Понял, понял<br>#254 00:17:12: Спасибо | adapted: adapted |
+| 12 | Ева | В номер заказали молекулярный ужин. | A molecular dinner was ordered to the room. | #255 00:17:18: заказали маникулярный сет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

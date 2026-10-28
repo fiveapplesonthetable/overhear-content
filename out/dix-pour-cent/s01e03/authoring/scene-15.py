@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 15
-TITLE = "Mère et fille, trois mois  (Mother and Daughter, Three Months)"
-LEVEL = "A1 — débutant"
+TITLE = 'Mère et fille, trois mois  (Mother and Daughter, Three Months)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "nathalie": "emilie"}
-LABELS = {"mathias": "Mathias", "nathalie": "Nathalie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'nathalie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'nathalie': 'Nathalie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Both have read Solveig Akerfelt's script, and while they are face to face they pretend to be delighted. Yet the moment they step out of the lift, each actress pulls her own agent aside for a private word in his office. Listen to the French first, and don't worry about catching every word."
 OPENER = "Let's go through it line by line. Mother and daughter are in the lift, each waiting for the other to blink first."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'So neither mother nor daughter wants to spend three months trapped with the other, and next they have to confess it in the same room. See you next time!'
-CLOSING = ("mathias", "Bonne journée!")
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('nathalie', "C'est un super scénario, non?", 'It', [(340, "C'est un super scénario, non")], ''),
     ('mathias', "Oui, c'est fort! Mais tu n'aimes pas le froid.", "Yes, it's powerful! But you don't like the cold.", [(341, "C'est fort"), (343, "Tu n'aimes pas le froid")], ''),

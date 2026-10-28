@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 18
-TITLE = 'Приезд обоих хозяев  (Both Owners Arrive)'
+TITLE = "Приезд обоих хозяев  (Both Owners Arrive)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'Nagiyev and Kristina both storm into the restaurant after guests call them to complain. Chef Barinov tries to hide, and then a brawl erupts in the hall. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -17,15 +17,15 @@ STORY = [
     ('nagiyev', 'Что здесь происходит, я вас спрашиваю?', 'What is going on here, I am asking you?', [(287, 'что здесь, я спрашиваю')], 'adapted'),
     ('nagiyev', 'Почему мне люди звонят и жалуются, что здесь бардак?', 'Why are people calling me and complaining that there is a mess here?', [(288, 'Почему мне люди звонят и жалуются, что здесь бардак')], 'adapted'),
     ('nagiyev', 'Я обещал и я всё сделал, а где Витя?', 'I promised and I did everything, and where is Vitya?', [(290, 'Я обещал, я сделал. А где Витя')], 'adapted'),
-    ('kristina', 'Дима, ты что здесь сейчас делаешь?', 'Dima, what are you doing here right now?', [(292, 'Ты что здесь делаешь')], 'adapted'),
-    ('kristina', 'Почему мне звонят люди и жалуются?', 'Why are people calling me and complaining?', [(293, 'Почему мне звонят люди и жалуются')], 'adapted'),
+    ('chef', 'Дима, ты что здесь сейчас делаешь?', 'Dima, what are you doing here right now?', [(292, 'Ты что здесь делаешь')], 'adapted'),
+    ('chef', 'Почему мне звонят люди и жалуются?', 'Why are people calling me and complaining?', [(293, 'Почему мне звонят люди и жалуются')], 'adapted'),
     ('nagiyev', 'Здравствуйте, у меня здесь важное мероприятие.', 'Hello, I have an important event here.', [(294, 'Здравствуйте. У меня здесь мероприятие')], 'adapted'),
-    ('kristina', 'Правда, вообще-то это у меня здесь мероприятие.', 'Really, actually I am the one who has an event here.', [(295, 'это у меня здесь мероприятие')], 'adapted'),
-    ('anya', 'Хотел сказать тебе большое спасибо за всё.', 'I wanted to say thank you very much for everything.', [(299, 'Хотел сказать тебе спасибо')], 'adapted'),
-    ('anya', 'Прости меня, у тебя вечно из-за меня проблемы.', 'Forgive me, you always have problems because of me.', [(301, 'Прости меня. У тебя вечно из-за меня проблемы')], 'adapted'),
-    ('anya', 'Подождите, да вы всё не так поняли!', 'Wait, you misunderstood everything!', [(304, 'Да вы все не так поняли')], 'adapted'),
+    ('chef', 'Правда, вообще-то это у меня здесь мероприятие.', 'Really, actually I am the one who has an event here.', [(295, 'это у меня здесь мероприятие')], 'adapted'),
+    ('chef', 'Хотел сказать тебе большое спасибо за всё.', 'I wanted to say thank you very much for everything.', [(299, 'Хотел сказать тебе спасибо')], 'adapted'),
+    ('chef', 'Прости меня, у тебя вечно из-за меня проблемы.', 'Forgive me, you always have problems because of me.', [(301, 'Прости меня. У тебя вечно из-за меня проблемы')], 'adapted'),
+    ('chef', 'Подождите, да вы всё не так поняли!', 'Wait, you misunderstood everything!', [(304, 'Да вы все не так поняли')], 'adapted'),
     ('nagiyev', 'Я же тебя заранее предупреждал!', 'After all, I warned you in advance!', [(305, 'Я же тебя предупреждал')], 'adapted'),
-    ('anya', 'Друзья мои, я должен перед вами извиниться.', 'My friends, I must apologize to you.', [(307, 'Друзья мои, я должен перед вами извиниться')], 'adapted'),
+    ('chef', 'Друзья мои, я должен перед вами извиниться.', 'My friends, I must apologize to you.', [(307, 'Друзья мои, я должен перед вами извиниться')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'In the ensuing chaos, Nagiyev takes a punch during the banquet brawl, and Kristina finally agrees to sell her half of the restaurant.'
-CLOSING = ('kristina', 'Дима, берегись, наши пьют!')
+OUTRO = 'In the ensuing chaos, Nagiyev takes a punch during the banquet brawl, and Kristina finally agrees to sell her half of the restaurant. See you next time!'
+CLOSING = ("chef", "Всего хорошего!")

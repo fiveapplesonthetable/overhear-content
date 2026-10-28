@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e16-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 14
 TITLE = "Расспросы Кости о слабостях Ильи  (Questioning Kostya About Ilya's Weaknesses)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ilya': 'anja'}
-LABELS = {'anya': 'Костя', 'ilya': 'Илья'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = 'Pretending that he wants to bury the hatchet with Ilya, Max casually asks Kostya what kind of things his old friend loves most. Trusting his roommate completely, Kostya gives Max the exact information he needs to prepare a cruel surprise for Ilya.'
 
 STORY = [
-    ('anya', 'Не знаю, как к нему подойти, чтобы помириться.', 'I do not know how to approach him to make peace.', [(236, 'Не знаю, как к нему подойти, чтобы помириться')], ''),
-    ('ilya', 'Может, на пиво пригласить, а?', 'Maybe I should invite him out for a beer, huh?', [(237, 'Может, на пиво пригласить, а')], ''),
-    ('anya', 'Ну, может.', 'Well, maybe.', [(238, 'Ну, может')], ''),
-    ('ilya', 'А ты что, реально хочешь с ним помириться?', 'Wait, do you seriously want to make peace with him?', [(238, 'А ты что, реально хочешь с ним помириться')], ''),
-    ('anya', 'Ну да, поэтому и спрашиваю.', 'Well yeah, that is why I am asking you.', [(239, 'Ну да, поэтому и спрашиваю')], ''),
-    ('ilya', 'Слушай, что он любит вообще, а?', 'Listen, what does he like in general?', [(240, 'Слушай, что он любит вообще, а')], ''),
-    ('anya', 'Да, все он любит.', 'Oh, he likes all kinds of things.', [(241, 'Да, все он любит')], ''),
-    ('ilya', 'Так вот даже лучше.', 'Actually, this will be even better.', [(242, 'Так вот даже лучше')], ''),
-    ('anya', 'Ему понравится.', 'He is going to love this.', [(245, 'ему понравится')], ''),
-    ('ilya', 'Не за что.', 'You are welcome.', [(246, 'Не за что')], ''),
-    ('anya', 'Спасибо, Костян.', 'Thanks, Kostyan.', [(246, 'Спасибо, Костян')], ''),
-    ('ilya', 'Давай, я пошел.', 'Alright, I am off.', [(247, 'Давай, я пошел')], ''),
-    ('anya', 'Но это так.', 'Just a little token.', [(249, 'Но это так')], ''),
+    ('kostya', 'Не знаю, как к нему подойти, чтобы помириться.', 'I do not know how to approach him to make peace.', [(236, 'Не знаю, как к нему подойти, чтобы помириться')], ''),
+    ('kostya', 'Может, на пиво пригласить, а?', 'Maybe I should invite him out for a beer, huh?', [(237, 'Может, на пиво пригласить, а')], ''),
+    ('kostya', 'Ну, может.', 'Well, maybe.', [(238, 'Ну, может')], ''),
+    ('kostya', 'А ты что, реально хочешь с ним помириться?', 'Wait, do you seriously want to make peace with him?', [(238, 'А ты что, реально хочешь с ним помириться')], ''),
+    ('kostya', 'Ну да, поэтому и спрашиваю.', 'Well yeah, that is why I am asking you.', [(239, 'Ну да, поэтому и спрашиваю')], ''),
+    ('kostya', 'Слушай, что он любит вообще, а?', 'Listen, what does he like in general?', [(240, 'Слушай, что он любит вообще, а')], ''),
+    ('kostya', 'Да, все он любит.', 'Oh, he likes all kinds of things.', [(241, 'Да, все он любит')], ''),
+    ('kostya', 'Так вот даже лучше.', 'Actually, this will be even better.', [(242, 'Так вот даже лучше')], ''),
+    ('kostya', 'Ему понравится.', 'He is going to love this.', [(245, 'ему понравится')], ''),
+    ('kostya', 'Не за что.', 'You are welcome.', [(246, 'Не за что')], ''),
+    ('kostya', 'Спасибо, Костян.', 'Thanks, Kostyan.', [(246, 'Спасибо, Костян')], ''),
+    ('kostya', 'Давай, я пошел.', 'Alright, I am off.', [(247, 'Давай, я пошел')], ''),
+    ('kostya', 'Но это так.', 'Just a little token.', [(249, 'Но это так')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 14 of Episode 16, listen out for the exchange around questioning kostya about ilya's weaknesses — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Но это так.')
+OUTRO = 'That wraps up this scene as pretending he wants to make peace with Ilya, Max tricks Kostya into telling him what Ilya cares about most so he can strike where it hurts. See you next time!'
+CLOSING = ("kostya", "Всего хорошего!")

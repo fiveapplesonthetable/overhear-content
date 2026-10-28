@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 20
-TITLE = "Le déjeuner improvisé  (The Impromptu Lunch)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le déjeuner improvisé  (The Impromptu Lunch)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sigourney": "emilie", "distributeur": "theo"}
-LABELS = {"sigourney": "Sigourney", "distributeur": "Le distributeur"}
+VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'distributeur': 'theo'}
+LABELS = {'sigourney': 'Sigourney', 'distributeur': 'Le distributeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Sigourney Weaver and Guillaume track down the film's distributor during his family lunch at a busy restaurant. When he claims no one will believe a romance between an older woman and a younger man, Sigourney rallies the whole dining room. Let's listen to their lively confrontation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "With the entire restaurant cheering her on, Sigourney Weaver convinces the distributor to sign the new contracts right at his table. When you watch the episode, listen out for the expressions meaning 'has lunch' and 'days'. You'll catch them now. See you next time."
-CLOSING = ("sigourney", "Bonne journée!")
+OUTRO = "With the entire restaurant cheering her on, Sigourney Weaver convinces the distributor to sign the new contracts right at his table. When you watch the episode, listen out for the expressions meaning 'has lunch' and 'days'. You'll catch them now. See you next time!"
+CLOSING = ('sigourney', 'Bonne journée!')
 STORY = [
     ('sigourney', 'Il déjeune ici tous les jours!', 'He has lunch here every day!', [(774, 'Il déjeune ici tous les jours')], ''),
     ('distributeur', 'Miss Weaver? Que faites-vous ici?', 'Miss Weaver? What are you doing here?', [(780, 'Miss Weaver ? Que faites-vous ici')], ''),

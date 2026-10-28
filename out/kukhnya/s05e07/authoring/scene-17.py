@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e07-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 17
 TITLE = "Примирение Сени и спасение Макса  (Senya's Reconciliation and Max's Rescue)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Сеня', 'fedya': 'Федя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
+LABELS = {"fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = "In the kitchen, Fedya holds ice to his bruised cheek while Marina happily announces she has quit her cleaning job. Meanwhile, when Max dreads paying for Vika's friends' dinner, Kostya reveals they ordered and finished the free promotional entrecôte."
 
 STORY = [
-    ('anya', 'Ну что, больно?', 'Well, does it hurt?', [(272, 'Ну что, больно')], 'adapted'),
+    ('senya', 'Ну что, больно?', 'Well, does it hurt?', [(272, 'Ну что, больно')], 'adapted'),
     ('fedya', 'Ты как сам думаешь?', 'What do you think yourself?', [(272, 'Ты как'), (272, 'думаешь')], 'adapted'),
-    ('anya', 'Да ладно, Федь, не обижайся.', 'Come on, Fedya, do not take offense.', [(275, 'Да ладно, Федь, не обижайся')], 'adapted'),
-    ('anya', 'Просто я увидел, как ты её целуешь.', 'I just saw how you were kissing her.', [(276, 'Просто я увидел, как ты ее целуешь')], 'adapted'),
+    ('senya', 'Да ладно, Федь, не обижайся.', 'Come on, Fedya, do not take offense.', [(275, 'Да ладно, Федь, не обижайся')], 'adapted'),
+    ('senya', 'Просто я увидел, как ты её целуешь.', 'I just saw how you were kissing her.', [(276, 'Просто я увидел, как ты ее целуешь')], 'adapted'),
     ('fedya', 'Вообще так с тобой не договаривались.', 'We did not agree on that with you at all.', [(277, 'Вообще так с ним не договаривались')], 'adapted'),
-    ('anya', 'Сенечка, зайчик, я уволилась, как ты сказал.', 'Senechka, little bunny, I quit just as you said.', [(279, 'Сенечка, зайчик, я уволилась, как ты сказал')], 'adapted'),
+    ('senya', 'Сенечка, зайчик, я уволилась, как ты сказал.', 'Senechka, little bunny, I quit just as you said.', [(279, 'Сенечка, зайчик, я уволилась, как ты сказал')], 'adapted'),
     ('fedya', 'Обязательно меня пинать было?', 'Did you really have to kick me?', [(284, 'Обязательно меня пинать было')], 'adapted'),
-    ('anya', 'Извини, я же в образе, Катька, как ты додумалась?', 'Sorry, I was in character, Katya, how did you come up with this?', [(284, 'извини, я же в образе'), (285, 'Катька, вообще, как ты до этого додумалась')], 'adapted'),
+    ('senya', 'Извини, я же в образе, Катька, как ты додумалась?', 'Sorry, I was in character, Katya, how did you come up with this?', [(284, 'извини, я же в образе'), (285, 'Катька, вообще, как ты до этого додумалась')], 'adapted'),
     ('fedya', 'Сколько я должен ещё за ужин?', 'How much more do I owe for dinner?', [(290, 'Сколько я должен еще за ужин')], 'adapted'),
-    ('kostya', 'Да не бойся, балда, они заказали антрекот по акции и съели его.', 'Do not be afraid, dummy, they ordered the promotional entrecote and ate it.', [(291, 'Да не бойся, балда. Они заказали'), (291, 'по акции и съели его')], 'adapted'),
-    ('kostya', 'А если его съедаешь, то за счёт можно не платить.', 'And if you eat it up, you do not have to pay the bill.', [(292, 'А если его съедаешь, то за счет можно')], 'adapted'),
-    ('kostya', 'Угадай, кто им это посоветовал.', 'Guess who advised them to do that.', [(293, 'Угадай, кто им это посоветовал')], 'adapted'),
+    ('fedya', 'Да не бойся, балда, они заказали антрекот по акции и съели его.', 'Do not be afraid, dummy, they ordered the promotional entrecote and ate it.', [(291, 'Да не бойся, балда. Они заказали'), (291, 'по акции и съели его')], 'adapted'),
+    ('fedya', 'А если его съедаешь, то за счёт можно не платить.', 'And if you eat it up, you do not have to pay the bill.', [(292, 'А если его съедаешь, то за счет можно')], 'adapted'),
+    ('fedya', 'Угадай, кто им это посоветовал.', 'Guess who advised them to do that.', [(293, 'Угадай, кто им это посоветовал')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Relieved that Kostya's clever tip saved him from the food bill, Max goes out to face Vika. See you in the next scene."
-CLOSING = ('fedya', 'Круто, спасибо тебе, Костя!')
+OUTRO = "Relieved that Kostya's clever tip saved him from the food bill, Max goes out to face Vika. Until next time!"
+CLOSING = ("fedya", "Увидимся!")

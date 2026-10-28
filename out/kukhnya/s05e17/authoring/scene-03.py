@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e17-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 3
-TITLE = 'После бурной ночи  (After a Wild Night)'
+TITLE = "После бурной ночи  (After a Wild Night)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja"}
+LABELS = {"mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = "After a night of drinking and visiting a casino together, Chef Barinov and a very intoxicated Mikhail Dzhekovich arrive at the hotel so Mikhail can look up Nagiyev's home address."
 
 STORY = [
-    ('anya', 'Миша, не стоит он того.', 'Misha, he is not worth it.', [(27, 'Миша, не стоит он того')], 'adapted'),
+    ('mikhail', 'Миша, не стоит он того.', 'Misha, he is not worth it.', [(27, 'Миша, не стоит он того')], 'adapted'),
     ('mikhail', 'Да ты ничего не понимаешь.', 'You do not understand anything.', [(28, 'Да ты не понимаешь')], 'adapted'),
     ('mikhail', 'Я за Элеонорой полжизни бегал.', 'I chased after Eleonora for half my life.', [(29, 'полжизни бегал')], 'adapted'),
-    ('anya', 'Мы с тобой хорошо выпили.', 'You and I had a good drink together.', [(31, 'мы с тобой выпили')], 'adapted'),
-    ('anya', 'Мы даже в казино сходили.', 'We even went to the casino.', [(32, 'В казино сходили')], 'adapted'),
-    ('anya', 'Может, уже поедем домой?', 'Maybe we should go home already?', [(34, 'Ну, может, домой')], 'adapted'),
+    ('mikhail', 'Мы с тобой хорошо выпили.', 'You and I had a good drink together.', [(31, 'мы с тобой выпили')], 'adapted'),
+    ('mikhail', 'Мы даже в казино сходили.', 'We even went to the casino.', [(32, 'В казино сходили')], 'adapted'),
+    ('mikhail', 'Может, уже поедем домой?', 'Maybe we should go home already?', [(34, 'Ну, может, домой')], 'adapted'),
     ('mikhail', 'Нет, это была только репетиция.', 'No, that was only a rehearsal.', [(34, 'Нет, это была только репетиция')], 'adapted'),
-    ('anya', 'А ты его адрес знаешь?', 'Do you know his address?', [(36, 'Адрес знаешь')], 'adapted'),
+    ('mikhail', 'А ты его адрес знаешь?', 'Do you know his address?', [(36, 'Адрес знаешь')], 'adapted'),
     ('mikhail', 'Нет, у меня в отеле записано.', 'No, I have it written down at the hotel.', [(36, 'Нет, у меня где-то в отеле записано')], 'adapted'),
     ('mikhail', 'Давай заедем в наш отель.', "Let's stop by our hotel.", [(37, 'Давай заедем в отель')], 'adapted'),
     ('mikhail', 'Спасибо тебе большое, Витя.', 'Thank you very much, Vitya.', [(39, 'Спасибо тебе')], 'adapted'),
-    ('anya', 'Ты главное отдыхай и сил набирайся.', 'Just rest and gather your strength.', [(43, 'Ты главное отдыхай, сил набирайся')], 'adapted'),
+    ('mikhail', 'Ты главное отдыхай и сил набирайся.', 'Just rest and gather your strength.', [(43, 'Ты главное отдыхай, сил набирайся')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov humors Mikhail so he can get him safely inside the hotel before he causes a scandal. See you in the next scene.'
-CLOSING = ('mikhail', 'Давай заедем в отель.')
+OUTRO = 'Chef Barinov humors Mikhail so he can get him safely inside the hotel before he causes a scandal. Until next time!'
+CLOSING = ("mikhail", "Увидимся!")

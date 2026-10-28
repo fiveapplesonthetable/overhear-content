@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 16
-TITLE = "Démonstration de pole dance  (Pole-Dancing Demo)"
-LEVEL = "A1 — débutant"
+TITLE = 'Démonstration de pole dance  (Pole-Dancing Demo)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "augustin": "theo", "mathias": "marcel", "audrey": "emilie"}
-LABELS = {"augustin": "Augustin", "mathias": "Mathias", "audrey": "Audrey"}
+VOICES = {'narrator': 'sky', 'augustin': 'theo', 'mathias': 'marcel', 'audrey': 'emilie'}
+LABELS = {'augustin': 'Augustin', 'mathias': 'Mathias', 'audrey': 'Audrey'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Outside in the corridor, Noémie keeps Audrey's children busy with a little present while Arlette hurries past, worried that her dog Jean Gabin might catch their germs. Back in Mathias's office, Augustin asks Audrey a decisive question about the role: can she really pole dance? Let's listen in French first; don't worry about catching every word."
 OPENER = "Let's go through the scene together. Augustin brings up the physical side of the part."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Audrey has won the role on the spot, even if she now has to learn pole dancing for real. Next, Andréa sends Camille on an errand with Hippolyte. See you there.'
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = 'Audrey has won the role on the spot, even if she now has to learn pole dancing for real. See you next time!'
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('augustin', 'Pour la danse, je sais que vous aimez le tango.', 'For the dance, I know that you like tango.', [(393, 'Pour la danse à la barre'), (393, 'je sais que vous faites du tango')], ''),
     ('audrey', 'Non, je sais aussi faire un peu de barre.', 'No, I also know how to do a bit of pole dancing.', [(394, 'Non, je sais aussi faire un peu de barre')], ''),

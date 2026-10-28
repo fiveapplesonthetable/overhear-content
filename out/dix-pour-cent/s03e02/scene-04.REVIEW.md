@@ -27,5 +27,5 @@
 | 13 | `monica` (Monica) | Tu viens avec moi, mon cher Gabriel? | Are you coming with me, my dear Gabriel? | 319:ensemble |
 
 ## Part 5 — Outro & Closing
-> Monica Bellucci embraces the adventure of ordinary Parisian life, stepping away from the red carpet toward a neighborhood gathering. When you watch the episode, listen out for the expressions meaning 'did you have' and 'found'. You'll catch them now. See you next time.
+> Monica Bellucci embraces the adventure of ordinary Parisian life, stepping away from the red carpet toward a neighborhood gathering. When you watch the episode, listen out for the expressions meaning 'did you have' and 'found'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

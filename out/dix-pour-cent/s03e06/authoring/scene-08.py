@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 8
-TITLE = "La geisha et le cadavre  (The Geisha and the Corpse)"
-LEVEL = "A1 — débutant"
+TITLE = 'La geisha et le cadavre  (The Geisha and the Corpse)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "realisateur": "marcel", "lea": "lucie"}
-LABELS = {"isabelle": "Isabelle", "realisateur": "Le réalisateur", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'realisateur': 'marcel', 'lea': 'lucie'}
+LABELS = {'isabelle': 'Isabelle', 'realisateur': 'Le réalisateur', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "On the film set, nurse Isabelle Huppert is prepped to stand in as a dead body. When the director arrives and finds her covered in white talcum powder, an argument breaks out over medical accuracy. Let's listen to their exchange in French first."
 OPENER = "Let's explore how nurse Isabelle challenges the movie director line by line."
 TRANSITION = "Now let's listen to the on-set banter once more from start to finish."
-OUTRO = "That's it for this scene around the geisha and the corpse. When you watch the episode, listen out for the expressions meaning 'it is' and 'I have'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "À demain!")
+OUTRO = "That's it for this scene around the geisha and the corpse. When you watch the episode, listen out for the expressions meaning 'it is' and 'I have'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'À demain!')
 STORY = [
     ('realisateur', "Mais qu'est-ce que c'est que ça?", 'What on earth is that?', [(442, "Mais qu'est-ce que c'est que ça ?")], ''),
     ('realisateur', "J'ai dit fantôme, pas geisha!", 'I said ghost, not geisha!', [(443, "J'ai dit fantôme, j'ai pas dit geisha.")], ''),

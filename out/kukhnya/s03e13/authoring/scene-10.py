@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 10
-TITLE = 'Вызов мастера  (Calling the Repairman)'
+TITLE = "Вызов мастера  (Calling the Repairman)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "Back at Claude Monet, Max learns that the security company can still recover the flooded hard drive, and overhears Vika scheduling a repairman for two o'clock. Listen to the full Russian conversation first, and then we will unpack every line."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Maybe do not rush with the marriage proposal?' The negative particle sits right before the verb meaning 'to rush' to negate the statement."),
     (9, None, "'Let me suggest one technique to you.' Here the Russian phrasing highlights 'come on' before landing on 'will suggest'."),
     (10, None, "'It is a technique of calm meditation.' Chef Barinov brings out the contrast between 'this' and 'method' in a few short words."),
-    (11, None, "'I have been doing this meditation for the last month.' Notice the reflexive suffix on the verb meaning 'am handling', turning the action back on the subject."),
+    (11, None, "'I have been doing this meditation for the last month.' Notice how Russian puts 'with meditation' and 'am handling, am occupied with' together in a short, direct phrase where word endings show how the ideas connect."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Having overheard that the repairman will ask for Konstantin Anisimov at two o'clock, Max decides to impersonate Kostya at the bar. Let's see how that goes!"
-CLOSING = ('vika', 'Да, по поводу ремонта ко мне.')
+OUTRO = "Having overheard that the repairman will ask for Konstantin Anisimov at two o'clock, Max decides to impersonate Kostya at the bar. Let's see how that goes! See you next time!"
+CLOSING = ("vika", "Хорошего дня!")

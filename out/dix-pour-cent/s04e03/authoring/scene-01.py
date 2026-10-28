@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 1
-TITLE = "Réveil matinal  (Early Wake-Up)"
-LEVEL = "A1 — débutant"
+TITLE = 'Réveil matinal  (Early Wake-Up)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "At five in the morning, Andrea wakes up to soothe her baby daughter Flora. She tenderly notes that the restless infant takes after her own night-owl habits, just before Gabriel calls to coordinate an early start on the movie set. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Gabriel's early conversation line by line."
 TRANSITION = "Now let's listen to Andrea and Gabriel's exchange once more from start to finish."
-OUTRO = "That's it for this scene around early wake-up. When you watch the episode, listen out for the expressions meaning 'am coming' and 'little'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "That's it for this scene around early wake-up. When you watch the episode, listen out for the expressions meaning 'am coming' and 'little'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('lea', "J'arrive, mon petit bébé, j'arrive!", 'I am coming, my little baby, I am coming!', [(1, "J'arrive, mon bébé !")], ''),
     ('lea', 'Te voilà enfin réveillée si tôt.', 'There you are finally awake so early.', [(2, 'Te voilà !'), (3, 'Te voilà.')], ''),

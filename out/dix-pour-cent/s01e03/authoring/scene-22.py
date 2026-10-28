@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 22
-TITLE = "Un Bardot pour rien  (A Bardot for Nothing)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un Bardot pour rien  (A Bardot for Nothing)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "camille": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Meanwhile, the partners have surprising news about the director Solveig Akerfelt. Both Laura Smet and her mother Nathalie Baye tried to sabotage their auditions so they wouldn't have to spend three months on a boat together, and Gabriel hasn't dared to tell anyone that Laura was rejected. First, let's listen to the whole scene in French; don't worry about catching every word."
 OPENER = "Let's go through the scene step by step. In the meeting room, Gabriel is feeling guilty about the auditions."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Right after this, in the agency kitchen, the actor Zinedine Soualem proudly demonstrates the new Portuguese coffee machine to prove he can play a Portuguese role. Meanwhile, Gabriel has to find a way to get Laura's part back from Solveig Akerfelt. See you next time!"
-CLOSING = ("lea", "Au revoir!")
+OUTRO = 'Right after this, in the agency kitchen, the actor Zinedine Soualem proudly demonstrates the new Portuguese coffee machine to prove he can play a Portuguese role. See you next time!'
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('gabriel', 'Je me sens mal pour Nathalie.', 'I feel bad for Nathalie.', [(556, 'Je me sens mal pour Nathalie')], ''),
     ('lea', "Comment ça s'est passé avec Laura Smet?", 'How did it go with Laura Smet?', [(557, "comment ça s'est passé"), (557, 'avec Laura Smet')], ''),

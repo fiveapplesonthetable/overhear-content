@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Just a couple of years ago.' The meaning hinges on 'couple' working together with 'back' in spoken Russian.
 - 'I know.' Notice how Russian expresses 'I' and 'know' with crisp inflection rather than helper words.
 - 'Yes, please do not worry.' Max anchors the line on 'yes', while 'worry' completes the thought. Vika answers right away.
-- 'Do not worry at all. No.' Notice the reflexive suffix on the verb meaning 'worry', turning the action back on the subject.
+- 'Do not worry at all. No.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Listen, Oguzok, maybe you should go work as a waiter?' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'will go'.
 - 'Rather than standing around in here.' The grammar packs 'what' and 'here' into a tight, idiomatic kitchen exchange. Max answers right away.
 - 'Why not, maybe I actually will?' The meaning hinges on 'what' working together with 'go' in spoken Russian.

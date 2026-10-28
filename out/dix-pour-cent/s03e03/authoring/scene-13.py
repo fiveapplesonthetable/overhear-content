@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 13
 TITLE = "L'agent double  (The Double Agent)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"camille": "Camille", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = 'At home, Camille and Herve prepare an ambitious undercover scheme to manage talent together. By sharing two phones and a joint calendar under the single name of Camille Valentini, they plan to conquer Paris. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "United under one identity, Camille and Herve take on double the workload with double the energy. When you watch the episode, listen out for the expressions meaning 'ready' and 'phones'. You'll catch them now. See you next time."
-CLOSING = ("herve", "Bonne journée!")
+OUTRO = "United under one identity, Camille and Herve take on double the workload with double the energy. When you watch the episode, listen out for the expressions meaning 'ready' and 'phones'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'Bonne journée!')
 STORY = [
     ('herve', 'Est-ce que tu es prêt?', 'Are you ready?', [(541, "t'es prêt")], ''),
     ('camille', 'Voici les téléphones de Camille Valentini.', 'Here are the phones for Camille Valentini.', [(546, 'téléphones de la')], ''),

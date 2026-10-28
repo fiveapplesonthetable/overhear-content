@@ -15,10 +15,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Гость | Там ведь все мои деньги были. | All of my money was in there. | #56 00:04:14: там все деньги были | adapted: adapted |
 | 4 | Гость | Хорошо, что паспорт лежал в другом кармане. | It is a good thing my passport was in another pocket. | #57 00:04:17: Хорошо, паспорт был в другом<br>#58 00:04:18: в другом кармане | adapted: adapted |
 | 5 | Настя | Билетом ведь в гостинице не расплатишься. | After all, you cannot pay at a hotel with a ticket. | #59 00:04:22: билетом вообще-то в гостинице не расплатишься | adapted: adapted |
-| 6 | Аня | Ладно, дадим ему немного денег взаймы. | Fine, we will lend him a little money. | #60 00:04:30: Дадим ему взаймы | adapted: adapted |
-| 7 | Аня | Настя, неси сюда нашу заначку. | Nastya, bring our secret cash stash here. | #61 00:04:32: Неси заначку | adapted: adapted |
+| 6 | Гость | Ладно, дадим ему немного денег взаймы. | Fine, we will lend him a little money. | #60 00:04:30: Дадим ему взаймы | adapted: adapted |
+| 7 | Гость | Настя, неси сюда нашу заначку. | Nastya, bring our secret cash stash here. | #61 00:04:32: Неси заначку | adapted: adapted |
 | 8 | Настя | Я на неё детский шкаф заказала. | I ordered a children's wardrobe with it. | #62 00:04:35: Я на нее шкаф детскую заказала | adapted: adapted |
-| 9 | Аня | Мы же новый телевизор собирались взять! | We were going to buy a new television! | #63 00:04:38: Мы же телек собирались взять | adapted: adapted |
+| 9 | Гость | Мы же новый телевизор собирались взять! | We were going to buy a new television! | #63 00:04:38: Мы же телек собирались взять | adapted: adapted |
 | 10 | Настя | В телевизор детские вещи не положишь. | You cannot put children's clothes inside a television. | #64 00:04:40: в телевизор детские вещи не положишь | adapted: adapted |
 | 11 | Настя | Начинайте наконец налаживать ваши отношения. | Start mending your relationship at last. | #68 00:04:57: начинайте налаживать отношения | adapted: adapted |
 | 12 | Настя | А я пойду закажу этот шкаф. | And I will go order that wardrobe. | #69 00:05:03: А я пойду шкаф закажу | adapted: adapted |

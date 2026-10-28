@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e08-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 8
 SCENE = 8
 TITLE = "Помощник уборщика или курьер  (Cleaner's Assistant or Courier)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "ainura": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "ainura": "Айнура"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 
 INTRO = 'Happy to be back in the kitchen, Max puts on his white chef jacket. However, Chef Barinov informs him that he was hired back as a cleaner—or a delivery courier.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Outsmarted by Chef Barinov, Max is stuck delivering food orders across Moscow instead of cooking.'
-CLOSING = ('chef', 'Всё, наш разговор окончен.')
+OUTRO = 'Outsmarted by Chef Barinov, Max is stuck delivering food orders across Moscow instead of cooking. See you next time!'
+CLOSING = ("chef", "До завтра!")

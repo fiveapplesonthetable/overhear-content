@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 2
 TITLE = "L'appel nocturne de Virginie  (Virginie's Night Call)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "virginie": "emilie", "mathias": "marcel"}
-LABELS = {"virginie": "Virginie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'virginie': 'Virginie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "At home late at night, agent Mathias Barneville tries to relax with a guided meditation session. Suddenly his phone rings. It is his star client Virginie Efira in a state of absolute panic after a night out. Let's listen to their conversation in French first."
 OPENER = "Let's examine how Mathias handles a sudden emergency call from his actress."
 TRANSITION = "Now let's listen to the late-night phone call again at full speed."
-OUTRO = 'Virginie is terrified of losing both her partner and her career over the scandal. Mathias urges honesty, but in the morning the press will already have the story. Join us next time to see what happens next.'
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = 'Virginie is terrified of losing both her partner and her career over the scandal. Mathias urges honesty, but in the morning the press will already have the story. See you next time!'
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('mathias', "Allô? Virginie, que s'est-il passé?", 'Hello? Virginie, what happened?', [(31, 'Allô ?'), (33, "Que s'est-il passé ?")], ''),
     ('virginie', "Mathias, c'est terrible!", 'Mathias, it is terrible!', [(32, "Mathias, c'est terrible.")], ''),

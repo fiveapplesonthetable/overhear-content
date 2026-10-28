@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e13-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 13
 SCENE = 12
-TITLE = 'Начинаем суд над Лавровым  (Beginning the Trial of Lavrov)'
+TITLE = "Начинаем суд над Лавровым  (Beginning the Trial of Lavrov)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.13'
 SOURCE_FILE = 'sources/kukhnya/s05/e13.ru.srt'
 
 INTRO = "In the imaginary courtroom inside the restaurant hall, Judge Barinov opens the trial of Maxim Lavrov, with Kostya acting as Max's defense lawyer while Vika testifies about the night of Sasha's wedding."
 
 STORY = [
-    ('anya', 'Мы начинаем суд над Максимом Лавровым!', 'We begin the trial of Maxim Lavrov!', [(155, 'Начинаем суд над Максимом Лавровым')], 'adapted'),
-    ('kostya', 'Протестую, Ваша честь, это оскорбление!', 'I object, Your Honor, that is an insult!', [(157, 'Протестую')], 'adapted'),
-    ('anya', 'Костя, мы сейчас быстро отменяем протест.', 'Kostya, we are overruling the objection right now.', [(158, 'Отменяем протест')], 'adapted'),
-    ('anya', 'Потерпевшая, расскажите, что произошло тем вечером.', 'Victim, tell us what happened that evening.', [(159, 'Потерпевшая, расскажите, что произошло тем вечером')], 'adapted'),
+    ('chef', 'Мы начинаем суд над Максимом Лавровым!', 'We begin the trial of Maxim Lavrov!', [(155, 'Начинаем суд над Максимом Лавровым')], 'adapted'),
+    ('chef', 'Протестую, Ваша честь, это оскорбление!', 'I object, Your Honor, that is an insult!', [(157, 'Протестую')], 'adapted'),
+    ('chef', 'Костя, мы сейчас быстро отменяем протест.', 'Kostya, we are overruling the objection right now.', [(158, 'Отменяем протест')], 'adapted'),
+    ('chef', 'Потерпевшая, расскажите, что произошло тем вечером.', 'Victim, tell us what happened that evening.', [(159, 'Потерпевшая, расскажите, что произошло тем вечером')], 'adapted'),
     ('vika', 'В тот вечер была свадьба Саши.', "That evening was Sasha's wedding.", [(161, 'Была свадьба Саши')], 'adapted'),
     ('vika', 'Саша была его прежней любимой девушкой.', 'Sasha was his former beloved girlfriend.', [(161, 'его бывшей девушки')], 'adapted'),
     ('vika', 'Я сразу почувствовала, что что-то не так.', 'I immediately felt that something was wrong.', [(162, 'Я сразу почувствовала, что-то не так')], 'adapted'),
     ('vika', 'Наверное, к нему вернулись старые чувства.', 'His old feelings had probably returned to him.', [(163, 'Наверное, к нему')], 'adapted'),
     ('vika', 'И тем вечером на этом проклятом складе...', 'And that evening in that cursed storage room...', [(165, 'на этом проклятом складе')], 'adapted'),
     ('vika', 'Он предал меня и нашего будущего ребёнка!', 'He betrayed me and our future child!', [(166, 'он предал меня и нашего ребенка')], 'adapted'),
-    ('kostya', 'Протестую, Ваша честь, выключите эту музыку!', 'I object, Your Honor, turn off that music!', [(167, 'Протестую, Ваша честь')], 'adapted'),
-    ('kostya', 'Грустная музыка усиливает драматический эффект в суде!', 'Sad music heightens the dramatic effect in court!', [(168, 'Грустная музыка, она усиливает драматический эффект')], 'adapted'),
+    ('chef', 'Протестую, Ваша честь, выключите эту музыку!', 'I object, Your Honor, turn off that music!', [(167, 'Протестую, Ваша честь')], 'adapted'),
+    ('chef', 'Грустная музыка усиливает драматический эффект в суде!', 'Sad music heightens the dramatic effect in court!', [(168, 'Грустная музыка, она усиливает драматический эффект')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Defense attorney Kostya tries every courtroom trick he knows to soften Vika's testimony. See you in the next scene."
-CLOSING = ('anya', 'Начинаем суд над Максимом Лавровым!')
+OUTRO = "Defense attorney Kostya tries every courtroom trick he knows to soften Vika's testimony. See you next time!"
+CLOSING = ("chef", "Всего хорошего!")

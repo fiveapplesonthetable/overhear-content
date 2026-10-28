@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Nothing brings our team together so well.' Negative pronoun 'nothing' pairs with the negated verb for bringing people closer.
 - 'Guys, what is this banquet we have here?' Max discovers the secret celebration inside the storeroom.
-- 'We are drinking to our brave new sous-chef!' In Russian toasts, the preposition 'for' governs the accusative case.
-- 'Max, we need to ask German for a salary raise!' Verbal noun 'raising' takes the genitive singular 'of salary'.
-- 'Strike while the iron is still hot!' The Russian proverb uses the imperative of the verb 'to forge'.
-- 'Guys, come on, what raise right now?' Plural imperative 'drop it' dismisses an unrealistic suggestion.
+- 'We are drinking to our brave new sous-chef!' Senya pairs 'to drink' with 'sous-chef' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Max, we need to ask German for a salary raise!' Notice how Russian puts 'need to, must' and 'paychecks' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Strike while the iron is still hot!' Here Senya anchors the thought on 'strike' and finishes on 'hot', keeping the spoken rhythm brisk and natural.
+- 'Guys, come on, what raise right now?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Come on, finish up quickly and let's go work.' Past-tense plural 'went' serves as a colloquial 'let's go'.
 - 'What, has our brave leader gotten scared already?' Fedya needles Max's pride to goad him into action.
 - 'No big deal, then we will go ourselves!' Knowing that their visit to German would expose his lie, Max panics.
-- 'Guys, all right, wait here for one second!' Max stops them at the door with a plural perfective imperative.
-- 'I simply did not want to tell you until evening.' The preposition 'until' governs the genitive singular of 'evening'.
+- 'Guys, all right, wait here for one second!' In everyday Russian, 'guys, boys' flows straight into 'second' without extra linking words.
+- 'I simply did not want to tell you until evening.' Max pairs 'simply, just' with 'in the evening' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'I already got a bonus out of German today!' The colloquial verb for knocking out means securing a bonus or concession.
 - 'Here is your money, take it and sign for it.' Max hands out Denis's sixty thousand rubles using a classic payroll idiom.

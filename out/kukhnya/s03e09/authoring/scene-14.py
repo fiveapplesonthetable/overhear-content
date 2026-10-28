@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 14
 TITLE = "Идея Макса и Кати  (Max and Katya's Idea)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = 'Katya recalls that the only time her father quit drinking for a whole year was when he drunkenly lost her at a market as a child and was terrified. Inspired by her story, Max comes up with a bold plan.'
@@ -23,7 +23,7 @@ STORY = [
     ('anya', 'Но ты должна мне помочь.', 'But you have to help me with it.', [(215, 'но ты должна мне помочь')], 'adapted'),
     ('katya', 'Хорошо, я обязательно тебе помогу.', 'Alright, I will definitely help you.', [(216, 'Поможешь? Да')], 'adapted'),
     ('anya', 'Тихо, мы с тобой потом договорим.', 'Quiet, you and I will finish talking later.', [(217, 'Потом договорим')], 'adapted'),
-    ('vika', 'Катя, ты свои документы принесла?', 'Katya, did you bring your documents?', [(218, 'Катя, ты документы принесла')], 'adapted'),
+    ('katya', 'Катя, ты свои документы принесла?', 'Katya, did you bring your documents?', [(218, 'Катя, ты документы принесла')], 'adapted'),
     ('katya', 'Извините, я сегодня опять забыла.', 'Excuse me, I forgot again today.', [(219, 'Я забыла')], 'adapted'),
     ('katya', 'Давайте я точно завтра принесу.', 'Let me definitely bring them tomorrow.', [(220, 'Давайте я завтра принесу')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max and Katya have a plan to scare Chef Barinov sober, though Vika is growing suspicious of Katya's missing diploma. Meanwhile, Kostya races to a real sports bar before Nastya arrives."
-CLOSING = ('anya', 'Ты должна мне в этом помочь.')
+OUTRO = "Max and Katya have a plan to scare Chef Barinov sober, though Vika is growing suspicious of Katya's missing diploma. Meanwhile, Kostya races to a real sports bar before Nastya arrives. See you next time!"
+CLOSING = ("anya", "До встречи!")

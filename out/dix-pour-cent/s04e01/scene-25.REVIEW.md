@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | C'est la meilleure idée de la soirée. | That is the best idea of the evening. | 1008:enlever cette robe maintenant |
 
 ## Part 5 — Outro & Closing
-> In the quiet privacy of the taxi, Noemie complains about her uncomfortable dress and Mathias happily agrees to bypass the industry party to spend the night alone with her. When you watch the episode, listen out for the expressions meaning 'want' and 'dinner'. You'll catch them now. See you next time.
+> In the quiet privacy of the taxi, Noemie complains about her uncomfortable dress and Mathias happily agrees to bypass the industry party to spend the night alone with her. When you watch the episode, listen out for the expressions meaning 'want' and 'dinner'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

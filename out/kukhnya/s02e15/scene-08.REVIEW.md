@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Wait, are you two not at home?' Here the Russian phrasing highlights 'and' before landing on 'home'.
 - 'Yeah, I want to sell it, I really need the cash.' Notice how Russian expresses 'yes' and 'needed' with crisp inflection rather than helper words. Kostya answers right away.
-- 'Ah, here it is, I found it.' The grammar packs 'and' and 'found' into a tight, idiomatic kitchen exchange.
+- 'Ah, here it is, I found it.' Kostya centers this short reply on 'found', letting a few direct words carry the whole meaning.
 - 'Alright, see you.' In Russian, the idea of 'all' flows naturally into 'for now' without extra filler words.
 - 'Is this for me?' Notice how Russian expresses 'this' and 'for me' with crisp inflection rather than helper words. Kostya answers right away.
 - 'Max, that is so touching of you.' In Russian, the idea of 'Max' flows naturally into 'touchingly' without extra filler words.
 - 'For that, tonight I will wear nothing but your gifts.' Here the Russian phrasing highlights 'behind' before landing on 'present'.
 - 'Come here.' Vika brings out the contrast between 'go' and 'here' in a few short words. Kostya answers right away.
 - 'That one is my gift.' The meaning hinges on 'this' working together with 'gift' in spoken Russian.
-- 'What is wrong with you?' In Russian, the idea of 'you' flows naturally into 'why' without extra filler words.
+- 'What is wrong with you?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'And that is Ilya's gift.' Vika anchors the line on 'and', while 'gift' completes the thought. Kostya answers right away.
 - 'I do not feel so well all of a sudden.' In Russian, the idea of 'yes' flows naturally into 'not good' without extra filler words.
 - 'My head is spinning.' Max brings out the contrast between 'head' and 'is spinning' in a few short words.

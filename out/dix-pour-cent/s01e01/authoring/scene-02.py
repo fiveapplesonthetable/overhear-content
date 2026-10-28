@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 2
 TITLE = "Je vais déjeuner deux fois  (I'll Have Lunch Twice)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "magali": "emilie", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "magali": "Magali", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'magali': 'emilie', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'magali': 'Magali', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "The doors open, the phones start ringing, and we follow Andréa, the toughest and fastest-talking agent at ASK, as she rushes in with her assistant Magali reading out her diary. Mathias, a smooth, ambitious agent, is already on the phone talking money. Here it is in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's take it apart. Andréa sweeps in through the door, greeting everyone in one breath, while Mathias barely looks up from his call."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's a typical morning at ASK: two lunches, one cancelled date and a lot of casual commands. Don't worry if it felt fast; it is fast, even for the French. See you next time!"
-CLOSING = ("lea", "Bonne journée!")
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Bonjour! Salut, Mathias.', 'Morning! Hi, Mathias.', [(74, 'Bonjour'), (75, 'Salut, Mathias')], ''),
     ('mathias', 'Oui, trois cent mille. Je parle de ses vingt ans de carrière.', "Yes, three hundred thousand. I'm talking about his twenty years of career.", [(75, 'Oui, 300 000'), (78, 'Je parle de ses 20 ans de carrière')], ''),

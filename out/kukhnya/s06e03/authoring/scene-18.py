@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e03-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 3
 SCENE = 18
-TITLE = 'Удар мячом и найденная пуля  (Hit by the Ball and the Found Bullet)'
+TITLE = "Удар мячом и найденная пуля  (Hit by the Ball and the Found Bullet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Денис', 'nikita': 'Никита', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
+LABELS = {"nikita": "Никита", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.03'
 SOURCE_FILE = 'sources/kukhnya/s06/e03.ru.srt'
 
 INTRO = "In the courtyard, Denis blasts his penalty kick and Nikita deflects the ball straight into Katya's face; meanwhile on the movie set, the prop master returns with a freshly washed bullet."
@@ -16,15 +16,15 @@ INTRO = "In the courtyard, Denis blasts his penalty kick and Nikita deflects the
 STORY = [
     ('katya', 'Можно и другую колбасу хоть раз попробовать.', 'You could try another sausage at least once.', [(308, 'Можно и другую колбасу хоть раз попробовать')], 'exact'),
     ('nikita', 'Подарили колбасу, так будь благодарен!', 'They gifted you sausage, so be grateful!', [(310, 'Подарили колбасу, так будь благодарен!')], 'exact'),
-    ('anya', 'Катя, давай я тебя на машине отвезу?', 'Katya, let me drive you in a car?', [(313, 'Катя, давай я тебя на машине отвезу')], 'adapted'),
+    ('nikita', 'Катя, давай я тебя на машине отвезу?', 'Katya, let me drive you in a car?', [(313, 'Катя, давай я тебя на машине отвезу')], 'adapted'),
     ('katya', 'Не надо, я такси вызвала.', 'No need, I called a taxi.', [(314, 'Не надо, я такси вызвала')], 'exact'),
     ('nikita', 'Давай я тебя на такси отвезу.', 'Let me take you in the taxi.', [(315, 'Давай я тебя на такси отвезу')], 'exact'),
     ('katya', 'Я сама справлюсь.', 'I will manage by myself.', [(316, 'Я сама справлюсь')], 'exact'),
     ('nikita', 'Вот куда ты смотрел, когда так сильно бил?', 'Where were you looking when you kicked so hard?', [(317, 'Вот куда ты смотрел, когда так сильно')], 'adapted'),
-    ('anya', 'Это ты ей в лицо мяч отбил!', 'You are the one who deflected the ball into her face!', [(318, 'Это ты ей в лицо мяч отбил')], 'exact'),
-    ('anya', 'Если бы ты нормально отбивал!', 'If only you had blocked it properly!', [(320, 'ты нормально отбивал!')], 'adapted'),
+    ('nikita', 'Это ты ей в лицо мяч отбил!', 'You are the one who deflected the ball into her face!', [(318, 'Это ты ей в лицо мяч отбил')], 'exact'),
+    ('nikita', 'Если бы ты нормально отбивал!', 'If only you had blocked it properly!', [(320, 'ты нормально отбивал!')], 'adapted'),
     ('nikita', 'Ребята, у нас есть пуля!', 'Guys, we have a bullet!', [(324, 'Ребята, у нас есть пуля')], 'exact'),
-    ('anya', 'Ты ее хорошо помыл?', 'Did you wash it well?', [(325, 'Помыл?')], 'adapted'),
+    ('nikita', 'Ты ее хорошо помыл?', 'Did you wash it well?', [(325, 'Помыл?')], 'adapted'),
     ('nikita', 'Да, спиртом протер!', 'Yes, I wiped it with alcohol!', [(326, 'Да. Спиртом протер?')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With the bullet popped into Nagiyev's mouth for the close-up, the crew rolls Take Six just as Eleonora returns to the hotel. See you in the next scene."
-CLOSING = ('katya', 'Я сама доеду!')
+OUTRO = "With the bullet popped into Nagiyev's mouth for the close-up, the crew rolls Take Six just as Eleonora returns to the hotel. See you next time!"
+CLOSING = ("katya", "До свидания!")

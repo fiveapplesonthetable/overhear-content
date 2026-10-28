@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 23
-TITLE = "Dîner après le théâtre  (Dinner After the Theatre)"
-LEVEL = "A1 — débutant"
+TITLE = 'Dîner après le théâtre  (Dinner After the Theatre)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "fabrice": "theo"}
-LABELS = {"lea": "Andréa", "fabrice": "Fabrice"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'fabrice': 'theo'}
+LABELS = {'lea': 'Andréa', 'fabrice': 'Fabrice'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Following his brilliant theatrical performance, acclaimed actor Fabrice Luchini meets Andréa Martel for a late dinner. The pair exchange warm compliments and playful relationship advice in high spirits before their evening is interrupted. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Fabrice Luchini and Andréa bond over theatrical art and romantic advice over dinner. Remember the colloquial French encouragement for seizing an opportunity: fonce. Until next time.'
-CLOSING = ("lea", "À demain!")
+OUTRO = 'Fabrice Luchini and Andréa bond over theatrical art and romantic advice over dinner. Remember the colloquial French encouragement for seizing an opportunity: fonce. See you next time!'
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('fabrice', 'Bonsoir Andréa! Tu es très élégante.', 'Good evening Andréa! You look very elegant.', [(783, '-Salut ! -Tu es très élégante')], ''),
     ('lea', 'Merci Fabrice. Bravo pour ton spectacle!', 'Thank you Fabrice. Bravo on your show!', [(784, "Merci. Et bravo ! C'était magnifique")], ''),

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 2
-TITLE = 'Другая Гончарова  (The Other Goncharova)'
+TITLE = "Другая Гончарова  (The Other Goncharova)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'doctor': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "doctor": "Врач", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = 'Max bursts into the delivery room without shoe covers expecting to see Vika, only to find another patient named Goncharova. When he finally reaches Vika by phone, she surprises him.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Baffled that Vika is back at the restaurant instead of the maternity ward, Max heads straight to the hotel. See you in the next scene.'
-CLOSING = ('vika', 'Я на работе, я занята.')
+OUTRO = 'Baffled that Vika is back at the restaurant instead of the maternity ward, Max heads straight to the hotel. See you next time!'
+CLOSING = ("vika", "До завтра!")

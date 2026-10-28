@@ -1,24 +1,24 @@
 ID = 'kukhnya-s05e19-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 19
-TITLE = 'Второй ключ и несостоявшееся свидание  (The Second Key and the Unfulfilled Date)'
+TITLE = "Второй ключ и несостоявшееся свидание  (The Second Key and the Unfulfilled Date)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "nagiyev": "angelina"}
+LABELS = {"nikita": "Никита", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = "Using the satellite tracker, Nikita brings Nagiyev's sports car back and reveals that it had been parked near Claude Monet for three hours. Realizing Victor tricked him, Nagiyev takes the car back."
 
 STORY = [
-    ('anya', 'Дима, а где вторые ключи от машины?', 'Dima, where is the second set of keys to the car?', [(311, 'Дим, а где вторые ключи от машины')], 'adapted'),
+    ('nikita', 'Дима, а где вторые ключи от машины?', 'Dima, where is the second set of keys to the car?', [(311, 'Дим, а где вторые ключи от машины')], 'adapted'),
     ('nagiyev', 'Дима никогда слов на ветер не бросает.', 'Dima never throws words to the wind.', [(313, 'Дима слов на ветер не бросает')], 'adapted'),
     ('nagiyev', 'Витюша, держи второй ключ, тачка твоя.', 'Vityusha, take the second key, the car is yours.', [(314, 'тачка твоя'), (315, 'Второй ключ')], 'adapted'),
     ('nagiyev', 'Ах ты хитрец, свою же машину угнал!', 'Oh you schemer, you stole your own car!', [(317, 'Свою же машину угнал')], 'adapted'),
-    ('anya', 'Ведь я для нашей общей судьбы старался.', 'After all, I was doing it for our shared destiny.', [(318, 'Ведь я для тебя это делал'), (319, 'Для твоей судьбы')], 'adapted'),
+    ('nikita', 'Ведь я для нашей общей судьбы старался.', 'After all, I was doing it for our shared destiny.', [(318, 'Ведь я для тебя это делал'), (319, 'Для твоей судьбы')], 'adapted'),
     ('nagiyev', 'Пошёл ты вон из моего ресторана!', 'Get out of my restaurant!', [(320, 'Пошел ты')], 'adapted'),
     ('nikita', 'Жалко, конечно, что сегодня всё сорвалось.', 'It is a pity, of course, that everything fell through today.', [(322, 'Да, жалко, конечно, что все сорвалось')], 'adapted'),
     ('nikita', 'Я целых три дня к этому готовился.', 'I spent three whole days preparing for this.', [(323, 'Три дня готовился')], 'adapted'),
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'To start with, we would have sat down on a bench.' Notice how Russian expresses 'for' and 'bench' with crisp inflection rather than helper words."),
     (9, None, "'Then fairy lights would have lit up around us.' The grammar packs 'then' and 'fairy lights' into a tight, idiomatic kitchen exchange."),
     (10, None, "'And they would have served us hot mulled wine.' The meaning hinges on 'and' working together with 'mulled wine' in spoken Russian."),
-    (11, None, "'And then they would have returned your missing hat.' The grammar packs 'and' and 'missing thing' into a tight, idiomatic kitchen exchange."),
+    (11, None, "'And then they would have returned your missing hat.' Here Nikita anchors the thought on 'then, afterwards' and finishes on 'missing thing', keeping the spoken rhythm brisk and natural."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Touched by Nikita's romantic imagination, Katya smiles as he hands back her missing hat. See you in the next scene."
-CLOSING = ('nikita', 'Тебе бы вернули пропажу.')
+OUTRO = "Touched by Nikita's romantic imagination, Katya smiles as he hands back her missing hat. Until next time!"
+CLOSING = ("nikita", "Всего хорошего!")

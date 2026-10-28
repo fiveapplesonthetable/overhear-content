@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e04-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e04-scene-08'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 4
 SCENE = 8
-TITLE = 'Плащ на голое тело  (A Trench Coat and an Interruption)'
+TITLE = "Плащ на голое тело  (A Trench Coat and an Interruption)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'denis': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "denis": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.04'
 SOURCE_FILE = 'sources/kukhnya/s04/e04.ru.srt'
 
 INTRO = "Determined not to miss their two-day window, Vika shows up at the restaurant wearing only a trench coat and pulls Max into a storage room—until Denis knocks on the door. Let's listen to the Russian dialogue."
@@ -31,22 +31,20 @@ STORY = [
 OPENER = 'Time to unpack every phrase from the exchange you just heard.'
 
 WALK = [
-    (0, None, "'Hi there.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
-    (1, None, "'Why did you come over here?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (2, None, "'I figured you would be stuck here with Denis for a long time.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (3, None, "'I am already done with Denis. Shall we go home?' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (4, None, "'Sorry. I just wanted to apologize for yelling at you.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
-    (5, None, "'Could you not have come in at least three minutes later?' Notice how Max pairs a modal word or finite verb with an infinitive to express the action."),
-    (6, None, "'Why three minutes later?' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
-    (7, None, "'Den, do you hear us? Close the door.' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (8, None, "'Vika, don't be angry. He is my brother. We need to help him.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (9, None, "'Especially since he has already left.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (10, None, "'I haven't left yet.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
+    (0, None, "'Hi there.' Vika keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
+    (1, None, "'Why did you come over here?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
+    (2, None, "'I figured you would be stuck here with Denis for a long time.' Here Vika anchors the thought on 'decided' and finishes on 'to time', keeping the spoken rhythm brisk and natural."),
+    (3, None, "'I am already done with Denis. Shall we go home?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
+    (4, None, "'Sorry. I just wanted to apologize for yelling at you.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
+    (5, None, "'Could you not have come in at least three minutes later?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
+    (6, None, "'Why three minutes later?' Denis centers this short reply on 'why', letting a few direct words carry the whole meaning."),
+    (7, None, "'Den, do you hear us? Close the door.' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
+    (8, None, "'Vika, don't be angry. He is my brother. We need to help him.' Max pairs 'Vika' with 'necessary, need to' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (9, None, "'Especially since he has already left.' Notice how Russian puts 'more' and 'left, would leave' together in a short, direct phrase where word endings show how the ideas connect."),
+    (10, None, "'I haven't left yet.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (11, None, "'I married you, not the two of you.' Vika uses the polite plural form of address to maintain a respectful or ironic distance."),
 ]
 
 TRANSITION = "Now let's replay the complete scene in Russian without interruption."
-
-OUTRO = "Now you have the scene where Denis accidentally interrupts Vika's trench-coat surprise at the restaurant. Notice how Russian distinguishes marrying a man from marrying a woman. See you in the next scene."
-CLOSING = ('vika', 'Я выходила замуж за тебя.')
-CLOSING_TRANS = 'I married you.'
+OUTRO = "Now you have the scene where Denis accidentally interrupts Vika's trench-coat surprise at the restaurant. Notice how Russian distinguishes marrying a man from marrying a woman. See you next time!"
+CLOSING = ("vika", "Всего хорошего!")

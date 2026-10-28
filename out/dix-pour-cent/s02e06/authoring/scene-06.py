@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 6
-TITLE = "Le monde du showbiz  (A Wonderful Showbiz World)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le monde du showbiz  (A Wonderful Showbiz World)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "annick": "emilie", "lea": "lucie"}
-LABELS = {"annick": "Annick", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'annick': 'emilie', 'lea': 'lucie'}
+LABELS = {'annick': 'Annick', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Back in the south of France, Camille helps her mother Annick at the family hair salon. Annick gossips about celebrities and scolds Camille for ever trusting Mathias and his agency partners. Let's listen to the scene in French first."
 OPENER = "Let's examine Camille and her mother's candid discussion step by step to explore family dynamics and disillusionment."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Camille faces the harsh truth about her brief career at ASK as her mother questions the loyalty of Mathias and the Parisian agency. Let's review the vocabulary and expressions from this scene. See you next time!"
-CLOSING = ("annick", "Bonne journée!")
+CLOSING = ('annick', 'Bonne journée!')
 STORY = [
     ('annick', 'Raconte-moi des histoires sur tes acteurs!', 'Tell me stories about your actors!', [(111, '-Raconte-nous des trucs.')], ''),
     ('lea', 'Je ne sais vraiment rien, maman.', 'I really know nothing, Mom.', [(111, '-Je sais vraiment pas.')], ''),

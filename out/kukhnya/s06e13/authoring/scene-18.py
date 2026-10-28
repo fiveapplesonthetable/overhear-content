@@ -1,27 +1,27 @@
 ID = 'kukhnya-s06e13-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 18
-TITLE = 'Катя говорит да  (Katya Says Yes)'
+TITLE = "Катя говорит да  (Katya Says Yes)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja'}
-LABELS = {'anya': 'Катя', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
+LABELS = {"nikita": "Никита", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'Shocked by her own impulsive kiss with Denis on the roof, Katya rushes downstairs to find Nikita. She accepts his marriage proposal on the spot, and an overjoyed Nikita announces their engagement to the entire dining room.'
 
 STORY = [
-    ('anya', 'Никита, я очень хорошо обо всём подумала.', 'Nikita, I thought very carefully about everything.', [(251, 'я подумала')], 'adapted'),
-    ('anya', 'Я согласна с твоим вчерашним предложением.', 'I agree with your proposal from yesterday.', [(251, 'я согласна с твоим предложением')], 'adapted'),
-    ('anya', 'Я согласна выйти за тебя замуж.', 'I agree to marry you.', [(252, 'замуж')], 'adapted'),
+    ('katya', 'Никита, я очень хорошо обо всём подумала.', 'Nikita, I thought very carefully about everything.', [(251, 'я подумала')], 'adapted'),
+    ('katya', 'Я согласна с твоим вчерашним предложением.', 'I agree with your proposal from yesterday.', [(251, 'я согласна с твоим предложением')], 'adapted'),
+    ('katya', 'Я согласна выйти за тебя замуж.', 'I agree to marry you.', [(252, 'замуж')], 'adapted'),
     ('nikita', 'Катя, ты говоришь мне сейчас правду?', 'Katya, are you telling me the truth right now?', [(253, 'Правда')], 'adapted'),
-    ('anya', 'Да, это действительно чистая правда.', 'Yes, this is truly the honest truth.', [(253, 'Да, правда')], 'adapted'),
+    ('katya', 'Да, это действительно чистая правда.', 'Yes, this is truly the honest truth.', [(253, 'Да, правда')], 'adapted'),
     ('nikita', 'Послушайте, я хочу поделиться с вами радостью.', 'Listen, I want to share my joy with you.', [(256, 'я хочу поделиться с вами радостью')], 'adapted'),
     ('nikita', 'Катя согласилась стать моей любимой женой.', 'Katya agreed to become my beloved wife.', [(258, 'Катя согласилась стать моей женой')], 'adapted'),
-    ('anya', 'Пожалуйста, хватит, на нас люди смотрят.', 'Please, stop, people are looking at us.', [(260, 'Хватит, но люди смотрят')], 'adapted'),
+    ('katya', 'Пожалуйста, хватит, на нас люди смотрят.', 'Please, stop, people are looking at us.', [(260, 'Хватит, но люди смотрят')], 'adapted'),
     ('nikita', 'А пускай все люди сейчас смотрят.', 'Let all the people look right now.', [(261, 'А пускай смотрят')], 'adapted'),
     ('nikita', 'Пускай все знают, как я счастлив.', 'Let everyone know how happy I am.', [(262, 'Пускай все знают, как я счастлив')], 'adapted'),
     ('nikita', 'Я сегодня действительно горд и счастлив.', 'Today I am truly proud and happy.', [(265, 'Я горд и счастлив')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Nikita cries tears of joy in front of the guests, Katya looks uneasy about the choice she has just made. See you in the next scene.'
-CLOSING = ('nikita', 'Я буду лучшим мужем.')
+OUTRO = 'As Nikita cries tears of joy in front of the guests, Katya looks uneasy about the choice she has just made. See you next time!'
+CLOSING = ("nikita", "До свидания!")

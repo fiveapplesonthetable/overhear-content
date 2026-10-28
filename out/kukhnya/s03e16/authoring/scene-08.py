@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 8
-TITLE = 'История майонеза и идея соуса  (The Story of Mayonnaise and the Sauce Idea)'
+TITLE = "История майонеза и идея соуса  (The Story of Mayonnaise and the Sauce Idea)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'Out in the courtyard, Max complains that he cannot invent a masterpiece without expensive ingredients. Katya tells him how a French chef invented mayonnaise during a siege using only olive oil and eggs—giving Max the idea to create a sauce! Listen first.'
@@ -18,7 +18,7 @@ STORY = [
     ('katya', 'Макс, как твои успехи, придумал что-нибудь новое?', 'Max, how is your progress, have you invented anything new?', [(130, 'Как успехи? Придумал что-нибудь новое')], 'adapted'),
     ('anya', 'Как я придумаю, шеф запретил мне брать дорогие продукты!', 'How can I invent anything, the chef forbade me to take expensive ingredients!', [(131, 'Как? Шеф запретил мне брать дорогие продукты')], 'adapted'),
     ('katya', 'А ты знаешь, как во Франции придумали майонез?', 'Do you know how they invented mayonnaise in France?', [(132, 'Знаешь, как придумали майонез')], 'adapted'),
-    ('katya', 'Город был в осаде, и не было ничего, кроме оливкового масла и яиц.', 'A city was under siege, and there was nothing except olive oil and eggs.', [(133, 'город'), (133, 'был в осаде, и не было ничего, кроме оливкового масла и яиц')], 'adapted'),
+    ('katya', 'Город был в осаде, не было ничего, кроме масла и яиц.', 'The city was under siege, and there was nothing except oil and eggs.', [(133, 'город'), (133, 'был в осаде'), (133, 'масла и яиц')], 'adapted'),
     ('katya', 'Солдаты уже не могли больше есть яичницу и омлет.', 'The soldiers could no longer eat fried eggs and omelettes.', [(134, 'солдаты уже не могли есть яичницу и омлет')], 'adapted'),
     ('katya', 'И тогда повар придумал для них вкусный майонез!', 'And then the cook invented delicious mayonnaise for them!', [(134, 'повар придумал для них майонез')], 'adapted'),
     ('anya', 'Ну ладно, приготовлю что-нибудь простое и подешевле.', 'Well alright, I will cook something simple and a bit cheaper.', [(136, 'Ну, ладно'), (137, 'Приготовлю'), (137, 'подешевле')], 'adapted'),
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Max, how is your progress, have you invented anything new?' The grammar packs 'Max' and 'new' into a tight, idiomatic kitchen exchange. Max answers right away."),
     (2, None, "'How can I invent anything, the chef forbade me to take expensive ingredients!' Max brings out the contrast between 'how' and 'I' in a few short words."),
     (3, None, "'Do you know how they invented mayonnaise in France?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'mayonnaise'."),
-    (4, None, "'A city was under siege, and there was nothing except olive oil and eggs.' Katya brings out the contrast between 'city' and 'was' in a few short words."),
+    (4, None, "'The city was under siege, and there was nothing except oil and eggs.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (5, None, "'The soldiers could no longer eat fried eggs and omelettes.' The negative particle sits right before the verb meaning 'could' to negate the statement."),
     (6, None, "'And then the cook invented delicious mayonnaise for them!' Katya brings out the contrast between 'and' and 'then' in a few short words."),
     (7, None, "'Well alright, I will cook something simple and a bit cheaper.' The meaning hinges on 'come on' working together with 'a bit cheaper' in spoken Russian. Katya answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Inspired by the story of mayonnaise, Max decides to craft a special sauce for salmon! Next, let's see how Chef Barinov catches Senya and Fedya in Scene Nine."
-CLOSING = ('anya', 'Я придумаю свой соус!')
+OUTRO = "Inspired by the story of mayonnaise, Max decides to craft a special sauce for salmon! Next, let's see how Chef Barinov catches Senya and Fedya in Scene Nine. See you next time!"
+CLOSING = ("anya", "До завтра!")

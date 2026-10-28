@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Преследуете? Господи! Ты что тут делаешь? | Are you stalking me? Good Lord! What are you doing here? | #265 00:20:02: Преследуете? Господи! Ты | adapted: adapted |
+| 1 | Элеонора | Преследуете? Господи! Ты что тут делаешь? | Are you stalking me? Good Lord! What are you doing here? | #265 00:20:02: Преследуете? Господи! Ты | adapted: adapted |
 | 2 | Денис | Катю жду. Ну этого мне еще не хватало. | Waiting for Katya. That is the last thing I needed. | #266 00:20:06: Катю жду. Ну | adapted: adapted |
-| 3 | Аня | Отвернись сейчас же. | Turn around right now. | #267 00:20:10: Отвернись | adapted: adapted |
+| 3 | Элеонора | Отвернись сейчас же. | Turn around right now. | #267 00:20:10: Отвернись | adapted: adapted |
 | 4 | Денис | Послушайте, я так больше не могу. | Listen, I cannot go on like this anymore. | #270 00:20:19: Послушайте, я так | adapted: adapted |
 | 5 | Денис | У нас с Катей из-за вас все рушится. | Everything between Katya and me is falling apart because of you. | #271 00:20:22: У нас с | adapted: adapted |
 | 6 | Денис | Давайте расскажем ей правду. | Let us tell her the truth. | #272 00:20:24: Давайте расскажем ей | adapted: adapted |
-| 7 | Аня | Мальчик, свои отношения ты разрушил сам. | Boy, you ruined your relationship yourself. | #273 00:20:27: Мальчик, свои отношения | adapted: adapted |
-| 8 | Аня | Теперь хочешь еще нам с Катей нагадить? | Now you want to ruin things between Katya and me too? | #274 00:20:31: Теперь хочешь еще | adapted: adapted |
-| 9 | Аня | Нет, просто... Ты никогда не скажешь Кате о том, что было. | No, it is just... You will never tell Katya about what happened. | #275 00:20:33: Нет, просто... Ты | adapted: adapted |
+| 7 | Элеонора | Мальчик, свои отношения ты разрушил сам. | Boy, you ruined your relationship yourself. | #273 00:20:27: Мальчик, свои отношения | adapted: adapted |
+| 8 | Элеонора | Теперь хочешь еще нам с Катей нагадить? | Now you want to ruin things between Katya and me too? | #274 00:20:31: Теперь хочешь еще | adapted: adapted |
+| 9 | Элеонора | Нет, просто... Ты никогда не скажешь Кате о том, что было. | No, it is just... You will never tell Katya about what happened. | #275 00:20:33: Нет, просто... Ты | adapted: adapted |
 | 10 | Денис | Она идет. | She is coming. | #277 00:20:44: Она идет | adapted: adapted |
 | 11 | Денис | Что делать? | What do we do? | #278 00:20:46: Что делать | adapted: adapted |
-| 12 | Аня | Не пускай ее в ванную. | Do not let her into the bathroom. | #279 00:20:47: Не пускай ее | adapted: adapted |
+| 12 | Элеонора | Не пускай ее в ванную. | Do not let her into the bathroom. | #279 00:20:47: Не пускай ее | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

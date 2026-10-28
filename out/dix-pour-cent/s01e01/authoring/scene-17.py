@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 17
 TITLE = "Je change d'agent  (I'm Changing Agents)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "cecile": "emilie", "gabriel": "theo"}
-LABELS = {"cecile": "Cécile", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo'}
+LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "But Cécile already knows: Camille, the new assistant, let it slip in the washroom earlier. Now she wants to see if her agent will tell her the truth. Listen to the French first, and don't worry if some of it goes by too fast."
 OPENER = "Let's go back over it. Gabriel jumps up, all smiles, as if he were delighted to see her."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That was a hard scene for Gabriel, but a good one for your French. When you watch, wait for the line about ten percent: you'll recognise it. Take care, and see you soon."
-CLOSING = ("cecile", "Salut!")
+OUTRO = "That was a hard scene for Gabriel, but a good one for your French. When you watch, wait for the line about ten percent: you'll recognise it. See you next time!"
+CLOSING = ('cecile', 'Salut!')
 STORY = [
     ('gabriel', 'Cécile, super! Ça va?', 'Cécile, great! How are you?', [(486, 'Cécile, super !'), (487, 'Ça va ?')], ''),
     ('cecile', 'Oui, et toi?', 'Fine, and you?', [(487, 'Oui, et toi ?')], ''),

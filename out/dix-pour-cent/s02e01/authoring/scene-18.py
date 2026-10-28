@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 18
 TITLE = "L'idée lumineuse d'Andréa  (Andréa's Bright Idea)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = 'Outside the wine-tasting reception in Burgundy, Andréa Martel has a sudden revelation. Hicham Janowski, her former high-school classmate, has just sold his company for two hundred million euros. She convinces Gabriel that Hicham could be the savior ASK desperately needs, then sprints across the courtyard to catch him. Listen to the scene in French first.'
 OPENER = "Let's explore Andréa's spontaneous pitch line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more from beginning to end."
-OUTRO = "Andréa has managed to slip into Hicham's passenger seat, setting up the perfect moment to pitch ASK. Remember the classic idiom for a goldmine: la poule aux œufs d'or. Join us next time to see what happens next."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Andréa has managed to slip into Hicham's passenger seat, setting up the perfect moment to pitch ASK. Remember the classic idiom for a goldmine: la poule aux œufs d'or. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', "Ce type, c'est la poule aux œufs d'or.", 'This guy is the golden goose.', [(486, "Ce type, c'est la poule aux œufs d'or")], ''),
     ('lea', 'Il a vendu son site pour deux cents millions.', 'He sold his website for two hundred million.', [(487, 'Il a vendu son site pour')], ''),

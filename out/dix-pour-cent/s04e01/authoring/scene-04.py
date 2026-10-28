@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 4
-TITLE = "La robe des César  (The César Dress)"
-LEVEL = "A1 — débutant"
+TITLE = 'La robe des César  (The César Dress)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "vendeur": "theo", "noemie": "emilie"}
-LABELS = {"vendeur": "Le vendeur", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'vendeur': 'theo', 'noemie': 'emilie'}
+LABELS = {'vendeur': 'Le vendeur', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "In a fashionable Parisian boutique, Noemie Leclerc shops for the ideal outfit to accompany Mathias Barneville to the prestigious Cesar ceremony. Dismissing conventional sobriety in favor of flamboyant seduction, she works with a confident boutique stylist to discover a dress matching her personality. Together, they celebrate a look that embraces contrast, boldness, and irresistible charm. Let's listen to the scene in French first."
 OPENER = "Let's observe as Noemie selects a daring dress for the prestigious film gala."
 TRANSITION = "Now let's listen to Noemie and the stylist chatting again at full speed."
-OUTRO = "Finding a look that matches her playful confidence, Noemie leaves the boutique prepared to turn heads at the ceremony. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = "Finding a look that matches her playful confidence, Noemie leaves the boutique prepared to turn heads at the ceremony. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('vendeur', "C'est pour une fête d'anniversaire?", 'Is it for a birthday party?', [(179, "C'est pour un anniversaire")], ''),
     ('noemie', "Non, c'est pour la cérémonie des César.", 'No, it is for the Cesar ceremony.', [(181, 'La Cérémonie des César')], ''),

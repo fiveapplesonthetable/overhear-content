@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e13-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 13
 SCENE = 16
-TITLE = 'Допрос под присягой  (Interrogation Under Oath)'
+TITLE = "Допрос под присягой  (Interrogation Under Oath)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.13'
 SOURCE_FILE = 'sources/kukhnya/s05/e13.ru.srt'
 
 INTRO = "On the witness stand, Kostya tries to praise Max as a wonderful person and stalls by drinking water, but under Nastya's fierce questioning and Judge Barinov's warning, he blurts out all of Max's flaws."
 
 STORY = [
-    ('anya', 'Максим — мой друг и очень хороший человек.', 'Maxim is my friend and a very good person.', [(214, 'Очень хороший человек')], 'adapted'),
+    ('kostya', 'Максим — мой друг и очень хороший человек.', 'Maxim is my friend and a very good person.', [(214, 'Очень хороший человек')], 'adapted'),
     ('nastya', 'Почему же хороший человек на скамье подсудимых?', 'Why then is a good person in the dock?', [(215, 'почему хороший человек оказался на скамье подсудимых')], 'adapted'),
-    ('anya', 'Ну, у каждого есть свои мелкие недостатки.', 'Well, everyone has their own minor flaws.', [(216, 'У каждого свои есть недостатки')], 'adapted'),
+    ('kostya', 'Ну, у каждого есть свои мелкие недостатки.', 'Well, everyone has their own minor flaws.', [(216, 'У каждого свои есть недостатки')], 'adapted'),
     ('nastya', 'Отвечайте быстрее, вы не можете пить вечно!', 'Answer faster, you cannot drink water forever!', [(219, 'Вы не можете пить вечно')], 'adapted'),
     ('nastya', 'Вам всё равно придётся честно отвечать.', 'You will still have to answer honestly.', [(220, 'Вам все равно придется отвечать')], 'adapted'),
-    ('anya', 'Можно я сначала быстро выйду в туалет?', 'May I quickly step out to the restroom first?', [(221, 'Можно я выйду в туалет')], 'adapted'),
+    ('kostya', 'Можно я сначала быстро выйду в туалет?', 'May I quickly step out to the restroom first?', [(221, 'Можно я выйду в туалет')], 'adapted'),
     ('nastya', 'Нет! Скажите, какие у него недостатки?', 'No! Tell us, what are his flaws?', [(222, 'Какие у него недостатки')], 'adapted'),
-    ('anya', 'Он дома не моет за собой посуду.', 'He does not wash the dishes after himself at home.', [(223, 'Не моет за собой посуду')], 'adapted'),
-    ('chef', 'Предупреждаю вас, вы находитесь под присягой!', 'I warn you, you are under oath!', [(225, 'Я предупреждаю вас, вы находитесь под присягой')], 'adapted'),
+    ('kostya', 'Он дома не моет за собой посуду.', 'He does not wash the dishes after himself at home.', [(223, 'Не моет за собой посуду')], 'adapted'),
+    ('kostya', 'Предупреждаю вас, вы находитесь под присягой!', 'I warn you, you are under oath!', [(225, 'Я предупреждаю вас, вы находитесь под присягой')], 'adapted'),
     ('nastya', 'А может ли такой человек поцеловать Сашу?', 'And could such a person kiss Sasha?', [(227, 'А может ли такой человек поцеловать Сашу')], 'adapted'),
-    ('anya', 'Мог, ведь он раньше с ней встречался.', 'He could, because he used to date her before.', [(228, 'Мог. Он до этого с ней встречался')], 'adapted'),
+    ('kostya', 'Мог, ведь он раньше с ней встречался.', 'He could, because he used to date her before.', [(228, 'Мог. Он до этого с ней встречался')], 'adapted'),
     ('nastya', 'Да! У меня больше нет вопросов!', 'Yes! I have no further questions!', [(229, 'Да')], 'adapted'),
 ]
 
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Why then is a good person in the dock?' The grammar packs 'why' and 'defendant' into a tight, idiomatic kitchen exchange."),
     (2, None, "'Well, everyone has their own minor flaws.' Notice how Russian expresses 'come on' and 'flaws' with crisp inflection rather than helper words. Nastya answers right away."),
     (3, None, "'Answer faster, you cannot drink water forever!' Nastya chooses the respectful plural 'you' alongside 'forever' to keep a polite distance."),
-    (4, None, "'You will still have to answer honestly.' In Russian, the idea of 'you' flows naturally into 'to answer' without extra filler words."),
+    (4, None, "'You will still have to answer honestly.' Nastya pairs 'equal, all the same' with 'to answer' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (5, None, "'May I quickly step out to the restroom first?' Kostya raises the pitch on 'restroom' to turn the phrase into a direct spoken question. Nastya answers right away."),
     (6, None, "'No! Tell us, what are his flaws?' In Russian, the idea of 'no' flows naturally into 'flaws' without extra filler words."),
     (7, None, "'He does not wash the dishes after himself at home.' In Russian, the idea of 'he' flows naturally into 'dishes' without extra filler words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya steps down in disgrace after accidentally handing the prosecution a complete victory. See you in the next scene.'
-CLOSING = ('anya', 'У каждого есть свои недостатки.')
+OUTRO = 'Kostya steps down in disgrace after accidentally handing the prosecution a complete victory. See you next time!'
+CLOSING = ("kostya", "До завтра!")

@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Mince, je l'ai oubliée à la photocopieuse! | Darn, I forgot it at the photocopier! | 518:Je l'ai oubliée à la photocopieuse !, 519:Merde ! |
 
 ## Part 5 — Outro & Closing
-> Startled by her own distraction, Andrea sprints across the office to rescue baby Flora from the copy room. When you watch the episode, listen out for the expressions meaning 'goes' and 'happens'. You'll catch them now. See you next time.
+> Startled by her own distraction, Andrea sprints across the office to rescue baby Flora from the copy room. When you watch the episode, listen out for the expressions meaning 'goes' and 'happens'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

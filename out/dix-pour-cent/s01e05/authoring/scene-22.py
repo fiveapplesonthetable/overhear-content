@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 22
-TITLE = "Arrête la voiture!  (Stop the Car!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arrête la voiture!  (Stop the Car!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Meanwhile, back at the agency in Paris, Camille shows Mathias the online petition she launched to save his client's soap-opera role, and Mathias is impressed: ten thousand signatures in one night, and he tells her 'well played, Camille'. Let's hear the scene in French first."
 OPENER = "Let's go through it line by line. In the car, Gabriel can hardly believe his ears."
 TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = "While Camille wins her father's respect in Paris, poor Andréa is stranded on foot in the middle of the countryside with no phone signal. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "While Camille wins her father's respect in Paris, poor Andréa is stranded on foot in the middle of the countryside with no phone signal. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('gabriel', "Tu es avec l'inspectrice des impôts! Tu es folle!", 'You', [(449, 'des impôts'), (449, 'folle')], ''),
     ('gabriel', 'Tu te comportes comme une gamine!', 'You', [(450, 'Tu te comportes comme une gamine')], ''),

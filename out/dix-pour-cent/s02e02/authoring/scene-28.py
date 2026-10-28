@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 28
 TITLE = "La nouvelle agente de Fabrice  (Fabrice's New Agent)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "fabrice": "theo", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"fabrice": "Fabrice", "lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'fabrice': 'theo', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'fabrice': 'Fabrice', 'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Amused by her daring tactics and grateful for her romantic encouragement, the eccentric actor announces that he wants her as his new agent, right as agency boss Hicham looks on in approval. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through the phone call of Fabrice Luchini step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'By winning over Fabrice Luchini with her boldness, Andréa saves her position at ASK and earns the hard-won respect of new majority shareholder Hicham Janowski. See you next time!'
-CLOSING = ("hicham", "À demain!")
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('lea', 'Allô?', 'Hello?', [(922, 'Allô')], ''),
     ('fabrice', "Bonjour, Andréa. C'est Fabrice Luchini.", 'Hello, Andréa. This is Fabrice Luchini.', [(922, 'Bonjour, Andréa'), (923, "C'est Fabrice Luchini")], ''),

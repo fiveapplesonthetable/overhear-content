@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 29
 TITLE = "Le grand frisson de Mathias  (Mathias's Big Thrill)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Following his alarming alcohol blackout after the previous night's celebrations, Mathias meets assistant Noémie at a quiet Parisian restaurant. Relieved to find him safe and sound, Noémie admits her frantic worries before their private conversation takes an unexpectedly romantic and secretive turn. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the secret dinner of Mathias and Noémie step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'Mathias and Noémie share a tender romantic secret away from the pressures of the agency, heading off into the Parisian night together. Join us next time to see what happens next.'
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = 'Mathias and Noémie share a tender romantic secret away from the pressures of the agency, heading off into the Parisian night together. See you next time!'
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('noemie', "Mathias! Qu'est-ce que tu fais là?", 'Mathias! What are you doing here?', [(943, 'Mathias'), (943, "Qu'est-ce que tu fais là")], ''),
     ('noemie', 'Oh, je suis tellement désolée...', 'Oh, I am so sorry...', [(944, 'Oh, je suis tellement désolée')], ''),

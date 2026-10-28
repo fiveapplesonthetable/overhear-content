@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e05-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 13
-TITLE = 'Серьёзный соперник  (A Serious Rival)'
+TITLE = "Серьёзный соперник  (A Serious Rival)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "anya": "alisa"}
+LABELS = {"fedya": "Федя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = "While Fedya teases Senya with a piece of ice for his fake toothache, Kostya tells Max that Nagiyev is a serious rival for Vika's heart. Listen to the full conversation in Russian first, and then we will walk through every line together."
@@ -19,12 +19,12 @@ STORY = [
     ('fedya', 'Вот это настоящий холодный лёд.', 'Right here is real cold ice.', [(189, 'это лёд')], 'adapted'),
     ('fedya', 'На, вот можешь сам проверить.', 'Here, you can check for yourself.', [(189, 'На, вот можешь проверить')], 'adapted'),
     ('fedya', 'Ну что, ты уже проверил?', 'Well, have you checked already?', [(190, 'Проверил')], 'adapted'),
-    ('kostya', 'Да, соперник у тебя, конечно, серьёзный.', 'Yes, your rival is certainly serious.', [(191, 'Да, соперник у тебя, конечно, серьёзный')], 'adapted'),
-    ('kostya', 'Хорошо, что ему Настя не нравится.', 'It is good that he does not like Nastya.', [(193, 'хорошо, что ему Настя не нравится')], 'adapted'),
+    ('fedya', 'Да, соперник у тебя, конечно, серьёзный.', 'Yes, your rival is certainly serious.', [(191, 'Да, соперник у тебя, конечно, серьёзный')], 'adapted'),
+    ('fedya', 'Хорошо, что ему Настя не нравится.', 'It is good that he does not like Nastya.', [(193, 'хорошо, что ему Настя не нравится')], 'adapted'),
     ('anya', 'Пойду с ним спокойно поговорю.', 'I will go talk with him calmly.', [(194, 'Пойду с ним поговорю')], 'adapted'),
-    ('kostya', 'Макс, подожди, ты куда идёшь?', 'Max, wait, where are you going?', [(195, 'Макс, Макс')], 'adapted'),
+    ('fedya', 'Макс, подожди, ты куда идёшь?', 'Max, wait, where are you going?', [(195, 'Макс, Макс')], 'adapted'),
     ('anya', 'Дмитрий Владимирович, вы сейчас свободны?', 'Dmitry Vladimirovich, are you free right now?', [(197, 'Дмитрий Владимирович')], 'adapted'),
-    ('kostya', 'Дай я тебе позже перезвоню.', 'Let me call you back later.', [(197, 'я тебе перезвоню')], 'adapted'),
+    ('fedya', 'Дай я тебе позже перезвоню.', 'Let me call you back later.', [(197, 'я тебе перезвоню')], 'adapted'),
     ('anya', 'Нам нужно серьёзно поговорить.', 'We need to talk seriously.', [(194, 'поговорю')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max marches straight up to Nagiyev's table to settle things man to man, only to learn something unexpected."
-CLOSING = ('anya', 'Я сейчас к вам подойду.')
+OUTRO = "Max marches straight up to Nagiyev's table to settle things man to man, only to learn something unexpected. Until next time!"
+CLOSING = ("anya", "До свидания!")

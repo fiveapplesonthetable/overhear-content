@@ -31,5 +31,5 @@
 | 17 | `camille` (Camille) | Oui, maintenant! | Yes, right now! | adapted |
 
 ## Part 5 — Outro & Closing
-> Camille walked in looking for her father and walks out with a job at his agency. Upstairs, Samuel still has one piece of advice for Gabriel before his plane, and we'll find out what it was. Well done, and see you next time.
+> Camille walked in looking for her father and walks out with a job at his agency. Upstairs, Samuel still has one piece of advice for Gabriel before his plane, and we'll find out what it was. See you next time!
 - **Closing**: `camille`: *À bientôt!*

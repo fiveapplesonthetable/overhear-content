@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e12-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 2
 TITLE = "Воспоминания новичка и приговор врача  (Memories of a Rookie and the Doctor's Verdict)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = "After recalling how Fedya and Senya pranked him on his very first day at Claude Monet, Max's thoughts shift to the hospital. There, the doctor congratulates Viktor Petrovich on his clean MRI scan but forbids him from returning to the kitchen for at least two months."
 
@@ -38,16 +38,15 @@ WALK = [
     (3, None, "'They played the exact same prank on me when I started.' Max brings out the contrast between 'here' and 'me' in a few short words."),
     (4, None, "'Reporting for duty.' Notice how Russian expresses 'for' and 'arrive' with crisp inflection rather than helper words. Vika answers right away."),
     (5, None, "'Viktor Petrovich.' Vika anchors the line on 'Viktor', while 'Petrovich' completes the thought."),
-    (6, None, "'I have good news for you.' Here the Russian phrasing highlights 'by' before landing on 'news'."),
+    (6, None, "'I have good news for you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (7, None, "'Your MRI results just came back.' Spoken Russian keeps this brisk, leaning on 'have come' and finishing on 'your'. Vika answers right away."),
     (8, None, "'You simply cannot take your eyes off them.' The meaning hinges on 'just' working together with 'to tear off' in spoken Russian."),
     (9, None, "'Does that mean I can go back to work?' Max anchors the line on 'so', while 'work' completes the thought."),
-    (10, None, "'You will have to forget about work for at least two months.' Notice the reflexive suffix on the verb meaning 'it will be necessary', turning the action back on the subject. Vika answers right away."),
+    (10, None, "'You will have to forget about work for at least two months.' Chef Barinov pairs 'work' with 'months' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'What do you mean, for two months?' The grammar packs 'how' and 'months' into a tight, idiomatic kitchen exchange."),
     (12, None, "'Two weeks here with us, and then bed rest at home.' Max brings out the contrast between 'two' and 'weeks' in a few short words."),
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 2 of Episode 12, listen out for the exchange around memories of a rookie and the doctor's verdict — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('vika', 'Как на два месяца?')
+OUTRO = 'That wraps up this scene as max remembers his own first day in the kitchen, while at the hospital the doctor tells Chef Barinov that despite good MRI results he cannot return to work for two months. See you next time!'
+CLOSING = ("vika", "До свидания!")

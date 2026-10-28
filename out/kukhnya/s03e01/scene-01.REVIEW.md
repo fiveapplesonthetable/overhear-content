@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am Max Lavrov.' Max anchors the line on 'I', while 'Lavrov' completes the thought.
 - 'I used to work as a cook, now I am a waiter.' The meaning hinges on 'earlier' working together with 'waiter' in spoken Russian.
 - 'Working as a waiter is not easy at all.' The negative particle sits right before the verb meaning 'to work' to negate the statement.
-- 'You are gravely mistaken.' In Russian, the idea of 'you' flows naturally into 'are mistaken' without extra filler words.
+- 'You are gravely mistaken.' Max pairs 'strongly' with 'are mistaken' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Hello!' In Russian, the idea of 'hello' flows naturally into 'hello' without extra filler words.
-- 'Are you writing this down?' In Russian, the idea of 'you' flows naturally into 'write down' without extra filler words. Max answers right away.
+- 'Are you writing this down?' In spoken Russian, the words stay in their normal statement order and the guest's rising voice at the end turns the line into a question.
 - 'I will remember it.' Here the Russian phrasing highlights 'I' before landing on 'will remember'.
 - 'Gratin, please. And rabbit for me.' the guest brings out the contrast between 'gratin' and 'please' in a few short words.
 - 'A salad and still water.' the guest anchors the line on 'salad', while 'gas' completes the thought.
-- 'And fresh orange juice.' The grammar packs 'and' and 'fresh juice' into a tight, idiomatic kitchen exchange.
+- 'And fresh orange juice.' Here the guest anchors the thought on 'orange' and finishes on 'fresh juice', keeping the spoken rhythm brisk and natural.
 - 'What is this?' The meaning hinges on 'what' working together with 'this' in spoken Russian.
 - 'Beautiful!' In Russian, the idea of 'beauty' flows naturally into 'beauty' without extra filler words.

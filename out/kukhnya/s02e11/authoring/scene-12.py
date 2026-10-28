@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 12
-TITLE = 'Битва за кастрюлю  (Battle over the Soup Pot)'
+TITLE = "Битва за кастрюлю  (Battle over the Soup Pot)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = 'Letting Sasha and Nastya out of the walk-in refrigerator fails to bring peace. That evening at the apartment, the two women clash over a broken mug that Kostya gave Nastya and argue fiercely over whose pot is sitting on the stove.'
 
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'She did that on purpose.' The grammar packs 'she' and 'on purpose' into a tight, idiomatic kitchen exchange."),
     (6, None, "'You saw it yourself.' The meaning hinges on 'you' working together with 'to see' in spoken Russian."),
     (7, None, "'Why did you put it right next to the edge?' Kostya brings out the contrast between 'what for' and 'you' in a few short words. Nastya answers right away."),
-    (8, None, "'What about me?' The grammar packs 'and' and 'I' into a tight, idiomatic kitchen exchange."),
+    (8, None, "'What about me?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question."),
     (9, None, "'Let us sit down and eat.' Notice how Russian expresses 'let's' and 'will eat' with crisp inflection rather than helper words."),
     (10, None, "'I did not even use it.' The meaning hinges on 'I' working together with 'to use' in spoken Russian. Nastya answers right away."),
     (11, None, "'I do not want anything of yours at all.' In Russian, the idea of 'for me' flows naturally into 'at' without extra filler words."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 12 of Episode 11, listen out for the exchange around battle over the soup pot — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Это моя кастрюля.')
+OUTRO = 'That wraps up this scene as after being let out of the fridge, Nastya and Sasha continue their feud at home over a broken mug and who owns the soup pot on the stove. See you next time!'
+CLOSING = ("anya", "Увидимся!")

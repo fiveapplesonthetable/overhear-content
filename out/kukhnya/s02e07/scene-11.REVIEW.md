@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Быстро же вы. | You got here fast. | #167 00:11:52: Быстро же вы | verbatim |
-| 2 | Макс | Что с вами? | What is wrong with you? | #168 00:11:57: Что с вами | verbatim |
-| 3 | Аня | Что со спиной? | What happened to your back? | #169 00:12:01: Что со спиной | verbatim |
-| 4 | Макс | Не могу. | I cannot move. | #171 00:12:05: Не могу | verbatim |
-| 5 | Аня | Не могу ни туда, ни сюда. | I cannot move forward or backward. | #172 00:12:06: Не могу ни туда, ни сюда | verbatim |
-| 6 | Макс | Стойте, стойте, стойте. | Hold on, stop, stop. | #175 00:12:15: Стойте, стойте, стойте | verbatim |
-| 7 | Аня | Стойте, стойте. | Wait, hold still. | #176 00:12:17: Стойте, стойте | verbatim |
-| 8 | Макс | Вы меня не шевелите, я сама, ладно? | Do not move me, I will try by myself, okay? | #177 00:12:18: Вы меня не шевелите, я сама, ладно | verbatim |
-| 9 | Аня | Я сама. | I can do it myself. | #178 00:12:21: Я сама | verbatim |
-| 10 | Макс | Будьте здоровы. | Bless you. | #179 00:12:27: Будьте здоровы | verbatim |
-| 11 | Аня | Родион Сергеевич, что случилось? | Rodion Sergeyevich, what happened? | #180 00:12:33: Родион Сергеевич, что случилось | verbatim |
-| 12 | Макс | Вам хуже? | Are you feeling worse? | #181 00:12:34: Вам хуже | verbatim |
-| 13 | Аня | Какой малышка хороший. | What a sweet little kitten. | #186 00:12:54: какой малышка хороший | verbatim |
+| 1 | Родион | Быстро же вы. | You got here fast. | #167 00:11:52: Быстро же вы | verbatim |
+| 2 | Аня | Что с вами? | What is wrong with you? | #168 00:11:57: Что с вами | verbatim |
+| 3 | Родион | Что со спиной? | What happened to your back? | #169 00:12:01: Что со спиной | verbatim |
+| 4 | Аня | Не могу. | I cannot move. | #171 00:12:05: Не могу | verbatim |
+| 5 | Родион | Не могу ни туда, ни сюда. | I cannot move forward or backward. | #172 00:12:06: Не могу ни туда, ни сюда | verbatim |
+| 6 | Аня | Стойте, стойте, стойте. | Hold on, stop, stop. | #175 00:12:15: Стойте, стойте, стойте | verbatim |
+| 7 | Родион | Стойте, стойте. | Wait, hold still. | #176 00:12:17: Стойте, стойте | verbatim |
+| 8 | Аня | Вы меня не шевелите, я сама, ладно? | Do not move me, I will try by myself, okay? | #177 00:12:18: Вы меня не шевелите, я сама, ладно | verbatim |
+| 9 | Родион | Я сама. | I can do it myself. | #178 00:12:21: Я сама | verbatim |
+| 10 | Аня | Будьте здоровы. | Bless you. | #179 00:12:27: Будьте здоровы | verbatim |
+| 11 | Родион | Родион Сергеевич, что случилось? | Rodion Sergeyevich, what happened? | #180 00:12:33: Родион Сергеевич, что случилось | verbatim |
+| 12 | Аня | Вам хуже? | Are you feeling worse? | #181 00:12:34: Вам хуже | verbatim |
+| 13 | Родион | Какой малышка хороший. | What a sweet little kitten. | #186 00:12:54: какой малышка хороший | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

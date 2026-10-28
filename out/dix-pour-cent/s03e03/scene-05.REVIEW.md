@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s03/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "sofia": "emilie"}`
-- **Labels**: `{"mathias": "Mathias", "sofia": "Sofia"}`
+- **Voices**: `{"narrator": "sky", "sofia": "emilie", "mathias": "marcel"}`
+- **Labels**: `{"sofia": "Sofia", "mathias": "Mathias"}`
 
 ## Part 1 — Intro
 > At the ASK agency, star client Sophia Leprince arrives frustrated by a superficial press interview about her new movie. After sending Sophia to wait in his office, ambitious owner Hicham pitches a radical rebranding idea to senior partner Mathias. Let's listen to the scene in French first.
@@ -26,5 +26,5 @@
 | 12 | `mathias` (Mathias) | En changeant de nom, nous perdrions nos clients. | By changing names, we would lose our clients. | 318:Faire attention qu'en la changeant, on ne perde pas la clientèle. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around agency now. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time.
+> That's it for this scene around agency now. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

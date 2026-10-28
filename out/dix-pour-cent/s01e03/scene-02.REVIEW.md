@@ -31,5 +31,5 @@
 | 17 | `gabriel` (Gabriel) | Gabriel. | Gabriel, right. | 53:Gabriel. |
 
 ## Part 5 — Outro & Closing
-> A mother who can't stop giving advice, and an agent whose name she can't remember. You'll enjoy this scene even more on screen now. See you next time.
+> A mother who can't stop giving advice, and an agent whose name she can't remember. You'll enjoy this scene even more on screen now. See you next time!
 - **Closing**: `laura`: *Au revoir!*

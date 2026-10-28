@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 5
-TITLE = "Des entretiens dans mon bureau  (Interviews in My Office)"
-LEVEL = "A1 — débutant"
+TITLE = 'Des entretiens dans mon bureau  (Interviews in My Office)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In Gabriel's office, new agency owner Hicham Janowski informs the agents that candidate interviews will take place in his office. Andréa immediately resists his top-down commands, forcing a tense negotiation over who controls the hiring process. Let's listen to the scene in French first."
 OPENER = "Let's examine the tense exchange between Hicham and Andréa step by step to understand the power struggle."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Andréa holds her ground against Hicham's demands, demonstrating the uneasy balance of power between the agents and their new boss. Let's review the workplace and negotiation vocabulary from this scene. Until next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "Andréa holds her ground against Hicham's demands, demonstrating the uneasy balance of power between the agents and their new boss. Let's review the workplace and negotiation vocabulary from this scene. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('hicham', 'Les entretiens auront lieu dans mon bureau.', 'The interviews will take place in my office.', [(119, "les entretiens pour le poste d'agent junior"), (120, 'auront lieu dans mon bureau')], ''),
     ('hicham', 'Je veux un agent avec moi.', 'I want an agent with me.', [(121, "je veux l'un d'entre vous avec moi.")], ''),

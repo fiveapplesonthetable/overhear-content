@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 11
-TITLE = "Un monstre de séduction  (A Monster of Seduction)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un monstre de séduction  (A Monster of Seduction)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "clementine": "emilie"}
-LABELS = {"lea": "Andréa", "clementine": "Clémentine"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'clementine': 'emilie'}
+LABELS = {'lea': 'Andréa', 'clementine': 'Clémentine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Andréa denied everything. Yet the moment the two women step out onto the pavement, Andréa's dramatic ex-girlfriend Clémentine ambushes her right in front of Colette. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through it line by line. Andréa steps out of the shop with Colette and walks straight into Clémentine."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So much for convincing Colette that she doesn't have a string of ex-girlfriends. Back at the agency, Audrey Fleurot is arriving for her meeting with Augustin. See you next time!"
-CLOSING = ("lea", "Merci, au revoir.")
+CLOSING = ('lea', 'Merci, au revoir.')
 STORY = [
     ('lea', "Clémentine! Qu'est-ce que tu fais ici?", 'Clémentine! What are you doing here?', [(291, "Clémentine ! Qu'est-ce que tu")], ''),
     ('clementine', 'Je dois faire ça pour guérir.', 'I have to do this in order to heal.', [(292, 'Je dois faire ça pour guérir')], ''),

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e07-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 12
 TITLE = "Кошачья аллергия Родиона  (Rodion's Cat Allergy)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja'}
-LABELS = {'anya': 'Настя', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "rodion": "anja"}
+LABELS = {"nastya": "Настя", "rodion": "Родион"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = 'When Nastya rescues a stray kitten in the courtyard, Rodion Sergeyevich starts sneezing violently, giving Max and Kostya the exact opening they needed. Realizing that Nastya will never let a helpless kitten stay on the street, they wait for her to bring the kitten home where Rodion cannot tolerate it.'
 
 STORY = [
-    ('anya', 'Откуда здесь кот?', 'Where did this cat come from?', [(187, 'Откуда здесь кот')], ''),
+    ('nastya', 'Откуда здесь кот?', 'Where did this cat come from?', [(187, 'Откуда здесь кот')], ''),
     ('rodion', 'Его чуть не растерзали собаки.', 'It was nearly torn apart by stray dogs.', [(188, 'его чуть не растерзали собаки')], ''),
-    ('anya', 'Ладно, отнесу его обратно на помойку.', 'All right, I will carry it back out to the dumpster.', [(189, 'Ладно, отнесу его обратно на помойку')], ''),
+    ('nastya', 'Ладно, отнесу его обратно на помойку.', 'All right, I will carry it back out to the dumpster.', [(189, 'Ладно, отнесу его обратно на помойку')], ''),
     ('rodion', 'Да-да. Ты.', 'Yes, yes. Look at you.', [(191, 'Да-да. Ты')], ''),
-    ('anya', 'Же здоровый.', 'You are totally healthy now.', [(192, 'же здоровый')], ''),
+    ('nastya', 'Же здоровый.', 'You are totally healthy now.', [(192, 'же здоровый')], ''),
     ('rodion', 'Родион Сергеевич.', 'Rodion Sergeyevich.', [(193, 'Родион Сергеевич')], ''),
-    ('anya', 'Ну, благодарю.', 'Well, thank you kindly.', [(194, 'Ну, благодарю')], ''),
+    ('nastya', 'Ну, благодарю.', 'Well, thank you kindly.', [(194, 'Ну, благодарю')], ''),
     ('rodion', 'Ну, если что, выбросила котенка?', 'Wait, did you throw the kitten out?', [(195, 'Ну, если что, выбросила котенка')], ''),
-    ('anya', 'Отнесла его в гостиницу для животных.', 'I took it to a pet hotel.', [(196, 'Отнесла его в гостиницу для животных')], ''),
+    ('nastya', 'Отнесла его в гостиницу для животных.', 'I took it to a pet hotel.', [(196, 'Отнесла его в гостиницу для животных')], ''),
     ('rodion', 'Пусть пока там поживет.', 'Let it live there for the time being.', [(197, 'Пусть пока там поживет')], ''),
-    ('anya', 'Пока хозяин не найдется.', 'Until we find an owner for it.', [(197, 'Пока хозяин не найдется')], ''),
+    ('nastya', 'Пока хозяин не найдется.', 'Until we find an owner for it.', [(197, 'Пока хозяин не найдется')], ''),
     ('rodion', 'А ты что?', 'Wait, what did you do?', [(200, 'А ты что')], ''),
-    ('anya', 'Настя, ты у меня такая умничка.', 'Nastya, you are such a clever girl.', [(203, 'Настя, ты у меня такая умничка')], ''),
+    ('nastya', 'Настя, ты у меня такая умничка.', 'Nastya, you are such a clever girl.', [(203, 'Настя, ты у меня такая умничка')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 12 of Episode 7, listen out for the exchange around rodion's cat allergy — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('rodion', 'А ты что?')
+OUTRO = 'That wraps up this scene as nastya rescues a stray kitten from dogs outside and brings it into the restaurant, unaware that Max and Kostya discovered Rodion is allergic to cats. See you next time!'
+CLOSING = ("rodion", "Увидимся!")

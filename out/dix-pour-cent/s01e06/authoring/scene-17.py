@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 17
-TITLE = "Je ne vous pardonnerai jamais  (I Will Never Forgive You)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je ne vous pardonnerai jamais  (I Will Never Forgive You)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "catherine": "emilie", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "catherine": "Catherine", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'catherine': 'emilie', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "After Sofia tells Gabriel to remove her from his files, Mathias goes to Catherine's workplace to beg for five minutes to apologize, only to be coldly turned away. Back at ASK, Andréa calls François Berléand to convince him to attend Christophe Bel's birthday party that evening. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. Mathias intercepts Catherine at her workplace."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "While Mathias is left alone after Catherine rejects his apology, Andréa heads out to meet François at Christophe Bel's birthday party. See you next time!"
-CLOSING = ("lea", "Bonne journée!")
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('catherine', "Qu'est-ce que vous voulez?", 'What do you want?', [(472, "Qu'est-ce que vous voulez")], ''),
     ('mathias', "Je veux juste vous parler. M'excuser.", 'I just want to talk to you. To apologize.', [(473, 'Je veux juste vous parler'), (473, "M'excuser")], ''),

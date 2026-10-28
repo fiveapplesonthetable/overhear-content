@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, what happened here?' Max raises the pitch on 'happened' to turn the phrase into a direct spoken question.
-- 'Did you have a bad bartender show?' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'bar'.
+- 'Did you have a bad bartender show?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'I will find out who was juggling here at night.' The grammar packs 'will find out' and 'juggled' into a tight, idiomatic kitchen exchange.
 - 'Ainura, could you clean up faster?' Notice how Russian expresses 'Ainura' and 'faster' with crisp inflection rather than helper words. Ainura answers right away.
 - 'Listen, Kostya, do not bother me.' Here the Russian phrasing highlights 'listen' before landing on 'to me'.

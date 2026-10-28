@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi there.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'Why did you come over here?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'I figured you would be stuck here with Denis for a long time.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'I am already done with Denis. Shall we go home?' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Sorry. I just wanted to apologize for yelling at you.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'Could you not have come in at least three minutes later?' Notice how Max pairs a modal word or finite verb with an infinitive to express the action.
-- 'Why three minutes later?' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'Den, do you hear us? Close the door.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Vika, don't be angry. He is my brother. We need to help him.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Especially since he has already left.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'I haven't left yet.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
+- 'Hi there.' Vika keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
+- 'Why did you come over here?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'I figured you would be stuck here with Denis for a long time.' Here Vika anchors the thought on 'decided' and finishes on 'to time', keeping the spoken rhythm brisk and natural.
+- 'I am already done with Denis. Shall we go home?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Sorry. I just wanted to apologize for yelling at you.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Could you not have come in at least three minutes later?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'Why three minutes later?' Denis centers this short reply on 'why', letting a few direct words carry the whole meaning.
+- 'Den, do you hear us? Close the door.' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'Vika, don't be angry. He is my brother. We need to help him.' Max pairs 'Vika' with 'necessary, need to' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Especially since he has already left.' Notice how Russian puts 'more' and 'left, would leave' together in a short, direct phrase where word endings show how the ideas connect.
+- 'I haven't left yet.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'I married you, not the two of you.' Vika uses the polite plural form of address to maintain a respectful or ironic distance.

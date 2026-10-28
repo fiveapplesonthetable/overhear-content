@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Absolument, notre secret est bien gardé. | Absolutely, our secret is well kept. | 792:Salut |
 
 ## Part 5 — Outro & Closing
-> Mathias's cunning act keeps Hicham completely in the dark about his secret maneuvers. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'signed'. You'll catch them now. See you next time.
+> Mathias's cunning act keeps Hicham completely in the dark about his secret maneuvers. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'signed'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

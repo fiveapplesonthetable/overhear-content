@@ -1,43 +1,42 @@
-# kukhnya-s01e04-scene-20: review sheet
+# Синий супчик  (The Blue Soup) — `kukhnya-s01e04-scene-20`
 
-Title: Синий супчик  (The Blue Soup)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.04
+**Source:** Кухня (Kukhnya) S1.04 · `sources/kukhnya/s01/e04.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `senya` | angelina | Сеня |
+| `louis` | anja | Луи |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Max serves his special soup to the Claude Monet kitchen crew, but it turns out to be an alarming bright blue color. The cooks are skeptical, pastry chef Louis suddenly notices his missing food dye, but the bizarre soup turns out to be surprisingly delicious. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Сеня | Что это за странное блюдо? | What kind of strange dish is this? | #269 00:19:50: Что за фигня | adapted: bewildered reaction |
-| 2 | Макс | Это мой новый вкусный суп! | This is my new delicious soup! | new | new: proud presentation |
-| 3 | Сеня | Почему он такого синего цвета? | Why is it such a blue color? | new | new: questioning appearance |
-| 4 | Макс | Это оригинальный авторский рецепт. | This is an original creator's recipe. | new | new: creative justification |
-| 5 | Сеня | Спасибо, я сегодня на диете. | Thanks, I am on a diet today. | #270 00:19:53: Спасибо, я сегодня на диете | adapted: polite refusal |
-| 6 | Макс | Подожди, это действительно очень вкусно! | Wait, this is really very delicious! | #271 00:19:54: Подожди, это вкусно | adapted: insisting on taste |
-| 7 | Луи | Пардон, это же мой краситель! | Pardon, that is my food coloring! | #275 00:20:06: Пардон, это же мой краситель | adapted: sudden realization |
-| 8 | Луи | Я так долго его искал! | I looked for it for so long! | #276 00:20:09: я искал, я потерял | adapted: explaining lost item |
-| 9 | Макс | Подождите, вы куда все уходите? | Wait, where are you all going? | #277 00:20:13: Подождите, вы куда | adapted: protesting retreat |
-| 10 | Сеня | Мы не хотим есть химию. | We do not want to eat chemicals. | new | new: distrust of dye |
-| 11 | Макс | Но это же реально вкусно! | But this is actually delicious! | #277 00:20:13: Это же реально вкусно | adapted: pleading quality |
-| 12 | Сеня | Какой интересный красивый супчик. | What an interesting pretty little soup. | #273 00:19:58: Какой красивый супчик | adapted: tasting cautiously |
-| 13 | Сеня | Как будто прямо море ешь. | Like you are eating the sea directly. | #278 00:20:15: как будто море ешь | adapted: surprised comparison |
-| 14 | Макс | Я же говорил, что вкусно! | I told you it was delicious! | #278 00:20:15: Правда, вкусно | adapted: triumphant validation |
+| 0 | Сеня | Что это за странное блюдо? | What kind of strange dish is this? | #269 "Что за фигня" |  |
+| 1 | Макс | Это мой новый вкусный суп! | This is my new delicious soup! | *(added)* |  |
+| 2 | Сеня | Почему он такого синего цвета? | Why is it such a blue color? | *(added)* |  |
+| 3 | Макс | Это оригинальный авторский рецепт. | This is an original creator's recipe. | *(added)* |  |
+| 4 | Сеня | Спасибо, я сегодня на диете. | Thanks, I am on a diet today. | #270 "Спасибо, я сегодня на диете" |  |
+| 5 | Макс | Подожди, это действительно очень вкусно! | Wait, this is really very delicious! | #271 "Подожди, это вкусно" |  |
+| 6 | Луи | Пардон, это же мой краситель! | Pardon, that is my food coloring! | #275 "Пардон, это же мой краситель" |  |
+| 7 | Луи | Я так долго его искал! | I looked for it for so long! | #276 "я искал, я потерял" |  |
+| 8 | Макс | Подождите, вы куда все уходите? | Wait, where are you all going? | #277 "Подождите, вы куда" |  |
+| 9 | Сеня | Мы не хотим есть химию. | We do not want to eat chemicals. | *(added)* |  |
+| 10 | Макс | Но это же реально вкусно! | But this is actually delicious! | #277 "Это же реально вкусно" |  |
+| 11 | Сеня | Какой интересный красивый супчик. | What an interesting pretty little soup. | #273 "Какой красивый супчик" |  |
+| 12 | Сеня | Как будто прямо море ешь. | Like you are eating the sea directly. | #278 "как будто море ешь" |  |
+| 13 | Макс | Я же говорил, что вкусно! | I told you it was delicious! | #278 "Правда, вкусно" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'What kind of strange dish is this?' The cook stares in disbelief at the oddly colored food.
-- 'This is my new delicious soup!' Max introduces his culinary invention with great pride.
-- 'Why is it such a blue color?' An obvious question about the soup's unnatural bright hue.
-- 'This is an original creator's recipe.' Russian omits the present-tense verb 'to be' here, linking 'original' directly with 'author's', combining 'original' with 'author's' and 'recipe'.
-- 'Thanks, I am on a diet today.' An excuse to politely decline trying the suspect blue meal.
-- 'Wait, this is really very delicious!' Max pleads with everyone to look beyond the appearance.
-- 'Pardon, that is my food coloring!' The French pastry chef recognizes his missing ingredient.
-- 'I looked for it for so long!' Louis reveals that a bottle of blue dye had gone missing.
-- 'Wait, where are you all going?' Max sees his audience backing away from the table.
-- 'We do not want to eat chemicals.' The cooks refuse to ingest artificial baking dye.
-- 'But this is actually delicious!' Max insists that the dish tastes wonderful despite the color.
-- 'What an interesting pretty little soup.' A brave cook takes a spoonful and reconsiders.
-- 'Like you are eating the sea directly.' The flavor surprisingly evokes an oceanic essence.
-- 'I told you it was delicious!' Max celebrates winning over the skeptical kitchen staff. Alright, let's hear the whole thing once more.
+> Despite the shock of Louis's blue food dye, the staff lunch turns out to be a surprising hit. Until then! Next time you watch the episode, listen for the Russian expressions for 'author's' and 'dish' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

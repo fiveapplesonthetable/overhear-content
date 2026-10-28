@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e18-scene-21"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-21'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 21
-TITLE = 'Приглашение в баню  (Invitation to the Bathhouse)'
+TITLE = "Приглашение в баню  (Invitation to the Bathhouse)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "senya": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = "Finishing the story of how he arranged every detail of the day's chaos—including the busload of tourists—Chef Barinov tells Max he passed both the culinary test and the test of friendship toward Lyova. As a reward, the Chef invites Max to join the veterans at the bathhouse."
 
@@ -41,13 +41,12 @@ WALK = [
     (6, None, "'Now my mind is at ease about you.' Max addresses the listener with the informal singular 'you' alongside 'calm'. Chef Viktor answers right away."),
     (7, None, "'Only I do not want it that way.' The grammar packs 'only' and 'want' into a tight, idiomatic kitchen exchange."),
     (8, None, "'Later on, when Lyova becomes head chef himself.' The meaning hinges on 'later' working together with 'will become' in spoken Russian."),
-    (9, None, "'You passed the second test as well.' In Russian, the idea of 'you' flows naturally into 'inspection' without extra filler words. Chef Viktor answers right away."),
+    (9, None, "'You passed the second test as well.' Here Max anchors the thought on 'passed' and finishes on 'inspection', keeping the spoken rhythm brisk and natural."),
     (10, None, "'Tonight you are coming with us to the bathhouse.' Chef Viktor anchors the line on 'today', while 'bathhouse' completes the thought."),
     (11, None, "'Of course, after Lyova moves up.' In Russian, the idea of 'of course' flows naturally into 'Lyova' without extra filler words."),
     (12, None, "'I could not bring myself to fulfill your request.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'request'."),
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 21 of Episode 18, listen out for the exchange around invitation to the bathhouse — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ты прошёл и вторую проверку.')
+OUTRO = 'That wraps up this scene as chef Barinov explains how he orchestrated the entire Monday trial and rewards Max for passing both the skill test and the loyalty test by inviting him to the bathhouse. Until next time!'
+CLOSING = ("anya", "Всего хорошего!")

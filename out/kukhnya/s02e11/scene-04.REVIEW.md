@@ -33,9 +33,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They have their own functions.' In Russian, the idea of 'by' flows naturally into 'function' without extra filler words.
 - 'Well, and what other functions are those?' Here the Russian phrasing highlights 'come on' before landing on 'function'.
 - 'Listen, are you arguing just for the sake of arguing?' Max raises the pitch on 'so that' to turn the phrase into a direct spoken question. Chef Viktor answers right away.
-- 'And you are not arguing just for the sake of it.' The grammar packs 'and' and 'that' into a tight, idiomatic kitchen exchange.
+- 'And you are not arguing just for the sake of it.' Spoken Russian keeps this brief and expressive, built right around 'to argue, to dispute' without extra helper words.
 - 'The Americans do not need that anyway.' The meaning hinges on 'like this' working together with 'American' in spoken Russian.
 - 'Of course, way more.' Notice how Russian expresses 'of course' and 'more' with crisp inflection rather than helper words. Max answers right away.
-- 'And do you know how much Galkin has?' The grammar packs 'and' and 'know' into a tight, idiomatic kitchen exchange.
-- 'That is him over there.' In Russian, the idea of 'this' flows naturally into 'there' without extra filler words.
+- 'And do you know how much Galkin has?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'That is him over there.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
 - 'What did you just say?' Max anchors the line on 'what', while 'to say' completes the thought.

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e05-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 11
-TITLE = 'Диверсия во имя «Спартака»  (Sabotage in the Name of Spartak)'
+TITLE = "Диверсия во имя «Спартака»  (Sabotage in the Name of Spartak)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = "Furious that Vika confused Zenit's goalkeeper Malafeev with a Spartak player, Chef Barinov consults his fish Arkasha and decides fate has handed him a chance to help his team win tomorrow. Ignoring Lyova's protests that poisoning a guest is dishonorable, Barinov spikes a complimentary dish with expired ingredients."
 
 STORY = [
-    ('anya', 'И что же мне делать, Аркаша?', 'So what am I supposed to do, Arkasha?', [(171, 'И что же мне делать, Аркаша')], ''),
+    ('chef', 'И что же мне делать, Аркаша?', 'So what am I supposed to do, Arkasha?', [(171, 'И что же мне делать, Аркаша')], ''),
     ('lyova', 'Зенит должен проиграть.', 'Zenit has to lose.', [(172, 'Зенит должен проиграть')], ''),
-    ('anya', 'Другого такого шанса может не быть.', 'There might never be another chance like this.', [(174, 'Другого такого шанса может не быть')], ''),
+    ('chef', 'Другого такого шанса может не быть.', 'There might never be another chance like this.', [(174, 'Другого такого шанса может не быть')], ''),
     ('lyova', 'Надо помочь Спартаку.', 'We have to help Spartak.', [(175, 'Надо помочь Спартаку')], ''),
-    ('anya', 'А ты что думаешь?', 'And what do you think?', [(176, 'А ты что думаешь')], ''),
+    ('chef', 'А ты что думаешь?', 'And what do you think?', [(176, 'А ты что думаешь')], ''),
     ('lyova', 'Я с ним согласен.', 'I agree with him.', [(177, 'Я с ним согласен')], ''),
-    ('anya', 'Оторвали его.', 'Take it away from him.', [(178, 'Оторвали его')], ''),
+    ('chef', 'Оторвали его.', 'Take it away from him.', [(178, 'Оторвали его')], ''),
     ('lyova', 'Шеф, там блюдо от шефа.', 'Chef, there is a complimentary dish from the chef.', [(181, 'Шеф, там блюдо от шефа')], ''),
-    ('anya', 'Шеф, вы что делаете?', 'Chef, what are you doing?', [(182, 'Шеф, вы что делаете')], ''),
+    ('chef', 'Шеф, вы что делаете?', 'Chef, what are you doing?', [(182, 'Шеф, вы что делаете')], ''),
     ('lyova', 'Лев, иди.', 'Lyova, go away.', [(185, 'Лев, иди')], ''),
-    ('anya', 'Я сам разберусь.', 'I will handle this myself.', [(186, 'Я сам разберусь')], ''),
+    ('chef', 'Я сам разберусь.', 'I will handle this myself.', [(186, 'Я сам разберусь')], ''),
     ('lyova', 'Это подло, шеф.', 'That is underhanded, Chef.', [(187, 'Это подло, шеф')], ''),
-    ('anya', 'Я сказал.', 'I said go.', [(188, 'Я сказал')], ''),
+    ('chef', 'Я сказал.', 'I said go.', [(188, 'Я сказал')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 11 of Episode 5, listen out for the exchange around sabotage in the name of spartak — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я сказал.')
+OUTRO = "That wraps up this scene as chef Barinov decides he must help his beloved club by giving Zenit's goalkeeper mild food poisoning before tomorrow's match, ignoring Lyova's protests. Until next time!"
+CLOSING = ("chef", "До завтра!")

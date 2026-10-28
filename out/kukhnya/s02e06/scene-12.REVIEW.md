@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Все уже ушли. | Everyone has already gone home. | #194 00:12:42: все уже ушли | verbatim |
+| 1 | Лёва | Все уже ушли. | Everyone has already gone home. | #194 00:12:42: все уже ушли | verbatim |
 | 2 | Шеф | Сейчас я сама ухожу. | I am heading out right now myself. | #195 00:12:46: сейчас я сама ухожу | verbatim |
-| 3 | Аня | До завтра. | See you tomorrow. | #196 00:12:50: до завтра | verbatim |
+| 3 | Лёва | До завтра. | See you tomorrow. | #196 00:12:50: до завтра | verbatim |
 | 4 | Шеф | А вы когда домой пойдете? | And when are you going home? | #197 00:12:53: А вы когда домой пойдете | verbatim |
-| 5 | Аня | Я немного поработаю. | I will work for a little while longer. | #198 00:12:56: я немного поработаю | verbatim |
+| 5 | Лёва | Я немного поработаю. | I will work for a little while longer. | #198 00:12:56: я немного поработаю | verbatim |
 | 6 | Шеф | Жены у тебя нет. | You do not have a wife. | #200 00:13:02: Жены у тебя нет | verbatim |
-| 7 | Аня | Была бы хорошая жена. | She would make a good wife. | #201 00:13:04: Была бы хорошая жена | verbatim |
+| 7 | Лёва | Была бы хорошая жена. | She would make a good wife. | #201 00:13:04: Была бы хорошая жена | verbatim |
 | 8 | Шеф | Как же ты живёшь с таким косяком? | How do you even live with a blunder like that? | #202 00:13:13: как же ты живёшь с таким косяком | verbatim |
-| 9 | Аня | Я уже от стыда повесился уже, наверное. | I probably would have hanged myself from shame already. | #203 00:13:16: Я уже от стыда повесился уже, наверное | verbatim |
+| 9 | Лёва | Я уже от стыда повесился уже, наверное. | I probably would have hanged myself from shame already. | #203 00:13:16: Я уже от стыда повесился уже, наверное | verbatim |
 | 10 | Шеф | У тебя была такая возможность. | You actually had that opportunity once. | #204 00:13:18: У тебя была такая возможность | verbatim |
-| 11 | Аня | Когда я облажался? | Wait, when did I ever screw up? | #205 00:13:25: Когда я облажался | verbatim |
+| 11 | Лёва | Когда я облажался? | Wait, when did I ever screw up? | #205 00:13:25: Когда я облажался | verbatim |
 | 12 | Шеф | Напомню тебе. | Let me remind you. | #206 00:13:26: Напомню тебе | verbatim |
-| 13 | Аня | Теперь напоминаю. | Now I am reminding you. | #207 00:13:34: Теперь напоминаю | verbatim |
+| 13 | Лёва | Теперь напоминаю. | Now I am reminding you. | #207 00:13:34: Теперь напоминаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

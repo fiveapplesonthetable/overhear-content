@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 18
 TITLE = "Quelqu'un d'important a oublié  (Someone Important Forgot)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "camille": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At the country hotel restaurant, Gabriel gets sentimental over dinner about how the agents spend all their time taking care of actors instead of living for themselves, while Andréa looks for the first excuse to hurry back to Colette in Room Sixteen. Meanwhile in Paris, Hippolyte brings Camille a birthday cake at midnight. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. At the hotel restaurant, Gabriel reflects on their lives at the agency."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Hippolyte gives Camille a comforting hug as she blows out her birthday candle, while across Paris, Mathias has no idea he forgot his daughter's birthday. See you next time!"
-CLOSING = ("camille", "Bonne journée!")
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('gabriel', 'On est ensemble toute la journée, tous les jours.', 'We', [(338, 'On est ensemble toute la journée, tous les jours')], ''),
     ('gabriel', "Mais on ne profite pas vraiment l'un de l'autre.", 'But we don', [(339, "Mais on ne profite pas vraiment l'un de l'autre")], ''),

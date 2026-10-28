@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 15
-TITLE = "Rendez-vous au Grand Colbert  (Lunch Plans)"
-LEVEL = "A1 — débutant"
+TITLE = 'Rendez-vous au Grand Colbert  (Lunch Plans)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At the agency, Noémie asked to join Camille for lunch, but Camille declined so she could spend time with her mother Annick. Now seated together at Le Grand Colbert restaurant, Annick frets over her appearance as they wait for Mathias. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Annick tries to mask her deep emotions behind small worries about hair and makeup, while Camille patiently stands by her side. See you next time!'
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('camille', "J'ai un déjeuner avec ma mère au Grand Colbert.", 'I am having lunch with my mother at the Grand Colbert.', [(386, 'avec ma mère. Au Grand Colbert')], ''),
     ('camille', "On a besoin d'un moment seules toutes les deux.", 'We need time alone together.', [(389, "on a besoin d'un moment seules toutes les deux")], ''),

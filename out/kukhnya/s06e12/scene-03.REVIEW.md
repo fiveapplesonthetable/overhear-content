@@ -10,15 +10,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Пожалуйста, ваш свежий салат уже полностью готов. | Here you go, your fresh salad is already completely ready. | #36 00:02:36: Ваш салат готов | adapted: adapted |
+| 1 | Гость | Пожалуйста, ваш свежий салат уже полностью готов. | Here you go, your fresh salad is already completely ready. | #36 00:02:36: Ваш салат готов | adapted: adapted |
 | 2 | Гость | Да, у меня есть пара игр чемпионата Италии. | Yes, I have a couple of Italian championship games. | #39 00:02:44: Да, кое-что есть<br>#40 00:02:46: Пару игр чемпионата Италии | adapted: adapted |
 | 3 | Гость | Отличный коэффициент, давай я тебе позже перезвоню. | Great odds, let me call you back later. | #41 00:02:49: Коэффициент<br>#43 00:02:55: перезвоню | adapted: adapted |
-| 4 | Аня | Извините, я случайно услышал, вы настоящий букмекер? | Excuse me, I overheard by chance, are you a real bookmaker? | #44 00:02:59: Вы букмекер<br>#45 00:03:01: Я тут услышал | adapted: adapted |
+| 4 | Гость | Извините, я случайно услышал, вы настоящий букмекер? | Excuse me, I overheard by chance, are you a real bookmaker? | #44 00:02:59: Вы букмекер<br>#45 00:03:01: Я тут услышал | adapted: adapted |
 | 5 | Гость | Спасибо, салат очень вкусный, я знаю секреты. | Thank you, the salad is very tasty, I know secrets. | #46 00:03:05: Спасибо<br>#47 00:03:06: Очень вкусно. Я знаю кое-какие секреты | adapted: adapted |
 | 6 | Гость | Наверное, точно так же, как вы на кухне. | Probably just the same as you in your kitchen. | #48 00:03:10: Наверное, как и вы на своей кухне | adapted: adapted |
-| 7 | Аня | Может, подскажете строго между нами, на кого ставить? | Maybe you could give a hint strictly between us on whom to bet? | #49 00:03:13: Может, подскажете, на кого ставить<br>#50 00:03:15: Строго между нами | adapted: adapted |
+| 7 | Гость | Может, подскажете строго между нами, на кого ставить? | Maybe you could give a hint strictly between us on whom to bet? | #49 00:03:13: Может, подскажете, на кого ставить<br>#50 00:03:15: Строго между нами | adapted: adapted |
 | 8 | Гость | Извините, но я не понимаю, о чём вы. | Excuse me, but I do not understand what you mean. | #51 00:03:18: Я не понимаю | adapted: adapted |
-| 9 | Аня | А может, французского коньяка за мой личный счёт? | How about some French cognac on my personal tab? | #52 00:03:20: за мой счет | adapted: adapted |
+| 9 | Гость | А может, французского коньяка за мой личный счёт? | How about some French cognac on my personal tab? | #52 00:03:20: за мой счет | adapted: adapted |
 | 10 | Гость | Нет, я не пью, особенно с незнакомыми людьми. | No, I do not drink, especially with strangers. | #53 00:03:23: Нет, я не пью<br>#54 00:03:25: Особенно с незнакомыми людьми | adapted: adapted |
 | 11 | Света | Да, мы с Денисом неплохо звучим вместе. | Yes, Denis and I sound pretty good together. | #56 00:03:38: Да, неплохо звучим вместе | adapted: adapted |
 | 12 | Света | Похоже, я наконец-то встретила своего любимого мужчину! | It seems I have finally met my beloved man! | #58 00:03:44: Похоже, я встретила наконец-то своего мужчину | adapted: adapted |

@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну что, готово? Сам подам. | Well, is it ready? I will serve it myself. | #48 00:06:00: Ну что, готово<br>#50 00:06:07: Сам подам | adapted: adapted |
-| 2 | Аня | Чёрт, как же ей всё объяснить? | Damn, how do I explain everything to her? | #52 00:06:32: Черт, как этой<br>#52 00:06:32: объяснить | adapted: adapted |
+| 1 | Шеф | Ну что, готово? Сам подам. | Well, is it ready? I will serve it myself. | #48 00:06:00: Ну что, готово<br>#50 00:06:07: Сам подам | adapted: adapted |
+| 2 | Шеф | Чёрт, как же ей всё объяснить? | Damn, how do I explain everything to her? | #52 00:06:32: Черт, как этой<br>#52 00:06:32: объяснить | adapted: adapted |
 | 3 | Катя | Папаша, ты со словами полегче. | Pops, take it easy with your words. | #53 00:06:35: Папаша, ты со словами полегче | adapted: adapted |
-| 4 | Аня | Вы что, русская? | Wait, are you Russian? | #54 00:06:38: Вы что, русская | adapted: adapted |
-| 5 | Аня | Извините, я ничего не видел, пойду всё переделаю. | Excuse me, I saw nothing, I will go redo everything. | #55 00:06:40: Извините, я ничего не видел. Пойду все переделаю | adapted: adapted |
+| 4 | Шеф | Вы что, русская? | Wait, are you Russian? | #54 00:06:38: Вы что, русская | adapted: adapted |
+| 5 | Шеф | Извините, я ничего не видел, пойду всё переделаю. | Excuse me, I saw nothing, I will go redo everything. | #55 00:06:40: Извините, я ничего не видел. Пойду все переделаю | adapted: adapted |
 | 6 | Катя | Стой, принеси выпить, а? | Stop, bring me a drink, huh? | #56 00:06:42: Стой. Принеси выпить, а | adapted: adapted |
 | 7 | Катя | Они во всех отелях бар чистят. | They empty the minibar in every hotel. | #57 00:06:45: во всех отелях<br>#57 00:06:45: чистят | adapted: adapted |
-| 8 | Аня | Не могу, при входе обыскивают. | I cannot, they frisk everyone at the entrance. | #58 00:06:48: Не могу<br>#58 00:06:48: при входе обыскивают | adapted: adapted |
+| 8 | Шеф | Не могу, при входе обыскивают. | I cannot, they frisk everyone at the entrance. | #58 00:06:48: Не могу<br>#58 00:06:48: при входе обыскивают | adapted: adapted |
 | 9 | Катя | Помоги как-нибудь, я уже год в гареме. | Help me somehow, I have been in the harem for a year already. | #59 00:06:50: Помоги как-нибудь, а? Я уже год в гареме | adapted: adapted |
 | 10 | Катя | Представляешь, как выпить охота? | Can you imagine how badly I want a drink? | #60 00:06:53: Представляешь, как выпить охота | adapted: adapted |
-| 11 | Аня | Представляю, но ничем не смогу помочь. | I can imagine, but I cannot help you with anything. | #60 00:06:53: представляю<br>#61 00:06:56: Но ничем не смогу помочь | adapted: adapted |
+| 11 | Шеф | Представляю, но ничем не смогу помочь. | I can imagine, but I cannot help you with anything. | #60 00:06:53: представляю<br>#61 00:06:56: Но ничем не смогу помочь | adapted: adapted |
 | 12 | Катя | А то я расскажу мужу, что ты видел меня голой. | Otherwise I will tell my husband that you saw me naked. | #62 00:06:57: А то я расскажу моему мужу, что ты видел меня голой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

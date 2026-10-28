@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 20
-TITLE = 'Итоги дня  (Summing Up the Day)'
+TITLE = "Итоги дня  (Summing Up the Day)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "lyova": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = 'At the end of the day, Chef Barinov sees Lyova with his head inside the oven and panics, only to learn Lyova is just inspecting a dirty oven. Then Sveta stops by to tell Lyova how wonderful he is—courtesy of Senya and Fedya.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'I would hang out with you even without money.' The meaning hinges on 'I' working together with 'chatted' in spoken Russian."),
     (9, None, "'Thank you very much for the kind words.' The grammar packs 'very much' and 'words' into a tight, idiomatic kitchen exchange."),
     (10, None, "'We hope that tomorrow will be better.' Notice how Russian expresses 'to hope' and 'better' with crisp inflection rather than helper words."),
-    (11, None, "'Did you do everything the way we agreed?' In Russian, the idea of 'you' flows naturally into 'agreed' without extra filler words."),
+    (11, None, "'Did you do everything the way we agreed?' In everyday Russian, 'made' flows straight into 'agreed, arranged' without extra linking words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up Episode 10 of Season 3! Since Sveta's time was already paid for, Senya and Fedya used the last of it to make Lyova feel like a million bucks. See you in Episode 11!"
-CLOSING = ('anya', 'Завтрашний день точно будет лучше!')
+OUTRO = "And that wraps up Episode 10 of Season 3! Since Sveta's time was already paid for, Senya and Fedya used the last of it to make Lyova feel like a million bucks. See you in Episode 11! See you next time!"
+CLOSING = ("anya", "До свидания!")

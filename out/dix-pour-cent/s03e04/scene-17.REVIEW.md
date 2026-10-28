@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Sonnez vite, je vous ouvre! | Ring quickly, I am buzzing you in! | 929:sonnez, je vous ouvre |
 
 ## Part 5 — Outro & Closing
-> With a bag of warm croissants and genuine gratitude, Mathias reconnects with Noemie after a stressful night. When you watch the episode, listen out for the expressions meaning 'disturb' and 'goes'. You'll catch them now. See you next time.
+> With a bag of warm croissants and genuine gratitude, Mathias reconnects with Noemie after a stressful night. When you watch the episode, listen out for the expressions meaning 'disturb' and 'goes'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

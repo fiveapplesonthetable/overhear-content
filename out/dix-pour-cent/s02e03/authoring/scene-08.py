@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 8
-TITLE = "Rencontre dans le couloir  (Meeting in the Hallway)"
-LEVEL = "A1 — débutant"
+TITLE = 'Rencontre dans le couloir  (Meeting in the Hallway)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"julien": "Julien", "gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'julien': 'Julien', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Stepping out into the hallway of ASK, Sofia and Gabriel accompany Julien Dore. When Mathias hands Sofia an administrative errand in front of Julien, she quickly covers for herself, while the agency's new owner Hicham makes a lively impression. Let's listen to the scene in French first."
 OPENER = "Let's examine the conversation in the hallway line by line."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Sofia skillfully manages the awkward encounter in the hallway, while Julien leaves with high spirits and an eagerness to collaborate on his musical soundtrack. Let's review the conversational phrases and vocabulary from this scene. Join us next time to see what happens next."
-CLOSING = ("julien", "Bonne soirée!")
+OUTRO = "Sofia skillfully manages the awkward encounter in the hallway, while Julien leaves with high spirits and an eagerness to collaborate on his musical soundtrack. Let's review the conversational phrases and vocabulary from this scene. See you next time!"
+CLOSING = ('julien', 'Bonne soirée!')
 STORY = [
     ('julien', 'Il a une drôle de façon de traiter les acteurs.', 'He has a strange way of treating actors.', [(205, "C'est votre agent ?"), (207, 'Il a une drôle de façon de traiter les acteurs.')], ''),
     ('sofia', "C'est juste une blague pour une pièce.", 'It is just a joke for a play.', [(208, "Non, c'est juste..."), (209, "une blague, une réplique d'une pièce")], ''),

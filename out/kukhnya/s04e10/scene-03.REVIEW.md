@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Fedya, give me the oil.' The Russian word for 'butter' and 'cooking oil' is the exact same neuter noun.
 - 'Here you go, here is your oil.' When handing someone an object, the word for 'please' means 'here you go'.
-- 'Oh, this is my favorite oil!' Neuter singular endings '-o' and '-oe' match across the possessive, adjective, and noun.
+- 'Oh, this is my favorite oil!' Notice how Russian puts 'favorite' and 'butter' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Well yes, that is exactly right.' Senya nods at how accurately they just imitated a movie commercial.
-- 'Then at the movie theater we spit in disgust.' The reflexive verb literally means to spit and figuratively means to be disgusted by a bad show.
-- 'And then they film a second part.' The feminine ordinal 'second' takes the accusative ending '-uyu' to match 'part'.
+- 'Then at the movie theater we spit in disgust.' In everyday Russian, 'later, afterwards' flows straight into 'disgust' without extra linking words.
+- 'And then they film a second part.' Senya pairs 'later, afterwards' with 'part, share; unit' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Our Arseny is a real film critic.' Compound nouns with 'kino-' refer to cinema, here 'film critic'.
 - 'And what do you watch yourself?' The emphatic pronoun 'yourself' challenges the critic to name his own taste.
-- 'Here, the meat mallet is free now.' In a kitchen, a 'little hammer' is a meat tenderizer, and the reflexive verb means it is free to use.
+- 'Here, the meat mallet is free now.' In everyday Russian, 'mallet' flows straight into 'to become free, to be released' without extra linking words.
 - 'Thanks, I do not need it anymore.' Combining 'already' with 'not needed' is how Russian says 'no longer needed'.
 - 'I love a good manly movie.' The neuter noun 'cinema/movie' never changes its ending for case or number.
 - 'I hate these boring Mondays.' Senya launches his action-movie daydream with a gritty hero one-liner.

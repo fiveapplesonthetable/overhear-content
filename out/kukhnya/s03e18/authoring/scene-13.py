@@ -1,24 +1,24 @@
 ID = 'kukhnya-s03e18-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 13
-TITLE = 'Честный разговор с Катей  (An Honest Talk with Katya)'
+TITLE = "Честный разговор с Катей  (An Honest Talk with Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Seeing Katya speaking with Vika, Max runs over yelling not to believe a word she says—only to discover Katya was talking about a broken kitchen machine! Once Vika leaves, Max finally tells Katya the truth.'
 
 STORY = [
     ('anya', 'Вика, не слушай её, она ерунду говорит!', 'Vika, do not listen to her, she is talking nonsense!', [(191, 'не слушай ее. Она ерунду говорит')], 'adapted'),
-    ('vika', 'Я не поняла, она говорила о новой покупке.', 'I do not follow, she was talking about a new purchase.', [(192, 'Не поняла'), (192, 'говорила о покупке новой')], 'adapted'),
-    ('vika', 'Потому что ваша старая машина вчера сломалась.', 'Because your old machine broke yesterday.', [(193, 'потому что старая сломалась')], 'adapted'),
+    ('katya', 'Я не поняла, она говорила о новой покупке.', 'I do not follow, she was talking about a new purchase.', [(192, 'Не поняла'), (192, 'говорила о покупке новой')], 'adapted'),
+    ('katya', 'Потому что ваша старая машина вчера сломалась.', 'Because your old machine broke yesterday.', [(193, 'потому что старая сломалась')], 'adapted'),
     ('anya', 'Зачем покупать новую? Может, и починить получится.', 'Why buy a new one? Maybe I can manage to fix it.', [(195, 'Просто зачем покупать? Я это посмотрю, может и починить получится')], 'adapted'),
-    ('vika', 'Ну ладно, тогда обязательно скажи, если что.', 'Alright then, be sure to tell me if anything comes up.', [(196, 'Ну ладно, скажи, если что')], 'adapted'),
+    ('katya', 'Ну ладно, тогда обязательно скажи, если что.', 'Alright then, be sure to tell me if anything comes up.', [(196, 'Ну ладно, скажи, если что')], 'adapted'),
     ('anya', 'Катя, ты меня, пожалуйста, за всё прости.', 'Katya, please forgive me for everything.', [(198, 'Катя, ты меня прости')], 'adapted'),
     ('anya', 'Сейчас это со стороны выглядело очень глупо.', 'Just now that looked very foolish from the outside.', [(199, 'Сейчас это, наверное, выглядело глупо')], 'adapted'),
     ('anya', 'Всё это потому, что я до сих пор люблю Вику.', 'All of this is because I still love Vika.', [(200, 'все это потому, что я до сих пор люблю Вику')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "To Max's huge relief, Katya takes his confession with cool composure and agrees to stay friends."
-CLOSING = ('katya', 'Я давно уже всё поняла.')
+OUTRO = "To Max's huge relief, Katya takes his confession with cool composure and agrees to stay friends. Until next time!"
+CLOSING = ("katya", "До свидания!")

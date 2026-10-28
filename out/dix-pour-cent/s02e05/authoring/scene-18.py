@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 18
-TITLE = "Le coup du beurre  (The Butter Trick)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le coup du beurre  (The Butter Trick)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "guy": "marcel"}
-LABELS = {"arlette": "Arlette", "guy": "Guy"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'guy': 'marcel'}
+LABELS = {'arlette': 'Arlette', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'At the studio canteen, veteran actor Guy Marchand eats lunch while feeling anxious about recent memory blanks on set. Arlette arrives with her faithful dog Jean Gabin to comfort her old friend before his afternoon scenes. Listen to the scene in French first.'
 OPENER = "Let's examine how Arlette comforts an anxious veteran actor."
 TRANSITION = "Now let's listen to the warm conversation once more at normal pace."
-OUTRO = "With affection and humor, Arlette restores Guy's confidence before his next scene on set. Listen to the touching dialogue once more in French. Until next time!"
-CLOSING = ("arlette", "À bientôt!")
+OUTRO = "With affection and humor, Arlette restores Guy's confidence before his next scene on set. Listen to the touching dialogue once more in French. See you next time!"
+CLOSING = ('arlette', 'À bientôt!')
 STORY = [
     ('guy', 'Il y a un grand choix de fromages ici.', 'There is a wide selection of cheeses here.', [(552, 'Il y a du camembert, du saint-nectaire,'), (554, 'Une bien belle cantine.')], ''),
     ('arlette', 'Bonjour Guy! Comment se passe ton tournage?', 'Hello Guy! How is your filming going?', [(578, 'Je suis une très vieille amie.'), (579, 'Arlette Azémar.')], ''),

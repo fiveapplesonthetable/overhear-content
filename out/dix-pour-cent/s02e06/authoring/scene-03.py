@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 3
-TITLE = "Garder Jean Gabin  (Looking After Jean Gabin)"
-LEVEL = "A1 — débutant"
+TITLE = 'Garder Jean Gabin  (Looking After Jean Gabin)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "herve": "marcel"}
-LABELS = {"arlette": "Arlette", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'herve': 'marcel'}
+LABELS = {'arlette': 'Arlette', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Before packing her bags for the Cannes Film Festival, senior agent Arlette approaches assistant Hervé with a personal favor. She needs someone trustworthy to look after her beloved dog, Jean Gabin, during the glamorous two-week event. Let's listen to their playful conversation in French first."
 OPENER = "Let's examine how Arlette convinces Hervé to dog-sit during the festival."
 TRANSITION = "Now let's listen to Arlette and Hervé again at full speed."
-OUTRO = 'Hervé agrees to look after Jean Gabin, finding comfort in canine company while remaining in Paris. Arlette departs for Cannes knowing her faithful companion is in caring hands. Until next time.'
-CLOSING = ("arlette", "Au revoir!")
+OUTRO = 'Hervé agrees to look after Jean Gabin, finding comfort in canine company while remaining in Paris. Arlette departs for Cannes knowing her faithful companion is in caring hands. See you next time!'
+CLOSING = ('arlette', 'Au revoir!')
 STORY = [
     ('arlette', 'Dis-moi une chose, mon cher Hervé.', 'Tell me one thing, my dear Hervé.', [(78, 'Dis-moi, Hervé...')], ''),
     ('herve', "Oui Arlette, qu'est-ce qu'il y a?", 'Yes Arlette, what is the matter?', [(78, 'Dis-moi, Hervé...')], ''),

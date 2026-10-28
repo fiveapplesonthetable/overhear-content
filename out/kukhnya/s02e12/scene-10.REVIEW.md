@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Этот в десять. | This one is at ten. | #160 00:09:53: Этот в десять | verbatim |
+| 1 | Шеф | Этот в десять. | This one is at ten. | #160 00:09:53: Этот в десять | verbatim |
 | 2 | Вика | Добрый день. | Good afternoon. | #161 00:09:56: Добрый день | verbatim |
-| 3 | Аня | Как Виктор Петрович себя чувствует? | How is Viktor Petrovich feeling? | #162 00:09:57: Как Виктор Петрович себя чувствует | verbatim |
+| 3 | Шеф | Как Виктор Петрович себя чувствует? | How is Viktor Petrovich feeling? | #162 00:09:57: Как Виктор Петрович себя чувствует | verbatim |
 | 4 | Вика | Ну, знаете, уже лучше. | Well, you know, he is doing better already. | #163 00:09:59: Ну, знаете, уже лучше | verbatim |
-| 5 | Аня | Бормотал, правда, что-то про вас. | Although he was muttering something about you. | #164 00:10:04: Бормотал, правда, что-то про вас | verbatim |
+| 5 | Шеф | Бормотал, правда, что-то про вас. | Although he was muttering something about you. | #164 00:10:04: Бормотал, правда, что-то про вас | verbatim |
 | 6 | Вика | Про меня? | About me? | #165 00:10:07: Про меня | verbatim |
-| 7 | Аня | Сделает для меня одолжение. | Do me a favor. | #166 00:10:09: сделает для меня одолжение | verbatim |
+| 7 | Шеф | Сделает для меня одолжение. | Do me a favor. | #166 00:10:09: сделает для меня одолжение | verbatim |
 | 8 | Вика | А что он сказал? | And what did he say? | #167 00:10:15: А что он сказал | verbatim |
-| 9 | Аня | У нее семья. | That she has a family. | #168 00:10:22: у нее семья | verbatim |
+| 9 | Шеф | У нее семья. | That she has a family. | #168 00:10:22: у нее семья | verbatim |
 | 10 | Вика | Слабым таким голосом, знаете. | In such a weak little voice, you know. | #169 00:10:28: Слабым таким голосом, знаете | verbatim |
-| 11 | Аня | Ну, вы простите, я не все разобрал. | Forgive me, I could not make out all of it. | #170 00:10:30: Ну, вы простите, я не все разобрал | verbatim |
+| 11 | Шеф | Ну, вы простите, я не все разобрал. | Forgive me, I could not make out all of it. | #170 00:10:30: Ну, вы простите, я не все разобрал | verbatim |
 | 12 | Вика | Кофе будешь? | Would you like some coffee? | #172 00:10:40: Кофе будешь | verbatim |
-| 13 | Аня | Да, нет, спасибо. | No, thank you. | #173 00:10:41: Да, нет, спасибо | verbatim |
+| 13 | Шеф | Да, нет, спасибо. | No, thank you. | #173 00:10:41: Да, нет, спасибо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

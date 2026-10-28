@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Très bien, avançons avec grand courage. | Very well, let us advance with great courage. | 639:Non, non |
 
 ## Part 5 — Outro & Closing
-> Trapped by his own polite lies, Mathias steps cautiously into the pen beside the howling wolves. When you watch the episode, listen out for the expressions meaning 'welcome' and 'shelter'. You'll catch them now. See you next time.
+> Trapped by his own polite lies, Mathias steps cautiously into the pen beside the howling wolves. When you watch the episode, listen out for the expressions meaning 'welcome' and 'shelter'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

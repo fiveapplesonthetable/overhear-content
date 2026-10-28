@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 25
-TITLE = "Loin de la fête  (Far from the Party)"
-LEVEL = "A1 — débutant"
+TITLE = 'Loin de la fête  (Far from the Party)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Driving through Paris in a taxi after the Cesar ceremony, Noemie convinces Mathias to skip the lavish afterparty at Fouquet's so they can escape the crowds. Let's listen to the scene in French first."
 OPENER = "Let's examine how Noemie and Mathias choose intimacy over industry glamour step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In the quiet privacy of the taxi, Noemie complains about her uncomfortable dress and Mathias happily agrees to bypass the industry party to spend the night alone with her. When you watch the episode, listen out for the expressions meaning 'want' and 'dinner'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "In the quiet privacy of the taxi, Noemie complains about her uncomfortable dress and Mathias happily agrees to bypass the industry party to spend the night alone with her. When you watch the episode, listen out for the expressions meaning 'want' and 'dinner'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('noemie', 'Veux-tu vraiment aller au grand dîner?', 'Do you really want to go to the big dinner?', [(1005, "aller au Fouquet's")], ''),
     ('noemie', "Le Fouquet's est plein de monde.", 'The Fouquet', [(1005, "aller au Fouquet's")], ''),

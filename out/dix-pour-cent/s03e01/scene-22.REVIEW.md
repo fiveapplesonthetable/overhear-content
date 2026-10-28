@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Tu aimes les situations très compliquées! | You love very complicated situations! | 946:comment tu fais |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around noemie's confidences. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'evening'. You'll catch them now. See you next time.
+> That's it for this scene around noemie's confidences. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'evening'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *Au revoir!*

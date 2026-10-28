@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e01-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 1
 SCENE = 5
 TITLE = "Инспекция Михаила на кухне  (Mikhail's Kitchen Inspection)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja"}
+LABELS = {"mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.01'
 SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 
 INTRO = 'Back in the kitchen, Chef Barinov demands a dedicated restroom for his cooks, but Mikhail counters by listing every missing menu, meat shortage, and cockroach he knows about. Listen to their exchange.'
@@ -16,15 +16,15 @@ INTRO = 'Back in the kitchen, Chef Barinov demands a dedicated restroom for his 
 STORY = [
     ('mikhail', 'Слушай, давай скажи мне сейчас.', 'Listen, tell me right now.', [(77, 'Слушай, давай')], 'adapted'),
     ('mikhail', 'Простите, что же я игнорирую?', 'Excuse me, what exactly am I ignoring?', [(81, 'Простите. Что же я игнорирую')], 'adapted'),
-    ('anya', 'Я два месяца прошу туалет.', 'I have been asking for a restroom for two months.', [(82, 'Я два месяца прошу туалет')], 'verbatim'),
+    ('mikhail', 'Я два месяца прошу туалет.', 'I have been asking for a restroom for two months.', [(82, 'Я два месяца прошу туалет')], 'verbatim'),
     ('mikhail', 'Туалет надо сначала заслужить.', 'A restroom must be earned first.', [(83, 'Туалет надо заслужить')], 'adapted'),
-    ('anya', 'Мы работаем лучше всех здесь.', 'We work better than everyone here.', [(85, 'мы работаем лучше')], 'adapted'),
+    ('mikhail', 'Мы работаем лучше всех здесь.', 'We work better than everyone here.', [(85, 'мы работаем лучше')], 'adapted'),
     ('mikhail', 'Да? А ну, пошли.', "Yeah? Come on then, let's go.", [(86, 'Да? А ну, пошли')], 'verbatim'),
     ('mikhail', 'Мидии сегодня привезли? Нет.', 'Did they bring the mussels today? No.', [(87, 'Мидии привезли? Нет')], 'adapted'),
     ('mikhail', 'Где меню для завтрака?', 'Where is the menu for breakfast?', [(89, 'Где меню для завтрака?')], 'verbatim'),
     ('mikhail', 'Почему здесь недостача по мясу?', 'Why is there a meat shortage here?', [(90, 'Почему недостача по мясу?')], 'adapted'),
     ('mikhail', 'Санитарные книжки не у всех.', 'Not everyone has their health booklets.', [(91, 'Санитарные книжки не у всех')], 'verbatim'),
-    ('anya', 'Ты просто за мной следишь.', 'You are simply spying on me.', [(93, 'ты за мной следишь')], 'adapted'),
+    ('mikhail', 'Ты просто за мной следишь.', 'You are simply spying on me.', [(93, 'ты за мной следишь')], 'adapted'),
     ('mikhail', 'Я знаю всё в моём отеле.', 'I know everything in my hotel.', [(94, 'Я знаю все, что происходит в моем отеле')], 'adapted'),
     ('mikhail', 'На твоей кухне есть тараканы.', 'There are cockroaches in your kitchen.', [(95, 'на твоей кухне есть тараканы')], 'verbatim'),
 ]
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Mikhail's surprise kitchen inspection to a close. Notice how Russian expresses 'in my hotel' and 'in your kitchen' using the prepositional case. See you in the next scene."
-CLOSING = ('anya', 'Сейчас мы быстро наведём здесь порядок!')
+OUTRO = "And that brings Mikhail's surprise kitchen inspection to a close. Until next time!"
+CLOSING = ("mikhail", "Всего хорошего!")

@@ -19,10 +19,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Его паспорт и настоящую медицинскую книжку повара. | His passport and a real cook's medical booklet. | #156 00:09:58: паспорт, медицинскую книжку | adapted: adapted |
 | 8 | Шеф | Родион Сергеевич работает с завтрашнего дня, завтра и увидите! | Rodion Sergeyevich starts work tomorrow, so you will see them tomorrow! | #157 00:10:00: А Родион Сергеевич работает с завтрашнего дня<br>#158 00:10:04: Завтра и увидите | adapted: adapted |
 | 9 | Аня | Костя, представь, Вика меня проверяет, как будто я террорист! | Kostya, imagine, Vika is testing me as if I were a terrorist! | #161 00:10:16: она меня проверяет<br>#162 00:10:18: Как будто я террорист | adapted: adapted |
-| 10 | Костя | Ну, в каком-то смысле ты тот ещё террорист. | Well, in a sense you really are quite the terrorist. | #163 00:10:19: Ну, в каком-то смысле, ты тот еще террорист | adapted: adapted |
+| 10 | Шеф | Ну, в каком-то смысле ты тот ещё террорист. | Well, in a sense you really are quite the terrorist. | #163 00:10:19: Ну, в каком-то смысле, ты тот еще террорист | adapted: adapted |
 | 11 | Аня | Смотри, Вика сейчас что-то тихо шепчет Еве. | Look, Vika is quietly whispering something to Eva right now. | #164 00:10:27: Ты это видишь | adapted: adapted |
 | 12 | Аня | Похоже, сегодня у меня будет ещё одна проверка. | It looks like I am going to have another test today. | #171 00:10:54: Похоже, будет еще одна проверка | adapted: adapted |
-| 13 | Костя | Макс, успокойся, у тебя уже настоящая паранойя! | Max, calm down, you already have real paranoia! | #172 00:10:56: У тебя паранойя | adapted: adapted |
+| 13 | Шеф | Макс, успокойся, у тебя уже настоящая паранойя! | Max, calm down, you already have real paranoia! | #172 00:10:56: У тебя паранойя | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

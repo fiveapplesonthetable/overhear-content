@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тихо, не надо сейчас спорить. | Quiet, there is no need to argue now. | #51 00:02:33: Тихо, тихо | adapted: adapted |
-| 2 | Аня | Устроим здесь честные выборы. | Let us hold fair elections here. | #53 00:02:39: выборы | adapted: adapted |
-| 3 | Аня | Пусть каждый побудет немного главным. | Let each of you be the boss for a bit. | #54 00:02:41: Пусть каждый побудет | adapted: adapted |
-| 4 | Аня | Народ посмотрит и потом выберет. | The people will watch and then choose. | #55 00:02:43: Народ потом посмотрит и выберет | adapted: adapted |
-| 5 | Сеня | Значит, я буду первый главный. | So I will be the first boss. | #56 00:02:46: Значит, я первый главный | adapted: adapted |
+| 1 | Тимур | Тихо, не надо сейчас спорить. | Quiet, there is no need to argue now. | #51 00:02:33: Тихо, тихо | adapted: adapted |
+| 2 | Тимур | Устроим здесь честные выборы. | Let us hold fair elections here. | #53 00:02:39: выборы | adapted: adapted |
+| 3 | Тимур | Пусть каждый побудет немного главным. | Let each of you be the boss for a bit. | #54 00:02:41: Пусть каждый побудет | adapted: adapted |
+| 4 | Тимур | Народ посмотрит и потом выберет. | The people will watch and then choose. | #55 00:02:43: Народ потом посмотрит и выберет | adapted: adapted |
+| 5 | Тимур | Значит, я буду первый главный. | So I will be the first boss. | #56 00:02:46: Значит, я первый главный | adapted: adapted |
 | 6 | Федя | А я буду второй главный. | And I will be the second boss. | #57 00:02:48: А я второй главный | adapted: adapted |
-| 7 | Аня | Всё, регистрация кандидатов уже окончена. | That is it, candidate registration is already closed. | #58 00:02:50: регистрация кандидатов окончена | adapted: adapted |
-| 8 | Аня | Вечером мы проведём наши выборы. | In the evening we will hold our elections. | #59 00:02:53: Выбор | adapted: adapted |
-| 9 | Сеня | А если будут большие пробки? | And what if there is heavy traffic? | #60 00:02:54: если пробки будут | adapted: adapted |
+| 7 | Тимур | Всё, регистрация кандидатов уже окончена. | That is it, candidate registration is already closed. | #58 00:02:50: регистрация кандидатов окончена | adapted: adapted |
+| 8 | Тимур | Вечером мы проведём наши выборы. | In the evening we will hold our elections. | #59 00:02:53: Выбор | adapted: adapted |
+| 9 | Тимур | А если будут большие пробки? | And what if there is heavy traffic? | #60 00:02:54: если пробки будут | adapted: adapted |
 | 10 | Федя | Ну, сегодня повезло тебе, Миша. | Well, you got lucky today, Misha. | #61 00:03:00: повезло тебе | adapted: adapted |
 | 11 | Федя | Михаил Джекович коня в карты выиграл. | Mikhail Jekovich won a horse at cards. | #63 00:03:06: Михаил Джекович, коня в карты выиграл | adapted: adapted |
-| 12 | Сеня | Конь приехал старый долг отдать? | Did the horse arrive to pay off an old debt? | #64 00:03:10: Конь ему приехал, долг что ли отдать | adapted: adapted |
+| 12 | Тимур | Конь приехал старый долг отдать? | Did the horse arrive to pay off an old debt? | #64 00:03:10: Конь ему приехал, долг что ли отдать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

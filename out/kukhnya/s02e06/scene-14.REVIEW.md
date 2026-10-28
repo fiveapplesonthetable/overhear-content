@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что, поужинаем сегодня? | How about we have dinner tonight? | #224 00:14:59: что, поужинаем сегодня | verbatim |
-| 2 | Вика | Ну, я вообще-то на работе. | Well, I am actually on shift at work. | #225 00:15:01: Ну, я вообще-то на работе | verbatim |
+| 1 | Шеф | Что, поужинаем сегодня? | How about we have dinner tonight? | #224 00:14:59: что, поужинаем сегодня | verbatim |
+| 2 | Нагиев | Ну, я вообще-то на работе. | Well, I am actually on shift at work. | #225 00:15:01: Ну, я вообще-то на работе | verbatim |
 | 3 | Нагиев | Я договорюсь. | I will arrange it. | #226 00:15:07: Я договорюсь | verbatim |
-| 4 | Аня | И на вечер замените Кристину. | And have someone cover for Kristina this evening. | #229 00:15:21: И на вечер замените Кристину | verbatim |
-| 5 | Вика | Но мне это очень важно. | Because this is very important to me. | #231 00:15:27: Но мне это очень важно | verbatim |
+| 4 | Шеф | И на вечер замените Кристину. | And have someone cover for Kristina this evening. | #229 00:15:21: И на вечер замените Кристину | verbatim |
+| 5 | Нагиев | Но мне это очень важно. | Because this is very important to me. | #231 00:15:27: Но мне это очень важно | verbatim |
 | 6 | Нагиев | Я сегодня, не важно почему. | Tonight, never mind why. | #232 00:15:29: Я сегодня, не важно почему | verbatim |
-| 7 | Аня | Хочу сделать ей предложение. | I want to propose marriage to her. | #233 00:15:33: хочу сделать ей предложение | verbatim |
-| 8 | Вика | Вы же Кристину знаете? | You know Kristina, right? | #237 00:15:54: Вы же Кристину знаете | verbatim |
+| 7 | Шеф | Хочу сделать ей предложение. | I want to propose marriage to her. | #233 00:15:33: хочу сделать ей предложение | verbatim |
+| 8 | Нагиев | Вы же Кристину знаете? | You know Kristina, right? | #237 00:15:54: Вы же Кристину знаете | verbatim |
 | 9 | Нагиев | Она романтическая натура. | She has a romantic nature. | #238 00:15:56: Она романтическая натура | verbatim |
-| 10 | Аня | Дима, ты покажи ей ценник от кольца. | Dima, just show her the price tag on the ring. | #239 00:15:58: Дима, ты покажи ей ценник от кольца | verbatim |
-| 11 | Вика | Это будет романтичнее всего. | That will be the most romantic thing of all. | #240 00:16:01: Это будет романтичнее всего | verbatim |
+| 10 | Шеф | Дима, ты покажи ей ценник от кольца. | Dima, just show her the price tag on the ring. | #239 00:15:58: Дима, ты покажи ей ценник от кольца | verbatim |
+| 11 | Нагиев | Это будет романтичнее всего. | That will be the most romantic thing of all. | #240 00:16:01: Это будет романтичнее всего | verbatim |
 | 12 | Нагиев | Нет, Витя, нет. | No, Vitya, no. | #241 00:16:03: Нет, Витя, нет | verbatim |
-| 13 | Аня | Я не хочу больше покупать женщин. | I do not want to buy women anymore. | #242 00:16:05: Я не хочу больше покупать женщин | verbatim |
+| 13 | Шеф | Я не хочу больше покупать женщин. | I do not want to buy women anymore. | #242 00:16:05: Я не хочу больше покупать женщин | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

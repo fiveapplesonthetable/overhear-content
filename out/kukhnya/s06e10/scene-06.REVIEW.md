@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Элеонора | Привет, кроме шеф-повара некому бутылку принести? | Hello, is there nobody besides the head chef to bring a bottle? | #78 00:05:16: Привет<br>#79 00:05:18: Что, кроме шеф-повара уже некому бутылку привезти | adapted: adapted |
-| 2 | Аня | Ты сильно удивишься, но я волнуюсь за тебя. | You will be very surprised, but I am worried about you. | #80 00:05:23: Ты, конечно, сильно удивишься<br>#81 00:05:26: но мне не плевать на твое здоровье | adapted: adapted |
+| 2 | Шеф | Ты сильно удивишься, но я волнуюсь за тебя. | You will be very surprised, but I am worried about you. | #80 00:05:23: Ты, конечно, сильно удивишься<br>#81 00:05:26: но мне не плевать на твое здоровье | adapted: adapted |
 | 3 | Элеонора | Неужели ты сам меня сегодня лечить пришёл? | Did you really come to treat me yourself today? | #82 00:05:29: И ты меня лечить пришел | adapted: adapted |
-| 4 | Аня | Да, я пришёл к тебе с горячим супом. | Yes, I came to you with hot soup. | #83 00:05:31: Да. С супом | adapted: adapted |
-| 5 | Аня | Ведь ты уже четыре дня нормально не ешь. | After all, you have not eaten properly for four days already. | #84 00:05:34: Ты четыре дня нормально не ешь | adapted: adapted |
-| 6 | Аня | Я тебе твой любимый луковый суп приготовил. | I cooked your favorite onion soup for you. | #85 00:05:37: А я тебе твой любимый луковый приготовил | adapted: adapted |
-| 7 | Аня | И принёс бокал хорошего вина за твоё здоровье. | And brought a glass of good wine for your health. | #86 00:05:42: за твое здоровье | adapted: adapted |
+| 4 | Шеф | Да, я пришёл к тебе с горячим супом. | Yes, I came to you with hot soup. | #83 00:05:31: Да. С супом | adapted: adapted |
+| 5 | Шеф | Ведь ты уже четыре дня нормально не ешь. | After all, you have not eaten properly for four days already. | #84 00:05:34: Ты четыре дня нормально не ешь | adapted: adapted |
+| 6 | Шеф | Я тебе твой любимый луковый суп приготовил. | I cooked your favorite onion soup for you. | #85 00:05:37: А я тебе твой любимый луковый приготовил | adapted: adapted |
+| 7 | Шеф | И принёс бокал хорошего вина за твоё здоровье. | And brought a glass of good wine for your health. | #86 00:05:42: за твое здоровье | adapted: adapted |
 | 8 | Элеонора | Раз ты такой заботливый, давай выпьем за здоровье. | Since you are so caring, let us drink to my health. | #87 00:05:50: Ну, раз ты такой заботливый, давай выпьем за моё здоровье | adapted: adapted |
 | 9 | Элеонора | Или ты мне в вино что-то тайком подсыпал? | Or did you secretly slip something into my wine? | #88 00:05:54: Или ты мне в вино что-то подсыпал | adapted: adapted |
 | 10 | Элеонора | Чтобы я уснула, а ты меня в психушку увёз? | So that I fall asleep and you take me to the mental clinic? | #89 00:05:59: а ты меня в психушку вывез | adapted: adapted |
-| 11 | Аня | Ну что ты говоришь, давай выпьем за тебя. | What are you saying, let us drink to you. | #90 00:06:00: Давай за тебя | adapted: adapted |
-| 12 | Аня | Я лекарство не в вино, а в суп подсыпал! | I slipped the medicine not into the wine, but into the soup! | #91 00:06:08: В суп я подсыпал, Элечка, в суп | adapted: adapted |
+| 11 | Шеф | Ну что ты говоришь, давай выпьем за тебя. | What are you saying, let us drink to you. | #90 00:06:00: Давай за тебя | adapted: adapted |
+| 12 | Шеф | Я лекарство не в вино, а в суп подсыпал! | I slipped the medicine not into the wine, but into the soup! | #91 00:06:08: В суп я подсыпал, Элечка, в суп | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

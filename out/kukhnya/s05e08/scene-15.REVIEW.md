@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Настя | Ты знаешь вообще, какой от него выброс в атмосферу? | Do you even know what kind of emissions it puts into the atmosphere? | #162 00:16:31: Ты знаешь вообще, какой от него выброс в атмосферу | adapted: adapted |
 | 2 | Настя | Спасибо, не надо. | Thank you, no need. | #163 00:16:34: Спасибо, не надо | adapted: adapted |
-| 3 | Луи | Шейх закончил переговоры. | The sheikh has finished his negotiations. | #164 00:16:43: Шейх закончил переговоры | adapted: adapted |
-| 4 | Луи | Где обещанный десерт? | Where is the promised dessert? | #165 00:16:46: Где<br>#165 00:16:46: десерт | adapted: adapted |
-| 5 | Аня | Луи, иди сюда скорее! | Louis, come here quickly! | #167 00:16:54: Луи | adapted: adapted |
-| 6 | Аня | Сделай ещё один шоколадный фондан. | Make one more chocolate fondant. | #168 00:16:58: еще один шоколадный | adapted: adapted |
-| 7 | Аня | А я найду, чем занять гостя. | And I will find something to keep the guest occupied. | #169 00:17:02: А я найду, чем занять гостя | adapted: adapted |
-| 8 | Луи | Шеф, но десерт уже готов! | Chef, but the dessert is already ready! | #165 00:16:46: десерт | adapted: adapted |
-| 9 | Аня | Мне нужно выиграть ещё двадцать минут. | I need to buy twenty more minutes. | #169 00:17:02: чем занять гостя | adapted: adapted |
-| 10 | Луи | И что вы собираетесь делать в зале? | And what are you going to do in the dining room? | #170 00:17:06: Что | adapted: adapted |
-| 11 | Аня | Сейчас увидишь настоящее шоу. | Right now you will see a real show. | #169 00:17:02: А я найду | adapted: adapted |
-| 12 | Луи | Удачи вам, шеф! | Good luck to you, Chef! | #167 00:16:54: Луи | adapted: adapted |
+| 3 | Шеф | Шейх закончил переговоры. | The sheikh has finished his negotiations. | #164 00:16:43: Шейх закончил переговоры | adapted: adapted |
+| 4 | Шеф | Где обещанный десерт? | Where is the promised dessert? | #165 00:16:46: Где<br>#165 00:16:46: десерт | adapted: adapted |
+| 5 | Шеф | Луи, иди сюда скорее! | Louis, come here quickly! | #167 00:16:54: Луи | adapted: adapted |
+| 6 | Шеф | Сделай ещё один шоколадный фондан. | Make one more chocolate fondant. | #168 00:16:58: еще один шоколадный | adapted: adapted |
+| 7 | Шеф | А я найду, чем занять гостя. | And I will find something to keep the guest occupied. | #169 00:17:02: А я найду, чем занять гостя | adapted: adapted |
+| 8 | Шеф | Шеф, но десерт уже готов! | Chef, but the dessert is already ready! | #165 00:16:46: десерт | adapted: adapted |
+| 9 | Шеф | Мне нужно выиграть ещё двадцать минут. | I need to buy twenty more minutes. | #169 00:17:02: чем занять гостя | adapted: adapted |
+| 10 | Шеф | И что вы собираетесь делать в зале? | And what are you going to do in the dining room? | #170 00:17:06: Что | adapted: adapted |
+| 11 | Шеф | Сейчас увидишь настоящее шоу. | Right now you will see a real show. | #169 00:17:02: А я найду | adapted: adapted |
+| 12 | Шеф | Удачи вам, шеф! | Good luck to you, Chef! | #167 00:16:54: Луи | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

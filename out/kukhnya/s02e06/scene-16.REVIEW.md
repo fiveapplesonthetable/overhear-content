@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вычту из пенсии. | I will deduct it from your pension. | #264 00:17:21: Вычту из пенсии | verbatim |
-| 2 | Макс | Я не брал. | I did not take it. | #265 00:17:26: Я не брал | verbatim |
-| 3 | Аня | Сеня. Леша. | Senya. Lyosha. | #266 00:17:32: Сеня. Леша | verbatim |
-| 4 | Макс | Ты брал отсюда пирожное? | Did you take the pastry from right here? | #267 00:17:34: Ты брал отсюда пирожное | verbatim |
-| 5 | Аня | Нет. Сеня? | No. Senya? | #268 00:17:36: Нет. Сеня | verbatim |
-| 6 | Макс | Я плачу. | I am crying here. | #269 00:17:40: Я плачу | verbatim |
-| 7 | Аня | И ты ничего не почувствовал? | And you did not feel anything hard inside? | #270 00:17:41: И ты ничего не почувствовал | verbatim |
-| 8 | Макс | Хозяин требует десерт. | The owner is demanding the dessert right now. | #271 00:17:45: Хозяин требует десерт | verbatim |
-| 9 | Аня | Было вкусно. | It was delicious. | #271 00:17:45: Было вкусно | verbatim |
-| 10 | Макс | Вот где-то здесь. | Right around here somewhere. | #272 00:17:46: Вот где-то здесь | verbatim |
-| 11 | Аня | Этот дебил его сожрал. | This moron devoured it. | #273 00:17:50: Этот дебил его сожрал | verbatim |
-| 12 | Макс | А где наш десерт? | And where is our dessert? | #275 00:18:02: А где наш десерт | verbatim |
-| 13 | Аня | Еще пару минут. | Just a couple more minutes. | #276 00:18:04: Еще пару минут | verbatim |
+| 1 | Сеня | Вычту из пенсии. | I will deduct it from your pension. | #264 00:17:21: Вычту из пенсии | verbatim |
+| 2 | Аня | Я не брал. | I did not take it. | #265 00:17:26: Я не брал | verbatim |
+| 3 | Сеня | Сеня. Леша. | Senya. Lyosha. | #266 00:17:32: Сеня. Леша | verbatim |
+| 4 | Аня | Ты брал отсюда пирожное? | Did you take the pastry from right here? | #267 00:17:34: Ты брал отсюда пирожное | verbatim |
+| 5 | Сеня | Нет. Сеня? | No. Senya? | #268 00:17:36: Нет. Сеня | verbatim |
+| 6 | Аня | Я плачу. | I am crying here. | #269 00:17:40: Я плачу | verbatim |
+| 7 | Сеня | И ты ничего не почувствовал? | And you did not feel anything hard inside? | #270 00:17:41: И ты ничего не почувствовал | verbatim |
+| 8 | Аня | Хозяин требует десерт. | The owner is demanding the dessert right now. | #271 00:17:45: Хозяин требует десерт | verbatim |
+| 9 | Сеня | Было вкусно. | It was delicious. | #271 00:17:45: Было вкусно | verbatim |
+| 10 | Аня | Вот где-то здесь. | Right around here somewhere. | #272 00:17:46: Вот где-то здесь | verbatim |
+| 11 | Сеня | Этот парень его уже съел. | This guy already ate it. | #273 00:17:50: Этот<br>#273 00:17:50: его | adapted: adapted |
+| 12 | Аня | А где наш десерт? | And where is our dessert? | #275 00:18:02: А где наш десерт | verbatim |
+| 13 | Сеня | Еще пару минут. | Just a couple more minutes. | #276 00:18:04: Еще пару минут | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The owner is demanding the dessert right now.' Here the Russian phrasing highlights 'owner' before landing on 'dessert'.
 - 'It was delicious.' The grammar packs 'there was' and 'tasty' into a tight, idiomatic kitchen exchange. Max answers right away.
 - 'Right around here somewhere.' Spoken Russian keeps this brisk, leaning on 'there you go' and finishing on 'here'.
-- 'This moron devoured it.' Senya brings out the contrast between 'this' and 'moron' in a few short words.
+- 'This guy already ate it.' Here Senya anchors the thought on 'boyfriend' and finishes on 'ate', keeping the spoken rhythm brisk and natural.
 - 'And where is our dessert?' Notice how Russian expresses 'and' and 'dessert' with crisp inflection rather than helper words. Senya answers right away.
 - 'Just a couple more minutes.' Notice how Russian expresses 'else' and 'minutes' with crisp inflection rather than helper words.

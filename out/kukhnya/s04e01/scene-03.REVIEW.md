@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's send him to his grandmother's.' Kostya keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'For a couple of days.' In spoken Russian, Kostya omits unnecessary linking verbs so the key idea lands immediately.
-- 'Hi there.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'Let's send him to his grandmother's.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'For a couple of days.' Kostya pairs 'couple' with 'days' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Hi there.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
 - 'Can you show a little respect for my hard work?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Vika, come on, don't be angry.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'Vika, come on, don't be angry.' In everyday Russian, 'Vika' flows straight into 'be angry' without extra linking words.
 - 'Come here to me.' Max uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'We need to take a medical check-up in two days.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'We have to be patient.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'Two whole days?' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Do not forget.' Vika places the negative particle directly before the verb or predicate to negate the statement.
-- 'Set a reminder on your phone.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Something has to be done.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'We need to take a medical check-up in two days.' Notice how Russian puts 'necessary, need to' and 'day' together in a short, direct phrase where word endings show how the ideas connect.
+- 'We have to be patient.' Here Vika anchors the thought on 'need to, must' and finishes on 'to be patient', keeping the spoken rhythm brisk and natural.
+- 'Two whole days?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'Do not forget.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Set a reminder on your phone.' Notice how Russian puts 'phone' and 'place, put' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Something has to be done.' Here Max anchors the thought on 'need to, must' and finishes on 'to do', keeping the spoken rhythm brisk and natural.

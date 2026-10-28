@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Voilà, tout est sombre maintenant. | There, everything is dark now. | 1040:lumières |
 
 ## Part 5 — Outro & Closing
-> Standing in the quiet darkness of ASK, Andrea and Gabriel share a final nostalgic moment together before turning off the office lights and walking away. When you watch the episode, listen out for the expressions meaning 'world' and 'left'. You'll catch them now. See you next time.
+> Standing in the quiet darkness of ASK, Andrea and Gabriel share a final nostalgic moment together before turning off the office lights and walking away. When you watch the episode, listen out for the expressions meaning 'world' and 'left'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

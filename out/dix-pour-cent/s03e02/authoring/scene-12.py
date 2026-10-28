@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 12
-TITLE = "Le dîner de coparentalité  (The Coparenting Dinner)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le dîner de coparentalité  (The Coparenting Dinner)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "colette": "emilie", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "At a luxury restaurant dinner, Hicham drops an emotional bombshell on Andrea and Colette by announcing that he wants to be named as the legal father on the birth certificate. The sudden demand threatens Colette's future parental rights. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A tense dinner turns into an emotional crisis as Hicham's paternity ambitions clash with Colette and Andrea's family plans. When you watch the episode, listen out for the expressions meaning 'would like' and 'little girl'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "A tense dinner turns into an emotional crisis as Hicham's paternity ambitions clash with Colette and Andrea's family plans. When you watch the episode, listen out for the expressions meaning 'would like' and 'little girl'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('hicham', "J'aimerais que cette fille connaisse son histoire.", 'I would like this girl to know her history.', [(711, 'connaisse son histoire')], ''),
     ('lea', "Oui, bien sûr, nous sommes d'accord.", 'Yes, of course, we agree.', [(712, 'Oui, bien sûr'), (714, "On est d'accord")], ''),

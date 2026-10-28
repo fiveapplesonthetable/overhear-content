@@ -1,23 +1,23 @@
 ID = 'kukhnya-s05e04-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 5
-TITLE = 'Советы для романтического вечера  (Advice for a Romantic Evening)'
+TITLE = "Советы для романтического вечера  (Advice for a Romantic Evening)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'angelina'}
-LABELS = {'anya': 'Катя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina"}
+LABELS = {"nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = "While Senya's wife Marina complains about Senya's lack of energy, Katya admits Denis is stressed after she turned him down. Nastya advises Marina to draw a foam bath with candles and offers Katya the apartment keys for the night since Kostya is working the night room-service shift."
 
 STORY = [
-    ('anya', 'Ну почему он меня не хочет?', 'Why does he not want me?', [(68, 'Ну почему он')], 'adapted'),
+    ('nastya', 'Ну почему он меня не хочет?', 'Why does he not want me?', [(68, 'Ну почему он')], 'adapted'),
     ('nastya', 'Так ты ему отказала. У него стресс.', 'Because you turned him down. He is under stress.', [(69, 'Так ты ему')], 'adapted'),
     ('nastya', 'Я вот на Сеню наору, он потом неделю ничего не может.', 'When I yell at Senya, he cannot do anything for a week afterward.', [(70, 'Я вот на')], 'adapted'),
-    ('anya', 'У него стресс, а мучаюсь я.', 'He is stressed, and I am the one suffering.', [(72, 'У него стресс')], 'adapted'),
+    ('nastya', 'У него стресс, а мучаюсь я.', 'He is stressed, and I am the one suffering.', [(72, 'У него стресс')], 'adapted'),
     ('nastya', 'А тебе нужно его расслабить.', 'You need to help him relax.', [(73, 'А тебе нужно')], 'adapted'),
     ('nastya', 'Устроим романтический вечер?', 'How about arranging a romantic evening?', [(74, 'Устроим романтический вечер')], 'adapted'),
     ('nastya', 'Ванна с пеной, свечи, музыка.', 'A bubble bath, candles, music.', [(75, 'Ванна с пеной')], 'adapted'),
@@ -34,9 +34,9 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Why does he not want me?' The meaning hinges on 'come on' working together with 'wants' in spoken Russian."),
-    (1, None, "'Because you turned him down. He is under stress.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'stress'."),
+    (1, None, "'Because you turned him down. He is under stress.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (2, None, "'When I yell at Senya, he cannot do anything for a week afterward.' Nastya brings out the contrast between 'I' and 'here' in a few short words."),
-    (3, None, "'He is stressed, and I am the one suffering.' Notice the reflexive suffix on the verb meaning 'I suffer', turning the action back on the subject."),
+    (3, None, "'He is stressed, and I am the one suffering.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (4, None, "'You need to help him relax.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to relax'."),
     (5, None, "'How about arranging a romantic evening?' Nastya anchors the line on 'let us arrange', while 'evening' completes the thought."),
     (6, None, "'A bubble bath, candles, music.' The meaning hinges on 'bathtub' working together with 'music' in spoken Russian."),
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Katya and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Кроме моей кровати, конечно.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Katya and the team handle the pressure when you watch the episode. Until next time!'
+CLOSING = ("nastya", "Всего хорошего!")

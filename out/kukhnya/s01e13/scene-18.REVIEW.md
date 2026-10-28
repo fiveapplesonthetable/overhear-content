@@ -1,32 +1,40 @@
-# kukhnya-s01e13-scene-18: review sheet
+# Тайны персонала  (Staff Secrets) — `kukhnya-s01e13-scene-18`
 
-Title: Тайны персонала  (Staff Secrets)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.13
-Cues 253-254. Victoria returns to Max's room furious that Nastya saw her, accusing him of ruining her reputation before they leave for work.
+**Source:** Кухня (Kukhnya) S1.13 · `sources/kukhnya/s01/e13.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Returning to Max's bedroom in a panic after bumping into Nastya, Victoria furiously rebukes him for exposing her presence to the staff. While Max tries to downplay her fears and urges her to hurry to the restaurant, Victoria insists that they leave the apartment separately. Let's listen to their confrontation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Почему ты вернулась такая злая? | Why did you come back so angry? | #253 00:19:38: А че мы такие злые? | adapted: adapted |
-| 2 | Вика | Настя только что видела меня здесь! | Nastya just saw me in here! | new | new: new |
-| 3 | Макс | Она просто живёт в этой квартире. | She simply lives in this apartment. | new | new: new |
-| 4 | Вика | Ты пригласил сюда весь наш ресторан? | Did you invite our whole restaurant here? | #253 00:19:38: А ты бы еще весь персонал к тебе пригласил | adapted: adapted |
-| 5 | Макс | По-моему, ты сильно преувеличиваешь сейчас. | In my opinion, you are exaggerating greatly now. | #254 00:19:42: По-моему, ты преувеличиваешь | adapted: adapted |
-| 6 | Вика | Моя репутация в ресторане будет разрушена. | My reputation at the restaurant will be ruined. | new | new: new |
-| 7 | Макс | Настя добрая девушка и умеет молчать. | Nastya is a kind girl and knows how to keep quiet. | new | new: new |
-| 8 | Вика | Официанты всегда обсуждают личную жизнь начальства. | Waiters always discuss the management's personal life. | new | new: new |
-| 9 | Макс | Никто не станет обсуждать тебя, успокойся. | No one will discuss you, calm down. | new | new: new |
-| 10 | Вика | Я больше никогда не приду сюда. | I will never come here again. | new | new: new |
-| 11 | Макс | Пожалуй, тебе уже пора на работу. | Perhaps it is already time for you to go to work. | #254 00:19:42: пожалуй, тебе пора | adapted: adapted |
-| 12 | Вика | Мы должны выйти из дома раздельно. | We must leave the building separately. | new | new: new |
-| 13 | Макс | Я согласен, иди первой, Вика. | I agree, you go first, Vika. | new | new: new |
+| 0 | Макс | Почему ты вернулась такая злая? | Why did you come back so angry? | #253 "А че мы такие злые?" |  |
+| 1 | Вика | Настя только что видела меня здесь! | Nastya just saw me in here! | *(added)* |  |
+| 2 | Макс | Она просто живёт в этой квартире. | She simply lives in this apartment. | *(added)* |  |
+| 3 | Вика | Ты пригласил сюда весь наш ресторан? | Did you invite our whole restaurant here? | #253 "А ты бы еще весь персонал к тебе пригласил" |  |
+| 4 | Макс | По-моему, ты сильно преувеличиваешь сейчас. | In my opinion, you are exaggerating greatly now. | #254 "По-моему, ты преувеличиваешь" |  |
+| 5 | Вика | Моя репутация в ресторане будет разрушена. | My reputation at the restaurant will be ruined. | *(added)* |  |
+| 6 | Макс | Настя добрая девушка и умеет молчать. | Nastya is a kind girl and knows how to keep quiet. | *(added)* |  |
+| 7 | Вика | Официанты всегда обсуждают личную жизнь начальства. | Waiters always discuss the management's personal life. | *(added)* |  |
+| 8 | Макс | Никто не станет обсуждать тебя, успокойся. | No one will discuss you, calm down. | *(added)* |  |
+| 9 | Вика | Я больше никогда не приду сюда. | I will never come here again. | *(added)* |  |
+| 10 | Макс | Пожалуй, тебе уже пора на работу. | Perhaps it is already time for you to go to work. | #254 "пожалуй, тебе пора" |  |
+| 11 | Вика | Мы должны выйти из дома раздельно. | We must leave the building separately. | *(added)* |  |
+| 12 | Макс | Я согласен, иди первой, Вика. | I agree, you go first, Vika. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Nastya just saw me in here!' A frantic exclamation revealing sudden fear of discovery by a coworker.
-- 'Did you invite our whole restaurant here?' A hyperbolic accusation expressing frustration over lack of privacy.
-- 'My reputation at the restaurant will be ruined.' A dramatic expression of worry concerning professional standing.
-- 'We must leave the building separately.' A cautious instruction intended to prevent coworkers from suspecting a romance. Now, let's hear Victoria and Max settle their departure once more.
+> Now you know how to express anger over a ruined reputation, dismiss exaggerated fears, and plan a discreet exit in Russian. Listen for these lively dialogue patterns in future episodes. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to come back' — you will catch every word right away. See you next time!
+
+**Вика:** Увидимся на кухне ресторана, Макс.

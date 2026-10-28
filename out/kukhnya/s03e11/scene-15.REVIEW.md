@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Тебе не кажется, что зал у нас старый? | Does it not seem to you that our dining room is old? | #243 00:18:01: Тебе не кажется, что у нас интерьер какой-то старый | adapted: adapted |
-| 2 | Вика | Он совсем такой же старый, как и ты. | It is just as old as you are. | #244 00:18:06: Как и ты | adapted: adapted |
+| 2 | Нагиев | Он совсем такой же старый, как и ты. | It is just as old as you are. | #244 00:18:06: Как и ты | adapted: adapted |
 | 3 | Нагиев | Витя, ну как ты себя сегодня чувствуешь? | Vitya, well how do you feel today? | #245 00:18:08: Как ты | adapted: adapted |
-| 4 | Аня | Дима, да не пил я вчера вечером! | Dima, I did not drink last night! | #246 00:18:09: Дим, да не пил я вчера | adapted: adapted |
-| 5 | Аня | Вообще со мной всё в порядке, видишь? | Everything is completely fine with me, see? | #247 00:18:12: Вообще со мной все в порядке, видишь | adapted: adapted |
-| 6 | Аня | Да понятно, ты о чём хотел поговорить? | Yes, understood, what did you want to talk about? | #248 00:18:14: Да понятно, понятно. Ты о чем хотел поговорить | adapted: adapted |
+| 4 | Шеф | Дима, да не пил я вчера вечером! | Dima, I did not drink last night! | #246 00:18:09: Дим, да не пил я вчера | adapted: adapted |
+| 5 | Шеф | Вообще со мной всё в порядке, видишь? | Everything is completely fine with me, see? | #247 00:18:12: Вообще со мной все в порядке, видишь | adapted: adapted |
+| 6 | Шеф | Да понятно, ты о чём хотел поговорить? | Yes, understood, what did you want to talk about? | #248 00:18:14: Да понятно, понятно. Ты о чем хотел поговорить | adapted: adapted |
 | 7 | Нагиев | Ты последнее время ходишь грустный и устал. | Lately you have been walking around sad and tired. | #250 00:18:18: грустный, щечки висят, устал | adapted: adapted |
 | 8 | Нагиев | Тебе сейчас обязательно надо хорошо отдохнуть. | You definitely need to get a good rest right now. | #251 00:18:26: Отдохнуть тебе надо | adapted: adapted |
 | 9 | Нагиев | Твои повара на кухне пока сами работают. | Your cooks in the kitchen are managing on their own for now. | #253 00:18:33: на кухне | adapted: adapted |
 | 10 | Нагиев | Так что иди спокойно домой и отдохни. | So go home calmly and rest. | #255 00:18:40: Так что иди домой, отдохни | adapted: adapted |
-| 11 | Аня | Не надо, Дима, я отлично работаю сам. | There is no need, Dima, I work great on my own. | #256 00:18:43: Не надо, Дим, я | adapted: adapted |
+| 11 | Шеф | Не надо, Дима, я отлично работаю сам. | There is no need, Dima, I work great on my own. | #256 00:18:43: Не надо, Дим, я | adapted: adapted |
 | 12 | Нагиев | Это не разговор, это мой прямой приказ! | This is not a discussion, this is my direct order! | #257 00:18:46: это практически приказ | adapted: adapted |
-| 13 | Аня | Ладно, я возьму только два дня. | Alright, I will take only two days. | #259 00:18:53: Два дня | adapted: adapted |
+| 13 | Шеф | Ладно, я возьму только два дня. | Alright, I will take only two days. | #259 00:18:53: Два дня | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 9
-TITLE = 'Внезапный гость  (An Unexpected Guest)'
+TITLE = "Внезапный гость  (An Unexpected Guest)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'angelina', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa"}
+LABELS = {"nastya": "Настя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = "Seconds later in the dining room, Nastya's father unexpectedly walks into Claude Monet for a business meeting with his sausage-factory partners, and Nastya hands the table over to Max."
@@ -21,11 +21,11 @@ STORY = [
     ('nastya', 'Покормишь нас? Я — нет.', 'Will you feed us? Me — no.', [(161, 'Покормишь нас'), (162, 'Я нет')], 'adapted'),
     ('nastya', 'Вас Максим может обслужить.', 'Maxim can serve you.', [(165, 'вас Максим может обслужить')], 'adapted'),
     ('anya', 'Здравствуйте! Пойдёмте за столик.', "Hello! Let's go to the table.", [(168, 'Пойдемте')], 'adapted'),
-    ('vika', 'Я слушаю.', 'I am listening.', [(170, 'Я слушаю')], ''),
+    ('nastya', 'Я слушаю.', 'I am listening.', [(170, 'Я слушаю')], ''),
     ('anya', 'Это вам.', 'This is for you.', [(170, 'Это вам')], ''),
-    ('vika', 'Спасибо.', 'Thank you.', [(171, 'Спасибо')], ''),
+    ('nastya', 'Спасибо.', 'Thank you.', [(171, 'Спасибо')], ''),
     ('anya', 'Кто это у нас такой щедрый?', 'Who is being so generous here?', [(172, 'кто это у нас такой щедрый')], 'adapted'),
-    ('vika', 'Опять штраф захотел? Иди работай.', 'Did you want a fine again? Go work.', [(173, 'Опять штраф захотел'), (174, 'Иди работай')], ''),
+    ('nastya', 'Опять штраф захотел? Иди работай.', 'Did you want a fine again? Go work.', [(173, 'Опять штраф захотел'), (174, 'Иди работай')], ''),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up our ninth scene. Listen for Nastya passing her father's table to Max and Max's jealousy when flowers arrive for Vika."
-CLOSING = ('vika', 'Иди работай, Макс!')
+OUTRO = "And that wraps up our ninth scene. Listen for Nastya passing her father's table to Max and Max's jealousy when flowers arrive for Vika. Until next time!"
+CLOSING = ("nastya", "Увидимся!")

@@ -12,10 +12,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Гость | Возьмите деньги за вашу честность и большое спасибо. | Take this money for your honesty and thank you very much. | #313 00:20:02: Возьмите | adapted: adapted |
 | 2 | Гость | Кстати, Валентин, тебе сегодня днём конверт передали? | By the way, Valentin, did they give you the envelope this afternoon? | #317 00:20:11: Кстати, Валентин, тебе конверт передали | adapted: adapted |
-| 3 | Аня | Валя, не ищи конверт, его там больше нет. | Valya, do not look for the envelope, it is no longer there. | #319 00:20:18: Не ищи его там, его нет | adapted: adapted |
-| 4 | Аня | Я забрал его, когда хотел спасти Андрея от идеи. | I took it when I wanted to save Andrey from your idea. | #320 00:20:20: Я забрал, когда хотел спасти Андрея от твоей безумной идеи | adapted: adapted |
-| 5 | Аня | И случайно потерял этот конверт по дороге в такси. | And I accidentally lost that envelope on the way in a taxi. | #321 00:20:25: И потерял в такси | adapted: adapted |
-| 6 | Аня | Но я обязательно скоро все деньги верну, Андрей. | But I will definitely pay back all the money soon, Andrey. | #324 00:20:33: Ну я все верну, Андрей | adapted: adapted |
+| 3 | Гость | Валя, не ищи конверт, его там больше нет. | Valya, do not look for the envelope, it is no longer there. | #319 00:20:18: Не ищи его там, его нет | adapted: adapted |
+| 4 | Гость | Я забрал его, когда хотел спасти Андрея от идеи. | I took it when I wanted to save Andrey from your idea. | #320 00:20:20: Я забрал, когда хотел спасти Андрея от твоей безумной идеи | adapted: adapted |
+| 5 | Гость | И случайно потерял этот конверт по дороге в такси. | And I accidentally lost that envelope on the way in a taxi. | #321 00:20:25: И потерял в такси | adapted: adapted |
+| 6 | Гость | Но я обязательно скоро все деньги верну, Андрей. | But I will definitely pay back all the money soon, Andrey. | #324 00:20:33: Ну я все верну, Андрей | adapted: adapted |
 | 7 | Гость | Да не надо, ведь эти деньги я дал Валентину. | There is no need, because I lent that money to Valentin. | #325 00:20:34: Да не надо. Это я вам Андрея одолжил | adapted: adapted |
 | 8 | Гость | Специально чтобы он смог тебе старый долг вернуть. | Specifically so that he could pay you back his old debt. | #326 00:20:38: Чтобы тебе долг вернуть | adapted: adapted |
 | 9 | Гость | Так что теперь мы с тобой полностью в расчёте. | So now you and I are completely even. | #327 00:20:40: Теперь мы в расчете | adapted: adapted |

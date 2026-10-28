@@ -1,23 +1,23 @@
 ID = 'kukhnya-s06e19-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 13
-TITLE = 'Бегство нового шефа  (The New Chef Walks Out)'
+TITLE = "Бегство нового шефа  (The New Chef Walks Out)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Шеф', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja"}
+LABELS = {"guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "When Anton demands to know why Viktor Petrovich is meddling in his kitchen, Barinov declares that since today is his daughter's wedding, he will inspect every single plate. Fed up with Barinov's antics, Anton storms out with his entire team."
 
 STORY = [
     ('guest', 'Почему вы лезете на мою кухню?', 'Why are you meddling in my kitchen?', [(197, 'вы лезете на мою кухню')], 'adapted'),
-    ('anya', 'Потому что это мой ресторан.', 'Because this is my restaurant.', [(198, 'А это мой ресторан')], 'adapted'),
-    ('anya', 'И сегодня свадьба моей дочери.', "And today is my daughter's wedding.", [(199, 'И сегодня свадьба моей дочери')], 'adapted'),
-    ('anya', 'Я буду контролировать каждое блюдо.', 'I will supervise every dish.', [(200, 'я буду контролировать'), (200, 'каждого блюда')], 'adapted'),
+    ('guest', 'Потому что это мой ресторан.', 'Because this is my restaurant.', [(198, 'А это мой ресторан')], 'adapted'),
+    ('guest', 'И сегодня свадьба моей дочери.', "And today is my daughter's wedding.", [(199, 'И сегодня свадьба моей дочери')], 'adapted'),
+    ('guest', 'Я буду контролировать каждое блюдо.', 'I will supervise every dish.', [(200, 'я буду контролировать'), (200, 'каждого блюда')], 'adapted'),
     ('guest', 'Ясно, тогда сами тут контролируйте.', 'Clear enough, then supervise it here yourself.', [(201, 'Ясно'), (203, 'Контролируйте')], 'adapted'),
     ('guest', 'Контролируйте дальше, уважаемый маэстро!', 'Keep supervising, respected maestro!', [(204, 'Контролируйте, маэстро')], 'adapted'),
     ('guest', 'Проверяйте сами подачу каждого блюда!', 'Check the plating of every dish yourself!', [(205, 'Контролируйте подачу каждого блюда')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With Anton's cooks walking out right before the wedding banquet, Chef Barinov immediately summons his loyal crew back to their stations. See you in the next scene."
-CLOSING = ('anya', 'Я просто посоветовал посолить!')
+OUTRO = "With Anton's cooks walking out right before the wedding banquet, Chef Barinov immediately summons his loyal crew back to their stations. Until next time!"
+CLOSING = ("guest", "До завтра!")

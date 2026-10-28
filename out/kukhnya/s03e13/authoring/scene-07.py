@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 7
-TITLE = 'План перехвата ключей  (Plan to Intercept the Keys)'
+TITLE = "План перехвата ключей  (Plan to Intercept the Keys)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina"}
+LABELS = {"anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "Out in the courtyard, Max tells Katya where those two stolen bottles came from and proposes an absurd plan to steal Vika's server room keys before she watches the security tape. Listen to the Russian scene first, and then we will go through each line."
@@ -43,12 +43,12 @@ WALK = [
     (7, None, "'Vika has the keys to the server room right now.' Notice how Russian expresses 'the keys' and 'Vika' with crisp inflection rather than helper words."),
     (8, None, "'She drives up to the restaurant and gets out of the car.' Here the Russian phrasing highlights 'she' before landing on 'cars'."),
     (9, None, "'I distract her with conversation.' Max brings out the contrast between 'I' and 'distract' in a few short words."),
-    (10, None, "'And you quickly grab the keys.' The grammar packs 'and' and 'the keys' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'And you quickly grab the keys.' Notice how Russian puts 'quickly' and 'the keys' together in a short, direct phrase where word endings show how the ideas connect."),
     (11, None, "'You sneak into the restaurant and destroy the recordings.' Notice how Russian expresses 'you' and 'recordings' with crisp inflection rather than helper words. Katya answers right away."),
     (12, None, "'Where will you get a bat in the restaurant?' Here the Russian phrasing highlights 'where' before landing on 'restaurant'."),
     (13, None, "'I will grab the fire hook off the wall!' The meaning hinges on 'will take' working together with 'with a fire hook' in spoken Russian."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya is unimpressed by Max's fire-hook robbery fantasy and reveals a much simpler way into the server room. Let's hear what happens next."
-CLOSING = ('anya', 'У меня есть план.')
+OUTRO = "Katya is unimpressed by Max's fire-hook robbery fantasy and reveals a much simpler way into the server room. Let's hear what happens next. Until next time!"
+CLOSING = ("anya", "До встречи!")

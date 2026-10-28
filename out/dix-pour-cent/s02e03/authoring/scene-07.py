@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 7
 TITLE = "La comédie musicale de Julien  (Julien's Musical)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"julien": "Julien", "gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'julien': 'Julien', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Julien Dore arrives in Gabriel's office to discuss the creative direction of his erotic musical film. Seizing the moment, Gabriel introduces Sofia, and Julien describes the organic, plant-like vocal qualities he is searching for. Let's listen to the scene in French first."
 OPENER = "Let's examine Julien's pitch and Sofia's audition line by line."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Sofia's first meeting with Julien Dore ends on a poetic and encouraging note, as Julien's vision for an organic musical matches Sofia's unique talent. Let's review the artistic and conversational vocabulary from this scene. See you next time!"
-CLOSING = ("julien", "À demain!")
+CLOSING = ('julien', 'À demain!')
 STORY = [
     ('julien', "Salut Gabriel, j'ai une idée pour la fin.", 'Hi Gabriel, I have an idea for the ending.', [(174, 'Salut, Gabriel.'), (175, "J'ai une nouvelle idée pour la fin.")], ''),
     ('julien', "Je veux finir le film dans l'océan.", 'I want to finish the film in the ocean.', [(177, 'Finir dans une rivière,'), (181, "Comme l'océan, par exemple.")], ''),

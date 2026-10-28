@@ -25,13 +25,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the money, please buy groceries for home.' Accusative plural 'groceries' follows the imperative 'buy'.
-- 'Buy flowers for Mom and sweets for tea.' Preposition 'to/for' with the dative 'tea' denotes treats served with tea.
+- 'Here is the money, please buy groceries for home.' Max uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Buy flowers for Mom and sweets for tea.' In everyday Russian, 'buy' flows straight into 'tea' without extra linking words.
 - 'All right, I will do everything, do not worry.' Denis plays along as Max's helpful houseguest.
 - 'And mind you, do not tell Mom about yourself!' Max has to protect his earlier lie to Vika that Denis is his half-brother.
 - 'Do not say that you are living at our place right now.' If Max's mother meets Denis, she will immediately expose that he is not Max's brother!
 - 'After all, you are supposedly a son from a first marriage.' Particle 'supposedly' recalls the cover story Max told Vika.
-- 'Did you sweep the entrance hall clean today?' Perfective past verb 'swept' checks on the morning chores.
+- 'Did you sweep the entrance hall clean today?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Yes, of course, I already swept everything clean.' Denis heads into the kitchen to look for a new room to rent.
 - 'Look, even Max's wife calmly gives him money!' Watching from the doorway, Senya envies the cash in Max's hand.
 - 'And right now I really need just twenty grand!' Colloquial feminine noun 'a twenty' means twenty thousand rubles.

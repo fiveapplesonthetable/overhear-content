@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Значит так. | Listen up, everyone. | #210 00:13:32: Значит так | verbatim |
-| 2 | Нагиев | Чё ты улыбаешься, вялый, а? | Why are you smiling, you limp noodle, huh? | #212 00:13:39: Чё ты улыбаешься, вялый, а | verbatim |
-| 3 | Аня | Чё ты улыбаешься, а? | What are you smiling at, huh? | #212 00:13:39: Чё ты улыбаешься, а | verbatim |
-| 4 | Нагиев | А? Чё ты улыбаешься? | Huh? Why are you smiling? | #212 00:13:39: а? Чё ты улыбаешься | verbatim |
-| 5 | Аня | Что ты там подаешь? | What are you serving over there? | #214 00:13:44: что ты там подаешь | verbatim |
-| 6 | Нагиев | Дмитрий Владимирович, при чем здесь Настя? | Dmitriy Vladimirovich, what does Nastya have to do with this? | #215 00:13:47: Дмитрий Владимирович, при чем здесь Настя | verbatim |
-| 7 | Аня | Ясно тебе? | Is that clear to you? | #215 00:13:47: Ясно тебе | verbatim |
-| 8 | Нагиев | При том. | She has everything to do with it. | #216 00:13:50: При том | verbatim |
-| 9 | Аня | Кому что она подает. | Depending on who she serves and what she serves. | #217 00:13:54: Кому что она подает | verbatim |
-| 10 | Нагиев | Рот закрыли. | Shut your mouths. | #220 00:14:01: Рот закрыли | verbatim |
-| 11 | Аня | Значит, тебе говорю, всем говорю. | I am telling you, and I am telling all of you. | #221 00:14:05: Значит, тебе говорю, всем говорю | verbatim |
-| 12 | Нагиев | Не буду называть фамилию, только попробуйте облажаться. | I will not name names, but just try screwing up. | #223 00:14:09: Не буду называть фамилию, только попробуйте облажаться | verbatim |
-| 13 | Аня | Только попробуйте. | Just you try. | #224 00:14:11: Только попробуйте | verbatim |
+| 1 | Настя | Значит так. | Listen up, everyone. | #210 00:13:32: Значит так | verbatim |
+| 2 | Настя | Чё ты улыбаешься, вялый, а? | Why are you smiling, you limp noodle, huh? | #212 00:13:39: Чё ты улыбаешься, вялый, а | verbatim |
+| 3 | Настя | Чё ты улыбаешься, а? | What are you smiling at, huh? | #212 00:13:39: Чё ты улыбаешься, а | verbatim |
+| 4 | Настя | А? Чё ты улыбаешься? | Huh? Why are you smiling? | #212 00:13:39: а? Чё ты улыбаешься | verbatim |
+| 5 | Настя | Что ты там подаешь? | What are you serving over there? | #214 00:13:44: что ты там подаешь | verbatim |
+| 6 | Настя | Дмитрий Владимирович, при чем здесь Настя? | Dmitriy Vladimirovich, what does Nastya have to do with this? | #215 00:13:47: Дмитрий Владимирович, при чем здесь Настя | verbatim |
+| 7 | Настя | Ясно тебе? | Is that clear to you? | #215 00:13:47: Ясно тебе | verbatim |
+| 8 | Настя | При том. | She has everything to do with it. | #216 00:13:50: При том | verbatim |
+| 9 | Настя | Кому что она подает. | Depending on who she serves and what she serves. | #217 00:13:54: Кому что она подает | verbatim |
+| 10 | Настя | Рот закрыли. | Shut your mouths. | #220 00:14:01: Рот закрыли | verbatim |
+| 11 | Настя | Значит, тебе говорю, всем говорю. | I am telling you, and I am telling all of you. | #221 00:14:05: Значит, тебе говорю, всем говорю | verbatim |
+| 12 | Настя | Не буду называть фамилию, только попробуйте облажаться. | I will not name names, but just try screwing up. | #223 00:14:09: Не буду называть фамилию, только попробуйте облажаться | verbatim |
+| 13 | Настя | Только попробуйте. | Just you try. | #224 00:14:11: Только попробуйте | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Bonne nuit, Camille. | Good night, Camille. | 571:Bonne nuit, 572:Camille |
 
 ## Part 5 — Outro & Closing
-> With a cup of star-anise tea and a warm conversation about movies, Camille softens her father's heart and wins back her place at ASK. Next, we return to the party by the theatre pool. See you next time.
+> With a cup of star-anise tea and a warm conversation about movies, Camille softens her father's heart and wins back her place at ASK. See you next time!
 - **Closing**: `camille`: *À bientôt!*

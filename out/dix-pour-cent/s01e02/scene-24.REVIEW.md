@@ -31,5 +31,5 @@
 | 17 | `camille` (Camille) | Désolée. | Sorry. | 694:Désolée |
 
 ## Part 5 — Outro & Closing
-> That's all for this scene. When you watch it, notice the two apologies at the very end, one from each of them; they sound exactly alike. See you next time.
+> That's all for this scene. When you watch it, notice the two apologies at the very end, one from each of them; they sound exactly alike. See you next time!
 - **Closing**: `camille`: *Bonne nuit!*

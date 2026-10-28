@@ -10,15 +10,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Простите, где он? | Excuse me, where is he? | #321 00:22:22: Простите<br>#322 00:22:23: Где он? | adapted: adapted |
-| 2 | Михаил | Нагиев и она, они были здесь! | Nagiyev and she, they were here! | #323 00:22:27: они были здесь | adapted: adapted |
-| 3 | Михаил | Витя, ты видел? | Vitya, did you see? | #324 00:22:31: Витя видел? | adapted: adapted |
+| 1 | Шеф | Простите, где он? | Excuse me, where is he? | #321 00:22:22: Простите<br>#322 00:22:23: Где он? | adapted: adapted |
+| 2 | Шеф | Нагиев и она, они были здесь! | Nagiyev and she, they were here! | #323 00:22:27: они были здесь | adapted: adapted |
+| 3 | Шеф | Витя, ты видел? | Vitya, did you see? | #324 00:22:31: Витя видел? | adapted: adapted |
 | 4 | Элеонора | Дима для меня последний вагон. | Dima is the last train car for me. | #325 00:22:32: Дима, для меня последний вагон | adapted: adapted |
 | 5 | Элеонора | Я на самом деле счастлива. | I am truly happy. | #326 00:22:34: Я на самом деле счастлива | adapted: exact |
-| 6 | Аня | Миша, ты чего? | Misha, what is with you? | #327 00:22:36: ты чего? | adapted: adapted |
-| 7 | Аня | Никого тут не было. | Nobody was in here. | #328 00:22:38: кого тут не было | adapted: adapted |
-| 8 | Аня | Да ты перебрал, брат. | Why, you drank too much, brother. | #329 00:22:40: О, да ты перебрал, брат | adapted: adapted |
-| 9 | Аня | Все, хватит, иди и проспись. | Alright, enough, go and sleep it off. | #330 00:22:42: Все, хватит<br>#331 00:22:44: Иди и проспись | adapted: adapted |
+| 6 | Шеф | Миша, ты чего? | Misha, what is with you? | #327 00:22:36: ты чего? | adapted: adapted |
+| 7 | Шеф | Никого тут не было. | Nobody was in here. | #328 00:22:38: кого тут не было | adapted: adapted |
+| 8 | Шеф | Да ты перебрал, брат. | Why, you drank too much, brother. | #329 00:22:40: О, да ты перебрал, брат | adapted: adapted |
+| 9 | Шеф | Все, хватит, иди и проспись. | Alright, enough, go and sleep it off. | #330 00:22:42: Все, хватит<br>#331 00:22:44: Иди и проспись | adapted: adapted |
 | 10 | Элеонора | Ой, вот ты где! | Oh, there you are! | #332 00:22:46: вот ты где | adapted: adapted |
 | 11 | Элеонора | А я бегаю и ищу тебя. | And here I am running around looking for you. | #333 00:22:49: бегаю ищу тебя | adapted: adapted |
 | 12 | Элеонора | Не пойму, куда ты делась. | I could not understand where you disappeared to. | #334 00:22:50: Не пойму, куда ты делась | adapted: exact |
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Alright, enough, go and sleep it off.' The meaning hinges on 'all' working together with 'sleep it off' in spoken Russian.
 - 'Oh, there you are!' Eleonora addresses the listener with the informal singular 'you' alongside 'where'.
 - 'And here I am running around looking for you.' Eleonora brings out the contrast between 'and' and 'I' in a few short words.
-- 'I could not understand where you disappeared to.' Notice the reflexive suffix on the verb meaning 'to go', turning the action back on the subject.
+- 'I could not understand where you disappeared to.' Notice how Russian puts 'understand' and 'to go, vanish, disappear' together in a short, direct phrase where word endings show how the ideas connect.

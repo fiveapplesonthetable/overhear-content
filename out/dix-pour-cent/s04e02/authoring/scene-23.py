@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 23
-TITLE = "La fête à Saint-Ouen  (The Party in Saint-Ouen)"
-LEVEL = "A1 — débutant"
+TITLE = 'La fête à Saint-Ouen  (The Party in Saint-Ouen)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sarah": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "sarah": "Sarah", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sarah': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'sarah': 'Sarah', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "As the gathering at ASK begins to wind down, Sarah thanks Camille before Gabriel excitedly invites her to continue the evening at an afterparty in Saint-Ouen. Let's listen to the scene in French first."
 OPENER = "Let's examine Gabriel and Sarah's lively departure from the agency line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Eager to escape the agency atmosphere and keep the celebratory momentum going, Gabriel and Sarah say their goodbyes to Camille and leave together for Saint-Ouen. When you watch the episode, listen out for the expressions meaning 'party' and 'great'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "Eager to escape the agency atmosphere and keep the celebratory momentum going, Gabriel and Sarah say their goodbyes to Camille and leave together for Saint-Ouen. When you watch the episode, listen out for the expressions meaning 'party' and 'great'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('sarah', 'Au revoir, Camille, merci pour tout.', 'Goodbye, Camille, thank you for everything.', [(1095, 'Au revoir, Camille')], ''),
     ('sarah', 'La soirée était super sympa ici.', 'The party was really nice here.', [(1095, 'super sympa')], ''),

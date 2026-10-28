@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Ce n'est pas du tout ce que j'avais demandé. | This is not at all what I had asked for. | 413:pas |
 
 ## Part 5 — Outro & Closing
-> Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. Until next time.
+> Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. See you next time!
 - **Closing**: `gabriel`: *À demain!*

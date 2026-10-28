@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 5
 TITLE = "Самое дорогое блюдо Макса  (Max's Most Expensive Dish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "Returning from the hospital with Katya, Chef Barinov scoffs at the cooks' tales of Grandpa Kirill's ghost. He then tastes Max's experimental dish made with black caviar, truffles, marbled beef, and saffron—and deducts the cost from Max's pay! Listen first."
@@ -37,14 +37,14 @@ WALK = [
     (3, None, "'Come with me, I will show you something mystical too.' In Russian, the idea of 'let's go' flows naturally into 'will show' without extra filler words."),
     (4, None, "'That is the ghost of your bonus, it just flew away!' The meaning hinges on 'this' working together with 'to fly away' in spoken Russian."),
     (5, None, "'There are tons of orders, and nobody is in the kitchen!' The grammar packs 'orders' and 'no' into a tight, idiomatic kitchen exchange."),
-    (6, None, "'And what is this dish, this is not on the menu?' The grammar packs 'and' and 'menu' into a tight, idiomatic kitchen exchange."),
+    (6, None, "'And what is this dish, this is not on the menu?' In everyday Russian, 'dish' flows straight into 'menu' without extra linking words."),
     (7, None, "'Chef, I finally invented my signature dish!' The '-l' ending on the verb meaning 'came up with' places the action in the masculine past tense."),
     (8, None, "'In here are black caviar, truffles, beef, and saffron.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'saffron'."),
     (9, None, "'My God, this is the most expensive mess in my life!' Notice how Russian expresses 'God' and 'life' with crisp inflection rather than helper words."),
     (10, None, "'I am deducting all of this from your paycheck today!' An emphatic spoken line centered on the verb meaning 'deduct'."),
-    (11, None, "'I forbid you to touch expensive ingredients, go peel potatoes!' Notice the reflexive suffix on the verb meaning 'to touch', turning the action back on the subject."),
+    (11, None, "'I forbid you to touch expensive ingredients, go peel potatoes!' Chef Barinov pairs 'forbid' with 'to peel' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Banned from touching expensive ingredients and sentenced to peeling potatoes, Max has to rethink his culinary strategy. Meanwhile, let's check on Kristina and Nagiyev in Scene Six."
-CLOSING = ('chef', 'Иди картошку чистить!')
+OUTRO = "Banned from touching expensive ingredients and sentenced to peeling potatoes, Max has to rethink his culinary strategy. Meanwhile, let's check on Kristina and Nagiyev in Scene Six. Until next time!"
+CLOSING = ("chef", "Пока!")

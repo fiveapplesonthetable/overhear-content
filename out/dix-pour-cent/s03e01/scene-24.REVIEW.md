@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Merci Jean, cela me touche beaucoup. | Thank you Jean, that touches me a lot. | 1018:Tiens. |
 
 ## Part 5 — Outro & Closing
-> Jean connects the timeline of Andrea's pregnancy with the start of his grueling film shoot, understanding both their struggles. When you watch the episode, listen out for the expressions meaning 'want' and 'to drink'. You'll catch them now. See you next time.
+> Jean connects the timeline of Andrea's pregnancy with the start of his grueling film shoot, understanding both their struggles. When you watch the episode, listen out for the expressions meaning 'want' and 'to drink'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *Bonne soirée!*

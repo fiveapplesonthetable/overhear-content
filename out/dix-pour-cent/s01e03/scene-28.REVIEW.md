@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Vous avez raison. À demain. | You | 743:Vous avez raison, 744:À demain |
 
 ## Part 5 — Outro & Closing
-> A small embarrassing moment, and maybe the start of something between these two. Listen for 'to have reason', the French way to say someone is right, when you watch. See you next time.
+> A small embarrassing moment, and maybe the start of something between these two. Listen for 'to have reason', the French way to say someone is right, when you watch. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

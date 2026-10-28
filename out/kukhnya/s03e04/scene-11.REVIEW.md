@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Федя | Результаты обследования показали, что уровень тоже низкий. | The examination results showed that the level is also low. | #149 00:09:47: Результаты обследования показали, что<br>#150 00:09:51: Уровень<br>#150 00:09:51: тоже низкий | adapted: adapted |
 | 3 | Вика | То есть вы хотите сказать... | So you mean to say... | #151 00:09:54: То есть вы хотите сказать | verbatim |
 | 4 | Федя | Родить вам надо в ближайшие два года, а иначе потом будет сложно. | You need to have a baby in the next two years, otherwise it will be difficult later. | #152 00:09:57: Родить вам надо в ближайшие два года<br>#153 00:10:00: А иначе потом будет сложно | adapted: adapted |
-| 5 | Аня | Ребята, там Дмитрий Владимирович попросил холодец с хреном. | Guys, Dmitry Vladimirovich asked for aspic with horseradish out there. | #154 00:10:12: там Дмитрий Владимирович попросил холодец с хреном | verbatim |
+| 5 | Аня | Ребята, там Дмитрий Владимирович попросил холодец. | Guys, Dmitry Vladimirovich asked for aspic out there. | #154 00:10:12: там Дмитрий Владимирович попросил холодец | adapted: adapted |
 | 6 | Аня | Кто приготовит? | Who will prepare it? | #155 00:10:19: Кто<br>#155 00:10:19: приготовит | adapted: adapted |
 | 7 | Федя | Как? Мы же криворукие! Мы же готовить не умеем. | How? We are clumsy, after all! We don't know how to cook. | #155 00:10:19: Как<br>#156 00:10:21: Мы же криворукие<br>#157 00:10:22: Мы же готовить не умеем | adapted: adapted |
 | 8 | Федя | Тем более что не из меню. | Especially since it is not from the menu. | #158 00:10:24: Тем более, что не из меню | verbatim |
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The examination results showed that the level is also low.' Notice how Russian expresses 'results' and 'low' with crisp inflection rather than helper words. Vika answers right away.
 - 'So you mean to say...' Here the Russian phrasing highlights 'that' before landing on 'to say'.
 - 'You need to have a baby in the next two years, otherwise it will be difficult later.' The meaning hinges on 'to give birth' working together with 'difficult' in spoken Russian.
-- 'Guys, Dmitry Vladimirovich asked for aspic with horseradish out there.' The '-l' ending on the verb meaning 'asked' places the action in the masculine past tense.
+- 'Guys, Dmitry Vladimirovich asked for aspic out there.' In everyday Russian, 'the boys, the lads' flows straight into 'aspic, meat jelly' without extra linking words.
 - 'Who will prepare it?' Max brings out the contrast between 'who' and 'makes' in a few short words.
 - 'How? We are clumsy, after all! We don't know how to cook.' In Russian, the idea of 'how' flows naturally into 'know how' without extra filler words.
 - 'Especially since it is not from the menu.' The grammar packs 'that' and 'menu' into a tight, idiomatic kitchen exchange. Max answers right away.

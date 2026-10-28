@@ -12,21 +12,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Костя | Папа согласился посидеть сегодня с ребёнком. | Dad agreed to babysit the child today. | #196 00:14:20: согласился | adapted: adapted |
 | 2 | Костя | Собирайся, мы пойдём в кино. | Get ready, we will go to the movies. | #196 00:14:20: собирайся, пойдем в кино | adapted: adapted |
-| 3 | Гость | Он без вас ребёнка украдёт! | He will steal the child without you here! | #198 00:14:28: украдет | adapted: adapted |
-| 4 | Аня | Давайте сначала дождёмся результата анализа. | Let us wait for the test result first. | #200 00:14:34: Дождитесь результата анализа | adapted: adapted |
-| 5 | Гость | Этот аферист большой выкуп потребует! | This swindler will demand a big ransom! | #201 00:14:37: этот аферист выкуп потребует | adapted: adapted |
-| 6 | Аня | Что-то я не хочу в кино. | Somehow I do not want to go to the movies. | #202 00:14:44: Что-то я не очень хочу в кино | adapted: adapted |
-| 7 | Аня | Я просто хочу побыть дома. | I just want to stay at home. | #206 00:14:55: я просто хочу побыть дома | adapted: adapted |
-| 8 | Гость | А давайте завтра сходим в планетарий. | Let us go to the planetarium tomorrow. | #207 00:14:59: а давайте мы завтра<br>#208 00:15:03: Планетарий | adapted: adapted |
-| 9 | Аня | Никуда вы вдвоём не пойдёте! | You two are not going anywhere alone! | #209 00:15:05: Никуда вы<br>#209 00:15:05: не пойдете вдвоем | adapted: adapted |
+| 3 | Костя | Он без вас ребёнка украдёт! | He will steal the child without you here! | #198 00:14:28: украдет | adapted: adapted |
+| 4 | Настя | Давайте сначала дождёмся результата анализа. | Let us wait for the test result first. | #200 00:14:34: Дождитесь результата анализа | adapted: adapted |
+| 5 | Костя | Этот аферист большой выкуп потребует! | This swindler will demand a big ransom! | #201 00:14:37: этот аферист выкуп потребует | adapted: adapted |
+| 6 | Настя | Что-то я не хочу в кино. | Somehow I do not want to go to the movies. | #202 00:14:44: Что-то я не очень хочу в кино | adapted: adapted |
+| 7 | Настя | Я просто хочу побыть дома. | I just want to stay at home. | #206 00:14:55: я просто хочу побыть дома | adapted: adapted |
+| 8 | Костя | А давайте завтра сходим в планетарий. | Let us go to the planetarium tomorrow. | #207 00:14:59: а давайте мы завтра<br>#208 00:15:03: Планетарий | adapted: adapted |
+| 9 | Настя | Никуда вы вдвоём не пойдёте! | You two are not going anywhere alone! | #209 00:15:05: Никуда вы<br>#209 00:15:05: не пойдете вдвоем | adapted: adapted |
 | 10 | Костя | Настя, в чём вообще дело? | Nastya, what on earth is the matter? | #210 00:15:08: Настя, в чем дело | adapted: adapted |
-| 11 | Аня | Я разговаривала с твоей бабушкой. | I spoke with your grandmother. | #215 00:15:19: Я разговаривала с твоей бабушкой | adapted: adapted |
-| 12 | Аня | Она не узнала в вас отца Кости. | She did not recognize Kostya's father in you. | #215 00:15:19: и она не<br>#216 00:15:24: узнала в вас отца Кости | adapted: adapted |
+| 11 | Настя | Я разговаривала с твоей бабушкой. | I spoke with your grandmother. | #215 00:15:19: Я разговаривала с твоей бабушкой | adapted: adapted |
+| 12 | Настя | Она не узнала в вас отца Кости. | She did not recognize Kostya's father in you. | #215 00:15:19: и она не<br>#216 00:15:24: узнала в вас отца Кости | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dad agreed to babysit the child today.' The grammar packs 'dad' and 'child' into a tight, idiomatic kitchen exchange.
-- 'Get ready, we will go to the movies.' Notice the reflexive suffix on the verb meaning 'gather yourself', turning the action back on the subject. the guest answers right away.
+- 'Get ready, we will go to the movies.' In everyday Russian, 'gather yourself, get ready' flows straight into 'cinema, movies' without extra linking words.
 - 'He will steal the child without you here!' The grammar packs 'he' and 'to steal' into a tight, idiomatic kitchen exchange.
 - 'Let us wait for the test result first.' In Russian, the idea of 'let's' flows naturally into 'test' without extra filler words.
 - 'This swindler will demand a big ransom!' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'will demand'. Nastya answers right away.

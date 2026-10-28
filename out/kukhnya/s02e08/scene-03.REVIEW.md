@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что вы избили моего мужа. | That you beat up my husband. | #37 00:02:41: что вы избили моего мужа | verbatim |
+| 1 | Костя | Что вы избили моего мужа. | That you beat up my husband. | #37 00:02:41: что вы избили моего мужа | verbatim |
 | 2 | Настя | Мама, во-первых, Костя не виноват. | Mom, first of all, it was not Kostya's fault. | #38 00:02:45: Мама, во-первых, Костя не виноват | verbatim |
-| 3 | Аня | А во-вторых, ему все равно стыдно. | And secondly, he feels ashamed about it anyway. | #39 00:02:47: А во-вторых, ему все равно стыдно | verbatim |
+| 3 | Костя | А во-вторых, ему все равно стыдно. | And secondly, he feels ashamed about it anyway. | #39 00:02:47: А во-вторых, ему все равно стыдно | verbatim |
 | 4 | Настя | Скажи, Костя. | Tell her, Kostya. | #40 00:02:49: Скажи, Костя | verbatim |
-| 5 | Аня | Скажи, что тебе стыдно. | Tell her that you are ashamed. | #41 00:02:50: Скажи, что тебе стыдно | verbatim |
+| 5 | Костя | Скажи, что тебе стыдно. | Tell her that you are ashamed. | #41 00:02:50: Скажи, что тебе стыдно | verbatim |
 | 6 | Настя | Мне стыдно. | I am ashamed. | #42 00:02:52: Мне стыдно | verbatim |
-| 7 | Аня | Настя, я пойду? | Nastya, may I go back to work now? | #43 00:02:55: Настя, я пойду | verbatim |
+| 7 | Костя | Настя, я пойду? | Nastya, may I go back to work now? | #43 00:02:55: Настя, я пойду | verbatim |
 | 8 | Настя | Приезжай в субботу к нам домой. | Come visit us at our house on Saturday. | #46 00:03:04: Приезжай в субботу к нам домой | verbatim |
-| 9 | Аня | И закончим этот глупый конфликт. | And let us put an end to this foolish conflict. | #47 00:03:06: И закончим этот глупый конфликт | verbatim |
+| 9 | Костя | И закончим этот глупый конфликт. | And let us put an end to this foolish conflict. | #47 00:03:06: И закончим этот глупый конфликт | verbatim |
 | 10 | Настя | Так приезжайте вы к нам с Костей. | Why do the two of you not come visit Kostya and me instead. | #49 00:03:13: Так приезжайте вы к нам с Костей | verbatim |
-| 11 | Аня | Настя, дорогая, ты поезжай, а я потом как-нибудь. | Nastya, darling, you come visit us, and I will drop by another time. | #53 00:03:21: Настя, дорогая, ты поезжай, а я потом как-нибудь | verbatim |
+| 11 | Костя | Настя, дорогая, ты поезжай, а я потом как-нибудь. | Nastya, darling, you come visit us, and I will drop by another time. | #53 00:03:21: Настя, дорогая, ты поезжай, а я потом как-нибудь | verbatim |
 | 12 | Настя | Значит так. | Here is how it is going to be. | #54 00:03:24: Значит так | verbatim |
-| 13 | Аня | Боюсь, что папе это будет очень сложно объяснить. | I am afraid that will be very hard to explain to Dad. | #57 00:03:34: Боюсь, что папе это будет очень сложно объяснить | verbatim |
+| 13 | Костя | Боюсь, что папе это будет очень сложно объяснить. | I am afraid that will be very hard to explain to Dad. | #57 00:03:34: Боюсь, что папе это будет очень сложно объяснить | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

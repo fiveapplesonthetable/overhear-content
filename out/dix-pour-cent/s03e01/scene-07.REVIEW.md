@@ -26,5 +26,5 @@
 | 12 | `maxime` (Maxime) | Montre-moi ces images secrètes du tournage. | Show me these secret shots from the film set. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the deserter's story. When you watch the episode, listen out for the expressions meaning 'tell me' and 'famous'. You'll catch them now. See you next time.
+> That's it for this scene around the deserter's story. When you watch the episode, listen out for the expressions meaning 'tell me' and 'famous'. You'll catch them now. See you next time!
 - **Closing**: `maxime`: *Au revoir!*

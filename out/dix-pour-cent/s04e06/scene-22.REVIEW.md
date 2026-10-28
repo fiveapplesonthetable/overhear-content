@@ -27,5 +27,5 @@
 | 13 | `jean` (Jean) | Bonne chance pour ta nouvelle vie! | Good luck for your new life! | 918:Pour vous remercier |
 
 ## Part 5 — Outro & Closing
-> As Jean Reno and Andrea clink glasses in the agency boardroom, an era quietly draws to a close. When you watch the episode, listen out for the expressions meaning 'to thank' and 'kind'. You'll catch them now. See you next time.
+> As Jean Reno and Andrea clink glasses in the agency boardroom, an era quietly draws to a close. When you watch the episode, listen out for the expressions meaning 'to thank' and 'kind'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À demain!*

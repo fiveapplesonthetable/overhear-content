@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 19
 TITLE = "Le cadeau d'Hicham  (Hicham's Gift)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In their apartment, Andrea and Colette find an expensive baby crib delivered to their doorstep. Colette is unsettled by Hicham's generous intrusion, leading to a tense discussion about their family boundaries. Listen to the conversation in French first."
 OPENER = 'Let us observe how Andrea and Colette react to an unexpected gift from Hicham.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Andrea and Colette navigate the emotional and practical complexities of expecting a baby together. When you watch the episode, listen out for the expressions meaning 'look at' and 'crib'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Andrea and Colette navigate the emotional and practical complexities of expecting a baby together. When you watch the episode, listen out for the expressions meaning 'look at' and 'crib'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('colette', 'Regarde ce grand berceau magnifique!', 'Look at this magnificent big crib!', [(633, 'Oh, putain !'), (643, 'Puis, franchement, pas mal, le berceau.')], ''),
     ('lea', 'Ce cadeau ne vient pas de ma mère.', 'This gift does not come from my mother.', [(636, "C'est pas ma mère, c'est Hicham.")], ''),

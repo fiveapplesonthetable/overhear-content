@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 8
-TITLE = "Fin de soirée  (End of the Evening)"
-LEVEL = "A1 — débutant"
+TITLE = 'Fin de soirée  (End of the Evening)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "chantal": "emilie"}
-LABELS = {"gabriel": "Gabriel", "chantal": "Chantal"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'chantal': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'chantal': 'Chantal'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Late at night outside her apartment building, Gabriel walks Chantal to her entrance. After spending the evening together, the two share a hesitant and polite goodnight farewell. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Outside her building, Gabriel and Chantal exchange polite farewells after an evening out. When you watch the episode, listen out for the expressions meaning 'arrived' and 'thank you'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Outside her building, Gabriel and Chantal exchange polite farewells after an evening out. When you watch the episode, listen out for the expressions meaning 'arrived' and 'thank you'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Voilà, nous sommes arrivés devant chez toi.', 'Here we are, we have arrived in front of your place.', [(541, 'Voilà.')], ''),
     ('chantal', 'Merci pour cette très belle soirée.', 'Thank you for this very lovely evening.', [(541, 'Voilà.')], ''),

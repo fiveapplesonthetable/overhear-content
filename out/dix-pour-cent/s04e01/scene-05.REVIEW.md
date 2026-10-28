@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Je vais demander le double de ton cachet! | I am going to ask double your fee! | 360:Je vais jouer la carte du double cachet. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around oscar's project. When you watch the episode, listen out for the expressions meaning 'continues' and 'humanity'. You'll catch them now. See you next time.
+> That's it for this scene around oscar's project. When you watch the episode, listen out for the expressions meaning 'continues' and 'humanity'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

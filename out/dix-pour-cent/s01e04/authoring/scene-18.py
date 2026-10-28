@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 18
-TITLE = "Surprise par Catherine  (Caught by Catherine)"
-LEVEL = "A1 — débutant"
+TITLE = 'Surprise par Catherine  (Caught by Catherine)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "camille": "emilie", "lea": "lucie"}
-LABELS = {"hippolyte": "Hippolyte", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Camille has ridden on the back of Hippolyte's scooter to his parents' house — which is also Mathias's house. She is terrified of running into Mathias or his wife Catherine, but Hippolyte assures her nobody is home. As they look through his childhood photos, though, Hippolyte gets a little too close, and then the front door opens. Let's hear the scene in French first."
 OPENER = "Let's walk through it step by step. Camille steps inside, looking nervously around the room."
 TRANSITION = "Now let's listen to the whole scene at the house again."
-OUTRO = "Poor Camille is trapped for dinner, and of course Mathias is going to come home early. We'll see what happens at the table soon. See you next time."
-CLOSING = ("camille", "Bonne soirée!")
+OUTRO = "Poor Camille is trapped for dinner, and of course Mathias is going to come home early. We'll see what happens at the table soon. See you next time!"
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('camille', 'Tu es sûr que tes parents ne sont pas là?', 'Are you sure that your parents aren', [(442, 'sûr que tes parents ne sont pas là')], ''),
     ('hippolyte', "Non, c'est bon. Je vais chercher les photos.", 'No, it', [(442, "Non, c'est bon"), (443, 'Je vais chercher les photos')], ''),

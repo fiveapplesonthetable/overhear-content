@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 13
 TITLE = "L'avenir de l'agence  (The Future of the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Outside the community hall, Gabriel intercepts Mathias to question his aggressive maneuvers behind the scenes. Facing the threat of losing top talent to rival agencies, Gabriel fights to keep ASK afloat. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel takes initiative to prevent top client Dany Boon from departing ASK. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne journée!")
+OUTRO = "Gabriel takes initiative to prevent top client Dany Boon from departing ASK. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Hé toi, attends une seconde, Mathias!', 'Hey you, wait a second, Mathias!', [(789, 'Hé, toi')], ''),
     ('mathias', "Ce n'est pas fini pour Auteuil.", 'It is not over for Auteuil.', [(790, "ce n'est pas fini")], ''),

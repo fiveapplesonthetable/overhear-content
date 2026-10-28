@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 2
 TITLE = "Le bilan de fin d'année  (The Year-End Review)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the ASK agency reception area, agents and assistants discuss the looming annual financial audit. Determined to outperform rival agent Mathias, pregnant Andrea pushes herself hard before suffering a sudden contraction. Let's listen to the scene in French first."
 OPENER = "Let's see how Andrea balances intense workplace competition with the physical demands of pregnancy."
 TRANSITION = "Now let's listen to Camille, Gabriel, and Andrea again at full speed."
-OUTRO = "Despite the looming financial pressure, Gabriel and Camille step in to support Andrea when pregnancy contractions strike. When you watch the episode, listen out for the expressions meaning 'annual review' and 'calendar year'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "Despite the looming financial pressure, Gabriel and Camille step in to support Andrea when pregnancy contractions strike. When you watch the episode, listen out for the expressions meaning 'annual review' and 'calendar year'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('camille', "Le bilan de fin d'année approche rapidement.", 'The year-end review is approaching quickly.', [(25, "c'est ce bilan de fin d'année qui arrive, ça me stresse.")], ''),
     ('gabriel', 'Tout le monde est très stressé ici.', 'Everyone is very stressed here.', [(27, 'ça stresse tout le monde.')], ''),

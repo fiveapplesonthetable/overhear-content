@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 11
 TITLE = "Выдуманный диагноз деда  (Grandpa's Invented Diagnosis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = 'When Max promises to set a feast once his grandfather recovers, the sly old man pretends that the doctor gave him only two months left to live today. Completely fooled and heartbroken, Max brings his grandfather a drink and toasts to his long, happy life.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that concludes the grandfather's tall tale in the dining room. Listen for how he claims the doctor gave him two months to live and tells Max not to get upset. See you in the next scene."
-CLOSING = ('guest', 'За тебя и твою семью!')
+OUTRO = "And that concludes the grandfather's tall tale in the dining room. Listen for how he claims the doctor gave him two months to live and tells Max not to get upset. Until next time!"
+CLOSING = ("guest", "Хорошего дня!")

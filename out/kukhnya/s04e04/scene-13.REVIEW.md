@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot do it like this. All of this is weighing on me.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'What is weighing on you?' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Did your voice finally come back? Wonderful.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'I cannot do it like this. All of this is weighing on me.' Notice how Russian puts 'so, like this' and 'to press, to put pressure on' together in a short, direct phrase where word endings show how the ideas connect.
+- 'What is weighing on you?' Max centers this short reply on 'to press, to put pressure on', letting a few direct words carry the whole meaning.
+- 'Did your voice finally come back? Wonderful.' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'That you stay silent and write these foolish notes.' Vika addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'I do not want our child to be conceived in this way.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'Maybe you do not want a child at all?' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Vika, come on, stop it.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'I do not want our child to be conceived in this way.' Notice how Russian puts 'want' and 'way, method, means' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Maybe you do not want a child at all?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Vika, come on, stop it.' In everyday Russian, 'Vika' flows straight into 'to stop, quit' without extra linking words.
 - 'What kind of nonsense are you saying, huh?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
 - 'You are the one who always talks nonsense.' Vika addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Vika, come on, wait.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Vika, stop.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'Vika, come on, wait.' Here Max anchors the thought on 'Vika' and finishes on 'wait', keeping the spoken rhythm brisk and natural.
+- 'Vika, stop.' In everyday Russian, 'Vika' flows straight into 'stop' without extra linking words.
 - 'Vika, wait!' Max delivers this line as an emphatic exclamation, putting strong stress on the main word.

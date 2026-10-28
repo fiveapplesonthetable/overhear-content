@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e16-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 16
 SCENE = 1
-TITLE = 'Машина у входа и встреча с Дашей  (The Car by the Entrance and Meeting Dasha)'
+TITLE = "Машина у входа и встреча с Дашей  (The Car by the Entrance and Meeting Dasha)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "guest": "Гость", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
 
 INTRO = 'Outside the hotel, Katya criticizes the arrogant owner of a badly parked sports car while talking to Nikita, and inside the lobby Max runs into his old school flame Dasha, claiming he is divorced and that his wedding ring is simply stuck.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Unfortunately for Max, Vika happens to see him hugging Dasha in the hotel lobby. See you in the next scene.'
-CLOSING = ('anya', 'Проводишь меня, расскажешь о себе.')
+OUTRO = 'Unfortunately for Max, Vika happens to see him hugging Dasha in the hotel lobby. Until next time!'
+CLOSING = ("anya", "До встречи!")

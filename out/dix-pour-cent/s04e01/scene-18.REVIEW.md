@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Profitez pleinement de votre grand succès! | Enjoy your great success to the fullest! | 897:Je vous laisse |
 
 ## Part 5 — Outro & Closing
-> With generous warmth, Charlotte Gainsbourg and Mimie Mathy turn the red carpet into a moment of pure solidarity. When you watch the episode, listen out for the expressions meaning 'come' and 'to do'. You'll catch them now. See you next time.
+> With generous warmth, Charlotte Gainsbourg and Mimie Mathy turn the red carpet into a moment of pure solidarity. When you watch the episode, listen out for the expressions meaning 'come' and 'to do'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

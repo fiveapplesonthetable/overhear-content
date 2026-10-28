@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 8
-TITLE = "Gabriel Sarda, mon agent!  (Gabriel Sarda, My Agent!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Gabriel Sarda, mon agent!  (Gabriel Sarda, My Agent!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "After leaving JoeyStarr's trailer, Gabriel walks across the courtyard toward the film set's catering tent. There, Sofia is in her eighteenth-century servant costume, tasting the strange snacks on the buffet table. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through the scene line by line. Sofia inspects the catering snacks before spotting Gabriel."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "While Andréa and Gabriel prepare a plan to force Julie and JoeyStarr to make peace on set, a new crisis erupts back at the ASK offices in Paris. Next, Arlette brings a furious soap-opera writer into Mathias's office. See you there."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = 'While Andréa and Gabriel prepare a plan to force Julie and JoeyStarr to make peace on set, a new crisis erupts back at the ASK offices in Paris. See you next time!'
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('sofia', "L'un est noir et l'autre est jaune. Ça a quel goût?", 'One is black and the other is yellow. What does it taste like?', [(139, "L'un est noir et l'autre est jaune. Ça a quel goût")], ''),
     ('sofia', "C'est horrible! Gabriel!", 'It', [(141, "C'est horrible. Gabriel")], ''),

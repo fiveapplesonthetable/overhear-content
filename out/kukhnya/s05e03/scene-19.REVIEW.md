@@ -12,19 +12,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Михаил | Ты же говорил, что ты майор. | You said that you were a major. | #329 00:22:12: Ты же говорил, что ты майор | adapted: verbatim |
 | 2 | Михаил | Он сейчас на важном задании. | He is on an important mission right now. | #330 00:22:15: сейчас на задании | adapted: adapted |
-| 3 | Аня | Мама, привет! Я уже вернулась. | Mom, hi! I have come back already. | #331 00:22:19: Мам, привет. Я вернулась | adapted: adapted |
-| 4 | Аня | У вас здесь всё в порядке? | Is everything alright here with you? | #332 00:22:22: Все в порядке? | adapted: adapted |
-| 5 | Элеонора | Ты говорила, что твой отец изменился. | You said that your father had changed. | #334 00:22:27: Ты говорила, что твой отец изменился | adapted: verbatim |
-| 6 | Элеонора | Ты убедила меня взять его на работу. | You convinced me to hire him. | #335 00:22:30: Убедила меня взять его на работу | adapted: verbatim |
-| 7 | Элеонора | Ему по-прежнему на всех наплевать. | He still does not care about anyone. | #336 00:22:32: Ему по-прежнему на всех наплевать | adapted: verbatim |
-| 8 | Элеонора | Всё, я его сегодня уволю. | That is it, I am firing him today. | #337 00:22:39: Все<br>#338 00:22:42: Я его уволю | adapted: adapted |
-| 9 | Аня | Нет, мама, ты его не уволишь. | No, Mom, you will not fire him. | #339 00:22:44: Нет, не уволишь | adapted: adapted |
-| 10 | Аня | Мы хотим с тобой общаться нормально. | We want to talk with you normally. | #340 00:22:46: чтобы мы с тобой общались нормально | adapted: adapted |
-| 11 | Аня | Тогда ты дашь ему ещё один шанс. | Then you will give him one more chance. | #341 00:22:50: ты дашь ему еще один шанс | adapted: verbatim |
-| 12 | Аня | А ты Дениса сегодня не видела? | And have you seen Denis today? | #342 00:22:58: Ты Дениса не видела? | adapted: adapted |
-| 13 | Аня | Я никак не могу ему дозвониться. | I cannot reach him by phone at all. | #342 00:22:58: Не могу дозвониться | adapted: adapted |
+| 3 | Катя | Мама, привет! Я уже вернулась. | Mom, hi! I have come back already. | #331 00:22:19: Мам, привет. Я вернулась | adapted: adapted |
+| 4 | Катя | У вас здесь всё в порядке? | Is everything alright here with you? | #332 00:22:22: Все в порядке? | adapted: adapted |
+| 5 | Катя | Ты говорила, что твой отец изменился. | You said that your father had changed. | #334 00:22:27: Ты говорила, что твой отец изменился | adapted: verbatim |
+| 6 | Катя | Ты убедила меня взять его на работу. | You convinced me to hire him. | #335 00:22:30: Убедила меня взять его на работу | adapted: verbatim |
+| 7 | Катя | Ему по-прежнему на всех наплевать. | He still does not care about anyone. | #336 00:22:32: Ему по-прежнему на всех наплевать | adapted: verbatim |
+| 8 | Катя | Всё, я его сегодня уволю. | That is it, I am firing him today. | #337 00:22:39: Все<br>#338 00:22:42: Я его уволю | adapted: adapted |
+| 9 | Катя | Нет, мама, ты его не уволишь. | No, Mom, you will not fire him. | #339 00:22:44: Нет, не уволишь | adapted: adapted |
+| 10 | Катя | Мы хотим с тобой общаться нормально. | We want to talk with you normally. | #340 00:22:46: чтобы мы с тобой общались нормально | adapted: adapted |
+| 11 | Катя | Тогда ты дашь ему ещё один шанс. | Then you will give him one more chance. | #341 00:22:50: ты дашь ему еще один шанс | adapted: verbatim |
+| 12 | Катя | А ты Дениса сегодня не видела? | And have you seen Denis today? | #342 00:22:58: Ты Дениса не видела? | adapted: adapted |
+| 13 | Катя | Я никак не могу ему дозвониться. | I cannot reach him by phone at all. | #342 00:22:58: Не могу дозвониться | adapted: adapted |
 | 14 | Михаил | Он ушёл с какой-то дамой. | He left with some lady. | #345 00:23:06: Он ушел с какой-то дамой | adapted: verbatim |
-| 15 | Элеонора | У меня где-то универсальный ключ был. | I had a master key somewhere. | #349 00:23:34: меня где-то универсальный ключ был | adapted: verbatim |
+| 15 | Катя | У меня где-то универсальный ключ был. | I had a master key somewhere. | #349 00:23:34: меня где-то универсальный ключ был | adapted: verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

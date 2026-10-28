@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Alright, attention, nobody is going home tonight!' The negative particle sits right before the verb meaning 'leaves' to negate the statement.
 - 'Tonight we have a night shift in the kitchen.' In Russian, the idea of 'tonight' flows naturally into 'shift' without extra filler words.
-- 'Chef, with such spooky nonsense here, I am not staying at night!' Notice the reflexive suffix on the verb meaning 'will stay', turning the action back on the subject. Chef Barinov answers right away.
+- 'Chef, with such spooky nonsense here, I am not staying at night!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'I do not even need all the cooks tonight.' Chef Barinov brings out the contrast between 'and' and 'to me' in a few short words.
 - 'Katya is staying, and Max, because he is being punished.' The grammar packs 'to stay' and 'punished' into a tight, idiomatic kitchen exchange.
 - 'Who else will stay, there will be double pay for the shift!' Chef Barinov brings out the contrast between 'who' and 'else' in a few short words. Max answers right away.

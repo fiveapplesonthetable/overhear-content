@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e20-scene-20"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-20'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 20
-TITLE = 'Новый официант Максим Лавров  (New Waiter Maxim Lavrov)'
+TITLE = "Новый официант Максим Лавров  (New Waiter Maxim Lavrov)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = "In the closing moments of the season, Max reflects on how a happy ending does not happen for everyone right away—while Nastya surprises Kostya with the news that they are going to have a baby. Determined to stay close to the kitchen and Vika, Max joins the dining room crew as Claude Monet's newest waiter."
 
@@ -34,7 +34,7 @@ WALK = [
     (0, None, "'We all dream about having a happy ending.' In Russian, the idea of 'we' flows naturally into 'happy ending' without extra filler words."),
     (1, None, "'Unfortunately.' Here the Russian phrasing highlights 'regret' before landing on 'regret'."),
     (2, None, "'In real life it does not always happen.' Notice how Russian expresses 'life' and 'always' with crisp inflection rather than helper words. Max answers right away."),
-    (3, None, "'And not for everyone.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'everyone'."),
+    (3, None, "'And not for everyone.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context."),
     (4, None, "'While someone else thinks their happy ending has already arrived.' Kostya anchors the line on 'and', while 'stepped' completes the thought."),
     (5, None, "'That the happy ending is already here.' The '-l' ending on the verb meaning 'stepped' places the action in the masculine past tense. Max answers right away."),
     (6, None, "'It looks like we are going to have a baby.' The grammar packs 'by' and 'baby' into a tight, idiomatic kitchen exchange."),
@@ -46,6 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 20 of Episode 20, listen out for the exchange around new waiter maxim lavrov — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('nastya', 'Максим Лавров.')
+OUTRO = 'That wraps up this scene as max reflects on fighting for a happy ending as Nastya reveals to Kostya that they are expecting a baby, and Vika introduces Max to the dining room staff as their newest waiter. See you next time!'
+CLOSING = ("nastya", "Хорошего дня!")

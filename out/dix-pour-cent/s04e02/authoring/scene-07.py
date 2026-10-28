@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 7
 TITLE = "Le savon de Gabriel  (Gabriel's Lecture)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "franck": "marcel", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"franck": "Franck", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'franck': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'franck': 'Franck', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At ASK, comedy star Franck Dubosc angrily confronts Gabriel about an interview in Telerama for a serious drama. Gabriel delivers a passionate speech challenging him to conquer his fears, convincing Franck to trust him completely. Let's listen to their conversation in French first."
 OPENER = "Let's explore Gabriel and Franck Dubosc's intense confrontation line by line."
 TRANSITION = "Now let's listen to Gabriel and Franck's conversation once more from start to finish."
-OUTRO = "That's it for this scene around gabriel's lecture. When you watch the episode, listen out for the expressions meaning 'it is' and 'interview'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "That's it for this scene around gabriel's lecture. When you watch the episode, listen out for the expressions meaning 'it is' and 'interview'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('franck', "C'est quoi cette interview dans Télérama?", 'What is this interview in Telerama?', [(373, "C'est quoi cette histoire avec Télérama ?")], ''),
     ('gabriel', "C'est une excellente nouvelle pour toi, Franck!", 'It is excellent news for you, Franck!', [(375, 'félicitations !')], ''),

@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e20-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 17
-TITLE = 'Результат теста и примирение  (The Test Result and Reconciliation)'
+TITLE = "Результат теста и примирение  (The Test Result and Reconciliation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Настя', 'kostya': 'Костя', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = "After the police arrest the thugs, Denis thanks Nikita—and doesn't turn him in. Meanwhile, at the apartment, Nastya confesses to a grieving Kostya that she secretly ran a saliva DNA test, and the results prove that Timofey Ilyich really is his biological father!"
 
 STORY = [
     ('kostya', 'Я сегодня снова потерял своего отца.', 'Today I lost my father all over again.', [(252, 'Снова потерял отца')], 'adapted'),
-    ('anya', 'Костик, прости меня, пожалуйста, родной.', 'Kostik, forgive me, please, darling.', [(253, 'Костик, прости меня, пожалуйста')], 'adapted'),
-    ('anya', 'Это я во всём сама виновата.', 'I am to blame for everything myself.', [(254, 'виновата')], 'adapted'),
-    ('anya', 'Не надо было вообще его искать.', 'I should not have looked for him at all.', [(254, 'Не надо было вообще его искать')], 'adapted'),
-    ('anya', 'Костик, ты чуть палочку не съел.', 'Kostik, you nearly ate the cotton swab.', [(255, 'Костик'), (256, 'ватную палочку')], 'adapted'),
-    ('anya', 'Это я делала тест на отцовство.', 'It was I who did a paternity test.', [(257, 'Это я делала тест на отцовство')], 'adapted'),
-    ('anya', 'Я брала слюну у вас обоих.', 'I took saliva from both of you.', [(258, 'Брала слюну у тебя')], 'adapted'),
+    ('nastya', 'Костик, прости меня, пожалуйста, родной.', 'Kostik, forgive me, please, darling.', [(253, 'Костик, прости меня, пожалуйста')], 'adapted'),
+    ('nastya', 'Это я во всём сама виновата.', 'I am to blame for everything myself.', [(254, 'виновата')], 'adapted'),
+    ('nastya', 'Не надо было вообще его искать.', 'I should not have looked for him at all.', [(254, 'Не надо было вообще его искать')], 'adapted'),
+    ('nastya', 'Костик, ты чуть палочку не съел.', 'Kostik, you nearly ate the cotton swab.', [(255, 'Костик'), (256, 'ватную палочку')], 'adapted'),
+    ('nastya', 'Это я делала тест на отцовство.', 'It was I who did a paternity test.', [(257, 'Это я делала тест на отцовство')], 'adapted'),
+    ('nastya', 'Я брала слюну у вас обоих.', 'I took saliva from both of you.', [(258, 'Брала слюну у тебя')], 'adapted'),
     ('kostya', 'Ну и что показал этот тест?', 'Well, and what did that test show?', [(259, 'Ну и')], 'adapted'),
-    ('anya', 'Костя, он твой настоящий отец!', 'Kostya, he is your real father!', [(260, 'Он твой отец')], 'adapted'),
+    ('nastya', 'Костя, он твой настоящий отец!', 'Kostya, he is your real father!', [(260, 'Он твой отец')], 'adapted'),
     ('kostya', 'Тогда я побежал скорее за ним!', 'Then I am running after him right away!', [(261, 'быстрей'), (262, 'Поехали')], 'adapted'),
-    ('denis', 'Спасибо, что не сказал полицейским.', 'Thank you for not telling the police officers.', [(263, 'Спасибо, что не сказал про меня полицейским')], 'adapted'),
+    ('kostya', 'Спасибо, что не сказал полицейским.', 'Thank you for not telling the police officers.', [(263, 'Спасибо, что не сказал про меня полицейским')], 'adapted'),
     ('kostya', 'Прости, это была очень плохая идея.', 'Forgive me, that was a very bad idea.', [(264, 'Прости, это была очень плохая идея')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Kostya races to the train station to bring his real father home, Chef Barinov faces an angry Patrick Malouda in the dining room. See you in the next scene.'
-CLOSING = ('kostya', 'Он правда мой родной папа!')
+OUTRO = 'While Kostya races to the train station to bring his real father home, Chef Barinov faces an angry Patrick Malouda in the dining room. Until next time!'
+CLOSING = ("kostya", "Пока!")

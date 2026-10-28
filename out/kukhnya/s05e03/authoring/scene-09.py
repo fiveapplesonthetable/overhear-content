@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e03-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 9
 TITLE = "Приказ Михаилу и приезд Нагиева  (The Order to Mikhail and Nagiyev's Arrival)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'mikhail': 'angelina'}
-LABELS = {'anya': 'Нагиев', 'eleonora': 'Элеонора', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "mikhail": "anja"}
+LABELS = {"eleonora": "Элеонора", "mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = 'Determined to get rid of Denis, Eleonora orders Mikhail to arrange a firing offense by any means necessary, and then welcomes Dmitry Nagiyev to host a wildlife charity evening. Listen to the conversation.'
@@ -19,14 +19,14 @@ STORY = [
     ('eleonora', 'Сделай это любым способом.', 'Do it by any means necessary.', [(152, 'Любым способом')], 'adapted'),
     ('eleonora', 'Дима, я тебя только очень прошу.', 'Dima, I only ask you very much.', [(155, 'Дим, я тебя только очень прошу')], 'verbatim'),
     ('eleonora', 'Давай сегодня спокойно, я тебя умоляю.', "Let's keep it calm today, I beg you.", [(156, 'Я тебя умоляю')], 'adapted'),
-    ('anya', 'Только у вас кормят намного лучше.', 'Only they feed people much better at your place.', [(159, 'Только кормят лучше')], 'adapted'),
+    ('eleonora', 'Только у вас кормят намного лучше.', 'Only they feed people much better at your place.', [(159, 'Только кормят лучше')], 'adapted'),
     ('eleonora', 'Это редкие животные для вечера.', 'These are rare animals for the evening.', [(161, 'Это животные')], 'adapted'),
     ('eleonora', 'Они будут присутствовать на мероприятии.', 'They will be present at the event.', [(161, 'Они будут присутствовать на мероприятии')], 'verbatim'),
     ('eleonora', 'Вот это наш морской котик.', 'Right here is our fur seal.', [(162, 'Вот это котик. Котик морской')], 'adapted'),
     ('eleonora', 'Все деньги пойдут на спасение животных.', 'All the money will go toward saving the animals.', [(165, 'пойдут на спасение')], 'adapted'),
-    ('anya', 'Ну я же не вчера родился, а?', 'Well, I was not born yesterday, huh?', [(168, 'ну я же не вчера родился, а?')], 'verbatim'),
-    ('anya', 'У нас сегодня благотворительный вечер.', 'We are having a charity evening today.', [(169, 'Благотворительный вечер')], 'adapted'),
-    ('anya', 'Мы для них собирали деньги.', 'We were collecting money for them.', [(169, 'Мы собирали')], 'adapted'),
+    ('eleonora', 'Ну я же не вчера родился, а?', 'Well, I was not born yesterday, huh?', [(168, 'ну я же не вчера родился, а?')], 'verbatim'),
+    ('eleonora', 'У нас сегодня благотворительный вечер.', 'We are having a charity evening today.', [(169, 'Благотворительный вечер')], 'adapted'),
+    ('eleonora', 'Мы для них собирали деньги.', 'We were collecting money for them.', [(169, 'Мы собирали')], 'adapted'),
     ('eleonora', 'Скажи прямо: что ты хочешь?', 'Tell me straight: what do you want?', [(171, 'Что ты хочешь?')], 'adapted'),
 ]
 
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Dmitry Nagiyev back into the world of Hotel Eleon. Notice the idiom 'ya zhe ne vchera rodilsya'—'I was not born yesterday'. See you next time."
-CLOSING = ('anya', 'Я проведу этот вечер просто блестяще!')
+OUTRO = "And that brings Dmitry Nagiyev back into the world of Hotel Eleon. Notice the idiom 'ya zhe ne vchera rodilsya'—'I was not born yesterday'. Until next time!"
+CLOSING = ("eleonora", "До завтра!")

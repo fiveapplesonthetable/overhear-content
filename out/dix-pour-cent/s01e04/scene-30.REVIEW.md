@@ -31,5 +31,5 @@
 | 17 | `mathias` (Mathias) | Je vais chercher du champagne. | I | 803:Je vais chercher du champagne |
 
 ## Part 5 — Outro & Closing
-> Audrey has saved her reputation and won a big comedy role to pay off her taxes. Next we head back to ASK, where the news of Mathias's departure is about to have a surprising effect on the German buyer. See you next time!
+> Audrey has saved her reputation and won a big comedy role to pay off her taxes. See you next time!
 - **Closing**: `audrey`: *À bientôt!*

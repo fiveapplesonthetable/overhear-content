@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e05-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 14
-TITLE = 'Мужской разговор с Нагиевым  (Man-to-Man Talk with Nagiyev)'
+TITLE = "Мужской разговор с Нагиевым  (Man-to-Man Talk with Nagiyev)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = 'Max sits down with Nagiyev for a serious talk, expecting a clash. Instead, Nagiyev confides that Vika flatly refused to fly to Paris with him. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -42,11 +42,11 @@ WALK = [
     (7, None, "'And she refused to fly with me.' Dmitry Nagiyev anchors the line on 'and', while 'fly' completes the thought. Max answers right away."),
     (8, None, "'Wait, how did she refuse?' In Russian, the idea of 'wait' flows naturally into 'refused' without extra filler words."),
     (9, None, "'I had the exact same foolish expression on my face.' The meaning hinges on 'at' working together with 'was' in spoken Russian."),
-    (10, None, "'She simply went and refused right away.' Notice the reflexive suffix on the verb meaning 'refused', turning the action back on the subject. Max answers right away."),
+    (10, None, "'She simply went and refused right away.' Nagiyev pairs 'simply' with 'refused' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'And when exactly did she refuse?' Max brings out the contrast between 'and' and 'when' in a few short words."),
     (12, None, "'I offered, and she immediately refused.' The '-a' ending on the past-tense verb for 'refused' marks a female speaker or subject."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max realizes that Vika lied to him earlier just to make him jealous, and he quickly sees a way to discourage Nagiyev.'
-CLOSING = ('anya', 'Вот это да, интересно.')
+OUTRO = 'Max realizes that Vika lied to him earlier just to make him jealous, and he quickly sees a way to discourage Nagiyev. See you next time!'
+CLOSING = ("anya", "До встречи!")

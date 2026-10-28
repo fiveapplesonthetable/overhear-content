@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 16
-TITLE = 'Слухи о засаде  (Rumors of an Ambush)'
+TITLE = "Слухи о засаде  (Rumors of an Ambush)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'At the bar, a waiter tells Katya that a crowd of tough men is waiting in the back courtyard—not realizing they are waiting for Max! Thinking her father hired them to beat up Stas, Katya rallies the bikers. Listen first.'
@@ -22,9 +22,9 @@ STORY = [
     ('anya', 'Девяносто тысяч, а десять ты днём взял.', 'Ninety thousand, and you took ten this afternoon.', [(271, 'Девяносто'), (272, 'А десять ты днем взял')], 'adapted'),
     ('anya', 'Подожди, я сейчас все деньги пересчитаю.', 'Wait, I will recount all the money right now.', [(273, 'А я пересчитаю')], 'adapted'),
     ('katya', 'Айнура, ты моего отца не видела?', 'Ainura, have you seen my father?', [(274, 'отца не видела')], 'adapted'),
-    ('ainura', 'Видела, он только что пошёл в кабинет.', 'I saw him, he just went into the office.', [(275, 'Видела. Он пошел в кабинет')], 'adapted'),
-    ('ainura', 'С ним молодой парень в кожаной куртке с черепом.', 'A young guy in a leather jacket with a skull was with him.', [(276, 'молодой парень был'), (276, 'куртке с черепом')], 'adapted'),
-    ('ainura', 'Настоящий пират, наверное, будь осторожна!', 'A real pirate, probably, be careful!', [(277, 'Пират, наверное')], 'adapted'),
+    ('katya', 'Видела, он только что пошёл в кабинет.', 'I saw him, he just went into the office.', [(275, 'Видела. Он пошел в кабинет')], 'adapted'),
+    ('katya', 'С ним молодой парень в кожаной куртке с черепом.', 'A young guy in a leather jacket with a skull was with him.', [(276, 'молодой парень был'), (276, 'куртке с черепом')], 'adapted'),
+    ('katya', 'Настоящий пират, наверное, будь осторожна!', 'A real pirate, probably, be careful!', [(277, 'Пират, наверное')], 'adapted'),
     ('katya', 'Я сейчас найду их, подождите здесь.', 'I will find them right now, wait here.', [(277, 'Я сейчас найду их'), (278, 'Подождите здесь')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Katya looks for her father's office, the bikers head toward the back courtyard where the Caucasian guests are waiting for Max! Let's hear Scene Seventeen."
-CLOSING = ('katya', 'Ребята, пойдёмте за мной!')
+OUTRO = "While Katya looks for her father's office, the bikers head toward the back courtyard where the Caucasian guests are waiting for Max! Let's hear Scene Seventeen. See you next time!"
+CLOSING = ("katya", "Увидимся!")

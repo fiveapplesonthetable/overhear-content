@@ -31,5 +31,5 @@
 | 17 | `lea` (Andréa) | Au revoir, Colette. | Goodbye, Colette. | 666:Au revoir, Colette |
 
 ## Part 5 — Outro & Closing
-> A very awkward meeting, and not the last one between these two. Notice how the polite 'you' keeps a cool distance between them the whole time. See you next time.
+> A very awkward meeting, and not the last one between these two. Notice how the polite 'you' keeps a cool distance between them the whole time. See you next time!
 - **Closing**: `lea`: *À bientôt!*

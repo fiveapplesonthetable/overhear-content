@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And just what positives are there here?' The meaning hinges on 'and' working together with 'plus' in spoken Russian.
 - 'Lyova became sous-chef after a period like that.' The '-l' ending on the verb meaning 'to become' places the action in the masculine past tense.
 - 'True, he started stuttering after that.' Fedya brings out the contrast between 'really' and 'he' in a few short words.
-- 'Katya, I have a matter to discuss with you.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'business'.
+- 'Katya, I have a matter to discuss with you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'How can we make your father stop drinking?' Max brings out the contrast between 'how' and 'to force' in a few short words.

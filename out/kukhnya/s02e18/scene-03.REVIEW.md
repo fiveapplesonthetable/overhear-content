@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Так, овощи на склад, мясо в холодильник. | Alright, vegetables to the storage room, meat into the fridge. | #38 00:02:16: Так, овощи на склад, мясо в холодильник | verbatim |
 | 2 | Шеф | А что, думаешь, сами не догадаются? | What, do you think they cannot figure that out themselves? | #39 00:02:21: А что, думаешь, сами не догадаются | verbatim |
-| 3 | Лёва | Пойду займусь какой-нибудь фигней, может, приготовлю чем-нибудь. | I will go busy myself with some nonsense, maybe cook something. | #41 00:02:26: Пойду займусь какой-нибудь фигней, может, приготовлю чем-нибудь | verbatim |
+| 3 | Лёва | Пойду займусь делом, может, приготовлю что-нибудь. | I will go get busy with something useful, maybe cook something. | #41 00:02:26: Пойду займусь<br>#41 00:02:26: может, приготовлю | adapted: adapted |
 | 4 | Аня | Ага, давай. | Yeah, go right ahead. | #42 00:02:29: Ага, давай | verbatim |
 | 5 | Шеф | Еще улитки. | And here are the snails. | #44 00:02:33: Еще улитки | verbatim |
 | 6 | Лёва | Нет, просто спят. | No, they are simply sleeping. | #46 00:02:36: Нет, просто спят | verbatim |
@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Alright, vegetables to the storage room, meat into the fridge.' Max anchors the line on 'like this', while 'refrigerator' completes the thought. Chef Viktor answers right away.
 - 'What, do you think they cannot figure that out themselves?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to guess'.
-- 'I will go busy myself with some nonsense, maybe cook something.' Here the Russian phrasing highlights 'go' before landing on 'with something'.
+- 'I will go get busy with something useful, maybe cook something.' Notice how Russian puts 'will attend to' and 'will prepare' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Yeah, go right ahead.' The grammar packs 'yeah' and 'let's' into a tight, idiomatic kitchen exchange. Chef Viktor answers right away.
 - 'And here are the snails.' Spoken Russian keeps this brisk, leaning on 'else' and finishing on 'snail'.
 - 'No, they are simply sleeping.' Lyova brings out the contrast between 'there is no' and 'just' in a few short words.

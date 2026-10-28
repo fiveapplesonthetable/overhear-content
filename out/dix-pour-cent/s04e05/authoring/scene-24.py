@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 5
 SCENE = 24
 TITLE = "La colère de Noemie  (Noemie's Fury)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "In his hospital room, Mathias is discharged with a portable heart monitor following a terrifying heart attack. When ruthless producer Igor de Serisy storms in to drag him immediately to a meeting, Noemie erupts in righteous fury to defend Mathias's life. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Mathias smiles gently and takes Noemie's hand, grateful for her fierce love and protective strength. When you watch the episode, listen out for the expressions meaning 'doctor' and 'placed'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Mathias smiles gently and takes Noemie's hand, grateful for her fierce love and protective strength. When you watch the episode, listen out for the expressions meaning 'doctor' and 'placed'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('noemie', "Le médecin t'a posé ce moniteur?", 'Did the doctor place this monitor on you?', [(878, 'surveiller votre rythme cardiaque')], ''),
     ('mathias', 'Oui, pour surveiller mon rythme cardiaque.', 'Yes, to monitor my heart rate.', [(878, 'surveiller votre rythme cardiaque')], ''),

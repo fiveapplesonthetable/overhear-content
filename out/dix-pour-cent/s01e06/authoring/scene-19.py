@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 19
 TITLE = "Le secret de François  (François's Secret)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "christophe": "theo", "francois": "marcel"}
-LABELS = {"lea": "Andréa", "christophe": "Christophe", "francois": "François"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'christophe': 'theo', 'francois': 'marcel'}
+LABELS = {'lea': 'Andréa', 'christophe': 'Christophe', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "On her way out of the agency, Andréa reassures Colette on the phone that she is wearing a simple, casual outfit and only stopping for a quick drink at the rehearsal studio to save the play before joining Colette's friends for dessert. Outside the studio, Andréa meets François and brings him into Christophe Bel's birthday party. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. As they arrive at the party, Andréa spots what François is holding."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Now that Christophe knows the real reason François refused to get into the pool, he immediately runs after François to catch him before he leaves. See you next time!'
-CLOSING = ("christophe", "Au revoir!")
+CLOSING = ('christophe', 'Au revoir!')
 STORY = [
     ('lea', 'Tu as apporté un cadeau?', 'Did you bring a present?', [(508, 'apporté un cadeau')], ''),
     ('christophe', "Très bien. Très drôle. Je suis content que ça t'amuse.", "Very good. Very funny. I'm glad that amuses you.", [(511, 'Très bien. Très drôle'), (513, "Je suis content que ça t'amuse")], ''),

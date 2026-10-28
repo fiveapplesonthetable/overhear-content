@@ -15,14 +15,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Элеонора | Сделай это любым способом. | Do it by any means necessary. | #152 00:09:31: Любым способом | adapted: adapted |
 | 4 | Элеонора | Дима, я тебя только очень прошу. | Dima, I only ask you very much. | #155 00:09:42: Дим, я тебя только очень прошу | adapted: verbatim |
 | 5 | Элеонора | Давай сегодня спокойно, я тебя умоляю. | Let's keep it calm today, I beg you. | #156 00:09:45: Я тебя умоляю | adapted: adapted |
-| 6 | Аня | Только у вас кормят намного лучше. | Only they feed people much better at your place. | #159 00:09:51: Только кормят лучше | adapted: adapted |
+| 6 | Элеонора | Только у вас кормят намного лучше. | Only they feed people much better at your place. | #159 00:09:51: Только кормят лучше | adapted: adapted |
 | 7 | Элеонора | Это редкие животные для вечера. | These are rare animals for the evening. | #161 00:09:56: Это животные | adapted: adapted |
 | 8 | Элеонора | Они будут присутствовать на мероприятии. | They will be present at the event. | #161 00:09:56: Они будут присутствовать на мероприятии | adapted: verbatim |
 | 9 | Элеонора | Вот это наш морской котик. | Right here is our fur seal. | #162 00:09:59: Вот это котик. Котик морской | adapted: adapted |
 | 10 | Элеонора | Все деньги пойдут на спасение животных. | All the money will go toward saving the animals. | #165 00:10:07: пойдут на спасение | adapted: adapted |
-| 11 | Аня | Ну я же не вчера родился, а? | Well, I was not born yesterday, huh? | #168 00:10:16: ну я же не вчера родился, а? | adapted: verbatim |
-| 12 | Аня | У нас сегодня благотворительный вечер. | We are having a charity evening today. | #169 00:10:19: Благотворительный вечер | adapted: adapted |
-| 13 | Аня | Мы для них собирали деньги. | We were collecting money for them. | #169 00:10:19: Мы собирали | adapted: adapted |
+| 11 | Элеонора | Ну я же не вчера родился, а? | Well, I was not born yesterday, huh? | #168 00:10:16: ну я же не вчера родился, а? | adapted: verbatim |
+| 12 | Элеонора | У нас сегодня благотворительный вечер. | We are having a charity evening today. | #169 00:10:19: Благотворительный вечер | adapted: adapted |
+| 13 | Элеонора | Мы для них собирали деньги. | We were collecting money for them. | #169 00:10:19: Мы собирали | adapted: adapted |
 | 14 | Элеонора | Скажи прямо: что ты хочешь? | Tell me straight: what do you want? | #171 00:10:24: Что ты хочешь? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

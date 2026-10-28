@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 15
-TITLE = 'При свечах в зале  (By Candlelight in the Dining Room)'
+TITLE = "При свечах в зале  (By Candlelight in the Dining Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'After the outdoor grill disaster, Chef Barinov despairs that there is nothing left to serve the guests. While Max searches for a way to save the evening, Nagiyev tries to pass off the blackout as an aristocratic atmosphere.'
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'And I do not care at all anymore.' Chef Barinov brings out the contrast between 'and' and 'to me' in a few short words."),
     (2, None, "'We have nothing at all to feed the guests in the hall.' Chef Barinov anchors the line on 'us', while 'nothing' completes the thought."),
     (3, None, "'It is all over, our restaurant is finished.' The '-l' ending on the verb meaning 'arrived' places the action in the masculine past tense."),
-    (4, None, "'That means I will not have to tolerate you anymore.' Notice the reflexive suffix on the verb meaning 'it will be necessary', turning the action back on the subject."),
+    (4, None, "'That means I will not have to tolerate you anymore.' In everyday Russian, 'it will be necessary' flows straight into 'to tolerate / endure' without extra linking words."),
     (5, None, "'And you too, I am going home right now.' In Russian, the idea of 'and' flows naturally into 'home' without extra filler words."),
     (6, None, "'There is nothing to feed the guests, we must do something fast.' Spoken Russian keeps this brisk, leaning on 'guests' and finishing on 'to do'. Dmitry Nagiyev answers right away."),
     (7, None, "'Do not think that we are skimping on electricity.' Dmitry Nagiyev anchors the line on 'not', while 'we save' completes the thought."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With the oligarch growing impatient in the dark dining room, Max grabs the only hot dish left in the building: Ainura's pilaf."
-CLOSING = ('anya', 'Надо срочно что-то делать!')
+OUTRO = "With the oligarch growing impatient in the dark dining room, Max grabs the only hot dish left in the building: Ainura's pilaf. Until next time!"
+CLOSING = ("anya", "До завтра!")

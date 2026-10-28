@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Хорошо! По вкусу просто томатный суп. | Good! By taste it is simply tomato soup. | #198 00:13:02: Хорошо<br>#199 00:13:05: по вкусу просто томатный суп | adapted: adapted |
-| 2 | Аня | Витя, попробуй. | Vitya, try it. | #200 00:13:09: Вить, попробуй | adapted: adapted |
+| 1 | Нагиев | Хорошо! По вкусу просто томатный суп. | Good! By taste it is simply tomato soup. | #198 00:13:02: Хорошо<br>#199 00:13:05: по вкусу просто томатный суп | adapted: adapted |
+| 2 | Нагиев | Витя, попробуй. | Vitya, try it. | #200 00:13:09: Вить, попробуй | adapted: adapted |
 | 3 | Шеф | Я не хочу. | I do not want to. | #201 00:13:10: Я не хочу | verbatim |
-| 4 | Аня | Попробуй! Нравится? | Try it! Do you like it? | #202 00:13:12: Попробуй<br>#204 00:13:22: Нравится | adapted: adapted |
-| 5 | Катя | Едем дальше. Замороженный шоколадный ветер. | Moving on. Frozen chocolate wind. | #205 00:13:24: Едем дальше. Замороженный шоколадный ветер | verbatim |
-| 6 | Аня | Ребята, шоколадный ветер! | Guys, chocolate wind! | #206 00:13:26: Ребята, шоколадный ветер | verbatim |
-| 7 | Аня | Воздух продаём! | We are selling air! | #207 00:13:30: Воздух практически продаем | adapted: adapted |
-| 8 | Аня | Я попробую, да? | I will try it, yes? | #208 00:13:32: Я попробую, да | verbatim |
-| 9 | Катя | Да, конечно. | Yes, of course. | #208 00:13:32: Да, конечно | verbatim |
-| 10 | Аня | Вкусно! У нас молекулярное меню готово? | Delicious! Is our molecular menu ready? | #210 00:13:40: Вкусно<br>#214 00:13:49: у нас молекулярное меню готово | adapted: adapted |
+| 4 | Нагиев | Попробуй! Нравится? | Try it! Do you like it? | #202 00:13:12: Попробуй<br>#204 00:13:22: Нравится | adapted: adapted |
+| 5 | Нагиев | Едем дальше. Замороженный шоколадный ветер. | Moving on. Frozen chocolate wind. | #205 00:13:24: Едем дальше. Замороженный шоколадный ветер | verbatim |
+| 6 | Нагиев | Ребята, шоколадный ветер! | Guys, chocolate wind! | #206 00:13:26: Ребята, шоколадный ветер | verbatim |
+| 7 | Нагиев | Воздух продаём! | We are selling air! | #207 00:13:30: Воздух практически продаем | adapted: adapted |
+| 8 | Нагиев | Я попробую, да? | I will try it, yes? | #208 00:13:32: Я попробую, да | verbatim |
+| 9 | Нагиев | Да, конечно. | Yes, of course. | #208 00:13:32: Да, конечно | verbatim |
+| 10 | Нагиев | Вкусно! У нас молекулярное меню готово? | Delicious! Is our molecular menu ready? | #210 00:13:40: Вкусно<br>#214 00:13:49: у нас молекулярное меню готово | adapted: adapted |
 | 11 | Шеф | У вас уже и меню готово? | You already have a menu ready too? | #216 00:13:53: У вас уже и меню готово | verbatim |
-| 12 | Аня | Вчера сели, посидели, меню утвердили. | Yesterday we sat down, chatted, and approved the menu. | #218 00:13:57: вчера сели, посидели<br>#219 00:14:00: Меню утвердили | adapted: adapted |
+| 12 | Нагиев | Вчера сели, посидели, меню утвердили. | Yesterday we sat down, chatted, and approved the menu. | #218 00:13:57: вчера сели, посидели<br>#219 00:14:00: Меню утвердили | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

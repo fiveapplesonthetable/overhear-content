@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Pardon, c'est entièrement de ma faute. | Sorry, it is entirely my fault. | 445:Pardon c'est ma faute |
 
 ## Part 5 — Outro & Closing
-> Coaching an actor who is also a boyfriend proves delicate for Camille. When you watch the episode, listen out for the expressions meaning 'must' and 'to leave'. You'll catch them now. See you next time.
+> Coaching an actor who is also a boyfriend proves delicate for Camille. When you watch the episode, listen out for the expressions meaning 'must' and 'to leave'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Au revoir!*

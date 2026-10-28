@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 17
-TITLE = "La scène secrète  (The Secret Scene)"
-LEVEL = "A1 — débutant"
+TITLE = 'La scène secrète  (The Secret Scene)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elisabeth": "emilie", "gabriel": "theo"}
-LABELS = {"elisabeth": "Élisabeth", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'elisabeth': 'emilie', 'gabriel': 'theo'}
+LABELS = {'elisabeth': 'Élisabeth', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "At a restaurant, Gabriel meets with Élisabeth Lecœur to discuss financing for Julien Doré's musical film. While discussing the screenplay, Gabriel accidentally mentions a shocking scene that was never included in her draft. Listen to the scene in French first."
 OPENER = "Let's examine how Gabriel accidentally reveals a shocking movie scene."
 TRANSITION = "Now let's listen to the embarrassing conversation once more at normal pace."
 OUTRO = "Gabriel's clumsy slip of the tongue leaves Élisabeth stunned by Julien Doré's wild imagination. Listen to the hilarious conversation once more in French. See you next time!"
-CLOSING = ("elisabeth", "Bonne journée!")
+CLOSING = ('elisabeth', 'Bonne journée!')
 STORY = [
     ('elisabeth', "J'adore vraiment le nouveau scénario de Julien Doré.", 'I really love Julien Doré', [(507, "j'adore le projet de Julien Doré.")], ''),
     ('gabriel', "C'est un projet très original et ambitieux.", 'It is a very original and ambitious project.', [(508, "C'est fantastique."), (515, "C'est bien au-dessus.")], ''),

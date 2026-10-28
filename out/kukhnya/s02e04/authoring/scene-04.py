@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e04-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 4
-TITLE = 'Знакомство с Вальдемаром Барани  (Meeting Valdemar Barani)'
+TITLE = "Знакомство с Вальдемаром Барани  (Meeting Valdemar Barani)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = 'At the restaurant, Kristina warmly greets celebrity chef and cookbook author Valdemar Barani and leads him into the kitchen to meet the staff. Barani charms the line cooks with compliments before coming face to face with his former mentor, Viktor Petrovich.'
 
 STORY = [
-    ('anya', 'Я Кристина.', 'I am Kristina.', [(53, 'Я Кристина')], ''),
+    ('chef', 'Я Кристина.', 'I am Kristina.', [(53, 'Я Кристина')], ''),
     ('vika', 'Здравствуйте, Кристина.', 'Hello, Kristina.', [(54, 'Здравствуйте, Кристина')], ''),
-    ('kristina', 'Проходите, ознакомьтесь, это команда моих поваров.', 'Come on in and take a look, this is my team of cooks.', [(57, 'Проходите, ознакомьтесь, это команда моих поваров')], ''),
-    ('anya', 'Очень приятно, отличные парни.', 'Very nice to meet you, great guys.', [(58, 'Очень приятно, отличные парни')], ''),
+    ('chef', 'Проходите, ознакомьтесь, это команда моих поваров.', 'Come on in and take a look, this is my team of cooks.', [(57, 'Проходите, ознакомьтесь, это команда моих поваров')], ''),
+    ('chef', 'Очень приятно, отличные парни.', 'Very nice to meet you, great guys.', [(58, 'Очень приятно, отличные парни')], ''),
     ('vika', 'Я сам отвечу.', 'I will answer it myself.', [(60, 'я сам отвечу')], ''),
-    ('kristina', 'А во-вторых.', 'And secondly.', [(62, 'А во-вторых')], ''),
-    ('anya', 'Ну, как после этого не приезжать в Россию?', 'Well, how could one not visit Russia after that?', [(63, 'Ну, как после этого не приезжать в Россию')], ''),
+    ('chef', 'А во-вторых.', 'And secondly.', [(62, 'А во-вторых')], ''),
+    ('chef', 'Ну, как после этого не приезжать в Россию?', 'Well, how could one not visit Russia after that?', [(63, 'Ну, как после этого не приезжать в Россию')], ''),
     ('vika', 'Вот, Вальдемар, проходите.', 'Right this way, Valdemar, come in.', [(65, 'Вот, Вальдемар, проходите')], ''),
-    ('kristina', 'Это наша прекрасная кухня.', 'This is our wonderful kitchen.', [(66, 'Это наша прекрасная кухня')], ''),
-    ('anya', 'Ну, разве что чуть-чуть больше.', 'Well, maybe just a little bit bigger.', [(68, 'Ну, разве что чуть-чуть больше')], ''),
+    ('chef', 'Это наша прекрасная кухня.', 'This is our wonderful kitchen.', [(66, 'Это наша прекрасная кухня')], ''),
+    ('chef', 'Ну, разве что чуть-чуть больше.', 'Well, maybe just a little bit bigger.', [(68, 'Ну, разве что чуть-чуть больше')], ''),
     ('vika', 'Ну, чтобы готовить и такой достаточно.', 'Well, for cooking, even one like this is enough.', [(69, 'Ну, чтобы готовить и такой достаточно')], ''),
-    ('kristina', 'А чтобы книги писать.', 'Whereas for writing books.', [(70, 'А чтобы книги писать')], ''),
-    ('anya', 'А это наш шеф-повар Виктор Петрович.', 'And this is our head chef, Viktor Petrovich.', [(71, 'А это наш шеф-повар Виктор Петрович')], ''),
+    ('chef', 'А чтобы книги писать.', 'Whereas for writing books.', [(70, 'А чтобы книги писать')], ''),
+    ('chef', 'А это наш шеф-повар Виктор Петрович.', 'And this is our head chef, Viktor Petrovich.', [(71, 'А это наш шеф-повар Виктор Петрович')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'And secondly.' The meaning hinges on 'and' working together with 'secondly' in spoken Russian."),
     (6, None, "'Well, how could one not visit Russia after that?' In Russian, the idea of 'come on' flows naturally into 'Russia' without extra filler words."),
     (7, None, "'Right this way, Valdemar, come in.' Vika anchors the line on 'there you go', while 'come in' completes the thought. Kristina answers right away."),
-    (8, None, "'This is our wonderful kitchen.' In Russian, the idea of 'this' flows naturally into 'kitchen' without extra filler words."),
+    (8, None, "'This is our wonderful kitchen.' Kristina pairs 'wonderful' with 'kitchen' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (9, None, "'Well, maybe just a little bit bigger.' Here the Russian phrasing highlights 'come on' before landing on 'more'."),
     (10, None, "'Well, for cooking, even one like this is enough.' The grammar packs 'come on' and 'enough' into a tight, idiomatic kitchen exchange. Kristina answers right away."),
     (11, None, "'Whereas for writing books.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to write'."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 4 of Episode 4, listen out for the exchange around meeting valdemar barani — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('kristina', 'А чтобы книги писать.')
+OUTRO = 'That wraps up this scene as kristina welcomes famous culinary author Valdemar Barani into the Claude Monet kitchen and introduces him to the cooks and Chef Viktor Petrovich Barinov. See you next time!'
+CLOSING = ("chef", "До завтра!")

@@ -1,38 +1,40 @@
-# kukhnya-s02e01-scene-11: review sheet
+# Строгий друг  (A Strict Friend) — `kukhnya-s02e01-scene-11`
 
-Title: Строгий друг  (A Strict Friend)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.01
+**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `kostya` | anja | Костя |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Max complains to Kostya that Vika refuses to listen to his apologies. Kostya bluntly tells Max that he is to blame for his own mistake and admits that he would never forgive a betrayal either.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Представляешь, она даже слушать не стала. | Can you believe it? She wouldn't even listen. | new | new |
-| 2 | Костя | Я бы тоже не стал. | I wouldn't either. | new | new |
-| 3 | Макс | В смысле? | What do you mean? | new | new |
-| 4 | Макс | Ты за кого? За Вику или за друга? | Whose side are you on? Vika's or your friend's? | new | new |
-| 5 | Костя | Конечно, за друга. | Of course, my friend's. | new | new |
-| 6 | Костя | Но это не отменяет того, что ты козел. | But that doesn't change the fact you're a bastard. | new | new |
-| 7 | Макс | Пилите, Костя, пилите. | Keep at it, Kostya, keep at it. | new | new |
-| 8 | Макс | То есть если бы я тебе изменил... | So if I cheated on you... | new | new |
-| 9 | Макс | ты бы меня не простил? | you wouldn't forgive me? | new | new |
-| 10 | Костя | Костян, это не то, что ты думаешь. | Kostyan, it's not what you think. | new | new |
-| 11 | Костя | Мы с ним вовсе не друзья. | We're not even friends. | new | new |
-| 12 | Макс | Ты мой друг. | You're my friend. | new | new |
-| 13 | Костя | Не простил бы. | I wouldn't forgive you. | new | new |
+| 0 | Макс | Представляешь, она даже слушать не стала. | Can you believe it? She wouldn't even listen. | #151 "Представляешь, даже слушать не стало." |  |
+| 1 | Костя | Я бы тоже не стал. | I wouldn't either. | *(added)* |  |
+| 2 | Макс | В смысле? | What do you mean? | *(added)* |  |
+| 3 | Макс | Ты за кого? За Вику или за друга? | Whose side are you on? Vika's or your friend's? | *(added)* |  |
+| 4 | Костя | Конечно, за друга. | Of course, my friend's. | *(added)* |  |
+| 5 | Костя | Но это не отменяет того, что ты козел. | But that doesn't change the fact you're a bastard. | *(added)* |  |
+| 6 | Макс | Пилите, Костя, пилите. | Keep at it, Kostya, keep at it. | *(added)* |  |
+| 7 | Макс | То есть если бы я тебе изменил... | So if I cheated on you... | *(added)* |  |
+| 8 | Макс | ты бы меня не простил? | you wouldn't forgive me? | *(added)* |  |
+| 9 | Костя | Костян, это не то, что ты думаешь. | Kostyan, it's not what you think. | *(added)* |  |
+| 10 | Костя | Мы с ним вовсе не друзья. | We're not even friends. | *(added)* |  |
+| 11 | Макс | Ты мой друг. | You're my friend. | *(added)* |  |
+| 12 | Костя | Не простил бы. | I wouldn't forgive you. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Can you believe it? She wouldn't even listen.' Max chooses the imperfective verb meaning 'can you imagine' for the ongoing action, followed by 'to listen to' and 'have become'.
-- 'I wouldn't either.' The verb for 'have become' is in the masculine past tense, marked by the '-l' ending.
-- 'What do you mean?' Max asks this with a single word meaning 'sense', using rising intonation to turn it into a quick question.
-- 'Whose side are you on? Vika's or your friend's?' Max delivers a punchy one-word reaction built around the Russian word meaning 'the friend'.
-- 'But that doesn't change the fact you're a bastard.' Kostya chooses the imperfective verb meaning 'cancels' for the ongoing action, followed by 'goat'.
-- 'Keep at it, Kostya, keep at it.' Max delivers a punchy conversational reaction built around the Russian word meaning 'nag'.
-- 'So if I cheated on you...' Max chooses the imperfective verb meaning 'there is' for the ongoing action, followed by 'changed'.
-- 'You wouldn't forgive me?' The verb for 'forgave' is in the masculine past tense, marked by the '-l' ending. Then Kostya responds.
-- 'Kostyan, it's not what you think.' Kostya uses the informal singular 'you' here with 'think', as friends and close colleagues do.
-- 'We're not even friends.' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'friends', combining 'at all' with 'friends'.
+> Max is shocked by Kostya's unexpected response to his situation. Next time you watch the episode, listen for the Russian expressions for 'to imagine' and 'to listen' — you will catch every word right away. See you next time!
+
+**Костя:** Пока!

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e15-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 16
-TITLE = 'Элеонора жуёт простую бумагу  (Eleonora Chews Plain Paper)'
+TITLE = "Элеонора жуёт простую бумагу  (Eleonora Chews Plain Paper)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Вика', 'eleonora': 'Элеонора', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "guest": "anja"}
+LABELS = {"eleonora": "Элеонора", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'In the dining room, Andrey happily tastes his rice-paper menu and urges Eleonora to try a piece of hers too, forcing the proud hotel owner to chew and swallow ordinary office paper in front of him.'
@@ -22,10 +22,10 @@ STORY = [
     ('guest', 'И пожалуйста, присмотри тут за моим сыном Никитой.', 'And please, keep an eye on my son Nikita here.', [(291, 'присмотри')], 'adapted'),
     ('guest', 'Мы должны заботиться о детях, даже если они против.', 'We must care for our children, even if they object.', [(292, 'Мы должны заботиться о детях')], 'adapted'),
     ('eleonora', 'Без проблем, до свидания, всего вам доброго!', 'No problem, goodbye, all the very best to you!', [(293, 'Без проблем. До свидания')], 'adapted'),
-    ('anya', 'Элеонора Андреевна, простите, что так сегодня получилось.', 'Eleonora Andreyevna, forgive us that it turned out like this today.', [(295, 'простите, что так получилось')], 'adapted'),
-    ('anya', 'Мы успели подготовить только одно съедобное меню.', 'We managed to prepare only one edible menu in time.', [(296, 'Мы успели подготовить только одно меню')], 'adapted'),
+    ('eleonora', 'Элеонора Андреевна, простите, что так сегодня получилось.', 'Eleonora Andreyevna, forgive us that it turned out like this today.', [(295, 'простите, что так получилось')], 'adapted'),
+    ('eleonora', 'Мы успели подготовить только одно съедобное меню.', 'We managed to prepare only one edible menu in time.', [(296, 'Мы успели подготовить только одно меню')], 'adapted'),
     ('eleonora', 'Вика, ты меня сегодня уже второй раз выручаешь.', 'Vika, this is already the second time you have saved me today.', [(301, 'Вика, ты меня уже второй раз выручаешь')], 'adapted'),
-    ('anya', 'Правда, я нечаянно накормила вас простой бумагой!', 'True, I accidentally fed you plain paper!', [(302, 'И накормила вас бумагой')], 'adapted'),
+    ('eleonora', 'Правда, я нечаянно накормила вас простой бумагой!', 'True, I accidentally fed you plain paper!', [(302, 'И накормила вас бумагой')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Grateful that her pride was saved in front of Andrey, Eleonora forgives Vika for the paper meal. See you in the next scene.'
-CLOSING = ('eleonora', 'Ты меня второй раз выручаешь.')
+OUTRO = 'Grateful that her pride was saved in front of Andrey, Eleonora forgives Vika for the paper meal. See you next time!'
+CLOSING = ("eleonora", "До завтра!")

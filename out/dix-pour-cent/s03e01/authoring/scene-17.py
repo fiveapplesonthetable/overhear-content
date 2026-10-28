@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 17
-TITLE = "Une salade de quinoa  (A Quinoa Salad)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une salade de quinoa  (A Quinoa Salad)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "annick": "emilie", "lea": "lucie"}
-LABELS = {"annick": "Annick", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'annick': 'emilie', 'lea': 'lucie'}
+LABELS = {'annick': 'Annick', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = 'Late at night in their Paris apartment, Annick observes her daughter Camille working tirelessly. Camille reads scripts while eating a quick meal, trying to prove herself as a junior agent. Listen to their conversation in French first.'
 OPENER = "Let us examine the way Annick worries about Camille's exhausting work routine."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Late at night, Annick tries to protect Camille from overworking in the competitive world of talent agencies. When you watch the episode, listen out for the expressions meaning 'it is' and 'normal'. You'll catch them now. See you next time."
-CLOSING = ("annick", "Au revoir!")
+OUTRO = "Late at night, Annick tries to protect Camille from overworking in the competitive world of talent agencies. When you watch the episode, listen out for the expressions meaning 'it is' and 'normal'. You'll catch them now. See you next time!"
+CLOSING = ('annick', 'Au revoir!')
 STORY = [
     ('lea', "C'est normal que ça prenne du temps.", 'It is normal that it takes time.', [(576, "Non, mais c'est normal que ça prenne un peu de temps.")], ''),
     ('annick', 'Personne ne se précipite dans ton bureau?', 'Nobody is rushing to your office?', [(577, 'Tout le monde se précipite pas encore dans mon bureau.')], ''),

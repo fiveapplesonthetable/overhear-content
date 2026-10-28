@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e15-scene-20"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-20'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 20
 TITLE = "Возвращение Веры Ивановны  (Vera Ivanovna's Return)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
-LABELS = {'anya': 'Лёва', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina"}
+LABELS = {"lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = "Right in the middle of Barinov and Elena's romantic moment, the front door opens and Lyova walks in with his mother after missing their train. When Vera Ivanovna introduces herself as Lyova's mother rather than Viktor Petrovich's, a humiliated Elena storms out."
 
 STORY = [
-    ('anya', 'Ой, простите, вы не один.', 'Oh, excuse me, you are not alone.', [(336, 'Ой, простите, вы не один')], ''),
-    ('elena', 'А мы, вы знаете, вот смотрим телевизор.', 'You see, we were just watching television.', [(337, 'А мы, вы знаете, вот смотрим телевизор')], ''),
-    ('anya', 'Я сына просила заменить.', 'I asked my son to change the lightbulb.', [(338, 'я сына просила заменить')], ''),
-    ('elena', 'А мы ехали на вокзал.', 'We were on our way to the train station.', [(339, 'А мы ехали на вокзал')], ''),
-    ('anya', 'Простите, я что-то не очень понимаю.', 'Excuse me, I do not quite understand.', [(341, 'Простите, я что-то не очень понимаю')], ''),
-    ('elena', 'Это чья мама?', 'Whose mother are you?', [(342, 'Это чья мама')], ''),
-    ('anya', 'Это ваша мама?', 'Is she your mother?', [(343, 'Это ваша мама')], ''),
-    ('elena', 'Я мама Лёвы, Вера Ивановна.', "I am Lyova's mother, Vera Ivanovna.", [(344, 'Я мама Лёвы, Вера Ивановна')], ''),
-    ('anya', 'Очень приятно познакомиться.', 'Very pleased to meet you.', [(345, 'Очень приятно познакомиться')], ''),
-    ('elena', 'Я все объясню.', 'I can explain everything.', [(347, 'Я все объясню')], ''),
-    ('anya', 'Нет, благодарю.', 'No, thank you.', [(348, 'Нет, благодарю')], ''),
-    ('elena', 'В другой раз.', 'Maybe some other time.', [(349, 'В другой раз')], ''),
-    ('anya', 'Благодарю вас.', 'Thank you very much.', [(350, 'Благодарю вас')], ''),
+    ('lyova', 'Ой, простите, вы не один.', 'Oh, excuse me, you are not alone.', [(336, 'Ой, простите, вы не один')], ''),
+    ('lyova', 'А мы, вы знаете, вот смотрим телевизор.', 'You see, we were just watching television.', [(337, 'А мы, вы знаете, вот смотрим телевизор')], ''),
+    ('lyova', 'Я сына просила заменить.', 'I asked my son to change the lightbulb.', [(338, 'я сына просила заменить')], ''),
+    ('lyova', 'А мы ехали на вокзал.', 'We were on our way to the train station.', [(339, 'А мы ехали на вокзал')], ''),
+    ('lyova', 'Простите, я что-то не очень понимаю.', 'Excuse me, I do not quite understand.', [(341, 'Простите, я что-то не очень понимаю')], ''),
+    ('lyova', 'Это чья мама?', 'Whose mother are you?', [(342, 'Это чья мама')], ''),
+    ('lyova', 'Это ваша мама?', 'Is she your mother?', [(343, 'Это ваша мама')], ''),
+    ('lyova', 'Я мама Лёвы, Вера Ивановна.', "I am Lyova's mother, Vera Ivanovna.", [(344, 'Я мама Лёвы, Вера Ивановна')], ''),
+    ('lyova', 'Очень приятно познакомиться.', 'Very pleased to meet you.', [(345, 'Очень приятно познакомиться')], ''),
+    ('lyova', 'Я все объясню.', 'I can explain everything.', [(347, 'Я все объясню')], ''),
+    ('lyova', 'Нет, благодарю.', 'No, thank you.', [(348, 'Нет, благодарю')], ''),
+    ('lyova', 'В другой раз.', 'Maybe some other time.', [(349, 'В другой раз')], ''),
+    ('lyova', 'Благодарю вас.', 'Thank you very much.', [(350, 'Благодарю вас')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 20 of Episode 15, listen out for the exchange around vera ivanovna's return — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Благодарю вас.')
+OUTRO = "That wraps up this scene as lyova and his mother Vera Ivanovna return early after missing their train, exposing Chef Barinov's lie in front of an outraged Elena Pavlovna. See you next time!"
+CLOSING = ("lyova", "Хорошего дня!")

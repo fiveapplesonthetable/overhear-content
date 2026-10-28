@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Nous allons enfin pouvoir décompresser ensemble. | We are finally going to be able to unwind together. | 993:Entrez |
 
 ## Part 5 — Outro & Closing
-> Jose and Andrea settle into the hotel room, grateful to have survived a chaotic day of filming. When you watch the episode, listen out for the expressions meaning 'lo--' and 'agent'. You'll catch them now. See you next time.
+> Jose and Andrea settle into the hotel room, grateful to have survived a chaotic day of filming. When you watch the episode, listen out for the expressions meaning 'lo--' and 'agent'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

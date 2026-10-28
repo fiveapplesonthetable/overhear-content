@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 19
-TITLE = "Le mal de dos  (The Back Pain)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le mal de dos  (The Back Pain)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Inside Noemie's apartment, Mathias winces from severe back pain caused by stressful nights at the office. Noemie shows genuine sympathy and serves him breakfast while Mathias reveals how vulnerable he feels without her. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In her quiet living room, Noemie cares for an aching Mathias as he makes a heartfelt plea to reunite. When you watch the episode, listen out for the expressions meaning 'sit down' and 'seem'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "In her quiet living room, Noemie cares for an aching Mathias as he makes a heartfelt plea to reunite. When you watch the episode, listen out for the expressions meaning 'sit down' and 'seem'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('noemie', 'Asseyez-vous Mathias, vous semblez souffrir.', 'Sit down Mathias, you seem to be suffering.', [(934, 'Avec mon dos')], ''),
     ('mathias', 'Avec mon dos et tout, je...', 'With my back and everything, I...', [(934, 'Avec mon dos et tout, je...')], ''),

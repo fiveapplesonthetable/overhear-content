@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e04-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 15
 TITLE = "Паника Луи и новость от Саши  (Louis's Panic and Sasha's News)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = "In the kitchen, Louis panics that the police will throw them all in prison when he sees Senya and Fedya tampering with Barani's car in the courtyard. Minutes later, Sasha stops by the bar to tell Vika that she will be away for the weekend because she and Max are flying to Cyprus together."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 15 of Episode 4, listen out for the exchange around louis's panic and sasha's news — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Ладно, я пойду.')
+OUTRO = "That wraps up this scene as louis panics that the police will arrest the cooks for messing with Barani's car, and Sasha cheerfully informs Vika that she and Max are flying to Cyprus for the weekend. Until next time!"
+CLOSING = ("anya", "Пока!")

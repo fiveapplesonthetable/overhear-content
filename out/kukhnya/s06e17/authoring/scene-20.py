@@ -1,27 +1,27 @@
 ID = 'kukhnya-s06e17-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 17
 SCENE = 20
 TITLE = "Признание Элеоноры  (Eleonora's Confession)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'doctor': 'angelina'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.17'
 SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
 
 INTRO = 'At the hospital, the doctor announces that Viktor Petrovich is in a coma in serious but stable condition. Alone by his bedside, Eleonora tearfully apologizes and confesses that the Michelin inspector was an actor she hired.'
 
 STORY = [
-    ('anya', 'Господи, за что меня наказываешь?', 'Lord, why are you punishing me?', [(321, 'Господи, за что ты меня наказываешь')], 'adapted'),
-    ('doctor', 'Нет дыхания, начинаем реанимацию.', 'No breathing, we are starting resuscitation.', [(322, 'Нет дыхания, нет. Начинаем')], 'adapted'),
-    ('anya', 'У нас Лёва опять заклинил.', 'Our Lyova jammed up again.', [(324, 'он опять заклинил')], 'adapted'),
-    ('anya', 'Витя, что ты за человек?', 'Vitya, what kind of person are you?', [(325, 'Витя, вот что ты за человек')], 'adapted'),
-    ('anya', 'Всю свадьбу испортил похоронами.', 'You ruined the whole wedding with a funeral.', [(326, 'Всю свадьбу испортил своими похоронами')], 'adapted'),
-    ('anya', 'Давай выпьем за наш оптимизм.', 'Let us drink to our optimism.', [(329, 'Выпьем за оптимизм')], 'adapted'),
-    ('doctor', 'Виктор Петрович находится в коме.', 'Viktor Petrovich is in a coma.', [(330, 'Виктор Петрович сейчас находится в коме')], 'adapted'),
-    ('doctor', 'Его состояние стабильно тяжёлое.', 'His condition is stable but serious.', [(331, 'Состояние стабильно тяжелое')], 'adapted'),
+    ('chef', 'Господи, за что меня наказываешь?', 'Lord, why are you punishing me?', [(321, 'Господи, за что ты меня наказываешь')], 'adapted'),
+    ('chef', 'Нет дыхания, начинаем реанимацию.', 'No breathing, we are starting resuscitation.', [(322, 'Нет дыхания, нет. Начинаем')], 'adapted'),
+    ('chef', 'У нас Лёва опять заклинил.', 'Our Lyova jammed up again.', [(324, 'он опять заклинил')], 'adapted'),
+    ('chef', 'Витя, что ты за человек?', 'Vitya, what kind of person are you?', [(325, 'Витя, вот что ты за человек')], 'adapted'),
+    ('chef', 'Всю свадьбу испортил похоронами.', 'You ruined the whole wedding with a funeral.', [(326, 'Всю свадьбу испортил своими похоронами')], 'adapted'),
+    ('chef', 'Давай выпьем за наш оптимизм.', 'Let us drink to our optimism.', [(329, 'Выпьем за оптимизм')], 'adapted'),
+    ('chef', 'Виктор Петрович находится в коме.', 'Viktor Petrovich is in a coma.', [(330, 'Виктор Петрович сейчас находится в коме')], 'adapted'),
+    ('chef', 'Его состояние стабильно тяжёлое.', 'His condition is stable but serious.', [(331, 'Состояние стабильно тяжелое')], 'adapted'),
     ('eleonora', 'Витя, прости меня, пожалуйста.', 'Vitya, forgive me, please.', [(332, 'Прости меня')], 'adapted'),
     ('eleonora', 'Этот инспектор был не настоящим.', 'That inspector was not real.', [(332, 'Инспектор был не настоящим')], 'adapted'),
     ('eleonora', 'Это я сама всё подстроила.', 'I staged all of this myself.', [(333, 'Это я все подстроил')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Eleonora's cruel prank has landed Chef Barinov in a hospital bed, setting up the emotional stakes for the next episode. See you next time."
-CLOSING = ('eleonora', 'Пожалуйста, скорее поправляйся, Витя.')
+OUTRO = "Eleonora's cruel prank has landed Chef Barinov in a hospital bed, setting up the emotional stakes for the next episode. See you next time!"
+CLOSING = ("eleonora", "До завтра!")

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 6
 TITLE = "L'agent junior en priorité  (Junior Agent Priority)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In Gabriel's office, Andréa is anxious after visiting Guy Marchand's doctor. Trying to shift focus to agency business, she asks Gabriel about recruiting a junior agent, but encounters unexpected hesitation. Let's listen to the scene in French first."
 OPENER = "Let's examine Andréa and Gabriel's private office discussion step by step to explore professional boundaries and vulnerabilities."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. Join us next time to see what happens next."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('lea', 'Je sors de chez le médecin de Guy.', 'I have just come from Guy', [(159, 'Je sors de chez le médecin de Guy.')], ''),
     ('lea', 'La santé de Guy est une catastrophe.', 'Guy', [(159, "C'est une catastrophe")], ''),

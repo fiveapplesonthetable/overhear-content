@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Dasha, no, I recently went through a painful breakup.' The meaning hinges on 'Dasha' working together with 'breakup' in spoken Russian.
 - 'I see, then you simply need to clear your head a bit!' The grammar packs 'understood' and 'clear one's head' into a tight, idiomatic kitchen exchange.
 - 'Tomorrow I am flying to Sochi on our bank's plane.' Here the Russian phrasing highlights 'I' before landing on 'bank'. Max answers right away.
-- 'That is unlikely to work out, I have urgent work downstairs.' Notice the reflexive suffix on the verb meaning 'will work out', turning the action back on the subject.
+- 'That is unlikely to work out, I have urgent work downstairs.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

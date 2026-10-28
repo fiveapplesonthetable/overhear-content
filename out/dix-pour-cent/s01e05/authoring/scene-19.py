@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 19
 TITLE = "PDG d'ASK  (CEO of ASK)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "mathias": "marcel"}
-LABELS = {"catherine": "Catherine", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "In bed that night, Catherine tells Mathias about her lunch with her wealthy father—and makes an unexpected proposal that could make Mathias the head of ASK. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. In bed, Catherine tells Mathias about her lunch with her father."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Dazzled by the prospect of buying Samuel's shares and becoming CEO of ASK, Mathias falls asleep dreaming of his future empire—completely unaware that he forgot Camille's birthday. See you next time!"
-CLOSING = ("mathias", "À bientôt!")
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('catherine', "J'ai déjeuné avec mon père aujourd'hui. Il s'inquiète pour toi.", "I had lunch with my father today. He's worried about you.", [(362, "J'ai déjeuné avec mon père aujourd'hui"), (363, "Il s'inquiète pour toi")], ''),
     ('mathias', "Vraiment? Qu'est-ce qui ne va pas avec mon avenir professionnel?", 'Really? What', [(363, 'Vraiment'), (365, "Qu'est-ce qui ne va pas avec mon avenir professionnel")], ''),

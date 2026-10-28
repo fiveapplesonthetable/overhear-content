@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Respire et montre ton plus grand sourire. | Breathe and show your biggest smile. | 116:avec un grand sourire |
 
 ## Part 5 — Outro & Closing
-> Gabriel rushes Sofia to the casting appointment despite her doubts about the script. next time, Sofia will have to face a demanding casting director.
+> Gabriel rushes Sofia to the casting appointment despite her doubts about the script. See you next time!
 - **Closing**: `sofia`: *À demain!*

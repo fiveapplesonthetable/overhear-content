@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костя, скажи, это сейчас ты? | Kostya, tell me, is that you right now? | #152 00:10:42: это ты | adapted: adapted |
+| 1 | Костя | Костя, скажи, это сейчас ты? | Kostya, tell me, is that you right now? | #152 00:10:42: это ты | adapted: adapted |
 | 2 | Костя | Кажется, мы вчера сильно перебрали. | It seems we drank way too much yesterday. | #155 00:10:55: перебрали | adapted: adapted |
-| 3 | Аня | Я вообще ничего не помню. | I do not remember anything at all. | #156 00:11:05: Я ничего не помню | adapted: adapted |
+| 3 | Костя | Я вообще ничего не помню. | I do not remember anything at all. | #156 00:11:05: Я ничего не помню | adapted: adapted |
 | 4 | Костя | У меня чуть сердце не встало! | My heart nearly stopped! | #158 00:11:15: сердце перестало | adapted: adapted |
 | 5 | Костя | Ты всё-таки спёр свадебное платье! | You stole the wedding dress after all! | #159 00:11:18: Ты все-таки спер свадебное платье | adapted: adapted |
-| 6 | Аня | Подожди, неужели это сделал я? | Wait, did I really do that? | #160 00:11:23: Я | adapted: adapted |
-| 7 | Аня | Ты хоть что-нибудь сейчас помнишь? | Do you remember anything at all right now? | #161 00:11:25: Ты что-нибудь помнишь | adapted: adapted |
+| 6 | Костя | Подожди, неужели это сделал я? | Wait, did I really do that? | #160 00:11:23: Я | adapted: adapted |
+| 7 | Костя | Ты хоть что-нибудь сейчас помнишь? | Do you remember anything at all right now? | #161 00:11:25: Ты что-нибудь помнишь | adapted: adapted |
 | 8 | Костя | Мы вчера ночью были в отеле. | Last night we were at the hotel. | #162 00:11:28: вчера, кажется, были в отеле | adapted: adapted |
 | 9 | Костя | Откуда мы взяли ключ от номера? | Where did we get the room key from? | #163 00:11:32: откуда мы взяли ключ от номера | adapted: adapted |
-| 10 | Аня | Этот ключ был у меня. | I had that key with me. | #164 00:11:35: У меня | adapted: adapted |
+| 10 | Костя | Этот ключ был у меня. | I had that key with me. | #164 00:11:35: У меня | adapted: adapted |
 | 11 | Костя | Надо срочно вернуть его назад. | We need to return it back urgently. | #165 00:11:40: Надо срочно его вернуть | adapted: adapted |
 | 12 | Костя | Быстро верни свадебное платье Кате! | Quickly return the wedding dress to Katya! | #166 00:11:42: Платье | adapted: adapted |
 

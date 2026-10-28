@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 3
 SCENE = 9
 TITLE = "La photo de Sofia  (Sofia's Photo)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now Gabriel comes out to reception with Hervé: a casting director, Caroline Braudel, has chosen two photos from the agency's envelope, and one of them is Sofia, the receptionist. We'll hear it in French first; don't worry about catching every word."
 OPENER = "Let's go back through the argument. Gabriel holds up the envelope of actors' photos in front of Sofia."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sofia has wrung a promise out of Gabriel at last, and now he has Laura Smet on the line. Listen out for how the word for 'nobody' works without the second negative word. See you next time."
-CLOSING = ("sofia", "Bonne soirée!")
+OUTRO = "Sofia has wrung a promise out of Gabriel at last, and now he has Laura Smet on the line. Listen out for how the word for 'nobody' works without the second negative word. See you next time!"
+CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Sofia, tu as mis ta photo dans cette enveloppe?', 'Sofia, did you put your photo in this envelope?', [(168, 'Tu as mis ta photo dans cette enveloppe ?')], ''),
     ('sofia', 'Oui! Et elle me veut pour le casting!', 'Yes! And she wants me for the casting!', [(169, 'elle me veut'), (166, 'pour le casting')], ''),

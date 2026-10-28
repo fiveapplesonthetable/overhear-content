@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So that is what kind of furniture you were moving yesterday, Viktor Petrovich!' The meaning hinges on 'so' working together with 'moved' in spoken Russian.
 - 'Where is Viktor Petrovich?' Here the Russian phrasing highlights 'where' before landing on 'where'.
 - 'Viktor Petrovich left! More precisely, drove away.' Max brings out the contrast between 'left' and 'more precisely' in a few short words.
-- 'Where did he drive to? I have the car.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'me'. Max answers right away.
+- 'Where did he drive to? I have the car.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'He drove off with Timur for meat!' Max brings out the contrast between 'and' and 'he' in a few short words.
 - 'What is going on here?' In Russian, the idea of 'what' flows naturally into 'is happening' without extra filler words.

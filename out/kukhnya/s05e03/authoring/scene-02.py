@@ -1,32 +1,32 @@
 ID = 'kukhnya-s05e03-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 2
 TITLE = "Встреча Баринова и Элеоноры  (Barinov and Eleonora's Reunion)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = 'Moments after Denis flees, Chef Barinov walks in and exchanges sharp remarks with his ex-wife Eleonora Andreevna—only for Mikhail to introduce her as the owner of Boutique Hotel Eleon. Listen to the reunion.'
 
 STORY = [
-    ('anya', 'Вспомнили, что у вас есть дочь?', 'Did you remember that you have a daughter?', [(14, 'вспомнили, что у вас есть дочь?')], 'adapted'),
+    ('chef', 'Вспомнили, что у вас есть дочь?', 'Did you remember that you have a daughter?', [(14, 'вспомнили, что у вас есть дочь?')], 'adapted'),
     ('eleonora', 'Я всегда о ней помнила.', 'I always remembered her.', [(15, 'я всегда о ней помнила')], 'verbatim'),
     ('eleonora', 'А ты меня хоть вспоминал?', 'And did you ever think of me?', [(17, 'А ты меня вспоминал?')], 'adapted'),
-    ('anya', 'Я вспоминал тебя постоянно.', 'I thought of you constantly.', [(18, 'Постоянно')], 'adapted'),
-    ('anya', 'Бывали трудные моменты в жизни.', 'There were difficult moments in life.', [(23, 'Бывали трудные моменты в жизни?')], 'adapted'),
-    ('anya', 'Тебя вспомнишь — и уже не так плохо.', 'One remembers you, and things do not seem so bad.', [(24, 'тебя вспомнишь'), (24, 'не так уж плохо')], 'adapted'),
-    ('katya', 'Я пойду, кусайтесь без меня.', 'I will go, bite each other without me.', [(25, 'Я пойду. Кусайтесь без меня')], 'verbatim'),
+    ('chef', 'Я вспоминал тебя постоянно.', 'I thought of you constantly.', [(18, 'Постоянно')], 'adapted'),
+    ('chef', 'Бывали трудные моменты в жизни.', 'There were difficult moments in life.', [(23, 'Бывали трудные моменты в жизни?')], 'adapted'),
+    ('chef', 'Тебя вспомнишь — и уже не так плохо.', 'One remembers you, and things do not seem so bad.', [(24, 'тебя вспомнишь'), (24, 'не так уж плохо')], 'adapted'),
+    ('eleonora', 'Я пойду, кусайтесь без меня.', 'I will go, bite each other without me.', [(25, 'Я пойду. Кусайтесь без меня')], 'verbatim'),
     ('eleonora', 'Подожди, ты мне ничего не рассказала.', 'Wait, you did not really tell me anything.', [(26, 'подожди, ты же мне'), (26, 'ничего и не рассказала')], 'adapted'),
-    ('anya', 'У неё на новом месте всё в порядке.', 'Everything is fine with her at the new place.', [(27, 'на новом месте, все в порядке')], 'adapted'),
-    ('anya', 'Можешь ещё погулять пять лет.', 'You can go stroll around for another five years.', [(29, 'можешь погулять'), (29, 'пять')], 'adapted'),
-    ('katya', 'Витя, познакомься прямо сейчас.', 'Vitya, meet her right now.', [(30, 'Витя, познакомься')], 'adapted'),
-    ('katya', 'Это хозяйка нашего отеля, Элеонора Андреевна.', 'This is the owner of our hotel, Eleonora Andreevna.', [(31, 'Это хозяйка нашего отеля, Элеонора Андреевна')], 'verbatim'),
-    ('anya', 'Прошу у вас прощения.', 'I beg your pardon.', [(32, 'Прошу прощения')], 'adapted'),
+    ('chef', 'У неё на новом месте всё в порядке.', 'Everything is fine with her at the new place.', [(27, 'на новом месте, все в порядке')], 'adapted'),
+    ('chef', 'Можешь ещё погулять пять лет.', 'You can go stroll around for another five years.', [(29, 'можешь погулять'), (29, 'пять')], 'adapted'),
+    ('eleonora', 'Витя, познакомься прямо сейчас.', 'Vitya, meet her right now.', [(30, 'Витя, познакомься')], 'adapted'),
+    ('eleonora', 'Это хозяйка нашего отеля, Элеонора Андреевна.', 'This is the owner of our hotel, Eleonora Andreevna.', [(31, 'Это хозяйка нашего отеля, Элеонора Андреевна')], 'verbatim'),
+    ('chef', 'Прошу у вас прощения.', 'I beg your pardon.', [(32, 'Прошу прощения')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that lands the second shock of the episode as Barinov learns his ex-wife owns the hotel. Notice Katya's playful imperative 'bite each other without me'. See you in the next scene."
-CLOSING = ('anya', 'Этого просто не может быть!')
+OUTRO = "And that lands the second shock of the episode as Barinov learns his ex-wife owns the hotel. Notice Katya's playful imperative 'bite each other without me'. See you next time!"
+CLOSING = ("chef", "До завтра!")

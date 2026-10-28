@@ -30,5 +30,5 @@
 | 16 | `samuel` (Samuel) | Mathias, ça suffit! | Mathias, that | 211:Mathias, ça suffit ! |
 
 ## Part 5 — Outro & Closing
-> That's the end of the meeting, and of Gabriel's secret. If you caught the little sandwich around the verb, you'll start hearing it everywhere in the show. Until next time.
+> That's the end of the meeting, and of Gabriel's secret. If you caught the little sandwich around the verb, you'll start hearing it everywhere in the show. See you next time!
 - **Closing**: `samuel`: *Au revoir, tout le monde!*

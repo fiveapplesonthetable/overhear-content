@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сейчас мы их удивим! Добрый вечер, господа. | Right now we will amaze them! Good evening, gentlemen. | #240 00:16:07: Сейчас мы их<br>#241 00:16:14: Добрый вечер, господа | adapted: adapted |
-| 2 | Аня | Добрый вечер, Элеонора Андреевна. | Good evening, Eleonora Andreyevna. | #242 00:16:16: Добрый вечер, Элеонора Андреевна | adapted: adapted |
-| 3 | Аня | Разрешите вам представить нашего нового повара Артёма. | Allow me to introduce to you our new cook Artyom. | #244 00:16:20: Разрешите вам представить нашего нового повара Артёма | adapted: adapted |
-| 4 | Аня | Приятного аппетита! | Enjoy your meal! | #247 00:16:31: Приятного аппетита | adapted: adapted |
-| 5 | Гость | Это я! У подруги давление поднялось. | It is me! My friend's blood pressure went up. | #248 00:17:15: Это я<br>#250 00:17:19: давление | adapted: adapted |
-| 6 | Гость | Так, значит, можно пить и есть, чего нельзя? | So that means you can drink and eat what is forbidden? | #254 00:17:32: Так, значит<br>#255 00:17:36: можно пить и есть, чего нельзя | adapted: adapted |
+| 1 | Шеф | Сейчас мы их удивим! Добрый вечер, господа. | Right now we will amaze them! Good evening, gentlemen. | #240 00:16:07: Сейчас мы их<br>#241 00:16:14: Добрый вечер, господа | adapted: adapted |
+| 2 | Шеф | Добрый вечер, Элеонора Андреевна. | Good evening, Eleonora Andreyevna. | #242 00:16:16: Добрый вечер, Элеонора Андреевна | adapted: adapted |
+| 3 | Шеф | Разрешите вам представить нашего нового повара Артёма. | Allow me to introduce to you our new cook Artyom. | #244 00:16:20: Разрешите вам представить нашего нового повара Артёма | adapted: adapted |
+| 4 | Шеф | Приятного аппетита! | Enjoy your meal! | #247 00:16:31: Приятного аппетита | adapted: adapted |
+| 5 | Шеф | Это я! У подруги давление поднялось. | It is me! My friend's blood pressure went up. | #248 00:17:15: Это я<br>#250 00:17:19: давление | adapted: adapted |
+| 6 | Шеф | Так, значит, можно пить и есть, чего нельзя? | So that means you can drink and eat what is forbidden? | #254 00:17:32: Так, значит<br>#255 00:17:36: можно пить и есть, чего нельзя | adapted: adapted |
 | 7 | Элеонора | Успокойся! Да ты сядь, я ведь не просто так пью. | Calm down! Sit down, I am not drinking for no reason. | #256 00:17:40: Успокойся<br>#257 00:17:42: Да ты сядь. Я ведь не просто так пью | adapted: adapted |
 | 8 | Элеонора | Повод есть. | There is a reason. | #258 00:17:46: Повод есть | adapted: adapted |
-| 9 | Гость | Какой у тебя ещё повод? | What reason could you possibly have? | #258 00:17:46: Какой у тебя еще повод-то | adapted: adapted |
+| 9 | Шеф | Какой у тебя ещё повод? | What reason could you possibly have? | #258 00:17:46: Какой у тебя еще повод-то | adapted: adapted |
 | 10 | Элеонора | Ты понимаешь, Максим с Викой разводятся. | You see, Maxim and Vika are getting divorced. | #260 00:17:51: Ты понимаешь, Максим с Викой<br>#261 00:17:57: Разводятся | adapted: adapted |
-| 11 | Аня | Судя по их лицам, они довольны. | Judging by their faces, they are pleased. | #264 00:18:17: Судя по их лицам, они довольны | adapted: adapted |
-| 12 | Аня | Тебя ждёт триумф! | A triumph awaits you! | #265 00:18:20: Тебя ждет<br>#265 00:18:20: триумф | adapted: adapted |
+| 11 | Шеф | Судя по их лицам, они довольны. | Judging by their faces, they are pleased. | #264 00:18:17: Судя по их лицам, они довольны | adapted: adapted |
+| 12 | Шеф | Тебя ждёт триумф! | A triumph awaits you! | #265 00:18:20: Тебя ждет<br>#265 00:18:20: триумф | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

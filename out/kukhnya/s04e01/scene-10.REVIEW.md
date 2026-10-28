@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am married to an ideal woman.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'That is a good thing, isn't it?' Kostya uses natural conversational word order here to highlight the most important part of the reply.
+- 'I am married to an ideal woman.' Here Max anchors the thought on 'ideal' and finishes on 'a woman', keeping the spoken rhythm brisk and natural.
+- 'That is a good thing, isn't it?' Spoken Russian keeps this brief and expressive, built right around 'good, well, all right' without extra helper words.
 - 'Kostya, what is good about that?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'She has no flaws at all.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'It is impossible to find fault with her.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Well, I don't know, Max.' Kostya uses natural conversational word order here to highlight the most important part of the reply.
-- 'It is a sin for the two of us to complain.' Notice how Kostya pairs a modal word or finite verb with an infinitive to express the action.
-- 'You and I got lucky.' Kostya keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Who else would fry pancakes like these?' In spoken Russian, Kostya omits unnecessary linking verbs so the key idea lands immediately.
+- 'She has no flaws at all.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'It is impossible to find fault with her.' Here Max anchors the thought on 'impossible' and finishes on 'to fault', keeping the spoken rhythm brisk and natural.
+- 'Well, I don't know, Max.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'It is a sin for the two of us to complain.' Kostya pairs 'at all, even' with 'to complain' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'You and I got lucky.' Spoken Russian keeps this brief and expressive, built right around 'to be lucky; to take' without extra helper words.
+- 'Who else would fry pancakes like these?' Here Kostya anchors the thought on 'still, yet, more' and finishes on 'to like', keeping the spoken rhythm brisk and natural.
 - 'Listen, Vika has never baked pancakes for me.' Max uses the first-person pronoun in the case required by the Russian verb or preposition.
 - 'She has never cooked anything for me at all.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'She has been my wife for half a year.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'She has been my wife for half a year.' Notice how Russian puts 'already' and 'wife' together in a short, direct phrase where word endings show how the ideas connect.

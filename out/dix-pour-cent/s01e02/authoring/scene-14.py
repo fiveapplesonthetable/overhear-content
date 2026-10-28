@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 14
-TITLE = "Hélène veut vendre  (Hélène Wants to Sell)"
-LEVEL = "A1 — débutant"
+TITLE = 'Hélène veut vendre  (Hélène Wants to Sell)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "marcel", "helene": "emilie"}
-LABELS = {"lea": "Andréa", "mathias": "Mathias", "helene": "Hélène"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel', 'helene': 'emilie'}
+LABELS = {'lea': 'Andréa', 'mathias': 'Mathias', 'helene': 'Hélène'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Then the four partners got a text: emergency meeting at nine, at the Westin hotel. Samuel's widow, Hélène Kerr, wants to see them. Andréa arrives at the hotel bar still on the phone with Gabor, the director, who thinks he's dying of a cold. Listen to it in French first; the gist is all you need."
 OPENER = "Let's go back through it slowly. Andréa is still on the phone with Gabor, the director, who has a bad cold and is very dramatic about it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That was a tough business meeting, and you got through it in French. Listen for 'I want to sell' when you watch: it changes everything for the agency. See you soon."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "That was a tough business meeting, and you got through it in French. Listen for 'I want to sell' when you watch: it changes everything for the agency. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('lea', "Non, Gabor, tu ne vas pas mourir. Je t'appelle demain.", "No, Gabor, you're not going to die. I'll call you tomorrow.", [(396, 'Non, Gabor, tu ne vas pas mourir'), (400, "Je t'appelle demain")], ''),
     ('lea', 'Désolée. Je suis là.', 'Sorry. I', [(402, 'Désolée. Je suis là')], ''),

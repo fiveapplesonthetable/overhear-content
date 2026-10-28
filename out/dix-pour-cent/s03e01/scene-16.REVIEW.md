@@ -28,5 +28,5 @@
 | 14 | `jean` (Jean) | On aurait encore plus de forêts sauvages! | We would have even more wild forests! | 570:on pourrait avoir plus de forêts |
 
 ## Part 5 — Outro & Closing
-> Refusing to accept that his transformative role is over, Jean Dujardin desperately pitches a sequel to Solveig, who firmly closes the chapter. When you watch the episode, listen out for the expressions meaning 'wrap' and 'is celebrated'. You'll catch them now. See you next time.
+> Refusing to accept that his transformative role is over, Jean Dujardin desperately pitches a sequel to Solveig, who firmly closes the chapter. When you watch the episode, listen out for the expressions meaning 'wrap' and 'is celebrated'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À bientôt!*

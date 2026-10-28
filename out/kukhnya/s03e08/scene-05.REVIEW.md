@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нагиев | Наши выиграли, давай скорее наливай! | Our team won, come on, pour quickly! | #66 00:04:49: Наливай | adapted: adapted |
 | 2 | Нагиев | Дима, наши сегодня, увы, проиграли. | Dima, our team lost today, alas. | #67 00:04:51: Дима, наши проиграли | adapted: adapted |
-| 3 | Аня | Ладно, ну что ты начинаешь! | Alright, well what are you starting! | #70 00:04:59: Ладно, ну что ты | adapted: adapted |
-| 4 | Аня | Ну проиграли мы сегодня и проиграли. | Well if we lost today, we lost. | #71 00:05:01: Мы проиграли и проиграли | adapted: adapted |
+| 3 | Шеф | Ладно, ну что ты начинаешь! | Alright, well what are you starting! | #70 00:04:59: Ладно, ну что ты | adapted: adapted |
+| 4 | Шеф | Ну проиграли мы сегодня и проиграли. | Well if we lost today, we lost. | #71 00:05:01: Мы проиграли и проиграли | adapted: adapted |
 | 5 | Нагиев | А если у вас сегодня ничья? | And what if you have a draw today? | #73 00:05:08: Ничья | adapted: adapted |
 | 6 | Нагиев | Ничего не хочу слышать, снова наливай! | I do not want to hear anything, pour again! | #74 00:05:10: Ничего не хочу. Наливай | adapted: adapted |
 | 7 | Нагиев | Так что ты лучше выйди в люди с любимой женщиной. | So you had better go out in public with your beloved woman. | #75 00:05:13: ты выйди в люди с любимой женщиной | adapted: adapted |
 | 8 | Нагиев | Зато твоя печень будет здорова. | At least your liver will be healthy. | #76 00:05:18: Зато печень будет здорова | adapted: adapted |
-| 9 | Аня | Я ведь Макса возвращаю только ради тебя, Дима. | After all, I am bringing Max back only for your sake, Dima. | #77 00:05:20: возвращаю только ради тебя, Дим | adapted: adapted |
-| 10 | Аня | Иду против всех своих принципов. | I am going against all my principles. | #78 00:05:23: Против всех своих принципов | adapted: adapted |
+| 9 | Шеф | Я ведь Макса возвращаю только ради тебя, Дима. | After all, I am bringing Max back only for your sake, Dima. | #77 00:05:20: возвращаю только ради тебя, Дим | adapted: adapted |
+| 10 | Шеф | Иду против всех своих принципов. | I am going against all my principles. | #78 00:05:23: Против всех своих принципов | adapted: adapted |
 | 11 | Нагиев | Всё, договорились, твоё условие принято. | That is it, we agreed, your condition is accepted. | #80 00:05:27: Договорились. Принято | adapted: adapted |
-| 12 | Аня | Макс, ты сегодня возвращаешься на кухню. | Max, today you are returning to the kitchen. | #81 00:05:29: Ты | adapted: adapted |
+| 12 | Шеф | Макс, ты сегодня возвращаешься на кухню. | Max, today you are returning to the kitchen. | #81 00:05:29: Ты | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'After all, I am bringing Max back only for your sake, Dima.' Here the Russian phrasing highlights 'I' before landing on 'Dima'.
 - 'I am going against all my principles.' Notice how Russian expresses 'am going' and 'principles' with crisp inflection rather than helper words.
 - 'That is it, we agreed, your condition is accepted.' In Russian, the idea of 'everything' flows naturally into 'accepted' without extra filler words. Chef Barinov answers right away.
-- 'Max, today you are returning to the kitchen.' Notice the reflexive suffix on the verb meaning 'are returning', turning the action back on the subject.
+- 'Max, today you are returning to the kitchen.' Chef Barinov pairs 'tonight' with 'kitchen' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

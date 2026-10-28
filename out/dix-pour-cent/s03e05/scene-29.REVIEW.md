@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | La fuite vient de nous. | The leak comes from us. | 1144:La fuite |
 
 ## Part 5 — Outro & Closing
-> Hicham storms out of ASK in fury, leaving Andrea and Gabriel facing the wreckage of their botched scheme. When you watch the episode, listen out for the expressions meaning 'like' and 'tone of voice'. You'll catch them now. See you next time.
+> Hicham storms out of ASK in fury, leaving Andrea and Gabriel facing the wreckage of their botched scheme. When you watch the episode, listen out for the expressions meaning 'like' and 'tone of voice'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

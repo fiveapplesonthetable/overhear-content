@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Смотри, Виктория Сергеевна опять забыла тут свой телефон. | Look, Victoria Sergeyevna forgot her phone here again. | #237 00:16:45: Виктория Сергеевна | adapted: adapted |
+| 1 | Сеня | Смотри, Виктория Сергеевна опять забыла тут свой телефон. | Look, Victoria Sergeyevna forgot her phone here again. | #237 00:16:45: Виктория Сергеевна | adapted: adapted |
 | 2 | Федя | Надо бы пойти и быстро вернуть его ей. | We ought to go and quickly return it to her. | #238 00:16:48: Надо возвращать. Вернем | adapted: adapted |
-| 3 | Аня | Обязательно вернём, но сначала сделаем одно весёлое дело! | We will definitely return it, but first let's do one fun thing! | #239 00:16:51: Но сначала не телефон | adapted: adapted |
-| 4 | Аня | Внимание, вся кухня, смотрите сейчас на наших фокусников! | Attention, whole kitchen, watch our magicians right now! | #240 00:16:55: Внимание, кухня | adapted: adapted |
-| 5 | Аня | Сейчас великие маги Арсений и Фёдор покажут чудо! | Right now the great magicians Arseniy and Fyodor will show a miracle! | #241 00:16:57: Сейчас великие маги Арсений и Федор | adapted: adapted |
-| 6 | Аня | С помощью одного сообщения вернём человека из Сочи! | With the help of one message we will bring a man back from Sochi! | #242 00:17:03: человека из Сочи в Москву | adapted: adapted |
+| 3 | Сеня | Обязательно вернём, но сначала сделаем одно весёлое дело! | We will definitely return it, but first let's do one fun thing! | #239 00:16:51: Но сначала не телефон | adapted: adapted |
+| 4 | Сеня | Внимание, вся кухня, смотрите сейчас на наших фокусников! | Attention, whole kitchen, watch our magicians right now! | #240 00:16:55: Внимание, кухня | adapted: adapted |
+| 5 | Сеня | Сейчас великие маги Арсений и Фёдор покажут чудо! | Right now the great magicians Arseniy and Fyodor will show a miracle! | #241 00:16:57: Сейчас великие маги Арсений и Федор | adapted: adapted |
+| 6 | Сеня | С помощью одного сообщения вернём человека из Сочи! | With the help of one message we will bring a man back from Sochi! | #242 00:17:03: человека из Сочи в Москву | adapted: adapted |
 | 7 | Федя | Пиши скорее, что Вика прямо сейчас начала рожать! | Write quickly that Vika has started giving birth right now! | #241 00:16:57: с помощью одного | adapted: adapted |
-| 8 | Аня | Готово, сообщение ушло, теперь ждём скорого возвращения! | Done, the message is sent, now we wait for his speedy return! | #238 00:16:48: Вернем | adapted: adapted |
-| 9 | Макс | Ой, простите, я совсем забыл выключить свой телефон. | Oh, excuse me, I completely forgot to turn off my phone. | #244 00:17:13: Забыл выключить | adapted: adapted |
+| 8 | Сеня | Готово, сообщение ушло, теперь ждём скорого возвращения! | Done, the message is sent, now we wait for his speedy return! | #238 00:16:48: Вернем | adapted: adapted |
+| 9 | Аня | Ой, простите, я совсем забыл выключить свой телефон. | Oh, excuse me, I completely forgot to turn off my phone. | #244 00:17:13: Забыл выключить | adapted: adapted |
 | 10 | Федя | Да не волнуйся, в этом самолёте связь работает. | Do not worry, on this plane the connection works fine. | #245 00:17:15: тут нормально работает | adapted: adapted |
-| 11 | Макс | Тогда выпьем по бокалу за наш удачный полёт! | Then let's drink a glass to our successful flight! | #246 00:17:19: За удачный полет | adapted: adapted |
-| 12 | Макс | Подожди, мне только что пришло срочное сообщение от Вики! | Wait, I just got an urgent text message from Vika! | #243 00:17:11: Спасибо | adapted: adapted |
+| 11 | Аня | Тогда выпьем по бокалу за наш удачный полёт! | Then let's drink a glass to our successful flight! | #246 00:17:19: За удачный полет | adapted: adapted |
+| 12 | Аня | Подожди, мне только что пришло срочное сообщение от Вики! | Wait, I just got an urgent text message from Vika! | #243 00:17:11: Спасибо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

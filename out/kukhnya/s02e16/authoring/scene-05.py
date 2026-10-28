@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e16-scene-05"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-05'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 5
-TITLE = 'Оправдания перед Сашей и книга о войне  (Explaining to Sasha and the Book on War)'
+TITLE = "Оправдания перед Сашей и книга о войне  (Explaining to Sasha and the Book on War)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina", "sasha": "anja"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = "At the restaurant, Max tries to convince Sasha that Ilya staged the locker-room attack by hitting himself, while Nastya admits she told her parents that Kostya proposed. Picking up a discarded copy of Sun Tzu's The Art of War, Max decides to destroy Ilya's plans through cunning."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 5 of Episode 16, listen out for the exchange around explaining to sasha and the book on war — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('nagiyev', 'Ну да.')
+OUTRO = "That wraps up this scene as max tries in vain to convince Sasha that Ilya beat himself up, and then discovers a copy of Sun Tzu's The Art of War in the trash. Until next time!"
+CLOSING = ("nagiyev", "Увидимся!")

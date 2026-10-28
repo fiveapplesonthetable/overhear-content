@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 9
 TITLE = "L'amour et les affaires  (Love and Business)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At the ASK agency, tensions rise in the office corridor. Mathias and Andréa confront Gabriel about his decision to represent his girlfriend Sofia as an actress. They warn him that blending romance with professional representation spells disaster. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Mathias and Andréa make their stance crystal clear: representation and romance do not mix. Gabriel finds himself caught between his personal feelings and the firm's strict professional standards. Join us next time to see what happens next."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Mathias and Andréa make their stance crystal clear: representation and romance do not mix. Gabriel finds himself caught between his personal feelings and the firm's strict professional standards. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Sofia a auditionné pour beaucoup de rôles.', 'Sofia has auditioned for many roles.', [(254, 'Sofia a auditionné pour beaucoup de rôles.')], ''),
     ('gabriel', "Alors je l'aide, c'est le travail d'un agent.", 'So I am helping her, that is an agent', [(256, "Alors je l'aide,"), (257, "c'est le travail d'un agent.")], ''),

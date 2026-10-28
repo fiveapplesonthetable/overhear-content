@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | C'est une urgence! Je suis toute seule en pleine campagne! | It | 483:C'est une urgence, 484:toute seule, en pleine campagne |
 
 ## Part 5 — Outro & Closing
-> While Camille wins her father's respect in Paris, poor Andréa is stranded on foot in the middle of the countryside with no phone signal. See you next time.
+> While Camille wins her father's respect in Paris, poor Andréa is stranded on foot in the middle of the countryside with no phone signal. See you next time!
 - **Closing**: `lea`: *À bientôt!*

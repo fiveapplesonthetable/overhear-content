@@ -4,13 +4,13 @@ Title: Банкет кинематографистов  (The Filmmakers' Banquet
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S4.07
-Cues 17-39. Gavril Ilyich from the Filmmakers' Union arrives on behalf of director Nikita Mikhalkov to book a banquet at Claude Monet, specifically requesting Chef Viktor Barinov's cooking.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дмитрий Владимирович, к нам пришёл важный гость. | Dmitry Vladimirovich, an important guest has come to see us. | #17 00:01:33: Дмитрий Владимирович, у нас гость. | adapted: adapted |
+| 1 | Нагиев | Дмитрий Владимирович, к нам пришёл важный гость. | Dmitry Vladimirovich, an important guest has come to see us. | #17 00:01:33: Дмитрий Владимирович, у нас гость. | adapted: adapted |
 | 2 | Нагиев | Доброе утро, но наш ресторан ещё закрыт. | Good morning, but our restaurant is still closed. | #18 00:01:36: Доброе утро.<br>#19 00:01:38: Мы еще закрыты. | adapted: adapted |
 | 3 | Гость | Позвольте мне сначала представиться вам, господа. | Allow me to introduce myself to you first, gentlemen. | #21 00:01:41: Позвольте представиться. | adapted: adapted |
 | 4 | Гость | Я пришёл по поручению известного кинорежиссёра. | I have come on behalf of the famous film director. | #23 00:01:48: я к вам по поручению Никиты Сергеевича Михалкова. | adapted: adapted |
@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dmitry Vladimirovich, an important guest has come to see us.' Vika alerts the owner to the morning visitor.
-- 'Good morning, but our restaurant is still closed.' Masculine short passive participle agrees with 'restaurant'.
-- 'Allow me to introduce myself to you first, gentlemen.' Polite plural imperative 'allow' introduces the reflexive infinitive.
-- 'I have come on behalf of the famous film director.' The dative phrase 'by commission of' means on someone's behalf.
+- 'Good morning, but our restaurant is still closed.' Nagiyev uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Allow me to introduce myself to you first, gentlemen.' the guest pairs 'to allow, to permit' with 'gentlemen' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I have come on behalf of the famous film director.' Notice how Russian puts 'arrived' and 'director' together in a short, direct phrase where word endings show how the ideas connect.
 - 'For the sake of filming I am ready to clear any dates!' Actor Nagiyev immediately hopes he is being cast in a movie.
-- 'Thank you, but I am here on another matter.' Preposition 'on/by' governs the dative singular phrase 'another question'.
-- 'We want to hold a banquet in your restaurant.' Perfective infinitive 'to conduct' is the standard verb for holding an event.
-- 'We had lunch at your place recently, we liked everything.' Imperfective past plural verb describes dining at the restaurant.
-- 'Everyone was delighted with Viktor Barinov!' The idiom 'in delight from' takes the genitive case of the chef's name.
-- 'We eagerly look forward to meeting him again.' Instrumental phrase 'with impatience' pairs with 'waiting for a meeting'.
-- 'I will drop by this evening to taste the banquet menu.' Perfective future verb 'will drop in' takes a purpose infinitive.
+- 'Thank you, but I am here on another matter.' the guest uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'We want to hold a banquet in your restaurant.' the guest pairs 'want' with 'restaurant' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'We had lunch at your place recently, we liked everything.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Everyone was delighted with Viktor Barinov!' Here the guest anchors the thought on 'to be; there is' and finishes on 'Barinov', keeping the spoken rhythm brisk and natural.
+- 'We eagerly look forward to meeting him again.' In everyday Russian, 'to forward' flows straight into 'we await' without extra linking words.
+- 'I will drop by this evening to taste the banquet menu.' the guest pairs 'to come in, to drop in' with 'menu' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'You need not doubt it, Barinov will definitely be here!' Rather than admit he fired Barinov, Nagiyev promises he will be there.

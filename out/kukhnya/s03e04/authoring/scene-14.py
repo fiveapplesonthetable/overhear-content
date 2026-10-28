@@ -1,28 +1,28 @@
 ID = 'kukhnya-s03e04-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 4
 SCENE = 14
-TITLE = 'Хозяин — барин  (The Master Is Lord)'
+TITLE = "Хозяин — барин  (The Master Is Lord)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Нагиев', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.04'
 SOURCE_FILE = 'sources/kukhnya/s03/e04.ru.srt'
 
 INTRO = 'At the bar, Nagiyev sends Vika home for the night, while in a sports bar Chef Barinov loses hislucky elephant figurine—and immediately loses his poker hand.'
 
 STORY = [
-    ('anya', 'Виктория Сергеевна, душа моя! А чего не дома?', "Viktoria Sergeyevna, my soul! Why aren't you at home?", [(189, 'Виктория Сергеевна, душа моя'), (190, 'А чего не дома')], 'adapted'),
-    ('anya', 'Чего на работе сидим?', 'Why are we sitting at work?', [(191, 'Чего на работе')], 'adapted'),
-    ('vika', 'Да ведь мы работаем до последнего гостя.', 'Why, because we work until the last guest.', [(192, 'Да ведь мы работаем до последнего гостя')], ''),
-    ('anya', 'На меня намекаете? Какой гость? Я просто хозяин.', 'Are you hinting at me? What guest? I am simply the owner.', [(193, 'На меня'), (194, 'Какой гость? Я просто хозяин')], 'adapted'),
-    ('anya', 'А хозяин — барин! Даю выходной на сегодня.', 'And the owner is lord! I grant you the night off today.', [(195, 'А хозяин барин'), (196, 'на сегодня')], 'adapted'),
+    ('nagiyev', 'Виктория Сергеевна, душа моя! А чего не дома?', "Viktoria Sergeyevna, my soul! Why aren't you at home?", [(189, 'Виктория Сергеевна, душа моя'), (190, 'А чего не дома')], 'adapted'),
+    ('nagiyev', 'Чего на работе сидим?', 'Why are we sitting at work?', [(191, 'Чего на работе')], 'adapted'),
+    ('nagiyev', 'Да ведь мы работаем до последнего гостя.', 'Why, because we work until the last guest.', [(192, 'Да ведь мы работаем до последнего гостя')], ''),
+    ('nagiyev', 'На меня намекаете? Какой гость? Я просто хозяин.', 'Are you hinting at me? What guest? I am simply the owner.', [(193, 'На меня'), (194, 'Какой гость? Я просто хозяин')], 'adapted'),
+    ('nagiyev', 'А хозяин — барин! Даю выходной на сегодня.', 'And the owner is lord! I grant you the night off today.', [(195, 'А хозяин барин'), (196, 'на сегодня')], 'adapted'),
     ('chef', 'Продолжим удачный день!', "Let's continue this lucky day!", [(197, 'Продолжим удачный день')], ''),
-    ('vika', 'Если честно, не очень.', 'To be honest, not really.', [(198, 'Если честно, не очень')], ''),
+    ('nagiyev', 'Если честно, не очень.', 'To be honest, not really.', [(198, 'Если честно, не очень')], ''),
     ('chef', 'Виски!', 'Whiskey!', [(199, 'Виски')], ''),
-    ('vika', 'Повторить? Нет, не хочу больше пить.', "Another round? No, I don't want to drink anymore.", [(200, 'Повторить? Нет, не хочу больше пить')], ''),
+    ('nagiyev', 'Повторить? Нет, не хочу больше пить.', "Another round? No, I don't want to drink anymore.", [(200, 'Повторить? Нет, не хочу больше пить')], ''),
     ('chef', 'Виски? Да, с колой.', 'Whiskey? Yes, with cola.', [(201, 'Виски? Да, с колой')], ''),
     ('chef', 'Виски с колой, точно.', 'Whiskey with cola, for sure.', [(202, 'Виски с колой, точно')], ''),
     ('chef', 'А как сделаем?', 'And how shall we do it?', [(203, 'А как сделаем')], ''),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Fourteen to a close. Watch how Barinov's luck turns the instant the little elephant slips out of his pocket."
-CLOSING = ('chef', 'Продолжим удачный день!')
+OUTRO = "That brings Scene Fourteen to a close. Watch how Barinov's luck turns the instant the little elephant slips out of his pocket. See you next time!"
+CLOSING = ("chef", "До встречи!")

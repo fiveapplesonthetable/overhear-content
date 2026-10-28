@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e13-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 17
-TITLE = 'Признание Насте и пленник в холодильнике  (Confessing to Nastya and the Captive in the Fridge)'
+TITLE = "Признание Насте и пленник в холодильнике  (Confessing to Nastya and the Captive in the Fridge)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'In the kitchen, Max finally admits to a horrified Nastya that the morning rolls her vegetarian guest loved were actually stuffed with meat. Meanwhile, Kristina storms into the restaurant after waiting an hour for her contact, who answers his phone from inside the walk-in fridge.'
 
@@ -41,13 +41,12 @@ WALK = [
     (6, None, "'I have been waiting for you for an hour already.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'I'm waiting'. Dmitry answers right away."),
     (7, None, "'Where have you been wandering?' Dmitry raises the pitch on 'can walk' to turn the phrase into a direct spoken question."),
     (8, None, "'I am sitting inside the walk-in fridge.' The grammar packs 'I' and 'am sitting' into a tight, idiomatic kitchen exchange."),
-    (9, None, "'Oh, it really stinks in there, guys.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'kids'. Max answers right away."),
+    (9, None, "'Oh, it really stinks in there, guys.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (10, None, "'First it stinks in there, and then it is freezing cold.' Max brings out the contrast between 'there' and 'both' in a few short words."),
     (11, None, "'So who is she?' Dmitry brings out the contrast between 'come on' and 'both' in a few short words."),
     (12, None, "'Oh, let us say so.' Notice how Russian expresses 'oh' and 'to allow' with crisp inflection rather than helper words."),
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 17 of Episode 13, listen out for the exchange around confessing to nastya and the captive in the fridge — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ах, допусти.')
+OUTRO = 'That wraps up this scene as max confesses to a horrified Nastya that the morning rolls contained meat, while Kristina arrives at Claude Monet and calls the man sitting inside the walk-in fridge. Until next time!'
+CLOSING = ("anya", "До встречи!")

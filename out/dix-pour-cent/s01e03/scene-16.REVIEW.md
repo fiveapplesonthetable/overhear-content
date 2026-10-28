@@ -29,5 +29,5 @@
 | 15 | `laura` (Laura) | Je ne vais quand même pas faire une Bardot! | I | 412:quand même pas, 413:faire une Bardot |
 
 ## Part 5 — Outro & Closing
-> So Nathalie wants to sabotage her audition, and Gabriel wants Laura to sabotage hers by playing the diva. Next come the auditions themselves. See you there.
+> So Nathalie wants to sabotage her audition, and Gabriel wants Laura to sabotage hers by playing the diva. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

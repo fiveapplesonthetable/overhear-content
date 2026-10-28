@@ -30,5 +30,5 @@
 | 16 | `colette` (Colette) | De toute façon, tu n'es pas quelqu'un pour moi. | Anyway, you | 287:De toute façon, tu n'es pas quelqu'un pour moi |
 
 ## Part 5 — Outro & Closing
-> Just as Andréa tries to show her softer side, someone from her past is about to ruin everything outside the shop. Until next time!
+> Just as Andréa tries to show her softer side, someone from her past is about to ruin everything outside the shop. See you next time!
 - **Closing**: `colette`: *À bientôt!*

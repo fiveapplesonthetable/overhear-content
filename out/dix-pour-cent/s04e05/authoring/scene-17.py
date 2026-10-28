@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 5
 SCENE = 17
 TITLE = "L'aveu d'Hervé  (Hervé's Confession)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "gabriel": "theo"}
-LABELS = {"herve": "Hervé", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'gabriel': 'theo'}
+LABELS = {'herve': 'Hervé', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Herve stops Gabriel to make a nervous confession about his secret acting career. However, Gabriel reveals that the secret is already out across the agency. Let's listen to their exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Herve realizes to his dismay that his secret acting debut is already common knowledge at ASK. When you watch the episode, listen out for the expressions meaning 'minute' and 'is happening'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "Herve realizes to his dismay that his secret acting debut is already common knowledge at ASK. When you watch the episode, listen out for the expressions meaning 'minute' and 'is happening'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('herve', 'Gabriel, vous avez une minute?', 'Gabriel, do you have a minute?', [(736, 'Gabriel')], ''),
     ('gabriel', "Oui, qu'est-ce qui se passe?", 'Yes, what is going on?', [(737, 'Quoi')], ''),

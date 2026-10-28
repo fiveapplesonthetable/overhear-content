@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You must not drag good groceries home.' The meaning hinges on 'normal' working together with 'home' in spoken Russian.
 - 'Chef, honestly I did not steal anything.' The '-l' ending on the verb meaning 'stole' places the action in the masculine past tense. Chef Barinov answers right away.
 - 'Keep in mind, I know all your hiding places well.' Chef Barinov brings out the contrast between 'bear in mind' and 'I' in a few short words.
-- 'So do not even try to argue.' Notice the reflexive suffix on the verb meaning 'try', turning the action back on the subject.
+- 'So do not even try to argue.' Here Chef Barinov anchors the thought on 'try' and finishes on 'to argue, bet', keeping the spoken rhythm brisk and natural.
 - 'Done, I cleaned all the contacts here.' Spoken Russian keeps this brisk, leaning on 'ready' and finishing on 'cleaned'. Katya answers right away.
 - 'Wow, what an electrician you are!' Katya addresses the listener with the informal singular 'you' alongside 'electrician'.
 - 'Never hold onto an electrician with your hands.' The meaning hinges on 'never' working together with 'electrician' in spoken Russian.

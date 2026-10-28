@@ -31,5 +31,5 @@
 | 17 | `cecile` (Cécile) | Je ne sais plus. | I don | 757:Je ne sais plus |
 
 ## Part 5 — Outro & Closing
-> That's a hard choice for Cécile, and a good one for you to remember: 'not' and 'not anymore' are built the same way, only the second little word changes. We'll find out what she decides soon. Until next time.
+> That's a hard choice for Cécile, and a good one for you to remember: 'not' and 'not anymore' are built the same way, only the second little word changes. See you next time!
 - **Closing**: `cecile`: *À bientôt!*

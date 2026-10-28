@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 5
-TITLE = 'План сорвать банкет  (A Plan to Ruin the Banquet)'
+TITLE = "План сорвать банкет  (A Plan to Ruin the Banquet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'Back in the kitchen, Chef Barinov explains to Max why a corporate chain would destroy their French cuisine. When Nagiyev orders a banquet for a rich guest tonight, Chef vows to sabotage every dish.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Convinced the banquet is for Andrey Mikhailovich, Chef Barinov rallies his cooks to prepare the worst meal in Claude Monet's history."
-CLOSING = ('chef', 'Они этого точно не дождутся!')
+OUTRO = "Convinced the banquet is for Andrey Mikhailovich, Chef Barinov rallies his cooks to prepare the worst meal in Claude Monet's history. Until next time!"
+CLOSING = ("chef", "Пока!")

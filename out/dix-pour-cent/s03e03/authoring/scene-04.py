@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 4
-TITLE = "Un si beau couple  (Such a Beautiful Couple)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un si beau couple  (Such a Beautiful Couple)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "lea": "lucie"}
-LABELS = {"catherine": "Catherine", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'lea': 'lucie'}
+LABELS = {'catherine': 'Catherine', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At a quiet Paris tea salon, Catherine Barneville enjoys a warm drink with junior agent Camille Valentini. Reflecting on how Camille helped her reconcile with Mathias in Cannes, Catherine opens up about the quiet struggles inside their marriage. Let's listen to the scene in French first."
 OPENER = "Let's examine how Catherine confides in Camille about her marriage step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around such a beautiful couple. When you watch the episode, listen out for the expressions meaning 'think back' and 'ticket'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "That's it for this scene around such a beautiful couple. When you watch the episode, listen out for the expressions meaning 'think back' and 'ticket'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('catherine', 'Je repense souvent à ce billet de train.', 'I often think back to that train ticket.', [(245, "Vous savez, je repense souvent à ce jour où vous m'avez trouvé un billet de train pour Cannes.")], ''),
     ('catherine', 'Sans vous, nous serions peut-être séparés avec Mathias.', 'Without you, Mathias and I might be separated.', [(246, 'on serait peut-être jamais retrouvés avec Mathias.')], ''),

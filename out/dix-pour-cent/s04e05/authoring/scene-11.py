@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 11
-TITLE = "Répétition amoureuse  (Romantic Rehearsal)"
-LEVEL = "A1 — débutant"
+TITLE = 'Répétition amoureuse  (Romantic Rehearsal)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "In Gabriel Sarda's office, Sofia Leprince finds Gabriel anxious about reconnecting with his ex-girlfriend Sarah. To help him prepare, Sofia offers to roleplay Sarah so Gabriel can rehearse his answers. However, the pretend rehearsal quickly stirs up unresolved feelings between the two former lovers. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "What started as a lighthearted rehearsal leaves both Gabriel and Sofia unsettled by their true feelings. When you watch the episode, listen out for the expressions meaning 'agrees' and 'see again'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "What started as a lighthearted rehearsal leaves both Gabriel and Sofia unsettled by their true feelings. When you watch the episode, listen out for the expressions meaning 'agrees' and 'see again'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('gabriel', 'Sarah accepte de me revoir ce soir!', 'Sarah agrees to see me again tonight!', [(439, "C'est Sarah."), (440, 'Elle accepte de me revoir.')], ''),
     ('sofia', "C'est super, tu es content?", 'That is great, are you happy?', [(441, 'Merci.')], ''),

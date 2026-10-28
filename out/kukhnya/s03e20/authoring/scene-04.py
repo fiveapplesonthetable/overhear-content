@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 4
 TITLE = "Чужой снимок и талоны на перекур  (Someone Else's Scan and Smoke Coupons)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'doctor': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'doctor': 'Врач', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja"}
+LABELS = {"anya": "Макс", "doctor": "Врач"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "At the hospital, we learn Max bribed the doctor to show Vika a motorcyclist's brain scan! Back at Claude Monet, crisis manager Sergey demands all food invoices and rations smoke breaks with paper coupons."
@@ -22,10 +22,10 @@ STORY = [
     ('doctor', 'Да у нас там мотоциклист уже месяц лежит.', 'Oh, we have had a motorcyclist lying in there for a month.', [(73, 'А, да, у нас там мотоциклист уже месяц лежит')], 'adapted'),
     ('anya', 'Я хотел бы просмотреть все документы по закупке продуктов.', 'I would like to review all the documents on food purchases.', [(74, 'Я хотел бы просмотреть все документы'), (74, 'по закупке продуктов')], 'adapted'),
     ('anya', 'Это такие простые белые бумажки с цифрами.', 'Those are simple white slips of paper with numbers.', [(75, 'Это такие бумажки с')], 'adapted'),
-    ('chef', 'Вот только не надо со мной разговаривать, как с ребёнком!', 'Just do not talk to me as if I were a child!', [(76, 'Вот только не надо со мной разговаривать, как с ребенком')], 'adapted'),
+    ('doctor', 'Вот только не надо со мной разговаривать, как с ребёнком!', 'Just do not talk to me as if I were a child!', [(76, 'Вот только не надо со мной разговаривать, как с ребенком')], 'adapted'),
     ('anya', 'С этой минуты вы курите, если есть такие талоны.', 'From this minute on, you smoke only if you have these coupons.', [(77, 'С этой минуты вы курите, если у вас есть такие талоны')], 'adapted'),
     ('anya', 'Один перекур — один талон, это ваша норма.', 'One smoke break is one coupon, that is your allowance.', [(78, 'Один перекур, один талон'), (80, 'Потому что это ваша норма')], 'adapted'),
-    ('chef', 'Федя, я уже свои два талона сегодня использовал!', 'Fedya, I have already used my two coupons today!', [(83, 'Я уж свои два использовал')], 'adapted'),
+    ('doctor', 'Федя, я уже свои два талона сегодня использовал!', 'Fedya, I have already used my two coupons today!', [(83, 'Я уж свои два использовал')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With coupons required even to step out for a smoke or use the restroom, the kitchen crew despises their new boss immediately.'
-CLOSING = ('anya', 'Один перекур — это один талон.')
+OUTRO = 'With coupons required even to step out for a smoke or use the restroom, the kitchen crew despises their new boss immediately. See you next time!'
+CLOSING = ("anya", "Всего хорошего!")

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 19
-TITLE = "Arlette Davidson  (Arlette Davidson)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arlette Davidson  (Arlette Davidson)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "guy": "marcel"}
-LABELS = {"arlette": "Arlette", "guy": "Guy"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'guy': 'marcel'}
+LABELS = {'arlette': 'Arlette', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'Outside the soundstage, veteran actor Guy Marchand catches up with his longtime agent Arlette Azémar. Accompanied by her dog Jean Gabin, Arlette offers warm encouragement before Guy returns to his shoot. Listen to the scene in French first.'
 OPENER = "Let's examine how Arlette and Guy share a touching moment of friendship."
 TRANSITION = "Now let's listen to the fond conversation once more at natural pace."
 OUTRO = 'Outside the soundstage, Arlette and Guy celebrate a lifetime of loyalty and artistic partnership. Listen to the affectionate conversation once more in French. See you next time!'
-CLOSING = ("arlette", "Au revoir!")
+CLOSING = ('arlette', 'Au revoir!')
 STORY = [
     ('guy', "Désolé pour mon agitation tout à l'heure.", 'Sorry for my agitation earlier.', [(589, 'Désolé pour mon chien mal élevé.')], ''),
     ('arlette', "Tu n'as pas à t'excuser, Guy.", 'You do not have to apologize, Guy.', [(595, 'De rien, je vous en prie.')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 22
-TITLE = "Une vraie actrice  (A True Actress)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une vraie actrice  (A True Actress)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "In the quiet backstage hallway, Sofia tells Gabriel that she wants to give up, but Gabriel insists that she quit her desk job at ASK to focus entirely on acting. When a fan and Charlotte Gainsbourg both ask for her autograph on their casts, Sofia realizes she is truly an actress. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Meeting Charlotte Gainsbourg gives Sofia newfound pride and purpose in her acting career. When you watch the episode, listen out for the expressions meaning 'time' and 'stop'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Meeting Charlotte Gainsbourg gives Sofia newfound pride and purpose in her acting career. When you watch the episode, listen out for the expressions meaning 'time' and 'stop'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('sofia', "Il est temps que j'arrête tout.", 'It is time that I stop everything.', [(941, "Il est temps que j'arrête")], ''),
     ('gabriel', "Tu as raison d'arrêter l'accueil.", 'You are right to stop the front desk.', [(942, 'Tu as raison'), (944, "l'accueil")], ''),

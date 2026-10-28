@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That I am such a cheerful eccentric.' The meaning hinges on 'what' working together with 'oddball' in spoken Russian.
 - 'But I really can be different, honest word.' In Russian, the idea of 'but' flows naturally into 'word' without extra filler words.
 - 'Please, just give me one chance.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'chance'.
-- 'Do not be afraid, I will not touch him, let him work.' Notice the reflexive suffix on the verb meaning 'fear', turning the action back on the subject.
+- 'Do not be afraid, I will not touch him, let him work.' Here Nagiyev anchors the thought on 'fear' and finishes on 'works', keeping the spoken rhythm brisk and natural.
 - 'Sometimes your life is like a long TV series.' Spoken Russian keeps this brisk, leaning on 'sometimes' and finishing on 'TV series'.
 - 'Which has been running for very many years already.' Max brings out the contrast between 'who' and 'is coming' in a few short words.
 - 'You stop being the main character of this story.' The grammar packs 'you' and 'story' into a tight, idiomatic kitchen exchange.

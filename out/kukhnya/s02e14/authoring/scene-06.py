@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-06"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-06'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 6
-TITLE = 'Возвращение Баринова на кухню  (Barinov Returns to the Kitchen)'
+TITLE = "Возвращение Баринова на кухню  (Barinov Returns to the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'ilya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'ilya': 'Илья'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'Gathering the cooks in the kitchen, Lyova announces that Viktor Petrovich will be away recovering for another two weeks. As Senya jokes about the boss slacking off to drink beer, Chef Barinov himself steps out from hiding and scolds the laughing crew.'
 
 STORY = [
-    ('anya', 'Минуточку внимания.', 'May I have your attention for a minute.', [(96, 'Минуточку внимания')], ''),
+    ('chef', 'Минуточку внимания.', 'May I have your attention for a minute.', [(96, 'Минуточку внимания')], ''),
     ('vika', 'В общем, новости такие.', 'Anyway, here is the news.', [(97, 'В общем, новости такие')], ''),
-    ('ilya', 'Виктора Петровича не будет еще две недели.', 'Viktor Petrovich will be away for another two weeks.', [(98, 'Виктора Петровича не будет еще две недели')], ''),
-    ('anya', 'Он же целый месяц не работает.', 'He has not worked for a whole month already.', [(100, 'Он же целый месяц не работает')], ''),
+    ('chef', 'Виктора Петровича не будет еще две недели.', 'Viktor Petrovich will be away for another two weeks.', [(98, 'Виктора Петровича не будет еще две недели')], ''),
+    ('chef', 'Он же целый месяц не работает.', 'He has not worked for a whole month already.', [(100, 'Он же целый месяц не работает')], ''),
     ('vika', 'Теперь еще пивка поехал попить.', 'And now he has gone off to drink beer on vacation.', [(101, 'Теперь еще пивка поехал попить')], ''),
-    ('ilya', 'Как тебе не стыдно?', 'How can you not be ashamed of yourself?', [(102, 'Как тебе не стыдно')], ''),
-    ('anya', 'Как мы можем так говорить?', 'How could we possibly talk like that?', [(103, 'Как мы можем так говорить')], ''),
+    ('chef', 'Как тебе не стыдно?', 'How can you not be ashamed of yourself?', [(102, 'Как тебе не стыдно')], ''),
+    ('chef', 'Как мы можем так говорить?', 'How could we possibly talk like that?', [(103, 'Как мы можем так говорить')], ''),
     ('vika', 'Он болен, ему нужно лечиться.', 'He is sick and he needs medical treatment.', [(104, 'Он болен, ему нужно лечиться')], ''),
-    ('ilya', 'Чего вы ржете?', 'What are you all laughing at?', [(105, 'Чего вы ржете')], ''),
-    ('anya', 'Что бы я без тебя делал?', 'What would I ever do without you?', [(106, 'Что бы я без тебя делал')], ''),
+    ('chef', 'Чего вы ржете?', 'What are you all laughing at?', [(105, 'Чего вы ржете')], ''),
+    ('chef', 'Что бы я без тебя делал?', 'What would I ever do without you?', [(106, 'Что бы я без тебя делал')], ''),
     ('vika', 'Ладно, ладно, ладно.', 'Alright, alright, alright.', [(107, 'Ладно, ладно, ладно')], ''),
-    ('ilya', 'Ну все.', 'That is enough.', [(107, 'Ну все')], ''),
-    ('anya', 'Ну что вы тут?', 'So how are you doing in here?', [(110, 'Ну что вы тут')], ''),
+    ('chef', 'Ну все.', 'That is enough.', [(107, 'Ну все')], ''),
+    ('chef', 'Ну что вы тут?', 'So how are you doing in here?', [(110, 'Ну что вы тут')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 6 of Episode 14, listen out for the exchange around barinov returns to the kitchen — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ну что вы тут?')
+OUTRO = 'That wraps up this scene as lyova announces that Chef Barinov will be away for two more weeks, only for Barinov himself to step out and catch Senya joking about him drinking beer. See you next time!'
+CLOSING = ("chef", "Хорошего дня!")

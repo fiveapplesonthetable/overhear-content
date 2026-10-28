@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 31
-TITLE = "Le lendemain matin chez ASK  (The Morning After at ASK)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le lendemain matin chez ASK  (The Morning After at ASK)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "arlette": "emilie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "arlette": "Arlette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "It is Monday morning at the ASK agency after an eventful weekend. Andréa walks in feeling energized, while Gabriel arrives exhausted after two days in custody with Norman. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the lively morning exchange at ASK step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'After an intense weekend for all the agents, the team reunites at ASK ready to tackle new challenges together. See you next time!'
-CLOSING = ("lea", "Au revoir!")
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Bonjour, Arlette.', 'Good morning, Arlette.', [(847, 'Bonjour')], ''),
     ('arlette', 'Bonjour, Andréa. Tu as bien dormi?', 'Good morning, Andréa. Did you sleep well?', [(847, 'Bonjour')], ''),

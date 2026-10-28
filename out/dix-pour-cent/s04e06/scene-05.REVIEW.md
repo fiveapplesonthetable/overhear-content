@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Non, écoute-moi d'abord, Jean. | No, listen to me first, Jean. | 201:doit parler |
 
 ## Part 5 — Outro & Closing
-> Troubled by Jean Reno's morning drinking, Andrea tries to understand why her star client is feeling so overwhelmed and exhausted with his career. When you watch the episode, listen out for the expressions meaning 'pastis' and 'pleases'. You'll catch them now. See you next time.
+> Troubled by Jean Reno's morning drinking, Andrea tries to understand why her star client is feeling so overwhelmed and exhausted with his career. When you watch the episode, listen out for the expressions meaning 'pastis' and 'pleases'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À bientôt!*

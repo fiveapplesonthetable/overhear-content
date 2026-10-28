@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Venez vous installer au maquillage. | Come and sit down in makeup. | 16:ce serait bien qu'on y aille |
 
 ## Part 5 — Outro & Closing
-> Convinced that director Pascal intends to film her unclothed without prior consent, Beatrice heads backstage. When you watch the episode, listen out for the expressions meaning 'filming' and 'rough'. You'll catch them now. See you next time.
+> Convinced that director Pascal intends to film her unclothed without prior consent, Beatrice heads backstage. When you watch the episode, listen out for the expressions meaning 'filming' and 'rough'. You'll catch them now. See you next time!
 - **Closing**: `beatrice`: *Bonne journée!*

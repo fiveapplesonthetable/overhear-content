@@ -1,43 +1,42 @@
-# kukhnya-s01e08-scene-06: review sheet
+# Новый шеф на кухне  (A New Chef in the Kitchen) — `kukhnya-s01e08-scene-06`
 
-Title: Новый шеф на кухне  (A New Chef in the Kitchen)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.08
+**Source:** Кухня (Kukhnya) S1.08 · `sources/kukhnya/s01/e08.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `elena` | angelina | Елена |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the restaurant kitchen, Chef Viktor Barinov introduces Elena Pavlovna Sokolova to his rebellious kitchen brigade. Elena immediately takes command of the tickets, criticizes Lyova's slow cooking, and demands absolute perfection on the dinner orders. Listen to their sharp dialogue in Russian first, and then we will examine every line.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Внимание всем, на кухне важный гость! | Attention everyone, in the kitchen is an important guest! | #84 00:04:30: У кухни, внимание, это Елена Павловна | verbatim |
-| 2 | Шеф | Это шеф Елена Павловна Соколова. | This is Chef Elena Pavlovna Sokolova. | #84 00:04:30: это Елена Павловна | verbatim |
-| 3 | Елена | Здравствуйте, дорогие повара ресторана. | Hello, dear chefs of the restaurant. | #72 00:03:54: Здравствуйте, Лена | adapted: clean A1 |
-| 4 | Шеф | Сегодня она работает вместе с нами. | Today she works together with us. | #85 00:04:36: Она будет сегодня | verbatim |
-| 5 | Елена | Надеюсь, вы умеете готовить вкусно и быстро. | I hope you know how to cook tasty and fast. | #80 00:04:18: ты уже час готовишь | adapted: new line |
-| 6 | Шеф | Мои ребята умеют абсолютно всё! | My guys know how to do absolutely everything! | #82 00:04:24: а не работали | adapted: new line |
-| 7 | Елена | Тогда почему Лёва варит суп уже час? | Then why has Lyova been cooking soup for an hour already? | #80 00:04:18: ты уже час готовишь | verbatim |
-| 8 | Шеф | Лёва, отвечай шефу быстро и чётко! | Lyova, answer the chef quickly and clearly! | #81 00:04:22: Заснул, что ли | adapted: clean A1 |
-| 9 | Елена | Так, официант принёс первый большой заказ. | Right, the waiter brought the first big order. | #87 00:04:43: Заказ | verbatim |
-| 10 | Елена | Одна телятина, треска и свежий салат! | One veal, cod, and fresh salad! | #89 00:04:48: Телятина по трюфельным соусам, одна треска | verbatim |
-| 11 | Шеф | Всем всё понятно? Начинайте готовить! | Is everything clear to everyone? Start cooking! | #91 00:04:54: Всем все понятно | verbatim |
-| 12 | Елена | Я лично проверю каждое готовое блюдо. | I will personally check every finished dish. | #92 00:04:56: Хорошо | adapted: new line |
-| 13 | Шеф | Не командуй слишком громко, Елена. | Don't boss around too loudly, Elena. | #85 00:04:36: ну вы все сами слышали | adapted: new line |
-| 14 | Елена | Настоящий шеф всегда следит за качеством! | A true chef always watches over quality! | #85 00:04:36: ну вы все сами слышали | adapted: new line |
+| 0 | Шеф | Внимание всем, на кухне важный гость! | Attention everyone, in the kitchen is an important guest! | #84 "У кухни, внимание, это Елена Павловна" |  |
+| 1 | Шеф | Это шеф Елена Павловна Соколова. | This is Chef Elena Pavlovna Sokolova. | #84 "это Елена Павловна" |  |
+| 2 | Елена | Здравствуйте, дорогие повара ресторана. | Hello, dear chefs of the restaurant. | *(added)* |  |
+| 3 | Шеф | Сегодня она работает вместе с нами. | Today she works together with us. | #85 "Она будет сегодня" |  |
+| 4 | Елена | Надеюсь, вы умеете готовить вкусно и быстро. | I hope you know how to cook tasty and fast. | #80 "ты уже час готовишь" |  |
+| 5 | Шеф | Мои ребята умеют абсолютно всё! | My guys know how to do absolutely everything! | #82 "а не работали" |  |
+| 6 | Елена | Тогда почему Лёва варит суп уже час? | Then why has Lyova been cooking soup for an hour already? | #80 "ты уже час готовишь" |  |
+| 7 | Шеф | Лёва, отвечай шефу быстро и чётко! | Lyova, answer the chef quickly and clearly! | #81 "Заснул, что ли" |  |
+| 8 | Елена | Так, официант принёс первый большой заказ. | Right, the waiter brought the first big order. | #87 "Заказ" |  |
+| 9 | Елена | Одна телятина, треска и свежий салат! | One veal, cod, and fresh salad! | #89 "Телятина по трюфельным соусам, одна треска" |  |
+| 10 | Шеф | Всем всё понятно? Начинайте готовить! | Is everything clear to everyone? Start cooking! | #91 "Всем все понятно" |  |
+| 11 | Елена | Я лично проверю каждое готовое блюдо. | I will personally check every finished dish. | #92 "Хорошо" |  |
+| 12 | Шеф | Не командуй слишком громко, Елена. | Don't boss around too loudly, Elena. | #85 "ну вы все сами слышали" |  |
+| 13 | Елена | Настоящий шеф всегда следит за качеством! | A true chef always watches over quality! | #85 "ну вы все сами слышали" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Attention everyone, in the kitchen is an important guest!' Barinov announces the arrival of their guest cook.
-- 'This is Chef Elena Pavlovna Sokolova.' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'chef', combining 'this' with 'chef' and 'Elena'.
-- 'Hello, dear chefs of the restaurant.' Elena addresses the gathered cooks with formal poise.
-- 'Today she works together with us.' Chef Barinov expresses this naturally by combining the word for 'today' with 'works' and 'together'.
-- 'I hope you know how to cook tasty and fast.' Elena chooses the imperfective verb meaning 'I hope' for the ongoing action, followed by 'know how to' and 'cook'.
-- 'My guys know how to do absolutely everything!' Viktor proudly defends the competence of his staff.
-- 'Then why has Lyova been cooking soup for an hour already?' The phrasing opens with 'then' before bringing in 'why' and 'is cooking' to make the point clear.
-- 'Lyova, answer the chef quickly and clearly!' Chef Barinov leads with the direct command form meaning 'answer', pairing it with 'quickly' and 'clearly'.
-- 'Right, the waiter brought the first big order.' Elena turns her attention to the incoming tickets.
-- 'One veal, cod, and fresh salad!' Russian omits the present-tense verb 'to be' here, linking 'one' directly with 'veal', combining 'one' with 'veal' and 'cod'.
-- 'Is everything clear to everyone? Start cooking!' Chef Barinov leads with the direct command form meaning 'start', pairing it with 'clear' and 'cooking'.
-- 'I will personally check every finished dish.' Elena expresses this naturally by combining the word for 'personally' with 'will check' and 'finished'.
-- 'Don't boss around too loudly, Elena.' Viktor pushes back against her commanding tone in his domain.
-- 'A true chef always watches over quality!' Elena stands firm on rigorous culinary standards.
+> That concludes our sixth scene. In Kukhnya, welcoming a rival head chef onto the pass instantly turns standard dinner service into a clash of culinary egos. See you next time!
+
+**Макс:** До встречи!

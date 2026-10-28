@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Nous allons éclaircir cette affaire ensemble. | We are going to clear up this matter together. | 833:reprendre le travail |
 
 ## Part 5 — Outro & Closing
-> Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings. When you watch the episode, listen out for the expressions meaning 'received' and 'messages'. You'll catch them now. See you next time.
+> Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings. When you watch the episode, listen out for the expressions meaning 'received' and 'messages'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

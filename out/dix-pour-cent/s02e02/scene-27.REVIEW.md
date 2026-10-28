@@ -30,5 +30,5 @@
 | 16 | `hicham` (Hicham) | Laisse ton ordinateur et tes dossiers. | Leave your computer and your files. | 920:Laisse tout ce qui appartient, 921:ordinateur, clients... tout. |
 
 ## Part 5 — Outro & Closing
-> Hicham has ruthlessly fired Andréa, asserting his complete authority as majority owner. Andréa faces exile from the agency she helped build. Until next time.
+> Hicham has ruthlessly fired Andréa, asserting his complete authority as majority owner. Andréa faces exile from the agency she helped build. See you next time!
 - **Closing**: `lea`: *Au revoir!*

@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Was that you yelling in there, or what?' The giant mechanic towers over the open elevator shaft.
 - 'Go on, darling, show him right now.' Amused, Vika nudges terrified Max forward.
 - 'Show how men solve problems.' She quotes Max's exact words from thirty seconds earlier.
-- 'Because I did not catch it the first time.' The idiom 'from the first time' uses the preposition 's' plus the genitive singular.
+- 'Because I did not catch it the first time.' Vika pairs 'first' with 'understood' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'I was just joking back then...' Max stammers and shrinks back into the corner of the elevator.
 - 'And what do I need such a man for?' Stepping out, Vika pretends to dump Max on the spot.
 - 'Now here is a real, strong man!' Vika flatters the burly mechanic to defuse his anger.

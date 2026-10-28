@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 10
-TITLE = 'Жареный лук и красный свет  (Fried Onion and a Red Light)'
+TITLE = "Жареный лук и красный свет  (Fried Onion and a Red Light)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = "Chef Barinov swallows the cockroach and tells the stunned journalist it was just crispy fried onion. Meanwhile, Nagiyev's chase stalls when his driver stops at a red light."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Thanks to the law-abiding driver stopping at the traffic light, Max and Vika manage to slip away to Max's apartment."
-CLOSING = ('anya', 'На красный свет нельзя.')
+OUTRO = "Thanks to the law-abiding driver stopping at the traffic light, Max and Vika manage to slip away to Max's apartment. See you next time!"
+CLOSING = ("anya", "Хорошего дня!")

@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Tu es un acteur formidable, José. | You are a wonderful actor, Jose. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around jose's shock. When you watch the episode, listen out for the expressions meaning 'hear' and 'to believe'. You'll catch them now. See you next time.
+> That's it for this scene around jose's shock. When you watch the episode, listen out for the expressions meaning 'hear' and 'to believe'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

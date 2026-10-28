@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Laissez-moi un peu de temps. | Give me a little time. | 932:je |
 
 ## Part 5 — Outro & Closing
-> Over warm coffee and croissants, Mathias lays his heart bare, begging Noemie to return to his side. When you watch the episode, listen out for the expressions meaning 'come in' and 'put down'. You'll catch them now. See you next time.
+> Over warm coffee and croissants, Mathias lays his heart bare, begging Noemie to return to his side. When you watch the episode, listen out for the expressions meaning 'come in' and 'put down'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *À bientôt!*

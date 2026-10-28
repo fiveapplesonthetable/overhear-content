@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Шеф, клянемся, мы как лучше хотели. | Chef, we swear we only meant well. | #262 00:18:46: Шеф, клянемся, мы как лучше хотели | verbatim |
+| 1 | Шеф | Шеф, клянемся, мы как лучше хотели. | Chef, we swear we only meant well. | #262 00:18:46: Шеф, клянемся, мы как лучше хотели | verbatim |
 | 2 | Вика | Мы вообще думали. | We actually thought. | #263 00:18:50: Мы вообще думали | verbatim |
-| 3 | Таня | Как вы. | Just like you. | #264 00:18:53: как вы | verbatim |
-| 4 | Аня | Вы совершенно правы. | You are completely right. | #265 00:18:58: вы совершенно правы | verbatim |
+| 3 | Шеф | Как вы. | Just like you. | #264 00:18:53: как вы | verbatim |
+| 4 | Шеф | Вы совершенно правы. | You are completely right. | #265 00:18:58: вы совершенно правы | verbatim |
 | 5 | Вика | Вы простите нас. | Please forgive us. | #266 00:19:01: вы простите нас | verbatim |
-| 6 | Таня | А в этот раз не подведем. | And this time we will not let you down. | #269 00:19:10: а в этот раз не подведем | verbatim |
-| 7 | Аня | Ну как вы могли подумать? | How could you even think such a thing? | #270 00:19:19: Ну как вы могли подумать | verbatim |
+| 6 | Шеф | А в этот раз не подведем. | And this time we will not let you down. | #269 00:19:10: а в этот раз не подведем | verbatim |
+| 7 | Шеф | Ну как вы могли подумать? | How could you even think such a thing? | #270 00:19:19: Ну как вы могли подумать | verbatim |
 | 8 | Вика | Ну, он был добрый. | Well, he was being so kind. | #271 00:19:22: Ну, он был добрый | verbatim |
-| 9 | Таня | Не пил. | He was not drinking. | #272 00:19:24: Не пил | verbatim |
-| 10 | Аня | Все, ладно, давайте, идите. | All right, that is enough, go on. | #274 00:19:30: Все, ладно, давайте, идите | verbatim |
+| 9 | Шеф | Не пил. | He was not drinking. | #272 00:19:24: Не пил | verbatim |
+| 10 | Шеф | Все, ладно, давайте, идите. | All right, that is enough, go on. | #274 00:19:30: Все, ладно, давайте, идите | verbatim |
 | 11 | Вика | А что нам теперь делать? | And what should we do now? | #275 00:19:32: А что нам теперь делать | verbatim |
-| 12 | Таня | Теперь ничего, вы уже достаточно сделали. | Nothing now, you have done plenty already. | #276 00:19:34: Теперь ничего, вы уже достаточно сделали | verbatim |
-| 13 | Аня | Идите, я ему позвоню. | Go on, I will call her for him. | #277 00:19:36: Идите, я ему позвоню | verbatim |
+| 12 | Шеф | Теперь ничего, вы уже достаточно сделали. | Nothing now, you have done plenty already. | #276 00:19:34: Теперь ничего, вы уже достаточно сделали | verbatim |
+| 13 | Шеф | Идите, я ему позвоню. | Go on, I will call her for him. | #277 00:19:36: Идите, я ему позвоню | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

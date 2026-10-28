@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Новый заказ: севрюга в белом вине. | New order: stellate sturgeon in white wine. | #138 00:10:09: Новый заказ | adapted: adapted |
+| 1 | Сеня | Новый заказ: севрюга в белом вине. | New order: stellate sturgeon in white wine. | #138 00:10:09: Новый заказ | adapted: adapted |
 | 2 | Сеня | Лёва, а где рыба? | Lyova, where is the fish? | #140 00:10:17: Лёва! А где рыба | adapted: adapted |
-| 3 | Аня | Ничего нет! | There is nothing here! | #141 00:10:28: Ничего нет | adapted: adapted |
+| 3 | Сеня | Ничего нет! | There is nothing here! | #141 00:10:28: Ничего нет | adapted: adapted |
 | 4 | Сеня | Я-то сразу виноват? | Am I immediately to blame? | #141 00:10:28: Я-то сразу виноват | adapted: adapted |
 | 5 | Сеня | Как будто, кроме меня, никто не ворует. | As if nobody steals except me. | #142 00:10:32: Как будто, кроме<br>#142 00:10:32: никто не ворует | adapted: adapted |
 | 6 | Сеня | Тогда я проведу собственное расследование и найду вора. | Then I will conduct my own investigation and find the thief. | #143 00:10:34: Тогда я проведу собственное расследование и найду вора | adapted: adapted |
 | 7 | Сеня | Пока что под подозрением каждый. | For now, everyone is under suspicion. | #144 00:10:39: Пока что под подозрением | adapted: adapted |
-| 8 | Аня | Как ты ещё родную дочь в психушку не отправила? | How have you not sent your own daughter to an asylum yet? | #145 00:10:44: Как ты еще родную дочь в психушку не | adapted: adapted |
-| 9 | Элеонора | Витя, заканчивай. | Vitya, stop it. | #146 00:10:47: Витя, заканчивай | adapted: adapted |
-| 10 | Элеонора | Он хороший специалист. | He is a good specialist. | #147 00:10:49: Он хороший специалист | adapted: adapted |
-| 11 | Элеонора | В своё время мне очень помог. | Back in the day he helped me a lot. | #147 00:10:49: В свое время мне очень помог | adapted: adapted |
-| 12 | Аня | Или ты лечению не поддаёшься, или он плохой специалист. | Either you do not respond to treatment, or he is a bad specialist. | #148 00:10:52: Или ты лечению не поддаешься, или он специалист | adapted: adapted |
+| 8 | Сеня | Как ты ещё родную дочь в психушку не отправила? | How have you not sent your own daughter to an asylum yet? | #145 00:10:44: Как ты еще родную дочь в психушку не | adapted: adapted |
+| 9 | Сеня | Витя, заканчивай. | Vitya, stop it. | #146 00:10:47: Витя, заканчивай | adapted: adapted |
+| 10 | Сеня | Он хороший специалист. | He is a good specialist. | #147 00:10:49: Он хороший специалист | adapted: adapted |
+| 11 | Сеня | В своё время мне очень помог. | Back in the day he helped me a lot. | #147 00:10:49: В свое время мне очень помог | adapted: adapted |
+| 12 | Сеня | Или ты лечению не поддаёшься, или он плохой специалист. | Either you do not respond to treatment, or he is a bad specialist. | #148 00:10:52: Или ты лечению не поддаешься, или он специалист | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

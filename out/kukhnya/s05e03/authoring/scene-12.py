@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e03-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 12
 TITLE = "Месть Нагиева и ловушка в номере  (Nagiyev's Revenge and the Suite Trap)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'mikhail': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "nagiyev": "angelina"}
+LABELS = {"mikhail": "Михаил", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = "Up in suite 313, Nagiyev catches a maintenance worker using his private bathroom, blames Chef Barinov, and takes revenge in Barinov's office—accidentally killing Barinov's pet fish Arkady! Listen to the scene."
@@ -22,11 +22,11 @@ STORY = [
     ('mikhail', 'Тебе ничего доверять нельзя.', 'You cannot be trusted with anything.', [(226, 'Тебе ничего доверять нельзя')], 'verbatim'),
     ('mikhail', 'У нас есть девушки лёгкого поведения?', 'Do we have girls of easy virtue?', [(227, 'У нас же есть девушки легкого поведения?')], 'adapted'),
     ('mikhail', 'Поднимись сейчас наверх в номер.', 'Go upstairs to the room right now.', [(230, 'поднимись')], 'adapted'),
-    ('anya', 'Ты что здесь у меня делаешь?', 'What are you doing here in my office?', [(231, 'Ты что здесь?')], 'adapted'),
+    ('mikhail', 'Ты что здесь у меня делаешь?', 'What are you doing here in my office?', [(231, 'Ты что здесь?')], 'adapted'),
     ('nagiyev', 'Знай, что это моя месть.', 'Know that this is my revenge.', [(233, 'месть')], 'adapted'),
     ('nagiyev', 'Это блюдо, которое подают холодным.', 'It is a dish that is served cold.', [(234, 'Это блюдо, которое подают холодным')], 'verbatim'),
     ('nagiyev', 'А я тебе его разогрел.', 'And I warmed it up for you.', [(234, 'а я тебе'), (234, 'разогрел')], 'adapted'),
-    ('anya', 'Ты что, убил моего Аркадия?!', 'Wait, did you kill my Arkady?!', [(235, 'Ты убил')], 'adapted'),
+    ('mikhail', 'Ты что, убил моего Аркадия?!', 'Wait, did you kill my Arkady?!', [(235, 'Ты убил')], 'adapted'),
     ('nagiyev', 'Питаюсь плохо, надо к врачу сходить.', 'I am eating poorly, I should go see a doctor.', [(236, 'Питаюсь, наверное, плохо, надо к врачу сходить')], 'adapted'),
 ]
 
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that sparks a new round of payback between Barinov and Nagiyev. Notice the proverb 'revenge is a dish served cold' twisted by Nagiyev. See you next time."
-CLOSING = ('anya', 'Нагиев мне за рыбку ещё ответит!')
+OUTRO = "And that sparks a new round of payback between Barinov and Nagiyev. Notice the proverb 'revenge is a dish served cold' twisted by Nagiyev. See you next time!"
+CLOSING = ("mikhail", "Всего хорошего!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e13-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 13
 SCENE = 7
-TITLE = 'На кухне пропадают люди  (People Disappearing in the Kitchen)'
+TITLE = "На кухне пропадают люди  (People Disappearing in the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Лёва', 'kostya': 'Костя', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ainura": "angelina", "kostya": "anja"}
+LABELS = {"ainura": "Айнура", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.13'
 SOURCE_FILE = 'sources/kukhnya/s05/e13.ru.srt'
 
 INTRO = "Lyova's absurd thriller fantasy escalates in the storage room as he locks away anyone who might look at Gulya, prompting Ainura to worry that people are mysteriously vanishing from the kitchen."
@@ -16,16 +16,16 @@ INTRO = "Lyova's absurd thriller fantasy escalates in the storage room as he loc
 STORY = [
     ('kostya', 'Лёва, тебе тут нужно помочь?', 'Lyova, do you need some help here?', [(86, 'помочь')], 'adapted'),
     ('kostya', 'Постой, за что ты меня бьёшь?', 'Wait, what are you hitting me for?', [(87, 'За что')], 'adapted'),
-    ('anya', 'Прости, Костя, но здесь Гуля работает.', 'Sorry, Kostya, but Gulya works here.', [(88, 'здесь Гуля работает')], 'adapted'),
-    ('anya', 'Мало ли что может случиться.', 'You never know what might happen.', [(89, 'Мало ли что')], 'adapted'),
+    ('ainura', 'Прости, Костя, но здесь Гуля работает.', 'Sorry, Kostya, but Gulya works here.', [(88, 'здесь Гуля работает')], 'adapted'),
+    ('ainura', 'Мало ли что может случиться.', 'You never know what might happen.', [(89, 'Мало ли что')], 'adapted'),
     ('ainura', 'Спасибо тебе за помощь, Лёва.', 'Thank you for your help, Lyova.', [(90, 'Спасибо, Лёва')], 'adapted'),
     ('ainura', 'Я никому об этом не расскажу.', 'I will not tell anyone about this.', [(91, 'Я никому не расскажу')], 'adapted'),
     ('ainura', 'Лёва, у нас плохие новости!', 'Lyova, we have bad news!', [(92, 'Лёва')], 'adapted'),
     ('ainura', 'На кухне люди начали вдруг пропадать.', 'People have suddenly started disappearing in the kitchen.', [(93, 'На кухне люди начали пропадать')], 'adapted'),
     ('ainura', 'Думаю, мне надо забрать Гулю.', 'I think I need to take Gulya away.', [(94, 'Думаю, Гулю надо забрать')], 'adapted'),
     ('ainura', 'Нам пора назад домой вернуться.', 'It is time for us to return back home.', [(95, 'Назад')], 'adapted'),
-    ('anya', 'Кто этим водителям права даёт?', "Who gives driver's licenses to these drivers?", [(97, 'Кто этим маньякам права дает')], 'adapted'),
-    ('anya', 'Гуля должна остаться здесь со мной.', 'Gulya must stay here with me.', [(94, 'Гулю надо')], 'adapted'),
+    ('ainura', 'Кто этим водителям права даёт?', "Who gives driver's licenses to these drivers?", [(97, 'Кто этим маньякам права дает')], 'adapted'),
+    ('ainura', 'Гуля должна остаться здесь со мной.', 'Gulya must stay here with me.', [(94, 'Гулю надо')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Lyova's over-the-top daydream reaches its climax as Gulya confronts him about the missing staff. See you in the next scene."
-CLOSING = ('ainura', 'Я никому не расскажу.')
+OUTRO = "Lyova's over-the-top daydream reaches its climax as Gulya confronts him about the missing staff. Until next time!"
+CLOSING = ("ainura", "До свидания!")

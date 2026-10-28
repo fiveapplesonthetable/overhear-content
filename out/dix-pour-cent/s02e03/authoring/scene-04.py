@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 4
-TITLE = "Matinée chez ASK  (Morning at ASK)"
-LEVEL = "A1 — débutant"
+TITLE = 'Matinée chez ASK  (Morning at ASK)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the ASK agency, the agents and assistants begin a busy morning. Camille approaches Mathias to ask him to meet her visiting mother Annick for lunch, putting Mathias in an awkward personal situation. Let's listen to the scene in French first."
 OPENER = "Let's examine how Camille convinces Mathias to have coffee with her mother."
 TRANSITION = "Now let's listen to Camille and Mathias's quiet discussion again at full speed."
-OUTRO = 'Mathias reluctantly agrees to a quick coffee with Annick, fearing that their shared past might be uncovered. Camille is relieved, though keeping their family connection secret remains a daily challenge. Join us next time to see what happens next.'
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = 'Mathias reluctantly agrees to a quick coffee with Annick, fearing that their shared past might be uncovered. Camille is relieved, though keeping their family connection secret remains a daily challenge. See you next time!'
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('camille', 'Mathias, bonjour, tu as une minute?', 'Mathias, hello, do you have a minute?', [(94, '-Bonjour.')], ''),
     ('mathias', 'Bonjour Camille, je suis très pressé.', 'Good morning Camille, I am in a hurry.', [(94, '-Bonjour.')], ''),

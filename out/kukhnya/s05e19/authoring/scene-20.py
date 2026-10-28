@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 20
-TITLE = 'Отзыв на сайте Мишлен  (The Review on the Michelin Website)'
+TITLE = "Отзыв на сайте Мишлен  (The Review on the Michelin Website)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = "The next morning, Lyova gathers the cooks around a tablet: the Michelin inspector left an official review praising Restaurant Victor for its unexpected take on classic French cuisine—Max's pâté!"
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While the kitchen celebrates Max's triumph in the Michelin guide, Chef Barinov faces an uncertain future. See you next time."
-CLOSING = ('lyova', 'Инспектор оставил отличный отзыв!')
+OUTRO = "While the kitchen celebrates Max's triumph in the Michelin guide, Chef Barinov faces an uncertain future. See you next time!"
+CLOSING = ("lyova", "Пока!")

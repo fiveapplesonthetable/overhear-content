@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e08-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 1
 TITLE = "Тайная гостья за столиком и интервью Елены  (The Mystery Guest at the Table and Elena's Interview)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = 'In the dining room, Nastya grows jealous when she sees a well-dressed woman smiling at Kostya behind the bar, only to march over and discover that the guest is her own mother, Svetlana. Meanwhile in the kitchen, Chef Barinov is furious when he sees a two-page magazine feature praising rival chef Elena.'
 
 STORY = [
-    ('anya', 'Пойдемте они вечером в кино.', 'Let us go to the movies together tonight.', [(1, 'Пойдемте они вечером в кино')], ''),
+    ('kostya', 'Пойдемте они вечером в кино.', 'Let us go to the movies together tonight.', [(1, 'Пойдемте они вечером в кино')], ''),
     ('nastya', 'Я бы так и сказала.', 'That is exactly what I would have said.', [(3, 'я бы так и сказала')], ''),
-    ('anya', 'Спина, Кость, пойдем в кино.', 'Behind your back, Kostya, let us go to the movies.', [(4, 'Спина, Кость, пойдем в кино')], ''),
+    ('kostya', 'Спина, Кость, пойдем в кино.', 'Behind your back, Kostya, let us go to the movies.', [(4, 'Спина, Кость, пойдем в кино')], ''),
     ('nastya', 'Настя, я вообще-то верность тебе храню.', 'Nastya, I am actually staying completely faithful to you.', [(5, 'Настя, я вообще-то верность тебе храню')], ''),
-    ('anya', 'Она глазки мне строит.', 'She keeps making eyes at me.', [(6, 'она глазки мне строит')], ''),
+    ('kostya', 'Она глазки мне строит.', 'She keeps making eyes at me.', [(6, 'она глазки мне строит')], ''),
     ('nastya', 'А я не обращаю внимания.', 'And I am paying no attention to her at all.', [(7, 'А я не обращаю внимания')], ''),
-    ('anya', 'Сейчас я с ней поговорю.', 'I am going to go have a word with her right now.', [(8, 'Сейчас я с ней поговорю')], ''),
+    ('kostya', 'Сейчас я с ней поговорю.', 'I am going to go have a word with her right now.', [(8, 'Сейчас я с ней поговорю')], ''),
     ('nastya', 'Мам, что ты здесь делаешь?', 'Mom, what are you doing here?', [(9, 'Мам, что ты здесь делаешь')], ''),
-    ('anya', 'Не, ведь ты видел это, а?', 'No, Vitya, have you seen this, huh?', [(10, 'Не, ведь ты видел это, а')], ''),
+    ('kostya', 'Не, ведь ты видел это, а?', 'No, Vitya, have you seen this, huh?', [(10, 'Не, ведь ты видел это, а')], ''),
     ('nastya', 'Еще интервью на две страницы.', 'A two-page interview on top of that.', [(13, 'Еще интервью на две страницы')], ''),
-    ('anya', 'Почему она, а не ты?', 'Why did they pick her instead of you?', [(14, 'Почему она, а не ты')], ''),
+    ('kostya', 'Почему она, а не ты?', 'Why did they pick her instead of you?', [(14, 'Почему она, а не ты')], ''),
     ('nastya', 'В этом вопросе тебе полностью верю.', 'On that question I trust you completely.', [(16, 'В этом вопросе тебе полностью верю')], ''),
-    ('anya', 'Пока кто-то тут сидит и умничает.', 'While somebody sits around here acting smart.', [(18, 'Пока кто-то тут сидит и умничает')], ''),
+    ('kostya', 'Пока кто-то тут сидит и умничает.', 'While somebody sits around here acting smart.', [(18, 'Пока кто-то тут сидит и умничает')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 1 of Episode 8, listen out for the exchange around the mystery guest at the table and elena's interview — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Почему она, а не ты?')
+OUTRO = "That wraps up this scene as nastya thinks an older woman in the dining room is flirting with Kostya until she realizes it is her own mother, while Chef Barinov fumes over Elena's two-page magazine interview. Until next time!"
+CLOSING = ("kostya", "Пока!")

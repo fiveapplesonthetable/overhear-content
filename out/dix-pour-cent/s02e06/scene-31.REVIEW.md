@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Oui, nous restons toujours ensemble! | Yes, we are always staying together! | 911:On reste soudés, d'accord |
 
 ## Part 5 — Outro & Closing
-> As Andréa shares her life-changing secret with Gabriel, Hicham reveals his grand international ambitions before everyone dives into the pool together. Until next time.
+> As Andréa shares her life-changing secret with Gabriel, Hicham reveals his grand international ambitions before everyone dives into the pool together. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Приятного аппетита. | Enjoy your meal. | #239 00:15:22: Приятного аппетита | verbatim |
+| 1 | Шеф | Приятного аппетита. | Enjoy your meal. | #239 00:15:22: Приятного аппетита | verbatim |
 | 2 | Вика | Где все официанты? | Where are all the other waitresses? | #241 00:15:27: Где все официанты | verbatim |
-| 3 | Аня | Кроме меня никого нет. | There is nobody here except me. | #242 00:15:30: Кроме меня никого нет | verbatim |
+| 3 | Шеф | Кроме меня никого нет. | There is nobody here except me. | #242 00:15:30: Кроме меня никого нет | verbatim |
 | 4 | Вика | Что это за бред-то, а? | What kind of nonsense is this, huh? | #244 00:15:38: Что это за бред-то, а | verbatim |
-| 5 | Аня | А что мы можем-то? | Well, what can we possibly do about it? | #245 00:15:41: А что мы можем-то | verbatim |
+| 5 | Шеф | А что мы можем-то? | Well, what can we possibly do about it? | #245 00:15:41: А что мы можем-то | verbatim |
 | 6 | Вика | Знаешь, что можем? | Do you know what we can do? | #246 00:15:43: Знаешь, что можем | verbatim |
-| 7 | Аня | Кто что может. | Everyone does whatever they can. | #247 00:15:46: кто что может | verbatim |
+| 7 | Шеф | Кто что может. | Everyone does whatever they can. | #247 00:15:46: кто что может | verbatim |
 | 8 | Вика | А вы, пожалуйста, терпите, что хотите делать. | And you, please, just endure it and do whatever you want. | #249 00:15:51: А вы, пожалуйста, терпите, что хотите делать | verbatim |
-| 9 | Аня | Ну что нам будет-то? | What is going to happen to us anyway? | #250 00:15:57: Ну что нам будет-то | verbatim |
+| 9 | Шеф | Ну что нам будет-то? | What is going to happen to us anyway? | #250 00:15:57: Ну что нам будет-то | verbatim |
 | 10 | Вика | Ну, договорились? | So, do we have a deal? | #251 00:15:59: Ну, договорились | verbatim |
-| 11 | Аня | Не твое дело. | That is none of your business. | #254 00:16:14: Не твое дело | verbatim |
+| 11 | Шеф | Не твое дело. | That is none of your business. | #254 00:16:14: Не твое дело | verbatim |
 | 12 | Вика | Ты чувствуешь этот запах? | Do you smell that scent in the air? | #257 00:16:24: Ты чувствуешь этот запах | verbatim |
-| 13 | Аня | Это сладкий запах нашей победы. | That is the sweet smell of our victory. | #258 00:16:27: Это сладкий запах нашей победы | verbatim |
+| 13 | Шеф | Это сладкий запах нашей победы. | That is the sweet smell of our victory. | #258 00:16:27: Это сладкий запах нашей победы | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

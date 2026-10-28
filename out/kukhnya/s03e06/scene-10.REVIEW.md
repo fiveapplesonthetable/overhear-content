@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I propose that we part ways peacefully.' The meaning hinges on 'suggest' working together with 'part ways' in spoken Russian.
 - 'Hello, do you wish for anything right now?' Max raises the pitch on 'wish' to turn the phrase into a direct spoken question. Dmitry Nagiyev answers right away.
 - 'We wish never to see you here again.' The meaning hinges on 'wish' working together with 'never' in spoken Russian.
-- 'Maxim, you are fired, go home.' In Russian, the idea of 'you' flows naturally into 'home' without extra filler words.
+- 'Maxim, you are fired, go home.' Here Nagiyev anchors the thought on 'fired' and finishes on 'home', keeping the spoken rhythm brisk and natural.
 - 'I do not want to upset you, but Maxim is not fired.' The meaning hinges on 'not' working together with 'fired' in spoken Russian.
 - 'Well then I am taking him back.' In Russian, the idea of 'come on' flows naturally into 'back' without extra filler words.
 - 'Maxim, congratulations, you are hired again.' The grammar packs 'congratulations' and 'hired' into a tight, idiomatic kitchen exchange.
-- 'Do not hurry to smile so soon.' Notice the reflexive suffix on the verb meaning 'smile', turning the action back on the subject.
+- 'Do not hurry to smile so soon.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'For two months you will work for free.' Here the Russian phrasing highlights 'two' before landing on 'for free'.
 - 'One more rude insult like that.' Kristina brings out the contrast between 'else' and 'one' in a few short words.
 - 'Hello, our lawyer just died.' Kristina anchors the line on 'hello', while 'died' completes the thought.

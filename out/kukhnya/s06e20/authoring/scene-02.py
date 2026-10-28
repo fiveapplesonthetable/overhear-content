@@ -1,27 +1,27 @@
 ID = 'kukhnya-s06e20-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 2
-TITLE = 'Инспектор из Парижа  (The Inspector from Paris)'
+TITLE = "Инспектор из Парижа  (The Inspector from Paris)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'inspector': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "inspector": "angelina"}
+LABELS = {"mikhail": "Михаил", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = 'After forcing the guest to pay, Barinov and Mikhail Jekovich read his card: he is Patrick Malouda, the feared chief Michelin inspector from Paris! When Malouda enters the kitchen asking who the head chef is, Mikhail points to a man in a wheelchair.'
 
 STORY = [
-    ('anya', 'Он что, всё-таки заплатил деньги?', 'Wait, did he pay the money after all?', [(14, 'Он что, заплатит')], 'adapted'),
+    ('mikhail', 'Он что, всё-таки заплатил деньги?', 'Wait, did he pay the money after all?', [(14, 'Он что, заплатит')], 'adapted'),
     ('mikhail', 'Да, он заплатил, конечно.', 'Yes, he paid, of course.', [(15, 'он заплатит, конечно')], 'adapted'),
     ('mikhail', 'Ведь этот гость у нас иностранец.', 'After all, this guest of ours is a foreigner.', [(16, 'иностранец')], 'adapted'),
     ('mikhail', 'Он вам вот это передал.', 'He passed this along to you.', [(17, 'Он вам это вот передал')], 'adapted'),
     ('mikhail', 'Это инспектор Мишлен из Парижа!', 'This is a Michelin inspector from Paris!', [(20, 'Инспектор Мишлен из Парижа')], 'adapted'),
-    ('anya', 'Он их самый главный инспектор.', 'He is their very chief inspector.', [(22, 'главный инспектор')], 'adapted'),
-    ('anya', 'Он уже погубил много поваров.', 'He has already ruined many chefs.', [(24, 'Он погубил')], 'adapted'),
-    ('anya', 'Почему со мной это происходит?', 'Why is this happening to me?', [(25, 'со мной все это происходит')], 'adapted'),
+    ('mikhail', 'Он их самый главный инспектор.', 'He is their very chief inspector.', [(22, 'главный инспектор')], 'adapted'),
+    ('mikhail', 'Он уже погубил много поваров.', 'He has already ruined many chefs.', [(24, 'Он погубил')], 'adapted'),
+    ('mikhail', 'Почему со мной это происходит?', 'Why is this happening to me?', [(25, 'со мной все это происходит')], 'adapted'),
     ('mikhail', 'Вы только сейчас не нервничайте.', 'Just do not get nervous right now.', [(26, 'Вы только не нервничайте')], 'adapted'),
     ('inspector', 'Добрый день, кто здесь повар?', 'Good afternoon, who is the chef here?', [(28, 'Добрый день'), (30, 'Кто')], 'adapted'),
     ('mikhail', 'Вот он сидит перед вами.', 'Here he is sitting before you.', [(31, 'Вот он')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Thinking fast, Mikhail Jekovich points to a wheelchair-bound man to shield Viktor Petrovich from Malouda's wrath. See you in the next scene."
-CLOSING = ('mikhail', 'Елена Павловна просила вас беречь!')
+OUTRO = "Thinking fast, Mikhail Jekovich points to a wheelchair-bound man to shield Viktor Petrovich from Malouda's wrath. See you next time!"
+CLOSING = ("mikhail", "Всего хорошего!")

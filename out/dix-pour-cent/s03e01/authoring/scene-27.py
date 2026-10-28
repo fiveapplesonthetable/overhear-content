@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 27
-TITLE = "Le bilan annuel et le sursis  (Annual Review and Probation)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le bilan annuel et le sursis  (Annual Review and Probation)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In the ASK conference room, Hicham holds the agency's end-of-year review meeting. After complimenting the team, he drops a bombshell about Gabriel's future at the agency. Listen to the dramatic confrontation in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this intense confrontation in the agency meeting step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "After threatening to fire Gabriel for hiding his failures, Hicham agrees to keep him at ASK on the condition that Andrea supervises his work. When you watch the episode, listen out for the expressions meaning 'struggled' and 'canines'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "After threatening to fire Gabriel for hiding his failures, Hicham agrees to keep him at ASK on the condition that Andrea supervises his work. When you watch the episode, listen out for the expressions meaning 'struggled' and 'canines'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('hicham', 'Vous vous êtes tous battus comme des chiens.', 'You all fought like dogs.', [(1039, 'Vous vous êtes tous battus comme des chiens')], ''),
     ('hicham', "Andréa, c'est le pitbull.", 'Andrea, she is the pitbull.', [(1041, "Andrea, c'est le pitbull")], ''),

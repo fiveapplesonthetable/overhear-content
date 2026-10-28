@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Спасибо, я не голодна. | Thank you, I am not hungry. | #237 00:18:05: спасибо. Я после | adapted: adapted |
-| 2 | Аня | Я после шести не ем. | I do not eat after six. | #237 00:18:05: спасибо. Я после | adapted: adapted |
+| 1 | Катя | Спасибо, я не голодна. | Thank you, I am not hungry. | #237 00:18:05: спасибо. Я после | adapted: adapted |
+| 2 | Катя | Я после шести не ем. | I do not eat after six. | #237 00:18:05: спасибо. Я после | adapted: adapted |
 | 3 | Денис | Кать, ну прости. | Katya, please forgive me. | #238 00:18:09: Кать, ну прости | adapted: adapted |
 | 4 | Денис | У меня, правда, работы полно. | I really do have tons of work. | #239 00:18:12: У меня, правда | adapted: adapted |
 | 5 | Катя | Ладно, я тебя жду. | Alright, I am waiting for you. | #240 00:18:18: Ладно | adapted: adapted |

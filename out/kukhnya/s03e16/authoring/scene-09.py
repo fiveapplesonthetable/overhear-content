@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 9
 TITLE = "Спонсор холодца — полтергейст  (The Meat Jelly's Sponsor Is the Poltergeist)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "senya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "senya": "Сеня", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "Max begins working on 'Sauce Lavrov' for salmon, while Chef Barinov overhears Senya and Fedya bragging in the storage room about how the 'poltergeist' sponsored the pork hooves for Senya's homemade meat jelly! Listen to the Russian dialogue first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Now that Chef Barinov knows Senya and Fedya are the 'poltergeist,' he prepares a terrifying revenge for them! First, let's taste Max's new sauce in Scene Ten."
-CLOSING = ('senya', 'Спонсор холодца — полтергейст!')
+OUTRO = "Now that Chef Barinov knows Senya and Fedya are the 'poltergeist,' he prepares a terrifying revenge for them! First, let's taste Max's new sauce in Scene Ten. Until next time!"
+CLOSING = ("senya", "Увидимся!")

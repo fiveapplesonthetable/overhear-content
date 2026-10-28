@@ -1,30 +1,30 @@
 ID = 'kukhnya-s03e02-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 13
-TITLE = 'Работаем бесплатно  (Working for Free)'
+TITLE = "Работаем бесплатно  (Working for Free)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Нагиев', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = 'After hearing the whole story, Nagiyev declares that while actors can eat anything for big money, he ate it for free—so Katya, Senya, Fedya, and Barinov will all work a month without pay.'
 
 STORY = [
-    ('anya', 'Мы актёры.', 'We are actors.', [(187, 'Мы актеры')], ''),
-    ('anya', 'Можем съесть всё что угодно, но за большие деньги.', 'We can eat anything at all, but for big money.', [(188, 'все что угодно'), (188, 'но за большие деньги')], 'adapted'),
-    ('anya', 'За большие деньги!', 'For big money!', [(189, 'За большие деньги')], ''),
-    ('anya', 'Я бесплатно сегодня это кушал.', 'I ate this for free today.', [(190, 'Я бесплатно сегодня это кушал')], 'adapted'),
-    ('anya', 'Значит, ты, ты и ты в этом месяце работаете бесплатно.', 'So you, you, and you are working for free this month.', [(191, 'Значит, ты, ты и ты в этом месяце работаете бесплатно')], ''),
+    ('nagiyev', 'Мы актёры.', 'We are actors.', [(187, 'Мы актеры')], ''),
+    ('nagiyev', 'Можем съесть всё что угодно, но за большие деньги.', 'We can eat anything at all, but for big money.', [(188, 'все что угодно'), (188, 'но за большие деньги')], 'adapted'),
+    ('nagiyev', 'За большие деньги!', 'For big money!', [(189, 'За большие деньги')], ''),
+    ('nagiyev', 'Я бесплатно сегодня это кушал.', 'I ate this for free today.', [(190, 'Я бесплатно сегодня это кушал')], 'adapted'),
+    ('nagiyev', 'Значит, ты, ты и ты в этом месяце работаете бесплатно.', 'So you, you, and you are working for free this month.', [(191, 'Значит, ты, ты и ты в этом месяце работаете бесплатно')], ''),
     ('chef', 'Понятно.', 'Understood.', [(192, 'Понятно')], ''),
-    ('anya', 'Чуть не забыл. Ты тоже.', 'I almost forgot. You too.', [(193, 'Чуть не забыл'), (194, 'Ты тоже')], 'adapted'),
-    ('lyova', 'Представляешь, у них три су-шефа.', 'Can you imagine, they have three sous-chefs.', [(195, 'Представляешь, у них три су-шефа')], ''),
-    ('lyova', 'Около тысячи человек.', 'Around a thousand people.', [(196, 'около тысячи человек')], 'adapted'),
+    ('nagiyev', 'Чуть не забыл. Ты тоже.', 'I almost forgot. You too.', [(193, 'Чуть не забыл'), (194, 'Ты тоже')], 'adapted'),
+    ('nagiyev', 'Представляешь, у них три су-шефа.', 'Can you imagine, they have three sous-chefs.', [(195, 'Представляешь, у них три су-шефа')], ''),
+    ('nagiyev', 'Около тысячи человек.', 'Around a thousand people.', [(196, 'около тысячи человек')], 'adapted'),
     ('chef', 'Ты что хотел сказать? Нагиев оказал медвежью услугу.', 'What did you want to say? Nagiyev did us a disservice.', [(197, 'Ты что хотел сказать'), (198, 'оказал медвежью услугу')], 'adapted'),
-    ('lyova', 'Шеф! Вас к телефону!', 'Chef! Phone for you!', [(199, 'Шеф! Вас к телефону')], ''),
+    ('nagiyev', 'Шеф! Вас к телефону!', 'Chef! Phone for you!', [(199, 'Шеф! Вас к телефону')], ''),
     ('chef', 'Извини. Ну иди, иди.', 'Excuse me. Well go on, go.', [(200, 'Извини. Ну иди, иди')], ''),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Thirteen. Listen for Nagiyev's punchline adding Barinov himself to the list of people working for free this month."
-CLOSING = ('anya', 'В этом месяце работаете бесплатно!')
+OUTRO = "And that finishes Scene Thirteen. Listen for Nagiyev's punchline adding Barinov himself to the list of people working for free this month. Until next time!"
+CLOSING = ("nagiyev", "До свидания!")

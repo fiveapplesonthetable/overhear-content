@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 4
-TITLE = "Les écoles de théâtre  (Theater Schools)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les écoles de théâtre  (Theater Schools)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the ASK agency, junior agent Camille and assistant Herve discuss scouting new acting talent. As they divide up student showcases across Parisian theater schools, Camille refuses to travel to the distant twentieth arrondissement. Let's listen to the scene in French first."
 OPENER = "Let's examine how Camille and Herve divide their talent scouting duties step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around theater schools. When you watch the episode, listen out for the expressions meaning 'to work' and 'screenwriters'. You'll catch them now. See you next time."
-CLOSING = ("herve", "Au revoir!")
+OUTRO = "That's it for this scene around theater schools. When you watch the episode, listen out for the expressions meaning 'to work' and 'screenwriters'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('camille', 'Travailler avec des scénaristes est formidable.', 'Working with screenwriters is wonderful.', [(191, "C'est génial pour nous.")], ''),
     ('herve', 'Ils sont plus faciles à gérer que les acteurs!', 'They are easier to manage than actors!', [(194, 'vachement plus faciles à gérer que les acteurs.')], ''),

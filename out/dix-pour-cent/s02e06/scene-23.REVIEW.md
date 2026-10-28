@@ -27,5 +27,5 @@
 | 13 | `juliette` (Juliette) | À tout à l'heure, cher ami! | See you later, dear friend! | 637:À tout à l'heure |
 
 ## Part 5 — Outro & Closing
-> Juliette Binoche masterfully defuses an uncomfortable confrontation with humor and sharp presence of mind. Until next time! Until next time.
+> Juliette Binoche masterfully defuses an uncomfortable confrontation with humor and sharp presence of mind. See you next time!
 - **Closing**: `juliette`: *Au revoir!*

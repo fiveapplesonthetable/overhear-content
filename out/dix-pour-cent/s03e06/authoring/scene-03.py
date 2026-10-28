@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 3
 TITLE = "L'autre Isabelle  (The Other Isabelle)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "arlette": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'arlette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Behind closed doors, Andrea, Gabriel, and Arlette brainstorm frantically to neutralize the American studio's lawsuit. Determined to break Mathias's leverage before he announces his takeover, Andrea conceives an audacious scheme: finding a namesake to claim she played the disputed role. When Arlette suggests casting the stranger as a ghost, an eccentric plan is born. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea, Gabriel, and Arlette plan an audacious counter-offensive."
 TRANSITION = "Now let's listen to the trio elaborating their scheme again at full speed."
-OUTRO = "Armed with an eccentric yet ingenious plan, Andrea and Gabriel rush to film the mock scene before the party begins. When you watch the episode, listen out for the expressions meaning 'account' and 'to resolve'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Armed with an eccentric yet ingenious plan, Andrea and Gabriel rush to film the mock scene before the party begins. When you watch the episode, listen out for the expressions meaning 'account' and 'to resolve'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Mathias compte résoudre cette crise seul.', 'Mathias intends to resolve this crisis alone.', [(231, 'résoudre le Huppergate')], ''),
     ('lea', 'Nous devons contrer les Américains avant lui.', 'We must counter the Americans before him.', [(232, 'contrer les Américains avant lui')], ''),

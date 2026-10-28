@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e09-scene-13"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-13'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 13
-TITLE = 'Разбитая бутылка и шантаж  (The Broken Bottle and Blackmail)'
+TITLE = "Разбитая бутылка и шантаж  (The Broken Bottle and Blackmail)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'Back in the kitchen, Max confronts Kostya and learns that Kristina intentionally smashed an expensive bottle of wine and blamed Kostya for it. When Max admits that Kristina will fire Kostya unless Max sleeps with her, Nastya overhears the whole conversation.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 13 of Episode 9, listen out for the exchange around the broken bottle and blackmail — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'С Кристиной?')
+OUTRO = 'That wraps up this scene as max confronts Kostya in the kitchen about the shattered bottle of expensive wine and reveals that Kristina is blackmailing him into sleeping with her. Until next time!'
+CLOSING = ("anya", "Хорошего дня!")

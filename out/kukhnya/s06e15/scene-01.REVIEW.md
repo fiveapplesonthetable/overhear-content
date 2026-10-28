@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Спокойной тебе ночи и сладких снов. | Good night to you and sweet dreams. | #1 00:00:08: Спокойной ночи | adapted: adapted |
+| 1 | Денис | Спокойной тебе ночи и сладких снов. | Good night to you and sweet dreams. | #1 00:00:08: Спокойной ночи | adapted: adapted |
 | 2 | Катя | Сейчас всё выглядит очень некрасиво. | Right now everything looks very bad. | #2 00:00:39: Все сейчас выглядит именно так | adapted: adapted |
 | 3 | Катя | Поэтому мы должны всё честно рассказать. | Therefore we must tell everything honestly. | #3 00:00:41: мы все должны рассказать | adapted: adapted |
 | 4 | Катя | Ты скажешь Свете, а я Никите. | You will tell Sveta, and I will tell Nikita. | #4 00:00:43: Свете, а я Никите | adapted: adapted |
 | 5 | Катя | Нам пора наконец перестать так прятаться. | It is time for us to finally stop hiding like this. | #4 00:00:43: перестать прятаться | adapted: adapted |
-| 6 | Аня | Я только за такое хорошее решение. | I am all for such a good decision. | #5 00:00:46: Я только за | adapted: adapted |
-| 7 | Света | Денис, скорее, мы в кино опаздываем! | Denis, hurry, we are running late for the cinema! | #6 00:00:50: мы в кино опаздываем | adapted: adapted |
-| 8 | Света | Катя, а ты уже совсем готова? | Katya, are you completely ready already? | #8 00:00:54: ты готова | adapted: adapted |
-| 9 | Света | А вы не пойдёте с нами? | Are you not coming with us? | #9 00:00:56: с нами в кино | adapted: adapted |
+| 6 | Денис | Я только за такое хорошее решение. | I am all for such a good decision. | #5 00:00:46: Я только за | adapted: adapted |
+| 7 | Катя | Денис, скорее, мы в кино опаздываем! | Denis, hurry, we are running late for the cinema! | #6 00:00:50: мы в кино опаздываем | adapted: adapted |
+| 8 | Катя | Катя, а ты уже совсем готова? | Katya, are you completely ready already? | #8 00:00:54: ты готова | adapted: adapted |
+| 9 | Катя | А вы не пойдёте с нами? | Are you not coming with us? | #9 00:00:56: с нами в кино | adapted: adapted |
 | 10 | Катя | Ну, в принципе, можно и пойти. | Well, in principle, we can go. | #10 00:00:59: Ну, можно | adapted: adapted |
-| 11 | Света | Пойдём, мы вас на улице подождём. | Let us go, we will wait for you outside. | #11 00:01:02: Мы вас на улице подождем | adapted: adapted |
-| 12 | Аня | Ладно, тогда уже завтра всё расскажем. | Alright, then we will tell everything tomorrow. | #13 00:01:09: тогда уже завтра расскажем | adapted: adapted |
+| 11 | Катя | Пойдём, мы вас на улице подождём. | Let us go, we will wait for you outside. | #11 00:01:02: Мы вас на улице подождем | adapted: adapted |
+| 12 | Денис | Ладно, тогда уже завтра всё расскажем. | Alright, then we will tell everything tomorrow. | #13 00:01:09: тогда уже завтра расскажем | adapted: adapted |
 | 13 | Катя | Конечно, ведь сегодня мы идём в кино. | Of course, since today we are going to the cinema. | #14 00:01:11: Сегодня же кино | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

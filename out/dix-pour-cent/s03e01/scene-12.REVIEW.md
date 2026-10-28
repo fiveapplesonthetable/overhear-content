@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Tu dois redevenir un acteur maintenant. | You must become an actor again now. | 296:je suis passé à l'agence. |
 
 ## Part 5 — Outro & Closing
-> Andrea tracks down Jean Dujardin camping outside in his garden. When you watch the episode, listen out for the expressions meaning 'was necessary' and 'travel'. You'll catch them now. See you next time.
+> Andrea tracks down Jean Dujardin camping outside in his garden. When you watch the episode, listen out for the expressions meaning 'was necessary' and 'travel'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

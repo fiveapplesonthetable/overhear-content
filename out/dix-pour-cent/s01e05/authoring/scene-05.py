@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 5
 TITLE = "Je ne peux pas jouer comme ça!  (I Can't Act Like This!)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "joey": "marcel", "samir": "theo", "julie": "emilie"}
-LABELS = {"joey": "JoeyStarr", "samir": "Samir", "julie": "Julie"}
+VOICES = {'narrator': 'sky', 'joey': 'marcel', 'samir': 'theo', 'julie': 'emilie'}
+LABELS = {'joey': 'JoeyStarr', 'samir': 'Samir', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At the coffee table, JoeyStarr has just helped Sofia rehearse her two lines and calmed her stage fright. Now JoeyStarr is back on the chateau set with Julie Gayet to shoot a passionate eighteenth-century declaration of love, but he keeps stumbling over his lines. We'll hear the scene in French first; don't worry about catching every word."
 OPENER = "Let's walk through it. Out in the chateau park, JoeyStarr stumbles over his lines yet again."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So Julie has locked herself in her dressing room, JoeyStarr is furious outside, and Andréa and Gabriel have walked straight into the storm. Listen out for the opposite verbs meaning 'to leave' and 'to stay'. See you next time."
-CLOSING = ("julie", "Au revoir!")
+OUTRO = "So Julie has locked herself in her dressing room, JoeyStarr is furious outside, and Andréa and Gabriel have walked straight into the storm. Listen out for the opposite verbs meaning 'to leave' and 'to stay'. See you next time!"
+CLOSING = ('julie', 'Au revoir!')
 STORY = [
     ('joey', 'Oh non! Pardon!', 'Oh no! Sorry!', [], ''),
     ('joey', 'Madame, je sais que notre amour est mille fois interdit.', 'Madam, I know that our love is forbidden a thousand times over.', [(91, 'Madame, je sais que notre amour est mille fois interdit.')], ''),

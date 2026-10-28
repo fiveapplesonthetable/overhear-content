@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я хотел вечером с тобой поговорить наедине. | I wanted to talk with you alone this evening. | #171 00:12:47: вечером с тобой поговорить наедине | adapted: adapted |
+| 1 | Никита | Я хотел вечером с тобой поговорить наедине. | I wanted to talk with you alone this evening. | #171 00:12:47: вечером с тобой поговорить наедине | adapted: adapted |
 | 2 | Катя | Хорошо, тогда увидимся до вечера. | Alright, then see you this evening. | #172 00:12:52: Тогда до вечера | adapted: adapted |
-| 3 | Денис | Здесь всё сегодня будет происходить? | Is everything going to happen right here today? | #173 00:13:14: Здесь, да, все будет происходить | adapted: adapted |
-| 4 | Аня | Да, а ты уже бывал тут? | Yes, have you been here before? | #174 00:13:17: Да. Бывал тут | adapted: adapted |
-| 5 | Денис | Да, это очень знакомое место. | Yes, this is a very familiar place. | #175 00:13:19: Да, знакомое место | adapted: adapted |
-| 6 | Денис | А ты что, здесь в отеле живёшь? | Do you live here in the hotel? | #176 00:13:20: А ты что, здесь живешь | adapted: adapted |
-| 7 | Аня | Да нет, я здесь официантом работаю. | Well no, I work here as a waiter. | #176 00:13:20: Да нет, ты что, я здесь официантом работаю | adapted: adapted |
-| 8 | Денис | Понятно, значит, для девушки стараешься. | I see, so you are doing this for a girl. | #177 00:13:24: Ну да | adapted: adapted |
-| 9 | Аня | Слушай, ты постой тут пять минут. | Listen, stand right here for five minutes. | #178 00:13:26: Слушай, ты постой пять минут | adapted: adapted |
-| 10 | Аня | Я сейчас тебе деньги вынесу. | I will bring the money out to you right now. | #178 00:13:26: я сейчас деньги вынесу | adapted: adapted |
-| 11 | Денис | Хорошо, я подожду тебя у машины. | Alright, I will wait for you by the car. | #178 00:13:26: постой пять минут | adapted: adapted |
-| 12 | Аня | Никуда отсюда не уходи. | Do not go anywhere from here. | #178 00:13:26: я сейчас деньги вынесу | adapted: adapted |
+| 3 | Никита | Здесь всё сегодня будет происходить? | Is everything going to happen right here today? | #173 00:13:14: Здесь, да, все будет происходить | adapted: adapted |
+| 4 | Никита | Да, а ты уже бывал тут? | Yes, have you been here before? | #174 00:13:17: Да. Бывал тут | adapted: adapted |
+| 5 | Никита | Да, это очень знакомое место. | Yes, this is a very familiar place. | #175 00:13:19: Да, знакомое место | adapted: adapted |
+| 6 | Никита | А ты что, здесь в отеле живёшь? | Do you live here in the hotel? | #176 00:13:20: А ты что, здесь живешь | adapted: adapted |
+| 7 | Никита | Да нет, я здесь официантом работаю. | Well no, I work here as a waiter. | #176 00:13:20: Да нет, ты что, я здесь официантом работаю | adapted: adapted |
+| 8 | Никита | Понятно, значит, для девушки стараешься. | I see, so you are doing this for a girl. | #177 00:13:24: Ну да | adapted: adapted |
+| 9 | Никита | Слушай, ты постой тут пять минут. | Listen, stand right here for five minutes. | #178 00:13:26: Слушай, ты постой пять минут | adapted: adapted |
+| 10 | Никита | Я сейчас тебе деньги вынесу. | I will bring the money out to you right now. | #178 00:13:26: я сейчас деньги вынесу | adapted: adapted |
+| 11 | Никита | Хорошо, я подожду тебя у машины. | Alright, I will wait for you by the car. | #178 00:13:26: постой пять минут | adapted: adapted |
+| 12 | Никита | Никуда отсюда не уходи. | Do not go anywhere from here. | #178 00:13:26: я сейчас деньги вынесу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

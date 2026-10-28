@@ -31,5 +31,5 @@
 | 17 | `lea` (Andréa) | Tu aimes le poulet, Camille? | Do you like chicken, Camille? | 472:Tu aimes le poulet, Camille |
 
 ## Part 5 — Outro & Closing
-> Poor Camille is trapped for dinner, and of course Mathias is going to come home early. We'll see what happens at the table soon. See you next time.
+> Poor Camille is trapped for dinner, and of course Mathias is going to come home early. We'll see what happens at the table soon. See you next time!
 - **Closing**: `camille`: *Bonne soirée!*

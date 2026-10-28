@@ -27,5 +27,5 @@
 | 13 | `guy` (Guy) | À côté de Pialat, c'est une partie de plaisir! | Compared to Pialat, this is a walk in the park! | 404:J'ai survécu à une mise en scène de Pialat, 405:c'est une partie de plaisir |
 
 ## Part 5 — Outro & Closing
-> Despite his recent memory lapse, Guy Marchand makes it clear that he will not give up his role in the film. Join us next time to see what happens next.
+> Despite his recent memory lapse, Guy Marchand makes it clear that he will not give up his role in the film. See you next time!
 - **Closing**: `guy`: *Au revoir!*

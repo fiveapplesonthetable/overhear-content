@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I would hang out with you even without money.' The meaning hinges on 'I' working together with 'chatted' in spoken Russian.
 - 'Thank you very much for the kind words.' The grammar packs 'very much' and 'words' into a tight, idiomatic kitchen exchange.
 - 'We hope that tomorrow will be better.' Notice how Russian expresses 'to hope' and 'better' with crisp inflection rather than helper words.
-- 'Did you do everything the way we agreed?' In Russian, the idea of 'you' flows naturally into 'agreed' without extra filler words.
+- 'Did you do everything the way we agreed?' In everyday Russian, 'made' flows straight into 'agreed, arranged' without extra linking words.

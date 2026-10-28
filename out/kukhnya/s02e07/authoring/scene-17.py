@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e07-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 17
 TITLE = "Ревность Насти к новому другу  (Nastya's Jealousy Over the New Friend)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = 'Pulling Kostya aside in the hallway, Nastya is furious that he wants to go out drinking at karaoke with a homeless man instead of staying home with her. When Kostya defends Rodion as their new friend, an exasperated Nastya marches back into the kitchen and tells Rodion Sergeyevich that he has to leave.'
 
 STORY = [
-    ('anya', 'Мы едем в караоке.', 'We are going to karaoke.', [(266, 'Мы едем в караоке')], ''),
+    ('kostya', 'Мы едем в караоке.', 'We are going to karaoke.', [(266, 'Мы едем в караоке')], ''),
     ('nastya', 'Что ты смотришь на меня?', 'Why are you looking at me like that?', [(267, 'Что ты смотришь на меня')], ''),
-    ('rodion', 'Кстати, я был неправ.', 'By the way, I was wrong about him.', [(268, 'Кстати, я был неправ')], ''),
-    ('anya', 'Родион Сергеевич?', 'About Rodion Sergeyevich?', [(269, 'Родион Сергеевич')], ''),
+    ('kostya', 'Кстати, я был неправ.', 'By the way, I was wrong about him.', [(268, 'Кстати, я был неправ')], ''),
+    ('kostya', 'Родион Сергеевич?', 'About Rodion Sergeyevich?', [(269, 'Родион Сергеевич')], ''),
     ('nastya', 'И он наш друг теперь.', 'And now he is our friend.', [(270, 'И он наш друг теперь')], ''),
-    ('rodion', 'С каких пор?', 'Since when?', [(271, 'С каких пор')], ''),
-    ('anya', 'Костя, как ты будешь с ним дружить?', 'Kostya, how can you be friends with him?', [(272, 'Костя, как ты будешь с ним дружить')], ''),
+    ('kostya', 'С каких пор?', 'Since when?', [(271, 'С каких пор')], ''),
+    ('kostya', 'Костя, как ты будешь с ним дружить?', 'Kostya, how can you be friends with him?', [(272, 'Костя, как ты будешь с ним дружить')], ''),
     ('nastya', 'Ну, как бы...', 'Well, he is kind of...', [(273, 'Ну, как бы')], ''),
-    ('rodion', 'Как бы бомж.', 'Kind of homeless.', [(274, 'как бы бомж')], ''),
-    ('anya', 'Настя, я тебя умоляю.', 'Nastya, I beg of you.', [(275, 'Настя, я тебя умоляю')], ''),
+    ('kostya', 'Как бы бомж.', 'Kind of homeless.', [(274, 'как бы бомж')], ''),
+    ('kostya', 'Настя, я тебя умоляю.', 'Nastya, I beg of you.', [(275, 'Настя, я тебя умоляю')], ''),
     ('nastya', 'У каждого, Настенька, свои недостатки.', 'Everyone has their own little flaws, Nastenka.', [(276, 'У каждого, Настенька, свои недостатки')], ''),
-    ('rodion', 'Я тоже его знаю.', 'I know him too.', [(281, 'Я тоже его знаю')], ''),
-    ('anya', 'Родион Сергеевич, вам лучше уйти.', 'Rodion Sergeyevich, it would be best for you to leave.', [(282, 'Родион Сергеевич, вам лучше уйти')], ''),
+    ('kostya', 'Я тоже его знаю.', 'I know him too.', [(281, 'Я тоже его знаю')], ''),
+    ('kostya', 'Родион Сергеевич, вам лучше уйти.', 'Rodion Sergeyevich, it would be best for you to leave.', [(282, 'Родион Сергеевич, вам лучше уйти')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 17 of Episode 7, listen out for the exchange around nastya's jealousy over the new friend — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Родион Сергеевич, вам лучше уйти.')
+OUTRO = 'That wraps up this scene as upset that Kostya wants to go partying at karaoke with Rodion instead of spending the evening with her, Nastya reverses course and tells Rodion it is time for him to leave. Until next time!'
+CLOSING = ("kostya", "До встречи!")

@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Дима, тебе бы поехать домой. | Dima, you should go home. | #238 00:17:35: поехать домой | adapted: adapted |
-| 2 | Аня | Я и так у себя дома. | I am already at home. | #241 00:17:42: Я и так у себя дома | verbatim |
+| 2 | Нагиев | Я и так у себя дома. | I am already at home. | #241 00:17:42: Я и так у себя дома | verbatim |
 | 3 | Шеф | Дима, ну неудобно. С тобой уже полресторана рядом. | Dima, it's awkward. Half the restaurant has already been by you. | #242 00:17:44: ну неудобно<br>#243 00:17:46: С тобой уже | adapted: adapted |
 | 4 | Шеф | Со спящим. | While you were sleeping. | #244 00:17:48: Со спящим | verbatim |
-| 5 | Аня | Ничего страшного. Я простой парень из народа. | No big deal. I am a simple guy from the people. | #244 00:17:48: Ничего страшного<br>#245 00:17:52: Я простой парень из народа | adapted: adapted |
-| 6 | Аня | Я помню свои корни. | I remember my roots. | #246 00:17:53: Я помню свои корни | verbatim |
-| 7 | Аня | А где мой завтрак? Вот мой завтрак! | And where is my breakfast? Here is my breakfast! | #247 00:17:55: А где мой<br>#247 00:17:55: Вот мой | adapted: adapted |
-| 8 | Аня | Парень некрасивый, иди работай. | Unattractive guy, go work. | #248 00:17:59: Парень некрасивый | adapted: adapted |
-| 9 | Аня | Вкусно ведь! Попробуй. | It is delicious, after all! Try it. | #250 00:18:20: вкусно ведь<br>#251 00:18:22: Попробуй | adapted: adapted |
-| 10 | Аня | Лизни! | Lick it! | #252 00:18:24: Лизни | verbatim |
+| 5 | Нагиев | Ничего страшного. Я простой парень из народа. | No big deal. I am a simple guy from the people. | #244 00:17:48: Ничего страшного<br>#245 00:17:52: Я простой парень из народа | adapted: adapted |
+| 6 | Нагиев | Я помню свои корни. | I remember my roots. | #246 00:17:53: Я помню свои корни | verbatim |
+| 7 | Нагиев | А где мой завтрак? Вот мой завтрак! | And where is my breakfast? Here is my breakfast! | #247 00:17:55: А где мой<br>#247 00:17:55: Вот мой | adapted: adapted |
+| 8 | Нагиев | Парень некрасивый, иди работай. | Unattractive guy, go work. | #248 00:17:59: Парень некрасивый | adapted: adapted |
+| 9 | Нагиев | Вкусно ведь! Попробуй. | It is delicious, after all! Try it. | #250 00:18:20: вкусно ведь<br>#251 00:18:22: Попробуй | adapted: adapted |
+| 10 | Нагиев | Лизни! | Lick it! | #252 00:18:24: Лизни | verbatim |
 | 11 | Шеф | Нет. | No. | #253 00:18:27: Нет | verbatim |
-| 12 | Аня | Ты лизнёшь! Лежи, Витя. | You will lick it! Lie down, Vitya. | #253 00:18:27: ты лизнешь<br>#254 00:18:32: Лежи, Витя | adapted: adapted |
+| 12 | Нагиев | Ты лизнёшь! Лежи, Витя. | You will lick it! Lie down, Vitya. | #253 00:18:27: ты лизнешь<br>#254 00:18:32: Лежи, Витя | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

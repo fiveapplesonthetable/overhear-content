@@ -28,5 +28,5 @@
 | 14 | `laura` (Laura) | Bon. Je vais lui parler. | Okay. I | adapted |
 
 ## Part 5 — Outro & Closing
-> Short and sweet, and you followed all of it. Listen out for that special yes when people answer a negative question. See you next time.
+> Short and sweet, and you followed all of it. Listen out for that special yes when people answer a negative question. See you next time!
 - **Closing**: `laura`: *Salut, Gabriel!*

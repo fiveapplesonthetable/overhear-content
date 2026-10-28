@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | На диван бы привел сюда. | You could bring her right here to the couch. | #108 00:06:28: На диван бы привел сюда | verbatim |
+| 1 | Шеф | На диван бы привел сюда. | You could bring her right here to the couch. | #108 00:06:28: На диван бы привел сюда | verbatim |
 | 2 | Вика | Шикарный диван. | It is a magnificent couch. | #109 00:06:30: Шикарный диван | verbatim |
-| 3 | Костя | А что? | Why not? | #111 00:06:37: А что | verbatim |
-| 4 | Аня | В моем кабинете? | In my own office? | #112 00:06:39: В моем кабинете | verbatim |
+| 3 | Шеф | А что? | Why not? | #111 00:06:37: А что | verbatim |
+| 4 | Шеф | В моем кабинете? | In my own office? | #112 00:06:39: В моем кабинете | verbatim |
 | 5 | Вика | Я в своем ресторане. | Right here in my restaurant. | #113 00:06:41: Я в своем ресторане | verbatim |
-| 6 | Костя | Очень удобно. | Very convenient. | #114 00:06:43: Очень удобно | verbatim |
-| 7 | Аня | Никого нет. | Nobody is around. | #114 00:06:43: Никого нет | verbatim |
+| 6 | Шеф | Очень удобно. | Very convenient. | #114 00:06:43: Очень удобно | verbatim |
+| 7 | Шеф | Никого нет. | Nobody is around. | #114 00:06:43: Никого нет | verbatim |
 | 8 | Вика | Аркадий, а ты все видел и молчал? | Arkady, you saw everything and kept quiet? | #116 00:06:51: Аркадий, а ты все видел и молчал | verbatim |
-| 9 | Костя | Ладно, Аркадий еще участвовал. | At least Arkady did not join in. | #117 00:06:55: Ладно, Аркадий еще участвовал | verbatim |
-| 10 | Аня | Для сотрудников есть отдельный санузел. | There is a separate restroom for staff members. | #119 00:07:14: Для сотрудников есть отдельный санузел | verbatim |
+| 9 | Шеф | Ладно, Аркадий еще участвовал. | At least Arkady did not join in. | #117 00:06:55: Ладно, Аркадий еще участвовал | verbatim |
+| 10 | Шеф | Для сотрудников есть отдельный санузел. | There is a separate restroom for staff members. | #119 00:07:14: Для сотрудников есть отдельный санузел | verbatim |
 | 11 | Вика | В чем дело? | What is going on here? | #119 00:07:14: в чем дело | verbatim |
-| 12 | Костя | Здравствуйте, Виктория Сигевна. | Hello, Viktoriya Sergeyevna. | #120 00:07:18: Здравствуйте, Виктория Сигевна | verbatim |
-| 13 | Аня | Там слив сломался, а мы его... | The drain broke in there, and we were just... | #121 00:07:20: Там слив сломался, а мы его | verbatim |
+| 12 | Шеф | Здравствуйте, Виктория Сигевна. | Hello, Viktoriya Sergeyevna. | #120 00:07:18: Здравствуйте, Виктория Сигевна | verbatim |
+| 13 | Шеф | Там слив сломался, а мы его... | The drain broke in there, and we were just... | #121 00:07:20: Там слив сломался, а мы его | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

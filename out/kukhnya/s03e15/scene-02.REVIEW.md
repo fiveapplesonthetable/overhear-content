@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'When you die, not a single germ will be left on you.' Spoken Russian keeps this brisk, leaning on 'when' and finishing on 'remains'.
 - 'I hope I do not die from your dish!' An emphatic spoken line centered on the verb meaning 'hope'.
 - 'I promise you, old pal, the dish will be excellent!' Notice how Russian expresses 'I' and 'excellent' with crisp inflection rather than helper words. the guest answers right away.
-- 'Great, then it is a deal, shake on it!' Notice the reflexive suffix on the verb meaning 'agreed', turning the action back on the subject.
+- 'Great, then it is a deal, shake on it!' Notice how Russian puts 'perfectly' and 'hand; arm' together in a short, direct phrase where word endings show how the ideas connect.

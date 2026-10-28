@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Tu es virée! | You | 238:Tu es virée ! |
 
 ## Part 5 — Outro & Closing
-> So Magali is gone, and Andréa has no assistant at all, which will matter very soon. If commands felt easy this time, you've already learned a lot. See you next time!
+> So Magali is gone, and Andréa has no assistant at all. If commands felt easy this time, you've already learned a lot. See you next time!
 - **Closing**: `magali`: *Au revoir, Andréa!*

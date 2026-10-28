@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Сегодня в семь я жду тебя. | Today at seven I am waiting for you. | #221 00:17:24: Сегодня в семье жду тебя | adapted: adapted |
 | 2 | Шеф | Ты, я и мой костюм. | You, me, and my suit. | #222 00:17:28: Ты, я и мой костюм | adapted: adapted |
-| 3 | Аня | Вы всё запомнили? | Did you remember everything? | #224 00:17:41: Вы все запомнили | adapted: adapted |
-| 4 | Аня | Как только девушка сядет, можно начинать. | As soon as the girl sits down, you can begin. | #225 00:17:43: Как только девушка сядет, можно начинать | adapted: adapted |
-| 5 | Аня | Айнура, а ты что здесь делаешь? | Ainura, what are you doing here? | #227 00:18:11: Айнура, а ты что здесь делаешь | adapted: adapted |
-| 6 | Айнура | Вот странный! Ты же сам пригласил. | How strange! You invited me yourself. | #228 00:18:15: Вот странный. Ты же сам пригласил | adapted: adapted |
-| 7 | Айнура | Столик от тайного поклонника. | A table from a secret admirer. | #229 00:18:21: тайного поклонника | adapted: adapted |
-| 8 | Аня | Хорошо. Слушай, ну это деловая встреча. | Alright. Listen, well this is a business meeting. | #230 00:18:25: Хорошо<br>#231 00:18:28: Слушай, ну это как бы деловая встреча | adapted: adapted |
-| 9 | Аня | Просто ты у нас давно работаешь. | It is just that you have been working with us for a long time. | #232 00:18:32: Просто ты у нас давно работаешь | adapted: adapted |
-| 10 | Аня | И шеф попросил меня сводить тебя в ресторан. | And the chef asked me to take you out to the restaurant. | #233 00:18:34: и шеф попросил меня сводить тебя | adapted: adapted |
-| 11 | Аня | А музыканты тут ко всем подходят. | And the musicians come up to everyone here. | #233 00:18:34: музыканты<br>#234 00:18:45: Они тут ко всем подходят | adapted: adapted |
-| 12 | Аня | Ой, а это я маме решил заказать. | Oh, and I decided to order this for my mom. | #235 00:18:50: Ой, а это я маме решил заказать | adapted: adapted |
+| 3 | Лёва | Вы всё запомнили? | Did you remember everything? | #224 00:17:41: Вы все запомнили | adapted: adapted |
+| 4 | Лёва | Как только девушка сядет, можно начинать. | As soon as the girl sits down, you can begin. | #225 00:17:43: Как только девушка сядет, можно начинать | adapted: adapted |
+| 5 | Лёва | Айнура, а ты что здесь делаешь? | Ainura, what are you doing here? | #227 00:18:11: Айнура, а ты что здесь делаешь | adapted: adapted |
+| 6 | Лёва | Вот странный! Ты же сам пригласил. | How strange! You invited me yourself. | #228 00:18:15: Вот странный. Ты же сам пригласил | adapted: adapted |
+| 7 | Лёва | Столик от тайного поклонника. | A table from a secret admirer. | #229 00:18:21: тайного поклонника | adapted: adapted |
+| 8 | Лёва | Хорошо. Слушай, ну это деловая встреча. | Alright. Listen, well this is a business meeting. | #230 00:18:25: Хорошо<br>#231 00:18:28: Слушай, ну это как бы деловая встреча | adapted: adapted |
+| 9 | Лёва | Просто ты у нас давно работаешь. | It is just that you have been working with us for a long time. | #232 00:18:32: Просто ты у нас давно работаешь | adapted: adapted |
+| 10 | Лёва | И шеф попросил меня сводить тебя в ресторан. | And the chef asked me to take you out to the restaurant. | #233 00:18:34: и шеф попросил меня сводить тебя | adapted: adapted |
+| 11 | Лёва | А музыканты тут ко всем подходят. | And the musicians come up to everyone here. | #233 00:18:34: музыканты<br>#234 00:18:45: Они тут ко всем подходят | adapted: adapted |
+| 12 | Лёва | Ой, а это я маме решил заказать. | Oh, and I decided to order this for my mom. | #235 00:18:50: Ой, а это я маме решил заказать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

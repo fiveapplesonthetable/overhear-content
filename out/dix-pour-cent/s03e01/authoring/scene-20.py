@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 20
-TITLE = "Une explication nocturne  (A Late-Night Explanation)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une explication nocturne  (A Late-Night Explanation)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = 'Late in the evening, Colette and Andrea continue their frank conversation in the kitchen. Colette needs to understand why Andrea slept with Hicham during the Cannes Festival. Listen to their intimate exchange in French first.'
 OPENER = 'Let us listen as Andrea attempts to explain what happened in Cannes.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Andrea and Colette confront painful truths about the past while seeking mutual understanding. When you watch the episode, listen out for the expressions meaning 'story' and 'torments'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne journée!")
+OUTRO = "Andrea and Colette confront painful truths about the past while seeking mutual understanding. When you watch the episode, listen out for the expressions meaning 'story' and 'torments'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('colette', 'Cette histoire me tourmente sans cesse.', 'This story torments me endlessly.', [(668, "C'est juste que j'arrête pas d'y penser. Ça m'obsède, en fait.")], ''),
     ('colette', 'Pourquoi es-tu sortie avec Hicham?', 'Why did you go out with Hicham?', [(669, "Pourquoi t'as couché avec lui ?")], ''),

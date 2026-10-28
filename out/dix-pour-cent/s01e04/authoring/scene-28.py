@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 28
-TITLE = "Un rôle pour Sofia  (A Role for Sofia)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un rôle pour Sofia  (A Role for Sofia)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Now Gabriel gets the phone call with the result, though the part isn't quite what Andréa expects. Listen to the scene in French first. Don't worry if it goes fast; we'll go through every line right after. Let's listen to the scene in French first."
 OPENER = "Let's break it down. Gabriel comes out of his office smiling, then realises there's a catch."
 TRANSITION = 'Now listen to the whole conversation one more time.'
-OUTRO = "Sofia has her very first film role, and Gabriel is a proud agent. Remember how 'I got the part' is said in French: 'I have had the role'. See you next time."
-CLOSING = ("sofia", "Bonne soirée!")
+OUTRO = "Sofia has her very first film role, and Gabriel is a proud agent. Remember how 'I got the part' is said in French: 'I have had the role'. See you next time!"
+CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Qui veut une bonne nouvelle?', 'Who wants some good news?', [(739, 'Qui veut une bonne nouvelle')], ''),
     ('gabriel', 'Sofia a eu le rôle!', 'Sofia got the part!', [(740, 'Sofia a eu le rôle')], ''),

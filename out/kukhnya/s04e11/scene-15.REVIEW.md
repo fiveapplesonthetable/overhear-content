@@ -16,26 +16,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Денис | Отсюда мне видны названия всех вин. | From here the names of all the wines are visible to me. | #226 00:16:14: Отсюда мне будут видны названия всех вин | adapted: adapted for A1 clarity |
 | 5 | Денис | Если я играю вот эту мелодию... | If I play this melody right here... | #227 00:16:16: если я играю вот эту мелодию | verbatim |
 | 6 | Денис | Значит, это вино французское. | That means this wine is French. | #228 00:16:27: значит, вино французское | adapted: adapted for A1 clarity |
-| 7 | Аня | А эта музыка — испанское вино! | And this music is Spanish wine! | #231 00:16:39: Молодец | adapted: adapted for A1 clarity |
+| 7 | Денис | А эта музыка — испанское вино! | And this music is Spanish wine! | #231 00:16:39: Молодец | adapted: adapted for A1 clarity |
 | 8 | Денис | Отлично, ты всё понял, молодец! | Great, you got it all, well done! | #229 00:16:31: Отлично. Молодец | adapted: adapted for A1 clarity |
 | 9 | Лёва | Шеф, я вами очень горжусь. | Chef, I am very proud of you. | #234 00:16:57: Я вами очень горжусь | adapted: adapted for A1 clarity |
 | 10 | Лёва | Вы не просто дыру в стене закрыли. | You did not just seal a hole in the wall. | #235 00:16:59: Вы же не дыру в стене заделали | adapted: adapted for A1 clarity |
 | 11 | Лёва | С этого момента начинается новая жизнь. | From this moment a new life begins. | #237 00:17:02: с этого момента начинается новая жизнь | verbatim |
-| 12 | Аня | Это всё благодаря тебе, Лёва. | This is all thanks to you, Lyova. | #238 00:17:05: Да ладно тебе, Лёва. Это же благодаря тебе | adapted: adapted for A1 clarity |
-| 13 | Аня | Езжай спокойно домой, до завтра. | Go on home in peace, see you tomorrow. | #242 00:17:16: домой. Хорошо | adapted: adapted for A1 clarity |
+| 12 | Денис | Это всё благодаря тебе, Лёва. | This is all thanks to you, Lyova. | #238 00:17:05: Да ладно тебе, Лёва. Это же благодаря тебе | adapted: adapted for A1 clarity |
+| 13 | Денис | Езжай спокойно домой, до завтра. | Go on home in peace, see you tomorrow. | #242 00:17:16: домой. Хорошо | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, how is your ear for music?' Literally 'by you with music how?', a casual way to ask how good someone is with music.
 - 'So, our plan is very simple.' Denis leads Kostya and Nastya over to the piano.
-- 'You seat Nagiyev right here.' The causative verb 'you seat' takes the animate accusative ending '-a' on Nagiyev.
+- 'You seat Nagiyev right here.' Notice how Russian puts 'to seat, place' and 'here, this way' together in a short, direct phrase where word endings show how the ideas connect.
 - 'From here the names of all the wines are visible to me.' Sitting at the piano, Denis will be able to read the bottle labels over Nagiyev's shoulder.
 - 'If I play this melody right here...' Denis plays a French chanson on the keys.
 - 'That means this wine is French.' Neuter adjective ending '-oe' agrees with 'wine'.
 - 'And this music is Spanish wine!' Hearing Spanish rhythms, Kostya guesses the country immediately.
 - 'Great, you got it all, well done!' Denis praises his quick student.
-- 'Chef, I am very proud of you.' Meanwhile, watching Barinov plaster over the hole in the wall, Lyova uses the instrumental case ('of you') after 'am proud'.
+- 'Chef, I am very proud of you.' In everyday Russian, 'chef' flows straight into 'to be proud, to take pride' without extra linking words.
 - 'You did not just seal a hole in the wall.' Lyova gets emotional over his boss's apparent maturity.
-- 'From this moment a new life begins.' The preposition 'from' governs the genitive singular 'of this moment'.
-- 'This is all thanks to you, Lyova.' The preposition meaning 'thanks to' always takes the dative case ('to you').
+- 'From this moment a new life begins.' Notice how Russian puts 'moment' and 'life' together in a short, direct phrase where word endings show how the ideas connect.
+- 'This is all thanks to you, Lyova.' Kostya keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
 - 'Go on home in peace, see you tomorrow.' Barinov sends Lyova home early — for a suspiciously convenient reason.

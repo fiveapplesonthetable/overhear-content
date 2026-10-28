@@ -11,15 +11,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Элеонора | С возвращением тебя к нам, Витя! | Welcome back to us, Vitya! | #1 00:00:43: С возвращением, Витя | adapted: adapted |
-| 2 | Аня | Миша, спасибо тебе за всё. | Misha, thank you for everything. | #2 00:00:45: Миша, спасибо тебе большое | adapted: adapted |
-| 3 | Аня | И вам всем большое спасибо. | And thank you all very much. | #3 00:00:53: И вам всем большое спасибо | adapted: adapted |
-| 4 | Аня | Но особое спасибо моему зятю. | But a special thank you to my son-in-law. | #5 00:01:01: Но особое спасибо моему зятю | adapted: adapted |
-| 5 | Катя | Папа, он пока ещё не зять. | Dad, he is not your son-in-law yet. | #6 00:01:05: Папа, он пока тебе еще не зять | adapted: adapted |
-| 6 | Катя | Этот титул будет через сутки. | That title will be his in twenty-four hours. | #7 00:01:07: официально этот титул<br>#7 00:01:07: через сутки | adapted: adapted |
-| 7 | Аня | Давайте скорее поедем на кухню. | Let us go to the kitchen quickly. | #8 00:01:12: Поехали на кухню | adapted: adapted |
-| 8 | Аня | Хочу посмотреть на своих поваров. | I want to look at my cooks. | #9 00:01:15: Хочу посмотреть | adapted: adapted |
+| 2 | Шеф | Миша, спасибо тебе за всё. | Misha, thank you for everything. | #2 00:00:45: Миша, спасибо тебе большое | adapted: adapted |
+| 3 | Шеф | И вам всем большое спасибо. | And thank you all very much. | #3 00:00:53: И вам всем большое спасибо | adapted: adapted |
+| 4 | Шеф | Но особое спасибо моему зятю. | But a special thank you to my son-in-law. | #5 00:01:01: Но особое спасибо моему зятю | adapted: adapted |
+| 5 | Элеонора | Папа, он пока ещё не зять. | Dad, he is not your son-in-law yet. | #6 00:01:05: Папа, он пока тебе еще не зять | adapted: adapted |
+| 6 | Элеонора | Этот титул будет через сутки. | That title will be his in twenty-four hours. | #7 00:01:07: официально этот титул<br>#7 00:01:07: через сутки | adapted: adapted |
+| 7 | Шеф | Давайте скорее поедем на кухню. | Let us go to the kitchen quickly. | #8 00:01:12: Поехали на кухню | adapted: adapted |
+| 8 | Шеф | Хочу посмотреть на своих поваров. | I want to look at my cooks. | #9 00:01:15: Хочу посмотреть | adapted: adapted |
 | 9 | Элеонора | Витя, подожди тут на минуту. | Vitya, wait here for a minute. | #10 00:01:19: Витя<br>#11 00:01:21: Вить | adapted: adapted |
-| 10 | Аня | А где все мои ребята? | And where are all my guys? | #12 00:01:38: А где мои | adapted: adapted |
+| 10 | Шеф | А где все мои ребята? | And where are all my guys? | #12 00:01:38: А где мои | adapted: adapted |
 | 11 | Элеонора | Витя, познакомься с этим человеком. | Vitya, get acquainted with this man. | #13 00:01:41: Витя, познакомься | adapted: adapted |
 | 12 | Элеонора | Это наш новый главный повар. | This is our new head chef. | #14 00:01:43: наш новый шеф-повар | adapted: adapted |
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vitya, wait here for a minute.' Eleonora anchors the line on 'wait', while 'a minute' completes the thought. Chef Barinov answers right away.
 - 'And where are all my guys?' Here the Russian phrasing highlights 'and' before landing on 'guys'.
 - 'Vitya, get acquainted with this man.' The meaning hinges on 'to get acquainted' working together with 'person' in spoken Russian.
-- 'This is our new head chef.' In Russian, the idea of 'this' flows naturally into 'cook' without extra filler words.
+- 'This is our new head chef.' Eleonora pairs 'new' with 'cook' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

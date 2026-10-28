@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что случилось? | What happened? | #58 00:04:14: случилось | adapted: adapted |
-| 2 | Денис | Мы с Катей расстались. | Katya and I broke up. | #59 00:04:18: Мы с Катей расстались | adapted: adapted |
-| 3 | Аня | Крепись, старик. | Stay strong, buddy. | #60 00:04:29: Крепись, старик | adapted: adapted |
-| 4 | Денис | Кате всё равно правду не расскажешь. | You cannot tell Katya the truth anyway. | #62 00:04:35: Кате все равно правду не расскажешь | adapted: adapted |
+| 1 | Костя | Что случилось? | What happened? | #58 00:04:14: случилось | adapted: adapted |
+| 2 | Костя | Мы с Катей расстались. | Katya and I broke up. | #59 00:04:18: Мы с Катей расстались | adapted: adapted |
+| 3 | Костя | Крепись, старик. | Stay strong, buddy. | #60 00:04:29: Крепись, старик | adapted: adapted |
+| 4 | Костя | Кате всё равно правду не расскажешь. | You cannot tell Katya the truth anyway. | #62 00:04:35: Кате все равно правду не расскажешь | adapted: adapted |
 | 5 | Настя | Это какую правду Кате не расскажешь? | What truth can you not tell Katya? | #63 00:04:43: Это какую правду Кате не расскажешь | adapted: adapted |
-| 6 | Аня | Настя, ну я не могу тебе рассказать. | Nastya, well I cannot tell you. | #66 00:04:50: Настя, ну я не могу тебе рассказать | adapted: adapted |
-| 7 | Аня | У Дэна в Воронеже есть семья. | Den has a family in Voronezh. | #69 00:05:02: Дэна в Воронеже есть семья | adapted: adapted |
+| 6 | Костя | Настя, ну я не могу тебе рассказать. | Nastya, well I cannot tell you. | #66 00:04:50: Настя, ну я не могу тебе рассказать | adapted: adapted |
+| 7 | Костя | У Дэна в Воронеже есть семья. | Den has a family in Voronezh. | #69 00:05:02: Дэна в Воронеже есть семья | adapted: adapted |
 | 8 | Настя | Дэн женат? | Is Den married? | #70 00:05:09: Дэн женат | adapted: adapted |
-| 9 | Аня | Жена от него ушла. | His wife left him. | #73 00:05:19: Жена от него ушла | adapted: adapted |
-| 10 | Аня | Оставила его одного с дочкой. | She left him alone with a daughter. | #74 00:05:27: оставила его одного с дочкой | adapted: adapted |
+| 9 | Костя | Жена от него ушла. | His wife left him. | #73 00:05:19: Жена от него ушла | adapted: adapted |
+| 10 | Костя | Оставила его одного с дочкой. | She left him alone with a daughter. | #74 00:05:27: оставила его одного с дочкой | adapted: adapted |
 | 11 | Настя | А где же сейчас дочка? | And where is the daughter right now? | #78 00:05:43: А где же сейчас дочка | adapted: adapted |
-| 12 | Аня | У бабушки с дедушкой. | With her grandmother and grandfather. | #79 00:05:48: У бабушки с дедушкой | adapted: adapted |
+| 12 | Костя | У бабушки с дедушкой. | With her grandmother and grandfather. | #79 00:05:48: У бабушки с дедушкой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

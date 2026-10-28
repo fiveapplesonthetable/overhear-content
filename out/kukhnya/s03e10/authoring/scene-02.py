@@ -1,27 +1,27 @@
 ID = 'kukhnya-s03e10-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 2
 TITLE = "Уговор с Лёвой и вопрос Нагиева  (The Deal with Lyova and Nagiyev's Question)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = 'Lyova reminds Max that he once brought Kostya and Nastya together. Max reluctantly agrees to coach Lyova on one condition: Lyova must obey every instruction and let Max arrive an hour late to work.'
 
 STORY = [
     ('anya', 'Не всё, что говорят, чистая правда.', 'Not everything people say is the pure truth.', [(19, 'не все, что про меня говорят, правда')], 'adapted'),
-    ('lyova', 'К тому же ты свёл Костю и Настю.', 'Besides, you brought Kostya and Nastya together.', [(20, 'К тому же ты свел Костю и Настю')], 'adapted'),
-    ('lyova', 'А они вон какие разные люди.', 'And look how different those two people are.', [(21, 'Они вон какие разные')], 'adapted'),
+    ('nagiyev', 'К тому же ты свёл Костю и Настю.', 'Besides, you brought Kostya and Nastya together.', [(20, 'К тому же ты свел Костю и Настю')], 'adapted'),
+    ('nagiyev', 'А они вон какие разные люди.', 'And look how different those two people are.', [(21, 'Они вон какие разные')], 'adapted'),
     ('anya', 'Ладно, я попробую устроить вам свидание.', 'Alright, I will try to arrange a date for you two.', [(24, 'Ладно, я попробую строить вам свидание')], 'adapted'),
     ('anya', 'Ты будешь во всём меня слушаться.', 'You will obey me in everything.', [(26, 'Если ты будешь во всём меня слушаться')], 'adapted'),
     ('anya', 'Если не получится, я не виноват.', 'If it does not work out, it is not my fault.', [(26, 'ничего не получится'), (27, 'я не виноват')], 'adapted'),
     ('anya', 'На работу буду приходить на час позже.', 'I will come to work an hour later.', [(27, 'И на работу я буду приходить на час позже')], 'adapted'),
-    ('lyova', 'Хорошо, договорились, приходи на час позже.', 'Alright, it is a deal, come an hour later.', [(29, 'Хорошо. На час')], 'adapted'),
+    ('nagiyev', 'Хорошо, договорились, приходи на час позже.', 'Alright, it is a deal, come an hour later.', [(29, 'Хорошо. На час')], 'adapted'),
     ('nagiyev', 'Слушай, я тебя сейчас отвлекаю?', 'Listen, am I distracting you right now?', [(30, 'я отвлекаю')], 'adapted'),
     ('nagiyev', 'Вот хорошо, тогда внимательно слушай.', 'That is good, then listen carefully.', [(31, 'Вот, хорошо, тогда слушай')], 'adapted'),
     ('nagiyev', 'Я хотел спросить у тебя совет.', 'I wanted to ask you for some advice.', [(32, 'буду спрашивать совет')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Max begins plotting Lyova's romantic makeover, Dmitry Nagiyev corners Chef Barinov in his office to confess a surprising problem with Vika."
-CLOSING = ('anya', 'Я попробую устроить вам свидание.')
+OUTRO = "While Max begins plotting Lyova's romantic makeover, Dmitry Nagiyev corners Chef Barinov in his office to confess a surprising problem with Vika. See you next time!"
+CLOSING = ("anya", "Увидимся!")

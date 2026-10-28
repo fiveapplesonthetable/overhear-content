@@ -1,107 +1,50 @@
-ID = "kukhnya-s01e14-scene-07"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e14-scene-07.
+ID = 'kukhnya-s01e14-scene-07'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 7
 TITLE = "Байки Макса  (Max's Tall Tales)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "max": "anja"}
-LABELS = {"anya": "Саша", "max": "Макс"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.14"
-SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
-SOURCE_NOTE = (
-    "Cues 136-148. Max shows off in front of the dining room girls, pretending to be a famous chef "
-    "who cooked for Gerard Depardieu in Paris."
-)
-
-INTRO = (
-    "In the dining room, Max shows off in front of the waitresses, pretending to be a famous chef "
-    "who cooked for the actor Gerard Depardieu in Paris. Enchanted by his lies, the girls beg him "
-    "for more stories. Let us listen to his tall tales in Russian first."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
+LABELS = {"anya": "Макс", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
+SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
+INTRO = 'In the dining room, Max shows off in front of the waitresses, pretending to be a famous chef who cooked for the actor Gerard Depardieu in Paris. Enchanted by his lies, the girls beg him for more stories. Let us listen to his tall tales in Russian first.'
+OPENER = "Now let us examine Max's fabricated stories line by line in this scene."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Max enjoys the attention of the dining room staff, spinning wild tales about his fake career until he is suddenly reminded of his real responsibilities in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'finish eating' and 'dish' — you will catch every word right away. See you next time!"
+CLOSING = ("anya", "Пока!")
 STORY = [
-    ("max", "Жерар Депардье доедает моё блюдо и говорит.",
-     "Gerard Depardieu finishes my dish and says.",
-     [(136, "доедает Депардье ему родоту и говорит.")], "adapted"),
-    ("anya", "Неужели ему так сильно всё понравилось?",
-     "Did he really like everything so much?",
-     [], "new"),
-    ("max", "Он сказал, что это просто невероятно вкусно!",
-     "He said that it is simply incredibly tasty!",
-     [(137, "офигеть!")], "adapted"),
-    ("anya", "Что, он прямо так тебе и сказал?",
-     "What, did he say it to you exactly like that?",
-     [(139, "Что, прям так и сказала?")], "adapted"),
-    ("max", "Да, именно так, только на французском языке.",
-     "Yes, exactly like that, only in the French language.",
-     [(140, "Да. Ну, то по-французски.")], "adapted"),
-    ("anya", "Какой же ты талантливый повар, Макс!",
-     "What a talented cook you are, Max!",
-     [], "new"),
-    ("max", "Такую вкусную еду не готовит даже мама!",
-     "Even a mother does not cook such tasty food!",
-     [(138, "Такой родоту не готовит даже моя мама!")], "adapted"),
-    ("anya", "Вы с ним теперь хорошие друзья?",
-     "Are you now good friends with him?",
-     [], "new"),
-    ("max", "С тех пор мы с Жераром дружим.",
-     "Since then Gerard and I are friends.",
-     [(141, "С тех пор мы с Жераром дружим.")], "adapted"),
-    ("anya", "Расскажи нам ещё что-нибудь интересное, пожалуйста!",
-     "Tell us something else interesting, please!",
-     [(145, "расскажите еще что-нибудь там?")], "adapted"),
-    ("max", "С большим удовольствием, милые дамы.",
-     "With great pleasure, lovely ladies.",
-     [(143, "дамы"), (146, "Удовольствие.")], "adapted"),
-    ("max", "Однажды, когда я работал в Париже...",
-     "Once, when I worked in Paris...",
-     [(146, "Как-то раз в Париже.")], "adapted"),
-    ("anya", "Какой чудесный и невероятно красивый город!",
-     "What a wonderful and incredibly beautiful city!",
-     [], "new"),
-    ("max", "Ой, прошу прощения, мне пора бежать.",
-     "Oh, I beg your pardon, it is time for me to run.",
-     [(147, "Прошу прощения")], "adapted"),
+    ('anya', 'Жерар Депардье доедает моё блюдо и говорит.', 'Gerard Depardieu finishes my dish and says.', [(136, 'доедает Депардье ему родоту и говорит.')], ''),
+    ('sasha', 'Неужели ему так сильно всё понравилось?', 'Did he really like everything so much?', [], ''),
+    ('anya', 'Он сказал, что это просто невероятно вкусно!', 'He said that it is simply incredibly tasty!', [(137, 'офигеть!')], ''),
+    ('sasha', 'Что, он прямо так тебе и сказал?', 'What, did he say it to you exactly like that?', [(139, 'Что, прям так и сказала?')], ''),
+    ('anya', 'Да, именно так, только на французском языке.', 'Yes, exactly like that, only in the French language.', [(140, 'Да. Ну, то по-французски.')], ''),
+    ('sasha', 'Какой же ты талантливый повар, Макс!', 'What a talented cook you are, Max!', [], ''),
+    ('anya', 'Такую вкусную еду не готовит даже мама!', 'Even a mother does not cook such tasty food!', [(138, 'Такой родоту не готовит даже моя мама!')], ''),
+    ('sasha', 'Вы с ним теперь хорошие друзья?', 'Are you now good friends with him?', [], ''),
+    ('anya', 'С тех пор мы с Жераром дружим.', 'Since then Gerard and I are friends.', [(141, 'С тех пор мы с Жераром дружим.')], ''),
+    ('sasha', 'Расскажи нам ещё что-нибудь интересное, пожалуйста!', 'Tell us something else interesting, please!', [(145, 'расскажите еще что-нибудь там?')], ''),
+    ('anya', 'С большим удовольствием, милые дамы.', 'With great pleasure, lovely ladies.', [(143, 'дамы'), (146, 'Удовольствие.')], ''),
+    ('anya', 'Однажды, когда я работал в Париже...', 'Once, when I worked in Paris...', [(146, 'Как-то раз в Париже.')], ''),
+    ('sasha', 'Какой чудесный и невероятно красивый город!', 'What a wonderful and incredibly beautiful city!', [], ''),
+    ('anya', 'Ой, прошу прощения, мне пора бежать.', 'Oh, I beg your pardon, it is time for me to run.', [(147, 'Прошу прощения')], ''),
 ]
-
-OPENER = "Now let us examine Max's fabricated stories line by line."
-
 WALK = [
-    (0, None,
-     "'Gerard Depardieu finishes my dish and says.' -- Max sets the scene for his fake celebrity encounter."),
-    (1, None,
-     "'Did he really like everything so much?' -- Sasha eagerly asks about the famous actor's reaction."),
-    (2, None,
-     "'He said that it is simply incredibly tasty!' -- Max boasts about the overwhelming praise he received."),
-    (3, None,
-     "'What, did he say it to you exactly like that?' -- The waitress wonders if the star used those exact words."),
-    (4, None,
-     "'Yes, exactly like that, only in the French language.' -- Max adds an international detail to make it sound authentic."),
-    (5, None,
-     "'What a talented cook you are, Max!' -- Sasha expresses her deep admiration for his culinary skills."),
-    (6, None,
-     "'Even a mother does not cook such tasty food!' -- The cook quotes the ultimate compliment from Depardieu."),
-    (7, None,
-     "'Are you now good friends with him?' -- The girl asks if they stayed in touch after the meal."),
-    (8, None,
-     "'Since then Gerard and I are friends.' -- Max claims he is on a first-name basis with the celebrity."),
-    (9, None,
-     "'Tell us something else interesting, please!' -- Sasha begs to hear more glamorous tales from France."),
-    (10, None,
-     "'With great pleasure, lovely ladies.' -- Max happily agrees to continue his performance for the women."),
-    (11, None,
-     "'Once, when I worked in Paris...' -- He starts spinning another elaborate lie about his past."),
-    (12, None,
-     "'What a wonderful and incredibly beautiful city!' -- Sasha sighs dreamily at the mention of the French capital."),
-    (13, None,
-     "'Oh, I beg your pardon, it is time for me to run.' -- Max suddenly remembers his actual duties and abruptly leaves."),
+    (0, None, "'Gerard Depardieu finishes my dish and says.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (1, None, "'Did he really like everything so much?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'strongly', followed by 'pleased'."),
+    (2, None, "'He said that it is simply incredibly tasty!' Max uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'just' and 'incredibly'."),
+    (3, None, "'What, did he say it to you exactly like that?' Sasha expresses this naturally by combining the word for 'right' with 'said'."),
+    (4, None, "'Yes, exactly like that, only in the French language.' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'French', followed by 'language'."),
+    (5, None, "'What a talented cook you are, Max!' Russian omits the present-tense verb 'to be' here, linking 'talented' directly with 'chef' to make the point directly in conversation."),
+    (6, None, "'Even a mother does not cook such tasty food!' The phrasing opens with 'such' before bringing in 'tasty' and 'am driving' to make the point clear."),
+    (7, None, "'Are you now good friends with him?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'now', pairing it with 'good' and 'friends'."),
+    (8, None, "'Since then Gerard and I are friends.' Max puts the word for 'times' together with 'be friends' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'Tell us something else interesting, please!' Sasha leads with the direct command form meaning 'tell', pairing it with 'more' and 'interesting'."),
+    (10, None, "'With great pleasure, lovely ladies.' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'pleasure', pairing it with 'sweet' and 'lady'."),
+    (11, None, "'Once, when I worked in Paris...' Max expresses this naturally by combining the word for 'once' with 'when' and 'worked'."),
+    (12, None, "'What a wonderful and incredibly beautiful city!' Russian omits the present-tense verb 'to be' here, linking 'wonderful' directly with 'incredibly', pairing it with 'beautiful' and 'town'."),
+    (13, None, "'Oh, I beg your pardon, it is time for me to run.' Here Max anchors the line on the word meaning 'oh' and builds the thought around 'beg' and 'forgiveness'."),
 ]
-
-TRANSITION = "Now let us listen to Max and Sasha again."
-OUTRO = (
-    "Max enjoys the attention of the dining room staff, spinning wild tales about his fake career "
-    "until he is suddenly reminded of his real responsibilities in the kitchen."
-)
-CLOSING = ("max", "Ой, прошу прощения, мне пора бежать.")

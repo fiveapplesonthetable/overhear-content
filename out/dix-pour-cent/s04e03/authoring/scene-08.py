@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 8
 TITLE = "L'arrivée d'Élise  (Élise's Arrival)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"elise": "Élise", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Elise Formain arrives at the ASK agency following her departure from StarMedia. She gathers the team to deliver an ambitious welcome speech, hoping to smooth over past rivalries with Andrea Martel. However, an outraged Gabriel Sarda refuses to play along with the corporate welcome. Let's listen to their tense encounter in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel delivers a scathing toast against Elise Formain before storming back to his desk. When you watch the episode, listen out for the expressions meaning 'welcome' and 'team'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Gabriel delivers a scathing toast against Elise Formain before storming back to his desk. When you watch the episode, listen out for the expressions meaning 'welcome' and 'team'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('elise', 'Merci à tous pour votre accueil chez ASK.', 'Thank you all for your welcome at ASK.', [(279, "merci à tous de m'accueillir chez ASK")], ''),
     ('lea', 'Bienvenue parmi nous dans notre équipe.', 'Welcome among us to our team.', [(278, 'Élise, la parole est à toi')], ''),

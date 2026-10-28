@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 5
 TITLE = "Le projet d'Oscar  (Oscar's Project)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "charlotte": "emilie", "lea": "lucie", "oscar": "marcel"}
-LABELS = {"charlotte": "Charlotte", "lea": "Andréa", "oscar": "Oscar"}
+VOICES = {'narrator': 'sky', 'charlotte': 'emilie', 'lea': 'lucie', 'oscar': 'marcel'}
+LABELS = {'charlotte': 'Charlotte', 'lea': 'Andréa', 'oscar': 'Oscar'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Charlotte Gainsbourg reads lines from a bizarre science-fiction script with her childhood friend Oscar. Horrified by the dialogue, she turns to Andrea for help backing out of the project. Let's listen to their conversation in French first."
 OPENER = "Let's explore Charlotte and Andrea's discussion line by line."
 TRANSITION = "Now let's listen to Charlotte and Andrea's exchange once more from start to finish."
-OUTRO = "That's it for this scene around oscar's project. When you watch the episode, listen out for the expressions meaning 'continues' and 'humanity'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "That's it for this scene around oscar's project. When you watch the episode, listen out for the expressions meaning 'continues' and 'humanity'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('charlotte', "Si ça continue, l'humanité va s'éteindre!", 'If this continues, humanity will go extinct!', [(276, "Si ça continue, toute la race humaine va s'éteindre.")], ''),
     ('oscar', "Charlotte, parle plus fort s'il te plaît!", 'Charlotte, speak louder please!', [(278, 'Charlotte, excuse-moi, parle plus fort.')], ''),

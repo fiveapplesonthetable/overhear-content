@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | À tout à l'heure, grande star! | See you later, big star! | 884:Mme Theron |
 
 ## Part 5 — Outro & Closing
-> Sofia heads down the corridor toward Camille's office in her sparkling golden gown. When you watch the episode, listen out for the expressions meaning 'hello' and 'look at'. You'll catch them now. See you next time.
+> Sofia heads down the corridor toward Camille's office in her sparkling golden gown. When you watch the episode, listen out for the expressions meaning 'hello' and 'look at'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

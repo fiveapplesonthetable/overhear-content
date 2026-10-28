@@ -27,5 +27,5 @@
 | 13 | `jean` (Jean) | À bientôt pour le tournage, Andréa! | See you soon for filming, Andrea! | 684:À bientôt |
 
 ## Part 5 — Outro & Closing
-> Inspired by Andrea's unvarnished truthfulness, Jean Reno signs onto Xavier Beauvois's film, cheerfully agreeing to sink or swim with ASK in the romantic spirit of The Big Blue. When you watch the episode, listen out for the expressions meaning 'does' and 'tell'. You'll catch them now. See you next time.
+> Inspired by Andrea's unvarnished truthfulness, Jean Reno signs onto Xavier Beauvois's film, cheerfully agreeing to sink or swim with ASK in the romantic spirit of The Big Blue. When you watch the episode, listen out for the expressions meaning 'does' and 'tell'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À bientôt!*

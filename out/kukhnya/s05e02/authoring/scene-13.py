@@ -1,25 +1,25 @@
 ID = 'kukhnya-s05e02-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 13
 TITLE = "Ночь Кости на полу  (Kostya's Night on the Floor)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Денис', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 
 INTRO = 'Proud of telling the truth, Denis informs Kostya that he just confessed everything to Katya—only to learn that Nastya still refuses to speak to Kostya and made him sleep on the floor. Listen to their exchange.'
 
 STORY = [
-    ('anya', 'Привет, Костя!', 'Hi, Kostya!', [(149, 'Здорово')], 'adapted'),
-    ('anya', 'Я всё-таки признался Кате во всём.', 'I confessed everything to Katya after all.', [(150, 'Я все-таки признался Кате во всем')], 'verbatim'),
+    ('kostya', 'Привет, Костя!', 'Hi, Kostya!', [(149, 'Здорово')], 'adapted'),
+    ('kostya', 'Я всё-таки признался Кате во всём.', 'I confessed everything to Katya after all.', [(150, 'Я все-таки признался Кате во всем')], 'verbatim'),
     ('kostya', 'Да? Очень зря ты это сделал.', 'Really? You made a big mistake doing that.', [(151, 'Да? Зря')], 'adapted'),
     ('kostya', 'Настя со мной до сих пор не разговаривает.', 'Nastya is still not speaking to me.', [(152, 'Настя вот со мной до сих пор не разговаривает')], 'adapted'),
     ('kostya', 'Я даже спал сегодня на полу.', 'I even slept on the floor today.', [(153, 'Я даже спал сегодня на полу')], 'verbatim'),
-    ('anya', 'Ты говоришь это серьёзно?', 'Are you saying that seriously?', [(154, 'Серьезно?')], 'adapted'),
+    ('kostya', 'Ты говоришь это серьёзно?', 'Are you saying that seriously?', [(154, 'Серьезно?')], 'adapted'),
     ('kostya', 'Я вчера вечером так подумал.', 'Here is what I thought last night.', [(155, 'вчера подумал?')], 'adapted'),
     ('kostya', 'Приду домой и сделаю ей массаж.', 'I will come home and give her a massage.', [(156, 'приду, сделаю ей массаж')], 'adapted'),
     ('kostya', 'Массаж она мне сделать не пустила.', 'She did not let me give her a massage.', [(158, 'Массаж она меня пустила сделать')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that reverses Kostya's advice completely—too late for Denis! Notice the locative ending '-u' in 'na polu' meaning 'on the floor'. See you in the next scene."
-CLOSING = ('anya', 'Мне нужно срочно забрать её телефон!')
+OUTRO = "And that reverses Kostya's advice completely—too late for Denis! Notice the locative ending '-u' in 'na polu' meaning 'on the floor'. Until next time!"
+CLOSING = ("kostya", "Пока!")

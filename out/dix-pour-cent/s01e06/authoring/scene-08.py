@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 8
 TITLE = "Si je n'étais pas venue à Paris  (If I Hadn't Come to Paris)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "In the quiet hallway outside Mathias's office, Camille is packing her things into a box. Her secret father has just fired her to save his marriage with Catherine. When Mathias stops to check on her, Camille cannot help sharing her feelings of guilt. Let's listen to their conversation in French first."
 OPENER = "Let's listen closely to how Camille and Mathias navigate their unspoken bond."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Camille is leaving ASK with dignity, determined to build her own career in Paris. next time, we will head back to the theatre where rehearsals take a violent turn.'
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = 'Camille is leaving ASK with dignity, determined to build her own career in Paris. See you next time!'
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('camille', 'Ça va aller pour toi?', 'Will you be okay?', [], ''),
     ('mathias', "T'en penses quoi?", 'What do you think about it?', [], ''),

@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Элеонора | Всем спасибо, урок окончен. | Thank you everyone, the session is over. | #1 00:00:57: Всем спасибо<br>#1 00:00:57: окончен | adapted: adapted |
-| 2 | Аня | А мы теперь это каждое утро будем переживать? | Are we going to go through this every morning now? | #2 00:01:01: каждое утро будем переживать? | adapted: adapted |
+| 2 | Луи | А мы теперь это каждое утро будем переживать? | Are we going to go through this every morning now? | #2 00:01:01: каждое утро будем переживать? | adapted: adapted |
 | 3 | Элеонора | Исследования показали, что день надо начинать с классической музыки. | Studies showed that the day should start with classical music. | #3 00:01:05: Исследования показали<br>#3 00:01:05: день начинать с классической музыки | adapted: adapted |
 | 4 | Элеонора | Тогда производительность труда увеличивается. | Then labor productivity increases. | #4 00:01:10: производительность труда увеличивается | adapted: adapted |
-| 5 | Аня | Я просто идею не сразу понял. | I simply did not understand the idea right away. | #7 00:01:20: Я просто идею не сразу понял | adapted: exact |
+| 5 | Луи | Я просто идею не сразу понял. | I simply did not understand the idea right away. | #7 00:01:20: Я просто идею не сразу понял | adapted: exact |
 | 6 | Луи | А мне захотелось, чтобы меня мама обняла. | And it made me want my mom to hug me. | #8 00:01:23: захотелось<br>#8 00:01:23: чтобы меня мама обняла | adapted: adapted |
 | 7 | Элеонора | Всем спасибо, работаем. | Thank you everyone, let's get to work. | #9 00:01:30: Всем спасибо<br>#10 00:01:31: Работаем | adapted: adapted |
 | 8 | Луи | Элеонора Андреевна, мне написал отец. | Eleonora Andreyevna, my father wrote to me. | #11 00:01:34: Андреевна, мне написал отец | adapted: adapted |
 | 9 | Луи | У них в ресторане был инспектор. | There was an inspector at their restaurant. | #12 00:01:37: У них в ресторане был инспектор | adapted: exact |
 | 10 | Луи | Если он в Москве, то он и к нам зайдет. | If he is in Moscow, then he will stop by our place too. | #13 00:01:43: Если он в Москве, то он и к нам зайдет | adapted: exact |
-| 11 | Аня | Это наш шанс получить звезду! | This is our chance to get a star! | #12 00:01:37: инспектор | adapted: adapted |
+| 11 | Луи | Это наш шанс получить звезду! | This is our chance to get a star! | #12 00:01:37: инспектор | adapted: adapted |
 | 12 | Элеонора | Будьте готовы сегодня! | Be ready today! | #10 00:01:31: Работаем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

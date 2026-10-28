@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e12-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 12
 SCENE = 20
-TITLE = 'Выходи за меня  (Marry Me)'
+TITLE = "Выходи за меня  (Marry Me)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.12'
 SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 
 INTRO = "Chasing Elena's taxi in a white horse-drawn carriage, Chef Barinov holds out the ring and asks her to marry him for real. Although Max and Vika's divorce is finalized the next day, Max believes a miracle is still possible—while Kostya role-plays as Masseur Konstantin for Nastya."
@@ -18,7 +18,7 @@ STORY = [
     ('anya', 'Говорят, что мысли материальны.', 'They say that thoughts are material.', [(300, 'Говорят, что мысли материальны')], 'adapted'),
     ('anya', 'Если признаться себе в том, чего по-настоящему хочешь.', 'If you admit to yourself what you truly want.', [(301, 'Если признаться себе в том, чего по-настоящему хочешь')], 'adapted'),
     ('anya', 'Возможно, чудо произойдёт.', 'Perhaps a miracle will happen.', [(302, 'Возможно, чудо произойдет')], 'adapted'),
-    ('chef', 'Выходи за меня!', 'Marry me!', [(303, 'Выходи за меня')], 'adapted'),
+    ('kostya', 'Выходи за меня!', 'Marry me!', [(303, 'Выходи за меня')], 'adapted'),
     ('anya', 'Теперь ваш брак официально расторгнут.', 'Now your marriage is officially dissolved.', [(304, 'Теперь ваш брак официально')], 'adapted'),
     ('anya', 'Но я не сдаюсь.', 'But I am not giving up.', [(302, 'чудо произойдет')], 'adapted'),
     ('anya', 'Здравствуйте, можно заказать массаж?', 'Hello, can I order a massage?', [(305, 'Здравствуйте. Можно заказать массаж')], 'adapted'),
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'Perhaps a miracle will happen.' The meaning hinges on 'perhaps' working together with 'to happen' in spoken Russian."),
     (4, None, "'Marry me!' An emphatic spoken line centered on the verb meaning 'to go out'. Max answers right away."),
     (5, None, "'Now your marriage is officially dissolved.' Max brings out the contrast between 'now' and 'your' in a few short words."),
-    (6, None, "'But I am not giving up.' Notice the reflexive suffix on the verb meaning 'to give up', turning the action back on the subject."),
+    (6, None, "'But I am not giving up.' Max centers this short reply on 'to give up, to surrender', letting a few direct words carry the whole meaning."),
     (7, None, "'Hello, can I order a massage?' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'massage'."),
     (8, None, "'Plus intimate services?' Max anchors the line on 'plus', while 'services' completes the thought."),
     (9, None, "'Well of course you can!' Kostya anchors the line on 'come on', while 'may' completes the thought."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Episode Twelve of Season Five to an unforgettable conclusion. Listen for Viktor's marriage proposal—marry me—and Max's hope that a miracle will still happen. See you next time."
-CLOSING = ('chef', 'Выходи за меня!')
+OUTRO = "And that brings Episode Twelve of Season Five to an unforgettable conclusion. Listen for Viktor's marriage proposal—marry me—and Max's hope that a miracle will still happen. See you next time!"
+CLOSING = ("kostya", "Пока!")

@@ -30,5 +30,5 @@
 | 16 | `camille` (Camille) | Oh non! | Oh no! | adapted |
 
 ## Part 5 — Outro & Closing
-> Poor Camille: a kind heart for Rebecca, and a green shawl for Françoise. If you followed the polite 'you' between the two women, you're doing really well. Until next time.
+> Poor Camille: a kind heart for Rebecca, and a green shawl for Françoise. If you followed the polite 'you' between the two women, you're doing really well. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

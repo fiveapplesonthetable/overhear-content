@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 11
 TITLE = "Le sabotage d'Eugénie  (Sabotaging Eugenie)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "herve": "marcel"}
-LABELS = {"noemie": "Noémie", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the ASK offices, Camille is terrified by the impressive resumes of outside applicants for the junior agent post. Her friends Noémie and Hervé spot a top contender and consider dirty tricks to help Camille. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Facing stiff outside competition for the junior agent post, Camille feels inadequate next to Eugenie's credentials. Despite Camille's moral objections, Noémie sets out to sabotage the applicant's interview. Join us next time to see what happens next."
-CLOSING = ("noemie", "À demain!")
+OUTRO = "Facing stiff outside competition for the junior agent post, Camille feels inadequate next to Eugenie's credentials. Despite Camille's moral objections, Noémie sets out to sabotage the applicant's interview. See you next time!"
+CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('herve', 'Attends, viens là, Camille.', 'Wait, come over here, Camille.', [(313, 'Attends... viens là.')], ''),
     ('herve', 'Imiter Hicham à ton entretien? Tu ne devrais pas être toi-même?', 'Imitate Hicham at your interview? Shouldn', [(326, 'Imiter Hicham à ton entretien ?'), (327, 'Tu ne devrais pas être toi-même ?')], ''),

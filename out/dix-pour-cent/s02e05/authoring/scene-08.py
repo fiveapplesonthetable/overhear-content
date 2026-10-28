@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 8
-TITLE = "Remplacer Guy Marchand  (Pulling Guy Out)"
-LEVEL = "A1 — débutant"
+TITLE = 'Remplacer Guy Marchand  (Pulling Guy Out)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the ASK conference room, Gabriel updates Andréa and Mathias on Guy Marchand's health. The team debates whether it is better to replace the veteran actor before the shoot collapses. Let's listen to the scene in French first."
 OPENER = "Let's examine the partners' tense agency debate step by step to understand the business pressures on actors."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'Faced with the harsh realities of film production, the agents must balance financial risk against artistic loyalty. Until next time.'
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = 'Faced with the harsh realities of film production, the agents must balance financial risk against artistic loyalty. See you next time!'
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('lea', 'Alors, comment va notre cher Guy Marchand?', 'So, how is our dear Guy Marchand?', [(223, 'Alors, comment va Guy Marchand ?')], ''),
     ('gabriel', 'Le producteur ne veut plus continuer avec lui.', 'The producer no longer wants to continue with him.', [(226, "Le producteur dit qu'il ne veut plus continuer avec Guy.")], ''),

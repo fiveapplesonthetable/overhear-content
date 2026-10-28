@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Даша, а здесь в самолёте где-нибудь есть парашют? | Dasha, is there a parachute anywhere on this plane? | #259 00:18:30: Даша, здесь где-нибудь есть парашют | adapted: adapted |
 | 8 | Гость | Макс, ты с ума сошёл? Позвони ещё раз! | Max, have you lost your mind? Call them one more time! | #260 00:18:33: Макс, ты что, с ума сошел | adapted: adapted |
 | 9 | Аня | Мы только взлетели, я прыгну и возьму машину! | We just took off, I will jump and catch a car! | #261 00:18:37: Мы только взлетели | adapted: adapted |
-| 10 | Михаил | Гуля, ну что, Элеонора Андреевна уже пришла в зал? | Gulya, well then, has Eleonora Andreyevna arrived in the hall yet? | #269 00:19:08: Андреевна еще не пришла | adapted: adapted |
+| 10 | Гость | Гуля, ну что, Элеонора Андреевна уже пришла в зал? | Gulya, well then, has Eleonora Andreyevna arrived in the hall yet? | #269 00:19:08: Андреевна еще не пришла | adapted: adapted |
 | 11 | Гость | Она попросила отнести ужин в номер на две персоны. | She asked to have dinner brought to her room for two people. | #270 00:19:11: попросила отнести в номер | adapted: adapted |
-| 12 | Михаил | Значит, одна персона ждёт в номере вторую персону! | That means one person is waiting in the room for the second person! | #271 00:19:19: Что одна персона ждет вторую | adapted: adapted |
+| 12 | Гость | Значит, одна персона ждёт в номере вторую персону! | That means one person is waiting in the room for the second person! | #271 00:19:19: Что одна персона ждет вторую | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

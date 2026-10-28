@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Je t'appelle le producteur dès demain. | I will call the producer for you tomorrow. | 1131:Faisons La Comtesse |
 
 ## Part 5 — Outro & Closing
-> Sandrine sips her drink with a triumphant smile, while Gabriel accepts that some actors are meant for drama. When you watch the episode, listen out for the expressions meaning 'stage fright' and 'crazy'. You'll catch them now. See you next time.
+> Sandrine sips her drink with a triumphant smile, while Gabriel accepts that some actors are meant for drama. When you watch the episode, listen out for the expressions meaning 'stage fright' and 'crazy'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

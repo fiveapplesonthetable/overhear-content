@@ -27,5 +27,5 @@
 | 13 | `jose` (José) | Allez, on y va maintenant! | Come on, let | 111:Allez ! On y va ! |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around jose's hiccups. When you watch the episode, listen out for the expressions meaning 'to shoot' and 'little'. You'll catch them now. See you next time.
+> That's it for this scene around jose's hiccups. When you watch the episode, listen out for the expressions meaning 'to shoot' and 'little'. You'll catch them now. See you next time!
 - **Closing**: `jose`: *Au revoir!*

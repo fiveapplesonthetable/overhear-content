@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | У нас завтра открытие летней веранды. | Tomorrow we have the opening of the summer terrace. | #68 00:05:30: у нас завтра открытие летней веранды | adapted: adapted |
-| 2 | Вика | Может, ты мастер-класс устроишь? | Maybe you will put on a masterclass? | #69 00:05:34: устроишь | adapted: adapted |
-| 3 | Аня | Это в честь чего? | In honor of what is that? | #70 00:05:38: в честь чего | adapted: adapted |
-| 4 | Аня | Люди просто решили поесть на улице. | People simply decided to eat outside. | #71 00:05:40: решили пожрать на улице | adapted: adapted |
+| 1 | Катя | У нас завтра открытие летней веранды. | Tomorrow we have the opening of the summer terrace. | #68 00:05:30: у нас завтра открытие летней веранды | adapted: adapted |
+| 2 | Катя | Может, ты мастер-класс устроишь? | Maybe you will put on a masterclass? | #69 00:05:34: устроишь | adapted: adapted |
+| 3 | Шеф | Это в честь чего? | In honor of what is that? | #70 00:05:38: в честь чего | adapted: adapted |
+| 4 | Шеф | Люди просто решили поесть на улице. | People simply decided to eat outside. | #71 00:05:40: решили пожрать на улице | adapted: adapted |
 | 5 | Катя | А можно сделать шоу молекулярной кухни? | Can we do a molecular cuisine show? | #72 00:05:42: молекулярной кухни | adapted: adapted |
 | 6 | Катя | Я была в ресторане в Париже. | I was at a restaurant in Paris. | #73 00:05:46: была в ресторане Верне в Париже | adapted: adapted |
-| 7 | Вика | Шоу молекулярной кухни? | A molecular cuisine show? | #74 00:05:49: Молекулярной кухни | adapted: adapted |
-| 8 | Вика | А что, это очень интересно. | Well, that is very interesting. | #75 00:05:51: А что, это интересно | adapted: adapted |
+| 7 | Катя | Шоу молекулярной кухни? | A molecular cuisine show? | #74 00:05:49: Молекулярной кухни | adapted: adapted |
+| 8 | Катя | А что, это очень интересно. | Well, that is very interesting. | #75 00:05:51: А что, это интересно | adapted: adapted |
 | 9 | Катя | Можно радостно встречать наших гостей. | We can gladly greet our guests. | #76 00:05:52: можно встречать гостей | adapted: adapted |
 | 10 | Катя | Предлагаю им вкусное желе. | I offer them delicious jelly. | #76 00:05:52: желе из белого рома | adapted: adapted |
 | 11 | Катя | И ещё десерт из клубники. | And also a strawberry dessert. | #79 00:06:13: Десерт из клубники | adapted: adapted |

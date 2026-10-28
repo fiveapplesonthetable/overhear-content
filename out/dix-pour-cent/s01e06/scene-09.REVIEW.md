@@ -28,5 +28,5 @@
 | 14 | `christophe` (Christophe) | Berléand! Il est parti! | Berléand! He walked away! | 266:Berléand. |
 
 ## Part 5 — Outro & Closing
-> François Berléand has punched his director, putting the entire production in jeopardy. next time, Andréa and Camille will face the threat of an immediate lawsuit.
+> François Berléand has punched his director, putting the entire production in jeopardy. See you next time!
 - **Closing**: `lea`: *Au revoir!*

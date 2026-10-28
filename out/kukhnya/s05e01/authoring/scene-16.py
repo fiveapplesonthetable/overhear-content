@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e01-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 1
 SCENE = 16
-TITLE = 'Репетиция предложения руки и сердца  (Rehearsing the Marriage Proposal)'
+TITLE = "Репетиция предложения руки и сердца  (Rehearsing the Marriage Proposal)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Денис', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja", "senya": "angelina"}
+LABELS = {"denis": "Денис", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.01'
 SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 
 INTRO = "Convinced by Kostya's advice, Denis rehearses a romantic marriage proposal for Katya in the kitchen, and Senya and Fedya volunteer to drop rose petals from the balcony during the ceremony. Listen to the rehearsal."
 
 STORY = [
-    ('anya', 'Катя, мы с тобой уже вместе.', 'Katya, you and I are together now.', [(246, 'Катя, с тех пор, как мы вместе')], 'adapted'),
-    ('anya', 'Ты наполняешь мою жизнь смыслом.', 'You fill my life with meaning.', [(247, 'ты наполняешь мою жизнь смыслом')], 'verbatim'),
-    ('anya', 'Без тебя я не я.', 'Without you I am not myself.', [(248, 'Без тебя я не я')], 'verbatim'),
-    ('anya', 'Без тебя я никто.', 'Without you I am nobody.', [(249, 'Без тебя я никто')], 'verbatim'),
-    ('anya', 'И не хочу никем быть.', 'And I do not want to be anyone else.', [(250, 'И не хочу никем быть')], 'verbatim'),
-    ('anya', 'Ты мой мир.', 'You are my world.', [(251, 'Ты мой мир')], 'verbatim'),
-    ('anya', 'Ты моя жизнь и моя вселенная.', 'You are my life and my universe.', [(252, 'Ты моя жизнь. Ты моя вселенная')], 'adapted'),
-    ('anya', 'Дорогая моя Катя.', 'My dear Katya.', [(253, 'Катя')], 'adapted'),
-    ('anya', 'Ты выйдешь за меня?', 'Will you marry me?', [(254, 'Ты выйдешь за меня?')], 'verbatim'),
-    ('anya', 'Как думаете, простит она меня?', 'What do you think, will she forgive me?', [(256, 'Как думаете, если так сделаю, простит она меня?')], 'adapted'),
+    ('denis', 'Катя, мы с тобой уже вместе.', 'Katya, you and I are together now.', [(246, 'Катя, с тех пор, как мы вместе')], 'adapted'),
+    ('denis', 'Ты наполняешь мою жизнь смыслом.', 'You fill my life with meaning.', [(247, 'ты наполняешь мою жизнь смыслом')], 'verbatim'),
+    ('denis', 'Без тебя я не я.', 'Without you I am not myself.', [(248, 'Без тебя я не я')], 'verbatim'),
+    ('denis', 'Без тебя я никто.', 'Without you I am nobody.', [(249, 'Без тебя я никто')], 'verbatim'),
+    ('denis', 'И не хочу никем быть.', 'And I do not want to be anyone else.', [(250, 'И не хочу никем быть')], 'verbatim'),
+    ('denis', 'Ты мой мир.', 'You are my world.', [(251, 'Ты мой мир')], 'verbatim'),
+    ('denis', 'Ты моя жизнь и моя вселенная.', 'You are my life and my universe.', [(252, 'Ты моя жизнь. Ты моя вселенная')], 'adapted'),
+    ('denis', 'Дорогая моя Катя.', 'My dear Katya.', [(253, 'Катя')], 'adapted'),
+    ('denis', 'Ты выйдешь за меня?', 'Will you marry me?', [(254, 'Ты выйдешь за меня?')], 'verbatim'),
+    ('denis', 'Как думаете, простит она меня?', 'What do you think, will she forgive me?', [(256, 'Как думаете, если так сделаю, простит она меня?')], 'adapted'),
     ('senya', 'Очень круто, точно простит.', 'Very cool, she will definitely forgive you.', [(257, 'Очень круто'), (257, 'простит')], 'adapted'),
-    ('fedya', 'А мы тебе в этом поможем.', 'And we will help you with that.', [(258, 'А мы тебе в этом поможем')], 'verbatim'),
+    ('denis', 'А мы тебе в этом поможем.', 'And we will help you with that.', [(258, 'А мы тебе в этом поможем')], 'verbatim'),
     ('senya', 'Обращайте внимание наверх.', 'Pay attention to the balcony above.', [(259, 'Обращайте внимание'), (260, 'наверх')], 'adapted'),
 ]
 
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'You are my world.' Denis addresses the listener with the informal singular 'you' alongside 'world'."),
     (6, None, "'You are my life and my universe.' Denis brings out the contrast between 'you' and 'my' in a few short words."),
     (7, None, "'My dear Katya.' The meaning hinges on 'dear' working together with 'Katya' in spoken Russian."),
-    (8, None, "'Will you marry me?' In Russian, the idea of 'you' flows naturally into 'me' without extra filler words."),
+    (8, None, "'Will you marry me?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question."),
     (9, None, "'What do you think, will she forgive me?' Denis anchors the line on 'how', while 'me' completes the thought."),
     (10, None, "'Very cool, she will definitely forgive you.' Notice how Russian expresses 'very' and 'she will forgive' with crisp inflection rather than helper words."),
     (11, None, "'And we will help you with that.' Notice how Russian expresses 'and' and 'will help' with crisp inflection rather than helper words. Senya answers right away."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Denis's proposal rehearsal. Notice the idiom for a woman getting married—literally 'will you go out behind me'. See you in the next scene."
-CLOSING = ('anya', 'Сегодня вечером я сделаю ей предложение!')
+OUTRO = "And that finishes Denis's proposal rehearsal. Notice the idiom for a woman getting married—literally 'will you go out behind me'. See you next time!"
+CLOSING = ("denis", "До завтра!")

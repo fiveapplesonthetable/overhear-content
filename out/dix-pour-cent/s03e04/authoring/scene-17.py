@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 17
-TITLE = "Des croissants chauds  (Warm Croissants)"
-LEVEL = "A1 — débutant"
+TITLE = 'Des croissants chauds  (Warm Croissants)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Mathias calls Noemie from outside her apartment building after the successful shoot. He thanks her warmly for saving the day, confirms she is alone, and brings warm croissants up to her flat. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With a bag of warm croissants and genuine gratitude, Mathias reconnects with Noemie after a stressful night. When you watch the episode, listen out for the expressions meaning 'disturb' and 'goes'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = "With a bag of warm croissants and genuine gratitude, Mathias reconnects with Noemie after a stressful night. When you watch the episode, listen out for the expressions meaning 'disturb' and 'goes'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('mathias', 'Allô Noémie, je ne vous dérange pas?', 'Hello Noemie, am I not disturbing you?', [(913, 'Eh, Mathias'), (914, 'Je vous dérange pas')], ''),
     ('noemie', 'Non Mathias, tout va très bien.', 'No Mathias, everything is going very well.', [(915, 'Non, non, ça va')], ''),

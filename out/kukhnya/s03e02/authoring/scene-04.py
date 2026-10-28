@@ -1,22 +1,22 @@
 ID = 'kukhnya-s03e02-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 4
-TITLE = 'Торпеда в борт  (A Torpedo to the Hull)'
+TITLE = "Торпеда в борт  (A Torpedo to the Hull)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Федя', 'senya': 'Сеня', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = 'Instead of screaming at the mouse in her locker, Katya calmly uses her molecular equipment to launch it right back at Senya and Fedya, sparking a full kitchen prank war.'
 
 STORY = [
-    ('anya', 'Там сложная формула.', 'There is a complex formula there.', [(46, 'Там сложная формула')], ''),
-    ('anya', 'У нас появился ещё один шутник.', 'We have got ourselves another prankster.', [(47, 'У нас появился еще один шутник')], ''),
-    ('anya', 'Хочешь войны? Будет тебе торпеда в борт.', 'Do you want war? You will get a torpedo to the hull.', [(48, 'Хочешь войны? Будет тебе торпеда в борт')], ''),
+    ('chef', 'Там сложная формула.', 'There is a complex formula there.', [(46, 'Там сложная формула')], ''),
+    ('chef', 'У нас появился ещё один шутник.', 'We have got ourselves another prankster.', [(47, 'У нас появился еще один шутник')], ''),
+    ('chef', 'Хочешь войны? Будет тебе торпеда в борт.', 'Do you want war? You will get a torpedo to the hull.', [(48, 'Хочешь войны? Будет тебе торпеда в борт')], ''),
     ('senya', 'Сеня, ну не надо.', "Senya, come on, don't.", [(49, 'Сеня, ну не надо')], ''),
     ('chef', 'Алло, как дела?', 'Hello, how are things?', [(50, 'Как дела'), (56, 'Алло')], 'adapted'),
     ('chef', 'Особо ничего.', 'Nothing special.', [(51, 'Особо ничего')], ''),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That concludes Scene Four. Listen for Fedya's naval threat 'a torpedo to the hull' and Chef Barinov ordering everyone back to work."
-CLOSING = ('chef', 'Быстро работать всем!')
+OUTRO = "That concludes Scene Four. Listen for Fedya's naval threat 'a torpedo to the hull' and Chef Barinov ordering everyone back to work. See you next time!"
+CLOSING = ("chef", "Всего хорошего!")

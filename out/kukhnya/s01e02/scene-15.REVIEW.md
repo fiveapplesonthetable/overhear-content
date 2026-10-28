@@ -1,39 +1,39 @@
-# kukhnya-s01e02-scene-15: review sheet
+# В погоне за вором  (Chasing the Thief) — `kukhnya-s01e02-scene-15`
 
-Title: В погоне за вором  (Chasing the Thief)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.2
+**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `kostya` | anja | Костя |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Staring at the empty shelf where the vintage cognac was displayed, Kostya panics under Vika's stern questioning. Realizing the bogus repairman stole the valuable bottle, Kostya sprints out to catch the thief before it is too late. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Куда пропала бутылка дорогого коньяка? | Where did the bottle of expensive cognac disappear to? | #192 00:14:10: Я не знаю | adapted: demanding answer |
-| 2 | Костя | Честно говоря, я совсем не знаю. | Honestly speaking, I don't know at all. | #192 00:14:10: Я не знаю | adapted: pleading ignorance |
-| 3 | Вика | А кто должен знать, если не ты? | And who should know if not you? | #193 00:14:13: А кто знает | adapted: pressing bartender |
-| 4 | Вика | Костя, тебя нужно немедленно уволить с работы! | Kostya, you need to be fired from your job immediately! | #193 00:14:13: Костя тебя что уволить | adapted: threatening dismissal |
-| 5 | Костя | Он точно стоял здесь, я сам помню. | It definitely stood here, I remember myself. | #194 00:14:16: Он здесь стоял я видел его | adapted: insisting |
-| 6 | Вика | Значит, этот фальшивый мастер украл его. | So that fake repairman stole it. | #195 00:14:23: Вот падла | adapted: deducing theft |
-| 7 | Костя | Вот же наглый подлый вор! | What an insolent, vile thief! | #195 00:14:23: Вот падла | adapted: expressing outrage |
-| 8 | Вика | Эта бутылка стоит огромных денег. | This bottle costs huge money. | #193 00:14:13: тебя что уволить | adapted: stating value |
-| 9 | Костя | Извините меня, я сейчас всё исправлю. | Excuse me, I will fix everything right now. | #196 00:14:25: Извините я сейчас | adapted: promising remedy |
-| 10 | Вика | Куда ты так быстро побежал? | Where did you run so fast? | #196 00:14:25: я сейчас | adapted: calling after him |
-| 11 | Костя | Я догоню этого вора и верну коньяк! | I will catch up with that thief and return the cognac! | #196 00:14:25: я сейчас | adapted: vowing retrieval |
-| 12 | Вика | Попробуй только не вернуть его назад! | Just you dare not bring it back! | #193 00:14:13: уволить | adapted: shouting ultimatum |
+| 0 | Вика | Куда пропала бутылка дорогого коньяка? | Where did the bottle of expensive cognac disappear to? | #192 "Я не знаю" |  |
+| 1 | Костя | Честно говоря, я совсем не знаю. | Honestly speaking, I don't know at all. | #192 "Я не знаю" |  |
+| 2 | Вика | А кто должен знать, если не ты? | And who should know if not you? | #193 "А кто знает" |  |
+| 3 | Вика | Костя, тебя нужно немедленно уволить с работы! | Kostya, you need to be fired from your job immediately! | #193 "Костя тебя что уволить" |  |
+| 4 | Костя | Он точно стоял здесь, я сам помню. | It definitely stood here, I remember myself. | #194 "Он здесь стоял я видел его" |  |
+| 5 | Вика | Значит, этот фальшивый мастер украл его. | So that fake repairman stole it. | #195 "Вот падла" |  |
+| 6 | Костя | Вот же наглый подлый вор! | What an insolent, vile thief! | #195 "Вот падла" |  |
+| 7 | Вика | Эта бутылка стоит огромных денег. | This bottle costs huge money. | #193 "тебя что уволить" |  |
+| 8 | Костя | Извините меня, я сейчас всё исправлю. | Excuse me, I will fix everything right now. | #196 "Извините я сейчас" |  |
+| 9 | Вика | Куда ты так быстро побежал? | Where did you run so fast? | #196 "я сейчас" |  |
+| 10 | Костя | Я догоню этого вора и верну коньяк! | I will catch up with that thief and return the cognac! | #196 "я сейчас" |  |
+| 11 | Вика | Попробуй только не вернуть его назад! | Just you dare not bring it back! | #193 "уволить" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Where did the bottle of expensive cognac disappear to?' Directional interrogative question with a past verb and nested genitive noun phrase.
-- 'Honestly speaking, I don't know at all.' Parenthetical adverbial participle phrase governing a negated present transitive verb.
-- 'And who should know if not you?' Rhetorical question with modal short adjective and conditional exception clause.
-- 'Kostya, you need to be fired from your job immediately!' Vika expresses this naturally by combining the word for 'one needs' with 'immediately' and 'to fire'.
-- 'It definitely stood here, I remember myself.' Past intransitive verb coordinated with an emphatic personal pronoun clause.
-- 'So that fake repairman stole it.' Consequential particle with a past transitive verb governing an accusative pronoun object.
-- 'What an insolent, vile thief!' Emphatic presentative particle phrase governing coordinated qualitative adjectives and masculine noun.
-- 'This bottle costs huge money.' Feminine subject with present verb of value governing genitive plural quantity.
-- 'Excuse me, I will fix everything right now.' Imperative formula of apology with future perfective verb and generalized direct object.
-- 'Where did you run so fast?' Interrogative spatial question with manner adverbs and past perfective verb of motion.
-- 'I will catch up with that thief and return the cognac!' Coordinated future perfective verbs governing animate and inanimate direct objects.
-- 'Just you dare not bring it back!' Vika leads with the direct command form meaning 'try', pairing it with 'to return' and 'back'.
+> Kostya dashes out of the restaurant in hot pursuit of the thief to recover the stolen cognac. Great work practicing energetic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bottle' and 'fast' — you will catch every word right away. See you next time!
+
+**Вика:** Пока!

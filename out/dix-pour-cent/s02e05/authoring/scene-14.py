@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 14
-TITLE = "Je peux et je le ferai  (I Can and I Will)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je peux et je le ferai  (I Can and I Will)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "guy": "marcel", "gabriel": "theo", "arlette": "emilie"}
-LABELS = {"guy": "Guy", "gabriel": "Gabriel", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'guy': 'marcel', 'gabriel': 'theo', 'arlette': 'emilie'}
+LABELS = {'guy': 'Guy', 'gabriel': 'Gabriel', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'On the movie set, veteran actor Guy Marchand arrives and confronts his agent Gabriel and Arlette. Suspecting that everyone thinks he is past his prime after a memory lapse, Guy passionately insists that he will finish the shoot. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'Despite his recent memory lapse, Guy Marchand makes it clear that he will not give up his role in the film. Join us next time to see what happens next.'
-CLOSING = ("guy", "Au revoir!")
+OUTRO = 'Despite his recent memory lapse, Guy Marchand makes it clear that he will not give up his role in the film. See you next time!'
+CLOSING = ('guy', 'Au revoir!')
 STORY = [
     ('guy', 'Gabriel, bonjour!', 'Gabriel, hello!', [(378, 'Gabriel'), (379, 'Bonjour')], ''),
     ('arlette', 'Bon, je vais dans mon bureau.', 'Well, I am going to my office.', [(381, 'Bon, je vais dans mon bureau')], ''),

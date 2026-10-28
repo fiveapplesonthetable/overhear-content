@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Je ne comprends absolument rien à cette signature! | I understand absolutely nothing about this signature! | 84:Émile Berthier. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the canet deal. When you watch the episode, listen out for the expressions meaning 'contract' and 'signed!'. You'll catch them now. See you next time.
+> That's it for this scene around the canet deal. When you watch the episode, listen out for the expressions meaning 'contract' and 'signed!'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

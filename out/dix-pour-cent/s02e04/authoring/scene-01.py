@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 1
-TITLE = "Arlette regarde une série  (Game of Thrones)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arlette regarde une série  (Game of Thrones)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "mathias": "marcel"}
-LABELS = {"arlette": "Arlette", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'mathias': 'marcel'}
+LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "We start at the reception desk with Sofia and Gabriel. Listen to the whole scene in French first — don't worry if it goes by fast."
 OPENER = "Let's examine how Arlette shares her passion for television with Mathias."
 TRANSITION = "Now let's listen to Arlette and Mathias's humorous banter again at full speed."
-OUTRO = "Arlette's obsession with fantasy television amuses the office, but Mathias remains strictly focused on client contracts. Their teasing dynamic highlights the lighthearted atmosphere at ASK before new challenges arrive. Until next time."
-CLOSING = ("arlette", "À demain!")
+OUTRO = "Arlette's obsession with fantasy television amuses the office, but Mathias remains strictly focused on client contracts. Their teasing dynamic highlights the lighthearted atmosphere at ASK before new challenges arrive. See you next time!"
+CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('arlette', 'Cette actrice est tellement magnétique et élégante.', 'That actress is so magnetic and elegant.', [(2, 'Elle est tellement... magnétique.'), (3, 'Tellement élégante.')], ''),
     ('arlette', 'Elle est vraiment poétique aussi.', 'She is truly poetic as well.', [(4, 'Poétique aussi.')], ''),

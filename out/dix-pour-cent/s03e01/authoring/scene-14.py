@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 14
-TITLE = "Nommer un directeur général  (Appointing a Managing Director)"
-LEVEL = "A1 — débutant"
+TITLE = 'Nommer un directeur général  (Appointing a Managing Director)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "catherine": "emilie"}
-LABELS = {"mathias": "Mathias", "catherine": "Catherine"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'catherine': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'catherine': 'Catherine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At home during a relaxing evening yoga session, senior agent Mathias vents to his wife Catherine about an ambush business dinner with Hicham. Frustrated by Hicham's wild ideas for outside branches, Mathias argues that the agency desperately needs an experienced Managing Director. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "While doing yoga with his wife Catherine, Mathias plots his path to becoming Managing Director of ASK amid Hicham's chaotic leadership. When you watch the episode, listen out for the expressions meaning 'dinner' and 'true'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "While doing yoga with his wife Catherine, Mathias plots his path to becoming Managing Director of ASK amid Hicham's chaotic leadership. When you watch the episode, listen out for the expressions meaning 'dinner' and 'true'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Ce dîner était un vrai traquenard!', 'That dinner was a total trap!', [(404, "c'était un vrai traquenard")], ''),
     ('mathias', "Je voulais discuter de l'avenir d'ASK.", 'I wanted to discuss the future of ASK.', [(405, "discuter de l'avenir de l'agence")], ''),

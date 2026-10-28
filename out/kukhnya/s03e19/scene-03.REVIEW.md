@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Apparently, time in my life flies very fast.' The meaning hinges on 'apparently' working together with 'quickly' in spoken Russian. Sasha answers right away.
-- 'Hello, Viktoriya Sergeyevna! How are you doing?' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'things to do'.
+- 'Hello, Viktoriya Sergeyevna! How are you doing?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Hello, Sasha! May I congratulate you already?' Vika raises the pitch on 'to congratulate' to turn the phrase into a direct spoken question.
 - 'Yes, I am getting married soon, I am having a baby.' Notice how Russian expresses 'yes' and 'baby' with crisp inflection rather than helper words. Max answers right away.
 - 'What do you mean married? I am not going to marry her!' Here the Russian phrasing highlights 'how' before landing on 'to marry'.
 - 'What do you have to do with it? Learn to count, daddy!' Here the Russian phrasing highlights 'and' before landing on 'daddy'.
 - 'Alright, I will not bother you, all the best!' Sasha anchors the line on 'all right', while 'good' completes the thought. Max answers right away.
 - 'Vika, I lied because I got scared because of Sasha.' The grammar packs 'Vika' and 'Sasha' into a tight, idiomatic kitchen exchange.
-- 'I thought everything had become fine between us lately.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'to become'.
+- 'I thought everything had become fine between us lately.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'And this baby, it turns out, is not mine at all.' Max brings out the contrast between 'and' and 'this' in a few short words. Vika answers right away.
 - 'Max, let us make a deal: you will never lie to me again.' Vika addresses the listener with the informal singular 'you' alongside 'to lie'.
 - 'Do you firmly promise me that right now?' Vika brings out the contrast between 'you' and 'to me' in a few short words.

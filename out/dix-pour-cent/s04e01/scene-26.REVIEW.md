@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Je t'aime de tout mon cœur. | I love you with all my heart. | 1011:Folle de toi |
 
 ## Part 5 — Outro & Closing
-> As Paris glides by through the taxi windows, Mathias and Noemie celebrate their shared love and professional partnership, sealing their future together with a passionate kiss as the season premiere concludes. When you watch the episode, listen out for the expressions meaning 'crazy' and 'laugh'. You'll catch them now. See you next time.
+> As Paris glides by through the taxi windows, Mathias and Noemie celebrate their shared love and professional partnership, sealing their future together with a passionate kiss as the season premiere concludes. When you watch the episode, listen out for the expressions meaning 'crazy' and 'laugh'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Au revoir!*

@@ -1,52 +1,48 @@
-ID = "kukhnya-s01e16-scene-14"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e16-scene-14.
+ID = 'kukhnya-s01e16-scene-14'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 14
 TITLE = "Потерянный ключ  (The Lost Key)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "leva": "angelina", "nastya": "anja"}
-LABELS = {"anya": "Шеф", "nastya": "Инспектор", "leva": "Макс / Сеня / Федя"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.16"
-SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
-SOURCE_NOTE = "Cues."
-
-INTRO = "In this scene focused on the lost key, the kitchen staff feigns ignorance about the lost key until Chef produces a spare. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
-OPENER = "Now let us examine the conversation line by line."
-TRANSITION = "This is the end of the scene."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the lost key, and for the words meaning 'saw' and 'spare'. You'll catch them now. See you next time."
-CLOSING = ("anya", "Конец.")
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "inspector": "angelina", "chef": "anja"}
+LABELS = {"inspector": "Инспектор", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
+SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
+INTRO = "Focused on the lost key, The kitchen staff feigns ignorance about the lost key until Chef produces a spare. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
+OPENER = 'Now let us examine the conversation line by line.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "The kitchen staff feigns ignorance about the lost key until Chef produces a spare. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'spare' — you will catch every word right away. See you next time!"
+CLOSING = ("inspector", "Пока!")
 STORY = [
-    ('anya', 'Никто не видел запасного ключа?', 'Has anyone seen the spare key?', [(169, 'Никто не видел запасного ключа?')], 'verbatim'),
-    ('leva', 'А мы не знаем.', 'We do not know.', [(170, 'А мы не знаем и не видели.')], 'adapted'),
-    ('leva', 'И не видели.', 'And we have not seen it.', [(170, 'А мы не знаем и не видели.')], 'adapted'),
-    ('nastya', 'Но вообще...', 'But, generally speaking...', [(171, 'Но вообще...')], 'verbatim'),
-    ('nastya', 'Ничем не смогу вам помочь.', 'I am afraid I cannot help you.', [(172, 'Ничем не смогу вам помочь.')], 'verbatim'),
-    ('nastya', 'Мои сотрудники потеряли ключ.', 'My staff lost the key.', [(173, 'Мои сотрудники потеряли ключ.')], 'verbatim'),
-    ('anya', 'Экая досада.', 'What a shame.', [(174, 'Экая досада. Ой-ой-ой.')], 'adapted'),
-    ('anya', 'Ой, ой, ой.', 'Oh, oh, oh.', [(174, 'Экая досада. Ой-ой-ой.')], 'adapted'),
-    ('nastya', 'А как же нам быть?', 'So what are we to do?', [(175, 'А как же нам теперь быть-то?')], 'adapted'),
-    ('anya', 'У меня есть запасной ключ.', 'I have a spare key.', [(176, 'У меня есть запасной ключ.')], 'verbatim'),
-    ('anya', 'Я всегда дубликаты храню.', 'I always keep a duplicate.', [(177, 'Я всегда дубликаты храню.')], 'verbatim'),
-    ('anya', 'А, вот он, ключ.', 'Ah, there is the key.', [(178, 'А, вот он, ключ.')], 'verbatim'),
-    ('nastya', 'Нашелся ключ?', 'Found the key?', [(179, 'Нашелся? Ключ.')], 'adapted'),
-
+    ('chef', 'Никто не видел запасного ключа?', 'Has anyone seen the spare key?', [(169, 'Никто не видел запасного ключа?')], ''),
+    ('inspector', 'А мы не знаем.', 'We do not know.', [(170, 'А мы не знаем и не видели.')], ''),
+    ('inspector', 'И не видели.', 'And we have not seen it.', [(170, 'А мы не знаем и не видели.')], ''),
+    ('inspector', 'Но вообще...', 'But, generally speaking...', [(171, 'Но вообще...')], ''),
+    ('inspector', 'Ничем не смогу вам помочь.', 'I am afraid I cannot help you.', [(172, 'Ничем не смогу вам помочь.')], ''),
+    ('inspector', 'Мои сотрудники потеряли ключ.', 'My staff lost the key.', [(173, 'Мои сотрудники потеряли ключ.')], ''),
+    ('chef', 'Экая досада.', 'What a shame.', [(174, 'Экая досада. Ой-ой-ой.')], ''),
+    ('chef', 'Ой, ой, ой.', 'Oh, oh, oh.', [(174, 'Экая досада. Ой-ой-ой.')], ''),
+    ('inspector', 'А как же нам быть?', 'So what are we to do?', [(175, 'А как же нам теперь быть-то?')], ''),
+    ('chef', 'У меня есть запасной ключ.', 'I have a spare key.', [(176, 'У меня есть запасной ключ.')], ''),
+    ('chef', 'Я всегда дубликаты храню.', 'I always keep a duplicate.', [(177, 'Я всегда дубликаты храню.')], ''),
+    ('chef', 'А, вот он, ключ.', 'Ah, there is the key.', [(178, 'А, вот он, ключ.')], ''),
+    ('inspector', 'Нашелся ключ?', 'Found the key?', [(179, 'Нашелся? Ключ.')], ''),
 ]
-
 WALK = [
-    (0, None, "'Has anyone seen the spare key?' Chef Viktor puts 'nobody' up front so the listener immediately catches the tone, followed by 'saw'."),
-    (1, None, "'We do not know.' Notice the word order: 'we' comes first, and 'know' finishes the sentence."),
-    (2, None, "'And we have not seen it.' Here 'saw' uses the plural past-tense ending, which also serves for the polite 'you'."),
-    (3, None, "'But, generally speaking...' You'll hear 'at all' all the time in the show, here connected with 'at all'."),
-    (4, None, "'I am afraid I cannot help you.' The first content word means 'by nothing', and 'to help' rounds out the thought."),
-    (5, None, "'My staff lost the key.' the speaker starts with 'employees' and pairs it with 'lost' to make the point clear. Chef Viktor answers straight away."),
-    (6, None, "'What a shame.' Chef Viktor puts 'what a' up front so the listener immediately catches the tone, followed by 'annoyance / shame'."),
-    (7, None, "'Oh, oh, oh.' In Russian, 'oh' leads into 'oh' in a very natural everyday phrasing."),
-    (8, None, "'So what are we to do?' The first content word means 'how', and 'be' rounds out the thought. Then Chef Viktor replies."),
-    (9, None, "'I have a spare key.' A compact expression built around 'me' and 'key'."),
-    (10, None, "'I always keep a duplicate.' In Russian, 'I' leads into 'to keep' in a very natural everyday phrasing."),
+    (0, None, "'Has anyone seen the spare key?' The verb for 'saw' is in the matching past tense, marked by the '-l' ending."),
+    (1, None, "'We do not know.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'know'."),
+    (2, None, "'And we have not seen it.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'saw'."),
+    (3, None, "'But, generally speaking...' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'at all'."),
+    (4, None, "'I am afraid I cannot help you.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (5, None, "'My staff lost the key.' Here the inspector anchors the line on the word meaning 'employees' and builds the thought around 'lost' and 'key'."),
+    (6, None, "'What a shame.' Russian omits the present-tense verb 'to be' here, linking 'what a' directly with 'annoyance', combining 'what a' with 'annoyance'."),
+    (7, None, "'Oh, oh, oh.' A crisp, everyday conversational reply meaning 'oh' that you will hear constantly in Russian dialogue."),
+    (8, None, "'So what are we to do?' the inspector puts the word for 'how' together with 'be' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'I have a spare key.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'key'."),
+    (10, None, "'I always keep a duplicate.' The phrasing opens with 'always' before bringing in 'duplicate' and 'to keep' to make the point clear."),
     (11, None, "'Ah, there is the key.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'he' straight to 'key'."),
-    (12, None, "'Found the key?' — Notice the verb meaning 'to turn up / be found' paired with the noun for 'key'."),
+    (12, None, "'Found the key?' The verb for 'to turn up' is in the matching past tense, marked by the '-l' ending."),
 ]

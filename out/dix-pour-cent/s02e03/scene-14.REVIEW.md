@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | Donc je fais attention, Mathias. | So I am being careful, Mathias. | 383:donc je fais attention |
 
 ## Part 5 — Outro & Closing
-> Mathias worries that Camille is lowering herself to an errand runner, but Camille remains determined to earn her promotion. Listen to the French scene once more. Until next time.
+> Mathias worries that Camille is lowering herself to an errand runner, but Camille remains determined to earn her promotion. Listen to the French scene once more. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

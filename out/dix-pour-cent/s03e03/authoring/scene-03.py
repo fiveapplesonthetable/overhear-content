@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 3
 TITLE = "La visite de Catherine  (Catherine's Visit)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "lea": "lucie"}
-LABELS = {"catherine": "Catherine", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'lea': 'lucie'}
+LABELS = {'catherine': 'Catherine', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At her apartment, recovering assistant Noemie Leclerc receives a surprise visit from Catherine Barneville. Bringing a comforting gift to make amends for the street accident, Catherine discovers Noemie's growing interest in spiritual healing. Let's listen to the scene in French first."
 OPENER = "Let's observe as Catherine and Noemie share a warm moment of connection."
 TRANSITION = "Now let's listen to Catherine and Noemie again at full speed."
-OUTRO = "Catherine and Noemie connect beyond professional boundaries, sharing thoughts on meditation and personal well-being. When you watch the episode, listen out for the expressions meaning 'to enter' and 'come in'. You'll catch them now. See you next time."
-CLOSING = ("catherine", "Bonne journée!")
+OUTRO = "Catherine and Noemie connect beyond professional boundaries, sharing thoughts on meditation and personal well-being. When you watch the episode, listen out for the expressions meaning 'to enter' and 'come in'. You'll catch them now. See you next time!"
+CLOSING = ('catherine', 'Bonne journée!')
 STORY = [
     ('catherine', 'Bonjour Noémie, je peux entrer?', 'Hello Noemie, may I come in?', [(214, 'Bonjour, Noémie.'), (216, 'Je peux entrer ?')], ''),
     ('lea', 'Bonjour Catherine, entrez, je vous en prie.', 'Hello Catherine, come in, please.', [(217, 'Oui, oui.')], ''),

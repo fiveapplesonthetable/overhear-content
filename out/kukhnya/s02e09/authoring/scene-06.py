@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e09-scene-06"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-06'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 6
-TITLE = 'Секретный заказ у Тимура  (A Secret Order from Timur)'
+TITLE = "Секретный заказ у Тимура  (A Secret Order from Timur)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'timur': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "timur": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "timur": "Тимур"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'Convinced that Chef Barinov is hiding a dark secret, the cooks decide to keep an eye on his every move. Out by the storage room, Barinov pulls supplier Timur aside and demands that he deliver a rare, dangerous delicacy immediately.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 6 of Episode 9, listen out for the exchange around a secret order from timur — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Нет, теперь мне надо сейчас.')
+OUTRO = 'That wraps up this scene as the cooks decide to spy on Chef Barinov, who meets supplier Timur by the cold storage room to demand an exotic and dangerous ingredient right away. See you next time!'
+CLOSING = ("anya", "Хорошего дня!")

@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Imagine, Lyova just bit me.' Putting the object pronoun 'me' before the subject highlights what happened to the speaker.
 - 'An unknown infection has gripped the capital.' News broadcasts use formal vocabulary like 'gripped/engulfed the capital'.
-- 'All exits out of Moscow are blocked.' The plural short-form participle 'blocked/shut' agrees with the plural noun 'exits'.
+- 'All exits out of Moscow are blocked.' Notice how Russian puts 'exits' and 'blocked' together in a short, direct phrase where word endings show how the ideas connect.
 - 'They say the virus arrived from Thailand.' Formal news reports use the verb 'arrived' rather than everyday 'came'.
 - 'Tourists are always dragging all kinds of nasty stuff back!' The adverb 'eternally' is used colloquially to mean 'always' when complaining.
 - 'Back, do not come near us!' Senya grabs a weapon as soon as he connects the news report to Max's bite.
 - 'Lyova is a very well-mannered person.' The adjective literally means 'well-brought-up' or 'polite'.
 - 'He does not bite anyone for no reason.' The two-word phrase 'simply so' is the everyday Russian idiom for 'for no reason'.
-- 'That means you are already infected, Max!' A masculine short-form participle states Max's condition.
+- 'That means you are already infected, Max!' In everyday Russian, 'already' flows straight into 'max' without extra linking words.
 - 'Guys, I was just joking!' Backed into a corner, Max desperately claims the bite was just a joke.
 - 'What, did you really believe it?' The verb 'to believe' is in the plural past tense.
 - 'A strange guest out there ordered brains.' In Russian culinary terms, 'brains' is always used in the plural.

@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where did I just walk in, a zoo?' Kostya anchors the line on 'where', while 'came' completes the thought.
 - 'And what are we all munching on here, huh?' Max brings out the contrast between 'and' and 'what' in a few short words.
 - 'Not on my tab, I hope, huh?' The grammar packs 'hope so' and 'and' into a tight, idiomatic kitchen exchange. Max answers right away.
-- 'No, no, of course not.' In Russian, the idea of 'there is no' flows naturally into 'you' without extra filler words.
+- 'No, no, of course not.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
 - 'Alright, go ahead and set a place for me over there too.' Kostya anchors the line on 'really?!', while 'to cover' completes the thought.
 - 'I would gladly eat something myself.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'would'. Kostya answers right away.
 - 'Yes, right away.' Here the Russian phrasing highlights 'yes' before landing on 'yes'.

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 19
-TITLE = 'У нас будет девочка  (We Are Having a Girl)'
+TITLE = "У нас будет девочка  (We Are Having a Girl)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "guest": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = "Outside the hotel, the real Iosif Prigozhin—now without the prop moustache—spots Max and Vika, proving beyond doubt that Max was telling the truth. Moved by Max's honesty, Vika apologizes and shares the happy news that they are having a baby girl."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings Episode Nine of Season Five to a warm conclusion. Listen for Vika apologizing for not believing Max and revealing that they are expecting a baby girl. See you next time.'
-CLOSING = ('vika', 'У нас будет девочка!')
+OUTRO = 'And that brings Episode Nine of Season Five to a warm conclusion. Listen for Vika apologizing for not believing Max and revealing that they are expecting a baby girl. Until next time!'
+CLOSING = ("vika", "Всего хорошего!")

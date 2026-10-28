@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, when I heard this, I was simply stunned!' Senya dramatizes his washroom eavesdropping with perfective past verbs.
+- 'Guys, when I heard this, I was simply stunned!' In everyday Russian, 'guys, boys' flows straight into 'to stunned' without extra linking words.
 - 'Folks, I do not understand, what is this meeting?' The colloquial question idiom 'what for a...' asks what kind of gathering is happening.
-- 'Tell us honestly, when will they lower our salary?' Dative plural 'to us' marks the workers whose pay is at stake.
-- 'And when will they throw us all out onto the street?' Accusative of direction after 'onto' expresses being fired.
+- 'Tell us honestly, when will they lower our salary?' Notice how Russian puts 'say' and 'salary' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And when will they throw us all out onto the street?' Here Senya anchors the thought on 'when' and finishes on 'street', keeping the spoken rhythm brisk and natural.
 - 'Guys, what is with you, have you gone completely nuts?' Max tries to deny his own rumor with an expressive colloquial verb.
-- 'Who on earth told you such nonsense?' Feminine accusative endings mark the object noun meaning nonsense.
-- 'We will go to German together right now!' The preposition 'to' governs the dative case on German's name.
-- 'Yes, let's go and find everything out from him!' First-person plural perfective verbs express immediate collective action.
-- 'Stop, folks, stand right here in place!' Max blocks the doorway with a sharp imperative command.
-- 'You do not need to go anywhere right now.' The negative modal predicate pairs with the multidirectional verb of walking.
+- 'Who on earth told you such nonsense?' Max pairs 'at all, even' with 'nonsense, trifle, nothing' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'We will go to German together right now!' Notice how Russian puts 'right now' and 'together' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Yes, let's go and find everything out from him!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Stop, folks, stand right here in place!' In everyday Russian, 'friend' flows straight into 'place' without extra linking words.
+- 'You do not need to go anywhere right now.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'I will go to German's office myself.' The emphatic pronoun highlights that Max alone will speak to the head chef.
-- 'And I will arrange for him not to touch your salary.' A reflexive verb of negotiating introduces a negative subjunctive clause.
+- 'And I will arrange for him not to touch your salary.' Here Max anchors the thought on 'to agree, to arrange' and finishes on 'salary', keeping the spoken rhythm brisk and natural.

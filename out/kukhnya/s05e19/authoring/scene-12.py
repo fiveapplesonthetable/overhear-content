@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 12
-TITLE = 'Бесплатные закуски по номерам  (Free Appetizers to the Hotel Rooms)'
+TITLE = "Бесплатные закуски по номерам  (Free Appetizers to the Hotel Rooms)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'inspector': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "anya": "alisa"}
+LABELS = {"senya": "Сеня", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = 'To attract more hotel guests to the restaurant, Max prepares bite-sized appetizers and forces Senya and Fedya to deliver them to the rooms—where they barge in on a French Michelin inspector.'
@@ -23,9 +23,9 @@ STORY = [
     ('anya', 'Вот вы двое и пойдёте их разносить.', 'You two are the ones who will go deliver them.', [(212, 'Вот вы двое и пойдете разносить')], 'adapted'),
     ('senya', 'Нет, мы повара, мы не официанты.', 'No, we are cooks, we are not waiters.', [(213, 'мы не официанты')], 'adapted'),
     ('anya', 'Вот именно, официантов я штрафовать не могу.', 'Exactly, I cannot fine the waiters.', [(214, 'Вот именно. Официантов я штрафовать не могу')], 'adapted'),
-    ('inspector', 'Здравствуйте, я ничего сегодня не заказывал.', 'Hello, I did not order anything today.', [(217, 'Здравствуйте'), (218, 'Я ничего не')], 'adapted'),
+    ('senya', 'Здравствуйте, я ничего сегодня не заказывал.', 'Hello, I did not order anything today.', [(217, 'Здравствуйте'), (218, 'Я ничего не')], 'adapted'),
     ('senya', 'Мы вам бесплатную закуску от шефа принесли.', 'We brought you a free snack from the chef.', [(219, 'принесли')], 'adapted'),
-    ('inspector', 'Простите, я вас совсем не понимаю.', 'Excuse me, I do not understand you at all.', [(220, 'Я не понимаю')], 'adapted'),
+    ('senya', 'Простите, я вас совсем не понимаю.', 'Excuse me, I do not understand you at all.', [(220, 'Я не понимаю')], 'adapted'),
     ('senya', 'Да мы сейчас поставим тарелку и уйдём.', 'We will just set the plate down right now and leave.', [(221, 'Да мы сейчас поставим, мы уйдем')], 'adapted'),
 ]
 
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "On his way out of the room, Senya secretly pockets the French guest's leather notebook. See you in the next scene."
-CLOSING = ('senya', 'Мы сейчас поставим и уйдём.')
+OUTRO = "On his way out of the room, Senya secretly pockets the French guest's leather notebook. See you next time!"
+CLOSING = ("senya", "Всего хорошего!")

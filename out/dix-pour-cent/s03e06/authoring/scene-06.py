@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 6
 TITLE = "L'homonyme  (The Namesake)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "isabelle": "emilie"}
-LABELS = {"lea": "Andréa", "isabelle": "Isabelle"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'isabelle': 'emilie'}
+LABELS = {'lea': 'Andréa', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In a Paris hospital corridor, Andrea Martel tracks down a hospital worker named Isabelle Huppert. Desperate to solve a movie production crisis, Andrea pitches an acting role to the bewildered nurse. Let's listen to their encounter in French first."
 OPENER = "Let's explore how Andrea pitches an acting role to an ordinary hospital nurse line by line."
 TRANSITION = "Now let's listen to this unusual hospital dialogue once more from beginning to end."
-OUTRO = "That's it for this scene around the namesake. When you watch the episode, listen out for the expressions meaning 'it is' and 'question?'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "À bientôt!")
+OUTRO = "That's it for this scene around the namesake. When you watch the episode, listen out for the expressions meaning 'it is' and 'question?'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'À bientôt!')
 STORY = [
     ('lea', 'Bonjour, vous êtes bien Isabelle Huppert?', 'Hello, are you indeed Isabelle Huppert?', [(363, 'Isabelle Huppert ?')], ''),
     ('isabelle', "Oui, c'est moi, pourquoi cette question?", 'Yes, that is me, why that question?', [(364, 'Oui ?')], ''),

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 14
 TITLE = "Совет Макса для Лёвы  (Max's Advice for Lyova)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina"}
+LABELS = {"anya": "Макс", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = "In the kitchen, Lyova gloomily watches the confident new cook Artyom flirt with Gulya. Thinking about how short life is after his grandfather's story, Max urges Lyova to imagine he has only one day left to live and go fight for the girl he loves."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings the pep talk in the kitchen to a close. Notice the conditional mood in Max's sentence—you would do everything you wanted—and the imperative meaning take action. See you in the next scene."
-CLOSING = ('anya', 'Так чего ждать? Действуй!')
+OUTRO = "That brings the pep talk in the kitchen to a close. Notice the conditional mood in Max's sentence—you would do everything you wanted—and the imperative meaning take action. See you next time!"
+CLOSING = ("anya", "До свидания!")

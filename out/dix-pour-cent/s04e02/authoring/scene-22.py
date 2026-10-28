@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 22
 TITLE = "Le départ de Dany Boon  (Dany Boon's Departure)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "lea": "lucie"}
-LABELS = {"elise": "Élise", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
+LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Andrea questions Elise about the true motive behind her late-night visit, only for Elise to drop a devastating bombshell: Dany Boon is leaving ASK to join StarMedia. Mathias has orchestrated the defection, leaving Andrea reeling from the betrayal. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts. When you watch the episode, listen out for the expressions meaning 'come' and 'decided'. You'll catch them now. See you next time."
-CLOSING = ("elise", "Bonne soirée!")
+OUTRO = "Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts. When you watch the episode, listen out for the expressions meaning 'come' and 'decided'. You'll catch them now. See you next time!"
+CLOSING = ('elise', 'Bonne soirée!')
 STORY = [
     ('lea', "Tu n'es pas venue juste pour ça.", 'You did not come just for that.', [(1048, "tu n'es pas venue pour me dire ça")], ''),
     ('elise', 'Dany Boon a décidé de quitter ASK.', 'Dany Boon has decided to leave ASK.', [(1049, 'Dany Boon quitte ASK')], ''),

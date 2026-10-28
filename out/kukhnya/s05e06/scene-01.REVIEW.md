@@ -19,8 +19,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Вика | Ты уже почти не муж. | You are already almost not my husband. | #12 00:01:42: ты уже почти не муж | adapted: adapted |
 | 8 | Вика | Я не собираюсь перед тобой отчитываться. | I am not going to report to you. | #13 00:01:46: я не собираюсь перед тобой отчитываться | adapted: adapted |
 | 9 | Аня | Кто отец ребёнка? | Who is the child's father? | #16 00:01:54: Кто отец ребенка | adapted: adapted |
-| 10 | Элеонора | Это твой повар её бросил! | It was your cook who dumped her! | #19 00:02:09: это твой повар ее бросил | adapted: adapted |
-| 11 | Элеонора | С этого момента я беру её под контроль. | From this moment I am taking her under my control. | #21 00:02:15: с этого момента я<br>#22 00:02:19: беру ее под свой контроль | adapted: adapted |
+| 10 | Вика | Это твой повар её бросил! | It was your cook who dumped her! | #19 00:02:09: это твой повар ее бросил | adapted: adapted |
+| 11 | Вика | С этого момента я беру её под контроль. | From this moment I am taking her under my control. | #21 00:02:15: с этого момента я<br>#22 00:02:19: беру ее под свой контроль | adapted: adapted |
 | 12 | Аня | Я сам прослежу за ребёнком. | I will look after the child myself. | #25 00:02:26: Я прослежу за ребенком | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

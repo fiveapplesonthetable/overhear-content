@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is wrong with you?' Kostya raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Oh, just family stuff.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Vika has really worn me out.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'She nags me over every little thing.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Find some mistake of hers.' In spoken Russian, Kostya omits unnecessary linking verbs so the key idea lands immediately.
-- 'Then she won't be able to reproach you.' Kostya uses natural conversational word order here to highlight the most important part of the reply.
+- 'Oh, just family stuff.' In everyday Russian, 'so, like this' flows straight into 'family' without extra linking words.
+- 'Vika has really worn me out.' Max pairs 'already' with 'to take out, to get, to reach' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'She nags me over every little thing.' Notice how Russian puts 'nag' and 'matter' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Find some mistake of hers.' Here Kostya anchors the thought on 'find' and finishes on 'hers', keeping the spoken rhythm brisk and natural.
+- 'Then she won't be able to reproach you.' In everyday Russian, 'then, in that case' flows straight into 'to reproach' without extra linking words.
 - 'What kind of mistake?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'I don't know.' Kostya keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Or maybe she uses your razor.' Kostya uses natural conversational word order here to highlight the most important part of the reply.
-- 'Does that really happen?' Nastya uses natural conversational word order here to highlight the most important part of the reply.
-- 'It doesn't seem so.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Keep looking.' Kostya uses natural conversational word order here to highlight the most important part of the reply.
+- 'I don't know.' Spoken Russian keeps this brief and expressive, built right around 'know' without extra helper words.
+- 'Or maybe she uses your razor.' Here Kostya anchors the thought on 'razor' and finishes on 'to use, to take advantage of', keeping the spoken rhythm brisk and natural.
+- 'Does that really happen?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question.
+- 'It doesn't seem so.' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
+- 'Keep looking.' Spoken Russian keeps this brief and expressive, built right around 'look for' without extra helper words.

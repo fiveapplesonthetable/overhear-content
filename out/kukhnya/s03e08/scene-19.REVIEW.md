@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Tell me, what happened with you?' The meaning hinges on 'tell' working together with 'happened' in spoken Russian.
 - 'Everything is simply great with me.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'perfectly'.
 - 'I now work as a simple courier.' Max anchors the line on 'I', while 'courier' completes the thought.
-- 'And my Vika is now with Nagiyev.' The grammar packs 'and' and 'Nagiyev' into a tight, idiomatic kitchen exchange.
+- 'And my Vika is now with Nagiyev.' Max centers this short reply on 'now', letting a few direct words carry the whole meaning.
 - 'So I will go back to Voronezh.' The meaning hinges on 'so' working together with 'back' in spoken Russian. Chef Barinov answers right away.
 - 'Listen to me very carefully right now.' In Russian, the idea of 'listen' flows naturally into 'carefully' without extra filler words.
 - 'If you run away now, you will regret it your whole life.' Spoken Russian keeps this brisk, leaning on 'if' and finishing on 'will'.

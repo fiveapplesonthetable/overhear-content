@@ -27,5 +27,5 @@
 | 13 | `virginie` (Virginie) | Ça va aller. Merci beaucoup. | It will be fine. Thank you very much. | 25:Ça va aller., 26:Merci beaucoup. |
 
 ## Part 5 — Outro & Closing
-> Virginie and Ramzy seem completely united on screen, but fame and intense schedules put heavy pressure on their relationship. next time, a sudden crisis will threaten everything.
+> Virginie and Ramzy seem completely united on screen, but fame and intense schedules put heavy pressure on their relationship. See you next time!
 - **Closing**: `virginie`: *Bonne journée!*

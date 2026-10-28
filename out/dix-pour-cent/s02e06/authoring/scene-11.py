@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 11
-TITLE = "La répétition du discours  (Rehearsing the Speech)"
-LEVEL = "A1 — débutant"
+TITLE = 'La répétition du discours  (Rehearsing the Speech)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "technicien": "theo", "juliette": "emilie"}
-LABELS = {"technicien": "Le technicien", "juliette": "Juliette"}
+VOICES = {'narrator': 'sky', 'technicien': 'theo', 'juliette': 'emilie'}
+LABELS = {'technicien': 'Le technicien', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "On stage inside the grand festival auditorium in Cannes, Juliette Binoche rehearses her opening ceremony address. An audio technician tests a discreet wireless earpiece designed to prompt her speech lines seamlessly. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Juliette Binoche rehearses her Cannes opening speech under the guidance of a sound technician. Through a hidden wireless earpiece, she learns to receive prompting smoothly without breaking character. Until next time.'
-CLOSING = ("technicien", "Bonne journée!")
+OUTRO = 'Juliette Binoche rehearses her Cannes opening speech under the guidance of a sound technician. Through a hidden wireless earpiece, she learns to receive prompting smoothly without breaking character. See you next time!'
+CLOSING = ('technicien', 'Bonne journée!')
 STORY = [
     ('juliette', "Bonsoir à tous, merci d'être venus.", 'Good evening everyone, thank you for coming.', [(230, 'Bonsoir à tous'), (231, "Merci d'être venus.")], ''),
     ('juliette', "C'est avec une immense fierté que je vous accueille ici.", 'It is with immense pride that I welcome you here.', [(232, "C'est avec une immense fierté que je vous accueille ici,")], ''),

@@ -1,43 +1,41 @@
-# kukhnya-s01e06-scene-20: review sheet
+# До следующей Пасхи  (Until Next Easter) — `kukhnya-s01e06-scene-20`
 
-Title: До следующей Пасхи  (Until Next Easter)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.06
+**Source:** Кухня (Kukhnya) S1.06 · `sources/kukhnya/s01/e06.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Chef Viktor Barinov grows furious over the delay in preparing the truffle salad for the inspector. He confronts Max, who desperately stalls for time while trying to recover the missing luxury ingredients. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Огузок, где мой свежий дорогой трюфель? | Rump, where is my fresh expensive truffle? | #243 00:18:29: свои трюфель | adapted: impatient demand |
-| 2 | Шеф | Я буду ждать его до следующей Пасхи? | Am I going to wait for it until next Easter? | #243 00:18:29: дышащей Пасхи буду ждать | adapted: sarcastic complaint |
-| 3 | Макс | Шеф, я уже несу, всё хорошо! | Chef, I am already bringing it, all is well! | #244 00:18:32: Шеф<br>#245 00:18:33: несу. Все хорошо | adapted: panicked reassurance |
-| 4 | Шеф | Ты слишком медленно работаешь на кухне! | You work too slowly in the kitchen! | new | new: criticizing pace |
-| 5 | Шеф | Важный гость ждёт свой заказ. | The important guest is waiting for his order. | new | new: emphasizing VIP |
-| 6 | Макс | Я ищу самый лучший гриб. | I am looking for the best mushroom. | new | new: inventing excuse |
-| 7 | Шеф | У тебя есть ровно одна минута! | You have exactly one minute! | new | new: strict ultimatum |
-| 8 | Шеф | Иначе я лично тебя уволю сегодня! | Otherwise I will personally fire you today! | new | new: severe threat |
-| 9 | Макс | Не переживайте, шеф, заказ будет готов. | Do not worry, chef, the order will be ready. | new | new: desperate pledge |
-| 10 | Шеф | Я хочу видеть результат прямо сейчас. | I want to see the result right now. | new | new: demanding delivery |
-| 11 | Макс | Мы выполнили все ваши сложные условия. | We fulfilled all your difficult conditions. | #246 00:19:23: Мы выполнили твои условия | adapted: quoting conditions |
-| 12 | Шеф | Что ты там бормочешь себе под нос? | What are you muttering under your breath there? | new | new: suspicious reaction |
-| 13 | Макс | Я говорю, что всё под контролем. | I am saying that everything is under control. | new | new: covering tracks |
-| 14 | Шеф | Тогда неси трюфель на стол шефа! | Then bring the truffle to the chef table! | new | new: final order |
+| 0 | Шеф | Огузок, где мой свежий дорогой трюфель? | Rump, where is my fresh expensive truffle? | #243 "свои трюфель" |  |
+| 1 | Шеф | Я буду ждать его до следующей Пасхи? | Am I going to wait for it until next Easter? | #243 "дышащей Пасхи буду ждать" |  |
+| 2 | Макс | Шеф, я уже несу, всё хорошо! | Chef, I am already bringing it, all is well! | #244 "Шеф", #245 "несу. Все хорошо" |  |
+| 3 | Шеф | Ты слишком медленно работаешь на кухне! | You work too slowly in the kitchen! | *(added)* |  |
+| 4 | Шеф | Важный гость ждёт свой заказ. | The important guest is waiting for his order. | *(added)* |  |
+| 5 | Макс | Я ищу самый лучший гриб. | I am looking for the best mushroom. | *(added)* |  |
+| 6 | Шеф | У тебя есть ровно одна минута! | You have exactly one minute! | *(added)* |  |
+| 7 | Шеф | Иначе я лично тебя уволю сегодня! | Otherwise I will personally fire you today! | *(added)* |  |
+| 8 | Макс | Не переживайте, шеф, заказ будет готов. | Do not worry, chef, the order will be ready. | *(added)* |  |
+| 9 | Шеф | Я хочу видеть результат прямо сейчас. | I want to see the result right now. | *(added)* |  |
+| 10 | Макс | Мы выполнили все ваши сложные условия. | We fulfilled all your difficult conditions. | #246 "Мы выполнили твои условия" |  |
+| 11 | Шеф | Что ты там бормочешь себе под нос? | What are you muttering under your breath there? | *(added)* |  |
+| 12 | Макс | Я говорю, что всё под контролем. | I am saying that everything is under control. | *(added)* |  |
+| 13 | Шеф | Тогда неси трюфель на стол шефа! | Then bring the truffle to the chef table! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Rump, where is my fresh expensive truffle?' Chef Barinov aggressively interrogates his assistant.
-- 'Am I going to wait for it until next Easter?' A sarcastic complaint about the intolerable delay.
-- 'Chef, I am already bringing it, all is well!' Max offers empty assurances while trying to solve the problem.
-- 'You work too slowly in the kitchen!' The head chef scolds the young cook for poor pace.
-- 'The important guest is waiting for his order.' Barinov stresses that a VIP customer is seated.
-- 'I am looking for the best mushroom.' Max invents a perfectionist excuse for the holdup.
-- 'You have exactly one minute!' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'there is' with 'exactly' and 'one'.
-- 'Otherwise I will personally fire you today!' Chef Barinov expresses this naturally by combining the word for 'otherwise' with 'personally' and 'will fire'.
-- 'Do not worry, chef, the order will be ready.' Max desperately promises that the dish will leave the pass.
-- 'I want to see the result right now.' Barinov demands immediate tangible proof on the line.
-- 'We fulfilled all your difficult conditions.' Max quotes the harsh demands of the mystery holder.
-- 'What are you muttering under your breath there?' The chef catches the suspicious quiet comment.
-- 'I am saying that everything is under control.' Max quickly covers up his slip of the tongue.
-- 'Then bring the truffle to the chef table!' Barinov gives a final directive to deliver the delicacy. Alright, let's hear the whole thing once more.
+> Max faces extreme pressure from Chef Barinov to deliver the truffle immediately. Until then! Next time you watch the episode, listen for the Russian expressions for 'to mutter' and 'to be' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

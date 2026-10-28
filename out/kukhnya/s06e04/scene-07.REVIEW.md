@@ -12,14 +12,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Врач | Здравствуйте, Виктор Петрович. | Hello, Viktor Petrovich. | #105 00:07:10: Здравствуйте<br>#106 00:07:12: Виктор Петрович | adapted: adapted |
 | 2 | Врач | И как ты это называешь? | And what do you call this? | #108 00:07:19: как это называешь? | adapted: adapted |
-| 3 | Аня | Какими судьбами ты здесь? | What brings you here? | #109 00:07:21: Какими судьбами? | adapted: adapted |
+| 3 | Врач | Какими судьбами ты здесь? | What brings you here? | #109 00:07:21: Какими судьбами? | adapted: adapted |
 | 4 | Врач | А вот это что в мусорке? | And what is this here in the trash? | #110 00:07:24: А вот это что? | adapted: adapted |
 | 5 | Врач | А ведь я предупреждал тебя, Витя. | After all, I warned you, Vitya. | #111 00:07:27: А ведь я предупреждал | adapted: adapted |
 | 6 | Врач | Если ты не перестанешь работать как лошадь, все закончится оркестром. | If you do not stop working like a horse, it will all end with an orchestra. | #112 00:07:29: ты не перестанешь<br>#112 00:07:29: как лошадь, все это закончится оркестром | adapted: adapted |
 | 7 | Врач | И печальной музыкой. | And mournful music. | #113 00:07:33: И печальной музыкой | adapted: exact |
 | 8 | Врач | Скажи, ты хоть принимаешь то, что я тебе прописал? | Tell me, are you at least taking what I prescribed for you? | #114 00:07:35: Скажи, ты хоть принимаешь то, что я тебе прописал? | adapted: exact |
-| 9 | Аня | Конечно, три раза в день вместо еды. | Of course, three times a day instead of food. | #115 00:07:37: Конечно. Три раза в день вместо еды | adapted: exact |
-| 10 | Аня | Ты проведать меня пришел или контролировать? | Did you come to check on me or to monitor me? | #116 00:07:41: Ты проведать меня пришел?<br>#117 00:07:42: контролировать | adapted: adapted |
+| 9 | Врач | Конечно, три раза в день вместо еды. | Of course, three times a day instead of food. | #115 00:07:37: Конечно. Три раза в день вместо еды | adapted: exact |
+| 10 | Врач | Ты проведать меня пришел или контролировать? | Did you come to check on me or to monitor me? | #116 00:07:41: Ты проведать меня пришел?<br>#117 00:07:42: контролировать | adapted: adapted |
 | 11 | Катя | Здравствуйте, разрешите украсть у вас папу? | Hello, may I steal my dad from you? | #119 00:07:48: Здравствуйте. Разрешите украсть у вас папу? | adapted: exact |
 | 12 | Врач | Конечно, пожалуйста. | Of course, go right ahead. | #120 00:07:50: Конечно | adapted: adapted |
 

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 17
 TITLE = "Le mot de Monica  (Monica's Note)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Gabriel arrives late and exhausted at the ASK offices after sleeping on Andrea's sofa. He finds a package left by Monica Bellucci and faces questions from senior partner Mathias Barneville. Listen to their conversation in French first."
 OPENER = 'Let us discover how Gabriel faces the consequences of his dramatic night.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Gabriel deals with the fallout from his disastrous dinner with Monica Bellucci while ASK faces a staff crisis. When you watch the episode, listen out for the expressions meaning 'dropped off' and 'belongings'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À demain!")
+OUTRO = "Gabriel deals with the fallout from his disastrous dinner with Monica Bellucci while ASK faces a staff crisis. When you watch the episode, listen out for the expressions meaning 'dropped off' and 'belongings'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À demain!')
 STORY = [
     ('gabriel', 'Qui a déposé ces affaires ici?', 'Who dropped off these things here?', [(826, 'Antoine, qui a mis mes affaires dans mon bureau, là ?')], ''),
     ('mathias', 'Monica Bellucci est passée ce matin.', 'Monica Bellucci came by this morning.', [(828, 'Monica est venue les déposer ce matin.')], ''),

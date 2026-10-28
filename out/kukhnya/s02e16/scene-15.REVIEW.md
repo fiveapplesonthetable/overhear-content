@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Спасибо, что не в нос. | Thank goodness you did not punch me in the nose. | #250 00:15:37: Спасибо, что не в нос | verbatim |
-| 2 | Нагиев | Вам пришли. | Your guests have arrived. | #253 00:16:31: вам пришли | verbatim |
-| 3 | Аня | Я не одна. | I did not come alone. | #254 00:16:47: я не одна | verbatim |
-| 4 | Нагиев | Я подумала. | I thought it over. | #255 00:16:50: Я подумала | verbatim |
-| 5 | Аня | Так сказать. | So to speak. | #256 00:16:54: так сказать | verbatim |
-| 6 | Нагиев | Прошу. Спасибо. | Please, have a seat. Thank you. | #257 00:16:59: Прошу. Спасибо | verbatim |
-| 7 | Аня | Классическая французская атмосфера. | A classic French atmosphere. | #260 00:17:08: Классическая французская атмосфера | verbatim |
-| 8 | Нагиев | Ну, нормального дизайнера поленились найти. | So they were too lazy to hire a decent interior designer. | #261 00:17:12: Ну, нормального дизайнера поленились найти | verbatim |
-| 9 | Аня | И что у вас с шоу программы? | And what kind of entertainment show do you have here? | #262 00:17:14: И что у вас с шоу программы | verbatim |
-| 10 | Нагиев | В ресторане люди и едят, они развлекаются. | People come to a restaurant to eat, not to watch a circus. | #265 00:17:24: В ресторане люди и едят, они развлекаются | verbatim |
-| 11 | Аня | Когда готовить не умеют, то отвлекают шоу программой. | When a place cannot cook, they distract guests with a show. | #267 00:17:28: Когда готовить не умеют, то отвлекают шоу программой | verbatim |
-| 12 | Нагиев | Ну, мама в ресторане готовить умеет. | Well, at mom's restaurant they know how to cook. | #268 00:17:31: Ну, мама в ресторане готовить умеет | verbatim |
-| 13 | Аня | Так, так, так. | Well, well, well. | #268 00:17:31: Так, так, так | verbatim |
+| 1 | Вика | Спасибо, что не в нос. | Thank goodness you did not punch me in the nose. | #250 00:15:37: Спасибо, что не в нос | verbatim |
+| 2 | Вика | Вам пришли. | Your guests have arrived. | #253 00:16:31: вам пришли | verbatim |
+| 3 | Вика | Я не одна. | I did not come alone. | #254 00:16:47: я не одна | verbatim |
+| 4 | Вика | Я подумала. | I thought it over. | #255 00:16:50: Я подумала | verbatim |
+| 5 | Вика | Так сказать. | So to speak. | #256 00:16:54: так сказать | verbatim |
+| 6 | Вика | Прошу. Спасибо. | Please, have a seat. Thank you. | #257 00:16:59: Прошу. Спасибо | verbatim |
+| 7 | Вика | Классическая французская атмосфера. | A classic French atmosphere. | #260 00:17:08: Классическая французская атмосфера | verbatim |
+| 8 | Вика | Ну, нормального дизайнера поленились найти. | So they were too lazy to hire a decent interior designer. | #261 00:17:12: Ну, нормального дизайнера поленились найти | verbatim |
+| 9 | Вика | И что у вас с шоу программы? | And what kind of entertainment show do you have here? | #262 00:17:14: И что у вас с шоу программы | verbatim |
+| 10 | Вика | В ресторане люди и едят, они развлекаются. | People come to a restaurant to eat, not to watch a circus. | #265 00:17:24: В ресторане люди и едят, они развлекаются | verbatim |
+| 11 | Вика | Когда готовить не умеют, то отвлекают шоу программой. | When a place cannot cook, they distract guests with a show. | #267 00:17:28: Когда готовить не умеют, то отвлекают шоу программой | verbatim |
+| 12 | Вика | Ну, мама в ресторане готовить умеет. | Well, at mom's restaurant they know how to cook. | #268 00:17:31: Ну, мама в ресторане готовить умеет | verbatim |
+| 13 | Вика | Так, так, так. | Well, well, well. | #268 00:17:31: Так, так, так | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

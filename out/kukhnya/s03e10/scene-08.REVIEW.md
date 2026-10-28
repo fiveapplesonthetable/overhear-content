@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You had better look at yourself, Dad.' Here the Russian phrasing highlights 'you' before landing on 'dad'.
 - 'The whole kitchen laughs at you acting like a teenager.' Katya brings out the contrast between 'for' and 'you' in a few short words.
 - 'Stay out of my life, it is my own business.' The negative particle sits right before the verb meaning 'poke nose' to negate the statement. Chef Barinov answers right away.
-- 'Why, I am only looking out for you!' Notice the reflexive suffix on the verb meaning 'I care for', turning the action back on the subject.
+- 'Why, I am only looking out for you!' Chef Barinov centers this short reply on 'I care for, look after', letting a few direct words carry the whole meaning.
 - 'Is it not a bit too late to become a caring dad?' Katya raises the pitch on 'dad' to turn the phrase into a direct spoken question.
 - 'Stop, wait, I have not finished speaking yet.' Chef Barinov brings out the contrast between 'stop' and 'wait' in a few short words. Max answers right away.
 - 'Chef, may I speak with you for a second?' Max raises the pitch on 'second' to turn the phrase into a direct spoken question.

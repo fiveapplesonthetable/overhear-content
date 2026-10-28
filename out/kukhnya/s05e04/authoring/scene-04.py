@@ -1,23 +1,23 @@
 ID = 'kukhnya-s05e04-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 4
-TITLE = 'Елена приглашает подругу на обед  (Elena Invites Her Friend to Lunch)'
+TITLE = "Елена приглашает подругу на обед  (Elena Invites Her Friend to Lunch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja', 'hostess': 'angelina'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена', 'hostess': 'Хостес'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "chef": "anja"}
+LABELS = {"elena": "Елена", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = "When Kostya summons Barinov to the kitchen, Victor says goodbye to Elena until their date tomorrow. Before leaving the hotel, however, Elena gets a call from her friend Natasha and decides to stay for lunch in Barinov's restaurant."
 
 STORY = [
-    ('anya', 'Увы, ах, надо идти.', 'Alas and alack, I have to go.', [(57, 'Увы, ах, надо')], 'adapted'),
-    ('anya', 'Ничего без меня не могут.', 'They cannot do a single thing without me.', [(58, 'Ничего без меня')], 'adapted'),
+    ('chef', 'Увы, ах, надо идти.', 'Alas and alack, I have to go.', [(57, 'Увы, ах, надо')], 'adapted'),
+    ('chef', 'Ничего без меня не могут.', 'They cannot do a single thing without me.', [(58, 'Ничего без меня')], 'adapted'),
     ('elena', 'Ну, мне тоже пора. Да.', 'Well, it is time for me to go too. Yes.', [(59, 'Ну, мне тоже')], 'adapted'),
-    ('anya', 'До завтра. До завтра.', 'Until tomorrow. Until tomorrow.', [(60, 'До завтра. До')], 'adapted'),
+    ('chef', 'До завтра. До завтра.', 'Until tomorrow. Until tomorrow.', [(60, 'До завтра. До')], 'adapted'),
     ('elena', 'Алло. Да, Наташа.', 'Hello. Yes, Natasha.', [(61, 'Алло. Да, Наташа')], 'adapted'),
     ('elena', 'А я в Виктории, ага.', 'I am at the Victor right now, yeah.', [(62, 'А я в')], 'adapted'),
     ('elena', 'Который в отеле.', 'The one inside the hotel.', [(63, 'Который в отеле')], 'adapted'),
@@ -25,7 +25,7 @@ STORY = [
     ('elena', 'Подъезжай, пообедаем, поболтаем.', 'Drive up, we will have lunch and chat.', [(64, 'Давай, подъезжай. Подъезжай')], 'adapted'),
     ('elena', 'Давай, я тебя жду.', 'Come on, I am waiting for you.', [(65, 'Давай, жду')], 'adapted'),
     ('elena', 'Жду тебя в ресторане.', 'I am waiting for you in the restaurant.', [(65, 'Давай, жду')], 'adapted'),
-    ('hostess', 'Здрасте, проходите пожалуйста.', 'Hello, please come right in.', [(66, 'Здрасте')], 'adapted'),
+    ('chef', 'Здрасте, проходите пожалуйста.', 'Hello, please come right in.', [(66, 'Здрасте')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Chef Barinov and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Здрасте, проходите пожалуйста.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Chef Barinov and the team handle the pressure when you watch the episode. See you next time!'
+CLOSING = ("chef", "Хорошего дня!")

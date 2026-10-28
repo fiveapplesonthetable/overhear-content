@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Trinquons à notre belle amitié secrète! | Let us toast to our lovely secret friendship! | 1155:À sainte Patsy ! |
 
 ## Part 5 — Outro & Closing
-> Andrea and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business. When you watch the episode, listen out for the expressions meaning 'nanny' and 'fabulous'. You'll catch them now. See you next time.
+> Andrea and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business. When you watch the episode, listen out for the expressions meaning 'nanny' and 'fabulous'. You'll catch them now. See you next time!
 - **Closing**: `elise`: *Bonne journée!*

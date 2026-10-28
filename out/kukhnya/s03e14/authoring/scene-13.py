@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 13
-TITLE = 'Ложная скорая и байкеры в зале  (Fake Ambulance and Bikers in the Hall)'
+TITLE = "Ложная скорая и байкеры в зале  (Fake Ambulance and Bikers in the Hall)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'timur': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'timur': 'Тимур', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "timur": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"timur": "Тимур", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'Max calls an ambulance pretending to have appendicitis, but Timur catches him in the hallway and drags him toward the courtyard door. Meanwhile, Chef Barinov learns why Stas brought a gang of bikers. Listen to the Russian scene first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Hearing that Stas expects an ambush gives Chef Barinov a clever new angle. First, let's see what happens when Louis and Fedya spring their scare trap in Scene Fourteen!"
-CLOSING = ('timur', 'Смотри, не подведи меня!')
+OUTRO = "Hearing that Stas expects an ambush gives Chef Barinov a clever new angle. First, let's see what happens when Louis and Fedya spring their scare trap in Scene Fourteen! Until next time!"
+CLOSING = ("timur", "До свидания!")

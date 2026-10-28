@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 7
-TITLE = "Le canard gonflable  (The Inflatable Duck)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le canard gonflable  (The Inflatable Duck)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "christophe": "theo", "lea": "lucie"}
-LABELS = {"christophe": "Christophe", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'christophe': 'theo', 'lea': 'lucie'}
+LABELS = {'christophe': 'Christophe', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "At the theatre rehearsal hall, Andréa meets young avant-garde director Christophe Bel. François Berléand refuses to act in the swimming pool, but Christophe insists that the pool and his giant yellow duck are essential to his artistic vision. Let's listen to their confrontation in French first."
 OPENER = "Let's examine how Andréa defends her star client against a stubborn director."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Andréa made her point clearly: a young director cannot push around an established star like François Berléand. next time, we will check in on Camille back at the agency.'
-CLOSING = ("christophe", "Bonne journée!")
+OUTRO = 'Andréa made her point clearly: a young director cannot push around an established star like François Berléand. See you next time!'
+CLOSING = ('christophe', 'Bonne journée!')
 STORY = [
     ('christophe', "Quoi? Pourquoi pas? C'est complètement absurde!", 'What? Why not? It is completely absurd!', [(177, 'Quoi ?'), (178, 'Pourquoi pas ?'), (178, "C'est complètement absurde !")], ''),
     ('lea', "Tu voulais Berléand, tu l'as.", 'You wanted Berléand, you have him.', [(179, "Tu voulais Berléand, tu l'as.")], ''),

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 3
 TITLE = "Les trente ans d'ASK  (Thirty Years of ASK)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the ASK office, senior agent Mathias Barneville walks executive director Hicham Janowski through party plans. Insisting on celebrating the agency's thirtieth anniversary right at the firm, Mathias shares the founding history of the company. Let's listen to the scene in French first."
 OPENER = "Let's observe as Mathias and Hicham plan the agency's anniversary celebration."
 TRANSITION = "Now let's listen to Mathias and Hicham again at full speed."
-OUTRO = "Hicham agrees to host the milestone celebration inside the agency, touched by the company's humble beginnings. When you watch the episode, listen out for the expressions meaning 'project' and 'party'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Hicham agrees to host the milestone celebration inside the agency, touched by the company's humble beginnings. When you watch the episode, listen out for the expressions meaning 'project' and 'party'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', "Voici mon projet pour la fête d'ASK.", 'Here is my project for the ASK party.', [(46, 'les gens arrivent')], ''),
     ('lea', "Comment prévois-tu d'accueillir les invités?", 'How do you plan to welcome the guests?', [(48, 'petite coupe')], ''),

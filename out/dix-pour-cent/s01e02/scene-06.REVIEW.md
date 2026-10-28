@@ -30,5 +30,5 @@
 | 16 | `line` (Line) | Quel idiot! | What an idiot! | 238:Quel idiot ! |
 
 ## Part 5 — Outro & Closing
-> Line Renaud may be in her eighties, but she's the liveliest person in this episode so far. If you caught the little word for 'what a', you're ready for more. See you next time.
+> Line Renaud may be in her eighties, but she's the liveliest person in this episode so far. If you caught the little word for 'what a', you're ready for more. See you next time!
 - **Closing**: `line`: *Bonne journée!*

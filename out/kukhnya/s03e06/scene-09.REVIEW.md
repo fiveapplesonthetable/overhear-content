@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Кристина | Я хочу сегодня обновить наше меню. | I want to update our menu today. | #133 00:09:33: Я хочу обновить меню | adapted: adapted |
-| 2 | Кристина | Нам нужно несколько вегетарианских блюд. | We need several vegetarian dishes. | #133 00:09:33: несколько вегетарианских блюд | adapted: adapted |
-| 3 | Кристина | Витя, придумаешь быстро что-нибудь? | Vitya, will you come up with something quickly? | #134 00:09:37: Придумаешь что-нибудь | adapted: adapted |
-| 4 | Аня | Конечно, нет проблем, дорогая Кристина. | Of course, no problem, dear Kristina. | #135 00:09:39: Нет проблем | adapted: adapted |
-| 5 | Аня | Ребята, работаем и не расслабляемся. | Guys, we are working and not relaxing. | #136 00:09:45: И не расслабляемся | adapted: adapted |
+| 1 | Шеф | Я хочу сегодня обновить наше меню. | I want to update our menu today. | #133 00:09:33: Я хочу обновить меню | adapted: adapted |
+| 2 | Шеф | Нам нужно несколько вегетарианских блюд. | We need several vegetarian dishes. | #133 00:09:33: несколько вегетарианских блюд | adapted: adapted |
+| 3 | Шеф | Витя, придумаешь быстро что-нибудь? | Vitya, will you come up with something quickly? | #134 00:09:37: Придумаешь что-нибудь | adapted: adapted |
+| 4 | Шеф | Конечно, нет проблем, дорогая Кристина. | Of course, no problem, dear Kristina. | #135 00:09:39: Нет проблем | adapted: adapted |
+| 5 | Шеф | Ребята, работаем и не расслабляемся. | Guys, we are working and not relaxing. | #136 00:09:45: И не расслабляемся | adapted: adapted |
 | 6 | Нагиев | Подождите, что это ещё такое? | Wait, what else is this? | #137 00:09:51: что это такое | adapted: adapted |
-| 7 | Аня | Это новое вегетарианское блюдо, шпинат в сливках. | This is a new vegetarian dish, spinach in cream. | #138 00:09:53: Это новое вегетарианское блюдо | adapted: adapted |
+| 7 | Шеф | Это новое вегетарианское блюдо, шпинат в сливках. | This is a new vegetarian dish, spinach in cream. | #138 00:09:53: Это новое вегетарианское блюдо | adapted: adapted |
 | 8 | Нагиев | Немедленно шпинат убрать из нашего меню. | Immediately remove the spinach from our menu. | #142 00:10:08: Шпинат убрать из меню | adapted: adapted |
-| 9 | Аня | Вот, как ты заказывала, шпинат в сливках. | Here, just as you ordered, spinach in cream. | #144 00:10:21: как ты заказывала шпинат, тушеный в сливках | adapted: adapted |
-| 10 | Аня | Дима, кстати, тоже попросил вегетарианские блюда. | Dima, by the way, also asked for vegetarian dishes. | #146 00:10:33: вегетарианские блюда | adapted: adapted |
-| 11 | Кристина | Мне кажется, он ворует у меня идеи. | It seems to me he is stealing ideas from me. | #147 00:10:39: Мне кажется, он ворует у тебя идеи | adapted: adapted |
-| 12 | Кристина | Мы не будем вводить это блюдо в меню. | We will not introduce this dish into the menu. | #148 00:10:41: мы не будем вводить его в меню | adapted: adapted |
+| 9 | Шеф | Вот, как ты заказывала, шпинат в сливках. | Here, just as you ordered, spinach in cream. | #144 00:10:21: как ты заказывала шпинат, тушеный в сливках | adapted: adapted |
+| 10 | Шеф | Дима, кстати, тоже попросил вегетарианские блюда. | Dima, by the way, also asked for vegetarian dishes. | #146 00:10:33: вегетарианские блюда | adapted: adapted |
+| 11 | Шеф | Мне кажется, он ворует у меня идеи. | It seems to me he is stealing ideas from me. | #147 00:10:39: Мне кажется, он ворует у тебя идеи | adapted: adapted |
+| 12 | Шеф | Мы не будем вводить это блюдо в меню. | We will not introduce this dish into the menu. | #148 00:10:41: мы не будем вводить его в меню | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

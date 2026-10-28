@@ -28,5 +28,5 @@
 | 14 | `arlette` (Arlette) | Mathias, vous êtes comme un chef! | Mathias, you are doing like a champion! | 1367:Vous vous débrouillez comme un chef |
 
 ## Part 5 — Outro & Closing
-> Coached over speakerphone by a midwife, Mathias and Arlette successfully deliver Andrea's baby right inside the ASK agency office. When you watch the episode, listen out for the expressions meaning 'instructs' and 'birth specialist'. You'll catch them now. See you next time.
+> Coached over speakerphone by a midwife, Mathias and Arlette successfully deliver Andrea's baby right inside the ASK agency office. When you watch the episode, listen out for the expressions meaning 'instructs' and 'birth specialist'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *À bientôt!*

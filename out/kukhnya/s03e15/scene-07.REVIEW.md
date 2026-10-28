@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is a long story, Vitya, I need to learn how to cook.' The meaning hinges on 'for a long time' working together with 'to cook' in spoken Russian.
 - 'Please, quickly teach me how to cook!' An emphatic spoken line centered on the verb meaning 'teach!'. Chef Barinov answers right away.
 - 'Wait, Dima, I did not understand you just now.' The meaning hinges on 'wait' working together with 'understood' in spoken Russian.
-- 'That nonsense you have been doing your whole life, teach me!' Notice the reflexive suffix on the verb meaning 'to be busy with', turning the action back on the subject.
+- 'That nonsense you have been doing your whole life, teach me!' Here Nagiyev anchors the thought on 'nonsense / trifle' and finishes on 'teach', keeping the spoken rhythm brisk and natural.
 - 'Dima, this is not acting in a commercial!' An emphatic spoken line centered on the verb meaning 'to act'.
 - 'This is art, there are many subtleties here that one must grasp and realize.' Chef Barinov brings out the contrast between 'this' and 'art' in a few short words.
 - 'Tell me honestly, why do you even need this?' Here the Russian phrasing highlights 'say' before landing on 'why'.

@@ -1,89 +1,46 @@
-ID = "kukhnya-s01e16-scene-11"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e16-scene-11.
+ID = 'kukhnya-s01e16-scene-11'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 11
 TITLE = "Охотник на нелегалов  (Hunter of Illegals)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "leva": "anja"}
-LABELS = {'anya': 'Шеф', 'leva': 'Лановский'}
-SOURCE_NAME = "Кухня (Kukhnya) S1.16"
-SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
-SOURCE_NOTE = "Cues 132-150."
-
-INTRO = (
-    "Viktor says he needs to work. Lanovsky starts monologuing about how people call him a scary person because he hunts people without documents. Let us listen to their conversation in Russian first."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lanovsky": "angelina", "chef": "anja"}
+LABELS = {"lanovsky": "Лановский", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
+SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
+INTRO = 'Viktor says he needs to work. Lanovsky starts monologuing about how people call him a scary person because he hunts people without documents. Let us listen to their conversation in Russian first.'
+OPENER = 'Now let us examine the conversation line by line.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Viktor says he needs to work. Lanovsky starts monologuing about how people call him a scary person because he hunts people without documents. Next time you watch the episode, listen for the Russian expressions for 'well' and 'to give' — you will catch every word right away. See you next time!"
+CLOSING = ("lanovsky", "Пока!")
 STORY = [
-    ("anya", "Хорошо, давайте только быстро.",
-     "Alright, let us just do it quickly.",
-     [(132, "Хорошо. Давайте только быстро.")], "adapted"),
-    ("leva", "Я перейду сразу к делу.",
-     "I will get straight to the point.",
-     [(135, "перейду сразу к делу.")], "adapted"),
-    ("leva", "Вы слышали что-нибудь обо мне?",
-     "Have you heard anything about me?",
-     [(137, "Вы что-нибудь слышали обо мне?")], "adapted"),
-    ("anya", "Да, слышали во всех странах.",
-     "Yes, heard in all countries.",
-     [(138, "Да, слышали во всех бывших советских республиках.")], "adapted"),
-    ("leva", "Знаете, как меня называют?",
-     "Do you know what they call me?",
-     [(140, "Значит, тогда вы знаете, как меня называют?")], "adapted"),
-    ("leva", "Меня называют страшным человеком.",
-     "They call me a scary person.",
-     [(141, "Меня называют охотник на гастарбайтеров.")], "adapted"),
-    ("anya", "Месяц назад была проверка.",
-     "A month ago there was an inspection.",
-     [(143, "Я знаю, что у нас месяц назад была проверка,")], "adapted"),
-    ("anya", "Они ничего тут не нашли.",
-     "They did not find anything here.",
-     [(143, "и ничего не нашли.")], "adapted"),
-    ("leva", "Мятную конфету не желаете?",
-     "Do you want a mint candy?",
-     [(145, "Кстати, мятную конфетку не желаете?")], "adapted"),
-    ("anya", "Нет, мне не нужно.",
-     "No, I do not need it.",
-     [(146, "Нет.")], "adapted"),
-    ("leva", "Наша служба похожа на птиц.",
-     "Our service is like birds.",
-     [(148, "если сравнивать федеральную миграционную службу,")], "adapted"),
-    ("leva", "Мы всегда смотрим на вас сверху.",
-     "We always look at you from above.",
-     [(150, "Мы грозно висим в небе над нелегалами.")], "adapted"),
+    ('chef', 'Хорошо, давайте только быстро.', 'Alright, let us just do it quickly.', [(132, 'Хорошо. Давайте только быстро.')], ''),
+    ('lanovsky', 'Я перейду сразу к делу.', 'I will get straight to the point.', [], ''),
+    ('lanovsky', 'Вы слышали что-нибудь обо мне?', 'Have you heard anything about me?', [], ''),
+    ('chef', 'Да, слышали во всех странах.', 'Yes, heard in all countries.', [], ''),
+    ('lanovsky', 'Знаете, как меня называют?', 'Do you know what they call me?', [], ''),
+    ('lanovsky', 'Меня называют страшным человеком.', 'They call me a scary person.', [], ''),
+    ('chef', 'Месяц назад была проверка.', 'A month ago there was an inspection.', [], ''),
+    ('chef', 'Они ничего тут не нашли.', 'They did not find anything here.', [], ''),
+    ('lanovsky', 'Мятную конфету не желаете?', 'Do you want a mint candy?', [], ''),
+    ('chef', 'Нет, мне не нужно.', 'No, I do not need it.', [], ''),
+    ('lanovsky', 'Наша служба похожа на птиц.', 'Our service is like birds.', [], ''),
+    ('lanovsky', 'Мы всегда смотрим на вас сверху.', 'We always look at you from above.', [], ''),
 ]
-
-OPENER = "Now let us examine the conversation line by line."
-
 WALK = [
-    (0, None,
-     "'Alright, let us just do it quickly.' Chef Viktor starts with 'good' and pairs it with 'let's' to make the point clear."),
-    (1, None,
-     "'I will get straight to the point.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'to cross'."),
-    (2, None,
-     "'Have you heard anything about me?' Here 'you' sets up the idea, while 'to me' comes at the end for emphasis. Chef Viktor answers straight away."),
-    (3, None,
-     "'Yes, heard in all countries.' You'll hear 'did you hear?' all the time in the show, here connected with 'country'."),
-    (4, None,
-     "'Do you know what they call me?' The key word here means 'know', which the speaker combines with 'how'."),
-    (5, None,
-     "'They call me a scary person.' Notice the word order: 'me' comes first, and 'person' finishes the sentence. Then Chef Viktor replies."),
-    (6, None,
-     "'A month ago there was an inspection.' The key word here means 'month', which Chef Viktor combines with 'ago'."),
-    (7, None,
-     "'They did not find anything here.' The first content word means 'they', and 'found' rounds out the thought."),
-    (8, None,
-     "'Do you want a mint candy?' A compact expression built around 'mint' and 'would you like'. And Chef Viktor jumps in."),
-    (9, None,
-     "'No, I do not need it.' Here 'to me' sets up the idea, while 'necessary' comes at the end for emphasis."),
-    (10, None,
-     "'Our service is like birds.' Listen for the word meaning 'service' right alongside 'similar' in this line."),
-    (11, None,
-     "'We always look at you from above.' the speaker uses the polite plural 'you' here alongside 'we', keeping a formal or respectful tone."),
+    (0, None, "'Alright, let us just do it quickly.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'good' and 'only'."),
+    (1, None, "'I will get straight to the point.' the speaker uses the action verb meaning 'to cross' to focus on the single completed result, pairing it with 'at once' and 'case'."),
+    (2, None, "'Have you heard anything about me?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'did you hear?' to make the point directly in conversation."),
+    (3, None, "'Yes, heard in all countries.' Chef Barinov chooses the action verb meaning 'did you hear?' for the ongoing action, followed by 'country'."),
+    (4, None, "'Do you know what they call me?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'They call me a scary person.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'A month ago there was an inspection.' The '-a' ending on the past-tense verb for 'was' shows that the subject is matching."),
+    (7, None, "'They did not find anything here.' Here the verb for 'found' takes the everyday past-tense ending '-li', which is also used for the polite 'you'."),
+    (8, None, "'Do you want a mint candy?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'would you like'."),
+    (9, None, "'No, I do not need it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'necessary'."),
+    (10, None, "'Our service is like birds.' Russian omits the present-tense verb 'to be' here, linking 'service' directly with 'similar', combining 'service' with 'similar' and 'birds'."),
+    (11, None, "'We always look at you from above.' The character uses the polite everyday 'you' alongside 'upstairs', keeping a formal or respectful register."),
 ]
-
-TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around hunter of illegals, and for the words meaning 'let's' and 'to cross'. You'll catch them now. See you next time."
-CLOSING = ("leva", "Мы всегда смотрим на вас сверху.")

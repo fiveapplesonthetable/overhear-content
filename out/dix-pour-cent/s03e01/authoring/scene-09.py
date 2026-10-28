@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 9
-TITLE = "La nouvelle affiche  (The New Movie Poster)"
-LEVEL = "A1 — débutant"
+TITLE = 'La nouvelle affiche  (The New Movie Poster)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the talent agency, Sofia arrives full of excitement to share a major milestone with Gabriel. The creative team has completed the striking official poster for her upcoming feature film. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Sofia shows Gabriel the finished poster for her new film at the agency. When you watch the episode, listen out for the expressions meaning 'minute' and 'it is necessary that'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Sofia shows Gabriel the finished poster for her new film at the agency. When you watch the episode, listen out for the expressions meaning 'minute' and 'it is necessary that'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('sofia', 'Bonjour Gabriel! Tu as une minute?', 'Hello Gabriel! Do you have a minute?', [(173, 'Il faut que je vous montre.')], ''),
     ('gabriel', 'Bonjour Sofia! Oui, bien sûr.', 'Hello Sofia! Yes, of course.', [(174, "Qu'est-ce que c'est ?")], ''),

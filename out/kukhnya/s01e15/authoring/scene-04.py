@@ -1,87 +1,46 @@
-ID = "kukhnya-s01e15-scene-04"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e15-scene-04.
+ID = 'kukhnya-s01e15-scene-04'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 4
 TITLE = "Мамины блинчики  (Mom's Pancakes)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "anja"}
-LABELS = {"anya": "Баринов", "lyova": "Лёва"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.15"
-SOURCE_FILE = "sources/kukhnya/s01/e15.ru.dual.srt"
-SOURCE_NOTE = "Cues 21-24. Lyova wakes Viktor Petrovich with pancakes."
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
+SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Lyova tries to wake Viktor Petrovich up with freshly made pancakes and reminders about work. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-
+OPENER = "Now let's go back through the exchange around Mom's Pancakes line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Viktor Petrovich reluctantly gets out of bed, lured by the scent of fresh pancakes. Next time you watch the episode, listen for the Russian expressions for 'to get up' and 'to give' — you will catch every word right away. See you next time!"
+CLOSING = ("chef", "Пока!")
 STORY = [
-    ("lyova", "Виктор Петрович, ну вставайте уже, ну!",
-     "Viktor Petrovich, come on, get up already, come on!",
-     [(21, "Виктор Петрович, ну вставайте уже, ну.")], "adapted"),
-    ("anya", "Лёва, дай мне поспать ещё пять минут.",
-     "Lyova, let me sleep for five more minutes.",
-     [], "new"),
-    ("lyova", "Во-первых, мама блинчиков для вас испекла.",
-     "First, Mom baked pancakes for you.",
-     [(22, "Во-первых, мама блинчиков испекла.")], "adapted"),
-    ("anya", "Свежие блинчики это очень хороший повод.",
-     "Fresh pancakes are a very good reason.",
-     [], "new"),
-    ("lyova", "Она приготовила сладкое варенье и чай.",
-     "She prepared sweet jam and tea.",
-     [], "new"),
-    ("anya", "Твоя мама готовит просто потрясающие завтраки.",
-     "Your mom makes simply amazing breakfasts.",
-     [], "new"),
-    ("lyova", "А во-вторых, вы действительно опоздаете.",
-     "And second, you really will be late.",
-     [(23, "А во-вторых")], "adapted"),
-    ("anya", "Куда мне теперь так сильно спешить?",
-     "Where do I have to rush so much now?",
-     [], "new"),
-    ("lyova", "Нас обоих уже ждут на нашей кухне.",
-     "Both of us are already expected in our kitchen.",
-     [], "new"),
-    ("anya", "Какой же ты вредный человек, Лёва!",
-     "What an annoying person you are, Lyova!",
-     [(24, "Лёва")], "adapted"),
-    ("lyova", "Я просто забочусь о нашей общей работе.",
-     "I am simply caring about our shared work.",
-     [], "new"),
-    ("anya", "Ладно, встаю, неси скорее горячие блины!",
-     "Alright, I am getting up, bring the hot pancakes soon!",
-     [], "new"),
+    ('lyova', 'Виктор Петрович, ну вставайте уже, ну!', 'Viktor Petrovich, come on, get up already, come on!', [(21, 'Виктор Петрович, ну вставайте уже, ну.')], ''),
+    ('chef', 'Лёва, дай мне поспать ещё пять минут.', 'Lyova, let me sleep for five more minutes.', [], ''),
+    ('lyova', 'Во-первых, мама блинчиков для вас испекла.', 'First, Mom baked pancakes for you.', [(22, 'Во-первых, мама блинчиков испекла.')], ''),
+    ('chef', 'Свежие блинчики это очень хороший повод.', 'Fresh pancakes are a very good reason.', [], ''),
+    ('lyova', 'Она приготовила сладкое варенье и чай.', 'She prepared sweet jam and tea.', [], ''),
+    ('chef', 'Твоя мама готовит просто потрясающие завтраки.', 'Your mom makes simply amazing breakfasts.', [], ''),
+    ('lyova', 'А во-вторых, вы действительно опоздаете.', 'And second, you really will be late.', [(23, 'А во-вторых')], ''),
+    ('chef', 'Куда мне теперь так сильно спешить?', 'Where do I have to rush so much now?', [], ''),
+    ('lyova', 'Нас обоих уже ждут на нашей кухне.', 'Both of us are already expected in our kitchen.', [], ''),
+    ('chef', 'Какой же ты вредный человек, Лёва!', 'What an annoying person you are, Lyova!', [(24, 'Лёва')], ''),
+    ('lyova', 'Я просто забочусь о нашей общей работе.', 'I am simply caring about our shared work.', [], ''),
+    ('chef', 'Ладно, встаю, неси скорее горячие блины!', 'Alright, I am getting up, bring the hot pancakes soon!', [], ''),
 ]
-
-OPENER = "Let's break down this morning interaction."
-
 WALK = [
-    (0, None,
-     "'Viktor Petrovich, come on, get up already, come on!' -- Lyova gently tries to wake his boss."),
-    (1, None,
-     "'Lyova, let me sleep for five more minutes.' -- The chef begs for a little more rest."),
-    (2, None,
-     "'First, Mom baked pancakes for you.' -- Lyova presents a delicious incentive from his mother."),
-    (3, None,
-     "'Fresh pancakes are a very good reason.' -- Viktor agrees that hot food sounds tempting."),
-    (4, None,
-     "'She prepared sweet jam and tea.' -- The sous-chef lists what is on the table."),
-    (5, None,
-     "'Your mom makes simply amazing breakfasts.' -- Viktor praises the culinary skills of his mother."),
-    (6, None,
-     "'And second, you really will be late.' -- Lyova mentions the urgent schedule at work."),
-    (7, None,
-     "'Where do I have to rush so much now?' -- Viktor grumbles about having to leave the warm bed."),
-    (8, None,
-     "'Both of us are already expected in our kitchen.' -- Lyova reminds him that the cooks are waiting."),
-    (9, None,
-     "'What an annoying person you are, Lyova!' -- The chef playfully scolds him for being so diligent."),
-    (10, None,
-     "'I am simply caring about our shared work.' -- Lyova justifies his insistence with professional duty."),
-    (11, None,
-     "'Alright, I am getting up, bring the hot pancakes soon!' -- Viktor finally agrees to get out of bed."),
+    (0, None, "'Viktor Petrovich, come on, get up already, come on!' Lyova leads with the direct command form meaning 'get up', followed by 'already'."),
+    (1, None, "'Lyova, let me sleep for five more minutes.' Chef Barinov leads with the direct command form meaning 'give', pairing it with 'sleep a bit' and 'more'."),
+    (2, None, "'First, Mom baked pancakes for you.' The phrasing opens with 'first of all' before bringing in 'mum' and 'pancakes' to make the point clear."),
+    (3, None, "'Fresh pancakes are a very good reason.' Russian omits the present-tense verb 'to be' here, linking 'fresh' directly with 'pancakes', pairing it with 'very much' and 'good'."),
+    (4, None, "'She prepared sweet jam and tea.' Lyova uses the action verb meaning 'to prepare' to focus on the single completed result, pairing it with 'sweets' and 'jam'."),
+    (5, None, "'Your mom makes simply amazing breakfasts.' Here Chef Barinov anchors the line on the word meaning 'mum' and builds the thought around 'cooks' and 'just'."),
+    (6, None, "'And second, you really will be late.' The phrasing opens with 'second' before bringing in 'really' and 'will be late' to make the point clear."),
+    (7, None, "'Where do I have to rush so much now?' Chef Barinov expresses this naturally by combining the word for 'where to' with 'now' and 'strongly'."),
+    (8, None, "'Both of us are already expected in our kitchen.' Lyova puts the word for 'both' together with 'already' and 'are waiting' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'What an annoying person you are, Lyova!' Russian omits the present-tense verb 'to be' here, linking 'annoying' directly with 'a man' to make the point directly in conversation."),
+    (10, None, "'I am simply caring about our shared work.' The phrasing opens with 'just' before bringing in 'care about' and 'mutual' to make the point clear."),
+    (11, None, "'Alright, I am getting up, bring the hot pancakes soon!' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'getting up' and 'quickly'."),
 ]
-
-TRANSITION = "Now let's listen to the scene again without interruption."
-OUTRO = "Viktor Petrovich reluctantly gets out of bed, lured by the scent of fresh pancakes."
-CLOSING = ("anya", "Ладно, встаю, неси скорее горячие блины!")

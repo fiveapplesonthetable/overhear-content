@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Je m'occupe de ce dossier immédiatement. | I am taking care of this file immediately. | 225:un brief pour une négociation |
 
 ## Part 5 — Outro & Closing
-> Though bruised by Igor de Serisy's dismissive task assignment, Noemie remains determined to prove her creative vision. When you watch the episode, listen out for the expressions meaning 'pretty' and 'plant'. You'll catch them now. See you next time.
+> Though bruised by Igor de Serisy's dismissive task assignment, Noemie remains determined to prove her creative vision. When you watch the episode, listen out for the expressions meaning 'pretty' and 'plant'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

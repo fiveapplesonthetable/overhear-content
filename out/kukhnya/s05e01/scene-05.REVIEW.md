@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Михаил | Слушай, давай скажи мне сейчас. | Listen, tell me right now. | #77 00:06:08: Слушай, давай | adapted: adapted |
 | 2 | Михаил | Простите, что же я игнорирую? | Excuse me, what exactly am I ignoring? | #81 00:06:24: Простите. Что же я игнорирую | adapted: adapted |
-| 3 | Аня | Я два месяца прошу туалет. | I have been asking for a restroom for two months. | #82 00:06:27: Я два месяца прошу туалет | adapted: verbatim |
+| 3 | Михаил | Я два месяца прошу туалет. | I have been asking for a restroom for two months. | #82 00:06:27: Я два месяца прошу туалет | adapted: verbatim |
 | 4 | Михаил | Туалет надо сначала заслужить. | A restroom must be earned first. | #83 00:06:29: Туалет надо заслужить | adapted: adapted |
-| 5 | Аня | Мы работаем лучше всех здесь. | We work better than everyone here. | #85 00:06:33: мы работаем лучше | adapted: adapted |
+| 5 | Михаил | Мы работаем лучше всех здесь. | We work better than everyone here. | #85 00:06:33: мы работаем лучше | adapted: adapted |
 | 6 | Михаил | Да? А ну, пошли. | Yeah? Come on then, let's go. | #86 00:06:38: Да? А ну, пошли | adapted: verbatim |
 | 7 | Михаил | Мидии сегодня привезли? Нет. | Did they bring the mussels today? No. | #87 00:06:43: Мидии привезли? Нет | adapted: adapted |
 | 8 | Михаил | Где меню для завтрака? | Where is the menu for breakfast? | #89 00:06:46: Где меню для завтрака? | adapted: verbatim |
 | 9 | Михаил | Почему здесь недостача по мясу? | Why is there a meat shortage here? | #90 00:06:48: Почему недостача по мясу? | adapted: adapted |
 | 10 | Михаил | Санитарные книжки не у всех. | Not everyone has their health booklets. | #91 00:06:51: Санитарные книжки не у всех | adapted: verbatim |
-| 11 | Аня | Ты просто за мной следишь. | You are simply spying on me. | #93 00:06:56: ты за мной следишь | adapted: adapted |
+| 11 | Михаил | Ты просто за мной следишь. | You are simply spying on me. | #93 00:06:56: ты за мной следишь | adapted: adapted |
 | 12 | Михаил | Я знаю всё в моём отеле. | I know everything in my hotel. | #94 00:06:58: Я знаю все, что происходит в моем отеле | adapted: adapted |
 | 13 | Михаил | На твоей кухне есть тараканы. | There are cockroaches in your kitchen. | #95 00:07:01: на твоей кухне есть тараканы | adapted: verbatim |
 

@@ -29,5 +29,5 @@
 | 15 | `journaliste` (Le journaliste) | D'accord, j'écris ça. | All right, I am writing that. | 363:Vous pouvez écrire ça. |
 
 ## Part 5 — Outro & Closing
-> Gabriel narrowly avoided a public retirement announcement by inventing a diplomatic slogan. Until next time.
+> Gabriel narrowly avoided a public retirement announcement by inventing a diplomatic slogan. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

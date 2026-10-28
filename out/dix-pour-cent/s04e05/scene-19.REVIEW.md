@@ -27,5 +27,5 @@
 | 13 | `guillaume` (Guillaume) | Sigourney, vraiment? Qu'allez-vous faire? | Sigourney, really? What are you going to do? | 773:Sigourney. Vraiment |
 
 ## Part 5 — Outro & Closing
-> Refusing to let the film fall apart, Sigourney Weaver prepares to confront the distributor directly. When you watch the episode, listen out for the expressions meaning 'does' and 'buys'. You'll catch them now. See you next time.
+> Refusing to let the film fall apart, Sigourney Weaver prepares to confront the distributor directly. When you watch the episode, listen out for the expressions meaning 'does' and 'buys'. You'll catch them now. See you next time!
 - **Closing**: `sigourney`: *Bonne soirée!*

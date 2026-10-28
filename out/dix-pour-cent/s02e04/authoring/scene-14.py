@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 14
 TITLE = "L'interview à la radio  (Radio Interview)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "animateur": "marcel", "sacha": "theo", "camille": "emilie"}
-LABELS = {"animateur": "L'animateur", "sacha": "Sacha", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'animateur': 'marcel', 'sacha': 'theo', 'camille': 'emilie'}
+LABELS = {'animateur': "L'animateur", 'sacha': 'Sacha', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'At a major Paris radio station, acclaimed director Sacha Hartman gives a live broadcast interview about his provocative film. Camille waits patiently in the sound booth to escort the guest director back to the agency. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'As Sacha Hartman wraps up his defiant interview, Camille must quickly guide him outside through brewing street protests. Listen to the entire scene once more in French. See you next time!'
-CLOSING = ("sacha", "À bientôt!")
+CLOSING = ('sacha', 'À bientôt!')
 STORY = [
     ('animateur', 'Bonjour, Sacha Hartman.', 'Hello, Sacha Hartman.', [(374, 'Bonjour, Sacha Hartman')], ''),
     ('animateur', "Merci d'être avec nous.", 'Thank you for being with us.', [(375, "Merci d'être avec nous")], ''),

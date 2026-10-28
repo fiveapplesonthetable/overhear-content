@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 11
-TITLE = "Entretien avec la direction  (Meeting with the Boss)"
-LEVEL = "A1 — débutant"
+TITLE = 'Entretien avec la direction  (Meeting with the Boss)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In the executive office at ASK, agency owner Hicham discusses maternity arrangements with Andrea. While Hicham frames his questions as benevolent managerial concern, Andrea maintains strict professional boundaries. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "In his office, Hicham checks in on Andrea's pregnancy and offers maternity assistance. When you watch the episode, listen out for the expressions meaning 'know' and 'easy'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "In his office, Hicham checks in on Andrea's pregnancy and offers maternity assistance. When you watch the episode, listen out for the expressions meaning 'know' and 'easy'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('hicham', "Je sais que ce n'est pas facile.", 'I know that it is not easy.', [(238, "Je sais que c'est pas facile.")], ''),
     ('hicham', "On a chacun notre tempérament, c'est humain.", 'We each have our temperament, it is human.', [(239, 'on a chacun notre petit tempérament,'), (240, "c'est humain.")], ''),

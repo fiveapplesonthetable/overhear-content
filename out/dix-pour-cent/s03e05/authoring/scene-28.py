@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 28
-TITLE = "La trahison révélée  (The Betrayal Revealed)"
-LEVEL = "A1 — débutant"
+TITLE = 'La trahison révélée  (The Betrayal Revealed)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In Mathias's office at ASK, an incandescent Hicham storms in waving his phone in shock. Having heard the secret voicemail, Hicham is shattered by Andrea and Gabriel's betrayal, while Mathias tactfully positions himself. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Mathias recognizes that Hicham's heartbreak creates the perfect opening to regain command of ASK. When you watch the episode, listen out for the expressions meaning 'are doing' and 'calm'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Mathias recognizes that Hicham's heartbreak creates the perfect opening to regain command of ASK. When you watch the episode, listen out for the expressions meaning 'are doing' and 'calm'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('hicham', "Qu'est-ce que tu fais, là?", 'What are you doing here?', [(1059, "qu'est-ce que tu fais, là")], ''),
     ('lea', "Mais calme-toi, s'il te plaît.", 'Calm down, please.', [(1060, 'calme-toi')], ''),

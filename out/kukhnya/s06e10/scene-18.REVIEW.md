@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Извините, а можно вас буквально на два слова? | Excuse me, may I have literally two words with you? | #278 00:19:58: А можно вас на два слова | adapted: adapted |
-| 2 | Аня | Да, конечно, я вас очень внимательно слушаю. | Yes, of course, I am listening to you very carefully. | #279 00:20:02: Слушаю | adapted: adapted |
-| 3 | Лёва | Товарищ командир, отпустите, пожалуйста, вот тех двух женщин. | Comrade commander, please release those two women over there. | #280 00:20:04: Товарищ командир, отпустите, пожалуйста<br>#281 00:20:08: вот тех двух женщин | adapted: adapted |
-| 4 | Аня | Скажите, а вторая женщина тоже ваша девушка? | Tell me, is the second woman also your girlfriend? | #282 00:20:12: Вторая тоже ваша девушка | adapted: adapted |
-| 5 | Лёва | Нет, что вы, это её родная тётя. | No, not at all, that is her aunt. | #282 00:20:12: Нет, это ее тетя | adapted: adapted |
-| 6 | Аня | Тогда это будет стоить по пять тысяч. | Then that will cost five thousand each. | #283 00:20:16: за каждую | adapted: adapted |
-| 7 | Аня | А всех остальных людей вам совсем не жалко? | And do you not feel sorry for all the other people at all? | #284 00:20:26: Остальных, значит, вам не жалко | adapted: adapted |
-| 8 | Аня | Пусть они едут обратно домой в безработицу? | Let them go back home to unemployment? | #285 00:20:27: Пусть, значит, едут обратно в нищету, в безработицу | adapted: adapted |
-| 9 | Лёва | Почему же не жалко, мне их очень жалко. | Why not sorry, I feel very sorry for them. | #286 00:20:32: Почему же жалко | adapted: adapted |
-| 10 | Аня | Тогда давайте деньги и берите сразу всех! | Then hand over the money and take everyone at once! | #287 00:20:35: Вот и берите всех | adapted: adapted |
-| 11 | Аня | Граждане, скажите большое спасибо этому гостеприимному жителю столицы! | Citizens, say a big thank you to this hospitable resident of the capital! | #288 00:20:38: скажите спасибо вот этому гостеприимному<br>#289 00:20:43: жителю нашей столицы | adapted: adapted |
-| 12 | Аня | Все свободны, спокойно выходим обратно во двор! | Everyone is free, walk out calmly back into the courtyard! | #290 00:20:45: Выходим | adapted: adapted |
+| 1 | Инспектор | Извините, а можно вас буквально на два слова? | Excuse me, may I have literally two words with you? | #278 00:19:58: А можно вас на два слова | adapted: adapted |
+| 2 | Инспектор | Да, конечно, я вас очень внимательно слушаю. | Yes, of course, I am listening to you very carefully. | #279 00:20:02: Слушаю | adapted: adapted |
+| 3 | Инспектор | Товарищ командир, отпустите, пожалуйста, вот тех двух женщин. | Comrade commander, please release those two women over there. | #280 00:20:04: Товарищ командир, отпустите, пожалуйста<br>#281 00:20:08: вот тех двух женщин | adapted: adapted |
+| 4 | Инспектор | Скажите, а вторая женщина тоже ваша девушка? | Tell me, is the second woman also your girlfriend? | #282 00:20:12: Вторая тоже ваша девушка | adapted: adapted |
+| 5 | Инспектор | Нет, что вы, это её родная тётя. | No, not at all, that is her aunt. | #282 00:20:12: Нет, это ее тетя | adapted: adapted |
+| 6 | Инспектор | Тогда это будет стоить по пять тысяч. | Then that will cost five thousand each. | #283 00:20:16: за каждую | adapted: adapted |
+| 7 | Инспектор | А всех остальных людей вам совсем не жалко? | And do you not feel sorry for all the other people at all? | #284 00:20:26: Остальных, значит, вам не жалко | adapted: adapted |
+| 8 | Инспектор | Пусть они едут обратно домой в безработицу? | Let them go back home to unemployment? | #285 00:20:27: Пусть, значит, едут обратно в нищету, в безработицу | adapted: adapted |
+| 9 | Инспектор | Почему же не жалко, мне их очень жалко. | Why not sorry, I feel very sorry for them. | #286 00:20:32: Почему же жалко | adapted: adapted |
+| 10 | Инспектор | Тогда давайте деньги и берите сразу всех! | Then hand over the money and take everyone at once! | #287 00:20:35: Вот и берите всех | adapted: adapted |
+| 11 | Инспектор | Граждане, скажите большое спасибо этому гостеприимному жителю столицы! | Citizens, say a big thank you to this hospitable resident of the capital! | #288 00:20:38: скажите спасибо вот этому гостеприимному<br>#289 00:20:43: жителю нашей столицы | adapted: adapted |
+| 12 | Инспектор | Все свободны, спокойно выходим обратно во двор! | Everyone is free, walk out calmly back into the courtyard! | #290 00:20:45: Выходим | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -34,8 +34,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, I told you this truth right away!' An emphatic spoken line centered on the verb meaning 'said'.
 - 'Thank you very much, here is your money for the act.' In Russian, the idea of 'thank you' flows naturally into 'game' without extra filler words.
 - 'Every person has their own secret fears.' Here the Russian phrasing highlights 'at' before landing on 'fears'.
-- 'Some people try never to open that door.' Notice the reflexive suffix on the verb meaning 'to try', turning the action back on the subject.
+- 'Some people try never to open that door.' Max pairs 'people' with 'open' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Others try to hide their fears from everyone.' The grammar packs 'other' and 'fears' into a tight, idiomatic kitchen exchange.
-- 'And some people in life are very lucky.' The grammar packs 'and' and 'to be lucky' into a tight, idiomatic kitchen exchange.
+- 'And some people in life are very lucky.' Here Max anchors the thought on 'some, certain' and finishes on 'to be lucky; to take', keeping the spoken rhythm brisk and natural.
 - 'They have no fear in their soul at all.' Here the Russian phrasing highlights 'at' before landing on 'fear'.
-- 'Because brave guys are not afraid of anything.' Notice the reflexive suffix on the verb meaning 'are afraid of', turning the action back on the subject.
+- 'Because brave guys are not afraid of anything.' Max pairs 'that is why' with 'are afraid of' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

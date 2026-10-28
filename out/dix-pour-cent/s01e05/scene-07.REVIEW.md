@@ -29,5 +29,5 @@
 | 15 | `joey` (JoeyStarr) | Mon inconscient et celui de Julie Gayet se heurtent de partout. | My subconscious and Julie Gayet | 138:Mon inconscient et celui de Julie Gayet se heurtent de partout |
 
 ## Part 5 — Outro & Closing
-> Gabriel's confession about being drawn to his opposite gives JoeyStarr food for thought about Julie Gayet. Next, out at the catering tent in the courtyard, Sofia spots Gabriel and proudly introduces him as her agent. See you there.
+> Gabriel's confession about being drawn to his opposite gives JoeyStarr food for thought about Julie Gayet. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

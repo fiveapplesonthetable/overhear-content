@@ -1,32 +1,40 @@
-# kukhnya-s02e01-scene-22: review sheet
+# Успешный план  (A Successful Plan) — `kukhnya-s02e01-scene-22`
 
-Title: Успешный план  (A Successful Plan)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.01
-Scene 22
+**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `vika` | angelina | Вика |
+
+## Part 1 — Intro
+
+> Max confidently walks into the restaurant's main dining area during his shift. He immediately spots Vika talking with their new strict boss near the bar. Max completely fails to understand the gravity of the situation and speaks out loud without thinking.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Привет, Вика. | Hello, Vika. | new | new: new |
-| 2 | Вика | Макс, иди отсюда. | Max, get out of here. | new | new: new |
-| 3 | Макс | Почему ты такая злая? | Why are you so angry? | new | new: new |
-| 4 | Макс | У нас всё отлично. | We have everything great. | new | new: new |
-| 5 | Макс | Вик, | Vik, | #264 00:19:18: Вик | adapted: adapted |
-| 6 | Макс | Походу, сработал твой план. | Looks like your plan worked. | #265 00:19:27: походу, сработал | adapted: adapted |
-| 7 | Вика | Замолчи, пожалуйста. | Shut up, please. | new | new: new |
-| 8 | Вика | Ты всё испортил. | You ruined everything. | new | new: new |
-| 9 | Макс | Я не понимаю. | I do not understand. | new | new: new |
-| 10 | Макс | Что я сделал не так? | What did I do wrong? | new | new: new |
-| 11 | Вика | Это наш новый хозяин. | This is our new owner. | new | new: new |
-| 12 | Макс | Ой, извините меня. | Oh, excuse me. | new | new: new |
-| 13 | Макс | Я пойду на кухню. | I will go to the kitchen. | new | new: new |
+| 0 | Макс | Привет, Вика. | Hello, Vika. | *(added)* |  |
+| 1 | Вика | Макс, иди отсюда. | Max, get out of here. | *(added)* |  |
+| 2 | Макс | Почему ты такая злая? | Why are you so angry? | *(added)* |  |
+| 3 | Макс | У нас всё отлично. | We have everything great. | *(added)* |  |
+| 4 | Макс | Вик, | Vik, | *(added)* |  |
+| 5 | Макс | Походу, сработал твой план. | Looks like your plan worked. | #265 "походу, сработал" |  |
+| 6 | Вика | Замолчи, пожалуйста. | Shut up, please. | *(added)* |  |
+| 7 | Вика | Ты всё испортил. | You ruined everything. | *(added)* |  |
+| 8 | Макс | Я не понимаю. | I do not understand. | *(added)* |  |
+| 9 | Макс | Что я сделал не так? | What did I do wrong? | *(added)* |  |
+| 10 | Вика | Это наш новый хозяин. | This is our new owner. | *(added)* |  |
+| 11 | Макс | Ой, извините меня. | Oh, excuse me. | *(added)* |  |
+| 12 | Макс | Я пойду на кухню. | I will go to the kitchen. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vik,' Max delivers a punchy one-word reaction built around the Russian word meaning 'Vika'.
-- 'Looks like your plan worked.' Here Max anchors the line on the word meaning 'apparently' and builds the thought around 'worked' and 'plan'.
-- 'Shut up, please.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to fall silent'.
-- 'This is our new owner.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'owner', combining 'new' with 'owner'.
+> Max quickly realizes he has said something wrong at a very bad moment. Next time you watch the episode, listen for the Russian expressions for 'to go' and 'from here' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

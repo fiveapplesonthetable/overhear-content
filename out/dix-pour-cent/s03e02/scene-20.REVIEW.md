@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Merci Gabriel, tu sais me rassurer. | Thank you Gabriel, you know how to reassure me. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a cigarette outside. When you watch the episode, listen out for the expressions meaning 'feel' and 'free'. You'll catch them now. See you next time.
+> That's it for this scene around a cigarette outside. When you watch the episode, listen out for the expressions meaning 'feel' and 'free'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *À bientôt!*

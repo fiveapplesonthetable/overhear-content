@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 4
-TITLE = 'Ложные схватки и важный гость  (False Contractions and an Important Guest)'
+TITLE = "Ложные схватки и важный гость  (False Contractions and an Important Guest)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "guest": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = 'In the dining room, Vika meets with influential official Nikolai Maryanovich to arrange a last-minute birthday banquet. Max interrupts them, furious that Vika did not tell him her contractions were false.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Right after Max snaps at the VIP guest, Vika's real contractions start on the dining room floor. See you in the next scene."
-CLOSING = ('vika', 'Меня домой отпустили.')
+OUTRO = "Right after Max snaps at the VIP guest, Vika's real contractions start on the dining room floor. See you next time!"
+CLOSING = ("vika", "Хорошего дня!")

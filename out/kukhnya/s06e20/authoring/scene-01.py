@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e20-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 1
-TITLE = 'Болт в чечевичном супе  (A Bolt in the Lentil Soup)'
+TITLE = "Болт в чечевичном супе  (A Bolt in the Lentil Soup)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = 'At the start of the series finale, Chef Barinov has convinced Elena Pavlovna to let him work in the kitchen for two hours a day. Suddenly, word arrives that a guest found a metal bolt in his lentil soup, and Barinov assumes the guest is a scammer.'
 
 STORY = [
-    ('anya', 'Без меня вы звезду не получите.', 'Without me you will never get a star.', [(2, 'Никогда звезду не получите')], 'adapted'),
+    ('chef', 'Без меня вы звезду не получите.', 'Without me you will never get a star.', [(2, 'Никогда звезду не получите')], 'adapted'),
     ('senya', 'А Елена Павловна разве не против?', 'And is Elena Pavlovna not against it?', [(3, 'А Елена Павловна не против')], 'adapted'),
-    ('anya', 'Нет, она совсем не против.', 'No, she is not against it at all.', [(4, 'Не против')], 'adapted'),
-    ('anya', 'На два часа я её уговорил.', 'I talked her into two hours a day.', [(4, 'На два часа в день я ее уговорил')], 'adapted'),
-    ('fedya', 'Гость нашёл в супе железяку.', 'A guest found a piece of metal in the soup.', [(6, 'нашел какую-то железяку')], 'adapted'),
-    ('fedya', 'Гость в супе из чечевицы нашёл.', 'The guest found it in the lentil soup.', [(6, 'Там гость в супе из чечевицы')], 'adapted'),
-    ('fedya', 'Теперь он хочет видеть шефа.', 'Now he wants to see the chef.', [(6, 'и хочет видеть шефа')], 'adapted'),
+    ('chef', 'Нет, она совсем не против.', 'No, she is not against it at all.', [(4, 'Не против')], 'adapted'),
+    ('chef', 'На два часа я её уговорил.', 'I talked her into two hours a day.', [(4, 'На два часа в день я ее уговорил')], 'adapted'),
+    ('chef', 'Гость нашёл в супе железяку.', 'A guest found a piece of metal in the soup.', [(6, 'нашел какую-то железяку')], 'adapted'),
+    ('chef', 'Гость в супе из чечевицы нашёл.', 'The guest found it in the lentil soup.', [(6, 'Там гость в супе из чечевицы')], 'adapted'),
+    ('chef', 'Теперь он хочет видеть шефа.', 'Now he wants to see the chef.', [(6, 'и хочет видеть шефа')], 'adapted'),
     ('senya', 'Шеф, это же обычный болт.', 'Chef, this is just an ordinary bolt.', [(7, 'Шеф, это болт')], 'adapted'),
-    ('anya', 'Скажите мне, кто это готовил?', 'Tell me, who cooked this?', [(8, 'Кто готовил')], 'adapted'),
-    ('anya', 'Не важно, кто именно готовил.', 'It does not matter who exactly cooked it.', [(9, 'не важно, кто готовил')], 'adapted'),
-    ('anya', 'Очевидно, что это хитрый мошенник.', 'Obviously, this is a clever con artist.', [(10, 'очевидно, что это'), (10, 'мошенник')], 'adapted'),
-    ('anya', 'Сейчас я сам пойду разберусь.', 'Right now I will go sort it out myself.', [(13, 'Сейчас пойду разберусь')], 'adapted'),
+    ('chef', 'Скажите мне, кто это готовил?', 'Tell me, who cooked this?', [(8, 'Кто готовил')], 'adapted'),
+    ('chef', 'Не важно, кто именно готовил.', 'It does not matter who exactly cooked it.', [(9, 'не важно, кто готовил')], 'adapted'),
+    ('chef', 'Очевидно, что это хитрый мошенник.', 'Obviously, this is a clever con artist.', [(10, 'очевидно, что это'), (10, 'мошенник')], 'adapted'),
+    ('chef', 'Сейчас я сам пойду разберусь.', 'Right now I will go sort it out myself.', [(13, 'Сейчас пойду разберусь')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Tell me, who cooked this?' Spoken Russian keeps this brisk, leaning on 'say' and finishing on 'cooked'."),
     (9, None, "'It does not matter who exactly cooked it.' In Russian, the idea of 'not' flows naturally into 'cooked' without extra filler words."),
     (10, None, "'Obviously, this is a clever con artist.' The meaning hinges on 'obviously' working together with 'con artist' in spoken Russian."),
-    (11, None, "'Right now I will go sort it out myself.' Notice the reflexive suffix on the verb meaning 'I will sort it out', turning the action back on the subject."),
+    (11, None, "'Right now I will go sort it out myself.' Chef Barinov pairs 'now' with 'I will sort it out' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov marches into the dining room and makes the foreigner pay for the soup—before seeing the man's business card. See you in the next scene."
-CLOSING = ('anya', 'Они просто не хотят платить!')
+OUTRO = "Chef Barinov marches into the dining room and makes the foreigner pay for the soup—before seeing the man's business card. Until next time!"
+CLOSING = ("chef", "Хорошего дня!")

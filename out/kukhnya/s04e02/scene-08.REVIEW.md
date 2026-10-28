@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The most important thing is to always smile.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Make it look more natural.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'The most important thing is to always smile.' Max pairs 'the main thing' with 'smile' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Make it look more natural.' Spoken Russian keeps this brief and expressive, built right around 'make' without extra helper words.
 - 'Go ahead. I believe in you.' Max uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'These things happen.' Denis uses natural conversational word order here to highlight the most important part of the reply.
-- 'You have a wonderful resume, but unfortunately you do not suit us.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'We will definitely call you back.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Forgive me, I will fix everything.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'I think my finger is hurt.' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'These things happen.' Spoken Russian keeps this brief and expressive, built right around 'it is' without extra helper words.
+- 'You have a wonderful resume, but unfortunately you do not suit us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'We will definitely call you back.' Notice how Russian puts 'definitely' and 'to call back' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Forgive me, I will fix everything.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'I think my finger is hurt.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Let's go to the emergency clinic.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Easy, easy, calm down.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Unfortunately.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Where are all of you even looking?' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'Easy, easy, calm down.' Spoken Russian keeps this brief and expressive, built right around 'quiet' without extra helper words.
+- 'Unfortunately.' Vika centers this short reply on 'regret', letting a few direct words carry the whole meaning.
+- 'Where are all of you even looking?' In everyday Russian, 'where to' flows straight into 'look' without extra linking words.

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 19
-TITLE = "Andréa fait sa proposition  (Andréa Makes Her Pitch)"
-LEVEL = "A1 — débutant"
+TITLE = 'Andréa fait sa proposition  (Andréa Makes Her Pitch)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Inside Hicham's luxury car on the French countryside highway, Andréa and her former classmate reconnect. Hicham sees through her casual ride request, forcing Andréa to reveal what she is really after: a wealthy savior for ASK. Listen to their dialogue in French first."
 OPENER = "Let's explore the conversation line by line and understand Andréa's strategy."
 TRANSITION = "Now let's listen to Andréa's pitch once again from beginning to end."
 OUTRO = "Andréa has planted the seed in Hicham's mind, positioning ASK as a rare jewel ready for a daring partner. Remember the key expression for trusting someone: faire confiance. See you next time!"
-CLOSING = ("lea", "À demain!")
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', "C'est drôle de se retrouver comme ça.", 'It is funny to meet again like this.', [(501, "C'est drôle"), (501, 'et se retrouver comme ça')], ''),
     ('hicham', "C'est peut-être un signe.", 'Maybe it is a sign.', [(502, "C'est peut-être un signe")], ''),

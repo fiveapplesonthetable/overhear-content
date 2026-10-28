@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 22
-TITLE = "Les premières contractions  (The First Contractions)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les premières contractions  (The First Contractions)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the ASK agency, Camille discusses poster billing with Mathias before Andrea urgently calls her for help with sudden stomach pains. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this tense agency moment before the sudden emergency step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "While sorting out actor contracts with Mathias, Camille is abruptly called to help an agonizing Andrea, whose labor pains have suddenly begun. When you watch the episode, listen out for the expressions meaning 'satisfactory' and 'completed'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "While sorting out actor contracts with Mathias, Camille is abruptly called to help an agonizing Andrea, whose labor pains have suddenly begun. When you watch the episode, listen out for the expressions meaning 'satisfactory' and 'completed'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('camille', "C'est bon, j'ai finalisé le contrat.", 'All good, I finalized the contract.', [(1242, "C'est bon"), (1243, "J'ai finalisé le contrat")], ''),
     ('camille', 'Il y a juste un petit truc.', 'There is just one little thing.', [(1244, 'Y a juste un petit truc')], ''),

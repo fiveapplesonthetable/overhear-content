@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 24
-TITLE = "Mathias au jardin  (Mathias in the Garden)"
-LEVEL = "A1 — débutant"
+TITLE = 'Mathias au jardin  (Mathias in the Garden)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "cecile": "emilie", "mathias": "marcel"}
-LABELS = {"cecile": "Cécile", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'mathias': 'marcel'}
+LABELS = {'cecile': 'Cécile', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now he drives out to see Cécile herself, with a bunch of flowers. She has left Gabriel and is thinking about a rival agency, StarMédia. She opens the door in her gardening clothes, and she is not in a trusting mood. As usual, the French comes first; you don't need to catch every word."
 OPENER = "Let's walk back through the garden. Cécile greets Mathias at the door with a short, polite command."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's this scene done. When you watch it, notice how the polite 'you' turns casual as they work side by side in the garden. See you soon for what happens next."
-CLOSING = ("cecile", "À bientôt, Mathias!")
+OUTRO = "That's this scene done. When you watch it, notice how the polite 'you' turns casual as they work side by side in the garden. See you next time!"
+CLOSING = ('cecile', 'À bientôt, Mathias!')
 STORY = [
     ('cecile', 'Bonjour, Mathias. Entrez.', 'Hello, Mathias. Come in.', [(651, 'Bonjour, Mathias'), (652, 'Entrez')], ''),
     ('mathias', 'Bonjour, Cécile. Ces fleurs sont pour vous.', 'Hello, Cécile. These flowers are for you.', [], ''),

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет, что случилось? | Hi, what happened? | #319 00:21:58: Привет, что случилось | verbatim |
+| 1 | Шеф | Привет, что случилось? | Hi, what happened? | #319 00:21:58: Привет, что случилось | verbatim |
 | 2 | Елена | Случилось, Витя, вот это! | What happened, Vitya, is this! | #319 00:21:58: Случилось, Витя<br>#320 00:22:02: Вот это | adapted: adapted |
 | 3 | Елена | Больше всего меня интересует, почему это в твоей машине. | Most of all it interests me why this was in your car. | #320 00:22:02: Но больше всего меня интересует, почему это<br>#320 00:22:02: в твоей машине | adapted: adapted |
-| 4 | Катя | О, мой лифчик! Потрясающе. | Oh, my bra! Amazing. | #321 00:22:06: О, мой лифчик. Потрясающе | verbatim |
+| 4 | Елена | О, мой лифчик! Потрясающе. | Oh, my bra! Amazing. | #321 00:22:06: О, мой лифчик. Потрясающе | verbatim |
 | 5 | Елена | Она даже не скрывает! Представляете? | She doesn't even hide it! Can you imagine? | #322 00:22:08: Она даже не скрывает<br>#323 00:22:10: Представляете | adapted: adapted |
-| 6 | Аня | Лена, ты всё не так поняла. | Lena, you misunderstood everything. | #324 00:22:12: ты все не так поняла | adapted: adapted |
+| 6 | Шеф | Лена, ты всё не так поняла. | Lena, you misunderstood everything. | #324 00:22:12: ты все не так поняла | adapted: adapted |
 | 7 | Елена | А как я должна была понять? | And how was I supposed to understand it? | #325 00:22:13: А как я должна была понять | verbatim |
-| 8 | Аня | Девушка села в твою машину, ей стало жарко. | A girl got into your car and she got hot. | #326 00:22:15: Девушка села в твою машину, ей стало жарко | verbatim |
+| 8 | Шеф | Девушка села в твою машину, ей стало жарко. | A girl got into your car and she got hot. | #326 00:22:15: Девушка села в твою машину, ей стало жарко | verbatim |
 | 9 | Елена | И она разделась? | And she undressed? | #327 00:22:17: Она разделась | adapted: adapted |
-| 10 | Аня | Лена, постой! Мне нужно было сразу тебе сказать. | Lena, hold on! I should have told you right away. | #328 00:22:22: Лена, постой<br>#329 00:22:24: Мне нужно было сразу тебе сказать | adapted: adapted |
+| 10 | Шеф | Лена, постой! Мне нужно было сразу тебе сказать. | Lena, hold on! I should have told you right away. | #328 00:22:22: Лена, постой<br>#329 00:22:24: Мне нужно было сразу тебе сказать | adapted: adapted |
 | 11 | Елена | Заводить романы у себя на кухне за моей спиной! | Carrying on affairs in your own kitchen behind my back! | #331 00:22:28: заводить романы у себя на кухне за моей спиной | verbatim |
-| 12 | Аня | Какие романы? Катя — моя дочь! | What affairs? Katya is my daughter! | #332 00:22:30: Какие романы<br>#332 00:22:30: моя дочь | adapted: adapted |
+| 12 | Шеф | Какие романы? Катя — моя дочь! | What affairs? Katya is my daughter! | #332 00:22:30: Какие романы<br>#332 00:22:30: моя дочь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

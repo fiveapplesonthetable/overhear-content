@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 20
-TITLE = 'Верить надо в себя  (You Must Believe in Yourself)'
+TITLE = "Верить надо в себя  (You Must Believe in Yourself)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'In the final scene of the episode, Barinov makes peace with Katya and Elena, Vika scolds Max for jumping in front of a car, and Max concludes that you should believe in yourself rather than omens.'
@@ -31,7 +31,7 @@ STORY = [
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 
 WALK = [
-    (0, None, "'And that is just what I thought right away! Right away.' The grammar packs 'and' and 'right' into a tight, idiomatic kitchen exchange."),
+    (0, None, "'And that is just what I thought right away! Right away.' Chef Barinov pairs 'immediately' with 'right, straight' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (1, None, "'Max, do you have any brains at all, throwing yourself under the wheels?' Spoken Russian keeps this brisk, leaning on 'Max' and finishing on 'to throw oneself'. Max answers right away."),
     (2, None, "'Well, at least I felt like a hero.' Here the Russian phrasing highlights 'come on' before landing on 'hero'."),
     (3, None, "'And still I do not believe in omens, especially bad ones.' The meaning hinges on 'and' working together with 'bad' in spoken Russian."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up Episode Three of Season Three. Listen for Max's closing joke that he doesn't believe in any superstitions—except for a black cat, of course."
-CLOSING = ('anya', 'Верить надо в себя!')
+OUTRO = "And that wraps up Episode Three of Season Three. Listen for Max's closing joke that he doesn't believe in any superstitions—except for a black cat, of course. See you next time!"
+CLOSING = ("anya", "До свидания!")

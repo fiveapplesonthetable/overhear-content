@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Attendez ici, je cherche Andréa! | Wait here, I am finding Andrea! | 999:Attends, Andréa |
 
 ## Part 5 — Outro & Closing
-> Noemie leaves Corinne in the party crowd as panic spreads through ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'am looking for'. You'll catch them now. See you next time.
+> Noemie leaves Corinne in the party crowd as panic spreads through ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'am looking for'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

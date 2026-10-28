@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Notre agence sauvera ce projet important. | Our agency will save this important project. | 1096:très important |
 
 ## Part 5 — Outro & Closing
-> Armed with an artistic explanation, Andrea and Gabriel head toward the screening room to convince the American producers. When you watch the episode, listen out for the expressions meaning 'producers' and 'American'. You'll catch them now. See you next time.
+> Armed with an artistic explanation, Andrea and Gabriel head toward the screening room to convince the American producers. When you watch the episode, listen out for the expressions meaning 'producers' and 'American'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

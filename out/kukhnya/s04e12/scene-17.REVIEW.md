@@ -16,11 +16,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Тимур | А как иначе несвежую рыбу продавать? | And how else are we supposed to sell stale fish? | #279 00:17:27: А как по-твоему не свежую рыбу продавать | adapted: adapted for A1 clarity |
 | 5 | Тимур | Учись, студент, это же настоящий маркетинг! | Learn, student, this is real marketing! | #280 00:17:31: Это же маркетинг | adapted: adapted for A1 clarity |
 | 6 | Саша | Скажите, а почему так много рыбы? | Tell me, why is there so much fish? | #282 00:17:52: А почему у нас так много рыбы | adapted: adapted for A1 clarity |
-| 7 | Аня | Ну, видимо, потому что сегодня четверг. | Well, apparently because today is Thursday. | #283 00:17:55: потому что четверг | adapted: adapted for A1 clarity |
-| 8 | Аня | Саша, я тоже хочу тебя поздравить. | Sasha, I want to congratulate you too. | #287 00:18:03: Я хочу тебя поздравить | adapted: adapted for A1 clarity |
+| 7 | Саша | Ну, видимо, потому что сегодня четверг. | Well, apparently because today is Thursday. | #283 00:17:55: потому что четверг | adapted: adapted for A1 clarity |
+| 8 | Саша | Саша, я тоже хочу тебя поздравить. | Sasha, I want to congratulate you too. | #287 00:18:03: Я хочу тебя поздравить | adapted: adapted for A1 clarity |
 | 9 | Саша | Меня поздравить, спасибо тебе большое, Вика. | Congratulate me, thank you very much, Vika. | #288 00:18:05: Меня? Спасибо | adapted: adapted for A1 clarity |
-| 10 | Аня | Когда мой муж будет помогать тебе... | Next time my husband is helping you... | #290 00:18:09: В следующий раз, когда мой муж будет помогать тебе | adapted: adapted for A1 clarity |
-| 11 | Аня | Пожалуйста, будь аккуратней, не теряй ничего. | Please be more careful, do not lose anything. | #291 00:18:13: Не теряй ничего | adapted: adapted for A1 clarity |
+| 10 | Саша | Когда мой муж будет помогать тебе... | Next time my husband is helping you... | #290 00:18:09: В следующий раз, когда мой муж будет помогать тебе | adapted: adapted for A1 clarity |
+| 11 | Саша | Пожалуйста, будь аккуратней, не теряй ничего. | Please be more careful, do not lose anything. | #291 00:18:13: Не теряй ничего | adapted: adapted for A1 clarity |
 | 12 | Саша | Девочки, хватит секретничать, мы похищаем невесту! | Girls, enough whispering, we are kidnapping the bride! | #292 00:18:17: Саш, я тебя похищаю | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sasha, I want to congratulate you too.' Vika walks up to the bride holding a small box.
 - 'Congratulate me, thank you very much, Vika.' Sasha opens the box and sees the earring she lost on Tuesday.
 - 'Next time my husband is helping you...' Vika's smile turns icy cold.
-- 'Please be more careful, do not lose anything.' Comparative 'akkuratney' ('more careful') delivers a razor-sharp warning.
+- 'Please be more careful, do not lose anything.' Vika uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'Girls, enough whispering, we are kidnapping the bride!' Laughing bridesmaids spirit Sasha away to hide her in the kitchen cooler.

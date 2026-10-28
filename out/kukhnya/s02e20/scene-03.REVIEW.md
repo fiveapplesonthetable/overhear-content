@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Да я работаю тут. | Yes, I work right here. | #39 00:03:20: Да я работаю тут | verbatim |
-| 2 | Макс | А ты? | And what about you? | #40 00:03:22: А ты | verbatim |
-| 3 | Аня | Ой, нет, ты что, это Александр. | Oh no, what are you talking about, this is Aleksandr. | #42 00:03:32: Ой, нет, ты что, это Александр | verbatim |
-| 4 | Макс | Он занимается нашей свадьбой. | He is organizing our wedding reception. | #43 00:03:34: Он занимается нашей свадьбой | verbatim |
-| 5 | Аня | Ты представляешь, нашу свадьбу будет вести сам Нагиев. | Can you imagine, Dmitriy Nagiyev himself is going to host our wedding. | #44 00:03:36: Ты представляешь, нашу свадьбу будет вести сам Нагиев | verbatim |
-| 6 | Макс | Ну ладно, что я себе. | Well anyway, enough about me. | #45 00:03:38: Ну ладно, что я себе | verbatim |
-| 7 | Аня | Замуж-то вышла? | Did you get married yet? | #46 00:03:41: Замуж-то вышла | verbatim |
-| 8 | Макс | Да, пока нет. | Well, not just yet. | #47 00:03:42: Да, пока нет | verbatim |
-| 9 | Аня | Почему это последняя? | Why would I be the last one? | #49 00:03:47: Почему это последняя | verbatim |
-| 10 | Макс | Так она бы в Израиль уехала. | Otherwise she would have moved away to Israel. | #51 00:03:52: Так она бы в Израиль уехала | verbatim |
-| 11 | Аня | Выглядит теперь как швабра. | She looks like a mop these days. | #53 00:03:58: Выглядит теперь как швабра | verbatim |
-| 12 | Макс | Ты всегда какая-то такая странная была. | You were always a little bit strange like that. | #56 00:04:05: Ты всегда какая-то такая странная была | verbatim |
-| 13 | Аня | Ой, а можно ли тебя попросить? | Oh, could I ask you for a small favor? | #57 00:04:09: Ой, а можно ли тебя попросить | verbatim |
+| 1 | Нагиев | Да я работаю тут. | Yes, I work right here. | #39 00:03:20: Да я работаю тут | verbatim |
+| 2 | Аня | А ты? | And what about you? | #40 00:03:22: А ты | verbatim |
+| 3 | Нагиев | Ой, нет, ты что, это Александр. | Oh no, what are you talking about, this is Aleksandr. | #42 00:03:32: Ой, нет, ты что, это Александр | verbatim |
+| 4 | Аня | Он занимается нашей свадьбой. | He is organizing our wedding reception. | #43 00:03:34: Он занимается нашей свадьбой | verbatim |
+| 5 | Нагиев | Ты представляешь, нашу свадьбу будет вести сам Нагиев. | Can you imagine, Dmitriy Nagiyev himself is going to host our wedding. | #44 00:03:36: Ты представляешь, нашу свадьбу будет вести сам Нагиев | verbatim |
+| 6 | Аня | Ну ладно, что я себе. | Well anyway, enough about me. | #45 00:03:38: Ну ладно, что я себе | verbatim |
+| 7 | Нагиев | Замуж-то вышла? | Did you get married yet? | #46 00:03:41: Замуж-то вышла | verbatim |
+| 8 | Аня | Да, пока нет. | Well, not just yet. | #47 00:03:42: Да, пока нет | verbatim |
+| 9 | Нагиев | Почему это последняя? | Why would I be the last one? | #49 00:03:47: Почему это последняя | verbatim |
+| 10 | Аня | Так она бы в Израиль уехала. | Otherwise she would have moved away to Israel. | #51 00:03:52: Так она бы в Израиль уехала | verbatim |
+| 11 | Нагиев | Выглядит теперь как швабра. | She looks like a mop these days. | #53 00:03:58: Выглядит теперь как швабра | verbatim |
+| 12 | Аня | Ты всегда какая-то такая странная была. | You were always a little bit strange like that. | #56 00:04:05: Ты всегда какая-то такая странная была | verbatim |
+| 13 | Нагиев | Ой, а можно ли тебя попросить? | Oh, could I ask you for a small favor? | #57 00:04:09: Ой, а можно ли тебя попросить | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

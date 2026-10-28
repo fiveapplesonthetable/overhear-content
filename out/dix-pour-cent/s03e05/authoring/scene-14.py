@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 14
-TITLE = "La clause de nudité  (The Nudity Clause)"
-LEVEL = "A1 — débutant"
+TITLE = 'La clause de nudité  (The Nudity Clause)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "birag": "theo", "lea": "lucie"}
-LABELS = {"birag": "Jean-Luc Birag", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'birag': 'theo', 'lea': 'lucie'}
+LABELS = {'birag': 'Jean-Luc Birag', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Armed with sticky notes and the signed contract, director Jean-Luc Birag tries to justify an unscripted nude scene. He claims that a cold sequence set in a morgue counts as an essential love scene. Let's listen to Andrea's sharp defense in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Andrea Martel stands up courageously against artistic manipulation and legal intimidation. When you watch the episode, listen out for the expressions meaning 'acting contract' and 'signed'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Andrea Martel stands up courageously against artistic manipulation and legal intimidation. When you watch the episode, listen out for the expressions meaning 'acting contract' and 'signed'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('birag', 'Voici le contrat signé de Béatrice Dalle.', 'Here is the signed contract of Beatrice Dalle.', [(461, "C'est le contrat de Béatrice")], ''),
     ('birag', "L'actrice accepte de se dénuder au tournage.", 'The actress agrees to appear nude during shooting.', [(467, "L'actrice acceptera de se dénuder")], ''),

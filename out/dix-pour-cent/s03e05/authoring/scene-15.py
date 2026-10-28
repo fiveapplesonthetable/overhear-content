@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 15
 TITLE = "La colère de Béatrice  (Béatrice's Fury)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "beatrice": "emilie", "lea": "lucie"}
-LABELS = {"beatrice": "Béatrice", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'beatrice': 'emilie', 'lea': 'lucie'}
+LABELS = {'beatrice': 'Béatrice', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Furious and pacing inside her dressing room trailer, iconic actress Beatrice Dalle vows never to return to the set. When Andrea explains that a lawsuit could ruin the agency, Beatrice fears she is being abandoned. Let's listen to their intense conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Andrea reaffirms the deep bond of trust that connects an agent with an artist. When you watch the episode, listen out for the expressions meaning 'think' and 'director'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Andrea reaffirms the deep bond of trust that connects an agent with an artist. When you watch the episode, listen out for the expressions meaning 'think' and 'director'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('beatrice', 'Je pense toujours à ce réalisateur Birag.', 'I think constantly about this director Birag.', [(622, 'je pense à Birag')], ''),
     ('beatrice', 'Cette histoire me met vraiment les nerfs!', 'This situation really gets on my nerves!', [(623, 'ça me fout les nerfs')], ''),

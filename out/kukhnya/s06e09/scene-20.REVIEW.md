@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Света | Ты позвал меня в кафе и соврал. | You invited me to the cafe and lied. | #339 00:23:51: Я кофе позвал, собрал про шефа | adapted: adapted |
 | 11 | Денис | Почему ты сейчас так странно на меня смотришь? | Why are you looking at me so strangely right now? | #340 00:23:54: Почему | adapted: adapted |
 | 12 | Света | Потому что ты мне тоже очень нравишься. | Because I like you very much too. | #341 00:23:56: Ты мне тоже нравишься | adapted: adapted |
-| 13 | Аня | Денис, я вижу, ты уже совсем не скучаешь! | Denis, I see you are not bored at all anymore! | #342 00:24:03: Света | adapted: adapted |
+| 13 | Света | Денис, я вижу, ты уже совсем не скучаешь! | Denis, I see you are not bored at all anymore! | #342 00:24:03: Света | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I talked with the chef in person this morning.' Denis brings out the contrast between 'this' and 'I' in a few short words.
 - 'Really, you asked the chef for us yourself?' Sveta brings out the contrast between 'really' and 'you' in a few short words.
 - 'Of course, because without you it will be boring here.' Spoken Russian keeps this brisk, leaning on 'of course' and finishing on 'boring'. Sveta answers right away.
-- 'I think I understood everything perfectly right now.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject.
+- 'I think I understood everything perfectly right now.' Sveta pairs 'it seems' with 'understood' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'You invited me to the cafe and lied.' The '-l' ending on the verb meaning 'invited' places the action in the masculine past tense.
 - 'Why are you looking at me so strangely right now?' Denis addresses the listener with the informal singular 'you' alongside 'look'. Sveta answers right away.
 - 'Because I like you very much too.' The meaning hinges on 'that is why' working together with 'appeal to' in spoken Russian.

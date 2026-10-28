@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 20
-TITLE = "Une cigarette dehors  (A Cigarette Outside)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une cigarette dehors  (A Cigarette Outside)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Feeling overwhelmed by her constant screen nudity, Sofia slips out of the premiere screening into the theater foyer. Gabriel joins her outside for an honest and comforting conversation. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel comforts Sofia step by step during the movie premiere."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around a cigarette outside. When you watch the episode, listen out for the expressions meaning 'feel' and 'free'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "À bientôt!")
+OUTRO = "That's it for this scene around a cigarette outside. When you watch the episode, listen out for the expressions meaning 'feel' and 'free'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('sofia', 'Ah, je me sens plus libre ici!', 'Ah, I feel more free here!', [(904, 'je me sens libre.')], ''),
     ('gabriel', 'Tu fumes une cigarette maintenant, Sofia?', 'Are you smoking a cigarette now, Sofia?', [(905, 'Tu fumes toi maintenant ?')], ''),

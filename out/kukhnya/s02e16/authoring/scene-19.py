@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e16-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 19
-TITLE = 'Драка в зале и мёртвые рыбки  (Brawl in the Dining Room and the Dead Fish)'
+TITLE = "Драка в зале и мёртвые рыбки  (Brawl in the Dining Room and the Dead Fish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = "To Vasily's amusement, a full-blown brawl breaks out in the dining room, prompting Vika to strip Senya of his monthly bonus. Worse still, Sasha and Kostya horrifiedly discover that Max killed the aquarium fish Ilya had gifted her, and Kostya tells Max to leave."
 
@@ -43,11 +43,10 @@ WALK = [
     (8, None, "'What a madhouse.' Here the Russian phrasing highlights 'house' before landing on 'what'."),
     (9, None, "'Kostyan, I had to get back at him.' Max anchors the line on 'Kostyan', while 'to take revenge' completes the thought."),
     (10, None, "'Oh, stop whining.' Here the Russian phrasing highlights 'come on' before landing on 'you'. Kostya answers right away."),
-    (11, None, "'Did you kill them?' In Russian, the idea of 'this' flows naturally into 'killed' without extra filler words."),
+    (11, None, "'Did you kill them?' In spoken Russian, the words stay in their normal statement order and Kostya's rising voice at the end turns the line into a question."),
     (12, None, "'Max, you had better leave.' Max brings out the contrast between 'Max' and 'you' in a few short words."),
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 19 of Episode 16, listen out for the exchange around brawl in the dining room and the dead fish — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Макс, тебе лучше уйти.')
+OUTRO = "That wraps up this scene as a wild brawl erupts in the dining room to Vasily's delight, while Sasha and Kostya discover that Max poisoned the aquarium fish Ilya gave to Sasha. Until next time!"
+CLOSING = ("anya", "Увидимся!")

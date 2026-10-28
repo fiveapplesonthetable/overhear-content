@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 34
-TITLE = "Tu veux être mon agent?  (Will You Be My Agent?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Tu veux être mon agent?  (Will You Be My Agent?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "cecile": "emilie", "gabriel": "theo"}
-LABELS = {"cecile": "Cécile", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo'}
+LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "She has agreed to Mathias's plan: a small operation on her face, so that she looks young enough for the Tarantino film. Now Gabriel asks her when she is going, and the next day he drives her to the clinic and stays to wait for her. We'll listen to it all in French first; if most of it goes past you, that's perfectly fine."
 OPENER = "Let's take it a line at a time. They're in the car, and Gabriel asks the question he has been avoiding."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So Cécile keeps her face, and Gabriel gets his client back. Listen out for that happy little yes at the end when you watch, and I'll see you in the next one."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = 'So Cécile keeps her face, and Gabriel gets his client back. Listen out for that happy little yes at the end when you watch. See you next time!'
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', 'Tu vas à la clinique quand?', 'When are you going to the clinic?', [(865, 'Tu vas à la clinique quand')], ''),
     ('cecile', 'Demain. Pas de commentaire?', 'Tomorrow. No comment?', [(865, 'Demain'), (866, 'Pas de commentaire')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 1
-TITLE = "Interview télévisée de Virginie et Ramzy  (TV Interview of Virginie and Ramzy)"
-LEVEL = "A1 — débutant"
+TITLE = 'Interview télévisée de Virginie et Ramzy  (TV Interview of Virginie and Ramzy)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "journaliste": "marcel", "virginie": "emilie", "ramzy": "theo"}
-LABELS = {"journaliste": "Le journaliste", "virginie": "Virginie", "ramzy": "Ramzy"}
+VOICES = {'narrator': 'sky', 'journaliste': 'marcel', 'virginie': 'emilie', 'ramzy': 'theo'}
+LABELS = {'journaliste': 'Le journaliste', 'virginie': 'Virginie', 'ramzy': 'Ramzy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Season 2 of Dix pour cent opens with ASK in financial crisis: the agency desperately needs a new majority shareholder before its rivals swallow it up, while Gabriel's client Virginie Efira and her ex-boyfriend Ramzy Bedia are trapped together on a desert-island shoot. We begin in Mathias's office as he checks in with Noémie. Listen to the whole conversation in French first — don't worry about catching every word."
 OPENER = "Let's examine how the couple answers questions during their television interview."
 TRANSITION = "Now let's listen to the whole interview again at natural speed."
-OUTRO = 'Virginie and Ramzy seem completely united on screen, but fame and intense schedules put heavy pressure on their relationship. next time, a sudden crisis will threaten everything.'
-CLOSING = ("virginie", "Bonne journée!")
+OUTRO = 'Virginie and Ramzy seem completely united on screen, but fame and intense schedules put heavy pressure on their relationship. See you next time!'
+CLOSING = ('virginie', 'Bonne journée!')
 STORY = [
     ('journaliste', 'Vous vivez ensemble depuis de nombreuses années.', 'You have lived together for many years.', [(2, 'vous vivez ensemble depuis de nombreuses années')], ''),
     ('journaliste', "Et c'est votre premier film ensemble!", 'And this is your first film together!', [(5, "c'est votre premier film ensemble.")], ''),

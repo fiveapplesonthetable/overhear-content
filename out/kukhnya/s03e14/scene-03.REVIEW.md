@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Fine, let the car stay right here.' The meaning hinges on 'all right' working together with 'is standing' in spoken Russian. Chef Barinov answers right away.
-- 'Do you have any more questions?' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'question'.
+- 'Do you have any more questions?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'I have one, do you run fast?' Max raises the pitch on 'quickly' to turn the phrase into a direct spoken question.
 - 'And what business is that of yours?' Chef Barinov brings out the contrast between 'and' and 'to you' in a few short words. Katya answers right away.
 - 'Hi, why do you keep calling me?' Katya raises the pitch on 'keep calling' to turn the phrase into a direct spoken question.

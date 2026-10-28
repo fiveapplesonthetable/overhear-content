@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e07-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 19
-TITLE = 'Сделка на лестничной клетке  (The Deal on the Stairwell Landing)'
+TITLE = "Сделка на лестничной клетке  (The Deal on the Stairwell Landing)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = "Out on the stairwell landing, Max hands Rodion Sergeyevich his coat and thanks him for playing along with their drunken karaoke act so that Nastya would be the one to send him away. The next day at Claude Monet, Chef Barinov tastes Max's vegetables and grudgingly praises them."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 19 of Episode 7, listen out for the exchange around the deal on the stairwell landing — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'В вашем лице, Виктор Петрович.')
+OUTRO = "That wraps up this scene as outside on the landing, Max thanks Rodion for playing along with their act to get Nastya to kick him out herself, and the next day Chef Barinov praises Max's al dente vegetables. Until next time!"
+CLOSING = ("anya", "Увидимся!")

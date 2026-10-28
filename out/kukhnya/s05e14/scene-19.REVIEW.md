@@ -13,9 +13,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Элеонора | Надеюсь, ты сделаешь всё быстро для моей дочери. | I hope you will do everything quickly for my daughter. | #330 00:21:01: Я надеюсь, что ты сделаешь все быстро | adapted: adapted |
 | 2 | Аня | Можете даже не сомневаться в этом, Элеонора Андреевна. | You do not even need to doubt that, Eleonora Andreyevna. | #331 00:21:05: Не сомневайся | adapted: adapted |
 | 3 | Элеонора | Кто там стучит в дверь? Быстро прячься! | Who is knocking at the door there? Hide quickly! | #332 00:21:10: Кто там | adapted: adapted |
-| 4 | Катя | Мама, тебе не стыдно? Об этом все говорят! | Mom, are you not ashamed? Everyone is talking about this! | #335 00:21:19: Тебе не стыдно | adapted: adapted |
+| 4 | Элеонора | Мама, тебе не стыдно? Об этом все говорят! | Mom, are you not ashamed? Everyone is talking about this! | #335 00:21:19: Тебе не стыдно | adapted: adapted |
 | 5 | Аня | Катя, прости, просто мне очень нужны были деньги. | Katya, forgive me, I just needed the money very badly. | #338 00:21:37: Прости, просто мне очень нужны были деньги | adapted: adapted |
-| 6 | Катя | Ты что, спишь с моей мамой из-за денег? | Are you sleeping with my mom for money? | #339 00:21:41: Ты что, спишь с моей мамой из-за денег | adapted: adapted |
+| 6 | Элеонора | Ты что, спишь с моей мамой из-за денег? | Are you sleeping with my mom for money? | #339 00:21:41: Ты что, спишь с моей мамой из-за денег | adapted: adapted |
 | 7 | Аня | Ты что, с ума сошла? Какой ещё роман? | Have you lost your mind? What affair? | #340 00:21:43: Ты что, с ума сошла | adapted: adapted |
 | 8 | Аня | Твоя мама заплатила мне, чтобы я тебя бросил! | Your mom paid me so that I would break up with you! | #344 00:21:50: заплатила мне, чтобы я тебя бросил | adapted: adapted |
 | 9 | Элеонора | Доченька, я просто хотела, чтобы ты была счастлива! | Sweetheart, I just wanted you to be happy! | #346 00:21:55: Я просто хотела, чтобы ты была счастлива | adapted: adapted |

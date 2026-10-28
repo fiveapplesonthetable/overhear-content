@@ -1,30 +1,30 @@
-ID = "kukhnya-s02e10-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 14
 TITLE = "Рубли вместо долларов и пропажа Пашки  (Rubles Instead of Dollars and Pashka's Disappearance)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja'}
-LABELS = {'anya': 'Шеф', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = 'When the debt collector returns, Lyova proudly hands over the hundred thousand rubles gathered by the cooks, only for the thug to laugh and clarify that Chef Barinov owes a hundred thousand dollars. Meanwhile, Nastya brings Pashka the turtle back to work, where it promptly wanders into the kitchen.'
 
 STORY = [
-    ('anya', 'Шеф-повар, капусту насынковал?', 'Hey head chef, did you shred the cabbage?', [(215, 'шеф-повар, капусту насынковал')], ''),
+    ('chef', 'Шеф-повар, капусту насынковал?', 'Hey head chef, did you shred the cabbage?', [(215, 'шеф-повар, капусту насынковал')], ''),
     ('nastya', 'Капусту насынковал?', 'Did you shred the cabbage, I asked?', [(215, 'капусту насынковал')], ''),
-    ('anya', 'Это что, хохма такая?', 'Is this supposed to be some kind of joke?', [(217, 'Это что, хохма такая')], ''),
+    ('chef', 'Это что, хохма такая?', 'Is this supposed to be some kind of joke?', [(217, 'Это что, хохма такая')], ''),
     ('nastya', 'Это что?', 'What is this?', [(217, 'Это что')], ''),
-    ('anya', 'Не увязочка.', 'A little misunderstanding.', [(220, 'Не увязочка')], ''),
+    ('chef', 'Не увязочка.', 'A little misunderstanding.', [(220, 'Не увязочка')], ''),
     ('nastya', 'Вот так.', 'Just like that.', [(221, 'Вот так')], ''),
-    ('anya', 'Короче, чтобы деньги к вечеру были.', 'Long story short, have the money ready by tonight.', [(222, 'Короче, чтобы деньги к вечеру были')], ''),
+    ('chef', 'Короче, чтобы деньги к вечеру были.', 'Long story short, have the money ready by tonight.', [(222, 'Короче, чтобы деньги к вечеру были')], ''),
     ('nastya', 'Настя, иди сюда.', 'Nastya, come over here.', [(224, 'Настя, иди сюда')], ''),
-    ('anya', 'Это что такое?', 'What is this thing?', [(225, 'Это что такое')], ''),
+    ('chef', 'Это что такое?', 'What is this thing?', [(225, 'Это что такое')], ''),
     ('nastya', 'Это Пашка.', 'That is Pashka.', [(225, 'Это Пашка')], ''),
-    ('anya', 'Это что такое? Это Пашка?', 'What is this? That is Pashka?', [(225, 'Это что такое? Это Пашка')], ''),
+    ('chef', 'Это что такое? Это Пашка?', 'What is this? That is Pashka?', [(225, 'Это что такое? Это Пашка')], ''),
     ('nastya', 'Че, не узнал?', 'What, did you not recognize him?', [(226, 'Че, не узнал')], ''),
 ]
 
@@ -41,11 +41,10 @@ WALK = [
     (7, None, "'Nastya, come over here.' Nastya anchors the line on 'Nastya', while 'here' completes the thought."),
     (8, None, "'What is this thing?' Chef Viktor brings out the contrast between 'this' and 'what' in a few short words."),
     (9, None, "'That is Pashka.' Here the Russian phrasing highlights 'this' before landing on 'Pasha'. Chef Viktor answers right away."),
-    (10, None, "'What is this? That is Pashka?' In Russian, the idea of 'this' flows naturally into 'Pasha' without extra filler words."),
+    (10, None, "'What is this? That is Pashka?' Chef Barinov keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
     (11, None, "'What, did you not recognize him?' Nastya raises the pitch on 'recognised' to turn the phrase into a direct spoken question."),
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 14 of Episode 10, listen out for the exchange around rubles instead of dollars and pashka's disappearance — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('nastya', 'Че, не узнал?')
+OUTRO = 'That wraps up this scene as lyova hands the collected hundred thousand rubles to the debt collector only to learn the debt is in dollars, while Nastya brings the turtle back to the kitchen and loses track of it. See you next time!'
+CLOSING = ("nastya", "Всего хорошего!")

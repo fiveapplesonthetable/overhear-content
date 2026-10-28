@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e17-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 12
 TITLE = "Признание Луи в кладовой  (Louis's Confession in the Storage Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'louis': 'anja'}
-LABELS = {'anya': 'Настя', 'louis': 'Луи'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "louis": "anja"}
+LABELS = {"nastya": "Настя", "louis": "Луи"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'In the storage room, the persistent female guest corners Louis and says she missed him terribly. Louis awkwardly confesses that she was the very first girl he ever slept with and that they cannot be together, only for Chef Barinov to burst in reciting poetry.'
 
 STORY = [
-    ('anya', 'Луи, извини, что я отвлекаю тебя от работы.', 'Louis, forgive me for distracting you from your work.', [(181, 'Луи, извини, что я отвлекаю тебя от работы')], ''),
+    ('nastya', 'Луи, извини, что я отвлекаю тебя от работы.', 'Louis, forgive me for distracting you from your work.', [(181, 'Луи, извини, что я отвлекаю тебя от работы')], ''),
     ('louis', 'Просто я очень соскучился.', 'I just missed you so much.', [(182, 'Просто я очень соскучился')], ''),
-    ('anya', 'Я так и знала.', 'I knew it all along.', [(184, 'Я так и знала')], ''),
+    ('nastya', 'Я так и знала.', 'I knew it all along.', [(184, 'Я так и знала')], ''),
     ('louis', 'Нет, нет, нет.', 'No, no, no.', [(185, 'Нет, нет, нет')], ''),
-    ('anya', 'Ты вообще единственная девушка, с которой я...', 'You are actually the only girl I have ever...', [(186, 'Ты вообще единственная девушка, с которой я')], ''),
+    ('nastya', 'Ты вообще единственная девушка, с которой я...', 'You are actually the only girl I have ever...', [(186, 'Ты вообще единственная девушка, с которой я')], ''),
     ('louis', 'Слава богу.', 'Thank goodness for that.', [(188, 'Слава богу')], ''),
-    ('anya', 'Поэтому между нами ничего не может быть.', 'That is why nothing can ever happen between us.', [(189, 'Поэтому между нами ничего не может быть')], ''),
+    ('nastya', 'Поэтому между нами ничего не может быть.', 'That is why nothing can ever happen between us.', [(189, 'Поэтому между нами ничего не может быть')], ''),
     ('louis', 'Я что, такая страшная?', 'What, am I really that ugly?', [(190, 'Я что, такая страшная')], ''),
-    ('anya', 'Ты делал это как настоящий мужчина.', 'You did it like a real man.', [(192, 'ты делал это как настоящий мужчина')], ''),
+    ('nastya', 'Ты делал это как настоящий мужчина.', 'You did it like a real man.', [(192, 'ты делал это как настоящий мужчина')], ''),
     ('louis', 'Мальчик мой?', 'My little boy?', [(195, 'Мальчик мой')], ''),
-    ('anya', 'Ну-ка, живы на кухню.', 'Alright, get back to the kitchen alive.', [(196, 'Ну-ка, живы на кухню')], ''),
+    ('nastya', 'Ну-ка, живы на кухню.', 'Alright, get back to the kitchen alive.', [(196, 'Ну-ка, живы на кухню')], ''),
     ('louis', 'Мне очень скучно, нужно бежать.', 'I am terribly sorry, I have to run.', [(197, 'Мне очень скучно, нужно бежать')], ''),
-    ('anya', 'Это он?', 'Wait, is that him?', [(198, 'Это он')], ''),
+    ('nastya', 'Это он?', 'Wait, is that him?', [(198, 'Это он')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 12 of Episode 17, listen out for the exchange around louis's confession in the storage room — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Это он?')
+OUTRO = 'That wraps up this scene as louis tries to tell his female admirer in the storage room that nothing can happen between them after their one night together, just as Chef Barinov barges in reciting poetry. See you next time!'
+CLOSING = ("nastya", "Увидимся!")

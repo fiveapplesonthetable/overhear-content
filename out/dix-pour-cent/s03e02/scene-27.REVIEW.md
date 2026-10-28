@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | D'accord, alors là, on le fait! | Agreed, so right now, we do it! | 1199:Là, on le fait |
 
 ## Part 5 — Outro & Closing
-> Setting aside fear and hesitation, Andrea and Gabriel seal a secret pact to launch their own talent agency in complete defiance of Hicham. When you watch the episode, listen out for the expressions meaning 'will grasp' and 'decision'. You'll catch them now. See you next time.
+> Setting aside fear and hesitation, Andrea and Gabriel seal a secret pact to launch their own talent agency in complete defiance of Hicham. When you watch the episode, listen out for the expressions meaning 'will grasp' and 'decision'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

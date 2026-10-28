@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | C'est absurde, je suis d'accord! | It is absurd, I agree! | 168:C'est absurde., 170:Je suis d'accord ! |
 
 ## Part 5 — Outro & Closing
-> The partners are in open revolt against Mathias's austerity plan, refusing to accept any salary reductions. Meanwhile, Ramzy Bedia waits anxiously in Mathias's private office, determined to confront his agent about the humiliating magazine cover. See you next time!
+> The partners are in open revolt against Mathias's austerity plan, refusing to accept any salary reductions. See you next time!
 - **Closing**: `lea`: *À bientôt!*

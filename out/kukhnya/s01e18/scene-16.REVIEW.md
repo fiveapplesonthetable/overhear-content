@@ -1,39 +1,38 @@
-# kukhnya-s01e18-scene-16: review sheet
+# Неуклюжий бармен  (The Clumsy Bartender) — `kukhnya-s01e18-scene-16`
 
-Title: Неуклюжий бармен  (The Clumsy Bartender)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.18
-Cues 295-301.
+**Source:** Кухня (Kukhnya) S1.18 · `sources/kukhnya/s01/e18.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+
+## Part 1 — Intro
+
+> Kostya approaches Viktor's table to try and swap the poisoned cognac bottle back. Viktor gets angry and tells him to go away. Let us listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Извините, приятного вам вечера. | Excuse me, have a pleasant evening. | #295 00:18:47: Извини, приятного вечера. | adapted: adapted |
-| 2 | Шеф | Что тебе нужно от меня? | What do you need from me? | #296 00:18:49: Че тебе надо? | adapted: adapted |
-| 3 | Костя | Мне нужна эта бутылка. | I need this bottle. | #297 00:18:50: Я бутылку... | adapted: adapted |
-| 4 | Шеф | О чём ты говоришь? | What are you talking about? | #298 00:18:53: это... Чего я бутылка? | adapted: adapted |
-| 5 | Костя | Я возьму эту бутылку. | I will take this bottle. | #299 00:18:55: Я вот эту вот возьму, | adapted: adapted |
-| 6 | Костя | А вам поставлю другую. | And I will put another one for you. | #299 00:18:55: а эту поставлю. | adapted: adapted |
-| 7 | Шеф | Тебе что, совсем нечего делать? | Do you have absolutely nothing to do? | #300 00:18:58: Тебе заняться нечем? | adapted: adapted |
-| 8 | Костя | Нет, я просто хочу дать другую. | No, I just want to give another one. | #300 00:18:58: Нет, я вот эту вот возьму, а эту поставлю. | adapted: adapted |
-| 9 | Шеф | Не трогай ничего, иди отсюда! | Do not touch anything, get out of here! | #301 00:19:02: Иди отсюда. | adapted: adapted |
-| 10 | Костя | Но я должен её забрать. | But I must take it. | new | new: adapted |
-| 11 | Шеф | Я сказал, иди отсюда! | I said, get out of here! | new | new: adapted |
-| 12 | Костя | Понятно, давай дальше. | Got it, let's move on. | new | new |
+| 0 | Костя | Извините, приятного вам вечера. | Excuse me, have a pleasant evening. | #295 "Извини, приятного вечера." |  |
+| 1 | Костя | Что тебе нужно от меня? | What do you need from me? | #296 "Че тебе надо?" |  |
+| 2 | Костя | Мне нужна эта бутылка. | I need this bottle. | #297 "Я бутылку..." |  |
+| 3 | Костя | О чём ты говоришь? | What are you talking about? | #298 "это... Чего я бутылка?" |  |
+| 4 | Костя | Я возьму эту бутылку. | I will take this bottle. | #299 "Я вот эту вот возьму," |  |
+| 5 | Костя | А вам поставлю другую. | And I will put another one for you. | #299 "а эту поставлю." |  |
+| 6 | Костя | Тебе что, совсем нечего делать? | Do you have absolutely nothing to do? | #300 "Тебе заняться нечем?" |  |
+| 7 | Костя | Нет, я просто хочу дать другую. | No, I just want to give another one. | #300 "Нет, я вот эту вот возьму, а эту поставлю." |  |
+| 8 | Костя | Не трогай ничего, иди отсюда! | Do not touch anything, get out of here! | #301 "Иди отсюда." |  |
+| 9 | Костя | Но я должен её забрать. | But I must take it. | *(added)* |  |
+| 10 | Костя | Я сказал, иди отсюда! | I said, get out of here! | *(added)* |  |
+| 11 | Костя | Понятно, давай дальше. | Got it, let's move on. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Excuse me, have a pleasant evening.' Kostya uses the polite plural 'you' here alongside 'sorry', keeping a formal or respectful tone.
-- 'What do you need from me?' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'me'. Then Kostya replies.
-- 'I need this bottle.' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'bottle', combining 'needed' with 'bottle'.
-- 'What are you talking about?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'you say'.
-- 'I will take this bottle.' Kostya uses the perfective verb meaning 'will get' to focus on the single completed result, pairing it with 'a bottle'.
-- 'And I will put another one for you.' Kostya uses the perfective verb meaning 'will set' to focus on the single completed result, pairing it with 'the other one'.
-- 'Do you have absolutely nothing to do?' The phrasing opens with 'at all' before bringing in 'do' to make the point clear.
-- 'No, I just want to give another one.' Kostya expresses this naturally by combining the word for 'just' with 'want' and 'to give'.
-- 'Do not touch anything, get out of here!' Chef Barinov leads with the direct command form meaning 'touch', pairing it with 'go' and 'from here'.
-- 'But I must take it.' Here Kostya anchors the line on the word meaning 'has to' and builds the thought around 'take'.
-- 'I said, get out of here!' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'said' and 'from here'.
-- 'Got it, let's move on.' Kostya leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'.
+> Kostya approaches Viktor's table to try and swap the poisoned cognac bottle back. Viktor gets angry and tells him to go away. Next time you watch the episode, listen for the Russian expressions for 'to excuse' and 'pleasant' — you will catch every word right away. See you next time!
+
+**Костя:** Пока!

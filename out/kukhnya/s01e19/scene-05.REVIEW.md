@@ -1,39 +1,39 @@
-# kukhnya-s01e19-scene-05: review sheet
+# Секрет шефа  (The Chef's Secret) — `kukhnya-s01e19-scene-05`
 
-Title: Секрет шефа  (The Chef's Secret)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.19
+**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `guest` | anja | Гость |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> After touring Claude Monet with owner Dmitry Nagiyev, wealthy visitor Igor Valentinovich stops to thank art director Victoria Sergeyevna and wish her a pleasant evening. Let's listen to their polite exchange in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Гость | Виктория, мне было приятно познакомиться. | Victoria, it was a great pleasure meeting you. | new | new |
-| 2 | Вика | Взаимно. До свидания. | Likewise. Goodbye. | new | new |
-| 3 | Гость | Приятного вечера. | Have a pleasant evening. | new | new |
-| 4 | Вика | Какой приятный вечер 0. | What a pleasant evening 0. | new | new |
-| 5 | Вика | Какой приятный вечер 1. | What a pleasant evening 1. | new | new |
-| 6 | Вика | Какой приятный вечер 2. | What a pleasant evening 2. | new | new |
-| 7 | Вика | Какой приятный вечер 3. | What a pleasant evening 3. | new | new |
-| 8 | Вика | Какой приятный вечер 4. | What a pleasant evening 4. | new | new |
-| 9 | Вика | Какой приятный вечер 5. | What a pleasant evening 5. | new | new |
-| 10 | Вика | Какой приятный вечер 6. | What a pleasant evening 6. | new | new |
-| 11 | Вика | Какой приятный вечер 7. | What a pleasant evening 7. | new | new |
-| 12 | Вика | Какой приятный вечер 8. | What a pleasant evening 8. | new | new |
+| 0 | Гость | Виктория Сергеевна, спасибо за экскурсию. | Victoria Sergeyevna, thank you for the tour. | #116 "Виктория Сергеевна" |  |
+| 1 | Вика | Пожалуйста, мы всегда рады гостям. | You are welcome, we are always glad to have guests. | *(added)* |  |
+| 2 | Гость | У вас очень красивый и уютный ресторан. | You have a very beautiful and cozy restaurant. | *(added)* |  |
+| 3 | Вика | Спасибо, мы очень стараемся каждый день. | Thank you, we try very hard every day. | *(added)* |  |
+| 4 | Гость | И кухня здесь действительно прекрасная. | And the cuisine here is truly wonderful. | *(added)* |  |
+| 5 | Вика | Наш шеф-повар знает своё дело. | Our head chef knows his craft. | *(added)* |  |
+| 6 | Гость | Мне было крайне приятно с вами познакомиться. | It was a great pleasure meeting you. | #116 "мне было крайне приятно с вами познакомиться" |  |
+| 7 | Вика | Взаимно, мне тоже было очень приятно. | Likewise, it was very pleasant for me too. | #117 "Взаимно" |  |
+| 8 | Гость | Надеюсь, мы скоро увидимся снова. | I hope we will see each other again soon. | *(added)* |  |
+| 9 | Вика | Будем ждать вас в нашем ресторане. | We will be waiting for you in our restaurant. | *(added)* |  |
+| 10 | Вика | До свидания. | Goodbye. | #117 "До свидания" |  |
+| 11 | Гость | Приятного вечера, Виктория Сергеевна. | Have a pleasant evening, Victoria Sergeyevna. | #116 "Виктория Сергеевна", #118 "Приятного вечера" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Victoria, it was a great pleasure meeting you.' The reflexive ending on the verb for 'to meet' turns the action back onto the subject.
-- 'Likewise. Goodbye.' Russian omits the present-tense verb 'to be' here, linking 'likewise' directly with 'meeting', combining 'likewise' with 'meeting'.
-- 'Have a pleasant evening.' Russian omits the present-tense verb 'to be' here, linking 'pleasant' directly with 'evening', combining 'pleasant' with 'evening'.
-- 'What a pleasant evening 0.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'zero'.
-- 'What a pleasant evening 1.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'one'.
-- 'What a pleasant evening 2.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'two'.
-- 'What a pleasant evening 3.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'nice' straight to 'three'.
-- 'What a pleasant evening 4.' The question opens with the interrogative word for 'what a' and builds toward 'four'.
-- 'What a pleasant evening 5.' Russian omits the present-tense verb 'to be', connecting 'what a' directly with 'five'.
-- 'What a pleasant evening 6.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'six'.
-- 'What a pleasant evening 7.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'seven'.
-- 'What a pleasant evening 8.' The question word for 'what a' comes right at the start, followed directly by 'eight'.
+> Charmed by Victoria during his visit to Claude Monet, Igor bids her a warm farewell at the door. See you next time!
+
+**Гость:** Пока!

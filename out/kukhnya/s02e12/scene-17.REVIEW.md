@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Can I have a word with you for a minute? Yes?' Notice how Russian expresses 'will you be able' and 'yes' with crisp inflection rather than helper words. Vika answers right away.
 - 'What do you think you are doing?' Vika raises the pitch on 'are doing' to turn the phrase into a direct spoken question.
 - 'What are you talking about?' Here the Russian phrasing highlights 'yes' before landing on 'what'.
-- 'Keep your hands off Vika, got it?' The grammar packs 'and' and 'understood?' into a tight, idiomatic kitchen exchange. Vika answers right away.
+- 'Keep your hands off Vika, got it?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'What business is it of yours?' The meaning hinges on 'to you' working together with 'matter' in spoken Russian.
 - 'She is mine.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'my'.

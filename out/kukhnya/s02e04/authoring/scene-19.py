@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e04-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 19
-TITLE = 'Два приглашения на вечер  (Two Invitations for the Evening)'
+TITLE = "Два приглашения на вечер  (Two Invitations for the Evening)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = 'While Sasha calls Max on the phone to check if he has packed his suitcase for their flight to Cyprus, Vika calls him moments later and asks him to come over to her apartment that evening to talk. Meanwhile in the kitchen, a sheepish Chef Barinov admits to Lyova that Valdemar turned out to be a decent man after all.'
 
@@ -33,7 +33,7 @@ OPENER = "Let's replay the exchange and look closely at each Russian phrase."
 
 WALK = [
     (0, None, "'I am almost ready and my suitcase is packed too.' The meaning hinges on 'I' working together with 'some' in spoken Russian."),
-    (1, None, "'How about you?' In Russian, the idea of 'you' flows naturally into 'how' without extra filler words. Max answers right away."),
+    (1, None, "'How about you?' Kostya centers this short reply on 'how / what do you mean', letting a few direct words carry the whole meaning."),
     (2, None, "'I mean, I am not.' Max anchors the line on 'sense', while 'there is no' completes the thought."),
     (3, None, "'I mean, I am in the middle of it.' In Russian, the idea of 'sense' flows naturally into 'process' without extra filler words."),
     (4, None, "'Kisses. Yes.' Here the Russian phrasing highlights 'am kissing' before landing on 'yes'. Kostya answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 19 of Episode 4, listen out for the exchange around two invitations for the evening — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'А я не плохой.')
+OUTRO = "That wraps up this scene as sasha calls Max to say her suitcase is packed for Cyprus just before Vika calls to invite him over to talk, while Chef Barinov wrestles with guilt over Barani's generosity. Until next time!"
+CLOSING = ("anya", "Увидимся!")

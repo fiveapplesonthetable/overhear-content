@@ -1,41 +1,40 @@
-# kukhnya-s01e03-scene-13: review sheet
+# Секретное лекарство  (The Secret Medicine) — `kukhnya-s01e03-scene-13`
 
-Title: Секретное лекарство  (The Secret Medicine)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.03
-Cues 258–259. Senya gives Chef Viktor a potent laxative pill for revenge against the strict judge.
+**Source:** Кухня (Kukhnya) S1.03 · `sources/kukhnya/s01/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `senya` | angelina | Сеня |
+| `chef` | anja | Шеф |
+
+## Part 1 — Intro
+
+> In a quiet corner of the Claude Monet kitchen, Chef Viktor Barinov meets with line cook Senya. Still bitter about the strict judge who ruled against him in court, Chef Viktor plots petty revenge during her birthday dinner. Senya produces an extremely potent new laxative pill, explaining that just one dose will keep the judge trapped in the restroom all evening. Let's listen to their conspiracy in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Сеня, ты принёс то особое средство? | Senya, did you bring that special remedy? | new | new |
-| 2 | Сеня | Да, шеф, это сильное средство. | Yes, chef, this is a strong remedy. | new | new |
-| 3 | Сеня | Это вообще новое мощное лекарство. | This is brand new powerful medicine. | #258 00:16:34: Это вообще новое | verbatim |
-| 4 | Шеф | Как быстро оно начинает действовать? | How quickly does it start to act? | new | new |
-| 5 | Сеня | Очень быстро, шеф, буквально сразу. | Very quickly, chef, literally right away. | new | new |
-| 6 | Сеня | Одна таблетка решает все ваши проблемы. | One pill solves all your problems. | #259 00:16:37: Одна таблетка | verbatim |
-| 7 | Шеф | И какой будет точный эффект? | And what will be the exact effect? | new | new |
-| 8 | Сеня | Обещаю, клиент от унитаза не отойдёт! | I promise, the customer will not leave the toilet! | #259 00:16:37: клиент от унитаза не отойдет | verbatim |
-| 9 | Шеф | Отлично, судья запомнит этот юбилей! | Excellent, the judge will remember this anniversary! | new | new |
-| 10 | Сеня | Мы добавим таблетку в её суп? | Shall we add the pill into her soup? | new | new |
-| 11 | Шеф | Нет, положим порошок прямо на гуся. | No, we will put the powder directly on the goose. | new | new |
-| 12 | Сеня | Главное, чтобы другие гости не отравились. | The main thing is that other guests do not get poisoned. | new | new |
-| 13 | Шеф | Не бойся, я сделаю всё лично. | Do not fear, I will do everything personally. | new | new |
+| 0 | Шеф | Сеня, ты принёс то особое средство? | Senya, did you bring that special remedy? | *(added)* |  |
+| 1 | Сеня | Да, шеф, это сильное средство. | Yes, chef, this is a strong remedy. | *(added)* |  |
+| 2 | Сеня | Это вообще новое мощное лекарство. | This is brand new powerful medicine. | #258 "Это вообще новое" |  |
+| 3 | Шеф | Как быстро оно начинает действовать? | How quickly does it start to act? | *(added)* |  |
+| 4 | Сеня | Очень быстро, шеф, буквально сразу. | Very quickly, chef, literally right away. | *(added)* |  |
+| 5 | Сеня | Одна таблетка решает все ваши проблемы. | One pill solves all your problems. | #259 "Одна таблетка" |  |
+| 6 | Шеф | И какой будет точный эффект? | And what will be the exact effect? | *(added)* |  |
+| 7 | Сеня | Обещаю, клиент от унитаза не отойдёт! | I promise, the customer will not leave the toilet! | #259 "клиент от унитаза не отойдет" |  |
+| 8 | Шеф | Отлично, судья запомнит этот юбилей! | Excellent, the judge will remember this anniversary! | *(added)* |  |
+| 9 | Сеня | Мы добавим таблетку в её суп? | Shall we add the pill into her soup? | *(added)* |  |
+| 10 | Шеф | Нет, положим порошок прямо на гуся. | No, we will put the powder directly on the goose. | *(added)* |  |
+| 11 | Сеня | Главное, чтобы другие гости не отравились. | The main thing is that other guests do not get poisoned. | *(added)* |  |
+| 12 | Шеф | Не бойся, я сделаю всё лично. | Do not fear, I will do everything personally. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Senya, did you bring that special remedy?' Direct address with a past perfective transitive question.
-- 'Yes, chef, this is a strong remedy.' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'strong', combining 'chef' with 'strong' and 'remedy'.
-- 'This is brand new powerful medicine.' Demonstrative subject with intensifying adverb and coordinated adjectives.
-- 'How quickly does it start to act?' Interrogative adverbial phrase governing an imperfective infinitive.
-- 'Very quickly, chef, literally right away.' Degree adverb phrase with modal particle and temporal adverb.
-- 'One pill solves all your problems.' Numeral subject governing a present transitive verb and plural direct object.
-- 'And what will be the exact effect?' Interrogative conjunction phrase with future copula and adjective modifier.
-- 'I promise, the customer will not leave the toilet!' Parenthetical present verb followed by a negative future perfective motion clause.
-- 'Excellent, the judge will remember this anniversary!' Evaluative adverb followed by a future transitive clause with direct object.
-- 'Shall we add the pill into her soup?' Future perfective verb governing accusative object and directional prepositional phrase.
-- 'No, we will put the powder directly on the goose.' Negative particle followed by future verb with direct adverbial prepositional phrase.
-- 'The main thing is that other guests do not get poisoned.' Subordinate clause introduced by a conjunction with negative subjunctive verb.
-- 'Do not fear, I will do everything personally.' Negative imperative followed by a future promise with adverb of manner.
+> Chef Barinov prepares his secret revenge to embarrass the judge at her own banquet. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'literally' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

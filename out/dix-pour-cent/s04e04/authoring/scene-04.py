@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 4
 TITLE = "L'arrivée de Flora  (Flora's Arrival)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "After being expelled from the municipal creche, Andrea arrives at the ASK agency carrying baby Flora in her arms. She greets the reception staff and assures Gabriel that she can balance motherhood and management. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Gabriel's discussion line by line."
 TRANSITION = "Now let's listen to the full discussion once again from start to finish."
-OUTRO = "That's it for this scene around flora's arrival. When you watch the episode, listen out for the expressions meaning 'thanks' and 'girls'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "That's it for this scene around flora's arrival. When you watch the episode, listen out for the expressions meaning 'thanks' and 'girls'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Merci, les filles, bonne journée!', 'Thanks, girls, have a good day!', [(94, 'Merci, les filles !')], ''),
     ('gabriel', 'Andréa, tu viens avec Flora?', 'Andrea, are you coming with Flora?', [(94, 'Merci, les filles !')], ''),

@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s04/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "valerie": "emilie", "herve": "marcel"}`
-- **Labels**: `{"valerie": "Valérie", "herve": "Hervé"}`
+- **Voices**: `{"narrator": "sky", "herve": "marcel", "valerie": "emilie"}`
+- **Labels**: `{"herve": "Hervé", "valerie": "Valérie"}`
 
 ## Part 1 — Intro
 > Director Valerie Donzelli drops by ASK with a surprise announcement: she wants Herve to play a lead role in her movie. After she leaves, Camille promises to keep Herve's new acting secret safe from Gabriel. Let's listen to the scene in French first.
@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Félicitations pour ton premier rôle, Hervé! | Congratulations on your first role, Herve! | 1081:garder les secrets |
 
 ## Part 5 — Outro & Closing
-> Stunned by Valerie Donzelli's offer to cast him in her film, Herve worries about Gabriel's reaction, but Camille pledges total secrecy as Herve embarks on his secret acting debut. When you watch the episode, listen out for the expressions meaning 'excellent' and 'piece of news'. You'll catch them now. See you next time.
+> Stunned by Valerie Donzelli's offer to cast him in her film, Herve worries about Gabriel's reaction, but Camille pledges total secrecy as Herve embarks on his secret acting debut. When you watch the episode, listen out for the expressions meaning 'excellent' and 'piece of news'. You'll catch them now. See you next time!
 - **Closing**: `valerie`: *À demain!*

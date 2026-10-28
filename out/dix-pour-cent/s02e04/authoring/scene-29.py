@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 29
 TITLE = "Le secret de Mathias  (Mathias's Secret)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the aftermath of the collapsed meeting, the agency partners corner Camille, demanding answers. As Hicham threatens to fire her on the spot, Mathias steps in and reveals a life-altering truth. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the shocking revelation of Mathias step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'With Mathias finally admitting that Camille is his secret daughter, the entire balance of power at ASK is turned upside down. Until next time.'
-CLOSING = ("hicham", "À bientôt!")
+OUTRO = 'With Mathias finally admitting that Camille is his secret daughter, the entire balance of power at ASK is turned upside down. See you next time!'
+CLOSING = ('hicham', 'À bientôt!')
 STORY = [
     ('lea', 'Camille, donne-moi une explication.', 'Camille, give me an explanation.', [(898, 'Camille'), (900, 'Donne-moi une explication')], ''),
     ('hicham', 'On vient de perdre Sacha Hartman et Isabelle Adjani.', 'We have just lost Sacha Hartman and Isabelle Adjani.', [(904, 'On vient de perdre Sacha Hartman et Isabelle Adjani')], ''),

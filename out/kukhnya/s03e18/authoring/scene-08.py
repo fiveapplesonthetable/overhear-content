@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 8
-TITLE = 'Бонус в два миллиона  (The Two-Million Bonus)'
+TITLE = "Бонус в два миллиона  (The Two-Million Bonus)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"vika": "Вика", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Behind closed doors in the office, Vika acknowledges how painful the corporate transition is for Chef Barinov—and then mentions the two-million-ruble annual bonus waiting for him if he obeys the rules.'
@@ -34,7 +34,7 @@ WALK = [
     (0, None, "'Did you want to talk with me or stay silent?' Chef Barinov anchors the line on 'you', while 'to stay silent' completes the thought."),
     (1, None, "'I understand that these changes are very painful.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'painful'. Chef Barinov answers right away."),
     (2, None, "'Painful is when your favorite team cannot win.' Chef Barinov anchors the line on 'painful', while 'to win' completes the thought."),
-    (3, None, "'And when they change your life, that is a catastrophe!' The grammar packs 'and' and 'catastrophe' into a tight, idiomatic kitchen exchange."),
+    (3, None, "'And when they change your life, that is a catastrophe!' In everyday Russian, 'when' flows straight into 'catastrophe' without extra linking words."),
     (4, None, "'I understand, you want things to be as before.' Notice how Russian expresses 'I' and 'before' with crisp inflection rather than helper words."),
     (5, None, "'But understand me, that is no longer possible now.' Vika anchors the line on 'but', while 'impossible' completes the thought."),
     (6, None, "'We are now part of the largest restaurant chain.' The grammar packs 'we' and 'restaurants' into a tight, idiomatic kitchen exchange."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "The magic words 'two million rubles' instantly transform Chef Barinov's attitude toward corporate discipline."
-CLOSING = ('vika', 'Соблюдай все установленные правила.')
+OUTRO = "The magic words 'two million rubles' instantly transform Chef Barinov's attitude toward corporate discipline. See you next time!"
+CLOSING = ("vika", "До завтра!")

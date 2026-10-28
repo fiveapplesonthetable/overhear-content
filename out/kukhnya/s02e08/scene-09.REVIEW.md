@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я проспорю. | I am going to lose this bet. | #151 00:09:57: Я проспорю | verbatim |
-| 2 | Макс | Ну, что хотел? | Well, what did you want? | #152 00:10:15: Ну, что хотел | verbatim |
-| 3 | Аня | Врасплох же стал меня побил. | You only beat me last time because you caught me off guard. | #155 00:10:27: Врасплох же стал меня побил | verbatim |
-| 4 | Макс | Ну, можно и так сказать. | Well, you could put it that way. | #156 00:10:30: Ну, можно и так сказать | verbatim |
-| 5 | Аня | Я что-то не понял. | Wait, I did not quite get that. | #157 00:10:32: Я что-то не понял | verbatim |
-| 6 | Макс | Ну, бей давай, я тебе покажу. | Come on, throw a punch, I will show you how to block it. | #159 00:10:39: Ну, бей давай, я тебе покажу | verbatim |
-| 7 | Аня | А, ну тогда я буду. | Oh, well in that case, here I go. | #161 00:10:43: А, ну тогда я буду | verbatim |
-| 8 | Макс | Извините, извините, пожалуйста. | I am so sorry, please forgive me. | #162 00:10:46: Извините, извините, пожалуйста | verbatim |
-| 9 | Аня | Мне кажется, он вас сломал. | I think he just broke your nose. | #164 00:10:53: Мне кажется, он вас сломал | verbatim |
-| 10 | Макс | Шеф, добрый день. | Chef, good afternoon. | #165 00:10:59: Шеф, добрый день | verbatim |
-| 11 | Аня | Я что сказать хотел? | What I wanted to tell you is... | #167 00:11:05: Я что сказать хотел | verbatim |
-| 12 | Макс | Вы меня в друзья добавьте? | Did you add me as a friend? | #168 00:11:06: Вы меня в друзья добавьте | verbatim |
-| 13 | Аня | Я тебе сейчас в фарш добавлю. | I am about to add you to the meat grinder. | #170 00:11:13: Я тебе сейчас в фарш добавлю | verbatim |
+| 1 | Шеф | Я проспорю. | I am going to lose this bet. | #151 00:09:57: Я проспорю | verbatim |
+| 2 | Аня | Ну, что хотел? | Well, what did you want? | #152 00:10:15: Ну, что хотел | verbatim |
+| 3 | Шеф | Врасплох же стал меня побил. | You only beat me last time because you caught me off guard. | #155 00:10:27: Врасплох же стал меня побил | verbatim |
+| 4 | Аня | Ну, можно и так сказать. | Well, you could put it that way. | #156 00:10:30: Ну, можно и так сказать | verbatim |
+| 5 | Шеф | Я что-то не понял. | Wait, I did not quite get that. | #157 00:10:32: Я что-то не понял | verbatim |
+| 6 | Аня | Ну, бей давай, я тебе покажу. | Come on, throw a punch, I will show you how to block it. | #159 00:10:39: Ну, бей давай, я тебе покажу | verbatim |
+| 7 | Шеф | А, ну тогда я буду. | Oh, well in that case, here I go. | #161 00:10:43: А, ну тогда я буду | verbatim |
+| 8 | Аня | Извините, извините, пожалуйста. | I am so sorry, please forgive me. | #162 00:10:46: Извините, извините, пожалуйста | verbatim |
+| 9 | Шеф | Мне кажется, он вас сломал. | I think he just broke your nose. | #164 00:10:53: Мне кажется, он вас сломал | verbatim |
+| 10 | Аня | Шеф, добрый день. | Chef, good afternoon. | #165 00:10:59: Шеф, добрый день | verbatim |
+| 11 | Шеф | Я что сказать хотел? | What I wanted to tell you is... | #167 00:11:05: Я что сказать хотел | verbatim |
+| 12 | Аня | Вы меня в друзья добавьте? | Did you add me as a friend? | #168 00:11:06: Вы меня в друзья добавьте | verbatim |
+| 13 | Шеф | Я тебе сейчас в фарш добавлю. | I am about to add you to the meat grinder. | #170 00:11:13: Я тебе сейчас в фарш добавлю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

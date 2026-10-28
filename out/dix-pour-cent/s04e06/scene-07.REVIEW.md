@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Vois tranquillement si elle germe. | See calmly if it sprouts. | 348:si elle germe |
 
 ## Part 5 — Outro & Closing
-> Disgusted by Elise's cynical attempt to recruit him to StarMedia, Gabriel fiercely rejects her offer and defends his loyalty to Andrea and ASK. When you watch the episode, listen out for the expressions meaning 'want' and 'to celebrate'. You'll catch them now. See you next time.
+> Disgusted by Elise's cynical attempt to recruit him to StarMedia, Gabriel fiercely rejects her offer and defends his loyalty to Andrea and ASK. When you watch the episode, listen out for the expressions meaning 'want' and 'to celebrate'. You'll catch them now. See you next time!
 - **Closing**: `elise`: *À demain!*

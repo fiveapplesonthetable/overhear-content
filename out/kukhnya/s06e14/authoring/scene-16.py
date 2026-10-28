@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e14-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 14
 SCENE = 16
-TITLE = 'Пропажа пророка  (The Disappearance of the Prophet)'
+TITLE = "Пропажа пророка  (The Disappearance of the Prophet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'gost': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'gost': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "senya": "angelina"}
+LABELS = {"guest": "Гость", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.14'
 SOURCE_FILE = 'sources/kukhnya/s06/e14.ru.srt'
 
 INTRO = 'Rather than driving all the way back to the hotel, Timur drops the Korean prophet off at a metro station. Back at the hotel, a Korean follower who saw his leader carried away in a rug storms into the kitchen accusing the cooks of murder!'
 
 STORY = [
-    ('gost', 'Я видел, как бандиты увезли учителя.', 'I saw bandits carry away our teacher.', [(227, 'Я видел, как бандиты увезли')], 'adapted'),
-    ('gost', 'Нам надо срочно что-то с этим делать.', 'We need to urgently do something about this.', [(228, 'Надо что-то делать')], 'adapted'),
+    ('guest', 'Я видел, как бандиты увезли учителя.', 'I saw bandits carry away our teacher.', [(227, 'Я видел, как бандиты увезли')], 'adapted'),
+    ('guest', 'Нам надо срочно что-то с этим делать.', 'We need to urgently do something about this.', [(228, 'Надо что-то делать')], 'adapted'),
     ('senya', 'Неприятно, когда они так на нас смотрят.', 'It is unpleasant when they stare at us like that.', [(229, 'Неприятно')], 'adapted'),
-    ('gost', 'Успокойтесь, я поговорю с их шеф-поваром.', 'Calm down, I will speak with their head chef.', [(230, 'Успокойтесь. Я поговорю с их шеф-поваром')], 'adapted'),
-    ('gost', 'Мы сейчас всё спокойно здесь выясним.', 'We will calmly find out everything here right now.', [(230, 'и мы все выясним')], 'adapted'),
-    ('anya', 'Эй, почему посторонние люди на кухне?', 'Hey, why are unauthorized people in the kitchen?', [(232, 'почему посторонние на кухне')], 'adapted'),
-    ('gost', 'Скажите, куда вы дели нашего пророка?', 'Tell us, where did you put our prophet?', [(233, 'Вы куда дели'), (234, 'нашего пророка')], 'adapted'),
-    ('anya', 'О чём вы вообще сейчас говорите?', 'What are you even talking about right now?', [(235, 'О чем вы')], 'adapted'),
+    ('guest', 'Успокойтесь, я поговорю с их шеф-поваром.', 'Calm down, I will speak with their head chef.', [(230, 'Успокойтесь. Я поговорю с их шеф-поваром')], 'adapted'),
+    ('guest', 'Мы сейчас всё спокойно здесь выясним.', 'We will calmly find out everything here right now.', [(230, 'и мы все выясним')], 'adapted'),
+    ('guest', 'Эй, почему посторонние люди на кухне?', 'Hey, why are unauthorized people in the kitchen?', [(232, 'почему посторонние на кухне')], 'adapted'),
+    ('guest', 'Скажите, куда вы дели нашего пророка?', 'Tell us, where did you put our prophet?', [(233, 'Вы куда дели'), (234, 'нашего пророка')], 'adapted'),
+    ('guest', 'О чём вы вообще сейчас говорите?', 'What are you even talking about right now?', [(235, 'О чем вы')], 'adapted'),
     ('senya', 'Шеф, они хотят нас во всём обвинить!', 'Chef, they want to blame us for everything!', [(236, 'а на нас')], 'adapted'),
-    ('gost', 'Что вы такое про нас говорите?', 'What are you saying about us?', [(237, 'Вы что говорите')], 'adapted'),
-    ('gost', 'Братья, быстро защищайтесь от этих поваров!', 'Brothers, quickly defend yourselves from these cooks!', [(238, 'Братья, защищайтесь')], 'adapted'),
-    ('anya', 'Подождите, никто здесь никого не трогал!', 'Wait, nobody touched anyone in here!', [(235, 'Шеф')], 'adapted'),
+    ('guest', 'Что вы такое про нас говорите?', 'What are you saying about us?', [(237, 'Вы что говорите')], 'adapted'),
+    ('guest', 'Братья, быстро защищайтесь от этих поваров!', 'Brothers, quickly defend yourselves from these cooks!', [(238, 'Братья, защищайтесь')], 'adapted'),
+    ('guest', 'Подождите, никто здесь никого не трогал!', 'Wait, nobody touched anyone in here!', [(235, 'Шеф')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'A chaotic standoff erupts in the kitchen as the cooks grab their pans and knives to defend themselves. See you in the next scene.'
-CLOSING = ('anya', 'Почему посторонние на кухне?')
+OUTRO = 'A chaotic standoff erupts in the kitchen as the cooks grab their pans and knives to defend themselves. See you next time!'
+CLOSING = ("guest", "Всего хорошего!")

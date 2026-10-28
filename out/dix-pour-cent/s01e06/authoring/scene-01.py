@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 1
 TITLE = "La répétition de François  (François's Rehearsal)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "francois": "marcel", "christophe": "theo", "lea": "lucie"}
-LABELS = {"francois": "François", "christophe": "Christophe", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'francois': 'marcel', 'christophe': 'theo', 'lea': 'lucie'}
+LABELS = {'francois': 'François', 'christophe': 'Christophe', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "We start right at the poolside rehearsal with Andréa and director Christophe Belkacem. You'll hear the whole exchange in French first; don't worry about catching every word."
 OPENER = "Let's break down the scene line by line to understand how the clash begins."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'François has made his position clear: he refuses to jump on a plastic duck in a pool. Andréa will have her hands full trying to keep this production from collapsing. See you next time!'
-CLOSING = ("francois", "Bonne soirée!")
+CLOSING = ('francois', 'Bonne soirée!')
 STORY = [
     ('lea', "Tu sais ce qu'est un agent?", 'Do you know what an agent is?', [(1, "Tu sais ce qu'est un agent ?")], ''),
     ('christophe', "Dix pour cent du cachet d'une star?", 'Ten percent of a star', [(2, "Dix pour cent du cachet d'une star ?")], ''),

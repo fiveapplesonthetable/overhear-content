@@ -30,5 +30,5 @@
 | 16 | `mathias` (Mathias) | Tu préférerais qu'ASK disparaisse? | Would you rather ASK disappeared? | 444:Tu préférerais qu'ASK disparaisse ? |
 
 ## Part 5 — Outro & Closing
-> That was a tough business meeting, and you got through it in French. Listen for 'I want to sell' when you watch: it changes everything for the agency. See you soon.
+> That was a tough business meeting, and you got through it in French. Listen for 'I want to sell' when you watch: it changes everything for the agency. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

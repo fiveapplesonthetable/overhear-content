@@ -26,5 +26,5 @@
 | 12 | `herve` (Hervé) | C'est parfait, sans les patrons pénibles! | That is perfect, without the annoying bosses! | 503:Sans les trucs pénibles. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around noemie's departure. When you watch the episode, listen out for the expressions meaning 'goes' and 'need'. You'll catch them now. See you next time.
+> That's it for this scene around noemie's departure. When you watch the episode, listen out for the expressions meaning 'goes' and 'need'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *À demain!*

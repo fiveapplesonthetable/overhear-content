@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 18
-TITLE = 'Отец и дочь  (Father and Daughter)'
+TITLE = "Отец и дочь  (Father and Daughter)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'Outside the restaurant, a driver arrives to pick up Vika for her evening meeting with Nikolai, while inside his office Chef Barinov confronts his daughter Katya.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'You went to Nagiyev. Bravo!' Chef Barinov brings out the contrast between 'am off' and 'Nagiyev' in a few short words."),
     (9, None, "'But it will not be easy for you here.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'not easy'. Vika answers right away."),
     (10, None, "'Dad, it has never been easy for me.' Vika brings out the contrast between 'dad' and 'to me' in a few short words."),
-    (11, None, "'And who paid for your education in France?' The grammar packs 'and' and 'France' into a tight, idiomatic kitchen exchange."),
+    (11, None, "'And who paid for your education in France?' Notice how Russian puts 'paid' and 'training, tuition' together in a short, direct phrase where word endings show how the ideas connect."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene to a close. Listen out for how Max and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('chef', 'Тебе здесь будет нелегко!')
+OUTRO = 'And that brings this scene to a close. Listen out for how Max and the team handle the pressure when you watch the episode. See you next time!'
+CLOSING = ("chef", "Всего хорошего!")

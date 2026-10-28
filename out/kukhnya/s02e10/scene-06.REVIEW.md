@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не получилось у тети остановиться? | Did it not work out staying at your aunt's place? | #87 00:05:18: Не получилось у тети остановиться | verbatim |
-| 2 | Костя | Да, к ней Свегров приезжает. | Yes, her father-in-law is coming to visit her. | #88 00:05:19: Да, к ней Свегров приезжает | verbatim |
-| 3 | Аня | Не получилось. | So it did not work out. | #89 00:05:22: Не получилось | verbatim |
-| 4 | Костя | Ну ладно. | All right then. | #89 00:05:22: Ну ладно | verbatim |
-| 5 | Аня | Ну ничего страшного. | Well, it is no big deal. | #90 00:05:24: Ну ничего страшного | verbatim |
-| 6 | Костя | Может быть. | Maybe. | #91 00:05:27: Может быть | verbatim |
-| 7 | Аня | Там какая-то девушка сюда идет, хочет видеть шефа. | Some woman is walking this way, she wants to see the Chef. | #92 00:05:31: Там какая-то девушка сюда идет, хочет видеть шефа | verbatim |
-| 8 | Костя | Работаем по плану. | We stick to the plan. | #94 00:05:36: Работаем по плану | verbatim |
-| 9 | Аня | Где я могу найти вашего шеф-повара? | Where can I find your head chef? | #95 00:05:39: Где я могу найти вашего шеф-повара | verbatim |
-| 10 | Костя | В кабинете, конечно. | In his office, of course. | #96 00:05:43: В кабинете, конечно | verbatim |
-| 11 | Аня | Я же просил меня не беспокоить. | I specifically asked not to be disturbed. | #99 00:05:52: Я же просил меня не беспокоить | verbatim |
-| 12 | Костя | Я готовлю новое меню. | I am preparing the new menu. | #100 00:05:54: Я готовлю новое меню | verbatim |
-| 13 | Аня | Закройте эту чертову дверь! | Close that damn door! | #100 00:05:54: Закройте эту чертову дверь | verbatim |
+| 1 | Шеф | Не получилось у тети остановиться? | Did it not work out staying at your aunt's place? | #87 00:05:18: Не получилось у тети остановиться | verbatim |
+| 2 | Шеф | Да, к ней Свегров приезжает. | Yes, her father-in-law is coming to visit her. | #88 00:05:19: Да, к ней Свегров приезжает | verbatim |
+| 3 | Шеф | Не получилось. | So it did not work out. | #89 00:05:22: Не получилось | verbatim |
+| 4 | Шеф | Ну ладно. | All right then. | #89 00:05:22: Ну ладно | verbatim |
+| 5 | Шеф | Ну ничего страшного. | Well, it is no big deal. | #90 00:05:24: Ну ничего страшного | verbatim |
+| 6 | Шеф | Может быть. | Maybe. | #91 00:05:27: Может быть | verbatim |
+| 7 | Шеф | Там какая-то девушка сюда идет, хочет видеть шефа. | Some woman is walking this way, she wants to see the Chef. | #92 00:05:31: Там какая-то девушка сюда идет, хочет видеть шефа | verbatim |
+| 8 | Шеф | Работаем по плану. | We stick to the plan. | #94 00:05:36: Работаем по плану | verbatim |
+| 9 | Шеф | Где я могу найти вашего шеф-повара? | Where can I find your head chef? | #95 00:05:39: Где я могу найти вашего шеф-повара | verbatim |
+| 10 | Шеф | В кабинете, конечно. | In his office, of course. | #96 00:05:43: В кабинете, конечно | verbatim |
+| 11 | Шеф | Я же просил меня не беспокоить. | I specifically asked not to be disturbed. | #99 00:05:52: Я же просил меня не беспокоить | verbatim |
+| 12 | Шеф | Я готовлю новое меню. | I am preparing the new menu. | #100 00:05:54: Я готовлю новое меню | verbatim |
+| 13 | Шеф | Закройте эту чертову дверь! | Close that damn door! | #100 00:05:54: Закройте эту чертову дверь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

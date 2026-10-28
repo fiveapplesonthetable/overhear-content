@@ -29,5 +29,5 @@
 | 15 | `chantal` (Chantal) | D'accord, à demain, Gabriel. | Okay, see you tomorrow, Gabriel. | 546:Bonne nuit, Gabrielle. |
 
 ## Part 5 — Outro & Closing
-> Outside her building, Gabriel and Chantal exchange polite farewells after an evening out. When you watch the episode, listen out for the expressions meaning 'arrived' and 'thank you'. You'll catch them now. See you next time.
+> Outside her building, Gabriel and Chantal exchange polite farewells after an evening out. When you watch the episode, listen out for the expressions meaning 'arrived' and 'thank you'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

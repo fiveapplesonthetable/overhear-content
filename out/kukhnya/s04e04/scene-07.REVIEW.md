@@ -12,10 +12,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Денис | Спасибо. | Thank you. | #107 00:07:31: Спасибо. | verbatim |
 | 2 | Аня | Не за что. | You are welcome. | #108 00:07:34: Не за что. | verbatim |
-| 3 | Герман | Лавров, а вы что здесь делаете? | Lavrov, what are you doing here? | #109 00:07:38: Лавров, а вы что здесь делаете? | verbatim |
+| 3 | Денис | Лавров, а вы что здесь делаете? | Lavrov, what are you doing here? | #109 00:07:38: Лавров, а вы что здесь делаете? | verbatim |
 | 4 | Аня | А у меня выходной. Я вот решил Денису помочь. | It is my day off. I decided to help Denis out. | #110 00:07:40: выходной.<br>#111 00:07:42: Я вот решил Денису помочь. | verbatim |
-| 5 | Герман | Это не тот случай, где нужно проявлять братскую заботу. | This is not an occasion where you should show brotherly care. | #112 00:07:44: это не тот случай, где нужно проявлять братскую заботу. | verbatim |
-| 6 | Герман | Пожалуйста, ступайте, иначе ваш выходной не закончится. | Please leave, otherwise your day off will never end. | #113 00:07:49: Пожалуйста, ступайте, иначе ваш выходной не закончится. | verbatim |
+| 5 | Денис | Это не тот случай, где нужно проявлять братскую заботу. | This is not an occasion where you should show brotherly care. | #112 00:07:44: это не тот случай, где нужно проявлять братскую заботу. | verbatim |
+| 6 | Денис | Пожалуйста, ступайте, иначе ваш выходной не закончится. | Please leave, otherwise your day off will never end. | #113 00:07:49: Пожалуйста, ступайте, иначе ваш выходной не закончится. | verbatim |
 | 7 | Денис | Ладно, иди. Я сам справлюсь. | Alright, go on. I will manage by myself. | #114 00:07:59: Ладно, иди. Я сам справлюсь. | verbatim |
 | 8 | Аня | Мне потом опять решать за тебя проблемы. | Then I will have to solve your problems for you again. | #117 00:08:07: Мне потом опять решать за тебя проблемы. | verbatim |
 | 9 | Денис | Что значит опять? | What do you mean, again? | #118 00:08:11: что значит опять? | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'You are welcome.' Max places the negative particle directly before the verb or predicate to negate the statement.
-- 'Lavrov, what are you doing here?' German uses natural conversational word order here to highlight the most important part of the reply.
+- 'Thank you.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'You are welcome.' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
+- 'Lavrov, what are you doing here?' Spoken Russian keeps this brief and expressive, built right around 'are doing' without extra helper words.
 - 'It is my day off. I decided to help Denis out.' Max uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'This is not an occasion where you should show brotherly care.' Notice how German pairs a modal word or finite verb with an infinitive to express the action.
-- 'Please leave, otherwise your day off will never end.' German places the negative particle directly before the verb or predicate to negate the statement.
-- 'Alright, go on. I will manage by myself.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'This is not an occasion where you should show brotherly care.' In everyday Russian, 'case' flows straight into 'care' without extra linking words.
+- 'Please leave, otherwise your day off will never end.' German uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Alright, go on. I will manage by myself.' Notice how Russian puts 'go, walk' and 'will manage, cope' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Then I will have to solve your problems for you again.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'What do you mean, again?' Notice how Denis pairs a modal word or finite verb with an infinitive to express the action.
-- 'Because this happens all the time.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Get out of here, got it? I will do everything myself.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Are you going to carve a violin out of a potato?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'What do you mean, again?' Spoken Russian keeps this brief and expressive, built right around 'again' without extra helper words.
+- 'Because this happens all the time.' Max pairs 'because, therefore' with 'time' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Get out of here, got it? I will do everything myself.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Are you going to carve a violin out of a potato?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.

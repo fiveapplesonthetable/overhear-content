@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Он в своем кабинете. | He is in his office. | #169 00:10:15: Он в своем кабинете | verbatim |
-| 2 | Макс | Просил его не беспокоить. | He asked not to be disturbed. | #170 00:10:17: Просил его не беспокоить | verbatim |
-| 3 | Аня | Я же просил меня не беспокоить. | I told you not to disturb me. | #171 00:10:20: Я же просил меня не беспокоить | verbatim |
-| 4 | Макс | Готовлю новое минимум. | I am preparing the new menu. | #172 00:10:22: Готовлю новое минимум | verbatim |
-| 5 | Аня | Вам чего? | What do you want? | #173 00:10:26: Вам чего | verbatim |
-| 6 | Макс | Ты шеф-повар. | You are the head chef. | #174 00:10:27: Ты шеф-повар | verbatim |
-| 7 | Аня | Да, я шеф-повар. | Yes, I am the head chef. | #175 00:10:30: Да, я шеф-повар | verbatim |
-| 8 | Макс | А что ты долг не отдаешь? | Then why are you not paying back your debt? | #176 00:10:32: а что ты долг не отдаешь | verbatim |
-| 9 | Аня | Какой долг? | What debt? | #177 00:10:37: Какой долг | verbatim |
-| 10 | Макс | Сто тысяч. | A hundred thousand. | #178 00:10:41: Сто тысяч | verbatim |
-| 11 | Аня | Тут просто ситуация такая. | It is just a complicated situation here. | #181 00:10:52: Тут просто ситуация такая | verbatim |
-| 12 | Макс | Да, можете у любого спросить. | Yes, you can ask anyone here. | #182 00:10:57: Да, можете у любого спросить | verbatim |
-| 13 | Аня | Это шеф-повар? | Is this the head chef? | #183 00:11:04: Это шеф-повар | verbatim |
+| 1 | Шеф | Он в своем кабинете. | He is in his office. | #169 00:10:15: Он в своем кабинете | verbatim |
+| 2 | Аня | Просил его не беспокоить. | He asked not to be disturbed. | #170 00:10:17: Просил его не беспокоить | verbatim |
+| 3 | Шеф | Я же просил меня не беспокоить. | I told you not to disturb me. | #171 00:10:20: Я же просил меня не беспокоить | verbatim |
+| 4 | Аня | Готовлю новое минимум. | I am preparing the new menu. | #172 00:10:22: Готовлю новое минимум | verbatim |
+| 5 | Шеф | Вам чего? | What do you want? | #173 00:10:26: Вам чего | verbatim |
+| 6 | Аня | Ты шеф-повар. | You are the head chef. | #174 00:10:27: Ты шеф-повар | verbatim |
+| 7 | Шеф | Да, я шеф-повар. | Yes, I am the head chef. | #175 00:10:30: Да, я шеф-повар | verbatim |
+| 8 | Аня | А что ты долг не отдаешь? | Then why are you not paying back your debt? | #176 00:10:32: а что ты долг не отдаешь | verbatim |
+| 9 | Шеф | Какой долг? | What debt? | #177 00:10:37: Какой долг | verbatim |
+| 10 | Аня | Сто тысяч. | A hundred thousand. | #178 00:10:41: Сто тысяч | verbatim |
+| 11 | Шеф | Тут просто ситуация такая. | It is just a complicated situation here. | #181 00:10:52: Тут просто ситуация такая | verbatim |
+| 12 | Аня | Да, можете у любого спросить. | Yes, you can ask anyone here. | #182 00:10:57: Да, можете у любого спросить | verbatim |
+| 13 | Шеф | Это шеф-повар? | Is this the head chef? | #183 00:11:04: Это шеф-повар | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

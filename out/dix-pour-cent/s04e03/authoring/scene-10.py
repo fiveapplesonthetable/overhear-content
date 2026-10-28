@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 10
 TITLE = "Coincés dans l'ascenseur  (Stuck in the Elevator)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "elise": "emilie"}
-LABELS = {"gabriel": "Gabriel", "elise": "Élise"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'elise': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Determined to avoid his new colleague Elise Formain, Gabriel Sarda dashes into the ASK elevator. Elise slips between the closing doors at the last second, cornering Gabriel to demand a fresh start. When the cabin suddenly screeches to a halt between floors, a terrifying ordeal begins for the claustrophobic agent. Let's listen to their predicament in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Trapped inside the broken elevator, Gabriel struggles to breathe as panic overtakes him. When you watch the episode, listen out for the expressions meaning 'get in' and 'elevator'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Trapped inside the broken elevator, Gabriel struggles to breathe as panic overtakes him. When you watch the episode, listen out for the expressions meaning 'get in' and 'elevator'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', 'Pourquoi tu montes dans cet ascenseur?', 'Why do you get in this elevator?', [], ''),
     ('elise', 'Nous devons parler de notre travail.', 'We must talk about our work.', [(443, 'travail')], ''),

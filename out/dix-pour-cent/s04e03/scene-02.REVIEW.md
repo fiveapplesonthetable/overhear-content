@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Tu la connais depuis longtemps? | Have you known her for a long time? | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the return of the past. When you watch the episode, listen out for the expressions meaning 'left' and 'note'. You'll catch them now. See you next time.
+> That's it for this scene around the return of the past. When you watch the episode, listen out for the expressions meaning 'left' and 'note'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

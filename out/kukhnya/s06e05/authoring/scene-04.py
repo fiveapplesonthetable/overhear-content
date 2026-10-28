@@ -1,25 +1,25 @@
 ID = 'kukhnya-s06e05-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 4
 TITLE = "Тайный звонок Насти  (Nastya's Secret Call)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nastya": "angelina"}
+LABELS = {"chef": "Шеф", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'Back in the corridor, Chef Barinov urges Mikhail to give up cards for good, right before Eleonora summons the chef to her office and Nastya takes a mysterious phone call.'
 
 STORY = [
-    ('anya', 'Миша, может, тебе больше не играть?', 'Misha, maybe you should not play anymore?', [(60, 'Миш, может, тебе больше не играть')], 'adapted'),
-    ('anya', 'Ну пойми, что это не твоё.', 'Just understand that this is not for you.', [(61, 'Ну пойми, что это не твое')], 'adapted'),
-    ('mikhail', 'Я очень хорошо умею играть.', 'I know how to play very well.', [(62, 'Я умею играть')], 'adapted'),
-    ('mikhail', 'Просто мне сегодня не повезло.', 'I was simply unlucky today.', [(63, 'Просто мне не повезло')], 'adapted'),
-    ('anya', 'Хозяйка отеля к себе зовёт.', 'The hotel owner is calling me to her office.', [(67, 'к себе зовет')], 'adapted'),
-    ('mikhail', 'Ей уже обо всём донесли.', 'Someone has already reported everything to her.', [(68, 'А то уже донесли')], 'adapted'),
+    ('chef', 'Миша, может, тебе больше не играть?', 'Misha, maybe you should not play anymore?', [(60, 'Миш, может, тебе больше не играть')], 'adapted'),
+    ('chef', 'Ну пойми, что это не твоё.', 'Just understand that this is not for you.', [(61, 'Ну пойми, что это не твое')], 'adapted'),
+    ('chef', 'Я очень хорошо умею играть.', 'I know how to play very well.', [(62, 'Я умею играть')], 'adapted'),
+    ('chef', 'Просто мне сегодня не повезло.', 'I was simply unlucky today.', [(63, 'Просто мне не повезло')], 'adapted'),
+    ('chef', 'Хозяйка отеля к себе зовёт.', 'The hotel owner is calling me to her office.', [(67, 'к себе зовет')], 'adapted'),
+    ('chef', 'Ей уже обо всём донесли.', 'Someone has already reported everything to her.', [(68, 'А то уже донесли')], 'adapted'),
     ('nastya', 'Алло, да, я могу говорить.', 'Hello, yes, I can talk now.', [(69, 'Алло, да. Да, могу говорить')], 'adapted'),
     ('nastya', 'Нет, Костя сейчас не рядом.', 'No, Kostya is not nearby right now.', [(70, 'Нет, Костя не рядом')], 'adapted'),
     ('nastya', 'Нет, я ещё ничего не сказала.', 'No, I have not said anything yet.', [(71, 'Нет, еще не сказала')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Overhearing Nastya whisper that she will tell him everything tonight convinces Kostya that his wife is hiding a secret affair. See you in the next scene.'
-CLOSING = ('anya', 'Пойду узнаю, что случилось.')
+OUTRO = 'Overhearing Nastya whisper that she will tell him everything tonight convinces Kostya that his wife is hiding a secret affair. See you next time!'
+CLOSING = ("chef", "До свидания!")

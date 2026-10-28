@@ -1,41 +1,40 @@
-# kukhnya-s01e20-scene-07: review sheet
+# Неожиданный поворот  (An Unexpected Turn) — `kukhnya-s01e20-scene-07`
 
-Title: Неожиданный поворот  (An Unexpected Turn)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.20
-Scene 7
+**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `nastya` | angelina | Настя |
+
+## Part 1 — Intro
+
+> The tense conversation between the young couple continues as Kostya tries to understand her demands, and we will listen to them in Russian first; do not worry about catching every single word.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Ты сейчас серьёзно? | Are you serious right now? | new | new: new |
-| 2 | Настя | Да, я абсолютно серьёзна. | Yes, I am completely serious. | new | new: new |
-| 3 | Костя | Я этого не ожидал. | I did not expect this. | new | new: new |
-| 4 | Настя | Тебе следовало этого ожидать. | You should have expected it. | new | new: new |
-| 5 | Костя | Вчера всё было так хорошо. | Yesterday everything was so good. | new | new: new |
-| 6 | Настя | Вчера осталось в прошлом. | Yesterday is in the past. | new | new: new |
-| 7 | Костя | Что ты хочешь от меня? | What do you want from me? | new | new: new |
-| 8 | Настя | Я хочу серьёзных отношений. | I want a serious relationship. | new | new: new |
-| 9 | Костя | Я очень стараюсь. | I am trying my best. | new | new: new |
-| 10 | Настя | Этого недостаточно, Костя. | It is not enough, Kostya. | new | new: new |
-| 11 | Костя | Ты больше... | You are not... | new | new: new |
-| 12 | Настя | Не что? | Not what? | new | new: new |
-| 13 | Костя | Ты не счастлива со мной? | You are not happy with me? | new | new: new |
+| 0 | Костя | Ты сейчас серьёзно? | Are you serious right now? | #140 "Ты больше" |  |
+| 1 | Настя | Да, я абсолютно серьёзна. | Yes, I am completely serious. | *(added)* |  |
+| 2 | Костя | Я этого не ожидал. | I did not expect this. | *(added)* |  |
+| 3 | Настя | Тебе следовало этого ожидать. | You should have expected it. | *(added)* |  |
+| 4 | Костя | Вчера всё было так хорошо. | Yesterday everything was so good. | *(added)* |  |
+| 5 | Настя | Вчера осталось в прошлом. | Yesterday is in the past. | *(added)* |  |
+| 6 | Костя | Что ты хочешь от меня? | What do you want from me? | *(added)* |  |
+| 7 | Настя | Я хочу серьёзных отношений. | I want a serious relationship. | *(added)* |  |
+| 8 | Костя | Я очень стараюсь. | I am trying my best. | *(added)* |  |
+| 9 | Настя | Этого недостаточно, Костя. | It is not enough, Kostya. | *(added)* |  |
+| 10 | Костя | Ты больше... | You are not... | *(added)* |  |
+| 11 | Настя | Не что? | Not what? | *(added)* |  |
+| 12 | Костя | Ты не счастлива со мной? | You are not happy with me? | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Are you serious right now?' Kostya uses the informal singular 'you' here with 'seriously', as friends and close colleagues do.
-- 'Yes, I am completely serious.' Russian omits the present-tense verb 'to be' here, linking 'completely' directly with 'serious', combining 'completely' with 'serious'.
-- 'I did not expect this.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'expected'.
-- 'You should have expected it.' Nastya chooses the imperfective verb meaning 'ought to' for the ongoing action, followed by 'to expect'.
-- 'Yesterday everything was so good.' Kostya puts the word for 'yesterday' together with 'was' and 'good' in a crisp, natural spoken turn of phrase.
-- 'Yesterday is in the past.' Here Nastya anchors the line on the word meaning 'yesterday' and builds the thought around 'was left' and 'last'.
-- 'What do you want from me?' The question opens with the interrogative word for 'what' and builds toward 'me'.
-- 'I want a serious relationship.' Nastya chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'serious' and 'relationships'.
-- 'I am trying my best.' Kostya puts the word for 'very much' together with 'try' in a crisp, natural spoken turn of phrase.
-- 'It is not enough, Kostya.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'not enough'.
-- 'You are not...' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'more'.
-- 'Not what?' Russian omits the present-tense verb 'to be' here, linking 'not' directly with 'what', combining 'not' with 'what'.
-- 'You are not happy with me?' Kostya uses the informal singular 'you' here with 'me', as friends and close colleagues do.
+> Kostya is genuinely worried that she might not be happy with him. Next time you watch the episode, listen for the Russian expressions for 'now' and 'seriously' — you will catch every word right away. See you next time!
+
+**Костя:** Пока!

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 8
-TITLE = 'Новые отношения не нужны  (No Need for a New Relationship)'
+TITLE = "Новые отношения не нужны  (No Need for a New Relationship)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'At the bar, Max confides in Kostya that he just broke up with Vika and does not want a relationship with Katya. Meanwhile in the kitchen, Chef Barinov inspects the sabotaged dishes and looks for Max and Katya.'
@@ -24,8 +24,8 @@ STORY = [
     ('anya', 'Костя, я уже устал бегать от проблем.', 'Kostya, I am already tired of running from problems.', [(109, 'уже набегался')], 'adapted'),
     ('anya', 'От этого всегда становится только хуже.', 'That always only makes things worse.', [(110, 'Так только хуже')], 'adapted'),
     ('kostya', 'Смотри, сюда как раз Катя идёт.', 'Look, Katya is walking right this way.', [(111, 'Катя идет')], 'adapted'),
-    ('chef', 'Вот молодцы, отлично испортили все блюда.', 'Well done, you ruined all the dishes splendidly.', [(116, 'Вот, молодцы')], 'adapted'),
-    ('chef', 'А где сейчас ходят Макс и Катя?', 'And where are Max and Katya right now?', [(117, 'А где Агузак и Катя')], 'adapted'),
+    ('kostya', 'Вот молодцы, отлично испортили все блюда.', 'Well done, you ruined all the dishes splendidly.', [(116, 'Вот, молодцы')], 'adapted'),
+    ('kostya', 'А где сейчас ходят Макс и Катя?', 'And where are Max and Katya right now?', [(117, 'А где Агузак и Катя')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Despite claiming he is done running away from his problems, Max bolts the moment he sees Katya approaching.'
-CLOSING = ('anya', 'Мне новые отношения не нужны.')
+OUTRO = 'Despite claiming he is done running away from his problems, Max bolts the moment he sees Katya approaching. See you next time!'
+CLOSING = ("anya", "До завтра!")

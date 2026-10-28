@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 7
-TITLE = 'Записи с камер и сквозняк  (Camera Footage and a Draft)'
+TITLE = "Записи с камер и сквозняк  (Camera Footage and a Draft)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "senya": "Сеня", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'When Chef Barinov insists there must be a logical explanation for the spooky incidents, Senya and Fedya show him the security camera recording of objects flying across the kitchen by themselves—pulled on invisible fishing line! Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'A draft explains a door moving, but how did a bag of flour fly sideways into a wall? While Barinov investigates, Katya gives Max a pep talk in Scene Eight.'
-CLOSING = ('chef', 'Это просто сквозняк!')
+OUTRO = 'A draft explains a door moving, but how did a bag of flour fly sideways into a wall? While Barinov investigates, Katya gives Max a pep talk in Scene Eight. Until next time!'
+CLOSING = ("chef", "До встречи!")

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 12
-TITLE = "Trop de pas  (Too Many Steps)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trop de pas  (Too Many Steps)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "bernard": "theo", "sigourney": "emilie"}
-LABELS = {"bernard": "Bernard", "sigourney": "Sigourney"}
+VOICES = {'narrator': 'sky', 'bernard': 'theo', 'sigourney': 'emilie'}
+LABELS = {'bernard': 'Bernard', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "In a Parisian restaurant, American star Sigourney Weaver meets veteran actor Bernard Verley to discuss their upcoming film. Bernard explains that at his age, he strictly limits his physical movement on set to fifteen steps per scene. When Sigourney demonstrates a high-energy swing dance that she added to the script, Bernard reacts with alarm. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Faced with Sigourney's unstoppable energy and dozens of dancing steps, Bernard Verley runs for the door. When you watch the episode, listen out for the expressions meaning 'like' and 'project'. You'll catch them now. See you next time."
-CLOSING = ("sigourney", "Au revoir!")
+OUTRO = "Faced with Sigourney's unstoppable energy and dozens of dancing steps, Bernard Verley runs for the door. When you watch the episode, listen out for the expressions meaning 'like' and 'project'. You'll catch them now. See you next time!"
+CLOSING = ('sigourney', 'Au revoir!')
 STORY = [
     ('bernard', "J'aime beaucoup votre projet de film.", 'I like your movie project very much.', [], ''),
     ('sigourney', "C'est un honneur de jouer avec vous.", 'It is an honour to act with you.', [], ''),

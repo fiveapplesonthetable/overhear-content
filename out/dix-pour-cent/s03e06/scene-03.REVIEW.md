@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Au travail pour sauver notre agence! | To work to save our agency! | 285:Avant ce soir |
 
 ## Part 5 — Outro & Closing
-> Armed with an eccentric yet ingenious plan, Andrea and Gabriel rush to film the mock scene before the party begins. When you watch the episode, listen out for the expressions meaning 'account' and 'to resolve'. You'll catch them now. See you next time.
+> Armed with an eccentric yet ingenious plan, Andrea and Gabriel rush to film the mock scene before the party begins. When you watch the episode, listen out for the expressions meaning 'account' and 'to resolve'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

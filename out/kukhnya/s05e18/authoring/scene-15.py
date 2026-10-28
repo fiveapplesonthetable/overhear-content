@@ -1,32 +1,32 @@
 ID = 'kukhnya-s05e18-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 15
 TITLE = "Признание Лёвы и пятеро детей  (Lyova's Confession and Five Children)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gulya': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Лёва', 'gulya': 'Гуля', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "gulya": "anja"}
+LABELS = {"lyova": "Лёва", "gulya": "Гуля"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = "Lyova invites Gulya to sit down with a plate of pastries so he can finally confess his feelings. Thinking she is about to be fired, Gulya blurts out Ainura's lie about having a husband and kids."
 
 STORY = [
-    ('anya', 'Гуля, угощайся свежими пирожными, пожалуйста.', 'Gulya, help yourself to fresh pastries, please.', [(227, 'Угощайся, пожалуйста')], 'adapted'),
+    ('lyova', 'Гуля, угощайся свежими пирожными, пожалуйста.', 'Gulya, help yourself to fresh pastries, please.', [(227, 'Угощайся, пожалуйста')], 'adapted'),
     ('gulya', 'Нет, спасибо большое, я сейчас уберу.', 'No, thank you very much, I will clean up now.', [(228, 'Нет, спасибо'), (230, 'Я уберу')], 'adapted'),
-    ('anya', 'Подожди, ничего убирать сейчас не надо.', 'Wait, there is no need to clean anything right now.', [(230, 'Не надо'), (231, 'Не надо убирать')], 'adapted'),
-    ('anya', 'Я давно уже хотел тебе сказать.', 'I have wanted to tell you for a long time.', [(232, 'Я давно уже хотел тебе сказать')], 'adapted'),
+    ('lyova', 'Подожди, ничего убирать сейчас не надо.', 'Wait, there is no need to clean anything right now.', [(230, 'Не надо'), (231, 'Не надо убирать')], 'adapted'),
+    ('lyova', 'Я давно уже хотел тебе сказать.', 'I have wanted to tell you for a long time.', [(232, 'Я давно уже хотел тебе сказать')], 'adapted'),
     ('gulya', 'Лев Семёнович, у меня в Киргизии муж и дети.', 'Lev Semyonovich, I have a husband and children in Kyrgyzstan.', [(233, 'Лев Семенович, у меня в Киргизии муж и дети')], 'adapted'),
-    ('anya', 'Правда? А я этого не знал.', 'Really? And I did not know that.', [(235, 'Я не знал')], 'adapted'),
-    ('anya', 'Извини меня, пожалуйста, тогда прощай.', 'Forgive me, please, goodbye then.', [(236, 'Извини, пожалуйста'), (237, 'Прощай')], 'adapted'),
+    ('lyova', 'Правда? А я этого не знал.', 'Really? And I did not know that.', [(235, 'Я не знал')], 'adapted'),
+    ('lyova', 'Извини меня, пожалуйста, тогда прощай.', 'Forgive me, please, goodbye then.', [(236, 'Извини, пожалуйста'), (237, 'Прощай')], 'adapted'),
     ('gulya', 'Я больше никогда не буду брать пирожные!', 'I will never take the pastries again!', [(238, 'Я больше никогда не буду брать эти пирожные')], 'adapted'),
     ('gulya', 'Я буду хорошо работать, не увольняйте меня!', 'I will work hard, do not fire me!', [(239, 'Я буду хорошо работать'), (240, 'Только не увольняйте меня')], 'adapted'),
-    ('ainura', 'Лёва, это я украла эти пирожные!', 'Lyova, I was the one who stole those pastries!', [(240, 'Лёва, шеф, это я украла эти пирожные')], 'adapted'),
-    ('ainura', 'Уволь меня, у неё муж и пятеро детей!', 'Fire me, she has a husband and five children!', [(242, 'Уволь меня. У неё муж, дети, пятеро')], 'adapted'),
-    ('anya', 'Да я не собирался никого увольнять!', 'I was not going to fire anyone!', [(243, 'Я не собирался никого увольнять')], 'adapted'),
-    ('anya', 'Я просто хотел познакомиться поближе.', 'I simply wanted to get to know you better.', [(247, 'Я просто познакомиться хотел'), (248, 'Поближе')], 'adapted'),
+    ('lyova', 'Лёва, это я украла эти пирожные!', 'Lyova, I was the one who stole those pastries!', [(240, 'Лёва, шеф, это я украла эти пирожные')], 'adapted'),
+    ('lyova', 'Уволь меня, у неё муж и пятеро детей!', 'Fire me, she has a husband and five children!', [(242, 'Уволь меня. У неё муж, дети, пятеро')], 'adapted'),
+    ('lyova', 'Да я не собирался никого увольнять!', 'I was not going to fire anyone!', [(243, 'Я не собирался никого увольнять')], 'adapted'),
+    ('lyova', 'Я просто хотел познакомиться поближе.', 'I simply wanted to get to know you better.', [(247, 'Я просто познакомиться хотел'), (248, 'Поближе')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Realizing that Lyova was courting her rather than firing her, Gulya runs after him to tell the truth. See you in the next scene.'
-CLOSING = ('anya', 'Я просто познакомиться хотел.')
+OUTRO = 'Realizing that Lyova was courting her rather than firing her, Gulya runs after him to tell the truth. Until next time!'
+CLOSING = ("lyova", "До встречи!")

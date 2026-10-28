@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 29
-TITLE = "Garde à vue pour Norman et Gabriel  (In Custody for Norman and Gabriel)"
-LEVEL = "A1 — débutant"
+TITLE = 'Garde à vue pour Norman et Gabriel  (In Custody for Norman and Gabriel)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie", "norman": "marcel"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa", "norman": "Norman"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'norman': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Following a chaotic birthday joyride, YouTuber Norman Thavaud is taken to the police station for speeding without his driver's license. Gabriel rushes to the station, only to find a panicked Norman desperate to abandon his dream role in Jacques Audiard's upcoming film. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the tense police station encounter step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'After feigning a cancellation call to Audiard and clashing with the police officer, Gabriel finds himself locked inside the drunk tank alongside his anxious client. See you next time!'
-CLOSING = ("gabriel", "Bonne journée!")
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Bonsoir. Que se passe-t-il?', 'Good evening. What is going on?', [(733, 'Bonsoir. Que se passe-t-il')], ''),
     ('lea', 'M. Norman Thavaud roulait en excès de vitesse.', 'Mr. Norman Thavaud was speeding.', [(736, 'M. Norman Thavaud'), (737, 'qui roulait en excès de vitesse')], ''),

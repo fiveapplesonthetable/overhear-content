@@ -28,5 +28,5 @@
 | 14 | `hicham` (Hicham) | Parfait, nous allons bien dîner ensemble! | Perfect, we are going to dine well together! | 638:bien manger, 645:sur vous |
 
 ## Part 5 — Outro & Closing
-> Determined to alter the parental agreement before the birth, Hicham arranges a fateful restaurant dinner with Andrea and Colette. When you watch the episode, listen out for the expressions meaning 'issues' and 'nervous tension'. You'll catch them now. See you next time.
+> Determined to alter the parental agreement before the birth, Hicham arranges a fateful restaurant dinner with Andrea and Colette. When you watch the episode, listen out for the expressions meaning 'issues' and 'nervous tension'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 6
-TITLE = 'Совет от Шефа  (Advice from the Chef)'
+TITLE = "Совет от Шефа  (Advice from the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "In Chef Barinov's office, Nagiyev complains that Vika is stringing him along like a schoolboy. Since Barinov used to be married to Vika's sister, Nagiyev demands to know the secret to winning Vika over. Listen to the Russian dialogue first."
@@ -43,12 +43,12 @@ WALK = [
     (7, None, "'Vitya, do not make me mad right now!' Spoken Russian keeps this brisk, leaning on 'Vitya' and finishing on 'now'."),
     (8, None, "'And what do you want from me?' In Russian, the idea of 'and' flows naturally into 'want' without extra filler words."),
     (9, None, "'I expect compassion for your friend.' The meaning hinges on 'am waiting for' working together with 'friend' in spoken Russian."),
-    (10, None, "'You were married to her sister, after all.' In Russian, the idea of 'you' flows naturally into 'sister' without extra filler words."),
+    (10, None, "'You were married to her sister, after all.' Nagiyev pairs 'married' with 'sister' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'What should I do, lead you to her bedroom?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'bedroom'."),
     (12, None, "'No, my dear friend, here you must be patient and wait.' Notice how Russian expresses 'no' and 'to wait' with crisp inflection rather than helper words."),
     (13, None, "'Wait devotedly and faithfully.' Here the Russian phrasing highlights 'to wait' before landing on 'right'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov's mention of marriage and children plants an idea in Nagiyev's head. Meanwhile, outside in the courtyard, Max and Katya are hatching their own desperate plan."
-CLOSING = ('chef', 'Тут надо терпеть и ждать.')
+OUTRO = "Chef Barinov's mention of marriage and children plants an idea in Nagiyev's head. Meanwhile, outside in the courtyard, Max and Katya are hatching their own desperate plan. See you next time!"
+CLOSING = ("chef", "До свидания!")

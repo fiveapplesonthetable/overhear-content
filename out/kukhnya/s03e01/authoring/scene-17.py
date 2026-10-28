@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 17
-TITLE = 'Неожиданная новость  (Unexpected News)'
+TITLE = "Неожиданная новость  (Unexpected News)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'angelina', 'guest': 'anja'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "nastya": "angelina"}
+LABELS = {"guest": "Гость", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = "While Nastya's father is in the restroom, he overhears his partners scheming to cheat him with a duplicate contract, and when Nastya runs out to warn him, Kostya blurts out their biggest secret."
@@ -24,8 +24,8 @@ STORY = [
     ('guest', 'Давайте уже второй экземпляр.', 'Give me the second copy already.', [(306, 'Давайте уже второй экземпляр')], ''),
     ('nastya', 'Папа, они хотят тебя обмануть!', 'Dad, they want to cheat you!', [(308, 'тебя обмануть')], 'adapted'),
     ('guest', 'Ты что, беременна?', 'What, are you pregnant?', [(310, 'Ты что, беременна')], ''),
-    ('anya', 'Да, она беременна, вы станете дедушкой!', 'Yes, she is pregnant, you will become a grandfather!', [(311, 'Да. Она беременна, вы станете дедушкой')], ''),
-    ('anya', 'Мы скоро поженимся. Честное слово.', 'We are getting married soon. Word of honor.', [(313, 'скоро поженимся'), (314, 'Честное слово')], 'adapted'),
+    ('guest', 'Да, она беременна, вы станете дедушкой!', 'Yes, she is pregnant, you will become a grandfather!', [(311, 'Да. Она беременна, вы станете дедушкой')], ''),
+    ('guest', 'Мы скоро поженимся. Честное слово.', 'We are getting married soon. Word of honor.', [(313, 'скоро поженимся'), (314, 'Честное слово')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Seventeen. Listen for Kostya stepping forward to tell Nastya's stunned father that he is about to become a grandfather."
-CLOSING = ('anya', 'Мы скоро поженимся!')
+OUTRO = "And that finishes Scene Seventeen. Listen for Kostya stepping forward to tell Nastya's stunned father that he is about to become a grandfather. Until next time!"
+CLOSING = ("guest", "Хорошего дня!")

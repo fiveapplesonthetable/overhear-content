@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что сделал? | He did what? | #295 00:19:14: Что сделал | verbatim |
-| 2 | Нагиев | И мы сейчас пытаемся его достать. | And right now we are trying to get it back out. | #296 00:19:16: И мы сейчас пытаемся его достать | verbatim |
+| 1 | Сеня | Что сделал? | He did what? | #295 00:19:14: Что сделал | verbatim |
+| 2 | Сеня | И мы сейчас пытаемся его достать. | And right now we are trying to get it back out. | #296 00:19:16: И мы сейчас пытаемся его достать | verbatim |
 | 3 | Кристина | Не специально. | It was not on purpose. | #297 00:19:22: не специально | verbatim |
-| 4 | Аня | Ах ты. | Why, you little... | #298 00:19:24: Ах ты | verbatim |
-| 5 | Нагиев | Верни мне кольцо. | Give me back my ring. | #299 00:19:26: Верни мне кольцо | verbatim |
+| 4 | Сеня | Ах ты. | Why, you little... | #298 00:19:24: Ах ты | verbatim |
+| 5 | Сеня | Верни мне кольцо. | Give me back my ring. | #299 00:19:26: Верни мне кольцо | verbatim |
 | 6 | Кристина | Тихо, успокойся, успокойся, успокойся. | Quiet, calm down, calm down, calm down. | #300 00:19:28: Тихо, успокойся, успокойся, успокойся | verbatim |
-| 7 | Аня | Да, милые, я уже иду. | Yes, darling, I am on my way right now. | #302 00:19:33: Да, милые, я уже иду | verbatim |
-| 8 | Нагиев | Ты слышал? | Did you hear that? | #305 00:19:46: Ты слышал | verbatim |
+| 7 | Сеня | Да, милые, я уже иду. | Yes, darling, I am on my way right now. | #302 00:19:33: Да, милые, я уже иду | verbatim |
+| 8 | Сеня | Ты слышал? | Did you hear that? | #305 00:19:46: Ты слышал | verbatim |
 | 9 | Кристина | Вот это старое. | This old remedy right here. | #307 00:19:50: Вот это старое | verbatim |
-| 10 | Аня | Должно помочь. | It ought to help. | #310 00:20:03: Должно помочь | verbatim |
-| 11 | Нагиев | Сеня, открой. | Senya, open up. | #311 00:20:06: Сеня, открой | verbatim |
+| 10 | Сеня | Должно помочь. | It ought to help. | #310 00:20:03: Должно помочь | verbatim |
+| 11 | Сеня | Сеня, открой. | Senya, open up. | #311 00:20:06: Сеня, открой | verbatim |
 | 12 | Кристина | Я не буду это пить, я могу отравиться. | I am not going to drink that, I could get poisoned. | #313 00:20:15: Я не буду это пить, я могу отравиться | verbatim |
-| 13 | Аня | При мне. | Drink it right in front of me. | #315 00:20:24: При мне | verbatim |
+| 13 | Сеня | При мне. | Drink it right in front of me. | #315 00:20:24: При мне | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

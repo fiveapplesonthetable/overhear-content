@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ещё раз простите нас за этот инцидент. | Once again forgive us for this incident. | #106 00:08:01: Еще раз простите нас за этот инцидент | adapted: adapted |
-| 2 | Аня | У нас в отеле золотое правило. | In our hotel we have a golden rule. | #107 00:08:04: У нас в отеле золотое правило | adapted: adapted |
-| 3 | Аня | Гость всегда прав. Хочет пить — пьёт. | The guest is always right. If he wants to drink, he drinks. | #108 00:08:06: Гость всегда прав<br>#109 00:08:08: Хочет пить, пьет | adapted: adapted |
+| 1 | Михаил | Ещё раз простите нас за этот инцидент. | Once again forgive us for this incident. | #106 00:08:01: Еще раз простите нас за этот инцидент | adapted: adapted |
+| 2 | Михаил | У нас в отеле золотое правило. | In our hotel we have a golden rule. | #107 00:08:04: У нас в отеле золотое правило | adapted: adapted |
+| 3 | Михаил | Гость всегда прав. Хочет пить — пьёт. | The guest is always right. If he wants to drink, he drinks. | #108 00:08:06: Гость всегда прав<br>#109 00:08:08: Хочет пить, пьет | adapted: adapted |
 | 4 | Инспектор | А почему с ним пьёт ваш сотрудник? | And why is your employee drinking with him? | #109 00:08:08: А почему с ним пьет ваш<br>#114 00:08:22: ваш сотрудник | adapted: adapted |
-| 5 | Аня | Тоже золотое правило! | Also a golden rule! | #110 00:08:12: Тоже золотое правило | adapted: adapted |
+| 5 | Михаил | Тоже золотое правило! | Also a golden rule! | #110 00:08:12: Тоже золотое правило | adapted: adapted |
 | 6 | Инспектор | Он был абсолютно пьян! | He was completely drunk! | #111 00:08:14: был абсолютно пьян | adapted: adapted |
-| 7 | Аня | Нет! | No! | #112 00:08:17: Нет | adapted: adapted |
+| 7 | Михаил | Нет! | No! | #112 00:08:17: Нет | adapted: adapted |
 | 8 | Инспектор | Вы думаете, что я идиот? | Do you think that I am an idiot? | #113 00:08:21: Вы думаете, что я идиот | adapted: adapted |
 | 9 | Инспектор | Где этот ваш сотрудник? | Where is this employee of yours? | #114 00:08:22: Где этот ваш сотрудник | adapted: adapted |
-| 10 | Аня | На своём рабочем месте. | At his workplace. | #115 00:08:26: На своем рабочем месте | adapted: adapted |
-| 11 | Аня | Виктория Сергеевна, немедленно найдите Ярослава. | Viktoriya Sergeyevna, find Yaroslav immediately. | #116 00:08:28: Виктория Сергеевна, немедленно найдите Ярослава | adapted: adapted |
-| 12 | Аня | А я догоню! | And I will catch up! | #117 00:08:33: А я догоню | adapted: adapted |
+| 10 | Михаил | На своём рабочем месте. | At his workplace. | #115 00:08:26: На своем рабочем месте | adapted: adapted |
+| 11 | Михаил | Виктория Сергеевна, немедленно найдите Ярослава. | Viktoriya Sergeyevna, find Yaroslav immediately. | #116 00:08:28: Виктория Сергеевна, немедленно найдите Ярослава | adapted: adapted |
+| 12 | Михаил | А я догоню! | And I will catch up! | #117 00:08:33: А я догоню | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

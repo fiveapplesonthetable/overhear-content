@@ -18,9 +18,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Гость | Самое главное в жизни найти любовь. | The most important thing in life is to find love. | #296 00:19:30: главное найти свою любовь | adapted: adapted |
 | 7 | Гость | Найти такую любовь на всю жизнь. | To find such a love for your whole life. | #297 00:19:35: чтобы на всю жизнь | adapted: adapted |
 | 8 | Гость | Скажи, ты согласен со мной, Денис? | Tell me, do you agree with me, Denis? | #299 00:19:42: Ты согласен, Денис | adapted: adapted |
-| 9 | Аня | Да, я полностью с вами согласен. | Yes, I completely agree with you. | #300 00:19:45: Согласен | adapted: adapted |
-| 10 | Аня | Мне кажется, я нашёл такую любовь. | It seems to me that I have found such a love. | #301 00:19:48: Мне кажется, я нашел такую любовь | adapted: adapted |
-| 11 | Аня | Прости меня, Света, но это не ты. | Forgive me, Sveta, but it is not you. | #303 00:19:53: Прости, Света, но это не ты | adapted: adapted |
+| 9 | Гость | Да, я полностью с вами согласен. | Yes, I completely agree with you. | #300 00:19:45: Согласен | adapted: adapted |
+| 10 | Гость | Мне кажется, я нашёл такую любовь. | It seems to me that I have found such a love. | #301 00:19:48: Мне кажется, я нашел такую любовь | adapted: adapted |
+| 11 | Гость | Прости меня, Света, но это не ты. | Forgive me, Sveta, but it is not you. | #303 00:19:53: Прости, Света, но это не ты | adapted: adapted |
 | 12 | Света | Тогда прощай навсегда и больше не звони! | Then goodbye forever and do not call anymore! | #304 00:19:56: Прощай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

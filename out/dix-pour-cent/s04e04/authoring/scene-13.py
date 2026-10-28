@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 13
 TITLE = "L'audition manquée  (The Missed Audition)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Camille returns to her office to find Sofia lounging comfortably after her photoshoot. What begins as casual office gossip quickly turns into a heated argument when Camille asks about Sofia's major film audition. Let's listen to their confrontation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Sofia marches out of the office barefoot, leaving Camille furious and exhausted. When you watch the episode, listen out for the expressions meaning 'argue' and 'problem'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "Sofia marches out of the office barefoot, leaving Camille furious and exhausted. When you watch the episode, listen out for the expressions meaning 'argue' and 'problem'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('lea', 'Camille, Gabriel et Sarah se disputent!', 'Camille, Gabriel and Sarah are arguing!', [(901, "c'est la crise"), (903, 'se sont disputés')], ''),
     ('camille', "Quoi? Ce n'est pas mon problème.", 'What? That is not my problem.', [(902, 'Quoi')], ''),

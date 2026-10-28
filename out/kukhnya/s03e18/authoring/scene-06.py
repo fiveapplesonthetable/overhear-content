@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 6
-TITLE = 'Сломанный турникет  (The Broken Turnstile)'
+TITLE = "Сломанный турникет  (The Broken Turnstile)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eva': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'eva': 'Ева', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "eva": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "eva": "Ева"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "At the bar, Eva tries to pry into Max and Katya's secret. Meanwhile in the kitchen, Chef Barinov declares that nobody has the right to change his rules—and walks in carrying the uprooted turnstile!"
@@ -33,7 +33,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 WALK = [
     (0, None, "'Kostya, what is hard about it? Everything is hard!' The grammar packs 'Kostya' and 'difficultly' into a tight, idiomatic kitchen exchange. Eva answers right away."),
     (1, None, "'I did not get it, is something going on with Katya?' Here the Russian phrasing highlights 'I' before landing on 'with Katya'."),
-    (2, None, "'You did not get it? What else do you need?' In Russian, the idea of 'you' flows naturally into 'need' without extra filler words."),
+    (2, None, "'You did not get it? What else do you need?' Max pairs 'understood' with 'need' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (3, None, "'Pour orange juice into a glass for me quickly.' Spoken Russian keeps this brisk, leaning on 'juice' and finishing on 'pour'. Chef Barinov answers right away."),
     (4, None, "'Senya, please take the food out to our dog.' Notice how Russian expresses 'Senya' and 'dog' with crisp inflection rather than helper words."),
     (5, None, "'Viktoriya Sergeyevna said that we cannot go outside.' In Russian, the idea of 'after all' flows naturally into 'to go out' without extra filler words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Having ripped the turnstile out of the floor with his bare hands, Chef Barinov moves on to his next target in the kitchen.'
-CLOSING = ('chef', 'Здесь только я всё решаю!')
+OUTRO = 'Having ripped the turnstile out of the floor with his bare hands, Chef Barinov moves on to his next target in the kitchen. See you next time!'
+CLOSING = ("chef", "До свидания!")

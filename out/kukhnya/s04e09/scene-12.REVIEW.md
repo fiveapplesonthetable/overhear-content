@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, do you feel better?' Literally 'to you better?', this two-word dative question is the standard way to ask if someone is feeling better.
-- 'You fell into a faint.' To faint in Russian is literally 'to fall into a swoon', using the accusative case after 'into'.
-- 'What happened to me?' Russian asks what happened 'with me' using the instrumental case rather than 'to me'.
+- 'German Mikhailovich, do you feel better?' In spoken Russian, the words stay in their normal statement order and Senya's rising voice at the end turns the line into a question.
+- 'You fell into a faint.' Notice how Russian puts 'faint' and 'to fall, to drop' together in a short, direct phrase where word endings show how the ideas connect.
+- 'What happened to me?' German centers this short reply on 'happened', letting a few direct words carry the whole meaning.
 - 'There are strong magnetic storms today.' Russian people often humorously or seriously blame sudden dizziness or headaches on solar magnetic storms.
 - 'Was I knocked out for a long time?' The colloquial noun phrase 'in a blackout' is a colorful slang way to say unconscious or out cold.
 - 'I am going to drive away for a bit now.' The prefix 'ot-' on the driving verb means to step out or drive off for a short errand.
-- 'Hello, Kostya, call Nastya's dad.' The verb 'to phone' in Russian takes the dative case for the person being called.
+- 'Hello, Kostya, call Nastya's dad.' Here Max anchors the thought on 'call' and finishes on 'Nastya', keeping the spoken rhythm brisk and natural.
 - 'Have him drive back here.' The particle at the front forms a third-person command meaning 'let him drive back'.
-- 'Styopa forgot his mask at home.' Max invents an excuse using the locative adverb 'at home'.
-- 'It is better to bring him back right now.' The comparative adverb 'better' introduces an urgent suggestion.
+- 'Styopa forgot his mask at home.' Max pairs 'styopa' with 'to forget' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'It is better to bring him back right now.' Notice how Russian puts 'better' and 'right now' together in a short, direct phrase where word endings show how the ideas connect.
 - 'There is a boy here, two years old, named Roma.' Literally 'they call him Roma', Russian uses the third-person plural verb to state someone's name.
-- 'And he has a shirt with a spider.' Describing clothing uses 'by him' and the instrumental case after 'with'.
+- 'And he has a shirt with a spider.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

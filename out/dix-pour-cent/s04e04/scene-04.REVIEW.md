@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Allez, au travail maintenant! | Come on, back to work now! | 94:Merci, les filles ! |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around flora's arrival. When you watch the episode, listen out for the expressions meaning 'thanks' and 'girls'. You'll catch them now. See you next time.
+> That's it for this scene around flora's arrival. When you watch the episode, listen out for the expressions meaning 'thanks' and 'girls'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

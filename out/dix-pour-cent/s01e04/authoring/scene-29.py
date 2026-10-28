@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 29
-TITLE = "La vérité sur le toit  (The Truth on the Roof)"
-LEVEL = "A1 — débutant"
+TITLE = 'La vérité sur le toit  (The Truth on the Roof)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'Up on the rooftop overlooking Paris, Andréa finds the tax inspector Colette Brancillon looking out at the view. Earlier today at the Hotel Saint-Georges, Andréa and Gabriel panicked when they saw Colette walk in, and pretended to be secret lovers asking for their usual room. Now Andréa decides to clear the air. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's walk through it line by line. Andréa joins Colette at the edge of the roof."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Telling the truth finally broke the ice between Andréa and Colette. Next, we join Audrey Fleurot and Mathias at a charity gala, where Mathias has a plan to save Audrey's reputation. See you there."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = 'Telling the truth finally broke the ice between Andréa and Colette. See you next time!'
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Belle vue, non?', 'Nice view, isn', [(755, 'Belle vue, non')], ''),
     ('colette', 'Très.', 'Very.', [(755, 'Très')], ''),

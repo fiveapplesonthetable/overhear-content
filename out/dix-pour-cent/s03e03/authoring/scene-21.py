@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 21
-TITLE = "Soixante-dix films  (Seventy Films)"
-LEVEL = "A1 — débutant"
+TITLE = 'Soixante-dix films  (Seventy Films)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gerard": "theo", "samy": "marcel"}
-LABELS = {"gerard": "Gérard", "samy": "Samy"}
+VOICES = {'narrator': 'sky', 'gerard': 'theo', 'samy': 'marcel'}
+LABELS = {'gerard': 'Gérard', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Relieved and smiling on the pavement, Gerard Lanvin and Samy bond over shared humor and the physical toll of cinema. While Samy prepares to return to his busy cafe shift, Gerard promises to immediately contact the director to champion his casting. Let's listen to their conversation in French first."
 OPENER = "Let's see how Gerard and Samy find humor and solidarity on the pavement."
 TRANSITION = "Now let's listen to Samy and Gerard again at full speed."
-OUTRO = "Sharing laughter and mutual respect on the Parisian street, Gerard Lanvin turns Samy's dream into reality by advocating for his talent. When you watch the episode, listen out for the expressions meaning 'knew' and 'back'. You'll catch them now. See you next time."
-CLOSING = ("gerard", "À demain!")
+OUTRO = "Sharing laughter and mutual respect on the Parisian street, Gerard Lanvin turns Samy's dream into reality by advocating for his talent. When you watch the episode, listen out for the expressions meaning 'knew' and 'back'. You'll catch them now. See you next time!"
+CLOSING = ('gerard', 'À demain!')
 STORY = [
     ('samy', 'Je ne savais pas pour votre dos.', 'I did not know about your back.', [(1231, 'je savais pas que vous étiez fragiles du dos.')], ''),
     ('gerard', 'Après cinquante films, on a mal partout!', 'After fifty films, we hurt everywhere!', [(1233, 'Après 50 films, on est fragiles de partout, mon gars.')], ''),

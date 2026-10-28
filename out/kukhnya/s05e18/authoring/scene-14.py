@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e18-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 14
-TITLE = 'Удар по чужому такси  (Smashing the Wrong Taxi)'
+TITLE = "Удар по чужому такси  (Smashing the Wrong Taxi)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = 'Down in the courtyard, Chef Barinov grabs a heavy pipe and threatens to smash the yellow taxi unless the neighbor pays for the broken crib. The neighbor dares him—because it is not even his car.'
 
 STORY = [
     ('chef', 'Эй, сосед, посмотри сюда в окно!', 'Hey, neighbor, look out the window here!', [(213, 'Эй, алло')], 'adapted'),
-    ('guest', 'Чего вам ещё от меня надо?', 'What else do you want from me?', [(214, 'Что надо')], 'adapted'),
+    ('chef', 'Чего вам ещё от меня надо?', 'What else do you want from me?', [(214, 'Что надо')], 'adapted'),
     ('chef', 'Если не отдашь деньги, разобью машину!', 'If you do not give the money, I will smash the car!', [(214, 'если не отдашь деньги')], 'adapted'),
     ('chef', 'Я считаю ровно до трёх.', 'I am counting to three right now.', [(216, 'Считаю, короче, до трех')], 'adapted'),
-    ('guest', 'Только тронь там мою ласточку!', 'Just dare touch my little darling down there!', [(217, 'мою ласточку')], 'adapted'),
+    ('chef', 'Только тронь там мою ласточку!', 'Just dare touch my little darling down there!', [(217, 'мою ласточку')], 'adapted'),
     ('chef', 'Раз, два, время уже идёт!', 'One, two, time is running out!', [(218, 'Раз, два')], 'adapted'),
-    ('guest', 'Да у тебя кишка тонка ударить!', 'You do not have the guts to hit it!', [(219, 'Да у тебя кишка')], 'adapted'),
+    ('chef', 'Да у тебя кишка тонка ударить!', 'You do not have the guts to hit it!', [(219, 'Да у тебя кишка')], 'adapted'),
     ('chef', 'Держи, Максим, возьми это в руки.', 'Hold this, Maxim, take this in your hands.', [(220, 'Возьмите')], 'adapted'),
     ('chef', 'А теперь посмотри внимательно на меня!', 'And now look closely at me!', [(221, 'Посмотри на меня')], 'adapted'),
     ('chef', 'Ну, у кого там кишка тонка?', 'Well, who does not have the guts now?', [(223, 'Ну, у кого там кишка-то тонка, а')], 'adapted'),
-    ('guest', 'Слышь, ну ты реально крутой мужик.', 'Hey, you really are a tough guy.', [(224, 'Слышь, ну ты реально крутой')], 'adapted'),
-    ('guest', 'Только это вообще не моя тачка!', 'Except that is not my car at all!', [(225, 'Только это не моя тачка')], 'adapted'),
+    ('chef', 'Слышь, ну ты реально крутой мужик.', 'Hey, you really are a tough guy.', [(224, 'Слышь, ну ты реально крутой')], 'adapted'),
+    ('chef', 'Только это вообще не моя тачка!', 'Except that is not my car at all!', [(225, 'Только это не моя тачка')], 'adapted'),
     ('anya', 'Шеф, вы чего сейчас наделали?', 'Chef, what have you just done?', [(226, 'Чего сделал')], 'adapted'),
 ]
 
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'After paying the real taxi driver for the broken windshield, Chef Barinov calls Timur to deliver a new crib. See you in the next scene.'
-CLOSING = ('guest', 'Это не моя тачка!')
+OUTRO = 'After paying the real taxi driver for the broken windshield, Chef Barinov calls Timur to deliver a new crib. See you next time!'
+CLOSING = ("chef", "До свидания!")

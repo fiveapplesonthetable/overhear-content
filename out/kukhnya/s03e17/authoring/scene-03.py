@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 3
-TITLE = 'Признаки влюблённости  (Signs of Being in Love)'
+TITLE = "Признаки влюблённости  (Signs of Being in Love)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'At the bar counter, Kostya and Nastya argue over their wedding seating chart before asking Max whether he is bringing Katya—and explaining the three sure signs that Katya has a crush on him.'
@@ -34,7 +34,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 WALK = [
     (0, None, "'They will quarrel and ruin our whole wedding.' Spoken Russian keeps this brisk, leaning on 'they' and finishing on 'to spoil'. Nastya answers right away."),
     (1, None, "'Max, will you come to our wedding alone?' Nastya brings out the contrast between 'Max' and 'you' in a few short words."),
-    (2, None, "'And why should I come with Katya?' The grammar packs 'and' and 'with Katya' into a tight, idiomatic kitchen exchange."),
+    (2, None, "'And why should I come with Katya?' Notice how Russian puts 'why' and 'to come' together in a short, direct phrase where word endings show how the ideas connect."),
     (3, None, "'Well, I just thought so.' Notice how Russian expresses 'come on' and 'thought' with crisp inflection rather than helper words."),
     (4, None, "'She really likes you, after all.' Nastya addresses the listener with the informal singular 'you' alongside 'appeal to'."),
     (5, None, "'Max, bring me that, do this for me.' Kostya brings out the contrast between 'Max' and 'bring' in a few short words."),
@@ -43,10 +43,10 @@ WALK = [
     (8, None, "'By what kind of signs?' In Russian, the idea of 'according to' flows naturally into 'by the signs' without extra filler words."),
     (9, None, "'First, she looks only at you.' Spoken Russian keeps this brisk, leaning on 'first' and finishing on 'you'."),
     (10, None, "'That person always tries to touch you.' Nastya addresses the listener with the informal singular 'you' alongside 'to touch'."),
-    (11, None, "'And third, any of your jokes.' The grammar packs 'and' and 'jokes' into a tight, idiomatic kitchen exchange."),
+    (11, None, "'And third, any of your jokes.' Here Nastya anchors the thought on 'third' and finishes on 'jokes', keeping the spoken rhythm brisk and natural."),
     (12, None, "'How do you know all this, Nastya?' Max raises the pitch on 'Nastya' to turn the phrase into a direct spoken question."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nastya's checklist of glances, touches, and laughing at bad jokes leaves Max wondering whether Katya really has feelings for him."
-CLOSING = ('nastya', 'По признакам всё точно сходится.')
+OUTRO = "Nastya's checklist of glances, touches, and laughing at bad jokes leaves Max wondering whether Katya really has feelings for him. Until next time!"
+CLOSING = ("nastya", "Хорошего дня!")

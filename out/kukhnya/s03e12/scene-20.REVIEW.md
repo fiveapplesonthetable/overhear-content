@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And what did you want to hear from me?' In Russian, the idea of 'and' flows naturally into 'to hear' without extra filler words.
 - 'That I feel bad and I am still in love with you?' Vika addresses the listener with the informal singular 'you' alongside 'you'.
 - 'All of that is already in the past, Max.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'Max'.
-- 'This madness must end right now.' In Russian, the idea of 'this' flows naturally into 'to end' without extra filler words.
+- 'This madness must end right now.' Here Vika anchors the thought on 'madness, insanity' and finishes on 'to end, to be over', keeping the spoken rhythm brisk and natural.
 - 'Let it end in twenty minutes.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'minutes'. Vika answers right away.
 - 'You see, you do not change at all.' The meaning hinges on 'see' working together with 'you change' in spoken Russian.
 - 'The long-awaited victory somehow brings no joy.' The grammar packs 'long-awaited' and 'joy' into a tight, idiomatic kitchen exchange.

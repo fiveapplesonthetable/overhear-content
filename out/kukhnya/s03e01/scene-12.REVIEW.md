@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Аня | Да, шеф. Я всё сделаю, шеф. | Yes, Chef. I will do everything, Chef. | #227 00:14:26: Да, шеф<br>#230 00:14:35: Я все сделаю, шеф | adapted: adapted |
 | 6 | Аня | Виктор Петрович, я думаю, это нечестно. | Viktor Petrovich, I think this is unfair. | #228 00:14:30: Виктор Петрович, я думаю, это нечестно | verbatim |
 | 7 | Шеф | Я уберу из меню молочного ягнёнка. | I will remove the milk-fed lamb from the menu. | #229 00:14:33: Я уберу из меню молочного ягненка | verbatim |
-| 8 | Гость | Скажите, а что это за молекулярная кухня? | Tell me, what is this molecular cuisine? | #231 00:14:38: Скажите, а что это за молекулярная кухня | verbatim |
+| 8 | Шеф | Скажите, а что это за молекулярная кухня? | Tell me, what is this molecular cuisine? | #231 00:14:38: Скажите, а что это за молекулярная кухня | verbatim |
 | 9 | Аня | Вы знаете, я бы вам не советовал. | You know, I would not advise you to get it. | #232 00:14:42: Вы знаете, я бы вам не советовал | verbatim |
 | 10 | Аня | Сплошная химия, и очень дорого. | Pure chemicals, and very expensive. | #233 00:14:44: сплошная химия, во-вторых, очень дорого | adapted: adapted |
 | 11 | Аня | Я бы не советовала вам это заказывать. | I would not advise you to order this. | #237 00:14:55: Я бы не советовала вам это заказывать | verbatim |

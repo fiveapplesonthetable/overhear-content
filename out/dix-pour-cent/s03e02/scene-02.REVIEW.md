@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | C'est une mission originale pour un agent! | That is an original mission for an agent! | 196:mon problème |
 
 ## Part 5 — Outro & Closing
-> Monica Bellucci reveals the human vulnerability beneath her cinematic icon status, seeking a grounded romantic partner. When you watch the episode, listen out for the expressions meaning 'loved' and 'shoot'. You'll catch them now. See you next time.
+> Monica Bellucci reveals the human vulnerability beneath her cinematic icon status, seeking a grounded romantic partner. When you watch the episode, listen out for the expressions meaning 'loved' and 'shoot'. You'll catch them now. See you next time!
 - **Closing**: `monica`: *À demain!*

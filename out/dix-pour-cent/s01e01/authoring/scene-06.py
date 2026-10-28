@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 6
 TITLE = "Magali s'en va  (Magali Quits)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "magali": "emilie"}
-LABELS = {"lea": "Andréa", "magali": "Magali"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'magali': 'emilie'}
+LABELS = {'lea': 'Andréa', 'magali': 'Magali'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now we follow Magali, Andréa's assistant. She has worked day and night for Andréa, she's exhausted, and today her mind is made up. First the whole scene in French; don't try to catch everything, the gist is enough."
 OPENER = "Let's take it slowly. Andréa is on the phone as usual, and she shouts across the office for something small."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So Magali is gone, and Andréa has no assistant at all, which will matter very soon. If commands felt easy this time, you've already learned a lot. See you next time!"
-CLOSING = ("magali", "Au revoir, Andréa!")
+OUTRO = "So Magali is gone, and Andréa has no assistant at all. If commands felt easy this time, you've already learned a lot. See you next time!"
+CLOSING = ('magali', 'Au revoir, Andréa!')
 STORY = [
     ('lea', 'Magali! Tu as une enveloppe?', 'Magali! Have you got an envelope?', [(213, 'Magali'), (219, 'Tu as une enveloppe')], ''),
     ('magali', "J'en ai assez. Je pars!", 'I', [(218, "J'en ai assez, je pars")], ''),

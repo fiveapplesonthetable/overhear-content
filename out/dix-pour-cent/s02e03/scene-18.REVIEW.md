@@ -29,5 +29,5 @@
 | 15 | `catherine` (Catherine) | Parfait. Buvons notre café. | Perfect. Let | 463:Un café, voilà |
 
 ## Part 5 — Outro & Closing
-> With ice in the air, Catherine takes her seat opposite Annick, leaving Mathias trapped between his past and present. Until next time.
+> With ice in the air, Catherine takes her seat opposite Annick, leaving Mathias trapped between his past and present. See you next time!
 - **Closing**: `catherine`: *Bonne soirée!*

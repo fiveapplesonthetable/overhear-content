@@ -1,32 +1,32 @@
 ID = 'kukhnya-s05e04-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 17
-TITLE = 'Гладиатор в чужой спальне  (A Gladiator in the Wrong Bedroom)'
+TITLE = "Гладиатор в чужой спальне  (A Gladiator in the Wrong Bedroom)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = 'Dressed in a Roman gladiator helmet and cape, Barinov leaps onto the bed in suite 311—only to come face to face with Eleonora! Terrified that Elena in the adjoining room will hear them, Victor begs Eleonora to leave and tells Elena it was just a maid.'
 
 STORY = [
-    ('anya', 'Кто здесь', 'Who in here', [(246, 'Кто')], 'adapted'),
-    ('anya', 'заказывал сегодня', 'ordered tonight', [(247, 'заказывал')], 'adapted'),
-    ('anya', 'шефа в номер на всю...', 'the Chef to the room for the whole...', [(248, 'шефа в номер')], 'adapted'),
-    ('eleonora', 'Витя, черт.', 'Vitya, damn it!', [(249, 'Витя, черт')], 'adapted'),
-    ('anya', 'Что здесь делаешь? Я? Я собираюсь спать.', 'What are you doing here? Me? I am getting ready to sleep.', [(251, 'Что здесь делаешь')], 'adapted'),
-    ('anya', 'А теперь собирайся и уходи отсюда.', 'And now pack up and get out of here.', [(253, 'А теперь собирайся')], 'adapted'),
-    ('anya', 'Пожалуйста, умоляю тебя.', 'Please, I beg you.', [(254, 'Пожалуйста, умоляю тебя')], 'adapted'),
-    ('anya', 'В этом номере другая женщина.', 'There is another woman in this suite.', [(255, 'В этом номере')], 'adapted'),
-    ('anya', 'Я не хочу, чтобы она тебя видела. Витя, это ты?', 'I do not want her to see you. Vitya, is that you?', [(256, 'Я не хочу')], 'adapted'),
-    ('anya', 'Умоляю, не губи мою жизнь снова.', 'I beg you, do not ruin my life again.', [(258, 'Умоляю, не губи')], 'adapted'),
-    ('anya', 'Завтра, завтра можешь меня уволить.', 'Tomorrow, you can fire me tomorrow.', [(260, 'Завтра, завтра можешь')], 'adapted'),
+    ('chef', 'Кто здесь', 'Who in here', [(246, 'Кто')], 'adapted'),
+    ('chef', 'заказывал сегодня', 'ordered tonight', [(247, 'заказывал')], 'adapted'),
+    ('chef', 'шефа в номер на всю...', 'the Chef to the room for the whole...', [(248, 'шефа в номер')], 'adapted'),
+    ('elena', 'Витя, черт.', 'Vitya, damn it!', [(249, 'Витя, черт')], 'adapted'),
+    ('chef', 'Что здесь делаешь? Я? Я собираюсь спать.', 'What are you doing here? Me? I am getting ready to sleep.', [(251, 'Что здесь делаешь')], 'adapted'),
+    ('chef', 'А теперь собирайся и уходи отсюда.', 'And now pack up and get out of here.', [(253, 'А теперь собирайся')], 'adapted'),
+    ('chef', 'Пожалуйста, умоляю тебя.', 'Please, I beg you.', [(254, 'Пожалуйста, умоляю тебя')], 'adapted'),
+    ('chef', 'В этом номере другая женщина.', 'There is another woman in this suite.', [(255, 'В этом номере')], 'adapted'),
+    ('chef', 'Я не хочу, чтобы она тебя видела. Витя, это ты?', 'I do not want her to see you. Vitya, is that you?', [(256, 'Я не хочу')], 'adapted'),
+    ('chef', 'Умоляю, не губи мою жизнь снова.', 'I beg you, do not ruin my life again.', [(258, 'Умоляю, не губи')], 'adapted'),
+    ('chef', 'Завтра, завтра можешь меня уволить.', 'Tomorrow, you can fire me tomorrow.', [(260, 'Завтра, завтра можешь')], 'adapted'),
     ('elena', 'С кем ты тут разговаривал?', 'Who were you talking to in here?', [(261, 'С кем ты')], 'adapted'),
-    ('anya', 'А горничная заходила, я ей сказал, что у тебя уже есть горничная.', 'Oh, a maid came in, and I told her you already have a maid.', [(262, 'А горничная заходила')], 'adapted'),
+    ('chef', 'А горничная заходила, я ей сказал, что у тебя уже есть горничная.', 'Oh, a maid came in, and I told her you already have a maid.', [(262, 'А горничная заходила')], 'adapted'),
     ('elena', 'Бред какой-то.', 'Some kind of nonsense.', [(264, 'Бред какой-то')], 'adapted'),
 ]
 
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Chef Barinov and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Бред какой-то.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Chef Barinov and the team handle the pressure when you watch the episode. Until next time!'
+CLOSING = ("chef", "Увидимся!")

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 30
-TITLE = "Libérés de cellule  (Released from the Cell)"
-LEVEL = "A1 — débutant"
+TITLE = 'Libérés de cellule  (Released from the Cell)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "norman": "marcel", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"norman": "Norman", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'norman': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'norman': 'Norman', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Sharing a cold detention cell into the early morning hours, Gabriel helps Norman confront his deepest insecurities about working with legendary director Jacques Audiard. Moved by their honesty, the sympathetic police officer makes an unexpected decision that gives Norman a second chance at his film career. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the overnight conversation and release step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Thanks to Gabriel's clever bluff and a compassionate police officer, Norman regains his confidence and heads toward his big-screen debut. Until next time."
-CLOSING = ("norman", "À bientôt!")
+OUTRO = "Thanks to Gabriel's clever bluff and a compassionate police officer, Norman regains his confidence and heads toward his big-screen debut. See you next time!"
+CLOSING = ('norman', 'À bientôt!')
 STORY = [
     ('norman', 'Il voulait que je sois dur.', 'He wanted me to be tough.', [(802, 'Il voulait que je sois dur')], ''),
     ('norman', "Je ne peux pas, je n'ai pas assez vécu.", 'I cannot do it, I have not lived enough.', [(804, "Je ne peux pas, je n'ai pas assez vécu")], ''),

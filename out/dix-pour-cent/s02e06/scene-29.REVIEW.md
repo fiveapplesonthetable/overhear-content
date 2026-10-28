@@ -28,5 +28,5 @@
 | 14 | `hicham` (Hicham) | C'est une opportunité très tentante. | It is a very tempting opportunity. | 844:C'est trop tentant |
 
 ## Part 5 — Outro & Closing
-> While Gabriel frantically hunts for Sofia across the crowded Cannes party, Camille and Hicham discuss her exciting prospects with an American agency. Join us next time to see what happens next.
+> While Gabriel frantically hunts for Sofia across the crowded Cannes party, Camille and Hicham discuss her exciting prospects with an American agency. See you next time!
 - **Closing**: `hicham`: *À demain!*

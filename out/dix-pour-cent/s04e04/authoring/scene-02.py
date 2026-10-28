@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 2
-TITLE = "Confidences en coulisses  (Backstage Confidences)"
-LEVEL = "A1 — débutant"
+TITLE = 'Confidences en coulisses  (Backstage Confidences)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sandrine": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sandrine": "Sandrine"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sandrine': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sandrine': 'Sandrine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Surrounded by floral bouquets and gifts in her dressing room, Sandrine Kiberlain admits to feeling artistically restless. When Gabriel urges her to accept an upcoming prestigious historical biopic, Sandrine insists on escaping to a comedy club, confiding that she secretly yearns to reinvent herself as a stand-up comedian. Let's listen to their conversation in French first."
 OPENER = "Let's explore Sandrine and Gabriel's intimate conversation line by line."
 TRANSITION = "Now let's listen to Sandrine and Gabriel's full discussion once more from start to finish."
-OUTRO = "That's it for this scene around backstage confidences. When you watch the episode, listen out for the expressions meaning 'marvelous' and 'best'. You'll catch them now. See you next time."
-CLOSING = ("sandrine", "À bientôt!")
+OUTRO = "That's it for this scene around backstage confidences. When you watch the episode, listen out for the expressions meaning 'marvelous' and 'best'. You'll catch them now. See you next time!"
+CLOSING = ('sandrine', 'À bientôt!')
 STORY = [
     ('gabriel', 'Toujours merveilleuse, toujours la meilleure, Sandrine!', 'Always marvelous, always the best, Sandrine!', [(7, 'Toujours merveilleuse, toujours la meilleure !')], ''),
     ('sandrine', "C'est très gentil de ta part.", 'That is very kind of you.', [(8, "C'est très gentil")], ''),

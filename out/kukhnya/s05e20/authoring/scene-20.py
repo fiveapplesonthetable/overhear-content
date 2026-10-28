@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e20-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 20
 SCENE = 20
-TITLE = 'Счастливый финал и новая глава  (A Happy Finale and a New Chapter)'
+TITLE = "Счастливый финал и новая глава  (A Happy Finale and a New Chapter)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.20'
 SOURCE_FILE = 'sources/kukhnya/s05/e20.ru.srt'
 
 INTRO = 'When Mikhail asks Eleonora about her health, she says she only had a mild flu—then stuns Victor and Mikhail by announcing her marriage to Nagiyev. Meanwhile, Vika stays in Moscow and Max becomes Chef of Monet!'
@@ -35,10 +35,10 @@ WALK = [
     (1, None, "'Just a regular flu, thank goodness, it already passed.' Notice how Russian expresses 'ordinary' and 'passed' with crisp inflection rather than helper words. Chef Barinov answers right away."),
     (2, None, "'Wait, what do you mean just a regular flu?' Here the Russian phrasing highlights 'wait' before landing on 'flu'."),
     (3, None, "'In two months we are having a wedding banquet here.' The meaning hinges on 'two' working together with 'banquet' in spoken Russian."),
-    (4, None, "'Dimochka and I are officially getting married.' Notice the reflexive suffix on the verb meaning 'we register our marriage', turning the action back on the subject. Chef Barinov answers right away."),
+    (4, None, "'Dimochka and I are officially getting married.' Eleonora pairs 'with Dimochka' with 'we register our marriage' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (5, None, "'Is Dimochka really going to be our boss again?' Chef Barinov brings out the contrast between 'really' and 'Dimochka' in a few short words."),
     (6, None, "'The main thing is that our story has a happy ending.' Notice how Russian expresses 'the main thing' and 'end' with crisp inflection rather than helper words."),
-    (7, None, "'Vika agreed to stay with me in Moscow.' Notice the reflexive suffix on the verb meaning 'to agree', turning the action back on the subject."),
+    (7, None, "'Vika agreed to stay with me in Moscow.' In everyday Russian, 'to agree' flows straight into 'to remain, to be left' without extra linking words."),
     (8, None, "'And I finally became a real head chef!' The '-l' ending on the verb meaning 'to become' places the action in the masculine past tense."),
     (9, None, "'Vika and I will be working together again.' Max anchors the line on 'we', while 'together' completes the thought."),
     (10, None, "'It turns out the dearest dreams really do come true!' Notice how Russian expresses 'to turn out to be' and 'come true' with crisp inflection rather than helper words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And with Max and Vika reunited at Claude Monet and a wedding on the horizon at Hotel Eleon, Season 5 comes to a joyful close. See you next time.'
-CLOSING = ('anya', 'Наши мечты наконец сбываются!')
+OUTRO = 'And with Max and Vika reunited at Claude Monet and a wedding on the horizon at Hotel Eleon, Season 5 comes to a joyful close. See you next time!'
+CLOSING = ("anya", "Пока!")

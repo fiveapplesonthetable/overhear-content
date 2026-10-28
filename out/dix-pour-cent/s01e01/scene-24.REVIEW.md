@@ -30,5 +30,5 @@
 | 16 | `cecile` (Cécile) | Ah bon? Qu'est-ce qu'elle a dit? | Really? What did she say? | 678:Ah bon, 679:Qu'est-ce qu'elle a dit |
 
 ## Part 5 — Outro & Closing
-> That's this scene done. When you watch it, notice how the polite 'you' turns casual as they work side by side in the garden. See you soon for what happens next.
+> That's this scene done. When you watch it, notice how the polite 'you' turns casual as they work side by side in the garden. See you next time!
 - **Closing**: `cecile`: *À bientôt, Mathias!*

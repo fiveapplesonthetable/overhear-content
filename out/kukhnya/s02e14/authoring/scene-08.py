@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 8
 TITLE = "Встреча с Нагиевым и визит Елены  (Meeting Nagiyev and Elena's Visit)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'Out in the dining room, Nagiyev warmly welcomes Chef Barinov back from the hospital and jokes about his health. Barinov makes Nagiyev promise not to tell Elena Pavlovna that he skipped his vacation, right as Elena herself walks into Claude Monet with friends.'
 
 STORY = [
-    ('anya', 'Дай-ка я тебе перезвоню.', 'Let me call you right back.', [(131, 'Дай-ка я тебе перезвоню')], ''),
+    ('chef', 'Дай-ка я тебе перезвоню.', 'Let me call you right back.', [(131, 'Дай-ка я тебе перезвоню')], ''),
     ('vika', 'Рад тебя видеть.', 'Glad to see you.', [(133, 'Рад тебя видеть')], ''),
-    ('sasha', 'Спасибо на добром слове.', 'Thank you for the kind words.', [(136, 'Спасибо на добром слове')], ''),
-    ('anya', 'Шучу, шучу.', 'I am kidding, just kidding.', [(137, 'Шучу, шучу')], ''),
+    ('chef', 'Спасибо на добром слове.', 'Thank you for the kind words.', [(136, 'Спасибо на добром слове')], ''),
+    ('chef', 'Шучу, шучу.', 'I am kidding, just kidding.', [(137, 'Шучу, шучу')], ''),
     ('vika', 'Как чувствуешь себя?', 'How are you feeling?', [(138, 'Как чувствуешь себя')], ''),
-    ('sasha', 'Ну это ты брось.', 'Oh, stop saying that.', [(139, 'Ну это ты брось')], ''),
-    ('anya', 'Как новенький ты был в начале века.', 'The last time you were good as new was at the turn of the century.', [(140, 'Как новенький ты был в начале века')], ''),
+    ('chef', 'Ну это ты брось.', 'Oh, stop saying that.', [(139, 'Ну это ты брось')], ''),
+    ('chef', 'Как новенький ты был в начале века.', 'The last time you were good as new was at the turn of the century.', [(140, 'Как новенький ты был в начале века')], ''),
     ('vika', 'Работы ведь очень много.', 'There is just so much work to do.', [(142, 'Работы ведь очень много')], ''),
-    ('sasha', 'Не выдавай меня, я тебе потом объясню.', 'Do not give me away, I will explain everything to you later.', [(143, 'Не выдавай меня, я тебе потом объясню')], ''),
-    ('anya', 'У меня в ресторане нет.', 'I am not at the restaurant right now.', [(144, 'У меня в ресторане нет')], ''),
+    ('chef', 'Не выдавай меня, я тебе потом объясню.', 'Do not give me away, I will explain everything to you later.', [(143, 'Не выдавай меня, я тебе потом объясню')], ''),
+    ('chef', 'У меня в ресторане нет.', 'I am not at the restaurant right now.', [(144, 'У меня в ресторане нет')], ''),
     ('vika', 'Шеф-повар только из Парижа.', 'A head chef fresh from Paris.', [(146, 'Шеф-повар только из Парижа')], ''),
-    ('sasha', 'Виктория Сергеевна, может быть, я сама?', 'Viktoriya Sergeyevna, maybe I should take that table myself?', [(149, 'Виктория Сергеевна, может быть, я сама')], ''),
-    ('anya', 'Там всего три человека.', 'There are only three people sitting there.', [(150, 'Там всего три человека')], ''),
+    ('chef', 'Виктория Сергеевна, может быть, я сама?', 'Viktoriya Sergeyevna, maybe I should take that table myself?', [(149, 'Виктория Сергеевна, может быть, я сама')], ''),
+    ('chef', 'Там всего три человека.', 'There are only three people sitting there.', [(150, 'Там всего три человека')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 8 of Episode 14, listen out for the exchange around meeting nagiyev and elena's visit — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Там всего три человека.')
+OUTRO = 'That wraps up this scene as nagiyev welcomes Chef Barinov back to work, and Barinov begs him not to tell Elena Pavlovna just as she walks into Claude Monet with two guests. See you next time!'
+CLOSING = ("chef", "Пока!")

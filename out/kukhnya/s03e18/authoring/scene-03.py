@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 3
-TITLE = 'Нагиев продал ресторан  (Nagiyev Sold the Restaurant)'
+TITLE = "Нагиев продал ресторан  (Nagiyev Sold the Restaurant)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Chef Barinov confronts Nagiyev about the chaos in his kitchen and demands that he stop Vika from changing the menu—only for Nagiyev to confess that he sold Claude Monet completely.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov is stunned to learn that Nagiyev no longer owns a single share of Claude Monet.'
-CLOSING = ('nagiyev', 'Я полностью продал наш ресторан.')
+OUTRO = 'Chef Barinov is stunned to learn that Nagiyev no longer owns a single share of Claude Monet. Until next time!'
+CLOSING = ("nagiyev", "Хорошего дня!")

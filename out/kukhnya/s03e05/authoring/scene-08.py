@@ -1,21 +1,21 @@
 ID = 'kukhnya-s03e05-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 8
-TITLE = 'Первая женщина, которая отказалась  (The First Woman Who Refused)'
+TITLE = "Первая женщина, которая отказалась  (The First Woman Who Refused)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = 'Nagiyev cannot believe that a woman turned down a trip to Paris with him. Not knowing she refused, Max corners Vika to demand whether she is going to Paris.'
 
 STORY = [
-    ('nagiyev', 'Вика, я тебя поздравляю.', 'Vika, I congratulate you.', [(111, 'Я тебя поздравляю')], 'adapted'),
-    ('nagiyev', 'Ты первая женщина, которая отказалась ехать.', 'You are the first woman who refused to go.', [(112, 'Ты первая женщина, которая отказалась ехать')], 'adapted'),
+    ('vika', 'Вика, я тебя поздравляю.', 'Vika, I congratulate you.', [(111, 'Я тебя поздравляю')], 'adapted'),
+    ('vika', 'Ты первая женщина, которая отказалась ехать.', 'You are the first woman who refused to go.', [(112, 'Ты первая женщина, которая отказалась ехать')], 'adapted'),
     ('vika', 'А вы возьмите с собой Виктора Петровича.', "Why don't you take Viktor Petrovich with you.", [(114, 'А вы возьмите с собой, Виктора Петровича')], 'adapted'),
     ('anya', 'Привет, ты чего трубку не берёшь?', 'Hi, why are you not picking up the phone?', [(118, 'Ты чего, трубку не берешь')], 'adapted'),
     ('anya', 'Я хочу с тобой разговаривать.', 'I want to talk with you.', [(119, 'Я хочу с тобой разговаривать')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Annoyed by Max's relentless jealousy, Vika sarcastically tells him she is indeed flying to Paris with Nagiyev."
-CLOSING = ('anya', 'Счастливого пути, Виктория Сергеевна.')
+OUTRO = "Annoyed by Max's relentless jealousy, Vika sarcastically tells him she is indeed flying to Paris with Nagiyev. See you next time!"
+CLOSING = ("anya", "Счастливого пути, Виктория Сергеевна.")

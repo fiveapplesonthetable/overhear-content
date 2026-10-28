@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 14
 TITLE = "Палата для жены министра  (The Room for the Minister's Wife)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'doctor': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "doctor": "Врач", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = "At the maternity hospital, Max discovers an empty luxury suite with a television reserved for a government minister's wife. Thinking fast, he scolds the nurse and claims Vika is the VIP patient."
@@ -42,11 +42,11 @@ WALK = [
     (7, None, "'How are you not ashamed of yourselves?' Max anchors the line on 'come on', while 'ashamed' completes the thought."),
     (8, None, "'You have a minister's wife waiting in the hallway!' In Russian, the idea of 'at' flows naturally into 'corridor' without extra filler words."),
     (9, None, "'Forgive us, we did not know that you had arrived.' The meaning hinges on 'forgive' working together with 'we've arrived' in spoken Russian."),
-    (10, None, "'Please, come in and make yourselves comfortable.' Notice the reflexive suffix on the verb meaning 'to settle down', turning the action back on the subject. Vika answers right away."),
+    (10, None, "'Please, come in and make yourselves comfortable.' the doctor uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
     (11, None, "'Max, what on earth is going on here?' Vika brings out the contrast between 'Max' and 'what' in a few short words."),
     (12, None, "'Walk ahead and do not ask questions.' In Russian, the idea of 'go' flows naturally into 'questions' without extra filler words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max escorts Vika into the luxury VIP ward and thanks the staff on behalf of the cabinet of ministers. See you in the next scene.'
-CLOSING = ('anya', 'Спасибо вам большое!')
+OUTRO = 'Max escorts Vika into the luxury VIP ward and thanks the staff on behalf of the cabinet of ministers. See you next time!'
+CLOSING = ("anya", "До свидания!")

@@ -26,5 +26,5 @@
 | 12 | `julie` (Julie) | Il doit s'excuser d'abord! | He must apologise first! | 103:il |
 
 ## Part 5 — Outro & Closing
-> So Julie has locked herself in her dressing room, JoeyStarr is furious outside, and Andréa and Gabriel have walked straight into the storm. Listen out for the opposite verbs meaning 'to leave' and 'to stay'. See you next time.
+> So Julie has locked herself in her dressing room, JoeyStarr is furious outside, and Andréa and Gabriel have walked straight into the storm. Listen out for the opposite verbs meaning 'to leave' and 'to stay'. See you next time!
 - **Closing**: `julie`: *Au revoir!*

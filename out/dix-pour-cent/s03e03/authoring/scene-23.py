@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 23
-TITLE = "Des soupçons et des douleurs  (Suspicions and Pains)"
-LEVEL = "A1 — débutant"
+TITLE = 'Des soupçons et des douleurs  (Suspicions and Pains)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "lea": "lucie"}
-LABELS = {"arlette": "Arlette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie'}
+LABELS = {'arlette': 'Arlette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Arlette enters Andrea's office to reminisce about Samuel Kerr and asks probing questions about Andrea's secret plans, just as labor contractions strike. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this tense confrontation between Arlette and Andrea step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "While Arlette confronts Andrea about her secret plan to abandon ASK, she suddenly realizes Andrea is in active labor right inside the office. When you watch the episode, listen out for the expressions meaning 'come in' and 'strained'. You'll catch them now. See you next time."
-CLOSING = ("arlette", "Bonne journée!")
+OUTRO = "While Arlette confronts Andrea about her secret plan to abandon ASK, she suddenly realizes Andrea is in active labor right inside the office. When you watch the episode, listen out for the expressions meaning 'come in' and 'strained'. You'll catch them now. See you next time!"
+CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('lea', "Entrez, c'est tendu en ce moment.", 'Come in, it is tense right now.', [(1268, 'Entrée'), (1270, "c'est tendu")], ''),
     ('arlette', "Tu ne penses pas à l'après?", 'Do you not think about what comes after?', [(1273, "Tu penses pas trop à l'après")], ''),

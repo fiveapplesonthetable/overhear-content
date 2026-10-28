@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, wait a moment, let's talk calmly.' Max combines a singular imperative with a first-person plural exhortation.
-- 'Are you angry because of that rifle from yesterday?' The compound preposition 'because of' governs the genitive singular.
+- 'Vika, wait a moment, let's talk calmly.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Are you angry because of that rifle from yesterday?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Senya, why do you have blood here?' Max notices red liquid dripping from Senya's hidden package.
-- 'Oh, those are just raw kidneys that thawed out.' Reflexive plural past verb describes frozen meat thawing.
+- 'Oh, those are just raw kidneys that thawed out.' Here Senya anchors the thought on 'simply, just' and finishes on 'to out', keeping the spoken rhythm brisk and natural.
 - 'What a nuisance, that was my reconciliation dinner!' Relational adjective 'reconciliation' modifies the masculine noun 'dinner'.
 - 'Excuse me, what kind of reconciliation dinner?' Max asks what his colleague means by that phrase.
-- 'He had a big quarrel with his wife yesterday.' Reciprocal reflexive verb takes the preposition 'with' plus instrumental.
-- 'And now he wants to beg forgiveness with a tasty dinner.' Instrumental singular 'with dinner' marks the means of winning forgiveness.
-- 'Candles, wine, and kidneys have never let me down!' Negated imperfective past verb means never failing or disappointing someone.
+- 'He had a big quarrel with his wife yesterday.' Notice how Russian puts 'yesterday' and 'wife' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And now he wants to beg forgiveness with a tasty dinner.' Here Fedya anchors the thought on 'now, nowadays' and finishes on 'forgiveness', keeping the spoken rhythm brisk and natural.
+- 'Candles, wine, and kidneys have never let me down!' In everyday Russian, 'candles' flows straight into 'to down' without extra linking words.
 - 'Except the time when you cooked spoiled kidneys!' Fedya reminds Senya of a past kitchen disaster.
 - 'I also want to arrange a romantic evening.' Inspired by Senya, Max decides to cook for Vika at home.
-- 'Denis will stay longer at the cinema today.' The indeclinable neuter noun for cinema keeps its form in the prepositional phrase.
+- 'Denis will stay longer at the cinema today.' Here Max anchors the thought on 'today' and finishes on 'cinema, movies', keeping the spoken rhythm brisk and natural.

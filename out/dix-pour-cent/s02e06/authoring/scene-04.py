@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 4
-TITLE = "Montagnes russes  (An Emotional Rollercoaster)"
-LEVEL = "A1 — débutant"
+TITLE = 'Montagnes russes  (An Emotional Rollercoaster)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "gabriel": "theo"}
-LABELS = {"julien": "Julien", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'gabriel': 'theo'}
+LABELS = {'julien': 'Julien', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "In his office at ASK, talent agent Gabriel takes an urgent phone call from musician and filmmaker Julien Dore. Julien is spiraling in self-doubt after France 2 canceled his movie project, obsessively reading his rejected screenplay. Let's listen to their emotional exchange in French first."
 OPENER = "Let's observe how Gabriel comforts Julien and encourages him to move forward."
 TRANSITION = "Now let's listen to Gabriel and Julien again at full speed."
 OUTRO = 'Gabriel helps Julien Dore process the pain of a canceled project, reminding him that setbacks are inevitable in filmmaking. With steadfast agent support, Julien prepares to turn the page toward new artistic endeavors. See you next time!'
-CLOSING = ("julien", "À demain!")
+CLOSING = ('julien', 'À demain!')
 STORY = [
     ('julien', 'Allô Gabriel, tu as une minute?', 'Hello Gabriel, do you have a minute?', [(84, "Il y a quelqu'un ?")], ''),
     ('gabriel', 'Oui Julien, je pensais justement à toi.', 'Yes Julien, I was just thinking of you.', [(85, 'Ah, te voilà ! Je te cherchais partout !')], ''),

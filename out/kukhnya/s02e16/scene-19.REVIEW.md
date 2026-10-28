@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What a madhouse.' Here the Russian phrasing highlights 'house' before landing on 'what'.
 - 'Kostyan, I had to get back at him.' Max anchors the line on 'Kostyan', while 'to take revenge' completes the thought.
 - 'Oh, stop whining.' Here the Russian phrasing highlights 'come on' before landing on 'you'. Kostya answers right away.
-- 'Did you kill them?' In Russian, the idea of 'this' flows naturally into 'killed' without extra filler words.
+- 'Did you kill them?' In spoken Russian, the words stay in their normal statement order and Kostya's rising voice at the end turns the line into a question.
 - 'Max, you had better leave.' Max brings out the contrast between 'Max' and 'you' in a few short words.

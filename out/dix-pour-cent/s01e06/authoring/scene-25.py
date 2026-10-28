@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 25
-TITLE = "La psychanalyse de Dom Juan  (The Psychoanalysis of Dom Juan)"
-LEVEL = "A1 — débutant"
+TITLE = 'La psychanalyse de Dom Juan  (The Psychoanalysis of Dom Juan)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "christophe": "theo", "francois": "marcel"}
-LABELS = {"colette": "Colette", "christophe": "Christophe", "francois": "François"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'christophe': 'theo', 'francois': 'marcel'}
+LABELS = {'colette': 'Colette', 'christophe': 'Christophe', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "The following morning, Colette arrives at the theatre rehearsal hall to return Andréa's apartment keys and personal belongings. Watching Christophe Bel direct François Berléand on stage, Colette cannot help offering her own clinical interpretation of Molière's legendary character. Fascinated by her insights, the pretentious young director hangs on her every word. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through it as Colette shares her sharp psychological critique step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Colette gave Christophe the artistic inspiration he needed, while keeping him firmly at arm's length. Join us next time to see what happens next."
-CLOSING = ("colette", "À demain!")
+OUTRO = "Colette gave Christophe the artistic inspiration he needed, while keeping him firmly at arm's length. See you next time!"
+CLOSING = ('colette', 'À demain!')
 STORY = [
     ('colette', "Refuser de nager, c'est refuser la norme!", 'Refusing to swim is refusing the norm!', [(658, 'Refuser de nager'), (658, 'refuser la norme')], ''),
     ('colette', 'La soif de vivre de Dom Juan est là.', 'Dom Juan\\', [(659, 'La soif de vivre de Dom Juan')], ''),

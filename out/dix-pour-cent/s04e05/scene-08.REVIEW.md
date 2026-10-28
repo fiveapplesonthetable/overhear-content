@@ -25,5 +25,5 @@
 | 11 | `gabriel` (Gabriel) | Faire le ménage, c'est un geste coupable. | Cleaning up, it is a guilty move. | 404:Faire le ménage, c'est un geste coupable. |
 
 ## Part 5 — Outro & Closing
-> Elise Formain deleted all her messages, which only makes Gabriel more suspicious. See you next time.
+> Elise Formain deleted all her messages, which only makes Gabriel more suspicious. See you next time!
 - **Closing**: `gabriel`: *À demain!*

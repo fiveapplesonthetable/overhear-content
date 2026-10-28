@@ -29,5 +29,5 @@
 | 15 | `inspecteur` (L'inspecteur) | J'attends votre chèque cette semaine, avec dix pour cent de plus. | I expect your cheque this week, with ten percent extra. | 47:J'attends votre chèque cette semaine, 48:Et comme c'est en retard |
 
 ## Part 5 — Outro & Closing
-> Outside, Audrey admits she already owes forty thousand euros in back taxes, and Mathias tells her she has no choice: she has to go back to work right away. See you next time.
+> Outside, Audrey admits she already owes forty thousand euros in back taxes, and Mathias tells her she has no choice: she has to go back to work right away. See you next time!
 - **Closing**: `audrey`: *Au revoir!*

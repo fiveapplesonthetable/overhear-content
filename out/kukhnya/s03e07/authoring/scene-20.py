@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 20
-TITLE = 'Отпустить ради счастья  (Letting Go for Happiness)'
+TITLE = "Отпустить ради счастья  (Letting Go for Happiness)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'After imagining wealthy Kostya and Nastya bringing them charity lunches, Max snaps back to reality at the bar. He tells Kostya that Dmitry is a fine name and lets Vika go.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Having seen all three paths in his mind, Max hands Nagiyev the keys to the repaired car and steps aside so Vika can be happy.'
-CLOSING = ('anya', 'Да, так будет лучше.')
+OUTRO = 'Having seen all three paths in his mind, Max hands Nagiyev the keys to the repaired car and steps aside so Vika can be happy. See you next time!'
+CLOSING = ("anya", "До свидания!")

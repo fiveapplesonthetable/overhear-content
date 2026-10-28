@@ -1,99 +1,48 @@
-ID = "kukhnya-s01e06-scene-16"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e06-scene-16.
+ID = 'kukhnya-s01e06-scene-16'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 6
 SCENE = 16
 TITLE = "Знаменитый писатель  (The Famous Writer)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.06"
-SOURCE_FILE = "sources/kukhnya/s01/e06.ru.dual.srt"
-SOURCE_NOTE = "Cues 204–209. Max convinces Kostya to impersonate famous reclusive author Viktor Pelevin."
-
-INTRO = ("Max devises an absurd romantic scheme to help his roommate Kostya impress waitress Sasha. "
-         "He convinces Kostya to pose as the reclusive Russian literary genius Viktor Pelevin. "
-         "Kostya is terrified of getting exposed, but Max insists that wearing dark glasses is all the proof anyone needs. "
-         "Let's listen to their conversation in Russian first.")
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
+SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
+INTRO = "Max devises an absurd romantic scheme to help his roommate Kostya impress waitress Sasha. He convinces Kostya to pose as the reclusive Russian literary genius Viktor Pelevin. Kostya is terrified of getting exposed, but Max insists that wearing dark glasses is all the proof anyone needs. Let's listen to their conversation in Russian first."
+OPENER = "Let's analyze their hilarious coaching session line by line. Notice how Max uses humorous confidence to talk Kostya into an outrageous disguise."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Kostya puts on the glasses and prepares to play the role of a lifetime. Keep up the fantastic progress practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'to be' — you will catch every word right away. See you next time!"
+CLOSING = ("anya", "Пока!")
 STORY = [
- ("kostya", "Мне правда неловко выдавать себя за писателя.",
-  "I really feel awkward impersonating a writer.",
-  [(209, "Мне правда неловко выдавать себя за такого человека")], ""),
- ("anya", "Перестань бояться, никто не знает его лицо.",
-  "Stop being afraid, nobody knows his face.",
-  [], ""),
- ("kostya", "А вдруг Саша читала его умные книги?",
-  "What if Sasha read his smart books?",
-  [], ""),
- ("anya", "Тогда она будет восхищаться тобой ещё сильнее.",
-  "Then she will admire you even more.",
-  [], ""),
- ("kostya", "Что мне делать, если она спросит сюжет?",
-  "What should I do if she asks about the plot?",
-  [], ""),
- ("anya", "Говори загадочно и смотри прямо в глаза.",
-  "Speak mysteriously and look straight into her eyes.",
-  [], ""),
- ("kostya", "Я совсем не умею говорить так загадочно.",
-  "I cannot speak that mysteriously at all.",
-  [], ""),
- ("anya", "Просто надень эти тёмные очки, друг.",
-  "Just put on these dark glasses, friend.",
-  [], ""),
- ("kostya", "Думаешь, тёмные очки решат все проблемы?",
-  "Do you think dark glasses will solve all problems?",
-  [], ""),
- ("anya", "Настоящие писатели всегда носят тёмные очки!",
-  "Real writers always wear dark glasses!",
-  [], ""),
- ("kostya", "Ладно, я попробую сыграть эту роль.",
-  "Okay, I will try to play this role.",
-  [], ""),
- ("anya", "Иди вперёд и покори её сердце!",
-  "Go ahead and win her heart!",
-  [], ""),
- ("kostya", "Надеюсь, этот обман закончится хорошо.",
-  "I hope this deception ends well.",
-  [], ""),
+    ('kostya', 'Мне правда неловко выдавать себя за писателя.', 'I really feel awkward impersonating a writer.', [(209, 'Мне правда неловко выдавать себя за такого человека')], ''),
+    ('anya', 'Перестань бояться, никто не знает его лицо.', 'Stop being afraid, nobody knows his face.', [], ''),
+    ('kostya', 'А вдруг Саша читала его умные книги?', 'What if Sasha read his smart books?', [], ''),
+    ('anya', 'Тогда она будет восхищаться тобой ещё сильнее.', 'Then she will admire you even more.', [], ''),
+    ('kostya', 'Что мне делать, если она спросит сюжет?', 'What should I do if she asks about the plot?', [], ''),
+    ('anya', 'Говори загадочно и смотри прямо в глаза.', 'Speak mysteriously and look straight into her eyes.', [], ''),
+    ('kostya', 'Я совсем не умею говорить так загадочно.', 'I cannot speak that mysteriously at all.', [], ''),
+    ('anya', 'Просто надень эти тёмные очки, друг.', 'Just put on these dark glasses, friend.', [], ''),
+    ('kostya', 'Думаешь, тёмные очки решат все проблемы?', 'Do you think dark glasses will solve all problems?', [], ''),
+    ('anya', 'Настоящие писатели всегда носят тёмные очки!', 'Real writers always wear dark glasses!', [], ''),
+    ('kostya', 'Ладно, я попробую сыграть эту роль.', 'Okay, I will try to play this role.', [], ''),
+    ('anya', 'Иди вперёд и покори её сердце!', 'Go ahead and win her heart!', [], ''),
+    ('kostya', 'Надеюсь, этот обман закончится хорошо.', 'I hope this deception ends well.', [], ''),
 ]
-
-OPENER = ("Let's analyze their hilarious coaching session line by line. "
-          "Notice how Max uses humorous confidence to talk Kostya into an outrageous disguise.")
-
 WALK = [
- (0, "Мне правда неловко выдавать себя за писателя.",
-  "'I really feel awkward impersonating a writer.' Dative experiencer construction with a reflexive phrasal infinitive."),
- (1, "Перестань бояться, никто не знает его лицо.",
-  "'Stop being afraid, nobody knows his face.' Imperative verb governing an infinitive and negative subject clause."),
- (2, "А вдруг Саша читала его умные книги?",
-  "'What if Sasha read his smart books?' Conditional particle phrase with a past transitive verb."),
- (3, "Тогда она будет восхищаться тобой ещё сильнее.",
-  "'Then she will admire you even more.' Future imperfective verb governing an instrumental object and comparative."),
- (4, "Что мне делать, если она спросит сюжет?",
-  "'What should I do if she asks about the plot?' Interrogative dative infinitive with a conditional clause."),
- (5, "Говори загадочно и смотри прямо в глаза.",
-  "'Speak mysteriously and look straight into her eyes.' Coordinated imperative clauses with manner adverbs."),
- (6, "Я совсем не умею говорить так загадочно.",
-  "'I cannot speak that mysteriously at all.' Negative modal verb governing an infinitive and adverb."),
- (7, "Просто надень эти тёмные очки, друг.",
-  "'Just put on these dark glasses, friend.' Restrictive particle with a perfective imperative and direct object."),
- (8, "Думаешь, тёмные очки решат все проблемы?",
-  "'Do you think dark glasses will solve all problems?' Second person present verb governing a future object clause."),
- (9, "Настоящие писатели всегда носят тёмные очки!",
-  "'Real writers always wear dark glasses!' Generalizing statement with an adverb of frequency."),
- (10, "Ладно, я попробую сыграть эту роль.",
-  "'Okay, I will try to play this role.' Concessive particle with a future perfective verb and infinitive."),
- (11, "Иди вперёд и покори её сердце!",
-  "'Go ahead and win her heart!' Directional imperative sequence with an accusative object."),
- (12, "Надеюсь, этот обман закончится хорошо.",
-  "'I hope this deception ends well.' Present cognitive verb governing a future perfective subject clause."),
+    (0, None, "'I really feel awkward impersonating a writer.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (1, None, "'Stop being afraid, nobody knows his face.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (2, None, "'What if Sasha read his smart books?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (3, None, "'Then she will admire you even more.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'What should I do if she asks about the plot?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'Speak mysteriously and look straight into her eyes.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'I cannot speak that mysteriously at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (7, None, "'Just put on these dark glasses, friend.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (8, None, "'Do you think dark glasses will solve all problems?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (9, None, "'Real writers always wear dark glasses!' Here Max anchors the line on the word meaning 'real' and builds the thought around 'writers' and 'always'."),
+    (10, None, "'Okay, I will try to play this role.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (11, None, "'Go ahead and win her heart!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (12, None, "'I hope this deception ends well.' Present cognitive verb governing a future action verb subject word."),
 ]
-
-TRANSITION = "Now let's listen to the entire dialogue once more at normal conversational speed."
-
-OUTRO = ("Kostya puts on the glasses and prepares to play the role of a lifetime. "
-         "Keep up the fantastic progress practicing conversational Russian!")
-
-CLOSING = ("anya", "Настоящие писатели всегда носят тёмные очки!")

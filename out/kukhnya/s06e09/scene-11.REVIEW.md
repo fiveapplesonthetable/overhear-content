@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Слушай, пойдём сейчас вместе в кафе. | Listen, let us go to a cafe together right now. | #189 00:13:35: Пойдем в кафе | adapted: adapted |
+| 1 | Шеф | Слушай, пойдём сейчас вместе в кафе. | Listen, let us go to a cafe together right now. | #189 00:13:35: Пойдем в кафе | adapted: adapted |
 | 2 | Сеня | Прямо сейчас, ведь сегодня день ужасный. | Right now, after all today is a terrible day. | #190 00:13:37: Прямо сейчас? День ужасный | adapted: adapted |
-| 3 | Денис | Вкусного кофе выпьем и немного расслабимся. | We will drink some tasty coffee and relax a little. | #191 00:13:39: Кофе выпьем, расслабимся | adapted: adapted |
+| 3 | Шеф | Вкусного кофе выпьем и немного расслабимся. | We will drink some tasty coffee and relax a little. | #191 00:13:39: Кофе выпьем, расслабимся | adapted: adapted |
 | 4 | Сеня | Хорошо, подожди, я только быстро переоденусь. | Alright, wait, I will just change clothes quickly. | #192 00:13:43: Хорошо, только переоденусь | adapted: adapted |
-| 5 | Денис | Зачем, ты и так потрясающе выглядишь. | Why, you look amazing as it is. | #193 00:13:45: Зачем? Ты потрясающе выглядишь | adapted: adapted |
-| 6 | Аня | Написать про мой ресторан ей мешает репутация! | Her reputation stops her from writing about my restaurant! | #194 00:13:50: А написать про мой ресторан<br>#195 00:13:52: ей ведь мешает какая-то долбанная репутация | adapted: adapted |
+| 5 | Шеф | Зачем, ты и так потрясающе выглядишь. | Why, you look amazing as it is. | #193 00:13:45: Зачем? Ты потрясающе выглядишь | adapted: adapted |
+| 6 | Шеф | Написать про мой ресторан ей мешает репутация! | Her reputation stops her from writing about my restaurant! | #194 00:13:50: А написать про мой ресторан<br>#195 00:13:52: ей ведь мешает какая-то долбанная репутация | adapted: adapted |
 | 7 | Сеня | Да, шеф, это очень неприятная история. | Yes, chef, that is a very unpleasant story. | #196 00:13:56: Да, неприятная история | adapted: adapted |
-| 8 | Аня | Убери бутылку, ты же знаешь, я не пью. | Put the bottle away, you know I do not drink. | #197 00:14:01: Ты же знаешь, я не пью | adapted: adapted |
+| 8 | Шеф | Убери бутылку, ты же знаешь, я не пью. | Put the bottle away, you know I do not drink. | #197 00:14:01: Ты же знаешь, я не пью | adapted: adapted |
 | 9 | Сеня | Шеф, я вас научу делать ставки в интернете. | Chef, I will teach you how to place bets on the internet. | #199 00:14:09: я тебя сейчас научу, как в интернете ставку сделать | adapted: adapted |
-| 10 | Аня | Давай, показывай скорее, как это работает. | Go on, show me quickly how this works. | #200 00:14:14: Давай, мальчик, давай | adapted: adapted |
+| 10 | Шеф | Давай, показывай скорее, как это работает. | Go on, show me quickly how this works. | #200 00:14:14: Давай, мальчик, давай | adapted: adapted |
 | 11 | Сеня | Смотрите, тут открыта страничка вашей Елены Павловны. | Look, your Elena Pavlovna's page is open here. | #200 00:14:14: О, страничка твоей Елены Павловны | adapted: adapted |
-| 12 | Аня | Видимо, она просто случайно забыла выйти. | Apparently, she just accidentally forgot to log out. | #201 00:14:18: Видимо, забыл найти | adapted: adapted |
+| 12 | Шеф | Видимо, она просто случайно забыла выйти. | Apparently, she just accidentally forgot to log out. | #201 00:14:18: Видимо, забыл найти | adapted: adapted |
 | 13 | Сеня | Немедленно закрой, хотя у меня есть идея! | Close it immediately, although I have an idea! | #202 00:14:20: Закрой. А может | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

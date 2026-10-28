@@ -1,31 +1,31 @@
 ID = 'kukhnya-s03e10-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 14
 TITLE = "Строгий приказ Шефа  (The Chef's Strict Order)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
+LABELS = {"senya": "Сеня", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = "Learning that Senya and Fedya already paid for Sveta's time until the end of the day, Chef Barinov swears them to secrecy on pain of death. Meanwhile, at the dinner table, Nagiyev tells Vika it is time to take their relationship to the next level."
 
 STORY = [
     ('senya', 'Шеф, не переживайте, я её отправлю.', 'Chef, do not worry, I will send her away.', [(226, 'Шеф, не переживайте, я сейчас ее отправлю')], 'adapted'),
-    ('anya', 'У неё до конца дня оплачено!', 'Her time is paid for until the end of the day!', [(227, 'у нее до конца дня оплачено')], 'adapted'),
-    ('anya', 'Пусть отрабатывает и картошку чистит.', 'Let her work it off and peel potatoes.', [(227, 'пусть отрабатывает'), (228, 'Картошку там чистит')], 'adapted'),
-    ('anya', 'Ещё кто-нибудь на кухне это знает?', 'Does anyone else in the kitchen know about this?', [(229, 'Еще кто-нибудь знает')], 'adapted'),
+    ('chef', 'У неё до конца дня оплачено!', 'Her time is paid for until the end of the day!', [(227, 'у нее до конца дня оплачено')], 'adapted'),
+    ('chef', 'Пусть отрабатывает и картошку чистит.', 'Let her work it off and peel potatoes.', [(227, 'пусть отрабатывает'), (228, 'Картошку там чистит')], 'adapted'),
+    ('chef', 'Ещё кто-нибудь на кухне это знает?', 'Does anyone else in the kitchen know about this?', [(229, 'Еще кто-нибудь знает')], 'adapted'),
     ('senya', 'Нет, шеф, знаем только мы.', 'No, Chef, only we know about it.', [(230, 'Нет, шеф, только мы')], 'adapted'),
     ('senya', 'Может, вот эта девушка подойдёт? Слишком тощая.', 'Maybe this girl here will do? She is too skinny.', [(231, 'Может, вот эта? Слишком тощая')], 'adapted'),
     ('senya', 'Зато у неё чисто в квартире.', 'On the other hand, her apartment is clean.', [(232, 'Зато у нее чисто в квартире')], 'adapted'),
     ('senya', 'Сразу видно, что очень хозяйственная.', 'You can tell right away that she is very tidy.', [(233, 'Сразу видно, что хозяйственная')], 'adapted'),
-    ('anya', 'Значит так, никому вообще ни слова!', 'Here is the deal, not a word to anyone at all!', [(234, 'Значит так, никому ни слова')], 'adapted'),
-    ('anya', 'Быстро пошли вон отсюда работать!', 'Get out of here quickly and go work!', [(237, 'Пошли вон')], 'adapted'),
-    ('nagiyev', 'Нам пора перезагрузить наши отношения.', 'It is time for us to reset our relationship.', [(238, 'нам пора перезагрузить наши отношения')], 'adapted'),
-    ('nagiyev', 'Подожди одну секунду, вот, возьми.', 'Wait one second, here, take this.', [(239, 'Подожди'), (240, 'На')], 'adapted'),
+    ('chef', 'Значит так, никому вообще ни слова!', 'Here is the deal, not a word to anyone at all!', [(234, 'Значит так, никому ни слова')], 'adapted'),
+    ('chef', 'Быстро пошли вон отсюда работать!', 'Get out of here quickly and go work!', [(237, 'Пошли вон')], 'adapted'),
+    ('senya', 'Нам пора перезагрузить наши отношения.', 'It is time for us to reset our relationship.', [(238, 'нам пора перезагрузить наши отношения')], 'adapted'),
+    ('senya', 'Подожди одну секунду, вот, возьми.', 'Wait one second, here, take this.', [(239, 'Подожди'), (240, 'На')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Nagiyev hands Vika a velvet jewelry box—and when she opens it and finds it empty, he reveals the real gift.'
-CLOSING = ('anya', 'Значит так, никому ни слова!')
+OUTRO = 'Nagiyev hands Vika a velvet jewelry box—and when she opens it and finds it empty, he reveals the real gift. See you next time!'
+CLOSING = ("chef", "До встречи!")

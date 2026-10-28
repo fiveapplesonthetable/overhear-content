@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 6
-TITLE = "Le choix des prénoms  (Choosing Baby Names)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le choix des prénoms  (Choosing Baby Names)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "In their apartment bedroom, talent agent Andrea Martel and her partner Colette discuss baby names for their future child. When Andrea's suggestions trigger memories of old relationships, Colette questions Andrea's readiness for parenthood. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea and Colette discuss their future child step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around choosing baby names. When you watch the episode, listen out for the expressions meaning 'were supposed to' and 'to compare'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "That's it for this scene around choosing baby names. When you watch the episode, listen out for the expressions meaning 'were supposed to' and 'to compare'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('colette', 'Nous devions comparer nos listes de prénoms.', 'We were supposed to compare our lists of first names.', [(435, "On avait dit qu'on se montrait nos listes, ce soir."), (436, 'Les prénoms.')], ''),
     ('lea', "J'ai oublié ma liste écrite au bureau.", 'I forgot my written list at the office.', [(437, "t'as oublié la liste au bureau.")], ''),

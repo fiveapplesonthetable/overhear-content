@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 11
-TITLE = 'Свинина всё меняет  (The Pork Changes Everything)'
+TITLE = "Свинина всё меняет  (The Pork Changes Everything)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'timur': 'anja'}
-LABELS = {'anya': 'Макс', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "timur": "angelina", "anya": "alisa"}
+LABELS = {"timur": "Тимур", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = "Timur returns from the courtyard thrilled because he struck a deal to supply fifty kilos of meat three times a week to one of the men's shops—until he tells Max that the pork insult changes everything! Listen to the Russian scene first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Since Timur gave his word of honor that Max would come out and talk, Max has nowhere left to hide. Let's see what happens back in the kitchen in Scene Twelve."
-CLOSING = ('timur', 'Ты почему про свинину не рассказал?')
+OUTRO = "Since Timur gave his word of honor that Max would come out and talk, Max has nowhere left to hide. Let's see what happens back in the kitchen in Scene Twelve. Until next time!"
+CLOSING = ("timur", "Всего хорошего!")

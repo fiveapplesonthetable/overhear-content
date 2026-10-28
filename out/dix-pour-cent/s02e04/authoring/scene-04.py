@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 4
 TITLE = "Dispute au sujet d'Isabelle  (Arguing Over Adjani)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "noemie": "emilie"}
-LABELS = {"lea": "Andréa", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'noemie': 'emilie'}
+LABELS = {'lea': 'Andréa', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Inside Andréa's office, tensions rise as Andréa and Noémie argue over how to salvage the situation. While Noémie suggests asking Isabelle to apologize, Andréa adamantly refuses to let her star client humiliate herself. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa and Noémie debate the best strategy for Isabelle Adjani."
 TRANSITION = "Now let's listen to Andréa and Noémie's heated dispute again at full speed."
 OUTRO = "Andréa refuses to let an iconic actress apologize to an arrogant young director, taking full charge of the crisis. She must now find a creative way to bring the two together without damaging Isabelle's reputation. See you next time!"
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Noémie, prends-moi un rendez-vous avec Mathias.', 'Noémie, get me an appointment with Mathias.', [(97, 'Noémie, prenez-moi un rendez-vous avec Mathias Barneville.')], ''),
     ('noemie', "Pourquoi Mathias? C'est votre client le problème.", 'Why Mathias? Your client is the problem.', [(100, "C'est votre client qui fait des difficultés ici.")], ''),

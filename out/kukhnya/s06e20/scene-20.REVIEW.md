@@ -15,14 +15,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Элеонора | Потому что я люблю свою дочь. | Because I love my daughter. | #298 00:23:34: Потому что я люблю свою дочь | adapted: adapted |
 | 4 | Элеонора | У неё будет шанс найти другого. | She will have a chance to find another man. | #301 00:23:42: у нее будет шанс найти другого | adapted: adapted |
 | 5 | Элеонора | Катюша, мне нужно кое-что тебе рассказать. | Katyusha, I need to tell you something. | #302 00:23:46: Катюша<br>#303 00:23:47: Мне нужно тебе кое-что рассказать | adapted: adapted |
-| 6 | Катя | Мама, ты скоро станешь бабушкой! | Mom, you will soon become a grandmother! | #305 00:23:53: Ты скоро станешь бабушкой | adapted: adapted |
-| 7 | Катя | А ты, Денис, станешь папой! | And you, Denis, will become a dad! | #306 00:23:55: Ты папой | adapted: adapted |
-| 8 | Катя | Я вот только что сама узнала. | I just found out myself right now. | #307 00:24:01: Я вот только что узнала | adapted: adapted |
-| 9 | Аня | Наша жизнь — это маленькая кухня. | Our life is a small kitchen. | #308 00:24:26: жизнь – это маленькая кухня | adapted: adapted |
-| 10 | Аня | На ней мы готовим наше счастье. | In it we cook our happiness. | #309 00:24:32: на которой мы готовим блюдо | adapted: adapted |
-| 11 | Аня | Мы сами выбираем нужные ингредиенты. | We choose the needed ingredients ourselves. | #311 00:24:47: какие ингредиенты мы будем добавлять | adapted: adapted |
-| 12 | Аня | Творите и пробуйте что-то новое! | Create and try something new! | #313 00:25:50: Поэтому творите, пробуйте что-то новое | adapted: adapted |
-| 13 | Аня | И тогда вас ждёт большая награда! | And then a great reward awaits you! | #315 00:26:02: вас будет ждать награда | adapted: adapted |
+| 6 | Элеонора | Мама, ты скоро станешь бабушкой! | Mom, you will soon become a grandmother! | #305 00:23:53: Ты скоро станешь бабушкой | adapted: adapted |
+| 7 | Элеонора | А ты, Денис, станешь папой! | And you, Denis, will become a dad! | #306 00:23:55: Ты папой | adapted: adapted |
+| 8 | Элеонора | Я вот только что сама узнала. | I just found out myself right now. | #307 00:24:01: Я вот только что узнала | adapted: adapted |
+| 9 | Шеф | Наша жизнь — это маленькая кухня. | Our life is a small kitchen. | #308 00:24:26: жизнь – это маленькая кухня | adapted: adapted |
+| 10 | Шеф | На ней мы готовим наше счастье. | In it we cook our happiness. | #309 00:24:32: на которой мы готовим блюдо | adapted: adapted |
+| 11 | Шеф | Мы сами выбираем нужные ингредиенты. | We choose the needed ingredients ourselves. | #311 00:24:47: какие ингредиенты мы будем добавлять | adapted: adapted |
+| 12 | Шеф | Творите и пробуйте что-то новое! | Create and try something new! | #313 00:25:50: Поэтому творите, пробуйте что-то новое | adapted: adapted |
+| 13 | Шеф | И тогда вас ждёт большая награда! | And then a great reward awaits you! | #315 00:26:02: вас будет ждать награда | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

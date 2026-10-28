@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 5
 SCENE = 4
 TITLE = "Exigences de star  (A Star's Demands)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sigourney": "emilie", "lea": "lucie"}
-LABELS = {"sigourney": "Sigourney", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'lea': 'lucie'}
+LABELS = {'sigourney': 'Sigourney', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Settling into her luxurious suite at the Hotel de Crillon, Sigourney Weaver immediately expresses dissatisfaction with the quiet room assigned to her. Refusing to be treated as a sedate senior citizen, the energetic actress demands a view of the bustling Place de la Concorde along with fitness equipment. Let's listen to their conversation in French first."
 OPENER = "Let's explore Camille and Sigourney's hotel suite conversation line by line."
 TRANSITION = "Now let's listen to Camille and Sigourney's exchange once more from start to finish."
-OUTRO = "That's it for this scene around a star's demands. When you watch the episode, listen out for the expressions meaning 'splendid' and 'suite'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "That's it for this scene around a star's demands. When you watch the episode, listen out for the expressions meaning 'splendid' and 'suite'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('lea', 'Voici votre splendide suite au Crillon.', 'Here is your splendid suite at the Crillon.', [(68, "l'hôtel de Crillon.")], ''),
     ('sigourney', "Pourquoi m'avoir donné une chambre si calme?", 'Why give me such a quiet room?', [(69, 'chambres les plus calmes'), (71, 'besoin de me reposer ?')], ''),

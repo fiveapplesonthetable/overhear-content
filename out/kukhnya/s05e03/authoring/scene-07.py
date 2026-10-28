@@ -1,32 +1,32 @@
 ID = 'kukhnya-s05e03-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 7
-TITLE = 'Шеф остаётся, а Катя улетает  (The Chef Stays and Katya Flies Out)'
+TITLE = "Шеф остаётся, а Катя улетает  (The Chef Stays and Katya Flies Out)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Денис', 'senya': 'Сеня', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "denis": "anja"}
+LABELS = {"senya": "Сеня", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = 'The kitchen crew rejoices when Chef Barinov announces he is staying to protect the restaurant he built, and Katya stops by the bar to say goodbye to Denis before her flight. Listen to the Russian scene.'
 
 STORY = [
     ('senya', 'Шеф, так вы остаётесь с нами?', 'Chef, so you are staying with us?', [(123, 'Шеф, так вы остаетесь?')], 'adapted'),
-    ('anya', 'Шеф сделал этот прекрасный ресторан.', 'The chef built this wonderful restaurant.', [(124, 'чтобы сделать этот ресторан')], 'adapted'),
+    ('denis', 'Шеф сделал этот прекрасный ресторан.', 'The chef built this wonderful restaurant.', [(124, 'чтобы сделать этот ресторан')], 'adapted'),
     ('senya', 'Слава богу, сегодня нас пронесло!', 'Thank goodness, we dodged a bullet today!', [(127, 'Сейчас')], 'adapted'),
     ('senya', 'Старый кредит отдам и новый возьму.', 'I will pay off the old loan and take a new one.', [(128, 'Кредит отдам, новый возьму')], 'verbatim'),
     ('senya', 'Дома хороший кондиционер поставлю.', 'I will install a good air conditioner at home.', [(128, 'кондиционер поставлю')], 'adapted'),
     ('senya', 'Жене дома в шубе жарко.', 'My wife is hot at home in her fur coat.', [(129, 'в шубе жарко')], 'adapted'),
-    ('anya', 'За что она хотела меня уволить?', 'Why did she want to fire me?', [(132, 'за что она хотела тебя уволить?')], 'adapted'),
-    ('anya', 'Просто я плохо вчера старался.', 'I just did not try hard enough yesterday.', [(133, 'плохо старался')], 'adapted'),
-    ('katya', 'Ну всё, я еду в аэропорт.', 'Well, that is it, I am heading to the airport.', [(134, 'Ну все, я в аэропорт')], 'adapted'),
-    ('anya', 'Давай, пока, счастливого пути!', 'Alright, bye, have a safe trip!', [(135, 'Давай, пока')], 'adapted'),
-    ('katya', 'Люблю тебя. Не скучай.', 'I love you. Do not miss me too much.', [(136, 'Люблю тебя. Не скучай')], 'verbatim'),
-    ('anya', 'Я очень буду скучать.', 'I will miss you very much.', [(138, 'То есть буду')], 'adapted'),
-    ('katya', 'Мама, пока, до встречи!', 'Mom, bye, see you soon!', [(139, 'Мама, пока')], 'adapted'),
+    ('denis', 'За что она хотела меня уволить?', 'Why did she want to fire me?', [(132, 'за что она хотела тебя уволить?')], 'adapted'),
+    ('denis', 'Просто я плохо вчера старался.', 'I just did not try hard enough yesterday.', [(133, 'плохо старался')], 'adapted'),
+    ('senya', 'Ну всё, я еду в аэропорт.', 'Well, that is it, I am heading to the airport.', [(134, 'Ну все, я в аэропорт')], 'adapted'),
+    ('denis', 'Давай, пока, счастливого пути!', 'Alright, bye, have a safe trip!', [(135, 'Давай, пока')], 'adapted'),
+    ('senya', 'Люблю тебя. Не скучай.', 'I love you. Do not miss me too much.', [(136, 'Люблю тебя. Не скучай')], 'verbatim'),
+    ('denis', 'Я очень буду скучать.', 'I will miss you very much.', [(138, 'То есть буду')], 'adapted'),
+    ('senya', 'Мама, пока, до встречи!', 'Mom, bye, see you soon!', [(139, 'Мама, пока')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that sends Katya off toward the airport while Senya plans his next loan. Notice the affectionate farewell 'Lyublyu tebya. Ne skuchay'. See you in the next scene."
-CLOSING = ('anya', 'Я буду ждать твоего возвращения!')
+OUTRO = "And that sends Katya off toward the airport while Senya plans his next loan. Notice the affectionate farewell 'Lyublyu tebya. Ne skuchay'. Until next time!"
+CLOSING = ("denis", "До свидания!")

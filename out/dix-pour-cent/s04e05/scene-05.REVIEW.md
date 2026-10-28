@@ -26,5 +26,5 @@
 | 12 | `elise` (Élise) | Merci, Gaby! | Thanks, Gaby! | 265:Merci, Gaby ! |
 
 ## Part 5 — Outro & Closing
-> Elise just smoothly extracted a major client's contact from Gabriel. When you watch the episode, listen out for the expressions meaning 'to allow' and 'sure'. You'll catch them now. See you next time.
+> Elise just smoothly extracted a major client's contact from Gabriel. When you watch the episode, listen out for the expressions meaning 'to allow' and 'sure'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

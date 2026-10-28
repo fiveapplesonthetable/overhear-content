@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 20
 TITLE = "Le caprice d'Hicham  (Hicham's Whim)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "karine": "emilie", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"karine": "Karine", "hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'karine': 'emilie', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'karine': 'Karine', 'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Andréa brings Hicham onto the chaotic film set of Léa Seydoux's latest movie. When a key vehicle breaks down, Hicham generously volunteers his own sports car to help. However, his impulsive demands quickly clash with the reality of film production. Listen to the scene in French first."
 OPENER = "Let's examine how Hicham's volatile personality plays out on set."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Hicham proved that while he has immense resources, his temper and whims are a force of nature. Remember the everyday expression for letting something drop: laisser tomber. Until next time.'
-CLOSING = ("karine", "Bonne soirée!")
+OUTRO = 'Hicham proved that while he has immense resources, his temper and whims are a force of nature. Remember the everyday expression for letting something drop: laisser tomber. See you next time!'
+CLOSING = ('karine', 'Bonne soirée!')
 STORY = [
     ('hicham', 'Je peux jeter un œil?', 'Can I take a look around?', [(551, 'Je peux jeter un œil')], ''),
     ('lea', "C'est un film institutionnel pour ASK.", 'This is a major film for ASK.', [(553, "C'est un film institutionnel pour ASK")], ''),

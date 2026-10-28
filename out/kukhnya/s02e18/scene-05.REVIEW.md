@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Настя. Настенька. | Nastya. Little Nastya. | #72 00:04:08: Настя. Настенька | verbatim |
-| 2 | Сеня | Еще раз добрый вечер. | Good evening once again. | #73 00:04:11: Еще раз добрый вечер | verbatim |
-| 3 | Аня | Где дочь моя? | Where is my daughter? | #74 00:04:13: Где дочь моя | verbatim |
-| 4 | Сеня | Но мы хотим получить за нее много денег. | We want to receive a lot of money for her. | #75 00:04:16: Но мы хотим получить за нее много денег | verbatim |
-| 5 | Аня | Сегодня же. | This very day. | #76 00:04:19: Сегодня же | verbatim |
-| 6 | Сеня | Много это сколько? | How much is a lot? | #77 00:04:20: Много это сколько | verbatim |
-| 7 | Аня | Сколько нам нужно? | How much do we need? | #78 00:04:22: Сколько нам нужно | verbatim |
-| 8 | Сеня | Это я. | It is me. | #80 00:04:29: Это я | verbatim |
-| 9 | Аня | И сейчас. | And right now. | #81 00:04:33: И сейчас | verbatim |
-| 10 | Сеня | Ваша дочь будет страдать. | Your daughter is going to suffer. | #83 00:04:38: ваша дочь будет страдать | verbatim |
-| 11 | Аня | Мое почтение. | My compliments to you. | #85 00:04:43: Мое почтение | verbatim |
-| 12 | Сеня | Ну, а так все по плану. | Well, otherwise everything is going according to plan. | #87 00:04:48: Ну, а так все по плану | verbatim |
-| 13 | Аня | Заберете деньги у папы. | You will collect the money from my dad. | #88 00:04:50: Заберете деньги у папы | verbatim |
+| 1 | Настя | Настя. Настенька. | Nastya. Little Nastya. | #72 00:04:08: Настя. Настенька | verbatim |
+| 2 | Настя | Еще раз добрый вечер. | Good evening once again. | #73 00:04:11: Еще раз добрый вечер | verbatim |
+| 3 | Настя | Где дочь моя? | Where is my daughter? | #74 00:04:13: Где дочь моя | verbatim |
+| 4 | Настя | Но мы хотим получить за нее много денег. | We want to receive a lot of money for her. | #75 00:04:16: Но мы хотим получить за нее много денег | verbatim |
+| 5 | Настя | Сегодня же. | This very day. | #76 00:04:19: Сегодня же | verbatim |
+| 6 | Настя | Много это сколько? | How much is a lot? | #77 00:04:20: Много это сколько | verbatim |
+| 7 | Настя | Сколько нам нужно? | How much do we need? | #78 00:04:22: Сколько нам нужно | verbatim |
+| 8 | Настя | Это я. | It is me. | #80 00:04:29: Это я | verbatim |
+| 9 | Настя | И сейчас. | And right now. | #81 00:04:33: И сейчас | verbatim |
+| 10 | Настя | Ваша дочь будет страдать. | Your daughter is going to suffer. | #83 00:04:38: ваша дочь будет страдать | verbatim |
+| 11 | Настя | Мое почтение. | My compliments to you. | #85 00:04:43: Мое почтение | verbatim |
+| 12 | Настя | Ну, а так все по плану. | Well, otherwise everything is going according to plan. | #87 00:04:48: Ну, а так все по плану | verbatim |
+| 13 | Настя | Заберете деньги у папы. | You will collect the money from my dad. | #88 00:04:50: Заберете деньги у папы | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

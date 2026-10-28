@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e05.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "lea": "lucie", "colette": "emilie"}`
-- **Labels**: `{"gabriel": "Gabriel", "lea": "Andréa", "colette": "Colette"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "colette": "emilie", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "colette": "Colette", "lea": "Andréa"}`
 
 ## Part 1 — Intro
 > Meanwhile in Paris, Andréa wakes up in her apartment with Colette Brancillon, the tax inspector auditing ASK. As they leave the building together, a frantic Gabriel intercepts Andréa on the pavement — and recognizes Colette. Listen to the scene in French first; don't worry about catching every word.
@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Tu me manques déjà. | I miss you already. | 38:Tu me manques déjà |
 
 ## Part 5 — Outro & Closing
-> While Andréa hides her new romance with the tax inspector from Gabriel and they head out to the country film set, back in Paris it is Camille's twenty-third birthday. See you next time.
+> While Andréa hides her new romance with the tax inspector from Gabriel and they head out to the country film set, back in Paris it is Camille's twenty-third birthday. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

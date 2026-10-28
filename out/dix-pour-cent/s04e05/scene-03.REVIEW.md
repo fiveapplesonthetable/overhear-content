@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Je vais la faire signer à l'agence. | I will have it signed at the agency. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a card for mathias. When you watch the episode, listen out for the expressions meaning 'look' and 'card'. You'll catch them now. See you next time.
+> That's it for this scene around a card for mathias. When you watch the episode, listen out for the expressions meaning 'look' and 'card'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *À demain!*

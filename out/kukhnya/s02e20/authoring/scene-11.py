@@ -1,30 +1,30 @@
-ID = "kukhnya-s02e20-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 11
-TITLE = 'Тарелки на счастье  (Smashing Plates for Good Luck)'
+TITLE = "Тарелки на счастье  (Smashing Plates for Good Luck)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Шеф', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = "As the wedding party arrives at Claude Monet, a boisterous guest begins hurling plates onto the floor and shouting 'For good luck!' Chef Barinov orders the staff to add every broken plate to the bill, while Kostya warns Max in the hallway that the Chef will kill him if he spots him."
 
 STORY = [
-    ('anya', 'Мне только что сообщили.', 'I was just informed a moment ago.', [(191, 'Мне только что сообщили')], ''),
+    ('kostya', 'Мне только что сообщили.', 'I was just informed a moment ago.', [(191, 'Мне только что сообщили')], ''),
     ('kostya', 'На счастье!', 'For good luck!', [(192, 'На счастье')], ''),
-    ('anya', 'Ну, конечно, на счастье!', 'Well, of course, for good luck!', [(193, 'Ну, конечно, на счастье')], ''),
+    ('kostya', 'Ну, конечно, на счастье!', 'Well, of course, for good luck!', [(193, 'Ну, конечно, на счастье')], ''),
     ('kostya', 'Бейте на здоровье!', "Smash away to your heart's content!", [(194, 'Бейте на здоровье')], ''),
-    ('anya', 'Вбей ему это счастье в счет.', 'Put all of that good luck straight onto his bill.', [(196, 'Вбей ему это счастье в счет')], ''),
+    ('kostya', 'Вбей ему это счастье в счет.', 'Put all of that good luck straight onto his bill.', [(196, 'Вбей ему это счастье в счет')], ''),
     ('kostya', 'Все переколотит.', 'He is going to smash every dish we have.', [(197, 'Все переколотит')], ''),
-    ('anya', 'Зря ты сюда пришел, старик.', 'You should not have come back here, pal.', [(198, 'Зря ты сюда пришел, старик')], ''),
+    ('kostya', 'Зря ты сюда пришел, старик.', 'You should not have come back here, pal.', [(198, 'Зря ты сюда пришел, старик')], ''),
     ('kostya', 'Шеф реально тебя прибьет, если увидит.', 'The Chef will literally kill you if he sees you.', [(199, 'Шеф реально тебя прибьет, если увидит')], ''),
-    ('anya', 'Я от него не отстану.', 'I am not going to leave him alone.', [(200, 'я от него не отстану')], ''),
+    ('kostya', 'Я от него не отстану.', 'I am not going to leave him alone.', [(200, 'я от него не отстану')], ''),
     ('kostya', 'Пока я с ним нормально не поговорю.', 'Not until I have a proper talk with him.', [(200, 'Пока я с ним нормально не поговорю')], ''),
-    ('anya', 'Тебя тоже когда-нибудь повезет.', 'You will get lucky one day too.', [(201, 'тебя тоже когда-нибудь повезет')], ''),
+    ('kostya', 'Тебя тоже когда-нибудь повезет.', 'You will get lucky one day too.', [(201, 'тебя тоже когда-нибудь повезет')], ''),
     ('kostya', 'Мне уже повезло.', 'I have already gotten lucky.', [(202, 'Мне уже повезло')], ''),
 ]
 
@@ -46,6 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 11 of Episode 20, listen out for the exchange around smashing plates for good luck — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('kostya', 'Мне уже повезло.')
+OUTRO = 'That wraps up this scene as as the wedding banquet begins, an enthusiastic guest keeps smashing restaurant plates on the floor for good luck, while Kostya warns Max not to let the Chef catch him. Until next time!'
+CLOSING = ("kostya", "До завтра!")

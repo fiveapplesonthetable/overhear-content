@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мы актёры. | We are actors. | #187 00:15:55: Мы актеры | verbatim |
-| 2 | Аня | Можем съесть всё что угодно, но за большие деньги. | We can eat anything at all, but for big money. | #188 00:15:57: все что угодно<br>#188 00:15:57: но за большие деньги | adapted: adapted |
-| 3 | Аня | За большие деньги! | For big money! | #189 00:16:03: За большие деньги | verbatim |
-| 4 | Аня | Я бесплатно сегодня это кушал. | I ate this for free today. | #190 00:16:05: Я бесплатно сегодня это кушал | adapted: adapted |
-| 5 | Аня | Значит, ты, ты и ты в этом месяце работаете бесплатно. | So you, you, and you are working for free this month. | #191 00:16:11: Значит, ты, ты и ты в этом месяце работаете бесплатно | verbatim |
+| 1 | Нагиев | Мы актёры. | We are actors. | #187 00:15:55: Мы актеры | verbatim |
+| 2 | Нагиев | Можем съесть всё что угодно, но за большие деньги. | We can eat anything at all, but for big money. | #188 00:15:57: все что угодно<br>#188 00:15:57: но за большие деньги | adapted: adapted |
+| 3 | Нагиев | За большие деньги! | For big money! | #189 00:16:03: За большие деньги | verbatim |
+| 4 | Нагиев | Я бесплатно сегодня это кушал. | I ate this for free today. | #190 00:16:05: Я бесплатно сегодня это кушал | adapted: adapted |
+| 5 | Нагиев | Значит, ты, ты и ты в этом месяце работаете бесплатно. | So you, you, and you are working for free this month. | #191 00:16:11: Значит, ты, ты и ты в этом месяце работаете бесплатно | verbatim |
 | 6 | Шеф | Понятно. | Understood. | #192 00:16:15: Понятно | verbatim |
-| 7 | Аня | Чуть не забыл. Ты тоже. | I almost forgot. You too. | #193 00:16:17: Чуть не забыл<br>#194 00:16:20: Ты тоже | adapted: adapted |
-| 8 | Лёва | Представляешь, у них три су-шефа. | Can you imagine, they have three sous-chefs. | #195 00:16:25: Представляешь, у них три су-шефа | verbatim |
-| 9 | Лёва | Около тысячи человек. | Around a thousand people. | #196 00:16:27: около тысячи человек | adapted: adapted |
+| 7 | Нагиев | Чуть не забыл. Ты тоже. | I almost forgot. You too. | #193 00:16:17: Чуть не забыл<br>#194 00:16:20: Ты тоже | adapted: adapted |
+| 8 | Нагиев | Представляешь, у них три су-шефа. | Can you imagine, they have three sous-chefs. | #195 00:16:25: Представляешь, у них три су-шефа | verbatim |
+| 9 | Нагиев | Около тысячи человек. | Around a thousand people. | #196 00:16:27: около тысячи человек | adapted: adapted |
 | 10 | Шеф | Ты что хотел сказать? Нагиев оказал медвежью услугу. | What did you want to say? Nagiyev did us a disservice. | #197 00:16:30: Ты что хотел сказать<br>#198 00:16:32: оказал медвежью услугу | adapted: adapted |
-| 11 | Лёва | Шеф! Вас к телефону! | Chef! Phone for you! | #199 00:16:36: Шеф! Вас к телефону | verbatim |
+| 11 | Нагиев | Шеф! Вас к телефону! | Chef! Phone for you! | #199 00:16:36: Шеф! Вас к телефону | verbatim |
 | 12 | Шеф | Извини. Ну иди, иди. | Excuse me. Well go on, go. | #200 00:16:38: Извини. Ну иди, иди | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

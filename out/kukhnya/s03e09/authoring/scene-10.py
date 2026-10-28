@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 10
-TITLE = 'Этап новоселья  (The Housewarming Stage)'
+TITLE = "Этап новоселья  (The Housewarming Stage)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"senya": "Сеня", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = "Back in the kitchen, Senya takes one look at sleepless Max and immediately guesses that Chef Barinov dragged him to a casino. Moments later, the Chef arrives and announces that he is moving out of Lyova's place and into Max's apartment."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'And why are you still in your uniform?' Chef Barinov addresses the listener with the informal singular 'you' alongside 'uniform'."),
     (9, None, "'Go change your clothes, we are moving my things.' Here the Russian phrasing highlights 'come on' before landing on 'to move'."),
     (10, None, "'And afterwards we will celebrate our housewarming.' Chef Barinov brings out the contrast between 'and' and 'then' in a few short words."),
-    (11, None, "'Come on, pal, hang in there tight now.' Notice the reflexive suffix on the verb meaning 'hang in there', turning the action back on the subject."),
+    (11, None, "'Come on, pal, hang in there tight now.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Lyova is finally free of his noisy houseguest, while Max's worst nightmare is just beginning. Let us check in on Kostya's first meeting at the meat factory and Max's desperate plan with Vika."
-CLOSING = ('chef', 'Давай переодевайся, вещи перевезём!')
+OUTRO = "Lyova is finally free of his noisy houseguest, while Max's worst nightmare is just beginning. Let us check in on Kostya's first meeting at the meat factory and Max's desperate plan with Vika. See you next time!"
+CLOSING = ("chef", "Хорошего дня!")

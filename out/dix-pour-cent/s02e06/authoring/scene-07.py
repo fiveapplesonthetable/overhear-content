@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 6
 SCENE = 7
 TITLE = "Ouvrir l'appétit  (Sharpens My Appetite)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Outside Andréa's apartment building after dinner, Hicham gently probes Andréa about her pregnancy and future plans. Andréa feels conflicted about becoming a mother while managing top clients at the Cannes festival. Let's listen to the scene in French first."
 OPENER = "Let's examine Andréa and Hicham's intimate street conversation step by step to explore romantic ambiguity and parenthood."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'Hicham and Andréa share a tender moment on the Parisian pavement as pregnancy forces Andréa to reconsider her priorities before Cannes. Until next time! Until next time.'
-CLOSING = ("lea", "À bientôt!")
+OUTRO = 'Hicham and Andréa share a tender moment on the Parisian pavement as pregnancy forces Andréa to reconsider her priorities before Cannes. See you next time!'
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Merci pour ce très bon dîner, Hicham.', 'Thank you for this very good dinner, Hicham.', [(134, 'Merci pour le dîner.')], ''),
     ('hicham', "Je ne t'ai jamais vue manger autant!", 'I have never seen you eat so much!', [(135, "Je ne t'ai jamais vue manger comme ça.")], ''),

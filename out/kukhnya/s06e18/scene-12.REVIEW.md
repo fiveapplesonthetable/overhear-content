@@ -16,11 +16,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Тимур | У нас два вида бюллетеней. | We have two kinds of ballots. | #202 00:12:35: У нас два вида бюллетеней | adapted: adapted |
 | 5 | Тимур | Взял бюллетень и пошёл проголосовал. | Take a ballot and go vote. | #204 00:12:42: Взял бюллетень, пошел проголосовал | adapted: adapted |
 | 6 | Тимур | Я в кабинке независимый наблюдатель. | In the booth I am an independent observer. | #206 00:12:48: независимый наблюдатель | adapted: adapted |
-| 7 | Аня | Здравствуйте, мой рейс сегодня перенесли. | Hello, they postponed my flight today. | #210 00:13:01: Перенесли<br>#211 00:13:03: Рейс | adapted: adapted |
-| 8 | Аня | Я поэтому ещё не в Японии. | That is why I am not in Japan yet. | #209 00:12:55: Не в Японии | adapted: adapted |
+| 7 | Михаил | Здравствуйте, мой рейс сегодня перенесли. | Hello, they postponed my flight today. | #210 00:13:01: Перенесли<br>#211 00:13:03: Рейс | adapted: adapted |
+| 8 | Михаил | Я поэтому ещё не в Японии. | That is why I am not in Japan yet. | #209 00:12:55: Не в Японии | adapted: adapted |
 | 9 | Михаил | До деловой встречи есть время. | There is time before the business meeting. | #213 00:13:06: Деловая встреча, но до нее еще есть время | adapted: adapted |
 | 10 | Михаил | Так что мы можем пообедать. | So we can have lunch. | #213 00:13:06: так что можем пообедать | adapted: adapted |
-| 11 | Аня | Не могу, я на диете. | I cannot, I am on a diet. | #214 00:13:12: Не могу. Я на<br>#215 00:13:14: на диете | adapted: adapted |
+| 11 | Михаил | Не могу, я на диете. | I cannot, I am on a diet. | #214 00:13:12: Не могу. Я на<br>#215 00:13:14: на диете | adapted: adapted |
 | 12 | Михаил | Давай выпьем по бокалу коньяка. | Let us drink a glass of cognac. | #216 00:13:16: бокал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

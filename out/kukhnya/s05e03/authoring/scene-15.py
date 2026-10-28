@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e03-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 15
-TITLE = 'Жареный угорь вместо полоза  (Fried Eel Instead of the Rat Snake)'
+TITLE = "Жареный угорь вместо полоза  (Fried Eel Instead of the Rat Snake)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = 'When Nagiyev lifts the velvet cloth off the terrarium, the charity guests gasp at a cooked dish instead of the live snake, and Eleonora storms into the kitchen accusing Barinov of cooking the endangered reptile. Listen to the clash.'
@@ -17,15 +17,15 @@ STORY = [
     ('nagiyev', 'Это просто маленькая шутка!', 'This is just a little joke!', [(274, 'Шутка')], 'adapted'),
     ('nagiyev', 'Это сюрприз от нашего усатого клоуна.', 'It is a surprise from our mustachioed clown.', [(275, 'от нашего усатого клоуна')], 'adapted'),
     ('nagiyev', 'Всем большое спасибо за внимание.', 'Thank you all very much for your attention.', [(276, 'Спасибо')], 'adapted'),
-    ('eleonora', 'Зачем ты эту змею убил?', 'Why did you kill that snake?', [(278, 'змею убил')], 'adapted'),
-    ('eleonora', 'Как ты вообще мог это сделать?', 'How could you do that at all?', [(279, 'Как?')], 'adapted'),
-    ('anya', 'Чтобы вкусно её для вас приготовить.', 'In order to cook it deliciously for you.', [(279, 'Чтобы ее приготовить')], 'adapted'),
-    ('anya', 'Ты во всём сама виновата.', 'You are to blame for everything yourself.', [(280, 'Сама виновата')], 'adapted'),
-    ('anya', 'Никто со мной банкет не обсуждал.', 'Nobody discussed the banquet with me.', [(280, 'Никто со мной банкет не обсуждал')], 'verbatim'),
-    ('eleonora', 'Я тебя за это точно уволю!', 'I will definitely fire you for this!', [(281, 'Я тебя уволю')], 'adapted'),
-    ('anya', 'Но по контракту ты не можешь.', 'But under the contract you cannot.', [(281, 'уволю')], 'adapted'),
+    ('nagiyev', 'Зачем ты эту змею убил?', 'Why did you kill that snake?', [(278, 'змею убил')], 'adapted'),
+    ('nagiyev', 'Как ты вообще мог это сделать?', 'How could you do that at all?', [(279, 'Как?')], 'adapted'),
+    ('chef', 'Чтобы вкусно её для вас приготовить.', 'In order to cook it deliciously for you.', [(279, 'Чтобы ее приготовить')], 'adapted'),
+    ('chef', 'Ты во всём сама виновата.', 'You are to blame for everything yourself.', [(280, 'Сама виновата')], 'adapted'),
+    ('chef', 'Никто со мной банкет не обсуждал.', 'Nobody discussed the banquet with me.', [(280, 'Никто со мной банкет не обсуждал')], 'verbatim'),
+    ('nagiyev', 'Я тебя за это точно уволю!', 'I will definitely fire you for this!', [(281, 'Я тебя уволю')], 'adapted'),
+    ('chef', 'Но по контракту ты не можешь.', 'But under the contract you cannot.', [(281, 'уволю')], 'adapted'),
     ('nagiyev', 'Что это сейчас было на сцене?', 'What was that on stage just now?', [(277, 'Итак')], 'adapted'),
-    ('anya', 'Попробуйте наше новое горячее блюдо!', 'Try our new hot dish!', [(279, 'приготовить')], 'adapted'),
+    ('chef', 'Попробуйте наше новое горячее блюдо!', 'Try our new hot dish!', [(279, 'приготовить')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that leaves the charity gala in shock over the supposed cooked snake. Notice how 'nobody discussed the banquet with me' uses the instrumental pronoun 'so mnoy'. See you next time."
-CLOSING = ('eleonora', 'Ты мне ответишь за этот скандал!')
+OUTRO = 'And that leaves the charity gala in shock over the supposed cooked snake. Until next time!'
+CLOSING = ("nagiyev", "До встречи!")

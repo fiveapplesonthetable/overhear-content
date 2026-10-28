@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 8
-TITLE = "Panique à la photocopieuse  (Panic at the Photocopier)"
-LEVEL = "A1 — débutant"
+TITLE = 'Panique à la photocopieuse  (Panic at the Photocopier)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In the quiet hallway at ASK, Gabriel Sarda confides his panic to Andrea Martel. His star client Sandrine Kiberlain is jeopardizing a major movie role to pursue a risky career in comedy. Andrea tries to soothe Gabriel while reflecting on her own stressful routine as a working mother, with sudden consequences. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Startled by her own distraction, Andrea sprints across the office to rescue baby Flora from the copy room. When you watch the episode, listen out for the expressions meaning 'goes' and 'happens'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Startled by her own distraction, Andrea sprints across the office to rescue baby Flora from the copy room. When you watch the episode, listen out for the expressions meaning 'goes' and 'happens'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('gabriel', 'Tout va très mal avec Sandrine Kiberlain.', 'Everything goes very badly with Sandrine Kiberlain.', [(494, 'Juste un petit contretemps sur le film')], ''),
     ('lea', "Qu'est-ce qui se passe sur son tournage?", 'What is happening on her shoot?', [(496, "Qu'est-ce qui se passe ?")], ''),

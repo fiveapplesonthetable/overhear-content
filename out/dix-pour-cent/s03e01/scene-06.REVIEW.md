@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Trouvons une solution très vite pour ce contrat. | Let us find a solution very quickly for this contract. | 124:donc on l'aura ce soir. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the damaged contract. When you watch the episode, listen out for the expressions meaning 'phone' and 'cut off.'. You'll catch them now. See you next time.
+> That's it for this scene around the damaged contract. When you watch the episode, listen out for the expressions meaning 'phone' and 'cut off.'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

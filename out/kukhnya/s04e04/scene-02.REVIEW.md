@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what does it say?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Only one line again.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'Phew, thank goodness.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Oops, sorry, out of habit.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Nothing terrible. Judging by the tests, you are healthy.' In spoken Russian, The doctor omits unnecessary linking verbs so the key idea lands immediately.
-- 'Over the next two days I advise you to work really hard.' The doctor keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Well, what does it say?' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
+- 'Only one line again.' Spoken Russian keeps this brief and expressive, built right around 'again' without extra helper words.
+- 'Phew, thank goodness.' Max pairs 'glory' with 'to God' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Oops, sorry, out of habit.' Notice how Russian puts 'sorry' and 'habit' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Nothing terrible. Judging by the tests, you are healthy.' Here the doctor anchors the thought on 'terrible' and finishes on 'healthy, well; huge', keeping the spoken rhythm brisk and natural.
+- 'Over the next two days I advise you to work really hard.' In everyday Russian, 'next' flows straight into 'to take the trouble, to bother' without extra linking words.
 - 'Excuse me, and how often should we try?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Well, that depends on you.' The doctor keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Some people can manage seven times.' In spoken Russian, The doctor omits unnecessary linking verbs so the key idea lands immediately.
-- 'Well, seven it is then.' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'Well, that depends on you.' Notice how Russian puts 'already' and 'depends' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Some people can manage seven times.' Here the doctor anchors the thought on 'maybe' and finishes on 'time, occasion', keeping the spoken rhythm brisk and natural.
+- 'Well, seven it is then.' Spoken Russian keeps this brief and expressive, built right around 'so, like this' without extra helper words.
 - 'Seven times?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'I mean over the course of two days.' In spoken Russian, The doctor omits unnecessary linking verbs so the key idea lands immediately.
+- 'I mean over the course of two days.' Notice how Russian puts 'is available, I have' and 'day' together in a short, direct phrase where word endings show how the ideas connect.

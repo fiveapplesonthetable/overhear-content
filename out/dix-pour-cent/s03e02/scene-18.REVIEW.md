@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Je suis là avec toi, Catherine. | I am here with you, Catherine. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around catherine's accident. When you watch the episode, listen out for the expressions meaning 'appointment' and 'am waiting for'. You'll catch them now. See you next time.
+> That's it for this scene around catherine's accident. When you watch the episode, listen out for the expressions meaning 'appointment' and 'am waiting for'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

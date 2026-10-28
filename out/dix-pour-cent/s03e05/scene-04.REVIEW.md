@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Nous allons trouver une solution ensemble. | We are going to find a solution together. | 100:on a les fonds, non ? |
 
 ## Part 5 — Outro & Closing
-> Furious over the impending multi-million dollar disaster, Hicham orders Mathias to contain the American fallout immediately. When you watch the episode, listen out for the expressions meaning 'letter' and 'registered'. You'll catch them now. See you next time.
+> Furious over the impending multi-million dollar disaster, Hicham orders Mathias to contain the American fallout immediately. When you watch the episode, listen out for the expressions meaning 'letter' and 'registered'. You'll catch them now. See you next time!
 - **Closing**: `hicham`: *À demain!*

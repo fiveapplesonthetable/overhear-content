@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Нагиев | А Дима сейчас в полной растерянности. | But Dima is in complete bewilderment right now. | #39 00:03:56: А Дима в растерянности | adapted: adapted |
 | 5 | Нагиев | Я вообще не понимаю, что делать. | I do not understand what to do at all. | #40 00:03:58: Я вообще не понимаю, что делать | adapted: adapted |
 | 6 | Нагиев | Она всех друзей моих сторонится. | She shies away from all of my friends. | #41 00:04:01: Друзей моих сторонится | adapted: adapted |
-| 7 | Аня | А от меня что тебе надо? | And what do you need from me? | #43 00:04:05: От меня-то что надо | adapted: adapted |
+| 7 | Шеф | А от меня что тебе надо? | And what do you need from me? | #43 00:04:05: От меня-то что надо | adapted: adapted |
 | 8 | Нагиев | Я её решил на ужин пригласить. | I decided to invite her out to dinner. | #47 00:04:16: Я ее решил на ужин пригласить | adapted: adapted |
 | 9 | Нагиев | С красивыми, умными, интеллигентными людьми. | With handsome, smart, cultured people. | #48 00:04:19: С красивыми, умными, интеллигентными людьми | adapted: adapted |
 | 10 | Нагиев | Лена красивая, умная и интеллигентная. | Lena is beautiful, smart, and cultured. | #49 00:04:22: Лена красивая, умная, интеллигентная | adapted: adapted |
-| 11 | Аня | К сожалению, ничего у нас не получится. | Unfortunately, nothing will work out for us. | #51 00:04:28: Ничего не получится | adapted: adapted |
-| 12 | Аня | Потому что я с ней расстался. | Because I broke up with her. | #52 00:04:29: Я с ней расстался | adapted: adapted |
+| 11 | Шеф | К сожалению, ничего у нас не получится. | Unfortunately, nothing will work out for us. | #51 00:04:28: Ничего не получится | adapted: adapted |
+| 12 | Шеф | Потому что я с ней расстался. | Because I broke up with her. | #52 00:04:29: Я с ней расстался | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I decided to invite her out to dinner.' Dmitry Nagiyev brings out the contrast between 'I' and 'she' in a few short words.
 - 'With handsome, smart, cultured people.' The meaning hinges on 'with' working together with 'people' in spoken Russian.
 - 'Lena is beautiful, smart, and cultured.' In Russian, the idea of 'Lena' flows naturally into 'cultured' without extra filler words. Chef Barinov answers right away.
-- 'Unfortunately, nothing will work out for us.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'will work out'.
+- 'Unfortunately, nothing will work out for us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Because I broke up with her.' Chef Barinov brings out the contrast between 'that is why' and 'what' in a few short words.

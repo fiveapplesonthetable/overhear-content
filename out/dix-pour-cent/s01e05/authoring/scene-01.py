@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 1
-TITLE = "Vous êtes en verre?  (Are You Made of Glass?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Vous êtes en verre?  (Are You Made of Glass?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julie": "emilie", "joey": "marcel", "samir": "theo"}
-LABELS = {"julie": "Julie", "joey": "JoeyStarr", "samir": "Samir"}
+VOICES = {'narrator': 'sky', 'julie': 'emilie', 'joey': 'marcel', 'samir': 'theo'}
+LABELS = {'julie': 'Julie', 'joey': 'JoeyStarr', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = 'In Episode 5 of Dix pour cent, two bitter young rivals, Julie Duhamel and Stéphanie Chazal, have both been cast in the same seventeenth-century period drama, and Andréa and Gabriel have to keep the peace on set. We open in the ASK hallway, where Mathias intercepts Camille with a stern warning. Listen to the full scene in French first — just let the rhythm wash over you.'
 OPENER = "Let's go back through it step by step. In period costume on the lawn of the country house, JoeyStarr grabs Julie by the waist and begins the take."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Julie Gayet and JoeyStarr have locked themselves in their trailers, five days behind schedule, and the producer is picking up the phone to summon their agents Andréa and Gabriel to the country set. See you next time.'
-CLOSING = ("joey", "À demain!")
+OUTRO = 'Julie Gayet and JoeyStarr have locked themselves in their trailers, five days behind schedule, and the producer is picking up the phone to summon their agents Andréa and Gabriel to the country set. See you next time!'
+CLOSING = ('joey', 'À demain!')
 STORY = [
     ('joey', 'Madame.', 'Madam.', [(1, 'Madame')], ''),
     ('julie', "Non! Je n'y crois pas!", 'No! I don', [(2, "Non ! Je n'y crois pas")], ''),

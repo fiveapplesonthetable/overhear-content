@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Je ne sais pas comment me comporter avec vous. | I don | 774:Je ne sais pas comment me comporter avec vous |
 
 ## Part 5 — Outro & Closing
-> Telling the truth finally broke the ice between Andréa and Colette. Next, we join Audrey Fleurot and Mathias at a charity gala, where Mathias has a plan to save Audrey's reputation. See you there.
+> Telling the truth finally broke the ice between Andréa and Colette. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

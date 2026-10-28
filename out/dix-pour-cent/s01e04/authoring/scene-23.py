@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 23
-TITLE = "Audrey renonce au rôle  (Audrey Gives Up the Role)"
-LEVEL = "A1 — débutant"
+TITLE = 'Audrey renonce au rôle  (Audrey Gives Up the Role)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "audrey": "emilie", "mathias": "marcel"}
-LABELS = {"audrey": "Audrey", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
+LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "After comforting young Armelle Borzek over tea and giving her back the role in Augustin's film, Audrey walks out into the street with Mathias. Mathias worked hard to get her the part so she could pay her late taxes, and he is furious that she just gave it away. Let's listen to their argument in French first. Don't worry if it goes fast; you'll catch the main feelings."
 OPENER = "Let's go back through the argument. Audrey starts by blaming Mathias for hiding the truth."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Audrey chooses her children over a six-month shoot abroad, even though she still owes the tax office a huge sum. Keep that useful expression 'to have need of' in mind. See you next time."
-CLOSING = ("audrey", "À bientôt!")
+OUTRO = "Audrey chooses her children over a six-month shoot abroad, even though she still owes the tax office a huge sum. Keep that useful expression 'to have need of' in mind. See you next time!"
+CLOSING = ('audrey', 'À bientôt!')
 STORY = [
     ('audrey', "Augustin avait choisi une autre actrice. C'était horrible.", 'Augustin had chosen another actress. It was horrible.', [(606, 'Augustin avait choisi'), (607, "C'était horrible")], ''),
     ('mathias', "Les acteurs prennent toujours le rôle d'un autre.", 'Actors always take someone else', [(608, 'Les acteurs prennent toujours')], ''),

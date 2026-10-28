@@ -11,11 +11,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Как же они меня все достали! | How sick and tired I am of all of them! | #84 00:07:16: достали | adapted: adapted |
-| 2 | Лёва | Эй, герой, сколько тебя ещё ждать? | Hey, hero, how much longer do we have to wait for you? | #85 00:07:26: сколько тебя ждать | adapted: adapted |
+| 2 | Катя | Эй, герой, сколько тебя ещё ждать? | Hey, hero, how much longer do we have to wait for you? | #85 00:07:26: сколько тебя ждать | adapted: adapted |
 | 3 | Аня | Да, я уже сейчас выхожу. | Yes, I am coming out right now. | #87 00:07:32: сейчас | adapted: adapted |
 | 4 | Аня | Лёва, у меня в глазах темнеет и голова кружится. | Lyova, my vision is going dark and my head is spinning. | #89 00:07:42: у меня в глазах темнеет, голова кружится | adapted: adapted |
 | 5 | Аня | Давление, наверное, может, я дома отлежусь? | It is probably blood pressure, maybe I can rest at home? | #90 00:07:47: Давление, наверное. Может, я домой отлежусь | adapted: adapted |
-| 6 | Лёва | Конечно, езжай домой, я тебя отпускаю. | Of course, go home, I am letting you leave. | #91 00:07:50: Конечно, езжай<br>#92 00:07:53: я тебя отпускаю | adapted: adapted |
+| 6 | Катя | Конечно, езжай домой, я тебя отпускаю. | Of course, go home, I am letting you leave. | #91 00:07:50: Конечно, езжай<br>#92 00:07:53: я тебя отпускаю | adapted: adapted |
 | 7 | Катя | Папа, у тебя совесть вообще есть? | Dad, do you have any conscience at all? | #93 00:08:02: У тебя совесть вообще есть | adapted: adapted |
 | 8 | Аня | Что такое, вы со Стасом поссорились? | What is wrong, did you and Stas have a fight? | #95 00:08:05: Что такое<br>#95 00:08:05: поссорились | adapted: adapted |
 | 9 | Катя | Бери свои деньги, Стас мне всё рассказал! | Take your money, Stas told me everything! | #96 00:08:08: Бери свои деньги, Стас, мне все рассказал | adapted: adapted |

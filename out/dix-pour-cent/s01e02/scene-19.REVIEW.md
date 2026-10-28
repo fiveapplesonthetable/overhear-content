@@ -31,5 +31,5 @@
 | 17 | `lea` (Andréa) | Je pense toujours que le rôle était fait pour vous. | I still think the part was made for you. | 588:Je pense toujours que le rôle était fait pour vous |
 
 ## Part 5 — Outro & Closing
-> Andréa has set her trap with a smile, and you followed a very polite fight in French. Well done, and see you next time.
+> Andréa has set her trap with a smile, and you followed a very polite fight in French. See you next time!
 - **Closing**: `francoise`: *À demain!*

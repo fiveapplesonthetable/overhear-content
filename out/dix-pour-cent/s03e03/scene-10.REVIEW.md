@@ -28,5 +28,5 @@
 | 14 | `emma` (Emma) | Oui, bien sûr, Gérard, je viens tout de suite. | Yes, of course, Gerard, I am coming right away. | 431:je peux vous voir |
 
 ## Part 5 — Outro & Closing
-> Balancing wardrobe measurements with casting emergencies, Gerard Lanvin and Mathias navigate the unpredictable world of film production. When you watch the episode, listen out for the expressions meaning 'suck in' and 'abdomen'. You'll catch them now. See you next time.
+> Balancing wardrobe measurements with casting emergencies, Gerard Lanvin and Mathias navigate the unpredictable world of film production. When you watch the episode, listen out for the expressions meaning 'suck in' and 'abdomen'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

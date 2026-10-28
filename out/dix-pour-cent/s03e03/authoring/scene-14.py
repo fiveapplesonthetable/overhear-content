@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 14
 TITLE = "Les essais de Samy  (Samy's Screen Test)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "samy": "marcel", "emma": "emilie", "gerard": "theo"}
-LABELS = {"samy": "Samy", "emma": "Emma", "gerard": "Gérard"}
+VOICES = {'narrator': 'sky', 'samy': 'marcel', 'emma': 'emilie', 'gerard': 'theo'}
+LABELS = {'samy': 'Samy', 'emma': 'Emma', 'gerard': 'Gérard'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = 'At the movie studio costume workshop, enthusiastic young actor Samy arrives for his first major audition. Meeting established star Gerard Lanvin, he hopes for a full costume, while director Emma watches their chemistry closely. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Pairing a veteran actor with a hungry newcomer brings sparks of creative tension to the audition stage. When you watch the episode, listen out for the expressions meaning 'ma'am' and 'come'. You'll catch them now. See you next time."
-CLOSING = ("gerard", "À bientôt!")
+OUTRO = "Pairing a veteran actor with a hungry newcomer brings sparks of creative tension to the audition stage. When you watch the episode, listen out for the expressions meaning 'ma'am' and 'come'. You'll catch them now. See you next time!"
+CLOSING = ('gerard', 'À bientôt!')
 STORY = [
     ('samy', 'Bonjour, Gérard. Bonjour, madame.', 'Hello, Gerard. Hello, ma', [(620, 'Bonjour, Gérard'), (621, 'Bonjour, madame')], ''),
     ('samy', 'Je suis venu passer des essais.', 'I came to do some screen tests.', [(623, 'Je suis venu passer des essais')], ''),

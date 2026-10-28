@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 4
-TITLE = 'Просто работаем вместе  (Just Working Together)'
+TITLE = "Просто работаем вместе  (Just Working Together)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Nagiyev explains to Chef that he is now just the paid face of the restaurant. Moments later in the dining room, Max approaches Vika to ask about their relationship, and she tells him they are strictly coworkers.'
@@ -22,10 +22,10 @@ STORY = [
     ('nagiyev', 'Прости меня, друг, так уж вышло.', 'Forgive me, my friend, that is how it turned out.', [(60, 'Прости, друг')], 'adapted'),
     ('anya', 'Вика, можно тебя попросить на одну секунду?', 'Vika, may I have a word with you for one second?', [(61, 'Вика, можно на секунду')], 'adapted'),
     ('anya', 'Скажи мне, как вообще твои дела?', 'Tell me, how are things with you?', [(62, 'Как твои дела')], 'adapted'),
-    ('vika', 'Хорошо. Ты чего-то хотел по работе?', 'Fine. Did you want something regarding work?', [(63, 'Хорошо')], 'adapted'),
+    ('nagiyev', 'Хорошо. Ты чего-то хотел по работе?', 'Fine. Did you want something regarding work?', [(63, 'Хорошо')], 'adapted'),
     ('anya', 'Я просто хотел услышать, что всё хорошо.', 'I just wanted to hear that everything is fine.', [(64, 'Просто хотел услышать, что у тебя все хорошо')], 'adapted'),
     ('anya', 'Для меня это самое главное в жизни.', 'For me that is the most important thing in life.', [(65, 'Для меня это самое главное в жизни')], 'adapted'),
-    ('vika', 'Расслабься, мы теперь просто работаем вместе.', 'Relax, we just work together now.', [(68, 'Просто работаем вместе')], 'adapted'),
+    ('nagiyev', 'Расслабься, мы теперь просто работаем вместе.', 'Relax, we just work together now.', [(68, 'Просто работаем вместе')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Vika keeps her guard up and walks away, leaving Max worried about what will happen if she hears about Katya.'
-CLOSING = ('vika', 'Мы просто работаем тут вместе.')
+OUTRO = 'Vika keeps her guard up and walks away, leaving Max worried about what will happen if she hears about Katya. See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

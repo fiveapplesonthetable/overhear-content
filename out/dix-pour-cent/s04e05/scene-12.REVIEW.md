@@ -27,5 +27,5 @@
 | 13 | `bernard` (Bernard) | Non, c'est trop de pas! | No, that is too many steps! | 631:Bernard ? Qu'est-ce qui se passe ?, 632:Trop de pas ! |
 
 ## Part 5 — Outro & Closing
-> Faced with Sigourney's unstoppable energy and dozens of dancing steps, Bernard Verley runs for the door. When you watch the episode, listen out for the expressions meaning 'like' and 'project'. You'll catch them now. See you next time.
+> Faced with Sigourney's unstoppable energy and dozens of dancing steps, Bernard Verley runs for the door. When you watch the episode, listen out for the expressions meaning 'like' and 'project'. You'll catch them now. See you next time!
 - **Closing**: `sigourney`: *Au revoir!*

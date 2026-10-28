@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 10
-TITLE = 'Чебуреки во французском меню  (Chebureki on the French Menu)'
+TITLE = "Чебуреки во французском меню  (Chebureki on the French Menu)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "Emerging from his meeting with Vika, Chef Barinov stuns the kitchen by ordering everyone to obey all the new rules—and even welcomes Vika's proposal to put okroshka and chebureki on the menu!"
@@ -37,14 +37,14 @@ WALK = [
     (3, None, "'I do not understand at all, why put on gloves?' The grammar packs 'I' and 'gloves' into a tight, idiomatic kitchen exchange."),
     (4, None, "'Kitchen, attention! We will operate by the new rules!' In Russian, the idea of 'cuisine' flows naturally into 'by the rules' without extra filler words."),
     (5, None, "'Chef, you said that you decide everything here!' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'to decide'. Chef Barinov answers right away."),
-    (6, None, "'This is my new firm decision.' In Russian, the idea of 'this' flows naturally into 'decision' without extra filler words."),
+    (6, None, "'This is my new firm decision.' Chef Barinov pairs 'there is' with 'decision, ruling, solution' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (7, None, "'Sorry to interrupt, I am here about the new menu.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'menu'."),
     (8, None, "'We need to add okroshka, salad, and chebureki to it.' Notice how Russian expresses 'needed' and 'chebureki' with crisp inflection rather than helper words. Chef Barinov answers right away."),
     (9, None, "'Well, team, it is time for us to experiment!' Here the Russian phrasing highlights 'come on' before landing on 'to experiment'."),
-    (10, None, "'Listen, what on earth happened to him all of a sudden?' Notice the reflexive suffix on the verb meaning 'happened', turning the action back on the subject."),
+    (10, None, "'Listen, what on earth happened to him all of a sudden?' Max pairs 'listen' with 'happened' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'It seems they simply bribed our Chef.' The meaning hinges on 'it seems' working together with 'chef' in spoken Russian."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Seeing Chef Barinov cheerfully embrace chebureki in his French restaurant, Fedya and Senya immediately suspect a bribe.'
-CLOSING = ('chef', 'Команда, нам пора экспериментировать!')
+OUTRO = 'Seeing Chef Barinov cheerfully embrace chebureki in his French restaurant, Fedya and Senya immediately suspect a bribe. See you next time!'
+CLOSING = ("chef", "Хорошего дня!")

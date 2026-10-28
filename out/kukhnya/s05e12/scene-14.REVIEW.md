@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Настя | Ну так, к слову пришлось! | Well it was just a figure of speech! | #233 00:15:41: Ну, так, к слову пришлось | adapted: adapted |
 | 9 | Аня | Куда они собрались, а? | Where are they heading, huh? | #234 00:15:46: Куда они собрались, а | adapted: adapted |
 | 10 | Настя | Вика сказала, что номер снимет. | Vika said that she would book a room. | #235 00:15:49: Вика сказала, что номер снимет | adapted: adapted |
-| 11 | Аня | Егор, слушай, Виктория Сергеевна попросила отнести это вино в номер, который она сняла. | Yegor, listen, Viktoriya Sergeyevna asked me to take this wine to the room she booked. | #236 00:16:01: Егор, слушай, Виктория Сергеевна попросила отнести это вино в номер<br>#237 00:16:06: который она сняла | adapted: adapted |
+| 11 | Аня | Виктория Сергеевна попросила отнести это вино в номер, который она сняла. | Viktoriya Sergeyevna asked me to take this wine to the room she booked. | #236 00:16:01: Виктория Сергеевна попросила отнести это вино в номер<br>#237 00:16:06: который она сняла | adapted: adapted |
 | 12 | Аня | Дай ключ, пожалуйста! | Give me the key, please! | #237 00:16:06: Дай ключ, пожалуйста | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well it was just a figure of speech!' Nastya anchors the line on 'come on', while 'had to' completes the thought. Max answers right away.
 - 'Where are they heading, huh?' In Russian, the idea of 'where to' flows naturally into 'and' without extra filler words.
 - 'Vika said that she would book a room.' The meaning hinges on 'Vika' working together with 'will rent' in spoken Russian.
-- 'Yegor, listen, Viktoriya Sergeyevna asked me to take this wine to the room she booked.' The grammar packs 'Yegor' and 'rented' into a tight, idiomatic kitchen exchange.
+- 'Viktoriya Sergeyevna asked me to take this wine to the room she booked.' Max pairs 'asked' with 'filmed, took a video of' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Give me the key, please!' Max brings out the contrast between 'give' and 'key' in a few short words.

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 2
-TITLE = 'Опоздание и спор у входа  (Late Arrival and an Argument Outside)'
+TITLE = "Опоздание и спор у входа  (Late Arrival and an Argument Outside)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina", "guest": "anja"}
+LABELS = {"anya": "Макс", "lyova": "Лёва", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = "Max arrives five minutes late and calls Chef Barinov a 'mustachioed walrus,' so Lyova punishes him by making him haul out all the trash—where Max confronts a rude driver blocking the walkway. Listen to the Russian dialogue first."
@@ -36,7 +36,7 @@ WALK = [
     (1, None, "'Five minutes is not being late.' Here the Russian phrasing highlights 'five' before landing on 'lateness'."),
     (2, None, "'If the mustachioed walrus asks, I arrived on time.' Here the Russian phrasing highlights 'if' before landing on 'on time'."),
     (3, None, "'Then you get a fine of half a paycheck.' The meaning hinges on 'then' working together with 'half a paycheck' in spoken Russian."),
-    (4, None, "'Be late one more time and you will be left without a paycheck.' Notice the reflexive suffix on the verb meaning 'will stay', turning the action back on the subject. Max answers right away."),
+    (4, None, "'Be late one more time and you will be left without a paycheck.' Here Lyova anchors the thought on 'else/more' and finishes on 'will stay, remain', keeping the spoken rhythm brisk and natural."),
     (5, None, "'Lyova, but that is unfair!' The meaning hinges on 'Lyova' working together with 'unfair' in spoken Russian."),
     (6, None, "'And for the walrus comment, you are taking out the trash all day.' In Russian, the idea of 'and' flows naturally into 'take out' without extra filler words."),
     (7, None, "'Now everything is fair, right?' Spoken Russian keeps this brisk, leaning on 'now' and finishing on 'yes'. Max answers right away."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Talking tough to the wrong driver is a big mistake for Max. Let's hear what happens when the driver steps out of his car in the next scene."
-CLOSING = ('anya', 'Здесь вообще-то люди ходят.')
+OUTRO = 'Talking tough to the wrong driver is a big mistake for Max. See you next time!'
+CLOSING = ("anya", "Увидимся!")

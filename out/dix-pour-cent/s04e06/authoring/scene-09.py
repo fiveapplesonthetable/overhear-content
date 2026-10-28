@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 9
-TITLE = "Il sera là dans 5 minutes  (He will be here in 5 minutes)"
-LEVEL = "A1 — débutant"
+TITLE = 'Il sera là dans 5 minutes  (He will be here in 5 minutes)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "arlette": "emilie"}
-LABELS = {"gabriel": "Gabriel", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'arlette': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Gabriel tells Arlette that the man is coming. We will hear it in French first, don't worry about catching every word. Just listen to the rhythm and try to spot familiar phrases as Gabriel nervously speaks."
 OPENER = "Let's go back through it. Gabriel reassures Arlette."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around he will be here in 5 minutes, and for the words meaning 'to worry' and 'to be'. You'll catch them now. See you next time."
-CLOSING = ("arlette", "Bonne journée!")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around he will be here in 5 minutes, and for the words meaning 'to worry' and 'to be'. You'll catch them now. See you next time!"
+CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('gabriel', "Ne t'inquiète pas, Arlette.", 'Do not worry, Arlette.', [], ''),
     ('arlette', 'Il est vraiment parti?', 'Is he really gone?', [], ''),

@@ -1,39 +1,39 @@
-# kukhnya-s02e03-scene-10: review sheet
+# Без машины  (Without a Car) — `kukhnya-s02e03-scene-10`
 
-Title: Без машины  (Without a Car)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.03
+**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `sasha` | anja | Саша |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Max and Sasha are relaxing together after work. They are joking around, but then Sasha asks Max how he plans to get home without his car. Let's listen closely to their conversation in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Хорошо с тобой. | I feel good with you. | #174 00:10:53: Хорошо с тобой | verbatim |
-| 2 | Саша | Мне тоже хорошо. | I feel good too. | #175 00:10:55: Мне тоже хорошо | verbatim |
-| 3 | Саша | Особенно когда ты без одежды. | Especially when you are without clothes. | #175 00:10:55: Особенно голота без одежды | adapted: fixed subtitle typo голота to когда ты |
-| 4 | Макс | Ты очень смешная. | You are very funny. | new | new |
-| 5 | Саша | Я серьезно. | I am serious. | new | new |
-| 6 | Макс | Я знаю. | I know. | new | new |
-| 7 | Саша | Тебе вызвать такси? | Should I call you a taxi? | #177 00:11:04: Может, тебе такси вызвать | verbatim |
-| 8 | Макс | Зачем? | Why? | #178 00:11:07: Чего | verbatim |
-| 9 | Саша | Ты сегодня без машины. | You are without a car today. | #179 00:11:08: ты ж сегодня без машины | verbatim |
-| 10 | Саша | Как ты будешь добираться домой? | How will you get home? | #180 00:11:10: Как тогда дома добираться будешь | verbatim |
-| 11 | Макс | Я поеду на метро. | I will go by subway. | new | new |
-| 12 | Саша | Метро уже закрыто. | The subway is already closed. | new | new |
+| 0 | Макс | Хорошо с тобой. | I feel good with you. | #174 "Хорошо с тобой" |  |
+| 1 | Саша | Мне тоже хорошо. | I feel good too. | #175 "Мне тоже хорошо" |  |
+| 2 | Саша | Особенно когда ты без одежды. | Especially when you are without clothes. | #175 "Особенно голота без одежды" |  |
+| 3 | Макс | Ты очень смешная. | You are very funny. | *(added)* |  |
+| 4 | Саша | Я серьезно. | I am serious. | *(added)* |  |
+| 5 | Макс | Я знаю. | I know. | *(added)* |  |
+| 6 | Саша | Тебе вызвать такси? | Should I call you a taxi? | #177 "Может, тебе такси вызвать" |  |
+| 7 | Макс | Зачем? | Why? | #178 "Чего" |  |
+| 8 | Саша | Ты сегодня без машины. | You are without a car today. | #179 "ты ж сегодня без машины" |  |
+| 9 | Саша | Как ты будешь добираться домой? | How will you get home? | #180 "Как тогда дома добираться будешь" |  |
+| 10 | Макс | Я поеду на метро. | I will go by subway. | *(added)* |  |
+| 11 | Саша | Метро уже закрыто. | The subway is already closed. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'I feel good with you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'good'.
-- 'I feel good too.' Russian omits the present-tense verb 'to be' here, linking 'too' directly with 'good', combining 'too' with 'good'.
-- 'Especially when you are without clothes.' Russian omits the present-tense verb 'to be' here, linking 'especially' directly with 'when', combining 'especially' with 'when' and 'clothes'.
-- 'You are very funny.' Russian omits the present-tense verb 'to be', connecting 'you' directly with 'funny'.
-- 'I am serious.' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'seriously'.
-- 'I know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'Should I call you a taxi?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'to call', followed by 'taxi'.
-- 'Why?' Max asks this with a single word meaning 'what for', using rising intonation to turn it into a quick question.
-- 'You are without a car today.' Sasha uses the informal singular 'you' here with 'cars', as friends and close colleagues do.
-- 'How will you get home?' Here Sasha anchors the line on the word meaning 'how' and builds the thought around 'will' and 'get to'.
-- 'I will go by subway.' Max uses the perfective verb meaning 'will go' to focus on the single completed result, pairing it with 'metro'.
-- 'The subway is already closed.' Sasha expresses this naturally by combining the word for 'metro' with 'already' and 'to close'.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around without a car, and for the words meaning 'clothes' and 'funny'. You'll catch them now. See you next time.
+
+**Макс:** До встречи!

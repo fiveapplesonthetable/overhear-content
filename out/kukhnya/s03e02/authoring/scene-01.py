@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e02-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 1
 TITLE = "Терпение официанта  (A Waiter's Patience)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja"}
+LABELS = {"anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = 'In Episode Two of Season Three, Max reflects on what quality matters most for a waiter at Claude Monet: not just manners or dramatic presentation, but endless patience with indecisive guests.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'What are you doing? He ordered just coffee!' An emphatic spoken line centered on the verb meaning 'are doing'. the guest answers right away."),
     (9, None, "'Coffee? Yes, give me an espresso coffee.' The grammar packs 'coffee' and 'espresso' into a tight, idiomatic kitchen exchange."),
     (10, None, "'And here, keep the change.' The meaning hinges on 'and' working together with 'need' in spoken Russian."),
-    (11, None, "'Sometimes patience is very generously rewarded.' Notice the reflexive suffix on the verb meaning 'is rewarded', turning the action back on the subject."),
+    (11, None, "'Sometimes patience is very generously rewarded.' Max pairs 'at times, sometimes' with 'is rewarded' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes our opening scene. Listen for the contrast between the guest who orders a single coffee after ten minutes and the guest who leaves a generous tip.'
-CLOSING = ('anya', 'Главное — это терпение!')
+OUTRO = 'And that finishes our opening scene. Listen for the contrast between the guest who orders a single coffee after ten minutes and the guest who leaves a generous tip. Until next time!'
+CLOSING = ("anya", "До завтра!")

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 3
 TITLE = "Matin agité à l'agence ASK  (Hectic Morning at the ASK Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "noemie": "emilie", "herve": "marcel"}
-LABELS = {"gabriel": "Gabriel", "noemie": "Noémie", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'noemie': 'emilie', 'herve': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'noemie': 'Noémie', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "The next morning at the ASK agency reception desk, Noémie is busy fielding phone calls from fans. Gabriel arrives looking for Camille while Hervé brings the morning mail. Suddenly a shocking magazine cover catches their attention. Let's listen to the scene in French first."
 OPENER = "Let's examine how normal agency banter suddenly turns into an emergency."
 TRANSITION = "Now let's listen to the whole morning scene at ASK again without pausing."
 OUTRO = "The tabloid magazine is on newsstands everywhere, threatening Virginie and Ramzy's film release. The agents must quickly find a way to manage the fallout. See you next time!"
-CLOSING = ("gabriel", "Au revoir!")
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', 'Camille est là? Où est-elle?', 'Is Camille here? Where is she?', [(72, 'Camille est là ?'), (73, 'Mais elle est où')], ''),
     ('noemie', "Camille n'est pas encore arrivée.", 'Camille has not arrived yet.', [(72, 'Pas encore.')], ''),

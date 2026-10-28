@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What else could I have told you?' Notice how Russian expresses 'and' and 'say' with crisp inflection rather than helper words. Nastya answers right away.
 - 'You could have told me the exact truth.' In Russian, the idea of 'exactly' flows naturally into 'say' without extra filler words.
 - 'Because I was afraid that you would not like me.' In Russian, the idea of 'because' flows naturally into 'to be liked' without extra filler words.
-- 'And I really want you to like me.' Notice the reflexive suffix on the verb meaning 'to be liked', turning the action back on the subject. Nastya answers right away.
+- 'And I really want you to like me.' In everyday Russian, 'very' flows straight into 'to be liked' without extra linking words.
 - 'I am on my way to the airport.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'the airport'.
 - 'Even when it seems like the right step.' Sasha anchors the line on 'even', while 'correct' completes the thought.
 - 'The main thing is that mom never finds out.' The negative particle sits right before the verb meaning 'to recognise' to negate the statement. Nastya answers right away.

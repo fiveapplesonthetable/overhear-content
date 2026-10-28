@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | А у меня для тебя сюрприз! | And I have a surprise for you! | #250 00:17:18: А у меня для тебя сюрприз | adapted: adapted |
-| 2 | Аня | Неужели наш гость наконец съехал? | Could it be that our guest finally moved out? | #251 00:17:20: съехал | adapted: adapted |
+| 2 | Костя | Неужели наш гость наконец съехал? | Could it be that our guest finally moved out? | #251 00:17:20: съехал | adapted: adapted |
 | 3 | Настя | Нет, ты совсем не угадал. | No, you did not guess right at all. | #251 00:17:20: Не угадал | adapted: adapted |
 | 4 | Настя | Скажите, в комнате уже всё готово? | Tell me, is everything ready in the room already? | #252 00:17:23: там готово все | adapted: adapted |
-| 5 | Гость | Да, всё готово, заходите скорее! | Yes, everything is ready, come on in! | #253 00:17:25: готово<br>#254 00:17:27: Заходите | adapted: adapted |
+| 5 | Костя | Да, всё готово, заходите скорее! | Yes, everything is ready, come on in! | #253 00:17:25: готово<br>#254 00:17:27: Заходите | adapted: adapted |
 | 6 | Настя | Это всё его отличная работа. | This is all his excellent work. | #255 00:17:42: Твоя работа | adapted: adapted |
 | 7 | Настя | Он большой, как ты и хотел. | It is big, just like you wanted. | #256 00:17:44: Как ты и хотел<br>#257 00:17:46: Большой | adapted: adapted |
-| 8 | Аня | Только я хотел купить свой телевизор. | Only I wanted to buy my own television. | #259 00:18:00: Только я свой хотел | adapted: adapted |
-| 9 | Аня | А от него мне ничего не надо! | And I do not want anything at all from him! | #260 00:18:03: мне вообще ничего не надо | adapted: adapted |
-| 10 | Аня | Не понял, где ты деньги взял? | I do not get it, where did you get the money? | #261 00:18:09: Я не понял, ты вообще где деньги взял | adapted: adapted |
-| 11 | Аня | У тебя же украли их в метро! | They were stolen from you on the metro! | #262 00:18:10: У тебя же украли их | adapted: adapted |
-| 12 | Аня | Или у тебя не все деньги украли? | Or did they not steal all your money? | #263 00:18:13: Может, не все украли | adapted: adapted |
+| 8 | Костя | Только я хотел купить свой телевизор. | Only I wanted to buy my own television. | #259 00:18:00: Только я свой хотел | adapted: adapted |
+| 9 | Костя | А от него мне ничего не надо! | And I do not want anything at all from him! | #260 00:18:03: мне вообще ничего не надо | adapted: adapted |
+| 10 | Костя | Не понял, где ты деньги взял? | I do not get it, where did you get the money? | #261 00:18:09: Я не понял, ты вообще где деньги взял | adapted: adapted |
+| 11 | Костя | У тебя же украли их в метро! | They were stolen from you on the metro! | #262 00:18:10: У тебя же украли их | adapted: adapted |
+| 12 | Костя | Или у тебя не все деньги украли? | Or did they not steal all your money? | #263 00:18:13: Может, не все украли | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

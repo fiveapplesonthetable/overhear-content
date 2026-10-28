@@ -15,13 +15,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Сеня | На киргизском языке. | In the Kyrgyz language. | #86 00:07:05: на киргизском языке | adapted: adapted |
 | 4 | Сеня | Это ей точно понравится. | She will definitely like that. | #87 00:07:08: это ей точно понравится | adapted: adapted |
 | 5 | Сеня | Вот что ты ей хочешь сказать? | Now what do you want to say to her? | #88 00:07:12: Вот что ты ей хочешь сказать | adapted: adapted |
-| 6 | Аня | У тебя очень красивые глаза. | You have very beautiful eyes. | #90 00:07:17: У тебя очень красивые глаза | adapted: adapted |
-| 7 | Аня | Я очень рад с тобой познакомиться. | I am very glad to meet you. | #91 00:07:22: Я очень рад с тобой познакомиться | adapted: adapted |
+| 6 | Сеня | У тебя очень красивые глаза. | You have very beautiful eyes. | #90 00:07:17: У тебя очень красивые глаза | adapted: adapted |
+| 7 | Сеня | Я очень рад с тобой познакомиться. | I am very glad to meet you. | #91 00:07:22: Я очень рад с тобой познакомиться | adapted: adapted |
 | 8 | Шеф | Ты что, не видел, что я здесь стою? | Did you not see that I am standing here? | #92 00:07:34: Ты что, не видел, что я здесь стою | adapted: adapted |
-| 9 | Аня | Извините, шеф. | Excuse me, chef. | #92 00:07:34: я здесь стою | adapted: adapted |
-| 10 | Аня | Чего шеф сегодня такой злой? | Why is the chef so angry today? | #94 00:07:41: Чего, Сим, Сим, такой | adapted: adapted |
+| 9 | Сеня | Извините, шеф. | Excuse me, chef. | #92 00:07:34: я здесь стою | adapted: adapted |
+| 10 | Сеня | Чего шеф сегодня такой злой? | Why is the chef so angry today? | #94 00:07:41: Чего, Сим, Сим, такой | adapted: adapted |
 | 11 | Сеня | Он весь день ест этот сельдерей. | He has been eating this celery all day. | #95 00:07:43: Он весь день есть этот пихотивный сельдерейп | adapted: adapted |
-| 12 | Аня | А, ну понятно. | Ah, well that makes sense. | #97 00:07:48: А, ну понятно | adapted: adapted |
+| 12 | Сеня | А, ну понятно. | Ah, well that makes sense. | #97 00:07:48: А, ну понятно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Excuse me, chef.' Here the Russian phrasing highlights 'excuse me' before landing on 'proper name'.
 - 'Why is the chef so angry today?' Lyova anchors the line on 'what', while 'angry' completes the thought.
 - 'He has been eating this celery all day.' Senya anchors the line on 'he', while 'celery' completes the thought.
-- 'Ah, well that makes sense.' The grammar packs 'and' and 'understood' into a tight, idiomatic kitchen exchange.
+- 'Ah, well that makes sense.' Lyova centers this short reply on 'understood', letting a few direct words carry the whole meaning.

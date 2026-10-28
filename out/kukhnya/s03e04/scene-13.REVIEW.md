@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Нагиев | Я что, не гость? Поэтому иди на кухню. | What, am I not a guest? So go to the kitchen. | #180 00:11:44: Я что, не гость<br>#181 00:11:48: Поэтому иди на кухню | adapted: adapted |
 | 6 | Нагиев | Принеси что-нибудь вкусненькое ещё. | Bring something else tasty. | #182 00:11:50: Принеси что-нибудь вкусненькое еще | verbatim |
 | 7 | Нагиев | Шагом марш! | Quick march! | #183 00:11:52: Шагом марш | verbatim |
-| 8 | Вика | А насчёт нашего последнего разговора... | And regarding our last conversation... | #184 00:11:56: насчет нашего последнего разговора | verbatim |
+| 8 | Нагиев | А насчёт нашего последнего разговора... | And regarding our last conversation... | #184 00:11:56: насчет нашего последнего разговора | verbatim |
 | 9 | Нагиев | Я всё вижу! Я сказал, на кухню! | I see everything! I said, to the kitchen! | #185 00:11:59: я все вижу<br>#186 00:12:01: Я сказал на кухню | adapted: adapted |
 | 10 | Нагиев | Быстро марш! | Quick, march! | #187 00:12:04: марш | adapted: adapted |
 | 11 | Аня | Вика, давай не сейчас, а? | Vika, let's not do this right now, okay? | #187 00:12:04: Вика, давай не сейчас, а | verbatim |
@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Here you are, please.' Max brings out the contrast between 'ask for' and 'you' in a few short words.
 - 'Do you want anything else? It's just that the kitchen is closing.' In Russian, the idea of 'something' flows naturally into 'is closing' without extra filler words.
-- 'The kitchen is closing, and you and Katya are staying until the last guest.' Notice the reflexive suffix on the verb meaning 'is closing', turning the action back on the subject. Max answers right away.
+- 'The kitchen is closing, and you and Katya are staying until the last guest.' In everyday Russian, 'cuisine' flows straight into 'guest, visitor' without extra linking words.
 - 'What do you mean, staying? All the guests have already left.' Max brings out the contrast between 'how' and 'stay' in a few short words.
 - 'What, am I not a guest? So go to the kitchen.' The grammar packs 'I' and 'kitchen' into a tight, idiomatic kitchen exchange.
 - 'Bring something else tasty.' The grammar packs 'bring' and 'else' into a tight, idiomatic kitchen exchange.

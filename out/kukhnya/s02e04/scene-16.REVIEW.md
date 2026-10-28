@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А где, Виктор Петрович? | And where is Viktor Petrovich? | #264 00:18:07: А где, Виктор Петрович | verbatim |
+| 1 | Шеф | А где, Виктор Петрович? | And where is Viktor Petrovich? | #264 00:18:07: А где, Виктор Петрович | verbatim |
 | 2 | Вика | Хорошо, рулет мой готов? | All right, is my meat roll ready? | #265 00:18:09: Хорошо, рулет мой готов | verbatim |
-| 3 | Аня | Не знаю. | I do not know. | #266 00:18:12: Не знаю | verbatim |
+| 3 | Шеф | Не знаю. | I do not know. | #266 00:18:12: Не знаю | verbatim |
 | 4 | Вика | Другие слова. | Different words. | #268 00:18:18: Другие слова | verbatim |
-| 5 | Аня | Нравятся вам такие слова? | Do you like words like that? | #270 00:18:23: Нравятся вам такие слова | verbatim |
+| 5 | Шеф | Нравятся вам такие слова? | Do you like words like that? | #270 00:18:23: Нравятся вам такие слова | verbatim |
 | 6 | Вика | Значит, Витя вам свою правду уже рассказал. | So Vitya has already told you his version of the truth. | #272 00:18:30: Значит, Витя вам свою правду уже рассказал | verbatim |
-| 7 | Аня | Слушайте, а хотите мою версию послушать? | Listen, would you like to hear my version? | #275 00:18:40: Слушайте, а хотите мою версию послушать | verbatim |
+| 7 | Шеф | Слушайте, а хотите мою версию послушать? | Listen, would you like to hear my version? | #275 00:18:40: Слушайте, а хотите мою версию послушать | verbatim |
 | 8 | Вика | А я все-таки расскажу. | I am going to tell you anyway. | #277 00:18:48: А я все-таки расскажу | verbatim |
-| 9 | Аня | Я был влюблен в кухню. | I was in love with the kitchen. | #279 00:18:54: Я был влюблен в кухню | verbatim |
+| 9 | Шеф | Я был влюблен в кухню. | I was in love with the kitchen. | #279 00:18:54: Я был влюблен в кухню | verbatim |
 | 10 | Вика | И Виктор Петрович. | And Viktor Petrovich. | #280 00:18:56: И Виктор Петрович | verbatim |
-| 11 | Аня | Он не был моим учителем. | He was not just my teacher. | #281 00:18:59: Он не был моим учителем | verbatim |
+| 11 | Шеф | Он не был моим учителем. | He was not just my teacher. | #281 00:18:59: Он не был моим учителем | verbatim |
 | 12 | Вика | Он был для меня богом. | He was a god to me. | #282 00:19:02: Он был для меня богом | verbatim |
-| 13 | Аня | И в казино до утра посидеть. | And sit in the casino until morning. | #284 00:19:10: И в казино до утра посидеть | verbatim |
+| 13 | Шеф | И в казино до утра посидеть. | And sit in the casino until morning. | #284 00:19:10: И в казино до утра посидеть | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

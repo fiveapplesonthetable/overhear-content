@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 9
 TITLE = "Наказ бабушки  (Grandma's Instructions)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja"}
+LABELS = {"anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = "In the restaurant dining room, Max's grandfather grumbles about his bland diet meal. Before heading out to meet an old friend she has not seen in ten years, Max's grandmother makes Max promise to watch his grandfather closely so he does not eat any meat."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the dining-room farewell. Listen for Max's promise to look after his grandfather and keep him from eating meat. See you in the next scene."
-CLOSING = ('anya', 'Я за ним присмотрю!')
+OUTRO = "And that finishes the dining-room farewell. Listen for Max's promise to look after his grandfather and keep him from eating meat. Until next time!"
+CLOSING = ("anya", "До завтра!")

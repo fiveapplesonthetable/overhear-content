@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 1
-TITLE = "La petite chatte  (The Little Cat)"
-LEVEL = "A1 — débutant"
+TITLE = 'La petite chatte  (The Little Cat)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie", "realisateur": "marcel"}
-LABELS = {"jean": "Jean", "lea": "Andréa", "realisateur": "Le réalisateur"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie', 'realisateur': 'marcel'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa', 'realisateur': 'Le réalisateur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "On a hot movie set, legendary actor Jean Reno is shooting a ridiculous Christmas movie. Dressed as Santa Claus, he grows increasingly frustrated with his lines, the stifling heat, and the director's demands. Let's listen to their conversation in French first."
 OPENER = "Let's explore the hilarious and chaotic movie set incident line by line."
 TRANSITION = "Now let's listen to Jean Reno's movie set outburst once more from start to finish."
-OUTRO = "That's it for this scene around the little cat. When you watch the episode, listen out for the expressions meaning 'to know' and 'to be'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "That's it for this scene around the little cat. When you watch the episode, listen out for the expressions meaning 'to know' and 'to be'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('jean', 'Je sais, tu es débordée.', 'FIXME translation', [(1, 'Je sais, tu es débordée.')], ''),
     ('jean', "Mais j'ai organisé cette fête!", 'FIXME translation', [(1, "Mais j'ai organisé cette fête il y a une éternité!")], ''),

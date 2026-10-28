@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Alors arrêtez de stresser comme ça. | So stop stressing like that. | 772:arrêtez de stresser là |
 
 ## Part 5 — Outro & Closing
-> Confidence and quick thinking help agents navigate sudden opportunities and high-stakes rivalries at ASK. When you watch the episode, listen out for the expressions meaning 'hello' and 'project'. You'll catch them now. See you next time.
+> Confidence and quick thinking help agents navigate sudden opportunities and high-stakes rivalries at ASK. When you watch the episode, listen out for the expressions meaning 'hello' and 'project'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *C'est une très bonne journée.*

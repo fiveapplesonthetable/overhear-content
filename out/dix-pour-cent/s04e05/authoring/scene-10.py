@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 10
-TITLE = "Message pour Colette  (A Message for Colette)"
-LEVEL = "A1 — débutant"
+TITLE = 'Message pour Colette  (A Message for Colette)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "elise": "emilie"}
-LABELS = {"lea": "Andréa", "elise": "Élise"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'elise': 'emilie'}
+LABELS = {'lea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Alone in her quiet apartment, Andrea Martel dials Colette Brancillon's phone number. Reaching voicemail, she leaves a gentle message expressing her worry and yearning for news. Moments later, rival agent Elise Formain sends an unexpected message with a timely solution for baby Flora. Let's listen to their words in French first."
 OPENER = "Let's examine the messages line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Although Andrea misses Colette deeply, Elise's surprising generosity solves her immediate childcare dilemma. When you watch the episode, listen out for the expressions meaning 'telephone' and 'wanted'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Although Andrea misses Colette deeply, Elise's surprising generosity solves her immediate childcare dilemma. When you watch the episode, listen out for the expressions meaning 'telephone' and 'wanted'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', "Colette, c'est moi au téléphone.", 'Colette, it is me on the phone.', [(434, "Colette, c'est moi.")], ''),
     ('lea', 'Je voulais savoir comment tu vas.', 'I wanted to know how you are doing.', [(435, 'Je voulais juste savoir comment tu allais')], ''),

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 3
-TITLE = 'План экономии и таинственная записка  (The Savings Plan and the Mysterious Note)'
+TITLE = "План экономии и таинственная записка  (The Savings Plan and the Mysterious Note)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = 'At the bar counter, Kostya tells Max that if he finds a way to reduce kitchen costs, Chef Barinov might raise his pay. Nearby, Katya finds the next clue inside the coffee maker and questions Denis.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Inspired by Kostya's advice, Max begins drafting a plan to optimize the kitchen budget. See you in the next scene."
-CLOSING = ('kostya', 'Ладно, давай позже поговорим.')
+OUTRO = "Inspired by Kostya's advice, Max begins drafting a plan to optimize the kitchen budget. Until next time!"
+CLOSING = ("kostya", "Увидимся!")

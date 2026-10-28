@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 24
 TITLE = "L'offensive d'Andréa  (Andréa's Offensive)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "herve": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'herve': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the Cesar ceremony, Herve reveals breaking news that Mathias is becoming an independent producer at Mediawan. Andrea and Gabriel immediately resolve to fight to keep their talents. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea and Gabriel react to the surprise industry announcement line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Faced with Mathias Barneville's sudden departure to become a film producer, Andrea rallies Gabriel to take the offensive and calls an emergency agency meeting for eight o'clock tomorrow morning. When you watch the episode, listen out for the expressions meaning 'said' and 'keeps'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Faced with Mathias Barneville's sudden departure to become a film producer, Andrea rallies Gabriel to take the offensive and calls an emergency agency meeting for eight o'clock tomorrow morning. When you watch the episode, listen out for the expressions meaning 'said' and 'keeps'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('herve', 'Noémie ne vous a rien dit?', 'Didn', [(994, 'Noémie ne vous a rien dit')], ''),
     ('herve', 'Elle garde le secret professionnel.', 'She keeps professional confidentiality.', [(995, 'secret professionnel')], ''),

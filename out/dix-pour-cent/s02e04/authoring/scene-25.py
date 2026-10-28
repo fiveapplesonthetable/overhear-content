@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 25
 TITLE = "L'entretien d'embauche  (The Job Interview)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "gabriel": "theo"}
-LABELS = {"herve": "Hervé", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'gabriel': 'theo'}
+LABELS = {'herve': 'Hervé', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In Hicham's office, Gabriel steps out with his dog so Hicham can interview Hervé privately. Hervé pitches his unique talents, dedication, and keen sense of observation for the junior agent position. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hervé pitches his strengths during this one-on-one interview step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'Hervé presents his case with characteristic wit and passion, showing his ambition to become a full agent. Until next time.'
-CLOSING = ("herve", "Au revoir!")
+OUTRO = 'Hervé presents his case with characteristic wit and passion, showing his ambition to become a full agent. See you next time!'
+CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('gabriel', 'Jean Gabin, viens avec moi!', 'Jean Gabin, come with me!', [(736, 'Jean Gabin, viens ici !')], ''),
     ('gabriel', 'Maintenant, nous sommes entre hommes.', 'Now, we are man-to-man.', [(737, "Maintenant, c'est entre hommes.")], ''),

@@ -1,32 +1,40 @@
-# kukhnya-s01e08-scene-16: review sheet
+# Возвращение Шефа  (The Chef's Return) — `kukhnya-s01e08-scene-16`
 
-Title: Возвращение Шефа  (The Chef's Return)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.08
-Cues 203-211. Senya and Fedya discuss their new female boss when Chef Barinov unexpectedly storms back into the kitchen.
+**Source:** Кухня (Kukhnya) S1.08 · `sources/kukhnya/s01/e08.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `senya` | angelina | Сеня |
+
+## Part 1 — Intro
+
+> In the kitchen of Claude Monet, cooks Senya and Fedya casually debate the pros and cons of guest chef Elena Sokolova's polite management style. Their peaceful conversation is abruptly shattered when Chef Viktor Barinov storms in on crutches, furious and demanding absolute obedience. Let's listen to their sudden kitchen encounter in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Сеня | Ну, как тебе новый шеф-повар? | Well, how do you like the new head chef? | #203 00:11:37: Ну и как тебе новый шеф | verbatim |
-| 2 | Федя | Она кажется мне немного скучной. | She seems a bit boring to me. | #204 00:11:40: какая-то она нудная | verbatim |
-| 3 | Сеня | Зато она спокойная и вежливая. | On the other hand she is calm and polite. | #205 00:11:42: Зато адекватная | verbatim |
-| 4 | Федя | Это правда, она никогда не кричит. | That is true, she never yells. | #206 00:11:45: Ну да, не то что этот | verbatim |
-| 5 | Сеня | С ней на кухне тихо и приятно. | With her the kitchen is quiet and pleasant. | new | new |
-| 6 | Шеф | Бездельники! Огрызки! Что вы делаете? | Slackers! Scraps! What are you doing? | #207 00:11:46: Гузки!<br>#208 00:11:48: Огрызки! Огрызки! Уничтожу! | verbatim |
-| 7 | Шеф | Я вернулся навести полный порядок! | I returned to restore complete order! | #208 00:11:48: Уничтожу! | verbatim |
-| 8 | Федя | Шеф, мы просто чистили рыбу. | Chef, we were just cleaning the fish. | #210 00:11:53: Ой, шеф, а мы это | verbatim |
-| 9 | Сеня | Мы очень рады видеть вас! | We are very glad to see you! | new | new |
-| 10 | Шеф | Прекратите болтать и берите ножи! | Stop chatting and take your knives! | #209 00:11:51: Раз, два, два! | verbatim |
-| 11 | Шеф | Кто разрешил вам стоять без дела? | Who permitted you to stand idle? | new | new |
-| 12 | Федя | Мы сейчас всё нарежем, шеф. | We will chop everything right now, chef. | new | new |
-| 13 | Шеф | Быстро за работу, живо! | Get to work quickly, lively! | #211 00:11:55: Да пошли вы | verbatim |
+| 0 | Сеня | Ну, как тебе новый шеф-повар? | Well, how do you like the new head chef? | #203 "Ну и как тебе новый шеф" |  |
+| 1 | Шеф | Она кажется мне немного скучной. | She seems a bit boring to me. | #204 "какая-то она нудная" |  |
+| 2 | Сеня | Зато она спокойная и вежливая. | On the other hand she is calm and polite. | #205 "Зато адекватная" |  |
+| 3 | Шеф | Это правда, она никогда не кричит. | That is true, she never yells. | #206 "Ну да, не то что этот" |  |
+| 4 | Сеня | С ней на кухне тихо и приятно. | With her the kitchen is quiet and pleasant. | *(added)* |  |
+| 5 | Шеф | Бездельники! Огрызки! Что вы делаете? | Slackers! Scraps! What are you doing? | #207 "Гузки!", #208 "Огрызки! Огрызки! Уничтожу!" |  |
+| 6 | Шеф | Я вернулся навести полный порядок! | I returned to restore complete order! | #208 "Уничтожу!" |  |
+| 7 | Шеф | Шеф, мы просто чистили рыбу. | Chef, we were just cleaning the fish. | #210 "Ой, шеф, а мы это" |  |
+| 8 | Сеня | Мы очень рады видеть вас! | We are very glad to see you! | *(added)* |  |
+| 9 | Шеф | Прекратите болтать и берите ножи! | Stop chatting and take your knives! | #209 "Раз, два, два!" |  |
+| 10 | Шеф | Кто разрешил вам стоять без дела? | Who permitted you to stand idle? | *(added)* |  |
+| 11 | Шеф | Мы сейчас всё нарежем, шеф. | We will chop everything right now, chef. | *(added)* |  |
+| 12 | Шеф | Быстро за работу, живо! | Get to work quickly, lively! | #211 "Да пошли вы" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'On the other hand she is calm and polite.' The coordinating conjunction contrasts an advantage against a previous mild criticism.
-- 'That is true, she never yells.' A negative statement employing a negative adverb and an imperfective present verb.
-- 'I returned to restore complete order!' The past tense perfective verb pairs with a purpose infinitive to express forceful intent.
-- 'Stop chatting and take your knives!' Two imperative verbs command immediate cessation of talking and return to culinary duties. Now, let's hear the cooks reacting to Chef Barinov's chaotic arrival once more.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Сеня:** Пока!

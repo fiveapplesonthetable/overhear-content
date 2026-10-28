@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing here?' Vika demands an explanation using a second-person plural pronoun and present-tense verb.
-- 'I did not think you would return so fast.' Denis apologizes with a negated past-tense verb and a perfective future clause.
+- 'I did not think you would return so fast.' Here Denis anchors the thought on 'thought' and finishes on 'will return', keeping the spoken rhythm brisk and natural.
 - 'Vika, this is just a small misunderstanding.' Max tries to calm Vika down using a neuter noun for a mix-up.
-- 'I want him to move out of our place.' Vika uses a subjunctive clause with a past-tense verb to express her demand.
+- 'I want him to move out of our place.' Vika pairs 'want' with 'move out' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Vika, I promise he will move out soon.' Max reassures her with a first-person present verb and a future-tense promise.
-- 'You promised that he would stay for a week.' Vika reminds Max of his earlier commitment using an accusative time span.
-- 'You promised to talk with German.' Vika pairs a past-tense verb with a perfective infinitive and instrumental name.
-- 'You promised me not to scatter your socks.' A dative pronoun marks the recipient of the promise before the negated infinitive.
+- 'You promised that he would stay for a week.' Here Vika anchors the thought on 'promised' and finishes on 'week', keeping the spoken rhythm brisk and natural.
+- 'You promised to talk with German.' In everyday Russian, 'promised' flows straight into 'german' without extra linking words.
+- 'You promised me not to scatter your socks.' Vika pairs 'promised' with 'to socks' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'I do not scatter my socks anymore at all.' Max defends himself by placing the direct object noun at the very front.
-- 'And I already spoke with German yesterday.' Max bluffs confidently using a perfective past-tense verb of speaking.
-- 'And what did German say to you?' Vika checks his story with a direct question using a dative pronoun.
-- 'He is very interested in such a sous-chef.' Max uses a short passive participle followed by the prepositional case.
+- 'And I already spoke with German yesterday.' Here Max anchors the thought on 'german' and finishes on 'yesterday', keeping the spoken rhythm brisk and natural.
+- 'And what did German say to you?' Spoken Russian keeps this brief and expressive, built right around 'said' without extra helper words.
+- 'He is very interested in such a sous-chef.' Max pairs 'very, really' with 'sous-chef' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

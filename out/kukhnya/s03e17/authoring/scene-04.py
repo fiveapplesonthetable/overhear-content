@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 4
-TITLE = 'Предложение о покупке  (The Purchase Offer)'
+TITLE = "Предложение о покупке  (The Purchase Offer)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "kristina": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "kristina": "Кристина"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'In the dining room, corporate buyer Andrey Mikhailovich offers Nagiyev a bargain price for the bankrupt restaurant, while Kristina overhears the deal and reports straight back to Chef Barinov.'
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'Stand calmly and smile nicely.' The meaning hinges on 'stop' working together with 'smile' in spoken Russian."),
     (8, None, "'Come on, go back to work quickly.' Dmitry Nagiyev brings out the contrast between 'come on' and 'quickly' in a few short words. Kristina answers right away."),
     (9, None, "'That man offered Nagiyev to sell the restaurant.' Kristina brings out the contrast between 'this' and 'man' in a few short words."),
-    (10, None, "'And what did our Nagiyev answer him?' The grammar packs 'and' and 'Dmitry Nagiyev' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'And what did our Nagiyev answer him?' Max centers this short reply on 'answered', letting a few direct words carry the whole meaning."),
     (11, None, "'He just sent me back to work.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'to work'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kristina's news spreads panic to the kitchen: Nagiyev is seriously considering selling Claude Monet to the restaurant chain."
-CLOSING = ('kristina', 'Он хочет продать наш ресторан.')
+OUTRO = "Kristina's news spreads panic to the kitchen: Nagiyev is seriously considering selling Claude Monet to the restaurant chain. See you next time!"
+CLOSING = ("kristina", "Всего хорошего!")

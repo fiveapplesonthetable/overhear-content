@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 1
 TITLE = "Le tournage de Béatrice  (Béatrice's Shoot)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "beatrice": "emilie", "lea": "lucie"}
-LABELS = {"beatrice": "Béatrice", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'beatrice': 'emilie', 'lea': 'lucie'}
+LABELS = {'beatrice': 'Béatrice', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "On a grueling movie set, iconic actress Beatrice Dalle catches her breath after twenty-seven exhausting takes. When the makeup artist insists on applying full-body makeup for a body bag scene, Beatrice suspects director Pascal of bad faith. Let's listen to the scene in French first."
 OPENER = "Let's observe as Beatrice discusses the unexpected body makeup on set."
 TRANSITION = "Now let's listen to Beatrice and the makeup artist again at full speed."
-OUTRO = "Convinced that director Pascal intends to film her unclothed without prior consent, Beatrice heads backstage. When you watch the episode, listen out for the expressions meaning 'filming' and 'rough'. You'll catch them now. See you next time."
-CLOSING = ("beatrice", "Bonne journée!")
+OUTRO = "Convinced that director Pascal intends to film her unclothed without prior consent, Beatrice heads backstage. When you watch the episode, listen out for the expressions meaning 'filming' and 'rough'. You'll catch them now. See you next time!"
+CLOSING = ('beatrice', 'Bonne journée!')
 STORY = [
     ('beatrice', "Ce tournage est particulièrement rude aujourd'hui.", 'This shoot is particularly rough today.', [(9, "C'est rude, 27 prises")], ''),
     ('lea', 'Vous avez fait vingt-sept prises difficiles.', 'You did twenty-seven difficult takes.', [(9, "C'est rude, 27 prises")], ''),

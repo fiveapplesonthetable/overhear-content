@@ -1,25 +1,25 @@
 ID = 'kukhnya-s06e15-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 15
 SCENE = 12
-TITLE = 'Возвращение из больницы  (Return from the Hospital)'
+TITLE = "Возвращение из больницы  (Return from the Hospital)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sveta': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Денис', 'sveta': 'Света', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "denis": "anja"}
+LABELS = {"nastya": "Настя", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.15'
 SOURCE_FILE = 'sources/kukhnya/s06/e15.ru.srt'
 
 INTRO = 'At the hospital, the doctor tells Denis and Sveta that her swelling will go down in forty minutes, and Denis brings her back to the hotel. Meanwhile, Nastya scolds Kostya for failing at matchmaking and announces that her mother is bringing a single friend over to their apartment!'
 
 STORY = [
-    ('anya', 'Врач сказал, что всё в порядке.', 'The doctor said that everything is fine.', [(193, 'все в порядке')], 'adapted'),
-    ('sveta', 'Я никуда не пойду, я страшная.', 'I am not going anywhere, I look terrible.', [(195, 'Не пойду'), (196, 'Я страшная')], 'adapted'),
-    ('anya', 'Перестань, не говори сейчас глупую ерунду.', 'Stop it, do not talk foolish nonsense right now.', [(197, 'Перестань'), (198, 'Не говори ерунду')], 'adapted'),
-    ('anya', 'Поехали домой, а мне на работу.', 'Let us go home, and I have to go to work.', [(198, 'Поехали домой'), (199, 'Мне на работу надо')], 'adapted'),
-    ('sveta', 'Слушай, ты мне что-то сказать хотел?', 'Listen, did you want to tell me something?', [(201, 'Ты мне что-то сказать хотел')], 'adapted'),
-    ('anya', 'Ладно, ничего страшного, скажу тебе потом.', 'Alright, it is nothing serious, I will tell you later.', [(202, 'Ладно, потом')], 'adapted'),
+    ('denis', 'Врач сказал, что всё в порядке.', 'The doctor said that everything is fine.', [(193, 'все в порядке')], 'adapted'),
+    ('nastya', 'Я никуда не пойду, я страшная.', 'I am not going anywhere, I look terrible.', [(195, 'Не пойду'), (196, 'Я страшная')], 'adapted'),
+    ('denis', 'Перестань, не говори сейчас глупую ерунду.', 'Stop it, do not talk foolish nonsense right now.', [(197, 'Перестань'), (198, 'Не говори ерунду')], 'adapted'),
+    ('denis', 'Поехали домой, а мне на работу.', 'Let us go home, and I have to go to work.', [(198, 'Поехали домой'), (199, 'Мне на работу надо')], 'adapted'),
+    ('nastya', 'Слушай, ты мне что-то сказать хотел?', 'Listen, did you want to tell me something?', [(201, 'Ты мне что-то сказать хотел')], 'adapted'),
+    ('denis', 'Ладно, ничего страшного, скажу тебе потом.', 'Alright, it is nothing serious, I will tell you later.', [(202, 'Ладно, потом')], 'adapted'),
     ('nastya', 'Ну что, Костя, ты всё выяснил?', 'Well then, Kostya, did you find out everything?', [(203, 'Ну, что выяснил')], 'adapted'),
     ('nastya', 'Так и знала, что толку нет.', 'I knew there would be no use from you.', [(206, 'Так и знала, что от тебя никакого толку')], 'adapted'),
     ('nastya', 'Ладно, я уже поговорила с мамой.', 'Alright, I already talked with my mom.', [(207, 'Ладно, все нормально. Я поговорила с мамой')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kostya rushes home to clean the apartment before Nastya's mother arrives with her friend, unaware that Timofey is already there. See you in the next scene."
-CLOSING = ('nastya', 'Мы скоро подъедем вместе.')
+OUTRO = "Kostya rushes home to clean the apartment before Nastya's mother arrives with her friend, unaware that Timofey is already there. See you next time!"
+CLOSING = ("nastya", "До встречи!")

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 8
-TITLE = "La vérité sur Hartman  (The Truth About Hartman)"
-LEVEL = "A1 — débutant"
+TITLE = 'La vérité sur Hartman  (The Truth About Hartman)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Late in the evening at ASK, Andréa pulls Camille into a private office to make a desperate confession. Having thrown away an acclaimed director's screenplay years earlier, Andréa enlists Camille's help to prevent a catastrophic career scandal. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa confides her biggest professional mistake to Camille step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = 'Andréa shares her darkest career secret with Camille, forging a deep alliance that puts Camille in a delicate undercover role. See you next time!'
-CLOSING = ("camille", "Bonne journée!")
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('lea', 'Ferme la porte et assieds-toi là.', 'Close the door and sit down there.', [(192, 'Ferme la porte.'), (194, 'Assieds-toi.')], ''),
     ('camille', 'Merci Andréa, je finissais mes dossiers.', 'Thanks Andréa, I was finishing my files.', [(195, "Merci d'être resté."), (196, "j'avais des trucs à finir.")], ''),

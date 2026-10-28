@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 22
 TITLE = "Les confidences de Noémie  (Noémie's Confidences)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the ASK agency after hours, assistants Herve, Camille, and Noemie chat about their evening plans. Noemie reveals the ongoing romantic drama with her married neighbour Philippe. Let's listen to the scene in French first."
 OPENER = "Let's examine how Noemie confides in Herve and Camille step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around noemie's confidences. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'evening'. You'll catch them now. See you next time."
-CLOSING = ("herve", "Au revoir!")
+OUTRO = "That's it for this scene around noemie's confidences. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'evening'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('herve', 'Que faites-vous ce soir, les filles?', 'What are you doing tonight, girls?', [(924, 'ce soir, les filles ?')], ''),
     ('lea', 'Moi, je vais au théâtre ce soir.', 'Me, I am going to the theater tonight.', [(925, 'Moi, je vais au théâtre')], ''),

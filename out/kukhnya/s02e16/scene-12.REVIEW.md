@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что значит как? | What do you mean, how is it? | #206 00:12:43: Что значит как | verbatim |
-| 2 | Елена | Ну как? | Well, how is it? | #206 00:12:43: Ну как | verbatim |
-| 3 | Аня | Я его сам только что делал. | I just made that pate myself. | #207 00:12:45: Я его сам только что делал | verbatim |
-| 4 | Елена | Вы не пробовать, говорить как вам. | Taste it and tell me what you think. | #208 00:12:48: Вы не пробовать, говорить как вам | verbatim |
-| 5 | Аня | Нет, ты попробуй и скажи. | No, you taste it and tell me. | #209 00:12:50: Нет, ты попробуй и скажи | verbatim |
-| 6 | Елена | Если тебе понравится, это шедевр. | If you like it, then it is a masterpiece. | #211 00:12:55: Если тебе понравится, это шедевр | verbatim |
-| 7 | Аня | Я приготовил другое. | I prepared something else. | #212 00:13:05: Я приготовил другое | verbatim |
-| 8 | Елена | Здорово. Здравствуйте. | Hey there. Hello. | #213 00:13:18: Здорово. Здравствуйте | verbatim |
-| 9 | Аня | Общаешься с невидимым другом? | Chatting with an invisible friend? | #214 00:13:24: Общаешься с невидимым другом | verbatim |
-| 10 | Елена | А чего романтика за моим столиком, а? | And why is this romance happening at my favorite table, huh? | #216 00:13:29: А чего романтика за моим столиком, а | verbatim |
-| 11 | Аня | Дима, извини, наверное, надо было позвонить. | Dima, forgive me, I probably should have called you first. | #217 00:13:31: Дима, извини, наверное, надо было позвонить | verbatim |
-| 12 | Елена | Я сегодня Елену на ужин пригласил. | I invited Elena here for dinner tonight. | #218 00:13:33: Я сегодня Елену на ужин пригласил | verbatim |
-| 13 | Аня | Думал, ты не будешь против. | I figured you would not mind. | #219 00:13:36: Думал, ты не будешь против | verbatim |
+| 1 | Нагиев | Что значит как? | What do you mean, how is it? | #206 00:12:43: Что значит как | verbatim |
+| 2 | Нагиев | Ну как? | Well, how is it? | #206 00:12:43: Ну как | verbatim |
+| 3 | Нагиев | Я его сам только что делал. | I just made that pate myself. | #207 00:12:45: Я его сам только что делал | verbatim |
+| 4 | Нагиев | Вы не пробовать, говорить как вам. | Taste it and tell me what you think. | #208 00:12:48: Вы не пробовать, говорить как вам | verbatim |
+| 5 | Нагиев | Нет, ты попробуй и скажи. | No, you taste it and tell me. | #209 00:12:50: Нет, ты попробуй и скажи | verbatim |
+| 6 | Нагиев | Если тебе понравится, это шедевр. | If you like it, then it is a masterpiece. | #211 00:12:55: Если тебе понравится, это шедевр | verbatim |
+| 7 | Нагиев | Я приготовил другое. | I prepared something else. | #212 00:13:05: Я приготовил другое | verbatim |
+| 8 | Нагиев | Здорово. Здравствуйте. | Hey there. Hello. | #213 00:13:18: Здорово. Здравствуйте | verbatim |
+| 9 | Нагиев | Общаешься с невидимым другом? | Chatting with an invisible friend? | #214 00:13:24: Общаешься с невидимым другом | verbatim |
+| 10 | Нагиев | А чего романтика за моим столиком, а? | And why is this romance happening at my favorite table, huh? | #216 00:13:29: А чего романтика за моим столиком, а | verbatim |
+| 11 | Нагиев | Дима, извини, наверное, надо было позвонить. | Dima, forgive me, I probably should have called you first. | #217 00:13:31: Дима, извини, наверное, надо было позвонить | verbatim |
+| 12 | Нагиев | Я сегодня Елену на ужин пригласил. | I invited Elena here for dinner tonight. | #218 00:13:33: Я сегодня Елену на ужин пригласил | verbatim |
+| 13 | Нагиев | Думал, ты не будешь против. | I figured you would not mind. | #219 00:13:36: Думал, ты не будешь против | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

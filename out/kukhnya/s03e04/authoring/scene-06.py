@@ -1,31 +1,31 @@
 ID = 'kukhnya-s03e04-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 4
 SCENE = 6
-TITLE = 'Билеты на Спартак  (Tickets to Spartak)'
+TITLE = "Билеты на Спартак  (Tickets to Spartak)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'timur': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Шеф', 'timur': 'Тимур', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "timur": "angelina", "chef": "anja"}
+LABELS = {"timur": "Тимур", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.04'
 SOURCE_FILE = 'sources/kukhnya/s03/e04.ru.srt'
 
 INTRO = "After winning the kitchen pot, Barinov steps out to meet Timur, who offers him VIP tickets to tomorrow's Spartak match—and seconds later Elena calls to cancel their movie date."
 
 STORY = [
     ('timur', 'Триста рублей. Поздравляем, шеф!', 'Three hundred rubles. Congratulations, Chef!', [(69, 'Триста рублей. Поздравляем, шеф')], ''),
-    ('anya', 'И это солидные деньги? Марш работать!', 'And that is serious money? March back to work!', [(70, 'И это солидные деньги'), (71, 'Марш работать')], 'adapted'),
+    ('chef', 'И это солидные деньги? Марш работать!', 'And that is serious money? March back to work!', [(70, 'И это солидные деньги'), (71, 'Марш работать')], 'adapted'),
     ('timur', 'О, шеф, брат, здравствуй! Слушай, тебе как повезло.', 'Oh, Chef, brother, hello! Listen, how lucky you are.', [(72, 'здравствуй'), (73, 'Слушай, тебе'), (73, 'как повезло')], 'adapted'),
     ('timur', 'Хочу подарить тебе билеты на завтрашнюю игру.', "I want to give you tickets to tomorrow's game.", [(74, 'Хочу подарить тебе билеты'), (74, 'на завтрашнюю игру')], 'adapted'),
-    ('anya', 'Завтра не могу.', 'I cannot tomorrow.', [(75, 'Завтра не могу')], ''),
+    ('chef', 'Завтра не могу.', 'I cannot tomorrow.', [(75, 'Завтра не могу')], ''),
     ('timur', 'Умер кто-то? Нет.', 'Did someone die? No.', [(76, 'Умер кто-то? Нет')], ''),
     ('timur', 'А что тогда не идёшь? Спартак же играет!', "Then why aren't you going? Spartak is playing!", [(77, 'не идешь? Спартак же играет')], 'adapted'),
-    ('anya', 'Извини.', 'Sorry.', [(78, 'Извини')], ''),
-    ('elena', 'Витя, к сожалению, кино завтра отменяется.', 'Vitya, unfortunately, the cinema tomorrow is canceled.', [(79, 'к сожалению, кино завтра отменяется')], 'adapted'),
-    ('elena', 'Позвонили только что, у меня банкет до поздней ночи.', 'They just called, I have a banquet until late at night.', [(80, 'Позвонили только что, у меня банкет до поздней ночи')], ''),
-    ('anya', 'Да, конечно, я понимаю.', 'Yes, of course, I understand.', [(81, 'Да, конечно, я понимаю')], ''),
-    ('anya', 'Ну, что делать? Другой раз, так другой раз.', 'Well, what can we do? Another time, then another time.', [(82, 'Ну, что делать? Другой раз, так другой раз')], ''),
+    ('chef', 'Извини.', 'Sorry.', [(78, 'Извини')], ''),
+    ('timur', 'Витя, к сожалению, кино завтра отменяется.', 'Vitya, unfortunately, the cinema tomorrow is canceled.', [(79, 'к сожалению, кино завтра отменяется')], 'adapted'),
+    ('timur', 'Позвонили только что, у меня банкет до поздней ночи.', 'They just called, I have a banquet until late at night.', [(80, 'Позвонили только что, у меня банкет до поздней ночи')], ''),
+    ('chef', 'Да, конечно, я понимаю.', 'Yes, of course, I understand.', [(81, 'Да, конечно, я понимаю')], ''),
+    ('chef', 'Ну, что делать? Другой раз, так другой раз.', 'Well, what can we do? Another time, then another time.', [(82, 'Ну, что делать? Другой раз, так другой раз')], ''),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings Scene Six to a close. Notice how the moment Barinov rubs his lucky elephant, Elena cancels the movie so he can go to the Spartak match after all.'
-CLOSING = ('anya', 'Мне сегодня везёт!')
+OUTRO = 'That brings Scene Six to a close. Notice how the moment Barinov rubs his lucky elephant, Elena cancels the movie so he can go to the Spartak match after all. See you next time!'
+CLOSING = ("chef", "До свидания!")

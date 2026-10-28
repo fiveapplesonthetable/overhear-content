@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Фирменный омлет. | My signature omelet. | #1 00:00:28: Фирменный омлет | verbatim |
 | 2 | Костя | Я на секунду показал. | I only looked away for a second. | #2 00:00:30: Я на секунду показал | verbatim |
-| 3 | Саша | Это кто? | Who is that? | #5 00:00:41: Это кто | verbatim |
+| 3 | Костя | Это кто? | Who is that? | #5 00:00:41: Это кто | verbatim |
 | 4 | Аня | Дай две тысячи. | Give me two thousand rubles. | #8 00:00:51: Дай две тысячи | verbatim |
 | 5 | Костя | Две тысячи. | Two thousand rubles. | #9 00:00:55: Две тысячи | verbatim |
-| 6 | Саша | Кто звонил? | Who called? | #12 00:01:12: Кто звонил | verbatim |
+| 6 | Костя | Кто звонил? | Who called? | #12 00:01:12: Кто звонил | verbatim |
 | 7 | Аня | Мама звонила. | My mom called. | #12 00:01:12: Мама звонила | verbatim |
 | 8 | Костя | В очередной раз хотела спросить. | Once again she wanted to ask about the wedding. | #13 00:01:15: в очередной раз хотела спросить | verbatim |
-| 9 | Саша | Ну, потом перезвоню. | Well, I will call her back later. | #14 00:01:18: Ну, потом перезвоню | verbatim |
+| 9 | Костя | Ну, потом перезвоню. | Well, I will call her back later. | #14 00:01:18: Ну, потом перезвоню | verbatim |
 | 10 | Аня | Все нормально? | Is everything alright? | #15 00:01:20: Все нормально | verbatim |
 | 11 | Костя | Смотрите, смотрите. | Look, just look at this. | #15 00:01:20: Смотрите, смотрите | verbatim |
-| 12 | Саша | Я вчера в шкаф умолю била. | Yesterday I killed a moth in the closet. | #18 00:01:33: Я вчера в шкаф умолю била | verbatim |
+| 12 | Костя | Я вчера в шкаф умолю била. | Yesterday I killed a moth in the closet. | #18 00:01:33: Я вчера в шкаф умолю била | verbatim |
 | 13 | Аня | Мне теперь за нее тоже деньги дать, да? | Do I have to pay money for that moth now too? | #19 00:01:37: Мне теперь за нее тоже деньги дать, да | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

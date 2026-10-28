@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e13-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 14
-TITLE = 'Побег в холодильник и поездка с полицией  (Hiding in the Fridge and Riding with the Police)'
+TITLE = "Побег в холодильник и поездка с полицией  (Hiding in the Fridge and Riding with the Police)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Лёва', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina"}
+LABELS = {"lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'While Lyova wonders where Nagiyev disappeared to, Senya and Fedya haul their bound captive inside the restaurant to stash him in the walk-in cooler. Across town, Chef Barinov convinces the skeptical police officers to drive him directly to Claude Monet to prove who he is.'
 
 STORY = [
-    ('anya', 'А ты не знаешь?', 'Do you happen to know?', [(220, 'а ты не знаешь')], ''),
-    ('nagiyev', 'Где этот Дмитрий Владимирович?', 'Where is Dmitry Vladimirovich?', [(220, 'где этот Дмитрий Владимирович')], ''),
-    ('anya', 'Он был здесь недавно, но ушёл куда-то.', 'He was here recently, but he went off somewhere.', [(221, 'Он был здесь недавно, но ушёл куда-то')], ''),
-    ('nagiyev', 'Его надо...', 'We need to take him...', [(224, 'Его надо')], ''),
-    ('anya', 'Его надо в ресторан.', 'We need to take him to the restaurant.', [(225, 'Его надо в ресторан')], ''),
-    ('nagiyev', 'А там разберемся.', 'And we will sort it out there.', [(226, 'А там разберемся')], ''),
-    ('anya', 'Я же звезда.', 'I am a celebrity, after all.', [(228, 'Я же звезда')], ''),
-    ('nagiyev', 'А может?', 'Or maybe?', [(229, 'А может')], ''),
-    ('anya', 'Давай я сам позвоню.', 'Let me make the call myself.', [(230, 'Давай я сам позвоню')], ''),
-    ('nagiyev', 'Давай, поехали.', 'Come on, let us go.', [(231, 'Давай, поехали')], ''),
-    ('anya', 'Эй, эй.', 'Hey, hey.', [(231, 'Эй, эй')], ''),
-    ('nagiyev', 'Поехали. Эй.', 'Let us go. Hey.', [(231, 'поехали. Эй')], ''),
-    ('anya', 'А ну, постоять!', 'Hey, hold it right there!', [(233, 'А ну, постоять')], ''),
+    ('lyova', 'А ты не знаешь?', 'Do you happen to know?', [(220, 'а ты не знаешь')], ''),
+    ('lyova', 'Где этот Дмитрий Владимирович?', 'Where is Dmitry Vladimirovich?', [(220, 'где этот Дмитрий Владимирович')], ''),
+    ('lyova', 'Он был здесь недавно, но ушёл куда-то.', 'He was here recently, but he went off somewhere.', [(221, 'Он был здесь недавно, но ушёл куда-то')], ''),
+    ('lyova', 'Его надо...', 'We need to take him...', [(224, 'Его надо')], ''),
+    ('lyova', 'Его надо в ресторан.', 'We need to take him to the restaurant.', [(225, 'Его надо в ресторан')], ''),
+    ('lyova', 'А там разберемся.', 'And we will sort it out there.', [(226, 'А там разберемся')], ''),
+    ('lyova', 'Я же звезда.', 'I am a celebrity, after all.', [(228, 'Я же звезда')], ''),
+    ('lyova', 'А может?', 'Or maybe?', [(229, 'А может')], ''),
+    ('lyova', 'Давай я сам позвоню.', 'Let me make the call myself.', [(230, 'Давай я сам позвоню')], ''),
+    ('lyova', 'Давай, поехали.', 'Come on, let us go.', [(231, 'Давай, поехали')], ''),
+    ('lyova', 'Эй, эй.', 'Hey, hey.', [(231, 'Эй, эй')], ''),
+    ('lyova', 'Поехали. Эй.', 'Let us go. Hey.', [(231, 'поехали. Эй')], ''),
+    ('lyova', 'А ну, постоять!', 'Hey, hold it right there!', [(233, 'А ну, постоять')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 14 of Episode 13, listen out for the exchange around hiding in the fridge and riding with the police — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'А ну, постоять!')
+OUTRO = 'That wraps up this scene as senya and Fedya haul the bound captive into the restaurant walk-in fridge, while Chef Barinov persuades the police officers to drive him to Claude Monet. See you next time!'
+CLOSING = ("lyova", "Всего хорошего!")

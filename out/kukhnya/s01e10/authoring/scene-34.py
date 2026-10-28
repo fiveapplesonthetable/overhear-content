@@ -1,91 +1,42 @@
-"""s01e10 scene 34: Проверка икры (Checking the Caviar)."""
-
-ID = "kukhnya-s01e10-scene-34"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e10-scene-34.
+ID = 'kukhnya-s01e10-scene-34'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 34
 TITLE = "Проверка икры  (Checking the Caviar)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {
-    "narrator": "sky",
-    "anya": "alisa",
-    "senya": "anja",
-}
-LABELS = {
-    "anya": "Федя",
-    "senya": "Сеня",
-}
-SOURCE_NAME = "Кухня (Kukhnya) S1.10"
-SOURCE_FILE = "sources/kukhnya/s01/e10.ru.dual.srt"
-
-INTRO = (
-    "In the Claude Monet kitchen, Fedya and Senya finish preparing the caviar for the VIP table. "
-    "Fedya inspects the bowl and worries they did not add enough dye, but Senya insists it looks perfectly authentic. "
-    "Listen to their conversation in Russian first, then we will break down each line in English."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
+LABELS = {"senya": "Сеня", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
+SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
+INTRO = 'In the Claude Monet kitchen, Fedya and Senya finish preparing the caviar for the VIP table. Fedya inspects the bowl and worries they did not add enough dye, but Senya insists it looks perfectly authentic. Listen to their conversation in Russian first, then we will break down each line in English.'
+OPENER = "Now let's go back through the exchange around Checking the Caviar line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = "In the kitchen, Fedya worries they did not add enough black dye to the caviar, but Senya reassures him that it looks completely authentic before sending it to the dining room. Next time you watch the episode, listen for the Russian expressions for 'real' and 'suddenly' — you will catch every word right away. See you next time!"
+CLOSING = ("senya", "Пока!")
 STORY = [
-    ("anya", "Сеня, подойди сюда на секунду.",
-     "Senya, come over here for a second.",
-     [], "calling partner"),
-    ("senya", "Что такое, Федя? Всё готово?",
-     "What is it, Fedya? Is everything ready?",
-     [], "asking status"),
-    ("anya", "Мне кажется, мы её не докрасили.",
-     "I think we did not finish dyeing it.",
-     [(244, "Мне кажется, мы её не докрасили.")], "voicing concern"),
-    ("senya", "Да брось, она абсолютно чёрная!",
-     "Come on, it is completely black!",
-     [], "rejecting doubt"),
-    ("anya", "А вдруг шеф увидит светлые икринки?",
-     "What if Chef sees light caviar eggs?",
-     [], "imagining risk"),
-    ("senya", "Никто ничего подозрительного не заметит.",
-     "Nobody will notice anything suspicious.",
-     [], "reassuring"),
-    ("senya", "Если бы икра не была настоящей,",
-     "If the caviar were not like real caviar,",
-     [(245, "Если бы икра не была похожа на настоящую,")], "making argument"),
-    ("senya", "ты бы сам её сейчас не пробовал.",
-     "you would not be tasting it yourself right now.",
-     [(246, "Сеня бы ее не спер.")], "teasing friend"),
-    ("anya", "Ладно, ладно, ты меня убедил.",
-     "All right, all right, you convinced me.",
-     [], "yielding point"),
-    ("senya", "Тогда зови официанта, пора подавать блюдо.",
-     "Then call the waiter, it is time to serve the dish.",
-     [], "prompting delivery"),
-    ("anya", "Официант, забирай заказ на первый стол!",
-     "Waiter, take the order for table one!",
-     [], "calling waiter"),
-    ("senya", "Давай, выносим икру в зал.",
-     "Come on, let us bring the caviar into the hall.",
-     [(248, "выносим икру.")], "ordering send-off"),
+    ('fedya', 'Сеня, подойди сюда на секунду.', 'Senya, come over here for a second.', [], ''),
+    ('senya', 'Что такое, Федя? Всё готово?', 'What is it, Fedya? Is everything ready?', [], ''),
+    ('fedya', 'Мне кажется, мы её не докрасили.', 'I think we did not finish dyeing it.', [(244, 'Мне кажется, мы её не докрасили.')], ''),
+    ('senya', 'Да брось, она абсолютно чёрная!', 'Come on, it is completely black!', [], ''),
+    ('fedya', 'А вдруг шеф увидит светлые икринки?', 'What if Chef sees light caviar eggs?', [], ''),
+    ('senya', 'Никто ничего подозрительного не заметит.', 'Nobody will notice anything suspicious.', [], ''),
+    ('senya', 'Если бы икра не была настоящей,', 'If the caviar were not like real caviar,', [(245, 'Если бы икра не была похожа на настоящую,')], ''),
+    ('senya', 'ты бы сам её сейчас не пробовал.', 'you would not be tasting it yourself right now.', [(246, 'Сеня бы ее не спер.')], ''),
+    ('fedya', 'Ладно, ладно, ты меня убедил.', 'All right, all right, you convinced me.', [], ''),
+    ('senya', 'Тогда зови официанта, пора подавать блюдо.', 'Then call the waiter, it is time to serve the dish.', [], ''),
+    ('fedya', 'Официант, забирай заказ на первый стол!', 'Waiter, take the order for table one!', [], ''),
+    ('senya', 'Давай, выносим икру в зал.', 'Come on, let us bring the caviar into the hall.', [(248, 'выносим икру.')], ''),
 ]
-
-OPENER = "Let us practice the key lines together."
-
 WALK = [
-    (0, "Сеня, подойди сюда на секунду.",
-     "'Senya, come over here for a second.' — informal imperative followed by a temporal phrase."),
-    (2, "Мне кажется, мы её не докрасили.",
-     "'I think we did not finish dyeing it.' — impersonal verb with a negated prefix verb."),
-    (3, "Да брось, она абсолютно чёрная!",
-     "'Come on, it is completely black!' — colloquial imperative followed by an adjective of degree."),
-    (4, "А вдруг шеф увидит светлые икринки?",
-     "'What if Chef sees light caviar eggs?' — hypothetical conjunction followed by a future verb."),
-    (5, "Никто ничего подозрительного не заметит.",
-     "'Nobody will notice anything suspicious.' — double negative pronoun with a genitive adjective."),
-    (8, "Ладно, ладно, ты меня убедил.",
-     "'All right, all right, you convinced me.' — past perfective verb expressing concession."),
-    (9, "Тогда зови официанта, пора подавать блюдо.",
-     "'Then call the waiter, it is time to serve the dish.' — imperative verb with a predicative noun phrase."),
-    (11, "Давай, выносим икру в зал.",
-     "'Come on, let us bring the caviar into the hall.' — hortative particle with a present verb of carrying."),
+    (0, None, "'Senya, come over here for a second.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (1, None, "'I think we did not finish dyeing it.' — impersonal verb with a negated prefix verb."),
+    (2, None, "'Come on, it is completely black!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (3, None, "'What if Chef sees light caviar eggs?' — hypothetical conjunction followed by a future verb."),
+    (4, None, "'Nobody will notice anything suspicious.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'All right, all right, you convinced me.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'Then call the waiter, it is time to serve the dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (7, None, "'Come on, let us bring the caviar into the hall.' — hortative word with a present verb of carrying. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]
-
-TRANSITION = "Now listen to the full conversation once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around checking the caviar, and for the words meaning 'come over' and 'second'. You'll catch them now. See you next time."
-CLOSING = ("senya", "Давай, выносим икру в зал.")

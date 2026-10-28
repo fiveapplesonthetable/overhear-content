@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e20-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 20
 SCENE = 1
 TITLE = "Первая улыбка дочки и возвращение Шефа  (Daughter's First Smile and Chef's Return)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.20'
 SOURCE_FILE = 'sources/kukhnya/s05/e20.ru.srt'
 
 INTRO = "At Vika's apartment, Max is overjoyed when his newborn daughter smiles at him for the very first time. Later at Restaurant Victor, Chef Barinov marches back into the kitchen to everyone's surprise."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "The cooks gather around Chef Barinov to hear how he managed to return after yesterday's scandal. See you in the next scene."
-CLOSING = ('chef', 'Вы от меня не избавились!')
+OUTRO = "The cooks gather around Chef Barinov to hear how he managed to return after yesterday's scandal. Until next time!"
+CLOSING = ("chef", "До встречи!")

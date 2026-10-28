@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e06.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"camille": "Camille", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "camille": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "camille": "Camille"}`
 
 ## Part 1 — Intro
 > Camille insists that coming to ASK was entirely her own decision. But as Catherine digs into the dates and discovers Camille's exact age, a devastating realization hits her: Mathias had an affair while Catherine was pregnant with their son Hippolyte. Downstairs in the courtyard, Mathias waits in dread. Let's listen to the scene in French first.

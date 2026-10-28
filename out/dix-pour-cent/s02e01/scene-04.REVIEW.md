@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Je suis très heureuse ici, je ne veux pas gâcher ça. | I am very happy here, I do not want to ruin that. | 121:je ne veux pas gâcher ça. |
 
 ## Part 5 — Outro & Closing
-> Camille desperately wants to protect her independent life at the agency. Mathias agrees to keep quiet for now, but keeping such a major secret is never easy. Until next time.
+> Camille desperately wants to protect her independent life at the agency. Mathias agrees to keep quiet for now, but keeping such a major secret is never easy. See you next time!
 - **Closing**: `camille`: *À demain!*

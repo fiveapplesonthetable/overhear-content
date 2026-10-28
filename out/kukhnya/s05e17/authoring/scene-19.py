@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 19
-TITLE = 'Оборона палаты с огнетушителем  (Defending the Ward with a Fire Extinguisher)'
+TITLE = "Оборона палаты с огнетушителем  (Defending the Ward with a Fire Extinguisher)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"guest": "Гость", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = "Max holds off the official's bodyguards with a foam fire extinguisher while Vika's labor intensifies. Suddenly, the official receives a phone call from his wife saying she is giving birth elsewhere."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With the VIP official gone in a flash, doctors rush into the room to deliver Vika and Max's baby. See you in the next scene."
-CLOSING = ('anya', 'Моя жена сейчас рожает!')
+OUTRO = "With the VIP official gone in a flash, doctors rush into the room to deliver Vika and Max's baby. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

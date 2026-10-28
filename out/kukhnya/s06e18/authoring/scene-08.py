@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e18-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 18
 SCENE = 8
-TITLE = 'Ночлег для пони  (An Overnight Stay for the Pony)'
+TITLE = "Ночлег для пони  (An Overnight Stay for the Pony)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Катя', 'mikhail': 'Михаил', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "katya": "angelina"}
+LABELS = {"mikhail": "Михаил", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.18'
 SOURCE_FILE = 'sources/kukhnya/s06/e18.ru.srt'
 
 INTRO = 'While a pale Senya insists he merely ate expired yogurt in the morning, Mikhail Jekovich leads the stubborn pony into the staff locker room for the night. Nearby, Katya apologizes to Denis for not speaking with Nikita before his trip.'
@@ -21,11 +21,11 @@ STORY = [
     ('mikhail', 'Нельзя во дворе его оставить.', 'I cannot leave him in the courtyard.', [(140, 'на ночь во дворе оставить')], 'adapted'),
     ('mikhail', 'Зрелище тут не очень приятное.', 'The sight in here is not very pleasant.', [(142, 'зрелище не очень приятное')], 'adapted'),
     ('mikhail', 'Ничего, он до утра потерпит.', 'It is fine, he will endure until morning.', [(143, 'Но он потерпит')], 'adapted'),
-    ('denis', 'Катя, ты поговорила с Никитой?', 'Katya, did you talk with Nikita?', [(145, 'Катя'), (146, 'поговорила с Никитой')], 'adapted'),
-    ('anya', 'Нет, сегодня опять не вышло.', 'No, it did not work out again today.', [(147, 'Нет. Опять нет')], 'adapted'),
-    ('anya', 'Я полдня провела у отца.', 'I spent half the day with my father.', [(148, 'я полдня провела у отца в больнице')], 'adapted'),
-    ('anya', 'А потом Никита уехал в Питер.', 'And then Nikita left for Saint Petersburg.', [(148, 'а потом Никита уехал в Питер')], 'adapted'),
-    ('anya', 'Не обижайся, для меня это важно.', 'Do not be offended, this is important to me.', [(149, 'Не обижайся. Просто ты же знаешь, что для меня это важно')], 'adapted'),
+    ('mikhail', 'Катя, ты поговорила с Никитой?', 'Katya, did you talk with Nikita?', [(145, 'Катя'), (146, 'поговорила с Никитой')], 'adapted'),
+    ('katya', 'Нет, сегодня опять не вышло.', 'No, it did not work out again today.', [(147, 'Нет. Опять нет')], 'adapted'),
+    ('katya', 'Я полдня провела у отца.', 'I spent half the day with my father.', [(148, 'я полдня провела у отца в больнице')], 'adapted'),
+    ('katya', 'А потом Никита уехал в Питер.', 'And then Nikita left for Saint Petersburg.', [(148, 'а потом Никита уехал в Питер')], 'adapted'),
+    ('katya', 'Не обижайся, для меня это важно.', 'Do not be offended, this is important to me.', [(149, 'Не обижайся. Просто ты же знаешь, что для меня это важно')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya and Denis share a quick kiss in the corridor—right as Nikita's father Andrey Nikolaevich walks around the corner. See you in the next scene."
-CLOSING = ('denis', 'Я всё прекрасно понимаю.')
+OUTRO = "Katya and Denis share a quick kiss in the corridor—right as Nikita's father Andrey Nikolaevich walks around the corner. See you next time!"
+CLOSING = ("mikhail", "Хорошего дня!")

@@ -27,5 +27,5 @@
 | 13 | `jean` (Jean) | Merci pour tout, Andréa! | Thank you for everything, Andrea! | adapted |
 
 ## Part 5 — Outro & Closing
-> Refusing his winter coat, Jean heads out into the cold air to clear his mind after months of intense isolation. When you watch the episode, listen out for the expressions meaning 'coat' and 'warm'. You'll catch them now. See you next time.
+> Refusing his winter coat, Jean heads out into the cold air to clear his mind after months of intense isolation. When you watch the episode, listen out for the expressions meaning 'coat' and 'warm'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 23
 TITLE = "Les conseils d'Arlette  (Arlette's Advice)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "gabriel": "theo"}
-LABELS = {"arlette": "Arlette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In Gabriel's quiet office, senior agent Arlette Azémar checks in on her colleague as he wrestles with private doubts. Confessing his jealousy over Sofia's new artistic project with Julien Dore, Gabriel receives wise and reassuring advice from the veteran agent. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = "Calmed by Arlette's experience and warmth, Gabriel learns to separate his professional role from his personal insecurities. Remember the essential French phrase for placing trust in someone: faire confiance. Join us next time to see what happens next."
-CLOSING = ("arlette", "Bonne journée!")
+OUTRO = "Calmed by Arlette's experience and warmth, Gabriel learns to separate his professional role from his personal insecurities. Remember the essential French phrase for placing trust in someone: faire confiance. See you next time!"
+CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('arlette', 'Tu vas bien, mon cher Gabriel?', 'Are you doing well, my dear Gabriel?', [(640, 'Ça va ?')], ''),
     ('gabriel', "C'est super pour le film de Sofia.", 'It is great for Sofia', [(641, "C'est super pour Sofia.")], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 1
-TITLE = "Vingt-trois mois de retard  (Twenty-Three Months Late)"
-LEVEL = "A1 — débutant"
+TITLE = 'Vingt-trois mois de retard  (Twenty-Three Months Late)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "audrey": "emilie", "mathias": "marcel", "inspecteur": "theo"}
-LABELS = {"audrey": "Audrey", "mathias": "Mathias", "inspecteur": "L'inspecteur"}
+VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel', 'inspecteur': 'theo'}
+LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias', 'inspecteur': "L'inspecteur"}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "First, in the agency kitchen, Camille tries to blend in with Hervé and Noémie. You'll hear the whole scene in French first — don't worry about catching every word."
 OPENER = "Let's go back through it step by step. Audrey is carrying her baby son down the corridor as she tries to keep up with Mathias."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Outside, Audrey admits she already owes forty thousand euros in back taxes, and Mathias tells her she has no choice: she has to go back to work right away. See you next time.'
-CLOSING = ("audrey", "Au revoir!")
+OUTRO = 'Outside, Audrey admits she already owes forty thousand euros in back taxes, and Mathias tells her she has no choice: she has to go back to work right away. See you next time!'
+CLOSING = ('audrey', 'Au revoir!')
 STORY = [
     ('audrey', 'Attends, tu marches trop vite. Je ne veux pas le réveiller.', "Wait, you're walking too fast. I don't want to wake him.", [(1, 'Attends, tu marches trop vite'), (2, 'Je ne veux pas le réveiller')], ''),
     ('audrey', "Il n'a pas dormi de la nuit. Il fait ses dents.", "He didn't sleep all night. He's teething.", [(3, "Il n'a pas dormi de la nuit"), (4, 'Il fait ses dents')], ''),

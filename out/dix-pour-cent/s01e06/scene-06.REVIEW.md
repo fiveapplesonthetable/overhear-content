@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Noémie, sors de là! | Noémie, get out of there! | 167:Noémie, sors de là ! |
 
 ## Part 5 — Outro & Closing
-> Noémie's secret inspection has ended in total catastrophe thanks to Jean Gabin the dog. Meanwhile, Andréa is meeting director Christophe Bel at a restaurant, striking a delicate deal to keep the plastic duck in the production while sparing François from entering the pool. See you next time!
+> Noémie's secret inspection has ended in total catastrophe thanks to Jean Gabin the dog. See you next time!
 - **Closing**: `herve`: *Bonne soirée!*

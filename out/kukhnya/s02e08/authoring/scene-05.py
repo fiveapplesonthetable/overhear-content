@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e08-scene-05"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-05'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 5
-TITLE = 'Регистрация Шефа в соцсети  (Registering the Chef on Social Media)'
+TITLE = "Регистрация Шефа в соцсети  (Registering the Chef on Social Media)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = "In the office, Max pulls up Elena's profile on a social network and shows Chef Barinov the admiring comments under her photos. When Max offers to create an account for him so he can message her online, Barinov kicks him out and declares that real men ask women out the old-fashioned way."
 
@@ -32,7 +32,7 @@ STORY = [
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
 
 WALK = [
-    (0, None, "'I knew she would like it.' Notice the reflexive suffix on the verb meaning 'will please', turning the action back on the subject."),
+    (0, None, "'I knew she would like it.' Notice how Russian puts 'knew' and 'will please, you'll like it' together in a short, direct phrase where word endings show how the ideas connect."),
     (1, None, "'In full detail. Just as I knew.' Here the Russian phrasing highlights 'detail' before landing on 'knew'."),
     (2, None, "'I told you, slowly and in full detail.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'detail'. Max answers right away."),
     (3, None, "'No problem at all.' The grammar packs 'yes' and 'question' into a tight, idiomatic kitchen exchange."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 5 of Episode 8, listen out for the exchange around registering the chef on social media — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('nastya', 'Ни сети.')
+OUTRO = "That wraps up this scene as max shows Chef Barinov Elena's social media profile and offers to register him online so he can ask her out, until Barinov insists on courting women the old-fashioned way. Until next time!"
+CLOSING = ("nastya", "Увидимся!")

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e16-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 3
 TITLE = "Утренний звонок Лёвы  (Lyova's Morning Call)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = "Chef Barinov is woken up in Elena Pavlovna's bedroom by an early morning call from Lyova, who says he and his mother are worried because Barinov never came home. Embarrassed to tell the truth, the Chef claims he spent the night at the restaurant."
 
 STORY = [
-    ('anya', 'Совесть, дай поспать.', 'Have a conscience, let me sleep.', [(41, 'совесть, дай поспать')], ''),
+    ('chef', 'Совесть, дай поспать.', 'Have a conscience, let me sleep.', [(41, 'совесть, дай поспать')], ''),
     ('lyova', 'Лёва, что тебе надо?', 'Lyova, what do you want?', [(42, 'Лёва, что тебе надо')], ''),
-    ('anya', 'Вы дома не ночевали.', 'You did not come home last night.', [(43, 'Вы дома не ночевали')], ''),
+    ('chef', 'Вы дома не ночевали.', 'You did not come home last night.', [(43, 'Вы дома не ночевали')], ''),
     ('lyova', 'Мы с мамой волнуемся.', 'Mom and I are worried about you.', [(44, 'Мы с мамой волнуемся')], ''),
-    ('anya', 'Где вы?', 'Where are you?', [(44, 'Где вы')], ''),
+    ('chef', 'Где вы?', 'Where are you?', [(44, 'Где вы')], ''),
     ('lyova', 'Я в ресторане ночевал.', 'I spent the night at the restaurant.', [(45, 'Я в ресторане ночевал')], ''),
-    ('anya', 'Сейчас отошел ненадолго в эту...', 'Right now I just stepped out briefly to the...', [(46, 'Сейчас отошел ненадолго в эту')], ''),
+    ('chef', 'Сейчас отошел ненадолго в эту...', 'Right now I just stepped out briefly to the...', [(46, 'Сейчас отошел ненадолго в эту')], ''),
     ('lyova', 'А что вы там делаете?', 'And what are you doing over there?', [(48, 'А что вы там делаете')], ''),
-    ('anya', 'Какое дело делаю?', 'What business am I tending to?', [(49, 'Какое дело делаю')], ''),
+    ('chef', 'Какое дело делаю?', 'What business am I tending to?', [(49, 'Какое дело делаю')], ''),
     ('lyova', 'Скоро буду.', 'I will be back soon.', [(50, 'Скоро буду')], ''),
-    ('anya', 'Ведешь себя как ребенок.', 'You are acting like a child.', [(51, 'Ведешь себя как ребенок')], ''),
+    ('chef', 'Ведешь себя как ребенок.', 'You are acting like a child.', [(51, 'Ведешь себя как ребенок')], ''),
     ('lyova', 'Ну, Лёва, взрослый парень.', 'Come on, Lyova is a grown man.', [(52, 'Ну, Лёва, взрослый парень')], ''),
-    ('anya', 'Мог бы ему сказать правду.', 'You could have just told him the truth.', [(53, 'Мог бы ему сказать правду')], ''),
+    ('chef', 'Мог бы ему сказать правду.', 'You could have just told him the truth.', [(53, 'Мог бы ему сказать правду')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 3 of Episode 16, listen out for the exchange around lyova's morning call — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Мог бы ему сказать правду.')
+OUTRO = "That wraps up this scene as waking up in Elena Pavlovna's bed, Chef Barinov answers a worried morning phone call from Lyova and lies that he slept at the restaurant. Until next time!"
+CLOSING = ("chef", "До встречи!")

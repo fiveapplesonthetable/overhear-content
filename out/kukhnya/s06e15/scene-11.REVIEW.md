@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Лёва | Виктор Петрович, как вы так могли? | Viktor Petrovich, how could you do that? | #180 00:11:07: Петрович, как вы могли | adapted: adapted |
 | 2 | Лёва | Вы просто боитесь работать без меня! | You are simply afraid to work without me! | #181 00:11:09: вы боитесь работать без меня | adapted: adapted |
-| 3 | Аня | Лёва, у тебя сегодня новый костюм? | Lyova, do you have a new suit today? | #182 00:11:14: Лев, у тебя новый костюм | adapted: adapted |
-| 4 | Аня | Отстань, Лёва, я готовлю важное блюдо. | Leave me alone, Lyova, I am cooking an important dish. | #184 00:11:18: Отстань, Лев. Я готовлю блюдо | adapted: adapted |
-| 5 | Аня | Одно блюдо приготовил и уже шеф? | You cooked one dish and you are already a chef? | #187 00:11:31: Одно блюдо от шефа приготовил, и все уже, шеф | adapted: adapted |
+| 3 | Шеф | Лёва, у тебя сегодня новый костюм? | Lyova, do you have a new suit today? | #182 00:11:14: Лев, у тебя новый костюм | adapted: adapted |
+| 4 | Шеф | Отстань, Лёва, я готовлю важное блюдо. | Leave me alone, Lyova, I am cooking an important dish. | #184 00:11:18: Отстань, Лев. Я готовлю блюдо | adapted: adapted |
+| 5 | Шеф | Одно блюдо приготовил и уже шеф? | You cooked one dish and you are already a chef? | #187 00:11:31: Одно блюдо от шефа приготовил, и все уже, шеф | adapted: adapted |
 | 6 | Лёва | Я любое ваше блюдо легко приготовлю! | I will easily cook any dish of yours! | #188 00:11:35: Да я любое ваше блюдо | adapted: adapted |
 | 7 | Лёва | Приготовлю с закрытыми глазами не хуже! | I will cook it with my eyes closed no worse! | #188 00:11:35: с закрытыми глазами не хуже вас приготовлю | adapted: adapted |
-| 8 | Аня | Прямо с закрытыми глазами не хуже? | Right with your eyes closed and no worse? | #189 00:11:40: Прямо закрытыми? Прямо не хуже | adapted: adapted |
-| 9 | Аня | Хорошо, договорились, сейчас готовим оба вслепую! | Fine, deal, right now we both cook blindfolded! | #190 00:11:43: Договорились, готовим вслепую | adapted: adapted |
-| 10 | Аня | Если приготовишь хуже, будешь работать бесплатно! | If you cook worse, you will work for free! | #191 00:11:46: Если ты приготовишь хуже меня | adapted: adapted |
-| 11 | Сеня | Я ставлю тысячу рублей на шефа! | I bet a thousand rubles on the chef! | #192 00:11:53: Ставлю штуку на шефа | adapted: adapted |
+| 8 | Шеф | Прямо с закрытыми глазами не хуже? | Right with your eyes closed and no worse? | #189 00:11:40: Прямо закрытыми? Прямо не хуже | adapted: adapted |
+| 9 | Шеф | Хорошо, договорились, сейчас готовим оба вслепую! | Fine, deal, right now we both cook blindfolded! | #190 00:11:43: Договорились, готовим вслепую | adapted: adapted |
+| 10 | Шеф | Если приготовишь хуже, будешь работать бесплатно! | If you cook worse, you will work for free! | #191 00:11:46: Если ты приготовишь хуже меня | adapted: adapted |
+| 11 | Лёва | Я ставлю тысячу рублей на шефа! | I bet a thousand rubles on the chef! | #192 00:11:53: Ставлю штуку на шефа | adapted: adapted |
 | 12 | Лёва | Давайте повязки, я готов начинать спор. | Give us the blindfolds, I am ready to start the bet. | #190 00:11:43: готовим вслепую | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

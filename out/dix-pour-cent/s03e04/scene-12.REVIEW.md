@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | D'accord, je vais appeler Gary immédiatement. | Alright, I will call Gary immediately. | 733:Pouvez-vous envoyer Gary ici ?, 735:Maintenant, s'il vous plaît |
 
 ## Part 5 — Outro & Closing
-> Isabelle refuses to compromise her craft or let a director trim away her artistic essence. When you watch the episode, listen out for the expressions meaning 'script scene' and 'know'. You'll catch them now. See you next time.
+> Isabelle refuses to compromise her craft or let a director trim away her artistic essence. When you watch the episode, listen out for the expressions meaning 'script scene' and 'know'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *Bonne journée!*

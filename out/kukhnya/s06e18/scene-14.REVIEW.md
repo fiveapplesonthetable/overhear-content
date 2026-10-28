@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Федя | Но это же тайное голосование. | But this is a secret vote, after all. | #237 00:14:49: голосование<br>#238 00:14:51: тайное | adapted: adapted |
-| 2 | Аня | Иди отсюда, позови сюда следующего. | Go on out of here, call the next person in. | #238 00:14:51: иди отсюда<br>#239 00:14:53: Позови следующего | adapted: adapted |
-| 3 | Сеня | Добрый день, у меня вопрос. | Good afternoon, I have a question. | #241 00:14:59: Добрый день<br>#242 00:15:03: Так у меня вопрос | adapted: adapted |
-| 4 | Сеня | Независимый наблюдатель может не наблюдать? | Can the independent observer not watch? | #242 00:15:03: Наблюдатель может не наблюдать | adapted: adapted |
-| 5 | Аня | Нет, так делать совсем нельзя. | No, one cannot do that at all. | #243 00:15:07: Нет | adapted: adapted |
-| 6 | Сеня | Понятно, а если вот так? | Understood, and what if like this? | #243 00:15:07: Понятно. А если так | adapted: adapted |
-| 7 | Аня | Отлично, теперь ты честно проголосовал. | Great, now you have voted fairly. | #245 00:15:24: Проголосовал | adapted: adapted |
-| 8 | Аня | Подводим итоги нашей честной борьбы. | Let us sum up the results of our fair contest. | #246 00:15:27: честной борьбе | adapted: adapted |
-| 9 | Аня | Сегодня в выборах победил Арсений! | Today Arseny won the election! | #247 00:15:33: победил Арсений | adapted: adapted |
+| 2 | Тимур | Иди отсюда, позови сюда следующего. | Go on out of here, call the next person in. | #238 00:14:51: иди отсюда<br>#239 00:14:53: Позови следующего | adapted: adapted |
+| 3 | Тимур | Добрый день, у меня вопрос. | Good afternoon, I have a question. | #241 00:14:59: Добрый день<br>#242 00:15:03: Так у меня вопрос | adapted: adapted |
+| 4 | Тимур | Независимый наблюдатель может не наблюдать? | Can the independent observer not watch? | #242 00:15:03: Наблюдатель может не наблюдать | adapted: adapted |
+| 5 | Тимур | Нет, так делать совсем нельзя. | No, one cannot do that at all. | #243 00:15:07: Нет | adapted: adapted |
+| 6 | Тимур | Понятно, а если вот так? | Understood, and what if like this? | #243 00:15:07: Понятно. А если так | adapted: adapted |
+| 7 | Тимур | Отлично, теперь ты честно проголосовал. | Great, now you have voted fairly. | #245 00:15:24: Проголосовал | adapted: adapted |
+| 8 | Тимур | Подводим итоги нашей честной борьбы. | Let us sum up the results of our fair contest. | #246 00:15:27: честной борьбе | adapted: adapted |
+| 9 | Тимур | Сегодня в выборах победил Арсений! | Today Arseny won the election! | #247 00:15:33: победил Арсений | adapted: adapted |
 | 10 | Федя | Как это он вдруг победил? | How did he suddenly win like that? | #247 00:15:33: победил | adapted: adapted |
-| 11 | Аня | У кого-нибудь есть сейчас возражения? | Does anyone have any objections right now? | #248 00:15:35: возражений нет | adapted: adapted |
-| 12 | Аня | Можете забирать бюллетени на салат. | You can take the ballots for salad. | #248 00:15:35: можете забирать бюллетени на салат | adapted: adapted |
+| 11 | Тимур | У кого-нибудь есть сейчас возражения? | Does anyone have any objections right now? | #248 00:15:35: возражений нет | adapted: adapted |
+| 12 | Тимур | Можете забирать бюллетени на салат. | You can take the ballots for salad. | #248 00:15:35: можете забирать бюллетени на салат | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

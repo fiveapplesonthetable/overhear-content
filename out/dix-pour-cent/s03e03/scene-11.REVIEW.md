@@ -28,5 +28,5 @@
 | 14 | `directeur` (Le directeur) | Enchanté, Camille, bravo pour cette découverte! | Delighted, Camille, congratulations on this discovery! | 450:Enchantée, 452:Camille, ça va |
 
 ## Part 5 — Outro & Closing
-> Stepping boldly into the spotlight, Camille Valentini signs an explosive young talent and establishes herself as a force at the agency. When you watch the episode, listen out for the expressions meaning 'remarkable sensation' and 'am coming'. You'll catch them now. See you next time.
+> Stepping boldly into the spotlight, Camille Valentini signs an explosive young talent and establishes herself as a force at the agency. When you watch the episode, listen out for the expressions meaning 'remarkable sensation' and 'am coming'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *À demain!*

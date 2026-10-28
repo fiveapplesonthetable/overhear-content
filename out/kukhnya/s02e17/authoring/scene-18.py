@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e17-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 18
-TITLE = 'Взрыв на кухне и руины правды  (Kitchen Explosion and the Ruins of Truth)'
+TITLE = "Взрыв на кухне и руины правды  (Kitchen Explosion and the Ruins of Truth)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = "The confrontation spills into the kitchen as Vika brings up the rumor about Chef Barinov reciting poetry to Louis, causing Viktor Petrovich's anger-management technique to implode completely. Watching the chaos, Max reflects on how every reckless act eventually leaves behind only ruins."
 
 STORY = [
-    ('anya', 'Ну вы, конечно, друг друга стоите.', 'Well, you two certainly deserve each other.', [(289, 'Ну вы, конечно, друг друга стоите')], ''),
-    ('vika', 'Вы только его послушайте.', 'Just listen to him talk.', [(290, 'Вы только его послушайте')], ''),
+    ('chef', 'Ну вы, конечно, друг друга стоите.', 'Well, you two certainly deserve each other.', [(289, 'Ну вы, конечно, друг друга стоите')], ''),
+    ('nastya', 'Вы только его послушайте.', 'Just listen to him talk.', [(290, 'Вы только его послушайте')], ''),
     ('nastya', 'А сам?', 'And what about yourself?', [(291, 'А сам')], ''),
-    ('anya', 'Вы же себе позволяете, Витя, кто это?', 'What are you allowing yourself to do, Vitya, who is this?', [(292, 'Вы же себе позволяете, Витя, кто это')], ''),
-    ('vika', 'Чего вы тут несете?', 'What nonsense are you all spouting in here?', [(293, 'Чего вы тут несете')], ''),
+    ('chef', 'Вы же себе позволяете, Витя, кто это?', 'What are you allowing yourself to do, Vitya, who is this?', [(292, 'Вы же себе позволяете, Витя, кто это')], ''),
+    ('nastya', 'Чего вы тут несете?', 'What nonsense are you all spouting in here?', [(293, 'Чего вы тут несете')], ''),
     ('nastya', 'Зачем вам Луи?', 'Why on earth do you need Louis?', [(294, 'Зачем вам Луи')], ''),
-    ('anya', 'Сейчас я все объясню.', 'I am going to explain everything right now.', [(295, 'Сейчас я все объясню')], ''),
-    ('vika', 'Что-то мне это все напоминает?', 'Why does all of this remind me of something?', [(296, 'Что-то мне это все напоминает')], ''),
+    ('chef', 'Сейчас я все объясню.', 'I am going to explain everything right now.', [(295, 'Сейчас я все объясню')], ''),
+    ('nastya', 'Что-то мне это все напоминает?', 'Why does all of this remind me of something?', [(296, 'Что-то мне это все напоминает')], ''),
     ('nastya', 'Я сейчас вам всем объясню!', 'I am going to explain it to all of you right now!', [(297, 'Я сейчас вам всем объясню')], ''),
-    ('anya', 'Даже не пытаешься измениться.', 'You are not even trying to change.', [(299, 'Даже не пытаешься измениться')], ''),
-    ('vika', 'Каждый необдуманный поступок в нашей жизни –.', 'Every reckless action in our lives is a mine.', [(300, 'Каждый необдуманный поступок в нашей жизни')], ''),
+    ('chef', 'Даже не пытаешься измениться.', 'You are not even trying to change.', [(299, 'Даже не пытаешься измениться')], ''),
+    ('nastya', 'Каждый необдуманный поступок в нашей жизни –.', 'Every reckless action in our lives is a mine.', [(300, 'Каждый необдуманный поступок в нашей жизни')], ''),
     ('nastya', 'Мы, оглядываясь, видим лишь руины.', 'Looking back, we see nothing but ruins.', [(310, 'Мы, оглядываясь, видим лишь руины')], ''),
-    ('anya', 'Знаете что?', 'You know what?', [(312, 'Знаете что')], ''),
+    ('chef', 'Знаете что?', 'You know what?', [(312, 'Знаете что')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 18 of Episode 17, listen out for the exchange around kitchen explosion and the ruins of truth — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Знаете что?')
+OUTRO = "That wraps up this scene as chef Barinov's poetry therapy collapses as Vika accuses him of chasing Louis, leaving Max to reflect on how reckless actions and bitter truths leave only ruins behind. See you next time!"
+CLOSING = ("chef", "До завтра!")

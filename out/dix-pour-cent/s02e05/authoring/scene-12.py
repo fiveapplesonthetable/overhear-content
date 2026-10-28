@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 12
-TITLE = "Le destin frappe à la porte  (Destiny Knocking)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le destin frappe à la porte  (Destiny Knocking)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the ASK restroom, Camille weeps after the harsh accusations from Hervé. Andréa comes in to comfort her, explaining that she earned her opportunity and that destiny rarely knocks twice. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'In an intimate conversation in the restroom, Andréa offers heartfelt support to Camille. Reassuring her that opportunity rarely knocks twice, Andréa encourages Camille to embrace her new role. Until next time.'
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = 'In an intimate conversation in the restroom, Andréa offers heartfelt support to Camille. Reassuring her that opportunity rarely knocks twice, Andréa encourages Camille to embrace her new role. See you next time!'
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Ma Camille. Ne pleure pas.', 'My Camille. Do not cry.', [(341, 'Ma Camille.')], ''),
     ('camille', 'Tout le monde me déteste maintenant.', 'Everyone hates me now.', [(341, 'Ma Camille.')], ''),

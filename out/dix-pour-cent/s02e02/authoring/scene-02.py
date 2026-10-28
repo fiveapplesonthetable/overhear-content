@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 2
 TITLE = "L'ordre d'Hicham  (Hicham's Order)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "In the executive office, the celebration is cut short as Hicham discovers that ASK just lost two huge stars. Infuriated by rival agency StarMédia, he demands an immediate counterattack: poaching iconic actor Fabrice Luchini. Let's listen to the tense confrontation in French first."
 OPENER = "Let's examine how Hicham pushes his agents to take extreme risks."
 TRANSITION = "Now let's listen to the argument about Fabrice Luchini again at natural speed."
 OUTRO = 'Hicham has made his ultimatum clear: sign Fabrice Luchini or risk losing the entire agency. While Mathias panics, Andréa prepares to make contact with the great actor. See you next time!'
-CLOSING = ("lea", "Au revoir!")
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('hicham', "C'est quoi cette histoire avec Ramzy et Virginie Efira?", 'What is this story about Ramzy and Virginie Efira?', [(38, "C'est quoi cette histoire avec Ramzy"), (39, 'et Virginie Efira qui partent ?')], ''),
     ('gabriel', 'Ils ont rompu, et François Bréhier en a profité.', 'They broke up, and François Bréhier took advantage of it.', [(49, 'Ils ont rompu,'), (50, 'François Bréhier en a profité.')], ''),

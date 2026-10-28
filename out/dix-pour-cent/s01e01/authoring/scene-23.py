@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 23
-TITLE = "Pas de Cécile, pas de Paris  (No Cécile, No Paris)"
-LEVEL = "A1 — débutant"
+TITLE = 'Pas de Cécile, pas de Paris  (No Cécile, No Paris)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "miranda": "emilie"}
-LABELS = {"mathias": "Mathias", "miranda": "Miranda"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'miranda': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'miranda': 'Miranda'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Meanwhile, Mathias is back in the elegant tea room with Miranda Jones, Tarantino's producer. She has a new worry: she wants to shoot the film in Paris, and for that she needs permits. Mathias sees his chance. You'll hear it all in French first; don't worry if some words slip past you."
 OPENER = "Let's take it slowly. Miranda opens with what she wants, and the verb she uses is the film-world word for shooting a scene."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's the end of this scene. When you watch it, listen for the short, punchy line about Cécile and Paris; you'll recognise it straight away. See you next time!"
-CLOSING = ("miranda", "Au revoir, Mathias!")
+CLOSING = ('miranda', 'Au revoir, Mathias!')
 STORY = [
     ('miranda', 'Mathias, je veux tourner à Paris.', 'Mathias, I want to shoot in Paris.', [(642, 'Tourner à Paris')], ''),
     ('mathias', "Paris? C'est une très bonne idée.", 'Paris? That', [], ''),

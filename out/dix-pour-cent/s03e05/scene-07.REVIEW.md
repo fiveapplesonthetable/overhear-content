@@ -26,5 +26,5 @@
 | 12 | `beatrice` (Béatrice) | Tu es la meilleure, mon agente préférée! | You are the best, my favorite agent! | 224:T'es la meilleure, ma chérie |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around beatrice on set. When you watch the episode, listen out for the expressions meaning 'to be' and 'naked'. You'll catch them now. See you next time.
+> That's it for this scene around beatrice on set. When you watch the episode, listen out for the expressions meaning 'to be' and 'naked'. You'll catch them now. See you next time!
 - **Closing**: `beatrice`: *À bientôt!*

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e05-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 1
 TITLE = "Кошмар Макса и возврат тартара  (Max's Nightmare and the Returned Tartare)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Шеф', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = 'At the apartment, Max bolts upright from a nightmare about being caught between Vika and Sasha and wakes Kostya and Nastya in the middle of the night. The next day at Claude Monet, a fussy guest sends back a plate of raw steak tartare and demands that the kitchen fry it.'
 
 STORY = [
-    ('anya', 'Да так, страшный сон приснился.', 'Nothing much, I just had a scary dream.', [(1, 'Да так, страшный сон приснился')], ''),
-    ('kostya', 'Клоуны снились?', 'Were you dreaming about clowns?', [(2, 'Клоуны снились')], ''),
-    ('anya', 'Чего вы так на меня смотрите?', 'Why are the two of you looking at me like that?', [(3, 'Чего вы так на меня смотрите')], ''),
-    ('kostya', 'Ладно, пойдем спать.', 'All right, let us go back to sleep.', [(5, 'Ладно, пойдем спать')], ''),
-    ('anya', 'Костик, ну пойдем.', 'Kostik, come on, let us go.', [(7, 'Костик, ну пойдем')], ''),
-    ('kostya', 'Шеф, тут вот тартар.', 'Chef, we have this steak tartare here.', [(8, 'Шеф, тут вот тартар')], ''),
-    ('anya', 'Это что, возврат?', 'What is this, a returned dish?', [(9, 'Это что, возврат')], ''),
-    ('kostya', 'А, да нет, не возврат.', 'Oh, no, it is not a return.', [(10, 'А, да нет, не возврат')], ''),
-    ('anya', 'А что это?', 'Then what is it?', [(11, 'А что это')], ''),
-    ('kostya', 'Но она...', 'Well, she...', [(13, 'но она')], ''),
-    ('anya', 'Что случилось?', 'What happened?', [(14, 'Что случилось')], ''),
-    ('kostya', 'Там в зале сидит чудовище.', 'There is a monster sitting out in the dining room.', [(15, 'Там в зале сидит чудовище')], ''),
-    ('anya', 'Я должна его уничтожить.', 'I have to destroy it.', [(16, 'Я должна его уничтожить')], ''),
+    ('chef', 'Да так, страшный сон приснился.', 'Nothing much, I just had a scary dream.', [(1, 'Да так, страшный сон приснился')], ''),
+    ('chef', 'Клоуны снились?', 'Were you dreaming about clowns?', [(2, 'Клоуны снились')], ''),
+    ('chef', 'Чего вы так на меня смотрите?', 'Why are the two of you looking at me like that?', [(3, 'Чего вы так на меня смотрите')], ''),
+    ('chef', 'Ладно, пойдем спать.', 'All right, let us go back to sleep.', [(5, 'Ладно, пойдем спать')], ''),
+    ('chef', 'Костик, ну пойдем.', 'Kostik, come on, let us go.', [(7, 'Костик, ну пойдем')], ''),
+    ('chef', 'Шеф, тут вот тартар.', 'Chef, we have this steak tartare here.', [(8, 'Шеф, тут вот тартар')], ''),
+    ('chef', 'Это что, возврат?', 'What is this, a returned dish?', [(9, 'Это что, возврат')], ''),
+    ('chef', 'А, да нет, не возврат.', 'Oh, no, it is not a return.', [(10, 'А, да нет, не возврат')], ''),
+    ('chef', 'А что это?', 'Then what is it?', [(11, 'А что это')], ''),
+    ('chef', 'Но она...', 'Well, she...', [(13, 'но она')], ''),
+    ('chef', 'Что случилось?', 'What happened?', [(14, 'Что случилось')], ''),
+    ('chef', 'Там в зале сидит чудовище.', 'There is a monster sitting out in the dining room.', [(15, 'Там в зале сидит чудовище')], ''),
+    ('chef', 'Я должна его уничтожить.', 'I have to destroy it.', [(16, 'Я должна его уничтожить')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 1 of Episode 5, listen out for the exchange around max's nightmare and the returned tartare — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Я должна его уничтожить.')
+OUTRO = "That wraps up this scene as max wakes up from a nightmare about Vika and Sasha, and at the restaurant a demanding guest sends back Chef Barinov's steak tartare asking for it to be fried. Until next time!"
+CLOSING = ("chef", "Пока!")

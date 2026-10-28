@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Спасибо тебе, Настенька. | Thank you, Nastenka. | #5 00:01:22: Спасибо тебе, Настенька | verbatim |
+| 1 | Костя | Спасибо тебе, Настенька. | Thank you, Nastenka. | #5 00:01:22: Спасибо тебе, Настенька | verbatim |
 | 2 | Настя | Я их не нашла. | I did not find them. | #6 00:01:27: я их не нашла | verbatim |
-| 3 | Аня | Кстати, прикольный цвет. | By the way, that is a cool color. | #7 00:01:29: Кстати, прикольный цвет | verbatim |
+| 3 | Костя | Кстати, прикольный цвет. | By the way, that is a cool color. | #7 00:01:29: Кстати, прикольный цвет | verbatim |
 | 4 | Настя | Так, а где мусорка? | Wait, where is the trash can? | #8 00:01:36: Так, а где мусорка | verbatim |
-| 5 | Аня | Где должна быть. | Right where it belongs. | #9 00:01:39: где должна быть | verbatim |
+| 5 | Костя | Где должна быть. | Right where it belongs. | #9 00:01:39: где должна быть | verbatim |
 | 6 | Настя | Слушай, хватит наводить тут в свои порядки. | Listen, stop imposing your own rules around here. | #10 00:01:42: Слушай, хватит наводить тут в свои порядки | verbatim |
-| 7 | Аня | Знаешь что? | You know what? | #11 00:01:45: Знаешь что | verbatim |
+| 7 | Костя | Знаешь что? | You know what? | #11 00:01:45: Знаешь что | verbatim |
 | 8 | Настя | Ты не переживай, я их уже потравила. | Do not worry, I already poisoned them. | #12 00:01:52: Ты не переживай, я их уже потравила | verbatim |
-| 9 | Аня | А ты. | And what about you. | #13 00:02:01: а ты | verbatim |
+| 9 | Костя | А ты. | And what about you. | #13 00:02:01: а ты | verbatim |
 | 10 | Настя | Я, конечно, знал, что черепахи медленные. | Of course, I knew that turtles are slow. | #14 00:02:06: Я, конечно, знал, что черепахи медленные | verbatim |
-| 11 | Аня | По-моему, наш Пашка совсем вялый. | I think our Pashka looks completely sluggish. | #15 00:02:11: По-моему, наш Пашка совсем вялый | verbatim |
+| 11 | Костя | По-моему, наш Пашка совсем вялый. | I think our Pashka looks completely sluggish. | #15 00:02:11: По-моему, наш Пашка совсем вялый | verbatim |
 | 12 | Настя | Решет. Костя. | Wait a second, Kostya. | #16 00:02:15: Решет. Костя | verbatim |
-| 13 | Аня | Не трогай. | Do not touch him. | #16 00:02:15: не трогай | verbatim |
+| 13 | Костя | Не трогай. | Do not touch him. | #16 00:02:15: не трогай | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

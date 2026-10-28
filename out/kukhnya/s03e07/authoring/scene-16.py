@@ -1,20 +1,20 @@
 ID = 'kukhnya-s03e07-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 16
-TITLE = 'Признание в машине  (Confession in the Car)'
+TITLE = "Признание в машине  (Confession in the Car)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'Remembering the lesson from the previous timeline, Max speaks to Vika from the heart instead of kidnapping her. He tells her plainly and sincerely that he loves her.'
 
 STORY = [
-    ('lyova', 'Шеф, там вас гость ждёт с тараканом.', 'Chef, a guest is waiting for you out there with a cockroach.', [(228, 'Шеф, там вас гость ждет с тараканом')], 'adapted'),
+    ('vika', 'Шеф, там вас гость ждёт с тараканом.', 'Chef, a guest is waiting for you out there with a cockroach.', [(228, 'Шеф, там вас гость ждет с тараканом')], 'adapted'),
     ('anya', 'Как же мне это надоело уже!', 'How tired I am of this already!', [(229, 'надоело уже')], 'adapted'),
     ('anya', 'Что, скучно ехать без музыки, да?', 'What, it is boring to ride without music, right?', [(230, 'Скучно без музыки, да')], 'adapted'),
     ('anya', 'Вика, пожалуйста, просто выслушай меня.', 'Vika, please, just hear me out.', [(231, 'Вика, выслушай меня')], 'adapted'),
@@ -25,7 +25,7 @@ STORY = [
     ('anya', 'Вика, я очень сильно люблю тебя.', 'Vika, I love you very much.', [(236, 'Вика, я люблю тебя')], 'adapted'),
     ('vika', 'Подожди, что ты сейчас сказал?', 'Wait, what did you just say?', [(237, 'Что ты сказал')], 'adapted'),
     ('anya', 'Я сказал, что люблю тебя.', 'I said that I love you.', [(238, 'Я люблю тебя')], 'adapted'),
-    ('anya', 'Я всегда боялся этих слов, а сейчас говорю, потому что действительно тебя люблю.', 'I was always afraid of those words, and now I say them because I truly love you.', [(239, 'Я всегда боялся этих слов, а сейчас говорю так')], 'adapted'),
+    ('anya', 'Я боялся этих слов, а сейчас говорю, что действительно тебя люблю.', 'I was afraid of those words, and now I say I truly love you.', [(239, 'боялся этих слов, а сейчас говорю')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Vika, I love you very much.' Spoken Russian keeps this brisk, leaning on 'Vika' and finishing on 'you'. Vika answers right away."),
     (9, None, "'Wait, what did you just say?' The grammar packs 'wait' and 'said' into a tight, idiomatic kitchen exchange."),
     (10, None, "'I said that I love you.' In Russian, the idea of 'I' flows naturally into 'you' without extra filler words."),
-    (11, None, "'I was always afraid of those words, and now I say them because I truly love you.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'like'."),
+    (11, None, "'I was afraid of those words, and now I say I truly love you.' In everyday Russian, 'was afraid' flows straight into 'love' without extra linking words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Hearing Max finally say those three words with complete sincerity melts Vika's heart, and they reconcile right in the car."
-CLOSING = ('anya', 'Я действительно тебя люблю.')
+OUTRO = "Hearing Max finally say those three words with complete sincerity melts Vika's heart, and they reconcile right in the car. See you next time!"
+CLOSING = ("anya", "Увидимся!")

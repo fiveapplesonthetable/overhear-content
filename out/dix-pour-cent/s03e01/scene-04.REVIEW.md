@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Restons concentrés sur notre travail à l'agence. | Let us stay focused on our work at the agency. | 68:j'ai un besoin d'un martel. |
 
 ## Part 5 — Outro & Closing
-> Andrea gracefully shuts down Gabriel's awkward question, reaffirming the boundaries between personal and office life. When you watch the episode, listen out for the expressions meaning 'return' and 'mother'. You'll catch them now. See you next time.
+> Andrea gracefully shuts down Gabriel's awkward question, reaffirming the boundaries between personal and office life. When you watch the episode, listen out for the expressions meaning 'return' and 'mother'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

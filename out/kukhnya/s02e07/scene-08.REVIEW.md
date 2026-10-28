@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | О, овощи аль денте. | Oh, al dente vegetables again. | #113 00:07:35: О, овощи аль денте | verbatim |
-| 2 | Вика | Такие же передержанные, как и вчера. | Just as overcooked as they were yesterday. | #115 00:07:44: Такие же передержанные, как и вчера | verbatim |
+| 1 | Шеф | О, овощи аль денте. | Oh, al dente vegetables again. | #113 00:07:35: О, овощи аль денте | verbatim |
+| 2 | Элеонора | Такие же передержанные, как и вчера. | Just as overcooked as they were yesterday. | #115 00:07:44: Такие же передержанные, как и вчера | verbatim |
 | 3 | Элеонора | Так вот, значит, компетентный человек шефа. | So that is who the Chef's 'competent person' is. | #116 00:07:47: Так вот, значит, компетентный человек шефа | verbatim |
-| 4 | Аня | Он мне еще замечания делает. | And he has the nerve to lecture me. | #117 00:07:51: Он мне еще замечания делает | verbatim |
-| 5 | Вика | Как мне мясо жарят. | About how I roast my meat. | #118 00:07:52: как мне мясо жарят | verbatim |
+| 4 | Шеф | Он мне еще замечания делает. | And he has the nerve to lecture me. | #117 00:07:51: Он мне еще замечания делает | verbatim |
+| 5 | Элеонора | Как мне мясо жарят. | About how I roast my meat. | #118 00:07:52: как мне мясо жарят | verbatim |
 | 6 | Элеонора | Ой, мне плохо. | Oh, I feel awful. | #119 00:07:59: Ой, мне плохо | verbatim |
-| 7 | Аня | Виктор Петрович, вы опять выпивали. | Viktor Petrovich, you have been drinking again. | #120 00:08:03: Виктор Петрович, вы опять выпивали | verbatim |
-| 8 | Вика | У вас запредельное давление. | Your blood pressure is through the roof. | #121 00:08:06: У вас запредельное давление | verbatim |
+| 7 | Шеф | Виктор Петрович, вы опять выпивали. | Viktor Petrovich, you have been drinking again. | #120 00:08:03: Виктор Петрович, вы опять выпивали | verbatim |
+| 8 | Элеонора | У вас запредельное давление. | Your blood pressure is through the roof. | #121 00:08:06: У вас запредельное давление | verbatim |
 | 9 | Элеонора | Я не выпивал. | I have not been drinking. | #122 00:08:09: Я не выпивал | verbatim |
-| 10 | Аня | Что вы делали? | Then what were you doing? | #123 00:08:11: Что вы делали | verbatim |
-| 11 | Вика | Лучше бы выпивал. | I would have been better off drinking. | #124 00:08:14: Лучше бы выпивал | verbatim |
+| 10 | Шеф | Что вы делали? | Then what were you doing? | #123 00:08:11: Что вы делали | verbatim |
+| 11 | Элеонора | Лучше бы выпивал. | I would have been better off drinking. | #124 00:08:14: Лучше бы выпивал | verbatim |
 | 12 | Элеонора | Виктор Петрович. | Viktor Petrovich. | #125 00:08:16: Виктор Петрович | verbatim |
-| 13 | Аня | Завтра снова побегу. | Tomorrow I am going jogging again. | #128 00:08:23: Завтра снова побегу | verbatim |
+| 13 | Шеф | Завтра снова побегу. | Tomorrow I am going jogging again. | #128 00:08:23: Завтра снова побегу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

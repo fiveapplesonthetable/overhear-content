@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 6
 TITLE = "La signature de Mathias  (Mathias's Signature)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the ASK agency, Mathias signs the final legal paperwork selling his shares and ending his tenure. As he delivers an emotional farewell speech, Andrea and Gabriel react with skeptical questions. Let's listen to their conversation in French first."
 OPENER = "Let's examine Mathias's farewell speech and his colleagues' reactions line by line."
 TRANSITION = "Now let's listen to Mathias's departure speech once more from start to finish."
-OUTRO = "That's it for this scene around mathias's signature. When you watch the episode, listen out for the expressions meaning 'pact' and 'of shareholders'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "That's it for this scene around mathias's signature. When you watch the episode, listen out for the expressions meaning 'pact' and 'of shareholders'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('mathias', "Voilà, le pacte d'actionnaires est signé.", 'There, the shareholder agreement is signed.', [(461, "Il ne reste plus qu'à signer le pacte d'actionnaires.")], ''),
     ('mathias', 'Puis-je dire quelques mots avant de partir?', 'May I say a few words before leaving?', [(463, 'Puis-je dire quelques mots ?')], ''),

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 12
 TITLE = "Заговор официантов  (The Waiters' Conspiracy)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'Determined to get rid of the molecular menu, Chef Barinov secretly gathers the waiters and offers them ten thousand rubles each if no guest orders a molecular dish all week.'
@@ -21,7 +21,7 @@ STORY = [
     ('anya', 'Да, шеф. Я всё сделаю, шеф.', 'Yes, Chef. I will do everything, Chef.', [(227, 'Да, шеф'), (230, 'Я все сделаю, шеф')], 'adapted'),
     ('anya', 'Виктор Петрович, я думаю, это нечестно.', 'Viktor Petrovich, I think this is unfair.', [(228, 'Виктор Петрович, я думаю, это нечестно')], ''),
     ('chef', 'Я уберу из меню молочного ягнёнка.', 'I will remove the milk-fed lamb from the menu.', [(229, 'Я уберу из меню молочного ягненка')], ''),
-    ('guest', 'Скажите, а что это за молекулярная кухня?', 'Tell me, what is this molecular cuisine?', [(231, 'Скажите, а что это за молекулярная кухня')], ''),
+    ('chef', 'Скажите, а что это за молекулярная кухня?', 'Tell me, what is this molecular cuisine?', [(231, 'Скажите, а что это за молекулярная кухня')], ''),
     ('anya', 'Вы знаете, я бы вам не советовал.', 'You know, I would not advise you to get it.', [(232, 'Вы знаете, я бы вам не советовал')], ''),
     ('anya', 'Сплошная химия, и очень дорого.', 'Pure chemicals, and very expensive.', [(233, 'сплошная химия, во-вторых, очень дорого')], 'adapted'),
     ('anya', 'Я бы не советовала вам это заказывать.', 'I would not advise you to order this.', [(237, 'Я бы не советовала вам это заказывать')], ''),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That ends our twelfth scene. Watch how quickly the waiters tell every curious diner that the new molecular menu is pure chemistry from an inexperienced cook.'
-CLOSING = ('anya', 'Повар совсем новый!')
+OUTRO = 'That ends our twelfth scene. Watch how quickly the waiters tell every curious diner that the new molecular menu is pure chemistry from an inexperienced cook. See you next time!'
+CLOSING = ("anya", "Пока!")

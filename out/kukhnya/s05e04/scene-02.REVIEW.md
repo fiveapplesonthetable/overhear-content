@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Виктор Петрович, | Viktor Petrovich, | #16 00:02:41: Виктор Петрович | adapted: adapted |
-| 2 | Аня | шеф-повар от Бога. | is a head chef sent from God. | #17 00:02:44: шеф-повар от Бога | adapted: adapted |
-| 3 | Аня | Славься, Баринов, славься, Баринов, славься, Баринов, | Hail Barinov, hail Barinov, hail Barinov, | #18 00:02:49: Славься, Баринов, славься | adapted: adapted |
-| 4 | Аня | во веки веков. | forever and ever. | #19 00:02:54: во веки веков | adapted: adapted |
-| 5 | Шеф | Нет, Мишаня, пение это не твоё. | No, Mishanya, singing is not your thing. | #21 00:03:06: Нет, Мишаня, пение | adapted: adapted |
-| 6 | Шеф | Теперь будешь кукарекать. | Now you are going to crow like a rooster. | #22 00:03:09: Теперь будешь кукарекать | adapted: adapted |
-| 7 | Шеф | Ну без штану. | And without your pants. | #23 00:03:11: Ну без штану | adapted: adapted |
+| 1 | Михаил | Виктор Петрович, | Viktor Petrovich, | #16 00:02:41: Виктор Петрович | adapted: adapted |
+| 2 | Михаил | шеф-повар от Бога. | is a head chef sent from God. | #17 00:02:44: шеф-повар от Бога | adapted: adapted |
+| 3 | Михаил | Славься, Баринов, славься, Баринов, славься, Баринов, | Hail Barinov, hail Barinov, hail Barinov, | #18 00:02:49: Славься, Баринов, славься | adapted: adapted |
+| 4 | Михаил | во веки веков. | forever and ever. | #19 00:02:54: во веки веков | adapted: adapted |
+| 5 | Михаил | Нет, Мишаня, пение это не твоё. | No, Mishanya, singing is not your thing. | #21 00:03:06: Нет, Мишаня, пение | adapted: adapted |
+| 6 | Михаил | Теперь будешь кукарекать. | Now you are going to crow like a rooster. | #22 00:03:09: Теперь будешь кукарекать | adapted: adapted |
+| 7 | Михаил | Ну без штану. | And without your pants. | #23 00:03:11: Ну без штану | adapted: adapted |
 | 8 | Вика | Михаил Джакович, что это было? | Mikhail Dzhekovich, what was that? | #24 00:03:13: Михаил Джакович, что | adapted: adapted |
-| 9 | Аня | Это, Виктория Сергеевна, было проигранное из-за нелепой ошибки желание. | That, Viktoriya Sergeyevna, was a wish lost due to a ridiculous mistake. | #25 00:03:15: Это, Виктория Сергеевна | adapted: adapted |
-| 10 | Аня | Но сейчас будет реванш. | But right now there will be a rematch. | #26 00:03:20: Но сейчас будет | adapted: adapted |
-| 11 | Шеф | О, реванш откладывается. | Oh, the rematch is postponed. | #28 00:03:25: О, реванш откладывается | adapted: adapted |
-| 12 | Шеф | Иди тренируйся кукарекать. | Go practice crowing like a rooster. | #29 00:03:28: Иди тренируйся кукарекать | adapted: adapted |
+| 9 | Михаил | Это, Виктория Сергеевна, было проигранное из-за нелепой ошибки желание. | That, Viktoriya Sergeyevna, was a wish lost due to a ridiculous mistake. | #25 00:03:15: Это, Виктория Сергеевна | adapted: adapted |
+| 10 | Михаил | Но сейчас будет реванш. | But right now there will be a rematch. | #26 00:03:20: Но сейчас будет | adapted: adapted |
+| 11 | Михаил | О, реванш откладывается. | Oh, the rematch is postponed. | #28 00:03:25: О, реванш откладывается | adapted: adapted |
+| 12 | Михаил | Иди тренируйся кукарекать. | Go practice crowing like a rooster. | #29 00:03:28: Иди тренируйся кукарекать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Viktor Petrovich,' Notice how Russian expresses 'proper name' and 'proper name' with crisp inflection rather than helper words.
 - 'is a head chef sent from God.' Here the Russian phrasing highlights 'head chef' before landing on 'God'.
-- 'Hail Barinov, hail Barinov, hail Barinov,' Notice the reflexive suffix on the verb meaning 'glory be to', turning the action back on the subject.
+- 'Hail Barinov, hail Barinov, hail Barinov,.' Mikhail centers this short reply on 'glory be to / hail', letting a few direct words carry the whole meaning.
 - 'forever and ever.' Mikhail anchors the line on 'ages', while 'of ages' completes the thought.
 - 'No, Mishanya, singing is not your thing.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'your'.
 - 'Now you are going to crow like a rooster.' The meaning hinges on 'now' working together with 'to crow like a rooster' in spoken Russian.

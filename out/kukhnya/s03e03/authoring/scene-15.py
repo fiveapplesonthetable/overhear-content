@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 15
-TITLE = 'Две новости  (Two Pieces of News)'
+TITLE = "Две новости  (Two Pieces of News)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Федя', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "katya": "angelina"}
+LABELS = {"fedya": "Федя", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'Katya marches into the kitchen to announce that Barinov is her father, but when Barinov glares at her, she stops mid-sentence—convincing all the cooks that she is actually his secret mistress.'
@@ -17,15 +17,15 @@ STORY = [
     ('katya', 'Внимание всем! У меня для вас две новости.', 'Attention everyone! I have two pieces of news for you.', [(255, 'Внимание'), (255, 'у меня для вас две новости')], 'adapted'),
     ('katya', 'Первая новость — я не лесбиянка.', 'The first piece of news is I am not a lesbian.', [(256, 'Первая новость, я не лесбиянка')], ''),
     ('katya', 'А вторая новость — Виктор Петрович мой...', 'And the second piece of news is Viktor Petrovich is my...', [(257, 'А вторая новость, Виктор Петрович, мой')], ''),
-    ('chef', 'Твой кто?', 'Your who?', [(258, 'Мой')], 'adapted'),
-    ('anya', 'Он её любовник!', 'He is her lover!', [(259, 'Он ее любовник')], ''),
-    ('anya', 'Точно любовник! Ну не отец же.', "Definitely her lover! Well, he's not her father.", [(260, 'любовник. Ну не отец же')], 'adapted'),
-    ('anya', 'Вот почему он так бесился, когда мы все вокруг неё бегали.', 'That is why he was so furious when we were all running around her.', [(261, 'Вот почему он так бесился, когда мы все вокруг неё бегали')], ''),
-    ('anya', 'Зачем тогда она меня поцеловала?', 'Why did she kiss me then?', [(262, 'Зачем тогда она меня поцеловала')], ''),
-    ('anya', 'Для конспирации!', 'For cover!', [(263, 'Для конспирации')], ''),
-    ('anya', 'А я сразу прямо догадался.', 'And I figured it out right away.', [(264, 'А я сразу'), (264, 'догадался')], 'adapted'),
-    ('anya', 'Вот прямо сразу!', 'Right away!', [(265, 'Вот прямо сразу')], ''),
-    ('anya', 'Они прямо сейчас там разговаривают.', 'They are in there talking right now.', [(267, 'прямо сейчас там')], 'adapted'),
+    ('fedya', 'Твой кто?', 'Your who?', [(258, 'Мой')], 'adapted'),
+    ('fedya', 'Он её любовник!', 'He is her lover!', [(259, 'Он ее любовник')], ''),
+    ('fedya', 'Точно любовник! Ну не отец же.', "Definitely her lover! Well, he's not her father.", [(260, 'любовник. Ну не отец же')], 'adapted'),
+    ('fedya', 'Вот почему он так бесился, когда мы все вокруг неё бегали.', 'That is why he was so furious when we were all running around her.', [(261, 'Вот почему он так бесился, когда мы все вокруг неё бегали')], ''),
+    ('fedya', 'Зачем тогда она меня поцеловала?', 'Why did she kiss me then?', [(262, 'Зачем тогда она меня поцеловала')], ''),
+    ('fedya', 'Для конспирации!', 'For cover!', [(263, 'Для конспирации')], ''),
+    ('fedya', 'А я сразу прямо догадался.', 'And I figured it out right away.', [(264, 'А я сразу'), (264, 'догадался')], 'adapted'),
+    ('fedya', 'Вот прямо сразу!', 'Right away!', [(265, 'Вот прямо сразу')], ''),
+    ('fedya', 'Они прямо сейчас там разговаривают.', 'They are in there talking right now.', [(267, 'прямо сейчас там')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Fifteen. Listen for the irony of Fedya saying 'Definitely her lover—well, he's not her father!'"
-CLOSING = ('anya', 'Я сразу догадался!')
+OUTRO = "And that finishes Scene Fifteen. Listen for the irony of Fedya saying 'Definitely her lover—well, he's not her father!'. Until next time!"
+CLOSING = ("fedya", "До завтра!")

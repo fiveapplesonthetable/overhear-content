@@ -27,5 +27,5 @@
 | 13 | `charlotte` (Charlotte) | Vite, assieds-moi sur le canapé! | Quickly, sit me down on the sofa! | 809:Assieds-toi, là, 810:dépêche-toi |
 
 ## Part 5 — Outro & Closing
-> With a fake plaster cast and seconds to spare, Charlotte and Andrea prepare for Oscar's sudden inspection. When you watch the episode, listen out for the expressions meaning 'movie' and 'science fiction'. You'll catch them now. See you next time.
+> With a fake plaster cast and seconds to spare, Charlotte and Andrea prepare for Oscar's sudden inspection. When you watch the episode, listen out for the expressions meaning 'movie' and 'science fiction'. You'll catch them now. See you next time!
 - **Closing**: `charlotte`: *À bientôt!*

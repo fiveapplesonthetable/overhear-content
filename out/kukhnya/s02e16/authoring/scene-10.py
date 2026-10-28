@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e16-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 10
-TITLE = 'Волосы в салате и штраф для Сени  (Hairs in the Salad and a Fine for Senya)'
+TITLE = "Волосы в салате и штраф для Сени  (Hairs in the Salad and a Fine for Senya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = "Quoting Sun Tzu on killing an enemy with a borrowed knife, Max plants Senya's two red hairs onto a salad plate headed for the dining room. When the disgusted guest shows the red hairs to Vika and pours salt over the dish, Vika makes Senya pay for the replacement."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 10 of Episode 16, listen out for the exchange around hairs in the salad and a fine for senya — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Салат за твой счет.')
+OUTRO = "That wraps up this scene as max slips Senya's two red hairs into a guest's salad to spark a feud, resulting in Vika docking the cost of the ruined dish from Senya's pay. See you next time!"
+CLOSING = ("anya", "До встречи!")

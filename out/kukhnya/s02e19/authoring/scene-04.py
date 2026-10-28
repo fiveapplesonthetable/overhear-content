@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 4
 TITLE = "Волшебник Макс и проверка Нагиева  (Max the Magician and Nagiyev's Check-In)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Max carries a freshly prepared dish out to the dining room for his older admirer, who praises its aroma and calls him a true magician. Meanwhile, Dmitriy Nagiyev greets Vika at the bar and is relieved to hear that everything in the restaurant is running smoothly.'
 
@@ -39,7 +39,7 @@ WALK = [
     (4, None, "'No, no, I do not mind at all.' The negative particle sits right before the verb meaning 'there is no' to negate the statement. Vika answers right away."),
     (5, None, "'What a wonderful aroma.' The grammar packs 'what' and 'aroma' into a tight, idiomatic kitchen exchange."),
     (6, None, "'You are a magician, Max.' Max brings out the contrast between 'you' and 'a wizard' in a few short words."),
-    (7, None, "'I did my very best, specially for you.' Notice the reflexive suffix on the verb meaning 'tried', turning the action back on the subject. Vika answers right away."),
+    (7, None, "'I did my very best, specially for you.' In everyday Russian, 'tried' flows straight into 'on purpose, deliberately' without extra linking words."),
     (8, None, "'Hello there, Viktoriya Sergeyevna.' The meaning hinges on 'hello' working together with 'Sergeyevna' in spoken Russian."),
     (9, None, "'Have a seat, Viktoriya Sergeyevna.' Here the Russian phrasing highlights 'sit down' before landing on 'Sergeyevna'."),
     (10, None, "'Everything in the restaurant is going fine.' Chef Viktor anchors the line on 'restaurant', while 'fine' completes the thought. Vika answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 4 of Episode 19, listen out for the exchange around max the magician and nagiyev's check-in — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Что ты смотришь?')
+OUTRO = 'That wraps up this scene as max personally serves his dish to the older female guest, who calls him a magician, while Nagiyev sits down with Vika at the bar to check on the restaurant. See you next time!'
+CLOSING = ("anya", "До завтра!")

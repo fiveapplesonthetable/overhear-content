@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 10
-TITLE = "Rencontre avec Hartman  (Meeting Hartman)"
-LEVEL = "A1 — débutant"
+TITLE = 'Rencontre avec Hartman  (Meeting Hartman)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sacha": "theo", "lea": "lucie"}
-LABELS = {"sacha": "Sacha", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sacha': 'theo', 'lea': 'lucie'}
+LABELS = {'sacha': 'Sacha', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In his hotel suite, director Sacha Hartman vents his bitter resentment toward Isabelle Adjani after her sudden absence. Andréa listens patiently and uses sharp psychology to change his mind. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Andréa masterfully reverses Sacha Hartman's childhood resentment by questioning his courage. Provoked by her subtle reverse psychology, Sacha agrees to meet Isabelle Adjani face to face. See you next time!"
-CLOSING = ("lea", "Au revoir!")
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', "Elle n'a pas pu venir. Elle s'en excuse.", 'She could not come. She apologizes.', [(251, "Elle n'a pas pu venir. Elle s'en excuse.")], ''),
     ('sacha', "C'est ridicule. Une actrice légendaire!", 'It is ridiculous. A legendary actress!', [(253, "C'est ridicule."), (254, 'Une actrice légendaire !')], ''),

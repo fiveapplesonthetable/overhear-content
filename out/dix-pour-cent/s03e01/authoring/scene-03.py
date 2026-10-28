@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 3
 TITLE = "Un verre d'eau  (A Glass of Water)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Catching her breath in her office chair, pregnant agent Andrea receives a glass of water from loyal colleague Gabriel. As her physical discomfort subsides, Gabriel urges her to moderate her intense working schedule for her child's sake. Let's listen to their intimate conversation in French first."
 OPENER = "Let's observe how Gabriel expresses protective concern for Andrea's wellbeing."
 TRANSITION = "Now let's listen to Gabriel and Andrea again at full speed."
-OUTRO = "Gabriel secures a promise from Andrea to head home early, showing how deep friendship endures beneath agency rivalries. When you watch the episode, listen out for the expressions meaning 'drinking glass' and 'drinking water'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Gabriel secures a promise from Andrea to head home early, showing how deep friendship endures beneath agency rivalries. When you watch the episode, listen out for the expressions meaning 'drinking glass' and 'drinking water'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Voici ton verre d'eau fraîche, Andréa.", 'Here is your glass of fresh water, Andrea.', [], ''),
     ('lea', "C'est bon, la contraction est passée.", 'It is fine, the contraction has passed.', [(57, "C'est bon, c'est passé.")], ''),

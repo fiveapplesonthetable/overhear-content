@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Les lumières. | The lights. | 969:Les |
 
 ## Part 5 — Outro & Closing
-> They raise their glasses one last time, and turn off the lights. When you watch the episode, listen out for the expressions meaning 'finished' and 'agency'. You'll catch them now. See you next time.
+> They raise their glasses one last time, and turn off the lights. When you watch the episode, listen out for the expressions meaning 'finished' and 'agency'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir.*

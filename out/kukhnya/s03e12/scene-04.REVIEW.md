@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is right, this apartment is for Max.' The meaning hinges on 'come on' working together with 'Max' in spoken Russian.
 - 'He got upset when you told him.' In Russian, the idea of 'he' flows naturally into 'said' without extra filler words.
 - 'Listen, I found an interesting apartment.' Notice how Russian expresses 'to listen' and 'to find' with crisp inflection rather than helper words. Nastya answers right away.
-- 'And we already found an apartment for you.' The grammar packs 'and' and 'apartment' into a tight, idiomatic kitchen exchange.
+- 'And we already found an apartment for you.' Here Nastya anchors the thought on 'already' and finishes on 'apartment', keeping the spoken rhythm brisk and natural.
 - 'Here are the keys, there is a very nice renovation there.' Here the Russian phrasing highlights 'here' before landing on 'repair'.
 - 'And most importantly, it is paid through the end of the year.' Nastya brings out the contrast between 'and' and 'the main thing' in a few short words. Max answers right away.
 - 'Oh, awesome, thank you so much!' Max brings out the contrast between 'about' and 'caliber' in a few short words.

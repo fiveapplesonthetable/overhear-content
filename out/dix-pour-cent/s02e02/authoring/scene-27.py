@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 27
-TITLE = "La fin de la lune de miel  (The End of the Honeymoon)"
-LEVEL = "A1 — débutant"
+TITLE = 'La fin de la lune de miel  (The End of the Honeymoon)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At the agency, Andréa tries unsuccessfully to reach Mathias Barneville before meeting with Hicham. When she tries to apologize for the disastrous evening with Fabrice Luchini, Hicham's patience runs out. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hicham is coldly dismissing Andréa with no hesitation."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = 'Hicham has ruthlessly fired Andréa, asserting his complete authority as majority owner. Andréa faces exile from the agency she helped build. Until next time.'
-CLOSING = ("lea", "Au revoir!")
+OUTRO = 'Hicham has ruthlessly fired Andréa, asserting his complete authority as majority owner. Andréa faces exile from the agency she helped build. See you next time!'
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('gabriel', 'Vous êtes sur la messagerie de Mathias.', 'You have reached Mathias', [(896, 'Bonjour, vous êtes sur la messagerie de Mathias Barneville.')], ''),
     ('gabriel', 'Laissez un message après le bip.', 'Leave a message after the beep.', [(897, 'Laissez un message et je vous rappellerai.')], ''),

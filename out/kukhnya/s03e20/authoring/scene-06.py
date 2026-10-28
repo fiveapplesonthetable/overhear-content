@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 6
-TITLE = 'Куда ехать больному?  (Where Should the Patient Go?)'
+TITLE = "Куда ехать больному?  (Where Should the Patient Go?)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'doctor': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'doctor': 'Врач', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "doctor": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"doctor": "Врач", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "Andrey demands three times what he paid for Claude Monet. Meanwhile at the hospital, the doctor warns that Kostya and Nastya's noisy apartment is bad for Max's recovery and suggests that Max live with Vika!"
@@ -32,7 +32,7 @@ STORY = [
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 
 WALK = [
-    (0, None, "'That is three times more than you paid!' In Russian, the idea of 'this' flows naturally into 'to pay' without extra filler words."),
+    (0, None, "'That is three times more than you paid!' Here Max anchors the thought on 'times' and finishes on 'to pay', keeping the spoken rhythm brisk and natural."),
     (1, None, "'And what did you expect, Dima? It is business!' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'business'."),
     (2, None, "'Alright, I am completely ready! Well, where am I going?' The meaning hinges on 'everything' working together with 'food' in spoken Russian."),
     (3, None, "'Forgive me for interfering, I overheard that you are having a wedding.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'wedding'."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Cornered by the doctor's medical advice, Vika finds it impossible to turn Max out onto the street."
-CLOSING = ('doctor', 'Больному нужен уход и покой.')
+OUTRO = "Cornered by the doctor's medical advice, Vika finds it impossible to turn Max out onto the street. See you next time!"
+CLOSING = ("doctor", "До свидания!")

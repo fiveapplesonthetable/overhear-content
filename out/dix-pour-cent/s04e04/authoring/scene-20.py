@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 20
 TITLE = "L'échappée en trottinette  (The Scooter Escape)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sandrine": "emilie", "gabriel": "theo"}
-LABELS = {"sandrine": "Sandrine", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sandrine': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sandrine': 'Sandrine', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "On the sidewalk outside the comedy club, Gabriel tries to hail a taxi to take his stressed actress home. Instead, Sandrine spots a parked electric scooter and decides to make a reckless midnight getaway through the streets of Paris. Let's listen to their chaotic exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel watches Sandrine disappear down the avenue on her scooter, shaking his head in amused disbelief. When you watch the episode, listen out for the expressions meaning 'arrives' and 'minutes'. You'll catch them now. See you next time."
-CLOSING = ("sandrine", "Bonne soirée!")
+OUTRO = "Gabriel watches Sandrine disappear down the avenue on her scooter, shaking his head in amused disbelief. When you watch the episode, listen out for the expressions meaning 'arrives' and 'minutes'. You'll catch them now. See you next time!"
+CLOSING = ('sandrine', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Le taxi arrive dans deux minutes.', 'The taxi is arriving in two minutes.', [], ''),
     ('sandrine', 'Regarde ces trottinettes électriques là-bas!', 'Look at those electric scooters over there!', [(1145, 'elles sont incroyables')], ''),

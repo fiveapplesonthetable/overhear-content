@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 11
-TITLE = "Andréa prépare son voyage  (Andréa Prepares Her Trip)"
-LEVEL = "A1 — débutant"
+TITLE = 'Andréa prépare son voyage  (Andréa Prepares Her Trip)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "In her office at ASK, Andréa is preparing for an unwelcome family obligation. Her mother is being awarded an honorary medal in her provincial hometown of Couchey. Andréa loathes returning home and refuses to sleep there under any circumstances. Let's listen to her conversation with Camille in French first."
 OPENER = "Let's follow the scene as Andréa dreads visiting her childhood home."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Andréa will visit Couchey, but she is determined to sleep back in Paris that same night. next time, we will join Virginie Efira's disastrous promotional interviews."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = 'Andréa will visit Couchey, but she is determined to sleep back in Paris that same night. See you next time!'
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Tu as mon billet pour demain?', 'Do you have my ticket for tomorrow?', [(285, 'Tu as mon billet pour demain ?')], ''),
     ('camille', 'Oui, le voilà. Tu vas où?', 'Yes, here it is. Where are you going?', [(285, 'Ouais, tiens.'), (286, 'Tu vas où ?')], ''),

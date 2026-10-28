@@ -29,5 +29,5 @@
 | 15 | `noemie` (Noémie) | Je suis là avec toi, nous réussirons ensemble. | I am here with you, we will succeed together. | 642:Chéri. |
 
 ## Part 5 — Outro & Closing
-> In the empty apartment, Noémie gives Mathias the warmth and courage he needs to face the future. Listen to the poignant conversation once more in French. Until next time.
+> In the empty apartment, Noémie gives Mathias the warmth and courage he needs to face the future. Listen to the poignant conversation once more in French. See you next time!
 - **Closing**: `noemie`: *À demain!*

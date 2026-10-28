@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 10
-TITLE = 'Игра в шпионов и документы  (Playing Spies and the Documents)'
+TITLE = "Игра в шпионов и документы  (Playing Spies and the Documents)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eva': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'eva': 'Ева', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "eva": "angelina", "rodion": "anja"}
+LABELS = {"anya": "Макс", "eva": "Ева", "rodion": "Родион"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = "When Eva comes to the bar and flirts with Max, he is certain she is acting on Vika's orders and decides to turn the tables. Meanwhile, Rodion Sergeyevich reports to the kitchen in a clean uniform with a full set of documents!"
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Freshly bathed, shaved, and dressed in chef whites, Rodion hands Chef Barinov his brand-new passport.'
-CLOSING = ('rodion', 'Я с полным пакетом документов!')
+OUTRO = 'Freshly bathed, shaved, and dressed in chef whites, Rodion hands Chef Barinov his brand-new passport. See you next time!'
+CLOSING = ("rodion", "Хорошего дня!")

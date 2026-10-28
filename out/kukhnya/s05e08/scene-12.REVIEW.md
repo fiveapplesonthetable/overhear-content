@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Гость | Юля, я провожу вас в номер. | Yulya, I will escort you to your room. | #134 00:14:33: Юля, я провожу вас в номер | adapted: adapted |
 | 2 | Гость | Ваш муж хочет навестить вас после ужина. | Your husband wants to visit you after dinner. | #135 00:14:34: Ваш муж хочет навестить вас после ужина | adapted: adapted |
-| 3 | Аня | Мне нужно ненадолго отлучиться. | I need to step away for a moment. | #136 00:14:38: Мне<br>#137 00:14:48: нужно | adapted: adapted |
+| 3 | Катя | Мне нужно ненадолго отлучиться. | I need to step away for a moment. | #136 00:14:38: Мне<br>#137 00:14:48: нужно | adapted: adapted |
 | 4 | Гость | Вы же не говорите по-арабски. | You do not speak Arabic, after all. | #137 00:14:48: Вы же<br>#137 00:14:48: по-арабски | adapted: adapted |
 | 5 | Гость | Да, конечно, я буду рядом. | Yes, of course, I will be nearby. | #138 00:14:51: Да, конечно<br>#138 00:14:51: я буду рядом | adapted: adapted |
 | 6 | Гость | Прошу вас, проходите аккуратно. | Please, walk carefully. | #140 00:14:56: Прошу, аккуратно | adapted: adapted |
-| 7 | Костя | На складе Насти тоже нет. | Nastya is not in the storage room either. | #141 00:15:06: тоже нет | adapted: adapted |
-| 8 | Аня | Не парься, может, просто Настя в туалете? | Do not worry, maybe Nastya is simply in the restroom? | #142 00:15:08: может, просто Настя в туалете | adapted: adapted |
-| 9 | Костя | Она уже целый час не отвечает. | She has not answered for a whole hour already. | #141 00:15:06: тоже нет | adapted: adapted |
-| 10 | Аня | Мне срочно нужно увидеть папу! | I urgently need to see Dad! | #136 00:14:38: Мне | adapted: adapted |
-| 11 | Костя | Пойдём проверим коридор. | Let us go check the corridor. | #142 00:15:08: просто Настя в туалете | adapted: adapted |
+| 7 | Гость | На складе Насти тоже нет. | Nastya is not in the storage room either. | #141 00:15:06: тоже нет | adapted: adapted |
+| 8 | Катя | Не парься, может, просто Настя в туалете? | Do not worry, maybe Nastya is simply in the restroom? | #142 00:15:08: может, просто Настя в туалете | adapted: adapted |
+| 9 | Гость | Она уже целый час не отвечает. | She has not answered for a whole hour already. | #141 00:15:06: тоже нет | adapted: adapted |
+| 10 | Катя | Мне срочно нужно увидеть папу! | I urgently need to see Dad! | #136 00:14:38: Мне | adapted: adapted |
+| 11 | Гость | Пойдём проверим коридор. | Let us go check the corridor. | #142 00:15:08: просто Настя в туалете | adapted: adapted |
 | 12 | Гость | Я подожду вас у двери. | I will wait for you by the door. | #138 00:14:51: я буду рядом | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

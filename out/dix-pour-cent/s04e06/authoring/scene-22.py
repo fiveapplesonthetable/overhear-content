@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 22
 TITLE = "Le départ d'Andréa  (Andréa's Departure)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the conference room of ASK, movie star Jean Reno brings champagne to express his gratitude to the agency staff. Meeting him alone, Andrea Martel confides that she is resigning from agent life to start a new chapter. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "As Jean Reno and Andrea clink glasses in the agency boardroom, an era quietly draws to a close. When you watch the episode, listen out for the expressions meaning 'to thank' and 'kind'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À demain!")
+OUTRO = "As Jean Reno and Andrea clink glasses in the agency boardroom, an era quietly draws to a close. When you watch the episode, listen out for the expressions meaning 'to thank' and 'kind'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À demain!')
 STORY = [
     ('jean', "C'est pour vous remercier tous!", 'It is to thank you all!', [(917, "C'est pour vous tous."), (918, "Pour vous remercier de m'avoir poussé à continuer.")], ''),
     ('lea', "Merci Jean, c'est très gentil.", 'Thank you Jean, that is very kind.', [(923, "Merci Jean, c'est très gentil de ta part.")], ''),
