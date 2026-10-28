@@ -7,22 +7,22 @@ SCENE = 9
 TITLE = 'Квартплата  (Rent)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'ilya': 'Илья', 'kostya': 'Костя', 'max': 'Макс'}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "At the bar, Max explains his risky scheme to Kostya for paying their apartment rent by swapping cheap cognac from Timur with the restaurant's expensive bottles. Let's listen to their conversation in Russian first."
-OPENER = "Let's break down Max and Kostya's conversation line by line."
+INTRO = "Max has come up with a plan to cover the rent for the flat he shares with Kostya, and it involves the bar's cognac. Kostya doesn't see how rent comes into it, so Max sets out the scheme. First, the Russian."
+OPENER = "Let's replay it step by step."
 TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = 'Max lays out his cognac-swapping scheme at the bar, hoping it will cover their rent. See you next time!'
-CLOSING = ('ilya', 'До встречи!')
+OUTRO = "Max's logic is, shall we say, creative, and Kostya is not at all convinced. Look out for 'besplatno', which means 'free' and is literally 'without pay'. See you next time!"
+CLOSING = ('max', 'До встречи!')
 STORY = [
     ('kostya', 'Наша квартплата?', 'Our rent?', [(173, 'Наша кварплата?')], ''),
-    ('max', 'В смысле?', 'What do you mean?', [(173, 'В смысле?')], ''),
+    ('kostya', 'В смысле?', 'What do you mean?', [(173, 'В смысле?')], ''),
     ('max', 'В прямом смысле.', 'In the literal sense.', [(174, 'В прямом')], ''),
     ('max', 'Сейчас я тебе всё объясню.', 'Now I will explain everything to you.', [(174, 'Сейчас объясню')], ''),
     ('kostya', 'Я ничего не понимаю.', 'I do not understand anything.', [], ''),
     ('max', 'Предположим одну простую ситуацию.', 'Let us suppose one simple situation.', [(175, 'Предположим')], ''),
-    ('ilya', 'Тимур привозит нам коньяк.', 'Timur brings us cognac.', [(175, 'Тимур'), (175, 'коньяка')], ''),
+    ('max', 'Тимур привозит нам коньяк.', 'Timur brings us cognac.', [(175, 'Тимур'), (175, 'коньяка')], ''),
     ('max', 'Пять литров коньяка каждую неделю.', 'Five liters of cognac every week.', [(175, 'каждую неделю')], ''),
     ('max', 'Он привозит его бесплатно?', 'Does he bring it for free?', [(176, 'бесплатно')], ''),
     ('max', 'Да, абсолютно бесплатно.', 'Yes, absolutely free.', [(175, 'абсолютно'), (176, 'бесплатно')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Мы меняем бутылки и платим за квартиру.', 'We swap the bottles and pay for the apartment.', [(178, 'меняем на настоящий коньяк')], ''),
 ]
 WALK = [
-    (0, None, "'Our rent?' Kostya repeats the word for apartment rent in surprise."),
-    (1, None, "'What do you mean?' This short two-word phrase is the everyday Russian way to ask 'what do you mean?'."),
-    (2, None, "'In the literal sense.' Max answers with the matching phrase meaning 'literally'."),
-    (3, None, "'Now I will explain everything to you.' Max promises to lay out his plan step by step."),
-    (4, None, "'I do not understand anything.' Kostya is still puzzled by how the bar can pay their rent."),
-    (5, None, "'Let us suppose one simple situation.' Max sets up a hypothetical example."),
-    (6, None, "'Timur brings us cognac.' He names the supplier who offered them cheap alcohol."),
-    (7, None, "'Five liters of cognac every week.' Max specifies how much Timur can deliver."),
-    (8, None, "'Does he bring it for free?' Rising intonation turns this statement into a question."),
-    (9, None, "'Yes, absolutely free.' Max confirms that the first supply costs nothing."),
-    (10, None, "'And what do we do with it?' Kostya asks how that turns into rent money."),
-    (11, None, "'We swap the bottles and pay for the apartment.' Max reveals the core of his risky scheme. Now let's listen to the conversation again without interruption."),
+    (0, None, "'Our rent?' The word for rent is glued together from 'apartment' and 'pay'. Kostya repeats it as a question."),
+    (1, None, "'What do you mean?' Russian says 'in the sense?', with a small word for 'in'. It's a short phrase you can use anywhere."),
+    (2, None, "'Exactly what I said.' The same phrase again, now 'in the direct sense', or 'literally'. 'Direct' also means 'straight'."),
+    (3, None, "'I'll explain everything to you now.' 'Explain' is built from 'clear'. 'To you everything' has the 'to you' form first."),
+    (4, None, "'I don't understand anything.' 'Nothing' and 'not' appear together, as Russian requires. 'I understand' has a clear 'u' ending."),
+    (5, None, "'Let's suppose one simple situation.' 'Suppose' is the 'we' form, used as an invitation. 'One' and 'simple' both take the 'u' ending."),
+    (6, None, "'Timur brings us cognac.' 'Brings' is the word for bringing by vehicle. 'Us' takes the 'to us' form."),
+    (7, None, "'Five liters of cognac every week.' After 'five', 'liters' takes an 'ov' ending. 'Every week' needs no word for 'during'."),
+    (8, None, "'Does he bring it for free?' 'For free' is built from 'without' and 'pay'. It's the same 'pay' word as in 'rent'."),
+    (9, None, "'Yes, absolutely free.' 'Absolutely' is a borrowed word, and it sits right before 'free'."),
+    (10, None, "'And what do we do with it?' 'With it' picks up an 'n', so 'nim'. 'We do' ends in 'em'."),
+    (11, None, "'We swap the bottles and pay for the apartment.' 'We swap' ends in 'em'. 'For' brings the apartment into the 'u' form."),
 ]

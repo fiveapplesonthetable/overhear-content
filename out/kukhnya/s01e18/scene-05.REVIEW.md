@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Пожалуйста, вот ваш вкусный напиток. | Here you go, here is your delicious drink. | #133: Пожалуйста. | verbatim |
+| 1 | Костя | Пожалуйста, вот ваш вкусный напиток. | Here you go, here is your delicious drink. | #133 00:08:01: Пожалуйста. | verbatim |
 | 2 | Макс | Костя, ты отлично работаешь за этой стойкой. | Kostya, you work excellently behind this bar. | new | new |
 | 3 | Костя | Спасибо, я стараюсь быть очень вежливым. | Thank you, I try to be very polite. | new | new |
 | 4 | Макс | Гости всегда любят свежие и вкусные напитки. | Guests always love fresh and delicious drinks. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, here is your delicious drink.' Kostya serves a customer with a warm and polite tone, keeping his words quick and attentive.
-- 'Kostya, you work excellently behind this bar.' Max compliments his friend's flawless customer service skills.
-- 'Thank you, I try to be very polite.' Kostya accepts the praise humbly, admitting he puts real effort into making guests feel welcome.
-- 'Guests always love fresh and delicious drinks.' Max points out the obvious truth about keeping customers happy with quality products.
-- 'Our bar offers the very best expensive drinks.' Kostya takes pride in the high end menu they serve at Claude Monet.
-- 'People in the dining room are ready to pay any money.' Max shifts the conversation toward money, hinting at how easily they could exploit the wealthy crowd.
-- 'The main thing is always to do your work honestly.' Kostya completely misses the hint, loudly declaring his commitment to moral integrity.
-- 'However, some barmen know clever secrets.' Max gently nudges him again, suggesting that being clever might be better than being perfectly honest.
-- 'I do not want to deceive our guests.' Kostya firmly rejects any implication of scamming the people he serves.
-- 'You are simply too honest and kind a guy.' Max sighs at his friend's pure heart, viewing his kindness as a bit of a weakness in this industry.
-- 'On the other hand, my conscience is absolutely clean today.' Kostya defends his choices, valuing his peace of mind over a few extra bucks.
-- 'All right, keep pouring juice and wine.' Max gives up on corrupting him for now, telling him to just stick to his normal routine.
-- 'I will gladly pour juice for the guests!' Kostya cheerfully embraces his straightforward job, happy to serve normal drinks without any tricks.
+- 'Here you go, here's your delicious drink.' 'Please' is also what you say when you hand something over. 'Drink' comes from the verb for drinking.
+- 'Kostya, you do a great job behind that bar.' 'Behind this bar' takes an 'oy' ending. 'Bar counter' comes from 'to stand'.
+- 'Thanks, I try to be very polite.' 'I try' ends in 'sya'. After 'to be', 'polite' takes an 'ym' ending.
+- 'Guests always love fresh, tasty drinks.' 'They love' is a plural form. 'Fresh' and 'tasty' both end in 'ie', matching the plural.
+- 'Our bar offers the very best, most expensive drinks.' 'Offers' is a long word, but the sense is clear. 'The most best' is how Russian stresses 'the very best'.
+- 'People in the dining room are ready to pay any money.' 'Any' is a single word that comes before 'money'. 'Ready' takes the plural, and 'pay' follows it.
+- 'The main thing is always to do your work honestly.' 'Honestly' ends in 'o', like many words that say how. 'Your own work' uses the special pointing-back word.
+- 'But some bartenders know clever tricks.' 'Some' is made from 'which' with a tail. 'They know' has a plural ending.
+- 'I don't want to deceive our guests.' 'I want' is irregular, so 'khochu' is the form to learn. The guests take the 'ey' ending.
+- 'You're simply too honest and kind a guy.' 'Too' sits in front of the describing words. 'Guy' is informal.
+- 'But my conscience is absolutely clean today.' 'On the plus side' is the small word 'zato'. 'Clean' is a short feminine form to match 'conscience'.
+- 'All right, keep pouring juice and wine.' 'Keep going' is followed by the plain 'pour'. 'Juice' and 'wine' are just two short nouns.
+- 'I'll gladly pour the guests juice!' 'With joy' stands for 'gladly'. The guests take the 'am' ending because the juice goes to them.
