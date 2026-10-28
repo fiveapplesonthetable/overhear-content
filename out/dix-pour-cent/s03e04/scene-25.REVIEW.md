@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The secret file is finally ready.' Noemie announces that the dossier is assembled. The key noun here means 'file', anchored by its matching French article.
-- 'Did you verify each important document?' Mathias checks every detail before sending the paperwork. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'Yes, all the copies are there.' Noemie confirms the documents have been duplicated properly. The key noun here means 'copies', anchored by its matching French article.
-- 'We must act without waiting for tomorrow.' Mathias stresses the urgent necessity of moving immediately. The clause hinges on the everyday verb meaning 'must'.
-- 'Are you calling the delivery service?' Noemie asks as Mathias reaches for the telephone. The verb meaning 'are calling' pairs naturally with the noun for 'service' in everyday conversation.
-- 'Yes, I am phoning the courier now.' Mathias prepares to dispatch the envelope across Paris. The verb meaning 'phone' pairs naturally with the noun for 'courier' in everyday conversation.
-- 'Good evening, I would like a courier.' Mathias places the telephone request for rapid pickup. Notice how 'would like' leads directly into the noun meaning 'courier'.
-- 'It is for the first arrondissement.' Mathias gives the central destination address in Paris. The descriptive adjective for 'first' agrees in gender and number with its noun.
-- 'It is a very urgent delivery.' Mathias informs dispatch that speed is essential. The key noun here means 'delivery', anchored by its matching French article.
-- 'Thank you very much, see you shortly.' Mathias closes the phone call politely. The adverb meaning 'very much' gives the reply its conversational emphasis.
-- 'The courier arrives in ten minutes.' Noemie prepares the sealed package for dispatch. Notice how 'arrives' leads directly into the noun meaning 'courier'.
-- 'Tonight, our plan finally begins.' Mathias reflects on the launch of their campaign. The verb meaning 'begins' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'We are going to take back our agency, Mathias.' Noemie reaffirms their joint partnership and ambition. The verb meaning 'are going to' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty. Mathias uses the casual singular 'you' with 'trust', showing close familiarity.
+- 'The secret file is finally ready.' Noemie announces that the dossier is assembled.
+- 'Did you verify each important document?' Mathias checks every detail before sending the paperwork.
+- 'Yes, all the copies are there.' Noemie confirms the documents have been duplicated properly.
+- 'We must act without waiting for tomorrow.' Mathias stresses the urgent necessity of moving immediately.
+- 'Are you calling the delivery service?' Noemie asks as Mathias reaches for the telephone.
+- 'Yes, I am phoning the courier now.' Mathias prepares to dispatch the envelope across Paris.
+- 'Good evening, I would like a courier.' Mathias places the telephone request for rapid pickup.
+- 'It is for the first arrondissement.' Mathias gives the central destination address in Paris.
+- 'It is a very urgent delivery.' Mathias informs dispatch that speed is essential.
+- 'Thank you very much, see you shortly.' Mathias closes the phone call politely.
+- 'The courier arrives in ten minutes.' Noemie prepares the sealed package for dispatch.
+- 'Tonight, our plan finally begins.' Mathias reflects on the launch of their campaign.
+- 'We are going to take back our agency, Mathias.' Noemie reaffirms their joint partnership and ambition.
+- 'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty.

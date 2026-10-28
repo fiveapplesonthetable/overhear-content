@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you?' Andrea asks anxiously on the phone. The clause hinges on the everyday verb meaning 'are doing'.
-- 'Where are you?' she asks her partner Colette. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
-- 'Stop with the mystery.' she demands, tired of guessing. Notice how 'stop' leads directly into the noun meaning 'mystery'.
-- 'I can't take it anymore.' Andrea sighs in exhaustion. The clause hinges on the everyday verb meaning 'can'.
-- 'When are you coming back?' she asks hopefully. The clause hinges on the everyday verb meaning 'are coming back'.
-- 'Hi darling, it is mommy.' she coos to her baby. The key noun here means 'hello', anchored by its matching French article.
-- 'I will see you very soon.' she promises softly. The informal 'you' form around 'see' marks a direct, personal relationship.
-- 'Take care of yourself.' she whispers before hanging up. Andrea uses the casual singular 'you' with 'take', showing close familiarity.
-- 'Can you explain to us what is happening?' The formal 'you' pronoun sets a courteous, professional distance around 'can'.
-- 'What is this mess?' Andrea asks, looking at the crowd. In everyday spoken French, rising intonation on 'mess' at the end is enough to turn the sentence into a question.
-- 'We partied.' Arlette replies smoothly. The verb meaning 'have' pairs naturally with the noun for 'party' in everyday conversation.
-- 'That is where she met her Romeo.' This conversational past tense combines a helper verb with the past verb form for 'met'. This conversational past tense combines a helper verb with the past verb form for 'met'.
-- 'She wanted to see feathers and glitter.' the older agent adds. Notice how 'wanted' leads directly into the noun meaning 'feathers'.
-- 'I am an agent.' Arlette shrugs, proud of her networking. The key noun here means 'talent agent', anchored by its matching French article. Now let's hear the whole thing.
+- 'How are you?' Andrea asks anxiously on the phone.
+- 'Where are you?' she asks her partner Colette.
+- 'Stop with the mystery.' she demands, tired of guessing.
+- 'I can't take it anymore.' Andrea sighs in exhaustion.
+- 'When are you coming back?' she asks hopefully.
+- 'Hi darling, it is mommy.' she coos to her baby.
+- 'I will see you very soon.' she promises softly.
+- 'Take care of yourself.' she whispers before hanging up.
+- 'Can you explain to us what is happening?' she asks Arlette.
+- 'What is this mess?' Andrea asks, looking at the crowd.
+- 'We partied.' Arlette replies smoothly.
+- 'That is where she met her Romeo.' Arlette explains.
+- 'She wanted to see feathers and glitter.' the older agent adds.
+- 'I am an agent.' Arlette shrugs, proud of her networking. Now let's hear the whole thing.

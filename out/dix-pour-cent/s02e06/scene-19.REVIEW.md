@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is that Turkish film in the official competition?' Gabriel checks the festival program. Notice how the verb for 'is' leads straight into 'competition'.
-- 'No, it is screening at the Directors' Fortnight.' Arlette knows the festival categories well. The adverb meaning 'no' sharpens the verb for 'screens' here.
-- 'Is that the selection for first films?' Gabriel asks for clarification. Gabriel opens with the word for 'it is' and lands on 'movies' at the close.
-- 'No, that is the Critics' Week.' Arlette explains the distinctions patiently. Listen for the expression meaning 'no', which leads naturally into 'Criticism'.
-- 'I really do not understand anything at all.' Gabriel admits his total confusion. The key word here means 'not', paired with 'really' to make the point clear.
-- 'There is also a section called ACID.' Arlette mentions the independent cinema showcase. The acronym ACID stands for an association of independent cinema.
-- 'That is quite a surprising name for a festival!' Gabriel smiles at the acronym. Gabriel opens with the word for 'it is' and lands on 'festival' at the close.
-- 'Wait, I just received a message.' Gabriel checks his buzzing phone. Listen for the expression meaning 'wait', which leads naturally into 'message'.
-- 'An urgent problem with one of your actors?' Arlette notices his sudden focus. Arlette opens with the word for 'problem' and lands on 'actors' at the close.
-- 'No, it is Sofia who has just arrived in Cannes.' Gabriel admits the source of the message. The key word here means 'no', paired with 'arrive' to make the point clear.
-- 'That is wonderful! You should go meet her.' Arlette encourages his romance. The key word here means 'it is', paired with 'meet' to make the point clear.
-- 'I am a little afraid of mixing work and love.' Gabriel expresses his customary anxiety. Gabriel pairs the verb meaning 'I have' with the noun for 'love'.
-- 'Enjoy life, Gabriel, we are in Cannes!' Arlette urges him to embrace joy. Arlette opens with the word for 'enjoy' and lands on 'are' at the close.
-- 'Look at the sun and the crowd on the Croisette.' Arlette gestures toward the bustling boulevard. Arlette uses the command form form for 'look at' together with the word for 'crowd'.
-- 'You are right, the atmosphere here is magical.' Gabriel begins to relax and enjoy the moment. Gabriel opens with the word for 'have' and lands on 'magical' at the close.
-- 'Then go join Sofia and be happy!' Arlette sends him off with heartfelt warmth. Arlette gives a direct command form using the verb for 'go'.
+- 'Is that Turkish film in the official competition?' Gabriel checks the festival program.
+- 'No, it is screening at the Directors' Fortnight.' Arlette knows the festival categories well.
+- 'Is that the selection for first films?' Gabriel asks for clarification.
+- 'No, that is the Critics' Week.' Arlette explains the distinctions patiently.
+- 'I really do not understand anything at all.' Gabriel admits his total confusion.
+- 'There is also a section called ACID.' Arlette mentions the independent cinema showcase.
+- 'That is quite a surprising name for a festival!' Gabriel smiles at the acronym.
+- 'Wait, I just received a message.' Gabriel checks his buzzing phone.
+- 'An urgent problem with one of your actors?' Arlette notices his sudden focus.
+- 'No, it is Sofia who has just arrived in Cannes.' Gabriel admits the source of the message.
+- 'That is wonderful! You should go meet her.' Arlette encourages his romance.
+- 'I am a little afraid of mixing work and love.' Gabriel expresses his customary anxiety.
+- 'Enjoy life, Gabriel, we are in Cannes!' Arlette urges him to embrace joy.
+- 'Look at the sun and the crowd on the Croisette.' Arlette gestures toward the bustling boulevard.
+- 'You are right, the atmosphere here is magical.' Gabriel begins to relax and enjoy the moment.
+- 'Then go join Sofia and be happy!' Arlette sends him off with heartfelt warmth.

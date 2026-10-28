@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It's open! Would you like tea?' Luchini welcomes Andréa into his chaotic apartment. Fabrice pairs the verb meaning 'is' with the noun for 'hot tea'.
-- 'No thanks, I'm fine.' Andréa politely declines refreshment. Notice how the verb for 'are fine' leads straight into 'thank you'.
-- 'How are you? You seem in a state.' Luchini notices her agitated expression. The adverb meaning 'how' sharpens the verb for 'are doing' here.
-- 'Me, I'm pretty depressed. I missed out on a James Bond movie.' The star shares his disappointment. The key word here means 'am', paired with 'motion picture' to make the point clear.
-- 'So I left Bréhier.' Luchini drops the bombshell about firing his agent. The adverb meaning 'consequently' sharpens the verb for 'have' here.
-- 'That's good!' Andréa can barely contain her excitement for ASK. Andréa opens with the word for 'is' and lands on 'great news' at the close.
-- 'Don't get carried away. I am going to take an agent break.' Luchini immediately dampens her hopes. The key word here means 'not', paired with 'representation' to make the point clear.
-- 'Meaning?' Andréa asks him to clarify his strange decision. Listen for the expression meaning 'what do you mean', which leads naturally into 'what do you mean'.
-- 'I have no films planned.' Luchini explains his schedule. The adverb meaning 'not' sharpens the verb for 'have' here.
-- 'I'm doing theatre, I don't need anyone.' The actor boasts of his theatrical independence. Fabrice opens with the word for 'perform in' and lands on 'necessity' at the close.
-- 'I am sorry, I really liked you, Andréa.' Luchini expresses genuine fondness for her. Fabrice opens with the word for 'am' and lands on 'much' at the close.
-- 'It's like getting dumped when you were never even together.' Andréa laments the strange situation. The key word here means 'is', paired with 'a couple' to make the point clear.
-- 'Yes, that's kind of it.' Luchini chuckles at her candid observation. The verb meaning 'is' anchors the whole remark.
-- 'I lost her forever.' Andréa opens up about her heartbreak over Colette. Listen for the expression meaning 'have', which leads naturally into 'all eternity'.
-- 'What if we went to the theatre tonight, then had dinner?' Luchini offers a platonic evening out. The adverb meaning 'afterwards' sharpens the verb for 'went' here.
-- 'I would like that.' Andréa accepts the warm invitation. The key word here means 'would delight', paired with 'would delight' to make the point clear.
+- 'It's open! Would you like tea?' Luchini welcomes Andréa into his chaotic apartment.
+- 'No thanks, I'm fine.' Andréa politely declines refreshment.
+- 'How are you? You seem in a state.' Luchini notices her agitated expression.
+- 'Me, I'm pretty depressed. I missed out on a James Bond movie.' The star shares his disappointment.
+- 'So I left Bréhier.' Luchini drops the bombshell about firing his agent.
+- 'That's good!' Andréa can barely contain her excitement for ASK.
+- 'Don't get carried away. I am going to take an agent break.' Luchini immediately dampens her hopes.
+- 'Meaning?' Andréa asks him to clarify his strange decision.
+- 'I have no films planned.' Luchini explains his schedule.
+- 'I'm doing theatre, I don't need anyone.' The actor boasts of his theatrical independence.
+- 'I am sorry, I really liked you, Andréa.' Luchini expresses genuine fondness for her.
+- 'It's like getting dumped when you were never even together.' Andréa laments the strange situation.
+- 'Yes, that's kind of it.' Luchini chuckles at her candid observation.
+- 'I lost her forever.' Andréa opens up about her heartbreak over Colette.
+- 'What if we went to the theatre tonight, then had dinner?' Luchini offers a platonic evening out.
+- 'I would like that.' Andréa accepts the warm invitation.

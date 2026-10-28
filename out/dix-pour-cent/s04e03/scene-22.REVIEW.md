@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have any news from Colette?' Jose asks gently across the table. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'I ruined everything, I let her leave.' Andrea confesses her painful guilt. The clause hinges on the everyday verb meaning 'have'.
-- 'We were destined for this evening.' Jose reflects on their shared solitary night. This conversational past tense combines a helper verb with the past verb form for 'destined'.
-- 'I would do anything for my actors.' Andrea acknowledges her distorted priorities. In spoken French, the little word before 'would do' drops its final vowel and attaches with an apostrophe.
-- 'But you neglect your own family?' Jose questions her life balance candidly. In everyday spoken French, rising intonation on 'neglect' at the end is enough to turn the sentence into a question.
-- 'When Colette calls me, I do not come home.' Andrea details her recurring failure. The two-part French negation brackets the verb for 'calls' on both sides.
-- 'It should be totally the reverse.' Jose points out the proper order of priorities. The verb meaning 'should' pairs naturally with the noun for 'opposite' in everyday conversation.
-- 'Maybe my brain is wired wrong.' Andrea blames her own stubborn nature. Notice how 'have' leads directly into the noun meaning 'brain'.
-- 'You know what? Let us make a pact!' Jose leans forward with sudden determination. The verb meaning 'know' pairs naturally with the noun for 'pact' in everyday conversation.
-- 'What kind of serious pact?' Andrea looks up with curious interest. The descriptive adjective for 'serious' agrees in gender and number with its noun.
-- 'We are going to take our lives back in hand.' Jose outlines a new resolution. Notice how 'are going to' leads directly into the noun meaning 'lives'.
-- 'And we stop impulsive decisions?' Andrea checks the terms of the promise. Notice how 'stop' leads directly into the noun meaning 'decisions'.
-- 'Exactly, except for these delicious profiteroles!' Jose laughs as dessert arrives. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'These profiteroles were an absolute emergency!' Andrea laughs as she takes a spoon. The adjective meaning 'absolute' takes its feminine form here to match the noun it describes. Now let's hear the whole conversation again.
+- 'Do you have any news from Colette?' Jose asks gently across the table.
+- 'I ruined everything, I let her leave.' Andrea confesses her painful guilt.
+- 'We were destined for this evening.' Jose reflects on their shared solitary night.
+- 'I would do anything for my actors.' Andrea acknowledges her distorted priorities.
+- 'But you neglect your own family?' Jose questions her life balance candidly.
+- 'When Colette calls me, I do not come home.' Andrea details her recurring failure.
+- 'It should be totally the reverse.' Jose points out the proper order of priorities.
+- 'Maybe my brain is wired wrong.' Andrea blames her own stubborn nature.
+- 'You know what? Let us make a pact!' Jose leans forward with sudden determination.
+- 'What kind of serious pact?' Andrea looks up with curious interest.
+- 'We are going to take our lives back in hand.' Jose outlines a new resolution.
+- 'And we stop impulsive decisions?' Andrea checks the terms of the promise.
+- 'Exactly, except for these delicious profiteroles!' Jose laughs as dessert arrives.
+- 'These profiteroles were an absolute emergency!' Andrea laughs as she takes a spoon. Now, listen to the complete dialogue again at normal conversational pace.

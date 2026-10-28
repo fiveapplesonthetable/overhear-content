@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I took up cycling recently.' Notice how the verb for 'am' leads straight into 'bicycle'.
-- 'I really love doing sport in the morning.' An enthusiastic verb of preference followed by routine.
-- 'Do you do many kilometers per week?' Guy opens with the word for 'do' and lands on 'week' at the close.
+- 'I took up cycling recently.' A pronominal idiom expressing taking up a new sporting hobby.
+- 'I really love doing sport in the morning.' Jogging alongside his father, Hippolyte says he loves exercising in the morning.
+- 'Do you do many kilometers per week?' An interrogative phrase inquiring about training distance.
 - 'Yes, about one hundred fifty kilometers every week.' A cardinal distance total showing athletic discipline.
 - 'That is impressive, that is a lot of road!' An appreciative exclamatory evaluation acknowledging effort.
 - 'I came to the movie set by bicycle.' A compound past motion verb detailing morning commute.
 - 'It helps me stay calm and focused.' A causation verb governing coordinated infinitive benefits.
 - 'Me, I must go over my lines.' A stressed personal pronoun introducing professional study.
 - 'Are you stressing out a bit today?' An inverted polite question checking on colleague anxiety.
-- 'A bit, yes, shooting is starting.' Listen for the expression meaning 'little', which leads naturally into 'starts'.
+- 'A bit, yes, shooting is starting.' A candid admission of tension on the first day of filming.
 - 'You are always flawless in your movies.' Generous peer praise recognizing consistent screen quality.
 - 'Thank you Hippolyte, that is very kind of you.' A gracious polite formula acknowledging the compliment.
 - 'Do you want us to rehearse our text together?' A cooperative proposal suggesting line rehearsal.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did what you asked me.' Herve reports proudly. Herve uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
-- 'It is good.' Gabriel nods in approval. The adverb meaning 'good' gives the reply its conversational emphasis.
-- 'In small bills.' Herve clarifies, confirming the banknote sizes. The adjective meaning 'small' takes its feminine form here to match the noun it describes.
-- 'Thank you, Herve.' Gabriel says, taking the money. The key noun here means 'thank you', anchored by its matching French article.
-- 'It works, right?' Herve smiles, pleased with the result. In everyday spoken French, rising intonation on 'works' at the end is enough to turn the sentence into a question.
-- 'Yes, it works.' Gabriel agrees with relief. The clause hinges on the everyday verb meaning 'works'.
-- 'She is incredible.' Gabriel says about the actress. The descriptive adjective for 'incredible' agrees in gender and number with its noun.
-- 'Truly.' Herve agrees, nodding his head. The adverb meaning 'truly' gives the reply its conversational emphasis.
-- 'You can go.' Gabriel dismisses his assistant. Gabriel uses the casual singular 'you' with 'can', showing close familiarity.
-- 'Okay, I am leaving.' Herve says, turning around. In spoken French, the little word before 'am leaving' drops its final vowel and attaches with an apostrophe.
-- 'See you later.' Gabriel adds politely. The adverb meaning 'see you later' gives the reply its conversational emphasis.
-- 'Yes, see you later.' Herve replies from the door. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
-- 'Good work.' Gabriel calls out finally. The descriptive adjective for 'good' agrees in gender and number with its noun.
-- 'Goodbye.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally. Now let's hear the whole thing.
+- 'I did what you asked me.' Herve reports proudly.
+- 'It is good.' Gabriel nods in approval.
+- 'In small bills.' Herve clarifies, confirming the banknote sizes.
+- 'Thank you, Herve.' Gabriel says, taking the money.
+- 'It works, right?' Herve smiles, pleased with the result.
+- 'Yes, it works.' Gabriel agrees with relief.
+- 'She is incredible.' Gabriel says about the actress.
+- 'Truly.' Herve agrees, nodding his head.
+- 'You can go.' Gabriel dismisses his assistant.
+- 'Okay, I am leaving.' Herve says, turning around.
+- 'See you later.' Gabriel adds politely.
+- 'Yes, see you later.' Herve replies from the door.
+- 'Good work.' Gabriel calls out finally.
+- 'Goodbye.' Herve finishes. Now let's hear the whole thing.

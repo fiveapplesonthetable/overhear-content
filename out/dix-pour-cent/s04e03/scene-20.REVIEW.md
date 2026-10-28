@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my lo-- Hello, my agent.' Jose catches himself on the phone in his suite. The key noun here means 'lo--', anchored by its matching French article.
-- 'You almost said my love!' Andrea teases him with a knowing smile. This conversational past tense combines a helper verb with the past verb form for 'almost done'.
-- 'It starts with the same letter.' Jose laughs off the mistake playfully. The verb meaning 'starts' pairs naturally with the noun for 'letter' in everyday conversation.
-- 'You are really incorrigible tonight.' Andrea relaxes on the sofa. The informal 'you' form around 'evening' marks a direct, personal relationship.
-- 'The day of filming was exhausting.' Jose leans back in his chair. The adjective meaning 'exhausting' takes its feminine form here to match the noun it describes.
-- 'We avoided a real catastrophe.' Andrea reflects on the near-disaster on set. Notice how 'have' leads directly into the noun meaning 'catastrophe'.
-- 'Thanks to you, everything worked out.' Jose credits her skill as an agent. This conversational past tense combines a helper verb with the past verb form for 'worked out'.
-- 'It is my role as a protective agent.' Andrea claims her duty with pride. The key noun here means 'role', anchored by its matching French article.
-- 'Someone is knocking on the door now.' Jose turns toward the foyer. The verb meaning 'knocks' pairs naturally with the noun for 'door' in everyday conversation.
-- 'It is probably room service.' Andrea stands up to answer. The key noun here means 'doubt', anchored by its matching French article.
-- 'Come in, please!' Jose calls out cheerfully toward the hall. Dropping the subject pronoun turns the verb for 'come in' into a direct, punchy command.
-- 'Set the tray on the table.' Andrea guides the attendant into the room. Notice how 'set' leads directly into the noun meaning 'tray'.
-- 'Thank you very much for this quick service.' Jose tips the server generously. The descriptive adjective for 'quick' agrees in gender and number with its noun.
-- 'We are finally going to be able to unwind together.' Andrea breathes a sigh of relief. The clause hinges on the everyday verb meaning 'are going'. Now let's hear the whole conversation again.
+- 'Hello, my lo-- Hello, my agent.' Jose catches himself on the phone in his suite.
+- 'You almost said my love!' Andrea teases him with a knowing smile.
+- 'It starts with the same letter.' Jose laughs off the mistake playfully.
+- 'You are really incorrigible tonight.' Andrea relaxes on the sofa.
+- 'The day of filming was exhausting.' Jose leans back in his chair.
+- 'We avoided a real catastrophe.' Andrea reflects on the near-disaster on set.
+- 'Thanks to you, everything worked out.' Jose credits her skill as an agent.
+- 'It is my role as a protective agent.' Andrea claims her duty with pride.
+- 'Someone is knocking on the door now.' Jose turns toward the foyer.
+- 'It is probably room service.' Andrea stands up to answer.
+- 'Come in, please!' Jose calls out cheerfully toward the hall.
+- 'Set the tray on the table.' Andrea guides the attendant into the room.
+- 'Thank you very much for this quick service.' Jose tips the server generously.
+- 'We are finally going to be able to unwind together.' Andrea breathes a sigh of relief. Now, listen to the complete dialogue again at normal conversational pace.

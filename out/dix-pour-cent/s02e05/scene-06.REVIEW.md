@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have just come from Guy's doctor.' Andréa explains where she has been earlier that morning.
-- 'Guy's health is a disaster.' Andréa worries about her veteran actor client's serious medical condition.
+- 'I have just come from Guy's doctor.' Andrea explains where she has been earlier that morning.
+- 'Guy's health is a disaster.' Andrea worries about her veteran actor client's serious medical condition.
 - 'Do you want to talk about something else?' Gabriel senses she needs to vent about other pressing agency matters.
-- 'Yes, about the junior agent.' Andréa brings up the ongoing debate over expanding the team.
-- 'Do you want one?' Andréa seeks Gabriel's honest view on bringing in fresh blood.
+- 'Yes, about the junior agent.' Andrea brings up the ongoing debate over expanding the team.
+- 'Do you want one?' Andrea seeks Gabriel's honest view on bringing in fresh blood.
 - 'Taking on a junior does not scare me.' Gabriel insists he is not insecure about mentoring a younger colleague.
-- 'Your opinion means a lot to me.' Andréa reminds him that she considers him her core partner at ASK.
+- 'Your opinion means a lot to me.' Andrea reminds him that she considers him her core partner at ASK.
 - 'It is not my priority right now.' Gabriel admits he is preoccupied with his own demanding clients.
-- 'Do you want a boy or a girl?' Andréa asks if he has any demographic preference for the hire.
+- 'Do you want a boy or a girl?' Andrea asks if he has any demographic preference for the hire.
 - 'Both suit me very well.' Gabriel stays open-minded with no preference for either.
-- 'Do you think that will make you look weak?' Andréa probes whether showing stress makes him feel vulnerable.
+- 'Do you think that will make you look weak?' Andrea probes whether showing stress makes him feel vulnerable.
 - 'I am not like that, Andréa.' Gabriel asserts that he is not guarded or competitive toward her.
 - 'Right now, I have a lot of work.' Gabriel closes the discussion to return to his pressing tasks.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want to drink a glass of whisky?' In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
-- 'Not for me, I am doing fine.' The clause hinges on the everyday verb meaning 'goes'.
-- 'Oh, but you are pregnant, Andrea!' The adjective meaning 'pregnant' takes its feminine form here to match the noun it describes.
-- 'Yes, but it is no big deal.' Notice the classic French sandwich negation wrapping right around 'the verb'. Notice the classic French sandwich negation wrapping right around 'the verb'.
-- 'No, I assure you, it is wonderful.' A warm reassurance praising the joyful news. The short 'self' word sits right in front of the verb for 'assure you', turning the action back onto the subject.
-- 'You are not too upset with me?' The informal 'you' form around 'hold grudge' marks a direct, personal relationship. The informal 'you' form around 'hold grudge' marks a direct, personal relationship.
-- 'How many months along are you?' An inquiry about the progression of her pregnancy. In everyday spoken French, rising intonation on 'months' at the end is enough to turn the sentence into a question.
-- 'I am already at seven months.' In spoken French, the little word before 'months' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'months' drops its final vowel and attaches with an apostrophe.
-- 'That was the start of shooting The Deserter!' An imperfect tense recall linking dates together. The verb meaning 'it was' pairs naturally with the noun for 'beginning' in everyday conversation.
-- 'Yes, exactly at that time.' The key noun here means 'moment', anchored by its matching French article. The key noun here means 'moment', anchored by its matching French article.
-- 'That is when I began to desert.' This conversational past tense combines a helper verb with the past verb form for 'started'. This conversational past tense combines a helper verb with the past verb form for 'started'.
-- 'You were too immersed in your role.' Notice how 'were' leads directly into the noun meaning 'role'. Notice how 'were' leads directly into the noun meaning 'role'.
-- 'I am happy for you, Andrea.' Jean uses the casual singular 'you' with 'this line', showing close familiarity. Jean uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'Thank you Jean, that touches me a lot.' A grateful closing acknowledging his genuine warmth. The clause hinges on the everyday verb meaning 'touches'.
+- 'Do you want to drink a glass of whisky?' Jean offers Gabriel a glass of whisky to help him unwind.
+- 'Not for me, I am doing fine.' A polite refusal using the idiomatic expression for being fine.
+- 'Oh, but you are pregnant, Andrea!' An astonished exclamation noticing her visible pregnancy.
+- 'Yes, but it is no big deal.' A modest downplaying statement with the negation ce n'est pas.
+- 'No, I assure you, it is wonderful.' A warm reassurance praising the joyful news.
+- 'You are not too upset with me?' An insecure question about holding a grudge.
+- 'How many months along are you?' An inquiry about the progression of her pregnancy.
+- 'I am already at seven months.' A temporal statement indicating late pregnancy stage.
+- 'That was the start of shooting The Deserter!' An imperfect tense recall linking dates together.
+- 'Yes, exactly at that time.' An adverbial confirmation of the timeline.
+- 'That is when I began to desert.' A reflective confession playing on the film title.
+- 'You were too immersed in your role.' An empathetic observation on intense method acting.
+- 'I am happy for you, Andrea.' A sincere declaration of heartfelt personal joy.
+- 'Thank you Jean, that touches me a lot.' A grateful closing acknowledging his genuine warmth.

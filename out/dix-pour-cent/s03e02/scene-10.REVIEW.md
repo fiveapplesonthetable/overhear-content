@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, is Gabriel there?' Monica calls the talent agency looking for her agent. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
-- 'No, I am his boss, Hicham Janowski.' Hicham introduces himself with executive authority. The key noun here means 'boss', anchored by its matching French article.
-- 'Hello Hicham. I would like to speak to Gabriel.' Monica maintains polite but focused intent. The clause hinges on the everyday verb meaning 'would like'.
-- 'Hello, Monica! It is me, it is Gabriel.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'Hello Gabriel, how are you doing?' Monica greets her agent warmly. In everyday spoken French, rising intonation on 'goes' at the end is enough to turn the sentence into a question.
-- 'Very well! I thought about the advertising contracts.' Gabriel shares his positive reflection. The descriptive adjective for 'advertising' agrees in gender and number with its noun.
-- 'It could really interest us.' Gabriel confirms the commercial opportunity. The clause hinges on the everyday verb meaning 'could'.
-- 'Great, I am very delighted about it.' Monica welcomes his agreement. The adverb meaning 'very' gives the reply its conversational emphasis.
-- 'Do you want to come by the office to discuss it?' Gabriel proposes a standard agency meeting. The informal 'you' form around 'want' marks a direct, personal relationship.
-- 'Couldn't you come by my place instead?' Monica shifts the venue to her private residence. In everyday spoken French, rising intonation on 'could' at the end is enough to turn the sentence into a question.
-- 'I would like to show you photos for an ad.' Monica provides a professional pretext. Monica uses the casual singular 'you' with 'would like', showing close familiarity.
-- 'Yes, that is an excellent idea.' Gabriel enthusiastically agrees. The key noun here means 'idea', anchored by its matching French article.
-- 'Tonight, can you come to my place?' Monica proposes dinner that very evening. Notice how 'can' leads directly into the noun meaning 'evening'.
-- 'Yes okay, that is perfect for me.' Gabriel confirms the evening plan without hesitation. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
-- 'I will make you my secret risotto recipe.' Monica entices Gabriel with homemade cooking. Monica uses the casual singular 'you' with 'will make', showing close familiarity.
-- 'See you at your place at eight thirty!' Gabriel confirms the dinner appointment. The informal 'you' form around 'appointment' marks a direct, personal relationship.
+- 'Hello, is Gabriel there?' Monica calls the talent agency looking for her agent.
+- 'No, I am his boss, Hicham Janowski.' Hicham introduces himself with executive authority.
+- 'Hello Hicham. I would like to speak to Gabriel.' Monica maintains polite but focused intent.
+- 'Hello, Monica! It is me, it is Gabriel.' Gabriel snatches the telephone receiver.
+- 'Hello Gabriel, how are you doing?' Monica greets her agent warmly.
+- 'Very well! I thought about the advertising contracts.' Gabriel shares his positive reflection.
+- 'It could really interest us.' Gabriel confirms the commercial opportunity.
+- 'Great, I am very delighted about it.' Monica welcomes his agreement.
+- 'Do you want to come by the office to discuss it?' Gabriel proposes a standard agency meeting.
+- 'Couldn't you come by my place instead?' Monica shifts the venue to her private residence.
+- 'I would like to show you photos for an ad.' Monica provides a professional pretext.
+- 'Yes, that is an excellent idea.' Gabriel enthusiastically agrees.
+- 'Tonight, can you come to my place?' Monica proposes dinner that very evening.
+- 'Yes okay, that is perfect for me.' Gabriel confirms the evening plan without hesitation.
+- 'I will make you my secret risotto recipe.' Monica entices Gabriel with homemade cooking.
+- 'See you at your place at eight thirty!' Gabriel confirms the dinner appointment.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My nanny Patsy is really fabulous.' Andrea shows photos of baby Flora on her phone. The key noun here means 'nanny', anchored by its matching French article.
-- 'Let us drink another glass, both of us.' Elise beckons the waiter for another cocktail. The verb meaning 'let us drink' pairs naturally with the noun for 'glass' in everyday conversation.
-- 'I must go home before midnight tonight.' Andrea remembers her domestic duties. Notice how 'must' leads directly into the noun meaning 'midnight'.
-- 'I notified your nanny by phone.' Elise smiles cheekily after making the call. Notice how 'have' leads directly into the noun meaning 'nanny'.
-- 'You are truly afraid of nothing!' Andrea shakes her head with impressed amusement. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'I am turning off my phone for the evening.' Elise powers down her screen. The verb meaning 'turn off' pairs naturally with the noun for 'mobile' in everyday conversation.
-- 'Our actors exhaust us all day long.' Andrea sighs over the endless celebrity demands. Notice how 'exhaust' leads directly into the noun meaning 'actors'.
-- 'Who is your most difficult client?' Elise leans across the table with curiosity. In everyday spoken French, rising intonation on 'client' at the end is enough to turn the sentence into a question.
-- 'Francois Berleand is a total hypochondriac!' Andrea spills the hilarious truth. The key noun here means 'hypochondriac', anchored by its matching French article.
-- 'Tell me a little about his strange habits.' Elise listens with rapt amusement. The descriptive adjective for 'strange' agrees in gender and number with its noun.
-- 'He panics as soon as an actor sneezes.' Andrea details his extreme germ phobia. Notice how 'panics' leads directly into the noun meaning 'actor'.
-- 'It is so funny and absurd!' Elise bursts out laughing at the table. The descriptive adjective for 'funny' agrees in gender and number with its noun.
-- 'We do a crazy profession.' Andrea raises her glass with affectionate exasperation. The descriptive adjective for 'crazy' agrees in gender and number with its noun.
-- 'Let us toast to our lovely secret friendship!' Elise clinks glasses warmly. Dropping the subject pronoun turns the verb for 'let us toast' into a direct, punchy command.
+- 'My nanny Patsy is really fabulous.' Andréa shows photos of baby Flora on her phone.
+- 'Let us drink another glass, both of us.' Elise beckons the waiter for another cocktail.
+- 'I must go home before midnight tonight.' Andréa remembers her domestic duties.
+- 'I notified your nanny by phone.' Elise smiles cheekily after making the call.
+- 'You are truly afraid of nothing!' Andréa shakes her head with impressed amusement.
+- 'I am turning off my phone for the evening.' Elise powers down her screen.
+- 'Our actors exhaust us all day long.' Andréa sighs over the endless celebrity demands.
+- 'Who is your most difficult client?' Elise leans across the table with curiosity.
+- 'Francois Berleand is a total hypochondriac!' Andréa spills the hilarious truth.
+- 'Tell me a little about his strange habits.' Elise listens with rapt amusement.
+- 'He panics as soon as an actor sneezes.' Andréa details his extreme germ phobia.
+- 'It is so funny and absurd!' Elise bursts out laughing at the table.
+- 'We do a crazy profession.' Andréa raises her glass with affectionate exasperation.
+- 'Let us toast to our lovely secret friendship!' Elise clinks glasses warmly.

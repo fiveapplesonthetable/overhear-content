@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The apartment viewing has just finished.' Mathias speaks with weary relief. Mathias pairs the verb meaning 'has just' with the noun for 'apartment'.
-- 'How did the visit go with the buyers?' Noémie inquires with caring interest. Noémie opens with the word for 'how' and lands on 'buyers' at the close.
-- 'They loved the place and want to make an offer.' Mathias reports their positive reaction. The key word here means 'have', paired with 'offer' to make the point clear.
-- 'It is good news to settle your problems.' Noémie tries to highlight the positive aspect. The key word here means 'it is', paired with 'problems' to make the point clear.
-- 'Yet, I feel completely overwhelmed.' Mathias shares his internal emotional turmoil. Listen for the expression meaning 'yet', which leads naturally into 'overwhelmed'.
-- 'What is hurting you, Mathias?' Noémie gently probes the cause of his sadness. Noémie pairs the verb meaning 'makes' with the noun for 'sorrow'.
-- 'This young couple reminds me of Catherine and me in the past.' Mathias is haunted by nostalgia. The adverb meaning 'in the past' sharpens the verb for 'reminds' here.
-- 'We were so happy in this apartment.' Mathias looks back on happier years. The adverb meaning 'so' sharpens the verb for 'were' here.
-- 'I understand your sadness about this change.' Noémie shows deep empathy for his pain. Notice how the verb for 'understand' leads straight into 'change'.
-- 'I cannot take it anymore, everything is becoming too difficult.' Mathias admits his exhaustion. Listen for the expression meaning 'not', which leads naturally into 'difficult'.
-- 'You are brave, you will overcome this trial.' Noémie offers steadfast reassurance. Noémie pairs the verb meaning 'are' with the noun for 'trial'.
-- 'My father used to say that life is a long trial.' Mathias recalls a somber family proverb. Notice how the verb for 'said' leads straight into 'trial'.
-- 'Your father was wrong to be so pessimistic.' Noémie rejects the cynical worldview. The adverb meaning 'so' sharpens the verb for 'had' here.
-- 'Maybe, but I have trouble keeping hope.' Mathias struggles against despair. Mathias opens with the word for 'maybe' and lands on 'hope' at the close.
-- 'Look at me, Mathias. You are not alone.' Noémie reminds him of her loyal presence. Listen for the expression meaning 'look at me', which leads naturally into 'alone'.
-- 'I am here with you, we will succeed together.' Noémie promises her loving support. The adverb meaning 'here' sharpens the verb for 'am' here.
+- 'The apartment viewing has just finished.' Mathias speaks with weary relief.
+- 'How did the visit go with the buyers?' Noémie inquires with caring interest.
+- 'They loved the place and want to make an offer.' Mathias reports their positive reaction.
+- 'It is good news to settle your problems.' Noémie tries to highlight the bright side of the offer.
+- 'Yet, I feel completely overwhelmed.' Mathias shares his internal emotional turmoil.
+- 'What is hurting you, Mathias?' Noémie gently probes the cause of his sadness.
+- 'This young couple reminds me of Catherine and me in the past.' Mathias is haunted by nostalgia.
+- 'We were so happy in this apartment.' Mathias looks back on happier years.
+- 'I understand your sadness about this change.' Noémie shows deep empathy for his pain.
+- 'I cannot take it anymore, everything is becoming too difficult.' Mathias admits his exhaustion.
+- 'You are brave, you will overcome this trial.' Noémie offers steadfast reassurance.
+- 'My father used to say that life is a long trial.' Mathias recalls a somber family proverb.
+- 'Your father was wrong to be so pessimistic.' Noémie rejects the cynical worldview.
+- 'Maybe, but I have trouble keeping hope.' Mathias struggles against despair.
+- 'Look at me, Mathias. You are not alone.' Noémie reminds him of her loyal presence.
+- 'I am here with you, we will succeed together.' Noémie promises her loving support.

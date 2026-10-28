@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hurry up, we must leave quickly!' Mathias urges Isabelle to move fast. The clause hinges on the everyday verb meaning 'hurry up'.
-- 'I am going ahead to open the door.' Mathias takes the lead through the studio hallways. The verb meaning 'go' pairs naturally with the noun for 'exit door' in everyday conversation.
-- 'So, how was my live interview?' Isabelle seeks immediate feedback on her appearance. The verb meaning 'was' pairs naturally with the noun for 'radio interview' in everyday conversation.
-- 'Did it go well?' Isabelle wonders whether the broadcast ran smoothly. The standard spoken question formula at the front turns the statement about 'went' into a natural inquiry.
-- 'Was I good on the microphone tonight?' Isabelle focuses on her personal delivery. In everyday spoken French, rising intonation on 'was' at the end is enough to turn the sentence into a question.
-- 'No doubt, you were very brilliant.' Mathias reassures her with quick praise. The verb meaning 'were' pairs naturally with the noun for 'doubt' in everyday conversation.
-- 'That is wonderful, Laure loved it.' Isabelle rejoices in the successful broadcast. The clause hinges on the everyday verb meaning 'has'.
-- 'But now, the American shoot is waiting for us.' Mathias pivots back to their primary obligation. The descriptive adjective for 'American' agrees in gender and number with its noun.
-- 'Director Gary is going to lose patience.' Mathias warns about tensions on the movie set. The verb meaning 'is going to' pairs naturally with the noun for 'movie director' in everyday conversation.
-- 'Do not panic, we have time.' Isabelle remains calm under pressure. The verb meaning 'panic' pairs naturally with the noun for 'time' in everyday conversation.
-- 'The car is parked right downstairs.' Mathias guides her toward their transport. This conversational past tense combines a helper verb with the past verb form for 'parked'.
-- 'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle. The verb meaning 'get in' pairs naturally with the noun for 'rear' in everyday conversation.
-- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night. The clause hinges on the everyday verb meaning 'let us go'.
+- 'Hurry up, we must leave quickly!' Mathias urges Isabelle to move fast.
+- 'I am going ahead to open the door.' Mathias takes the lead through the studio hallways.
+- 'So, how was my live interview?' Isabelle seeks immediate feedback on her appearance.
+- 'Did it go well?' Isabelle wonders whether the broadcast ran smoothly.
+- 'Was I good on the microphone tonight?' Isabelle focuses on her personal delivery.
+- 'No doubt, you were very brilliant.' Mathias reassures her with quick praise.
+- 'That is wonderful, Laure loved it.' Isabelle rejoices in the successful broadcast.
+- 'But now, the American shoot is waiting for us.' Mathias pivots back to their primary obligation.
+- 'Director Gary is going to lose patience.' Mathias warns about tensions on the movie set.
+- 'Do not panic, we have time.' Isabelle remains calm under pressure.
+- 'The car is parked right downstairs.' Mathias guides her toward their transport.
+- 'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle.
+- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night.

@@ -33,16 +33,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Very.' Just one short word from Colette as she looks out over the rooftops of the city.
 - 'I'm not with Gabriel.' Andréa wants Colette to know right away that she and Gabriel are not a couple.
 - 'You should tell him. He seems to think the opposite.' Two little object words sit before 'tell': 'it' and 'to him'. In the second sentence, 'has the air of thinking' is the natural phrase for 'seems to think'.
-- 'No, but we were there for our actors, to negotiate rates.' Andréa tries one last business excuse, using the past tense for 'we were'.
+- 'No, but we were there for our actors, to negotiate rates.' Andréa tries one last business excuse, using the past for 'we were'.
 - 'The sudden urge to kiss and get a room? It happens.' Colette is dry and ironic: she didn't believe their act at the hotel reception for a single second.
-- 'You're very good at charming people.' The adjective for 'gifted' or 'good at' has a feminine letter at the end because she is speaking to Andréa.
+- 'You're very good at charming people.' The describing word for 'gifted' or 'good at' has a feminine letter at the end because she is speaking to Andréa.
 - 'That girl was right. You're a monster.' Colette remembers Clémentine's dramatic speech outside the clothes shop earlier in the episode.
 - 'All right, we were pretending.' Literally 'we were making appearance'. Andréa drops the lie and tells the truth.
-- 'We were there to see the manager.' Before an infinitive verb, the linking word means 'in order to'.
+- 'We were there to see the manager.' Before an infinitive verb, the preposition means 'in order to'.
 - 'To talk about the room that Samuel kept at the hotel.' The late boss of the agency had been paying for a hotel room out of company money.
-- 'We found out about it yesterday.' Literally 'we learned it yesterday', with the word for 'it' shortened before the helper verb.
+- 'We found out about it yesterday.' Literally 'we learned it yesterday', with the word for 'it' shortened before the helper word.
 - 'We saw you arrive, and we panicked.' Both verbs are in the past tense with 'have'.
 - 'No!' Colette asks if they were trying to hide a misuse of company money, and at first Andréa says no, then gives in.
 - 'Yes. We were scared. Of you.' Notice the special word for 'yes' when you contradict a negative, followed by 'we had fear of you'.
-- 'You're using tu with me less now.' French has a special verb that means 'to address someone as tu'. Colette notices that Andréa has switched back to the polite 'you'.
+- 'You're using tu with me less now.' French has a special verb that means 'to address someone as tu'. Colette notices that Andréa has switched back to the polite 'vous'.
 - 'I don't know how to behave around you.' For once, tough, confident Andréa is completely disarmed, and Colette can't help smiling. Now let's hear their whole conversation on the roof again.

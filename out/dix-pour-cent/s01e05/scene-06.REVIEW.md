@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I'm not going back onto that set!' She uses the present tense for a firm refusal.
-- 'He has to apologise first!' The verb for 'to apologise' literally means 'to excuse oneself'.
-- 'I worked hard for this part. I studied the period!' Both sentences use the everyday past tense with 'have'.
+- 'I'm not going back onto that set!' She uses the present for a firm refusal.
+- 'He has to apologise first!' The action word for 'to apologise' literally means 'to excuse oneself'.
+- 'I worked hard for this part. I studied the period!' Both sentences use the everyday past with 'have'.
 - 'And he just improvises!' Notice the stressed word for 'him' at the start, used for contrast before 'he'.
-- 'Stay calm, Julie. Think of your career.' Andréa tries to appeal to her ambition.
-- 'A costume drama is difficult to shoot.' Literally 'a film in costumes'. And the verb for 'to turn' also means 'to shoot' a film.
+- 'Stay calm, Julie. Think of your career.' Andrea tries to appeal to her ambition.
+- 'A costume drama is difficult to shoot.' Literally 'a film in costumes'. And the action word for 'to turn' also means 'to shoot' a film.
 - 'But that could win you a César! At least!' The verb here means 'to be worth' or 'to earn you' something.
-- 'It's well worth a little effort.' The same verb 'to be worth' in its present-tense form.
+- 'It's well worth a little effort.' The same verb 'to be worth' in its third-person present form.
 - 'No, Andréa, it's too hard.' Julie still isn't ready to forgive her co-star. Meanwhile, outside in the courtyard, JoeyStarr is complaining to Gabriel and Samir.
 - 'Have you heard her accent, her way of speaking?' Literally 'her manner of speaking'.
 - 'Does she think she's Prince Charles?' Literally 'she takes herself for Prince Charles?'. A very common French idiom when someone puts on airs.

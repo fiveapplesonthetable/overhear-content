@@ -32,18 +32,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Sit down.' Mathias politely invites his star clients in to the office.
 - 'Hello, Mathias. I have something for you.' Virginie places Mathias's unopened gift back on his desk.
-- 'It would have been a shame to throw it away.' Notice how the verb for 'would have' leads straight into 'a shame'.
+- 'It would have been a shame to throw it away.' Ramzy says it would have been a shame to throw away their relationship.
 - 'What a pleasure to see you together.' Mathias smiles, unaware of what is coming.
-- 'We discussed it at length.' The adverb meaning 'at length' sharpens the verb for 'have' here.
-- 'We decided to start from scratch.' Virginie opens with the word for 'have' and lands on 'zero' at the close.
+- 'We discussed it at length.' He explains to Mathias and Gabriel that they talked everything through at length.
+- 'We decided to start from scratch.' Virginie announces that she and Ramzy have decided to make a fresh start.
 - 'For us, that implies changes. Changing agents.' Ramzy delivers the shocking news directly.
-- 'Mathias, there were many lies.' The key word here means 'has', paired with 'lies' to make the point clear.
+- 'Mathias, there were many lies.' She tells Mathias bluntly that there have been too many lies between them.
 - 'What exactly are you talking about?' Mathias tries to feign innocence.
 - 'About the second contract.' Ramzy cites the secret wage clause Mathias negotiated behind Virginie's back.
-- 'Above all, you know too much about us.' Virginie opens with the word for 'above all' and lands on 'too much' at the close.
-- 'And we need a new relationship.' Ramzy opens with the word for 'have' and lands on 'new' at the close.
+- 'Above all, you know too much about us.' Virginie adds that Mathias knows far too much about their messy past.
+- 'And we need a new relationship.' The expression 'avoir besoin de' expresses necessity.
 - 'We are really sorry, of course.' Virginie softens the blow with polite regret.
 - 'Well, listen, it's your decision.' Mathias accepts their departure with tight-lipped resignation.
-- 'May I know where you are going?' The inversion 'may I' is a formal way to ask permission.
+- 'May I know where you are going?' The inversion 'puis-je' is a formal way to ask permission.
 - 'We are going to StarMédia.' Ramzy names the fiercest corporate rival of ASK.
-- 'We'll leave you, Mathias. See you soon.' The key word here means 'leave', paired with 'soon' to make the point clear.
+- 'We'll leave you, Mathias. See you soon.' Virginie and Ramzy cheerfully say goodbye to Mathias and walk off with Gabriel.

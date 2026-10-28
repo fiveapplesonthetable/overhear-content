@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, it is tense right now.' Andrea welcomes Arlette into her busy office. The clause hinges on the everyday verb meaning 'come in'.
-- 'Do you not think about what comes after?' Arlette gently probes Andrea about motherhood. The verb meaning 'ponder' pairs naturally with the noun for 'aftermath' in everyday conversation.
-- 'After what, Arlette?' Andrea attempts to deflect the personal conversation. The key noun here means 'subsequent stage', anchored by its matching French article.
-- 'When you will finally be a mother.' Arlette reminds her that a baby changes everything. Arlette uses the casual singular 'you' with 'will be', showing close familiarity.
-- 'It is still very abstract for me.' Andrea admits she has not fully processed the reality. The adverb meaning 'still' gives the reply its conversational emphasis.
-- 'Samuel Kerr was expecting a child too.' Arlette shares a nostalgic memory of ASK's founder. The verb meaning 'was expecting' pairs naturally with the noun for 'baby' in everyday conversation.
-- 'When he set up his agency.' Arlette draws a pointed parallel to Samuel's departure. Notice how 'has' leads directly into the noun meaning 'talent company'.
-- 'It was not an apartment with Gabriel.' Arlette exposes Andrea's secret real estate visits. The verb meaning 'was' pairs naturally with the noun for 'flat' in everyday conversation.
-- 'You were visiting new offices!' Arlette reveals she knows about the secret agency plan. Arlette uses the polite 'you' form alongside 'were inspecting' to keep a respectful professional tone.
-- 'Do you want to leave in secret?' Arlette asks directly about the impending mutiny. In everyday spoken French, rising intonation on 'intend' at the end is enough to turn the sentence into a question.
-- 'Arlette, I cannot say anything.' Andrea refuses to confirm or deny the plan. The clause hinges on the everyday verb meaning 'can'.
-- 'Wait, are you giving birth?' Arlette notices Andrea suddenly gripping the desk in pain. Arlette uses the casual singular 'you' with 'hold on', showing close familiarity.
-- 'I do not know at all.' Andrea tries to downplay the surging contractions. The clause hinges on the everyday verb meaning 'know'.
-- 'Let us say the contractions are getting intense!' Andrea finally acknowledges the severe pain. Dropping the subject pronoun turns the verb for 'let us say' into a direct, punchy command.
-- 'No, the baby is arriving right now!' Arlette realizes labor has begun in earnest. The verb meaning 'is coming' pairs naturally with the noun for 'newborn' in everyday conversation. Now let's hear the whole conversation again.
+- 'Come in, it is tense right now.' Andrea welcomes Arlette into her busy office.
+- 'Do you not think about what comes after?' Arlette gently probes Andrea about motherhood.
+- 'After what, Arlette?' Andrea attempts to deflect the personal conversation.
+- 'When you will finally be a mother.' Arlette reminds her that a baby changes everything.
+- 'It is still very abstract for me.' Andrea admits she has not fully processed the reality.
+- 'Samuel Kerr was expecting a child too.' Arlette shares a nostalgic memory of ASK's founder.
+- 'When he set up his agency.' Arlette draws a pointed parallel to Samuel's departure.
+- 'It was not an apartment with Gabriel.' Arlette exposes Andrea's secret real estate visits.
+- 'You were visiting new offices!' Arlette reveals she knows about the secret agency plan.
+- 'Do you want to leave in secret?' Arlette asks directly about the impending mutiny.
+- 'Arlette, I cannot say anything.' Andrea refuses to confirm or deny the plan.
+- 'Wait, are you giving birth?' Arlette notices Andrea suddenly gripping the desk in pain.
+- 'I do not know at all.' Andrea tries to downplay the surging contractions.
+- 'Let us say the contractions are getting intense!' Andrea finally acknowledges the severe pain.
+- 'No, the baby is arriving right now!' Arlette realizes labor has begun in earnest. Now listen to the whole scene again at normal speed, and see how much more you catch.

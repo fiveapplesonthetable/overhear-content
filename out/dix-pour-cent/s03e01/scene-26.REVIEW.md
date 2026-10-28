@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, it is time to go.' Jean announces that he is finally ready to leave. Notice how 'come on' leads directly into the noun meaning 'time'.
-- 'Tell me, is this the movie?' Jean spots an interesting film on the shelf. In everyday spoken French, rising intonation on 'tell me' at the end is enough to turn the sentence into a question.
-- 'Where Depardieu got totally drunk?' Jean asks about the legendary story of the actor. This conversational past tense combines a helper verb with the past verb form for 'taken'.
-- 'To get out of his character?' Jean explains the method used to leave a difficult role. Notice how 'step out of' leads directly into the noun meaning 'acting part'.
-- 'Yes, that is exactly it.' Andrea confirms the anecdote about the famous movie. The adverb meaning 'yes' gives the reply its conversational emphasis.
-- 'Can I borrow it from you?' Jean asks politely to take the film with him. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question.
-- 'Of course, go ahead.' Andrea readily agrees to lend him the DVD. The adverb meaning 'of course' gives the reply its conversational emphasis.
-- 'If there are others that interest you...' Andrea generously offers more choices from the shelf. The clause hinges on the everyday verb meaning 'interest'.
-- 'Take everything, it is for you.' Andrea insists that he feel completely free to take them. The informal 'you' form around 'take' marks a direct, personal relationship.
-- 'You know what?' Jean has a sudden spontaneous idea for his agent. The informal 'you' form around 'know' marks a direct, personal relationship.
-- 'Just put together a selection for me.' Jean asks Andrea to pick movies for him to watch. The verb meaning 'have' pairs naturally with the noun for 'curated choices' in everyday conversation.
-- 'If you want, no problem.' Andrea happily accepts the fun assignment from her star client. Notice how 'wish' leads directly into the noun meaning 'trouble'.
-- 'I have everything needed in Paris.' Andrea mentions the extensive film library at her apartment. The clause hinges on the everyday verb meaning 'have'.
-- 'But we do not have the same tastes!' Jean points out that their movie preferences differ. The descriptive adjective for 'identical' agrees in gender and number with its noun.
-- 'Exactly, that is perfect.' Andrea notes that different tastes will help him discover new films. The descriptive adjective for 'ideal' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'Come on, it is time to go.' Jean announces that he is finally ready to leave.
+- 'Tell me, is this the movie?' Jean spots an interesting film on the shelf.
+- 'Where Depardieu got totally drunk?' Jean asks about the legendary story of the actor.
+- 'To get out of his character?' Jean explains the method used to leave a difficult role.
+- 'Yes, that is exactly it.' Andrea confirms the anecdote about the famous movie.
+- 'Can I borrow it from you?' Jean asks politely to take the film with him.
+- 'Of course, go ahead.' Andrea readily agrees to lend him the DVD.
+- 'If there are others that interest you...' Andrea generously offers more choices from the shelf.
+- 'Take everything, it is for you.' Andrea insists that he feel completely free to take them.
+- 'You know what?' Jean has a sudden spontaneous idea for his agent.
+- 'Just put together a selection for me.' Jean asks Andrea to pick movies for him to watch.
+- 'If you want, no problem.' Andrea happily accepts the fun assignment from her star client.
+- 'I have everything needed in Paris.' Andrea mentions the extensive film library at her apartment.
+- 'But we do not have the same tastes!' Jean points out that their movie preferences differ.
+- 'Exactly, that is perfect.' Andrea notes that different tastes will help him discover new films. Now listen to the whole scene again at normal speed, and see how much more you catch.

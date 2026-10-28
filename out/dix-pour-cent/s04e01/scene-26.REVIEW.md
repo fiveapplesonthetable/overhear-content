@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are completely mad, Noemie!' Mathias laughs with deep affection in the dark cab. The adjective meaning 'mad' takes its feminine form here to match the noun it describes.
-- 'Yes, I am mad about you!' Noemie cheerfully declares her passionate love for Mathias. The informal 'you' form around 'this line' marks a direct, personal relationship.
-- 'You make me laugh so much.' Mathias appreciates her warmth and spontaneous humor. Mathias uses the casual singular 'you' with 'make', showing close familiarity.
-- 'We are starting a new life together.' Noemie anticipates their fresh personal adventure. Notice how 'start' leads directly into the noun meaning 'life'.
-- 'You left the agency for me.' Mathias acknowledges her bold sacrifice to stand with him. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'I would follow you everywhere in Paris.' Noemie affirms her unwavering personal devotion. The informal 'you' form around 'would follow' marks a direct, personal relationship.
-- 'We will be free with our company.' Mathias looks forward to creative independence. Notice how 'will be' leads directly into the noun meaning 'company'.
-- 'You will be a very powerful producer.' Noemie expresses supreme confidence in his talent. The descriptive adjective for 'powerful' agrees in gender and number with its noun.
-- 'And you will be my closest ally.' Mathias values her as an indispensable collaborator. Notice how 'will be' leads directly into the noun meaning 'ally'.
-- 'I will always be by your side.' Noemie promises enduring personal loyalty. The informal 'you' form around 'will be' marks a direct, personal relationship.
-- 'Nothing can stop us now.' Mathias feels invincible as they begin their venture. The two-part negative frame surrounds 'can' to mean 'nothing at all'.
-- 'Kiss me tenderly in this taxi.' Noemie leans into Mathias as the city lights drift past. Notice how 'kiss' leads directly into the noun meaning 'taxi'.
-- 'This is the beginning of our triumph.' Mathias smiles warmly in shared romantic triumph. The key noun here means 'beginning', anchored by its matching French article.
-- 'I love you with all my heart.' Noemie closes the evening with a heartfelt vow. Notice how 'love' leads directly into the noun meaning 'heart'. Now let's hear the whole conversation again.
+- 'You are completely mad, Noemie!' Mathias laughs with deep affection in the dark cab.
+- 'Yes, I am mad about you!' Noemie cheerfully declares her passionate love for Mathias.
+- 'You make me laugh so much.' Mathias appreciates her warmth and spontaneous humor.
+- 'We are starting a new life together.' Noemie anticipates their fresh personal adventure.
+- 'You left the agency for me.' Mathias acknowledges her bold sacrifice to stand with him.
+- 'I would follow you everywhere in Paris.' Noemie affirms her unwavering personal devotion.
+- 'We will be free with our company.' Mathias looks forward to creative independence.
+- 'You will be a very powerful producer.' Noemie expresses supreme confidence in his talent.
+- 'And you will be my closest ally.' Mathias values her as an indispensable collaborator.
+- 'I will always be by your side.' Noemie promises enduring personal loyalty.
+- 'Nothing can stop us now.' Mathias feels invincible as they begin their venture.
+- 'Kiss me tenderly in this taxi.' Noemie leans into Mathias as the city lights drift past.
+- 'This is the beginning of our triumph.' Mathias smiles warmly in shared romantic triumph.
+- 'I love you with all my heart.' Noemie closes the evening with a heartfelt vow. Now listen to the whole scene again at normal speed, and see how much more you catch.

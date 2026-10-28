@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is nothing available for April.' A negative existential phrase introducing the month.
 - 'The next date is June sixteenth.' A cardinal date construction specifying the calendar appointment.
 - 'It is much too late, that will not work.' An emphatic negative evaluation expressing urgency.
-- 'My client acts in a major movie.' A present tense description introducing the actor's professional role.
-- 'Norman? My children often talk about him.' An question form reaction followed by an short object word.
-- 'Exactly, it is a key moment for him.' An adverb of affirmation paired with a defining career moment.
+- 'My client acts in a major movie.' Gabriel proudly tells the driving-school receptionist that his client is starring in a major film.
+- 'Norman? My children often talk about him.' The receptionist recognizes Norman's name because her children talk about his videos all the time.
+- 'Exactly, it is a key moment for him.' Gabriel agrees warmly and explains that this movie is a turning point for Norman.
 - 'In the movie, he plays a taxi driver.' A prepositional locator describing the character's occupation.
-- 'The shooting starts in two weeks only.' Gabriel opens with the word for 'filming' and lands on 'only' at the close.
+- 'The shooting starts in two weeks only.' A temporal construction expressing imminent production.
 - 'You must simply postpone this shoot.' A modal verb expressing an uncompromising practical solution.
 - 'Everyone is ready to shoot.' An indefinite subject pronoun followed by an adjective of readiness.
 - 'Can you make an effort for us?' An inverted formal question asking for special assistance.
 - 'No, the rules are the same for all.' An assertion of bureaucratic fairness rejecting exceptionalism.
 - 'I waited ten years for my papers.' A compound past verb illustrating personal resilience and delay.
-- 'So, do you want June sixteenth?' Réceptionniste opens with the word for 'so' and lands on 'June' at the close.
+- 'So, do you want June sixteenth?' A transitional question offering the only remaining appointment.

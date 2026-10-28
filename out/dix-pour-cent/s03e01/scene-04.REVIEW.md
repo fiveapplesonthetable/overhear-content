@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I still cannot get over it, Andrea.' The clause hinges on the everyday verb meaning 'return'.
-- 'You cannot get over what?' The clause hinges on the everyday verb meaning 'return'.
-- 'That you will soon be a mom!' The informal 'you' form around 'be' marks a direct, personal relationship. The informal 'you' form around 'be' marks a direct, personal relationship.
-- 'Me neither, it is a big surprise.' A candid stressed pronoun agreement sharing personal wonder. The key noun here means 'unexpected event', anchored by its matching French article.
-- 'Can I ask you a quick question?' In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question.
-- 'Yes, tell me what you want to know.' Andrea uses the casual singular 'you' with 'tell me', showing close familiarity. Andrea uses the casual singular 'you' with 'tell me', showing close familiarity.
-- 'A friend would also like to have a child.' The verb meaning 'would like' pairs naturally with the noun for 'friend' in everyday conversation.
-- 'And she is looking for practical advice?' The descriptive adjective for 'practical' agrees in gender and number with its noun. The descriptive adjective for 'practical' agrees in gender and number with its noun.
-- 'Did you use an anonymous donor?' An inverted past question form raising personal conception details. Inverting the verb and pronoun around 'did you have' creates a crisp, polished question.
-- 'That is a particularly indiscreet question, Gabriel!' An intensified adjective rebuking conversational boundary crossing. The key noun here means 'question', anchored by its matching French article.
-- 'Sorry, I simply wanted to do a favor.' An apologetic explanation pleading good intentions. The verb meaning 'wanted' pairs naturally with the noun for 'favor' in everyday conversation.
-- 'My private life concerns nobody else.' A definitive privacy boundary asserting personal autonomy. Notice how 'look' leads directly into the noun meaning 'life'.
-- 'You are completely right, excuse me.' Gabriel uses the casual singular 'you' with 'have', showing close familiarity. Gabriel uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Let us stay focused on our work at the agency.' Notice how 'let us stay' leads directly into the noun meaning 'employment'. Notice how 'let us stay' leads directly into the noun meaning 'employment'.
+- 'I still cannot get over it, Andrea.' An idiomatic negative expression registering ongoing amazement.
+- 'You cannot get over what?' A colloquial interrogative clause asking for clarification.
+- 'That you will soon be a mom!' Gabriel marvels that Andréa of all people is about to become a mother.
+- 'Me neither, it is a big surprise.' Andréa admits she cannot quite believe it either—it was a total surprise.
+- 'Can I ask you a quick question?' A courteous modal inquiry requesting permission to ask.
+- 'Yes, tell me what you want to know.' Andréa invites Gabriel to go ahead and ask whatever he wants to know.
+- 'A friend would also like to have a child.' A conditional desire formula framing an inquiry on behalf of a peer.
+- 'And she is looking for practical advice?' An intuitive follow-up question clarifying the friend's request.
+- 'Did you use an anonymous donor?' An inverted past interrogative raising personal conception details.
+- 'That is a particularly indiscreet question, Gabriel!' An intensified adjective rebuking conversational boundary crossing.
+- 'Sorry, I simply wanted to do a favor.' An apologetic explanation pleading good intentions.
+- 'My private life concerns nobody else.' A definitive privacy boundary asserting personal autonomy.
+- 'You are completely right, excuse me.' An agreeable concession offering sincere apology.
+- 'Let us stay focused on our work at the agency.' A collective imperative refocusing attention on professional duties.

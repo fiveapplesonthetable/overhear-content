@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I come for our weekly check-in.' The verb meaning 'come' pairs naturally with the noun for 'meeting' in everyday conversation.
-- 'Everything is fine, I am getting back on track.' Notice how 'goes' leads directly into the noun meaning 'slope'. Notice how 'goes' leads directly into the noun meaning 'slope'.
-- 'Where is your pile of urgent files?' In everyday spoken French, rising intonation on 'stack' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'stack' at the end is enough to turn the sentence into a question.
-- 'It is stored in this large cupboard.' The adjective meaning 'stored' takes its feminine form here to match the noun it describes.
-- 'Did you hide all these important files?' Notice how 'have' leads directly into the noun meaning 'files'. Notice how 'have' leads directly into the noun meaning 'files'.
-- 'I did not have time to sort.' A defensive temporal excuse pleading heavy workload. This conversational past tense combines a helper verb with the past verb form for 'had'.
-- 'But this is a message from Monica Bellucci!' The key noun here means 'phone message', anchored by its matching French article. The key noun here means 'phone message', anchored by its matching French article.
-- 'It is for her advertising contract with Cartier.' The descriptive adjective for 'advertising' agrees in gender and number with its noun. The descriptive adjective for 'advertising' agrees in gender and number with its noun.
-- 'Did you leave Monica Bellucci without an answer?' In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'I was just going to handle it this morning.' A near-past intention asserting immediate readiness. The verb meaning 'was going' pairs naturally with the noun for 'morning time' in everyday conversation.
-- 'You are a veritable public hazard, Gabriel!' A sharp hyperbolic evaluation criticizing professional carelessness. The key noun here means 'danger', anchored by its matching French article.
-- 'Do not get upset, I am calling her right away.' The verb meaning 'get upset' pairs naturally with the noun for 'continuation' in everyday conversation.
-- 'Be very attentive and very convincing.' Paired command form adjectives demanding professional excellence. The clause hinges on the everyday verb meaning 'be'.
-- 'Trust me, I am managing the situation.' The verb meaning 'give me' pairs naturally with the noun for 'trust' in everyday conversation.
+- 'I come for our weekly check-in.' A formal managerial opening establishing supervisory duty.
+- 'Everything is fine, I am getting back on track.' A reassuring idiomatic phrase expressing professional recovery.
+- 'Where is your pile of urgent files?' An interrogative inquiry asking for pending paperwork.
+- 'It is stored in this large cupboard.' A passive location statement revealing hidden client files.
+- 'Did you hide all these important files?' A surprised compound past question challenging office disorganization.
+- 'I did not have time to sort.' A defensive temporal excuse pleading heavy workload.
+- 'But this is a message from Monica Bellucci!' An alarmed exclamatory statement identifying a major international client.
+- 'It is for her advertising contract with Cartier.' A clarifying prepositional phrase explaining commercial stakes.
+- 'Did you leave Monica Bellucci without an answer?' An incredulous past question reproaching client neglect.
+- 'I was just going to handle it this morning.' A near-past intention asserting immediate readiness.
+- 'You are a veritable public hazard, Gabriel!' A sharp hyperbolic evaluation criticizing professional carelessness.
+- 'Do not get upset, I am calling her right away.' A calming negative imperative offering prompt remedy.
+- 'Be very attentive and very convincing.' Paired imperative adjectives demanding professional excellence.
+- 'Trust me, I am managing the situation.' A confident imperative formula promising competent execution.

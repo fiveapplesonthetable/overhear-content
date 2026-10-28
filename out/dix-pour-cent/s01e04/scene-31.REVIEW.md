@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He heard that Mathias is joining StarMédia.' Literally 'he learned that Mathias joins StarMédia'.
 - 'He says that without him, the agency is going to lose too much value.' Because Mathias represents the biggest stars at ASK, the German buyer no longer wants the company without him.
 - 'Are you sure about it? What does Hélène say?' The little word before 'are' means 'of it'.
-- 'She's furious with Mathias.' In this moment, Hélène was hoping to sell the agency for millions, and now the deal is dead.
+- 'She's furious with Mathias.' Here, Hélène was hoping to sell the agency for millions, and now the deal is dead.
 - 'And what if he did it on purpose? To save the agency!' The phrase at the end of the question means 'on purpose'. Suddenly the agents imagine that Mathias only pretended to leave in order to scare off the German buyer.
 - 'A generous act from Mathias? What a joke!' Andréa isn't convinced so easily.
 - 'Maybe not generous, but he's a strategist.' Arlette thinks Mathias planned the whole thing like a chess game.

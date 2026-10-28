@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hicham, everyone is waiting for you over there.' Camille points across the crowded room. Notice how 'waits for' leads directly into the noun meaning 'world'.
-- 'Is the entire hall already well filled?' Hicham asks about the audience. In everyday spoken French, rising intonation on 'filled' at the end is enough to turn the sentence into a question.
-- 'Yes, all the famous artists have arrived.' Camille confirms the glamorous turnout. The descriptive adjective for 'famous' agrees in gender and number with its noun.
-- 'I confess that I have terrible stage fright.' Hicham reveals his underlying anxiety. Notice how 'confess' leads directly into the noun meaning 'stage fright'.
-- 'It is going to be your turn to go up.' Camille gives the official countdown. The clause hinges on the everyday verb meaning 'is going'.
-- 'I prepared a few very simple words.' Hicham clutches his prompt cards. The verb meaning 'have' pairs naturally with the noun for 'words' in everyday conversation.
-- 'I will get you a glass of water.' Camille steps away to fetch a drink. The formal 'you' pronoun sets a courteous, professional distance around 'am going'.
-- 'Thank you Camille, you are always very thoughtful.' Hicham expresses sincere gratitude. Hicham uses the polite 'you' form alongside 'thanks' to keep a respectful professional tone.
-- 'Pardon me, I am slipping through quickly.' Camille squeezes past the VIPs. The clause hinges on the everyday verb meaning 'pardon me'.
-- 'This thirtieth anniversary party is grandiose.' Hicham takes in the lavish hall. The descriptive adjective for 'thirtieth' agrees in gender and number with its noun.
-- 'Your speech will touch the audience enormously.' Camille offers encouraging support. Notice how 'is going to' leads directly into the noun meaning 'speech'.
-- 'I especially want to pay tribute to agents.' Hicham defines his noble purpose. The verb meaning 'want' pairs naturally with the noun for 'tribute' in everyday conversation.
-- 'Drink this fresh water before starting.' Camille delivers the soothing glass. Notice how 'drink' leads directly into the noun meaning 'water'.
-- 'I am now ready for the stage.' Hicham takes a deep breath and steps forward. The descriptive adjective for 'ready' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'Hicham, everyone is waiting for you over there.' Camille points across the crowded room.
+- 'Is the entire hall already well filled?' Hicham asks about the audience.
+- 'Yes, all the famous artists have arrived.' Camille confirms the glamorous turnout.
+- 'I confess that I have terrible stage fright.' Hicham reveals his underlying anxiety.
+- 'It is going to be your turn to go up.' Camille gives the official countdown.
+- 'I prepared a few very simple words.' Hicham clutches his prompt cards.
+- 'I will get you a glass of water.' Camille steps away to fetch a drink.
+- 'Thank you Camille, you are always very thoughtful.' Hicham expresses sincere gratitude.
+- 'Pardon me, I am slipping through quickly.' Camille squeezes past the VIPs.
+- 'This thirtieth anniversary party is grandiose.' Hicham takes in the lavish hall.
+- 'Your speech will touch the audience enormously.' Camille offers encouraging support.
+- 'I especially want to pay tribute to agents.' Hicham defines his noble purpose.
+- 'Drink this fresh water before starting.' Camille delivers the soothing glass.
+- 'I am now ready for the stage.' Hicham takes a deep breath and steps forward. Now listen to the scene again at normal speed and see how much you understand.

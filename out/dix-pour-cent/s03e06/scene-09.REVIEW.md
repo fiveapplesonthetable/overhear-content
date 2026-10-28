@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your lookalike scheme will never work.' Laurence dismisses the risky plan. The formal 'you' pronoun sets a courteous, professional distance around 'will work'.
-- 'You are thinking completely backwards, Laurence.' Arlette challenges her colleague. The clause hinges on the everyday verb meaning 'think'.
-- 'I do not know this lady.' Laurence points out that she has never met the woman. Notice how 'know' leads directly into the noun meaning 'lady'.
-- 'She will save our entire agency today.' Arlette emphasizes how vital the scheme is. The verb meaning 'will save' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'I refuse to sign a fake contract.' Laurence balks at committing fraud on paper. The verb meaning 'refuse' pairs naturally with the noun for 'contract' in everyday conversation.
-- 'What do you want in exchange for your help?' Arlette opens commercial negotiations. Inverting the verb and pronoun around 'do you want' creates a crisp, polished question.
-- 'I want Guillaume Canet for my film.' Laurence asks for a major French star. Notice how 'want' leads directly into the noun meaning 'film'.
-- 'Impossible, he is with Barneville now.' Arlette notes that Mathias represents the actor. The descriptive adjective for 'impossible' agrees in gender and number with its noun.
-- 'Then I am not signing anything at all.' Laurence threatens to walk away from the deal. The clause hinges on the everyday verb meaning 'sign'.
-- 'And what if I offer you Cecile de France?' Arlette plays an irresistible card. Arlette uses the casual singular 'you' with 'propose', showing close familiarity.
-- 'For the leading role of the schoolteacher?' Laurence pictures the casting immediately. The descriptive adjective for 'leading' agrees in gender and number with its noun.
-- 'Exactly, with a quick agreement in principle.' Arlette guarantees the backing. The descriptive adjective for 'quick' agrees in gender and number with its noun.
-- 'Add an appearance by Balasko and I accept.' Laurence drives a hard bargain. Notice how 'add' leads directly into the noun meaning 'appearance'.
-- 'Deal done, sign this paper now.' Arlette clinches the contract on the spot. The verb meaning 'concluded' pairs naturally with the noun for 'deal' in everyday conversation.
+- 'Your lookalike scheme will never work.' Laurence dismisses the risky plan.
+- 'You are thinking completely backwards, Laurence.' Arlette challenges her colleague.
+- 'I do not know this lady.' Laurence points out that she has never met the woman.
+- 'She will save our entire agency today.' Arlette emphasizes how vital the scheme is.
+- 'I refuse to sign a fake contract.' Laurence balks at committing fraud on paper.
+- 'What do you want in exchange for your help?' Arlette opens commercial negotiations.
+- 'I want Guillaume Canet for my film.' Laurence asks for a major French star.
+- 'Impossible, he is with Barneville now.' Arlette notes that Mathias represents the actor.
+- 'Then I am not signing anything at all.' Laurence threatens to walk away from the deal.
+- 'And what if I offer you Cecile de France?' Arlette plays an irresistible card.
+- 'For the leading role of the schoolteacher?' Laurence pictures the casting immediately.
+- 'Exactly, with a quick agreement in principle.' Arlette guarantees the backing.
+- 'Add an appearance by Balasko and I accept.' Laurence drives a hard bargain.
+- 'Deal done, sign this paper now.' Arlette clinches the contract on the spot.

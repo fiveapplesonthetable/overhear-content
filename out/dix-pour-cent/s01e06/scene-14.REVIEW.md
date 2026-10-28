@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For example, what do you want?' Christophe leans back and tests Andréa's skills. The question uses the standard inversion with what.
-- 'I want you to call François.' Andréa gets straight to her objective. Notice that the verb to want takes the special verb form form of to call.
+- 'For example, what do you want?' Christophe leans back and tests Andrea's skills.
+- 'I want you to call François.' Andrea gets straight to her objective.
 - 'Look at how I do it.' She sits closer and grins mischievously.
-- 'I slide my hand in here and take your phone.' Demonstrating her move step by step, she narrates her action. The key word here means 'slide', paired with 'phone' to make the point clear.
+- 'I slide my hand in here and take your phone.' Demonstrating her move step by step, she narrates her action.
 - 'I slide my fingers across the screen.' She wakes up the screen with a light touch.
-- 'I finish by sending it. Result!' With a quick tap, she announces her triumph. Notice the present verb form construction introduced by the linking word in.
-- 'What did you do?' Realizing what just happened, Christophe gasps. The question is in the conversational past tense with the helping verb to have.
+- 'I finish by sending it. Result!' With a quick tap, she announces her triumph.
+- 'What did you do?' Realizing what just happened, Christophe gasps.
 - 'You sent a message to Berléand!' He stares at his phone in total disbelief.
 - 'It is not true!' Panicking at how quickly things moved, he shouts in shock.
-- 'You told me to wait, and you did not come home.' The next morning in the apartment, Colette confronts her. Colette opens with the word for 'have' and lands on 'come home' at the close.
-- 'It was strictly professional, you know that.' Andréa defends herself. The verb meaning 'it was' anchors the whole remark.
-- 'We do what I want this evening.' Colette lays down the law. Listen for the expression meaning 'do', which leads naturally into 'evening'.
-- 'We meet my friends.' She adds her firm plan. Colette pairs the verb meaning 'meet' with the noun for 'female friends'. Now let's hear the whole exchange between the restaurant and the apartment once more.
+- 'You told me to wait, and you did not come home.' The next morning in the apartment, Colette confronts her.
+- 'It was strictly professional, you know that.' Andrea defends herself.
+- 'We do what I want this evening.' Colette lays down the law.
+- 'We meet my friends.' She adds her firm plan. Now let's hear the whole exchange between the restaurant and the apartment once more.

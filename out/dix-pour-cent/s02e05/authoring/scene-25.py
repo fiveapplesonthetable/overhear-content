@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'We can find another financing elsewhere.' Gabriel suggests pitching alternative partners and investors."),
     (12, None, "'No, it is finished, I give up.' Julien sinks into despair and declares his intention to walk away."),
     (13, None, "'Julien, keep hope for this beautiful film.' Sofia appeals to his passion for their collaborative project."),
-    (14, None, "'Do not give up so quickly, Julien.' Listen for the expression meaning 'lower', which leads naturally into 'quickly'."),
+    (14, None, "'Do not give up so quickly, Julien.' Gabriel urges Julien not to give up on his first film so quickly."),
 ]

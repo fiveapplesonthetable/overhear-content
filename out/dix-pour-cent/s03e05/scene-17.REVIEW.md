@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, hello, what project is it for?' Camille answers a call from a movie producer. In spoken French, the little word before 'hello' drops its final vowel and attaches with an apostrophe.
-- 'Sophia Leprince is an excellent actress.' She praises her client's acting talent. The adjective meaning 'excellent' takes its feminine form here to match the noun it describes.
-- 'Wait, I am checking her schedule now.' Camille looks up the actress's diary. Notice how 'wait' leads directly into the noun meaning 'schedule'.
-- 'You are truly in luck.' She informs the caller of a rare opening. The verb meaning 'have' pairs naturally with the noun for 'luck' in everyday conversation.
-- 'An appointment opened up tomorrow.' Camille offers an available casting slot. The short 'self' word sits right in front of the verb for 'has become', turning the action back onto the subject.
-- 'Very good, I note it down carefully.' She records the meeting details. The clause hinges on the everyday verb meaning 'write down'.
-- 'Thank you very much and goodbye, sir.' Camille concludes the business phone call politely. The key noun here means 'seeing again', anchored by its matching French article.
-- 'Did you land that appointment?' Herve asks about the phone conversation. Herve uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Yes, an appointment for a feature film!' Camille shares the exciting news with her colleague. The key noun here means 'meeting', anchored by its matching French article.
-- 'That is truly unbelievable!' Herve celebrates her successful booking. Dropping the subject pronoun turns the verb for 'is not' into a direct, punchy command.
-- 'If everything went well with them...' Noemie analyzes the American negotiations. The clause hinges on the everyday verb meaning 'went'.
-- 'Hicham would have called you long ago.' She points out the boss's silence. This conversational past tense combines a helper verb with the past verb form for 'called'.
-- 'He always loves to brag.' Noemie describes Hicham's boastful personality. The clause hinges on the everyday verb meaning 'adores'.
-- 'So stop stressing like that.' She urges her colleagues to stay calm. The clause hinges on the everyday verb meaning 'stop'. Now let's hear the whole conversation again.
+- 'Yes, hello, what project is it for?' Camille answers a call from a movie producer.
+- 'Sophia Leprince is an excellent actress.' She praises her client's acting talent.
+- 'Wait, I am checking her schedule now.' Camille looks up the actress's diary.
+- 'You are truly in luck.' She informs the caller of a rare opening.
+- 'An appointment opened up tomorrow.' Camille offers an available casting slot.
+- 'Very good, I note it down carefully.' She records the meeting details.
+- 'Thank you very much and goodbye, sir.' Camille concludes the business phone call politely.
+- 'Did you land that appointment?' Herve asks about the phone conversation.
+- 'Yes, an appointment for a feature film!' Camille shares the exciting news with her colleague.
+- 'That is truly unbelievable!' Herve celebrates her successful booking.
+- 'If everything went well with them...' Noemie analyzes the American negotiations.
+- 'Hicham would have called you long ago.' She points out the boss's silence.
+- 'He always loves to brag.' Noemie describes Hicham's boastful personality.
+- 'So stop stressing like that.' She urges her colleagues to stay calm. Now listen to the whole scene again at normal speed, and see how much more you catch.

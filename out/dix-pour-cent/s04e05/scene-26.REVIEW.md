@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, how do you feel, Mathias?' Camille checks in on his mindset as they stroll. In everyday spoken French, rising intonation on 'feel' at the end is enough to turn the sentence into a question.
-- 'I finally feel completely honest!' Mathias describes his unexpected psychological state. The short 'self' word sits right in front of the verb for 'feel', turning the action back onto the subject.
-- 'It is a wonderful new sensation.' Camille encourages him to appreciate the change. The adjective meaning 'fine' takes its feminine form here to match the noun it describes.
-- 'It feels weird as a sensation for me.' Mathias notes how unusual candor feels after years of scheming. The key noun here means 'sensation', anchored by its matching French article.
-- 'It is because you are not used to it.' Camille points out that practice will make honesty feel natural. This conversational past tense combines a helper verb with the past verb form for 'used'.
-- 'I spent my life lying.' Mathias looks back on his past professional duplicity. The verb meaning 'have' pairs naturally with the noun for 'life' in everyday conversation.
-- 'You will see, being honest is good too.' Camille promises that sincerity brings its own reward. Camille uses the casual singular 'you' with 'will see', showing close familiarity.
-- 'Yes, you are totally right, Camille.' Mathias concedes her point with genuine humility. Notice how 'have' leads directly into the noun meaning 'right'.
-- 'You made the right choice.' Camille reinforces his courageous decision. The verb meaning 'have' pairs naturally with the noun for 'choice' in everyday conversation.
-- 'I want to be worthy of you.' Mathias articulates his aspiration to earn her lasting respect. The informal 'you' form around 'want' marks a direct, personal relationship.
-- 'We are starting over on a new foundation.' Camille looks forward to an honest bond. The adjective meaning 'new' takes its feminine form here to match the noun it describes.
-- 'It is a true relief today.' Mathias feels unburdened by the weight of deception. The key noun here means 'relief', anchored by its matching French article.
-- 'I am proud to be your daughter.' Camille voices her sincere love and acceptance. The adjective meaning 'proud' takes its feminine form here to match the noun it describes.
-- 'And I am proud of you.' Mathias reciprocates with profound fatherly pride. The informal 'you' form around 'this line' marks a direct, personal relationship. Now let's hear the whole conversation again.
+- 'So, how do you feel, Mathias?' Camille checks in on his mindset as they stroll.
+- 'I finally feel completely honest!' Mathias describes his unexpected psychological state.
+- 'It is a wonderful new sensation.' Camille encourages him to appreciate the change.
+- 'It feels weird as a sensation for me.' Mathias notes how unusual candor feels after years of scheming.
+- 'It is because you are not used to it.' Camille points out that practice will make honesty feel natural.
+- 'I spent my life lying.' Mathias looks back on his past professional duplicity.
+- 'You will see, being honest is good too.' Camille promises that sincerity brings its own reward.
+- 'Yes, you are totally right, Camille.' Mathias concedes her point with genuine humility.
+- 'You made the right choice.' Camille reinforces his courageous decision.
+- 'I want to be worthy of you.' Mathias articulates his aspiration to earn her lasting respect.
+- 'We are starting over on a new foundation.' Camille looks forward to an honest bond.
+- 'It is a true relief today.' Mathias feels unburdened by the weight of deception.
+- 'I am proud to be your daughter.' Camille voices her sincere love and acceptance.
+- 'And I am proud of you.' Mathias reciprocates with profound fatherly pride. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What level is your instinct at?' Herve asks Camille skeptically about her intuition. In everyday spoken French, rising intonation on 'instinct' at the end is enough to turn the sentence into a question.
-- 'He did that all by himself.' Camille defends Samy's self-tape initiative. The clause hinges on the everyday verb meaning 'has'.
-- 'Stop, he is a total amateur.' Herve dismisses the actor's audition video. The verb meaning 'stop' pairs naturally with the noun for 'amateur' in everyday conversation.
-- 'It is innovative and very special.' Camille praises the unusual performance style. The adverb meaning 'very' gives the reply its conversational emphasis.
-- 'Great actors have succeeded.' Camille reminds him that unconventional actors often succeed. The verb meaning 'have' pairs naturally with the noun for 'actors' in everyday conversation.
-- 'Nobody believed in Belmondo.' Camille cites legendary French actor Jean-Paul Belmondo. The two-part French negation brackets the verb for 'believed' on both sides.
-- 'We are not representing this guy.' Herve refuses to sign the eccentric actor. The two-part French negation brackets the verb for 'represent' on both sides.
-- 'I truly believe in him.' Camille asserts her strong conviction. The clause hinges on the everyday verb meaning 'believe'.
-- 'He has enormous potential.' Camille highlights his untapped acting talent. The descriptive adjective for 'enormous' agrees in gender and number with its noun.
-- 'Are you speaking for both of us?' Herve questions whether this serves their agency partnership. The informal 'you' form around 'speak' marks a direct, personal relationship.
-- 'I will be his own Pygmalion.' Camille vows to mentor and train him into shape. Notice how 'will be' leads directly into the noun meaning 'mentor'.
-- 'I can make him a star.' Camille declares her ambition with absolute confidence. Notice how 'can' leads directly into the noun meaning 'movie star'.
-- 'One day, you will thank me.' Camille promises Herve he will appreciate her decision. Camille uses the casual singular 'you' with 'will thank', showing close familiarity.
-- 'All of France will thank me.' Camille concludes with dramatic enthusiasm. The clause hinges on the everyday verb meaning 'will thank'.
+- 'What level is your instinct at?' Herve asks Camille skeptically about her intuition.
+- 'He did that all by himself.' Camille defends Samy's self-tape initiative.
+- 'Stop, he is a total amateur.' Herve dismisses the actor's audition video.
+- 'It is innovative and very special.' Camille praises the unusual performance style.
+- 'Great actors have succeeded.' Camille reminds him that unconventional actors often succeed.
+- 'Nobody believed in Belmondo.' Camille cites legendary French actor Jean-Paul Belmondo.
+- 'We are not representing this guy.' Herve refuses to sign the eccentric actor.
+- 'I truly believe in him.' Camille asserts her strong conviction.
+- 'He has enormous potential.' Camille highlights his untapped acting talent.
+- 'Are you speaking for both of us?' Herve questions whether this serves their agency partnership.
+- 'I will be his own Pygmalion.' Camille vows to mentor and train him into shape.
+- 'I can make him a star.' Camille declares her ambition with absolute confidence.
+- 'One day, you will thank me.' Camille promises Herve he will appreciate her decision.
+- 'All of France will thank me.' Camille concludes with dramatic enthusiasm.

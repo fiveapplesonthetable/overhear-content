@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening everyone, be welcome!' Hicham greets the glittering gala crowd. Dropping the subject pronoun turns the verb for 'be' into a direct, punchy command.
-- 'Thank you for coming in such numbers tonight.' Hicham smiles at the packed ballroom. Notice how 'having' leads directly into the noun meaning 'thanks'.
-- 'Success at ASK is always collective.' Hicham highlights their shared ethos. The adjective meaning 'collective' takes its feminine form here to match the noun it describes.
-- 'ASK would not exist without all of you.' Hicham honors the artists and employees. Hicham uses the polite 'you' form alongside 'would exist' to keep a respectful professional tone.
-- 'Tonight, let us celebrate the talent of agents.' Hicham turns the spotlight onto his colleagues. The verb meaning 'let us celebrate' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'One person truly embodies our fine agency.' Hicham prepares the crowd for a legend. Notice how 'embodies' leads directly into the noun meaning 'person'.
-- 'The very great and irreplaceable Arlette!' Hicham names the veteran agent with admiration. The adjective meaning 'great' takes its feminine form here to match the noun it describes.
-- 'Without her, we would be nothing today.' Hicham delivers his ultimate tribute. In spoken French, the little word before 'would be' drops its final vowel and attaches with an apostrophe.
-- 'The whole audience applauds with deep emotion.' Andrea takes in the roaring applause. Notice how 'applauds' leads directly into the noun meaning 'audience'.
-- 'Mathias wanted to announce his departure in public.' Andrea recalls his intended rebellion. Notice how 'wanted' leads directly into the noun meaning 'departure'.
-- 'But that is not elegant at all.' Andrea condemns such bitterness on an anniversary night. The descriptive adjective for 'elegant' agrees in gender and number with its noun.
-- 'You underestimated your own colleagues, Mathias.' Andrea confronts him directly off-stage. Notice how 'have' leads directly into the noun meaning 'colleagues'.
-- 'We united to save the agency.' Andrea reveals the solidarity of the other agents. This conversational past tense combines a helper verb with the past verb form for 'united'.
-- 'You played solo and you lost.' Andrea delivers the blunt conclusion of the season. The descriptive adjective for 'solo' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'Good evening everyone, be welcome!' Hicham greets the glittering gala crowd.
+- 'Thank you for coming in such numbers tonight.' Hicham smiles at the packed ballroom.
+- 'Success at ASK is always collective.' Hicham highlights their shared ethos.
+- 'ASK would not exist without all of you.' Hicham honors the artists and employees.
+- 'Tonight, let us celebrate the talent of agents.' Hicham turns the spotlight onto his colleagues.
+- 'One person truly embodies our fine agency.' Hicham prepares the crowd for a legend.
+- 'The very great and irreplaceable Arlette!' Hicham names the veteran agent with admiration.
+- 'Without her, we would be nothing today.' Hicham delivers his ultimate tribute.
+- 'The whole audience applauds with deep emotion.' Andrea takes in the roaring applause.
+- 'Mathias wanted to announce his departure in public.' Andrea recalls his intended rebellion.
+- 'But that is not elegant at all.' Andrea condemns such bitterness on an anniversary night.
+- 'You underestimated your own colleagues, Mathias.' Andrea confronts him directly off-stage.
+- 'We united to save the agency.' Andrea reveals the solidarity of the other agents.
+- 'You played solo and you lost.' Andrea delivers the blunt conclusion of the season. Now listen to the scene again at normal speed and see how much you understand.

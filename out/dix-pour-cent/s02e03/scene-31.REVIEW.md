@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Arlette.' Andréa greets her colleague as she enters the agency.
+- 'Good morning, Arlette.' Andrea greets her colleague as she enters the agency.
 - 'Good morning, Andréa. Did you sleep well?' Arlette asks her with a friendly smile.
-- 'Arlette, that weed is killer.' Andréa opens with the word for 'weed' and lands on 'terrible' at the close.
-- 'I had crazy erotic dreams all weekend.' Listen for the expression meaning 'have', which leads naturally into 'weekend'.
+- 'Arlette, that weed is killer.' The word terrible here means potent or incredible.
+- 'I had crazy erotic dreams all weekend.' Andréa confesses to Arlette that she had wild erotic dreams all weekend.
 - 'Not me.' Gabriel enters the office looking completely exhausted.
-- 'Why didn't you come to the party?' Andréa asks in a negative past question.
+- 'Why didn't you come to the party?' Andrea asks in a negative past question.
 - 'I had some personal obligations.' Gabriel uses the imperfect tense to offer a discreet excuse.
 - 'Personal obligations on a Sunday evening?' Arlette raises an eyebrow playfully.
 - 'An urgent matter with a talent.' Gabriel refers to his secret weekend ordeal with Norman.
-- 'Hello everyone. How are you, Marteau?' Arlette affectionately uses Andréa's nickname.
-- 'I am doing very well!' Andréa responds with confidence and energy.
+- 'Hello everyone. How are you, Marteau?' Arlette affectionately uses Andrea's nickname.
+- 'I am doing very well!' Andrea responds with confidence and energy.
 - 'And for Aymeline Val too!' Arlette brings up the agency's new client.
 - 'Wasn't that project crazy?' Arlette uses informal negative phrasing to seek agreement.
-- 'It was crazy!' Andréa enthusiastically confirms the wild success of the weekend.
+- 'It was crazy!' Andrea enthusiastically confirms the wild success of the weekend.
 - 'At least everyone is here this morning.' Gabriel concludes with quiet relief after his night in jail.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This spectral pallor is really magnificent.' The director praises the ghost aesthetic. The adjective meaning 'spectral' takes its feminine form here to match the noun it describes.
-- 'I am too cold, my lips are locking up.' Isabelle shivers under the cold wind. The verb meaning 'have' pairs naturally with the noun for 'cold' in everyday conversation.
-- 'Isabelle, say your line now, please!' the director uses the polite or plural 'you' here with 'please'. the director uses the polite 'you' form alongside 'say' to keep a respectful professional tone.
-- 'I cannot speak at all anymore.' Isabelle feels paralyzed by the low temperature. The clause hinges on the everyday verb meaning 'can'.
-- 'You save people and you freeze up?' The director contrasts her surgery skills with acting. Notice how 'save' leads directly into the noun meaning 'people'.
-- 'To each their own trade, I am going back to the hospital.' Isabelle asserts her real calling. Notice how 'return' leads directly into the noun meaning 'job'.
-- 'Wait Isabelle, do not leave like that!' Camille intervenes to salvage the video. Dropping the subject pronoun turns the verb for 'wait' into a direct, punchy command.
-- 'In reality, this text is too complicated.' Camille honestly analyzes the dialogue flaw. The key noun here means 'reality', anchored by its matching French article.
-- 'This text is perfect, I wrote it!' The director indignantly defends his authorship. The descriptive adjective for 'perfect' agrees in gender and number with its noun.
-- 'She is right, the words do not flow.' Isabelle agrees that the phrasing feels awkward. Notice how 'has' leads directly into the noun meaning 'right'.
-- 'A ghost never speaks in the story.' Camille suggests an elegant atmospheric solution. The verb meaning 'speaks' pairs naturally with the noun for 'ghost' in everyday conversation.
-- 'You want to delete all the lines?' The director is taken aback by cutting dialogue. The verb meaning 'want' pairs naturally with the noun for 'lines' in everyday conversation.
-- 'Yes, a silent gaze will be much stronger.' Camille makes a persuasive artistic case. The descriptive adjective for 'silent' agrees in gender and number with its noun.
-- 'Perfect, I can finally play this role.' Isabelle gladly welcomes a silent performance. The verb meaning 'can' pairs naturally with the noun for 'role' in everyday conversation.
+- 'This spectral pallor is really magnificent.' The director praises the ghost aesthetic.
+- 'I am too cold, my lips are locking up.' Isabelle shivers under the cold wind.
+- 'Isabelle, say your line now, please!' The director demands her cue while rolling.
+- 'I cannot speak at all anymore.' Isabelle feels paralyzed by the low temperature.
+- 'You save people and you freeze up?' The director contrasts her surgery skills with acting.
+- 'To each their own trade, I am going back to the hospital.' Isabelle asserts her real calling.
+- 'Wait Isabelle, do not leave like that!' Camille intervenes to salvage the video.
+- 'In reality, this text is too complicated.' Camille honestly analyzes the dialogue flaw.
+- 'This text is perfect, I wrote it!' The director indignantly defends his authorship.
+- 'She is right, the words do not flow.' Isabelle agrees that the phrasing feels awkward.
+- 'A ghost never speaks in the story.' Camille suggests an elegant atmospheric solution.
+- 'You want to delete all the lines?' The director is taken aback by cutting dialogue.
+- 'Yes, a silent gaze will be much stronger.' Camille makes a persuasive artistic case.
+- 'Perfect, I can finally play this role.' Isabelle gladly welcomes a silent performance.

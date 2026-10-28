@@ -32,18 +32,18 @@ STORY = [
     ('herve', "D'accord, je vais surveiller les bureaux.", 'All right, I am going to watch over the offices.', [(76, 'tienne la boutique.')], ''),
 ]
 WALK = [
-    (0, None, "'Do not cry over Cannes, Fabienne.' Listen for the expression meaning 'cry', which leads naturally into 'cry'."),
+    (0, None, "'Do not cry over Cannes, Fabienne.' A negative imperative comforting an upset artist."),
     (1, None, "'The Angouleme festival is very good too.' A consoling alternative pointing to another prestigious film event."),
     (2, None, "'Are you ready for the departure?' An inverted plural question reviewing festival preparations."),
     (3, None, "'Me, I am staying at the agency.' A stressed personal pronoun highlighting duty in Paris."),
     (4, None, "'The boss and Andréa are going to Cannes.' A compound subject noting the executive travel roster."),
-    (5, None, "'My karma is bad this month.' Notice how the verb for 'is' leads straight into 'this month'."),
+    (5, None, "'My karma is bad this month.' A colloquial idiom expressing temporary professional misfortune."),
     (6, None, "'You are going to be in charge here.' A nautical metaphor signifying leadership during absence."),
     (7, None, "'Last year, I had a single phone call.' A past temporal memory recalling previous office solitude."),
     (8, None, "'Someone is really needed to guard the agency.' An impersonal necessity structure emphasizing essential presence."),
-    (9, None, "'Holding the fort is very important, Hervé.' The adjective meaning 'important' agrees in gender and number with feminine noun 'shop'."),
+    (9, None, "'Holding the fort is very important, Hervé.' A professional idiom encouraging responsible oversight."),
     (10, None, "'Two weeks all alone in Paris, that is long.' A duration assessment acknowledging quiet summer weeks."),
     (11, None, "'You will have peace and quiet to work well.' A reassuring future tense predicting calm productivity."),
-    (12, None, "'We trust you, my dear Hervé.' The adjective meaning 'dear' agrees in gender and number with feminine noun 'trust'."),
+    (12, None, "'We trust you, my dear Hervé.' A sincere expression of team confidence and affection."),
     (13, None, "'All right, I am going to watch over the offices.' An accepting agreement undertaking office management."),
 ]

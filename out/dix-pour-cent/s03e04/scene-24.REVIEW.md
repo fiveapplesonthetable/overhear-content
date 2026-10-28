@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, this is absolutely brilliant.' Noemie reads the ancient Chinese divination result with excitement. The descriptive adjective for 'brilliant' agrees in gender and number with its noun.
-- 'It is the sign of the breakthrough.' Noemie identifies hexagram 43 of the I Ching. The key noun here means 'sign', anchored by its matching French article.
-- 'A breakthrough after so much tension?' Mathias listens attentively to the reading. In everyday spoken French, rising intonation on 'breakthrough' at the end is enough to turn the sentence into a question.
-- 'Like a river breaking its dikes.' Noemie quotes the poetic imagery of natural release. Notice how 'shattering' leads directly into the noun meaning 'river'.
-- 'Like a great cloud bursting.' Noemie describes the dramatic release of pent-up energy. The verb meaning 'bursts' pairs naturally with the noun for 'cloud' in everyday conversation.
-- 'Vulgar men are going to disappear.' Noemie interprets the hexagram's forecast about overcoming adversaries like Hicham. Notice how 'are going to' leads directly into the noun meaning 'men'.
-- 'What does the text say about action?' Mathias asks for the tactical counsel of the reading. In everyday spoken French, rising intonation on 'says' at the end is enough to turn the sentence into a question.
-- 'Resolute action brings about change.' Noemie recites the core principle of the hexagram. The verb meaning 'brings about' pairs naturally with the noun for 'action' in everyday conversation.
-- 'It is truly very striking, Noemie.' Mathias is struck by how accurately the ancient text fits their struggle. The descriptive adjective for 'striking' agrees in gender and number with its noun.
-- 'It means that now is the time.' Noemie urges that hesitation must end immediately. The clause hinges on the everyday verb meaning 'wants'.
-- 'We must go on the offensive.' Mathias resolves to initiate their decisive takeover maneuver. The verb meaning 'must' pairs naturally with the noun for 'attack' in everyday conversation.
-- 'Go for it boldly, Mathias!' Noemie encourages him to trust his strength. The clause hinges on the everyday verb meaning 'go for it'.
-- 'Break through without hesitation!' Noemie repeats the inspirational command of the hexagram. Dropping the subject pronoun turns the verb for 'break through' into a direct, punchy command.
-- 'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory. The clause hinges on the everyday verb meaning 'are going to'.
+- 'Mathias, this is absolutely brilliant.' Noemie reads the ancient Chinese divination result with excitement.
+- 'It is the sign of the breakthrough.' Noemie identifies hexagram 43 of the I Ching.
+- 'A breakthrough after so much tension?' Mathias listens attentively to the reading.
+- 'Like a river breaking its dikes.' Noemie quotes the poetic imagery of natural release.
+- 'Like a great cloud bursting.' Noemie describes the dramatic release of pent-up energy.
+- 'Vulgar men are going to disappear.' Noemie interprets the hexagram's forecast about overcoming adversaries like Hicham.
+- 'What does the text say about action?' Mathias asks for the tactical counsel of the reading.
+- 'Resolute action brings about change.' Noemie recites the core principle of the hexagram.
+- 'It is truly very striking, Noemie.' Mathias is struck by how accurately the ancient text fits their struggle.
+- 'It means that now is the time.' Noemie urges that hesitation must end immediately.
+- 'We must go on the offensive.' Mathias resolves to initiate their decisive takeover maneuver.
+- 'Go for it boldly, Mathias!' Noemie encourages him to trust his strength.
+- 'Break through without hesitation!' Noemie repeats the inspirational command of the hexagram.
+- 'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory.

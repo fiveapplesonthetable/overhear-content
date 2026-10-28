@@ -33,19 +33,19 @@ STORY = [
     ('audrey', "Mathias, regarde, elle t'a dessiné! Elle est très douée!", 'Mathias, look, she has drawn you! She', [(327, "Mathias, regarde, elle t'a dessiné"), (328, 'Elle est'), (328, 'douée')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Audrey. Didn't you find a babysitter?' After a negative verb, the word for 'a' changes to the short word meaning 'any'."),
+    (0, None, "'Hello, Audrey. Didn't you find a babysitter?' After a negative action word, the word for 'a' changes to the short word meaning 'any'."),
     (1, None, "'I didn't have children just to leave them with a stranger!' Literally 'I did not make children for to leave them to an unknown woman'."),
     (2, None, "'And your husband?' A quick two-word question using the masculine word for 'your'."),
     (3, None, "'He's filming a documentary about landless farmers in Honduras.' Literally 'peasants without land'. So her partner is on the other side of the world."),
-    (4, None, "'Are you losing your voice?' Meanwhile, Audrey is speaking in a tiny, breathless whisper."),
+    (4, None, "'Are you losing your voice?' Here, Audrey is speaking in a tiny, breathless whisper."),
     (5, None, "'No, I still have a bit of a tummy.' Her baby is only a few months old."),
     (6, None, "'So I'm wearing a girdle.' The verb means 'wear' as well as 'carry'."),
     (7, None, "'But it's very tight! I can hardly breathe.' The adjective for 'tight' is feminine to match 'girdle', and the word for 'almost' sits inside the negative."),
     (8, None, "'I'm fine, if I speak softly.' As long as she doesn't take a deep breath, she can manage."),
     (9, None, "'Are they staying here?' Mathias looks nervously at the children before the meeting with the director."),
     (10, None, "'Mathias, having children isn't an illness!' Literally 'to have children, it is not an illness'."),
-    (11, None, "'Audrey, directors have no imagination.' Again, after a negative, the word before 'any imagination' shrinks before the vowel."),
+    (11, None, "'Audrey, directors have no imagination.' Again, after a negative, the word before 'imagination' shrinks before the vowel."),
     (12, None, "'With children here, they think about babies, not about cinema!' Meanwhile Audrey's little girl hands her mother a crayon drawing."),
     (13, None, "'Thank you, my little kitten.' French parents often use 'my kitten' as a sweet pet name for a small child."),
-    (14, None, "'Mathias, look, she has drawn you! She's very talented!' The object word for 'you' shrinks before the helping verb. Mathias is not nearly as charmed by the portrait as Audrey is."),
+    (14, None, "'Mathias, look, she has drawn you! She's very talented!' The object word for 'you' shrinks before the auxiliary verb. Mathias is not nearly as charmed by the portrait as Audrey is."),
 ]

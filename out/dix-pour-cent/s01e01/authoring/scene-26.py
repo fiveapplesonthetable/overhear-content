@@ -37,12 +37,12 @@ STORY = [
 ]
 WALK = [
     (0, 'Merci, Mathias!', "'Thanks, Mathias!' Pure sarcasm. Then he says what he really thinks."),
-    (0, 'Tu as volé Cécile!', "'You stole Cécile!' This is the everyday past tense: the verb 'to have' plus the past form of 'steal'. It's the grammar point of this scene, and you'll hear it again and again."),
+    (0, 'Tu as volé Cécile!', "'You stole Cécile!' This is the everyday past: the action word 'to have' plus the past form of 'steal'. It's the language point of this scene, and you'll hear it again and again."),
     (1, None, "'And don't say it was for the good of the agency.' A negative command: the negative wraps around the casual 'say'. Gabriel knows exactly what Mathias will answer."),
     (2, None, "'Of course it was, Gabriel.' Literally 'of course yes'. Mathias doesn't apologise for anything."),
     (3, None, "'Two other agencies wanted Cécile.' The verb is 'to want' in the past, describing how things stood: a different past tense, used for background."),
     (4, None, "'Twenty-four more hours, and she comes back!' Gabriel speaks in the present to make it vivid: one more day, and she would have come home."),
-    (5, None, "'We didn't have twenty-four hours.' The word at the start means 'we' in everyday speech. And the negative wraps around the verb again."),
+    (5, None, "'We didn't have twenty-four hours.' The word at the start means 'we' in everyday speech."),
     (6, None, "'She's not a file. She's Cécile.' The word for 'file' is what agents call a case or a deal. For Gabriel she's a person, not a deal."),
     (7, None, "'Yes, it's Cécile.' Mathias repeats it calmly, and Gabriel storms off. Now Andréa speaks up."),
     (8, None, "'Congratulations, Mathias.' The word looks long but it's simply 'congratulations'. She says it drily."),
@@ -56,5 +56,5 @@ WALK = [
     (15, None, "'Where did you find her? She's dangerous.' The question word for 'where' comes at the very end, which is common in spoken French."),
     (17, None, "'I haven't told Gabriel.' Literally 'I haven't spoken of it to Gabriel'. So the secret stays between them."),
     (17, None, "'But sort it out, will you?' A casual command with a soft tag at the end, 'you want, okay?'. It sounds polite, but it's an order."),
-    (17, None, "'Have a nice day.' Literally 'good day'. A sweet goodbye that leaves Andréa with a big problem. Here is the whole scene one more time. Now hear the entire conversation again from the top."),
+    (17, None, "'Have a nice day.' Literally 'good day'. A sweet goodbye that leaves Andréa with a big problem."),
 ]

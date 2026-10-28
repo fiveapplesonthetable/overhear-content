@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am afraid he will fail his driving test.' Gabriel worries about his client's upcoming driving examination. The key word here means 'I have', paired with 'driving license' to make the point clear.
-- 'Does he not know how to drive?' Hervé questions the young internet celebrity's basic vehicle skills. The negative question expresses surprise.
-- 'Yes, but he panics during the exam.' Gabriel clarifies that nerves are the real problem on the road. The key word here means 'yes', paired with 'exam' to make the point clear.
-- 'He cannot film without a license.' The prestigious film role requires him to drive legally on set. Gabriel pairs the verb meaning 'can' with the noun for 'license'.
-- 'I have something to relax.' Hervé proposes an unconventional remedy to ease his tension. The key word here means 'I have', paired with 'to relax' to make the point clear.
-- 'He cannot smoke before the exam!' Gabriel immediately rejects any illicit substance before the test. The adverb meaning 'not' sharpens the verb for 'can' here.
-- 'Then, I have these very effective pills.' The assistant offers a legal pharmaceutical alternative instead. Hervé pairs the verb meaning 'I have' with the noun for 'pills'.
-- 'Look at the side effects on the Internet!' Norman reads alarming medical warnings on his smartphone screen. Listen for the expression meaning 'look at', which leads naturally into 'side'.
-- 'They always say total nonsense.' Hervé dismisses online medical advice as wildly exaggerated. The adverb meaning 'always' sharpens the verb for 'tell' here.
-- 'Every medication has undesirable effects.' Norman remains cautious about putting chemicals in his body. Norman pairs the verb meaning 'has' with the noun for 'effects'.
-- 'I do not need it at all.' The YouTuber insists that he can manage his stress naturally. Notice how the verb for 'have' leads straight into 'need'.
-- 'I am very calm and relaxed.' He claims to feel completely peaceful despite his obvious anxiety. The verb meaning 'am' anchors the whole remark.
-- 'As you wish, my dear Norman.' Hervé gracefully accepts his client's personal decision. The key word here means 'wish', paired with 'dear' to make the point clear.
-- 'Wait, I forgot my mobile phone!' Norman panics at the last second as he prepares to depart. Norman uses the command form form for 'wait' together with the word for 'telephone'.
+- 'I am afraid he will fail his driving test.' Gabriel worries about his client's upcoming driving examination.
+- 'Does he not know how to drive?' Herve questions the young internet celebrity's basic vehicle skills.
+- 'Yes, but he panics during the exam.' Gabriel clarifies that nerves are the real problem on the road.
+- 'He cannot film without a license.' The prestigious film role requires him to drive legally on set.
+- 'I have something to relax.' Herve proposes an unconventional remedy to ease his tension.
+- 'He cannot smoke before the exam!' Gabriel immediately rejects any illicit substance before the test.
+- 'Then, I have these very effective pills.' The assistant offers a legal pharmaceutical alternative instead.
+- 'Look at the side effects on the Internet!' Norman reads alarming medical warnings on his smartphone screen.
+- 'They always say total nonsense.' Herve dismisses online medical advice as wildly exaggerated.
+- 'Every medication has undesirable effects.' Norman remains cautious about putting chemicals in his body.
+- 'I do not need it at all.' The YouTuber insists that he can manage his stress naturally.
+- 'I am very calm and relaxed.' He claims to feel completely peaceful despite his obvious anxiety.
+- 'As you wish, my dear Norman.' Herve gracefully accepts his client's personal decision.
+- 'Wait, I forgot my mobile phone!' Norman panics at the last second as he prepares to depart.

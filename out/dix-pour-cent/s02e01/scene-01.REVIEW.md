@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You have lived together for many years.' Notice the present tense with a duration linking word describing an ongoing state.
-- 'And this is your first film together!' The presentative expression with a possessive adjective and an ordinal number.
-- 'What made you decide to make this film?' A question formed with a past verb form agreeing with the plural object.
-- 'With our schedules, we never see each other.' The indefinite subject pronoun followed by a reflexive reciprocal verb.
-- 'Was receiving the same fee important to you?' An infinitive functioning as the subject of the imperfect verb.
-- 'For me, yes!' A short emphatic answer with an indirect pronoun.
-- 'Equal pay is important in every profession.' An abstract noun phrase followed by a universal indefinite adjective.
-- 'Two equal fees, into the same account.' A plural adjective modifying the noun fee in financial contexts.
-- 'Everyone is happy, even our agent.' The idiomatic phrase meaning everybody followed by an adverb meaning even.
-- 'Do you have the same agent?' Listen for the expression meaning 'have', which leads naturally into 'representative'.
-- 'We share everything. Absolutely everything.' The key word here means 'share', paired with 'completely' to make the point clear.
+- 'You have lived together for many years.' The radio host notes that Virginie and Ramzy have been a couple for many years.
+- 'And this is your first film together!' The journalist points out enthusiastically that this is their first movie together.
+- 'What made you decide to make this film?' The interviewer asks what convinced the two of them to make this film together.
+- 'With our schedules, we never see each other.' Virginie jokes that with their busy schedules, filming together is the only way they see each other.
+- 'Was receiving the same fee important to you?' The journalist asks whether getting paid the exact same fee mattered to them.
+- 'For me, yes!' Ramzy chimes in emphatically that equal pay mattered to him.
+- 'Equal pay is important in every profession.' Virginie states proudly that equal pay is vital in every profession.
+- 'Two equal fees, into the same account.' Ramzy jokes that both equal fees go straight into the same joint bank account.
+- 'Everyone is happy, even our agent.' Virginie adds with a smile that everyone is happy, including their agent Mathias.
+- 'Do you have the same agent?' A straightforward question checking a surprising professional arrangement.
+- 'We share everything. Absolutely everything.' The verb meaning to share followed by an intensifying adverb.
 - 'Good luck with the film! Are you anxious?' A polite well-wishing expression followed by a plural adjective.
 - 'Never, I am a pro.' A negative frequency adverb followed by the verb to be.
 - 'It will be fine. Thank you very much.' A reassuring conversational formula ending with gratitude.

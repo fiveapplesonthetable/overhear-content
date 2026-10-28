@@ -47,7 +47,7 @@ WALK = [
     (6, None, "'An operation? Are you serious?' She asks with her voice rising, no special question words needed. Mathias says no, not surgery, something else."),
     (7, None, "'No. It's lipofilling.' A cosmetic treatment where fat is moved into the face to fill it out. The producer backs him up."),
     (8, None, "'It's totally different.' It isn't, of course, but she says it with a smile. Cécile is very clear."),
-    (9, None, "'Sorry, I'm not touching my face.' The word for 'sorry' has a feminine ending, because Cécile is a woman. And the negative wraps around the verb again. Mathias asks her to stay calm."),
+    (9, None, "'Sorry, I'm not touching my face.' The word for 'sorry' has a feminine ending, because Cécile is a woman."),
     (10, None, "'Wait, Cécile. Let's listen to Miranda.' The second command ends in the sound for 'let's', which means 'we' are doing it together. Miranda makes it sound like nothing."),
     (11, None, "'It's so simple.' The middle word means 'so' or 'really', and it makes anything stronger."),
     (14, None, "'They start with Botox, then they cannot stop anymore.'s done. Baby face!' The first phrase is one of the most French expressions there is, the 'ta-da' you say when something is finished. Cécile isn't fooled."),
@@ -55,5 +55,5 @@ WALK = [
     (16, None, "'They start with a bit of Botox. Then they can't stop anymore.' She means other actresses. In the second sentence, the negative changes: the second little word now means 'anymore'. Mathias goes straight to the point."),
     (15, None, "'Do you want to play the immortal woman?' The part in the film is an immortal woman, which is ironic, since the whole problem is her age."),
     (16, None, "'Yes, of course, but…' She wants the role badly, and she can't finish her sentence."),
-    (17, None, "'I don't know anymore.' Compare it with 'I don't know', which would end with the usual negative word. Here, the word for 'anymore' takes its place. One small swap, and you go from not knowing to no longer knowing. Here's the scene again from start to finish. Now let's hear the full exchange again from beginning to end."),
+    (17, None, "'I don't know anymore.' Compare it with 'I don't know', which would end with the usual negative word. Here, the word for 'anymore' takes its place. One small swap, and you go from not knowing to no longer knowing. Here's the scene again from start to finish."),
 ]

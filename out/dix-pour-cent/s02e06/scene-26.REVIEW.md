@@ -30,16 +30,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I received a very positive message from Gillières.' Hicham conveys relief that the crisis was successfully averted.
 - 'He perfectly understands Juliette's situation.' Hicham confirms that the director took the withdrawal well.
-- 'I found the right words to convince him.' Andréa takes professional pride in handling the delicate negotiation.
-- 'Good evening Andréa, I looked into your background.' The UBA executive initiates a targeted conversation with Andréa.
-- 'Your work with Luchini is very impressive.' The executive praises Andréa's major talent coup with Fabrice Luchini.
-- 'You speak remarkable English, apparently.' The executive notes Andréa's readiness for an international market.
+- 'I found the right words to convince him.' Andrea takes professional pride in handling the delicate negotiation.
+- 'Good evening Andréa, I looked into your background.' The UBA executive initiates a targeted conversation with Andrea.
+- 'Your work with Luchini is very impressive.' The executive praises Andrea's major talent coup with Fabrice Luchini.
+- 'You speak remarkable English, apparently.' The executive notes Andrea's readiness for an international market.
 - 'Would you like to come work in New York?' The executive makes a direct and bold recruitment pitch.
 - 'My husband manages the large agency UBA.' The executive establishes her direct influence at United Broad Talent.
 - 'It is an entirely serious offer.' The executive underlines that the career proposition is fully vetted.
-- 'Thank you very much, I am genuinely flattered.' Andréa responds with professional courtesy and poise.
-- 'But I am deeply attached to my actors.' Andréa expresses strong personal commitment to her French talent roster.
-- 'And what do you really think of Hicham Janowski?' The executive probes Andréa's feelings about her new agency boss.
+- 'Thank you very much, I am genuinely flattered.' Andrea responds with professional courtesy and poise.
+- 'But I am deeply attached to my actors.' Andrea expresses strong personal commitment to her French talent roster.
+- 'And what do you really think of Hicham Janowski?' The executive probes Andrea's feelings about her new agency boss.
 - 'Is he an asset or a real handicap?' The executive sharply frames Hicham's erratic leadership style as a liability.
-- 'Hicham is our new boss at ASK.' Andréa provides a guarded answer to avoid undermining her own agency.
-- 'Think carefully about your professional future, Andréa.' The executive urges Andréa to consider her long-term horizons.
+- 'Hicham is our new boss at ASK.' Andrea provides a guarded answer to avoid undermining her own agency.
+- 'Think carefully about your professional future, Andréa.' The executive urges Andrea to consider her long-term horizons.

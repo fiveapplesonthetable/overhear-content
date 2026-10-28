@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Gabriel, look at my new dress!' Sofia makes a grand entrance in her shimmering gown. Notice how 'look at' leads directly into the noun meaning 'hello'.
-- 'Wow, Charlize Theron is back!' Gabriel jokes about the iconic perfume commercial featuring a golden dress. The key noun here means 'return', anchored by its matching French article.
-- 'Thank you! It is a gorgeous dress.' Sofia beams with pride in her high-fashion attire. The key noun here means 'thank you', anchored by its matching French article.
-- 'What is this beautiful outfit?' Gabriel wonders why she is dressed so formally in the middle of the day. The key noun here means 'outfit', anchored by its matching French article.
-- 'I have a photo session next door.' Sofia explains that her studio is right down the street. Notice how 'have' leads directly into the noun meaning 'session'.
-- 'I just wanted to say hello.' Sofia stepped out during a break to greet her agency friends. The verb meaning 'wanted' pairs naturally with the noun for 'hello' in everyday conversation.
-- 'That is very kind of you.' Gabriel appreciates her friendly visit to the office. The informal 'you' form around 'behalf' marks a direct, personal relationship.
-- 'Is Camille in her office?' Sofia hopes to catch up with her agent before returning to set. In everyday spoken French, rising intonation on 'office' at the end is enough to turn the sentence into a question.
-- 'No, she went out now.' Gabriel informs her that Camille is temporarily away from her desk. The clause hinges on the everyday verb meaning 'gone out'.
-- 'She has an important meeting.' Gabriel explains why Camille had to step out. Notice how 'has' leads directly into the noun meaning 'meeting'.
-- 'I must go back quickly.' Sofia remembers that the photographer is waiting for her next door. The clause hinges on the everyday verb meaning 'is necessary'.
-- 'You can wait for her in her office.' Gabriel suggests she relax in Camille's room for a few minutes. Gabriel uses the casual singular 'you' with 'can', showing close familiarity.
-- 'All right, I am going to wait for her a bit.' Sofia decides to stay briefly until Camille returns. Notice how 'am going to' leads directly into the noun meaning 'agreement'.
-- 'See you later, big star!' Gabriel waves goodbye with a playful tease. The descriptive adjective for 'big' agrees in gender and number with its noun.
+- 'Hello Gabriel, look at my new dress!' Sofia makes a grand entrance in her shimmering gown.
+- 'Wow, Charlize Theron is back!' Gabriel jokes about the iconic perfume commercial featuring a golden dress.
+- 'Thank you! It is a gorgeous dress.' Sofia beams with pride in her high-fashion attire.
+- 'What is this beautiful outfit?' Gabriel wonders why she is dressed so formally in the middle of the day.
+- 'I have a photo session next door.' Sofia explains that her studio is right down the street.
+- 'I just wanted to say hello.' Sofia stepped out during a break to greet her agency friends.
+- 'That is very kind of you.' Gabriel appreciates her friendly visit to the office.
+- 'Is Camille in her office?' Sofia hopes to catch up with her agent before returning to set.
+- 'No, she went out now.' Gabriel informs her that Camille is temporarily away from her desk.
+- 'She has an important meeting.' Gabriel explains why Camille had to step out.
+- 'I must go back quickly.' Sofia remembers that the photographer is waiting for her next door.
+- 'You can wait for her in her office.' Gabriel suggests she relax in Camille's room for a few minutes.
+- 'All right, I am going to wait for her a bit.' Sofia decides to stay briefly until Camille returns.
+- 'See you later, big star!' Gabriel waves goodbye with a playful tease.

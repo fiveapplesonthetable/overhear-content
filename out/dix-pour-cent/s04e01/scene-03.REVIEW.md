@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias's departure weakens our agency.' A realistic assessment recognizing the immediate vulnerability caused by a senior partner's exit. Notice how 'weakens' leads directly into the noun meaning 'leaving'.
-- 'It is the opportunity to rethink our work.' An energetic pivot framing executive turmoil as a chance for positive reinvention. The verb meaning 'it is' pairs naturally with the noun for 'opportunity' in everyday conversation.
-- 'I said yes to Charlotte too quickly.' The clause hinges on the everyday verb meaning 'I have'.
-- 'She cannot shoot this dud!' The two-part French negation brackets the verb for 'can' on both sides. The two-part French negation brackets the verb for 'can' on both sides.
-- 'Simply tell her the truth without waiting.' A sensible recommendation urging transparency before the project advances. Notice how 'tell him' leads directly into the noun meaning 'truth'.
-- 'We must first save face.' A strategic priority demanding an impression of stability before industry competitors. The verb meaning 'must' pairs naturally with the noun for 'approach' in everyday conversation.
-- 'Everyone expects our downfall.' Notice how 'waits for' leads directly into the noun meaning 'people'. Notice how 'waits for' leads directly into the noun meaning 'people'.
-- 'We are going to prove our great strength.' French forms the near future by pairing the present tense of 'to go' directly with 'prove'. French forms the near future by pairing the present tense of 'to go' directly with 'prove'.
-- 'Let's immediately recruit great new talent.' A proactive policy calling for the aggressive scouting of fresh artists. Notice how 'let us recruit' leads directly into the noun meaning 'talents'.
-- 'We must also bet on television series.' An innovative shift seeking profitable multi-season broadcast opportunities. The verb meaning 'must' pairs naturally with the noun for 'series' in everyday conversation.
-- 'Let's not sacrifice arthouse cinema!' Notice how 'let us sacrifice' leads directly into the noun meaning 'cinema'. Notice how 'let us sacrifice' leads directly into the noun meaning 'cinema'.
-- 'Series bring regular income.' A practical financial argument highlighting steady recurring revenues. Notice how 'bring' leads directly into the noun meaning 'series'.
-- 'These new projects are going to save us.' An optimistic rallying cry uniting the team behind forward-looking endeavors. Notice how 'are going' leads directly into the noun meaning 'ventures'.
-- 'It remains to resolve Charlotte's problem.' The verb meaning 'remains' pairs naturally with the noun for 'problem' in everyday conversation.
+- 'Mathias's departure weakens our agency.' A realistic assessment recognizing the immediate vulnerability caused by a senior partner's exit.
+- 'It is the opportunity to rethink our work.' An energetic pivot framing executive turmoil as a chance for positive reinvention.
+- 'I said yes to Charlotte too quickly.' A private admission acknowledging a reckless editorial commitment.
+- 'She cannot shoot this dud!' An outspoken artistic reaction protesting the actress starring in poor-quality material.
+- 'Simply tell her the truth without waiting.' A sensible recommendation urging transparency before the project advances.
+- 'We must first save face.' A strategic priority demanding an impression of stability before industry competitors.
+- 'Everyone expects our downfall.' A sobering observation noting widespread rival expectations of agency decline.
+- 'We are going to prove our great strength.' A defiant declaration affirming ASK's resilience and vitality.
+- 'Let's immediately recruit great new talent.' A proactive policy calling for the aggressive scouting of fresh artists.
+- 'We must also bet on television series.' An innovative shift seeking profitable multi-season broadcast opportunities.
+- 'Let's not sacrifice arthouse cinema!' A principled artistic defense safeguarding cinematic tradition against commercialization.
+- 'Series bring regular income.' A practical financial argument highlighting steady recurring revenues.
+- 'These new projects are going to save us.' An optimistic rallying cry uniting the team behind forward-looking endeavors.
+- 'It remains to resolve Charlotte's problem.' A sobering closing reminder that the immediate star client dilemma is far from solved.

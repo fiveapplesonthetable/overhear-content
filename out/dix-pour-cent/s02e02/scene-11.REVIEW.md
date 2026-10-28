@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have info on Luchini?' Andréa asks Hervé for background intelligence on the actor. The informal abbreviation 'info' is commonly used in everyday speech for information.
-- 'He is not currently in a relationship.' Hervé begins his reconnaissance report. The expression 'is not' describes being in a relationship or married.
-- 'He just moved into a building in Montmartre.' Hervé shares recent residential details. The recent past construction 'has just' plus infinitive expresses something that just happened.
-- 'And he is allergic to coconut.' Hervé adds an obscure dietary detail. The adjective meaning 'allergic' agrees in gender and number with feminine noun 'nut'.
-- 'We are not planning a homicide!' Andréa points out the absurdity of the trivia. Andréa opens with the word for 'not' and lands on 'homicide' at the close.
-- 'He works out at a gym.' Hervé reveals the vital operational lead. The key word here means 'trains', paired with 'sports' to make the point clear.
-- 'Good! Which day, at what time?' Andréa demands precise logistical details. The masculine and feminine forms of 'which' agree with 'day' and 'hour'.
-- 'No idea for the moment.' Hervé admits his intelligence has limits. The negative determiner 'no' emphasizes the complete absence of information.
-- 'Then find out quickly!' Andréa orders him to dig deeper without delay. The command form 'find out' commands someone to find out or inquire.
-- 'Pull, release! It is a bit slack.' Hervé barks orders during the gym workout. The paired commands 'pull' and 'release' describe rhythmic physical exercise.
-- 'This machine is too heavy for me.' Andréa complains about the physical exertion. The key word here means 'machine', paired with 'heavy' to make the point clear.
-- 'I did not put any weight on it!' Hervé reveals the machine is completely unloaded. Notice how the verb for 'have not' leads straight into 'weight'.
-- 'The machine must be broken.' Andréa excuses her complete lack of muscle strength. The modal verb 'must' conveys high probability when combined with the infinitive.
-- 'Sweat or it will not look credible.' Hervé insists on physical authenticity for the cover story. The adverb meaning 'not' sharpens the verb for 'sweat' here.
-- 'You are as stiff as a hammer!' Hervé critiques her rigid posture bluntly. The key word here means 'are', paired with 'hammer' to make the point clear.
-- 'Now run, every second counts! Come on!' Hervé urges her onto the treadmill. The key word here means 'now', paired with 'go!' to make the point clear.
+- 'Do you have info on Luchini?' Andrea asks Herve for background intelligence on the actor.
+- 'He is not currently in a relationship.' Herve begins his reconnaissance report.
+- 'He just moved into a building in Montmartre.' Herve shares recent residential details.
+- 'And he is allergic to coconut.' Herve adds an obscure dietary detail.
+- 'We are not planning a homicide!' Andrea points out the absurdity of the trivia.
+- 'He works out at a gym.' Herve reveals the vital operational lead.
+- 'Good! Which day, at what time?' Andrea demands precise logistical details.
+- 'No idea for the moment.' Herve admits his intelligence has limits.
+- 'Then find out quickly!' Andrea orders him to dig deeper without delay.
+- 'Pull, release! It is a bit slack.' Herve barks orders during the gym workout.
+- 'This machine is too heavy for me.' Andrea complains about the physical exertion.
+- 'I did not put any weight on it!' Herve reveals the machine is completely unloaded.
+- 'The machine must be broken.' Andrea excuses her complete lack of muscle strength.
+- 'Sweat or it will not look credible.' Herve insists on physical authenticity for the cover story.
+- 'You are as stiff as a hammer!' Herve critiques her rigid posture bluntly.
+- 'Now run, every second counts! Come on!' Herve urges her onto the treadmill.

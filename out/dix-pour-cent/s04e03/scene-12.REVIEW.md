@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There, we have finally finished!' Sofia breathes a sigh of relief as the photoshoot concludes. Dropping the subject pronoun turns the verb for 'have' into a direct, punchy command.
-- 'It was truly a wonderful session.' Camille applauds Sofia's performance in front of the lens. The verb meaning 'was' pairs naturally with the noun for 'session' in everyday conversation.
-- 'Thanks to the entire studio team!' Sofia graciously acknowledges the stylists and technicians. The key noun here means 'thanks', anchored by its matching French article.
-- 'The photographer loved your energy.' Camille shares the glowing feedback from the camera operator. The informal 'you' form around 'has' marks a direct, personal relationship.
-- 'Sorry for my delay at the beginning.' Sofia offers a polite apology for her hesitation earlier. The key noun here means 'forgiveness', anchored by its matching French article.
-- 'Do not worry about that.' Camille tells her that minor bumps do not matter in the end. The clause hinges on the everyday verb meaning 'worry'.
-- 'You were very professional today.' Camille commends Sofia's poised demeanor throughout the shoot. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
-- 'Do you think the photos are beautiful?' Sofia seeks reassurance about the final portraits. The informal 'you' form around 'think' marks a direct, personal relationship.
-- 'They are gorgeous, believe me.' Camille guarantees that the photographic images look stunning. The descriptive adjective for 'gorgeous' agrees in gender and number with its noun.
-- 'It is thanks to your valuable support.' Sofia credits Camille for giving her emotional backing. The key noun here means 'thanks', anchored by its matching French article.
-- 'I am very proud of you.' Camille expresses sincere pride in her client's growth and talent. The descriptive adjective for 'proud' agrees in gender and number with its noun.
-- 'Now, can we have a coffee?' Sofia proposes a quiet moment away from studio lights. Notice how 'can' leads directly into the noun meaning 'coffee'.
-- 'Yes, let's go celebrate this fine day!' Camille enthusiastically welcomes the idea of a break. French forms the near future by pairing the present tense of 'to go' directly with 'to celebrate'.
-- 'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career. The short 'self' word sits right in front of the verb for 'feel', turning the action back onto the subject.
+- 'There, we have finally finished!' Sofia breathes a sigh of relief as the photoshoot concludes.
+- 'It was truly a wonderful session.' Camille applauds Sofia's performance in front of the lens.
+- 'Thanks to the entire studio team!' Sofia graciously acknowledges the stylists and technicians.
+- 'The photographer loved your energy.' Camille shares the glowing feedback from the camera operator.
+- 'Sorry for my delay at the beginning.' Sofia offers a polite apology for her hesitation earlier.
+- 'Do not worry about that.' Camille tells her that minor bumps do not matter in the end.
+- 'You were very professional today.' Camille commends Sofia's poised demeanor throughout the shoot.
+- 'Do you think the photos are beautiful?' Sofia seeks reassurance about the final portraits.
+- 'They are gorgeous, believe me.' Camille guarantees that the photographic images look stunning.
+- 'It is thanks to your valuable support.' Sofia credits Camille for giving her emotional backing.
+- 'I am very proud of you.' Camille expresses sincere pride in her client's growth and talent.
+- 'Now, can we have a coffee?' Sofia proposes a quiet moment away from studio lights.
+- 'Yes, let's go celebrate this fine day!' Camille enthusiastically welcomes the idea of a break.
+- 'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career.

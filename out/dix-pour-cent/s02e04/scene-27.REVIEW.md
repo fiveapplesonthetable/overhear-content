@@ -44,4 +44,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is my fault, forgive me both of you.' Camille steps forward bravely to explain what actually occurred.
 - 'I was an intern and I threw away this script.' Camille confesses that she inadvertently discarded the manuscript.
 - 'Isabelle never read it!' Camille completely exonerates Isabelle from any wrongdoing or neglect.
-- 'At least, we cleared the air together.' Isabelle pairs the verb meaning 'have' with the noun for 'the abscess'.
+- 'At least, we cleared the air together.' Isabelle smiles with relief that at least they cleared the air together.

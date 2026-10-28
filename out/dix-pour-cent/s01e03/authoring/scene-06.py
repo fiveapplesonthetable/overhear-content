@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'An invitation to the Césars!' The Césars are France's big film awards night, like the Oscars. For an agency assistant, it's a dream ticket. Hervé is hurt."),
-    (1, None, "'I didn't get an invitation.' Here's our grammar point: the everyday past, a helper verb plus a past form. With a negative, the two little 'not' words wrap around the helper verb only. Noémie joins in."),
+    (1, None, "'I didn't get an invitation.' Here's our language point: the everyday past, a helper word plus a past form. With a negative, the two little 'not' words wrap around the helper word only. Noémie joins in."),
     (2, None, "'Me neither.' Literally 'me not more'. It's the way to agree with a negative sentence. Then Noémie gets suspicious."),
     (3, 'Les assistantes ne sont pas invitées.', "'Assistants don't get invited.' Both words end in the feminine plural, because she's thinking of the women assistants. Then she asks."),
     (3, "C'est quoi cette histoire?", "'What's going on?' Literally 'it's what, this story?'. A very common, slightly suspicious question. Hervé wants details."),
@@ -46,5 +46,5 @@ WALK = [
     (10, None, "'So she wanted to thank me.' The first word, meaning 'so', links the cause and the result. Then she adds one more thing."),
     (11, None, "'And I gave her a recipe for pistou.' Pistou is a basil sauce from the south of France, where Camille comes from. A nice touch, and completely made up. She wraps it up."),
     (12, None, "'It must be for that.' The verb 'must' here shows a guess, the same way it does in English. Hervé has heard enough."),
-    (13, None, "'I hate you.' Said with a smile, of course: it's the jealous joke of a colleague who would have loved to go. Now the whole scene once more. Now let's hear the full exchange again from beginning to end."),
+    (13, None, "'I hate you.' Said with a smile, of course: it's the jealous joke of a colleague who would have loved to go. Now the whole scene once more."),
 ]

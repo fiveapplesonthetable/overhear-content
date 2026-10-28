@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Colette?' Andréa answers her ringing phone away from the loud music.
+- 'Hello, Colette?' Andrea answers her ringing phone away from the loud music.
 - 'I am sorry about last night.' Colette opens with a sincere and tender apology.
-- 'I really crossed the line.' Colette regrets putting unfair pressure on Andréa.
-- 'No, it is nothing.' Andréa gently reassures her partner.
-- 'It is not easy for you.' Colette shows deep empathy for Andréa's inner turmoil.
+- 'I really crossed the line.' Colette regrets putting unfair pressure on Andrea.
+- 'No, it is nothing.' Andrea gently reassures her partner.
+- 'It is not easy for you.' Colette shows deep empathy for Andrea's inner turmoil.
 - 'You are living through something incredible.' Colette recognizes the magnitude of the pregnancy.
 - 'I wanted to tell you that I am here.' Colette promises steadfast emotional support.
 - 'I want to experience it with you.' Colette decides to embrace the journey together.
 - 'Because I love you, Andréa.' Colette makes a vulnerable and heartfelt declaration of love.
-- 'I love you too, Colette.' Andréa warmly reciprocates her feelings without hesitation.
+- 'I love you too, Colette.' Andrea warmly reciprocates her feelings without hesitation.
 - 'Sofia is gone!' Gabriel approaches in complete disarray, delivering his painful news.
 - 'She definitely left me.' Gabriel faces the bitter finality of his breakup.
 - 'She was completely right.' Gabriel acknowledges that his deceit drove Sofia away.
 - 'I really am a piece of trash!' Gabriel wallows in intense self-reproach.
-- 'Gabriel, calm down a little.' Andréa immediately switches from lover to loyal friend.
+- 'Gabriel, calm down a little.' Andrea immediately switches from lover to loyal friend.

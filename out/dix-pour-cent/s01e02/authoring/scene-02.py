@@ -51,8 +51,8 @@ WALK = [
     (11, None, "'Don't be so familiar.' Literally 'don't call me the casual you'. French has a verb that means 'to say the casual you to someone', and Mathias uses it in the negative, with the polite form himself. At work, he wants her to keep her distance."),
     (12, None, "'We're alone here.' The word for 'alone' is plural, because there are two of them."),
     (13, None, "'Camille!' Just her name, said as a warning."),
-    (14, None, "'Have I done something wrong?' The two words at the start simply announce a question. Then the everyday past tense: 'I have done'."),
+    (14, None, "'Have I done something wrong?' The two words at the start simply announce a question."),
     (15, None, "'Apart from getting a job here?' That's what bothers him: she is working in his own agency."),
     (16, None, "'I'm just doing my job. I don't even look at you.' The word for 'even' sits right after the negative."),
-    (17, None, "'Even I don't know that I'm your daughter!' A bitter joke: she plays along with the secret so well that she has almost forgotten it herself. Here is the whole thing once more, from the lobby to the lift. Now listen to the whole conversation one more time."),
+    (17, None, "'Even I don't know that I'm your daughter!' A bitter joke: she plays along with the secret so well that she has almost forgotten it herself."),
 ]

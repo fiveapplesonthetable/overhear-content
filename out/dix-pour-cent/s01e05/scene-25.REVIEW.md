@@ -33,9 +33,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you have any news of Brancillon?' In French, 'some news' is plural: literally 'some news items'.
 - 'Her name is Colette. Her ribs hurt.' Literally 'she has pain at the ribs', the normal French pattern for saying a body part hurts.
 - 'She must hate me!' The verb for 'must' also means 'probably is' when you are guessing.
-- 'She doesn't understand why you eat so much with your clients.' Meanwhile, Colette has been checking all of Gabriel's restaurant bills.
+- 'She doesn't understand why you eat so much with your clients.' Here, Colette has been checking all of Gabriel's restaurant bills.
 - 'You can explain to her, can't you?' Gabriel hands Andréa a bundle of crumpled restaurant receipts from his pocket.
-- 'Actors are fragile and sensitive.' Gabriel links 'actors' directly with 'are' to express the thought clearly.
+- 'Actors are fragile and sensitive.' Notice that the French word for 'sensible' actually means 'sensitive'.
 - 'When things go badly, they eat. And I eat with them!' Literally 'when it goes badly'. That is Gabriel's excuse for all his big lunches.
 - 'When I saw Colette in the street, she was coming out of your place!' Gabriel suddenly remembers seeing Colette outside Andréa's building that morning.
 - 'Are you really a couple?' Literally 'in a couple'.
@@ -44,4 +44,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's going really well.' Andréa can't hide a smile.
 - 'It's strange, I know, but there it is.' Even Andréa is surprised to be dating a tax inspector.
 - 'Don't say anything to anyone, Gabriel.' A double negative in French: 'do not say nothing to nobody'.
-- 'That would be bad for all of us, okay?' Dating the woman who is auditing your company is against the rules, so it has to stay a secret. Here is the whole scene one more time. Let's listen to the whole scene once more without interruption.
+- 'That would be bad for all of us, okay?' Dating the woman who is auditing your company is against the rules, so it has to stay a secret.

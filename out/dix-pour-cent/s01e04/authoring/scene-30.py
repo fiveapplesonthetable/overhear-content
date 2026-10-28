@@ -36,9 +36,9 @@ STORY = [
     ('mathias', 'Je vais chercher du champagne.', 'I', [(803, 'Je vais chercher du champagne')], ''),
 ]
 WALK = [
-    (0, None, "'Are you sure it's the only solution?' Even though Audrey and Mathias are old friends, in this opening exchange the subtitles use the polite 'you'."),
+    (0, None, "'Are you sure it's the only solution?' Even though Audrey and Mathias are old friends, in this opening exchange the subtitles use the polite 'vous'."),
     (1, None, "'Trust me, Audrey. Beyoncé did that after her concert.' Literally 'make confidence to me'. Mathias reassures her that giving the fee to charity will turn a scandal into good publicity."),
-    (2, None, "'I am delighted to be with you tonight.' Now Audrey is on stage at the microphone. The adjective for 'delighted' has a feminine ending."),
+    (2, None, "'I am delighted to be with you tonight.' Now Audrey is on stage at the microphone."),
     (3, None, "'The media can be cruel.' The verb 'can' is in the plural form to match 'the media'."),
     (4, None, "'I came solely to help the children.' On stage, Audrey almost slips and says 'for my children', then quickly turns it into 'the children of the whole world'."),
     (5, None, "'I am giving all of Mr. Kadropov's money to UNICEF.' A grand, formal sentence for the cameras."),

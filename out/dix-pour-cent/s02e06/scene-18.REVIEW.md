@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Catherine? What a surprise to see you in Cannes!' Mathias reacts with astonishment. Mathias opens with the word for 'surprise' and lands on 'see' at the close.
-- 'I went to Mandelieu before coming.' Catherine reveals her unexpected trip. Catherine opens with the word for 'am' and lands on 'coming' at the close.
-- 'Why did you go over there?' Mathias is alarmed by her journey. The verb meaning 'are you' anchors the whole remark.
-- 'I saw Camille and her mother at the salon.' Catherine describes her visit calmly. Listen for the expression meaning 'I have', which leads naturally into 'salon'.
-- 'It is in the past, stop torturing yourself.' Mathias attempts to avoid the painful topic. Mathias pairs the verb meaning 'it is' with the noun for 'past'.
-- 'It is not the past that worries me.' Catherine clarifies her real motivation. The key word here means 'not', paired with 'worries' to make the point clear.
-- 'It is Camille who is doing really badly.' Catherine expresses genuine concern for the young woman. The key word here means 'it is', paired with 'badly' to make the point clear.
-- 'She left the agency, it was better like that.' Mathias rationalizes his passivity. Notice how the verb for 'has' leads straight into 'agency'.
-- 'Did you at least ask how she is doing?' Catherine demands accountability. The adverb meaning 'least' sharpens the verb for 'have' here.
-- 'Not for several days, to protect you.' Mathias claims he acted out of consideration for his wife. Mathias opens with the word for 'not' and lands on 'protect' at the close.
-- 'Stop hiding behind this pretext!' Catherine calls out his avoidance. Catherine uses the command form form for 'stop' together with the word for 'pretext'.
-- 'Camille needs her father, Mathias.' Catherine delivers a direct moral appeal. The key word here means 'has', paired with 'father' to make the point clear.
-- 'I was so afraid of losing your love.' Mathias confesses his deep insecurity. Mathias pairs the verb meaning 'I had' with the noun for 'love'.
-- 'I do not want a man who flees his duties.' Catherine demands integrity and responsibility. Notice how the verb for 'want' leads straight into 'duties'.
-- 'You are right, I was cowardly with her.' Mathias finally recognizes his failings. The adjective meaning 'cowardly' agrees in gender and number with feminine noun 'right'.
-- 'Call your daughter now and take on your role.' Catherine urges him to act honorably. Catherine opens with the word for 'call' and lands on 'role' at the close.
+- 'Catherine? What a surprise to see you in Cannes!' Mathias reacts with astonishment.
+- 'I went to Mandelieu before coming.' Catherine reveals her unexpected trip.
+- 'Why did you go over there?' Mathias is alarmed by her journey.
+- 'I saw Camille and her mother at the salon.' Catherine describes her visit calmly.
+- 'It is in the past, stop torturing yourself.' Mathias attempts to avoid the painful topic.
+- 'It is not the past that worries me.' Catherine clarifies her real motivation.
+- 'It is Camille who is doing really badly.' Catherine expresses genuine concern for the young woman.
+- 'She left the agency, it was better like that.' Mathias rationalizes his passivity.
+- 'Did you at least ask how she is doing?' Catherine demands accountability.
+- 'Not for several days, to protect you.' Mathias claims he acted out of consideration for his wife.
+- 'Stop hiding behind this pretext!' Catherine calls out his avoidance.
+- 'Camille needs her father, Mathias.' Catherine delivers a direct moral appeal.
+- 'I was so afraid of losing your love.' Mathias confesses his deep insecurity.
+- 'I do not want a man who flees his duties.' Catherine demands integrity and responsibility.
+- 'You are right, I was cowardly with her.' Mathias finally recognizes his failings.
+- 'Call your daughter now and take on your role.' Catherine urges him to act honorably.

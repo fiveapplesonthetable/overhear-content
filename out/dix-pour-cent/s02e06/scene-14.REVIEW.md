@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Noémie, are you leaving?' Catherine greets Mathias's dedicated assistant in the office. Listen for the expression meaning 'are leaving', which leads naturally into 'are leaving'.
-- 'Are you joining Mathias in Cannes?' Catherine asks about Mathias's schedule at the festival. The proper noun phrase specifies the film festival city.
-- 'I want to surprise him!' Right then, Mathias's wife reveals her secret romantic plan. Catherine pairs the verb meaning 'want' with the noun for 'romantic surprise'.
-- 'I need his schedule.' Catherine asks for her husband's festival agenda. The fixed idiomatic expression denotes necessity.
-- 'Could you book a flight for me?' She requests assistant help with travel bookings. The polite conditional verb asks for a booking service.
-- 'But everything is fully booked today.' Noémie explains that festival flights are unavailable. The predicate adjective describes total lack of seats.
-- 'Things are going much better between us.' Catherine confides that their marital relationship has improved. The adverbial comparative emphasizes positive change.
-- 'I will print Mathias's schedule.' Noémie cooperates despite her hidden affair with Mathias. The near-future verb form indicates immediate action.
-- 'All flights are fully booked, madam.' She confirms the complete lack of airplane seats. The universal quantifier emphasizes zero availability.
-- 'What about the train?' Catherine refuses to give up on traveling down south. The elliptical question proposes a rail alternative.
-- 'One seat remains on the night train.' Noémie reluctantly gives up her own reserved sleeper berth. Notice how the verb for 'remains available' leads straight into 'overnight'.
-- 'I can bring him croissants!' Catherine excitedly imagines breakfast with her husband. The modal verb introduces a cheerful romantic gesture.
-- 'You are my savior, Noémie!' Catherine warmly hugs the conflicted assistant. The predicate noun expresses enthusiastic gratitude.
-- 'Thank you for your valuable help.' She expresses heartfelt appreciation for the booking. Catherine opens with the word for 'assistance' and lands on 'invaluable' at the close.
-- 'Mathias cannot manage without you.' Catherine praises Noémie's indispensable role, unaware of their secret romance. The idiomatic verb phrase denotes complete reliance.
+- 'Hello, Noémie, are you leaving?' Catherine greets Mathias's dedicated assistant in the office.
+- 'Are you joining Mathias in Cannes?' Catherine asks about Mathias's schedule at the festival.
+- 'I want to surprise him!' Catherine reveals her secret romantic plan.
+- 'I need his schedule.' Catherine asks for her husband's festival agenda.
+- 'Could you book a flight for me?' She requests assistant help with travel bookings.
+- 'But everything is fully booked today.' Noemie explains that festival flights are unavailable.
+- 'Things are going much better between us.' Catherine confides that their marital relationship has improved.
+- 'I will print Mathias's schedule.' Noemie cooperates despite her hidden affair with Mathias.
+- 'All flights are fully booked, madam.' She confirms the complete lack of airplane seats.
+- 'What about the train?' Catherine refuses to give up on traveling down south.
+- 'One seat remains on the night train.' Noemie reluctantly gives up her own reserved sleeper berth.
+- 'I can bring him croissants!' Catherine excitedly imagines breakfast with her husband.
+- 'You are my savior, Noémie!' Catherine warmly hugs the conflicted assistant.
+- 'Thank you for your valuable help.' She expresses heartfelt appreciation for the booking.
+- 'Mathias cannot manage without you.' Catherine praises Noemie's indispensable role, unaware of their secret romance.

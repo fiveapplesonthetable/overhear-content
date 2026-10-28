@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for your valuable help, boys.' Isabelle shows heartfelt appreciation for her agents. Isabelle uses the polite 'you' form alongside 'assistance' to keep a respectful professional tone.
-- 'This crazy night was a success.' Isabelle celebrates the triumphant filming. Notice how 'was' leads directly into the noun meaning 'night'.
-- 'Get home safely and rest, Isabelle.' Mathias recommends overdue sleep. The clause hinges on the everyday verb meaning 'go home'.
-- 'I am stopping first at the Chanel show!' Isabelle reveals her immediate fashion appointment. In spoken French, the little word before 'stop by' drops its final vowel and attaches with an apostrophe.
-- 'Does this woman never sleep then?' Gabriel is stunned by her stamina. French builds the 'never' negation in two parts wrapped right around 'sleeps'.
-- 'Gabriel, I know what you are preparing.' Mathias signals that their secrets are out. Mathias uses the polite 'you' form alongside 'know' to keep a respectful professional tone.
-- 'What are you talking about exactly, Mathias?' Gabriel questions the accusation. Inverting the verb and pronoun around 'are you talking' creates a crisp, polished question.
-- 'I know your real estate agent.' Mathias reveals his source of information. The descriptive adjective for 'real estate' agrees in gender and number with its noun.
-- 'You are looking for new offices.' Mathias exposes their plan to leave ASK. Notice how 'are looking for' leads directly into the noun meaning 'offices'.
-- 'We can no longer work with Hicham.' Gabriel justifies their desire to leave. The clause hinges on the everyday verb meaning 'can'.
-- 'But we must all stick together!' Mathias urges agency cohesion. The clause hinges on the everyday verb meaning 'must'.
-- 'We are a true family.' Mathias stresses their deep personal bond. The key noun here means 'family', anchored by its matching French article.
-- 'If Hicham left, would you stay?' Mathias proposes a mutual coup. Mathias uses the polite 'you' form alongside 'left' to keep a respectful professional tone.
-- 'That is a very interesting proposal, Mathias.' Gabriel considers the tactical offer. The key noun here means 'offer', anchored by its matching French article. Now let's hear the whole conversation again.
+- 'Thank you for your valuable help, boys.' Isabelle shows heartfelt appreciation for her agents.
+- 'This crazy night was a success.' Isabelle celebrates the triumphant filming.
+- 'Get home safely and rest, Isabelle.' Mathias recommends overdue sleep.
+- 'I am stopping first at the Chanel show!' Isabelle reveals her immediate fashion appointment.
+- 'Does this woman never sleep then?' Gabriel is stunned by her stamina.
+- 'Gabriel, I know what you are preparing.' Mathias signals that their secrets are out.
+- 'What are you talking about exactly, Mathias?' Gabriel questions the accusation.
+- 'I know your real estate agent.' Mathias reveals his source of information.
+- 'You are looking for new offices.' Mathias exposes their plan to leave ASK.
+- 'We can no longer work with Hicham.' Gabriel justifies their desire to leave.
+- 'But we must all stick together!' Mathias urges agency cohesion.
+- 'We are a true family.' Mathias stresses their deep personal bond.
+- 'If Hicham left, would you stay?' Mathias proposes a mutual coup.
+- 'That is a very interesting proposal, Mathias.' Gabriel considers the tactical offer. Now listen to the scene again at normal speed and see how much you understand.

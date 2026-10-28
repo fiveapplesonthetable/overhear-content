@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This stalemate makes me completely crazy!' Pascal vents over the delayed production. Dropping the subject pronoun turns the verb for 'makes' into a direct, punchy command.
-- 'I refuse this nude scene.' Beatrice calmly reiterates her non-negotiable stance. Notice how 'refuse' leads directly into the noun meaning 'scene'.
-- 'I spent six years writing.' Pascal reminds her of his lengthy script development. This conversational past tense combines a helper verb with the past verb form for 'spent'.
-- 'It took me thirty years to refuse!' Beatrice responds with her career-long journey. Notice how 'have' leads directly into the noun meaning 'years'.
-- 'When I say no, it means no!' Beatrice establishes an unambiguous boundary. Dropping the subject pronoun turns the verb for 'say' into a direct, punchy command.
-- 'The truth is that I panicked.' Pascal drops his defensive anger and speaks honestly. This conversational past tense combines a helper verb with the past verb form for 'panicked'.
-- 'I did not know how to film.' Pascal confesses his creative blockage on set. Notice the classic French sandwich negation wrapping right around 'knew'.
-- 'So what are you looking for exactly?' Beatrice opens a constructive dialogue. The clause hinges on the everyday verb meaning 'are looking for'.
-- 'I am looking for a very powerful gesture.' Pascal clarifies what the scene needs. The descriptive adjective for 'strong' agrees in gender and number with its noun.
-- 'The character wants to keep your memory.' Pascal explains the lover's obsession. The formal 'you' pronoun sets a courteous, professional distance around 'wants'.
-- 'He eats a tiny piece of ear!' Pascal pitches an audacious poetic alternative. Notice how 'eats' leads directly into the noun meaning 'bit'.
-- 'He eats my ear, really?' Beatrice checks the provocative concept. Notice how 'eats' leads directly into the noun meaning 'ear'.
-- 'Yes, to take away a part of you.' Pascal describes the poetic motive. The verb meaning 'to take away' pairs naturally with the noun for 'part' in everyday conversation.
-- 'That is a brilliant idea, I love it!' Beatrice embraces the radical creativity. The adjective meaning 'brilliant' takes its feminine form here to match the noun it describes. Now let's hear the whole conversation again.
+- 'This stalemate makes me completely crazy!' Pascal vents over the delayed production.
+- 'I refuse this nude scene.' Beatrice calmly reiterates her non-negotiable stance.
+- 'I spent six years writing.' Pascal reminds her of his lengthy script development.
+- 'It took me thirty years to refuse!' Beatrice responds with her career-long journey.
+- 'When I say no, it means no!' Beatrice establishes an unambiguous boundary.
+- 'The truth is that I panicked.' Pascal drops his defensive anger and speaks honestly.
+- 'I did not know how to film.' Pascal confesses his creative blockage on set.
+- 'So what are you looking for exactly?' Beatrice opens a constructive dialogue.
+- 'I am looking for a very powerful gesture.' Pascal clarifies what the scene needs.
+- 'The character wants to keep your memory.' Pascal explains the lover's obsession.
+- 'He eats a tiny piece of ear!' Pascal pitches an audacious poetic alternative.
+- 'He eats my ear, really?' Beatrice checks the provocative concept.
+- 'Yes, to take away a part of you.' Pascal describes the poetic motive.
+- 'That is a brilliant idea, I love it!' Beatrice embraces the radical creativity. Now listen to the scene again at normal speed and see how much you understand.

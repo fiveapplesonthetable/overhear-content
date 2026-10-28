@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We're going on the attack with Luchini.' Gabriel shares agency strategy. Listen for the expression meaning 'go', which leads naturally into 'offensive'.
-- 'That would be amazing! Is it good?' Sofia is enthusiastic about the project. The adverb meaning 'good' sharpens the verb for 'would be' here.
-- 'Really funny, with very fine roles.' Gabriel praises the new comedy screenplay. Gabriel opens with the word for 'truly' and lands on 'acting parts' at the close.
-- 'It was Camille who thought it was good for me.' Sofia credits the young assistant. The key word here means 'is', paired with 'suitable' to make the point clear.
-- 'It's so kind of her. What an adorable girl.' Sofia shows genuine appreciation. Notice how the verb for 'is' leads straight into 'girl'.
-- 'She would make an excellent agent.' Sofia sees natural talent in Camille. Listen for the expression meaning 'would make', which leads naturally into 'talent agent'.
-- 'So... would you let her represent you?' Gabriel tests the waters carefully. The adverb meaning 'in that case' sharpens the verb for 'would let' here.
-- 'Are you crazy? You are my agent.' Sofia reacts with shocked loyalty. The question is direct and affectionate.
-- 'Hypothetically speaking, I mean.' Gabriel tries to soften his awkward suggestion. The key word here means 'in theory', paired with 'to say' to make the point clear.
-- 'You don't want to be my agent anymore?' Sofia worries that Gabriel is backing away. The adverb meaning 'not' sharpens the verb for 'wish' here.
-- 'Of course I do! It's just that working together is sometimes difficult.' Gabriel reassures her quickly. Listen for the expression meaning 'indeed', which leads naturally into 'complicated'.
-- 'They say it's hard to mix everything up.' Gabriel repeats the partners' warnings. The verb meaning 'say' anchors the whole remark.
-- 'It can hurt you.' He worries about her professional career. Gabriel opens with the word for 'can' and lands on 'pain' at the close.
-- 'No, I would never change agents.' Sofia refuses to let him step aside. Sofia pairs the verb meaning 'would switch' with the noun for 'talent agent'.
-- 'You found me, you know me, defend me!' She demands his unwavering support. Sofia opens with the word for 'have' and lands on 'stand up for me' at the close.
-- 'I don't want anyone else but you.' Sofia closes the debate with devotion. Listen for the expression meaning 'not', which leads naturally into 'else'.
+- 'We're going on the attack with Luchini.' Gabriel shares agency strategy.
+- 'That would be amazing! Is it good?' Sofia is enthusiastic about the project.
+- 'Really funny, with very fine roles.' Gabriel praises the new comedy screenplay.
+- 'It was Camille who thought it was good for me.' Sofia credits the young assistant.
+- 'It's so kind of her. What an adorable girl.' Sofia shows genuine appreciation.
+- 'She would make an excellent agent.' Sofia sees natural talent in Camille.
+- 'So... would you let her represent you?' Gabriel tests the waters carefully.
+- 'Are you crazy? You are my agent.' Sofia reacts with shocked loyalty.
+- 'Hypothetically speaking, I mean.' Gabriel tries to soften his awkward suggestion.
+- 'You don't want to be my agent anymore?' Sofia worries that Gabriel is backing away.
+- 'Of course I do! It's just that working together is sometimes difficult.' Gabriel reassures her quickly.
+- 'They say it's hard to mix everything up.' Gabriel repeats the partners' warnings.
+- 'It can hurt you.' He worries about her professional career.
+- 'No, I would never change agents.' Sofia refuses to let him step aside.
+- 'You found me, you know me, defend me!' She demands his unwavering support.
+- 'I don't want anyone else but you.' Sofia closes the debate with devotion.

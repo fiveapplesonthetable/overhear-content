@@ -41,7 +41,7 @@ WALK = [
     (2, None, "'Sorry, it's a bit last-minute.' The last word looks like 'improvised', and it means exactly that. Line waves it away."),
     (3, None, "'Not at all. It was a good idea.' 'It was' is a past form you'll hear constantly. And she adds something gracious."),
     (4, None, "'It's lovely to see you.' Literally 'it makes pleasure to see you'. A warm, slightly old-fashioned phrase. Then she speaks about their friend."),
-    (5, None, "'Our Samuel... It's hard to believe.' At this point, Samuel died on holiday in Rio a few days ago, and his funeral is coming up. Line turns to Gabriel."),
+    (5, None, "'Our Samuel... It's hard to believe.' Here, Samuel died on holiday in Rio a few days ago, and his funeral is coming up. Line turns to Gabriel."),
     (6, None, "'He was your mentor, wasn't he?' The little tag at the end works like 'isn't it' or 'wasn't he' in English, and it never changes. Gabriel answers sadly."),
     (8, None, "'Two months ago, we had lunch here together.'re all orphans now.' He means that without Samuel, the whole agency feels like children who have lost their father. Line remembers something."),
     (9, None, "'Two months ago, he and I had lunch at this table.' Second grammar point: the everyday past is a helper verb plus a past form, here 'have' plus 'lunched'. Then she praises him."),
@@ -52,5 +52,5 @@ WALK = [
     (13, None, "'Melancholy? No, no!' She repeats his word as a question, almost offended. Then she leans in for the gossip."),
     (14, None, "'And the rumours from Rio, are they true?' People in Paris are telling wild stories about how Samuel died. Gabriel sets the record straight."),
     (15, None, "'No, I swear, he really did swallow a wasp.' The past once more: 'has' plus 'swallowed'. As strange as it sounds, it's true. And Line has the last word."),
-    (16, None, "'What an idiot!' The same exclamation word as before. She says it with love, the way you'd talk about a dear old friend. Here's the whole lunch one more time. Now listen to the whole conversation one more time."),
+    (16, None, "'What an idiot!' The same exclamation word as before. She says it with love, the way you'd talk about a dear old friend."),
 ]

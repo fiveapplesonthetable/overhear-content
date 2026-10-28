@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, Pascal just called me.' Arlette breaks the urgent news. The clause hinges on the everyday verb meaning 'just'.
-- 'Beatrice left the shoot in anger.' Arlette explains Beatrice's sudden exit. The verb meaning 'left' pairs naturally with the noun for 'shoot' in everyday conversation.
-- 'But what happened?' Andrea reacts with concern. In spoken French, the little word before 'has' drops its final vowel and attaches with an apostrophe.
-- 'The director lied to Beatrice.' Arlette reveals the director's deceit. This conversational past tense combines a helper verb with the past verb form for 'lied'.
-- 'He wanted to force her to undress.' Arlette explains the boundary violation. The clause hinges on the everyday verb meaning 'wanted'.
-- 'That is outrageous, she was right.' Andrea defends her client fiercely. This conversational past tense combines a helper verb with the past verb form for 'had'.
-- 'But where is Beatrice now?' Arlette asks for the actress's whereabouts. The adverb meaning 'where' gives the reply its conversational emphasis.
-- 'She jumped into a taxi quickly.' Andrea describes Beatrice's hasty departure. The verb meaning 'has' pairs naturally with the noun for 'taxi' in everyday conversation.
-- 'I could not catch up with her.' Andrea laments that she could not run fast enough with the stroller. The clause hinges on the everyday verb meaning 'have'.
-- 'Did you try phoning her?' Arlette asks about phone contact. Arlette uses the casual singular 'you' with 'have', showing close familiarity.
-- 'I keep reaching her voicemail.' Andrea vents her frustration. Notice how 'stop' leads directly into the noun meaning 'voicemail'.
-- 'The production threatens a lawsuit.' Arlette warns of legal repercussions. The verb meaning 'threatens' pairs naturally with the noun for 'production' in everyday conversation.
-- 'Wait, my phone is ringing at last.' Andrea notices an incoming call. Notice how 'wait' leads directly into the noun meaning 'phone'.
-- 'Hello Beatrice? Where are you exactly?' Andrea answers urgently. Inverting the verb and pronoun around 'are you' creates a crisp, polished question.
+- 'Andrea, Pascal just called me.' Arlette breaks the urgent news.
+- 'Beatrice left the shoot in anger.' Arlette explains Beatrice's sudden exit.
+- 'But what happened?' Andrea reacts with concern.
+- 'The director lied to Beatrice.' Arlette reveals the director's deceit.
+- 'He wanted to force her to undress.' Arlette explains the boundary violation.
+- 'That is outrageous, she was right.' Andrea defends her client fiercely.
+- 'But where is Beatrice now?' Arlette asks for the actress's whereabouts.
+- 'She jumped into a taxi quickly.' Andrea describes Beatrice's hasty departure.
+- 'I could not catch up with her.' Andrea laments that she could not run fast enough with the stroller.
+- 'Did you try phoning her?' Arlette asks about phone contact.
+- 'I keep reaching her voicemail.' Andrea vents her frustration.
+- 'The production threatens a lawsuit.' Arlette warns of legal repercussions.
+- 'Wait, my phone is ringing at last.' Andrea notices an incoming call.
+- 'Hello Beatrice? Where are you exactly?' Andrea answers urgently.

@@ -35,7 +35,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'I really like you!' Word for word, 'you please me really'. In French the person you like is the subject of the sentence. Camille pulls back."),
-    (1, None, "'No, someone's going to come in!' The verb 'to go' plus another verb gives you the near future, just like 'going to' in English."),
+    (1, None, "'No, someone's going to come in!' The action word 'to go' plus another action word gives you the near future, just like 'going to' in English."),
     (2, None, "'Nobody's going to come in.' Here the word for 'nobody' comes first, and the little negative word follows it. Camille stops him."),
     (3, None, "'Wait.' A casual command, said to one person. Then she confesses something."),
     (4, None, "'I don't really remember.' The verb 'to remember' comes with a little word for 'myself', and the negative wraps around both."),
@@ -50,5 +50,5 @@ WALK = [
     (12, None, "'You fell asleep in two seconds.' Again 'to be' in the past, and again a feminine ending, because it's Camille who fell asleep."),
     (13, None, "'Really?' She can hardly believe it."),
     (14, None, "'Yes, really.' He just repeats her word, a little vexed."),
-    (15, None, "'Thank you!' Here, Hippolyte thinks it's a strange answer. But we know why she's so relieved: he's her half-brother, and nothing happened. Here's the whole scene once more. Now hear the entire conversation again from the top."),
+    (15, None, "'Thank you!' Here, Hippolyte thinks it's a strange answer. But we know why she's so relieved: he's her half-brother, and nothing happened."),
 ]

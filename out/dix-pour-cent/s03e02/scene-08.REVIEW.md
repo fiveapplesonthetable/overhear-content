@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here we are, we have arrived in front of your place.' Gabriel signals the end of the walk home. Gabriel uses the casual singular 'you' with 'arrived', showing close familiarity.
-- 'Thank you for this very lovely evening.' Chantal expresses polite appreciation. The key noun here means 'thank you', anchored by its matching French article.
-- 'Well, it is late now.' Gabriel notices the late hour. The adverb meaning 'well' gives the reply its conversational emphasis.
-- 'Time passes very quickly with you.' Gabriel pays a gentle compliment. The informal 'you' form around 'passes' marks a direct, personal relationship.
-- 'Yes, I had an excellent time.' Chantal confirms her enjoyment. This conversational past tense combines a helper verb with the past verb form for 'spent'.
-- 'I must get going now.' Gabriel prepares to leave. The clause hinges on the everyday verb meaning 'must'.
-- 'Do you have a long day tomorrow?' Chantal inquires about his schedule. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'Yes, I have a lot of work at the agency.' Gabriel explains his professional obligations. Notice how 'have' leads directly into the noun meaning 'work'.
-- 'Then you must rest well.' Chantal offers considerate advice. Chantal uses the casual singular 'you' with 'must', showing close familiarity.
-- 'You too, rest well.' Gabriel returns the affectionate wish. The clause hinges on the everyday verb meaning 'rest yourself'.
-- 'Good night, Chantal.' Gabriel offers a formal bedtime farewell. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'Good night, Gabriel.' Chantal replies in kind. The key noun here means 'night', anchored by its matching French article.
-- 'Shall we call each other soon?' Gabriel suggests a future contact. In everyday spoken French, rising intonation on 'call' at the end is enough to turn the sentence into a question.
-- 'Yes, with great pleasure.' Chantal accepts with enthusiasm. The key noun here means 'pleasure', anchored by its matching French article.
-- 'I will call you tomorrow afternoon.' Gabriel sets a specific time frame. The verb meaning 'call' pairs naturally with the noun for 'afternoon' in everyday conversation.
-- 'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close. The adverb meaning 'okay' gives the reply its conversational emphasis.
+- 'Here we are, we have arrived in front of your place.' Gabriel signals the end of the walk home.
+- 'Thank you for this very lovely evening.' Chantal expresses polite appreciation.
+- 'Well, it is late now.' Gabriel notices the late hour.
+- 'Time passes very quickly with you.' Gabriel pays a gentle compliment.
+- 'Yes, I had an excellent time.' Chantal confirms her enjoyment.
+- 'I must get going now.' Gabriel prepares to leave.
+- 'Do you have a long day tomorrow?' Chantal inquires about his schedule.
+- 'Yes, I have a lot of work at the agency.' Gabriel explains his professional obligations.
+- 'Then you must rest well.' Chantal offers considerate advice.
+- 'You too, rest well.' Gabriel returns the affectionate wish.
+- 'Good night, Chantal.' Gabriel offers a formal bedtime farewell.
+- 'Good night, Gabriel.' Chantal replies in kind.
+- 'Shall we call each other soon?' Gabriel suggests a future contact.
+- 'Yes, with great pleasure.' Chantal accepts with enthusiasm.
+- 'I will call you tomorrow afternoon.' Gabriel sets a specific time frame.
+- 'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close.

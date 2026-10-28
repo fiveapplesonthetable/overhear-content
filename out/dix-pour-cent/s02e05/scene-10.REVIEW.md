@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does it still have that effect, even after 50 years?' Gabriel probes Arlette's lingering tension. Listen for the expression meaning 'makes', which leads naturally into 'years'.
-- 'Pardon? What are you talking about?' Arlette feigns innocence. Arlette opens with the word for 'sorry' and lands on 'are you speaking' at the close.
-- 'I mean, you and Guy Marchand.' Gabriel names the legendary singer. The verb meaning 'want' anchors the whole remark.
-- 'What is it exactly? Rancor? Resentment?' Gabriel asks for precise psychological nuances. The nouns 'rancoeur' and 'resentment' contrast instinctive bitterness with conscious grudge.
-- 'Resentment is deliberate, rancor cannot be controlled.' Arlette offers a subtle philosophical distinction. The reflexive passive 'not' denotes an uncontrollable emotion.
-- 'So, which is it between the two of you?' Gabriel presses for a direct answer. The question word 'which one' selects between the two distinct options.
-- 'Nothing on my part. It is him.' Arlette disclaims any personal bitterness. A concise spoken phrase built around the French noun for 'share'.
-- 'He holds a grudge against me because I left him for Chet Baker.' Arlette reveals the historic romantic betrayal. The key word here means 'wants', paired with 'left' to make the point clear.
-- 'I loved life and artists, he wanted to get married.' Arlette contrasts their youthful ambitions. Notice how the verb for 'I loved' leads straight into 'artists'.
-- 'He never forgave me for it.' Arlette notes his enduring heartache. Listen for the expression meaning 'not', which leads naturally into 'forgiven'.
-- 'So it is true, that story with Chet Baker?' Gabriel seeks confirmation of the showbiz legend. The adjective meaning 'true' agrees in gender and number with feminine noun 'story'.
-- 'Did you take me for a liar?' Arlette reacts with sharp theatrical indignance. Arlette opens with the word for 'took' and lands on 'liar' at the close.
-- 'No, but it is crazy. Chet Baker!' Gabriel marvels at the legendary name. The colloquial adjective 'crazy' expresses utter amazement.
-- 'It was in New York, at the jazz club where he was playing.' Arlette paints the romantic setting. The relative adverb 'where' introduces the venue where Chet Baker performed.
-- 'He fell madly in love with me. And I followed him.' Arlette describes her whirlwind adventure. Listen for the expression meaning 'is', which leads naturally into 'followed'.
-- 'Jealousy is so stupid.' Arlette philosophizes on romantic possessiveness. The definite noun 'the' receives a categorical judgment with 'so'.
+- 'Does it still have that effect, even after 50 years?' Gabriel probes Arlette's lingering tension.
+- 'Pardon? What are you talking about?' Arlette feigns innocence.
+- 'I mean, you and Guy Marchand.' Gabriel names the legendary singer.
+- 'What is it exactly? Rancor? Resentment?' Gabriel asks for precise psychological nuances.
+- 'Resentment is deliberate, rancor cannot be controlled.' Arlette offers a subtle philosophical distinction.
+- 'So, which is it between the two of you?' Gabriel presses for a direct answer.
+- 'Nothing on my part. It is him.' Arlette disclaims any personal bitterness.
+- 'He holds a grudge against me because I left him for Chet Baker.' Arlette reveals the historic romantic betrayal.
+- 'I loved life and artists, he wanted to get married.' Arlette contrasts their youthful ambitions.
+- 'He never forgave me for it.' Arlette notes his enduring heartache.
+- 'So it is true, that story with Chet Baker?' Gabriel seeks confirmation of the showbiz legend.
+- 'Did you take me for a liar?' Arlette reacts with sharp theatrical indignance.
+- 'No, but it is crazy. Chet Baker!' Gabriel marvels at the legendary name.
+- 'It was in New York, at the jazz club where he was playing.' Arlette paints the romantic setting.
+- 'He fell madly in love with me. And I followed him.' Arlette describes her whirlwind adventure.
+- 'Jealousy is so stupid.' Arlette philosophizes on romantic possessiveness.

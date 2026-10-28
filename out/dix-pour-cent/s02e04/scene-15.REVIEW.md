@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, Camille. You are mistaken.' Camille corrects Mathias on the surprise phone call. Camille opens with the word for 'no' and lands on 'a mistake' at the close.
-- 'Mathias is coming here with Isabelle Adjani.' She realizes an ambush is underway. Camille opens with the word for 'comes' and lands on 'over here' at the close.
-- 'I must find a way to get Hartman away.' Camille plans rapid evasive action. The key word here means 'must', paired with 'to steer away' to make the point clear.
-- 'Give me the car keys.' Sacha impatiently asks for their vehicle. Listen for the expression meaning 'hand me', which leads naturally into 'vehicle'.
-- 'Are you sure you want to drive?' Camille hesitates to hand over vehicle control. Camille opens with the word for 'are' and lands on 'to drive' at the close.
-- 'Look outside! What is that?' Sacha spots commotion on the street below. The adverb meaning 'outside' sharpens the verb for 'look' here.
-- 'It is an anti-Hartman demonstration.' Camille identifies the hostile crowd. The compound prefix attaches directly to the director name.
-- 'They are not very welcoming.' Sacha dryly observes the vocal protesters. The negative frame modifies the plural descriptive adjective.
-- 'They are looking for a fight.' Camille warns of imminent danger outside. The verbal phrase signifies seeking physical confrontation.
-- 'Camille? Activists are in front of the studio.' Andréa calls with alarming updates. The spatial linking word locates the demonstrators relative to the entrance.
-- 'If Sacha sees them, things will escalate.' Andréa fears an explosive public scene. The key word here means 'sees', paired with 'escalate out of hand' to make the point clear.
-- 'Right, sneak out the back with him.' Andréa gives clear tactical escape directions. Listen for the expression meaning 'exit', which leads naturally into 'exit'.
-- 'I am sending you a taxi right now.' Camille arranges a swift getaway car. The temporal phrase emphasizes rapid transport coordination.
-- 'Thank you very much, Camille!' Sacha expresses heartfelt relief at her quick thinking. The polite expression conveys heartfelt gratitude.
-- 'I am getting into this taxi.' The director safely steps into the vehicle. The prepositional verb signifies boarding the vehicle.
+- 'No, Camille. You are mistaken.' Camille corrects Mathias on the surprise phone call.
+- 'Mathias is coming here with Isabelle Adjani.' She realizes an ambush is underway.
+- 'I must find a way to get Hartman away.' Camille plans rapid evasive action.
+- 'Give me the car keys.' Sacha impatiently asks for their vehicle.
+- 'Are you sure you want to drive?' Camille hesitates to hand over vehicle control.
+- 'Look outside! What is that?' Sacha spots commotion on the street below.
+- 'It is an anti-Hartman demonstration.' Camille identifies the hostile crowd.
+- 'They are not very welcoming.' Sacha dryly observes the vocal protesters.
+- 'They are looking for a fight.' Camille warns of imminent danger outside.
+- 'Camille? Activists are in front of the studio.' Andrea calls with alarming updates.
+- 'If Sacha sees them, things will escalate.' Andrea fears an explosive public scene.
+- 'Right, sneak out the back with him.' Andrea gives clear tactical escape directions.
+- 'I am sending you a taxi right now.' Camille arranges a swift getaway car.
+- 'Thank you very much, Camille!' Sacha expresses heartfelt relief at her quick thinking.
+- 'I am getting into this taxi.' The director safely steps into the vehicle.

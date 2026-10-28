@@ -36,7 +36,7 @@ WALK = [
     (0, None, "'Either Thursday at two, or Friday at eleven.' The same little word, said twice, gives you 'either, or'. And two in the afternoon is fourteen hours again, office style."),
     (1, None, "'Hello.' Camille waits politely for her turn."),
     (2, 'Je peux vous aider?', "'Can I help you?' Sofia uses the formal 'you', the right choice with a stranger at a front desk."),
-    (3, None, "'I'm here to see Mathias Barneville.' The little word meaning 'to' or 'in order to' links 'here' to the plain verb 'to see'. Camille uses his full name, like a visitor would."),
+    (3, None, "'I'm here to see Mathias Barneville.' The little word meaning 'to' or 'in order to' links 'here' to the plain action word 'to see'. Camille uses his full name, like a visitor would."),
     (4, None, "'Is he expecting you?' Literally 'he waits for you'. The formal 'you' sits before the verb."),
     (5, None, "'No, but it's important.' Short and firm. Sofia has seen this many times before."),
     (6, None, "'Leave your photos and your CV here.' A polite command, with the formal ending. She is sure Camille is one more young actress hoping to be discovered."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Have a seat.' Literally 'sit yourself down', a polite command you'll hear in any waiting room."),
     (13, None, "'Thank you.' Camille sits down and waits."),
     (14, 'Mathias, Camille Valentini est là.', "'Mathias, Camille Valentini is here.' Sofia rings through to his office."),
-    (14, 'Désolée de vous déranger.', "'Sorry to bother you.' Sofia apologises to her boss, so she uses the formal 'you' with him too. And the name works: Mathias agrees to see this young woman with no appointment. Here's the whole scene again. Now listen to the whole conversation one more time."),
+    (14, 'Désolée de vous déranger.', "'Sorry to bother you.' Sofia apologises to her boss, so she uses the formal 'you' with him too. And the name works: Mathias agrees to see this young woman with no appointment."),
 ]

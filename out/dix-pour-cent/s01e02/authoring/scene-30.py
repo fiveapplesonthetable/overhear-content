@@ -33,9 +33,9 @@ STORY = [
 ]
 WALK = [
     (0, None, "'A Tavernier film? Great!' Tavernier is a famous French director, so Hippolyte is excited. The second word is borrowed from English, and the French use it all the time."),
-    (1, None, "'There's no part for you.' Andréa uses the informal 'tu' form with 'you', showing familiarity."),
+    (1, None, "'There's no part for you.' Look at the start: 'there is' with the 'not' wrapped around it."),
     (2, 'Et le film de Gallienne?', "'And Gallienne's film?' French has no apostrophe-s: you say 'the film of Gallienne'."),
-    (2, 'Je peux lire le scénario?', "'Can I read the script?' The verb 'can' is followed directly by the verb 'to read', in its basic form."),
+    (2, 'Je peux lire le scénario?', "'Can I read the script?' The action word 'can' is followed directly by the action word 'to read', in its basic form."),
     (3, None, "'Not now, Hippolyte.' Andréa has no time for him. She has someone more important to talk to."),
     (4, None, "'At least tell me what it's about!' A casual command, with the word for 'me' joined on after it. He uses the casual 'you' with Andréa straight away; that's Hippolyte."),
     (5, None, "'Gabriel? Sorry about yesterday.' The word for 'sorry' has an extra letter on the end in writing because Andréa is a woman. You can't hear it, but it's there."),

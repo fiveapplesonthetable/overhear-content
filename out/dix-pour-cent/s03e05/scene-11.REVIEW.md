@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in discreetly, we must not make noise.' Camille welcomes Valentin after hours. Notice how 'come in' leads directly into the noun meaning 'noise'.
-- 'It is truly very impressive here.' Valentin admires the agency premises. The descriptive adjective for 'impressive' agrees in gender and number with its noun.
-- 'Yes, it is a major talent agency.' Camille explains the business. The key noun here means 'agency', anchored by its matching French article.
-- 'And your office, where is it exactly?' Valentin looks around curious. Valentin uses the casual singular 'you' with 'office', showing close familiarity.
-- 'My office is right at the end of the hall.' Camille indicates the layout. The key noun here means 'office', anchored by its matching French article.
-- 'Have you worked here for a long time?' Valentin asks about her career history. In everyday spoken French, rising intonation on 'work' at the end is enough to turn the sentence into a question.
-- 'Only for a few months as an assistant.' Camille clarifies her current position. The key noun here means 'months', anchored by its matching French article.
-- 'But you want to become a full agent?' Valentin inquires about her ambitions. Valentin uses the casual singular 'you' with 'want', showing close familiarity.
-- 'Yes, that is my great professional dream.' Camille shares her career goal. The key noun here means 'dream', anchored by its matching French article.
-- 'You have a lot of talent for that.' Valentin offers encouragement. The verb meaning 'have' pairs naturally with the noun for 'talent' in everyday conversation.
-- 'Thank you, Valentin, that is kind to say.' Camille appreciates his support. The descriptive adjective for 'kind' agrees in gender and number with its noun.
-- 'Then show me where you work every day.' Valentin urges a tour. Valentin uses the casual singular 'you' with 'show me', showing close familiarity.
-- 'Okay, walk forward slowly this way.' Camille leads the way quietly. The clause hinges on the everyday verb meaning 'walk forward'.
-- 'There, I am following you with great pleasure.' Valentin follows her down the hallway. Valentin uses the casual singular 'you' with 'follow', showing close familiarity.
+- 'Come in discreetly, we must not make noise.' Camille welcomes Valentin after hours.
+- 'It is truly very impressive here.' Valentin admires the agency premises.
+- 'Yes, it is a major talent agency.' Camille explains the business.
+- 'And your office, where is it exactly?' Valentin looks around curious.
+- 'My office is right at the end of the hall.' Camille indicates the layout.
+- 'Have you worked here for a long time?' Valentin asks about her career history.
+- 'Only for a few months as an assistant.' Camille clarifies her current position.
+- 'But you want to become a full agent?' Valentin inquires about her ambitions.
+- 'Yes, that is my great professional dream.' Camille shares her career goal.
+- 'You have a lot of talent for that.' Valentin offers encouragement.
+- 'Thank you, Valentin, that is kind to say.' Camille appreciates his support.
+- 'Then show me where you work every day.' Valentin urges a tour.
+- 'Okay, walk forward slowly this way.' Camille leads the way quietly.
+- 'There, I am following you with great pleasure.' Valentin follows her down the hallway.

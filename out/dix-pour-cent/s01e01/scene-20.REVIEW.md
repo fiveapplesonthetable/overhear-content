@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Miranda, you look radiant.' Literally 'you are radiant'. The adjective ends with an extra sound because Miranda is a woman. That feminine ending is our grammar point today. And he uses the formal 'you', as you do with a business contact.
+- 'Miranda, you look radiant.' Literally 'you are radiant'. The describing word ends with an extra sound because Miranda is a woman. That feminine ending is our language point today. And he uses the formal 'you', as you do with a business contact.
 - 'Paris suits you wonderfully.' A set phrase: the city 'goes to you' marvellously. Flattery, in the smoothest possible French.
-- 'Thank you, Mathias. I love Paris!' The verb here is 'to adore', and the French use it for things they like a lot, cities included.
+- 'Thank you, Mathias. I love Paris!' The action word here is 'to adore', and the French use it for things they like a lot, cities included.
 - 'I lived here when I was a student.' The word for 'student' takes the feminine ending too, because Miranda is talking about herself. She jokes that she won't say how long ago that was.
 - 'We understand Tarantino's hesitation.' Mathias speaks for the agency, so he says 'we'. He pretends to be understanding, to win her over.
 - 'Yes, Quentin has a lot of talent.' She calls the director by his first name. This is her world.
@@ -44,4 +44,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, but she looks thirty.' Here the verb 'to do' means 'to look' an age. It's a compliment to Cécile, and it doesn't work.
 - 'I'm sorry, Mathias, it's decided.' The word for 'sorry' is spelled with the feminine ending, because a woman says it, but it sounds exactly the same as a man's. The door is closed.
 - 'Try a macaron! It's their speciality.' A polite command, using the formal 'you'. She changes the subject sweetly.
-- 'Thank you.' One word from Mathias, with a frozen smile. He has lost this round, but he is not the kind of man who gives up. Here's the whole conversation again. Now let's hear the full exchange again from beginning to end.
+- 'Thank you.' One word from Mathias, with a frozen smile. He has lost this round, but he is not the kind of man who gives up. Here's the whole conversation again.

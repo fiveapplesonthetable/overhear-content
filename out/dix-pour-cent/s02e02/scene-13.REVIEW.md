@@ -33,11 +33,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We have very few young actors.' Hicham points out that the roster lacks promising new performers.
 - 'It is hard to spot young actors.' Mathias defends the agents by explaining that scouting new talent is difficult.
 - 'Youth is our future.' Hicham insists that young talent represents the future of cinema.
-- 'And we must also keep our stars.' Andréa reminds him that retaining established celebrities is equally essential.
+- 'And we must also keep our stars.' Andrea reminds him that retaining established celebrities is equally essential.
 - 'By the way, what about Fabrice Luchini?' Hicham shifts the conversation to the most urgent client on their roster.
 - 'He is hesitating about leaving for StarMédia.' Mathias admits that Fabrice is considering defecting to their rival agency.
 - 'I am offering a bonus to sign him.' Hicham introduces a financial incentive to motivate the agents.
 - 'A bonus? Of how much?' Mathias immediately perks up and asks for the exact sum.
 - 'Fifteen thousand euros for the agency.' Hicham names the generous sum on offer.
-- 'Fifteen thousand euros? Deal!' Andréa accepts the challenge on the spot with enthusiasm.
+- 'Fifteen thousand euros? Deal!' Andrea accepts the challenge on the spot with enthusiasm.
 - 'We are going to find a solution immediately.' Mathias confirms that the team will take action without delay.

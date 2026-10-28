@@ -35,7 +35,7 @@ WALK = [
     (0, None, "'Let go of me!' An informal command with 'me' attached by a hyphen: you always talk to a dog with the casual 'you'."),
     (1, None, "'Jean Gabin, stop it! He bites traitors' legs!' Arlette calls her dog off, though she's secretly proud of him."),
     (2, None, "'You're leaving the agency, is that it?' The little tag at the end, literally 'it's that?', asks for confirmation."),
-    (3, None, "'I was going to tell you.' The verb 'to go' in the past tense plus an infinitive gives 'was going to'. Both pronouns 'to you' and 'it' sit before the verb."),
+    (3, None, "'I was going to tell you.' The action word 'to go' in the past plus a basic action word gives 'was going to'. Both short words 'to you' and 'it' sit right before the action word."),
     (4, None, "'It's nothing personal. The agency can't go on like this.' Notice how 'nothing' takes an adjective after the little word for 'of'."),
     (5, None, "'If you leave with your actors, we're going to court!' Andréa threatens legal action."),
     (6, None, "'I'm within my rights. I'm leaving at the end of the month.' French uses the present tense very naturally for a fixed plan in the near future."),

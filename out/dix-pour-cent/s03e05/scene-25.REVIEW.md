@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know the legendary story of Miles Davis?' Hicham begins with an iconic music memory. The descriptive adjective for 'legendary' agrees in gender and number with its noun.
-- 'He composed live in front of the screen.' Andrea recalls his legendary soundtrack improvisation. Notice how 'composed' leads directly into the noun meaning 'screen'.
-- 'I think that I will pay the Americans.' Hicham announces his momentous personal decision. French forms the near future by pairing the present tense of 'to go' directly with 'pay'.
-- 'What did you just say right now?' Andrea can barely believe what she is hearing. The verb meaning 'did you just' pairs naturally with the noun for 'instant' in everyday conversation.
-- 'I thought at length about the situation.' Hicham emphasizes his careful reflection. Notice how 'have' leads directly into the noun meaning 'situation'.
-- 'I will save ASK with my own funds.' Hicham commits his private fortune to the company. The descriptive adjective for 'own' agrees in gender and number with its noun.
-- 'That is an absolutely colossal sum, Hicham!' Andrea underscores the magnitude of the payout. The key noun here means 'sum', anchored by its matching French article.
-- 'I have grown sincerely attached to this firm.' Hicham reveals his true feelings for ASK. The verb meaning 'attached' pairs naturally with the noun for 'company' in everyday conversation.
-- 'I am so happy to hear that.' Andrea responds with genuine warmth and admiration. The clause hinges on the everyday verb meaning 'hear'.
-- 'We form a real tight team now.' Hicham celebrates their newfound unity. The verb meaning 'form' pairs naturally with the noun for 'team' in everyday conversation.
-- 'I must make an urgent call immediately.' Andrea suddenly remembers the secret legal filing. Notice how 'must' leads directly into the noun meaning 'call'.
-- 'You want to telephone at this late hour?' Hicham wonders about her abrupt departure. Hicham uses the casual singular 'you' with 'want', showing close familiarity.
-- 'Yes, to stop a very important file.' Andrea rushes to halt the legal registration. The verb meaning 'stop' pairs naturally with the noun for 'file' in everyday conversation.
-- 'Take your time, I am settling the bill.' Hicham graciously handles the drinks. Hicham uses the casual singular 'you' with 'take', showing close familiarity. Now let's hear the whole conversation again.
+- 'Do you know the legendary story of Miles Davis?' Hicham begins with an iconic music memory.
+- 'He composed live in front of the screen.' Andrea recalls his legendary soundtrack improvisation.
+- 'I think that I will pay the Americans.' Hicham announces his momentous personal decision.
+- 'What did you just say right now?' Andrea can barely believe what she is hearing.
+- 'I thought at length about the situation.' Hicham emphasizes his careful reflection.
+- 'I will save ASK with my own funds.' Hicham commits his private fortune to the company.
+- 'That is an absolutely colossal sum, Hicham!' Andrea underscores the magnitude of the payout.
+- 'I have grown sincerely attached to this firm.' Hicham reveals his true feelings for ASK.
+- 'I am so happy to hear that.' Andrea responds with genuine warmth and admiration.
+- 'We form a real tight team now.' Hicham celebrates their newfound unity.
+- 'I must make an urgent call immediately.' Andrea suddenly remembers the secret legal filing.
+- 'You want to telephone at this late hour?' Hicham wonders about her abrupt departure.
+- 'Yes, to stop a very important file.' Andrea rushes to halt the legal registration.
+- 'Take your time, I am settling the bill.' Hicham graciously handles the drinks. Now listen to the scene again at normal speed and see how much you understand.

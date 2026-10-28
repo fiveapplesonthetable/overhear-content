@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is so bad about that scene?' Andréa asks why he finds the rehearsal scene so intolerable.
-- 'Do not try to understand, fix this problem quickly.' François insists that an agent should solve problems rather than ask questions.
-- 'I will act in his play, but without a pool.' Listen for the expression meaning 'tell him', which leads naturally into 'pool.'.
-- 'No pool? The entire set design is built around it.' Andréa points out that the stage cannot easily be redesigned.
-- 'Then they change it. I am in no hurry.' François is completely unbothered by the delay.
-- 'That is madness! Opening night is in a week.' Andréa stresses the urgent timeline of the production.
+- 'What is so bad about that scene?' Andrea asks why he finds the rehearsal scene so intolerable.
+- 'Do not try to understand, fix this problem quickly.' Francois insists that an agent should solve problems rather than ask questions.
+- 'I will act in his play, but without a pool.' The future tense indicates his firm condition for continuing.
+- 'No pool? The entire set design is built around it.' Andrea points out that the stage cannot easily be redesigned.
+- 'Then they change it. I am in no hurry.' Francois is completely unbothered by the delay.
+- 'That is madness! Opening night is in a week.' Andrea stresses the urgent timeline of the production.
 - 'And why work with Christophe Bel if we stop him being Christophe Bel?' She argues that hiring a visionary director means trusting his ideas.
 - 'Him, a genius? With a giant duck on the stage?' He sarcastically mocks the absurd props and soundtrack.
 - 'Stop it, you are being really unfair! You are very lucky.' Gabriel steps in to defend the production.
 - 'A sexy atmosphere, swimsuits... Little Mathurine is gorgeous!' Gabriel praises the lively beach mood and the young cast.
-- 'Drop it, forget about it.' François cuts the conversation short and refuses to listen.
-- 'François, help me understand! Why are you afraid of water?' Andréa begs him to explain what is really going on.
+- 'Drop it, forget about it.' Francois cuts the conversation short and refuses to listen.
+- 'François, help me understand! Why are you afraid of water?' Andrea begs him to explain what is really going on.
 - 'What is it? Come on, tell me!' She urges him to open up and tell the truth.
-- 'I do not know how to swim.' François finally confesses the childhood secret he has kept hidden for decades.
+- 'I do not know how to swim.' Francois finally confesses the childhood secret he has kept hidden for decades.

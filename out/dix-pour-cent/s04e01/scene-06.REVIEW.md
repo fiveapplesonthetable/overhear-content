@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There, the shareholder agreement is signed.' Mathias confirms that the legal transfer of his shares is finalized. The verb meaning 'signed.' pairs naturally with the noun for 'pact' in everyday conversation.
-- 'May I say a few words before leaving?' Mathias asks his former partners for an opportunity to say goodbye. The verb meaning 'may I' pairs naturally with the noun for 'words' in everyday conversation.
-- 'Make it quick, we have lots of work.' Andrea urges him to keep his statement brief so they can return to business. The verb meaning 'make' pairs naturally with the noun for 'work.' in everyday conversation.
-- 'My departure took place in a hostile atmosphere.' Mathias notes the intense antagonism that accompanied the buyout. The descriptive adjective for 'hostile.' agrees in gender and number with its noun.
-- 'This agency has been my whole life.' Mathias reminds the team how deeply tied he was to ASK's history. The verb meaning 'has' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'For me, it is a real heartbreak.' Mathias characterizes the rupture as an emotional tragedy for himself. The verb meaning 'it is' pairs naturally with the noun for 'heartbreak.' in everyday conversation.
-- 'For us, it is rather a relief.' Andrea retorts that his departure lifts a heavy burden from the remaining staff. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'It is a wound that will never heal.' Gabriel highlights the lasting emotional scar left by Mathias's plotting. French builds the 'never' negation in two parts wrapped right around 'it is'.
-- 'I wish all the best to our agency.' Mathias maintains a polite facade and offers well wishes to Samuel Kerr. The verb meaning 'wish' pairs naturally with the noun for 'best' in everyday conversation.
-- 'Where are you going now? Are you opening an agency?' Gabriel demands to know if Mathias plans to start a rival enterprise. The informal 'you' form around 'are you going' marks a direct, personal relationship.
-- 'You will know at the right time.' Mathias conceals his next career move until the official launch. The verb meaning 'will know' pairs naturally with the noun for 'time.' in everyday conversation.
-- 'My choice protects everyone's future.' Mathias insists his buyout preserves the agency's stability. Notice how 'protects' leads directly into the noun meaning 'choice'.
-- 'Of course, we believe your word!' Andrea mocks Mathias's lofty justifications with sharp irony. The informal 'you' form around 'believe' marks a direct, personal relationship.
+- 'There, the shareholder agreement is signed.' Mathias confirms that the legal transfer of his shares is finalized.
+- 'May I say a few words before leaving?' Mathias asks his former partners for an opportunity to say goodbye.
+- 'Make it quick, we have lots of work.' Andrea urges him to keep his statement brief so they can return to business.
+- 'My departure took place in a hostile atmosphere.' Mathias notes the intense antagonism that accompanied the buyout.
+- 'This agency has been my whole life.' Mathias reminds the team how deeply tied he was to ASK's history.
+- 'For me, it is a real heartbreak.' Mathias characterizes the rupture as an emotional tragedy for himself.
+- 'For us, it is rather a relief.' Andrea retorts that his departure lifts a heavy burden from the remaining staff.
+- 'It is a wound that will never heal.' Gabriel highlights the lasting emotional scar left by Mathias's plotting.
+- 'I wish all the best to our agency.' Mathias maintains a polite facade and offers well wishes to Samuel Kerr.
+- 'Where are you going now? Are you opening an agency?' Gabriel demands to know if Mathias plans to start a rival enterprise.
+- 'You will know at the right time.' Mathias conceals his next career move until the official launch.
+- 'My choice protects everyone's future.' Mathias insists his buyout preserves the agency's stability.
+- 'Of course, we believe your word!' Andrea mocks Mathias's lofty justifications with sharp irony.

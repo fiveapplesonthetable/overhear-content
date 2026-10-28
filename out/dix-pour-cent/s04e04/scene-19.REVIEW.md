@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have crazy stage fright tonight.' Sandrine shivers backstage before going on. The verb meaning 'have' pairs naturally with the noun for 'stage fright' in everyday conversation.
-- 'Breathe, the audience will love you.' Gabriel tries to calm her nerves. Notice how 'breathe' leads directly into the noun meaning 'public'.
-- 'My jokes about vegetables were terrible!' Sandrine groans after coming off stage. The adjective meaning 'terrible' takes its feminine form here to match the noun it describes.
-- 'It was your very first stage.' Gabriel puts the rocky debut in perspective. The verb meaning 'was' pairs naturally with the noun for 'stage' in everyday conversation.
-- 'Nobody laughed in the room.' Sandrine recalls the icy silence of the club. Notice how 'has' leads directly into the noun meaning 'room'.
-- 'You showed great courage.' Gabriel praises her daring attempt at stand-up. Gabriel uses the casual singular 'you' with 'have', showing close familiarity.
-- 'It is entirely your fault, Gabriel!' Sandrine directs her frustration at her agent. The informal 'you' form around 'fault' marks a direct, personal relationship.
-- 'Why do you accuse me of this failure?' Gabriel protests her sudden hostility. Notice how 'accuse' leads directly into the noun meaning 'failure'.
-- 'You insisted on this show.' Sandrine reminds him who orchestrated the comedy booking. The verb meaning 'have' pairs naturally with the noun for 'show' in everyday conversation.
-- 'I just wanted to broaden your horizons.' Gabriel explains his artistic motives. The verb meaning 'wanted' pairs naturally with the noun for 'horizons' in everyday conversation.
-- 'I want to do this costume film!' Sandrine states her true artistic desire. Notice how 'want' leads directly into the noun meaning 'film'.
-- 'All right, you won, Sandrine.' Gabriel surrenders to her demand. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
-- 'Do you promise to sign this contract?' Sandrine secures her victory. The informal 'you' form around 'promise' marks a direct, personal relationship.
-- 'I will call the producer for you tomorrow.' Gabriel pledges to close the deal. The verb meaning 'call' pairs naturally with the noun for 'producer' in everyday conversation.
+- 'I have crazy stage fright tonight.' Sandrine shivers backstage before going on.
+- 'Breathe, the audience will love you.' Gabriel tries to calm her nerves.
+- 'My jokes about vegetables were terrible!' Sandrine groans at how awful her own stage jokes were.
+- 'It was your very first stage.' Gabriel puts the rocky debut in perspective.
+- 'Nobody laughed in the room.' Sandrine recalls the icy silence of the club.
+- 'You showed great courage.' Gabriel praises her daring attempt at stand-up.
+- 'It is entirely your fault, Gabriel!' Sandrine directs her frustration at her agent.
+- 'Why do you accuse me of this failure?' Gabriel protests her sudden hostility.
+- 'You insisted on this show.' Sandrine reminds him who orchestrated the comedy booking.
+- 'I just wanted to broaden your horizons.' Gabriel explains his artistic motives.
+- 'I want to do this costume film!' Sandrine states her true artistic desire.
+- 'All right, you won, Sandrine.' Gabriel surrenders to her demand.
+- 'Do you promise to sign this contract?' Sandrine secures her victory.
+- 'I will call the producer for you tomorrow.' Gabriel pledges to close the deal.

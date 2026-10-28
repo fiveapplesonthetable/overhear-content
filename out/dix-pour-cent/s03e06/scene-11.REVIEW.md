@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This intimate scene must remain very spectacular.' The director outlines his vision. Notice how 'must' leads directly into the noun meaning 'scene'.
-- 'We only have one hour to shoot.' Camille urges focus on the ticking clock. The verb meaning 'have' pairs naturally with the noun for 'hour' in everyday conversation.
-- 'Isabelle, walk slowly toward this big tree.' The director positions his ghost. The verb meaning 'advance' pairs naturally with the noun for 'tree' in everyday conversation.
-- 'Do I walk with my eyes tightly closed?' Isabelle checks the unusual instruction. This conversational past tense combines a helper verb with the past verb form for 'closed'.
-- 'Yes, complete silence on the set, action!' The director calls for silence before filming. The key noun here means 'silence', anchored by its matching French article.
-- 'Cut! But you are walking out of frame!' The director cuts the botched take. The verb meaning 'cut' pairs naturally with the noun for 'frame' in everyday conversation.
-- 'Sorry, I see nothing with closed eyes.' Isabelle points out the obvious physical reality. This conversational past tense combines a helper verb with the past verb form for 'closed'.
-- 'Keep your eyes open, please.' Camille provides sensible and practical guidance. Notice how the short vowel drops before a vowel sound around 'keep', making the phrase flow smoothly as one unit.
-- 'We are restarting right away from the mark!' The director orders a rapid reset. Notice how 'restart' leads directly into the noun meaning 'start'.
-- 'Wait, my phone is ringing in my bag.' An incoming ringtone shatters the set quiet. The verb meaning 'wait' pairs naturally with the noun for 'phone' in everyday conversation.
-- 'Is this a joke? Turn off that mobile phone!' The director loses patience with interruptions. Dropping the subject pronoun turns the verb for 'cut' into a direct, punchy command.
-- 'It is my colleague Gladys from the hospital.' Isabelle reveals her genuine medical day job. The key noun here means 'colleague', anchored by its matching French article.
-- 'Put your phone on airplane mode, Isabelle.' Camille prevents further interruptions. Notice how 'put' leads directly into the noun meaning 'phone'.
-- 'Come on, everyone in position, action!' The director restarts the take with renewed energy. Dropping the subject pronoun turns the verb for 'come on' into a direct, punchy command.
+- 'This intimate scene must remain very spectacular.' The director outlines his vision.
+- 'We only have one hour to shoot.' Camille urges focus on the ticking clock.
+- 'Isabelle, walk slowly toward this big tree.' The director positions his ghost.
+- 'Do I walk with my eyes tightly closed?' Isabelle checks the unusual instruction.
+- 'Yes, complete silence on the set, action!' The director calls for silence before filming.
+- 'Cut! But you are walking out of frame!' The director cuts the botched take.
+- 'Sorry, I see nothing with closed eyes.' Isabelle points out the obvious physical reality.
+- 'Keep your eyes open, please.' Camille provides sensible and practical guidance.
+- 'We are restarting right away from the mark!' The director orders a rapid reset.
+- 'Wait, my phone is ringing in my bag.' An incoming ringtone shatters the set quiet.
+- 'Is this a joke? Turn off that mobile phone!' The director loses patience with interruptions.
+- 'It is my colleague Gladys from the hospital.' Isabelle reveals her genuine medical day job.
+- 'Put your phone on airplane mode, Isabelle.' Camille prevents further interruptions.
+- 'Come on, everyone in position, action!' The director restarts the take with renewed energy.

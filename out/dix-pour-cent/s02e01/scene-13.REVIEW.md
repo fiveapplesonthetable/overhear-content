@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andréa? Why me and not you for Virginie?' Gabriel asks why Mathias picked him. Listen for the expression meaning 'why', which leads naturally into 'not'.
-- 'Because I would have said no.' The key word here means 'I would have', paired with 'no' to make the point clear.
-- 'Of course, he knew I would be less suspicious.' Mefiant is an adjective meaning wary or suspicious.
-- 'He is passing me a hot potato!' Listen for the expression meaning 'passes off', which leads naturally into 'hot'.
-- 'That way, if Virginie falls out with the agency, it is my fault.' The key word here means 'like', paired with 'fault' to make the point clear.
-- 'Thanks, Mathias!' Gabriel exclaims with sarcasm. Gabriel opens with the word for 'thanks' and lands on 'thanks' at the close.
-- 'I had not seen that.' Andréa admits she had not realized Mathias's ulterior motive.
-- 'It is exactly the kind of thing he would do!' The adverb meaning 'exactly' sharpens the verb for 'would do' here.
-- 'Poor me. Wait...' The key word here means 'poor', paired with 'wait' to make the point clear.
-- 'I have to go, I have to speak to the mayor.' Andréa cuts the call short to attend her ceremony in Couchey.
-- 'Keep me posted. Take care of yourself.' Gabriel opens with the word for 'keep me' and lands on 'care' at the close.
-- 'All right, see you soon Gabriel.' A bientot is a friendly parting phrase meaning see you soon.
-- 'Good luck in Couchey.' A concise spoken phrase built around the French noun for 'luck'.
+- 'Andréa? Why me and not you for Virginie?' Gabriel asks why Mathias picked him.
+- 'Because I would have said no.' Andréa explains bluntly that she would have refused to babysit Virginie.
+- 'Of course, he knew I would be less suspicious.' Gabriel realizes Mathias counted on him being too trusting to say no.
+- 'He is passing me a hot potato!' Gabriel complains that Mathias has dumped a thankless crisis onto his lap.
+- 'That way, if Virginie falls out with the agency, it is my fault.' He sees that he will take the blame if Virginie falls out with the agency.
+- 'Thanks, Mathias!' Gabriel exclaims with sarcasm.
+- 'I had not seen that.' Andrea admits she had not realized Mathias's ulterior motive.
+- 'It is exactly the kind of thing he would do!' Andréa agrees that this sneaky maneuver is classic Mathias.
+- 'Poor me. Wait...' Gabriel pities himself before trying to hold Andréa on the line.
+- 'I have to go, I have to speak to the mayor.' Andrea cuts the call short to attend her ceremony in Couchey.
+- 'Keep me posted. Take care of yourself.' Gabriel asks her to keep him posted and take care of herself.
+- 'All right, see you soon Gabriel.' Andréa says goodbye warmly before heading into the ceremony.
+- 'Good luck in Couchey.' Gabriel wishes her good luck at the village ceremony in Couchey.

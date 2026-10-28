@@ -30,23 +30,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you bring a present?' In this moment, François brought an inflatable yellow duck as a tongue-in-cheek peace offering for Christophe.
+- 'Did you bring a present?' Here, François brought an inflatable yellow duck as a tongue-in-cheek peace offering for Christophe.
 - 'Very good. Very funny.' Christophe is not amused when François hands him the plastic duck.
-- 'I'm glad that amuses you.' Notice how 'I' sets up the clause and leads naturally into 'amuses you'.
+- 'I'm glad that amuses you.' Christophe replies with icy sarcasm before walking away.
 - 'I have to take care of the music.' Literally 'occupy myself with the music'.
 - 'Enjoy the atmosphere.' Christophe walks away coldly.
 - 'He isn't talking to me! He invites me, and he ignores me!' Remember that Christophe didn't actually send that invitation text—Colette sent it from Andréa's phone as a joke!
-- 'Wait, he's going to come back.' Notice how 'wait' sets up the clause and leads naturally into 'to come back'.
-- 'It's his party, he's stressed. Give him time.' Andréa combines 'it is' with 'time' in a natural French turn of phrase. Then François responds.
+- 'Wait, he's going to come back.' Andréa tries to keep François from storming out of the party.
+- 'It's his party, he's stressed. Give him time.' She makes excuses for Christophe's cold reception at his own party.
 - 'No, I'm leaving.' Literally 'I go away from here'.
 - 'What? No, stay! François!' As François heads for the door, Andréa corners Christophe.
-- 'Christophe, you are made to work together.' The verb meaning 'are' anchors the whole remark.
-- 'He has no respect! I refuse to work with him!' Christophe combines 'give me' with 'reason' in a natural French turn of phrase. Then Andréa responds.
+- 'Christophe, you are made to work together.' Andréa appeals to Christophe's artistic pride to save the play.
+- 'He has no respect! I refuse to work with him!' Christophe challenges Andréa to give him a single reason to keep François.
 - 'He's a great actor!' When placed before the noun, the adjective for 'tall' or 'big' means 'great'.
-- 'He has no respect! I can't direct him in my play!' Here 'room' or 'theatre play' means a theatre play.
-- 'It's not that he doesn't want to!' French frames the conjugated verb between its two negative words alongside 'wants'.
-- 'Then what is the problem? He can't?' This everyday French sentence pairs 'then' with 'can'. Then Andréa responds.
+- 'He has no respect! I can't direct him in my play!' Here 'room' or 'piece' means a theatre play.
+- 'It's not that he doesn't want to!' Andréa realizes she has to reveal the real reason behind François's refusal.
+- 'Then what is the problem? He can't?' Christophe presses her to explain what could possibly be holding François back.
 - 'You mustn't tell anyone.' Literally 'one must tell it to nobody'.
 - 'He doesn't know how to swim.' That is the real reason François has been terrified of the swimming pool all along!
 - 'What?' Christophe is stunned.
-- 'He doesn't know how to swim!' French frames the conjugated verb between its two negative words alongside 'to swim'. Now let's hear the whole scene again from start to finish.
+- 'He doesn't know how to swim!' Andréa blurts out François's closely guarded secret at last. Now let's hear the whole scene again from start to finish.

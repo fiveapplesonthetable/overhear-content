@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The director rejects all my actresses.' Camille explains that none of her submitted candidates pleased the director. Notice how 'refuses' leads directly into the noun meaning 'director'.
-- 'Why? Your actresses are very good though.' Arlette expresses surprise, knowing the agency represents talented women. Arlette uses the casual singular 'you' with 'actresses', showing close familiarity.
-- 'She finds them much too plain.' Camille relays that the production wants someone far less conventional. The clause hinges on the everyday verb meaning 'finds'.
-- 'She is looking for a woman with character.' Camille clarifies that the role demands unique texture and grit. The verb meaning 'is looking for' pairs naturally with the noun for 'woman' in everyday conversation.
-- 'She wants an Almodovar-style character?' Arlette recognizes the vibrant, melodramatic archetype being sought. In everyday spoken French, rising intonation on 'wants' at the end is enough to turn the sentence into a question.
-- 'Yes, a unique and very expressive face.' Camille affirms that the part requires intense visual charisma. The descriptive adjective for 'unique' agrees in gender and number with its noun.
-- 'Samuel always gave very good advice.' Arlette reflects on how Samuel Kerr handled impossible casting requests. Notice how 'gave' leads directly into the noun meaning 'advice.'.
-- 'What advice? Tell me quickly, Arlette!' Camille asks for Samuel's secret technique. The verb meaning 'tell me' pairs naturally with the noun for 'advice?' in everyday conversation.
-- 'Look for your actors in the street!' Arlette reveals that great natural performers are found in everyday life. The informal 'you' form around 'look for' marks a direct, personal relationship.
-- 'You have to observe and track them down!' Arlette urges Camille to rely on keen intuition rather than agency files. The clause hinges on the everyday verb meaning 'is necessary'.
-- 'Wait, I think that I found her!' Camille suddenly connects Arlette's advice to a real morning encounter. Notice how the short vowel drops before a vowel sound around 'wait', making the phrase flow smoothly as one unit.
-- 'Who did you find? A famous actress?' Gabriel inquires whether Camille discovered a celebrated film star. The adjective meaning 'famous?' takes its feminine form here to match the noun it describes.
-- 'A Spanish tourist crossed paths with in the subway!' Camille recalls the passionate foreign traveler from the subway station. Notice how 'crossed paths with' leads directly into the noun meaning 'tourist'.
+- 'The director rejects all my actresses.' Camille explains that none of her submitted candidates pleased the director.
+- 'Why? Your actresses are very good though.' Arlette expresses surprise, knowing the agency represents talented women.
+- 'She finds them much too plain.' Camille relays that the production wants someone far less conventional.
+- 'She is looking for a woman with character.' Camille clarifies that the role demands unique texture and grit.
+- 'She wants an Almodovar-style character?' Arlette recognizes the vibrant, melodramatic archetype being sought.
+- 'Yes, a unique and very expressive face.' Camille affirms that the part requires intense visual charisma.
+- 'Samuel always gave very good advice.' Arlette reflects on how Samuel Kerr handled impossible casting requests.
+- 'What advice? Tell me quickly, Arlette!' Camille asks for Samuel's secret technique.
+- 'Look for your actors in the street!' Arlette reveals that great natural performers are found in everyday life.
+- 'You have to observe and track them down!' Arlette urges Camille to rely on keen intuition rather than agency files.
+- 'Wait, I think that I found her!' Camille suddenly connects Arlette's advice to a real morning encounter.
+- 'Who did you find? A famous actress?' Gabriel inquires whether Camille discovered a celebrated film star.
+- 'A Spanish tourist crossed paths with in the subway!' Camille recalls the passionate foreign traveler from the subway station.

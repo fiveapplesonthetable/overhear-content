@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at this get-well card.' Camille presents a selection of recovery stationery on her desk. The descriptive adjective for 'good' agrees in gender and number with its noun.
-- 'I am not sure about this choice.' Gabriel hesitates over the sentimental imagery. The descriptive adjective for 'sure' agrees in gender and number with its noun.
-- 'That does not really look like Mathias.' Gabriel remarks that Mathias's austere taste clashes with cheesy cards. The clause hinges on the everyday verb meaning 'looks like'.
-- 'Otherwise, there is a pretty clover.' Camille points to a traditional four-leaf clover motif. The descriptive adjective for 'pretty' agrees in gender and number with its noun.
-- 'The little dog is much friendlier!' Gabriel favors a charming and lighthearted canine illustration. The key noun here means 'dog', anchored by its matching French article.
-- 'Should we not go pay him a visit?' Camille wonders whether an in-person hospital visit would show proper respect. Notice how 'should' leads directly into the noun meaning 'visit'.
-- 'We worked for years with him.' Gabriel recalls their shared professional history building the agency together. This conversational past tense combines a helper verb with the past verb form for 'worked'.
-- 'But that will make him feel uncomfortable.' Camille cautions that an uninvited delegation might upset Mathias. The verb meaning 'is going' pairs naturally with the noun for 'ease' in everyday conversation.
-- 'We did not part ways as friends.' Gabriel admits that their bitter split left lingering resentment. The two-part French negation brackets the verb for 'parted' on both sides.
-- 'He just came through a heart attack.' Camille stresses the absolute necessity of avoiding sudden cardiac excitement. The verb meaning 'comes out' pairs naturally with the noun for 'heart attack' in everyday conversation.
-- 'An additional shock would be dangerous for him.' Gabriel acknowledges that stress could provoke a dangerous relapse. The verb meaning 'would be' pairs naturally with the noun for 'shock' in everyday conversation.
-- 'Let us simply send a very warm note.' Camille proposes sending considerate wishes through a thoughtful message. Notice how 'let us send' leads directly into the noun meaning 'note'.
-- 'Yes, let us all sign this card together.' Gabriel suggests collecting signatures from all senior partners. Notice how 'let us sign' leads directly into the noun meaning 'card'.
-- 'I will have it signed at the agency.' Camille takes charge of circulating the card among colleagues. The verb meaning 'am going' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'Look at this get-well card.' Camille presents a selection of recovery stationery on her desk.
+- 'I am not sure about this choice.' Gabriel hesitates over the sentimental imagery.
+- 'That does not really look like Mathias.' Gabriel remarks that Mathias's austere taste clashes with cheesy cards.
+- 'Otherwise, there is a pretty clover.' Camille points to a traditional four-leaf clover motif.
+- 'The little dog is much friendlier!' Gabriel favors a charming and lighthearted canine illustration.
+- 'Should we not go pay him a visit?' Camille wonders whether an in-person hospital visit would show proper respect.
+- 'We worked for years with him.' Gabriel recalls their shared professional history building the agency together.
+- 'But that will make him feel uncomfortable.' Camille cautions that an uninvited delegation might upset Mathias.
+- 'We did not part ways as friends.' Gabriel admits that their bitter split left lingering resentment.
+- 'He just came through a heart attack.' Camille stresses the absolute necessity of avoiding sudden cardiac excitement.
+- 'An additional shock would be dangerous for him.' Gabriel acknowledges that stress could provoke a dangerous relapse.
+- 'Let us simply send a very warm note.' Camille proposes sending considerate wishes through a thoughtful message.
+- 'Yes, let us all sign this card together.' Gabriel suggests collecting signatures from all senior partners.
+- 'I will have it signed at the agency.' Camille takes charge of circulating the card among colleagues.

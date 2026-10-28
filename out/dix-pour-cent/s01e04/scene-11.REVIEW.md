@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Clémentine! What are you doing here?' The long question phrase after Clémentine's name is the everyday spoken way to ask 'what'.
-- 'I have to do this in order to heal.' The first verb means 'must' or 'have to', and the linking word before 'heal' means 'in order to'.
+- 'I have to do this in order to heal.' The first action word means 'must' or 'have to', and the linking word before 'heal' means 'in order to'.
 - 'Okay, but another time!' Andréa desperately wants to get rid of her before Colette hears too much.
 - 'You're a monster of seduction.' Clémentine is an actress, and she delivers her speech as if she were on stage.
-- 'Clémentine, listen.' A casual command for one person, with no pronoun.
-- 'You devoured me like a hyena!' The past verb form has an extra feminine letter at the end because the object word before the helping verb refers to Clémentine.
-- 'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helping verb in the past.
+- 'Clémentine, listen.' A casual command for one person, dropping the word for 'you'.
+- 'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word before the auxiliary refers to Clémentine.
+- 'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past.
 - 'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things used to be.
 - 'And you asked your assistant to break up with me!' Listeners who remember the first episode know that this is completely true: Andréa made poor Camille do it.
 - 'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word.

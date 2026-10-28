@@ -34,7 +34,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Madam.' The polite form of address used by a servant speaking to a noblewoman in the film."),
-    (1, None, "'No! I don't believe it!' Julie breaks character and pulls away as JoeyStarr shoves her into the hedge. The little pronoun before the verb means 'in it'."),
+    (1, None, "'No! I don't believe it!' Julie breaks character and pulls away as JoeyStarr shoves her into the hedge."),
     (2, None, "'Cut! What is going on?' Director Samir rushes over from his monitor. Literally 'what is it that passes itself?'."),
     (3, None, "'He pushes her into the bushes.' Julie complains that the script calls for a passionate embrace, not a rough shove."),
     (4, None, "'Are you made of glass?' Literally 'are you in glass?'. Notice how the two stars use the formal 'you' even while arguing."),

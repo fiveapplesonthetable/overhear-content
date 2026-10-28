@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The American producers are asking questions.' Gabriel warns of incoming scrutiny. The descriptive adjective for 'American' agrees in gender and number with its noun.
-- 'Do they think that Isabelle cheated?' Andrea inquires about the gravity of the doubts. In everyday spoken French, rising intonation on 'think' at the end is enough to turn the sentence into a question.
-- 'They saw the night shoot.' Gabriel explains that the concurrent production was witnessed. Notice how 'have' leads directly into the noun meaning 'shoot'.
-- 'Isabelle was at her son's wedding!' Andrea points to the confirmed family event. Dropping the subject pronoun turns the verb for 'was' into a direct, punchy command.
-- 'This is a huge misunderstanding.' Gabriel emphasizes that everything is innocent. The verb meaning 'acts' pairs naturally with the noun for 'misunderstanding' in everyday conversation.
-- 'Cedric Kahn used a double.' Andrea presents their primary narrative defense. Notice how 'has' leads directly into the noun meaning 'double'.
-- 'A stand-in to create a ghost.' Gabriel explains the directorial motive. Notice how 'to create' leads directly into the noun meaning 'stand-in'.
-- 'It is a poetic, surrealist idea!' Andrea sells the artistic rationale with passion. The adjective meaning 'poetic' takes its feminine form here to match the noun it describes.
-- 'In France, we have ideas.' Gabriel quotes a famous French aphorism. Notice how 'have' leads directly into the noun meaning 'ideas'.
-- 'The Americans want to see footage.' Andrea states the demands of the foreign partners. The verb meaning 'want' pairs naturally with the noun for 'footage' in everyday conversation.
-- 'The first cut is in the office.' Gabriel points toward the projection room. The key noun here means 'cut', anchored by its matching French article.
-- 'Let us go show them this fine film.' Andrea leads the delegation forward boldly. The verb meaning 'let us go' pairs naturally with the noun for 'film' in everyday conversation.
-- 'Let us hope the result is convincing.' Gabriel tempers enthusiasm with realism. The descriptive adjective for 'convincing' agrees in gender and number with its noun.
-- 'Our agency will save this important project.' Andrea rallies her fellow agent. The verb meaning 'will save' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'The American producers are asking questions.' Gabriel warns of incoming scrutiny.
+- 'Do they think that Isabelle cheated?' Andrea inquires about the gravity of the doubts.
+- 'They saw the night shoot.' Gabriel explains that the concurrent production was witnessed.
+- 'Isabelle was at her son's wedding!' Andrea points to the confirmed family event.
+- 'This is a huge misunderstanding.' Gabriel emphasizes that everything is innocent.
+- 'Cedric Kahn used a double.' Andrea presents their primary narrative defense.
+- 'A stand-in to create a ghost.' Gabriel explains the directorial motive.
+- 'It is a poetic, surrealist idea!' Andrea sells the artistic rationale with passion.
+- 'In France, we have ideas.' Gabriel quotes a famous French aphorism.
+- 'The Americans want to see footage.' Andrea states the demands of the foreign partners.
+- 'The first cut is in the office.' Gabriel points toward the projection room.
+- 'Let us go show them this fine film.' Andrea leads the delegation forward boldly.
+- 'Let us hope the result is convincing.' Gabriel tempers enthusiasm with realism.
+- 'Our agency will save this important project.' Andrea rallies her fellow agent.

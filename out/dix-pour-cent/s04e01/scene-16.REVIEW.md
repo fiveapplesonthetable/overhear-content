@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Charlotte, how are you since this accident?' Oscar expresses genuine concern for his childhood friend. The verb meaning 'are you doing' pairs naturally with the noun for 'mishap' in everyday conversation.
-- 'It is awful, I slipped outside.' Charlotte plays up her dramatic distress. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'How did you manage to slip?' Oscar wonders how such an athletic actress lost her footing. This conversational past tense combines a helper verb with the past verb form for 'manage'.
-- 'I slipped on a banana peel!' She offers the most ridiculous excuse imaginable. Notice how 'I have' leads directly into the noun meaning 'skin'.
-- 'But that only happens in cartoons!' Oscar reacts with incredulous laughter at the bizarre explanation. Dropping the subject pronoun turns the verb for 'happens' into a direct, punchy command.
-- 'A real nuisance, these banana peels!' Paco jumps in to support Charlotte's absurd story. The key noun here means 'nuisance', anchored by its matching French article.
-- 'I have a great idea for the film.' Oscar attempts to salvage the production despite her injury. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'Your character will have telekinesis powers!' He proposes turning the heroine into a psychic superhero. Dropping the subject pronoun turns the verb for 'will have' into a direct, punchy command.
-- 'Oscar, that is truly not believable.' Charlotte gently shoots down the farfetched revision. Notice how the short vowel drops before a vowel sound around 'is not', making the phrase flow smoothly as one unit.
-- 'We must speak to each other frankly.' She decides to break through the comical deception. Notice how 'must' leads directly into the noun meaning 'frankness'.
-- 'You are right, this shoot was absurd.' Oscar concedes that the sci-fi project was ill-conceived. The verb meaning 'have' pairs naturally with the noun for 'right' in everyday conversation.
-- 'I am preparing a beautiful animated film now.' He pitches a project better suited to his artistic voice. Notice how the short vowel drops before a vowel sound around 'prepare', making the phrase flow smoothly as one unit.
-- 'Do you want to be my heroine's voice?' Oscar offers her the leading voiceover role. The verb meaning 'do you want' pairs naturally with the noun for 'voice' in everyday conversation.
-- 'Yes, I will read your script with joy!' Charlotte enthusiastically accepts the creative partnership. Notice how 'will read' leads directly into the noun meaning 'screenplay'. Now let's hear the whole conversation again.
+- 'Charlotte, how are you since this accident?' Oscar expresses genuine concern for his childhood friend.
+- 'It is awful, I slipped outside.' Charlotte plays up her dramatic distress.
+- 'How did you manage to slip?' Oscar wonders how such an athletic actress lost her footing.
+- 'I slipped on a banana peel!' She offers the most ridiculous excuse imaginable.
+- 'But that only happens in cartoons!' Oscar reacts with incredulous laughter at the bizarre explanation.
+- 'A real nuisance, these banana peels!' Paco jumps in to support Charlotte's absurd story.
+- 'I have a great idea for the film.' Oscar attempts to salvage the production despite her injury.
+- 'Your character will have telekinesis powers!' He proposes turning the heroine into a psychic superhero.
+- 'Oscar, that is truly not believable.' Charlotte gently shoots down the farfetched revision.
+- 'We must speak to each other frankly.' She decides to break through the comical deception.
+- 'You are right, this shoot was absurd.' Oscar concedes that the sci-fi project was ill-conceived.
+- 'I am preparing a beautiful animated film now.' He pitches a project better suited to his artistic voice.
+- 'Do you want to be my heroine's voice?' Oscar offers her the leading voiceover role.
+- 'Yes, I will read your script with joy!' Charlotte enthusiastically accepts the creative partnership. Now listen to the whole scene again at normal speed, and see how much more you catch.

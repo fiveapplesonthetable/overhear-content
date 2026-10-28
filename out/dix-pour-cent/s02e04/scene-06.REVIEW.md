@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you okay? You seemed tense.' Gabriel checks in on his visibly agitated colleague.
-- 'I cannot stand his orders.' Andréa explains that she rebels instinctively against Hicham's bossy attitude.
+- 'I cannot stand his orders.' Andrea explains that she rebels instinctively against Hicham's bossy attitude.
 - 'He cannot fire us.' Gabriel reminds her that their client relationships make them irreplaceable at the agency.
-- 'I will not bow down.' Andréa refuses to flatter the boss or show weakness.
+- 'I will not bow down.' Andrea refuses to flatter the boss or show weakness.
 - 'Is it because of Aymeline Val?' Gabriel suspects the tension relates to their shared client Aymeline.
 - 'Is he dating her?' Gabriel bluntly asks if Hicham scored with the model.
-- 'We spent the evening together.' Andréa reveals that she and Hicham had a three-way encounter.
+- 'We spent the evening together.' Andrea reveals that she and Hicham had a three-way encounter.
 - 'No, that is not true!' Gabriel reacts with sheer astonishment and shock.
-- 'It was a mistake, he provoked me.' Andréa rationalizes the incident as a competitive reaction after being challenged.
-- 'You sleep with men now?' Gabriel playfully teases Andréa about her sudden departure from her usual dating preferences.
-- 'No, it was a tiny exception.' Andréa insists the one-night stand was completely out of character.
+- 'It was a mistake, he provoked me.' Andrea rationalizes the incident as a competitive reaction after being challenged.
+- 'You sleep with men now?' Gabriel playfully teases Andrea about her sudden departure from her usual dating preferences.
+- 'No, it was a tiny exception.' Andrea insists the one-night stand was completely out of character.
 - 'So, what was it like with Hicham?' Gabriel cannot resist probing for funny personal details.
-- 'It was very heavy and hairy!' Andréa's candid summary leaves Gabriel in stitches.
+- 'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, did you have a good time?' Herve eagerly questions Camille about her lunch. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'Yes, our lunch was really great.' Camille happily confirms the success of the meeting. The verb meaning 'was' pairs naturally with the noun for 'lunch' in everyday conversation.
-- 'What did he want to talk to you about?' Herve fishes for confidential business details. The short 'self' word sits right in front of the verb for 'wanted', turning the action back onto the subject.
-- 'He wanted to get to know me.' Camille describes their casual introductory conversation. The clause hinges on the everyday verb meaning 'wanted'.
-- 'Nothing more professional or secret?' Herve suspects that he is hiding deeper agency politics. The descriptive adjective for 'professional' agrees in gender and number with its noun.
-- 'He really appreciates my direct frankness.' Camille highlights his praise for her honesty. The adjective meaning 'direct.' takes its feminine form here to match the noun it describes.
-- 'And afterwards, what happened?' Herve leans in expecting juicy romantic gossip. This conversational past tense combines a helper verb with the past verb form for 'happened?'.
-- 'We ended up in the restrooms!' Camille deadpans an outrageous scandalous lie. The verb meaning 'have' pairs naturally with the noun for 'restrooms!' in everyday conversation.
-- 'What? That is not possible!' Herve reacts with absolute shock and horror. The descriptive adjective for 'possible!' agrees in gender and number with its noun.
-- 'Look at your face, I am only joking!' Camille bursts into laughter at his gullible reaction. The informal 'you' form around 'look at' marks a direct, personal relationship.
-- 'You scared me so much!' Herve breathes a sigh of relief after the joke. Herve uses the casual singular 'you' with 'have', showing close familiarity.
-- 'He simply listens to my useful advice.' Camille reveals that he truly values her perspective. Notice how 'listens to' leads directly into the noun meaning 'opinions'.
-- 'That is excellent news for you.' Herve congratulates her on earning his genuine respect. The adjective meaning 'excellent' takes its feminine form here to match the noun it describes.
-- 'Now, I am taking a short nap!' Camille rests her head on her desk to recharge. The adjective meaning 'little' takes its feminine form here to match the noun it describes.
+- 'So, did you have a good time?' Herve eagerly questions Camille about her lunch.
+- 'Yes, our lunch was really great.' Camille happily confirms the success of the meeting.
+- 'What did he want to talk to you about?' Herve fishes for confidential business details.
+- 'He wanted to get to know me.' Camille describes their casual introductory conversation.
+- 'Nothing more professional or secret?' Herve suspects that he is hiding deeper agency politics.
+- 'He really appreciates my direct frankness.' Camille highlights his praise for her honesty.
+- 'And afterwards, what happened?' Herve leans in expecting juicy romantic gossip.
+- 'We ended up in the restrooms!' Camille deadpans an outrageous scandalous lie.
+- 'What? That is not possible!' Herve reacts with absolute shock and horror.
+- 'Look at your face, I am only joking!' Camille bursts into laughter at his gullible reaction.
+- 'You scared me so much!' Herve breathes a sigh of relief after the joke.
+- 'He simply listens to my useful advice.' Camille reveals that he truly values her perspective.
+- 'That is excellent news for you.' Herve congratulates her on earning his genuine respect.
+- 'Now, I am taking a short nap!' Camille rests her head on her desk to recharge.

@@ -48,10 +48,10 @@ WALK = [
     (8, 'Celui de Canet, par exemple?', "'Canet's, for example?' The first word means 'the one', so it's 'the one of Canet'. That's the contract Andréa asked about, and Noémie sees straight through it."),
     (9, None, "'No, no, no! That's impossible.' The triple no says everything."),
     (10, None, "'He doesn't let anyone see his contracts.' This time the negative pairs with the word for 'nobody'. So you have now heard 'not', 'nothing' and 'nobody', all built the same way. Just then, Gabriel bursts in."),
-    (11, None, "'Where's the traitor? Where's the mole?' A mole is the spy inside a company, in French just as in English. Notice the first noun is masculine and the second feminine, although both mean a person."),
+    (11, None, "'Where's the traitor? Where's the mole?' A mole is the spy inside a company, in French just as in English."),
     (12, None, "'What's going on?' A fixed phrase you'll hear constantly, worth learning as one block."),
     (13, None, "'Someone told Cécile she was too old for the part.' The verb for 'told' is in the past, and 'she was' uses the past tense for describing. Camille says nothing. She is the someone, though Gabriel doesn't know it."),
     (14, None, "'She's gone! She's left me.' Two past forms: the first is built with the verb 'to be', because it's about leaving a place, and the second with 'to have'. Gabriel is heartbroken, and paranoid too: he grabs a colleague and accuses them of working for a rival agency."),
     (15, None, "'Yes, Mathias? Of course.' Noémie's phone rings and her voice turns soft. Her boss is calling."),
-    (16, None, "'He wants the number of Miranda Jones, Tarantino's producer.' Again the owner comes after the word for 'of'. Mathias wants to meet the woman who turned Cécile down, and Noémie gets to work at once. Now the whole scene again, from the top. Now listen to the whole conversation one more time."),
+    (16, None, "'He wants the number of Miranda Jones, Tarantino's producer.' Again the owner comes after the word for 'of'. Mathias wants to meet the woman who turned Cécile down, and Noémie gets to work at once."),
 ]

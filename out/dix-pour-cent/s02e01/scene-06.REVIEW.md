@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'That is the director of StarMédia with Samuel Kerr\'s wife.' Arlette recognizes their bitter competitor holding a private lunch.
 - 'She is cheating on Ramzy? That is not possible.' Gabriel is shocked by the tabloid headline about their star couple.
-- 'She is leaving him? Couple dramas are just my luck.' Noémie remarks on the constant relationship trouble at the agency.
+- 'She is leaving him? Couple dramas are just my luck.' Noemie remarks on the constant relationship trouble at the agency.
 - 'Do we know who the guy in the photo is?' Gabriel tries to identify the mystery lover in the blurry picture.
-- 'Five feet nine, quite hairy, nice rear... Is it you, Gabriel?' Noémie jokes that the physical description matches Gabriel.
+- 'Five feet nine, quite hairy, nice rear... Is it you, Gabriel?' Noemie jokes that the physical description matches Gabriel.
 - 'A breakup during the film release is bad for us.' Gabriel points out that bad personal publicity hurts box office sales.
-- 'On the contrary, it will create buzz! It is spicy!' Noémie argues that scandal attracts media attention.
+- 'On the contrary, it will create buzz! It is spicy!' Noemie argues that scandal attracts media attention.
 - 'Noémie! I am talking about image, not buzz.' Gabriel insists that prestige and trust matter more than gossip.
-- 'If they break up now, it is a disaster for the film.' Gabriel pairs the verb meaning 'separate' with the noun for 'flop.'.
+- 'If they break up now, it is a disaster for the film.' Gabriel worries that the breakup will cause their new movie to flop.
 - 'That is the last thing we needed! Everything is going wrong this morning.' Arlette announces that an even bigger crisis is brewing.
 - 'What do you mean? What is happening?' Gabriel asks for clarification about her warning.
-- 'I just saw François Bréhier with Hélène Kerr at Mansart.' The key word here means 'come', paired with 'see' to make the point clear.
-- 'He wants to buy us out? He is our biggest rival!' Noémie expresses immediate alarm at StarMédia acquiring their shares.
-- 'Bréhier is a scavenger. He would do anything to sink us.' Arlette pairs the verb meaning 'is' with the noun for 'scavenger.'.
+- 'I just saw François Bréhier with Hélène Kerr at Mansart.' The construction venir de followed by an infinitive indicates a recent action.
+- 'He wants to buy us out? He is our biggest rival!' Noemie expresses immediate alarm at StarMedia acquiring their shares.
+- 'Bréhier is a scavenger. He would do anything to sink us.' Arlette calls rival agent Bréhier a scavenger who preys on their crises.

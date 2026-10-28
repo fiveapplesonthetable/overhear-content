@@ -34,9 +34,9 @@ STORY = [
     ('audrey', 'Allez, profite bien du tournage. Bonne chance!', 'Come on, enjoy the shoot. Good luck!', [(604, 'Allez, profite bien du tournage'), (605, 'Bonne chance')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, come in. Are you Pauline Adam?' Both verbs are in the polite form for a stranger. The young woman corrects her."),
-    (1, None, "'No. Armelle Borzek.' In this moment, Audrey doesn't recognise the name."),
-    (2, None, "'Did you change your name?' Literally 'you have changed of name', in the past tense. Armelle bursts out."),
+    (0, None, "'Hello, come in. Are you Pauline Adam?' Both action words are in the polite form for a stranger. The young woman corrects her."),
+    (1, None, "'No. Armelle Borzek.' Here, Audrey doesn't recognise the name."),
+    (2, None, "'Did you change your name?' Literally 'you have changed of name', in the past. Armelle bursts out."),
     (3, None, "'I trained for months.' A reflexive verb in the past, built with 'to be', so the ending takes a feminine letter for Armelle."),
     (4, None, "'Wait, I haven't started the interview.' Audrey still thinks this is about looking after her children. Then Armelle holds out her hands."),
     (5, None, "'Look at my blisters! Touch my hands.' Two polite commands. Her palms are raw from months on the metal pole. Mathias steps in."),

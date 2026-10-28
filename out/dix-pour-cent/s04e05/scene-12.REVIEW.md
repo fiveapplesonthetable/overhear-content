@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I like your movie project very much.' Bernard shares his initial artistic interest. Bernard uses the polite 'you' form alongside 'like' to keep a respectful professional tone.
-- 'It is an honour to act with you.' Sigourney pays polite respect to her French colleague. Notice how 'act' leads directly into the noun meaning 'honour'.
-- 'But I have a very strict condition.' Bernard introduces his personal working constraint. Notice how 'have' leads directly into the noun meaning 'condition'.
-- 'Oh yes? Which one, dear Bernard?' Sigourney reacts with friendly attentiveness. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
-- 'I count all my steps.' Bernard monitors his physical output closely on set. The verb meaning 'count' pairs naturally with the noun for 'steps' in everyday conversation.
-- 'No more than fifteen steps per scene!' Bernard states his firm contractual limitation. The key noun here means 'steps', anchored by its matching French article.
-- 'Really? And for the dance scene?' Sigourney questions how his rule applies to their choreography. In everyday spoken French, rising intonation on 'scene' at the end is enough to turn the sentence into a question.
-- 'A slow dance, very calm, I hope.' Bernard assumes their performance will be low-energy. The verb meaning 'hope' pairs naturally with the noun for 'dance' in everyday conversation.
-- 'No, I chose the lindy hop!' Sigourney reveals that she updated the dance to swing jazz. This conversational past tense combines a helper verb with the past verb form for 'chosen'.
-- 'The lindy hop? That is very fast!' Bernard worries about the intense physical exertion. The key noun here means 'Lindy Hop', anchored by its matching French article.
-- 'Look, I am going to show you.' Sigourney offers a live demonstration right in the dining room. French forms the near future by pairing the present tense of 'to go' directly with 'show'.
-- 'But what are you doing?' Bernard gasps as Sigourney hops energetically across the floor. The clause hinges on the everyday verb meaning 'are doing'.
-- 'Dance with me, it is wonderful!' Sigourney invites him to share her joy of movement. Dropping the subject pronoun turns the verb for 'dance' into a direct, punchy command.
-- 'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota. The key noun here means 'steps', anchored by its matching French article.
+- 'I like your movie project very much.' Bernard shares his initial artistic interest.
+- 'It is an honour to act with you.' Sigourney pays polite respect to her French colleague.
+- 'But I have a very strict condition.' Bernard introduces his personal working constraint.
+- 'Oh yes? Which one, dear Bernard?' Sigourney reacts with friendly attentiveness.
+- 'I count all my steps.' Bernard monitors his physical output closely on set.
+- 'No more than fifteen steps per scene!' Bernard sets a strict limit on how much he will walk in each scene.
+- 'Really? And for the dance scene?' Sigourney questions how his rule applies to their choreography.
+- 'A slow dance, very calm, I hope.' Bernard assumes their performance will be low-energy.
+- 'No, I chose the lindy hop!' Sigourney reveals that she updated the dance to swing jazz.
+- 'The lindy hop? That is very fast!' Bernard worries about the intense physical exertion.
+- 'Look, I am going to show you.' Sigourney offers a live demonstration right in the dining room.
+- 'But what are you doing?' Bernard gasps as Sigourney hops energetically across the floor.
+- 'Dance with me, it is wonderful!' Sigourney invites him to share her joy of movement.
+- 'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota.

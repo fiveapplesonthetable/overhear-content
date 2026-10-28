@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let go of me!' An informal command with 'me' attached by a hyphen: you always talk to a dog with the casual 'you'.
 - 'Jean Gabin, stop it! He bites traitors' legs!' Arlette calls her dog off, though she's secretly proud of him.
 - 'You're leaving the agency, is that it?' The little tag at the end, literally 'it's that?', asks for confirmation.
-- 'I was going to tell you.' The verb 'to go' in the past tense plus an infinitive gives 'was going to'. Both pronouns 'to you' and 'it' sit before the verb.
+- 'I was going to tell you.' The action word 'to go' in the past plus a basic action word gives 'was going to'. Both short words 'to you' and 'it' sit right before the action word.
 - 'It's nothing personal. The agency can't go on like this.' Notice how 'nothing' takes an adjective after the little word for 'of'.
 - 'If you leave with your actors, we're going to court!' Andréa threatens legal action.
 - 'I'm within my rights. I'm leaving at the end of the month.' French uses the present tense very naturally for a fixed plan in the near future.

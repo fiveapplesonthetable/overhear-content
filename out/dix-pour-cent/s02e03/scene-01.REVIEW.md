@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are we on time for the exam?' The key word here means 'is', paired with 'test' to make the point clear.
-- 'We must hurry, it is far.' The verb meaning 'is necessary' anchors the whole remark.
-- 'Do not worry, breathe deeply.' A reassuring negative command form paired with a regular verb.
-- 'It is useless to be tense.' The verb meaning 'serves' anchors the whole remark.
-- 'You forgot to initial this sheet.' A compound past verb governing an infinitive.
-- 'Wait, here, it is good now.' A series of short conversational particles confirming completion.
-- 'Very good, we go anyway.' An encouraging adverbial opener with an idiomatic motion verb.
+- 'Are we on time for the exam?' An interrogative phrase inquiring about their schedule.
+- 'We must hurry, it is far.' An impersonal expression of necessity followed by distance.
+- 'Do not worry, breathe deeply.' Gabriel tells Norman soothingly not to worry and to take a deep breath.
+- 'It is useless to be tense.' A colloquial idiom expressing futility.
+- 'You forgot to initial this sheet.' Gabriel points out a page of the contract that Norman forgot to initial.
+- 'Wait, here, it is good now.' Norman quickly initials the sheet and says it is all set now.
+- 'Very good, we go anyway.' Gabriel encourages Norman and leads him inside anyway.
 - 'Good luck for your driving license.' A classic wish of success specifying the driver's test.
 - 'Thank you Gabriel, I am a bit stressed.' A courteous thanks followed by an adjective of emotional state.
-- 'Do I continue straight ahead?' A standard question form formula asking for directional guidance.
+- 'Do I continue straight ahead?' A standard interrogative formula asking for directional guidance.
 - 'Norman, you must shift into second gear.' An impersonal modal verb followed by an ordinal gear number.
-- 'Watch out, that is fifth gear!' Gabriel pairs the verb meaning 'is' with the noun for 'car gear'.
-- 'Do not press on the brake and the accelerator.' The key word here means 'press', paired with 'gas pedal' to make the point clear.
+- 'Watch out, that is fifth gear!' An exclamatory warning pointing out a mechanical error.
+- 'Do not press on the brake and the accelerator.' A negative imperative commanding pedal coordination.
 - 'All right, I am breathing calmly.' An agreement token followed by an adverbial description of composure.

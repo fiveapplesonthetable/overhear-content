@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Herve, I must confess everything.' Camille prepares to reveal the agency secret. The clause hinges on the everyday verb meaning 'must'.
-- 'Go ahead, I am on standby.' Herve tells her he is ready to listen. The clause hinges on the everyday verb meaning 'go ahead'.
-- 'You know our client Philippe?' Camille brings up their mystery assignment. In everyday spoken French, rising intonation on 'know' at the end is enough to turn the sentence into a question.
-- 'Yes, our famous mysterious client.' Herve remembers the anonymous contract. The key noun here means 'client', anchored by its matching French article.
-- 'Philippe, in fact, is Mathias.' Camille delivers the shocking truth. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'What? That is not possible!' Herve reacts with utter bewilderment. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'It is the pure truth, Herve.' Camille confirms that she is telling the truth. The adjective meaning 'pure' takes its feminine form here to match the noun it describes.
-- 'Mathias hired us?' Herve cannot believe their senior partner used them. This conversational past tense combines a helper verb with the past verb form for 'hired'.
-- 'He was preparing his big departure.' Camille explains Mathias's secret motive. The verb meaning 'was preparing' pairs naturally with the noun for 'departure' in everyday conversation.
-- 'He manipulated us completely!' Herve feels exploited by the deception. The clause hinges on the everyday verb meaning 'has'.
-- 'He had confidence in us.' Camille interprets Mathias's actions as a sign of trust. The verb meaning 'had' pairs naturally with the noun for 'confidence' in everyday conversation.
-- 'Everything makes sense now.' Herve finally understands the strange clues. The clause hinges on the everyday verb meaning 'explains itself'.
-- 'We must keep the secret.' Camille urges discretion between the two assistants. The verb meaning 'must' pairs naturally with the noun for 'secret' in everyday conversation.
-- 'This agency is completely crazy!' Herve marvels at the daily drama of ASK. The key noun here means 'agency', anchored by its matching French article.
+- 'Herve, I must confess everything.' Camille prepares to reveal the agency secret.
+- 'Go ahead, I am on standby.' Herve tells her he is ready to listen.
+- 'You know our client Philippe?' Camille brings up their mystery assignment.
+- 'Yes, our famous mysterious client.' Herve remembers the anonymous contract.
+- 'Philippe, in fact, is Mathias.' Camille delivers the shocking truth.
+- 'What? That is not possible!' Herve reacts with utter bewilderment.
+- 'It is the pure truth, Herve.' Camille confirms that she is telling the truth.
+- 'Mathias hired us?' Hervé cannot believe that the senior partners hired them.
+- 'He was preparing his big departure.' Camille explains Mathias's secret motive.
+- 'He manipulated us completely!' Herve feels exploited by the deception.
+- 'He had confidence in us.' Camille interprets Mathias's actions as a sign of trust.
+- 'Everything makes sense now.' Herve finally understands the strange clues.
+- 'We must keep the secret.' Camille urges discretion between the two assistants.
+- 'This agency is completely crazy!' Herve marvels at the daily drama of ASK.

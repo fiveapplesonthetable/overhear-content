@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Pardon sir, excuse me.' Andrea calls the waiter to her table. Notice how 'excuse me' leads directly into the noun meaning 'excuse me'.
-- 'Yes madam, what would you like?' The waiter responds with professional courtesy. The verb meaning 'do you desire' pairs naturally with the noun for 'madam' in everyday conversation.
-- 'Can I order another coffee?' Andrea asks for another drink while waiting. Notice how 'can' leads directly into the noun meaning 'coffee'.
-- 'Of course, I bring it to you immediately.' The waiter confirms the second cup. the waiter uses the polite 'you' form alongside 'bring' to keep a respectful professional tone.
-- 'Have you seen Nathalie Baye today?' Andrea checks whether her actress has arrived. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'Nathalie Baye? No, not at all.' The waiter clarifies that he has not spotted her. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'But Catherine Deneuve is seated over there!' The waiter points out a playful illusion. This conversational past tense combines a helper verb with the past verb form for 'seated'.
-- 'Really? Where in the room?' Andrea takes the bait for a brief moment. In everyday spoken French, rising intonation on 'room' at the end is enough to turn the sentence into a question.
-- 'I am joking, it was a little joke!' The waiter laughs at his own jest. Notice how 'am joking' leads directly into the noun meaning 'joke'.
-- 'Great, I do not have time to laugh.' Andrea shows her impatience under pressure. The descriptive adjective for 'great' agrees in gender and number with its noun.
-- 'Hello Gabriel? Where did Nathalie go?' Andrea checks in by phone. Notice how 'gone' leads directly into the noun meaning 'hello'.
-- 'Mathias took her directly to the agency!' Andrea learns of Mathias's tactical maneuver. The verb meaning 'has' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'Madam, here is your hot fresh coffee!' The waiter delivers the cup as she rises. The formal 'you' pronoun sets a courteous, professional distance around 'madam'.
-- 'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm. Dropping the subject pronoun turns the verb for 'give it' into a direct, punchy command.
+- 'Pardon sir, excuse me.' Andrea calls the waiter to her table.
+- 'Yes madam, what would you like?' The waiter responds with professional courtesy.
+- 'Can I order another coffee?' Andrea asks for another drink while waiting.
+- 'Of course, I bring it to you immediately.' The waiter confirms the second cup.
+- 'Have you seen Nathalie Baye today?' Andrea checks whether her actress has arrived.
+- 'Nathalie Baye? No, not at all.' The waiter clarifies that he has not spotted her.
+- 'But Catherine Deneuve is seated over there!' The waiter points out a playful illusion.
+- 'Really? Where in the room?' Andrea takes the bait for a brief moment.
+- 'I am joking, it was a little joke!' The waiter laughs at his own jest.
+- 'Great, I do not have time to laugh.' Andrea shows her impatience under pressure.
+- 'Hello Gabriel? Where did Nathalie go?' Andrea checks in by phone.
+- 'Mathias took her directly to the agency!' Andrea learns of Mathias's tactical maneuver.
+- 'Madam, here is your hot fresh coffee!' The waiter delivers the cup as she rises.
+- 'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm.

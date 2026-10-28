@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you doing well, my dear Gabriel?' Arlette gently checks in on her troubled colleague. Arlette opens with the word for 'are doing' and lands on 'dear' at the close.
-- 'It is great for Sofia's movie.' Gabriel acknowledges the artistic breakthrough for his partner. Gabriel pairs the verb meaning 'it is' with the noun for 'movie'.
-- 'Since their meeting, Sofia is radiant.' Arlette notices the actress's vibrant artistic energy. Notice how the verb for 'is' leads straight into 'meeting'.
-- 'I think that I am jealous!' Gabriel candidly confesses his private insecurity to the veteran agent. Listen for the expression meaning 'think', which leads naturally into 'jealous'.
-- 'I am no longer so sure.' He second-guesses the wisdom of setting up the collaboration. The adverb meaning 'not' sharpens the verb for 'am' here.
-- 'The script is a bit vulgar.' He rationalizes his personal jealousy by criticizing the screenplay. The adjective meaning 'vulgar' agrees in gender and number with masculine noun 'screenplay'.
-- 'You know this business very well.' Arlette reminds him of the realities of the film industry. The key word here means 'know', paired with 'job' to make the point clear.
-- 'We sell desire in cinema.' The senior agent explains that dramatic art thrives on emotional chemistry. Notice how the verb for 'sell' leads straight into 'cinema'.
-- 'Julien likes pretty women a lot.' Gabriel voices his anxiety about the charismatic musician's reputation. The adjective meaning 'pretty' agrees in gender and number with feminine noun 'women'.
-- 'I do not want any trouble.' The protective agent fears emotional heartbreak in his personal life. The adverb meaning 'not' sharpens the verb for 'want' here.
-- 'There must be desire between artists.' Arlette insists that creative passion requires genuine mutual attraction. Arlette opens with the word for 'is necessary' and lands on 'artists' at the close.
-- 'Let her live her own life.' She counsels Gabriel to avoid suffocating his talented girlfriend. The key word here means 'let her', paired with 'life' to make the point clear.
-- 'Trust her above all.' The veteran agent offers timeless wisdom on loving an artist. The adverb meaning 'above all' sharpens the verb for 'give her' here.
-- 'She will love you even more that way.' Arlette reassures him that respecting Sofia's independence strengthens love. Listen for the expression meaning 'will love', which leads naturally into 'like that'.
+- 'Are you doing well, my dear Gabriel?' Arlette gently checks in on her troubled colleague.
+- 'It is great for Sofia's movie.' Gabriel acknowledges the artistic breakthrough for his partner.
+- 'Since their meeting, Sofia is radiant.' Arlette notices the actress's vibrant artistic energy.
+- 'I think that I am jealous!' Gabriel candidly confesses his private insecurity to the veteran agent.
+- 'I am no longer so sure.' He second-guesses the wisdom of setting up the collaboration.
+- 'The script is a bit vulgar.' He rationalizes his personal jealousy by criticizing the screenplay.
+- 'You know this business very well.' Arlette reminds him of the realities of the film industry.
+- 'We sell desire in cinema.' The senior agent explains that dramatic art thrives on emotional chemistry.
+- 'Julien likes pretty women a lot.' Gabriel voices his anxiety about the charismatic musician's reputation.
+- 'I do not want any trouble.' The protective agent fears emotional heartbreak in his personal life.
+- 'There must be desire between artists.' Arlette insists that creative passion requires genuine mutual attraction.
+- 'Let her live her own life.' She counsels Gabriel to avoid suffocating his talented girlfriend.
+- 'Trust her above all.' The veteran agent offers timeless wisdom on loving an artist.
+- 'She will love you even more that way.' Arlette reassures him that respecting Sofia's independence strengthens love.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Camille! How are you doing?' Mathias welcomes his daughter into his apartment. Mathias uses the casual singular 'you' with 'go', showing close familiarity.
-- 'I am fine. Is Noemie not here?' Camille checks whether Mathias is currently alone. The adverb meaning 'there' gives the reply its conversational emphasis.
-- 'No. What is going on?' Mathias wonders what brings Camille to his home so unexpectedly. The standard spoken question formula at the front turns the statement about 'is going on' into a natural inquiry.
-- 'I am having problems at work.' Camille mentions that things have gone wrong at the agency. The verb meaning 'have' pairs naturally with the noun for 'problems' in everyday conversation.
-- 'I lost my first big contract.' Camille explains the loss of her promising book adaptation. This conversational past tense combines a helper verb with the past verb form for 'have'.
-- 'Do not worry, other contracts will come.' The verb meaning 'worry' pairs naturally with the noun for 'contracts' in everyday conversation.
-- 'But I wanted to talk to you about something else.' Camille steers the conversation toward a personal matter. The verb meaning 'wanted' pairs naturally with the noun for 'thing' in everyday conversation.
-- 'I thought about the paternity recognition.' Camille announces her willingness to make their bond official. Notice how 'have' leads directly into the noun meaning 'recognition'.
-- 'Really? What made you change your mind?' Mathias is pleasantly surprised by her change of heart. Notice how 'has' leads directly into the noun meaning 'mind'.
-- 'I want to do it, we resemble each other.' Camille notes their shared traits and personality. The clause hinges on the everyday verb meaning 'want'.
-- 'We can go to town hall tomorrow!' Mathias eagerly suggests making the declaration immediately. Notice how 'can' leads directly into the noun meaning 'town hall'.
-- 'Can we download the form now?' Camille suggests preparing the paperwork right away. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question.
-- 'You are right, sit down at my desk!' Mathias invites her to use his personal computer. This conversational past tense combines a helper verb with the past verb form for 'sit down'.
-- 'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment. The clause hinges on the everyday verb meaning 'toast'.
+- 'Hello Camille! How are you doing?' Mathias welcomes his daughter into his apartment.
+- 'I am fine. Is Noemie not here?' Camille checks whether Mathias is currently alone.
+- 'No. What is going on?' Mathias wonders what brings Camille to his home so unexpectedly.
+- 'I am having problems at work.' Camille mentions that things have gone wrong at the agency.
+- 'I lost my first big contract.' Camille explains the loss of her promising book adaptation.
+- 'Do not worry, other contracts will come.' Mathias tries to comfort her with professional optimism.
+- 'But I wanted to talk to you about something else.' Camille steers the conversation toward a personal matter.
+- 'I thought about the paternity recognition.' Camille announces her willingness to make their bond official.
+- 'Really? What made you change your mind?' Mathias is pleasantly surprised by her change of heart.
+- 'I want to do it, we resemble each other.' Camille notes their shared traits and personality.
+- 'We can go to town hall tomorrow!' Mathias eagerly suggests making the declaration immediately.
+- 'Can we download the form now?' Camille suggests preparing the paperwork right away.
+- 'You are right, sit down at my desk!' Mathias invites her to use his personal computer.
+- 'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment.

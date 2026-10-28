@@ -31,19 +31,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You have reached Mathias's voicemail.' A standard French greeting on an answering machine.
-- 'Leave a message after the beep.' An command form instruction using the linking word apres.
-- 'Mathias is still not answering.' Andréa opens with the word for 'answers' and lands on 'still' at the close.
+- 'Leave a message after the beep.' Mathias's voicemail greeting instructs callers to leave a message after the beep.
+- 'Mathias is still not answering.' Andréa sighs in frustration that Mathias is still not picking up his phone.
 - 'Hello, Hicham. I am sorry.' A polite opening apology addressed to her boss.
-- 'Last night, the situation was difficult.' The adverb meaning 'yesterday' sharpens the verb for 'was' here.
+- 'Last night, the situation was difficult.' Andréa explains that the situation with Fabrice Luchini was difficult the night before.
 - 'The honeymoon is over.' A metaphor announcing the end of good relations.
-- 'Take your things and go away.' Two commands ordering immediate departure.
-- 'Stop it, Hicham, be reasonable.' An command form followed by the special verb form form of etre.
-- 'There are limits here.' The key word here means 'are', paired with 'here' to make the point clear.
+- 'Take your things and go away.' Hicham snaps and orders Andréa to pack her things and get out.
+- 'Stop it, Hicham, be reasonable.' An imperative followed by the subjunctive form of etre.
+- 'There are limits here.' Hicham warns the partners that there are limits to what he will tolerate here.
 - 'We are not animals.' A formal first-person plural negative statement.
-- 'What more do you want?' Listen for the expression meaning 'want', which leads naturally into 'more'.
-- 'Go home now.' The adverb meaning 'now' sharpens the verb for 'go home' here.
-- 'You cannot fire me!' Andréa opens with the word for 'can' and lands on 'fire' at the close.
-- 'And why not?' Listen for the expression meaning 'why', which leads naturally into 'why'.
+- 'What more do you want?' An idiomatic question with de plus meaning further.
+- 'Go home now.' Furious at her rebellion, Hicham orders Andréa to go home at once.
+- 'You cannot fire me!' Andréa shoots back that he cannot fire a founding partner of the agency.
+- 'And why not?' Hicham challenges her to say why he cannot dismiss her.
 - 'I am a partner in the agency.' The feminine noun associee referring to her partnership status.
-- 'I am the majority shareholder.' Hicham pairs the verb meaning 'am' with the noun for 'the shareholder'.
-- 'Leave your computer and your files.' An command form followed by possessive determiners.
+- 'I am the majority shareholder.' Hicham reminds her that he owns the majority of ASK's shares.
+- 'Leave your computer and your files.' An imperative followed by possessive determiners.

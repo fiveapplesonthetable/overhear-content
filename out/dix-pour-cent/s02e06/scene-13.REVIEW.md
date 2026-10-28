@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Juliette, I am with Jean-Denis Gillières.' Andréa calls her client from the hotel lobby. The prepositional phrase identifies the powerful media mogul beside her.
-- 'He wants to see you right away.' Andréa asks if the businessman can come up. The adverbial locution indicates urgency.
-- 'No, I beg you, not him!' Juliette pleads with her agent to keep him away. The emphatic negative interjection conveys intense dread.
-- 'I do not want to see him.' She firmly refuses any meeting with him. The negative verb construction expresses clear refusal.
-- 'He is so tiresome!' Juliette explains how intrusive his unwanted attention has been. The intensifying adverb heightens her exasperation.
-- 'He does not understand the word no.' Juliette points out his persistent boundary crossing. The direct object noun quotes her explicit refusal.
-- 'Understood, I am taking care of it.' Andréa steps in to shield her celebrity client. The pronominal verb guarantees discreet management of the problem.
-- 'Juliette is truly sorry, sir.' Andréa returns to Gillières with a diplomatic excuse. The adverb meaning 'truly' sharpens the verb for 'is' here.
-- 'She is rehearsing her important speech.' Andréa invents an urgent professional excuse for Juliette's absence. The transitive verb explains her schedule conflict.
-- 'I adore intelligent women!' Gillières expresses admiring condescension toward the actress. The plural noun phrase reflects his vanity.
-- 'She is preparing her first film.' Andréa mentions Juliette's directing aspirations to steer the conversation. The ordinal adjective specifies her directorial debut.
-- 'Let us have lunch on my boat on Monday.' Gillières proposes an exclusive meeting on his yacht. Jean-Denis uses the command form form for 'let us have lunch' together with the word for 'on Monday'.
-- 'It will be calm and very pleasant.' The wealthy mogul promises a secluded setting. The future copula introduces coordinating predicate adjectives.
-- 'I can help with the financing.' Gillières dangles financial backing for her movie project. The modal verb introduces investment assistance.
-- 'Monday is perfect for us!' Andréa eagerly agrees, knowing Juliette leaves Cannes on Sunday. The evaluative adjective seals the clever scheduling maneuver.
+- 'Juliette, I am with Jean-Denis Gillières.' Andrea calls her client from the hotel lobby.
+- 'He wants to see you right away.' Andrea asks if the businessman can come up.
+- 'No, I beg you, not him!' Juliette pleads with her agent to keep him away.
+- 'I do not want to see him.' She firmly refuses any meeting with him.
+- 'He is so tiresome!' Juliette explains how intrusive his unwanted attention has been.
+- 'He does not understand the word no.' Juliette points out his persistent boundary crossing.
+- 'Understood, I am taking care of it.' Andrea steps in to shield her celebrity client.
+- 'Juliette is truly sorry, sir.' Andrea returns to Gillieres with a diplomatic excuse.
+- 'She is rehearsing her important speech.' Andrea invents an urgent professional excuse for Juliette's absence.
+- 'I adore intelligent women!' Gillieres expresses admiring condescension toward the actress.
+- 'She is preparing her first film.' Andrea mentions Juliette's directing aspirations to steer the conversation.
+- 'Let us have lunch on my boat on Monday.' Gillieres proposes an exclusive meeting on his yacht.
+- 'It will be calm and very pleasant.' The wealthy mogul promises a secluded setting.
+- 'I can help with the financing.' Gillieres dangles financial backing for her movie project.
+- 'Monday is perfect for us!' Andrea eagerly agrees, knowing Juliette leaves Cannes on Sunday.

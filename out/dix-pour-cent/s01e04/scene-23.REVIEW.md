@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Augustin had chosen another actress. It was horrible.' Both Audrey and Mathias use the casual 'you' because they have worked together for years.
-- 'Actors always take someone else's role.' The verb 'to take' is in its plural form, and 'always' sits right after it.
+- 'Actors always take someone else's role.' The action word 'to take' is in its plural form, and 'always' sits right after it.
 - 'Did you take a good look at Armelle? She's going to be fantastic!' First the past with 'have', then the near future with 'is going to be'.
 - 'So you don't need money, after all.' In French, 'to need' is built with 'to have': literally 'to have need of'. And after a negative, 'of' loses its article.
 - 'You have a horrible view of life. She moved me.' The last verb literally means 'touched', and takes a feminine ending because 'me' is Audrey.

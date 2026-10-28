@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here is the coffee, Mathias.' The first word is the handy pointer word for 'here is' or 'there is'.
-- 'Thank you, Noémie. I love this final version.' The verb means 'to love' or 'to adore', very common in everyday French for things you really like.
+- 'Thank you, Noémie. I love this final version.' The action word means 'to love' or 'to adore', very common in everyday French for things you really like.
 - 'I think we really have something here.' Literally 'we hold really something'.
 - 'Are you still sure about the female lead?' Literally 'the main feminine role'. Now Mathias plants a doubt.
 - 'Yes! Her name is Armelle Borzek. She's brilliant!' Augustin is completely convinced by the young unknown actress he chose.
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But the public doesn't know her.' The little word for 'her' sits right before the verb 'knows'.
 - 'In my online videos, there are no stars.' Literally 'videos in line', the French phrase for online.
 - 'That's true. But cinema isn't the Internet.' Mathias gently reminds the young web star how movie financing works.
-- 'When I read this latest version, I thought of Audrey Fleurot.' Both verbs are in the everyday past tense. To think of someone uses the linking word 'to'.
+- 'When I read this latest version, I thought of Audrey Fleurot.' Both verbs are in the everyday past tense. To think of someone uses the preposition 'to'.
 - 'Audrey Fleurot? Why not? She's sublime!' The famous red-haired actress immediately catches Augustin's imagination.
 - 'She draws the public, and she likes your videos.' Mathias adds a shameless little lie at the end to seal the deal.
 - 'Wait! Audrey Fleurot watched my videos?' In his excitement, Augustin drops the polite form and uses a casual command.

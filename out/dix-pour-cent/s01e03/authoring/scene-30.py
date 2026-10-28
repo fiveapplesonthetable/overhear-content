@@ -35,8 +35,8 @@ STORY = [
     ('sofia', "D'accord. Très bien!", 'Okay. Great!', [(791, "D'accord"), (792, 'Très bien')], ''),
 ]
 WALK = [
-    (0, None, "'You came! I can't believe it!' Literally 'it's unbelievable'. The first verb is in the past, built with 'to be', because coming is a movement."),
-    (1, None, "'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the helper verb, inside the 'not'."),
+    (0, None, "'You came! I can't believe it!' Literally 'it's unbelievable'. The first action word is in the past, built with 'to be', because coming is a movement."),
+    (1, None, "'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the helper word, inside the 'not'."),
     (2, 'Tu as aimé les autres?', "'Did you like the others?' The past tense with 'to have' and the past form of 'to like'."),
     (2, 'Ils sont bien, non?', "'They're good, aren't they?' Adding the word for 'no' at the end is the easy French way to say 'aren't they?' or 'right?'."),
     (3, None, "'Yes, they're good.' Gabriel is polite about the rest of the cast."),
@@ -52,5 +52,5 @@ WALK = [
     (13, None, "'Yes, I'm serious.' Gabriel means it."),
     (14, None, "'I don't have much work, you know.' After 'not', 'a lot of' becomes 'much'. Same words in French: literally 'not a lot of work'."),
     (15, None, "'I'm going to help you find work.' The verb 'to go' plus another verb for the near future again, and after 'help', a little word for 'to' before the next verb."),
-    (16, None, "'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last. Here's the whole scene again, from the top. Now let's hear the full exchange again from beginning to end."),
+    (16, None, "'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last. Here's the whole scene again, from the top."),
 ]

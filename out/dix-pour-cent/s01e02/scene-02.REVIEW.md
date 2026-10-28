@@ -46,7 +46,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Don't be so familiar.' Literally 'don't call me the casual you'. French has a verb that means 'to say the casual you to someone', and Mathias uses it in the negative, with the polite form himself. At work, he wants her to keep her distance.
 - 'We're alone here.' The word for 'alone' is plural, because there are two of them.
 - 'Camille!' Just her name, said as a warning.
-- 'Have I done something wrong?' The two words at the start simply announce a question. Then the everyday past tense: 'I have done'.
+- 'Have I done something wrong?' The two words at the start simply announce a question.
 - 'Apart from getting a job here?' That's what bothers him: she is working in his own agency.
 - 'I'm just doing my job. I don't even look at you.' The word for 'even' sits right after the negative.
-- 'Even I don't know that I'm your daughter!' A bitter joke: she plays along with the secret so well that she has almost forgotten it herself. Here is the whole thing once more, from the lobby to the lift. Now listen to the whole conversation one more time.
+- 'Even I don't know that I'm your daughter!' A bitter joke: she plays along with the secret so well that she has almost forgotten it herself.

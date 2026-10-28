@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening everyone, thank you for coming.' Juliette greets the imaginary audience on stage. The key word here means 'good evening', paired with 'come' to make the point clear.
-- 'It is with immense pride that I welcome you here.' Juliette delivers an emotional opening line. The key word here means 'it is', paired with 'here' to make the point clear.
-- 'In the most beautiful place in the world: a movie theater.' Juliette praises the cinema hall. The superlative structure 'the' highlights the prestige of the venue.
-- 'I have your earpiece. Do you want to try it?' The technician interrupts to fit the prompting device. Le technicien pairs the verb meaning 'have' with the noun for 'earpiece'.
-- 'How does it work?' Juliette asks about the technical operation. The question 'how' asks for a functional demonstration.
-- 'I can show you if you like.' The technician offers a direct demonstration. The modal verb 'can' expresses polite capability and assistance.
-- 'Do you mind if we speak informally?' The technician asks to drop formal address. The reflexive verb 'each other' means to address one another with informal pronouns.
-- 'No, not at all.' Juliette warmly accepts the informal address. The emphatic negative 'not at all' provides an immediate and friendly reassurance.
-- 'Look straight ahead, as if I were not here.' The technician guides Juliette's stage posture. The adverb meaning 'straight ahead' sharpens the verb for 'look' here.
-- 'I hear you perfectly. It works.' The technician checks the sound levels through his microphone. Le technicien opens with the word for 'hear' and lands on 'works' at the close.
-- 'Okay, I hear you too.' Juliette speaks back instinctively into the open microphone. The key word here means 'okay', paired with 'too' to make the point clear.
-- 'Do not answer. No one knows that you have an earpiece.' The technician reminds her that the earpiece must remain a secret. The negative command form 'not' warns her against speaking aloud.
-- 'It is just a voice in your head, like your own thoughts.' The technician coaches her mental approach. The key word here means 'it is', paired with 'thoughts' to make the point clear.
-- 'Oh, yes! I understand now.' Juliette catches on to the technique. The adverb meaning 'yes' sharpens the verb for 'understand' here.
-- 'Do you receive me? Take a step back.' The technician tests the wireless range. Le technicien opens with the word for 'receive' and lands on 'step back' at the close.
-- 'Very good, it is operational.' The technician concludes the audio test successfully. The key word here means 'very good', paired with 'operational' to make the point clear.
+- 'Good evening everyone, thank you for coming.' Juliette greets the imaginary audience on stage.
+- 'It is with immense pride that I welcome you here.' Juliette delivers an emotional opening line.
+- 'In the most beautiful place in the world: a movie theater.' Juliette praises the cinema hall.
+- 'I have your earpiece. Do you want to try it?' The technician interrupts to fit the prompting device.
+- 'How does it work?' Juliette asks about the technical operation.
+- 'I can show you if you like.' The technician offers a direct demonstration.
+- 'Do you mind if we speak informally?' The technician asks to drop formal address.
+- 'No, not at all.' Juliette warmly accepts the informal address.
+- 'Look straight ahead, as if I were not here.' The technician guides Juliette's stage posture.
+- 'I hear you perfectly. It works.' The technician checks the sound levels through his microphone.
+- 'Okay, I hear you too.' Juliette speaks back instinctively into the open microphone.
+- 'Do not answer. No one knows that you have an earpiece.' The technician reminds her that the earpiece must remain a secret.
+- 'It is just a voice in your head, like your own thoughts.' The technician coaches her mental approach.
+- 'Oh, yes! I understand now.' Juliette catches on to the technique.
+- 'Do you receive me? Take a step back.' The technician tests the wireless range.
+- 'Very good, it is operational.' The technician concludes the audio test successfully.

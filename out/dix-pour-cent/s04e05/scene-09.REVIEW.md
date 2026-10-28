@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are late, Madame Martel!' The director expresses her immediate frustration. Directrice uses the polite 'you' form alongside 'late' to keep a respectful professional tone.
-- 'I know, I had an emergency.' Andrea justifies her arrival with a serious excuse. The verb meaning 'know' pairs naturally with the noun for 'emergency' in everyday conversation.
-- 'You left your daughter alone!' The director reproaches Andrea for leaving Flora unattended. Notice how 'have' leads directly into the noun meaning 'daughter'.
-- 'She was safe here.' Andrea argues that the daycare is a protected place. The verb meaning 'was' pairs naturally with the noun for 'safety' in everyday conversation.
-- 'It is a complete lack of respect.' The director condemns the late pickup. The key noun here means 'lack', anchored by its matching French article.
-- 'It was proof of trust!' Andrea reframes her lateness as total confidence in the staff. Notice how 'was' leads directly into the noun meaning 'proof'.
-- 'No, it is unacceptable for us.' The director rejects Andrea's rationalization. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'Say goodbye to the daycare!' The director delivers the severe consequence. The verb meaning 'say' pairs naturally with the noun for 'daycare' in everyday conversation.
-- 'Are you expelling Flora for that?' The formal 'you' pronoun sets a courteous, professional distance around 'expel'.
-- 'Yes, we enforce the rules.' The director insists on strict administrative regulations. The verb meaning 'enforce' pairs naturally with the noun for 'regulations' in everyday conversation.
-- 'Very well, goodbye, madame.' Andrea accepts the verdict coldly without pleading. The key noun here means 'madam', anchored by its matching French article.
-- 'You are really crazy!' The director watches Andrea leave in bewilderment. The adjective meaning 'crazy' takes its feminine form here to match the noun it describes.
-- 'Come, Flora, we are going home.' Notice how 'come' leads directly into the noun meaning 'house'. Notice how 'come' leads directly into the noun meaning 'house'.
-- 'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
+- 'You are late, Madame Martel!' The director expresses her immediate frustration.
+- 'I know, I had an emergency.' Andrea justifies her arrival with a serious excuse.
+- 'You left your daughter alone!' The director reproaches Andrea for leaving Flora unattended.
+- 'She was safe here.' Andrea argues that the daycare is a protected place.
+- 'It is a complete lack of respect.' The director condemns the late pickup.
+- 'It was proof of trust!' Andrea reframes her lateness as total confidence in the staff.
+- 'No, it is unacceptable for us.' The director rejects Andrea's rationalization.
+- 'Say goodbye to the daycare!' The director delivers the severe consequence.
+- 'Are you expelling Flora for that?' Andrea is shocked by the sudden expulsion.
+- 'Yes, we enforce the rules.' The director insists on strict administrative regulations.
+- 'Very well, goodbye, madame.' Andrea accepts the verdict coldly without pleading.
+- 'You are really crazy!' The director watches Andrea leave in bewilderment.
+- 'Come, Flora, we are going home.' Andrea speaks gently to her infant daughter.
+- 'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night.

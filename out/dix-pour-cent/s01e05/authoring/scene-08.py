@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Can I have invitations? Yes, he says yes!' Sofia doesn't even wait for Gabriel's answer before promising premiere tickets to her new friend."),
     (12, None, "'I'll leave you to concentrate.' Gabriel politely excuses himself to escape Sofia's questions."),
     (13, None, "'There are horses and everything!' Sofia keeps bragging about the grand period production."),
-    (14, None, "'Here, darling. This will do you good. Come here.' Nearby, Andréa hands Julie Gayet a warm cup of tea and leads her toward the greenhouse for a surprise meeting."),
+    (14, None, "'Here, darling. This will do you good. Come here.' Nearby, Andrea hands Julie Gayet a warm cup of tea and leads her toward the greenhouse for a surprise meeting."),
 ]

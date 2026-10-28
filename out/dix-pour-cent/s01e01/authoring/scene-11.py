@@ -37,7 +37,7 @@ STORY = [
 WALK = [
     (0, None, "'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. French has no apostrophe-s for owners; it uses a little word meaning 'of'. Noémie answers at once."),
     (1, 'Il est très sympa.', "'He's very nice.' The last word is a short, friendly way of saying 'nice' or 'likeable'. Hervé doesn't agree at all."),
-    (2, None, "'Everyone thinks he's horrible.' Word for word: all the world finds him horrible. The tiny word for 'him' sits in front of the verb, not after it, which is normal in French."),
+    (2, None, "'Everyone thinks he's horrible.' Word for word: all the world finds him horrible."),
     (3, None, "'This is Accounts. They're lovely.' Hervé points at the accountants, and Camille, being Camille, says hello to them."),
     (4, None, "'Hello, I'm Camille!' The verb 'to be', first person: I am. Short and warm."),
     (5, None, "'Now I'll show you the Legal Department.' Here Hervé still uses the formal 'you' with the new girl. Then come the scripts."),
@@ -52,7 +52,7 @@ WALK = [
     (12, None, "'She's scared of missing something.' Literally 'she has fear': in French you have fear, you don't 'are' scared. Next stop, the press room."),
     (13, 'Et voilà la salle de presse.', "'And here's the press room.' This is the cousin of the word we heard with the scripts, and it often means 'there you go'."),
     (13, 'On appelle ça la boutique.', "'We call it the shop.' Free gifts for the stars end up there. The first little word means 'we' or 'people' in everyday speech. And then the gossip turns to the star of the day."),
-    (14, None, "'Cécile de France? Turned down, because of her age.' Meanwhile, Camille remembers this. It will matter very soon. At that moment Noémie looks out of the window."),
+    (14, None, "'Cécile de France? Turned down, because of her age.' Here, Camille remembers this. It will matter very soon. At that moment Noémie looks out of the window."),
     (15, None, "'Look! Cécile's here!' The first word is a polite command, 'look', and the second sentence uses a word meaning 'there' that really means 'here, now'. The whole office starts shouting."),
     (16, None, "'Cécile de France? Here?' Camille can hardly believe it: on her very first morning, the star walks in. Good. Now let's hear the tour once more, from the top."),
 ]

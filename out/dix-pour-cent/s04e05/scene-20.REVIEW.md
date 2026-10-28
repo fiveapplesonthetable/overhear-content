@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He has lunch here every day!' Sigourney enters the restaurant and spots their target immediately. The verb meaning 'has lunch' pairs naturally with the noun for 'days' in everyday conversation.
-- 'Miss Weaver? What are you doing here?' The distributor is stunned to see the Hollywood star at his table. This conversational past tense combines a helper verb with the past verb form for 'are you doing'.
-- 'I signed on for a different movie.' He complains that the project has changed since his original agreement. The verb meaning 'have' pairs naturally with the noun for 'movie' in everyday conversation.
-- 'Of course not, it is the same movie!' Sigourney insists that the core story remains unchanged. The key noun here means 'movie', anchored by its matching French article.
-- 'We just switched two roles.' She explains that only the ages of the two lovers were reversed. This conversational past tense combines a helper verb with the past verb form for 'switched'.
-- 'Sorry, but I do not believe in it anymore.' The distributor expresses doubt about the new setup. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
-- 'What do you not believe?' Sigourney challenges him to explain his objection out loud. The standard spoken question formula at the front turns the statement about 'believe' into a natural inquiry.
-- 'It is a beautiful love story!' Sigourney pitches the romance to the nearby tables. The key noun here means 'story', anchored by its matching French article.
-- 'A young man loves a mature woman.' She summarizes the premise to the curious diners around them. The verb meaning 'loves' pairs naturally with the noun for 'man' in everyday conversation.
-- 'Nobody is going to believe this story!' The distributor argues that audiences will find it unrealistic. Notice how 'is going to' leads directly into the noun meaning 'story'.
-- 'Look, the whole restaurant loves the idea!' Several guests share their own age-gap romances in support. Dropping the subject pronoun turns the verb for 'look' into a direct, punchy command.
-- 'Well, all right, it is very credible!' Outnumbered by the enthusiastic diners, the distributor relents. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
-- 'Wait, first we sign the contracts!' Sigourney makes sure to lock in the deal on the spot. Notice how 'wait' leads directly into the noun meaning 'contracts'.
-- 'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement. The key noun here means 'idea', anchored by its matching French article.
+- 'He has lunch here every day!' Sigourney enters the restaurant and spots their target immediately.
+- 'Miss Weaver? What are you doing here?' The distributor is stunned to see the Hollywood star at his table.
+- 'I signed on for a different movie.' He complains that the project has changed since his original agreement.
+- 'Of course not, it is the same movie!' Sigourney insists that the core story remains unchanged.
+- 'We just switched two roles.' She explains that only the ages of the two lovers were reversed.
+- 'Sorry, but I do not believe in it anymore.' The distributor expresses doubt about the new setup.
+- 'What do you not believe?' Sigourney challenges him to explain his objection out loud.
+- 'It is a beautiful love story!' Sigourney pitches the romance to the nearby tables.
+- 'A young man loves a mature woman.' She summarizes the premise to the curious diners around them.
+- 'Nobody is going to believe this story!' The distributor argues that audiences will find it unrealistic.
+- 'Look, the whole restaurant loves the idea!' Several guests share their own age-gap romances in support.
+- 'Well, all right, it is very credible!' Outnumbered by the enthusiastic diners, the distributor relents.
+- 'Wait, first we sign the contracts!' Sigourney makes sure to lock in the deal on the spot.
+- 'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement.

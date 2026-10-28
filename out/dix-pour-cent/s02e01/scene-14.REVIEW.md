@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mr. Mayor.' Andréa addresses the village official politely. Listen for the expression meaning 'Mr.', which leads naturally into 'mayor'.
-- 'Andréa, I am delighted to see you here.' Listen for the expression meaning 'am', which leads naturally into 'here'.
-- 'Delighted to be here.' The adverb meaning 'there' sharpens the verb for 'to be' here.
-- 'We have a slight change of schedule.' The key word here means 'have', paired with 'program' to make the point clear.
-- 'We have a surprise guest: Hicham Janowski!' The key word here means 'have', paired with 'surprise' to make the point clear.
-- 'The guy from the dating site?' Andréa opens with the word for 'guy' and lands on 'dating' at the close.
-- 'You do not mind sharing the spotlight?' The adverb meaning 'not' sharpens the verb for 'bothers' here.
-- 'Of course not.' Andréa opens with the word for 'of' and lands on 'no' at the close.
-- 'Here he is! Hicham, welcome to Couchey.' Listen for the expression meaning 'welcome', which leads naturally into 'welcome'.
-- 'I know you, right?' Hicham recognizes Andréa from their childhood in the village.
-- 'We were at school together.' Ensemble is an adverb meaning together.
-- 'That is it! Andréa Marteau.' Listen for the expression meaning 'that is', which leads naturally into 'it'.
-- 'Martel. My stage name.' Listen for the expression meaning 'name', which leads naturally into 'stage'.
-- 'So you changed your name.' Hicham opens with the word for 'have' and lands on 'name' at the close.
-- 'Hicham sold his site for two hundred million euros!' The key word here means 'has', paired with 'euros' to make the point clear.
-- 'Very well. Couchey humor!' The key word here means 'very', paired with 'the humor' to make the point clear.
+- 'Mr. Mayor.' Andréa addresses the village official politely.
+- 'Andréa, I am delighted to see you here.' The mayor welcomes Andréa warmly to her hometown ceremony.
+- 'Delighted to be here.' Andréa replies politely that she is delighted to be there.
+- 'We have a slight change of schedule.' The mayor informs her of a last-minute change to the program.
+- 'We have a surprise guest: Hicham Janowski!' He proudly announces that tech millionaire Hicham Janowski is joining them.
+- 'The guy from the dating site?' Andréa recognizes Hicham as the founder of the famous dating website.
+- 'You do not mind sharing the spotlight?' The mayor checks that she does not mind sharing the spotlight with Hicham.
+- 'Of course not.' Andréa hides her annoyance and insists she does not mind at all.
+- 'Here he is! Hicham, welcome to Couchey.' The mayor spots Hicham arriving and welcomes him to Couchey.
+- 'I know you, right?' Hicham recognizes Andrea from their childhood in the village.
+- 'We were at school together.' Andréa reminds him that they went to school together in the village.
+- 'That is it! Andréa Marteau.' Hicham suddenly remembers her real childhood surname from school.
+- 'Martel. My stage name.' Andréa quickly corrects him with her professional surname, Martel.
+- 'So you changed your name.' Hicham teases her for changing her family name when she moved to Paris.
+- 'Hicham sold his site for two hundred million euros!' The mayor boasts that Hicham sold his company for two hundred million euros.
+- 'Very well. Couchey humor!' Hicham laughs off the awkward reunion as typical village humor.

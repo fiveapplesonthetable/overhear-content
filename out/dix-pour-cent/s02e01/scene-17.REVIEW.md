@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, Jean Gabin. Take your walk.' Arlette encourages her dog on the sidewalk. Notice the command form form of the verb to go.
-- 'What are you doing here?' Bréhier steps out aggressively. The question uses the standard question phrase for what.
-- 'I am walking my dog.' Arlette answers calmly. Arlette opens with the word for 'am walking' and lands on 'dog' at the close.
-- 'You are even crazier than expected.' Bréhier insults her mental state. The comparative structure uses more followed by than.
-- 'You will soon end up at Pont-aux-Dames.' He threatens her with an elderly nursing home. The verb meaning 'are going to' anchors the whole remark.
-- 'You know, the retirement home.' He spells out his threat clearly. The expression uses the formal 'you' pronoun.
-- 'Everyone knows that I worked there.' Arlette refuses to hide her past. Arlette pairs the verb meaning 'knows' with the noun for 'world'.
-- 'And I met a lot of people there.' She stands her ground firmly. The past tense combines to have with the past verb form.
-- 'They don't know how you managed their money.' Bréhier hints at past financial secrets. The question word how introduces the embedded clause.
-- 'That is slander!' Arlette protests against the accusation. The partitive article indicates an abstract noun.
-- 'No, it is a threat. I have proof.' Bréhier makes his blackmail explicit. François opens with the word for 'no' and lands on 'proof' at the close.
-- 'What do you want?' Arlette demands to know his real demand. Notice the verb to want in the polite 'you'.
-- 'It is war between ASK and StarMédia.' The rival agency head sets the stakes. The key word here means 'war', paired with 'war' to make the point clear.
-- 'Nobody buys anyone out.' He demands an end to the buyout talks. Listen for the expression meaning 'buys out', which leads naturally into 'buys out'.
-- 'Otherwise the old files come out.' He issues a final ultimatum. The connecting word otherwise warns of severe consequences.
-- 'Come on, Jean Gabin, let's go.' Arlette walks away without yielding. Arlette gives a direct command form using the verb for 'come on'.
+- 'Come on, Jean Gabin. Take your walk.' Arlette encourages her dog on the sidewalk.
+- 'What are you doing here?' Bréhier steps out aggressively.
+- 'I am walking my dog.' Arlette answers calmly.
+- 'You are even crazier than expected.' Bréhier insults her mental state.
+- 'You will soon end up at Pont-aux-Dames.' He threatens her with an elderly nursing home.
+- 'You know, the retirement home.' He spells out his threat clearly.
+- 'Everyone knows that I worked there.' Arlette refuses to hide her past.
+- 'And I met a lot of people there.' She stands her ground firmly.
+- 'They don't know how you managed their money.' Bréhier hints at past financial secrets.
+- 'That is slander!' Arlette protests against the accusation.
+- 'No, it is a threat. I have proof.' Bréhier makes his blackmail explicit.
+- 'What do you want?' Arlette demands to know his real demand.
+- 'It is war between ASK and StarMédia.' The rival agency head sets the stakes.
+- 'Nobody buys anyone out.' He demands an end to the buyout talks.
+- 'Otherwise the old files come out.' He issues a final ultimatum.
+- 'Come on, Jean Gabin, let's go.' Arlette walks away without yielding.

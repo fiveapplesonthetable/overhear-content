@@ -29,20 +29,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes, Gabriel? What's that?' The second question is the casual, spoken way to ask 'what is that': literally 'it's what, that?'. In careful French the question word would come first.
-- 'Line Renaud, to replace Françoise Fabian.' No verb at all, just the name and the plan. Line Renaud is a real star, a singer and actress in her eighties, famous for music hall and cabaret.
+- 'Line Renaud, to replace Françoise Fabian.' No action word at all, just the name and the plan. Line Renaud is a real star, a singer and actress in her eighties, famous for music hall and cabaret.
 - 'What an idea!' The word for 'what' here is an exclamation, and it agrees with the feminine word for 'idea'. From Andréa, it's not a compliment.
-- 'Line Renaud in a Rajevski film?' Meanwhile, Gabor Rajevski is a dark, intense art-house director. To Andréa, the two just don't go together.
+- 'Line Renaud in a Rajevski film?' Here, Gabor Rajevski is a dark, intense art-house director. To Andréa, the two just don't go together.
 - 'Brilliant, isn't it?' The little word for 'no' at the end asks her to agree. Gabriel is very pleased with himself.
 - 'Why not Enrico Macias?' Enrico Macias is a cheerful pop singer from the sixties. Andréa means: why not any other variety star, while you're at it?
 - 'Line Renaud is beautiful, the right age, and very popular.' Three good reasons. 'The right age' is literally 'of the good age'.
-- 'Gabriel, you've completely lost your mind!' Literally 'you have completely lost the head'. This is the everyday past tense: the verb 'have', then the action.
-- 'I like Line Renaud, but she's not made for this.' Adding the word for 'well' after the verb for 'love' softens it to 'I like'. And the word for 'made' is feminine, because it describes Line.
+- 'Gabriel, you've completely lost your mind!' Literally 'you have completely lost the head'. This is the everyday past: the action word 'have', then the action.
+- 'I like Line Renaud, but she's not made for this.' Adding the word for 'well' after the action word for 'love' softens it to 'I like'. And the word for 'made' is feminine, because it describes Line.
 - 'Not in a Gabor film!' A short, firm no. She calls the director by his first name.
 - 'I'm not going to humiliate myself.' The verb 'to go' plus another verb is the easy French future. Here it's negative, wrapped by the two little words for 'not'.
 - 'I know he'll say no.' This time it's the real future tense of the verb 'to say'.
-- 'It could save the film.' Gabriel tries the practical argument. The verb ending means 'could'.
+- 'It could save the film.' Gabriel tries the practical argument.
 - 'It would be a different film.' The same 'would' ending, on the verb 'to be'. For Andréa, art comes first.
 - 'You can be such a snob, Andréa.' The French borrowed the English word for a snob. Gabriel, usually so gentle, is hurt.
 - 'It's pathetic!' Strong words from a man who hates conflict. Andréa doesn't back down.
 - 'I have convictions, that's all.' The last two words, 'that's all', are a handy way to close a discussion.
-- 'Who's Line Renaud?' Camille is in her early twenties, and she has no idea who this legend is. The question word comes last here, which is very common in spoken French. Here's the whole argument once more, in French. Let's listen to the whole scene once more without interruption.
+- 'Who's Line Renaud?' Camille is in her early twenties, and she has no idea who this legend is. The question word comes last here, which is very common in spoken French.

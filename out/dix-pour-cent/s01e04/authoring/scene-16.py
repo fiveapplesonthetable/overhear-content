@@ -41,7 +41,7 @@ WALK = [
     (4, None, "'That's more than enough. Fantastic!' Literally 'widely sufficient'."),
     (5, None, "'I like to work with what's real.' Literally 'with the true'."),
     (6, None, "'In the film, it's a gesture of rebellion.' Augustin launches into his big artistic vision for the character."),
-    (7, None, "'She looks like Isabelle Adjani.' The verb for 'resembles' takes the linking word 'to' before the person's name."),
+    (7, None, "'She looks like Isabelle Adjani.' The verb for 'resembles' takes the preposition 'to' before the person's name."),
     (8, None, "'Lock the door!' Literally 'close with a key'. Audrey has decided to prove right here and now that she can dance."),
     (9, None, "'There is no key.' The negative 'there is not' is followed by 'of', meaning 'no key at all'."),
     (10, None, "'Hold the door closed and draw the curtains.' Two polite commands, because she doesn't want the whole agency watching through the glass."),

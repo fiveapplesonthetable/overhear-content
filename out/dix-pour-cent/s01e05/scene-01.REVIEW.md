@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Madam.' The polite form of address used by a servant speaking to a noblewoman in the film.
-- 'No! I don't believe it!' Julie breaks character and pulls away as JoeyStarr shoves her into the hedge. The little pronoun before the verb means 'in it'.
+- 'No! I don't believe it!' Julie breaks character and pulls away as JoeyStarr shoves her into the hedge.
 - 'Cut! What is going on?' Director Samir rushes over from his monitor. Literally 'what is it that passes itself?'.
 - 'He pushes her into the bushes.' Julie complains that the script calls for a passionate embrace, not a rough shove.
 - 'Are you made of glass?' Literally 'are you in glass?'. Notice how the two stars use the formal 'you' even while arguing.

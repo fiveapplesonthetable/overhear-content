@@ -29,17 +29,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So Andréa, how did the meeting go?' Gabriel opens by asking how the discussion with Luchini went.
-- 'He dug his heels in.' Andréa describes how obstinate and inflexible Fabrice proved to be.
+- 'He dug his heels in.' Andrea describes how obstinate and inflexible Fabrice proved to be.
 - 'We must discredit his agent Bréhier.' Mathias insists that undermining his current agent is the only way forward.
 - 'What does Fabrice lack?' Gabriel asks what is the unfulfilled desire or dream Luchini still holds.
 - 'An international career in James Bond.' Mathias identifies the elusive global film role that Fabrice secretly covets.
-- 'He dreams of playing a villain!' Andréa emphasizes that playing a 007 antagonist is his biggest ambition.
+- 'He dreams of playing a villain!' Andrea emphasizes that playing a 007 antagonist is his biggest ambition.
 - 'Let's make him believe Bréhier missed this contract.' Gabriel proposes inventing a story about Bréhier blowing the negotiation.
 - 'The casting director is called Debbie MacWilliams.' Mathias mentions the real name of the iconic James Bond casting director.
-- 'Does Fabrice know her personally?' Andréa asks whether Luchini has ever met her face to face.
+- 'Does Fabrice know her personally?' Andrea asks whether Luchini has ever met her face to face.
 - 'No, he has never seen her.' Gabriel confirms that Fabrice would not recognize the real casting director.
-- 'Our actress Linda Gérard looks like her.' Andréa suggests recruiting their bilingual client Linda Gérard for the stunt.
+- 'Our actress Linda Gérard looks like her.' Andrea suggests recruiting their bilingual client Linda Gérard for the stunt.
 - 'She speaks English perfectly with the accent.' Gabriel highlights Linda's authentic Scottish background.
 - 'Send a fake casting director?' Mathias questions the sanity and legality of sending an impostor.
-- 'It is our only chance to succeed!' Andréa argues passionately that this bold bluff is their only viable option.
+- 'It is our only chance to succeed!' Andrea argues passionately that this bold bluff is their only viable option.
 - 'All right, but let us stay very discreet.' Mathias reluctantly agrees while demanding total secrecy.

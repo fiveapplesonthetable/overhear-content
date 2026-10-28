@@ -33,8 +33,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He's just called Augustin. He's a web star.' Like a lot of young online comedians in France, he only uses his first name.
 - 'I don't know anything about all that. I even turned off the Wi-Fi!' Literally 'I have even cut the Wi-Fi'.
 - 'It's bad for young brains.' Audrey is a very protective new mother. Mathias holds up his phone.
-- 'Look, this is the best of his videos.' The word for 'the best' has a feminine ending here to match 'videos'.
-- 'Mathias, he's twelve years old!' At this point, Augustin is actually twenty-four, but to Audrey he looks like a schoolboy.
+- 'Look, this is the best of his videos.' The word for 'the best' has a feminine ending here to match 'video'.
+- 'Mathias, he's twelve years old!' Here, Augustin is actually twenty-four, but to Audrey he looks like a schoolboy.
 - 'He's young, but very talented. Like Xavier Dolan.' Mathias compares him to the famous young Canadian director.
 - 'Really? Sweetheart, do you want a fruit compote?' Audrey is only half listening as she feeds her daughter.
 - 'It's the story of an ecologist stripper. Very funny, very modern.' Notice the short casual word for 'ecologist' or 'green'.

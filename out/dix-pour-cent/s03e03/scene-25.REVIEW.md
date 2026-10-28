@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take him gently in your arms.' Mathias carefully receives the newborn baby. The formal 'you' pronoun sets a courteous, professional distance around 'hold it'.
-- 'He is coming out on his own now.' Mathias announces that the delivery is completing smoothly. The descriptive adjective for 'by itself' agrees in gender and number with its noun.
-- 'Directly onto Andrea's stomach!' Mathias places the baby right onto Andrea's chest. The key noun here means 'abdomen', anchored by its matching French article.
-- 'Thank you so much for your precious help.' Andrea expresses deep gratitude through tears. The adjective meaning 'invaluable' takes its feminine form here to match the noun it describes.
-- 'I am completely exhausted now.' Andrea lies back after the monumental physical ordeal. The adverb meaning 'wholly' gives the reply its conversational emphasis.
-- 'I am going to collapse from tiredness.' Andrea admits she has nothing left to give. French forms the near future by pairing the present tense of 'to go' directly with 'drop'.
-- 'It is Andrea who is truly exceptional.' Mathias generously directs all praise to the mother. The adverb meaning 'authentically' gives the reply its conversational emphasis.
-- 'She is the one who did everything.' Mathias honors Andrea's incredible fortitude. This conversational past tense combines a helper verb with the past verb form for 'accomplished'.
-- 'Good night to everyone, thank you.' Andrea whispers her farewell before falling asleep. The key noun here means 'gratitude', anchored by its matching French article.
-- 'Mathias, what are you doing?' Camille finds her father working quietly in the dark office. The standard spoken question formula at the front turns the statement about 'are working on' into a natural inquiry.
-- 'You can see, I am cleaning.' Mathias explains his solitary chore with quiet dignity. The clause hinges on the everyday verb meaning 'perceive'.
-- 'That is not for you to do.' Camille objects to the senior partner doing janitorial work. Camille uses the casual singular 'you' with 'perform', showing close familiarity.
-- 'Yes, Camille, it is for me.' Mathias softly insists on taking responsibility for this place. The adverb meaning 'yes indeed' gives the reply its conversational emphasis.
-- 'It is truly for me.' Mathias acknowledges the deep personal bond to this miraculous moment. The adverb meaning 'authentically' gives the reply its conversational emphasis.
-- 'Then let me help you now.' Camille joins her father to share the tender task. The clause hinges on the everyday verb meaning 'allow me'. Now let's hear the whole conversation again.
+- 'Take him gently in your arms.' Mathias carefully receives the newborn baby.
+- 'He is coming out on his own now.' Mathias announces that the delivery is completing smoothly.
+- 'Directly onto Andrea's stomach!' Mathias places the baby right onto Andrea's chest.
+- 'Thank you so much for your precious help.' Andrea expresses deep gratitude through tears.
+- 'I am completely exhausted now.' Andrea lies back after the monumental physical ordeal.
+- 'I am going to collapse from tiredness.' Andrea admits she has nothing left to give.
+- 'It is Andrea who is truly exceptional.' Mathias generously directs all praise to the mother.
+- 'She is the one who did everything.' Mathias honors Andrea's incredible fortitude.
+- 'Good night to everyone, thank you.' Andrea whispers her farewell before falling asleep.
+- 'Mathias, what are you doing?' Camille finds her father working quietly in the dark office.
+- 'You can see, I am cleaning.' Mathias explains his solitary chore with quiet dignity.
+- 'That is not for you to do.' Camille objects to the senior partner doing janitorial work.
+- 'Yes, Camille, it is for me.' Mathias softly insists on taking responsibility for this place.
+- 'It is truly for me.' Mathias acknowledges the deep personal bond to this miraculous moment.
+- 'Then let me help you now.' Camille joins her father to share the tender task. Now listen to the whole scene again at normal speed, and see how much more you catch.

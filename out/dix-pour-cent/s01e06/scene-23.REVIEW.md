@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What's your name? Cheers!' Seconds later she kisses the woman, and spots Colette standing frozen in the doorway. Andréa runs after her out onto the pavement.
+- 'What's your name? Cheers!' Seconds later she kisses the woman, and spots Colette standing frozen in the doorway.
 - 'Colette, wait! I swear, it was for work!' Literally 'I swear to you'. It is a terrible excuse, and Andréa quickly changes tack.
-- 'Colette, I'm sorry, forgive me.' The key word here means 'am', paired with 'forgive me' to make the point clear.
+- 'Colette, I'm sorry, forgive me.' An informal command with 'me' attached by a hyphen.
 - 'You're right to be angry. That was wrong.' Remember that French uses 'to have reason' for 'to be right', and 'in anger' for 'angry'.
 - 'But I saw Bel and Berléand together, I was happy.' She blames her behaviour on the joy and champagne of the party.
-- 'You kissed her in front of everyone!' Notice the feminine ending on 'kissed', agreeing with the object pronoun 'her' before the verb.
-- 'Yes, it's true. Be fair, I'm telling the truth!' The command 'be' uses the irregular command form form of 'to be'.
+- 'You kissed her in front of everyone!' Colette reminds Andréa furiously that she kissed a stranger in front of everyone.
+- 'Yes, it's true. Be fair, I'm telling the truth!' The command 'be' uses the irregular imperative form of 'to be'.
 - 'Is it going to happen like this at every party, Andréa?' The reflexive verb 'to pass itself' means 'to happen' or 'to go'.
 - 'But it's not important! It was nothing!' Andréa makes things even worse by trying to brush the kiss aside.
-- 'A kiss at a party, that's all.' Andréa pairs the verb meaning 'that's' with the noun for 'party'.
+- 'A kiss at a party, that's all.' The word at the start is the informal, affectionate word for a little kiss.
 - 'What matters is us!' Literally 'that which counts, it is us!'.
 - 'I knew it, anyway. It's going to end like this.' The three-word expression in the middle means 'anyway' or 'in any case'.
 - 'No, wait! It can't end like this.' Andréa tries to hold her back as a taxi pulls up at the kerb.

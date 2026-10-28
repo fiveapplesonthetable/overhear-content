@@ -29,14 +29,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was on holiday with my parents in Spain.' In French, 'on holiday' is plural, and feminine country names like Spain take the linking word 'in'.
-- 'The hotel had a pool. I went there with my brother.' First the past tense for description, then the past with 'am' for movement.
-- 'We played a stupid game.' With games and sports, the verb 'to play' is followed by 'at'.
+- 'I was on holiday with my parents in Spain.' François recalls a childhood family holiday in Spain.
+- 'The hotel had a pool. I went there with my brother.' François describes going to the hotel swimming pool with his brother.
+- 'We played a stupid game.' François admits that he and his brother played a foolish game in the water.
 - 'We tried to stay sitting on the bottom.' Literally 'seated at the bottom' of the pool, right over the suction drain.
 - 'But one day, the pump trapped my swimsuit.' The sudden event breaks into the story in the past with 'has'.
 - 'I was very scared. I thought I was going to die.' Literally 'I had very fear', followed by the past form of 'I am going to die'.
-- 'And my brother saved me.' The object pronoun 'me' is shortened before the vowel of the helping verb.
-- 'After that, I never went back into a pool.' The negative pair wraps around the helping verb 'am'.
+- 'And my brother saved me.' The object pronoun 'me' is shortened before the vowel of the auxiliary verb.
+- 'After that, I never went back into a pool.' The negative pair wraps around the auxiliary verb 'am'.
 - 'It's in the past now.' François tries to brush it off, but Christophe is deeply moved.
 - 'But it's magnificent! That's Dom Juan!' For the young director, François's childhood terror is pure theatre.
 - 'His fear of death, desire, pleasure!' Notice that French uses 'the' before abstract nouns like death, desire, and pleasure.

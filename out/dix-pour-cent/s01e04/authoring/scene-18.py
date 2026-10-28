@@ -40,7 +40,7 @@ WALK = [
     (1, None, "'No, it's fine. I'll go and get the photos.' Literally 'I am going to look for the photos'."),
     (2, None, "'These are the best ones.' The plural form of 'it is' introduces a plural noun."),
     (3, None, "'The one with the bike is good. Where is that?' The first word means 'the one', feminine to match 'photo'."),
-    (4, None, "'At my grandmother's, in Burgundy.' French has a special linking word that means 'at the home of'."),
+    (4, None, "'At my grandmother's, in Burgundy.' French has a special preposition that means 'at the home of'."),
     (5, None, "'Why do you ask me so many questions about my family?' In French you don't 'ask' a question, you 'put' it."),
     (6, None, "'I like hearing about families.' Literally 'hearing talk of families'. Camille is secretly curious about the family she never had."),
     (7, None, "'And I like you.' Literally 'you please to me'. Then he leans in to kiss her, and Camille panics."),

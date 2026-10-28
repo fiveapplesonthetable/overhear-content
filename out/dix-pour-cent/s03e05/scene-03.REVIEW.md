@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my project for the ASK party.' A direct presentation introducing the event layout. The key noun here means 'project', anchored by its matching French article.
-- 'How do you plan to welcome the guests?' The verb meaning 'do you plan' pairs naturally with the noun for 'guests' in everyday conversation.
-- 'A welcome glass of champagne.' A traditional hospitable touch offering sparkling wine on arrival. The key noun here means 'glass', anchored by its matching French article.
-- 'And next, where do people go?' A sequential logistical query asking about party flow. In everyday spoken French, rising intonation on 'are going' at the end is enough to turn the sentence into a question.
-- 'Everyone goes up to the terrace.' A clear spatial direction leading guests to scenic rooftops. Notice how 'goes up' leads directly into the noun meaning 'people'.
-- 'Why not rent a large venue?' In everyday spoken French, rising intonation on 'to rent' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'to rent' at the end is enough to turn the sentence into a question.
-- 'I want to celebrate our thirty years here.' Notice how 'want' leads directly into the noun meaning 'years'. Notice how 'want' leads directly into the noun meaning 'years'.
-- 'I am ready to pay the price.' A generous executive commitment offering financial resources. The verb meaning 'to pay' pairs naturally with the noun for 'price' in everyday conversation.
-- 'Look, this is where we started.' A nostalgic gesture pointing to the agency's humble origins. The clause hinges on the everyday verb meaning 'look'.
-- 'You had started in this room?' Hicham uses the polite 'you' form alongside 'had' to keep a respectful professional tone. Hicham uses the polite 'you' form alongside 'had' to keep a respectful professional tone.
-- 'Samuel and I shared this small studio.' A personal reminiscence honoring the co-founder. The verb meaning 'shared' pairs naturally with the noun for 'studio apartment' in everyday conversation.
-- 'That is a lovely story for the agency.' A sympathetic acknowledgment appreciating company tradition. The adjective meaning 'lovely' takes its feminine form here to match the noun it describes.
-- 'This party will have a unique sentimental value.' The adjective meaning 'sentimental' takes its feminine form here to match the noun it describes.
-- 'Agreed Mathias, let us organize everything on site.' A gracious concession embracing the historical venue. The verb meaning 'let us organize' pairs naturally with the noun for 'agreement' in everyday conversation.
+- 'Here is my project for the ASK party.' A direct presentation introducing the event layout.
+- 'How do you plan to welcome the guests?' A focused question checking guest reception logistics.
+- 'A welcome glass of champagne.' A traditional hospitable touch offering sparkling wine on arrival.
+- 'And next, where do people go?' A sequential logistical query asking about party flow.
+- 'Everyone goes up to the terrace.' A clear spatial direction leading guests to scenic rooftops.
+- 'Why not rent a large venue?' A practical commercial suggestion proposing an outside event space.
+- 'I want to celebrate our thirty years here.' An emotional declaration defending the agency's historic home.
+- 'I am ready to pay the price.' A generous executive commitment offering financial resources.
+- 'Look, this is where we started.' A nostalgic gesture pointing to the agency's humble origins.
+- 'You had started in this room?' A surprised inquiry discovering historical company roots.
+- 'Samuel and I shared this small studio.' A personal reminiscence honoring the co-founder.
+- 'That is a lovely story for the agency.' A sympathetic acknowledgment appreciating company tradition.
+- 'This party will have a unique sentimental value.' An eloquent defense prioritizing heart over luxury.
+- 'Agreed Mathias, let us organize everything on site.' A gracious concession embracing the historical venue.

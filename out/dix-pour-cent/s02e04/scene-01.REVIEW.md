@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That actress is so magnetic and elegant.' Listen for the expression meaning 'female performer', which leads naturally into 'graceful'.
-- 'She is truly poetic as well.' An adverb of degree modifying an aesthetic quality.
-- 'Then, the small woman becomes blind.' A temporal adverb followed by a state transition verb.
-- 'And the stupid tall girl dies!' An emotional plot spoiler with an irregular present tense verb.
-- 'Arlette, are you still watching this series?' The key word here means 'watch', paired with 'television series' to make the point clear.
+- 'That actress is so magnetic and elegant.' In the cinema, Arlette whispers that Isabelle Adjani is so magnetic and elegant on screen.
+- 'She is truly poetic as well.' Arlette adds admiringly that the actress has a truly poetic presence too.
+- 'Then, the small woman becomes blind.' Arlette loudly narrates the next plot twist: the shorter woman goes blind.
+- 'And the stupid tall girl dies!' Arlette spoils the ending out loud as the tall girl dies on screen.
+- 'Arlette, are you still watching this series?' A direct question inquiring about a workplace distraction.
 - 'Yes, the ending annoys me a lot.' A pronominal emotion verb governing an adverb of quantity.
 - 'Can you find the next season?' An inverted modal question asking for pirated episodes.
 - 'One year is too long to wait.' An expression of impatience regarding TV release schedules.
-- 'What is the title again?' A familiar question form seeking clarification.
+- 'What is the title again?' A familiar interrogative seeking clarification.
 - 'Do you live in a cave, Mathias?' A sarcastic cultural idiom teasing his lack of television awareness.
-- 'It is the famous series Game of Thrones.' The key word here means 'is', paired with 'television series' to make the point clear.
+- 'It is the famous series Game of Thrones.' A demonstrative statement introducing the global hit series.
 - 'I will see Louis Garrel at the theater Thursday.' A simple future tense verb outlining his evening schedule.
-- 'Tell Berléand that his contracts are ready.' Listen for the expression meaning 'tell', which leads naturally into 'ready'.
+- 'Tell Berléand that his contracts are ready.' An imperative command delivering professional instructions.
 - 'By the way, your top smells like frying.' An informal critique pointing out a kitchen odor.

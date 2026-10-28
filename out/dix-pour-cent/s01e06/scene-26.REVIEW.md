@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will You Sleep with Me Tonight?' The simple future 'will sleep' forms a direct proposal.
-- 'Darn!' Andréa tosses the script aside in sheer exasperation.
-- 'Love and Muffins.' The connecting word 'and' links two sweet comedy tropes.
-- 'Is it a conspiracy or what?' The colloquial tag 'or' adds sharp frustration.
-- 'Are you okay?' Camille asks the standard informal French check-in question.
-- 'Yeah.' The informal variant 'yeah' gives a clipped, sullen answer.
-- 'Do we have news of that Brancillon?' Notice how the verb for 'have' leads straight into 'news'.
-- 'It has been three days since she came.' Camille opens with the word for 'makes' and lands on 'come' at the close.
-- 'Strange, isn't it?' Listen for the expression meaning 'strange', which leads naturally into 'no'.
-- 'She needed papers.' Andréa opens with the word for 'had' and lands on 'papers' at the close.
-- 'She didn't call?' The key word here means 'has', paired with 'called' to make the point clear.
+- 'Will You Sleep with Me Tonight?' Andréa reads the suggestive title of the first script on her desk.
+- 'Darn!' The second script on her pile is yet another romantic comedy.
+- 'Love and Muffins.' Even the third script title sounds like a syrupy love story.
+- 'Is it a conspiracy or what?' Heartbroken after losing Colette, Andréa feels mocked by all these romance scripts.
+- 'Are you okay?' Camille asks if Andréa wants her to throw the scripts away.
+- 'Yeah.' Andréa gives a clipped, sullen answer.
+- 'Do we have news of that Brancillon?' Andréa asks whether there is any news yet from the potential buyer Brancillon.
+- 'It has been three days since she came.' The time expression 'ca fait...
+- 'Strange, isn't it?' Camille remarks to Gabriel how strange Andréa's behavior is this morning.
+- 'She needed papers.' The imperfect idiom 'avoir besoin de' expresses a past need.
+- 'She didn't call?' Remembering Andréa's midnight visit, Gabriel pretends everything is normal.
 - 'No.' Camille gives a clear and simple negative answer.
-- 'I\'ll leave you.' The polite phrase 'I' is used when taking one's leave.
-- 'Madame Brancillon! Wait!' Andréa calls out as the auditor marches past her office.
-- 'Can I have a word with you?' Andréa opens with the word for 'can' and lands on 'word' at the close.
+- 'I\'ll leave you.' Sensing the awkward tension between them, Camille politely excuses herself.
+- 'Madame Brancillon! Wait!' Andrea calls out as the auditor marches past her office.
+- 'Can I have a word with you?' Once they are alone, Andréa sheepishly asks Gabriel for a quick word.

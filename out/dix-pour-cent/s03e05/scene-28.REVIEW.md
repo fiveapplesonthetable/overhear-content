@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Hicham storms into Mathias's office demanding answers. Hicham uses the casual singular 'you' with 'are doing', showing close familiarity.
-- 'Calm down, please.' Mathias tries to soothe his furious partner. The clause hinges on the everyday verb meaning 'calm'.
-- 'What is this terrible mess?' Hicham demands an explanation of the chaos. In everyday spoken French, rising intonation on 'mess' at the end is enough to turn the sentence into a question.
-- 'Andrea wants to leave with Gabriel?' Hicham confirms the identities of the defecting agents. The clause hinges on the everyday verb meaning 'wants'.
-- 'Start another competing agency?' Hicham cannot believe they plan to set up a rival company. In everyday spoken French, rising intonation on 'set up' at the end is enough to turn the sentence into a question.
-- 'This cannot be possible!' Hicham reacts with sheer disbelief to the revelation. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'I am completely disgusted today.' Hicham confesses his deep personal revulsion at their disloyalty. The descriptive adjective for 'disgusted' agrees in gender and number with its noun.
-- 'I understand you perfectly, Hicham.' Mathias adopts a sympathetic tone to gain his confidence. The informal 'you' form around 'understand' marks a direct, personal relationship.
-- 'My offer still stands, know that.' Mathias brings back his buyout proposal. The verb meaning 'holds' pairs naturally with the noun for 'offer' in everyday conversation.
-- 'You want to buy out my shares?' Hicham clarifies Mathias's intentions. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
-- 'I want to free you at last.' Mathias frames the buyout as liberating Hicham from unwanted stress. The short 'self' word sits right in front of the verb for 'want', turning the action back onto the subject.
-- 'Your partners betray you cowardly.' Mathias drives a wedge between Hicham and his associates. The informal 'you' form around 'betray' marks a direct, personal relationship.
-- 'And with you, it will be different?' Hicham questions whether Mathias is truly trustworthy. The descriptive adjective for 'different' agrees in gender and number with its noun.
-- 'ASK is my agency.' Mathias asserts his deep emotional and historical bond to ASK. The key noun here means 'agency', anchored by its matching French article.
+- 'What are you doing here?' Hicham storms into Mathias's office demanding answers.
+- 'Calm down, please.' Mathias tries to soothe his furious partner.
+- 'What is this terrible mess?' Hicham demands an explanation of the chaos.
+- 'Andrea wants to leave with Gabriel?' Hicham confirms the identities of the defecting agents.
+- 'Start another competing agency?' Hicham cannot believe they plan to set up a rival company.
+- 'This cannot be possible!' Hicham reacts with sheer disbelief to the revelation.
+- 'I am completely disgusted today.' Hicham confesses his deep personal revulsion at their disloyalty.
+- 'I understand you perfectly, Hicham.' Mathias adopts a sympathetic tone to gain his confidence.
+- 'My offer still stands, know that.' Mathias brings back his buyout proposal.
+- 'You want to buy out my shares?' Hicham clarifies Mathias's intentions.
+- 'I want to free you at last.' Mathias frames the buyout as liberating Hicham from unwanted stress.
+- 'Your partners betray you cowardly.' Mathias drives a wedge between Hicham and his associates.
+- 'And with you, it will be different?' Hicham questions whether Mathias is truly trustworthy.
+- 'ASK is my agency.' Mathias asserts his deep emotional and historical bond to ASK.

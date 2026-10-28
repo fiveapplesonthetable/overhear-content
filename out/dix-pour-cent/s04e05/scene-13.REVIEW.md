@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did Bernard leave?' Sigourney asks, looking around for him. In everyday spoken French, rising intonation on 'left' at the end is enough to turn the sentence into a question.
-- 'Yes, I think so.' Arlette replies calmly. The clause hinges on the everyday verb meaning 'think'.
-- 'Darn it!' Sigourney exclaims in frustration. The adverb meaning 'then' gives the reply its conversational emphasis.
-- 'It is already late.' Arlette points out. The adverb meaning 'already' gives the reply its conversational emphasis.
-- 'Arlette, he won't be there.' Sigourney realizes with disappointment. The clause hinges on the everyday verb meaning 'will be'.
-- 'For our night out.' Sigourney refers to their planned evening. The key noun here means 'night out', anchored by its matching French article.
-- 'It does not matter.' Arlette reassures her gently. The adverb meaning 'not' gives the reply its conversational emphasis.
-- 'We will have fun.' Arlette promises an exciting evening. French forms the near future by pairing the present tense of 'to go' directly with 'have fun'.
-- 'Of course, my friend.' Sigourney agrees with a smile. The key noun here means 'friend', anchored by its matching French article.
-- 'Shall we go?' Arlette asks, ready to depart. In everyday spoken French, rising intonation on 'go' at the end is enough to turn the sentence into a question.
-- 'Yes, let's go.' Sigourney confirms with enthusiasm. The clause hinges on the everyday verb meaning 'go'.
-- 'Paris is waiting for us.' Arlette concludes joyfully. The clause hinges on the everyday verb meaning 'awaits'. Now let's hear the whole thing.
+- 'Did Bernard leave?' Sigourney asks, looking around for him.
+- 'Yes, I think so.' Arlette replies calmly.
+- 'Darn it!' Sigourney exclaims in frustration.
+- 'It is already late.' Arlette points out.
+- 'Arlette, he won't be there.' Sigourney realizes with disappointment.
+- 'For our night out.' Sigourney refers to their planned evening.
+- 'It does not matter.' Arlette reassures her gently.
+- 'We will have fun.' Arlette promises an exciting evening.
+- 'Of course, my friend.' Sigourney agrees with a smile.
+- 'Shall we go?' Arlette asks, ready to depart.
+- 'Yes, let's go.' Sigourney confirms with enthusiasm.
+- 'Paris is waiting for us.' Arlette concludes joyfully. Now let's hear the whole thing.

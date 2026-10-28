@@ -33,14 +33,14 @@ STORY = [
 ]
 WALK = [
     (0, None, "'With all these delays, we have half a day left in the barn.' The impersonal construction literally means 'there remains to us'."),
-    (1, None, "'I had to rewrite the schedule.' Notice the past verb form of 'must' with a circumflex accent."),
+    (1, None, "'I had to rewrite the schedule.' Notice the past participle of 'must' with a circumflex accent."),
     (2, None, "'We shoot the love scene tomorrow.' In French cinema, the verb for turning camera reels means to shoot or film."),
     (3, None, "'Maybe it is not the right time.' Andréa tries to buy time for her reluctant actress."),
     (4, None, "'It is tomorrow, we have no choice!' Samir is completely inflexible."),
     (5, None, "'We are going to manage, Samir.' The pronoun 'there' combines with the verb for 'arriving' to mean 'to pull it off'."),
     (6, None, "'If you say so. Tell the actors, I am too busy.' Samir leaves the hard conversation to the agents."),
     (7, None, "'Why are there always love scenes?' Inside the hotel bedroom, Julie groans at the news."),
-    (8, None, "'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise using the conditional."),
+    (8, None, "'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise to soften the point."),
     (9, None, "'Meaning what?' This hyphenated phrase literally means 'that is to say'."),
     (10, None, "'I don't know.' Put on the spot, Julie scrambles for an example."),
     (11, None, "'A flowing river? Animals frolicking in the woods?' She pitches vintage poetic cinema metaphors."),

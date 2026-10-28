@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I deduce that the Chopard jewelry has arrived. Hello.' Andréa remarks on the imposing security guard. Andréa pairs the verb meaning 'deduce' with the noun for 'jewelry'.
-- 'Who are you, madam?' Renard demands formal identification. The question word 'who' introduces a direct question.
-- 'Andréa Martel, Juliette Binoche's agent.' Andréa introduces herself with authority. A concise spoken phrase built around the French noun for 'agent'.
-- 'You must wait here, madam.' Renard blocks the entrance impassively. The modal verb 'must' conveys a strict administrative order.
-- 'Aren't you the jewelry bodyguard?' Andréa quips about his defensive presence. The compound noun 'bodyguard' denotes a personal bodyguard.
-- 'I protect the security of the room.' Renard defines his strict protective mission. Renard pairs the verb meaning 'protect' with the noun for 'room'.
-- 'What then? Counter-terrorism?' Andréa teases his solemn demeanor. The technical noun 'counter-terrorism' humorously exaggerates the security level.
-- 'Renard here. I have a certain Martel at room 403.' Renard radios his central command. Notice how the verb for 'have' leads straight into 'room'.
-- 'A certain Martel? I am her exclusive agent!' Andréa bristles at being treated like a stranger. Andréa pairs the verb meaning 'am' with the noun for 'agent'.
-- 'I am checking the authorizations.' Renard follows protocol without emotion. Listen for the expression meaning 'am checking', which leads naturally into 'authorizations'.
-- 'Do not put your big paws everywhere.' Andréa snaps into her phone while waiting. The colloquial noun 'paws' refers metaphorically to clumsy hands.
-- 'Not you, of course.' Andréa quickly clarifies her phone insult to the guard. The polite exception 'not' prevents an awkward misunderstanding.
-- 'Okay, I understand.' Renard receives confirmation on his radio. The key word here means 'okay', paired with 'understood' to make the point clear.
-- 'It is all right, you can go in.' Renard steps aside to permit entry. Renard opens with the word for 'it is' and lands on 'enter' at the close.
-- 'Thank you very much, Renard.' Andréa acknowledges the bodyguard with cool irony. The formal thanks are addressed directly using the guard's radio call sign.
-- 'Have a good day, madam.' Renard concludes the exchange with professional courtesy. The courteous formula 'good' wraps up the gatekeeper encounter.
+- 'I deduce that the Chopard jewelry has arrived. Hello.' Andrea remarks on the imposing security guard.
+- 'Who are you, madam?' Renard demands formal identification.
+- 'Andréa Martel, Juliette Binoche's agent.' Andrea introduces herself with authority.
+- 'You must wait here, madam.' Renard blocks the entrance impassively.
+- 'Aren't you the jewelry bodyguard?' Andrea quips about his defensive presence.
+- 'I protect the security of the room.' Renard defines his strict protective mission.
+- 'What then? Counter-terrorism?' Andréa teases him about his secretive behavior.
+- 'Renard here. I have a certain Martel at room 403.' Renard radios his central command.
+- 'A certain Martel? I am her exclusive agent!' Andrea bristles at being treated like a stranger.
+- 'I am checking the authorizations.' Renard follows protocol without emotion.
+- 'Do not put your big paws everywhere.' Andrea snaps into her phone while waiting.
+- 'Not you, of course.' Andrea quickly clarifies her phone insult to the guard.
+- 'Okay, I understand.' Renard receives confirmation on his radio.
+- 'It is all right, you can go in.' Renard steps aside to permit entry.
+- 'Thank you very much, Renard.' Andrea acknowledges the bodyguard with cool irony.
+- 'Have a good day, madam.' Renard concludes the exchange with professional courtesy.

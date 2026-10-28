@@ -32,18 +32,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'He wanted me to be tough.' Norman describes the director's demanding vision.
 - 'I cannot do it, I have not lived enough.' Norman admits his feeling of inadequacy.
-- 'He told me to search within myself.' The verb meaning 'has' anchors the whole remark.
+- 'He told me to search within myself.' Norman recalls that Jacques Audiard told him to dig deep inside himself for the role.
 - 'I searched but there was nothing.' Norman describes his internal emptiness.
 - 'You invented a whole genre on the Internet.' Gabriel reminds Norman of his creative achievements.
 - 'You have your own madness, your own violence.' Gabriel affirms Norman's unique energy.
-- 'Audiard wants what lies beneath the surface.' Gabriel opens with the word for 'wants' and lands on 'exterior' at the close.
+- 'Audiard wants what lies beneath the surface.' Gabriel explains that Audiard wants to see the vulnerability hidden beneath the comedy.
 - 'In any case, it is too late now.' This common conversational idiom means anyway.
 - 'No, it is not too late.' Gabriel prepares his surprising revelation.
-- 'I did not call him.' Gabriel opens with the word for 'have' and lands on 'called' at the close.
-- 'You saved my skin!' The verb meaning 'have' anchors the whole remark.
-- 'Mr. Sarda, follow me, please.' The key word here means 'Mr.', paired with 'follow me' to make the point clear.
-- 'You are free to leave.' Listen for the expression meaning 'are', which leads naturally into 'leave'.
-- 'I heard you talking last night.' Notice how the verb for 'have' leads straight into 'night'.
+- 'I did not call him.' The compound past negation 'ne...
+- 'You saved my skin!' Grateful for the pep talk, Norman tells Gabriel he just saved his skin.
+- 'Mr. Sarda, follow me, please.' In the morning, the police officer opens the cell and asks Gabriel to follow him.
+- 'You are free to leave.' The officer informs them both that they are free to go.
+- 'I heard you talking last night.' Moved by their midnight heart-to-heart, the officer admits he overheard them talking.
 - 'Everyone has fear. He must make this movie.' The officer shows deep empathy for the young actor.
 - 'Thank you very much!' Gabriel expresses immense gratitude.
 - 'Should I drive? No.' Norman jokes about his missing driver's license.

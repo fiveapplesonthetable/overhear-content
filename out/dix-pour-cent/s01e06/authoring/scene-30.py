@@ -31,14 +31,14 @@ STORY = [
     ('andrea', 'Quand tout va mal, il y a toujours le cinéma.', 'When everything is going badly, there is always the movies.', [(821, 'Quand tout va mal'), (822, 'il y a toujours le cinéma')], ''),
 ]
 WALK = [
-    (0, None, "'At first, all three of us were really very sad.' The adjective meaning 'collective' agrees in gender and number with masculine noun 'suicide'."),
+    (0, None, "'At first, all three of us were really very sad.' The phrase 'all alone' means 'all by myself'."),
     (1, None, "'Then we found Samuel's good whisky.'s whiskey, so we're not killing ourselves.' Drinking their late founder's whiskey brings the four rivals back together."),
-    (2, None, "'You are drunk, Mathias. I have never seen you drunk!' The negation 'not... never' wraps around the helper verb 'have'."),
+    (2, None, "'You are drunk, Mathias. I have never seen you drunk!' The negation 'not..."),
     (3, None, "'I am not drunk, not at all!' The fixed phrase 'not of the all' means 'not at all'."),
     (4, None, "'At your first Cannes Festival, you disappeared for three days.'s like your first Cannes Festival. You had disappeared for three days.' Gabriel brings up a legendary agency mystery from twenty years ago."),
     (5, None, "'He was a sober young man, always very professional...' Even in his twenties, Mathias was known for being buttoned-up and serious."),
-    (6, None, "'But there was this party in a villa with a swimming pool...' Gabriel opens with the word for 'was' and lands on 'swimming pool' at the close."),
-    (7, None, "'Don't talk about swimming pools, please!' The key word here means 'talk', paired with 'swimming pool' to make the point clear."),
+    (6, None, "'But there was this party in a villa with a swimming pool...' The imperfect form 'there was' sets the scene of the Cannes party."),
+    (7, None, "'Don't talk about swimming pools, please!' After Francois Berleand's pool drama and falling into the water at the party, Andrea never wants to hear the word 'pool' again."),
     (8, None, "'What did you do for three days? We want to know!' Everyone presses Mathias for his secret."),
     (9, None, "'I don't remember, Gabriel.' Mathias smiles enigmatically, keeping the memory of Camille's mother to himself."),
     (10, None, "'We're going to get through this, kids. We always have.' The reflexive verb 'to get oneself out of it' means 'to pull through' or 'to manage'."),

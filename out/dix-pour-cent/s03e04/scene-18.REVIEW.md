@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in Mathias, put down your coat.' Noemie invites him into her hallway. The verb meaning 'come in' pairs naturally with the noun for 'coat' in everyday conversation.
-- 'Thank you Noemie, your apartment is charming.' Mathias compliments her interior decor. The formal 'you' pronoun sets a courteous, professional distance around 'flat'.
-- 'Would you like a cup of coffee?' Noemie prepares breakfast refreshments. Notice how 'would you like' leads directly into the noun meaning 'cup'.
-- 'With great pleasure, dear Noemie.' Mathias accepts her breakfast offer. The key noun here means 'pleasure', anchored by its matching French article.
-- 'Take these good croissants too.' Noemie lays out the fresh pastries. The verb meaning 'take' pairs naturally with the noun for 'croissants' in everyday conversation.
-- 'Noemie, I miss you so much.' Mathias speaks from the bottom of his heart. The formal 'you' pronoun sets a courteous, professional distance around 'are missed by'.
-- 'I can no longer manage without you.' Mathias admits his complete helplessness. The two-part negative structure wraps around 'can' to express 'no longer' or 'not anymore'.
-- 'Yet, you hurt me in the past.' Noemie reminds him of broken promises. The clause hinges on the everyday verb meaning 'have'.
-- 'I made terrible mistakes.' Mathias takes full personal responsibility. The verb meaning 'have' pairs naturally with the noun for 'mistakes' in everyday conversation.
-- 'The agency needs you.' Mathias appeals to her proven indispensability at ASK. The formal 'you' pronoun sets a courteous, professional distance around 'has'.
-- 'And I too, I need you.' Mathias moves beyond business to personal truth. Mathias uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
-- 'It is difficult to forget everything.' Noemie expresses natural caution. The clause hinges on the everyday verb meaning 'to forget'.
-- 'Come back to work with me, Noemie.' Mathias makes his heartfelt proposal. The clause hinges on the everyday verb meaning 'come back'.
-- 'Give me a little time.' Noemie keeps the door open while asking for space. Notice how 'give me' leads directly into the noun meaning 'while'. Now let's hear the whole conversation again.
+- 'Come in Mathias, put down your coat.' Noémie invites him into her hallway.
+- 'Thank you Noemie, your apartment is charming.' Mathias compliments her interior decor.
+- 'Would you like a cup of coffee?' Noémie prepares breakfast refreshments.
+- 'With great pleasure, dear Noemie.' Mathias accepts her breakfast offer.
+- 'Take these good croissants too.' Noémie lays out the fresh pastries.
+- 'Noemie, I miss you so much.' Mathias speaks from the bottom of his heart.
+- 'I can no longer manage without you.' Mathias admits his complete helplessness.
+- 'Yet, you hurt me in the past.' Noémie reminds him of broken promises.
+- 'I made terrible mistakes.' Mathias takes full personal responsibility.
+- 'The agency needs you.' Mathias appeals to her proven indispensability at ASK.
+- 'And I too, I need you.' Mathias moves beyond business to personal truth.
+- 'It is difficult to forget everything.' Noémie expresses natural caution.
+- 'Come back to work with me, Noemie.' Mathias makes his heartfelt proposal.
+- 'Give me a little time.' Noémie keeps the door open while asking for space. Now listen to the scene again at normal speed and see how much you understand.

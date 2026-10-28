@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am looking for Madame Bonnero.' Andrea arrives at the front door. Notice how 'look for' leads directly into the noun meaning 'hello'.
-- 'Yes, that is me, who are you?' Madame Bonnero greets the visitor cautiously. Inverting the verb and pronoun around 'the key idea' creates a crisp, polished question.
-- 'I come to speak with you about Dany.' Andrea states the reason for her trip. The formal 'you' pronoun sets a courteous, professional distance around 'come'.
-- 'I never talk to journalists.' Madame Bonnero expresses her distrust of the media. Notice how 'speak' leads directly into the noun meaning 'journalists'.
-- 'I am not a journalist!' Andrea clarifies her professional background. The two-part French negation brackets the verb for 'the verb' on both sides.
-- 'Who are you then, young woman?' Madame Bonnero asks for her true identity. The descriptive adjective for 'young' agrees in gender and number with its noun.
-- 'Let's go in, I explain everything.' Andrea suggests talking inside. The clause hinges on the everyday verb meaning 'let's enter'.
-- 'Come into my warm kitchen.' Madame Bonnero welcomes Andrea into her home. The descriptive adjective for 'warm' agrees in gender and number with its noun.
-- 'At ASK, we know Dany well.' Andrea underscores the agency's closeness with the star. The clause hinges on the everyday verb meaning 'know'.
-- 'Mathias always took care of him.' Madame Bonnero remembers the former agent fondly. The clause hinges on the everyday verb meaning 'cared for'.
-- 'Mathias abandoned ship.' Andrea uses a vivid metaphor for his sudden departure. Notice how 'has' leads directly into the noun meaning 'ship'.
-- 'Take the time and eat well.' Madame Bonnero dispenses motherly wisdom. The verb meaning 'take' pairs naturally with the noun for 'time' in everyday conversation.
-- 'I really want to take my time.' Andrea accepts the pause from agency stress. Notice how 'want' leads directly into the noun meaning 'time'.
-- 'So, what do we eat together?' Madame Bonnero prepares a generous northern meal. The standard spoken question formula at the front turns the statement about 'eat' into a natural inquiry.
+- 'Hello, I am looking for Madame Bonnero.' Andrea arrives at the front door.
+- 'Yes, that is me, who are you?' Madame Bonnero greets the visitor cautiously.
+- 'I come to speak with you about Dany.' Andrea states the reason for her trip.
+- 'I never talk to journalists.' Madame Bonnero expresses her distrust of the media.
+- 'I am not a journalist!' Andrea clarifies her professional background.
+- 'Who are you then, young woman?' Madame Bonnero asks for her true identity.
+- 'Let's go in, I explain everything.' Andrea suggests talking inside.
+- 'Come into my warm kitchen.' His mother welcomes them warmly into the kitchen for a meal.
+- 'At ASK, we know Dany well.' Andrea underscores the agency's closeness with the star.
+- 'Mathias always took care of him.' Madame Bonnero remembers the former agent fondly.
+- 'Mathias abandoned ship.' Andrea uses a vivid metaphor for his sudden departure.
+- 'Take the time and eat well.' Madame Bonnero dispenses motherly wisdom.
+- 'I really want to take my time.' Andrea accepts the pause from agency stress.
+- 'So, what do we eat together?' Madame Bonnero prepares a generous northern meal.

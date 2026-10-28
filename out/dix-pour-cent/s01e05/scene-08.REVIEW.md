@@ -42,4 +42,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Can I have invitations? Yes, he says yes!' Sofia doesn't even wait for Gabriel's answer before promising premiere tickets to her new friend.
 - 'I'll leave you to concentrate.' Gabriel politely excuses himself to escape Sofia's questions.
 - 'There are horses and everything!' Sofia keeps bragging about the grand period production.
-- 'Here, darling. This will do you good. Come here.' Nearby, Andréa hands Julie Gayet a warm cup of tea and leads her toward the greenhouse for a surprise meeting.
+- 'Here, darling. This will do you good. Come here.' Nearby, Andrea hands Julie Gayet a warm cup of tea and leads her toward the greenhouse for a surprise meeting.

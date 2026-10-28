@@ -35,11 +35,11 @@ STORY = [
 ]
 WALK = [
     (0, None, "'What are you doing here?' He uses the casual 'you', the one for family and friends, so we already sense these two know each other well. Camille answers brightly."),
-    (1, "J'ai trouvé un travail.", "'I found a job.' This is the past tense French uses most in conversation: a helper verb, 'have', plus the action. Literally 'I have found a job'."),
+    (1, "J'ai trouvé un travail.", "'I found a job.' This is the past French uses most in conversation: a helper word, 'have', plus the action. Literally 'I have found a job'."),
     (1, 'Super, non?', "'Great, isn't it?' Adding the little word for 'no' with a question mark at the end is an easy way to ask for agreement. Mathias can only repeat her words."),
     (3, None, "'I'm Andréa Martel's new assistant.' The word for 'new' takes its feminine form, because Camille is a woman. And to say whose assistant she is, French puts the owner last, after a small linking word."),
     (4, None, "'Listen, I reacted badly this morning.' He starts with a casual command, 'listen', to calm things down. It's almost an apology."),
-    (5, None, "'I wasn't expecting to see you.' Notice how the negative wraps around the verb: one small word before it, and the word for 'not' after it. Then he makes an offer."),
+    (5, None, "'I wasn't expecting to see you.' Notice how the negative wraps around the action word: one small word before it, and the word for 'not' after it. Then he makes an offer."),
     (6, None, "'If you want, I can help you find a job.' He means anywhere else, a nice long way from his agency. Camille is polite, but she doesn't move an inch."),
     (7, None, "'That's kind, but I'm fine here.' Literally 'I am well here'. This is the line that makes Mathias lose his temper. In the show he swears; here we keep it clean."),
     (8, None, "'No, Camille! It's not possible.' Here is that negative wrap again, around the verb 'is'. In fast speech the French often drop the first little word, and you'll hear exactly that in the episode."),

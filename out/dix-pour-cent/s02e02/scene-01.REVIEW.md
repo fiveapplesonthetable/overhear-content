@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Mr. Janowski, you are majority shareholder of ASK with sixty percent.' Mathias formally announces the new ownership stake.
 - 'All our congratulations.' A plural polite expression of congratulations in professional life.
-- 'Thank you very much to all.' Hicham opens with the word for 'much' and lands on 'much' at the close.
-- 'When I was a kid, I dreamed of being an actor.' A compound past memory introduced by a temporal connecting word.
-- 'I wanted to be a real star.' An imperfect verb expressing childhood ambition with a feminine noun.
+- 'Thank you very much to all.' A gracious response addressing the entire gathered agency team.
+- 'When I was a kid, I dreamed of being an actor.' A compound past memory introduced by a temporal conjunction.
+- 'I wanted to be a real star.' Hicham admits that as a teenager he dreamed of becoming a real star.
 - 'You take care of the actors, that is your field.' A pronominal verb indicating daily operational responsibility.
-- 'I am very happy and enthusiastic to be here.' The verb meaning 'am' anchors the whole remark.
+- 'I am very happy and enthusiastic to be here.' Two coordinated descriptive adjectives expressing excitement.
 - 'To your health!' A classic celebratory toast raised to the company.
-- 'Cheers, Mr. Janowski.' Andréa politely returns the toast using his formal surname.
+- 'Cheers, Mr. Janowski.' Andrea politely returns the toast using his formal surname.
 - 'Your real name is Marteau?' Hicham teases his former classmate about an old childhood nickname.
-- 'No, it is just an old nickname.' Andréa dismisses the childish moniker with a restrictive adverb.
+- 'No, it is just an old nickname.' Andréa brushes off the embarrassing childhood nickname as ancient history.
 - 'Here, my name is Martel, okay?' A firm boundary establishing her adult professional identity.
 - 'I do not want to ruin our honeymoon.' A playful metaphor referring to their initial working relationship.
 - 'Cheers, Andréa Martel!' Hicham seals the truce by addressing her with full respect.

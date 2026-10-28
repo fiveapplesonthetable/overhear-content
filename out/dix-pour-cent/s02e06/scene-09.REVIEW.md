@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome to Cannes, Juliette.' Andréa arrives at the hotel with an affectionate greeting. The key word here means 'welcome', paired with 'welcome' to make the point clear.
-- 'Hello Andréa, how are you?' Juliette welcomes her agent warmly. Listen for the expression meaning 'how', which leads naturally into 'are you doing'.
-- 'We have a problem with the tuxedo.' Andréa delivers the diplomatic wardrobe dilemma. The masculine noun 'tuxedo' refers specifically to a formal tuxedo or dinner jacket.
-- 'The Chinese actress Gong Li is wearing one for the opening ceremony.' Andréa explains the conflict. Andréa pairs the verb meaning 'is wearing' with the noun for 'opening'.
-- 'An Armani too?' Juliette checks the specific fashion house. Listen for the expression meaning 'too', which leads naturally into 'too'.
-- 'No, another designer. But it is still a tuxedo.' Andréa insists on the visual clash. The concessive locution 'still' underscores the visual redundancy on the red carpet.
-- 'Two women cannot wear the same dress!' Andréa states the red-carpet protocol. The adjective meaning 'same' agrees in gender and number with feminine noun 'women'.
-- 'But all the men can dress the same!' Juliette points out the unfair double standard. Listen for the expression meaning 'men', which leads naturally into 'the same'.
-- 'I felt very good in that tuxedo.' Juliette expresses her disappointment. The key word here means 'felt', paired with 'tuxedo' to make the point clear.
-- 'I will call her agent and we will discuss it.' Andréa offers to negotiate a resolution. The near future 'I' promises immediate intervention.
-- 'That will be useless.' Juliette realistically assesses the balance of power. The verb meaning 'will serve' anchors the whole remark.
-- 'Gong Li is the icon of L'Oreal, the main partner of the festival.' Andréa admits the corporate clout. The adjective meaning 'main' agrees in gender and number with feminine noun 'icon'.
-- 'But we have good news. Your second choice has been repaired.' Andréa presents an alternative. The passive structure 'a ete repare' uses the compound past helping verb.
-- 'And I need high-heeled shoes.' Juliette highlights the complexity. The expression 'a whole' denotes an elaborate and exhausting undertaking.
-- 'We could arrange a new fitting with three outfits.' Andréa proposes a quick styling session. The key word here means 'could', paired with 'outfits' to make the point clear.
-- 'No, I think that will be very fine.' Juliette decides to make the best of the backup gown. The colloquial future 'that' accepts the solution cheerfully.
+- 'Welcome to Cannes, Juliette.' Andrea arrives at the hotel with an affectionate greeting.
+- 'Hello Andréa, how are you?' Juliette welcomes her agent warmly.
+- 'We have a problem with the tuxedo.' Andrea delivers the diplomatic wardrobe dilemma.
+- 'The Chinese actress Gong Li is wearing one for the opening ceremony.' Andrea explains the conflict.
+- 'An Armani too?' Juliette checks the specific fashion house.
+- 'No, another designer. But it is still a tuxedo.' Andrea insists on the visual clash.
+- 'Two women cannot wear the same dress!' Andrea states the red-carpet protocol.
+- 'But all the men can dress the same!' Juliette points out the unfair double standard.
+- 'I felt very good in that tuxedo.' Juliette expresses her disappointment.
+- 'I will call her agent and we will discuss it.' Andrea offers to negotiate a resolution.
+- 'That will be useless.' Juliette realistically assesses the balance of power.
+- 'Gong Li is the icon of L'Oreal, the main partner of the festival.' Andrea admits the corporate clout.
+- 'But we have good news. Your second choice has been repaired.' Andrea presents an alternative.
+- 'And I need high-heeled shoes.' Juliette highlights the complexity.
+- 'We could arrange a new fitting with three outfits.' Andrea proposes a quick styling session.
+- 'No, I think that will be very fine.' Juliette decides to make the best of the backup gown.

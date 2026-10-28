@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth is that?' The director is horrified by the strange makeup look. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'I said ghost, not geisha!' The director angrily points out the thick white powder covering her face. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
-- 'We are doing what we can!' Andrea defends their improvised on-set preparations. The clause hinges on the everyday verb meaning 'are doing'.
-- 'Post-mortem lividity is not white.' Isabelle points out the scientific inaccuracy of the makeup. The key noun here means 'lividity', anchored by its matching French article.
-- 'The skin turns rather bluish pink.' The nurse describes authentic physiological coloration after death. The descriptive adjective for 'pink' agrees in gender and number with its noun.
-- 'Are you giving medical advice now?' The director is annoyed by the unexpected critique. The formal 'you' pronoun sets a courteous, professional distance around 'give'.
-- 'I say that from professional experience!' Isabelle proudly defends her hospital training. Notice how 'say' leads directly into the noun meaning 'experience'.
-- 'Do you not care about accuracy in cinema?' Isabelle questions the casual indifference of filmmakers. The verb meaning 'care' pairs naturally with the noun for 'cinema?' in everyday conversation.
-- 'Should I completely de-talc her?' The director asks whether to wipe off the white powder. In everyday spoken French, rising intonation on 'must' at the end is enough to turn the sentence into a question.
-- 'Yes please, clean her face.' Andrea urges him to fix the makeup quickly. Notice how 'pleases' leads directly into the noun meaning 'face.'.
-- 'The shoot is falling very behind!' The director stresses over the tight production schedule. Dropping the subject pronoun turns the verb for 'is taking' into a direct, punchy command.
-- 'Everything is going to go very well.' Andrea reassures the crew that the shot will work. The short 'self' word sits right in front of the verb for 'is going', turning the action back onto the subject.
-- 'Trust a certified nurse!' Isabelle brings comedic confidence to her acting debut. Dropping the subject pronoun turns the verb for 'place' into a direct, punchy command.
+- 'What on earth is that?' The director is horrified by the strange makeup look.
+- 'I said ghost, not geisha!' The director angrily points out the thick white powder covering her face.
+- 'We are doing what we can!' Andrea defends their improvised on-set preparations.
+- 'Post-mortem lividity is not white.' Isabelle points out the scientific inaccuracy of the makeup.
+- 'The skin turns rather bluish pink.' The nurse describes authentic physiological coloration after death.
+- 'Are you giving medical advice now?' The director is annoyed by the unexpected critique.
+- 'I say that from professional experience!' Isabelle proudly defends her hospital training.
+- 'Do you not care about accuracy in cinema?' Isabelle questions the casual indifference of filmmakers.
+- 'Should I completely de-talc her?' The director asks whether to wipe off the white powder.
+- 'Yes please, clean her face.' Andrea urges him to fix the makeup quickly.
+- 'The shoot is falling very behind!' The director stresses over the tight production schedule.
+- 'Everything is going to go very well.' Andrea reassures the crew that the shot will work.
+- 'Trust a certified nurse!' Isabelle brings comedic confidence to her acting debut.

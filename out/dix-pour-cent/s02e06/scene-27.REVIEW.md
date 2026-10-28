@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi Andréa, let me explain my presence...' Camille starts nervously, fearing Andréa might be displeased to see her.
-- 'There is absolutely no need.' Andréa cuts her off gently, dismissing any awkward tension.
-- 'It is hard to no longer work together!' Andréa acknowledges the emotional gap created by Camille's departure.
-- 'Let us toast to our reunion, cheers Camille!' Andréa raises her champagne glass to celebrate their friendship.
-- 'I missed you very much these past days.' Andréa openly admits her attachment to her former assistant.
+- 'Hi Andréa, let me explain my presence...' Camille starts nervously, fearing Andrea might be displeased to see her.
+- 'There is absolutely no need.' Andrea cuts her off gently, dismissing any awkward tension.
+- 'It is hard to no longer work together!' Andrea acknowledges the emotional gap created by Camille's departure.
+- 'Let us toast to our reunion, cheers Camille!' Andrea raises her champagne glass to celebrate their friendship.
+- 'I missed you very much these past days.' Andrea openly admits her attachment to her former assistant.
 - 'Is that true? I missed you too.' Camille responds with spontaneous and sincere warmth.
-- 'And what are these funny shoes?' Andréa playfully points out Camille's slightly oversized party shoes.
+- 'And what are these funny shoes?' Andrea playfully points out Camille's slightly oversized party shoes.
 - 'These are my mother's shoes!' Camille explains the comical rescue arranged by Annick earlier.
-- 'Tell me, do you know the city of New York?' Andréa introduces a momentous life topic casually.
+- 'Tell me, do you know the city of New York?' Andrea introduces a momentous life topic casually.
 - 'Not at all, I have never been there.' Camille answers with genuine curiosity and modesty.
-- 'Do you want to come to New York with me?' Andréa extends an extraordinary invitation to cross the Atlantic.
-- 'They are offering me a position at UBA.' Andréa discloses the confidential offer from the international agency.
-- 'I will definitely need an assistant over there.' Andréa makes clear that she trusts no one else by her side.
+- 'Do you want to come to New York with me?' Andrea extends an extraordinary invitation to cross the Atlantic.
+- 'They are offering me a position at UBA.' Andrea discloses the confidential offer from the international agency.
+- 'I will definitely need an assistant over there.' Andrea makes clear that she trusts no one else by her side.
 - 'Yes, of course, that is completely crazy!' Camille reacts with joyous shock at the incredible prospect.
-- 'Perfect, we will discuss it very soon together.' Andréa seals the partnership with optimistic confidence.
+- 'Perfect, we will discuss it very soon together.' Andrea seals the partnership with optimistic confidence.

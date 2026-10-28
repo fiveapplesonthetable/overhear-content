@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is rule number one here.' Andréa establishes the fundamental agency principle. The presentative 'here is' introduces 'the' with authority.
-- 'We never flirt with clients. Never.' Andréa states the ethical boundary emphatically. Listen for the expression meaning 'not', which leads naturally into 'never'.
-- 'I was just offering a very warm welcome.' Gabriel minimizes his playful charm. The adjective meaning 'warm' agrees in gender and number with masculine noun 'welcome'.
-- 'What harm can it do?' Gabriel questions the strict prohibition casually. The question form determiner 'what' agrees with the masculine noun 'harm'.
-- 'She is a magnificent raw talent.' Andréa defends her new client's artistic promise. Notice how the verb for 'she is' leads straight into 'talent'.
-- 'It took me months to get this meeting.' Andréa emphasizes her patient effort. Notice how the verb for 'took me' leads straight into 'meeting'.
-- 'Every agent in Paris wants her.' Andréa underscores the intense competition. The plural determiner 'all' precedes the noun 'agents'.
-- 'I did all the work because I believe in her.' Andréa asserts her professional dedication. Andréa pairs the verb meaning 'I have' with the noun for 'work'.
-- 'I do not want you to ruin everything.' Andréa warns against reckless interference. Andréa opens with the word for 'not' and lands on 'fail' at the close.
-- 'You flirt with your clients too, Andréa.' Gabriel deflects the criticism playfully. Gabriel pairs the verb meaning 'flirt with' with the noun for 'client'.
-- 'Tell me you are not attracted to her.' Gabriel challenges her personal motives. Gabriel gives a direct command form using the verb for 'tell me'.
-- 'Of course I am, otherwise I would not want to represent her.' Andréa readily concedes. The affirmative response 'of course' contradicts a negative question.
-- 'But I do not want to date her.' Andréa draws a sharp line between attraction and action. The colloquial infinitive 'to sleep with' denotes sleeping with someone.
-- 'That is the big difference between you and me.' Andréa summarizes her professional discipline. Listen for the expression meaning 'that is', which leads naturally into 'difference'.
-- 'I am being careful, do not worry.' Gabriel attempts to reassure his colleague. The key word here means 'make', paired with 'not' to make the point clear.
-- 'Stay away from her, that is all I ask of you.' Andréa delivers her final firm instruction. The relative structure 'that' functions as the object of 'I'.
+- 'Here is rule number one here.' Andrea establishes the fundamental agency principle.
+- 'We never flirt with clients. Never.' Andrea states the ethical boundary emphatically.
+- 'I was just offering a very warm welcome.' Gabriel minimizes his playful charm.
+- 'What harm can it do?' Gabriel questions the strict prohibition casually.
+- 'She is a magnificent raw talent.' Andrea defends her new client's artistic promise.
+- 'It took me months to get this meeting.' Andrea emphasizes her patient effort.
+- 'Every agent in Paris wants her.' Andrea underscores the intense competition.
+- 'I did all the work because I believe in her.' Andrea asserts her professional dedication.
+- 'I do not want you to ruin everything.' Andrea warns against reckless interference.
+- 'You flirt with your clients too, Andréa.' Gabriel deflects the criticism playfully.
+- 'Tell me you are not attracted to her.' Gabriel challenges her personal motives.
+- 'Of course I am, otherwise I would not want to represent her.' Andrea readily concedes.
+- 'But I do not want to date her.' Andrea draws a sharp line between attraction and action.
+- 'That is the big difference between you and me.' Andrea summarizes her professional discipline.
+- 'I am being careful, do not worry.' Gabriel attempts to reassure his colleague.
+- 'Stay away from her, that is all I ask of you.' Andrea delivers her final firm instruction.

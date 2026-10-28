@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at this magnificent big crib!' Colette discovers the delivery. Notice how 'look at' leads directly into the noun meaning 'crib'.
-- 'This gift does not come from my mother.' Andrea clarifies the origin of the item. The verb meaning 'comes' pairs naturally with the noun for 'gift' in everyday conversation.
-- 'Who sent this luxurious crib?' Colette asks with rising suspicion. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
-- 'It is Hicham for the little flea.' Andrea shares Hicham's affectionate note. The verb meaning 'it is' pairs naturally with the noun for 'sweetie' in everyday conversation.
-- 'Hicham takes up too much room in our home!' Colette voices her discomfort. Notice how 'takes' leads directly into the noun meaning 'room'.
-- 'I keep my distance from him.' Andrea defends her daily behavior. The verb meaning 'keep' pairs naturally with the noun for 'distance' in everyday conversation.
-- 'You do not set clear boundaries.' Colette expects firmer rules. Colette uses the casual singular 'you' with 'set', showing close familiarity.
-- 'Are you angry with me for this situation?' Andrea senses lingering resentment. Notice how the short vowel drops before a vowel sound around 'are angry', making the phrase flow smoothly as one unit.
-- 'You knew that it would be difficult.' Colette recalls their prior discussions. The clause hinges on the everyday verb meaning 'knew'.
-- 'I lost my post in New York.' Andrea reminds her of personal sacrifices. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'I see him every day at work.' Andrea highlights her daily professional stress. Notice how 'see' leads directly into the noun meaning 'days'.
-- 'It is unfair to blame me for that.' Colette rejects unfair accusations. The clause hinges on the everyday verb meaning 'it is'.
-- 'I want to build this family with you.' Colette reaffirms her emotional commitment. Notice how 'want' leads directly into the noun meaning 'family'.
-- 'This baby is our most beautiful adventure.' Andrea softens the argument with love. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes. Now let us listen to the couple's conversation once more at natural speed.
+- 'Look at this magnificent big crib!' Colette discovers the delivery.
+- 'This gift does not come from my mother.' Andrea clarifies the origin of the item.
+- 'Who sent this luxurious crib?' Colette asks with rising suspicion.
+- 'It is Hicham for the little flea.' Andrea shares Hicham's affectionate note.
+- 'Hicham takes up too much room in our home!' Colette voices her discomfort.
+- 'I keep my distance from him.' Andrea defends her daily behavior.
+- 'You do not set clear boundaries.' Colette expects firmer rules.
+- 'Are you angry with me for this situation?' Andrea senses lingering resentment.
+- 'You knew that it would be difficult.' Colette recalls their prior discussions.
+- 'I lost my post in New York.' Andrea reminds her of personal sacrifices.
+- 'I see him every day at work.' Andrea highlights her daily professional stress.
+- 'It is unfair to blame me for that.' Colette rejects unfair accusations.
+- 'I want to build this family with you.' Colette reaffirms her emotional commitment.
+- 'This baby is our most beautiful adventure.' Andrea softens the argument with love. Now let us listen to the couple's conversation once more at natural speed.

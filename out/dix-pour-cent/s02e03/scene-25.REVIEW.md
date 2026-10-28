@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come and play laser games!' An command form urging participation in the game.
-- 'Dressing up and being shot at is not my thing.' The adverb meaning 'at' sharpens the verb for 'dressing up' here.
-- 'You will see the agency's atmosphere.' The near future tense expressing immediate experience.
-- 'Where are the vests?' Listen for the expression meaning 'where', which leads naturally into 'vests'.
-- 'Janowski, your turn to play!' The key word here means 'play', paired with 'play' to make the point clear.
+- 'Come and play laser games!' Andréa urges everyone at the agency party to come play laser tag.
+- 'Dressing up and being shot at is not my thing.' Norman admits that dressing up and getting shot at is not really his thing.
+- 'You will see the agency's atmosphere.' Andréa tells Norman he is about to see the agency's true competitive spirit.
+- 'Where are the vests?' Andréa looks around eagerly for the laser-tag vests.
+- 'Janowski, your turn to play!' Andréa challenges Hicham to step up and play.
 - 'Hi, Norman. Congratulations on your movie.' Gabriel offers congratulations on a new film.
-- 'Thanks, Gabriel.' A standard polite acknowledgment.
-- 'I did not imagine you in that role.' An imperfect tense expressing past expectations.
-- 'A role like what?' Norman combines 'role' with 'what' in a natural French turn of phrase.
-- 'A real role in a dramatic film.' Listen for the expression meaning 'real', which leads naturally into 'dramatic'.
-- 'Where you must really act.' The key word here means 'where', paired with 'acting' to make the point clear.
+- 'Thanks, Gabriel.' Norman thanks Gabriel warmly for the compliment.
+- 'I did not imagine you in that role.' Gabriel admits he had not pictured Norman taking on a serious role.
+- 'A role like what?' Norman bristles slightly and asks what kind of role Gabriel means.
+- 'A real role in a dramatic film.' Gabriel clarifies that he means a dramatic part in a feature film.
+- 'Where you must really act.' He adds that the part requires real dramatic acting.
 - 'Yes, it is a big change for me.' Norman reflects on his career transition.
-- 'Anyway, it is very cool.' The key word here means 'way', paired with 'cool' to make the point clear.
+- 'Anyway, it is very cool.' Norman shrugs off the pressure and says the project is very cool anyway.
 - 'You have a lot of talent, Norman.' Gabriel offers sincere professional praise.
-- 'I hope the public will like it.' Listen for the expression meaning 'I hope', which leads naturally into 'to like'.
+- 'I hope the public will like it.' Norman says he hopes audiences will embrace him in a serious film.

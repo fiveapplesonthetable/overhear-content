@@ -49,5 +49,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Give her another chance. Solveig, I beg you.' A polite command with 'to her' attached by a hyphen.
 - 'Okay.' It worked! Solveig agrees.
 - 'Akerfelt wants to see Laura Smet again!' Gabriel comes out of his office, proud of himself. Then Hervé runs up with an even bigger surprise from the director.
-- 'She wants to see Laura and Nathalie together before catching her flight.' At this point, Solveig liked the idea of actors shooting themselves in the foot so much that now she wants both mother and daughter back!
+- 'She wants to see Laura and Nathalie together before catching her flight.' Here, Solveig liked the idea of actors shooting themselves in the foot so much that now she wants both mother and daughter back!
 - 'Business is picking up again!' Literally 'business starts again'. Everything is back on track—or so the agents think. Let's listen to the whole scene again without stopping.

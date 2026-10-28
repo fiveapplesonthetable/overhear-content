@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you talking with Julien Dore?' Mathias asks Sofia why she just met the singer. Notice how 'why' opens the question, followed directly by 'you talk'.
-- 'Julien is looking for a singer for his film.' Sofia explains the musical movie project. In French, the verb for 'is looking for' already includes the 'for' idea, so no extra word is needed before 'a singer'.
-- 'Do you want to be a singer or an actress?' Mathias pushes Sofia to pick one career path. Notice how French drops the word for 'a' before professions like 'singer' and 'actress'.
-- 'I am an actress, of course.' Sofia confirms her main passion right away. The two-word phrase at the end is the everyday French way to say 'of course'.
-- 'Yes, but Sofia sings very well too!' Gabriel jumps in to praise her musical talent. The word at the end means 'too' or 'also'.
-- 'It is a good opportunity for me.' Sofia sees the role as a great chance to become known. The word for 'good' takes its feminine form here to match 'opportunity'.
-- 'No, it is bad for your image.' Mathias worries that singing will confuse casting directors. He uses the everyday phrase meaning 'it is bad' followed by 'for your image'.
-- 'In cinema, do just one thing.' Mathias advises strict career discipline. The phrase at the end literally says 'one single thing'.
-- 'Focus only on cinema.' Mathias tells her to stick to acting. The hyphenated command at the start means 'focus yourself'.
-- 'Of course not! Let us stay curious and open.' Feel how Gabriel pushes back against Mathias's strict rules. The verb form meaning 'let us stay' invites everyone to keep an open mind.
-- 'Let us listen to Julien's offer first.' Gabriel suggests hearing what Julien has in mind before saying no. The two-word phrase at the very end means 'first'.
-- 'All right, I am going to talk with Julien.' Sofia decides to hear Julien out. French uses 'I go' plus 'to talk' to say 'I am going to talk'.
+- 'Why are you talking with Julien Dore?' Mathias asks Sofia why she just met the singer.
+- 'Julien is looking for a singer for his film.' Sofia explains the musical movie project.
+- 'Do you want to be a singer or an actress?' Mathias pushes Sofia to pick one career path.
+- 'I am an actress, of course.' Sofia confirms her main passion right away.
+- 'Yes, but Sofia sings very well too!' Gabriel jumps in to praise her musical talent.
+- 'It is a good opportunity for me.' Sofia sees the role as a great chance to become known.
+- 'No, it is bad for your image.' Mathias worries that singing will confuse casting directors.
+- 'In cinema, do just one thing.' Mathias advises strict career discipline.
+- 'Focus only on cinema.' Mathias tells her to stick to acting.
+- 'Of course not! Let us stay curious and open.' Feel how Gabriel pushes back against Mathias's strict rules.
+- 'Let us listen to Julien's offer first.' Gabriel suggests hearing what Julien has in mind before saying no.
+- 'All right, I am going to talk with Julien.' Sofia decides to hear Julien out.

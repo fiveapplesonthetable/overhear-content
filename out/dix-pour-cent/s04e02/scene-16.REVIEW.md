@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am sorry about my agent.' Franck apologizes for Gabriel's clumsy and confrontational behavior. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
-- 'Is he still your official agent?' Dylan is astonished that Franck keeps Gabriel after the incident. Dylan uses the casual singular 'you' with 'agent', showing close familiarity.
-- 'Yeah, he still remains my agent.' Franck confirms his bond with Gabriel despite the recent drama. The verb meaning 'remains' pairs naturally with the noun for 'agent' in everyday conversation.
-- 'I think I will keep him.' Franck explains his decision to stand by Gabriel. The clause hinges on the everyday verb meaning 'believe'.
-- 'After all his recent blunders?' Dylan questions the wisdom of keeping such a chaotic agent. The key noun here means 'foolish mistakes', anchored by its matching French article.
-- 'He made a real mistake.' Franck honestly admits that Gabriel made an embarrassing error. Notice how 'has' leads directly into the noun meaning 'mistake'.
-- 'But he means very well.' Franck defends Gabriel's genuine heart and loyalty. The descriptive adjective for 'well-meaning' agrees in gender and number with its noun.
-- 'And he restored my confidence.' Franck reveals how much Gabriel supported him in moments of insecurity. Notice how 'has' leads directly into the noun meaning 'confidence'.
-- 'As if you needed confidence!' Dylan scoffs at the thought of a major star feeling insecure. Notice how 'had' leads directly into the noun meaning 'need'.
-- 'You are a very famous actor.' Dylan points out Franck's massive commercial popularity and success. The key noun here means 'actor', anchored by its matching French article.
-- 'Everyone doubts sometimes, Dylan.' Franck offers a vulnerable truth about the acting profession. The clause hinges on the everyday verb meaning 'doubts'.
-- 'As if you needed help?' Franck gently probes whether Dylan also hides private struggles. Franck uses the casual singular 'you' with 'had', showing close familiarity.
-- 'As if you needed a speech therapist?' Franck brings up the medical care sheet he discovered. In everyday spoken French, rising intonation on 'had' at the end is enough to turn the sentence into a question.
-- 'I did not think that you knew.' Dylan admits his shock at having his private vulnerability uncovered. The clause hinges on the everyday verb meaning 'thought'.
+- 'I am sorry about my agent.' Franck apologizes for Gabriel's clumsy and confrontational behavior.
+- 'Is he still your official agent?' Dylan is astonished that Franck keeps Gabriel after the incident.
+- 'Yeah, he still remains my agent.' Franck confirms his bond with Gabriel despite the recent drama.
+- 'I think I will keep him.' Franck explains his decision to stand by Gabriel.
+- 'After all his recent blunders?' Dylan questions the wisdom of keeping such a chaotic agent.
+- 'He made a real mistake.' Franck honestly admits that Gabriel made an embarrassing error.
+- 'But he means very well.' Franck defends Gabriel's genuine heart and loyalty.
+- 'And he restored my confidence.' Franck reveals how much Gabriel supported him in moments of insecurity.
+- 'As if you needed confidence!' Dylan scoffs at the thought of a major star feeling insecure.
+- 'You are a very famous actor.' Dylan points out Franck's massive commercial popularity and success.
+- 'Everyone doubts sometimes, Dylan.' Franck offers a vulnerable truth about the acting profession.
+- 'As if you needed help?' Franck gently probes whether Dylan also hides private struggles.
+- 'As if you needed a speech therapist?' Franck brings up the medical care sheet he discovered.
+- 'I did not think that you knew.' Dylan admits his shock at having his private vulnerability uncovered.

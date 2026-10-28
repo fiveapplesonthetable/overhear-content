@@ -36,7 +36,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past tense, so 'came' has a feminine ending for Brancillon."),
-    (1, None, "'What? To your place?' The little linking word for 'at someone's home' followed by 'you'."),
+    (1, None, "'What? To your place?' The little preposition for 'at someone's home' followed by 'you'."),
     (2, None, "'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that she's next."),
     (3, None, "'Colette? Hello! This jacket is very nice.' Later, in a clothes shop, Andréa approaches Colette by the racks."),
     (4, None, "'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out."),
@@ -46,7 +46,7 @@ WALK = [
     (8, None, "'What?' Andréa is caught off guard."),
     (9, None, "'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'."),
     (10, None, "'You pay for a gym, but you never go there.' Literally 'a room of sport', and the tiny word before 'go' means 'there'."),
-    (11, None, "'And you have a problem with your hair.' Notice how 'and' sets up the clause and leads naturally into 'hair'."),
+    (11, None, "'And you have a problem with your hair.' Plural possessive before 'hair', because 'hair' on your head is plural in French."),
     (12, None, "'No!' Andréa protests."),
     (13, None, "'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's 'no'."),
     (14, None, "'And you have lots of girlfriends.' Literally 'little friends' in the feminine."),

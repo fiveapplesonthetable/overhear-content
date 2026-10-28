@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that you?' Gabriel suspects Elise of playing a trick. The clause hinges on the everyday verb meaning 'to be'.
-- 'I do not understand.' Elise plays innocent. The two-part French negation brackets the verb for 'to understand' on both sides.
-- 'Are you going to hit me?' He asks if she will use physical force. The informal 'you' form around 'to go' marks a direct, personal relationship.
-- 'No.' She denies it immediately. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'I will not give you more weapons.' He refuses to give her more leverage. In spoken French, the little word before 'to give' drops its final vowel and attaches with an apostrophe.
-- 'You are the one putting this pressure on yourself.' She flips the blame back on him. The informal 'you' form around 'to put' marks a direct, personal relationship.
-- 'You care about your little Sofia!' She uses his actress as bait. The informal 'you' form around 'to hold' marks a direct, personal relationship.
-- 'Darn.' Gabriel curses in frustration. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'A role in Ozon's film...' Elise dangles a major opportunity. In spoken French, the little word before 'role' drops its final vowel and attaches with an apostrophe.
-- 'That will not happen often.' She reminds him how rare such a chance is. In spoken French, the little word before 'to arrive' drops its final vowel and attaches with an apostrophe.
-- 'Is it such a big sacrifice?' She questions his reluctance to join her. The descriptive adjective for 'big' agrees in gender and number with its noun.
-- 'With you, yes.' He admits that working for her is the problem. The informal 'you' form around 'this line' marks a direct, personal relationship. Let's listen to the whole scene again.
+- 'Was that you?' Gabriel suspects Elise of playing a trick.
+- 'I do not understand.' Elise plays innocent.
+- 'Are you going to hit me?' He asks if she will use physical force.
+- 'No.' She denies it immediately.
+- 'I will not give you more weapons.' He refuses to give her more leverage.
+- 'You are the one putting this pressure on yourself.' She flips the blame back on him.
+- 'You care about your little Sofia!' She uses his actress as bait.
+- 'Darn.' Gabriel curses in frustration.
+- 'A role in Ozon's film...' Elise dangles a major opportunity.
+- 'That will not happen often.' She reminds him how rare such a chance is.
+- 'Is it such a big sacrifice?' She questions his reluctance to join her.
+- 'With you, yes.' He admits that working for her is the problem. Let's listen to the whole scene again.

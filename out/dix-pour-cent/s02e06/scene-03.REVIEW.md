@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Tell me one thing, my dear Hervé.' A polite conversational opening setting an affectionate personal tone.
-- 'Yes Arlette, what is the matter?' The verb meaning 'is it' anchors the whole remark.
+- 'Yes Arlette, what is the matter?' A ready inquiry asking for clarification.
 - 'Can you take care of Jean Gabin?' A direct pronominal request asking for pet sitting help.
 - 'You are not taking him to Cannes?' A surprised negative question inquiring about festival company.
 - 'No, that is impossible with the dresses.' A blunt negative asserting high-fashion incompatibility.
-- 'Why is it impossible with the dresses?' Notice how the verb for 'is it' leads straight into 'dresses'.
-- 'He takes dresses for lampposts!' The key word here means 'takes', paired with 'lampposts' to make the point clear.
+- 'Why is it impossible with the dresses?' An interrogative phrase seeking practical explanation.
+- 'He takes dresses for lampposts!' A humorous idiom illustrating the dog's mischievous outdoor habit.
 - 'That is a very bad habit, indeed.' An amused acknowledgment conceding canine misbehavior.
-- 'Please, agree to look after him.' Arlette opens with the word for 'pleases' and lands on 'look after' at the close.
+- 'Please, agree to look after him.' A courteous imperative pleading for temporary pet care.
 - 'I have never had a dog at my place.' A past experience statement noting domestic inexperience.
 - 'He is very gentle and very well-behaved.' Complementary descriptive adjectives praising pet temperament.
-- 'And what if he gets bored without you?' Listen for the expression meaning 'gets bored', which leads naturally into 'gets bored'.
+- 'And what if he gets bored without you?' A conditional question worrying about separation anxiety.
 - 'He will do you a lot of good, you will see.' A reassuring prediction promising beneficial companionship.
 - 'All right, bring him tonight to my place.' An agreeable consent arranging evening handover.

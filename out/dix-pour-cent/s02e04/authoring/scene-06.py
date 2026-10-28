@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Are you okay? You seemed tense.' Gabriel checks in on his visibly agitated colleague."),
-    (1, None, "'I cannot stand his orders.' Andréa explains that she rebels instinctively against Hicham's bossy attitude."),
+    (1, None, "'I cannot stand his orders.' Andrea explains that she rebels instinctively against Hicham's bossy attitude."),
     (2, None, "'He cannot fire us.' Gabriel reminds her that their client relationships make them irreplaceable at the agency."),
-    (3, None, "'I will not bow down.' Andréa refuses to flatter the boss or show weakness."),
+    (3, None, "'I will not bow down.' Andrea refuses to flatter the boss or show weakness."),
     (4, None, "'Is it because of Aymeline Val?' Gabriel suspects the tension relates to their shared client Aymeline."),
     (5, None, "'Is he dating her?' Gabriel bluntly asks if Hicham scored with the model."),
-    (6, None, "'We spent the evening together.' Andréa reveals that she and Hicham had a three-way encounter."),
+    (6, None, "'We spent the evening together.' Andrea reveals that she and Hicham had a three-way encounter."),
     (7, None, "'No, that is not true!' Gabriel reacts with sheer astonishment and shock."),
-    (8, None, "'It was a mistake, he provoked me.' Andréa rationalizes the incident as a competitive reaction after being challenged."),
-    (9, None, "'You sleep with men now?' Gabriel playfully teases Andréa about her sudden departure from her usual dating preferences."),
-    (10, None, "'No, it was a tiny exception.' Andréa insists the one-night stand was completely out of character."),
+    (8, None, "'It was a mistake, he provoked me.' Andrea rationalizes the incident as a competitive reaction after being challenged."),
+    (9, None, "'You sleep with men now?' Gabriel playfully teases Andrea about her sudden departure from her usual dating preferences."),
+    (10, None, "'No, it was a tiny exception.' Andrea insists the one-night stand was completely out of character."),
     (11, None, "'So, what was it like with Hicham?' Gabriel cannot resist probing for funny personal details."),
-    (12, None, "'It was very heavy and hairy!' Andréa's candid summary leaves Gabriel in stitches."),
+    (12, None, "'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches."),
 ]

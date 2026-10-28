@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And Arlette, what do we do?' Gabriel immediately thinks of their beloved mentor at the agency. The clause hinges on the everyday verb meaning 'do'.
-- 'Arlette will understand our choice very well.' Andrea is confident that Arlette will bless their ambition. The verb meaning 'will grasp' pairs naturally with the noun for 'decision' in everyday conversation.
-- 'And we leave Mathias completely behind?' Gabriel raises concern about abandoning their senior colleague. The clause hinges on the everyday verb meaning 'abandons'.
-- 'Mathias does not give moral lessons!' Andrea dismisses Mathias as a ruthless self-interested operator. Dropping the subject pronoun turns the verb for 'administers' into a direct, punchy command.
-- 'Would the actors follow us?' Gabriel ponders whether their prestigious roster of clients will defect. The verb meaning 'would defect with' pairs naturally with the noun for 'movie performers' in everyday conversation.
-- 'Of course they are going to follow us.' Andrea expresses absolute faith in their personal client loyalty. French forms the near future by pairing the present tense of 'to go' directly with 'accompany'.
-- 'There is no reason to hesitate.' Andrea urges Gabriel to shake off his customary doubts. Notice how 'waver' leads directly into the noun meaning 'motive'.
-- 'We must test the waters first.' Gabriel suggests cautiously sounding out a few reliable confidants. Notice how the short vowel drops before a vowel sound around 'is necessary', making the phrase flow smoothly as one unit.
-- 'No, absolutely no testing!' Andrea vehemently rejects any premature inquiries that could expose them. The key noun here means 'sampling', anchored by its matching French article.
-- 'We must not speak of it to anyone.' Andrea insists on absolute secrecy to protect their breakaway plan. The two-part French negation brackets the verb for 'must' on both sides.
-- 'Otherwise, all of this will leak.' Andrea warns that word will quickly get back to Hicham. The clause hinges on the everyday verb meaning 'will'.
-- 'What do we do in that case?' Gabriel seeks clarity on the exact steps they should execute. Notice how 'do' leads directly into the noun meaning 'circumstance'.
-- 'We prepare all the paperwork discreetly.' Andrea outlines the legal groundwork needed before the launch. Notice how 'readies' leads directly into the noun meaning 'formalities'.
-- 'When everything is ready, we announce everything.' Andrea plans a coordinated reveal once they are safe. The descriptive adjective for 'set' agrees in gender and number with its noun.
-- 'Agreed, so right now, we do it!' Gabriel formally shakes hands on the secret agency rebellion. In spoken French, the little word before 'execute' drops its final vowel and attaches with an apostrophe. Now let's hear the whole conversation again.
+- 'And Arlette, what do we do?' Gabriel immediately thinks of their beloved mentor at the agency.
+- 'Arlette will understand our choice very well.' Andrea is confident that Arlette will bless their ambition.
+- 'And we leave Mathias completely behind?' Gabriel raises concern about abandoning their senior colleague.
+- 'Mathias does not give moral lessons!' Andrea dismisses Mathias as a ruthless self-interested operator.
+- 'Would the actors follow us?' Gabriel ponders whether their prestigious roster of clients will defect.
+- 'Of course they are going to follow us.' Andrea expresses absolute faith in their personal client loyalty.
+- 'There is no reason to hesitate.' Andrea urges Gabriel to shake off his customary doubts.
+- 'We must test the waters first.' Gabriel suggests cautiously sounding out a few reliable confidants.
+- 'No, absolutely no testing!' Andrea vehemently rejects any premature inquiries that could expose them.
+- 'We must not speak of it to anyone.' Andrea insists on absolute secrecy to protect their breakaway plan.
+- 'Otherwise, all of this will leak.' Andrea warns that word will quickly get back to Hicham.
+- 'What do we do in that case?' Gabriel seeks clarity on the exact steps they should execute.
+- 'We prepare all the paperwork discreetly.' Andrea outlines the legal groundwork needed before the launch.
+- 'When everything is ready, we announce everything.' Andrea plans a coordinated reveal once they are safe.
+- 'Agreed, so right now, we do it!' Gabriel formally shakes hands on the secret agency rebellion. Now listen to the whole scene again at normal speed, and see how much more you catch.

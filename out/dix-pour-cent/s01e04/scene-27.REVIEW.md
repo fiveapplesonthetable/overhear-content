@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look! It's in all the papers.' The plural for 'newspaper' ends with an X sound, changes its ending from 'al' to 'aux'.
-- 'Audrey went to Kadropov's party for twenty thousand euros!' The past tense of 'to go' uses 'to be' as its helper verb, and takes a feminine ending for Audrey.
+- 'Audrey went to Kadropov's party for twenty thousand euros!' The past of 'to go' uses 'to be' as its helper word, and takes a feminine ending for Audrey.
 - 'That's not possible! Will you deal with it, Mathias?' Literally 'you take care of it'. The little word for 'of it' sits right before the verb.
 - 'Mathias! He had promised me secrecy.' Now we are at Audrey's flat. She thought nobody would ever know about the party.
 - 'If Kadropov goes out with you, he tells everyone!' Even though Mathias is scolding her, he slips in a compliment.
@@ -40,7 +40,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm tired, Mathias. I can't take it anymore.' The second sentence is a fixed expression: literally 'I cannot of it any more'.
 - 'Mummy isn't really crying, sweetheart.' Her little boy walks into the room, and she calls him 'my heart'.
 - 'I'm rehearsing a part. Go and play in your room.' The verb for 'to repeat' also means 'to rehearse' for an actor.
-- 'I love them so much.' Once the child goes back to his room, Audrey lets her guard down. The word for 'them' comes before the verb.
+- 'I love them so much.' Once the child goes back to his room, Audrey lets her guard down.
 - 'I work for them, but it is never enough.'m here for them every day, but it's never enough.' Instead of 'not', the negation uses 'never' after the verb 'is enough'.
 - 'No, it's never enough.' Mathias repeats her words quietly, thinking of his own children, Camille and Hippolyte.
 - 'How do you be a good father?' Literally 'how does one do in order to be a good father?'.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'FIXME translation' Outside the agency, Camille shares a hopeful quote from her mother with Herve. The verb meaning 'to say' pairs naturally with the noun for 'mother' in everyday conversation.
-- 'FIXME translation' She suggests that they must remain optimistic during this dark time. Notice how 'to be' leads directly into the noun meaning 'night'.
-- 'FIXME translation' Herve dismisses her optimism, telling her to accept that the agency is doomed. This conversational past tense combines a helper verb with the past verb form for 'to be'.
-- 'FIXME translation' He advises her to start thinking about her future career plans. The informal 'you' form around 'to concentrate' marks a direct, personal relationship.
-- 'FIXME translation' Camille reveals her ambitious dream to open her own business. This conversational past tense combines a helper verb with the past verb form for 'to like'.
-- 'FIXME translation' Herve is highly encouraging, agreeing that it suits her perfectly. The descriptive adjective for 'perfect' agrees in gender and number with its noun.
-- 'FIXME translation' He hints at his own secret aspiration to become an actor. The verb meaning 'to be' pairs naturally with the noun for 'about thirty' in everyday conversation.
-- 'FIXME translation' She eagerly agrees to represent him if he pursues an acting career. The short 'self' word sits right in front of the verb for 'to sign', turning the action back onto the subject.
-- 'FIXME translation' She asks if he has finally decided to pursue his dream. Camille uses the casual singular 'you' with 'to go', showing close familiarity.
-- 'FIXME translation' He hesitates, afraid of the financial insecurity of the profession. The clause hinges on the everyday verb meaning 'to know'.
-- 'FIXME translation' Camille promises him a job as an agent if his acting career fails. The verb meaning 'to have' pairs naturally with the noun for 'way' in everyday conversation.
-- 'FIXME translation' Elsewhere, Noemie asks Mathias if he is truly giving her the project. The short 'self' word sits right in front of the verb for 'to go', turning the action back onto the subject.
-- 'FIXME translation' He assures her that he trusts her skills and abilities completely. The verb meaning 'to leave' pairs naturally with the noun for 'movie' in everyday conversation.
-- 'FIXME translation' He tells her that seeing her succeed and thrive is his true reward. The verb meaning 'to be' pairs naturally with the noun for 'present' in everyday conversation.
+- 'FIXME translation' Outside the agency, Camille shares a hopeful quote from her mother with Hervé.
+- 'FIXME translation' She suggests that they must remain optimistic during this dark time.
+- 'FIXME translation' Hervé dismisses her optimism, telling her to accept that the agency is doomed.
+- 'FIXME translation' He advises her to start thinking about her future career plans.
+- 'FIXME translation' Camille reveals her ambitious dream to open her own business.
+- 'FIXME translation' Hervé is highly encouraging, agreeing that it suits her perfectly.
+- 'FIXME translation' He hints at his own secret aspiration to become an actor.
+- 'FIXME translation' She eagerly agrees to represent him if he pursues an acting career.
+- 'FIXME translation' She asks if he has finally decided to pursue his dream.
+- 'FIXME translation' He hesitates, afraid of the financial insecurity of the profession.
+- 'FIXME translation' Camille promises him a job as an agent if his acting career fails.
+- 'FIXME translation' Elsewhere, Noémie asks Mathias if he is truly giving her the project.
+- 'FIXME translation' He assures her that he trusts her skills and abilities completely.
+- 'FIXME translation' He tells her that seeing her succeed and thrive is his true reward.

@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, we worked like crazy, you see.' Sofia talks about the hard film shoot. This conversational past tense combines a helper verb with the past verb form for 'worked'.
-- 'I love the poster, it is so beautiful.' Gabriel expresses admiration for the promo artwork. Notice how 'love' leads directly into the noun meaning 'poster'.
-- 'Thanks guys! I miss you a lot.' Sofia expresses genuine fondness for her former coworkers. Notice how 'miss' leads directly into the noun meaning 'thanks'.
-- 'We miss you too.' Gabriel reassures her with reciprocal affection. The informal 'you' form around 'miss' marks a direct, personal relationship.
-- 'I am going to Dujardin's place to settle a problem.' Andrea announces her emergency client visit. Notice how 'am going' leads directly into the noun meaning 'problem'.
-- 'Oh, darn!' Andrea groans in sudden physical distress. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'What is going on? Are you alright?' Gabriel reacts immediately with concern. The standard spoken question formula at the front turns the statement about 'is happening' into a natural inquiry.
-- 'I am fine, it is nothing.' Andrea attempts to downplay the pain. The clause hinges on the everyday verb meaning 'goes'.
-- 'It is okay, it is okay.' Andrea repeats the phrase to steady herself. The descriptive adjective for 'okay' agrees in gender and number with its noun.
-- 'It is just a contraction, I am fine.' Andrea identifies the physiological symptom. The verb meaning 'it is' pairs naturally with the noun for 'contraction' in everyday conversation.
-- 'She is in labor! You need a doctor!' Gabriel panics dramatically. Gabriel uses the casual singular 'you' with 'is in labor', showing close familiarity.
-- 'No, I am not in labor at all!' Andrea rejects his alarmist reaction. The clause hinges on the everyday verb meaning 'am giving birth'.
-- 'Working so much is bad for the baby.' Gabriel cautions against overworking during pregnancy. Notice how 'working' leads directly into the noun meaning 'baby'.
-- 'I love my work, I do not want to stop.' Andrea asserts her professional dedication. Notice the classic French sandwich negation wrapping right around 'love'.
-- 'You must rest a little, Andrea.' Gabriel urges her to take care of her health. Gabriel uses the casual singular 'you' with 'must', showing close familiarity.
-- 'Nobody tells me how I should be pregnant!' Andrea vehemently asserts her personal autonomy. Notice the classic French sandwich negation wrapping right around 'tells'.
+- 'Yes, we worked like crazy, you see.' Sofia talks about the hard film shoot.
+- 'I love the poster, it is so beautiful.' Gabriel expresses admiration for the promo artwork.
+- 'Thanks guys! I miss you a lot.' Sofia expresses genuine fondness for her former coworkers.
+- 'We miss you too.' Gabriel reassures her with reciprocal affection.
+- 'I am going to Dujardin's place to settle a problem.' Andrea announces her emergency client visit.
+- 'Oh, darn!' Andrea groans in sudden physical distress.
+- 'What is going on? Are you alright?' Gabriel reacts immediately with concern.
+- 'I am fine, it is nothing.' Andrea attempts to downplay the pain.
+- 'It is okay, it is okay.' Andrea repeats the phrase to steady herself.
+- 'It is just a contraction, I am fine.' Andrea identifies the physiological symptom.
+- 'She is in labor! You need a doctor!' Gabriel panics dramatically.
+- 'No, I am not in labor at all!' Andrea rejects his alarmist reaction.
+- 'Working so much is bad for the baby.' Gabriel cautions against overworking during pregnancy.
+- 'I love my work, I do not want to stop.' Andrea asserts her professional dedication.
+- 'You must rest a little, Andrea.' Gabriel urges her to take care of her health.
+- 'Nobody tells me how I should be pregnant!' Andrea vehemently asserts her personal autonomy.

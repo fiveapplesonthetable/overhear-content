@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What is this story about Ramzy and Virginie Efira?' Hicham inquires about the sudden loss of two marquee talents.
 - 'They broke up, and François Bréhier took advantage of it.' Mathias explains the marital crisis that enabled the rival move.
 - 'Bréhier runs our rival agency, StarMédia.' A clarification of the competitor who orchestrated the raid.
-- 'They stole our actors from us!' The key word here means 'have', paired with 'actors' to make the point clear.
+- 'They stole our actors from us!' A direct exclamation accusing the rival agency of theft.
 - 'So let us take their biggest star, Fabrice Luchini.' Hicham proposes an aggressive retaliatory strike.
 - 'You cannot ask us to steal a client.' Mathias raises a professional objection based on agency ethics.
-- 'Why not? They did it.' The adverb meaning 'why' sharpens the verb for 'have' here.
-- 'Luchini has been with Bréhier for thirty-five years!' Andréa emphasizes the deep loyalty between the actor and his agent.
+- 'Why not? They did it.' A pragmatic retort arguing that ruthlessness should be met with ruthlessness.
+- 'Luchini has been with Bréhier for thirty-five years!' Andrea emphasizes the deep loyalty between the actor and his agent.
 - 'He will never leave them.' A future tense prediction asserting that poaching is impossible.
 - 'I want Luchini at ASK before the end of the month.' An ultimatum setting a strict deadline for the partners.
 - 'Otherwise, I can sell my shares to StarMédia.' A financial threat to pull out and ruin the agency.
 - 'It is a ridiculous revenge!' Mathias protests the irrationality of attacking an established star.
-- 'A talent, you have to fight for them.' Andréa expresses her instinct to take on impossible challenges.
+- 'A talent, you have to fight for them.' Andrea expresses her instinct to take on impossible challenges.
 - 'I am going to get Luchini!' A near-future declaration accepting the high-stakes mission.

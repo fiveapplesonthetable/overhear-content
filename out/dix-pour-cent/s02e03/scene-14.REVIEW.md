@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello everyone!' Hicham greets the open office with typical swagger. Listen for the expression meaning 'good day', which leads naturally into 'everyone'.
-- 'Hello Hicham.' Camille replies politely to her new boss. The standard polite greeting opens their exchange.
-- 'This is my son, Elvis.' Hicham introduces his visiting young boy. A concise spoken phrase built around the French noun for 'son'.
-- 'He is ten this weekend.' The upcoming milestone prompts a celebration. Hicham opens with the word for 'is' and lands on 'weekend holiday' at the close.
-- 'We are having a party in Paris.' Hicham plans festivities during their week together. The colloquial pronoun on acts as the subject for making a party.
-- 'Elvis likes laser tag.' Hicham shares his son's chosen entertainment activity. Notice how the verb for 'likes' leads straight into 'tag game'.
-- 'Can you arrange that, Camille?' Hicham immediately delegates the party logistics. The verb meaning 'can' anchors the whole remark.
-- 'Okay, leave it to me.' Camille readily takes charge of the task. The key word here means 'let me', paired with 'handle' to make the point clear.
-- 'Two round-trip tickets for his friends.' Hicham orders transportation arrangements. Listen for the expression meaning 'two', which leads naturally into 'buddies'.
-- 'Thanks, Camille.' Hicham expresses brisk satisfaction with her help. Hicham opens with the word for 'thanks' and lands on 'thanks' at the close.
-- 'Are you crazy, Camille?' Mathias pulls his secret daughter aside in disbelief. The verb meaning 'you are' anchors the whole remark.
-- 'Why do you say that?' Camille questions his sharp objection. Listen for the expression meaning 'why', which leads naturally into 'say'.
-- 'You are playing the babysitter for him.' Mathias warns her against subservient duties. Mathias pairs the verb meaning 'play the part of' with the noun for 'child minders'.
-- 'He will not respect you.' Mathias cautions that flunky tasks undermine authority. Mathias opens with the word for 'not' and lands on 'not' at the close.
-- 'I want to be a junior agent.' Camille reaffirms her clear professional ambition. Listen for the expression meaning 'want', which leads naturally into 'junior rank'.
-- 'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary. The key word here means 'therefore', paired with 'care' to make the point clear.
+- 'Hello everyone!' Hicham greets the open office with typical swagger.
+- 'Hello Hicham.' Camille replies politely to her new boss.
+- 'This is my son, Elvis.' Hicham introduces his visiting young boy.
+- 'He is ten this weekend.' The upcoming milestone prompts a celebration.
+- 'We are having a party in Paris.' Hicham plans festivities during their week together.
+- 'Elvis likes laser tag.' Hicham mentions what his son Elvis loves to play.
+- 'Can you arrange that, Camille?' Hicham immediately delegates the party logistics.
+- 'Okay, leave it to me.' Camille readily takes charge of the task.
+- 'Two round-trip tickets for his friends.' Hicham orders transportation arrangements.
+- 'Thanks, Camille.' Hicham expresses brisk satisfaction with her help.
+- 'Are you crazy, Camille?' Mathias pulls his secret daughter aside in disbelief.
+- 'Why do you say that?' Camille questions his sharp objection.
+- 'You are playing the babysitter for him.' Mathias warns her against subservient duties.
+- 'He will not respect you.' Mathias cautions that flunky tasks undermine authority.
+- 'I want to be a junior agent.' Camille reaffirms her clear professional ambition.
+- 'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary.

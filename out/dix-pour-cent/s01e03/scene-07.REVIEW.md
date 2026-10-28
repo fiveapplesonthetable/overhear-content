@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I may have a solution for the tax audit.' The hyphenated word after the verb means 'maybe', literally 'can be'.
+- 'I may have a solution for the tax audit.' The hyphenated word after the action word means 'maybe', literally 'can be'.
 - 'An ex of mine.' Literally 'an ex to me'. It's a very natural spoken way to say 'one of mine'.
-- 'He's high up at the tax office.' Literally 'high placed at the taxes'. Gabriel is surprised by the pronoun.
-- 'A man?' Right then, Andréa usually dates women, so Gabriel blinks. In the episode she jokes that dating a man won't have been completely useless after all.
+- 'He's high up at the tax office.' Literally 'high placed at the taxes'. Gabriel is surprised by the short word.
+- 'A man?' Here, Andréa usually dates women, so Gabriel blinks. In the episode she jokes that dating a man won't have been completely useless after all.
 - 'It's been a long time, but I can talk to him.' The opening phrase literally says 'it makes a long time', the standard way to say how long it has been.
-- 'Call him.' A direct command, with the object word 'him' attached after the verb by a hyphen.
+- 'Call him.' A direct command, with the object word 'him' attached after the action word by a hyphen.
 - 'We don't really have a choice.' Literally 'the choice'. Then Andréa agrees.
 - 'Okay.' Short and practical, she'll make the call. Then she offers Gabriel a bite of her snack.
 - 'Do you want some?' That little two-letter word before the verb means 'some of it'. Gabriel is too upset to eat.

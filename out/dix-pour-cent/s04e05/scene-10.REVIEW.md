@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Colette, it is me on the phone.' Andrea begins her voicemail message. The key noun here means 'telephone', anchored by its matching French article.
-- 'I wanted to know how you are doing.' Andrea inquires softly after Colette's well-being. The informal 'you' form around 'wanted' marks a direct, personal relationship.
-- 'You no longer answer my messages.' Andrea notes the absence of communication. Notice how 'answer' leads directly into the noun meaning 'messages'.
-- 'I worry a lot about you.' Andrea confesses her anxiety. The informal 'you' form around 'worry' marks a direct, personal relationship.
-- 'Flora and I, we think of you.' Andrea highlights their shared family bond. The clause hinges on the everyday verb meaning 'think'.
-- 'Call me back soon, please.' In spoken French, the little word before 'call back' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'call back' drops its final vowel and attaches with an apostrophe.
-- 'Take good care of yourself.' Andrea closes with a warm expression of care. Andrea uses the casual singular 'you' with 'take', showing close familiarity.
-- 'The silence is very heavy tonight.' Andrea reflects on the loneliness of her home. The key noun here means 'silence', anchored by its matching French article.
-- 'Andrea, I have good news!' Elise sends an enthusiastic message. The verb meaning 'have' pairs naturally with the noun for 'news' in everyday conversation.
-- 'My niece is looking for new work.' Elise presents her niece's job search. The verb meaning 'is looking for' pairs naturally with the noun for 'niece' in everyday conversation.
-- 'She can babysit Flora day and night.' Elise proposes round-the-clock childcare. The verb meaning 'can' pairs naturally with the noun for 'day' in everyday conversation.
-- 'It is a completely unexpected offer.' Andrea marvels at the convenient timing. The key noun here means 'offer', anchored by its matching French article.
-- 'That saves my work week!' The verb meaning 'saves' pairs naturally with the noun for 'week' in everyday conversation.
+- 'Colette, it is me on the phone.' Andrea begins her voicemail message.
+- 'I wanted to know how you are doing.' Andrea inquires softly after Colette's well-being.
+- 'You no longer answer my messages.' Andrea notes the absence of communication.
+- 'I worry a lot about you.' Andrea confesses her anxiety.
+- 'Flora and I, we think of you.' Andrea highlights their shared family bond.
+- 'Call me back soon, please.' Andrea requests an answer without demanding.
+- 'Take good care of yourself.' Andrea closes with a warm expression of care.
+- 'The silence is very heavy tonight.' Andrea reflects on the loneliness of her home.
+- 'Andrea, I have good news!' Elise sends an enthusiastic message.
+- 'My niece is looking for new work.' Elise presents her niece's job search.
+- 'She can babysit Flora day and night.' Elise proposes round-the-clock childcare.
+- 'It is a completely unexpected offer.' Andrea marvels at the convenient timing.
+- 'That saves my work week!' Andrea feels a huge burden lifted from her shoulders.

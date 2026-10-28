@@ -27,11 +27,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Gabriel, do you have a minute?' Notice how the verb for 'have' leads straight into 'minute of time'.
-- 'Yes Julien, I was just thinking of you.' An affectionate imperfect tense expressing ongoing concern.
+- 'Hello Gabriel, do you have a minute?' A telephone greeting checking conversational availability.
+- 'Yes Julien, I was just thinking of you.' Answering his phone, Gabriel tells Julien warmly that he was just thinking of him.
 - 'I am rereading my rejected screenplay again.' An iterative present verb showing obsessive artistic doubt.
-- 'Stop reading this screenplay, please.' Gabriel opens with the word for 'stop' and lands on 'pleases' at the close.
-- 'I want to understand our commercial failure.' The adjective meaning 'commercial' agrees in gender and number with masculine noun 'failure'.
+- 'Stop reading this screenplay, please.' A protective imperative urging a client to break negative habits.
+- 'I want to understand our commercial failure.' A modal phrase seeking reasons for professional setback.
 - 'You are only making your sadness worse.' A restrictive negative structure highlighting emotional harm.
 - 'No producer wants my story.' A negative subject construction stating perceived total rejection.
 - 'Many films lack financing.' A reassuring industry generalization contextualizing production challenges.
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Cinema is a veritable rollercoaster.' A vivid metaphor illustrating unpredictable career fortunes.
 - 'I no longer know what to write now.' A negative knowledge formula revealing creative disorientation.
 - 'You simply must move on to something else.' An impersonal necessity idiom advising creative renewal.
-- 'Do you believe we will find another project?' Listen for the expression meaning 'believe', which leads naturally into 'creative project'.
-- 'Yes, I am always here with you.' Gabriel opens with the word for 'am' and lands on 'there' at the close.
+- 'Do you believe we will find another project?' A tentative question seeking future collaborative hope.
+- 'Yes, I am always here with you.' A steadfast affirmation guaranteeing personal and professional loyalty.

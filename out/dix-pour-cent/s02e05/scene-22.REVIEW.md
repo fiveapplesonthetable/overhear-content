@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I refuse the junior agent job.' Camille shocks Hicham by rejecting the promotion to agent. Listen for the expression meaning 'refuse', which leads naturally into 'junior'.
-- 'Say that again, I did not understand.' Hicham asks her to repeat her unexpected declaration. The adverb meaning 'bit' sharpens the verb for 'repeat' here.
-- 'I refuse this fine promotion.' She reiterates her decision despite the status of the offer. Camille pairs the verb meaning 'decline' with the noun for 'promotion'.
-- 'I prefer to remain an assistant for now.' Camille values her current apprenticeship under Andréa. Notice how the verb for 'prefer' leads straight into 'assistant'.
-- 'Do you truly realize what you are saying?' Hicham questions her grasp of agency career stakes. The verb meaning 'realize' anchors the whole remark.
-- 'I know exactly where my place is.' She asserts her comfort and confidence in her current role. Camille opens with the word for 'know' and lands on 'seat' at the close.
-- 'No, you know nothing at all.' Hicham dismisses her perspective as naive and shortsighted. The adverb meaning 'no' sharpens the verb for 'know' here.
-- 'What do you mean?' Camille asks for clarification on his harsh assessment. The key word here means 'mean', paired with 'to say' to make the point clear.
-- 'An agency evolves like a river.' The boss uses a philosophical metaphor about corporate change. The key word here means 'agency', paired with 'river' to make the point clear.
-- 'We never go backward.' He insists that career steps cannot simply be reversed. The verb meaning 'goes back' anchors the whole remark.
-- 'But I love my current work.' Camille pleads her passion for her daily tasks. The adjective meaning 'current' agrees in gender and number with masculine noun 'job'.
-- 'You have the choice, my dear.' Hicham condescendingly frames the situation as an ultimatum. Hicham pairs the verb meaning 'have' with the noun for 'dear'.
-- 'Take this job or take the door!' He delivers a ruthless career ultimatum to the young assistant. Listen for the expression meaning 'take', which leads naturally into 'door'.
-- 'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure. The key word here means 'it is', paired with 'unacceptable' to make the point clear.
+- 'I refuse the junior agent job.' Camille shocks Hicham by rejecting the promotion to agent.
+- 'Say that again, I did not understand.' Hicham asks her to repeat her unexpected declaration.
+- 'I refuse this fine promotion.' She reiterates her decision despite the status of the offer.
+- 'I prefer to remain an assistant for now.' Camille values her current apprenticeship under Andrea.
+- 'Do you truly realize what you are saying?' Hicham questions her grasp of agency career stakes.
+- 'I know exactly where my place is.' She asserts her comfort and confidence in her current role.
+- 'No, you know nothing at all.' Hicham dismisses her perspective as naive and shortsighted.
+- 'What do you mean?' Camille asks for clarification on his harsh assessment.
+- 'An agency evolves like a river.' The boss uses a philosophical metaphor about corporate change.
+- 'We never go backward.' He insists that career steps cannot simply be reversed.
+- 'But I love my current work.' Camille pleads her passion for her daily tasks.
+- 'You have the choice, my dear.' Hicham condescendingly frames the situation as an ultimatum.
+- 'Take this job or take the door!' He delivers a ruthless career ultimatum to the young assistant.
+- 'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure.

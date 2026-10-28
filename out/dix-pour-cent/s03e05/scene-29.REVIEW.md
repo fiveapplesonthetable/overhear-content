@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not like that tone.' Gabriel hears Hicham's menacing voice on the line and senses disaster. The informal 'you' form around 'like' marks a direct, personal relationship.
-- 'It is a complete catastrophe!' Gabriel panics as the reality of his blunder sinks in. The adjective meaning 'total' takes its feminine form here to match the noun it describes.
-- 'Gabriel, what is the matter?' Andrea asks him with rising concern. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'I left the message for Hicham!' Gabriel confesses his catastrophic dialing error. The verb meaning 'have' pairs naturally with the noun for 'voicemail message' in everyday conversation.
-- 'His number was right underneath.' Gabriel explains the phone contact list accident. Notice how 'was' leads directly into the noun meaning 'phone number'.
-- 'No, that is absolutely impossible!' Andrea reacts with horror at the disclosure. The descriptive adjective for 'impossible' agrees in gender and number with its noun.
-- 'You are cowardly traitors!' Hicham confronts them with searing anger. The key noun here means 'traitors', anchored by its matching French article.
-- 'We wanted to stop everything.' Gabriel attempts to explain that they reconsidered leaving. This conversational past tense combines a helper verb with the past verb form for 'wanted'.
-- 'It is very complicated with you!' Andrea fires back about Hicham's difficult management style. The informal 'you' form around 'this line' marks a direct, personal relationship.
-- 'You often suffocate us, Hicham.' Andrea explains how his oppressive control alienated the team. The clause hinges on the everyday verb meaning 'suffocate'.
-- 'I am handing everything over to Mathias.' Hicham announces he is selling out to Mathias to punish them. The clause hinges on the everyday verb meaning 'give'.
-- 'I have nothing left here anymore.' Hicham declares his departure from ASK. The clause hinges on the everyday verb meaning 'have'.
-- 'Why are you reacting like that?' Andrea pleads as Hicham walks away. The clause hinges on the everyday verb meaning 'are reacting'.
-- 'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls. The verb meaning 'comes' pairs naturally with the noun for 'leak' in everyday conversation.
+- 'I do not like that tone.' Gabriel hears Hicham's menacing voice on the line and senses disaster.
+- 'It is a complete catastrophe!' Gabriel panics as the reality of his blunder sinks in.
+- 'Gabriel, what is the matter?' Andrea asks him with rising concern.
+- 'I left the message for Hicham!' Gabriel confesses his catastrophic dialing error.
+- 'His number was right underneath.' Gabriel explains the phone contact list accident.
+- 'No, that is absolutely impossible!' Andrea reacts with horror at the disclosure.
+- 'You are cowardly traitors!' Hicham confronts them with searing anger.
+- 'We wanted to stop everything.' Gabriel attempts to explain that they reconsidered leaving.
+- 'It is very complicated with you!' Andrea fires back about Hicham's difficult management style.
+- 'You often suffocate us, Hicham.' Andrea explains how his oppressive control alienated the team.
+- 'I am handing everything over to Mathias.' Hicham announces he is selling out to Mathias to punish them.
+- 'I have nothing left here anymore.' Hicham declares his departure from ASK.
+- 'Why are you reacting like that?' Andrea pleads as Hicham walks away.
+- 'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls.

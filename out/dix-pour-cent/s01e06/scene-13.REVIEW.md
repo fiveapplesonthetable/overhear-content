@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Christophe, you cannot say no.' Andréa corners the stubborn young theatre director over the phone. The key word here means 'can', paired with 'to refuse' to make the point clear.
-- 'My pride won't allow it.' She insists that she will not take no for an answer. The compound noun for self-respect or pride is joined with a hyphen.
-- 'I have lots of things to tell you.' She promises an exciting conversation. Andréa opens with the word for 'I have' and lands on 'to tell' at the close.
-- 'No, I have to go home.' In Andréa's apartment, Colette gets ready to leave to finish her work.
-- 'I still have a big part of my report to write.' She explains the crunch on her tax audit. Notice the formal verb for drafting or writing a report.
-- 'No, stay, please!' Andréa pulls her back. Andréa opens with the word for 'no' and lands on 'pleases' at the close.
-- 'You dress like that for a work dinner?' Looking at Andréa's chic outfit, Colette asks suspiciously. The reflexive verb for getting dressed takes the linking word for like this.
-- 'Tonight, I play it sober and classy.' Andréa explains her strategy for charming the young director.
-- 'It is a present for you.' To make Colette feel at home, Andréa hands her a small package containing a spare toothbrush.
-- 'That way you won't need to bring your own anymore.' Andréa smiles warmly. The connecting word for that way is followed by the future tense.
+- 'Christophe, you cannot say no.' Andrea corners the stubborn young theatre director over the phone.
+- 'My pride won't allow it.' She insists that she will not take no for an answer.
+- 'I have lots of things to tell you.' She promises an exciting conversation.
+- 'No, I have to go home.' In Andrea's apartment, Colette gets ready to leave to finish her work.
+- 'I still have a big part of my report to write.' She explains the crunch on her tax audit.
+- 'No, stay, please!' Andréa pulls her back and begs her to stay.
+- 'You dress like that for a work dinner?' Looking at Andrea's chic outfit, Colette asks suspiciously.
+- 'Tonight, I play it sober and classy.' Andrea explains her strategy for charming the young director.
+- 'It is a present for you.' To make Colette feel at home, Andrea hands her a small package containing a spare toothbrush.
+- 'That way you won't need to bring your own anymore.' Andrea smiles warmly.
 - 'I celebrate my birthday tomorrow evening at the theatre.' Later at the restaurant, Christophe brings up his plans.
-- 'I would really like you to come.' He looks across the table and adds warmly. The key word here means 'I would like', paired with 'come' to make the point clear.
-- 'As a stage director, you always get what you want.' Andréa flatters him with a sharp observation. The adverb meaning 'so much' sharpens the verb for 'are' here.
-- 'I am not bad.' Christophe smirks with false modesty. The negation wraps around the verb to be.
+- 'I would really like you to come.' He looks across the table and adds warmly.
+- 'As a stage director, you always get what you want.' Andrea flatters him with a sharp observation.
+- 'I am not bad.' Christophe smirks with false modesty.

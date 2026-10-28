@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our seats are there, in the middle.' Gabriel directs Sophia to their assigned spots. The key noun here means 'seats', anchored by its matching French article.
-- 'It is settled, I will not win.' Sophia jumps to a grim conclusion instantly. The clause hinges on the everyday verb meaning 'settled'.
-- 'Why do you say that so quickly, Sophia?' Gabriel tries to understand her sudden panic. In everyday spoken French, rising intonation on 'say' at the end is enough to turn the sentence into a question.
-- 'Because we are in the middle!' Sophia points out the inconvenient seat positioning. The key noun here means 'middle', anchored by its matching French article.
-- 'That changes nothing about the vote.' Gabriel argues that seating does not dictate ballots. The two-part negative frame surrounds 'changes' to mean 'nothing at all'.
-- 'The winners are always on the end!' Sophia refers to traditional TV gala logistics. The key noun here means 'winners', anchored by its matching French article.
-- 'Stop stressing and just enjoy.' Gabriel tries to calm her rising agitation. The clause hinges on the everyday verb meaning 'stop'.
-- 'They are announcing female newcomer now.' Sophia watches the podium presenter. The adjective meaning 'female' takes its feminine form here to match the noun it describes.
-- 'Listen closely to the opening of the envelope.' Gabriel awaits the official verdict. The verb meaning 'listen' pairs naturally with the noun for 'opening' in everyday conversation.
-- 'Another actress won the trophy!' Sophia realizes her defeat as applause erupts. The verb meaning 'has' pairs naturally with the noun for 'actress' in everyday conversation.
-- 'Sophia, stay seated, do not leave!' Gabriel urgently attempts to avoid a scandal. The two-part French negation brackets the verb for 'stay' on both sides.
-- 'I did not win, I am leaving.' Sophia refuses to witness the winner's victory speech. The clause hinges on the everyday verb meaning 'have'.
-- 'That is too impulsive a reaction, wait!' Gabriel warns her about media optics. Dropping the subject pronoun turns the verb for 'wait' into a direct, punchy command.
-- 'I refuse to sit here!' Sophia walks past the seated guests into the corridor. The clause hinges on the everyday verb meaning 'refuse'.
+- 'Our seats are there, in the middle.' Gabriel directs Sophia to their assigned spots.
+- 'It is settled, I will not win.' Sophia jumps to a grim conclusion instantly.
+- 'Why do you say that so quickly, Sophia?' Gabriel tries to understand her sudden panic.
+- 'Because we are in the middle!' Sophia points out the inconvenient seat positioning.
+- 'That changes nothing about the vote.' Gabriel argues that seating does not dictate ballots.
+- 'The winners are always on the end!' Sophia refers to traditional TV gala logistics.
+- 'Stop stressing and just enjoy.' Gabriel tries to calm her rising agitation.
+- 'They are announcing female newcomer now.' Sophia watches the podium presenter.
+- 'Listen closely to the opening of the envelope.' Gabriel awaits the official verdict.
+- 'Another actress won the trophy!' Sophia realizes her defeat as applause erupts.
+- 'Sophia, stay seated, do not leave!' Gabriel urgently attempts to avoid a scandal.
+- 'I did not win, I am leaving.' Sophia refuses to witness the winner's victory speech.
+- 'That is too impulsive a reaction, wait!' Gabriel warns her about media optics.
+- 'I refuse to sit here!' Sophia walks past the seated guests into the corridor.

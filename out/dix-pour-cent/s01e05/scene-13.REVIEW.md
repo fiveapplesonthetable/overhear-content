@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Our audience is the woman chatting at the hairdresser's.'s.' The linking word before a profession means at their shop.
-- 'The kind of woman who adores Jonathan Joubert.' Notice the noun for type or kind followed by the linking word 'of'.
+- 'The kind of woman who adores Jonathan Joubert.' Notice the word for type or kind followed by the linking word 'of'.
 - 'Ryan, I mean.' Literally 'I want to say', the standard everyday French way to say 'I mean'.
-- 'We need a rumor to make the fans react.' Notice how 'what we need' is built with the impersonal verb for needing.
-- 'What is your idea, like a death notice?' In casual speech, placing the question word after the verb makes a quick, direct question.
+- 'We need a rumor to make the fans react.' Notice how 'what we need' is built with the impersonal action word for needing.
+- 'What is your idea, like a death notice?' In casual speech, placing the question word after the action word makes a quick, direct question.
 - 'Exactly!' Hervé beams with pride and pulls out his printed mockup.
-- 'I took inspiration from that case of a missing child in Corrèze.' The reflexive verb in the past tense takes the helping verb 'to be'.
+- 'I took inspiration from that case of a missing child in Corrèze.' The self-directed action word in the past takes the auxiliary 'to be'.
 - 'It's horrible.' Mathias stares at the poster in total disbelief.
 - 'Listen, drop it.' Literally 'let it fall', the universal French idiom for 'forget it' or 'drop it'.
-- 'Take care of Audrey Fleurot.' Notice how the short 'self' word attaches to the end of a positive command.
+- 'Take care of Audrey Fleurot.' Notice how the reflexive pronoun attaches to the end of a positive command.
 - 'She has a schedule problem with her children.' The compound noun for a schedule literally means 'use of time'.
 - 'Thanks all the same.' Mathias softens the blow before dismissing them.
 - 'You're welcome.' Unbothered by the rejection, Hervé replies with the everyday phrase meaning 'of nothing'.

@@ -35,8 +35,8 @@ STORY = [
     ('laura', 'Dis que je suis malade, que je ne peux pas venir.', 'Say that I', [(482, 'Dis que je suis malade, que je ne peux pas venir')], ''),
 ]
 WALK = [
-    (0, None, "'It's the isolation of the mother and the daughter that interests me.' Notice the frame 'it is ... that' to put the focus on isolation. At the end, the verb means 'interests me'."),
-    (1, None, "'And their intense relationship on the island.' In French the adjective 'intense' comes right after the noun."),
+    (0, None, "'It's the isolation of the mother and the daughter that interests me.' Notice the frame 'it is ..."),
+    (1, None, "'And their intense relationship on the island.' In French the describing word 'intense' comes right after the word."),
     (2, None, "'It's a time bomb.' Literally 'a bomb with a delay mechanism'. Solveig is very proud of her metaphor."),
     (3, None, "'Yes. That's what I thought.' Literally 'it is that which I was thinking', using the past tense for an ongoing thought."),
     (4, None, "'It's pure intimacy.' Again the adjective 'pure' follows the noun. And right in the middle of this deep speech, Laura launches her act."),

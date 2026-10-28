@@ -40,7 +40,7 @@ WALK = [
     (3, None, "'He heard that Mathias is joining StarMédia.' Literally 'he learned that Mathias joins StarMédia'."),
     (4, None, "'He says that without him, the agency is going to lose too much value.' Because Mathias represents the biggest stars at ASK, the German buyer no longer wants the company without him."),
     (5, None, "'Are you sure about it? What does Hélène say?' The little word before 'are' means 'of it'."),
-    (6, None, "'She's furious with Mathias.' In this moment, Hélène was hoping to sell the agency for millions, and now the deal is dead."),
+    (6, None, "'She's furious with Mathias.' Here, Hélène was hoping to sell the agency for millions, and now the deal is dead."),
     (7, None, "'And what if he did it on purpose? To save the agency!' The phrase at the end of the question means 'on purpose'. Suddenly the agents imagine that Mathias only pretended to leave in order to scare off the German buyer."),
     (8, None, "'A generous act from Mathias? What a joke!' Andréa isn't convinced so easily."),
     (9, None, "'Maybe not generous, but he's a strategist.' Arlette thinks Mathias planned the whole thing like a chess game."),

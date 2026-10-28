@@ -51,7 +51,7 @@ WALK = [
     (11, None, "'They say you're too old for the part.' Here it is, out loud. The word for 'old' is feminine, because Cécile is a woman; the small word in front means 'too'. This is the secret Gabriel has been hiding all day."),
     (12, None, "'But it's so stupid!' Camille is truly on Cécile's side; she just has no idea what she has done."),
     (13, None, "'Ah. Too old.' Two quiet words. Cécile repeats the news to herself, and keeps smiling."),
-    (14, None, "'I hope I'm like you at your age.' A compliment, and also a small knife. It's the verb 'to hope' followed by 'to be'."),
+    (14, None, "'I hope I'm like you at your age.' A compliment, and also a small knife."),
     (15, None, "'Thank you. Goodbye.' Cécile is perfectly polite, and she leaves."),
     (16, None, "'Goodbye!' Camille waves her off, cheerful, with no idea of the storm she has just started. Okay, let's hear the conversation one more time."),
 ]

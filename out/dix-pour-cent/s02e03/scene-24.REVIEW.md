@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi Julien! Are you doing well?' Gabriel greets the visiting artist in the party lounge. The verb meaning 'are doing' anchors the whole remark.
-- 'Can you find me a taxi?' Julien urgently asks for a ride away from the venue. Listen for the expression meaning 'can', which leads naturally into 'taxi'.
-- 'Is there a problem?' The agent senses that something went wrong with the project. Gabriel pairs the verb meaning 'is' with the noun for 'problem'.
-- 'I argued with Charlotte.' The musician explains the artistic disagreement with his partner. Julien opens with the word for 'am' and lands on 'argued' at the close.
-- 'She does not understand the ending.' Julien feels misunderstood regarding the climax of his film. Listen for the expression meaning 'not', which leads naturally into 'ending'.
-- 'I must go back to Paris.' Frustrated by the dispute, he decides to cut his visit short. The key word here means 'must', paired with 'to go back' to make the point clear.
-- 'Sofia wants to do screen tests.' Gabriel seizes the opportunity to pitch his actress client. Listen for the expression meaning 'wants', which leads naturally into 'screen tests'.
-- 'We will see about that later.' Julien deflects the business pitch while in a hurry. The adverb meaning 'more' sharpens the verb for 'will see' here.
-- 'You are too pushy, Gabriel!' Sofia reproaches her agent for bringing up work at an awkward moment. Sofia opens with the word for 'are' and lands on 'pushy' at the close.
-- 'He is not interested.' She feels discouraged and doubts the singer has any interest in her. The key word here means 'not', paired with 'interested' to make the point clear.
-- 'Stop worrying like that.' Gabriel urges her not to let insecurity hold her back. Listen for the expression meaning 'stop', which leads naturally into 'to worry'.
-- 'Julien is always very stressed.' The agent explains that creative people often experience intense anxiety. Listen for the expression meaning 'is', which leads naturally into 'stressed'.
-- 'You must give it a shot.' Gabriel encourages his client to take advantage of the opportunity. Gabriel pairs the verb meaning 'must' with the noun for 'shot'.
-- 'All right, I will talk to him.' Sofia finally agrees to approach the artist directly. Sofia opens with the word for 'all right' and lands on 'to talk' at the close.
+- 'Hi Julien! Are you doing well?' Gabriel greets the visiting artist in the party lounge.
+- 'Can you find me a taxi?' Julien urgently asks for a ride away from the venue.
+- 'Is there a problem?' The agent senses that something went wrong with the project.
+- 'I argued with Charlotte.' The musician explains the artistic disagreement with his partner.
+- 'She does not understand the ending.' Julien feels misunderstood regarding the climax of his film.
+- 'I must go back to Paris.' Frustrated by the dispute, he decides to cut his visit short.
+- 'Sofia wants to do screen tests.' Gabriel seizes the opportunity to pitch his actress client.
+- 'We will see about that later.' Julien deflects the business pitch while in a hurry.
+- 'You are too pushy, Gabriel!' Sofia reproaches her agent for bringing up work at an awkward moment.
+- 'He is not interested.' She feels discouraged and doubts the singer has any interest in her.
+- 'Stop worrying like that.' Gabriel urges her not to let insecurity hold her back.
+- 'Julien is always very stressed.' The agent explains that creative people often experience intense anxiety.
+- 'You must give it a shot.' Gabriel encourages his client to take advantage of the opportunity.
+- 'All right, I will talk to him.' Sofia finally agrees to approach the artist directly.

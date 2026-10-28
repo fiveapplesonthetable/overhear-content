@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Seriously Hicham, everything is progressing very well.' Andréa reassures the new boss about her negotiation progress. Listen for the expression meaning 'earnestly', which leads naturally into 'well'.
-- 'Trust me with this file.' She asks for professional autonomy without constant oversight. Andréa opens with the word for 'give me' and lands on 'case file' at the close.
-- 'All this pressure does not help me.' Heavy management pressure is only hindering her work. Andréa pairs the verb meaning 'helps me' with the noun for 'mental stress'.
-- 'I have a gift for you.' Hicham presents a luxury box with a strategic intent. The key word here means 'I have', paired with 'present' to make the point clear.
-- 'Open the box right away.' He insists on seeing her reaction immediately. The adverb meaning 'right' sharpens the verb for 'open' here.
-- 'We have not won yet.' Andréa remains cautious about signing the unpredictable actor. Listen for the expression meaning 'have not', which leads naturally into 'triumphed'.
-- 'Wear this dress tonight.' Hicham wants her to look stunning for the theater dinner. Hicham uses the command form form for 'put on' together with the word for 'evening'.
-- 'Try it on now in front of me.' He inappropriately asks her to change right in front of him. Hicham opens with the word for 'try it on' and lands on 'now' at the close.
-- 'No, I am not trying it on now!' Andréa forcefully draws a firm professional boundary. The short object word l' refers back to the dress.
-- 'We are old schoolmates.' He tries to use their past history to justify his boundary crossing. Notice how the verb for 'are' leads straight into 'from school'.
-- 'There is no question of slipping this on.' She shuts down his intrusive demand with absolute authority. The adverb meaning 'not' sharpens the verb for 'is not' here.
-- 'Very well. Do not let go of Luchini.' Hicham backs down but reminds her of the high stakes. The adverb meaning 'very' sharpens the verb for 'release' here.
-- 'I do not want to look foolish.' His massive pride cannot tolerate a public professional failure. Listen for the expression meaning 'not', which leads naturally into 'foolish'.
-- 'All right, I am managing the situation.' She concludes the confrontation on her own terms. The key word here means 'handle', paired with 'matter' to make the point clear.
+- 'Seriously Hicham, everything is progressing very well.' Andrea reassures the new boss about her negotiation progress.
+- 'Trust me with this file.' She asks for professional autonomy without constant oversight.
+- 'All this pressure does not help me.' Heavy management pressure is only hindering her work.
+- 'I have a gift for you.' Hicham presents a luxury box with a strategic intent.
+- 'Open the box right away.' He insists on seeing her reaction immediately.
+- 'We have not won yet.' Andrea remains cautious about signing the unpredictable actor.
+- 'Wear this dress tonight.' Hicham wants her to look stunning for the theater dinner.
+- 'Try it on now in front of me.' He inappropriately asks her to change right in front of him.
+- 'No, I am not trying it on now!' Andrea forcefully draws a firm professional boundary.
+- 'We are old schoolmates.' He tries to use their past history to justify his boundary crossing.
+- 'There is no question of slipping this on.' She shuts down his intrusive demand with absolute authority.
+- 'Very well. Do not let go of Luchini.' Hicham backs down but reminds her of the high stakes.
+- 'I do not want to look foolish.' His massive pride cannot tolerate a public professional failure.
+- 'All right, I am managing the situation.' She concludes the confrontation on her own terms.

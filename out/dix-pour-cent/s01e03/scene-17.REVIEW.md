@@ -33,13 +33,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, Nathalie, you can't do that.' He uses the casual 'you'; they've worked together for years. He has guessed her plan: to spoil the audition on purpose.
 - 'Of course I can.' Literally 'of course that yes'. A very French way to insist.
 - 'You don't even know how to do it.' The word for 'even' slips in after the negative. Mathias means she is too good an actress to act badly.
-- 'What do you know about it, Mathias?' The tiny word before the verb means 'about it'. She is a little offended.
+- 'What do you know about it, Mathias?' The tiny word before the action word means 'about it'. She is a little offended.
 - 'It's very poetic. I'm very moved.' The word for 'moved' ends in the feminine spelling because Nathalie is a woman, though it sounds the same. She is talking about the script, and she means it.
 - 'Right, here I go.' Literally 'I go there'. People say it before jumping into anything.
 - 'But you're the one who wants to leave.' Now she is reading the script: a mother talking to her daughter. The pattern 'it's you who' puts the weight on the person.
-- 'Go, then! Go!' A casual command from the verb 'to leave'. Commands are our grammar point: the verb alone, with no word for 'you'. She plays it with huge drama.
-- 'I'm not surprised.' The two-part negative around the verb 'to be'.
-- 'You've always loved the wind.' The word for 'always' sits between the two parts of the past verb. Solveig listens, and then asks for something else.
+- 'Go, then! Go!' A casual command from the action word 'to leave'. Commands are our language point: the action word alone, with no word for 'you'. She plays it with huge drama.
+- 'I'm not surprised.' The two-part negative around the action word 'to be'.
+- 'You've always loved the wind.' The word for 'always' sits between the two parts of the past action word. Solveig listens, and then asks for something else.
 - 'Can you try again, without so much tragedy?' The verb for 'try again' is just 'try' with a prefix meaning 'again'. Solveig wants less drama.
 - 'Something more neutral.' After the word for 'something', French adds a small linking word before the adjective.
 - 'If that's what you want.' Nathalie starts again, in exactly the same tragic voice.

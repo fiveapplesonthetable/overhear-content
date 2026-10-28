@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Crisis meeting for Beatrice's film.' Andrea convenes the emergency meeting. The key noun here means 'meeting', anchored by its matching French article.
-- 'I want concrete ideas and solutions.' Andrea demands practical action. Notice how 'want' leads directly into the noun meaning 'solutions'.
-- 'The power struggle will be very tough.' Mathias assesses the intense standoff. French forms the near future by pairing the present tense of 'to go' directly with 'be'.
-- 'We must send our best negotiator.' Mathias emphasizes the stakes. The verb meaning 'is necessary' pairs naturally with the noun for 'negotiator' in everyday conversation.
-- 'That is why I must go.' Mathias volunteers himself as chief negotiator. French forms the near future by pairing the present tense of 'to go' directly with 'go'.
-- 'Excuse me? Who decided this ranking?' Hicham challenges Mathias's claim. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
-- 'I have twenty years of legal experience.' Mathias lists his professional credentials. The verb meaning 'have' pairs naturally with the noun for 'years' in everyday conversation.
-- 'And I know perfectly well how to bluff.' Mathias boasts of negotiation prowess. The clause hinges on the everyday verb meaning 'know'.
-- 'I built my fortune quickly.' Hicham asserts his business authority. This conversational past tense combines a helper verb with the past verb form for 'built'.
-- 'And I play poker every Tuesday.' Hicham cites his weekly card game. Notice how 'play' leads directly into the noun meaning 'poker'.
-- 'I am the one who will handle this producer.' Hicham claims the mission. Notice how 'go' leads directly into the noun meaning 'producer'.
-- 'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination. The clause hinges on the everyday verb meaning 'go ahead'.
-- 'But let me brief you before leaving.' Mathias insists on providing tactical advice. The short 'self' word sits right in front of the verb for 'let me', turning the action back onto the subject.
-- 'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time. In spoken French, the little word before 'brief' drops its final vowel and attaches with an apostrophe.
+- 'Crisis meeting for Beatrice's film.' Andrea convenes the emergency meeting.
+- 'I want concrete ideas and solutions.' Andrea demands practical action.
+- 'The power struggle will be very tough.' Mathias assesses the intense standoff.
+- 'We must send our best negotiator.' Mathias emphasizes the stakes.
+- 'That is why I must go.' Mathias volunteers himself as chief negotiator.
+- 'Excuse me? Who decided this ranking?' Hicham challenges Mathias's claim.
+- 'I have twenty years of legal experience.' Mathias lists his professional credentials.
+- 'And I know perfectly well how to bluff.' Mathias boasts of negotiation prowess.
+- 'I built my fortune quickly.' Hicham asserts his business authority.
+- 'And I play poker every Tuesday.' Hicham cites his weekly card game.
+- 'I am the one who will handle this producer.' Hicham claims the mission.
+- 'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination.
+- 'But let me brief you before leaving.' Mathias insists on providing tactical advice.
+- 'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time.

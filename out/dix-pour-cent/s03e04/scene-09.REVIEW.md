@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Isabelle, we are going to do one last take.' The assistant asks for another camera take. The adjective meaning 'last' takes its feminine form here to match the noun it describes.
-- 'We need a tighter shot.' The assistant specifies the framing needed. The verb meaning 'have' pairs naturally with the noun for 'need' in everyday conversation.
-- 'Oh no, I am already on my seventh death scene!' Isabelle protests the repetition. The key noun here means 'death scene', anchored by its matching French article.
-- 'The director still lacks footage for editing.' The verb meaning 'lacks' pairs naturally with the noun for 'director' in everyday conversation.
-- 'Wait, I am stopping you right there.' Isabelle interrupts the assistant firmly. The clause hinges on the everyday verb meaning 'wait'.
-- 'I am not a machine!' Isabelle asserts her humanity as an artist. The key noun here means 'machine', anchored by its matching French article.
-- 'I do not die on command.' Isabelle emphasizes the emotional effort required. Notice how 'die' leads directly into the noun meaning 'order'.
-- 'One does not die at the snap of a finger.' Isabelle highlights the nuance of dramatic acting. The verb meaning 'dies' pairs naturally with the noun for 'fingers' in everyday conversation.
-- 'I know well, but we must secure the editing.' The assistant tries to justify the extra camera angle. Notice how 'know' leads directly into the noun meaning 'editing'.
-- 'You must respect the vision of your director.' Isabelle reminds the assistant of hierarchy. Isabelle uses the casual singular 'you' with 'must', showing close familiarity.
-- 'That is the true job of an assistant.' Isabelle lectures on professional roles. The key noun here means 'duty', anchored by its matching French article.
-- 'Okay, you are right on this point.' The assistant concedes defeat graciously. the assistant uses the casual singular 'you' with 'have', showing close familiarity.
-- 'We have everything that is needed now.' The crew agrees they have enough footage. The clause hinges on the everyday verb meaning 'have'.
-- 'Perfect, then I am going to rest a bit.' Isabelle claims her well-earned break. French forms the near future by pairing the present tense of 'to go' directly with 'rest'.
+- 'Isabelle, we are going to do one last take.' The assistant asks for another camera take.
+- 'We need a tighter shot.' The assistant specifies the framing needed.
+- 'Oh no, I am already on my seventh death scene!' Isabelle protests the repetition.
+- 'The director still lacks footage for editing.' The assistant defends the request with editorial needs.
+- 'Wait, I am stopping you right there.' Isabelle interrupts the assistant firmly.
+- 'I am not a machine!' Isabelle asserts her humanity as an artist.
+- 'I do not die on command.' Isabelle emphasizes the emotional effort required.
+- 'One does not die at the snap of a finger.' Isabelle highlights the nuance of dramatic acting.
+- 'I know well, but we must secure the editing.' The assistant tries to justify the extra camera angle.
+- 'You must respect the vision of your director.' Isabelle reminds the assistant of hierarchy.
+- 'That is the true job of an assistant.' Isabelle lectures on professional roles.
+- 'Okay, you are right on this point.' The assistant concedes defeat graciously.
+- 'We have everything that is needed now.' The crew agrees they have enough footage.
+- 'Perfect, then I am going to rest a bit.' Isabelle claims her well-earned break.

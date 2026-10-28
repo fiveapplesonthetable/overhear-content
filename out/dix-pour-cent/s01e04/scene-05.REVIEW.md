@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you looking for something?' In French, the verb 'to look for' has the 'for' built right into it, with no extra word needed.
 - 'Yes, some medicine. My back hurts.' Literally 'I have ache at the back'. That's the standard pattern for any body ache.
 - 'I did a rock-climbing course this weekend.' The word for a short training course or workshop is the same word used for an internship.
-- 'Did you like it?' Hervé is intrigued, using the everyday past tense.
+- 'Did you like it?' Hervé is intrigued, asking how it went.
 - 'Yes, a lot! But I'm a city girl.' Literally 'a girl of the city'.
 - 'And the rope really hurts!' Same 'makes ache' expression, this time with the thing that causes the pain as the subject. Then Camille looks at her computer screen.
 - 'Hervé, on the Internet, this actress is ten years older!' Literally 'has ten years of more'. Remember that French uses 'to have' for age.

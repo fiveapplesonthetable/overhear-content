@@ -30,20 +30,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can I take a look around?' Hicham asks eagerly as they arrive on the set. Hicham pairs the verb meaning 'can' with the noun for 'look'.
-- 'This is a major film for ASK.' Andréa proudly introduces the high-profile project. Andréa opens with the word for 'film' and lands on 'corporate' at the close.
-- 'We have the director and the lead actress, Léa Seydoux.' She lists the prestigious talent. Listen for the expression meaning 'have', which leads naturally into 'lead'.
-- 'Léa went back to the hotel.' Karine, the production assistant, explains the star's absence. Notice how the verb for 'has' leads straight into 'the hotel'.
-- 'Yesterday, our car broke down on the road.' The crew faces major delays. The adverb meaning 'yesterday' sharpens the verb for 'has' here.
-- 'Could you use my car?' Hicham steps forward with a generous offer. Hicham pairs the verb meaning 'could' with the noun for 'car'.
-- 'Same style, same color.' He points out that his sports car is an exact visual match. Hicham opens with the word for 'same' and lands on 'color' at the close.
-- 'Why not? That's great!' Karine is thrilled by the unexpected solution. Karine opens with the word for 'why' and lands on 'great' at the close.
-- 'We would need it for a couple more days.' She explains the filming schedule. Listen for the expression meaning 'would be needed', which leads naturally into 'days'.
-- 'No problem, with pleasure.' Hicham basks in playing the generous patron. The key word here means 'problem', paired with 'pleasure' to make the point clear.
-- 'I have an idea. My cousin Saïd drives very well.'s the one who drives in the film.' He suddenly adds an impossible condition. Hicham pairs the verb meaning 'I have' with the noun for 'film'.
-- 'No, Hicham, that's not how it works.' Karine firmly pushes back. Karine opens with the word for 'no' and lands on 'works' at the close.
-- 'We already have a professional actor.' The production must respect union rules and continuity. The adverb meaning 'already' sharpens the verb for 'have' here.
-- 'My cousin will do very well.' Hicham refuses to take no for an answer. The adverb meaning 'very' sharpens the verb for 'will manage' here.
-- 'Okay, forget it. Goodbye!' Offended at not getting his way, Hicham abruptly storms off. Listen for the expression meaning 'let', which leads naturally into 'fall'.
-- 'The guy's crazy.' Karine stares in shock as the billionaire walks away. The key word here means 'is', paired with 'guy' to make the point clear.
-- 'No, wait, Hicham! Hicham!' Andréa chases after him in desperation. Andréa opens with the word for 'no' and lands on 'wait' at the close.
+- 'Can I take a look around?' Hicham asks eagerly as they arrive on the set.
+- 'This is a major film for ASK.' Andréa proudly introduces the high-profile project.
+- 'We have the director and the lead actress, Léa Seydoux.' She lists the prestigious talent.
+- 'Léa went back to the hotel.' Karine, the production assistant, explains the star's absence.
+- 'Yesterday, our car broke down on the road.' The crew faces major delays.
+- 'Could you use my car?' Hicham steps forward with a generous offer.
+- 'Same style, same color.' He points out that his sports car is an exact visual match.
+- 'Why not? That's great!' Karine is thrilled by the unexpected solution.
+- 'We would need it for a couple more days.' She explains the filming schedule.
+- 'No problem, with pleasure.' Hicham basks in playing the generous patron.
+- 'I have an idea. My cousin Saïd drives very well.'s the one who drives in the film.' He suddenly adds an impossible condition.
+- 'No, Hicham, that's not how it works.' Karine firmly pushes back.
+- 'We already have a professional actor.' The production must respect union rules and continuity.
+- 'My cousin will do very well.' Hicham refuses to take no for an answer.
+- 'Okay, forget it. Goodbye!' Offended at not getting his way, Hicham abruptly storms off.
+- 'The guy's crazy.' Karine stares in shock as the billionaire walks away.
+- 'No, wait, Hicham! Hicham!' Andréa chases after him in desperation.

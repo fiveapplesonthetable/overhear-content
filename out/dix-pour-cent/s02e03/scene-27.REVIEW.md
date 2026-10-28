@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We must stop, Noémie, it is late.' Listen for the expression meaning 'is necessary', which leads naturally into 'late'.
-- 'I got behind in my work.' Noémie pairs the verb meaning 'I have' with the noun for 'work'.
-- 'I wanted to apologize for yesterday.' Mathias opens with the word for 'wanted' and lands on 'yesterday' at the close.
-- 'It is not your fault, Mathias.' The key word here means 'is', paired with 'fault' to make the point clear.
-- 'The situation is complex.' Notice how the verb for 'is' leads straight into 'state of affairs'.
-- 'I was afraid you were angry with me.' The adjective meaning 'angry' agrees in gender and number with feminine noun 'fear'.
+- 'We must stop, Noémie, it is late.' Late at night in the office, Mathias tells Noémie they have to stop working.
+- 'I got behind in my work.' The idiom prendre du retard meaning to fall behind.
+- 'I wanted to apologize for yesterday.' Mathias apologizes to Noémie for losing his temper the day before.
+- 'It is not your fault, Mathias.' Noémie reassures him gently that none of it was his fault.
+- 'The situation is complex.' Mathias sighs that his personal and professional life has become complicated.
+- 'I was afraid you were angry with me.' Noémie confesses she was terrified that Mathias was angry with her.
 - 'Sorry for having put you in this situation.' A past infinitive introduced by de.
-- 'You cannot spend the night on these schedules.' Mathias opens with the word for 'can' and lands on 'schedules' at the close.
-- 'But I am sure that it can work.' Noémie opens with the word for 'am' and lands on 'work' at the close.
-- 'They must start with the end of the shoot.' Notice how the verb for 'must' leads straight into 'shooting'.
+- 'You cannot spend the night on these schedules.' Mathias insists she cannot spend the entire night reworking the schedules.
+- 'But I am sure that it can work.' An assertive clause expressing confidence.
+- 'They must start with the end of the shoot.' Noémie spots the solution: the crew must shoot the ending of the film first.
 - 'Let us see, which sequence?' An informal prompt asking for detail.
 - 'Sequence sixty-nine.' A spelled out cardinal number identifying the script scene.
 - 'Here is the summary of the scene.' The presentative voila introducing the document.
-- 'Yes, they can start there.' The key word here means 'yes', paired with 'there' to make the point clear.
+- 'Yes, they can start there.' The spatial adverb la meaning there.
 - 'You did a wonderful job, Noémie.' Mathias commends her dedication.
 - 'Thank you, Mathias.' An intimate tender response.

@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need a drink. Waiter!' Annick signals the server to cope with her nerves. The traditional noun addresses brasserie waiters.
-- 'Look Mom, he is here.' Camille spots her father entering the brasserie. The adverbial particle pinpoints physical presence in the room.
-- 'He has not changed.' Annick observes Mathias with quiet surprise after eight years. The negative compound past tense notes his familiar appearance.
-- 'Neither have you.' Camille offers an encouraging compliment to her mother. Listen for the expression meaning 'neither', which leads naturally into 'either'.
-- 'Hello Annick. Hello Camille.' Mathias greets them with formal reserve. The standard greeting introduces the awkward family reunion.
-- 'Hello Mathias.' Annick responds cautiously, maintaining polite distance. The mutual formal tone highlights years of silence.
-- 'Are you not going to shake hands?' Camille points out their stiff physical hesitation. Listen for the expression meaning 'are not going', which leads naturally into 'hand'.
-- 'No, of course not.' Mathias declines the cold corporate gesture between past lovers. The fixed emphatic expression reinforces obvious negation.
-- 'Sit down, Mathias.' Annick invites him to join them at the table. Annick gives a direct command form using the verb for 'sit down'.
-- 'An important man must be in a hurry.' She uses gentle irony about his busy life. Notice how the verb for 'must' leads straight into 'man'.
-- 'Oh, you know...' Mathias deflects the remark with understated modesty. The conversational filler avoids boastful agreement.
-- 'Just a coffee, please.' Mathias orders a quick hot beverage from the waiter. The polite courtesy phrase completes the beverage request.
-- 'And a glass of red wine for me.' Annick chooses wine to steady her emotions. A concise spoken phrase built around the French noun for 'drinking glass'.
-- 'I will take care of it.' Mathias offers to cover the order. The key word here means 'take care of', paired with 'take care of' to make the point clear.
-- 'You take care of everything, always.' Annick evokes his habitual need for control. Annick opens with the word for 'take care of' and lands on 'always' at the close.
-- 'Better late than never.' Mathias acknowledges their belated family reunion. The traditional French proverb reflects on timing and reconciliation.
+- 'I need a drink. Waiter!' Annick signals the server to cope with her nerves.
+- 'Look Mom, he is here.' Camille spots her father entering the brasserie.
+- 'He has not changed.' Annick observes Mathias with quiet surprise after eight years.
+- 'Neither have you.' Camille offers an encouraging compliment to her mother.
+- 'Hello Annick. Hello Camille.' Mathias greets them with formal reserve.
+- 'Hello Mathias.' Annick responds cautiously while keeping a polite distance.
+- 'Are you not going to shake hands?' Camille points out their stiff physical hesitation.
+- 'No, of course not.' Mathias declines the cold corporate gesture between past lovers.
+- 'Sit down, Mathias.' Annick invites him to join them at the table.
+- 'An important man must be in a hurry.' She uses gentle irony about his busy life.
+- 'Oh, you know...' Mathias deflects the remark with understated modesty.
+- 'Just a coffee, please.' Mathias orders a quick hot beverage from the waiter.
+- 'And a glass of red wine for me.' Annick chooses wine to steady her emotions.
+- 'I will take care of it.' Mathias offers to cover the order.
+- 'You take care of everything, always.' Annick evokes his habitual need for control.
+- 'Better late than never.' Mathias acknowledges their belated family reunion.

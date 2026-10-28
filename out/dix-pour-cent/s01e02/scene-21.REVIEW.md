@@ -30,20 +30,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gabi! He wants me!' A pet name for Gabriel, then a tiny sentence: the little word for 'me' goes before the verb. Gabor wants her for the part.
-- 'I've just spent two hours with Gabor.' The verb 'to come' plus another verb again, meaning 'have just'.
+- 'Gabi! He wants me!' A pet name for Gabriel, then a tiny sentence: the little word for 'me' goes before the action word. Gabor wants her for the part.
+- 'I've just spent two hours with Gabor.' The action word 'to come' plus another action word again, meaning 'have just'.
 - 'We start shooting in three weeks, children!' The word for 'we' at the start is the everyday one. She calls them 'children', with affection.
 - 'Thank you, Gabi. My little miracle!' She is thanking Gabriel, and Andréa is standing right there.
 - 'So what do we look like now?' Literally 'what impression do we make'. Andréa now has two stars for one part, and she is furious.
 - 'People who understand Gabor's films.' Gabriel answers with a straight face. The word for 'who' links the description to the people.
 - 'Nobody asked you to step in.' The negative with 'nobody' comes first here, at the start of the sentence.
-- 'I wanted to help you. You were panicking.' Two verbs in the past tense used for ongoing states: what he wanted, what she was doing.
+- 'I wanted to help you. You were panicking.' Two action words in the past used for ongoing states: what he wanted, what she was doing.
 - 'This part is for Françoise Fabian!' Andréa won't give up her client.
-- 'Then go and tell Françoise the part is taken!' A command in the casual form: the verb 'to go', then 'to tell'. Commands are the grammar point of this row.
-- 'Gabriel, I'm not joking! Do what I say!' Another casual command, from the verb 'to do'. She is giving orders.
+- 'Then go and tell Françoise the part is taken!' A command in the casual form: the action word 'to go', then 'to tell'. Commands are the language point of this row.
+- 'Gabriel, I'm not joking! Do what I say!' Another casual command, from the action word 'to do'. She is giving orders.
 - 'Don't give me orders!' A negative command: the two-part negative wraps around the little word for 'me' and the verb.
 - 'You ruin everything!' Short and cruel.
 - 'You don't need anyone, Andréa!' Literally 'you have need of nobody'. The phrase for 'to need' is built with the verb 'to have'.
 - 'Well, not you and your stupid ideas, anyway!' The word for 'your' is the casual one, plural here, to match 'ideas'.
 - 'And when you want a child, find someone else!' The first verb is in the future, because it's about later; the second is a command. It's a low blow: at dinner the other night, Andréa said she could imagine having a child with him.
-- 'Exactly!' One word, and the door slams. Here's the whole scene once more. Now hear the entire conversation again from the top.
+- 'Exactly!' One word, and the door slams.

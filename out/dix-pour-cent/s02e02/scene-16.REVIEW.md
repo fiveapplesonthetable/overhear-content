@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello? Fabrice?' Andréa answers her phone surprised by the late hour.
+- 'Hello? Fabrice?' Andrea answers her phone surprised by the late hour.
 - 'Andréa, I cannot sleep.' Fabrice explains that his insomnia and racing thoughts kept him awake.
-- 'What is wrong?' Andréa asks what is troubling him so deeply.
+- 'What is wrong?' Andrea asks what is troubling him so deeply.
 - 'I met Debbie MacWilliams tonight.' Fabrice reveals his evening encounter with the purported British casting director.
 - 'Bréhier completely ruined the role.' Fabrice blames his long-time agent for squandering the opportunity.
-- 'The role in James Bond?' Andréa pretends to hear the news for the first time.
+- 'The role in James Bond?' Andrea pretends to hear the news for the first time.
 - 'Yes! I must see you now.' Fabrice insists on meeting in person without waiting until morning.
-- 'All right, I am coming right away.' Andréa quickly agrees to come over immediately.
-- 'Gabriel, are you awake?' Andréa calls Gabriel to wake him and share the urgent news.
+- 'All right, I am coming right away.' Andrea quickly agrees to come over immediately.
+- 'Gabriel, are you awake?' Andrea calls Gabriel to wake him and share the urgent news.
 - 'Hello Andréa? What is going on?' Gabriel answers groggily, wondering why she is calling at night.
-- 'Fabrice just called me!' Andréa triumphantly announces that Luchini took the bait.
+- 'Fabrice just called me!' Andrea triumphantly announces that Luchini took the bait.
 - 'Is that true? The plan worked!' Gabriel is thrilled that their elaborate bluff paid off.
 - 'Be very gentle with him.' Gabriel counsels her to approach the wounded star with care and tact.
-- 'Do not worry, I am handling it.' Andréa reassures him that she has the situation completely under control.
+- 'Do not worry, I am handling it.' Andrea reassures him that she has the situation completely under control.
 - 'You are the best, good luck!' Gabriel cheers her on before she sets off into the night.

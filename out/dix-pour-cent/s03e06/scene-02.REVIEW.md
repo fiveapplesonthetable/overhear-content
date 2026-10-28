@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are serving only champagne tonight.' A firm directive demanding prestigious catering for the anniversary. The verb meaning 'serve' pairs naturally with the noun for 'champagne' in everyday conversation.
-- 'Please cancel this cocktail bar.' Notice how 'please' leads directly into the noun meaning 'bar'. Notice how 'please' leads directly into the noun meaning 'bar'.
-- 'Everyone knows the log of a photocopier!' The verb meaning 'knows' pairs naturally with the noun for 'people' in everyday conversation.
-- 'What is done is done.' A pragmatic dismissal refusing to dwell on past errors. The clause hinges on the everyday verb meaning 'makes'.
-- 'You are now the big boss.' The descriptive adjective for 'large' agrees in gender and number with its noun. The descriptive adjective for 'large' agrees in gender and number with its noun.
-- 'We must look toward the future.' A positive exhortation focusing on upcoming corporate challenges. Notice how 'must' leads directly into the noun meaning 'future'.
-- 'I can no longer work with him.' The two-part negative structure wraps around 'can' to express 'no longer' or 'not anymore'.
-- 'We should all resign together.' The clause hinges on the everyday verb meaning 'should'.
-- 'Mathias would find himself completely alone.' A thoughtful evaluation considering the consequence of a mass walkout. The descriptive adjective for 'alone' agrees in gender and number with its noun.
-- 'It is betrayal on every floor.' A bitter assessment describing pervasive intrigue within the agency. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
-- 'Our little mistakes seem insignificant now.' A candid comparison contrasting minor blunders with major power struggles. The adjective meaning 'small' takes its feminine form here to match the noun it describes.
-- 'This atmosphere is destroying our whole team.' Notice how 'destroys' leads directly into the noun meaning 'atmosphere'. Notice how 'destroys' leads directly into the noun meaning 'atmosphere'.
-- 'Yet, Mathias loves this fierce struggle.' An astute insight into the rival's relentless competitive drive. Notice how 'adore' leads directly into the noun meaning 'struggle'.
-- 'I refuse to give up without fighting.' The clause hinges on the everyday verb meaning 'refuse'.
+- 'We are serving only champagne tonight.' A firm directive demanding prestigious catering for the anniversary.
+- 'Please cancel this cocktail bar.' An authoritative order dismissing casual party arrangements.
+- 'Everyone knows the log of a photocopier!' An exasperated remark highlighting a foolish operational oversight.
+- 'What is done is done.' A pragmatic dismissal refusing to dwell on past errors.
+- 'You are now the big boss.' An encouraging statement affirming his newly won executive authority.
+- 'We must look toward the future.' A positive exhortation focusing on upcoming corporate challenges.
+- 'I can no longer work with him.' A sharp rejection expressing total loss of confidence in Mathias.
+- 'We should all resign together.' A bold proposal suggesting collective resignation in protest.
+- 'Mathias would find himself completely alone.' A thoughtful evaluation considering the consequence of a mass walkout.
+- 'It is betrayal on every floor.' A bitter assessment describing pervasive intrigue within the agency.
+- 'Our little mistakes seem insignificant now.' A candid comparison contrasting minor blunders with major power struggles.
+- 'This atmosphere is destroying our whole team.' A regretful complaint noting the erosion of mutual trust.
+- 'Yet, Mathias loves this fierce struggle.' An astute insight into the rival's relentless competitive drive.
+- 'I refuse to give up without fighting.' A determined declaration resolving to fight back against the takeover.

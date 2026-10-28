@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Tell me one thing, my dear Hervé.' A polite conversational opening setting an affectionate personal tone."),
-    (1, None, "'Yes Arlette, what is the matter?' The verb meaning 'is it' anchors the whole remark."),
+    (1, None, "'Yes Arlette, what is the matter?' A ready inquiry asking for clarification."),
     (2, None, "'Can you take care of Jean Gabin?' A direct pronominal request asking for pet sitting help."),
     (3, None, "'You are not taking him to Cannes?' A surprised negative question inquiring about festival company."),
     (4, None, "'No, that is impossible with the dresses.' A blunt negative asserting high-fashion incompatibility."),
-    (5, None, "'Why is it impossible with the dresses?' Notice how the verb for 'is it' leads straight into 'dresses'."),
-    (6, None, "'He takes dresses for lampposts!' The key word here means 'takes', paired with 'lampposts' to make the point clear."),
+    (5, None, "'Why is it impossible with the dresses?' An interrogative phrase seeking practical explanation."),
+    (6, None, "'He takes dresses for lampposts!' A humorous idiom illustrating the dog's mischievous outdoor habit."),
     (7, None, "'That is a very bad habit, indeed.' An amused acknowledgment conceding canine misbehavior."),
-    (8, None, "'Please, agree to look after him.' Arlette opens with the word for 'pleases' and lands on 'look after' at the close."),
+    (8, None, "'Please, agree to look after him.' A courteous imperative pleading for temporary pet care."),
     (9, None, "'I have never had a dog at my place.' A past experience statement noting domestic inexperience."),
     (10, None, "'He is very gentle and very well-behaved.' Complementary descriptive adjectives praising pet temperament."),
-    (11, None, "'And what if he gets bored without you?' Listen for the expression meaning 'gets bored', which leads naturally into 'gets bored'."),
+    (11, None, "'And what if he gets bored without you?' A conditional question worrying about separation anxiety."),
     (12, None, "'He will do you a lot of good, you will see.' A reassuring prediction promising beneficial companionship."),
     (13, None, "'All right, bring him tonight to my place.' An agreeable consent arranging evening handover."),
 ]

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, I am looking for the organizers.' Corinne arrives at the celebration. The verb meaning 'am looking for' pairs naturally with the noun for 'good evening' in everyday conversation.
-- 'Good evening, I am Noemie, assistant.' Noemie politely presents her role at the agency. The key noun here means 'good evening', anchored by its matching French article.
-- 'I am the famous ghost.' Corinne refers to her stand-in film role. The descriptive adjective for 'famous' agrees in gender and number with its noun.
-- 'Are you Isabelle's double?' Noemie connects the clues immediately. The formal 'you' pronoun sets a courteous, professional distance around 'double'.
-- 'Yes, I did my best.' Corinne describes her earnest effort on the set. This conversational past tense combines a helper verb with the past verb form for 'done'.
-- 'Are you a theater actress?' Noemie inquires about her dramatic training. The key noun here means 'actress', anchored by its matching French article.
-- 'No, I am an ordinary nurse.' Corinne reveals her true day job in hospital care. The adjective meaning 'ordinary' takes its feminine form here to match the noun it describes.
-- 'You are not a professional actress?' Noemie expresses growing astonishment. The key noun here means 'actress', anchored by its matching French article.
-- 'Not at all, it was a favor.' Corinne clarifies that she helped out as a favor. The verb meaning 'was' pairs naturally with the noun for 'favor' in everyday conversation.
-- 'Do you know who we really are?' Noemie checks how much Corinne understands. The clause hinges on the everyday verb meaning 'know'.
-- 'Yes, I know everything now.' Corinne states that she grasps the whole picture. The clause hinges on the everyday verb meaning 'know'.
-- 'This is a disaster for the agency!' Noemie panics over the high legal stakes. The key noun here means 'disaster', anchored by its matching French article.
-- 'I just came for the party.' Corinne clarifies that she has no malicious intent. The verb meaning 'come' pairs naturally with the noun for 'party' in everyday conversation.
-- 'Wait here, I am finding Andrea!' Noemie rushes off to warn her boss. The clause hinges on the everyday verb meaning 'wait'.
+- 'Good evening, I am looking for the organizers.' Corinne arrives at the celebration.
+- 'Good evening, I am Noemie, assistant.' Noemie politely presents her role at the agency.
+- 'I am the famous ghost.' Corinne refers to her stand-in film role.
+- 'Are you Isabelle's double?' Noemie connects the clues immediately.
+- 'Yes, I did my best.' Corinne describes her earnest effort on the set.
+- 'Are you a theater actress?' Noemie inquires about her dramatic training.
+- 'No, I am an ordinary nurse.' Corinne reveals her true day job in hospital care.
+- 'You are not a professional actress?' Noemie expresses growing astonishment.
+- 'Not at all, it was a favor.' Corinne clarifies that she helped out as a favor.
+- 'Do you know who we really are?' Noemie checks how much Corinne understands.
+- 'Yes, I know everything now.' Corinne states that she grasps the whole picture.
+- 'This is a disaster for the agency!' Noemie panics over the high legal stakes.
+- 'I just came for the party.' Corinne clarifies that she has no malicious intent.
+- 'Wait here, I am finding Andrea!' Noemie rushes off to warn her boss.

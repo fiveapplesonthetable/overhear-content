@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sarah agrees to see me again tonight!' Gabriel shares his excitement. Notice how 'agrees' leads directly into the noun meaning 'evening'.
-- 'That is great, are you happy?' Sofia asks while masking her true reaction. Sofia uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'I am afraid of making a mistake.' Gabriel confesses his self-doubt. Notice how 'have' leads directly into the noun meaning 'fear'.
-- 'We will rehearse together like in cinema.' Sofia suggests a practical acting exercise. Notice how 'are going to' leads directly into the noun meaning 'cinema'.
-- 'Me, I am Sarah, action!' Sofia adopts the character of Gabriel's date. The key noun here means 'action', anchored by its matching French article.
-- 'Why did you break up with me?' Sofia begins the simulated confrontation. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'Sarah will not speak like that!' Gabriel objects to the hostile greeting. The two-part French negation brackets the verb for 'will' on both sides.
-- 'Do you still have feelings for Sofia?' Sofia uses the roleplay to question Gabriel about herself. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'No, it is in the past between us.' Gabriel claims that his past relationship is over. The key noun here means 'past', anchored by its matching French article.
-- 'You hesitated before answering!' Sofia detects doubt in his immediate reply. This conversational past tense combines a helper verb with the past verb form for 'hesitated'.
-- 'Promise me that you no longer love her.' Sofia uses the casual singular 'you' with 'promise', showing close familiarity. Sofia uses the casual singular 'you' with 'promise', showing close familiarity.
-- 'Sofia, we should stop there.' Gabriel recognizes that the exercise has gone too far. The clause hinges on the everyday verb meaning 'should'.
-- 'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions. The clause hinges on the everyday verb meaning 'are speaking'.
-- 'I no longer know at all.' Gabriel admits his helplessness in front of her. The two-part negative structure wraps around 'know' to express 'no longer' or 'not anymore'.
+- 'Sarah agrees to see me again tonight!' Gabriel shares his excitement.
+- 'That is great, are you happy?' Sofia asks while masking her true reaction.
+- 'I am afraid of making a mistake.' Gabriel confesses his self-doubt.
+- 'We will rehearse together like in cinema.' Sofia suggests a practical acting exercise.
+- 'Me, I am Sarah, action!' Sofia adopts the character of Gabriel's date.
+- 'Why did you break up with me?' Sofia begins the simulated confrontation.
+- 'Sarah will not speak like that!' Gabriel objects to the hostile greeting.
+- 'Do you still have feelings for Sofia?' Sofia uses the roleplay to question Gabriel about herself.
+- 'No, it is in the past between us.' Gabriel claims that his past relationship is over.
+- 'You hesitated before answering!' Sofia detects doubt in his immediate reply.
+- 'Promise me that you no longer love her.' Sofia pushes for total reassurance.
+- 'Sofia, we should stop there.' Gabriel recognizes that the exercise has gone too far.
+- 'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions.
+- 'I no longer know at all.' Gabriel admits his helplessness in front of her.

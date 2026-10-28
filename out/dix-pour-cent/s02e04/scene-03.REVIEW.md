@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Sacha? It is Andréa, wake up!' An energetic telephone greeting demanding attention.
-- 'Hi Andréa, I was still sleeping a bit.' An imperfect verb explaining sleepy morning confusion.
-- 'I just bumped into Isabelle Adjani at the office.' A recent past construction with 'have just'.
+- 'Hi Andréa, I was still sleeping a bit.' Answering the phone half-asleep, the young director admits he was still in bed.
+- 'I just bumped into Isabelle Adjani at the office.' A recent past construction with 'venir de'.
 - 'She is dying to meet you.' An idiomatic French expression showing extreme eagerness.
 - 'She is perfect for your new film.' A strong descriptive claim promoting the casting.
-- 'I refuse to work with this actress.' A blunt present tense refusal rejecting collaboration.
-- 'Why? She is an immense movie star.' Notice how the verb for 'is' leads straight into 'film industry'.
+- 'I refuse to work with this actress.' Sacha flatly refuses to make his movie with that actress.
+- 'Why? She is an immense movie star.' An incredulous question citing industry stature.
 - 'She refused my first project in the past.' A compound past verb recounting an old rejection.
 - 'She sent me a very nasty message.' A compound past recalling an offensive email.
-- 'Tell her that I am not interested.' Sacha gives a direct command form using the verb for 'tell him'.
-- 'Sacha, please, listen to me!' The key word here means 'pleases', paired with 'listen to me' to make the point clear.
-- 'So Andréa, what did he say?' The key word here means 'so', paired with 'said' to make the point clear.
+- 'Tell her that I am not interested.' An indirect imperative delivering retaliatory disinterest.
+- 'Sacha, please, listen to me!' An urgent imperative begging for dialogue.
+- 'So Andréa, what did he say?' A curious inquiry from an observant assistant.
 - 'Hartman is furious and refuses this meeting.' A summary of the director's bitter resentment.
 - 'That is a real disaster for our agency.' An exclamatory evaluation highlighting high stakes.

@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello, everyone.' Literally 'Good day to all.'
 - 'Hello.' Mathias answers politely, bracing for the report.
-- 'You just lost your boss. I am sorry.'m sorry.' Because Colette is a woman, the past verb form 'arrived' takes an extra silent 'e'.
+- 'You just lost your boss. I am sorry.'m sorry.' The tax auditor offers her condolences for Samuel's death before getting down to business.
 - 'But the law is the law.' Colette makes it clear that grief does not excuse breaking tax rules.
-- 'A company is not a family. There are laws.' Notice how the verb for 'is not' leads straight into 'laws'.
+- 'A company is not a family. There are laws.' Colette reminds the partners sternly that a company is governed by laws, not family ties.
 - 'You confuse private life and professional life.' Notice how both adjectives come after the feminine noun 'life'.
 - 'You are going to pay a big fine in court.' The future form 'there will be' introduces the penalty.
 - 'Why the court?' Mathias is stunned that the audit is going beyond a simple tax bill.
-- 'The company paid for a private hotel room for ten years.' At this point, Samuel Kerr lived in a luxury hotel at the agency's expense.
+- 'The company paid for a private hotel room for ten years.' Here, Samuel Kerr lived in a luxury hotel at the agency's expense.
 - 'The agency was paying for his vacations and his big house.'s money.' The partners treated the company bank account like their personal wallet.
-- 'Some people even bought socks with the company's money!' Notice how the verb for 'have' leads straight into 'company'.
+- 'Some people even bought socks with the company's money!' The word for 'even' sits between the helper verb and the past participle.
 - 'That's different. It was a festival in the Alps, my feet were freezing!' Gabriel tries to defend his ski-festival socks.
-- 'It's an offense. Sorry. Goodbye.' Colette closes her file and walks out without looking at Andréa.
+- 'It's an offense. Sorry. Goodbye.' Colette closes her file and walks out without looking at Andrea.

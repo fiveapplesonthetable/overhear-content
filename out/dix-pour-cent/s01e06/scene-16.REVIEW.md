@@ -29,20 +29,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's not at all what I had asked for.' The key word here means 'is not', paired with 'asked for' to make the point clear.
+- 'That's not at all what I had asked for.' The phrase after the negative means 'at all'.
 - 'The dance first.' Constance wants Sofia to start with the choreography.
 - 'We start again from the beginning. Ready?' Notice the feminine ending on the adjective for 'ready'.
-- 'Listen, it's the cops! We have to get out of here!' Instead of dancing, Sofia launches into her lines and accidentally knocks over the assistant. Back at ASK, Gabriel confronts her.
+- 'Listen, it's the cops! We have to get out of here!' Instead of dancing, Sofia launches into her lines and accidentally knocks over the assistant.
 - 'But what did you do?' Gabriel is horrified by Constance's phone call.
 - 'I'm sorry. I like you a lot, Sofia, but this isn't working.' Literally 'that does not go'.
-- 'Either you explain to me what happened, or...' Repeating the word for 'either' at the start of each clause means 'either... or...'.
+- 'Either you explain to me what happened, or...' Repeating the word for 'either' at the start of each clause means 'either...
 - 'It's hip-hop. I don't know how to dance.' In French, 'to know how to do something' is simply the verb 'know' followed by the infinitive.
 - 'Why didn't you tell me?' Literally 'why did you not tell it to me'.
-- 'I had told you that it was condition number one!' Gabriel links 'I' directly with 'you + had' to express the thought clearly.
-- 'But you came to offer me a hip-hop role!' The key word here means 'are', paired with 'hip-hop' to make the point clear.
+- 'I had told you that it was condition number one!' Gabriel insists he told her from the start that dancing was required.
+- 'But you came to offer me a hip-hop role!' Sofia points out that Gabriel brought her the hip-hop audition himself.
 - 'Because I'm black, I know how to dance hip-hop?' Sofia realizes Gabriel assumed she could dance hip-hop without even asking.
 - 'Excuse me? You're crossing the line!' Literally 'you pass beyond the boundary markers'.
-- 'And that doesn't explain why you hit her assistant!' This everyday French sentence pairs 'and' with 'assistant'.
+- 'And that doesn't explain why you hit her assistant!' Gabriel is still furious that she knocked the casting assistant over.
 - 'There are rules! The agency has a reputation! So do I!' Gabriel loses his temper and says people don't behave like a savage.
 - 'Why do people only offer me these cliché roles?' Sofia is stunned by his word choice.
-- 'So I'm either a slave, or a hip-hop dancer, or a savage?' Sofia combines 'so' with 'savage' in a natural French turn of phrase. Now let's hear the whole scene again from start to finish.
+- 'So I'm either a slave, or a hip-hop dancer, or a savage?' Sofia sums up the three clichés she has been reduced to in a single day. Now let's hear the whole scene again from start to finish.

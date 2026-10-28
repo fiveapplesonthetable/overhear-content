@@ -30,8 +30,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You came! I can't believe it!' Literally 'it's unbelievable'. The first verb is in the past, built with 'to be', because coming is a movement.
-- 'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the helper verb, inside the 'not'.
+- 'You came! I can't believe it!' Literally 'it's unbelievable'. The first action word is in the past, built with 'to be', because coming is a movement.
+- 'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the helper word, inside the 'not'.
 - 'Did you like the others?' The past tense with 'to have' and the past form of 'to like'.
 - 'They're good, aren't they?' Adding the word for 'no' at the end is the easy French way to say 'aren't they?' or 'right?'.
 - 'Yes, they're good.' Gabriel is polite about the rest of the cast.
@@ -47,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I'm serious.' Gabriel means it.
 - 'I don't have much work, you know.' After 'not', 'a lot of' becomes 'much'. Same words in French: literally 'not a lot of work'.
 - 'I'm going to help you find work.' The verb 'to go' plus another verb for the near future again, and after 'help', a little word for 'to' before the next verb.
-- 'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last. Here's the whole scene again, from the top. Now let's hear the full exchange again from beginning to end.
+- 'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last. Here's the whole scene again, from the top.

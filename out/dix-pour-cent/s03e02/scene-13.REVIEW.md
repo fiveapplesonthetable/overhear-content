@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, what do you think of these photos?' Monica asks for Gabriel's honest professional feedback. The verb meaning 'think' pairs naturally with the noun for 'promo pictures' in everyday conversation.
-- 'Advertising is not cinema.' Gabriel distinguishes commercial promo aesthetics from films. The key noun here means 'commercial advertising', anchored by its matching French article.
-- 'These are very different codes.' He notes that advertising operates by artificial standards. The key noun here means 'aesthetic conventions', anchored by its matching French article.
-- 'You know very well what pleases you.' Monica challenges him to judge purely as an observer. The short 'self' word sits right in front of the verb for 'know', turning the action back onto the subject.
-- 'Here, this is not exciting at all.' She expresses dissatisfaction with the clinical studio shots. The key noun here means 'all', anchored by its matching French article.
-- 'Well, it is still a little bit exciting!' Gabriel gently disagrees with her harsh self-critique. The descriptive adjective for 'attractive' agrees in gender and number with its noun.
-- 'Honestly, who is this woman?' Monica feels alienated by the synthetic marketing image. The key noun here means 'unfamiliar lady', anchored by its matching French article.
-- 'This image is so heavily retouched!' She decries the aggressive digital post-production. The verb meaning 'digitally altered' pairs naturally with the noun for 'retouched portrait' in everyday conversation.
-- 'I no longer have any natural expression.' Monica laments the erasure of authentic human facial traits. The adjective meaning 'authentic' takes its feminine form here to match the noun it describes.
-- 'Look, I do not even have elbows anymore!' She points out ridiculous anatomical airbrushing. The verb meaning 'look' pairs naturally with the noun for 'arm elbows' in everyday conversation.
-- 'People rarely look at your elbows.' Gabriel offers humor to lighten her frustration. Notice how 'look at' leads directly into the noun meaning 'anatomical elbows'.
-- 'Personally, I really like how you look at me.' Monica pivots to an intimate personal compliment. The short 'self' word sits right in front of the verb for 'like', turning the action back onto the subject.
-- 'Your gaze is always kind and gentle.' She appreciates his sincere, non-predatory attention. The informal 'you' form around 'expression' marks a direct, personal relationship.
-- 'With you, I feel confident and safe.' Monica expresses profound trust in her dedicated agent. Monica uses the casual singular 'you' with 'feel', showing close familiarity.
-- 'I am extremely flattered, but it is taboo.' Gabriel acknowledges her affection while upholding professional ethics. This conversational past tense combines a helper verb with the past verb form for 'greatly praised'. Now let's hear the whole conversation again.
+- 'So, what do you think of these photos?' Monica asks for Gabriel's honest professional feedback.
+- 'Advertising is not cinema.' Gabriel distinguishes commercial promo aesthetics from films.
+- 'These are very different codes.' He notes that advertising operates by artificial standards.
+- 'You know very well what pleases you.' Monica challenges him to judge purely as an observer.
+- 'Here, this is not exciting at all.' She expresses dissatisfaction with the clinical studio shots.
+- 'Well, it is still a little bit exciting!' Gabriel gently disagrees with her harsh self-critique.
+- 'Honestly, who is this woman?' Monica feels alienated by the synthetic marketing image.
+- 'This image is so heavily retouched!' She decries the aggressive digital post-production.
+- 'I no longer have any natural expression.' Monica laments the erasure of authentic human facial traits.
+- 'Look, I do not even have elbows anymore!' She points out ridiculous anatomical airbrushing.
+- 'People rarely look at your elbows.' Gabriel offers humor to lighten her frustration.
+- 'Personally, I really like how you look at me.' Monica pivots to an intimate personal compliment.
+- 'Your gaze is always kind and gentle.' She appreciates his sincere, non-predatory attention.
+- 'With you, I feel confident and safe.' Monica expresses profound trust in her dedicated agent.
+- 'I am extremely flattered, but it is taboo.' Gabriel acknowledges her affection while upholding professional ethics. Now listen to the whole scene again at normal speed, and see how much more you catch.

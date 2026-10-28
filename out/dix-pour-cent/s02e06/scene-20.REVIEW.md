@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen to this ridiculous poem sent by Gillières.' Juliette is appalled by the message. Juliette uses the command form form for 'listen to' together with the word for 'poem'.
-- 'He writes that my feline beauty haunts him.' Juliette reads the pretentious line out loud. Juliette opens with the word for 'writes' and lands on 'haunts' at the close.
-- 'This man really never drops the matter.' Andréa notes his relentless pursuit. Listen for the expression meaning 'man', which leads naturally into 'matter'.
-- 'He insists on inviting me onto his boat tomorrow.' Juliette conveys the unwanted invitation. The key word here means 'insists', paired with 'tomorrow' to make the point clear.
-- 'I categorically refuse to get on that yacht.' Juliette takes a firm stand. Juliette pairs the verb meaning 'to refuse' with the noun for 'yacht'.
-- 'The financial situation of your movie is delicate.' Andréa reminds her of the production stakes. Notice how the verb for 'is' leads straight into 'movie'.
-- 'What do you mean by that, Andréa?' Juliette senses hesitation in her agent. Juliette opens with the word for 'mean' and lands on 'there' at the close.
-- 'Gillières can block the budget of your movie.' Andréa explains the billionaire's influence. The masculine noun budget designates production funds.
-- 'I am not going to yield to a predator.' Juliette refuses to compromise her boundaries. Listen for the expression meaning 'not', which leads naturally into 'predator'.
-- 'I understand your anger and I support you.' Andréa validates her client's emotions. Listen for the expression meaning 'understand', which leads naturally into 'support'.
-- 'Then find a solution to cancel this meeting.' Juliette charges her agent with finding a way out. Juliette uses the command form form for 'find' together with the word for 'meeting'.
-- 'We can go there together with the team.' Andréa suggests a protective compromise. Notice how the verb for 'can' leads straight into 'team'.
-- 'Do you promise not to leave me alone?' Juliette demands guaranteed accompaniment. The key word here means 'promise', paired with 'alone' to make the point clear.
-- 'I will always be at your side on the boat.' Andréa makes an absolute pledge of protection. The adverb meaning 'always' sharpens the verb for 'will be' here.
-- 'Alright, but we will leave after an hour.' Juliette imposes a strict time boundary. Listen for the expression meaning 'alright', which leads naturally into 'hour'.
-- 'It is promised, nobody will touch you!' Andréa seals the protective pact firmly. The adverb meaning 'not' sharpens the verb for 'it is' here.
+- 'Listen to this ridiculous poem sent by Gillières.' Juliette is appalled by the message.
+- 'He writes that my feline beauty haunts him.' Juliette reads the pretentious line out loud.
+- 'This man really never drops the matter.' Andréa notes his relentless pursuit.
+- 'He insists on inviting me onto his boat tomorrow.' Juliette conveys the unwanted invitation.
+- 'I categorically refuse to get on that yacht.' Juliette takes a firm stand.
+- 'The financial situation of your movie is delicate.' Andréa reminds her of the production stakes.
+- 'What do you mean by that, Andréa?' Juliette senses hesitation in her agent.
+- 'Gillières can block the budget of your movie.' Andréa explains the billionaire's influence.
+- 'I am not going to yield to a predator.' Juliette refuses to compromise her boundaries.
+- 'I understand your anger and I support you.' Andréa validates her client's emotions.
+- 'Then find a solution to cancel this meeting.' Juliette charges her agent with finding a way out.
+- 'We can go there together with the team.' Andréa suggests a protective compromise.
+- 'Do you promise not to leave me alone?' Juliette demands guaranteed accompaniment.
+- 'I will always be at your side on the boat.' Andréa makes an absolute pledge of protection.
+- 'Alright, but we will leave after an hour.' Juliette imposes a strict time boundary.
+- 'It is promised, nobody will touch you!' Andréa seals the protective pact firmly.

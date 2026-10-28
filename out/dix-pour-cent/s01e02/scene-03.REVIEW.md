@@ -43,12 +43,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A spreadsheet with what each person earns?' Andréa can't believe it: he has divided up Samuel's clients in a table, with everyone's earnings in it.
 - 'Exactly.' Same word as in English, said with complete calm.
 - 'You want Françoise Fabian?' Andréa decides to tell them about her morning.
-- 'I saw her this morning.' Andréa links 'I' directly with 'have ... her' to express the thought clearly.
+- 'I saw her this morning.' The little word for 'her' sits before the verb, and loses its vowel. And because 'her' comes first, the past form of 'to see' takes an extra e on paper. You can't hear it.
 - 'You approached her?' Mathias suspects her of stealing a client behind everyone's back.
 - 'No! She's the one who asked to see me.' The pattern 'it's her who' puts the stress on 'her'. In the show Andréa also mocks him with a fake German army title.
 - 'She wants you?' Mathias can't quite believe it.
 - 'Yes. Well, it's complicated.' The second word here is a little hesitation, like 'well' or 'I mean'.
 - 'She says she doesn't want to do Gabor's film.' Andréa leaves out the part where she insulted her.
-- 'I'll call her.' The near future once more, with the little word for 'her' just before the verb.
+- 'I'll call her.' The near future once more, with the little word for 'her' right before the action word.
 - 'No, Mathias, I'm handling it!' Literally 'it's me who manages'. The same pattern as before, to say 'me, not you'.
 - 'Sort it out in twenty-four hours or I step in!' A polite command, but a threat all the same. As the meeting breaks up, a colleague tells Andréa she's a legend for what she said to Françoise. A legend of embarrassment, she replies. Let's hear the meeting once more, all the way through.

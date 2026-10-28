@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I set this box down here.' Gabriel enters carrying office boxes. The verb meaning 'excuse' pairs naturally with the noun for 'box' in everyday conversation.
-- 'Gabriel! What are you doing?' Andrea catches him in the act of unpacking. The informal 'you' form around 'are doing' marks a direct, personal relationship.
-- 'You see well, I am moving in today!' Gabriel announces his takeover proudly. In spoken French, the little word before 'see' drops its final vowel and attaches with an apostrophe.
-- 'This is my official office, Gabriel!' Andrea reclaims her executive domain. The key noun here means 'office', anchored by its matching French article.
-- 'In any case, you are never here.' Gabriel points out Andrea's hectic schedule. Gabriel uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'I run the entire agency!' Andrea asserts her role as director of ASK. The verb meaning 'run' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'Who are you calling with that phone?' Gabriel observes Andrea dialing a number. Notice how 'call' leads directly into the noun meaning 'phone'.
-- 'I am calling ASK legal department.' Andrea pretends to initiate formal proceedings. The descriptive adjective for 'legal' agrees in gender and number with its noun.
-- 'Do you really want to have me expelled?' Gabriel questions her drastic reaction. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
-- 'I have good news for you.' Andrea changes tactics with an ironic twist. Andrea uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Are you giving me a nice promotion?' Gabriel hopes for professional advancement. Gabriel uses the casual singular 'you' with 'give', showing close familiarity.
-- 'Yes, I promote you right away!' The clause hinges on the everyday verb meaning 'promote'.
-- 'A real salary raise at last?' Gabriel dreams of financial reward. The key noun here means 'raise', anchored by its matching French article.
-- 'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback. The key noun here means 'salary', anchored by its matching French article.
+- 'Excuse me, I set this box down here.' Gabriel enters carrying office boxes.
+- 'Gabriel! What are you doing?' Andrea catches him in the act of unpacking.
+- 'You see well, I am moving in today!' Gabriel announces his takeover proudly.
+- 'This is my official office, Gabriel!' Andrea reclaims her executive domain.
+- 'In any case, you are never here.' Gabriel points out Andrea's hectic schedule.
+- 'I run the entire agency!' Andrea asserts her role as director of ASK.
+- 'Who are you calling with that phone?' Gabriel observes Andrea dialing a number.
+- 'I am calling ASK legal department.' Andrea pretends to initiate formal proceedings.
+- 'Do you really want to have me expelled?' Gabriel questions her drastic reaction.
+- 'I have good news for you.' Andrea changes tactics with an ironic twist.
+- 'Are you giving me a nice promotion?' Gabriel hopes for professional advancement.
+- 'Yes, I promote you right away!' Andrea humorously confirms his promotion.
+- 'A real salary raise at last?' Gabriel dreams of financial reward.
+- 'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback.

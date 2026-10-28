@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Flora! Oh, my beloved baby!' Andrea bursts into tears of relief upon spotting her child. Notice how 'adored' leads directly into the noun meaning 'baby'.
-- 'Andrea, everything is going very well here.' Jose is startled by Andrea's frantic entrance. The clause hinges on the everyday verb meaning 'goes'.
-- 'It is a child abduction!' Andrea furiously accuses Jose of taking her daughter without consent. The key noun here means 'abduction', anchored by its matching French article.
-- 'Of course not, I left a note!' Jose defends himself by pointing to the note he wrote. This conversational past tense combines a helper verb with the past verb form for 'left'.
-- 'You are completely crazy, Jose!' Andrea vents her fury at his reckless behavior. The adverb meaning 'completely' gives the reply its conversational emphasis.
-- 'Look, she is very happy.' Jose points out that baby Flora is cooing and smiling peacefully. The adjective meaning 'happy' takes its feminine form here to match the noun it describes.
-- 'Hello Princess Chubby-cheeks!' Jose affectionately nicknames the baby after her round face. The key noun here means 'princess', anchored by its matching French article.
-- 'Where is the director?' Andrea demands to know who authorized Jose to bring Flora in. In everyday spoken French, rising intonation on 'director' at the end is enough to turn the sentence into a question.
-- 'Capucine takes care of the other children.' Jose explains that the daycare supervisor is in the next room. Notice how 'takes care' leads directly into the noun meaning 'children'.
-- 'Come on, calm down and breathe a bit.' Jose coaches his stressed agent through breathing exercises. The clause hinges on the everyday verb meaning 'calm down'.
-- 'Look, we are totally zen.' Jose demonstrates how peaceful the nursery atmosphere is. The clause hinges on the everyday verb meaning 'look'.
-- 'A car is waiting for you for the shoot.' Andrea reminds Jose of his strict filming schedule. The verb meaning 'waits for' pairs naturally with the noun for 'car' in everyday conversation.
-- 'All right, I am leaving immediately.' Jose hands Flora over and prepares for his work day. Notice how the short vowel drops before a vowel sound around 'leave', making the phrase flow smoothly as one unit.
-- 'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client. The verb meaning 'touch' pairs naturally with the noun for 'baby' in everyday conversation.
+- 'Flora! Oh, my beloved baby!' Andrea bursts into tears of relief upon spotting her child.
+- 'Andrea, everything is going very well here.' Jose is startled by Andrea's frantic entrance.
+- 'It is a child abduction!' Andrea furiously accuses Jose of taking her daughter without consent.
+- 'Of course not, I left a note!' Jose defends himself by pointing to the note he wrote.
+- 'You are completely crazy, Jose!' Andrea vents her fury at his reckless behavior.
+- 'Look, she is very happy.' Jose points out that baby Flora is cooing and smiling peacefully.
+- 'Hello Princess Chubby-cheeks!' Jose affectionately nicknames the baby after her round face.
+- 'Where is the director?' Andrea demands to know who authorized Jose to bring Flora in.
+- 'Capucine takes care of the other children.' Jose explains that the daycare supervisor is in the next room.
+- 'Come on, calm down and breathe a bit.' Jose coaches his stressed agent through breathing exercises.
+- 'Look, we are totally zen.' Jose demonstrates how peaceful the nursery atmosphere is.
+- 'A car is waiting for you for the shoot.' Andrea reminds Jose of his strict filming schedule.
+- 'All right, I am leaving immediately.' Jose hands Flora over and prepares for his work day.
+- 'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client.

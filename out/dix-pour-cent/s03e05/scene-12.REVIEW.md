@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Valentin? What are you doing in there?' Camille discovers Valentin exploring. Notice how the short vowel drops before a vowel sound around 'are doing', making the phrase flow smoothly as one unit.
-- 'Oh, I love this huge, luminous room!' Valentin marvels at the luxurious office. Notice how 'love' leads directly into the noun meaning 'room'.
-- 'No, get out quickly, that is Mathias's office!' Camille panics at the intrusion. Notice how 'get out' leads directly into the noun meaning 'office'.
-- 'It will be yours soon, won't it?' Valentin teases Camille about her future. The clause hinges on the everyday verb meaning 'will be'.
-- 'Camille Valentini Agency, that sounds great!' Valentin invents her agency name. The verb meaning 'sounds' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'Stop it, Valentin, do not touch anything.' Camille warns him against snooping. The clause hinges on the everyday verb meaning 'stop it'.
-- 'Look at all these beautiful prestigious bottles.' Valentin spots Mathias's private bar. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
-- 'Mathias will be furious if he finds out.' Camille fears her boss's wrath. The descriptive adjective for 'furious' agrees in gender and number with its noun.
-- 'Do not worry, we are safe and quiet here.' Valentin tries to calm her anxieties. The two-part French negation brackets the verb for 'worry' on both sides.
-- 'Sit down comfortably on this sofa.' Valentin makes himself at home. Notice how 'sit down' leads directly into the noun meaning 'sofa'.
-- 'What if we rehearsed my casting scene?' Valentin proposes an impromptu rehearsal. The verb meaning 'rehearsed' pairs naturally with the noun for 'scene' in everyday conversation.
-- 'You want to rehearse your scene here now?' Camille reacts with incredulity. The verb meaning 'want' pairs naturally with the noun for 'scene' in everyday conversation.
-- 'Yes, both of us are ready.' Valentin encourages her to participate. The descriptive adjective for 'ready' agrees in gender and number with its noun.
-- 'Okay, but just once then.' Camille relents under his charm. The key noun here means 'time', anchored by its matching French article.
+- 'Valentin? What are you doing in there?' Camille discovers Valentin exploring.
+- 'Oh, I love this huge, luminous room!' Valentin marvels at the luxurious office.
+- 'No, get out quickly, that is Mathias's office!' Camille panics at the intrusion.
+- 'It will be yours soon, won't it?' Valentin teases Camille about her future.
+- 'Camille Valentini Agency, that sounds great!' Valentin invents her agency name.
+- 'Stop it, Valentin, do not touch anything.' Camille warns him against snooping.
+- 'Look at all these beautiful prestigious bottles.' Valentin spots Mathias's private bar.
+- 'Mathias will be furious if he finds out.' Camille fears her boss's wrath.
+- 'Do not worry, we are safe and quiet here.' Valentin tries to calm her anxieties.
+- 'Sit down comfortably on this sofa.' Valentin makes himself at home.
+- 'What if we rehearsed my casting scene?' Valentin proposes an impromptu rehearsal.
+- 'You want to rehearse your scene here now?' Camille reacts with incredulity.
+- 'Yes, both of us are ready.' Valentin encourages her to participate.
+- 'Okay, but just once then.' Camille relents under his charm.

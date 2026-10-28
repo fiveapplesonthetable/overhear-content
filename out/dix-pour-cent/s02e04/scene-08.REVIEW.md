@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Close the door and sit down there.' Andréa ensures maximum privacy before revealing her secret.
+- 'Close the door and sit down there.' Andrea ensures maximum privacy before revealing her secret.
 - 'Thanks Andréa, I was finishing my files.' Camille explains why she was still working late at the agency.
-- 'I am in a terrible situation, Camille.' Andréa admits she is in deep trouble regarding a major star client.
-- 'You are the only trustworthy person.' Andréa expresses full confidence in Camille's discretion and loyalty.
-- 'I have not called Isabelle Adjani back.' Andréa reveals she has been avoiding returning Isabelle Adjani's calls.
-- 'Why didn't you call Isabelle?' Camille wonders what could make Andréa avoid her most prestigious client.
-- 'I threw the script in the trash!' Andréa confesses that she trashed director Hartman's original screenplay.
-- 'That was four years ago.' Andréa explains that the reckless decision happened years in the past.
-- 'It is the worst blunder of my career.' Andréa recognizes that the mistake could ruin her professional reputation.
+- 'I am in a terrible situation, Camille.' Andrea admits she is in deep trouble regarding a major star client.
+- 'You are the only trustworthy person.' Andrea expresses full confidence in Camille's discretion and loyalty.
+- 'I have not called Isabelle Adjani back.' Andrea reveals she has been avoiding returning Isabelle Adjani's calls.
+- 'Why didn't you call Isabelle?' Camille wonders what could make Andrea avoid her most prestigious client.
+- 'I threw the script in the trash!' Andrea confesses that she trashed director Hartman's original screenplay.
+- 'That was four years ago.' Andrea explains that the reckless decision happened years in the past.
+- 'It is the worst blunder of my career.' Andrea recognizes that the mistake could ruin her professional reputation.
 - 'Is the situation truly beyond repair?' Camille asks if there is any diplomatic way to fix the error.
-- 'Isabelle and Hartman must not see each other.' Andréa explains that an in-person meeting will expose her lie immediately.
-- 'I need you to block that.' Andréa tasks Camille with secretly derailing the scheduled encounter.
-- 'All right Andréa, I will help you.' Camille agrees to stand by Andréa and help sabotage the meeting.
+- 'Isabelle and Hartman must not see each other.' Andrea explains that an in-person meeting will expose her lie immediately.
+- 'I need you to block that.' Andrea tasks Camille with secretly derailing the scheduled encounter.
+- 'All right Andréa, I will help you.' Camille agrees to stand by Andrea and help sabotage the meeting.

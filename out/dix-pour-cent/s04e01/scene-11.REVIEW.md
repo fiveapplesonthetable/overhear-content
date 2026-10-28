@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, Xavier Beauvois said yes!' Colette shares her major breakthrough. The clause hinges on the everyday verb meaning 'has'.
-- 'That is not true! That is amazing!' Andrea reacts with pure delight. The descriptive adjective for 'true' agrees in gender and number with its noun.
-- 'Of course yes, he loves the project.' Colette confirms the director's backing. Notice how 'loves' leads directly into the noun meaning 'project'.
-- 'I am so proud of you, my love.' Andrea conveys affectionate praise. Andrea uses the casual singular 'you' with 'love', showing close familiarity.
-- 'Do we meet at home tonight?' Colette proposes meeting at their apartment. Notice how 'meet up' leads directly into the noun meaning 'home'.
-- 'Yes, at home, it is much simpler.' Andrea agrees to an intimate celebration. The adjective meaning 'simple' takes its feminine form here to match the noun it describes.
-- 'We are going to celebrate properly both together.' Colette envisions a celebratory evening. The clause hinges on the everyday verb meaning 'are going to'.
-- 'Well done my darling, you deserve this success.' Andrea validates Colette's talent. Andrea uses the casual singular 'you' with 'deserve', showing close familiarity.
-- 'Kisses all over, see you in a bit!' Colette signs off with warm affection. In spoken French, the little word before 'kisses' drops its final vowel and attaches with an apostrophe.
-- 'See you soon, I love you deeply.' Andrea returns the loving goodbye. The clause hinges on the everyday verb meaning 'love'.
-- 'Right, where were we with our file?' Andrea pivots back to her desk tasks. In everyday spoken French, rising intonation on 'were we' at the end is enough to turn the sentence into a question.
-- 'Do not forget our housewarming party!' Colette calls out a happy reminder. The verb meaning 'forget' pairs naturally with the noun for 'housewarming party' in everyday conversation.
-- 'I will be on time, promised!' Andrea pledges to make the party without delay. Notice how 'will be' leads directly into the noun meaning 'time'.
-- 'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory. The verb meaning 'prepare' pairs naturally with the noun for 'champagne' in everyday conversation.
+- 'Andrea, Xavier Beauvois said yes!' Colette excitedly shares the good news from the director.
+- 'That is not true! That is amazing!' Andrea reacts with pure delight.
+- 'Of course yes, he loves the project.' Colette confirms the director's backing.
+- 'I am so proud of you, my love.' Andrea conveys affectionate praise.
+- 'Do we meet at home tonight?' Colette proposes meeting at their apartment.
+- 'Yes, at home, it is much simpler.' Andrea agrees to an intimate celebration.
+- 'We are going to celebrate properly both together.' Colette envisions a celebratory evening.
+- 'Well done my darling, you deserve this success.' Andrea validates Colette's talent.
+- 'Kisses all over, see you in a bit!' Colette signs off with warm affection.
+- 'See you soon, I love you deeply.' Andrea returns the loving goodbye.
+- 'Right, where were we with our file?' Andrea pivots back to her desk tasks.
+- 'Do not forget our housewarming party!' Colette calls out a happy reminder.
+- 'I will be on time, promised!' Andrea pledges to make the party without delay.
+- 'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory.

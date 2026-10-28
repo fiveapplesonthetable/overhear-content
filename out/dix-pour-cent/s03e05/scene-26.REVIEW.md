@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arlette, where are you in this corridor?' Hicham calls out in the darkened agency. Notice how 'are you' leads directly into the noun meaning 'corridor'.
-- 'I am here Hicham, what is happening?' Arlette steps forward with seasoned serenity. The short 'self' word sits right in front of the verb for 'is happening', turning the action back onto the subject.
-- 'Look at this shocking document on my desk!' Hicham waves the damning legal papers. Dropping the subject pronoun turns the verb for 'look at' into a direct, punchy command.
-- 'Why are you in such a state?' Arlette observes his trembling fury. Notice how 'are you' leads directly into the noun meaning 'state'.
-- 'Andrea and Gabriel are preparing a total betrayal!' Hicham reveals the conspiracy. The verb meaning 'are preparing' pairs naturally with the noun for 'betrayal' in everyday conversation.
-- 'Which betrayal are you talking about exactly?' Arlette seeks specific details before judging. The verb meaning 'are you speaking' pairs naturally with the noun for 'betrayal' in everyday conversation.
-- 'They are secretly creating their own rival agency.' Hicham explains their corporate treachery. Notice how 'create' leads directly into the noun meaning 'agency'.
-- 'These plans often circulate in this business.' Arlette shrugs with cynical experience. Notice how 'circulate' leads directly into the noun meaning 'plans'.
-- 'And I who wanted to save our company!' Hicham contrasts his generosity with their deceit. The verb meaning 'wanted' pairs naturally with the noun for 'company' in everyday conversation.
-- 'Breathe calmly before making a decision.' Arlette advises emotional control. Notice how 'breathe' leads directly into the noun meaning 'decision'.
-- 'I am deeply sickened by their hypocrisy.' Hicham describes his profound disgust. This conversational past tense combines a helper verb with the past verb form for 'sickened'.
-- 'Anger is always a bad counselor, Hicham.' Arlette shares a timeless proverb. The key noun here means 'anger', anchored by its matching French article.
-- 'I will never forgive them this blow.' Hicham vows that this wound will not heal. Notice how 'will forgive' leads directly into the noun meaning 'blow'.
-- 'Tomorrow morning, we will listen to their explanations.' Arlette urges patience until dawn. Notice how 'will listen to' leads directly into the noun meaning 'morning'. Now let's hear the whole conversation again.
+- 'Arlette, where are you in this corridor?' Hicham calls out in the darkened agency.
+- 'I am here Hicham, what is happening?' Arlette steps forward with seasoned serenity.
+- 'Look at this shocking document on my desk!' Hicham waves the damning legal papers.
+- 'Why are you in such a state?' Arlette observes his trembling fury.
+- 'Andrea and Gabriel are preparing a total betrayal!' Hicham reveals the conspiracy.
+- 'Which betrayal are you talking about exactly?' Arlette seeks specific details before judging.
+- 'They are secretly creating their own rival agency.' Hicham explains their corporate treachery.
+- 'These plans often circulate in this business.' Arlette shrugs with cynical experience.
+- 'And I who wanted to save our company!' Hicham contrasts his generosity with their deceit.
+- 'Breathe calmly before making a decision.' Arlette advises emotional control.
+- 'I am deeply sickened by their hypocrisy.' Hicham describes his profound disgust.
+- 'Anger is always a bad counselor, Hicham.' Arlette shares a timeless proverb.
+- 'I will never forgive them this blow.' Hicham vows that this wound will not heal.
+- 'Tomorrow morning, we will listen to their explanations.' Arlette urges patience until dawn. Now listen to the scene again at normal speed and see how much you understand.

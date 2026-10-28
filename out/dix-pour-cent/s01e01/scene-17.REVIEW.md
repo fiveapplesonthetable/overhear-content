@@ -45,10 +45,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It has nothing to do with me?' Literally 'that has nothing to see with me'. She's giving him one last chance.
 - 'Not at all!' A strong, useful way to say no.
 - 'She said you were fantastic.' The second verb is in the past form French uses for descriptions, 'you were'.
-- 'I know you're disappointed, but we'll bounce back.' The word for 'disappointed' ends with an extra letter because Cécile is a woman. And 'we're going to', plus a verb, is the easy way to talk about the future.
+- 'I know you're disappointed, but we'll bounce back.' The word for 'disappointed' ends with an extra letter because Cécile is a woman.
 - 'Do you know how much I wanted this part?' Another descriptive past form, for a wish that lasted a long time. Then she gets up.
 - 'You are a liar! It is because of my age, right?' Almost the same question Mathias asked Camille earlier, in a very different mood.
 - 'I'm changing agents.' Short and final.
 - 'You're a liar and a coward.' Two hard words, but no swearing: Cécile doesn't need it.
 - 'I know it's because of my age.' So she knew all along.
-- 'Why give you ten percent if you don't stand up for me?' Ten percent is what an agent earns, and it's the name of the show. And with that, Cécile walks out of the restaurant. Now the whole scene once more, straight through. Let's listen to the whole scene once more without interruption.
+- 'Why give you ten percent if you don't stand up for me?' Ten percent is what an agent earns, and it's the name of the show. And with that, Cécile walks out of the restaurant.

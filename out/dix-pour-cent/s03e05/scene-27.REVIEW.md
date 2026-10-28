@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arlette, are you there?' Gabriel asks as he looks into her office. The adverb meaning 'there' gives the reply its conversational emphasis.
-- 'Huh, what is going on?' Arlette looks up surprised from her paperwork. The standard spoken question formula at the front turns the statement about 'is happening' into a natural inquiry.
-- 'I was looking everywhere for you here.' Gabriel explains he has been roaming the agency corridors. The informal 'you' form around 'was looking for' marks a direct, personal relationship.
-- 'You look very nervous.' Arlette observes his visible anxiety immediately. The descriptive adjective for 'nervous' agrees in gender and number with its noun.
-- 'Things are changing fast now.' Gabriel hints at the turbulent shifts taking place at ASK. Notice how 'are changing' leads directly into the noun meaning 'things'.
-- 'The agency has weathered storms before.' Arlette recalls her decades of experience in the agency business. Notice how 'has' leads directly into the noun meaning 'agency'.
-- 'Would you still stay with us?' Gabriel tests whether she would follow them if they leave. The informal 'you' form around 'would stay' marks a direct, personal relationship.
-- 'I remain loyal to my friends.' Arlette states her core personal principle. The verb meaning 'remain' pairs naturally with the noun for 'friends' in everyday conversation.
-- 'Andrea and I count on you.' Gabriel emphasizes the close bond between the three agents. The clause hinges on the everyday verb meaning 'count'.
-- 'Do not do anything foolish, Gabriel.' Arlette cautions him with maternal intuition. The verb meaning 'do' pairs naturally with the noun for 'foolish things' in everyday conversation.
-- 'We simply want to protect ourselves.' Gabriel defends their motives for acting behind Hicham's back. The clause hinges on the everyday verb meaning 'want'.
-- 'Loyalty is essential here.' Arlette underscores the foundational virtue of their profession. The adjective meaning 'essential' takes its feminine form here to match the noun it describes.
-- 'Thank you for your wisdom, Arlette.' Gabriel appreciates her steadying presence. Gabriel uses the casual singular 'you' with 'wisdom', showing close familiarity.
-- 'Keep your calm today.' Arlette offers parting advice before returning to her work. The verb meaning 'keep' pairs naturally with the noun for 'composure' in everyday conversation.
+- 'Arlette, are you there?' Gabriel asks as he looks into her office.
+- 'Huh, what is going on?' Arlette looks up surprised from her paperwork.
+- 'I was looking everywhere for you here.' Gabriel explains he has been roaming the agency corridors.
+- 'You look very nervous.' Arlette observes his visible anxiety immediately.
+- 'Things are changing fast now.' Gabriel hints at the turbulent shifts taking place at ASK.
+- 'The agency has weathered storms before.' Arlette recalls her decades of experience in the agency business.
+- 'Would you still stay with us?' Gabriel tests whether she would follow them if they leave.
+- 'I remain loyal to my friends.' Arlette states her core personal principle.
+- 'Andrea and I count on you.' Gabriel emphasizes the close bond between the three agents.
+- 'Do not do anything foolish, Gabriel.' Arlette cautions him with maternal intuition.
+- 'We simply want to protect ourselves.' Gabriel defends their motives for acting behind Hicham's back.
+- 'Loyalty is essential here.' Arlette underscores the foundational virtue of their profession.
+- 'Thank you for your wisdom, Arlette.' Gabriel appreciates her steadying presence.
+- 'Keep your calm today.' Arlette offers parting advice before returning to her work.

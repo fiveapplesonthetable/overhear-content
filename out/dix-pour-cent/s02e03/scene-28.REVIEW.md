@@ -29,14 +29,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'It is beautiful, is it not?' A short tag question inviting confirmation.
 - 'Yes, it is really very beautiful.' An enthusiastic affirmative response.
-- 'You have a magnificent voice.' Julien pairs the verb meaning 'have' with the noun for 'voice'.
+- 'You have a magnificent voice.' A direct compliment on her vocal ability.
 - 'Thank you, that is kind.' A modest and gracious response to praise.
 - 'Bravo, that was really good.' An exclamation followed by an imperfect description.
 - 'Thank you very much, Julien.' A polite formula including the musician's name.
-- 'It is awesome, I love this melody.' Listen for the expression meaning 'it is', which leads naturally into 'melody'.
+- 'It is awesome, I love this melody.' Julien Doré lights up and says he loves the new melody.
 - 'Sofia's voice is incredible.' Gabriel points out Sofia's unique talent.
-- 'Yes, she has a unique timbre.' Julien pairs the verb meaning 'has' with the noun for 'timbre'.
-- 'I had told you so!' The pluperfect tense recalling an earlier prediction.
+- 'Yes, she has a unique timbre.' A musical observation regarding vocal tone.
+- 'I had told you so!' Gabriel beams with pride and reminds them that he told them the song would work.
 - 'I am blown away by her performance.' The colourful adjective epoustoufle meaning astonished.
 - 'I am very happy to sing with you.' An expression of happiness followed by de and an infinitive.
 - 'We are going to make a wonderful record.' The near future tense announcing a joint album.

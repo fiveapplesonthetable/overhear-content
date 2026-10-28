@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'You got green?' Literally 'you had some green?'. Her voice already tells us something is wrong. Camille doesn't see it coming."),
     (14, None, "'Yes, a very nice green.' The word for 'nice' here is the one for beautiful, in its masculine form, because the colour word is masculine. And then the bad news."),
     (15, None, "'You don't give green to an actress. It brings bad luck.' In French theatre, green is said to bring bad luck on stage, an old superstition. The little word at the start means 'one' or 'people in general'. Camille realises what she's done."),
-    (16, None, "'Oh no!' In the show she says something much ruder. Whatever the words, the shawl is already on its way to Françoise. Now the whole scene again, without stopping. Now hear the entire conversation again from the top."),
+    (16, None, "'Oh no!' In the show she says something much ruder. Whatever the words, the shawl is already on its way to Françoise."),
 ]

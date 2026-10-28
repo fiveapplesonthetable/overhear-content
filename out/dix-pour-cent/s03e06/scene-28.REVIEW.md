@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sophia, will you pick up the phone?' Gabriel asks as the late-night telephone rings. Notice how 'pick up' leads directly into the noun meaning 'telephone'.
-- 'It is four in the morning!' Sophia protests at being asked to answer calls at dawn. The key noun here means 'o'clock', anchored by its matching French article.
-- 'Hello, ASK agency, good morning.' Sophia answers with professional courtesy. The key noun here means 'agency', anchored by its matching French article.
-- 'The nominees list is arriving?' Sophia realizes the Cesar Academy is calling. The verb meaning 'is arriving' pairs naturally with the noun for 'list' in everyday conversation.
-- 'I am nominated for the Cesars?' Sophia cannot believe her own ears. The clause hinges on the everyday verb meaning 'nominated'.
-- 'Congratulations my dear Sophia!' Gabriel beams with uncontainable joy for his client. The key noun here means 'congratulations', anchored by its matching French article.
-- 'Into my arms, sweetheart!' Arlette sweeps Sophia into an affectionate embrace. The key noun here means 'arms', anchored by its matching French article.
-- 'That is true class!' Arlette expresses genuine admiration for the milestone. The key noun here means 'class', anchored by its matching French article.
-- 'Best Newcomer for you!' Arlette celebrates the prestigious category. Arlette uses the casual singular 'you' with 'hope', showing close familiarity.
-- 'Thank you from the bottom of my heart.' Sophia thanks her mentors tearfully. The key noun here means 'bottom', anchored by its matching French article.
-- 'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year. French forms the near future by pairing the present tense of 'to go' directly with 'bounce back'.
-- 'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum. The adverb meaning 'so' gives the reply its conversational emphasis.
-- 'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes. The clause hinges on the everyday verb meaning 'is opening'.
-- 'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins. The key noun here means 'start', anchored by its matching French article.
+- 'Sophia, will you pick up the phone?' Gabriel asks as the late-night telephone rings.
+- 'It is four in the morning!' Sophia protests at being asked to answer calls at dawn.
+- 'Hello, ASK agency, good morning.' Sophia answers with professional courtesy.
+- 'The nominees list is arriving?' Sophia realizes the Cesar Academy is calling.
+- 'I am nominated for the Cesars?' Sophia cannot believe her own ears.
+- 'Congratulations my dear Sophia!' Gabriel beams with uncontainable joy for his client.
+- 'Into my arms, sweetheart!' Arlette sweeps Sophia into an affectionate embrace.
+- 'That is true class!' Arlette expresses genuine admiration for the milestone.
+- 'Best Newcomer for you!' Arlette celebrates the prestigious category.
+- 'Thank you from the bottom of my heart.' Sophia thanks her mentors tearfully.
+- 'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year.
+- 'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum.
+- 'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes.
+- 'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins.

@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Is everyone here? We can get started.' Mathias checks the attendance around the conference table."),
-    (1, None, "'You can see we are. What is going on?' Andréa impatiently presses for the reason behind the sudden gathering."),
+    (1, None, "'You can see we are. What is going on?' Andrea impatiently presses for the reason behind the sudden gathering."),
     (2, None, "'Well, we have had six difficult months.' Mathias begins his gloomy financial summary of the past semester."),
-    (3, None, "'Setting up films is complicated, and we have contracts on hold.' Listen for the expression meaning 'setting up', which leads naturally into 'suspense.'."),
+    (3, None, "'Setting up films is complicated, and we have contracts on hold.' Mathias reminds them that setting up films takes time while contracts sit on hold."),
     (4, None, "'This year, our profits are really down.' Decreasing revenues have tightened cash flow."),
     (5, None, "'We must pay a fine of five hundred thousand euros.' The audit by tax inspector Brancillon has created an immediate crisis."),
     (6, None, "'Five hundred thousand euros? That is absurd!' Gabriel expresses genuine disbelief at the astronomical tax penalty."),
-    (7, None, "'Too bad Mathias\\'s wife did not take shares.' Andréa laments that Catherine refused to invest her personal fortune into ASK."),
+    (7, None, "'Too bad Mathias\\'s wife did not take shares.' Andrea laments that Catherine refused to invest her personal fortune into ASK."),
     (8, None, "'But she did not take any. In conclusion...' Mathias cuts off the discussion about his private life."),
     (9, None, "'Our only option is to reduce salaries for two months.' He proposes a temporary wage reduction across the board."),
     (10, None, "'Excuse me? Whose salaries?' Gabriel is stunned by the idea that employees and partners should take pay cuts."),
     (11, None, "'Everyone\\'s salaries. There is no other solution.' Mathias insists that survival requires equal sacrifice."),
-    (12, None, "'Out of the question! Do not lower my salary!' Andréa opens with the word for 'question' and lands on 'hunger!' at the close."),
-    (13, None, "'It is absurd, I agree!' Gabriel backs Andréa and rejects the proposed payroll reductions."),
+    (12, None, "'Out of the question! Do not lower my salary!' Andréa protests dramatically that any cut to her salary will leave her starving."),
+    (13, None, "'It is absurd, I agree!' Gabriel backs Andrea and rejects the proposed payroll reductions."),
 ]

@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I'm looking for Cécile de France.' The verb for looking for already contains the 'for', so nothing else is needed before her name. Someone points across the field, and he calls out to her.
+- 'Hello, I'm looking for Cécile de France.' The action word for looking for already contains the 'for', so nothing else is needed before her name. Someone points across the field, and he calls out to her.
 - 'We have to talk.' The opening two words mean 'it is necessary', a very common way to say that something must happen. The little word in the middle is the everyday way of saying 'we'.
 - 'Gabriel? What are you doing here?' She uses the casual 'you'. These two have worked together for years, so they always speak to each other as friends.
-- 'I can't!' She is shouting at the horse to stop, and it isn't listening. Notice how the negation wraps around the verb: one small word goes before it, and the word for 'not' comes after it.
+- 'I can't!' She is shouting at the horse to stop, and it isn't listening.
 - 'Cécile, you're really bad at this.' Not very kind, but he is hurt. The word for 'bad at' or 'useless' here ends in a feminine way, because he is talking about a woman.
 - 'You told me you could ride.' On the phone that morning she had promised him she had it under control.
-- 'You lied.' A short past tense: the helper verb meaning 'to have', then the past form of 'to lie'. Cécile protests.
-- 'I didn't lie, Gabriel.' Here is the same negation pattern in the past: the two pieces wrap around the helper verb, not around the word for 'lied'. She explains.
+- 'You lied.' A short past form: the helper word meaning 'to have', then the past form of 'to lie'. Cécile protests.
+- 'I didn't lie, Gabriel.' Here is the same negation pattern in the past: the two pieces wrap around the helper word, not around the word for 'lied'. She explains.
 - 'I'm soon going to be good enough.' To talk about the near future, take the verb 'to go' and put a plain verb after it, exactly like 'going to' in English. The word for 'good' is feminine again.
 - 'Look how bad you are!' He is giving orders now, in the casual form, just as she wobbles past him.
 - 'And you lied to me too!' Now it's her turn to attack. He kept the truth about Tarantino from her.

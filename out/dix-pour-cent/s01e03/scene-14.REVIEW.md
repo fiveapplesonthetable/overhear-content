@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Colette Brancillon. I need an office to work in.' Literally 'I have need of an office for to work'. Colette gets straight down to business.
 - 'Our boss died three weeks ago.' The little three-word phrase before 'three weeks' means 'ago' when it comes before a length of time. Andréa is apologising for the mess at the agency.
 - 'I really have the feeling I know you.' In French you say 'the impression of knowing you', using the verb for knowing a person. Andréa stares at Colette, sure she has seen her face somewhere.
-- 'No, I don't think so.' Literally 'I do not believe'. Colette's answer is cool and polite, using the two-part negative around the verb.
+- 'No, I don't think so.' Literally 'I do not believe'. Colette's answer is cool and polite, using the two-part negative around the action word.
 - 'Maybe it was in another life.' The verb at the front is the past form for how things were, and the hyphenated word after it means 'maybe'.
 - 'Do you have everything you need?' Literally 'all that which it you is-needed'. A polite, standard phrase when showing a visitor to a room.
 - 'Yes, thank you.' Short and polite. Colette doesn't waste a syllable.
@@ -44,6 +44,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hi, Clément, it's Andréa.' On the phone, French speakers introduce themselves with 'it is' plus their name.
 - 'With Colette Brancillon, it'll be fine.' Literally 'it is going to go'. Andréa thinks she can charm the young inspector.
 - 'Forget our deal.' Literally 'we forget our agreement', using the everyday word for 'we'.
-- 'Is she going to stay here for weeks?' The verb 'to go' plus 'stay' builds the near future, and the linking word before 'weeks' means 'for' or 'during'.
+- 'Is she going to stay here for weeks?' The verb 'to go' plus 'stay' builds the near future, and the preposition before 'weeks' means 'for' or 'during'.
 - 'And could we go bankrupt?' Literally 'make bankruptcy'. Gabriel is terrified for the agency.
 - 'Yes. But that's life.' Literally 'it is the life'. Andréa shrugs it off, not yet knowing where she really met Colette. Now listen to the whole scene again from start to finish.

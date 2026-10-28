@@ -37,7 +37,7 @@ WALK = [
     (0, None, "'What's that?' A short, natural question for everyday speech."),
     (1, None, "'Stay there, I'll go and see.' An informal command to his wife, followed by the near future. Down in the dark kitchen, Mathias surprises Hippolyte."),
     (2, None, "'You scared me!' Literally 'you made fear to me'. French uses 'to make' with 'fear' for 'to scare'."),
-    (3, None, "'What are you doing?' Right then, Hippolyte is holding bottles from his father's wine cellar."),
+    (3, None, "'What are you doing?' Here, Hippolyte is holding bottles from his father's wine cellar."),
     (4, None, "'Nothing, I was a bit thirsty.' Just like hunger or shame, thirst uses 'to have': literally 'I had a little thirst'."),
     (5, None, "'My friends came round, we had nothing to drink.' The first verb is in the past with 'are', and the second uses the negative pair for 'nothing'."),
     (6, None, "'Are you with Camille?' Mathias guesses who the wine is really for."),

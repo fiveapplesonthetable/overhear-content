@@ -37,13 +37,13 @@ STORY = [
 ]
 WALK = [
     (0, "C'est dingue!", "'It's crazy!' The last word is casual, the kind of thing you say to a friend."),
-    (0, 'Je vous ai vue quelque part.', "'I've seen you somewhere.' Here's this scene's first grammar point. Andréa uses the polite 'you' with Colette, and she keeps it all the way through, even while flirting. Colette is a stranger, and she's here on official business."),
+    (0, 'Je vous ai vue quelque part.', "'I've seen you somewhere.' Here's this scene's first language point. Andréa uses the polite 'you' with Colette, and she keeps it all the way through, even while flirting. Colette is a stranger, and she's here on official business."),
     (1, None, "'I'll give you a clue.' The verb 'to go' plus another verb: the near future. Colette has been waiting for this moment."),
-    (2, None, "'I quote: no little girls like you.' She quotes Andréa's own rude message from the dating site, toned down here. The two short words at the start mean 'no' before a noun."),
+    (2, None, "'I quote: no little girls like you.' She quotes Andréa's own rude message from the dating site, toned down here."),
     (3, None, "'Oh no. It was you!' The verb is in the past: 'it was'. Now Andréa understands."),
     (4, None, "'Leave me alone!' A polite command, ending in the sound of the polite 'you'. The little word for 'me' is attached after it with a hyphen. Andréa tries to explain."),
     (5, None, "'It was just a misunderstanding.' A long word, but you can almost see the English in it: 'mis-heard'. Then she tries charm."),
-    (6, None, "'Colette, we missed our first date.' The small word for 'we' at the start is the everyday one. The verb 'to miss' is in the past with 'have'. Colette stays very formal."),
+    (6, None, "'Colette, we missed our first date.' The small word for 'we' at the start is the everyday one."),
     (7, None, "'Leave the door open, please.' She doesn't want to be alone in a closed room with Andréa. The last part is the polite 'please', literally 'if it pleases you'."),
     (8, None, "'You're much prettier in real life.' The word for 'pretty' takes a feminine ending here. Colette isn't fooled."),
     (9, None, "'Now you're being nice, because of your agency.' The word for 'nice' is feminine too, because Andréa is a woman. Colette thinks she's only nice because of the tax audit."),

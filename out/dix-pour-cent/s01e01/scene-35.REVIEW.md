@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gabriel, you look pleased with yourself.' The expression in the middle means 'to look' or 'to seem', and it is built on the verb 'to have'. Mathias is less happy.
-- 'We lost a big contract.' This is the everyday past tense: the helper verb 'to have', then the past form of 'to lose'. The small word at the start is the everyday 'we' again.
-- 'But we kept a great actress.' The same past tense, with the verb 'to keep'. The adjectives for 'big' and 'great' both come before their nouns, which is normal for short, common adjectives.
+- 'Gabriel, you look pleased with yourself.' The expression in the middle means 'to look' or 'to seem', and it is built on the action word 'to have'. Mathias is less happy.
+- 'We lost a big contract.' This is the everyday past: the helper word 'to have', then the past form of 'to lose'. The small word at the start is the everyday 'we' again.
+- 'But we kept a great actress.' The same past form, with the action word 'to keep'. The describing words for 'big' and 'great' both come before their words, which is normal for short, common describing words.
 - 'But we lost a big contract.' Mathias simply says it again. Neither of them wants to give up the last word.
 - 'A call from Rio? It's Samuel!' The phone at reception rings, and everyone assumes it's the boss calling from his holiday.
 - 'Samuel, we're in a meeting. You're on speaker.' Andréa talks to Samuel in the casual form, like one of the family. But the voice on the line belongs to someone else.
-- 'It isn't Samuel.' Here the negation wraps around the verb 'to be'. The stranger introduces himself.
+- 'It isn't Samuel.' Here the negation wraps around the action word 'to be'. The stranger introduces himself.
 - 'I'm Jean-Louis d'Entremont.' A formal way to give your full name to people you don't know.
 - 'I'm calling you from the French consulate in Rio.' He uses the polite 'you', as an official should with strangers. Notice the shift: the agents speak casually to each other, but this man keeps his distance.
 - 'I have bad news.' The word for 'bad' is feminine and plural here, because news is a feminine plural word in French.

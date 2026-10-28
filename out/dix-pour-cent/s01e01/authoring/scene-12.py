@@ -52,5 +52,5 @@ WALK = [
     (12, "Ça fait des mois que j'attends ton appel!", "'I've been waiting for your call for months!' Literally 'it makes months that I wait for your call'. A bit much, for a call that may not exist."),
     (13, None, "'An urgent call? Really?' Cécile has seen this act before."),
     (14, None, "'He has a lot of work, Cécile.' Loyal Hervé covers for his boss. The phrase for 'a lot of' is followed by a small word meaning 'of', just like in English."),
-    (15, None, "'Fine. Then I'll wait.' The 'go plus verb' pattern once more: I'm going to wait. Cécile isn't going anywhere. Right, here's the whole scene again, a little faster. Now let's hear the full exchange again from beginning to end."),
+    (15, None, "'Fine. Then I'll wait.' The 'go plus verb' pattern once more: I'm going to wait. Cécile isn't going anywhere. Right, here's the whole scene again, a little faster."),
 ]

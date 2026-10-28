@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I think constantly about this director Birag.' Beatrice fumes over her director's deception. Notice how 'think' leads directly into the noun meaning 'director'.
-- 'This situation really gets on my nerves!' Beatrice vents her boiling irritation. The verb meaning 'puts' pairs naturally with the noun for 'situation' in everyday conversation.
-- 'But we must return to the set.' Andrea gently reminds her of contractual reality. Notice how 'must' leads directly into the noun meaning 'film set'.
-- 'No, I will not return at all.' Beatrice digs in her heels stubbornly. The clause hinges on the everyday verb meaning 'will return'.
-- 'They can bring a big lawsuit against me!' Beatrice dares the producers to sue her. Notice how 'can' leads directly into the noun meaning 'lawsuit'.
-- 'I have nothing, I am not solvent.' Beatrice points out she has no assets to seize. The clause hinges on the everyday verb meaning 'have'.
-- 'Beatrice, the fines will fall back on ASK.' Andrea explains the harsh economic fallout for the agency. French forms the near future by pairing the present tense of 'to go' directly with 'to fall back'.
-- 'Are you serious, Andrea?' Beatrice is stunned by the collective exposure. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'Our agency is liable for signed contracts.' Andrea details their professional obligations. Notice how 'signed' leads directly into the noun meaning 'talent agency'.
-- 'So, are you abandoning me?' Beatrice asks out of sudden vulnerability. The standard spoken question formula at the front turns the statement about 'are abandoning' into a natural inquiry.
-- 'No Beatrice, I never abandon you!' Andrea fiercely reassures her iconic client. Andrea uses the casual singular 'you' with 'abandon', showing close familiarity.
-- 'I am always completely behind you.' Andrea affirms total solidarity. The key noun here means 'bottom', anchored by its matching French article.
-- 'We are going to find a solution together today.' Andrea pivots constructively toward a resolution. Notice how 'are going' leads directly into the noun meaning 'answer'.
-- 'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea. Notice how 'place' leads directly into the noun meaning 'trust'.
+- 'I think constantly about this director Birag.' Beatrice fumes over her director's deception.
+- 'This situation really gets on my nerves!' Beatrice vents her boiling irritation.
+- 'But we must return to the set.' Andrea gently reminds her of contractual reality.
+- 'No, I will not return at all.' Beatrice digs in her heels stubbornly.
+- 'They can bring a big lawsuit against me!' Beatrice dares the producers to sue her.
+- 'I have nothing, I am not solvent.' Beatrice points out she has no assets to seize.
+- 'Beatrice, the fines will fall back on ASK.' Andrea explains the harsh economic fallout for the agency.
+- 'Are you serious, Andrea?' Beatrice is stunned by the collective exposure.
+- 'Our agency is liable for signed contracts.' Andrea details their professional obligations.
+- 'So, are you abandoning me?' Beatrice asks out of sudden vulnerability.
+- 'No Beatrice, I never abandon you!' Andrea fiercely reassures her iconic client.
+- 'I am always completely behind you.' Andrea affirms total solidarity.
+- 'We are going to find a solution together today.' Andrea pivots constructively toward a resolution.
+- 'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea.

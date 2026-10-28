@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you not having breakfast?' Annick opens with the word for 'have' and lands on 'morning meal' at the close.
-- 'Mom, I am very late.' An adverb of degree emphasizing time pressure.
-- 'Sit down and eat a little.' A coordinated pair of command form verbs.
-- 'Who styles this poor actress's hair?' An question word followed by a critical remark.
-- 'Agents do not deal with hairstyles.' A pronominal verb defining professional scope.
-- 'Tell me, is Mathias nice to you?' Annick gives a direct command form using the verb for 'tell me'.
-- 'Yes, he is much nicer than before.' A comparative adverb construction showing improvement.
+- 'Are you not having breakfast?' A negative question expressing maternal concern.
+- 'Mom, I am very late.' Camille apologizes to her mother Annick for running so late.
+- 'Sit down and eat a little.' Annick tells her daughter to sit down and eat something.
+- 'Who styles this poor actress's hair?' Looking around the salon, Annick wonders aloud who styled that poor actress's hair.
+- 'Agents do not deal with hairstyles.' Camille explains with a smile that talent agents do not handle hairstyles.
+- 'Tell me, is Mathias nice to you?' Annick asks Camille directly whether Mathias is treating her well.
+- 'Yes, he is much nicer than before.' Camille reassures her mother that Mathias is much nicer to her than before.
 - 'We see each other and have lunch together.' Reciprocal pronominal actions in informal speech.
 - 'Look, he gave me a pretty lamp.' A compound past verb showing a thoughtful gift.
-- 'It is easy when one is very rich.' The adverb meaning 'very' sharpens the verb for 'is' here.
+- 'It is easy when one is very rich.' Annick remarks skeptically that being generous is easy when a man is very rich.
 - 'I light your lovely candle every evening.' A temporal routine phrase reassuring her mother.
 - 'I should have kept a child at home.' A past conditional expressing nostalgic maternal longing.
-- 'You have a real gift for drama.' Camille opens with the word for 'have' and lands on 'theatrical drama' at the close.
-- 'Be very careful on your bicycle.' Listen for the expression meaning 'pay', which leads naturally into 'bicycle'.
+- 'You have a real gift for drama.' A playful observation acknowledging maternal melodrama.
+- 'Be very careful on your bicycle.' An idiomatic imperative of caution for city cycling.

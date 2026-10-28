@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My lawyer says the situation is complicated.' The verb meaning 'says' pairs naturally with the noun for 'lawyer' in everyday conversation.
-- 'What is agency UBA trying to prove?' Notice how 'is it' leads directly into the noun meaning 'talent firm'. Notice how 'is it' leads directly into the noun meaning 'talent firm'.
-- 'They say other candidates wanted the position.' The descriptive adjective for 'other' agrees in gender and number with its noun. The descriptive adjective for 'other' agrees in gender and number with its noun.
-- 'That is false, they are lying completely!' The descriptive adjective for 'false' agrees in gender and number with its noun. The descriptive adjective for 'false' agrees in gender and number with its noun.
-- 'They refuse a pregnant woman in New York.' Notice how 'reject' leads directly into the noun meaning 'woman'. Notice how 'reject' leads directly into the noun meaning 'woman'.
-- 'That is real hiring discrimination.' The adjective meaning 'genuine' takes its feminine form here to match the noun it describes.
-- 'But we will have to fight in court.' The verb meaning 'are going' pairs naturally with the noun for 'court of law' in everyday conversation.
-- 'Do not worry, we are going to win.' French forms the near future by pairing the present tense of 'to go' directly with 'win'. French forms the near future by pairing the present tense of 'to go' directly with 'win'.
-- 'You are really very optimistic, Colette.' A heartfelt personal evaluation acknowledging morale support. The informal 'you' form around 'this line' marks a direct, personal relationship.
-- 'Look instead at this lovely ultrasound!' Dropping the subject pronoun turns the verb for 'look' into a direct, punchy command. Dropping the subject pronoun turns the verb for 'look' into a direct, punchy command.
-- 'Our baby girl is already moving a lot.' Notice how 'moves' leads directly into the noun meaning 'daughter'. Notice how 'moves' leads directly into the noun meaning 'daughter'.
-- 'Place your hand here on your belly.' A gentle directive guiding physical maternal contact. The verb meaning 'place' pairs naturally with the noun for 'human hand' in everyday conversation.
-- 'She already has a strong personality!' The verb meaning 'has' pairs naturally with the noun for 'personality' in everyday conversation.
-- 'She looks a lot like her mother.' The verb meaning 'resembles' pairs naturally with the noun for 'mother' in everyday conversation.
+- 'My lawyer says the situation is complicated.' A reported speech structure introducing legal counsel.
+- 'What is agency UBA trying to prove?' An interrogative clause inquiring into employer defense tactics.
+- 'They say other candidates wanted the position.' An indirect statement outlining rival candidate claims.
+- 'That is false, they are lying completely!' An assertive rejection denouncing corporate dishonesty.
+- 'They refuse a pregnant woman in New York.' A direct assertion identifying pregnancy discrimination.
+- 'That is real hiring discrimination.' A formal legal concept framing employment injustice.
+- 'But we will have to fight in court.' Andréa warns Jean Dujardin that they will have to fight the producers in court.
+- 'Do not worry, we are going to win.' A comforting negative imperative paired with confident future success.
+- 'You are really very optimistic, Colette.' A heartfelt personal evaluation acknowledging morale support.
+- 'Look instead at this lovely ultrasound!' An enthusiastic imperative directing focus to baby imagery.
+- 'Our baby girl is already moving a lot.' An affectionate present observation noting fetal activity.
+- 'Place your hand here on your belly.' A gentle directive guiding physical maternal contact.
+- 'She already has a strong personality!' A proud familial exclamation admiring feisty baby energy.
+- 'She looks a lot like her mother.' A warm comparative statement affirming maternal resemblance.

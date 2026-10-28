@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is this character, anyway?' The casting director asks about the magnetic actor. The key noun here means 'remarkable sensation', anchored by its matching French article.
-- 'That is exactly what I came to explain!' Camille eagerly steps forward to offer context. Dropping the subject pronoun turns the verb for 'am coming' into a direct, punchy command.
-- 'He is absolutely brilliant!' The director shares his enthusiastic impression. The adverb meaning 'totally' gives the reply its conversational emphasis.
-- 'Brilliant, meaning very surprising.' He clarifies the unusual nature of the performance. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
-- 'He is not at all the intended character.' He acknowledges the departure from the script. This conversational past tense combines a helper verb with the past verb form for 'expected'.
-- 'But afterwards, I understood right away.' The director describes having an artistic revelation. This conversational past tense combines a helper verb with the past verb form for 'grasped'.
-- 'I saw exactly what you saw.' He validates the agent's artistic eye. The formal 'you' pronoun sets a courteous, professional distance around 'have'.
-- 'He is a genuine raw talent!' The director identifies rare natural ability. The descriptive adjective for 'genuine' agrees in gender and number with its noun.
-- 'He has great explosive strength.' He praises the physical intensity on camera. The verb meaning 'has' pairs naturally with the noun for 'dramatic power' in everyday conversation.
-- 'And he also has a lot of sensitivity.' He notes the emotional depth balancing the aggression. The verb meaning 'has' pairs naturally with the noun for 'tender feeling' in everyday conversation.
-- 'It is genuinely fascinating for the film.' He envisions the character on screen. The key noun here means 'feature production', anchored by its matching French article.
-- 'And who is his talent agent?' The director seeks the professional representative. The descriptive adjective for 'creative' agrees in gender and number with its noun.
-- 'I am his agent!' Camille seizes her opportunity with confidence. The key noun here means 'primary representative', anchored by its matching French article.
-- 'Camille Valentini, from the ASK agency.' She introduces herself formally. The key noun here means 'talent agency', anchored by its matching French article.
-- 'Delighted, Camille, congratulations on this discovery!' The director welcomes the young agent warmly. The key noun here means 'artistic find', anchored by its matching French article. Now let's hear the whole conversation again.
+- 'Who is this character, anyway?' The casting director asks about the magnetic actor.
+- 'That is exactly what I came to explain!' Camille eagerly steps forward to offer context.
+- 'He is absolutely brilliant!' The director shares his enthusiastic impression.
+- 'Brilliant, meaning very surprising.' He clarifies the unusual nature of the performance.
+- 'He is not at all the intended character.' He acknowledges the departure from the script.
+- 'But afterwards, I understood right away.' The director describes having an artistic revelation.
+- 'I saw exactly what you saw.' He validates the agent's artistic eye.
+- 'He is a genuine raw talent!' The director identifies rare natural ability.
+- 'He has great explosive strength.' He praises the physical intensity on camera.
+- 'And he also has a lot of sensitivity.' He notes the emotional depth balancing the aggression.
+- 'It is genuinely fascinating for the film.' He envisions the character on screen.
+- 'And who is his talent agent?' The director seeks the professional representative.
+- 'I am his agent!' Camille seizes her opportunity with confidence.
+- 'Camille Valentini, from the ASK agency.' She introduces herself formally.
+- 'Delighted, Camille, congratulations on this discovery!' The director welcomes the young agent warmly. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias lied to my face yesterday.' Noemie complains about his deceitful behavior. This conversational past tense combines a helper verb with the past verb form for 'lied'.
-- 'For me too, everything is finished.' Camille confirms that she has cut ties with him. The descriptive adjective for 'finished' agrees in gender and number with its noun.
-- 'I refuse his recognition of paternity.' Camille stands firm against his paternal paperwork. Notice how 'refuse' leads directly into the noun meaning 'recognition'.
-- 'You are right to reject him.' Noemie validates her strong stance. Noemie uses the casual singular 'you' with 'have', showing close familiarity.
-- 'He truly looks like the villain Jafar!' Camille finds humor in his cartoonish villainy. Notice how 'looks like' leads directly into the noun meaning 'villain'.
-- 'He already has the treacherous look!' Noemie jokes about his sly expression. Notice how 'has' leads directly into the noun meaning 'look'.
-- 'Let us not let him ruin anything anymore.' Camille decides not to let bitterness control them. The clause hinges on the everyday verb meaning 'let'.
-- 'Wait, my phone is ringing without stopping.' Noemie hears her mobile ring with a masked number. The verb meaning 'wait' pairs naturally with the noun for 'phone' in everyday conversation.
-- 'Hello? I am coming right away!' Noemie speaks to the caller with sudden urgency. The clause hinges on the everyday verb meaning 'am coming'.
-- 'Noemie, what is going on?' Camille notices the sudden panic in her friend's eyes. The clause hinges on the everyday verb meaning 'is happening'.
-- 'It is Mathias, he is at the hospital!' Noemie delivers the startling announcement. The key noun here means 'hospital', anchored by its matching French article.
-- 'He had a heart attack!' Noemie shares the shocking severity of his condition. This conversational past tense combines a helper verb with the past verb form for 'had'.
-- 'My God, this is a disaster!' Camille reacts with profound shock and fear. The key noun here means 'catastrophe', anchored by its matching French article.
-- 'Quick, we must take a taxi!' Noemie demands that they hurry to his hospital room. The verb meaning 'must' pairs naturally with the noun for 'taxi' in everyday conversation. Now let's hear the whole conversation again.
+- 'Mathias lied to my face yesterday.' Noemie complains about his deceitful behavior.
+- 'For me too, everything is finished.' Camille confirms that she has cut ties with him.
+- 'I refuse his recognition of paternity.' Camille stands firm against his paternal paperwork.
+- 'You are right to reject him.' Noemie validates her strong stance.
+- 'He truly looks like the villain Jafar!' Camille finds humor in his cartoonish villainy.
+- 'He already has the treacherous look!' Noemie jokes about his sly expression.
+- 'Let us not let him ruin anything anymore.' Camille decides not to let bitterness control them.
+- 'Wait, my phone is ringing without stopping.' Noemie hears her mobile ring with a masked number.
+- 'Hello? I am coming right away!' Noemie speaks to the caller with sudden urgency.
+- 'Noemie, what is going on?' Camille notices the sudden panic in her friend's eyes.
+- 'It is Mathias, he is at the hospital!' Noemie delivers the startling announcement.
+- 'He had a heart attack!' Noemie shares the shocking severity of his condition.
+- 'My God, this is a disaster!' Camille reacts with profound shock and fear.
+- 'Quick, we must take a taxi!' Noemie demands that they hurry to his hospital room. Now listen to the whole scene again at normal speed, and see how much more you catch.

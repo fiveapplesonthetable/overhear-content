@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'With all these delays, we have half a day left in the barn.' The impersonal construction literally means 'there remains to us'.
-- 'I had to rewrite the schedule.' Notice the past verb form of 'must' with a circumflex accent.
+- 'I had to rewrite the schedule.' Notice the past participle of 'must' with a circumflex accent.
 - 'We shoot the love scene tomorrow.' In French cinema, the verb for turning camera reels means to shoot or film.
 - 'Maybe it is not the right time.' Andréa tries to buy time for her reluctant actress.
 - 'It is tomorrow, we have no choice!' Samir is completely inflexible.
 - 'We are going to manage, Samir.' The pronoun 'there' combines with the verb for 'arriving' to mean 'to pull it off'.
 - 'If you say so. Tell the actors, I am too busy.' Samir leaves the hard conversation to the agents.
 - 'Why are there always love scenes?' Inside the hotel bedroom, Julie groans at the news.
-- 'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise using the conditional.
+- 'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise to soften the point.
 - 'Meaning what?' This hyphenated phrase literally means 'that is to say'.
 - 'I don't know.' Put on the spot, Julie scrambles for an example.
 - 'A flowing river? Animals frolicking in the woods?' She pitches vintage poetic cinema metaphors.

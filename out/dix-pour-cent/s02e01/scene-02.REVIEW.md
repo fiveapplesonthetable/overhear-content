@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello? Virginie, what happened?' The classic telephone greeting followed by a formal inverted past question.
-- 'Mathias, it is terrible!' A pointing word pronoun followed by an expressive emotional adjective.
-- 'I was in the street with a friend.' An imperfect tense verb setting the scene with a linking word of company.
-- 'A friend? Were you with Ramzy?' Mathias asks a pointed question using the imperfect tense.
-- 'No, Ramzy went home.' A compound past verb constructed with the helping verb to be for movement.
-- 'I saw a flash in the night.' A direct perception in the compound past with a temporal noun phrase.
+- 'Mathias, it is terrible!' Virginie calls Mathias in a panic because a disaster has just happened.
+- 'I was in the street with a friend.' Virginie explains that she was out on the street late at night with a male friend.
+- 'A friend? Were you with Ramzy?' Mathias checks warily whether she was actually out with Ramzy.
+- 'No, Ramzy went home.' Virginie admits that Ramzy had already gone home alone.
+- 'I saw a flash in the night.' Virginie says she saw a camera flash go off in the dark.
 - 'Were you photographed by a paparazzo?' A passive voice construction expressing an unwanted media intrusion.
-- 'You have to do something!' The impersonal expression of obligation governing a present special verb form verb.
-- 'Call the magazines, they must not publish!' An command form followed by a modal verb expressing strong prohibition.
-- 'My threats are not going to stop them.' The near-future tense with a plural subject noun.
-- 'So what do I do?' A conversational connector followed by an question form locution.
-- 'Talk to Ramzy immediately.' An command verb form addressing someone with the informal pronoun.
+- 'You have to do something!' Virginie begs Mathias to stop the tabloid photos from coming out.
+- 'Call the magazines, they must not publish!' An imperative followed by a modal verb expressing strong prohibition.
+- 'My threats are not going to stop them.' Mathias warns her that his threats will not stop the paparazzi from publishing.
+- 'So what do I do?' A conversational connector followed by an interrogative locution.
+- 'Talk to Ramzy immediately.' Mathias advises Virginie to tell Ramzy the truth before the magazine hits the stands.
 - 'No, I cannot, he will not understand.' A modal verb in the present tense followed by a simple future verb.
-- 'Virginie, believe me, it is the best thing to do.' An command form followed by a superlative adjective phrase.
+- 'Virginie, believe me, it is the best thing to do.' An imperative followed by a superlative adjective phrase.

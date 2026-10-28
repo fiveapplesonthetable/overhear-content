@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello Gabriel, sorry for my delay.' Sofia greets her agent with a polite apology for running late.
 - 'Put your bag down, let's go!' Gabriel gives urgent directions to get moving without delay.
-- 'We are very late for your audition.' The key word here means 'is', paired with 'casting call' to make the point clear.
-- 'I have just one question about the text.' Sofia pairs the verb meaning 'I have' with the noun for 'script text'.
+- 'We are very late for your audition.' An emphatic statement about their tight schedule.
+- 'I have just one question about the text.' A polite request for clarification before rushing out.
 - 'I have not read the entire script.' A negative compound past statement explaining her lack of preparation.
 - 'I am not sure about the character.' An expression of doubt regarding how to play the role.
 - 'She is a young, pretty, and sexy secretary.' Gabriel gives a very simple summary of the role.
 - 'She runs into her boss and decides to seduce him.' A brief overview of the plot action in the scene.
 - 'Hitting on her boss in a butcher shop?' Sofia expresses disbelief at the bizarre audition setting.
-- 'Besides, he could be her father!' Sofia pairs the verb meaning 'could' with the noun for 'father'.
-- 'Sofia, do not complicate things.' The key word here means 'complicate', paired with 'things' to make the point clear.
+- 'Besides, he could be her father!' A conditional observation highlighting the age difference.
+- 'Sofia, do not complicate things.' A reassuring imperative advising her to keep it simple.
 - 'We are wasting time, let us go now.' An urgent reminder that they must leave immediately.
-- 'Okay, I am ready.' Sofia opens with the word for 'okay' and lands on 'prepared' at the close.
+- 'Okay, I am ready.' A calm confirmation that she is prepared to face the director.
 - 'Breathe and show your biggest smile.' Friendly advice on stage presence from her supportive agent.

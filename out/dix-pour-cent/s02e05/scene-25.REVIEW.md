@@ -42,4 +42,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We can find another financing elsewhere.' Gabriel suggests pitching alternative partners and investors.
 - 'No, it is finished, I give up.' Julien sinks into despair and declares his intention to walk away.
 - 'Julien, keep hope for this beautiful film.' Sofia appeals to his passion for their collaborative project.
-- 'Do not give up so quickly, Julien.' Listen for the expression meaning 'lower', which leads naturally into 'quickly'.
+- 'Do not give up so quickly, Julien.' Gabriel urges Julien not to give up on his first film so quickly.

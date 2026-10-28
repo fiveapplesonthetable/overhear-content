@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did Hicham discover your secret about the baby?' Gabriel asks with deep concern. Listen for the expression meaning 'has', which leads naturally into 'baby'.
-- 'Yes, he knows everything and claims to be the father.' Andréa shares her distress. Andréa pairs the verb meaning 'knows' with the noun for 'father'.
-- 'You should maybe clarify things with him.' Gabriel suggests open communication. Notice how the verb for 'should' leads straight into 'things'.
-- 'He is my boss, I cannot avoid him.' Andréa points out their daily workplace reality. The adverb meaning 'not' sharpens the verb for 'he is' here.
-- 'And how is the rehearsal going with Juliette?' Gabriel shifts the focus to work. Gabriel opens with the word for 'how' and lands on 'rehearsal' at the close.
-- 'Very well, but we have a big problem.' Andréa introduces an urgent dilemma. Notice how the verb for 'have' leads straight into 'problem'.
-- 'What is happening with Jean-Denis Gillières?' Gabriel recognizes the billionaire sponsor's name. Gabriel opens with the word for 'happens' and lands on 'happens' at the close.
-- 'He is inviting Juliette onto his private yacht.' Andréa explains the inappropriate invitation. Andréa pairs the verb meaning 'invites' with the noun for 'yacht'.
-- 'Did Juliette accept this invitation?' Gabriel asks about her response. The key word here means 'has', paired with 'invitation' to make the point clear.
-- 'No, she categorically refuses to go there.' Andréa affirms her client's stance. The verb meaning 'refuses' anchors the whole remark.
-- 'Careful, this man is a powerful patron.' Gabriel urges political caution. Gabriel opens with the word for 'careful' and lands on 'patron' at the close.
-- 'Actresses are not courtesans!' Andréa stands up for female dignity. Listen for the expression meaning 'actresses', which leads naturally into 'courtesans'.
-- 'You must use your diplomatic skills.' Gabriel counsels tact over confrontation. The key word here means 'must', paired with 'diplomatic' to make the point clear.
-- 'I refuse to give in to his ridiculous whims.' Andréa remains determined. Andréa pairs the verb meaning 'to refuse' with the noun for 'whims'.
-- 'Think about the financing of Juliette's next movie.' Gabriel highlights the high financial stakes. The adjective meaning 'next' agrees in gender and number with masculine noun 'financing'.
-- 'Alright, I will speak to him with firmness.' Andréa accepts the diplomatic mission. The adverb meaning 'alright' sharpens the verb for 'am going' here.
+- 'Did Hicham discover your secret about the baby?' Gabriel asks with deep concern.
+- 'Yes, he knows everything and claims to be the father.' Andréa shares her distress.
+- 'You should maybe clarify things with him.' Gabriel suggests open communication.
+- 'He is my boss, I cannot avoid him.' Andréa points out their daily workplace reality.
+- 'And how is the rehearsal going with Juliette?' Gabriel shifts the focus to work.
+- 'Very well, but we have a big problem.' Andréa introduces an urgent dilemma.
+- 'What is happening with Jean-Denis Gillières?' Gabriel recognizes the billionaire sponsor's name.
+- 'He is inviting Juliette onto his private yacht.' Andréa explains the inappropriate invitation.
+- 'Did Juliette accept this invitation?' Gabriel asks about her response.
+- 'No, she categorically refuses to go there.' Andréa affirms her client's stance.
+- 'Careful, this man is a powerful patron.' Gabriel urges political caution.
+- 'Actresses are not courtesans!' Andréa stands up for female dignity.
+- 'You must use your diplomatic skills.' Gabriel counsels tact over confrontation.
+- 'I refuse to give in to his ridiculous whims.' Andréa remains determined.
+- 'Think about the financing of Juliette's next movie.' Gabriel highlights the high financial stakes.
+- 'Alright, I will speak to him with firmness.' Andréa accepts the diplomatic mission.

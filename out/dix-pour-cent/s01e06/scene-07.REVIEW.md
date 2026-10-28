@@ -29,21 +29,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What? Why not?' Christophe reacts with disbelief when Andréa tells him that Berléand refuses the water.
-- 'It is completely absurd!' The adverb meaning 'completely' sharpens the verb for 'it is' here.
-- 'You wanted Berléand, you have him.' Andréa reminds him that hiring a major star comes with conditions.
-- 'When I was little, I was seven years old.' Notice the past tense used here for describing age and childhood.
+- 'What? Why not?' Christophe reacts with disbelief when Andrea tells him that Berleand refuses the water.
+- 'It is completely absurd!' Christophe fumes that the whole situation is completely absurd.
+- 'You wanted Berléand, you have him.' Andrea reminds him that hiring a major star comes with conditions.
+- 'When I was little, I was seven years old.' Christophe recalls a childhood memory from when he was seven years old.
 - 'My father left, he left my mother.' Two past actions that happened suddenly and changed his life.
 - 'I was in the swimming pool, with my inflatable duck.' Here is the origin of his bizarre stage design.
-- 'Do you understand why I need this duck?' The everyday verb for needing something in French.
-- 'Yes. But Dom Juan will not be in the water.' Andréa listens patiently but stays completely firm.
-- 'I could fire him!' Christophe makes an empty threat using the conditional form.
-- 'With one week to go before opening night?' Andréa points out that replacing a lead actor now is impossible.
+- 'Do you understand why I need this duck?' Christophe asks Gabriel if he finally understands why the toy duck matters so much.
+- 'Yes. But Dom Juan will not be in the water.' Andrea listens patiently but stays completely firm.
+- 'I could fire him!' Christophe makes an empty threat that he could fire François on the spot.
+- 'With one week to go before opening night?' Andrea points out that replacing a lead actor now is impossible.
 - 'I do not care!' A common conversational phrase for showing indifference.
 - 'I know the role by heart.' He claims he could play the lead role himself.
-- 'I am not afraid to go on stage!' Christophe opens with the word for 'have not' and lands on 'stage' at the close.
-- 'I am sure of it.' Andréa replies calmly with the little pronoun meaning 'of it'.
-- 'Except it will be in a warehouse in the suburbs.' The key word here means 'will be', paired with 'suburbs' to make the point clear.
+- 'I am not afraid to go on stage!' A negative expression of fear followed by an infinitive.
+- 'I am sure of it.' Andrea replies calmly with the little pronoun meaning 'of it'.
+- 'Except it will be in a warehouse in the suburbs.' The future tense paints a bleak picture of his prospects without a star.
 - 'Where you were acting before Berléand.' An imperfect tense reminding him of his humble beginnings.
 - 'Are you threatening me?' Christophe feels cornered and challenges her.
 - 'Not at all.' A very polite and firm denial.

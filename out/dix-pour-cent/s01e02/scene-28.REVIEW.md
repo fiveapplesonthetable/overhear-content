@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I ran in the cemetery.' He just repeats her words back to her, a bit cheeky. The verb is in the past, built with 'have' plus 'run'. Then he remembers his manners.
+- 'Yes, I ran in the cemetery.' He just repeats her words back to her, a bit cheeky.
 - 'This is Catherine, my mother.' The first word is the one you use to present someone: 'here is'. Camille greets her politely.
 - 'Hello.' The second word is the polite way to address a woman, and Catherine is older and a stranger. Now it's Camille's turn to be introduced.
 - 'This is Camille, Andréa's new assistant.' To say whose assistant, French says 'the assistant of Andréa'. There's no apostrophe-s. Then a bit of family history.
-- 'My father worked with Samuel for fifteen years.' In response, Camille hears it, but doesn't connect the dots yet. And right then, someone walks up.
+- 'My father worked with Samuel for fifteen years.' Here, Camille hears it, but doesn't connect the dots yet. And right then, someone walks up.
 - 'Speak of the devil… Dad!' The French saying is literally 'when you talk about the wolf'. And the wolf is Mathias.
 - 'Your father is Mathias?' Word for word: 'your father, it's Mathias?' This is the moment Camille understands. Mathias is her father too, so Hippolyte, the boy she kissed last night, is her half-brother.
 - 'The whole family's here now.' Mathias says it to be polite, but for Camille it hurts: she's part of this family, and nobody here knows it except him.
 - 'No need for introductions.' Literally 'no need of introductions'. He knows exactly who she is. Hippolyte explains anyway.
 - 'Camille is Andréa's assistant.' Again, 'the assistant of Andréa'. Mathias plays it cool.
 - 'Yes, Hippolyte told me.' Literally 'Hippolyte told it to me'. Two little words sit in front of the verb: 'me' and 'it'. Camille answers him in the same game.
-- 'I didn't know your son was an actor.' Notice how 'I' sets up the clause and leads naturally into 'an actor'.
-- 'Why didn't you tell me that?' With Hippolyte it's the casual 'you'. And again the negative wraps around the verb, which here is in the past.
+- 'I didn't know your son was an actor.' Listen to how she addresses Mathias: the polite 'you', as if he were a stranger. In private she calls him by the casual 'you'. Here, she's playing along. Then she turns to Hippolyte.
+- 'Why didn't you tell me that?' With Hippolyte it's the casual 'you'.
 - 'What difference does it make?' Literally 'what does that change?'. For Hippolyte, nothing. For Camille, everything.
 - 'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the conversation.
 - 'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb talks about the near future.

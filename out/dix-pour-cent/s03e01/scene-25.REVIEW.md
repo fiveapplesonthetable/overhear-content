@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your warm coat to go outside, Jean.' Andrea uses the casual singular 'you' with 'to go outside', showing close familiarity. Andrea uses the casual singular 'you' with 'to go outside', showing close familiarity.
-- 'No thank you, not the coat today.' The key noun here means 'coat', anchored by its matching French article. The key noun here means 'coat', anchored by its matching French article.
-- 'But it is very cold outside!' Dropping the subject pronoun turns the verb for 'makes' into a direct, punchy command. Dropping the subject pronoun turns the verb for 'makes' into a direct, punchy command.
-- 'I need to feel the fresh air.' In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
-- 'Do you still want to stay in your role?' The verb meaning 'want' pairs naturally with the noun for 'role' in everyday conversation.
-- 'No, I want to finally become myself again.' The clause hinges on the everyday verb meaning 'want'.
-- 'Take the time to rest, Jean.' The short 'self' word sits right in front of the verb for 'take', turning the action back onto the subject.
-- 'Yes, I am going to turn off my phone.' A near-future commitment to take disconnected rest. Notice how 'am going' leads directly into the noun meaning 'telephone'.
-- 'That is a very good idea for you.' An encouraging evaluation supporting his decision. The informal 'you' form around 'it is' marks a direct, personal relationship.
-- 'Are we seeing each other soon at the agency?' The verb meaning 'see' pairs naturally with the noun for 'the agency' in everyday conversation.
-- 'Yes, we have this big meeting.' Notice how 'have' leads directly into the noun meaning 'meeting'. Notice how 'have' leads directly into the noun meaning 'meeting'.
-- 'Then I leave you with the team.' The informal 'you' form around 'leave' marks a direct, personal relationship. The informal 'you' form around 'leave' marks a direct, personal relationship.
-- 'Good luck for what comes next, Jean.' A cordial wish offering encouragement for the future. The key noun here means 'luck', anchored by its matching French article.
-- 'Thank you for everything, Andrea!' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Here is your warm coat to go outside, Jean.' A considerate offer presenting his winter coat.
+- 'No thank you, not the coat today.' A polite negative response declining the warm garment.
+- 'But it is very cold outside!' An emphatic weather observation with the impersonal il fait.
+- 'I need to feel the fresh air.' An expression of physical need using avoir besoin de.
+- 'Do you still want to stay in your role?' A gentle question probing his psychological state.
+- 'No, I want to finally become myself again.' A determined statement expressing recovery of self.
+- 'Take the time to rest, Jean.' A caring imperative advising personal recovery.
+- 'Yes, I am going to turn off my phone.' A near-future commitment to take disconnected rest.
+- 'That is a very good idea for you.' An encouraging evaluation supporting his decision.
+- 'Are we seeing each other soon at the agency?' A reciprocal pronominal question about their next meeting.
+- 'Yes, we have this big meeting.' A factual statement mentioning the upcoming staff meeting.
+- 'Then I leave you with the team.' A polite departure formula taking leave of Andrea.
+- 'Good luck for what comes next, Jean.' A cordial wish offering encouragement for the future.
+- 'Thank you for everything, Andrea!' A grateful parting exclamation thanking his loyal agent.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The first cut of the film is ready.' Andrea presents the work-in-progress cut. The descriptive adjective for 'first' agrees in gender and number with its noun.
-- 'I play the role of a nurse.' Corinne describes her on-screen character. Notice how 'play' leads directly into the noun meaning 'role'.
-- 'You cared for an elderly patient?' Andrea asks about the touching hospital scene. Notice how 'have' leads directly into the noun meaning 'patient'.
-- 'Yes, elderly Mr. Cardette.' Corinne remembers the specific patient fondly. The key noun here means 'mister', anchored by its matching French article.
-- 'He was nearly ninety years old.' Corinne mentions the patient's great age. The verb meaning 'had' pairs naturally with the noun for 'years' in everyday conversation.
-- 'He only wanted to talk a little.' Corinne evokes the patient's simple wish for company. The clause hinges on the everyday verb meaning 'wanted'.
-- 'But I was desperately short on time.' Corinne describes the relentless pace of nursing. The verb meaning 'lacked' pairs naturally with the noun for 'time' in everyday conversation.
-- 'When I returned, he had died.' Corinne recounts the heartbreaking hospital truth. The clause hinges on the everyday verb meaning 'returned'.
-- 'Your emotion moved the entire room!' Andrea highlights how profoundly everyone reacted. Andrea uses the polite 'you' form alongside 'has' to keep a respectful professional tone.
-- 'Claude Lelouch offered me a film.' Corinne shares the thrilling news of a role offer. The verb meaning 'has' pairs naturally with the noun for 'film' in everyday conversation.
-- 'It is an immense honor for you!' Andrea celebrates the prestigious recognition. Andrea uses the polite 'you' form alongside 'honor' to keep a respectful professional tone.
-- 'Thank you for this totally incredible evening.' Corinne expresses her warmth and gratitude. The key noun here means 'evening', anchored by its matching French article.
-- 'Thank you for all this courage, Corinne.' Andrea honors her composure under pressure. The key noun here means 'courage', anchored by its matching French article.
-- 'I was very proud to be your agent!' Andrea closes with sincere professional pride. Notice how 'was' leads directly into the noun meaning 'agent'.
+- 'The first cut of the film is ready.' Andrea presents the work-in-progress cut.
+- 'I play the role of a nurse.' Corinne describes her on-screen character.
+- 'You cared for an elderly patient?' Andrea asks about the touching hospital scene.
+- 'Yes, elderly Mr. Cardette.' Corinne remembers the specific patient fondly.
+- 'He was nearly ninety years old.' Corinne mentions the patient's great age.
+- 'He only wanted to talk a little.' Corinne evokes the patient's simple wish for company.
+- 'But I was desperately short on time.' Corinne describes the relentless pace of nursing.
+- 'When I returned, he had died.' Corinne recounts the heartbreaking hospital truth.
+- 'Your emotion moved the entire room!' Andrea highlights how profoundly everyone reacted.
+- 'Claude Lelouch offered me a film.' Corinne shares the thrilling news of a role offer.
+- 'It is an immense honor for you!' Andrea celebrates the prestigious recognition.
+- 'Thank you for this totally incredible evening.' Corinne expresses her warmth and gratitude.
+- 'Thank you for all this courage, Corinne.' Andrea honors her composure under pressure.
+- 'I was very proud to be your agent!' Andrea closes with sincere professional pride.

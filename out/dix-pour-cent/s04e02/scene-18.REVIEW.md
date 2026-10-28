@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did Camille tell you about the next film?' Franck asks about the upcoming casting. Notice how 'has' leads directly into the noun meaning 'film'.
-- 'Yes, the project with Fabrice Luchini!' Sophia confirms the exciting co-star. The key noun here means 'project', anchored by its matching French article.
-- 'It is Francois Ozon directing, right?' Franck asks about the director. In everyday spoken French, rising intonation on 'directs' at the end is enough to turn the sentence into a question.
-- 'Yes, well, every other day.' Sophia repeats an odd scheduling remark. The key noun here means 'day', anchored by its matching French article.
-- 'Francois Ozon has a twin brother.' Franck launches into his elaborate prank. The verb meaning 'has' pairs naturally with the noun for 'brother' in everyday conversation.
-- 'Really? I did not know that!' Sophia reacts with innocent surprise. Notice the classic French sandwich negation wrapping right around 'knew'.
-- 'His brother Gilles shoots the next day.' Franck elaborates on the alternating schedule. The verb meaning 'shoots' pairs naturally with the noun for 'brother' in everyday conversation.
-- 'Which of the two did I meet?' Sophia tries to figure out which person she saw. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'You must have seen his brother!' Franck teasingly convinces her. Franck uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Wait, you are pulling my leg?' Sophia realizes she is being pranked. The short 'self' word sits right in front of the verb for 'wait', turning the action back onto the subject.
-- 'Yes, I love making up nonsense.' Franck proudly admits his playful habit. The verb meaning 'love' pairs naturally with the noun for 'nonsense' in everyday conversation.
-- 'What a clown, I almost believed it!' Sophia laughs at her own credulity. Notice how 'have' leads directly into the noun meaning 'clown'.
-- 'Your great sincerity is very moving.' Franck warmly compliments Sophia's candid honesty. The adjective meaning 'great' takes its feminine form here to match the noun it describes.
-- 'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance. Dropping the subject pronoun turns the verb for 'come on' into a direct, punchy command.
+- 'Did Camille tell you about the next film?' Franck asks about the upcoming casting.
+- 'Yes, the project with Fabrice Luchini!' Sophia confirms the exciting co-star.
+- 'It is Francois Ozon directing, right?' Franck asks about the director.
+- 'Yes, well, every other day.' Sophia repeats an odd scheduling remark.
+- 'Francois Ozon has a twin brother.' Franck launches into his elaborate prank.
+- 'Really? I did not know that!' Sophia reacts with innocent surprise.
+- 'His brother Gilles shoots the next day.' Franck elaborates on the alternating schedule.
+- 'Which of the two did I meet?' Sophia tries to figure out which person she saw.
+- 'You must have seen his brother!' Franck teasingly convinces her.
+- 'Wait, you are pulling my leg?' Sophia realizes she is being pranked.
+- 'Yes, I love making up nonsense.' Franck proudly admits his playful habit.
+- 'What a clown, I almost believed it!' Sophia laughs at her own credulity.
+- 'Your great sincerity is very moving.' Franck warmly compliments Sophia's candid honesty.
+- 'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, hello, do you have a minute?' Notice how the verb for 'have' leads straight into 'moment'.
+- 'Mathias, hello, do you have a minute?' A polite greeting followed by a request for brief attention.
 - 'Good morning Camille, I am in a hurry.' A busy professional acknowledgement indicating lack of time.
 - 'Did I tell you that mom was here?' A compound past question introducing family news.
-- 'Yes, I think so. When did she arrive?' An question form inquiring about the timing of her arrival.
-- 'She just arrived in Paris this morning.' A recent past construction using 'has just' with an infinitive.
+- 'Yes, I think so. When did she arrive?' An interrogative inquiring about the timing of her arrival.
+- 'She just arrived in Paris this morning.' Camille tells Mathias that her mother just arrived in Paris this morning.
 - 'If we have lunch, you could join us.' A conditional proposal suggesting a shared informal meal.
-- 'It is impossible, I do not have time.' Listen for the expression meaning 'is', which leads naturally into 'schedule'.
+- 'It is impossible, I do not have time.' A direct refusal citing professional unavailability.
 - 'Tomorrow or Friday, she is staying all week.' A temporal alternative offering flexible scheduling.
 - 'Please, it would really make me happy.' A polite formula followed by a conditional expression of pleasure.
 - 'It would please mom as well.' An indirect object construction extending the personal request.
-- 'Do not look at me with that sad look.' The adjective meaning 'sad' agrees in gender and number with masculine noun 'expression'.
+- 'Do not look at me with that sad look.' A negative imperative reacting to an emotional expression.
 - 'All right, tomorrow, just for coffee.' A reluctant concession agreeing to a brief morning encounter.
-- 'Thank you Mathias, that is super nice.' The verb meaning 'is' anchors the whole remark.
-- 'But not a word to the other agents.' Mathias opens with the word for 'word' and lands on 'talent agents' at the close.
+- 'Thank you Mathias, that is super nice.' A warm expression of gratitude acknowledging the effort.
+- 'But not a word to the other agents.' A discreet warning maintaining workplace confidentiality.

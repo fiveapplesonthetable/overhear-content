@@ -34,12 +34,12 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Clémentine! What are you doing here?' The long question phrase after Clémentine's name is the everyday spoken way to ask 'what'."),
-    (1, None, "'I have to do this in order to heal.' The first verb means 'must' or 'have to', and the linking word before 'heal' means 'in order to'."),
+    (1, None, "'I have to do this in order to heal.' The first action word means 'must' or 'have to', and the linking word before 'heal' means 'in order to'."),
     (2, None, "'Okay, but another time!' Andréa desperately wants to get rid of her before Colette hears too much."),
     (3, None, "'You're a monster of seduction.' Clémentine is an actress, and she delivers her speech as if she were on stage."),
-    (4, None, "'Clémentine, listen.' A casual command for one person, with no pronoun."),
-    (5, None, "'You devoured me like a hyena!' The past verb form has an extra feminine letter at the end because the object word before the helping verb refers to Clémentine."),
-    (6, None, "'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helping verb in the past."),
+    (4, None, "'Clémentine, listen.' A casual command for one person, dropping the word for 'you'."),
+    (5, None, "'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word before the auxiliary refers to Clémentine."),
+    (6, None, "'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past."),
     (7, None, "'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things used to be."),
     (8, None, "'And you asked your assistant to break up with me!' Listeners who remember the first episode know that this is completely true: Andréa made poor Camille do it."),
     (9, None, "'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word."),

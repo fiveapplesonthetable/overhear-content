@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening Isabelle, here is today's scene.' Sharon presents the revised pages for the night shoot. Notice how the short vowel drops before a vowel sound around 'script scene', making the phrase flow smoothly as one unit.
-- 'But I already know my lines.' Isabelle reminds everyone of her thorough preparation. Notice how 'know' leads directly into the noun meaning 'script lines'.
-- 'Wait, this is not at all the same!' Isabelle spots unexpected script changes. The clause hinges on the everyday verb meaning 'wait'.
-- 'This new text is much shorter.' Isabelle notices substantial trims to her part. The key noun here means 'script draft', anchored by its matching French article.
-- 'Director Gary wants a more dynamic scene.' Sharon relays the creative reasoning behind the rewrite. The verb meaning 'wants' pairs naturally with the noun for 'director' in everyday conversation.
-- 'But he cut all my lines!' Isabelle objects to having her speaking part gutted. Notice how 'has' leads directly into the noun meaning 'lines of dialogue'.
-- 'Isabelle, dynamism is very important today.' Mathias steps in to prevent an on-set fight. The descriptive adjective for 'important' agrees in gender and number with its noun.
-- 'Mathias, I do not do background work!' Isabelle indignantly rejects being sidelined. The two-part French negation brackets the verb for 'do' on both sides.
-- 'Can I look at your script for a minute?' Mathias asks to examine the revised draft himself. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question.
-- 'But you still have fine lines left.' Mathias tries to downplay the severity of the cuts. Notice how 'remains' leads directly into the noun meaning 'dialogue lines'.
-- 'He deleted my entire big monologue.' Isabelle laments the loss of her centerpiece speech. The verb meaning 'has' pairs naturally with the noun for 'dramatic monologue' in everyday conversation.
-- 'This sequence is now empty of substance.' Isabelle critiques the artistic value of the shortened scene. The key noun here means 'movie sequence', anchored by its matching French article.
-- 'Where is Gary, I want to talk to him!' Isabelle demands an immediate face-to-face showdown. Dropping the subject pronoun turns the verb for 'want' into a direct, punchy command.
-- 'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand. The clause hinges on the everyday verb meaning 'am going to'.
+- 'Good evening Isabelle, here is today's scene.' Sharon presents the revised pages for the night shoot.
+- 'But I already know my lines.' Isabelle reminds everyone of her thorough preparation.
+- 'Wait, this is not at all the same!' Isabelle spots unexpected script changes.
+- 'This new text is much shorter.' Isabelle notices substantial trims to her part.
+- 'Director Gary wants a more dynamic scene.' Sharon relays the creative reasoning behind the rewrite.
+- 'But he cut all my lines!' Isabelle objects to having her speaking part gutted.
+- 'Isabelle, dynamism is very important today.' Mathias steps in to prevent an on-set fight.
+- 'Mathias, I do not do background work!' Isabelle indignantly rejects being sidelined.
+- 'Can I look at your script for a minute?' Mathias asks to examine the revised draft himself.
+- 'But you still have fine lines left.' Mathias tries to downplay the severity of the cuts.
+- 'He deleted my entire big monologue.' Isabelle laments the loss of her centerpiece speech.
+- 'This sequence is now empty of substance.' Isabelle critiques the artistic value of the shortened scene.
+- 'Where is Gary, I want to talk to him!' Isabelle demands an immediate face-to-face showdown.
+- 'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand.

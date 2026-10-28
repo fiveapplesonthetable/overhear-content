@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, is this room service coming?' Jose looks eagerly at the covered dishes. In everyday spoken French, rising intonation on 'arrives' at the end is enough to turn the sentence into a question.
-- 'Dinner is already nicely served.' Andrea uncovers the hot plates. The verb meaning 'served' pairs naturally with the noun for 'dinner' in everyday conversation.
-- 'I have an absolutely terrible hunger.' Jose rubs his hands together with enthusiasm. Notice how 'have' leads directly into the noun meaning 'hunger'.
-- 'You barely had lunch today.' Andrea notes his hectic schedule on set. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
-- 'The director was driving me totally crazy.' Jose recounts the tense friction with the crew. The descriptive adjective for 'crazy' agrees in gender and number with its noun.
-- 'You saved the final scene.' Andrea reassures him of his great acting. This conversational past tense combines a helper verb with the past verb form for 'saved'.
-- 'Thanks to your overflowing energy, Andrea.' Jose toasts her with his water glass. The key noun here means 'thanks', anchored by its matching French article.
-- 'Eat a little before it gets cold.' Andrea gestures toward his warm plate. The clause hinges on the everyday verb meaning 'eat'.
-- 'Take a plate with me.' Jose invites her to share the feast. Notice how 'take' leads directly into the noun meaning 'plate'.
-- 'I am not very hungry tonight.' Andrea declines gently with a quiet sigh. The verb meaning 'have' pairs naturally with the noun for 'hungry' in everyday conversation.
-- 'You must think of yourself sometimes.' Jose advises her with genuine care. The informal 'you' form around 'must' marks a direct, personal relationship.
-- 'I never manage to switch off.' Andrea admits her constant workaholic habits. The clause hinges on the everyday verb meaning 'manage'.
-- 'Tonight, forget the agency for a bit.' Jose encourages her to let down her guard. Notice how 'forget' leads directly into the noun meaning 'night'.
-- 'It is easier said than done.' Andrea smiles faintly at the advice. The descriptive adjective for 'easy' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'So, is this room service coming?' Jose looks eagerly at the covered dishes.
+- 'Dinner is already nicely served.' Andrea uncovers the hot plates.
+- 'I have an absolutely terrible hunger.' Jose rubs his hands together with enthusiasm.
+- 'You barely had lunch today.' Andrea notes his hectic schedule on set.
+- 'The director was driving me totally crazy.' Jose recounts the tense friction with the crew. The imperfect verb recalls the artistic pressure.
+- 'You saved the final scene.' Andrea reassures him of his great acting.
+- 'Thanks to your overflowing energy, Andrea.' Jose toasts her with his water glass.
+- 'Eat a little before it gets cold.' Andrea gestures toward his warm plate.
+- 'Take a plate with me.' Jose invites her to share the feast.
+- 'I am not very hungry tonight.' Andrea declines gently with a quiet sigh.
+- 'You must think of yourself sometimes.' Jose advises her with genuine care.
+- 'I never manage to switch off.' Andrea admits her constant workaholic habits.
+- 'Tonight, forget the agency for a bit.' Jose encourages her to let down her guard.
+- 'It is easier said than done.' Andrea smiles faintly at the advice. Now, listen to the complete dialogue again at normal conversational pace.

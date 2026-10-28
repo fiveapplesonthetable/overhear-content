@@ -52,5 +52,5 @@ WALK = [
     (13, 'Vous tous et mes acteurs.', "'All of you, and my actors.' The agency is her whole life."),
     (14, None, "'Thank you, Arlette.' Andréa is touched."),
     (15, None, "'Do you need to pee, Jean Gabin?' Literally 'do you want to do pee-pee?', the way you'd talk to a child, or a dog."),
-    (16, None, "'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace. Now the whole breakfast once more, in French. Let's listen to the whole scene once more without interruption."),
+    (16, None, "'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace."),
 ]

@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you sure it's the only solution?' Even though Audrey and Mathias are old friends, in this opening exchange the subtitles use the polite 'you'.
+- 'Are you sure it's the only solution?' Even though Audrey and Mathias are old friends, in this opening exchange the subtitles use the polite 'vous'.
 - 'Trust me, Audrey. Beyoncé did that after her concert.' Literally 'make confidence to me'. Mathias reassures her that giving the fee to charity will turn a scandal into good publicity.
-- 'I am delighted to be with you tonight.' Now Audrey is on stage at the microphone. The adjective for 'delighted' has a feminine ending.
+- 'I am delighted to be with you tonight.' Now Audrey is on stage at the microphone.
 - 'The media can be cruel.' The verb 'can' is in the plural form to match 'the media'.
 - 'I came solely to help the children.' On stage, Audrey almost slips and says 'for my children', then quickly turns it into 'the children of the whole world'.
 - 'I am giving all of Mr. Kadropov's money to UNICEF.' A grand, formal sentence for the cameras.

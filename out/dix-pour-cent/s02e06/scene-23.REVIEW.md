@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to wish you good luck.' Gillières approaches Juliette backstage before her entrance.
-- 'You are magnificent, you drive me crazy!' Gillières expresses his overwhelming attraction to the star.
-- 'The power you have intoxicates me!' Notice how the verb for 'have' leads straight into 'power'.
+- 'I wanted to wish you good luck.' Gillieres approaches Juliette backstage before her entrance.
+- 'You are magnificent, you drive me crazy!' Gillieres expresses his overwhelming attraction to the star.
+- 'The power you have intoxicates me!' Gillieres is captivated by Juliette's aura and authority.
 - 'Thank you Jean-Denis, but be quite sensible.' Juliette politely deflects his improper advances.
-- 'Do you not want me?' Gillières presses his case despite her hesitation.
+- 'Do you not want me?' Gillieres presses his case despite her hesitation.
 - 'Yes, but not this way.' Juliette maintains her dignity while rejecting the proposition.
 - 'I do not want to share anything.' Juliette reminds him of his personal commitments.
 - 'Give me your cell phone, come on!' Juliette cleverly proposes calling his spouse.
-- 'Why do you want my cell phone?' Gillières suddenly grows nervous at her unexpected request.
+- 'Why do you want my cell phone?' Gillieres suddenly grows nervous at her unexpected request.
 - 'We are going to call your wife Caroline!' Juliette uses wit to defuse the awkward situation.
-- 'Wait, let us talk rather after the party.' Gillières quickly backs down from his insistence.
+- 'Wait, let us talk rather after the party.' Gillieres quickly backs down from his insistence.
 - 'Yes, after the big official ceremony.' Juliette agrees to postpone any discussion safely.
-- 'It is much wiser this way.' Gillières accepts the polite retreat with relief.
+- 'It is much wiser this way.' Gillieres accepts the polite retreat with relief.
 - 'See you later, dear friend!' Juliette bids him farewell and returns to her duties.

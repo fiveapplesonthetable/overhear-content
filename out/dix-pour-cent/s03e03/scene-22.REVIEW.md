@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All good, I finalized the contract.' Camille proudly reports her progress to Mathias. The verb meaning 'have' pairs naturally with the noun for 'agreement' in everyday conversation.
-- 'There is just one little thing.' Camille cautiously raises an unresolved detail. The key noun here means 'detail', anchored by its matching French article.
-- 'The size of the name on the poster.' Camille highlights the client's billing demands. The key noun here means 'dimensions', anchored by its matching French article.
-- 'We already spoke about that, Camille.' Mathias firmly cuts short any renegotiation. The clause hinges on the everyday verb meaning 'have'.
-- 'Given his role, it is important.' Camille insists on defending her client's prestige. The descriptive adjective for 'crucial' agrees in gender and number with its noun.
-- 'That is not possible, we will talk later.' Mathias defers the heated discussion. The clause hinges on the everyday verb meaning 'discuss again'.
-- 'Camille, come for a second, please!' Andrea urgently calls her assistant from her office. The verb meaning 'come' pairs naturally with the noun for 'moment' in everyday conversation.
-- 'You are going to go quickly to the pharmacy.' Andrea prepares to send Camille on an errand. Andrea uses the casual singular 'you' with 'are going', showing close familiarity.
-- 'Buy some antispasmodics, please.' Andrea requests pain relief medicine for her severe cramps. The short 'self' word sits right in front of the verb for 'purchase', turning the action back onto the subject.
-- 'I do not have any left at all.' Andrea admits she has completely run out of medication. The clause hinges on the everyday verb meaning 'have'.
-- 'All right, I am going right away.' Camille agrees to dash out immediately. The clause hinges on the everyday verb meaning 'go'.
-- 'It is not that, the baby is pressing down!' Andrea explains that the pain is from the baby. Dropping the subject pronoun turns the verb for 'bears down' into a direct, punchy command.
-- 'Are you okay? Does it hurt badly?' Camille checks on Andrea with growing alarm. Camille uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Yes, but I cannot move.' Andrea finds herself paralyzed by a sudden sharp wave. The clause hinges on the everyday verb meaning 'can'.
-- 'I am going immediately, do not move!' Camille rushes out to get help and medicine. The clause hinges on the everyday verb meaning 'go'. Now let's hear the whole conversation again.
+- 'All good, I finalized the contract.' Camille proudly reports her progress to Mathias.
+- 'There is just one little thing.' Camille cautiously raises an unresolved detail.
+- 'The size of the name on the poster.' Camille highlights the client's billing demands.
+- 'We already spoke about that, Camille.' Mathias firmly cuts short any renegotiation.
+- 'Given his role, it is important.' Camille insists on defending her client's prestige.
+- 'That is not possible, we will talk later.' Mathias defers the heated discussion.
+- 'Camille, come for a second, please!' Andrea urgently calls her assistant from her office.
+- 'You are going to go quickly to the pharmacy.' Andrea prepares to send Camille on an errand.
+- 'Buy some antispasmodics, please.' Andrea requests pain relief medicine for her severe cramps.
+- 'I do not have any left at all.' Andrea admits she has completely run out of medication.
+- 'All right, I am going right away.' Camille agrees to dash out immediately.
+- 'It is not that, the baby is pressing down!' Andrea explains that the pain is from the baby.
+- 'Are you okay? Does it hurt badly?' Camille checks on Andrea with growing alarm.
+- 'Yes, but I cannot move.' Andrea finds herself paralyzed by a sudden sharp wave.
+- 'I am going immediately, do not move!' Camille rushes out to get help and medicine. Now listen to the whole scene again at normal speed, and see how much more you catch.

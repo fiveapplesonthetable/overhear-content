@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi Julien. Mathias could not make it.' Gabriel announces Mathias's absence casually. Gabriel opens with the word for 'hi' and lands on 'to come' at the close.
-- 'Okay, no problem.' Julien accepts the situation smoothly. The negative phrase 'no' is the standard conversational way to dismiss an inconvenience.
-- 'Welcome, Sofia. How are you?' Julien greets Sofia warmly. The interjection 'welcome' welcomes a guest, paired with the familiar question 'it'.
-- 'Hi, I am doing very well.' Sofia returns the friendly greeting. The adverbial intensifier 'very' indicates that she is feeling enthusiastic and ready.
-- 'I made a few different arrangements for the song.' Julien reveals his creative work. Notice how the verb for 'I have' leads straight into 'song'.
-- 'Your voice inspired me so much...' Julien compliments Sofia's musical talent. The adverb meaning 'so much' sharpens the verb for 'has me' here.
-- 'Oh really? Thank you very much.' Sofia responds with modest gratitude. The conversational reaction 'ah' conveys pleasant surprise followed by thanks.
-- 'This way, come along.' Julien directs Sofia toward the recording area. The spatial locution 'by' guides a visitor politely through the studio.
-- 'Sorry, Gabriel, I prefer working in peace here.' Julien gently excludes Gabriel. The adjective meaning 'sorry' agrees in gender and number with feminine noun 'booth'.
-- 'All right, see you in a bit.' Gabriel steps back politely. Listen for the expression meaning 'the hour', which leads naturally into 'the hour'.
-- 'Here we are, this is the most important room in the studio.' Julien highlights the sacred space. The superlative 'the' emphasizes the central value of the vocal booth.
-- 'The most intimate. I will let you go in.' Julien ushers Sofia into the vocal chamber. The factitive verb 'let' means to permit someone to step inside.
-- 'Thank you, it is very impressive.' Sofia admires the professional setting. The adjective meaning 'impressive' agrees in gender and number with masculine noun 'thank you'.
-- 'Here are your headphones.' Julien hands her the audio gear. The presentative 'here is' presents an object directly to the listener.
-- 'Relax, everything is fine. Whenever you are ready.' Julien offers warm reassurance. The command form 'relax' encourages calm concentration before singing.
-- 'Okay, I am ready.' This everyday French sentence pairs 'all right' with 'ready'.
+- 'Hi Julien. Mathias could not make it.' Gabriel announces Mathias's absence casually.
+- 'Okay, no problem.' Julien accepts the situation smoothly.
+- 'Welcome, Sofia. How are you?' Julien greets Sofia warmly.
+- 'Hi, I am doing very well.' Sofia returns the friendly greeting.
+- 'I made a few different arrangements for the song.' Julien reveals his creative work.
+- 'Your voice inspired me so much...' Julien compliments the actress warmly on her inspiring voice.
+- 'Oh really? Thank you very much.' Sofia responds with modest gratitude.
+- 'This way, come along.' Julien directs Sofia toward the recording area.
+- 'Sorry, Gabriel, I prefer working in peace here.' Julien gently excludes Gabriel.
+- 'All right, see you in a bit.' Gabriel steps back politely.
+- 'Here we are, this is the most important room in the studio.' Julien highlights the sacred space.
+- 'The most intimate. I will let you go in.' Julien ushers Sofia into the vocal chamber.
+- 'Thank you, it is very impressive.' Sofia admires the professional setting.
+- 'Here are your headphones.' Julien hands her the audio gear.
+- 'Relax, everything is fine. Whenever you are ready.' Julien offers warm reassurance.
+- 'Okay, I am ready.' Sofia collects herself to perform.

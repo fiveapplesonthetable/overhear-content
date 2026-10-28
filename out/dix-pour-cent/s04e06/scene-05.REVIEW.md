@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A pastis, please!' Jean orders an aniseed aperitif from the cafe waiter. Jean uses the polite 'you' form alongside 'pleases' to keep a respectful professional tone.
-- 'Oh but Jean, it is ten in the morning.' Andrea reminds the actor of the early hour. The key noun here means 'hours', anchored by its matching French article.
-- 'Yes, but we have to talk.' Jean emphasizes that they have an important matter to discuss. The clause hinges on the everyday verb meaning 'must'.
-- 'Why drink so early in the morning?' Andrea inquires why he is drinking liquor before noon. Notice how 'to drink' leads directly into the noun meaning 'morning'.
-- 'We must be on equal footing.' Jean argues that they should share equal conditions for their talk. Notice how 'is necessary' leads directly into the noun meaning 'equality'.
-- 'How many have you had?' Andrea asks how many drinks he has already consumed. Andrea uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'This is only my second glass.' Jean downplays the amount he has had to drink. The key noun here means 'glass', anchored by its matching French article.
-- 'That is not like you at all.' Andrea remarks that heavy morning drinking is out of character for him. The two-part French negation brackets the verb for 'resembles' on both sides.
-- 'I needed to clear my thoughts.' Jean confides that his mind felt foggy and overburdened. Notice how 'had' leads directly into the noun meaning 'need'.
-- 'Do you have a serious problem?' Andrea probes whether some major crisis has occurred. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'I am tired of this profession.' Jean confesses his growing exhaustion with the film industry. The key noun here means 'profession', anchored by its matching French article.
-- 'You must stay calm, Jean.' Andrea advises him to maintain his composure. The descriptive adjective for 'calm' agrees in gender and number with its noun.
-- 'Pour me another one, please.' Jean signals the waiter to bring another round. The clause hinges on the everyday verb meaning 'pour again'.
-- 'No, listen to me first, Jean.' Andrea insists that he stop drinking and pay attention to her. Notice how the short vowel drops before a vowel sound around 'listen', making the phrase flow smoothly as one unit. Now let's hear the whole conversation again.
+- 'A pastis, please!' Jean orders an aniseed aperitif from the cafe waiter.
+- 'Oh but Jean, it is ten in the morning.' Andrea reminds the actor of the early hour.
+- 'Yes, but we have to talk.' Jean emphasizes that they have an important matter to discuss.
+- 'Why drink so early in the morning?' Andrea inquires why he is drinking liquor before noon.
+- 'We must be on equal footing.' Jean argues that they should share equal conditions for their talk.
+- 'How many have you had?' Andrea asks how many drinks he has already consumed.
+- 'This is only my second glass.' Jean downplays the amount he has had to drink.
+- 'That is not like you at all.' Andrea remarks that heavy morning drinking is out of character for him.
+- 'I needed to clear my thoughts.' Jean confides that his mind felt foggy and overburdened.
+- 'Do you have a serious problem?' Andrea probes whether some major crisis has occurred.
+- 'I am tired of this profession.' Jean confesses his growing exhaustion with the film industry.
+- 'You must stay calm, Jean.' Andrea advises him to maintain his composure.
+- 'Pour me another one, please.' Jean signals the waiter to bring another round.
+- 'No, listen to me first, Jean.' Andrea insists that he stop drinking and pay attention to her. Now listen to the whole scene again at normal speed, and see how much more you catch.

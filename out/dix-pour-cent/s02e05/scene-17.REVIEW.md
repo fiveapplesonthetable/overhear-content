@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I really love Julien Doré's new screenplay.' Notice how the verb for 'I love' leads straight into 'screenplay'.
-- 'It is a very original and ambitious project.' Gabriel supports his client's artistic vision. Notice how the verb for 'it is' leads straight into 'project'.
-- 'I find his writing particularly mature.' She compliments the depth of the text. Notice how the verb for 'find' leads straight into 'writing'.
-- 'Yes, but this movie pushes the boundaries quite far.' Gabriel hints at daring content. The adverb meaning 'yes' sharpens the verb for 'pushes' here.
-- 'Are you not afraid of an age restriction?' Élisabeth opens with the word for 'not' and lands on 'minors' at the close.
-- 'There is nothing too explicit in the text.' Gabriel tries to sound reassuring. Notice how the verb for 'has' leads straight into 'text'.
-- 'Except maybe that scene near the lake.' Gabriel unwittingly opens a dangerous topic. Gabriel opens with the word for 'maybe' and lands on 'lake' at the close.
-- 'Which scene are you talking about exactly?' Élisabeth pairs the verb meaning 'are you speaking' with the noun for 'scene'.
-- 'The scene where the woman cuts off the man's thing.' Gabriel blurted out the shocking detail. The key word here means 'scene', paired with 'man' to make the point clear.
-- 'I never read this sequence in my file!' The adverb meaning 'not' sharpens the verb for 'have' here.
-- 'Sorry, I think that I made a big blunder.' Gabriel realizes his terrible mistake. The feminine noun gaffe designates an embarrassing blunder.
-- 'Did you send a toned-down version to the committee?' Listen for the expression meaning 'have you', which leads naturally into 'committee'.
-- 'No, not at all, it was just a first draft.' Gabriel scrambles to minimize the slip. Notice how the verb for 'it was' leads straight into 'draft'.
-- 'Tell me the end of this scene anyway.' The key word here means 'tell me', paired with 'scene' to make the point clear.
-- 'She cooks the piece on a barbecue.' Gabriel confesses the absurd climax sheepishly. Notice how the verb for 'makes' leads straight into 'barbecue'.
-- 'Gabriel, your client is completely crazy!' Notice how the verb for 'is' leads straight into 'client'.
+- 'I really love Julien Doré's new screenplay.' Élisabeth expresses high enthusiasm for the project.
+- 'It is a very original and ambitious project.' Gabriel supports his client's artistic vision.
+- 'I find his writing particularly mature.' She compliments the depth of the text.
+- 'Yes, but this movie pushes the boundaries quite far.' Gabriel hints at daring content.
+- 'Are you not afraid of an age restriction?' Élisabeth wonders about censorship ratings.
+- 'There is nothing too explicit in the text.' Gabriel tries to sound reassuring.
+- 'Except maybe that scene near the lake.' Gabriel unwittingly opens a dangerous topic.
+- 'Which scene are you talking about exactly?' Élisabeth asks for immediate clarification.
+- 'The scene where the woman cuts off the man's thing.' Gabriel blurted out the shocking detail.
+- 'I never read this sequence in my file!' Élisabeth reacts with utter shock.
+- 'Sorry, I think that I made a big blunder.' Gabriel realizes his terrible mistake.
+- 'Did you send a toned-down version to the committee?' Élisabeth becomes suspicious of deception.
+- 'No, not at all, it was just a first draft.' Gabriel scrambles to minimize the slip.
+- 'Tell me the end of this scene anyway.' Élisabeth demands full transparency.
+- 'She cooks the piece on a barbecue.' Gabriel confesses the absurd climax sheepishly.
+- 'Gabriel, your client is completely crazy!' Élisabeth concludes in disbelief.

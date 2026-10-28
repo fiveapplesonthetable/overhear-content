@@ -30,18 +30,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, Mathias is in his office.' Camille points Gabriel toward the corner office.
-- 'Mathias, can I have a word with you?' Notice how the verb for 'can' leads straight into 'word'.
-- 'What is going on?' Listen for the expression meaning 'is happening', which leads naturally into 'is happening'.
-- 'Regarding Virginie, I would prefer that you take her back.' Gabriel opens with the word for 'would prefer' and lands on 'take back' at the close.
-- 'No, please have mercy!' Pitie is a noun meaning pity or mercy, used here as an exclamation.
-- 'She is on the verge of breaking down.' The key word here means 'is', paired with 'cracking' to make the point clear.
-- 'I just asked you for help.' Listen for the expression meaning 'have you', which leads naturally into 'help'.
-- 'Do you really want me to help you?' Listen for the expression meaning 'want', which leads naturally into 'help you'.
-- 'Of course!' Mathias opens with the word for 'of' and lands on 'course' at the close.
-- 'Since you separated from your wife, you are more human.' The adjective meaning 'human' agrees in gender and number with feminine noun 'wife'.
-- 'It is temporary.' The key word here means 'temporary', paired with 'temporary' to make the point clear.
+- 'Mathias, can I have a word with you?' Gabriel steps into Mathias's office and asks for a quick word.
+- 'What is going on?' Mathias warily asks what is going on now.
+- 'Regarding Virginie, I would prefer that you take her back.' Gabriel politely asks Mathias to take Virginie back as his client.
+- 'No, please have mercy!' Exhausted by the breakup drama, Mathias begs Gabriel for mercy.
+- 'She is on the verge of breaking down.' Gabriel warns him that Virginie is inches away from a nervous breakdown.
+- 'I just asked you for help.' Mathias claims he only asked Gabriel to help out during the crisis.
+- 'Do you really want me to help you?' Gabriel asks if Mathias genuinely wants his help.
+- 'Of course!' Mathias insists that of course he wants Gabriel's help.
+- 'Since you separated from your wife, you are more human.' Gabriel observes that separating from his wife has made Mathias more human.
+- 'It is temporary.' Mathias stiffly insists that the separation is only temporary.
 - 'The separation or the humanity?' Gabriel teases Mathias with a clever contrast.
-- 'Once reconciled, I will have both again.' Listen for the expression meaning 'time', which leads naturally into 'new'.
-- 'When does a real relationship begin, then?' The adjective meaning 'real' agrees in gender and number with feminine noun 'relationship'.
-- 'A romantic comedy.' Mathias opens with the word for 'comedy' and lands on 'romantic' at the close.
-- 'A romantic comedy is not bad at all!' The key word here means 'comedy', paired with 'bad' to make the point clear.
+- 'Once reconciled, I will have both again.' Mathias jokes that once Catherine takes him back, he will have both.
+- 'When does a real relationship begin, then?' Gabriel asks when a real relationship actually begins, in Mathias's view.
+- 'A romantic comedy.' Mathias calls the carefree early stage of love a romantic comedy.
+- 'A romantic comedy is not bad at all!' Overhearing them, Camille smiles that a romantic comedy is already pretty good.

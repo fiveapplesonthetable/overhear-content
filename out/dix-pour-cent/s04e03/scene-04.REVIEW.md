@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot shoot like this!' Jose complains that he cannot film in his current state. Notice the classic French sandwich negation wrapping right around 'can'.
-- 'It is only a little hiccup.' Andrea attempts to downplay his nervous panic. The key noun here means 'hiccup.', anchored by its matching French article.
-- 'I will drink upside down.' Jose tries an old folk remedy to stop the spasms. French forms the near future by pairing the present tense of 'to go' directly with 'to drink'.
-- 'What is the problem with Laurence?' Andrea zeroes in on the true emotional issue. The key noun here means 'problem', anchored by its matching French article.
-- 'We met on a film shoot.' Jose recalls their first meeting twenty years ago. Notice how 'met' leads directly into the noun meaning 'shoot.'.
-- 'It was love at first sight.' Jose describes the instant romantic spark between them. Notice how 'was' leads directly into the noun meaning 'strike'.
-- 'We lived two months of passion.' Jose recounts the secret affair they once shared. The verb meaning 'have' pairs naturally with the noun for 'months' in everyday conversation.
-- 'And you went to the hotel?' Andrea asks about their planned final rendezvous. Notice how 'gone' leads directly into the noun meaning 'hotel?'.
-- 'I stopped in front of the door.' Jose remembers pausing outside hotel room ten. This conversational past tense combines a helper verb with the past verb form for 'stopped'.
-- 'I left to avoid the drama.' Jose explains that he walked away to protect others. The verb meaning 'left' pairs naturally with the noun for 'drama.' in everyday conversation.
-- 'You did what was necessary.' Andrea reassures him that he made the right choice. The clause hinges on the everyday verb meaning 'have'.
-- 'Look, my hiccup is finally gone!' Jose realizes that the emotional release cured him. Dropping the subject pronoun turns the verb for 'look' into a direct, punchy command.
-- 'What did I tell you?' Andrea smiles at the successful cure of his hiccups. In spoken French, the little word before 'had' drops its final vowel and attaches with an apostrophe.
-- 'Come on, let's go now!' Jose returns eagerly to the set to resume filming. The clause hinges on the everyday verb meaning 'go'.
+- 'I cannot shoot like this!' Jose complains that he cannot film in his current state.
+- 'It is only a little hiccup.' Andrea attempts to downplay his nervous panic.
+- 'I will drink upside down.' Jose tries an old folk remedy to stop the spasms.
+- 'What is the problem with Laurence?' Andrea zeroes in on the true emotional issue.
+- 'We met on a film shoot.' Jose recalls their first meeting twenty years ago.
+- 'It was love at first sight.' Jose describes the instant romantic spark between them.
+- 'We lived two months of passion.' Jose recounts the secret affair they once shared.
+- 'And you went to the hotel?' Andrea asks about their planned final rendezvous.
+- 'I stopped in front of the door.' Jose remembers pausing outside hotel room ten.
+- 'I left to avoid the drama.' Jose explains that he walked away to protect others.
+- 'You did what was necessary.' Andrea reassures him that he made the right choice.
+- 'Look, my hiccup is finally gone!' Jose realizes that the emotional release cured him.
+- 'What did I tell you?' Andrea smiles at the successful cure of his hiccups.
+- 'Come on, let's go now!' Jose returns eagerly to the set to resume filming.

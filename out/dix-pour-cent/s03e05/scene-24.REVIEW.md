@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you leave Colette alone tonight?' Hicham asks Andrea about her domestic evening. The adjective meaning 'alone' takes its feminine form here to match the noun it describes.
-- 'Her mother is present at the house.' Andrea explains that family is helping at home. The key noun here means 'mother', anchored by its matching French article.
-- 'It is my first outing in a month.' Andrea savors a rare break from infant childcare. The adjective meaning 'first' takes its feminine form here to match the noun it describes.
-- 'Yet we must talk about the agency.' Hicham tries to address the crisis at ASK. Notice how 'must' leads directly into the noun meaning 'agency'.
-- 'Let me savor my drink two minutes.' Andrea asks for a brief moment of quiet pleasure. The verb meaning 'let me' pairs naturally with the noun for 'drink' in everyday conversation.
-- 'The situation at ASK is becoming critical.' Hicham outlines the acute stress at the agency. Notice how 'becomes' leads directly into the noun meaning 'situation'.
-- 'It is no longer the time to leave.' Andrea realizes walking away right now would be fatal. The verb meaning 'leave' pairs naturally with the noun for 'moment' in everyday conversation.
-- 'Did you speak about that with Mathias?' Hicham checks if senior partners are aligned. Inverting the verb and pronoun around 'have you' creates a crisp, polished question.
-- 'No, but I clearly see the problems.' Andrea observes the ongoing damage firsthand. The verb meaning 'see' pairs naturally with the noun for 'problems' in everyday conversation.
-- 'We cannot abandon the team.' Hicham appeals to their shared commitment to ASK. Notice how 'can' leads directly into the noun meaning 'team'.
-- 'I do not want to ruin anything between us.' Andrea acknowledges the value of their partnership. The two-part negative frame surrounds 'want' to mean 'nothing at all'.
-- 'I am deeply relieved to hear you.' Hicham lets out a long sigh of emotional release. The clause hinges on the everyday verb meaning 'relieved'.
-- 'We were truly on the edge of the cliff.' Andrea looks back at their close brush with disaster. The verb meaning 'were' pairs naturally with the noun for 'edge' in everyday conversation.
-- 'Ultimately, nobody wants to jump into the unknown.' Hicham sums up their collective decision to stay. Notice how 'wants' leads directly into the noun meaning 'unknown'. Now let's hear the whole conversation again.
+- 'Did you leave Colette alone tonight?' Hicham asks Andrea about her domestic evening.
+- 'Her mother is present at the house.' Andrea explains that family is helping at home.
+- 'It is my first outing in a month.' Andrea savors a rare break from infant childcare.
+- 'Yet we must talk about the agency.' Hicham tries to address the crisis at ASK.
+- 'Let me savor my drink two minutes.' Andrea asks for a brief moment of quiet pleasure.
+- 'The situation at ASK is becoming critical.' Hicham outlines the acute stress at the agency.
+- 'It is no longer the time to leave.' Andrea realizes walking away right now would be fatal.
+- 'Did you speak about that with Mathias?' Hicham checks if senior partners are aligned.
+- 'No, but I clearly see the problems.' Andrea observes the ongoing damage firsthand.
+- 'We cannot abandon the team.' Hicham appeals to their shared commitment to ASK.
+- 'I do not want to ruin anything between us.' Andrea acknowledges the value of their partnership.
+- 'I am deeply relieved to hear you.' Hicham lets out a long sigh of emotional release.
+- 'We were truly on the edge of the cliff.' Andrea looks back at their close brush with disaster.
+- 'Ultimately, nobody wants to jump into the unknown.' Hicham sums up their collective decision to stay. Now listen to the scene again at normal speed and see how much you understand.

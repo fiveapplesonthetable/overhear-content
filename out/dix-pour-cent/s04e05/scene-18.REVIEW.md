@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the Debilly footbridge in Paris.' Sigourney walks onto the pedestrian bridge over the river. The key noun here means 'footbridge', anchored by its matching French article.
-- 'What a magnificent view over the Seine!' Sigourney admires the iconic Parisian panorama. The key noun here means 'view', anchored by its matching French article.
-- 'Hello ma'am! Look at my beautiful souvenirs!' A street vendor invites her to browse his items. Dropping the subject pronoun turns the verb for 'look at' into a direct, punchy command.
-- 'Hello! Do you have Eiffel Towers?' Sigourney asks about miniature models of the monument. Sigourney uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
-- 'Yes, I have small miniatures.' The seller displays his collection of tiny replicas. The verb meaning 'have' pairs naturally with the noun for 'miniatures' in everyday conversation.
-- 'They are really very cute!' Sigourney is charmed by the little trinkets. The adverb meaning 'really' gives the reply its conversational emphasis.
-- 'Which one do you prefer? The golden one?' The seller offers her a shiny gold version. This conversational past tense combines a helper verb with the past verb form for 'do you prefer'.
-- 'Yes, I will take this little tower.' Sigourney makes her selection from the stand. The verb meaning 'take' pairs naturally with the noun for 'tower' in everyday conversation.
-- 'It is five euros, please.' The vendor tells her the cost of the souvenir. The key noun here means 'euros', anchored by its matching French article.
-- 'Here, take a ten-euro bill.' Sigourney hands over a banknote to pay. Notice how 'here' leads directly into the noun meaning 'banknote'.
-- 'Thank you very much! Are you waiting for someone?' The vendor notices her looking down the walkway. In everyday spoken French, rising intonation on 'are waiting for' at the end is enough to turn the sentence into a question.
-- 'Yes, I have a secret meeting.' Sigourney shares that she is meeting a mystery companion. Notice how 'have' leads directly into the noun meaning 'meeting'.
-- 'Watch out for photographers on the bridge!' The seller points out paparazzi hiding nearby. The key noun here means 'photographers', anchored by its matching French article.
-- 'Thank you! Ah, here he comes!' Sigourney waves as her companion walks onto the bridge. The clause hinges on the everyday verb meaning 'arrives'.
+- 'Here is the Debilly footbridge in Paris.' Sigourney walks onto the pedestrian bridge over the river.
+- 'What a magnificent view over the Seine!' Sigourney admires the iconic Parisian panorama.
+- 'Hello ma'am! Look at my beautiful souvenirs!' A street vendor invites her to browse his items.
+- 'Hello! Do you have Eiffel Towers?' Sigourney asks about miniature models of the monument.
+- 'Yes, I have small miniatures.' The seller displays his collection of tiny replicas.
+- 'They are really very cute!' Sigourney is charmed by the little trinkets.
+- 'Which one do you prefer? The golden one?' The seller offers her a shiny gold version.
+- 'Yes, I will take this little tower.' Sigourney makes her selection from the stand.
+- 'It is five euros, please.' The vendor tells her the cost of the souvenir.
+- 'Here, take a ten-euro bill.' Sigourney hands over a banknote to pay.
+- 'Thank you very much! Are you waiting for someone?' The vendor notices her looking down the walkway.
+- 'Yes, I have a secret meeting.' Sigourney shares that she is meeting a mystery companion.
+- 'Watch out for photographers on the bridge!' The seller points out paparazzi hiding nearby.
+- 'Thank you! Ah, here he comes!' Sigourney waves as her companion walks onto the bridge.

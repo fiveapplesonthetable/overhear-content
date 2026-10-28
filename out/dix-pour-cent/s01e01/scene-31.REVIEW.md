@@ -31,16 +31,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'There.' A tiny word for 'here it is' or 'that's it', and you'll hear it in every French conversation.
-- 'I have the figures you wanted.' Camille writes the formal 'you' to her boss. The last verb is in a past form that describes what someone wanted for a while.
+- 'I have the figures you wanted.' Camille writes the formal 'you' to her boss.
 - 'Goodbye, Andréa.' The standard polite goodbye, literally 'until seeing again'. Camille heads for the stairs. Andréa, on the phone, sees the note.
-- 'I'll call you back, okay?' She hangs up fast. The verb is in the present tense, but it means something that will happen soon, which French does a lot.
-- 'Camille, wait!' This is a command with the formal 'you': it's simply the formal present tense form, used without the word for 'you'. Andréa runs down the stairs after her.
+- 'I'll call you back, okay?' She hangs up fast.
+- 'Camille, wait!' This is a command with the formal 'you': it's simply the formal present form, used without the word for 'you'. Andréa runs down the stairs after her.
 - 'Richard, hello! The Chekhov was fabulous.' Even while running, Andréa greets a man she knows from the theatre and praises a play by Chekhov. She never stops being an agent.
-- 'Andréa? But I'm not your assistant anymore.' Here, 'not anymore' is two little words around the verb: the first one, and then one that means 'more'.
-- 'Okay, give me the figures.' Another formal command. The word for 'me' goes after the verb, joined with a hyphen, when you give an order.
+- 'Andréa? But I'm not your assistant anymore.' Here, 'not anymore' is two little words around the action word: the first one, and then one that means 'more'.
+- 'Okay, give me the figures.' Another formal command.
 - 'Here. There they are.' The first word is what you say when you hand something to someone you call by the formal 'you'.
 - 'So?' Literally 'and then?'. Camille waits while Andréa reads, with her heart beating.
-- 'I'm keeping you.' Just three words. The formal 'you' sits before the verb, the usual place for these small object words.
+- 'I'm keeping you.' Just three words.
 - 'Really? For sure?' Literally 'it's sure?'. Camille can't believe it.
 - 'Yes, for sure.' Andréa means it. The firing is cancelled.
 - 'Oh, thank you! Thank you, Andréa!' In the show, Camille also lets a rude word slip out of pure joy. We kept the thank-yous.

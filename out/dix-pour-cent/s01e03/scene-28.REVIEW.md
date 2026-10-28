@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can I give you my papers?' Andréa links 'I' directly with 'can' to express the thought clearly. Then Colette responds.
+- 'Can I give you my papers?' Andréa uses the formal 'you' with Colette. The formal 'you' sits between 'can' and 'give', because it means 'to you'.
 - 'Yes, of course.' Polite, but not warm. Colette is all business.
 - 'There you go.' The word you say as you hand something over.
-- 'Ms Martel? This isn't for me.' Colette has found something in the pile that shouldn't be there. Notice the 'not' again: two little words around the verb.
+- 'Ms Martel? This isn't for me.' Colette has found something in the pile that shouldn't be there.
 - 'Really? What is it?' The first two words show surprise, a little like 'oh, really?'. The question 'what is it' puts the question word at the end, as people often do when speaking.
 - 'It's your medical results.' Oops. A very private document has slipped in with the tax papers. The verb is the plural form, because 'results' is plural.
-- 'Oh, sorry! It was on my desk.' The second word is a quick 'sorry'. The verb 'it was' is in a past form used for describing how things were.
+- 'Oh, sorry! It was on my desk.' The second word is a quick 'sorry'.
 - 'Goodbye, Ms Martel.' Very correct, with the title and the surname.
 - 'Yes, goodbye.' Andréa is embarrassed and wants this to be over. But Colette stops at the door.
 - 'Are you stressed about the audit?' The word for 'stressed' has a feminine ending in writing, because she's talking to a woman.
 - 'You don't like losing control.' After 'to like', French uses the plain verb: literally 'you don't like to lose the control'.
 - 'You're a woman who likes power, Andréa!' Literally 'a woman of power'. And for the first time, Colette uses Andréa's first name. A small opening.
-- 'Shall we go and eat?' Andréa jumps at the chance. The verb 'to go' plus another verb is the near future, and the little word for 'we' makes it an invitation.
+- 'Shall we go and eat?' Andréa jumps at the chance.
 - 'No, I'm going home.' The last two words mean 'at my place'. A polite but clear no.
 - 'Thanks anyway.' The second word softens the refusal: 'all the same'.
 - 'You're right. See you tomorrow.' 'To be right' in French is 'to have reason'. Andréa takes the no gracefully; the audit goes on tomorrow.

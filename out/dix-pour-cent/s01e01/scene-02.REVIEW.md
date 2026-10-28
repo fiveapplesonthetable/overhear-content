@@ -44,10 +44,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'One at noon, the other at two.' French offices often use the twenty-four-hour clock, so two in the afternoon is fourteen hours.
 - 'I'm going to have lunch twice.' Here's a handy pattern: the verb 'to go' plus a plain verb gives you the near future, exactly like 'I'm going to' in English.
 - 'Call Clémentine.' Now a string of orders in the casual form. Clémentine is a woman Andréa is seeing, and she wants to cancel tonight's date.
-- 'Tell her I can't come tonight.' The command comes first, joined to the little word for 'to her'. And notice the negative again, wrapped around the verb 'can'.
+- 'Tell her I can't come tonight.' The command comes first, joined to the little word for 'to her'.
 - 'Clémentine? The one from last week?' Magali can't keep up with Andréa's love life.
 - 'Is there another Clémentine?' Andréa teases her right back.
 - 'What do I tell her?' A useful question starter that simply means 'what'.
 - 'I don't know. Think of something.' Another casual command: think up, come up with something.
 - 'Say I've got a meeting. Improvise!' That last word is the same as in English, and it's Andréa's motto. Meanwhile, across the room, Mathias stops at Gabriel's desk.
-- 'Gabriel. Aren't you calling Cécile de France back?' Meanwhile, Cécile has been calling, and Gabriel hasn't picked up. He mumbles that he'll call her. Only we know why he's hiding. Let's hear the morning rush once more, all the way through.
+- 'Gabriel. Aren't you calling Cécile de France back?' Here, Cécile has been calling, and Gabriel hasn't picked up. He mumbles that he'll call her. Only we know why he's hiding. Let's hear the morning rush once more, all the way through.

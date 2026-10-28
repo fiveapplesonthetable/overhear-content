@@ -30,20 +30,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Camille, give me an explanation.' Andréa demands answers after the disastrous meeting.
+- 'Camille, give me an explanation.' Andrea demands answers after the disastrous meeting.
 - 'We have just lost Sacha Hartman and Isabelle Adjani.' Hicham highlights the catastrophic loss.
 - 'The real problem is Camille.' Hicham directs everyone's anger toward the young assistant.
-- 'She threw the screenplay in the trash.' Andréa explains Camille's shocking behavior.
+- 'She threw the screenplay in the trash.' Andrea explains Camille's shocking behavior.
 - 'Maybe she is a mole.' Hicham suspects corporate espionage from a rival agency.
 - 'At the slightest doubt, she is out.' Hicham threatens immediate dismissal.
 - 'I am the one who asked her to lie.' Mathias steps forward and confesses his instructions.
 - 'I am the one who threw out this script.' Mathias takes personal ownership of the old grudge.
 - 'Camille is my daughter.' Mathias delivers the stunning revelation that shocks the entire agency.
-- 'Pardon? Your daughter?' Andréa reacts with utter disbelief and shock.
+- 'Pardon? Your daughter?' Andrea reacts with utter disbelief and shock.
 - 'When were you planning to tell us?' Hicham questions the senior agent's secrecy.
 - 'When the time came. Today, apparently.' Mathias answers with bitter resignation.
-- 'She has been here for nine months!' Andréa is appalled by how long the secret was kept.
-- 'You really made fun of us!' Andréa expresses anger over being deceived by her colleague.
+- 'She has been here for nine months!' Andrea is appalled by how long the secret was kept.
+- 'You really made fun of us!' Andrea expresses anger over being deceived by her colleague.
 - 'I take full responsibility.' Mathias refuses to deflect blame onto his daughter.
 - 'If someone has to leave, it is me.' Mathias offers his own resignation to save Camille.
 - 'I completely agree.' Hicham coldly accepts the senior partner's departure.

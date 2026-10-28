@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a profound and intelligent screenplay.' Isabelle praises the artistic depth of the text. The paired adjectives follow the masculine singular noun.
-- 'It is powerful dramatic art.' She expresses admiration for the intensity of the role. The descriptive adjective precedes the strong closing adjective.
-- 'It is everything that I love.' The star connects passionately with the creative vision. The relative clause combines pointing word pronoun with subject verb.
-- 'Is it good? I will close the deal.' Mathias prepares to negotiate contracts on her behalf. The near future tense announces immediate professional action.
-- 'You must know an important thing.' The agent issues a diplomatic preliminary warning. The semi-helping verb precedes an infinitive of knowledge.
-- 'Sacha Hartman is not easy.' Mathias describes the director's notoriously stubborn temperament. The negative structure surrounds the 'he/she/they' copula.
-- 'I am used to it, you know.' Isabelle brushes off the concern with experienced confidence. The adverbial pronoun stands in for difficult director relationships.
-- 'I can be exhausting too.' The diva playfully acknowledges her own demanding reputation. The modal verb indicates personal capability followed by an adjective.
-- 'He makes his entire crew sing.' Mathias mentions an eccentric routine between rehearsal takes. Listen for the expression meaning 'makes', which leads naturally into 'film crew'.
-- 'I have always loved your frankness.' Isabelle values transparent communication from her agent. Listen for the expression meaning 'I have', which leads naturally into 'candor'.
-- 'If there is a problem, say so.' She invites direct truth about any casting obstacles. Isabelle opens with the word for 'is' and lands on 'say it' at the close.
-- 'Did Hartman choose someone else?' Isabelle cuts straight to the central question. The indefinite expression refers to another prospective actor.
-- 'Andréa was a bit too hasty.' Mathias gently blames his colleague for premature promises. The adverbial modifier softens the assessment of haste.
-- 'He is thinking of an American actress.' The agent reveals rival international interest. The prepositional verb introduces the competitor role.
-- 'Yes, of course. It is a pity.' Isabelle acknowledges the setback with quiet dignity. The polite confirmation closes their candid mealtime discussion.
+- 'It is a profound and intelligent screenplay.' Isabelle praises the artistic depth of the text.
+- 'It is powerful dramatic art.' She expresses admiration for the intensity of the role.
+- 'It is everything that I love.' The star connects passionately with the creative vision.
+- 'Is it good? I will close the deal.' Mathias prepares to negotiate contracts on her behalf.
+- 'You must know an important thing.' The agent issues a diplomatic preliminary warning.
+- 'Sacha Hartman is not easy.' Mathias describes the director's notoriously stubborn temperament.
+- 'I am used to it, you know.' Isabelle brushes off the concern with experienced confidence.
+- 'I can be exhausting too.' The diva playfully acknowledges her own demanding reputation.
+- 'He makes his entire crew sing.' Mathias mentions an eccentric routine between rehearsal takes.
+- 'I have always loved your frankness.' Isabelle values transparent communication from her agent.
+- 'If there is a problem, say so.' She invites direct truth about any casting obstacles.
+- 'Did Hartman choose someone else?' Isabelle cuts straight to the central question.
+- 'Andréa was a bit too hasty.' Mathias gently blames his colleague for premature promises.
+- 'He is thinking of an American actress.' The agent reveals rival international interest.
+- 'Yes, of course. It is a pity.' Isabelle acknowledges the setback with quiet dignity.

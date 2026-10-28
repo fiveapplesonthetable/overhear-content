@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is the party for our thirty years.' Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'Our agency has lasted for thirty long years.' A nostalgic acknowledgment recognizing three decades of collective endurance. Notice how 'holds' leads directly into the noun meaning 'talent firm'.
-- 'This success exists thanks to the four of us.' The verb meaning 'exists' pairs naturally with the noun for 'success' in everyday conversation.
-- 'We do not need to be friends.' In spoken French, the little word before 'have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'have' drops its final vowel and attaches with an apostrophe.
-- 'I want to grow this beautiful agency.' Notice how 'want' leads directly into the noun meaning 'talent firm'. Notice how 'want' leads directly into the noun meaning 'talent firm'.
-- 'I am ready to increase your shares.' A major financial concession offering increased ownership stakes. The descriptive adjective for 'ready' agrees in gender and number with its noun.
-- 'I can also increase your fixed salaries.' An additional financial enticement proposing higher base compensation. The verb meaning 'can' pairs naturally with the noun for 'salaries' in everyday conversation.
-- 'I am ready to discuss calmly together.' The clause hinges on the everyday verb meaning 'chat'.
-- 'We are not beggars, Mathias.' An indignant rebuke rejecting what sounds like patronizing charity. The two-part French negation brackets the verb for 'the verb' on both sides.
-- 'Wait a bit, this offer is worth considering.' A calculating intervention calling for thoughtful deliberation. The verb meaning 'wait for' pairs naturally with the noun for 'offer' in everyday conversation.
-- 'There is absolutely nothing to negotiate!' The clause hinges on the everyday verb meaning 'has'.
-- 'We are not going to tear each other apart tonight.' A sensible appeal enforcing decorum before an audience of film industry guests. French forms the near future by pairing the present tense of 'to go' directly with 'to tear apart'.
-- 'Our clients are watching our team closely.' The verb meaning 'observe' pairs naturally with the noun for 'clients' in everyday conversation.
-- 'We are all worth much better than that.' An earnest conclusion appealing to mutual self-respect and dignity. The clause hinges on the everyday verb meaning 'are worth'.
+- 'It is the party for our thirty years.' A celebratory opening emphasizing the historic anniversary milestone.
+- 'Our agency has lasted for thirty long years.' A nostalgic acknowledgment recognizing three decades of collective endurance.
+- 'This success exists thanks to the four of us.' A generous admission crediting the original founding quartet.
+- 'We do not need to be friends.' A pragmatic statement prioritizing professional collaboration over personal affection.
+- 'I want to grow this beautiful agency.' An ambitious promise declaring an expansive corporate future for ASK.
+- 'I am ready to increase your shares.' A major financial concession offering increased ownership stakes.
+- 'I can also increase your fixed salaries.' An additional financial enticement proposing higher base compensation.
+- 'I am ready to discuss calmly together.' A diplomatic invitation seeking peaceful terms of reconciliation.
+- 'We are not beggars, Mathias.' An indignant rebuke rejecting what sounds like patronizing charity.
+- 'Wait a bit, this offer is worth considering.' A calculating intervention calling for thoughtful deliberation.
+- 'There is absolutely nothing to negotiate!' An uncompromising refusal shutting down further corporate horse-trading.
+- 'We are not going to tear each other apart tonight.' A sensible appeal enforcing decorum before an audience of film industry guests.
+- 'Our clients are watching our team closely.' A sobering reminder highlighting the professional scrutiny surrounding the gala.
+- 'We are all worth much better than that.' An earnest conclusion appealing to mutual self-respect and dignity.

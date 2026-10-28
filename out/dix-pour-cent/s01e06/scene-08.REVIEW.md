@@ -34,15 +34,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And the agency? The buyout of the agency?' She knows how much owning ASK means to him.
 - 'After what happened with your wife, does that change anything?' She asks directly about the consequences.
 - 'Listen, I am handling it, okay?' Mathias uses his favourite verb for managing a crisis.
-- 'Are you going to stay standing there for a long time?' Camille opens with the word for 'are going' and lands on 'for a long time' at the close.
+- 'Are you going to stay standing there for a long time?' A near-future question asking about his intentions.
 - 'I do not know.' A short, honest admission of defeat from a man who usually controls everything.
 - 'If I had not moved to Paris,' Camille begins to imagine an alternate version of her life.
-- 'And if I had not come to see you here,' Notice the feminine agreement on the past verb form because Camille speaks.
+- 'And if I had not come to see you here,' Notice the feminine agreement on the past participle because Camille speaks.
 - 'You would buy the agency and your family would be happy.' Two conditional verbs describing that alternate reality.
 - 'As for me, I would still be selling clothes in the South.' She reminds him of what she left behind in Provence.
 - 'What do you want me to tell you?' A very common rhetorical question expressing helplessness.
 - 'That is just how it is.' A philosophical conclusion accepting reality.
 - 'Who was that producer looking for an assistant?' Camille shifts gears and looks toward the future.
 - 'Who, Dominique Besnehard?' Mathias mentions the name of a real-life French film producer.
-- 'I am going to call him.' Camille opens with the word for 'am going' and lands on 'to call him' at the close.
-- 'In case he is still looking.' A helpful conditional phrase used with the present tense. Let's listen to this poignant conversation between father and daughter once more.
+- 'I am going to call him.' Camille decides to call her landlord Philippe right away.
+- 'In case he is still looking.' Camille hopes Philippe is still looking for a tenant for his apartment. Let's listen to this poignant conversation between father and daughter once more.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing there?' Noemie notices Mathias frantically moving around the kitchen. The informal 'you' form around 'do' marks a direct, personal relationship.
-- 'I am preparing extra rice.' Mathias adjusts his dinner plans on the fly. The verb meaning 'prepare' pairs naturally with the noun for 'rice' in everyday conversation.
-- 'And for the main course?' Noemie inquires about the rest of the meal. The descriptive adjective for 'main' agrees in gender and number with its noun.
-- 'We will serve plenty of wine.' Mathias counts on alcohol to cover the missing dish. Notice how 'is going to' leads directly into the noun meaning 'wine'.
-- 'Igor is arriving with a surprise guest.' Noemie reveals who just appeared at their door. Notice how 'arrives' leads directly into the noun meaning 'guest'.
-- 'Is it not his wife Beatrice?' Mathias whispers in astonishment. In everyday spoken French, rising intonation on 'wife' at the end is enough to turn the sentence into a question.
-- 'No, it is his mistress Claire.' Noemie clarifies the awkward social reality. The key noun here means 'mistress', anchored by its matching French article.
-- 'We must stay calm and polite.' Mathias reminds her to maintain professional courtesy. The descriptive adjective for 'calm' agrees in gender and number with its noun.
-- 'Where is the respect in that?' Noemie criticizes the lack of basic propriety. The key noun here means 'respect', anchored by its matching French article.
-- 'We cannot sit in judgment of adultery.' Mathias acknowledges their own complicated history. The two-part French negation brackets the verb for 'can' on both sides.
-- 'Our story was totally different!' Noemie passionately defends their past romance. Notice how 'was' leads directly into the noun meaning 'story'.
-- 'We suffered as well.' Mathias remembers the guilt and heartache they experienced together. This conversational past tense combines a helper verb with the past verb form for 'suffered'.
-- 'We were romantic and sincere.' Noemie insists that their feelings were noble and pure. The clause hinges on the everyday verb meaning 'were'.
-- 'Then let us smile to save the evening.' Mathias offers a warm concluding reassurance. The verb meaning 'let us smile' pairs naturally with the noun for 'evening' in everyday conversation.
+- 'What are you doing there?' Noemie notices Mathias frantically moving around the kitchen.
+- 'I am preparing extra rice.' Mathias adjusts his dinner plans on the fly.
+- 'And for the main course?' Noemie inquires about the rest of the meal.
+- 'We will serve plenty of wine.' Mathias counts on alcohol to cover the missing dish.
+- 'Igor is arriving with a surprise guest.' Noemie reveals who just appeared at their door.
+- 'Is it not his wife Beatrice?' Mathias whispers in astonishment.
+- 'No, it is his mistress Claire.' Noemie clarifies the awkward social reality.
+- 'We must stay calm and polite.' Mathias reminds her to maintain professional courtesy.
+- 'Where is the respect in that?' Noemie criticizes the lack of basic propriety.
+- 'We cannot sit in judgment of adultery.' Mathias acknowledges their own complicated history.
+- 'Our story was totally different!' Noemie passionately defends their past romance.
+- 'We suffered as well.' Mathias remembers the guilt and heartache they experienced together.
+- 'We were romantic and sincere.' Noemie insists that their feelings were noble and pure.
+- 'Then let us smile to save the evening.' Mathias offers a warm concluding reassurance.

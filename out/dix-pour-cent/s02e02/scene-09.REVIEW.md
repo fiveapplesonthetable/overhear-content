@@ -40,8 +40,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do what you want, but do not represent her.' Mathias draws a strict line between romance and representation.
 - 'I do what I want with my clients.' Gabriel asserts his autonomy as an agent.
 - 'Every file is sacred here. Always.' Gabriel emphasizes professional devotion.
-- 'Frankly, Gabriel, he is not wrong.' Andréa steps in to support Mathias's practical view.
-- 'It is not good for a couple to work together.' Andréa warns of the emotional friction.
+- 'Frankly, Gabriel, he is not wrong.' Andrea steps in to support Mathias's practical view.
+- 'It is not good for a couple to work together.' Andrea warns of the emotional friction.
 - 'Legendary couples worked together.' Gabriel tries to cite historical precedents.
-- 'One beat his wife, the other was murdered.' Andréa swiftly dismantles his romanticized examples.
+- 'One beat his wife, the other was murdered.' Andrea swiftly dismantles his romanticized examples.
 - 'I am completely exhausted with this story.' Gabriel confesses his frustration under the pressure.

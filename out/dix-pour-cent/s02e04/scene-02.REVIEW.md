@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Isabelle, are you doing well today?' Listen for the expression meaning 'go', which leads naturally into 'today'.
-- 'Very well, Andréa, thank you very much.' Isabelle opens with the word for 'very' and lands on 'much' at the close.
+- 'Hello Isabelle, are you doing well today?' A warm greeting inquiring about well-being.
+- 'Very well, Andréa, thank you very much.' A gracious response accompanied by polite thanks.
 - 'Do you handle the director Sacha Hartman?' A pronominal verb inquiring about client representation.
-- 'Yes, I take care of him.' The key word here means 'take care of', paired with 'take care of' to make the point clear.
+- 'Yes, I take care of him.' A confirmed statement of professional agency responsibility.
 - 'I love his work, he is very talented.' High praise from an esteemed cinema star.
 - 'Winning a Palme d'Or, that is wonderful.' An admiration of prestigious festival success.
 - 'He has a very fine role for you.' An enticing pitch linking client to new project.
 - 'Really? But I never solicit roles.' An assertion of artistic dignity and status.
 - 'Isabelle prefers that a director asks her.' Mathias defends his star client's traditional protocol.
-- 'Directors also like to feel wanted.' Andréa counters with modern auteur psychology.
+- 'Directors also like to feel wanted.' Andrea counters with modern auteur psychology.
 - 'We had better read the script.' A cautious conditional recommendation.
 - 'Sacha is in Paris right now.' A temporal locator creating opportune urgency.
 - 'All right, but please, be discreet.' A conditional agreement demanding absolute discretion.

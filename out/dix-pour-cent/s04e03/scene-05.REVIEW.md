@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you well? You seem very tired.' Camille gently observes Sophia's obvious fatigue before the shoot. Camille uses the casual singular 'you' with 'go', showing close familiarity.
-- 'No, I do not feel well.' Sophia openly acknowledges that she feels physically unwell. The two-part French negation brackets the verb for 'feel' on both sides.
-- 'Can we postpone this important photo shoot?' Sophia tentatively asks if the session could be delayed. Notice how 'can we' leads directly into the noun meaning 'appointment'.
-- 'One never postpones such a shoot!' Camille explains that prestigious fashion shoots cannot be moved. The verb meaning 'postpones' pairs naturally with the noun for 'shoot!' in everyday conversation.
-- 'I have a bad headache this morning.' Sophia admits she is suffering from a heavy morning hangover. The adjective meaning 'awful' takes its feminine form here to match the noun it describes.
-- 'They see you as the perfect ambassador.' Camille reminds her that the jewelers consider her an ideal brand face. The short 'self' word sits right in front of the verb for 'see', turning the action back onto the subject.
-- 'My femininity is rather flat today.' Sophia laments with irony that her energy feels totally depleted. The key noun here means 'femininity', anchored by its matching French article.
-- 'What is wrong, Sophia?' Camille invites her friend to share the deeper cause of her distress. Notice how the short vowel drops before a vowel sound around 'goes', making the phrase flow smoothly as one unit.
-- 'Last night, Gabriel abandoned me there.' Sophia admits that she felt stung when Gabriel deserted her. In spoken French, the little word before 'has me' drops its final vowel and attaches with an apostrophe.
-- 'He left with his girlfriend.' Sophia explains that Gabriel walked out of the gathering with Sarah. This conversational past tense combines a helper verb with the past verb form for 'left'.
-- 'I drank two glasses all alone!' Sophia explains how she ended up finishing both ordered drinks herself. The adjective meaning 'alone!' takes its feminine form here to match the noun it describes.
-- 'Do not be jealous, think of work!' Camille urges Sophia not to let romantic jealousy derail her career. This conversational past tense combines a helper verb with the past verb form for 'be'.
-- 'All right, I will deliver on this fine shoot.' Sophia resolves to put personal feelings aside and do her best. Notice how 'am going' leads directly into the noun meaning 'shoot.'.
+- 'Are you well? You seem very tired.' Camille gently observes Sophia's obvious fatigue before the shoot.
+- 'No, I do not feel well.' Sophia openly acknowledges that she feels physically unwell.
+- 'Can we postpone this important photo shoot?' Sophia tentatively asks if the session could be delayed.
+- 'One never postpones such a shoot!' Camille explains that prestigious fashion shoots cannot be moved.
+- 'I have a bad headache this morning.' Sophia admits she is suffering from a heavy morning hangover.
+- 'They see you as the perfect ambassador.' Camille reminds her that the jewelers consider her an ideal brand face.
+- 'My femininity is rather flat today.' Sophia laments with irony that her energy feels totally depleted.
+- 'What is wrong, Sophia?' Camille invites her friend to share the deeper cause of her distress.
+- 'Last night, Gabriel abandoned me there.' Sophia admits that she felt stung when Gabriel deserted her.
+- 'He left with his girlfriend.' Sophia explains that Gabriel walked out of the gathering with Sarah.
+- 'I drank two glasses all alone!' Sophia explains how she ended up finishing both ordered drinks herself.
+- 'Do not be jealous, think of work!' Camille urges Sophia not to let romantic jealousy derail her career.
+- 'All right, I will deliver on this fine shoot.' Sophia resolves to put personal feelings aside and do her best.

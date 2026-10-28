@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am having lunch with my mother at the Grand Colbert.' Camille shares her special lunch plans. Camille opens with the word for 'I have' and lands on 'Grand' at the close.
-- 'We need time alone together.' Mother and daughter cherish their rare reunion. Listen for the expression meaning 'have', which leads naturally into 'two of us'.
-- 'It has been ages since I saw her.' The fixed temporal expression emphasizes years of separation. The key word here means 'has been', paired with 'seen' to make the point clear.
-- 'What time is he coming?' Annick checks the exact hour of Mathias's expected arrival. The question form phrase asks for specific clock time.
-- 'Maybe he forgot.' Annick voices self-doubt about whether Mathias will show up. The modal adverb introduces hesitant uncertainty.
-- 'Or he does not want to see me.' She worries about old wounds and unresolved tension. The adverb meaning 'not' sharpens the verb for 'wants' here.
-- 'He said he would come for coffee.' Camille reassures her mother about the agreed plan. Camille opens with the word for 'has' and lands on 'coffee beverage' at the close.
-- 'Okay, Mom?' Camille uses a gentle prompt to calm her mother's rising anxiety. Listen for the expression meaning 'all right', which leads naturally into 'mother'.
-- 'I have not done my roots.' Annick fusses over her hair color before seeing him. The key word here means 'have not', paired with 'hair roots' to make the point clear.
-- 'You do not have a single white hair.' Camille inspects her mother with reassuring eyes. Listen for the expression meaning 'have not', which leads naturally into 'gray'.
-- 'This is not a romantic date.' Annick pretends indifference despite her visible nervousness. Listen for the expression meaning 'this is', which leads naturally into 'romantic date'.
-- 'It has been eight years!' She emphasizes the long passage of time since they last met. The temporal construction specifies elapsed years.
-- 'This is a great product.' Camille fixes her mother's hair with a cosmetic spray. The prefix super intensifies product quality in everyday speech.
-- 'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives. The enthusiastic interjection marks the successful completion of hair styling.
+- 'I am having lunch with my mother at the Grand Colbert.' Camille shares her special lunch plans.
+- 'We need time alone together.' Mother and daughter cherish their rare reunion.
+- 'It has been ages since I saw her.' The idiom signifies a very long absence.
+- 'What time is he coming?' Annick checks the exact hour of Mathias's expected arrival.
+- 'Maybe he forgot.' Annick voices self-doubt about whether Mathias will show up.
+- 'Or he does not want to see me.' She worries about old wounds and unresolved tension.
+- 'He said he would come for coffee.' Camille reassures her mother about the agreed plan.
+- 'Okay, Mom?' Camille uses a gentle prompt to calm her mother's rising anxiety.
+- 'I have not done my roots.' Annick fusses over her hair color before seeing him.
+- 'You do not have a single white hair.' Camille inspects her mother with reassuring eyes.
+- 'This is not a romantic date.' Annick pretends indifference despite her visible nervousness.
+- 'It has been eight years!' She emphasizes the long passage of time since they last met.
+- 'This is a great product.' Camille fixes her mother's hair with a cosmetic spray.
+- 'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives.

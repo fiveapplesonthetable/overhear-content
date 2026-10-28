@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Cécile! Yes, great. Call me back. Bye.' The command 'call me back' is in the casual form, and the little word for 'me' comes after it, joined with a hyphen. The last word is the casual goodbye.
 - 'The tax audit.' Literally 'the fiscal control'. This is what everyone at the agency is afraid of.
 - 'That letter for Mr Jarron?' The first word means 'this' or 'that', in its feminine form, because the word for letter is feminine.
-- 'Yes, I sent it.' This everyday French sentence pairs 'yes' with 'sent'.
+- 'Yes, I sent it.' The little word for 'it' comes before the action word and loses its vowel. And because 'it', the letter, is feminine and comes first, the past form of the action word gets an extra e on paper.
 - 'I took the letter.' The everyday past tense: 'I have' plus the past form of 'to take'. Camille walks through what she did, step by step.
 - 'I put it in an envelope.' And then she stops, because she remembers what she didn't do.
 - 'Oh no!' In the show she swears. The letter is still sitting somewhere in the office.
 - 'I'm sorry.' The word for sorry ends with an extra e on paper, because Camille is a woman.
 - 'What's the point of paying an assistant?' Literally 'to what does it serve to pay an assistant'. Andréa is furious. Then the partners gather for a crisis meeting, and Gabriel tries to calm everyone down.
-- 'No, Gabriel, you can't always fix everything!' The word for 'we' or 'one' is used here for people in general. The negative wraps around the verb 'can'.
+- 'No, Gabriel, you can't always fix everything!' The word for 'we' or 'one' is used here for people in general.
 - 'We had a call this morning.' The same everyday past tense, with the past form of 'to have'.
 - 'The file is in another department.' Their audit has been moved, away from their friend.
 - 'Jarron was our only ally.' This is another past tense, used to describe how things were. Now they have no one.

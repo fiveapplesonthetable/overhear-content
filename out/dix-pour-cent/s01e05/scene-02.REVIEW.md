@@ -28,9 +28,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Come here.' The casual command of 'to come', followed by the word for 'there' or 'here'.
-- 'I'm going to take a shower.' The near future built with 'I go' plus the infinitive 'to take'.
+- 'I'm going to take a shower.' The near future built with 'I go' plus the basic form 'to take'.
 - 'There you go. You're welcome!' In the kitchen, Colette hands Andréa a fresh slice of toast after she drops hers on the floor. Literally 'of nothing'.
-- 'I'm really going to be late.' Notice how the adverb 'really' sits right between 'I am going' and 'to be'.
+- 'I'm really going to be late.' Notice how the modifier 'really' sits right between 'I am going' and 'to be'.
 - 'Me too.' The stressed pronoun for 'me' with the word for 'also'.
 - 'Where were you? You weren't answering your phone.' Outside on the street, Gabriel rushes up to Andréa using the imperfect past tense for what was happening.
 - 'There was a crisis on the film shoot!' The past tense of 'there is', literally 'it has had a drama on the shoot'.

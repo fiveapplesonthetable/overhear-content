@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is going very well, thanks!' Guy reassures everyone on set after finishing his take. The adverbial phrase indicates optimal condition.
-- 'Bravo Guy, what a wonderful role!' Elisabeth praises the actor's performance on the soundstage. The exclamatory adjective expresses high admiration.
-- 'Elisabeth Lecoeur, from France 2 Cinema.' She introduces herself as a key television financing executive. The proper noun phrase specifies her network branch.
-- 'Delighted! Gabriel Sarda is my agent.' Guy introduces Gabriel to the executive. The polite greeting formula acknowledges an introduction.
-- 'France 2 is financing this fine film.' Elisabeth confirms the television network's financial backing. The transitive verb denotes capital support.
-- 'It is normal, it is your money!' Guy delivers a witty quip about television funding. The possessive determiner highlights financial contribution.
-- 'There, you know Guy Marchand!' Gabriel smiles at his client's dry humor. The pointing word adverb concludes the introduction.
-- 'I really loved the screenplay.' Elisabeth compliments the writing of the movie. The evaluative verb expresses enthusiastic approval.
-- 'And our director is very talented.' Gabriel praises the creative team behind the camera. The qualifying adjective underlines artistic skill.
-- 'And how is Julien Dore doing?' Elisabeth asks about the quirky singer-turned-director. The question form adverb inquires after personal wellbeing.
-- 'The committee meets tomorrow.' She reveals the timing of the funding decision. The temporal adverb indicates imminent review.
-- 'We decide whether we finance his film.' The commission will vote on Julien's project. Notice how the verb for 'decide' leads straight into 'motion picture'.
-- 'Now, I am stressing a lot!' Gabriel feels immediate agent anxiety over the verdict. The reflexive verb conveys acute pressure.
-- 'Are you in a hurry this noon?' Gabriel looks for an opening to lobby her informally. The temporal noun phrase targets the lunch hour.
-- 'Can I invite you to lunch?' Gabriel seizes the chance to pitch and connect over food. The polite modal verb proposes a midday meeting.
+- 'Everything is going very well, thanks!' Guy reassures everyone on set after finishing his take.
+- 'Bravo Guy, what a wonderful role!' Elisabeth praises the actor's performance on the soundstage.
+- 'Elisabeth Lecoeur, from France 2 Cinema.' She introduces herself as a key television financing executive.
+- 'Delighted! Gabriel Sarda is my agent.' Guy introduces Gabriel to the executive.
+- 'France 2 is financing this fine film.' Elisabeth confirms the television network's financial backing.
+- 'It is normal, it is your money!' Guy delivers a witty quip about television funding.
+- 'There, you know Guy Marchand!' Gabriel smiles at his client's dry humor.
+- 'I really loved the screenplay.' Elisabeth compliments the writing of the movie.
+- 'And our director is very talented.' Gabriel praises the creative team behind the camera.
+- 'And how is Julien Dore doing?' Elisabeth asks about the quirky singer-turned-director.
+- 'The committee meets tomorrow.' She reveals the timing of the funding decision.
+- 'We decide whether we finance his film.' The commission will vote on Julien's project.
+- 'Now, I am stressing a lot!' Gabriel feels immediate agent anxiety over the verdict.
+- 'Are you in a hurry this noon?' Gabriel looks for an opening to lobby her informally.
+- 'Can I invite you to lunch?' Gabriel seizes the chance to pitch and connect over food.

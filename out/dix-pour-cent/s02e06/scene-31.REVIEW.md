@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gabriel, I am pregnant.' Andréa reveals the secret that has weighed on her all weekend.
-- 'It is Hicham's baby.' Andréa drops the second stunning revelation regarding paternity.
-- 'And I don't know what to do.' Andréa openly shares her profound confusion and vulnerability.
+- 'Gabriel, I am pregnant.' Andrea reveals the secret that has weighed on her all weekend.
+- 'It is Hicham's baby.' Andrea drops the second stunning revelation regarding paternity.
+- 'And I don't know what to do.' Andrea openly shares her profound confusion and vulnerability.
 - 'That is the crazy thing about you.' Gabriel reacts with disbelief mixed with deep affection.
 - 'You always have something extra.' Gabriel acknowledges her uncanny ability to shock everyone.
 - 'You are my best friend, Andréa.' Gabriel reaffirms their unbreakable bond across all crises.
-- 'Thank you for being there for me.' Andréa expresses heartfelt gratitude for his loyalty.
+- 'Thank you for being there for me.' Andrea expresses heartfelt gratitude for his loyalty.
 - 'I want to buy the American agency UBA.' Hicham unveils his audacious expansion plan.
 - 'An opening into the international market.' Hicham outlines a bold global vision for ASK.
 - 'It is a very ambitious project!' Gabriel admires the bold scale of the endeavor.
 - 'I will need help from all of you.' Hicham genuinely asks for the agents' professional partnership.
-- 'We make a real team now.' Andréa embraces their collective strength heading into the future.
+- 'We make a real team now.' Andrea embraces their collective strength heading into the future.
 - 'So, everyone into the pool!' Hicham playfully calls for a celebratory midnight plunge.
 - 'We always stick together, right?' Gabriel reminds everyone of their shared solidarity.
-- 'Yes, we are always staying together!' Andréa seals the family pact as they leap into the water.
+- 'Yes, we are always staying together!' Andrea seals the family pact as they leap into the water.

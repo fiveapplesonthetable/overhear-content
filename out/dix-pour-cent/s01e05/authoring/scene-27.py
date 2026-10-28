@@ -35,11 +35,11 @@ STORY = [
     ('gabriel', 'Didier, rappelle-moi. La prod est furieuse!', 'Didier, call me back. Production is furious!', [(624, 'Didier, rappelle-moi'), (625, 'La prod est furieuse')], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, everyone. Thank you all for coming.' After 'for', French uses the infinitive of the helper verb 'to be' plus the past verb form 'come'."),
-    (1, None, "'This morning, I have good news for you.' Before an infinitive verb, the word for 'for' means 'in order to'."),
-    (2, None, "'ASK will not be sold.' The future form of 'to be' combines with the past verb form 'sold', spelled with a feminine ending because 'an agency' is feminine."),
+    (0, None, "'Good morning, everyone. Thank you all for coming.' After 'for', French uses the basic form of the helper word 'to be' plus the past form 'come'."),
+    (1, None, "'This morning, I have good news for you.' Before a basic action word, the word for 'for' means 'in order to'."),
+    (2, None, "'ASK will not be sold.' The future form of 'to be' combines with the past form 'sold', spelled with a feminine ending because 'an agency' is feminine."),
     (3, None, "'Is Hélène Kerr keeping Samuel's shares?' In French, 'the parts' is the everyday word for company shares."),
-    (4, None, "'No. I'm buying them.' Adding the prefix 're-' to the verb for 'to buy' creates 'to buy back' or 'to buy out'."),
+    (4, None, "'No. I'm buying them.' Adding the prefix 're-' to the action word for 'to buy' creates 'to buy back' or 'to buy out'."),
     (5, None, "'ASK's future is secure. You can be relieved.' Mathias expects his colleagues to thank him for saving the agency."),
     (6, None, "'How long have you known?' Literally 'Since when do you know it?' — French uses the present tense for an action that started in the past and continues right now."),
     (7, None, "'I found a financial partner yesterday.' In French, the adjective 'financial' comes after the noun 'partner'."),

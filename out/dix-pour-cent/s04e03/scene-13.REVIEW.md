@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea! Open the door, it is me!' Jose calls out enthusiastically from the hallway. The verb meaning 'open' pairs naturally with the noun for 'door' in everyday conversation.
-- 'Jose? What are you doing here?' Andrea opens her door in complete bewilderment. Andrea uses the casual singular 'you' with 'do', showing close familiarity.
-- 'What an incredible night, Andrea!' Jose cannot contain his excitement after an evening out. The key noun here means 'night', anchored by its matching French article.
-- 'Hush! Speak softly, please.' Andrea immediately hushes the boisterous actor. The short 'self' word sits right in front of the verb for 'speak', turning the action back onto the subject.
-- 'My baby is sleeping in the bedroom.' Andrea explains why they must remain extremely quiet. Notice how 'sleeps' leads directly into the noun meaning 'baby'.
-- 'Oh sorry, I want to see your daughter!' Jose expresses spontaneous affection for Andrea's infant. Notice how 'want' leads directly into the noun meaning 'forgiveness'.
-- 'No, stay here in the living room.' Andrea firmly directs him away from the nursery. Notice how 'stay' leads directly into the noun meaning 'living room'.
-- 'You are gorgeous tonight, Andrea!' Jose delivers a cheerful, drunken compliment to his agent. The descriptive adjective for 'gorgeous' agrees in gender and number with its noun.
-- 'But you drank a lot of alcohol!' Andrea notices Jose's inebriated state right away. Andrea uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Yes, I spent the evening with Laurence.' Jose reveals that he spent hours reminiscing with Laurence. The verb meaning 'have' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'You must rest for your film shoot.' Andrea reminds him that a demanding camera crew awaits tomorrow. Notice how 'must' leads directly into the noun meaning 'shoot'.
-- 'Can I serve myself a drink?' Jose heads toward the kitchen counter looking for refreshments. The short 'self' word sits right in front of the verb for 'can', turning the action back onto the subject.
-- 'Drink only cold water now.' Andrea insists that alcohol is out of the question tonight. The verb meaning 'drink' pairs naturally with the noun for 'water' in everyday conversation.
-- 'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night. French forms the near future by pairing the present tense of 'to go' directly with 'to calm'.
+- 'Andrea! Open the door, it is me!' Jose calls out enthusiastically from the hallway.
+- 'Jose? What are you doing here?' Andrea opens her door in complete bewilderment.
+- 'What an incredible night, Andrea!' Jose cannot contain his excitement after an evening out.
+- 'Hush! Speak softly, please.' Andrea immediately hushes the boisterous actor.
+- 'My baby is sleeping in the bedroom.' Andrea explains why they must remain extremely quiet.
+- 'Oh sorry, I want to see your daughter!' Jose expresses spontaneous affection for Andrea's infant.
+- 'No, stay here in the living room.' Andrea firmly directs him away from the nursery.
+- 'You are gorgeous tonight, Andrea!' Jose delivers a cheerful, drunken compliment to his agent.
+- 'But you drank a lot of alcohol!' Andrea notices Jose's inebriated state right away.
+- 'Yes, I spent the evening with Laurence.' Jose reveals that he spent hours reminiscing with Laurence.
+- 'You must rest for your film shoot.' Andrea reminds him that a demanding camera crew awaits tomorrow.
+- 'Can I serve myself a drink?' Jose heads toward the kitchen counter looking for refreshments.
+- 'Drink only cold water now.' Andrea insists that alcohol is out of the question tonight.
+- 'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night.
