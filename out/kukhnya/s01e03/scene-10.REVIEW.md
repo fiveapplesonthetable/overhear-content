@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok! Where is my fresh goose?' Barinov addresses him by the nickname and goes straight to the point. "Fresh" is the word from "a fresh head".
+- 'Oguzok! Where is my fresh goose?' Barinov addresses him by the nickname and goes straight to the point. "Fresh" is the "fresh" of "a fresh head".
 - 'I have just finished it off!' The verb comes from "end", with "pri-" in front, so it's "brought it to an end". "Just now" is the "only what" phrase.
-- 'Why are you so suspiciously clean?' "Suspiciously" is built on "suspicious". "Clean" is the word from "cleanliness".
+- 'Why are you so suspiciously clean?' "Suspiciously" is "suspicious", given a how-word ending. "Clean" is the root of "cleanliness".
 - 'There is not a drop of blood on you!' Literally "on you isn't not a drop of blood". The extra "ni" means "not even one". Both "drop" and "blood" take the "of" ending.
-- 'I did not cut it at all.' "At all" and "not" appear together. "Cut" ends in "-l" for a man, and "it" is the object form for a creature.
+- 'I did not cut it at all.' "At all" and "not" appear together. "Cut" ends in "-l" for a man. "It" is the object form for a creature.
 - 'And how did you kill it?' "How" is the same word as the "how" in "how are you". "Killed" has the "-l" of the past.
-- 'Chef, I simply strangled it!' "Strangle" is built on "soul" or "breath", so to strangle is to take someone's breath. Max sounds proud of the lie.
+- 'Chef, I simply strangled it!' "Strangle" has "soul" or "breath" inside it, so to strangle is to take someone's breath. Max sounds proud of the lie.
 - 'What a nightmare! A real Othello in the kitchen!' "Kakoy koshmar" is the Russian "what a nightmare". "Otello" is the Shakespeare hero who strangles, so the chef is joking.
 - 'Drag your bird to the sous-chef's table!' "Drag" is a casual word for carry. "Sous-chef" is borrowed from French. "Your own bird" is the "svoyu" form.
 - 'Lyova, start preparing the goose quickly!' "Start" is a friendly command. "Prepare the goose" ends in "-ya", the animate-object ending again.
-- 'Understood, Chef, I am turning on the oven.' "Turn on" is "include", a word you can use for any switch. "Oven" comes from the word for "spirit" or "hot air".
+- 'Understood, Chef, I am turning on the oven.' "Turn on" is "include", a word you can use for any switch. "Oven" comes from "spirit" or "hot air".
 - 'And I will take care of an important compliment.' "Take care of" is a word with "self" on the end, and what you take care of takes the "with" ending, "-om". A "compliment from the chef" is a little free dish.
-- 'I saved the bird and my job.' "Saved" is the word behind "thank you", from "God save". "My own job" uses the "own" word again.
+- 'I saved the bird and my job.' "Saved" sits behind "thank you", from "God save". "My own job" uses the "own" word again.

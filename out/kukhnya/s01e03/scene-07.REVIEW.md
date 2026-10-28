@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here is dessert from our pastry chef.' The chef says "from our pastry chef" as if it were someone else's work, with the "from" ending on both words. "Vot" does the pointing.
-- 'Thank you for changing the menu for me.' "Thank you that" is the Russian frame for thanking someone for what they did. The ending on "changed" is the polite plural.
+- 'Thank you for changing the menu for me.' "Thank you that" is the Russian frame for thanking someone for what they did. The ending on "changed" is plural, out of politeness.
 - 'I am the chef and I fulfill any orders.' Russian says "any" with a word that has "love" in it: "whichever you like". Barinov is bragging.
 - 'And what do you do, if it is not a secret?' Literally "as whom do you work", with the "as" ending on "whom". "If it's not a secret" is a polite way to ask a personal question.
 - 'I work as a judge at the Tverskoy court.' The woman says "as a judge" with an "-oy" ending, the same "as a" idea. "At the court" has an "-e" after "in".
 - 'Whoa! And they suspended my license yesterday!' Russians call a driving licence "rights", always in the plural, so "they deprived me of rights" means "they took my licence". The unnamed "they" is the authorities.
-- 'What is your last name?' This is the word for surname, which looks like "family" but means only the last name. A good false friend to know.
+- 'What is your last name?' The Russian "surname" looks like "family" but means only the last name. A good false friend to know.
 - 'My last name is Barinov. Viktor Barinov.' In Russian "is" is left out, so it's just "my surname Barinov". Notice the order, first name and then surname.
 - 'So it was I who issued that decision!' The judge uses a word that really means "carried out", the usual verb for passing a sentence. The little "eto ya" puts the spotlight on "I".
-- 'Maybe we can fix everything?' "Maybe" is the two words "can be". "Fix" is a word built on "right", so it means "make right".
-- 'No. You knocked down a traffic light on the road!' The word for traffic light is built on "light" and a Greek "bearer", so it's literally a "light-bearer". "On the road" has an "-e" ending.
-- 'But I had a valid excuse.' Russian says "at me there was", the usual "had" in the past. And "valid" is built on "respect", so it's an excuse that deserves respect.
+- 'Maybe we can fix everything?' "Maybe" is the two words "can be". "Fix" starts from "right", so it means "make right".
+- 'No. You knocked down a traffic light on the road!' A traffic light puts "light" next to a Greek "bearer", so it's literally a "light-bearer". "On the road" has an "-e" ending.
+- 'But I had a valid excuse.' Russian says "at me there was", the usual "had" in the past. And "valid" has "respect" inside it, so it's an excuse that deserves respect.
 - 'Say thank you that the suspension is only a year.' "Say thanks" is a Russian way of saying "count yourself lucky". "Only a year" is "in all a year".

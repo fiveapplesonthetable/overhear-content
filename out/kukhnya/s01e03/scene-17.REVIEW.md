@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I myself am to blame for this situation.' "To blame" comes from "vina", fault, with the woman's "-a". "Myself" ends in "-a" too.
 - 'So that means it is true, you are together?' "So that means" is how Russians put two and two together. "You" is plural, since Vadim looks at both of them.
 - 'Vadim, what are you doing here?' Russian has no "-ing" form. "What you do" covers "what are you doing" as well.
-- 'I came to talk with you right now.' A man says "prishyol", "came on foot". "To talk" has the "po-" of a quick talk, and "with you" is the friendly form.
+- 'I came to talk with you right now.' A man says "prishyol", "came on foot". "To talk" has the "po-" of a quick talk. "With you" is the friendly form.
 - 'And this guy must leave immediately!' "Must" has a man's ending. "Guy" is the casual word, and a rude one from Vadim.
 - 'Choose your words when talking with her!' Word for word: "choose words when you speak with her". "With her" turns "she" into "ney".
-- 'You are talking to a beautiful girl.' The word for "talk" is built on "razgovor", a conversation. "With a beautiful girl" has matching "-oy" endings.
+- 'You are talking to a beautiful girl.' "Talk" comes from "razgovor", a conversation. "With a beautiful girl" has matching "-oy" endings.
 - 'What did you just say to me, pup?' "Pup" is a rude word for a young man. "You what" at the start is the challenge.
 - 'I told you: step away from her!' "Step away" is a command, and "from her" gains an "n", as "ot neyo".
 - 'Max, stop, he has a gun!' "At him there is a gun" is the full "have" pattern, with the "there is" word included. Vika is panicking.

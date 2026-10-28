@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I already told you everything.' Vika is a woman, so "told" ends in "-la". "To you" is a short, friendly word.
 - 'Come on, don't be angry with me.' "Enough" starts it, literally "it suffices". "Don't be angry" has the "self" ending, and "at me" is a short word.
 - 'You know my real feelings.' "Feelings" is plural in Russian, with "my" matching. "Real" is the "true" word.
-- 'Leave me alone right now!' Russian says "leave me in peace". "In peace" is a single word with an "-e" ending.
+- 'Leave me alone right now!' Russian says "leave me in peace". "In peace" takes an "-e", because of the "in".
 - 'Vadik, darling, there you are!' "Vadik" is a pet form of Vadim, with a small ending. "Milyy" is "sweet", which Elvira uses for "darling". "Here you where" is Russian for "there you are".
-- 'We are just discussing an important banquet.' "Just" is two words, "as time". "Discuss" is built on "judge", the same family as "court".
-- 'Get acquainted, this is my wife Elvira.' The word for "wife" here is formal. The usual one is shorter. "Get acquainted" is the polite command.
+- 'We are just discussing an important banquet.' "Just" is two words, "as time". "Discuss" is from "judge", a relative of "court".
+- 'Get acquainted, this is my wife Elvira.' "Wife" here is the formal one. The usual one is shorter. "Get acquainted" is a command in the formal register.
 - 'And she and I have already met!' "We with her" is the Russian "she and I". "Met" has the "-lis'" of "we".
 - 'Viktoria Sergeyevna helped me a lot today.' Russians help "to" a person, so "me" is in the "to me" form. And "helped" ends in "-la", because Vika is a woman.
-- 'Vadik, good for you for choosing this restaurant!' "Molodets" is the "well done" word for praise. "Chose" is built on "take" with "out" in front.
-- 'You are my absolute best husband.' "At me" is used for "in my life" here. "Husband" is a short word, and "the very best" is the "samyy" pattern.
+- 'Vadik, good for you for choosing this restaurant!' "Molodets" is the "well done" word for praise. "Chose" is "take" with "out" in front.
+- 'You are my absolute best husband.' "At me" is used for "in my life" here. "Husband" is a short word. "The very best" is the "samyy" pattern.
 - 'Thank you, I am always glad to help you.' A woman says "rada", and a man would say "rad". "Help" ends the sentence.

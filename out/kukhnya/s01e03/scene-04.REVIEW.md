@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What do you need?' Max uses the polite "you" with a stranger, and he is wary. The shape is "what to you needed".
 - 'Vika works here with you.' "Here at you" is Russian for "where you work". Vadim talks like a policeman, short and flat.
 - 'Viktoria Sergeyevna.' He uses her full name and father's name, which makes it sound like a police file.
-- 'Who is she seeing here?' The word for "meet" turns into "date" when it has "with" after it, so it's the normal way to say you're seeing someone.
+- 'Who is she seeing here?' "Meet" turns into "date" when it has "with" after it, so it's the normal way to say you're seeing someone.
 - 'Well, why are we silent?' Vadim says "we are silent" when he means "you". It's the patronising "we" Russians use for scolding children and suspects.
-- 'Why should I answer?' The word for "should" has a masculine ending, because Max is a man. "Answer" is from "otvet", an answer.
+- 'Why should I answer?' "Should" has a masculine ending, because Max is a man. "Answer" is from "otvet", an answer.
 - 'Don't want to answer here?' Vadim switches to the friendly "you", which sounds rude from a stranger. It's a way of putting Max in his place.
 - 'You'll answer in my prosecutor's office.' "At me in the prosecutor's office" is how he says "my office". The future is a threat dressed as a statement.
 - 'Did you understand me?' The answer will end in "-l", because Max is a man. Vadim keeps using the friendly "you", which is rude here.
