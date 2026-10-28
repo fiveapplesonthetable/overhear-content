@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Watching her from afar again?' "Izdaleka", "from afar", is "daleko", far, with a "from" prefix. "Na neyo" is "at her", with an "n" added to "her".
-- 'She seems so unapproachable today.' "Unapproachable" is built from "ne" plus "accessible", with the "-oy" ending that follows "seems". Max makes Vika sound like a distant planet.
-- 'Stop standing and merely watching.' "Khvatit" is "enough", the one that comes with an infinitive. "Prosto" adds "merely".
-- 'And what should I do, Kostya?' "Chto mne delat'" is the standard advice question: "what to me to do".
-- 'Take the initiative right now!' "Proyavi initsiativu" is "show initiative", the Russian for "take the initiative". "Initsiativa" is borrowed.
-- 'Do you think that is a good idea?' "Dumayesh'" is "you think", and a rising voice is all it takes to turn the statement into a question.
-- 'Girls like brave guys.' "Devchonki" is the casual plural of "girl", and "smelykh" is "brave", in the form that goes with "like".
-- 'And what if she sends me away?' "Prognat'" means "to drive away", and it's what you do to stray animals. Max is worried.
-- 'Then at least you tried.' Kostya sounds like a coach: "at least you tried". Russian packs "at least" into "khotya by".
-- 'You are right, one cannot be afraid forever.' "Prav" is the short form for "right". "Nel'zya" is "not allowed", here "one mustn't". "Vechno" is "forever".
-- 'Walk over and talk with her confidently.' Walking up has "pod-", up to, in front of "go". And "confidently" grows out of "uveren", sure.
-- 'Thanks for the advice, I will do it!' "Sovet", "advice", is also the Soviet "council". "Sdelayu" is "I will do".
-- 'Good luck, my friend, show your courage.' "Udachi" is "of luck", with "I wish you" left out, like "good night". "Smelost'" is "courage", from "smelyy", brave.
+- 'Watching her from afar again?' "Izdaleka", from afar, is "iz", from, plus "daleko", far. "Na neyo" is "at her", with an "n" added after "na".
+- 'She seems so unapproachable today.' "Nedostupnoy" is "ne" plus "dostupnyy", accessible. After "kazhetsya", seems, it takes -oy, and so does "takoy".
+- 'Stop standing and merely watching.' "Khvatit", enough, is followed by the plain verbs "stoyat'" and "smotret'". "Prosto" is "merely".
+- 'And what should I do, Kostya?' "Chto mne delat'?" is "what to me to do?", the standard way to ask for advice.
+- 'Take the initiative right now!' "Proyavi" is "show", so "proyavi initsiativu" is "show initiative". "Initsiativa" takes -u as the object.
+- 'Do you think that is a good idea?' "Dumayesh'" is "you think", and only the rising voice makes it a question.
+- 'Girls like brave guys.' "Devchonki" is a familiar word for girls. "Smelykh parney" is the object form of "smelyye parni", brave guys.
+- 'And what if she sends me away?' "Prognat'" is "to drive off". "Progonit" is its future, "she will drive off".
+- 'Then at least you tried.' "Khotya by" pairs "khotya", although, with "by", would, to give "at least". "Poproboval" is "tried", the man's past.
+- 'You are right, one cannot be afraid forever.' "Prav" is the man's short "right". "Nel'zya" is "one mustn't", and "vechno" is "forever".
+- 'Walk over and talk with her confidently.' "Podoydi" is "go" with "pod-", up to. "Uverenno" is from "uveren", sure, and "zagovori" is "start talking".
+- 'Thanks for the advice, I will do it!' "Sovet" is "advice", and also the word behind "Sovetskiy". "Sdelayu" is "I'll do".
+- 'Good luck, my friend, show your courage.' "Udachi" is "of luck", because "zhelayu", I wish, is left out. "Smelost'", courage, is from "smelyy", brave.

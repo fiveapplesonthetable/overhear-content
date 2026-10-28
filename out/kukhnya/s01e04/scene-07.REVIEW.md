@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, look at Nastya.' "Posmotri na" is "look at", and "Nastya" becomes "Nastyu" as the thing you look at.
-- 'She is a very pretty girl.' Kostya says "devushka", a girl or a young woman. There's no "is" in it.
-- 'Do you like her? Admit it honestly!' "Ona tebe nravitsya" is literally "she to you is pleasing". "Priznaysya" has "-sya" at the end, since you "admit yourself".
-- 'Well all right, I like her very much.' Kostya gives in with "nu ladno", "well, fine", and then says "I like her" the Russian way: "she is pleasing to me". The one who likes is "me".
-- 'Then give her a nice compliment.' Max sets him a task: "say to her" a nice compliment. The "to her" form is "yey", a tiny word that slips into the middle.
-- 'I am afraid, I cannot talk smoothly.' "Boyus'" is "I'm afraid", with "-s'" at the end. "Ne umeyu" is "I don't know how".
-- 'Hi, boys! What are you talking about?' "Privet" is the casual hello. "Mal'chiki" is "boys", plus a small ending. "O chyom" is "about what".
-- 'Kostya wants to tell you important words.' Max passes the message on with a flourish. "Important words" is plural, so both words end alike. "To you" is the short "tebe".
-- 'Nastya, you have a very pretty hairstyle!' "U tebya" is "at you", the "have" pattern. "Prichyoska" comes from "to comb", so it's a "combing".
-- 'Thank you, Kostya! You are a very sweet guy.' "Milyy" is "sweet" or "nice", and it's the word Vika used in the very first episode. "Paren'" is "guy".
-- 'Did you hear? She called me sweet!' "Nazvala" is "called", the -a marking a woman. "Milym" has "-ym", the ending that goes after "call".
-- 'See? The main thing is to always be brave!' Max is proud of his coaching: "do you see?", and then the lesson. After "to be", the word for brave takes an "-ym" ending.
+- 'Kostya, look at Nastya.' "Posmotri na" is "look at", and "Nastya" turns into "Nastyu" as the one looked at.
+- 'She is a very pretty girl.' "Devushka" is a girl or young woman. "Ona krasivaya devushka" needs no "is".
+- 'Do you like her? Admit it honestly!' "Ona tebe nravitsya" is "she to you is pleasing". "Priznaysya", admit, carries -sya: confess yourself.
+- 'Well all right, I like her very much.' "Nu ladno" is "well, fine". In "ona mne nravitsya" the girl is the subject and the one who likes her is "mne", to me.
+- 'Then give her a nice compliment.' Russian says "skazhi yey kompliment", say her a compliment. "Yey" is "to her".
+- 'I am afraid, I cannot talk smoothly.' "Boyus'" is "I fear", with -s'. "Ne umeyu" is "I don't know how", a skill you lack.
+- 'Hi, boys! What are you talking about?' "Privet" is the casual hello. "Mal'chiki" is the plural of "mal'chik", boy, used playfully for grown men. "O chyom" is "about what".
+- 'Kostya wants to tell you important words.' "Vazhnyye slova" is "important words", with -yye on the adjective and -a on the plural of "slovo". "Tebe" is "to you".
+- 'Nastya, you have a very pretty hairstyle!' "U tebya", at you, is the "have" pattern. "Prichyoska" is from "prichesat'", to comb.
+- 'Thank you, Kostya! You are a very sweet guy.' "Milyy" is "sweet" or "nice". "Paren'" is "guy".
+- 'Did you hear? She called me sweet!' "Nazvala", called, ends in -a for a woman. After "nazvat'", the description takes -ym: "milym".
+- 'See? The main thing is to always be brave!' "Vidish'?" is "you see?". After "byt'", be, "smelyy" becomes "smelym".

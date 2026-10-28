@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, are we going to have lunch today?' "Obedat'" is "to have lunch", from "obed". Russian puts the verb first, as "have-lunch will we?".
-- 'Of course, everything is already almost ready!' "Pochti" is "almost". "Gotovo" ends in -o to agree with "vsyo", everything.
-- 'We all really want to eat.' Russians say "we want to eat" for "we're hungry". "Khotim" is "we want".
-- 'Wait a couple more minutes.' "Podozhdite" is "wait", aimed at someone you address as "vy". "Paru" is "a couple", and "yeshchyo" is "more".
-- 'What did you prepare for us today?' "Nam" is "to us", Russian's way to say "for us". "Prigotovil" is a man's "prepared".
-- 'I cooked a special purée soup.' "Svaril" has "s-", done, in front of "varit'", to boil. "Sup-pyure" is borrowed from French.
-- 'A regular soup would be better.' "By" is the little word that makes "would": "byl by luchshe", "would be better".
-- 'You will all lick your fingers!' "Pal'chiki oblizhete" is literally "you'll lick the little fingers", and it's the exact Russian for "finger-licking". "Pal'chiki" is "little fingers".
-- 'I hope this is edible.' "Mozhno" is "it's possible", so "mozhno yest'" means "can be eaten". Senya is not convinced.
-- 'You have never tasted such a thing.' Max claims they have never tasted such a thing: "never not tried", the double negative, and "such" in its "of" form.
-- 'The main thing is that it is tasty.' "Chtoby" is "so that", and Russians put the next word in the past, "bylo", to express a hope. "Vkusno" is "tasty".
-- 'This is not that usual slop.' "Mesivo" is a rude word for a mush or slop, from "mesit'", to knead. "Obychnoye" is "usual".
-- 'Alright, bring it quickly to the table!' "Nesi" is "carry", a relative of "prinesu". "Na stol" is "onto the table", with no ending for movement.
-- 'Now I will surprise you all!' "Udivlyu" is "I will surprise", and the root is "udivitel'nyy", surprising. "Vas vsekh" is "all of you".
+- 'Max, are we going to have lunch today?' "Obedat'" is "to have lunch", from "obed". Senya puts it before "budem", we will, which stresses lunch.
+- 'Of course, everything is already almost ready!' "Pochti" is "almost". "Gotovo" ends in -o to agree with "vsyo".
+- 'We all really want to eat.' "Khotim yest'", we want to eat, is the usual way to say "we're hungry".
+- 'Wait a couple more minutes.' "Podozhdite" is "wait" for several people. "Yeshchyo paru minut" is "another couple of minutes".
+- 'What did you prepare for us today?' "Nam", to us, does the job of "for us". "Prigotovil" is the man's "prepared".
+- 'I cooked a special purée soup.' "Svaril" is "varit'", to boil, with "s-" for finished. "Sup-pyure" is a borrowed compound.
+- 'A regular soup would be better.' "By" is the little word for "would": "byl by luchshe", would be better.
+- 'You will all lick your fingers!' "Pal'chiki oblizhete" is "you'll lick your little fingers", the Russian for finger-licking good.
+- 'I hope this is edible.' "Nadeyus'", I hope, shares a root with "nadezhda", hope. "Mozhno yest'" is "it's possible to eat", meaning edible.
+- 'You have never tasted such a thing.' "Nikogda ne probovali" doubles the negative. After it, "takoye" becomes the "of" form "takogo".
+- 'The main thing is that it is tasty.' "Chtoby" is "so that", and the verb after it goes into the past: "chtoby bylo vkusno".
+- 'This is not that usual slop.' "Mesivo", slop, is from "mesit'", to knead. "Obychnoye", usual, is neuter to match.
+- 'Alright, bring it quickly to the table!' "Nesi" is "carry", from "nesti". "Na stol" is "onto the table".
+- 'Now I will surprise you all!' "Udivlyu", I'll surprise, has "divo", a marvel, at its root. "Vas vsekh" is "all of you".

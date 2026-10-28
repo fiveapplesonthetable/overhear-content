@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a terrible rush in the kitchen today!' "Strashnaya" comes from "strakh", fear, so it's "scary" as well as "terrible". "Speshka" is rush, and the family of "speshu", I hurry.
-- 'Chef, I did not hear your shouts.' After "not", the thing you didn't hear takes the "of" ending: "kriki" becomes "krikov". "Slyshal" is "heard", the -l marking a man.
-- 'What are you doing here in the dark?' "V temnote", "in the dark", comes from "temnyy", dark. The chef uses the friendly "you".
-- 'I simply lay down for five minutes.' "Na" before a number of minutes means "for". "Prilyog" is "lay down for a bit": the "pri-" gives a short rest.
-- 'Oguzok, are you sleeping right on the crates?!' "Na yashchikakh" is "on crates", with "-akh", the plural "on" ending. "Spish'" is "you sleep".
-- 'Forgive me, chef, I was very tired.' A man says "ustal", and a woman would say "ustala". Awake now, Max says "prostite", the formal "forgive me".
-- 'You have a daytime work shift going on!' "Dnevnaya" comes from "den'", day. "Idyot" is literally "goes", the verb Russians use for things that are in progress.
-- 'I could not fall asleep all night.' "Vsyu noch'" is "the whole night", and no little word is needed in front. "Zasnut'" is "to fall asleep".
-- 'Your nights do not concern me at all.' "Nochi" is plural, so the verb "volnuyut" is plural too, "worry". It's the same family as "ne volnuysya", don't worry.
-- 'Probably I have difficult acclimatization.' "Navernoye" is "probably". "Akklimatizatsiya" is a borrowed word, a long one, and Max is hoping it sounds scientific.
-- 'What on earth kind of acclimatization?!' "Kakaya yeshchyo" is "what else", which here means "what kind of...?!". "K chyortu" is "to the devil", a mild curse.
-- 'Now get up immediately and go to work!' "A nu" is a push, like "come on now". "Vstavay" is "get up", and "idi rabotat'" is "go work".
-- 'Already getting up, chef, understood everything.' Russian has no "-ing", so the plain present "vstayu" covers "I'm getting up". "Ponyal" is "understood".
+- 'There is a terrible rush in the kitchen today!' "Strashnaya", terrible, grows out of "strakh", fear. "Speshka", a rush, belongs with "speshit'", to hurry.
+- 'Chef, I did not hear your shouts.' After "ne slyshal", the thing not heard takes the "of" form, so "kriki" becomes "krikov". "Slyshal" ends in -l for a man.
+- 'What are you doing here in the dark?' "V temnote" is "in darkness", from "temnyy", dark. "Ty chto delayesh'" uses the familiar "ty".
+- 'I simply lay down for five minutes.' "Prilyog" is "lyog", lay down, with "pri-" for doing it briefly. "Na pyat' minut" uses "na" for a planned stretch of time.
+- 'Oguzok, are you sleeping right on the crates?!' "Na yashchikakh" is "yashchiki", crates, with the plural -akh after "na". "Spish'" is "you sleep", from "spat'".
+- 'Forgive me, chef, I was very tired.' "Ustal" is the man's "got tired", and a woman would say "ustala". "Prostite" is "forgive" with the polite -te.
+- 'You have a daytime work shift going on!' "Dnevnaya", daytime, comes from "den'", day. "Idyot", it goes, is how Russian says something is under way.
+- 'I could not fall asleep all night.' "Vsyu noch'", the whole night, needs no word for "during". "Zasnut'" is "spat'" with "za-" for the start: to fall asleep.
+- 'Your nights do not concern me at all.' "Nochi", nights, is the subject, so "volnuyut", worry, is plural. "Ne volnuysya", don't worry, is from the same verb.
+- 'Probably I have difficult acclimatization.' "Navernoye" is "probably". "Akklimatizatsiya" is a borrowed word, and "slozhnaya", difficult, is feminine to match it.
+- 'What on earth kind of acclimatization?!' "Kakaya yeshchyo", what further, mocks a word someone just used. "K chyortu" is "to the devil", a mild curse.
+- 'Now get up immediately and go to work!' "A nu" is a push, "come on now". "Zhivo" is "look lively", "vstavay" is "get up", and "idi rabotat'" is "go work".
+- 'Already getting up, chef, understood everything.' The present "vstayu" covers "I'm getting up". "Vsyo ponyal" is "understood everything", with no "I".

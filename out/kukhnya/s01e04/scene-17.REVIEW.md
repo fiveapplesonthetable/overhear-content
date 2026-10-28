@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I need to talk to you.' "Mne nado" is the usual "to me necessary". "S toboy" is "with you", and the friendly form of "you" does the work.
-- 'Yes, Max, what did you want to discuss?' Nastya asks "about what did you want?", and the question trails off, as English questions can. "O chyom" is the "about what".
-- 'I have a good friend.' Russian says "at me there is one good friend", and "one" here means "a certain". It's how you introduce a friend with no name.
-- 'And he really likes you very much.' "Ty yemu nravishsya" is "you to him are pleasing", so you are the subject and he is "to him".
-- 'A friend who likes me so much?' "Kotoromu" is "to whom", a relative word that joins the friend to the liking. And "ya nravlyus'" is "I am pleasing".
-- 'Yes, he wants to ask you on a date.' Max says it straight: his friend wants to invite her on a date. "To a date" takes "na" and a motion ending.
-- 'I immediately understood everything perfectly!' "Ponyala" ends in "-a" for Nastya. "Srazu" is "immediately" and "otlichno" is "perfectly".
-- 'Guys always say that about friends!' "Parni" is the plural of "paren'", guy. "Pro druzey" is "about friends", with "druzey" the plural "of" form of "drug".
-- 'Wait, you understood completely wrong.' "Nepravil'no" is "ne" plus "pravil'no", correctly: incorrectly. "Sovsem" adds "completely".
-- 'There is a real cosmic connection between us!' Nastya declares that "between us there is a real cosmic connection". "Connection" comes from "to tie", so it's a tie between them.
-- 'It is so great that you said this!' "Zdorovo" is casual for "great", from "zdorov'ye", health. "Tak... chto" joins "so great" to "that you said it".
-- 'I must run, the chef is calling for hot food!' "Pobegu" is "I will run", with "po-" for the start. "Goryacheye" is "hot" used as a noun, "the hot course".
-- 'Now I really helped Kostya...' "Vot eto" at the start is sarcastic, like "well, that went well". "Koste" is "to Kostya", the "to" form of his name.
+- 'Nastya, I need to talk to you.' "Mne nado" is "to me it's needed". "S toboy" is "with you", from the familiar "ty".
+- 'Yes, Max, what did you want to discuss?' "O chyom ty khotel?" is "about what did you want?", with "to talk" left unsaid.
+- 'I have a good friend.' "U menya yest'" is "at me there is". "Odin", one, here means "a certain": a friend of mine.
+- 'And he really likes you very much.' "Ty yemu nravish'sya" is "you to him are pleasing". "Yemu", to him, names the one who does the liking.
+- 'A friend who likes me so much?' "Kotoromu" is "to whom", in the "to" form because of "nravlyus'". "Ya nravlyus'" is "I am pleasing".
+- 'Yes, he wants to ask you on a date.' "Priglasit'" is "to invite". "Na svidaniye" is "onto a date", with "na" for going to an event.
+- 'I immediately understood everything perfectly!' "Ponyala" ends in -a for Nastya. "Srazu" is "at once".
+- 'Guys always say that about friends!' "Parni" is the plural of "paren'". "Pro druzey" is "about friends", with "drug" in an irregular plural.
+- 'Wait, you understood completely wrong.' "Nepravil'no" is "ne" plus "pravil'no", correctly. "Sovsem" is "completely".
+- 'There is a real cosmic connection between us!' "Mezhdu nami" is "between us". "Svyaz'", connection, is from "vyazat'", to tie.
+- 'It is so great that you said this!' "Zdorovo", great, is from "zdorov'ye", health. "Tak... chto" is "so... that".
+- 'I must run, the chef is calling for hot food!' "Pobegu" is "I'll run off", with "po-" for setting off. "Goryacheye", hot, works as a noun: the hot course.
+- 'Now I really helped Kostya...' "Vot eto" at the start is sarcastic, "well, that's how". "Koste" is "to Kostya", because "pomoch'" takes "to".

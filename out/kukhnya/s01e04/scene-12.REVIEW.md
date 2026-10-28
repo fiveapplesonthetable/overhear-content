@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, please, do not turn on the device!' "Vklyuchayte" is "turn on", in the polite plural, and "ne" cancels it. "Pribor" is a "device" or "instrument".
-- 'Why are you shaking so hard?' "Ty chego" is the colloquial "why are you". "Drozhish'" is "you shake", and "silno" is "strongly".
-- 'I will tell you everything honestly myself!' "Sam" is "myself", here "of my own accord". "Rasskazhu" is "I will tell", and "chestno" is "honestly".
-- 'I took that fish after the banquet!' "Vzyal ya" is "took I", with "I" at the end for emphasis. "Posle banketa" is "after the banquet".
-- 'And I took that venison away too!' "Olenina" is venison, from "olen'", deer. "Unyos" is "carried away", with "u-" meaning "away".
-- 'And half a kilo of expensive caviar?' "Polkilo" is "pol-", half, plus "kilo". "Ikry" is "of caviar", in the "of" form.
-- 'No, Chef, I did not take the caviar!' Senya puts "ikru" first, which stresses it: "the caviar I did not take". "Bral" is "took".
-- 'Forgive me, please, Chef!' "Prostite" is "forgive me" in the formal way, and "pozhaluysta" is "please".
-- 'I do not care about your venison!' "Mne plevat'" is literally "to me to spit", and it means "I couldn't care less". It's a rude phrase.
-- 'Did you go to the neighboring restaurant?' The chef asks the same question as before, with "khodil" for "went and came back".
-- 'No, Chef, I swear to you!' "Klyanus'" is "I swear", with "-s'" for "self". "Vam" is "to you", the polite form.
-- 'Tell the truth, yes or no?' The chef wants a plain answer: "tell the truth", with "truth" in the object form, and then "yes or no".
-- 'No! I am loyal only to you!' "Predan" is the short form for "devoted", and a man says it with no ending. "Tol'ko vam" is "only to you".
+- 'Chef, please, do not turn on the device!' "Ne vklyuchayte" is "don't switch on", with the polite -te. "Pribor" is a device or gauge.
+- 'Why are you shaking so hard?' "Ty chego" is a spoken "why are you". "Drozhish'" is "you tremble", and "sil'no" is "strongly".
+- 'I will tell you everything honestly myself!' "Sam" is "myself", here "of my own accord". "Rasskazhu" is "I'll tell", and "chestno" is "honestly".
+- 'I took that fish after the banquet!' "Vzyal ya" is "took I", with "ya" last for emphasis. "Posle banketa" is "after the banquet".
+- 'And I took that venison away too!' "Olenina", venison, is from "olen'", deer. "Unyos" is "carried off", with "u-" for away.
+- 'And half a kilo of expensive caviar?' "Polkilo" is "pol-", half, plus "kilo". After it, "dorogaya ikra" becomes "dorogoy ikry".
+- 'No, Chef, I did not take the caviar!' Senya puts "ikru" first for stress: the caviar, I did not take. "Ne bral" is "didn't take".
+- 'Forgive me, please, Chef!' "Prostite menya" is "forgive me" with the polite -te.
+- 'I do not care about your venison!' "Mne plevat'" is "to me to spit", a blunt "I couldn't care less". "Na tvoyu oleninu" is what he spits on.
+- 'Did you go to the neighboring restaurant?' The same question Fedya got: "khodil", went and came back.
+- 'No, Chef, I swear to you!' "Klyanus'" is "I swear", with -s'. "Vam" is "to you", polite.
+- 'Tell the truth, yes or no?' "Govori pravdu" is "speak the truth", with "pravda" becoming "pravdu" as the object.
+- 'No! I am loyal only to you!' "Predan" is the man's short "devoted". "Tol'ko vam" is "only to you".

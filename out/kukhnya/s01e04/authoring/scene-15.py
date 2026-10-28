@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "The chef catches Max in his office and asks whether the staff lunch is cooked. Max says it is nearly done, the lie detector says otherwise, and Max tries flattery. Here's the Russian first."
 OPENER = "Let's listen to the chef catch him out."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max narrowly escapes, and sprints back to the stove. You\'ve heard "slushayus\'", the soldier\'s "yes, sir", twice now.'
+OUTRO = 'Max narrowly escapes, and sprints back to the stove. You\'ve heard "slushayus\'", the soldier\'s "yes, sir", which Max uses whenever the chef gives an order.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Лавров, подойди сюда прямо сейчас.', 'Lavrov, come here right now.', [(180, 'соседний ресторан')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Слушаюсь, шеф, я сделаю всё моментально.', 'Understood, chef, I will do everything instantly.', [(195, 'не обману')], ''),
 ]
 WALK = [
-    (0, None, '\'Lavrov, come here right now.\' "Podoydi" is "walk up". The chef uses the surname for a serious talk.'),
-    (1, None, '\'Chef, can I already go to the kitchen?\' "Mogu uzhe idti" is "I can already go". Max sounds hopeful.'),
-    (2, None, '\'Wait! Did you cook lunch for the cooks?\' "Podozhdi" is a short, sharp "wait". "Obed" is the main midday meal.'),
-    (3, None, '\'Yes, of course, I already made everything.\' "Sdelal" is "did" or "made", and a man ends it in -l.'),
-    (4, None, '\'Is everything definitely ready? You aren\'t deceiving me?\' "Obmanyvayesh\'" comes from "obman", deceit. The chef asks the same thing twice.'),
-    (5, None, '\'Well, almost cooked, very little is left.\' Max hedges with "almost" and "very little is left". The "left" word ends in "-o", because it agrees with a neuter idea: "it remained".'),
-    (6, None, '\'You are lying to my face again!\' "Vryosh\'" is a rude, colloquial "you lie". "V litso" is "in the face", literally "to the face".'),
-    (7, None, '\'Chef, I never lie to you.\' "Ne vru" is "I don\'t lie". Max says "never" and "not" together, as ever.'),
-    (8, None, '\'The lie detector shows something completely different!\' The detector shows something "completely different", with the neuter "drugoye" for "other thing".'),
-    (9, None, '\'This stupid machine simply broke.\' "Slomalas\'" is "broke", with "-s\'" for "broke by itself".'),
-    (10, None, '\'Chef, you are like my own father to me.\' "Rodnoy" comes from "rod", kin, so it means "own by blood". Max is laying on flattery.'),
-    (11, None, '\'Quickly run to the kitchen and feed people!\' "Begi" is the command "run", and "kormi" is "feed". The two commands are joined by "and".'),
-    (12, None, '\'Understood, chef, I will do everything instantly.\' "Slushayus\'" is what a soldier says: "yes, sir". "Momental\'no" is "instantly", from "moment".'),
+    (0, None, '\'Lavrov, come here right now.\' "Podoydi" is "come up", with "pod-", up to. The surname, "Lavrov", marks a serious talk.'),
+    (1, None, '\'Chef, can I already go to the kitchen?\' "Mogu" is "I can", and "uzhe idti" is "already go".'),
+    (2, None, '\'Wait! Did you cook lunch for the cooks?\' "Podozhdi" is the familiar "wait". "Dlya povarov" is "for the cooks", with -ov.'),
+    (3, None, '\'Yes, of course, I already made everything.\' "Sdelal" is "did" or "made", with the man\'s -l. "Uzhe" is "already".'),
+    (4, None, '\'Is everything definitely ready? You aren\'t deceiving me?\' "Tochno" is "for sure". "Obmanyvayesh\'" is from "obman", a deception.'),
+    (5, None, '\'Well, almost cooked, very little is left.\' "Pochti" is "almost". "Ostalos\'", is left, takes the neuter -o because nothing named is the subject.'),
+    (6, None, '\'You are lying to my face again!\' "Vryosh\'" is the blunt everyday "you lie", from "vrat\'". "V litso" is "into the face".'),
+    (7, None, '\'Chef, I never lie to you.\' "Nikogda ne vru" is "never not lie", the double negative. "Vam" is the polite "to you".'),
+    (8, None, '\'The lie detector shows something completely different!\' "Pokazyvayet" is "shows". "Sovsem drugoye" is "something else entirely", neuter for an unnamed thing.'),
+    (9, None, '\'This stupid machine simply broke.\' "Slomalas\'" is "broke", with -s\' for breaking by itself and -a for "mashina".'),
+    (10, None, '\'Chef, you are like my own father to me.\' "Rodnoy", one\'s own, is from "rod", kin. "Kak rodnoy otets" is "like a blood father".'),
+    (11, None, '\'Quickly run to the kitchen and feed people!\' "Begi" is "run", and "kormi" is "feed", two commands joined by "i".'),
+    (12, None, '\'Understood, chef, I will do everything instantly.\' "Slushayus\'" is the soldier\'s "yes, sir", literally "I obey". "Momental\'no" is "instantly", from "moment".'),
 ]

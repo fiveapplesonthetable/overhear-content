@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will not take this guy anywhere anymore!' "Ne voz'mut" is "they won't take", with no one named. "Nikuda" is "nowhere", so the double negative is complete.
-- 'Viktor, we need to talk urgently.' Vika drops the father's name and just says "Viktor", which is closer than the formal version. "Nam nuzhno" is "to us necessary".
-- 'I do not want to talk about this cook.' "Ob etom povare" is "about this cook", with "ob" before a vowel and -e on the cook.
-- 'Max did not go to that interview.' Vika says Max "didn't go", with the round-trip kind of going, and "na to sobesedovaniye" is "to that interview".
-- 'What are you saying right now?' "Chto ty takoye govorish'" is the surprised "what are you saying?". Russian has no "-ing" form.
-- 'It was I who went to the other restaurant.' "Eto ya" puts the spotlight on "I". "Khodila" has the "-la" of a woman.
-- 'Max really is a very talented guy.' "Talantlivyy" comes from "talant". Vika is making her case.
-- 'But you do not let him grow at all.' "Ne dayosh' yemu rasti" is "you don't give him to grow", Russian for "you don't let him". The same pattern was "you don't let me cook".
-- 'How many good people have left here?' "Skol'ko" asks "how many", and the verb comes in the plural, "ushli". "Lyudey" is the plural "of" form.
-- 'Stop giving me your moral lectures!' "Nravoucheniye" is built from "nrav", character, and "uchit'", to teach. It is a lecture on morals.
-- 'I simply genuinely feel sorry for this guy.' "Mne zhal'" is "to me pity", and the thing pitied goes in the "of" form. "Iskrenne" is "sincerely".
-- 'Can I say that he is not fired?' "Uvolen" is the short "fired". "Ne uvolen" is "not fired".
-- 'Do what you want, just leave me alone!' The chef gives up with "do what you want", and then "leave me", the same "ostav' menya" as "leave me alone". The shortest surrender possible.
+- 'They will not take this guy anywhere anymore!' "Ne voz'mut" is "they won't take", with nobody named. "Nikuda" is "nowhere".
+- 'Viktor, we need to talk urgently.' Vika calls him "Viktor", without his father's name. "Nam nuzhno" is "to us it's needed".
+- 'I do not want to talk about this cook.' "Ob etom povare" is "about this cook", with "ob" before a vowel and -e on "povar".
+- 'Max did not go to that interview.' "Ne khodil" is "didn't go and come back". "Na to sobesedovaniye" is "to that interview".
+- 'What are you saying right now?' "Chto ty takoye govorish'?" is "what such are you saying?", a surprised question.
+- 'It was I who went to the other restaurant.' "Eto ya" puts the spotlight on "I". "Khodila" ends in -la for a woman, and "chuzhoy" is "someone else's".
+- 'Max really is a very talented guy.' "Talantlivyy" is "talant" made into an adjective. "Deystvitel'no" is "really".
+- 'But you do not let him grow at all.' "Ne dayosh' yemu rasti" is "you don't give him to grow", the same pattern as "ne dayote mne gotovit'".
+- 'How many good people have left here?' "Skol'ko" is "how many", and after it "lyudi" becomes "lyudey". "Ushli" is "left".
+- 'Stop giving me your moral lectures!' "Nravoucheniya" joins "nrav", morals, and "uchit'", to teach. "Khvatit" is "enough".
+- 'I simply genuinely feel sorry for this guy.' "Mne zhal'" is "to me it's a pity", and the person pitied takes the "of" form, "etogo parnya". "Iskrenne" is "sincerely".
+- 'Can I say that he is not fired?' "Mogu" is "I can". "Ne uvolen" is the short "not fired".
+- 'Do what you want, just leave me alone!' "Delay chto khochesh'" is "do what you want". "Ostav' menya", leave me, is the command of "ostavit'", to leave behind, and Russian needs no word for "alone".

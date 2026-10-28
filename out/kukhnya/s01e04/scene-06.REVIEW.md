@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat my chef's hat!' "Svoy" is "my own", and Russian uses it whenever the owner is the one speaking. "Povarskoy", "cook's", is "povar" with a describing ending.
-- 'None of my people will go to you!' The chef says "nobody from my people will not go", and the doubled negative is correct. "To you" is the short "k vam", and the whole line is swagger.
-- 'Then bon appétit to you, Viktor!' Elena turns the chef's hat joke around and wishes him a good meal. "Priyatnogo vam appetita" puts "to you" in the middle.
-- 'Oh you, ungrateful people!' "Neblagodarnyye" is "ne-" plus "blagodarnyye", thankful, from "blagodarit'", to thank. It's a formal word for a big accusation.
-- 'Whose résumé is lying on the table?' "Ch'yo" is "whose", in the neuter, because "rezyume" is neuter. "Lezhit" is "lies", and Russians say a thing "lies" on a table.
-- 'Who went for an interview to the competitors?' "Khodil" is "went and came back", a round-trip form of "go". "K konkurentam" is "to competitors", ending in "-am".
-- 'Chef, we know nothing about this.' "Nichego ne znayem" is "nothing we don't know", the double negative. "Ob etom" is "about this", with "ob" before a vowel.
-- 'Why are you all silent?' "Molchite", "you are silent", uses the polite or plural "you". "Vy vse" is "you all".
-- 'Do you think I won't find out anything?' "Uznayu" is "I will find out", from "znat'", to know. The double negative is back.
-- 'We are loyal to our restaurant.' "Verny" is "faithful", from "vera", faith. "Nashemu restoranu" is "to our restaurant", with "-omu" and "-u" endings for "to".
-- 'Well then, I will find out everything myself!' "Vyyasnyu" has "yasno", clear, in it, so "I will make it clear". "Nu chto zh" is "well then".
-- 'The traitor will be immediately fired!' "Predatel'" comes from "predat'", to betray. "Uvolen" is "fired", the short, final word. And "nemedlenno", not slowly, is "immediately".
-- 'It seems the chef is in a real fury.' The chef is "in fury", which Russian says with the little "v" and a special ending. "It seems" sits at the start like "apparently".
-- 'Must be very careful today.' Max is talking to himself. "Nado" does the job of "must", and "careful" takes the "as" ending after "to be".
+- 'I will eat my chef's hat!' "Svoy" means "one's own", and it replaces "moy" when the owner is the subject. "Povarskoy", cook's, is "povar" made into an adjective.
+- 'None of my people will go to you!' "Nikto iz moikh lyudey ne poydyot" is "nobody of my people will not go", and both negatives are needed. "K vam" is "to you".
+- 'Then bon appétit to you, Viktor!' Elena throws back the hat line with "priyatnogo vam appetita", with "vam", to you, tucked in the middle.
+- 'Oh you, ungrateful people!' "Akh vy" opens a scolding. "Neblagodarnyye" is "ne-" plus "blagodarnyye", grateful, from "blagodarit'", to thank.
+- 'Whose résumé is lying on the table?' "Ch'yo", whose, is neuter because "rezyume" is neuter. "Lezhit", lies, is the verb for things lying flat on a table.
+- 'Who went for an interview to the competitors?' "Khodil" is "went and came back". "K konkurentam" puts -am on "konkurenty" after "k".
+- 'Chef, we know nothing about this.' "Nichego ne znayem" is "nothing we don't know", with both negatives. "Ob etom" is "o", about, grown to "ob" before a vowel.
+- 'Why are you all silent?' "Molchite" is "you are silent", plural. "Vy vse" is "you all".
+- 'Do you think I won't find out anything?' "Uznayu", I'll find out, is "znat'", to know, with "u-". "Nichego ne" doubles the negative again.
+- 'We are loyal to our restaurant.' "Verny", faithful, has "vera", faith, at its root. "Nashemu restoranu" is "to our restaurant", with -emu and -u.
+- 'Well then, I will find out everything myself!' "Vyyasnyu" contains "yasno", clear: I'll make it clear. "Nu chto zh" is "well then", and "sam" is "myself".
+- 'The traitor will be immediately fired!' "Predatel'" is the one who does "predat'", betray. "Nemedlenno" is "ne" plus "medlenno", slowly. "Budet uvolen" is "will be fired".
+- 'It seems the chef is in a real fury.' "Kazhetsya", it seems, is "kazat'", to show, with -sya: it shows itself. "V nastoyashchey yarosti" is "in real fury", with -ey and -i after "v".
+- 'Must be very careful today.' "Nado" is "it's needed", standing in for "must". After "byt'", be, "ostorozhnyy" becomes "ostorozhnym".
