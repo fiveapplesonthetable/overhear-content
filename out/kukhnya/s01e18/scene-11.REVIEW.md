@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну что, мы приехали? | Well what, we arrived? | #1 00:00:10: девушки | adapted: adapted |
+| 1 | Макс | Ну что, мы приехали? | Well what, we arrived? | #1 00:00:10: девушки | adapted: adapted |
 | 2 | Костя | Да, мы на месте. | Yes, we are in place. | #1 00:00:10: девушки | adapted: adapted |
-| 3 | Аня | Нас уже ждут? | Are they waiting for us already? | #1 00:00:10: девушки | adapted: adapted |
+| 3 | Макс | Нас уже ждут? | Are they waiting for us already? | #1 00:00:10: девушки | adapted: adapted |
 | 4 | Костя | Да, они нас ждут. | Yes, they are waiting for us. | #1 00:00:10: девушки | adapted: new |
-| 5 | Аня | Пошли узнаем, как дела. | Let's go find out how things are. | #1 00:00:10: девушки | adapted: adapted |
+| 5 | Макс | Пошли узнаем, как дела. | Let's go find out how things are. | #1 00:00:10: девушки | adapted: adapted |
 | 6 | Костя | Я немного волнуюсь. | I am a little worried. | #1 00:00:10: девушки | adapted: new |
-| 7 | Аня | Ребята, послушайте меня. | Guys, listen to me. | #1 00:00:10: девушки | adapted: adapted |
-| 8 | Аня | Я хочу вам что-то сказать. | I want to tell you something. | #1 00:00:10: девушки | adapted: new |
-| 9 | Аня | В последние дни я перегибал палку. | In the last days I went overboard. | #1 00:00:10: девушки | adapted: adapted |
-| 10 | Аня | Я вел себя очень плохо. | I behaved very badly. | #1 00:00:10: девушки | adapted: new |
+| 7 | Макс | Ребята, послушайте меня. | Guys, listen to me. | #1 00:00:10: девушки | adapted: adapted |
+| 8 | Макс | Я хочу вам что-то сказать. | I want to tell you something. | #1 00:00:10: девушки | adapted: new |
+| 9 | Макс | В последние дни я перегибал палку. | In the last days I went overboard. | #1 00:00:10: девушки | adapted: adapted |
+| 10 | Макс | Я вел себя очень плохо. | I behaved very badly. | #1 00:00:10: девушки | adapted: new |
 | 11 | Костя | Мы понимаем тебя. | We understand you. | #1 00:00:10: девушки | adapted: new |
-| 12 | Аня | Спасибо вам за поддержку. | Thank you for the support. | #1 00:00:10: девушки | adapted: new |
+| 12 | Макс | Спасибо вам за поддержку. | Thank you for the support. | #1 00:00:10: девушки | adapted: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Well what, we arrived?' The question word for 'what' comes right at the start, followed directly by 'we've arrived'.
-- 'Yes, we are in place.' Notice the word order: 'we' comes first, and 'place' finishes the sentence.
-- 'Are they waiting for us already?' Here 'us' sets up the idea, while 'are waiting' comes at the end for emphasis. Kostya answers straight away.
-- 'Yes, they are waiting for us.' Here 'they' sets up the idea, while 'are waiting' comes at the end for emphasis.
-- 'Let's go find out how things are.' Listen for the word meaning 'let's go' right alongside 'will find out' in this line.
-- 'I am a little worried.' Kostya starts with 'I' and pairs it with 'a bit' to make the point clear. Then Max replies.
-- 'Guys, listen to me.' Listen for the word meaning 'the boys' right alongside 'listen' in this line.
-- 'I want to tell you something.' In Russian, 'I' leads into 'tell' in a very natural everyday phrasing.
-- 'In the last days I went overboard.' The first content word means 'last', and 'stick' rounds out the thought.
-- 'I behaved very badly.' A compact expression built around 'I' and 'badly'.
-- 'We understand you.' Listen for the word meaning 'we' right alongside 'to understand' in this line.
-- 'Thank you for the support.' In Russian, 'thank you' leads into 'support' in a very natural everyday phrasing.
+- 'Yes, we are in place.' Russian omits the present-tense verb 'to be', connecting 'yes' directly with 'place'.
+- 'Are they waiting for us already?' Max turns a statement into a question purely through rising intonation on the word meaning 'already', followed by 'are waiting'.
+- 'Yes, they are waiting for us.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'are waiting'.
+- 'Let's go find out how things are.' Max chooses the imperfective verb meaning 'let's go' for the ongoing action, followed by 'will find out' and 'how'.
+- 'I am a little worried.' Here Kostya anchors the line on the word meaning 'a bit' and builds the thought around 'am nervous'.
+- 'Guys, listen to me.' Max uses the imperative command form of the verb meaning 'listen'.
+- 'I want to tell you something.' Max chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'tell'.
+- 'In the last days I went overboard.' Max puts the word for 'last' together with 'day' and 'overdo' in a crisp, natural spoken turn of phrase.
+- 'I behaved very badly.' Max chooses the imperfective verb meaning 'led' for the ongoing action, followed by 'very much' and 'badly'.
+- 'We understand you.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'to understand'.
+- 'Thank you for the support.' Max uses the polite plural 'you' alongside 'support', keeping a formal or respectful register.

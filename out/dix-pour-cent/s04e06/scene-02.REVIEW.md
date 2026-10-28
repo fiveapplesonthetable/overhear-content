@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We're not in court yet.' At the agency, Mathias tells the panicked staff that bankruptcy is just a procedure.
-- 'Ask Camille's mother!' The staff argue over whose fault the impending disaster is, bringing up past mistakes.
-- 'Panic is not the solution! Enough!' Mathias tries to calm everyone down and restore order in the chaotic office.
-- 'It doesn't mean we're shutting down.' He explains that filing for bankruptcy does not necessarily mean the agency will close.
-- 'Hicham, we've lost our talents.' Gabriel points out the harsh reality of their massive talent loss.
-- 'I know! Our cash flow is underwater!' The agency owner admits that their financial situation is completely disastrous.
-- 'Then we're on a sinking ship.' Gabriel compares the failing agency to a famous doomed ocean liner.
-- 'The Titanic! We're not jumping!' He refuses to go down with the agency without putting up a fight.
-- 'I'm just waiting for Andréa.' The owner says he is delaying any decisions until the senior agent arrives.
-- 'Does anyone know where she is?' He asks the rest of the team if they have heard from her.
-- 'We sailed straight into the iceberg.' As Andréa finally arrives, Gabriel dramatically announces their imminent doom.
-- 'This place feels like a morgue.' Andréa notices the gloomy atmosphere and comments on the silence in the office.
-- 'What's your plan to save the agency?' She immediately asks the owner how he intends to fix the situation.
-- 'Can we all stop saying that?' Mathias gets annoyed by the continuous morbid comparisons to death and disasters.
+- 'FIXME translation' At the agency, Mathias tells the panicked staff that bankruptcy is just a procedure. The verb meaning 'to be' pairs naturally with the noun for 'court' in everyday conversation.
+- 'FIXME translation' The staff argue over whose fault the impending disaster is, bringing up past mistakes. Dropping the subject pronoun turns the verb for 'to ask' into a direct, punchy command.
+- 'FIXME translation' Mathias tries to calm everyone down and restore order in the chaotic office. The verb meaning 'to be' pairs naturally with the noun for 'panic' in everyday conversation.
+- 'FIXME translation' He explains that filing for bankruptcy does not necessarily mean the agency will close. The clause hinges on the everyday verb meaning 'to want'.
+- 'FIXME translation' Gabriel points out the harsh reality of their massive talent loss. This conversational past tense combines a helper verb with the past participle for 'to lose'.
+- 'FIXME translation' The agency owner admits that their financial situation is completely disastrous. Notice how 'to know' leads directly into the noun meaning 'cash flow'.
+- 'FIXME translation' Gabriel compares the failing agency to a famous doomed ocean liner. The verb meaning 'to be' pairs naturally with the noun for 'boat' in everyday conversation.
+- 'FIXME translation' He refuses to go down with the agency without putting up a fight. The two-part French negation brackets the verb for 'to go' on both sides.
+- 'FIXME translation' The owner says he is delaying any decisions until the senior agent arrives. The clause hinges on the everyday verb meaning 'to wait'.
+- 'FIXME translation' He asks the rest of the team if they have heard from her. The clause hinges on the everyday verb meaning 'to know'.
+- 'FIXME translation' As Andrea finally arrives, Gabriel dramatically announces their imminent doom. This conversational past tense combines a helper verb with the past participle for 'to go for it'.
+- 'FIXME translation' Andrea notices the gloomy atmosphere and comments on the silence in the office. The verb meaning 'to believe' pairs naturally with the noun for 'morgue' in everyday conversation.
+- 'FIXME translation' She immediately asks the owner how he intends to fix the situation. Andrea uses the polite 'you' form alongside 'to be' to keep a respectful professional tone.
+- 'FIXME translation' Mathias gets annoyed by the continuous morbid comparisons to death and disasters. The clause hinges on the everyday verb meaning 'can'.

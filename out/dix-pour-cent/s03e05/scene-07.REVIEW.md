@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am asking you to be naked here.' The director insists on shooting a full frontal nudity scene.
-- 'No, I cannot do that!' Beatrice firmly refuses to strip down for the scene.
-- 'You will be magnificent, trust me!' The director attempts to flatter the actress into complying.
-- 'I refuse to be a slab of meat!' Beatrice compares the proposed autopsy scene to cheap exploitation.
-- 'This scene seems a little gratuitous to her.' Andrea steps in diplomatically to defend her client's dignity.
-- 'Nothing is gratuitous in my work!' The director aggressively defends his artistic choices.
-- 'Find another idea without undressing me!' Beatrice demands creative visual solutions that preserve her boundaries.
-- 'Let's look at what is written in the script.' Andrea checks the official written screenplay for guidance.
-- 'The character only discovers her face.' Andrea points out that the text mentions only facial framing.
-- 'It is written here, only her face!' Andrea underlines the exact scripted instructions to the director.
-- 'A script is made to be destroyed!' The director claims artistic license to change agreed terms.
-- 'A contract is signed based on a script!' Andrea counters with firm legal and contractual reality.
-- 'You are the best, my favorite agent!' Beatrice expresses deep gratitude to Andrea for protecting her.
+- 'I am asking you to be naked here.' The director insists on shooting a full frontal nudity scene. Notice how the short vowel drops before a vowel sound around 'ask', making the phrase flow smoothly as one unit.
+- 'No, I cannot do that!' Beatrice firmly refuses to strip down for the scene. Dropping the subject pronoun turns the verb for 'can' into a direct, punchy command.
+- 'You will be magnificent, trust me!' The director attempts to flatter the actress into complying. the director uses the casual singular 'you' with 'will be', showing close familiarity.
+- 'I refuse to be a slab of meat!' Beatrice compares the proposed autopsy scene to cheap exploitation. Notice how the short vowel drops before a vowel sound around 'refuse', making the phrase flow smoothly as one unit.
+- 'This scene seems a little gratuitous to her.' Andrea steps in diplomatically to defend her client's dignity. Notice how 'seems' leads directly into the noun meaning 'scene'.
+- 'Nothing is gratuitous in my work!' The director aggressively defends his artistic choices. In spoken French, the little word before 'work!' drops its final vowel and attaches with an apostrophe.
+- 'Find another idea without undressing me!' Beatrice demands creative visual solutions that preserve her boundaries. The verb meaning 'find' pairs naturally with the noun for 'idea' in everyday conversation.
+- 'Let's look at what is written in the script.' Andrea checks the official written screenplay for guidance. Notice how 'let's look' leads directly into the noun meaning 'script.'.
+- 'The character only discovers her face.' Andrea points out that the text mentions only facial framing. Notice how 'discovers' leads directly into the noun meaning 'character'.
+- 'It is written here, only her face!' Andrea underlines the exact scripted instructions to the director. The verb meaning 'it is' pairs naturally with the noun for 'face!' in everyday conversation.
+- 'A script is made to be destroyed!' The director claims artistic license to change agreed terms. Dropping the subject pronoun turns the verb for 'made' into a direct, punchy command.
+- 'A contract is signed based on a script!' Andrea counters with firm legal and contractual reality. The reflexive pronoun sits right in front of the verb for 'is signed', turning the action back onto the subject.
+- 'You are the best, my favorite agent!' Beatrice expresses deep gratitude to Andrea for protecting her. The key noun here means 'agent', anchored by its matching French article.

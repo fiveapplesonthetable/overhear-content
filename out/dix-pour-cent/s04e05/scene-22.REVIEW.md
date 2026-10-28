@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The phones are ringing without stopping today.' Gabriel rushes across the bustling floor. The prepositional phrase sans arrêt depicts nonstop disruption.
-- 'Where have all our assistants gone?' Andrea surveys the empty desks with unease. The interrogative phrase où sont passés highlights the sudden absence.
-- 'Fabrice Luchini has just left me!' Gabriel clutches his receiver in disbelief. The recent past construction vient de quitter reports the loss of a star.
-- 'Why does he make such a brutal decision?' Andrea questions the actor's motive. The adjective brutale conveys sudden shock.
-- 'He claims that I criticize him.' Gabriel recounts the false accusation. The verb prétend indicates an unfounded rumor.
-- 'Look at my emails, it is carnage.' Andrea opens her inbox to endless resignation notices. The dramatic noun carnage captures total destruction.
-- 'What is happening now?' Gabriel asks in dread. The adverb encore expresses weary disbelief.
-- 'Dujardin and Berléand are leaving us too!' Andrea reads the incoming signatures. The proper nouns cite marquee French cinema icons.
-- 'Are all our stars leaving together?' Gabriel connects the coordinated strike. The adverb ensemble underlines the organized sabotage.
-- 'Elise is bleeding us dry.' Andrea grasps the ruthless strategy. The progressive structure est en train de saigner evokes lethal damage.
-- 'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic. The past perfect verb t'avais prévenue reminds her of his foresight.
-- 'She is taking everyone to StarMedia.' Andrea names the rival agency destination. The present verb emmène describes the massive poaching.
-- 'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse. The adjective ruinée spells catastrophe for ASK.
-- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger. The idiomatic promise faire payer cher heralds a fierce counterattack.
+- 'The phones are ringing without stopping today.' Gabriel rushes across the bustling floor. The verb meaning 'ring' pairs naturally with the noun for 'phones' in everyday conversation.
+- 'Where have all our assistants gone?' Andrea surveys the empty desks with unease. In everyday spoken French, rising intonation on 'gone' at the end is enough to turn the sentence into a question.
+- 'Fabrice Luchini has just left me!' Gabriel clutches his receiver in disbelief. The reflexive pronoun sits right in front of the verb for 'comes', turning the action back onto the subject.
+- 'Why does he make such a brutal decision?' Andrea questions the actor's motive. Notice how 'takes' leads directly into the noun meaning 'decision'.
+- 'He claims that I criticize him.' Gabriel recounts the false accusation. The clause hinges on the everyday verb meaning 'claims'.
+- 'Look at my emails, it is carnage.' Andrea opens her inbox to endless resignation notices. Notice how 'look at' leads directly into the noun meaning 'emails'.
+- 'What is happening now?' Gabriel asks in dread. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry.
+- 'Dujardin and Berleand are leaving us too!' Andrea reads the incoming signatures. The clause hinges on the everyday verb meaning 'leave'.
+- 'Are all our stars leaving together?' Gabriel connects the coordinated strike. In everyday spoken French, rising intonation on 'leave' at the end is enough to turn the sentence into a question.
+- 'Elise is bleeding us dry.' Andrea grasps the ruthless strategy. The clause hinges on the everyday verb meaning 'to bleed'.
+- 'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic. Notice how 'had' leads directly into the noun meaning 'traitor'.
+- 'She is taking everyone to StarMedia.' Andrea names the rival agency destination. Notice how 'takes' leads directly into the noun meaning 'world'.
+- 'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse. The verb meaning 'ruined' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger. The clause hinges on the everyday verb meaning 'am going'.

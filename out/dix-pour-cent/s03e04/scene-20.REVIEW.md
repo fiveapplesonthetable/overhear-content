@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for the little teddy bear.' Andrea expresses genuine appreciation for the gift. The courteous formula opens the conversation warmly.
-- 'It is a gift for our daughter.' Hicham proudly refers to the new baby. The possessive adjective establishes his emotional investment.
-- 'The civil registrar has just arrived.' Andrea introduces the municipal official into the room. The compound past verb signals the start of the legal procedure.
-- 'Is he coming for the birth declaration?' Hicham inquires about the administrative paperwork. The prepositional phrase names the mandatory registration process.
-- 'Yes, we must give our official names.' Andrea confirms the statutory procedure. The modal verb of obligation highlights the legal requirement.
-- 'My family name is Janowski.' Hicham announces his identity to the registrar. The noun phrase declares his paternal surname.
-- 'No Hicham, I am indicating without father.' Andrea delivers a stunning unilateral decision. The prepositional phrase legally excludes him from the certificate.
-- 'How dare you say such a thing?' Hicham is deeply wounded by her statement. The interrogative idiom expresses profound disbelief and hurt.
-- 'I discussed it at great length with Colette.' Andrea stands firmly by their joint decision. The adverbial structure emphasizes careful premeditation.
-- 'But I am the biological father!' Hicham insists on his fundamental parental reality. The emphatic noun phrase defends his biological identity.
-- 'Colette and I form her family.' Andrea asserts her domestic reality with Colette. The transitive verb defines the two mothers as the primary household.
-- 'I refuse to be erased from her life.' Hicham protests against being sidelined as a parent. The passive infinitive rejects bureaucratic erasure.
-- 'You will always keep an important place.' Andrea reassures him of his personal significance. The future tense verb promises ongoing presence without legal custody.
+- 'Thank you for the little teddy bear.' Andrea expresses genuine appreciation for the gift. The descriptive adjective for 'little' agrees in gender and number with its noun.
+- 'It is a gift for our daughter.' Hicham proudly refers to the new baby. The key noun here means 'gift', anchored by its matching French article.
+- 'The civil registrar has just arrived.' Andrea introduces the municipal official into the room. The verb meaning 'comes' pairs naturally with the noun for 'officer' in everyday conversation.
+- 'Is he coming for the birth declaration?' Hicham inquires about the administrative paperwork. Notice how 'comes' leads directly into the noun meaning 'declaration'.
+- 'Yes, we must give our official names.' Andrea confirms the statutory procedure. The descriptive adjective for 'official' agrees in gender and number with its noun.
+- 'My family name is Janowski.' Hicham announces his identity to the registrar. The key noun here means 'name', anchored by its matching French article.
+- 'No Hicham, I am indicating without father.' Andrea delivers a stunning unilateral decision. The verb meaning 'indicate' pairs naturally with the noun for 'father' in everyday conversation.
+- 'How dare you say such a thing?' Hicham is deeply wounded by her statement. The adjective meaning 'such' takes its feminine form here to match the noun it describes.
+- 'I discussed it at great length with Colette.' Andrea stands firmly by their joint decision. This conversational past tense combines a helper verb with the past participle for 'discussed'.
+- 'But I am the biological father!' Hicham insists on his fundamental parental reality. The key noun here means 'father', anchored by its matching French article.
+- 'Colette and I form her family.' Andrea asserts her domestic reality with Colette. The verb meaning 'form' pairs naturally with the noun for 'family' in everyday conversation.
+- 'I refuse to be erased from her life.' Hicham protests against being sidelined as a parent. The verb meaning 'refuse' pairs naturally with the noun for 'life' in everyday conversation.
+- 'You will always keep an important place.' Andrea reassures him of his personal significance. Notice how 'will keep' leads directly into the noun meaning 'place'.
 - 'I need time to process that.' Hicham struggles to accept the painful boundary. The verbal idiom with the verb expresses necessary emotional time.

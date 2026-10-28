@@ -12,11 +12,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Родион | Этот суп действительно очень вкусный и горячий. | This soup is really very tasty and hot. | #290 00:19:29: Хорош супец. | adapted: praising soup |
 | 2 | Родион | Костя, скажи честно, что с тобой случилось? | Kostya, tell honestly, what happened with you? | #291 00:19:33: Костя, что с тобой? | adapted: asking bartender |
-| 3 | Аня | Всё нормально, я просто вытираю эту рюмку. | Everything is fine, I am simply wiping this glass. | #292 00:19:34: Все нормально.<br>#293 00:19:36: Эта рюмка уже полчаса трет. | adapted: downplaying anxiety |
+| 3 | Костя | Всё нормально, я просто вытираю эту рюмку. | Everything is fine, I am simply wiping this glass. | #292 00:19:34: Все нормально.<br>#293 00:19:36: Эта рюмка уже полчаса трет. | adapted: downplaying anxiety |
 | 4 | Родион | Ты моешь её уже целых полчаса. | You have been washing it for a whole half hour already. | #293 00:19:36: Эта рюмка уже полчаса трет. | adapted: pointing out nervous habit |
-| 5 | Аня | У Насти за столом сидит важный критик. | An important critic is sitting at Nastya's table. | #295 00:19:44: У Насти за столиком сидит тип очень важный.<br>#296 00:19:47: Критик. | adapted: explaining situation |
-| 6 | Аня | Этот наглый мужчина грубо пристаёт к ней. | This insolent man is rudely hitting on her. | #297 00:19:50: Он пристает к ней. | adapted: describing harassment |
-| 7 | Аня | Я боюсь сделать что-нибудь плохое для ресторана. | I am afraid of doing something bad for the restaurant. | #298 00:19:53: А я сделать ничего не могу. Он же критик.<br>#299 00:19:55: Не дай бог, что-нибудь плохое про наш ресторан напишет. | adapted: confessing hesitation |
+| 5 | Костя | У Насти за столом сидит важный критик. | An important critic is sitting at Nastya's table. | #295 00:19:44: У Насти за столиком сидит тип очень важный.<br>#296 00:19:47: Критик. | adapted: explaining situation |
+| 6 | Костя | Этот наглый мужчина грубо пристаёт к ней. | This insolent man is rudely hitting on her. | #297 00:19:50: Он пристает к ней. | adapted: describing harassment |
+| 7 | Костя | Я боюсь сделать что-нибудь плохое для ресторана. | I am afraid of doing something bad for the restaurant. | #298 00:19:53: А я сделать ничего не могу. Он же критик.<br>#299 00:19:55: Не дай бог, что-нибудь плохое про наш ресторан напишет. | adapted: confessing hesitation |
 | 8 | Родион | Понимаешь, проблема совсем не в этом критике. | You see, the problem is not at all in this critic. | #301 00:20:01: Понимаешь, проблема тут не в том, кто он | adapted: starting philosophical advice |
 | 9 | Родион | Главный вопрос здесь в том, кто ты. | The main question here is in who you are. | #301 00:20:01: а кто ты. | adapted: reframing issue |
 | 10 | Родион | Передай мне соль, пожалуйста, юный друг. | Pass me the salt, please, young friend. | #303 00:20:08: Дай, пожалуйста, соль. | adapted: asking for condiment |

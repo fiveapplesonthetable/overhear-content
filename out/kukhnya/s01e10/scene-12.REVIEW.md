@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костя, что происходит с нашим Максом? | Kostya, what is happening with our Max? | #88 00:06:22: А что происходит с Максом | adapted: asking about Max's behavior |
+| 1 | Вика | Костя, что происходит с нашим Максом? | Kostya, what is happening with our Max? | #88 00:06:22: А что происходит с Максом | adapted: asking about Max's behavior |
 | 2 | Костя | А что вообще происходит с Максом? | And what is happening with Max at all? | #89 00:06:24: А что происходит с Максом | adapted: feigning ignorance |
-| 3 | Аня | Это я тебя сейчас прямо спрашиваю! | It is I who is asking you directly right now! | #89 00:06:24: Нет, это я тебя спрашиваю | adapted: demanding a direct answer |
+| 3 | Вика | Это я тебя сейчас прямо спрашиваю! | It is I who is asking you directly right now! | #89 00:06:24: Нет, это я тебя спрашиваю | adapted: demanding a direct answer |
 | 4 | Костя | Я честно ничего не знаю, Вика. | I honestly know nothing, Vika. | #90 00:06:27: Я не знаю | adapted: claiming ignorance |
-| 5 | Аня | Он твой лучший друг в ресторане! | He is your best friend in the restaurant! | new | new: appealing to their close friendship |
+| 5 | Вика | Он твой лучший друг в ресторане! | He is your best friend in the restaurant! | new | new: appealing to their close friendship |
 | 6 | Костя | Он мне совершенно ничего не говорил. | He told me absolutely nothing. | #91 00:06:30: Он мне ничего не говорил | adapted: denying any conversation |
-| 7 | Аня | Ты явно скрываешь от меня правду. | You are clearly concealing the truth from me. | new | new: accusing him of hiding things |
+| 7 | Вика | Ты явно скрываешь от меня правду. | You are clearly concealing the truth from me. | new | new: accusing him of hiding things |
 | 8 | Костя | Я не знаю, почему он прячется! | I do not know why he is hiding! | #91 00:06:30: почему он от вас прячется | adapted: accidentally letting slip the truth |
-| 9 | Аня | То есть Макс прячется от меня? | So that means Max is hiding from me? | #92 00:06:37: То есть он от меня прячется | adapted: catching the slip-up |
+| 9 | Вика | То есть Макс прячется от меня? | So that means Max is hiding from me? | #92 00:06:37: То есть он от меня прячется | adapted: catching the slip-up |
 | 10 | Костя | Что? Нет! Кто вообще прячется? | What? No! Who is hiding at all? | #93 00:06:39: Что? Нет. Кто | adapted: trying frantically to backtrack |
-| 11 | Аня | Костя, не пытайся меня обмануть сейчас! | Kostya, do not try to deceive me right now! | #94 00:06:45: Костя? Да | adapted: warning him not to lie |
+| 11 | Вика | Костя, не пытайся меня обмануть сейчас! | Kostya, do not try to deceive me right now! | #94 00:06:45: Костя? Да | adapted: warning him not to lie |
 | 12 | Костя | Вика, я правда ничего не знаю! | Vika, I truly know nothing! | #94 00:06:45: Да | adapted: pleading innocence |
 
 ## Walk-through narration (English only, no target-language words quoted)

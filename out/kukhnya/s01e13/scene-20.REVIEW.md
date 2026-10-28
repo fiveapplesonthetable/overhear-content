@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Доброе утро, Дмитрий Владимирович. | Good morning, Dmitry Vladimirovich. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
+| 1 | Вика | Доброе утро, Дмитрий Владимирович. | Good morning, Dmitry Vladimirovich. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 2 | Нагиев | Пожалуй, добрый день, Вика. | I would say it is afternoon, Vika. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 3 | Нагиев | Почему, Вик, на выставку не улетели? | Why didn't you fly out to the exhibition? | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
-| 4 | Аня | Так ее же отменили. | It was cancelled. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
-| 5 | Аня | Я звонила своим друзьям. | I called my contacts. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
+| 4 | Вика | Так ее же отменили. | It was cancelled. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
+| 5 | Вика | Я звонила своим друзьям. | I called my contacts. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 6 | Нагиев | Вам же звонил там какой-то предприниматель. | Some businessman called you, right? | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
-| 7 | Аня | Какой? | Who? | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
-| 8 | Аня | Да, звонил. | Yeah, he called. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
+| 7 | Вика | Какой? | Who? | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
+| 8 | Вика | Да, звонил. | Yeah, he called. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 9 | Нагиев | Сейчас скажем. | Let's see. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 10 | Нагиев | Александр Дель Пьеро. | Alexander Del Piero. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
-| 11 | Аня | Сказал, что выставка отменяется. | He said the exhibition was cancelled. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
+| 11 | Вика | Сказал, что выставка отменяется. | He said the exhibition was cancelled. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 12 | Нагиев | С московского телефона звонят? | Was it a call from a Moscow number? | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 13 | Нагиев | Да, вот номер. | Yeah, here is the number. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
 | 14 | Нагиев | Набирайте. | Call it. | #269 00:21:01: Доброе утро, Дмитрий Владимирович. | verbatim |
@@ -30,16 +30,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Dmitry Vladimirovich.' -- Vika greets the restaurant owner very politely.
-- 'I would say it is afternoon, Vika.' -- He corrects her about the current time.
-- 'Why didn't you fly out to the exhibition?' -- He asks about her cancelled business trip.
-- 'It was cancelled. I called my contacts.' -- She repeats the fake story to him.
-- 'Some businessman called you, right?' -- Nagiev asks for details about the call.
-- 'Who? Yeah, he called.' -- Vika nervously confirms the fake conversation.
-- 'Let's see. Alexander Del Piero.' -- He reads the fake Italian name aloud.
-- 'He said the exhibition was cancelled.' -- She desperately tries to maintain the lie.
-- 'Was it a call from a Moscow number?' -- He catches her in a geographical lie.
-- 'Yeah, here is the number. Call it.' -- He challenges her to verify the caller.
-- 'Dmitry Vladimirovich. I hope you know what you're doing, Vik.' -- He expresses his deep disappointment in her.
-- 'If you hadn't done so much for our restaurant...' -- He reminds her of her past value.
-- 'I would have fired you. As it is...' -- He reveals his true anger at her.
+- 'Good morning, Dmitry Vladimirovich.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning' to make the point directly in conversation.
+- 'I would say it is afternoon, Vika.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.
+- 'Why didn't you fly out to the exhibition?' The phrasing opens with 'why' before bringing in 'exhibition' and 'to fly away' to make the point clear.
+- 'It was cancelled.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to cancel'.
+- 'I called my contacts.' Vika chooses the imperfective verb meaning 'called' for the ongoing action, followed by 'friend'.
+- 'Some businessman called you, right?' Nagiyev chooses the imperfective verb meaning 'called' for the ongoing action, followed by 'there' and 'entrepreneur'.
+- 'Who?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'what a'.
+- 'Yeah, he called.' Vika delivers a punchy conversational reaction built around the Russian word meaning 'called'.
+- 'Let's see.' Nagiyev puts the word for 'now' together with 'we'll say' in a crisp, natural spoken turn of phrase.
+- 'Alexander Del Piero.' Russian omits the present-tense verb 'to be' here, linking 'Alexander' directly with 'Del', combining 'Alexander' with 'Del' and 'Pierrot'.
+- 'He said the exhibition was cancelled.' Vika uses the perfective verb meaning 'said' to focus on the single completed result, pairing it with 'exhibition' and 'is canceled'.
+- 'Was it a call from a Moscow number?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'Moscow', pairing it with 'phone' and 'call'.
+- 'Yeah, here is the number.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'number'.

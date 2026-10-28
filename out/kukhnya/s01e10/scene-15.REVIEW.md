@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тамара, здравствуй, это Витя Баринов беспокоит. | Tamara, hello, this is Vitya Barinov calling. | #131 00:08:50: Тамарочка, здравствуй<br>#132 00:08:52: Это Витя Баринов тебя беспокоит | adapted: calling the bookmaker |
+| 1 | Шеф | Тамара, здравствуй, это Витя Баринов беспокоит. | Tamara, hello, this is Vitya Barinov calling. | #131 00:08:50: Тамарочка, здравствуй<br>#132 00:08:52: Это Витя Баринов тебя беспокоит | adapted: calling the bookmaker |
 | 2 | Тамара | Привет, Витя, ты хочешь сделать ставку? | Hi, Vitya, do you want to place a bet? | new | new: greeting the client |
-| 3 | Аня | Да, поставь деньги на матч Спартака. | Yes, put money on the Spartak match. | #133 00:08:54: А я хотел сделать ставочку на Спартак ЦСКА | adapted: specifying the football match |
+| 3 | Шеф | Да, поставь деньги на матч Спартака. | Yes, put money on the Spartak match. | #133 00:08:54: А я хотел сделать ставочку на Спартак ЦСКА | adapted: specifying the football match |
 | 4 | Тамара | Ты ставишь на победу родного Спартака? | Are you betting on your native Spartak's victory? | new | new: assuming his usual loyalty |
-| 5 | Аня | Нет, я ставлю на победу ЦСКА! | No, I am betting on a CSKA victory! | #134 00:08:58: Не-не, на победу ЦСКА<br>#135 00:09:02: ЦСКА | adapted: shocking the bookmaker |
+| 5 | Шеф | Нет, я ставлю на победу ЦСКА! | No, I am betting on a CSKA victory! | #134 00:08:58: Не-не, на победу ЦСКА<br>#135 00:09:02: ЦСКА | adapted: shocking the bookmaker |
 | 6 | Тамара | Ты не шутишь? Это же твои враги! | Are you not joking? They are your enemies! | new | new: reacting with surprise |
-| 7 | Аня | Я ставлю ровно сто тысяч рублей! | I bet exactly one hundred thousand rubles! | #136 00:09:04: Сто тысяч | adapted: announcing the huge amount |
+| 7 | Шеф | Я ставлю ровно сто тысяч рублей! | I bet exactly one hundred thousand rubles! | #136 00:09:04: Сто тысяч | adapted: announcing the huge amount |
 | 8 | Тамара | У тебя есть с собой такие деньги? | Do you have that kind of money with you? | new | new: checking his solvency |
-| 9 | Аня | Зарезервируй ставку, я скоро привезу наличные. | Reserve the bet, I will bring cash soon. | #137 00:09:06: Ты зарезервируй за мной ставочку, а я по почте денежку завезу | adapted: promising prompt payment |
+| 9 | Шеф | Зарезервируй ставку, я скоро привезу наличные. | Reserve the bet, I will bring cash soon. | #137 00:09:06: Ты зарезервируй за мной ставочку, а я по почте денежку завезу | adapted: promising prompt payment |
 | 10 | Тамара | Хорошо, твоя ставка принята в конторе. | All right, your bet is accepted at the office. | new | new: confirming the booking |
-| 11 | Аня | Спасибо, деньги сейчас для меня важнее всего. | Thank you, money right now matters more than anything to me. | #140 00:09:18: Для меня сейчас деньги важнее принципов | adapted: justifying his compromise |
+| 11 | Шеф | Спасибо, деньги сейчас для меня важнее всего. | Thank you, money right now matters more than anything to me. | #140 00:09:18: Для меня сейчас деньги важнее принципов | adapted: justifying his compromise |
 | 12 | Тамара | Надеюсь, ты понимаешь свой огромный риск. | I hope you understand your huge risk. | new | new: advising caution on the wager |
 
 ## Walk-through narration (English only, no target-language words quoted)

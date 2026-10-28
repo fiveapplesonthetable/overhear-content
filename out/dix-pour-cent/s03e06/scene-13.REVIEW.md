@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This line works very well.' The director appreciates the poetic phrasing. The verb 'fonctionner' means to work effectively.
 - 'Cinema magic always works.' Gabriel praises the power of artistic illusion. The verb 'operer' means to produce an intended effect.
 - 'Let's film this take without waiting.' The director decides to start rolling. The imperative 'tournons' invites immediate shooting.
-- 'Silence on set, please!' Gabriel calls for absolute quiet around the cameras. The politeness formula 's'il vous plait' is essential.
+- 'Silence on set, please!' Gabriel calls for absolute quiet around the cameras. The verb meaning 'pleases' pairs naturally with the noun for 'silence' in everyday conversation.
 - 'Action! Everyone is ready.' The director begins the crucial camera take. The adjective 'pret' indicates readiness to perform.

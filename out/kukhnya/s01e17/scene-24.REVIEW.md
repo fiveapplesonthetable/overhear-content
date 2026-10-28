@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сложно исправлять ошибки обмана. | It is hard to fix the mistakes of deceit. | #332 00:23:32: Но самое сложное – это исправлять последствия вранья. | adapted: adapted |
+| 1 | Макс | Сложно исправлять ошибки обмана. | It is hard to fix the mistakes of deceit. | #332 00:23:32: Но самое сложное – это исправлять последствия вранья. | adapted: adapted |
 | 2 | Костя | Ложь всегда создаёт новую ложь. | A lie always creates a new lie. | #333 00:23:36: Ложь порождает новую ложь | adapted: adapted |
-| 3 | Аня | И найти выход бывает невозможно. | And finding an exit can be impossible. | #333 00:23:36: и выбраться из этого невозможно. | adapted: adapted |
+| 3 | Макс | И найти выход бывает невозможно. | And finding an exit can be impossible. | #333 00:23:36: и выбраться из этого невозможно. | adapted: adapted |
 | 4 | Костя | Главное — говорить правду. | The main thing is to speak the truth. | #331 00:23:11: Правда | adapted: adapted |
-| 5 | Аня | Надо верить в свои силы. | One must believe in one's strength. | #334 00:23:41: Остается только верить в свои силы | adapted: adapted |
+| 5 | Макс | Надо верить в свои силы. | One must believe in one's strength. | #334 00:23:41: Остается только верить в свои силы | adapted: adapted |
 | 6 | Костя | И верить в себя настоящего. | And believe in your true self. | #334 00:23:41: в себя настоящего. | adapted: adapted |
-| 7 | Аня | Я хочу начать всё заново. | I want to start everything over. | #335 00:23:45: начинаешь все с чистого листа | adapted: adapted |
+| 7 | Макс | Я хочу начать всё заново. | I want to start everything over. | #335 00:23:45: начинаешь все с чистого листа | adapted: adapted |
 | 8 | Костя | Ты можешь всё исправить, Макс. | You can fix everything, Max. | #332 00:23:32: исправлять | adapted: adapted |
-| 9 | Аня | Я начинаю всё с чистого листа. | I am starting everything with a clean slate. | #335 00:23:45: начинаешь все с чистого листа | adapted: adapted |
+| 9 | Макс | Я начинаю всё с чистого листа. | I am starting everything with a clean slate. | #335 00:23:45: начинаешь все с чистого листа | adapted: adapted |
 | 10 | Костя | У тебя впереди хорошее будущее. | You have a good future ahead. | #335 00:23:45: у тебя впереди | adapted: adapted |
-| 11 | Аня | Твоя судьба зависит только от тебя. | Your destiny depends only on you. | #336 00:23:50: что сделаешь ты сам. | adapted: adapted |
+| 11 | Макс | Твоя судьба зависит только от тебя. | Your destiny depends only on you. | #336 00:23:50: что сделаешь ты сам. | adapted: adapted |
 | 12 | Костя | Мы верим в тебя, друг. | We believe in you, friend. | #334 00:23:41: верить | adapted: adapted |
-| 13 | Аня | Спасибо, Костя, за твою поддержку. | Thank you, Kostya, for your support. | new | new: new |
+| 13 | Макс | Спасибо, Костя, за твою поддержку. | Thank you, Kostya, for your support. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is hard to fix the mistakes of deceit.' -- Max reflects on the painful results of deceit.
-- 'A lie always creates a new lie.' -- Kostya agrees that dishonesty compounds.
-- 'And finding an exit can be impossible.' -- Max notes how traps are formed by lies.
-- 'The main thing is to speak the truth.' -- Kostya emphasizes the power of honesty.
-- 'One must believe in one's strength.' -- Max finds inner resolve to carry on.
-- 'And believe in your true self.' -- Kostya encourages him to stay authentic with others.
-- 'I want to start everything over.' -- Max expresses a desire for redemption.
-- 'You can fix everything, Max.' -- His loyal friend offers reassurance to him.
-- 'I am starting everything with a clean slate.' -- Max commits to a fresh beginning.
-- 'You have a good future ahead.' -- Kostya points toward positive possibilities for him.
-- 'Your destiny depends only on you.' -- Max takes full ownership of his path.
-- 'We believe in you, friend.' -- Kostya confirms the strength of their bond.
-- 'Thank you, Kostya, for your support.' -- Max expresses deep appreciation for his loyalty.
+- 'It is hard to fix the mistakes of deceit.' Max puts the word for 'difficult' together with 'to fix' and 'mistakes' in a crisp, natural spoken turn of phrase.
+- 'A lie always creates a new lie.' Here Kostya anchors the line on the word meaning 'lie' and builds the thought around 'always' and 'creates'.
+- 'And finding an exit can be impossible.' Max uses the perfective verb meaning 'to find' to focus on the single completed result, pairing it with 'way out' and 'there can be'.
+- 'The main thing is to speak the truth.' Kostya expresses this naturally by combining the word for 'important' with 'to talk' and 'truth'.
+- 'One must believe in one's strength.' Max puts the word for 'it is necessary' together with 'to believe' and 'strength' in a crisp, natural spoken turn of phrase.
+- 'And believe in your true self.' Kostya chooses the imperfective verb meaning 'to believe' for the ongoing action, followed by 'real'.
+- 'I want to start everything over.' Max chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to begin' and 'anew'.
+- 'You can fix everything, Max.' Kostya chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'to fix'.
+- 'I am starting everything with a clean slate.' Max chooses the imperfective verb meaning 'am starting' for the ongoing action, followed by 'clean' and 'slate'.
+- 'You have a good future ahead.' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'ahead' and 'lovely'.
+- 'Your destiny depends only on you.' The phrasing opens with 'fate' before bringing in 'depends' and 'only' to make the point clear.
+- 'We believe in you, friend.' Kostya chooses the imperfective verb meaning 'believe' for the ongoing action, followed by 'friend'.
+- 'Thank you, Kostya, for your support.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'support' to make the point directly in conversation.

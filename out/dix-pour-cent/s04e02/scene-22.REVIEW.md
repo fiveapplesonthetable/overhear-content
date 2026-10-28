@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You did not come just for that.' Andrea looks at Elise with sharp suspicion. The negative compound past questions her real motive.
-- 'Dany Boon has decided to leave ASK.' Elise drops the stunning announcement. The infinitive phrase conveys the major star defection.
-- 'Excuse me? What did you just announce?' Andrea gasps in shock. The idiom venir de emphasizes her immediate disbelief.
-- 'He joins me directly at StarMedia.' Elise explains the transfer matter-of-factly. The preposition chez identifies the rival firm.
-- 'You are bluffing, that is totally false!' Andrea denies the painful reality. The present tense verb rejects the unbelievable news.
-- 'Mathias Barneville did what was needed.' Elise reveals Mathias's secret maneuvering. The idiomatic phrase highlights his behind-the-scenes deal.
-- 'Did Mathias negotiate this departure in secret?' Andrea realizes the full extent of the betrayal. The prepositional phrase points out the stealth.
-- 'You were fooled too.' Elise points out their shared defeat. The familiar idiom se faire avoir describes being tricked.
-- 'Did you want to see my shocked face?' Andrea accuses her of gloating. The descriptive adjective conveys emotional turmoil.
-- 'No, I want to make you a proposal.' Elise leans across the desk calmly. The verb phrase introduces a surprising strategic offer.
-- 'What kind of dishonest proposal?' Andrea responds with cold skepticism. The interrogative noun phrase challenges her intentions.
-- 'We should ally ourselves against Mathias.' Elise suggests joining forces against the common rival. The conditional verb proposes a mutual pact.
-- 'I will never trust you.' Andrea rejects any cooperation with a StarMedia agent. The future tense with negative adverbs establishes a firm refusal.
+- 'You did not come just for that.' Andrea looks at Elise with sharp suspicion. This conversational past tense combines a helper verb with the past participle for 'come'.
+- 'Dany Boon has decided to leave ASK.' Elise drops the stunning announcement. The clause hinges on the everyday verb meaning 'has'.
+- 'Excuse me? What did you just announce?' Andrea gasps in shock. Notice how 'come' leads directly into the noun meaning 'pardon'.
+- 'He joins me directly at StarMedia.' Elise explains the transfer matter-of-factly. The clause hinges on the everyday verb meaning 'joins'.
+- 'You are bluffing, that is totally false!' Andrea denies the painful reality. The descriptive adjective for 'false' agrees in gender and number with its noun.
+- 'Mathias Barneville did what was needed.' Elise reveals Mathias's secret maneuvering. This conversational past tense combines a helper verb with the past participle for 'done'.
+- 'Did Mathias negotiate this departure in secret?' Andrea realizes the full extent of the betrayal. This conversational past tense combines a helper verb with the past participle for 'negotiated'.
+- 'You were fooled too.' Elise points out their shared defeat. The clause hinges on the everyday verb meaning 'made'.
+- 'Did you want to see my shocked face?' Andrea accuses her of gloating. Andrea uses the casual singular 'you' with 'wanted', showing close familiarity.
+- 'No, I want to make you a proposal.' Elise leans across the desk calmly. Notice how 'want' leads directly into the noun meaning 'proposal'.
+- 'What kind of dishonest proposal?' Andrea responds with cold skepticism. The key noun here means 'kind', anchored by its matching French article.
+- 'We should ally ourselves against Mathias.' Elise suggests joining forces against the common rival. The clause hinges on the everyday verb meaning 'should'.
+- 'I will never trust you.' Andrea rejects any cooperation with a StarMedia agent. The verb meaning 'will make' pairs naturally with the noun for 'trust' in everyday conversation.
 - 'Think carefully before refusing, Andrea.' Elise rises and warns her solemnly. The imperative verb urges prudence before rejecting the deal.

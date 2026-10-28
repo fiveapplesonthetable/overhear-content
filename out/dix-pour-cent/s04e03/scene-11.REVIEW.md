@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Camille, can you help me a bit?' Sofia asks her agent for a helping hand with her dress. The modal verb 'pouvoir' expresses polite ability in questions.
-- 'Of course! You are so beautiful today.' Camille warmly praises Sofia's appearance. The intensifier 'tellement' means so or very.
+- 'Of course! You are so beautiful today.' Camille warmly praises Sofia's appearance. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
 - 'Is it finally my turn now?' Sofia wonders if the studio photographer is ready for her. The adverb 'enfin' marks relief after a waiting period.
 - 'Yes, Melanie has just finished.' Camille lets Sofia know that the preceding session wrapped up. The recent past construction uses 'venir de' followed by an infinitive.
 - 'Melanie Meyer? The actress of the Cesar?' Sofia recognizes the name of the rival actress who won the film prize. The masculine noun 'Cesar' refers to the French film academy trophy.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She took the Cesar from me!' Sofia vents her lingering bitterness over losing the trophy. The indirect pronoun 'me' indicates who was affected by the action.
 - 'Am I always going to come in second?' Sofia fears that she will constantly remain in the shadow of her rival. The ordinal numeral 'deuxieme' means second.
 - 'Do not think about that award anymore.' Camille encourages Sofia to focus on the present photoshoot. The negative structure 'ne ... plus' means no longer or not anymore.
-- 'You have an immense talent, Sofia.' Camille reminds her of her unique charisma and acting gifts. The adjective 'immense' emphasizes great artistic power.
+- 'You have an immense talent, Sofia.' Camille reminds her of her unique charisma and acting gifts. Camille uses the casual singular 'you' with 'have', showing close familiarity.
 - 'I want to give the best today.' Sofia finds her determination to shine for the photographer. The expression 'donner le meilleur' means to do one's very best.
 - 'Show them your strength in front of the camera!' Camille gives a final boost of confidence before the flashbulbs fire. The imperative verb 'montre' commands bold action on set.

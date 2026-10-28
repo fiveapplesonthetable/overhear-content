@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Виктор Петрович, не стыдно мне. | Viktor Petrovich, aren't you ashamed of me? | #278 00:20:41: не стыдно мне | adapted: adapted |
-| 2 | Аня | Да не особо. | Not really. | #279 00:20:45: Да не особо | adapted: adapted |
-| 3 | Аня | Здорово, когда начальство понятливое. | It is great when the boss is understanding. | #281 00:20:58: когда начальство понятливое | adapted: adapted |
+| 1 | Шеф | Виктор Петрович, не стыдно мне. | Viktor Petrovich, aren't you ashamed of me? | #278 00:20:41: не стыдно мне | adapted: adapted |
+| 2 | Шеф | Да не особо. | Not really. | #279 00:20:45: Да не особо | adapted: adapted |
+| 3 | Шеф | Здорово, когда начальство понятливое. | It is great when the boss is understanding. | #281 00:20:58: когда начальство понятливое | adapted: adapted |
 | 4 | Игорь | Шеф, Федю уволили. | Boss, Fedya has been fired. | #282 00:21:03: Федю уволили | adapted: adapted |
-| 5 | Аня | Ты что себе позволяешь? | What do you think you are doing? | #283 00:21:13: что себе позволяешь | adapted: adapted |
-| 6 | Аня | Ты зачем Федю уволил? | Why did you fire Fedya? | #284 00:21:15: зачем Федю уволил | adapted: adapted |
-| 7 | Аня | Я не позволю увольнять моих людей. | I will not let you fire my people. | #286 00:21:18: не позволю увольнять моих людей | adapted: adapted |
+| 5 | Шеф | Ты что себе позволяешь? | What do you think you are doing? | #283 00:21:13: что себе позволяешь | adapted: adapted |
+| 6 | Шеф | Ты зачем Федю уволил? | Why did you fire Fedya? | #284 00:21:15: зачем Федю уволил | adapted: adapted |
+| 7 | Шеф | Я не позволю увольнять моих людей. | I will not let you fire my people. | #286 00:21:18: не позволю увольнять моих людей | adapted: adapted |
 | 8 | Игорь | Здесь я хозяин. | I am in charge here. | #290 00:21:31: я хозяин | adapted: adapted |
 | 9 | Игорь | Я решаю, кого увольнять, а кого нет. | I decide who gets fired and who doesn't. | #291 00:21:33: кого увольнять, а кого нет | adapted: adapted |
-| 10 | Аня | С меня хватит. | I have had enough. | #295 00:21:48: С меня хватит | adapted: adapted |
+| 10 | Шеф | С меня хватит. | I have had enough. | #295 00:21:48: С меня хватит | adapted: adapted |
 | 11 | Игорь | Вы все уволены. | You are all fired. | #296 00:21:50: Вы все уволены | adapted: adapted |
 | 12 | Елена | Я так не думаю. | I do not think so. | #296 00:21:50: Я так не думаю | adapted: adapted |
 | 13 | Елена | Это бумаги, которые подтверждают. | These are the papers that prove it. | #298 00:21:56: бумаги, которые подтверждают | adapted: adapted |
@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Boss, Fedya has been fired.' Here 'to fire' uses the plural past-tense ending, which also serves for the polite 'you'.
-- 'What do you think you are doing?' In Russian, 'you' leads into 'to allow' in a very natural everyday phrasing.
-- 'I will not let you fire my people.' Here 'I' sets up the idea, while 'people' comes at the end for emphasis.
-- 'I am in charge here.' You'll hear 'here' all the time in the show, here connected with 'owner'.
-- 'I have had enough.' Listen for the word meaning 'me' right alongside 'enough' in this line.
-- 'You are all fired.' the speaker puts 'you' up front so the listener immediately catches the tone, followed by 'fired'.
-- 'I do not think so.' Elena puts 'I' up front so the listener immediately catches the tone, followed by 'I think'.
-- 'I am the owner.' In Russian, 'I' leads into 'owner' in a very natural everyday phrasing.
-- 'That cannot be.' The first content word means 'that', and 'be' rounds out the thought.
+- 'Boss, Fedya has been fired.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'to fire'.
+- 'What do you think you are doing?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to allow'.
+- 'I will not let you fire my people.' Chef Barinov uses the perfective verb meaning 'will allow' to focus on the single completed result, pairing it with 'to fire' and 'people'.
+- 'I am in charge here.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'owner', combining 'here' with 'owner'.
+- 'I have had enough.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'enough'.
+- 'You are all fired.' The character uses the polite plural 'you' alongside 'fired', keeping a formal or respectful register. Then Elena responds.
+- 'I do not think so.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'I think'.
+- 'I am the owner.' Elena chooses the imperfective verb meaning 'be' for the ongoing action, followed by 'owner'.
+- 'That cannot be.' the speaker chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'be'.

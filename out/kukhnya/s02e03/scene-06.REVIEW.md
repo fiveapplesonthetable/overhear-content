@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this is a leather belt.' Notice the word order: 'look' comes first, and 'belt' finishes the sentence. Then Senya replies.
-- 'Why do you have it in the kitchen?' The key word here means 'what for', which Senya combines with 'he'.
-- 'I am going to eat it.' The first content word means 'I', and 'there is' rounds out the thought.
-- 'Is it a leather belt?' Senya starts with 'this' and pairs it with 'leather' to make the point clear.
-- 'It is very long.' The key word here means 'he', which Senya combines with 'very much'.
-- 'I am a chef.' Fedya starts with 'I' and pairs it with 'chef' to make the point clear.
-- 'I will cook it and eat it.' Fedya puts 'I' up front so the listener immediately catches the tone, followed by 'will prepare'. Senya answers straight away.
-- 'Nobody eats belts.' In Russian, 'nobody' leads into 'belt' in a very natural everyday phrasing.
-- 'But I will.' Here 'I' sets up the idea, while 'will be' comes at the end for emphasis.
-- 'All right, cook it.' You'll hear 'good' all the time in the show, here connected with 'prepare'.
-- 'I will watch this.' Notice the word order: 'I' comes first, and 'this' finishes the sentence.
-- 'It will be very delicious.' Listen for the word meaning 'this' right alongside 'will be' in this line.
+- 'Look, this is a leather belt.' Fedya leads with the direct command form meaning 'look', pairing it with 'leather' and 'belt'.
+- 'Why do you have it in the kitchen?' The question opens with the interrogative word for 'what for' and builds toward 'kitchen'.
+- 'I am going to eat it.' Fedya chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'there is'.
+- 'Is it a leather belt?' Senya turns a statement into a question purely through rising intonation on the word meaning 'leather', followed by 'belt'.
+- 'It is very long.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'long', combining 'very much' with 'long'.
+- 'I am a chef.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'chef'.
+- 'I will cook it and eat it.' Fedya uses the perfective verb meaning 'will prepare' to focus on the single completed result, pairing it with 'to eat up'.
+- 'Nobody eats belts.' Senya chooses the imperfective verb meaning 'to eat' for the ongoing action, followed by 'belt'.
+- 'But I will.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'will be'.
+- 'All right, cook it.' Here Senya anchors the line on the word meaning 'good' and builds the thought around 'prepare'.
+- 'I will watch this.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'have a look'.
+- 'It will be very delicious.' Fedya chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'very much' and 'it's tasty'.

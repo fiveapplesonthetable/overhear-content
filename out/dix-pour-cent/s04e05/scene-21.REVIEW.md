@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Andrea, did you receive my messages?' Gabriel intercepts his colleague on the street. The compound past verb phrase 'as recu' opens the dialogue with urgency.
 - 'I was with Rayane Bensetti, Gabriel.' Andrea justifies her busy afternoon. The imperfect verb 'etais' sets the background context.
-- 'We have been tailing Elise for two days.' Gabriel reveals the shadow operation. The colloquial verb file conveys undercover surveillance.
+- 'We have been tailing Elise for two days.' Gabriel reveals the shadow operation. Notice how 'are tailing' leads directly into the noun meaning 'days'.
 - 'You are falling into complete paranoia!' Andrea scoffs at the cloak-and-dagger talk. The phrase 'paranoia totale' labels his behavior.
-- 'She is still meeting the boss Brehier.' Gabriel offers hard proof of collusion. The adverb toujours highlights persistent disloyalty.
-- 'They are perhaps discussing simple paperwork.' Andrea looks for a harmless rationale. The noun paperasse refers to mundane administrative files.
-- 'Paperwork on a bridge?' Gabriel scoffs at the absurd excuse. The prepositional phrase sur un pont underlines the clandestine location.
+- 'She is still meeting the boss Brehier.' Gabriel offers hard proof of collusion. Notice how 'meets' leads directly into the noun meaning 'boss'.
+- 'They are perhaps discussing simple paperwork.' Andrea looks for a harmless rationale. Notice how 'discuss' leads directly into the noun meaning 'paperwork'.
+- 'Paperwork on a bridge?' Gabriel scoffs at the absurd excuse. The key noun here means 'paperwork', anchored by its matching French article.
 - 'She is your work colleague now.' Andrea urges professional etiquette. The noun 'collegue' reminds him of her official status.
-- 'She is still working for StarMedia, Andrea!' Gabriel refuses to let his guard down. The proper noun StarMedia names the rival powerhouse.
+- 'She is still working for StarMedia, Andrea!' Gabriel refuses to let his guard down. The clause hinges on the everyday verb meaning 'works'.
 - 'That is a fine conspiracy theory.' Andrea brushes off his dramatic narrative. The phrase 'theorie du complot' diagnoses his overactive imagination.
-- 'She wants to destroy us from the inside.' Gabriel warns of an undercover plot. The phrase 'de l'interieur' points to internal betrayal.
-- 'Let us go ask her the question directly.' Andrea chooses a forthright solution. The imperative verb phrase allons lui poser decides on immediate action.
-- 'She is not going to confess anything to us.' Gabriel warns that she will lie. The near future construction ne va rien avouer predicts deception.
+- 'She wants to destroy us from the inside.' Gabriel warns of an undercover plot. Notice how 'wants' leads directly into the noun meaning 'inside'.
+- 'Let us go ask her the question directly.' Andrea chooses a forthright solution. Notice how 'let us go' leads directly into the noun meaning 'question'.
+- 'She is not going to confess anything to us.' Gabriel warns that she will lie. The two-part negative frame surrounds 'is going' to mean 'nothing at all'.
 - 'We are going to clear up this matter together.' Andrea wraps up the debate firmly. The infinitive 'eclaircir' promises absolute clarity.

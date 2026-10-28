@@ -33,9 +33,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am listening attentively, Mathias.' Renard gives his full attention. The adverb 'attentivement' indicates careful focus.
 - 'Two American guests will arrive tonight.' Mathias prepares for the VIP arrival. The near future 'vont arriver' describes an impending event.
 - 'Do you have their exact names?' Renard asks for clear identification details. The adjective 'precis' denotes distinct accuracy.
-- 'Marcel Amos and Scott Downing.' Mathias names the two prominent film figures. Proper nouns identify specific individuals clearly.
-- 'At what time do they arrive here?' Renard inquires about the expected schedule. The interrogative phrase 'a quelle heure' asks for the exact time.
-- 'They arrive precisely at ten PM.' Mathias gives the specific hour of the meeting. In French, 22h is expressed as 'vingt-deux heures'.
+- 'Marcel Amos and Scott Downing.' Mathias names the two prominent film figures. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'At what time do they arrive here?' Renard inquires about the expected schedule. The verb meaning 'arrive' pairs naturally with the noun for 'hour' in everyday conversation.
+- 'They arrive precisely at ten PM.' Mathias gives the specific hour of the meeting. Notice how 'arrive' leads directly into the noun meaning 'o'clock'.
 - 'What must I do exactly?' Renard asks for his exact instructions. The inverted modal question 'que dois-je faire' is very polite.
 - 'Notify me as soon as they arrive downstairs.' Mathias gives clear orders. The imperative 'previens-moi' demands prompt notification.
 - 'Does this matter stay strictly confidential?' Renard checks the required level of discretion. The adjective 'confidentielle' describes sensitive private business.

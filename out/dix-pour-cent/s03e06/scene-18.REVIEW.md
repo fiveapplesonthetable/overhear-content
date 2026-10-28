@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is that woman in a red dress?' Camille notices an unfamiliar guest mingling boldly. The interrogative sentence points out her vibrant outfit.
-- 'She is a great friend, Corinne.' Herve introduces his guest with fond loyalty. The warm noun phrase defends her presence.
-- 'Why is she talking to all our actors?' Camille questions why the stranger is cornering VIP talent. The question displays professional anxiety.
-- 'She meant a lot to me.' Herve explains her vital importance during his youth. The past tense expresses gratitude.
-- 'She is not doing very well right now.' He admits his friend needs moral support. The negative sentence explains her vulnerability.
-- 'I wanted to introduce her to nice guests.' He shares his kind intention for bringing her along. The imperfect tense softens his explanation.
-- 'Alright, let her enjoy the party.' Camille softens and allows the guest to stay. The imperative verb grants permission.
-- 'You have the eyes of Bella Darvy!' Corinne pays an eccentric compliment to a party guest. The dramatic reference creates humorous awkwardness.
-- 'Hervé, where did Isabelle Huppert go?' Panic strikes as the guest of honor disappears. The direct question alerts her colleague.
-- 'I do not know at all where!' Herve throws up his hands in confusion. The negative adverb underscores his cluelessness.
-- 'The American producers are already downstairs.' Camille warns that important guests have arrived. The temporal adverb heightens the urgency.
-- 'And we have lost our big star!' She laments the untimely disappearance of their leading lady. The past participle emphasizes the crisis.
-- 'Let us go check on the terrace quickly.' Herve suggests a logical search location. The imperative verb initiates a search party.
+- 'Who is that woman in a red dress?' Camille notices an unfamiliar guest mingling boldly. In everyday spoken French, rising intonation on 'woman' at the end is enough to turn the sentence into a question.
+- 'She is a great friend, Corinne.' Herve introduces his guest with fond loyalty. In spoken French, the little word before 'friend' drops its final vowel and attaches with an apostrophe.
+- 'Why is she talking to all our actors?' Camille questions why the stranger is cornering VIP talent. Notice how 'is she talking' leads directly into the noun meaning 'actors'.
+- 'She meant a lot to me.' Herve explains her vital importance during his youth. The clause hinges on the everyday verb meaning 'has'.
+- 'She is not doing very well right now.' He admits his friend needs moral support. Notice the classic French sandwich negation wrapping right around 'goes'.
+- 'I wanted to introduce her to nice guests.' He shares his kind intention for bringing her along. Notice how 'wanted' leads directly into the noun meaning 'guests'.
+- 'Alright, let her enjoy the party.' Camille softens and allows the guest to stay. Notice how the short vowel drops before a vowel sound around 'let her', making the phrase flow smoothly as one unit.
+- 'You have the eyes of Bella Darvy!' Corinne pays an eccentric compliment to a party guest. Notice how 'have' leads directly into the noun meaning 'eyes'.
+- 'Herve, where did Isabelle Huppert go?' Panic strikes as the guest of honor disappears. The clause hinges on the everyday verb meaning 'gone'.
+- 'I do not know at all where!' Herve throws up his hands in confusion. The two-part French negation brackets the verb for 'know' on both sides.
+- 'The American producers are already downstairs.' Camille warns that important guests have arrived. The descriptive adjective for 'American' agrees in gender and number with its noun.
+- 'And we have lost our big star!' She laments the untimely disappearance of their leading lady. Dropping the subject pronoun turns the verb for 'have' into a direct, punchy command.
+- 'Let us go check on the terrace quickly.' Herve suggests a logical search location. French forms the near future by pairing the present tense of 'to go' directly with 'to look'.
 - 'Let us hurry before a disaster!' Camille urges immediate action before chaos ensues. The prepositional phrase underlines the high stakes.

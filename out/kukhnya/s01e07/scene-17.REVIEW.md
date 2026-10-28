@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Настя, добро пожаловать в мою квартиру. | Nastya, welcome to my apartment. | new | new: Kostya welcomes Nastya |
-| 2 | Аня | У тебя здесь довольно уютно и чисто. | It is quite cozy and clean here with you. | new | new: Nastya compliments room |
+| 2 | Настя | У тебя здесь довольно уютно и чисто. | It is quite cozy and clean here with you. | new | new: Nastya compliments room |
 | 3 | Костя | Ну, точнее, эта квартира съёмная. | Well, more precisely, this apartment is rented. | #333 00:22:01: не моя съемная | adapted: Kostya clarifies lease |
 | 4 | Костя | Вот диван, стул, мягкая подушка. | Here is a couch, a chair, a soft pillow. | #334 00:22:10: Диван, стул<br>#335 00:22:13: Подушка | adapted: Showing furniture |
-| 5 | Аня | Костя, я всё это отлично вижу. | Kostya, I can see all this perfectly. | #335 00:22:13: Кость, я вижу | adapted: Nastya nods |
+| 5 | Настя | Костя, я всё это отлично вижу. | Kostya, I can see all this perfectly. | #335 00:22:13: Кость, я вижу | adapted: Nastya nods |
 | 6 | Костя | Проходи скорее и садись на диван. | Come in quickly and sit on the couch. | #336 00:22:15: Проходи, проходи. Садись | adapted: Inviting to sit |
-| 7 | Аня | Ой, а что это там внизу? | Oh, and what is that down there? | #337 00:22:23: Что это? | adapted: Noticing floor |
-| 8 | Аня | Боже мой, это же мёртвая мышь! | My God, that is a dead mouse! | #338 00:22:25: Это… | adapted: Spotting mouse |
-| 9 | Аня | Костя, ты самый настоящий жестокий убийца! | Kostya, you are a real cruel murderer! | #338 00:22:25: Ты убийца | adapted: Accusing Kostya |
-| 10 | Аня | Ты погубил маленькую беззащитную мышь! | You destroyed a little defenseless mouse! | #339 00:22:29: Убил маленькую ни в чем не повинную мышь | adapted: Mourning the mouse |
+| 7 | Настя | Ой, а что это там внизу? | Oh, and what is that down there? | #337 00:22:23: Что это? | adapted: Noticing floor |
+| 8 | Настя | Боже мой, это же мёртвая мышь! | My God, that is a dead mouse! | #338 00:22:25: Это… | adapted: Spotting mouse |
+| 9 | Настя | Костя, ты самый настоящий жестокий убийца! | Kostya, you are a real cruel murderer! | #338 00:22:25: Ты убийца | adapted: Accusing Kostya |
+| 10 | Настя | Ты погубил маленькую беззащитную мышь! | You destroyed a little defenseless mouse! | #339 00:22:29: Убил маленькую ни в чем не повинную мышь | adapted: Mourning the mouse |
 | 11 | Костя | Настя, но это обычная мышеловка! | Nastya, but this is an ordinary mousetrap! | new | new: Kostya defends trap |
-| 12 | Аня | Ты ещё сидишь и спокойно улыбаешься?! | You are still sitting and calmly smiling?! | #340 00:22:32: Еще лыбится сидит | adapted: Horrified by smile |
-| 13 | Аня | Ты поступил как настоящий монстр! | You acted like a real monster! | #342 00:22:36: Ты вообще монстр | adapted: Nastya condemns Kostya |
+| 12 | Настя | Ты ещё сидишь и спокойно улыбаешься?! | You are still sitting and calmly smiling?! | #340 00:22:32: Еще лыбится сидит | adapted: Horrified by smile |
+| 13 | Настя | Ты поступил как настоящий монстр! | You acted like a real monster! | #342 00:22:36: Ты вообще монстр | adapted: Nastya condemns Kostya |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

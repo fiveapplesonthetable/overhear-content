@@ -118,5 +118,5 @@ WALK = [
      "The temporal phrase dès demain guarantees prompt action."),
 ]
 
-OUTRO = "Sandrine sips her drink with a triumphant smile, while Gabriel accepts that some actors are meant for drama."
+OUTRO = "Sandrine sips her drink with a triumphant smile, while Gabriel accepts that some actors are meant for drama. When you watch the episode, listen out for the expressions meaning 'stage fright' and 'crazy'. You'll catch them now. See you next time."
 CLOSING = ("gabriel", "Je t'appelle le producteur dès demain.")

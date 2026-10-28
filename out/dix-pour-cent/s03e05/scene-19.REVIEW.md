@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Hicham? How are you doing?' Mathias answers the phone with polite calm. The casual greeting masks his secret agenda.
-- 'They signed the contract yesterday evening.' Hicham delivers the bad news about the rival deal. The past tense reports the signing.
-- 'It is not true, it is signed?' Mathias feigns complete disbelief. The question displays manufactured shock.
-- 'Yes, the co-production deal is done.' Hicham confirms the deal with Solaris. The short confirmation expresses defeat.
-- 'I did not know that at all.' Mathias denies any prior knowledge. The emphatic negative phrase reinforces his innocent facade.
-- 'Frankly, I am totally dismayed.' He exaggerates his emotional distress. The adverb emphasizes his fake grief.
-- 'It is really terrible bad luck.' Mathias laments the supposed stroke of misfortune. The strong adjective intensifies the regret.
-- 'We lost this project together.' Hicham mourns their mutual loss. The plural pronoun stresses agency solidarity.
-- 'I see nothing else to do.' Mathias claims total helplessness. The negative structure closes off further action.
-- 'I am truly sorry, Hicham.' He offers condolences to his rival boss. The courteous adjective sounds completely genuine.
-- 'Thank you, see you tomorrow at the office.' Hicham thanks him and ends the call. The farewell sets up tomorrow's meeting.
-- 'Yes, see you tomorrow. Bye, Hicham.' Mathias says goodbye and hangs up. The quick farewell concludes the fake call.
-- 'He believed everything without hesitating?' Noemie asks if the boss fell for the trick. The prepositional phrase highlights the deceit.
+- 'Hello, Hicham? How are you doing?' Mathias answers the phone with polite calm. The clause hinges on the everyday verb meaning 'are you doing'.
+- 'They signed the contract yesterday evening.' Hicham delivers the bad news about the rival deal. Notice how 'have' leads directly into the noun meaning 'evening'.
+- 'It is not true, it is signed?' Mathias feigns complete disbelief. In everyday spoken French, rising intonation on 'is not' at the end is enough to turn the sentence into a question.
+- 'Yes, the co-production deal is done.' Hicham confirms the deal with Solaris. The verb meaning 'done' pairs naturally with the noun for 'deal' in everyday conversation.
+- 'I did not know that at all.' Mathias denies any prior knowledge. The clause hinges on the everyday verb meaning 'knew'.
+- 'Frankly, I am totally dismayed.' He exaggerates his emotional distress. The descriptive adjective for 'dismayed' agrees in gender and number with its noun.
+- 'It is really terrible bad luck.' Mathias laments the supposed stroke of misfortune. In spoken French, the little word before 'bad luck' drops its final vowel and attaches with an apostrophe.
+- 'We lost this project together.' Hicham mourns their mutual loss. Notice how 'have' leads directly into the noun meaning 'project'.
+- 'I see nothing else to do.' Mathias claims total helplessness. The descriptive adjective for 'else' agrees in gender and number with its noun.
+- 'I am truly sorry, Hicham.' He offers condolences to his rival boss. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
+- 'Thank you, see you tomorrow at the office.' Hicham thanks him and ends the call. Notice how 'see' leads directly into the noun meaning 'office'.
+- 'Yes, see you tomorrow. Bye, Hicham.' Mathias says goodbye and hangs up. The adverb meaning 'yes' gives the reply its conversational emphasis.
+- 'He believed everything without hesitating?' Noemie asks if the boss fell for the trick. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
 - 'Absolutely, our secret is well kept.' Mathias smiles with triumph. The passive construction reassures his accomplice.

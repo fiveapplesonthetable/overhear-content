@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did Camille tell you about the next film?' Franck asks about the upcoming casting. The compound past verb 'a parle' introduces the conversation topic.
+- 'Did Camille tell you about the next film?' Franck asks about the upcoming casting. Notice how 'has' leads directly into the noun meaning 'film'.
 - 'Yes, the project with Fabrice Luchini!' Sophia confirms the exciting co-star. The preposition 'avec' indicates working alongside an actor.
 - 'It is Francois Ozon directing, right?' Franck asks about the director. The verb 'realise' refers to cinematic directing.
 - 'Yes, well, every other day.' Sophia repeats an odd scheduling remark. The temporal phrase 'un jour sur deux' means every second day.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You must have seen his brother!' Franck teasingly convinces her. The modal structure 'as du voir' expresses high probability.
 - 'Wait, you are pulling my leg?' Sophia realizes she is being pranked. The colorful idiom 'faire marcher' means to pull someone's leg or tease.
 - 'Yes, I love making up nonsense.' Franck proudly admits his playful habit. The colloquial noun 'betises' refers to harmless silliness or jokes.
-- 'What a clown, I almost believed it!' Sophia laughs at her own credulity. The noun 'clown' affectionately labels someone playful and humorous.
-- 'Your great sincerity is very moving.' Franck warmly compliments Sophia's candid honesty. The feminine noun 'sincerite' commends genuine, open nature.
+- 'What a clown, I almost believed it!' Sophia laughs at her own credulity. Notice how 'have' leads directly into the noun meaning 'clown'.
+- 'Your great sincerity is very moving.' Franck warmly compliments Sophia's candid honesty. The adjective meaning 'great' takes its feminine form here to match the noun it describes.
 - 'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance. The imperative 'viens danser' urges immediate celebration.

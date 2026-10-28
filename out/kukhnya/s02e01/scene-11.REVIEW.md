@@ -10,29 +10,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Представляешь, она даже слушать не стала. | Can you believe it? She wouldn't even listen. | new | new |
+| 1 | Макс | Представляешь, она даже слушать не стала. | Can you believe it? She wouldn't even listen. | new | new |
 | 2 | Костя | Я бы тоже не стал. | I wouldn't either. | new | new |
-| 3 | Аня | В смысле? | What do you mean? | new | new |
-| 4 | Аня | Ты за кого? За Вику или за друга? | Whose side are you on? Vika's or your friend's? | new | new |
+| 3 | Макс | В смысле? | What do you mean? | new | new |
+| 4 | Макс | Ты за кого? За Вику или за друга? | Whose side are you on? Vika's or your friend's? | new | new |
 | 5 | Костя | Конечно, за друга. | Of course, my friend's. | new | new |
 | 6 | Костя | Но это не отменяет того, что ты козел. | But that doesn't change the fact you're a bastard. | new | new |
-| 7 | Аня | Пилите, Костя, пилите. | Keep at it, Kostya, keep at it. | new | new |
-| 8 | Аня | То есть если бы я тебе изменил... | So if I cheated on you... | new | new |
-| 9 | Аня | ты бы меня не простил? | you wouldn't forgive me? | new | new |
+| 7 | Макс | Пилите, Костя, пилите. | Keep at it, Kostya, keep at it. | new | new |
+| 8 | Макс | То есть если бы я тебе изменил... | So if I cheated on you... | new | new |
+| 9 | Макс | ты бы меня не простил? | you wouldn't forgive me? | new | new |
 | 10 | Костя | Костян, это не то, что ты думаешь. | Kostyan, it's not what you think. | new | new |
 | 11 | Костя | Мы с ним вовсе не друзья. | We're not even friends. | new | new |
-| 12 | Аня | Ты мой друг. | You're my friend. | new | new |
+| 12 | Макс | Ты мой друг. | You're my friend. | new | new |
 | 13 | Костя | Не простил бы. | I wouldn't forgive you. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you believe it? She wouldn't even listen.' Max starts with 'can you imagine' and pairs it with 'it' to make the point clear.
-- 'I wouldn't either.' Notice the word order: 'I' comes first, and 'have become' finishes the sentence.
-- 'What do you mean?' Max starts with 'sense' and pairs it with 'sense' to make the point clear.
-- 'Whose side are you on? Vika's or your friend's?' You'll hear 'you' all the time in the show, here connected with 'the friend'.
-- 'But that doesn't change the fact you're a bastard.' Listen for the word meaning 'this' right alongside 'cancels' in this line.
-- 'Keep at it, Kostya, keep at it.' Notice the word order: 'nag' comes first, and 'nag' finishes the sentence.
-- 'So if I cheated on you...' The key word here means 'there is', which Max combines with 'I'.
-- 'you wouldn't forgive me?' Max uses the casual singular 'you' with 'you', as close colleagues and friends do.
-- 'Kostyan, it's not what you think.' The key word here means 'Kostyan', which Kostya combines with 'this'.
-- 'We're not even friends.' ENG: The adverb adds emphasis, meaning at all or not even.
+- 'Can you believe it? She wouldn't even listen.' Max chooses the imperfective verb meaning 'can you imagine' for the ongoing action, followed by 'to listen to' and 'have become'.
+- 'I wouldn't either.' The verb for 'have become' is in the masculine past tense, marked by the '-l' ending.
+- 'What do you mean?' Max asks this with a single word meaning 'sense', using rising intonation to turn it into a quick question.
+- 'Whose side are you on? Vika's or your friend's?' Max delivers a punchy one-word reaction built around the Russian word meaning 'the friend'.
+- 'But that doesn't change the fact you're a bastard.' Kostya chooses the imperfective verb meaning 'cancels' for the ongoing action, followed by 'goat'.
+- 'Keep at it, Kostya, keep at it.' Max delivers a punchy conversational reaction built around the Russian word meaning 'nag'.
+- 'So if I cheated on you...' Max chooses the imperfective verb meaning 'there is' for the ongoing action, followed by 'changed'.
+- 'You wouldn't forgive me?' The verb for 'forgave' is in the masculine past tense, marked by the '-l' ending. Then Kostya responds.
+- 'Kostyan, it's not what you think.' Kostya uses the informal singular 'you' here with 'think', as friends and close colleagues do.
+- 'We're not even friends.' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'friends', combining 'at all' with 'friends'.

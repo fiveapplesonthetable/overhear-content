@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The agency is my second family.' Mathias reminds Camille that their professional bond runs very deep.
-- 'And you are my family here.' Mathias emphasizes that their personal relationship is what truly matters.
-- 'Oh yes? And why do you say that?' Camille asks why her father suddenly brings up their loyalty.
-- 'I must be able to trust you.' Mathias tests whether Camille is keeping secrets from him.
-- 'Of course, you can trust me.' Camille reassures him without revealing Andrea's secret plans.
-- 'Sorry, but I have a lot of work.' Camille makes a quick excuse to escape the tense conversation.
-- 'Yes, yes, go to work.' Mathias lets her leave but remains suspicious about the office atmosphere.
-- 'Herve, I think my father suspects something.' Camille confides her growing anxiety to her close colleague.
-- 'What do you mean? What did he say exactly?' Herve asks for specific details about the conversation.
-- 'He spoke to me about agency loyalty.' Camille explains Mathias's pointed comments about family and trust.
-- 'It is fine, he knows nothing.' Herve tries to calm her nerves with pragmatic reassurance.
-- 'He never beats around the bush.' Herve points out that Mathias always confronts problems directly.
-- 'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia.
+- 'The agency is my second family.' Mathias reminds Camille that their professional bond runs very deep. In spoken French, the little word before 'the agency' drops its final vowel and attaches with an apostrophe.
+- 'And you are my family here.' Mathias emphasizes that their personal relationship is what truly matters. Mathias uses the casual singular 'you' with 'family', showing close familiarity.
+- 'Oh yes? And why do you say that?' Camille asks why her father suddenly brings up their loyalty. The clause hinges on the everyday verb meaning 'do you say'.
+- 'I must be able to trust you.' Mathias tests whether Camille is keeping secrets from him. The verb meaning 'must' pairs naturally with the noun for 'trust' in everyday conversation.
+- 'Of course, you can trust me.' Camille reassures him without revealing Andrea's secret plans. The verb meaning 'can' pairs naturally with the noun for 'trust.' in everyday conversation.
+- 'Sorry, but I have a lot of work.' Camille makes a quick excuse to escape the tense conversation. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'Yes, yes, go to work.' Mathias lets her leave but remains suspicious about the office atmosphere. The clause hinges on the everyday verb meaning 'go'.
+- 'Herve, I think my father suspects something.' Camille confides her growing anxiety to her close colleague. The reflexive pronoun sits right in front of the verb for 'think', turning the action back onto the subject.
+- 'What do you mean? What did he say exactly?' Herve asks for specific details about the conversation. In spoken French, the little word before 'has [to] you' drops its final vowel and attaches with an apostrophe.
+- 'He spoke to me about agency loyalty.' Camille explains Mathias's pointed comments about family and trust. This conversational past tense combines a helper verb with the past participle for 'spoken'.
+- 'It is fine, he knows nothing.' Herve tries to calm her nerves with pragmatic reassurance. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'He never beats around the bush.' Herve points out that Mathias always confronts problems directly. The verb meaning 'turns' pairs naturally with the noun for 'pot.' in everyday conversation.
+- 'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia. The descriptive adjective for 'great' agrees in gender and number with its noun.

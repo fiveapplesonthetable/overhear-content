@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Виктор Петрович, я совсем забыла. | Viktor Petrovich, I completely forgot. | #152 00:10:09: Забыла совсем | verbatim |
-| 2 | Аня | Вот наличные деньги на свежую икру. | Here is the cash for fresh caviar. | #152 00:10:09: Вот деньги на икру | verbatim |
+| 1 | Вика | Виктор Петрович, я совсем забыла. | Viktor Petrovich, I completely forgot. | #152 00:10:09: Забыла совсем | verbatim |
+| 2 | Вика | Вот наличные деньги на свежую икру. | Here is the cash for fresh caviar. | #152 00:10:09: Вот деньги на икру | verbatim |
 | 3 | Шеф | Огромное спасибо, моя дорогая Вика. | Thank you very much, my dear Vika. | new | new |
 | 4 | Шеф | Ты спасаешь наш вечерний банкет. | You are saving our evening banquet. | new | new |
-| 5 | Аня | Поставщик привезёт банку через час. | The supplier will bring the jar in an hour. | new | new |
+| 5 | Вика | Поставщик привезёт банку через час. | The supplier will bring the jar in an hour. | new | new |
 | 6 | Шеф | Отлично, я сам встречу курьера. | Excellent, I will meet the courier myself. | new | new |
-| 7 | Аня | Пожалуйста, отдайте ему деньги сразу. | Please give him the money right away. | new | new |
+| 7 | Вика | Пожалуйста, отдайте ему деньги сразу. | Please give him the money right away. | new | new |
 | 8 | Шеф | Не переживай, всё под моим контролем. | Do not worry, everything is under my control. | new | new |
-| 9 | Аня | И что там с нашей плитой? | And what is going on with our stove? | new | new |
+| 9 | Вика | И что там с нашей плитой? | And what is going on with our stove? | new | new |
 | 10 | Шеф | Мастера уже заканчивают сложный ремонт. | The craftsmen are already finishing the complex repair. | new | new |
-| 11 | Аня | Надеюсь на вашу честность, шеф. | I rely on your honesty, chef. | new | new |
+| 11 | Вика | Надеюсь на вашу честность, шеф. | I rely on your honesty, chef. | new | new |
 | 12 | Шеф | Я всегда держу своё мужское слово. | I always keep my manly word. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -28,4 +28,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Here is the cash for fresh caviar.' The demonstrative particle introduces the cash payment needed for the kitchen.
 - 'The supplier will bring the jar in an hour.' A future tense verb indicates a scheduled delivery time for the staff.
 - 'Do not worry, everything is under my control.' A reassuring imperative followed by an assertive statement of confidence in the plan.
-- 'I always keep my manly word.' A proud first person assertion used to build trust with a colleague.
+- 'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more.

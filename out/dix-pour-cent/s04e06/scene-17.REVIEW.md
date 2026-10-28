@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Colette! What are you doing here?' Andrea is stunned to see Colette outside ASK. The question phrase 'qu'est-ce que' asks what.
+- 'Colette! What are you doing here?' Andrea is stunned to see Colette outside ASK. The clause hinges on the everyday verb meaning 'are doing'.
 - 'We were taking a walk in the neighborhood.' Colette explains why she is nearby. The reflexive verb 'se promener' means to take a walk.
 - 'You brought Flora with you?' Andrea looks down happily at the stroller. The compound past 'as amene' comes from 'amener', to bring someone.
 - 'Yes, she wanted to see her mother.' Colette smiles warmly at the baby. The verb form 'voulait' comes from 'vouloir' in the imperfect.
-- 'It is a very wonderful surprise!' Andrea feels a wave of relief and joy. The feminine noun 'surprise' designates an unexpected event.
-- 'I know that you work a lot.' Colette acknowledges Andrea's busy schedule. The adverb 'beaucoup' indicates a large amount.
+- 'It is a very wonderful surprise!' Andrea feels a wave of relief and joy. The key noun here means 'surprise', anchored by its matching French article.
+- 'I know that you work a lot.' Colette acknowledges Andrea's busy schedule. The informal 'you' form around 'know' marks a direct, personal relationship.
 - 'Yes, but I miss you both so much.' Andrea expresses her heartfelt longing. The structure 'vous me manquez' literally translates to you are missing to me.
 - 'Take her in your arms now.' Colette gently unbuckles Flora from the stroller. The plural noun 'bras' means arms.
 - 'Come with mommy, my little treasure.' Andrea lifts baby Flora into her arms. The noun 'tresor' is an affectionate term of endearment.
@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are so sweet, my Flora.' Andrea holds her daughter close against her chest. The feminine adjective 'douce' means gentle or sweet.
 - 'Let us take a walk in the park.' Colette suggests stepping away from the office. The imperative 'allons' invites shared action.
 - 'Yes, with great pleasure, Colette.' Andrea agrees gladly to spend time together. The noun 'plaisir' means pleasure or delight.
-- 'Let us take the time to pause.' Colette leads the way toward the park bench. The reflexive verb 'se poser' means to settle down or rest.
+- 'Let us take the time to pause.' Colette leads the way toward the park bench. The verb meaning 'let us take' pairs naturally with the noun for 'time' in everyday conversation.

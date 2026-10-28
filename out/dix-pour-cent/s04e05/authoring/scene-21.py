@@ -118,5 +118,5 @@ WALK = [
      "The infinitive 'eclaircir' promises absolute clarity."),
 ]
 
-OUTRO = "Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings."
+OUTRO = "Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings. When you watch the episode, listen out for the expressions meaning 'received' and 'messages'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Nous allons éclaircir cette affaire ensemble.")

@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I mess up all my takes today.' Jose despairs over his disastrous performance on set. The noun 'prises' means filming takes.
-- 'Calm down Jose, take a deep breath.' Andrea urges her client to relax between camera setups. The reflexive verb 'se calmer' means to calm down.
+- 'Calm down Jose, take a deep breath.' Andrea urges her client to relax between camera setups. The verb meaning 'calm down' pairs naturally with the noun for 'breath' in everyday conversation.
 - 'I forget my lines every time!' Jose struggles to memorize the fiery chef monologue. The noun 'texte' means script or actor lines.
-- 'You must just shout at your brigade.' Andrea reminds him that the director wants genuine anger. The noun 'brigade' refers to a restaurant kitchen staff.
-- 'I cannot manage with Laurence.' Jose reveals that acting opposite his former flame unnerves him. The adverbial pronoun 'y' refers to the task.
+- 'You must just shout at your brigade.' Andrea reminds him that the director wants genuine anger. The verb meaning 'must' pairs naturally with the noun for 'brigade' in everyday conversation.
+- 'I cannot manage with Laurence.' Jose reveals that acting opposite his former flame unnerves him. The clause hinges on the everyday verb meaning 'manage'.
 - 'Are you still thinking about that story?' Andrea asks about their ancient romantic liaison. The adverb 'encore' means still or yet.
 - 'We were supposed to meet at the hotel.' Jose recalls their planned rendezvous that never occurred. The imperfect verb 'devions' expresses an unfulfilled expectation.
 - 'That was twenty years ago!' Andrea puts the distant past into perspective. The phrase 'il y a' means ago when used with a time span.
 - 'I still feel very guilty.' Jose admits that he never forgave himself for not showing up. The adjective 'coupable' means guilty.
-- 'I spoke with Laurence just earlier.' Andrea reveals that she already questioned the actress in private. The idiom 'tout a l'heure' means just earlier.
-- 'What did she say about me?' Jose eagerly asks about his co-star's reaction. The interrogative phrase 'qu'est-ce que' means what.
+- 'I spoke with Laurence just earlier.' Andrea reveals that she already questioned the actress in private. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
+- 'What did she say about me?' Jose eagerly asks about his co-star's reaction. This conversational past tense combines a helper verb with the past participle for 'said'.
 - 'She did not go to the hotel!' Andrea reveals that Laurence also skipped the secret date. The compound past 'est allee' uses the auxiliary etre.
 - 'She stood me up too?' Jose is stunned to discover their mutual failure to meet. The idiom 'poser un lapin' means to stand someone up.
 - 'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge. The adjective 'quittes' means square or even.

@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Into my arms, sweetheart!' Arlette sweeps Sophia into an affectionate embrace. The affectionate term 'ma poulette' is an endearing colloquial term.
 - 'That is true class!' Arlette expresses genuine admiration for the milestone. The colloquial noun 'la classe' describes outstanding style and elegance.
 - 'Best Newcomer for you!' Arlette celebrates the prestigious category. The noun phrase 'meilleur espoir' designates the award for Most Promising Actress.
-- 'Thank you from the bottom of my heart.' Sophia thanks her mentors tearfully. The idiom 'du fond du coeur' expresses deep gratitude.
+- 'Thank you from the bottom of my heart.' Sophia thanks her mentors tearfully. The key noun here means 'bottom', anchored by its matching French article.
 - 'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year. The verb 'rebondir' figuratively means to bounce back after setbacks.
 - 'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum. The adjective 'excitant' denotes stimulating anticipation.
 - 'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes. The reflexive verb 's'ouvrir' symbolizes fresh opportunities emerging.

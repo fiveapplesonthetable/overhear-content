@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Andrea, it is Beatrice.' An informal telephone opening identifying the caller.
-- 'Hello Beatrice, how are you doing?' A friendly greeting inquiring after a client.
-- 'I have a big problem on the shoot.' A direct declaration announcing an urgent workplace issue.
-- 'What is happening with Pascal?' A focused question asking about the director's conduct.
-- 'Pascal wants to change the planned scene.' A specific complaint explaining the unapproved change.
-- 'This modification was not agreed upon.' A clear statement pointing to a breach of prior agreement.
-- 'He is imposing unacceptable changes.' An emphatic protest rejecting unilateral demands.
-- 'You are completely right to refuse.' An empowering validation supporting the actress's firm stance.
-- 'Can you come help me on the set?' A direct appeal requesting agent presence on location.
-- 'I am leaving home right now.' A prompt commitment promising immediate travel to set.
-- 'Thank you Andrea, I need you.' A heartfelt acknowledgment expressing genuine reliance on representation.
-- 'Keep your cool when dealing with the director.' A sensible strategic counsel advising emotional control.
-- 'I will expect you at three o'clock.' A precise logistical appointment establishing meeting time.
-- 'I am coming to defend your rights.' A resolute professional declaration assuring advocacy.
+- 'Hello Andrea, it is Beatrice.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Hello Beatrice, how are you doing?' The clause hinges on the everyday verb meaning 'how are you doing'.
+- 'I have a big problem on the shoot.' The verb meaning 'have' pairs naturally with the noun for 'problem' in everyday conversation.
+- 'What is happening with Pascal?' The clause hinges on the everyday verb meaning 'is happening'.
+- 'Pascal wants to change the planned scene.' This conversational past tense combines a helper verb with the past participle for 'planned'. This conversational past tense combines a helper verb with the past participle for 'planned'.
+- 'This modification was not agreed upon.' The verb meaning 'was' pairs naturally with the noun for 'modification' in everyday conversation.
+- 'He is imposing unacceptable changes.' An emphatic protest rejecting unilateral demands. Notice how 'imposes' leads directly into the noun meaning 'changes'.
+- 'You are completely right to refuse.' An empowering validation supporting the actress's firm stance. Notice how 'have' leads directly into the noun meaning 'reason'.
+- 'Can you come help me on the set?' A direct appeal requesting agent presence on location. The verb meaning 'can you' pairs naturally with the noun for 'film set' in everyday conversation.
+- 'I am leaving home right now.' A prompt commitment promising immediate travel to set. Notice how 'leave' leads directly into the noun meaning 'house'.
+- 'Thank you Andrea, I need you.' A heartfelt acknowledgment expressing genuine reliance on representation. Beatrice uses the casual singular 'you' with 'have', showing close familiarity.
+- 'Keep your cool when dealing with the director.' A sensible strategic counsel advising emotional control. Notice how 'keep' leads directly into the noun meaning 'calm'.
+- 'I will expect you at three o'clock.' A precise logistical appointment establishing meeting time. The verb meaning 'wait for' pairs naturally with the noun for 'hours' in everyday conversation.
+- 'I am coming to defend your rights.' The informal 'you' form around 'arrive' marks a direct, personal relationship. The informal 'you' form around 'arrive' marks a direct, personal relationship.

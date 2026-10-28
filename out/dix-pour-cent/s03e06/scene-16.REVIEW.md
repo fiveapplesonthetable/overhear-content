@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look at all these friends gathered.' Isabelle observes the crowd of colleagues. The past participle 'reunis' describes people brought together.
 - 'We form a large united family.' Mathias reflects on their solidarity. The adjective 'unie' describes a closely knit bond.
 - 'Let's have a drink all together.' Isabelle proposes a shared toast. The imperative 'buvons' invites the group to drink together.
-- 'To our agency and to the future!' Mathias raises his glass in celebration. The preposition 'a' is commonly used when toasting.
+- 'To our agency and to the future!' Mathias raises his glass in celebration. The key noun here means 'agency', anchored by its matching French article.

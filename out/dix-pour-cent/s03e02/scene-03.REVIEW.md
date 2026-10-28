@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me miss, this water is too cold.' A courteous request to a waitress rejecting chilled water.
-- 'Is cold water bad for your throat?' An inquiry asking about vocal care precautions.
-- 'Yes, it is much too harsh for me.' An intensified adjective describing physical throat sensitivity.
-- 'I would like room-temperature water.' A polite conditional request for specific beverage temperature.
-- 'There is a typical request of a big star!' A humorous presentative teasing diva habits.
-- 'Not at all, it is just a precaution.' A defensive disclaimer explaining professional vocal hygiene.
-- 'You see clearly that you are not normal!' A friendly teasing assertion highlighting star mannerisms.
-- 'I am a completely ordinary woman.' An earnest affirmation claiming everyday normalcy.
-- 'You are a famous and very elegant woman.' A balanced compliment pointing out undeniable glamour.
-- 'Look at this lovely bookstore right opposite.' An imperative drawing attention to a nearby shop.
-- 'You want to buy a book now?' A spontaneous question clarifying immediate shopping intentions.
-- 'They have guides for singles.' A practical observation noting relationship literature.
-- 'You are going to look for love in a guide?' An amused question wondering about guidebook matchmaking.
-- 'Why not, let us go see this section together!' An inviting imperative welcoming spontaneous exploration.
+- 'Excuse me miss, this water is too cold.' The key noun here means 'miss', anchored by its matching French article. The key noun here means 'miss', anchored by its matching French article.
+- 'Is cold water bad for your throat?' An inquiry asking about vocal care precautions. The informal 'you' form around 'drinking water' marks a direct, personal relationship.
+- 'Yes, it is much too harsh for me.' An intensified adjective describing physical throat sensitivity. The adverb meaning 'much' gives the reply its conversational emphasis.
+- 'I would like room-temperature water.' The adjective meaning 'ambient' takes its feminine form here to match the noun it describes.
+- 'There is a typical request of a big star!' A humorous presentative teasing diva habits. The key noun here means 'request', anchored by its matching French article.
+- 'Not at all, it is just a precaution.' A defensive disclaimer explaining professional vocal hygiene. The key noun here means 'precaution', anchored by its matching French article.
+- 'You see clearly that you are not normal!' The informal 'you' form around 'see' marks a direct, personal relationship. The informal 'you' form around 'see' marks a direct, personal relationship.
+- 'I am a completely ordinary woman.' An earnest affirmation claiming everyday normalcy. The verb meaning 'makes' pairs naturally with the noun for 'woman' in everyday conversation.
+- 'You are a famous and very elegant woman.' The key noun here means 'woman', anchored by its matching French article. The key noun here means 'woman', anchored by its matching French article.
+- 'Look at this lovely bookstore right opposite.' An imperative drawing attention to a nearby shop. The adjective meaning 'lovely' takes its feminine form here to match the noun it describes.
+- 'You want to buy a book now?' Notice how 'want' leads directly into the noun meaning 'book'. Notice how 'want' leads directly into the noun meaning 'book'.
+- 'They have guides for singles.' The verb meaning 'have' pairs naturally with the noun for 'guidebooks' in everyday conversation.
+- 'You are going to look for love in a guide?' In everyday spoken French, rising intonation on 'are going' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'are going' at the end is enough to turn the sentence into a question.
+- 'Why not, let us go see this section together!' The verb meaning 'let us go' pairs naturally with the noun for 'bookstore department' in everyday conversation.

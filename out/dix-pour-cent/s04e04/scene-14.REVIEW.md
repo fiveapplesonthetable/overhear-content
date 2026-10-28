@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everything is ready in your dressing room.' She lets him know that the makeup remover is laid out. In theater and film, 'loge' designates a performer's dressing room.
 - 'Of course Vero, no problem.' Hervé is happy to remove his own makeup without fuss. The casual phrase 'pas de souci' means no worries or no problem.
 - 'You were amazing again on the set!' Vero compliments his moving performance in front of the crew. The noun 'plateau' refers to a film set.
-- 'Thank you, it was truly very intense.' Hervé is still emotional from acting out the dramatic scene. The adjective 'intense' is identical in French and English.
+- 'Thank you, it was truly very intense.' Herve is still emotional from acting out the dramatic scene. The descriptive adjective for 'intense' agrees in gender and number with its noun.
 - 'But the shoot goes by so fast.' Hervé wishes his time as an actor did not end so quickly. The masculine noun 'tournage' means film shoot.
 - 'I still want to enjoy this.' He wants to savor every moment on set before returning to agency desk work. The verb 'profiter de' means to enjoy or make the most of.
 - 'Listen, I have a big secret.' Vero lowers her voice to share confidential gossip from the crew. The imperative 'ecoute' calls for close attention.

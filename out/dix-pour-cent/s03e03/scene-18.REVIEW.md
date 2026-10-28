@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The film's numbers are catastrophic.' Julien shares the disappointing ticket sales. The descriptive adjective conveys commercial failure.
-- 'Even my family did not come!' Julien laments that his own kin stayed away. The negative compound past verb highlights his personal sting.
-- 'This film will become a cult classic!' Gabriel attempts to cheer up his director. The near future verb predicts long-term artistic veneration.
-- 'We lacked money everywhere!' Sofia vents about extreme budgetary constraints. The compound past verb of lacking recalls the shoestring production.
-- 'We had a stuffed badger toy.' Sofia cites an absurd on-set cost cutting measure. The imperfect verb recalls a ridiculous prop replacement.
-- 'It is a true artistic masterpiece!' Julien refuses to measure success in ticket sales. The emphatic noun phrase affirms his uncompromising pride.
-- 'Gabriel scared away the television network.' Sofia reveals the truth behind lost funds. The causative verbal phrase attributes the financing failure to Gabriel.
-- 'Gabriel, what is she talking about exactly?' Julien turns to his agent in shock. The interrogative inversion demands an immediate accounting of the facts.
-- 'I invented a crazy story.' Gabriel confesses his wild fabrication to the broadcaster. The compound past verb admits intentional interference.
-- 'I wanted to keep Julien with me.' Gabriel reveals his possessive fear of losing his star. The imperfect modal verb explains his selfish motivation.
-- 'That is totally unforgivable, Gabriel!' Julien initially reacts with righteous anger. The predicate adjective condemns the agent's duplicity.
-- 'But that is also a stroke of genius!' Julien experiences a sudden creative epiphany. The approving colloquial idiom reframes the disaster into artistic blessing.
-- 'Thanks to you, I am free!' Julien embraces total creative autonomy. The causal prepositional phrase expresses unexpected liberation.
+- 'The film's numbers are catastrophic.' Julien shares the disappointing ticket sales. The descriptive adjective for 'disastrous' agrees in gender and number with its noun.
+- 'Even my family did not come!' Julien laments that his own kin stayed away. Dropping the subject pronoun turns the verb for 'come' into a direct, punchy command.
+- 'This film will become a cult classic!' Gabriel attempts to cheer up his director. The verb meaning 'is going to' pairs naturally with the noun for 'film' in everyday conversation.
+- 'We lacked money everywhere!' Sofia vents about extreme budgetary constraints. This conversational past tense combines a helper verb with the past participle for 'lacked'.
+- 'We had a stuffed badger toy.' Sofia cites an absurd on-set cost cutting measure. The verb meaning 'had' pairs naturally with the noun for 'stuffed toy' in everyday conversation.
+- 'It is a true artistic masterpiece!' Julien refuses to measure success in ticket sales. In spoken French, the little word before 'masterpiece' drops its final vowel and attaches with an apostrophe.
+- 'Gabriel scared away the television network.' Sofia reveals the truth behind lost funds. This conversational past tense combines a helper verb with the past participle for 'made'.
+- 'Gabriel, what is she talking about exactly?' Julien turns to his agent in shock. The clause hinges on the everyday verb meaning 'is she speaking'.
+- 'I invented a crazy story.' Gabriel confesses his wild fabrication to the broadcaster. The verb meaning 'have' pairs naturally with the noun for 'tale' in everyday conversation.
+- 'I wanted to keep Julien with me.' Gabriel reveals his possessive fear of losing his star. The clause hinges on the everyday verb meaning 'wanted'.
+- 'That is totally unforgivable, Gabriel!' Julien initially reacts with righteous anger. The descriptive adjective for 'unforgivable' agrees in gender and number with its noun.
+- 'But that is also a stroke of genius!' Julien experiences a sudden creative epiphany. The key noun here means 'stroke', anchored by its matching French article.
+- 'Thanks to you, I am free!' Julien embraces total creative autonomy. The descriptive adjective for 'free' agrees in gender and number with its noun.
 - 'You are both completely crazy!' Sofia marvels at their sudden mutual affection. The plural adjective captures her sheer bewilderment.

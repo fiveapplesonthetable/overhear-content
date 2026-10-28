@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Хорошо, давайте только быстро. | Alright, let us just do it quickly. | #132 00:09:39: Хорошо. Давайте только быстро. | adapted: adapted |
+| 1 | Шеф | Хорошо, давайте только быстро. | Alright, let us just do it quickly. | #132 00:09:39: Хорошо. Давайте только быстро. | adapted: adapted |
 | 2 | Лановский | Я перейду сразу к делу. | I will get straight to the point. | #135 00:09:54: перейду сразу к делу. | adapted: adapted |
 | 3 | Лановский | Вы слышали что-нибудь обо мне? | Have you heard anything about me? | #137 00:10:03: Вы что-нибудь слышали обо мне? | adapted: adapted |
-| 4 | Аня | Да, слышали во всех странах. | Yes, heard in all countries. | #138 00:10:04: Да, слышали во всех бывших советских республиках. | adapted: adapted |
+| 4 | Шеф | Да, слышали во всех странах. | Yes, heard in all countries. | #138 00:10:04: Да, слышали во всех бывших советских республиках. | adapted: adapted |
 | 5 | Лановский | Знаете, как меня называют? | Do you know what they call me? | #140 00:10:12: Значит, тогда вы знаете, как меня называют? | adapted: adapted |
 | 6 | Лановский | Меня называют страшным человеком. | They call me a scary person. | #141 00:10:17: Меня называют охотник на гастарбайтеров. | adapted: adapted |
-| 7 | Аня | Месяц назад была проверка. | A month ago there was an inspection. | #143 00:10:23: Я знаю, что у нас месяц назад была проверка, | adapted: adapted |
-| 8 | Аня | Они ничего тут не нашли. | They did not find anything here. | #143 00:10:23: и ничего не нашли. | adapted: adapted |
+| 7 | Шеф | Месяц назад была проверка. | A month ago there was an inspection. | #143 00:10:23: Я знаю, что у нас месяц назад была проверка, | adapted: adapted |
+| 8 | Шеф | Они ничего тут не нашли. | They did not find anything here. | #143 00:10:23: и ничего не нашли. | adapted: adapted |
 | 9 | Лановский | Мятную конфету не желаете? | Do you want a mint candy? | #145 00:10:31: Кстати, мятную конфетку не желаете? | adapted: adapted |
-| 10 | Аня | Нет, мне не нужно. | No, I do not need it. | #146 00:10:34: Нет. | adapted: adapted |
+| 10 | Шеф | Нет, мне не нужно. | No, I do not need it. | #146 00:10:34: Нет. | adapted: adapted |
 | 11 | Лановский | Наша служба похожа на птиц. | Our service is like birds. | #148 00:10:40: если сравнивать федеральную миграционную службу, | adapted: adapted |
 | 12 | Лановский | Мы всегда смотрим на вас сверху. | We always look at you from above. | #150 00:10:49: Мы грозно висим в небе над нелегалами. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, let us just do it quickly.' Chef Viktor starts with 'good' and pairs it with 'let's' to make the point clear.
-- 'I will get straight to the point.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'to cross'.
-- 'Have you heard anything about me?' Here 'you' sets up the idea, while 'to me' comes at the end for emphasis. Chef Viktor answers straight away.
-- 'Yes, heard in all countries.' You'll hear 'did you hear?' all the time in the show, here connected with 'country'.
-- 'Do you know what they call me?' The key word here means 'know', which the speaker combines with 'how'.
-- 'They call me a scary person.' Notice the word order: 'me' comes first, and 'person' finishes the sentence. Then Chef Viktor replies.
-- 'A month ago there was an inspection.' The key word here means 'month', which Chef Viktor combines with 'ago'.
-- 'They did not find anything here.' The first content word means 'they', and 'found' rounds out the thought.
-- 'Do you want a mint candy?' A compact expression built around 'mint' and 'would you like'. And Chef Viktor jumps in.
-- 'No, I do not need it.' Here 'to me' sets up the idea, while 'necessary' comes at the end for emphasis.
-- 'Our service is like birds.' Listen for the word meaning 'service' right alongside 'similar' in this line.
-- 'We always look at you from above.' the speaker uses the polite plural 'you' here alongside 'we', keeping a formal or respectful tone.
+- 'Alright, let us just do it quickly.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'good' and 'only'.
+- 'I will get straight to the point.' the speaker uses the perfective verb meaning 'to cross' to focus on the single completed result, pairing it with 'at once' and 'case'.
+- 'Have you heard anything about me?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'did you hear?' to make the point directly in conversation.
+- 'Yes, heard in all countries.' Chef Barinov chooses the imperfective verb meaning 'did you hear?' for the ongoing action, followed by 'country'.
+- 'Do you know what they call me?' the speaker chooses the imperfective verb meaning 'know' for the ongoing action, followed by 'how' and 'call'.
+- 'They call me a scary person.' the speaker chooses the imperfective verb meaning 'call' for the ongoing action, followed by 'terrible' and 'person'.
+- 'A month ago there was an inspection.' The '-a' ending on the past-tense verb for 'was' shows that the subject is feminine.
+- 'They did not find anything here.' Here the verb for 'found' takes the plural past-tense ending '-li', which is also used for the polite 'you'.
+- 'Do you want a mint candy?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'would you like'.
+- 'No, I do not need it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'necessary'.
+- 'Our service is like birds.' Russian omits the present-tense verb 'to be' here, linking 'service' directly with 'similar', combining 'service' with 'similar' and 'birds'.
+- 'We always look at you from above.' The character uses the polite plural 'you' alongside 'upstairs', keeping a formal or respectful register.

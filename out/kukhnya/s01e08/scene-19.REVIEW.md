@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Макс, зачем ты соврал про нашу будущую свадьбу? | Max, why did you lie about our future wedding? | #226 00:13:13: Мы с Викой как раз женимся через месяц | adapted: whispering angrily |
+| 1 | Вика | Макс, зачем ты соврал про нашу будущую свадьбу? | Max, why did you lie about our future wedding? | #226 00:13:13: Мы с Викой как раз женимся через месяц | adapted: whispering angrily |
 | 2 | Макс | Она отдаст эту собаку только семейной паре. | She will give this dog only to a married couple. | #224 00:13:06: только семейной паре | adapted: justifying lie |
-| 3 | Аня | Я не умею так глупо врать людям. | I do not know how to lie so foolishly to people. | #231 00:13:30: Я просто не могу так наглого врать | adapted: protesting morality |
+| 3 | Вика | Я не умею так глупо врать людям. | I do not know how to lie so foolishly to people. | #231 00:13:30: Я просто не могу так наглого врать | adapted: protesting morality |
 | 4 | Макс | Ты же сама безумно хотела забрать этого щенка! | You yourself desperately wanted to take this puppy! | #232 00:13:32: если хочешь забрать собаку | adapted: reminding of goal |
-| 5 | Аня | Но мы же с тобой даже не встречаемся! | But you and I are not even dating! | #226 00:13:13: Мы с Викой | adapted: pointing out reality |
+| 5 | Вика | Но мы же с тобой даже не встречаемся! | But you and I are not even dating! | #226 00:13:13: Мы с Викой | adapted: pointing out reality |
 | 6 | Макс | Подыграй мне немного, пока она наливает чай. | Play along with me a little while she pours tea. | #229 00:13:26: а ты хоть бы подыграла | adapted: coaching vika |
-| 7 | Аня | Она сразу поймёт, что мы обычные коллеги. | She will immediately realize that we are just coworkers. | #231 00:13:30: врать людям в глаза | adapted: fearing exposure |
+| 7 | Вика | Она сразу поймёт, что мы обычные коллеги. | She will immediately realize that we are just coworkers. | #231 00:13:30: врать людям в глаза | adapted: fearing exposure |
 | 8 | Макс | Тогда быстро обними меня прямо сейчас. | Then quickly hug me right now. | #233 00:13:36: Поцелуй меня | adapted: demanding affection |
-| 9 | Аня | Ты с ума сошёл, прекрати немедленно кричать! | Are you out of your mind, stop shouting immediately! | #233 00:13:36: Ты что? | adapted: pushing him away |
+| 9 | Вика | Ты с ума сошёл, прекрати немедленно кричать! | Are you out of your mind, stop shouting immediately! | #233 00:13:36: Ты что? | adapted: pushing him away |
 | 10 | Макс | Улыбайся, хозяйка уже идёт сюда обратно. | Smile, the owner is already coming back here. | #234 00:13:38: Вот | adapted: seeing owner return |
-| 11 | Аня | Я убью тебя после этой странной встречи. | I will kill you after this strange meeting. | #233 00:13:36: Ты что? | adapted: threatening jokingly |
+| 11 | Вика | Я убью тебя после этой странной встречи. | I will kill you after this strange meeting. | #233 00:13:36: Ты что? | adapted: threatening jokingly |
 | 12 | Макс | Зато этот милый пёс будет жить у нас. | At least this sweet dog will live with us. | #232 00:13:32: забрать собаку | adapted: smiling triumphantly |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I talked about cinema for an entire hour.' Sophia complains that she spoke passionately about art and philosophy during her interview.
-- 'The journalist only talked about my aesthetician!' Sophia expresses disbelief that the published article focuses entirely on beauty tips.
-- 'Wait for me in my office please.' Hicham politely asks Sophia to step inside so he can discuss agency business with Mathias.
-- 'I have a big idea for our agency, Mathias.' Hicham approaches Mathias with an ambitious new proposal.
-- 'What is this new idea again, Hicham?' Mathias asks with characteristic skepticism about Hicham's modernizing impulses.
-- 'We must change the old agency name.' Hicham argues that their expanding business needs an international identity.
-- 'I propose the modern and simple name: NOW!' Hicham presents his chosen acronym as an energetic English catchword.
-- 'NOW as in your own name Janowski?' Mathias humorously points out the clear resemblance to Hicham's surname.
-- 'NOW means right now, it is the immediate present!' Hicham insists that the name conveys urgency and commercial ambition.
-- 'Personally, I am very attached to the name ASK.' Mathias affirms his loyalty to the agency's traditional identity.
-- 'Samuel Kerr created this famous agency.' Mathias honors the legacy of their late founding partner.
-- 'ASK has been a prestigious brand for years.' Mathias highlights the strong market reputation established over decades.
-- 'By changing names, we would lose our clients.' Mathias cautions that rebranding could confuse top talent and movie producers.
+- 'I talked about cinema for an entire hour.' Sophia complains that she spoke passionately about art and philosophy during her interview. Notice how 'I have' leads directly into the noun meaning 'cinema'.
+- 'The journalist only talked about my aesthetician!' Sophia expresses disbelief that the published article focuses entirely on beauty tips. This conversational past tense combines a helper verb with the past participle for 'talked'.
+- 'Wait for me in my office please.' Hicham politely asks Sophia to step inside so he can discuss agency business with Mathias. Hicham uses the casual singular 'you' with 'wait for me', showing close familiarity.
+- 'I have a big idea for our agency, Mathias.' Hicham approaches Mathias with an ambitious new proposal. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'What is this new idea again, Hicham?' Mathias asks with characteristic skepticism about Hicham's modernizing impulses. In everyday spoken French, rising intonation on 'idea' at the end is enough to turn the sentence into a question.
+- 'We must change the old agency name.' Hicham argues that their expanding business needs an international identity. Notice how the short vowel drops before a vowel sound around 'must', making the phrase flow smoothly as one unit.
+- 'I propose the modern and simple name: NOW!' Hicham presents his chosen acronym as an energetic English catchword. Notice how 'propose' leads directly into the noun meaning 'name'.
+- 'NOW as in your own name Janowski?' Mathias humorously points out the clear resemblance to Hicham's surname. The key noun here means 'name', anchored by its matching French article.
+- 'NOW means right now, it is the immediate present!' Hicham insists that the name conveys urgency and commercial ambition. In spoken French, the little word before 'means' drops its final vowel and attaches with an apostrophe.
+- 'Personally, I am very attached to the name ASK.' Mathias affirms his loyalty to the agency's traditional identity. Notice how 'attached' leads directly into the noun meaning 'name'.
+- 'Samuel Kerr created this famous agency.' Mathias honors the legacy of their late founding partner. Notice how 'has' leads directly into the noun meaning 'agency'.
+- 'ASK has been a prestigious brand for years.' Mathias highlights the strong market reputation established over decades. The adjective meaning 'prestigious' takes its feminine form here to match the noun it describes.
+- 'By changing names, we would lose our clients.' Mathias cautions that rebranding could confuse top talent and movie producers. Notice how 'changing' leads directly into the noun meaning 'name'.

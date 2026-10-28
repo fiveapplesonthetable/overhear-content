@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костя, ты закончил готовить напитки? | Kostya, have you finished preparing the drinks? | #87 00:06:10: Все | adapted: checking on beverage orders |
+| 1 | Вика | Костя, ты закончил готовить напитки? | Kostya, have you finished preparing the drinks? | #87 00:06:10: Все | adapted: checking on beverage orders |
 | 2 | Костя | Да, все заказы уже готовы. | Yes, all orders are already ready. | #79 00:05:47: Все, можешь забирать | adapted: confirming drink completion |
-| 3 | Аня | Почему Макс так быстро убежал отсюда? | Why did Max run away from here so quickly? | new | new: asking about his departure |
+| 3 | Вика | Почему Макс так быстро убежал отсюда? | Why did Max run away from here so quickly? | new | new: asking about his departure |
 | 4 | Костя | Он просто очень спешил на кухню. | He was simply in a big hurry to get to the kitchen. | #81 00:05:51: Сейчас надо поделать | adapted: offering a simple reason |
-| 5 | Аня | Мне кажется, он странно себя ведёт. | It seems to me that he is behaving strangely. | new | new: expressing intuition about Max |
+| 5 | Вика | Мне кажется, он странно себя ведёт. | It seems to me that he is behaving strangely. | new | new: expressing intuition about Max |
 | 6 | Костя | Макс всегда немного странный парень. | Max is always a slightly strange guy. | new | new: downplaying the observation |
-| 7 | Аня | Он ничего не говорил тебе обо мне? | Did he not say anything to you about me? | new | new: probing for private comments |
+| 7 | Вика | Он ничего не говорил тебе обо мне? | Did he not say anything to you about me? | new | new: probing for private comments |
 | 8 | Костя | Мы говорили только о нашей работе. | We spoke only about our work. | #85 00:06:00: Давай попозже поговорим | adapted: insisting on professional topics |
-| 9 | Аня | Ты точно говоришь мне чистую правду? | Are you definitely telling me the pure truth? | new | new: questioning his honesty |
+| 9 | Вика | Ты точно говоришь мне чистую правду? | Are you definitely telling me the pure truth? | new | new: questioning his honesty |
 | 10 | Костя | Конечно, я никогда тебя не обманываю. | Of course, I never deceive you. | new | new: reassuring the director |
-| 11 | Аня | Хорошо, тогда я спрошу его сама. | Fine, then I will ask him myself. | new | new: deciding to investigate directly |
+| 11 | Вика | Хорошо, тогда я спрошу его сама. | Fine, then I will ask him myself. | new | new: deciding to investigate directly |
 | 12 | Костя | Лучше сейчас не трогать его, Вика. | It is better not to disturb him right now, Vika. | new | new: advising caution |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -11,33 +11,33 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | Привет! А вот и мы. | Hi! Here we are. | new | new |
-| 2 | Аня | А, познакомьтесь, это Вика. | Oh, meet Vika. | new | new |
+| 2 | Макс | А, познакомьтесь, это Вика. | Oh, meet Vika. | new | new |
 | 3 | Настя | Вообще-то мы знакомы с Викторией Сергеевной. | Actually, we know Victoria Sergeyevna. | new | new |
-| 4 | Аня | Не-не-не, стоп. Это просто Вика, моя девушка. | No, stop. She is just Vika, my girlfriend. | new | new |
-| 5 | Аня | Вика, а это просто Настя и Костя. | Vika, this is just Nastya and Kostya. | new | new |
+| 4 | Макс | Не-не-не, стоп. Это просто Вика, моя девушка. | No, stop. She is just Vika, my girlfriend. | new | new |
+| 5 | Макс | Вика, а это просто Настя и Костя. | Vika, this is just Nastya and Kostya. | new | new |
 | 6 | Вика | Ну, с работы. | Well, from work. | new | new |
-| 7 | Аня | Ладно, садитесь. Садитесь сюда. | All right, sit down. Sit here. | new | new |
-| 8 | Аня | Располагайтесь поудобнее. | Make yourself comfortable. | new | new |
-| 9 | Аня | А я пойду принесу выпить, окей? | I will go grab us something to drink, okay? | new | new |
+| 7 | Макс | Ладно, садитесь. Садитесь сюда. | All right, sit down. Sit here. | new | new |
+| 8 | Макс | Располагайтесь поудобнее. | Make yourself comfortable. | new | new |
+| 9 | Макс | А я пойду принесу выпить, окей? | I will go grab us something to drink, okay? | new | new |
 | 10 | Настя | В смысле, если бы не было нашего ресторана... | I mean, if we didn't have our restaurant... | new | new |
 | 11 | Настя | я бы тут поработала. | I would work here. | new | new |
-| 12 | Аня | Ну что, а вот и веселье. | Well, here comes the fun. | new | new |
-| 13 | Аня | Давайте разбираем. | Let's dig in. | new | new |
-| 14 | Аня | Давайте за встречу. | Let's drink to seeing each other. | new | new |
+| 12 | Макс | Ну что, а вот и веселье. | Well, here comes the fun. | new | new |
+| 13 | Макс | Давайте разбираем. | Let's dig in. | new | new |
+| 14 | Макс | Давайте за встречу. | Let's drink to seeing each other. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi! Here we are.' -- Nastya arrives with Kostya happily.
-- 'Oh, meet Vika.' -- Max introduces his new girlfriend.
-- 'Actually, we know Victoria Sergeyevna.' -- Nastya recognizes the restaurant manager immediately.
-- 'No, stop. She is just Vika.' -- Max tries to keep things completely casual.
-- 'Vika, this is just Nastya and Kostya.' -- He introduces his two best friends.
-- 'Well, from work.' -- Vika clarifies their professional relationship.
-- 'All right, sit down. Sit here.' -- Max offers them a place at the table.
-- 'Make yourself comfortable.' -- He wants them to feel completely relaxed.
-- 'I will go grab us something to drink, okay?' -- He excuses himself to get beverages.
-- 'I mean, if we didn't have our restaurant...' -- Nastya starts a very awkward conversation.
-- 'I would work here.' -- She finishes her completely unnecessary thought.
-- 'Well, here comes the fun.' -- Max returns with drinks for everyone.
-- 'Let's dig in.' -- He distributes the fresh drinks quickly.
-- 'Let's drink to seeing each other.' -- He proposes a cheerful toast.
+- 'Hi! Here we are.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
+- 'Oh, meet Vika.' Max leads with the direct command form meaning 'get acquainted' to make the point directly in conversation.
+- 'Actually, we know Victoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'actually' directly with 'acquainted' to make the point directly in conversation.
+- 'No, stop. She is just Vika, my girlfriend.' Russian omits the present-tense verb 'to be' here, linking 'stop' directly with 'just', followed by 'girlfriend'.
+- 'Vika, this is just Nastya and Kostya.' Max delivers a punchy one-word reaction built around the Russian word meaning 'just'.
+- 'Well, from work.' Vika delivers a punchy conversational reaction built around the Russian word meaning 'of work'.
+- 'All right, sit down. Sit here.' Max leads with the direct command form meaning 'sit down', followed by 'here'.
+- 'Make yourself comfortable.' Max chooses the imperfective verb meaning 'to settle down' for the ongoing action, followed by 'more comfortably'.
+- 'I will go grab us something to drink, okay?' Max turns a statement into a question purely through rising intonation on the word meaning 'go', pairing it with 'I will bring' and 'to drink'.
+- 'I mean, if we didn't have our restaurant...' Here Nastya anchors the line on the word meaning 'sense' and builds the thought around 'was' and 'restaurant'.
+- 'I would work here.' The phrasing opens with 'here' before bringing in 'to work for a while' to make the point clear.
+- 'Well, here comes the fun.' Max delivers a punchy one-word reaction built around the Russian word meaning 'fun'.
+- 'Let's dig in.' Max leads with the direct command form meaning 'let's', followed by 'to take apart'.
+- 'Let's drink to seeing each other.' Max leads with the direct command form meaning 'let's', followed by 'meeting'.

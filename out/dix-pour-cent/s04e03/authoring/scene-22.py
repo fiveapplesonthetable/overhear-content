@@ -118,5 +118,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Sealing their pact over profiteroles, Jose and Andrea find comforting friendship in the midst of turmoil."
+OUTRO = "Sealing their pact over profiteroles, Jose and Andrea find comforting friendship in the midst of turmoil. When you watch the episode, listen out for the expressions meaning 'news' and 'screwed up'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Ces profiteroles étaient une urgence absolue!")

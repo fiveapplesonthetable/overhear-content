@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not bad.' In Russian, 'not bad' leads into 'not bad' in a very natural everyday phrasing. Then Maks replies.
-- 'Huh?' Notice the word order: 'yes' comes first, and 'yes' finishes the sentence.
-- 'Only this isn't my pâté.' Here 'only' sets up the idea, while 'pâté' comes at the end for emphasis.
-- 'What?' You'll hear 'how' all the time in the show, here connected with 'how'.
-- 'Same texture.' The key word here means 'that', which Maks combines with 'consistency'.
-- 'And I got the ingredients right.' Maks starts with 'roster' and pairs it with 'I' to make the point clear.
-- 'Wait.' Notice the word order: 'wait' comes first, and 'wait' finishes the sentence.
+- 'Not bad.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'not bad'.
+- 'Huh?' Max asks this with a single word meaning 'yes', using rising intonation to turn it into a quick question.
+- 'Only this isn't my pâté.' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'pâté', combining 'only' with 'pâté'.
+- 'What?' Max asks this with a single word meaning 'how', using rising intonation to turn it into a quick question.
+- 'Same texture.' Russian omits the present-tense verb 'to be', connecting 'that' directly with 'consistency'.
+- 'And I got the ingredients right.' Here Max anchors the line on the word meaning 'roster' and builds the thought around 'to pick up'.
+- 'Wait.' Max replies with a single verb form meaning 'wait' — in Russian, the verb ending alone carries the subject and tense.
 - 'What goes into your pâté?' The question word for 'what' comes right at the start, followed directly by 'pâté'.
-- 'This is a secret.' The first content word means 'this', and 'secret' rounds out the thought.
-- 'Let's go.' A compact expression built around 'let's go' and 'let's go'.
-- 'Take a look.' In Russian, 'have a look' leads into 'have a look' in a very natural everyday phrasing.
-- 'Good.' Maks starts with 'good' and pairs it with 'good' to make the point clear.
+- 'This is a secret.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'secret'.
+- 'Let's go.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'let's go'.
+- 'Take a look.' Chef Viktor replies with a single verb form meaning 'have a look' — in Russian, the verb ending alone carries the subject and tense.
+- 'Good.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue.

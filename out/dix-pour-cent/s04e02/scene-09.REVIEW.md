@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Pardon sir, excuse me.' Andrea calls the waiter to her table. The polite formulas 'pardon' and 'excusez-moi' request attention.
-- 'Yes madam, what would you like?' The waiter responds with professional courtesy. The formal question 'que desirez-vous' asks for an order.
+- 'Yes madam, what would you like?' The waiter responds with professional courtesy. The verb meaning 'do you desire' pairs naturally with the noun for 'madam' in everyday conversation.
 - 'Can I order another coffee?' Andrea asks for another drink while waiting. The modal verb 'peux' expresses permission to place an order.
 - 'Of course, I bring it to you immediately.' The waiter confirms the second cup. The adverb 'immediatement' signals prompt service.
 - 'Have you seen Nathalie Baye today?' Andrea checks whether her actress has arrived. The passe compose 'avez vu' asks about past visual sighting.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am joking, it was a little joke!' The waiter laughs at his own jest. The verb 'plaisanter' means to joke or kid.
 - 'Great, I do not have time to laugh.' Andrea shows her impatience under pressure. The noun phrase 'pas le temps' denotes lack of available time.
 - 'Hello Gabriel? Where did Nathalie go?' Andrea checks in by phone. The interjection 'allo' begins French telephone calls.
-- 'Mathias took her directly to the agency!' Andrea learns of Mathias's tactical maneuver. The compound passe compose 'a emmenee' describes accompanying someone somewhere.
+- 'Mathias took her directly to the agency!' Andrea learns of Mathias's tactical maneuver. The verb meaning 'has' pairs naturally with the noun for 'agency' in everyday conversation.
 - 'Madam, here is your hot fresh coffee!' The waiter delivers the cup as she rises. The presentation adverb 'voici' presents an item directly.
 - 'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm. The adverb 'plutot' means instead or rather.

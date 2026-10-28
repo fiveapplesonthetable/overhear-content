@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your splendid suite at the Crillon.' Camille welcomes Sigourney into the opulent reception room of the five-star hotel.
-- 'Why give me such a quiet room?' Sigourney questions the overly serene atmosphere facing an inner courtyard.
-- 'The hotel reserves these rooms for elderly guests.' Camille explains that management believed a peaceful setting suited a veteran star.
-- 'But I do not need rest!' Sigourney pushes back vigorously against any elderly stereotypes.
-- 'I want to see the Place de la Concorde!' Sigourney demands sweeping windows overlooking Paris's grandest monument and traffic.
-- 'I will request a change of room.' Camille promptly contacts reception to arrange a higher front-facing suite.
-- 'Have a good stationary bicycle brought up.' Sigourney requests indoor cardio gear for her morning training.
-- 'And bring up a treadmill as well.' Sigourney emphasizes her desire to maintain an intensive fitness routine during her shoot.
-- 'I will pass your requests to the staff.' Camille notes down the equipment specifications for the concierge team.
-- 'And when is your boss Andrea arriving?' Sigourney asks when the agency head will arrive to talk business.
-- 'She is arriving very soon, Madame Weaver.' Camille promises that Andrea has resolved her domestic crisis and is en route.
-- 'I look forward to discussing my contract.' Sigourney signals her eager anticipation regarding her French film project.
-- 'She will explain all the details to you.' Camille confirms that Andrea will present full contract terms and shooting dates.
-- 'Perfect, I will start my exercises.' Sigourney wraps up the talk by launching straight into dynamic stretches.
+- 'Here is your splendid suite at the Crillon.' Camille welcomes Sigourney into the opulent reception room of the five-star hotel. Camille uses the polite 'you' form alongside 'suite' to keep a respectful professional tone.
+- 'Why give me such a quiet room?' Sigourney questions the overly serene atmosphere facing an inner courtyard. Notice how 'to have' leads directly into the noun meaning 'room'.
+- 'The hotel reserves these rooms for elderly guests.' Camille explains that management believed a peaceful setting suited a veteran star. The descriptive adjective for 'elderly' agrees in gender and number with its noun.
+- 'But I do not need rest!' Sigourney pushes back vigorously against any elderly stereotypes. The verb meaning 'have' pairs naturally with the noun for 'need' in everyday conversation.
+- 'I want to see the Place de la Concorde!' Sigourney demands sweeping windows overlooking Paris's grandest monument and traffic. The verb meaning 'want' pairs naturally with the noun for 'square' in everyday conversation.
+- 'I will request a change of room.' Camille promptly contacts reception to arrange a higher front-facing suite. French forms the near future by pairing the present tense of 'to go' directly with 'to request'.
+- 'Have a good stationary bicycle brought up.' Sigourney requests indoor cardio gear for her morning training. The verb meaning 'make' pairs naturally with the noun for 'bicycle' in everyday conversation.
+- 'And bring up a treadmill as well.' Sigourney emphasizes her desire to maintain an intensive fitness routine during her shoot. Notice how 'bring' leads directly into the noun meaning 'mat'.
+- 'I will pass your requests to the staff.' Camille notes down the equipment specifications for the concierge team. Camille uses the polite 'you' form alongside 'pass on' to keep a respectful professional tone.
+- 'And when is your boss Andrea arriving?' Sigourney asks when the agency head will arrive to talk business. Sigourney uses the polite 'you' form alongside 'arrives' to keep a respectful professional tone.
+- 'She is arriving very soon, Madame Weaver.' Camille promises that Andrea has resolved her domestic crisis and is en route. The verb meaning 'arrives' pairs naturally with the noun for 'madam' in everyday conversation.
+- 'I look forward to discussing my contract.' Sigourney signals her eager anticipation regarding her French film project. Notice how 'have' leads directly into the noun meaning 'haste'.
+- 'She will explain all the details to you.' Camille confirms that Andrea will present full contract terms and shooting dates. Camille uses the polite 'you' form alongside 'will explain' to keep a respectful professional tone.
+- 'Perfect, I will start my exercises.' Sigourney wraps up the talk by launching straight into dynamic stretches. Notice how 'am going' leads directly into the noun meaning 'gymnastics'.

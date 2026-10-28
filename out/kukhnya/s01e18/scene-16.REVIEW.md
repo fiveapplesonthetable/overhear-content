@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Извините, приятного вам вечера. | Excuse me, have a pleasant evening. | #295 00:18:47: Извини, приятного вечера. | adapted: adapted |
+| 1 | Костя | Извините, приятного вам вечера. | Excuse me, have a pleasant evening. | #295 00:18:47: Извини, приятного вечера. | adapted: adapted |
 | 2 | Шеф | Что тебе нужно от меня? | What do you need from me? | #296 00:18:49: Че тебе надо? | adapted: adapted |
-| 3 | Аня | Мне нужна эта бутылка. | I need this bottle. | #297 00:18:50: Я бутылку... | adapted: adapted |
+| 3 | Костя | Мне нужна эта бутылка. | I need this bottle. | #297 00:18:50: Я бутылку... | adapted: adapted |
 | 4 | Шеф | О чём ты говоришь? | What are you talking about? | #298 00:18:53: это... Чего я бутылка? | adapted: adapted |
-| 5 | Аня | Я возьму эту бутылку. | I will take this bottle. | #299 00:18:55: Я вот эту вот возьму, | adapted: adapted |
-| 6 | Аня | А вам поставлю другую. | And I will put another one for you. | #299 00:18:55: а эту поставлю. | adapted: adapted |
+| 5 | Костя | Я возьму эту бутылку. | I will take this bottle. | #299 00:18:55: Я вот эту вот возьму, | adapted: adapted |
+| 6 | Костя | А вам поставлю другую. | And I will put another one for you. | #299 00:18:55: а эту поставлю. | adapted: adapted |
 | 7 | Шеф | Тебе что, совсем нечего делать? | Do you have absolutely nothing to do? | #300 00:18:58: Тебе заняться нечем? | adapted: adapted |
-| 8 | Аня | Нет, я просто хочу дать другую. | No, I just want to give another one. | #300 00:18:58: Нет, я вот эту вот возьму, а эту поставлю. | adapted: adapted |
+| 8 | Костя | Нет, я просто хочу дать другую. | No, I just want to give another one. | #300 00:18:58: Нет, я вот эту вот возьму, а эту поставлю. | adapted: adapted |
 | 9 | Шеф | Не трогай ничего, иди отсюда! | Do not touch anything, get out of here! | #301 00:19:02: Иди отсюда. | adapted: adapted |
-| 10 | Аня | Но я должен её забрать. | But I must take it. | new | new: adapted |
+| 10 | Костя | Но я должен её забрать. | But I must take it. | new | new: adapted |
 | 11 | Шеф | Я сказал, иди отсюда! | I said, get out of here! | new | new: adapted |
-| 12 | Аня | Понятно, давай дальше. | Got it, let's move on. | new | new |
+| 12 | Костя | Понятно, давай дальше. | Got it, let's move on. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Excuse me, have a pleasant evening.' Kostya uses the polite plural 'you' here alongside 'sorry', keeping a formal or respectful tone.
 - 'What do you need from me?' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'me'. Then Kostya replies.
-- 'I need this bottle.' Here 'to me' sets up the idea, while 'bottle' comes at the end for emphasis.
-- 'What are you talking about?' Listen for the word meaning 'what' right alongside 'you' in this line.
-- 'I will take this bottle.' In Russian, 'I' leads into 'a bottle' in a very natural everyday phrasing.
-- 'And I will put another one for you.' Kostya starts with 'you' and pairs it with 'will set' to make the point clear.
-- 'Do you have absolutely nothing to do?' The first content word means 'for you', and 'do' rounds out the thought.
-- 'No, I just want to give another one.' The key word here means 'I', which Kostya combines with 'just'. Chef Viktor answers straight away.
-- 'Do not touch anything, get out of here!' Here 'touch' sets up the idea, while 'from here' comes at the end for emphasis.
-- 'But I must take it.' You'll hear 'I' all the time in the show, here connected with 'take'.
-- 'I said, get out of here!' In Russian, 'I' leads into 'from here' in a very natural everyday phrasing. Then Kostya replies.
-- 'Got it, let's move on.' Listen for the word meaning 'clear' right alongside 'let's' in this line.
+- 'I need this bottle.' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'bottle', combining 'needed' with 'bottle'.
+- 'What are you talking about?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'you say'.
+- 'I will take this bottle.' Kostya uses the perfective verb meaning 'will get' to focus on the single completed result, pairing it with 'a bottle'.
+- 'And I will put another one for you.' Kostya uses the perfective verb meaning 'will set' to focus on the single completed result, pairing it with 'the other one'.
+- 'Do you have absolutely nothing to do?' The phrasing opens with 'at all' before bringing in 'do' to make the point clear.
+- 'No, I just want to give another one.' Kostya expresses this naturally by combining the word for 'just' with 'want' and 'to give'.
+- 'Do not touch anything, get out of here!' Chef Barinov leads with the direct command form meaning 'touch', pairing it with 'go' and 'from here'.
+- 'But I must take it.' Here Kostya anchors the line on the word meaning 'has to' and builds the thought around 'take'.
+- 'I said, get out of here!' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'said' and 'from here'.
+- 'Got it, let's move on.' Kostya leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'.

@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening Isabelle, here is today's scene.' Sharon presents the revised pages for the night shoot. The adverb 'aujourd'hui' means today.
+- 'Good evening Isabelle, here is today's scene.' Sharon presents the revised pages for the night shoot. Notice how the short vowel drops before a vowel sound around 'script scene', making the phrase flow smoothly as one unit.
 - 'But I already know my lines.' Isabelle reminds everyone of her thorough preparation. The adverb 'deja' means already.
 - 'Wait, this is not at all the same!' Isabelle spots unexpected script changes. The negative idiom 'pas du tout' means not at all.
 - 'This new text is much shorter.' Isabelle notices substantial trims to her part. The comparative 'plus court' means shorter.
@@ -36,8 +36,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Isabelle, dynamism is very important today.' Mathias steps in to prevent an on-set fight. The masculine noun 'dynamisme' means drive or momentum.
 - 'Mathias, I do not do background work!' Isabelle indignantly rejects being sidelined. The noun 'figuration' refers to being an extra or background performer.
 - 'Can I look at your script for a minute?' Mathias asks to examine the revised draft himself. The temporal expression 'une minute' means for a minute or briefly.
-- 'But you still have fine lines left.' Mathias tries to downplay the severity of the cuts. The adverbial pronoun 'en' refers back to the lines.
+- 'But you still have fine lines left.' Mathias tries to downplay the severity of the cuts. Notice how 'remains' leads directly into the noun meaning 'dialogue lines'.
 - 'He deleted my entire big monologue.' Isabelle laments the loss of her centerpiece speech. The verb 'supprimer' means to delete or remove.
 - 'This sequence is now empty of substance.' Isabelle critiques the artistic value of the shortened scene. The feminine noun 'substance' means depth or substance.
 - 'Where is Gary, I want to talk to him!' Isabelle demands an immediate face-to-face showdown. The indirect pronoun 'lui' means to him.
-- 'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand. The adverb 'immediatement' means right away.
+- 'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand. The clause hinges on the everyday verb meaning 'am going to'.

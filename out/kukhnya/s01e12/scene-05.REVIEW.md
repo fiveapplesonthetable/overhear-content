@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Витя, посмотри на этот рекламный буклет! | Vitya, look at this advertising flyer! | #41 00:02:30: Полюбуйся. | adapted: Vika shows the flyer |
+| 1 | Вика | Витя, посмотри на этот рекламный буклет! | Vitya, look at this advertising flyer! | #41 00:02:30: Полюбуйся. | adapted: Vika shows the flyer |
 | 2 | Шеф | Что это за странное слово Аркобалено? | What kind of strange word is Arcobaleno? | #42 00:02:34: ресторана Аркобалена. | adapted: Barinov sneers at the name |
 | 3 | Шеф | Это вообще что, редкая болезнь почек? | What is that anyway, a rare kidney disease? | #45 00:02:45: Это вообще что, болезнь почек? | adapted: Barinov mocks the name |
-| 4 | Аня | Аркобалено значит радуга по-итальянски, Витя. | Arcobaleno means rainbow in Italian, Vitya. | #46 00:02:47: Аркабалена – это радуга по-итальянски. | adapted: Vika translates the name |
+| 4 | Вика | Аркобалено значит радуга по-итальянски, Витя. | Arcobaleno means rainbow in Italian, Vitya. | #46 00:02:47: Аркабалена – это радуга по-итальянски. | adapted: Vika translates the name |
 | 5 | Шеф | Я не пойду в их кафе! | I will not go to their cafe! | #43 00:02:39: я к ним не приду. | adapted: Barinov rejects the venue |
-| 6 | Аня | Через неделю они открываются рядом с нами. | In a week they are opening right next to us. | #48 00:02:51: У нас под боком через неделю открываются конкуренты. | adapted: Vika points out the threat |
+| 6 | Вика | Через неделю они открываются рядом с нами. | In a week they are opening right next to us. | #48 00:02:51: У нас под боком через неделю открываются конкуренты. | adapted: Vika points out the threat |
 | 7 | Шеф | Ой, боюсь, кафе Радуга нас разорит! | Oh, I am scared, cafe Rainbow will bankrupt us! | #49 00:02:55: Боюсь, боюсь. Кафе «Радуга» разорит нас. | adapted: Barinov mocks the competition |
-| 8 | Аня | Витя, нам пора привлечь новых гостей. | Vitya, it is time for us to attract new guests. | #54 00:03:10: Нам нужно привлечь людей чем-то новым. | adapted: Vika urges proactive steps |
-| 9 | Аня | Нам нужно срочно поменять наше меню. | We need to urgently change our menu. | #55 00:03:13: Меню поменять. | adapted: Vika proposes menu change |
+| 8 | Вика | Витя, нам пора привлечь новых гостей. | Vitya, it is time for us to attract new guests. | #54 00:03:10: Нам нужно привлечь людей чем-то новым. | adapted: Vika urges proactive steps |
+| 9 | Вика | Нам нужно срочно поменять наше меню. | We need to urgently change our menu. | #55 00:03:13: Меню поменять. | adapted: Vika proposes menu change |
 | 10 | Шеф | Мы лучшие, и нас любят за это! | We are the best, and people love us for that! | #55 00:03:13: Мы такие, какие есть, и за это нас любят. | adapted: Barinov asserts quality |
-| 11 | Аня | Ресторану нужны свежие и смелые идеи. | The restaurant needs fresh and bold ideas. | new | new: Vika emphasizes modern approaches |
+| 11 | Вика | Ресторану нужны свежие и смелые идеи. | The restaurant needs fresh and bold ideas. | new | new: Vika emphasizes modern approaches |
 | 12 | Шеф | Меняй всё в зале, на своей территории! | Change everything in the dining room, on your turf! | #56 00:03:16: меняй на своей территории, в зале. | adapted: Barinov defines boundaries |
 | 13 | Шеф | А на кухню ко мне не лезь! | And do not get into my kitchen! | #57 00:03:20: А ко мне на кухню не лезь. | adapted: Barinov bans interference |
 

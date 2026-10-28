@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Ah, I am sorry, Colette!' Andrea expresses her immediate remorse. The feminine past participle 'desolee' agrees with the speaker.
-- 'You scared me in the hallway.' Colette explains her sudden shock. The idiom 'faire peur a quelqu'un' means to frighten someone.
+- 'You scared me in the hallway.' Colette explains her sudden shock. Notice how 'have' leads directly into the noun meaning 'fear'.
 - 'I had not seen you here.' Andrea explains why she made a noise. The plus-que-parfait 'avais pas vue' describes an earlier state.
 - 'Flora woke up with a start.' Colette points to the startled baby. The reflexive verb 'se reveiller' indicates waking up.
 - 'Forgive me, I return too late.' Andrea acknowledges her late arrival. The adverbial locution 'trop tard' signals an excessive delay.

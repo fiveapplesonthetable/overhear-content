@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You must leave over there immediately!' Valentin recites his dramatic audition dialogue loudly. The modal expression 'tu dois' expresses strong obligation.
-- 'It is a very big opportunity for you.' The character emphasizes what is at stake. The feminine noun 'chance' means opportunity or lucky break.
+- 'It is a very big opportunity for you.' The character emphasizes what is at stake. Valentin uses the casual singular 'you' with 'opportunity', showing close familiarity.
 - 'Do not waste this unique opportunity!' Valentin urges his fictional partner not to squander her future. The verb 'gacher' means to waste or spoil.
 - 'Why do you not want to come with me?' Valentin pushes with intense emotion. The preposition 'avec' introduces accompaniment.
 - 'Why are you shouting like that?' Camille halts the rehearsal to question his volume. The verb 'crier' means to shout or cry out.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you really want to go to the big dinner?' Noemie questions attending the official post-ceremony reception.
-- 'The Fouquet's is full of people.' Noemie points out the overwhelming crowd waiting at the venue.
-- 'Everyone will monopolize you over there.' Noemie predicts that filmmakers will crowd Mathias.
-- 'I will not have a single minute alone.' Noemie regrets that they will have no privacy.
-- 'I want to spend the evening together.' Noemie expresses her desire for quiet romance.
-- 'We do whatever you wish.' Mathias gladly yields to her preferences.
-- 'You are my absolute priority, darling.' Mathias reassures Noemie of his devotion.
-- 'I want to take off this red dress.' Noemie confesses her immediate practical wish.
-- 'It has been scratching since the beginning.' Noemie complains about the irritable material.
-- 'This fabric is a real nightmare.' Noemie laughs about the uncomfortable designer gown.
-- 'You were splendid on the red carpet.' Mathias compliments her elegant appearance.
-- 'But it makes me suffer terribly.' Noemie jokes about paying the price for fashion.
-- 'So, we return directly to the hotel.' Mathias gives instructions to skip the party.
+- 'Do you really want to go to the big dinner?' Noemie questions attending the official post-ceremony reception. French forms the near future by pairing the present tense of 'to go' directly with 'go'.
+- 'The Fouquet's is full of people.' Noemie points out the overwhelming crowd waiting at the venue. Notice how the short vowel drops before a vowel sound around 'people', making the phrase flow smoothly as one unit.
+- 'Everyone will monopolize you over there.' Noemie predicts that filmmakers will crowd Mathias. The clause hinges on the everyday verb meaning 'is going'.
+- 'I will not have a single minute alone.' Noemie regrets that they will have no privacy. The verb meaning 'will have' pairs naturally with the noun for 'minute' in everyday conversation.
+- 'I want to spend the evening together.' Noemie expresses her desire for quiet romance. Notice how 'want' leads directly into the noun meaning 'evening'.
+- 'We do whatever you wish.' Mathias gladly yields to her preferences. Mathias uses the casual singular 'you' with 'do', showing close familiarity.
+- 'You are my absolute priority, darling.' Mathias reassures Noemie of his devotion. The key noun here means 'priority', anchored by its matching French article.
+- 'I want to take off this red dress.' Noemie confesses her immediate practical wish. Notice how 'want' leads directly into the noun meaning 'dress'.
+- 'It has been scratching since the beginning.' Noemie complains about the irritable material. Notice how 'scratches' leads directly into the noun meaning 'beginning'.
+- 'This fabric is a real nightmare.' Noemie laughs about the uncomfortable designer gown. The descriptive adjective for 'real' agrees in gender and number with its noun.
+- 'You were splendid on the red carpet.' Mathias compliments her elegant appearance. Mathias uses the casual singular 'you' with 'were', showing close familiarity.
+- 'But it makes me suffer terribly.' Noemie jokes about paying the price for fashion. The reflexive pronoun sits right in front of the verb for 'makes', turning the action back onto the subject.
+- 'So, we return directly to the hotel.' Mathias gives instructions to skip the party. Notice how 'go back' leads directly into the noun meaning 'hotel'.
 - 'That is the best idea of the evening.' Noemie smiles with relief in the taxi.

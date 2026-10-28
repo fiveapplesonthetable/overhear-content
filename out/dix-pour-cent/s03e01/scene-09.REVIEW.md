@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello Gabriel! Do you have a minute?' Sofia greets her agent upon arriving. The question 'tu as une minute' asks casually for brief availability.
 - 'Hello Sofia! Yes, of course.' Gabriel welcomes his client warmly. The adverbial phrase 'bien sur' signals immediate willingness to listen.
 - 'I have to show you something.' Sofia announces her surprise. The impersonal necessity structure 'il faut que' takes subjunctive.
-- 'What is it?' Gabriel asks with curiosity. The standard question formula 'qu'est-ce que c'est' asks for identification.
+- 'What is it?' Gabriel asks with curiosity. The standard spoken question formula at the front turns the statement about 'is it' into a natural inquiry.
 - 'It is the new poster for my movie.' Sofia reveals the exciting project deliverable. The feminine noun 'affiche' refers to a printed film poster.
 - 'The poster is already ready?' Gabriel expresses pleasant surprise at the timeline. The temporal adverb 'deja' highlights prompt completion.
-- 'Yes, the team worked very quickly.' Sofia compliments the production crew. The compound past 'a travaille' describes completed past action.
+- 'Yes, the team worked very quickly.' Sofia compliments the production crew. This conversational past tense combines a helper verb with the past participle for 'worked'.
 - 'Show me that right away.' Gabriel encourages her with an imperative. The adverbial phrase 'tout de suite' indicates immediacy.
 - 'Look, I have it on my tablet.' Sofia pulls up the digital image. The imperative 'regarde' directs attention to the screen.
 - 'It is really magnificent!' Gabriel admires the striking visual artwork. The intensifying adverb 'vraiment' reinforces high aesthetic praise.

@@ -11,21 +11,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Вика, посмотри на ту даму. | Vika, look at that lady. | new | new |
-| 2 | Аня | Ну как она себя ведёт? | Well, how is she behaving? | #152 00:10:15: как она? | verbatim |
+| 2 | Вика | Ну как она себя ведёт? | Well, how is she behaving? | #152 00:10:15: как она? | verbatim |
 | 3 | Шеф | Вроде всё совершенно нормально. | Everything seems completely fine. | #152 00:10:15: Вроде нормально | verbatim |
-| 4 | Аня | Она долго говорит по телефону. | She is talking on the phone for a long time. | new | new |
+| 4 | Вика | Она долго говорит по телефону. | She is talking on the phone for a long time. | new | new |
 | 5 | Шеф | Она просто обедает в нашем зале. | She is simply dining in our dining room. | #154 00:10:20: Я в Клотмана обедаю | verbatim |
-| 6 | Аня | Но она ничего не ест. | But she is not eating anything. | new | new |
+| 6 | Вика | Но она ничего не ест. | But she is not eating anything. | new | new |
 | 7 | Шеф | Может быть, блюдо слишком горячее? | Maybe the dish is too hot? | new | new |
-| 8 | Аня | Она только что попросила счёт. | She just asked for the bill. | new | new |
+| 8 | Вика | Она только что попросила счёт. | She just asked for the bill. | new | new |
 | 9 | Шеф | Она ресторанный критик или нет? | Is she a restaurant critic or not? | #158 00:10:31: или нет? | verbatim |
-| 10 | Аня | Мы до сих пор не уверены. | We are still not sure. | new | new |
+| 10 | Вика | Мы до сих пор не уверены. | We are still not sure. | new | new |
 | 11 | Шеф | Нужно срочно выяснить всю правду. | We need to urgently find out the whole truth. | new | new |
-| 12 | Аня | Я сейчас же всё узнаю, шеф. | I will find out everything right now, chef. | new | new |
+| 12 | Вика | Я сейчас же всё узнаю, шеф. | I will find out everything right now, chef. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Well, how is she behaving?' An interrogative inquiry about the guest's conduct in the dining room.
 - 'She is simply dining in our dining room.' A descriptive present tense statement about the customer's activity for the staff.
 - 'Is she a restaurant critic or not?' A direct alternative question expressing acute uncertainty about the visitor's true identity.
-- 'We need to urgently find out the whole truth.' An impersonal modal phrase indicating pressing necessity for the restaurant team.
+- 'We need to urgently find out the whole truth.' An impersonal modal phrase indicating pressing necessity for the restaurant team. Now, let's hear Victoria and Chef Barinov discuss the guest once more.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- '...I have an announcement.' Viktor tells the kitchen staff.
-- '...We need a seasonal dish.' He says they need a new item.
-- '...Chef, wait.' Max interrupts him.
-- '...You said you wouldn't come up with it.' Max is confused by the news.
-- '...And I won't be.' Viktor clarifies the situation.
-- '...You will.' He points at the staff.
-- '...The winner gets a bonus.' He promises a reward for the winner.
-- '...And I won't call him disabled.' Viktor offers a second prize.
-- '...And the bonus is right away?' Max asks eagerly.
-- '...The bonus is at the end of the month.' Viktor clarifies the timeline.
-- '...But I'll stop calling you disabled right away.' He will stop the insults immediately.
-- '...Everyone understood. Yes, Chef!' Max confirms they accept the challenge.
+- 'I have an announcement.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'advertisement'.
+- 'We need a seasonal dish.' Russian omits the present-tense verb 'to be' here, linking 'necessary' directly with 'seasonal', combining 'necessary' with 'seasonal' and 'dish'.
+- 'Chef, wait.' Max leads with the direct command form meaning 'wait' to make the point directly in conversation.
+- 'You said you wouldn't come up with it.' Max chooses the imperfective verb meaning 'talked' for the ongoing action, followed by 'will be' and 'to think up'.
+- 'And I won't be.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'.
+- 'You will.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'.
+- 'The winner gets a bonus.' The phrasing opens with 'winner' before bringing in 'will get' and 'bonus' to make the point clear.
+- 'And I won't call him disabled.' Chef Barinov chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'to call' and 'disabled person'.
+- 'And the bonus is right away?' Max turns a statement into a question purely through rising intonation on the word meaning 'bonus', followed by 'at once'.
+- 'The bonus is at the end of the month.' Russian omits the present-tense verb 'to be' here, linking 'bonus' directly with 'end', combining 'bonus' with 'end' and 'months'.
+- 'But I'll stop calling you disabled right away.' The phrasing opens with 'disabled person' before bringing in 'will stop' and 'to call' to make the point clear.
+- 'Everyone understood. Yes, Chef!' Max confirms they accept the challenge. Now listen to the whole scene again.

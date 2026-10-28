@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Так, повара, нарежьте все овощи. | So, cooks, chop all the vegetables. | #5 00:00:54: Режут | adapted: adapted |
-| 2 | Аня | Шеф, мы уже режем лук. | Chef, we are already chopping onions. | #5 00:00:54: Режут | adapted: adapted |
+| 2 | Макс | Шеф, мы уже режем лук. | Chef, we are already chopping onions. | #5 00:00:54: Режут | adapted: adapted |
 | 3 | Шеф | Режьте быстрее, гости скоро придут. | Chop faster, guests will come soon. | new | new: new |
-| 4 | Аня | А где мы возьмём свежее мясо? | And where will we get fresh meat? | new | new: new |
+| 4 | Макс | А где мы возьмём свежее мясо? | And where will we get fresh meat? | new | new: new |
 | 5 | Шеф | Сначала повар выбирает лучшие продукты. | First a cook selects the best products. | #6 00:01:00: Но сначала для вашего блюда выбирают лучшие продукты | adapted: adapted |
-| 6 | Аня | Мы покупаем мясо в магазине? | Do we buy meat in a shop? | new | new: new |
+| 6 | Макс | Мы покупаем мясо в магазине? | Do we buy meat in a shop? | new | new: new |
 | 7 | Шеф | Нет, я сам выбираю всё на рынке. | No, I choose everything myself at the market. | #6 00:01:00: выбирают лучшие продукты | adapted: adapted |
-| 8 | Аня | Вы лично проверяете каждый кусок? | Do you personally inspect every piece? | new | new: new |
+| 8 | Макс | Вы лично проверяете каждый кусок? | Do you personally inspect every piece? | new | new: new |
 | 9 | Шеф | Настоящий шеф не доверяет чужим людям. | A real chef does not trust strangers. | new | new: new |
-| 10 | Аня | Можно мне поехать с вами? | May I go with you? | new | new: new |
+| 10 | Макс | Можно мне поехать с вами? | May I go with you? | new | new: new |
 | 11 | Шеф | Ты останешься на кухне чистить картошку. | You will stay in the kitchen peeling potatoes. | new | new: new |
-| 12 | Аня | Я мечтал выбирать лучшие продукты. | I dreamed of selecting the best products. | new | new: new |
+| 12 | Макс | Я мечтал выбирать лучшие продукты. | I dreamed of selecting the best products. | new | new: new |
 | 13 | Шеф | Сначала научись резать без ошибок! | First learn to cut without mistakes! | #5 00:00:54: Режут | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

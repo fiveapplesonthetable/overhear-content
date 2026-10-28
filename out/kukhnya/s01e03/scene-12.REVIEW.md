@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Лёва, покажи мне этого гуся. | Lyova, show me this goose. | #255 00:16:16: он такой | adapted: demanding inspect |
+| 1 | Шеф | Лёва, покажи мне этого гуся. | Lyova, show me this goose. | #255 00:16:16: он такой | adapted: demanding inspect |
 | 2 | Лёва | Вот он, шеф, я уже закончил. | Here it is, chef, I already finished. | #255 00:16:16: Чего он | adapted: presenting bird |
-| 3 | Аня | Чего он такой странно маленький? | Why is it so strangely small? | #255 00:16:16: Чего он такой маленький | adapted: baffled inspection |
+| 3 | Шеф | Чего он такой странно маленький? | Why is it so strangely small? | #255 00:16:16: Чего он такой маленький | adapted: baffled inspection |
 | 4 | Лёва | Это из-за перьев так получилось. | It turned out like that because of feathers. | #256 00:16:19: так это перья | adapted: explaining |
 | 5 | Лёва | Оказалось, что у него очень густые перья. | It turned out that it has very thick feathers. | #256 00:16:19: перья оказались | adapted: elaborating |
-| 6 | Аня | Мы же купили огромную птицу! | We bought a huge bird after all! | #255 00:16:16: маленький | adapted: protesting |
+| 6 | Шеф | Мы же купили огромную птицу! | We bought a huge bird after all! | #255 00:16:16: маленький | adapted: protesting |
 | 7 | Лёва | Я сам удивился, когда ощипывал его. | I was surprised myself when I was plucking it. | #257 00:16:22: когда | adapted: defending work |
-| 8 | Аня | Тут совсем мало мяса для гостей. | There is completely little meat here for the guests. | #255 00:16:16: маленький | adapted: grumbling |
+| 8 | Шеф | Тут совсем мало мяса для гостей. | There is completely little meat here for the guests. | #255 00:16:16: маленький | adapted: grumbling |
 | 9 | Лёва | Что же нам теперь с ним делать? | What should we do with it now? | #256 00:16:19: оказались | adapted: seeking advice |
-| 10 | Аня | Приготовь специальный соус и красивый гарнир. | Prepare a special sauce and a beautiful side dish. | #255 00:16:16: Чего он | adapted: giving instructions |
+| 10 | Шеф | Приготовь специальный соус и красивый гарнир. | Prepare a special sauce and a beautiful side dish. | #255 00:16:16: Чего он | adapted: giving instructions |
 | 11 | Лёва | Хорошо, шеф, я всё быстро сделаю. | Alright, chef, I will do everything quickly. | #256 00:16:19: так это | adapted: complying |
-| 12 | Аня | Гости должны быть довольны нашим банкетом! | The guests must be pleased with our banquet! | #255 00:16:16: такой | adapted: stressing standard |
+| 12 | Шеф | Гости должны быть довольны нашим банкетом! | The guests must be pleased with our banquet! | #255 00:16:16: такой | adapted: stressing standard |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

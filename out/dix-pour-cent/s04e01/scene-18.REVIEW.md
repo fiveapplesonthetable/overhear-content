@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Mimie, come take photos with me!' Charlotte welcomes Mimie warmly onto the red carpet. The imperative 'viens faire' invites someone to participate.
-- 'Are you really sure, Charlotte?' Mimie asks with humble disbelief. The adjective 'sure' checks for certainty.
+- 'Are you really sure, Charlotte?' Mimie asks with humble disbelief. The informal 'you' form around 'this line' marks a direct, personal relationship.
 - 'Of course, we are a team.' Charlotte reaffirms their mutual respect. The noun 'equipe' conveys shared solidarity.
 - 'The photographers are waiting for your arrival!' Gabriel points toward the flashing cameras. The present verb 'attendent' describes the waiting media press.
 - 'It is a magical moment for me.' Mimie takes in the glamorous setting. The adjective 'magique' highlights an enchanting experience.
-- 'You deserve all this fine attention.' Charlotte praises Mimie's artistic achievements. The verb 'merites' denotes rightful earning of honor.
+- 'You deserve all this fine attention.' Charlotte praises Mimie's artistic achievements. Notice how 'deserve' leads directly into the noun meaning 'attention'.
 - 'I leave you to shine together!' Gabriel steps back to give them full visibility. The verbal idiom 'je vous laisse' politely excuses oneself.
 - 'Look toward the cameras, Mimie.' Charlotte shares helpful tips for the photocall. The preposition 'vers' indicates direction toward an object.
-- 'I am not used to this.' Mimie reflects on the rare burst of gala spotlight. The verbal phrase 'avoir l'habitude de' means to be accustomed to.
+- 'I am not used to this.' Mimie reflects on the rare burst of gala spotlight. The verb meaning 'have' pairs naturally with the noun for 'habit' in everyday conversation.
 - 'Smile, you are stunning tonight!' Charlotte reassures her co-star with enthusiasm. The imperative 'souris' offers encouragement before the flashing lenses.
 - 'This red carpet arrival is superb.' Gabriel admires their shared public grace. The noun phrase 'montee des marches' refers to the iconic red carpet procession.
 - 'Thank you a thousand times for this gesture.' Mimie thanks Charlotte for sharing the limelight. The expression 'merci mille fois' conveys heartfelt thanks.
-- 'Cinema loves your wonderful energy.' Charlotte celebrates Mimie's enduring popular appeal. The feminine noun 'energie' commends vitality and spirit.
+- 'Cinema loves your wonderful energy.' Charlotte celebrates Mimie's enduring popular appeal. The verb meaning 'adores' pairs naturally with the noun for 'cinema' in everyday conversation.
 - 'Enjoy your great success to the fullest!' Gabriel encourages both actresses to relish the glory. The adverb 'pleinement' means fully or to the maximum.

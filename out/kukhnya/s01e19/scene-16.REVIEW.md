@@ -20,10 +20,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Дима | Я пытался, Витя. | I tried, Vitya. | #349 00:21:34: Я пытался. Пытался, Вить | verbatim |
 | 9 | Дима | Кому нужен пустой ресторан? | Who wants an empty restaurant? | #350 00:21:36: Кому нужен ресторан | verbatim |
 | 10 | Шеф | Это была твоя идея. | This was your idea. | new | new: defending himself |
-| 11 | Аня | Шеф, можно идти домой? | Chef, can I go home? | #339 00:21:04: Домой | verbatim |
+| 11 | Макс | Шеф, можно идти домой? | Chef, can I go home? | #339 00:21:04: Домой | verbatim |
 | 12 | Шеф | Заготовка на завтра сама себя сделает? | Will tomorrow's prep do itself? | #339 00:21:04: заготовка на завтра сама себя сделает | verbatim |
-| 13 | Аня | Есть, шеф. | Yes, Chef. | #340 00:21:08: Есть | verbatim |
-| 14 | Аня | Я иду на кухню. | I am going to the kitchen. | new | new |
+| 13 | Макс | Есть, шеф. | Yes, Chef. | #340 00:21:08: Есть | verbatim |
+| 14 | Макс | Я иду на кухню. | I am going to the kitchen. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, can I go home?' Max interrupts at a bad moment. The word 'can' translates to 'is it possible'.
 - 'Will tomorrow's prep do itself?' The Chef takes his anger out on Max. The verb is future tense.
 - 'Yes, Chef.' In the kitchen, this word is the military 'Yes, sir'. It is a sign of obedience.
-- 'I am going to the kitchen.' Max quickly retreats to his station.
+- 'I am going to the kitchen.' Max chooses the imperfective verb meaning 'going' for the ongoing action, followed by 'kitchen'.

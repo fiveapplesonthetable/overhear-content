@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Гость | Скажите, пожалуйста, это мой праздничный гусь? | Tell me please, is that my festive goose? | #319 00:20:59: Это мой гусь? | adapted: Guest inquires |
 | 2 | Шеф | Да, это ваш главный заказ сегодня! | Yes, this is your main order today! | new | new: Chef confirms |
 | 3 | Шеф | Мы готовили его по старинному рецепту. | We prepared it according to an ancient recipe. | new | new: Culinary tradition |
-| 4 | Аня | Наш шеф лично проверял каждую деталь. | Our chef personally checked every detail. | new | new: Max praises chef |
+| 4 | Макс | Наш шеф лично проверял каждую деталь. | Our chef personally checked every detail. | new | new: Max praises chef |
 | 5 | Гость | Гусь выглядит и пахнет просто великолепно! | The goose looks and smells simply magnificent! | new | new: Guest is impressed |
 | 6 | Шеф | Мясо получилось очень нежным и сочным. | The meat turned out very tender and juicy. | new | new: Chef highlights quality |
-| 7 | Аня | Мы подали его с яблоками и травами. | We served it with apples and herbs. | new | new: Garnish details |
+| 7 | Макс | Мы подали его с яблоками и травами. | We served it with apples and herbs. | new | new: Garnish details |
 | 8 | Гость | Мои гости будут в полном восторге! | My guests will be in total delight! | new | new: Guest expects praise |
 | 9 | Шеф | Наш ресторан держит только высший уровень. | Our restaurant maintains only the highest standard. | new | new: Chef's pride |
 | 10 | Гость | Спасибо вам за прекрасную работу, повара! | Thank you for the wonderful work, chefs! | new | new: Gratitude expressed |
 | 11 | Шеф | Приятного аппетита вам и вашим гостям! | Bon appetit to you and your guests! | new | new: Chef's blessing |
-| 12 | Аня | Надеемся увидеть вас снова в ресторане. | We hope to see you again at the restaurant. | new | new: Max bids farewell |
+| 12 | Макс | Надеемся увидеть вас снова в ресторане. | We hope to see you again at the restaurant. | new | new: Max bids farewell |
 | 13 | Шеф | Макс, живо возвращайся обратно на кухню! | Max, quickly get back to the kitchen! | new | new: Chef sends Max back |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Actors always have two great fears.' A general observation on professional artistic insecurity.
-- 'Fear of what, Gerard?' A direct question prompting an honest explanation.
-- 'The fear of being sent to the scrap heap.' A vivid idiom describing anxiety over career obsolescence.
-- 'Why do you tell me that now?' An intrigued inquiry seeking clarification of his motives.
-- 'You were not bad, Samy.' A reassuring negation correcting his false impression.
-- 'You really think that I was good?' A hopeful question seeking genuine validation.
-- 'You were even very good.' An emphatic confirmation offering sincere artistic praise.
-- 'Then why did everything go badly?' A logical question pressing for the root problem.
-- 'I did nothing to help you.' A candid admission taking personal responsibility.
-- 'That is not possible, Gerard!' An incredulous exclamation refusing to blame his mentor.
-- 'I was very afraid of your talent.' A courageous confession revealing deep professional vulnerability.
-- 'Afraid of me? That is completely crazy!' An astonished reaction marveling at the star's insecurity.
-- 'I freaked out facing your youth.' A colloquial admission acknowledging fear of aging.
-- 'I cannot bring myself to believe it.' A stunned expression absorbing the surprising revelation.
+- 'Actors always have two great fears.' Notice how 'have' leads directly into the noun meaning 'actors'. Notice how 'have' leads directly into the noun meaning 'actors'.
+- 'Fear of what, Gerard?' The key noun here means 'fear', anchored by its matching French article. The key noun here means 'fear', anchored by its matching French article.
+- 'The fear of being sent to the scrap heap.' Notice how 'of being' leads directly into the noun meaning 'fear'. Notice how 'of being' leads directly into the noun meaning 'fear'.
+- 'Why do you tell me that now?' The formal 'you' pronoun sets a courteous, professional distance around 'say'.
+- 'You were not bad, Samy.' A reassuring negation correcting his false impression. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
+- 'You really think that I was good?' In spoken French, the little word before 'think' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'think' drops its final vowel and attaches with an apostrophe.
+- 'You were even very good.' This conversational past tense combines a helper verb with the past participle for 'been'. This conversational past tense combines a helper verb with the past participle for 'been'.
+- 'Then why did everything go badly?' The reflexive pronoun sits right in front of the verb for 'went', turning the action back onto the subject.
+- 'I did nothing to help you.' The informal 'you' form around 'have' marks a direct, personal relationship. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'That is not possible, Gerard!' The adverb meaning 'not' gives the reply its conversational emphasis.
+- 'I was very afraid of your talent.' In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'Afraid of me? That is completely crazy!' In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
+- 'I freaked out facing your youth.' In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'I cannot bring myself to believe it.' In spoken French, the little word before 'manage' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'manage' drops its final vowel and attaches with an apostrophe.

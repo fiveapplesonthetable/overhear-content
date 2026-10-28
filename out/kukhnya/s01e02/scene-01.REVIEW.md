@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | С одной стороны, я работаю в крутом ресторане. | On the one hand, I work in a cool restaurant. | #1 00:00:14: С одной стороны, ты устроился в самый крутой | adapted: adapted |
+| 1 | Макс | С одной стороны, я работаю в крутом ресторане. | On the one hand, I work in a cool restaurant. | #1 00:00:14: С одной стороны, ты устроился в самый крутой | adapted: adapted |
 | 2 | Костя | А с другой стороны, ты ешь обычные сосиски. | And on the other hand, you eat ordinary sausages. | #2 00:00:19: не повлияло на качество твоего питания | adapted: adapted |
-| 3 | Аня | Наш шеф готовит самую вкусную еду. | Our chef cooks the most delicious food. | #1 00:00:14: самый крутой и вкусный ресторан | adapted: adapted |
+| 3 | Макс | Наш шеф готовит самую вкусную еду. | Our chef cooks the most delicious food. | #1 00:00:14: самый крутой и вкусный ресторан | adapted: adapted |
 | 4 | Костя | Но на кухне всегда царит полный хаос. | But total chaos always reigns in the kitchen. | new | new: new |
-| 5 | Аня | Гости думают, что это самое спокойное место. | Guests think this is the most peaceful place. | #5 00:00:41: в самом красивом и спокойном месте | adapted: adapted |
+| 5 | Макс | Гости думают, что это самое спокойное место. | Guests think this is the most peaceful place. | #5 00:00:41: в самом красивом и спокойном месте | adapted: adapted |
 | 6 | Костя | Они никогда не узнают правду о нас. | They will never know the truth about us. | #4 00:00:33: вы никогда не узнаете, как на самом деле | adapted: adapted |
-| 7 | Аня | Каждый клиент считает себя важным человеком. | Every customer considers themselves an important person. | #3 00:00:29: вы уважаемые гости элитного ресторана | adapted: adapted |
+| 7 | Макс | Каждый клиент считает себя важным человеком. | Every customer considers themselves an important person. | #3 00:00:29: вы уважаемые гости элитного ресторана | adapted: adapted |
 | 8 | Костя | А мы просто наливаем им вино. | And we simply pour them wine. | new | new: new |
-| 9 | Аня | Работа на кухне очень трудная и нервная. | Work in the kitchen is very hard and nerve-wracking. | new | new: new |
+| 9 | Макс | Работа на кухне очень трудная и нервная. | Work in the kitchen is very hard and nerve-wracking. | new | new: new |
 | 10 | Костя | Зато здесь никогда не бывает скучно! | On the other hand, it's never boring here! | new | new: new |
-| 11 | Аня | Скоро начинается наша утренняя смена. | Our morning shift is starting soon. | new | new: new |
+| 11 | Макс | Скоро начинается наша утренняя смена. | Our morning shift is starting soon. | new | new: new |
 | 12 | Костя | Тогда готовься к новому рабочему дню! | Then prepare for a new workday! | new | new: new |
-| 13 | Аня | Я докажу шефу, что умею готовить. | I will prove to the chef that I know how to cook. | new | new: new |
+| 13 | Макс | Я докажу шефу, что умею готовить. | I will prove to the chef that I know how to cook. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

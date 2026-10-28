@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You could run the shop.' Hicham expands the metaphor to running the entire agency. The verb 'diriger' means to manage or lead.
 - 'I am moving to London.' Hicham announces his impending move across the Channel. The proper noun 'Londres' designates the British capital.
 - 'My son needs me.' Hicham explains his personal reason for stepping back from day-to-day operations. The idiom 'avoir besoin de' expresses necessity.
-- 'I need someone trustworthy.' Hicham stresses the paramount importance of integrity in management. The noun phrase 'quelqu'un de confiance' means a trustworthy person.
+- 'I need someone trustworthy.' Hicham stresses the paramount importance of integrity in management. The verb meaning 'have' pairs naturally with the noun for 'need' in everyday conversation.
 - 'I am looking for a new director.' Hicham describes the executive vacancy. The feminine noun 'directrice' designates a female managing director.
 - 'Does the director post interest you?' Hicham presents Andrea with the ultimate promotion. The verb 'interesser' takes an indirect object pronoun.
 - 'That is an incredible offer, Hicham.' Andrea is stunned by the magnitude of the proposal. The adjective 'incroyable' highlights how extraordinary the offer is.

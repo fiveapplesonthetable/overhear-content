@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Excuse me, I set this box down here.' Gabriel enters carrying office boxes. The verb 'deposer' means to set down or deposit.
-- 'Gabriel! What are you doing?' Andrea catches him in the act of unpacking. The familiar interrogative 'qu'est-ce que tu fais' expresses exasperation.
+- 'Gabriel! What are you doing?' Andrea catches him in the act of unpacking. The informal 'you' form around 'are doing' marks a direct, personal relationship.
 - 'You see well, I am moving in today!' Gabriel announces his takeover proudly. The verb 'emmenager' means to move into a new space.
 - 'This is my official office, Gabriel!' Andrea reclaims her executive domain. The adjective 'officiel' indicates authorized status.
-- 'In any case, you are never here.' Gabriel points out Andrea's hectic schedule. The locution 'de toute facon' means anyway or in any case.
+- 'In any case, you are never here.' Gabriel points out Andrea's hectic schedule. Gabriel uses the casual singular 'you' with 'this line', showing close familiarity.
 - 'I run the entire agency!' Andrea asserts her role as director of ASK. The feminine adjective 'entiere' emphasizes totality.
 - 'Who are you calling with that phone?' Gabriel observes Andrea dialing a number. The interrogative 'qui' asks for the identity of the person called.
 - 'I am calling ASK legal department.' Andrea pretends to initiate formal proceedings. The adjective 'juridique' relates to law and contracts.
 - 'Do you really want to have me expelled?' Gabriel questions her drastic reaction. The causative construction 'faire expulser' indicates causing someone to be evicted.
 - 'I have good news for you.' Andrea changes tactics with an ironic twist. The noun phrase 'bonne nouvelle' creates false anticipation.
-- 'Are you giving me a nice promotion?' Gabriel hopes for professional advancement. The noun 'promotion' refers to career elevation.
+- 'Are you giving me a nice promotion?' Gabriel hopes for professional advancement. Gabriel uses the casual singular 'you' with 'give', showing close familiarity.
 - 'Yes, I promote you right away!' Andrea humorously confirms his promotion. The verb 'promouvoir' is conjugated as 'promeus' in the first person.
 - 'A real salary raise at last?' Gabriel dreams of financial reward. The noun 'augmentation' signifies a pay increase.
 - 'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback. The noun 'etage' refers to a building floor level.

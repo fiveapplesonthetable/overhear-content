@@ -45,29 +45,29 @@ OPENER = "Let's walk through it. Gabriel is panicking while Andrea guesses the P
 
 WALK = [
  (0, None,
-  "'Hurry up! I beg you.' He is terrified that Elise will catch them red-handed."),
+  "'Hurry up! I beg you.' He is terrified that Elise will catch them red-handed. This conversational past tense combines a helper verb with the past participle for 'to beg'."),
  (1, None,
-  "'It is not her birth date.' Andrea realizes the obvious guess was wrong."),
+  "'It is not her birth date.' Andrea realizes the obvious guess was wrong. Notice how 'to be' leads directly into the noun meaning 'calendar date'."),
  (2, None,
-  "'Try four times one.' He suggests the most basic passcode possible."),
+  "'Try four times one.' He suggests the most basic passcode possible. The verb meaning 'to try' pairs naturally with the noun for 'time' in everyday conversation."),
  (3, None,
-  "'She is much too complex for that.' Andrea knows their rival is much smarter than that."),
+  "'She is much too complex for that.' Andrea knows their rival is much smarter than that. The clause hinges on the everyday verb meaning 'to be'."),
  (4, None,
-  "'We do not have time to try randomly!' He reminds her that time is running out quickly."),
+  "'We do not have time to try randomly!' He reminds her that time is running out quickly. The verb meaning 'to be' pairs naturally with the noun for 'time' in everyday conversation."),
  (5, None,
-  "'I found it!' He suddenly figures out the secret code."),
+  "'I found it!' He suddenly figures out the secret code. Dropping the subject pronoun turns the verb for 'to be' into a direct, punchy command."),
  (6, None,
-  "'What?' Andrea is amazed that he managed to crack it."),
+  "'What?' Andrea is amazed that he managed to crack it. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question."),
  (7, None,
-  "'It worked! I am in!' He successfully unlocks the stolen smartphone."),
+  "'It worked! I am in!' He successfully unlocks the stolen smartphone. Dropping the subject pronoun turns the verb for 'to be' into a direct, punchy command."),
  (8, None,
-  "'What did you find?' She eagerly asks for the incriminating evidence."),
+  "'What did you find?' She eagerly asks for the incriminating evidence. Andrea uses the casual singular 'you' with 'to be', showing close familiarity."),
  (9, None,
-  "'Nothing! Not a single message on her phone.' He is shocked to see an empty inbox."),
+  "'Nothing! Not a single message on her phone.' He is shocked to see an empty inbox. The key noun here means 'message', anchored by its matching French article."),
  (10, None,
-  "'So we got worked up for nothing?' She is disappointed that their heist yielded no proof."),
+  "'So we got worked up for nothing?' She is disappointed that their heist yielded no proof. This conversational past tense combines a helper verb with the past participle for 'to annoy'."),
  (11, None,
-  "'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something.")
+  "'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something. The verb meaning 'to do' pairs naturally with the noun for 'housework' in everyday conversation.")
 ]
 
 TRANSITION = "Now let's hear the scene once more."

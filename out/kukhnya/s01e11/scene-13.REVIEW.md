@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Вика | Шеф, в углу зала сидит странный гость. | Chef, a strange guest is sitting in the corner of the dining room. | #163 00:11:24: Писатель? | adapted: pointing out suspicious guest |
-| 2 | Аня | Что этот человек делает за своим столом? | What is this person doing at his table? | #163 00:11:24: Писатель? | adapted: asking about guest |
+| 2 | Шеф | Что этот человек делает за своим столом? | What is this person doing at his table? | #163 00:11:24: Писатель? | adapted: asking about guest |
 | 3 | Вика | Он ничего не заказывает и постоянно пишет. | He does not order anything and constantly writes. | #163 00:11:24: Писатель? | adapted: noticing constant writing |
-| 4 | Аня | Может быть, это известный писатель или журналист? | Could it be a famous writer or journalist? | #163 00:11:24: Писатель? | adapted: speculating profession |
+| 4 | Шеф | Может быть, это известный писатель или журналист? | Could it be a famous writer or journalist? | #163 00:11:24: Писатель? | adapted: speculating profession |
 | 5 | Вика | Он слишком внимательно изучает всё вокруг нас. | He studies everything around us too attentively. | #164 00:11:31: А вы же говорили, что критик | adapted: suspecting scrutiny |
-| 6 | Аня | Но ты же сама считала критиком ту девушку! | But you yourself considered that young woman to be the critic! | #164 00:11:31: А вы же говорили, что критик – это вот та девушка | adapted: reminding of earlier suspect |
+| 6 | Шеф | Но ты же сама считала критиком ту девушку! | But you yourself considered that young woman to be the critic! | #164 00:11:31: А вы же говорили, что критик – это вот та девушка | adapted: reminding of earlier suspect |
 | 7 | Вика | Та девушка тоже ведёт себя очень подозрительно. | That young woman also behaves very suspiciously. | #164 00:11:31: критик – это вот та девушка | adapted: defending suspicion |
-| 8 | Аня | Получается, у меня в ресторане сразу два критика? | Does it turn out that I have two critics at once in the restaurant? | #165 00:11:35: Или это что, получается, у меня теперь два критика? | adapted: reacting in disbelief |
+| 8 | Шеф | Получается, у меня в ресторане сразу два критика? | Does it turn out that I have two critics at once in the restaurant? | #165 00:11:35: Или это что, получается, у меня теперь два критика? | adapted: reacting in disbelief |
 | 9 | Вика | Мы должны накормить обоих гостей на высшем уровне. | We must feed both guests at the highest level. | #165 00:11:35: два критика | adapted: urging top hospitality |
-| 10 | Аня | Я приготовлю для них свои лучшие блюда. | I will prepare my best dishes for them. | #165 00:11:35: два критика | adapted: promising culinary excellence |
+| 10 | Шеф | Я приготовлю для них свои лучшие блюда. | I will prepare my best dishes for them. | #165 00:11:35: два критика | adapted: promising culinary excellence |
 | 11 | Вика | Главное, чтобы официанты не сделали глупых ошибок. | The main thing is that the waiters do not make foolish mistakes. | #165 00:11:35: два критика | adapted: worrying about service |
-| 12 | Аня | Я лично прослежу за каждым готовым заказом! | I will personally oversee every finished order! | #165 00:11:35: два критика | adapted: promising vigilance |
+| 12 | Шеф | Я лично прослежу за каждым готовым заказом! | I will personally oversee every finished order! | #165 00:11:35: два критика | adapted: promising vigilance |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

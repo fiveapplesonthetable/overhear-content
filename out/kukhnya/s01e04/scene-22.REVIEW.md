@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Этого парня больше никуда не возьмут! | They will not take this guy anywhere anymore! | #290 00:21:12: не возьмут | adapted: Chef vents |
-| 2 | Аня | Виктор, нам нужно срочно поговорить. | Viktor, we need to talk urgently. | #292 00:21:22: Надо поговорить. | adapted: Vika demands conversation |
+| 2 | Вика | Виктор, нам нужно срочно поговорить. | Viktor, we need to talk urgently. | #292 00:21:22: Надо поговорить. | adapted: Vika demands conversation |
 | 3 | Шеф | Я не хочу говорить об этом поваре. | I do not want to talk about this cook. | new | new: Chef resists |
-| 4 | Аня | Макс не ходил на то собеседование. | Max did not go to that interview. | #295 00:21:29: Макс не ходил на собеседование. | adapted: Vika reveals truth |
+| 4 | Вика | Макс не ходил на то собеседование. | Max did not go to that interview. | #295 00:21:29: Макс не ходил на собеседование. | adapted: Vika reveals truth |
 | 5 | Шеф | Что ты такое сейчас говоришь? | What are you saying right now? | new | new: Chef is stunned |
-| 6 | Аня | Это я ходила в чужой ресторан. | It was I who went to the other restaurant. | #297 00:21:36: Это я ходила. | adapted: Vika confesses |
-| 7 | Аня | Макс действительно очень талантливый парень. | Max really is a very talented guy. | #301 00:21:49: парень | adapted: Vika defends Max |
-| 8 | Аня | Но ты совсем не даёшь ему расти. | But you do not let him grow at all. | new | new: Vika critiques chef |
-| 9 | Аня | Сколько хороших людей ушли отсюда? | How many good people have left here? | #305 00:22:01: Сколько талантливых поваров ушли | adapted: Vika points to past departures |
+| 6 | Вика | Это я ходила в чужой ресторан. | It was I who went to the other restaurant. | #297 00:21:36: Это я ходила. | adapted: Vika confesses |
+| 7 | Вика | Макс действительно очень талантливый парень. | Max really is a very talented guy. | #301 00:21:49: парень | adapted: Vika defends Max |
+| 8 | Вика | Но ты совсем не даёшь ему расти. | But you do not let him grow at all. | new | new: Vika critiques chef |
+| 9 | Вика | Сколько хороших людей ушли отсюда? | How many good people have left here? | #305 00:22:01: Сколько талантливых поваров ушли | adapted: Vika points to past departures |
 | 10 | Шеф | Хватит читать мне свои нравоучения! | Stop giving me your moral lectures! | #313 00:22:22: Хватит | adapted: Chef snaps back |
-| 11 | Аня | Мне просто искренне жаль этого парня. | I simply genuinely feel sorry for this guy. | new | new: Vika appeals to heart |
-| 12 | Аня | Я могу сказать, что он не уволен? | Can I say that he is not fired? | #316 00:22:33: что он не уволен | adapted: Vika requests reinstatement |
+| 11 | Вика | Мне просто искренне жаль этого парня. | I simply genuinely feel sorry for this guy. | new | new: Vika appeals to heart |
+| 12 | Вика | Я могу сказать, что он не уволен? | Can I say that he is not fired? | #316 00:22:33: что он не уволен | adapted: Vika requests reinstatement |
 | 13 | Шеф | Делай что хочешь, только оставь меня! | Do what you want, just leave me alone! | new | new: Chef relents |
 
 ## Walk-through narration (English only, no target-language words quoted)

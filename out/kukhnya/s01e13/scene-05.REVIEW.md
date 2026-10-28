@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Макс | Я обещаю больше никогда не опаздывать. | I promise to never be late again. | new | new: Max pleads |
 | 9 | Шеф | Я сказал своё слово. | I have said my word. | new | new: Chef ends the discussion |
 | 10 | Шеф | Виктория Сергеевна, почему вы так молчите? | Victoria Sergeyevna, why are you so silent? | #76 00:06:03: Виктория Сергеевна, вы почему молчите? | adapted: Chef turns to Vika |
-| 11 | Аня | Надо раньше ложиться спать, чтобы не проспать. | It is necessary to go to bed earlier to not oversleep. | #78 00:06:10: Ложиться надо раньше, чтобы не проспать. | adapted: Vika smiles subtly |
+| 11 | Вика | Надо раньше ложиться спать, чтобы не проспать. | It is necessary to go to bed earlier to not oversleep. | #78 00:06:10: Ложиться надо раньше, чтобы не проспать. | adapted: Vika smiles subtly |
 | 12 | Шеф | Вот видите, она со мной согласна. | Here you see, she agrees with me. | new | new: Chef points at Vika |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Boss, excuse me, I simply overslept.' He quickly offers an excuse for his lateness.
 - 'Such a thing will not happen again.' Max tries to sound very responsible and serious.
 - 'Today you are working in the stockroom.' The Chef does not hesitate to discipline him.
-- 'Oversleep one more time — I will fire you.' The Chef delivers a final harsh warning.
-- 'But boss, I am an excellent cook.' Max feels his punishment is too severe.
+- 'Oversleep one more time — I will fire you.' Chef Barinov puts the word for 'more' together with 'time' and 'oversleep' in a crisp, natural spoken turn of phrase.
+- 'But boss, I am an excellent cook.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'chef', combining 'excellent' with 'chef'.
 - 'A cook must arrive at work on time.' The Chef reminds him about basic professional discipline.
-- 'I promise to never be late again.' Max begs for another chance in the kitchen.
+- 'I promise to never be late again.' Max chooses the imperfective verb meaning 'promise' for the ongoing action, followed by 'more' and 'never'.
 - 'I have said my word.' The stubborn Chef refuses to change his strict decision.
-- 'Victoria Sergeyevna, why are you so silent?' He asks the manager to back him up.
-- 'It is necessary to go to bed earlier to not oversleep.' Vika gives a very ironic piece of advice.
+- 'Victoria Sergeyevna, why are you so silent?' Here Chef Barinov anchors the line on the word meaning 'why' and builds the thought around 'are you silent'.
+- 'It is necessary to go to bed earlier to not oversleep.' The phrasing opens with 'it is necessary' before bringing in 'earlier' and 'go to bed' to make the point clear.
 - 'Here you see, she agrees with me.' The Chef feels completely justified in his harsh punishment.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Samy, come see for a minute.' An informal call summoning the waiter for a conversation.
-- 'Yes, Mr. Barneville, I am coming.' A polite affirmative answer confirming immediate arrival.
-- 'Do you still want to do cinema?' An informal inquiry about artistic ambition in the film industry.
-- 'Yes, it is my great dream!' An enthusiastic exclamation expressing genuine passion.
-- 'Do you want to audition?' A direct question offering a casting opportunity.
-- 'An audition? Are you serious?' A stunned reaction questioning the reality of the offer.
-- 'It is for my film A cran.' A clarifying statement identifying the upcoming motion picture.
-- 'Do you have a resume and photos?' A professional question checking standard actor materials.
-- 'I have everything in my bag.' A confident confirmation of prepared audition documents.
-- 'Bring them right away.' A direct imperative commanding immediate delivery of the files.
-- 'You are making my dream come true today!' A joyous exclamation of heartfelt gratitude.
-- 'Careful, these are just screen tests.' A grounding reminder setting realistic expectations.
-- 'If you succeed, the role is yours.' A conditional encouragement motivating the young actor.
-- 'Thank you, I will give my best!' An earnest commitment promising maximum effort.
+- 'Samy, come see for a minute.' Notice how 'come' leads directly into the noun meaning 'minute'. Notice how 'come' leads directly into the noun meaning 'minute'.
+- 'Yes, Mr. Barneville, I am coming.' The verb meaning 'arrive' pairs naturally with the noun for 'Mr.' in everyday conversation.
+- 'Do you still want to do cinema?' In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
+- 'Yes, it is my great dream!' The descriptive adjective for 'large' agrees in gender and number with its noun. The descriptive adjective for 'large' agrees in gender and number with its noun.
+- 'Do you want to audition?' The informal 'you' form around 'want' marks a direct, personal relationship. The informal 'you' form around 'want' marks a direct, personal relationship.
+- 'An audition? Are you serious?' The descriptive adjective for 'serious' agrees in gender and number with its noun. The descriptive adjective for 'serious' agrees in gender and number with its noun.
+- 'It is for my film On Edge.' The key noun here means 'movie', anchored by its matching French article. The key noun here means 'movie', anchored by its matching French article.
+- 'Do you have a resume and photos?' Notice how 'have you' leads directly into the noun meaning 'curriculum vitae'. Notice how 'have you' leads directly into the noun meaning 'curriculum vitae'.
+- 'I have everything in my bag.' Notice how 'have' leads directly into the noun meaning 'bag'. Notice how 'have' leads directly into the noun meaning 'bag'.
+- 'Bring them right away.' The verb meaning 'bring them' pairs naturally with the noun for 'continuation' in everyday conversation.
+- 'You are making my dream come true today!' Notice how 'make come true' leads directly into the noun meaning 'dream'. Notice how 'make come true' leads directly into the noun meaning 'dream'.
+- 'Careful, these are just screen tests.' The key noun here means 'screen tests', anchored by its matching French article. The key noun here means 'screen tests', anchored by its matching French article.
+- 'If you succeed, the role is yours.' A conditional encouragement motivating the young actor. The informal 'you' form around 'succeed' marks a direct, personal relationship.
+- 'Thank you, I will give my best!' An earnest commitment promising maximum effort. French forms the near future by pairing the present tense of 'to go' directly with 'to give'.

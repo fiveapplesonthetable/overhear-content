@@ -1,0 +1,50 @@
+ID = 'kukhnya-s05e06-scene-13'
+SHOW = "kukhnya"
+SEASON = 5
+EPISODE = 6
+SCENE = 13
+TITLE = 'Реконструкция преступления  (Reconstructing the Crime)'
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = "ru-en"
+VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'lyova': 'angelina'}
+LABELS = {'anya': 'Сеня', 'katya': 'Катя', 'lyova': 'Лёва'}
+SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
+
+INTRO = 'Locked in her room, Katya drinks alone and imagines Denis sitting beside her as she snacks on breath mints. Down in the kitchen, Detective Senya gathers the cooks to present his step-by-step reconstruction of the missing fish.'
+
+STORY = [
+    ('katya', 'Денис, ты откуда взялся?', 'Denis, where did you come from?', [(206, 'Денис, ты откуда взялся')], 'adapted'),
+    ('anya', 'Из твоего подсознания, я должен сказать важную вещь.', 'From your subconscious, I must tell you an important thing.', [(207, 'твоего подсознания'), (208, 'Я должен сказать тебе одну важную вещь')], 'adapted'),
+    ('anya', 'Закусывай, пожалуйста.', 'Have a bite to eat, please.', [(209, 'Закусывай, пожалуйста')], 'adapted'),
+    ('katya', 'У меня только эти штуки для свежего дыхания.', 'I only have these things for fresh breath.', [(210, 'У меня только эти штуки для свежего дыхания')], 'adapted'),
+    ('anya', 'Следствие набрало достаточно фактов, чтобы сделать выводы.', 'The investigation has gathered enough facts to draw conclusions.', [(212, 'Следствие набрало достаточно фактов, чтобы сделать')], 'adapted'),
+    ('lyova', 'Быстрее давай, у нас заказов полно.', 'Hurry up, we have plenty of orders.', [(213, 'Быстрее, давай у нас заказов полно')], 'adapted'),
+    ('anya', 'Заказы подождут, а вот правда нет.', 'Orders will wait, but the truth will not.', [(214, 'Заказы подождут'), (214, 'А вот правда нет')], 'adapted'),
+    ('anya', 'Лёва положил нашу рыбу в холодильник на полку.', 'Lyova put our fish on the shelf in the cooler.', [(215, 'Лёва положил нашу'), (215, 'рыбу в холодильник на'), (216, 'полку')], 'adapted'),
+    ('anya', 'Затем в игру вступил Федя, которому понадобилась камбала.', 'Then Fedya entered the game, who needed flounder.', [(217, 'Затем в игру вступил Федя, которому'), (217, 'понадобилась Камбала')], 'adapted'),
+    ('anya', 'Федя даже не заметил, как рыба свалилась вниз.', 'Fedya did not even notice how the fish tumbled down.', [(218, 'даже не заметил, как'), (218, 'свалилась вниз')], 'adapted'),
+    ('anya', 'С полки в пустые коробки.', 'From the shelf into the empty boxes.', [(218, 'в пустые')], 'adapted'),
+    ('anya', 'Любой другой услышал бы звук падения, но не наш меломан.', 'Anyone else would have heard the sound of the fall, but not our music lover.', [(219, 'любой другой услышал бы звук падения, но только не наш меломан')], 'adapted'),
+]
+
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+
+WALK = [
+    (0, None, "'Denis, where did you come from?' Katya anchors the line on 'Denis', while 'came from' completes the thought."),
+    (1, None, "'From your subconscious, I must tell you an important thing.' Notice how Russian expresses 'from' and 'thing' with crisp inflection rather than helper words."),
+    (2, None, "'Have a bite to eat, please.' Here the Russian phrasing highlights 'have a bite' before landing on 'please'. Katya answers right away."),
+    (3, None, "'I only have these things for fresh breath.' Katya anchors the line on 'at', while 'breath' completes the thought."),
+    (4, None, "'The investigation has gathered enough facts to draw conclusions.' Senya anchors the line on 'investigation', while 'conclusions' completes the thought."),
+    (5, None, "'Hurry up, we have plenty of orders.' Notice how Russian expresses 'faster' and 'plenty' with crisp inflection rather than helper words. Senya answers right away."),
+    (6, None, "'Orders will wait, but the truth will not.' The meaning hinges on 'orders' working together with 'no' in spoken Russian."),
+    (7, None, "'Lyova put our fish on the shelf in the cooler.' The meaning hinges on 'Lyova' working together with 'shelf' in spoken Russian."),
+    (8, None, "'Then Fedya entered the game, who needed flounder.' Spoken Russian keeps this brisk, leaning on 'then' and finishing on 'flounder'."),
+    (9, None, "'Fedya did not even notice how the fish tumbled down.' Notice the reflexive suffix on the verb meaning 'fell', turning the action back on the subject."),
+    (10, None, "'From the shelf into the empty boxes.' Here the Russian phrasing highlights 'with' before landing on 'boxes'."),
+    (11, None, "'Anyone else would have heard the sound of the fall, but not our music lover.' Senya brings out the contrast between 'any' and 'another' in a few short words."),
+]
+
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Having proven how Fedya's headphones kept him from hearing the sturgeon fall into a cardboard box, Senya turns to Ainura for the final piece of the puzzle. See you in the next scene."
+CLOSING = ('anya', 'Вот так всё и было, Федя.')

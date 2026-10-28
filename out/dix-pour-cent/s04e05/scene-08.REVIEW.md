@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hurry up! I beg you.' He is terrified that Elise will catch them red-handed.
-- 'It is not her birth date.' Andrea realizes the obvious guess was wrong.
-- 'Try four times one.' He suggests the most basic passcode possible.
-- 'She is much too complex for that.' Andrea knows their rival is much smarter than that.
-- 'We do not have time to try randomly!' He reminds her that time is running out quickly.
-- 'I found it!' He suddenly figures out the secret code.
-- 'What?' Andrea is amazed that he managed to crack it.
-- 'It worked! I am in!' He successfully unlocks the stolen smartphone.
-- 'What did you find?' She eagerly asks for the incriminating evidence.
-- 'Nothing! Not a single message on her phone.' He is shocked to see an empty inbox.
-- 'So we got worked up for nothing?' She is disappointed that their heist yielded no proof.
-- 'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something.
+- 'Hurry up! I beg you.' He is terrified that Elise will catch them red-handed. This conversational past tense combines a helper verb with the past participle for 'to beg'.
+- 'It is not her birth date.' Andrea realizes the obvious guess was wrong. Notice how 'to be' leads directly into the noun meaning 'calendar date'.
+- 'Try four times one.' He suggests the most basic passcode possible. The verb meaning 'to try' pairs naturally with the noun for 'time' in everyday conversation.
+- 'She is much too complex for that.' Andrea knows their rival is much smarter than that. The clause hinges on the everyday verb meaning 'to be'.
+- 'We do not have time to try randomly!' He reminds her that time is running out quickly. The verb meaning 'to be' pairs naturally with the noun for 'time' in everyday conversation.
+- 'I found it!' He suddenly figures out the secret code. Dropping the subject pronoun turns the verb for 'to be' into a direct, punchy command.
+- 'What?' Andrea is amazed that he managed to crack it. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
+- 'It worked! I am in!' He successfully unlocks the stolen smartphone. Dropping the subject pronoun turns the verb for 'to be' into a direct, punchy command.
+- 'What did you find?' She eagerly asks for the incriminating evidence. Andrea uses the casual singular 'you' with 'to be', showing close familiarity.
+- 'Nothing! Not a single message on her phone.' He is shocked to see an empty inbox. The key noun here means 'message', anchored by its matching French article.
+- 'So we got worked up for nothing?' She is disappointed that their heist yielded no proof. This conversational past tense combines a helper verb with the past participle for 'to annoy'.
+- 'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something. The verb meaning 'to do' pairs naturally with the noun for 'housework' in everyday conversation.

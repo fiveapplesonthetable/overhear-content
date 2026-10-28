@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I warned all the building's neighbors.' Herve shares his courteous neighborly update. The verb 'prevenir' means to notify or warn in advance.
 - 'For our housewarming party tomorrow evening?' Camille verifies the event purpose. The noun phrase 'pendaison de cremaillere' refers to a housewarming party.
-- 'Yes, with a very cordial note.' Herve describes his polite hallway notice. The adjective 'cordial' means friendly or courteous.
-- 'And you, what are you looking at?' Herve observes Camille absorbed in a form. The inverted question 'que regardes-tu' inquires directly about an activity.
+- 'Yes, with a very cordial note.' Herve describes his polite hallway notice. The descriptive adjective for 'cordial' agrees in gender and number with its noun.
+- 'And you, what are you looking at?' Herve observes Camille absorbed in a form. Herve uses the casual singular 'you' with 'are you looking at', showing close familiarity.
 - 'Mathias's paternity recognition procedure.' Camille identifies the formal registry form. The compound noun phrase 'reconnaissance de paternite' denotes legal acknowledgement of fatherhood.
 - 'Are you going to agree to sign?' Herve asks whether she will make it official. The near future 'vas accepter' explores her forthcoming choice.
 - 'I do not know what to decide yet.' Camille feels torn about acknowledging Mathias. The verb 'decider' means to decide or settle on an option.
 - 'But it is an amazing opportunity, Camille!' Herve sees only positive prestige. The adjective 'incroyable' expresses remarkable magnitude.
 - 'It is a very intimate family choice.' Camille focuses on the delicate personal bond. The adjective 'intime' describes deep private matters.
 - 'You are forgetting one essential thing here.' Herve prepares his humorous argument. The adjective 'essentielle' underlines crucial significance.
-- 'What now? Tell me the truth.' Camille waits for Herve's punchline. The imperative 'dis-moi' directly requests clarification.
+- 'What now? Tell me the truth.' Camille waits for Herve's punchline. The verb meaning 'tell me' pairs naturally with the noun for 'truth' in everyday conversation.
 - 'You will become the Barneville empire heiress!' Herve envisions massive financial prestige. The future 'deviendras' marks her potential status as 'heritiere'.
 - 'You always think about money, Herve!' Camille laughs at his relentless materialism. The noun 'argent' denotes money or wealth.
-- 'Imagine the huge magnificent apartment for us!' Herve pictures their upgraded living quarters. The imperative 'imagine' encourages playful visualization.
+- 'Imagine the huge magnificent apartment for us!' Herve pictures their upgraded living quarters. Notice how 'imagine' leads directly into the noun meaning 'apartment'.

@@ -31,12 +31,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We need a tighter shot.' The assistant specifies the framing needed. The idiom 'avoir besoin de' expresses necessity.
 - 'Oh no, I am already on my seventh death scene!' Isabelle protests the repetition. The ordinal number 'septieme' indicates the seventh time.
 - 'The director still lacks footage for editing.' The assistant defends the request with editorial needs. The noun 'matiere' colloquially means film material or footage.
-- 'Wait, I am stopping you right there.' Isabelle interrupts the assistant firmly. The expression 'je t'arrete' halts an ongoing argument.
-- 'I am not a machine!' Isabelle asserts her humanity as an artist. The feminine noun 'machine' stands for mechanical automatons.
+- 'Wait, I am stopping you right there.' Isabelle interrupts the assistant firmly. The clause hinges on the everyday verb meaning 'wait'.
+- 'I am not a machine!' Isabelle asserts her humanity as an artist. The key noun here means 'machine', anchored by its matching French article.
 - 'I do not die on command.' Isabelle emphasizes the emotional effort required. The phrase 'sur commande' means made to order or on cue.
 - 'One does not die at the snap of a finger.' Isabelle highlights the nuance of dramatic acting. The idiom 'en claquant des doigts' means effortlessly or instantly.
 - 'I know well, but we must secure the editing.' The assistant tries to justify the extra camera angle. The verb 'assurer' means to guarantee or secure.
-- 'You must respect the vision of your director.' Isabelle reminds the assistant of hierarchy. The noun 'vision' refers to artistic perspective.
+- 'You must respect the vision of your director.' Isabelle reminds the assistant of hierarchy. Isabelle uses the casual singular 'you' with 'must', showing close familiarity.
 - 'That is the true job of an assistant.' Isabelle lectures on professional roles. The noun 'fonction' means duty or function.
 - 'Okay, you are right on this point.' The assistant concedes defeat graciously. The idiom 'avoir raison' means to be right.
 - 'We have everything that is needed now.' The crew agrees they have enough footage. The phrase 'tout ce qu'il faut' denotes all necessary material.

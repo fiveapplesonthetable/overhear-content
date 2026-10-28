@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Добрый вечер, дорогие гости нашего ресторана! | Good evening, dear guests of our restaurant! | #280 00:18:31: Добрый вечер | adapted: gracious greeting |
+| 1 | Шеф | Добрый вечер, дорогие гости нашего ресторана! | Good evening, dear guests of our restaurant! | #280 00:18:31: Добрый вечер | adapted: gracious greeting |
 | 2 | Вадим | Добрый вечер, шеф-повар! | Good evening, head chef! | #280 00:18:31: Добрый вечер | adapted: polite reply |
-| 3 | Аня | Я принёс вам особенный сюрприз. | I brought you a special surprise. | #283 00:18:38: маленький сюрприз | adapted: announcing treat |
-| 4 | Аня | Это комплимент в честь дня рождения. | This is a compliment in honor of the birthday. | #284 00:18:40: Это комплимент от шефа<br>#284 00:18:40: дня рождения | adapted: verbatim phrase |
+| 3 | Шеф | Я принёс вам особенный сюрприз. | I brought you a special surprise. | #283 00:18:38: маленький сюрприз | adapted: announcing treat |
+| 4 | Шеф | Это комплимент в честь дня рождения. | This is a compliment in honor of the birthday. | #284 00:18:40: Это комплимент от шефа<br>#284 00:18:40: дня рождения | adapted: verbatim phrase |
 | 5 | Вадим | Спасибо большое, всё выглядит очень вкусно! | Thank you very much, everything looks very delicious! | #285 00:18:44: Все так вкусно | adapted: warm appreciation |
 | 6 | Вадим | Я вижу, что вы отличный повар. | I see that you are an excellent cook. | #286 00:18:47: я вижу | adapted: verbatim praise |
 | 7 | Вадим | Я могу вам помочь в городе. | I can help you in the city. | #287 00:18:51: могу вам кое-чем помочь | adapted: offering patronage |
 | 8 | Вадим | Позвоните мне завтра в любое время. | Call me tomorrow at any time. | #288 00:18:54: Позвоните мне завтра | adapted: verbatim invitation |
-| 9 | Аня | Спасибо, для меня это большая честь! | Thank you, this is a great honor for me! | new | new: polite gratitude |
-| 10 | Аня | Подождите, я сначала сам попробую блюдо. | Wait, I will taste the dish myself first. | #289 00:18:58: я сначала попробую | adapted: verbatim inspection |
-| 11 | Аня | Ой, повар слишком сильно переперчил соус! | Oh, the cook put way too much pepper in the sauce! | #290 00:19:05: Переперчел | adapted: verbatim disaster |
+| 9 | Шеф | Спасибо, для меня это большая честь! | Thank you, this is a great honor for me! | new | new: polite gratitude |
+| 10 | Шеф | Подождите, я сначала сам попробую блюдо. | Wait, I will taste the dish myself first. | #289 00:18:58: я сначала попробую | adapted: verbatim inspection |
+| 11 | Шеф | Ой, повар слишком сильно переперчил соус! | Oh, the cook put way too much pepper in the sauce! | #290 00:19:05: Переперчел | adapted: verbatim disaster |
 | 12 | Вадим | А по-моему, получилось довольно вкусно. | And in my opinion, it turned out quite delicious. | #293 00:19:12: По-моему, вкусно | adapted: verbatim polite remark |
-| 13 | Аня | Нет, я немедленно всё переделаю! | No, I will immediately redo everything! | #292 00:19:09: Я переделаю и принесу | adapted: verbatim determination |
-| 14 | Аня | Я лично принесу вам идеальное блюдо. | I will personally bring you an ideal dish. | #292 00:19:09: Я переделаю и принесу | adapted: culinary promise |
+| 13 | Шеф | Нет, я немедленно всё переделаю! | No, I will immediately redo everything! | #292 00:19:09: Я переделаю и принесу | adapted: verbatim determination |
+| 14 | Шеф | Я лично принесу вам идеальное блюдо. | I will personally bring you an ideal dish. | #292 00:19:09: Я переделаю и принесу | adapted: culinary promise |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,10 +34,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you very much, everything looks very delicious!' The guest compliments the visual presentation.
 - 'I see that you are an excellent cook.' The subordinate clause conveys praise from an official.
 - 'I can help you in the city.' A hint of political influence and useful administrative connections.
-- 'Call me tomorrow at any time.' An open invitation offering direct contact.
+- 'Call me tomorrow at any time.' , combining 'call' with 'tomorrow' and 'any'.
 - 'Thank you, this is a great honor for me!' An expression of deep professional gratitude.
-- 'Wait, I will taste the dish myself first.' The chef insists on testing the quality.
-- 'Oh, the cook put way too much pepper in the sauce!' A culinary disaster detected upon tasting.
+- 'Wait, I will taste the dish myself first.' Chef Barinov leads with the direct command form meaning 'wait', pairing it with 'first' and 'will taste'.
+- 'Oh, the cook put way too much pepper in the sauce!' The phrasing opens with 'oh' before bringing in 'cook' and 'too' to make the point clear.
 - 'And in my opinion, it turned out quite delicious.' The guest tries to be polite about the spicy food.
 - 'No, I will immediately redo everything!' A perfectionist refusal to serve subpar cooking.
-- 'I will personally bring you an ideal dish.' A solemn culinary promise delivered by the master.
+- 'I will personally bring you an ideal dish.' A solemn culinary promise delivered by the master. Alright, let's hear the whole thing once more.

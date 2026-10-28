@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Здравствуй, Вика! Я села за угловой столик. | Hello, Vika! I sat down at the corner table. | #254 00:18:11: Угловой столик | adapted: greeting sister |
+| 1 | Таня | Здравствуй, Вика! Я села за угловой столик. | Hello, Vika! I sat down at the corner table. | #254 00:18:11: Угловой столик | adapted: greeting sister |
 | 2 | Вика | Привет, Таня! Почему ты пришла так срочно? | Hello, Tanya! Why did you come so urgently? | #253 00:18:08: проходите, пожалуйста | adapted: asking about arrival |
-| 3 | Аня | Почему ты мне совсем ничего не рассказала? | Why didn't you tell me anything at all? | #255 00:18:13: почему ты мне не позвонил | adapted: expressing frustration |
+| 3 | Таня | Почему ты мне совсем ничего не рассказала? | Why didn't you tell me anything at all? | #255 00:18:13: почему ты мне не позвонил | adapted: expressing frustration |
 | 4 | Вика | Таня, я не понимаю твоих странных вопросов. | Tanya, I don't understand your strange questions. | #256 00:18:16: Что случилось | adapted: expressing confusion |
-| 5 | Аня | Ты должна была сразу позвонить родной сестре! | You should have immediately called your own sister! | #255 00:18:13: наконец-то | adapted: scolding sister |
+| 5 | Таня | Ты должна была сразу позвонить родной сестре! | You should have immediately called your own sister! | #255 00:18:13: наконец-то | adapted: scolding sister |
 | 6 | Вика | Объясни мне спокойно, что вообще произошло? | Explain to me calmly, what happened at all? | #256 00:18:16: Что случилось | adapted: demanding explanation |
-| 7 | Аня | Ты беременна, а я узнаю об этом последней! | You are pregnant, and I find out about it last! | #257 00:18:18: Ты же беременна | adapted: revealing rumor |
+| 7 | Таня | Ты беременна, а я узнаю об этом последней! | You are pregnant, and I find out about it last! | #257 00:18:18: Ты же беременна | adapted: revealing rumor |
 | 8 | Вика | С чего ты вообще взяла такую глупость? | Where did you get such nonsense at all? | #258 00:18:20: С чего ты взяла | adapted: denying rumor |
-| 9 | Аня | Мне об этом лично сказал шеф Витя! | Chef Vitya told me about this personally! | #258 00:18:20: Мне Витя сказал | adapted: naming the source |
+| 9 | Таня | Мне об этом лично сказал шеф Витя! | Chef Vitya told me about this personally! | #258 00:18:20: Мне Витя сказал | adapted: naming the source |
 | 10 | Вика | Виктор опять придумал эту безумную историю! | Viktor again made up this insane story! | #258 00:18:20: Витя сказал | adapted: accusing chef |
-| 11 | Аня | Значит, ты совсем не ждёшь ребёнка? | So, you are not expecting a baby at all? | #257 00:18:18: беременна | adapted: seeking clarification |
+| 11 | Таня | Значит, ты совсем не ждёшь ребёнка? | So, you are not expecting a baby at all? | #257 00:18:18: беременна | adapted: seeking clarification |
 | 12 | Вика | Конечно нет, это просто наглая ложь! | Of course not, this is simply an insolent lie! | #258 00:18:20: С чего ты взяла | adapted: firmly denying |
-| 13 | Аня | Тогда тебе нужно срочно поговорить с Виктором. | Then you need to urgently speak with Viktor. | #258 00:18:20: Мне Витя сказал | adapted: advising confrontation |
+| 13 | Таня | Тогда тебе нужно срочно поговорить с Виктором. | Then you need to urgently speak with Viktor. | #258 00:18:20: Мне Витя сказал | adapted: advising confrontation |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

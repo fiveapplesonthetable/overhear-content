@@ -1,0 +1,39 @@
+# kukhnya-s04e04-scene-14: review sheet
+
+Title: Восемнадцать мешков до вечера  (Eighteen Sacks Before Evening)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S4.04
+
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Аня | Ты чего дома не ночевал? | Why didn't you sleep at home last night? | #209 00:15:57: Ты чего дома не ночевал? | verbatim |
+| 2 | Аня | Да ладно, чего ты обижаешься-то? | Come on, why are you holding a grudge? | #210 00:16:03: Да ладно, чего ты обижаешься-то? | verbatim |
+| 3 | Аня | Вчера ты нам с Викой просто помешал. | Yesterday you simply interrupted Vika and me. | #211 00:16:06: Вчера ты нам с Викой просто помешал | verbatim |
+| 4 | Аня | И мы из-за этого поссорились. | And we had a fight because of that. | #211 00:16:06: и мы из-за этого поссорились. | verbatim |
+| 5 | Аня | У нас не получается забеременеть. | We haven't been able to get pregnant. | #212 00:16:10: у нас не получается забеременеть. | verbatim |
+| 6 | Аня | В общем, всё сложно. | In short, everything is complicated. | #213 00:16:18: В общем, все сложно. | verbatim |
+| 7 | Денис | Ты меня тоже прости. | Forgive me too. | #214 00:16:23: Ты меня тоже прости. | verbatim |
+| 8 | Денис | Из-за меня у тебя одни неприятности. | Because of me you have nothing but trouble. | #215 00:16:25: Из-за меня у тебя одни неприятности. | verbatim |
+| 9 | Аня | Да ладно, справимся. Ну, что у тебя? | Come on, we will manage. So, how are things with you? | #216 00:16:32: Да ладно,<br>#216 00:16:32: справимся.<br>#217 00:16:34: Ну, что у тебя? | verbatim |
+| 10 | Денис | Мне нужно до вечера почистить восемнадцать мешков картошки. | I need to peel eighteen sacks of potatoes before evening. | #218 00:16:36: мне нужно до вечера почистить<br>#218 00:16:36: мешков картошки. | verbatim |
+| 11 | Денис | Но три я уже почистил. | But I have already peeled three. | #219 00:16:39: Но три я уже почистил. | verbatim |
+| 12 | Аня | Сейчас поможем. | We will help you right now. | #216 00:16:32: справимся. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Why didn't you sleep at home last night?' Max places the negative particle directly before the verb or predicate to negate the statement.
+- 'Come on, why are you holding a grudge?' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
+- 'Yesterday you simply interrupted Vika and me.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
+- 'And we had a fight because of that.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'We haven't been able to get pregnant.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'In short, everything is complicated.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'Forgive me too.' Denis addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
+- 'Because of me you have nothing but trouble.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Come on, we will manage. So, how are things with you?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'I need to peel eighteen sacks of potatoes before evening.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
+- 'But I have already peeled three.' Denis uses natural conversational word order here to highlight the most important part of the reply.
+- 'We will help you right now.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.

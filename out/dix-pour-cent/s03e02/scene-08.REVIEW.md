@@ -40,8 +40,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Then you must rest well.' Chantal offers considerate advice. The reflexive structure 'te reposer' expresses getting rest.
 - 'You too, rest well.' Gabriel returns the affectionate wish. The imperative 'repose-toi' directly bids someone to rest.
 - 'Good night, Chantal.' Gabriel offers a formal bedtime farewell. The standard polite formula 'bonne nuit' bids someone good night.
-- 'Good night, Gabriel.' Chantal replies in kind. The reciprocal greeting concludes their conversation outside her door.
-- 'Shall we call each other soon?' Gabriel suggests a future contact. The pronominal verb 's'appeler' expresses mutual phoning.
+- 'Good night, Gabriel.' Chantal replies in kind. The key noun here means 'night', anchored by its matching French article.
+- 'Shall we call each other soon?' Gabriel suggests a future contact. In everyday spoken French, rising intonation on 'call' at the end is enough to turn the sentence into a question.
 - 'Yes, with great pleasure.' Chantal accepts with enthusiasm. The polite idiom 'avec grand plaisir' confirms keen agreement.
-- 'I will call you tomorrow afternoon.' Gabriel sets a specific time frame. The time expression 'demain apres-midi' denotes the next day.
-- 'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close. The parting phrase 'a demain' anticipates their next conversation.
+- 'I will call you tomorrow afternoon.' Gabriel sets a specific time frame. The verb meaning 'call' pairs naturally with the noun for 'afternoon' in everyday conversation.
+- 'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close. The adverb meaning 'okay' gives the reply its conversational emphasis.

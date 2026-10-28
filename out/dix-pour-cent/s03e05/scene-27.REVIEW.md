@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arlette, are you there?' Gabriel asks as he looks into her office. The subject pronoun 'tu' addresses his senior colleague informally.
 - 'Huh, what is going on?' Arlette looks up surprised from her paperwork. The informal interjection 'hein' expresses surprise or a request for clarification.
 - 'I was looking everywhere for you here.' Gabriel explains he has been roaming the agency corridors. The imperfect tense 'cherchais' indicates ongoing past action.
-- 'You look very nervous.' Arlette observes his visible anxiety immediately. The idiom 'avoir l'air' means to appear or look a certain way.
+- 'You look very nervous.' Arlette observes his visible anxiety immediately. The descriptive adjective for 'nervous' agrees in gender and number with its noun.
 - 'Things are changing fast now.' Gabriel hints at the turbulent shifts taking place at ASK. The adverb 'vite' means quickly or fast.
 - 'The agency has weathered storms before.' Arlette recalls her decades of experience in the agency business. The past participle 'connu' comes from connaitre.
 - 'Would you still stay with us?' Gabriel tests whether she would follow them if they leave. The conditional 'resterais' poses a hypothetical question.
 - 'I remain loyal to my friends.' Arlette states her core personal principle. The adjective 'fidele' expresses steadfast commitment and allegiance.
 - 'Andrea and I count on you.' Gabriel emphasizes the close bond between the three agents. The verbal idiom 'compter sur' means to rely upon someone.
 - 'Do not do anything foolish, Gabriel.' Arlette cautions him with maternal intuition. The negative imperative 'ne fais pas' advises prudence.
-- 'We simply want to protect ourselves.' Gabriel defends their motives for acting behind Hicham's back. The adverb 'simplement' qualifies their intentions.
+- 'We simply want to protect ourselves.' Gabriel defends their motives for acting behind Hicham's back. The clause hinges on the everyday verb meaning 'want'.
 - 'Loyalty is essential here.' Arlette underscores the foundational virtue of their profession. The noun 'loyaute' signifies trust and fidelity.
 - 'Thank you for your wisdom, Arlette.' Gabriel appreciates her steadying presence. The noun 'sagesse' denotes sound judgment and life experience.
 - 'Keep your calm today.' Arlette offers parting advice before returning to her work. The imperative 'garde' instructs him to remain composed.

@@ -11,19 +11,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Максим | Мне уже идти надо. | I need to go now. | #24 00:02:44: мне идти надо | adapted: уже added for flow |
-| 2 | Аня | Ты что, убегаешь? | What, are you running away? | #25 00:02:47: Ты что<br>#25 00:02:47: убегаешь | adapted: типа omitted for A1 clarity |
+| 2 | Вика | Ты что, убегаешь? | What, are you running away? | #25 00:02:47: Ты что<br>#25 00:02:47: убегаешь | adapted: типа omitted for A1 clarity |
 | 3 | Максим | Почему убегаю? Нет, просто ухожу. | Why running away? No, I'm just leaving. | #26 00:02:49: Почему убегаю<br>#26 00:02:49: Нет, просто ухожу | verbatim |
-| 4 | Аня | Вот так? И всё? | Just like that? And that's all? | #27 00:02:54: Вот так вот<br>#27 00:02:54: И все | adapted: вот dropped from Вот так вот |
-| 5 | Аня | А то, что между нами было? | What about what was between us? | #28 00:02:57: то, что между нами было | verbatim |
+| 4 | Вика | Вот так? И всё? | Just like that? And that's all? | #27 00:02:54: Вот так вот<br>#27 00:02:54: И все | adapted: вот dropped from Вот так вот |
+| 5 | Вика | А то, что между нами было? | What about what was between us? | #28 00:02:57: то, что между нами было | verbatim |
 | 6 | Максим | Спасибо. Прикольно было. | Thank you. It was fun. | #29 00:03:00: Спасибо<br>#29 00:03:00: прикольно было | verbatim |
-| 7 | Аня | Прикольно, и всё? | Fun, and that's it? | #30 00:03:02: Прикольно и все | verbatim |
+| 7 | Вика | Прикольно, и всё? | Fun, and that's it? | #30 00:03:02: Прикольно и все | verbatim |
 | 8 | Максим | А что ещё? | What else? | #31 00:03:04: А что ещё | verbatim |
-| 9 | Аня | Да ладно тебе. | Oh, come on. | #32 00:03:11: Да ладно | adapted: тебе added for natural dialogue |
+| 9 | Вика | Да ладно тебе. | Oh, come on. | #32 00:03:11: Да ладно | adapted: тебе added for natural dialogue |
 | 10 | Максим | Нет, денег у меня нет. | No, I have no money. | #33 00:03:14: Нет, денег у меня нет | verbatim |
 | 11 | Максим | Мы с тобой так не договаривались. | You and I didn't agree to that. | #34 00:03:16: мы с тобой так не договаривались | verbatim |
-| 12 | Аня | Мне не нужны твои деньги. | I don't need your money. | new | new: new line |
+| 12 | Вика | Мне не нужны твои деньги. | I don't need your money. | new | new: new line |
 | 13 | Максим | Тогда я пошёл. У меня дела. | Then I am off. I have things to do. | new | new: new line |
-| 14 | Аня | Уходи. И не возвращайся сюда. | Leave. And do not come back here. | new | new: new line |
+| 14 | Вика | Уходи. И не возвращайся сюда. | Leave. And do not come back here. | new | new: new line |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -41,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You and I didn't agree to that.' Literally, 'we with you so did not agree'. Russian prefers saying 'we with you' where English says 'you and I'.
 - 'I don't need your money.' Literally, 'to me are not needed your moneys'. Vika is insulted by the implication.
 - 'Then I am off.' In spoken Russian, the past tense of 'to go' is often used to announce an immediate departure, like saying 'I'm out of here'.
-- 'Leave. And do not come back here.' Two strong imperatives. The first tells him to walk out, and the second tells him never to return.
+- 'Leave. And do not come back here.' Two strong imperatives. The first tells him to walk out, and the second tells him never to return. Alright, let's hear the whole conversation once more.

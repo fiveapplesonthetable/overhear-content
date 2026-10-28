@@ -33,9 +33,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not panic, you will fix that.' Andrea encourages her distressed partner to stay grounded. The near-future phrase 'vas arranger' expresses positive expectation.
 - 'She wants to do stand-up now!' Gabriel explains that the dramatic actress has suddenly fallen in love with comedy. The adverb 'maintenant' means now.
 - 'Breathe Gabriel, everything will go well.' Andrea urges him to regulate his breathing and composure. The imperative 'respire' comes from the verb 'respirer'.
-- 'And you, how is your life going?' Gabriel changes the subject to ask about Andrea's domestic situation. The interrogative 'comment' asks how.
-- 'I manage my life all alone.' Andrea explains her exhausting daily schedule since Colette's departure. The adjective 'seule' describes living independently.
-- 'Is it not too hard with Flora?' Gabriel gently asks about Andrea's infant daughter. The adjective 'dur' means difficult or hard.
+- 'And you, how is your life going?' Gabriel changes the subject to ask about Andrea's domestic situation. The reflexive pronoun sits right in front of the verb for 'is going', turning the action back onto the subject.
+- 'I manage my life all alone.' Andrea explains her exhausting daily schedule since Colette's departure. The adjective meaning 'alone' takes its feminine form here to match the noun it describes.
+- 'Is it not too hard with Flora?' Gabriel gently asks about Andrea's infant daughter. The descriptive adjective for 'hard' agrees in gender and number with its noun.
 - 'It is like hiking in flip-flops!' Andrea humorously summarizes the struggle of balancing baby care and agency work. The noun 'randonnee' designates a hike.
 - 'But the baby is doing well here?' Gabriel observes that the child seems surprisingly quiet at the office. The adverb 'bien' means well.
 - 'Yes, she is very calm today.' Andrea proudly notes that her baby has been well-behaved. The adjective 'calme' describes peaceful behavior.

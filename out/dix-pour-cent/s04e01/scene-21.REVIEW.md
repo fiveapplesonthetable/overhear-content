@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not win this prize.' Sofia steps into the corridor and announces her loss. The compound past highlights the immediate outcome of the vote.
-- 'Wait Sofia, do not leave so quickly.' Gabriel catches up to her near the exit. The negative imperative warns her against a hasty flight.
-- 'Security wants to block us here.' She gestures toward the guards posted in the hall. The verb expresses unwanted restraint from the staff.
-- 'She did not win tonight!' Gabriel confronts the usher firmly so they can pass. The short exclamation cuts through the protocol.
-- 'I just want to get out of there.' Sofia pulls her wrap tighter around her shoulders. The modal verb conveys her emotional urgency.
-- 'You did a wonderful job.' Gabriel reassures her with steady warmth. The encouraging phrase honors her fine screen acting.
-- 'Everyone is watching me flee.' Sofia glances nervously toward the crowded foyer. The infinitive verb emphasizes her sense of exposure.
-- 'Nobody is judging you, take a breath.' Gabriel places a reassuring hand on her arm. The familiar colloquial idiom offers quick comfort.
-- 'I am really ashamed of this failure.' Sofia confesses her painful feelings of inadequacy. The expression avoir honte conveys vulnerable sorrow.
-- 'A nomination is already a victory.' Gabriel points out her impressive achievement. The encouraging noun frames the event positively.
-- 'But I was hoping so much to win this trophy.' Sofia admits her secret longing for the prize. The imperfect tense recalls her high expectations.
-- 'You will have other magnificent roles.' Gabriel speaks with absolute professional confidence. The future tense pledges exciting future projects.
-- 'Thank you for being here with me, Gabriel.' Sofia looks up at him with grateful eyes. The polite expression shows her deep appreciation.
+- 'I did not win this prize.' Sofia steps into the corridor and announces her loss. This conversational past tense combines a helper verb with the past participle for 'won'.
+- 'Wait Sofia, do not leave so quickly.' Gabriel catches up to her near the exit. Notice the classic French sandwich negation wrapping right around 'wait'.
+- 'Security wants to block us here.' She gestures toward the guards posted in the hall. Notice how 'wants' leads directly into the noun meaning 'security'.
+- 'She did not win tonight!' Gabriel confronts the usher firmly so they can pass. This conversational past tense combines a helper verb with the past participle for 'won'.
+- 'I just want to get out of there.' Sofia pulls her wrap tighter around her shoulders. The clause hinges on the everyday verb meaning 'want'.
+- 'You did a wonderful job.' Gabriel reassures her with steady warmth. This conversational past tense combines a helper verb with the past participle for 'done'.
+- 'Everyone is watching me flee.' Sofia glances nervously toward the crowded foyer. The reflexive pronoun sits right in front of the verb for 'watches', turning the action back onto the subject.
+- 'Nobody is judging you, take a breath.' Gabriel places a reassuring hand on her arm. The two-part French negation brackets the verb for 'judges' on both sides.
+- 'I am really ashamed of this failure.' Sofia confesses her painful feelings of inadequacy. Notice how 'have' leads directly into the noun meaning 'shame'.
+- 'A nomination is already a victory.' Gabriel points out her impressive achievement. The key noun here means 'nomination', anchored by its matching French article.
+- 'But I was hoping so much to win this trophy.' Sofia admits her secret longing for the prize. Notice how 'hoped' leads directly into the noun meaning 'trophy'.
+- 'You will have other magnificent roles.' Gabriel speaks with absolute professional confidence. Gabriel uses the casual singular 'you' with 'will have', showing close familiarity.
+- 'Thank you for being here with me, Gabriel.' Sofia looks up at him with grateful eyes. Notice how 'to be' leads directly into the noun meaning 'thank you'.
 - 'We are going home together, heads held high.' Gabriel guides her toward the outer doors. The proud idiomatic expression restores her dignity.

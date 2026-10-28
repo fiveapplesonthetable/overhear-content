@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on here?' Noemie arrives at the agency and wonders what the celebration is about. The question phrase 'qu'est-ce qui' asks what.
+- 'What is going on here?' Noemie arrives at the agency and wonders what the celebration is about. The clause hinges on the everyday verb meaning 'is happening'.
 - 'We are celebrating! Have a drink!' Mathias pours champagne to mark their latest victory. The verb 'feter' means to celebrate.
 - 'Can I have a word with you?' Noemie quietly pulls Mathias aside to ask a serious question. The expression 'dire un mot' means to have a brief word.
 - 'Yes, of course, my darling.' Mathias answers her with his usual warm charm. The phrase 'bien sur' means of course.
 - 'You did not use my secrets?' Noemie worries that Mathias exploited her private confessions. The negative construction 'ne ... pas' frames the past tense verb.
 - 'No, listen, I promise you.' Mathias reassures his assistant with a straight face. The verb 'promettre' means to give one's word.
-- 'Do you swear in front of everyone?' Noemie insists on an explicit commitment. The prepositional phrase 'devant tout le monde' means in front of everybody.
+- 'Do you swear in front of everyone?' Noemie insists on an explicit commitment. The informal 'you' form around 'swear' marks a direct, personal relationship.
 - 'I would like to propose a big toast!' Mathias turns to the crowd and raises his glass. The polite conditional 'je voudrais' expresses a desire.
 - 'To all the handicapped animals!' Mathias dedicates the toast with blatant mockery. The adjective 'handicapes' modifies the plural noun 'animaux'.
 - 'Without them, no rights!' Mathias jokes about how the cause brought them the adaptation deal. The preposition 'sans' denotes absence or lack.
 - 'I finally read this book!' Mathias admits that he has only just skimmed the manuscript. The adverb 'enfin' means at last or finally.
-- 'It is crazy, it makes no sense!' Mathias openly mocks the content of the novel. The idiom 'n'importe quoi' denotes complete nonsense.
+- 'It is crazy, it makes no sense!' Mathias openly mocks the content of the novel. The two-part French negation brackets the verb for 'the verb' on both sides.
 - 'Mathias, you really disgust me!' Noemie is appalled by his utter cynicism and lack of respect. The verb 'degouter' expresses intense aversion.
 - 'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out. The imperative 'attends' urges someone to stop and listen.

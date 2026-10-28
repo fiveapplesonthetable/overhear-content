@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dim, come on, don't go quiet.' The little negative word sits right in front of the verb for 'be quiet', just like 'not' in English.
-- 'And it's time to go home. Everyone's tired.' Notice the word order: 'home' comes first, and 'got tired' finishes the sentence.
-- 'And what are you tired from?' The first content word means 'what?', and 'am tired' rounds out the thought.
-- 'Drinking all day?' You'll hear 'to booze' all the time in the show, here connected with 'day'.
-- 'Chef, I'm sorry.' Listen for the word meaning 'chef' right alongside 'sorry' in this line.
-- 'I guess I didn't handle it.' Viktor puts 'I' up front so the listener immediately catches the tone, followed by 'apparently'.
-- 'Lyova, come here.' A compact expression built around 'Lyova' and 'here'.
-- 'Picking fights with guests isn't great.' In Russian, 'to make a scene' leads into 'good' in a very natural everyday phrasing.
-- 'But the head chef isn't only responsible for food.' The first content word means 'head chef', and 'am driving' rounds out the thought.
-- 'First and foremost he is responsible for the team.' Viktor puts 'first' up front so the listener immediately catches the tone, followed by 'turn in the queue'.
-- 'And today you acted like a real head chef.' In Russian, 'you' leads into 'chef' in a very natural everyday phrasing.
+- 'And it's time to go home. Everyone's tired.' Here Nagiyev anchors the line on the word meaning 'home' and builds the thought around 'it's time' and 'got tired'.
+- 'And what are you tired from?' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'am tired'.
+- 'Drinking all day?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'to booze', pairing it with 'whole' and 'day'.
+- 'Chef, I'm sorry.' Chef Barinov leads with the direct command form meaning 'sorry' to make the point directly in conversation.
+- 'I guess I didn't handle it.' Here Chef Barinov anchors the line on the word meaning 'apparently' and builds the thought around 'to manage'.
+- 'Lyova, come here.' Chef Barinov leads with the direct command form meaning 'go', followed by 'here'.
+- 'Picking fights with guests isn't great.' Chef Barinov chooses the imperfective verb meaning 'to make a scene' for the ongoing action, followed by 'guests' and 'very much'.
+- 'But the head chef isn't only responsible for food.' Chef Barinov puts the word for 'head chef' together with 'is responsible' and 'only' in a crisp, natural spoken turn of phrase.
+- 'First and foremost he is responsible for the team.' Here Chef Barinov anchors the line on the word meaning 'first' and builds the thought around 'turn in the queue' and 'is responsible'.
+- 'And today you acted like a real head chef.' The phrasing opens with 'today' before bringing in 'acted' and 'how' to make the point clear.
 - 'You handled it. Well done.' The reflexive ending on the verb for 'to manage' turns the action back onto the subject.

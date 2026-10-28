@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Herve, I have excellent news.' Valerie opens the meeting with an exciting announcement.
-- 'Did you choose my actor Alex?' Herve assumes his client secured the casting.
-- 'No, I chose his big brother.' Valerie clarifies that she picked a different character.
-- 'And that brother is you, Herve!' Valerie reveals her surprising casting decision.
-- 'Only you can play this role.' Valerie insists that Herve is unique for the part.
-- 'You were truly remarkable at the audition.' Valerie praises his natural screen presence.
-- 'Me? I am not an actor!' Herve gasps with shock at the unexpected proposition.
-- 'I did not know your talent.' Camille smiles and compliments her fellow assistant.
-- 'Do you think you will say yes?' Camille asks whether he plans to accept.
-- 'I cannot say anything to Gabriel.' Herve fears his boss will disapprove.
-- 'Nobody is forcing you to tell him.' Camille reassures him that he has options.
-- 'I am very good at keeping secrets.' Camille offers her complete confidentiality.
-- 'This is the start of a secret adventure!' Herve accepts the challenge with excitement.
+- 'Herve, I have excellent news.' Valerie opens the meeting with an exciting announcement. The verb meaning 'have' pairs naturally with the noun for 'piece of news' in everyday conversation.
+- 'Did you choose my actor Alex?' Herve assumes his client secured the casting. This conversational past tense combines a helper verb with the past participle for 'chosen'.
+- 'No, I chose his big brother.' Valerie clarifies that she picked a different character. Notice how 'have' leads directly into the noun meaning 'brother'.
+- 'And that brother is you, Herve!' Valerie reveals her surprising casting decision. The formal 'you' pronoun sets a courteous, professional distance around 'brother'.
+- 'Only you can play this role.' Valerie insists that Herve is unique for the part. The verb meaning 'can' pairs naturally with the noun for 'role' in everyday conversation.
+- 'You were truly remarkable at the audition.' Valerie praises his natural screen presence. Valerie uses the polite 'you' form alongside 'were' to keep a respectful professional tone.
+- 'Me? I am not an actor!' Herve gasps with shock at the unexpected proposition. Notice the classic French sandwich negation wrapping right around 'the verb'.
+- 'I did not know your talent.' Camille smiles and compliments her fellow assistant. Camille uses the casual singular 'you' with 'knew', showing close familiarity.
+- 'Do you think you will say yes?' Camille asks whether he plans to accept. The informal 'you' form around 'think' marks a direct, personal relationship.
+- 'I cannot say anything to Gabriel.' Herve fears his boss will disapprove. The two-part negative frame surrounds 'can' to mean 'nothing at all'.
+- 'Nobody is forcing you to tell him.' Camille reassures him that he has options. The clause hinges on the everyday verb meaning 'obliges'.
+- 'I am very good at keeping secrets.' Camille offers her complete confidentiality. The verb meaning 'know how' pairs naturally with the noun for 'secrets' in everyday conversation.
+- 'This is the start of a secret adventure!' Herve accepts the challenge with excitement. The key noun here means 'beginning', anchored by its matching French article.
 - 'Congratulations on your first role, Herve!' Camille celebrates his dramatic breakthrough.

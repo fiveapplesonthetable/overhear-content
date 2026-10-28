@@ -11,29 +11,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Луи | Что случилось? | What happened? | #95 00:06:20: киски спас | verbatim |
-| 2 | Аня | Кто бы говорил про инвалидов. | You're one to talk about cripples. | #100 00:06:36: Кто бы говорил про инвалидов | verbatim |
+| 2 | Сеня | Кто бы говорил про инвалидов. | You're one to talk about cripples. | #100 00:06:36: Кто бы говорил про инвалидов | verbatim |
 | 3 | Виктор | Я на больничном. | I am on sick leave. | #101 00:06:38: Я на больничном | verbatim |
 | 4 | Виктор | Меня нет. | I am not here. | #101 00:06:38: меня нет | verbatim |
 | 5 | Луи | Вы травите тараканов? | Are you fumigating cockroaches? | #102 00:06:42: Вы что, тут тараканов травите | verbatim |
 | 6 | Луи | В зале стоит вонь. | There is a stink in the dining room. | #103 00:06:44: Эта вонь уже в зале стоит | verbatim |
-| 7 | Аня | Это Федя готовит завтрак. | It is Fedya making breakfast. | #109 00:06:59: Это Федя себе низкокалорийный завтрак готовит | verbatim |
-| 8 | Аня | Он варит ремень. | He is boiling a belt. | new | new |
+| 7 | Сеня | Это Федя готовит завтрак. | It is Fedya making breakfast. | #109 00:06:59: Это Федя себе низкокалорийный завтрак готовит | verbatim |
+| 8 | Сеня | Он варит ремень. | He is boiling a belt. | new | new |
 | 9 | Виктор | Зачем он варит ремень? | Why is he boiling a belt? | new | new |
-| 10 | Аня | Он поспорил на деньги. | He made a bet for money. | new | new |
+| 10 | Сеня | Он поспорил на деньги. | He made a bet for money. | new | new |
 | 11 | Виктор | Вы как дети. | You are like children. | new | new |
 | 12 | Виктор | Идите работать! | Go to work! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' Listen for the word meaning 'what' right alongside 'happened' in this line.
+- 'What happened?' The question opens with the interrogative word for 'what' and builds toward 'happened'.
 - 'You're one to talk about cripples.' The verb for 'said' is in the masculine past tense, marked by that 'l' sound at the end. Then Viktor replies.
-- 'I am on sick leave.' Here 'I' sets up the idea, while 'sick leave' comes at the end for emphasis.
-- 'I am not here.' You'll hear 'me' all the time in the show, here connected with 'me'.
-- 'Are you fumigating cockroaches?' A compact expression built around 'you' and 'cockroaches'.
-- 'There is a stink in the dining room.' Here 'hall' sets up the idea, while 'stench' comes at the end for emphasis.
-- 'It is Fedya making breakfast.' You'll hear 'this' all the time in the show, here connected with 'breakfast'.
-- 'He is boiling a belt.' Notice the word order: 'he' comes first, and 'belt' finishes the sentence. Viktor answers straight away.
-- 'Why is he boiling a belt?' The first content word means 'what for', and 'belt' rounds out the thought.
-- 'He made a bet for money.' A compact expression built around 'he' and 'money'.
-- 'You are like children.' Viktor starts with 'you' and pairs it with 'how' to make the point clear.
+- 'I am on sick leave.' Russian omits the present-tense verb 'to be', connecting 'I' directly with 'sick leave'.
+- 'I am not here.' Russian omits the present-tense verb 'to be' here, linking 'me' directly with 'no', combining 'me' with 'no'.
+- 'Are you fumigating cockroaches?' Louis uses the imperative command form of the verb meaning 'to torment'.
+- 'There is a stink in the dining room.' Here Louis anchors the line on the word meaning 'hall' and builds the thought around 'is parked' and 'stench'.
+- 'It is Fedya making breakfast.' Senya chooses the imperfective verb meaning 'cooks' for the ongoing action, followed by 'breakfast'.
+- 'He is boiling a belt.' Senya chooses the imperfective verb meaning 'is cooking' for the ongoing action, followed by 'belt'.
+- 'Why is he boiling a belt?' Chef Barinov puts the word for 'what for' together with 'is cooking' and 'belt' in a crisp, natural spoken turn of phrase.
+- 'He made a bet for money.' Senya uses the perfective verb meaning 'to make a bet' to focus on the single completed result, pairing it with 'money'.
+- 'You are like children.' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'kids', combining 'how' with 'kids'.
 - 'Go to work!' Viktor uses an urgent command built around the verb for 'come'.

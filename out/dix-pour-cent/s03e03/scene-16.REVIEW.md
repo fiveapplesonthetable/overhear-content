@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Samy completely failed his screen tests.' Mathias evaluates the unsuccessful audition. The compound past verb indicates a completed negative outcome.
-- 'He just had stage fright!' Camille explains his momentary nervousness. The compound past verb with an adverbial minimizer softens the failure.
-- 'Gerard wants a more solid partner.' Mathias states the seasoned actor's requirement. The comparative adjective denotes a need for greater reliability.
-- 'Yet, Samy has a unique talent!' Camille insists on his rare artistic ability. The coordinating adverb introduces an opposing defense.
-- 'He has a great artistic sensitivity.' Camille praises his emotional resonance. The feminine adjective describes his nuanced acting style.
-- 'He does not know how to act yet.' Mathias highlights the newcomer's technical limits. The negative present verb with an adverb expresses lack of professional mastery.
-- 'We must think about this film.' Mathias focuses on overall production success. The modal verb expresses collective professional duty.
-- 'It is really unfair to him!' Camille voices her deep frustration. The presentative phrase with an intensifier emphasizes injustice.
-- 'One must know how to make choices.' Mathias shares hard-nosed industry realism. The impersonal construction expresses a general business necessity.
-- 'Call Samy to break the news to him.' Mathias assigns the difficult phone task. The imperative verb directs immediate action.
-- 'Hello Samy, it is Camille, your agent.' Camille starts her voicemail recording. The presentative formula introduces her identity and professional bond.
-- 'I am sorry about this role.' Camille conveys her heartfelt regrets. The adjective with an intensifier expresses sympathetic sorrow.
-- 'But we are going to continue together.' Camille promises ongoing support. The near future construction commits to long-term collaboration.
+- 'Samy completely failed his screen tests.' Mathias evaluates the unsuccessful audition. The verb meaning 'has' pairs naturally with the noun for 'tests' in everyday conversation.
+- 'He just had stage fright!' Camille explains his momentary nervousness. Notice how 'has' leads directly into the noun meaning 'stage fright'.
+- 'Gerard wants a more solid partner.' Mathias states the seasoned actor's requirement. The descriptive adjective for 'dependable' agrees in gender and number with its noun.
+- 'Yet, Samy has a unique talent!' Camille insists on his rare artistic ability. The descriptive adjective for 'singular' agrees in gender and number with its noun.
+- 'He has a great artistic sensitivity.' Camille praises his emotional resonance. Notice how 'has' leads directly into the noun meaning 'emotional sensitivity'.
+- 'He does not know how to act yet.' Mathias highlights the newcomer's technical limits. The two-part French negation brackets the verb for 'knows how' on both sides.
+- 'We must think about this film.' Mathias focuses on overall production success. The verb meaning 'must' pairs naturally with the noun for 'movie' in everyday conversation.
+- 'It is really unfair to him!' Camille voices her deep frustration. The adverb meaning 'truly' gives the reply its conversational emphasis.
+- 'One must know how to make choices.' Mathias shares hard-nosed industry realism. The verb meaning 'is necessary' pairs naturally with the noun for 'choices' in everyday conversation.
+- 'Call Samy to break the news to him.' Mathias assigns the difficult phone task. The clause hinges on the everyday verb meaning 'call'.
+- 'Hello Samy, it is Camille, your agent.' Camille starts her voicemail recording. The key noun here means 'talent agent', anchored by its matching French article.
+- 'I am sorry about this role.' Camille conveys her heartfelt regrets. The key noun here means 'part', anchored by its matching French article.
+- 'But we are going to continue together.' Camille promises ongoing support. French forms the near future by pairing the present tense of 'to go' directly with 'to carry on'.
 - 'The future is big ahead of us!' Camille shares an optimistic vision. The spatial prepositional phrase inspires hope and ambition.

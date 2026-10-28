@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This stalemate makes me completely crazy!' Pascal vents over the delayed production. The causative verbal phrase expresses overwhelming frustration.
-- 'I refuse this nude scene.' Beatrice calmly reiterates her non-negotiable stance. The present transitive verb asserts personal bodily agency.
-- 'I spent six years writing.' Pascal reminds her of his lengthy script development. The compound past verb measures years of creative labor.
-- 'It took me thirty years to refuse!' Beatrice responds with her career-long journey. The temporal phrase underscores how long it took to learn self-protection.
-- 'When I say no, it means no!' Beatrice establishes an unambiguous boundary. The conditional clause affirms definitive consent.
-- 'The truth is that I panicked.' Pascal drops his defensive anger and speaks honestly. The compound past colloquial verb admits sudden professional terror.
-- 'I did not know how to film.' Pascal confesses his creative blockage on set. The negative imperfect verb reveals his underlying artistic doubt.
-- 'So what are you looking for exactly?' Beatrice opens a constructive dialogue. The interrogative phrase invites him to articulate his artistic goal.
-- 'I am looking for a very powerful gesture.' Pascal clarifies what the scene needs. The present verb with an intensified adjective defines his vision.
-- 'The character wants to keep your memory.' Pascal explains the lover's obsession. The modal verb with an infinitive expresses sentimental longing.
-- 'He eats a tiny piece of ear!' Pascal pitches an audacious poetic alternative. The vivid present verb suggests raw, unconventional intimacy.
-- 'He eats my ear, really?' Beatrice checks the provocative concept. The surprised question tests the unconventional visual idea.
-- 'Yes, to take away a part of you.' Pascal describes the poetic motive. The purpose clause explains the dramatic logic behind the act.
+- 'This stalemate makes me completely crazy!' Pascal vents over the delayed production. Dropping the subject pronoun turns the verb for 'makes' into a direct, punchy command.
+- 'I refuse this nude scene.' Beatrice calmly reiterates her non-negotiable stance. Notice how 'refuse' leads directly into the noun meaning 'scene'.
+- 'I spent six years writing.' Pascal reminds her of his lengthy script development. This conversational past tense combines a helper verb with the past participle for 'spent'.
+- 'It took me thirty years to refuse!' Beatrice responds with her career-long journey. Notice how 'have' leads directly into the noun meaning 'years'.
+- 'When I say no, it means no!' Beatrice establishes an unambiguous boundary. Dropping the subject pronoun turns the verb for 'say' into a direct, punchy command.
+- 'The truth is that I panicked.' Pascal drops his defensive anger and speaks honestly. This conversational past tense combines a helper verb with the past participle for 'panicked'.
+- 'I did not know how to film.' Pascal confesses his creative blockage on set. Notice the classic French sandwich negation wrapping right around 'knew'.
+- 'So what are you looking for exactly?' Beatrice opens a constructive dialogue. The clause hinges on the everyday verb meaning 'are looking for'.
+- 'I am looking for a very powerful gesture.' Pascal clarifies what the scene needs. The descriptive adjective for 'strong' agrees in gender and number with its noun.
+- 'The character wants to keep your memory.' Pascal explains the lover's obsession. The formal 'you' pronoun sets a courteous, professional distance around 'wants'.
+- 'He eats a tiny piece of ear!' Pascal pitches an audacious poetic alternative. Notice how 'eats' leads directly into the noun meaning 'bit'.
+- 'He eats my ear, really?' Beatrice checks the provocative concept. Notice how 'eats' leads directly into the noun meaning 'ear'.
+- 'Yes, to take away a part of you.' Pascal describes the poetic motive. The verb meaning 'to take away' pairs naturally with the noun for 'part' in everyday conversation.
 - 'That is a brilliant idea, I love it!' Beatrice embraces the radical creativity. The enthusiastic verb confirms her artistic commitment to the film.

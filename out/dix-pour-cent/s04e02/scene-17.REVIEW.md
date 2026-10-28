@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I have to work on my diction.' Dylan worries about his vocal articulation. The modal verb 'dois' conveys an obligation to improve.
-- 'Excuse me? Everyone understands you.' Franck brushes aside Dylan's self-criticism. The present verb 'comprend' reassures clarity of speech.
+- 'Excuse me? Everyone understands you.' Franck brushes aside Dylan's self-criticism. The verb meaning 'understands' pairs naturally with the noun for 'pardon' in everyday conversation.
 - 'I am not really an actor.' Dylan feels fraudulent despite his accolades. The negative structure 'ne... pas' minimizes personal identity.
-- 'You won a fine Cesar!' Franck points to Dylan's prestigious award. The past tense 'as gagne' highlights earned recognition.
-- 'I only got lucky.' Dylan attributes his success to sheer coincidence. The verbal idiom 'avoir de la chance' means to be fortunate.
+- 'You won a fine Cesar!' Franck points to Dylan's prestigious award. This conversational past tense combines a helper verb with the past participle for 'won'.
+- 'I only got lucky.' Dylan attributes his success to sheer coincidence. This conversational past tense combines a helper verb with the past participle for 'had'.
 - 'You have thousands of offers.' Franck reminds him of numerous script invitations. The noun 'propositions' refers to professional film offers.
 - 'I am terrified for my future.' Dylan confesses his dread of taking risks. The colloquial verb 'flipper' means to freak out or panic.
-- 'You stay in your comfort zone.' Franck analyzes Dylan's protective instincts. The noun phrase 'zone confortable' indicates safe familiarity.
-- 'How did you start this profession?' Dylan seeks guidance from Franck's journey. The compound past 'as commence' asks about early professional steps.
+- 'You stay in your comfort zone.' Franck analyzes Dylan's protective instincts. Franck uses the casual singular 'you' with 'stay', showing close familiarity.
+- 'How did you start this profession?' Dylan seeks guidance from Franck's journey. The informal 'you' form around 'have' marks a direct, personal relationship.
 - 'I was assistant to a magician!' Franck recounts his colorful early career. The noun 'magicien' evokes theatrical illusion work.
 - 'And are you still afraid?' Dylan wonders if experience banishes anxiety. The adverb 'toujours' inquires about continuous feelings of fear.
 - 'I still get terrified sometimes.' Franck normalizes fear as part of acting. The colloquial idiom 'avoir la trouille' means to be scared stiff.

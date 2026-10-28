@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I often think back to that train ticket.' Catherine recalls Camille finding her an urgent train ticket to Cannes.
-- 'Without you, Mathias and I might be separated.' Catherine acknowledges Camille's decisive role in saving their marriage.
-- 'Yet you are such a beautiful couple!' Camille compliments Catherine and Mathias on their long-lasting partnership.
-- 'I truly hate that old expression.' Catherine explains why the common cliche about attractive couples bothers her.
-- 'A beautiful couple is only the surface.' Catherine points out that external appearances hide private marital difficulties.
-- 'What really matters is the depths.' Catherine emphasizes that real love requires deep emotional intimacy.
-- 'Yes, you are totally right about that.' Camille agrees with Catherine's honest reflections on relationships.
-- 'With Mathias, it is difficult to reach the depths.' Catherine describes Mathias's guarded and secretive personality.
-- 'I often wonder what connects us.' Catherine questions whether work and social routine have replaced mutual passion.
-- 'Mathias still makes many sincere efforts.' Camille reminds Catherine that Mathias genuinely wants their marriage to work.
-- 'We are currently doing couples therapy.' Catherine reveals that they have started seeing a marriage counselor.
-- 'He even takes the time to do yoga!' Catherine notes with affection that Mathias joins her daily yoga sessions.
-- 'That is a very lovely proof of sincere love.' Camille finds encouragement in Mathias stepping outside his comfort zone.
+- 'I often think back to that train ticket.' Catherine recalls Camille finding her an urgent train ticket to Cannes. The verb meaning 'think back' pairs naturally with the noun for 'ticket' in everyday conversation.
+- 'Without you, Mathias and I might be separated.' Catherine acknowledges Camille's decisive role in saving their marriage. The clause hinges on the everyday verb meaning 'would be'.
+- 'Yet you are such a beautiful couple!' Camille compliments Catherine and Mathias on their long-lasting partnership. The descriptive adjective for 'beautiful' agrees in gender and number with its noun.
+- 'I truly hate that old expression.' Catherine explains why the common cliche about attractive couples bothers her. The verb meaning 'I have' pairs naturally with the noun for 'hatred' in everyday conversation.
+- 'A beautiful couple is only the surface.' Catherine points out that external appearances hide private marital difficulties. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'What really matters is the depths.' Catherine emphasizes that real love requires deep emotional intimacy. Notice how 'counts' leads directly into the noun meaning 'depths.'.
+- 'Yes, you are totally right about that.' Camille agrees with Catherine's honest reflections on relationships. The verb meaning 'have' pairs naturally with the noun for 'right' in everyday conversation.
+- 'With Mathias, it is difficult to reach the depths.' Catherine describes Mathias's guarded and secretive personality. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
+- 'I often wonder what connects us.' Catherine questions whether work and social routine have replaced mutual passion. The reflexive pronoun sits right in front of the verb for 'ask', turning the action back onto the subject.
+- 'Mathias still makes many sincere efforts.' Camille reminds Catherine that Mathias genuinely wants their marriage to work. Notice how the short vowel drops before a vowel sound around 'makes', making the phrase flow smoothly as one unit.
+- 'We are currently doing couples therapy.' Catherine reveals that they have started seeing a marriage counselor. The verb meaning 'are doing' pairs naturally with the noun for 'therapy' in everyday conversation.
+- 'He even takes the time to do yoga!' Catherine notes with affection that Mathias joins her daily yoga sessions. Notice how 'takes' leads directly into the noun meaning 'time'.
+- 'That is a very lovely proof of sincere love.' Camille finds encouragement in Mathias stepping outside his comfort zone. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
