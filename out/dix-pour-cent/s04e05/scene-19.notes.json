@@ -8,19 +8,19 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "qu'elle",
           "lemma": "que",
           "pos": "conj",
           "stress": "kɛl",
-          "gloss": "that she",
-          "gram": "que (that, elided) + elle (she)"
+          "gloss": "that she, that it",
+          "gram": "que (that) + elle (she/it)"
         },
         {
           "t": "fait",
@@ -57,8 +57,8 @@
           "lemma": "acheter",
           "pos": "verb",
           "stress": "saʃɛt",
-          "gloss": "itself purchase / buy",
-          "gram": "imperative 2sg"
+          "gloss": "buys for oneself, can be bought",
+          "gram": "se (reflexive) + achète: 3rd person singular present of acheter"
         },
         {
           "t": "une",
@@ -95,8 +95,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "changé",
@@ -111,8 +111,8 @@
           "lemma": "avis",
           "pos": "noun",
           "stress": "davi",
-          "gloss": "of notice",
-          "gram": "masculine singular; 'avis de décès' = death notice"
+          "gloss": "of opinion, mind",
+          "gram": "de (of) + avis: masculine singular noun"
         },
         {
           "t": "pour",
@@ -126,7 +126,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -202,7 +202,7 @@
           "t": "Le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -219,8 +219,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "l'amour,",
@@ -318,7 +318,7 @@
           "t": "fatiguée?",
           "lemma": "fatigué",
           "pos": "adj",
-          "stress": "fatie",
+          "stress": "fatiɡe",
           "gloss": "tired",
           "gram": "feminine singular"
         }
@@ -332,7 +332,7 @@
           "t": "Fatiguée?",
           "lemma": "fatigué",
           "pos": "adj",
-          "stress": "fatie",
+          "stress": "fatiɡe",
           "gloss": "tired",
           "gram": "feminine singular"
         },
@@ -408,11 +408,11 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "vous",
@@ -441,8 +441,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "une",
@@ -472,7 +472,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -502,7 +502,7 @@
           "t": "Le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -519,14 +519,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "(each other) have",
-          "gram": "s' (se, each other) + est: auxiliary être"
+          "gloss": "himself/herself/itself (past reflexive helper)",
+          "gram": "se (reflexive) + est: 3rd person singular auxiliary être"
         },
         {
           "t": "retiré",
           "lemma": "retirer",
           "pos": "verb",
-          "stress": "ʁtiʁe",
+          "stress": "ʁətiʁe",
           "gloss": "pulled back",
           "gram": "past participle; ai retiré = passé composé"
         },
@@ -572,7 +572,7 @@
           "t": "refuse",
           "lemma": "refuser",
           "pos": "verb",
-          "stress": "ʁfyz",
+          "stress": "ʁəfyz",
           "gloss": "refuses",
           "gram": "subjunctive (same form as present), 3rd person singular"
         },
@@ -581,8 +581,8 @@
           "lemma": "inverser",
           "pos": "verb",
           "stress": "dɛ̃vɛʁse",
-          "gloss": "of to switch / reverse",
-          "gram": "infinitive"
+          "gloss": "to reverse, to switch",
+          "gram": "de (to) + inverser: infinitive"
         },
         {
           "t": "les",
@@ -626,7 +626,7 @@
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "m",
+          "stress": "mə",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -684,19 +684,19 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "qu'elle",
           "lemma": "que",
           "pos": "conj",
           "stress": "kɛl",
-          "gloss": "that she",
-          "gram": "que (that, elided) + elle (she)"
+          "gloss": "that she, that it",
+          "gram": "que (that) + elle (she/it)"
         },
         {
           "t": "fait",
@@ -733,8 +733,8 @@
           "lemma": "acheter",
           "pos": "verb",
           "stress": "saʃɛt",
-          "gloss": "itself purchase / buy",
-          "gram": "imperative 2sg"
+          "gloss": "buys for oneself, can be bought",
+          "gram": "se (reflexive) + achète: 3rd person singular present of acheter"
         },
         {
           "t": "une",
@@ -771,8 +771,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "changé",
@@ -787,8 +787,8 @@
           "lemma": "avis",
           "pos": "noun",
           "stress": "davi",
-          "gloss": "of notice",
-          "gram": "masculine singular; 'avis de décès' = death notice"
+          "gloss": "of opinion, mind",
+          "gram": "de (of) + avis: masculine singular noun"
         },
         {
           "t": "pour",
@@ -802,7 +802,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -878,7 +878,7 @@
           "t": "Le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -895,8 +895,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "l'amour,",
@@ -994,7 +994,7 @@
           "t": "fatiguée?",
           "lemma": "fatigué",
           "pos": "adj",
-          "stress": "fatie",
+          "stress": "fatiɡe",
           "gloss": "tired",
           "gram": "feminine singular"
         }
@@ -1008,7 +1008,7 @@
           "t": "Fatiguée?",
           "lemma": "fatigué",
           "pos": "adj",
-          "stress": "fatie",
+          "stress": "fatiɡe",
           "gloss": "tired",
           "gram": "feminine singular"
         },
@@ -1084,11 +1084,11 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "vous",
@@ -1117,8 +1117,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "une",
@@ -1148,7 +1148,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1178,7 +1178,7 @@
           "t": "Le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1195,14 +1195,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "(each other) have",
-          "gram": "s' (se, each other) + est: auxiliary être"
+          "gloss": "himself/herself/itself (past reflexive helper)",
+          "gram": "se (reflexive) + est: 3rd person singular auxiliary être"
         },
         {
           "t": "retiré",
           "lemma": "retirer",
           "pos": "verb",
-          "stress": "ʁtiʁe",
+          "stress": "ʁətiʁe",
           "gloss": "pulled back",
           "gram": "past participle; ai retiré = passé composé"
         },
@@ -1248,7 +1248,7 @@
           "t": "refuse",
           "lemma": "refuser",
           "pos": "verb",
-          "stress": "ʁfyz",
+          "stress": "ʁəfyz",
           "gloss": "refuses",
           "gram": "subjunctive (same form as present), 3rd person singular"
         },
@@ -1257,8 +1257,8 @@
           "lemma": "inverser",
           "pos": "verb",
           "stress": "dɛ̃vɛʁse",
-          "gloss": "of to switch / reverse",
-          "gram": "infinitive"
+          "gloss": "to reverse, to switch",
+          "gram": "de (to) + inverser: infinitive"
         },
         {
           "t": "les",
@@ -1302,7 +1302,7 @@
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "m",
+          "stress": "mə",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -1360,19 +1360,19 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "qu'elle",
           "lemma": "que",
           "pos": "conj",
           "stress": "kɛl",
-          "gloss": "that she",
-          "gram": "que (that, elided) + elle (she)"
+          "gloss": "that she, that it",
+          "gram": "que (that) + elle (she/it)"
         },
         {
           "t": "fait",
@@ -1409,8 +1409,8 @@
           "lemma": "acheter",
           "pos": "verb",
           "stress": "saʃɛt",
-          "gloss": "itself purchase / buy",
-          "gram": "imperative 2sg"
+          "gloss": "buys for oneself, can be bought",
+          "gram": "se (reflexive) + achète: 3rd person singular present of acheter"
         },
         {
           "t": "une",
@@ -1447,8 +1447,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "changé",
@@ -1463,8 +1463,8 @@
           "lemma": "avis",
           "pos": "noun",
           "stress": "davi",
-          "gloss": "of notice",
-          "gram": "masculine singular; 'avis de décès' = death notice"
+          "gloss": "of opinion, mind",
+          "gram": "de (of) + avis: masculine singular noun"
         },
         {
           "t": "pour",
@@ -1478,7 +1478,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1554,7 +1554,7 @@
           "t": "Le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1571,8 +1571,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "l'amour,",
@@ -1670,7 +1670,7 @@
           "t": "fatiguée?",
           "lemma": "fatigué",
           "pos": "adj",
-          "stress": "fatie",
+          "stress": "fatiɡe",
           "gloss": "tired",
           "gram": "feminine singular"
         }
@@ -1684,7 +1684,7 @@
           "t": "Fatiguée?",
           "lemma": "fatigué",
           "pos": "adj",
-          "stress": "fatie",
+          "stress": "fatiɡe",
           "gloss": "tired",
           "gram": "feminine singular"
         },
@@ -1760,11 +1760,11 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "vous",
@@ -1793,8 +1793,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "une",
@@ -1824,7 +1824,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1854,7 +1854,7 @@
           "t": "Le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1871,14 +1871,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "(each other) have",
-          "gram": "s' (se, each other) + est: auxiliary être"
+          "gloss": "himself/herself/itself (past reflexive helper)",
+          "gram": "se (reflexive) + est: 3rd person singular auxiliary être"
         },
         {
           "t": "retiré",
           "lemma": "retirer",
           "pos": "verb",
-          "stress": "ʁtiʁe",
+          "stress": "ʁətiʁe",
           "gloss": "pulled back",
           "gram": "past participle; ai retiré = passé composé"
         },
@@ -1924,7 +1924,7 @@
           "t": "refuse",
           "lemma": "refuser",
           "pos": "verb",
-          "stress": "ʁfyz",
+          "stress": "ʁəfyz",
           "gloss": "refuses",
           "gram": "subjunctive (same form as present), 3rd person singular"
         },
@@ -1933,8 +1933,8 @@
           "lemma": "inverser",
           "pos": "verb",
           "stress": "dɛ̃vɛʁse",
-          "gloss": "of to switch / reverse",
-          "gram": "infinitive"
+          "gloss": "to reverse, to switch",
+          "gram": "de (to) + inverser: infinitive"
         },
         {
           "t": "les",
@@ -1978,7 +1978,7 @@
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "m",
+          "stress": "mə",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -3076,7 +3076,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "d",
+      "stress": "də",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -3552,7 +3552,7 @@
     },
     "fatigué": {
       "lemma": "fatigué",
-      "stress": "fatie",
+      "stress": "fatiɡe",
       "pos": "adj",
       "gloss": "tired",
       "meanings": [
@@ -3927,7 +3927,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -4313,7 +4313,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -4473,7 +4473,7 @@
     },
     "me": {
       "lemma": "me",
-      "stress": "m",
+      "stress": "mə",
       "pos": "pron",
       "gloss": "me, to me (object)",
       "meanings": [
@@ -4852,7 +4852,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -4886,7 +4886,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -4966,7 +4966,7 @@
     },
     "refuser": {
       "lemma": "refuser",
-      "stress": "ʁfyze",
+      "stress": "ʁəfyze",
       "pos": "verb",
       "gloss": "to refuse, to turn down",
       "meanings": [
@@ -5128,7 +5128,7 @@
     },
     "retirer": {
       "lemma": "retirer",
-      "stress": "ʁtiʁe",
+      "stress": "ʁətiʁe",
       "pos": "verb",
       "gloss": "to pull back, to take off, to withdraw",
       "meanings": [
@@ -5625,6 +5625,40 @@
         }
       ]
     },
+    "si": {
+      "lemma": "si",
+      "stress": "si",
+      "pos": "conj",
+      "gloss": "if; yes (to a negative)",
+      "meanings": [
+        {
+          "en": "if",
+          "note": "Si tu veux = if you want. French conjunction meaning 'if', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "yes",
+          "note": "answering a negative question: Aucune nouvelle? - Si!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Si tu veux, on peut en parler demain matin.",
+          "trans": "If you want, we can talk about it tomorrow morning."
+        },
+        {
+          "text": "Dis-moi tout de suite si le rôle t'intéresse.",
+          "trans": "Tell me right away if the role interests you."
+        }
+      ],
+      "related": [
+        {
+          "word": "si tu veux",
+          "gloss": "if you want"
+        }
+      ]
+    },
     "soirée": {
       "lemma": "soirée",
       "stress": "swaʁe",
@@ -5860,7 +5894,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [

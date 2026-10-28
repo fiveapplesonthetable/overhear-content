@@ -8,17 +8,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -70,17 +70,17 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -103,8 +103,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "quoi",
@@ -118,7 +118,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -134,9 +134,9 @@
           "t": "désordre?",
           "lemma": "désordre",
           "pos": "noun",
-          "stress": "desoʁdʁ",
-          "gloss": "désordre",
-          "gram": "noun"
+          "stress": "dezɔʁdʁ",
+          "gloss": "mess, disorder",
+          "gram": "masculine singular noun"
         }
       ]
     },
@@ -240,7 +240,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -249,8 +249,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -278,7 +278,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -324,7 +324,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -332,7 +332,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -402,7 +402,7 @@
           "t": "sache-le.",
           "lemma": "savoir",
           "pos": "verb",
-          "stress": "saʃl",
+          "stress": "saʃlə",
           "gloss": "know the (everyone)",
           "gram": "subjunctive present, 3rd person singular"
         }
@@ -462,7 +462,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -478,7 +478,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -524,7 +524,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -578,7 +578,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -586,7 +586,7 @@
           "t": "sera",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sʁa",
+          "stress": "səʁa",
           "gloss": "will be",
           "gram": "future, 3rd person singular"
         },
@@ -617,8 +617,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "mon",
@@ -644,17 +644,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -706,17 +706,17 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -739,8 +739,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "quoi",
@@ -754,7 +754,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -770,9 +770,9 @@
           "t": "désordre?",
           "lemma": "désordre",
           "pos": "noun",
-          "stress": "desoʁdʁ",
-          "gloss": "désordre",
-          "gram": "noun"
+          "stress": "dezɔʁdʁ",
+          "gloss": "mess, disorder",
+          "gram": "masculine singular noun"
         }
       ]
     },
@@ -876,7 +876,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -885,8 +885,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -914,7 +914,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -960,7 +960,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -968,7 +968,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1038,7 +1038,7 @@
           "t": "sache-le.",
           "lemma": "savoir",
           "pos": "verb",
-          "stress": "saʃl",
+          "stress": "saʃlə",
           "gloss": "know the (everyone)",
           "gram": "subjunctive present, 3rd person singular"
         }
@@ -1098,7 +1098,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1114,7 +1114,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1160,7 +1160,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1214,7 +1214,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1222,7 +1222,7 @@
           "t": "sera",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sʁa",
+          "stress": "səʁa",
           "gloss": "will be",
           "gram": "future, 3rd person singular"
         },
@@ -1253,8 +1253,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "mon",
@@ -1280,17 +1280,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1342,17 +1342,17 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1375,8 +1375,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "quoi",
@@ -1390,7 +1390,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1406,9 +1406,9 @@
           "t": "désordre?",
           "lemma": "désordre",
           "pos": "noun",
-          "stress": "desoʁdʁ",
-          "gloss": "désordre",
-          "gram": "noun"
+          "stress": "dezɔʁdʁ",
+          "gloss": "mess, disorder",
+          "gram": "masculine singular noun"
         }
       ]
     },
@@ -1512,7 +1512,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1521,8 +1521,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1550,7 +1550,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1596,7 +1596,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1604,7 +1604,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1674,7 +1674,7 @@
           "t": "sache-le.",
           "lemma": "savoir",
           "pos": "verb",
-          "stress": "saʃl",
+          "stress": "saʃlə",
           "gloss": "know the (everyone)",
           "gram": "subjunctive present, 3rd person singular"
         }
@@ -1734,7 +1734,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1750,7 +1750,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1796,7 +1796,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1850,7 +1850,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1858,7 +1858,7 @@
           "t": "sera",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sʁa",
+          "stress": "səʁa",
           "gloss": "will be",
           "gram": "future, 3rd person singular"
         },
@@ -1889,8 +1889,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "mon",
@@ -1926,7 +1926,7 @@
           "t": "revoir!",
           "lemma": "revoir",
           "pos": "verb",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "seeing again (goodbye)",
           "gram": "infinitive used as noun"
         }
@@ -2591,7 +2591,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -2962,13 +2962,13 @@
     },
     "désordre": {
       "lemma": "désordre",
-      "stress": "desordre",
+      "stress": "dezɔʁdʁ",
       "pos": "noun",
-      "gloss": "désordre",
+      "gloss": "mess, disorder",
       "gender": "m",
       "meanings": [
         {
-          "en": "désordre",
+          "en": "mess, clutter, disorder",
           "note": ""
         }
       ],
@@ -2976,12 +2976,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est désordre.",
-          "trans": "It is désordre."
+          "text": "Excusez le désordre dans le bureau.",
+          "trans": "Excuse the mess in the office."
         },
         {
-          "text": "Voilà désordre.",
-          "trans": "Here is désordre."
+          "text": "Tout est en désordre ici.",
+          "trans": "Everything is in a mess here."
         }
       ],
       "related": []
@@ -3230,7 +3230,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -4202,7 +4202,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -4236,7 +4236,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -4316,7 +4316,7 @@
     },
     "revoir": {
       "lemma": "revoir",
-      "stress": "ʁvwaʁ",
+      "stress": "ʁəvwaʁ",
       "pos": "verb",
       "gloss": "to see again",
       "meanings": [
@@ -4672,9 +4672,43 @@
         }
       ]
     },
+    "si": {
+      "lemma": "si",
+      "stress": "si",
+      "pos": "conj",
+      "gloss": "if; yes (to a negative)",
+      "meanings": [
+        {
+          "en": "if",
+          "note": "Si tu veux = if you want. French conjunction meaning 'if', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "yes",
+          "note": "answering a negative question: Aucune nouvelle? - Si!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Si tu veux, on peut en parler demain matin.",
+          "trans": "If you want, we can talk about it tomorrow morning."
+        },
+        {
+          "text": "Dis-moi tout de suite si le rôle t'intéresse.",
+          "trans": "Tell me right away if the role interests you."
+        }
+      ],
+      "related": [
+        {
+          "word": "si tu veux",
+          "gloss": "if you want"
+        }
+      ]
+    },
     "te": {
       "lemma": "te",
-      "stress": "t",
+      "stress": "tə",
       "pos": "pron",
       "gloss": "you (casual, object)",
       "meanings": [
@@ -4708,7 +4742,7 @@
     },
     "tenir": {
       "lemma": "tenir",
-      "stress": "tniʁ",
+      "stress": "təniʁ",
       "pos": "verb",
       "gloss": "to hold",
       "meanings": [
