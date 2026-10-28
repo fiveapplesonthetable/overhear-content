@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "In the busy restaurant kitchen, Victoria rushes in to confront Chef Barinov after a guest rejects Max's salad. Fearing that the dissatisfied diner might be the undercover food critic, Barinov orders Max to redo the dish personally. Let's listen to their tense kitchen conversation in Russian."
-OPENER = "Now let's examine how Victoria and Chef Barinov handle the salad complaint line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Victoria calming the guest and Max redoing the salad, the kitchen braces for the reviewer's verdict. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to chatter' — you will catch every word right away. See you next time!"
+INTRO = 'The salad that came back is still the talk of the kitchen. Vika wants to know what the guest said, and Max is sure he did everything right. Here is the whole exchange.'
+OPENER = 'Back through it, one line at a time.'
+TRANSITION = 'Here it all is again, without interruption.'
+OUTRO = 'The salad will be remade, and Max has promised not to let the restaurant down. Vika goes to greet the next guest. More soon.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Шеф, что гостья сказала про салат?', 'Chef, what did the guest say about the salad?', [(78, 'Что она тебе сказала?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'А я встречу нового гостя в зале.', 'And I will meet a new guest in the dining room.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, what did the guest say about the salad?' Vika asks the chef what the guest said about the salad. She wants the details. She calls the customer 'gostya', a female guest."),
-    (1, None, "'She said the salad had a strange taste.' Barinov replies she said the salad had a strange taste. He is relaying the bad news. 'Strannyy vkus' means weird flavor."),
-    (2, None, "'Chef, I made everything strictly by the recipe!' Max defends himself, saying he made everything strictly by the recipe. He does not want to be blamed. 'Strogo po retseptu' means strictly by the recipe."),
-    (3, None, "'I warned you that he must not be allowed!' Vika reminds everyone she warned that he must not be allowed in the kitchen. She is angry at the young cook. 'Preduprezhdala' means I warned."),
-    (4, None, "'Are you convinced of everything yourself now?' Vika asks the chef if he is convinced of everything himself now. She is saying 'I told you so'. 'Ubedilsya' means got convinced."),
-    (5, None, "'Vika, go say that we will fix everything.' Barinov tells the director to go say they will fix everything. He wants to calm the customer down. 'Vsyo ispravim' means we will fix everything."),
-    (6, None, "'I hope this guest will not write a complaint.' Vika hopes this guest will not write a complaint. A bad review would be a disaster. 'Zhalobu' means a formal complaint."),
-    (7, None, "'Max, urgently remake this dish yourself!' Barinov orders his cook to urgently remake this dish himself. He is giving him a chance to fix his mistake. 'Srochno peredelay' means urgently remake."),
-    (8, None, "'Chef, I will prepare the freshest salad.' Max promises he will prepare the freshest salad. He wants to redeem himself. 'Samyy svezhiy' means the most fresh."),
-    (9, None, "'Do you understand that the situation is very serious?' Barinov asks if he understands the situation is very serious. He wants to make sure his cook is focused. 'Seryoznaya' means serious."),
-    (10, None, "'I will not let our restaurant down, chef!' Max vows he will not let their restaurant down. He is determined to do well. 'Ne podvedu' means I will not let down."),
-    (11, None, "'Then work faster and do not talk too much!' Barinov tells him to work faster and not talk too much. He wants action, not words. 'Ne boltay lishnego' means do not chatter unnecessarily."),
-    (12, None, "'And I will meet a new guest in the dining room.' Vika says she will go meet a new guest in the dining room. She has other work to do. 'Vstrechu' means I will meet."),
+    (0, None, '\'Chef, what did the guest say about the salad?\' Russian has a separate word for a woman guest, the feminine twin of "guest". Vika asks the chef because the dish came from his kitchen.'),
+    (1, None, '\'She said the salad had a strange taste.\' Russian says "at the salad a strange taste", the "at" pattern even for things. So the salad "has" a taste the way a person has a cold. Barinov passes on the complaint.'),
+    (2, None, '\'Chef, I made everything strictly by the recipe!\' The small word "by" means "according to", as in "by the recipe". Max defends himself, and he is almost certainly right. The recipe is Barinov\'s own.'),
+    (3, None, '\'I warned you that he must not be allowed!\' Vika\'s "warned" ends in -la. "Not allowed" is the one word you know from the chocolate rule, and the verb after it means to let someone near. She wants it on record.'),
+    (4, None, '\'Are you convinced of everything yourself now?\' The -sya on "convinced" gives "convinced yourself". Vika says "ty" to the chef here, which sounds like a barb. She feels she has been proved right.'),
+    (5, None, '\'Vika, go say that we will fix everything.\' "Go say" has no "and" between the two. Russians simply put the commands side by side. And "fix" grows out of what Russian calls "right". Barinov is calm now that he has a plan.'),
+    (6, None, '\'I hope this guest will not write a complaint.\' The word for "complaint" grows from "to complain". Vika voices the fear that everyone has and nobody says. It\'s a restaurant\'s worst thing: a written complaint.'),
+    (7, None, '\'Max, urgently remake this dish yourself!\' The prefix on "remake" means "again", so it\'s "make over". "Yourself" is there to make Max feel the weight. Barinov trusts only Max to make up for Max.'),
+    (8, None, '\'Chef, I will prepare the freshest salad.\' "The most fresh" gives "the freshest". Max sounds eager. He wants to prove himself, and a salad is a small test with a very big audience.'),
+    (9, None, '\'Do you understand that the situation is very serious?\' Barinov asks as a father asks a child. "Situation" is borrowed from English. He is stern, and he means well.'),
+    (10, None, '\'I will not let our restaurant down, chef!\' It\'s the "let down" word that Vika used with Alisa, which literally means "lead under". Max promises with a loud voice. His intentions are the best.'),
+    (11, None, '\'Then work faster and do not talk too much!\' The last word means "extra", so "don\'t chatter anything extra". You heard the same word in "no more unnecessary words". Barinov ends the talk, as he ends every talk.'),
+    (12, None, '\'And I will meet a new guest in the dining room.\' The Russian for "meet" is the one for greeting someone who arrives. Vika slips away from the kitchen, because the front of house needs her.'),
 ]

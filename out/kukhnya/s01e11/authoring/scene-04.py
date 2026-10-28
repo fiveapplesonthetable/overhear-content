@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'In the hallway, Chef Viktor Barinov spots Max sitting idle after Victoria suspended him. Furious that someone else is giving orders to his cooks, Viktor fiercely asserts his kitchen authority and sends Max back to work. Listen to their conversation in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this energetic backstage encounter.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A lively scene demonstrating Chef Barinov's fiery defiance of restaurant management. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'always' — you will catch every word right away. See you next time!"
+INTRO = 'Max has been sent to wash dishes, and he has taken the order literally. Barinov finds him sitting around and wants to know who suspended him. Here goes.'
+OPENER = "Now let's take it slowly."
+TRANSITION = 'Here it is, all together.'
+OUTRO = 'Max is back at his station with a pile of tickets and a pan in his hands. He is a good deal happier than he was. See you in a moment.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Макс, ты что здесь прохлаждаешься?', 'Max, why are you slacking off here?', [(58, 'Ты что это здесь прохлаждаешься?')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'На рабочее место, шеф!', 'To the workstation, chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, why are you slacking off here?' Barinov demands to know why his cook is slacking off here. He says 'prokhlazhdaeshsya', meaning chilling out. He expects everyone to be working."),
-    (1, None, "'What else am I to do, chef?' Max asks the chef what else he is supposed to do. He sounds helpless. He is just following orders."),
-    (2, None, "'I was suspended from work today.' Max explains he was suspended from work today. He uses 'otstranili', which means they removed him. He is not allowed to cook."),
-    (3, None, "'Who suspended you? Me?' Barinov asks who suspended him and points out it was not him. He is confused and a bit angry. He asks 'kto' meaning who."),
-    (4, None, "'Viktoria Sergeyevna told me to sit here.' Max tells him the director told him to sit here. He is just following her rules. 'Skazala sidet' means told to sit."),
-    (5, None, "'Since when do you listen to her?' Barinov asks since when the young man listens to her. He is annoyed. 'S kakikh por' means since what times."),
-    (6, None, "'In this kitchen, only I am the boss!' Barinov proudly states that in this kitchen, only he is the boss. He is asserting his authority. 'Glavnyy' means the main one."),
-    (7, None, "'She promised to fire me, chef.' Max mentions she promised to fire him. He is worried about his job. 'Obeshchala' means she promised."),
-    (8, None, "'Only I can fire cooks!' Barinov insists that only he can fire cooks. He wants to show the director does not control the kitchen. 'Uvolnyat' means to fire."),
-    (9, None, "'Now march to the kitchen!' Barinov orders him to march to the kitchen right now. He says 'marsh' just like the English word. He wants his cook back to work."),
-    (10, None, "'A pile of orders is waiting for you there.' Barinov says a pile of orders is waiting for him there. 'Kucha chekov' literally means a pile of receipts. They are busy."),
-    (11, None, "'Thank you, chef, I am running!' Max thanks the chef and says he is running. He is happy to be back. 'Ya begu' means I am running."),
-    (12, None, "'Wait, where are you carrying that pan?' Barinov stops him and asks where he is carrying that pan. He notices his cook has something. 'Kuda' means where to."),
-    (13, None, "'To the workstation, chef!' Max replies he is taking it to his workstation. He is ready to cook. 'Rabochee mesto' is his working place."),
+    (0, None, '\'Max, why are you slacking off here?\' The Russian word means "cooling yourself off", and it comes from the same root as "cold", like the refrigerator. Russians use it for someone taking it easy. Barinov is already irritated.'),
+    (1, None, '\'What else am I to do, chef?\' Russian says "what to me still to do". It\'s the question of a good worker who has been given no job. Max sounds hurt, as he often does.'),
+    (2, None, '\'I was suspended from work today.\' The Russian says "they moved me aside", with nobody named. That\'s how Russians keep the blame out of a sentence, and Max uses it well.'),
+    (3, None, '\'Who suspended you? Me?\' Barinov repeats the word, and the pause between "who" and "me" is the joke. He cannot bear that anyone else makes decisions in his kitchen. His voice goes up on the last word.'),
+    (4, None, '\'Viktoria Sergeyevna told me to sit here.\' First name plus father\'s name is the polite way to name the art director. And "said to sit" takes the plain form of "sit", with no "that" between. Max names his source.'),
+    (5, None, '\'Since when do you listen to her?\' Russian says "from which times" for "since when". And "listen" means "obey" here, as when Senya promised to watch the score. Barinov is offended on his own behalf.'),
+    (6, None, '\'In this kitchen, only I am the boss!\' "Main" is what you heard in "who is most main". The "only" goes in front of the "I", for emphasis. Barinov says it with a slap of the table.'),
+    (7, None, '\'She promised to fire me, chef.\' "Promised" ends in -la, because a woman made the promise. The firing word is the one Alisa used when she threatened Lyova. Max reports faithfully and pushes the blame up the chain.'),
+    (8, None, '\'Only I can fire cooks!\' Barinov states his powers like a king. The thing fired takes the object ending, and "can" is short and sharp. His kitchen is his kingdom.'),
+    (9, None, '\'Now march to the kitchen!\' The first little word pushes, something like "come on, now". The second is a military "march". Barinov barks in two words, and Max is almost out of the door before the second.'),
+    (10, None, '\'A pile of orders is waiting for you there.\' Russians use "heap" for "lots". The printed order slips are "checks". And "waits for you" has a prefix that means "waits until you come", which is just what the chef means.'),
+    (11, None, '\'Thank you, chef, I am running!\' Max uses the on-foot present, "I run", in the middle of the movement. He is delighted, because washing dishes is the least of his talents.'),
+    (12, None, '\'Wait, where are you carrying that pan?\' The prefix on "carrying" marks the moment of setting off, so Barinov catches him in the act. The pan takes the object ending. The chef never lets a pan go unwatched.'),
+    (13, None, '\'To the workstation, chef!\' Literally, "to the working place". The words are short and obedient. Max uses his boss\'s title and does not argue. He keeps hold of the pan, and the scene ends.'),
 ]

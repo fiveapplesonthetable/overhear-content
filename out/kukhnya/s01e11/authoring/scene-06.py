@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'In the kitchen, waiter Kostya rushes to Chef Viktor Barinov with terrifying news. A guest at table seven, suspected of being a secret food critic, has just sent back her salad, complaining about the sour dressing. Listen to their panicked conversation in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this dramatic kitchen crisis.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A tense comedic moment as Chef Barinov prepares to defend his kitchen's reputation against a ruthless reviewer. Next time you watch the episode, listen for the Russian expressions for 'author's' and 'notepad' — you will catch every word right away. See you next time!"
+INTRO = 'Kostya has rushed into the kitchen with news. A suspected critic at table seven has sent back her salad. Barinov is stunned. No need to catch everything on the first pass.'
+OPENER = 'Now, step by step.'
+TRANSITION = 'Listen to it once more.'
+OUTRO = "The chef offers a dessert, but he's still sure his salad was perfect. The kitchen is in uproar. Talk soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('kostya', 'Шеф, внимание! На кухне чрезвычайная ситуация.', 'Chef, attention! An emergency situation in the kitchen.', [(72, 'внимание')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Я лично приготовлю ей десерт!', 'I will personally prepare her a dessert!', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, attention! There is an emergency in the kitchen.' Kostya calls for the chef's attention because there is an emergency in the kitchen. He is panicking. 'Chrezvychaynaya situatsiya' means emergency situation."),
-    (1, None, "'Kostya, what happened in the dining room?' Barinov asks the bartender what happened in the dining room. He wants to know the problem. 'V zale' refers to the dining area."),
-    (2, None, "'A presumed restaurant critic has been spotted!' Kostya announces a presumed restaurant critic has been spotted. He uses 'obnaruzhen' meaning discovered. It sounds like a military report."),
-    (3, None, "'She is sitting at table seven.' Kostya says she is sitting at table seven. He gives her exact location. The tension is rising."),
-    (4, None, "'And I have a refusal of the salad!' Kostya reveals he has a refusal of the salad. Someone sent food back. 'Otkaz' means a refusal or rejection."),
-    (5, None, "'What do you mean a refusal? My perfect salad?' Barinov is shocked and asks how someone could refuse his perfect salad. His pride is hurt. 'Idealnyy salat' means perfect salad."),
-    (6, None, "'She sent the plate back, chef.' Kostya confirms she returned the plate back to the kitchen. This is very bad news. 'Vernula tarelku' means returned the plate."),
-    (7, None, "'Which table? Definitely the seventh?' Barinov asks which table and if it is definitely the seventh. He needs to be sure. 'Tochno' means exactly or for sure."),
-    (8, None, "'Yes, a stern lady in glasses.' Kostya confirms it is the stern lady in glasses. He describes her appearance. 'V ochkakh' means wearing glasses."),
-    (9, None, "'What exactly did she dislike?' Barinov wants to know what exactly she disliked. He is ready to defend his food. 'Chto imenno' means what exactly."),
-    (10, None, "'She said that the sauce is too sour.' Vika explains she said the sauce is too sour. That is her specific complaint. 'Slishkom kislyy' means too sour."),
-    (11, None, "'This is a signature recipe of haute cuisine!' Barinov protests that this is a signature recipe of haute cuisine. He thinks she does not understand good food. 'Avtorskiy retsept' means author's recipe."),
-    (12, None, "'Chef, she has already opened a notepad.' Kostya warns the chef that she has already opened a notepad. This means she is writing a bad review. This is the worst sign."),
-    (13, None, "'I personally will make dessert for her!' Barinov declares he will personally make dessert for her. He wants to fix the situation himself. 'Lichno prigotovlyu' means I will personally prepare."),
+    (0, None, '\'Chef, attention! An emergency situation in the kitchen.\' What Russian calls "emergency" is a long, official word, literally "extraordinary". Kostya uses it to sound serious, and he is enjoying the big words.'),
+    (1, None, '\'Kostya, what happened in the dining room?\' Barinov is calm for a moment. It\'s the quiet before the shout. "What happened" is a phrase you know well by now, and "in the hall" is the dining room.'),
+    (2, None, '\'A suspected restaurant critic has been spotted!\' The grammar is bureaucratic: "has been discovered a supposed critic". Kostya sounds like a police bulletin, and he knows it. The joke is in the formality.'),
+    (3, None, '\'She is sitting at table seven.\' Russians sit "behind" a table, so the Russian is "behind the seventh little table". Kostya reports the precise position, like a lookout.'),
+    (4, None, '\'And I have a salad rejection!\' "At me a refusal" is how Russian says "I have one". A "refusal" is the waiters\' term for a dish sent back, and it\'s a serious word in a kitchen.'),
+    (5, None, '\'How, a rejection? My perfect salad?\' Barinov repeats "refusal" with a rising voice. "Perfect" is the word "ideal" with a Russian ending. The chef thinks his salad faultless, and his pride is hurt.'),
+    (6, None, '\'She sent the plate back, chef.\' The Russian for "gave back" is the one used for returning things. "Back" is the one in "half an hour ago". Kostya is nervous, and the plain words show it.'),
+    (7, None, '\'Which table? Definitely the seventh?\' Barinov wants to be sure he has the right guest. "Definitely" is the word he used about everything today. He is already planning how to win her back.'),
+    (8, None, '\'Yes, a strict lady in glasses.\' The term for "lady" is a formal one, borrowed from French. And glasses are always plural in Russian, so it\'s "in glasses", never "in a glass". Kostya gives a quick, clear description.'),
+    (9, None, '\'What exactly did she not like?\' Russian says "what exactly to her did not please", the same pattern as "do you like it". Barinov wants details, and he wants them now.'),
+    (10, None, '\'She said the sauce was too sour.\' Vika joins in with the complaint. "Too" is the little word you\'ve heard in "too slowly". She passes it on plainly, as a manager does.'),
+    (11, None, '\'This is an author recipe of haute cuisine!\' "By an author" is the Russian way to say "signature". Haute cuisine is "high kitchen". Barinov defends his work like an artist. He is wounded.'),
+    (12, None, '\'Chef, she has already opened a notepad.\' A critic\'s notepad opens, and the chef\'s heart drops. Kostya reports it like a weather forecast. "Opened" ends in -la because the woman did the opening.'),
+    (13, None, '\'I will personally prepare her a dessert!\' Barinov\'s answer to everything is food. "Personally" shows he\'ll do it himself, and "for her" is one small word. He means to charm her with sugar.'),
 ]

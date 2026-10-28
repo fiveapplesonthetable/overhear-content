@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Куда так быстро убежала эта девушка? | Where did this girl run so quickly? | #189: Где она? | verbatim |
-| 2 | Вика | Она сейчас побежала прямо в туалет. | She just ran straight to the restroom. | #189: Она в туалете | verbatim |
+| 1 | Шеф | Куда так быстро убежала эта девушка? | Where did this girl run so quickly? | #189 00:13:25: Где она? | verbatim |
+| 2 | Вика | Она сейчас побежала прямо в туалет. | She just ran straight to the restroom. | #189 00:13:25: Она в туалете | verbatim |
 | 3 | Шеф | Ей вдруг стало плохо в зале? | Did she suddenly feel ill in the dining room? | new | new |
-| 4 | Вика | Да, её только что сильно тошнило. | Yes, she was just feeling very nauseous. | #190: Ее сейчас так вырвало | verbatim |
-| 5 | Шеф | Неужели она отравилась нашей едой? | Could she really have gotten poisoned by our food? | #191: отравилась, наверное | verbatim |
+| 4 | Вика | Да, её только что сильно тошнило. | Yes, she was just feeling very nauseous. | #190 00:13:28: Ее сейчас так вырвало | verbatim |
+| 5 | Шеф | Неужели она отравилась нашей едой? | Could she really have gotten poisoned by our food? | #191 00:13:31: отравилась, наверное | verbatim |
 | 6 | Вика | Мы пока не знаем точной причины. | We do not know the exact reason yet. | new | new |
 | 7 | Шеф | На кухне все продукты всегда свежие. | In the kitchen all products are always fresh. | new | new |
 | 8 | Вика | Но гостье стало плохо после обеда. | But the guest felt ill after lunch. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did this girl run so quickly?' Barinov notices the guest rushing off. He wonders where she went in such a hurry.
-- 'She just ran straight to the restroom.' Vika explains the woman's destination. The guest hurried directly to the bathroom.
-- 'Did she suddenly feel ill in the dining room?' He gets worried about her health. The chef asks if she suddenly felt sick right there at the table.
-- 'Yes, she was just feeling very nauseous.' She confirms the bad news. The poor woman was clearly feeling sick to her stomach.
-- 'Could she really have gotten poisoned by our food?' Barinov jumps to a terrible conclusion. He fears that his cooking might have given her food poisoning.
-- 'We do not know the exact reason yet.' Vika tries not to panic just yet. She points out that they do not know for sure what caused it.
-- 'In the kitchen all products are always fresh.' He defends his kitchen standards. The boss insists that they only use the freshest ingredients available.
-- 'But the guest felt ill after lunch.' The manager states the obvious timing. The fact remains that the sickness happened right after she ate their food.
-- 'What if this is a secret restaurant critic?' Barinov remembers his biggest fear. He worries again that this sick person might be the reviewer.
-- 'Then our restaurant has big problems.' Vika agrees with his gloomy thought. If the critic got sick, the restaurant is in deep trouble.
-- 'We must urgently check everything in the kitchen.' He decides to do a safety check. The chef wants to inspect all the food to be absolutely sure.
-- 'I will go and find out her condition.' She takes on the social duty. The manager volunteers to go check on the sick woman in the restroom.
-- 'I hope everything ends well for us.' Barinov expresses a desperate wish. He really hopes this terrible situation will not ruin them.
+- 'Where did this girl run so quickly?' It's "where to", with the "away-run" word you know, the one in "ran away". Barinov asks as the news reaches him. He doesn't like it.
+- 'She just ran straight to the restroom.' The "po-" at the front of "ran" marks the start of the run, so "set off running". Vika points the way with a few quick words.
+- 'Did she suddenly feel ill in the dining room?' Russian says "to her suddenly became bad". The person is in the "to her" form, and the feeling "becomes". It's how Russians say they feel ill, with nobody doing anything.
+- 'Yes, she was just feeling very nauseous.' The Russian is "her just now strongly nauseated", an impersonal sentence with no subject. The woman is in the object form, because it is "it" that sickens her.
+- 'Could she really have gotten poisoned by our food?' The -as ending on "got poisoned" means she poisoned herself, by accident. "By our food" has the "by means of" endings. Barinov's face goes pale.
+- 'We do not know the exact reason yet.' "Yet" is that same little word that means "while" and "bye". After "not know", the reason takes the "of" form. Vika is careful, and she doesn't guess.
+- 'In the kitchen all products are always fresh.' Barinov is on the defensive. "Products" covers groceries and ingredients. "Always fresh" is two quick words. The pride in his kitchen is real.
+- 'But the guest felt ill after lunch.' "After lunch" uses the small word "posle". Vika has the timeline, and she lays it down plainly. She is not accusing, only noting.
+- 'What if this is a secret restaurant critic?' "A vdrug" is "and suddenly", and Russians use it as "what if". Barinov leaps from sickness to the worst thing he can think of. The critic is on his mind.
+- 'Then our restaurant has big problems.' Vika says "at our restaurant big problems", using "at" even for a building. It's a calm statement of a disaster. She doesn't raise her voice.
+- 'We must urgently check everything in the kitchen.' "Check" is the word that was used for the banquet. Barinov's answer to every problem is to check the kitchen. He is a systematic man.
+- 'I will go and find out her condition.' What Russian calls "condition" also means "fortune" and "state", as in the chef's money. Vika goes to find out. "Go and find out" again has no "and".
+- 'I hope everything ends well for us.' The prefix on "ends" gives the sense of completing. "For us" is one small word. Barinov's last line is a wish more than a belief. He doesn't have much else.

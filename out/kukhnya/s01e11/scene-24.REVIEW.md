@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | Костя, подожди секунду, выслушай меня пожалуйста. | Kostya, wait a second, listen to me please. | new | new |
-| 2 | Настя | Прости, что я глупо назвала тебя трусом. | Forgive me for stupidly calling you a coward. | #312: Прости, что назвала тебя трусом. | verbatim |
+| 2 | Настя | Прости, что я глупо назвала тебя трусом. | Forgive me for stupidly calling you a coward. | #312 00:21:04: Прости, что назвала тебя трусом. | verbatim |
 | 3 | Костя | Ты поступила со мной очень несправедливо. | You treated me very unfairly. | new | new |
 | 4 | Настя | Я сильно ошиблась и очень сожалею об этом. | I was very mistaken and deeply regret it. | new | new |
-| 5 | Шеф | Костя, ты уволен, быстро собирай свои вещи! | Kostya, you are fired, quickly pack your things! | #313: Костя, ты уволец, собирай вещи. | verbatim |
+| 5 | Шеф | Костя, ты уволен, быстро собирай свои вещи! | Kostya, you are fired, quickly pack your things! | #313 00:21:07: Костя, ты уволец, собирай вещи. | verbatim |
 | 6 | Костя | Шеф, неужели вы выгоняете меня с работы? | Chef, are you really driving me out of work? | new | new |
 | 7 | Шеф | Ты устроил скандал с важным ресторанным критиком! | You caused a scandal with an important restaurant critic! | new | new |
 | 8 | Настя | Шеф, это я во всём виновата! | Chef, it is I who am to blame for everything! | new | new |
 | 9 | Шеф | Мне всё равно, бармен уходит прямо сейчас. | I do not care, the bartender leaves right now. | new | new |
 | 10 | Костя | Хорошо, шеф, я сейчас же сниму форму. | All right, chef, I will take off the uniform immediately. | new | new |
 | 11 | Настя | Мы не можем потерять лучшего бармена ресторана. | We cannot lose the restaurant's best bartender. | new | new |
-| 12 | Шеф | У нашего ресторана сейчас будут огромные проблемы. | Our restaurant will have huge problems now. | #319: Я думаю, у нас большие проблемы. | verbatim |
+| 12 | Шеф | У нашего ресторана сейчас будут огромные проблемы. | Our restaurant will have huge problems now. | #319 00:21:24: Я думаю, у нас большие проблемы. | verbatim |
 | 13 | Настя | Мы должны всё исправить до выхода статьи. | We must fix everything before the article comes out. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, wait a second, listen to me please.' Nastya begs her boyfriend to wait a second and listen to her. She desperately wants to talk.
-- 'Forgive me for stupidly calling you a coward.' Nastya apologizes for foolishly calling him a coward earlier. She feels terrible about what she said.
-- 'You treated me very unfairly.' Kostya tells her that she treated him very unfairly. He is deeply hurt by her words.
-- 'I was very mistaken and deeply regret it.' Nastya admits she made a huge mistake and regrets it deeply. She knows she was completely wrong.
-- 'Kostya, you are fired, quickly pack your things!' Barinov angrily fires the bartender on the spot and tells him to pack his things fast. He is furious.
-- 'Chef, are you really driving me out of work?' Kostya is shocked and asks if the boss is really kicking him out. He cannot believe this is happening.
-- 'You caused a scandal with an important restaurant critic!' Barinov yells about the massive scandal caused with the VIP guest. It is an unforgivable offense.
-- 'Chef, it is I who am to blame for everything!' Nastya bravely steps in and claims all the blame for herself. She wants to save his job.
-- 'I do not care, the bartender leaves right now.' Barinov coldly says he does not care and the guy leaves immediately. He has made up his mind.
-- 'All right, chef, I will take off the uniform immediately.' Kostya accepts his fate and agrees to take off his uniform right away. He will not fight it.
-- 'We cannot lose the restaurant' Nastya argues they cannot afford to lose their best employee. She is trying everything to change his mind.
-- 'Our restaurant will have huge problems now.' Barinov points out the huge problems heading their way now. The business might not survive this.
-- 'We must fix everything before the article comes out.' Nastya insists they must fix everything before the terrible article is published. They still have a chance.
+- 'Kostya, wait a second, listen to me please.' "Hear out" has the prefix "vy-", so Nastya asks him to listen to the end. She uses "ty" with him, and she is gentle. She has run to catch him.
+- 'Forgive me for stupidly calling you a coward.' After "called", the coward takes the "as" ending. "Forgive" is the command he used himself in the previous scene. Nastya is honest, which costs her something.
+- 'You treated me very unfairly.' "Unfairly" is "not fairly", made from the word for justice. "Acted" recalls "wicked people act like that". Kostya is hurt, and he says so.
+- 'I was very mistaken and deeply regret it.' "Was mistaken" has the -las ending, "mistook herself". "Regret" is related to the word Barinov used when threatening Nagiyev. Nastya apologises in full.
+- 'Kostya, you are fired, quickly pack your things!' "You are fired" is a short passive form. "Pack" is literally "collect". "Things" is the word you've heard in "an important thing". Barinov is blunt.
+- 'Chef, are you really driving me out of work?' "Drive out" is the same word as for the family. "Out of work" is shown by the small word for "from". Kostya cannot believe it.
+- 'You caused a scandal with an important restaurant critic!' "Arranged" is how Russian says "staged" a scene. "With" shows in the ending of the critic. Barinov is stern. He thinks the harm has been done.
+- 'Chef, it is I who am to blame for everything!' "Guilty" is a short form that ends in -a for a woman. "For everything" is two words. Nastya takes the blame, and it is a brave thing to do.
+- 'I do not care, the bartender leaves right now.' "To me all the same" is the idiom you heard in the soup scene. "Bartender" is the English word. Barinov is cold. His decision is final.
+- 'All right, chef, I will take off the uniform immediately.' The Russian for "uniform" is the same as "form" or "shape". "Take off" is a short word. Kostya accepts, with dignity, and the uniform comes off.
+- 'We cannot lose the restaurant's best bartender.' "Lose" is the word in "lost her head". "Best" grows from "better". Nastya makes her case. She says "we", as if she belonged to the management.
+- 'Our restaurant will have huge problems now.' "At our restaurant will be" is the pattern for "will have". "Huge" stands for "huge thanks". Barinov is realistic. He knows what the article could say.
+- 'We must fix everything before the article comes out.' The term for "publication" is "exit", from the same family as "day off", the "exit day". Nastya sets the deadline. She is the practical one.

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Костя, кто самый главный в нашем ресторане? | Kostya, who is the most important in our restaurant? | #1: кто главный в ресторане? | verbatim |
-| 2 | Костя | Может быть, наш строгий шеф-повар? | Maybe our strict head chef? | #3: Шеф? | verbatim |
-| 3 | Макс | Или богатый хозяин ресторана Дмитрий? | Or the rich restaurant owner Dmitry? | #4: ресторана? | verbatim |
-| 4 | Костя | А может, наш строгий директор Виктория? | Or maybe our strict director Victoria? | #2: Директор? | verbatim |
-| 5 | Макс | Нет, самые главные здесь — это гости. | No, the most important here are the guests. | #5: Главный в ресторане — это гости. | verbatim |
-| 6 | Костя | Это правда, наши гости бывают разные. | That is true, our guests can be very different. | #7: гости бывают разные. | verbatim |
-| 7 | Макс | Одни гости бывают слишком жадными. | Some guests can be too stingy. | #8: Бывают очень жадные. | verbatim |
-| 8 | Костя | Другие гости бывают очень весёлыми. | Other guests can be very cheerful. | #13: Бывают очень | verbatim |
+| 1 | Макс | Костя, кто самый главный в нашем ресторане? | Kostya, who is the most important in our restaurant? | #1 00:00:16: кто главный в ресторане? | verbatim |
+| 2 | Костя | Может быть, наш строгий шеф-повар? | Maybe our strict head chef? | #3 00:00:22: Шеф? | verbatim |
+| 3 | Макс | Или богатый хозяин ресторана Дмитрий? | Or the rich restaurant owner Dmitry? | #4 00:00:24: ресторана? | verbatim |
+| 4 | Костя | А может, наш строгий директор Виктория? | Or maybe our strict director Victoria? | #2 00:00:19: Директор? | verbatim |
+| 5 | Макс | Нет, самые главные здесь — это гости. | No, the most important here are the guests. | #5 00:00:27: Главный в ресторане — это гости. | verbatim |
+| 6 | Костя | Это правда, наши гости бывают разные. | That is true, our guests can be very different. | #7 00:00:35: гости бывают разные. | verbatim |
+| 7 | Макс | Одни гости бывают слишком жадными. | Some guests can be too stingy. | #8 00:00:38: Бывают очень жадные. | verbatim |
+| 8 | Костя | Другие гости бывают очень весёлыми. | Other guests can be very cheerful. | #13 00:00:58: Бывают очень | verbatim |
 | 9 | Макс | И они часто обнимают тебя? | And do they often hug you? | new | new |
-| 10 | Костя | Да, постоянно говорят разные добрые слова. | Yes, they constantly say various kind words. | #17: Хороший ты парень, Костя. | verbatim |
+| 10 | Костя | Да, постоянно говорят разные добрые слова. | Yes, they constantly say various kind words. | #17 00:01:08: Хороший ты парень, Костя. | verbatim |
 | 11 | Макс | Они платят деньги за этот обед. | They pay money for this lunch. | new | new |
 | 12 | Костя | Поэтому мы всегда улыбаемся каждому гостю. | Therefore we always smile at every guest. | new | new |
 | 13 | Макс | Гость всегда остаётся самым главным. | The guest always remains the most important. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, who is the most important in our restaurant?' Max asks Kostya who the most important person is in their restaurant. He uses 'samyy glavnyy' to mean the main one. He wonders who is the boss.
-- 'Maybe our strict head chef?' Kostya guesses it might be their strict head chef. He adds 'mozhet byt' to mean maybe. It is a logical guess.
-- 'Or the rich restaurant owner Dmitry?' Max suggests it could be the rich restaurant owner, Dmitry. He uses 'ili' meaning or. Owners usually hold the most power.
-- 'Or maybe our strict director Victoria?' Kostya proposes another option, their strict director Victoria. He says 'a mozhet' as or maybe. She definitely acts like the boss.
-- 'No, the most important here are the guests.' Max corrects him, stating that the guests are the most important here. He is sharing a service industry motto. The word 'gosti' means guests.
-- 'That is true, our guests can be very different.' Kostya agrees this is true but notes their guests can be very different. He says 'eto pravda' for that is true. They see all kinds of people.
-- 'Some guests can be too stingy.' Max points out that some guests can be too stingy. He uses 'odni' to mean some here. The word 'zhadnymi' describes greedy people.
-- 'Other guests can be very cheerful.' Kostya adds that other guests can be very cheerful. He starts with 'drugie' meaning others. Cheerful guests are much better.
-- 'And do they often hug you?' Max jokes by asking if they often hug the bartender. He is making a funny observation. 'Obnimayut' means they are hugging.
-- 'Yes, they constantly say various kind words.' Kostya confirms and says they constantly say various kind words. He uses 'postoyanno' to mean constantly. It is nice when people are polite.
-- 'They pay money for this lunch.' Max reminds him that they pay money for this lunch. This is the real reason they are important. Cash makes them the boss.
-- 'Therefore we always smile at every guest.' Kostya concludes that therefore they always smile at every guest. He says 'poetomu' meaning for this reason. Smiling is part of their job.
-- 'The guest always remains the most important.' Max states firmly that the guest always remains the most important. He sums up his initial point. The customer is king.
+- 'Kostya, who is the most important in our restaurant?' Russian says "who most main", with no "is" at all. The word for "main" grows out of the Russian for "head", so the main person is simply the one at the head. Max asks it with a grin.
+- 'Maybe our strict head chef?' Word for word, Russians say "can be" for "maybe". And the job title is written as two words joined by a hyphen, "chef-cook". Kostya names Barinov first, the obvious choice.
+- 'Or the rich restaurant owner Dmitry?' There's no "of" here. The ending on "restaurant" does that job, so "owner of restaurant" is just two words side by side. Max keeps the guessing game going.
+- 'Or maybe our strict director Victoria?' Kostya says Victoria, not Vika, because he is naming her as a boss. The "and maybe" at the start adds a third guess. He is running down the staff list, having fun.
+- 'No, the most important here are the guests.' Where English says "are", Russian often puts a dash and a little "this". The describing word is plural to match "guests". Max has the answer, and he says it with a flourish.
+- 'That is true, our guests can be very different.' Russians say that guests "happen" different, meaning they come in all kinds. Kostya agrees at once. He has watched them for years from behind the bar.
+- 'Some guests can be too stingy.' Russian lines up "some" and "others" as "ones" and "others", just like English "some ... others". "Stingy" is literally "greedy". Max starts with the bad kind.
+- 'Other guests can be very cheerful.' Kostya now gives the opposite type, the guests who make the shift fun. He uses the same "can be" as before, so the two lines sound like two halves of one list.
+- 'And do they often hug you?' Max is teasing his friend. Cheerful guests tend to cling to the bartender, so it's a fair question. The Russian "hug" means to put your arms around someone.
+- 'Yes, they constantly say various kind words.' "Constantly" comes from the same root as "regular" guests, since regulars are the constant ones. Kostya sounds mildly embarrassed, and a little pleased too.
+- 'They pay money for this lunch.' Max states the plain commercial truth. Russian puts "for" before the thing you pay for, as English does. The midday meal here matches the one in the lunch hall.
+- 'Therefore we always smile at every guest.' The little ending -sya on "smile" turns it into "smile oneself", a common Russian habit. And "to every guest" shows the "to" in the endings. Kostya recites the rule of his job.
+- 'The guest always remains the most important.' Max closes the thought neatly. "Remains" carries the -sya ending again, and the guest is described by a role, so "most important" takes a special ending. A tidy last line.
