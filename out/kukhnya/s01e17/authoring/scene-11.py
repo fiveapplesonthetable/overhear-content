@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Caught in the middle of a bitter quarrel between his friends and his girlfriend Sasha, Max searches for a way to bring everyone back together. He suddenly realizes that tomorrow is his own birthday, which could be the perfect excuse for peace. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this conversation line by line."
+INTRO = 'Max is caught between his girlfriend Vika and his friends, who have just fallen out at the bar. He wants them all to make peace and asks Kostya for ideas. Then, mid-conversation, he realises what tomorrow is. First, the Russian.'
+OPENER = "Now let's slow it down."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Realizing that nobody will believe a direct announcement, Max comes up with a sly scheme to make Sasha spread the news about his birthday for him. Next time you watch the episode, listen for the Russian expressions for 'to do' and 'friend' — you will catch every word right away. See you next time!"
+OUTRO = "Max has a plan, if a slightly dishonest one: a birthday nobody knew about. Remember that Russians say 'day of birth' for 'birthday', and the second word takes an ending. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Что делать, если друзья и девушка поссорились?', 'What to do if friends and girlfriend quarreled?', [(135, 'если твои друзья и твоя девушка поссорились')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Значит, тебе надо придумать хитрый план.', 'That means you need to invent a clever plan.', [], ''),
 ]
 WALK = [
-    (0, None, "'What to do if friends and girlfriend quarreled?' Max asks for advice on handling a fight between his friends and girlfriend."),
-    (1, None, "'Clearly, one must reconcile them quickly.' Kostya states the obvious need to quickly reconcile the group."),
-    (2, None, "'But how can I do this today?' Max wonders how he can possibly pull that off in a single day."),
-    (3, None, "'A good reason for a shared holiday is needed.' Kostya suggests finding a good excuse for a shared celebration."),
-    (4, None, "'For example, a cheerful birthday!' Max sarcastically suggests a cheerful birthday party."),
-    (5, None, "'On such a day everyone must forget grudges.' Kostya notes that people are forced to forget their grudges on such occasions."),
-    (6, None, "'Exactly! Tomorrow is my birthday!' Max suddenly realizes his own birthday is tomorrow."),
-    (7, None, "'How could I forget about this myself?' Max is shocked that he managed to forget his own special day."),
-    (8, None, "'Seriously, how could you forget your holiday?' Kostya shares the disbelief, wondering how anyone forgets their own holiday."),
-    (9, None, "'I did not tell anyone anything before.' Max points out he hasn't mentioned his birthday to anyone yet."),
-    (10, None, "'And then suddenly tomorrow is your birthday.' Kostya realizes the sudden announcement will look incredibly suspicious."),
-    (11, None, "'They will not believe me just like that.' Max agrees that his friends will think he is making it up."),
-    (12, None, "'That means you need to invent a clever plan.' Kostya concludes that they need to invent a clever trick to make it convincing."),
+    (0, None, "'What do you do if your friends and your girlfriend have quarrelled?' 'What to do' is the plain verb, with no 'you'. 'Quarrelled' ends in 's' with a soft sign, 'with each other'."),
+    (1, None, "'Obviously you have to make them up quickly.' 'Make peace' is built from the word for peace. 'Them it's necessary to reconcile' is the order."),
+    (2, None, "'But how can I do it today?' 'To me' stands for the ability, so it's 'how to-me this to do'. 'Today' is a word you'll hear every day."),
+    (3, None, "'We need a good reason for a shared celebration.' 'Needed' is masculine to match 'reason'. 'Shared' and 'holiday' take the 'of' ending."),
+    (4, None, "'For example, a happy birthday!' Russian says 'day of birth' for 'birthday', and the second word has an 'ya' ending. 'Cheerful' is the word you'd use for a cheerful person."),
+    (5, None, "'On a day like that, everyone should forget their grudges.' 'In such a day' is used for 'on a day like that'. 'Must' is plural to go with 'everyone'."),
+    (6, None, "'Exactly! My birthday is tomorrow!' 'At me tomorrow birthday' is the way to say 'I have a birthday tomorrow'. 'Exactly' is a one-word reaction."),
+    (7, None, "'How could I forget about this myself?' 'Could' has the masculine ending, and the little word for 'about' gets a 'b' before a vowel. 'Myself' is a short word."),
+    (8, None, "'Seriously, how could you forget your own holiday?' 'Own' is the word that points back to the speaker. 'Holiday' is the same word Kostya used before."),
+    (9, None, "'I never told anyone anything.' Count the negatives: 'to no one', 'nothing', 'not'. Russian wants them all."),
+    (10, None, "'And then suddenly tomorrow is your birthday.' 'And here' sets up the surprise. 'Suddenly' is the word you'd use in a story."),
+    (11, None, "'They won't just believe me.' Russians 'believe to' someone, so 'me' takes the 'to me' form. 'Just like that' is a fixed phrase for 'so easily'."),
+    (12, None, "'So you need to dream up a clever plan.' 'Clever' comes from the word for cunning. 'Dream up' is the finished form of 'think'."),
 ]

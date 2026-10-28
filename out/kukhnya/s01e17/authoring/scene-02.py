@@ -10,13 +10,13 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Carrying their market purchases through the street, Viktor and Max head back toward Claude Monet. Max brings up rumors about their competitors, prompting Viktor to vigorously defend the honor of his kitchen. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "Barinov and Max are carrying the market's fish back to Claude Monet. Max says he's heard good things about the restaurant next door, and the chef takes it as an insult. We'll hear it in Russian first."
+OPENER = "Let's take it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Arriving at the back entrance of Claude Monet, Viktor and Max step inside, ready to face another demanding day in the restaurant kitchen. Next time you watch the episode, listen for the Russian expressions for 'to hold' and 'fish' — you will catch every word right away. See you next time!"
+OUTRO = "Max gives in and agrees on the spot, as an apprentice should. If you ever need to agree strongly, 'a hundred percent' works just as well in Russian as in English. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('max', 'Витя, держи рыбу крепче!', 'Vitya, hold the fish tighter!', [(33, 'Вить!'), (34, 'Сынче,')], ''),
+    ('barinov', 'Макс, держи рыбу крепче!', 'Max, hold the fish tighter!', [(33, 'Вить!'), (34, 'Сынче,')], ''),
     ('max', 'Шеф, я держу всё очень крепко.', 'Chef, I am holding everything very tightly.', [], ''),
     ('barinov', 'Мы уже почти пришли в ресторан.', 'We have already almost arrived at the restaurant.', [], ''),
     ('max', 'Вы действительно пойдёте в соседний ресторан?', 'Will you really go to the neighboring restaurant?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Тогда быстро иди работать на кухню.', 'Then quickly go work in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, hold the fish tighter!' Max barks an order to hold the fish tighter on their walk back."),
-    (1, None, "'Chef, I am holding everything very tightly.' Max protests that he is already gripping it as tight as he can."),
-    (2, None, "'We have already almost arrived at the restaurant.' Barinov points out they are almost at their restaurant anyway."),
-    (3, None, "'Will you really go to the neighboring restaurant?' Max questions if his boss really intends to visit the competing restaurant next door."),
-    (4, None, "'I have nothing better to do, Max.' Barinov sarcastically replies that he has nothing better to do."),
-    (5, None, "'They say they cook pretty good dishes there.' Max mentions rumors that the competitor prepares decent food."),
-    (6, None, "'Who told you such foolishness?' Barinov demands to know who has been spreading such nonsense."),
-    (7, None, "'A good friend of mine told me.' Max vaguely credits a good friend with the information."),
-    (8, None, "'Your friend understands nothing about food.' Barinov dismisses the source, claiming the friend understands nothing about food."),
-    (9, None, "'Probably you are right, chef.' Max quickly backs down and agrees with his boss."),
-    (10, None, "'Our restaurant is the best in the city.' Barinov proudly declares their establishment the best in the city."),
-    (11, None, "'I agree with you one hundred percent.' Max emphatically agrees one hundred percent."),
-    (12, None, "'Then quickly go work in the kitchen.' Barinov orders his apprentice to hurry up and get to work in the kitchen."),
+    (0, None, "'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' is a single word, with the 'che' ending doing the work of 'er'."),
+    (1, None, "'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' ends in 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time."),
+    (2, None, "'We've almost reached the restaurant.' 'Almost' and 'already' are the two small words. The word for 'came' is the one for arriving on foot, and 'to the restaurant' is a direction, so the restaurant doesn't change."),
+    (3, None, "'Are you really going to the neighboring restaurant?' 'Really' is a long word, but you can hear 'actual' in it. 'Will go' is a polite plural, since Max is speaking to the chef."),
+    (4, None, "'I have nothing better to do, Max.' The Russian is 'to do more nothing', which is an idiom for a sneer. 'To me' stands in for 'I'."),
+    (5, None, "'They say they cook pretty good dishes there.' 'They say' has no 'they', so it's the way to say 'people say'. 'Not bad' is one word, here in the plural form, and 'dishes' is plural too."),
+    (6, None, "'Who told you such nonsense?' 'Who' comes first, then 'to you', since you tell things 'to' someone. 'Nonsense' is built from the word for 'stupid'."),
+    (7, None, "'A good friend of mine told me.' Russian says 'one my good friend', where 'one' means 'a certain'. 'Told' is the ongoing kind, as in a chat over time."),
+    (8, None, "'Your friend understands nothing about food.' Russian doubles the negative: 'nothing' and 'not' appear together. You understand 'in' food, so the little word for 'in' comes before 'food'."),
+    (9, None, "'Probably you're right, chef.' 'Probably' is one word. 'Right' is a short form here, in the plural polite form."),
+    (10, None, "'Our restaurant is the best in the city.' The dash stands in for 'is'. 'Most best' sounds odd in English, but Russian often stacks the two for emphasis."),
+    (11, None, "'I agree with you a hundred percent.' 'Agree' is a short form, and a woman would say it a different way. 'Hundred percent' needs 'to' in front of it, as in 'to a hundred percent'."),
+    (12, None, "'Then quickly go and work in the kitchen.' Russian says 'go work' with no 'and' between, as do many languages. 'To the kitchen' uses the little word for 'on', which is the one for work places."),
 ]

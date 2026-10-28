@@ -58,7 +58,7 @@
     },
     {
       "seg": 2,
-      "trans": "It is the chef",
+      "trans": "This is a new dish from the chef.",
       "words": [
         {
           "t": "Это",
@@ -77,14 +77,6 @@
           "gram": "nominative singular, neuter"
         },
         {
-          "t": "сезонное",
-          "lemma": "сезонный",
-          "pos": "adj",
-          "stress": "сезо́нное",
-          "gloss": "seasonal",
-          "gram": "neuter, accusative singular"
-        },
-        {
           "t": "блюдо",
           "lemma": "блюдо",
           "pos": "noun",
@@ -101,12 +93,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
+          "t": "шефа.",
+          "lemma": "шеф",
           "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
         }
       ]
     },
@@ -228,7 +220,7 @@
     },
     {
       "seg": 5,
-      "trans": "The guy came up with the chef",
+      "trans": "A man invented a dish instead of the chef.",
       "words": [
         {
           "t": "Человек",
@@ -255,22 +247,6 @@
           "gram": "neuter singular, accusative"
         },
         {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "шеф-повара",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
-        },
-        {
           "t": "вместо",
           "lemma": "вместо",
           "pos": "prep",
@@ -279,34 +255,50 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
+          "t": "шефа.",
+          "lemma": "шеф",
           "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "The chef is going to flip.",
+      "trans": "The chef will be furious.",
       "words": [
         {
-          "t": "Шеф-повар",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повар",
-          "gloss": "head chef",
-          "gram": "masculine singular, nominative"
+          "t": "Шеф",
+          "lemma": "шеф",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chef",
+          "gram": "proper name"
         },
         {
-          "t": "угонит.",
-          "lemma": "угнать",
+          "t": "будет",
+          "lemma": "быть",
           "pos": "verb",
-          "stress": "уго́нит",
-          "gloss": "to flip (slang) / steal",
-          "gram": "3rd person singular"
+          "stress": "бу́дет",
+          "gloss": "will be",
+          "gram": "future, 3rd person singular"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "ярости.",
+          "lemma": "ярость",
+          "pos": "noun",
+          "stress": "я́рости",
+          "gloss": "fury",
+          "gram": "feminine singular prepositional"
         }
       ]
     },
@@ -552,31 +544,23 @@
     },
     {
       "seg": 11,
-      "trans": "I thought, buy him this slicer.",
+      "trans": "Fine, we will buy him this slicer.",
       "words": [
         {
-          "t": "Я-то",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "я́-то",
-          "gloss": "I",
-          "gram": "pronoun"
+          "t": "Ладно,",
+          "lemma": "ладно",
+          "pos": "part",
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
-          "t": "думал,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́мал",
-          "gloss": "thought",
-          "gram": "past, masculine singular, imperfective"
-        },
-        {
-          "t": "купи",
+          "t": "купим",
           "lemma": "купить",
           "pos": "verb",
-          "stress": "купи́",
-          "gloss": "buy",
-          "gram": "2nd person singular imperative"
+          "stress": "ку́пим",
+          "gloss": "will buy",
+          "gram": "1st person plural future, perfective"
         },
         {
           "t": "ему",
@@ -644,7 +628,7 @@
     },
     {
       "seg": 13,
-      "trans": "After all, someone has got to give birth to the chef",
+      "trans": "After all, somebody has to invent dishes!",
       "words": [
         {
           "t": "В",
@@ -663,7 +647,7 @@
           "gram": "prepositional singular, masculine"
         },
         {
-          "t": "концов!",
+          "t": "концов,",
           "lemma": "конец",
           "pos": "noun",
           "stress": "концо́в",
@@ -671,7 +655,7 @@
           "gram": "genitive plural, masculine"
         },
         {
-          "t": "Кто-то",
+          "t": "кто-то",
           "lemma": "кто-то",
           "pos": "pron",
           "stress": "кто́-то",
@@ -687,52 +671,20 @@
           "gram": "short form, masculine singular"
         },
         {
-          "t": "у",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "at, near, with",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "нас",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural, genitive"
-        },
-        {
-          "t": "рожать",
-          "lemma": "рожать",
+          "t": "придумывать",
+          "lemma": "придумывать",
           "pos": "verb",
-          "stress": "рожа́ть",
-          "gloss": "to give birth",
-          "gram": "infinitive"
+          "stress": "приду́мывать",
+          "gloss": "to think up, to invent",
+          "gram": "imperfective infinitive"
         },
         {
-          "t": "блюдо",
+          "t": "блюда!",
           "lemma": "блюдо",
           "pos": "noun",
-          "stress": "блю́до",
-          "gloss": "dish",
-          "gram": "neuter singular, accusative"
-        },
-        {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "блю́да",
+          "gloss": "of dish",
+          "gram": "neuter inanimate noun, genitive singular"
         }
       ]
     },
@@ -792,7 +744,7 @@
     },
     {
       "seg": 17,
-      "trans": "It is the chef",
+      "trans": "This is a new dish from the chef.",
       "words": [
         {
           "t": "Это",
@@ -811,14 +763,6 @@
           "gram": "nominative singular, neuter"
         },
         {
-          "t": "сезонное",
-          "lemma": "сезонный",
-          "pos": "adj",
-          "stress": "сезо́нное",
-          "gloss": "seasonal",
-          "gram": "neuter, accusative singular"
-        },
-        {
           "t": "блюдо",
           "lemma": "блюдо",
           "pos": "noun",
@@ -835,12 +779,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
+          "t": "шефа.",
+          "lemma": "шеф",
           "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
         }
       ]
     },
@@ -962,7 +906,7 @@
     },
     {
       "seg": 23,
-      "trans": "The guy came up with the chef",
+      "trans": "A man invented a dish instead of the chef.",
       "words": [
         {
           "t": "Человек",
@@ -989,22 +933,6 @@
           "gram": "neuter singular, accusative"
         },
         {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "шеф-повара",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
-        },
-        {
           "t": "вместо",
           "lemma": "вместо",
           "pos": "prep",
@@ -1013,34 +941,50 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
+          "t": "шефа.",
+          "lemma": "шеф",
           "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
         }
       ]
     },
     {
       "seg": 25,
-      "trans": "The chef is going to flip.",
+      "trans": "The chef will be furious.",
       "words": [
         {
-          "t": "Шеф-повар",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повар",
-          "gloss": "head chef",
-          "gram": "masculine singular, nominative"
+          "t": "Шеф",
+          "lemma": "шеф",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chef",
+          "gram": "proper name"
         },
         {
-          "t": "угонит.",
-          "lemma": "угнать",
+          "t": "будет",
+          "lemma": "быть",
           "pos": "verb",
-          "stress": "уго́нит",
-          "gloss": "to flip (slang) / steal",
-          "gram": "3rd person singular"
+          "stress": "бу́дет",
+          "gloss": "will be",
+          "gram": "future, 3rd person singular"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "ярости.",
+          "lemma": "ярость",
+          "pos": "noun",
+          "stress": "я́рости",
+          "gloss": "fury",
+          "gram": "feminine singular prepositional"
         }
       ]
     },
@@ -1286,31 +1230,23 @@
     },
     {
       "seg": 35,
-      "trans": "I thought, buy him this slicer.",
+      "trans": "Fine, we will buy him this slicer.",
       "words": [
         {
-          "t": "Я-то",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "я́-то",
-          "gloss": "I",
-          "gram": "pronoun"
+          "t": "Ладно,",
+          "lemma": "ладно",
+          "pos": "part",
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
-          "t": "думал,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́мал",
-          "gloss": "thought",
-          "gram": "past, masculine singular, imperfective"
-        },
-        {
-          "t": "купи",
+          "t": "купим",
           "lemma": "купить",
           "pos": "verb",
-          "stress": "купи́",
-          "gloss": "buy",
-          "gram": "2nd person singular imperative"
+          "stress": "ку́пим",
+          "gloss": "will buy",
+          "gram": "1st person plural future, perfective"
         },
         {
           "t": "ему",
@@ -1378,7 +1314,7 @@
     },
     {
       "seg": 39,
-      "trans": "After all, someone has got to give birth to the chef",
+      "trans": "After all, somebody has to invent dishes!",
       "words": [
         {
           "t": "В",
@@ -1397,7 +1333,7 @@
           "gram": "prepositional singular, masculine"
         },
         {
-          "t": "концов!",
+          "t": "концов,",
           "lemma": "конец",
           "pos": "noun",
           "stress": "концо́в",
@@ -1405,7 +1341,7 @@
           "gram": "genitive plural, masculine"
         },
         {
-          "t": "Кто-то",
+          "t": "кто-то",
           "lemma": "кто-то",
           "pos": "pron",
           "stress": "кто́-то",
@@ -1421,52 +1357,20 @@
           "gram": "short form, masculine singular"
         },
         {
-          "t": "у",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "at, near, with",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "нас",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural, genitive"
-        },
-        {
-          "t": "рожать",
-          "lemma": "рожать",
+          "t": "придумывать",
+          "lemma": "придумывать",
           "pos": "verb",
-          "stress": "рожа́ть",
-          "gloss": "to give birth",
-          "gram": "infinitive"
+          "stress": "приду́мывать",
+          "gloss": "to think up, to invent",
+          "gram": "imperfective infinitive"
         },
         {
-          "t": "блюдо",
+          "t": "блюда!",
           "lemma": "блюдо",
           "pos": "noun",
-          "stress": "блю́до",
-          "gloss": "dish",
-          "gram": "neuter singular, accusative"
-        },
-        {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "блю́да",
+          "gloss": "of dish",
+          "gram": "neuter inanimate noun, genitive singular"
         }
       ]
     },
@@ -1526,7 +1430,7 @@
     },
     {
       "seg": 42,
-      "trans": "It is the chef",
+      "trans": "This is a new dish from the chef.",
       "words": [
         {
           "t": "Это",
@@ -1545,14 +1449,6 @@
           "gram": "nominative singular, neuter"
         },
         {
-          "t": "сезонное",
-          "lemma": "сезонный",
-          "pos": "adj",
-          "stress": "сезо́нное",
-          "gloss": "seasonal",
-          "gram": "neuter, accusative singular"
-        },
-        {
           "t": "блюдо",
           "lemma": "блюдо",
           "pos": "noun",
@@ -1569,12 +1465,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
+          "t": "шефа.",
+          "lemma": "шеф",
           "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
         }
       ]
     },
@@ -1696,7 +1592,7 @@
     },
     {
       "seg": 45,
-      "trans": "The guy came up with the chef",
+      "trans": "A man invented a dish instead of the chef.",
       "words": [
         {
           "t": "Человек",
@@ -1723,22 +1619,6 @@
           "gram": "neuter singular, accusative"
         },
         {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "шеф-повара",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
-        },
-        {
           "t": "вместо",
           "lemma": "вместо",
           "pos": "prep",
@@ -1747,34 +1627,50 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
+          "t": "шефа.",
+          "lemma": "шеф",
           "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
         }
       ]
     },
     {
       "seg": 46,
-      "trans": "The chef is going to flip.",
+      "trans": "The chef will be furious.",
       "words": [
         {
-          "t": "Шеф-повар",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повар",
-          "gloss": "head chef",
-          "gram": "masculine singular, nominative"
+          "t": "Шеф",
+          "lemma": "шеф",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chef",
+          "gram": "proper name"
         },
         {
-          "t": "угонит.",
-          "lemma": "угнать",
+          "t": "будет",
+          "lemma": "быть",
           "pos": "verb",
-          "stress": "уго́нит",
-          "gloss": "to flip (slang) / steal",
-          "gram": "3rd person singular"
+          "stress": "бу́дет",
+          "gloss": "will be",
+          "gram": "future, 3rd person singular"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "ярости.",
+          "lemma": "ярость",
+          "pos": "noun",
+          "stress": "я́рости",
+          "gloss": "fury",
+          "gram": "feminine singular prepositional"
         }
       ]
     },
@@ -2020,31 +1916,23 @@
     },
     {
       "seg": 51,
-      "trans": "I thought, buy him this slicer.",
+      "trans": "Fine, we will buy him this slicer.",
       "words": [
         {
-          "t": "Я-то",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "я́-то",
-          "gloss": "I",
-          "gram": "pronoun"
+          "t": "Ладно,",
+          "lemma": "ладно",
+          "pos": "part",
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
-          "t": "думал,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́мал",
-          "gloss": "thought",
-          "gram": "past, masculine singular, imperfective"
-        },
-        {
-          "t": "купи",
+          "t": "купим",
           "lemma": "купить",
           "pos": "verb",
-          "stress": "купи́",
-          "gloss": "buy",
-          "gram": "2nd person singular imperative"
+          "stress": "ку́пим",
+          "gloss": "will buy",
+          "gram": "1st person plural future, perfective"
         },
         {
           "t": "ему",
@@ -2112,7 +2000,7 @@
     },
     {
       "seg": 53,
-      "trans": "After all, someone has got to give birth to the chef",
+      "trans": "After all, somebody has to invent dishes!",
       "words": [
         {
           "t": "В",
@@ -2131,7 +2019,7 @@
           "gram": "prepositional singular, masculine"
         },
         {
-          "t": "концов!",
+          "t": "концов,",
           "lemma": "конец",
           "pos": "noun",
           "stress": "концо́в",
@@ -2139,7 +2027,7 @@
           "gram": "genitive plural, masculine"
         },
         {
-          "t": "Кто-то",
+          "t": "кто-то",
           "lemma": "кто-то",
           "pos": "pron",
           "stress": "кто́-то",
@@ -2155,52 +2043,20 @@
           "gram": "short form, masculine singular"
         },
         {
-          "t": "у",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "at, near, with",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "нас",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural, genitive"
-        },
-        {
-          "t": "рожать",
-          "lemma": "рожать",
+          "t": "придумывать",
+          "lemma": "придумывать",
           "pos": "verb",
-          "stress": "рожа́ть",
-          "gloss": "to give birth",
-          "gram": "infinitive"
+          "stress": "приду́мывать",
+          "gloss": "to think up, to invent",
+          "gram": "imperfective infinitive"
         },
         {
-          "t": "блюдо",
+          "t": "блюда!",
           "lemma": "блюдо",
           "pos": "noun",
-          "stress": "блю́до",
-          "gloss": "dish",
-          "gram": "neuter singular, accusative"
-        },
-        {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "ше́ф-повара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
+          "stress": "блю́да",
+          "gloss": "of dish",
+          "gram": "neuter inanimate noun, genitive singular"
         }
       ]
     },
@@ -6341,6 +6197,482 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": [
+        {
+          "word": "шефный",
+          "gloss": "related to boss (adj.)"
+        }
+      ]
+    },
+    "быть": {
+      "lemma": "быть",
+      "stress": "быть",
+      "pos": "verb",
+      "gloss": "to be; there is",
+      "aspect": "impf",
+      "pair": null,
+      "meanings": [
+        {
+          "en": "to be",
+          "note": "the present tense is normally left out: я мэр = I am the mayor"
+        },
+        {
+          "en": "there is, there are",
+          "note": "Present есть; у меня есть = I have. Used as an imperfective (ongoing/repeated action) verb meaning 'to be; there is'."
+        },
+        {
+          "en": "will (with an imperfective infinitive)",
+          "note": "future: буду / будешь ... + infinitive"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "есть",
+              "есть"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "есть",
+              "есть"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "есть",
+              "есть"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Future",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "буду",
+                "будем"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "будешь",
+                "будете"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "будет",
+                "будут"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "был",
+                "была",
+                "было",
+                "были"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "будь",
+                "будьте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У меня есть машинка.",
+          "trans": "I have a toy car."
+        },
+        {
+          "text": "Детство было трудное.",
+          "trans": "Childhood was hard."
+        },
+        {
+          "text": "Ты будешь просить прощения.",
+          "trans": "You will be asking for forgiveness."
+        }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
+      ]
+    },
+    "ярость": {
+      "lemma": "ярость",
+      "stress": "я́рость",
+      "pos": "noun",
+      "gloss": "fury, rage",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "intense anger",
+          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'fury, rage' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ярость",
+              "ярости"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ярости",
+              "яростей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ярости",
+              "яростям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ярость",
+              "ярости"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "яростью",
+              "яростями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ярости",
+              "яростях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это ярость.",
+          "trans": "This is a fury, rage."
+        },
+        {
+          "text": "Шеф будет в ярости, если узнает!",
+          "trans": "The chef will be furious if he finds out!"
+        },
+        {
+          "text": "Кажется, шеф в настоящей ярости.",
+          "trans": "It seems the chef is in a real fury."
+        }
+      ],
+      "related": [
+        {
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
+        }
+      ]
+    },
+    "ладно": {
+      "lemma": "ладно",
+      "stress": "ла́дно",
+      "pos": "part",
+      "gloss": "all right, OK",
+      "meanings": [
+        {
+          "en": "all right, OK",
+          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ладно, держи.",
+          "trans": "All right, here you go."
+        },
+        {
+          "text": "Ладно, я иду.",
+          "trans": "OK, I'm coming."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
+        }
+      ],
+      "related": [
+        {
+          "word": "ладный",
+          "gloss": "all right (adjective)"
+        }
+      ]
+    },
+    "придумывать": {
+      "lemma": "придумывать",
+      "stress": "приду́мывать",
+      "pos": "verb",
+      "gloss": "to think up, to invent",
+      "aspect": "impf",
+      "pair": "придумать",
+      "meanings": [
+        {
+          "en": "to think up, to invent, to make up",
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думывать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to think up, to invent', paired with 'придумать'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "придумываю",
+              "придумываем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "придумываешь",
+              "придумываете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "придумывает",
+              "придумывают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "придумывал",
+                "придумывала",
+                "придумывало",
+                "придумывали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "придумывай",
+                "придумывайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "А что тут придумывать?",
+          "trans": "And what is there to think up?"
+        },
+        {
+          "text": "Не надо ничего придумывать.",
+          "trans": "There's no need to make anything up."
+        },
+        {
+          "text": "А что тут придумывать? Всё, приехали, это финиш!",
+          "trans": "And what is there to think up? That's it, we've arrived, this is the finish!"
+        }
+      ],
+      "related": [
+        {
+          "word": "придумать",
+          "gloss": "to think up"
+        },
+        {
+          "word": "раздумывать",
+          "gloss": "to ponder"
+        },
+        {
+          "word": "выдумывать",
+          "gloss": "to invent"
         }
       ]
     }

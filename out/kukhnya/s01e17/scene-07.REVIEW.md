@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Привет! А вот и мы. | Hi! Here we are. | #86: бы здесь поработал. | verbatim |
+| 1 | Настя | Привет! А вот и мы. | Hi! Here we are. | #86 00:05:56: бы здесь поработал. | verbatim |
 | 2 | Макс | А, познакомьтесь, это Вика. | Oh, meet Vika. | new | new |
 | 3 | Настя | Вообще-то мы знакомы с Викторией Сергеевной. | Actually, we know Victoria Sergeyevna. | new | new |
 | 4 | Макс | Не-не-не, стоп. Это просто Вика, моя девушка. | No, stop. She is just Vika, my girlfriend. | new | new |
@@ -19,25 +19,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Ладно, садитесь. Садитесь сюда. | All right, sit down. Sit here. | new | new |
 | 8 | Макс | Располагайтесь поудобнее. | Make yourself comfortable. | new | new |
 | 9 | Макс | А я пойду принесу выпить, окей? | I will go grab us something to drink, okay? | new | new |
-| 10 | Настя | В смысле, если бы не было нашего ресторана... | I mean, if we didn't have our restaurant... | new | new |
-| 11 | Настя | я бы тут поработала. | I would work here. | new | new |
+| 10 | Настя | Мы с Викой вместе работаем. | Vika and I work together. | new | new |
+| 11 | Настя | Мы просто коллеги. | We are just colleagues. | new | new |
 | 12 | Макс | Ну что, а вот и веселье. | Well, here comes the fun. | new | new |
-| 13 | Макс | Давайте разбираем. | Let's dig in. | new | new |
+| 13 | Макс | Давайте выпьем! | Let us have a drink! | new | new |
 | 14 | Макс | Давайте за встречу. | Let's drink to seeing each other. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi! Here we are.' Nastya cheerfully announces their arrival at the table.
-- 'Oh, meet Vika.' Max formally introduces his girlfriend to the couple.
-- 'Actually, we know Victoria Sergeyevna.' Nastya points out they are already acquainted from work.
-- 'No, stop. She is just Vika, my girlfriend.' Max tries to keep things casual, referring to her simply as his girlfriend.
-- 'Vika, this is just Nastya and Kostya.' Max introduces the other two by their first names.
-- 'Well, from work.' Vika coldly clarifies that they only know each other from work.
-- 'All right, sit down. Sit here.' Max gestures for everyone to take a seat at the table.
-- 'Make yourself comfortable.' Max encourages his friends to get comfortable.
-- 'I will go grab us something to drink, okay?' Max offers to go fetch some drinks for the table.
-- 'I mean, if we didn't have our restaurant...' Nastya makes a passive-aggressive comment about their workplace.
-- 'I would work here.' Nastya implies she wouldn't mind taking a shift at their restaurant.
-- 'Well, here comes the fun.' Max returns with drinks, hoping to kick off the fun.
-- 'Let's dig in.' Max encourages everyone to grab a glass.
-- 'Let's drink to seeing each other.' Max proposes a toast to their get-together.
+- 'Hi! Here we are.' 'Privet' is the casual hello. 'Here and we' is the way to announce yourself on arrival.
+- 'Oh, meet Vika.' 'Get acquainted' is the Russian for 'meet', with the 'sya' ending. The little word 'this is' follows.
+- 'Actually, we know Victoria.' Nastya uses the full formal name that Vika goes by at work. 'With' gives the name its 'ey' ending.
+- 'No, stop. She is just Vika, my girlfriend.' The tripled 'no' is a Russian emphasis. 'Stop' is borrowed, and 'girlfriend' is the same as 'girl'.
+- 'Vika, this is just Nastya and Kostya.' The opening 'a' means 'and' and switches the topic. 'Just' appears again, now with an apologetic tone.
+- 'Well, from work.' 'From work' is a small word for 'from' plus work with a 'y' ending. Vika sounds a little cold.
+- 'All right, sit down. Sit here.' 'Sit' ends in 'sya', so it's 'seat yourselves'. 'Here' means 'to here' because they're moving to the table.
+- 'Make yourselves comfortable.' The 'po' in front of 'comfortably' makes it 'a bit more comfortably'. The command itself is the polite plural.
+- 'I'll go and get us a drink, okay?' 'I'll go, I'll bring' are two verbs in a row, with no 'and'. 'Okay' is borrowed straight from English.
+- 'Vika and I work together.' Russian says 'we with Vika' for 'Vika and I', and the name takes an 'oy' ending after 'with'. It's a common pattern that surprises English speakers.
+- 'We are just colleagues.' 'Colleagues' is plural, and the word is borrowed. Though it ends in 'a' in the singular, the word applies to a man or a woman.
+- 'Well, here comes the fun.' The opening words are 'and here', which turns up everywhere. The word for 'fun' comes from the word for 'cheerful'.
+- 'Let's have a drink!' 'Let's' is made from the polite plural of 'give' plus a 'we' form. That 'we' form of a finished verb is how to say 'let's do it'.
+- 'Let's drink to the meeting.' A toast formula, with 'for' standing in for 'to'. Max repeats it to move the evening forward.

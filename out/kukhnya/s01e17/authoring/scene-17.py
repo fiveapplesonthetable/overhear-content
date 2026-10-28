@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Viktor goes to the rival restaurant and accuses the chef of stealing his new dish. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Let's walk through it. Viktor storms into the kitchen."
+INTRO = "Barinov has spotted the veal rolls from his own kitchen on the menu of the rival restaurant, and he storms over to its chef, Elena, to accuse her of stealing the dish. We'll hear it in Russian first."
+OPENER = "Let's replay it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor realizes he was wrong. Next time you watch the episode, listen for the Russian expressions for 'to stand' and 'matter' — you will catch every word right away. See you next time!"
+OUTRO = "Elena has the date on her side, and Barinov has to back down. As you listen again, notice that 'stoyat'' is just the basic form of the word, used as a stern command. See you next time!"
 CLOSING = ('elena', 'До свидания.')
 STORY = [
     ('barinov', 'Так, стоять.', 'Hold it right there.', [(270, 'Так стоять.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Извините.', 'Sorry.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hold it right there.' Barinov commands attention, stopping the interaction instantly."),
-    (1, None, "'What is the matter?' Elena demands to know the reason for his sudden interruption."),
-    (2, None, "'You stole our dish.' Barinov makes a blunt accusation of theft regarding the recipe."),
-    (3, None, "'We invented it ourselves.' Elena fires back, firmly claiming originality."),
-    (4, None, "'I knew it.' Barinov expresses his lack of surprise at the situation."),
-    (5, None, "'You cannot do anything yourselves.' He insults their competence, insisting they rely on stealing ideas."),
-    (6, None, "'Look at this date.' Elena presents evidence to counter his claim, drawing attention to a specific detail."),
-    (7, None, "'Well, well.' Barinov reacts with slight hesitation as he takes in the new information."),
-    (8, None, "'Give me the menu, please.' Elena confidently asks for the item back, knowing she has the upper hand."),
-    (9, None, "'Can you see clearly?' She mocks his observation skills, driving her point home."),
-    (10, None, "'Yes, fine.' Barinov curtly acknowledges the evidence, realizing he was wrong."),
-    (11, None, "'Sorry.' He offers a brief, somewhat reluctant apology to end the dispute."),
+    (0, None, "'Hold it right there.' The basic form of 'stand' is used as a command, like a guard's 'freeze!'. It's bossy by itself."),
+    (1, None, "'What's the matter?' Russian says 'in what is the matter', with 'matter' a very common word. It's a fixed phrase."),
+    (2, None, "'You stole our dish.' 'Stole' ends in 'li', because he says 'you' in the plural. 'Our dish' is neuter, with the 'e' ending."),
+    (3, None, "'We invented it ourselves.' 'Ourselves' goes first, which puts weight on it. 'It' is the same as 'him', a quirk for neuter nouns."),
+    (4, None, "'I knew it.' The line is 'I so and knew', with the 'so and' as 'I thought as much'. 'Knew' ends in the masculine 'l'."),
+    (5, None, "'You can't do anything yourselves.' 'Nothing' and 'not' appear together, and Russian demands both. 'Yourselves' sits at the end."),
+    (6, None, "'Look at this date.' 'Look at' needs a small word for 'at'. 'Date' is a borrowed word, with an 'u' ending."),
+    (7, None, "'Well, well.' The word 'nu' means 'well', and said twice it becomes a skeptical drawl. The tone matters more than the meaning."),
+    (8, None, "'Give me the menu, please.' The command is the polite plural. 'To me' is how Russian says 'me' here."),
+    (9, None, "'Can you see well?' 'Well' goes before 'see', and the whole question is a jab. The polite 'you' makes it sound sharper, not softer."),
+    (10, None, "'Yes, fine.' The word is literally 'normally', and it is the standard reply when you're asked how you are. Barinov gives it through his teeth."),
+    (11, None, "'Sorry.' The word means 'excuse me' and is polite. It is a rare thing to hear from Barinov."),
 ]

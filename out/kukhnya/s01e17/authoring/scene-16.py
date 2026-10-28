@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "After finishing their meal at the rival restaurant, the hostess approaches the table to ask for their impressions. While his companion enthusiastically praises the dishes, Chef Viktor Barinov gives a reluctant verdict. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "Barinov and Nagiyev have finished their meal at the rival restaurant. The hostess comes over to ask how they liked it, and Nagiyev gushes while Barinov gives a grudging verdict. We'll hear it in Russian first."
+OPENER = 'Here it is again, one line at a time.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Though reluctant to praise a competitor, Chef Viktor Barinov admits that the rival restaurant's dishes are passable before heading back to Claude Monet. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'day' — you will catch every word right away. See you next time!"
+OUTRO = "The two men leave on a polite note, though only one of them means it. 'Vsyo ravno', literally 'all equal', is a useful phrase for 'anyway' or 'all the same'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('hostess', 'Добрый день, уважаемые гости нашего ресторана.', 'Good afternoon, respected guests of our restaurant.', [(265, 'Добрый день')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('hostess', 'Всего доброго, до новой скорой встречи!', 'All the best, until we meet again soon!', [(265, 'Добрый день')], ''),
 ]
 WALK = [
-    (0, None, "'Good afternoon, respected guests of our restaurant.' The hostess delivers a formal and highly respectful greeting as they prepare to leave."),
-    (1, None, "'I hope you enjoyed everything today.' She follows standard hospitality protocol by asking about their experience."),
-    (2, None, "'Hello, yes, everything was very delicious.' Nagiyev answers politely, offering a positive review of the meal."),
-    (3, None, "'You have a simply great kitchen here.' He lays on the compliments, praising the quality of the food."),
-    (4, None, "'Almost as delicious as at home.' Nagiyev goes as far as comparing the professional cooking to a comforting home meal."),
-    (5, None, "'Do you agree with me, dear friend?' He turns to his companion, prompting him to agree."),
-    (6, None, "'Well, overall this food is fine.' Barinov gives a lukewarm response, refusing to show too much enthusiasm."),
-    (7, None, "'Thank you for such kind words.' The hostess gracefully accepts the praise, focusing on the positive feedback."),
-    (8, None, "'We spent a very pleasant day here.' Nagiyev reiterates how much they enjoyed the visit."),
-    (9, None, "'But our restaurant is still better.' Barinov cannot resist throwing in a competitive jab, asserting his own superiority."),
-    (10, None, "'Come visit us again.' The hostess ignores the slight and delivers a standard invitation to return."),
-    (11, None, "'We will definitely come here next time.' Nagiyev promises a future visit, keeping the tone friendly."),
-    (12, None, "'All right, it is time for us to head back.' Barinov cuts the pleasantries short, signaling that it is time to go."),
-    (13, None, "'All the best, until we meet again soon!' The hostess offers a final, cheerful farewell as they depart."),
+    (0, None, "'Good afternoon, respected guests of our restaurant.' 'Respected' comes from the verb for respecting and is the usual way to address guests. 'Of our restaurant' needs an 'ogo' and an 'a'."),
+    (1, None, "'I hope you enjoyed everything today.' 'I hope' ends in 'sya'. 'Liked' is neuter, because it agrees with 'everything'."),
+    (2, None, "'Hello, yes, it was all very tasty.' The long hello is hard to say, because the first 'v' is silent. 'Was' is neuter, to go with 'everything'."),
+    (3, None, "'You have simply excellent cooking here.' 'Kitchen' stands for 'cuisine' again. 'Excellent' ends in 'aya' to match."),
+    (4, None, "'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is a single word."),
+    (5, None, "'Do you agree with me, dear friend?' Nagiyev uses the casual 'you' with Barinov. 'Agree' is a short form with a masculine ending."),
+    (6, None, "'Well, overall the food is fine.' 'In general' is made with a small word 'in' and an ending. 'Normal' is the same word as in English."),
+    (7, None, "'Thank you for such kind words.' 'Kind' is the word from 'good day', and 'words' is plural. 'Thanks for' needs the little word 'for'."),
+    (8, None, "'We spent a very pleasant day here.' 'Spent' is built from the word for leading through. 'Pleasant' is masculine to match 'day'."),
+    (9, None, "'But our restaurant is still better.' 'All the same' is literally 'everything equal'. 'Better' is a one-word comparison."),
+    (10, None, "'Come visit us again.' Russians say 'come to us as guests', with the little word for 'as guests'. 'Again' is a nice short word."),
+    (11, None, "'We'll definitely come here next time.' 'Definitely' is a longer word, but it comes from 'obligatory'. 'Next time' is 'in the next time'."),
+    (12, None, "'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' is a single word."),
+    (13, None, "'All the best, until we meet again soon!' 'All of good' is the Russian for 'all the best'. 'Until a new soon meeting' is a formal send-off."),
 ]

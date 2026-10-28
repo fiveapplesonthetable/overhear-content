@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "From the popular Russian comedy series Kukhnya, Victoria complains about Max's strange friends, and they eventually leave feeling deeply offended. Let's listen carefully to their interesting conversation in Russian."
-OPENER = "Now let's go back through the exchange around Strange Friends line by line and unpack how the Russian works."
+INTRO = "Back at the bar, Vika is annoyed that Max didn't warn her his friends would be there. Nastya senses trouble and steps back, and the evening quickly turns sour. First, the Russian."
+OPENER = "Let's go through it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Victoria complains about Max's strange friends, and they eventually leave feeling deeply offended. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to say' — you will catch every word right away. See you next time!"
+OUTRO = "The evening ends in a tangle, and Max is left asking what just happened. The word 'rebyata', which Max uses for 'guys', is useful for any group of friends, young or old. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Ты мне почему не сказал, что они тут будут?', "Why didn't you tell me they would be here?", [(94, 'мне почему не сказал, что они тут будут?')], ''),
@@ -28,22 +28,22 @@ STORY = [
     ('nastya', 'а мы, наверное, пойдем.', 'and we should probably get going.', [], ''),
     ('nastya', 'Нам домой уже пора.', 'We should head home.', [], ''),
     ('nastya', 'А то на работе запрещено.', "Can't do that at work.", [], ''),
-    ('vika', 'Так! Вы бы еще прямо на барной стойке секс устроили.', 'You might as well have started having sex right on the bar.', [], ''),
+    ('vika', 'Так! Вы бы ещё на барной стойке потанцевали.', 'Right! You might as well dance on the bar too.', [], ''),
     ('max', 'Ребята, вы чего?', 'Guys, what is going on?', [], ''),
 ]
 WALK = [
-    (0, None, "'Why didn't you tell me they would be here?' Vika angrily confronts her boyfriend about hiding his friends' presence."),
-    (1, None, "'They are my friends. We spend a lot of time together.' Max defends his decision, explaining how close he is with them."),
-    (2, None, "'You should get used to it.' Max bluntly tells his girlfriend she will just have to get used to it."),
-    (3, None, "'Maybe I should bring my mom here then?' Vika sarcastically suggests bringing her mother along next time."),
-    (4, None, "'I want to spend a lot of time with them, too.' Vika doubles down on the sarcasm, claiming she wants to spend time with them too."),
-    (5, None, "'It is fine. You will get along.' Max reassures her that everything will be fine and they will become friends."),
-    (6, None, "'That never happened.' Nastya mutters that such a disaster has never happened before."),
-    (7, None, "'For some reason, I am not surprised.' Vika dryly replies that she isn't surprised by the awkwardness."),
-    (8, None, "'All right, you can stay a while...' Nastya decides to cut the evening short, telling the couple to stay."),
-    (9, None, "'And we should probably get going.' Nastya announces that she and Kostya will be leaving instead."),
-    (10, None, "'We should head home.' Nastya uses the excuse that it is time to head home."),
-    (11, None, "'Can't do that at work.' Nastya takes a final jab, mentioning that socializing is forbidden at work."),
-    (12, None, "'You might as well have started having sex right on the bar.' Vika snaps back, accusing them of inappropriate behavior at the bar."),
-    (13, None, "'Guys, what is going on?' Max looks around in confusion as the double date falls apart."),
+    (0, None, "'Why didn't you tell me they'd be here?' Vika puts 'you to me' first and the 'why' after, which makes it sound sharper. 'Will be' has the plural ending."),
+    (1, None, "'They're my friends. We spend a lot of time together.' The plural of 'friend' is irregular, so 'friends' looks quite different. 'Spend time' is built from 'to lead through'."),
+    (2, None, "'Get used to it.' One word, a command, with the 'get used to' in it. It's blunt, but it's what Max says."),
+    (3, None, "'Should I bring my mom here then?' The opening 'or maybe' signals sarcasm. 'Own' mom, with a 'u' ending, makes it clear whose mother."),
+    (4, None, "'I want to spend a lot of time with them, too.' After 'with', 'them' picks up an 'n', so it becomes 'nimi'. 'Too' is a tiny word that comes after 'I'."),
+    (5, None, "'It's fine, you'll get along.' 'Become friends' is built from the word for 'friend' and ends in 'sya'. Max uses the plural 'you', as he's speaking to both women."),
+    (6, None, "'That has never happened.' Russian has two negatives: 'was not' and 'never'. 'Such' sits at the front."),
+    (7, None, "'For some reason, I'm not surprised.' 'For some reason' is 'why' plus 'to', which makes it vague. 'Surprised' ends in 'a' because Vika is a woman."),
+    (8, None, "'Anyway, you stay a while.' The first two words are 'in general', used the way we say 'anyway'. 'Sit a while' has the 'po' prefix for 'a bit'."),
+    (9, None, "'And we should probably get going.' The opening 'and' sets the groups against each other. 'We will go' works as 'we're off'."),
+    (10, None, "'It's time for us to go home.' 'Home' as a direction is a separate word from 'at home'. 'It's time' is one short word."),
+    (11, None, "'Because it's not allowed at work.' The opening words mean 'otherwise', and are used here as 'because'. 'Forbidden' ends in 'o', since it has no subject."),
+    (12, None, "'Right! You might as well dance on the bar too.' The 'you would' is made by adding a small word after the past form. 'On the bar counter' is built with 'on', and both nouns take an ending."),
+    (13, None, "'Guys, what is going on?' The word for 'guys' means 'lads' and is plural. 'What are you at' is a casual way to ask what's the matter."),
 ]

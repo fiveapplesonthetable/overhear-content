@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "In the quiet kitchen of Claude Monet, Viktor feeds his pet fish Arkady while enjoying a brief moment of peace. Victoria walks in to confront him about an unpaid loan, demanding that he either return her cash or create a new seasonal dish. Let's listen to their confrontation in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "Barinov is alone in the kitchen with his pet fish, Arkady, when Vika comes in. She reminds him that he owes her money, and also that he promised a new dish for the season. We'll hear it in Russian first."
+OPENER = "Let's replay it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Faced with Victoria's strict deadline, Viktor realizes he must quickly organize a competition among his cooks to invent the required seasonal special. Next time you watch the episode, listen for the Russian expressions for 'pleasant' and 'appetite' — you will catch every word right away. See you next time!"
+OUTRO = "Vika gives him until tomorrow, and the chef promises to think of something. As you listen again, notice that 'nuzhno' and 'nado' both mean 'necessary', and Russians use them interchangeably. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Приятного аппетита, мой дорогой Аркадий.', 'Enjoy your meal, my dear Arkady.', [(35, 'приятного аппетита, Аркадий.')], ''),
@@ -23,7 +23,7 @@ STORY = [
     ('barinov', 'Я верну тебе деньги через неделю.', 'I will return your money in a week.', [(40, 'отдам деньги через неделю.')], ''),
     ('vika', 'Ты обещал вернуть долг сегодня.', 'You promised to return the debt today.', [], ''),
     ('barinov', 'Твои деньги сейчас у футболиста Магиди.', 'Your money is with the footballer Magidi right now.', [(42, 'твои деньги у Магиди.')], ''),
-    ('vika', 'Он не забил гол, при чём тут он?', 'He missed the goal, what has he to do with it?', [(43, 'он не забил с двух метров.')], ''),
+    ('vika', 'Он не забил гол, при чём тут он?', "He didn't score a goal, so what has he got to do with it?", [(43, 'он не забил с двух метров.')], ''),
     ('barinov', 'Спроси свои деньги прямо с него.', 'Ask for your money directly from him.', [(44, 'Вот с него и спрашивай.')], ''),
     ('vika', 'Ты обещал новое сезонное блюдо, Виктор.', 'You promised a new seasonal dish, Viktor.', [(45, 'ты обещал новое сезонное блюдо от шефа.')], ''),
     ('barinov', 'Когда нужны деньги, всегда много обещаешь.', 'When money is needed, one always promises a lot.', [(46, 'когда тебе нужны деньги, ты еще не то пообещаешь.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Хорошо, Вика, я что-нибудь придумаю.', 'Fine, Vika, I will come up with something.', [], ''),
 ]
 WALK = [
-    (0, None, "'Enjoy your meal, my dear Arkady.' Barinov warmly addresses his pet fish in the tank."),
-    (1, None, "'You feed the fish better than our guests.' Vika sarcastically notes that the fish eats better than their customers."),
-    (2, None, "'Arkady, be quiet and do not listen to her.' Barinov tells the fish to ignore the manager's complaints."),
-    (3, None, "'Do you remember that tomorrow is the first?' Vika reminds him that tomorrow is the first of the month, meaning bills are due."),
-    (4, None, "'I will return your money in a week.' Barinov promises to pay back his loan in a week."),
-    (5, None, "'You promised to return the debt today.' Vika points out he originally promised to settle the debt today."),
-    (6, None, "'Your money is with the footballer Magidi right now.' Barinov blames a football player, explaining his cash is tied up in a bet."),
-    (7, None, "'He missed the goal, what has he to do with it?' Vika dismisses the excuse, bringing up the player's missed shot."),
-    (8, None, "'Ask for your money directly from him.' Barinov deflects the blame, suggesting she collect her cash from the athlete."),
-    (9, None, "'You promised a new seasonal dish, Viktor.' Vika pivots to demanding the new seasonal dish he promised."),
-    (10, None, "'When money is needed, one always promises a lot.' Barinov deflects by claiming people promise anything when they need cash."),
-    (11, None, "'Tomorrow I expect the money or the dish.' Vika gives him an ultimatum for tomorrow."),
-    (12, None, "'Fine, Vika, I will come up with something.' Barinov finally caves and promises to invent a new dish."),
+    (0, None, "'Enjoy your meal, my dear Arkady.' The phrase is 'of pleasant appetite', as if wishing it on someone. It's what Russians say before every meal. 'Dear' is the same word as 'expensive', and works for affection."),
+    (1, None, "'You feed the fish better than our guests.' The 'sh' ending on 'feed' says 'you', casual. After 'better', the guests take a different ending, and that does the job of 'than'."),
+    (2, None, "'Arkady, be quiet and don't listen to her.' Two commands in a row, the second negative. 'Her' is a tiny word that changes shape from 'she'."),
+    (3, None, "'Do you remember that tomorrow is the first?' Russians say the date as 'first number'. 'Tomorrow' is a handy word to learn."),
+    (4, None, "'I'll give you the money back in a week.' 'In a week' is 'through a week', with the week ending in 'yu'. 'Money' is plural, as always in Russian."),
+    (5, None, "'You promised to pay the debt back today.' 'Debt' is also what Russians use for 'duty'. The 'l' on 'promised' shows Barinov is the man who promised."),
+    (6, None, "'Your money is with the footballer Magidi right now.' 'At the footballer' stands for 'with the footballer'. 'Your money' is plural, so 'your' ends in 'i'."),
+    (7, None, "'He didn't score a goal, so what has he got to do with it?' Russian says 'score' with a verb that really means 'hammer in'. 'What has he to do with it' is a fixed phrase, and a handy one."),
+    (8, None, "'Ask him directly for your money.' The phrase 'from him' picks up an extra 'n' after 'from'. That 'n' appears on all such words after a little word like 'from' or 'at'."),
+    (9, None, "'You promised a new seasonal dish, Viktor.' 'New' and 'seasonal' both end in 'oe', the neuter, because the word for 'dish' is neuter. Vika is using his first name, which she doesn't often do."),
+    (10, None, "'When money is needed, you always promise a lot.' 'You' here is anyone, so no word for it appears. 'Needed' is a plural, because it's about the plural 'money'."),
+    (11, None, "'Tomorrow I expect either the money or the dish.' 'I wait' also means 'I expect'. Both the money and the dish come after it, joined by a small word for 'or'."),
+    (12, None, "'Fine, Vika, I'll think of something.' The word 'something' is built with a small tail that makes 'what' mean 'anything'. 'Think of' means to invent, from the word for 'think'."),
 ]

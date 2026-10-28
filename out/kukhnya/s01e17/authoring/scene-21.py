@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Gathered in the Claude Monet dining room, Victoria and the restaurant staff approach Max to apologize for ruining his birthday celebration. Chef Viktor steps in to ensure peace is restored, bringing the long day of intense conflicts to an end. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this reconciliation line by line."
+INTRO = 'The big row is over. In the dining room, Vika and the staff apologise to Max for ruining what they thought was his birthday, and Barinov wants to be sure the matter is closed. First, the Russian.'
+OPENER = "Now let's go back through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Relieved that the tension has dissipated, Max accepts their apologies as Victoria and Chef Viktor return to their work in the restaurant. Next time you watch the episode, listen for the Russian expressions for 'to forgive' and 'to spoil' — you will catch every word right away. See you next time!"
+OUTRO = "Everyone has made up, at least until the next mistake. 'Poka ne' means 'until', and it's built by saying 'while' and 'not' together. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Максим, прости нас, пожалуйста.', 'Maxim, please forgive us.', [(321, 'Максим, прости нас, пожалуйста, что испортили тебе праздник.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Я очень рад, что мы помирились.', 'I am very glad that we reconciled.', [], ''),
 ]
 WALK = [
-    (0, None, "'Maxim, please forgive us.' Vika starts with a sincere plea for forgiveness."),
-    (1, None, "'We ruined a great holiday for you.' She admits fault, acknowledging the damage done to the occasion."),
-    (2, None, "'I am not angry at you.' Max responds generously, letting go of any resentment."),
-    (3, None, "'Please forgive them from the heart.' Vika urges him to extend that same grace to the others."),
-    (4, None, "'Well and forgive me too.' Barinov chimes in, casually asking to be included in the pardon."),
-    (5, None, "'So, is that all? The conflict is over?' He then asks for confirmation that the drama is officially resolved."),
-    (6, None, "'Yes, chef, the conflict is over.' Max agrees respectfully, putting the issue to rest."),
-    (7, None, "'But only until someone makes a mistake again.' Barinov adds a cynical caveat, warning that peace is fragile."),
-    (8, None, "'We all want peace in the kitchen.' Vika expresses a collective desire for a harmonious work environment."),
-    (9, None, "'Peace in the kitchen is key.' Barinov reinforces this, stating it as a fundamental requirement."),
-    (10, None, "'Thank you all for the kind words.' Max shows appreciation for their willingness to make amends."),
-    (11, None, "'Now we can work calmly.' Vika looks forward to resuming normal operations without the tension."),
-    (12, None, "'I am very glad that we reconciled.' Max concludes by sharing his genuine relief at the reconciliation."),
+    (0, None, "'Maxim, please forgive us.' Vika uses his full first name, which is formal. 'Forgive' is the casual command, and 'us' takes its object form."),
+    (1, None, "'We ruined a great holiday for you.' 'Ruined' ends in 'li' for the plural. 'To you' tells whose holiday it was."),
+    (2, None, "'I'm not angry with you.' Russian is angry 'on' someone, so a small word for 'on' comes before 'you'. 'I am angry' ends in 'sya'."),
+    (3, None, "'Please forgive them, from the heart.' 'Them' is a short word. 'From the soul' is Russian's version of 'from the heart'."),
+    (4, None, "'And forgive me too.' The 'me' comes first, and 'too' follows it. Putting the object first makes it sound like a plea."),
+    (5, None, "'So, is that all? Is the conflict over?' The verb for 'ended' has 'sya' on it, so the conflict ended by itself. 'Is that all' is just 'all?', said as a question."),
+    (6, None, "'Yes, Chef, the conflict is over.' Max simply repeats what Barinov said. Repeating the question's own words is how Russians say yes."),
+    (7, None, "'But only until someone makes a mistake again.' 'Until' is built from 'while' plus 'not'. 'Makes a mistake' is a finished action."),
+    (8, None, "'We all want peace in the kitchen.' The word for 'peace' also means 'world'. After 'want', 'peace' takes an 'a' ending."),
+    (9, None, "'Peace in the kitchen is the main thing.' The dash takes the place of 'is'. 'Main' comes from the word for 'head'."),
+    (10, None, "'Thank you all for the kind words.' 'To all' is a short word for 'thank everyone'. 'Kind' is the same as in 'good day'."),
+    (11, None, "'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is a single word."),
+    (12, None, "'I'm very glad we made up.' 'Glad' has a bare ending for a man. 'Made up' is built from the word for 'peace', plus 'sya'."),
 ]

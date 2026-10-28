@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "From the popular Russian comedy series Kukhnya, Senya impresses Nagiyev with his tasty veal rolls and cleverly convinces him to buy a new slicer. Let's listen carefully to their interesting conversation in Russian."
-OPENER = "Now let's go back through the exchange around A Trick and a Slicer line by line and unpack how the Russian works."
+INTRO = "In the kitchen, Senya is passing off his dish as the chef's new special when the owner, Nagiyev, walks in and demands to know who he is. Senya sees his chance to ask for something. First, the Russian."
+OPENER = "Let's go through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Senya impresses Nagiyev with his tasty veal rolls and cleverly convinces him to buy a new slicer. Next time you watch the episode, listen for the Russian expressions for 'new' and 'seasonal' — you will catch every word right away. See you next time!"
+OUTRO = "Senya has charmed the owner out of a slicer, and the chef will be none the wiser, at least for now. Look out for 'v kontse kontsov', which means 'after all' and is built by saying 'end' twice. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ты кто такой? Это что такое?', 'Who are you? What is this?', [(145, 'Это точно? Блин, уж анализы пересдать.')], ''),
-    ('senya', 'Это новое сезонное блюдо от шеф-повара.', 'It is the chef', [], ''),
+    ('senya', 'Это новое блюдо от шефа.', 'This is a new dish from the chef.', [], ''),
     ('senya', 'Мясные рулетики из телятины с тонкими ломтиками ветчины.', 'You know, veal rolls with thin slices of ham.', [], ''),
     ('senya', 'Это я придумал, шеф утвердил.', 'I came up with it, and the chef approved it.', [], ''),
-    ('nagiyev', 'Человек придумал блюдо от шеф-повара вместо шеф-повара.', 'The guy came up with the chef', [], ''),
-    ('nagiyev', 'Шеф-повар угонит.', 'The chef is going to flip.', [], ''),
+    ('nagiyev', 'Человек придумал блюдо вместо шефа.', 'A man invented a dish instead of the chef.', [], ''),
+    ('nagiyev', 'Шеф будет в ярости.', 'The chef will be furious.', [], ''),
     ('nagiyev', 'Очень неплохо. Спасибо.', 'Really not bad. Thanks.', [], ''),
     ('senya', 'Нам на кухню нужен еще для этого блюда слайсер.', 'You know, we need a slicer in the kitchen for this dish.', [], ''),
     ('nagiyev', 'Что такое? Надеюсь, что это законное?', 'What is it? I hope it is legal.', [], ''),
     ('senya', 'Это такая штука для нарезки ветчины очень тонкими ломтиками.', 'It is a gadget for slicing ham really thin.', [], ''),
-    ('nagiyev', 'Я-то думал, купи ему этот слайсер.', 'I thought, buy him this slicer.', [], ''),
+    ('nagiyev', 'Ладно, купим ему этот слайсер.', 'Fine, we will buy him this slicer.', [], ''),
     ('nagiyev', 'Пускай человек ломтиками режет.', 'Let the man slice away.', [], ''),
-    ('nagiyev', 'В конце концов! Кто-то должен у нас рожать блюдо от шеф-повара.', 'After all, someone has got to give birth to the chef', [], ''),
+    ('nagiyev', 'В конце концов, кто-то должен придумывать блюда!', 'After all, somebody has to invent dishes!', [], ''),
 ]
 WALK = [
-    (0, None, "'Who are you? What is this?' Nagiyev demands to know who is presenting the dish."),
-    (1, None, "'It is the chef's new seasonal dish.' Senya smoothly claims it is the chef's new seasonal creation."),
-    (2, None, "'You know, veal rolls with thin slices of ham.' Senya describes the mouth-watering veal rolls with thin ham slices."),
-    (3, None, "'I came up with it, and the chef approved it.' Senya takes credit for the idea, noting the boss approved it."),
-    (4, None, "'The guy came up with the chef's dish for the chef.' Nagiyev is amused that an employee is doing the chef's work."),
-    (5, None, "'The chef is going to flip.' Nagiyev predicts the boss will lose his mind over this."),
-    (6, None, "'Really not bad. Thanks.' Nagiyev praises the taste and thanks the cook."),
-    (7, None, "'You know, we need a slicer in the kitchen for this dish.' Senya seizes the moment to ask for a new kitchen slicer."),
-    (8, None, "'What is it? I hope it is legal.' Nagiyev cautiously asks if this gadget is something legal."),
-    (9, None, "'It is a gadget for slicing ham really thin.' Senya explains the tool is simply for cutting ham very thinly."),
-    (10, None, "'I thought, buy him this slicer.' Nagiyev agrees, deciding to buy the equipment."),
-    (11, None, "'Let the man slice away.' Nagiyev jokes about letting the man slice away to his heart's content."),
-    (12, None, "'After all, someone has got to give birth to the chef's dish.' Nagiyev reasons that someone has to actually create the food around here."),
+    (0, None, "'Who are you? What is this?' Russian says 'you who such' for 'who are you', and it's rude as the casual 'you' is used. The second question has the same 'such' tucked in."),
+    (1, None, "'This is a new dish from the chef.' 'From' is the word for origin, so it's 'from the chef'. 'New' ends in 'oe' for the neuter dish."),
+    (2, None, "'Veal rolls with thin slices of ham.' The word for 'veal' comes from the word for 'calf'. 'Of ham' takes a 'y' ending, and 'thin slices' goes in the plural."),
+    (3, None, "'I came up with it, the chef approved it.' 'Approved' comes from the word for 'firm', as if he made it firm. Two short statements in a row."),
+    (4, None, "'A man invented a dish instead of the chef.' Nagiyev calls Senya just 'a man' to make it sound absurd. 'Instead of' is a single word, and the chef takes an 'a'."),
+    (5, None, "'The chef will be furious.' Russian says 'will be in fury'. The 'in' is a tiny word and fury takes an 'i' ending."),
+    (6, None, "'Not bad at all. Thank you.' 'Very not-bad' is a way to praise without gushing. 'Thanks' is a short, friendly word."),
+    (7, None, "'We also need a slicer for this dish in the kitchen.' The word for 'slicer' is borrowed from English. 'For this dish' has a 'dlya' and an 'a' ending."),
+    (8, None, "'What's that? I hope it's legal.' The word for 'legal' comes from the word for 'law'. 'I hope' ends in 'sya', as one hopes for oneself."),
+    (9, None, "'It's a gadget for slicing ham very thin.' The word for 'gadget' is colloquial and literally means 'a thing'. 'For slicing' is built from the verb for cutting."),
+    (10, None, "'Fine, we'll buy him this slicer.' 'Will buy' is a finished action, and 'him' takes the 'to him' form. Nagiyev gives in and spends someone else's money."),
+    (11, None, "'Let the man slice away.' 'Let' goes before the plain 'he slices'. 'Slices' is the noun in its 'with' form, as in 'with slices'."),
+    (12, None, "'After all, somebody has to invent dishes!' 'In the end of ends' is how Russian says 'after all'. 'Somebody' is built with a small 'to' tail, and 'must' follows."),
 ]

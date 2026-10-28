@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Arriving at a rival restaurant to inspect the competition, Chef Viktor Barinov greets the hostess with heavy sarcasm. He mocks the dining room amenities before asking for a table in the smoking section. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "Barinov has gone to check out the competition: a restaurant next door, where a hostess greets him with a smile. He answers her with heavy sarcasm. We'll hear it in Russian first."
+OPENER = "Let's replay it step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Having amused himself with sarcastic remarks about the rival establishment, Chef Viktor Barinov takes his seat in the smoking section to inspect their menu. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'day' — you will catch every word right away. See you next time!"
+OUTRO = "Barinov gets his table, and the hostess gets the last word. If someone tells you a joke is bad in Russian, the key word is 'smeshnoy', 'funny'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('hostess', 'Добрый день, рада видеть вас здесь.', 'Good afternoon, I am glad to see you here.', [(221, 'Добрый день. Рада видеть вас')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Отлично, принесите нам меню, пожалуйста.', 'Great, bring us the menu, please.', [(229, 'Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'Good afternoon, I am glad to see you here.' The hostess greets them warmly, setting a welcoming tone right from the start."),
-    (1, None, "'Welcome to our new restaurant.' She continues by formally introducing them to the new establishment."),
-    (2, None, "'Would you like the smoking room or not?' To figure out where they should sit, the hostess asks a direct question about their preferences."),
-    (3, None, "'Do you have separate sections here?' Barinov sounds a bit skeptical as he asks about the seating arrangements."),
-    (4, None, "'Yes, we have two dining rooms.' The hostess replies clearly, confirming the restaurant layout."),
-    (5, None, "'Well now, there are even two rooms!' Barinov lays on the sarcasm thick, acting overly impressed by the basic amenities."),
-    (6, None, "'And the air conditioner works well here too.' He continues mocking the place by pointing out something as trivial as the air conditioning."),
-    (7, None, "'This is simply a real palace of an eastern sheikh.' Barinov takes his sarcastic praise to the extreme by comparing the dining room to a royal residence."),
-    (8, None, "'You have very funny jokes today.' The hostess remains polite but gently acknowledges his obvious mockery."),
-    (9, None, "'We need a regular room for smokers.' Barinov drops the act and bluntly states what they actually require."),
-    (10, None, "'Very well, please follow me.' She stays professional and asks them to walk with her."),
-    (11, None, "'Thank you very much, we are following you.' Barinov responds with feigned politeness as they head to their table."),
-    (12, None, "'Here is your comfortable table by the window.' The hostess gestures to their spot, highlighting its pleasant location."),
-    (13, None, "'Great, bring us the menu, please.' Barinov demands the menu immediately, wanting to get straight to business."),
+    (0, None, "'Good afternoon, I'm glad to see you here.' 'Glad' ends in 'a' because the hostess is a woman. 'See' takes the 'you' form."),
+    (1, None, "'Welcome to our new restaurant.' It's a fixed greeting, literally 'good to come'. 'New' and 'our' both match the restaurant."),
+    (2, None, "'Would you like the smoking room or not?' 'Hall for smokers' is the phrase, and 'smokers' is plural. 'Or not' is a normal way to complete a question."),
+    (3, None, "'Do you have separate sections here?' 'At you here' stands for 'do you have'. 'Division' is the word for the split."),
+    (4, None, "'Yes, we have two dining rooms.' After 'two', 'hall' goes in the singular with an 'a' ending. 'At us there is' stands for 'we have'."),
+    (5, None, "'Well I never, there are even two rooms!' The first two words form a fixed phrase meaning 'what d'you know'. 'Even' tags on before 'two'."),
+    (6, None, "'And the air conditioner works well here too.' The word for 'air conditioner' comes from English. Machines 'work' in Russian too."),
+    (7, None, "'It's a regular palace of an eastern sheikh.' Both 'eastern' and 'sheikh' end in 'ogo' and 'a', the 'of' form. 'Real' is the same as the word for 'genuine'."),
+    (8, None, "'You have very funny jokes today.' 'Funny' is built from the word for laughter. The hostess uses polite 'you' and doesn't smile."),
+    (9, None, "'We need a plain room for smokers.' 'Simple' gives 'plain'. 'Needed' is masculine to go with the room."),
+    (10, None, "'Very well, please follow me.' The first word is a formal 'please' and the next is the verb 'to pass'. 'Behind me' means 'after me'."),
+    (11, None, "'Thank you very much, we are following you.' 'Behind you' picks up the same little word, now with 'you' in its 'vami' form. 'We go' is the 'm' ending."),
+    (12, None, "'Here is your comfortable table by the window.' 'By the window' uses a word for 'near' and an 'a' ending. 'Table' is a little table again."),
+    (13, None, "'Great, bring us the menu, please.' 'Bring' is the polite command, and 'please' is the longer word. 'Menu' never changes its ending."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "During the celebration in the kitchen, Chef Viktor examines Max's passport on the counter. Looking at the official stamp, Viktor notices that Max's birthday is actually in February, uncovering Max's well-intentioned lie. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this surprising revelation line by line."
+INTRO = "The toast is interrupted. Barinov asks Max to show him his passport, and the date of birth in it is not what Max has been telling everyone. We'll hear it in Russian first."
+OPENER = "Let's replay it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Faced with the undeniable proof in his passport, Max realizes that even a lie told for good reasons carries serious consequences. Next time you watch the episode, listen for the Russian expressions for 'to show' and 'passport' — you will catch every word right away. See you next time!"
+OUTRO = "Max has been caught out, and everyone has something to say about it. As you listen again, notice that months are not capitalised in Russian, and that 'v fevrale' means 'in February'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Покажи мне свой паспорт, Макс.', 'Show me your passport, Max.', [(327, 'Паспорте!')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'За любой обман приходится платить.', 'For any deceit one has to pay.', [(331, 'за любое вранье рано или поздно приходится платить.')], ''),
 ]
 WALK = [
-    (0, None, "'Show me your passport, Max.' Barinov demands proof of identity, sensing something is wrong."),
-    (1, None, "'Here is my passport, chef.' Max hands over the document without hesitation."),
-    (2, None, "'And why is the birthday in February?' Barinov points out a glaring inconsistency, demanding an explanation."),
-    (3, None, "'Your birthday is not today?' Senya expresses surprise, realizing the whole premise was false."),
-    (4, None, "'I wanted to please you.' Max tries to justify his actions by claiming good intentions."),
-    (5, None, "'Did you lie to us about the holiday?' Barinov asks a direct question to confirm the extent of the deception."),
-    (6, None, "'I wanted to forget all grudges.' Max provides his emotional reasoning for the elaborate ruse."),
-    (7, None, "'But one must not lie to friends.' Senya lays down a fundamental moral rule about trust."),
-    (8, None, "'Any lie is bad.' Barinov makes a blanket statement condemning dishonesty."),
-    (9, None, "'I am very guilty before you.' Max expresses deep remorse, acknowledging his fault."),
-    (10, None, "'For any deceit one must answer.' Barinov emphasizes that actions have consequences."),
-    (11, None, "'The truth always reveals itself.' Senya adds a philosophical note about the inevitability of discovery."),
-    (12, None, "'For any deceit one has to pay.' Max accepts his fate, agreeing that he must face the repercussions."),
+    (0, None, "'Show me your passport, Max.' The command is casual. 'Your own' is a special word that always points back to the person asked."),
+    (1, None, "'Here's my passport, Chef.' 'Here' points at it. 'My' is masculine to match 'passport'."),
+    (2, None, "'And why is your birthday in February?' Months start with a small letter in Russian, and this one takes an 'e' after 'in'. 'Birthday' is 'day of birth'."),
+    (3, None, "'Isn't your birthday today?' The 'not' goes right before 'today', so only that word is denied. It sounds suspicious, which it should."),
+    (4, None, "'I wanted to do something nice for you.' 'Nice' is used as a noun, so it means 'something nice'. 'Do to you' is the usual pattern."),
+    (5, None, "'Did you lie to us about the holiday?' The word for 'lied' is the kind that means a small lie. 'About' is a tiny word."),
+    (6, None, "'I wanted to forget all the grudges.' 'Grudges' is plural. 'Forget' is a finished action."),
+    (7, None, "'But you mustn't lie to friends.' The 'not allowed' word is followed by the plain 'to lie'. 'To friends' has a plural ending."),
+    (8, None, "'Any lie is bad.' 'Any' is a single word. The dash stands in for 'is'."),
+    (9, None, "'I'm very much in the wrong before you.' The word for 'guilty' is a short form with a masculine ending. 'Before you' picks up an 'ami' ending."),
+    (10, None, "'You have to answer for any deceit.' 'Answer' is the word you use for being responsible. 'For' brings the next word into its object form."),
+    (11, None, "'The truth always comes out.' The word for 'comes out' means 'opens itself', with a 'sya' ending. It's a neat way to say that truths emerge."),
+    (12, None, "'You end up paying for any deception.' 'It comes to paying' is the structure. The word for 'any' is the same as before."),
 ]

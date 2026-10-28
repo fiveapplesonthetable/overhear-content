@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Vika calls Max, who is waiting outside her apartment with unexpected guests. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Let's walk through it. Vika is looking for Max."
+INTRO = "Max has plans for the evening. Vika is waiting for him at home for a quiet dinner, but he has brought his friends along as a surprise. We'll hear their phone call in Russian first."
+OPENER = "Let's go through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max is about to ruin the evening. Next time you watch the episode, listen for the Russian expressions for 'soon' and 'here' — you will catch every word right away. See you next time!"
+OUTRO = "Vika is not ready for guests, and Max is about to find out how much. Notice that both friends' names change their endings, with 'ya' turning into 'yu' after 'wait for'. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Макс, ну ты где?', 'Max, well where are you?', [(295, 'Макс, ну ты где?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Заходи быстрее.', 'Come in faster.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, well where are you?' Vika demands to know his location, sounding impatient."),
-    (1, None, "'Are you coming soon?' She presses him for an arrival time, clearly in a rush."),
-    (2, None, "'I am already here.' Max replies calmly, confirming his presence."),
-    (3, None, "'Why are you standing there?' Vika questions his lack of movement, annoyed by the delay."),
-    (4, None, "'I am waiting for my friends.' Max explains his reason for waiting, setting up the upcoming reveal."),
-    (5, None, "'What friends?' Vika asks for clarification, confused by his mention of companions."),
-    (6, None, "'Nastya and Kostya.' Max names the specific individuals, answering her question directly."),
-    (7, None, "'Did you invite them here?' Vika is taken aback and asks if he actually brought them along."),
-    (8, None, "'Yes, it is a surprise.' Max confirms enthusiastically, framing it as a fun twist."),
-    (9, None, "'I am not ready for guests.' Vika panics, bluntly stating her lack of preparation for company."),
-    (10, None, "'Everything will be fine.' Max tries to soothe her anxiety, promising a smooth outcome."),
-    (11, None, "'Come in faster.' Vika urges him to hurry up, still stressed by the situation."),
+    (0, None, "'Max, well, where are you?' The opening 'nu' is impatient. There is no 'are', only 'you where'."),
+    (1, None, "'Are you coming soon?' It is just 'you soon?', with no verb. The rising voice does the asking."),
+    (2, None, "'I'm already here.' Three tiny words. 'Here' is the one with a soft sign at the end."),
+    (3, None, "'Why are you standing there?' Russians use 'stand' for being on your feet. 'Stand' ends in 'sh', for the casual 'you'."),
+    (4, None, "'I'm waiting for my friends.' 'Wait for' takes the 'of' form, so 'friends' ends in 'ey'. 'Own' points back to Max."),
+    (5, None, "'Which friends?' 'Which' ends in 'ikh', the same as in the previous line. It's the same ending, so you can hear the match."),
+    (6, None, "'Nastya and Kostya.' Both names change their endings, with the final 'ya' turning into 'yu'. Russian names change shape like ordinary nouns."),
+    (7, None, "'Did you invite them here?' 'Invited' ends in the masculine 'l'. 'Here' means 'to here', which is why it has a different shape."),
+    (8, None, "'Yes, it's a surprise.' 'Surprise' is a word borrowed from French. Max says it with a grin."),
+    (9, None, "'I'm not ready for guests.' 'Ready' ends in 'a' because Vika is a woman. 'For guests' needs a little word and a different ending on 'guests'."),
+    (10, None, "'Everything will be fine.' 'Will be' is a word on its own. Max is cheerfully optimistic."),
+    (11, None, "'Come in faster.' 'Come in' is a casual command. 'Faster' is one word, built on 'quickly'."),
 ]

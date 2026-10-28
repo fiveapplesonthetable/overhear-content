@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ты был там? | Were you there? | #290: Ты что, был там в Аркабалена? | verbatim |
-| 2 | Сеня | Нет, конечно. | No, of course not. | #291: Нет, конечно. | verbatim |
-| 3 | Шеф | Рулеты из телятины с ветчиной. | Veal rolls with ham. | #292: рулеты из телятины с | verbatim |
+| 1 | Шеф | Ты был там? | Were you there? | #290 00:18:35: Ты что, был там в Аркабалена? | verbatim |
+| 2 | Сеня | Нет, конечно. | No, of course not. | #291 00:18:37: Нет, конечно. | verbatim |
+| 3 | Шеф | Рулеты из телятины с ветчиной. | Veal rolls with ham. | #292 00:18:42: рулеты из телятины с | verbatim |
 | 4 | Сеня | Я не понимаю. | I do not understand. | new | new |
 | 5 | Шеф | Ты украл мой рецепт. | You stole my recipe. | new | new |
 | 6 | Сеня | Я ничего не брал. | I took nothing. | new | new |
-| 7 | Шеф | Ну, Сеня, ты труп. | Well, Senya, you are dead meat. | #293: Ну, Сеня, ты труп | verbatim |
+| 7 | Шеф | Ну, Сеня, ты труп. | Well, Senya, you are dead meat. | #293 00:18:49: Ну, Сеня, ты труп | verbatim |
 | 8 | Сеня | Шеф, это не я! | Chef, it is not me! | new | new |
 | 9 | Шеф | Кто тогда? | Who then? | new | new |
 | 10 | Сеня | Может быть, Федя. | Maybe Fedya. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Were you there?' Viktor interrogates his cook about visiting the rival restaurant.
-- 'No, of course not.' Senya quickly denies everything.
-- 'Veal rolls with ham.' Viktor names the exact dish he tasted across the street.
-- 'I do not understand.' Senya pretends not to know what the chef means.
-- 'You stole my recipe.' The chef accuses him of giving away the kitchen's secret dish.
-- 'I took nothing.' Russian uses a double negative here: literally 'nothing not took'.
-- 'Well, Senya, you are dead meat.' Viktor warns Senya that he is in huge trouble.
-- 'Chef, it is not me!' The nervous cook pleads with his boss.
-- 'Who then?' Viktor demands an explanation.
-- 'Maybe Fedya.' Senya tries to shift the blame to his friend.
-- 'I do not believe you.' The chef refuses to buy his excuse.
-- 'Word of honor!' Senya swears he is telling the truth.
+- 'Were you there?' Barinov uses the casual 'you'. There is no word for 'did', only the rising voice.
+- 'No, of course not.' 'Of course' is said with a 'sh' sound in the middle. Senya's answer is quick.
+- 'Veal rolls with ham.' 'From veal' uses the small word for 'out of'. 'With ham' needs the 'oy' ending on ham.
+- 'I don't understand.' 'I understand' is a long word with a clear 'I' ending. The 'not' stands in front.
+- 'You stole my recipe.' The past form of 'steal' ends in a bare 'l' for a man. 'My recipe' is masculine, with no extra ending.
+- 'I didn't take anything.' 'Nothing' and 'not' are both there, as the rule requires. 'Take' is the everyday word for grabbing.
+- 'Well, Senya, you're dead meat.' The word for 'corpse' is used as a threat, literally 'you are a corpse'. There's no 'are' in the line.
+- 'Chef, it wasn't me!' It reads 'this not I', with no verb at all. Senya is panicking.
+- 'Who then?' Two tiny words, 'who' and 'then'. The short question is Barinov's whole interrogation.
+- 'Maybe Fedya.' The phrase for 'maybe' is built from 'can be'. Senya throws his friend under the bus.
+- 'I don't believe you.' Russians 'believe to' someone, so 'you' takes the 'to you' form. The 'not' sits before 'believe'.
+- 'Word of honor!' It is literally 'honest word'. The word for 'honest' is the same one used for 'honestly'.

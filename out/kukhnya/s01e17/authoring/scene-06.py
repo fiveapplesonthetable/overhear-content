@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = 'Max brings Vika on a double date to a bar to hang out with Nastya and Kostya. However, the two women immediately clash, and the entire evening quickly ends in complete disaster.'
-OPENER = "Now let's go back through the exchange around Double date line by line and unpack how the Russian works."
+INTRO = "After work, Max has brought his new girlfriend, Vika, to a bar to meet his friends Kostya and Nastya. It is a little awkward, since Vika is also their boss. We'll hear it in Russian first."
+OPENER = "Let's take it apart a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The date ends in a disaster when Nastya gets angry and drags Kostya out of the bar. Next time you watch the episode, listen for the Russian expressions for 'to get acquainted' and 'actually' — you will catch every word right away. See you next time!"
+OUTRO = "The evening is sinking fast. The toast 'za vstrechu', literally 'to the meeting', is the easiest Russian toast you can learn. See you next time!"
 CLOSING = ('vika', 'До свидания.')
 STORY = [
     ('max', 'Познакомьтесь, это Вика.', 'Meet Vika.', [(78, 'А, познакомьтесь, это Вика.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Костя, ну ты куда?', 'Kostya, where are you going?', [(81, 'костя')], ''),
 ]
 WALK = [
-    (0, None, "'Meet Vika.' Max introduces his girlfriend to his best friends at the bar."),
-    (1, None, "'Actually, we know each other.' Nastya awkwardly points out that they already know each other."),
-    (2, None, "'She is just Vika, my girlfriend.' Max tries to defuse the tension by introducing her simply as his girlfriend."),
-    (3, None, "'And this is Nastya, my friend.' Max finishes the introduction by presenting his friend."),
-    (4, None, "'Let's drink to seeing each other.' Nastya suggests they raise a glass to the meeting."),
-    (5, None, "'Why didn't you tell me she'd be here?' Vika angrily demands to know why her boyfriend hid the guest list."),
-    (6, None, "'We spend a lot of time together.' Max defends his choice by pointing out they spend a lot of time together."),
-    (7, None, "'We should probably get going.' Vika abruptly decides it is time for them to leave the bar."),
-    (8, None, "'We should head home.' Vika uses the late hour as an excuse to head home."),
-    (9, None, "'You stay; we are leaving.' Nastya flips the script, telling the couple to stay while she and Kostya leave."),
-    (10, None, "'Kostya, let's go.' Nastya commands her boyfriend to follow her out the door."),
-    (11, None, "'Kostya, where are you going?' Max reacts with confusion as his friend walks away."),
+    (0, None, "'Meet Vika.' Russian says 'get acquainted', with the 'sya' ending meaning 'with each other'. The little word for 'this is' introduces her."),
+    (1, None, "'Actually, we know each other.' The first word has a small 'to' tacked on, which sharpens the correction. 'Acquainted' is plural, as she means both of them."),
+    (2, None, "'This is just Vika, my girlfriend.' The word for 'girl' also serves for 'girlfriend'. 'My' ends in 'ya' to match the feminine word."),
+    (3, None, "'And this is Nastya, my friend.' A female friend and a male friend have different words, so this one ends in 'a'. The opening 'and' just switches to the next person."),
+    (4, None, "'Let's drink to the meeting.' The small word for 'to' in a toast is the same one that means 'for'. 'Meeting' takes a 'u' ending after it."),
+    (5, None, "'Why didn't you tell me she would be here?' The 'a' stays off, and 'told' ends in a bare 'l' for Max. 'Will be' is a short word that comes just after 'she'."),
+    (6, None, "'We spend a lot of time together.' After 'a lot', 'time' takes a different ending. 'Spend' is built from 'to lead through'."),
+    (7, None, "'We should probably be going.' 'Probably' is one word, and 'we will go' is the soft way to say 'we're off'. It's a polite excuse."),
+    (8, None, "'It's time for us to go home.' 'To us' stands for 'we', and the word for 'time' means 'it's time'. 'Home' is a single word of direction."),
+    (9, None, "'You stay, and we're leaving.' The command is the plural polite one. The small 'a' in the middle sets the two groups against each other."),
+    (10, None, "'Kostya, let's go.' The past form of 'go' is used as a casual 'let's go'. It's short, brisk and rude."),
+    (11, None, "'Kostya, hey, where are you going?' The first word is a filler like 'come on'. There's no verb at all, just 'where to', and that's enough."),
 ]
