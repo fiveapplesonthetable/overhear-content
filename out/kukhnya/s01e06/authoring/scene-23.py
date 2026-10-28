@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "The week of the inspection is over, and the bill for the truffles is a month of unpaid work for Max. He takes it with an odd calm and ends the episode with a speech about life. It's in Russian first."
 OPENER = "Let's go through the end of the day. Barinov has the practical lines and Max has the philosophy."
-TRANSITION = 'Here is the whole ending once more.'
+TRANSITION = 'Hear it again with that help.'
 OUTRO = "Max's speech is in short Russian sentences about big ideas: life, difficulties, fate. They're a good way to practise longer thoughts without long words. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -42,8 +42,8 @@ WALK = [
     (7, None, "'For others, a series of bitter disappointments.' 'For others' is 'for different', and it matches the previous line. 'Bitter' is the taste word, used for feelings."),
     (8, None, "'Stop daydreaming, go wash the frying pans!' 'Enough' is followed by 'dreaming'. 'Go wash' needs no word for 'and'."),
     (9, None, "'In any case one must be ready for everything.' 'In any case' is a fixed phrase. 'Must be ready' has 'ready' in a form that agrees with 'one'."),
-    (10, None, "'Life teaches us unexpected turns of fate.' 'Unexpected' is built from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas."),
+    (10, None, "'Life teaches us unexpected turns of fate.' 'Unexpected' is assembled from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas."),
     (11, None, "'I will definitely deal with this problem.' 'Deal with' ends in 'sya', and the problem takes the 'with' ending. 'Definitely' is a handy word."),
     (12, None, "'Now that is the right attitude for a cook!' 'Attitude' is a word for 'mood' or 'tuning'. 'For a cook' uses a changed form of 'cook'."),
-    (13, None, "'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject. 'Tomorrow' is a short word."),
+    (13, None, "'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject."),
 ]

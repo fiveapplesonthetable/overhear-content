@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'People on the internet buy absolutely everything!' 'On the internet' puts an 'e' on the end. 'Absolutely everything' is two words, and they sound as emphatic as they look.
 - 'Kostyan, don't be dense, drop these jokes.' 'Kostyan' is the casual form of Kostya's name. 'Don't be dense' is slang, and 'drop' is the command 'throw'.
 - 'Okay, I will take it to the dump.' 'Carry away' starts with 'ot', which means 'off'. 'dump' is informal.
-- 'Take it quickly to the garbage bin outside.' 'Garbage' is built from 'rubbish'. 'Outside' is literally 'onto the street'.
+- 'Take it quickly to the garbage bin outside.' 'Garbage' is assembled from 'rubbish'. 'Outside' is literally 'onto the street'.
 - 'I'll be back quickly and we will carry on cleaning.' 'I'll return' ends in 'sya'. 'Cleaning' comes from the same word as 'clean up'.
 - 'Great, we still have a lot to wash today.' 'To us still much to wash' is the way Russian says 'we have a lot to wash'. 'Today' is pronounced with a 'v'.

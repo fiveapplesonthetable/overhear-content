@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max, why did rare truffles end up in the dumpster?' 'Ended up' is 'turned out to be', and it ends in 'sya'. 'Rare' comes first, in the plural.
-- 'Chef, forgive me, please!' This is the polite 'forgive me', the kind you give to your boss. The informal one would be shorter.
+- 'Chef, forgive me, please!' This is the courteous 'forgive me', the kind you give to your boss. The informal one would be shorter.
 - 'I have never seen truffles before.' 'Never' and 'not' sit together, and the truffles take the 'of' form. 'Before' means 'earlier'.
 - 'How could you throw away such a treasure?' 'How could you' is a neat shape: 'how you could'. 'Throw away' starts with 'out', and 'treasure' ends in 'e'.
 - 'In Voronezh, truffles are only candies!' 'In Voronezh' puts an 'e' on the city, because it's the place. The dash stands where the word 'are' would go.
 - 'Candies? This is the most expensive mushroom!' 'The most expensive' is 'most' plus 'dear'. Barinov repeats the word for candies to underline how wrong it is.
 - 'I thought that they had spoiled.' 'Thought' has a prefix that makes it a quick thought. 'Spoiled' ends in 'lis', for 'they'.
-- 'Good thing the homeless man returned them to us.' 'Homeless' is built from 'without' and 'home'. 'Good that' is the Russian way to say 'luckily'.
+- 'Good thing the homeless man returned them to us.' 'Homeless' is put together from 'without' and 'home'. 'Good that' is the Russian way of saying 'luckily'.
 - 'Alright, I am very kind today.' 'Alright' is the casual 'ladno'. 'Kind' is the same word the Russian uses for 'good day'.
 - 'We successfully passed the difficult inspection.' 'Passed' is the plural form of 'walked through'. 'Difficult' comes before 'inspection' and agrees with it.
-- 'But you will pay the bill for his dinner.' 'You' is at the very end to stress it: it's you who pays. 'Bill' is a short word, and 'for his dinner' uses 'za'.
+- 'But you will pay the bill for his dinner.' 'You' is at the very end to stress it: it's you who pays. 'For his dinner' uses 'za', the Russian for 'for' in 'pay for'.
 - 'Twenty-two thousand roubles?!' Twenty-two is 'twenty' plus 'two', and the 'two' takes a feminine form to agree with 'thousand'. 'Roubles' is the plural of the currency.
 - 'This is how you will remember this lesson!' 'This is how' is two words, one pointing and one for 'so'. 'Remember' comes from 'memory'.

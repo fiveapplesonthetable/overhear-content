@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do they trick all newcomers like that?' 'newcomers' is built from 'new'. 'Like that' is two short words that are useful in many sentences.
-- 'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', so it is the cook's cap.
-- 'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' is built from 'memory'.
+- 'Do they trick all newcomers like that?' 'newcomers' is made from 'new'. 'Like that' is two short words that are useful in many sentences.
+- 'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', which makes it the cook's cap.
+- 'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' grows out of 'memory'.
 - 'Soon the restaurant's sanitary inspection will arrive.' 'Will arrive' is a one-word future. 'Of the restaurant' is shown by a changed ending, with no word for 'of'.
-- 'And in your kitchen there is a mess again!' 'At you in the kitchen' is how Russian says 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef.
-- 'Where do you see a mess, my dear?' 'mess' is built from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here.
-- 'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' is a small word that adds 'you take a look'.
+- 'And in your kitchen there is a mess again!' 'At you in the kitchen' is Russian for 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef.
+- 'Where do you see a mess, my dear?' 'mess' is formed from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here.
+- 'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' adds 'go and see for yourself'.
 - 'A little money solves any big problems.' 'Money' is always plural in Russian, so 'solve' is plural too. 'Any' and 'big' agree with 'problems'.
 - 'If there were order, we wouldn't pay!' The little word 'by' appears twice, which is how Russian builds 'would'. It means 'if there were order, we would not be paying'.
 - 'There is always a lot of work in a restaurant kitchen.' 'A lot of' is followed by the 'of' ending, so 'work' changes. 'Always' is a very common small word.
 - 'Inspectors look for violations only for money.' 'For the sake of money' is a short phrase meaning 'because of'. 'Look for' is the same as 'seek'.
-- 'We must urgently establish perfect cleanliness.' 'Cleanliness' is built from 'clean'. 'Urgently' comes from 'urgent'.
-- 'It seems today we have big problems.' 'It seems' is one word. 'We have' is 'at us', as it always is in Russian.
-- 'I will go wash the floors in the kitchen.' 'Floors' is plural, as the word is used in the sense of 'the floor space'. 'I will go' is a single word, and 'wash' comes right after it.
+- 'We must urgently establish perfect cleanliness.' 'Cleanliness' is put together from 'clean'. 'Urgently' comes from 'urgent'.
+- 'It seems today we have big problems.' 'We have' is 'at us', as it always is in Russian.
+- 'I will go wash the floors in the kitchen.' 'Floors' is plural, as Russian says 'floors' for a floor surface. 'I will go' is a single word, and 'wash' comes right after it.

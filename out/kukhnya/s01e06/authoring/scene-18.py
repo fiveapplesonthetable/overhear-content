@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Sasha has failed: the inspector refused the free wine. Barinov isn't giving up. If the man won't drink it, he'll eat it, and he gives orders to his pastry chef, Louis, to put alcohol into every course. It's in Russian first."
 OPENER = "Let's go back through the scheme. Barinov is pleased with himself, and Louis is horrified."
-TRANSITION = 'And the whole scheme once more.'
+TRANSITION = 'Back to the full version.'
 OUTRO = "Look at 'give drink' and 'give food' once more, since the two words sound alike and mean what they say. It's a neat pair to remember. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -33,13 +33,13 @@ STORY = [
 WALK = [
     (0, None, "'This inspector refused to drink our wine!' 'Refused' ends in 'sya', and it's followed by the plain 'to drink'. 'Our wine' comes last, with the same ending as the word 'wine' itself."),
     (1, None, "'Chef, what are we to do now?' 'Then' adds a note of 'so what now'. There's no 'should', just 'to us now to do'."),
-    (2, None, "'Since we can't give him drink, we will feed him!' 'Give drink' and 'give food' are two sibling words built on 'drink' and 'feed'. 'Since' is a short word that means 'if that's so'."),
+    (2, None, "'Since we can't give him drink, we will feed him!' 'Give drink' and 'give food' are two sibling words, built on 'drink' and 'feed'. 'Since' means 'if that's so'."),
     (3, None, "'Do you want to add alcohol to food?' 'To add' is a bare word with no 'to'. 'Into the food' has a movement ending."),
     (4, None, "'Louis, prepare a dessert with cognac for him!' 'Prepare' is a command. 'With cognac' has an 'om' on the end, which is what 'with' asks for."),
     (5, None, "'How many spoonfuls of cognac to add to the cream?' 'How many' is followed by the 'of' form, so 'spoons' and 'cognac' both change. 'Cream' here is a single word, not a plural."),
     (6, None, "'Pour from the heart, do not spare the cognac!' 'From the soul' means 'wholeheartedly'. 'Spare' is also 'pity', so don't pity the cognac."),
     (7, None, "'And how to deal with hot dishes?' 'How to act' is a bare pair of words. 'With hot dishes' has plural endings."),
-    (8, None, "'We will generously pour dry wine into the meat.' 'Dry' is the word for wine that isn't sweet. 'We will pour' is a one-word future."),
+    (8, None, "'We will generously pour dry wine into the meat.' 'Dry' is the Russian for wine that isn't sweet. 'We will pour' is a one-word future."),
     (9, None, "'The inspector will definitely taste strong alcohol.' 'Definitely' also means 'exactly'. 'Strong' is a word you use for drinks and for coffee."),
     (10, None, "'He will not notice anything in the sauce!' 'Not notice anything' keeps the 'not' and the 'nothing' together. 'In the sauce' ends in 'e'."),
     (11, None, "'Chef, this is a very daring and dangerous plan.' 'Daring' is close to 'cheeky'. 'Dangerous' is related to 'danger'."),

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "The truffles are back, thanks to a homeless man called Rodion, and now Barinov wants to know how they ended up in the bin. Max has to explain that where he comes from, a truffle is a sweet. It's in Russian first."
 OPENER = "Let's go back through the confession. Max has a very good excuse, and Barinov has a very bad bill."
-TRANSITION = 'And the whole telling-off again.'
+TRANSITION = 'Let it play straight through.'
 OUTRO = "Max's excuse is worth remembering: 'where I come from, truffles are candies'. It's an honest sentence in any language. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Max, why did rare truffles end up in the dumpster?' 'Ended up' is 'turned out to be', and it ends in 'sya'. 'Rare' comes first, in the plural."),
-    (1, None, "'Chef, forgive me, please!' This is the polite 'forgive me', the kind you give to your boss. The informal one would be shorter."),
+    (1, None, "'Chef, forgive me, please!' This is the courteous 'forgive me', the kind you give to your boss. The informal one would be shorter."),
     (2, None, "'I have never seen truffles before.' 'Never' and 'not' sit together, and the truffles take the 'of' form. 'Before' means 'earlier'."),
     (3, None, "'How could you throw away such a treasure?' 'How could you' is a neat shape: 'how you could'. 'Throw away' starts with 'out', and 'treasure' ends in 'e'."),
     (4, None, "'In Voronezh, truffles are only candies!' 'In Voronezh' puts an 'e' on the city, because it's the place. The dash stands where the word 'are' would go."),
     (5, None, "'Candies? This is the most expensive mushroom!' 'The most expensive' is 'most' plus 'dear'. Barinov repeats the word for candies to underline how wrong it is."),
     (6, None, "'I thought that they had spoiled.' 'Thought' has a prefix that makes it a quick thought. 'Spoiled' ends in 'lis', for 'they'."),
-    (7, None, "'Good thing the homeless man returned them to us.' 'Homeless' is built from 'without' and 'home'. 'Good that' is the Russian way to say 'luckily'."),
+    (7, None, "'Good thing the homeless man returned them to us.' 'Homeless' is put together from 'without' and 'home'. 'Good that' is the Russian way of saying 'luckily'."),
     (8, None, "'Alright, I am very kind today.' 'Alright' is the casual 'ladno'. 'Kind' is the same word the Russian uses for 'good day'."),
     (9, None, "'We successfully passed the difficult inspection.' 'Passed' is the plural form of 'walked through'. 'Difficult' comes before 'inspection' and agrees with it."),
-    (10, None, "'But you will pay the bill for his dinner.' 'You' is at the very end to stress it: it's you who pays. 'Bill' is a short word, and 'for his dinner' uses 'za'."),
+    (10, None, "'But you will pay the bill for his dinner.' 'You' is at the very end to stress it: it's you who pays. 'For his dinner' uses 'za', the Russian for 'for' in 'pay for'."),
     (11, None, "'Twenty-two thousand roubles?!' Twenty-two is 'twenty' plus 'two', and the 'two' takes a feminine form to agree with 'thousand'. 'Roubles' is the plural of the currency."),
     (12, None, "'This is how you will remember this lesson!' 'This is how' is two words, one pointing and one for 'so'. 'Remember' comes from 'memory'."),
 ]

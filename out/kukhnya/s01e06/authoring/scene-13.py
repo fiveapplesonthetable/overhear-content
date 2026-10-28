@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Max and Kostya have realised that the 'rotten potatoes' they threw out were the chef's truffles, and they're searching the bins behind the restaurant. Instead they find a polite stranger, Rodion, holding the box. It's in Russian first."
 OPENER = "Let's go through the meeting. Max is in a hurry, Rodion is in no hurry at all."
-TRANSITION = 'Here is the whole meeting again.'
+TRANSITION = 'Same lines, no pauses this time.'
 OUTRO = "Rodion teaches you how to introduce yourself properly: 'my name is', 'very pleasant', and the name with the father's name. It's worth knowing, because Russians use it with older people. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -34,11 +34,11 @@ WALK = [
     (0, None, "'Where did you find this box?' Max uses the informal 'you' with a stranger, which is rude, and Rodion will answer politely. 'Found' ends in a consonant because it's about a man."),
     (1, None, "'You were looking for expensive truffles in the trash.' Rodion answers with the polite 'you', which is a contrast. 'At the dump' uses 'on', not 'in'."),
     (2, None, "'Please, give them back to us quickly!' 'Give back' has a prefix that means 'away'. 'Them' and 'to us' are two small words, one after the other."),
-    (3, None, "'First introduce yourself politely, young man.' 'Introduce yourself' ends in 'sya', so it is 'present yourself'. 'Young man' is the usual way to address a man you don't know."),
+    (3, None, "'First introduce yourself politely, young man.' 'Introduce yourself' ends in 'sya', meaning 'present yourself'. 'Young man' is the usual way to address a man you don't know."),
     (4, None, "'My name is Max, and this is Kostya.' Russian says 'they call me Max', and the 'they' is not named. 'And this is' is a handy way to present a friend."),
     (5, None, "'Very pleased, and I am Rodion Sergeyevich.' 'Pleasant' is what Russians say when they meet someone, as in 'nice to meet you'. The second name is the father's, so 'Sergeyevich' is 'son of Sergey'."),
     (6, None, "'What do you want for these mushrooms?' Max calls truffles 'mushrooms', which is what they are. 'For' here means 'in return for'."),
-    (7, None, "'I need one small friendly favor.' 'Small' is 'not big', made from the two words. 'Friendly' is built on 'friend'."),
+    (7, None, "'I need one small friendly favor.' 'Small' is 'not big', made from the two words. 'Friendly' is derived from 'friend'."),
     (8, None, "'We can pay you a little money.' 'A little' is followed by the 'of' form of 'money', as if it were 'a little of money'. 'To you' is a single short word."),
     (9, None, "'No, I want a luxurious lunch here.' The meal in the middle of the day is a main one in Russia, and this word names it. 'Luxurious' comes from 'luxury'."),
     (10, None, "'But the guards won't let you in!' 'Won't let in' is made from 'let' with a negative. 'Inside' is the movement word for 'to the inside'."),

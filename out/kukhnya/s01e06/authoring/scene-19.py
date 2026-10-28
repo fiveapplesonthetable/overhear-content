@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Barinov needs a truffle for table seven, and Max knows exactly where the truffles are not: in the trash, where he put them. He grabs Nastya and tries to get her to talk the guest out of the order. It's in Russian first."
 OPENER = "Let's replay it. Barinov shouts, Max panics, and Nastya keeps her head."
-TRANSITION = 'Here is the whole mix-up again.'
+TRANSITION = 'One more time, at normal pace.'
 OUTRO = "Max has said 'I need help' and 'tell the guest', and Nastya has said 'I can't'. That's a useful trio when you're trying to cover a mistake. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -35,12 +35,12 @@ WALK = [
     (0, None, "'Rump, bring one truffle here quickly!' The nickname is a cut of meat from the rear of the animal. 'Bring' is slangy, and it means 'haul'."),
     (1, None, "'Table seven ordered a salad with truffles.' A table is named by an ordinal, so it's literally 'the seventh little table'. 'With truffles' puts an 'ami' on the end."),
     (2, None, "'Chef, I will bring everything quickly now.' 'I will bring' starts with 'pri', the piece that means 'toward'. 'Now' and 'quickly' stand side by side."),
-    (3, None, "'Nastya, stop, I urgently need help!' 'Stop' comes from 'stand'. 'Help' is a she-word, so 'needed' ends in 'a'."),
-    (4, None, "'What happened, Max? What is it?' 'What is it' is two small words that mean 'what's up'. 'Happened' is built on 'chance'."),
+    (3, None, "'Nastya, stop, I urgently need help!' 'Stop' comes from 'stand'. 'Help' is one of the she-words, so 'needed' ends in 'a'."),
+    (4, None, "'What happened, Max? What is it?' 'What is it' is two small words that mean 'what's up'. 'Happened' is related to 'chance'."),
     (5, None, "'Tell the guest that the truffles are bad today.' 'To the guest' has an 'u' on the end. 'Bad' is in the plural to match the truffles."),
-    (6, None, "'Let him order any other dish!' 'Let him' is a single word. 'Any' and 'other' agree with 'dish'."),
+    (6, None, "'Let him order any other dish!' 'Any' and 'other' agree with 'dish'."),
     (7, None, "'No, I cannot say that.' 'I can't' is the flat 'cannot'. 'Like that' is two words glued together."),
-    (8, None, "'The guest came especially for this salad.' 'Especially' is built on 'special'. 'For the sake of' takes the next word in an 'of' form."),
+    (8, None, "'The guest came especially for this salad.' 'Especially' rests on 'special'. 'For the sake of' takes the next word in an 'of' form."),
     (9, None, "'But I do not have this truffle!' 'At me there isn't' is the way to say 'I don't have', and the truffle changes its ending. 'This' changes with it."),
     (10, None, "'He is a very strict and important person.' 'Person' is a word that works for men and women. 'Strict' and 'important' are in the same shape."),
     (11, None, "'By the way, he asked to pass you a note.' 'By the way' is a one-word way to change the subject. 'Note' comes from 'to write down'."),

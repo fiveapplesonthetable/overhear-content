@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'This inspector refused to drink our wine!' 'Refused' ends in 'sya', and it's followed by the plain 'to drink'. 'Our wine' comes last, with the same ending as the word 'wine' itself.
 - 'Chef, what are we to do now?' 'Then' adds a note of 'so what now'. There's no 'should', just 'to us now to do'.
-- 'Since we can't give him drink, we will feed him!' 'Give drink' and 'give food' are two sibling words built on 'drink' and 'feed'. 'Since' is a short word that means 'if that's so'.
+- 'Since we can't give him drink, we will feed him!' 'Give drink' and 'give food' are two sibling words, built on 'drink' and 'feed'. 'Since' means 'if that's so'.
 - 'Do you want to add alcohol to food?' 'To add' is a bare word with no 'to'. 'Into the food' has a movement ending.
 - 'Louis, prepare a dessert with cognac for him!' 'Prepare' is a command. 'With cognac' has an 'om' on the end, which is what 'with' asks for.
 - 'How many spoonfuls of cognac to add to the cream?' 'How many' is followed by the 'of' form, so 'spoons' and 'cognac' both change. 'Cream' here is a single word, not a plural.
 - 'Pour from the heart, do not spare the cognac!' 'From the soul' means 'wholeheartedly'. 'Spare' is also 'pity', so don't pity the cognac.
 - 'And how to deal with hot dishes?' 'How to act' is a bare pair of words. 'With hot dishes' has plural endings.
-- 'We will generously pour dry wine into the meat.' 'Dry' is the word for wine that isn't sweet. 'We will pour' is a one-word future.
+- 'We will generously pour dry wine into the meat.' 'Dry' is the Russian for wine that isn't sweet. 'We will pour' is a one-word future.
 - 'The inspector will definitely taste strong alcohol.' 'Definitely' also means 'exactly'. 'Strong' is a word you use for drinks and for coffee.
 - 'He will not notice anything in the sauce!' 'Not notice anything' keeps the 'not' and the 'nothing' together. 'In the sauce' ends in 'e'.
 - 'Chef, this is a very daring and dangerous plan.' 'Daring' is close to 'cheeky'. 'Dangerous' is related to 'danger'.

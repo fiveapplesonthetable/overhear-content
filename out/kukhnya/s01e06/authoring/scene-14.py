@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the staff changing room, Rodion has the truffles and the upper hand. He wants a proper lunch in the restaurant, and Kostya is trying to talk him out of it. It's in Russian first."
 OPENER = 'Slowly now. Rodion speaks like a gentleman, and Kostya sounds more and more nervous.'
-TRANSITION = 'Here is the whole negotiation again.'
+TRANSITION = 'Time to hear it as it was told.'
 OUTRO = "Rodion's lines are a lesson in being elegant: 'bargaining is out of place', 'bon appétit', and a full name. You can use any of them to make a request sound grand. See you next time."
 CLOSING = ('rodion', 'Пока!')
 STORY = [
@@ -34,9 +34,9 @@ WALK = [
     (1, None, "'Bargaining is completely inappropriate here, young man.' 'Inappropriate' is made of 'not' plus 'fitting'. Rodion keeps the grand word and the 'young man' to sound lofty."),
     (2, None, "'But this is a very expensive restaurant!' The little word in the middle adds 'after all', as if it were obvious. 'Expensive' is the word that also means 'dear'."),
     (3, None, "'I know this fine restaurant perfectly well.' The same word is used twice, as 'finely' and 'fine', which makes it sound like Rodion enjoys it. 'Know' here is about a place."),
-    (4, None, "'The administrator will throw you out into the street immediately.' 'Throw out' has a prefix that means 'out', and the street is the place you are thrown to. 'Immediately' is a short word."),
+    (4, None, "'The administrator will throw you out into the street immediately.' 'Throw out' has a prefix that means 'out', and the street is the place you are thrown to."),
     (5, None, "'In a decent suit nobody will recognize me.' 'In a suit' means 'wearing a suit', and Russian uses 'in' for clothes. 'Recognize' comes from 'know'."),
-    (6, None, "'And what if you accidentally ruin someone else's clothes?' 'Accidentally' comes from 'chance'. 'Someone else's' is one word that stands for 'not mine'."),
+    (6, None, "'And what if you accidentally ruin someone else's clothes?' 'Accidentally' comes from 'chance'. 'Someone else's' is a single word that stands for 'not mine'."),
     (7, None, "'I promise to behave extremely neatly.' 'To behave' is 'to lead oneself'. 'Extremely' is also 'at the edge', which is how Russian exaggerates."),
     (8, None, "'Where exactly are our missing truffles hidden?' 'Hidden' ends in a plural, to agree with 'truffles'. 'Missing' means 'having gone missing'."),
     (9, None, "'You will receive the truffles right after lunch.' 'Will receive' is a polite future, with 'you' as a group. 'After lunch' puts 'after' before a changed ending."),
