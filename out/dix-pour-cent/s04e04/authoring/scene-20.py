@@ -117,5 +117,5 @@ WALK = [
      "The farewell formula à demain matin cheerful concludes her nocturnal escape."),
 ]
 
-OUTRO = "Gabriel watches Sandrine disappear down the avenue on her scooter, shaking his head in amused disbelief."
+OUTRO = "Gabriel watches Sandrine disappear down the avenue on her scooter, shaking his head in amused disbelief. When you watch the episode, listen out for the expressions meaning 'arrives' and 'minutes'. You'll catch them now. See you next time."
 CLOSING = ("lea", "À demain matin à l'agence!")

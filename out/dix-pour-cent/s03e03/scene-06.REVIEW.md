@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I finally spoke to the distributor this morning.' Sophia tells Mathias that she contacted the film distribution company.
-- 'There are only one hundred and twenty prints distributed!' Sophia reveals that the film will open in very few cinemas across France.
-- 'It is really not great at all.' Sophia fears that the small print count signals impending commercial disaster.
-- 'It is a very good theatrical release!' Mathias immediately offers experienced perspective to calm her anxiety.
-- 'Julien's film is a demanding work.' Mathias explains that art-house auteur cinema naturally receives selective distribution.
-- 'So nobody is going to see this magnificent film!' Sophia translates the industry jargon into worst-case audience attendance.
-- 'The film will disappear after one week.' Sophia worries that theaters will pull the movie if opening days are slow.
-- 'Sophia, calm down, the die is cast now.' Mathias reminds her that promotion is complete and the film belongs to the public.
-- 'It is absolutely awful for my new career!' Sophia breaks down under the intense pressure of her breakthrough lead role.
-- 'I will call the distributor Wednesday morning at nine.' Mathias promises to monitor opening day theater receipts directly.
-- 'The Wednesday morning screening is a real barometer.' Mathias explains that Paris morning attendance accurately predicts nationwide success.
-- 'I do not want to act in movies anymore!' Sophia declares dramatically that the emotional stress of film releases is unbearable.
-- 'Do not give up, everything will go very well.' Mathias encourages his talented star to stay strong before the premiere.
+- 'I finally spoke to the distributor this morning.' Sophia tells Mathias that she contacted the film distribution company. The verb meaning 'I have' pairs naturally with the noun for 'distributor' in everyday conversation.
+- 'There are only one hundred and twenty prints distributed!' Sophia reveals that the film will open in very few cinemas across France. The verb meaning 'distributed!' pairs naturally with the noun for 'prints' in everyday conversation.
+- 'It is really not great at all.' Sophia fears that the small print count signals impending commercial disaster. The two-part French negation brackets the verb for 'is not' on both sides.
+- 'It is a very good theatrical release!' Mathias immediately offers experienced perspective to calm her anxiety. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
+- 'Julien's film is a demanding work.' Mathias explains that art-house auteur cinema naturally receives selective distribution. The adjective meaning 'demanding.' takes its feminine form here to match the noun it describes.
+- 'So nobody is going to see this magnificent film!' Sophia translates the industry jargon into worst-case audience attendance. Notice the classic French sandwich negation wrapping right around 'is going'.
+- 'The film will disappear after one week.' Sophia worries that theaters will pull the movie if opening days are slow. Notice how the short vowel drops before a vowel sound around 'will', making the phrase flow smoothly as one unit.
+- 'Sophia, calm down, the die is cast now.' Mathias reminds her that promotion is complete and the film belongs to the public. The verb meaning 'calm down' pairs naturally with the noun for 'dice' in everyday conversation.
+- 'It is absolutely awful for my new career!' Sophia breaks down under the intense pressure of her breakthrough lead role. Dropping the subject pronoun turns the verb for 'it is' into a direct, punchy command.
+- 'I will call the distributor Wednesday morning at nine.' Mathias promises to monitor opening day theater receipts directly. In spoken French, the little word before 'I will call' drops its final vowel and attaches with an apostrophe.
+- 'The Wednesday morning screening is a real barometer.' Mathias explains that Paris morning attendance accurately predicts nationwide success. The descriptive adjective for 'real' agrees in gender and number with its noun.
+- 'I do not want to act in movies anymore!' Sophia declares dramatically that the emotional stress of film releases is unbearable. Notice how 'want' leads directly into the noun meaning 'movies!'.
+- 'Do not give up, everything will go very well.' Mathias encourages his talented star to stay strong before the premiere. French forms the near future by pairing the present tense of 'to go' directly with 'to go.'.

@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is she doing over there?' Guillaume spots Sigourney standing on the footbridge. The adverb 'la-bas' points to a location over there.
-- 'Is she buying herself an Eiffel Tower?' Guillaume is amused to see her shopping for trinkets. The reflexive verb 's'acheter' means to buy for oneself.
-- 'I changed my mind about the movie.' Guillaume tells Gabriel that he is revising the script. The idiom 'changer d'avis' means to change one's mind.
+- 'Is she buying herself an Eiffel Tower?' Guillaume is amused to see her shopping for trinkets. Notice how 'buys' leads directly into the noun meaning 'tower'.
+- 'I changed my mind about the movie.' Guillaume tells Gabriel that he is revising the script. This conversational past tense combines a helper verb with the past participle for 'have'.
 - 'Sigourney will act with Gaspard Ulliel!' Guillaume pairs the American icon with the young French star. The near future 'va jouer' expresses an upcoming plan.
-- 'The subject is love, is it not?' Guillaume argues that romance transcends age differences. The tag question 'non' seeks agreement at the end of a clause.
-- 'Hello Guillaume! How are you doing?' Sigourney arrives at the cafe table in high spirits. The polite inquiry 'comment allez-vous' asks how someone is.
+- 'The subject is love, is it not?' Guillaume argues that romance transcends age differences. The key noun here means 'subject', anchored by its matching French article.
+- 'Hello Guillaume! How are you doing?' Sigourney arrives at the cafe table in high spirits. This conversational past tense combines a helper verb with the past participle for 'are you doing'.
 - 'Hello Sigourney! Not too tired?' Guillaume checks on his leading lady after her outing. The feminine adjective 'fatiguee' means tired.
 - 'Tired? Why? Not at all!' Sigourney brushes off any suggestion of fatigue. The emphatic phrase 'pas du tout' means not at all.
 - 'A very strong espresso, please.' Sigourney orders a concentrated coffee from the waiter. In cafe culture, 'serre' describes a short, strong espresso.

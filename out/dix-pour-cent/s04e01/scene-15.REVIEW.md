@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This science fiction movie will be a dud.' Andrea gives her blunt opinion on the amateurish script. The future tense warns of artistic failure.
-- 'I want to do this film out of friendship.' Charlotte defends her loyalty to her childhood pal. The prepositional phrase highlights her loyalty.
-- 'I cannot let you do that.' The agent firmly protects her star's professional standing. The modal negation refuses an artistic blunder.
-- 'I told Oscar that you were injured.' Andrea reveals the white lie she invented to save the situation. The past tense confesses the trick.
-- 'What, you told him that?' Charlotte reacts with shock at her agent's bold fabrication. The short question expresses disbelief.
-- 'Yes, you have a broken leg!' Andrea commits to the medical cover story. The exclamation details the fake diagnosis.
-- 'But Oscar is arriving at my place now!' Panic strikes as the director approaches the building. The present tense stresses the immediate emergency.
-- 'Paco is here to help us.' The agent introduces her clever solution to the problem. The simple statement presents their savior.
-- 'Hello, Charlotte, it is a great honor.' The prop specialist politely greets the acclaimed actress. The courteous noun phrase conveys genuine admiration.
-- 'I am a prop master for cinema.' Paco explains his artistic trade with quiet pride. The professional noun clarifies his expertise.
-- 'Here is a very elegant fake cast.' He presents the best medical prop from his collection. The positive adjective flatters her style.
-- 'It is perfect, let us slip on this fake boot!' Charlotte embraces the comical subterfuge with enthusiasm. The imperative verb initiates the disguise.
-- 'Watch out, Oscar is ringing the intercom!' Andrea sounds the alarm as the guest arrives at the door. The alert heightens the comedic tension.
+- 'This science fiction movie will be a dud.' Andrea gives her blunt opinion on the amateurish script. Notice how 'will be' leads directly into the noun meaning 'movie'.
+- 'I want to do this film out of friendship.' Charlotte defends her loyalty to her childhood pal. The verb meaning 'want' pairs naturally with the noun for 'movie' in everyday conversation.
+- 'I cannot let you do that.' The agent firmly protects her star's professional standing. The clause hinges on the everyday verb meaning 'can'.
+- 'I told Oscar that you were injured.' Andrea reveals the white lie she invented to save the situation. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'What, you told him that?' Charlotte reacts with shock at her agent's bold fabrication. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
+- 'Yes, you have a broken leg!' Andrea commits to the medical cover story. This conversational past tense combines a helper verb with the past participle for 'broken'.
+- 'But Oscar is arriving at my place now!' Panic strikes as the director approaches the building. The clause hinges on the everyday verb meaning 'arrives'.
+- 'Paco is here to help us.' The agent introduces her clever solution to the problem. The clause hinges on the everyday verb meaning 'to help'.
+- 'Hello, Charlotte, it is a great honor.' The prop specialist politely greets the acclaimed actress. The key noun here means 'hello', anchored by its matching French article.
+- 'I am a prop master for cinema.' Paco explains his artistic trade with quiet pride. The key noun here means 'prop master', anchored by its matching French article.
+- 'Here is a very elegant fake cast.' He presents the best medical prop from his collection. The key noun here means 'cast', anchored by its matching French article.
+- 'It is perfect, let us slip on this fake boot!' Charlotte embraces the comical subterfuge with enthusiasm. Dropping the subject pronoun turns the verb for 'let us slip on' into a direct, punchy command.
+- 'Watch out, Oscar is ringing the intercom!' Andrea sounds the alarm as the guest arrives at the door. Notice how 'rings' leads directly into the noun meaning 'watch out'.
 - 'Quickly, sit me down on the sofa!' Charlotte gets into position to play the role of an invalid. The imperative verb completes the scene.

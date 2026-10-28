@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Director Gary is going to lose patience.' Mathias warns about tensions on the movie set. The idiom 'perdre patience' means to lose one's temper or become impatient.
 - 'Do not panic, we have time.' Isabelle remains calm under pressure. The negative imperative 'ne paniquez pas' soothes someone's worry.
 - 'The car is parked right downstairs.' Mathias guides her toward their transport. The past participle 'garee' means parked.
-- 'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle. The phrase 'a l'arriere' specifies the back seat.
-- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night. The imperative 'allons-y' urges departure.
+- 'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle. The verb meaning 'get in' pairs naturally with the noun for 'rear' in everyday conversation.
+- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night. The clause hinges on the everyday verb meaning 'let us go'.

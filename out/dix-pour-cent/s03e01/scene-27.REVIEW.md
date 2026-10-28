@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You all fought like dogs.' Hicham praises the relentless effort of the team.
-- 'Andrea, she is the pitbull.' Hicham highlights Andrea for her fierce tenacity.
-- 'You never gave up all year.' Hicham commends her unwavering dedication to her stars.
-- 'Mathias, he is the hunting dog.' Hicham compares Mathias to an elite hunter.
-- 'An exceptional instinct.' Hicham praises the sharp business nose of Mathias.
-- 'Arlette, she is Jean Gabin.' Hicham honors the legendary veteran status of Arlette.
-- 'She always takes you where she wants.' Hicham explains how Arlette always wins her negotiations.
-- 'It could have been excellent without a disaster.' Hicham suddenly darkens the celebratory mood.
-- 'To fire a partner, you must prove misconduct.' Hicham states the legal standard to remove someone.
-- 'Wait, what is going on here?' Andrea immediately stands up to defend her colleague.
-- 'The serious misconduct is having lied.' Hicham accuses Gabriel of hiding behind deceit.
-- 'I understand, I am leaving.' Gabriel feels completely humiliated and prepares to walk out.
-- 'Such a decision is made between us!' Andrea fiercely asserts the collective agency rules.
-- 'Does everyone deserve a second chance?' Hicham hesitates after recalling his conversation with Arlette.
+- 'You all fought like dogs.' Hicham praises the relentless effort of the team. The formal 'you' pronoun sets a courteous, professional distance around 'have'.
+- 'Andrea, she is the pitbull.' Hicham highlights Andrea for her fierce tenacity. The key noun here means 'bulldog', anchored by its matching French article.
+- 'You never gave up all year.' Hicham commends her unwavering dedication to her stars. Hicham uses the casual singular 'you' with 'have', showing close familiarity.
+- 'Mathias, he is the hunting dog.' Hicham compares Mathias to an elite hunter. The key noun here means 'canine', anchored by its matching French article.
+- 'An exceptional instinct.' Hicham praises the sharp business nose of Mathias. The key noun here means 'sharp nose', anchored by its matching French article.
+- 'Arlette, she is Jean Gabin.' Hicham honors the legendary veteran status of Arlette. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'She always takes you where she wants.' Hicham explains how Arlette always wins her negotiations. Hicham uses the polite 'you' form alongside 'guides' to keep a respectful professional tone.
+- 'It could have been excellent without a disaster.' Hicham suddenly darkens the celebratory mood. This conversational past tense combines a helper verb with the past participle for 'been'.
+- 'To fire a partner, you must prove misconduct.' Hicham states the legal standard to remove someone. Notice how 'dismiss' leads directly into the noun meaning 'partner'.
+- 'Wait, what is going on here?' Andrea immediately stands up to defend her colleague. The standard spoken question formula at the front turns the statement about 'hold on' into a natural inquiry.
+- 'The serious misconduct is having lied.' Hicham accuses Gabriel of hiding behind deceit. The adjective meaning 'serious' takes its feminine form here to match the noun it describes.
+- 'I understand, I am leaving.' Gabriel feels completely humiliated and prepares to walk out. The clause hinges on the everyday verb meaning 'have'.
+- 'Such a decision is made between us!' Andrea fiercely asserts the collective agency rules. The reflexive pronoun sits right in front of the verb for 'takes', turning the action back onto the subject.
+- 'Does everyone deserve a second chance?' Hicham hesitates after recalling his conversation with Arlette. The verb meaning 'has' pairs naturally with the noun for 'entitlement' in everyday conversation.
 - 'From now on, we do everything together!' Andrea promises to stay by Gabriel's side through probation.

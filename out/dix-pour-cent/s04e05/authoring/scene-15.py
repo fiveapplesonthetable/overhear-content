@@ -34,20 +34,20 @@ STORY = [
 ]
 
 WALK = [
-    (0, "Comment tu vas?", "'How are you?' Andrea asks anxiously on the phone."),
-    (1, "Tu es où?", "'Where are you?' she asks her partner Colette."),
-    (2, "Arrête avec le mystère.", "'Stop with the mystery.' she demands, tired of guessing."),
-    (3, "Je n'en peux plus.", "'I can't take it anymore.' Andrea sighs in exhaustion."),
-    (4, "Tu reviens quand?", "'When are you coming back?' she asks hopefully."),
-    (5, "Coucou chérie, c'est maman.", "'Hi darling, it is mommy.' she coos to her baby."),
-    (6, "Je te vois très bientôt.", "'I will see you very soon.' she promises softly."),
-    (7, "Prends soin de toi.", "'Take care of yourself.' she whispers before hanging up."),
-    (8, "Vous pouvez nous expliquer ce qui se passe?", "'Can you explain to us what is happening?' she asks Arlette."),
-    (9, "C'est quoi ce bazar?", "'What is this mess?' Andrea asks, looking at the crowd."),
-    (10, "On a fait la fête.", "'We partied.' Arlette replies smoothly."),
-    (11, "C'est là qu'elle a rencontré son Roméo.", "'That is where she met her Romeo.' Arlette explains."),
-    (12, "Elle voulait voir des plumes et des paillettes.", "'She wanted to see feathers and glitter.' the older agent adds."),
-    (13, "Je suis agent.", "'I am an agent.' Arlette shrugs, proud of her networking.")
+    (0, "Comment tu vas?", "'How are you?' Andrea asks anxiously on the phone. The clause hinges on the everyday verb meaning 'are doing'."),
+    (1, "Tu es où?", "'Where are you?' she asks her partner Colette. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question."),
+    (2, "Arrête avec le mystère.", "'Stop with the mystery.' she demands, tired of guessing. Notice how 'stop' leads directly into the noun meaning 'mystery'."),
+    (3, "Je n'en peux plus.", "'I can't take it anymore.' Andrea sighs in exhaustion. The clause hinges on the everyday verb meaning 'can'."),
+    (4, "Tu reviens quand?", "'When are you coming back?' she asks hopefully. The clause hinges on the everyday verb meaning 'are coming back'."),
+    (5, "Coucou chérie, c'est maman.", "'Hi darling, it is mommy.' she coos to her baby. The key noun here means 'hello', anchored by its matching French article."),
+    (6, "Je te vois très bientôt.", "'I will see you very soon.' she promises softly. The informal 'you' form around 'see' marks a direct, personal relationship."),
+    (7, "Prends soin de toi.", "'Take care of yourself.' she whispers before hanging up. Andrea uses the casual singular 'you' with 'take', showing close familiarity."),
+    (8, "Vous pouvez nous expliquer ce qui se passe?", "'Can you explain to us what is happening?' The formal 'you' pronoun sets a courteous, professional distance around 'can'."),
+    (9, "C'est quoi ce bazar?", "'What is this mess?' Andrea asks, looking at the crowd. In everyday spoken French, rising intonation on 'mess' at the end is enough to turn the sentence into a question."),
+    (10, "On a fait la fête.", "'We partied.' Arlette replies smoothly. The verb meaning 'have' pairs naturally with the noun for 'party' in everyday conversation."),
+    (11, "C'est là qu'elle a rencontré son Roméo.", "'That is where she met her Romeo.' This conversational past tense combines a helper verb with the past participle for 'met'. This conversational past tense combines a helper verb with the past participle for 'met'."),
+    (12, "Elle voulait voir des plumes et des paillettes.", "'She wanted to see feathers and glitter.' the older agent adds. Notice how 'wanted' leads directly into the noun meaning 'feathers'."),
+    (13, "Je suis agent.", "'I am an agent.' Arlette shrugs, proud of her networking. The key noun here means 'talent agent', anchored by its matching French article.")
 ]
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's hear the whole thing."

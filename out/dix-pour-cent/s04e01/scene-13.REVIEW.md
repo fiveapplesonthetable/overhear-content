@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you see that, Andrea?' Colette points out the sudden change in Flora's behavior. The passe compose 'as vu' indicates an immediate observation.
+- 'Did you see that, Andrea?' Colette points out the sudden change in Flora's behavior. The informal 'you' form around 'have' marks a direct, personal relationship.
 - 'She stops crying in your arms.' Andrea confirms the soothing effect of physical contact. The verb 'arreter de' is followed by an infinitive.
 - 'She needs our presence.' Colette emphasizes parental comfort. The verbal idiom 'avoir besoin de' expresses a necessity.
 - 'These are release crying episodes.' Andrea introduces a pediatric concept. The noun 'decharge' refers to emotional release.
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The book is on your desk.' Andrea mentions the parenting guide. The preposition 'sur' indicates physical placement upon a surface.
 - 'Yes, it is great, this book!' Colette confirms having seen the volume. The informal adjective 'super' means fantastic or great.
 - 'One must read it very attentively.' Andrea encourages careful study. The impersonal expression 'il faut' indicates necessity.
-- 'I am going to bed now.' Colette heads to the bedroom to rest. The reflexive verb 'se coucher' means to go to sleep.
+- 'I am going to bed now.' Colette heads to the bedroom to rest. The reflexive pronoun sits right in front of the verb for 'am going', turning the action back onto the subject.
 - 'Good night, sleep well tonight.' Andrea offers loving parting wishes. The imperative 'dors' wishes restful sleep.

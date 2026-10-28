@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is everything going well for the shoot?' Mathias checks on the production schedule. The polite question inquires about progress.
-- 'Yes, we must go very quickly.' Isabelle urges immediate action on set. The modal phrase stresses urgency.
-- 'Do you need anything?' Mathias asks if his star requires assistance. The inverted question offers help.
-- 'No, thank you, everything is ready.' She confirms her full preparedness. The polite negative reassures her agent.
-- 'Sharon, have you seen Ben Stiller?' Mathias searches for the American co-star. The inquiry asks after the missing actor.
-- 'Ben is not leaving his trailer.' The assistant delivers bad news from the trailer. The negative verb describes an impasse.
-- 'He does not like the new version.' Sharon explains his dissatisfaction with the rewrite. The negative statement conveys creative tension.
-- 'He says his lines were cut.' The co-star complains about reduced dialogue. The reported speech identifies the complaint.
-- 'As for me, I am ready to shoot!' Isabelle emphasizes her immediate availability. The exclamation declares her readiness.
-- 'What is he doing to us now?' Mathias panics over the unexpected complication. The colloquial question expresses exasperation.
-- 'Ben is a true perfectionist.' Isabelle wryly comments on his controlling nature. The descriptive phrase characterizes his demanding style.
-- 'We will never make it on time.' Mathias fears missing their tight schedule. The negative future verb predicts delays.
-- 'It is hard so close to the goal.' He laments a setback right before completion. The temporal expression highlights frustration.
+- 'Is everything going well for the shoot?' Mathias checks on the production schedule. Notice how 'goes' leads directly into the noun meaning 'filming'.
+- 'Yes, we must go very quickly.' Isabelle urges immediate action on set. The clause hinges on the everyday verb meaning 'is necessary'.
+- 'Do you need anything?' Mathias asks if his star requires assistance. The verb meaning 'have you' pairs naturally with the noun for 'need' in everyday conversation.
+- 'No, thank you, everything is ready.' She confirms her full preparedness. The adverb meaning 'no' gives the reply its conversational emphasis.
+- 'Sharon, have you seen Ben Stiller?' Mathias searches for the American co-star. This conversational past tense combines a helper verb with the past participle for 'seen'.
+- 'Ben is not leaving his trailer.' The assistant delivers bad news from the trailer. Notice the classic French sandwich negation wrapping right around 'leaves'.
+- 'He does not like the new version.' Sharon explains his dissatisfaction with the rewrite. Notice how the short vowel drops before a vowel sound around 'does not like', making the phrase flow smoothly as one unit.
+- 'He says his lines were cut.' The co-star complains about reduced dialogue. This conversational past tense combines a helper verb with the past participle for 'cut'.
+- 'As for me, I am ready to shoot!' Isabelle emphasizes her immediate availability. The adjective meaning 'ready' takes its feminine form here to match the noun it describes.
+- 'What is he doing to us now?' Mathias panics over the unexpected complication. In spoken French, the little word before 'does' drops its final vowel and attaches with an apostrophe.
+- 'Ben is a true perfectionist.' Isabelle wryly comments on his controlling nature. The descriptive adjective for 'genuine' agrees in gender and number with its noun.
+- 'We will never make it on time.' Mathias fears missing their tight schedule. Notice how 'will not arrive' leads directly into the noun meaning 'time'.
+- 'It is hard so close to the goal.' He laments a setback right before completion. The descriptive adjective for 'tough' agrees in gender and number with its noun.
 - 'Frankly, we have no choice.' Mathias realizes drastic measures are required. The definitive statement signals resignation.

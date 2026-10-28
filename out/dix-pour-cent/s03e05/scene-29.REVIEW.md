@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not like that tone.' Gabriel hears Hicham's menacing voice on the line and senses disaster. The noun 'ton' refers to tone of voice.
+- 'I do not like that tone.' Gabriel hears Hicham's menacing voice on the line and senses disaster. The informal 'you' form around 'like' marks a direct, personal relationship.
 - 'It is a complete catastrophe!' Gabriel panics as the reality of his blunder sinks in. The feminine adjective 'totale' intensifies the noun catastrophe.
 - 'Gabriel, what is the matter?' Andrea asks him with rising concern. The interrogative phrase 'qu'est-ce qu'il y a' asks what is wrong.
 - 'I left the message for Hicham!' Gabriel confesses his catastrophic dialing error. The past participle 'laisse' comes from laisser.
@@ -35,9 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, that is absolutely impossible!' Andrea reacts with horror at the disclosure. The negative adverb 'absolument' intensifies impossible.
 - 'You are cowardly traitors!' Hicham confronts them with searing anger. The plural noun 'traitres' designates people who betray trust.
 - 'We wanted to stop everything.' Gabriel attempts to explain that they reconsidered leaving. The infinitive 'arreter' means to cease or halt.
-- 'It is very complicated with you!' Andrea fires back about Hicham's difficult management style. The adjective 'complique' denotes difficulty.
+- 'It is very complicated with you!' Andrea fires back about Hicham's difficult management style. The informal 'you' form around 'this line' marks a direct, personal relationship.
 - 'You often suffocate us, Hicham.' Andrea explains how his oppressive control alienated the team. The verb 'etouffer' means to suffocate or stifle.
-- 'I am handing everything over to Mathias.' Hicham announces he is selling out to Mathias to punish them. The proper noun 'Mathias' names the senior partner.
+- 'I am handing everything over to Mathias.' Hicham announces he is selling out to Mathias to punish them. The clause hinges on the everyday verb meaning 'give'.
 - 'I have nothing left here anymore.' Hicham declares his departure from ASK. The negative expression 'ne plus rien' means nothing anymore.
 - 'Why are you reacting like that?' Andrea pleads as Hicham walks away. The adverb 'pourquoi' opens the question.
 - 'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls. The noun 'fuite' denotes an information leak.

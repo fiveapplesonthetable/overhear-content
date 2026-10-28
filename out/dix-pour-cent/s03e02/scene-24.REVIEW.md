@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Monica? It is Gabriel.' Gabriel timidly identifies himself as he arrives at her home.
-- 'I am completely worthless.' Gabriel wallows in profound guilt over his deceitful behavior.
-- 'A real kind of scumbag.' Gabriel continues to berate himself with harsh insults.
-- 'A true piece of trash.' Gabriel concludes his excessive self-criticism in despair.
-- 'Do not overdo it, all the same.' Monica gently interrupts his extreme self-flagellation.
-- 'No, but it is true, really!' Gabriel insists that he thoroughly deserves her condemnation.
-- 'Stop beating yourself up all the time.' Monica urges her agent to cease his self-pity.
-- 'My turn to speak now.' Monica takes charge of the conversation to share her own burden.
-- 'I am ashamed as well.' Monica candidly admits that she also feels regret about her actions.
-- 'I am the one doing badly.' Monica confesses her inner emotional crisis to her friend.
-- 'Jeopardizing a relationship of trust?' Monica reflects on how close she came to ruining everything.
-- 'Can I not stay alone?' Monica explains her deep dread of returning to an empty home.
-- 'But that is normal, it is human.' Gabriel comforts his client with heartfelt understanding.
-- 'It is very painful being alone.' Monica acknowledges the heavy weight of single life.
+- 'Monica? It is Gabriel.' Gabriel timidly identifies himself as he arrives at her home. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'I am completely worthless.' Gabriel wallows in profound guilt over his deceitful behavior. The adverb meaning 'beneath' gives the reply its conversational emphasis.
+- 'A real kind of scumbag.' Gabriel continues to berate himself with harsh insults. The adjective meaning 'genuine' takes its feminine form here to match the noun it describes.
+- 'A true piece of trash.' Gabriel concludes his excessive self-criticism in despair. The key noun here means 'rubbish', anchored by its matching French article.
+- 'Do not overdo it, all the same.' Monica gently interrupts his extreme self-flagellation. The clause hinges on the everyday verb meaning 'do'.
+- 'No, but it is true, really!' Gabriel insists that he thoroughly deserves her condemnation. The adverb meaning 'no' gives the reply its conversational emphasis.
+- 'Stop beating yourself up all the time.' Monica urges her agent to cease his self-pity. Notice how 'cease' leads directly into the noun meaning 'while'.
+- 'My turn to speak now.' Monica takes charge of the conversation to share her own burden. The clause hinges on the everyday verb meaning 'speak'.
+- 'I am ashamed as well.' Monica candidly admits that she also feels regret about her actions. The verb meaning 'have' pairs naturally with the noun for 'shame' in everyday conversation.
+- 'I am the one doing badly.' Monica confesses her inner emotional crisis to her friend. The clause hinges on the everyday verb meaning 'am doing'.
+- 'Jeopardizing a relationship of trust?' Monica reflects on how close she came to ruining everything. The verb meaning 'put' pairs naturally with the noun for 'jeopardy' in everyday conversation.
+- 'Can I not stay alone?' Monica explains her deep dread of returning to an empty home. The clause hinges on the everyday verb meaning 'can'.
+- 'But that is normal, it is human.' Gabriel comforts his client with heartfelt understanding. The descriptive adjective for 'natural' agrees in gender and number with its noun.
+- 'It is very painful being alone.' Monica acknowledges the heavy weight of single life. The clause hinges on the everyday verb meaning 'be'.
 - 'How long has it been for you?' Monica asks Gabriel about his own experience with bachelorhood.

@@ -40,19 +40,19 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'I walk in the city.' She starts by singing about walking."),
-    (1, None, "'It is very dark.' She describes the atmosphere of the evening."),
-    (2, None, "'I am a little tired.' She admits her exhaustion after a long day."),
-    (3, None, "'I look at the stars.' She gazes up at the sky above."),
-    (4, None, "'I do not know where I am going.' She sings about feeling lost in life."),
-    (5, None, "'I walk a little more.' She continues her journey through the streets."),
-    (6, None, "'I listen to a melody.' A soft tune plays in the background."),
-    (7, None, "'Music in my head.' She sings about the persistent melody."),
-    (8, None, "'The moon shines bright.' She notices the bright light in the sky."),
-    (9, None, "'Like a diamond in the night.' She compares the light to a jewel."),
-    (10, None, "'Time flies very fast.' She thinks about how quickly life moves."),
-    (11, None, "'While the days come and go.' She watches the passing of time."),
-    (12, None, "'Life always goes on.' She concludes with a hopeful thought.")
+    (0, None, "'I walk in the city.' She starts by singing about walking. The key noun here means 'step', anchored by its matching French article."),
+    (1, None, "'It is very dark.' She describes the atmosphere of the evening. The key noun here means 'reality', anchored by its matching French article."),
+    (2, None, "'I am a little tired.' She admits her exhaustion after a long day. The adjective meaning 'tired' takes its feminine form here to match the noun it describes."),
+    (3, None, "'I look at the stars.' She gazes up at the sky above. Notice how 'to look' leads directly into the noun meaning 'star'."),
+    (4, None, "'I don't know where I'm going.' She sings about feeling lost in life. The two-part French negation brackets the verb for 'to know' on both sides."),
+    (5, None, "'I walk a little more.' She continues her journey through the streets. The key noun here means 'step', anchored by its matching French article."),
+    (6, None, "'I listen to a melody.' A soft tune plays in the background. Notice how the short vowel drops before a vowel sound around 'listening ear', making the phrase flow smoothly as one unit."),
+    (7, None, "'Music in my head.' She sings about the persistent melody. The key noun here means 'music', anchored by its matching French article."),
+    (8, None, "'The moon shines bright.' She notices the bright light in the sky. Notice how 'to shine' leads directly into the noun meaning 'moon'."),
+    (9, None, "'Like a diamond in the night.' She compares the light to a jewel. The key noun here means 'diamond', anchored by its matching French article."),
+    (10, None, "'Time flies very fast.' She thinks about how quickly life moves. The verb meaning 'to hand over' pairs naturally with the noun for 'time' in everyday conversation."),
+    (11, None, "'While the days come and go.' She watches the passing of time. Notice how 'to pass' leads directly into the noun meaning 'day'."),
+    (12, None, "'Life always goes on.' She concludes with a hopeful thought. This conversational past tense combines a helper verb with the past participle for 'to continue'.")
 ]
 
 LABELS = {

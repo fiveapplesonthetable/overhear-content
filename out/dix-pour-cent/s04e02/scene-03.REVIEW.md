@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is a pretty plant for our office.' A cheerful domestic touch creating a welcoming workspace.
-- 'It is the perfect place to work together.' An enthusiastic compliment celebrating their joint professional setup.
-- 'We share this room with great pleasure.' An affectionate validation affirming their collaborative partnership.
-- 'You now direct all creative development.' A prestigious promotion recognizing her editorial responsibilities.
-- 'I never want to hide again.' A courageous emotional declaration rejecting secrecy in work and romance.
-- 'Hello Mathias, how are you this morning?' A polite corporate greeting from the visiting senior executive.
-- 'We are very well settled in, thank you.' A courteous professional reply confirming contentment with the new facilities.
-- 'I thought of Noemie for this work.' A condescending overture introducing an unexpected batch of reading tasks.
-- 'You can write reader reports.' A patronizing assignment relegating the new development head to entry-level script coverage.
-- 'Simple summaries for your assistant?' A stung reaction expressing disbelief at being treated like auxiliary staff.
-- 'Yes, short and precise notes.' A casual dismissal ignoring her executive aspirations without hesitation.
-- 'Congratulations on the contract with Xavier Beauvois.' A warm commendation praising the producer's swift commercial acquisition.
-- 'Check your emails for our negotiation.' A directive instruction moving the conversation to business strategy.
-- 'I am taking care of this file immediately.' A compliant executive acknowledgment pledging prompt focus to the deal.
+- 'Here is a pretty plant for our office.' A cheerful domestic touch creating a welcoming workspace. The key noun here means 'plant', anchored by its matching French article.
+- 'It is the perfect place to work together.' In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
+- 'We share this room with great pleasure.' An affectionate validation affirming their collaborative partnership. Notice how 'share' leads directly into the noun meaning 'room'.
+- 'You now direct all creative development.' A prestigious promotion recognizing her editorial responsibilities. Mathias uses the casual singular 'you' with 'lead', showing close familiarity.
+- 'I never want to hide again.' The reflexive pronoun sits right in front of the verb for 'want', turning the action back onto the subject.
+- 'Hello Mathias, how are you this morning?' Notice how 'how are you doing' leads directly into the noun meaning 'morning time'. Notice how 'how are you doing' leads directly into the noun meaning 'morning time'.
+- 'We are very well settled in, thank you.' The clause hinges on the everyday verb meaning 'settled in'.
+- 'I thought of Noemie for this work.' A condescending overture introducing an unexpected batch of reading tasks. The verb meaning 'I have' pairs naturally with the noun for 'employment' in everyday conversation.
+- 'You can write reader reports.' A patronizing assignment relegating the new development head to entry-level script coverage. Notice how 'can' leads directly into the noun meaning 'sheets'.
+- 'Simple summaries for your assistant?' In everyday spoken French, rising intonation on 'summaries' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'summaries' at the end is enough to turn the sentence into a question.
+- 'Yes, short and precise notes.' A casual dismissal ignoring her executive aspirations without hesitation. The key noun here means 'notes', anchored by its matching French article.
+- 'Congratulations on the contract with Xavier Beauvois.' A warm commendation praising the producer's swift commercial acquisition. The key noun here means 'business contract', anchored by its matching French article.
+- 'Check your emails for our negotiation.' A directive instruction moving the conversation to business strategy. Notice how 'consult' leads directly into the noun meaning 'emails'.
+- 'I am taking care of this file immediately.' A compliant executive acknowledgment pledging prompt focus to the deal. The verb meaning 'take care of' pairs naturally with the noun for 'case' in everyday conversation.

@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is over and everyone knows it.' Gabriel faces the imminent financial collapse. The past participle 'fini' indicates completion.
 - 'I have had enough of being nice!' Gabriel vents his frustration at being passive. The idiom 'en avoir assez' expresses having had enough.
 - 'It is my turn to be the villain.' Gabriel embraces a ruthless attitude to survive. The noun 'mechant' designates the bad guy or villain.
-- 'I am going to work with her.' Gabriel confirms his plan to join Elise's firm. The verb 'travailler' means to work.
+- 'I am going to work with her.' Gabriel confirms his plan to join Elise's firm. French forms the near future by pairing the present tense of 'to go' directly with 'to work'.
 - 'I will keep an eye on that pest.' Gabriel reveals his true undercover strategy. The noun 'peste' refers to an annoying or malicious person.
 - 'Even if I lose face!' Gabriel accepts the damage to his reputation. The idiom 'perdre la face' means to lose face.
 - 'But I love your true face.' Andrea responds with tender affection and understanding. The masculine noun 'visage' means face.

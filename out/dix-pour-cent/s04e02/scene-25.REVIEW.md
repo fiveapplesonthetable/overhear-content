@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He just left with Sarah.' Camille reveals that Gabriel departed in company.
-- 'They went to Saint-Ouen together.' Camille explains their destination for the night.
-- 'Didn't he tell you?' Camille asks if Sofia received any advance message.
-- 'Didn't he say goodbye?' Camille wonders whether Gabriel bid Sofia farewell.
-- 'Of course, of course, that is normal.' Sofia tries bravely to downplay her feelings.
-- 'He has the right to go out.' Sofia acknowledges his freedom to live his life.
-- 'You look a little sad.' Camille notices the sudden disappointment on her face.
-- 'No, everything is very fine, thank you.' Sofia insists that she is unaffected.
-- 'I am happy for him.' Sofia offers generous words despite her inner hurt.
-- 'Do you want to have a drink together?' Camille gently offers friendly company.
-- 'No, I am going to go home.' Sofia declines, preferring solitude.
-- 'The day was very long.' Sofia excuses herself due to exhaustion.
-- 'Take good care of yourself, Sofia.' Camille offers warm and sympathetic support.
+- 'He just left with Sarah.' Camille reveals that Gabriel departed in company. The clause hinges on the everyday verb meaning 'comes'.
+- 'They went to Saint-Ouen together.' Camille explains their destination for the night. This conversational past tense combines a helper verb with the past participle for 'gone'.
+- 'Didn't he tell you?' Camille asks if Sofia received any advance message. The clause hinges on the everyday verb meaning 'has'.
+- 'Didn't he say goodbye?' Camille wonders whether Gabriel bid Sofia farewell. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
+- 'Of course, of course, that is normal.' Sofia tries bravely to downplay her feelings. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'He has the right to go out.' Sofia acknowledges his freedom to live his life. The verb meaning 'has' pairs naturally with the noun for 'right' in everyday conversation.
+- 'You look a little sad.' Camille notices the sudden disappointment on her face. The descriptive adjective for 'sad' agrees in gender and number with its noun.
+- 'No, everything is very fine, thank you.' Sofia insists that she is unaffected. The clause hinges on the everyday verb meaning 'goes'.
+- 'I am happy for him.' Sofia offers generous words despite her inner hurt. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Do you want to have a drink together?' Camille gently offers friendly company. The verb meaning 'want' pairs naturally with the noun for 'drink' in everyday conversation.
+- 'No, I am going to go home.' Sofia declines, preferring solitude. The clause hinges on the everyday verb meaning 'am going'.
+- 'The day was very long.' Sofia excuses herself due to exhaustion. The verb meaning 'has' pairs naturally with the noun for 'day' in everyday conversation.
+- 'Take good care of yourself, Sofia.' Camille offers warm and sympathetic support. The informal 'you' form around 'take' marks a direct, personal relationship.
 - 'Good night, Camille, see you soon.' Sofia bids farewell before slipping into the night.

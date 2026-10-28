@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We were supposed to compare our lists of first names.' Colette reminds Andrea that they planned to choose baby names tonight.
-- 'I forgot my written list at the office.' Andrea admits that she left her paper notepad at work.
-- 'But I have all the names in my head.' Andrea reassures Colette that she remembers each of her favorite suggestions.
-- 'What do you think of the pretty first name Clelia?' Andrea offers her first idea for their baby daughter.
-- 'I have already dated a Clelia.' Colette quickly vetoes the name because of an unpleasant past relationship.
-- 'And what do you say about Natacha then?' Andrea puts forward an alternative literary-inspired name.
-- 'Is that another one of your former lovers?' Colette playfully suspects another romantic history behind the name.
-- 'No, she was just a school classmate!' Andrea defends herself by explaining that Natacha was simply an old schoolmate.
-- 'We still do not have any name chosen.' Colette sighs that they have prepared neither a nursery nor a baby name.
-- 'You are not invested in this pregnancy.' Colette shares her growing worry that Andrea is avoiding parenting responsibilities.
-- 'And my medical appointments every two weeks?' Andrea reminds Colette of the frequent medical examinations she endures.
-- 'Our little girl is not born yet!' Andrea points out that they still have time before the baby arrives.
-- 'I want to enjoy our freedom a little bit.' Andrea expresses her desire to cherish their time together as a couple.
+- 'We were supposed to compare our lists of first names.' Colette reminds Andrea that they planned to choose baby names tonight. The verb meaning 'were supposed to' pairs naturally with the noun for 'lists' in everyday conversation.
+- 'I forgot my written list at the office.' Andrea admits that she left her paper notepad at work. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'But I have all the names in my head.' Andrea reassures Colette that she remembers each of her favorite suggestions. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'What do you think of the pretty first name Clelia?' Andrea offers her first idea for their baby daughter. Notice how 'do you think' leads directly into the noun meaning 'first name'.
+- 'I have already dated a Clelia.' Colette quickly vetoes the name because of an unpleasant past relationship. This conversational past tense combines a helper verb with the past participle for 'gone out'.
+- 'And what do you say about Natacha then?' Andrea puts forward an alternative literary-inspired name. The clause hinges on the everyday verb meaning 'do you say'.
+- 'Is that another one of your former lovers?' Colette playfully suspects another romantic history behind the name. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'No, she was just a school classmate!' Andrea defends herself by explaining that Natacha was simply an old schoolmate. Dropping the subject pronoun turns the verb for 'it was' into a direct, punchy command.
+- 'We still do not have any name chosen.' Colette sighs that they have prepared neither a nursery nor a baby name. In spoken French, the little word before 'have not' drops its final vowel and attaches with an apostrophe.
+- 'You are not invested in this pregnancy.' Colette shares her growing worry that Andrea is avoiding parenting responsibilities. This conversational past tense combines a helper verb with the past participle for 'invested'.
+- 'And my medical appointments every two weeks?' Andrea reminds Colette of the frequent medical examinations she endures. The descriptive adjective for 'medical' agrees in gender and number with its noun.
+- 'Our little girl is not born yet!' Andrea points out that they still have time before the baby arrives. The two-part French negation brackets the verb for 'is not' on both sides.
+- 'I want to enjoy our freedom a little bit.' Andrea expresses her desire to cherish their time together as a couple. The verb meaning 'want' pairs naturally with the noun for 'freedom.' in everyday conversation.

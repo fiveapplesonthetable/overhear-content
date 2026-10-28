@@ -11,10 +11,10 @@ SOURCE_FILE = "sources/dix-pour-cent/s04/e06.fr.dual.srt"
 VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'theo'}
 LABELS = {'lea': 'Andrea', 'mathias': 'Mathias'}
 
-INTRO = "In the agency office, Andréa urgently discusses a major movie budget problem with Mathias and asks for his help. We will hear it in French first, so don't worry about catching every word."
+INTRO = "In the agency office, Andrea urgently discusses a major movie budget problem with Mathias and asks for his help. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Mathias greets Andrea."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = 'Andrea realizes the budget problem is serious.'
+OUTRO = 'Andrea realizes the budget problem is serious. When you watch the episode, listen out for the expressions meaning 'madam' and 'producer'. You'll catch them now. See you next time.'
 
 STORY = [
     ('mathias', 'Bonjour, Madame la Productrice...', 'Hello, Madam Producer...', [(526, 'Bonjour, Madame la Productrice...')], ''),
@@ -32,18 +32,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Hello, Madam Producer...' Mathias teases Andrea with her new title."),
-    (1, None, "'You scared me.' She was startled by his sudden appearance."),
-    (2, None, "'Croissants.' He brought some pastries for breakfast."),
-    (3, None, "'Oh, marvelous.' She is delighted by the food."),
-    (4, None, "'Long night?' He notices she looks tired."),
-    (5, None, "'I studied the project.' She explains what she was doing."),
-    (6, None, "'I reviewed the whole budget...' She spent the night looking at the finances."),
-    (7, None, "'The numbers do not budge.' She found no room for savings."),
-    (8, None, "'We are missing 6 millions.' They have a massive deficit."),
-    (9, None, "'Did you call Xavier?' He asks if she spoke to the director."),
-    (10, None, "'Yes.' She confirms she made the call."),
-    (11, None, "'But he does not want to give in.' The director refuses to compromise."),
+    (0, None, "'Hello, Madam Producer...' Mathias teases Andrea with her new title. The key noun here means 'madam', anchored by its matching French article."),
+    (1, None, "'You scared me.' She was startled by his sudden appearance. Andrea uses the casual singular 'you' with 'to have', showing close familiarity."),
+    (2, None, "'Croissants.' He brought some pastries for breakfast. The key noun here means 'croissant', anchored by its matching French article."),
+    (3, None, "'Oh, marvelous.' She is delighted by the food. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (4, None, "'Long night?' He notices she looks tired. The adjective meaning 'long' takes its feminine form here to match the noun it describes."),
+    (5, None, "'I studied the project.' She explains what she was doing. In spoken French, the little word before 'to have' drops its final vowel and attaches with an apostrophe."),
+    (6, None, "'I reviewed the whole budget...' She spent the night looking at the finances. The verb meaning 'to have' pairs naturally with the noun for 'budget' in everyday conversation."),
+    (7, None, "'The numbers do not budge.' She found no room for savings. Notice the classic French sandwich negation wrapping right around 'to move'."),
+    (8, None, "'We are missing 6 millions.' They have a massive deficit. The key noun here means 'lack', anchored by its matching French article."),
+    (9, None, "'Did you call Xavier?' He asks if she spoke to the director. The clause hinges on the everyday verb meaning 'to have'."),
+    (10, None, "'Yes.' She confirms she made the call. The adverb meaning 'yes' gives the reply its conversational emphasis."),
+    (11, None, "'But he does not want to give in.' The director refuses to compromise. The clause hinges on the everyday verb meaning 'to want'."),
 ]
 
 CLOSING = ('lea', "C'est difficile.")

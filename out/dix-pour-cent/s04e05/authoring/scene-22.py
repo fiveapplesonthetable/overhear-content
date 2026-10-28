@@ -118,5 +118,5 @@ WALK = [
      "The idiomatic promise faire payer cher heralds a fierce counterattack."),
 ]
 
-OUTRO = "Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history."
+OUTRO = "Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history. When you watch the episode, listen out for the expressions meaning 'phones' and 'ring'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Je vais lui faire payer cher.")

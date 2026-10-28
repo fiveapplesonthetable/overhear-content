@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Sorry Colette, I was held up at work.' Andrea apologizes for her delayed arrival. The passive phrase 'ai ete retenue' indicates being detained by obligations.
 - 'This parent daycare requires a lot of cooperation.' Colette introduces the cooperative model. The noun 'creche' designates an infant daycare center in France.
-- 'What must we do exactly here?' Andrea asks for precise expectations. The interrogative phrase 'qu'est-ce que' asks what.
+- 'What must we do exactly here?' Andrea asks for precise expectations. Notice how the short vowel drops before a vowel sound around 'must', making the phrase flow smoothly as one unit.
 - 'Half a day a week with the children.' Colette details the mandatory parent shifts. The compound noun 'demi-journee' means a half-day.
-- 'Taking care of meals and changes?' Andrea lists basic nursery tasks. The reflexive verbal idiom 's'occuper de' means to take care of.
+- 'Taking care of meals and changes?' Andrea lists basic nursery tasks. The reflexive pronoun sits right in front of the verb for 'taking care of', turning the action back onto the subject.
 - 'Yes, and organize cooking workshops.' Colette explains the participatory curriculum. The noun 'atelier' refers to a workshop or activity group.
 - 'Cooking for tiny babies?' Andrea balks at the thought of culinary infants. The noun 'bebe' designates an infant.
 - 'They knead dough with flour.' Colette clarifies the tactile activity. The verb 'petrir' means to knead bread or pastry dough.
 - 'Do we also have to clean the whole house?' Andrea questions having to clean up. The verb 'nettoyer' means to clean.
-- 'Stop Andrea, we found nothing else.' Colette insists on their lack of childcare alternatives. The negative phrase 'rien... d'autre' means nothing else.
+- 'Stop Andrea, we found nothing else.' Colette insists on their lack of childcare alternatives. The descriptive adjective for 'else' agrees in gender and number with its noun.
 - 'I thought we paid for real help.' Andrea expected outsourced nursery staff. The imperfect 'croyais' reflects a mistaken prior assumption.
 - 'I need to return to a normal life.' Colette expresses her longing for routine and career. The verbal idiom 'avoir besoin de' expresses personal necessity.
 - 'Okay, I will make efforts for us.' Andrea accepts the compromise for their couple. The future 'ferai' indicates a promise to make an effort.
-- 'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession. The preposition 'parmi' expresses inclusion among a group.
+- 'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession. Notice how 'will be' leads directly into the noun meaning 'thank you'.

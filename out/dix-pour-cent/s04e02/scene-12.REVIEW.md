@@ -36,8 +36,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, not this time, actually.' Andrea prepares to reveal the surprise. The adverb 'justement' means precisely or actually.
 - 'Where are you right now?' Colette asks with mounting suspicion. The phrase 'en ce moment' means right now.
 - 'I am currently in Bergues.' Andrea confesses her unexpected location. The adverb 'actuellement' means currently in modern French.
-- 'Bergues? Which metro line is that?' Colette mistakes the distant town for a Parisian station. The noun 'metro' designates the Paris subway network.
-- 'It is far, in Hauts-de-France!' Andrea clarifies the geography. The regional name 'Hauts-de-France' refers to northern France.
-- 'Are you joking? I can't take it!' Colette vents her frustration at the broken promise. The idiom 'en avoir marre' or 'n'en pouvoir plus' expresses exhaustion.
+- 'Bergues? Which metro line is that?' Colette mistakes the distant town for a Parisian station. The key noun here means 'line', anchored by its matching French article.
+- 'It is far, in Hauts-de-France!' Andrea clarifies the geography. The adverb meaning 'far' gives the reply its conversational emphasis.
+- 'Are you joking? I can't take it!' Colette vents her frustration at the broken promise. The clause hinges on the everyday verb meaning 'are joking'.
 - 'I had to save a major contract.' Andrea justifies the emergency business trip. The verb 'sauver' means to save or rescue.
 - 'Return to Paris as fast as possible!' Colette demands her immediate return home. The adverbial locution 'le plus vite' means as quickly as possible.

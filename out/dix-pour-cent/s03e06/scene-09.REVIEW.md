@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Your lookalike scheme will never work.' Laurence dismisses the risky plan. The future tense 'marchera' combined with 'jamais' indicates absolute doubt.
-- 'You are thinking completely backwards, Laurence.' Arlette challenges her colleague. The adverbial expression 'a l'envers' describes reverse logic.
+- 'You are thinking completely backwards, Laurence.' Arlette challenges her colleague. The clause hinges on the everyday verb meaning 'think'.
 - 'I do not know this lady.' Laurence points out that she has never met the woman. The verb 'connaitre' means to be acquainted with someone.
 - 'She will save our entire agency today.' Arlette emphasizes how vital the scheme is. The future 'sauvera' expresses confident prediction.
 - 'I refuse to sign a fake contract.' Laurence balks at committing fraud on paper. The verb 'refuser' followed by 'de' introduces an infinitive action.
 - 'What do you want in exchange for your help?' Arlette opens commercial negotiations. The prepositional phrase 'en echange de' means in return for.
 - 'I want Guillaume Canet for my film.' Laurence asks for a major French star. The verb 'vouloir' expresses a direct desire.
 - 'Impossible, he is with Barneville now.' Arlette notes that Mathias represents the actor. The preposition 'chez' indicates professional representation.
-- 'Then I am not signing anything at all.' Laurence threatens to walk away from the deal. The negative phrase 'rien du tout' means nothing at all.
+- 'Then I am not signing anything at all.' Laurence threatens to walk away from the deal. The clause hinges on the everyday verb meaning 'sign'.
 - 'And what if I offer you Cecile de France?' Arlette plays an irresistible card. The hypothetical structure 'et si' introduces an attractive counteroffer.
 - 'For the leading role of the schoolteacher?' Laurence pictures the casting immediately. The feminine noun 'institutrice' designates an elementary school teacher.
 - 'Exactly, with a quick agreement in principle.' Arlette guarantees the backing. The noun phrase 'accord de principe' represents an agreement in principle.

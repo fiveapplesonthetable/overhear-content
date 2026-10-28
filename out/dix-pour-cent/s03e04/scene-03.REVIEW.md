@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry to make you come here.' An apologetic opening acknowledging an inconvenient meeting place.
-- 'Please, I understand perfectly.' A courteous reassurance accepting the sudden invitation.
-- 'How are business matters going at ASK?' A polite inquiry opening the confidential discussion.
-- 'Projects keep coming along well these days.' An optimistic update reporting continuous agency activity.
-- 'We have known each other for thirty years.' A poignant reminder appealing to decades of personal trust.
-- 'Yes, you are a loyal friend.' A sincere affirmation confirming mutual loyalty.
-- 'I cannot stay silent.' A moral resolve declaring an inability to conceal impending danger.
-- 'What is happening inside my agency?' An alarmed question sensing hidden trouble at the firm.
-- 'Collaborators are preparing a secret departure.' A discreet disclosure revealing an imminent breakaway.
-- 'Are you speaking about Andrea Martel in particular?' A sharp deduction guessing the ringleader's identity.
-- 'I cannot violate professional secrecy.' A cautious refusal preserving statutory client privilege.
-- 'It is a totally unexpected betrayal!' A shocked reaction expressing profound professional injury.
-- 'If I were in your place, I would watch my back.' A direct colloquial recommendation advising self-defense.
-- 'Thank you for this valuable warning, Charles.' A grateful acknowledgment thanking an old friend for the tip.
+- 'Sorry to make you come here.' The clause hinges on the everyday verb meaning 'do'.
+- 'Please, I understand perfectly.' The clause hinges on the everyday verb meaning 'pray'.
+- 'How are business matters going at ASK?' In everyday spoken French, rising intonation on 'pass' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'pass' at the end is enough to turn the sentence into a question.
+- 'Projects keep coming along well these days.' An optimistic update reporting continuous agency activity. The verb meaning 'follow one after another' pairs naturally with the noun for 'ventures' in everyday conversation.
+- 'We have known each other for thirty years.' Notice how 'know' leads directly into the noun meaning 'years'. Notice how 'know' leads directly into the noun meaning 'years'.
+- 'Yes, you are a loyal friend.' A sincere affirmation confirming mutual loyalty. The descriptive adjective for 'loyal' agrees in gender and number with its noun.
+- 'I cannot stay silent.' A moral resolve declaring an inability to conceal impending danger. Notice the classic French sandwich negation wrapping right around 'can'.
+- 'What is happening inside my agency?' The reflexive pronoun sits right in front of the verb for 'is happening', turning the action back onto the subject.
+- 'Collaborators are preparing a secret departure.' A discreet disclosure revealing an imminent breakaway. Notice how 'are preparing' leads directly into the noun meaning 'associates'.
+- 'Are you speaking about Andrea Martel in particular?' A sharp deduction guessing the ringleader's identity. Inverting the verb and pronoun around 'do you speak' creates a crisp, polished question.
+- 'I cannot violate professional secrecy.' Notice the classic French sandwich negation wrapping right around 'can'. Notice the classic French sandwich negation wrapping right around 'can'.
+- 'It is a totally unexpected betrayal!' The adjective meaning 'unexpected' takes its feminine form here to match the noun it describes.
+- 'If I were in your place, I would watch my back.' A direct colloquial recommendation advising self-defense. Notice how 'would cover' leads directly into the noun meaning 'place'.
+- 'Thank you for this valuable warning, Charles.' A grateful acknowledgment thanking an old friend for the tip. The descriptive adjective for 'precious' agrees in gender and number with its noun.

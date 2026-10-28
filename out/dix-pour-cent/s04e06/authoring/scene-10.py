@@ -32,18 +32,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'He died in his sleep.' The vet assures her it was peaceful."),
-    (1, None, "'It is the best death.' He tries to make her feel better."),
-    (2, None, "'And for us too.' He adds that it is ideal for anyone."),
-    (3, None, "'It is true, thank you.' Arlette agrees sadly."),
-    (4, None, "'I reserved a place at the cemetery.' He took care of the arrangements."),
-    (5, None, "'They will come pick him up.' He explains the next step."),
-    (6, None, "'Can I do anything else?' He offers further assistance."),
-    (7, None, "'It is fine, thank you.' She declines politely."),
-    (8, None, "'Can you leave us?' She asks for some privacy."),
-    (9, None, "'Of course.' The vet respects her wish."),
-    (10, None, "'He is really gone.' She realizes the finality of it."),
-    (11, None, "'Goodbye, my dog.' She says a heartfelt farewell."),
+    (0, None, "'He died in his sleep.' The vet assures her it was peaceful. The verb meaning 'to be' pairs naturally with the noun for 'sleep' in everyday conversation."),
+    (1, None, "'It is the best death.' He tries to make her feel better. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe."),
+    (2, None, "'And for us too.' He adds that it is ideal for anyone. The adverb meaning 'also' gives the reply its conversational emphasis."),
+    (3, None, "'It is true, thank you.' Arlette agrees sadly. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (4, None, "'I reserved a place at the cemetery.' He took care of the arrangements. The verb meaning 'to have' pairs naturally with the noun for 'seat' in everyday conversation."),
+    (5, None, "'They will come pick him up.' He explains the next step. The clause hinges on the everyday verb meaning 'to come'."),
+    (6, None, "'Can I do anything else?' He offers further assistance. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question."),
+    (7, None, "'It is fine, thank you.' She declines politely. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (8, None, "'Can you leave us?' She asks for some privacy. Inverting the verb and pronoun around 'can you' creates a crisp, polished question."),
+    (9, None, "'Of course.' The vet respects her wish. The adverb meaning 'well' gives the reply its conversational emphasis."),
+    (10, None, "'He is really gone.' She realizes the finality of it. This conversational past tense combines a helper verb with the past participle for 'gone'."),
+    (11, None, "'Goodbye, my dog.' She says a heartfelt farewell. Notice how 'to see again' leads directly into the noun meaning 'dog'."),
 ]
 
 CLOSING = ('lea', 'Adieu.')

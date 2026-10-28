@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you find an interesting guide, Monica?' An inverted question inquiring about guidebook discoveries.
-- 'This book suggests very playful strolls!' An appreciative statement detailing quirky Parisian walking routes.
-- 'It is an original guide for visiting Paris.' An agreeable evaluation describing alternative sightseeing.
-- 'The clerk was so shy and flustered!' An amused observation noting the seller's visible shyness.
-- 'Any man would be flustered in front of you.' An empathetic compliment contextualizing masculine intimidation.
-- 'I want to experience a perfectly normal evening.' A decisive modal assertion stating a desire for ordinary life.
-- 'What do you want to do tonight exactly?' An interrogative phrase seeking practical evening plans.
-- 'Go to a small party among neighbors.' An infinitive proposal outlining a casual domestic gathering.
-- 'A building party with strangers?' An incredulous clarifying question questioning the informal venue.
-- 'Oui, to chat without protocol or cameras.' A purposeful prepositional phrase seeking genuine, unmediated conversation.
-- 'People are going to recognize you immediately, Monica.' A cautionary near-future warning anticipating public recognition.
-- 'I will wear simple and discreet clothes.' A reassuring future commitment to an understated outfit.
-- 'You are truly incorrigible and full of energy!' An affectionate exclamation admiring adventurous spirit.
-- 'Are you coming with me, my dear Gabriel?' A warm invitation asking an agent to join the adventure.
+- 'Did you find an interesting guide, Monica?' The descriptive adjective for 'interesting' agrees in gender and number with its noun. The descriptive adjective for 'interesting' agrees in gender and number with its noun.
+- 'This book suggests very playful strolls!' Notice how 'suggests' leads directly into the noun meaning 'book'. Notice how 'suggests' leads directly into the noun meaning 'book'.
+- 'It is an original guide for visiting Paris.' An agreeable evaluation describing alternative sightseeing. The descriptive adjective for 'original' agrees in gender and number with its noun.
+- 'The clerk was so shy and flustered!' The verb meaning 'was' pairs naturally with the noun for 'store clerk' in everyday conversation.
+- 'Any man would be flustered in front of you.' Notice how 'any' leads directly into the noun meaning 'man'. Notice how 'any' leads directly into the noun meaning 'man'.
+- 'I want to experience a perfectly normal evening.' The adjective meaning 'normal' takes its feminine form here to match the noun it describes.
+- 'What do you want to do tonight exactly?' The verb meaning 'do you want' pairs naturally with the noun for 'evening hours' in everyday conversation.
+- 'Go to a small party among neighbors.' Notice how 'go' leads directly into the noun meaning 'party'. Notice how 'go' leads directly into the noun meaning 'party'.
+- 'A building party with strangers?' In everyday spoken French, rising intonation on 'party' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'party' at the end is enough to turn the sentence into a question.
+- 'Oui, to chat without protocol or cameras.' Notice how 'chat' leads directly into the noun meaning 'etiquette'. Notice how 'chat' leads directly into the noun meaning 'etiquette'.
+- 'People are going to recognize you immediately, Monica.' French forms the near future by pairing the present tense of 'to go' directly with 'recognize'. French forms the near future by pairing the present tense of 'to go' directly with 'recognize'.
+- 'I will wear simple and discreet clothes.' A reassuring future commitment to an understated outfit. The descriptive adjective for 'simple' agrees in gender and number with its noun.
+- 'You are truly incorrigible and full of energy!' Gabriel uses the casual singular 'you' with 'vitality', showing close familiarity. Gabriel uses the casual singular 'you' with 'vitality', showing close familiarity.
+- 'Are you coming with me, my dear Gabriel?' The descriptive adjective for 'dear' agrees in gender and number with its noun. The descriptive adjective for 'dear' agrees in gender and number with its noun.

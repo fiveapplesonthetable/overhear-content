@@ -118,5 +118,5 @@ WALK = [
      "The imperative verb rallies their spirits for the guests."),
 ]
 
-OUTRO = "Mathias and Noemie return to their living room, united in humor and ready to host an unforgettable dinner party."
+OUTRO = "Mathias and Noemie return to their living room, united in humor and ready to host an unforgettable dinner party. When you watch the episode, listen out for the expressions meaning 'prepare' and 'rice'. You'll catch them now. See you next time."
 CLOSING = ("mathias", "Alors sourions pour sauver la soirée.")

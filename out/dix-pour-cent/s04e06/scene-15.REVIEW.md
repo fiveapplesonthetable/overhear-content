@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It feels good to tell the truth.' Andrea reflects on the relief of total honesty.
-- 'Absolutely, sincerity is essential.' Jean validates that authenticity matters above all.
-- 'I am totally on board for the film!' Jean commits enthusiastically to the leading role.
-- 'You accept despite all our problems?' Andrea is stunned by his willingness to take the risk.
-- 'I am delighted to sink with you!' Jean humorously declares his solidarity with the struggling agency.
-- 'Your reaction is incredible, Jean!' Andrea expresses her boundless excitement.
-- 'My character followed his dream in the past.' Jean reminisces about his defining cinematic role.
-- 'He dived to the very end of his passion.' Jean speaks of uncompromising artistic dedication.
-- 'Like in The Big Blue!' Andrea references the legendary film that made him a global star.
-- 'This new script resembles that spirit.' Jean finds an equivalent emotional pull in this screenplay.
-- 'You are saving Xavier's project!' Andrea celebrates how his involvement rescues the movie.
-- 'We are going to create a magnificent work.' Jean rallies her with confidence in their joint creative venture.
-- 'Thank you a thousand times for your trust.' Andrea pours out her profound appreciation.
+- 'It feels good to tell the truth.' Andrea reflects on the relief of total honesty. Notice how 'does' leads directly into the noun meaning 'good'.
+- 'Absolutely, sincerity is essential.' Jean validates that authenticity matters above all. The adjective meaning 'essential' takes its feminine form here to match the noun it describes.
+- 'I am totally on board for the film!' Jean commits enthusiastically to the leading role. The key noun here means 'film', anchored by its matching French article.
+- 'You accept despite all our problems?' Andrea is stunned by his willingness to take the risk. The formal 'you' pronoun sets a courteous, professional distance around 'accept'.
+- 'I am delighted to sink with you!' Jean humorously declares his solidarity with the struggling agency. The clause hinges on the everyday verb meaning 'sink'.
+- 'Your reaction is incredible, Jean!' Andrea expresses her boundless excitement. The descriptive adjective for 'incredible' agrees in gender and number with its noun.
+- 'My character followed his dream in the past.' Jean reminisces about his defining cinematic role. Notice how 'followed' leads directly into the noun meaning 'character'.
+- 'He dived to the very end of his passion.' Jean speaks of uncompromising artistic dedication. Notice how the short vowel drops before a vowel sound around 'dived', making the phrase flow smoothly as one unit.
+- 'Like in The Big Blue!' Andrea references the legendary film that made him a global star. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'This new script resembles that spirit.' Jean finds an equivalent emotional pull in this screenplay. The descriptive adjective for 'new' agrees in gender and number with its noun.
+- 'You are saving Xavier's project!' Andrea celebrates how his involvement rescues the movie. The formal 'you' pronoun sets a courteous, professional distance around 'save'.
+- 'We are going to create a magnificent work.' Jean rallies her with confidence in their joint creative venture. French forms the near future by pairing the present tense of 'to go' directly with 'create'.
+- 'Thank you a thousand times for your trust.' Andrea pours out her profound appreciation. Andrea uses the polite 'you' form alongside 'thank you' to keep a respectful professional tone.
 - 'See you soon for filming, Andrea!' Jean concludes their meeting on an uplifting and affectionate note.

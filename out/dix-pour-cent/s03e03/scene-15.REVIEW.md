@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Samy is not yet hired.' Camille reminds Gerard that the casting decision is not final. The negative adverb clarifies the status of the contract.
-- 'You are the star, Gerard.' She emphasizes his creative authority on the movie project. The emphatic pronoun confirms his lead status.
-- 'I only wanted to help.' Gerard admits that his generous intentions created complications. The restrictive phrase explains his original motive.
-- 'I cannot deprive this kid.' He refuses to crush a young actor's big opportunity. The negative modal verb demonstrates his moral integrity.
-- 'I think he will surprise everyone.' Camille expresses genuine faith in the newcomer's potential. The cognitive verb conveys optimistic confidence.
-- 'He can do his own stunts.' She highlights an impressive physical asset of the candidate. The modal construction details his athletic skills.
-- 'No kidding, that is wonderful for us.' Gerard reacts with dry irony to the stunt claim. The idiomatic exclamation expresses sarcastic amusement.
-- 'Hello! Are you doing well, Gerard?' Samy cheerfully greets the veteran actor. The friendly greeting opens their conversation politely.
-- 'I am sorry about earlier.' The newcomer apologizes for his disruptive rehearsal behavior. The past time adverb points back to the incident.
-- 'Did you come to run lines with me?' Samy hopes Gerard will rehearse the dialogue again. The motion verb asks about his willingness to practice.
-- 'You are a lucky charm for me.' He warmly praises Gerard's reassuring presence on set. The compound noun pays a heartfelt compliment.
-- 'I think Gerard is very busy.' Camille tries to protect the star from extra demands. The opinion verb tactfully intervenes to shield the actor.
-- 'No, I will run lines with you.' Gerard softens and graciously offers to rehearse the lines. The future verb confirms his kind decision.
+- 'Samy is not yet hired.' Camille reminds Gerard that the casting decision is not final. Notice the classic French sandwich negation wrapping right around 'is not'.
+- 'You are the star, Gerard.' She emphasizes his creative authority on the movie project. Camille uses the casual singular 'you' with 'star', showing close familiarity.
+- 'I only wanted to help.' Gerard admits that his generous intentions created complications. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'I cannot deprive this kid.' He refuses to crush a young actor's big opportunity. The two-part French negation brackets the verb for 'can' on both sides.
+- 'I think he will surprise everyone.' Camille expresses genuine faith in the newcomer's potential. The clause hinges on the everyday verb meaning 'think'.
+- 'He can do his own stunts.' She highlights an impressive physical asset of the candidate. The verb meaning 'can' pairs naturally with the noun for 'stunts' in everyday conversation.
+- 'No kidding, that is wonderful for us.' Gerard reacts with dry irony to the stunt claim. In spoken French, the little word before 'joke' drops its final vowel and attaches with an apostrophe.
+- 'Hello! Are you doing well, Gerard?' Samy cheerfully greets the veteran actor. Samy uses the polite 'you' form alongside 'are going' to keep a respectful professional tone.
+- 'I am sorry about earlier.' The newcomer apologizes for his disruptive rehearsal behavior. The key noun here means 'earlier', anchored by its matching French article.
+- 'Did you come to run lines with me?' Samy hopes Gerard will rehearse the dialogue again. Notice how 'come' leads directly into the noun meaning 'cue'.
+- 'You are a lucky charm for me.' He warmly praises Gerard's reassuring presence on set. The formal 'you' pronoun sets a courteous, professional distance around 'lucky charm'.
+- 'I think Gerard is very busy.' Camille tries to protect the star from extra demands. The descriptive adjective for 'busy' agrees in gender and number with its noun.
+- 'No, I will run lines with you.' Gerard softens and graciously offers to rehearse the lines. The reflexive pronoun sits right in front of the verb for 'am going', turning the action back onto the subject.
 - 'Thank you so much for your help, Gerard!' Samy rejoices at the veteran's generous gesture. The enthusiastic formula expresses profound relief.

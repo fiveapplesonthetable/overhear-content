@@ -45,29 +45,29 @@ OPENER = "Let's walk through it. Camille finds her client packing her bags."
 
 WALK = [
  (0, None,
-  "'Sigourney, what is going on?' Camille is shocked to see the star ready to leave."),
+  "'Sigourney, what is going on?' Camille is shocked to see the star ready to leave. The standard spoken question formula at the front turns the statement about 'to happen' into a natural inquiry."),
  (1, None,
-  "'I am going back to Los Angeles.' The actress announces her immediate departure."),
+  "'I am going back to Los Angeles.' The actress announces her immediate departure. The clause hinges on the everyday verb meaning 'to go home'."),
  (2, None,
-  "'But why?' Camille desperately wants to know what went wrong."),
+  "'But why?' Camille desperately wants to know what went wrong. The adverb meaning 'why' gives the reply its conversational emphasis."),
  (3, None,
-  "'I must take this plane.' Sigourney insists that she is leaving no matter what."),
+  "'I must take this plane.' Sigourney insists that she is leaving no matter what. The verb meaning 'must' pairs naturally with the noun for 'plane' in everyday conversation."),
  (4, None,
-  "'You have twelve hours to explain.' Camille reminds her that the flight is not until tomorrow."),
+  "'You have twelve hours to explain.' Camille reminds her that the flight is not until tomorrow. Notice how 'to be' leads directly into the noun meaning 'hour'."),
  (5, None,
-  "'I thought that Gaspard Ulliel would be my partner.' She reveals the real reason for her anger."),
+  "'I thought that Gaspard Ulliel would be my partner.' She reveals the real reason for her anger. This conversational past tense combines a helper verb with the past participle for 'to think'."),
  (6, None,
-  "'But nobody said that.' Camille is confused by this completely false expectation."),
+  "'But nobody said that.' Camille is confused by this completely false expectation. Notice how 'to be' leads directly into the noun meaning 'person'."),
  (7, None,
-  "'An American woman who leaves everything for love...' She explains the romantic storyline she envisioned."),
+  "'An American woman who leaves everything for love...' She explains the romantic storyline she envisioned. The adjective meaning 'American' takes its feminine form here to match the noun it describes."),
  (8, None,
-  "'For a young professor, I thought that was compelling.' She loved the idea of a younger love interest."),
+  "'For a young professor, I thought that was compelling.' She loved the idea of a younger love interest. Notice how 'to find' leads directly into the noun meaning 'teacher'."),
  (9, None,
-  "'Gaspard Ulliel is thirty-five years old.' Camille points out the massive age gap."),
+  "'Gaspard Ulliel is thirty-five years old.' Camille points out the massive age gap. The verb meaning 'to be' pairs naturally with the noun for 'year' in everyday conversation."),
  (10, None,
-  "'It is time for things to change.' Sigourney wants to challenge the traditional double standards."),
+  "'It is time for things to change.' Sigourney wants to challenge the traditional double standards. Notice how 'to be' leads directly into the noun meaning 'time'."),
  (11, None,
-  "'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants.")
+  "'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants. The verb meaning 'to be' pairs naturally with the noun for 'lover' in everyday conversation.")
 ]
 
 TRANSITION = "Now let's hear the scene once more."

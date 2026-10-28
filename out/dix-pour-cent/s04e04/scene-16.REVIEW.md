@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello Camille! How are you doing?' Mathias welcomes his daughter into his apartment. The greeting question 'comment tu vas' asks how someone is.
 - 'I am fine. Is Noemie not here?' Camille checks whether Mathias is currently alone. The adverb 'ici' or 'la' denotes location.
-- 'No. What is going on?' Mathias wonders what brings Camille to his home so unexpectedly. The interrogative phrase 'qu'est-ce qui se passe' asks what is happening.
+- 'No. What is going on?' Mathias wonders what brings Camille to his home so unexpectedly. The standard spoken question formula at the front turns the statement about 'is going on' into a natural inquiry.
 - 'I am having problems at work.' Camille mentions that things have gone wrong at the agency. The plural noun phrase 'des problemes' denotes difficulties.
 - 'I lost my first big contract.' Camille explains the loss of her promising book adaptation. The ordinal adjective 'premier' means first.
 - 'Do not worry, other contracts will come.' Mathias tries to comfort her with professional optimism. The future tense 'viendront' comes from the verb 'venir'.
 - 'But I wanted to talk to you about something else.' Camille steers the conversation toward a personal matter. The imperfect verb form 'voulais' expresses past intention.
 - 'I thought about the paternity recognition.' Camille announces her willingness to make their bond official. The compound noun 'reconnaissance de paternite' denotes legal recognition.
-- 'Really? What made you change your mind?' Mathias is pleasantly surprised by her change of heart. The idiom 'changer d'avis' means to alter one's opinion.
+- 'Really? What made you change your mind?' Mathias is pleasantly surprised by her change of heart. Notice how 'has' leads directly into the noun meaning 'mind'.
 - 'I want to do it, we resemble each other.' Camille notes their shared traits and personality. The reflexive verb 'se ressembler' means to look like or resemble.
 - 'We can go to town hall tomorrow!' Mathias eagerly suggests making the declaration immediately. The modal phrase 'on peut' expresses ability or possibility.
 - 'Can we download the form now?' Camille suggests preparing the paperwork right away. The verb 'telecharger' means to download files.

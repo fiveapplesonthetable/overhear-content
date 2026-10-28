@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is to thank you all!' Jean Reno presents champagne and treats to the team. The verb 'remercier' means to thank.
 - 'Thank you Jean, that is very kind.' Andrea appreciates the generous thought. The adjective 'gentil' describes kind behavior.
 - 'I have something to tell you.' Andrea shifts the mood with a serious announcement. The pronoun 'quelque chose' means something.
-- 'You look serious, Andrea.' Jean notices her solemn expression. The idiom 'avoir l'air' translates to look or seem.
+- 'You look serious, Andrea.' Jean notices her solemn expression. Notice how 'to have' leads directly into the noun meaning 'air'.
 - 'I am leaving the agency.' Andrea delivers her shocking decision. The verb form 'pars' comes from 'partir', to leave.
 - 'Are you quitting this job?' Jean asks in genuine astonishment. The verb 'quitter' means to quit or leave behind.
 - 'Yes, I am leaving definitively.' Andrea confirms that her agent career is over. The adverb 'definitivement' signifies permanently or definitively.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But you, you must go on.' Andrea urges him to stay dedicated to cinema. The modal verb 'devoir' conveys duty or obligation.
 - 'Only if the movie happens!' Jean conditions his continuation on good cinema. The pronominal construction 'se faire' means to happen or come to fruition.
 - 'Elise Formain is a formidable woman.' Andrea warns him about rival management. The adjective 'redoutable' describes someone fearsome or formidable.
-- 'Do not worry about me.' Jean reassures her with his veteran wisdom. The imperative 'ne t'inquiete pas' means do not worry.
-- 'Take good care of your talent.' Andrea gives her final parting wish as an agent. The masculine noun 'talent' refers to natural ability or flair.
+- 'Do not worry about me.' Jean reassures her with his veteran wisdom. Notice the classic French sandwich negation wrapping right around 'to worry'.
+- 'Take good care of your talent.' Andrea gives her final parting wish as an agent. The verb meaning 'to take' pairs naturally with the noun for 'care' in everyday conversation.
 - 'Good luck for your new life!' Jean raises a glass to her brave next chapter. The phrase 'bonne chance' means good luck.

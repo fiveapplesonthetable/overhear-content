@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Charlotte, how are you since this accident?' Oscar expresses genuine concern for his childhood friend. The interrogative phrase seeks medical news.
-- 'It is awful, I slipped outside.' Charlotte plays up her dramatic distress. The negative adjective reinforces her fake misfortune.
-- 'How did you manage to slip?' Oscar wonders how such an athletic actress lost her footing. The question investigates the fall.
-- 'I slipped on a banana peel!' She offers the most ridiculous excuse imaginable. The prepositional phrase introduces a slapstick trope.
-- 'But that only happens in cartoons!' Oscar reacts with incredulous laughter at the bizarre explanation. The restrictive phrase questions reality.
-- 'A real nuisance, these banana peels!' Paco jumps in to support Charlotte's absurd story. The colloquial idiom validates the excuse.
-- 'I have a great idea for the film.' Oscar attempts to salvage the production despite her injury. The positive noun phrase announces a solution.
-- 'Your character will have telekinesis powers!' He proposes turning the heroine into a psychic superhero. The future tense outlines new powers.
-- 'Oscar, that is truly not believable.' Charlotte gently shoots down the farfetched revision. The negative adjective returns to realism.
-- 'We must speak to each other frankly.' She decides to break through the comical deception. The modal verb calls for sincerity.
-- 'You are right, this shoot was absurd.' Oscar concedes that the sci-fi project was ill-conceived. The concession relieves mounting tension.
-- 'I am preparing a beautiful animated film now.' He pitches a project better suited to his artistic voice. The present tense introduces new work.
-- 'Do you want to be my heroine's voice?' Oscar offers her the leading voiceover role. The polite question extends an invitation.
+- 'Charlotte, how are you since this accident?' Oscar expresses genuine concern for his childhood friend. The verb meaning 'are you doing' pairs naturally with the noun for 'mishap' in everyday conversation.
+- 'It is awful, I slipped outside.' Charlotte plays up her dramatic distress. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'How did you manage to slip?' Oscar wonders how such an athletic actress lost her footing. This conversational past tense combines a helper verb with the past participle for 'manage'.
+- 'I slipped on a banana peel!' She offers the most ridiculous excuse imaginable. Notice how 'I have' leads directly into the noun meaning 'skin'.
+- 'But that only happens in cartoons!' Oscar reacts with incredulous laughter at the bizarre explanation. Dropping the subject pronoun turns the verb for 'happens' into a direct, punchy command.
+- 'A real nuisance, these banana peels!' Paco jumps in to support Charlotte's absurd story. The key noun here means 'nuisance', anchored by its matching French article.
+- 'I have a great idea for the film.' Oscar attempts to salvage the production despite her injury. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'Your character will have telekinesis powers!' He proposes turning the heroine into a psychic superhero. Dropping the subject pronoun turns the verb for 'will have' into a direct, punchy command.
+- 'Oscar, that is truly not believable.' Charlotte gently shoots down the farfetched revision. Notice how the short vowel drops before a vowel sound around 'is not', making the phrase flow smoothly as one unit.
+- 'We must speak to each other frankly.' She decides to break through the comical deception. Notice how 'must' leads directly into the noun meaning 'frankness'.
+- 'You are right, this shoot was absurd.' Oscar concedes that the sci-fi project was ill-conceived. The verb meaning 'have' pairs naturally with the noun for 'right' in everyday conversation.
+- 'I am preparing a beautiful animated film now.' He pitches a project better suited to his artistic voice. Notice how the short vowel drops before a vowel sound around 'prepare', making the phrase flow smoothly as one unit.
+- 'Do you want to be my heroine's voice?' Oscar offers her the leading voiceover role. The verb meaning 'do you want' pairs naturally with the noun for 'voice' in everyday conversation.
 - 'Yes, I will read your script with joy!' Charlotte enthusiastically accepts the creative partnership. The future tense seals their collaboration.

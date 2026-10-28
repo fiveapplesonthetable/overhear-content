@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do not worry about Sandrine.' Sarah tries to soothe Gabriel's anxiety over his famous client. The negative imperative 'ne t'inquiete pas' means do not worry.
-- 'She just wants a change of air.' Sarah believes the actress merely craves novelty. The idiom 'changer d'air' means to get a change of scenery.
+- 'She just wants a change of air.' Sarah believes the actress merely craves novelty. Notice how 'wants' leads directly into the noun meaning 'air'.
 - 'But she wants to quit cinema!' Gabriel fears losing his star client to the stage forever. The verb 'quitter' means to leave or abandon.
-- 'She is going to have fun for five minutes.' Sarah predicts that the comedy experiment will be brief. The reflexive verb 's'amuser' means to have fun or enjoy oneself.
+- 'She is going to have fun for five minutes.' Sarah predicts that the comedy experiment will be brief. French forms the near future by pairing the present tense of 'to go' directly with 'to amuse'.
 - 'Then she will quickly come back.' Sarah is confident that Sandrine will return to film. The conjunction 'puis' means then or next.
-- 'Come back to what, in your opinion?' Gabriel half-heartedly follows her train of thought. The phrase 'a ton avis' means in your opinion.
-- 'To her true love, of course!' Sarah speaks poetically about the actress's lifelong vocation. The expression 'grand amour' translates as great love or true love.
-- 'And what is her true love?' Gabriel stares at his screen while asking the question. The informal question 'c'est quoi' asks what something is.
+- 'Come back to what, in your opinion?' Gabriel half-heartedly follows her train of thought. The informal 'you' form around 'to come back' marks a direct, personal relationship.
+- 'To her true love, of course!' Sarah speaks poetically about the actress's lifelong vocation. The descriptive adjective for 'great' agrees in gender and number with its noun.
+- 'And what is her true love?' Gabriel stares at his screen while asking the question. The descriptive adjective for 'great' agrees in gender and number with its noun.
 - 'It is cinema, my dear Gabriel.' Sarah states the obvious answer with gentle irony. The adjective 'cher' means dear.
 - 'But you are not even listening to me!' Sarah realizes that Gabriel is ignoring her completely. The adverb 'meme' adds the emphasis even.
-- 'All right, I am leaving now.' Fed up with his inattention, Sarah turns toward the door. The idiomatic verb 's'en aller' means to go away or leave.
+- 'All right, I am leaving now.' Fed up with his inattention, Sarah turns toward the door. The verb meaning 'go' pairs naturally with the noun for 'agreement' in everyday conversation.
 - 'Yes I am, I am truly listening to you!' Gabriel looks up in a panic and denies ignoring her. In French, 'si' is used instead of 'oui' to contradict a negative statement.
 - 'Do you want to come with me tonight?' Gabriel tries to make amends by inviting her out. The preposition 'avec' means with.
 - 'No, you only think about work.' Sarah rejects his offer and walks down the hallway. The adverb 'seulement' restricts the meaning to only.

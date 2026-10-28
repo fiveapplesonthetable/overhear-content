@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is this elegant woman at reception?' Camille asks about the sophisticated newcomer walking past the front desk.
-- 'You do not know Elise Formain?' Herve is shocked that Camille does not recognize Paris's most ruthless agent.
-- 'She is the biggest agent of StarMedia!' Herve explains that Elise is the leading power player at their rival company.
-- 'She took our best clients from us!' Herve reminds Camille of the severe talent losses ASK has suffered recently.
-- 'Nathalie Baye and Dany Boon, that is her?' Camille realizes Elise orchestrated those major defections.
-- 'Yes, she snatched everything from us without mercy!' Herve underscores Elise's predatory deal-making skills.
-- 'What is she doing here in our agency?' Camille questions why their fierce rival would set foot in their building.
-- 'Does StarMedia perhaps want to buy us out?' Herve dreads that StarMedia is preparing a full buyout of ASK.
-- 'That would be a catastrophe for all of us!' Camille shares her fear of being swallowed by corporate competitors.
-- 'Gabriel is finally arriving, come see quickly!' Herve calls Gabriel over to witness the situation.
-- 'What is happening here, friends?' Gabriel asks what has caused such sudden panic near reception.
-- 'Look in the hallway, Elise Formain is approaching!' Herve directs Gabriel's attention to the corridor.
-- 'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance.
+- 'Who is this elegant woman at reception?' Camille asks about the sophisticated newcomer walking past the front desk. The adjective meaning 'elegant' takes its feminine form here to match the noun it describes.
+- 'You do not know Elise Formain?' Herve is shocked that Camille does not recognize Paris's most ruthless agent. Notice the classic French sandwich negation wrapping right around 'know'.
+- 'She is the biggest agent of StarMedia!' Herve explains that Elise is the leading power player at their rival company. Dropping the subject pronoun turns the verb for 'she is' into a direct, punchy command.
+- 'She took our best clients from us!' Herve reminds Camille of the severe talent losses ASK has suffered recently. Notice how 'has' leads directly into the noun meaning 'clients!'.
+- 'Nathalie Baye and Dany Boon, that is her?' Camille realizes Elise orchestrated those major defections. In everyday spoken French, rising intonation on 'it is' at the end is enough to turn the sentence into a question.
+- 'Yes, she snatched everything from us without mercy!' Herve underscores Elise's predatory deal-making skills. Dropping the subject pronoun turns the verb for 'has' into a direct, punchy command.
+- 'What is she doing here in our agency?' Camille questions why their fierce rival would set foot in their building. Inverting the verb and pronoun around 'is she doing' creates a crisp, polished question.
+- 'Does StarMedia perhaps want to buy us out?' Herve dreads that StarMedia is preparing a full buyout of ASK. The clause hinges on the everyday verb meaning 'wants'.
+- 'That would be a catastrophe for all of us!' Camille shares her fear of being swallowed by corporate competitors. Notice how 'would be' leads directly into the noun meaning 'catastrophe'.
+- 'Gabriel is finally arriving, come see quickly!' Herve calls Gabriel over to witness the situation. The clause hinges on the everyday verb meaning 'arrives'.
+- 'What is happening here, friends?' Gabriel asks what has caused such sudden panic near reception. The verb meaning 'happens' pairs naturally with the noun for 'friends?' in everyday conversation.
+- 'Look in the hallway, Elise Formain is approaching!' Herve directs Gabriel's attention to the corridor. Notice how 'look' leads directly into the noun meaning 'hallway'.
+- 'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance. In everyday spoken French, rising intonation on 'comes' at the end is enough to turn the sentence into a question.

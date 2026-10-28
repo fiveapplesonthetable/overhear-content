@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for your valuable help, boys.' Isabelle shows heartfelt appreciation for her agents. The polite formula acknowledges their overnight assistance.
-- 'This crazy night was a success.' Isabelle celebrates the triumphant filming. The demonstrative adjective highlights the unique, hectic shoot.
-- 'Get home safely and rest, Isabelle.' Mathias recommends overdue sleep. The coordinated imperative verbs express courteous concern.
-- 'I am stopping first at the Chanel show!' Isabelle reveals her immediate fashion appointment. The present motion verb demonstrates her tireless schedule.
-- 'Does this woman never sleep then?' Gabriel is stunned by her stamina. The negative rhetorical question expresses sheer awe.
-- 'Gabriel, I know what you are preparing.' Mathias signals that their secrets are out. The relative clause introduces knowledge of their hidden plans.
-- 'What are you talking about exactly, Mathias?' Gabriel questions the accusation. The interrogative inversion attempts to stall for time.
-- 'I know your real estate agent.' Mathias reveals his source of information. The direct verb confirms insider knowledge of their office hunt.
-- 'You are looking for new offices.' Mathias exposes their plan to leave ASK. The present verb describes their secret commercial search.
-- 'We can no longer work with Hicham.' Gabriel justifies their desire to leave. The negative modal construction highlights irreconcilable friction.
-- 'But we must all stick together!' Mathias urges agency cohesion. The obligation modal with an adjective pleads for unity.
-- 'We are a true family.' Mathias stresses their deep personal bond. The linking verb with an adjective appeals to emotional loyalty.
-- 'If Hicham left, would you stay?' Mathias proposes a mutual coup. The conditional hypothesis tests Gabriel's willingness to remain.
+- 'Thank you for your valuable help, boys.' Isabelle shows heartfelt appreciation for her agents. Isabelle uses the polite 'you' form alongside 'assistance' to keep a respectful professional tone.
+- 'This crazy night was a success.' Isabelle celebrates the triumphant filming. Notice how 'was' leads directly into the noun meaning 'night'.
+- 'Get home safely and rest, Isabelle.' Mathias recommends overdue sleep. The clause hinges on the everyday verb meaning 'go home'.
+- 'I am stopping first at the Chanel show!' Isabelle reveals her immediate fashion appointment. In spoken French, the little word before 'stop by' drops its final vowel and attaches with an apostrophe.
+- 'Does this woman never sleep then?' Gabriel is stunned by her stamina. French builds the 'never' negation in two parts wrapped right around 'sleeps'.
+- 'Gabriel, I know what you are preparing.' Mathias signals that their secrets are out. Mathias uses the polite 'you' form alongside 'know' to keep a respectful professional tone.
+- 'What are you talking about exactly, Mathias?' Gabriel questions the accusation. Inverting the verb and pronoun around 'are you talking' creates a crisp, polished question.
+- 'I know your real estate agent.' Mathias reveals his source of information. The descriptive adjective for 'real estate' agrees in gender and number with its noun.
+- 'You are looking for new offices.' Mathias exposes their plan to leave ASK. Notice how 'are looking for' leads directly into the noun meaning 'offices'.
+- 'We can no longer work with Hicham.' Gabriel justifies their desire to leave. The clause hinges on the everyday verb meaning 'can'.
+- 'But we must all stick together!' Mathias urges agency cohesion. The clause hinges on the everyday verb meaning 'must'.
+- 'We are a true family.' Mathias stresses their deep personal bond. The key noun here means 'family', anchored by its matching French article.
+- 'If Hicham left, would you stay?' Mathias proposes a mutual coup. Mathias uses the polite 'you' form alongside 'left' to keep a respectful professional tone.
 - 'That is a very interesting proposal, Mathias.' Gabriel considers the tactical offer. The evaluative adjective signals unexpected alignment between rivals.

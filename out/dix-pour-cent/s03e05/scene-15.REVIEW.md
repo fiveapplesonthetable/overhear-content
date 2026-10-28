@@ -27,10 +27,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I think constantly about this director Birag.' Beatrice fumes over her director's deception. The adverb 'toujours' indicates continuous thought.
+- 'I think constantly about this director Birag.' Beatrice fumes over her director's deception. Notice how 'think' leads directly into the noun meaning 'director'.
 - 'This situation really gets on my nerves!' Beatrice vents her boiling irritation. The colloquial phrase 'les nerfs' conveys deep agitation.
 - 'But we must return to the set.' Andrea gently reminds her of contractual reality. The noun 'plateau' refers to a film set or soundstage.
-- 'No, I will not return at all.' Beatrice digs in her heels stubbornly. The adverbial pronoun 'y' refers back to the film set.
+- 'No, I will not return at all.' Beatrice digs in her heels stubbornly. The clause hinges on the everyday verb meaning 'will return'.
 - 'They can bring a big lawsuit against me!' Beatrice dares the producers to sue her. The masculine noun 'proces' means legal trial or lawsuit.
 - 'I have nothing, I am not solvent.' Beatrice points out she has no assets to seize. The financial adjective 'solvable' means solvent.
 - 'Beatrice, the fines will fall back on ASK.' Andrea explains the harsh economic fallout for the agency. The verb 'retomber' means to fall back on.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Our agency is liable for signed contracts.' Andrea details their professional obligations. The adjective 'responsable' denotes legal liability.
 - 'So, are you abandoning me?' Beatrice asks out of sudden vulnerability. The verb 'lacher' colloquially means to let down or abandon.
 - 'No Beatrice, I never abandon you!' Andrea fiercely reassures her iconic client. The negative adverb 'jamais' promises lifelong loyalty.
-- 'I am always completely behind you.' Andrea affirms total solidarity. The idiom 'a fond' means wholeheartedly or all the way.
+- 'I am always completely behind you.' Andrea affirms total solidarity. The key noun here means 'bottom', anchored by its matching French article.
 - 'We are going to find a solution together today.' Andrea pivots constructively toward a resolution. The noun 'solution' means resolution or answer.
 - 'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea. The phrase 'faire confiance' means to trust.

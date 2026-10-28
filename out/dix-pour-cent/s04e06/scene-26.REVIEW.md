@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stop for a moment in front of the door.' Andrea pauses before the entrance of the floor.
-- 'Look at the letters on the glass.' Gabriel points to the golden sign on the door.
-- 'Samuel Kerr Agency.' Andrea reads the iconic name aloud to him.
-- 'Samuel would be very proud of us.' Gabriel remembers that their mentor loved them.
-- 'We saved so many films.' Andrea recalls the work that they accomplished.
-- 'And we loved our actors.' Gabriel adds that they cared for every client.
-- 'Even when they were difficult!' Andrea laughs as she remembers their battles.
-- 'Especially when they were difficult!' Gabriel smiles with fond affection for them.
-- 'Do you have any regrets?' Andrea asks if he feels any sorrow.
-- 'No, no regret tonight.' Gabriel affirms that he is at peace with it.
-- 'The story of ASK ends here.' Andrea accepts that the chapter is closed.
-- 'But our friendship remains intact.' Gabriel reassures her of their enduring bond.
-- 'Let us close this door forever.' Andrea turns the key in the lock.
+- 'Stop for a moment in front of the door.' Andrea pauses before the entrance of the floor. The verb meaning 'stop' pairs naturally with the noun for 'instant' in everyday conversation.
+- 'Look at the letters on the glass.' Gabriel points to the golden sign on the door. Notice how 'look at' leads directly into the noun meaning 'letters'.
+- 'Samuel Kerr Agency.' Andrea reads the iconic name aloud to him. The key noun here means 'agency', anchored by its matching French article.
+- 'Samuel would be very proud of us.' Gabriel remembers that their mentor loved them. The clause hinges on the everyday verb meaning 'would be'.
+- 'We saved so many films.' Andrea recalls the work that they accomplished. This conversational past tense combines a helper verb with the past participle for 'saved'.
+- 'And we loved our actors.' Gabriel adds that they cared for every client. The verb meaning 'have' pairs naturally with the noun for 'actors' in everyday conversation.
+- 'Even when they were difficult!' Andrea laughs as she remembers their battles. The clause hinges on the everyday verb meaning 'were'.
+- 'Especially when they were difficult!' Gabriel smiles with fond affection for them. Dropping the subject pronoun turns the verb for 'were' into a direct, punchy command.
+- 'Do you have any regrets?' Andrea asks if he feels any sorrow. Notice how 'is it' leads directly into the noun meaning 'regret'.
+- 'No, no regret tonight.' Gabriel affirms that he is at peace with it. The key noun here means 'regret', anchored by its matching French article.
+- 'The story of ASK ends here.' Andrea accepts that the chapter is closed. The reflexive pronoun sits right in front of the verb for 'ends', turning the action back onto the subject.
+- 'But our friendship remains intact.' Gabriel reassures her of their enduring bond. The verb meaning 'remains' pairs naturally with the noun for 'friendship' in everyday conversation.
+- 'Let us close this door forever.' Andrea turns the key in the lock. The verb meaning 'let us close' pairs naturally with the noun for 'door' in everyday conversation.
 - 'A new page begins.' Gabriel looks to the future with hope.

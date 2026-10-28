@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at this magnificent big crib!' Colette discovers the delivery. The noun berceau refers to a baby crib or cradle.
-- 'This gift does not come from my mother.' Andrea clarifies the origin of the item. The negative structure ne... pas surrounds the verb.
-- 'Who sent this luxurious crib?' Colette asks with rising suspicion. The pronoun qui asks who.
-- 'It is Hicham for the little flea.' Andrea shares Hicham's affectionate note. The affectionate phrase petite puce means little sweetie.
-- 'Hicham takes up too much room in our home!' Colette voices her discomfort. The expression prendre de la place means to take up space.
-- 'I keep my distance from him.' Andrea defends her daily behavior. The phrase garder ses distances means to keep at arm's length.
-- 'You do not set clear boundaries.' Colette expects firmer rules. The feminine plural noun limites means boundaries.
-- 'Are you angry with me for this situation?' Andrea senses lingering resentment. The idiom en vouloir à quelqu'un means to hold a grudge.
-- 'You knew that it would be difficult.' Colette recalls their prior discussions. The conditional form serait indicates a future in the past.
-- 'I lost my post in New York.' Andrea reminds her of personal sacrifices. The past tense ai perdu comes from perdre.
-- 'I see him every day at work.' Andrea highlights her daily professional stress. The adverbial phrase tous les jours means every day.
-- 'It is unfair to blame me for that.' Colette rejects unfair accusations. The construction il est followed by de and an infinitive expresses an evaluation.
-- 'I want to build this family with you.' Colette reaffirms her emotional commitment. The verb fonder means to found or build.
-- 'This baby is our most beautiful adventure.' Andrea softens the argument with love. The superlative structure notre plus belle modifies aventure.
+- 'Look at this magnificent big crib!' Colette discovers the delivery. Notice how 'look at' leads directly into the noun meaning 'crib'.
+- 'This gift does not come from my mother.' Andrea clarifies the origin of the item. The verb meaning 'comes' pairs naturally with the noun for 'gift' in everyday conversation.
+- 'Who sent this luxurious crib?' Colette asks with rising suspicion. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
+- 'It is Hicham for the little flea.' Andrea shares Hicham's affectionate note. The verb meaning 'it is' pairs naturally with the noun for 'sweetie' in everyday conversation.
+- 'Hicham takes up too much room in our home!' Colette voices her discomfort. Notice how 'takes' leads directly into the noun meaning 'room'.
+- 'I keep my distance from him.' Andrea defends her daily behavior. The verb meaning 'keep' pairs naturally with the noun for 'distance' in everyday conversation.
+- 'You do not set clear boundaries.' Colette expects firmer rules. Colette uses the casual singular 'you' with 'set', showing close familiarity.
+- 'Are you angry with me for this situation?' Andrea senses lingering resentment. Notice how the short vowel drops before a vowel sound around 'are angry', making the phrase flow smoothly as one unit.
+- 'You knew that it would be difficult.' Colette recalls their prior discussions. The clause hinges on the everyday verb meaning 'knew'.
+- 'I lost my post in New York.' Andrea reminds her of personal sacrifices. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'I see him every day at work.' Andrea highlights her daily professional stress. Notice how 'see' leads directly into the noun meaning 'days'.
+- 'It is unfair to blame me for that.' Colette rejects unfair accusations. The clause hinges on the everyday verb meaning 'it is'.
+- 'I want to build this family with you.' Colette reaffirms her emotional commitment. Notice how 'want' leads directly into the noun meaning 'family'.
+- 'This baby is our most beautiful adventure.' Andrea softens the argument with love. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.

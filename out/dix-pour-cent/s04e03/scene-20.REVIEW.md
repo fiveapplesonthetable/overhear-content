@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my lo-- Hello, my agent.' Jose catches himself on the phone in his suite. The slip of the tongue highlights their affectionate bond.
-- 'You almost said my love!' Andrea teases him with a knowing smile. The verb faillir with infinitive marks a near slip.
-- 'It starts with the same letter.' Jose laughs off the mistake playfully. The prepositional phrase offers an amusing excuse.
-- 'You are really incorrigible tonight.' Andrea relaxes on the sofa. The expressive adjective points out his unrepentant charm.
-- 'The day of filming was exhausting.' Jose leans back in his chair. The descriptive noun phrase recalls the demanding set.
-- 'We avoided a real catastrophe.' Andrea reflects on the near-disaster on set. The compound past marks the successful save.
-- 'Thanks to you, everything worked out.' Jose credits her skill as an agent. The idiomatic phrase honors her decisive intervention.
-- 'It is my role as a protective agent.' Andrea claims her duty with pride. The descriptive adjective defines her professional devotion.
-- 'Someone is knocking on the door now.' Jose turns toward the foyer. The impersonal pronoun on announces an arrival.
-- 'It is probably room service.' Andrea stands up to answer. The adverbial expression anticipates their ordered dinner.
-- 'Come in, please!' Jose calls out cheerfully toward the hall. The polite imperative welcomes the hotel staff.
-- 'Set the tray on the table.' Andrea guides the attendant into the room. The imperative verb directs the food service.
-- 'Thank you very much for this quick service.' Jose tips the server generously. The polite formula acknowledges prompt hospitality.
+- 'Hello, my lo-- Hello, my agent.' Jose catches himself on the phone in his suite. The key noun here means 'lo--', anchored by its matching French article.
+- 'You almost said my love!' Andrea teases him with a knowing smile. This conversational past tense combines a helper verb with the past participle for 'almost done'.
+- 'It starts with the same letter.' Jose laughs off the mistake playfully. The verb meaning 'starts' pairs naturally with the noun for 'letter' in everyday conversation.
+- 'You are really incorrigible tonight.' Andrea relaxes on the sofa. The informal 'you' form around 'evening' marks a direct, personal relationship.
+- 'The day of filming was exhausting.' Jose leans back in his chair. The adjective meaning 'exhausting' takes its feminine form here to match the noun it describes.
+- 'We avoided a real catastrophe.' Andrea reflects on the near-disaster on set. Notice how 'have' leads directly into the noun meaning 'catastrophe'.
+- 'Thanks to you, everything worked out.' Jose credits her skill as an agent. This conversational past tense combines a helper verb with the past participle for 'worked out'.
+- 'It is my role as a protective agent.' Andrea claims her duty with pride. The key noun here means 'role', anchored by its matching French article.
+- 'Someone is knocking on the door now.' Jose turns toward the foyer. The verb meaning 'knocks' pairs naturally with the noun for 'door' in everyday conversation.
+- 'It is probably room service.' Andrea stands up to answer. The key noun here means 'doubt', anchored by its matching French article.
+- 'Come in, please!' Jose calls out cheerfully toward the hall. Dropping the subject pronoun turns the verb for 'come in' into a direct, punchy command.
+- 'Set the tray on the table.' Andrea guides the attendant into the room. Notice how 'set' leads directly into the noun meaning 'tray'.
+- 'Thank you very much for this quick service.' Jose tips the server generously. The descriptive adjective for 'quick' agrees in gender and number with its noun.
 - 'We are finally going to be able to unwind together.' Andrea breathes a sigh of relief. The modal verbs convey welcome relaxation.

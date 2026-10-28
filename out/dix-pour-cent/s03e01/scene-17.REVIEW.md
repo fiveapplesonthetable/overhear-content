@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is normal that it takes time.' Camille explains that building an agent career requires patience. The conjunction que introduces the subjunctive clause.
-- 'Nobody is rushing to your office?' Annick asks about the pace of clients. The negative structure personne ne means nobody.
-- 'I do not have an office yet!' Camille points out her junior reality. The adverb encore indicates not yet when used with negation.
-- 'You are too kind for this environment.' Annick worries about fierce competition. The noun milieu refers here to the professional film circle.
-- 'And what are you eating there?' Annick questions her daughter's late meal. The question phrase qu'est-ce que asks what.
-- 'I am eating a quinoa salad.' Camille names her healthy quick dinner. The noun salade is feminine.
-- 'They contaminated you with this diet!' Annick teases her about Parisian habits. The verb contaminer is used figuratively here.
-- 'You look like a little dried bean.' Annick uses an affectionate comparison. The verb phrase ressembler à means to look like.
-- 'I still have two scripts to read.' Camille defends her late work schedule. The preposition à precedes the infinitive lire.
-- 'Go to bed right now!' Annick insists on immediate rest. The imperative phrase va te coucher is addressed to family.
-- 'I take naps during the day.' Camille shares her survival trick. The noun sieste is feminine.
-- 'Where do you take these quick naps?' Annick asks for more practical details. The interrogative adverb où asks where.
-- 'I sleep ten minutes in the bathroom.' Camille reveals her hidden resting spot. The plural noun toilettes refers to the restroom.
-- 'You must keep your dignity, my daughter!' Annick reminds her of self-respect. The impersonal verb phrase il faut expresses necessity.
+- 'It is normal that it takes time.' Camille explains that building an agent career requires patience. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
+- 'Nobody is rushing to your office?' Annick asks about the pace of clients. The reflexive pronoun sits right in front of the verb for 'rushes', turning the action back onto the subject.
+- 'I do not have an office yet!' Camille points out her junior reality. In spoken French, the little word before 'do not have' drops its final vowel and attaches with an apostrophe.
+- 'You are too kind for this environment.' Annick worries about fierce competition. The adjective meaning 'kind' takes its feminine form here to match the noun it describes.
+- 'And what are you eating there?' Annick questions her daughter's late meal. The informal 'you' form around 'are eating' marks a direct, personal relationship.
+- 'I am eating a quinoa salad.' Camille names her healthy quick dinner. The verb meaning 'am eating' pairs naturally with the noun for 'salad' in everyday conversation.
+- 'They contaminated you with this diet!' Annick teases her about Parisian habits. Notice how 'have you' leads directly into the noun meaning 'diet'.
+- 'You look like a little dried bean.' Annick uses an affectionate comparison. Annick uses the casual singular 'you' with 'look like', showing close familiarity.
+- 'I still have two scripts to read.' Camille defends her late work schedule. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'Go to bed right now!' Annick insists on immediate rest. French forms the near future by pairing the present tense of 'to go' directly with 'sleep'.
+- 'I take naps during the day.' Camille shares her survival trick. Notice how 'take' leads directly into the noun meaning 'naps'.
+- 'Where do you take these quick naps?' Annick asks for more practical details. The verb meaning 'do you take' pairs naturally with the noun for 'naps' in everyday conversation.
+- 'I sleep ten minutes in the bathroom.' Camille reveals her hidden resting spot. Notice how 'sleep' leads directly into the noun meaning 'minutes'.
+- 'You must keep your dignity, my daughter!' Annick reminds her of self-respect. Annick uses the casual singular 'you' with 'is necessary', showing close familiarity.

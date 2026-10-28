@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome to Paris, dear Madame Weaver!' Camille extends a warm French greeting to the distinguished Hollywood visitor.
-- 'Thank you very much, I am delighted to be here.' Sigourney expresses genuine happiness at returning to Paris.
-- 'Oh, but you speak French very well!' Camille reacts with delightful surprise to the star's flawless accent.
-- 'I love speaking French with you.' Sigourney shares her long-standing affection for the French language and culture.
-- 'Andrea has a big nanny problem.' Camille politely excuses her agency director's unexpected morning absence.
-- 'It is not a problem at all.' Sigourney displays total understanding and generosity toward working mothers.
-- 'She will join us directly at the hotel.' Camille coordinates the arrival plan at the prestigious Hôtel de Crillon.
-- 'But first, I have a vital appointment.' Sigourney playfully teases an essential stop before hotel check-in.
-- 'An appointment with a great director?' Camille wonders whether an unannounced filmmaker has summoned the actress.
-- 'No, with the best Parisian pastries!' Sigourney reveals that sampling authentic French baked sweets is her top priority.
-- 'I want to taste every flavor.' Sigourney inspects the vibrant vitrine filled with rainbow macarons.
+- 'Welcome to Paris, dear Madame Weaver!' Camille extends a warm French greeting to the distinguished Hollywood visitor. The adjective meaning 'dear' takes its feminine form here to match the noun it describes.
+- 'Thank you very much, I am delighted to be here.' Sigourney expresses genuine happiness at returning to Paris. The clause hinges on the everyday verb meaning 'to be'.
+- 'Oh, but you speak French very well!' Camille reacts with delightful surprise to the star's flawless accent. Camille uses the polite 'you' form alongside 'speak' to keep a respectful professional tone.
+- 'I love speaking French with you.' Sigourney shares her long-standing affection for the French language and culture. The clause hinges on the everyday verb meaning 'love'.
+- 'Andrea has a big nanny problem.' Camille politely excuses her agency director's unexpected morning absence. The descriptive adjective for 'big' agrees in gender and number with its noun.
+- 'It is not a problem at all.' Sigourney displays total understanding and generosity toward working mothers. The key noun here means 'problem', anchored by its matching French article.
+- 'She will join us directly at the hotel.' Camille coordinates the arrival plan at the prestigious Hotel de Crillon. The verb meaning 'will join' pairs naturally with the noun for 'hotel' in everyday conversation.
+- 'But first, I have a vital appointment.' Sigourney playfully teases an essential stop before hotel check-in. The descriptive adjective for 'vital' agrees in gender and number with its noun.
+- 'An appointment with a great director?' Camille wonders whether an unannounced filmmaker has summoned the actress. The descriptive adjective for 'great' agrees in gender and number with its noun.
+- 'No, with the best Parisian pastries!' Sigourney reveals that sampling authentic French baked sweets is her top priority. The key noun here means 'pastries', anchored by its matching French article.
+- 'I want to taste every flavor.' Sigourney inspects the vibrant vitrine filled with rainbow macarons. The verb meaning 'want' pairs naturally with the noun for 'flavors' in everyday conversation.
 - 'Orange blossom macarons!' Sigourney specifically orders her cherished floral-infused delicacy.
-- 'It is my favorite treat in Paris.' Sigourney admits that traditional confectioneries remain her biggest weakness.
-- 'You have truly exquisite tastes.' Camille happily escorts the satisfied star back toward the waiting car.
+- 'It is my favorite treat in Paris.' Sigourney admits that traditional confectioneries remain her biggest weakness. The adjective meaning 'favorite' takes its feminine form here to match the noun it describes.
+- 'You have truly exquisite tastes.' Camille happily escorts the satisfied star back toward the waiting car. The descriptive adjective for 'exquisite' agrees in gender and number with its noun.

@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Here is the signed contract of Beatrice Dalle.' Director Birag presents the binding legal document. The past participle 'signe' functions as an adjective.
 - 'The actress agrees to appear nude during shooting.' Birag points directly to the controversial nudity clause. The reflexive verb 'se denuder' means to strip or appear naked.
 - 'This decision is at my sole discretion.' Birag asserts his unilateral creative authority. The noun 'discretion' indicates personal decision-making power.
-- 'Only for a true love scene!' Andrea firmly challenges the director's interpretation. The adverb 'seulement' restricts the permissible circumstances.
+- 'Only for a true love scene!' Andrea firmly challenges the director's interpretation. The key noun here means 'dramatic scene', anchored by its matching French article.
 - 'Yet your scene takes place in the morgue.' Andrea exposes the absurd setting for a supposed romance. The feminine noun 'morgue' denotes a mortuary.
 - 'The man gazes upon his deceased great love.' Birag attempts to romanticize the chilling sequence. The adjective 'decede' means deceased or departed.
-- 'It is a very pure love scene.' The director insists on the emotional essence of the moment. The feminine adjective 'pure' conveys unblemished nobility.
+- 'It is a very pure love scene.' The director insists on the emotional essence of the moment. The adjective meaning 'pure' takes its feminine form here to match the noun it describes.
 - 'Stop, you are playing on words!' Andrea furiously cuts through his rhetorical sophistry. The idiom 'jouer sur les mots' means to quibble or manipulate terms.
 - 'A love scene means an intimate scene.' Andrea clarifies what standard contract language intended. The verb 'signifier' means to mean or signify.
 - 'The contract clearly indicates a love scene.' Birag clings tightly to the literal phrasing. The verb 'indiquer' means to indicate or state.
-- 'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal. The masculine noun 'sac' refers to a bag or sack.
+- 'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal. The adjective meaning 'naked' takes its feminine form here to match the noun it describes.
 - 'Beatrice must resume shooting this afternoon.' The director issues a non-negotiable ultimatum. The noun 'apres-midi' designates the afternoon.
 - 'Otherwise, we will declare a breach of contract.' Birag threatens formal legal retaliation. The feminine noun 'rupture' means breach or termination.
 - 'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice. The idiom 'jusqu'au bout' means to the very end.

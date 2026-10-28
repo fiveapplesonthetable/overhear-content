@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I loved shooting this movie in Australia.' An enthusiastic past statement recalling international film work.
-- 'It was a very different role for you.' An appreciative observation noting artistic versatility.
-- 'Yes, but my private life is difficult.' An adversative transition shifting from career to personal dilemmas.
-- 'A star like you has many admirers!' A complimentary generalization acknowledging worldwide celebrity appeal.
-- 'Men see me only as a trophy.' A candid critique describing superficial male attention.
-- 'You perhaps intimidate many suitors.' An empathetic speculation explaining romantic hesitation.
-- 'I simply want to meet a normal man.' A straightforward desire formula wishing for grounded romance.
-- 'What is a normal man for you?' An open interrogative exploring personal definitions of normalcy.
-- 'A simple, hardworking, and caring man.' Descriptive adjectives highlighting unpretentious human virtues.
-- 'A man who does not know cinema?' A relative clause probing detachment from show business.
-- 'Exactly, someone who loves me for myself.' An enthusiastic confirmation desiring unconditional love.
-- 'That kind of man surely exists in Paris.' An encouraging assertion supporting romantic hope in the capital.
-- 'Then help me find him, Gabriel!' A playful imperative enlisting agent assistance in love.
-- 'That is an original mission for an agent!' An amused exclamatory evaluation welcoming an unconventional task.
+- 'I loved shooting this movie in Australia.' Notice how 'have' leads directly into the noun meaning 'movie'. Notice how 'have' leads directly into the noun meaning 'movie'.
+- 'It was a very different role for you.' The verb meaning 'was' pairs naturally with the noun for 'acting part' in everyday conversation.
+- 'Yes, but my private life is difficult.' An adversative transition shifting from career to personal dilemmas. The adjective meaning 'private' takes its feminine form here to match the noun it describes.
+- 'A star like you has many admirers!' A complimentary generalization acknowledging worldwide celebrity appeal. Dropping the subject pronoun turns the verb for 'has' into a direct, punchy command.
+- 'Men see me only as a trophy.' A candid critique describing superficial male attention. The reflexive pronoun sits right in front of the verb for 'see', turning the action back onto the subject.
+- 'You perhaps intimidate many suitors.' An empathetic speculation explaining romantic hesitation. The informal 'you' form around 'intimidate' marks a direct, personal relationship.
+- 'I simply want to meet a normal man.' Notice how 'want' leads directly into the noun meaning 'man'. Notice how 'want' leads directly into the noun meaning 'man'.
+- 'What is a normal man for you?' An open interrogative exploring personal definitions of normalcy. The descriptive adjective for 'normal' agrees in gender and number with its noun.
+- 'A simple, hardworking, and caring man.' Descriptive adjectives highlighting unpretentious human virtues. The descriptive adjective for 'simple' agrees in gender and number with its noun.
+- 'A man who does not know cinema?' Notice how 'knows' leads directly into the noun meaning 'man'. Notice how 'knows' leads directly into the noun meaning 'man'.
+- 'Exactly, someone who loves me for myself.' Notice how the short vowel drops before a vowel sound around 'loves', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'loves', making the phrase flow smoothly as one unit.
+- 'That kind of man surely exists in Paris.' Notice how 'exists' leads directly into the noun meaning 'kind'. Notice how 'exists' leads directly into the noun meaning 'kind'.
+- 'Then help me find him, Gabriel!' Dropping the subject pronoun turns the verb for 'help me' into a direct, punchy command. Dropping the subject pronoun turns the verb for 'help me' into a direct, punchy command.
+- 'That is an original mission for an agent!' An amused exclamatory evaluation welcoming an unconventional task. The key noun here means 'assignment', anchored by its matching French article.

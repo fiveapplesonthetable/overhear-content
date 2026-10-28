@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sandrine, are you ready to sing?' Gabriel asks if she is prepared to take the stage.
-- 'Yes, I am going on stage now.' Sandrine confirms that she is stepping out to perform.
-- 'Sing with all your heart.' Gabriel encourages her to express herself freely.
-- 'Remember the past with tenderness.' Sandrine opens her lyrical melody with nostalgic warmth.
-- 'Always keep your childhood memories.' Sandrine sings of holding on to youthful innocence.
-- 'Your voice is magnificent tonight.' Gabriel marvels at her expressive musical tone.
-- 'Music brings me great joy.' Sandrine explains that singing brings her great joy in the moment.
-- 'The audience is listening to you in silence.' Gabriel observes the spellbound crowd.
-- 'I finally feel free here.' Sandrine describes the liberation she finds in song.
-- 'You are an extraordinary artist.' Gabriel praises her distinctive emotional depth.
-- 'I am no longer afraid of stage fright.' Sandrine celebrates conquering her anxiety.
-- 'The stage belongs to you, Sandrine.' Gabriel reassures her of her rightful place.
-- 'Thank you for your precious support, Gabriel.' Sandrine expresses gratitude to her dedicated agent.
+- 'Sandrine, are you ready to sing?' Gabriel asks if she is prepared to take the stage. Gabriel uses the polite 'you' form alongside 'sing' to keep a respectful professional tone.
+- 'Yes, I am going on stage now.' Sandrine confirms that she is stepping out to perform. The verb meaning 'go up' pairs naturally with the noun for 'stage' in everyday conversation.
+- 'Sing with all your heart.' Gabriel encourages her to express herself freely. Notice how 'sing' leads directly into the noun meaning 'heart'.
+- 'Remember the past with tenderness.' Sandrine opens her lyrical melody with nostalgic warmth. The verb meaning 'remember' pairs naturally with the noun for 'past' in everyday conversation.
+- 'Always keep your childhood memories.' Sandrine sings of holding on to youthful innocence. The informal 'you' form around 'keep' marks a direct, personal relationship.
+- 'Your voice is magnificent tonight.' Gabriel marvels at her expressive musical tone. Gabriel uses the polite 'you' form alongside 'voice' to keep a respectful professional tone.
+- 'Music brings me great joy.' Sandrine explains that singing brings her great joy in the moment. The verb meaning 'brings' pairs naturally with the noun for 'music' in everyday conversation.
+- 'The audience is listening to you in silence.' Gabriel observes the spellbound crowd. The verb meaning 'listens to' pairs naturally with the noun for 'audience' in everyday conversation.
+- 'I finally feel free here.' Sandrine describes the liberation she finds in song. The reflexive pronoun sits right in front of the verb for 'feel', turning the action back onto the subject.
+- 'You are an extraordinary artist.' Gabriel praises her distinctive emotional depth. Gabriel uses the polite 'you' form alongside 'artist' to keep a respectful professional tone.
+- 'I am no longer afraid of stage fright.' Sandrine celebrates conquering her anxiety. Notice how 'have' leads directly into the noun meaning 'fear'.
+- 'The stage belongs to you, Sandrine.' Gabriel reassures her of her rightful place. The verb meaning 'belongs' pairs naturally with the noun for 'stage' in everyday conversation.
+- 'Thank you for your precious support, Gabriel.' Sandrine expresses gratitude to her dedicated agent. The formal 'you' pronoun sets a courteous, professional distance around 'thank you'.
 - 'Congratulations on this very beautiful song!' Gabriel celebrates her triumphant musical performance.

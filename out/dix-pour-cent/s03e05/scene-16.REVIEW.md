@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are organizing a magnificent party tonight.' Noemie describes the major milestone celebration. The feminine noun 'fete' denotes a formal party or celebration.
 - 'There is no private parking.' Noemie warns about Parisian parking constraints. The masculine noun 'parking' denotes a car park.
 - 'But delivery spots are free.' Noemie points out designated loading zones. The noun 'livraison' means delivery.
-- 'They are located right downstairs.' Noemie directs the driver to the street below. The reflexive verb 'se trouver' indicates location.
+- 'They are located right downstairs.' Noemie directs the driver to the street below. The clause hinges on the everyday verb meaning 'are located'.
 - 'You can drop off the equipment in the street.' Noemie guides the delivery team. The verb 'deposer' means to drop off or unload.
-- 'You are welcome, see you shortly!' Noemie concludes the logistical call politely. The temporal phrase 'a tout a l'heure' means see you soon.
+- 'You are welcome, see you shortly!' Noemie concludes the logistical call politely. Noemie uses the polite 'you' form alongside 'pray' to keep a respectful professional tone.

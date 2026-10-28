@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My phone is exploding with calls this morning.' An overwhelmed remark describing intense morning communication pressure.
-- 'Diane needs a red dress.' A concrete celebrity styling emergency illustrating demanding client requests.
-- 'You looked in a great hurry.' An observant reaction noting the agent's breathless and frantic pace.
-- 'I am picking up Charlotte at the airport.' A prompt clarification explaining the pressing travel deadline.
-- 'You must read Oscar's script.' A direct delegation handing over an unread project under strict deadlines.
-- 'You did not read it last night?' A surprised inquiry wondering why the senior agent did not review the text.
-- 'No, the baby cried non-stop.' A relatable personal justification citing family obligations and sleep deprivation.
-- 'Charlotte is going to ask me a thousand questions.' A realistic forecast predicting thorough questioning from the movie star.
-- 'When do you want my opinion on the story?' A practical procedural question clarifying the expected delivery time.
-- 'I need you to devour it immediately.' An emphatic imperative commanding rapid and thorough script analysis.
-- 'I must buy a little time.' A candid admission of strategic stalling while awaiting feedback.
-- 'I will send you a text very quickly.' A reassuring commitment promising prompt summary notes.
-- 'Hurry up, we are really short on time.' An urgent warning highlighting the rapidly closing window of opportunity.
-- 'I am starting reading right away.' A loyal agreement confirming immediate action on the script.
+- 'My phone is exploding with calls this morning.' Notice how 'explodes' leads directly into the noun meaning 'telephone'. Notice how 'explodes' leads directly into the noun meaning 'telephone'.
+- 'Diane needs a red dress.' Notice how 'has' leads directly into the noun meaning 'need'. Notice how 'has' leads directly into the noun meaning 'need'.
+- 'You looked in a great hurry.' The adjective meaning 'hurried' takes its feminine form here to match the noun it describes.
+- 'I am picking up Charlotte at the airport.' The verb meaning 'am going' pairs naturally with the noun for 'airport' in everyday conversation.
+- 'You must read Oscar's script.' The informal 'you' form around 'must' marks a direct, personal relationship. The informal 'you' form around 'must' marks a direct, personal relationship.
+- 'You did not read it last night?' The two-part French negation brackets the verb for 'have' on both sides. The two-part French negation brackets the verb for 'have' on both sides.
+- 'No, the baby cried non-stop.' The verb meaning 'has' pairs naturally with the noun for 'infant' in everyday conversation.
+- 'Charlotte is going to ask me a thousand questions.' A realistic forecast predicting thorough questioning from the movie star. The verb meaning 'goes' pairs naturally with the noun for 'questions' in everyday conversation.
+- 'When do you want my opinion on the story?' Inverting the verb and pronoun around 'do you want' creates a crisp, polished question. Inverting the verb and pronoun around 'do you want' creates a crisp, polished question.
+- 'I need you to devour it immediately.' The verb meaning 'I have' pairs naturally with the noun for 'need' in everyday conversation.
+- 'I must buy a little time.' Notice how 'must' leads directly into the noun meaning 'time duration'. Notice how 'must' leads directly into the noun meaning 'time duration'.
+- 'I will send you a text very quickly.' A reassuring commitment promising prompt summary notes. The verb meaning 'send' pairs naturally with the noun for 'phone message' in everyday conversation.
+- 'Hurry up, we are really short on time.' Notice how 'hurry up' leads directly into the noun meaning 'time duration'. Notice how 'hurry up' leads directly into the noun meaning 'time duration'.
+- 'I am starting reading right away.' A loyal agreement confirming immediate action on the script. The verb meaning 'begins' pairs naturally with the noun for 'reading' in everyday conversation.

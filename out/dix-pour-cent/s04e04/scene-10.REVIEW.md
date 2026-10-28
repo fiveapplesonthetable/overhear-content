@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is all this coming and going here?' Elise asks about the steady stream of candidates outside Andrea's door. The expression 'va-et-vient' means coming and going.
+- 'What is all this coming and going here?' Elise asks about the steady stream of candidates outside Andrea's door. In everyday spoken French, rising intonation on 'bustle' at the end is enough to turn the sentence into a question.
 - 'I am looking for a nanny for my daughter.' Andrea explains that she has been conducting interviews all morning. The feminine noun 'nounou' is a common informal term for nanny.
-- 'You bring Flora to the office since Monday.' Elise points out that the baby has been sleeping by Andrea's desk. The verb 'amener' means to bring a person.
+- 'You bring Flora to the office since Monday.' Elise points out that the baby has been sleeping by Andrea's desk. Elise uses the casual singular 'you' with 'bring', showing close familiarity.
 - 'We lost our place at daycare.' Andrea explains her sudden child care emergency. The feminine noun 'creche' refers to an infant daycare center.
 - 'You seem completely exhausted, Andrea.' Elise recognizes the signs of maternal burnout. The adjective 'epuisee' means completely drained or exhausted.
 - 'Daycare centers ask two years of waiting!' Andrea complains about absurd registration delays in Paris. The feminine noun 'creche' designates a daycare center.
 - 'You can talk to me in full confidence.' Elise offers a rare moment of genuine vulnerability and support. The feminine noun 'confiance' means trust or confidence.
-- 'I feel like I do everything wrong.' Andrea admits her deep feelings of maternal guilt and inadequacy. The noun 'impression' means feeling or impression.
+- 'I feel like I do everything wrong.' Andrea admits her deep feelings of maternal guilt and inadequacy. Notice how 'have' leads directly into the noun meaning 'impression'.
 - 'I had three children all alone.' Elise shares her experience raising children from three previous marriages. The irregular verb 'eu' is the past participle of avoir.
 - 'How do you manage to organize everything?' Andrea asks for practical advice on balancing work and family. The verb 'organiser' means to organize or arrange.
 - 'To make Flora happy, be happy.' Elise offers wise perspective on prioritizing personal well-being. The subjunctive 'sois' serves as an encouraging imperative.
 - 'I just need a good nanny.' Andrea focuses on her immediate practical obstacle. The phrase 'avoir besoin de' expresses necessity.
-- 'Nannies in Paris are a mafia!' Elise jokes about the hyper-competitive and secretive nanny market. The noun 'mafia' metaphorically denotes an exclusive syndicate.
+- 'Nannies in Paris are a mafia!' Elise jokes about the hyper-competitive and secretive nanny market. The key noun here means 'nannies', anchored by its matching French article.
 - 'Leave it to me, I know people.' Elise promises to unlock her secret contact list to find the ideal caregiver. The idiom 'connaitre du monde' means to have connections.

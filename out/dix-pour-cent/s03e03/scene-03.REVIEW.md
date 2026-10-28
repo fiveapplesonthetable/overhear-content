@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Noemie, may I come in?' A polite greeting asking permission to enter the apartment.
-- 'Hello Catherine, come in, please.' A welcoming formula inviting the visitor inside.
-- 'This pretty sweater suits you very well.' A complimentary observation appreciating the gifted clothing.
-- 'Thank you for this wonderful gift.' An expression of polite gratitude for the present.
-- 'It is natural after that terrible accident.' An empathetic reassurance acknowledging past misfortune.
-- 'Do not worry, I have sturdy bones.' A humorous physical reassurance comforting the concerned guest.
-- 'Are you reading a book about shamanism?' An observant question noticing spiritual literature on the table.
-- 'Yes, I am trying to awaken my shaman.' A playful literal quote echoing the self-help title.
-- 'This spiritual subject interests me very much.' A genuine confession of personal curiosity in wellness.
-- 'Really? Are you interested in these practices?' An intrigued inquiry exploring shared spiritual interests.
-- 'I do meditation and yoga.' A personal revelation describing daily mindfulness habits.
-- 'Here, take this book for yourself.' A generous imperative offering the book as an exchange.
-- 'Thank you Noemie, you are a real gem.' A warm metaphor praising gracious hospitality.
-- 'This reading will do you good.' A benevolent future prediction wishing mental peace.
+- 'Hello Noemie, may I come in?' The clause hinges on the everyday verb meaning 'can'.
+- 'Hello Catherine, come in, please.' The formal 'you' pronoun sets a courteous, professional distance around 'come in'.
+- 'This pretty sweater suits you very well.' The verb meaning 'goes' pairs naturally with the noun for 'sweater' in everyday conversation.
+- 'Thank you for this wonderful gift.' An expression of polite gratitude for the present. The descriptive adjective for 'magnificent' agrees in gender and number with its noun.
+- 'It is natural after that terrible accident.' An empathetic reassurance acknowledging past misfortune. The key noun here means 'accident', anchored by its matching French article.
+- 'Do not worry, I have sturdy bones.' A humorous physical reassurance comforting the concerned guest. The descriptive adjective for 'solid' agrees in gender and number with its noun.
+- 'Are you reading a book about shamanism?' The formal 'you' pronoun sets a courteous, professional distance around 'are reading'.
+- 'Yes, I am trying to awaken my shaman.' A playful literal quote echoing the self-help title. The verb meaning 'tries' pairs naturally with the noun for 'shaman' in everyday conversation.
+- 'This spiritual subject interests me very much.' Notice how 'interests' leads directly into the noun meaning 'subject'. Notice how 'interests' leads directly into the noun meaning 'subject'.
+- 'Really? Are you interested in these practices?' In everyday spoken French, rising intonation on 'are interested' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'are interested' at the end is enough to turn the sentence into a question.
+- 'I do meditation and yoga.' A personal revelation describing daily mindfulness habits. Notice how 'do' leads directly into the noun meaning 'meditation'.
+- 'Here, take this book for yourself.' Noemie uses the polite 'you' form alongside 'here' to keep a respectful professional tone. Noemie uses the polite 'you' form alongside 'here' to keep a respectful professional tone.
+- 'Thank you Noemie, you are a real gem.' A warm metaphor praising gracious hospitality. The key noun here means 'pearl', anchored by its matching French article.
+- 'This reading will do you good.' A benevolent future prediction wishing mental peace. The verb meaning 'will do' pairs naturally with the noun for 'reading' in everyday conversation.

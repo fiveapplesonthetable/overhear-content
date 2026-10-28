@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is not over for Auteuil.' Mathias insists the casting choice is still open. The adjective 'fini' indicates completion.
 - 'Listen, the situation is becoming too complicated.' Gabriel stresses the mounting confusion. The verb 'devenir' means to become.
 - 'I keep you posted tomorrow.' Mathias promises to share updates later. The idiom 'tenir au courant' means to keep someone informed.
-- 'Are you going to give in to blackmail now?' Gabriel questions Mathias's ethics. The verb 'ceder' expresses yielding or surrendering.
+- 'Are you going to give in to blackmail now?' Gabriel questions Mathias's ethics. Notice how 'are going to' leads directly into the noun meaning 'blackmail'.
 - 'I am a cinema producer now.' Mathias underlines his independence from ASK. The noun 'producteur' denotes a film producer.
 - 'You must protect our favorite actors.' Gabriel appeals to their shared history. The adjective 'prefere' expresses preference.
 - 'I choose the best actor possible.' Mathias prioritizes artistic criteria. The superlative 'le meilleur' means the best.
 - 'If Dany leaves ASK, we sink!' Gabriel warns of financial ruin. The verb 'couler' figuratively means to sink or go bankrupt.
-- 'The agency will start sinking fast.' Mathias acknowledges the impending danger. The verb phrase 'commencer a' marks the start of an event.
+- 'The agency will start sinking fast.' Mathias acknowledges the impending danger. The verb meaning 'will' pairs naturally with the noun for 'agency' in everyday conversation.
 - 'I call Franck to arrange everything.' Gabriel intervenes directly with the talent. The verb 'arranger' means to resolve or sort out.
 - 'He filters all my recent calls.' Mathias warns that Franck is avoiding him. The verb 'filtrer' means to screen or filter.
-- 'Hello Franck? Yes, it is Gabriel here.' Gabriel manages to reach Franck on the phone. The phrase 'c'est Gabriel ici' is common in phone introductions.
+- 'Hello Franck? Yes, it is Gabriel here.' Gabriel manages to reach Franck on the phone. The adverb meaning 'yes' gives the reply its conversational emphasis.
 - 'Good luck convincing our friend!' Mathias offers parting encouragement. The prepositional phrase 'bonne chance pour' wishes success.

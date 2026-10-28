@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your glass of fresh water, Andrea.' A helpful presentative introducing refreshing water.
-- 'It is fine, the contraction has passed.' A reassuring compound past statement confirming relief.
-- 'Drink a little water, gently.' A caring imperative advising calm hydration.
-- 'Thank you Gabriel, I already feel better.' A grateful pronominal expression of physical improvement.
-- 'Do you often have such pains?' An inverted question inquiring about recurring symptoms.
-- 'Sometimes, when I walk too fast.' A temporal adverbial clause explaining physical exertion.
-- 'You should really slow down the pace.' A conditional modal advising professional restraint.
-- 'Impossible with all my important meetings!' An elliptical exclamation defending a demanding schedule.
-- 'The health of your baby comes first.' A priority assertion advocating maternal care.
-- 'I know it well, my dear Gabriel.' A concession acknowledging sincere advice.
-- 'Promise me to rest tonight.' A protective imperative requesting domestic rest.
-- 'All right, I am going to go home earlier.' An agreeing near-future commitment to rest.
-- 'I will keep an eye on your departure from the office.' A friendly future promise of protective oversight.
-- 'You are truly a wonderful friend!' A warm complimentary exclamation celebrating steadfast friendship.
+- 'Here is your glass of fresh water, Andrea.' A helpful presentative introducing refreshing water. The key noun here means 'drinking glass', anchored by its matching French article.
+- 'It is fine, the contraction has passed.' The verb meaning 'passed' pairs naturally with the noun for 'uterine contraction' in everyday conversation.
+- 'Drink a little water, gently.' Notice how 'drink' leads directly into the noun meaning 'drinking water'. Notice how 'drink' leads directly into the noun meaning 'drinking water'.
+- 'Thank you Gabriel, I already feel better.' The reflexive pronoun sits right in front of the verb for 'feel', turning the action back onto the subject.
+- 'Do you often have such pains?' The informal 'you' form around 'have' marks a direct, personal relationship. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'Sometimes, when I walk too fast.' The clause hinges on the everyday verb meaning 'walk'.
+- 'You should really slow down the pace.' A conditional modal advising professional restraint. The informal 'you' form around 'should' marks a direct, personal relationship.
+- 'Impossible with all my important meetings!' The descriptive adjective for 'impossible' agrees in gender and number with its noun. The descriptive adjective for 'impossible' agrees in gender and number with its noun.
+- 'The health of your baby comes first.' Notice how 'passes' leads directly into the noun meaning 'health'. Notice how 'passes' leads directly into the noun meaning 'health'.
+- 'I know it well, my dear Gabriel.' A concession acknowledging sincere advice. The descriptive adjective for 'dear' agrees in gender and number with its noun.
+- 'Promise me to rest tonight.' Notice how 'promise me' leads directly into the noun meaning 'evening hours'. Notice how 'promise me' leads directly into the noun meaning 'evening hours'.
+- 'All right, I am going to go home earlier.' An agreeing near-future commitment to rest. Notice how 'am going' leads directly into the noun meaning 'agreement'.
+- 'I will keep an eye on your departure from the office.' Notice how 'will watch over' leads directly into the noun meaning 'leaving'. Notice how 'will watch over' leads directly into the noun meaning 'leaving'.
+- 'You are truly a wonderful friend!' The descriptive adjective for 'wonderful' agrees in gender and number with its noun. The descriptive adjective for 'wonderful' agrees in gender and number with its noun.

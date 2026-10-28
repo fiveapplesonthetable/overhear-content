@@ -31,10 +31,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do they think that Isabelle cheated?' Andrea inquires about the gravity of the doubts. The verb 'tricher' means to cheat or play unfairly.
 - 'They saw the night shoot.' Gabriel explains that the concurrent production was witnessed. The adjective 'nocturne' describes nighttime activity.
 - 'Isabelle was at her son's wedding!' Andrea points to the confirmed family event. The noun 'mariage' denotes a wedding celebration.
-- 'This is a huge misunderstanding.' Gabriel emphasizes that everything is innocent. The idiom 'il s'agit de' means it is a matter of.
-- 'Cedric Kahn used a double.' Andrea presents their primary narrative defense. The noun 'double' refers to a body double or stand-in.
+- 'This is a huge misunderstanding.' Gabriel emphasizes that everything is innocent. The verb meaning 'acts' pairs naturally with the noun for 'misunderstanding' in everyday conversation.
+- 'Cedric Kahn used a double.' Andrea presents their primary narrative defense. Notice how 'has' leads directly into the noun meaning 'double'.
 - 'A stand-in to create a ghost.' Gabriel explains the directorial motive. The noun 'doublure' refers specifically to a stand-in performer.
-- 'It is a poetic, surrealist idea!' Andrea sells the artistic rationale with passion. The coordinated adjectives celebrate avant-garde cinema.
+- 'It is a poetic, surrealist idea!' Andrea sells the artistic rationale with passion. The adjective meaning 'poetic' takes its feminine form here to match the noun it describes.
 - 'In France, we have ideas.' Gabriel quotes a famous French aphorism. The plural noun 'idees' conveys ingenuity and creative resourcefulness.
 - 'The Americans want to see footage.' Andrea states the demands of the foreign partners. The modal verb 'veulent' expresses their firm insistence.
 - 'The first cut is in the office.' Gabriel points toward the projection room. The noun 'montage' designates film editing or an edit cut.

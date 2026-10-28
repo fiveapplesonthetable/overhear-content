@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, do you have a minute?' Hervé approaches his boss with a hesitant expression. The question 'vous avez une minute' politely asks for someone's time.
-- 'Yes, what is going on?' Gabriel stops and gives his assistant his attention. The interrogative phrase 'qu'est-ce qui se passe' asks what is happening.
+- 'Yes, what is going on?' Gabriel stops and gives his assistant his attention. Notice how the short vowel drops before a vowel sound around 'is happening', making the phrase flow smoothly as one unit.
 - 'I have something to confess to you.' Hervé prepares to admit his secret acting job. The verb 'avouer' means to confess or admit.
 - 'What then? Nothing serious?' Gabriel hopes there is no crisis at the agency. The phrase 'rien de grave' asks whether anything bad happened.
 - 'No, but it is very delicate.' Hervé tries to soften the news before speaking. The adjective 'delicat' describes a sensitive matter.
 - 'Come on, speak, I am listening to you!' Gabriel impatiently gestures for him to get to the point. The imperative 'parlez' is the polite command form.
-- 'I played a role in a movie.' Hervé finally reveals his appearance on the big screen. The noun 'role' refers to a character part.
+- 'I played a role in a movie.' Herve finally reveals his appearance on the big screen. Notice how 'have' leads directly into the noun meaning 'role'.
 - 'I acted in a real movie!' Hervé emphasizes that it was a legitimate feature production. The verb 'tourner' means to shoot or act in a film.
 - 'The Donzelli movie? I know.' Gabriel immediately names the director without surprise. The verb phrase 'je sais' means I know.
 - 'Elise already told me.' Gabriel explains how the news reached him first. The adverb 'deja' indicates that something already happened.
-- 'What? That is not true!' Hervé is stunned that his confidence was betrayed. The negative clause 'ce n'est pas vrai' expresses disbelief.
+- 'What? That is not true!' Herve is stunned that his confidence was betrayed. A short, idiomatic conversational reply that keeps the exchange moving naturally.
 - 'She was supposed to keep the secret!' Hervé complains that Elise promised not to tell. The expression 'garder le secret' means to keep a secret.
 - 'My God, you are so naive!' Gabriel teases Hervé for trusting a rival agency head. The adjective 'naif' means gullible or innocent.
 - 'You cannot trust anyone.' Hervé laments the lack of discretion in the film industry. The phrase 'faire confiance' means to trust.

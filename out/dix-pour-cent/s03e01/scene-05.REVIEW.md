@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The contract for Guillaume Canet is signed!' Mathias announces that he has finalized the deal for his client.
-- 'I am very happy for my client.' Mathias expresses personal satisfaction with the financial agreement.
-- 'You will overshadow your colleagues once again.' Gabriel jokes about Mathias dominating agency billings.
-- 'I have had the highest revenue for ten years.' Mathias reminds Gabriel of his longstanding top ranking.
-- 'But one Jean Dujardin equals two Canets!' Gabriel retorts that his own A-list star brings in twice as much.
-- 'I have his contract signed in his own hand.' Gabriel proudly claims that his deal is legally completed.
-- 'This year, I am the one making the most.' Gabriel expects to top the agency leaderboard for the first time.
-- 'Hello boys, are you doing well today?' Camille walks into the office and greets her colleagues warmly.
-- 'What is this letter B on the signature?' Camille notices an unexpected initial on the signed document.
-- 'What letter B on my contract?' Gabriel looks down in confusion at the contract lines.
-- 'Look here, it says Emile Berthier.' Camille reads out the completely unfamiliar alias written on the page.
-- 'Who then is this Emile Berthier, Gabriel?' Mathias immediately questions the validity of the contract.
-- 'I understand absolutely nothing about this signature!' Gabriel realizes with dread that something is very wrong.
+- 'The contract for Guillaume Canet is signed!' Mathias announces that he has finalized the deal for his client. Dropping the subject pronoun turns the verb for 'signed!' into a direct, punchy command.
+- 'I am very happy for my client.' Mathias expresses personal satisfaction with the financial agreement. The descriptive adjective for 'pleased' agrees in gender and number with its noun.
+- 'You will overshadow your colleagues once again.' Gabriel jokes about Mathias dominating agency billings. Gabriel uses the casual singular 'you' with 'are going', showing close familiarity.
+- 'I have had the highest revenue for ten years.' Mathias reminds Gabriel of his longstanding top ranking. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'But one Jean Dujardin equals two Canets!' Gabriel retorts that his own A-list star brings in twice as much. The clause hinges on the everyday verb meaning 'equals'.
+- 'I have his contract signed in his own hand.' Gabriel proudly claims that his deal is legally completed. The verb meaning 'I have' pairs naturally with the noun for 'contract' in everyday conversation.
+- 'This year, I am the one making the most.' Gabriel expects to top the agency leaderboard for the first time. Notice how 'it is' leads directly into the noun meaning 'year'.
+- 'Hello boys, are you doing well today?' Camille walks into the office and greets her colleagues warmly. Camille uses the polite 'you' form alongside 'are doing' to keep a respectful professional tone.
+- 'What is this letter B on the signature?' Camille notices an unexpected initial on the signed document. In spoken French, the little word before 'is it' drops its final vowel and attaches with an apostrophe.
+- 'What letter B on my contract?' Gabriel looks down in confusion at the contract lines. In everyday spoken French, rising intonation on 'letter' at the end is enough to turn the sentence into a question.
+- 'Look here, it says Emile Berthier.' Camille reads out the completely unfamiliar alias written on the page. The clause hinges on the everyday verb meaning 'look'.
+- 'Who then is this Emile Berthier, Gabriel?' Mathias immediately questions the validity of the contract. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
+- 'I understand absolutely nothing about this signature!' Gabriel realizes with dread that something is very wrong. Notice how 'understand' leads directly into the noun meaning 'signature!'.

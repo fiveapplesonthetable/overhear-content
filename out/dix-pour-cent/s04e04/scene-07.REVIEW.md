@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cut, that is a wrap!' Valerie announces the completion of the scene.
-- 'Last take for Herve Andre-Jezak!' The director announces the end of Herve's scheduled filming.
-- 'Thanks to the whole wonderful team!' Herve graciously thanks the film crew for their support.
-- 'Here are some white lilies for you.' Valerie presents him with a thoughtful floral gift.
-- 'Oh, those are my favorite flowers!' Herve is touched that she remembered his personal preference.
-- 'Your acting was so authentic today.' Valerie praises the emotional sincerity of his performance.
-- 'I simply try to remain natural.' Herve humbly deflects her generous compliment.
-- 'Are you free for a drink tonight?' Valerie invites him out to celebrate his success.
-- 'Of course, with great pleasure!' Herve enthusiastically accepts her celebratory invitation.
-- 'I imagined a superb new scene.' Valerie reveals an unexpected creative idea.
-- 'Another scene for my character?' Herve is astonished by the chance to expand his role.
-- 'Yes, an extra day of shooting!' Valerie confirms that production will extend his contract.
-- 'Will I receive another bouquet?' Herve jokes playfully about receiving more flowers.
-- 'I am really very happy!' Herve expresses pure joy at his growing acting prospects.
+- 'Cut, that is a wrap!' Valerie announces the completion of the scene. The verb meaning 'cut' pairs naturally with the noun for 'can!' in everyday conversation.
+- 'Last take for Herve Andre-Jezak!' The director announces the end of Herve's scheduled filming. The adjective meaning 'last' takes its feminine form here to match the noun it describes.
+- 'Thanks to the whole wonderful team!' Herve graciously thanks the film crew for their support. The key noun here means 'thanks', anchored by its matching French article.
+- 'Here are some white lilies for you.' Valerie presents him with a thoughtful floral gift. Valerie uses the casual singular 'you' with 'lilies', showing close familiarity.
+- 'Oh, those are my favorite flowers!' Herve is touched that she remembered his personal preference. The key noun here means 'flowers', anchored by its matching French article.
+- 'Your acting was so authentic today.' Valerie praises the emotional sincerity of his performance. Notice how the short vowel drops before a vowel sound around 'was', making the phrase flow smoothly as one unit.
+- 'I simply try to remain natural.' Herve humbly deflects her generous compliment. The descriptive adjective for 'natural.' agrees in gender and number with its noun.
+- 'Are you free for a drink tonight?' Valerie invites him out to celebrate his success. The key noun here means 'drink', anchored by its matching French article.
+- 'Of course, with great pleasure!' Herve enthusiastically accepts her celebratory invitation. The key noun here means 'pleasure!', anchored by its matching French article.
+- 'I imagined a superb new scene.' Valerie reveals an unexpected creative idea. The verb meaning 'have' pairs naturally with the noun for 'scene' in everyday conversation.
+- 'Another scene for my character?' Herve is astonished by the chance to expand his role. The key noun here means 'scene', anchored by its matching French article.
+- 'Yes, an extra day of shooting!' Valerie confirms that production will extend his contract. The descriptive adjective for 'additional!' agrees in gender and number with its noun.
+- 'Will I receive another bouquet?' Herve jokes playfully about receiving more flowers. French forms the near future by pairing the present tense of 'to go' directly with 'to receive'.
+- 'I am really very happy!' Herve expresses pure joy at his growing acting prospects. The descriptive adjective for 'happy!' agrees in gender and number with its noun.

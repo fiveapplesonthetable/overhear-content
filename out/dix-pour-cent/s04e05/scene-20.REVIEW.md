@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'He has lunch here every day!' Sigourney enters the restaurant and spots their target immediately. The phrase 'tous les jours' means every day.
-- 'Miss Weaver? What are you doing here?' The distributor is stunned to see the Hollywood star at his table. The formal question 'que faites-vous' asks what are you doing.
-- 'I signed on for a different movie.' He complains that the project has changed since his original agreement. The past tense 'j'ai signe' comes from 'signer'.
+- 'Miss Weaver? What are you doing here?' The distributor is stunned to see the Hollywood star at his table. This conversational past tense combines a helper verb with the past participle for 'are you doing'.
+- 'I signed on for a different movie.' He complains that the project has changed since his original agreement. The verb meaning 'have' pairs naturally with the noun for 'movie' in everyday conversation.
 - 'Of course not, it is the same movie!' Sigourney insists that the core story remains unchanged. The expression 'le meme' means the same.
 - 'We just switched two roles.' She explains that only the ages of the two lovers were reversed. The past participle 'inverse' means switched or inverted.
 - 'Sorry, but I do not believe in it anymore.' The distributor expresses doubt about the new setup. The negative structure 'ne ... plus' means no longer.
 - 'What do you not believe?' Sigourney challenges him to explain his objection out loud. The verb 'croire' means to believe.
-- 'It is a beautiful love story!' Sigourney pitches the romance to the nearby tables. The compound noun 'histoire d'amour' means love story.
+- 'It is a beautiful love story!' Sigourney pitches the romance to the nearby tables. The key noun here means 'story', anchored by its matching French article.
 - 'A young man loves a mature woman.' She summarizes the premise to the curious diners around them. The adjective 'mure' means mature.
 - 'Nobody is going to believe this story!' The distributor argues that audiences will find it unrealistic. The negative pronoun 'personne ne' means nobody.
 - 'Look, the whole restaurant loves the idea!' Several guests share their own age-gap romances in support. The verb 'adorer' means to love or adore.
-- 'Well, all right, it is very credible!' Outnumbered by the enthusiastic diners, the distributor relents. The adjective 'credible' means believable.
-- 'Wait, first we sign the contracts!' Sigourney makes sure to lock in the deal on the spot. The adverb 'd'abord' means first of all.
+- 'Well, all right, it is very credible!' Outnumbered by the enthusiastic diners, the distributor relents. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
+- 'Wait, first we sign the contracts!' Sigourney makes sure to lock in the deal on the spot. Notice how 'wait' leads directly into the noun meaning 'contracts'.
 - 'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement. The feminine noun 'idee' means idea.

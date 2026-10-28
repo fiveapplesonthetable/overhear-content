@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you making me come here for your groceries?' Andrea expresses exasperation at the location.
-- 'I have three children to feed, Andrea.' Elise cites motherhood to explain her rushed schedule.
-- 'Then come speak to me frankly now.' Andrea insists that they stop playing games.
-- 'What do you want from me?' Elise asks what brought Andrea all the way to the store.
-- 'You are blocking Beauvois's film!' Andrea directly confronts her with the obstruction.
-- 'Igor is free to choose his projects.' Elise attempts to shield her partner from blame.
-- 'You are manipulating Igor against our agency.' Andrea reveals that she sees right through the plot.
-- 'This script is too dark and risky.' Elise falls back on conventional industry objections.
-- 'Jean Reno accepted the lead role!' Andrea drops the bombshell that changes the balance of power.
-- 'Jean Reno? Are you kidding me?' Elise struggles to mask her sudden astonishment.
-- 'No, he signed with us today.' Andrea confirms that the contract is sealed.
-- 'Then Igor will have to review his position.' Elise concedes that the film can no longer be ignored.
-- 'Never underestimate our determination, Elise.' Andrea warns her rival not to count ASK out.
+- 'Are you making me come here for your groceries?' Andrea expresses exasperation at the location. The verb meaning 'make' pairs naturally with the noun for 'errands' in everyday conversation.
+- 'I have three children to feed, Andrea.' Elise cites motherhood to explain her rushed schedule. Notice how 'have' leads directly into the noun meaning 'children'.
+- 'Then come speak to me frankly now.' Andrea insists that they stop playing games. The reflexive pronoun sits right in front of the verb for 'come', turning the action back onto the subject.
+- 'What do you want from me?' Elise asks what brought Andrea all the way to the store. In spoken French, the little word before 'want' drops its final vowel and attaches with an apostrophe.
+- 'You are blocking Beauvois's film!' Andrea directly confronts her with the obstruction. Andrea uses the casual singular 'you' with 'are blocking', showing close familiarity.
+- 'Igor is free to choose his projects.' Elise attempts to shield her partner from blame. The descriptive adjective for 'free' agrees in gender and number with its noun.
+- 'You are manipulating Igor against our agency.' Andrea reveals that she sees right through the plot. The verb meaning 'are manipulating' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'This script is too dark and risky.' Elise falls back on conventional industry objections. The key noun here means 'script', anchored by its matching French article.
+- 'Jean Reno accepted the lead role!' Andrea drops the bombshell that changes the balance of power. Notice how 'has' leads directly into the noun meaning 'role'.
+- 'Jean Reno? Are you kidding me?' Elise struggles to mask her sudden astonishment. The informal 'you' form around 'mock' marks a direct, personal relationship.
+- 'No, he signed with us today.' Andrea confirms that the contract is sealed. This conversational past tense combines a helper verb with the past participle for 'signed'.
+- 'Then Igor will have to review his position.' Elise concedes that the film can no longer be ignored. Notice how 'will have to' leads directly into the noun meaning 'position'.
+- 'Never underestimate our determination, Elise.' Andrea warns her rival not to count ASK out. The verb meaning 'underestimate' pairs naturally with the noun for 'determination' in everyday conversation.
 - 'We will see who wins this battle.' Elise signals that their rivalry will continue until the end.

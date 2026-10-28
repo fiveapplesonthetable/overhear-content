@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, are you indeed Isabelle Huppert?' Andrea approaches the hospital worker to verify her identity.
-- 'Yes, that is me, why that question?' Isabelle is puzzled by the stranger addressing her by full name.
-- 'I am Andrea Martel, talent agent.' Andrea introduces her profession with confident energy.
-- 'We would like to offer you a role.' Andrea explains her surprising proposal to a non-actress.
-- 'An acting role in cinema?' Isabelle questions the bizarre proposition in disbelief.
-- 'Let me stop you right there.' Isabelle cuts off the sales pitch before it goes further.
-- 'Show business is not my thing!' Isabelle expresses her complete lack of interest in glamour.
-- 'Wait, I have not explained anything yet!' Andrea begs for a few moments to clarify the situation.
-- 'It is really not a big deal to do.' Andrea attempts to minimize the acting requirements.
-- 'We only need you for this afternoon.' Andrea stresses the short duration of the shoot.
-- 'It is for today on top of that?' Isabelle is astonished by the immediate timeframe.
-- 'Yes, it can be very fun!' Andrea paints the shoot as an enjoyable adventure.
-- 'I work and I am on duty!' Isabelle points out her real-world medical responsibilities.
+- 'Hello, are you indeed Isabelle Huppert?' Andrea approaches the hospital worker to verify her identity. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
+- 'Yes, that is me, why that question?' Isabelle is puzzled by the stranger addressing her by full name. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'I am Andrea Martel, talent agent.' Andrea introduces her profession with confident energy. The descriptive adjective for 'talent' agrees in gender and number with its noun.
+- 'We would like to offer you a role.' Andrea explains her surprising proposal to a non-actress. Notice how 'would like' leads directly into the noun meaning 'role.'.
+- 'An acting role in cinema?' Isabelle questions the bizarre proposition in disbelief. In everyday spoken French, rising intonation on 'role' at the end is enough to turn the sentence into a question.
+- 'Let me stop you right there.' Isabelle cuts off the sales pitch before it goes further. The formal 'you' pronoun sets a courteous, professional distance around 'stop'.
+- 'Show business is not my thing!' Isabelle expresses her complete lack of interest in glamour. Notice how the short vowel drops before a vowel sound around 'show business', making the phrase flow smoothly as one unit.
+- 'Wait, I have not explained anything yet!' Andrea begs for a few moments to clarify the situation. In spoken French, the little word before 'wait' drops its final vowel and attaches with an apostrophe.
+- 'It is really not a big deal to do.' Andrea attempts to minimize the acting requirements. The verb meaning 'it is' pairs naturally with the noun for 'much' in everyday conversation.
+- 'We only need you for this afternoon.' Andrea stresses the short duration of the shoot. Notice how 'have' leads directly into the noun meaning 'afternoon.'.
+- 'It is for today on top of that?' Isabelle is astonished by the immediate timeframe. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'Yes, it can be very fun!' Andrea paints the shoot as an enjoyable adventure. The clause hinges on the everyday verb meaning 'can'.
+- 'I work and I am on duty!' Isabelle points out her real-world medical responsibilities. The verb meaning 'am working' pairs naturally with the noun for 'duty!' in everyday conversation.

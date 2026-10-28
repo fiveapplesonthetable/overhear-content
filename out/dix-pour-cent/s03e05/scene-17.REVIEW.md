@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, hello, what project is it for?' Camille answers a call from a movie producer. The professional question inquires about the script.
-- 'Sophia Leprince is an excellent actress.' She praises her client's acting talent. The affirmative statement promotes her artist.
-- 'Wait, I am checking her schedule now.' Camille looks up the actress's diary. The present verb phrase manages the calendar.
-- 'You are truly in luck.' She informs the caller of a rare opening. The encouraging expression creates professional enthusiasm.
-- 'An appointment opened up tomorrow.' Camille offers an available casting slot. The past verb phrase announces an opportunity.
-- 'Very good, I note it down carefully.' She records the meeting details. The confirming formula seals the appointment.
-- 'Thank you very much and goodbye, sir.' Camille concludes the business phone call politely. The polite formula ends the conversation.
-- 'Did you land that appointment?' Herve asks about the phone conversation. The enthusiastic question seeks confirmation.
-- 'Yes, an appointment for a feature film!' Camille shares the exciting news with her colleague. The cheerful exclamation announces the success.
-- 'That is truly unbelievable!' Herve celebrates her successful booking. The colloquial expression marks joyful surprise.
-- 'If everything went well with them...' Noemie analyzes the American negotiations. The conditional clause questions the rival deal.
-- 'Hicham would have called you long ago.' She points out the boss's silence. The past conditional verb notes the delay.
-- 'He always loves to brag.' Noemie describes Hicham's boastful personality. The character observation provides reassurance.
+- 'Yes, hello, what project is it for?' Camille answers a call from a movie producer. In spoken French, the little word before 'hello' drops its final vowel and attaches with an apostrophe.
+- 'Sophia Leprince is an excellent actress.' She praises her client's acting talent. The adjective meaning 'excellent' takes its feminine form here to match the noun it describes.
+- 'Wait, I am checking her schedule now.' Camille looks up the actress's diary. Notice how 'wait' leads directly into the noun meaning 'schedule'.
+- 'You are truly in luck.' She informs the caller of a rare opening. The verb meaning 'have' pairs naturally with the noun for 'luck' in everyday conversation.
+- 'An appointment opened up tomorrow.' Camille offers an available casting slot. The reflexive pronoun sits right in front of the verb for 'has become', turning the action back onto the subject.
+- 'Very good, I note it down carefully.' She records the meeting details. The clause hinges on the everyday verb meaning 'write down'.
+- 'Thank you very much and goodbye, sir.' Camille concludes the business phone call politely. The key noun here means 'seeing again', anchored by its matching French article.
+- 'Did you land that appointment?' Herve asks about the phone conversation. Herve uses the casual singular 'you' with 'have', showing close familiarity.
+- 'Yes, an appointment for a feature film!' Camille shares the exciting news with her colleague. The key noun here means 'meeting', anchored by its matching French article.
+- 'That is truly unbelievable!' Herve celebrates her successful booking. Dropping the subject pronoun turns the verb for 'is not' into a direct, punchy command.
+- 'If everything went well with them...' Noemie analyzes the American negotiations. The clause hinges on the everyday verb meaning 'went'.
+- 'Hicham would have called you long ago.' She points out the boss's silence. This conversational past tense combines a helper verb with the past participle for 'called'.
+- 'He always loves to brag.' Noemie describes Hicham's boastful personality. The clause hinges on the everyday verb meaning 'adores'.
 - 'So stop stressing like that.' She urges her colleagues to stay calm. The imperative advice soothes office tension.

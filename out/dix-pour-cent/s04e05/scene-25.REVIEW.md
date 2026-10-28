@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, are you ready to leave?' Camille checks if he is prepared to be discharged.
-- 'Yes, the doctors are letting me leave.' Mathias confirms that his hospitalization is over.
-- 'You have to wear this heart monitor?' Camille asks about the gadget clipped to his pocket.
-- 'Yes, to monitor my heart rate.' Mathias explains the medical monitoring device.
-- 'I am so happy for you.' Camille celebrates his successful recovery.
-- 'Listen, the device is already beeping softly!' Mathias points out the unexpected sound.
-- 'It is because you are moved!' Camille playfully links his heartbeat to his emotions.
-- 'I don't beep for everyone.' Mathias delivers his charmingly self-deprecating line.
-- 'It is proof of your affection.' Camille highlights the emotional significance of the moment.
-- 'You mean a lot to me, Camille.' Mathias openly confesses his paternal attachment.
-- 'Promise me to be very careful.' Camille asks him to look after his well-being.
-- 'I will finally change my habits.' Mathias commits to abandoning his stressful routine.
-- 'Let us walk together toward the exit now.' Camille guides him out of the hospital ward.
+- 'Mathias, are you ready to leave?' Camille checks if he is prepared to be discharged. Camille uses the casual singular 'you' with 'leave', showing close familiarity.
+- 'Yes, the doctors are letting me leave.' Mathias confirms that his hospitalization is over. Notice how 'let' leads directly into the noun meaning 'doctors'.
+- 'You have to wear this heart monitor?' Camille asks about the gadget clipped to his pocket. The descriptive adjective for 'cardiac' agrees in gender and number with its noun.
+- 'Yes, to monitor my heart rate.' Mathias explains the medical monitoring device. The verb meaning 'monitor' pairs naturally with the noun for 'rhythm' in everyday conversation.
+- 'I am so happy for you.' Camille celebrates his successful recovery. The informal 'you' form around 'this line' marks a direct, personal relationship.
+- 'Listen, the device is already beeping softly!' Mathias points out the unexpected sound. Dropping the subject pronoun turns the verb for 'listen' into a direct, punchy command.
+- 'It is because you are moved!' Camille playfully links his heartbeat to his emotions. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'I don't beep for everyone.' Mathias delivers his charmingly self-deprecating line. The clause hinges on the everyday verb meaning 'beep'.
+- 'It is proof of your affection.' Camille highlights the emotional significance of the moment. Camille uses the casual singular 'you' with 'proof', showing close familiarity.
+- 'You mean a lot to me, Camille.' Mathias openly confesses his paternal attachment. The informal 'you' form around 'count' marks a direct, personal relationship.
+- 'Promise me to be very careful.' Camille asks him to look after his well-being. Notice how 'promise me' leads directly into the noun meaning 'attention'.
+- 'I will finally change my habits.' Mathias commits to abandoning his stressful routine. French forms the near future by pairing the present tense of 'to go' directly with 'change'.
+- 'Let us walk together toward the exit now.' Camille guides him out of the hospital ward. Notice how 'let us walk' leads directly into the noun meaning 'exit'.
 - 'Thank you for being here with me.' Mathias thanks her for standing faithfully by his side.

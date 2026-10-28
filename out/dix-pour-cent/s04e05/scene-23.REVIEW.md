@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How could you betray our agency?' Andrea demands an explanation. The compound past with as-tu pu highlights her profound disbelief.
-- 'It is only business, Andrea.' Elise offers a callous commercial excuse. The plural demonstrative ce sont les affaires detaches personal morality.
-- 'You stole all my actors!' Andrea expresses outrage at the predatory raid. The compound past verb as volé accuses her directly of theft.
-- 'Why make this situation so personal?' Elise questions her emotional reaction. The interrogative infinitive phrase rendre si personnelle deflects responsibility.
-- 'I spent nights staying awake.' Andrea evokes her endless dedication to clients. The verb phrase passé des nuits emphasizes years of sleepless devotion.
-- 'You are far too emotional, my dear.' Elise mocks her vulnerability. The patronizing address ma chère sharpens the insult.
-- 'I lost my own family for them.' Andrea confesses her deepest domestic wound. The compound past verb ai perdu lays bare her personal sacrifice.
-- 'It is very touching, but it is over.' Elise dismisses the heartbreak with a smirk. The paired phrases c'est très touchant and c'est fini close the door on sympathy.
-- 'I am proud of my accomplished work.' Andrea refuses to feel shame for caring. The adjective phrase fière de mon travail asserts moral dignity.
-- 'You are going to feel very lonely from now on.' Elise delivers a cruel parting shot. The adverb désormais underlines permanent isolation.
-- 'You have no respect for the artists.' Andrea identifies the fundamental difference between them. The negative quantifier aucun respect underscores the lack of honor.
-- 'They all prefer to sign with me.' Elise boasts of her commercial triumph. The verb préfèrent tout signer claims total victory.
-- 'Repeat that to my face if you dare!' Andrea's temper explodes into fury. The challenge si tu oses dares her opponent to continue.
-- 'Let go of my arm immediately, stop!' Elise panics as physical violence erupts. The urgent imperative lâche-moi signals sudden chaos.
+- 'How could you betray our agency?' Andrea demands an explanation. Notice how 'have' leads directly into the noun meaning 'agency'.
+- 'It is only business, Andrea.' Elise offers a callous commercial excuse. The key noun here means 'business', anchored by its matching French article.
+- 'You stole all my actors!' Andrea expresses outrage at the predatory raid. The verb meaning 'have' pairs naturally with the noun for 'actors' in everyday conversation.
+- 'Why make this situation so personal?' Elise questions her emotional reaction. In everyday spoken French, rising intonation on 'to render' at the end is enough to turn the sentence into a question.
+- 'I spent nights staying awake.' Andrea evokes her endless dedication to clients. This conversational past tense combines a helper verb with the past participle for 'spent'.
+- 'You are far too emotional, my dear.' Elise mocks her vulnerability. The adjective meaning 'emotional' takes its feminine form here to match the noun it describes.
+- 'I lost my own family for them.' Andrea confesses her deepest domestic wound. The descriptive adjective for 'own' agrees in gender and number with its noun.
+- 'It is very touching, but it is over.' Elise dismisses the heartbreak with a smirk. This conversational past tense combines a helper verb with the past participle for 'finished'.
+- 'I am proud of my accomplished work.' Andrea refuses to feel shame for caring. Notice how 'accomplished' leads directly into the noun meaning 'work'.
+- 'You are going to feel very lonely from now on.' Elise delivers a cruel parting shot. French forms the near future by pairing the present tense of 'to go' directly with 'to feel'.
+- 'You have no respect for the artists.' Andrea identifies the fundamental difference between them. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'They all prefer to sign with me.' Elise boasts of her commercial triumph. The clause hinges on the everyday verb meaning 'prefer'.
+- 'Repeat that to my face if you dare!' Andrea's temper explodes into fury. The verb meaning 'repeat' pairs naturally with the noun for 'face' in everyday conversation.
+- 'Let go of my arm immediately, stop!' Elise panics as physical violence erupts. Dropping the subject pronoun turns the verb for 'let go of' into a direct, punchy command.

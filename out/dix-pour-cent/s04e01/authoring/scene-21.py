@@ -117,5 +117,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Sofia and Gabriel leave the ceremony together, ready to focus on new cinematic opportunities."
+OUTRO = "Sofia and Gabriel leave the ceremony together, ready to focus on new cinematic opportunities. When you watch the episode, listen out for the expressions meaning 'prize' and 'wait'. You'll catch them now. See you next time."
 CLOSING = ("gabriel", "On rentre ensemble, la tête haute.")

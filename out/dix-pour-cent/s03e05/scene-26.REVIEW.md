@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arlette, where are you in this corridor?' Hicham calls out in the darkened agency. The interrogative sentence with the proper noun searches the empty hallway.
-- 'I am here Hicham, what is happening?' Arlette steps forward with seasoned serenity. The present pronominal question asks about the emergency.
-- 'Look at this shocking document on my desk!' Hicham waves the damning legal papers. The urgent imperative verb draws attention to the evidence.
-- 'Why are you in such a state?' Arlette observes his trembling fury. The interrogative adverb with the adjective probes his extreme distress.
-- 'Andrea and Gabriel are preparing a total betrayal!' Hicham reveals the conspiracy. The transitive verb with the strong noun expresses acute betrayal.
-- 'Which betrayal are you talking about exactly?' Arlette seeks specific details before judging. The interrogative adjective phrase calls for concrete facts.
-- 'They are secretly creating their own rival agency.' Hicham explains their corporate treachery. The adverb modifying the verb describes their covert project.
-- 'These plans often circulate in this business.' Arlette shrugs with cynical experience. The present verb describes frequent agency rumors.
-- 'And I who wanted to save our company!' Hicham contrasts his generosity with their deceit. The exclamatory relative clause highlights the tragic irony.
-- 'Breathe calmly before making a decision.' Arlette advises emotional control. The imperative construction urges restraint in the heat of anger.
-- 'I am deeply sickened by their hypocrisy.' Hicham describes his profound disgust. The past participle with the adverb conveys severe emotional nausea.
-- 'Anger is always a bad counselor, Hicham.' Arlette shares a timeless proverb. The proverbial statement warns against rash executive retribution.
-- 'I will never forgive them this blow.' Hicham vows that this wound will not heal. The future negative construction promises enduring consequences.
+- 'Arlette, where are you in this corridor?' Hicham calls out in the darkened agency. Notice how 'are you' leads directly into the noun meaning 'corridor'.
+- 'I am here Hicham, what is happening?' Arlette steps forward with seasoned serenity. The reflexive pronoun sits right in front of the verb for 'is happening', turning the action back onto the subject.
+- 'Look at this shocking document on my desk!' Hicham waves the damning legal papers. Dropping the subject pronoun turns the verb for 'look at' into a direct, punchy command.
+- 'Why are you in such a state?' Arlette observes his trembling fury. Notice how 'are you' leads directly into the noun meaning 'state'.
+- 'Andrea and Gabriel are preparing a total betrayal!' Hicham reveals the conspiracy. The verb meaning 'are preparing' pairs naturally with the noun for 'betrayal' in everyday conversation.
+- 'Which betrayal are you talking about exactly?' Arlette seeks specific details before judging. The verb meaning 'are you speaking' pairs naturally with the noun for 'betrayal' in everyday conversation.
+- 'They are secretly creating their own rival agency.' Hicham explains their corporate treachery. Notice how 'create' leads directly into the noun meaning 'agency'.
+- 'These plans often circulate in this business.' Arlette shrugs with cynical experience. Notice how 'circulate' leads directly into the noun meaning 'plans'.
+- 'And I who wanted to save our company!' Hicham contrasts his generosity with their deceit. The verb meaning 'wanted' pairs naturally with the noun for 'company' in everyday conversation.
+- 'Breathe calmly before making a decision.' Arlette advises emotional control. Notice how 'breathe' leads directly into the noun meaning 'decision'.
+- 'I am deeply sickened by their hypocrisy.' Hicham describes his profound disgust. This conversational past tense combines a helper verb with the past participle for 'sickened'.
+- 'Anger is always a bad counselor, Hicham.' Arlette shares a timeless proverb. The key noun here means 'anger', anchored by its matching French article.
+- 'I will never forgive them this blow.' Hicham vows that this wound will not heal. Notice how 'will forgive' leads directly into the noun meaning 'blow'.
 - 'Tomorrow morning, we will listen to their explanations.' Arlette urges patience until dawn. The temporal phrase defers the confrontation until a calmer hour.
