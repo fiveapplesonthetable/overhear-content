@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Getting ready for his shift in the locker room, Max reflects on the inevitability of change, telling Kostya that he is determined to actively pursue the changes he wants in his life. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "This is Kukhnya, a comedy set in the kitchen of Claude Monet, a smart restaurant in Moscow. In this episode, young cook Max is in the changing room before his shift, telling his friend Kostya the bartender that he is done waiting for life to happen to him. He has a plan, and it involves Vika, the restaurant's manager. You'll hear it in Russian first, and you don't need to catch every word."
+OPENER = "Now the slow version, starting with Max's big speech."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Filled with determination and armed with a bold plan to impress Victoria, Max leaves the locker room to put his romantic surprise into action. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to be afraid' — you will catch every word right away. See you next time!"
+OUTRO = "So Max has his speech, his goal and a surprise in his pocket. Kostya's last bit of advice, don't ruin it, turns out to be the hard part. Until next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'В жизни каждого человека нужны изменения.', "Changes are needed in every person's life.", [(1, 'Рано или поздно в жизни каждого человека наступают перемены.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Не волнуйся, всё будет просто отлично.', 'Do not worry, everything will be simply great.', [], ''),
 ]
 WALK = [
-    (0, None, "'Changes are needed in every person's life.' Max philosophizes that everyone needs changes in their life. He is thinking deeply about his future."),
-    (1, None, "'You are absolutely right, Max.' Kostya agrees completely with his friend's deep thought. It makes a lot of sense to him too."),
-    (2, None, "'I want to change my destiny today.' Max declares his big desire to change his destiny today. He is ready for a completely new chapter."),
-    (3, None, "'One must act boldly and not be afraid.' Kostya encourages him to act boldly and without fear. One must be brave to change things."),
-    (4, None, "'My goal is to become the best cook.' Max states his ultimate goal is to become the greatest chef. He has very high ambitions for himself."),
-    (5, None, "'This is a very good dream for you.' Kostya supports this by saying it is a very good dream. He believes in his friend's talent."),
-    (6, None, "'I will make an important step right now.' Max announces he is going to take an important step right away. There is no time like the present."),
-    (7, None, "'What surprise have you prepared for us?' Kostya gets curious and asks what surprise has been prepared. He wants to know the secret plan."),
-    (8, None, "'This surprise awaits only one Vika.' Max reveals that this special surprise is waiting only for one specific person. It is a romantic gesture."),
-    (9, None, "'Good luck to you, my brave friend.' Kostya wishes his brave buddy good luck on his mission. He hopes everything goes perfectly well."),
-    (10, None, "'Thank you, Kostya, I will go to her.' Max thanks his buddy and says he is heading out to see her now. The big moment has finally arrived."),
-    (11, None, "'The main thing is not to ruin anything today.' Kostya gives one last piece of advice not to ruin anything today. It is a very crucial warning."),
-    (12, None, "'Do not worry, everything will be simply great.' Max confidently tells him not to worry because everything will be just great. He is feeling very optimistic."),
+    (0, None, "'Changes are needed in every person's life.' There's no 'is' in it. The short word for 'needed' sits next to 'changes' and that's the whole sentence. Russian drops 'is' in the present all the time."),
+    (1, None, "'You are absolutely right, Max.' The word for 'right' ends in a bare consonant because Max is a man. If a woman were being agreed with, it would get an 'a' on the end. The name at the end is like calling someone over."),
+    (2, None, "'I want to change my destiny today.' After 'I want', the next action just follows in its basic form, so 'I want to change' is two words, like English. 'My own' is a small word that Russian likes, and it shows up again later."),
+    (3, None, "'One must act boldly and not be afraid.' 'Nado' means 'it's necessary' and it works for anybody, a bit like 'one must'. 'Boldly' is the word 'bold' with its ending swapped, and you'll meet 'bold' itself two lines on."),
+    (4, None, "'My goal is to become the best cook.' A dash stands where the missing 'is' would be. After the word for 'become', both 'best' and 'cook' end in 'm', so you can hear them rhyme."),
+    (5, None, "'This is a very good dream for you.' 'Dream' is a feminine word, so 'good' takes the feminine ending 'aya' to match. 'For you' is two little words, and the 'for' there is one you'll hear in lots of phrases."),
+    (6, None, "'I will make an important step right now.' 'Right now' is literally 'straight now'. 'I will make' is the future, and Max sounds extremely pleased with himself."),
+    (7, None, "'What surprise have you prepared for us?' 'Surprise' is the English word, borrowed whole. 'Prepared' ends in 'l' because Max is a man, so a woman would say it with an 'a'."),
+    (8, None, "'This surprise awaits only one Vika.' There's no word for 'for' after 'wait': the person being waited for just changes ending, so 'Vika' becomes 'Viku'. Same trick as 'destiny' a moment ago."),
+    (9, None, "'Good luck to you, my brave friend.' It's a fixed phrase, and the first word is 'luck' in a special shape, so literally 'of luck to you'. 'Brave' is the same word as 'bold' in the last line but one, and now it describes a friend."),
+    (10, None, "'Thank you, Kostya, I will go to her.' 'To her' is two words, 'k ney'. After a little word like 'to', 'her' changes shape from 'ona' to 'ney'. 'Spasibo' is the everyday thank you."),
+    (11, None, "'The main thing is not to ruin anything today.' It has two 'no' words in it, 'nothing' and 'not', and Russian wants both. The first word means 'the main thing', like a headline for the rest of the sentence."),
+    (12, None, "'Do not worry, everything will be simply great.' 'Don't worry' is really 'don't worry yourself', and the 'sya' at the end is that 'yourself'. 'Will be' is spoken out loud because Russian drops 'to be' only in the present."),
 ]

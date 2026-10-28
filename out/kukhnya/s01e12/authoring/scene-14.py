@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "To hide their relationship from Victoria's watchful eye, Kostya and Nastya stage a loud argument across the bar counter. However, Kostya gets carried away with his improvised insults, leaving Nastya genuinely hurt and angry. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the staged insults, boundary negotiations, and genuine emotional hurt."
+INTRO = 'Kostya and Nastya are trying to hide their romance from Vika, so they stage a loud quarrel across the bar. Kostya, however, gets a bit carried away. Here it is in Russian first.'
+OPENER = "Let's go through it slowly, and notice where the acting stops being acting."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya's performance successfully fooled the management, but it cost him Nastya's trust. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'more' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = "The act fools everybody except Nastya, who is really hurt. When you watch, notice how Kostya's face changes the moment the act is over. Until next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, ты готова начать наш громкий спектакль?', 'Nastya, are you ready to start our loud performance?', [(120, 'Кость, ну что, готов? А?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Мне всё равно, я не хочу тебя видеть.', 'I do not care, I do not want to see you.', [(179, 'больше никогда в жизни')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, are you ready to start our loud performance?' Kostya asks Nastya if she is ready to start their fake fight."),
-    (1, None, "'Yes, only do not say overly rude words.' Nastya is ready but warns him not to be too mean."),
-    (2, None, "'Hey, pour me strong tea right now!' Nastya starts the show by rudely demanding a cup of tea."),
-    (3, None, "'Pour it yourself, I do not listen to a foolish waitress!' Kostya snaps back and calls her a stupid waitress."),
-    (4, None, "'Kostya, after all we agreed to act completely differently!' Nastya breaks character because he is being way too harsh."),
-    (5, None, "'Shut up, redhead, do not disturb me working peacefully!' Kostya tells her to shut up and calls her redhead. He is getting carried away."),
-    (6, None, "'Well, did our cunning plan work perfectly?' Kostya drops the act and proudly asks how he did."),
-    (7, None, "'Do not touch me and never come near me again!' Nastya is genuinely upset now and tells him to stay away."),
-    (8, None, "'Nastya, wait, I was trying for our sake!' Kostya begs her to wait. He explains he was just trying to make it look real."),
-    (9, None, "'You hurt me deeply with your mean words.' Nastya says his mean words actually hurt her feelings."),
-    (10, None, "'That was only an act for the strict management!' Kostya reminds her that it was all just a show for the boss."),
-    (11, None, "'I do not care, I do not want to see you.' Nastya does not care about the excuse. She is too hurt to look at him."),
+    (0, None, "'Nastya, are you ready to start our loud performance?' 'Gotova' is 'ready', with an 'a' because Kostya is talking to a woman. A man would be 'gotov'. 'Gromky' means 'loud' and 'spektakl' is a show or a play."),
+    (1, None, "'Yes, only do not say overly rude words.' 'Ne govori' is 'don't say', and 'slishkom' means 'too'. After a 'don't', the words take a new ending, so 'grubykh slov' means 'of rude words'."),
+    (2, None, "'Hey, pour me strong tea right now!' 'Ey' is the hey you call across a room. 'Naley' is 'pour!', and 'krepky' is 'strong', and is the word used for tea or coffee, rather than 'silny'."),
+    (3, None, "'Pour it yourself, I do not listen to a foolish waitress!' 'Sama' is 'yourself', and it ends in 'a' because Nastya is a woman. 'Ofitsiantka' is a waitress: take 'ofitsiant', waiter, and add 'ka'."),
+    (4, None, "'Kostya, after all we agreed to act completely differently!' 'Dogovarivalis' ends like a 'sya' word, so it's 'we agreed with each other'. 'Igrat' means both 'to play' and 'to act', and 'inache' is 'differently'."),
+    (5, None, "'Shut up, redhead, do not disturb me working peacefully!' 'Zatknis' is a very rude 'shut up', and not something to say to anyone outside a play. 'Ryzhaya' is 'ginger-haired', with an 'aya' ending for a woman. 'Ne meshay' is 'don't disturb'."),
+    (6, None, "'Well, did our cunning plan work perfectly?' 'Nu chto' is a 'so, then?' that Russians use to open a question. 'Khitry' is 'cunning'. 'Srabotal' means 'it worked', and the 's' at the front means 'it worked out'."),
+    (7, None, "'Do not touch me and never come near me again!' 'Ne trogay' is 'don't touch'. 'Nikogda bolshe ne' means 'never again', with 'nikogda' and 'ne' side by side. That is correct in Russian."),
+    (8, None, "'Nastya, wait, I was trying for our sake!' 'Postoy' is 'wait', and it's made from 'stoy', 'stand', with 'po' at the front. 'Starayalsya' is 'I tried hard', and 'radi nas' is 'for the sake of us'."),
+    (9, None, "'You hurt me deeply with your mean words.' 'Obidel' means 'offended' or 'hurt feelings', not 'harmed the body'. The 'with' in 'with your mean words' is in the endings: 'svoimi zlymi slovami'."),
+    (10, None, "'That was only an act for the strict management!' 'Igra' means 'game' and 'act'. 'Eto byla' is 'this was', and 'byla' ends in 'a' because 'igra' is feminine."),
+    (11, None, "'I do not care, I do not want to see you.' 'Mne vsyo ravno' is literally 'to me everything is equal', which is how Russians say 'I don't care'. 'Ne khochu' is 'I don't want'."),
 ]

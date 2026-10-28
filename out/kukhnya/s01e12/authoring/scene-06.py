@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Curious about the new Italian competition opening across the street, Chef Viktor Barinov walks over to inspect Arcobaleno. There he encounters rival chef Elena supervising the delivery of large decorative palm trees, leading to a sharp verbal duel between the chefs. Let's listen to their humorous encounter in Russian."
-OPENER = "Now let's examine how Barinov and Elena trade witty barbs outside the rival restaurant line by line."
+INTRO = 'Barinov is curious, and a bit nervous, so he walks next door to look at the new Italian restaurant. There he finds Elena, its head chef, and a delivery of palm trees. Here is their duel in Russian first.'
+OPENER = "Let's go through it slowly and see who really wins."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Dismissed by Elena and the busy movers, Barinov heads back across the street to protect his own kitchen. Next time you watch the episode, listen for the Russian expressions for 'atmosphere' and 'to be afraid' — you will catch every word right away. See you next time!"
+OUTRO = 'Elena gets the last word, and Barinov marches back to his own kitchen. When you watch, listen for how politely they insult each other.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('elena', 'Осторожно заносите эти пальмы в ресторан!', 'Carefully bring these palms into the restaurant!', [(59, 'И ты заноси.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Дослушивать надо людей, когда они говорят!', 'One must listen to people when they speak!', [(63, 'Дослушивать надо.')], ''),
 ]
 WALK = [
-    (0, None, "'Carefully bring these palms into the restaurant!' Elena tells the workers to be careful with the palm trees."),
-    (1, None, "'Oh, Viktor Petrovich, did you want to eat well?' Elena notices Barinov and asks if he came for a good meal."),
-    (2, None, "'We open only in six days!' Elena explains that they will not be open for almost a week."),
-    (3, None, "'I was simply taking a walk along this street.' Barinov claims he was just out for a walk."),
-    (4, None, "'Decided to personally check your main competitors?' Elena guesses he is actually spying on his competition."),
-    (5, None, "'I am not at all afraid of your restaurant.' Barinov states he is not scared of her place at all."),
-    (6, None, "'Then why are you looking at us?' Elena wonders why he is staring if he is not worried."),
-    (7, None, "'Why do you need real palm trees in the dining room?' Barinov questions why they are putting real trees inside."),
-    (8, None, "'This creates a cozy Italian atmosphere.' Elena says the trees make the place feel more Italian and cozy."),
-    (9, None, "'Palm trees will not help cook tasty food!' Barinov argues that decorations will not make the food any better."),
-    (10, None, "'We will have the tastiest cuisine!' Elena insists their food will be the best."),
-    (11, None, "'Let the workers through, bring the trees inside!' Elena ignores him and tells the workers to keep moving the trees."),
-    (12, None, "'One must listen to people when they speak!' Barinov gets annoyed because she stops listening to him."),
+    (0, None, "'Carefully bring these palms into the restaurant!' 'Ostorozhno' is the word on warning signs, so you may know it already. The order ends in 'ite' because she is talking to several workers."),
+    (1, None, "'Oh, Viktor Petrovich, did you want to eat well?' First name plus father's name is the polite way to address someone. 'Did you want' is the past in its group form, which is how Russians say a polite 'you'."),
+    (2, None, "'We open only in six days!' 'In six days' is 'through six days'. After a number, 'days' takes the special form 'dney'. 'We will open' is the future."),
+    (3, None, "'I was simply taking a walk along this street.' 'Walked' ends in 'l' for a man. 'Po' means 'along', and the street ends in 'e' after it."),
+    (4, None, "'Decided to personally check your main competitors?' 'Reshili' is the group form of the past again, so this is the polite 'you'. 'Lichno' means 'personally', in person."),
+    (5, None, "'I am not at all afraid of your restaurant.' 'Sovsem ne' means 'not at all'. After 'afraid', the thing feared gets an 'a' on the end, so 'restoran' turns into 'restorana'. 'Vashego' is the polite 'your'."),
+    (6, None, "'Then why are you looking at us?' 'Togda' means 'then', and it picks up what he has just said. 'You look' ends in 'ite', the polite 'you' form once more."),
+    (7, None, "'Why do you need real palm trees in the dining room?' 'Zachem vam' is literally 'what for to you', and it means 'why would you need'. 'Real' is a handy booster that works with anything."),
+    (8, None, "'This creates a cozy Italian atmosphere.' 'Italyanskuyu' has the same root as 'Italy'. 'Atmosphere' is the English word with a Russian ending."),
+    (9, None, "'Palm trees will not help cook tasty food!' 'Ne pomogut' is 'will not help', in the group form that goes with 'palms'. 'Gotovit' covers both 'cook' and 'prepare', and 'eda' is food."),
+    (10, None, "'We will have the tastiest cuisine!' 'U nas budet' is 'at us will be', the way Russians say 'we will have'. 'Samaya' means 'the most', and it goes in front of 'tasty'. 'Kukhnya' means both kitchen and cuisine."),
+    (11, None, "'Let the workers through, bring the trees inside!' 'Rabochikh' is really 'the working ones', a describing word used as a name for people. One tree is 'derevo', but many are 'derevya', which is irregular."),
+    (12, None, "'One must listen to people when they speak!' 'Doslushivat' means 'to listen to the end', because 'do' at the front means 'all the way'. 'Lyudi' is people, and it's irregular."),
 ]

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Слушай сюда, я не собираюсь ничего выяснять. | Listen here, I am not going to figure anything out. | #271: Слушай сюда, я не собираюсь с тобой ничего выяснять. | verbatim |
-| 2 | Макс | Вика, Саша тут совершенно ни при чём. | Vika, Sasha has absolutely nothing to do with this. | #272: Вик, Саша тут ни при чем | verbatim |
-| 3 | Макс | Не надо её увольнять с этой работы. | Do not fire her from this job. | #272: не надо ее увольнять. | verbatim |
-| 4 | Макс | Это я тебя специально доводил до гнева. | I was intentionally driving you to anger. | #273: Это я, я тебя доводил | verbatim |
-| 5 | Макс | Я изображал, будто мы с ней встречаемся. | I pretended as if we were dating. | #273: изображал, как будто мы с ней встречаемся. | verbatim |
-| 6 | Вика | Ну, у тебя это очень хорошо получилось. | Well, you did a very good job with it. | #274: Ну, это у тебя хорошо получилось | verbatim |
-| 7 | Вика | Особенно когда ты её за грудь хватал. | Especially when you grabbed her by the chest. | #274: особенно сейчас, когда ты ее за грудь хватал. | verbatim |
-| 8 | Макс | Поверь, это была просто глупая случайность! | Believe me, it was just a stupid accident! | #275: Да это вообще случайность была. | verbatim |
-| 9 | Вика | А что ты за неё так заступаешься? | And why are you sticking up for her so much? | #275: А что ты за нее заступаешься? | verbatim |
-| 10 | Макс | Я совершенно не заступаюсь за неё сейчас. | I am not sticking up for her at all now. | #276: Я не заступаюсь | verbatim |
-| 11 | Макс | Я просто не хочу, чтобы кто-то пострадал. | I just do not want anyone to get hurt. | #276: просто не хочу, чтобы из твоей реальности пострадал тот и другой. | verbatim |
-| 12 | Вика | Из-за чего? Из-за того самого. | Because of what? Because of that exact thing. | #277: Из-за чего? Из-за того. | verbatim |
+| 1 | Вика | Слушай сюда, я не собираюсь ничего выяснять. | Listen here, I am not going to figure anything out. | #271 00:20:35: Слушай сюда, я не собираюсь с тобой ничего выяснять. | verbatim |
+| 2 | Макс | Вика, Саша тут совершенно ни при чём. | Vika, Sasha has absolutely nothing to do with this. | #272 00:20:38: Вик, Саша тут ни при чем | verbatim |
+| 3 | Макс | Не надо её увольнять с этой работы. | Do not fire her from this job. | #272 00:20:38: не надо ее увольнять. | verbatim |
+| 4 | Макс | Это я тебя специально доводил до гнева. | I was intentionally driving you to anger. | #273 00:20:40: Это я, я тебя доводил | verbatim |
+| 5 | Макс | Я изображал, будто мы с ней встречаемся. | I pretended as if we were dating. | #273 00:20:40: изображал, как будто мы с ней встречаемся. | verbatim |
+| 6 | Вика | Ну, у тебя это очень хорошо получилось. | Well, you did a very good job with it. | #274 00:20:42: Ну, это у тебя хорошо получилось | verbatim |
+| 7 | Вика | Особенно когда ты её обнимал. | Especially when you hugged her. | #274 00:20:42: особенно сейчас, когда ты ее | adapted: softened: the source line is a crude grope, so Vika says hugged |
+| 8 | Макс | Поверь, это была просто глупая случайность! | Believe me, it was just a stupid accident! | #275 00:20:46: Да это вообще случайность была. | verbatim |
+| 9 | Вика | А что ты за неё так заступаешься? | And why are you sticking up for her so much? | #275 00:20:46: А что ты за нее заступаешься? | verbatim |
+| 10 | Макс | Я совершенно не заступаюсь за неё сейчас. | I am not sticking up for her at all now. | #276 00:20:49: Я не заступаюсь | verbatim |
+| 11 | Макс | Я просто не хочу, чтобы кто-то пострадал. | I just do not want anyone to get hurt. | #276 00:20:49: просто не хочу, чтобы из твоей реальности пострадал тот и другой. | verbatim |
+| 12 | Вика | Из-за чего? Из-за того самого. | Because of what? Because of that exact thing. | #277 00:20:52: Из-за чего? Из-за того. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen here, I am not going to figure anything out.' Vika tells Max she is not going to investigate his excuses.
-- 'Vika, Sasha has absolutely nothing to do with this.' Max insists that Sasha is completely innocent.
-- 'Do not fire her from this job.' Max begs Vika not to fire Sasha.
-- 'I was intentionally driving you to anger.' Max admits he was trying to make her mad on purpose.
-- 'I pretended as if we were dating.' Max confesses that he faked a romance with Sasha.
-- 'Well, you did a very good job with it.' Vika sarcastically says his acting was very convincing.
-- 'Especially when you grabbed her by the chest.' Vika points out the very inappropriate way he touched Sasha.
-- 'Believe me, it was just a stupid accident!' Max swears that the grabbing incident was completely accidental.
-- 'And why are you sticking up for her so much?' Vika questions why he is defending Sasha so strongly.
-- 'I am not sticking up for her at all now.' Max denies that he is defending Sasha out of romantic interest.
-- 'I just do not want anyone to get hurt.' Max says he just wants to avoid getting an innocent person in trouble.
-- 'Because of what? Because of that exact thing.' Vika finishes his thought, referring to his stupid behavior.
+- 'Listen here, I am not going to figure anything out.' 'Slushay syuda' is 'listen here', and it's how Russians say 'listen up'. 'Ne sobirayus' comes from a word for 'gather yourself', which is how you say you intend to do something. 'Nichego' is 'nothing' and has 'ne' beside it.
+- 'Vika, Sasha has absolutely nothing to do with this.' 'Ni pri chyom' is a fixed phrase meaning 'has nothing to do with it'. You can't build it from the words, so learn it as a block. 'Sovershenno' means 'absolutely'.
+- 'Do not fire her from this job.' Max uses 'ne nado' for 'don't', which is softer than an order. Russians fire someone 'from' a job, and the job itself changes ending after that 'from'.
+- 'I was intentionally driving you to anger.' 'Spetsialno' is 'on purpose'. 'Dovodil do gneva' is 'was bringing to anger'. 'Gnev' is a strong, old-fashioned word for 'rage'.
+- 'I pretended as if we were dating.' 'Budto' is 'as if'. 'Vstrechaemsya' ends in 'sya', so it's 'meeting each other', and that's how Russians say 'dating'. 'My s ney' is 'she and I', literally 'we with her'.
+- 'Well, you did a very good job with it.' 'Poluchilos' is 'it turned out', and Russian puts it in the neuter, 'it', since the thing that turned out is 'this'. 'U tebya' is 'for you', literally 'at you', and Vika is dripping with sarcasm.
+- 'Especially when you hugged her.' Vika turns his excuse against him. The word 'kogda' opens the time part, 'when you hugged her', and she keeps her tone flat.
+- 'Believe me, it was just a stupid accident!' 'Pover' is 'believe!'. 'Sluchaynost' is 'an accident' or 'chance', and 'glupaya' is 'stupid' with an 'aya' to match.
+- 'And why are you sticking up for her so much?' 'Zastupaetsya' means 'stand up for', with 'sya' at the end. 'Za neyo' is 'for her', and here 'chto' means 'why'.
+- 'I am not sticking up for her at all now.' Max repeats her verb, 'zastupayus', in the 'I' form. 'Sovershenno ne' means 'not at all', and 'seychas' is 'now'.
+- 'I just do not want anyone to get hurt.' 'Chtoby' means 'so that', and it comes with the past form, so 'I want that someone got hurt' is how Russian says it. 'Kto-to' is 'someone', and the 'to' at the end is what makes it 'some'.
+- 'Because of what? Because of that exact thing.' 'Iz-za chego' is 'because of what'. 'Togo samogo' is 'that very', where 'samogo' means 'the very same'. Vika doesn't spell it out.

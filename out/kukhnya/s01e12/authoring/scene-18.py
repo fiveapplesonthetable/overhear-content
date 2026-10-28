@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'angelina_h': 'Ангелина', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'In the dining room of Claude Monet, restaurant owner Dmitry Nagiyev checks the reservation book with hostess Angelina. Delighted to hear that all tables are booked solid, Nagiyev proudly declares that their restaurant needs no gimmicks to win over guests. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around A Packed House line by line and unpack how the Russian works."
+INTRO = "Over in the dining room, the restaurant's owner, Dmitry Nagiyev, is checking the bookings with the hostess, Angelina. He is in a very good mood. Here it is in Russian first."
+OPENER = "Let's go through it line by line, and enjoy the owner's good mood."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the Claude Monet dining room, owner Dmitry Nagiyev inspects the reservation book with hostess Angelina, celebrating that every single table is booked for the evening. Next time you watch the episode, listen for the Russian expressions for 'perfectly' and 'window' — you will catch every word right away. See you next time!"
+OUTRO = "It's a full house, and the owner thinks it is all his doing. When you watch, listen for the first thing Nagiyev says to every person he meets. See you next time."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ангелина, что у нас с резервами сегодня?', 'Angelina, how are our reservations today?', [(239, 'Ангелина, что у нас с резервами на сегодня?')], ''),
@@ -31,14 +31,17 @@ STORY = [
     ('nagiyev', 'Прекрасно, вечер обещает быть удачным!', 'Wonderful, the evening promises to be successful!', [], ''),
 ]
 WALK = [
-    (0, None, "'Angelina, how are our reservations today?' Nagiyev asks Angelina about the table bookings for the evening."),
-    (1, None, "'Dmitry Vladimirovich, all tables are already booked.' Angelina informs him that every single table is reserved."),
-    (2, None, "'Yes, there are no more free tables.' Angelina confirms again that they are completely full."),
-    (3, None, "'The guests will start arriving any minute.' Angelina says the customers will start showing up very soon."),
-    (4, None, "'Look at that! It turned out just like I said.' Nagiyev brags that his predictions were completely right."),
-    (5, None, "'People love us just the way we are!' Nagiyev is proud that people love the restaurant exactly as it is."),
-    (6, None, "'Go prepare additional tables.' Nagiyev orders her to get extra tables ready for more guests."),
-    (7, None, "'We will place two more tables by the window.' Angelina plans to set up two extra tables near the windows."),
-    (8, None, "'Great, today we have a full house!' Nagiyev is thrilled that the restaurant will be packed tonight."),
-    (9, None, "'Wonderful, the evening promises to be successful!' Nagiyev happily predicts that the night will be a big success."),
+    (0, None, "'Angelina, how are our reservations today?' 'Chto u nas s' is literally 'what at us with', and it's how Russians ask 'how are we doing with'. 'Rezervy' are the bookings, borrowed from 'reserve'."),
+    (1, None, "'Dmitry Vladimirovich, all tables are already booked.' First name plus father's name is the respectful way to address the owner. 'Stoliki' is 'little tables', with 'ik' making it small, and 'zanyaty' means 'taken'."),
+    (2, None, "'Really? Are there no seats left at all?' 'Pravda' means 'truth', and Russians say it to mean 'really?'. 'Sovsem ne' is 'not at all', and 'mest' means 'of seats', after the word for 'remained'."),
+    (3, None, "'Yes, there are no more free tables.' 'Bolshe net' is 'no more', with 'net' meaning 'there is not'. 'Svobodnykh stolikov' is 'of free tables', in the form it takes after 'net'."),
+    (4, None, "'The guests will start arriving any minute.' 'S minuty na minutu' is literally 'from minute to minute'. 'Nachnut' is 'will begin', and 'prikhodit' means 'to come, on foot'."),
+    (5, None, "'Look at that! It turned out just like I said.' 'Ty smotri' is Russian for 'look at that', and the 'ty' makes it a friendly nudge. 'Vyshlo' is 'came out', and 'tak, kak' is 'just as'."),
+    (6, None, "'Our restaurant is very popular right now.' 'Populyaren' is 'popular', and a bare ending suits a masculine word like 'restoran'. There is no word for 'is'."),
+    (7, None, "'People love us just the way we are!' 'Lyudi' is 'people', and it's irregular: 'chelovek' is one person and 'lyudi' is many. 'Imenno takimi' means 'exactly as such'."),
+    (8, None, "'Go prepare additional tables.' 'Idi gotov' is two orders side by side, 'go, prepare', with no word for 'and'. 'Dopolnitelnye' means 'additional'."),
+    (9, None, "'We will place two more tables by the window.' 'Dva stola' is 'two tables', and 'stol' takes an 'a' after the number two. 'U okna' is 'by the window', and 'okno' becomes 'okna' after 'u'."),
+    (10, None, "'Great, today we have a full house!' 'U nas' is 'at us', so 'we have', and 'polny zal' is 'a full hall'. Nagiyev's 'otlichno' is 'excellent'."),
+    (11, None, "'I will quickly organize everything right now.' 'Organizuyu' looks like the English, and it works the same way. It says 'I', 'will' and 'organize' in one word, and 'seychas' can mean 'now' or 'in a moment'."),
+    (12, None, "'Wonderful, the evening promises to be successful!' The evening 'promises', as if it were a person. 'Udachnym' comes from 'udacha', luck, so something successful is something lucky."),
 ]

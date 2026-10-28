@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'In a quiet corner near the bar counter, bartender Kostya approaches Nastya to resolve their recent spat. Regretting harsh words exchanged in the heat of an argument, Kostya delivers an earnest apology, eager to mend their romantic relationship. Let us listen to their heartfelt exchange in Russian first.'
-OPENER = "Now let us examine Kostya and Nastya's tender reconciliation line by line."
+INTRO = 'Kostya has had time to think, and he has gone to find Nastya at the bar to make up. Neither of them really wanted to stay cross. Here is their conversation in Russian first.'
+OPENER = "Let's go back through this one gently, one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With heartfelt apologies accepted and tender affection restored, Kostya and Nastya happily put their minor misunderstanding behind them. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'important' — you will catch every word right away. See you next time!"
+OUTRO = 'Kostya and Nastya forgive each other, and things are warm again. If you ever need to say sorry in Russian, you now have a few ways. Speak soon.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, пожалуйста, перестань мучить меня.', 'Nastya, please stop torturing me.', [(234, 'Настя, хватит о меня мучить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Ты самая добрая и красивая девушка.', 'You are the kindest and most beautiful girl.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, please stop torturing me.' Kostya begs Nastya to stop making him suffer."),
-    (1, None, "'And why are you angry with me?' Nastya turns it around and asks why he is mad at her."),
-    (2, None, "'You and I argued over a trifle.' Kostya points out that their fight was over something silly."),
-    (3, None, "'For me this question was important.' Nastya replies that the matter was actually important to her."),
-    (4, None, "'You yourself wanted to argue a bit yesterday.' Kostya reminds her that she was the one who suggested the fake fight."),
-    (5, None, "'But I did not want such a foolish offense.' Nastya admits she did not want to actually end up hurt."),
-    (6, None, "'Forgive me if I hurt you badly.' Kostya apologizes for taking the fake fight too far."),
-    (7, None, "'Do you really regret your words?' Nastya asks if he truly feels bad about what he said."),
-    (8, None, "'I very sincerely ask your forgiveness.' Kostya sincerely asks her to forgive him."),
-    (9, None, "'It is also very hard for me to stay angry long.' Nastya admits it is hard for her to stay mad at him for long."),
-    (10, None, "'Let us forget this argument right now.' Kostya suggests they just forget the whole fight right now."),
-    (11, None, "'Good, I agree to make peace with you.' Nastya agrees to forgive him and make up."),
-    (12, None, "'You are the kindest and most beautiful girl.' Kostya sweet-talks her, calling her kind and beautiful."),
+    (0, None, "'Nastya, please stop torturing me.' It's a joke, since 'muchit' is a heavy word for what Nastya is doing, 'to torment'. 'Perestan' is the order 'stop', and the next action follows in its basic form."),
+    (1, None, "'And why are you angry with me?' 'Serdishsya' ends in 'sya', so it's something like 'you anger yourself'. 'Na menya' is 'at me', since Russians are angry 'at' people, not 'with' them."),
+    (2, None, "'You and I argued over a trifle.' 'My s toboy' is literally 'we with you', and it means 'you and I'. 'Posporili' is 'had an argument', and 'iz-za pustyaka' is 'over a trifle'."),
+    (3, None, "'For me this question was important.' 'Dlya menya' is 'for me'. 'Byl' is 'was', which Russian says out loud only in the past, so this line is one of the few with a spoken 'to be'."),
+    (4, None, "'You yourself wanted to argue a bit yesterday.' 'Sama khotela' is 'you yourself wanted', with 'a' endings because Kostya is talking to a woman. 'Vchera' is 'yesterday'."),
+    (5, None, "'But I did not want such a foolish offense.' 'Obida' means 'hurt feelings' or 'a grievance', which Nastya is happy to feel. 'Ne khotela' is 'did not want', with the 'a' of a woman speaking."),
+    (6, None, "'Forgive me if I hurt you badly.' 'Izvini' is 'sorry' in the friendly form. 'Yesli' means 'if', and 'obidel' means 'hurt', as in 'hurt someone's feelings'."),
+    (7, None, "'Do you really regret your words?' 'Sozhaleesh' means 'you regret' and 'o svoikh slovakh' is 'about your own words'. 'Svoikh' is 'your own', another way to say 'yours' when the owner is the speaker."),
+    (8, None, "'I very sincerely ask your forgiveness.' 'Proshu proshcheniya' is the set phrase for 'I apologise', literally 'I ask forgiveness'. 'U tebya' is 'from you'. 'Iskrenne' means 'sincerely'."),
+    (9, None, "'It is also very hard for me to stay angry long.' 'Mne tyazhelo' is 'to me hard', with no 'is', as usual for feelings. 'Zlitsya' means 'to be angry' and 'dolgo' means 'for a long time'."),
+    (10, None, "'Let us forget this argument right now.' 'Davay' means 'let's'. 'Zabudem' is 'we will forget', and 'spor' is 'argument', the same root as 'pospórili' from earlier in the scene."),
+    (11, None, "'Good, I agree to make peace with you.' 'Soglasna' is 'agreeing', with an 'a' for a woman. 'Pomiritsya' is 'to make peace', built from 'mir', which means both 'peace' and 'world'."),
+    (12, None, "'You are the kindest and most beautiful girl.' 'Samaya' means 'the most', and it goes in front of the describing words. 'Dobraya' is 'kind' and 'krasivaya' is 'beautiful'."),
 ]

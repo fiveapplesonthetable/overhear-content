@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Эта сигарета уже горчит на вкус. | This cigarette already tastes bitter. | #278: Горчит уже. | verbatim |
-| 2 | Сеня | Да выбрось её скорее в урну. | Just throw it out quickly into the trash bin. | #278: Да выбрось ее. | verbatim |
-| 3 | Федя | Ладно, я хочу пойти в туалет. | All right, I want to go to the bathroom. | #279: Ладно, я в туалет хочу. | verbatim |
-| 4 | Федя | Подожди, там это огонь, друзья! | Wait, it is on fire over there, friends! | #280: Там это огонь, друзья. | verbatim |
+| 1 | Сеня | Эта сигарета уже горчит на вкус. | This cigarette already tastes bitter. | #278 00:21:04: Горчит уже. | verbatim |
+| 2 | Сеня | Да выбрось её скорее в урну. | Just throw it out quickly into the trash bin. | #278 00:21:04: Да выбрось ее. | verbatim |
+| 3 | Федя | Ладно, я хочу пойти в туалет. | All right, I want to go to the bathroom. | #279 00:21:06: Ладно, я в туалет хочу. | verbatim |
+| 4 | Федя | Подожди, там огонь, друзья! | Wait, there is fire over there, friends! | #280 00:21:12: Там это огонь, друзья. | adapted: adapted: dropped the filler word |
 | 5 | Сеня | Соседний ресторан горит прямо сейчас! | The neighboring restaurant is burning right now! | new | new |
 | 6 | Федя | Ты уверен, что это настоящий пожар? | Are you sure that this is a real fire? | new | new |
 | 7 | Сеня | Конечно, посмотри на этот чёрный дым. | Of course, look at this black smoke. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This cigarette already tastes bitter.' Senya complains that his cigarette tastes bad now.
-- 'Just throw it out quickly into the trash bin.' Senya tells himself to just throw the cigarette away.
-- 'All right, I want to go to the bathroom.' Fedya says he needs to go use the restroom.
-- 'Wait, it is on fire over there, friends!' Fedya suddenly notices flames and calls out to his friends.
-- 'The neighboring restaurant is burning right now!' Senya realizes that the new restaurant next door is on fire.
-- 'Are you sure that this is a real fire?' Fedya asks if it is actually a real fire.
-- 'Of course, look at this black smoke.' Senya points to the black smoke as proof of the fire.
-- 'People are running out of the building onto the street.' Fedya watches people escape from the burning building.
-- 'We urgently need to tell the boss about this.' Senya says they must warn their boss right away.
-- 'Yes, he must know about this fire.' Fedya agrees that the boss needs to hear about the fire.
-- 'Drop the cigarette and let's go inside faster.' Senya tells Fedya to drop the cigarette and hurry back inside.
-- 'I am running after you, open the door.' Fedya follows Senya and tells him to open the door quickly.
+- 'This cigarette already tastes bitter.' 'Gorchit' means 'tastes bitter' and comes from 'gorky', bitter. 'Na vkus' is 'to the taste'. 'Eta' ends in 'a' because 'sigareta' is feminine.
+- 'Just throw it out quickly into the trash bin.' The 'it' is 'her', since cigarettes are feminine in Russian. Objects have a gender, and the little word for 'it' follows suit.
+- 'All right, I want to go to the bathroom.' 'Khochu' is 'I want', and the thing he wants follows it straight, 'to go'. 'Tualet' is the same as the English word, borrowed ages ago from French.
+- 'Wait, there is fire over there, friends!' 'Ogon' is 'fire' as flames. 'Druzya' is 'friends', and it is an odd plural: one friend is 'drug', many are 'druzya'.
+- 'The neighboring restaurant is burning right now!' 'Sosedny' means 'neighboring' and comes from 'sosed', neighbor. 'Gorit' is 'is burning', and it ends in 'it' for 'it'.
+- 'Are you sure that this is a real fire?' 'Uveren' is 'sure', with a man's bare ending. 'Pozhar' is a fire as a disaster, and 'ogon' is a flame, which is why Fedya asks if it's the serious kind.
+- 'Of course, look at this black smoke.' 'Konechno' is 'of course'. 'Chyorny dym' is 'black smoke'. 'Posmotri na' is 'look at'.
+- 'People are running out of the building onto the street.' 'Vybegayut' is 'they run out', from 'vy', 'out', and 'begat', 'run'. 'Na ulitsu' is 'onto the street', and the 'u' ending shows direction.
+- 'We urgently need to tell the boss about this.' 'Nam nado' is 'to us it's necessary'. 'Skazat' is 'to tell', and 'ob etom' is 'about this'. 'Shefu' ends in 'u' to show who is told.
+- 'Yes, he must know about this fire.' 'Dolzhen' means 'must' and 'znat' is 'to know'. 'Pro' is another word for 'about', a bit more casual than 'o'.
+- 'Drop the cigarette and let's go inside faster.' 'Poshli' looks like 'they went', but in speech it's an invitation, 'let's go'. Say it to friends. 'Brosay' is an order, and it can mean 'drop' or 'throw'.
+- 'I am running after you, open the door.' 'Begu' is 'I'm running'. 'Za toboy' is 'after you', literally 'behind you'. 'Otkryvay' is 'open!'.
