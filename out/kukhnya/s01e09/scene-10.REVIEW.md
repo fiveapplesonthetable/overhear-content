@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, welcome to the restaurant!' "Dobry den" is "kind day", which is how Russians say "good afternoon". "Dobro pozhalovat" is the set phrase for "welcome". Vika sounds professional, and that's the point.
+- 'Good afternoon, welcome to the restaurant!' "Dobry den" is "kind day", which is what Russians say for "good afternoon". "Dobro pozhalovat" is the set phrase for "welcome". Vika sounds professional, and that's the point.
 - 'Hello, is that your girlfriend?' "Zdravstvuyte" is the long, formal hello, from "be healthy". Alisa uses the polite "vy" with the guests, as she was taught. And then she says something very rude.
 - 'Alisa, behave decently with the guests.' "Vedi sebya" is "lead yourself", behave, the same expression from the last scene. "Prilichno" means "decently" or "properly". Vika sounds more frightened than strict.
 - 'I had a grandfather in Novorossiysk.' Here's a good point: Russian has no word for "am" or "is", but it does have a past, "byl", "was". So it's "at me was a grandfather". "Dedushka" is grandfather. The line comes from nowhere.

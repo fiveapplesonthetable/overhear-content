@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Quiet everyone, I need complete silence!' The "needed" word agrees with its object, so with the feminine "silence" it ends in -a. You've heard its masculine and neuter forms already. Barinov shouts for quiet, which is a nice paradox.
-- 'Chef, we have already turned off all noisy equipment.' The Russian for "noisy" comes from "noise", the same root. Lyova reports it like a soldier, in short plain words. A man who stutters when he's stressed manages not to stutter here.
+- 'Chef, we have already turned off all noisy equipment.' In Russian, "noisy" comes from "noise", the same root. Lyova reports it like a soldier, in short plain words. A man who stutters when he's stressed manages not to stutter here.
 - 'Be quiet, I demand absolute calm in the kitchen.' Barinov uses the bare dictionary form of "be silent" as an order, and in Russian that sounds like a drill sergeant. It's harder than "please be quiet". He is not asking.
 - 'All the cooks fell silent and are standing in place.' The "za-" at the front of "fell silent" marks the moment it starts, so it's "went quiet" as opposed to simply "quiet". "In place" is "on the place". Lyova reports it all like an officer.
 - 'Do not breathe, I want to hear every quiet sound.' Another order in the bare dictionary form, this time with a "don't" in front. Barinov is comic and serious at once. The kitchen holds its breath, and so does the listener.
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I hear a strange faint rustling near the table.' The term for "faint" is also "light" and "easy". Lyova is trying very hard, and the line shows it. Russian puts the table "of the table", with the ending doing the work.
 - 'Who is standing there near the big refrigerator right now?' The Russian for refrigerator comes from what Russian calls cold, so it's a "cold-maker". Barinov sees a shadow, and he wants to know who it is.
 - 'There is no one there, only large boxes of groceries.' "Nobody" and "isn't" together are a double negative, and it's right. Lyova is disappointed. The groceries are in boxes, so the boxes are the best he can offer.
-- 'Look carefully, the girl is sitting right under the table!' The Russian for "carefully" grows out of the term for "attention". Barinov has sharp eyes when it matters. And "under the table" takes a different ending from "near the table".
+- 'Look carefully, the girl is sitting right under the table!' In Russian, "carefully" grows out of the term for "attention". Barinov has sharp eyes when it matters. And "under the table" takes a different ending from "near the table".
 - 'What joy, we finally found our missing one!' The Russian for the lost thing grows from the vanishing word in the cake scene. Lyova is thrilled. "What joy" is "what happiness", and the whole kitchen breathes out.

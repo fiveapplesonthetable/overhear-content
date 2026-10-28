@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you make it for Aunt Vika?' After the Russian for "for", both words change their ending, and names do too: Vika becomes "Viki". Alisa asks it as plain fact, and that is the problem. Max has been seen through by a child.
 - 'Why do you think about Aunt Vika?' After the term for "about", the endings change again, so Vika turns into "Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.
 - 'Papa always made tasty food for Mama.' The cooking word is back, with the man's -l. "To Mama" has its own ending. Alisa has noticed that her father cooks for the people he loves, which is a sharp thing to notice.
-- 'And what is this supposed to mean at all?' The Russian for "supposed to" and the word for "to mean" sit next to each other. Max is confused, and his question is a good one. The little "at all" filler is back again.
+- 'And what is this supposed to mean at all?' In Russian, "supposed to" and the word for "to mean" sit next to each other. Max is confused, and his question is a good one. The little "at all" filler is back again.
 - 'So Papa loves my Mama very much.' The first word is literally "means", and Russians use it as "so" when they draw a conclusion. Alisa works it out like a detective, and she delivers it without any fuss.
 - 'But Vika and I are just friends.' Russian says "we with Vika" for "Vika and I". It is the usual way to put it. Max is trying to wriggle out, and he sounds a bit too quick.
 - 'And Aunt Vika said that she loves you!' Alisa's "said" has the woman's ending, because it's Vika who said it. She has heard it from the source, and she passes it on. The kitchen's other secret is out.

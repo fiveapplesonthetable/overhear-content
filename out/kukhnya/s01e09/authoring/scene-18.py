@@ -40,8 +40,8 @@ WALK = [
     (6, None, '\'I prepared a magnificent cake for the important banquet.\' The "prepared" word is the one from the first scene, now in the past with the man\'s -l. Louis is proud of his work, and rightly. He drops "banquet" in again as if it were a rank.'),
     (7, None, '\'The guests paid huge money for it!\' "Money" is always plural in Russian, so it is "huge monies" there. Barinov states how much is at stake. And "paid" has the guests\' plural ending. Everyone in the room has an opinion on the price.'),
     (8, None, '\'They gave a whole hundred thousand rubles!\' "A whole" is the same as in "a whole half-hour". The hundred is a short, plain word, and the thousand follows. Louis gets to name the price, and it sounds enormous.'),
-    (9, None, '\'They know that you are a famous pastry chef.\' The Russian for "famous" is built from the term for "known". Barinov hands out a compliment, which is rare. Louis can enjoy it, and probably wants to frame it.'),
-    (10, None, '\'French desserts always cost very much.\' The Russian for "dearly" comes from the Russian for "dear", so "dear" and "expensive" are the same idea. Louis is proud to be French, and proud of the price. He is a happy man at last.'),
+    (9, None, '\'They know that you are a famous pastry chef.\' In Russian, "famous" is built from the term for "known". Barinov hands out a compliment, which is rare. Louis can enjoy it, and probably wants to frame it.'),
+    (10, None, '\'French desserts always cost very much.\' In Russian, "dearly" comes from the Russian for "dear", so "dear" and "expensive" are the same idea. Louis is proud to be French, and proud of the price. He is a happy man at last.'),
     (11, None, '\'The main thing is that all guests are satisfied.\' The "so that" word returns from the baking lesson. "Satisfied" is the Russian for "pleased". Barinov names the point of the whole day, and he sounds like a chef again.'),
     (12, None, '\'Chef, our banquet will go at the highest level!\' It\'s an idiom: "at the highest level" for "top-notch". The term for "go" is really "pass", the same one as in "how did it go". Louis finishes on a flourish.'),
 ]

@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She is sitting here helping me.' Max says "to me" after the Russian for "help", where English says "helps me". The same family gives the term for an assistant. He tries to sound as if everything is perfectly normal.
 - 'The chef is already looking for her all over the restaurant!' Nastya delivers the news and the warning in one go. "All over the restaurant" is "by the whole restaurant" in Russian, with the ending doing the work of "by".
 - 'We are cooking the most delicious dish in the world!' Alisa has no idea she is in trouble. "In the world" is odd in Russian: it says "on the light". It's the usual way to say it, and it makes the boast bigger.
-- 'Run to dad quickly, while he is kind.' The Russian for "while" is also the word Russians say for "bye for now". Same word, different jobs. Nastya knows the chef's mood won't last, and she's practical about it.
+- 'Run to dad quickly, while he is kind.' In Russian, "while" is also the word Russians say for "bye for now". Same word, different jobs. Nastya knows the chef's mood won't last, and she's practical about it.
