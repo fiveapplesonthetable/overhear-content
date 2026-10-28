@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "At the kitchen pass, guest chef Elena inspects every dish with uncompromising scrutiny before sending it to guests. When pastry chef Louis presents a dessert that looks half-eaten, Elena refuses to allow it into the dining room. Offended by her harsh criticism, Louis protests, while Elena demands immediate perfection from the entire brigade. Let's listen to their heated kitchen clash in Russian first."
-OPENER = "Let's examine how professional standards collide with culinary pride in this scene. Notice the stark contrast between Elena's exacting demands and Louis's indignant reactions."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Tempers flare as the cooks miss Barinov's boisterous leadership, while Elena refuses to lower her culinary bar. Brilliant work finishing this slice of conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "At the pass, Elena checks every plate before it goes out, and Louis's dessert doesn't pass. He is offended, she is firm, and the whole kitchen is watching. It's in Russian first."
+OPENER = "Let's go through the clash. Elena demands perfection, and Louis is a bruised artist."
+TRANSITION = 'One last listen, from line one.'
+OUTRO = "'Now I am in charge here' is a good last line, with the 'I' put at the end for force. It also gives you 'I demand' and 'I swear'. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Я не собираюсь отдавать это блюдо!', 'I am not going to send out this dish!', [(275, 'Я это не собираюсь забирать')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Теперь на этой кухне командую я!', 'Now I am in charge in this kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'I am not going to send out this dish!' Elena flatly refuses to serve the dessert, staring at it in disgust."),
-    (1, None, "'Why? The dessert turned out very pretty, Chef.' Louis asks for a reason, believing his creation looks beautiful."),
-    (2, None, "'It feels as if someone already ate it!' Elena harshly claims the cake looks like someone took a bite."),
-    (3, None, "'I swear, nobody touched this cake!' Louis defensively swears that nobody ruined the delicate pastry."),
-    (4, None, "'Then quickly make a proper handsome presentation!' Elena commands him to fix the sloppy presentation immediately."),
-    (5, None, "'I am the best pastry chef, I know the craft!' Louis proudly defends his skills as the top pastry professional."),
-    (6, None, "'Sort out this problem right now, Louis!' Elena cuts off his bragging and demands an instant solution."),
-    (7, None, "'Here, I fixed everything, take it to the table.' Louis hastily repairs the dessert and pushes it toward the pass."),
-    (8, None, "'Where is the sous-chef? What on earth is happening here?' Elena furiously wonders where her second-in-command has disappeared to."),
-    (9, None, "'This woman has completely lost her mind!' Louis mutters to himself about the new boss losing her mind."),
-    (10, None, "'I demand ideal order in the kitchen!' Elena yells that she expects flawless discipline from everyone."),
-    (11, None, "'Chef Barinov never freaked out like that!' Louis notes that their old boss never threw tantrums like this."),
-    (12, None, "'Now I am in charge in this kitchen!' Elena asserts her absolute dominance over the brigade."),
+    (0, None, "'I am not going to send out this dish!' 'I am not going to' is a neat way to refuse. It comes from 'gather oneself'."),
+    (1, None, "'Why? The dessert turned out very pretty, Chef.' 'turned out' ends in 'sya', and the word 'pretty' after it takes an 'ym' ending. So literally the dessert 'turned itself out' pretty."),
+    (2, None, "'It feels as if someone already ate it!' 'Such a feeling' is the way Russian says 'it feels like'. 'ate' has no person named, so it is like 'they ate it'."),
+    (3, None, "'I swear, nobody touched this cake!' 'I swear' is one word. 'Nobody' needs its 'not', as always in Russian."),
+    (4, None, "'Then quickly make a proper, handsome presentation!' 'Make' is the formal plural. 'Proper' comes from 'normal'."),
+    (5, None, "'I am the best pastry chef, I know the craft!' 'I know the craft' is the Russian for 'I know what I am doing'. The term for 'craft' also means 'business' or 'matter'."),
+    (6, None, "'Sort out this problem right now, Louis!' 'Sort out' is the courteous plural. 'Right now' is the pair 'straight' and 'now'."),
+    (7, None, "'Here, I fixed everything, take it to the table.' 'Fixed' ends in a consonant for a man. 'Take' is the polite plural."),
+    (8, None, "'Where is the sous-chef? What on earth is happening here?' The Russian for 'on earth' literally means 'in general'. 'happens' ends in 'it'."),
+    (9, None, "'This woman has completely lost her mind!' 'Went' ends in 'a' for a woman, and 'off the mind' is the idiom for 'crazy'. 'Completely' sits before it."),
+    (10, None, "'I demand ideal order in the kitchen!' The word for 'I demand' is the 'I' form of 'demands'. 'ideal' is borrowed."),
+    (11, None, "'Chef Barinov never freaked out like that!' 'Freaked out' comes from 'psycho'. 'Never' keeps its 'not'."),
+    (12, None, "'Now in this kitchen I am in charge!' 'I command' ends in 'yu', and the 'I' is placed at the very end for force. 'In this kitchen' takes an 'e' ending."),
 ]

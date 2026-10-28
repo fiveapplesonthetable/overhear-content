@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'After an exhausting dinner service filled with kitchen blunders and shouting, Kostya confides his worries to Max. Max reflects on how mistakes are an unavoidable part of human life that ultimately help us find the right path.'
-OPENER = "Let's explore Max and Kostya's uplifting conversation about learning from life's mistakes."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With renewed confidence and mutual support, Max and Kostya prepare to conquer tomorrow's shift. Next time you watch the episode, listen for the Russian expressions for 'more' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "After a hard evening in the kitchen, Kostya is worried about what the chef said to him. Max reassures him with a little speech about why mistakes are useful. It's in Russian first."
+OPENER = "Let's go back through the talk. Kostya asks, and Max has a calm answer for each question."
+TRANSITION = 'It comes round again, in order.'
+OUTRO = "Max's idea is that mistakes help you find the right path. It's a hopeful note, and it fits every language learner. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, я сегодня натворил глупых глупостей.', 'Max, I did stupid things today.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Завтра мы покажем на кухне высший класс!', 'Tomorrow we will show top class in the kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, I did stupid things today.' Kostya sighs, admitting to a series of blunders during his shift."),
-    (1, None, "'Do not worry, all cooks make mistakes.' Max calmly tells his friend that cooking always involves learning."),
-    (2, None, "'But the chef shouted so loudly at me!' Kostya remembers the loud yelling and winces at the memory."),
-    (3, None, "'We cannot help making various mistakes.' Max notes that everyone is bound to slip up sometimes."),
-    (4, None, "'Do you really think that this is normal?' Kostya asks for reassurance that he is not a failure."),
-    (5, None, "'Mistakes are an important part of our life.' Max points out that everyday life is full of lessons."),
-    (6, None, "'And what can they teach us?' Kostya questions the value of getting yelled at."),
-    (7, None, "'They help us find the right path.' Max argues that these moments guide people to improvement."),
-    (8, None, "'So every blunder makes us stronger?' Kostya grasps the silver lining and brightens up slightly."),
-    (9, None, "'That is exactly how we become true masters.' Max agrees, adding that true expertise requires time and patience."),
-    (10, None, "'Then I will not get so upset anymore.' Kostya promises to take the harsh criticism more lightly next time."),
-    (11, None, "'The main thing is to remember one's lessons and move forward.' Max emphasizes the importance of learning from failure and pushing ahead."),
-    (12, None, "'Thank you for the support, you are a great friend.' Kostya expresses gratitude for the much-needed pep talk."),
-    (13, None, "'Tomorrow we will show top class in the kitchen!' Max smiles, looking forward to doing better the next morning."),
+    (0, None, "'Max, I did stupid things today.' 'Did a lot of mischief' has a prefix that adds up the damage. 'Stupid stupidities' repeats the root, which is a way to stress it."),
+    (1, None, "'Do not worry, all cooks make mistakes.' The Russian for 'make mistakes' is literally 'do mistakes'. 'Don't worry' is the Russian word for 'not' plus a command."),
+    (2, None, "'But the chef shouted so loudly at me!' Russian shouts 'on' someone, so 'at me' is 'na' plus a changed form of 'me'. The term for 'so loudly' sits in front of the shouting."),
+    (3, None, "'We cannot help making various mistakes.' 'Cannot not' is a double negative that means 'can't help'. 'Various' goes in front of 'mistakes'."),
+    (4, None, "'Do you really think that this is normal?' 'Really' is literally 'truth', and Russians often start a question with it. 'Normal' stands alone, ending in 'o'."),
+    (5, None, "'Mistakes are an important part of our life.' The dash and the word 'this' do the job of 'are', which Russian leaves out. 'Part' is a she-word, so 'important' and 'our' take the endings 'aya' and 'ey'."),
+    (6, None, "'And what can they teach us?' 'Teach' takes the thing taught in the 'to' form, so 'what' becomes 'chemu'. 'Then' softens the question."),
+    (7, None, "'They help us find the right path.' Russians help 'to' someone, so 'us' takes the 'to' form, which is an ending. 'Find' follows without a 'to' in front."),
+    (8, None, "'So every blunder makes us stronger?' 'Blunder' is a word that means 'miss'. 'Stronger' is the comparative of 'strong'."),
+    (9, None, "'That is precisely how we become true masters.' 'Become' ends in 'sya' and takes a 'with' form, which means 'masters' has the ending 'ami'. 'Precisely' sits in front of 'so'."),
+    (10, None, "'Then I will not be so upset anymore.' 'No longer' is two small words, and the term for 'will not be' is the future of 'be' with a 'not'. 'Be upset' ends in 'sya'."),
+    (11, None, "'The main thing is to remember your lessons and move forward.' The Russian for 'move' ends in 'sya', so it is literally 'move yourself'. 'Forward' means 'ahead'."),
+    (12, None, "'Thank you for the support, you are a great friend.' 'Thank you for' takes the object directly. 'Great' is the word for top marks."),
+    (13, None, "'Tomorrow we will show top class in the kitchen!' The Russian for 'we will show' ends in 'em', the ending for 'we'. 'Highest class' is a fixed phrase for first-rate, and it works for anything."),
 ]

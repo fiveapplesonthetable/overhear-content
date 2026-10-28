@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the restaurant locker room, Max and art director Victoria desperately try to hide Dmitry Nagiyev's unconscious dog after a freak accident with a hot dog. Victoria is terrified of Dmitry's fury, while Max tries to keep calm despite standing in his underwear. Let's listen to their frantic conversation in Russian first."
-OPENER = "Let's review this frantic locker room exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Hiding the little dog on a locker shelf, Max and Victoria hope their secret stays safe from the rest of the staff. See you next time!'
+INTRO = "Tyson is still not moving, and the owner is Vika's boss. Max and Vika have taken the dog to the staff changing room, where they are going to hide it until they know what to say. Max, meanwhile, still has no trousers. It's in Russian first."
+OPENER = "Let's take it again slowly. Vika is panicking, and Max is trying to look calm in his underwear."
+TRANSITION = 'Let it play straight through.'
+OUTRO = "The scene gives you 'nobody will find out' and 'put something on'. They're both good for emergencies. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Осторожней, куда ты прячешь бедную собаку?', 'Careful, where are you hiding the poor dog?', [(116, 'Осторожней'), (117, 'Куда ты ее прячешь')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Всё будет хорошо, никто ничего не узнает!', 'Everything will be fine, nobody will find out anything!', [(122, 'Ничем. Просто разговариваем')], ''),
 ]
 WALK = [
-    (0, None, "'Careful, where are you hiding the poor dog?' Vika walks into the locker room and catches Max doing something incredibly suspicious."),
-    (1, None, "'Here in the locker room nobody will find her.' Max explains his desperate plan to stash the unconscious dog where no one looks."),
-    (2, None, "'My God, what will I tell Dmitry?' Vika panics, realizing she will have to answer to the restaurant owner."),
-    (3, None, "'Tell him the truth, that the dog simply ran away.' Max suggests a simple lie about the dog escaping on its own."),
-    (4, None, "'Dmitry Vladimirovich will be simply furious!' She imagines Nagiyev's terrifying reaction to losing his beloved pet."),
-    (5, None, "'Calm down, she will soon come to her senses herself.' Max tries to reassure her that the dog will wake up perfectly fine soon."),
-    (6, None, "'Why are you standing in front of me without pants?' Vika suddenly notices that Max is standing there half-naked."),
-    (7, None, "'My jeans are being washed in the machine right now.' Max sheepishly explains his pants are in the laundry after the dog incident."),
-    (8, None, "'Put at least something on yourself quickly!' She demands he cover up his embarrassing state immediately."),
-    (9, None, "'First let us carefully put the dog here.' Max insists they prioritize hiding the animal before dealing with his wardrobe."),
-    (10, None, "'Fine, put her quietly on the bottom shelf.' Vika reluctantly agrees, pointing to a secluded spot for the dog."),
-    (11, None, "'Everything will be fine, nobody will find out anything!' Max confidently promises that their disastrous secret is completely safe."),
+    (0, None, "'Careful, where are you hiding the poor dog?' The opening word is the comparative 'more carefully', which Russians use to mean 'watch it'. 'where' is the 'where to' kind, because the dog is being moved."),
+    (1, None, "'Here in the locker room nobody will find her.' The Russian word for 'her' is the she-form, because the expression for 'dog' is grammatically feminine. 'Nobody' keeps its 'not', as it always does in Russian."),
+    (2, None, "'My God, what will I tell Dmitry?' Vika uses his first name here, and the term for 'to Dmitry' ends in 'yu'. 'My God' is a stock exclamation, much like the English one."),
+    (3, None, "'Tell him the truth, that the dog simply ran away.' The line opens with a command. 'Ran away' ends in 'a' for the dog."),
+    (4, None, "'Dmitry Vladimirovich will be simply furious!' 'In fury' puts the 'e' ending on 'fury'. The full name is the respectful one."),
+    (5, None, "'Calm down, she will soon come to her senses herself.' 'Come to oneself' means 'come round'. 'Herself' is the she-form, 'sama'."),
+    (6, None, "'Why are you standing in front of me without pants?' 'Pants' only exists in the plural. 'In front of me' is a longer form of 'before me'."),
+    (7, None, "'My jeans are being washed in the machine right now.' 'Are being washed' ends in 'sya'. 'In the machine' uses a diminutive for the washing machine."),
+    (8, None, "'Put at least something on yourself quickly!' 'Something' is 'what' plus 'nibud'."),
+    (9, None, "'First let us carefully put the dog here.' 'Let us put' is polite. 'Carefully' is the same word as 'careful'."),
+    (10, None, "'Fine, put her quietly on the bottom shelf.' The Russian for 'put' is a short command, and 'her' is again the she-form. 'Bottom' is literally the Russian for 'lower'."),
+    (11, None, "'Everything will be fine, nobody will find out anything!' Russian says 'will be well' and needs no word for 'fine'. 'Nobody' and 'anything' are both negatives, and the sentence still has its own 'not'."),
 ]

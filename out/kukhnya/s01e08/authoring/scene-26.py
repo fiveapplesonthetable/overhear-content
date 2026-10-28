@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'After walking out on the Claude Monet kitchen, Chef Barinov is hiding in a dark storage room with a bottle. Ainura, the restaurant cleaner, stumbles upon his hiding place and catches him by surprise. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around An Unexpected Encounter line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Ainura tracks down Chef Barinov in a quiet storage room where he has been hiding and drinking alone, surprising him during her cleaning rounds. Next time you watch the episode, listen for the Russian expressions for 'loudly' and 'to make noise' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has walked out on his own kitchen and is sitting in the dark storeroom with a bottle. Ainura, the cleaner, who has been in the restaurant longer than most, finds him. She speaks to him as an old friend, with the familiar 'you'. It's in Russian first."
+OPENER = "Let's go back through the meeting. Ainura is practical and a little amused, and the chef is miserable."
+TRANSITION = 'That was the detail; here is the sweep.'
+OUTRO = "Ainura's lines are short and warm: 'here you are', 'you can't stay here'. It's easy Russian, and you've now heard how friends talk. See you next time."
 CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('ainura', 'Здравствуй, шеф.', 'Hello, Chef.', [(311, 'Здравствуй')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('ainura', 'Но тебе нельзя здесь оставаться.', 'But you cannot stay here.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Chef.' Ainura offers a simple, respectful greeting to her employer."),
-    (1, None, "'Here is where you are hiding!' Ainura finally discovers the boss in his dark hiding spot."),
-    (2, None, "'Ainura, is that you?' Barinov asks to confirm who just walked into the room."),
-    (3, None, "'Do not make noise so loudly, please.' Barinov begs the cleaner to keep her voice down."),
-    (4, None, "'I looked for you everywhere for a long time.' Ainura explains she has been searching the entire building."),
-    (5, None, "'Sit down next to me, want a drink with me?' Barinov invites her to sit and share a secret drink."),
-    (6, None, "'Oh, Chef, I am at work after all!' Ainura rejects the offer, reminding him she is on shift."),
-    (7, None, "'I still need to wash the floors.' Ainura points out she still has cleaning duties to finish."),
-    (8, None, "'Drop the work, rest a little.' Barinov tells her to abandon the mop and relax."),
-    (9, None, "'You are sitting alone in the dark.' Ainura observes how sad he looks sitting all by himself."),
-    (10, None, "'It is quiet here and nobody bothers me.' Barinov claims he prefers the silence of the basement."),
-    (11, None, "'But you cannot stay here.' Ainura insists that this is no place for a head cook."),
+    (0, None, "'Hello, Chef.' This is the informal word for 'hello', as opposed to the formal one. Ainura can be informal because she has known him for years."),
+    (1, None, "'So here is where you are hiding!' The word order puts 'you' in front of 'where', which gives the line its 'gotcha' tone. 'Hide' ends in 'sya', meaning 'hide yourself'."),
+    (2, None, "'Ainura, is that you?' 'Is it you' is just two words with a rising voice. There is no word for 'is'."),
+    (3, None, "'Do not make noise so loudly, please.' The expression for 'don't make noise' is 'not' plus a command made from the Russian for 'noise'. 'Loudly' goes at the end."),
+    (4, None, "'I looked for you everywhere for a long time.' 'Looked' gets 'a' since Ainura is a woman."),
+    (5, None, "'Sit down next to me, want a drink with me?' The Russian word for 'sit down' ends in 'sya', so it is 'seat yourself'. 'Will you drink' uses the future to make an offer, much as English does with 'will you have'."),
+    (6, None, "'Oh, Chef, I am at work after all!' The small word 'zhe' means 'after all' and adds a protest. 'At work' uses 'na', the one Russians use for workplaces."),
+    (7, None, "'I still need to wash the floors.' 'To me it is needed' is Russian for 'I need to'. 'Still' adds 'there's more to do'."),
+    (8, None, "'Drop the work, rest a little.' 'Drop' is literally 'throw', as in 'throw down your work'. 'Rest' is a command."),
+    (9, None, "'You are sitting alone in the dark.' 'alone' is 'one', in the he-form. 'In the dark' puts an 'e' ending on 'darkness'."),
+    (10, None, "'It is quiet here and nobody disturbs me.' The Russian for 'quiet' stands alone with no subject, like 'it is quiet'. 'disturbs' ends in 'et', as it is about 'nobody'."),
+    (11, None, "'But you cannot stay here.' Russian says 'to you it is forbidden', which is the expression for 'you can't'. The Russian for 'stay' ends in 'sya'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'lyova': 'Лёва', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Down in the cold and cluttered restaurant basement, sous-chef Lyova searches among the crates for the missing herbs. Accustomed to commanding cooks on the line, he feels deeply humiliated being treated like an errand boy. When waitress Nastya comes downstairs checking on an urgent salad order, Lyova unloads his frustration. Let's listen to their conversation in Russian first."
-OPENER = "Let's analyze Lyova's emotional vent in the storeroom line by line. Notice how colloquial idioms express annoyance at workplace disrespect."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the arugula found, Lyova and Nastya hurry back to the kitchen to keep the dining room moving. Fantastic work exploring expressive spoken Russian! Next time you watch the episode, listen for the Russian expressions for 'to run' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = "In the basement, Lyova is looking for the arugula that Elena has sent him to get. He resents being treated like a messenger, and Nastya has come down to hurry him up. It's in Russian first."
+OPENER = "Let's go through the search. Lyova mutters, and Nastya is trying to cheer him up."
+TRANSITION = 'Time for the uninterrupted version.'
+OUTRO = "'I can't stand it' is a good thing to say about anything you dislike. Nastya's 'the main thing is that the guests get their food' is a good thing to say back. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('lyova', 'Где же лежит эта чёртова рукола?', 'Where is this damn arugula lying?', [(259, 'Где это чертова рукола')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('lyova', 'Ладно, пойдём спасать наш любимый ресторан.', 'Alright, let us go save our beloved restaurant.', [], ''),
 ]
 WALK = [
-    (0, None, "'Where is this damn arugula lying?' Lyova grumbles to himself in the dark, furious about his undignified search mission."),
-    (1, None, "'Lyova, guests in the dining room await salad!' Nastya runs down to hurry him up, stressing the mounting delays upstairs."),
-    (2, None, "'She found herself an errand boy!' He vents his anger about being treated like a lowly intern by the new boss."),
-    (3, None, "'Do not worry, the chef is just very nervous.' Nastya tries to excuse Elena's behavior as just high-pressure stress."),
-    (4, None, "'First look for greens, then wash dishes!' Lyova sarcastically predicts that he will be scrubbing pots next."),
-    (5, None, "'You are an experienced sous-chef, do not be so offended.' She urges him to swallow his pride because the restaurant needs his help."),
-    (6, None, "'I am a respected cook, not a loader!' He stubbornly defends his high rank and culinary prestige."),
-    (7, None, "'Help me find this box quickly.' Nastya ignores his wounded ego and asks for immediate practical assistance."),
-    (8, None, "'Here it is, hidden behind old boxes.' Lyova finally spots the missing ingredient tucked away in a corner."),
-    (9, None, "'Great, take it and let us run to the kitchen!' She grabs the box and tries to motivate him into a quick sprint back up."),
-    (10, None, "'I cannot stand such strange rules.' He complains one last time about the unbearable new regime."),
-    (11, None, "'The main thing is that guests receive their dishes.' Nastya gently reminds him that feeding the customers is their ultimate priority."),
-    (12, None, "'Alright, let us go save our beloved restaurant.' Lyova sighs and agrees to put his duty above his pride for the sake of the team."),
+    (0, None, "'Where is this damn arugula lying?' 'Damn' starts from 'devil'. 'Lies' is the Russian for 'is located' when an object is put down."),
+    (1, None, "'Lyova, the guests in the dining room are waiting for salad!' The expression for 'in the dining room' takes an 'e' ending. 'Wait for' takes the salad directly, without a word for 'for'."),
+    (2, None, "'She found herself an errand boy!' 'Errand boy' is a fixed phrase that is literally 'boy on running-about'. 'for herself' adds a note of contempt."),
+    (3, None, "'Do not worry, the chef is just very nervous.' 'Nervous' comes from 'nerves'. 'Don't worry' is 'not' plus a command."),
+    (4, None, "'First look for greens, then wash dishes!' 'Wash' is spelled exactly like 'my', so 'my dishes' and 'wash the dishes' look the same. 'First' and 'then' keep the order."),
+    (5, None, "'You are an experienced sous-chef, do not be so offended.' 'Don't take offence' ends in 'sya'. 'Experienced' is derived from 'experience'."),
+    (6, None, "'I am a respected cook, not a loader!' 'Respected' is the formal word from speeches. 'Loader' is pieced together from 'cargo'."),
+    (7, None, "'Help me find this box quickly.' The Russian word for 'help' takes 'me' in the 'to' form, since you help 'to' someone. 'Find' follows directly, with no 'to' in front."),
+    (8, None, "'Here it is, hidden behind old crates.' The Russian for 'hid' gets 'as' since 'box' is grammatically a she-word, and it carries the 'sya' tail, so the box 'hid itself'. 'Behind the crates' uses the 'with' form, since the box is not moving."),
+    (9, None, "'Great, take it and let us run to the kitchen!' The term for 'take' is a short command. The term for 'let's run' ends in 'im', the ending for 'we'."),
+    (10, None, "'I cannot stand such strange rules.' The first words are a fixed phrase for 'I can't stand'. 'Rules' here is the plural of 'order'."),
+    (11, None, "'The main thing is that the guests get their dishes.' This pattern uses the past form after the little word 'chtoby', even though it talks about the future. It is the Russian way of saying what you really want to happen."),
+    (12, None, "'Alright, let us go save our beloved restaurant.' 'Let's go' is the respectful plural. 'Beloved' comes from 'to love'."),
 ]

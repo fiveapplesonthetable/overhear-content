@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "As the hectic shift at Claude Monet winds down, waitress Nastya joins bartender Kostya at the counter. While they assure each other that their connection is strictly platonic friendship, their warm glances reveal that a genuine romance has already quietly sparked between them. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Nastya and Kostya's tender conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Believing they are merely close friends, Nastya and Kostya fail to see that love is already blossoming. Next time you watch the episode, listen for the Russian expressions for 'madness' and 'madly' — you will catch every word right away. See you next time!"
+INTRO = "The shift is finally over. Nastya and Kostya sit at the bar and talk about the day, and, a little shyly, about each other. It's in Russian first."
+OPENER = "Let's go through it. Both of them say 'friends', and both of them know better."
+TRANSITION = 'Time to hear it as it was told.'
+OUTRO = "Kostya and Nastya have said 'friends' three times, and nobody believes them. The Russian for 'with great pleasure' is a lovely line to keep for when you say yes. See you next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, этот сумасшедший рабочий день наконец закончился.', 'Kostya, this crazy workday has finally ended.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Я безумно рад нашей неожиданной тёплой встрече!', 'I am insanely glad for our unexpected warm meeting!', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, this crazy workday has finally ended.' Nastya leans against the bar counter with a sigh of relief."),
-    (1, None, "'Yes, Nastya, real madness was happening in the kitchen.' The bartender agrees after surviving the evening chaos."),
-    (2, None, "'On the other hand, we supported each other well today.' She appreciates their teamwork amid the stress."),
-    (3, None, "'With you it is always easy and very pleasant to work.' Kostya expresses his genuine appreciation for her presence."),
-    (4, None, "'You and I are simply wonderful loyal friends.' Nastya firmly establishes their relationship as strictly platonic."),
-    (5, None, "'Of course, between us there is only strong sincere friendship.' Kostya nods in agreement, concealing his deeper feelings."),
-    (6, None, "'Some are sure that nothing can happen.' Nastya echoes Max's voiceover about denial in romance."),
-    (7, None, "'They do not understand that everything has already begun.' She smiles softly, hinting at an unspoken romantic spark."),
-    (8, None, "'Are you talking about us or about the chef?' Kostya feels a sudden rush of hope and curiosity."),
-    (9, None, "'I am simply reflecting on life and feelings.' The waitress plays coy with an enigmatic smile."),
-    (10, None, "'Then let us drink some delicious tea together.' Kostya hospitably offers to pour her a hot beverage."),
-    (11, None, "'With great pleasure I will sit here with you.' Nastya gladly accepts the invitation to stay by his side."),
-    (12, None, "'I am insanely glad for our unexpected warm meeting!' Kostya smiles warmly as they share a private moment."),
+    (0, None, "'Kostya, this crazy workday has finally ended.' 'Crazy' starts from 'with' plus 'mind' plus 'gone', which makes it 'gone off one's mind'. 'Ended' ends in 'sya', since the day ended itself."),
+    (1, None, "'Yes, Nastya, real madness was happening in the kitchen.' 'Madness' is pieced together from 'without' plus 'mind'. 'Was happening' is a verb that comes from 'create', and it is used for strange events."),
+    (2, None, "'On the other hand, we supported each other great today.' 'On the other hand' is a favourite of Kostya's. 'Each other' is literally 'friend of friend'."),
+    (3, None, "'With you it is always easy and very pleasant to work.' 'With you' is two short words. 'Easy' and 'pleasant' stand alone, like 'it is easy'."),
+    (4, None, "'You and I are simply wonderful loyal friends.' 'You and I' is 'we with you'. 'Wonderful' comes from 'notice', so it means 'worth noticing'."),
+    (5, None, "'Of course, between us there is only strong sincere friendship.' 'Strong' is the word you use for tea or drink. 'Friendship' comes from 'friend'."),
+    (6, None, "'Some are sure that nothing can happen.' 'Some' is a plural word. 'Nothing can be' keeps the usual negative."),
+    (7, None, "'They do not understand that everything has already begun.' 'Began' ends in 'o' because 'everything' is neuter. 'Already' sits before the action."),
+    (8, None, "'Are you talking about us or about the chef?' 'About' here is a casual word, 'pro'."),
+    (9, None, "'I am simply reflecting on life and feelings.' 'Reflect' is derived from 'think'. 'About life' ends in 'i', and so does 'feelings'."),
+    (10, None, "'Then let us drink some delicious tea together.' 'Let us drink' is the 'we' form. 'Tea' takes a special 'u' ending, to mean 'some tea'."),
+    (11, None, "'With great pleasure I will sit here with you.' 'With great pleasure' is a polite and warm way to accept. 'Sit for a while' has a prefix that makes it a short sit."),
+    (12, None, "'I am insanely glad of our unexpected warm meeting!' 'Insanely' springs from 'without mind', and it means 'madly'. 'Glad' goes into the 'to' form, so 'meeting' ends in 'e'."),
 ]

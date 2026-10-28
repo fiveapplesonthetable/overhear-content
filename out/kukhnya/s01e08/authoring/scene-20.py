@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Returning to the living room with hot tea, the owner catches Max and Vika looking like a devoted, affectionate couple. Convinced that her beloved dog Hector will be in loving hands, she happily agrees to let them take him home. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the domestic vocabulary, expressions of pet care, and lighthearted flirtation."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Hector successfully adopted, Max and Vika head home together, sharing a playful bond forged through mutual deception. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to see' and 'together' — you will catch every word right away. See you next time!"
+INTRO = "The owner has come back with the tea and found Max and Vika looking like a happy couple. Now they have to keep up the act while she decides whether they're good enough for her dog. It's in Russian first."
+OPENER = 'Slowly now. They are both lying, and doing it beautifully.'
+TRANSITION = 'Back to the story proper.'
+OUTRO = "You've heard a lot of nice things said about a home: warm, quiet, a soft couch, a park. They're all good words to use when you describe your own place. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот видите, мы идеальная и дружная пара.', 'You see, we are an ideal and harmonious couple.', [(235, 'и чаек')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Теперь наша жизнь станет намного лучше вместе.', 'Now our life will become much better together.', [(240, 'новый дом')], ''),
 ]
 WALK = [
-    (0, None, "'You see, we are an ideal and harmonious couple.' Max lays on the charm, presenting them as a perfectly harmonious household."),
-    (1, None, "'We love animals very much and take care of them.' Vika plays along, confirming their shared dedication to giving pets a wonderful life."),
-    (2, None, "'In our good apartment it is always warm and peaceful.' He casually drops details about their supposedly comfortable and stable living situation."),
-    (3, None, "'Hector will be able to walk in the beautiful park every day.' Vika adds a picturesque image of daily strolls to win over the sentimental owner."),
-    (4, None, "'And sleep on the soft couch by the bed.' Max throws in a cozy detail about where the dog will sleep to seal the deal."),
-    (5, None, "'The owner is very glad about our kind words.' Vika notices that their combined performance is working flawlessly."),
-    (6, None, "'She sees how much we suit each other.' He whispers that the owner is completely buying their soulmate routine."),
-    (7, None, "'Careful, Max, this is just our clever game.' Vika warns him not to get carried away with his own fictional romance."),
-    (8, None, "'The main thing is that the dog finally found its home.' Max brushes off the awkwardness, thrilled that their mission was a success."),
-    (9, None, "'I am sincerely happy to take this good dog.' She drops the act for a moment to express genuine joy about adopting the animal."),
-    (10, None, "'Let's go quickly, Hector is waiting for us by the door.' Max urges a swift exit before their web of lies starts to unravel."),
-    (11, None, "'Now our life will become much better together.' Vika delivers one last convincingly sweet line for the owner's benefit."),
+    (0, None, "'You see, we are an ideal and harmonious couple.' 'You see' is a polite 'there you are'. 'Harmonious' stems from 'friend', so it means 'friendly together'."),
+    (1, None, "'We love animals very much and take care of them.' 'Take care' comes from 'worry' or 'care', and it ends in 'sya'. 'About them' is two short words."),
+    (2, None, "'In our good apartment it is always warm and peaceful.' The words for 'warm' and 'calm' stand on their own with no subject, the way English says 'it is warm'. 'In our apartment' takes an 'e' ending."),
+    (3, None, "'Hector will be able to walk in the beautiful park every day.' The Russian word for 'will be able' is one word that carries the future. 'Walk' is the casual one, for a stroll."),
+    (4, None, "'And sleep on the soft couch by the bed.' 'Bed' is a she-word."),
+    (5, None, "'The owner is very glad about our kind words.' The Russian for 'glad' takes the 'to' form of what you're glad of, so 'words' ends in 'am'. 'Kind' agrees with it."),
+    (6, None, "'She sees how much we suit each other.' 'Suit' is 'fit' or 'come up to'. 'Each other' is literally 'friend to friend'."),
+    (7, None, "'Careful, Max, this is just our clever game.' 'Careful' is a one-word warning. 'Clever' here is closer to 'sly'."),
+    (8, None, "'The main thing is that the dog finally found its home.' 'The main thing' is a handy phrase to begin a point. 'Found' ends in 'a', since 'dog' is one of the she-words."),
+    (9, None, "'I am sincerely happy to take this good dog.' The term for 'happy' carries 'a' since Vika is a woman. The Russian for 'dog' here is the he-form, 'pyos', since the dog is a boy."),
+    (10, None, "'Let's go quickly, Hector is waiting for us by the door.' The word for 'waits' takes 'us' directly, with no word for 'for'. 'By the door' uses the short 'u' word for 'at'."),
+    (11, None, "'Now our life will become much better together.' 'Will become' is a one-word future. 'Much better' is two words."),
 ]

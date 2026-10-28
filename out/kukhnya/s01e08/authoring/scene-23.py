@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the dining room, guests are growing impatient as kitchen delays mount during the dinner rush. Victoria storms into the kitchen demanding immediate answers from Fedya about overdue fish orders. Fedya protests that he is overwhelmed by a mountain of checks, when suddenly acrid smoke fills the air. Let's listen to the kitchen chaos in Russian first."
-OPENER = "Let's break down this fast-paced kitchen emergency line by line. Notice how urgent time expressions and sensory exclamations build dramatic tension."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Choking on smoke and racing against the clock, Fedya and Victoria face a dinner service spinning out of control. Superb job tackling dramatic dialogue in conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'possible' — you will catch every word right away. See you next time!"
+INTRO = "The dinner rush has started, and the dining room is complaining. Vika comes into the kitchen to find out why the fish is late, and she gets her answer in the form of smoke. It's in Russian first."
+OPENER = "Let's go back through the scene. It starts with questions, and ends with a smell."
+TRANSITION = 'Here goes the full scene.'
+OUTRO = "Vika's 'what a nightmare' is as useful as it is dramatic. You've heard a hurried kitchen, a long wait and a burnt quail in a couple of minutes. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Федя, когда дорада наконец будет готова?', 'Fedya, when will the sea bream finally be ready?', [(266, 'Федор, когда дорада будет готова')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Новая смена началась с чистой катастрофы.', 'The new shift began with pure disaster.', [], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, when will the sea bream finally be ready?' Vika furiously demands to know why the fish dish is so delayed."),
-    (1, None, "'The receipt was punched only now, I am rushing!' Fedya complains that the order came in late and he is already rushing."),
-    (2, None, "'Guests at the table ate all the bread!' Vika points out that the hungry customers have finished all their bread."),
-    (3, None, "'And what can I do right now?' Fedya helplessly asks what he is supposed to do right this second."),
-    (4, None, "'Waiters have been waiting for hot fish for forty minutes!' Vika highlights the unacceptable forty-minute wait time for a hot meal."),
-    (5, None, "'We have a regular fishermen convention today!' Fedya sarcastically compares the overwhelming fish orders to a convention."),
-    (6, None, "'Fedya, calm down and hand over urgent orders!' Vika orders him to stop panicking and serve the urgent tables."),
-    (7, None, "'I am doing everything possible, do not yell.' Fedya insists he is working as fast as humanly possible."),
-    (8, None, "'Wait, what is this terrible stench?' Vika suddenly sniffs the air, detecting a foul burning smell."),
-    (9, None, "'Oh no, the quails on the stove burnt!' Fedya realizes in horror that the delicate birds have caught fire."),
-    (10, None, "'What a nightmare, complete smoke in the kitchen!' Vika laments the disastrous state of the smoke-filled kitchen."),
-    (11, None, "'Urgently take the pan off the hot fire!' Fedya yells to remove the burning pan from the heat source."),
-    (12, None, "'The new shift began with pure disaster.' Vika concludes that her shift is off to a terrible start."),
+    (0, None, "'Fedya, when will the sea bream finally be ready?' 'finally' sounds impatient. 'Sea bream' is borrowed from Italian, and it's a fish you'll see on many menus."),
+    (1, None, "'The receipt was punched only now, I am rushing!' 'Punched' means 'rung through the till', and no one is named. 'I rush' is the usual phrase for saying 'I'm in a hurry'."),
+    (2, None, "'Guests at the table ate all the bread!' 'Ate up' has a prefix that means 'to the end'. 'At the table' uses 'za', which Russians use for sitting at a table."),
+    (3, None, "'And what can I do right now?' The expression for 'I can' is irregular, meaning worth learning as a lump. The Russian word for 'do' has a prefix that makes it a single act."),
+    (4, None, "'Waiters have been waiting for hot fish for forty minutes!' 'Forty' is a special word, unlike the other tens. 'Minutes' appears in the 'of' form after it."),
+    (5, None, "'We have a regular fishermen's convention today!' 'Fishermen' springs from 'fish'. 'Convention' is a word for a gathering, so Fedya jokes that the orders are all fish."),
+    (6, None, "'Fedya, calm down and hand over the urgent orders!' The Russian for 'calm down' ends in 'sya', so it is 'calm yourself'. 'hand over' is a short command."),
+    (7, None, "'I am doing everything possible, do not yell.' 'Everything possible' is two words. 'Don't yell' is 'not' plus a command."),
+    (8, None, "'Wait, what is this terrible stench?' 'What kind of' is the chunk 'chto za'. 'Terrible' comes from 'fear'."),
+    (9, None, "'Oh no, the quails on the stove burnt!' 'Burnt up' has a prefix that means 'completely'. 'On the stove' uses an 'e'."),
+    (10, None, "'What a nightmare, the kitchen is full of smoke!' The words for 'what a nightmare' are a very useful reaction to any disaster. The expression for 'full' agrees with 'smoke'."),
+    (11, None, "'Urgently take the pan off the hot fire!' The term for 'take off' begins with 's', meaning 'off'. 'Off the hot fire' uses the word 'with' in the sense of 'from'."),
+    (12, None, "'The new shift began with pure disaster.' The term for 'began' carries 'as' since 'shift' is a she-word. 'Pure' is literally 'clean', which makes it a 'clean' disaster."),
 ]

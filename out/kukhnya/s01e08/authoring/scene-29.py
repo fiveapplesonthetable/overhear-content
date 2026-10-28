@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "After rival chef Elena Sokolova spends a grueling day attempting to manage the Claude Monet kitchen, orders fall apart and dishes get sent back by disgruntled diners. Confronting Elena in his office, Chef Barinov triumphantly declares that he won their bet, delivering a passionate defense of his quirky kitchen crew. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Viktor and Elena's wager post-mortem line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor Barinov defends his loyal cooks and secures a hard-earned dinner date from his rival. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'disorder' — you will catch every word right away. See you next time!"
+INTRO = "The day is over, and Barinov sits across from Elena to enjoy his win. The kitchen she thought she could run has turned out to be harder than it looks. But she has an answer, and it ends the episode. It's in Russian first."
+OPENER = "Let's go back through the last argument. Barinov is smug, Elena is tired, and she has the last word."
+TRANSITION = 'And now without interruptions.'
+OUTRO = "Elena's last line is very polite and also a demand: you owe me a dinner. In the Russian it is only a few words. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Что и требовалось доказать, Елена Павловна!', 'That proves my point, Elena Pavlovna!', [(343, 'Что и требовалось доказать.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Шеф, вы мне должны отличный ужин!', 'Chef, you owe me a great dinner!', [(355, 'А? Шеф?'), (356, 'Вы мне ужин должны.')], ''),
 ]
 WALK = [
-    (0, None, "'That proves my point, Elena Pavlovna!' Viktor Barinov gloats about his victory with undisguised pleasure."),
-    (1, None, "'I turned out absolutely right again today.' The head chef celebrates his superior kitchen strategy."),
-    (2, None, "'As always, I won the bet!' Barinov reminds his culinary rival of their high-stakes wager."),
-    (3, None, "'Viktor, stop talking this silly nonsense.' Elena dismisses his arrogance with sharp exasperation."),
-    (4, None, "'I worked in your kitchen the whole day.' The guest chef recounts her exhausting shift on the line."),
-    (5, None, "'At first everything was completely calm and fine.' She recalls the smooth operation of the kitchen early on."),
-    (6, None, "'And then all the cooks seemed to get sick!' Elena describes the sudden wave of disastrous blunders."),
-    (7, None, "'You have nothing but cripples working in your kitchen!' She vents her frustration at the crew's sudden incompetence."),
-    (8, None, "'Right, but these are my own people!' As Barinov fiercely defends his cooks against outside criticism."),
-    (9, None, "'And only I have the right to scold them.' The chef claims exclusive ownership of his kitchen family."),
-    (10, None, "'The chef's job is to make a team out of them!' Barinov eloquently articulates the true essence of leadership."),
-    (11, None, "'You know how to beautifully justify any disorder.' Elena shakes her head at Viktor's brazen charm."),
-    (12, None, "'Chef, you owe me a great dinner!' Elena happily claims his wager prize with a triumphant grin."),
+    (0, None, "'That proves my point, Elena Pavlovna!' The phrase is the Russian version of the mathematician's 'which was to be proved'. Barinov uses it as a maths teacher would."),
+    (1, None, "'I turned out absolutely right again today.' 'Turned out' is the word Russian uses for 'ended up being'. 'Right' is the man's short form."),
+    (2, None, "'As always, I won the bet!' 'However' or 'by the way' opens the line. 'Bet' is borrowed from French and never changes its ending."),
+    (3, None, "'Viktor, stop talking this silly nonsense.' 'Stop' is a polite plural. 'Nonsense' is a casual word, closer to 'rubbish'."),
+    (4, None, "'I worked in your kitchen the whole day.' 'Worked' starts with a prefix that means 'all through'. 'Your' is the formal one."),
+    (5, None, "'At first everything was completely calm and normal.' 'Was' is neuter, because 'everything' is."),
+    (6, None, "'And then all the cooks seemed to get sick!' 'Fell ill' is the past plural."),
+    (7, None, "'You have nothing but invalids working in your kitchen!' 'Invalids' is Barinov's own word for his cooks, and Elena borrows it with a sneer. 'Nothing but' is made from a word meaning 'solid'."),
+    (8, None, "'Right, but these are my own people!' 'Right' is a one-word agreement. 'Own' also means 'kin', so they are his people in a family sense."),
+    (9, None, "'And only I have the right to scold them.' 'I have the right' is literally 'I have right'. 'Scold' is followed by 'them' in a changed form."),
+    (10, None, "'The chef's job is to make a team out of them!' 'The job of the chef' puts the 'a' ending on 'chef'. 'Out of them' is two small words."),
+    (11, None, "'You know how to beautifully justify any mess.' 'Know how' is the skill word. 'Justify' is related to 'right'."),
+    (12, None, "'Chef, you owe me a great dinner!' 'You owe me' is 'must' plus 'to me'. 'Great' is the Russian for top marks."),
 ]

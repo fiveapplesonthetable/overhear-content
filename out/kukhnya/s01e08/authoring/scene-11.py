@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Acting as guest head chef for the day, Elena Sokolova observes fish specialist Fedya at his cooking station. She surprises the defensive line cook by offering expert praise for his frying technique, comparing his craft to the legendary Paul Bocuse in Lyon. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this flattering kitchen exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Charmed by Elena's generous compliments, Fedya happily redoubles his efforts at the fish station. See you next time!"
+INTRO = "Elena is running Barinov's kitchen, and she has noticed how Fedya, the fish cook, fries a fillet. She decides to praise him, and he does not know what to do with it. It's in Russian first."
+OPENER = "Let's go through the compliment. Fedya is defensive, and Elena is calm."
+TRANSITION = "Let's run it back, nonstop."
+OUTRO = "Fedya's answer, 'nobody has ever said such words to me', is a very good line for the moment you hear a compliment. Elena also taught you how to praise someone's craft. See you next time."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('elena', 'Федя, скажите, вы случайно учились во Франции?', 'Fedya, tell me, did you by chance study in France?', [(125, 'Федя, вы учились во Франции')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Обещаю сделать самое вкусное блюдо сегодня!', 'I promise to make the most delicious dish today!', [], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, tell me, did you by any chance study in France?' Elena begins with an inquiry about Fedya's culinary training."),
-    (1, None, "'I have nothing better to do than to study there!' Fedya dismisses the idea with gruff defensive skepticism."),
-    (2, None, "'You have simply stunning fish searing technique.' Elena praises his frying skills with genuine professional admiration."),
-    (3, None, "'I simply fry fish on a hot pan.' Fedya downplays his technique as basic everyday kitchen routine."),
-    (4, None, "'Such searing is only done in Lyon at Bocuse's.' Elena compares his crust to elite French haute cuisine."),
-    (5, None, "'Are you seriously comparing me with a French master?' Fedya is visibly touched by the flattering comparison."),
-    (6, None, "'Absolutely seriously, you have a rare natural gift.' Elena reaffirms that his talent comes straight from nature."),
-    (7, None, "'No one has ever spoken such words to me before.' Fedya confesses that Barinov rarely offers such gentle encouragement."),
-    (8, None, "'Real talent is always visible at first sight.' Elena emphasizes her respect for dedicated craftsmanship."),
-    (9, None, "'Thank you very much for such a high praise, chef.' Fedya warmly expresses sincere gratitude to the visiting chef."),
-    (10, None, "'Keep cooking, the guests will be in complete delight.' Elena urges him to keep up the stellar standard."),
-    (11, None, "'I promise to make the most delicious dish today!' Fedya returns to his station with newfound professional pride."),
+    (0, None, "'Fedya, tell me, did you by chance study in France?' 'Tell' is the formal command, used here like 'tell me'. 'By chance' comes from 'chance'."),
+    (1, None, "'Like I had nothing better to do than study there!' 'To me nothing else to do' is an idiom for 'what a silly question'. 'Study' ends in 'sya'."),
+    (2, None, "'You have simply amazing technique for frying fish.' 'Frying' comes from 'to fry'. 'Of fish' puts a changed ending on 'fish'."),
+    (3, None, "'I simply fry fish on a hot pan.' 'I fry' ends in 'yu'. 'On a hot pan' puts an 'oy' on 'hot' and an 'e' on 'pan'."),
+    (4, None, "'They only do such searing in Lyon at Bocuse's.' 'At Bocuse's' uses 'u', which means 'at the place of'. 'They do' has no one named."),
+    (5, None, "'Are you seriously comparing me to a French master?' 'Compare' is followed by 'with'. 'French master' takes the 'om' endings."),
+    (6, None, "'Absolutely seriously, you have a rare natural gift.' 'Natural' comes from 'nature'. 'Gift' is the Russian for a talent as well as a present."),
+    (7, None, "'Nobody ever told me such words before.' 'To me they didn't say' is the Russian for 'nobody told me'. 'Such words' takes the 'of' form after 'not'."),
+    (8, None, "'True talent is always visible at first sight.' 'Visible' is a short form that does not change with the thing. 'From the first look' is how Russians say 'at first sight'."),
+    (9, None, "'Thank you very much for such a high assessment, Chef.' 'Assessment' is the word for a grade or opinion. 'Such high' goes in front of it."),
+    (10, None, "'Keep cooking, the guests will be in complete delight.' 'Continue' is the courteous plural. 'In delight' puts the 'e' ending on 'delight'."),
+    (11, None, "'I promise to make the most delicious dish today!' 'I promise' is a one-word present. 'The most delicious' is 'most' plus 'tasty'."),
 ]

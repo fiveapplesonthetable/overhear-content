@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Я никогда не возьму женщину на кухню. | I will never take a woman into the kitchen. | #29: Я бы себе на кухню поварику бы не взял | verbatim |
-| 2 | Елена | Что за глупые мысли, Виктор? | What foolish thoughts, Viktor? | #31: Что вы говорите | verbatim |
-| 3 | Шеф | Женщины слишком много говорят на работе. | Women talk too much at work. | #30: Они слишком много болтают | verbatim |
+| 1 | Шеф | Я никогда не возьму женщину на кухню. | I will never take a woman into the kitchen. | #29 00:01:36: Я бы себе на кухню поварику бы не взял | verbatim |
+| 2 | Елена | Что за глупые мысли, Виктор? | What foolish thoughts, Viktor? | #31 00:01:42: Что вы говорите | verbatim |
+| 3 | Шеф | Женщины слишком много говорят на работе. | Women talk too much at work. | #30 00:01:40: Они слишком много болтают | verbatim |
 | 4 | Елена | На моей кухне всегда идеальный порядок. | In my kitchen there is always perfect order. | new | new |
 | 5 | Шеф | На кухне ресторана нужен строгий контроль. | In a restaurant kitchen strict control is needed. | new | new |
 | 6 | Елена | Мои повара работают спокойно и аккуратно. | My cooks work calmly and neatly. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will never take a woman into the kitchen.' Barinov bluntly states his hiring policy against female cooks.
-- 'What foolish thoughts, Viktor?' Elena calls out the absurdity of his outdated mindset.
-- 'Women talk too much at work.' He throws out another stereotype about women being too chatty during service.
-- 'In my kitchen there is always perfect order.' Elena counters by highlighting the pristine discipline in her own restaurant.
-- 'In a restaurant kitchen strict control is needed.' Barinov insists that a top-tier kitchen requires a firm hand to keep things running.
-- 'My cooks work calmly and neatly.' Elena emphasizes that her staff operates smoothly without unnecessary yelling.
-- 'You will not cope with our hard work.' He bluntly predicts that she would fail under the immense pressure of his kitchen.
-- 'I cope with any difficult task.' Elena confidently asserts her ability to handle any culinary crisis.
-- 'At Claude Monet restaurant it is very hard.' Barinov tries to intimidate her by talking up the punishing environment at Claude Monet.
-- 'I am not afraid of hard work, chef!' Elena refuses to back down, stating she does not fear a demanding shift.
-- 'You do not understand our male rules.' He implies there is an unspoken brotherhood that she could never grasp.
-- 'The rules in the kitchen are the same for everyone.' Elena rejects his exclusivity, arguing that professional standards apply to everyone.
-- 'Then prove it in deed, Elena!' Barinov finally dares her to put her skills to the ultimate test.
+- 'I will never take a woman into the kitchen.' 'Never' needs 'not' too. 'Will take' is the one-word future, and 'woman' has the movement ending.
+- 'What foolish thoughts, Viktor?' 'What kind of' is the chunk 'chto za'. 'Thoughts' is a plural.
+- 'Women talk too much at work.' 'Too much' is two words in Russian. 'At work' uses 'na', which Russians use for workplaces.
+- 'In my kitchen there is always perfect order.' 'On my kitchen' is the Russian choice for 'in my kitchen', because Russians say 'on' for workplaces. 'Perfect' springs from 'ideal'.
+- 'In a restaurant kitchen strict control is needed.' 'Needed' ends in a consonant to agree with 'control'. 'Strict' goes in front, as it does with most describing words.
+- 'My cooks work calmly and neatly.' 'Cooks' ends in 'a'. 'Calmly' and 'neatly' both end in 'o'.
+- 'You will not cope with our hard work.' 'Cope' ends in 'sya' and is followed by 'with'. 'Hard' also means 'heavy', as in 'a heavy job'.
+- 'I cope with any difficult task.' The same word for 'cope', now in the 'I' form. 'Any' and 'difficult' agree with 'task'.
+- 'At Claude Monet restaurant it is very hard.' 'Hard' has no subject, so it's like 'it is heavy'. The word is also used for weather and mood.
+- 'I am not afraid of hard work, chef!' After 'not afraid', the thing feared appears in the 'of' form. So 'work' changes shape.
+- 'You do not understand our male rules.' With 'not understand', the thing you don't understand takes the 'of' form. 'Male' comes from 'man'.
+- 'The rules in the kitchen are the same for everyone.' 'The same' is one word that means 'identical'. 'For everyone' is two short words.
+- 'Then prove it in deed, Elena!' 'In deed' means 'in practice'. It's a favourite phrase of Russian bosses.

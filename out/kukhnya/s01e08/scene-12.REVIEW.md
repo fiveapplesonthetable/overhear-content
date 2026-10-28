@@ -12,28 +12,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Луи, чем вы сейчас занимаетесь на десертах? | Louis, what are you doing on the desserts right now? | new | new |
 | 2 | Луи | Какое вам вообще дело до моих десертов? | What business is it of yours regarding my desserts? | new | new |
-| 3 | Елена | У вас такой тёплый и знакомый акцент. | You have such a warm and familiar accent. | #131: Какой знакомый акцент | verbatim |
+| 3 | Елена | У вас такой тёплый и знакомый акцент. | You have such a warm and familiar accent. | #131 00:07:41: Какой знакомый акцент | verbatim |
 | 4 | Луи | Да, я приехал сюда из самой Франции. | Yes, I came here from France itself. | new | new |
-| 5 | Елена | Это же Прованс, я абсолютно права? | It is Provence, am I absolutely right? | #132: Прованс? Я права | verbatim |
-| 6 | Луи | Да, мадам, вы очень тонко угадали! | Yes, madame, you guessed very subtly! | #133: Да | verbatim |
-| 7 | Елена | Я просто обожаю прекрасный Сен-Поль-де-Ванс! | I simply adore wonderful Saint-Paul-de-Vence! | #133: Я обожаю Прованс<br>#134: Особенно я люблю Сан-Поль-де-Ванс | verbatim |
-| 8 | Луи | Невероятно, вся моя семья живёт именно там! | Incredible, my whole family lives right there! | #135: Моя семья там живет | verbatim |
-| 9 | Елена | А какие десерты подают в «Золотой голубке»! | And what desserts they serve at La Colombe d'Or! | #136: А какие десерты подают золотой голубке | verbatim |
-| 10 | Луи | О, мадам, это моё самое любимое место! | Oh, madame, that is my most favorite place! | #137: О, мадам | verbatim |
-| 11 | Елена | Там великолепный вид и совершенно волшебная атмосфера. | There is a magnificent view and completely magical atmosphere. | #136: Какой там вид | verbatim |
-| 12 | Луи | Спасибо, я словно ненадолго вернулся домой! | Thank you, I felt as if I briefly returned home! | #138: Я как будто ненадолго вернулся домой | verbatim |
+| 5 | Елена | Это же Прованс, я абсолютно права? | It is Provence, am I absolutely right? | #132 00:07:44: Прованс? Я права | verbatim |
+| 6 | Луи | Да, мадам, вы очень тонко угадали! | Yes, madame, you guessed very subtly! | #133 00:07:46: Да | verbatim |
+| 7 | Елена | Я просто обожаю прекрасный Сен-Поль-де-Ванс! | I simply adore wonderful Saint-Paul-de-Vence! | #133 00:07:46: Я обожаю Прованс<br>#134 00:07:49: Особенно я люблю Сан-Поль-де-Ванс | verbatim |
+| 8 | Луи | Невероятно, вся моя семья живёт именно там! | Incredible, my whole family lives right there! | #135 00:07:54: Моя семья там живет | verbatim |
+| 9 | Елена | А какие десерты подают в «Золотой голубке»! | And what desserts they serve at La Colombe d'Or! | #136 00:07:57: А какие десерты подают золотой голубке | verbatim |
+| 10 | Луи | О, мадам, это моё самое любимое место! | Oh, madame, that is my most favorite place! | #137 00:08:01: О, мадам | verbatim |
+| 11 | Елена | Там великолепный вид и совершенно волшебная атмосфера. | There is a magnificent view and completely magical atmosphere. | #136 00:07:57: Какой там вид | verbatim |
+| 12 | Луи | Спасибо, я словно ненадолго вернулся домой! | Thank you, I felt as if I briefly returned home! | #138 00:08:04: Я как будто ненадолго вернулся домой | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, what are you doing on the desserts right now?' Elena approaches the pastry station to inspect the ongoing prep work.
-- 'What business is it of yours regarding my desserts?' Louis snaps at her, protective of his delicate desserts and annoyed by her presence.
-- 'You have such a warm and familiar accent.' She ignores his hostility and focuses on the distinct lilt in his voice.
-- 'Yes, I came here from France itself.' Louis proudly confirms his authentic French origins.
-- 'It is Provence, am I absolutely right?' Elena pinpoints the exact region, showing off her deep culinary knowledge.
-- 'Yes, madame, you guessed very subtly!' Louis is genuinely impressed by her accurate geographical guess.
-- 'I simply adore wonderful Saint-Paul-de-Vence!' She mentions a specific, picturesque village to build an immediate rapport.
-- 'Incredible, my whole family lives right there!' Louis lights up, thrilled to meet someone who knows his hometown.
-- 'And what desserts they serve at La Colombe d'Or!' Elena casually name-drops a legendary local restaurant to win him over.
-- 'Oh, madame, that is my most favorite place!' Louis is completely charmed, confirming it is his favorite spot in the world.
-- 'There is a magnificent view and completely magical atmosphere.' She vividly describes the beautiful setting, proving she has actually been there.
-- 'Thank you, I felt as if I briefly returned home!' Louis sincerely thanks her for giving him a brief, comforting taste of home.
+- 'Louis, what are you doing on desserts right now?' 'What are you doing' is a pair of words with a 'with' form. 'On desserts' means at the dessert station.
+- 'What business is it of yours regarding my desserts?' This is a fixed phrase for 'what's it to you'. It's a rude phrase, and Louis knows it.
+- 'You have such a warm and familiar accent.' 'Familiar' comes from 'know'. 'Such' goes in front of 'warm'.
+- 'Yes, I came here from France itself.' 'From France itself' uses 'the very', which is the same word as 'most'. 'Came' is how Russian says arriving by transport.
+- 'It is Provence, am I absolutely right?' 'Right' ends in 'a' for a woman, where a man says 'prav'. 'Absolutely' is a favourite word of Elena's.
+- 'Yes, madame, you guessed very subtly!' 'Madame' is French, and Louis uses it. 'Subtly' comes from 'thin'.
+- 'I simply adore wonderful Saint-Paul-de-Vence!' 'I adore' is a stronger word than 'I love'. The French place name keeps its hyphens.
+- 'Incredible, my whole family lives right there!' 'Incredible' starts from 'not' and 'believable'. 'Exactly there' is two small words.
+- 'And what desserts they serve at La Colombe d'Or!' 'Serve' has no person named. The name is translated into Russian as 'Golden Dove'.
+- 'Oh, madame, that is my most favorite place!' 'Most favourite' is 'most' plus 'beloved'. 'Place' is a neuter word.
+- 'There is a magnificent view and a completely magical atmosphere.' 'Magical' comes from the word for a wizard. 'View' is also 'sort' or 'kind'.
+- 'Thank you, I felt as if I briefly returned home!' 'For a short while' is one word too.

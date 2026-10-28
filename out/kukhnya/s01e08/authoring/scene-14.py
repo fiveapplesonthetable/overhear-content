@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'sasha': 'Саша', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "While Chef Barinov is away, guest chef Elena Sokolova introduces a remarkably calm and respectful atmosphere to Claude Monet's kitchen. Praising the cooks and gently managing an urgent food ticket for waitress Sasha, Elena demonstrates an entirely different leadership style. Let's listen to their polite kitchen dialogue in Russian."
-OPENER = "Let's observe how Elena Sokolova introduces calm professionalism and constructive compliments to the restaurant kitchen."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Barinov is away, and the kitchen is running unusually quietly. Elena speaks to her cooks politely, even using their full first names, and they don't quite know how to take it. It's in Russian first."
+OPENER = "Let's go back through the quiet kitchen. Elena asks, rather than shouts."
+TRANSITION = "Let's hear the lot together."
+OUTRO = "A polite kitchen is a rare thing, and so is a kitchen where the boss says 'please prepare'. You've heard the polite plural command a lot in this scene. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Фёдор, приготовьте две порции креветок.', 'Fyodor, prepare two portions of shrimp.', [(163, 'приготовьте, пожалуйста, еще две порции креветок')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('senya', 'Мы всё сделаем вовремя, шеф!', 'We will make everything on time, chef!', [(184, 'Да, шеф')], ''),
 ]
 WALK = [
-    (0, None, "'Arseny, you deserve respectful treatment.' Elena surprises the cooks with an uncharacteristically formal and dignified address."),
-    (1, None, "'You have the cleanest workstation.' She singles out a specific cook to offer genuine praise for his organization."),
-    (2, None, "'Sasha, calmly, let us breathe deeply.' When the waitress rushes in, Elena de-escalates the tension rather than yelling."),
-    (3, None, "'Ask the guests to wait a little longer.' She gives clear instructions on how to handle the delay in the dining room."),
+    (0, None, "'Fyodor, prepare two portions of shrimp.' Elena uses the full first name, which is formal. 'Prepare' is the polite plural, and 'two' is the she-form, since 'portion' is one of the she-words."),
+    (1, None, "'A chef should shout at cooks!' 'should' literally means 'must'. 'Shout at' takes the word 'na', followed by the cooks in a changed form."),
+    (2, None, "'Arseny, you deserve respectful treatment.' This is the full form of Senya's name. 'deserve' is followed by the 'of' form, so 'treatment' changes its ending."),
+    (3, None, "'But strict discipline is needed in the kitchen.' 'needed' ends in 'a' to agree with 'discipline'. 'In the kitchen' has the usual 'e' ending."),
+    (4, None, "'You have the cleanest workstation.' 'The cleanest' is literally 'most clean'. The Russian for 'workplace' is made from 'work' and 'place'."),
+    (5, None, "'Where is the hot dish for table three?' The Russian for 'third' agrees with 'little table' in the 'of' form. A table is called by its number."),
+    (6, None, "'The guests have been waiting forty minutes already!' Forty is a special word, unlike the other tens. 'Minutes' goes into the 'of' form after it."),
+    (7, None, "'Sasha, calmly, let us breathe deeply.' 'Let us' is the respectful plural. 'Breathe' and 'deeply' go together."),
+    (8, None, "'This dish takes over an hour to cook.' 'Is cooked' ends in 'sya', so the dish cooks itself. 'More than an hour' puts the 'a' ending on 'hour'."),
+    (9, None, "'They threaten to leave without paying.' The word for 'threaten' ends in 'sya'. 'Without payment' uses the 'of' form after 'without'."),
+    (10, None, "'Ask the guests to wait a little longer.' 'Ask' is the formal plural. 'A little more' is two words."),
+    (11, None, "'New order: partridge and mushrooms.' A list after a colon needs no verb. 'Partridge' counts as a she-word."),
+    (12, None, "'We will make everything on time, chef!' 'on time' is one word. 'We will make' ends in 'im', the ending for 'we'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "On the kitchen pass, guest chef Elena Pavlovna repeats the ticket orders to Viktor Barinov's cooks and complains about their slow pace. Sensing a chance to test Elena's resolve, Barinov calmly leaves the kitchen to let her manage the chaotic dinner rush alone. Listen to their sharp conversation in Russian first, and then we will examine every line."
-OPENER = "Let's examine this kitchen showdown step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our seventh scene. In Kukhnya, leaving a rival chef alone with a loyal brigade is the ultimate high-stakes psychological game. See you next time!'
+INTRO = "The kitchen is full, the orders are piling up, and Elena has been calling them out. Barinov decides this is the moment to leave her in charge. It's in Russian first."
+OPENER = "Let's go through the test. Elena pushes, Barinov sits back, and then he takes his leave."
+TRANSITION = 'Now see how much you catch.'
+OUTRO = "'Let's see who stays the winner' is a good line to say with a smile. You've also met 'you cope excellently', which is a polite thing to say to a boss. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('elena', 'Повторяю для всех, заказ уже ждёт!', 'I repeat for everyone, the order is already waiting!', [(93, 'я повторю. Всем понятно')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Посмотрим, кто здесь останется победителем!', "We'll see who stays the winner here!", [(97, 'Так, работаем')], ''),
 ]
 WALK = [
-    (0, None, "'I repeat for everyone, the order is already waiting!' Elena shouts the ticket again, frustrated by the lack of immediate action."),
-    (1, None, "'Elena, they heard you perfectly well.' Barinov calmly tells her that screaming twice does not make the food cook faster."),
-    (2, None, "'Why then is nobody working?' She demands to know why the cooks seem completely frozen."),
-    (3, None, "'In my kitchen there is always strict order.' He claims his kitchen operates on a precise, disciplined rhythm, not panic."),
-    (4, None, "'You work too slowly for a restaurant.' Elena criticizes their pace as entirely unacceptable for fine dining."),
-    (5, None, "'Every good dish needs its own time.' Barinov defends the slow speed as necessary for true culinary perfection."),
-    (6, None, "'Guests do not like to wait long for food.' She points out the practical reality that customers hate waiting."),
-    (7, None, "'Our guests appreciate high taste.' He counters that their elite clientele prefers quality over speed."),
-    (8, None, "'I will show myself how one must work!' Elena decides to jump onto the line herself to demonstrate proper urgency."),
-    (9, None, "'Great, I will go calmly rest.' Barinov sarcastically steps back, offering her full control while he takes a break."),
-    (10, None, "'Are you abandoning your kitchen to me?' Elena is shocked that he is actually walking away during a dinner rush."),
-    (11, None, "'I am sure that you will manage excellently.' He mocks her earlier confidence, assuring her she can handle it alone."),
-    (12, None, "'Return soon, otherwise I will take the restaurant!' She warns him to come back soon before she completely takes over his territory."),
-    (13, None, "'We'll see who stays the winner here!' Barinov tosses a final taunt over his shoulder about who will ultimately win."),
+    (0, None, "'I repeat for everyone, the order is already waiting!' 'I repeat' is a one-word present. 'For everyone' is two short words."),
+    (1, None, "'Elena, they heard you perfectly well.' 'Heard' is the finished kind, so it means 'caught' what she said. 'You' is the informal one here, as Barinov uses it with her."),
+    (2, None, "'Why then is nobody working?' 'Nobody' needs 'not' in front of the action. 'Then' is a very common little word."),
+    (3, None, "'In my kitchen there is always strict order.' 'On my kitchen' is Russian for 'in my kitchen'. 'Strict order' is a phrase you hear all the time."),
+    (4, None, "'You work too slowly for a restaurant.' 'Too slowly' is two words. 'For a restaurant' is the 'for' plus the 'a' ending."),
+    (5, None, "'Every good dish needs its own time.' 'To every good dish' is the 'to' form of 'every good dish', because 'need' wants it. 'Its own' is a word that points back at the dish."),
+    (6, None, "'Guests do not like to wait long for food.' 'Wait for food' has no word for 'for'."),
+    (7, None, "'Our guests appreciate high taste.' 'Appreciate' stems from 'price'. 'Taste' is Russian for flavour and for good taste."),
+    (8, None, "'I will show myself how one must work!' 'Myself' is the woman's form. 'How it should be done' is 'how needed to work'."),
+    (9, None, "'Great, I will go calmly rest.' 'I will go' and 'I will rest' stand side by side, joined by nothing. 'Calmly' comes from 'calm'."),
+    (10, None, "'Are you abandoning your kitchen to me?' 'Abandon' is literally 'throw'. 'Onto me' uses the word 'na'."),
+    (11, None, "'I am sure that you will manage excellently.' 'Sure' is the man's short form. 'Manage' is the word from the bet."),
+    (12, None, "'Return soon, otherwise I will take the restaurant!' 'Return' ends in 'sya'. 'Otherwise' is a handy short word."),
+    (13, None, "'We will see who stays the winner here!' 'We will see' is the standard Russian phrase for saying 'time will tell'. 'Stay' is followed by 'with', so 'winner' ends in 'em'."),
 ]

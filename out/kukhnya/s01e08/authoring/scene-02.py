@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Live on the morning culinary broadcast 'A Tasty Morning', Chef Viktor Barinov demonstrates preparing a delicate young lamb dish. As the cameras roll, Barinov provokes rival head chef Elena Sokolova by claiming that male chefs inherently prepare meat better and asserting that women lack the stamina for professional restaurant leadership. Let's listen to their heated television exchange in Russian first."
-OPENER = "Now let's examine Barinov and Elena's on-air debate line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Elena bristles at Barinov's arrogant chauvinism, setting the stage for an explosive confrontation as the live broadcast continues into the commercial break. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "The show is on air. Barinov is cooking young lamb, and his rival, Elena Sokolova, who runs the Italian restaurant down the road, is sitting beside him. He chooses this moment to say what he thinks about women in kitchens. It's in Russian first."
+OPENER = "Let's go back through it. Barinov stirs things up, and Elena answers calmly and firmly."
+TRANSITION = 'Now put it all back together.'
+OUTRO = "Elena's lines are the useful ones here: 'I have experience and willpower', 'the kitchen is my whole life'. They're short, true statements that you can use about your own work. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сегодня я приготовлю мясо молодого ягнёнка.', 'Today I will prepare meat of a young lamb.', [(20, 'Я приготовлю сегодня жигой гненка')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Мы скоро проверим ваши смелые слова.', 'We will soon check your bold words.', [], ''),
 ]
 WALK = [
-    (0, None, "'Today I will prepare meat of a young lamb.' Barinov kicks off the television broadcast with a grand announcement of his culinary plans."),
-    (1, None, "'What an interesting and complex meat dish!' Elena jumps in with polite but slightly theatrical praise for his recipe choice."),
-    (2, None, "'Men prepare such a dish best of all.' Barinov smoothly pivots to a sexist remark, claiming this level of cooking is for men."),
-    (3, None, "'Why do you say such strange things?' Elena questions his sudden hostile turn in front of the live camera."),
-    (4, None, "'Women often cut meat completely incorrectly.' He doubles down on his prejudice, specifically attacking women's knife skills."),
-    (5, None, "'You simply do not respect female talent.' Elena calls out his blatant disrespect for female professionals."),
-    (6, None, "'A woman is not capable of becoming a great chef.' Barinov makes a sweeping statement that women cannot reach the top ranks of the kitchen."),
-    (7, None, "'I run the kitchen of the famous Arcobaleno restaurant!' Elena immediately fires back with her own prestigious head chef title as proof."),
-    (8, None, "'A real head chef requires strong willpower.' Barinov implies that she lacks the inner strength required to run a real kitchen."),
-    (9, None, "'I have experience and strong willpower.' Elena fiercely defends her competence and mental toughness."),
-    (10, None, "'For you the kitchen remains an ordinary job.' He dismissively suggests that for her, cooking is just a job, not a calling."),
-    (11, None, "'The kitchen is my whole life, Viktor!' Elena passionately corrects him, declaring that gastronomy is her entire existence."),
-    (12, None, "'We will soon check your bold words.' Barinov issues a quiet challenge, setting the stage for their upcoming kitchen battle."),
+    (0, None, "'Today I will prepare meat of a young lamb.' 'Of a young lamb' puts the same 'ogo' ending on both words. 'I will prepare' is a one-word future."),
+    (1, None, "'What an interesting and complex meat dish!' 'What a' is 'which'. 'Meat dish' is 'meaty dish', since 'meat' turns into a describing word."),
+    (2, None, "'Men prepare such a dish best of all.' 'Best of all' is literally 'better than everything'. 'men' comes last, which gives the sentence its sting."),
+    (3, None, "'Why do you say such strange things?' Elena uses the polite 'you', as she does on air. 'Things' is the plural of 'a thing'."),
+    (4, None, "'Women often cut meat completely incorrectly.' The word for 'cut' is the 'they' form. 'incorrectly' is formed from 'not' plus 'correctly'."),
+    (5, None, "'You simply do not respect female talent.' The term for 'respect' is related to the 'respected' that you hear in speeches. 'Female' stems from the Russian for 'woman'."),
+    (6, None, "'A woman is not capable of becoming a great chef.' 'capable' ends in 'a' because it is about a woman. 'Become' goes with the 'with' form of what you become, so 'great chef' ends in 'em'."),
+    (7, None, "'I run the kitchen of the famous Arcobaleno restaurant!' 'I run' is literally 'hand' plus 'lead'. It is followed by the 'with' form, so 'kitchen' takes an 'ey' ending."),
+    (8, None, "'A real head chef requires strong willpower.' 'Requires' is followed by the 'of' form: 'strong will' becomes 'of strong will'. 'Will' is the same word as 'freedom'."),
+    (9, None, "'I have experience and strong willpower.' 'At me there is' is the Russian way to put 'I have'. 'will' is also the term for 'freedom'."),
+    (10, None, "'For you the kitchen remains an ordinary job.' The Russian for 'remains' ends in 'sya'. 'An ordinary job' takes the 'with' form, which is what 'remain' asks for."),
+    (11, None, "'The kitchen is my whole life, Viktor!' The word 'eto' in the middle means 'that is', and Russians use it after a dash. 'Whole' is the she-form to agree with 'life'."),
+    (12, None, "'We will soon check your bold words.' 'We will check' ends in 'im'. 'Bold' is derived from 'courage'."),
 ]

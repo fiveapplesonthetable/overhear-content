@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the quiet vegetable storeroom of Claude Monet, Max and Sasha scramble to hide Dmitry Nagiyev's unconscious dog among sacks of potatoes. Desperate to conceal the animal until nightfall, they use fragrant cilantro before art director Victoria walks in unexpectedly. Let's listen to their nervous conversation in Russian."
-OPENER = "Let's explore how Max and Sasha attempt to conceal their secret in the restaurant storeroom."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to talk about hiding items, giving excuses, and handling unexpected workplace interruptions in Russian. Listen for these practical expressions in the upcoming scenes. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'evening' — you will catch every word right away. See you next time!"
+INTRO = "Max and Sasha have carried the dog into the vegetable storeroom and are trying to hide it behind the potatoes. They are not alone for long. It's in Russian first."
+OPENER = "Let's go through the hiding. The first lines are whispered orders, and the last ones are Vika's."
+TRANSITION = 'And the full thing, once more.'
+OUTRO = "'This isn't a motel for you' is a nice last sentence, because it's a joke and a telling-off at once. You also heard how to say 'let her lie here'. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот, положи её сюда.', 'Here, put her here.', [(139, 'сюда давай')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('vika', 'Быстро уходите, это вам не мотель.', 'Leave quickly, this is no motel for you.', [(162, 'заканчивайте здесь фритюриться, это вам не мотель')], ''),
 ]
 WALK = [
-    (0, None, "'Let her lie here until evening.' Sasha suggests leaving the dog hidden among the vegetables until the shift ends."),
-    (1, None, "'It will easily cover any odor.' He notes that the strong smell of herbs will mask any unwanted dog odors."),
-    (2, None, "'Tablecloths in the vegetable storeroom?' Vika enters the storeroom and immediately spots the highly suspicious setup."),
-    (3, None, "'Leave quickly, this is no motel for you.' She kicks them out, reminding them this is a professional kitchen, not a hideout."),
+    (0, None, "'Here, put her here.' The first 'here' works like 'there you go'. 'Put' is a command, and 'her' is the she-form for the dog."),
+    (1, None, "'Let her lie here until evening.' The term for 'let' ('pust') is how Russians say 'let him' or 'let her'. The term for 'lie' has a prefix that makes it temporary, so it means 'lie for a while'."),
+    (2, None, "'We will carry her out at night.' The term for 'carry out' begins with 'vy', which means 'out'. 'At night' is a single word that ends in 'yu'."),
+    (3, None, "'Take the fresh cilantro.' 'Take' is a short command. Cilantro is also called coriander, and the Russian word is 'kinza'."),
+    (4, None, "'It will easily cover any odor.' 'Cover' is pieced together from a prefix meaning 'over' and 'beat', so it is literally 'beat over'."),
+    (5, None, "'Help me lift this sack.' The expression for 'help' takes 'me' in the 'to' form, because Russians help 'to someone'. 'Lift' is a bare word, with no 'to' in front."),
+    (6, None, "'Put the dog deeper behind the potatoes.' 'Deeper' comes from 'deep'. 'Behind the potatoes' is a movement phrase, so it keeps the plain form."),
+    (7, None, "'And what are you doing here?' Literally Vika asks 'with what are you busy here', and the Russian for 'busy' is the one Russians use for any activity. She says it to catch them out."),
+    (8, None, "'I am just looking for clean tablecloths.' 'Tablecloth' has a plural that ends in 'i'. 'Clean' agrees with it."),
+    (9, None, "'Tablecloths in the vegetable storeroom?' Vika repeats the odd part of the sentence, and the voice makes it a question. 'Vegetable' is based on 'vegetables'."),
+    (10, None, "'Max, why aren't you in the kitchen?' The Russian word for 'not' goes before 'in the kitchen', so the whole place is denied. This is a common way to ask someone why they're missing."),
+    (11, None, "'I have a legitimate day off today.' 'Legitimate' comes from 'law'."),
+    (12, None, "'Leave quickly, this is no motel for you.' 'Leave' is a plural command. The phrase 'this isn't a ... for you' is a scolding idiom."),
 ]

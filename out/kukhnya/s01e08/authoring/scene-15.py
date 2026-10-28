@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "While standing in Claude Monet, waitress Sasha receives a sudden telephone call from restaurant owner Dmitry Nagiyev. Nervously pretending that his small dog Tyson is healthy and playing happily, Sasha asks for the exact breed before realizing they must urgently buy a lookalike. Let's listen to their phone call and aftermath in Russian."
-OPENER = "Let's follow how Sasha manages a stressful telephone inquiry from the restaurant owner."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Nagiyev has rung the restaurant to ask about his dog. Sasha, who picks up, has to pretend that the dog is well, though it is lying in a storeroom. It's in Russian first."
+OPENER = "Let's go back through the call. Sasha is polite on the phone and horrified when it ends."
+TRANSITION = 'Now the whole thing flows.'
+OUTRO = "Look at how many polite phrases Sasha uses on a call: hello, thank you, goodbye. They're perfect for your own phone calls. See you next time."
 CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('sasha', 'Да, здравствуйте, Дмитрий Владимирович!', 'Yes, hello, Dmitry Vladimirovich!', [(185, 'Да, Дмитрий Владимирович')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('max', 'Но где мы найдём такую собаку?', 'But where will we find such a dog?', [(202, 'Куда?')], ''),
 ]
 WALK = [
-    (0, None, "'He runs around and plays very merrily.' Sasha desperately paints a picture of a healthy dog to avoid alarming the owner."),
-    (1, None, "'I simply fell in love with this dog.' She pours on the charm, hoping her supposed affection will buy them some time."),
-    (2, None, "'He and I get along wonderfully.' The waitress keeps up the lie about her deep bond with a pet she just met."),
-    (3, None, "'We need to go buy a dog urgently!' Once off the phone, she drops the sweet act and panics over their missing animal problem."),
+    (0, None, "'Yes, hello, Dmitry Vladimirovich!' 'Yes' is how Russians answer a call. The first and father's name are the polite way to address a boss."),
+    (1, None, "'Tyson feels great.' 'Feels himself' is the Russian for 'feels'; it uses 'oneself'. 'Great' comes from 'wonderful'."),
+    (2, None, "'He runs around and plays very merrily.' 'Runs around' is Russian for running in different directions. 'Merrily' comes from 'cheerful'."),
+    (3, None, "'Why are you lying so boldly?' 'Lie' here is a casual word for 'fib'. 'Boldly' is the how-word for 'brazen'."),
+    (4, None, "'Could you tell me, please, what breed he is?' 'Tell me' is a polite way to ask for information. 'At him' stands for 'he has'."),
+    (5, None, "'I simply fell in love with this dog.' 'Fell in love' ends in 'las' for a woman. It takes 'in' plus the dog."),
+    (6, None, "'What is this breed called, Shih Tzu?' 'Is called' ends in 'sya'. It's a very useful question: 'what is it called?'"),
+    (7, None, "'You do not need to rush back at all.' 'At all not' makes a strong negative. 'Rush' is a bare word."),
+    (8, None, "'He and I get along wonderfully.' 'We with him' is the Russian for 'he and I'. 'Get along' means 'be on good terms'."),
+    (9, None, "'Thank you very much, goodbye!' The polite 'to you' follows 'thanks'. 'Goodbye' is literally 'until meeting'."),
+    (10, None, "'And what are we to do now?' 'To us to do' has no 'should'. 'Now' is 'at this point'."),
+    (11, None, "'We need to go buy a dog urgently!' 'Go' and 'buy' are two bare words side by side. 'Urgently' comes from 'urgent'."),
+    (12, None, "'But where will we find such a dog?' 'Will find' is a one-word future. 'Such' agrees with 'dog' in its object form."),
 ]

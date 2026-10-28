@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the restaurant back room, Max is washing his jeans on his day off when Vika walks in with Nagiyev's dog Tyson. When Tyson grabs Max's hot dog near a faulty socket and collapses, the two panic and rush the dog to the vet. Listen to their conversation in Russian first."
-OPENER = "Let's examine this hilarious emergency line by line."
-TRANSITION = "Now let's listen to the whole panic once again."
-OUTRO = "That concludes our eighth scene. In Kukhnya, watching a celebrity owner's pet can quickly become a life-or-death comedic disaster. See you next time!"
+INTRO = "Meanwhile, in the back of the restaurant, Max is having a day off, and Vika is looking after Nagiyev's dog, Tyson. A hot dog and a broken socket are about to ruin everyone's afternoon. It's in Russian first."
+OPENER = "Let's go back through the accident. It happens quickly, so the sentences are short."
+TRANSITION = 'By now it should sound clearer.'
+OUTRO = "You've heard how to say 'careful', 'drop it' and 'run to the vet' in a hurry. You've also heard that Russian calls a male dog a she-word. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('vika', 'Макс, почему ты ходишь без формы?', 'Max, why are you walking without a uniform?', [(98, 'Что за внешний вид? Где форма')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Быстрее бежим к ветеринару спасать пса!', "Quick, let's run to the vet to save the dog!", [(115, 'О, Господи')], ''),
 ]
 WALK = [
-    (0, None, "'Max, why are you walking without a uniform?' Vika confronts Max for wandering in casual clothes."),
-    (1, None, "'Today is my legitimate day off!' Defending his right to relax away from the cooking line."),
-    (2, None, "'My only jeans are in the wash right now.' Explaining why he is not properly dressed."),
-    (3, None, "'This is a restaurant, not a home laundromat.' Reminding him of basic workplace standards."),
-    (4, None, "'And whose little angry dog is this?' Max eyes the growling dog suspiciously."),
-    (5, None, "'This is Tyson, Nagiyev's favorite dog.' Revealing the celebrity pedigree of the VIP pet."),
-    (6, None, "'Careful, the dog grabbed my hot dog!' Shouting as the terrier steals his lunch."),
-    (7, None, "'Tyson, drop it, drop the sausage immediately!' Vika commands the dog to drop the stolen food."),
-    (8, None, "'Oh, it seems the dog was hit by electric current!' Max notices the sparks from the faulty wall socket."),
-    (9, None, "'My God, he is lying and not breathing!' Panicking as the little dog collapses motionless on the floor."),
-    (10, None, "'I told you, this socket is broken!' Reminding Vika of his earlier safety warning."),
-    (11, None, "'What will I say to Dmitry Vladimirovich now?' Imagining the owner's terrifying wrath."),
-    (12, None, "'Calm down, let's put the dog in a bag.' Max scrambles for a way to transport the unconscious pet."),
-    (13, None, "'Quick, let's run to the vet to save the dog!' Rushing out the door to find emergency medical help."),
+    (0, None, "'Max, why are you walking around without a uniform?' 'Walk' here is the term for repeated walking, rather than one trip. 'Without' is followed by the 'of' form."),
+    (1, None, "'Today is my legitimate day off!' 'Legitimate' comes from 'law'. 'Day off' is literally 'going out day'."),
+    (2, None, "'My only jeans are in the wash right now.' 'Jeans' is plural in Russian, as in English. 'Are being washed' ends in 'sya'."),
+    (3, None, "'This is a restaurant, not a home laundromat.' The 'a' before 'not' means 'and rather'. 'Laundry' is derived from the word for washing clothes."),
+    (4, None, "'And whose little angry dog is this?' 'Whose' agrees with 'dog', so it's the she-form. 'Little' and 'angry' also end in 'aya'."),
+    (5, None, "'This is Tyson, Nagiyev's favorite dog.' 'Nagiyev's' is the name with an 'a' ending, which is the Russian way to put 'of'. 'Favourite' comes from 'love'."),
+    (6, None, "'Careful, the dog grabbed my hot dog!' 'Grabbed' ends in 'a', because 'dog' is grammatically a she-word. 'Hot dog' is spelled with a hyphen."),
+    (7, None, "'Tyson, drop it, drop the sausage immediately!' The opening word is what you tell a dog, like 'yuck'. 'Drop' is literally 'throw'."),
+    (8, None, "'Oh, it seems the dog was hit by an electric shock!' Russian says 'it hit the dog by current', with nobody named. 'By current' ends in 'om'."),
+    (9, None, "'My God, he is lying there and not breathing!' Vika says 'he', because Tyson is a male dog, although the word for dog is a she-word. 'Lying' is the same word as 'lies'."),
+    (10, None, "'I told you, this socket is broken!' 'Said' is the repeated kind, as Max has said it more than once. 'Broken' ends in 'a' to agree with 'socket'."),
+    (11, None, "'What will I say to Dmitry Vladimirovich now?' The full name uses the father's name, 'son of Vladimir'. Both parts take the 'u' ending after 'to'."),
+    (12, None, "'Calm down, let's put the dog in a bag.' 'Calmly' is used as an order. 'We will put' sounds like 'let's'."),
+    (13, None, "'Quick, let's run to the vet to save the dog!' 'Let's run' is the 'we' form. For a male dog, the 'dog' word changes to 'pyos', the he-word."),
 ]

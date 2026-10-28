@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Watching Chef Barinov pour himself a victory drink in his office, Max reflects on how human beings dread making mistakes yet commit them continuously. When Max challenges the head chef's inflated pride, Barinov insists that the kitchen's chaos was part of his grand master plan all along. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Max and Barinov's philosophical exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max's reflections on human errors reveal that even master chefs are blinded by the illusion of control. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to happen' — you will catch every word right away. See you next time!"
+INTRO = "The bet is over, and in his office Barinov is pouring himself a victory drink. Max comes in with a thought about people and mistakes, and the chef takes it personally. It's in Russian first, and it's a calm, wordy scene."
+OPENER = "Let's go back through the talk. Max is thoughtful, and Barinov hears every thought as a criticism."
+TRANSITION = 'Same lines, no pauses this time.'
+OUTRO = "'Sometimes our victories turn out too strange' is a surprisingly wise line for a comedy. You've also learned how Russians say 'make a mistake', which is not quite what English says. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, люди очень не любят делать ошибки.', 'Chef, people really do not like making mistakes.', [(357, 'Люди не любят делать ошибки')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Иди работай и не умничай здесь!', 'Go work and do not be a smart-aleck here!', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, people really do not like making mistakes.' As Max begins his philosophical contemplation about human imperfection."),
-    (1, None, "'Yet nevertheless constantly make them.' The rookie notes the inescapable nature of daily blunders."),
-    (2, None, "'Max, smart cooks do not make mistakes at all.' Barinov pompously claims absolute immunity to errors."),
-    (3, None, "'You think that you control absolutely everything?' Max gently challenges the chef's inflated sense of mastery."),
-    (4, None, "'Of course, in my kitchen there is always ideal order!' Viktor proudly insists that his authority remains supreme."),
-    (5, None, "'Some fool themselves into thinking they can control everything.' Max reflects on the classic illusion of total domination."),
-    (6, None, "'I won the bet and proved I was right.' The head chef clings stubbornly to his victory over Elena."),
-    (7, None, "'But the cooks caused a real nightmare today.' Max points to the chaotic kitchen sabotage earlier that evening."),
-    (8, None, "'They accurately carried out my secret plan!' Barinov spins the kitchen breakdown as deliberate tactical genius."),
-    (9, None, "'Sometimes our victories turn out too strange.' The young cook remains skeptical of the Pyrrhic triumph."),
-    (10, None, "'The main thing is that victory remained with me!' Viktor dismisses any doubt and relishes his winning position."),
-    (11, None, "'Overconfidence often leads to unexpected problems.' Max warns about the perils of excessive professional pride."),
-    (12, None, "'Go work and do not be a smart-aleck here!' Barinov brusquely shooes the rookie back to his cooking station."),
+    (0, None, "'Chef, people really do not like making mistakes.' Russian says 'do mistakes', not 'make' them. 'Do not like' keeps the 'not' directly before 'like'."),
+    (1, None, "'Yet nevertheless they constantly commit them.' 'Nevertheless' is literally 'by that not less', a fixed phrase. 'Commit' is followed by 'them', and nobody is named."),
+    (2, None, "'Max, smart cooks do not make mistakes at all.' 'Make a mistake' is built on 'mistake' plus the tail 'sya', which literally gives 'to mistake oneself'. 'At all' sits before the 'not'."),
+    (3, None, "'You think you control absolutely everything?' 'Control' is borrowed and has an ending for 'you'. 'Absolutely everything' is the pair 'absolutely' and 'all'."),
+    (4, None, "'Of course, in my kitchen there is always perfect order!' 'In my kitchen' uses 'na', as workplaces do. 'Perfect order' has no word for 'there is'."),
+    (5, None, "'Some fool themselves into thinking they can control everything.' 'Some' is the plural of 'one'. 'are mistaken' ends in 'sya' and rests on 'wander'."),
+    (6, None, "'I won the bet and proved I was right.' 'Right' turns into a she-word that means 'rightness', as in 'my being right'. 'My own' points back at Barinov."),
+    (7, None, "'But the cooks caused a real nightmare today.' 'Caused' is literally 'arranged', as if they had staged it. 'Real' is the same word as 'true'."),
+    (8, None, "'They carried out my secret plan exactly!' 'Carried out' is the finished kind of 'do', which means the job is done. 'Exactly' is Barinov's cover story."),
+    (9, None, "'Sometimes our victories turn out too strange.' The word for 'turn out to be' literally means 'happen to be', and it takes a 'with' form, so 'strange' ends in 'ymi'. 'Too' sits in front of it."),
+    (10, None, "'The main thing is that victory stayed with me!' 'Remained with me' is literally 'remained behind me'. It means the win is in his hands."),
+    (11, None, "'Overconfidence often leads to unexpected problems.' 'Overconfidence' is literally 'self' plus 'confidence'. 'Leads to' is followed by the 'to' form."),
+    (12, None, "'Go work and don't act like a smart-aleck here!' 'Smart-aleck' stems from the word for 'smart', with an ending that means 'play at being'. 'Go work' is two commands side by side."),
 ]

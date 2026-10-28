@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Pushed to her limit by Barinov's blatant condescension on live air, Elena Sokolova seizes the moment to turn the tables. She proposes a public wager before millions of viewers: she will work a full dinner shift in Barinov's kitchen at Claude Monet, and if she succeeds without quitting, he must take her out to dinner. Let's listen to their wager in Russian first."
-OPENER = "Now let's examine Elena and Barinov's public wager line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Cornered on live television, Chef Barinov accepts the wager, setting up an unforgettable showdown in the Claude Monet kitchen on tomorrow's dinner shift. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has insulted Elena once too often. She turns it into a challenge: she will work a full shift in his kitchen, and if she lasts, he'll pay for dinner. It's in Russian first."
+OPENER = "Let's go back through the challenge. Elena sounds calm, and Barinov sounds sure of himself."
+TRANSITION = 'Listen again, and notice what you recognise.'
+OUTRO = "A bet in Russian is a short thing: 'let's bet', 'agreed', and a witness. You've heard all three. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Виктор, вы ведёте себя очень грубо!', 'Viktor, you are behaving very rudely!', [(32, 'Вы какой-то женоненавистник')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Все зрители будут свидетелями нашего спора.', 'All viewers will be witnesses of our bet.', [(40, 'Дорогие друзья, какой неожиданный поворот событий')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor, you are behaving very rudely!' Elena confronts him over his deeply insulting on-air remarks."),
-    (1, None, "'I treat all women wonderfully.' Barinov smugly defends himself, claiming he is actually a gentleman."),
-    (2, None, "'Then why do you insult me like that?' Elena points out the glaring contradiction in his hostile behavior."),
-    (3, None, "'You will not be able to work a whole day.' He taunts her endurance, betting she could not last a single shift."),
-    (4, None, "'Then let us bet right now!' Elena instantly takes the bait and proposes a formal wager."),
-    (5, None, "'What do you want to bet about with me?' Barinov acts amused, asking what exactly she has in mind."),
-    (6, None, "'I will work a full shift in the kitchen.' She lays down the terms: she will take over his kitchen for a full day."),
-    (7, None, "'My cooks will quickly break your pride.' He warns her that his rowdy line cooks will destroy her confidence."),
-    (8, None, "'If I cope, you will pay for dinner!' Elena states her prize: a free dinner if she survives the shift."),
-    (9, None, "'And if you run away after an hour?' Barinov mocks her, imagining she will flee in tears almost immediately."),
-    (10, None, "'Then you will win our main bet.' Elena confidently concedes that if she quits, he wins their wager."),
-    (11, None, "'Agreed, tomorrow I expect you in the kitchen!' Barinov accepts the challenge, locking in their televised bet."),
-    (12, None, "'All viewers will be witnesses of our bet.' Elena reminds him that the entire viewing audience will hold them to this promise."),
+    (0, None, "'Viktor, you are behaving very rudely!' 'Behave' is literally 'lead yourself', so 'you lead yourself rudely'. 'Rudely' is made from 'rough'."),
+    (1, None, "'I treat all women wonderfully.' 'Treat' comes from 'relate', and it's followed by 'to'. 'To all women' has the 'm' endings."),
+    (2, None, "'Then why do you insult me like that?' 'Insult' comes from 'an offence'. 'Like that' is two small words."),
+    (3, None, "'You will not be able to work a whole day.' 'Will not be able' is made of 'not' and one word. 'A whole day' needs no word for 'for'."),
+    (4, None, "'Then let us bet right now!' 'Let us' is a polite plural, and it begins the invitation. 'Bet' starts with a prefix that makes it a one-off."),
+    (5, None, "'What do you want to bet about with me?' 'About what' is a pair of words that changes 'what' to 'chyom'. 'With me' becomes 'so mnoy'."),
+    (6, None, "'I will work a full shift in the kitchen.' 'Work off' means to work through a period fully. 'Shift' is one of the she-words, so 'full' ends in 'uyu'."),
+    (7, None, "'My cooks will quickly break your pride.' 'Break' is the 'they' form. 'Pride' comes from 'proud'."),
+    (8, None, "'If I cope, you will pay for dinner!' 'Cope' is the word from before, in the 'I' form."),
+    (9, None, "'And if you run away after an hour?' 'Run away' is a one-off. 'After an hour' uses the word 'through', which here means 'after'."),
+    (10, None, "'Then you will win our main bet.' 'Win' is a one-word future. 'Bet' is again 'dispute'."),
+    (11, None, "'Agreed, tomorrow I expect you in the kitchen!' 'Agreed' ends in 'lis', as people agree with each other."),
+    (12, None, "'All the viewers will be witnesses of our bet.' 'Will be' goes into the 'with' form, so 'witnesses' ends in 'ami'. 'Witness' is rooted in 'see'."),
 ]
