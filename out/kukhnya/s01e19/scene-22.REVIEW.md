@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Знаешь, что главное? | Do you know what is the main thing? | #383: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
+| 1 | Макс | Знаешь, что главное? | Do you know what is the main thing? | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
 | 2 | Вика | Что? | What? | new | new |
-| 3 | Макс | Главное — ценить. | The main thing is to cherish. | #383: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
+| 3 | Макс | Главное — ценить. | The main thing is to cherish. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
 | 4 | Вика | Ценить что? | Cherish what? | new | new |
-| 5 | Макс | То, что у нас есть. | What we have. | #383: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
+| 5 | Макс | То, что у нас есть. | What we have. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
 | 6 | Вика | Где? | Where? | new | new |
-| 7 | Макс | Здесь. | Here. | #383: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
+| 7 | Макс | Здесь. | Here. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
 | 8 | Вика | И когда? | And when? | new | new |
-| 9 | Макс | И сейчас. | And now. | #383: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
+| 9 | Макс | И сейчас. | And now. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | verbatim |
 | 10 | Вика | Здесь и сейчас. | Here and now. | new | new |
 | 11 | Макс | Точно. | Exactly. | new | new |
 | 12 | Вика | Хорошо. | Good. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know what is the main thing?' Max poses a rhetorical question to get her attention.
-- 'What?' Vika plays along and asks for the answer.
-- 'The main thing is to cherish.' Max states his main realization about appreciation.
-- 'Cherish what?' Vika wants him to be more specific.
-- 'What we have.' Max emphasizes valuing their current possessions and relationship.
-- 'Where?' Vika asks for clarification on the setting.
-- 'Here.' Max firmly grounds his thought in the present location.
-- 'And when?' Vika extends his thought to the concept of time.
-- 'And now.' Max completes her thought by emphasizing the present moment.
-- 'Here and now.' Vika summarizes their shared conclusion.
-- 'Exactly.' Max confirms she understood perfectly.
-- 'Good.' Vika is satisfied with this realization.
+- 'Do you know what the main thing is?' 'You know' ends in 'sh', for the casual 'you'. 'The main thing' is one word.
+- 'What?' A bare 'chto', said 'shto'. It's all Vika needs to say.
+- 'The main thing is to appreciate.' The dash takes the place of 'is'. 'Appreciate' is built from 'price'.
+- 'Appreciate what?' The question word follows the verb. It echoes Max's own sentence.
+- 'What we have.' 'That which at us is' is the literal order. 'At us' stands for 'we have'.
+- 'Where?' One word. Russian 'gde' asks about a place.
+- 'Here.' One word again. It is the answer to 'where'.
+- 'And when?' 'When' is 'kogda'. The 'and' in front links it to the last question.
+- 'And now.' 'Now' is a word you'll hear every day. It is the other half of the pair.
+- 'Here and now.' Vika puts the two answers together in a set phrase. It sounds good in Russian, too.
+- 'Exactly.' One word, 'tochno', which comes from 'exact'. It's a quick, warm agreement.
+- 'Good.' 'Khorosho' is 'good' used as 'okay'. It ends the whole episode quietly.

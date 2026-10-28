@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Returning to the bar after clearing glasses near Victoria's table, Kostya reports his findings to Max. Learning that Victoria is about to depart with the wealthy stranger, Max becomes increasingly agitated. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = 'Kostya has been sent to listen in on Vika and the stranger, and he comes back to the bar with a report. What he heard makes Max more nervous, not less. First, the Russian.'
+OPENER = "Now let's replay it step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Ignoring Kostya's sensible advice, Max slips away from the bar and heads toward the parking lot, determined to confront Victoria before she can leave. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'to say' — you will catch every word right away. See you next time!"
-CLOSING = ('kostya', 'Пока!')
+OUTRO = "Max is on the edge, and Kostya is trying to calm him down. 'Vot ono kak' is a lovely set phrase, meaning 'so that's how it is'. See you next time!"
+CLOSING = ('kostya', 'До свидания!')
 STORY = [
     ('kostya', 'Макс, я всё услышал.', 'Max, I heard everything.', [], ''),
     ('max', 'Что она ему сказала, Костя?', 'What did she tell him, Kostya?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Макс, не делай никаких глупостей сегодня.', 'Max, do not do any foolish things today.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, I heard everything.' Kostya returns from his spying mission to report back with the details."),
-    (1, None, "'What did she tell him, Kostya?' Max anxiously presses for every detail of the exchange."),
-    (2, None, "'She says thank you for the beautiful flowers.' Kostya relays that she was simply expressing gratitude for the massive bouquet."),
-    (3, None, "'Is that so, and what about him?' Max is instantly suspicious of her polite response and demands to know the man's next move."),
-    (4, None, "'He speaks about an important business meeting.' Kostya explains that the stranger brought up professional matters."),
-    (5, None, "'What meeting is he talking about?' Max is immediately on edge, trying to figure out what business they could possibly share."),
-    (6, None, "'He said they need to leave soon.' Kostya drops the bomb that the two are preparing to depart together."),
-    (7, None, "'So she has a business meeting now.' Max nervously tries to rationalize the situation, clinging to the excuse she gave him earlier."),
-    (8, None, "'Vika said that she is already free.' Kostya reveals the painful truth that she told the stranger her schedule is clear."),
-    (9, None, "'Is she really going to go with him?' Max is devastated and struggling to process that she is actually leaving with another man."),
-    (10, None, "'Yes, she is already ready to leave.' Kostya confirms the worst, stating that they are wrapping up and heading out."),
-    (11, None, "'I will not allow them to leave together.' Max angrily decides to intervene, unwilling to let his love interest slip away."),
-    (12, None, "'Max, do not do any foolish things today.' Kostya tries to stop his impulsive friend from making a huge mistake in front of a VIP guest."),
+    (0, None, "'Max, I heard everything.' 'Heard' is the finished kind, meaning he managed to hear. 'Everything' is a single small word."),
+    (1, None, "'What did she say to him?' 'To him' is 'emu'. 'Said' ends in 'a', for a woman."),
+    (2, None, "'She says thank you for the beautiful flowers.' Kostya quotes the word 'thanks' as it is. 'Beautiful flowers' is plural."),
+    (3, None, "'Is that so? And what about him?' The first part is a set phrase, literally 'that's how it is'. 'And he what' is a quick way to ask."),
+    (4, None, "'He's talking about an important business meeting.' 'About' makes all three words take the same 'oy' ending. A feminine noun and its two descriptions line up."),
+    (5, None, "'What meeting is he talking about?' 'About which' takes the same 'oy' ending. 'Meeting' follows."),
+    (6, None, "'He said they'd have to leave soon.' 'Soon necessary to go' is the word order. 'Go' is the word for going by vehicle."),
+    (7, None, "'So she has a business meeting now.' 'So' is 'it means'. 'At her' picks up an 'n', so it becomes 'u neyo'."),
+    (8, None, "'Vika said she's already free.' 'Free' ends in 'a' for a woman. 'Already' is a handy small word."),
+    (9, None, "'Is she really going to go with him?' 'Is planning' ends in 'sya'. 'With him' picks up an 'n'."),
+    (10, None, "'Yes, she's already ready to go.' 'Ready' ends in 'a', for a woman. 'Go' is the plain form."),
+    (11, None, "'I won't let them go off together.' 'I won't allow' is a finished action. 'Together, the two of them' is a single word."),
+    (12, None, "'Max, don't do anything silly today.' 'Don't do' uses the ongoing form for a negative command. 'Any' brings the plural 'of' form for 'silly things'."),
 ]

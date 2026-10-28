@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "The restaurant's birthday party is not going well. Strict security at the door turned away a famous socialite, and now Dima, the owner, is furious with Chef Barinov. Max wanders in at the wrong time."
-OPENER = "Now let's go back through the exchange around Selling the Restaurant line by line and unpack how the Russian works."
+INTRO = "The restaurant's birthday party is going badly. A famous guest has been turned away at the door, and the owner storms in to ask the chef what is going on. Max wanders in at exactly the wrong moment. We'll hear it in Russian first."
+OPENER = "Let's go through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The secret is out. Dima wanted to sell Claude Monet! Let's see what happens next. Next time you watch the episode, listen for the Russian expressions for 'to happen' and 'why' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'До встречи!')
+OUTRO = "Barinov has a worse problem than a mood. 'Yest'' means 'there is', but a cook says it to a chef as 'aye, aye', which is a neat double life for one word. See you next time!"
+CLOSING = ('max', 'До свидания!')
 STORY = [
     ('nagiyev', 'Витя, что происходит?', 'Vitya, what is going on?', [(341, 'Вить, что происходит')], ''),
     ('nagiyev', 'Почему к нам не пускают посетителей?', "Why aren't customers being let in?", [(341, 'Почему в мой ресторан не пускают посетителей')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я иду на кухню.', 'I am going to the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, what is going on?' Dima demands an explanation. Vitya is short for Viktor."),
-    (1, None, "'Why aren't customers being let in?' Dima is worried about the empty dining room. The word 'are' is missing in Russian."),
-    (2, None, "'We didn't let Sobchak and her mom in.' Barinov admits they turned away Sobchak and her mother at the door."),
-    (3, None, "'We have a private party.' The Chef defends the decision. Literally, 'By us is a closed party'."),
-    (4, None, "'She will raise a stink on the internet.' Nagiyev worries she will complain about it on the internet."),
-    (5, None, "'The restaurant's value could drop a lot.' Dima's real worry is the money. We skip 'the' in Russian."),
-    (6, None, "'So you really are selling it?' The Chef finally catches on. The word 'it' refers to the restaurant."),
-    (7, None, "'I tried, Vitya.' Nagiyev admits he tried to sell the place."),
-    (8, None, "'Who wants an empty restaurant?' Literally, 'To whom is needed an empty restaurant?'. The word for 'is' is skipped."),
-    (9, None, "'This was your idea.' Barinov deflects the blame back onto the owner."),
-    (10, None, "'Chef, can I go home?' Max interrupts at a bad moment. The word 'can' translates to 'is it possible'."),
-    (11, None, "'Will tomorrow's prep do itself?' Barinov sarcastically asks if the prep work will magically do itself."),
-    (12, None, "'Yes, Chef.' In the kitchen, this word is the military 'Yes, sir'. It is a sign of obedience."),
-    (13, None, "'I am going to the kitchen.' Max quickly retreats back to the kitchen."),
+    (0, None, "'What's going on?' 'Happens' is a long one, but 'chto' starts it as in English. There's no 'is'."),
+    (1, None, "'Why aren't customers being let in?' 'They let in' has no 'they', only an ending. 'Visitors' takes the 'of' plural after 'not'."),
+    (2, None, "'We didn't let the famous guest and her mom in.' 'Didn't let in' has a 'li' ending. 'With her mother' needs 'oy' on 'mother'."),
+    (3, None, "'We have a private party.' 'Closed party' is how Russians say 'private'. 'At us' stands for 'we have'."),
+    (4, None, "'She'll kick up a stink on the internet.' The phrase 'raise a stench' is an idiom for making a fuss. 'On the internet' needs an 'e'."),
+    (5, None, "'The restaurant's price could drop a lot.' 'Of the restaurant' follows 'price'. 'Fall' is a finished action."),
+    (6, None, "'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' ends in 'sh', for the casual 'you'."),
+    (7, None, "'I tried.' 'Try' ends in 'sya', and the 'l' says it's a man. A short, tired line."),
+    (8, None, "'Who wants an empty restaurant?' 'To whom needed' is the Russian pattern. 'Empty' agrees with the masculine restaurant."),
+    (9, None, "'This was your idea.' 'Was' ends in 'a' because 'idea' is feminine. Barinov is not letting him off."),
+    (10, None, "'Chef, can I go home?' 'Possible' plus 'to go' plus 'home' makes the question. 'Home' as a direction is one word."),
+    (11, None, "'Will tomorrow's prep do itself?' 'Itself' appears twice, as 'by itself' and 'itself'. 'Prep' comes from 'prepare'."),
+    (12, None, "'Yes, Chef.' The word is 'there is', but cooks say it as 'aye, aye'. A soldier's reply to an order."),
+    (13, None, "'I'm going to the kitchen.' 'I go' is a single short word. 'To the kitchen' uses 'on' and a 'u' ending."),
 ]

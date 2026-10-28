@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "In the parking lot outside Claude Monet, Victoria heads toward an expensive luxury car. Catching Max lurking nearby, she questions his motives, defends her business meeting, and asks for a favor. Let's listen to their confrontation in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "Vika is heading for a very expensive car in the car park when she finds Max lurking behind a pillar. He claims he is just getting some air, and she doesn't believe a word of it. We'll hear it in Russian first."
+OPENER = "Let's go over it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Holding Victoria's car keys in the empty parking lot, Max watches her drive away with the wealthy investor, wondering what the future holds for Claude Monet and their fragile relationship. Next time you watch the episode, listen for the Russian expressions for 'here' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'Пока!')
+OUTRO = "Vika hands Max her car keys and drives off in someone else's car, leaving him to say goodbye. 'Schastlivogo puti' literally wishes a happy road, and it's what you say to anyone setting off. See you next time!"
+CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('vika', 'Макс, ты что здесь делаешь?', 'Max, what are you doing here?', [(219, 'Ты что здесь делаешь?')], ''),
     ('max', 'Я просто стою и дышу воздухом.', 'I am just standing and breathing air.', [(222, 'Вот стою, воздухом дышу.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Да, конечно, счастливого пути, Вика.', 'Yes, of course, safe travels, Vika.', [(232, 'Да, конечно, пока.')], ''),
 ]
 WALK = [
-    (0, None, "'Max, what are you doing here?' Vika asks what he is doing here in the parking lot."),
-    (1, None, "'I am just standing and breathing air.' Max casually claims he is just standing and breathing the fresh air."),
-    (2, None, "'Are you following me again?' Vika suspects he is following her again."),
-    (3, None, "'You have an important business meeting right now.' Max points out that she has an important business meeting right now."),
-    (4, None, "'Max, tell the truth, are you jealous?' Vika demands he tell her honestly if he is jealous of the other man."),
-    (5, None, "'I am not jealous of you at all, Vika.' Max insists he is not jealous of her at all."),
-    (6, None, "'This is a meeting regarding the sale of the restaurant.' Vika clarifies that the meeting is strictly about selling the restaurant."),
-    (7, None, "'I am calm, go to your meeting.' Max tells her to go to her meeting and asserts he is completely calm."),
-    (8, None, "'Please drive my car home.' Vika asks him for a favor to drive her car home."),
-    (9, None, "'And you will go in his car?' Max asks if she will be traveling in the stranger's car."),
-    (10, None, "'Yes, we will go together to negotiations.' Vika confirms they will travel together to the negotiations."),
-    (11, None, "'It is time for me to go, bye, Max.' Vika says her goodbyes as it is time for her to depart."),
-    (12, None, "'Yes, of course, safe travels, Vika.' Max wishes her a safe trip."),
+    (0, None, "'Max, what are you doing here?' 'Doing' ends in 'esh' for the casual 'you'. 'What' goes first, as it does in English."),
+    (1, None, "'I'm just standing and breathing the air.' Russians breathe 'with' the air, so 'air' takes an 'om' ending. 'Stand' and 'breathe' are two words with 'and' between."),
+    (2, None, "'Are you following me again?' 'Follow' needs the small word 'za', so it's 'follow behind me'. 'Behind me' is the irregular 'mnoy'."),
+    (3, None, "'But you have an important business meeting right now.' The small 'zhe' adds the sense of 'but you know'. 'At you' stands for 'you have'."),
+    (4, None, "'Max, tell me honestly, are you jealous?' 'Tell' is the casual command, and 'honestly' ends in 'o'. 'Be jealous' is a verb of its own in Russian."),
+    (5, None, "'I'm not jealous of you at all.' The Russian jealous verb takes 'you' as its object. 'Not at all' is two small words."),
+    (6, None, "'It's a meeting about the sale of the restaurant.' 'About' is a three-word phrase meaning 'on the occasion of'. 'Of the sale' and 'of the restaurant' both end in 'i' or 'a'."),
+    (7, None, "'I'm calm, go to your meeting.' 'Calm' is a short masculine form. 'Go' is the command for going by vehicle."),
+    (8, None, "'Please drive my car home.' The verb means to drive a vehicle away to somewhere. 'My car' takes a 'u' ending, as the thing driven."),
+    (9, None, "'And will you go in his car?' Russians go 'on' a car, not 'in' it. 'His' never changes its ending."),
+    (10, None, "'Yes, we'll go together to the negotiations.' 'Negotiations' only exists in the plural in Russian. 'We'll go' is a future form."),
+    (11, None, "'It's time for me to go; bye, Max.' 'To me time' is how Russian says 'it's time for me'. 'Bye' is the casual 'poka'."),
+    (12, None, "'Yes, of course, have a good trip, Vika.' The wish is 'of happy road', in the 'of' form. It's what Russians say to anyone starting a journey."),
 ]

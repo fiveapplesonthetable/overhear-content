@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Focused on together, Max says that the main thing is that they are together. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "Vika admits to worrying, and Max reassures her. They talk about what it means to be together, and about how some people only learn what something was worth after they have lost it. We'll hear it in Russian first."
+OPENER = "Let's take it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max says that the main thing is that they are together. Next time you watch the episode, listen for the Russian expressions for 'to worry' and 'why' — you will catch every word right away. See you next time!"
+OUTRO = "The scene ends with a neat little rule: they don't need to lose each other to appreciate each other. 'Ne nado' means 'no need', and Russians use it all the time. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Я переживаю.', 'I worry.', [(380, 'Не переживайте так.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Не надо.', 'No need.', [], ''),
 ]
 WALK = [
-    (0, None, "'I worry.' Vika expresses her anxiety about the current situation."),
-    (1, None, "'Do not worry so much.' Max attempts to calm her down with a direct command."),
-    (2, None, "'Why?' Vika seeks a reason for his confidence."),
-    (3, None, "'The main thing is that we are together.' Max shifts the focus to the strength of their relationship."),
-    (4, None, "'This is the main thing.' Vika acknowledges his point and agrees."),
-    (5, None, "'For some it is easier to lose everything.' Max brings up a philosophical thought about loss."),
-    (6, None, "'What for?' Vika is confused and asks for clarification."),
-    (7, None, "'In order to understand.' Max explains the purpose behind losing things."),
-    (8, None, "'To understand what?' Vika probes further into his reasoning."),
-    (9, None, "'How dear it was.' Max clarifies that loss reveals true value."),
-    (10, None, "'We do not need to lose.' Vika insists that they should avoid such loss entirely."),
-    (11, None, "'No need.' Max agrees with her conclusion."),
+    (0, None, "'I worry.' The word means both 'worry' and 'go through feelings'. It ends in 'yu' for 'I'."),
+    (1, None, "'Don't worry so much.' A negative command uses the ongoing form. 'So' sits in front of 'much'."),
+    (2, None, "'Why?' One word, 'pochemu'. Vika wants the reason."),
+    (3, None, "'The main thing is that we're together.' 'Main' comes from 'head'. 'That' joins the two halves."),
+    (4, None, "'That is the main thing.' 'This main' is the sentence, without 'is'. Vika repeats his idea."),
+    (5, None, "'For some people it's easier to lose everything.' 'Someone' is built with a tail on 'who', in the 'to' form. 'Easier' comes from 'simple'."),
+    (6, None, "'What for?' This is the word for purpose, not cause. It's one short word."),
+    (7, None, "'In order to understand.' 'In order to' is a single word, 'chtoby'. It is followed by the plain form."),
+    (8, None, "'To understand what?' The question word comes after the verb. It's a quick way to ask for the missing piece."),
+    (9, None, "'How precious it was.' 'How much' begins it, and 'dear' follows. The word 'was' is neuter, to go with 'this'."),
+    (10, None, "'We don't need to lose.' 'To us not necessary' is the pattern. The plain 'lose' follows."),
+    (11, None, "'No need.' Two words, 'not necessary'. Max keeps it short."),
 ]

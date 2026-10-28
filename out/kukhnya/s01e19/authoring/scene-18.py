@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Focused on the confession, Max tells Vika that he does not want an open relationship. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "The episode is coming to an end, and Max has stopped joking about his open relationship. He takes Vika aside and says what he really thinks. The sentences are short and simple. We'll hear it in Russian first."
+OPENER = "Let's go through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max tells Vika that he does not want an open relationship. Next time you watch the episode, listen for the Russian expressions for 'to think' and 'to want' — you will catch every word right away. See you next time!"
+OUTRO = "Vika starts to answer, and then the scene ends. Remember that Russians say 'ty mne nravishsya' for 'I like you', which literally puts the other person in charge. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика.', 'Vika.', [], ''),
@@ -27,19 +27,19 @@ STORY = [
     ('max', 'Ты мне нравишься.', 'I like you.', [], ''),
     ('vika', 'Ты мне тоже.', 'I like you too.', [], ''),
     ('max', 'Ты не против быть моей девушкой?', 'Would you be my girlfriend?', [(376, 'Ты не против быть моей девушкой?')], ''),
-    ('vika', 'Это...', 'Does...', [(377, 'Это')], ''),
+    ('vika', 'Это...', 'This is...', [(377, 'Это')], ''),
 ]
 WALK = [
-    (0, None, "'Vika.' — Built around the key proper name meaning 'Vika'."),
-    (1, None, "'What?' Vika asks what he wants."),
-    (2, None, "'I thought about us.' Max says he was thinking about the two of them."),
-    (3, None, "'And what?' Vika prompts him to continue."),
-    (4, None, "'I do not want an open relationship.' Max confesses he does not want an open relationship anymore."),
-    (5, None, "'Really?' Vika asks if he is telling the truth."),
-    (6, None, "'Yes.' Max firmly confirms his feelings."),
-    (7, None, "'I also do not want it.' Vika agrees that she does not want it either."),
-    (8, None, "'I like you.' Max admits that he really likes her."),
-    (9, None, "'I like you too.' Vika says she likes him too."),
-    (10, None, "'Would you be my girlfriend?' Max nervously asks if she would be his girlfriend."),
-    (11, None, "'Does...' Vika hesitates, processing the sudden question."),
+    (0, None, "'Vika.' Max says her name alone, which already sounds serious. A name with no more words is a common way to begin a difficult talk."),
+    (1, None, "'What?' The word 'chto' is spelled with a 'ch', but said 'shto'. It is the exception that surprises learners."),
+    (2, None, "'I was thinking about us.' 'Thought' ends in the masculine 'l'. 'About us' is a small word and 'nas'."),
+    (3, None, "'And what?' Two words, 'and what', mean 'so what?'. Vika is waiting."),
+    (4, None, "'I don't want an open relationship.' 'I want' is an irregular word, so 'khochu' is worth learning whole. 'Open' is the plural of 'free', to match 'relationships'."),
+    (5, None, "'Really?' The word is 'truth' used as 'really?'. It is a one-word question."),
+    (6, None, "'Yes.' One word, 'da'. Max is sure of himself."),
+    (7, None, "'I don't want it either.' 'Also' sits in front of the negative, so it's 'also not want'. Russian doesn't change the negative to say 'either'."),
+    (8, None, "'I like you.' Russian says 'you to me please', with 'you' as the subject. The ending 'sya' is the usual one for this verb."),
+    (9, None, "'I like you too.' The verb is left out, and it is just 'you to me too'. Vika echoes Max."),
+    (10, None, "'Would you be my girlfriend?' The pattern is 'you not against to be', a polite way to ask. 'My girlfriend' takes the 'ey' and 'oy' endings after 'to be'."),
+    (11, None, "'This is...' She starts with 'this', and the line stops. The dots show that she is lost for words."),
 ]

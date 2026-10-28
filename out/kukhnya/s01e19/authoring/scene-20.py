@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Focused on doubts, Max reflects on how people value what they have. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "These closing scenes put into words what the episode has been about. Max and Vika talk in short, simple sentences about how people take for granted what they have. We'll hear it in Russian first."
+OPENER = "Let's go through it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max reflects on how people value what they have. Next time you watch the episode, listen for the Russian expressions for 'person' and 'often' — you will catch every word right away. See you next time!"
+OUTRO = "They agree on a rather neat idea: you only see what something is worth when it is threatened. Notice that 'dorogo' means both 'expensive' and 'dear', a nice double meaning. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Люди часто сомневаются.', 'People often doubt.', [(379, 'Многих часто терзают сомнения, насколько тебе дорого то, что ты имеешь.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Я согласна.', 'I agree.', [], ''),
 ]
 WALK = [
-    (0, None, "'People often doubt.' Max reflects on how people often doubt."),
-    (1, None, "'In what?' Vika asks what they usually doubt."),
-    (2, None, "'In what they have.' Max says they doubt what they already have."),
-    (3, None, "'That is true.' Vika completely agrees with his assessment."),
-    (4, None, "'They do not know.' Max adds that they simply do not know."),
-    (5, None, "'What do they not know?' Vika asks what they do not know."),
-    (6, None, "'How dear is what there is.' Max explains they do not know how dear their possessions are."),
-    (7, None, "'We know.' Vika points out that they themselves know."),
-    (8, None, "'Yes, we know.' Max agrees that they know better."),
-    (9, None, "'This is good.' Vika calls this a good thing."),
-    (10, None, "'Very good.' Max agrees it is a very good thing."),
-    (11, None, "'I agree.' Vika voices her total agreement."),
+    (0, None, "'People often doubt.' 'People' is an irregular plural. 'Doubt' ends in 'sya', so it is 'doubt oneself'."),
+    (1, None, "'About what?' Russians doubt 'in' something, so the small word for 'in' comes before 'what'. 'In what' is a typical question."),
+    (2, None, "'In what they have.' 'In that which' is the phrase, with 'that' taking an 'om' ending. 'They have' ends in 'yut'."),
+    (3, None, "'That's true.' 'Truth' is used with 'this', and there's no 'is'. It's a quick agreement."),
+    (4, None, "'They don't know.' 'They know' ends in 'yut', and 'not' sits in front. The plural ending marks 'they'."),
+    (5, None, "'What don't they know?' After a negative, 'what' takes the 'of' form, 'chego'. It's a small trap for learners."),
+    (6, None, "'How dear what they have is to them.' 'Dear' means both 'expensive' and 'precious'. 'To them' stands for 'for them'."),
+    (7, None, "'We know.' 'We know' ends in 'em'. Vika replies in two words."),
+    (8, None, "'Yes, we know.' Max echoes her. Repetition is natural in Russian."),
+    (9, None, "'That's good.' 'This good' is the sentence, with no 'is'. 'Good' ends in 'o'."),
+    (10, None, "'Very good.' Just 'very' in front. A short, happy line."),
+    (11, None, "'I agree.' 'Agreed' ends in 'a' for a woman. Literally, it says 'I am in agreement'."),
 ]

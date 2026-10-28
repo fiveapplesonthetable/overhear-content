@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "In the main hall of Claude Monet, Max notices Victoria having an animated chat with an unfamiliar man. Filled with suspicion and jealousy, Max tries to convince Kostya to walk over and listen in on their conversation. Let's listen to their discussion in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "Max has spotted Vika in the dining room talking to a stranger who gave her flowers. He can't stand not knowing what they're saying, so he sends Kostya to find out. We'll hear it in Russian first."
+OPENER = "Let's go through it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Watching Kostya walk toward Victoria's table, Max nervously waits by the kitchen doors, hoping to uncover the truth behind the mysterious encounter. Next time you watch the episode, listen for the Russian expressions for 'to have a look' and 'soon' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'Пока!')
+OUTRO = "Kostya agrees, though not happily, and goes to eavesdrop. 'Drug drugu' means 'each other', and is literally 'friend to friend', which is a pleasing little idiom. See you next time!"
+CLOSING = ('kostya', 'До свидания!')
 STORY = [
     ('max', 'Костя, посмотри скорее туда.', 'Kostya, look over there quickly.', [(210, 'Ой, Костян')], ''),
     ('kostya', 'Что случилось, Макс?', 'What happened, Max?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо, друг, я жду новостей.', 'Thank you, friend, I await the news.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, look over there quickly.' Max urgently directs his friend's attention to the dining room, practically issuing an order."),
-    (1, None, "'What happened, Max?' Kostya is startled by the sudden urgency and asks what is wrong."),
-    (2, None, "'What is Vika talking about with that person?' Max is consumed by jealousy as he watches his love interest chat with a stranger."),
-    (3, None, "'Max, I have no idea at all.' Kostya shrugs off the drama, stating clearly that he has absolutely no clue what is going on."),
-    (4, None, "'This man gave her a huge bouquet.' Max fumes as he recalls the extravagant gift the stranger presented to her earlier."),
-    (5, None, "'Maybe it is just a regular guest.' Kostya tries to be the voice of reason, suggesting a perfectly innocent explanation for the interaction."),
-    (6, None, "'They are smiling too sweetly at each other.' Max refuses to calm down, pointing out their overly friendly body language as proof of something more."),
-    (7, None, "'You should not worry so much.' Kostya advises his friend to cool off and stop overthinking the situation."),
-    (8, None, "'Kostya, get closer to them.' Max commands his friend to sneak over and eavesdrop on the private conversation."),
-    (9, None, "'Why should I approach their table?' Kostya is reluctant to play spy and questions the need to intrude on the guests."),
-    (10, None, "'Listen to what they are discussing right now.' Max insists, desperate to uncover the details of Vika's interaction with the wealthy man."),
-    (11, None, "'Fine, I will go and find out everything.' Kostya caves to the pressure and agrees to play the reluctant detective."),
-    (12, None, "'Thank you, friend, I await the news.' Max expresses intense gratitude, eagerly anticipating the intel his friend will gather."),
+    (0, None, "'Kostya, look over there quickly.' The command is casual. 'There' means 'to there', as Max is pointing."),
+    (1, None, "'What happened, Max?' 'Happened' ends in 'sya' and is neuter. 'What' sits at the front."),
+    (2, None, "'What is Vika talking about with that man?' 'About what' is two words. 'With this man' takes 'im' and 'om' endings."),
+    (3, None, "'Max, I have no idea at all.' The phrase is 'without an idea', and it is a set idiom. 'Anyway' is the long word you've already heard."),
+    (4, None, "'This man gave her a huge bouquet.' 'Gave as a gift' is one word. 'To her' is the short word 'ey'."),
+    (5, None, "'Maybe he's just a regular guest.' A regular guest is a 'constant' guest in Russian. 'Maybe' is built from 'can be'."),
+    (6, None, "'They're smiling at each other too sweetly.' 'Each other' is literally 'friend to friend'. 'Too' goes in front of 'sweetly'."),
+    (7, None, "'You shouldn't worry so much.' 'It's not worth to you' is the pattern. 'So much' is two small words."),
+    (8, None, "'Kostya, go a bit closer to them.' The prefix 'po' makes 'closer' into 'a bit closer'. 'Go up' also has a prefix."),
+    (9, None, "'Why should I go up to their table?' 'What for' asks about purpose, not cause. 'To their little table' has a 'u' ending."),
+    (10, None, "'Listen to what they're discussing now.' 'Listen' is the finished kind of command. 'They discuss' is plural."),
+    (11, None, "'Fine, I'll go and find out everything.' Two verbs side by side with 'and'. 'Find out' is a finished action."),
+    (12, None, "'Thanks, friend, I'm waiting for news.' 'News' is plural and takes an 'ey' ending after 'wait for'. 'Friend' is the casual form of address."),
 ]

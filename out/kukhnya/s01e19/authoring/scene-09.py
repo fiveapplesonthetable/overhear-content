@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "In his private office at Claude Monet, Chef Viktor is on the phone with Fedya. Desperate to assemble his original kitchen crew after their wrongful firing, Viktor tries to persuade Fedya to return. Let's listen to their phone call in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "Barinov is in his office on the phone, trying to talk Fedya into coming back to the kitchen. Fedya is in no hurry to forgive him. We'll hear it in Russian first."
+OPENER = 'Here it is again, line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Fedya agreeing to return to Claude Monet, Viktor prepares his next call, ready to reunite his talented kitchen crew step by step. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'to be enough' — you will catch every word right away. See you next time!"
-CLOSING = ('barinov', 'Пока!')
+OUTRO = "Fedya returns, but on his own terms, or so he thinks. 'Ty mne nuzhen' is the Russian way to say 'I need you', and it makes the person you need the subject. See you next time!"
+CLOSING = ('barinov', 'До свидания!')
 STORY = [
     ('barinov', 'Алло, Федя, привет!', 'Hello, Fedya, hi!', [(182, 'Алло, Федь, привет.')], ''),
     ('fedya', 'Здравствуйте, шеф, как ваши дела?', 'Hello, chef, how are you?', [(183, 'Как дела? Эктор Петрович, приветствую.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Жду тебя ровно в десять часов.', "I expect you at exactly ten o'clock.", [(205, 'Тогда завтра в десять.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Fedya, hi!' Barinov tries to sound cheerful and casual over the phone to his recently fired employee."),
-    (1, None, "'Hello, chef, how are you?' Fedya replies formally, keeping a cool distance after being wrongly dismissed."),
-    (2, None, "'Fedya, quit acting.' Barinov drops the friendly act and orders him to stop pretending, literally telling him to stop 'breaking comedy'."),
-    (3, None, "'Come back, I really need you.' Barinov finally swallows his pride and outright begs his talented cook to return to the kitchen."),
-    (4, None, "'Chef, I will not return to the kitchen.' Fedya stubbornly refuses, making it clear that he will not simply walk back in after being mistreated."),
-    (5, None, "'I know that I was at fault.' Barinov offers a rare apology, admitting that he was wrong to fire them in a fit of rage."),
-    (6, None, "'Sorry, but Senya has already agreed to return.' Barinov uses a cunning tactic, claiming his best friend has already taken the deal to pressure him."),
-    (7, None, "'Did Senya really agree?' Fedya is taken aback, using a word that expresses strong doubt to ask if his friend really betrayed their pact."),
-    (8, None, "'Senya was the first to agree to everything.' Barinov lies effortlessly, insisting that Senya jumped at the chance to get his job back."),
-    (9, None, "'Then make me the new sous-chef.' Fedya tries to leverage the situation, demanding a promotion to a senior kitchen role in exchange for his return."),
-    (10, None, "'No, no sous-chefs, Fedya.' Barinov instantly shuts down the bold demand, refusing to give up any extra power."),
-    (11, None, "'Fine, then I will come tomorrow morning.' Fedya caves in and accepts the old terms, promising to show up for the morning shift."),
-    (12, None, "'I expect you at exactly ten o'clock.' Barinov immediately shifts back into boss mode, barking out a strict arrival time."),
+    (0, None, "'Hello, Fedya, hi!' The first word is how Russians answer or start a phone call. 'Hi' is the casual 'privet'."),
+    (1, None, "'Hello, Chef, how are you?' The long hello is the polite one. 'How are your matters' is a standard way to ask."),
+    (2, None, "'Fedya, stop putting on an act.' The phrase 'to break a comedy' means to put on a show. 'Enough' is followed by the plain form."),
+    (3, None, "'Come back, I really need you.' 'Come back back' is not a mistake; the doubled word is normal. 'You to me needed' makes 'you' the subject."),
+    (4, None, "'Chef, I'm not coming back to the kitchen.' 'I'll return' ends in 'sya'. 'To the kitchen' uses 'on' and a 'u' ending."),
+    (5, None, "'I know I was in the wrong.' 'In the wrong' is a short masculine form meaning 'guilty'. 'That' joins the two parts."),
+    (6, None, "'Sorry, but Senya has already agreed to come back.' 'Sorry' is the casual command to excuse. 'Agreed' ends in 'sya'."),
+    (7, None, "'Did Senya really agree?' The first word means 'is it possible?' and shows surprise. It stands for 'really?' at the start."),
+    (8, None, "'Senya was the first to agree to everything.' 'Agree to' needs a small word, 'na'. 'First' goes before the action."),
+    (9, None, "'Then make me the new sous-chef.' 'Make' is the polite command, and 'sous-chef' takes an 'om' ending after it. Fedya gets ambitious."),
+    (10, None, "'No, no sous-chefs, Fedya.' 'Not any' is one word, and it brings the 'of' plural. 'No' comes first."),
+    (11, None, "'Fine, then I'll come tomorrow morning.' 'I'll come' is a finished action. 'Tomorrow morning' is two words."),
+    (12, None, "'I'll expect you at exactly ten o'clock.' 'I wait' stands for 'I'll expect'. 'Exactly' goes in front of 'at ten hours'."),
 ]
