@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I completely forgot.' "Forgot" ends in -la because Vika is a woman. Her tone is polite and formal, with his name and father's name. She has a task to finish, and she's a little sheepish.
-- 'Here is the cash for fresh caviar.' Caviar is a feminine word in Russian, so "fresh" is feminine too. "Cash" is the same one as in the bet scene. Vika hands it over, and it will be spent on something else.
-- 'Thank you very much, my dear Vika.' "Huge thank-you" is how Russians say "thanks a lot". "Dear" also means "expensive". Barinov pours on the charm, and it works.
-- 'You are saving our evening banquet.' "Saving" is from the word related to "thank you", the one that started as "God save". "Evening" is an adjective here. Barinov flatters, and he has a plan.
-- 'The supplier will bring the jar in an hour.' The term for "supplier" comes from what Russian calls "put", the same as in the bet. "Through an hour" means "in an hour". Vika lays out the plan for him.
-- 'Excellent, I will meet the courier myself.' "Meet" is for meeting someone who arrives. "Courier" is a borrowed word. Barinov's offer is a little too eager, and Vika should notice.
-- 'Please give him the money right away.' "Give over" is the "hand it over" word, and "to him" is a single short word. "Right away" is the one from the baking lesson. Vika is careful, as she always is.
-- 'Do not worry, everything is under my control.' "Don't worry" here uses a word meaning "live through", the one for stress. "Under my control" is the Russian picture of control: something is "beneath" your hand. He sounds sure.
-- 'And what is going on with our stove?' "There" in the middle of the sentence is a filler. "With our stove" has the "with" endings. Vika asks again, because she doesn't believe the first answer.
-- 'The craftsmen are already finishing the complex repair.' "Finish" is the one from the dessert. "Complex" is the same word as "difficult". Barinov invents a repair, and each word is more official than the last.
-- 'I rely on your honesty, chef.' "Hope on" is the Russian for "rely on". The word for honesty grows from "honest". It's a trust she gives him, and he does not deserve it.
-- 'I always keep my manly word.' Russians "hold" their word, where English says "keep". In Russian, "manly" comes from "husband" or "man". Barinov swears on his word, and the audience knows better.
+- 'Viktor Petrovich, I completely forgot.' "Zabyla", "forgot", ends in -la because Vika is a woman. "Sovsem" is "completely". She uses his name and father's name, polite and formal.
+- 'Here is the cash for fresh caviar.' "Ikra", caviar, is a feminine word, so "fresh" is "svezhuyu", ending in -uyu after "na". "Nalichnye" is the cash word from the bet scene.
+- 'Thank you very much, my dear Vika.' "Ogromnoe spasibo", "huge thank-you", is how Russians say "thanks a lot". "Dorogaya" is "dear", and also "expensive". Barinov pours on the charm.
+- 'You are saving our evening banquet.' "Spasaesh", "you save", is from the family of "spasibo", which started as "God save". "Vecherny" is "evening" as a describing word, from "vecher".
+- 'The supplier will bring the jar in an hour.' "Postavshchik", "supplier", is from "postavlyat", "to supply", a relative of "postavit", "put". "Cherez chas" is "in an hour". "Banka" is a jar.
+- 'Excellent, I will meet the courier myself.' "Vstrechu" is "I will meet", for someone who arrives. "Kurera" is "kurer", courier, with -a, because he's the one being met. Barinov's offer is a little too eager.
+- 'Please give him the money right away.' "Otdayte" is "give over", the polite "hand it over", and "emu" is "to him". "Srazu" is "right away". Vika is careful, as she always is.
+- 'Do not worry, everything is under my control.' "Ne perezhivay", "don't worry", is from "perezhivat", "live through", the word for stress. "Pod moim kontrolem" is "under my control", and both words take endings after "pod".
+- 'And what is going on with our stove?' "Tam", "there", in the middle is a filler. "S nashey plitoy" is "with our stove": "plita" becomes "plitoy" after "s". Vika asks again, because she doesn't believe the first answer.
+- 'The craftsmen are already finishing the complex repair.' "Zakanchivayut" is "are finishing", the ongoing form of "zakonchit". "Slozhny" is "complex" and also "difficult". "Remont" is any repair.
+- 'I rely on your honesty, chef.' "Nadeyus na", "hope on", is the Russian for "rely on". "Chestnost", "honesty", grows from "chestny", "honest". It's a trust he does not deserve.
+- 'I always keep my manly word.' Russians "derzhat", "hold", their word, where English says "keep". "Muzhskoe", "manly", comes from "muzh", "husband" or "man". Barinov swears on it.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, what is happening with our Max?' Russians put "our" in front of a person they're fond of, like a friend or a colleague. The Russian for "happens" is a general one, "goes on". Vika asks it quite calmly, at first.
-- 'And what is happening with Max at all?' Kostya stalls by asking the same question back. It's the oldest trick in the book. The "at all" filler was heard in the knife scene. Vika is not fooled for a second.
-- 'It is I who is asking you directly right now!' "It's me who asks you" is a natural way to insist. "Directly" is the word meaning "straight". Vika is losing patience, and she says so.
-- 'I honestly know nothing, Vika.' "Honestly" is built on "honest". And "nothing not know" gives you two negatives for one. Kostya says it softly, as if saying it softly made it more believable.
-- 'He is your best friend in the restaurant!' "Best" is related to "better", which is why they sound alike. Vika points out the obvious. She knows what friends tell each other.
-- 'He told me absolutely nothing.' "Absolutely nothing" is "completely nothing", and "not told" comes with it. Kostya is piling on the negatives. The more he piles on, the less believable he sounds.
-- 'You are clearly concealing the truth from me.' Russian has one word for "hide yourself" and another for "hide something". This is the second: to conceal. Vika picks the right one. She names the secret without knowing it.
-- 'I do not know why he is hiding!' Kostya slips. The word is the first one, "hides himself". He has just told her that Max is hiding, which was the very thing he was supposed not to say.
-- 'So that means Max is hiding from me?' Vika uses "that is" to draw her conclusion. "From me" is the little word for "away from". She is not asking, but stating. She has pulled the thread, and the sweater is coming apart.
-- 'What? No! Who is hiding at all?' Kostya tries to back out of it. His questions come tumbling out, one after another. It's the sound of a man who knows he has made a mistake.
-- 'Kostya, do not try to deceive me right now!' "Try" here is "attempt", a different word from "try a dish". Vika's tone is stern. She says "deceive" in a form that means "pull one over".
-- 'Vika, I truly know nothing!' The Russian word for "truth" can also mean "really", so Kostya says "truth nothing I know". He is on the ropes, and his defence has become a plea.
+- 'Kostya, what is happening with our Max?' Russians put "nash", "our", in front of a person they're fond of. "S nashim Maksom" is "with our Max", and both words take -im, -om after "s". "Proiskhodit" is "is happening".
+- 'And what is happening with Max at all?' Kostya stalls by asking the same question back. "Voobshche", "at all", is the filler Barinov used in the knife scene. Vika is not fooled for a second.
+- 'It is I who is asking you directly right now!' "Eto ya tebya sprashivayu", "it's me who asks you", is a natural way to insist. "Pryamo" is "directly", the "straight" word. Vika is losing patience.
+- 'I honestly know nothing, Vika.' "Chestno", "honestly", is built on "chestny", "honest". "Nichego ne znayu" is "nothing not know", two negatives for one. Kostya says it softly.
+- 'He is your best friend in the restaurant!' "Luchshy", "best", is related to "luchshe", "better", which is why they sound alike. "V restorane" is "in the restaurant", with -e after "v".
+- 'He told me absolutely nothing.' "Sovershenno nichego" is "completely nothing", and "ne govoril" comes with it. Kostya is piling on the negatives, and the more he piles on, the less believable he sounds.
+- 'You are clearly concealing the truth from me.' Russian has "pryatatsya", "to hide yourself", and "skryvat", "to hide something". This is "skryvaesh", to conceal. "Yavno" is "clearly".
+- 'I do not know why he is hiding!' Kostya slips. The word is "pryachetsya", "hides himself". He has just told her that Max is hiding, which was the very thing he was not supposed to say.
+- 'So that means Max is hiding from me?' "To est", "that is", draws her conclusion. "Ot menya" is "from me". She is not asking, but stating, and the secret is coming apart.
+- 'What? No! Who is hiding at all?' "Kto voobshche pryachetsya?" is "who at all is hiding?", with "voobshche" again. Kostya tries to back out of it, and the questions come tumbling out.
+- 'Kostya, do not try to deceive me right now!' "Ne pytaysya" is "don't attempt", a different word from "poprobuy", "try a dish". "Obmanut" is "to deceive", a one-time trick, next to Kostya's "obmanyvayu".
+- 'Vika, I truly know nothing!' "Pravda", "truth", also works as "really" or "truly". So Kostya says "truth nothing I know". His defence has become a plea.

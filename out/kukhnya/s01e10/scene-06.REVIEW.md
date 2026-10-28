@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, it seems Vika loves me!' "It seems" is a single word, the same as in "it seems to you". Max says it like a happy man who still wants permission to believe it.
-- 'Great! Or is it?' "Class" is a slang word for "great", borrowed from the English word. "Or no?" is all Kostya says to cast a doubt. He knows his friend well enough to know where this goes.
-- 'Damn, Kostya, this is a dangerous situation.' "Blin" is literally a pancake, and it is what Russians say instead of a ruder word. Max uses it as English uses "darn". The "situation" is the English word with a Russian ending.
-- 'If she loves me, a relationship is needed.' "Needed" is plural here, because the relationship is a plural word in Russian, "relations". Max thinks like a man doing sums. A romance for him is a chore.
-- 'And what is bad about a relationship?' "What of bad" is the same "of" pattern as in "nothing terrible". It is Kostya's simple question, the one a good friend asks. Max has no good answer for it.
-- 'Then a wedding, and then kids!' The little word for "and" here stretches into "and then". "Children" is the plural word from the banquet day. Max counts it off like a list of disasters.
-- 'Why do I need all of this right now?' "What for to me" is the Russian way to say "why do I need". It is a complaint made of two short words. Max does not ask it kindly. He sounds like a man who doesn't want to grow up.
-- 'You are simply afraid of adult life.' The Russian for "life" comes from the same family as "alive". And "adult" means "grown-up". Kostya hits the target in one sentence, because he knows Max.
-- 'I love freedom and adventures!' Max says "I love" in the same family as "favourite". Freedom and adventures are his two loves, and a girlfriend is not among them. He says it with a cheerful look.
-- 'Vika is a mature and smart girl.' "Smart" comes from the term for "mind", the same as in "clever girl". Kostya sticks up for Vika. He knows her, and he knows her better than Max does.
-- 'She will not tolerate your nonsense.' "Tolerate" is in the same family as "patience". And "nonsense" is "foolishnesses" in the plural, from what Russian calls foolish. Kostya says it with affection, and it is true.
-- 'Exactly, she will start educating me.' "Exactly" is the pair you've heard, "there you are" and "specifically". "Educating" covers bringing up a child, so Max feels she will treat him as a boy.
-- 'Then talk to her honestly.' "Honestly" grows from the word for "honest", as in "honest word". Kostya gives him sound advice, in four plain words. It's the best advice in the scene.
-- 'No, better that I keep quiet.' "Keep quiet" is what Barinov barked at the kitchen. Max uses it for himself. His plan is to say nothing, and we can tell it will not work.
+- 'Kostya, it seems Vika loves me!' "Kazhetsya", "it seems", is one word, the same as in "tebe kazhetsya". "Menya lyubit" is "me loves", with "me" before the verb, which is common.
+- 'Great! Or is it?' "Klass" is slang for "great". "Ili net?", "or no?", is all Kostya says to cast a doubt. He knows his friend well enough to know where this goes.
+- 'Damn, Kostya, this is a dangerous situation.' "Blin" is literally a pancake, and it is what Russians say instead of a ruder word, much like "darn". "Situatsiya" is "situation" with a Russian ending. "Opasnaya" is "dangerous".
+- 'If she loves me, a relationship is needed.' "Nuzhny" ends in -y because "otnosheniya", "relationship", is a plural word in Russian, "relations". Max thinks like a man doing sums.
+- 'And what is bad about a relationship?' "Chto plokhogo", "what of bad", has the same ending as "nichego strashnogo". "V otnosheniyakh" is "in relations". It is Kostya's simple question, the one a good friend asks.
+- 'Then a wedding, and then kids!' "A potom" is "and then". "Svadba" is a wedding, and "deti" are children, the word Vika used at the end of the banquet day. Max counts it off like a list of disasters.
+- 'Why do I need all of this right now?' "Zachem mne", "what for to me", is the Russian way to say "why do I need". "Vsyo eto" is "all this". He sounds like a man who doesn't want to grow up.
+- 'You are simply afraid of adult life.' "Boishsya", "you are afraid", ends in -sya, and what you fear takes the "of" ending: "zhizn" becomes "zhizni". "Vzrosly" is "grown-up".
+- 'I love freedom and adventures!' "Lyublyu", "I love", is from the same family as "lyubimy", "favourite". "Svoboda" becomes "svobodu", the thing he loves. A girlfriend is not on his list.
+- 'Vika is a mature and smart girl.' "Umnaya", "smart", comes from "um", "mind", like "umnitsa", "clever girl". "Vzroslaya" is the grown-up word again. Kostya sticks up for Vika.
+- 'She will not tolerate your nonsense.' "Terpet", "to tolerate", is in the same family as "terpenie", "patience". "Gluposti" is "foolishnesses", from "glupy", "foolish". "Ne budet" is "will not".
+- 'Exactly, she will start educating me.' "Vot imenno" is "exactly": "there you are" plus "precisely". "Vospityvat" covers bringing up a child, so Max feels she will treat him as a boy.
+- 'Then talk to her honestly.' "Chestno", "honestly", grows from "chestny", "honest". "Pogovori" is "talk" for a while, with po-. "S ney" is "with her".
+- 'No, better that I keep quiet.' "Molchat", "to keep quiet", is the word Barinov barked at the kitchen. "Ya budu molchat" is "I will keep quiet". His plan is to say nothing, and it will not work.

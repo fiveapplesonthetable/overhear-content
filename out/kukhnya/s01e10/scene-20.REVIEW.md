@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vika. How are you doing?' "Privet" is the friendly hello. "How your affairs" is the usual question, said here with a nervous voice. Max has been dodging Vika, and he can't dodge any longer.
-- 'Hi. Everything is fine, and with you?' Vika says "everything normal" for "I'm fine". "And at you" is "and you?". It's a very polite exchange, and there is a storm under it.
-- 'Everything is fine with me too, running.' "Run" covers running on foot, in the moment. "Too" is "also". Max is trying to leave, and he is not good at hiding it.
-- 'Wait, wait at least one second.' "Stand!" is the short "stop". "At least" is two small words. Vika is firm, and the request is the smallest she can make.
-- 'What is it? The chef is waiting in the kitchen.' "What such" is "what's up". Max uses the chef as an excuse. "Waits in the kitchen" has no "for" in it, and it has the ending for "in".
-- 'I urgently need to talk to you.' "To me needed" is the usual pattern. "Talk" has the "po-", "have a chat". Vika is serious, and she says so in words anyone can follow.
-- 'There is one very important personal thing.' "Is" opens the line, the "there is" word. "Thing" is a general word, and "personal" is easy to spot. It's a careful sentence, and it hides a very large one.
-- 'You scare me with such a serious look.' "Scare" is the one from "got scared". "With such a serious look" is "with such a serious appearance", the Russian for "look" from earlier. Max is nervous.
-- 'I can no longer hide the truth.' "Hide" here is the conceal kind, not the hide-and-seek kind. "Can no longer" is "not can more". Vika says it in a shaky voice.
-- 'I know that you like me.' Russian says "I please you", where English says "you like me". Vika flips it around, so she is the one who pleases. She is nervous, and the line says it all.
-- 'I am pregnant with your child, Max.' Russian says "pregnant from you", where English says "with your child". "Pregnant" has the feminine ending. Vika says it plainly, in five words.
-- 'What did you just say right now?' Max says "you said" with the woman's -la ending, because he is talking to a woman. The man's past would end in -l. He is too stunned to ask anything else.
-- 'You heard me perfectly the first time.' "From the first time" is how Russians say "the first time". "Heard" ends in -l, for Max. Vika's tone is calm and a little dry. She will not repeat it.
+- 'Hi, Vika. How are you doing?' "Privet" is the friendly hello. "Kak tvoi dela", literally "how are your affairs", is the everyday "how are you". "Tvoi" is the informal "your".
+- 'Hi. Everything is fine, and with you?' "Vsyo normalno", "everything normal", is how people say "I'm fine". "A u tebya?", literally "and at you?", is "and you?". It's an ordinary exchange.
+- 'Everything is fine with me too, running.' "U menya tozhe" is "with me too". "Begu", "I'm running", is the usual way to say "I've got to go". Max is trying to leave.
+- 'Wait, wait at least one second.' "Stoy", literally "stand", is "stop" or "wait". "Podozhdi" is "wait" too. "Khotya by", "at least", is two small words. Vika asks for one second.
+- 'What is it? The chef is waiting in the kitchen.' "Chto takoe?" is "what is it?" or "what's up?". "Zhdyot" is "is waiting", and "na kukhne" is "in the kitchen". Max uses the chef as an excuse.
+- 'I urgently need to talk to you.' "Mne nuzhno", literally "to me it is needed", is "I need". "Pogovorit s toboy" is "to talk with you". "Srochno" is "urgently".
+- 'There is one very important personal thing.' "Est" opens the line and means "there is". "Lichnaya veshch" is "a personal thing": "veshch" is a general word for "thing". "Vazhnaya" is "important".
+- 'You scare me with such a serious look.' "Pugaesh" is "you scare", the family of "ispugalsya", "got scared". "Takim seryoznym vidom" is "with such a serious look": "vid" means "look" or "appearance". Max is nervous.
+- 'I can no longer hide the truth.' "Skryvat" is "to hide, to keep secret". "Ne mogu bolshe", literally "I can't more", is "I can no longer". "Pravdu" is "the truth", from "pravda".
+- 'I know that you like me.' "Ya nravlyus tebe", literally "I am pleasing to you", is how Russian says "you like me". The person who is liked comes first. "Znayu" is "I know".
+- 'I am pregnant with your child, Max.' "Beremenna ot tebya", literally "pregnant from you", is how Russian says it. "Beremenna" has the -a ending because Vika is a woman. She says it plainly.
+- 'What did you just say right now?' "Skazala" is "you said", with -la because he is talking to a woman. To a man it would be "skazal". "Tolko chto" is "just now".
+- 'You heard me perfectly the first time.' "S pervogo raza", literally "from the first time", is "the first time". "Slyshal" is "heard", with the -l for Max. "Otlichno" is "perfectly". She won't repeat it.

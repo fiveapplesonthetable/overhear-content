@@ -242,55 +242,71 @@
     },
     {
       "seg": 6,
-      "trans": "Because it is a real culinary miracle!",
+      "trans": "At Easter people dye eggs, and we dye caviar.",
       "words": [
         {
-          "t": "Потому",
-          "lemma": "потому",
-          "pos": "adv",
-          "stress": "потому́",
-          "gloss": "because (with что)",
-          "gram": "потому что = because"
+          "t": "На",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, on (a holiday)",
+          "gram": "preposition, takes accusative here"
         },
         {
-          "t": "что",
-          "lemma": "что",
+          "t": "Пасху",
+          "lemma": "пасха",
+          "pos": "noun",
+          "stress": "Па́сху",
+          "gloss": "Easter",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "красят",
+          "lemma": "красить",
+          "pos": "verb",
+          "stress": "кра́сят",
+          "gloss": "(people) dye",
+          "gram": "present, 3rd person plural, imperfective, no subject"
+        },
+        {
+          "t": "яйца,",
+          "lemma": "яйцо",
+          "pos": "noun",
+          "stress": "я́йца,",
+          "gloss": "eggs",
+          "gram": "plural accusative"
+        },
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
+          "t": "красим",
+          "lemma": "красить",
+          "pos": "verb",
+          "stress": "кра́сим",
+          "gloss": "(we) dye",
+          "gram": "present, 1st person plural, imperfective"
         },
         {
-          "t": "настоящее",
-          "lemma": "настоящий",
-          "pos": "adj",
-          "stress": "настоя́щее",
-          "gloss": "real",
-          "gram": "neuter accusative singular"
-        },
-        {
-          "t": "кулинарное",
-          "lemma": "кулинарный",
-          "pos": "adj",
-          "stress": "кулина́рное",
-          "gloss": "culinary, cooking",
-          "gram": "acc.n.sg"
-        },
-        {
-          "t": "чудо!",
-          "lemma": "чудо",
+          "t": "икру.",
+          "lemma": "икра",
           "pos": "noun",
-          "stress": "чу́до",
-          "gloss": "miracle",
-          "gram": "nominative / accusative"
+          "stress": "икру́.",
+          "gloss": "caviar",
+          "gram": "feminine singular, accusative"
         }
       ]
     },
@@ -496,13 +512,13 @@
     },
     {
       "seg": 11,
-      "trans": "The main thing is that Chef suspects nothing.",
+      "trans": "The main thing is that the guests suspect nothing.",
       "words": [
         {
           "t": "Главное,",
           "lemma": "главный",
           "pos": "adj",
-          "stress": "гла́вное",
+          "stress": "гла́вное,",
           "gloss": "important (thing)",
           "gram": "nominative neuter singular, used as a noun"
         },
@@ -515,12 +531,12 @@
           "gram": "conjunction of purpose (+ past form)"
         },
         {
-          "t": "шеф",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "t": "гости",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "го́сти",
+          "gloss": "visitors, guests",
+          "gram": "nominative plural, masculine"
         },
         {
           "t": "ничего",
@@ -539,26 +555,26 @@
           "gram": "negation"
         },
         {
-          "t": "заподозрил.",
+          "t": "заподозрили.",
           "lemma": "заподозрить",
           "pos": "verb",
-          "stress": "заподо́зрил",
+          "stress": "заподо́зрили.",
           "gloss": "suspected",
-          "gram": "past tense, masculine singular"
+          "gram": "past, plural, perfective (after чтобы)"
         }
       ]
     },
     {
       "seg": 12,
-      "trans": "Chef will not find out anything, hide the jar!",
+      "trans": "The guests will not find out anything, hide the jar!",
       "words": [
         {
-          "t": "Шеф",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "t": "Гости",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "го́сти",
+          "gloss": "visitors, guests",
+          "gram": "nominative plural, masculine"
         },
         {
           "t": "ничего",
@@ -577,12 +593,12 @@
           "gram": "negation"
         },
         {
-          "t": "узнает,",
+          "t": "узнают,",
           "lemma": "узнать",
           "pos": "verb",
-          "stress": "узна́ет",
-          "gloss": "will find out",
-          "gram": "3rd person singular future"
+          "stress": "узна́ют,",
+          "gloss": "(they) find out",
+          "gram": "future, 3rd person plural, perfective"
         },
         {
           "t": "прячь",
@@ -596,7 +612,7 @@
           "t": "банку!",
           "lemma": "банка",
           "pos": "noun",
-          "stress": "ба́нку",
+          "stress": "ба́нку!",
           "gloss": "jar, can",
           "gram": "feminine accusative singular"
         }
@@ -842,55 +858,71 @@
     },
     {
       "seg": 24,
-      "trans": "Because it is a real culinary miracle!",
+      "trans": "At Easter people dye eggs, and we dye caviar.",
       "words": [
         {
-          "t": "Потому",
-          "lemma": "потому",
-          "pos": "adv",
-          "stress": "потому́",
-          "gloss": "because (with что)",
-          "gram": "потому что = because"
+          "t": "На",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, on (a holiday)",
+          "gram": "preposition, takes accusative here"
         },
         {
-          "t": "что",
-          "lemma": "что",
+          "t": "Пасху",
+          "lemma": "пасха",
+          "pos": "noun",
+          "stress": "Па́сху",
+          "gloss": "Easter",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "красят",
+          "lemma": "красить",
+          "pos": "verb",
+          "stress": "кра́сят",
+          "gloss": "(people) dye",
+          "gram": "present, 3rd person plural, imperfective, no subject"
+        },
+        {
+          "t": "яйца,",
+          "lemma": "яйцо",
+          "pos": "noun",
+          "stress": "я́йца,",
+          "gloss": "eggs",
+          "gram": "plural accusative"
+        },
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
+          "t": "красим",
+          "lemma": "красить",
+          "pos": "verb",
+          "stress": "кра́сим",
+          "gloss": "(we) dye",
+          "gram": "present, 1st person plural, imperfective"
         },
         {
-          "t": "настоящее",
-          "lemma": "настоящий",
-          "pos": "adj",
-          "stress": "настоя́щее",
-          "gloss": "real",
-          "gram": "neuter accusative singular"
-        },
-        {
-          "t": "кулинарное",
-          "lemma": "кулинарный",
-          "pos": "adj",
-          "stress": "кулина́рное",
-          "gloss": "culinary, cooking",
-          "gram": "acc.n.sg"
-        },
-        {
-          "t": "чудо!",
-          "lemma": "чудо",
+          "t": "икру.",
+          "lemma": "икра",
           "pos": "noun",
-          "stress": "чу́до",
-          "gloss": "miracle",
-          "gram": "nominative / accusative"
+          "stress": "икру́.",
+          "gloss": "caviar",
+          "gram": "feminine singular, accusative"
         }
       ]
     },
@@ -1096,13 +1128,13 @@
     },
     {
       "seg": 34,
-      "trans": "The main thing is that Chef suspects nothing.",
+      "trans": "The main thing is that the guests suspect nothing.",
       "words": [
         {
           "t": "Главное,",
           "lemma": "главный",
           "pos": "adj",
-          "stress": "гла́вное",
+          "stress": "гла́вное,",
           "gloss": "important (thing)",
           "gram": "nominative neuter singular, used as a noun"
         },
@@ -1115,12 +1147,12 @@
           "gram": "conjunction of purpose (+ past form)"
         },
         {
-          "t": "шеф",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "t": "гости",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "го́сти",
+          "gloss": "visitors, guests",
+          "gram": "nominative plural, masculine"
         },
         {
           "t": "ничего",
@@ -1139,26 +1171,26 @@
           "gram": "negation"
         },
         {
-          "t": "заподозрил.",
+          "t": "заподозрили.",
           "lemma": "заподозрить",
           "pos": "verb",
-          "stress": "заподо́зрил",
+          "stress": "заподо́зрили.",
           "gloss": "suspected",
-          "gram": "past tense, masculine singular"
+          "gram": "past, plural, perfective (after чтобы)"
         }
       ]
     },
     {
       "seg": 36,
-      "trans": "Chef will not find out anything, hide the jar!",
+      "trans": "The guests will not find out anything, hide the jar!",
       "words": [
         {
-          "t": "Шеф",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "t": "Гости",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "го́сти",
+          "gloss": "visitors, guests",
+          "gram": "nominative plural, masculine"
         },
         {
           "t": "ничего",
@@ -1177,12 +1209,12 @@
           "gram": "negation"
         },
         {
-          "t": "узнает,",
+          "t": "узнают,",
           "lemma": "узнать",
           "pos": "verb",
-          "stress": "узна́ет",
-          "gloss": "will find out",
-          "gram": "3rd person singular future"
+          "stress": "узна́ют,",
+          "gloss": "(they) find out",
+          "gram": "future, 3rd person plural, perfective"
         },
         {
           "t": "прячь",
@@ -1196,7 +1228,7 @@
           "t": "банку!",
           "lemma": "банка",
           "pos": "noun",
-          "stress": "ба́нку",
+          "stress": "ба́нку!",
           "gloss": "jar, can",
           "gram": "feminine accusative singular"
         }
@@ -1442,55 +1474,71 @@
     },
     {
       "seg": 43,
-      "trans": "Because it is a real culinary miracle!",
+      "trans": "At Easter people dye eggs, and we dye caviar.",
       "words": [
         {
-          "t": "Потому",
-          "lemma": "потому",
-          "pos": "adv",
-          "stress": "потому́",
-          "gloss": "because (with что)",
-          "gram": "потому что = because"
+          "t": "На",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, on (a holiday)",
+          "gram": "preposition, takes accusative here"
         },
         {
-          "t": "что",
-          "lemma": "что",
+          "t": "Пасху",
+          "lemma": "пасха",
+          "pos": "noun",
+          "stress": "Па́сху",
+          "gloss": "Easter",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "красят",
+          "lemma": "красить",
+          "pos": "verb",
+          "stress": "кра́сят",
+          "gloss": "(people) dye",
+          "gram": "present, 3rd person plural, imperfective, no subject"
+        },
+        {
+          "t": "яйца,",
+          "lemma": "яйцо",
+          "pos": "noun",
+          "stress": "я́йца,",
+          "gloss": "eggs",
+          "gram": "plural accusative"
+        },
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
+          "t": "красим",
+          "lemma": "красить",
+          "pos": "verb",
+          "stress": "кра́сим",
+          "gloss": "(we) dye",
+          "gram": "present, 1st person plural, imperfective"
         },
         {
-          "t": "настоящее",
-          "lemma": "настоящий",
-          "pos": "adj",
-          "stress": "настоя́щее",
-          "gloss": "real",
-          "gram": "neuter accusative singular"
-        },
-        {
-          "t": "кулинарное",
-          "lemma": "кулинарный",
-          "pos": "adj",
-          "stress": "кулина́рное",
-          "gloss": "culinary, cooking",
-          "gram": "acc.n.sg"
-        },
-        {
-          "t": "чудо!",
-          "lemma": "чудо",
+          "t": "икру.",
+          "lemma": "икра",
           "pos": "noun",
-          "stress": "чу́до",
-          "gloss": "miracle",
-          "gram": "nominative / accusative"
+          "stress": "икру́.",
+          "gloss": "caviar",
+          "gram": "feminine singular, accusative"
         }
       ]
     },
@@ -1696,13 +1744,13 @@
     },
     {
       "seg": 48,
-      "trans": "The main thing is that Chef suspects nothing.",
+      "trans": "The main thing is that the guests suspect nothing.",
       "words": [
         {
           "t": "Главное,",
           "lemma": "главный",
           "pos": "adj",
-          "stress": "гла́вное",
+          "stress": "гла́вное,",
           "gloss": "important (thing)",
           "gram": "nominative neuter singular, used as a noun"
         },
@@ -1715,12 +1763,12 @@
           "gram": "conjunction of purpose (+ past form)"
         },
         {
-          "t": "шеф",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "t": "гости",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "го́сти",
+          "gloss": "visitors, guests",
+          "gram": "nominative plural, masculine"
         },
         {
           "t": "ничего",
@@ -1739,26 +1787,26 @@
           "gram": "negation"
         },
         {
-          "t": "заподозрил.",
+          "t": "заподозрили.",
           "lemma": "заподозрить",
           "pos": "verb",
-          "stress": "заподо́зрил",
+          "stress": "заподо́зрили.",
           "gloss": "suspected",
-          "gram": "past tense, masculine singular"
+          "gram": "past, plural, perfective (after чтобы)"
         }
       ]
     },
     {
       "seg": 49,
-      "trans": "Chef will not find out anything, hide the jar!",
+      "trans": "The guests will not find out anything, hide the jar!",
       "words": [
         {
-          "t": "Шеф",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "t": "Гости",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "го́сти",
+          "gloss": "visitors, guests",
+          "gram": "nominative plural, masculine"
         },
         {
           "t": "ничего",
@@ -1777,12 +1825,12 @@
           "gram": "negation"
         },
         {
-          "t": "узнает,",
+          "t": "узнают,",
           "lemma": "узнать",
           "pos": "verb",
-          "stress": "узна́ет",
-          "gloss": "will find out",
-          "gram": "3rd person singular future"
+          "stress": "узна́ют,",
+          "gloss": "(they) find out",
+          "gram": "future, 3rd person plural, perfective"
         },
         {
           "t": "прячь",
@@ -1796,7 +1844,7 @@
           "t": "банку!",
           "lemma": "банка",
           "pos": "noun",
-          "stress": "ба́нку",
+          "stress": "ба́нку!",
           "gloss": "jar, can",
           "gram": "feminine accusative singular"
         }
@@ -6277,6 +6325,376 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "а": {
+      "lemma": "а",
+      "stress": "а",
+      "pos": "conj",
+      "gloss": "and, but; so",
+      "meanings": [
+        {
+          "en": "and, while",
+          "note": "Contrast. Core Russian conj meaning 'and, but; so' in everyday speech."
+        },
+        {
+          "en": "so, and what about",
+          "note": "Starting a question: а жвачку?. Core Russian conj meaning 'and, but; so' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А это тебе.",
+          "trans": "And this is for you."
+        },
+        {
+          "text": "А где машинка?",
+          "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "но",
+          "gloss": "but (stronger contrast)"
+        },
+        {
+          "word": "и",
+          "gloss": "and"
+        }
+      ]
+    },
+    "мы": {
+      "lemma": "мы",
+      "stress": "мы",
+      "pos": "pron",
+      "gloss": "we",
+      "meanings": [
+        {
+          "en": "we",
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
+        },
+        {
+          "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
+          "note": "Case forms. Core Russian pron meaning 'we' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Мы сделали много.",
+          "trans": "We've done a lot."
+        },
+        {
+          "text": "У нас грязный унитаз.",
+          "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
+        }
+      ]
+    },
+    "красить": {
+      "lemma": "красить",
+      "stress": "кра́сить",
+      "pos": "verb",
+      "gloss": "to paint, to dye, to color",
+      "aspect": "impf",
+      "pair": "покрасить",
+      "meanings": [
+        {
+          "en": "to paint, to dye, to color",
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to paint', forming an aspectual pair with 'покрасить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "крашу",
+              "красим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "красишь",
+              "красите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "красит",
+              "красят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "красил",
+                "красила",
+                "красило",
+                "красили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "крась",
+                "красьте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Повара начинают красить щучью икру.",
+          "trans": "The cooks begin to dye the pike caviar."
+        },
+        {
+          "text": "Давай начнём красить эту щучью икру.",
+          "trans": "Let us start dyeing this pike caviar."
+        },
+        {
+          "text": "Чем ты будешь красить?",
+          "trans": "What will you dye it with?"
+        }
+      ],
+      "related": [
+        {
+          "word": "покрасить",
+          "gloss": "to dye"
+        },
+        {
+          "word": "красота",
+          "gloss": "beauty"
+        },
+        {
+          "word": "украсть",
+          "gloss": "to steal"
+        }
+      ]
+    },
+    "на": {
+      "lemma": "на",
+      "stress": "на",
+      "pos": "prep",
+      "gloss": "on, onto; for",
+      "meanings": [
+        {
+          "en": "on",
+          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
+        },
+        {
+          "en": "onto, to; for",
+          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Программа на сайте.",
+          "trans": "The programme is on the website."
+        },
+        {
+          "text": "Он идёт на второй срок.",
+          "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "над",
+          "gloss": "above, over"
+        },
+        {
+          "word": "в",
+          "gloss": "in, at"
+        }
+      ]
+    },
+    "яйцо": {
+      "lemma": "яйцо",
+      "stress": "яйцо́",
+      "pos": "noun",
+      "gloss": "egg",
+      "gender": "n",
+      "animacy": "inan",
+      "meanings": [
+        {
+          "en": "egg",
+          "note": "Common neuter noun meaning 'egg' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "яйцо",
+              "яйца"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "яйца",
+              "яиц"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "яйцу",
+              "яйцам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "яйцо",
+              "яйца"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "яйцом",
+              "яйцами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "яйце",
+              "яйцах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пора добавлять яйца.",
+          "trans": "It is time to add the eggs."
+        },
+        {
+          "text": "Макс, быстрее! Уже пора добавлять яйца.",
+          "trans": "Max, faster! It is time to add the eggs."
+        },
+        {
+          "text": "Берём свежие яйца и разогреваем сковороду.",
+          "trans": "We take fresh eggs and heat the frying pan."
+        }
+      ],
+      "related": [
+        {
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     }

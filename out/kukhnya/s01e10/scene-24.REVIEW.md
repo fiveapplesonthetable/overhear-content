@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, have you completely lost your mind?' Russian says "from the mind went", where English says "lost your mind". In Russian, "mind" is the root of "clever girl" and "smart". Senya shouts, and there is a good reason.
-- 'What happened, Senya, why are you shouting so?' "What happened" is the phrase from the first scene of the first scene. "Shout" is the one Alisa used about the cooks. Fedya genuinely doesn't know.
-- 'All the meat on your stove is burning!' "At you on the stove" is the Russian, with "at you" in place of "your". The meat is "burning" in the plain sense. The stove at last has a purpose in this episode.
-- 'Oh, forgive me, I accidentally forgot the frying pan.' "Accidentally" comes from the term for "chance", the family of "happened". Fedya is sorry in a casual way. The pan has nothing to say.
-- 'Quickly take the hot frying pan off the high flame.' Russians call high heat "strong fire", the same word they use for a strong allergy. "Take away" is the same as tidy up. Senya is practical, and he gives short orders.
-- 'I have already taken it off and turned off the flame.' "Turned off" is what the Lyova used when the cooks turned off the equipment. The pan is "she", so "it" is "her". Fedya is almost proud of himself.
-- 'What are you even thinking about during work?' "About what" begins with the "about" word. "During work" is "in the time of work". Senya is exasperated, and the question shows it.
-- 'I was simply thinking long about our complicated life.' "Complicated" is the one from the banquet. "Life" is related to "alive". Fedya is philosophical at a bad moment. The meat has already burned.
-- 'The Chef will see this black smoke and kill us!' "Smoke" is easy to say and hard to hide. "Will kill" is the same word the chef used about Tanya. Senya talks about the chef as a danger to life.
-- 'I will quickly prepare a new fresh portion right now.' "Portion" is borrowed. "New" and "fresh" stand together. Fedya offers a plan, and a plan is better than an apology.
-- 'Hurry up quickly, the guests have been waiting for their order for a long time.' Russian has two words, one for how long a thing lasts and one for "since long ago". This is the second: they have been waiting a good while.
-- 'In five minutes the fine dish will be ready.' "Through five minutes" means "in five minutes". What Russian calls "ready" is neuter, to match the dish. Fedya's promise is as short as the chef's.
+- 'Fedya, have you completely lost your mind?' "S uma soshyol", literally "went off the mind", is "lost your mind". "Um", "mind", is the root of "umnitsa", "clever girl". "Ty chto" adds "what's wrong with you".
+- 'What happened, Senya, why are you shouting so?' "Chto sluchilos" is "what happened", a phrase you've heard many times. "Krichish" is "you're shouting", the verb in Louis's "ne nuzhno krichat", "no need to shout".
+- 'All the meat on your stove is burning!' "U tebya na plite", literally "at you on the stove", is "on your stove". "Gorit" is "is burning", and "vsyo myaso" is "all the meat".
+- 'Oh, forgive me, I accidentally forgot the frying pan.' "Sluchayno", "by accident", is the family of "sluchilos", "happened". "Skovorodu" is "the frying pan", from "skovoroda". "Izvini menya" is "forgive me".
+- 'Quickly take the hot frying pan off the high flame.' "S silnogo ognya", "off the strong fire", is "off the high heat". "Silny" also turns up in "silnaya allergiya", "a strong allergy". "Ubiray" is "take away", and also "tidy up".
+- 'I have already taken it off and turned off the flame.' "Vyklyuchil" is "turned off", the verb in Lyova's "my vyklyuchili", "we turned off". "Snyal eyo" is "took it off": "eyo" is "her", because the pan is feminine.
+- 'What are you even thinking about during work?' "O chyom" is "about what". "Vo vremya raboty", literally "in the time of work", is "during work". "Voobshche" adds "even" or "at all".
+- 'I was simply thinking long about our complicated life.' "Slozhny", "complicated", is the word Vika used for the banquet, "slozhny banket". "Dolgo dumal" is "thought for a long time". "Zhizn" is "life".
+- 'The Chef will see this black smoke and kill us!' "Dym" is "smoke". Barinov said "ubyot", "will kill", about Tanya. "Uvidit" is "will see", from "videt".
+- 'I will quickly prepare a new fresh portion right now.' "Prigotovlyu" is "I will prepare", from "gotovit", "to cook". "Portsiyu" is borrowed and easy to catch. "Novuyu svezhuyu" is "new, fresh".
+- 'Hurry up quickly, the guests have been waiting for their order for a long time.' "Davno zhdut" is "have been waiting for a long time". "Davno" means "since long ago", and "dolgo" means "for a long stretch". "Speshi" is "hurry".
+- 'In five minutes the fine dish will be ready.' "Cherez pyat minut", literally "through five minutes", is "in five minutes". "Gotovo", "ready", has -o to match "blyudo", "dish".

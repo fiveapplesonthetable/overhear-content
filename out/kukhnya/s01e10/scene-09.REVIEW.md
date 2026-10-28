@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, my dear friend!' "Dear" repeats "expensive". Barinov is suddenly sweet, and every cook in the kitchen would smell trouble. He uses the word "my", which sounds close.
-- 'Chef, why are you so kind?' "Kind" echoes "kind day". Fedya says "vy", the polite "you", but he is plainly suspicious. People are not usually kind to a cook in the chef's kitchen without a reason.
-- 'I urgently need your help.' "Help" is feminine in Russian, so "needed" ends in -a. It's the same "to me needed" pattern, with "urgently" in front. Barinov is not asking for a favour. He is begging.
-- 'No, chef, I am completely broke!' Fedya says a short "ne" instead of the full "net". "Empty" is the Russian way to say "broke". He uses it with a clear conscience, because it is the truth.
-- 'Not even a couple of thousand can be found?' "Najdyotsya" means "turn up" or "be found", with the -sya. "A pair of thousands" is "a couple of thousand". Barinov is cutting his demand, hoping for something.
-- 'You still owe me five thousand!' Fedya says "you to me still five thousand owing". The word for "owing" is close to "must". Fedya has a memory like a bank, and he reminds the chef of the debt.
-- 'I will return everything tomorrow morning!' "Return" here is "give back". "Tomorrow in the morning" is just "tomorrow morning". Barinov promises as easily as he breathes, and Fedya has heard it before.
-- 'You always promise that, chef.' "Promise" is what Alisa used for her good behaviour. "So" means "like that". Fedya gives him a flat look, and says what everyone thinks.
-- 'But today Spartak will definitely win!' "Will win" grows from the Russian for "victory". Barinov has the certainty of a man who has lost before. The word "definitely" is the one he used about everything today.
-- 'Spartak is playing against a strong opponent.' "Against" is "protiv", and "opponent" is a rival. "Strong" has the ending for "against". Fedya sounds like a coach, and he doesn't seem to be fooled.
-- 'They have roster problems!' "At them problems" is the same "at" pattern, with "them". "Roster" is the team's make-up. Barinov's inside information is that the other side has troubles, but it is thin.
-- 'Chef, football is pure lottery.' Russian says "clean lottery" for "pure", and the word "lottery" is borrowed. Fedya is a realist, and a realist can be right. He says it with no malice.
-- 'Do you not believe in our football?' "Believe" is in the same family as "faithful" and "reliable". Barinov says "our" football, as if it belonged to the nation. It's a kind of patriotism.
-- 'I believe only in cash money!' The term for "cash" is literally "available", the money you can see. Fedya's creed fits in one sentence. The chef will have to find his stake somewhere else.
+- 'Fedya, my dear friend!' "Dorogoy" is "dear", and also "expensive". "Moy" after it, "dear my friend", sounds warm and close. Barinov is suddenly sweet, and every cook in the kitchen would smell trouble.
+- 'Chef, why are you so kind?' "Dobry", "kind", is the word in "dobry den". "Vy takoy" is "you such", with the polite "vy". Fedya is plainly suspicious.
+- 'I urgently need your help.' "Mne nuzhna tvoya pomoshch": "pomoshch", "help", is a she-word, so it's "nuzhna" and "tvoya", both with -a. "Srochno" is "urgently". He is begging.
+- 'No, chef, I am completely broke!' Fedya says a short "ne" instead of the full "net". "Pustoy", "empty", is the Russian slang for "broke". "Absolyutno" is easy.
+- 'Not even a couple of thousand can be found?' "Naydyotsya" means "will turn up", with -sya. "Pary tysyach", "of a pair of thousands", is "a couple of thousand". Barinov is cutting his demand.
+- 'You still owe me five thousand!' Fedya says "vy mne eshchyo pyat tysyach dolzhny", "you to me still five thousand owing". "Dolzhny" is the same word as "must". He has a memory like a bank.
+- 'I will return everything tomorrow morning!' "Verne" here is "give back": "ya verne" is "I will return". "Zavtra utrom" is "tomorrow in the morning". Barinov promises as easily as he breathes.
+- 'You always promise that, chef.' "Obeshchaete" is "you promise", the word Alisa used when she promised to behave. "Tak" is "like that". Fedya says what everyone thinks.
+- 'But today Spartak will definitely win!' "Pobedit", "will win", grows from "pobeda", "victory". "Tochno" is "definitely". Barinov has the certainty of a man who has lost before.
+- 'Spartak is playing against a strong opponent.' "Protiv" is "against", and after it "silny sopernik" becomes "silnogo sopernika". "Sopernik" is a rival. Fedya sounds like a coach.
+- 'They have roster problems!' "U nikh" is "at them", the same "at" pattern. "S sostavom" is "with the roster": "sostav", the line-up, takes -om after "s". The inside information is thin.
+- 'Chef, football is pure lottery.' Russian says "chistaya", "clean", for "pure", and "lotereya" is borrowed. There's no "is": just "football this pure lottery". Fedya is a realist.
+- 'Do you not believe in our football?' "Verish v" is "believe in", from the same family as "verny", "faithful". Barinov says "nash", "our", football, as if it belonged to the nation. It's patriotism.
+- 'I believe only in cash money!' "Nalichnye", "cash", comes from "nalichie", "presence": the money that's actually there. "Tolko" is "only". The chef will have to find his stake elsewhere.

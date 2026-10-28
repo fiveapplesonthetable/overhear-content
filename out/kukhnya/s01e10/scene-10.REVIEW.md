@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Шеф, давай уже быстрее заказ! | Chef, hurry up the order already! | #77 00:05:42: давай уже быстрее. | verbatim |
+| 1 | Костя | Шеф, давайте уже быстрее заказ! | Chef, hurry up the order already! | #77 00:05:42: давай уже быстрее. | verbatim |
 | 2 | Костя | Гость за пятым столиком ждёт. | The guest at table five is waiting. | #78 00:05:44: за пятым столиком | verbatim |
 | 3 | Шеф | Всё готово, можешь забирать блюдо. | Everything is ready, you can take the dish. | #79 00:05:47: Все, можешь забирать. | verbatim |
 | 4 | Костя | Отлично, несу в зал. | Great, taking it to the dining room. | #80 00:05:49: Отлично. | verbatim |
@@ -22,22 +22,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Шеф | Мне просто занять немного нужно. | I just need to borrow a little. | #84 00:05:58: Мне просто занять немного. | verbatim |
 | 11 | Костя | Шеф, вы хотите мои чаевые? | Chef, you want my tips? | new | new |
 | 12 | Шеф | Всего пару тысяч до утра! | Only a couple of thousand until morning! | new | new |
-| 13 | Костя | Шеф, давай попозже поговорим! | Chef, let us talk later! | #85 00:06:00: Давай попозже поговорим. | verbatim |
+| 13 | Костя | Шеф, давайте попозже поговорим! | Chef, let us talk later! | #85 00:06:00: Давай попозже поговорим. | verbatim |
 | 14 | Шеф | Ладно, иди, но я вернусь! | All right, go, but I will return! | #86 00:06:02: Ладно. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, hurry up the order already!' Kostya says "give" in front of "faster", which is how Russians say "come on". The little "already" adds the impatience. He is a bartender with a guest waiting, and the chef is dawdling.
-- 'The guest at table five is waiting.' Russians sit "behind" a table, so it is "behind the fifth little table". The tiny ending on "table" is how a restaurant table sounds. The numbered tables are the waiters' shorthand.
-- 'Everything is ready, you can take the dish.' "You can take" uses the casual "ty", so the chef is being friendly. The "take away" word has a prefix, like picking something up. Barinov is brisk, and almost kind.
-- 'Great, taking it to the dining room.' Russian has one word for carrying in your hands and another for going on foot, and this is the first one. "To the hall" is the dining room. Kostya is already half out of the door.
-- 'Wait, one second, wait for me here!' "Stand!" is how Barinov says "stop". Then "wait me", with no "for", as always. It's an order in two parts. Kostya knows the chef is about to ask for something.
-- 'Chef, I need to work right now.' "To me it's necessary" is the casual "I have to". Kostya tries to leave politely, and the chef doesn't let him. What Russian calls "work" is a long one for such a quick excuse.
-- 'Kostya, tell me, how are your affairs?' "Tell me" is a command from the word he used earlier. "How are your affairs" is the usual greeting, now with a motive behind it. Barinov is oiling the way.
-- 'Fine, tips are good today.' The word for tips grows out of "tea", so it's "tea money". Kostya has no idea what is coming, and he cheerfully gives the answer a borrower likes best.
-- 'Really good? You are a wealthy man!' The Russian for wealthy is built on "rich", and "man" is the general word for a person. Barinov flatters, as he did with Fedya. The chef is sizing up the lender.
-- 'I just need to borrow a little.' The term for "borrow" comes from the same root as "busy", because the money occupies you. Russians use one word to borrow and another to lend. Barinov says "a little", but he means thousands.
-- 'Chef, you want my tips?' Kostya says "you want" the polite way. He can't believe it. His voice rises at the end, and what Russian calls "my" sits in front of "tips". It's a very Russian reaction: disbelief with no question word.
-- 'Only a couple of thousand until morning!' "In all a pair of thousands" is how he says "just a couple of thousand". "Until morning" is the small word for "until" and the morning. Barinov lowers the sum, as he lowered it with Fedya.
-- 'Chef, let us talk later!' The "po-" at the front of "later" makes it softer, "a bit later". And "talk" is the one with "po-" too, "chat for a while". Kostya is polite, and he wants to run.
-- 'All right, go, but I will return!' Here "return" has the -sya, meaning "come back", where earlier the same word without it meant "give back". Barinov lets him go, and warns him that he'll be back.
+- 'Chef, hurry up the order already!' Kostya says "davayte", "give", in front of "bystree", "faster": that's how Russians say "come on". The -te is polite. "Uzhe", "already", adds the impatience.
+- 'The guest at table five is waiting.' Russians sit "za", "behind", a table: "za pyatym stolikom". "Stolik" is the small version of "stol", and it's the usual word for a restaurant table.
+- 'Everything is ready, you can take the dish.' "Mozhesh zabirat" is "you can take away", with the casual "ty". "Zabirat" is "brat", "take", with za-, for picking something up. Barinov is brisk, and almost kind.
+- 'Great, taking it to the dining room.' "Nesu" is "I carry": Russian has one word for carrying in your hands, "nesti", and another for just going, "idti". "V zal" is "to the hall", the dining room.
+- 'Wait, one second, wait for me here!' "Stoy!", "stand!", is how Barinov says "stop". Then "podozhdi menya", "wait me", with no "for". "Sekundu" is "one second".
+- 'Chef, I need to work right now.' "Mne nado", "to me it's necessary", is the casual "I have to". "Rabotat" is "to work". Kostya tries to leave politely, and the chef doesn't let him.
+- 'Kostya, tell me, how are your affairs?' "Skazhi" is "tell", said to one person. "Kak tvoi dela" is the casual "how are things", now with a motive behind it. Barinov is oiling the way.
+- 'Fine, tips are good today.' "Chaevye", "tips", grows out of "chay", "tea", so it's "tea money". "Normalno" is "fine". Kostya gives the answer a borrower likes best.
+- 'Really good? You are a wealthy man!' "Bogaty" is "rich", and "chelovek" is the general word for a person. "Tochno khoroshie?" is "exactly good?". Barinov flatters, as he did with Fedya.
+- 'I just need to borrow a little.' "Zanyat", "to borrow", is spelled like "zanyat", "busy", and they're related. To lend, Russians say "dat v dolg", "give into debt". Barinov says "nemnogo", but he means thousands.
+- 'Chef, you want my tips?' Kostya says "vy khotite", the polite "you want". There's no question word, only the voice rising at the end. "Moi chaevye" is "my tips".
+- 'Only a couple of thousand until morning!' "Vsego paru tysyach", "in all a pair of thousands", is "just a couple of thousand". "Do utra" is "until morning": after "do", "utro" becomes "utra".
+- 'Chef, let us talk later!' "Popozzhe" is "pozzhe", "later", softened with po- to "a bit later". "Davayte pogovorim" is the polite "let's talk". Kostya wants to run.
+- 'All right, go, but I will return!' "Vernus" has -s, the short -sya, meaning "come back"; "verne" without it was "give back". "Idi" is "go". Barinov warns him that he'll be back.

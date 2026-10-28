@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Шеф | Сеня, отойди, у меня болит голова. | Senya, step back, my head hurts. | new | new |
 | 3 | Сеня | Я принёс вам холодный свежий рассол. | I brought you cold fresh brine. | #5 00:00:39: Рассольчик! | verbatim |
 | 4 | Шеф | О, Сеня, ты настоящий верный друг. | Oh, Senya, you are a true loyal friend. | new | new |
-| 5 | Сеня | Выпей немного, сразу станет гораздо легче. | Drink a little, it will immediately become much easier. | new | new |
+| 5 | Сеня | Выпейте немного, сразу станет гораздо легче. | Drink a little, it will immediately become much easier. | new | new |
 | 6 | Шеф | Этот напиток очень помогает мне. | This drink helps me very much. | new | new |
 | 7 | Сеня | Вчера Спартак снова проиграл важный матч? | Did Spartak lose an important match again yesterday? | new | new |
 | 8 | Шеф | Не говори мне про этот кошмар. | Do not talk to me about that nightmare. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, how is your health this morning?' Senya says "your" the polite way, because he is talking to the boss. "Health" is a word you also hear when people clink glasses. "This morning" is "today in the morning".
-- 'Senya, step back, my head hurts.' Russian says "at me hurts head", with no "my". It's the "at me" pattern again, the same as for having a problem. Barinov is not at his best in the morning.
-- 'I brought you cold fresh brine.' Brine from a jar of pickled cucumbers is the Russian hangover cure, and everybody knows it. Senya's "brought" has the man's -l, and the "you" is the polite one.
-- 'Oh, Senya, you are a true loyal friend.' Two describing words come before "friend": real and faithful. The second is the word that also means "reliable". Barinov is moved, because the pain has gone down a little.
-- 'Drink a little, it will immediately become much easier.' Senya drops the polite "you" and says "drink" the casual way, one old kitchen hand to another. "Easier" is "light" with a new ending, and "much" sits in front of it.
-- 'This drink helps me very much.' Russian says "helps to me", where English says "helps me". What Russian calls the drink comes from a word meaning to sip or drink. Barinov says it like a man giving a review.
-- 'Did Spartak lose an important match again yesterday?' Senya is brave. "Yesterday" is a small word that rhymes with nothing in English. The question is cautious, and he knows he is poking a sore spot.
-- 'Do not talk to me about that nightmare.' "Nightmare" in Russian is used for anything awful, not just bad dreams. And "about" is a small word that you've met in "talk about". Barinov wants the subject closed.
-- 'Understood, chef, no more unnecessary words.' Russian says "it is clear" for "understood". And "no unnecessary words" has the "not any" form with the double negative. Senya gets the message, and he stops.
-- 'Bring me one more glass of brine.' "Bring" is a bare command, and "a glass of brine" gets the "of" ending on brine. The glass is the tall kind, not a glass on a stem. Barinov is already in better shape.
-- 'I will quickly bring it now from our kitchen.' Senya says "will bring" with a different ending from the past he used earlier. "Our kitchen" shows the "from" in its ending. He says "quickly" twice, almost.
-- 'And begin preparing lunch for the guests.' This time the chef uses the plural command ending, because he is speaking to the whole kitchen. The word for the midday meal is the same one as in the "lunch hall" of the dining room.
-- 'Everything will be ready on time, chef.' In Russian, "on time" is a single word made of "in" and "time". "Everything" is neuter, so "ready" ends in -o. Senya sounds dutiful, as a cook should.
+- 'Chef, how is your health this morning?' Senya says "vashe", the polite "your", to the boss. "Zdorovye", "health", is also what Russians toast with: "za zdorovye". "Segodnya utrom" is "today in the morning".
+- 'Senya, step back, my head hurts.' Russian says "u menya bolit golova", "at me hurts head", with no "my". "Otoydi" is "step away", and the ot- in front means "away from".
+- 'I brought you cold fresh brine.' Brine from a jar of pickled cucumbers is the classic Russian hangover cure. "Prinyos" is "brought", from "prinesti". And "vam", "to you", is the polite one.
+- 'Oh, Senya, you are a true loyal friend.' Two describing words come before "drug", "friend": "nastoyashchy", "real", and "verny", "faithful". "Verny" is a relative of "vera", "faith".
+- 'Drink a little, it will immediately become much easier.' "Vypeyte" is the polite "drink", with -te, as Senya speaks to the chef. "Legche", "easier", is "legko" in its "more" form, and "gorazdo" is "much".
+- 'This drink helps me very much.' Russian says "pomogaet mne", "helps to me". "Napitok", "drink", is built on "pit", "to drink". Barinov says it like a man giving a review.
+- 'Did Spartak lose an important match again yesterday?' "Vchera" is "yesterday". "Match" is borrowed as "match", with no change. Senya knows he is poking a sore spot.
+- 'Do not talk to me about that nightmare.' "Koshmar", "nightmare", is used for anything awful, not just bad dreams. "Pro" is "about", and it keeps "koshmar" as it is. Barinov wants the subject closed.
+- 'Understood, chef, no more unnecessary words.' "Ponyatno", "it is clear", is the Russian for "understood". "Nikakikh lishnikh slov" is "no extra words": "slovo" becomes "slov" after "no".
+- 'Bring me one more glass of brine.' "Prinesi" is "bring", said to one person. "Stakan rassola" is "glass of brine", with "rassol" becoming "rassola". A "stakan" is a tumbler, not a glass on a stem.
+- 'I will quickly bring it now from our kitchen.' "Prinesu" is "I will bring", and "prinyos" was "brought". "Iz nashey kukhni" is "from our kitchen": after "iz", "kukhnya" becomes "kukhni".
+- 'And begin preparing lunch for the guests.' "Nachinayte" ends in -te, because he is speaking to the whole kitchen. "Obed" is the midday meal, the main one in Russia. "Dlya gostey" is "for the guests".
+- 'Everything will be ready on time, chef.' "Vovremya", "on time", is one word made of "v", "in", and "vremya", "time". "Vsyo", "everything", makes it "gotovo" with -o.

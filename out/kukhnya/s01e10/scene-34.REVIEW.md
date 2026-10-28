@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Сеня | Да брось, она абсолютно чёрная! | Come on, it is completely black! | new | new |
 | 5 | Федя | А вдруг шеф увидит светлые икринки? | What if Chef sees light caviar eggs? | new | new |
 | 6 | Сеня | Никто ничего подозрительного не заметит. | Nobody will notice anything suspicious. | new | new |
-| 7 | Сеня | Если бы икра не была настоящей, | If the caviar were not like real caviar, | #245 00:17:26: Если бы икра не была похожа на настоящую, | verbatim |
+| 7 | Сеня | Если бы икра не была похожа на настоящую, | If the caviar did not look like the real thing, | #245 00:17:26: Если бы икра не была похожа на настоящую, | verbatim |
 | 8 | Сеня | ты бы сам её сейчас не пробовал. | you would not be tasting it yourself right now. | #246 00:17:32: Сеня бы ее не спер. | verbatim |
 | 9 | Федя | Ладно, ладно, ты меня убедил. | All right, all right, you convinced me. | new | new |
 | 10 | Сеня | Тогда зови официанта, пора подавать блюдо. | Then call the waiter, it is time to serve the dish. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, come over here for a second.' "Come up" is the walking-up word. "Here" is the plain one. Fedya calls his friend over, with a worried look.
-- 'What is it, Fedya? Is everything ready?' "What such" is the "what is it" from earlier. The second question has only a rising voice. Senya is relaxed, and he wants to go on.
-- 'I think we did not finish dyeing it.' The prefix "do-" means "to the end", so "finish painting". "It seems to me" is the usual hedge. Fedya has seen something the other missed.
-- 'Come on, it is completely black!' "Drop it" is what Russians say for "come on". "Absolutely" is a strong word. Senya is dismissive. He is also trying to convince himself.
-- 'What if Chef sees light caviar eggs?' "What if" is made of "and suddenly". A single egg is "ikrinka", the caviar with a singular ending. Fedya worries about a few pale eggs.
-- 'Nobody will notice anything suspicious.' "Nothing of suspicious" has the "of" ending. "Suspicious" is built on "suspicion". Senya answers calmly, like a man selling a car.
-- 'If the caviar were not like real caviar,' "If would" is how Russian marks an unreal "if". The little "by" is the same one as in "I would drink". Senya builds an argument.
-- 'you would not be tasting it yourself right now.' The "by" appears again, with "not" and "tasting". Senya's logic is a bit of a trap. He is clever, and also a little ridiculous.
-- 'All right, all right, you convinced me.' "Convinced" is a short word. Repeating "fine" makes it reluctant. Fedya gives in. His doubts are not gone.
-- 'Then call the waiter, it is time to serve the dish.' "Call" is the command for summoning. "It's time" is the one-word sentence from the baking lesson. Senya takes over the service.
-- 'Waiter, take the order for table one!' "Take away" is the one for the dish. "For table one" uses the small word for "for". The cooks now behave like professionals.
-- 'Come on, let us bring the caviar into the hall.' "Bring out" has the prefix for "out". "Into the hall" is the dining room. Senya leads the way. The pike caviar goes to the guests.
+- 'Senya, come over here for a second.' "Podoydi" is "come up", po- plus the walking verb. "Syuda" is "to here". "Na sekundu" is "for a second".
+- 'What is it, Fedya? Is everything ready?' "Chto takoe?" is "what is it?", as in Max's "Chto takoe? Shef zhdyot na kukhne.". "Vsyo gotovo?" has only the rising voice to make it a question.
+- 'I think we did not finish dyeing it.' "Dokrasili" is "krasit" with do-, "to the end": "finished dyeing". With "ne" it means the job is not finished. "Mne kazhetsya" is "it seems to me".
+- 'Come on, it is completely black!' "Da bros" is "oh, drop it", the Russian for "come on". "Absolyutno" is "absolutely", easy to recognise. Senya waves the worry away.
+- 'What if Chef sees light caviar eggs?' "A vdrug" is "and suddenly", the Russian for "what if". One caviar egg is "ikrinka", from "ikra". "Svetlye" is "light".
+- 'Nobody will notice anything suspicious.' "Nikto nichego ne zametit": three negatives again. "Podozritelnogo" is "suspicious", from the same root as Fedya's "zapodozrili", "suspected".
+- 'If the caviar did not look like the real thing,' "Esli by" is the unreal "if": the little "by" says "this isn't the case". "Pokhozha na nastoyashchuyu" is "similar to the real one".
+- 'you would not be tasting it yourself right now.' The "by" comes again: "ty by ne proboval", "you would not be tasting". "Sam" is "yourself". Senya's argument is that Fedya is eating it.
+- 'All right, all right, you convinced me.' "Ubedil" is "convinced". Saying "ladno" twice makes it reluctant. Fedya gives in.
+- 'Then call the waiter, it is time to serve the dish.' "Zovi" is "call", to summon someone. "Pora" is "it's time", as in Louis's "Uzhe pora dobavlyat yaytsa". "Podavat" is "to serve".
+- 'Waiter, take the order for table one!' "Zabiray" is "take it away", as in Barinov's "mozhesh zabirat blyudo". "Na pervy stol" is "for the first table".
+- 'Come on, let us bring the caviar into the hall.' "Vynosim" is "we carry out", with vy-, "out". "V zal" is "into the hall", the dining room, as in Lyova's "Gosti v zale". The caviar goes to the guests.

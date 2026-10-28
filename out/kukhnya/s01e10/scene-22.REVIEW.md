@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Шеф | Для нашего ресторана подходит только лучший выбор. | Only the highest grade is suitable for our restaurant. | #169 00:11:36: самая свежая икра | verbatim |
 | 7 | Тимур | Это самая свежая икра во всей Москве. | This is the freshest caviar in all of Moscow. | #169 00:11:36: самая свежая икра, которая в Москве | verbatim |
 | 8 | Шеф | Такой продукт требует строгого контроля качества. | Such a product requires strict quality control. | #170 00:11:39: которую потребляют на завтрак | verbatim |
-| 9 | Тимур | Чиновники утром едят вчерашнюю икру хуже. | Officials eat yesterday's inferior caviar in the morning. | #170 00:11:39: и то вчерашняя | verbatim |
+| 9 | Тимур | Даже чиновники на завтрак едят вчерашнюю икру. | Even officials eat yesterday's caviar for breakfast. | #170 00:11:39: и то вчерашняя | verbatim |
 | 10 | Шеф | Тогда давай быстро проверим её вкус. | Then let's quickly check its taste. | #171 00:11:43: На, попробуй | verbatim |
 | 11 | Тимур | На, возьми ложку и попробуй сам. | Here, take a spoon and try it yourself. | #171 00:11:43: На, попробуй | verbatim |
 | 12 | Шеф | Сейчас я сразу оценю твой дорогой товар. | Now I will immediately evaluate your expensive goods. | #171 00:11:43: попробуй | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, here is everything, just as we agreed.' Timur says "as we agreed", built on a word that means "reach an agreement", with the -sya. It is a businessman's greeting. He has delivered, and he wants that noticed.
-- 'Did you bring the complete order of black caviar?' "Of black caviar" has the "of" ending on both words. The chef checks the delivery like a customs officer. He says "ty" to the supplier, as old business partners do.
-- 'Here are exactly five kilograms of prime caviar.' "Exactly" is what you heard in the bet, and it also means "level". In speech, "kilogram" often loses its ending after a number. Timur is quick and precise.
-- 'Are you definitely sure that it is fresh?' Caviar is a feminine word, so "it" is "she" in Russian, and the describing word is feminine too. Barinov asks, though he knows what the answer will be. He has been burned before.
-- 'You offend me with such strange questions, dear brother!' "Offend" is the word that gave "don't be offended". Russian men call each other "brother" when they're being warm or sly. Timur is theatrical about it.
-- 'Only the highest grade is suitable for our restaurant.' What Russian calls "suitable" is "approaches", the walking-up word used earlier. Things that come up to a standard are "suitable". Barinov plays the fussy chef.
-- 'This is the freshest caviar in all of Moscow.' "The most fresh" gives the superlative, with the "most" word before the describing word. "In all Moscow" has "all" in the ending form. Timur's sales talk is the same in any language.
-- 'Such a product requires strict quality control.' "Requires" is what the pastry chef used for patience. "Quality" gives "of quality", and "control" is borrowed. Barinov is acting. He wants to taste it.
-- 'Officials eat yesterday's inferior caviar in the morning.' "Yesterday's" grows out of "yesterday". "Worse" is what Barinov used on the stove. Timur says that even the powerful get second-rate caviar. His claim is bold.
-- 'Then let's quickly check its taste.' "Check" is the one used for the banquet. "Taste" is the base of the word for "tasty". Barinov wants to try it, and it is perhaps the one honest thing he does in the scene.
-- 'Here, take a spoon and try it yourself.' "Na" here means "here you go", not "on". It's the Russian for handing something over. "Try" means tasting. Timur gives him the spoon, and it will cost three hundred rubles.
-- 'Now I will immediately evaluate your expensive goods.' "Evaluate" echoes "at how much did you value my work". "Expensive" is the "dear" word. Barinov plays the expert, with a spoon in his hand.
+- 'Chef, here is everything, just as we agreed.' "Kak my dogovorilis" is "as we agreed", from "dogovoritsya", "to come to an agreement", with -s on the end. "Vot vsyo" is "here's everything". Timur has delivered.
+- 'Did you bring the complete order of black caviar?' "Chyornoy ikry", "of black caviar", changes both words: "chyornaya ikra" becomes "chyornoy ikry". "Prinyos" is "you brought". Barinov says "ty" to the supplier.
+- 'Here are exactly five kilograms of prime caviar.' "Rovno", "exactly", is the word from Barinov's bet, "rovno sto tysyach". In speech, "pyat kilogramm" often drops the ending of "kilogrammov". "Samoy luchshey" is "the very best".
+- 'Are you definitely sure that it is fresh?' "Ikra" is feminine, so "it" is "ona", "she", and "fresh" is "svezhaya". "Tochno uveren" is "definitely sure", with "uveren" for a man.
+- 'You offend me with such strange questions, dear brother!' "Obizhaesh", "you offend", comes back from Max's "ne obizhaysya", "don't be offended". On its own it's a common way to say "you insult me". Men call each other "brat", "brother", to be friendly.
+- 'Only the highest grade is suitable for our restaurant.' "Podkhodit", literally "comes up to", is "suits" or "fits". "Dlya nashego restorana" is "for our restaurant": "restoran" becomes "restorana" after "dlya". "Vybor" is "choice".
+- 'This is the freshest caviar in all of Moscow.' "Samaya svezhaya", "the most fresh", is how you say "the freshest". "Vo vsey Moskve" is "in all of Moscow": "vsya Moskva" becomes "vsey Moskve" after "vo".
+- 'Such a product requires strict quality control.' "Trebuet", "requires", is the verb Louis used for patience. "Kontrolya kachestva", "control of quality", has two words in the "of" form. "Kontrol" is borrowed.
+- 'Even officials eat yesterday's caviar for breakfast.' "Vcherashnyuyu", "yesterday's", is built on "vchera", "yesterday". "Na zavtrak" is "for breakfast". "Dazhe chinovniki" is "even officials". Timur is boasting that his caviar is fresher than theirs.
+- 'Then let's quickly check its taste.' "Proverim", "let's check", is also in Barinov's "proveryu rabotu", "I'll check the work". "Vkus", "taste", is the root of "vkusny", "tasty". "Davay" makes it "let's".
+- 'Here, take a spoon and try it yourself.' "Na" here means "here you go", not "on". It's what you say when handing something over. "Poprobuy" is "try", and with food it means "taste". "Lozhku" is "a spoon".
+- 'Now I will immediately evaluate your expensive goods.' "Otsenyu", "I'll evaluate", is the verb in Barinov's "vo skolko vy otsenili", "at how much did you value". "Dorogoy" means both "expensive" and "dear". "Tovar" is "goods".

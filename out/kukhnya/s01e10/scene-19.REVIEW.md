@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is simply some kind of real holiday!' The "-to" at the end of "which" makes it "some kind of". The term for "holiday" is the one in "festive cake". Barinov talks like a man who has won, and he has not.
-- 'Chef, why are you smiling so joyfully?' "Smile" has the -sya, "smile at yourself". "Joyfully" comes from "joy", close to the "glad" of Vika. Lyova is polite, and he is puzzled.
-- 'Everything is turning out even better than our plans.' Russian says "better of our plans", with an "of" ending in place of "than". "Folds itself" is how a plan comes together. Barinov is in a boastful mood.
-- 'Have you already solved the problem with the stove?' "Solved" is the same as "decided", one word for both. The "problem" is a borrowed word. Lyova asks, hoping for the first piece of good news.
-- 'The stove will return to the kitchen on time, Lyova.' "Will return" has the -sya, "come back". "On time" is one word. Barinov promises again, but this time to a gentler audience.
-- 'Do not say later that I do not listen.' "Listen" here means to hear someone and do as they say. It's the same word as in "I am listening to you". Barinov says it to nobody in particular.
-- 'I am simply worried about the evening service.' "Worry" is a "live through" word, and it takes the little word for "for". "Service" is borrowed. Lyova worries, as a good sous-chef should.
-- 'Tonight our restaurant will make a fortune.' "Will earn" is a short future. What Russian calls "fortune" is also the word for "state" or "condition". Barinov is full of himself, and the walls are listening.
-- 'All right, chef, I will get back to work.' "Return to work" uses the small word for "to". Lyova gives up trying to understand his boss. It's the most sensible thing he does all day.
-- 'Go and supervise the hot kitchen section.' "Keep an eye on" is the sense of the word. "Section" is the workshop, and "hot" is the cooking part. Barinov gives a real order at last.
-- 'I will do everything in the best way, chef.' "In the best form" is the idiom for "to the best of my ability". "Form" echoes "pretend". Lyova repeats his boss's confidence, in a lower voice.
-- 'Now that is the right and cheerful attitude.' "Right" and "cheerful" are both describing words, and "attitude" is a mood. Barinov praises Lyova's spirit. It is the first compliment he has paid all day.
+- 'This is simply some kind of real holiday!' "Prazdnik kakoy-to" is "some kind of holiday": the -to on "kakoy" makes it vague. "Prazdnik" is the root of "prazdnichny tort", the celebration cake. Barinov is very pleased with himself.
+- 'Chef, why are you smiling so joyfully?' "Ulybaetes" is "you are smiling", polite form, with -s on the end. "Radostno", "joyfully", comes from "radost", "joy", the family of Vika's "rada", "glad". Lyova is polite and puzzled.
+- 'Everything is turning out even better than our plans.' "Luchshe nashikh planov" is "better than our plans" with no word for "than": "plany" just changes to "planov". "Vsyo skladyvaetsya", literally "everything folds together", means things are working out.
+- 'Have you already solved the problem with the stove?' "Reshili" is "solved", and the same verb "reshit" also means "decide". "S plitoy" is "with the stove": "plita" becomes "plitoy" after "s". Lyova wants to hear about the stove.
+- 'The stove will return to the kitchen on time, Lyova.' "Vernyotsya" is "will come back", with -sya on the end. "Vovremya", "on time", is written as one word. "Na kukhnyu" is "to the kitchen": "kukhnya" changes to "kukhnyu".
+- 'Do not say later that I do not listen.' "Ne govori potom" is "don't say later". "Slushayu" is "I listen", the same word as in "ya slushayu", "I'm listening". Here it means listening and doing what you're told.
+- 'I am simply worried about the evening service.' "Perezhivayu za" is "I'm worried about": the verb "perezhivat" takes "za". "Vecherny", "evening", comes from "vecher". "Servis" is borrowed and easy to catch.
+- 'Tonight our restaurant will make a fortune.' "Zarabotaet" is "will earn", from "rabota", "work". "Sostoyanie" means "a fortune" here, and it also means "state" or "condition". "Segodnya vecherom" is "this evening".
+- 'All right, chef, I will get back to work.' "Ladno" is the easy "all right". "Vernus k rabote" is "I'll return to work": after "k", "rabota" becomes "rabote". Lyova goes back to work.
+- 'Go and supervise the hot kitchen section.' "Prosledi za" is "keep an eye on". "Tsekh" is a workshop, and "goryachiy tsekh", "hot workshop", is the part of the kitchen where the cooking happens. "Idi" is "go", to one person.
+- 'I will do everything in the best way, chef.' "V luchshem vide", "in the best form", is the set phrase for "perfectly". "Sdelayu" is "I will do", the future of "sdelat". "Vsyo" is "everything".
+- 'Now that is the right and cheerful attitude.' "Vot eto" is "now that's", for pointing something out. "Pravilny" is "right", and "bodry" is "cheerful, full of energy". "Nastroy" is a mood or attitude. Barinov approves.

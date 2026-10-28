@@ -17,25 +17,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Шеф | Я знаю этого человека целых двадцать лет. | I have known this man for a whole twenty years. | #288 00:20:33: Я же вас 20 лет знаю | verbatim |
 | 6 | Сеня | Он ждёт вас прямо сейчас возле зала. | He is waiting for you right now near the hall. | #290 00:20:39: Шеф | verbatim |
 | 7 | Шеф | Наша команда ведёт в счёте два ноль! | Our team is leading in the score two-nil! | #292 00:20:46: Следи за счетом | verbatim |
-| 8 | Сеня | Я обещаю внимательно следить за футбольным счётом. | I promise to attentively watch the football score. | #292 00:20:46: Следи за счетом | verbatim |
+| 8 | Сеня | Я обещаю внимательно следить за счётом. | I promise to watch the score carefully. | #292 00:20:46: Следи за счетом | verbatim |
 | 9 | Шеф | Если наша команда проиграет, я накажу тебя! | If our team loses, I will punish you! | #292 00:20:46: Следи за счетом | verbatim |
 | 10 | Сеня | Шеф, я не отойду от экрана телевизора. | Chef, I will not step away from the TV screen. | #292 00:20:46: Следи за счетом | verbatim |
-| 11 | Шеф | Ладно, я пойду и выслушаю Дмитрия Нагиева. | Fine, I will go and listen to Dmitry Nagiyev. | #290 00:20:39: Шеф | verbatim |
-| 12 | Сеня | Удачи вам в разговоре с нашим хозяином! | Good luck to you in the talk with our master! | #289 00:20:37: Дмитрий Владимирович | verbatim |
+| 11 | Шеф | Ладно, я пойду и выслушаю Дмитрия Владимировича. | Fine, I will go and hear Dmitry Vladimirovich out. | #290 00:20:39: Шеф | verbatim |
+| 12 | Сеня | Удачи вам в разговоре с хозяином! | Good luck in your talk with the owner! | #289 00:20:37: Дмитрий Владимирович | verbatim |
 | 13 | Шеф | Смотри в оба и внимательно следи за счётом! | Keep your eyes peeled and attentively watch the score! | #292 00:20:46: Следи за счетом | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, don't disturb me watching football!' "Meshat" is a word with two meanings that share one spelling: to stir, as with the cream, and to disturb, as here. Context tells you which. Barinov is irritated.
-- 'Chef, Dmitry Vladimirovich is urgently calling you!' "Calls" is the "summon" word. Senya uses the full name and father's name, with respect. He knows he is going to be shouted at.
-- 'Why does the owner call at this exact moment?' "Owner" recalls "master of the kitchen". "Exactly" is "imenno". Barinov complains to the air, like a man whose luck is out.
-- 'He said that this is a very urgent matter.' "Said" is the male past. "Urgent matter" is the pair you have heard from Max. Senya passes on the message and hopes to be done.
-- 'I have known this man for a whole twenty years.' Russian uses the present: "I know him twenty years". After a number like twenty, "years" is "let". Barinov sounds weary, as he has had years of this.
-- 'He is waiting for you right now near the hall.' "Waits you" has no "for". "Near the hall" is "vozle zala". Senya repeats the message. He knows how easily Barinov forgets.
-- 'Our team is leading in the score two-nil!' "Leads" stands for "leads", as in "behaves". "Score" is a word that also means "count" and "bill". Barinov is pleased, and so he is generous.
-- 'I promise to attentively watch the football score.' "Watch" was used in the stove scene when the chef told Lyova to supervise. "Promise" is the banquet word. Senya reassures him.
-- 'If our team loses, I will punish you!' "Loses" is back from the first scene, about the father who lost the money. "Will punish" is a short future. Barinov threatens, as he does with everyone.
-- 'Chef, I will not step away from the TV screen.' "Step away" is the one the chef used for "step back". "From the screen" is the ending for "from". Senya swears to guard the screen.
-- 'Fine, I will go and listen to Dmitry Nagiyev.' "Listen to the end" is how the "vy-" prefix works, so "hear out". Barinov gives in, though he hates it. The football will have to wait.
-- 'Good luck to you in the talk with our master!' Wishes in Russian take the "of" ending, so it is "of luck to you". "Master" is the owner. Senya's good wishes are sincere, and he guesses it won't help.
-- 'Keep your eyes peeled and attentively watch the score!' "Look into both" means keep both eyes open. "Watch" is the one again. Barinov leaves with a final order. He is still thinking of the match.
+- 'Senya, don't disturb me watching football!' "Meshat" means both "to stir", as in Louis's "Meshay ravnomerno", and "to disturb", as here. "Ne meshay mne" is "don't disturb me". "Smotret futbol" is "to watch football".
+- 'Chef, Dmitry Vladimirovich is urgently calling you!' "Zovyot" is "calls", to summon someone, from "zvat", the verb of Senya's "zovi ofitsianta". Senya uses the owner's first name and father's name.
+- 'Why does the owner call at this exact moment?' "Khozyain" is "owner" or "master", heard in Vika's "nastoyashchiy khozyain kukhni". "Imenno v etot moment" is "exactly at this moment". Barinov is annoyed.
+- 'He said that this is a very urgent matter.' "Srochnoe delo" is "urgent matter", the words Max used to escape from Vika: "Vika, eto ochen srochnoe delo!". "Skazal" is "he said".
+- 'I have known this man for a whole twenty years.' Barinov says "Ya znayu", "I know": twenty years and still counting. After "dvadtsat", "years" is "let". "Tselykh" is "whole", for emphasis.
+- 'He is waiting for you right now near the hall.' "Zhdyot vas" is "waits you", with no word for "for". "Vozle zala" is "near the hall". "Pryamo seychas" is "right now".
+- 'Our team is leading in the score two-nil!' "Vedyot v schyote" is "leads in the score"; "vesti", "to lead", is also the verb in "vesti sebya", "to behave". "Dva nol" is "two-nil".
+- 'I promise to watch the score carefully.' "Sledit za" is "to keep an eye on", the verb in Barinov's "Idi i prosledi za goryachim tsekhom". "Obeshchayu" is "I promise", as in Louis's "Obeshchayu, tort budet idealnym".
+- 'If our team loses, I will punish you!' "Proigraet" is "loses", the word from the first scene: "Papa opyat proigral vse nashi dengi". "Nakazhu" is "I will punish".
+- 'Chef, I will not step away from the TV screen.' "Otoydu" is "I will step away", as in Barinov's "Senya, otoydi". "Ot ekrana" is "from the screen": "ekran" gets -a after "ot".
+- 'Fine, I will go and hear Dmitry Vladimirovich out.' "Vyslushayu" is "I will hear out": vy- on "slushat" means "to the end". After it, "Dmitry Vladimirovich" becomes "Dmitriya Vladimirovicha". The football will have to wait.
+- 'Good luck in your talk with the owner!' "Udachi vam" is literally "of luck to you", the way Russian wishes are built. "S khozyainom" is "with the owner", the same "khozyain" as before.
+- 'Keep your eyes peeled and attentively watch the score!' "Smotri v oba" is "look into both", meaning both eyes open. "Sledi za schyotom" repeats Senya's promise as an order.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, have you finished preparing the drinks?' The "finished" word is the one Max used for the cream. "Drinks" grows from the word for "to drink". Vika starts with a work question, so as not to scare him.
-- 'Yes, all orders are already ready.' In Russian, "ready" takes a plural ending to match the orders. "Order" is the same word as the chef's orders. Kostya answers fast, perhaps too fast.
-- 'Why did Max run away from here so quickly?' "Ran away" has the u- of "away". Russian for "from here" is a single word, one of a little trio with "here" and "to here". Vika has seen it all.
-- 'He was simply in a big hurry to get to the kitchen.' The word "hurried" is a simple one. "To the kitchen" has an ending for going toward it. Kostya makes up an excuse, and it sounds more like a lie than the truth.
-- 'It seems to me that he is behaving strangely.' "To me it seems" is the pattern you've heard. And "behaves" is "leads himself", the same as in the dining room scene. Vika is polite, and she is already suspicious.
-- 'Max is always a slightly strange guy.' The term for "guy" is casual, the way English says "bloke". Kostya tries to turn the oddness into a fact about Max. It's a defence that sounds like a joke.
-- 'Did he not say anything to you about me?' "About me" is a bit of a mouthful, with a vowel added to make "o" into "obo". Russian does this to make a hard cluster easier to say. Vika has a pretty good guess.
-- 'We spoke only about our work.' "Only" is the small word from the pastry bench. "About our work" has the "about" ending. Kostya sounds like a witness who has rehearsed his statement.
-- 'Are you definitely telling me the pure truth?' Russian says "clean truth" for the plain truth. What Russian calls truth is the base of "untrue" from the cake scene. Vika presses, and Kostya squirms.
-- 'Of course, I never deceive you.' "Never" and "not" both appear, as the double negative requires. The word for "deceive" is a strong one. Kostya says it with great solemnity, and the lie is plain.
-- 'Fine, then I will ask him myself.' Russian has two words for "ask". One is for asking a question, as here, and the other is for asking for something, as with the message to say goodbye. Vika uses the question one.
-- 'It is better not to disturb him right now, Vika.' "Not to touch him" is the Russian way to say "leave him alone". "Better" is the one you've heard. Kostya gives a last, feeble piece of advice, and Vika ignores it.
+- 'Kostya, have you finished preparing the drinks?' "Zakonchil", "finished", is the word Max used for whipping the cream. "Napitki", "drinks", grows from "pit", "to drink". Vika starts with a work question.
+- 'Yes, all orders are already ready.' "Gotovy", "ready", has the plural -y to match "zakazy", "orders". "Zakaz" is a restaurant order, not a command. Kostya answers fast, perhaps too fast.
+- 'Why did Max run away from here so quickly?' "Ubezhal" is "ran away", with the u- of "away". "Otsyuda", "from here", is one word, one of a trio with "zdes", "here", and "syuda", "to here".
+- 'He was simply in a big hurry to get to the kitchen.' "Speshil" is "was hurrying". "Na kukhnyu" is "to the kitchen": "kukhnya" becomes "kukhnyu" when you're heading there. Kostya's excuse sounds more like a lie than the truth.
+- 'It seems to me that he is behaving strangely.' "Mne kazhetsya", "to me it seems", is the pattern you've heard. "Sebya vedyot" is "leads himself", the behave word from the dining room scene. "Stranno" is "strangely".
+- 'Max is always a slightly strange guy.' "Paren", "guy", is casual, the way English says "bloke". "Strannyy" is "strange", and "nemnogo" is "a bit". Kostya tries to turn the oddness into a fact about Max.
+- 'Did he not say anything to you about me?' "Obo mne" is "about me": "o" grows to "obo" before "mne", to make the cluster easier to say. "Nichego ne govoril" is "nothing not said". Vika has a pretty good guess.
+- 'We spoke only about our work.' "Tolko" is "only". "O nashey rabote" is "about our work": after "o", "rabota" becomes "rabote". Kostya sounds like a witness who has rehearsed his statement.
+- 'Are you definitely telling me the pure truth?' Russian says "chistaya pravda", "clean truth", for the plain truth. "Pravda" is the base of "nepravda", "not true", from the chocolate scene. Vika presses.
+- 'Of course, I never deceive you.' "Nikogda ... ne", "never not", is the double negative Russian requires. "Obmanyvayu" is "I deceive", a strong word. Kostya says it solemnly, and the lie is plain.
+- 'Fine, then I will ask him myself.' Russian has two words for "ask". "Sprosit" is to ask a question, as here; "prosit" is to ask for something, as in "prosila peredat". "Sama" is "myself" for a woman.
+- 'It is better not to disturb him right now, Vika.' "Ne trogat ego", "not to touch him", is the Russian for "leave him alone". "Luchshe" is "better". Kostya gives a last, feeble piece of advice.

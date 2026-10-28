@@ -16,9 +16,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Шеф | Отлично, ставь эту коробку на стол. | Excellent, put this box on the table. | new | new |
 | 5 | Сеня | Коробка оказалась очень тяжёлой. | The box turned out to be very heavy. | new | new |
 | 6 | Шеф | Главное, чтобы товар был свежим. | The main thing is that the goods are fresh. | new | new |
-| 7 | Сеня | Я выбрал самый лучший свежий товар. | I chose the very best fresh goods. | new | new |
-| 8 | Шеф | Наш ресторан не может ждать долго. | Our restaurant cannot wait long. | new | new |
-| 9 | Сеня | Я выполнил всё быстро и вовремя. | I completed everything quickly and on time. | new | new |
+| 7 | Сеня | Я выбрал самую свежую икру. | I chose the freshest caviar. | new | new |
+| 8 | Шеф | Гости не могут ждать долго. | The guests cannot wait long. | new | new |
+| 9 | Сеня | Я всё сделал быстро и вовремя. | I did everything quickly and on time. | new | new |
 | 10 | Шеф | Надеюсь, этот секрет останется между нами. | I hope this secret remains between us. | new | new |
 | 11 | Сеня | Конечно, шеф, я умею молчать. | Of course, chef, I know how to keep silent. | new | new |
 | 12 | Шеф | Сейчас мы откроем и проверим товар. | Now we will open and inspect the goods. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I brought you the secret order.' "Secret" is easy to spot. "Brought you" has the polite "you" inside. Senya whispers, though no one is nearby. He has the manner of a spy.
-- 'Did you check that no one saw you?' "Nobody not saw" carries two negatives, and it's correct. "Check" reappears from the banquet. Barinov is careful, as a conspirator should be.
-- 'In the corridor it was completely empty.' "It was empty" is a past with no subject. It is the past of "is". The corridor is quiet, and Senya says so with a straight face.
-- 'Excellent, put this box on the table.' "Put" here means to set something upright, the same word as for the bet. "Box" has the ending for the thing being put. Barinov is calm and brisk.
-- 'The box turned out to be very heavy.' "Turned out" has the -sya. After it, the describing word takes a special ending, "heavy-ly". Senya reports it with a grunt. Five kilos is a lot of caviar.
-- 'The main thing is that the goods are fresh.' "The main thing is that" starts with the word you've heard from Louis. After "that", "were" is in a past form, though the meaning is present. Barinov is practical.
-- 'I chose the very best fresh goods.' "Chose" is the past of "choose". "The best" recalls "better". Senya boasts about the pike, though the chef knows better.
-- 'Our restaurant cannot wait long.' "Cannot" and "wait" are two short words. "Long" is the adverb. Barinov is nervous about the time, since the guests are on the way.
-- 'I completed everything quickly and on time.' "Carried out" is a business word, and "on time" is one word. Senya uses the language of a report. It's a boast with a hint of nerves.
-- 'I hope this secret remains between us.' "Between us" has the "by means of" ending on "us". "Will remain" has a short future. Barinov tells Senya that discretion is his job.
-- 'Of course, chef, I know how to keep silent.' "I know how to" is the skill word. "Be silent" is the barked command from the silence scene. Senya swears he can do it.
-- 'Now we will open and inspect the goods.' "Open" is the word under "discovery", which is an "opening". "Inspect" is the "check" word. Barinov is eager. He is going to see the pike.
-- 'You will be very pleased with the purchase.' "Pleased" belongs to the banquet guests. After it, "purchase" takes the "with" ending. Senya is confident, and perhaps too confident.
+- 'Chef, I brought you the secret order.' "Sekretny zakaz" is "secret order", and both words are easy to catch. "Prinyos" is "I brought", from "prinesti". "Vam" is the polite "to you".
+- 'Did you check that no one saw you?' "Nikto ne videl", "nobody didn't see", has two negatives, and that's correct Russian. "Proveril", "checked", is the verb in Barinov's "proveryu rabotu", "I'll check the work".
+- 'In the corridor it was completely empty.' "Bylo pusto", "it was empty", has no subject at all. "Bylo" is the past of "est", with -o. "V koridore" is "in the corridor", from "koridor".
+- 'Excellent, put this box on the table.' "Stav", "put", is the verb from the bet, "stavlyu", "I bet". "Etu korobku" is "this box": "korobka" becomes "korobku". "Na stol" is "onto the table".
+- 'The box turned out to be very heavy.' "Okazalas", "turned out", ends in -s. After it, "tyazhyolaya", "heavy", changes to "tyazhyoloy". "Korobka" is "box".
+- 'The main thing is that the goods are fresh.' "Glavnoe, chtoby" is "the main thing is that", the start of Barinov's own "glavnoe, chtoby vse gosti byli dovolny". After "chtoby", "byl" is a past form, though the meaning is present.
+- 'I chose the freshest caviar.' "Vybral" is "I chose", from "vybrat". "Samuyu svezhuyu" is "the freshest", both words with -uyu to match "ikru", "caviar".
+- 'The guests cannot wait long.' "Gosti" is "guests", the plural of "gost". "Ne mogut zhdat" is "can't wait". "Dolgo" is "for a long time".
+- 'I did everything quickly and on time.' "Vsyo sdelal" is "did everything", from "sdelat". "Vovremya", "on time", is one word. "Bystro" is "quickly".
+- 'I hope this secret remains between us.' "Mezhdu nami" is "between us": "my" becomes "nami" after "mezhdu". "Ostanetsya" is "will remain". "Nadeyus" is "I hope".
+- 'Of course, chef, I know how to keep silent.' "Umeyu" is "I know how to", for a skill. "Molchat", "to keep silent", is what Barinov barked at the cooks, "Molchat!". "Konechno" is "of course".
+- 'Now we will open and inspect the goods.' "Otkroem" is "we'll open", from "otkryt", and "otkrytie", "discovery", comes from the same verb. "Proverim" is "we'll check". "Tovar" is "goods".
+- 'You will be very pleased with the purchase.' "Dovolny", "pleased", is how the banquet guests were described, "vse gosti dovolny". After it, "pokupka" changes to "pokupkoy", "with the purchase".

@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Мы подадим официальное заявление в загс? | Will we submit an official application to the registry office? | #276 00:19:32: подадим заявление | verbatim |
+| 1 | Макс | Мы подадим заявление в загс? | Shall we apply at the registry office? | #276 00:19:32: подадим заявление | verbatim |
 | 2 | Вика | Таня, у тебя есть знакомые в загсе? | Tanya, do you have acquaintances at the registry office? | #277 00:19:35: Тань, у тебя есть кто-нибудь | verbatim |
-| 3 | Макс | Пожалуйста, помоги нам расписаться как можно быстрее. | Please help us sign the register as fast as possible. | #278 00:19:37: побыстрее расписать | verbatim |
+| 3 | Макс | Пожалуйста, помогите нам расписаться как можно быстрее. | Please help us get married as fast as possible. | #278 00:19:37: побыстрее расписать | verbatim |
 | 4 | Вика | Давайте расскажем эту новость всем гостям ресторана! | Let's tell this news to all the guests of the restaurant! | #280 00:19:42: давайте скажем всем<br>#281 00:19:49: Обрадуем | verbatim |
-| 5 | Макс | Подожди, кажется, я немножко поторопился сейчас. | Wait, it seems I jumped the gun a little now. | #281 00:19:49: Подожди<br>#283 00:19:54: А я с предложением | verbatim |
-| 6 | Вика | Честно говоря, я тоже слишком поторопилась с ответом. | To be honest, I also rushed with the answer too much. | #282 00:19:52: немножко поторопилась с ответом | verbatim |
+| 5 | Макс | Подожди, кажется, я немножко поторопился. | Wait, it seems I rushed a little. | #281 00:19:49: Подожди<br>#283 00:19:54: А я с предложением | verbatim |
+| 6 | Вика | Честно говоря, я тоже поторопилась с ответом. | To be honest, I also rushed with my answer. | #282 00:19:52: немножко поторопилась с ответом | verbatim |
 | 7 | Макс | Значит, нам обоим нужно хорошенько подумать. | So, both of us need to think carefully. | #283 00:19:54: Мы немножко подумаем | verbatim |
 | 8 | Вика | Да, нам лучше немного подождать со свадьбой. | Yes, it is better for us to wait a little with the wedding. | #284 00:19:56: Да, мы подумаем | verbatim |
 | 9 | Макс | Шеф, вы поможете нам спокойно разобраться? | Chef, will you help us sort this out calmly? | #285 00:19:58: разбирайтесь сами | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will we submit an official application to the registry office?' "Zags" is an acronym from the Soviet years for the civil registry office, and Russians still say it. "Submit" equals "serve". Max is practical, as people are in a panic.
-- 'Tanya, do you have acquaintances at the registry office?' "Acquaintances" grows from "get acquainted". Vika gets her sister involved. Her words are casual, but the plan is serious.
-- 'Please help us sign the register as fast as possible.' "Sign" in this sense means to get married officially. "As possible" uses "can", so "as quickly as can be". Max sounds anxious.
-- 'Let's tell this news to all the guests of the restaurant!' "Let's tell" is a polite "let's". "To all the guests" has the ending for "to". Vika is half joking. She wants Max to panic.
-- 'Wait, it seems I jumped the gun a little now.' "Hurried" is the word related to "in a hurry". "Slightly" is a small word. Max has had time to think, and the thinking is not kind.
-- 'To be honest, I also rushed with the answer too much.' "Honestly speaking" is a fixed phrase. "Rushed" has the woman's -las. Vika is as nervous as he is, and she is the first to say so.
-- 'So, both of us need to think carefully.' "Both" has the "to" ending: "to both it is necessary". "Thoroughly" is a gentler form of "well". They are being sensible at last.
-- 'Yes, it is better for us to wait a little with the wedding.' "For us better" is the usual pattern. "With the wedding" has the "with" ending. Vika agrees, and both of them relax.
-- 'Chef, will you help us sort this out calmly?' "Sort out" is the word that Barinov used for solving the stove problem. "Will help" is in the polite form. Max asks, and the chef is busy.
-- 'The chef doesn't want to listen to our family arguments.' "Family" is an adjective here. A "spor" is a dispute and also a bet, both in one word. Max speaks about Barinov, who is nowhere near.
-- 'Viktor has an important football match starting now.' "At Viktor" is Russian for "Viktor has". "Starts" is the -sya word, "begins itself". Vika knows what is on the chef's mind.
-- 'Then we will sort everything out ourselves later.' "Ourselves" is the word "sami". "Sort out everything" shows "in everything" in its ending. Max puts off the problem.
-- 'Go work, the wedding will definitely wait for now!' "Go work" has no "and" in Russian, just two words. "For now" means "while". Vika ends the scene as a manager would.
+- 'Shall we apply at the registry office?' "ZAGS" is an old abbreviation for the civil registry office, and Russians still say it. "Podadim zayavlenie" is "we will hand in an application"; "podat" is the verb of Senya's "pora podavat blyudo".
+- 'Tanya, do you have acquaintances at the registry office?' "Znakomye", "acquaintances", comes from Max's "davayte znakomitsya". "U tebya est" is "at you there are", "you have". Vika turns to her sister.
+- 'Please help us get married as fast as possible.' "Raspisatsya", literally "sign each other", means to register a marriage. "Kak mozhno bystree" is "as fast as can be". "Pomogite" is the polite "help".
+- 'Let's tell this news to all the guests of the restaurant!' "Davayte rasskazhem" is "let's tell", with the same "rasskazat" as Tanya's complaint. "Vsem gostyam" is "to all the guests". Vika raises the stakes.
+- 'Wait, it seems I rushed a little.' "Potoropilsya" is "I rushed", with -sya. "Nemnozhko" is "a little bit", a softer "nemnogo". "Kazhetsya" is "it seems". Max starts to back away.
+- 'To be honest, I also rushed with my answer.' "Chestno govorya" is "honestly speaking", a fixed phrase. "Potoropilas" has the -las for a woman. "S otvetom" is "with the answer". Vika backs away too.
+- 'So, both of us need to think carefully.' "Nam oboim nuzhno" is "to us both it is needed". "Khoroshenko" is a homely form of "khorosho", "well", meaning "properly". "Podumat" is "to think it over".
+- 'Yes, it is better for us to wait a little with the wedding.' For "it is better for us", Russian says "nam luchshe", "to us better". "So svadboy" is "with the wedding": "svadba" becomes "svadboy". "Podozhdat" is "to wait a while".
+- 'Chef, will you help us sort this out calmly?' "Razobratsya" is "to sort out", from Barinov's "Ne nado nikomu zvonit, ya razberus" about the stove. "Pomozhete" is "will you help", polite.
+- 'The chef doesn't want to listen to our family arguments.' "Semeynye" is "family" as an adjective, from "semya". "Spory" are "arguments". Barinov has no time for them.
+- 'Viktor has an important football match starting now.' "U Viktora" is "at Viktor", the Russian for "Viktor has". "Nachinaetsya" is "begins", with -sya. "Futbolny match" is easy to hear.
+- 'Then we will sort everything out ourselves later.' The word "sami", "ourselves", puts the job back on the two of them. "Vo vsyom razberyomsya" is "in everything we will sort ourselves out", the same verb as before. "Pozzhe" is "later".
+- 'Go work, the wedding will definitely wait for now!' "Idi rabotay" is "go work", two commands with no "and". "Poka" here means "for now", the same word as "bye". "Podozhdyot" is "will wait".

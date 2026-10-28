@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not look at me like that.' "No need" works here as "don't". Russian can say it with the bare dictionary form, "not necessary to look". Barinov speaks to an audience of one: himself, or the camera.
-- 'Now money is more important than any silly principles.' "Any" is a word that means any at all. "Than principles" has the "of" form, with no "than" word. Barinov is dressing up greed as realism, and he enjoys it.
-- 'With these winnings I will buy food.' What Russian calls "winnings" is made from "play" with a prefix, and "lose" was the same with another prefix. The word for food here is for animal feed, so the joke is on the staff.
-- 'Viktor Petrovich, what is happening in the kitchen?' Vika uses first name and father's name, which is formal and polite. It marks that she is speaking to the head chef, and not to her brother-in-law. She sounds crisp.
-- 'Why are the dishes being prepared so slowly?' The -sya on "prepare" means the dishes "prepare themselves", which is how Russian does a passive. Vika asks as the manager. She has heard the complaints.
-- 'The cooks are working at the normal working pace.' "Pace" matches English "tempo". "Working" is used twice, which makes it sound like official language. Barinov is stalling, and he's good at it.
-- 'Unhappy guests are already leaving the restaurant!' "Unhappy" is "not pleased", the opposite of the "pleased" guests at the banquet. "Leaving" is the "away" verb. Vika puts the problem in plain view.
-- 'Let them wait a bit for their hot steaks.' "Let them wait" begins with the "let" word. "Steak" is borrowed. Barinov dismisses the guests' patience as if it were something free. He doesn't care.
-- 'The waiters cannot cope with such a flow.' The "cope" word is back, in the plural. "Flow" is a stream, as of a river. Vika's complaint is a real one, and she names the staff's trouble.
-- 'I will personally go and speed up the team.' The "personally" word is the one used about the stove. "Speed up" grows out of "fast". Barinov sounds energetic, and he is making a fool of himself.
-- 'Do it right now, chef.' "Do" is a polite command. Vika uses the polite "you", even while giving orders. It sounds firm, and a little weary. The chef has been avoiding her.
-- 'Everything will be ready in five minutes.' "Through five minutes" is what Russians say for "in five minutes". The numbers are the easy part. Barinov promises, and he has no plan.
-- 'I hope you are telling the honest truth.' "Clean truth" is back, as used by Vika earlier with Kostya. She hopes, and she doubts. It's a polite sentence with an edge to it.
+- 'Do not look at me like that.' "Ne nado", "not needed", works here as "don't", followed by the dictionary form "smotret", "to look". "Na menya" is "at me". He says it to someone in the room.
+- 'Now money is more important than any silly principles.' "Lyubykh" is "any at all". "Vazhnee printsipov" has no "than" word: "printsipy" becomes "printsipov", and that ending does the work.
+- 'With these winnings I will buy food.' "Vyigrysh", "winnings", is "igra", "play", with vy-, "out"; "proigral", "lost", used pro-. "Korm" is food for animals, not for people, so he isn't talking to the staff.
+- 'Viktor Petrovich, what is happening in the kitchen?' Vika uses his first name and father's name, which is formal and polite: here she is the manager. "Proiskhodit" is "is happening".
+- 'Why are the dishes being prepared so slowly?' "Gotovyatsya" has -sya, so the dishes "prepare themselves": that's how Russian says "are being prepared". "Tak medlenno" is "so slowly".
+- 'The cooks are working at the normal working pace.' "Temp" matches "tempo". "Rabotayut v rabochem tempe" is "work in working tempo", the same root twice, which sounds official. Barinov is stalling.
+- 'Unhappy guests are already leaving the restaurant!' "Nedovolnye" is "ne" plus "dovolnye", the opposite of the pleased guests at the banquet. "Ukhodyat" is "are leaving", on foot, and "iz restorana" is "out of the restaurant".
+- 'Let them wait a bit for their hot steaks.' "Pust podozhdut" is "let them wait". "Steyki" is borrowed, and "goryachie" is "hot". Barinov doesn't care.
+- 'The waiters cannot cope with such a flow.' "Ne spravlyayutsya" is the "cope" word, in the plural. "Potok" is a stream, as of a river; "s takim potokom" is "with such a flow".
+- 'I will personally go and speed up the team.' "Lichno" is the "personally" he used about the stove. "Uskoryu", "I will speed up", grows from "skoro", "soon, quickly". "Poydu" is "I will go".
+- 'Do it right now, chef.' "Sdelayte" is "do", the polite command. Vika uses the polite "you" even while giving orders. It sounds firm, and a little weary.
+- 'Everything will be ready in five minutes.' "Cherez pyat minut", "through five minutes", is "in five minutes". After "pyat", "minuta" becomes "minut". Barinov promises, and he has no plan.
+- 'I hope you are telling the honest truth.' "Chistuyu pravdu", "clean truth", is back: Vika asked Kostya for it earlier. "Nadeyus" is "I hope". It's a polite sentence with an edge to it.

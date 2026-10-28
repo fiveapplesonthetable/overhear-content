@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, some young woman is calling for you over there.' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn't know her. In Russian, "calls" is a summons. He speaks politely to the boss.
-- 'Who is she and what does she need?' "Who she such" adds a touch of "who is she anyway". And "what to her needed" is the usual pattern again. Barinov throws two questions at once, as he does.
-- 'She said that she came from television.' "From television" starts with the little word for "from". Both "said" and "came" end in -la because the woman is the subject. Kostya passes the message like a messenger.
-- 'I do not want to talk to anyone.' Russian says "with nobody" and then "not", and both are required. It is a double negative that is simply right. Barinov, as ever, would rather shout than talk.
-- 'She says that the matter is very important.' "Matter" matches the one in "what is the matter". The woman is stubborn, and Kostya passes it on. He is trying to persuade the chef without saying so.
-- 'I currently have absolutely no time.' It is "at me now absolutely no of time". The "of" ending on time is the one that follows "no". It sounds a bit formal in English, but it is plain in Russian.
-- 'She is waiting for you near the main entrance.' "Waits you" has no "for", as before. The entrance grows out of the word "to enter", so it's "the going in". Kostya is patient, and he keeps trying.
-- 'Let her come into my office.' The "let" word is back, and the "come" here means "drop in". "To me" is the little word for "to a person" plus the person. Barinov wants to be visited, as chefs do.
-- 'She asked you to come out for one minute.' "For one minute" uses the small word for "on" to show how long. "Come out" is the opposite of "come in". Kostya reports the woman's request, and gets closer to winning.
-- 'Fine, Kostya, I will come over myself now.' Barinov gives in, and says "myself" with the word he often uses. "I will come over" means to come up to someone. The easy "fine" gives away that he is curious.
-- 'Thank you, chef, I will convey your words.' "Convey" is "give across", the same as passing on a message. Kostya says "your" the polite way, and the chef is now a messenger's boss. He has done his job.
-- 'And pour me some strong black tea.' Tea is "of tea" here, with the "some of" ending. "Strong" in tea-talk comes from a word that also means "firm". Barinov wants a proper tea before he faces anyone.
-- 'Of course, chef, I will do it right now.' "Right now" is literally "straight now". "I will do" is a short future. Kostya agrees at once, and the scene closes as politely as it began.
+- 'Chef, some young woman is calling for you over there.' "Kakaya-to" is "kakaya", "which", with -to on the end, so it's "some or other": Kostya doesn't know her. "Vas zovyot" is "calls you". He speaks politely to the boss.
+- 'Who is she and what does she need?' "Kto ona takaya", "who she such", adds a touch of "who is she anyway". "Chto ey nuzhno" is "what to her needed", the usual pattern. Barinov throws two questions at once.
+- 'She said that she came from television.' "S televideniya" is "from television": "s" with this ending means "from", not "with". Both "skazala" and "prishla" end in -la because the woman is the subject.
+- 'I do not want to talk to anyone.' Russian says "ni s kem ne", "with nobody not", and both negatives are required. "Govorit" is "to talk". Barinov, as ever, would rather shout than talk.
+- 'She says that the matter is very important.' "Delo" is "matter" or "business", the word in "v chyom delo", "what's the matter". "Vazhnoe" ends in -oe to match it. Kostya is trying to persuade the chef without saying so.
+- 'I currently have absolutely no time.' It is "u menya net vremeni", "at me no of time". "Vremya" becomes "vremeni" after "net", an odd change worth learning. "Sovershenno" is "absolutely".
+- 'She is waiting for you near the main entrance.' "Zhdyot vas" is "waits you", with no "for". "Vkhod", "entrance", is "the going in", from "v", "in". "Vozle glavnogo vkhoda" changes both words after "vozle".
+- 'Let her come into my office.' "Pust zaydyot" is "let her drop in": "pust" is "let", and "zayti" means "drop in". "Ko mne" is "to me", to a person's place. "Kabinet" is an office.
+- 'She asked you to come out for one minute.' "Na odnu minutu", "for one minute", uses "na" to say how long. "Vyyti", "come out", is the opposite of "voyti", "go in".
+- 'Fine, Kostya, I will come over myself now.' "Podoydu", "I will come over", means to come up to someone, with pod-. "Sam" is "myself". The easy "ladno" gives away that he is curious.
+- 'Thank you, chef, I will convey your words.' "Peredam", "I will convey", is "give across", the same word Barinov used to pass on messages to Tanya. Kostya says "vashi", the polite "your".
+- 'And pour me some strong black tea.' "Chaya" is "chay" with the "some of" ending, "some tea". "Krepky", "strong" for tea, also means "firm". "Nalei" is "pour", said to one person.
+- 'Of course, chef, I will do it right now.' "Pryamo seychas", "right now", is literally "straight now". "Sdelayu" is "I will do". Kostya agrees at once, and the scene closes as politely as it began.
