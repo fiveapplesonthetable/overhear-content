@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Nagiyev stops Viktor from leaving and tries to convince him that quitting is a terrible idea. He reminds the chef about his heavy financial responsibilities. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Bills line by line and unpack how the Russian works."
+INTRO = "Barinov has stormed out, and Nagiyev goes after him to talk him round. He reminds the chef of his expensive daughter and his equally expensive habits, and in the end the two of them sit down with a drink. We'll hear it in Russian first."
+OPENER = "Let's replay it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Realizing he has no other choice, Viktor reluctantly stays and accepts a drink from his boss. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to lead' — you will catch every word right away. See you next time!"
+OUTRO = "The argument ends the way many Russian arguments do, over a glass. Notice the little word 'svoi', which means 'my own' or 'your own', depending on who is speaking. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Почему ты ведёшь себя как девочка?', 'Why are you acting like a little girl?', [(327, 'ведёшь себя как девочка')], ''),
-    ('barinov', 'Давай, делайте, что хотите.', 'Go ahead, do whatever you want.', [(349, 'Давай, делайте, что хотите')], ''),
+    ('barinov', 'Делайте, что хотите.', 'Do what you want.', [(349, 'Давай, делайте, что хотите')], ''),
     ('nagiyev', 'Ты можешь уволиться в любой момент.', 'You can quit at any moment.', [(336, 'уволиться можешь в любой момент')], ''),
     ('nagiyev', 'Но кто будет платить по твоим счетам?', 'But who will pay your bills?', [(338, 'По счетам')], ''),
     ('barinov', 'Я всегда смогу найти работу.', 'I will always be able to find work.', [(343, 'работу я найду')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Вот, давай просто выпьем и поговорим.', "Here, let's just drink and talk.", [(330, 'выпьем, поговорим')], ''),
 ]
 WALK = [
-    (0, None, "'Why are you acting like a little girl?' Nagiyev mocks the chef's dramatic exit, comparing his behavior to a child throwing a tantrum."),
-    (1, None, "'Go ahead, do whatever you want.' Chef Barinov angrily tells him to do whatever he pleases without him."),
-    (2, None, "'You can quit at any moment.' Nagiyev points out that walking away is technically an option anytime."),
-    (3, None, "'But who will pay your bills?' He quickly brings up the harsh reality of living expenses to ground the conversation."),
-    (4, None, "'I will always be able to find work.' Chef Barinov confidently claims he will have no trouble finding another kitchen to run."),
-    (5, None, "'Your daughter studies in Paris.' Nagiyev strategically mentions the expensive tuition for the chef's kid."),
-    (6, None, "'This costs twenty thousand a year.' He throws out the exact cost to remind him just how high the stakes really are."),
-    (7, None, "'I know my debts.' Chef Barinov snaps back, insisting he knows perfectly well what he owes."),
-    (8, None, "'They will kick you out after the first drinking binge.' Nagiyev brutally predicts that a new boss would fire him after his very first bender."),
-    (9, None, "'No one will tolerate your character.' He bluntly states that nobody else will put up with such a terrible attitude."),
-    (10, None, "'Alright, pour.' Chef Barinov gives up the fight, quietly asking for a drink instead."),
-    (11, None, "'Here, let's just drink and talk.' Nagiyev gladly agrees, suggesting they relax and discuss things calmly."),
+    (0, None, "'Why are you acting like a little girl?' 'Behave' is 'lead oneself', and 'little girl' is a small version of 'girl'. Nagiyev uses the casual 'you'."),
+    (1, None, "'Do what you want.' The command is the plural and polite one. 'Whatever you want' is just 'what you want'."),
+    (2, None, "'You can quit at any moment.' 'Quit' is 'fire' with 'sya' on it. 'Any' is a single word that goes before 'moment'."),
+    (3, None, "'But who will pay your bills?' Russians pay 'according to' bills, using a small word for 'by'. 'Bills' takes an 'am' ending after it."),
+    (4, None, "'I'll always be able to find work.' 'I'll be able' is a future form of 'can'. 'Find' is the finished kind of 'look for'."),
+    (5, None, "'Your daughter studies in Paris.' 'Studies' ends in 'sya', so it means 'teaches herself'. 'Daughter' is irregular."),
+    (6, None, "'It costs twenty thousand a year.' After 'twenty', 'thousands' takes the 'of' plural. 'A year' is 'in a year', and the year takes its object ending."),
+    (7, None, "'I know my debts.' The word for 'own' is a special one that always points back to the speaker. 'Debts' is the plural of the word that also means 'duty'."),
+    (8, None, "'They'll kick you out after the first binge.' 'Kick out' has no 'they' beyond its ending. 'After' brings in the 'of' form, so 'first' and 'binge' both change."),
+    (9, None, "'Nobody will put up with your temper.' 'Nobody' and 'not' appear together. 'Character' is borrowed."),
+    (10, None, "'Fine, pour.' 'Pour' is the ongoing form of the command, which is the normal one for this kind of order. The first word is a resigned 'fine'."),
+    (11, None, "'Here, let's just have a drink and talk.' Two 'we' forms of finished actions, side by side, mean 'let's do this and that'. 'Here' is the pointing word."),
 ]

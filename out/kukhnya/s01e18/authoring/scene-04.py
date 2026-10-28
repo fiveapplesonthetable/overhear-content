@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "At the bar counter, Max shows Kostya another way to make extra money by serving cognac. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Expensive Cognac line by line and unpack how the Russian works."
+INTRO = "Max's money-making lessons for Kostya continue behind the bar. He has another trick, and this one involves expensive cognac. We'll hear it in Russian first."
+OPENER = 'Here it is again, line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya pours the drink as Max finishes his lesson on bar economics. Next time you watch the episode, listen for the Russian expressions for 'to listen' and 'next' — you will catch every word right away. See you next time!"
+OUTRO = "Kostya has played along so far, but he is not at all comfortable. As you listen again, spot 'korotche', which means 'in short' and is used to wrap up an explanation. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Это ещё не всё, слушай дальше.', 'That is not all yet, listen further.', [(129, 'Еще не все. Слушай дальше.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Поверь мне, никто не почувствует разницу!', 'Believe me, nobody will feel the difference!', [], ''),
 ]
 WALK = [
-    (0, None, "'That is not all yet, listen further.' Max tells his friend to keep paying attention because he has even more sneaky advice to share."),
-    (1, None, "'What other secret will you show me?' Kostya sounds hesitant, wondering what other dishonest tricks his friend has up his sleeve."),
-    (2, None, "'Now I will show you a new trick.' Max promises an impressive demonstration of his deceptive skills."),
-    (3, None, "'In short, first you take a clean glass.' Max starts giving step by step instructions, beginning with a totally normal bartending action."),
-    (4, None, "'Alright, I took a large beautiful glass.' Kostya plays along reluctantly, grabbing a fancy piece of glassware for the demonstration."),
-    (5, None, "'Now imagine that I am a rich guest.' Max sets the stage for a roleplay, asking his friend to treat him like a wealthy patron."),
-    (6, None, "'What would you like to order tonight?' Kostya immediately falls into his polite customer service persona."),
-    (7, None, "'Pour me fifty grams of expensive cognac.' Max plays the part of a big spender, ordering a tiny amount of very pricey liquor."),
-    (8, None, "'Great choice, everything will be done right now.' Kostya smoothly accepts the fake order, promising swift and excellent service."),
-    (9, None, "'But pour cheap cognac, not the expensive one!' Max suddenly drops the act, revealing the core of his scam by swapping the premium alcohol for cheap booze."),
-    (10, None, "'Do you think the guest will notice nothing at all?' Kostya questions the entire plan, absolutely sure a customer would taste the horrible difference."),
-    (11, None, "'Believe me, nobody will feel the difference!' Max confidently assures him that drunk patrons are completely incapable of telling good alcohol from bad."),
+    (0, None, "'That's not all, listen on.' 'Still not all' is the Russian for 'that's not all'. 'Further' is a single word."),
+    (1, None, "'What other secret will you show me?' 'What other' is made with 'which' and 'else'. 'You'll show' ends in 'esh', the casual 'you'."),
+    (2, None, "'Now I'll show you a new trick.' 'Trick' is the word for a conjuring trick. 'I'll show' changes its 'z' into 'zh'."),
+    (3, None, "'In short, first you take a clean glass.' 'Shorter' is used here for 'in short'. 'You take' is general, so 'you' means anyone."),
+    (4, None, "'Okay, I took a big, beautiful glass.' 'Took' ends in the masculine 'l'. 'Big' and 'beautiful' have matching endings."),
+    (5, None, "'Now imagine I'm a rich guest.' 'Imagine' is a casual command. There is no 'am', just 'I rich guest'."),
+    (6, None, "'What would you like to order this evening?' 'Wish to order' is the waiter's polite way of asking. 'This evening' is two words."),
+    (7, None, "'Pour me fifty grams of expensive cognac.' 'Pour' is a command, and the number takes the 'of' form of 'grams'. 'Expensive' and 'cognac' both take the 'of' endings."),
+    (8, None, "'Excellent choice, everything will be done right away.' 'Will be done' is a neuter form, because it agrees with 'everything'. 'Right away' is a very handy word."),
+    (9, None, "'But pour the cheap cognac, not the expensive one!' The pattern is 'not X, but Y', with 'a' marking the second part. Cheap cognac is the real order."),
+    (10, None, "'Do you think the guest won't notice anything at all?' Russian stacks the negatives: 'at all', 'nothing' and 'not'. The guest is 'the guest', with no 'a'."),
+    (11, None, "'Believe me, nobody will feel the difference!' 'Believe' takes 'to me', not 'me'. 'Nobody' and 'not' appear together."),
 ]

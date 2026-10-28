@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = 'Behind the bar counter at Claude Monet, Max reveals a dishonest scheme to swap alcohol and overcharge unsuspecting patrons for cheap drinks. Horrified by the illegal trick, Kostya warns Max about the consequences. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Max and Kostya's debate over the scam line by line."
+INTRO = "Behind the bar, Max has gone further than a bit of extra ice: he has swapped cheap cognac for expensive and sold it dear. Kostya is horrified. We'll hear it in Russian first."
+OPENER = "Now let's go through it in order."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Despite Kostya's strong moral protests, Max pockets the illicit profit, leaving Kostya nervous about potential consequences. Next time you watch the episode, listen for the Russian expressions for 'to look' and 'to show' — you will catch every word right away. See you next time!"
+OUTRO = "Kostya is shaken, and Max still thinks he has done something clever. Remember 'ne boysya', 'don't be afraid', which is one of the most useful commands in the language. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот, смотри, я покажу тебе хитрый способ.', 'Here, look, I will show you a clever method.', [(134, 'Я показал тебе еще один способ.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Успокойся, давай просто спрячем эти деньги!', 'Calm down, let us simply hide this money!', [], ''),
 ]
 WALK = [
-    (0, None, "'Here, look, I will show you a clever method.' Max grabs his friend's attention, eager to demonstrate a highly questionable moneymaking scheme."),
-    (1, None, "'What other method do you want to show?' Kostya is already defensive, wondering what kind of terrible idea is coming next."),
-    (2, None, "'Guests often do not understand alcohol at all.' Max rationalizes his scam by claiming that the wealthy customers actually have no taste."),
-    (3, None, "'And what did you come up with doing now?' Kostya demands to know exactly what kind of trouble they are about to get into."),
-    (4, None, "'We sold cheap cognac for a thousand rubles!' Max excitedly reveals that they successfully passed off terrible liquor for a massive profit."),
-    (5, None, "'Have you lost your mind, this is real deception!' Kostya is absolutely horrified, calling the trick exactly what it is."),
-    (6, None, "'On the plus side, we quickly earned easy money.' Max brushes off the moral concerns, focusing entirely on how fast they made cash."),
-    (7, None, "'If they catch us, they will immediately jail us!' Kostya panics about the legal consequences, terrified of ending up in prison."),
-    (8, None, "'Do not be afraid, no one will ever know the truth.' Max tells him to relax, completely confident that their victims are too clueless to notice."),
-    (9, None, "'The law is strictly against such dangerous business.' Kostya reminds him that stealing from patrons is a serious crime."),
-    (10, None, "'You are a smart guy, you will protect us.' Max tries to flatter his friend into going along with the cover up."),
-    (11, None, "'I will not defend such dangerous schemes.' Kostya refuses to be an accomplice, firmly drawing a line against participating."),
-    (12, None, "'Calm down, let us simply hide this money!' Max ignores the lecture and urges him to just stash the stolen cash before someone sees."),
+    (0, None, "'Here, look, I'll show you a clever method.' 'Look' is the casual command, and 'method' means a way of doing things."),
+    (1, None, "'What other method do you want to show?' The words for 'what other' are 'which' and 'else'. The word for 'you want' ends in 'sh' for the casual 'you'."),
+    (2, None, "'Guests often don't understand alcohol at all.' The word for 'understand' means 'take oneself apart in', and ends in 'sya'. Russians use it for knowing a subject."),
+    (3, None, "'And what have you come up with now?' 'Came up with' is the finished kind, meaning the idea is already done. 'Now' closes the line."),
+    (4, None, "'We sold cheap cognac for a thousand roubles!' 'For' puts the price in the object form, and 'roubles' goes into the 'of' form."),
+    (5, None, "'You've lost your mind, this is real deception!' The Russian words 'went off from mind' mean 'lost your mind'. The word for 'real' is the same as in 'real friends'."),
+    (6, None, "'But on the plus side, we quickly earned easy money.' The word 'zato' turns the sentence to the good side. The word for 'easy' is the same as the one for 'light'."),
+    (7, None, "'If they catch us, they'll lock us up straight away!' The word for 'seat' is also used for jailing someone, literally 'to plant'. 'They catch' has no word for 'they'."),
+    (8, None, "'Don't be afraid, no one will ever know the truth.' The word for 'don't be afraid' ends in 'sya'. There are three negative words: 'no one', 'never' and 'not'."),
+    (9, None, "'The law is strictly against such dangerous business.' The word for 'against' is followed by the 'of' form, and 'strictly' ends in 'o', like many words that say how."),
+    (10, None, "'You're a smart guy, you'll protect us.' 'Smart' ends in 'yy', as a masculine word. 'You'll protect' is a finished action word."),
+    (11, None, "'I won't defend such dangerous schemes.' The word 'stanu' means 'I will' here, followed by the plain 'defend', and the negative sits in front of it."),
+    (12, None, "'Calm down, let's just hide this money!' The word for 'calm down' ends in 'sya', so it means 'calm yourself'. 'Let's hide' is the 'we' form of a finished action."),
 ]

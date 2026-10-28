@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "The austerity measures continue across the restaurant. Nagiyev confronts Kostya the bartender to deliver some bad news. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Saving on the Bartender line by line and unpack how the Russian works."
+INTRO = "Nagiyev's savings plan has reached the bar. He has found a way to economise on staff, and Kostya is the first to hear. We'll hear it in Russian first."
+OPENER = "Now we'll go through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya realizes he has lost his job as part of the severe cost-cutting strategy. Next time you watch the episode, listen for the Russian expressions for 'just' and 'to do' — you will catch every word right away. See you next time!"
+OUTRO = "Kostya has been dismissed in a few short sentences, and he takes it with surprising calm. The word 'balbes' is a rude one for 'idiot', but it is a mild enough insult that Russians say it half-jokingly. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('kostya', 'Я просто делал свою работу.', 'I was just doing my job.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Вот и отлично.', 'That is excellent.', [], ''),
 ]
 WALK = [
-    (0, None, "'I was just doing my job.' Kostya tries to defend himself, arguing that he was merely performing his regular duties."),
-    (1, None, "'We are saving on everything.' Nagiyev bluntly explains that the entire place is cutting costs right now."),
-    (2, None, "'We saved on the bartender.' He ruthlessly announces that the bar is the latest place they are trimming the fat."),
-    (3, None, "'You cannot fire me.' Kostya can hardly believe it, claiming the boss has no right to do this."),
-    (4, None, "'You are fired, idiot.' Nagiyev insults him and confirms the termination without any sympathy."),
-    (5, None, "'An idiot, huh?' Kostya is taken aback by the harsh name-calling."),
-    (6, None, "'This is very unfair.' He protests the decision, feeling completely wronged by the sudden move."),
-    (7, None, "'The restaurant is in a difficult situation.' Nagiyev justifies the cuts by pointing out the dire financial state of the business."),
-    (8, None, "'Who will pour drinks?' Kostya tries to appeal to logic, asking who will handle the bar if he leaves."),
-    (9, None, "'This is no longer your problem.' Nagiyev coldly brushes off the concern, stating it does not concern the bartender anymore."),
-    (10, None, "'Fine, I will leave today.' Kostya finally accepts his fate, agreeing to pack up and leave."),
-    (11, None, "'That is excellent.' Nagiyev sounds entirely satisfied with that quick resolution."),
+    (0, None, "'I was just doing my job.' 'Own' is a small word that points back at the speaker. 'Was doing' is the ongoing past, and 'just' sits at the front."),
+    (1, None, "'We're saving on everything.' Russians save 'on' something, so the little word for 'on' comes before 'everything'. 'Everything' takes an 'e' ending."),
+    (2, None, "'We saved on the bartender.' This is the finished kind of 'save'. The bartender takes an 'e' ending, as the thing saved on."),
+    (3, None, "'You can't fire me.' Kostya uses the polite 'you' with the owner. 'Me' takes the 'a' form, 'menya'."),
+    (4, None, "'You're fired, idiot.' 'Fired' is a short masculine form, with no 'are'. The insult is a rude word for a fool."),
+    (5, None, "'An idiot, huh?' Kostya just repeats the insult as a question. The little 'da?' at the end is the 'huh?'."),
+    (6, None, "'That's very unfair.' 'Unfair' is 'not' plus 'fair', joined together. It ends in 'o', like other words that describe a state."),
+    (7, None, "'The restaurant is in a difficult situation.' 'In' plus an 'om' ending on the describing word and an 'ii' on the noun. 'Situation' comes from 'position'."),
+    (8, None, "'Who will pour the drinks?' The future is 'will be' plus the plain 'pour'. 'Drinks' is a plural noun."),
+    (9, None, "'It's no longer your problem.' The words 'more not' mean 'no longer'. 'Problem' is feminine, so 'your' ends in 'ya'."),
+    (10, None, "'Fine, I'll leave today.' 'I'll leave' is a finished action, meaning to go away for good. 'Today' is a word you'll use constantly."),
+    (11, None, "'That's excellent.' 'Vot i' is a pair of small words that mean 'well, there it is'. 'Excellent' ends in 'o', like many words that tell you how."),
 ]

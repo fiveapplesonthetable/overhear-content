@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Извините, приятного вам вечера. | Excuse me, have a pleasant evening. | #295: Извини, приятного вечера. | verbatim |
-| 2 | Шеф | Что тебе нужно от меня? | What do you need from me? | #296: Че тебе надо? | verbatim |
-| 3 | Костя | Мне нужна эта бутылка. | I need this bottle. | #297: Я бутылку... | verbatim |
-| 4 | Шеф | О чём ты говоришь? | What are you talking about? | #298: это... Чего я бутылка? | verbatim |
-| 5 | Костя | Я возьму эту бутылку. | I will take this bottle. | #299: Я вот эту вот возьму, | verbatim |
-| 6 | Костя | А вам поставлю другую. | And I will put another one for you. | #299: а эту поставлю. | verbatim |
-| 7 | Шеф | Тебе что, совсем нечего делать? | Do you have absolutely nothing to do? | #300: Тебе заняться нечем? | verbatim |
-| 8 | Костя | Нет, я просто хочу дать другую. | No, I just want to give another one. | #300: Нет, я вот эту вот возьму, а эту поставлю. | verbatim |
-| 9 | Шеф | Не трогай ничего, иди отсюда! | Do not touch anything, get out of here! | #301: Иди отсюда. | verbatim |
+| 1 | Костя | Извините, приятного вам вечера. | Excuse me, have a pleasant evening. | #295 00:18:47: Извини, приятного вечера. | verbatim |
+| 2 | Шеф | Что тебе нужно от меня? | What do you need from me? | #296 00:18:49: Че тебе надо? | verbatim |
+| 3 | Костя | Мне нужна эта бутылка. | I need this bottle. | #297 00:18:50: Я бутылку... | verbatim |
+| 4 | Шеф | О чём ты говоришь? | What are you talking about? | #298 00:18:53: это... Чего я бутылка? | verbatim |
+| 5 | Костя | Я возьму эту бутылку. | I will take this bottle. | #299 00:18:55: Я вот эту вот возьму, | verbatim |
+| 6 | Костя | А вам поставлю другую. | And I will put another one for you. | #299 00:18:55: а эту поставлю. | verbatim |
+| 7 | Шеф | Тебе что, совсем нечего делать? | Do you have absolutely nothing to do? | #300 00:18:58: Тебе заняться нечем? | verbatim |
+| 8 | Костя | Нет, я просто хочу дать другую. | No, I just want to give another one. | #300 00:18:58: Нет, я вот эту вот возьму, а эту поставлю. | verbatim |
+| 9 | Шеф | Не трогай ничего, иди отсюда! | Do not touch anything, get out of here! | #301 00:19:02: Иди отсюда. | verbatim |
 | 10 | Костя | Но я должен её забрать. | But I must take it. | new | new |
 | 11 | Шеф | Я сказал, иди отсюда! | I said, get out of here! | new | new |
-| 12 | Костя | Понятно, давай дальше. | Got it, let's move on. | new | new |
+| 12 | Костя | Хорошо, извините, я пойду. | All right, sorry, I will go. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, have a pleasant evening.' Kostya approaches carefully, offering a very polite greeting to soften the blow.
-- 'What do you need from me?' Chef Barinov sounds deeply annoyed by the interruption, bluntly asking what the bartender wants.
-- 'I need this bottle.' Kostya straight up asks for the item back, keeping his request as simple as possible.
-- 'What are you talking about?' Chef Barinov is completely baffled by this bizarre demand.
-- 'I will take this bottle.' Kostya awkwardly announces his intention to grab it right off the table.
-- 'And I will put another one for you.' He tries to negotiate by offering a replacement drink.
-- 'Do you have absolutely nothing to do?' Chef Barinov gets furious, asking if the bartender is completely out of his mind.
-- 'No, I just want to give another one.' Kostya stammers out a weak excuse, still trying to push the swap.
-- 'Do not touch anything, get out of here!' Chef Barinov yells at him to back off and leave immediately.
-- 'But I must take it.' Kostya stubbornly insists that he really has to do this.
-- 'I said, get out of here!' Chef Barinov repeats his angry dismissal, making it clear the conversation is over.
-- 'Got it, let's move on.' Kostya realizes he failed and awkwardly tries to move past the embarrassing moment.
+- 'Excuse me, have a pleasant evening.' The wish is 'of pleasant evening', with the 'ogo' and 'a' endings. 'Excuse me' is the polite word.
+- 'What do you need from me?' Barinov uses the casual 'you', and 'what to you needed' is the order. 'From me' is a little word and the 'menya' form.
+- 'I need this bottle.' 'Needed' ends in 'a' to match 'bottle', which is feminine. For a masculine thing, it would be 'nuzhen'.
+- 'What are you talking about?' 'About what' is written as two words and said as one. 'You speak' ends in 'sh'.
+- 'I'll take this bottle.' 'I will take' is an irregular word. 'This bottle' ends in 'u', as it is being taken.
+- 'And I'll put another one down for you.' Russian says 'put' with a word that means to stand something up. 'For you' is the polite form.
+- 'Don't you have anything better to do?' 'Nothing to do' is one word plus the plain 'do'. The 'chto' in the middle is a filler like 'what, ...?'.
+- 'No, I just want to give you another one.' 'Just' is the word you hear everywhere. 'Another' ends in 'uyu' for the feminine bottle.
+- 'Don't touch anything, get out of here!' A negative command uses the ongoing form of 'touch'. 'From here' is one word.
+- 'But I have to take it.' 'Must' ends in 'en', for a man. 'It' is 'her' in Russian, because the bottle is feminine.
+- 'I said, get out of here!' 'Said' ends in 'l', for the masculine speaker. Barinov repeats himself because he isn't obeyed.
+- 'All right, sorry, I'll go.' 'I'll go' is a plain future form. 'Sorry' is 'excuse me' once more.

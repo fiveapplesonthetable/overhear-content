@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Почему ты ведёшь себя как девочка? | Why are you acting like a little girl? | #327: ведёшь себя как девочка | verbatim |
-| 2 | Шеф | Давай, делайте, что хотите. | Go ahead, do whatever you want. | #349: Давай, делайте, что хотите | verbatim |
-| 3 | Нагиев | Ты можешь уволиться в любой момент. | You can quit at any moment. | #336: уволиться можешь в любой момент | verbatim |
-| 4 | Нагиев | Но кто будет платить по твоим счетам? | But who will pay your bills? | #338: По счетам | verbatim |
-| 5 | Шеф | Я всегда смогу найти работу. | I will always be able to find work. | #343: работу я найду | verbatim |
-| 6 | Нагиев | Твоя дочь учится в Париже. | Your daughter studies in Paris. | #340: В Париже | verbatim |
-| 7 | Нагиев | Это стоит двадцать тысяч в год. | This costs twenty thousand a year. | #340: тысяч 20 в год | verbatim |
+| 1 | Нагиев | Почему ты ведёшь себя как девочка? | Why are you acting like a little girl? | #327 00:20:26: ведёшь себя как девочка | verbatim |
+| 2 | Шеф | Делайте, что хотите. | Do what you want. | #349 00:21:42: Давай, делайте, что хотите | verbatim |
+| 3 | Нагиев | Ты можешь уволиться в любой момент. | You can quit at any moment. | #336 00:20:57: уволиться можешь в любой момент | verbatim |
+| 4 | Нагиев | Но кто будет платить по твоим счетам? | But who will pay your bills? | #338 00:21:04: По счетам | verbatim |
+| 5 | Шеф | Я всегда смогу найти работу. | I will always be able to find work. | #343 00:21:18: работу я найду | verbatim |
+| 6 | Нагиев | Твоя дочь учится в Париже. | Your daughter studies in Paris. | #340 00:21:07: В Париже | verbatim |
+| 7 | Нагиев | Это стоит двадцать тысяч в год. | This costs twenty thousand a year. | #340 00:21:07: тысяч 20 в год | verbatim |
 | 8 | Шеф | Я знаю свои долги. | I know my debts. | new | new |
-| 9 | Нагиев | Тебя выгонят после первой пьянки. | They will kick you out after the first drinking binge. | #347: после первой пьянки | verbatim |
+| 9 | Нагиев | Тебя выгонят после первой пьянки. | They will kick you out after the first drinking binge. | #347 00:21:30: после первой пьянки | verbatim |
 | 10 | Нагиев | Никто не будет терпеть твой характер. | No one will tolerate your character. | new | new |
 | 11 | Шеф | Ладно, наливай. | Alright, pour. | new | new |
-| 12 | Нагиев | Вот, давай просто выпьем и поговорим. | Here, let's just drink and talk. | #330: выпьем, поговорим | verbatim |
+| 12 | Нагиев | Вот, давай просто выпьем и поговорим. | Here, let's just drink and talk. | #330 00:20:36: выпьем, поговорим | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you acting like a little girl?' Nagiyev mocks the chef's dramatic exit, comparing his behavior to a child throwing a tantrum.
-- 'Go ahead, do whatever you want.' Chef Barinov angrily tells him to do whatever he pleases without him.
-- 'You can quit at any moment.' Nagiyev points out that walking away is technically an option anytime.
-- 'But who will pay your bills?' He quickly brings up the harsh reality of living expenses to ground the conversation.
-- 'I will always be able to find work.' Chef Barinov confidently claims he will have no trouble finding another kitchen to run.
-- 'Your daughter studies in Paris.' Nagiyev strategically mentions the expensive tuition for the chef's kid.
-- 'This costs twenty thousand a year.' He throws out the exact cost to remind him just how high the stakes really are.
-- 'I know my debts.' Chef Barinov snaps back, insisting he knows perfectly well what he owes.
-- 'They will kick you out after the first drinking binge.' Nagiyev brutally predicts that a new boss would fire him after his very first bender.
-- 'No one will tolerate your character.' He bluntly states that nobody else will put up with such a terrible attitude.
-- 'Alright, pour.' Chef Barinov gives up the fight, quietly asking for a drink instead.
-- 'Here, let's just drink and talk.' Nagiyev gladly agrees, suggesting they relax and discuss things calmly.
+- 'Why are you acting like a little girl?' 'Behave' is 'lead oneself', and 'little girl' is a small version of 'girl'. Nagiyev uses the casual 'you'.
+- 'Do what you want.' The command is the plural and polite one. 'Whatever you want' is just 'what you want'.
+- 'You can quit at any moment.' 'Quit' is 'fire' with 'sya' on it. 'Any' is a single word that goes before 'moment'.
+- 'But who will pay your bills?' Russians pay 'according to' bills, using a small word for 'by'. 'Bills' takes an 'am' ending after it.
+- 'I'll always be able to find work.' 'I'll be able' is a future form of 'can'. 'Find' is the finished kind of 'look for'.
+- 'Your daughter studies in Paris.' 'Studies' ends in 'sya', so it means 'teaches herself'. 'Daughter' is irregular.
+- 'It costs twenty thousand a year.' After 'twenty', 'thousands' takes the 'of' plural. 'A year' is 'in a year', and the year takes its object ending.
+- 'I know my debts.' The word for 'own' is a special one that always points back to the speaker. 'Debts' is the plural of the word that also means 'duty'.
+- 'They'll kick you out after the first binge.' 'Kick out' has no 'they' beyond its ending. 'After' brings in the 'of' form, so 'first' and 'binge' both change.
+- 'Nobody will put up with your temper.' 'Nobody' and 'not' appear together. 'Character' is borrowed.
+- 'Fine, pour.' 'Pour' is the ongoing form of the command, which is the normal one for this kind of order. The first word is a resigned 'fine'.
+- 'Here, let's just have a drink and talk.' Two 'we' forms of finished actions, side by side, mean 'let's do this and that'. 'Here' is the pointing word.

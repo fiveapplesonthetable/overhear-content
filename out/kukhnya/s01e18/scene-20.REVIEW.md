@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Ребята, нам придётся расстаться с вами. | Guys, we will have to part ways with you. | #358: нам придётся расстаться с вами | verbatim |
+| 1 | Нагиев | Ребята, нам придётся расстаться с вами. | Guys, we will have to part ways with you. | #358 00:22:33: нам придётся расстаться с вами | verbatim |
 | 2 | Сеня | Куда вы собрались так рано? | Where are you off to so early? | new | new |
-| 3 | Федя | Нас уволили. | We got fired. | #366: Нас уволили | verbatim |
-| 4 | Сеня | Как уволили? Тебя тоже? | How fired? You too? | #367: Тебя, кстати, тоже | verbatim |
+| 3 | Федя | Нас уволили. | We got fired. | #366 00:23:05: Нас уволили | verbatim |
+| 4 | Сеня | Как уволили? Тебя тоже? | How fired? You too? | #367 00:23:06: Тебя, кстати, тоже | verbatim |
 | 5 | Федя | Да, мы все уходим. | Yes, we are all leaving. | new | new |
-| 6 | Сеня | А что сказал шеф? | And what did the chef say? | #369: а шеф | verbatim |
+| 6 | Сеня | А что сказал шеф? | And what did the chef say? | #369 00:23:11: а шеф | verbatim |
 | 7 | Федя | Шеф ничего не сделал. | The chef did nothing. | new | new |
-| 8 | Федя | Мы часто шагаем в пропасть. | We often walk into the abyss. | #371: шагаем именно в пропасть | verbatim |
-| 9 | Сеня | Это из-за самоуверенности? | Is this because of overconfidence? | #372: самоуверенности | verbatim |
-| 10 | Федя | Да, мы слишком много хотели. | Yes, we wanted too much. | new | new |
-| 11 | Нагиев | Вот ваш расчёт. | Here is your payout. | #374: Вот расчет | verbatim |
-| 12 | Сеня | Только двадцать тысяч? | Only twenty thousand? | #375: 20 тысяч | verbatim |
-| 13 | Нагиев | Остальное будет в конце месяца. | The rest will be at the end of the month. | #376: Остальное в конце месяца | verbatim |
+| 8 | Федя | Теперь мы без работы. | Now we are out of work. | #371 00:23:18: шагаем именно в пропасть | verbatim |
+| 9 | Сеня | Что нам теперь делать? | What do we do now? | #372 00:23:21: самоуверенности | verbatim |
+| 10 | Федя | Не знаю, пойдём домой. | I do not know, let us go home. | new | new |
+| 11 | Нагиев | Вот ваш расчёт. | Here is your payout. | #374 00:23:34: Вот расчет | verbatim |
+| 12 | Сеня | Только двадцать тысяч? | Only twenty thousand? | #375 00:23:36: 20 тысяч | verbatim |
+| 13 | Нагиев | Остальное будет в конце месяца. | The rest will be at the end of the month. | #376 00:23:37: Остальное в конце месяца | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, we will have to part ways with you.' Nagiyev gathers everyone to deliver the heavy news that they are all being let go.
-- 'Where are you off to so early?' Senya asks where his colleague is heading, seemingly unaware of the bad news.
-- 'We got fired.' Fedya drops the bomb that they just lost their jobs.
-- 'How fired? You too?' Senya is absolutely shocked, asking if his friend is included in the cut.
-- 'Yes, we are all leaving.' Fedya confirms the grim reality that the entire team has been axed.
-- 'And what did the chef say?' Senya wants to know how their fearless leader reacted to this mess.
-- 'The chef did nothing.' Fedya bitterly reveals that the boss stood by and did absolutely zero to stop it.
-- 'We often walk into the abyss.' He gets philosophical, comparing their situation to falling into a deep dark hole.
-- 'Is this because of overconfidence?' Senya wonders aloud if their own arrogance led to this disaster.
-- 'Yes, we wanted too much.' Fedya agrees, admitting they probably pushed their luck way too far.
-- 'Here is your payout.' Nagiyev hands over the final envelopes, keeping it strictly business.
-- 'Only twenty thousand?' Senya is completely disappointed by the tiny amount of cash inside.
-- 'The rest will be at the end of the month.' Nagiyev promises the rest of the money will arrive eventually.
+- 'Guys, we'll have to part with you.' 'We'll have to' is an impersonal word, with no subject. 'Part' ends in 'sya', so it means 'separate from each other'.
+- 'Where are you off to so early?' 'Set off' is built from 'gather', plus 'sya'. 'So early' is two small words.
+- 'We got fired.' Russian puts 'us' first, then 'they fired'. The ending 'li' stands for an unnamed 'they'.
+- 'How, fired? You too?' 'How' is used here as 'what?'. 'You too' needs the 'a' ending on 'you'.
+- 'Yes, we're all leaving.' 'Leave' is the ongoing kind, a going away. 'All' goes before it.
+- 'And what did the chef say?' The opening 'a' means 'and' with a hint of contrast. 'Said' ends in the masculine 'l'.
+- 'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the finished kind of 'do'.
+- 'Now we are out of work.' 'Without' brings in the 'of' form, so 'work' changes its ending. There's no 'are'.
+- 'What do we do now?' 'To us' stands in for 'we', and 'to do' is the plain form. 'Now' sits in the middle.
+- 'I don't know, let's go home.' 'We'll go' works as 'let's go'. 'Home' as a direction is a single word.
+- 'Here is your payout.' 'Payout' is built on 'count', and means a final settlement. 'Here' points at the envelope.
+- 'Only twenty thousand?' 'Only' goes at the front. After 'twenty', 'thousand' takes the 'of' plural.
+- 'The rest will be at the end of the month.' 'The rest' is a neuter word used as a noun. 'At the end of the month' uses two endings, 'e' and 'a'.

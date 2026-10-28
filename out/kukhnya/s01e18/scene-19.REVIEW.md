@@ -12,10 +12,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Костя | Я просто делал свою работу. | I was just doing my job. | new | new |
 | 2 | Нагиев | Мы экономим на всём. | We are saving on everything. | new | new |
-| 3 | Нагиев | Мы сэкономили на бармене. | We saved on the bartender. | #351: на Бармене сэкономили | verbatim |
+| 3 | Нагиев | Мы сэкономили на бармене. | We saved on the bartender. | #351 00:21:55: на Бармене сэкономили | verbatim |
 | 4 | Костя | Вы не можете меня уволить. | You cannot fire me. | new | new |
-| 5 | Нагиев | Ты уволен, балбес. | You are fired, idiot. | #352: Ты уволен, балбес | verbatim |
-| 6 | Костя | Балбес, да? | An idiot, huh? | #353: Балбес, да | verbatim |
+| 5 | Нагиев | Ты уволен, балбес. | You are fired, idiot. | #352 00:21:59: Ты уволен, балбес | verbatim |
+| 6 | Костя | Балбес, да? | An idiot, huh? | #353 00:22:02: Балбес, да | verbatim |
 | 7 | Костя | Это очень несправедливо. | This is very unfair. | new | new |
 | 8 | Нагиев | Ресторан в трудном положении. | The restaurant is in a difficult situation. | new | new |
 | 9 | Костя | Кто будет наливать напитки? | Who will pour drinks? | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just doing my job.' Kostya tries to defend himself, arguing that he was merely performing his regular duties.
-- 'We are saving on everything.' Nagiyev bluntly explains that the entire place is cutting costs right now.
-- 'We saved on the bartender.' He ruthlessly announces that the bar is the latest place they are trimming the fat.
-- 'You cannot fire me.' Kostya can hardly believe it, claiming the boss has no right to do this.
-- 'You are fired, idiot.' Nagiyev insults him and confirms the termination without any sympathy.
-- 'An idiot, huh?' Kostya is taken aback by the harsh name-calling.
-- 'This is very unfair.' He protests the decision, feeling completely wronged by the sudden move.
-- 'The restaurant is in a difficult situation.' Nagiyev justifies the cuts by pointing out the dire financial state of the business.
-- 'Who will pour drinks?' Kostya tries to appeal to logic, asking who will handle the bar if he leaves.
-- 'This is no longer your problem.' Nagiyev coldly brushes off the concern, stating it does not concern the bartender anymore.
-- 'Fine, I will leave today.' Kostya finally accepts his fate, agreeing to pack up and leave.
-- 'That is excellent.' Nagiyev sounds entirely satisfied with that quick resolution.
+- 'I was just doing my job.' 'Own' is a small word that points back at the speaker. 'Was doing' is the ongoing past, and 'just' sits at the front.
+- 'We're saving on everything.' Russians save 'on' something, so the little word for 'on' comes before 'everything'. 'Everything' takes an 'e' ending.
+- 'We saved on the bartender.' This is the finished kind of 'save'. The bartender takes an 'e' ending, as the thing saved on.
+- 'You can't fire me.' Kostya uses the polite 'you' with the owner. 'Me' takes the 'a' form, 'menya'.
+- 'You're fired, idiot.' 'Fired' is a short masculine form, with no 'are'. The insult is a rude word for a fool.
+- 'An idiot, huh?' Kostya just repeats the insult as a question. The little 'da?' at the end is the 'huh?'.
+- 'That's very unfair.' 'Unfair' is 'not' plus 'fair', joined together. It ends in 'o', like other words that describe a state.
+- 'The restaurant is in a difficult situation.' 'In' plus an 'om' ending on the describing word and an 'ii' on the noun. 'Situation' comes from 'position'.
+- 'Who will pour the drinks?' The future is 'will be' plus the plain 'pour'. 'Drinks' is a plural noun.
+- 'It's no longer your problem.' The words 'more not' mean 'no longer'. 'Problem' is feminine, so 'your' ends in 'ya'.
+- 'Fine, I'll leave today.' 'I'll leave' is a finished action, meaning to go away for good. 'Today' is a word you'll use constantly.
+- 'That's excellent.' 'Vot i' is a pair of small words that mean 'well, there it is'. 'Excellent' ends in 'o', like many words that tell you how.

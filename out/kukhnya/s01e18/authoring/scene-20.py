@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Nagiyev gathers the kitchen staff to announce the mass firings. Senya and Fedya discuss the depressing situation. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Farewell line by line and unpack how the Russian works."
+INTRO = 'Nagiyev has called in the kitchen staff to tell them they are being let go. Senya and Fedya talk it over, and then the payout arrives, and it is not what they hoped. First, the Russian.'
+OPENER = "Let's replay it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The cooks receive their final meager payouts and prepare to leave the restaurant for good. Next time you watch the episode, listen for the Russian expressions for 'guys' and 'to have to' — you will catch every word right away. See you next time!"
+OUTRO = "The payout is smaller than anyone expected, and the rest is promised for later. 'Raschyot' is a word for a final payment, and it is built on 'count'. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ребята, нам придётся расстаться с вами.', 'Guys, we will have to part ways with you.', [(358, 'нам придётся расстаться с вами')], ''),
@@ -23,25 +23,25 @@ STORY = [
     ('fedya', 'Да, мы все уходим.', 'Yes, we are all leaving.', [], ''),
     ('senya', 'А что сказал шеф?', 'And what did the chef say?', [(369, 'а шеф')], ''),
     ('fedya', 'Шеф ничего не сделал.', 'The chef did nothing.', [], ''),
-    ('fedya', 'Мы часто шагаем в пропасть.', 'We often walk into the abyss.', [(371, 'шагаем именно в пропасть')], ''),
-    ('senya', 'Это из-за самоуверенности?', 'Is this because of overconfidence?', [(372, 'самоуверенности')], ''),
-    ('fedya', 'Да, мы слишком много хотели.', 'Yes, we wanted too much.', [], ''),
+    ('fedya', 'Теперь мы без работы.', 'Now we are out of work.', [(371, 'шагаем именно в пропасть')], ''),
+    ('senya', 'Что нам теперь делать?', 'What do we do now?', [(372, 'самоуверенности')], ''),
+    ('fedya', 'Не знаю, пойдём домой.', 'I do not know, let us go home.', [], ''),
     ('nagiyev', 'Вот ваш расчёт.', 'Here is your payout.', [(374, 'Вот расчет')], ''),
     ('senya', 'Только двадцать тысяч?', 'Only twenty thousand?', [(375, '20 тысяч')], ''),
     ('nagiyev', 'Остальное будет в конце месяца.', 'The rest will be at the end of the month.', [(376, 'Остальное в конце месяца')], ''),
 ]
 WALK = [
-    (0, None, "'Guys, we will have to part ways with you.' Nagiyev gathers everyone to deliver the heavy news that they are all being let go."),
-    (1, None, "'Where are you off to so early?' Senya asks where his colleague is heading, seemingly unaware of the bad news."),
-    (2, None, "'We got fired.' Fedya drops the bomb that they just lost their jobs."),
-    (3, None, "'How fired? You too?' Senya is absolutely shocked, asking if his friend is included in the cut."),
-    (4, None, "'Yes, we are all leaving.' Fedya confirms the grim reality that the entire team has been axed."),
-    (5, None, "'And what did the chef say?' Senya wants to know how their fearless leader reacted to this mess."),
-    (6, None, "'The chef did nothing.' Fedya bitterly reveals that the boss stood by and did absolutely zero to stop it."),
-    (7, None, "'We often walk into the abyss.' He gets philosophical, comparing their situation to falling into a deep dark hole."),
-    (8, None, "'Is this because of overconfidence?' Senya wonders aloud if their own arrogance led to this disaster."),
-    (9, None, "'Yes, we wanted too much.' Fedya agrees, admitting they probably pushed their luck way too far."),
-    (10, None, "'Here is your payout.' Nagiyev hands over the final envelopes, keeping it strictly business."),
-    (11, None, "'Only twenty thousand?' Senya is completely disappointed by the tiny amount of cash inside."),
-    (12, None, "'The rest will be at the end of the month.' Nagiyev promises the rest of the money will arrive eventually."),
+    (0, None, "'Guys, we'll have to part with you.' 'We'll have to' is an impersonal word, with no subject. 'Part' ends in 'sya', so it means 'separate from each other'."),
+    (1, None, "'Where are you off to so early?' 'Set off' is built from 'gather', plus 'sya'. 'So early' is two small words."),
+    (2, None, "'We got fired.' Russian puts 'us' first, then 'they fired'. The ending 'li' stands for an unnamed 'they'."),
+    (3, None, "'How, fired? You too?' 'How' is used here as 'what?'. 'You too' needs the 'a' ending on 'you'."),
+    (4, None, "'Yes, we're all leaving.' 'Leave' is the ongoing kind, a going away. 'All' goes before it."),
+    (5, None, "'And what did the chef say?' The opening 'a' means 'and' with a hint of contrast. 'Said' ends in the masculine 'l'."),
+    (6, None, "'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the finished kind of 'do'."),
+    (7, None, "'Now we are out of work.' 'Without' brings in the 'of' form, so 'work' changes its ending. There's no 'are'."),
+    (8, None, "'What do we do now?' 'To us' stands in for 'we', and 'to do' is the plain form. 'Now' sits in the middle."),
+    (9, None, "'I don't know, let's go home.' 'We'll go' works as 'let's go'. 'Home' as a direction is a single word."),
+    (10, None, "'Here is your payout.' 'Payout' is built on 'count', and means a final settlement. 'Here' points at the envelope."),
+    (11, None, "'Only twenty thousand?' 'Only' goes at the front. After 'twenty', 'thousand' takes the 'of' plural."),
+    (12, None, "'The rest will be at the end of the month.' 'The rest' is a neuter word used as a noun. 'At the end of the month' uses two endings, 'e' and 'a'."),
 ]

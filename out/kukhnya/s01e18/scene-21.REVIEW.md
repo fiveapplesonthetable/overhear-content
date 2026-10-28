@@ -11,12 +11,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Нас уволили из ресторана. | We got fired from the restaurant. | new | new |
-| 2 | Костя | По крайней мере, нам есть где жить. | At least we have somewhere to live. | #377: нам есть где жить | verbatim |
-| 3 | Макс | Мы падаем и страдаем от боли. | We fall and suffer from pain. | #378: падаем, страдаем от боли | verbatim |
-| 4 | Костя | А потом встаём и идём дальше. | And then we get up and walk further. | #378: встаем, идем дальше | verbatim |
-| 5 | Макс | И так будет продолжаться бесконечно? | And it will continue like this forever? | #379: И так бесконечно | verbatim |
+| 2 | Костя | По крайней мере, нам есть где жить. | At least we have somewhere to live. | #377 00:23:46: нам есть где жить | verbatim |
+| 3 | Макс | Мы падаем и страдаем от боли. | We fall and suffer from pain. | #378 00:23:50: падаем, страдаем от боли | verbatim |
+| 4 | Костя | А потом встаём и идём дальше. | And then we get up and walk further. | #378 00:23:50: встаем, идем дальше | verbatim |
+| 5 | Макс | И так будет продолжаться бесконечно? | And it will continue like this forever? | #379 00:23:54: И так бесконечно | verbatim |
 | 6 | Костя | Жизнь всегда полна трудных моментов. | Life is always full of difficult moments. | new | new |
-| 7 | Макс | Может, пора смотреть под ноги? | Maybe it is time to look underfoot? | #380: Может, уже стоит начать смотреть под ноги | verbatim |
+| 7 | Макс | Может, пора смотреть под ноги? | Maybe it is time to look underfoot? | #380 00:23:57: Может, уже стоит начать смотреть под ноги | verbatim |
 | 8 | Костя | Ты прав, нужно быть осторожнее. | You are right, we need to be more careful. | new | new |
 | 9 | Макс | Завтра мы начнём искать новую работу. | Tomorrow we will start looking for new work. | new | new |
 | 10 | Костя | У нас обязательно всё получится. | Everything will definitely work out for us. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We got fired from the restaurant.' Max states the harsh truth that they no longer work at the fancy place.
-- 'At least we have somewhere to live.' Kostya tries to look on the bright side, pointing out they still have a roof over their heads.
-- 'We fall and suffer from pain.' Max gets poetic about the painful struggle of hitting rock bottom.
-- 'And then we get up and walk further.' Kostya follows up with an encouraging thought about recovering from the drop.
-- 'And it will continue like this forever?' Max wonders aloud if they are doomed to repeat this painful cycle forever.
-- 'Life is always full of difficult moments.' Kostya philosophically notes that existence is basically packed with tough times.
-- 'Maybe it is time to look underfoot?' Max suggests they should probably start watching their step a bit more.
-- 'You are right, we need to be more careful.' Kostya agrees wholeheartedly, acknowledging they have to act smarter from now on.
-- 'Tomorrow we will start looking for new work.' Max confidently sets a goal to hit the job market the very next morning.
-- 'Everything will definitely work out for us.' Kostya stays optimistic, assuring his friend they will absolutely figure things out.
-- 'The main thing is that we do not give up.' Max emphasizes that staying determined is the most important part of their struggle.
-- 'I believe in us.' Kostya ends the chat on a hopeful note, trusting in their ability to bounce back.
+- 'We've been fired from the restaurant.' 'Fired' has the plural 'li'. 'From' takes the 'a' form of the restaurant.
+- 'At least we have somewhere to live.' 'At least' is built as 'by the least extent'. 'To us there is where to live' is the pattern.
+- 'We fall and suffer from pain.' 'We fall' and 'we suffer' both end in 'em'. 'From pain' needs a small word and an 'i' ending on 'pain'.
+- 'And then we get up and go on.' Two 'we' forms side by side. 'Further' closes the line.
+- 'And will it go on like this forever?' 'Go on' ends in 'sya', so it means 'goes on by itself'. 'Forever' is built from 'without end'.
+- 'Life is always full of hard moments.' 'Full' has a feminine ending, because 'life' is feminine. 'Moments' takes the 'of' plural, and so does 'hard'.
+- 'Maybe it's time to watch our step?' 'Look under the feet' is how Russians say 'watch your step'. 'Maybe' and 'time' are two small words.
+- 'You're right, we need to be more careful.' 'Right' is a short masculine form. 'More careful' is made with the ending 'ee'.
+- 'Tomorrow we'll start looking for new work.' 'Will begin' is a finished action. 'Look for' takes the plain form, and 'work' takes a 'u' ending.
+- 'Everything will definitely work out for us.' 'Work out' means 'get obtained', and ends in 'sya'. 'For us' is 'at us'.
+- 'The main thing is that we're not giving up.' 'Give up' ends in 'sya', meaning 'surrender oneself'. The 'main thing' comes from 'head'.
+- 'I believe in us.' 'Believe in' takes the little word for 'in', followed by 'us'. A short ending line for the episode.

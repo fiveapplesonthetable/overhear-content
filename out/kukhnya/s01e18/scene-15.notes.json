@@ -462,31 +462,31 @@
     },
     {
       "seg": 12,
-      "trans": "Got it, let's move on.",
+      "trans": "All right, I will go.",
       "words": [
         {
-          "t": "Понятно,",
-          "lemma": "понятно",
+          "t": "Хорошо,",
+          "lemma": "хорошо",
           "pos": "adv",
-          "stress": "поня́тно",
-          "gloss": "(is) clear",
-          "gram": "predicative"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "давай",
-          "lemma": "давать",
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "пойду.",
+          "lemma": "пойти",
           "pos": "verb",
-          "stress": "дава́й",
-          "gloss": "let's",
-          "gram": "imperative, 2nd person singular, imperfective; давай + мы = let's"
-        },
-        {
-          "t": "дальше.",
-          "lemma": "дальше",
-          "pos": "adv",
-          "stress": "да́льше",
-          "gloss": "next, go on",
-          "gram": "adverb (comparative of далеко)"
+          "stress": "пойду́",
+          "gloss": "(I'll) go",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -950,31 +950,31 @@
     },
     {
       "seg": 36,
-      "trans": "Got it, let's move on.",
+      "trans": "All right, I will go.",
       "words": [
         {
-          "t": "Понятно,",
-          "lemma": "понятно",
+          "t": "Хорошо,",
+          "lemma": "хорошо",
           "pos": "adv",
-          "stress": "поня́тно",
-          "gloss": "(is) clear",
-          "gram": "predicative"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "давай",
-          "lemma": "давать",
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "пойду.",
+          "lemma": "пойти",
           "pos": "verb",
-          "stress": "дава́й",
-          "gloss": "let's",
-          "gram": "imperative, 2nd person singular, imperfective; давай + мы = let's"
-        },
-        {
-          "t": "дальше.",
-          "lemma": "дальше",
-          "pos": "adv",
-          "stress": "да́льше",
-          "gloss": "next, go on",
-          "gram": "adverb (comparative of далеко)"
+          "stress": "пойду́",
+          "gloss": "(I'll) go",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -1438,31 +1438,31 @@
     },
     {
       "seg": 49,
-      "trans": "Got it, let's move on.",
+      "trans": "All right, I will go.",
       "words": [
         {
-          "t": "Понятно,",
-          "lemma": "понятно",
+          "t": "Хорошо,",
+          "lemma": "хорошо",
           "pos": "adv",
-          "stress": "поня́тно",
-          "gloss": "(is) clear",
-          "gram": "predicative"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "давай",
-          "lemma": "давать",
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "пойду.",
+          "lemma": "пойти",
           "pos": "verb",
-          "stress": "дава́й",
-          "gloss": "let's",
-          "gram": "imperative, 2nd person singular, imperfective; давай + мы = let's"
-        },
-        {
-          "t": "дальше.",
-          "lemma": "дальше",
-          "pos": "adv",
-          "stress": "да́льше",
-          "gloss": "next, go on",
-          "gram": "adverb (comparative of далеко)"
+          "stress": "пойду́",
+          "gloss": "(I'll) go",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -4161,6 +4161,157 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "хорошо": {
+      "lemma": "хорошо",
+      "stress": "хорошо́",
+      "pos": "adv",
+      "gloss": "well, good",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "How something is done. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        },
+        {
+          "en": "good, fine",
+          "note": "As an answer. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хорошо!",
+          "trans": "Good!"
+        },
+        {
+          "text": "Всё хорошо.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
+        }
+      ]
+    },
+    "пойти": {
+      "lemma": "пойти",
+      "stress": "пойти́",
+      "pos": "verb",
+      "gloss": "to go (set off)",
+      "aspect": "pf",
+      "pair": "ходить",
+      "meanings": [
+        {
+          "en": "to go, to set off",
+          "note": "On foot. Used as an perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "пойду",
+              "пойдём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "пойдёшь",
+              "пойдёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "пойдёт",
+              "пойдут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "пошёл",
+                "пошла",
+                "пошло",
+                "пошли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пойди",
+                "пойдите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Можно я пойду?",
+          "trans": "May I go?"
+        },
+        {
+          "text": "Пойдём домой.",
+          "trans": "Let's go home."
+        },
+        {
+          "text": "А можно я пойду посмотрю?",
+          "trans": "Can I go and have a look?"
+        }
+      ],
+      "related": [
+        {
+          "word": "идти",
+          "gloss": "to go"
         }
       ]
     }

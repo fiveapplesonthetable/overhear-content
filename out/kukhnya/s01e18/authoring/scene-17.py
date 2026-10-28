@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Nagiyev and Viktor have a heated argument in the office about the restaurant's budget. Nagiyev wants to save money by firing the most expensive kitchen staff. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Firings line by line and unpack how the Russian works."
+INTRO = "Kristina's plans for the budget have landed on Nagiyev's desk, and he has decided to dismiss the highest-paid cooks. Barinov hears about it, and the two have a furious argument in the office. First, the Russian."
+OPENER = "Let's go over it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Angry and feeling betrayed, Viktor threatens to resign rather than lose his best kitchen team. Next time you watch the episode, listen for the Russian expressions for 'must' and 'to fire' — you will catch every word right away. See you next time!"
+OUTRO = "Barinov threatens to quit, and Nagiyev has to talk him round. 'Uvolit'' means 'to fire', and add 'sya' and it becomes 'to quit', which is a neat little pair to remember. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Я должен уволить твоих поваров.', 'I must fire your cooks.', [(308, 'уволить')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nagiyev', 'Подожди, мы всё решим.', 'Wait, we will solve everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'I must fire your cooks.' Nagiyev bluntly states that the kitchen staff needs to be let go."),
-    (1, None, "'Have you gone completely crazy?' Chef Barinov is outraged, asking if the owner has lost his mind entirely."),
-    (2, None, "'They cost too much.' Nagiyev complains about the massive expense of keeping everyone around."),
-    (3, None, "'This is almost half a million every month.' He throws out a huge number to emphasize just how much cash they are bleeding."),
-    (4, None, "'You cannot fire them.' Chef Barinov stands his ground, strictly forbidding the owner from doing this."),
-    (5, None, "'This is the best team in Moscow.' He proudly defends his crew as the greatest group of culinary experts around."),
-    (6, None, "'It is cheaper to find new people.' Nagiyev brushes off the sentiment, arguing that fresh hires would cost less."),
-    (7, None, "'What difference does it make who cuts carrots?' He dismisses the skill required for basic prep work, making it sound trivial."),
-    (8, None, "'This is my team!' Chef Barinov yells fiercely, showing his fierce loyalty to his people."),
-    (9, None, "'If you fire them, you will lose me.' He delivers an ultimatum, threatening to walk away if the crew gets the boot."),
-    (10, None, "'Vitya, just sit and calm down.' Nagiyev tries to defuse the tension, telling him to take a seat and relax."),
-    (11, None, "'Alright, sort it out yourselves.' Chef Barinov angrily tells him to figure it all out without his help."),
-    (12, None, "'And I am quitting in the meantime.' He dramatically announces his resignation right on the spot."),
-    (13, None, "'Wait, we will solve everything.' Nagiyev desperately tells him to hold on, promising they can work things out."),
+    (0, None, "'I have to fire your cooks.' 'Must' ends in a bare consonant, for a man. The cooks end in 'ov', which is the form for living things being acted on."),
+    (1, None, "'Have you gone completely mad?' The words mean 'gone out of your mind'. Barinov uses the casual 'you'."),
+    (2, None, "'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' ends in 'o', like many words that say how."),
+    (3, None, "'That's nearly half a million every month.' 'Half a million' is a single word, with 'pol' for 'half'. 'Every month' needs no word for 'during'."),
+    (4, None, "'You can't fire them.' 'Fire' is the ongoing form, which suits a refusal. 'Them' is a short word."),
+    (5, None, "'It's the best team in Moscow.' 'Best' is the irregular word that doesn't look like 'good'. 'In Moscow' needs an 'e' on the end of the city's name."),
+    (6, None, "'It's cheaper to find new people.' 'Cheaper' is the comparative of 'cheaply', in a single word. 'People' is the irregular plural."),
+    (7, None, "'What difference does it make who cuts carrots?' 'Which difference' is the Russian for 'what difference'. 'Carrots' is a singular collective word."),
+    (8, None, "'It's my team!' There's no 'is'. 'My' ends in 'ya', since 'team' is feminine."),
+    (9, None, "'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is a finished action."),
+    (10, None, "'Just sit down and calm down.' Nagiyev uses a pet form of Barinov's name. 'Calm down' ends in 'sya', so it's 'calm yourself'."),
+    (11, None, "'All right, sort it out yourselves.' 'Sort out' ends in 'sya' and is plural and polite. 'Yourselves' is a handy little word."),
+    (12, None, "'And meanwhile I'm quitting.' The word is the one for 'fire', with 'sya' added, so it's 'fire myself'. 'Meanwhile' is a small word that is also used for 'bye'."),
+    (13, None, "'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is a finished action word."),
 ]

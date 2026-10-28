@@ -7,39 +7,39 @@ SCENE = 12
 TITLE = 'Умная и красивая  (Smart and Beautiful)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'ilya': 'Илья', 'max': 'Макс'}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Stunned by Dmitry Nagiyev's announcement, Chef Viktor asks how Kristina can run the restaurant. Nagiyev praises her management studies and reminds everyone that she worked at Claude Monet for a whole year. Let's listen to their exchange in Russian first."
-OPENER = "Let's walk through this exchange line by line."
+INTRO = "Nagiyev has just announced that his wife Kristina will run the restaurant. Barinov asks what he means, and Nagiyev lists her qualifications, which turn out to include working there for a year. We'll hear it in Russian first."
+OPENER = 'Here it is again, one line at a time.'
 TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = 'Chef Viktor and Victoria realize that inviting Kristina back to intervene has given them an even stricter boss. See you next time!'
-CLOSING = ('ilya', 'Всего хорошего!')
+OUTRO = "The staff greet their new boss, though not warmly. Notice 'upravlenie', the word for management, which is just the verb for managing with 'enie' on the end. See you next time!"
+CLOSING = ('barinov', 'Всего хорошего!')
 STORY = [
     ('barinov', 'В смысле?', 'What do you mean?', [(254, 'смысле?')], ''),
-    ('ilya', 'Ну, в прямом смысле.', 'Well, in the literal sense.', [(255, 'Ну, в прямом')], ''),
-    ('ilya', 'Она умная и красивая.', 'She is smart and beautiful.', [(255, 'Она умная, красивая')], ''),
+    ('nagiyev', 'Ну, в прямом смысле.', 'Well, in the literal sense.', [(255, 'Ну, в прямом')], ''),
+    ('nagiyev', 'Она умная и красивая.', 'She is smart and beautiful.', [(255, 'Она умная, красивая')], ''),
     ('barinov', 'Но это ведь сложная работа.', 'But this is difficult work.', [], ''),
-    ('ilya', 'Она изучала управление ресторанами.', 'She studied restaurant management.', [(256, 'по управлению ресторанами')], ''),
-    ('ilya', 'А потом она здесь работала.', 'And then she worked here.', [(257, 'Потом она здесь работала')], ''),
+    ('nagiyev', 'Она изучала управление ресторанами.', 'She studied restaurant management.', [(256, 'по управлению ресторанами')], ''),
+    ('nagiyev', 'А потом она здесь работала.', 'And then she worked here.', [(257, 'Потом она здесь работала')], ''),
     ('max', 'Она работала в нашем ресторане?', 'Did she work in our restaurant?', [(257, 'она здесь работала')], ''),
-    ('ilya', 'Да, она работала здесь целый год.', 'Yes, she worked here for a whole year.', [(258, 'Целый год')], ''),
+    ('nagiyev', 'Да, она работала здесь целый год.', 'Yes, she worked here for a whole year.', [(258, 'Целый год')], ''),
     ('barinov', 'Да, я хорошо помню это время.', 'Yes, I remember that time well.', [], ''),
-    ('ilya', 'В общем, прошу любить и жаловать.', 'In short, please welcome and respect her.', [(259, 'В общем, прошу любить и жаловать')], ''),
-    ('max', 'Вот ваше новое начальство.', 'Here is your new boss.', [(260, 'Ваше новое начальство')], ''),
+    ('nagiyev', 'В общем, прошу любить и жаловать.', 'In short, please welcome and respect her.', [(259, 'В общем, прошу любить и жаловать')], ''),
+    ('nagiyev', 'Вот ваше новое начальство.', 'Here is your new boss.', [(260, 'Ваше новое начальство')], ''),
     ('barinov', 'Добро пожаловать, Кристина Семёновна.', 'Welcome, Kristina Semyonovna.', [], ''),
 ]
 WALK = [
-    (0, None, "'What do you mean?' Chef Viktor can hardly believe what he just heard."),
-    (1, None, "'Well, in the literal sense.' Here, Nagiyev confirms he is completely serious."),
-    (2, None, "'She is smart and beautiful.' He begins listing his wife's qualifications."),
-    (3, None, "'But this is difficult work.' Viktor points out how demanding the restaurant business is."),
-    (4, None, "'She studied restaurant management.' Here, Nagiyev notes that Kristina studied hospitality management."),
-    (5, None, "'And then she worked here.' He reminds the team of her past experience at Claude Monet."),
-    (6, None, "'Did she work in our restaurant?' Rising intonation turns the statement into a surprised question."),
-    (7, None, "'Yes, she worked here for a whole year.' Here, Nagiyev emphasizes that she spent a full year working there."),
-    (8, None, "'Yes, I remember that time well.' Viktor recalls the days before Kristina married the owner."),
-    (9, None, "'In short, please welcome and respect her.' This classic Russian idiom means 'please give her a warm welcome'."),
-    (10, None, "'Here is your new boss.' Here, Nagiyev officially hands authority over to Kristina."),
-    (11, None, "'Welcome, Kristina Semyonovna.' Viktor forces a polite smile for his new boss. Now let's listen to the conversation again without interruption."),
+    (0, None, "'What do you mean?' The Russian is literally 'in the sense?', two words that work as a whole question. It's a short phrase you can use anywhere."),
+    (1, None, "'Well, in the literal sense.' 'Direct' also means 'straight', so the phrase is literally 'in the straight sense'. Nagiyev says it with a flourish."),
+    (2, None, "'She is smart and beautiful.' Both words end in 'aya', the feminine ending, since Kristina is a woman. There's no word for 'is'."),
+    (3, None, "'But it's a hard job.' The little word 'ved' means 'but, you know'. 'Hard' ends in 'aya' to agree with the feminine word for work."),
+    (4, None, "'She studied restaurant management.' 'Management' is the word for managing with 'enie' on the end, which turns an action into a thing. 'Restaurants' takes a plural 'ami' ending."),
+    (5, None, "'And then she worked here.' 'And then' is two small words. 'Worked' ends in 'a', since it is about a woman."),
+    (6, None, "'Did she work in our restaurant?' Both 'our' and 'restaurant' take the 'e' ending after 'in'. The question comes from the tone, not the word order."),
+    (7, None, "'Yes, she worked here for a whole year.' The word for 'whole' has a masculine ending, and Russian needs no word for 'for' with a length of time."),
+    (8, None, "'Yes, I remember that time well.' 'I remember' ends in 'u'. 'Time' is a neuter word, so 'that' ends in 'o'."),
+    (9, None, "'In short, please welcome and respect her.' The phrase is a set one, literally 'I ask you to love and favour'. Russians use it when they introduce a new person."),
+    (10, None, "'Here is your new boss.' 'Bosses' is a group word and is neuter, so 'new' ends in 'oe'. 'Here' points at Kristina."),
+    (11, None, "'Welcome, Kristina.' The words for 'welcome' make a set greeting, and the name used is her first name and patronymic. It is a formal and slightly nervous welcome."),
 ]

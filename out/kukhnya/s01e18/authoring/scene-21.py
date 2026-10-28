@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Max and Kostya sit outside after losing their jobs. They reflect on their failures and try to find some hope for the future. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Underfoot line by line and unpack how the Russian works."
+INTRO = "Max and Kostya have both lost their jobs and are sitting outside, thinking about what comes next. It is the end of the episode, and the mood is gloomy but not hopeless. We'll hear it in Russian first."
+OPENER = "Let's go through it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Despite the setbacks, the two friends agree to keep moving forward and face the challenges ahead. Next time you watch the episode, listen for the Russian expressions for 'to fire' and 'restaurant' — you will catch every word right away. See you next time!"
+OUTRO = "The two friends decide to carry on, which is what the episode has been leading to. The phrase 'under the feet' is how Russians say 'watch your step', and it comes in handy. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Нас уволили из ресторана.', 'We got fired from the restaurant.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Я верю в нас.', 'I believe in us.', [], ''),
 ]
 WALK = [
-    (0, None, "'We got fired from the restaurant.' Max states the harsh truth that they no longer work at the fancy place."),
-    (1, None, "'At least we have somewhere to live.' Kostya tries to look on the bright side, pointing out they still have a roof over their heads."),
-    (2, None, "'We fall and suffer from pain.' Max gets poetic about the painful struggle of hitting rock bottom."),
-    (3, None, "'And then we get up and walk further.' Kostya follows up with an encouraging thought about recovering from the drop."),
-    (4, None, "'And it will continue like this forever?' Max wonders aloud if they are doomed to repeat this painful cycle forever."),
-    (5, None, "'Life is always full of difficult moments.' Kostya philosophically notes that existence is basically packed with tough times."),
-    (6, None, "'Maybe it is time to look underfoot?' Max suggests they should probably start watching their step a bit more."),
-    (7, None, "'You are right, we need to be more careful.' Kostya agrees wholeheartedly, acknowledging they have to act smarter from now on."),
-    (8, None, "'Tomorrow we will start looking for new work.' Max confidently sets a goal to hit the job market the very next morning."),
-    (9, None, "'Everything will definitely work out for us.' Kostya stays optimistic, assuring his friend they will absolutely figure things out."),
-    (10, None, "'The main thing is that we do not give up.' Max emphasizes that staying determined is the most important part of their struggle."),
-    (11, None, "'I believe in us.' Kostya ends the chat on a hopeful note, trusting in their ability to bounce back."),
+    (0, None, "'We've been fired from the restaurant.' 'Fired' has the plural 'li'. 'From' takes the 'a' form of the restaurant."),
+    (1, None, "'At least we have somewhere to live.' 'At least' is built as 'by the least extent'. 'To us there is where to live' is the pattern."),
+    (2, None, "'We fall and suffer from pain.' 'We fall' and 'we suffer' both end in 'em'. 'From pain' needs a small word and an 'i' ending on 'pain'."),
+    (3, None, "'And then we get up and go on.' Two 'we' forms side by side. 'Further' closes the line."),
+    (4, None, "'And will it go on like this forever?' 'Go on' ends in 'sya', so it means 'goes on by itself'. 'Forever' is built from 'without end'."),
+    (5, None, "'Life is always full of hard moments.' 'Full' has a feminine ending, because 'life' is feminine. 'Moments' takes the 'of' plural, and so does 'hard'."),
+    (6, None, "'Maybe it's time to watch our step?' 'Look under the feet' is how Russians say 'watch your step'. 'Maybe' and 'time' are two small words."),
+    (7, None, "'You're right, we need to be more careful.' 'Right' is a short masculine form. 'More careful' is made with the ending 'ee'."),
+    (8, None, "'Tomorrow we'll start looking for new work.' 'Will begin' is a finished action. 'Look for' takes the plain form, and 'work' takes a 'u' ending."),
+    (9, None, "'Everything will definitely work out for us.' 'Work out' means 'get obtained', and ends in 'sya'. 'For us' is 'at us'."),
+    (10, None, "'The main thing is that we're not giving up.' 'Give up' ends in 'sya', meaning 'surrender oneself'. The 'main thing' comes from 'head'."),
+    (11, None, "'I believe in us.' 'Believe in' takes the little word for 'in', followed by 'us'. A short ending line for the episode."),
 ]

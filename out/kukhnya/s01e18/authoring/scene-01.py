@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kristina': 'Кристина', 'nagiyev': 'Нагиев', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Kristina, a former hostess who married the wealthy restaurant owner Dmitry, visits her old friends at work. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around A Cinderella Story line by line and unpack how the Russian works."
+INTRO = "Welcome to Kukhnya, the Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen and the owner, Dmitry Nagiyev, tries to rule everyone else. In this episode, money is tight, and Nagiyev's wife Kristina, who once worked in the restaurant herself, has just come back to Moscow. First you'll hear it in Russian, and you don't need to catch every word."
+OPENER = "Let's go back through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Dmitry heads to the office to check the restaurant figures while Kristina waits. Next time you watch the episode, listen for the Russian expressions for 'to come back' and 'to look' — you will catch every word right away. See you next time!"
+OUTRO = "Kristina is bored already, and Nagiyev is busy with the books, which tells you how the rest of the episode will go. Remember that 'magazin' means a shop, not a magazine. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('sasha', 'Ой, Кристина, здравствуйте!', 'Oh, Kristina, hello!', [(5, 'Ой, Кристина, здравствуйте.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Мы поедем в магазин и купим подарки!', 'We will go to the store and buy gifts!', [(15, 'поедем в магазин')], ''),
 ]
 WALK = [
-    (0, None, "'Oh, Kristina, hello!' Sasha warmly greets her old coworker with a formal hello, keeping the phrasing quick and natural."),
-    (1, None, "'What is with the formal hello?' Kristina acts surprised by the formal greeting, playfully asking why they are acting so stiff."),
-    (2, None, "'I cannot do otherwise, I am at work.' Sasha explains her rigid manners by pointing out her professional environment, keeping her words plain and clear."),
-    (3, None, "'I understand you very well, friend.' Kristina sympathizes completely, pairing the word for 'friend' with 'very well' to show solidarity."),
-    (4, None, "'I worked here for a whole year myself.' Kristina reminds her that she spent a full year in that exact spot, emphasizing her point by bringing 'whole' and 'year' together."),
-    (5, None, "'Hi, Kristina, you look great!' Sasha drops the formalities and compliments her friend's appearance, placing 'great' right before 'look'."),
-    (6, None, "'Thank you, my dear!' Kristina responds affectionately, calling her 'my dear' to reinforce their close bond."),
-    (7, None, "'When did you return home to Moscow?' Sasha asks for details about the trip, combining 'when', 'returned', and 'home'."),
-    (8, None, "'The day before yesterday, but I am very bored here.' Kristina casually mentions returning the day before yesterday while complaining about being terribly bored."),
-    (9, None, "'I am thinking of flying to Monaco soon!' Kristina flexes her new wealthy lifestyle by casually mentioning her plans to fly out to Monaco."),
-    (10, None, "'Now I will check the reports and we will go.' Nagiyev announces his brief agenda, stating he will quickly look over the reports before they leave."),
-    (11, None, "'We will go to the store and buy gifts!' Nagiyev promises a shopping trip, focusing on the completed actions of going to the store and buying presents."),
+    (0, None, "'Oh, Kristina, hello!' Sasha uses the long, formal hello, the one that is hard to say. 'Oy' is just a little gasp of surprise."),
+    (1, None, "'What's with the formal hello?' Kristina turns the hello itself into a noun, 'the official hello'. The opening, 'what else for', shows she's amused and a little annoyed."),
+    (2, None, "'I can't do otherwise, I'm at work.' 'Otherwise' is a single word, and 'at work' is 'on work', with an 'e' ending. It's a useful excuse for any occasion."),
+    (3, None, "'I understand you perfectly, friend.' 'Perfectly' is borrowed from 'wonderful', so she says 'wonderfully'. A female friend ends in 'a', and the 'you' is casual."),
+    (4, None, "'I worked here myself for a whole year.' The 'la' on 'worked' says that Kristina is a woman, and 'sama' means 'myself' in the feminine. 'A whole year' needs no word for 'for'."),
+    (5, None, "'Hi, Kristina, you look great!' 'You look' ends in 'sh' for the casual 'you'. 'Great' ends in 'o' because it describes how she looks."),
+    (6, None, "'Thank you, my dear!' Russian says 'my good one', using the feminine form of 'good'. It's a warm way to address a woman you know well."),
+    (7, None, "'When did you come back home to Moscow?' The verb ends in 'las', which is feminine, and 'came back' fits someone returning. 'To Moscow' makes the city take a 'u' ending."),
+    (8, None, "'The day before yesterday, but I'm very bored here.' 'The day before yesterday' is one word. 'To me boring' is how Russian says 'I'm bored'."),
+    (9, None, "'I'm thinking of flying to Monaco soon!' 'I think' plus the plain 'fly away' means 'I'm thinking of flying'. 'Monaco' never changes its ending."),
+    (10, None, "'Now I will check the reports and we will go.' 'Now' covers 'in a moment' too. 'We'll go' uses a verb for going by vehicle."),
+    (11, None, "'We'll go to the shop and buy presents!' 'Shop' looks like 'magazine' but it means a shop. 'Presents' is the plural of the word that comes from 'to give'."),
 ]
