@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Fedya, well, how are things at the competitors'?' 'U konkurentov' is 'at the competitors', and with 'u' it means 'at their place', the way English says 'at the dentist's'. 'Nu chto tam' is a casual 'well, what's going on there?'.
 - 'Chef, our scout has returned with a report.' 'Razvedchik' is a scout, a bit of a grand name for a cook. 'Vernulsya' ends in 'sya', so he 'returned himself', and 'otchyotom' ends in 'om' to mean 'with'.
-- 'Tell me faster. Did you go inside?' Barinov starts with an order, 'tell!', and a one-word 'faster'. The second question uses a word for 'dropped in', which is lighter than 'went' and suggests a quick visit.
-- 'Yes, I looked at their new hall.' 'Posmotrel' is 'had a look', with a man's 'l' ending. 'Ikh' is 'their', and like 'ikh' elsewhere it never changes.
+- 'Tell me faster. Did you go inside?' Barinov starts with an order, 'tell!', and a one-word 'faster'. 'Zakhodil' is 'went in' or 'dropped in', with 'za-' for going into a place, and 'vnutr' is 'inside'.
+- 'Yes, I looked at their new hall.' 'Posmotrel' is 'had a look', with a man's 'l' ending. 'Ikh' is 'their', and it never changes its ending, whatever noun follows.
 - 'And how is it? Does the interior look nice?' 'Vyglyadit krasivo' is 'looks beautifully': after 'looks' Russian uses the adverb, not the describing word. 'Interer' is the English 'interior' with a Russian spelling.
 - 'To tell the truth, the interior is so-so.' 'Chestno govorya' is 'honestly speaking', a handy opener when you're about to say something awkward. 'Tak sebe' is literally 'so to-itself', and it's how Russians say 'so-so'.
-- 'And what is going on with the guests?' This is the same 'is going on' word as before. 'With the guests' puts 'ami' on the end of 'guests', which is the ending for 'with'.
-- 'In the hall there is silence, plenty of empty seats.' There's no 'is' again, just 'in the hall, silence'. 'Polno' means 'plenty' here, though it also means 'full', which is a joke if the hall is empty.
-- 'You see what I was talking about!' Russian puts 'about' before 'what', so it comes out 'about what I spoke'. 'Spoke' has a man's past form.
+- 'And what is going on with the guests?' 'Proiskhodit' is 'is going on', and you'll hear it in questions like this all the time. 'S gostyami' puts 'ami' on 'gosti', the plural ending for 'with'.
+- 'In the hall there is silence, plenty of empty seats.' There's no 'is' again, just 'in the hall, silence'. 'Svobodnykh mest polno' is 'of free seats, plenty': 'polno' comes from 'full', and what there's plenty of goes in the 'of' form.
+- 'You see what I was talking about!' Russian puts 'about' before 'what', so it comes out 'about what I spoke'. 'O chem' is 'about what', and 'govoril' has the man's 'l' ending.
 - 'We do not need to change anything yet.' Barinov's 'for now' is also the Russian 'bye'. The double negative, 'nothing' and 'not', is required.
 - 'Chef, can I have something to eat?' 'Mozhno' is the useful 'is it allowed', the word to ask permission with. 'Mne' means 'to me', and 'poest' means 'eat something'.
 - 'Go to the kitchen, you earned a hot lunch.' 'Zasluzhil' is 'earned', and no 'you' is spoken. 'Goryachy' is 'hot', and 'obed' is lunch, the main meal of the day.

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'Max is in the corridor trying to put things right with Vika. She has seen something she did not like, and Max says it was all for show. Listen to their talk in Russian first.'
 OPENER = 'Again, listening to how each of them defends their side.'
 TRANSITION = 'Now their whole talk, straight through.'
-OUTRO = 'Max has told the truth, and Vika is still angry. How long does she take before she is willing to listen? Until next time.'
+OUTRO = "Max has told the truth, and Vika is still angry. Notice how often 'iz-za' turns up when people argue. Take care."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Слушай сюда, я не собираюсь ничего выяснять.', 'Listen here, I am not going to figure anything out.', [(271, 'Слушай сюда, я не собираюсь с тобой ничего выяснять.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Из-за чего? Из-за того самого.', 'Because of what? Because of that exact thing.', [(277, 'Из-за чего? Из-за того.')], ''),
 ]
 WALK = [
-    (0, None, "'Listen here, I am not going to figure anything out.' 'Listen here' is the Russian 'listen up'. The 'not going to' comes from an action that means 'gather yourself', a funny way to describe intentions."),
+    (0, None, "'Listen here, I am not going to figure anything out.' 'Slushay syuda' is literally 'listen to here', a blunt 'listen up'. 'Ne sobirayus' is 'I'm not going to', from 'sobiratsya', which also means 'to get ready'. 'Vyyasnyat' is to sort something out."),
     (1, None, "'Vika, Sasha has absolutely nothing to do with this.' 'Ni pri chyom' is a fixed phrase meaning 'has nothing to do with it'. You can't build it from the words, so learn it as a block. 'Sovershenno' means 'absolutely'."),
-    (2, None, "'Do not fire her from this job.' Max uses 'ne nado' for 'don't', which is softer than an order. Russians fire someone 'from' a job, and the job itself changes ending after that 'from'."),
-    (3, None, "'I was intentionally driving you to anger.' 'On purpose' is a single word. 'Driving you to anger' is 'bringing to anger', and the word for anger is old-fashioned and strong."),
+    (2, None, "'Do not fire her from this job.' Max uses 'ne nado' for 'don't', which is softer than an order. 'S etoy raboty' is 'from this job', and after 's', 'from', 'rabota' becomes 'raboty'."),
+    (3, None, "'I was intentionally driving you to anger.' 'Spetsialno' is 'on purpose', not 'specially'. 'Dovodil do gneva' is 'was bringing to anger', and 'gnev' is a strong, bookish word for anger."),
     (4, None, "'I pretended as if we were dating.' 'Budto' is 'as if'. 'Vstrechaemsya' ends in 'sya', so it's 'meeting each other', and that's how Russians say 'dating'. 'My s ney' is 'she and I', literally 'we with her'."),
-    (5, None, "'Well, you did a very good job with it.' 'Poluchilos' is 'it turned out', and Russian puts it in the neuter, 'it', since the thing that turned out is 'this'. 'U tebya' is 'for you', literally 'at you', and Vika is dripping with sarcasm."),
-    (6, None, "'Especially when you hugged her.' Vika turns his excuse against him. The word 'kogda' opens the time part, 'when you hugged her', and she keeps her tone flat."),
-    (7, None, "'Believe me, it was just a stupid accident!' 'Accident' also means 'chance'. 'Stupid' picks up an 'aya' to go with it."),
-    (8, None, "'And why are you sticking up for her so much?' 'Zastupaetsya' means 'stand up for', with 'sya' at the end. 'Za neyo' is 'for her', and here 'chto' means 'why'."),
+    (5, None, "'Well, you did a very good job with it.' 'Poluchilos' is 'it turned out', and Russian puts it in the neuter, 'it', since the thing that turned out is 'this'. 'U tebya' is 'for you', literally 'at you'. It's praise in form only."),
+    (6, None, "'Especially when you hugged her.' 'Kogda' is 'when', the same word that asks 'when?'. 'Obnimal' is the past of 'obnimat', to hug, in the form for something he was busy doing."),
+    (7, None, "'Believe me, it was just a stupid accident!' 'Sluchaynost' is 'accident' or 'coincidence', and it's feminine. That's why it's 'byla' and 'glupaya', both with feminine endings."),
+    (8, None, "'And why are you sticking up for her so much?' 'Zastupaeshsya' is 'you stick up for', with 'sya' at the end. 'Za neyo' is 'for her', and here 'chto' means 'why'."),
     (9, None, "'I am not sticking up for her at all now.' Max repeats her verb, 'zastupayus', in the 'I' form. 'Sovershenno ne' means 'not at all', and 'seychas' is 'now'."),
-    (10, None, "'I just do not want anyone to get hurt.' After 'so that', the next action goes into the past, so Russian says 'I want that someone got hurt'. The 'to' on the end of 'someone' makes it 'some'."),
-    (11, None, "'Because of what? Because of that exact thing.' The 'because of' phrase repeats, once with 'what' and once with 'that'. 'The very same' is what Russians say for 'that exact thing'."),
+    (10, None, "'I just do not want anyone to get hurt.' After 'chtoby', 'so that', the verb goes into the past form, so it's literally 'I don't want that someone got hurt'. 'Kto-to' is 'who' plus '-to', which turns it into 'someone'."),
+    (11, None, "'Because of what? Because of that exact thing.' 'Iz-za' is 'because of', once with 'chego', what, and once with 'togo', that. 'Togo samogo' is 'that very thing', with 'samyy' adding the 'very'."),
 ]

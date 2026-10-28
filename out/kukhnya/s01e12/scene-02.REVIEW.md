@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ouch! How it hurts me in the stomach!' Russian doesn't say 'I am in pain'. It says 'to me painful', and 'to me' is the word 'mne'. 'Stomach' picks up an 'e' on the end because of 'in'.
+- 'Ouch! How it hurts me in the stomach!' Russian doesn't say 'I am in pain'. It says 'to me painful', and 'to me' is the word 'mne'. 'In the stomach' is v zhivote: zhivot picks up an 'e' after v when it means where.
 - 'Max, what is it? Does it hurt you a lot?' The first question, 'chto takoe', is a handy way to say 'what's the matter?', literally 'what such'. The second uses 'to you painful', the same pattern as 'to me painful', with 'tebe' for 'you'.
-- 'I do not know what this is.' It's three flat words, 'I not know'. Max keeps it vague on purpose.
-- 'Oh, on the right side this is very bad!' 'On the right side' is literally 'from the right side'. The word for 'right' is also the root of the word for 'correct', so Russian is saying 'right' and 'right' with the same sound. Vika is already worried.
+- 'I do not know what this is.' 'Ya ne znayu' is 'I not know': ne just goes in front of the verb. 'Chto eto takoe' is a fuller version of Vika's 'chto takoe'.
+- 'Oh, on the right side this is very bad!' Russian says 'from the right side', s pravoy storony, where English says 'on'. Vika knows that a pain on the right can mean the appendix.
 - 'My God, how much it hurts me now.' The first word is a special shape of 'God', used only when you call out to him. 'Seychas' means 'now', and it is also what people say for 'in a moment'.
 - 'Let me quickly call a doctor for you.' It starts with 'give', which is how Russians say 'let me' or 'let's'. 'Call' here means 'summon', so 'I will summon you a doctor'.
-- 'No, seriously, do not call doctors.' 'Ne nado', 'not necessary', is the standard way to say 'don't' or 'no need'. 'Doctors' is the plural and ends in 'ey'.
+- 'No, seriously, do not call doctors.' 'Ne nado', 'not necessary', is the standard way to say 'don't' or 'no need'. 'Vrachey', 'doctors', is the plural of vrach.
 - 'Why? You need urgent help after all.' The small word 'zhe' is the 'after all' in the sentence, with a touch of 'come on'. 'Needed' ends in 'a' to match 'help', which is a feminine word.
-- 'Look, here are two tickets to the cinema.' 'Look' is the order form. 'Vot' means 'here it is', and you'll hear it everywhere. The word for cinema never changes shape, whether it's 'to the cinema' or 'at the cinema'.
+- 'Look, here are two tickets to the cinema.' 'Smotri' is 'look!', the order form you use with ty. 'Vot' means 'here it is', and you'll hear it everywhere. The word for cinema never changes shape, whether it's 'to the cinema' or 'at the cinema'.
 - 'Well you are a jerk, honestly!' 'Nu ty i' works like a rolled-eyes 'well, aren't you something'. The last two words are literally 'honest word', which is how Russians say 'I swear'.
 - 'Shall we go to the cinema tonight, eh?' 'Let's go' is the 'we' form of 'go', which Russians use for invitations. 'Evening' ends in 'om' here to mean 'in the evening'. The little 'a' at the end is a 'right?'.
-- 'You are a real idiot, I will not go anywhere!' 'Nowhere' and 'not' sit side by side, so it's literally 'nowhere not I will go'. That is correct Russian. 'Real' is a handy booster: a real idiot, a real friend, a real chef.
+- 'You are a real idiot, I will not go anywhere!' 'Nowhere' and 'not' sit side by side, so it's literally 'I nowhere not will go'. That is correct Russian. 'Real' is a handy booster: a real idiot, a real friend, a real chef.
 - 'Alright, then I will go to the cinema alone.' The word for 'alone' is the same as the number 'one', so literally he says 'I will go one'. 'Ladno' is a shrug that means 'fine'.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Angelina, how are our reservations today?' Russian asks 'what is at us with reservations' for 'how are we doing', and the loan word for reservations comes from 'reserve'.
+- 'Angelina, how are our reservations today?' Literally 'what is at us with reservations'. 'S rezervami' ends in 'ami', the plural ending that goes with 's', 'with'.
 - 'Dmitry Vladimirovich, all tables are already booked.' First name plus father's name is the respectful way to address the owner. 'Stoliki' is 'little tables', with 'ik' making it small, and 'zanyaty' means 'taken'.
-- 'Really? Are there no seats left at all?' Russian uses its word for 'truth' as 'really?'. The seats take an 'of' ending, as the word for 'remained' demands.
-- 'Yes, there are no more free tables.' Russian says 'more not' for 'no more', with 'net' meaning 'there is not'. After it, 'tables' takes an 'of' ending, with a diminutive suffix that makes them 'little tables'.
+- 'Really? Are there no seats left at all?' Russian uses its word for 'truth' as 'really?'. 'Ne ostalos mest' is 'not remained of seats': after 'not', the thing that's missing takes the 'of' form, and 'mesto' becomes 'mest'.
+- 'Yes, there are no more free tables.' Russian says 'more not' for 'no more', with 'net' meaning 'there is not'. After it, 'svobodnykh stolikov' takes the same 'of' form as 'mest' in the line before.
 - 'The guests will start arriving any minute.' Literally, 'from minute to minute'. It is a set phrase, so learn it as one piece.
-- 'Look at that! It turned out just like I said.' In Russian, 'ty smotri' is a friendly nudge for 'look at that', with the extra 'ty'. 'Came out' is the verb, and 'just as' is two small words.
-- 'Our restaurant is very popular right now.' 'Populyaren' is 'popular', and a bare ending suits a masculine word like 'restoran'. There is no word for 'is'.
-- 'People love us just the way we are!' 'People' is an irregular plural: one person is a different word. 'Exactly as such' is the phrase for 'just as we are'.
+- 'Look at that! It turned out just like I said.' In Russian, 'ty smotri' is a friendly nudge for 'look at that', with the extra 'ty'. 'Vyshlo' is literally 'it came out', and 'tak, kak ya govoril' is 'so, as I said'.
+- 'Our restaurant is very popular right now.' 'Populyaren' is the short form of 'populyarnyy', the shape a describing word takes after the noun, like 'is popular'. There is no word for 'is'.
+- 'People love us just the way we are!' 'Lyudi' is 'people', and one person is a different word, 'chelovek'. 'Imenno takimi' is literally 'exactly such', in the 'as' form because of 'love us as'.
 - 'Go prepare additional tables.' 'Idi gotov' is two orders side by side, 'go, prepare', with no word for 'and'. 'Dopolnitelnye' means 'additional'.
 - 'We will place two more tables by the window.' After the number 'two', Russian puts the word for 'table' in a special form, 'stola'. 'By the window' turns 'okno' into 'okna'.
-- 'Great, today we have a full house!' Russian says 'at us' for 'we have', and 'full hall' for 'full house'. The ending on 'full' is masculine.
-- 'I will quickly organize everything right now.' 'Organizuyu' looks like the English, and it works the same way. It says 'I', 'will' and 'organize' in one word, and 'seychas' can mean 'now' or 'in a moment'.
+- 'Great, today we have a full house!' Russian says 'at us' for 'we have', and 'polnyy zal', 'full hall', for 'full house'.
+- 'I will quickly organize everything right now.' 'Organizuyu' looks like the English, and the 'u' ending alone tells you it's 'I'. 'Seychas' can mean 'now' or 'in a moment', and here it's the second.
 - 'Wonderful, the evening promises to be successful!' The evening 'promises', as if it were a person. 'Udachnym' comes from 'udacha', luck, so something successful is something lucky.

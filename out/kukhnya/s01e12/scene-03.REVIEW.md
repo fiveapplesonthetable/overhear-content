@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, listen, it was so good for us together.' 'Listen' is the order to a friend. 'It was good to us' puts the people as 'to us' and the feeling as a plain word, 'good', with no 'is' anywhere.
+- 'Vika, listen, it was so good for us together.' 'Listen' is the order to a friend. 'Nam bylo khorosho' is literally 'to us it was good': the people go in the 'to' form, 'nam', and 'khorosho' is the plain 'good'.
 - 'Listen to me carefully, my dear friend.' It's the same action as Max's 'listen', minus the 'po' at the front. 'Dear' also means 'expensive' in Russian, and here Vika means it sarcastically.
 - 'What is with you? You are so angry today.' 'What with you' is how Russians say 'what's wrong with you?'. 'Angry' ends in 'aya' because Max is talking about a woman.
-- 'Joke your stupid jokes in the kitchen!' 'Joke' and 'jokes' come from one root. 'Stupid' is built from the word for 'fool', so it's close to 'fool-ish'. 'Svoi' means 'your own'.
+- 'Joke your stupid jokes in the kitchen!' 'Joke' and 'jokes' come from one root. 'Duratskie', stupid, is built from 'durak', fool, so it's close to 'fool-ish'. 'Svoi' means 'your own'.
 - 'Why are you talking to me so rudely?' This is a different 'why' from the usual one: 'zachem' asks 'what for'. 'With me' is 'so mnoy', where 'so' is just 'with' with an extra vowel.
-- 'There are many of the same idiots behind the door.' After 'many', the next word takes a special ending, which is why 'idiots' finishes in 'ov'. 'Za' means 'behind', and the door changes its ending after it.
+- 'There are many of the same idiots behind the door.' After 'many', the next word takes a special ending, which is why 'idiots' finishes in 'ov'. 'Za dveryu' is 'behind the door', and after 'za' meaning 'behind', 'dver' takes the 'yu' ending.
 - 'But I brought us tickets to the cinema.' 'Brought' ends in a consonant because Max is a man. It means 'carried here', the one you'd use for a gift or a delivery.
-- 'I am not interested in your tickets to the cinema.' Vika doesn't say 'I' either. She says 'to me not interesting'. 'Your' is 'tvoi', for someone you call 'ty'.
+- 'I am not interested in your tickets to the cinema.' Vika doesn't say 'I'. She says 'mne ne interesny', 'to me not interesting'. 'Your' is 'tvoi', for someone you call 'ty'.
 - 'Why do you not want to go with me?' 'Khochesh' is 'you want', and 'khochu' would be 'I want'. 'To go' follows it in its basic shape, just like English.
-- 'Because you are an empty place to me.' 'Because' is a cousin of the word for 'why', which Russian teachers like to point out. 'Empty place' is an idiom for a nobody, and 'empty' ends in 'oe' to match 'mesto'.
+- 'Because you are an empty place to me.' 'Potomu chto', because, shares its start with 'pochemu', why. 'Empty place' is an idiom for a nobody, and 'empty' ends in 'oe' to match 'mesto'.
 - 'An empty place? You are a very kind girl.' Max repeats her words as a question, like an echo. 'Kind' is sarcasm, and it's the opposite of what he feels.
 - 'Have you understood everything? And now leave from here.' 'Understood' ends in 'l' because Max is a man. 'Uydi' is an order meaning 'go away', and 'from here' is a single word in Russian.
 - 'Alright, excuse me, I am leaving right now.' Max switches to the polite 'excuse me', the form you'd use to a boss or a stranger. It tells you he has backed off and put some distance between them.

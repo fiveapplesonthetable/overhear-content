@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'Barinov is curious, and a bit nervous, so he walks next door to look at the new Italian restaurant. There he finds Elena, its head chef, and a delivery of palm trees. The duel comes first, in Russian.'
 OPENER = 'Slowly now, to see who really wins.'
 TRANSITION = "Now it's the whole duel again, start to finish."
-OUTRO = 'Elena gets the last word, and Barinov marches back to his own kitchen. Notice how politely the two of them manage to insult each other.'
+OUTRO = 'Barinov leaves with a grumble about letting people finish. Notice how politely the two of them manage to insult each other.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('elena', 'Осторожно заносите эти пальмы в ресторан!', 'Carefully bring these palms into the restaurant!', [(59, 'И ты заноси.')], ''),
@@ -38,10 +38,10 @@ WALK = [
     (4, None, "'Decided to personally check your main competitors?' 'Reshili' is the group form of the past again, so this is the polite 'you'. 'Lichno' means 'personally', in person."),
     (5, None, "'I am not at all afraid of your restaurant.' 'Sovsem ne' means 'not at all'. After 'afraid', the thing feared gets an 'a' on the end, so 'restoran' turns into 'restorana'. 'Vashego' is the polite 'your'."),
     (6, None, "'Then why are you looking at us?' 'Togda' means 'then', and it picks up what he has just said. 'You look' ends in 'ite', the polite 'you' form once more."),
-    (7, None, "'Why do you need real palm trees in the dining room?' 'Zachem vam' is literally 'what for to you', and it means 'why would you need'. 'Real' is a handy booster that works with anything."),
-    (8, None, "'This creates a cozy Italian atmosphere.' 'Italyanskuyu' has the same root as 'Italy'. 'Atmosphere' is the English word with a Russian ending."),
+    (7, None, "'Why do you need real palm trees in the dining room?' 'Zachem vam' is literally 'what for to you', and it means 'why would you need'. 'V zale', 'in the hall', is the same phrase Barinov used for Vika's side of the restaurant."),
+    (8, None, "'This creates a cozy Italian atmosphere.' 'Atmosfera' is feminine and it's the thing being created, so both describing words end in 'uyu': uyutnuyu italyanskuyu."),
     (9, None, "'Palm trees will not help cook tasty food!' 'Ne pomogut' is 'will not help', in the group form that goes with 'palms'. 'Gotovit' covers both 'cook' and 'prepare', and 'eda' is food."),
     (10, None, "'We will have the tastiest cuisine!' 'U nas budet' is 'at us will be', the way Russians say 'we will have'. 'Samaya' means 'the most', and it goes in front of 'tasty'. 'Kukhnya' means both kitchen and cuisine."),
     (11, None, "'Let the workers through, bring the trees inside!' 'Rabochikh' is really 'the working ones', a describing word used as a name for people. One tree is 'derevo', but many are 'derevya', which is irregular."),
-    (12, None, "'One must listen to people when they speak!' 'Doslushivat' means 'to listen to the end', because 'do' at the front means 'all the way'. 'Lyudi' is people, and it's irregular."),
+    (12, None, "'One must listen to people when they speak!' 'Doslushivat' means 'to listen to the end', because 'do' at the front means 'all the way'. 'Lyudey' is the object form of lyudi, 'people'."),
 ]

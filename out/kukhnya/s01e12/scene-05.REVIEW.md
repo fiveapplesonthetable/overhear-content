@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, look at this advertising leaflet!' 'Vitya' is a short, friendly form of Viktor, and very few people dare to use it. 'Reklamny' is just 'reklama', 'advert', with a new ending, and 'buklet' is 'booklet' with a Russian accent.
-- 'What kind of strange word is Arcobaleno?' 'What kind of' is literally 'what this for'. 'Slovo' is the word for 'word',.
-- 'What is that anyway, a rare kidney disease?' 'Vobshche' means 'in general' and 'at all', and Russians put it everywhere. 'Rare' and 'illness' match in gender, and 'of kidneys' is a single word.
+- 'Vitya, look at this advertising leaflet!' 'Vitya' is the short, familiar form of Viktor. 'Reklamny' is just 'reklama', 'advert', with a new ending, and 'buklet' is 'booklet' with a Russian accent.
+- 'What kind of strange word is Arcobaleno?' 'Chto eto za' is literally 'what this for', and it's the everyday way to ask 'what kind of'. 'Strannoe slovo', 'strange word': slovo is neuter, so 'strange' ends in 'oe'.
+- 'What is that anyway, a rare kidney disease?' 'Vobshche' means 'in general' and 'at all', and Russians put it everywhere. 'Bolezn', illness, is feminine, so 'rare' is 'redkaya'. 'Pochek', 'of kidneys', is a plural of pochka, 'kidney'.
 - 'Arcobaleno means rainbow in Italian, Vitya.' 'Znachit' means 'means', and it's also a filler like 'so' in speech. 'In Italian' is one word: 'po' at the front and 'ski' at the back make 'in that language'.
 - 'I will not go to their cafe!' 'Ikh' means 'their' and never changes, whatever it describes. 'Cafe' doesn't change either.
 - 'In a week they are opening right next to us.' 'Through a week' is how Russians say 'in a week'. 'They open' ends in 'sya', which is literally 'they open themselves'.
 - 'Oh, I am scared, cafe Rainbow will ruin us!' Barinov uses the Russian word for 'rainbow', the translation of 'Arcobaleno', as an insult. 'I am scared' is a single word, 'boyus'.
-- 'Vitya, it is time for us to attract new guests.' 'Nam pora' is literally 'to us time', which is how Russians say 'it's time for us'. 'New' and 'guests' both end in 'kh' here.
+- 'Vitya, it is time for us to attract new guests.' 'Nam pora' is literally 'to us time', which is how Russians say 'it's time for us'. 'New guests' is novykh gostey, the plural shape for a thing being attracted: novye becomes novykh and gosti becomes gostey.
 - 'We need to urgently change our menu.' 'Nuzhno' means 'necessary', and the action word follows it. 'Menyu' doesn't change shape, just like 'cafe'.
 - 'We are the best, and people love us for that!' Nobody says 'they' here. The bare word 'love', in its 'they' form, means 'people in general'. Russian does that a lot when nobody in particular is meant.
 - 'The restaurant needs fresh and bold ideas.' 'Restoranu' ends in 'u' because the restaurant is the one in need, so it's 'to the restaurant needed ideas'. 'Bold' and 'fresh' both end in 'e' because 'ideas' is a group.
-- 'Change everything in the dining room, on your own territory!' 'Menyay' is the order 'change'. 'Zal' means a hall, and after 'in' it turns into 'v zale'. 'Svoey' is 'your own' again.
+- 'Change everything in the dining room, on your own territory!' 'Menyay' is the order 'change'. 'Zal' means a hall, and after 'in' it turns into 'v zale'. 'Na svoey territorii', 'on your own territory': svoy again, the 'own' word.
 - 'And do not get into my kitchen!' 'Ne lez' is the rude, informal way of saying 'stay out', literally 'don't climb'. 'Ko mne' is 'to me', with an extra 'o' to make it easier to say.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look at what they hand out right at our door!' 'Razdayut' is 'they hand out', and no 'they' is spoken. 'U nashey dveri' is 'at our door', and 'dver' takes a new ending after 'u'.
-- 'What is this strange bright paper?' 'Chto za' asks 'what kind of'. 'Yarkaya' is 'bright', and 'bumaga' is paper, which Russians use for a flyer.
+- 'What is this strange bright paper?' 'Chto za' asks 'what kind of'. 'Yarkaya' is 'bright', and 'bumaga' is simply 'paper'. Vika doesn't know yet that it's a flyer.
 - 'Nearby a new restaurant is opening today.' 'Ryadom' means 'nearby' or 'right next door'. 'Otkryvaetsya' ends in 'sya', so it literally 'opens itself'.
-- 'They call themselves the best restaurant in town.' 'Nazyvayut sebya' is literally 'they call themselves', in nearly the same shape as English. 'Luchshim restoranom' ends in 'm' for 'as', and 'goroda' means 'of the city'.
+- 'They call themselves the best restaurant in town.' 'Nazyvayut sebya' is literally 'they call themselves', in nearly the same shape as English. After 'call yourself', the name you take goes into the 'as' case, so it's 'luchshim restoranom', both words ending in 'm'. 'Goroda' means 'of the city'.
 - 'They brazenly hand out advertisements to our guests!' 'Naglo' means 'cheekily' or 'brazenly', and it's a sharp word. 'Nashim gostyam' is 'to our guests', where the 'm' ending shows who gets them.
-- 'Could they really be promising tastier food?' Surprise opens the question: 'could it really be that...'. 'More tasty' is built by putting 'more' in front of 'tasty', the way English does.
-- 'They write that with them it is much better.' 'U nikh' is 'at them', so 'with them'. 'Namnogo luchshe' is 'much better', and 'luchshe' is not a regular form: it's the word that stands for 'better' in everyday talk.
-- 'Chef, you should not be so nervous.' 'Ne nado' is 'no need'. 'Tak silno' is 'so strongly' and 'nervnichat' is 'to be nervous', both clear from the English.
-- 'I will go and chase away this insolent fellow.' 'Insolent' shares a root with 'brazenly'. The everyday word for 'a guy' sits in the second half.
+- 'Could they really be promising tastier food?' Surprise opens the question: 'could it really be that...'. 'Bolee vkusnuyu' is literally 'more tasty', with 'bolee', 'more', in front, the way English says 'more delicious'.
+- 'They write that with them it is much better.' 'U nikh' is 'at them', so 'with them'. 'Namnogo luchshe' is 'much better'. 'Luchshe' is irregular, like 'better' itself: it doesn't come from 'khoroshiy', good.
+- 'Chef, you should not be so nervous.' 'Ne nado' is 'no need'. 'Tak silno' is literally 'so strongly'. 'Nervnichat', to be nervous, is built on 'nerv', the same root as 'nerve'.
+- 'I will go and chase away this insolent fellow.' 'Naglogo' comes from the same root as 'naglo', brazenly, two lines back. 'Parnya' is from 'paren', the everyday word for 'a guy', in the object form.
 - 'We simply must show top quality.' 'Dolzhny' means 'must', and 'vysshy klass' is 'highest class'. 'Vysshy' is related to 'vysoky', high.
-- 'Our restaurant is the best in all Moscow!' 'The best' is 'better' with a different suffix. 'In all Moscow' uses 'vo' in place of 'v', since two consonants follow.
-- 'Not a single regular guest of ours will leave.' 'Ni odin' is 'not even one', with 'ni' pushing the 'no' further. 'Postoyanny' is 'regular' and also 'constant', and 'ne ukhodit' means 'will not leave'.
+- 'Our restaurant is the best in all Moscow!' 'Luchshiy' is 'the best', built on the same stem as 'luchshe', better. 'Vo vsey Moskve' is 'in all Moscow': 'v' becomes 'vo' before a word starting with 'vs', which would be hard to say otherwise.
+- 'Not a single regular guest of ours will leave.' 'Ni odin' is 'not even one', with 'ni' pushing the 'no' further. 'Postoyanny' is 'regular' and also 'constant', and 'ne uydyot' is 'will not leave', a future form, so it's a promise about what will happen.
 - 'Let them try opening properly first!' 'Pust' is 'let', so 'pust poprobuyut' is 'let them try'. 'Snachala' means 'first', and 'normalno' is 'properly'.
